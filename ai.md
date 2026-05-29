@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-29T06:15:09.508338+00:00'
+updated: '2026-05-29T10:29:47.085978+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 29, 2026 at 06:15 UTC  
+**Last Updated:** May 29, 2026 at 10:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,21 @@ AI news, discussions, and developments
 
 "For my team, the cost of compute is far beyond the costs of the employees."
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html) • 5h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html) • 9h ago
 
 ---
 
 **[Google reached AGI ?🚨🚨](https://www.reddit.com/r/artificial/comments/1tqimus/google_reached_agi/)**
 
-7h ago
+12h ago
 
 ---
 
-**[Bigger rewards dramatically speed up learning in the brain](https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/)**
+**[Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days](https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/)**
 
-Scientists found that larger rewards create longer dopamine signals that dramatically speed up learning in the brain.
+An AI startup ran five simulations, each controlled by a different model. The results varied wildly.
 
-🔗 [Earth.com](https://www.earth.com/news/bigger-rewards-dramatically-speed-up-learning-in-the-brain/) • 16h ago
-
----
-
-**[The OpenClaw crisis is the most complete case study of agentic AI security failure. Here's the full timeline and technical breakdown.](https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/)**
-
-OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chainable CVEs disclosed on May 15. But that was just the latest chapter. The crisis started in january and it's worse than most people realize. The numbers 245,000 instances exposed to the public internet (Shodan + ZoomEye scans) 30,000+ actively compromised and used by attackers (Flare) 1,184 malicious marketplace skills across 12 publisher accounts (Antiy Labs) 12% of the entire ClawHub marketplace was compromised 4 chainable CVEs including a CVSS 9.6 sandbox write escape (Cyera Research) 9 CVEs disclosed in a 4-day window in March 50,000+ instances exploitable via one-click RCE (CVE-2026-25253) The Claw Chain (Cyera Research, May 15) Four CVEs that chain together into a complete kill chain CVE-2026-44113 (CVSS 7.7) - TOCTOU filesystem read escape. Race condition lets you swap paths with symlinks to read outside the sandbox CVE-2026-44115 (CVSS 8.8) - Credential disclosure. Gap between command validation and shell execution leaks API keys through unquoted heredocs CVE-2026-44118 (CVSS 7.8) - MCP loopback privilege escalation. Trusts client-controlled senderIsOwner flag without session validation CVE-2026-44112 (CVSS 9.6) - Filesystem write escape. Same TOCTOU race in write ops. Backdoor placement on the host The chain malicious plugin -> read escape + credential theft -> privilege escalation -> persistent backdoor. Every step mimics normal agent behavior. Traditional monitoring cannot distinguish this from legitimate operations. ClawHavoc supply chain attack (Jan-Feb 2026) First malicious skill appeared January 27 By February 5, 1,184 malicious packages identified Skills disguised as crypto bots and productivity tools Installed keyloggers on Windows, Atomic Stealer on macOS 76 distinct malicious payloads ClawHub had zero verification for skill publishers until March 26 - eight weeks after the attack started Timeline Jan 27 - First malicious skill on ClawHub Feb 1 - Koi Security names "ClawHavoc" Feb 3 - CVE-2026-25253 (one-click RCE) disclosed Feb 5 - 1,184 malicious skills identified Feb 9 - 135K exposed instances found Feb 18 - 312K+ instances on default port Mar 18-21 - 9 CVEs in 4 days Mar 26 - ClawHub adds verified screening Apr 23 - Claw Chain patches released May 15 - Claw Chain research published What this means for all AI agent deployments the underlying problems are not unique to OpenClaw Agents running with user's full credentials across every connected system Marketplace/plugin ecosystems with no security review Sandbox implementations with race condition vulnerabilities No behavioral monitoring to detect multi-step attacks that mimic normal behavior Default configs exposing agents to the internet with no auth If you're running any AI agents in production, the OpenClaw crisis is your case study. Scan inputs at runtime. Isolate credentials per agent. Monitor behavior patterns, not just system metrics.
-
-18h ago
+🔗 [Fortune](https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/) • 4h ago
 
 ---
 
@@ -71,7 +63,23 @@ OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chai
 
 Large corporations are going to use AI regardless of what the public thinks. They have the money, lawyers, infrastructure, and data to do it. AI isn’t going away for them. But who gets hurt most when ordinary people are told not to use AI? The small business owner who can’t afford an artist to create a logo. The startup founder who can’t hire a copywriter to proofread every email. The family business that can’t pay an accountant for every tax question. The entrepreneur who can’t afford a programmer to build a website or a consultant to review a business plan. For the first time in history, a person with a good idea and a laptop can access tools that were previously reserved for companies with large budgets. I’m not saying AI is perfect. It makes mistakes, and there are legitimate concerns about its environmental impacts. But I do wonder: if AI dramatically lowers the cost of expertise, who stands to lose the most from that? The average person—or the organizations that have always had exclusive access to that expertise? Is the anti-AI push really just a push from big corporations to cut out those who stand the most to gain: small business owners?
 
-2h ago
+6h ago
+
+---
+
+**[Bigger rewards dramatically speed up learning in the brain](https://www.reddit.com/r/artificial/comments/1tq3pk8/bigger_rewards_dramatically_speed_up_learning_in/)**
+
+Scientists found that larger rewards create longer dopamine signals that dramatically speed up learning in the brain.
+
+🔗 [Earth.com](https://www.earth.com/news/bigger-rewards-dramatically-speed-up-learning-in-the-brain/) • 20h ago
+
+---
+
+**[The OpenClaw crisis is the most complete case study of agentic AI security failure. Here's the full timeline and technical breakdown.](https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/)**
+
+OpenClaw the open source AI agent platform with 346K+ GitHub stars had four chainable CVEs disclosed on May 15. But that was just the latest chapter. The crisis started in january and it's worse than most people realize. The numbers 245,000 instances exposed to the public internet (Shodan + ZoomEye scans) 30,000+ actively compromised and used by attackers (Flare) 1,184 malicious marketplace skills across 12 publisher accounts (Antiy Labs) 12% of the entire ClawHub marketplace was compromised 4 chainable CVEs including a CVSS 9.6 sandbox write escape (Cyera Research) 9 CVEs disclosed in a 4-day window in March 50,000+ instances exploitable via one-click RCE (CVE-2026-25253) The Claw Chain (Cyera Research, May 15) Four CVEs that chain together into a complete kill chain CVE-2026-44113 (CVSS 7.7) - TOCTOU filesystem read escape. Race condition lets you swap paths with symlinks to read outside the sandbox CVE-2026-44115 (CVSS 8.8) - Credential disclosure. Gap between command validation and shell execution leaks API keys through unquoted heredocs CVE-2026-44118 (CVSS 7.8) - MCP loopback privilege escalation. Trusts client-controlled senderIsOwner flag without session validation CVE-2026-44112 (CVSS 9.6) - Filesystem write escape. Same TOCTOU race in write ops. Backdoor placement on the host The chain malicious plugin -> read escape + credential theft -> privilege escalation -> persistent backdoor. Every step mimics normal agent behavior. Traditional monitoring cannot distinguish this from legitimate operations. ClawHavoc supply chain attack (Jan-Feb 2026) First malicious skill appeared January 27 By February 5, 1,184 malicious packages identified Skills disguised as crypto bots and productivity tools Installed keyloggers on Windows, Atomic Stealer on macOS 76 distinct malicious payloads ClawHub had zero verification for skill publishers until March 26 - eight weeks after the attack started Timeline Jan 27 - First malicious skill on ClawHub Feb 1 - Koi Security names "ClawHavoc" Feb 3 - CVE-2026-25253 (one-click RCE) disclosed Feb 5 - 1,184 malicious skills identified Feb 9 - 135K exposed instances found Feb 18 - 312K+ instances on default port Mar 18-21 - 9 CVEs in 4 days Mar 26 - ClawHub adds verified screening Apr 23 - Claw Chain patches released May 15 - Claw Chain research published What this means for all AI agent deployments the underlying problems are not unique to OpenClaw Agents running with user's full credentials across every connected system Marketplace/plugin ecosystems with no security review Sandbox implementations with race condition vulnerabilities No behavioral monitoring to detect multi-step attacks that mimic normal behavior Default configs exposing agents to the internet with no auth If you're running any AI agents in production, the OpenClaw crisis is your case study. Scan inputs at runtime. Isolate credentials per agent. Monitor behavior patterns, not just system metrics.
+
+23h ago
 
 ---
 
@@ -79,15 +87,15 @@ Large corporations are going to use AI regardless of what the public thinks. The
 
 If almost all jobs got replaced by AI, here's what happens: 1) Corporate revenue collapses - since humans do not have the means to buy product. It leads to demand destruction at an all-time level. 2) At the same time, there's a massive deflationary supply shock, thanks to democratization of production and the ubiquity of AI-led labor. The direct consequence of the aforementioned is: a price collapse, across the board. Which in turn, also leads to unprecedented tax revenue collapse. Who're you going to tax when no individual or corporate is making any money? To me, all this heralds a post-capitalism society, and not a "I-lost-my-job-and-I'm-now-poor" society. Once everyone loses their jobs, capitalism is over. Sure you can have an interim period of distress - where the world is transforming toward post-capitalism but isn't squarely there yet. But the final equilibrium intuitively feels more Star Trek (or Terminator, if you're a doomer), and much less Elysium or Ready Player One (few oligarchs, most population under poverty line). Correct me if I'm wrong.
 
-13h ago
+18h ago
 
 ---
 
-**[Anthropic releases Claude Opus 4.8 with improved agentic reasoning, honesty, and a new "dynamic workflows" feature in Claude Code](https://www.reddit.com/r/artificial/comments/1tq9l1z/anthropic_releases_claude_opus_48_with_improved/)**
+**[I integrated a local Llama 3.2 model to act as a dynamic Dungeon Master in my indie RPG.](https://www.reddit.com/r/artificial/comments/1tqsak1/i_integrated_a_local_llama_32_model_to_act_as_a/)**
 
-Anthropic just dropped Claude Opus 4.8 today, an incremental but meaningful upgrade over Opus 4.7. Here are the highlights: Model improvements Better performance across coding, agentic, reasoning, and knowledge work benchmarks Significantly improved honesty: the model is reportedly ~4x less likely to let flaws in its own code go unremarked compared to Opus 4.7 Alignment assessment shows lower rates of deceptive or misaligned behavior, on par with their Claude Mythos Preview model Scores 84% on Online-Mind2Web for computer use and browser agent tasks, ahead of both Opus 4.7 and GPT-5.5 New features launching alongside it Dynamic workflows (Claude Code): Claude can now spin up hundreds of parallel subagents in a single session to tackle large-scale problems like full codebase migrations. Available for Enterprise, Team, and Max plans. Effort control: Users on claude.ai can now choose how much compute effort Claude puts into a response, from faster/cheaper to deeper/slower. API update: The Messages API now accepts system entries inside the messages array, letting developers update instructions mid-task without breaking prompt cache. Pricing Same as Opus 4.7: $5/M input tokens, $25/M output tokens. Fast mode (2.5x speed) is now 3x cheaper than it was for previous models, at $10/$50 per million tokens. What's next Anthropic mentioned they are working on bringing Mythos-class models (currently in limited preview for cybersecurity use cases under Project Glasswing) to general availability in the coming weeks. Full details and system card: anthropic.com/news/claude-opus-4-8
+Hey everyone, I am not trying to sell or self promote mainly just wanted to showcase a big project I've been working on ever since I started studying data science and artificial intelligence and integrating AI into workflows and using it as an augment to create things that were previously out of reach for so many people, because if used right it can become a second brain and not a crutch. I’m the solo dev behind Void Runner, an isometric ARPG/MOBA hybrid built in Python. I recently hit a wall with traditional procedural quest generation. Hand-crafting templates gets repetitive fast, and players quickly learn the patterns to these things whether you like it or not. To solve this, I built the "Void Caller AI", a system that uses a local, quantized Llama 3.2 model to act as a dynamic Dungeon Master. Instead of just generating random flavor text, the system uses a lightweight RAG (Retrieval-Augmented Generation) pipeline. It reads live server telemetry (who died, what items were looted, which bosses were defeated recently) and weaves those actual server events into the narrative of the quests it generates. Because it runs locally via Ollama on our backend, there are no crazy cloud API costs, and latency is kept completely manageable. Here is a simplified look at how the Python backend bridges the SQLite telemetry with the Llama 3.2 prompt: import json import ollama from sqlalchemy import text from database import SessionLocal def generate_dynamic_quest(difficulty: str, target: str): db = SessionLocal() # 1. Fetch recent server telemetry for context (RAG-lite) lore_context = "" try: # Grab recent server events to weave into the narrative recent_events = db.execute(text( "SELECT username, event_type, dungeon_type FROM ai_events ORDER BY id DESC LIMIT 3" )).fetchall() if recent_events: events_str = "; ".join([f"Runner '{r[0]}' triggered a '{r[1]}' in '{r[2]}'" for r in recent_events]) lore_context = f" Incorporate this recent live server telemetry into the lore: {events_str}" except Exception as e: pass # 2. Construct the prompt with strict JSON formatting constraints prompt = f"""You are the Void Caller, a sinister AI in a dark industrial sci-fi RPG. Create a dynamic PvE extraction quest of {difficulty} difficulty. Respond ONLY in valid JSON with keys: 'title' (string), 'description' (string, menacing), 'item_name' (string), 'quantity' (integer 1-15), 'boss_name' (string, optional). {lore_context}""" # 3. Stream to local Llama 3.2 response = ollama.chat( model='llama3.2', messages=[{'role': 'user', 'content': prompt}], format='json', options={'temperature': 0.8} ) return json.loads(response['message']['content']) By forcing the format='json' parameter, Llama 3.2 reliably outputs structured data that my game engine instantly parses into a playable quest objective. If a player just died to a specific boss, the AI will literally generate a bounty quest for the rest of the server to avenge them. Would love to hear if anyone else is using local LLMs for live game state generation! You can check out the results live in our Open Beta at [void-runner.online].
 
-13h ago
+4h ago
 
 ---
 
@@ -95,21 +103,15 @@ Anthropic just dropped Claude Opus 4.8 today, an incremental but meaningful upgr
 
 I've been working on something others might find interesting. It's under heavy development as I learn. Most AI agent setups treat the model like a better autocomplete — paste a prompt, get output, hope it's right. That works for small tasks. It falls apart when you try to use agents for sustained work across sessions: they skim specs, declare victory at 60%, burn context on noise, silently resolve ambiguity without surfacing it, and mark checklist items done without actually doing them. The failures are predictable and nameable — so I named them. This is a white paper and implementation guide for a full-stack agentic system — everything from planning through promotion under structural enforcement. It documents 24 failure modes from months of multi-agent operation and, for each, describes what actually prevents it: some through mechanical gates the agent cannot skip, some through procedural skills, and some through human supervision. The guide covers how to structure specs, plans, and verification so that agent work is evidence-led rather than vibes-led, how to use MCP capability surfaces as structural levers, and how the failure modes apply regardless of which model or vendor you use. The white paper also includes a Related Work section that positions it against the emerging industry consensus — CodeRabbit, Anthropic, Spotify, Cloudflare, OpenAI, Karpathy, Thoughtworks, and academic research all independently arrived at pieces of the same conclusions. The difference here is the integrated stack: a failure taxonomy mapped to prevention mechanisms, a three-layer enforcement architecture, and a concrete reference implementation with an orchestrator, task graphs, step verification, adversarial review, and model stratification. White paper: https://gitlab.com/naive-x/naive-artifact-coding/-/blob/main/white-paper.md Reference implementation: https://gitlab.com/naive-x/naive-artifact-coding/-/blob/main/docs/reference-implementation-guide.md Implementation guide: https://gitlab.com/naive-x/naive-artifact-coding/-/blob/main/implementation-guide.md The methodology is language-agnostic. The reference implementation is in Common Lisp, but the architecture (orchestrator, supervisor, MCP servers, task graphs, event emission) doesn't assume any particular language or domain. There are companion specs for adapting it to enterprise workflows.
 
-5h ago
-
----
-
-**[Chase the next new thing or lock-in on one ecosystem?](https://www.reddit.com/r/artificial/comments/1tqf4i1/chase_the_next_new_thing_or_lockin_on_one/)**
-
-I love all the wild updates from Anthropic, Open AI, Google, etc. And also seeing the creative stuff that mid-market AI shops are rolling out. I sometimes go through phases where I ping-pong between new tools (mostly just curiosity) but sometimes I tend to go deeper into a specific ecosystem. Right now trying to go "all-in" on Claude but I'm like a cat and Open AI is the laser pointer with new Codex updates. What have you all found works best. Go wide and test everything? Different tools for different use cases. Go deep and specialize in one ecosystem?
-
 9h ago
 
 ---
 
-**[Experiment to see what happens when you let AI models run the world](https://www.reddit.com/r/artificial/comments/1tq5r1z/experiment_to_see_what_happens_when_you_let_ai/)**
+**[Anthropic releases Claude Opus 4.8 with improved agentic reasoning, honesty, and a new "dynamic workflows" feature in Claude Code](https://www.reddit.com/r/artificial/comments/1tq9l1z/anthropic_releases_claude_opus_48_with_improved/)**
 
-15h ago
+Anthropic just dropped Claude Opus 4.8 today, an incremental but meaningful upgrade over Opus 4.7. Here are the highlights: Model improvements Better performance across coding, agentic, reasoning, and knowledge work benchmarks Significantly improved honesty: the model is reportedly ~4x less likely to let flaws in its own code go unremarked compared to Opus 4.7 Alignment assessment shows lower rates of deceptive or misaligned behavior, on par with their Claude Mythos Preview model Scores 84% on Online-Mind2Web for computer use and browser agent tasks, ahead of both Opus 4.7 and GPT-5.5 New features launching alongside it Dynamic workflows (Claude Code): Claude can now spin up hundreds of parallel subagents in a single session to tackle large-scale problems like full codebase migrations. Available for Enterprise, Team, and Max plans. Effort control: Users on claude.ai can now choose how much compute effort Claude puts into a response, from faster/cheaper to deeper/slower. API update: The Messages API now accepts system entries inside the messages array, letting developers update instructions mid-task without breaking prompt cache. Pricing Same as Opus 4.7: $5/M input tokens, $25/M output tokens. Fast mode (2.5x speed) is now 3x cheaper than it was for previous models, at $10/$50 per million tokens. What's next Anthropic mentioned they are working on bringing Mythos-class models (currently in limited preview for cybersecurity use cases under Project Glasswing) to general availability in the coming weeks. Full details and system card: anthropic.com/news/claude-opus-4-8
+
+17h ago
 
 ---
 
@@ -117,73 +119,73 @@ I love all the wild updates from Anthropic, Open AI, Google, etc. And also seein
 
 ## Google News: "ai"
 
-**[AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)**
+**[Nvidia is investing billions into this emerging technology that could change the AI industry](https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html)**
 
-Axios • 20h ago
+Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.
 
----
-
-**[Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown](https://www.wsj.com/tech/ai/anthropic-valuation-openai-80bf2c0a)**
-
-WSJ • 9h ago
+CNBC • 5h ago
 
 ---
 
-**[Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round](https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html)**
+**[At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage](https://www.reuters.com/world/china/computex-nvidia-taiwans-expanding-role-ai-infrastructure-set-take-centre-stage-2026-05-29/)**
 
-Anthropic is now the most valuable AI company in Silicon Valley after a new $65 billion funding round.
-
-CNBC • 11h ago
+Reuters • 2h ago
 
 ---
 
-**[A.I.’s Big Next Step](https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html)**
-
-The New York Times • 9h ago
-
----
-
-**[Jupiter Fund Taps Europe’s AI Energy Boom to Beat 92% of Peers](https://www.bloomberg.com/news/articles/2026-05-29/jupiter-fund-taps-europe-s-ai-energy-boom-to-beat-92-of-peers)**
+**[Key Themes to Watch at Asia’s Biggest AI Tech Show](https://www.bloomberg.com/news/articles/2026-05-29/computex-2026-what-to-watch-from-nvidia-intel-at-asia-s-top-ai-tech-show)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Dana White's AI Blunder: Fans Call Out His Misleading Boxing Facts](https://sports.yahoo.com/articles/dana-whites-ai-blunder-fans-022039323.html)**
+**[AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)**
 
-Dana White uses erroneous ChatGPT facts to insult Matchroom's Eddie Hearn, and mistakes AI-edited image as real.
-
-Yahoo Sports • 19m ago
+Axios • 1d ago
 
 ---
 
-**[Nvidia is investing billions into this emerging technology that could change the AI industry](https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html)**
+**[Your phone is changing you—and you don’t even notice](https://www.scientificamerican.com/podcast/episode/how-smartphones-and-ai-are-reshaping-our-bodies-and-minds/)**
 
-Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.
+A new look at how everything from handwriting to AI quietly reshapes our bodies, habits and sense of connection
 
-CNBC • 1h ago
+Scientific American • 29m ago
 
 ---
 
-**[Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)**
+**[Opinion | AI With Chinese Characteristics](https://www.wsj.com/opinion/free-expression/ai-with-chinese-characteristics-4e4c8e56)**
 
-Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.
+WSJ • 15m ago
 
-Anthropic • 13h ago
+---
+
+**[Adobe’s conversational AI agent is a mediocre design intern](https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern)**
+
+Just give it the small jobs over any important work.
+
+The Verge • 29m ago
+
+---
+
+**[AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself](https://www.cnn.com/2026/05/29/tech/ai-voice-cloning-scams-protect-yourself)**
+
+A California mom says she was scammed out of thousands of dollars this month after receiving a call that sounded like her daughter in distress. She now suspects it was an artificial intelligence-generated hoax.
+
+CNN • 1h ago
 
 ---
 
 **[I Tried to Sell My House With A.I.](https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html)**
 
-The New York Times • 21h ago
+The New York Times • 1d ago
 
 ---
 
-**[Plots, love letters and remedies: The medieval secrets being revealed by AI](https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai)**
+**[Dell Shares Soar 40% After Outlook Tops Estimates on AI Boom](https://ca.finance.yahoo.com/news/dell-shares-soar-40-after-outlook-tops-estimates-on-ai-boom-000332694.html)**
 
-A 400-year-old coded text found at the Vatican Library is among the historic documents and messages that are being cracked with the help of artificial intelligence.
+(Bloomberg) -- Dell Technologies Inc. shares surged 38% in premarket trading Friday after the hardware maker gave an outlook for annual sales that far surpassed analysts’ estimates, fueled by demand for servers that power artificial intelligence work.Most Read from BloombergSingapore Hands Byju's Founder His First Ever Jail TermApple to Overhaul iOS 27 Siri, AI Features: Here's a First PeekCVS Returns Zepbound to Drug Plans After Lilly Slashes PriceUS, Iran Agree to 60-Day Truce Renewal Pending
 
-BBC • 20h ago
+Yahoo! Finance Canada • 10h ago
 
 ---
 
@@ -195,7 +197,7 @@ BBC • 20h ago
 
 I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was
 
-⬆️ 1971 • 💬 939 • 1d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+⬆️ 1974 • 💬 940 • 1d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 
 ---
 
@@ -203,7 +205,7 @@ I found GitHub repositories that were spreading malware. I asked AI what to do a
 
 We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
 
-⬆️ 1282 • 💬 780 • 1d ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+⬆️ 1288 • 💬 790 • 1d ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 ---
 
@@ -211,7 +213,7 @@ We've heard consistently from our community that they value transparency when it
 
 "People just want a choice."
 
-⬆️ 1050 • 💬 510 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+⬆️ 1052 • 💬 512 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 ---
 
@@ -219,7 +221,15 @@ We've heard consistently from our community that they value transparency when it
 
 "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
 
-⬆️ 710 • 💬 350 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+⬆️ 712 • 💬 352 • 1d ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+
+---
+
+**[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://news.ycombinator.com/item?id=48308376)**
+
+A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?
+
+⬆️ 328 • 💬 134 • 21h ago • [llmgame.scalex.dev](https://llmgame.scalex.dev)
 
 ---
 
@@ -229,35 +239,11 @@ We've heard consistently from our community that they value transparency when it
 
 ---
 
-**[Uber president says AI spending is getting 'harder to justify'](https://news.ycombinator.com/item?id=48277485)**
-
-﻿There’s no clear connection between AI usage and productivity.
-
-⬆️ 303 • 💬 158 • 2d ago • [The Verge](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
-
----
-
-**[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://news.ycombinator.com/item?id=48308376)**
-
-A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?
-
-⬆️ 285 • 💬 119 • 17h ago • [llmgame.scalex.dev](https://llmgame.scalex.dev)
-
----
-
-**[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
-
-I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
-
-⬆️ 211 • 💬 143 • 1d ago • [posthog.com](https://posthog.com/blog/training-ai-models)
-
----
-
 **[Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://news.ycombinator.com/item?id=48314363)**
 
 Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have been saying all along that there won’t be a white-collar wipeout.
 
-⬆️ 199 • 💬 157 • 10h ago • [Fortune](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
+⬆️ 214 • 💬 165 • 14h ago • [Fortune](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 
 ---
 
@@ -265,7 +251,21 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 The guests behind the bookings have received negative reviews from a number of Bay Area hosts, alleging they damaged the property and personal belongings.
 
-⬆️ 170 • 💬 81 • 6h ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+⬆️ 213 • 💬 104 • 10h ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+
+---
+
+**[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
+
+I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
+
+⬆️ 212 • 💬 143 • 1d ago • [posthog.com](https://posthog.com/blog/training-ai-models)
+
+---
+
+**[AI sticker shock hits corporate America](https://news.ycombinator.com/item?id=48307098)**
+
+⬆️ 160 • 💬 139 • 23h ago • [axios.com](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
 
 ---
 
@@ -279,7 +279,7 @@ sponsored Get you free 1-month trial of Bitdefender https://odiencetrck.com/clk.
 
 📺 AI Master
 
-👁️ 6K • 👍 201 • 💬 19 • ⏱️ 21:42 • 15h ago
+👁️ 8K • 👍 217 • 💬 22 • ⏱️ 21:42 • 19h ago
 
 ---
 
@@ -289,37 +289,7 @@ Eliezer Yudkowsky, who has spent 30 years on the AI safety problem, makes a firm
 
 📺 Neural Nutshell
 
-👁️ 16K • 👍 470 • 💬 116 • ⏱️ 22:04 • 1d ago
-
----
-
-**[Master AI Films In 9 Minutes (AI Filmmaking Tutorial)](https://www.youtube.com/watch?v=DfdlAwJ4SKw)**
-
-Seedance 2.0 Creates INSANE AI Short Films - here's how to make them! Create your AI Film ...
-
-📺 Mira AI
-
-👁️ 9K • ⏱️ 9:16 • 13h ago
-
----
-
-**[Linda McMahon shuts down Randi Weingarten’s A.I. warnings | National Report](https://www.youtube.com/watch?v=fQuVTiyQxXo)**
-
-Education Secretary Linda McMahon joined “National Report” to discuss the future of artificial intelligence in American classrooms ...
-
-📺 Newsmax
-
-👁️ 4K • 👍 442 • 💬 78 • ⏱️ 4:31 • 15h ago
-
----
-
-**[We Saw What AI Data Centers Don&#39;t Want You to See](https://www.youtube.com/watch?v=5p426fSlYH4)**
-
-We investigated one of the world's largest AI data centers, using thermal drone footage to reveal the hidden pollution powering the ...
-
-📺 PBS Terra
-
-👁️ 208K • 👍 12K • 💬 2K • ⏱️ 21:45 • 14h ago
+👁️ 17K • 👍 481 • 💬 118 • ⏱️ 22:04 • 1d ago
 
 ---
 
@@ -329,7 +299,47 @@ Try Hapax here: https://askhapax.ai/?utm_source=wes_roth&utm_medium=youtube&utm_
 
 📺 Wes Roth
 
-👁️ 23K • 👍 720 • 💬 351 • ⏱️ 32:46 • 23h ago
+👁️ 24K • 👍 732 • 💬 361 • ⏱️ 32:46 • 1d ago
+
+---
+
+**[AI Quietly Ruined These People&#39;s Lives](https://www.youtube.com/watch?v=pdoifbNBMjM)**
+
+AI was supposed to make life easier, but what happens when it goes wrong? This video explores a situation where a car's artificial ...
+
+📺 ThumbSized Facts
+
+👁️ 410K • 👍 15K • 💬 273 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[How to actually make money with AI in 2026](https://www.youtube.com/watch?v=TWuzAO7ukk0)**
+
+Want my AI Tech Stack? Get it here: https://go.danmartell.com/4nUvaZi Are you building an AI software company? Partner with ...
+
+📺 Dan Martell
+
+👁️ 33K • 👍 2K • 💬 123 • ⏱️ 14:06 • 21h ago
+
+---
+
+**[Google Just Dropped a Free AI Tool Nobody&#39;s Talking About (Pomelli)](https://www.youtube.com/watch?v=WeFJzppMOyI)**
+
+The full step-by-step guide is free in my WhatsApp community https://links.stayingahead.com/YT35 WATCH NEXT — The ...
+
+📺 Vaibhav Sisinty
+
+👁️ 46K • 👍 2K • 💬 94 • ⏱️ 20:38 • 17h ago
+
+---
+
+**[Google Just Dropped The Singularity Bomb](https://www.youtube.com/watch?v=BH5_FEJNOGY)**
+
+Google DeepMind's Demis Hassabis says humanity may already be standing in the foothills of the singularity. AI agents are now ...
+
+📺 AI Revolution
+
+👁️ 28K • 👍 1K • 💬 123 • ⏱️ 13:24 • 11h ago
 
 ---
 
@@ -339,37 +349,27 @@ Shark Tank's Kevin O'Leary and political commentator Cenk Uygur go head to head 
 
 📺 The Diary Of A CEO
 
-👁️ 516K • 👍 16K • 💬 6K • ⏱️ 1:43:32 • 23h ago
+👁️ 572K • 👍 17K • 💬 6K • ⏱️ 1:43:32 • 1d ago
 
 ---
 
-**[They Teach AI Music at Music School Now...](https://www.youtube.com/watch?v=EfeGc02nzC4)**
+**[We Saw What AI Data Centers Don&#39;t Want You to See](https://www.youtube.com/watch?v=5p426fSlYH4)**
 
-Berklee College of Music now teaches classes in AI songwriting, and that's a really dumb idea. 0:00 Intro 0:43 Student Backlash ...
+We investigated one of the world's largest AI data centers, using thermal drone footage to reveal the hidden pollution powering the ...
 
-📺 Adam Neely
+📺 PBS Terra
 
-👁️ 143K • 👍 13K • 💬 2K • ⏱️ 18:17 • 18h ago
-
----
-
-**[A.I. Futurist: What Your Life Looks Like In 2028](https://www.youtube.com/watch?v=tBiO8A4tj9I)**
-
-After a full year of being told AI was going to wipe out jobs, the collapse hasn't happened. At least not yet. Unemployment hasn't ...
-
-📺 Mighty Pursuit
-
-👁️ 18K • 👍 398 • 💬 124 • ⏱️ 2:02:32 • 2d ago
+👁️ 259K • 👍 13K • 💬 2K • ⏱️ 21:45 • 18h ago
 
 ---
 
-**[China’s Plan To POP U.S. AI Bubble Goes Global — Cheap Chips FLOOD &amp; Talent Freeze Begins](https://www.youtube.com/watch?v=9_eG-uEtc0k)**
+**[Linda McMahon shuts down Randi Weingarten’s A.I. warnings | National Report](https://www.youtube.com/watch?v=fQuVTiyQxXo)**
 
-Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the code: SEANFOO at checkout The Chip War has ...
+Education Secretary Linda McMahon joined “National Report” to discuss the future of artificial intelligence in American classrooms ...
 
-📺 Sean Foo
+📺 Newsmax
 
-👁️ 70K • 👍 5K • 💬 743 • ⏱️ 13:28 • 1d ago
+👁️ 4K • 👍 445 • 💬 78 • ⏱️ 4:31 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 15,629 • ❤️ 506 • 3d ago
+⬇️ 23,629 • ❤️ 523 • 3d ago
 
 ---
 
@@ -395,7 +395,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 371 • 3d ago
+⬇️ 0 • ❤️ 381 • 3d ago
 
 ---
 
@@ -407,7 +407,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 2,506 • ❤️ 958 • 23h ago
+⬇️ 2,738 • ❤️ 965 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,956,558 • ❤️ 1,013 • 1mo ago
+⬇️ 2,114,938 • ❤️ 1,021 • 1mo ago
 
 ---
 
@@ -431,7 +431,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,755 • ❤️ 239 • 1d ago
+⬇️ 7,861 • ❤️ 285 • 2d ago
 
 ---
 
@@ -443,7 +443,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 13,855 • ❤️ 432 • 8d ago
+⬇️ 14,727 • ❤️ 439 • 9d ago
 
 ---
 
@@ -455,7 +455,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,281,601 • ❤️ 4,410 • 23d ago
+⬇️ 5,836,444 • ❤️ 4,420 • 23d ago
 
 ---
 
@@ -467,7 +467,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 121,862 • ❤️ 401 • 8d ago
+⬇️ 131,828 • ❤️ 403 • 8d ago
 
 ---
 
@@ -479,19 +479,19 @@ Supertonic 3 is a lightning-fast, on-device text-to-speech model supporting 31 l
 
 `text-to-speech`
 
-⬇️ 52,022 • ❤️ 730 • 10d ago
+⬇️ 53,824 • ❤️ 732 • 11d ago
 
 ---
 
-**[Qwopus3.6-27B-v2-GGUF](https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF)**
+**[Hy-MT2-30B-A3B](https://huggingface.co/tencent/Hy-MT2-30B-A3B)**
 
-*Jackrong*
+*Tencent*
 
-Qwopus3.6-27B-v2 is a multimodal, 27B parameter language model fine-tuned on Qwen3.6-27B, excelling at image-to-text generation and complex reasoning tasks by reconstructing structured chain-of-thought reasoning. It supports tool use and long contexts, making it suitable for agentic applications and advanced analysis.
+Hy-MT2-30B-A3B is a large-scale (30B parameters, MoE) multilingual translation model supporting 33 languages. It excels in general, business, and instruction-following translation tasks, outperforming leading open-source models and commercial APIs.
 
-`image-text-to-text` `27.3B`
+`translation` `30.1B`
 
-⬇️ 24,336 • ❤️ 175 • 1d ago
+⬇️ 3,084 • ❤️ 419 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ Qwopus3.6-27B-v2 is a multimodal, 27B parameter language model fine-tuned on Qwe
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 195 • 💬 3 • ⭐ 2,277 • 7d ago
+▲ 199 • 💬 3 • ⭐ 2,277 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -531,7 +531,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 35 • 💬 3 • ⭐ 27,137 • 9mo ago
+▲ 35 • 💬 3 • ⭐ 27,137 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -544,9 +544,23 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 164 • 💬 2 • ⭐ 65,476 • 8mo ago
+▲ 164 • 💬 2 • ⭐ 65,564 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[MOSS-TTS Technical Report](https://huggingface.co/papers/2603.18090)**
+
+*Yitian Gong, Botian Jiang, Yiwei Zhao et al. (26 authors)*
+
+🏢 OpenMOSS
+
+MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages.
+
+▲ 14 • 💬 2 • ⭐ 2,384 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.18090) • [💻 code](https://github.com/OpenMOSS/MOSS-TTS) • [🔗 project](https://mosi.cn/models/moss-tts)
 
 ---
 
@@ -557,23 +571,36 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 78 • 💬 7 • ⭐ 75,169 • 22mo ago
+▲ 78 • 💬 7 • ⭐ 75,226 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
-**[TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction](https://huggingface.co/papers/2605.26115)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Weijie Wang, Zimu Li, Jinchuan Shi et al. (8 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-🏢 Zhejiang University
+🏢 PaddlePaddle
 
-TriSplat is a feed-forward 3D reconstruction network that uses oriented triangle primitives to directly generate simulation-ready meshes from single images, bypassing expensive post-processing steps.
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 46 • 💬 2 • ⭐ 192 • 4d ago
+▲ 128 • 💬 8 • ⭐ 78,935 • 7mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2605.26115) • [💻 code](https://github.com/ziplab/TriSplat) • [🔗 project](https://lhmd.top/trisplat/#interactive)
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders](https://huggingface.co/papers/2408.15998)**
+
+*Min Shi, Fuxiao Liu, Shihao Wang et al. (15 authors)*
+
+Mixture of vision encoders and resolutions in multimodal large language models improves performance through concatenation of visual tokens and a Pre-Alignment mechanism, leading to superior results on benchmarks.
+
+▲ 86 • 💬 3 • ⭐ 1,321 • 21mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2408.15998) • [💻 code](https://github.com/nvlabs/eagle)
 
 ---
 
@@ -586,48 +613,23 @@ TriSplat is a feed-forward 3D reconstruction network that uses oriented triangle
 
 SANA-Video, a small diffusion model, efficiently generates high-resolution, high-quality videos with strong text-video alignment using linear attention and a constant-memory KV cache, achieving competitive performance at a lower cost and faster speed.
 
-▲ 53 • 💬 2 • ⭐ 7,883 • 8mo ago
+▲ 53 • 💬 2 • ⭐ 7,924 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.24695) • [💻 code](https://github.com/NVlabs/Sana) • [🔗 project](https://nvlabs.github.io/Sana/Video)
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+**[TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction](https://huggingface.co/papers/2605.26115)**
 
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+*Weijie Wang, Zimu Li, Jinchuan Shi et al. (8 authors)*
 
-🏢 PaddlePaddle
+🏢 Zhejiang University
 
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+TriSplat is a feed-forward 3D reconstruction network that uses oriented triangle primitives to directly generate simulation-ready meshes from single images, bypassing expensive post-processing steps.
 
-▲ 128 • 💬 8 • ⭐ 78,866 • 7mo ago
+▲ 47 • 💬 2 • ⭐ 197 • 4d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 57 • 💬 1 • ⭐ 81,295 • 32mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 57 • 💬 2 • ⭐ 57,009 • 13mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+[🎓 arXiv](https://arxiv.org/abs/2605.26115) • [💻 code](https://github.com/ziplab/TriSplat) • [🔗 project](https://lhmd.top/trisplat/#interactive)
 
 ---
 
@@ -641,7 +643,15 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.3k • 🔱 530 • 3h ago
+⭐ 5.3k • 🔱 533 • 7h ago
+
+---
+
+**[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)**
+
+A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
+
+⭐ 2.8k • 🔱 587 • 4d ago
 
 ---
 
@@ -651,15 +661,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 187 • 3h ago
-
----
-
-**[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)**
-
-A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
-
-⭐ 2.7k • 🔱 580 • 3d ago
+⭐ 2.8k • 🔱 187 • 2h ago
 
 ---
 
@@ -669,7 +671,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 396 • 7d ago
+⭐ 2.4k • 🔱 397 • 7d ago
 
 ---
 
@@ -689,17 +691,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 140 • 13h ago
-
----
-
-**[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)**
-
-AI coding jargon, explained in plain English.
-
-`TypeScript`
-
-⭐ 1.9k • 🔱 224 • 21d ago
+⭐ 2.1k • 🔱 140 • 22m ago
 
 ---
 
@@ -709,7 +701,27 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 1.9k • 🔱 197 • 4d ago
+⭐ 1.9k • 🔱 200 • 4d ago
+
+---
+
+**[mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)**
+
+AI coding jargon, explained in plain English.
+
+`TypeScript`
+
+⭐ 1.9k • 🔱 224 • 22d ago
+
+---
+
+**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
+
+Task-oriented AI Agent productivity platform
+
+`TypeScript`
+
+⭐ 1.8k • 🔱 156 • 55m ago
 
 ---
 
@@ -720,16 +732,6 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
 ⭐ 1.8k • 🔱 204 • 2d ago
-
----
-
-**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
-
-Task-oriented AI Agent productivity platform
-
-`TypeScript`
-
-⭐ 1.7k • 🔱 142 • 47s ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-29T06:15:09.515833+00:00'
+updated: '2026-05-29T10:29:47.093602+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 29, 2026 at 06:15 UTC  
+**Last Updated:** May 29, 2026 at 10:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,707.65
+### $73,705.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -4.0%  
+**24h:** +0.2%  
+**7d:** -4.1%  
 **30d:** -3.5%  
 **90d:** +12.1%  
 **1y:** -29.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1473.88B
+**Market Cap:** $1473.49B
 Rank #1
 
-**Circulating Supply:** 20,035,975 BTC
+**Circulating Supply:** 20,035,990 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--41.6%
+-41.7%
 
 **All-Time Low:** $67.81
-+108404.6%
++108353.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 A pseudonymous claimant, “Noah Doe,” alongside two Wyoming LLCs, has filed a lawsuit in New York Supreme Court seeking recognition as the rightful owner of 39,069 dormant Bitcoin addresses containing roughly 3.8 million BTC—valued at about $293 billion.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin) • 8h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin) • 13h ago
 
 ---
 
@@ -89,55 +89,15 @@ A pseudonymous claimant, “Noah Doe,” alongside two Wyoming LLCs, has filed a
 
 Started in 2023. Bought ASICs thinking I'd build a side income for my family. Ended up with 9 ASICs and 3 GPU rigs running in my basement. Sounded like a beehive down there. Eventually moved to immersion cooling just to keep the peace at home. Something happened while i was trying to make the operation profitable. I started learning what Bitcoin actually is. Not the price. The blockchain. The supply cap. Why it exists. I was already feeling the weight of the fiat system in my own life. Bitcoin started making sense in a way it never had when I was just holding it on an exchange. Mining killed my price anxiety. When you understand how blocks get produced, how difficulty adjusts, the number on the screen stops feeling like a verdict. Its just where the market is today. We shut down in late 2025. Electricity made it unprofitable. Felt like relief and loss at the same time. That operation brought me most of the Bitcoin I own. I'll get back into it someday. Anyone else come through mining? Curious how many people's conviction got built the same way.
 
-17h ago
+21h ago
 
 ---
 
-**[The strongest argument against Bitcoin would be a fiat system that actually worked](https://www.reddit.com/r/Bitcoin/comments/1tq4h5a/the_strongest_argument_against_bitcoin_would_be_a/)**
+**[Best crypto card in 2026 for actually using my holdings?](https://www.reddit.com/r/Bitcoin/comments/1tqtgz7/best_crypto_card_in_2026_for_actually_using_my/)**
 
-Most Bitcoin discussions start from the assumption that fiat currencies are fundamentally broken. But let us stop and steelman fiat, for once. A well-functioning fiat system has real advantages. Centralized monetary systems are more resource-efficient, easier to coordinate, and can respond quickly during crises. In theory, they can provide stable purchasing power, fast payments, financial stability, and predictable rules without needing a decentralized alternative. The problem seems less about the design itself and more about sustaining discipline over long periods of time. Monetary systems are run by people and institutions under political and economic pressure. Historically, debasement, monetary expansion, and rule changes tend to appear repeatedly during periods of stress. Bitcoin seems to start from a different assumption. Fiat assumes long-term discipline from people in power. Bitcoin assumes that discipline eventually fails. Do you think that is a fair steelman of both systems, or is there an important advantage or weakness on either side that this framing misses?
+I’ve been holding crypto since 2021, mostly BTC, but honestly I’m getting tired of just letting it sit there. Every time I want to actually use it, it feels like a whole process. Move funds to an exchange, convert to fiat, deal with fees, wait for withdrawals, then finally spend it. At that point it barely feels convenient anymore. I’m starting to look into crypto cards because some of them now claim you can spend BTC directly at normal merchants. Some even say you can connect an external wallet and use it anywhere Visa or Mastercard is accepted, which sounds good if the fees aren’t terrible.
 
-🔗 [Myntad](https://www.myntad.com/bullish-case-for-fiat/) • 16h ago
-
----
-
-**[this is why i don’t trust banks anymore](https://www.reddit.com/r/Bitcoin/comments/1tpvtav/this_is_why_i_dont_trust_banks_anymore/)**
-
-bank pulled $1200 out of my account by mistake. same second, account goes negative, they slap me with $70 in overdraft interest. called them. “oh sorry, our bad.” got the $1200 back. the $70? still waiting. been weeks. their mistake. my money. and somehow i’m the one out 70 bucks. this is why i’m stacking sats.
-
-23h ago
-
----
-
-**[Kraken Launches Bitcoin Vault With up to 2.5% Annual Yield](https://www.reddit.com/r/Bitcoin/comments/1tq12y0/kraken_launches_bitcoin_vault_with_up_to_25/)**
-
-Kraken launched Bitcoin Vault, offering up to 2.5% annual BTC yield through integrated DeFi lending.
-
-🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/kraken-bitcoin-vault-yield) • 18h ago
-
----
-
-**[Using Bitcoin in Canada without Capital Gains](https://www.reddit.com/r/Bitcoin/comments/1tqj5fb/using_bitcoin_in_canada_without_capital_gains/)**
-
-Good afternoon everyone, I have an interesting question that I have been wrestling with over and over. How do I use Bitcoin in Canada without running into issues with Capital Gains taking a portion of my earnings. My struggle is that according to the capital gains laws, an purchase of goods or services with an asset that has appreciated is taxable. So technically you can buy bitcoin tax free through an exchange but as soon as you use it on anything in Canada you "should" be taxed. If you have any information or tips or stories please comment below, because I am super curious how people make it work.
-
-7h ago
-
----
-
-**[Would you use a Bitcoin multisig vault where the company can't see your data?](https://www.reddit.com/r/Bitcoin/comments/1tqpzg3/would_you_use_a_bitcoin_multisig_vault_where_the/)**
-
-I'm building a collaborative-custody 2 of 3 multisig Bitcoin vault and want to test the waters to see if anyone would be interested. Privacy is the whole point. Encryption happens on your device, the keys never leave it, and our servers only ever see ciphertext. We couldn't read your data if we wanted to. It's a 2-of-3 multisig: you hold two hardware-wallet keys, the service holds one. So: We can't move your funds — our key is 1 of 3, never enough alone. We can't see your data — all the crypto runs in your browser; our server only stores ciphertext it can't decrypt (xpubs, descriptor, labels, even balances). You can always recover without us — it's a standard wsh(sortedmulti) descriptor you can sweep in Sparrow with your two keys, with or without us. You set the spending rules when the service key is used — address allowlists, 24h limits, and time-locks on the service key. Changing a rule needs a signature from your hardware wallet, so a stolen login can't loosen your own guardrails. The policy itself is encrypted too — we enforce it without being able to read it. The difference from most vault/custody services: if a company can show you a total "assets under custody" number or charge you based on the amount you hold, it can read every customer's holdings. We can't produce that number from data we can't decrypt. We genuinely don't know how much you hold. For those who are already using other multisig Bitcoin vault services would something like this be useful to you? What would it take for you to trust it? I'm aiming to launch in the next 1-3 weeks and I'm looking for beta testers. If you want early access, let me know.
-
-2h ago
-
----
-
-**[Exit 6 ₿oss Market & Kitchen](https://www.reddit.com/r/Bitcoin/comments/1tqdtev/exit_6_oss_market_kitchen/)**
-
-From abandoned drive-thru to community destination. ₿oss Market & Kitchen is slowly coming to life at Exit 6 in Chester, PA. ✅ Windows repaired ✅ Cleanup underway ✅ Kitchen restoration started ✅ Outdoor market planning ✅ Bitcoin accepted from day one The vision: Drive-thru food Outdoor produce market Bitcoin education Community events Real-world Bitcoin usage Trying to build something different for Chester. Progress one step at a time
-
-10h ago
+3h ago
 
 ---
 
@@ -145,15 +105,55 @@ From abandoned drive-thru to community destination. ₿oss Market & Kitchen is s
 
 My solar panels create more electricity than I can use, what is a good suggestion for a setup for mining when electricity is free?
 
-58m ago
+5h ago
 
 ---
 
-**[12 words is your wallet. Here is how serious people back them up.](https://www.reddit.com/r/Bitcoin/comments/1tq2rs5/12_words_is_your_wallet_here_is_how_serious/)**
+**[The strongest argument against Bitcoin would be a fiat system that actually worked](https://www.reddit.com/r/Bitcoin/comments/1tq4h5a/the_strongest_argument_against_bitcoin_would_be_a/)**
 
-Your seed phrase is your wallet. Wallet software, hardware device, list of addresses, transaction history: all derivable from the seed. Lose the words, lose every key, lose every bitcoin those keys ever controlled. Three threats sit on every Bitcoin backup: theft, loss, coercion. The hard part is that defending one often weakens defense against the others. Keep the seed at home (no third-party loss) and you make theft easier. Use a passphrase to protect against theft and you can forget it and lose everything. Distribute shares to family to defend against coercion of any one person and any family member becomes a coercion target. Paper is the floor. Pencil on acid-free paper, multiple copies in separated locations; fine for amounts under five figures. Metal is the standard for serious wallets; stainless or titanium, survives fire, water, and decades. Passphrase adds a "25th word" that produces an entirely different wallet from the same seed. The seed alone leads to a wallet with no funds (theft defense); fund the no-passphrase wallet with a small believable amount and it becomes a decoy (plausible deniability under coercion). Shamir Secret Sharing splits the seed into M-of-N shares; any M reconstructs, any (M-1) reveals nothing. Multisig moves you past single-key entirely; 2-of-3 with three different vendors means loss or theft of any one key still leaves your bitcoin safe. There is no single best Bitcoin backup. There is the backup that fits your threats and amounts. Our newest addition to the rabbit-hole series walks the menu, with photos of real hardware (steel tubes, stamped plates, SLIP-39 share cards, multisig HW lineups), a embedded animation showing how 2-of-3 multisig actually works, and the tradeoffs at each tier. Down the rabbit hole: https://www.learnbitcoin.com/rabbit-hole/seed-backup-strategies Open source. Bitcoin only. No bullshit. Have fun.
+Most Bitcoin discussions start from the assumption that fiat currencies are fundamentally broken. But let us stop and steelman fiat, for once. A well-functioning fiat system has real advantages. Centralized monetary systems are more resource-efficient, easier to coordinate, and can respond quickly during crises. In theory, they can provide stable purchasing power, fast payments, financial stability, and predictable rules without needing a decentralized alternative. The problem seems less about the design itself and more about sustaining discipline over long periods of time. Monetary systems are run by people and institutions under political and economic pressure. Historically, debasement, monetary expansion, and rule changes tend to appear repeatedly during periods of stress. Bitcoin seems to start from a different assumption. Fiat assumes long-term discipline from people in power. Bitcoin assumes that discipline eventually fails. Do you think that is a fair steelman of both systems, or is there an important advantage or weakness on either side that this framing misses?
 
-17h ago
+🔗 [Myntad](https://www.myntad.com/bullish-case-for-fiat/) • 20h ago
+
+---
+
+**[Would you use a Bitcoin multisig vault where the company can't see your data?](https://www.reddit.com/r/Bitcoin/comments/1tqpzg3/would_you_use_a_bitcoin_multisig_vault_where_the/)**
+
+I'm building a collaborative-custody 2 of 3 multisig Bitcoin vault and want to test the waters to see if anyone would be interested. Privacy is the whole point. Encryption happens on your device, the keys never leave it, and our servers only ever see ciphertext. We couldn't read your data if we wanted to. It's a 2-of-3 multisig: you hold two hardware-wallet keys, the service holds one. So: We can't move your funds — our key is 1 of 3, never enough alone. We can't see your data — all the crypto runs in your browser; our server only stores ciphertext it can't decrypt (xpubs, descriptor, labels, even balances). You can always recover without us — it's a standard wsh(sortedmulti) descriptor you can sweep in Sparrow with your two keys, with or without us. You set the spending rules when the service key is used — address allowlists, 24h limits, and time-locks on the service key. Changing a rule needs a signature from your hardware wallet, so a stolen login can't loosen your own guardrails. The policy itself is encrypted too — we enforce it without being able to read it. The difference from most vault/custody services: if a company can show you a total "assets under custody" number or charge you based on the amount you hold, it can read every customer's holdings. We can't produce that number from data we can't decrypt. We genuinely don't know how much you hold. For those who are already using other multisig Bitcoin vault services would something like this be useful to you? What would it take for you to trust it? I'm aiming to launch in the next 1-3 weeks and I'm looking for beta testers. If you want early access, let me know.
+
+6h ago
+
+---
+
+**[this is why i don’t trust banks anymore](https://www.reddit.com/r/Bitcoin/comments/1tpvtav/this_is_why_i_dont_trust_banks_anymore/)**
+
+bank pulled $1200 out of my account by mistake. same second, account goes negative, they slap me with $70 in overdraft interest. called them. “oh sorry, our bad.” got the $1200 back. the $70? still waiting. been weeks. their mistake. my money. and somehow i’m the one out 70 bucks. this is why i’m stacking sats.
+
+1d ago
+
+---
+
+**[Kraken Launches Bitcoin Vault With up to 2.5% Annual Yield](https://www.reddit.com/r/Bitcoin/comments/1tq12y0/kraken_launches_bitcoin_vault_with_up_to_25/)**
+
+Kraken launched Bitcoin Vault, offering up to 2.5% annual BTC yield through integrated DeFi lending.
+
+🔗 [CoinMarketCap Academy](https://coinmarketcap.com/academy/article/kraken-bitcoin-vault-yield) • 22h ago
+
+---
+
+**[Daily Discussion, May 29, 2026](https://www.reddit.com/r/Bitcoin/comments/1tqsptv/daily_discussion_may_29_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+4h ago
+
+---
+
+**[Global liquidity is the macro signal most Bitcoin investors overlook — so I built an app for it](https://www.reddit.com/r/Bitcoin/comments/1tquwim/global_liquidity_is_the_macro_signal_most_bitcoin/)**
+
+Most Bitcoin investors watch price. Few watch what drives it. Global liquidity — M2, Fed balance sheet, Reverse Repo, TGA, credit spreads — has historically led Bitcoin by weeks to months. When liquidity expands, Bitcoin tends to follow. When it contracts, Bitcoin feels it first. I built LiquidityPulse to track exactly this. It combines these signals into one daily regime score and shows the key drivers behind it. There's also lead-lag charts so you can see how liquidity has historically moved before Bitcoin. Free live dashboard at liquiditypulse.net — worth checking what the current regime says. Curious: do you track global liquidity as part of your Bitcoin thesis? Or purely on-chain / technical analysis?
+
+2h ago
 
 ---
 
@@ -161,23 +161,41 @@ Your seed phrase is your wallet. Wallet software, hardware device, list of addre
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Falls to Five-Week Low Amid Iran War Jitters, ETF Outflows](https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows)**
+**[Calamos bets protected Bitcoin ETFs can outlast crypto market swings](https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings)**
 
-Bloomberg.com • 19h ago
+As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.
+
+CoinDesk • 12h ago
 
 ---
 
 **[The Bitcoin Lost-and-Found](https://www.bloomberg.com/opinion/newsletters/2026-05-28/the-bitcoin-lost-and-found)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 17h ago
 
 ---
 
-**[Anthony Pompliano Calls Bitcoin A 'Dog With Fleas' And That's Why People 'Should Be Interested'— But Is The Crypto Market 'Broken'?](https://uk.finance.yahoo.com/news/anthony-pompliano-calls-bitcoin-dog-050753794.html)**
+**[Is Bitcoin Dead? Here Are 3 Reasons It Might Be.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dead-3-reasons-might-082000306.html)**
 
-Anthony Pompliano, CEO of Professional Capital Management, suggested on Thursday that buying Bitcoin (CRYPTO: BTC) when it's out of favor could be a good contrarian play. Will An Underwhelming BTC Excite Investors? In a CNBC Squawk Box interview, Pompliano likened Bitcoin to “a dog with fleas,” acknowledging its recent underperformance. The Bitcoin bull noted that AI-linked names are “flying,” and investors are chasing that momentum. “Usually the thing that you want to be buying is the thing tha
+Is this the end of the show for Bitcoin, or just an awkward intermission between acts?
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[GOP lawmakers' portfolios are migrating to Trump favorites like Intel and bitcoin](https://finance.yahoo.com/economy/policy/article/gop-lawmakers-portfolios-are-migrating-to-trump-favorites-like-intel-and-bitcoin-100000503.html)**
+
+Republican lawmakers' brokerage accounts have undergone a significant shift as GOP members of Congress load up on investments into areas touted by President Trump.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[$7.5 Billion in Bitcoin and Ethereum Options Expire Today](https://finance.yahoo.com/markets/options/articles/7-5-billion-bitcoin-ethereum-080214461.html)**
+
+Bitcoin and Ethereum face monthly options expiry worth $7.5 billion. Max Pain at $75,000 and $2,200 today.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -189,17 +207,25 @@ WKYT • 2d ago
 
 ---
 
-**[MSTR Stock: Strategy Touts Misleading Bitcoin Per Share Gain](https://www.investors.com/news/mstr-stock-strategy-bitcoin-per-share-metric-debt-buyback/)**
+**[Las Vegas woman says fake jury duty scam cost her $12,500 through Bitcoin ATM](https://www.ktnv.com/news/las-vegas-woman-says-fake-jury-duty-scam-cost-her-12-500-through-bitcoin-atm)**
 
-Investor's Business Daily • 18h ago
+“My heart sank”: Victim says scammers impersonated law enforcement, threatened arrest and kept her on the phone for hours
+
+ktnv.com • 10h ago
 
 ---
 
-**[CryptoQuant says bitcoin whale and dolphin accumulation stalled as demand remains weak](https://www.theblock.co/post/402954/cryptoquant-bitcoin-whale-dolphin-accumulation-stalled-demand-weak)**
+**[JPMorgan says bitcoin and gold ETF outflows point to 'cooling' debasement trade amid hopes for Iran-US deal](https://www.theblock.co/post/402888/jpmorgan-bitcoin-gold-etf-outflows-cooling-debasement-trade-hopes-iran-us-deal)**
 
-Bitcoin holding structure continues to deteriorate as whale and dolphin BTC balances have stalled, CryptoQuant said.
+Both bitcoin and gold ETFs have seen outflows over the past two weeks as the debasement trade cools, according to JPMorgan analysts.
 
-The Block • 10h ago
+The Block • 20h ago
+
+---
+
+**[Bitcoin Proxy Strategy Sinks Below A Key Line. How To Profit From The Stock's Bearish Action.](https://www.investors.com/research/options/bitcoin-proxy-strategy-stock-mstr-crypto-chart-options-trading-market/)**
+
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -207,31 +233,7 @@ The Block • 10h ago
 
 Dogecoin's significantly smaller size might make investors think that it has much more upside.
 
-The Motley Fool • 18h ago
-
----
-
-**[Miami man arrested in theft of $1.9M in Bitcoin from former employer, cops say](https://www.nbcmiami.com/news/local/miami-man-arrested-in-theft-of-1-9-million-in-bitcoin-from-former-employer-cops-say/3813867/)**
-
-A Miami man has been arrested in the theft of nearly $2 million worth of Bitcoin from a former employer, police said.
-
-NBC 6 South Florida • 1d ago
-
----
-
-**[Sequans (SQNS) Completes Bitcoin Unwind, Exits Digital Asset Strategy After Less Than a Year](https://bitcoinmagazine.com/news/sequans-completes-bitcoin-unwind)**
-
-Sequans Communications exited its Bitcoin treasury strategy in under a year after selling most of its holdings to retire convertible debt, leaving about 658 BTC and refocusing on its core IoT business.
-
-Bitcoin Magazine • 14h ago
-
----
-
-**[Amid a scam crackdown, crypto giants keep fueling bitcoin ATMs - International Consortium of Investigative Journalists](https://www.icij.org/investigations/coin-laundry/amid-a-scam-crackdown-crypto-giants-keep-fueling-bitcoin-atms/)**
-
-As governments seek to ban the machines, bitcoin ATMs remain entwined with cryptocurrency industry's most mainstream players.
-
-International Consortium of Investigative Journalists - ICIJ • 2d ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -243,7 +245,7 @@ International Consortium of Investigative Journalists - ICIJ • 2d ago
 
 Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
 
-⬆️ 28 • 💬 0 • 1d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
+⬆️ 32 • 💬 0 • 1d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ---
 
@@ -275,7 +277,7 @@ Bitcoin Depot has filed for Chapter 11 bankruptcy. The company operates a fleet 
 
 Live Bitcoin trades turned into music and motion in real time. Sound on.
 
-⬆️ 2 • 💬 1 • 15h ago • [Kinetik](https://kinetik.coexinbrand.com/)
+⬆️ 2 • 💬 1 • 20h ago • [Kinetik](https://kinetik.coexinbrand.com/)
 
 ---
 
@@ -295,7 +297,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://news.ycombinator.com/item?id=48290641)**
 
-⬆️ 2 • 💬 0 • 1d ago • [oregonlive.com](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)
+⬆️ 2 • 💬 0 • 2d ago • [oregonlive.com](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asse
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 233 • ⏱️ 15:50 • 9h ago
+👁️ 29K • 👍 2K • 💬 301 • ⏱️ 15:50 • 13h ago
 
 ---
 
@@ -333,7 +335,17 @@ Buy, Sell, Trade Crypto: Weex ($100k Trading Giveaway): https://www.weex.com/eve
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 271 • ⏱️ 10:19 • 1d ago
+👁️ 36K • 👍 2K • 💬 258 • ⏱️ 10:19 • 1d ago
+
+---
+
+**[Bitcoin: The Window of Weakness](https://www.youtube.com/watch?v=dIa8HUYDNEY)**
+
+Bitcoin has entered what many traders call the "Window of Weakness"—a period where seasonal trends, market psychology, and ...
+
+📺 Benjamin Cowen
+
+👁️ 19K • 👍 2K • 💬 76 • ⏱️ 23:28 • 5h ago
 
 ---
 
@@ -343,7 +355,7 @@ Get my free newsletter Letters From a Heretic: https://go.heresy.financial/lette
 
 📺 Heresy Financial
 
-👁️ 64K • 👍 3K • 💬 658 • ⏱️ 17:21 • 15h ago
+👁️ 70K • 👍 3K • 💬 718 • ⏱️ 17:21 • 19h ago
 
 ---
 
@@ -353,7 +365,7 @@ Jan van Eck is the CEO of VanEck, a $200 billion asset manager and one of the le
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 937 • 💬 40 • ⏱️ 59:08 • 1d ago
+👁️ 26K • 👍 947 • 💬 40 • ⏱️ 59:08 • 1d ago
 
 ---
 
@@ -363,7 +375,7 @@ In today's video, we discuss Bitcoin falling back below the Bear Market Resistan
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 5K • 💬 256 • ⏱️ 18:38 • 1d ago
+👁️ 70K • 👍 5K • 💬 259 • ⏱️ 18:38 • 1d ago
 
 ---
 
@@ -373,17 +385,17 @@ The Crypto Market Is Breaking Down.. (Look What I Discovered) ⭐ Follow Altcoin
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 92 • ⏱️ 10:32 • 7h ago
+👁️ 25K • 👍 1K • 💬 101 • ⏱️ 10:32 • 11h ago
 
 ---
 
-**[Three Federal Agencies Just Put Bitcoin In Your 401k Without You Choosing It](https://www.youtube.com/watch?v=aOnmFkPLlho)**
+**[ANONYMOUS WHALE IS Using BlackRocks ETF To CRASH Bitcoins Price... | EP 1514](https://www.youtube.com/watch?v=0W201pEdMz4)**
 
-Three federal agencies just quietly cleared the way for your 401k to hold Bitcoin, and almost nobody connected the dots.
+Huge IBIT shadow block tanks bitcoin price - are they trying to suppress bitcoins price?
 
-📺 Alexander Lorenzo
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 946 • 💬 116 • ⏱️ 2:46 • 17h ago
+👁️ 6K • 👍 315 • 💬 56 • ⏱️ 1:36:37 • 15h ago
 
 ---
 
@@ -393,27 +405,17 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 714 • 💬 368 • ⏱️ 51:05 • 15h ago
+👁️ 13K • 👍 719 • 💬 296 • ⏱️ 51:05 • 20h ago
 
 ---
 
-**[Why is Bitcoin Struggling?](https://www.youtube.com/watch?v=S3twLVUE0dQ)**
+**[Crypto Crash To LAST LINE Of Support! (Waited 13 Days For This)](https://www.youtube.com/watch?v=s8rLXMVvT0s)**
 
-Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
 
-📺 CryptosRUs
+📺 Crypto Capital Venture
 
-👁️ 16K • 👍 785 • 💬 466 • ⏱️ 8:32 • 1d ago
-
----
-
-**[“Someone BIG Is Secretly Selling Crypto” What Comes NEXT?](https://www.youtube.com/watch?v=yhIN7KAZTYY)**
-
-Bitcoin Holders: It Just Got Worse… ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel member ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 2K • 💬 197 • ⏱️ 8:36 • 2d ago
+👁️ 9K • 👍 570 • 💬 454 • ⏱️ 15:40 • 19h ago
 
 ---
 
