@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-29T10:29:47.101814+00:00'
+updated: '2026-05-29T13:45:18.996338+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 29, 2026 at 10:29 UTC  
+**Last Updated:** May 29, 2026 at 13:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,41 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Booster takes penalty kicks and kicked a hole through the wall](https://www.reddit.com/r/robotics/comments/1tqxchz/booster_takes_penalty_kicks_and_kicked_a_hole/)**
+
+from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
+
+3h ago
+
+---
+
 **[Though you guys might appreciate this](https://www.reddit.com/r/robotics/comments/1tqkczq/though_you_guys_might_appreciate_this/)**
 
 This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help from 20SSFactory’s initial robot design. #Team9541
 
-10h ago
+14h ago
+
+---
+
+**[Small Autonomous Boat for Water Quality Monitoring](https://www.reddit.com/r/robotics/comments/1tr1yay/small_autonomous_boat_for_water_quality_monitoring/)**
+
+A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
+
+15m ago
 
 ---
 
 **[This robot eats your Money](https://www.reddit.com/r/robotics/comments/1tqqy34/this_robot_eats_your_money/)**
 
-5h ago
+9h ago
 
 ---
 
-**[Booster takes penalty kicks and kicked a hole through the wall](https://www.reddit.com/r/robotics/comments/1tqxchz/booster_takes_penalty_kicks_and_kicked_a_hole/)**
+**[Robot Startup Accused of Running Secret Airbnb Field Tests That Allegedly Damaged Rental Properties](https://www.reddit.com/r/robotics/comments/1tqskqj/robot_startup_accused_of_running_secret_airbnb/)**
 
-from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
+A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
 
-15m ago
+🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 7h ago
 
 ---
 
@@ -62,47 +78,33 @@ From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/205962064081
 
 ---
 
-**[Robot Startup Accused of Running Secret Airbnb Field Tests That Allegedly Damaged Rental Properties](https://www.reddit.com/r/robotics/comments/1tqskqj/robot_startup_accused_of_running_secret_airbnb/)**
+**[Humanoid Robot Plays the Theramin](https://www.reddit.com/r/robotics/comments/1tr1oy6/humanoid_robot_plays_the_theramin/)**
 
-A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
+Disclaimer from the youtube description: "Before anyone worries about robots replacing thereminists: a humanoid robot is only as precise as its motors and movement control allow it to be – and Ameca was still discovering just how unforgiving the theremin can be ;) The final audio involved a bit of editing and some re-recorded theremin parts to make the performance as enjoyable as possible."
 
-🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=fFxXCheKJWA) • 25m ago
+
+---
+
+**[ROS News for the Week of May 25th, 2026](https://www.reddit.com/r/robotics/comments/1tqzwf9/ros_news_for_the_week_of_may_25th_2026/)**
+
+ROS News for the Week of May 25th, 2026     ICRA 2026 in Vienna kicks off next Monday! Myself and @mrpollo will be there and we’ve got a ROS Meetup scheduled for Tuesday night (June 2nd) and a PX4 / Dronecode Social planned for Thursday night (June 4th). I’ll be handing out Lyrical stickers and if you want to set up a time to chat just DM me on Discourse. We’ve also got an open thread for organizing smaller-scale meetings and paper / presentation shout outs.       Phase 1 of the Intrinsic AI for...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-may-25th-2026/55159) • 1h ago
+
+---
+
+**[Robotics code editors (Vscode, Nvim, Emacs)](https://www.reddit.com/r/robotics/comments/1tqycm8/robotics_code_editors_vscode_nvim_emacs/)**
+
+So, I like nvim and emacs (emacs more), but they are really hard to work within robotic frameworks. Vscode has everything built-in. No LSP set-ups ever for Docker, Nix packages .. they work out of the box. Many github repo's assume you use it and they add vscode specific lsp setup files also. I mean I could go on and on and on how Vscode is so much superior, how it gives everything so you can work ... but I just don't like it. Emacs is good because it has dired and magit (they are so good), it's philosophy, org-mode, etc. But I mean it is so hard to not waste hours because something doesn't get imported, and there is little to no documentation to solve some of the issues, because 99% use vscode and they never encounter such issues. I am sorry if that kinda not really suitable with this sub, but all of my programming work is simulators, ros2, dockers and so on, very standard things for robotics industry and many of them specific to it. What you people use? What do you think about that all?
+
+2h ago
 
 ---
 
 **[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
 
-30m ago
-
----
-
-**[my robo as army version hahaha](https://www.reddit.com/r/robotics/comments/1tq749m/my_robo_as_army_version_hahaha/)**
-
-18h ago
-
----
-
-**[Built a 6DOF robotic arm from scratch in India — raw movement test, no editing](https://www.reddit.com/r/robotics/comments/1tpzdmz/built_a_6dof_robotic_arm_from_scratch_in_india/)**
-
-Been building this for 6 months. Original mechanical design, no open source blueprints. Current specs: — DS5160 60kg digital servo at core — GT2 belt drive transmission — Bearing mounted output shafts — 3D printed housing — Ender 3 — Core, shoulder, bicep assembled Moving like butter. Full demo coming soon. Happy to answer any questions.
-
-1d ago
-
----
-
-**[Duke scientists create robot with 20 legs, eyes everywhere, no front or back](https://www.reddit.com/r/robotics/comments/1tq83up/duke_scientists_create_robot_with_20_legs_eyes/)**
-
-A robot being developed at Duke University is almost ready to face the world, in any direction. Instead of trying to copy symmetrical shapes from nature by building robots that look like people, dogs or insects, engineering professor Boyuan Chen and his team focused on uniformity in action, or what he calls “dynamic symmetry.” The result was Argus. The roly-poly robot named after a mythological many-eyed giant has depth-sensing cameras attached to 20 telescoping legs that radiate from a central core. With no front, back, top or bottom, it can see and move in any direction instantly. “Instead of measuring how your legs are arranged around a different part of your body, we’re measuring how fast you can move in any direction,” Chen said. “Who said, you know, if you have a robot to help us in a most effective way, it has to look like us?" Read more [paywall removed for Redditors]: https://fortune.com/2026/05/28/duke-argus-robot-20-legs-nightmare-omnidirectional/?utm_source=reddit/
-
-🔗 [Fortune](https://fortune.com/2026/05/28/duke-argus-robot-20-legs-nightmare-omnidirectional/?utm_source=reddit/) • 18h ago
-
----
-
-**[where to but robotic parts like BLDC servo actuators, Any seller who can deliver to hotel](https://www.reddit.com/r/robotics/comments/1tqt5dc/where_to_but_robotic_parts_like_bldc_servo/)**
-
-I'll be in Shanghai next week for a United Nations forum and I'm hoping to source some components while I'm there — specifically brushless servo actuators like the GIM 6010 or similar high-torque joint motors. The catch is I'll be in sessions the whole time and simply won't be able to visit any shops or markets in person. So I'm entirely relying on delivery to my hotel. What I'm looking for: — Sellers with reliable same-day or next-day Shanghai delivery — Robotics or electronics suppliers that accept online/WeChat orders and ship locally — Any vendor contacts who deal in servo actuators and can arrange a direct drop-off If you've ever had to source robotics parts in Shanghai remotely, I'd really love to hear how you handled it. Even a seller name or a WeChat contact would go a long way! Thanks so much in advance
-
-4h ago
+3h ago
 
 ---
 
@@ -114,7 +116,7 @@ I'll be in Shanghai next week for a United Nations forum and I'm hoping to sourc
 
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
-BBC • 10h ago
+BBC • 14h ago
 
 ---
 
@@ -122,7 +124,31 @@ BBC • 10h ago
 
 The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
 
-AP News • 7h ago
+AP News • 10h ago
+
+---
+
+**[Humanoid robots stun crowd by doing delicate tasks at Tokyo summit](https://interestingengineering.com/ai-robotics/humanoids-robots-stun-crowd-at-tokyo-summit)**
+
+Humanoid robots demonstrate delicate tasks at Humanoids Summit 2026 as China gains attention in robotics shift today.
+
+Interesting Engineering • 17m ago
+
+---
+
+**[Humanoids Summit gives Tokyo a peek of a robotic future](https://www.japantimes.co.jp/business/2026/05/28/tech/tokyo-humanoid-summit/)**
+
+A major talking point at the two-day event is how crucial artificial intelligence-powered robots might be for tackling Japan's labor shortage.
+
+The Japan Times • 1d ago
+
+---
+
+**[Does Aeva Technologies (AEVA) Leaning Into Robotics LiDAR Quietly Recode Its Core Growth Story?](https://finance.yahoo.com/markets/stocks/articles/does-aeva-technologies-aeva-leaning-131059979.html)**
+
+Recent commentary on Aeva Technologies highlights how advances in solid-state and FMCW LiDAR are broadening real-world deployments beyond autonomous vehicles into robotics, drones and other physical AI systems, driven by lower costs and improved performance. An important takeaway is that robotics-related LiDAR shipments now exceed automotive advanced driver assistance volumes, pointing to faster adoption and higher unit demand in non-automotive markets. We’ll now examine how growing LiDAR...
+
+Yahoo Finance • 34m ago
 
 ---
 
@@ -130,7 +156,7 @@ AP News • 7h ago
 
 Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
 
-NVIDIA Blog • 21h ago
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -138,7 +164,7 @@ NVIDIA Blog • 21h ago
 
 'Autonomy and robotics are reshaping how defense forces operate today' - Eyal Dahan, CEO of FUSE, an Elbit Systems subsidiary.
 
-The Jerusalem Post • 21h ago
+The Jerusalem Post • 1d ago
 
 ---
 
@@ -146,7 +172,15 @@ The Jerusalem Post • 21h ago
 
 Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
 
-Rice University • 20h ago
+Rice University • 23h ago
+
+---
+
+**[How AI & Robotics Are Modernizing Lockbox Processing](https://www.jpmorgan.com/payments/newsroom/ai-robotics-lockbox-processing)**
+
+See how J.P. Morgan Payments uses AI and robotics to automate lockbox, check and remittance processing with greater speed, accuracy and security.
+
+J.P. Morgan • 1d ago
 
 ---
 
@@ -155,38 +189,6 @@ Rice University • 20h ago
 USC researchers built a robotic hand that hears a melody once and plays it back after just two minutes of self-taught practice on a keyboard. They say the implications go far beyond music.
 
 USC Viterbi School of Engineering • 2d ago
-
----
-
-**[Serve Robotics vs. Symbotic: Which Robotics Stock Has More Upside?](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-vs-symbotic-robotics-141700294.html)**
-
-Could Symbotic's profitable automation platform outpace Serve Robotics as demand for AI-driven logistics grows?
-
-Yahoo Finance • 20h ago
-
----
-
-**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
-
-Will humanoids redefine how battles are fought and won?
-
-Popular Mechanics • 19h ago
-
----
-
-**[3D-printable humanoid legs let robotics experiments run wild](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/)**
-
-Hugging Face debuts $2,500 bipedal robot project for builders and researchers.
-
-Ars Technica • 2d ago
-
----
-
-**[Moorhead High School robotics team helps empower first grade student with new device](https://www.kare11.com/article/news/local/kare11-extras/moorhead-high-school-robotics-team-helps-empower-first-grade-student/89-df02a72c-a129-460f-9711-fadfc5d671d2)**
-
-A young girl with disabilities at Ellen Hopkins Elementary gains new independence and confidence thanks to a device engineered by the Moorhead High School robotics.
-
-kare11.com • 2d ago
 
 ---
 
@@ -200,37 +202,7 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 26K • 👍 636 • 💬 27 • ⏱️ 10:21 • 1d ago
-
----
-
-**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
-
-The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
-
-📺 AI News
-
-👁️ 11K • 👍 210 • 💬 38 • ⏱️ 8:02 • 5d ago
-
----
-
-**[Potential dangers of humanoid robots](https://www.youtube.com/watch?v=01ZSOp4yYAE)**
-
-Humanoid robots are devices that could be used to improve our daily lives. But could they also be used for surveillance?
-
-📺 ABC News
-
-👁️ 90K • 👍 1K • 💬 388 • ⏱️ 5:15 • 6d ago
-
----
-
-**[New KRAKEN Robot is here! War Robots SHOGGOTH 12.2 Update LIVE](https://www.youtube.com/watch?v=6qdKDy2a6Xo)**
-
-War Robots Gameplay: New Robot SHOGGOTH - The KRAKEN - WR My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 537 • 💬 107 • ⏱️ 25:12 • 1d ago
+👁️ 27K • 👍 665 • 💬 27 • ⏱️ 10:21 • 1d ago
 
 ---
 
@@ -240,7 +212,27 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 121K • 👍 3K • 💬 244 • ⏱️ 1:55 • 2d ago
+👁️ 123K • 👍 3K • 💬 247 • ⏱️ 1:55 • 3d ago
+
+---
+
+**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
+
+The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
+
+📺 AI News
+
+👁️ 11K • 👍 211 • 💬 38 • ⏱️ 8:02 • 5d ago
+
+---
+
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
+
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
+
+📺 ESPN
+
+👁️ 273K • 👍 5K • 💬 521 • ⏱️ 4:57 • 3d ago
 
 ---
 
@@ -250,7 +242,17 @@ War Robots - New robot Shoggoth unlocked in update 12.1. In this video, I run a 
 
 📺 Adrian Chong
 
-👁️ 7K • 👍 285 • 💬 57 • ⏱️ 18:23 • 1d ago
+👁️ 7K • 👍 286 • 💬 57 • ⏱️ 18:23 • 2d ago
+
+---
+
+**[Potential dangers of humanoid robots](https://www.youtube.com/watch?v=01ZSOp4yYAE)**
+
+Humanoid robots are devices that could be used to improve our daily lives. But could they also be used for surveillance?
+
+📺 ABC News
+
+👁️ 90K • 👍 1K • 💬 393 • ⏱️ 5:15 • 6d ago
 
 ---
 
@@ -260,7 +262,27 @@ Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies tra
 
 📺 Duke Engineering
 
-👁️ 9K • 👍 1K • 💬 67 • ⏱️ 1:50 • 21h ago
+👁️ 11K • 👍 2K • 💬 81 • ⏱️ 1:50 • 1d ago
+
+---
+
+**[4 Robotics Stocks (ALREADY Making Money)](https://www.youtube.com/watch?v=19SrFEBkK8s)**
+
+Physical AI isn't coming. It's already performing surgeries, sorting packages at warehouse speeds, running factory floors, and ...
+
+📺 MarketBeat
+
+👁️ 27K • 👍 688 • 💬 8 • ⏱️ 3:00 • 2d ago
+
+---
+
+**[4 Robotics Stocks You’ll Wish You Bought Sooner](https://www.youtube.com/watch?v=d0u5qHE8A8M)**
+
+Get the FREE Report on the Top 5 Robotics Stocks today: https://www.marketbeat.com/y/robotics3 Physical AI is the term taking ...
+
+📺 MarketBeat
+
+👁️ 73K • 👍 2K • 💬 75 • ⏱️ 23:57 • 4d ago
 
 ---
 
@@ -271,26 +293,6 @@ ORDER HERE: https://www.vex.com/VEXgames26-27yt SUBSCRIBE: https://www.vex.com/Y
 📺 VEX Robotics
 
 👁️ 51K • 👍 49 • 💬 18 • ⏱️ 4:27 • 3d ago
-
----
-
-**[4 Robotics Stocks (ALREADY Making Money)](https://www.youtube.com/watch?v=19SrFEBkK8s)**
-
-Physical AI isn't coming. It's already performing surgeries, sorting packages at warehouse speeds, running factory floors, and ...
-
-📺 MarketBeat
-
-👁️ 27K • 👍 674 • 💬 8 • ⏱️ 3:00 • 2d ago
-
----
-
-**[Different Leader Optimus Prime &amp; Bumblebee Robot Generations: Ultimate Toy Size Evolution Comparison](https://www.youtube.com/watch?v=5cQ9fFUHESE)**
-
-Different Leader Optimus Prime & Bumblebee Robot Generations: Ultimate Toy Size Evolution Comparison Welcome to the ...
-
-📺 Bob ToysReview
-
-👁️ 4K • 👍 17 • 💬 2 • ⏱️ 16:39 • 22h ago
 
 ---
 
