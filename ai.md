@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-30T20:09:26.707824+00:00'
+updated: '2026-05-30T21:33:42.964453+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 30, 2026 at 20:09 UTC  
+**Last Updated:** May 30, 2026 at 21:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A mysterious, unnamed company is reported to have accidentally spent half a billion dollars in a single month on Claude AI after forgetting to set usage limits for Claude licenses for employees.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 17h ago
-
----
-
-**[How has AI actually benefited you in day-to-day life?](https://www.reddit.com/r/artificial/comments/1ts6q6b/how_has_ai_actually_benefited_you_in_daytoday_life/)**
-
-With AI becoming part of almost everything now—work, business, investing, coding, spreadsheets, content creation, and more—I'm curious about real-world use cases. What's the one thing you use AI for regularly that has genuinely saved you time, made you money, improved your productivity, or solved a problem? Looking for practical examples rather than just "I use ChatGPT." What specific tasks have you automated or improved with AI?
-
-2h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 19h ago
 
 ---
 
@@ -57,15 +49,15 @@ With AI becoming part of almost everything now—work, business, investing, codi
 
 The comedian and The Daily Show host gave the keynote address for Class Day 2026.
 
-🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 22h ago
+🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 1d ago
 
 ---
 
-**[Deep Neural Network that turns any Image into a Playable Game ! All on consumer GPUs and Not Datacenters](https://www.reddit.com/r/artificial/comments/1trs21e/deep_neural_network_that_turns_any_image_into_a/)**
+**[How has AI actually benefited you in day-to-day life?](https://www.reddit.com/r/artificial/comments/1ts6q6b/how_has_ai_actually_benefited_you_in_daytoday_life/)**
 
-Hi everyone!! I really wanted to share my research what I've been working on. I wanted to build a nn that can simulate games, or at least start doing that Most video generators are too large to run on consumer hardware realtime, so I I designed a model that does this from scratch. No fine tuning bs or anything The core de noiser network is fully trained from scratch to support this goal. From image to games data. That video. above is on a RTX 5090. The nn is a small Transformer-like model and works in a causal way, just like LLMs. That lets us KV Cache all past information and do a simple autoregressive decode forward passes for every new frame we want. In the video shared, the model is a 0.4B variant with some SIGNIFICANT ISSUES like poor motion and some weird flashes, some context issues It's taking the keyboard actions I give it in realtime and utilising that in the forward pass. (no classifier free guidance though) Im training the next iteration , a 0.8B model now. Btw I haven't done quantisation yet, that can save a LOT more time. bf16 is slow.
+With AI becoming part of almost everything now—work, business, investing, coding, spreadsheets, content creation, and more—I'm curious about real-world use cases. What's the one thing you use AI for regularly that has genuinely saved you time, made you money, improved your productivity, or solved a problem? Looking for practical examples rather than just "I use ChatGPT." What specific tasks have you automated or improved with AI?
 
-13h ago
+3h ago
 
 ---
 
@@ -73,13 +65,21 @@ Hi everyone!! I really wanted to share my research what I've been working on. I 
 
 GitHub: Prompt-Logic-Gates-PLG Over the past few days, I've shared my research project Prompt Logic Gates (PLG) and received a lot of interesting feedback. Some people loved the idea, some were skeptical, and many raised valid questions. The most common reaction was: > "Natural language is already the abstraction layer. Why add logic gates?" That's a fair question. My goal isn't to replace natural language prompting. In fact, natural language remains at the center of PLG. The idea is to explore what happens when prompts stop being a single request and start becoming systems. The Problem When we write prompts, we're converting our ideas, requirements, constraints, and expectations into text. For simple tasks, this works perfectly. But as prompts grow, they often include: Multiple objectives Business rules Style constraints Context dependencies Exclusions Fallback instructions Tool orchestration At that point, prompts become harder to maintain. Contradictions appear. Priorities become unclear. Context gets mixed together. The prompt is still text, but the complexity starts to resemble a system. What is PLG? Prompt Logic Gates (PLG) is a visual prompt engineering experiment that explores whether prompts can be organized before being sent to an AI model. Instead of writing one giant prompt, users create prompt components and connect them using semantic logic gates. The AI then analyzes the graph and compiles a final structured prompt. How It Works AND Gate When multiple instructions exist, the system evaluates them against the current context and determines which instruction is more foundational. The higher-priority instruction is applied first. OR Gate When multiple options are available, the system selects the most contextually relevant option instead of blindly including everything. NOT Gate Defines exclusions and negative constraints. It explicitly tells the system what should not be done, reducing contradictions and ambiguity. Ask Questions Gate If the system detects missing information or uncertainty, it asks follow-up questions before generating the final prompt. Addressing Common Criticisms "This is just block coding." Not exactly. The goal isn't to create a programming language for prompts. The nodes still contain natural language. The visual layer only helps express relationships between prompt components. "Prompts aren't code." I agree. But once prompts include branching decisions, reusable components, exclusions, fallback behavior, memory, and tool orchestration, they start behaving less like a sentence and more like a system. PLG is exploring whether that hidden structure can be represented more explicitly. "Visual prompt engineering may be harder to debug." That's a valid concern. Visual doesn't automatically mean better. One of the main goals of this project is to test whether visual organization actually improves maintainability, reusability, and prompt consistency—or whether it simply makes the same complexity look different. "The future is promptless AI." Maybe. But today's AI systems still rely heavily on instructions, context, constraints, and reasoning frameworks. Even if prompts eventually disappear, the underlying problem of organizing intent, requirements, and context may still exist. Why I'm Building This This project started because I was facing problems in my own prompting workflow. I wanted a way to organize ideas, constraints, and instructions more systematically instead of continuously rewriting large prompts. PLG isn't trying to solve every problem in AI. It's a research experiment exploring one question: > At what point does a prompt stop being "just text" and start behaving like a system that benefits from structure, organization, and validation? I don't know the answer yet. That's exactly why I'm building the prototype and testing it. If the idea turns out to be useful, great. If it doesn't, I'll still learn something valuable about how humans interact with AI systems. I'd love to hear more thoughts, criticism, and feedback from the community.
 
-1h ago
+3h ago
+
+---
+
+**[Deep Neural Network that turns any Image into a Playable Game ! All on consumer GPUs and Not Datacenters](https://www.reddit.com/r/artificial/comments/1trs21e/deep_neural_network_that_turns_any_image_into_a/)**
+
+Hi everyone!! I really wanted to share my research what I've been working on. I wanted to build a nn that can simulate games, or at least start doing that Most video generators are too large to run on consumer hardware realtime, so I I designed a model that does this from scratch. No fine tuning bs or anything The core de noiser network is fully trained from scratch to support this goal. From image to games data. That video. above is on a RTX 5090. The nn is a small Transformer-like model and works in a causal way, just like LLMs. That lets us KV Cache all past information and do a simple autoregressive decode forward passes for every new frame we want. In the video shared, the model is a 0.4B variant with some SIGNIFICANT ISSUES like poor motion and some weird flashes, some context issues It's taking the keyboard actions I give it in realtime and utilising that in the forward pass. (no classifier free guidance though) Im training the next iteration , a 0.8B model now. Btw I haven't done quantisation yet, that can save a LOT more time. bf16 is slow.
+
+15h ago
 
 ---
 
 **[Meta lays off more than 2,000 from Menlo Park headquarters](https://www.reddit.com/r/artificial/comments/1trevkk/meta_lays_off_more_than_2000_from_menlo_park/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php) • 23h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php) • 1d ago
 
 ---
 
@@ -87,7 +87,7 @@ GitHub: Prompt-Logic-Gates-PLG Over the past few days, I've shared my research p
 
 Standard AI 3D generators (like Meshy or Tripo) are limited. They produce solid, monolithic 3D objects that look good but are practically useless, because: - Want to rig or animate it for a game? Can't easily do that, because it’s a dead, monolithic blob instead of a functional, modular asset. - Want to change the arm of a robot you generated? Regenerate the entire asset. - Want to edit something manually? The whole thing collapses because it's not actually structured. Free github project here: https://github.com/RareSense/Nova3D But you'll need to bring your own API Key (BYOK) Under the hood (if you're interested): It uses an LLM as a structured code compiler, instead of an image generator. It writes native Blender Python (bpy) code blocks that target specific nodes in the scene graph. The trick is that everything compiles through Blender's actual scene graph structures instead of pixel or point-cloud diffusion. Final export is a clean multi-part GLB with transform nodes and working pivot axes preserved.
 
-2h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Standard AI 3D generators (like Meshy or Tripo) are limited. They produce solid,
 
 I have been doing URL redirect work for client sites for some time now. It’s one of those jobs that’s never quite urgent enough to automate, but tedious enough to dread, especially after a migration when you have hundreds of them. Recently tried it. Connected my AI agent with MCP to handle it. I told it to build a set of redirects and it did. No dashboard, no wrestling with CSVs, no clicking through settings. Teaching in plain language. In seconds. And what I was surprised by was not the speed, but the amount of mental overhead such a task involves. You’re not just doing the task you’re context switching into a tool, remembering where things are, making sure nothing breaks. Giving it to an agent removes all of it. What really made me trust it for real client work was the dry-run feature. See exactly what is changing, before it changes. No surprises here. Curious if anyone else has been using MCP for infrastructure tasks, redirects, DNS, workspace management. I think we are at the start of something that is going to quietly gobble up a lot of tedious technical work.
 
-4h ago
+6h ago
 
 ---
 
@@ -103,15 +103,15 @@ I have been doing URL redirect work for client sites for some time now. It’s o
 
 Pulling together this week's major AI releases for anyone who didn't have time to track every blog post. Sticking to substantive changes, not hype. Anthropic — Claude Opus 4.8 Released this week. Headline pricing unchanged, but Fast Mode dropped from $30 input / $150 output per million tokens to $10 / $50 — a 3x reduction on the premium tier. Reported improvements in "judgment" and longer autonomous runs. Also shipped 20+ legal MCP connectors and Microsoft 365 add-ins (Excel, PowerPoint, Word) in GA. Alibaba — Qwen 3.7 Max Launched May 20 at Alibaba Cloud Summit. 1M-token context. Reported to top Claude Opus 4.6 Max on Terminal-Bench 2.0, SWE-Bench Pro, and MCP-Atlas. Pricing $2.50 / $7.50 per million tokens — roughly half of Opus 4.7. Alibaba claims autonomous operation up to 35 hours without performance degradation. Alibaba is now ranked #6 lab globally on Arena text leaderboard. OpenAI — GPT-5.5 Instant Now default in ChatGPT. Reports 52.5% fewer hallucinated claims than GPT-5.3 Instant on high-stakes prompts (medicine, law, finance). OpenAI also shipped a ChatGPT sidebar inside Excel and Google Sheets, plus a personal finance dashboard for Pro users (US only). Google — Gemini 3.5 Flash Reported to beat Gemini 3.1 Pro on coding and agentic benchmarks at ~4x faster output token rate. Ultra subscription cut from $250 to $200/month; new $100/month Developer tier introduced. xAI — Grok Build 0.1 Coding agent moved to public API beta May 28. Custom Skills feature added for reusable user-defined tasks. Connectors for SharePoint, OneDrive, Notion, GitHub, Linear, plus bring-your-own MCP support. Mistral Launched Vibe (unified work + code agent, replaces Le Chat). Acquired Emmi AI for physics-based simulation. Targeting €1B revenue in 2026; new 10MW inference DC announced. Hugging Face Launched an app store for the Reachy Mini robot. ~10,000 units shipped. Also reported a malicious repo masquerading as an OpenAI release that accumulated 244K downloads before takedown — relevant for anyone pinning models from HF in production. My take as someone building on top of these APIs: The 3x Opus Fast Mode price cut and Qwen 3.7 Max's pricing + autonomous duration are the real signal this week. The cost floor on premium-tier inference is dropping faster than most app-layer products have repriced for. Anyone running multi-step agent workflows needs to recompute unit economics this week — either pass through the savings or reinvest the margin. The other pattern worth noting: OpenAI and Anthropic are both pushing into Excel/M365 surfaces. Distribution is becoming the next battleground, not raw model capability. If you're building a productivity SaaS, the giants are now inside the same surface as you.
 
-7h ago
+8h ago
 
 ---
 
-**[I'm not crying, you're crying. A.I. For Good, making a legacy book for my mother w/ NotebookLM](https://www.reddit.com/r/artificial/comments/1ts3x2l/im_not_crying_youre_crying_ai_for_good_making_a/)**
+**[[Open Source] I built a full Git MCP server in Go that doesn't just wrap bash. It uses tree-sitter, handles real plumbing (write-tree), and runs 100% locally.](https://www.reddit.com/r/artificial/comments/1tsbgpx/open_source_i_built_a_full_git_mcp_server_in_go/)**
 
-The legacy book market and use of AI for this are going to be insane. Less than 1% of the US population writes a book. This is what AI is used for: to stop doing tedious stuff and actually do stuff that matters. https://preview.redd.it/fcn6d2t7ta4h1.png?width=2752&format=png&auto=webp&s=5ab6effcafc1e2156903d274f6a4411e53bd9d37
+I was tired of watching LLM agents fail at basic Git operations. Standard integrations pass raw text, hang on pagers, or scream because they can't parse unstructured ⁠git diff⁠ outputs. git-courer is a full Model Context Protocol (MCP) server written in Go that treats Git properly. No bash spawning, no unstructured text to parse. Everything communicates via structured JSON. Here is an actual commit message it generated completely locally: fix: fix mcp server connection handling WHY The previous implementation lacked proper error handling for connection failures in the MCP server, leading to unhandled panics or silent failures when the local LLM backend was unreachable. WHAT * Added connection timeout logic to the local client calls. * Implemented retry mechanisms with exponential backoff for transient backend errors. The Architecture & Tool Pack Read Tools (status, diff, history, blame): Completely structured JSON and fully paginated. A single ⁠status⁠ call replaces over 5 standard Git commands for the agent. Write Tools (commit, merge, rebase, branch, stash, stage, sync...): Every single mutation auto-creates a backup before executing. If the LLM messes up, a ⁠RESTORE⁠ command brings you back exactly where you were. Safety Model: Destructive operations (hard resets, force pushes, branch deletions) require an explicit ⁠confirmed=true⁠ gate. The agent is forced to ask you first. ⁠dry_run=true⁠ is also available for peace of mind. The Semantic Annotator (Why it's different) Instead of just feeding raw code to the LLM, git-courer uses ⁠go-enry⁠ + ⁠go-tree-sitter⁠ to parse the AST and tag every hunk semantically before the LLM even sees it. It detects tags like ⁠NEW_FUNC⁠, ⁠MOD_SIG⁠, ⁠MOD_BODY⁠, ⁠DELETED⁠, and ⁠BREAKING_CHANGE⁠. The commit type (⁠feat⁠, ⁠fix⁠, ⁠refactor⁠) is determined deterministically from these AST tags rather than guessed by the model. The Commit Pipeline Atomic Commits: One staged area = one commit. It actively prevents the agent from creating giant, messy multi-feature commits. In-Memory Previews: The ⁠PREVIEW⁠ tool uses ⁠write-tree⁠ to snapshot the staging area into a ⁠job_id⁠. The working tree is never touched during the preview stage. ⁠APPLY⁠ then uses ⁠commit-tree⁠ + ⁠update-ref⁠ to seal the deal cleanly. Client & Backend Support 13 Clients Configured Automatically: Runs out of the box with ⁠git-courer mcp setup⁠ for Claude Code, Cursor, Windsurf, OpenCode, Cline, Roo Code, VS Code, Zed, Claude Desktop, Continue, and more. 100% Local-First: Works with any backend exposing an OpenAI-compatible ⁠/v1⁠ API (Ollama, LM Studio, llama.cpp). The project is fully open source. I’d love to hear your thoughts on the architecture, the plumbing pipeline, or any features you'd like to see added! Repo: github.com/Alejandro-M-P/git-courer
 
-4h ago
+29m ago
 
 ---
 
@@ -123,19 +123,33 @@ The legacy book market and use of AI for this are going to be insane. Less than 
 
 AI is causing a crisis of agency.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
 **[Opinion | The First A.I. High School in the U.S. Is Surprisingly Human](https://www.nytimes.com/2026/05/30/opinion/ai-high-school.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[SoftBank to Invest Some €75 Billion in AI in France, Reports Say](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)**
+**[SoftBank to build up AI data centres in France with major investment](https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/)**
+
+Reuters • 2h ago
+
+---
+
+**[SoftBank Plans Up to €75 Billion Investment in French AI Centers](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)**
 
 Bloomberg.com • 1h ago
+
+---
+
+**[SoftBank plans up to €75 billion investment in French AI centers](https://fortune.com/2026/05/30/softbank-75-billion-investment-french-ai-data-centers-masayoshi-son-emmanuel-macron/)**
+
+SoftBank’s initial investment plans to deliver data centers in Dunkirk, Bosquel and Bouchain.
+
+Fortune • 31m ago
 
 ---
 
@@ -143,7 +157,7 @@ Bloomberg.com • 1h ago
 
 The National Transportation Safety Board temporarily pulled its docket system offline after digital images were used to reconstruct cockpit voice recordings of the pilots in a recent crash.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -157,7 +171,7 @@ Axios • 1d ago
 
 BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -165,7 +179,7 @@ BBC • 18h ago
 
 Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -175,29 +189,13 @@ WSJ • 1d ago
 
 ---
 
-**[AI helped a musician with Parkinson’s finish his new album when he could no longer play guitar](https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a)**
-
-Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson’s disease largely took away his ability to play guitar.
-
-AP News • 2h ago
-
----
-
-**[I worked with Steve Jobs at Apple, where every OS update killed startups. AI founders are about to face the same thing](https://fortune.com/2026/05/30/matt-rogers-nest-apple-sherlocking-ai-founders-hyperscalers/)**
-
-Mill CEO and Nest co-founder Matt Rogers watched Apple render startups obsolete overnight. He says the same dynamic is playing out in AI — and the survival playbook looks familiar.
-
-Fortune • 12h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 757 • 💬 388 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
+⬆️ 758 • 💬 388 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -205,7 +203,7 @@ Fortune • 12h ago
 
 A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
 
-⬆️ 445 • 💬 195 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+⬆️ 449 • 💬 197 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 
 ---
 
@@ -213,7 +211,7 @@ A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployme
 
 AI is doing to programming what framework-brain did to the frontend before. Deskilling, or just working at a higher level of abstraction?
 
-⬆️ 395 • 💬 325 • 1d ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+⬆️ 396 • 💬 325 • 1d ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
 
 ---
 
@@ -221,7 +219,7 @@ AI is doing to programming what framework-brain did to the frontend before. Desk
 
 Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.
 
-⬆️ 379 • 💬 418 • 6h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+⬆️ 381 • 💬 431 • 7h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 
 ---
 
@@ -245,7 +243,7 @@ The guests behind the bookings have received negative reviews from a number of B
 
 Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized for fast, reliable tool calling and complex instruction following on consumer hardware, delivering compressed performance competitive with much larger models and day-one support across major inference frameworks.
 
-⬆️ 235 • 💬 91 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
+⬆️ 238 • 💬 92 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 
 ---
 
@@ -281,7 +279,7 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 63K • 👍 1K • 💬 121 • ⏱️ 1:32:36 • 9h ago
+👁️ 63K • 👍 1K • 💬 121 • ⏱️ 1:32:36 • 10h ago
 
 ---
 
@@ -301,7 +299,7 @@ Create Your Own Army of AI Influencers with Higgsfield https://higgsfield.ai?fpr
 
 📺 Isa does AI
 
-👁️ 9K • ⏱️ 11:28 • 8h ago
+👁️ 9K • ⏱️ 11:28 • 9h ago
 
 ---
 
@@ -371,7 +369,7 @@ The rush to build AI data centers is drawing trillions of dollars in investment 
 
 📺 Bloomberg Television
 
-👁️ 2K • 👍 60 • 💬 29 • ⏱️ 11:37 • 6h ago
+👁️ 2K • 👍 60 • 💬 29 • ⏱️ 11:37 • 7h ago
 
 ---
 
@@ -445,7 +443,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 17,084 • ❤️ 259 • 10h ago
+⬇️ 17,084 • ❤️ 259 • 11h ago
 
 ---
 
@@ -481,7 +479,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 15,780 • ❤️ 454 • 11h ago
+⬇️ 15,780 • ❤️ 454 • 12h ago
 
 ---
 
@@ -648,7 +646,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.0k • 🔱 633 • 7h ago
+⭐ 3.0k • 🔱 633 • 8h ago
 
 ---
 
@@ -658,7 +656,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 192 • 9h ago
+⭐ 2.8k • 🔱 192 • 10h ago
 
 ---
 
@@ -698,7 +696,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 145 • 3h ago
+⭐ 2.1k • 🔱 145 • 5h ago
 
 ---
 
@@ -728,7 +726,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 209 • 15h ago
+⭐ 1.8k • 🔱 209 • 17h ago
 
 ---
 

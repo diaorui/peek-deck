@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T20:09:26.723626+00:00'
+updated: '2026-05-30T21:33:42.982007+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 20:09 UTC  
+**Last Updated:** May 30, 2026 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
 
-9h ago
+11h ago
 
 ---
 
@@ -44,13 +44,13 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-4h ago
+5h ago
 
 ---
 
 **[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -58,13 +58,27 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-10h ago
+11h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-12h ago
+14h ago
+
+---
+
+**[My current user interface/dashboard of my robot, with many new features: tilt-liddar automation, go section for collision, etc.](https://www.reddit.com/r/robotics/comments/1tsc1h6/my_current_user_interfacedashboard_of_my_robot/)**
+
+6m ago
+
+---
+
+**[Want to re-create SpiRob and simulate it in Gazebo](https://www.reddit.com/r/robotics/comments/1tsablj/want_to_recreate_spirob_and_simulate_it_in_gazebo/)**
+
+I found this robot quite interesting and want to re-create it for variable length and simulate it on Gazebo and ROS. How to do this btw? Here is the paper for -> spirob paper.
+
+1h ago
 
 ---
 
@@ -80,27 +94,13 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 Hey everyone, I’ve been building a small tool for robotics/RL teams to test policies in simulation and make it easier to catch and inspect failure cases. I’m looking for a few people to try it out and share honest feedback. If you work with robot learning, simulation, Gym, MuJoCo, Isaac, or similar and this sounds useful, feel free to DM me.
 
-2h ago
+4h ago
 
 ---
 
 **[Before we spend months processing open-source robotics datasets, tell us why this is a bad idea](https://www.reddit.com/r/robotics/comments/1trybsx/before_we_spend_months_processing_opensource/)**
 
-7h ago
-
----
-
-**[Small Autonomous Boat for Water Quality Monitoring](https://www.reddit.com/r/robotics/comments/1tr1yay/small_autonomous_boat_for_water_quality_monitoring/)**
-
-A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
-
-1d ago
-
----
-
-**[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
-
-19h ago
+9h ago
 
 ---
 
@@ -108,19 +108,11 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 ## Google News: "robotics"
 
-**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://www.ksl.com/article/51503542/humanoids-dance-and-thread-needles-as-japanese-robotics-developers-look-to-outdo-chinese)**
-
-Mechanical hands dexterous enough to thread a needle, childlike dancing robots and adult-sized ones to help with deliveries were on display Thursday as the Humanoids Summit Tokyo opened.
-
-KSL.com • 20h ago
-
----
-
 **[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -129,6 +121,30 @@ CNBC • 10h ago
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
 BBC • 1d ago
+
+---
+
+**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://www.ksl.com/article/51503542/humanoids-dance-and-thread-needles-as-japanese-robotics-developers-look-to-outdo-chinese)**
+
+Mechanical hands dexterous enough to thread a needle, childlike dancing robots and adult-sized ones to help with deliveries were on display Thursday as the Humanoids Summit Tokyo opened.
+
+KSL.com • 22h ago
+
+---
+
+**[Humanoid robots stun crowd by doing delicate tasks at Tokyo summit](https://interestingengineering.com/ai-robotics/humanoids-robots-stun-crowd-at-tokyo-summit)**
+
+Humanoid robots demonstrate delicate tasks at Humanoids Summit 2026 as China gains attention in robotics shift today.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[China’s Humanoid Robots Dance, Wiggle, and Thread Needles in Tokyo](https://www.eweek.com/news/apac-chinese-humanoids-japan-robotics-race/)**
+
+Chinese humanoid robot makers drew attention in Tokyo as Japan emphasized precision, durability, and real-world robotics testbeds.
+
+eWeek • 1d ago
 
 ---
 
@@ -160,23 +176,7 @@ Rice University • 2d ago
 
 While Argus looks like a sea urchin, its designers took cues from physics, not biology.
 
-Popular Science • 6h ago
-
----
-
-**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
-
-Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
-
-AP News • 3d ago
-
----
-
-**[Scientists found the optimal robot body, and it has 20 legs — watch it scale walls and move through trees](https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees)**
-
-A sea-urchin-like robot could offer a new blueprint for making more versatile robots, research suggests.
-
-Live Science • 1d ago
+Popular Science • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ New Vulcan Robot has arrived. I had a feeling we were getting a new robot in thi
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 383 • 💬 76 • ⏱️ 13:43 • 8h ago
+👁️ 8K • 👍 383 • 💬 76 • ⏱️ 13:43 • 9h ago
 
 ---
 
@@ -208,7 +208,7 @@ War Robots Gameplay: Ultimate Hawk, that makes everyone happy! My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 286 • 💬 60 • ⏱️ 19:00 • 6h ago
+👁️ 4K • 👍 286 • 💬 60 • ⏱️ 19:00 • 7h ago
 
 ---
 

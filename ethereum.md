@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T20:09:26.720804+00:00'
+updated: '2026-05-30T21:33:42.978829+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 20:09 UTC  
+**Last Updated:** May 30, 2026 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -3.4%  
+**24h:** +0.9%  
+**7d:** -3.3%  
 **30d:** -11.6%  
 **90d:** +0.1%  
-**1y:** -19.8%  
+**1y:** -19.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -104,15 +104,7 @@ Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with mult
 
 gmgm. already shared with the r/ethdev community. but this was something that i made for "normies" like myself. so i think it deserves a post here as well. you all know the pain, RPC errors, tx reverts and etherscan not showing why, extremely vague explanations from the stuff we use daily for something that actually has a better explanation. first, i thought of just whining about this on twitter. instead, i decided to take the matter to hands, and started building the thing. the fact is, almost all the errors are actually catalogued, not all of them, there are still some execution context reliant errors which tenderly is way better at explaining. but have you ever tried using tenderly and tried to make sense of that tx graph? it's a puzzle. and a pleb like myself does not need that puzzle, probably neither you. eventually, i asked codex to build the thing as a small product. and in a few days, we generated a catalog of about 25k errors and error codes with their explanations and possible actions to take if it happens. now it lives on https://revert.wtf. and it is also entirely open source on github https://github.com/mrtdlgc/revertwtf with its npm packages, agent skills, mcp servers and what not. i am hosting the thing myself, the api is also available, it's pretty permissive in terms of rate limits. feel free to use it, spread the word if you think it's useful, contribute to the repo if you think it should cover more platforms/protocols.
 
-1d ago
-
----
-
-**[QUIERO COMPRAR ETHEREUM PAGO](https://www.reddit.com/r/ethereum/comments/1trebex/quiero_comprar_ethereum_pago/)**
-
-YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
-
-23h ago
+2d ago
 
 ---
 
@@ -146,6 +138,14 @@ In this thread posted by the Everstake team they raise the point that "Past a ce
 
 ---
 
+**[Daily General Discussion May 27, 2026](https://www.reddit.com/r/ethereum/comments/1tovhuz/daily_general_discussion_may_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -162,23 +162,7 @@ Yahoo Finance • 1d ago
 
 BitMine Immersion Technologies (NYSE:BMNR) has accumulated over 4.4% of the total Ethereum supply, including a single US$230 million ETH purchase, and is approaching a 5% market share. The company has launched MAVAN, an institutional Ethereum staking platform, following its uplisting to the NYSE. BitMine Immersion Technologies is also pending inclusion in major stock indices such as the Russell 1000, which may affect how index funds gain exposure to Ethereum via equities. BitMine Immersion...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Can Ethereum Still Reach $4,950 Again?](https://finance.yahoo.com/markets/crypto/articles/ethereum-still-reach-4-950-164048023.html)**
-
-Ethereum (CRYPTO: ETH) climbed to $4,950 in August 2025, breaking its 2021 record after nearly four years of consolidation, and many investors thought that price level would eventually become the floor instead of the top. So far this year, ETH still trades far below that record despite spot Ethereum ETF approvals and rising institutional interest ... Can Ethereum Still Reach $4,950 Again?
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-vs-solana-152439488.html)**
-
-Four of the most closely followed cryptos are all trading below their peaks right now. Bitcoin (CRYPTO: BTC) has fallen below its October 2025 high, while Ethereum (CRYPTO: ETH) is 57% down from its all-time high. Meanwhile, XRP (CRYPTO: XRP) has been moving between $1.00 and $1.50 for months, and Solana (CRYPTO: SOL) is 72% ... Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,11 +182,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Price Struggles, Yet Whales Keep Accumulating: Here’s Why](https://www.tradingview.com/news/coinpedia:0e935befb094b:0-ethereum-price-struggles-yet-whales-keep-accumulating-here-s-why/)**
+**[How Buying Ethereum Could 10X Your Investment Over the Next Decade](https://www.fool.com/investing/2026/05/30/how-buying-ethereum-could-10x-your-investment-over/)**
 
-Ethereum price may be flashing weakness, but smart money appears increasingly unfazed. As ETH price trades under pressure and momentum slows, some of the market’s biggest wallets are quietly accumulating again, a move that historically tends to matter. The disconnect is raising fresh speculation ac…
+Ethereum could soar, but only if on-chain finance grows dramatically.
 
-TradingView • 7h ago
+The Motley Fool • 1h ago
+
+---
+
+**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
+
+Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
+
+TradingView • 5h ago
 
 ---
 
@@ -214,11 +206,11 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[Should Hyperliquid Be Worth More Than XRP or Ethereum?](https://www.fool.com/investing/2026/05/29/should-hyperliquid-be-worth-more-than-xrp-or-ether/)**
+**[MicroStrategy Corrects Bitcoin Sell-Off Fears With $30 Million Withdrawal](https://beincrypto.com/microstrategy-bitcoin-sell-off-fears-reversal/)**
 
-There's one area in particular where both XRP and Ethereum are struggling to justify their value.
+Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
 
-The Motley Fool • 1d ago
+BeInCrypto • 14h ago
 
 ---
 
@@ -227,6 +219,12 @@ The Motley Fool • 1d ago
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) struggle on Friday after correcting over 4.4%, 4.5% and 3% so far this week. BTC is trading below $74,000, ETH dropped to $2,000, and XRP is hovering near $1.30.
 
 FXStreet • 1d ago
+
+---
+
+**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/early-signals-show-xrp-outpacing-ethereum-in-q2-can-it-happen/)**
+
+AMBCrypto • 5h ago
 
 ---
 
@@ -240,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 429 • 💬 88 • ⏱️ 7:50 • 8h ago
+👁️ 6K • 👍 429 • 💬 88 • ⏱️ 7:50 • 9h ago
 
 ---
 
@@ -250,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 198 • 💬 74 • ⏱️ 18:46 • 3h ago
+👁️ 3K • 👍 198 • 💬 74 • ⏱️ 18:46 • 5h ago
 
 ---
 
@@ -280,7 +278,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 77 • 👍 6 • 💬 2 • ⏱️ 36:57 • 54m ago
+👁️ 77 • 👍 6 • 💬 2 • ⏱️ 36:57 • 2h ago
 
 ---
 
@@ -290,7 +288,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 1K • 👍 50 • 💬 34 • ⏱️ 1:19 • 4h ago
+👁️ 1K • 👍 50 • 💬 34 • ⏱️ 1:19 • 5h ago
 
 ---
 
@@ -300,7 +298,7 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 349 • 💬 310 • ⏱️ 18:36 • 17h ago
+👁️ 8K • 👍 349 • 💬 310 • ⏱️ 18:36 • 19h ago
 
 ---
 
@@ -310,7 +308,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 379 • 💬 61 • ⏱️ 47:42 • 23h ago
+👁️ 4K • 👍 379 • 💬 61 • ⏱️ 47:42 • 1d ago
 
 ---
 
