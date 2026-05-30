@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T21:33:42.978829+00:00'
+updated: '2026-05-30T22:58:25.104985+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 21:33 UTC  
+**Last Updated:** May 30, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,018.76
+### $2,024.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -3.3%  
-**30d:** -11.6%  
-**90d:** +0.1%  
-**1y:** -19.7%  
+**24h:** +0.4%  
+**7d:** -3.7%  
+**30d:** -11.9%  
+**90d:** -0.2%  
+**1y:** -20.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.40B
+**Market Cap:** $243.78B
 Rank #2
 
 **Circulating Supply:** 120,685,284 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.0%
+-59.2%
 
 **All-Time Low:** $0.43
-+467724.1%
++466407.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In this thread posted by the Everstake team they raise the point that "Past a certain staking ratio, more ETH being staked does not actually make the network more secure. But it keeps increasing gross issuance. And if a small number of large providers end up dominating the validator set, the slashing mechanism that enforces Ethereum's security becomes effectively unusable. A provider controlling enough stake becomes too big to slash without causing systemic damage to the whole network." Further posts in the thread say three camps have formed with differing opinions on this staking related issue, without being able to come to a consensus on a fix. Thoughts? https://preview.redd.it/2u02fc0hky3h1.png?width=1113&format=png&auto=webp&s=a448979c219e1967659e4b88fe37ec226ce5b7ce
 
-1d ago
+2d ago
 
 ---
 
@@ -150,9 +150,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Price to $40,000 By 2030, Says Standard Chartered — Is It Likely?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-40-000-2030-123215757.html)**
+**[Ethereum’s Price Breaks Down Below $2,000](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-breaks-down-below-133100386.html)**
 
-Ethereum's price fell below $2,000 for the first time since March 29. Santiment warned that retail “buy the dip” optimism may be a bearish contrarian ...
+The price of Ethereum (CRYPTO: $ETH) has broken down and fallen below $2,000 U.S. as cryptocurrencies continue to d...
 
 Yahoo Finance • 1d ago
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 BitMine Immersion Technologies (NYSE:BMNR) has accumulated over 4.4% of the total Ethereum supply, including a single US$230 million ETH purchase, and is approaching a 5% market share. The company has launched MAVAN, an institutional Ethereum staking platform, following its uplisting to the NYSE. BitMine Immersion Technologies is also pending inclusion in major stock indices such as the Russell 1000, which may affect how index funds gain exposure to Ethereum via equities. BitMine Immersion...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 2d ago
 
 Ethereum could soar, but only if on-chain finance grows dramatically.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -194,7 +194,15 @@ The Motley Fool • 1h ago
 
 Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-TradingView • 5h ago
+TradingView • 6h ago
+
+---
+
+**[Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance](https://decrypt.co/369305/standard-chartered-reaffirms-40k-ethereum-price-target-defi-dominance)**
+
+Standard Chartered analysts argued in a note that Ethereum’s current price doesn’t reflect its network's improving metrics.
+
+Decrypt • 2d ago
 
 ---
 
@@ -210,21 +218,13 @@ Crypto Briefing • 1d ago
 
 Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
 
-BeInCrypto • 14h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slides toward breakdown, ETH struggles, XRP loses momentum](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slides-toward-breakdown-eth-struggles-xrp-loses-momentum-202605290405)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) struggle on Friday after correcting over 4.4%, 4.5% and 3% so far this week. BTC is trading below $74,000, ETH dropped to $2,000, and XRP is hovering near $1.30.
-
-FXStreet • 1d ago
+BeInCrypto • 15h ago
 
 ---
 
 **[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/early-signals-show-xrp-outpacing-ethereum-in-q2-can-it-happen/)**
 
-AMBCrypto • 5h ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 429 • 💬 88 • ⏱️ 7:50 • 9h ago
+👁️ 7K • 👍 483 • 💬 90 • ⏱️ 7:50 • 10h ago
 
 ---
 
@@ -248,27 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 198 • 💬 74 • ⏱️ 18:46 • 5h ago
-
----
-
-**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
-
-MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
-
-📺 Linda CryptoFly
-
-👁️ 2K • 👍 163 • 💬 32 • ⏱️ 7:41 • 1d ago
-
----
-
-**[Ethereum: Why So Many People Are Giving Up on It](https://www.youtube.com/watch?v=2N30H9GoWss)**
-
-In this interview, former Ethereum Foundation team member Hudson Jameson shares his perspective on Ethereum's biggest ...
-
-📺 Cointelegraph
-
-👁️ 5K • 👍 151 • 💬 35 • ⏱️ 20:38 • 1d ago
+👁️ 7K • 👍 274 • 💬 62 • ⏱️ 18:46 • 6h ago
 
 ---
 
@@ -278,7 +258,27 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 77 • 👍 6 • 💬 2 • ⏱️ 36:57 • 2h ago
+👁️ 1K • 👍 62 • 💬 32 • ⏱️ 36:57 • 3h ago
+
+---
+
+**[Ethereum: Why So Many People Are Giving Up on It](https://www.youtube.com/watch?v=2N30H9GoWss)**
+
+In this interview, former Ethereum Foundation team member Hudson Jameson shares his perspective on Ethereum's biggest ...
+
+📺 Cointelegraph
+
+👁️ 5K • 👍 160 • 💬 38 • ⏱️ 20:38 • 1d ago
+
+---
+
+**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
+
+MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
+
+📺 Linda CryptoFly
+
+👁️ 2K • 👍 168 • 💬 34 • ⏱️ 7:41 • 1d ago
 
 ---
 
@@ -288,27 +288,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 1K • 👍 50 • 💬 34 • ⏱️ 1:19 • 5h ago
-
----
-
-**[BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zE4kLZrFgPQ)**
-
-BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 349 • 💬 310 • ⏱️ 18:36 • 19h ago
-
----
-
-**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
-
-CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
-
-📺 CryptoWendyO
-
-👁️ 4K • 👍 379 • 💬 61 • ⏱️ 47:42 • 1d ago
+👁️ 2K • 👍 70 • 💬 18 • ⏱️ 1:19 • 6h ago
 
 ---
 
@@ -318,7 +298,27 @@ Tangem 50% off your 2nd Tangem Card Set ➡ Until 25 May 20026 Tangem 20% off + 
 
 📺 Your Crypto Crew
 
-👁️ 1K • 👍 93 • 💬 5 • ⏱️ 10:05 • 1d ago
+👁️ 1K • 👍 96 • 💬 6 • ⏱️ 10:05 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=p91V6raMQyA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 86 • 💬 4 • ⏱️ 7:06 • 8h ago
+
+---
+
+**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
+
+CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 395 • 💬 62 • ⏱️ 47:42 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin, Ethereum and Solana trade update with full technical analysis and tradi
 
 📺 Chart Champions
 
-👁️ 7K • 👍 414 • 💬 30 • ⏱️ 15:56 • 1d ago
+👁️ 7K • 👍 418 • 💬 30 • ⏱️ 15:56 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T21:33:42.982007+00:00'
+updated: '2026-05-30T22:58:25.108544+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 21:33 UTC  
+**Last Updated:** May 30, 2026 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Lingxi X2 dodges thrown balls and goes up and down stairs (AGIBOT’s newly launched AGILE perception-motion foundation model)](https://www.reddit.com/r/robotics/comments/1trw4am/lingxi_x2_dodges_thrown_balls_and_goes_up_and/)**
-
-From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
-
-11h ago
-
----
-
 **[Fully 3D Printed WALL-E with Functional Tracks](https://www.reddit.com/r/robotics/comments/1ts3y40/fully_3d_printed_walle_with_functional_tracks/)**
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-5h ago
+6h ago
+
+---
+
+**[Lingxi X2 dodges thrown balls and goes up and down stairs (AGIBOT’s newly launched AGILE perception-motion foundation model)](https://www.reddit.com/r/robotics/comments/1trw4am/lingxi_x2_dodges_thrown_balls_and_goes_up_and/)**
+
+From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
+
+12h ago
 
 ---
 
 **[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -58,19 +58,19 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-11h ago
+13h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-14h ago
+15h ago
 
 ---
 
 **[My current user interface/dashboard of my robot, with many new features: tilt-liddar automation, go section for collision, etc.](https://www.reddit.com/r/robotics/comments/1tsc1h6/my_current_user_interfacedashboard_of_my_robot/)**
 
-6m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ Closeup of the belt drive transmission inside my core joint. Belt drive chosen s
 
 I found this robot quite interesting and want to re-create it for variable length and simulate it on Gazebo and ROS. How to do this btw? Here is the paper for -> spirob paper.
 
-1h ago
+2h ago
 
 ---
 
@@ -94,13 +94,13 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 Hey everyone, I’ve been building a small tool for robotics/RL teams to test policies in simulation and make it easier to catch and inspect failure cases. I’m looking for a few people to try it out and share honest feedback. If you work with robot learning, simulation, Gym, MuJoCo, Isaac, or similar and this sounds useful, feel free to DM me.
 
-4h ago
+5h ago
 
 ---
 
 **[Before we spend months processing open-source robotics datasets, tell us why this is a bad idea](https://www.reddit.com/r/robotics/comments/1trybsx/before_we_spend_months_processing_opensource/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, I’ve been building a small tool for robotics/RL teams to test po
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 11h ago
+CNBC • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ BBC • 1d ago
 
 Mechanical hands dexterous enough to thread a needle, childlike dancing robots and adult-sized ones to help with deliveries were on display Thursday as the Humanoids Summit Tokyo opened.
 
-KSL.com • 22h ago
+KSL.com • 23h ago
 
 ---
 
@@ -164,6 +164,14 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
+**[This creepy blob robot will keep going even if you break its legs](https://www.popsci.com/technology/unstoppable-blob-robot/)**
+
+While Argus looks like a sea urchin, its designers took cues from physics, not biology.
+
+Popular Science • 8h ago
+
+---
+
 **[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
 
 Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
@@ -172,19 +180,11 @@ Rice University • 2d ago
 
 ---
 
-**[This creepy blob robot will keep going even if you break its legs](https://www.popsci.com/technology/unstoppable-blob-robot/)**
+**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub)**
 
-While Argus looks like a sea urchin, its designers took cues from physics, not biology.
+Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
 
-Popular Science • 7h ago
-
----
-
-**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
-
-ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
-
-Yahoo Finance • 2d ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -192,23 +192,13 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[NEW Vulcan Robot Is Here - Behemoth Jr With 3 Stage Energy Cannon | War Robots](https://www.youtube.com/watch?v=B_p2JLVIXQo)**
+**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
 
-New Vulcan Robot has arrived. I had a feeling we were getting a new robot in this week's test server and we got it. This thing is ...
+Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
 
-📺 PREDATOR WR
+📺 Financial Times
 
-👁️ 8K • 👍 383 • 💬 76 • ⏱️ 13:43 • 9h ago
-
----
-
-**[EVERYONE wants to play THIS HAWK Now! War Robots](https://www.youtube.com/watch?v=_1cp6FzL3Uw)**
-
-War Robots Gameplay: Ultimate Hawk, that makes everyone happy! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 286 • 💬 60 • ⏱️ 19:00 • 7h ago
+👁️ 15K • 👍 320 • 💬 71 • ⏱️ 5:11 • 1d ago
 
 ---
 
@@ -218,7 +208,17 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 45K • 👍 958 • 💬 38 • ⏱️ 10:21 • 3d ago
+👁️ 45K • 👍 967 • 💬 38 • ⏱️ 10:21 • 3d ago
+
+---
+
+**[NEW Vulcan Robot Is Here - Behemoth Jr With 3 Stage Energy Cannon | War Robots](https://www.youtube.com/watch?v=B_p2JLVIXQo)**
+
+New Vulcan Robot has arrived. I had a feeling we were getting a new robot in this week's test server and we got it. This thing is ...
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 430 • 💬 83 • ⏱️ 13:43 • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ China's humanoid robot industry is accelerating fast as Engine AI officially lau
 
 📺 DPCcars
 
-👁️ 17K • 👍 111 • 💬 85 • ⏱️ 1:55 • 2d ago
+👁️ 18K • 👍 116 • 💬 85 • ⏱️ 1:55 • 2d ago
 
 ---
 
@@ -248,17 +248,15 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 385 • 💬 92 • ⏱️ 13:36 • 1d ago
+👁️ 10K • 👍 390 • 💬 92 • ⏱️ 13:36 • 1d ago
 
 ---
 
-**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
+**[China Makes Half of the World’s Humanoid Robots 🤖#shorts #futuretech #facts #china #robotics](https://www.youtube.com/watch?v=FlW0662M-iA)**
 
-Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
+📺 Hidden Side of the World
 
-📺 Duke Engineering
-
-👁️ 19K • 👍 2K • 💬 105 • ⏱️ 1:50 • 2d ago
+👁️ 1K • 👍 21 • 💬 1 • ⏱️ 0:52 • 13h ago
 
 ---
 
@@ -268,27 +266,27 @@ War Robots Gameplay: New Robot SHOGGOTH - The KRAKEN - WR My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 18K • 👍 676 • 💬 118 • ⏱️ 25:12 • 2d ago
+👁️ 18K • 👍 678 • 💬 118 • ⏱️ 25:12 • 2d ago
 
 ---
 
-**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
+**[This Robot Mower Just Eliminated the Weed Trimmer](https://www.youtube.com/watch?v=fX3spGDe_qs)**
 
-Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
+The new ECOVACS GOAT A3000 LiDAR PRO doesn't just mow your lawn autonomously — it actually trims edges using the new ...
 
-📺 Techie Sapien
+📺 Pest and Lawn Ginja
 
-👁️ 692K • 👍 5K • 💬 90 • ⏱️ 0:07 • 1d ago
+👁️ 5K • 👍 78 • 💬 26 • ⏱️ 11:40 • 1d ago
 
 ---
 
-**[Figure 03 AI Robot Reveals Its UNFAIR Advantage… Humans Can’t Match It](https://www.youtube.com/watch?v=NPOqqDASRCA)**
+**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
 
-A 22-year-old intern just beat a humanoid robot… but this might be the LAST time a human wins like this. In Figure AI's wild Man ...
+Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
 
-📺 The AI Nexus
+📺 Duke Engineering
 
-👁️ 10K • 👍 198 • 💬 46 • ⏱️ 18:21 • 6d ago
+👁️ 19K • 👍 3K • 💬 106 • ⏱️ 1:50 • 2d ago
 
 ---
 
