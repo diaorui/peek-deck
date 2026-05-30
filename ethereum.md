@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T15:46:52.428944+00:00'
+updated: '2026-05-30T17:05:55.031495+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 15:46 UTC  
+**Last Updated:** May 30, 2026 at 17:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
+**24h:** +0.8%  
 **7d:** -3.5%  
 **30d:** -11.7%  
-**90d:** -0.1%  
-**1y:** -19.9%  
+**90d:** +0.0%  
+**1y:** -19.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.81B
+**Market Cap:** $244.24B
 Rank #2
 
 **Circulating Supply:** 120,685,284 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.1%
 
 **All-Time Low:** $0.43
-+466731.0%
++467368.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-19h ago
+20h ago
 
 ---
 
@@ -158,19 +158,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics](https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up)**
-
-Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
-
-The Block • 2d ago
-
----
-
 **[Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?](https://finance.yahoo.com/markets/crypto/articles/smarter-buy-bitcoin-btc-ethereum-143538623.html)**
 
 Every crypto buyer hits the same question eventually: Which is the smarter byy between Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH)? The two have dominated the market for years, together accounting for roughly 67% of the entire global cryptocurrency market cap. But sharing the same blockchain roots does not make them the same asset, and ... Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?
 
+Yahoo Finance • 2h ago
+
+---
+
+**[Hyperliquid vs Ethereum: Did Tom Lee Pick the Wrong Crypto Treasury Asset for BitMine?](https://finance.yahoo.com/markets/crypto/articles/hyperliquid-vs-ethereum-did-tom-151806728.html)**
+
+Tom Lee's BitMine picked Ethereum over Hyperliquid as HYPE rallied 68%. Is the call patient conviction or a costly miss?
+
 Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-vs-solana-152439488.html)**
+
+Four of the most closely followed cryptos are all trading below their peaks right now. Bitcoin (CRYPTO: BTC) has fallen below its October 2025 high, while Ethereum (CRYPTO: ETH) is 57% down from its all-time high. Meanwhile, XRP (CRYPTO: XRP) has been moving between $1.00 and $1.50 for months, and Solana (CRYPTO: SOL) is 72% ... Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Base launches Azul on mainnet, pushing Coinbase's Ethereum L2 toward full decentralization](https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization)**
+
+Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.
+
+The Block • 1d ago
 
 ---
 
@@ -182,11 +198,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Flashes A Rare Signal As Open Interest Reaches Highest Level Since 2019](https://www.tradingview.com/news/newsbtc:92e991b6b094b:0-ethereum-flashes-a-rare-signal-as-open-interest-reaches-highest-level-since-2019/)**
+**[Ethereum Price Struggles, Yet Whales Keep Accumulating: Here’s Why](https://www.tradingview.com/news/coinpedia:0e935befb094b:0-ethereum-price-struggles-yet-whales-keep-accumulating-here-s-why/)**
 
-Ethereum is struggling to push above $2,000 as the market prepares for a decisive move that participants on both sides of the trade increasingly recognize as imminent. The price is compressing — and CryptoQuant data has identified a development in the derivatives market that explains why the curren…
+Ethereum price may be flashing weakness, but smart money appears increasingly unfazed. As ETH price trades under pressure and momentum slows, some of the market’s biggest wallets are quietly accumulating again, a move that historically tends to matter. The disconnect is raising fresh speculation ac…
 
-TradingView • 8h ago
+TradingView • 4h ago
 
 ---
 
@@ -194,7 +210,7 @@ TradingView • 8h ago
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 20h ago
+Crypto Briefing • 21h ago
 
 ---
 
@@ -214,20 +230,6 @@ Fortune • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slides toward breakdown, ETH struggles, XRP loses momentum](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slides-toward-breakdown-eth-struggles-xrp-loses-momentum-202605290405)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) struggle on Friday after correcting over 4.4%, 4.5% and 3% so far this week. BTC is trading below $74,000, ETH dropped to $2,000, and XRP is hovering near $1.30.
-
-FXStreet • 1d ago
-
----
-
-**[Can ethereum reclaim 2021 highs versus bitcoin?](https://www.investing.com/news/cryptocurrency-news/can-ethereum-reclaim-2021-highs-versus-bitcoin-4714837)**
-
-Investing.com • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +240,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 2K • 👍 215 • 💬 39 • ⏱️ 7:50 • 3h ago
+👁️ 4K • 👍 355 • 💬 67 • ⏱️ 7:50 • 5h ago
 
 ---
 
@@ -248,7 +250,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 134 • 💬 29 • ⏱️ 20:38 • 22h ago
+👁️ 4K • 👍 140 • 💬 31 • ⏱️ 20:38 • 1d ago
 
 ---
 
@@ -258,27 +260,27 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 150 • 💬 31 • ⏱️ 7:41 • 23h ago
+👁️ 1K • 👍 156 • 💬 31 • ⏱️ 7:41 • 1d ago
 
 ---
 
-**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=FzRg5udtTFI)**
 
-CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 CryptoWendyO
+📺 Crypto Nutshell
 
-👁️ 3K • 👍 307 • 💬 60 • ⏱️ 47:42 • 18h ago
+👁️ 424 • 👍 52 • 💬 16 • ⏱️ 18:46 • 50m ago
 
 ---
 
-**[Ethereum is Dying.](https://www.youtube.com/watch?v=G4iwlgqw7k8)**
+**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
 
-Today, Ran takes a closer look at Ethereum's current identity crisis, from slowing momentum and negative sentiment to growing ...
+Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
 
-📺 Crypto Banter
+📺 Lark Davis
 
-👁️ 18K • 👍 972 • 💬 45 • ⏱️ 29:37 • 3d ago
+👁️ 600 • 👍 22 • 💬 2 • ⏱️ 1:19 • 1h ago
 
 ---
 
@@ -288,7 +290,17 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 326 • 💬 114 • ⏱️ 18:36 • 13h ago
+👁️ 7K • 👍 339 • 💬 286 • ⏱️ 18:36 • 14h ago
+
+---
+
+**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
+
+CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 345 • 💬 60 • ⏱️ 47:42 • 20h ago
 
 ---
 
@@ -298,27 +310,17 @@ Bitcoin, Ethereum and Solana trade update with full technical analysis and tradi
 
 📺 Chart Champions
 
-👁️ 7K • 👍 408 • 💬 29 • ⏱️ 15:56 • 1d ago
+👁️ 7K • 👍 411 • 💬 29 • ⏱️ 15:56 • 1d ago
 
 ---
 
-**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
+**[SOMETHING MASSIVE JUST SHIFTED IN BITCOIN, ETHEREUM &amp; XRP](https://www.youtube.com/watch?v=dNWaa3RBfos)**
 
-Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
+The crypto market may have just entered a major turning point. Bitcoin is losing momentum, Ethereum is flashing mixed signals, ...
 
-📺 BULLRUNNERS
+📺 Artur
 
-👁️ 8K • 👍 359 • 💬 49 • ⏱️ 15:14 • 2d ago
-
----
-
-**[Big Ethereum News Today #crypto](https://www.youtube.com/watch?v=KBY1zK0G5xM)**
-
-Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex.com/register?vipCode=oz5p ✓ Bitunix (no ...
-
-📺 Altcoin Daily
-
-👁️ 13K • 👍 274 • 💬 51 • ⏱️ 0:32 • 2d ago
+👁️ 1K • 👍 82 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -328,7 +330,7 @@ Jetzt gratis sichern - Die neue „Blockchain-Investor“-App: ₿ ▻ Google Pl
 
 📺 Krypto Report
 
-👁️ 13K • 👍 827 • 💬 33 • ⏱️ 15:05 • 1d ago
+👁️ 13K • 👍 845 • 💬 35 • ⏱️ 15:05 • 2d ago
 
 ---
 

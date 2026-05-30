@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T15:46:52.431795+00:00'
+updated: '2026-05-30T17:05:55.034288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 15:46 UTC  
+**Last Updated:** May 30, 2026 at 17:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
 
-5h ago
+6h ago
 
 ---
 
 **[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
 
-10h ago
+11h ago
+
+---
+
+**[Fully 3D Printed WALL-E with Functional Tracks](https://www.reddit.com/r/robotics/comments/1ts3y40/fully_3d_printed_walle_with_functional_tracks/)**
+
+I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
+
+58m ago
 
 ---
 
@@ -50,13 +58,13 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-5h ago
+7h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -70,7 +78,7 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 **[Before we spend months processing open-source robotics datasets, tell us why this is a bad idea](https://www.reddit.com/r/robotics/comments/1trybsx/before_we_spend_months_processing_opensource/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -84,7 +92,7 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 **[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -92,27 +100,13 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-19h ago
-
----
-
-**[[Release] LinkForge v1.4.0: Programmable IR Core, Rigorous Physical Linting, and Headless Composition](https://www.reddit.com/r/robotics/comments/1trsnqw/release_linkforge_v140_programmable_ir_core/)**
-
-8h ago
+20h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Humanoid robots 'the future' of car making, says BMW](https://www.bbc.com/news/articles/cgmpwzzvxr2o)**
-
-BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
-
-BBC • 1d ago
-
----
 
 **[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
 
@@ -122,19 +116,27 @@ AP News • 1d ago
 
 ---
 
+**[Humanoid robots stun crowd by doing delicate tasks at Tokyo summit](https://interestingengineering.com/ai-robotics/humanoids-robots-stun-crowd-at-tokyo-summit)**
+
+Humanoid robots demonstrate delicate tasks at Humanoids Summit 2026 as China gains attention in robotics shift today.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
-**[Humanoid robots join human models in rampwalk at futuristic Seoul fashion show](https://interestingengineering.com/ai-robotics/humanoid-robot-fashion-show)**
+**[Humanoid robots 'the future' of car making, says BMW](https://www.bbc.com/news/articles/cgmpwzzvxr2o)**
 
-Humanoid robots wearing designer clothing walked alongside human models at a futuristic fashion show in Seoul.
+BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
-Interesting Engineering • 5h ago
+BBC • 1d ago
 
 ---
 
@@ -142,7 +144,7 @@ Interesting Engineering • 5h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 21h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -151,6 +153,14 @@ IEEE Spectrum • 21h ago
 From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
 
 Bessemer Venture Partners • 2d ago
+
+---
+
+**[This creepy blob robot will keep going even if you break its legs](https://www.popsci.com/technology/unstoppable-blob-robot/)**
+
+While Argus looks like a sea urchin, its designers took cues from physics, not biology.
+
+Popular Science • 3h ago
 
 ---
 
@@ -170,14 +180,6 @@ Live Science • 1d ago
 
 ---
 
-**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
-
-Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
-
-AP News • 2d ago
-
----
-
 **[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
 
 Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
@@ -190,63 +192,23 @@ Rice University • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure 03 Reveals 5 INSANE Upgrades… Tesla’s Robot Rival Is Getting Insane!](https://www.youtube.com/watch?v=MXbNyedralg)**
-
-Figure just quietly LAPPED the entire humanoid robot race — and almost nobody noticed. While the whole world keeps waiting on ...
-
-📺 The AI Nexus
-
-👁️ 4K • 👍 135 • 💬 9 • ⏱️ 25:08 • 23h ago
-
----
-
-**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
-
-The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
-
-📺 AI News
-
-👁️ 12K • 👍 212 • 💬 38 • ⏱️ 8:02 • 6d ago
-
----
-
 **[This $440 Million Startup Is Solving Robotics’ Biggest Problem](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
 
 Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
 
 📺 Forbes
 
-👁️ 43K • 👍 925 • 💬 34 • ⏱️ 10:21 • 2d ago
+👁️ 44K • 👍 945 • 💬 36 • ⏱️ 10:21 • 3d ago
 
 ---
 
-**[Engine AI Just Started Mass Producing Humanoid Robots](https://www.youtube.com/watch?v=S8_6iLPbu2A)**
+**[Figure 03 Reveals 5 INSANE Upgrades… Tesla’s Robot Rival Is Getting Insane!](https://www.youtube.com/watch?v=MXbNyedralg)**
 
-China's humanoid robot industry is accelerating fast as Engine AI officially launches its Intelligent Manufacturing Base in ...
+Figure just quietly LAPPED the entire humanoid robot race — and almost nobody noticed. While the whole world keeps waiting on ...
 
-📺 DPCcars
+📺 The AI Nexus
 
-👁️ 16K • 👍 107 • 💬 83 • ⏱️ 1:55 • 2d ago
-
----
-
-**[China’s New AI Robots Just BROKE the Speed Record… This Is Shocking](https://www.youtube.com/watch?v=zxjRe2zHG-g)**
-
-Millions watched in stunned silence as a 137-pound humanoid robot tore down a Chinese outdoor track at the pace of an Olympic ...
-
-📺 NextGen Humanoids
-
-👁️ 5K • 👍 119 • 💬 32 • ⏱️ 18:42 • 3d ago
-
----
-
-**[LimX Luna Robot Walks and Dances Like a Real Human](https://www.youtube.com/watch?v=yxZLeXho-OM)**
-
-A new humanoid robot is making headlines for one incredible reason: it walks and dances with movements that look surprisingly ...
-
-📺 DPCcars
-
-👁️ 787 • 👍 26 • 💬 5 • ⏱️ 2:57 • 1d ago
+👁️ 5K • 👍 141 • 💬 10 • ⏱️ 25:08 • 1d ago
 
 ---
 
@@ -256,7 +218,27 @@ In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.gam
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 145 • 💬 26 • ⏱️ 15:23 • 1d ago
+👁️ 3K • 👍 149 • 💬 26 • ⏱️ 15:23 • 1d ago
+
+---
+
+**[Engine AI Just Started Mass Producing Humanoid Robots](https://www.youtube.com/watch?v=S8_6iLPbu2A)**
+
+China's humanoid robot industry is accelerating fast as Engine AI officially launches its Intelligent Manufacturing Base in ...
+
+📺 DPCcars
+
+👁️ 17K • 👍 109 • 💬 84 • ⏱️ 1:55 • 2d ago
+
+---
+
+**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+
+The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+
+📺 PREDATOR WR
+
+👁️ 10K • 👍 385 • 💬 92 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -270,23 +252,41 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 ---
 
-**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+**[China Makes Half of the World’s Humanoid Robots 🤖#shorts #futuretech #facts #china #robotics](https://www.youtube.com/watch?v=FlW0662M-iA)**
 
-The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+📺 Hidden Side of the World
 
-📺 PREDATOR WR
-
-👁️ 10K • 👍 379 • 💬 92 • ⏱️ 13:36 • 1d ago
+👁️ 1K • 👍 21 • 💬 1 • ⏱️ 0:52 • 8h ago
 
 ---
 
-**[Tesla Optimus Factory Hits First Steel: The 27,000 Robots/Day Plan is REAL](https://www.youtube.com/watch?v=8gfokSTHCD4)**
+**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
 
-Tesla Optimus Factory just hit its biggest milestone yet as the first steel column rises at Giga Texas. But this isn't just another ...
+Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
 
-📺 Tech Revolution
+📺 Duke Engineering
 
-👁️ 17K • 👍 459 • 💬 44 • ⏱️ 17:07 • 2d ago
+👁️ 18K • 👍 2K • 💬 102 • ⏱️ 1:50 • 2d ago
+
+---
+
+**[SPIDER-MAN ROBOT! This Logistics Bot Climbs 12-Meter Shelves Directly 🤖](https://www.youtube.com/watch?v=sz6hEdNSoTc)**
+
+Inside a high-density, automated smart fulfillment fulfillment center, a groundbreaking category of logistics robotics showcases its ...
+
+📺 Peace Working Shorts
+
+👁️ 802K • 👍 2K • 💬 18 • ⏱️ 0:06 • 4d ago
+
+---
+
+**[New KRAKEN Robot is here! War Robots SHOGGOTH 12.2 Update LIVE](https://www.youtube.com/watch?v=6qdKDy2a6Xo)**
+
+War Robots Gameplay: New Robot SHOGGOTH - The KRAKEN - WR My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 17K • 👍 671 • 💬 118 • ⏱️ 25:12 • 2d ago
 
 ---
 
