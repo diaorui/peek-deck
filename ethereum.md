@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T14:13:22.811481+00:00'
+updated: '2026-05-30T15:46:52.428944+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 14:13 UTC  
+**Last Updated:** May 30, 2026 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -3.6%  
-**30d:** -11.8%  
+**24h:** -0.7%  
+**7d:** -3.5%  
+**30d:** -11.7%  
 **90d:** -0.1%  
 **1y:** -19.9%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -112,7 +112,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-17h ago
+19h ago
 
 ---
 
@@ -166,19 +166,19 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Foundation Returns to Spotlight Amid Governance and Culture Tensions](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-returns-spotlight-amid-094800082.html)**
+**[Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?](https://finance.yahoo.com/markets/crypto/articles/smarter-buy-bitcoin-btc-ethereum-143538623.html)**
 
-The Ethereum Foundation is facing its most concentrated wave of internal criticism in years, eight high-profile departures since January 2026, a contested public mandate, and an open debate over whether the Switzerland-based nonprofit still serves a coherent purpose inside the ecosystem it helped build. The conflict is no longer a ...
+Every crypto buyer hits the same question eventually: Which is the smarter byy between Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH)? The two have dominated the market for years, together accounting for roughly 67% of the entire global cryptocurrency market cap. But sharing the same blockchain roots does not make them the same asset, and ... Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum news: Bit Digital (BTBT) bought ether first time since October before 15% decline](https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge)**
+**[Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)**
 
-The firm said it purchased 8,568 ether on May 11 at an average price of $2,334. Since then, ETH broke below $2,000, leaving the firm sitting at a $3 million unrealized loss.
+In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
 
-CoinDesk • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -186,7 +186,15 @@ CoinDesk • 2d ago
 
 Ethereum is struggling to push above $2,000 as the market prepares for a decisive move that participants on both sides of the trade increasingly recognize as imminent. The price is compressing — and CryptoQuant data has identified a development in the derivatives market that explains why the curren…
 
-TradingView • 7h ago
+TradingView • 8h ago
+
+---
+
+**[Vitalik Buterin warns Ethereum ecosystem against OpenAI’s path in EthCC speech](https://cryptobriefing.com/vitalik-buterin-ethereum-openai-ethcc-warning/)**
+
+Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
+
+Crypto Briefing • 20h ago
 
 ---
 
@@ -198,11 +206,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Vitalik Buterin warns Ethereum ecosystem against OpenAI’s path in EthCC speech](https://cryptobriefing.com/vitalik-buterin-ethereum-openai-ethcc-warning/)**
+**[Current price of Ethereum for May 28, 2026](https://fortune.com/article/price-of-ethereum-05-28-2026/)**
 
-Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Crypto Briefing • 18h ago
+Fortune • 2d ago
 
 ---
 
@@ -214,17 +222,9 @@ FXStreet • 1d ago
 
 ---
 
-**[Current price of Ethereum for May 28, 2026](https://fortune.com/article/price-of-ethereum-05-28-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
-
----
-
 **[Can ethereum reclaim 2021 highs versus bitcoin?](https://www.investing.com/news/cryptocurrency-news/can-ethereum-reclaim-2021-highs-versus-bitcoin-4714837)**
 
-Investing.com • 1d ago
+Investing.com • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 2K • 👍 215 • 💬 39 • ⏱️ 7:50 • 2h ago
+👁️ 2K • 👍 215 • 💬 39 • ⏱️ 7:50 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 134 • 💬 29 • ⏱️ 20:38 • 21h ago
+👁️ 4K • 👍 134 • 💬 29 • ⏱️ 20:38 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 150 • 💬 31 • ⏱️ 7:41 • 21h ago
+👁️ 1K • 👍 150 • 💬 31 • ⏱️ 7:41 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 307 • 💬 60 • ⏱️ 47:42 • 17h ago
+👁️ 3K • 👍 307 • 💬 60 • ⏱️ 47:42 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 972 • 💬 45 • ⏱️ 29:37 • 2d ago
+👁️ 18K • 👍 972 • 💬 45 • ⏱️ 29:37 • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 326 • 💬 114 • ⏱️ 18:36 • 11h ago
+👁️ 7K • 👍 326 • 💬 114 • ⏱️ 18:36 • 13h ago
 
 ---
 

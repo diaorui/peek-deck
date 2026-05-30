@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T14:13:22.814693+00:00'
+updated: '2026-05-30T15:46:52.431795+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 14:13 UTC  
+**Last Updated:** May 30, 2026 at 15:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
 
-3h ago
+5h ago
 
 ---
 
 **[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -50,13 +50,13 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-4h ago
+5h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -70,13 +70,7 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 **[Before we spend months processing open-source robotics datasets, tell us why this is a bad idea](https://www.reddit.com/r/robotics/comments/1trybsx/before_we_spend_months_processing_opensource/)**
 
-1h ago
-
----
-
-**[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
-
-13h ago
+3h ago
 
 ---
 
@@ -88,23 +82,37 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 ---
 
+**[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
+
+15h ago
+
+---
+
 **[Working on building a software layer for manipulators, finally got it working for simulation and physical!](https://www.reddit.com/r/robotics/comments/1tre46l/working_on_building_a_software_layer_for/)**
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-18h ago
+19h ago
 
 ---
 
 **[[Release] LinkForge v1.4.0: Programmable IR Core, Rigorous Physical Linting, and Headless Composition](https://www.reddit.com/r/robotics/comments/1trsnqw/release_linkforge_v140_programmable_ir_core/)**
 
-7h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Humanoid robots 'the future' of car making, says BMW](https://www.bbc.com/news/articles/cgmpwzzvxr2o)**
+
+BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
+
+BBC • 1d ago
+
+---
 
 **[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
 
@@ -114,19 +122,19 @@ AP News • 1d ago
 
 ---
 
-**[Humanoid robots stun crowd by doing delicate tasks at Tokyo summit](https://interestingengineering.com/ai-robotics/humanoids-robots-stun-crowd-at-tokyo-summit)**
-
-Humanoid robots demonstrate delicate tasks at Humanoids Summit 2026 as China gains attention in robotics shift today.
-
-Interesting Engineering • 1d ago
-
----
-
 **[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 4h ago
+CNBC • 5h ago
+
+---
+
+**[Humanoid robots join human models in rampwalk at futuristic Seoul fashion show](https://interestingengineering.com/ai-robotics/humanoid-robot-fashion-show)**
+
+Humanoid robots wearing designer clothing walked alongside human models at a futuristic fashion show in Seoul.
+
+Interesting Engineering • 5h ago
 
 ---
 
@@ -134,7 +142,7 @@ CNBC • 4h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 20h ago
+IEEE Spectrum • 21h ago
 
 ---
 
@@ -150,7 +158,15 @@ Bessemer Venture Partners • 2d ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 23h ago
+ZME Science • 1d ago
+
+---
+
+**[Scientists found the optimal robot body, and it has 20 legs — watch it scale walls and move through trees](https://www.livescience.com/technology/robotics/scientists-found-the-optimal-robot-body-and-it-has-20-legs-watch-it-scale-walls-and-move-through-trees)**
+
+A sea-urchin-like robot could offer a new blueprint for making more versatile robots, research suggests.
+
+Live Science • 1d ago
 
 ---
 
@@ -162,25 +178,11 @@ AP News • 2d ago
 
 ---
 
-**[It looks like a sea urchin, but this strange 20-legged machine is rewriting what robots can do](https://techxplore.com/news/2026-05-sea-urchin-strange-legged-machine.html)**
-
-Tech Xplore • 2d ago
-
----
-
 **[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
 
 Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
 
 Rice University • 2d ago
-
----
-
-**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
-
-Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
-
-Fox News • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Figure just quietly LAPPED the entire humanoid robot race — and almost nobody 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 135 • 💬 9 • ⏱️ 25:08 • 22h ago
+👁️ 4K • 👍 135 • 💬 9 • ⏱️ 25:08 • 23h ago
 
 ---
 
@@ -284,7 +286,7 @@ Tesla Optimus Factory just hit its biggest milestone yet as the first steel colu
 
 📺 Tech Revolution
 
-👁️ 17K • 👍 459 • 💬 44 • ⏱️ 17:07 • 1d ago
+👁️ 17K • 👍 459 • 💬 44 • ⏱️ 17:07 • 2d ago
 
 ---
 

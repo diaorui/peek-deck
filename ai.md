@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-30T14:13:22.796891+00:00'
+updated: '2026-05-30T15:46:52.416077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 30, 2026 at 14:13 UTC  
+**Last Updated:** May 30, 2026 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A mysterious, unnamed company is reported to have accidentally spent half a billion dollars in a single month on Claude AI after forgetting to set usage limits for Claude licenses for employees.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 12h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 13h ago
 
 ---
 
@@ -49,13 +49,13 @@ A mysterious, unnamed company is reported to have accidentally spent half a bill
 
 The comedian and The Daily Show host gave the keynote address for Class Day 2026.
 
-🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 16h ago
+🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 18h ago
 
 ---
 
 **[Meta lays off more than 2,000 from Menlo Park headquarters](https://www.reddit.com/r/artificial/comments/1trevkk/meta_lays_off_more_than_2000_from_menlo_park/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php) • 17h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php) • 19h ago
 
 ---
 
@@ -63,7 +63,7 @@ The comedian and The Daily Show host gave the keynote address for Class Day 2026
 
 Hi everyone!! I really wanted to share my research what I've been working on. I wanted to build a nn that can simulate games, or at least start doing that Most video generators are too large to run on consumer hardware realtime, so I I designed a model that does this from scratch. No fine tuning bs or anything The core de noiser network is fully trained from scratch to support this goal. From image to games data. That video. above is on a RTX 5090. The nn is a small Transformer-like model and works in a causal way, just like LLMs. That lets us KV Cache all past information and do a simple autoregressive decode forward passes for every new frame we want. In the video shared, the model is a 0.4B variant with some SIGNIFICANT ISSUES like poor motion and some weird flashes, some context issues It's taking the keyboard actions I give it in realtime and utilising that in the forward pass. (no classifier free guidance though) Im training the next iteration , a 0.8B model now. Btw I haven't done quantisation yet, that can save a LOT more time. bf16 is slow.
 
-7h ago
+9h ago
 
 ---
 
@@ -71,15 +71,23 @@ Hi everyone!! I really wanted to share my research what I've been working on. I 
 
 Pulling together this week's major AI releases for anyone who didn't have time to track every blog post. Sticking to substantive changes, not hype. Anthropic — Claude Opus 4.8 Released this week. Headline pricing unchanged, but Fast Mode dropped from $30 input / $150 output per million tokens to $10 / $50 — a 3x reduction on the premium tier. Reported improvements in "judgment" and longer autonomous runs. Also shipped 20+ legal MCP connectors and Microsoft 365 add-ins (Excel, PowerPoint, Word) in GA. Alibaba — Qwen 3.7 Max Launched May 20 at Alibaba Cloud Summit. 1M-token context. Reported to top Claude Opus 4.6 Max on Terminal-Bench 2.0, SWE-Bench Pro, and MCP-Atlas. Pricing $2.50 / $7.50 per million tokens — roughly half of Opus 4.7. Alibaba claims autonomous operation up to 35 hours without performance degradation. Alibaba is now ranked #6 lab globally on Arena text leaderboard. OpenAI — GPT-5.5 Instant Now default in ChatGPT. Reports 52.5% fewer hallucinated claims than GPT-5.3 Instant on high-stakes prompts (medicine, law, finance). OpenAI also shipped a ChatGPT sidebar inside Excel and Google Sheets, plus a personal finance dashboard for Pro users (US only). Google — Gemini 3.5 Flash Reported to beat Gemini 3.1 Pro on coding and agentic benchmarks at ~4x faster output token rate. Ultra subscription cut from $250 to $200/month; new $100/month Developer tier introduced. xAI — Grok Build 0.1 Coding agent moved to public API beta May 28. Custom Skills feature added for reusable user-defined tasks. Connectors for SharePoint, OneDrive, Notion, GitHub, Linear, plus bring-your-own MCP support. Mistral Launched Vibe (unified work + code agent, replaces Le Chat). Acquired Emmi AI for physics-based simulation. Targeting €1B revenue in 2026; new 10MW inference DC announced. Hugging Face Launched an app store for the Reachy Mini robot. ~10,000 units shipped. Also reported a malicious repo masquerading as an OpenAI release that accumulated 244K downloads before takedown — relevant for anyone pinning models from HF in production. My take as someone building on top of these APIs: The 3x Opus Fast Mode price cut and Qwen 3.7 Max's pricing + autonomous duration are the real signal this week. The cost floor on premium-tier inference is dropping faster than most app-layer products have repriced for. Anyone running multi-step agent workflows needs to recompute unit economics this week — either pass through the savings or reinvest the margin. The other pattern worth noting: OpenAI and Anthropic are both pushing into Excel/M365 surfaces. Distribution is becoming the next battleground, not raw model capability. If you're building a productivity SaaS, the giants are now inside the same surface as you.
 
-1h ago
+2h ago
 
 ---
 
-**[Your brain does on 20 watts what AI needs a nuclear reactor to attempt. Last week a team figured out how to print something that actually speaks to living brain cells.](https://www.reddit.com/r/artificial/comments/1tr4kau/your_brain_does_on_20_watts_what_ai_needs_a/)**
+**[I connected my AI agent to manage my redirects and I'm not going back to doing it manually](https://www.reddit.com/r/artificial/comments/1ts2n0t/i_connected_my_ai_agent_to_manage_my_redirects/)**
 
-Amazon bought a 960 megawatt nuclear reactor for AI servers. Microsoft restarted Three Mile Island. Stargate is spending 500 billion dollars on data centres. All of this to do, badly, what your brain does for free on the power of a dim light bulb. The reason is that silicon processes information nothing like the brain does. Rigid chips with identical transistors trying to mimic something soft, three dimensional, constantly rewiring itself, with billions of different neurons each doing something slightly different. Northwestern University just published research showing they printed artificial neurons from MoS2 and graphene ink that produced biologically realistic electrical spikes. They tested on living mouse brain cells. The brain responded as if the signal came from one of its own cells. The breakthrough was accidental. Every other lab had been burning away the polymer residue left in the ink after printing. This team kept it. That residue created the switching behaviour that made the spikes biologically realistic. The neuromorphic computing implications here seem significant. If you can print devices that process information the way neurons do at scale, the energy math changes completely.
+I have been doing URL redirect work for client sites for some time now. It’s one of those jobs that’s never quite urgent enough to automate, but tedious enough to dread, especially after a migration when you have hundreds of them. Recently tried it. Connected my AI agent with MCP to handle it. I told it to build a set of redirects and it did. No dashboard, no wrestling with CSVs, no clicking through settings. Teaching in plain language. In seconds. And what I was surprised by was not the speed, but the amount of mental overhead such a task involves. You’re not just doing the task you’re context switching into a tool, remembering where things are, making sure nothing breaks. Giving it to an agent removes all of it. What really made me trust it for real client work was the dry-run feature. See exactly what is changing, before it changes. No surprises here. Curious if anyone else has been using MCP for infrastructure tasks, redirects, DNS, workspace management. I think we are at the start of something that is going to quietly gobble up a lot of tedious technical work.
 
-23h ago
+31m ago
+
+---
+
+**[The emotional rollercoaster of AI product failures](https://www.reddit.com/r/artificial/comments/1ts1vrm/the_emotional_rollercoaster_of_ai_product_failures/)**
+
+Ive subscribed and operated with the notion of build, fail, grow, and it has always been a humbling process, but recently I have been hearing about a “new” feeling of failure. "I tried my best and it didn't work." ->Move on "I had this super intelligent tool and STILL failed."->Rinse and repeat Its like AI accelerates idea failure and because it is embedded in a hyper rinse & repeat, the feeling of failure is amplified. Is anyone else feeling or seeing this?
+
+1h ago
 
 ---
 
@@ -87,7 +95,15 @@ Amazon bought a 960 megawatt nuclear reactor for AI servers. Microsoft restarted
 
 In this article, we will build a small release notes generator that uses the Cline SDK to inspect recent git history and turn it into readable markdown.
 
-🔗 [packagemain.tech](https://packagemain.tech/p/building-an-agent-with-the-cline-sdk) • 2h ago
+🔗 [packagemain.tech](https://packagemain.tech/p/building-an-agent-with-the-cline-sdk) • 3h ago
+
+---
+
+**[Your brain does on 20 watts what AI needs a nuclear reactor to attempt. Last week a team figured out how to print something that actually speaks to living brain cells.](https://www.reddit.com/r/artificial/comments/1tr4kau/your_brain_does_on_20_watts_what_ai_needs_a/)**
+
+Amazon bought a 960 megawatt nuclear reactor for AI servers. Microsoft restarted Three Mile Island. Stargate is spending 500 billion dollars on data centres. All of this to do, badly, what your brain does for free on the power of a dim light bulb. The reason is that silicon processes information nothing like the brain does. Rigid chips with identical transistors trying to mimic something soft, three dimensional, constantly rewiring itself, with billions of different neurons each doing something slightly different. Northwestern University just published research showing they printed artificial neurons from MoS2 and graphene ink that produced biologically realistic electrical spikes. They tested on living mouse brain cells. The brain responded as if the signal came from one of its own cells. The breakthrough was accidental. Every other lab had been burning away the polymer residue left in the ink after printing. This team kept it. That residue created the switching behaviour that made the spikes biologically realistic. The neuromorphic computing implications here seem significant. If you can print devices that process information the way neurons do at scale, the energy math changes completely.
+
+1d ago
 
 ---
 
@@ -95,23 +111,7 @@ In this article, we will build a small release notes generator that uses the Cli
 
 A lot of people talk about the Epstein files. Almost nobody actually reads them. So I made a searchable version where you can just ask questions naturally instead of digging through thousands of pages manually. You can explore names, timelines, mentions, connections, locations, etc. way faster now. Repo: https://github.com/AbhisumatK/Epstein\_Files\_RAG
 
-🔗 [GitHub](https://github.com/AbhisumatK/Epstein_Files_RAG) • 9h ago
-
----
-
-**[We wrote an open-source interactive playbook for Agentic DevOps (How to move multi-agent systems from local notebooks to production).](https://www.reddit.com/r/artificial/comments/1trxgvc/we_wrote_an_opensource_interactive_playbook_for/)**
-
-Hey everyone, If you’ve built a multi-agent system, you already know the painful truth: wiring nodes together locally is fun, but deploying them is an absolute infrastructure nightmare. When a standard app fails, it throws a 500 error. When an autonomous swarm fails, it can get stuck in a ReAct loop, hallucinate an answer, and quietly burn through your API budget without triggering a single traditional alert. Standard DevOps practices don't natively map to stochastic AI outputs. We just published a massive, no-fluff playbook on the AgentSwarms blog detailing exactly how to build an Agentic DevOps pipeline using entirely open-source tooling. Here is what we cover in the playbook: Observability & Tracing: Why standard logging fails, and how to implement open-source tracing to capture the state, prompt, token count, and latency at every single node handoff. Test-Driven Prompt Evals (CI/CD): You can't just change a system prompt based on "vibes" and push it to main. We break down how to run matrix evaluations against historical user inputs before deployment to catch regressions instantly. Deterministic Guardrails: How to implement middleware that scrubs PII and blocks destructive code execution before the LLM even sees the state. Cost Control & Routing: How to prevent vendor lock-in and implement dynamic routing to keep token economics from destroying your cloud budget. If you are currently wrestling with the deployment phase of your AI projects, I highly recommend giving this a read. It focuses entirely on open-source solutions so you don't have to sign a massive enterprise contract just to get visibility into your swarms. Would love to hear what open-source tools you guys are currently slotting into your LLMOps pipelines! Link: https://agentswarms.fyi/blog/devops-for-agentic-ai-open-source-playbook
-
-2h ago
-
----
-
-**[G7 agrees on shared language around open-source AI, open weights AI](https://www.reddit.com/r/artificial/comments/1trx8p4/g7_agrees_on_shared_language_around_opensource_ai/)**
-
-Ahead of the 52nd G7 Summit being held in Evian, France next month, the recently conducted G7 Digital and Technology Ministers’ Meeting came to agreement on shared language around open-source AI and on the importance of open-source in AI.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/G7-On-Open-Source-AI) • 2h ago
+🔗 [GitHub](https://github.com/AbhisumatK/Epstein_Files_RAG) • 11h ago
 
 ---
 
@@ -121,15 +121,35 @@ Ahead of the 52nd G7 Summit being held in Evian, France next month, the recently
 
 **["The pitchforks are here": Billionaires work to contain AI's populist revolt](https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth)**
 
-Axios • 15h ago
+Axios • 16h ago
 
 ---
 
-**[Should AI steal your job?](https://www.ft.com/content/aceabeb1-1152-43d1-ad76-e1531cd37f39?syn-25a6b1a6=1)**
+**[Nvidia is investing billions into this emerging technology that could change the AI industry](https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html)**
 
-The real question is not what the technology can do but what it ought to do. Sarah O’Connor on the people fighting for the future of work
+Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.
 
-Financial Times • 10h ago
+CNBC • 1d ago
+
+---
+
+**[AI is splitting the music world. This 49-year-old guitarist used it to keep playing after Parkinson’s](https://fortune.com/2026/05/30/parkinsons-ai-music-humming-demos/)**
+
+Fortune • 23m ago
+
+---
+
+**[Apollo’s Rackspace Finds a Second Life in the AI Boom](https://www.bloomberg.com/news/newsletters/2026-05-30/apollo-s-rackspace-finds-a-second-life-in-the-ai-boom)**
+
+Bloomberg.com • 45m ago
+
+---
+
+**[How AI Companions Affect Attachment and Sexual Connection](https://www.psychologytoday.com/us/blog/sex-esteem/202605/how-ai-companions-affect-attachment-and-sexual-connection)**
+
+As more people turn to AI for companionship, what happens to real-world intimacy? Explore the latest research on loneliness, attachment, mental health, and sexuality.
+
+Psychology Today • 58m ago
 
 ---
 
@@ -137,13 +157,13 @@ Financial Times • 10h ago
 
 BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
-**[Opinion | The First A.I. High School in the U.S. Is Surprisingly Human](https://www.nytimes.com/2026/05/30/opinion/ai-high-school.html)**
+**[They Are Top Spenders in the Midterms. And They Hate Each Other.](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html)**
 
-The New York Times • 3h ago
+The New York Times • 6h ago
 
 ---
 
@@ -151,15 +171,7 @@ The New York Times • 3h ago
 
 The National Transportation Safety Board temporarily pulled its docket system offline after digital images were used to reconstruct cockpit voice recordings of the pilots in a recent crash.
 
-NPR • 4h ago
-
----
-
-**[Meta has struggled at selling anything other than ads. Will AI be different?](https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html)**
-
-Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.
-
-CNBC • 2h ago
+NPR • 5h ago
 
 ---
 
@@ -167,31 +179,15 @@ CNBC • 2h ago
 
 AI is causing a crisis of agency.
 
-The Atlantic • 3h ago
+The Atlantic • 4h ago
 
 ---
 
-**[Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’](https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai)**
+**[Should AI steal your job?](https://www.ft.com/content/aceabeb1-1152-43d1-ad76-e1531cd37f39?syn-25a6b1a6=1)**
 
-Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination
+The real question is not what the technology can do but what it ought to do. Sarah O’Connor on the people fighting for the future of work
 
-The Guardian • 1h ago
-
----
-
-**[The Pope and Anthropic agree: AI Companies cannot govern this alone](https://fortune.com/2026/05/30/ai-governance-pope-leo-anthropic-fatf-framework-shlomit-wagman/)**
-
-A Harvard fellow and former financial intelligence chief argues the right model for AI governance isn't nuclear arms control — it's the global framework that brought down ISIS financing.
-
-Fortune • 5h ago
-
----
-
-**[The Pope’s Admirers Are Missing Something](https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-big-tech/687375/)**
-
-Leo’s new encyclical challenges much more than Big Tech.
-
-The Atlantic • 2h ago
+Financial Times • 11h ago
 
 ---
 
@@ -217,15 +213,7 @@ We've heard consistently from our community that they value transparency when it
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 752 • 💬 384 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
-
----
-
-**[Tech CEOs are apparently suffering from AI psychosis](https://news.ycombinator.com/item?id=48295679)**
-
-"CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
-
-⬆️ 716 • 💬 355 • 2d ago • [TechCrunch](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+⬆️ 754 • 💬 386 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -233,7 +221,7 @@ We've heard consistently from our community that they value transparency when it
 
 A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
 
-⬆️ 405 • 💬 176 • 21h ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+⬆️ 417 • 💬 179 • 23h ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 
 ---
 
@@ -241,7 +229,7 @@ A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployme
 
 AI is doing to programming what framework-brain did to the frontend before. Deskilling, or just working at a higher level of abstraction?
 
-⬆️ 384 • 💬 318 • 1d ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+⬆️ 391 • 💬 321 • 1d ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
 
 ---
 
@@ -257,7 +245,7 @@ A 30-second game about LLM permission fatigue. How carefully do you really read 
 
 The guests behind the bookings have received negative reviews from a number of Bay Area hosts, alleging they damaged the property and personal belongings.
 
-⬆️ 263 • 💬 148 • 1d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+⬆️ 264 • 💬 148 • 1d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
 
 ---
 
@@ -269,11 +257,19 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 ---
 
-**[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
+**[Anthropic surpasses OpenAI to become most valuable AI startup](https://news.ycombinator.com/item?id=48336233)**
 
-I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
+Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.
 
-⬆️ 215 • 💬 143 • 2d ago • [posthog.com](https://posthog.com/blog/training-ai-models)
+⬆️ 226 • 💬 206 • 1h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+
+---
+
+**[Liquid AI reveals 8B-A1B MoE trained on 38T](https://news.ycombinator.com/item?id=48325306)**
+
+Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized for fast, reliable tool calling and complex instruction following on consumer hardware, delivering compressed performance competitive with much larger models and day-one support across major inference frameworks.
+
+⬆️ 222 • 💬 85 • 23h ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 
 ---
 
@@ -287,7 +283,7 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 14K • 👍 470 • 💬 53 • ⏱️ 1:32:36 • 3h ago
+👁️ 14K • 👍 470 • 💬 53 • ⏱️ 1:32:36 • 4h ago
 
 ---
 
@@ -297,7 +293,7 @@ Pollsmax* 》https://www.pollsmax.com/ ...
 
 📺 Election Time
 
-👁️ 71K • 👍 3K • 💬 430 • ⏱️ 18:32 • 20h ago
+👁️ 71K • 👍 3K • 💬 430 • ⏱️ 18:32 • 21h ago
 
 ---
 
@@ -317,7 +313,7 @@ Start creating with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=robo18 In thi
 
 📺 Roboverse
 
-👁️ 4K • ⏱️ 16:13 • 1h ago
+👁️ 4K • ⏱️ 16:13 • 2h ago
 
 ---
 
@@ -327,7 +323,7 @@ Create Your Own Army of AI Influencers with Higgsfield https://higgsfield.ai?fpr
 
 📺 Isa does AI
 
-👁️ 5K • ⏱️ 11:28 • 2h ago
+👁️ 5K • ⏱️ 11:28 • 3h ago
 
 ---
 
@@ -451,7 +447,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 17,084 • ❤️ 245 • 4h ago
+⬇️ 17,084 • ❤️ 245 • 5h ago
 
 ---
 
@@ -487,7 +483,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 15,780 • ❤️ 450 • 5h ago
+⬇️ 15,780 • ❤️ 450 • 6h ago
 
 ---
 
@@ -656,7 +652,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.0k • 🔱 628 • 1h ago
+⭐ 3.0k • 🔱 628 • 3h ago
 
 ---
 
@@ -666,7 +662,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 190 • 3h ago
+⭐ 2.8k • 🔱 190 • 4h ago
 
 ---
 
@@ -706,7 +702,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 141 • 51m ago
+⭐ 2.1k • 🔱 141 • 2h ago
 
 ---
 
@@ -736,7 +732,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 209 • 9h ago
+⭐ 1.8k • 🔱 209 • 11h ago
 
 ---
 
