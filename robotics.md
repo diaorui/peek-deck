@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T17:05:55.034288+00:00'
+updated: '2026-05-30T18:39:46.603348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 17:05 UTC  
+**Last Updated:** May 30, 2026 at 18:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
 
-6h ago
-
----
-
-**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
-
-11h ago
+8h ago
 
 ---
 
@@ -50,7 +44,13 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-58m ago
+2h ago
+
+---
+
+**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
+
+13h ago
 
 ---
 
@@ -58,13 +58,13 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-7h ago
+8h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -76,9 +76,17 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 ---
 
+**[Built a tool for debugging robot policies in simulation. Looking for feedback](https://www.reddit.com/r/robotics/comments/1ts631o/built_a_tool_for_debugging_robot_policies_in/)**
+
+Hey everyone, I’ve been building a small tool for robotics/RL teams to test policies in simulation and make it easier to catch and inspect failure cases. I’m looking for a few people to try it out and share honest feedback. If you work with robot learning, simulation, Gym, MuJoCo, Isaac, or similar and this sounds useful, feel free to DM me.
+
+1h ago
+
+---
+
 **[Before we spend months processing open-source robotics datasets, tell us why this is a bad idea](https://www.reddit.com/r/robotics/comments/1trybsx/before_we_spend_months_processing_opensource/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -92,15 +100,7 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 **[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
 
-16h ago
-
----
-
-**[Working on building a software layer for manipulators, finally got it working for simulation and physical!](https://www.reddit.com/r/robotics/comments/1tre46l/working_on_building_a_software_layer_for/)**
-
-Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
-
-20h ago
+18h ago
 
 ---
 
@@ -108,27 +108,11 @@ Just wanted to share my progress on building a loop for collect data->train->dep
 
 ## Google News: "robotics"
 
-**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
-
-The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
-
-AP News • 1d ago
-
----
-
-**[Humanoid robots stun crowd by doing delicate tasks at Tokyo summit](https://interestingengineering.com/ai-robotics/humanoids-robots-stun-crowd-at-tokyo-summit)**
-
-Humanoid robots demonstrate delicate tasks at Humanoids Summit 2026 as China gains attention in robotics shift today.
-
-Interesting Engineering • 1d ago
-
----
-
 **[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -137,6 +121,14 @@ CNBC • 7h ago
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
 BBC • 1d ago
+
+---
+
+**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub)**
+
+Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
+
+Interesting Engineering • 6h ago
 
 ---
 
@@ -160,15 +152,15 @@ Bessemer Venture Partners • 2d ago
 
 While Argus looks like a sea urchin, its designers took cues from physics, not biology.
 
-Popular Science • 3h ago
+Popular Science • 4h ago
 
 ---
 
-**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus/)**
+**[Robotics team looks at its creation as a new species, not copy of humans or animals](https://apnews.com/video/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals-3b7aafa7ea5e40afb98fac619bdeebd8)**
 
-Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
+Argus looks more like a virus than a robot, and that's the point. The team at Duke University's General Robotics Lab says they're out to create a new species, not just more copies of humans, dogs or birds.
 
-ZME Science • 1d ago
+AP News • 3d ago
 
 ---
 
@@ -185,6 +177,14 @@ Live Science • 1d ago
 Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
 
 Rice University • 2d ago
+
+---
+
+**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
+
+ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 📺 The AI Nexus
 
-👁️ 7K • 👍 152 • 💬 21 • ⏱️ 18:41 • 2d ago
+👁️ 7K • 👍 152 • 💬 21 • ⏱️ 18:41 • 3d ago
 
 ---
 
@@ -256,7 +256,7 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 📺 Hidden Side of the World
 
-👁️ 1K • 👍 21 • 💬 1 • ⏱️ 0:52 • 8h ago
+👁️ 1K • 👍 21 • 💬 1 • ⏱️ 0:52 • 9h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-30T17:05:54.544677+00:00"
+          "dateModified": "2026-05-30T18:39:46.143421+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -714,6 +714,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts6q6b/how_has_ai_actually_benefited_you_in_daytoday_life/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ts6q6b/how_has_ai_actually_benefited_you_in_daytoday_life/" target="_blank" onclick="event.stopPropagation();">How has AI actually benefited you in day-to-day life?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            With AI becoming part of almost everything now—work, business, investing, coding, spreadsheets, content creation, and more—I'm curious about real-world use cases. What's the one thing you use AI for regularly that has genuinely saved you time, made you money, improved your productivity, or solved a problem? Looking for practical examples rather than just "I use ChatGPT." What specific tasks have you automated or improved with AI?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780163801.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1trevkk/meta_lays_off_more_than_2000_from_menlo_park/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -795,21 +828,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1trz2pd/weekly_ai_roundup_may_2330_2026_claude_opus_48/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts5ql9/i_built_a_tool_that_generates_3d_objects/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bXZ3c3MxZnMzYjRoMQ0NQINox9-nTSkmp2hf2N9QiQVe2hC3hAyd4noJjC2H.png?width=640&crop=smart&auto=webp&s=aca4b0b82923f44f3646449dec5e0259d02c90ef" alt="I built a tool that generates 3D objects assembled with separate, logical parts (e.g. it generated a microwave in the video with complete internal assembly and a door that swings open)" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1trz2pd/weekly_ai_roundup_may_2330_2026_claude_opus_48/" target="_blank" onclick="event.stopPropagation();">Weekly AI roundup (May 23–30, 2026): Claude Opus 4.8 Fast Mode 3x cheaper, Qwen 3.7 Max beats Claude at half the price, ChatGPT moves into Excel</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ts5ql9/i_built_a_tool_that_generates_3d_objects/" target="_blank" onclick="event.stopPropagation();">I built a tool that generates 3D objects assembled with separate, logical parts (e.g. it generated a microwave in the video with complete internal assembly and a door that swings open)</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Pulling together this week's major AI releases for anyone who didn't have time to track every blog post. Sticking to substantive changes, not hype. Anthropic — Claude Opus 4.8 Released this week. Headline pricing unchanged, but Fast Mode dropped from $30 input / $150 output per million tokens to $10 / $50 — a 3x reduction on the premium tier. Reported improvements in "judgment" and longer autonomous runs. Also shipped 20+ legal MCP connectors and Microsoft 365 add-ins (Excel, PowerPoint, Word) in GA. Alibaba — Qwen 3.7 Max Launched May 20 at Alibaba Cloud Summit. 1M-token context. Reported to top Claude Opus 4.6 Max on Terminal-Bench 2.0, SWE-Bench Pro, and MCP-Atlas. Pricing $2.50 / $7.50 per million tokens — roughly half of Opus 4.7. Alibaba claims autonomous operation up to 35 hours without performance degradation. Alibaba is now ranked #6 lab globally on Arena text leaderboard. OpenAI — GPT-5.5 Instant Now default in ChatGPT. Reports 52.5% fewer hallucinated claims than GPT-5.3 Instant on high-stakes prompts (medicine, law, finance). OpenAI also shipped a ChatGPT sidebar inside Excel and Google Sheets, plus a personal finance dashboard for Pro users (US only). Google — Gemini 3.5 Flash Reported to beat Gemini 3.1 Pro on coding and agentic benchmarks at ~4x faster output token rate. Ultra subscription cut from $250 to $200/month; new $100/month Developer tier introduced. xAI — Grok Build 0.1 Coding agent moved to public API beta May 28. Custom Skills feature added for reusable user-defined tasks. Connectors for SharePoint, OneDrive, Notion, GitHub, Linear, plus bring-your-own MCP support. Mistral Launched Vibe (unified work + code agent, replaces Le Chat). Acquired Emmi AI for physics-based simulation. Targeting €1B revenue in 2026; new 10MW inference DC announced. Hugging Face Launched an app store for the Reachy Mini robot. ~10,000 units shipped. Also reported a malicious repo masquerading as an OpenAI release that accumulated 244K downloads before takedown — relevant for anyone pinning models from HF in production. My take as someone building on top of these APIs: The 3x Opus Fast Mode price cut and Qwen 3.7 Max's pricing + autonomous duration are the real signal this week. The cost floor on premium-tier inference is dropping faster than most app-layer products have repriced for. Anyone running multi-step agent workflows needs to recompute unit economics this week — either pass through the savings or reinvest the margin. The other pattern worth noting: OpenAI and Anthropic are both pushing into Excel/M365 surfaces. Distribution is becoming the next battleground, not raw model capability. If you're building a productivity SaaS, the giants are now inside the same surface as you.
+                            Standard AI 3D generators (like Meshy or Tripo) are limited. They produce solid, monolithic 3D objects that look good but are practically useless, because: - Want to rig or animate it for a game? Can't easily do that, because it’s a dead, monolithic blob instead of a functional, modular asset. - Want to change the arm of a robot you generated? Regenerate the entire asset. - Want to edit something manually? The whole thing collapses because it's not actually structured. Free github project here: https://github.com/RareSense/Nova3D But you'll need to bring your own API Key (BYOK) Under the hood (if you're interested): It uses an LLM as a structured code compiler, instead of an image generator. It writes native Blender Python (bpy) code blocks that target specific nodes in the scene graph. The trick is that everything compiles through Blender's actual scene graph structures instead of pixel or point-cloud diffusion. Final export is a clean multi-part GLB with transform nodes and working pivot axes preserved.
                         </div>
                         
 
@@ -818,7 +853,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1780145326.0"></span>
+                                    <span data-timestamp="1780161456.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -861,7 +896,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts1vrm/the_emotional_rollercoaster_of_ai_product_failures/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1trz2pd/weekly_ai_roundup_may_2330_2026_claude_opus_48/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -869,13 +904,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ts1vrm/the_emotional_rollercoaster_of_ai_product_failures/" target="_blank" onclick="event.stopPropagation();">The emotional rollercoaster of AI product failures</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1trz2pd/weekly_ai_roundup_may_2330_2026_claude_opus_48/" target="_blank" onclick="event.stopPropagation();">Weekly AI roundup (May 23–30, 2026): Claude Opus 4.8 Fast Mode 3x cheaper, Qwen 3.7 Max beats Claude at half the price, ChatGPT moves into Excel</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Ive subscribed and operated with the notion of build, fail, grow, and it has always been a humbling process, but recently I have been hearing about a “new” feeling of failure. "I tried my best and it didn't work." ->Move on "I had this super intelligent tool and STILL failed."->Rinse and repeat Its like AI accelerates idea failure and because it is embedded in a hyper rinse & repeat, the feeling of failure is amplified. Is anyone else feeling or seeing this?
+                            Pulling together this week's major AI releases for anyone who didn't have time to track every blog post. Sticking to substantive changes, not hype. Anthropic — Claude Opus 4.8 Released this week. Headline pricing unchanged, but Fast Mode dropped from $30 input / $150 output per million tokens to $10 / $50 — a 3x reduction on the premium tier. Reported improvements in "judgment" and longer autonomous runs. Also shipped 20+ legal MCP connectors and Microsoft 365 add-ins (Excel, PowerPoint, Word) in GA. Alibaba — Qwen 3.7 Max Launched May 20 at Alibaba Cloud Summit. 1M-token context. Reported to top Claude Opus 4.6 Max on Terminal-Bench 2.0, SWE-Bench Pro, and MCP-Atlas. Pricing $2.50 / $7.50 per million tokens — roughly half of Opus 4.7. Alibaba claims autonomous operation up to 35 hours without performance degradation. Alibaba is now ranked #6 lab globally on Arena text leaderboard. OpenAI — GPT-5.5 Instant Now default in ChatGPT. Reports 52.5% fewer hallucinated claims than GPT-5.3 Instant on high-stakes prompts (medicine, law, finance). OpenAI also shipped a ChatGPT sidebar inside Excel and Google Sheets, plus a personal finance dashboard for Pro users (US only). Google — Gemini 3.5 Flash Reported to beat Gemini 3.1 Pro on coding and agentic benchmarks at ~4x faster output token rate. Ultra subscription cut from $250 to $200/month; new $100/month Developer tier introduced. xAI — Grok Build 0.1 Coding agent moved to public API beta May 28. Custom Skills feature added for reusable user-defined tasks. Connectors for SharePoint, OneDrive, Notion, GitHub, Linear, plus bring-your-own MCP support. Mistral Launched Vibe (unified work + code agent, replaces Le Chat). Acquired Emmi AI for physics-based simulation. Targeting €1B revenue in 2026; new 10MW inference DC announced. Hugging Face Launched an app store for the Reachy Mini robot. ~10,000 units shipped. Also reported a malicious repo masquerading as an OpenAI release that accumulated 244K downloads before takedown — relevant for anyone pinning models from HF in production. My take as someone building on top of these APIs: The 3x Opus Fast Mode price cut and Qwen 3.7 Max's pricing + autonomous duration are the real signal this week. The cost floor on premium-tier inference is dropping faster than most app-layer products have repriced for. Anyone running multi-step agent workflows needs to recompute unit economics this week — either pass through the savings or reinvest the margin. The other pattern worth noting: OpenAI and Anthropic are both pushing into Excel/M365 surfaces. Distribution is becoming the next battleground, not raw model capability. If you're building a productivity SaaS, the giants are now inside the same surface as you.
                         </div>
                         
 
@@ -884,7 +919,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1780152335.0"></span>
+                                    <span data-timestamp="1780145326.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -894,23 +929,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts3x2l/im_not_crying_youre_crying_ai_for_good_making_a/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts7b48/prompt_logic_gates_plg_are_prompts_becoming/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/fcn6d2t7ta4h1.png?width=140&height=78&auto=webp&s=ec93cee77c14c7fb65211303f58a727fbae4099a" alt="I'm not crying, you're crying. A.I. For Good, making a legacy book for my mother w/ NotebookLM" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ts3x2l/im_not_crying_youre_crying_ai_for_good_making_a/" target="_blank" onclick="event.stopPropagation();">I'm not crying, you're crying. A.I. For Good, making a legacy book for my mother w/ NotebookLM</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ts7b48/prompt_logic_gates_plg_are_prompts_becoming/" target="_blank" onclick="event.stopPropagation();">🚀 Prompt Logic Gates (PLG): Are Prompts Becoming Systems?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            The legacy book market and use of AI for this are going to be insane. Less than 1% of the US population writes a book. This is what AI is used for: to stop doing tedious stuff and actually do stuff that matters. https://preview.redd.it/fcn6d2t7ta4h1.png?width=2752&format=png&auto=webp&s=5ab6effcafc1e2156903d274f6a4411e53bd9d37
+                            GitHub: Prompt-Logic-Gates-PLG Over the past few days, I've shared my research project Prompt Logic Gates (PLG) and received a lot of interesting feedback. Some people loved the idea, some were skeptical, and many raised valid questions. The most common reaction was: > "Natural language is already the abstraction layer. Why add logic gates?" That's a fair question. My goal isn't to replace natural language prompting. In fact, natural language remains at the center of PLG. The idea is to explore what happens when prompts stop being a single request and start becoming systems. The Problem When we write prompts, we're converting our ideas, requirements, constraints, and expectations into text. For simple tasks, this works perfectly. But as prompts grow, they often include: Multiple objectives Business rules Style constraints Context dependencies Exclusions Fallback instructions Tool orchestration At that point, prompts become harder to maintain. Contradictions appear. Priorities become unclear. Context gets mixed together. The prompt is still text, but the complexity starts to resemble a system. What is PLG? Prompt Logic Gates (PLG) is a visual prompt engineering experiment that explores whether prompts can be organized before being sent to an AI model. Instead of writing one giant prompt, users create prompt components and connect them using semantic logic gates. The AI then analyzes the graph and compiles a final structured prompt. How It Works AND Gate When multiple instructions exist, the system evaluates them against the current context and determines which instruction is more foundational. The higher-priority instruction is applied first. OR Gate When multiple options are available, the system selects the most contextually relevant option instead of blindly including everything. NOT Gate Defines exclusions and negative constraints. It explicitly tells the system what should not be done, reducing contradictions and ambiguity. Ask Questions Gate If the system detects missing information or uncertainty, it asks follow-up questions before generating the final prompt. Addressing Common Criticisms "This is just block coding." Not exactly. The goal isn't to create a programming language for prompts. The nodes still contain natural language. The visual layer only helps express relationships between prompt components. "Prompts aren't code." I agree. But once prompts include branching decisions, reusable components, exclusions, fallback behavior, memory, and tool orchestration, they start behaving less like a sentence and more like a system. PLG is exploring whether that hidden structure can be represented more explicitly. "Visual prompt engineering may be harder to debug." That's a valid concern. Visual doesn't automatically mean better. One of the main goals of this project is to test whether visual organization actually improves maintainability, reusability, and prompt consistency—or whether it simply makes the same complexity look different. "The future is promptless AI." Maybe. But today's AI systems still rely heavily on instructions, context, constraints, and reasoning frameworks. Even if prompts eventually disappear, the underlying problem of organizing intent, requirements, and context may still exist. Why I'm Building This This project started because I was facing problems in my own prompting workflow. I wanted a way to organize ideas, constraints, and instructions more systematically instead of continuously rewriting large prompts. PLG isn't trying to solve every problem in AI. It's a research experiment exploring one question: > At what point does a prompt stop being "just text" and start behaving like a system that benefits from structure, organization, and validation? I don't know the answer yet. That's exactly why I'm building the prototype and testing it. If the idea turns out to be useful, great. If it doesn't, I'll still learn something valuable about how humans interact with AI systems. I'd love to hear more thoughts, criticism, and feedback from the community.
                         </div>
                         
 
@@ -919,7 +952,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1780157184.0"></span>
+                                    <span data-timestamp="1780165176.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -929,23 +962,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1trxwyx/building_an_agent_with_the_cline_sdk/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts79ic/act_as_effectiveness/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/TcSW0_h588uIMVPeQN3cG4vRHhWCUIXOPh6EivcqD4k.jpeg?width=640&crop=smart&auto=webp&s=a5fd7c5f2dc5ac8044f5e91fcaeefa81354328cc" alt="Building an Agent with the Cline SDK" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1trxwyx/building_an_agent_with_the_cline_sdk/" target="_blank" onclick="event.stopPropagation();">Building an Agent with the Cline SDK</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ts79ic/act_as_effectiveness/" target="_blank" onclick="event.stopPropagation();">"Act as..." effectiveness</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            In this article, we will build a small release notes generator that uses the Cline SDK to inspect recent git history and turn it into readable markdown.
+                            Do you use the "Act as..." segment in your prompts? Do you think it's effective and why? I know it depends on the rest of the prompt, as well as the main goal, but i'm asking if it's working overall.
                         </div>
                         
 
@@ -954,75 +985,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1780142081.0"></span>
+                                    <span data-timestamp="1780165070.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://packagemain.tech/p/building-an-agent-with-the-cline-sdk" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://substackcdn.com/image/fetch/$s_!LhOp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ea54e25-eaa6-4630-bfc0-10b8cfdce894%2Fapple-touch-icon-57x57.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>packagemain.tech</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1trx8p4/g7_agrees_on_shared_language_around_opensource_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bWgFAwY13jZfqzNSv2uRheMJfxoOZjltQ2t8ITvC_LE.jpeg?width=320&crop=smart&auto=webp&s=34502efb52cbd0cda55b7fc0b2b80b9d5ff0b7ea" alt="G7 agrees on shared language around open-source AI, open weights AI" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1trx8p4/g7_agrees_on_shared_language_around_opensource_ai/" target="_blank" onclick="event.stopPropagation();">G7 agrees on shared language around open-source AI, open weights AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Ahead of the 52nd G7 Summit being held in Evian, France next month, the recently conducted G7 Digital and Technology Ministers’ Meeting came to agreement on shared language around open-source AI and on the importance of open-source in AI.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780140055.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.phoronix.com/news/G7-On-Open-Source-AI" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.phoronix.com/apple-touch-icon-57x57.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>phoronix.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1052,7 +1018,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-30T17:05:31.805624+00:00">Updated 2026-05-30T17:05:31.805624+00:00</small>
+        <small data-timestamp="2026-05-30T18:39:24.478430+00:00">Updated 2026-05-30T18:39:24.478430+00:00</small>
     </div>
 </div>
 
@@ -1275,20 +1241,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/0B7n07gfWSPxbpmrpwVj9qLsiLY=/0x0:1917x998/1200x625/media/img/mt/2026/05/202_05_28_AgencyCrisis/original.gif');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108279129-1773774466063-gettyimages-2266555824-NVIDIA_GTC.jpeg?v=1774007143&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/" target="_blank" onclick="event.stopPropagation();">The Feeling of Control Slipping Away</a>
+                            <a href="https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html" target="_blank" onclick="event.stopPropagation();">Nvidia is investing billions into this emerging technology that could change the AI industry</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI is causing a crisis of agency.
+                            Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.
                         </div>
                         
 
@@ -1298,9 +1264,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Atlantic" class="news-favicon">
-                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1308,7 +1274,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1780138800.0"></span>
+                                    <span data-timestamp="1780030802.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/05/30/snowflakes-ceo-ai-consumption-pricing/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2211278919-e1780160323177.jpg?resize=1200,600');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://fortune.com/2026/05/30/snowflakes-ceo-ai-consumption-pricing/" target="_blank" onclick="event.stopPropagation();">Snowflake CEO says monster quarter shows why software firms need new pricing models to thrive in AI age</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Snowflake CEO predicts that companies reliant on seat-based income will scramble to justify their premiums as employees use AI to accomplish an immense amount of work.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780162380.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bostonglobe.com/2026/05/30/world/ai-helped-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/G4RPLF4OOCD6JE6HS6YTDV32RI.jpg?auth=b806c6ed5791f8e2f90dcd68720135657c0ef95c122765171f5706d56a608d9a&width=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bostonglobe.com/2026/05/30/world/ai-helped-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/" target="_blank" onclick="event.stopPropagation();">AI helped a musician with Parkinson’s finish his new album when he could no longer play guitar</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson’s disease largely took away his ability to play guitar.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Boston Globe" class="news-favicon">
+                                    <a href="https://www.bostonglobe.com" target="_blank" onclick="event.stopPropagation();">The Boston Globe</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780162444.0"></span>
                                 </div>
                                 
                             </div>
@@ -1435,20 +1483,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108200611-1761838906428-108200611-1758197175659-gettyimages-2235448228-META_CONNECT.jpeg?v=1767096049&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/0B7n07gfWSPxbpmrpwVj9qLsiLY=/0x0:1917x998/1200x625/media/img/mt/2026/05/202_05_28_AgencyCrisis/original.gif');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html" target="_blank" onclick="event.stopPropagation();">Meta has struggled at selling anything other than ads. Will AI be different?</a>
+                            <a href="https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/" target="_blank" onclick="event.stopPropagation();">The Feeling of Control Slipping Away</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.
+                            AI is causing a crisis of agency.
                         </div>
                         
 
@@ -1458,9 +1506,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Atlantic" class="news-favicon">
+                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
                                     
                                 </div>
                                 
@@ -1468,7 +1516,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1780142401.0"></span>
+                                    <span data-timestamp="1780138800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1554,84 +1602,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html" target="_blank" onclick="event.stopPropagation();">Main Takeaways From Pope Leo’s Encyclical on A.I.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1779743784.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/5adae1e585d8b1337869f58db2152a5e4689dd28/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=262acbff43d3b35dee19e60b944fad4d');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai" target="_blank" onclick="event.stopPropagation();">Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780146060.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1652,7 +1622,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-30T17:05:52.889369+00:00">Updated 2026-05-30T17:05:52.889369+00:00</small>
+        <small data-timestamp="2026-05-30T18:39:40.938239+00:00">Updated 2026-05-30T18:39:40.938239+00:00</small>
     </div>
 </div>
 
@@ -1877,7 +1847,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1308</span>
+                                    <span class="post-points">▲ 1309</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 819</span>
@@ -1922,10 +1892,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 755</span>
+                                    <span class="post-points">▲ 756</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 386</span>
+                                    <span style="color: #9ca3af;">💬 388</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1974,10 +1944,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 427</span>
+                                    <span class="post-points">▲ 435</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 181</span>
+                                    <span style="color: #9ca3af;">💬 189</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2023,10 +1993,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 393</span>
+                                    <span class="post-points">▲ 394</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 322</span>
+                                    <span style="color: #9ca3af;">💬 323</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2121,10 +2091,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 340</span>
+                                    <span class="post-points">▲ 374</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 351</span>
+                                    <span style="color: #9ca3af;">💬 410</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2170,7 +2140,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 265</span>
+                                    <span class="post-points">▲ 266</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 148</span>
@@ -2219,7 +2189,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 233</span>
+                                    <span class="post-points">▲ 234</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 179</span>
@@ -2268,10 +2238,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 227</span>
+                                    <span class="post-points">▲ 230</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 87</span>
+                                    <span style="color: #9ca3af;">💬 90</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2364,7 +2334,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-30T17:05:31.697545+00:00">Updated 2026-05-30T17:05:31.697545+00:00</small>
+        <small data-timestamp="2026-05-30T18:39:24.331594+00:00">Updated 2026-05-30T18:39:24.331594+00:00</small>
     </div>
 </div>
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T17:05:55.031495+00:00'
+updated: '2026-05-30T18:39:46.600614+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 17:05 UTC  
+**Last Updated:** May 30, 2026 at 18:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -3.5%  
-**30d:** -11.7%  
+**24h:** +0.5%  
+**7d:** -3.4%  
+**30d:** -11.6%  
 **90d:** +0.0%  
 **1y:** -19.8%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -112,13 +112,13 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-20h ago
+22h ago
 
 ---
 
 **[Support Ethereum core development by trying to win your share of $1M](https://www.reddit.com/r/ethereum/comments/1tqc2bk/support_ethereum_core_development_by_trying_to/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 Every crypto buyer hits the same question eventually: Which is the smarter byy between Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH)? The two have dominated the market for years, together accounting for roughly 67% of the entire global cryptocurrency market cap. But sharing the same blockchain roots does not make them the same asset, and ... Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -170,13 +170,13 @@ Yahoo Finance • 2h ago
 
 Tom Lee's BitMine picked Ethereum over Hyperliquid as HYPE rallied 68%. Is the call patient conviction or a costly miss?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-vs-solana-152439488.html)**
+**[Can Ethereum Still Reach $4,950 Again?](https://finance.yahoo.com/markets/crypto/articles/ethereum-still-reach-4-950-164048023.html)**
 
-Four of the most closely followed cryptos are all trading below their peaks right now. Bitcoin (CRYPTO: BTC) has fallen below its October 2025 high, while Ethereum (CRYPTO: ETH) is 57% down from its all-time high. Meanwhile, XRP (CRYPTO: XRP) has been moving between $1.00 and $1.50 for months, and Solana (CRYPTO: SOL) is 72% ... Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027
+Ethereum (CRYPTO: ETH) climbed to $4,950 in August 2025, breaking its 2021 record after nearly four years of consolidation, and many investors thought that price level would eventually become the floor instead of the top. So far this year, ETH still trades far below that record despite spot Ethereum ETF approvals and rising institutional interest ... Can Ethereum Still Reach $4,950 Again?
 
 Yahoo Finance • 1h ago
 
@@ -202,7 +202,15 @@ CoinDesk • 1d ago
 
 Ethereum price may be flashing weakness, but smart money appears increasingly unfazed. As ETH price trades under pressure and momentum slows, some of the market’s biggest wallets are quietly accumulating again, a move that historically tends to matter. The disconnect is raising fresh speculation ac…
 
-TradingView • 4h ago
+TradingView • 6h ago
+
+---
+
+**[MicroStrategy Corrects Bitcoin Sell-Off Fears With $30 Million Withdrawal](https://beincrypto.com/microstrategy-bitcoin-sell-off-fears-reversal/)**
+
+Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
+
+BeInCrypto • 11h ago
 
 ---
 
@@ -210,7 +218,7 @@ TradingView • 4h ago
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 21h ago
+Crypto Briefing • 22h ago
 
 ---
 
@@ -219,14 +227,6 @@ Crypto Briefing • 21h ago
 There's one area in particular where both XRP and Ethereum are struggling to justify their value.
 
 The Motley Fool • 1d ago
-
----
-
-**[Current price of Ethereum for May 28, 2026](https://fortune.com/article/price-of-ethereum-05-28-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 4K • 👍 355 • 💬 67 • ⏱️ 7:50 • 5h ago
+👁️ 4K • 👍 355 • 💬 67 • ⏱️ 7:50 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 424 • 👍 52 • 💬 16 • ⏱️ 18:46 • 50m ago
+👁️ 424 • 👍 52 • 💬 16 • ⏱️ 18:46 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 600 • 👍 22 • 💬 2 • ⏱️ 1:19 • 1h ago
+👁️ 600 • 👍 22 • 💬 2 • ⏱️ 1:19 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 339 • 💬 286 • ⏱️ 18:36 • 14h ago
+👁️ 7K • 👍 339 • 💬 286 • ⏱️ 18:36 • 16h ago
 
 ---
 
@@ -300,7 +300,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 345 • 💬 60 • ⏱️ 47:42 • 20h ago
+👁️ 4K • 👍 345 • 💬 60 • ⏱️ 47:42 • 21h ago
 
 ---
 
