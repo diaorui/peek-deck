@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T18:39:46.600614+00:00'
+updated: '2026-05-30T20:09:26.720804+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 18:39 UTC  
+**Last Updated:** May 30, 2026 at 20:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +1.0%  
 **7d:** -3.4%  
 **30d:** -11.6%  
-**90d:** +0.0%  
+**90d:** +0.1%  
 **1y:** -19.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.24B
+**Market Cap:** $244.40B
 Rank #2
 
 **Circulating Supply:** 120,685,284 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.1%
+-59.0%
 
 **All-Time Low:** $0.43
-+467368.4%
++467724.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-22h ago
+23h ago
 
 ---
 
@@ -158,19 +158,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?](https://finance.yahoo.com/markets/crypto/articles/smarter-buy-bitcoin-btc-ethereum-143538623.html)**
+**[BitMine Immersion Turns Into Ethereum Proxy With MAVAN And Index Catalyst](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-turns-ethereum-proxy-190257758.html)**
 
-Every crypto buyer hits the same question eventually: Which is the smarter byy between Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH)? The two have dominated the market for years, together accounting for roughly 67% of the entire global cryptocurrency market cap. But sharing the same blockchain roots does not make them the same asset, and ... Is It Smarter to Buy Bitcoin (BTC) or Ethereum (ETH) Right Now?
+BitMine Immersion Technologies (NYSE:BMNR) has accumulated over 4.4% of the total Ethereum supply, including a single US$230 million ETH purchase, and is approaching a 5% market share. The company has launched MAVAN, an institutional Ethereum staking platform, following its uplisting to the NYSE. BitMine Immersion Technologies is also pending inclusion in major stock indices such as the Russell 1000, which may affect how index funds gain exposure to Ethereum via equities. BitMine Immersion...
 
-Yahoo Finance • 4h ago
-
----
-
-**[Hyperliquid vs Ethereum: Did Tom Lee Pick the Wrong Crypto Treasury Asset for BitMine?](https://finance.yahoo.com/markets/crypto/articles/hyperliquid-vs-ethereum-did-tom-151806728.html)**
-
-Tom Lee's BitMine picked Ethereum over Hyperliquid as HYPE rallied 68%. Is the call patient conviction or a costly miss?
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,7 +170,15 @@ Yahoo Finance • 3h ago
 
 Ethereum (CRYPTO: ETH) climbed to $4,950 in August 2025, breaking its 2021 record after nearly four years of consolidation, and many investors thought that price level would eventually become the floor instead of the top. So far this year, ETH still trades far below that record despite spot Ethereum ETF approvals and rising institutional interest ... Can Ethereum Still Reach $4,950 Again?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-vs-solana-152439488.html)**
+
+Four of the most closely followed cryptos are all trading below their peaks right now. Bitcoin (CRYPTO: BTC) has fallen below its October 2025 high, while Ethereum (CRYPTO: ETH) is 57% down from its all-time high. Meanwhile, XRP (CRYPTO: XRP) has been moving between $1.00 and $1.50 for months, and Solana (CRYPTO: SOL) is 72% ... Bitcoin vs Ethereum vs Solana vs XRP: $1,000 In Each for 2027
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 1d ago
 
 In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -202,15 +202,7 @@ CoinDesk • 1d ago
 
 Ethereum price may be flashing weakness, but smart money appears increasingly unfazed. As ETH price trades under pressure and momentum slows, some of the market’s biggest wallets are quietly accumulating again, a move that historically tends to matter. The disconnect is raising fresh speculation ac…
 
-TradingView • 6h ago
-
----
-
-**[MicroStrategy Corrects Bitcoin Sell-Off Fears With $30 Million Withdrawal](https://beincrypto.com/microstrategy-bitcoin-sell-off-fears-reversal/)**
-
-Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
-
-BeInCrypto • 11h ago
+TradingView • 7h ago
 
 ---
 
@@ -218,7 +210,7 @@ BeInCrypto • 11h ago
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 22h ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -227,6 +219,14 @@ Crypto Briefing • 22h ago
 There's one area in particular where both XRP and Ethereum are struggling to justify their value.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slides toward breakdown, ETH struggles, XRP loses momentum](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slides-toward-breakdown-eth-struggles-xrp-loses-momentum-202605290405)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) struggle on Friday after correcting over 4.4%, 4.5% and 3% so far this week. BTC is trading below $74,000, ETH dropped to $2,000, and XRP is hovering near $1.30.
+
+FXStreet • 1d ago
 
 ---
 
@@ -240,27 +240,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 4K • 👍 355 • 💬 67 • ⏱️ 7:50 • 6h ago
-
----
-
-**[Ethereum: Why So Many People Are Giving Up on It](https://www.youtube.com/watch?v=2N30H9GoWss)**
-
-In this interview, former Ethereum Foundation team member Hudson Jameson shares his perspective on Ethereum's biggest ...
-
-📺 Cointelegraph
-
-👁️ 4K • 👍 140 • 💬 31 • ⏱️ 20:38 • 1d ago
-
----
-
-**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
-
-MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
-
-📺 Linda CryptoFly
-
-👁️ 1K • 👍 156 • 💬 31 • ⏱️ 7:41 • 1d ago
+👁️ 6K • 👍 429 • 💬 88 • ⏱️ 7:50 • 8h ago
 
 ---
 
@@ -270,7 +250,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 424 • 👍 52 • 💬 16 • ⏱️ 18:46 • 2h ago
+👁️ 3K • 👍 198 • 💬 74 • ⏱️ 18:46 • 3h ago
+
+---
+
+**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
+
+MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
+
+📺 Linda CryptoFly
+
+👁️ 2K • 👍 163 • 💬 32 • ⏱️ 7:41 • 1d ago
+
+---
+
+**[Ethereum: Why So Many People Are Giving Up on It](https://www.youtube.com/watch?v=2N30H9GoWss)**
+
+In this interview, former Ethereum Foundation team member Hudson Jameson shares his perspective on Ethereum's biggest ...
+
+📺 Cointelegraph
+
+👁️ 5K • 👍 151 • 💬 35 • ⏱️ 20:38 • 1d ago
+
+---
+
+**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
+
+Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
+
+📺 The Rollup
+
+👁️ 77 • 👍 6 • 💬 2 • ⏱️ 36:57 • 54m ago
 
 ---
 
@@ -280,7 +290,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 600 • 👍 22 • 💬 2 • ⏱️ 1:19 • 2h ago
+👁️ 1K • 👍 50 • 💬 34 • ⏱️ 1:19 • 4h ago
 
 ---
 
@@ -290,7 +300,7 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 339 • 💬 286 • ⏱️ 18:36 • 16h ago
+👁️ 8K • 👍 349 • 💬 310 • ⏱️ 18:36 • 17h ago
 
 ---
 
@@ -300,7 +310,17 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 345 • 💬 60 • ⏱️ 47:42 • 21h ago
+👁️ 4K • 👍 379 • 💬 61 • ⏱️ 47:42 • 23h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Was Right, Kaspa Proves It!](https://www.youtube.com/watch?v=-pjrlWaJSYE)**
+
+Tangem 50% off your 2nd Tangem Card Set ➡ Until 25 May 20026 Tangem 20% off + UP TO $10 USD in Bitcoin ...
+
+📺 Your Crypto Crew
+
+👁️ 1K • 👍 93 • 💬 5 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -310,27 +330,7 @@ Bitcoin, Ethereum and Solana trade update with full technical analysis and tradi
 
 📺 Chart Champions
 
-👁️ 7K • 👍 411 • 💬 29 • ⏱️ 15:56 • 1d ago
-
----
-
-**[SOMETHING MASSIVE JUST SHIFTED IN BITCOIN, ETHEREUM &amp; XRP](https://www.youtube.com/watch?v=dNWaa3RBfos)**
-
-The crypto market may have just entered a major turning point. Bitcoin is losing momentum, Ethereum is flashing mixed signals, ...
-
-📺 Artur
-
-👁️ 1K • 👍 82 • ⏱️ 21:16 • 1d ago
-
----
-
-**[Ethereum-Niedergang? Vitalik Buterin zieht die Reißleine!](https://www.youtube.com/watch?v=HqC3ZQVQBRI)**
-
-Jetzt gratis sichern - Die neue „Blockchain-Investor“-App: ₿ ▻ Google Play ...
-
-📺 Krypto Report
-
-👁️ 13K • 👍 845 • 💬 35 • ⏱️ 15:05 • 2d ago
+👁️ 7K • 👍 414 • 💬 30 • ⏱️ 15:56 • 1d ago
 
 ---
 
