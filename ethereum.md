@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T10:57:23.701639+00:00'
+updated: '2026-05-30T12:06:42.883678+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 10:57 UTC  
+**Last Updated:** May 30, 2026 at 12:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -3.8%  
-**30d:** -12.0%  
-**90d:** -0.4%  
-**1y:** -20.1%  
+**24h:** +0.9%  
+**7d:** -3.9%  
+**30d:** -12.1%  
+**90d:** -0.5%  
+**1y:** -20.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.88B
+**Market Cap:** $243.14B
 Rank #2
 
 **Circulating Supply:** 120,685,284 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.3%
 
 **All-Time Low:** $0.43
-+464936.4%
++465199.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with multiproofs, FTSE Russell US indexes: Bitmine & Sharplink to join
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 22h ago
 
 ---
 
@@ -112,7 +112,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ In this thread posted by the Everstake team they raise the point that "Past a ce
 
 Ethereum's price fell below $2,000 for the first time since March 29. Santiment warned that retail “buy the dip” optimism may be a bearish contrarian ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 The Ethereum Foundation is facing its most concentrated wave of internal criticism in years, eight high-profile departures since January 2026, a contested public mandate, and an open debate over whether the Switzerland-based nonprofit still serves a coherent purpose inside the ecosystem it helped build. The conflict is no longer a ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 1d ago
 
 There's one area in particular where both XRP and Ethereum are struggling to justify their value.
 
-The Motley Fool • 22h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 22h ago
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -240,27 +240,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 122 • 💬 26 • ⏱️ 20:38 • 17h ago
-
----
-
-**[Ethereum is Dying.](https://www.youtube.com/watch?v=G4iwlgqw7k8)**
-
-Today, Ran takes a closer look at Ethereum's current identity crisis, from slowing momentum and negative sentiment to growing ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 969 • 💬 45 • ⏱️ 29:37 • 2d ago
-
----
-
-**[BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zE4kLZrFgPQ)**
-
-BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 270 • 💬 100 • ⏱️ 18:36 • 8h ago
+👁️ 4K • 👍 127 • 💬 29 • ⏱️ 20:38 • 19h ago
 
 ---
 
@@ -270,7 +250,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 259 • 💬 14 • ⏱️ 47:42 • 13h ago
+👁️ 3K • 👍 283 • 💬 15 • ⏱️ 47:42 • 15h ago
 
 ---
 
@@ -280,7 +260,47 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 143 • 💬 31 • ⏱️ 7:41 • 18h ago
+👁️ 1K • 👍 145 • 💬 31 • ⏱️ 7:41 • 19h ago
+
+---
+
+**[BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zE4kLZrFgPQ)**
+
+BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 311 • 💬 137 • ⏱️ 18:36 • 9h ago
+
+---
+
+**[Ethereum is Dying.](https://www.youtube.com/watch?v=G4iwlgqw7k8)**
+
+Today, Ran takes a closer look at Ethereum's current identity crisis, from slowing momentum and negative sentiment to growing ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 971 • 💬 45 • ⏱️ 29:37 • 2d ago
+
+---
+
+**[My Trading Plan for BTC, ETH and SOL | Market Update](https://www.youtube.com/watch?v=ZdqbbnDVYLU)**
+
+Bitcoin, Ethereum and Solana trade update with full technical analysis and trading plan for the days ahead. Crypto is lagging ...
+
+📺 Chart Champions
+
+👁️ 7K • 👍 404 • 💬 33 • ⏱️ 15:56 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=uSJcWd3zy1Q)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 84 • 💬 4 • ⏱️ 7:01 • 8h ago
 
 ---
 
@@ -290,7 +310,7 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 271 • 💬 59 • ⏱️ 0:32 • 2d ago
+👁️ 13K • 👍 272 • 💬 55 • ⏱️ 0:32 • 2d ago
 
 ---
 
@@ -300,37 +320,17 @@ Jetzt gratis sichern - Die neue „Blockchain-Investor“-App: ₿ ▻ Google Pl
 
 📺 Krypto Report
 
-👁️ 12K • 👍 794 • 💬 31 • ⏱️ 15:05 • 1d ago
+👁️ 12K • 👍 814 • 💬 34 • ⏱️ 15:05 • 1d ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 28th of May](https://www.youtube.com/watch?v=buD7QUN_ZbU)**
+**[Privacy Alts Are Pumping While Bitcoin &amp; ETH Are Weakening](https://www.youtube.com/watch?v=bYcDvQIu7ws)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Crypto is splitting in two: Bitcoin ...
 
-📺 C-Zar Gets Crypto 
+📺 Bankless
 
-👁️ 174 • 👍 18 • 💬 19 • ⏱️ 10:46 • 1d ago
-
----
-
-**[Ethereum&#39;s Boomer Era? Apostates, EF Drama, and Solana Fights Back - The Chopping Block](https://www.youtube.com/watch?v=750Qohxtcpo)**
-
-Ethereum's midlife crisis hits the podcast as Max Resnick & David Hoffman unpack ETH's talent exodus, identity spiral, "Microsoft" ...
-
-📺 Unchained
-
-👁️ 4K • 👍 119 • 💬 44 • ⏱️ 1:05:13 • 1d ago
-
----
-
-**[Can Monad Save &amp; Scale Ethereum? | Eunice Giarta](https://www.youtube.com/watch?v=YaG5mN39R_s)**
-
-Eunice Giarta, Co-Founder and General Manager at the Monad Foundation, joined me to discuss how Monad, as a ...
-
-📺 Thinking Crypto
-
-👁️ 836 • 👍 72 • 💬 5 • ⏱️ 36:08 • 22h ago
+👁️ 4K • 👍 155 • 💬 53 • ⏱️ 1:03:38 • 1d ago
 
 ---
 
