@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T03:30:25.632232+00:00'
+updated: '2026-05-30T06:36:28.230981+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 03:30 UTC  
+**Last Updated:** May 30, 2026 at 06:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
 
-17h ago
+20h ago
+
+---
+
+**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
+
+1h ago
 
 ---
 
@@ -44,13 +50,13 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
 
-14h ago
+17h ago
 
 ---
 
 **[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
 
-3h ago
+6h ago
 
 ---
 
@@ -58,7 +64,7 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-7h ago
+10h ago
 
 ---
 
@@ -72,7 +78,7 @@ This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help fr
 
 **[This robot eats your Money](https://www.reddit.com/r/robotics/comments/1tqqy34/this_robot_eats_your_money/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -80,7 +86,7 @@ This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help fr
 
 A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 21h ago
+🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 1d ago
 
 ---
 
@@ -92,17 +98,9 @@ From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/205962064081
 
 ---
 
-**[Delivery robots don’t just navigate sidewalks. They also have to deal with people.](https://www.reddit.com/r/robotics/comments/1tr435v/delivery_robots_dont_just_navigate_sidewalks_they/)**
-
-Serve Robotics CEO Ali Kashani told a story about someone claiming one of the company’s delivery robots broke their guitar. The team checked the robot’s video. It showed the person trying to kick the robot. The guitar hit the robot’s back wheel and broke. Serve replaced the guitar anyway because the person said they needed it for work. Ali explains how sidewalk delivery puts robots in the middle of everyday public behavior. People stop, film, help, block, complain, or mess with the robot. Some reactions are harmless. Some are not. For delivery robots, the street is not a clean test course. It is a shared space with all the normal weirdness of people moving through a city.
-
-12h ago
-
----
-
 **[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -118,43 +116,35 @@ BBC • 1d ago
 
 ---
 
-**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
-
-Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
-
-Fox News • 15h ago
-
----
-
-**[Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of](https://finance.yahoo.com/markets/options/articles/three-humanoid-robotics-etfs-built-170504460.html)**
-
-Humanoid robotics moved from concept videos to factory floors over the past 18 months, and three ETFs now offer materially different ways to play it: Themes Humanoid Robotics ETF (NASDAQ:BOTT), ROBO Global Robotics and Automation Index ETF (NYSEARCA:ROBO), and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ). Each captures the theme from a different ... Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of
-
-Yahoo Finance • 1d ago
-
----
-
 **[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
 
 The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
 
-AP News • 19h ago
+AP News • 22h ago
 
 ---
 
-**[Humanoid robots strut their stuff as trade show comes to Japan](https://asia.nikkei.com/business/technology/humanoid-robots-strut-their-stuff-as-trade-show-comes-to-japan)**
+**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
 
-Honda, others exhibit new tech in industry expected to grow rapidly
+Will humanoids redefine how battles are fought and won?
 
-Nikkei Asia • 1d ago
+Popular Mechanics • 1d ago
 
 ---
 
-**[Humanoids Summit gives Tokyo a peek of a robotic future](https://www.japantimes.co.jp/business/2026/05/28/tech/tokyo-humanoid-summit/)**
+**[Space-bound humanoid takes a four-armed approach to astronaut assistance](https://newatlas.com/ai-humanoids/orbit-helios-four-arms-space-robot-astronaut/)**
 
-A major talking point at the two-day event is how crucial artificial intelligence-powered robots might be for tackling Japan's labor shortage.
+In microgravity, walking doesn't exist. Balance doesn't exist. What does exist is the need to grip surfaces, manipulate tools, move through narrow corridors, and not go flying every time you push against something. Two legs solve none of those problems.
 
-The Japan Times • 1d ago
+New Atlas • 11h ago
+
+---
+
+**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
+
+Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
+
+The Frederick News-Post • 20h ago
 
 ---
 
@@ -162,7 +152,7 @@ The Japan Times • 1d ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 12h ago
+ZME Science • 15h ago
 
 ---
 
@@ -188,6 +178,14 @@ Bessemer Venture Partners • 2d ago
 
 ---
 
+**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
+
+ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
+
+Yahoo Finance • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,77 +196,7 @@ Figure just quietly LAPPED the entire humanoid robot race — and almost nobody 
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 108 • 💬 6 • ⏱️ 25:08 • 11h ago
-
----
-
-**[This $440 Million Startup Is Solving Robotics’ Biggest Problem](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
-
-Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
-
-📺 Forbes
-
-👁️ 33K • 👍 789 • 💬 31 • ⏱️ 10:21 • 2d ago
-
----
-
-**[THIS BUILD LOOKS MENACING! TESTING THE TORCH ULTIMATE NODENS! (War Robots)](https://www.youtube.com/watch?v=ZS3cAYMdwds)**
-
-In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 3K • 👍 137 • 💬 24 • ⏱️ 15:23 • 17h ago
-
----
-
-**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
-
-Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
-
-📺 Techie Sapien
-
-👁️ 423K • 👍 3K • 💬 63 • ⏱️ 0:07 • 16h ago
-
----
-
-**[NEW AI Robots Are Becoming TOO Human to Ignore... This Changes Everything](https://www.youtube.com/watch?v=uHfzK3wmZQM)**
-
-The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 might be the year everything changes!
-
-📺 The AI Nexus
-
-👁️ 6K • 👍 150 • 💬 21 • ⏱️ 18:41 • 2d ago
-
----
-
-**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
-
-The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 339 • 💬 88 • ⏱️ 13:36 • 15h ago
-
----
-
-**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
-
-Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
-
-📺 Duke Engineering
-
-👁️ 16K • 👍 2K • 💬 91 • ⏱️ 1:50 • 1d ago
-
----
-
-**[We Just Hosted Europe’s Greatest Robotics Meetup](https://www.youtube.com/watch?v=wBTZH-8Y9Iw)**
-
-Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 friends together. 500 people applied once we put a ...
-
-📺 Andreas Klinger @ PROTOTYPE
-
-👁️ 7K • 👍 478 • 💬 64 • ⏱️ 10:49 • 16h ago
+👁️ 3K • 👍 118 • 💬 6 • ⏱️ 25:08 • 14h ago
 
 ---
 
@@ -282,13 +210,83 @@ The mass production era is officially here. As a brand new 10000-unit factory li
 
 ---
 
-**[This Autonomous Loc Machine Turns Straight Hair Into Locs in Seconds](https://www.youtube.com/watch?v=VN1YmncYzv8)**
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
 
-This loc machine transformed straight hair into a full loc style in seconds Would you try this or stay traditional? #Shorts ...
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
 
-📺 Prototype Leaked
+📺 ESPN
 
-👁️ 19K • 👍 361 • 💬 4 • ⏱️ 0:11 • 10h ago
+👁️ 286K • 👍 5K • 💬 546 • ⏱️ 4:57 • 4d ago
+
+---
+
+**[THIS BUILD LOOKS MENACING! TESTING THE TORCH ULTIMATE NODENS! (War Robots)](https://www.youtube.com/watch?v=ZS3cAYMdwds)**
+
+In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 3K • 👍 141 • 💬 24 • ⏱️ 15:23 • 20h ago
+
+---
+
+**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
+
+Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
+
+📺 Duke Engineering
+
+👁️ 16K • 👍 2K • 💬 93 • ⏱️ 1:50 • 1d ago
+
+---
+
+**[This $440 Million Startup Is Solving Robotics’ Biggest Problem](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
+
+Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
+
+📺 Forbes
+
+👁️ 36K • 👍 831 • 💬 31 • ⏱️ 10:21 • 2d ago
+
+---
+
+**[NEW AI Robots Are Becoming TOO Human to Ignore... This Changes Everything](https://www.youtube.com/watch?v=uHfzK3wmZQM)**
+
+The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 might be the year everything changes!
+
+📺 The AI Nexus
+
+👁️ 7K • 👍 151 • 💬 21 • ⏱️ 18:41 • 2d ago
+
+---
+
+**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+
+The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 360 • 💬 90 • ⏱️ 13:36 • 18h ago
+
+---
+
+**[New KRAKEN Robot is here! War Robots SHOGGOTH 12.2 Update LIVE](https://www.youtube.com/watch?v=6qdKDy2a6Xo)**
+
+War Robots Gameplay: New Robot SHOGGOTH - The KRAKEN - WR My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 16K • 👍 630 • 💬 119 • ⏱️ 25:12 • 1d ago
+
+---
+
+**[VEX V5 Override | Hero Bot &quot;Flex&quot; | Part 2](https://www.youtube.com/watch?v=PCEbr8BltXQ)**
+
+ORDER HERE: https://www.vex.com/VEXgames26-27yt SUBSCRIBE: https://www.vex.com/YouTube ...
+
+📺 VEX Robotics
+
+👁️ 82K • 👍 53 • 💬 19 • ⏱️ 4:27 • 4d ago
 
 ---
 

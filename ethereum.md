@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T03:30:25.629260+00:00'
+updated: '2026-05-30T06:36:28.228127+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 03:30 UTC  
+**Last Updated:** May 30, 2026 at 06:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,020.18
+### $2,008.35
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.6%  
-**7d:** -3.8%  
-**30d:** -12.0%  
-**90d:** -0.3%  
-**1y:** -20.1%  
+**7d:** -3.9%  
+**30d:** -12.1%  
+**90d:** -0.4%  
+**1y:** -20.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.59B
+**Market Cap:** $243.26B
 Rank #2
 
 **Circulating Supply:** 120,685,284 ETH
@@ -62,17 +62,25 @@ No max supply
 -59.2%
 
 **All-Time Low:** $0.43
-+466054.2%
++465643.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion May 30, 2026](https://www.reddit.com/r/ethereum/comments/1trqcd4/daily_general_discussion_may_30_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[SEC approves tokenized equities on ETH](https://www.reddit.com/r/ethereum/comments/1tqun4t/sec_approves_tokenized_equities_on_eth/)**
 
 https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency-140600011.html Paxos currently supports PayPal’s stablecoin and tokenized gold mostly on ETH, but this will allow them to bring equities onto eth This is major bullish news
 
-19h ago
+22h ago
 
 ---
 
@@ -80,7 +88,7 @@ https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with multiproofs, FTSE Russell US indexes: Bitmine & Sharplink to join
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 13h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 16h ago
 
 ---
 
@@ -104,7 +112,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-7h ago
+10h ago
 
 ---
 
@@ -118,7 +126,7 @@ YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST W
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,14 +146,6 @@ In this thread posted by the Everstake team they raise the point that "Past a ce
 
 ---
 
-**[Daily General Discussion May 27, 2026](https://www.reddit.com/r/ethereum/comments/1tovhuz/daily_general_discussion_may_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's price fell below $2,000 for the first time since March 29. Santiment warned that retail “buy the dip” optimism may be a bearish contrarian ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -166,11 +166,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics](https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up)**
+**[Base launches Azul on mainnet, pushing Coinbase's Ethereum L2 toward full decentralization](https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization)**
 
-Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
+Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.
 
-The Block • 1d ago
+The Block • 21h ago
+
+---
+
+**[Should Hyperliquid Be Worth More Than XRP or Ethereum?](https://www.fool.com/investing/2026/05/29/should-hyperliquid-be-worth-more-than-xrp-or-ether/)**
+
+There's one area in particular where both XRP and Ethereum are struggling to justify their value.
+
+The Motley Fool • 18h ago
 
 ---
 
@@ -178,7 +186,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 17h ago
 
 ---
 
@@ -186,15 +194,7 @@ Fortune • 14h ago
 
 Data shows the crypto derivatives market has suffered a massive amount of liquidations following the plunge that Bitcoin, Ethereum, and other assets have seen.Bitcoin & Ethereum Are Both Down More Than 5% For The Past WeekThe second half of May so far has seen a reversal of trend for the cryptocurr…
 
-TradingView • 22h ago
-
----
-
-**[Could Hyperliquid Be the Next Ethereum?](https://www.fool.com/investing/2026/05/29/could-hyperliquid-be-the-next-ethereum/)**
-
-This emerging network is shaping up to be a powerhouse.
-
-The Motley Fool • 17h ago
+TradingView • 1d ago
 
 ---
 
@@ -202,15 +202,7 @@ The Motley Fool • 17h ago
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 7h ago
-
----
-
-**[Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance](https://decrypt.co/369305/standard-chartered-reaffirms-40k-ethereum-price-target-defi-dominance)**
-
-Standard Chartered analysts argued in a note that Ethereum’s current price doesn’t reflect its network's improving metrics.
-
-Decrypt • 1d ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -218,13 +210,21 @@ Decrypt • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) struggle on Friday after correcting over 4.4%, 4.5% and 3% so far this week. BTC is trading below $74,000, ETH dropped to $2,000, and XRP is hovering near $1.30.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
-**[Can ethereum reclaim 2021 highs versus bitcoin?](https://www.investing.com/news/cryptocurrency-news/can-ethereum-reclaim-2021-highs-versus-bitcoin-4714837)**
+**[Ethereum Price Falls Below $2,000 as Tom Lee’s ‘Supercycle’ Call Faces Scrutiny](https://www.ccn.com/news/crypto/ethereum-price-falls-below-2000-tom-lee-supercycle/)**
 
-Investing.com • 1d ago
+CCN.com • 1d ago
+
+---
+
+**[Bit Digital Expands Digital Treasury with Massive $20 Million Ethereum Allocation](https://financefeeds.com/bit-digital-expands-digital-treasury-with-massive-20-million-ethereum-allocation/)**
+
+The corporate treasury blueprint governing public digital asset enterprises has recorded a major contrarian milestone following a significant balance sheet
+
+FinanceFeeds • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 99 • 💬 47 • ⏱️ 20:38 • 10h ago
+👁️ 3K • 👍 112 • 💬 53 • ⏱️ 20:38 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 904 • 👍 106 • 💬 17 • ⏱️ 18:36 • 59m ago
+👁️ 3K • 👍 221 • 💬 31 • ⏱️ 18:36 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 136 • 💬 49 • ⏱️ 7:41 • 11h ago
+👁️ 1K • 👍 142 • 💬 49 • ⏱️ 7:41 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 188 • 💬 12 • ⏱️ 47:42 • 6h ago
+👁️ 2K • 👍 231 • 💬 13 • ⏱️ 47:42 • 9h ago
 
 ---
 
@@ -282,43 +282,23 @@ Today, Ran takes a closer look at Ethereum's current identity crisis, from slowi
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Was Right, Kaspa Proves It!](https://www.youtube.com/watch?v=-pjrlWaJSYE)**
-
-Tangem 50% off your 2nd Tangem Card Set ➡ Until 25 May 20026 Tangem 20% off + UP TO $10 USD in Bitcoin ...
-
-📺 Your Crypto Crew
-
-👁️ 784 • 👍 73 • 💬 5 • ⏱️ 10:05 • 14h ago
-
----
-
-**[Ethereum Could Be Heading for a MEGA Crash!](https://www.youtube.com/watch?v=pKlhnZ1SNuQ)**
-
-Crypto makes you money. CM UNFILTERED makes you dangerous. Subscribe here https://www.youtube.com/@CMUnfiltered ...
-
-📺 Crypto MindSet
-
-👁️ 534 • 💬 4 • ⏱️ 0:26 • 5h ago
-
----
-
 **[🚨 ETH Breaks $2K – Is This The Final Bottom?](https://www.youtube.com/watch?v=2WktFOHksXM)**
 
 CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
 📺 Marzell Crypto
 
-👁️ 695 • 👍 30 • 💬 127 • ⏱️ 3:56 • 1d ago
+👁️ 715 • 👍 30 • 💬 124 • ⏱️ 3:56 • 1d ago
 
 ---
 
-**[XRP, Bitcoin &amp; Ethereum Are Going Away FOREVER...](https://www.youtube.com/watch?v=pZG2GXqQLO4)**
+**[ETHEREUM EM RISCO? A tese pode estar quebrando (e poucos perceberam)](https://www.youtube.com/watch?v=mhUtgaXAv58)**
 
-Join Our Private Intelligence Network Here: → https://altcoinpro.com/accelerator?video=pZG2GXqQLO4 See How Much You'll ...
+Você pode LUCRAR na alta e na queda do Bitcoin de forma 100% automatizada na minha nova plataforma: ...
 
-📺 BULLRUNNERS
+📺 Vinícius Bazan | Underblock
 
-👁️ 8K • 👍 359 • 💬 49 • ⏱️ 15:14 • 2d ago
+👁️ 1K • 👍 121 • 💬 8 • ⏱️ 13:51 • 1d ago
 
 ---
 
@@ -328,7 +308,27 @@ Buy, Sell, Trade Crypto: Buy, Sell, Trade on Weex ($500 Bonus): https://www.weex
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 271 • 💬 63 • ⏱️ 0:32 • 2d ago
+👁️ 13K • 👍 271 • 💬 64 • ⏱️ 0:32 • 2d ago
+
+---
+
+**[BITCOIN SIGNAL CONFIRMED: It&#39;s Happening AGAIN!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=TaIOT1MQRPY)**
+
+BITCOIN SIGNAL CONFIRMED: It's Happening AGAIN!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 332 • 💬 195 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[¡Por qué vendí mi ETH! 😫](https://www.youtube.com/watch?v=qrPSDtsTBHM)**
+
+David Hoffman, fundador de Bankless, ha vendido su Ethereum tras seis años defendiéndolo y ha incendiado las redes.
+
+📺 Rodrigo Arnedo Noticias Bitcoin
+
+👁️ 5K • 👍 457 • 💬 55 • ⏱️ 25:18 • 2d ago
 
 ---
 
