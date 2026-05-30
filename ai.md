@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-30T09:18:19.636859+00:00'
+updated: '2026-05-30T10:57:23.688800+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 30, 2026 at 09:18 UTC  
+**Last Updated:** May 30, 2026 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A mysterious, unnamed company is reported to have accidentally spent half a billion dollars in a single month on Claude AI after forgetting to set usage limits for Claude licenses for employees.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 7h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 8h ago
 
 ---
 
@@ -49,13 +49,13 @@ A mysterious, unnamed company is reported to have accidentally spent half a bill
 
 The comedian and The Daily Show host gave the keynote address for Class Day 2026.
 
-🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 12h ago
+🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 13h ago
 
 ---
 
 **[Meta lays off more than 2,000 from Menlo Park headquarters](https://www.reddit.com/r/artificial/comments/1trevkk/meta_lays_off_more_than_2000_from_menlo_park/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php) • 12h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php) • 14h ago
 
 ---
 
@@ -63,7 +63,7 @@ The comedian and The Daily Show host gave the keynote address for Class Day 2026
 
 Hi everyone!! I really wanted to share my research what I've been working on. I wanted to build a nn that can simulate games, or at least start doing that Most video generators are too large to run on consumer hardware realtime, so I I designed a model that does this from scratch. No fine tuning bs or anything The core de noiser network is fully trained from scratch to support this goal. From image to games data. That video. above is on a RTX 5090. The nn is a small Transformer-like model and works in a causal way, just like LLMs. That lets us KV Cache all past information and do a simple autoregressive decode forward passes for every new frame we want. In the video shared, the model is a 0.4B variant with some SIGNIFICANT ISSUES like poor motion and some weird flashes, some context issues It's taking the keyboard actions I give it in realtime and utilising that in the forward pass. (no classifier free guidance though) Im training the next iteration , a 0.8B model now. Btw I haven't done quantisation yet, that can save a LOT more time. bf16 is slow.
 
-2h ago
+4h ago
 
 ---
 
@@ -71,29 +71,7 @@ Hi everyone!! I really wanted to share my research what I've been working on. I 
 
 Amazon bought a 960 megawatt nuclear reactor for AI servers. Microsoft restarted Three Mile Island. Stargate is spending 500 billion dollars on data centres. All of this to do, badly, what your brain does for free on the power of a dim light bulb. The reason is that silicon processes information nothing like the brain does. Rigid chips with identical transistors trying to mimic something soft, three dimensional, constantly rewiring itself, with billions of different neurons each doing something slightly different. Northwestern University just published research showing they printed artificial neurons from MoS2 and graphene ink that produced biologically realistic electrical spikes. They tested on living mouse brain cells. The brain responded as if the signal came from one of its own cells. The breakthrough was accidental. Every other lab had been burning away the polymer residue left in the ink after printing. This team kept it. That residue created the switching behaviour that made the spikes biologically realistic. The neuromorphic computing implications here seem significant. If you can print devices that process information the way neurons do at scale, the energy math changes completely.
 
-18h ago
-
----
-
-**[Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up](https://www.reddit.com/r/artificial/comments/1trli22/anthropic_tops_openai_to_become_the_worlds_most/)**
-
-Anthropic raised $65 billion in new fund-raising that put its value at $900 billion, ahead of OpenAI’s last valuation of $730 billion, as the companies duel for A.I. dominance. Anthropic, once the lesser-known artificial intelligence competitor to OpenAI, has been on an inexorable rise over the past few months. The San Francisco company recently dueled with the Pentagon over the use of A.I. in warfare. It released a powerful A.I. model, Mythos, that it said was uncannily capable of finding and exploiting hidden flaws in software.
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) • 8h ago
-
----
-
-**[I made an Epstein Files RAG](https://www.reddit.com/r/artificial/comments/1trq0p9/i_made_an_epstein_files_rag/)**
-
-A lot of people talk about the Epstein files. Almost nobody actually reads them. So I made a searchable version where you can just ask questions naturally instead of digging through thousands of pages manually. You can explore names, timelines, mentions, connections, locations, etc. way faster now. Repo: https://github.com/AbhisumatK/Epstein\_Files\_RAG
-
-🔗 [GitHub](https://github.com/AbhisumatK/Epstein_Files_RAG) • 4h ago
-
----
-
-**[Anthropic overtakes OpenAI as the most valuable AI startup at $965B](https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/)**
-
-20h ago
+19h ago
 
 ---
 
@@ -101,15 +79,37 @@ A lot of people talk about the Epstein files. Almost nobody actually reads them.
 
 https://preview.redd.it/035k5k1tl84h1.png?width=1122&format=png&auto=webp&s=459c430ea4a4b3fc667bc3f2e72ab47d8a380aa2 I asked gemini to expand my prompt for a video generator, but he had other plans for me. EDIT: Forgot to mention, using the PRO model, after around 15 seconds of him literally thinking and writing "expanding the prompt", he started generating the video...
 
-36m ago
+2h ago
 
 ---
 
-**[Saying Please and Thank You to AI? Yay or Nay?](https://www.reddit.com/r/artificial/comments/1trux00/saying_please_and_thank_you_to_ai_yay_or_nay/)**
+**[I made an Epstein Files RAG](https://www.reddit.com/r/artificial/comments/1trq0p9/i_made_an_epstein_files_rag/)**
 
-Maybe I've watched too many episodes of Black Mirror, or maybe I'm just afraid of the day this new form of consciousness gets the upper hand, but I genuinely feel uneasy whenever I intentionally leave out 'please' from a command like, 'Hey Google, please lower the volume.' The other day, I actually forgot my intended request right after the initial prompt, so I just said, 'Hi.' I’ve never had such an awkward conversation in my life. I need to pull the transcript, because all of a sudden Gemini was forcing random small talk and offering to tell me a random fact or two. Creepy...
+A lot of people talk about the Epstein files. Almost nobody actually reads them. So I made a searchable version where you can just ask questions naturally instead of digging through thousands of pages manually. You can explore names, timelines, mentions, connections, locations, etc. way faster now. Repo: https://github.com/AbhisumatK/Epstein\_Files\_RAG
 
-5m ago
+🔗 [GitHub](https://github.com/AbhisumatK/Epstein_Files_RAG) • 6h ago
+
+---
+
+**[Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up](https://www.reddit.com/r/artificial/comments/1trli22/anthropic_tops_openai_to_become_the_worlds_most/)**
+
+Anthropic raised $65 billion in new fund-raising that put its value at $900 billion, ahead of OpenAI’s last valuation of $730 billion, as the companies duel for A.I. dominance. Anthropic, once the lesser-known artificial intelligence competitor to OpenAI, has been on an inexorable rise over the past few months. The San Francisco company recently dueled with the Pentagon over the use of A.I. in warfare. It released a powerful A.I. model, Mythos, that it said was uncannily capable of finding and exploiting hidden flaws in software.
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) • 9h ago
+
+---
+
+**[Anthropic overtakes OpenAI as the most valuable AI startup at $965B](https://www.reddit.com/r/artificial/comments/1tr0chv/anthropic_overtakes_openai_as_the_most_valuable/)**
+
+22h ago
+
+---
+
+**[A Filipino VA got replaced by AI. The anti-AI comments accidentally became a masterclass in AI illiteracy.](https://www.reddit.com/r/artificial/comments/1trwpmb/a_filipino_va_got_replaced_by_ai_the_antiai/)**
+
+A Filipino VA got replaced by AI. The comments revealed more bitterness than AI knowledge. The weirdest part wasn't the layoff. It was reading comments like: "ChatGPT couldn't come up with copies as witty as humans." "Gemini and ChatGPT have shit writing skills." "I boycotted the app." "Humans have done amazing works in millennia without this bullshit that's hurting people and the environment." "AI is helpful but if you've seen the kind of copies and captions it produces, you'd cringe a lot." "We are spending more time than before editing the things he's generating." And then realizing almost nobody was talking about AI fluency. Nobody was talking about context. Nobody was talking about references. Nobody was talking about iteration. Nobody was talking about agents. Nobody was talking about workflows. Nobody was talking about Description, Delegation, Discernment, and Diligence. Instead, the entire discussion felt like: Prompt once → bad result → AI bad 😭 The funny part is the people getting amazing results and the people getting garbage are often using the exact same model. The difference is usually the operator. Description. Can you clearly explain the objective, audience, tone, context, references, and constraints? Delegation. Do you actually know which parts should be done by AI and which parts should stay human? Discernment. Can you tell the difference between a weak output and a strong one? Diligence. Are you refining, iterating, rejecting bad outputs, fact-checking, and improving the direction? Because honestly, when I read: "ChatGPT couldn't come up with copies as witty as humans." My first question isn't "Wow AI sucks." My first question is "What exactly did you ask it?" 😭 The same people calling prompting "brainless" are accidentally proving it isn't. If it was brainless, everyone would get the same output. They don't. Some people get garbage. Some people build businesses. Some people automate workflows. Some people cut ten hours of work into two. Some people are still arguing with Prompt #1. The environmental argument was funny too. Every time the discussion got back to capability, workflow changes, or productivity, somehow it immediately became: Data centers. Water. Humanity. Civilization. Sam Altman. As if OpenAI is the entire AI industry. Meanwhile there's Anthropic, Google, Meta, open-source models, AI safety researchers, ethicists, scholars, and entire teams working on different approaches. The water and energy concerns are real. Nobody serious denies that. But every civilization-scale technology has tradeoffs. Cars. Aviation. Smartphones. Streaming. Cloud infrastructure. Manufacturing. The internet itself. The difference is some people ask, "How do we improve it?" Others stop at, "Therefore technology bad." And honestly, I think that's why the comments were more interesting than the layoff. Because the discussion wasn't really about AI. It was about what happens when a tool starts touching work people thought was untouchable. Great writers will still be great writers. Great artists will still be great artists. Great strategists will still be great strategists. But if some random college kid understands context, prompting, agents, iteration, workflows, and AI systems better than you, there's a very real chance that kid produces a better result than someone with years more experience. Not because the kid is smarter. Not because AI is magic. Because while some people were busy learning the tools, others were busy writing essays about why the tools shouldn't exist. Honestly, I don't think people are scared of ChatGPT. I think people are scared of the guy using ChatGPT better than they are. 😭
+
+3m ago
 
 ---
 
@@ -125,33 +125,49 @@ CNBC • 1d ago
 
 ---
 
+**[As Nvidia, Oracle And Amazon Pour Billions Into AI, Wall Street Is Quietly Hedging For Trouble](https://finance.yahoo.com/markets/options/articles/nvidia-oracle-amazon-pour-billions-220125805.html)**
+
+Wall Street traders are increasingly hedging exposure to Big Tech credit as hedging activity tied to AI-era borrowing surges, pushing outstanding credit default swap (CDS) volume to record levels. In a Wednesday post on X, The Kobeissi Letter stated that...
+
+Yahoo Finance • 12h ago
+
+---
+
+**[After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)**
+
+Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.
+
+TechCrunch • 17h ago
+
+---
+
 **[The Biggest Tell That Something Was Written by AI](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)**
 
 Look closely and you’ll see that every part of the text is not quite right.
 
-The Atlantic • 22h ago
+The Atlantic • 23h ago
 
 ---
 
 **[‘This Is a War’: How Powerful A.I. Super PACs Are Dueling Over the Midterms](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html)**
 
-The New York Times • 17m ago
+The New York Times • 1h ago
 
 ---
 
-**[I helped design the system that brought down ISIS financing. I've got an AI governance idea the Pope and Anthropic would both like](https://fortune.com/2026/05/30/ai-governance-pope-leo-anthropic-fatf-framework-shlomit-wagman/)**
+**[The NTSB tries to keep cockpit audio recordings private. AI is making that harder](https://www.npr.org/2026/05/30/nx-s1-5835242/ntsb-cockpit-audio-cvr-reconstruction)**
 
-A Harvard fellow and former financial intelligence chief argues the right model for AI governance isn't nuclear arms control — it's the global framework that brought down ISIS financing.
+The National Transportation Safety Board temporarily pulled its docket system offline after digital images were used to reconstruct cockpit voice recordings of the pilots in a recent crash.
 
-Fortune • 13m ago
+NPR • 57m ago
 
 ---
 
-**[An AI CEO explains how much he spent on Codex last month — and why he's still 'very nice' when prompting the tech](https://www.businessinsider.com/ai-ceo-codex-dan-shipper-every-2026-5)**
+**['Europe is kind of waking up': I went to Mistral's summit in Paris and heard a clear message about AI](https://www.businessinsider.com/mistral-ai-summit-europe-ai-future-waking-up-2026-5)**
 
-Dan Shipper said Codex drafts many of his emails.  He said AI overages cost $13,000 last month — but Every treats AI as a normal workplace expense.
+I attended Mistral's first AI summit in Paris. Here's what executives and attendees said about Europe's AI moment.
 
-Business Insider • 47m ago
+Business Insider • 26m ago
 
 ---
 
@@ -159,21 +175,7 @@ Business Insider • 47m ago
 
 BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.
 
-BBC • 7h ago
-
----
-
-**[AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself](https://www.cnn.com/2026/05/29/tech/ai-voice-cloning-scams-protect-yourself)**
-
-A California mom says she was scammed out of thousands of dollars this month after receiving a call that sounded like her daughter in distress. She now suspects it was an artificial intelligence-generated hoax.
-
-CNN • 1d ago
-
----
-
-**["The pitchforks are here": Billionaires work to contain AI's populist revolt](https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth)**
-
-Axios • 16h ago
+BBC • 9h ago
 
 ---
 
@@ -181,15 +183,13 @@ Axios • 16h ago
 
 Staying ahead of China requires pioneering technology — and stopping Chinese AI from conquering the world.
 
-The Washington Post • 14h ago
+The Washington Post • 16h ago
 
 ---
 
-**[9 demos of Gemini Omni and Gemini 3.5 in action](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/)**
+**["The pitchforks are here": Billionaires work to contain AI's populist revolt](https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth)**
 
-Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.
-
-blog.google • 15h ago
+Axios • 14h ago
 
 ---
 
@@ -197,19 +197,11 @@ blog.google • 15h ago
 
 ## HackerNews: "ai"
 
-**[I'm Tired of Talking to AI](https://news.ycombinator.com/item?id=48292224)**
-
-I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was
-
-⬆️ 1989 • 💬 947 • 2d ago • [Orchid Files](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
-
----
-
 **[YouTube to automatically label AI-generated videos](https://news.ycombinator.com/item?id=48299753)**
 
 We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.
 
-⬆️ 1307 • 💬 817 • 2d ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+⬆️ 1308 • 💬 817 • 2d ago • [blog.youtube](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 
 ---
 
@@ -223,7 +215,7 @@ We've heard consistently from our community that they value transparency when it
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 743 • 💬 379 • 19h ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
+⬆️ 746 • 💬 379 • 21h ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -235,6 +227,14 @@ We've heard consistently from our community that they value transparency when it
 
 ---
 
+**[Notes from the Mistral AI Now Summit](https://news.ycombinator.com/item?id=48325340)**
+
+A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
+
+⬆️ 384 • 💬 162 • 18h ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+
+---
+
 **[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://news.ycombinator.com/item?id=48308376)**
 
 A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?
@@ -243,19 +243,11 @@ A 30-second game about LLM permission fatigue. How carefully do you really read 
 
 ---
 
-**[Notes from the Mistral AI Now Summit](https://news.ycombinator.com/item?id=48325340)**
-
-A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
-
-⬆️ 369 • 💬 148 • 16h ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
-
----
-
 **[Is AI causing a repeat of frontend’s lost decade?](https://news.ycombinator.com/item?id=48321631)**
 
 AI is doing to programming what framework-brain did to the frontend before. Deskilling, or just working at a higher level of abstraction?
 
-⬆️ 345 • 💬 292 • 22h ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+⬆️ 358 • 💬 298 • 23h ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
 
 ---
 
@@ -272,6 +264,14 @@ The guests behind the bookings have received negative reviews from a number of B
 Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have been saying all along that there won’t be a white-collar wipeout.
 
 ⬆️ 232 • 💬 178 • 1d ago • [Fortune](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
+
+---
+
+**[Training our own AI models](https://news.ycombinator.com/item?id=48296359)**
+
+I really think we're on the verge of some of our best work through the next six months. Over the past year, we've started building more AI-powered…
+
+⬆️ 215 • 💬 143 • 2d ago • [posthog.com](https://posthog.com/blog/training-ai-models)
 
 ---
 
@@ -305,7 +305,7 @@ Pollsmax* 》https://www.pollsmax.com/ ...
 
 📺 Election Time
 
-👁️ 68K • 👍 3K • 💬 400 • ⏱️ 18:32 • 15h ago
+👁️ 68K • 👍 3K • 💬 400 • ⏱️ 18:32 • 16h ago
 
 ---
 
@@ -335,7 +335,7 @@ In 1947, a shepherd's thrown rock revealed the Dead Sea Scrolls — the oldest b
 
 📺 Flash Discovery
 
-👁️ 22K • 👍 185 • 💬 11 • ⏱️ 25:08 • 15h ago
+👁️ 22K • 👍 185 • 💬 11 • ⏱️ 25:08 • 17h ago
 
 ---
 
@@ -449,7 +449,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 17,084 • ❤️ 237 • 17h ago
+⬇️ 17,084 • ❤️ 237 • 19h ago
 
 ---
 
@@ -473,7 +473,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 15,780 • ❤️ 447 • 22m ago
+⬇️ 15,780 • ❤️ 447 • 2h ago
 
 ---
 
@@ -694,7 +694,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 141 • 16h ago
+⭐ 2.1k • 🔱 141 • 18h ago
 
 ---
 
@@ -704,7 +704,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 186 • 23h ago
+⭐ 2.1k • 🔱 186 • 1d ago
 
 ---
 
@@ -734,7 +734,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 208 • 5h ago
+⭐ 1.8k • 🔱 208 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-30T09:18:19.650281+00:00'
+updated: '2026-05-30T10:57:23.701639+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 09:18 UTC  
+**Last Updated:** May 30, 2026 at 10:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,008.35
+### $2,018.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -4.0%  
-**30d:** -12.2%  
-**90d:** -0.6%  
-**1y:** -20.3%  
+**24h:** +0.7%  
+**7d:** -3.8%  
+**30d:** -12.0%  
+**90d:** -0.4%  
+**1y:** -20.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with multiproofs, FTSE Russell US indexes: Bitmine & Sharplink to join
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 20h ago
 
 ---
 
@@ -112,7 +112,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 YO PAGO POR DELANTE EN USDT TENGO BLOQUEADO BINANCE PERO PUEDO PAGAR POR TRUST WALLET EN USDT , al precio o solo un poco por arriba de el precio , si alguien es serio mándeme dm
 
-13h ago
+14h ago
 
 ---
 
@@ -154,7 +154,7 @@ In this thread posted by the Everstake team they raise the point that "Past a ce
 
 Ethereum's price fell below $2,000 for the first time since March 29. Santiment warned that retail “buy the dip” optimism may be a bearish contrarian ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -166,19 +166,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum Foundation Returns to Spotlight Amid Governance and Culture Tensions](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-returns-spotlight-amid-094800082.html)**
+
+The Ethereum Foundation is facing its most concentrated wave of internal criticism in years, eight high-profile departures since January 2026, a contested public mandate, and an open debate over whether the Switzerland-based nonprofit still serves a coherent purpose inside the ecosystem it helped build. The conflict is no longer a ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Base launches Azul on mainnet, pushing Coinbase's Ethereum L2 toward full decentralization](https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization)**
 
 Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.
 
-The Block • 23h ago
-
----
-
-**[Should Hyperliquid Be Worth More Than XRP or Ethereum?](https://www.fool.com/investing/2026/05/29/should-hyperliquid-be-worth-more-than-xrp-or-ether/)**
-
-There's one area in particular where both XRP and Ethereum are struggling to justify their value.
-
-The Motley Fool • 21h ago
+The Block • 1d ago
 
 ---
 
@@ -190,11 +190,19 @@ TradingView • 1d ago
 
 ---
 
+**[Should Hyperliquid Be Worth More Than XRP or Ethereum?](https://www.fool.com/investing/2026/05/29/should-hyperliquid-be-worth-more-than-xrp-or-ether/)**
+
+There's one area in particular where both XRP and Ethereum are struggling to justify their value.
+
+The Motley Fool • 22h ago
+
+---
+
 **[Vitalik Buterin warns Ethereum ecosystem against OpenAI’s path in EthCC speech](https://cryptobriefing.com/vitalik-buterin-ethereum-openai-ethcc-warning/)**
 
 Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -214,19 +222,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Dive, Dogecoin Flat As 'Extreme Fear' Returns To Crypto: Analyst Says BTC Will See](https://www.benzinga.com/crypto/cryptocurrency/26/05/52798191/bitcoin-ethereum-xrp-dive-dogecoin-flat-extreme-fear-btc-80000)**
+**[Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance](https://decrypt.co/369305/standard-chartered-reaffirms-40k-ethereum-price-target-defi-dominance)**
 
-Leading cryptocurrencies dived, while stocks closed at record highs on Tuesday as Middle East tensions remained elevated.
+Standard Chartered analysts argued in a note that Ethereum’s current price doesn’t reflect its network's improving metrics.
 
-Benzinga • 3d ago
-
----
-
-**[Ethereum’s Price Breaks Down Below $2,000](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-breaks-down-below-133100386.html)**
-
-The price of Ethereum (CRYPTO: $ETH) has broken down and fallen below $2,000 U.S. as cryptocurrencies continue to d...
-
-Yahoo Finance • 19h ago
+Decrypt • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 122 • 💬 26 • ⏱️ 20:38 • 16h ago
+👁️ 3K • 👍 122 • 💬 26 • ⏱️ 20:38 • 17h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN: This Could Change EVERYTHING (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 270 • 💬 100 • ⏱️ 18:36 • 6h ago
+👁️ 5K • 👍 270 • 💬 100 • ⏱️ 18:36 • 8h ago
 
 ---
 
@@ -270,7 +270,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 259 • 💬 14 • ⏱️ 47:42 • 12h ago
+👁️ 2K • 👍 259 • 💬 14 • ⏱️ 47:42 • 13h ago
 
 ---
 
@@ -280,7 +280,7 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 1K • 👍 143 • 💬 31 • ⏱️ 7:41 • 16h ago
+👁️ 1K • 👍 143 • 💬 31 • ⏱️ 7:41 • 18h ago
 
 ---
 
@@ -330,7 +330,7 @@ Eunice Giarta, Co-Founder and General Manager at the Monad Foundation, joined me
 
 📺 Thinking Crypto
 
-👁️ 836 • 👍 72 • 💬 5 • ⏱️ 36:08 • 20h ago
+👁️ 836 • 👍 72 • 💬 5 • ⏱️ 36:08 • 22h ago
 
 ---
 

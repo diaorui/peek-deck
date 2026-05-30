@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T09:18:19.653113+00:00'
+updated: '2026-05-30T10:57:23.704485+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 09:18 UTC  
+**Last Updated:** May 30, 2026 at 10:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -42,19 +42,35 @@ Robotics research and industry news
 
 from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
 
-23h ago
+1d ago
+
+---
+
+**[Lingxi X2 dodges thrown balls and goes up and down stairs (AGIBOT’s newly launched AGILE perception-motion foundation model)](https://www.reddit.com/r/robotics/comments/1trw4am/lingxi_x2_dodges_thrown_balls_and_goes_up_and/)**
+
+From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
+
+36m ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-2h ago
+3h ago
+
+---
+
+**[Closeup of GT2 belt drive transferring 60kg torque in my 6DOF arm — built from scratch in India](https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/)**
+
+Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
+
+1h ago
 
 ---
 
 **[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -62,7 +78,7 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
 
-19h ago
+21h ago
 
 ---
 
@@ -70,13 +86,13 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-13h ago
+14h ago
 
 ---
 
 **[[Release] LinkForge v1.4.0: Programmable IR Core, Rigorous Physical Linting, and Headless Composition](https://www.reddit.com/r/robotics/comments/1trsnqw/release_linkforge_v140_programmable_ir_core/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -85,20 +101,6 @@ Just wanted to share my progress on building a loop for collect data->train->dep
 This is my robot pin dispenser at FRC 2026 Lake City. I designed it with help from 20SSFactory’s initial robot design. #Team9541
 
 1d ago
-
----
-
-**[This robot eats your Money](https://www.reddit.com/r/robotics/comments/1tqqy34/this_robot_eats_your_money/)**
-
-1d ago
-
----
-
-**[Robot Startup Accused of Running Secret Airbnb Field Tests That Allegedly Damaged Rental Properties](https://www.reddit.com/r/robotics/comments/1tqskqj/robot_startup_accused_of_running_secret_airbnb/)**
-
-A San Francisco suit alleges Bot Company staff secretly tested prototype household robots in Airbnb rentals and caused damage, per the San Francisco Standard.
-
-🔗 [RuntimeWire](https://runtimewire.com/article/bot-company-airbnb-robot-testing-lawsuit) • 1d ago
 
 ---
 
@@ -114,6 +116,14 @@ BBC • 1d ago
 
 ---
 
+**[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
+
+With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
+
+CNBC • 1h ago
+
+---
+
 **[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://apnews.com/article/humanoids-japan-technology-robotics-machines-honda-50e66b5d7eeea63d0a1a60357e679228)**
 
 The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
@@ -122,19 +132,19 @@ AP News • 1d ago
 
 ---
 
-**[China’s Humanoid Robots Dance, Wiggle, and Thread Needles in Tokyo](https://www.eweek.com/news/apac-chinese-humanoids-japan-robotics-race/)**
+**[Space-bound humanoid takes a four-armed approach to astronaut assistance](https://newatlas.com/ai-humanoids/orbit-helios-four-arms-space-robot-astronaut/)**
 
-Chinese humanoid robot makers drew attention in Tokyo as Japan emphasized precision, durability, and real-world robotics testbeds.
+In microgravity, walking doesn't exist. Balance doesn't exist. What does exist is the need to grip surfaces, manipulate tools, move through narrow corridors, and not go flying every time you push against something. Two legs solve none of those problems.
 
-eWeek • 15h ago
+New Atlas • 15h ago
 
 ---
 
-**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
+**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
 
-Will humanoids redefine how battles are fought and won?
+Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
 
-Popular Mechanics • 1d ago
+The Frederick News-Post • 1d ago
 
 ---
 
@@ -150,7 +160,7 @@ Rice University • 1d ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 18h ago
+ZME Science • 19h ago
 
 ---
 
@@ -168,19 +178,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
+**[Can a Robot Have too Many Legs? Can Atlas Learn Soccer's Rabona Kick?](https://spectrum.ieee.org/video-friday-rabona-soccer)**
 
-From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
+Your weekly selection of awesome robot videos
 
-Bessemer Venture Partners • 2d ago
-
----
-
-**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
-
-ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
-
-Yahoo Finance • 1d ago
+IEEE Spectrum • 17h ago
 
 ---
 
@@ -204,7 +206,7 @@ In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.gam
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 145 • 💬 25 • ⏱️ 15:23 • 23h ago
+👁️ 3K • 👍 145 • 💬 25 • ⏱️ 15:23 • 1d ago
 
 ---
 
@@ -224,7 +226,7 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 377 • 💬 91 • ⏱️ 13:36 • 21h ago
+👁️ 9K • 👍 377 • 💬 91 • ⏱️ 13:36 • 22h ago
 
 ---
 
@@ -234,7 +236,7 @@ Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 frien
 
 📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 8K • 👍 536 • 💬 67 • ⏱️ 10:49 • 22h ago
+👁️ 8K • 👍 536 • 💬 67 • ⏱️ 10:49 • 23h ago
 
 ---
 
@@ -284,7 +286,7 @@ Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hy
 
 📺 Techie Sapien
 
-👁️ 621K • 👍 4K • 💬 85 • ⏱️ 0:07 • 22h ago
+👁️ 621K • 👍 4K • 💬 85 • ⏱️ 0:07 • 1d ago
 
 ---
 
