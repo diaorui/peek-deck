@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-30T12:06:42.879630+00:00'
+updated: '2026-05-30T14:13:22.805398+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 12:06 UTC  
+**Last Updated:** May 30, 2026 at 14:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,616.58
+### $73,738.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -4.5%  
-**30d:** -5.9%  
-**90d:** +7.0%  
-**1y:** -29.6%  
+**24h:** +0.3%  
+**7d:** -4.0%  
+**30d:** -5.4%  
+**90d:** +7.6%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1472.61B
+**Market Cap:** $1478.61B
 Rank #1
 
-**Circulating Supply:** 20,036,550 BTC
+**Circulating Supply:** 20,036,568 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--41.7%
+-41.4%
 
 **All-Time Low:** $67.81
-+108288.1%
++108838.2%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Texas Names Bitcoin Reserve Advisory Committee As State Eyes Direct Bitcoin Custody](https://www.reddit.com/r/Bitcoin/comments/1tr4rzs/texas_names_bitcoin_reserve_advisory_committee_as/)**
+**[What if we separated money from the state, abolished income tax, and based the entire economy on physical reality? Meet the Real Society.](https://www.reddit.com/r/Bitcoin/comments/1tryi4n/what_if_we_separated_money_from_the_state/)**
 
-Texas has appointed a five-member advisory committee to oversee its Strategic Bitcoin Reserve as the state prepares to transition from ETF exposure to directly custodied bitcoin.
+We are currently facing a silent but acute crisis where our economic system has completely lost touch with reality. We live in a debt-driven society plagued by three fundamental, interconnected flaws: 1 Eroded purchasing power and skyrocketing wealth gaps. Over the past decades, fiat currencies have lost the vast majority of their value due to inflation. Central and private banks create new money out of thin air every time a loan is issued. This new money flows straight into the stock and housing markets, making the wealthy richer while locking young people and low-income earners out of the market. 2 The unsustainable trap of infinite growth. The current system requires the economy to grow at breakneck speed just to service ever-expanding mountains of debt. This forces a throwaway consumer culture that clashes frontally with the fact that we live on a planet with finite resources. 3 A broken and unfair tax system. Today's tax systems heavily penalize hard work through high income taxes, while making it incredibly easy for ultra-wealthy individuals and global corporations to hide their digital profits in tax havens. There is an alternative. By combining the monetary discipline of a hard currency with the social responsibility of a strong safety net, we can transition into what we call The Real Society (Swedish: Realsamhället). Those who advocate for this model call themselves Realists. Here is how it works. THE THREE PILLARS OF THE REAL SOCIETY PILLAR 1: HONEST MONEY (Ending the Debt Illusion) The society adopts a currency with an absolute, hard mathematical cap (such as a Bitcoin standard). Neither the state nor private banks can create new money out of thin air. The hidden tax of inflation is permanently eradicated. Saved money actually increases in purchasing power over time as society becomes more technologically efficient. Because people can no longer take out massive, artificially backed loans, asset bubbles pop. Housing and business valuations drop to natural, human levels that people can actually save up for. PILLAR 2: THE RESOURCE FEE (Taxing the Physical Footprint) Since money in this system is digital, decentralized, and anonymous, the state completely stops spying on your income and bank accounts. Instead, Income Tax is abolished (0%) and replaced by The Resource Fee (Resursavgiften), paid entirely in the physical world where no one can cheat or hide: The Space Footprint (Land): The earth belongs to everyone. If you want to cordone off a highly desirable piece of land for your villa, apartment, or factory, you pay an ongoing Resource Fee for that space. A massive mansion on the coast equals a huge fee. A modest apartment equals a minimal fee. The Material Footprint (Consumption): It should be cheap to live, but expensive to waste. Basic food, medicine, children's clothes, and public transit carry a 0% fee. But when you buy brand-new luxury goods, sports cars, or high-end electronics, a heavy Resource Fee is added directly at the register. The Energy Footprint (Resources): The more electricity and raw materials a household or a heavy industry consumes, the more they pay in Resource Fees per kilowatt-hour. PILLAR 3: A STRONG, HONEST WELFARE STATE All revenues from the Resource Fee are pooled into a single public fund. Because the wealthy inevitably occupy the most valuable land, consume the most energy, and buy the most luxury goods, they naturally finance the vast majority of the pool. This fund goes directly to financing free, high-quality healthcare, education, and a robust social safety net. Because the government cannot print money to cover up its fiscal mistakes, the welfare system becomes completely transparent and accountable. WHY A REALIST WANTS TO SHIFT THE SYSTEM Justice for the Worker: With 0% income tax, every single dollar or euro you earn lands in your pocket. It becomes vastly easier for ordinary people to build a rainy-day fund, save for the future, and achieve upward social mobility. Waterproof Against Tax Evasion: A billionaire can hide their Bitcoin seed phrase in their head, but they cannot live in an invisible castle, drive an invisible yacht, or power their industries with invisible electricity. If you want to live a life of physical luxury, you must pay the Resource Fee. Peace with the Planet: By removing the systemic requirement for infinite debt-fueled growth, civilization downshifts to a natural speed. It becomes economically rational to save, repair, and build things that last, aligning the human economy with planetary boundaries. THE REALIST TRANSITION: A CENTURY-LONG SHIFT To be completely clear: I am fully aware that a transition like this cannot happen overnight. Pulling the plug on the current fiat debt-system all at once would trigger a catastrophic global economic collapse. Returning civilization to its natural speed is a project that will take generations, if not centuries. But we can start moving in this direction immediately, and the best way to begin is through a gradual tax reform. Instead of jumping straight into a new currency standard, we can start by slowly shifting what we tax. Over the next decade, governments could begin lowering income taxes for workers while incrementally replacing them with the Resource Fee—raising taxes on land values, raw material consumption, and high-end physical luxury. This allows the framework of the Real Society to take root safely, proving its fairness and sustainability, while the monetary shift towards hard digital assets can happen organically over time as the old system rusts away. The Real Society is a model that is both deeply visionary and fundamentally grounded in reality. It shifts our focus away from chasing imaginary digital zeros in centralized bank ledgers, and forces us to look at what truly matters: our real world, our real resources, and our real community. What do you think? Is it time for a Realist movement?
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 20h ago
+1h ago
+
+---
+
+**[Major UX upgrades to Mk5](https://www.reddit.com/r/Bitcoin/comments/1trzelo/major_ux_upgrades_to_mk5/)**
+
+Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet
+
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ Texas has appointed a five-member advisory committee to oversee its Strategic Bi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+8h ago
 
 ---
 
@@ -97,7 +105,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I had bitcoin in a Lumi wallet. I had not logged on in a while, typed in Lumi to google and went to the first page up top ( web.lumiwallet.org ) I typed in my recovery phrase, then was wondering why my balance was loading for so long. I then downloaded Coin Wallet, entered my code again and saw ALL of my bitcoin was “sent”….did I get scammed? If so I have zero chance of recovering it right?
 
-10h ago
+12h ago
+
+---
+
+**[Texas Names Bitcoin Reserve Advisory Committee As State Eyes Direct Bitcoin Custody](https://www.reddit.com/r/Bitcoin/comments/1tr4rzs/texas_names_bitcoin_reserve_advisory_committee_as/)**
+
+Texas has appointed a five-member advisory committee to oversee its Strategic Bitcoin Reserve as the state prepares to transition from ETF exposure to directly custodied bitcoin.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 23h ago
 
 ---
 
@@ -105,7 +121,7 @@ I had bitcoin in a Lumi wallet. I had not logged on in a while, typed in Lumi to
 
 Brendan Sorsby’s most recent betting scandal that has rocked the college sports world is an indictment of fiat and our modern culture more than anyone thinks. To give a bit of background for the Bitcoin community: the transfer from Cincinnati, QB Brendan Sorsby, was due to make a massive 4 to 5 million dollars this upcoming season for Texas Tech. In April, Sorsby turned himself into a betting rehab facility to seek treatment for addiction. Sorsby bet 2900 times from 2022-2026. This included games from when he was playing at the University of Indiana. This is the Pete Rose of college sports, in other words: betting on his own team. Unfortunately for Mr. Sorsby, this story has placed him in the spotlight; however, far too many young Americans specifically young men have fallen into his shoes of addiction. According to an annual student gambling surveys, 75% of all students say they see or get pitched daily about sports betting and gambling. 56 to 68% of all male students bet multiple times a week, and unfortunately, up to 15% of all students are compulsive problem bettors. Far too many people have been forced, in this high inflation, high debasement world, to take unrealistic risks in a desperate attempt to get out of the fiat rat race. These companies advertise themselves as such: "Use our prediction market for financial freedom." It’s absolutely disgusting how these companies use people’s desperation against them to extract every single cent they have left. We can't place too much blame on these desperate young people; they truly feel hopeless, and anything that gives them a sales pitch for an immediate way out is always going to be favored. How does Bitcoin fix the betting environment we are living through today, and can it? I believe personally that Bitcoin is the ultimate savings technology. Forever, until Bitcoin, we haven’t been able to properly save as humans. This is why so many young people are forced into impossible betting situations. Bitcoin, with a programmable and well known issuance schedule, helps fix that. We can now tell young adults with 100% certainty what the issuance or inflation on Bitcoin will be in 4 years, 10 years, and 25 years. This helps encourage savings. Education is the most important tool to help people understand the importance of Bitcoin: the fixed supply, the censorship resistant nature, and the irreversible nature of a block. Explaining these pillars of Bitcoin these computer science tools will help others change their mindset and become long term time horizon thinkers. The most important way to get people to learn is by making it fun and engaging. In the context of betting, we need to gamify the savings experience and encourage people to save. We need to make stacking sats a competitive sport in the same way. I want people to transform into compulsive savers. Every time they get their paycheck, I want them to think: "How can I pay off all outstanding debt, and how can I stack more sats?" We have to find a way, as a Bitcoin community, to change the incentives in our society. This is how something like the Sorsby scandal can take place. He was betting late in the evening on sporting events such as Romanian soccer matches, Turkish basketball games, and obscure doubles tennis tournaments. At no point did any of his friends or teammates inquire about these obsessions. It’s almost expected and encouraged in this culture; it’s not a taboo thing. This is the true indictment of this story far more so than a player betting on his own game and possibly costing himself millions of NIL dollars. An entire generation of young men has enabled and encouraged extremely risky betting parlays. We see it online, and I’m certain I’ll have a comment on this exact post making fun of people for not trying to parlay their bets. They’ll call people "chicken"; they’ll call you "stupid." If you are one of those bettors who is going to comment saying, "Well, hey, I’ve made my money from sports betting for years on these apps, loser," I’m going to say you're a degenerate liar. It is beyond well documented that these companies have algorithms, computer infrastructure, and experts to examine every single winning bet. If you’re actually winning, the house cuts you off immediately. So, only losers are betting consistently; the house always, always wins, no matter how many bots tell you otherwise. I want to help transform the incentives in this country to encourage savings in the general public. I want to give young people hope that there is a certain future they can look forward to. I want those same young people to yearn for saving as much as possible. We need to change the culture so young people can encourage someone like Sorsby to find a better path for his future. I really don't want this to be a punching bag against Texas Tech or Sorsby; he’s just the most well documented and public figure who has been afflicted with the gambling bug. I really hope he has gotten the help he needs, and if you or anyone you know is addicted to gambling, please seek help. I want to start by apologizing. I have tried to make this a conversation on a podcast; however, I can’t seem to save the audio I create. If anyone knows which app or platform is best for creating an audio file and posting, please share. I wasted a lot of hours this month saving audio that got deleted. I really hate to do anything live, but if I must, I will moving forward, because doing audio edits was incredibly frustrating and didn’t return any results. Thank you for reading!
 
-12h ago
+14h ago
 
 ---
 
@@ -113,7 +129,15 @@ Brendan Sorsby’s most recent betting scandal that has rocked the college sport
 
 When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just another bear market. I mean finished. Regulation, contagion, trust destroyed. I sold most of my position somewhere around $16k telling myself I was being rational. Six months later I was buying back above $25k. The thing that bothers me most isn't the money. It's that I'd already lived through 2018. I knew what capitulation felt like. I'd read everything about not timing the market, about conviction, about long-term thinking. And when the moment came, none of it mattered. The fear was louder. What I've accepted since then is that understanding Bitcoin intellectually and actually holding through chaos are two completely different skills. One you develop reading. The other you only develop by getting it wrong a few times. I'm not sure conviction is something you build in advance. I think you find out if you have it when the moment is bad enough.Anyone else discover that knowing what to do and actually doing it are completely different things? Did the second cycle feel any easier?
 
-17h ago
+20h ago
+
+---
+
+**[James Jani's Misunderstanding of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ts0pn3/james_janis_misunderstanding_of_bitcoin/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/0zun78PIluY) • 15m ago
 
 ---
 
@@ -121,7 +145,7 @@ When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just anot
 
 Yesterday's institutional outflow data showed BlackRock's IBIT shedding roughly 2,424 BTC (around $178M). Most mainstream headlines are immediately reading this as a bearish signal, but digging into the raw numbers tells a completely different story. ​Context matters, and BlackRock’s total Bitcoin exposure is still absolutely massive: ​IBIT still holds roughly 792,000 BTC (valued at over $57B). ​The amount sold yesterday represents a mere 0.3% of their total Bitcoin holdings. ​This doesn’t look like a conviction exit or institutional capitulation at all. It looks closer to routine, microscopic portfolio rebalancing or short-term de-risking during broader macro volatility. ​Furthermore, when you look at how BlackRock manages its digital asset products, they maintain a clear divide. While liquidity is occasionally shuffled in alternative crypto products and risk-on tech assets, their core Bitcoin thesis remains incredibly sticky. The institutional giant hasn't even scratched the surface of its primary BTC reserves. ​It feels like the broader market saw a "millions sold" headline and completely ignored the scale of the actual positions. A 0.3% fluctuation is noise, not a trend shift. ​Do you see this as meaningful institutional de-risking, or is it mostly routine portfolio management that the retail market is completely overreacting to
 
-20h ago
+22h ago
 
 ---
 
@@ -129,31 +153,7 @@ Yesterday's institutional outflow data showed BlackRock's IBIT shedding roughly 
 
 https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
 
-16h ago
-
----
-
-**[Bitcars.](https://www.reddit.com/r/Bitcoin/comments/1tr3oog/bitcars/)**
-
-Not sure which one I’d rather own. They both come with advantages and disadvantages.
-
-21h ago
-
----
-
-**[Self-Custody: Convenience vs Security](https://www.reddit.com/r/Bitcoin/comments/1tr01ms/selfcustody_convenience_vs_security/)**
-
-A lot of people assume self-custody means making everything way more complicated. But honestly, once you use COLDCARD, you realize a secure setup can still be pretty straightforward. It meets Bitcoiners wherever they’re at, whether you just want to safely hodl long term or you’re into using multisig, and advanced setups. Feels like the “secure vs easy” tradeoff isn’t necessary.
-
-23h ago
-
----
-
-**[Collision Protocol: 1000 BTC Challenge Pool (#135, 13.5 BTC)](https://www.reddit.com/r/Bitcoin/comments/1tr2yh1/collision_protocol_1000_btc_challenge_pool_135/)**
-
-Quick background if you have not run into it: the 1000 BTC Challenge is an on-chain puzzle from 2015. Someone funded 160 addresses whose private keys sit in deliberately increasing ranges (key N is between 2N-1 and 2N), and in 2023 the prizes were bumped 10x. The low ones have been picked off over the years; the unsolved ones still hold real coins. #135 is the current target and holds 13.5 BTC. Tracker: https://privatekeys.pw/puzzles/bitcoin-puzzle-tx Collision Protocol is a distributed Pollard's Kangaroo pool that points a fleet of GPUs at one unsolved key at a time. It's on #135 right now and stays on it until it's solved. When that happens the pool doesn't stop: it automatically rolls the whole fleet to the next key most likely to fall (the lowest unsolved range whose public key is exposed, which is what Kangaroo needs). Nothing for you to reconfigure, your worker just follows the pool. Each worker only runs one side of the walk, tame or wild, and sends its distinguished points (DPs) to the server. That split is the anti-cheat: no single machine ever has both halves, so nobody can quietly hit the collision, recover the key, and sweep the coins before the pool does. The upside for you is the payout. Since the solve can only land at the pool, every DP you commit counts toward your share. If the pool cracks the key, the prize is split by contribution: a 5% pool fee, and everything left over distributed in proportion to the verified DPs each worker submitted. Rough scale: RCKangaroo's own estimate for a 2134 range is 1.15 * 267 operations, which at dp_bits 28 is about 6 * 1011 DPs to expect a solve. That is an expectation: a real solve can land anywhere from about half to double that, and DP/GPU overhead pushes the true count up somewhat. Expected time against the pool's aggregate rate: pool DP/s expected solve time, #135 100 ~200 years 1,000 ~20 years 10,000 ~2 years 100,000 ~2.5 months 1,000,000 ~7 days We are at single digits per second today on a couple of test rigs, and the bottom rows of that table are a serious amount of hardware, so this is mostly a question of how many GPUs show up. Rate scales linearly with workers. Open to testers who get that it's early and rough in places, and who will open a GitHub issue when something breaks instead of just walking away. Mainly after Linux and Apple Silicon right now. Client (collider) is open, GPLv3, built on JeanLucPons' RCKangaroo: https://github.com/hevnsnt/collider Issues: https://github.com/hevnsnt/collider/issues Live coverage/stats: https://collisionprotocol.com/pool collider --pool pool.collisionprotocol.com:17403 --worker <btc-payout-address> Worker name is the payout address (So get it right!). The pool tells the client which target, range, and DP size to work, so the same client follows whatever key is active. CUDA on Win/Linux, Metal on Apple Silicon, CPU fallback. What's useful to report: whether it builds and runs on your platform, the rates you get, and anything that breaks or drops the connection. Source is there if you want to pull it apart. collider-pro is a separate paid build for solo and brainwallet work. Not needed for the pool.
-
-22h ago
+19h ago
 
 ---
 
@@ -165,37 +165,23 @@ Quick background if you have not run into it: the 1000 BTC Challenge is an on-ch
 
 Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Robinhood stock is surging — and bitcoin isn't the reason this time](https://finance.yahoo.com/markets/article/robinhood-stock-is-surging--and-bitcoin-isnt-the-reason-this-time-152104398.html)**
+**[GOP lawmakers' portfolios are migrating to Trump favorites like Intel and bitcoin](https://finance.yahoo.com/economy/policy/article/gop-lawmakers-portfolios-are-migrating-to-trump-favorites-like-intel-and-bitcoin-100000503.html)**
 
-Robinhood's AI-agent rollout is giving investors a new reason to buy the stock — and crypto is not part of it.
+Republican lawmakers' brokerage accounts have undergone a significant shift as GOP members of Congress load up on investments into areas touted by President Trump.
 
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Post Record Nine-Day Outflow Streak Totaling $2.84 Billion — The Longest Since Launch](https://www.binance.com/en/square/post/328664986035969)**
-
-Binance • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $120,000 Before the End of the Year](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-hit-120-000-091300228.html)**
+**[Investor Mark Cuban Thinks That Bitcoin "Has Lost The Plot." Should You Sell It?](https://finance.yahoo.com/markets/crypto/articles/investor-mark-cuban-thinks-bitcoin-132000609.html)**
 
-Two new catalysts could send Bitcoin soaring in the second half of 2026.
+The coin is becoming less volatile as it matures, and that's causing some people to question its value.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin slips as ETF demand cools, analyst warns downturn may extend](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-etf-demand-cools-092952294.html)**
-
-Investing.com -- Bitcoin was trading sideways today after trading lower this week despite a strong rally in U.S. stocks and easing concerns over the conflict between the United States and Iran.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -207,11 +193,33 @@ New Scientist • 1d ago
 
 ---
 
-**[Orange, Glow-in-the-Dark, And Gold Flaked — Coinkite’s MK5 Is Bitcoin Hardware Done Right](https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet)**
+**[US Bitcoin ETFs Bleed $2.8 Billion in Longest Outflow Streak](https://www.bloomberg.com/news/articles/2026-05-29/us-bitcoin-btc-etfs-bleed-2-8-billion-in-longest-outflow-streak)**
 
-Beautiful transparent designs meet serious security: Discover how Coinkite’s MK5 makes signing Bitcoin transactions faster and more satisfying than ever.
+Investors pulled money from US spot-Bitcoin exchange-traded funds for a ninth straight session, the longest run of withdrawals since the products debuted, underscoring a cooling in demand for the largest cryptocurrency even as broader risk assets rally.
 
-Bitcoin Magazine • 14h ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin subdued near $73k as ETF demand cools; analyst warns downturn may extend](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-etf-demand-cools-analyst-warns-downturn-may-extend-4717596)**
+
+Investing.com • 1h ago
+
+---
+
+**[Bitcoin price news: BTC again lower as traditional markets gain on report of imminent peace agreement](https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news)**
+
+U.S. stocks and bonds, and the oil market are reacting positively to yet another purported peace agreement, but crypto markets remain under heavy pressure.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin prices today, Thursday, May 28, 2026: Down this morning and falling further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-prices-today-thursday-may-28-2026-down-this-morning-and-falling-further-113406336.html)**
+
+Bitcoin (BTC-USD) opened at $74,332.94 on Thursday, May 28, 2026, down 2% from Wednesday's opening price. The value of bitcoin moved down to $73,285.68 by 7:18 a.m. ET.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -223,15 +231,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[The Bitcoin Lost-and-Found](https://www.bloomberg.com/opinion/newsletters/2026-05-28/the-bitcoin-lost-and-found)**
-
-Bloomberg • 1d ago
-
----
-
 **[Bitcoin ATM operator files for bankruptcy as Florida tightens rules to avoid fraud](https://www.wfla.com/8-on-your-side/better-call-behnken/bitcoin-atm-operator-files-for-bankruptcy-as-florida-tightens-rules-to-avoid-fraud/)**
 
-WFLA • 10h ago
+WFLA • 12h ago
 
 ---
 
@@ -287,7 +289,7 @@ Live Bitcoin trades turned into music and motion in real time. Sound on.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 2 • 💬 0 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=bs2cEzpvaow)
+⬆️ 2 • 💬 0 • 3d ago • [youtube.com](https://www.youtube.com/watch?v=bs2cEzpvaow)
 
 ---
 
@@ -317,23 +319,13 @@ The easiest way to send and receive cash.
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is Getting CRUSHED By Everything — Here&#39;s Why!](https://www.youtube.com/watch?v=bgjbSsGRk0E)**
-
-Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asset on the board in 2026, but that may be the clearest ...
-
-📺 Simply Bitcoin
-
-👁️ 41K • 👍 2K • 💬 372 • ⏱️ 15:50 • 1d ago
-
----
-
 **[BlackRock is Responsible For THIS Bitcoin CRASH - But NOT in The Ways You Think...](https://www.youtube.com/watch?v=Li7eDvxtUdE)**
 
 Bitcoin is getting smoked while stocks rip to all time highs, and investors are starting to panic. But history shows these moments ...
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 140 • ⏱️ 13:56 • 14h ago
+👁️ 18K • 👍 1K • 💬 141 • ⏱️ 13:56 • 16h ago
 
 ---
 
@@ -343,17 +335,17 @@ Join me LIVE for a free 90 minute masterclass where I'll help you build your own
 
 📺 Mark Moss
 
-👁️ 55K • 👍 2K • 💬 347 • ⏱️ 30:33 • 17h ago
+👁️ 59K • 👍 3K • 💬 378 • ⏱️ 30:33 • 19h ago
 
 ---
 
-**[Bitcoin: Asymmetric Tail Curvature in Bitcoin Price Quantiles](https://www.youtube.com/watch?v=uFn3KUE-VTI)**
+**[Bitcoin is Getting CRUSHED By Everything — Here&#39;s Why!](https://www.youtube.com/watch?v=bgjbSsGRk0E)**
 
-In this video we talk about a new Bitcoin price model: "Asymmetric Bitcoin Price Quantiles" Read the paper: ...
+Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asset on the board in 2026, but that may be the clearest ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 237 • ⏱️ 33:21 • 8h ago
+👁️ 42K • 👍 3K • 💬 372 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -363,17 +355,7 @@ Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.we
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 139 • ⏱️ 8:35 • 12h ago
-
----
-
-**[The Government is About to Print $1 Trillion to Buy Bitcoin](https://www.youtube.com/watch?v=74dO0cTMUZc)**
-
-Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The ...
-
-📺 Heresy Financial
-
-👁️ 90K • 👍 4K • 💬 856 • ⏱️ 17:21 • 1d ago
+👁️ 29K • 👍 2K • 💬 136 • ⏱️ 8:35 • 15h ago
 
 ---
 
@@ -383,23 +365,27 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 842 • 💬 119 • ⏱️ 55:21 • 21h ago
+👁️ 16K • 👍 849 • 💬 121 • ⏱️ 55:21 • 23h ago
 
 ---
 
-**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=slE4Za-pEcs)**
+**[Bitcoin: Asymmetric Tail Curvature in Bitcoin Price Quantiles](https://www.youtube.com/watch?v=uFn3KUE-VTI)**
 
-📺 Khuncoin
+In this video we talk about a new Bitcoin price model: "Asymmetric Bitcoin Price Quantiles" Read the paper: ...
 
-👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:16 • 1h ago
+📺 Benjamin Cowen
+
+👁️ 36K • 👍 3K • 💬 270 • ⏱️ 33:21 • 11h ago
 
 ---
 
-**[SHOCKING BULLISH DAY FOR CRYPTO BUT BITCOIN AND XRP DUMPING! #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=8oeW-U-YqIA)**
+**[The Government is About to Print $1 Trillion to Buy Bitcoin](https://www.youtube.com/watch?v=74dO0cTMUZc)**
 
-📺 CryptoWendyO
+Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The ...
 
-👁️ 4K • 👍 300 • 💬 10 • ⏱️ 2:21 • 11h ago
+📺 Heresy Financial
+
+👁️ 91K • 👍 4K • 💬 861 • ⏱️ 17:21 • 1d ago
 
 ---
 
@@ -409,7 +395,27 @@ Bitcoin has entered what many traders call the "Window of Weakness"—a period w
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 189 • ⏱️ 23:28 • 1d ago
+👁️ 62K • 👍 4K • 💬 181 • ⏱️ 23:28 • 1d ago
+
+---
+
+**[Bitcoin Won&#39;t 100x Anymore – Anthony Pompliano](https://www.youtube.com/watch?v=7-6GWQXmfSc)**
+
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 95 • 💬 2 • ⏱️ 0:54 • 1d ago
+
+---
+
+**[The Crypto Lag: STOP Ignoring This ALTCOIN SIGNAL!](https://www.youtube.com/watch?v=IcXBN5rfTkA)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 567 • 💬 213 • ⏱️ 16:58 • 22h ago
 
 ---
 
