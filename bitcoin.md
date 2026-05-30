@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-30T06:36:28.222865+00:00'
+updated: '2026-05-30T09:18:19.644869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 30, 2026 at 06:36 UTC  
+**Last Updated:** May 30, 2026 at 09:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,607.38
+### $73,552.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -4.4%  
-**30d:** -5.8%  
-**90d:** +7.1%  
-**1y:** -29.6%  
+**24h:** -0.1%  
+**7d:** -4.6%  
+**30d:** -6.0%  
+**90d:** +6.9%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1473.47B
+**Market Cap:** $1471.40B
 Rank #1
 
-**Circulating Supply:** 20,036,440 BTC
+**Circulating Supply:** 20,036,487 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--41.6%
+-41.7%
 
 **All-Time Low:** $67.81
-+108391.4%
++108226.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Texas has appointed a five-member advisory committee to oversee its Strategic Bitcoin Reserve as the state prepares to transition from ETF exposure to directly custodied bitcoin.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 15h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Texas has appointed a five-member advisory committee to oversee its Strategic Bi
 
 Brendan Sorsby’s most recent betting scandal that has rocked the college sports world is an indictment of fiat and our modern culture more than anyone thinks. To give a bit of background for the Bitcoin community: the transfer from Cincinnati, QB Brendan Sorsby, was due to make a massive 4 to 5 million dollars this upcoming season for Texas Tech. In April, Sorsby turned himself into a betting rehab facility to seek treatment for addiction. Sorsby bet 2900 times from 2022-2026. This included games from when he was playing at the University of Indiana. This is the Pete Rose of college sports, in other words: betting on his own team. Unfortunately for Mr. Sorsby, this story has placed him in the spotlight; however, far too many young Americans specifically young men have fallen into his shoes of addiction. According to an annual student gambling surveys, 75% of all students say they see or get pitched daily about sports betting and gambling. 56 to 68% of all male students bet multiple times a week, and unfortunately, up to 15% of all students are compulsive problem bettors. Far too many people have been forced, in this high inflation, high debasement world, to take unrealistic risks in a desperate attempt to get out of the fiat rat race. These companies advertise themselves as such: "Use our prediction market for financial freedom." It’s absolutely disgusting how these companies use people’s desperation against them to extract every single cent they have left. We can't place too much blame on these desperate young people; they truly feel hopeless, and anything that gives them a sales pitch for an immediate way out is always going to be favored. How does Bitcoin fix the betting environment we are living through today, and can it? I believe personally that Bitcoin is the ultimate savings technology. Forever, until Bitcoin, we haven’t been able to properly save as humans. This is why so many young people are forced into impossible betting situations. Bitcoin, with a programmable and well known issuance schedule, helps fix that. We can now tell young adults with 100% certainty what the issuance or inflation on Bitcoin will be in 4 years, 10 years, and 25 years. This helps encourage savings. Education is the most important tool to help people understand the importance of Bitcoin: the fixed supply, the censorship resistant nature, and the irreversible nature of a block. Explaining these pillars of Bitcoin these computer science tools will help others change their mindset and become long term time horizon thinkers. The most important way to get people to learn is by making it fun and engaging. In the context of betting, we need to gamify the savings experience and encourage people to save. We need to make stacking sats a competitive sport in the same way. I want people to transform into compulsive savers. Every time they get their paycheck, I want them to think: "How can I pay off all outstanding debt, and how can I stack more sats?" We have to find a way, as a Bitcoin community, to change the incentives in our society. This is how something like the Sorsby scandal can take place. He was betting late in the evening on sporting events such as Romanian soccer matches, Turkish basketball games, and obscure doubles tennis tournaments. At no point did any of his friends or teammates inquire about these obsessions. It’s almost expected and encouraged in this culture; it’s not a taboo thing. This is the true indictment of this story far more so than a player betting on his own game and possibly costing himself millions of NIL dollars. An entire generation of young men has enabled and encouraged extremely risky betting parlays. We see it online, and I’m certain I’ll have a comment on this exact post making fun of people for not trying to parlay their bets. They’ll call people "chicken"; they’ll call you "stupid." If you are one of those bettors who is going to comment saying, "Well, hey, I’ve made my money from sports betting for years on these apps, loser," I’m going to say you're a degenerate liar. It is beyond well documented that these companies have algorithms, computer infrastructure, and experts to examine every single winning bet. If you’re actually winning, the house cuts you off immediately. So, only losers are betting consistently; the house always, always wins, no matter how many bots tell you otherwise. I want to help transform the incentives in this country to encourage savings in the general public. I want to give young people hope that there is a certain future they can look forward to. I want those same young people to yearn for saving as much as possible. We need to change the culture so young people can encourage someone like Sorsby to find a better path for his future. I really don't want this to be a punching bag against Texas Tech or Sorsby; he’s just the most well documented and public figure who has been afflicted with the gambling bug. I really hope he has gotten the help he needs, and if you or anyone you know is addicted to gambling, please seek help. I want to start by apologizing. I have tried to make this a conversation on a podcast; however, I can’t seem to save the audio I create. If anyone knows which app or platform is best for creating an audio file and posting, please share. I wasted a lot of hours this month saving audio that got deleted. I really hate to do anything live, but if I must, I will moving forward, because doing audio edits was incredibly frustrating and didn’t return any results. Thank you for reading!
 
-7h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Brendan Sorsby’s most recent betting scandal that has rocked the college sport
 
 When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just another bear market. I mean finished. Regulation, contagion, trust destroyed. I sold most of my position somewhere around $16k telling myself I was being rational. Six months later I was buying back above $25k. The thing that bothers me most isn't the money. It's that I'd already lived through 2018. I knew what capitulation felt like. I'd read everything about not timing the market, about conviction, about long-term thinking. And when the moment came, none of it mattered. The fear was louder. What I've accepted since then is that understanding Bitcoin intellectually and actually holding through chaos are two completely different skills. One you develop reading. The other you only develop by getting it wrong a few times. I'm not sure conviction is something you build in advance. I think you find out if you have it when the moment is bad enough.Anyone else discover that knowing what to do and actually doing it are completely different things? Did the second cycle feel any easier?
 
-12h ago
+15h ago
 
 ---
 
@@ -105,15 +105,15 @@ When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just anot
 
 I had bitcoin in a Lumi wallet. I had not logged on in a while, typed in Lumi to google and went to the first page up top ( web.lumiwallet.org ) I typed in my recovery phrase, then was wondering why my balance was loading for so long. I then downloaded Coin Wallet, entered my code again and saw ALL of my bitcoin was “sent”….did I get scammed? If so I have zero chance of recovering it right?
 
-5h ago
+7h ago
 
 ---
 
-**[Bitcoin is the Honey Badger](https://www.reddit.com/r/Bitcoin/comments/1trcdzo/bitcoin_is_the_honey_badger/)**
+**[Daily Discussion, May 30, 2026](https://www.reddit.com/r/Bitcoin/comments/1trrms5/daily_discussion_may_30_2026/)**
 
-https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+3h ago
 
 ---
 
@@ -121,29 +121,21 @@ https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
 
 Yesterday's institutional outflow data showed BlackRock's IBIT shedding roughly 2,424 BTC (around $178M). Most mainstream headlines are immediately reading this as a bearish signal, but digging into the raw numbers tells a completely different story. ​Context matters, and BlackRock’s total Bitcoin exposure is still absolutely massive: ​IBIT still holds roughly 792,000 BTC (valued at over $57B). ​The amount sold yesterday represents a mere 0.3% of their total Bitcoin holdings. ​This doesn’t look like a conviction exit or institutional capitulation at all. It looks closer to routine, microscopic portfolio rebalancing or short-term de-risking during broader macro volatility. ​Furthermore, when you look at how BlackRock manages its digital asset products, they maintain a clear divide. While liquidity is occasionally shuffled in alternative crypto products and risk-on tech assets, their core Bitcoin thesis remains incredibly sticky. The institutional giant hasn't even scratched the surface of its primary BTC reserves. ​It feels like the broader market saw a "millions sold" headline and completely ignored the scale of the actual positions. A 0.3% fluctuation is noise, not a trend shift. ​Do you see this as meaningful institutional de-risking, or is it mostly routine portfolio management that the retail market is completely overreacting to
 
-15h ago
+18h ago
+
+---
+
+**[Bitcoin is the Honey Badger](https://www.reddit.com/r/Bitcoin/comments/1trcdzo/bitcoin_is_the_honey_badger/)**
+
+https://www.reddit.com/r/interestingasfuck/s/Os1oXr9RKZ
+
+14h ago
 
 ---
 
 **[Bitcars.](https://www.reddit.com/r/Bitcoin/comments/1tr3oog/bitcars/)**
 
 Not sure which one I’d rather own. They both come with advantages and disadvantages.
-
-16h ago
-
----
-
-**[Unexpected dump?](https://www.reddit.com/r/Bitcoin/comments/1tr3o71/unexpected_dump/)**
-
-I know we're still in the bear market, but timewise this is quite an unexpected dump in the last days, right? 12% in the last 2 weeks. No real macro indicators, positive news on war, stocks are flying worldwide. Is everyone fleeing into stocks? BTC too risky all of a sudden?
-
-16h ago
-
----
-
-**[Self-Custody: Convenience vs Security](https://www.reddit.com/r/Bitcoin/comments/1tr01ms/selfcustody_convenience_vs_security/)**
-
-A lot of people assume self-custody means making everything way more complicated. But honestly, once you use COLDCARD, you realize a secure setup can still be pretty straightforward. It meets Bitcoiners wherever they’re at, whether you just want to safely hodl long term or you’re into using multisig, and advanced setups. Feels like the “secure vs easy” tradeoff isn’t necessary.
 
 18h ago
 
@@ -153,7 +145,15 @@ A lot of people assume self-custody means making everything way more complicated
 
 Quick background if you have not run into it: the 1000 BTC Challenge is an on-chain puzzle from 2015. Someone funded 160 addresses whose private keys sit in deliberately increasing ranges (key N is between 2N-1 and 2N), and in 2023 the prizes were bumped 10x. The low ones have been picked off over the years; the unsolved ones still hold real coins. #135 is the current target and holds 13.5 BTC. Tracker: https://privatekeys.pw/puzzles/bitcoin-puzzle-tx Collision Protocol is a distributed Pollard's Kangaroo pool that points a fleet of GPUs at one unsolved key at a time. It's on #135 right now and stays on it until it's solved. When that happens the pool doesn't stop: it automatically rolls the whole fleet to the next key most likely to fall (the lowest unsolved range whose public key is exposed, which is what Kangaroo needs). Nothing for you to reconfigure, your worker just follows the pool. Each worker only runs one side of the walk, tame or wild, and sends its distinguished points (DPs) to the server. That split is the anti-cheat: no single machine ever has both halves, so nobody can quietly hit the collision, recover the key, and sweep the coins before the pool does. The upside for you is the payout. Since the solve can only land at the pool, every DP you commit counts toward your share. If the pool cracks the key, the prize is split by contribution: a 5% pool fee, and everything left over distributed in proportion to the verified DPs each worker submitted. Rough scale: RCKangaroo's own estimate for a 2134 range is 1.15 * 267 operations, which at dp_bits 28 is about 6 * 1011 DPs to expect a solve. That is an expectation: a real solve can land anywhere from about half to double that, and DP/GPU overhead pushes the true count up somewhat. Expected time against the pool's aggregate rate: pool DP/s expected solve time, #135 100 ~200 years 1,000 ~20 years 10,000 ~2 years 100,000 ~2.5 months 1,000,000 ~7 days We are at single digits per second today on a couple of test rigs, and the bottom rows of that table are a serious amount of hardware, so this is mostly a question of how many GPUs show up. Rate scales linearly with workers. Open to testers who get that it's early and rough in places, and who will open a GitHub issue when something breaks instead of just walking away. Mainly after Linux and Apple Silicon right now. Client (collider) is open, GPLv3, built on JeanLucPons' RCKangaroo: https://github.com/hevnsnt/collider Issues: https://github.com/hevnsnt/collider/issues Live coverage/stats: https://collisionprotocol.com/pool collider --pool pool.collisionprotocol.com:17403 --worker <btc-payout-address> Worker name is the payout address (So get it right!). The pool tells the client which target, range, and DP size to work, so the same client follows whatever key is active. CUDA on Win/Linux, Metal on Apple Silicon, CPU fallback. What's useful to report: whether it builds and runs on your platform, the rates you get, and anything that breaks or drops the connection. Source is there if you want to pull it apart. collider-pro is a separate paid build for solo and brainwallet work. Not needed for the pool.
 
-16h ago
+19h ago
+
+---
+
+**[Self-Custody: Convenience vs Security](https://www.reddit.com/r/Bitcoin/comments/1tr01ms/selfcustody_convenience_vs_security/)**
+
+A lot of people assume self-custody means making everything way more complicated. But honestly, once you use COLDCARD, you realize a secure setup can still be pretty straightforward. It meets Bitcoiners wherever they’re at, whether you just want to safely hodl long term or you’re into using multisig, and advanced setups. Feels like the “secure vs easy” tradeoff isn’t necessary.
+
+21h ago
 
 ---
 
@@ -161,11 +161,27 @@ Quick background if you have not run into it: the 1000 BTC Challenge is an on-ch
 
 ## Google News: "bitcoin"
 
+**[Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger](https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger)**
+
+Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.
+
+CoinDesk • 2h ago
+
+---
+
 **[Robinhood stock is surging — and bitcoin isn't the reason this time](https://finance.yahoo.com/markets/article/robinhood-stock-is-surging--and-bitcoin-isnt-the-reason-this-time-152104398.html)**
 
 Robinhood's AI-agent rollout is giving investors a new reason to buy the stock — and crypto is not part of it.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[MicroStrategy Corrects Bitcoin Sell-Off Fears With $30 Million Withdrawal](https://finance.yahoo.com/markets/crypto/articles/microstrategy-corrects-bitcoin-sell-off-072112999.html)**
+
+Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,23 +189,7 @@ Yahoo Finance • 12h ago
 
 Even if you’ve never bought any cryptocurrency, like columnist Karmela Padavic-Callaghan, your money may be affected by bitcoin’s fate – which is uncertain, as quantum computing advances are threatening to make the encryption protecting it useless
 
-New Scientist • 22h ago
-
----
-
-**[Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger](https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger)**
-
-Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.
-
-CoinDesk • 15m ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Tumble Amid Report Of Fresh US Strikes On Iran: Analyst Flags 'Structurally Fragile Setup' Developing For BTC](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-tumble-021732460.html)**
-
-Leading cryptocurrencies fell sharply on Wednesday, while stocks rallied to record highs with no breakthrough in sight for a U.S.-Iran deal. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.03%$74,176.96Ethereum (CRYPTO: ETH) -2.65%$2,017.29XRP (CRYPTO: XRP) -2.03%$1.30Solana (CRYPTO: SOL) -1.83%$82.27Dogecoin (CRYPTO: DOGE) -1.39%$0.1000 Crypto Market Slides Bitcoin tumbled, coming close to sinking below $74,000, while Ethereum battled bears to defend the
-
-Yahoo Finance • 2d ago
+New Scientist • 1d ago
 
 ---
 
@@ -197,41 +197,41 @@ Yahoo Finance • 2d ago
 
 The S&P 500 posted its longest weekly winning streak since 2023 and Brent oil stabilized near $92 on US-Iran ceasefire hopes. The biggest cryptocurrencies still drifted lower, with Hyperliquid's HYPE the only major name to rally.
 
-CoinDesk • 53m ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin, XRP Prices Slump as U.S., Iran Tensions Hit Cryptos](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-today-d588a761)**
+**[Bitcoin Falls to Six-Week Low Amid War Jitters, ETF Outflows](https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows)**
 
-Barron's • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[US Bitcoin ETFs Bleed $2.8 Billion in Longest Outflow Streak](https://www.bloomberg.com/news/articles/2026-05-29/us-bitcoin-btc-etfs-bleed-2-8-billion-in-longest-outflow-streak)**
+**[Bitcoin prices today, Thursday, May 28, 2026: Down this morning and falling further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-prices-today-thursday-may-28-2026-down-this-morning-and-falling-further-113406336.html)**
 
-Investors pulled money from US spot-Bitcoin exchange-traded funds for a ninth straight session, the longest run of withdrawals since the products debuted, underscoring a cooling in demand for the largest cryptocurrency even as broader risk assets rally.
+Bitcoin (BTC-USD) opened at $74,332.94 on Thursday, May 28, 2026, down 2% from Wednesday's opening price. The value of bitcoin moved down to $73,285.68 by 7:18 a.m. ET.
 
-Bloomberg.com • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $120,000 Before the End of the Year](https://www.fool.com/investing/2026/05/30/prediction-bitcoin-will-hit-120000-before-the-end/)**
+
+Two new catalysts could send Bitcoin soaring in the second half of 2026.
+
+The Motley Fool • 17m ago
 
 ---
 
 **[Bitcoin Slumps, But Strategy Isn't Buying. Here's Why.](https://www.investors.com/news/bitcoin-price-slumps-strategy-buying-power-strc-mstr-stock/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 21h ago
 
 ---
 
 **[Bitcoin Depot class action alleges ATMs enabled $76K impersonation scam](https://topclassactions.com/lawsuit-settlements/lawsuit-news/bitcoin-depot-class-action-alleges-atms-enabled-76k-impersonation-scam/)**
 
-Class Action Lawsuits • 14h ago
-
----
-
-**[Anchorage Warns Bitcoin Yield Trade Could Cap Gains If BTC Rips Higher](https://www.tradingview.com/news/newsbtc:6e72f8fa5094b:0-anchorage-warns-bitcoin-yield-trade-could-cap-gains-if-btc-rips-higher/)**
-
-Anchorage Digital says Bitcoin covered-call strategies can generate synthetic yield for BTC holders, but only when managed with strict discipline. The firm’s new research warns that selling upside on Bitcoin can cushion drawdowns in weaker markets, yet cap gains sharply when BTC enters one of its v…
-
-TradingView • 4h ago
+Class Action Lawsuits • 17h ago
 
 ---
 
@@ -243,7 +243,7 @@ TradingView • 4h ago
 
 Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
 
-⬆️ 32 • 💬 0 • 2d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
+⬆️ 43 • 💬 0 • 2d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ---
 
@@ -265,7 +265,7 @@ The bill would effectively turn miners into their own surveillance teams, collec
 
 **[Why Would Someone Publicly Burn $8M Worth of Bitcoin?](https://news.ycombinator.com/item?id=48321858)**
 
-⬆️ 4 • 💬 0 • 18h ago • [gizmodo.com](https://gizmodo.com/why-would-someone-publicly-burn-8-million-worth-of-bitcoin-theories-are-flying-2000764705)
+⬆️ 4 • 💬 0 • 21h ago • [gizmodo.com](https://gizmodo.com/why-would-someone-publicly-burn-8-million-worth-of-bitcoin-theories-are-flying-2000764705)
 
 ---
 
@@ -293,7 +293,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Hacker who sold access to Oregon state emergency network for Bitcoin gets prison](https://news.ycombinator.com/item?id=48290641)**
 
-⬆️ 2 • 💬 0 • 2d ago • [oregonlive.com](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)
+⬆️ 2 • 💬 0 • 3d ago • [oregonlive.com](https://www.oregonlive.com/crime/2026/05/hacker-who-sold-access-to-oregon-state-emergency-network-for-bitcoin-gets-prison.html)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asse
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 383 • ⏱️ 15:50 • 1d ago
+👁️ 41K • 👍 2K • 💬 378 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin is getting smoked while stocks rip to all time highs, and investors are 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 992 • 💬 126 • ⏱️ 13:56 • 9h ago
+👁️ 15K • 👍 1K • 💬 136 • ⏱️ 13:56 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Join me LIVE for a free 90 minute masterclass where I'll help you build your own
 
 📺 Mark Moss
 
-👁️ 42K • 👍 2K • 💬 437 • ⏱️ 30:33 • 11h ago
+👁️ 49K • 👍 2K • 💬 325 • ⏱️ 30:33 • 14h ago
 
 ---
 
@@ -353,7 +353,7 @@ Get my free newsletter Letters From a Heretic: https://go.heresy.financial/lette
 
 📺 Heresy Financial
 
-👁️ 88K • 👍 3K • 💬 840 • ⏱️ 17:21 • 1d ago
+👁️ 89K • 👍 4K • 💬 852 • ⏱️ 17:21 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 836 • 💬 255 • ⏱️ 55:21 • 15h ago
+👁️ 16K • 👍 844 • 💬 122 • ⏱️ 55:21 • 18h ago
 
 ---
 
@@ -373,7 +373,17 @@ Bitcoin has entered what many traders call the "Window of Weakness"—a period w
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 186 • ⏱️ 23:28 • 1d ago
+👁️ 60K • 👍 4K • 💬 188 • ⏱️ 23:28 • 1d ago
+
+---
+
+**[JPMorgan CEO Delivers CHILLING Warning To Crypto Industry (You Have To See To Believe)](https://www.youtube.com/watch?v=iWkxICtP6OI)**
+
+Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 1K • 💬 106 • ⏱️ 8:35 • 10h ago
 
 ---
 
@@ -383,7 +393,7 @@ In this video we talk about a new Bitcoin price model: "Asymmetric Bitcoin Price
 
 📺 Benjamin Cowen
 
-👁️ 11K • 👍 1K • 💬 137 • ⏱️ 33:21 • 3h ago
+👁️ 20K • 👍 2K • 💬 195 • ⏱️ 33:21 • 6h ago
 
 ---
 
@@ -393,7 +403,7 @@ We are in the digital gold rush to acquire as much Bitcoin as humanly possible.�
 
 📺 What Bitcoin Did
 
-👁️ 8K • 👍 353 • 💬 149 • ⏱️ 1:41:42 • 14h ago
+👁️ 8K • 👍 374 • 💬 129 • ⏱️ 1:41:42 • 17h ago
 
 ---
 
@@ -403,17 +413,7 @@ Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a mas
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 69 • 💬 2 • ⏱️ 0:54 • 18h ago
-
----
-
-**[Bitcoin Falls Below The Bear Market Resistance Band](https://www.youtube.com/watch?v=slTIiS-Y65k)**
-
-In today's video, we discuss Bitcoin falling back below the Bear Market Resistance Band and what this could mean for the broader ...
-
-📺 Benjamin Cowen
-
-👁️ 73K • 👍 5K • 💬 264 • ⏱️ 18:38 • 2d ago
+👁️ 5K • 👍 79 • 💬 2 • ⏱️ 0:54 • 20h ago
 
 ---
 

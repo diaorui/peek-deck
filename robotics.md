@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-30T06:36:28.230981+00:00'
+updated: '2026-05-30T09:18:19.653113+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 30, 2026 at 06:36 UTC  
+**Last Updated:** May 30, 2026 at 09:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
+
+3h ago
+
+---
+
 **[Booster takes penalty kicks and kicked a hole through the wall](https://www.reddit.com/r/robotics/comments/1tqxchz/booster_takes_penalty_kicks_and_kicked_a_hole/)**
 
 from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
 
-20h ago
+23h ago
 
 ---
 
-**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
+**[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-1h ago
+2h ago
+
+---
+
+**[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
+
+8h ago
 
 ---
 
@@ -50,13 +62,7 @@ from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/206022410652
 
 A small autonomous boat for city canals monitoring. The idea is that traditional human made measurements are time consuming and expensive, same for static stations that only provide spatially sparse data. With this project I aimed to solve it by small autonomous boat that can collect data continuously along the route. It is only 1.5 meters long and very narrow so it does not take much space in small canals and minimally interferes with other boats. The hull is 3d printed covered with glassfiber. Thus the design and size make it affordable. Inside it has stereocamera for depth image, magnetometer, accelerometer and GPS. The autonomy is achieved via custom neural network (I have background in AI for self driving cars, so it was very exciting to make something in this area but a bit different). However, there is still room for improvement. Despite its small size, the boat is capable of traveling for long enough distances to travel across the city, even though it goes slow for thorough data collection. You can see more details in my kaggle writeup here https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778609511724
 
-17h ago
-
----
-
-**[BAGEL: browser-native ROS1 & ROS2 bag visualizer](https://www.reddit.com/r/robotics/comments/1trkh4m/bagel_browsernative_ros1_ros2_bag_visualizer/)**
-
-6h ago
+19h ago
 
 ---
 
@@ -64,7 +70,13 @@ A small autonomous boat for city canals monitoring. The idea is that traditional
 
 Just wanted to share my progress on building a loop for collect data->train->deploy for sim and real robots. Finally was able to get few things working together. More things to come!
 
-10h ago
+13h ago
+
+---
+
+**[[Release] LinkForge v1.4.0: Programmable IR Core, Rigorous Physical Linting, and Headless Composition](https://www.reddit.com/r/robotics/comments/1trsnqw/release_linkforge_v140_programmable_ir_core/)**
+
+2h ago
 
 ---
 
@@ -90,20 +102,6 @@ A San Francisco suit alleges Bot Company staff secretly tested prototype househo
 
 ---
 
-**[Atlas takes on the Rabona](https://www.reddit.com/r/robotics/comments/1tpym4u/atlas_takes_on_the_rabona/)**
-
-From Hyundai Worldwide on 𝕏: https://x.com/Hyundai_Global/status/2059620640815034466
-
-1d ago
-
----
-
-**[What should I learn next?](https://www.reddit.com/r/robotics/comments/1tqx1a4/what_should_i_learn_next/)**
-
-20h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,7 +118,15 @@ BBC • 1d ago
 
 The Humanoids Summit Tokyo showcases advanced robotics, highlighting China's growing influence. Companies like Booster Robotics and LimX Dynamics are refining technology initially developed in Japan and the U.S., often for cheaper mass production.
 
-AP News • 22h ago
+AP News • 1d ago
+
+---
+
+**[China’s Humanoid Robots Dance, Wiggle, and Thread Needles in Tokyo](https://www.eweek.com/news/apac-chinese-humanoids-japan-robotics-race/)**
+
+Chinese humanoid robot makers drew attention in Tokyo as Japan emphasized precision, durability, and real-world robotics testbeds.
+
+eWeek • 15h ago
 
 ---
 
@@ -132,19 +138,11 @@ Popular Mechanics • 1d ago
 
 ---
 
-**[Space-bound humanoid takes a four-armed approach to astronaut assistance](https://newatlas.com/ai-humanoids/orbit-helios-four-arms-space-robot-astronaut/)**
+**[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
 
-In microgravity, walking doesn't exist. Balance doesn't exist. What does exist is the need to grip surfaces, manipulate tools, move through narrow corridors, and not go flying every time you push against something. Two legs solve none of those problems.
+Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
 
-New Atlas • 11h ago
-
----
-
-**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
-
-Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
-
-The Frederick News-Post • 20h ago
+Rice University • 1d ago
 
 ---
 
@@ -152,7 +150,7 @@ The Frederick News-Post • 20h ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 15h ago
+ZME Science • 18h ago
 
 ---
 
@@ -190,33 +188,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure 03 Reveals 5 INSANE Upgrades… Tesla’s Robot Rival Is Getting Insane!](https://www.youtube.com/watch?v=MXbNyedralg)**
+**[This $440 Million Startup Is Solving Robotics’ Biggest Problem](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
 
-Figure just quietly LAPPED the entire humanoid robot race — and almost nobody noticed. While the whole world keeps waiting on ...
+Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
 
-📺 The AI Nexus
+📺 Forbes
 
-👁️ 3K • 👍 118 • 💬 6 • ⏱️ 25:08 • 14h ago
-
----
-
-**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
-
-The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
-
-📺 AI News
-
-👁️ 12K • 👍 212 • 💬 38 • ⏱️ 8:02 • 6d ago
-
----
-
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
-
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
-
-📺 ESPN
-
-👁️ 286K • 👍 5K • 💬 546 • ⏱️ 4:57 • 4d ago
+👁️ 39K • 👍 870 • 💬 33 • ⏱️ 10:21 • 2d ago
 
 ---
 
@@ -226,27 +204,7 @@ In this video I tested out the Ultimate Nodens with the Torch. https://wr.my.gam
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 141 • 💬 24 • ⏱️ 15:23 • 20h ago
-
----
-
-**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
-
-Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
-
-📺 Duke Engineering
-
-👁️ 16K • 👍 2K • 💬 93 • ⏱️ 1:50 • 1d ago
-
----
-
-**[This $440 Million Startup Is Solving Robotics’ Biggest Problem](https://www.youtube.com/watch?v=PyGkn9DYm9s)**
-
-Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
-
-📺 Forbes
-
-👁️ 36K • 👍 831 • 💬 31 • ⏱️ 10:21 • 2d ago
+👁️ 3K • 👍 145 • 💬 25 • ⏱️ 15:23 • 23h ago
 
 ---
 
@@ -266,27 +224,67 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 360 • 💬 90 • ⏱️ 13:36 • 18h ago
+👁️ 9K • 👍 377 • 💬 91 • ⏱️ 13:36 • 21h ago
 
 ---
 
-**[New KRAKEN Robot is here! War Robots SHOGGOTH 12.2 Update LIVE](https://www.youtube.com/watch?v=6qdKDy2a6Xo)**
+**[We Just Hosted Europe’s Greatest Robotics Meetup](https://www.youtube.com/watch?v=wBTZH-8Y9Iw)**
 
-War Robots Gameplay: New Robot SHOGGOTH - The KRAKEN - WR My War Robots Creator Link: https://wr.my.games/manni ...
+Berlin just hosted the best robotics meetup in Europe. We wanted to get 50 friends together. 500 people applied once we put a ...
 
-📺 Manni-Gaming
+📺 Andreas Klinger @ PROTOTYPE
 
-👁️ 16K • 👍 630 • 💬 119 • ⏱️ 25:12 • 1d ago
+👁️ 8K • 👍 536 • 💬 67 • ⏱️ 10:49 • 22h ago
 
 ---
 
-**[VEX V5 Override | Hero Bot &quot;Flex&quot; | Part 2](https://www.youtube.com/watch?v=PCEbr8BltXQ)**
+**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
 
-ORDER HERE: https://www.vex.com/VEXgames26-27yt SUBSCRIBE: https://www.vex.com/YouTube ...
+Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
 
-📺 VEX Robotics
+📺 Duke Engineering
 
-👁️ 82K • 👍 53 • 💬 19 • ⏱️ 4:27 • 4d ago
+👁️ 17K • 👍 2K • 💬 94 • ⏱️ 1:50 • 1d ago
+
+---
+
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
+
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
+
+📺 ESPN
+
+👁️ 288K • 👍 5K • 💬 546 • ⏱️ 4:57 • 4d ago
+
+---
+
+**[School of Football | Can football teach a robot to move? | Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=qaqzZK7ZrZk)**
+
+In School of Football, Atlas meets the world's most beloved sport. With the FIFA World Cup 2026 ahead, can football teach a robot ...
+
+📺 Boston Dynamics
+
+👁️ 117K • 👍 6K • 💬 571 • ⏱️ 1:22 • 4d ago
+
+---
+
+**[T800 Terminator? Humanoid Robot GAME CHANGERS In 2026 ($40,000 AI ROBOT)](https://www.youtube.com/watch?v=3E3KyJsC8uE)**
+
+The mass production era is officially here. As a brand new 10000-unit factory line fires up, we look at the biggest humanoid robot ...
+
+📺 AI News
+
+👁️ 12K • 👍 212 • 💬 38 • ⏱️ 8:02 • 6d ago
+
+---
+
+**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
+
+Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
+
+📺 Techie Sapien
+
+👁️ 621K • 👍 4K • 💬 85 • ⏱️ 0:07 • 22h ago
 
 ---
 
