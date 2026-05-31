@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-31T00:11:00.063719+00:00'
+updated: '2026-05-31T05:01:48.294948+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 00:11 UTC  
+**Last Updated:** May 31, 2026 at 05:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,849.08
+### $74,176.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -4.5%  
-**30d:** -6.1%  
-**90d:** +8.2%  
-**1y:** -30.0%  
+**24h:** +0.9%  
+**7d:** -4.1%  
+**30d:** -5.7%  
+**90d:** +8.7%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1477.71B
+**Market Cap:** $1484.30B
 Rank #1
 
 **Circulating Supply:** 20,036,643 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--41.5%
+-41.2%
 
 **All-Time Low:** $67.81
-+108659.8%
++109144.9%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[What if we separated money from the state, abolished income tax, and based the entire economy on physical reality? Meet the Real Society.](https://www.reddit.com/r/Bitcoin/comments/1tryi4n/what_if_we_separated_money_from_the_state/)**
-
-We are currently facing a silent but acute crisis where our economic system has completely lost touch with reality. We live in a debt-driven society plagued by three fundamental, interconnected flaws: 1 Eroded purchasing power and skyrocketing wealth gaps. Over the past decades, fiat currencies have lost the vast majority of their value due to inflation. Central and private banks create new money out of thin air every time a loan is issued. This new money flows straight into the stock and housing markets, making the wealthy richer while locking young people and low-income earners out of the market. 2 The unsustainable trap of infinite growth. The current system requires the economy to grow at breakneck speed just to service ever-expanding mountains of debt. This forces a throwaway consumer culture that clashes frontally with the fact that we live on a planet with finite resources. 3 A broken and unfair tax system. Today's tax systems heavily penalize hard work through high income taxes, while making it incredibly easy for ultra-wealthy individuals and global corporations to hide their digital profits in tax havens. There is an alternative. By combining the monetary discipline of a hard currency with the social responsibility of a strong safety net, we can transition into what we call The Real Society (Swedish: Realsamhället). Those who advocate for this model call themselves Realists. Here is how it works. THE THREE PILLARS OF THE REAL SOCIETY PILLAR 1: HONEST MONEY (Ending the Debt Illusion) The society adopts a currency with an absolute, hard mathematical cap (such as a Bitcoin standard). Neither the state nor private banks can create new money out of thin air. The hidden tax of inflation is permanently eradicated. Saved money actually increases in purchasing power over time as society becomes more technologically efficient. Because people can no longer take out massive, artificially backed loans, asset bubbles pop. Housing and business valuations drop to natural, human levels that people can actually save up for. PILLAR 2: THE RESOURCE FEE (Taxing the Physical Footprint) Since money in this system is digital, decentralized, and anonymous, the state completely stops spying on your income and bank accounts. Instead, Income Tax is abolished (0%) and replaced by The Resource Fee (Resursavgiften), paid entirely in the physical world where no one can cheat or hide: The Space Footprint (Land): The earth belongs to everyone. If you want to cordone off a highly desirable piece of land for your villa, apartment, or factory, you pay an ongoing Resource Fee for that space. A massive mansion on the coast equals a huge fee. A modest apartment equals a minimal fee. The Material Footprint (Consumption): It should be cheap to live, but expensive to waste. Basic food, medicine, children's clothes, and public transit carry a 0% fee. But when you buy brand-new luxury goods, sports cars, or high-end electronics, a heavy Resource Fee is added directly at the register. The Energy Footprint (Resources): The more electricity and raw materials a household or a heavy industry consumes, the more they pay in Resource Fees per kilowatt-hour. PILLAR 3: A STRONG, HONEST WELFARE STATE All revenues from the Resource Fee are pooled into a single public fund. Because the wealthy inevitably occupy the most valuable land, consume the most energy, and buy the most luxury goods, they naturally finance the vast majority of the pool. This fund goes directly to financing free, high-quality healthcare, education, and a robust social safety net. Because the government cannot print money to cover up its fiscal mistakes, the welfare system becomes completely transparent and accountable. WHY A REALIST WANTS TO SHIFT THE SYSTEM Justice for the Worker: With 0% income tax, every single dollar or euro you earn lands in your pocket. It becomes vastly easier for ordinary people to build a rainy-day fund, save for the future, and achieve upward social mobility. Waterproof Against Tax Evasion: A billionaire can hide their Bitcoin seed phrase in their head, but they cannot live in an invisible castle, drive an invisible yacht, or power their industries with invisible electricity. If you want to live a life of physical luxury, you must pay the Resource Fee. Peace with the Planet: By removing the systemic requirement for infinite debt-fueled growth, civilization downshifts to a natural speed. It becomes economically rational to save, repair, and build things that last, aligning the human economy with planetary boundaries. THE REALIST TRANSITION: A CENTURY-LONG SHIFT To be completely clear: I am fully aware that a transition like this cannot happen overnight. Pulling the plug on the current fiat debt-system all at once would trigger a catastrophic global economic collapse. Returning civilization to its natural speed is a project that will take generations, if not centuries. But we can start moving in this direction immediately, and the best way to begin is through a gradual tax reform. Instead of jumping straight into a new currency standard, we can start by slowly shifting what we tax. Over the next decade, governments could begin lowering income taxes for workers while incrementally replacing them with the Resource Fee—raising taxes on land values, raw material consumption, and high-end physical luxury. This allows the framework of the Real Society to take root safely, proving its fairness and sustainability, while the monetary shift towards hard digital assets can happen organically over time as the old system rusts away. The Real Society is a model that is both deeply visionary and fundamentally grounded in reality. It shifts our focus away from chasing imaginary digital zeros in centralized bank ledgers, and forces us to look at what truly matters: our real world, our real resources, and our real community. What do you think? Is it time for a Realist movement?
-
-11h ago
-
----
-
 **[HodlHodl is increasing their fees](https://www.reddit.com/r/Bitcoin/comments/1tsfiho/hodlhodl_is_increasing_their_fees/)**
 
 Hey gang! Big market maker on HodlHodl here. Unfortunately I recently received bad news and that will be causing the spread to go up. HodlHodl used to have a fee of 0.5%. This made it so I could charge a reasonable 3% for BTC. Unfortunately this will be causing the total spread to be about 4.5% which feels unreasonable to me. “After many years without changes, we're adjusting our fees. The new structure is: • 0.75% from the seller and 0.75% from the buyer • 1.5% origination fee on every lending contract Thank you for being with us. The Hodl Hodl Team” On the old fee amount: $10,000 order would have a $50 fee (from HodlHodl) Now: $10,000 order would have $150 fee (from HodlHodl)
 
-13m ago
+5h ago
+
+---
+
+**[What if we separated money from the state, abolished income tax, and based the entire economy on physical reality? Meet the Real Society.](https://www.reddit.com/r/Bitcoin/comments/1tryi4n/what_if_we_separated_money_from_the_state/)**
+
+We are currently facing a silent but acute crisis where our economic system has completely lost touch with reality. We live in a debt-driven society plagued by three fundamental, interconnected flaws: 1 Eroded purchasing power and skyrocketing wealth gaps. Over the past decades, fiat currencies have lost the vast majority of their value due to inflation. Central and private banks create new money out of thin air every time a loan is issued. This new money flows straight into the stock and housing markets, making the wealthy richer while locking young people and low-income earners out of the market. 2 The unsustainable trap of infinite growth. The current system requires the economy to grow at breakneck speed just to service ever-expanding mountains of debt. This forces a throwaway consumer culture that clashes frontally with the fact that we live on a planet with finite resources. 3 A broken and unfair tax system. Today's tax systems heavily penalize hard work through high income taxes, while making it incredibly easy for ultra-wealthy individuals and global corporations to hide their digital profits in tax havens. There is an alternative. By combining the monetary discipline of a hard currency with the social responsibility of a strong safety net, we can transition into what we call The Real Society (Swedish: Realsamhället). Those who advocate for this model call themselves Realists. Here is how it works. THE THREE PILLARS OF THE REAL SOCIETY PILLAR 1: HONEST MONEY (Ending the Debt Illusion) The society adopts a currency with an absolute, hard mathematical cap (such as a Bitcoin standard). Neither the state nor private banks can create new money out of thin air. The hidden tax of inflation is permanently eradicated. Saved money actually increases in purchasing power over time as society becomes more technologically efficient. Because people can no longer take out massive, artificially backed loans, asset bubbles pop. Housing and business valuations drop to natural, human levels that people can actually save up for. PILLAR 2: THE RESOURCE FEE (Taxing the Physical Footprint) Since money in this system is digital, decentralized, and anonymous, the state completely stops spying on your income and bank accounts. Instead, Income Tax is abolished (0%) and replaced by The Resource Fee (Resursavgiften), paid entirely in the physical world where no one can cheat or hide: The Space Footprint (Land): The earth belongs to everyone. If you want to cordone off a highly desirable piece of land for your villa, apartment, or factory, you pay an ongoing Resource Fee for that space. A massive mansion on the coast equals a huge fee. A modest apartment equals a minimal fee. The Material Footprint (Consumption): It should be cheap to live, but expensive to waste. Basic food, medicine, children's clothes, and public transit carry a 0% fee. But when you buy brand-new luxury goods, sports cars, or high-end electronics, a heavy Resource Fee is added directly at the register. The Energy Footprint (Resources): The more electricity and raw materials a household or a heavy industry consumes, the more they pay in Resource Fees per kilowatt-hour. PILLAR 3: A STRONG, HONEST WELFARE STATE All revenues from the Resource Fee are pooled into a single public fund. Because the wealthy inevitably occupy the most valuable land, consume the most energy, and buy the most luxury goods, they naturally finance the vast majority of the pool. This fund goes directly to financing free, high-quality healthcare, education, and a robust social safety net. Because the government cannot print money to cover up its fiscal mistakes, the welfare system becomes completely transparent and accountable. WHY A REALIST WANTS TO SHIFT THE SYSTEM Justice for the Worker: With 0% income tax, every single dollar or euro you earn lands in your pocket. It becomes vastly easier for ordinary people to build a rainy-day fund, save for the future, and achieve upward social mobility. Waterproof Against Tax Evasion: A billionaire can hide their Bitcoin seed phrase in their head, but they cannot live in an invisible castle, drive an invisible yacht, or power their industries with invisible electricity. If you want to live a life of physical luxury, you must pay the Resource Fee. Peace with the Planet: By removing the systemic requirement for infinite debt-fueled growth, civilization downshifts to a natural speed. It becomes economically rational to save, repair, and build things that last, aligning the human economy with planetary boundaries. THE REALIST TRANSITION: A CENTURY-LONG SHIFT To be completely clear: I am fully aware that a transition like this cannot happen overnight. Pulling the plug on the current fiat debt-system all at once would trigger a catastrophic global economic collapse. Returning civilization to its natural speed is a project that will take generations, if not centuries. But we can start moving in this direction immediately, and the best way to begin is through a gradual tax reform. Instead of jumping straight into a new currency standard, we can start by slowly shifting what we tax. Over the next decade, governments could begin lowering income taxes for workers while incrementally replacing them with the Resource Fee—raising taxes on land values, raw material consumption, and high-end physical luxury. This allows the framework of the Real Society to take root safely, proving its fairness and sustainability, while the monetary shift towards hard digital assets can happen organically over time as the old system rusts away. The Real Society is a model that is both deeply visionary and fundamentally grounded in reality. It shifts our focus away from chasing imaginary digital zeros in centralized bank ledgers, and forces us to look at what truly matters: our real world, our real resources, and our real community. What do you think? Is it time for a Realist movement?
+
+16h ago
 
 ---
 
@@ -97,7 +97,13 @@ Hey gang! Big market maker on HodlHodl here. Unfortunately I recently received b
 
 Hey After a few weeks of building, I finally launched my side project The concept is simple — the 'latte factor' is a well-known personal finance idea, but no tool showed it in Bitcoin terms. So I built one. What it does: Enter any daily habit (coffee, Netflix, gym, eating out — anything) Set a time horizon and growth scenario (Bear / Base / Bull / Hyperbull) See exactly what that habit costs you in Bitcoin terms Includes a Freedom Planner showing your sovereignty milestone timeline Example: $6 per day coffee habit → 10 years at Base CAGR → $138K in BTC you didn't stack Tech stack: Astro + Vercel + CoinGecko API for live BTC price No signup, no ads, completely free. Would love feedback on UX, features, anything!
 
-7h ago
+12h ago
+
+---
+
+**[Texas is making a major move! They're shifting from just buying Bitcoin ETFs to directly purchasing spot BTC held in cold storage for their Strategic Bitcoin Reserve](https://www.reddit.com/r/Bitcoin/comments/1tsaet1/texas_is_making_a_major_move_theyre_shifting_from/)**
+
+8h ago
 
 ---
 
@@ -105,7 +111,7 @@ Hey After a few weeks of building, I finally launched my side project The concep
 
 Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet
 
-11h ago
+15h ago
 
 ---
 
@@ -113,7 +119,7 @@ Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware W
 
 I trade mostly BTC across OKX, Bybit and Pionex, and I am constantly switching between apps and accounts was driving me crazy. Whenever I had profits I'd buy more BTC, then lose track of how much I bought, where I sent it, and what it was actually worth, it's a real pain. I tried using Excel but it took forever to enter everything by hand, and it takes a lot of time. So I built a journal that keeps track of all of it in one place — spot trades, futures trades, and my bots — with live prices and a single consolidated P&L view. It's in early alpha and free, so it still has rough edges. A few things I'd love feedback on: How do you currently keep track of your trades across multiple exchanges? What makes Excel (or your current journal) annoying for you? What would you actually need from a journal to switch to it? Open to any feedback or criticism. Please help.
 
-7h ago
+12h ago
 
 ---
 
@@ -121,7 +127,7 @@ I trade mostly BTC across OKX, Bybit and Pionex, and I am constantly switching b
 
 I had bitcoin in a Lumi wallet. I had not logged on in a while, typed in Lumi to google and went to the first page up top ( web.lumiwallet.org ) I typed in my recovery phrase, then was wondering why my balance was loading for so long. I then downloaded Coin Wallet, entered my code again and saw ALL of my bitcoin was “sent”….did I get scammed? If so I have zero chance of recovering it right?
 
-22h ago
+1d ago
 
 ---
 
@@ -129,15 +135,15 @@ I had bitcoin in a Lumi wallet. I had not logged on in a while, typed in Lumi to
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-18h ago
+22h ago
 
 ---
 
-**[Texas Names Bitcoin Reserve Advisory Committee As State Eyes Direct Bitcoin Custody](https://www.reddit.com/r/Bitcoin/comments/1tr4rzs/texas_names_bitcoin_reserve_advisory_committee_as/)**
+**[Building a profitable Bitcoin company with public market ambitions. Looking for feedback](https://www.reddit.com/r/Bitcoin/comments/1ts2dv0/building_a_profitable_bitcoin_company_with_public/)**
 
-Texas has appointed a five-member advisory committee to oversee its Strategic Bitcoin Reserve as the state prepares to transition from ETF exposure to directly custodied bitcoin.
+Hey everyone, I'm one of the founders of Frame. We're building an AI powered market intelligence device that helps people understand markets, stocks, ETFs, macro trends, and Bitcoin through a dedicated hardware and software platform. We've been building for about a year and unlike many startups, we're already profitable. A few things about us: • Profitable operating business • Zero debt • 5 BTC on our balance sheet • Hardware and software built in house • 20+ years of software engineering and product development experience Our long term goal is bigger than just selling hardware. We're building what we hope becomes a profitable operating company that accumulates Bitcoin as its primary treasury reserve asset. If we execute successfully, our ambition is to eventually enter the public markets, likely starting with OTCQB or NYSE Arca and ultimately pursuing a Nasdaq listing. Most Bitcoin treasury companies started with cash and bought Bitcoin. We're taking a different approach. Build a real operating business first. Generate cash flow. Accumulate Bitcoin over time. Then scale both the business and the treasury. We're still early, but that's the vision. I'd love to hear from the Bitcoin community: • Would you support a public company built this way? • What would you want to see before taking it seriously? • What mistakes do you think companies make when trying to become Bitcoin treasury companies? Appreciate any feedback, criticism, or ideas. Thanks.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/texas-names-bitcoin-reserve-committee) • 1d ago
+13h ago
 
 ---
 
@@ -149,73 +155,43 @@ Brendan Sorsby’s most recent betting scandal that has rocked the college sport
 
 ---
 
-**[I knew better. I still sold near the bottom.](https://www.reddit.com/r/Bitcoin/comments/1tradf3/i_knew_better_i_still_sold_near_the_bottom/)**
-
-When FTX collapsed, I genuinely thought Bitcoin might be finished. Not just another bear market. I mean finished. Regulation, contagion, trust destroyed. I sold most of my position somewhere around $16k telling myself I was being rational. Six months later I was buying back above $25k. The thing that bothers me most isn't the money. It's that I'd already lived through 2018. I knew what capitulation felt like. I'd read everything about not timing the market, about conviction, about long-term thinking. And when the moment came, none of it mattered. The fear was louder. What I've accepted since then is that understanding Bitcoin intellectually and actually holding through chaos are two completely different skills. One you develop reading. The other you only develop by getting it wrong a few times. I'm not sure conviction is something you build in advance. I think you find out if you have it when the moment is bad enough.Anyone else discover that knowing what to do and actually doing it are completely different things? Did the second cycle feel any easier?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger](https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger)**
+**[GOP lawmakers' portfolios are migrating to Trump favorites like Intel and bitcoin](https://finance.yahoo.com/economy/policy/article/gop-lawmakers-portfolios-are-migrating-to-trump-favorites-like-intel-and-bitcoin-100000503.html)**
 
-Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.
+Republican lawmakers' brokerage accounts have undergone a significant shift as GOP members of Congress load up on investments into areas touted by President Trump.
 
-CoinDesk • 17h ago
-
----
-
-**[Robinhood stock is surging — and bitcoin isn't the reason this time](https://finance.yahoo.com/markets/article/robinhood-stock-is-surging--and-bitcoin-isnt-the-reason-this-time-152104398.html)**
-
-Robinhood's AI-agent rollout is giving investors a new reason to buy the stock — and crypto is not part of it.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Bitcoin subdued near $74k as ETF demand cools; analyst warns downturn may extend](https://ng.investing.com/news/cryptocurrency-news/bitcoin-subdued-near-74k-as-etf-demand-cools-analyst-warns-downturn-may-extend-2536235)**
+**[XRP news: Ripple-linked ETFs drew inflows last week as bitcoin, ether funds lost $2 billion](https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report)**
 
-Investing.com Nigeria • 1h ago
+From May 20 to May 29, XRP funds took in $35 million while bitcoin and ether ETFs lost roughly $2 billion combined, with Ripple’s earlier reported XRP treasury plan still awaiting confirmation.
+
+CoinDesk • 13h ago
 
 ---
 
-**[Marathon Digital Bets Its Bitcoin Mining Power Assets Can Fuel AI Data Center Growth](https://finance.yahoo.com/markets/crypto/articles/marathon-digital-bets-bitcoin-mining-230225331.html)**
+**[🇺🇸 Citibank predicts Bitcoin will hit $189k in 2026](https://www.moomoo.com/community/feed/citibank-predicts-bitcoin-will-hit-189k-in-2026-116667038695429)**
 
-Marathon Digital (NASDAQ:MARA) Chairman and Chief Executive Officer Fred Thiel said the company’s push into AI and high-performance computing infrastructure has been a multiyear process built on its experience aggregating low-cost power and data center capacity for bitcoin mining. Speaking at TD Co
+@AltCoin Daily 1952 Views
 
-Yahoo Finance • 1h ago
+Moomoo • 1h ago
 
 ---
 
 **[Quick-thinking clerk, Crestwood officer save woman from $7,000 Bitcoin scam](https://fox2now.com/news/missouri/quick-thinking-clerk-crestwood-officer-save-woman-from-7000-bitcoin-scam/)**
 
-FOX 2 • 5h ago
+FOX 2 • 10h ago
 
 ---
 
 **[Bitcoin ATM operator files for bankruptcy as Florida tightens rules to avoid fraud](https://www.wfla.com/8-on-your-side/better-call-behnken/bitcoin-atm-operator-files-for-bankruptcy-as-florida-tightens-rules-to-avoid-fraud/)**
 
-WFLA • 22h ago
-
----
-
-**[US Bitcoin ETFs Bleed $2.8 Billion in Longest Outflow Streak](https://www.bloomberg.com/news/articles/2026-05-29/us-bitcoin-btc-etfs-bleed-2-8-billion-in-longest-outflow-streak)**
-
-Investors pulled money from US spot-Bitcoin exchange-traded funds for a ninth straight session, the longest run of withdrawals since the products debuted, underscoring a cooling in demand for the largest cryptocurrency even as broader risk assets rally.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Is Bitcoin Dead? Here Are 3 Reasons It Might Be.](https://www.fool.com/investing/2026/05/29/is-bitcoin-dead-here-are-3-reasons-why-it-might-be/)**
-
-Is this the end of the show for Bitcoin, or just an awkward intermission between acts?
-
-The Motley Fool • 1d ago
+WFLA • 1d ago
 
 ---
 
@@ -227,11 +203,33 @@ New Scientist • 1d ago
 
 ---
 
-**[Orange, Glow-in-the-Dark, And Gold Flaked — Coinkite’s MK5 Is Bitcoin Hardware Done Right](https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet)**
+**[Bitcoin subdued near $73k as ETF demand cools; analyst warns downturn may extend](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-etf-demand-cools-analyst-warns-downturn-may-extend-4717596)**
 
-Beautiful transparent designs meet serious security: Discover how Coinkite’s MK5 makes signing Bitcoin transactions faster and more satisfying than ever.
+Investing.com • 16h ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[US Bitcoin ETFs Bleed $2.8 Billion in Longest Outflow Streak](https://www.bloomberg.com/news/articles/2026-05-29/us-bitcoin-btc-etfs-bleed-2-8-billion-in-longest-outflow-streak)**
+
+Investors pulled money from US spot-Bitcoin exchange-traded funds for a ninth straight session, the longest run of withdrawals since the products debuted, underscoring a cooling in demand for the largest cryptocurrency even as broader risk assets rally.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid](https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid)**
+
+A Republican candidate jockeying to represent Florida’s 22nd Congressional District liquidated Bitcoin to help fuel his political bid.
+
+Decrypt • 13h ago
+
+---
+
+**[Is Bitcoin Dead? Here Are 3 Reasons It Might Be.](https://www.fool.com/investing/2026/05/29/is-bitcoin-dead-here-are-3-reasons-why-it-might-be/)**
+
+Is this the end of the show for Bitcoin, or just an awkward intermission between acts?
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -251,7 +249,7 @@ Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0
 
 ‘It’s not the hedge that I expected it to be,’ Cuban said
 
-⬆️ 7 • 💬 2 • 3d ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
+⬆️ 7 • 💬 2 • 4d ago • [Fortune](https://fortune.com/2026/05/26/mark-cuban-bitcoin-disappointed-crypto/)
 
 ---
 
@@ -259,7 +257,7 @@ Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0
 
 The bill would effectively turn miners into their own surveillance teams, collecting and reporting information to the government in exchange for economic favoritism.
 
-⬆️ 6 • 💬 0 • 3d ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
+⬆️ 6 • 💬 0 • 4d ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
 
 ---
 
@@ -323,27 +321,17 @@ Bitcoin is getting smoked while stocks rip to all time highs, and investors are 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 163 • ⏱️ 13:56 • 1d ago
+👁️ 23K • 👍 1K • 💬 162 • ⏱️ 13:56 • 1d ago
 
 ---
 
-**[Bitcoin is Getting CRUSHED By Everything — Here&#39;s Why!](https://www.youtube.com/watch?v=bgjbSsGRk0E)**
+**[Does Peter Thiel Know Michael Saylor&#39;s Bitcoin Is At Risk?](https://www.youtube.com/watch?v=fYEX5go_-uw)**
 
-Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asset on the board in 2026, but that may be the clearest ...
+Peter Thiel left the United States and bought a compound in Argentina while warning that America is collapsing. At the same time, ...
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 3K • 💬 346 • ⏱️ 15:50 • 2d ago
-
----
-
-**[JPMorgan CEO Delivers CHILLING Warning To Crypto Industry (You Have To See To Believe)](https://www.youtube.com/watch?v=iWkxICtP6OI)**
-
-Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 144 • ⏱️ 8:35 • 1d ago
+👁️ 17K • ⏱️ 29:19 • 7h ago
 
 ---
 
@@ -353,37 +341,27 @@ Join me LIVE for a free 90 minute masterclass where I'll help you build your own
 
 📺 Mark Moss
 
-👁️ 74K • 👍 3K • 💬 413 • ⏱️ 30:33 • 1d ago
+👁️ 81K • ⏱️ 30:33 • 1d ago
 
 ---
 
-**[Bitcoin Next Move is Massive (Get Ready)](https://www.youtube.com/watch?v=bZ0l2OKMewQ)**
+**[JPMorgan CEO Delivers CHILLING Warning To Crypto Industry (You Have To See To Believe)](https://www.youtube.com/watch?v=iWkxICtP6OI)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 17K • 👍 870 • 💬 124 • ⏱️ 55:21 • 1d ago
-
----
-
-**[Bitcoin: The Window of Weakness](https://www.youtube.com/watch?v=dIa8HUYDNEY)**
-
-Bitcoin has entered what many traders call the "Window of Weakness"—a period where seasonal trends, market psychology, and ...
-
-📺 Benjamin Cowen
-
-👁️ 64K • 👍 4K • 💬 184 • ⏱️ 23:28 • 1d ago
+👁️ 38K • 👍 2K • 💬 147 • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[Bitcoin Won&#39;t 100x Anymore – Anthony Pompliano](https://www.youtube.com/watch?v=7-6GWQXmfSc)**
+**[Bitcoin is Getting CRUSHED By Everything — Here&#39;s Why!](https://www.youtube.com/watch?v=bgjbSsGRk0E)**
 
-Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
+Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asset on the board in 2026, but that may be the clearest ...
 
-📺 Crypto Banter
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 111 • 💬 2 • ⏱️ 0:54 • 1d ago
+👁️ 44K • 👍 3K • 💬 345 • ⏱️ 15:50 • 2d ago
 
 ---
 
@@ -393,27 +371,47 @@ In this video we talk about a new Bitcoin price model: "Asymmetric Bitcoin Price
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 343 • ⏱️ 33:21 • 20h ago
+👁️ 63K • 👍 4K • 💬 356 • ⏱️ 33:21 • 1d ago
 
 ---
 
-**[Crypto Crash To LAST LINE Of Support! (Waited 13 Days For This)](https://www.youtube.com/watch?v=s8rLXMVvT0s)**
+**[Why Passive Income Comes Before Stocks and Bitcoin](https://www.youtube.com/watch?v=W5-dM8wd1tc)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+Most people are investing too early and building wealth in the wrong order. Stocks, Bitcoin, and meme coins will not save you if ...
+
+📺 Grant Cardone
+
+👁️ 8K • 👍 318 • 💬 134 • ⏱️ 8:48 • 1d ago
+
+---
+
+**[Bitcoin Holders: The US Government Is Seizing Crypto (Is This A Concern?)](https://www.youtube.com/watch?v=FhVMBOZbKS0)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 1K • ⏱️ 9:26 • 3h ago
+
+---
+
+**[Bitcoin Won&#39;t 100x Anymore – Anthony Pompliano](https://www.youtube.com/watch?v=7-6GWQXmfSc)**
+
+Live from Consensus Miami! Ran Neuner sits down with Anthony Pompliano for a massive crypto market breakdown. Is the 4-year ...
+
+📺 Crypto Banter
+
+👁️ 9K • ⏱️ 0:54 • 1d ago
+
+---
+
+**[The Crypto Bear Market Is Ending (Explained In 5 Minutes)](https://www.youtube.com/watch?v=4zJYlIzB1TA)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 582 • 💬 332 • ⏱️ 15:40 • 2d ago
-
----
-
-**[Watters: We have Iran by the bitcoins…](https://www.youtube.com/watch?v=SRhoWr-2LJU)**
-
-Fox News host Jesse Watters assesses the state of U.S.-Iran negotiations as Trump administration officials assert 'no dust, ...
-
-📺 Fox News
-
-👁️ 341K • 👍 8K • 💬 2K • ⏱️ 11:15 • 16h ago
+👁️ 10K • 👍 688 • 💬 200 • ⏱️ 5:47 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T00:11:00.072162+00:00'
+updated: '2026-05-31T05:01:48.304133+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 00:11 UTC  
+**Last Updated:** May 31, 2026 at 05:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-8h ago
+12h ago
 
 ---
 
@@ -44,21 +44,7 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
 
-13h ago
-
----
-
-**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
-
 18h ago
-
----
-
-**[Closeup of GT2 belt drive transferring 60kg torque in my 6DOF arm — built from scratch in India](https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/)**
-
-Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
-
-14h ago
 
 ---
 
@@ -66,19 +52,49 @@ Closeup of the belt drive transmission inside my core joint. Belt drive chosen s
 
 Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 360 and 3D printed, using a custom timing belt system for full wrist movement. MK1 will be a step up from my MK0 bionic hand, with 17 DOF, computer vision, and MediaPipe for gesture recognition. Next step — finger movement 🦾 https://reddit.com/link/1tsf18a/video/12fxn1dy0d4h1/player YouTube GitHub
 
-35m ago
+5h ago
+
+---
+
+**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
+
+23h ago
+
+---
+
+**[Made a text-to-cad generator for gears - would like some feedback](https://www.reddit.com/r/robotics/comments/1tsj271/made_a_texttocad_generator_for_gears_would_like/)**
+
+Hi everyone, I have been working on a text-to-cad generator for gears (eventually I'll incorporate other mechanical item). But I would like some people that need quick gear models for robotics or other projects to see if the UI makes sense, the cad models are accurate, and if it's a useful program in general. I've tried it myself and the gears are parametrically accurate with involute curve tooth profiles and seem to open perfectly in Solidworks. Also, the models look good when I bring them into my Bambu slicer for printing. Basically you just type a prompt like, "Make a spur gear with 32 teeth and a 2in pitch diameter", adjust any other feature dimensions as needed, then download the .STL or .step. If you're interested let me know or dm me. Thanks!
+
+2h ago
+
+---
+
+**[Closeup of GT2 belt drive transferring 60kg torque in my 6DOF arm — built from scratch in India](https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/)**
+
+Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
+
+19h ago
+
+---
+
+**[Simple Virtual Robotics Teaching Project](https://www.reddit.com/r/robotics/comments/1tsbdxj/simple_virtual_robotics_teaching_project/)**
+
+Hey everyone, I recently created what I think is a fun and engaging environment for teachers to teach concepts relating to computer literacy, programming, and robotics. I would love to hear opinions from anyone about it. Take a look, and let me know what you think. Ahead warning, there are no seriously difficult skills required to use the system, but the learning curve is just a "bit" steep at the beginning. If you hang in there and read the documentation, you will get a great idea of how it all works. Thanks so much for your time! NOTE: Yes, I agree that there is a hint of self-promotion in this post, but I am mostly interested in opinions, NOT exposure in terms of tip-conversion. Mods, if you think this is unreasonable, you know what to do, and I respect your decision. 😉 Here is the project link: https://eschaeffer.github.io/botbattles/
+
+8h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
-16h ago
+21h ago
 
 ---
 
 **[My current user interface/dashboard of my robot, with many new features: tilt-liddar automation, go section for collision, etc.](https://www.reddit.com/r/robotics/comments/1tsc1h6/my_current_user_interfacedashboard_of_my_robot/)**
 
-2h ago
+7h ago
 
 ---
 
@@ -86,23 +102,7 @@ Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 36
 
 I found this robot quite interesting and want to re-create it for variable length and simulate it on Gazebo and ROS. How to do this btw? Here is the paper for -> spirob paper.
 
-3h ago
-
----
-
-**[Booster takes penalty kicks and kicked a hole through the wall](https://www.reddit.com/r/robotics/comments/1tqxchz/booster_takes_penalty_kicks_and_kicked_a_hole/)**
-
-from: Booster Robotics on 𝕏: https://x.com/boosterobotics/status/2060224106524709299 Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2059996880214311127
-
-1d ago
-
----
-
-**[Built a tool for debugging robot policies in simulation. Looking for feedback](https://www.reddit.com/r/robotics/comments/1ts631o/built_a_tool_for_debugging_robot_policies_in/)**
-
-Hey everyone, I’ve been building a small tool for robotics/RL teams to test policies in simulation and make it easier to catch and inspect failure cases. I’m looking for a few people to try it out and share honest feedback. If you work with robot learning, simulation, Gym, MuJoCo, Isaac, or similar and this sounds useful, feel free to DM me.
-
-6h ago
+8h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hey everyone, I’ve been building a small tool for robotics/RL teams to test po
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 14h ago
+CNBC • 19h ago
 
 ---
 
@@ -150,19 +150,19 @@ eWeek • 1d ago
 
 ---
 
-**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
+**[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
 
-From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
+Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
 
-Bessemer Venture Partners • 2d ago
+NVIDIA Blog • 2d ago
 
 ---
 
-**[This creepy blob robot will keep going even if you break its legs](https://www.popsci.com/technology/unstoppable-blob-robot/)**
+**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus/)**
 
-While Argus looks like a sea urchin, its designers took cues from physics, not biology.
+Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-Popular Science • 10h ago
+ZME Science • 1d ago
 
 ---
 
@@ -170,23 +170,23 @@ Popular Science • 10h ago
 
 Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 17h ago
 
 ---
 
-**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
+**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
 
-ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
+From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
 
-Yahoo Finance • 2d ago
+Bessemer Venture Partners • 3d ago
 
 ---
 
-**[No, the robots spotted around Dallas World Cup sites are not scanning fans’ faces, company says](https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b)**
+**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
 
-A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
+Will humanoids redefine how battles are fought and won?
 
-WFAA • 1d ago
+Popular Mechanics • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 15K • 👍 320 • 💬 71 • ⏱️ 5:11 • 1d ago
+👁️ 17K • 👍 342 • 💬 72 • ⏱️ 5:11 • 1d ago
 
 ---
 
@@ -210,7 +210,17 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 45K • 👍 967 • 💬 38 • ⏱️ 10:21 • 3d ago
+👁️ 48K • 👍 1K • 💬 42 • ⏱️ 10:21 • 3d ago
+
+---
+
+**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
+
+The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
+
+📺 Ryan Shaw
+
+👁️ 47K • 👍 2K • 💬 296 • ⏱️ 29:20 • 13h ago
 
 ---
 
@@ -220,7 +230,7 @@ New Vulcan Robot has arrived. I had a feeling we were getting a new robot in thi
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 430 • 💬 83 • ⏱️ 13:43 • 12h ago
+👁️ 11K • 👍 482 • 💬 93 • ⏱️ 13:43 • 17h ago
 
 ---
 
@@ -234,13 +244,13 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 ---
 
-**[Engine AI Just Started Mass Producing Humanoid Robots](https://www.youtube.com/watch?v=S8_6iLPbu2A)**
+**[Delivery Robots Under Attack in LA😱](https://www.youtube.com/watch?v=_8nBMUUgSHo)**
 
-China's humanoid robot industry is accelerating fast as Engine AI officially launches its Intelligent Manufacturing Base in ...
+LA youths are ganging up on delivery robots.   Videos circulating online show young people in Los Angeles pushing over, ...
 
-📺 DPCcars
+📺 箭厂ArrowFactory Doc
 
-👁️ 18K • 👍 116 • 💬 85 • ⏱️ 1:55 • 2d ago
+👁️ 19K • 👍 36 • 💬 11 • ⏱️ 0:14 • 2d ago
 
 ---
 
@@ -250,25 +260,25 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 390 • 💬 92 • ⏱️ 13:36 • 1d ago
+👁️ 11K • 👍 392 • 💬 92 • ⏱️ 13:36 • 1d ago
 
 ---
 
-**[China Makes Half of the World’s Humanoid Robots 🤖#shorts #futuretech #facts #china #robotics](https://www.youtube.com/watch?v=FlW0662M-iA)**
+**[Does This Robot Excite You… or Terrify You? 😲😨](https://www.youtube.com/watch?v=KPV4malaHfI)**
 
-📺 Hidden Side of the World
+Does This Robot Excite You… or Terrify You? Humanoid robots are becoming more advanced — and some demonstrations ...
 
-👁️ 1K • 👍 21 • 💬 1 • ⏱️ 0:52 • 15h ago
+📺 Milopax
+
+👁️ 5K • 👍 86 • 💬 20 • ⏱️ 0:26 • 15h ago
 
 ---
 
-**[New KRAKEN Robot is here! War Robots SHOGGOTH 12.2 Update LIVE](https://www.youtube.com/watch?v=6qdKDy2a6Xo)**
+**[Aarti by robot #robotics #robosiddhi](https://www.youtube.com/watch?v=cBXvJst3PRI)**
 
-War Robots Gameplay: New Robot SHOGGOTH - The KRAKEN - WR My War Robots Creator Link: https://wr.my.games/manni ...
+📺 RoboSiddhi
 
-📺 Manni-Gaming
-
-👁️ 18K • 👍 678 • 💬 118 • ⏱️ 25:12 • 2d ago
+👁️ 808 • 👍 5 • ⏱️ 0:15 • 54m ago
 
 ---
 
@@ -278,17 +288,7 @@ The new ECOVACS GOAT A3000 LiDAR PRO doesn't just mow your lawn autonomously —
 
 📺 Pest and Lawn Ginja
 
-👁️ 5K • 👍 78 • 💬 26 • ⏱️ 11:40 • 1d ago
-
----
-
-**[No front, no back: just 20 legs and (a) vision #robotics  #techshorts #scienceshorts](https://www.youtube.com/watch?v=78brFANEgkA)**
-
-Meet Argus, a robot from Duke Engineering's General Robotics Lab that defies traditional design. Instead of looking like a person ...
-
-📺 Duke Engineering
-
-👁️ 19K • 👍 3K • 💬 106 • ⏱️ 1:50 • 2d ago
+👁️ 6K • 👍 86 • 💬 30 • ⏱️ 11:40 • 1d ago
 
 ---
 
