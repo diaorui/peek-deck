@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T05:01:48.300946+00:00'
+updated: '2026-05-31T08:25:54.573011+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 05:01 UTC  
+**Last Updated:** May 31, 2026 at 08:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,027.78
+### $2,029.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -3.8%  
-**30d:** -12.2%  
-**90d:** +2.6%  
-**1y:** -19.8%  
+**24h:** +0.5%  
+**7d:** -4.1%  
+**30d:** -12.5%  
+**90d:** +2.2%  
+**1y:** -20.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $245.11B
+**Market Cap:** $244.30B
 Rank #2
 
 **Circulating Supply:** 120,685,243 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.9%
+-59.1%
 
 **All-Time Low:** $0.43
-+468978.2%
++467416.9%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion May 31, 2026](https://www.reddit.com/r/ethereum/comments/1tslsdo/daily_general_discussion_may_31_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3h ago
+
+---
 
 **[Daily General Discussion May 30, 2026](https://www.reddit.com/r/ethereum/comments/1trqcd4/daily_general_discussion_may_30_2026/)**
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://finance.yahoo.com/markets/crypto/articles/paxos-wins-sec-clearing-agency-140600011.html Paxos currently supports PayPal’s stablecoin and tokenized gold mostly on ETH, but this will allow them to bring equities onto eth This is major bullish news
 
-1d ago
+2d ago
 
 ---
 
@@ -138,14 +146,6 @@ In this thread posted by the Everstake team they raise the point that "Past a ce
 
 ---
 
-**[Daily General Discussion May 27, 2026](https://www.reddit.com/r/ethereum/comments/1tovhuz/daily_general_discussion_may_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 5h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -182,19 +182,27 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Is Winning, But Its Token Holders Are Losing Faith.](https://www.forbes.com/sites/astanley/2026/05/30/ethereum-is-winning-but-its-token-holders-are-losing-faith/)**
-
-Ethereum the network has become the financial infrastructure its supporters always dreamed of. But ETH the token has taken a different turn
-
-Forbes • 5h ago
-
----
-
 **[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
 
 Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-TradingView • 12h ago
+TradingView • 16h ago
+
+---
+
+**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
+
+BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Ethereum Is Winning, But Its Token Holders Are Losing Faith.](https://www.forbes.com/sites/astanley/2026/05/30/ethereum-is-winning-but-its-token-holders-are-losing-faith/)**
+
+Ethereum the network has become the financial infrastructure its supporters always dreamed of. But ETH the token has taken a different turn
+
+Forbes • 9h ago
 
 ---
 
@@ -206,25 +214,17 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance](https://decrypt.co/369305/standard-chartered-reaffirms-40k-ethereum-price-target-defi-dominance)**
-
-Standard Chartered analysts argued in a note that Ethereum’s current price doesn’t reflect its network's improving metrics.
-
-Decrypt • 2d ago
-
----
-
 **[MicroStrategy Corrects Bitcoin Sell-Off Fears With $30 Million Withdrawal](https://beincrypto.com/microstrategy-bitcoin-sell-off-fears-reversal/)**
 
 Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
 
-BeInCrypto • 21h ago
+BeInCrypto • 1d ago
 
 ---
 
 **[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/early-signals-show-xrp-outpacing-ethereum-in-q2-can-it-happen/)**
 
-AMBCrypto • 13h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -238,17 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 542 • 💬 114 • ⏱️ 7:50 • 17h ago
-
----
-
-**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
-
-Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
-
-📺 The Rollup
-
-👁️ 4K • 👍 159 • 💬 29 • ⏱️ 36:57 • 9h ago
+👁️ 10K • 👍 579 • 💬 120 • ⏱️ 7:50 • 20h ago
 
 ---
 
@@ -258,7 +248,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 379 • 💬 75 • ⏱️ 18:46 • 12h ago
+👁️ 13K • 👍 432 • 💬 77 • ⏱️ 18:46 • 16h ago
+
+---
+
+**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
+
+Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
+
+📺 The Rollup
+
+👁️ 5K • 👍 177 • 💬 28 • ⏱️ 36:57 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 171 • 💬 39 • ⏱️ 20:38 • 1d ago
+👁️ 6K • 👍 178 • 💬 42 • ⏱️ 20:38 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 174 • 💬 34 • ⏱️ 7:41 • 1d ago
+👁️ 2K • 👍 175 • 💬 34 • ⏱️ 7:41 • 1d ago
 
 ---
 
@@ -288,17 +288,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 4K • 👍 91 • 💬 15 • ⏱️ 1:19 • 13h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Was Right, Kaspa Proves It!](https://www.youtube.com/watch?v=-pjrlWaJSYE)**
-
-Tangem 50% off your 2nd Tangem Card Set ➡ Until 25 May 20026 Tangem 20% off + UP TO $10 USD in Bitcoin ...
-
-📺 Your Crypto Crew
-
-👁️ 1K • 👍 98 • 💬 7 • ⏱️ 10:05 • 1d ago
+👁️ 5K • 👍 94 • 💬 22 • ⏱️ 1:19 • 16h ago
 
 ---
 
@@ -308,27 +298,37 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 413 • 💬 62 • ⏱️ 47:42 • 1d ago
+👁️ 5K • 👍 416 • 💬 62 • ⏱️ 47:42 • 1d ago
 
 ---
 
-**[🚨 Flash CRYPTO ⚡️ Le marché devient caliente 🥵 mauvais signal pour Ethereum et CKB Nervos 🛜](https://www.youtube.com/watch?v=Ry7oz3XqDaA)**
+**[Bitcoin &amp; Ethereum, alles läuft nach Plan, wir warten jetzt geduldig auf unsere Chance! NUTZE DAS!!](https://www.youtube.com/watch?v=pgJkwuQe32U)**
 
-Rejoignez nous sur Patreon pour soutenir le travail quotidien, retrouver les vidéos exclusives, le CPT Gang et la CPT Université ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + ...
 
-📺 Crypto ET Bourse pour Tous
+📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 567 • 💬 112 • ⏱️ 17:24 • 14h ago
+👁️ 1K • 👍 342 • 💬 38 • ⏱️ 13:33 • 3h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=p91V6raMQyA)**
+**[BITCOIN &amp; ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nfyqtcNvZzc)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+BITCOIN & ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Crypto Gyan
+📺 Crypto World
 
-👁️ 1K • 👍 97 • 💬 4 • ⏱️ 7:06 • 14h ago
+👁️ 3K • 👍 211 • 💬 211 • ⏱️ 17:41 • 6h ago
+
+---
+
+**[It&#39;s CLARITY Stupid!🔥Price Predictions Are Useless Right Now📉](https://www.youtube.com/watch?v=KElFoweJ3w8)**
+
+The CLARITY Act, which is still walking a tightrope, has yet to make it to the president's desk. Even though Trump has repeatedly ...
+
+📺 Paul Barron Network
+
+👁️ 30K • 👍 2K • 💬 99 • ⏱️ 8:24 • 2d ago
 
 ---
 
