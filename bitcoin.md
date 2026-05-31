@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-05-31T15:49:05.740056+00:00'
+updated: '2026-05-31T17:06:40.884764+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 15:49 UTC  
+**Last Updated:** May 31, 2026 at 17:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,681.89
+### $73,465.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -4.8%  
-**30d:** -6.4%  
-**90d:** +7.9%  
-**1y:** -30.2%  
+**24h:** -0.7%  
+**7d:** -5.0%  
+**30d:** -6.6%  
+**90d:** +7.6%  
+**1y:** -30.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1477.10B
+**Market Cap:** $1471.43B
 Rank #1
 
 **Circulating Supply:** 20,036,643 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--41.6%
+-41.8%
 
 **All-Time Low:** $67.81
-+108531.5%
++108145.1%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 Fifteen years ago, one of Bitcoin’s earliest pioneers offered a warning that continues echoing through crypto markets. Hal Finney argued that a monetary network cannot be rebooted without damaging the credibility of everything that follows. On May 30, 2011, Hal Finney and Jon Tobey entered a debate called “Early speculators’ reward.” Basically, it was a discussion on Bitcointalk, where the OP raised a question that has followed Bitcoin since its very first days – was it fair that early adopters mined or acquired coins before most people knew the network existed? Some participants argued that this early distribution amounted to a significant advantage – so large that the protocol itself should be relaunched. Finney rejected the premise with a response that was not just technical, but also rooted in economic logic. “Any successful replacement of the Bitcoin block chain will forever undermine the credibility of any successor. […] How is an investor to know that it won’t happen again?” Finney’s point seems simple now: if Bitcoin could be discarded because early users benefited, then any future replacement would inherit the same vulnerability, because there would be a new group of early adopters, a later group of users who resent them, and so forth – a vicious circle. His argument also anticipated what later became a core principle of Bitcoin: monetary networks depend not only on code but also on confidence, continuity, and credible resistance to arbitrary change. For the shitcoiners, standing in the back: If Bitcoin2 replaces Bitcoin, nothing is stopping from Bitcoin3 replacing Bitcoin2, Bitcoin4 replacing Bitcoin3... ...and the human kind will lose the only chance to have the perfect money.
 
-🔗 [CryptoPotato](https://cryptopotato.com/15-years-ago-hal-finney-explained-why-bitcoin-could-not-simply-be-replaced/) • 1h ago
+🔗 [CryptoPotato](https://cryptopotato.com/15-years-ago-hal-finney-explained-why-bitcoin-could-not-simply-be-replaced/) • 2h ago
 
 ---
 
 **[Texas is making a major move! They're shifting from just buying Bitcoin ETFs to directly purchasing spot BTC held in cold storage for their Strategic Bitcoin Reserve](https://www.reddit.com/r/Bitcoin/comments/1tsaet1/texas_is_making_a_major_move_theyre_shifting_from/)**
 
-19h ago
+20h ago
+
+---
+
+**[I created completely open-source crypto ticker project (easy to DIY)](https://www.reddit.com/r/Bitcoin/comments/1tszdx1/i_created_completely_opensource_crypto_ticker/)**
+
+I have created my version of crypto ticker. Features: - display current crypto and stock prices with chart - display analog clock with porsche like gauge - set timer or stopwatch Only thing needed for the build is Waveshare ESP32-S3 Touch AMOLED 1.75" Display and 3d printed enclosure. repo for firmware: https://github.com/market-viewer/firmware whole project: https://github.com/market-viewer (i would be very grateful for github stars ⭐) There is also an android app (also open-source), from which you can setup the screens and all details on the screens. You can also self-host the backend service that it runs on. I would love to get some feedback from you. What could be improved? What features would you welcome?
+
+1h ago
 
 ---
 
@@ -95,7 +103,15 @@ Fifteen years ago, one of Bitcoin’s earliest pioneers offered a warning that c
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
+
+---
+
+**[Btc workshops](https://www.reddit.com/r/Bitcoin/comments/1tsz30b/btc_workshops/)**
+
+So I’ve been working my usual job for a while but have passions in tech, public speaking and bitcoin outside of work that I do research in and wanted to know if in person workshops of how to learn skills are still able to make money as am willing to work for free after work to teach people and then create more advanced classes for people still face to face and offer online seminars eventually. I want to know thoughts and some ways I could test the market like using FB events and see if I get any bites as there is a scarce supply of people teaching the stuff I know. Any feedback is helpful! I’m not trying to sell anything I just want feedback from the market:)
+
+1h ago
 
 ---
 
@@ -103,13 +119,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hey gang! Big market maker on HodlHodl here. Unfortunately I recently received bad news and that will be causing the spread to go up. HodlHodl used to have a fee of 0.5%. This made it so I could charge a reasonable 3% for BTC. Unfortunately this will be causing the total spread to be about 4.5% which feels unreasonable to me. “After many years without changes, we're adjusting our fees. The new structure is: • 0.75% from the seller and 0.75% from the buyer • 1.5% origination fee on every lending contract Thank you for being with us. The Hodl Hodl Team” On the old fee amount: $10,000 order would have a $50 fee (from HodlHodl) Now: $10,000 order would have $150 fee (from HodlHodl)
 
-15h ago
+17h ago
 
 ---
 
 **[Value is always in the eyes of the beholder](https://www.reddit.com/r/Bitcoin/comments/1tsad40/value_is_always_in_the_eyes_of_the_beholder/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -117,7 +133,7 @@ Hey gang! Big market maker on HodlHodl here. Unfortunately I recently received b
 
 #1: Harmony and Discord Bitcoin experts talk often of consensus, whose meaning is abstract and hard to pin down. But the word consensus evolved from the Latin word concentus, "a singing together, harmony,"\1]) so let us talk not of Bitcoin consensus but of Bitcoin harmony. Harmony is what makes Bitcoin work. Thousands of full nodes each work independently to verify the transactions they receive are valid, producing a harmonious agreement about the state of the Bitcoin ledger without any node operator needing to trust anyone else. It's similar to a chorus where each member sings the same song at the same time to produce something far more beautiful than any of them could produce alone. The result of Bitcoin harmony is a system where bitcoins are safe not just from petty thieves (provided you keep your keys secure) but also from endless inflation, mass or targeted confiscation, or simply the bureaucratic morass that is the legacy financial system. Discord Discord is the enemy of harmony. If, in the great chorus of Bitcoin full nodes, half the singers decided to suddenly switch tunes, the harmony would be lost. In its place would be two smaller singing groups who try to out sing each other (or who may compete through less scrupulous means), leaving everyone worse off. This is what a contentious hard fork has the potential to do. Some people will program their full nodes to sing one song; other people will program their full nodes to sing a different song. In the cacophony that results, there will surely be confusion, recriminations, and loss of confidence. For this reason, contentious hard forks are to be avoided. But this doesn't mean we have to sing the same song forever. We have other options. The first is gathering widespread agreement to change to a new song---to hard fork the system without giving discord a foothold. The second way is to add new layers to the existing harmony. A chorus will often sing accompaniment to an orchestra, and together they can entertain audiences neither of them could have pleased alone. Soft forks are the preferred method for adding new features to Bitcoin because they allow old nodes to continue to sing the same old song (unless they're miners), while new nodes get to partake in the expanded choices. Given two forking paths to the same feature, a soft fork is the safer option because it leaves no room for discord, and no risk that the essential harmony that underlies Bitcoin's security will be lost. [1] Cassell's Latin Dictionary, Wiley Publishing, fifth ed.
 
-🔗 [bitcointalk.org](https://bitcointalk.org/dec/p1.html) • 1h ago
+🔗 [bitcointalk.org](https://bitcointalk.org/dec/p1.html) • 3h ago
 
 ---
 
@@ -133,23 +149,7 @@ We are currently facing a silent but acute crisis where our economic system has 
 
 Hey After a few weeks of building, I finally launched my side project The concept is simple — the 'latte factor' is a well-known personal finance idea, but no tool showed it in Bitcoin terms. So I built one. What it does: Enter any daily habit (coffee, Netflix, gym, eating out — anything) Set a time horizon and growth scenario (Bear / Base / Bull / Hyperbull) See exactly what that habit costs you in Bitcoin terms Includes a Freedom Planner showing your sovereignty milestone timeline Example: $6 per day coffee habit → 10 years at Base CAGR → $138K in BTC you didn't stack Tech stack: Astro + Vercel + CoinGecko API for live BTC price No signup, no ads, completely free. Would love feedback on UX, features, anything! https://www.lattecalc.com/
 
-22h ago
-
----
-
-**[Major UX upgrades to Mk5](https://www.reddit.com/r/Bitcoin/comments/1trzelo/major_ux_upgrades_to_mk5/)**
-
-Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet https://bitcoinmagazine.com/business/coinkite-launches-coldcard-mk5-major-ux-upgrades-to-flagship-bitcoin-hardware-wallet
-
 1d ago
-
----
-
-**[I trade across 3 exchanges and kept losing track of my real P&L, so I built my own trading journal, looking for ideas.](https://www.reddit.com/r/Bitcoin/comments/1ts4qlc/i_trade_across_3_exchanges_and_kept_losing_track/)**
-
-I trade mostly BTC across OKX, Bybit and Pionex, and I am constantly switching between apps and accounts was driving me crazy. Whenever I had profits I'd buy more BTC, then lose track of how much I bought, where I sent it, and what it was actually worth, it's a real pain. I tried using Excel but it took forever to enter everything by hand, and it takes a lot of time. So I built a journal that keeps track of all of it in one place — spot trades, futures trades, and my bots — with live prices and a single consolidated P&L view. It's in early alpha and free, so it still has rough edges. A few things I'd love feedback on: How do you currently keep track of your trades across multiple exchanges? What makes Excel (or your current journal) annoying for you? What would you actually need from a journal to switch to it? Open to any feedback or criticism. Please help.
-
-23h ago
 
 ---
 
@@ -165,47 +165,39 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[XRP news: Ripple-linked ETFs drew inflows last week as bitcoin, ether funds lost $2 billion](https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report)**
+**[Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger](https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger)**
 
-From May 20 to May 29, XRP funds took in $35 million while bitcoin and ether ETFs lost roughly $2 billion combined, with Ripple’s earlier reported XRP treasury plan still awaiting confirmation.
+Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.
 
 CoinDesk • 1d ago
 
 ---
 
-**[This desktop Bitcoin miner won’t turn your room into a furnace — and it’s just $40](https://www.popsci.com/sponsored-content/this-desktop-bitcoin-miner-wont-turn-your-room-into-a-furnace-and-its-cheap-sponsored-deal/)**
+**[How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs](https://finance.yahoo.com/markets/crypto/articles/president-trump-immigration-order-feed-154918178.html)**
 
-Instead of a full-scale mining rig, this is a compact standalone device designed to sit right on your desk quietly running in the background.
+When the Trump family faced pressure from banks, it embraced crypto. Now, immigrants who are in the U.S. illegally face a similar choice.
 
-Popular Science • 2h ago
-
----
-
-**[Why Satoshi Nakamoto's disappearance adds to bitcoin's lore](https://finance.yahoo.com/video/why-satoshi-nakamotos-disappearance-adds-130000119.html)**
-
-Just who exactly is Satoshi Nakamoto, the man who mined the first bitcoin (BTC-USD) block in January 2009 and his disappeared from the public eye in 2011? Scott Melker dives into bitcoin's origin story and the man who is attributed in discovering the cryptocurrency. “The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news. Also catch Yahoo Finance's interview with Blockstream CEO Adam Back, who denies speculations by the crypto community that Satoshi Nakamoto is his pseudonym.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin And Ethereum Bled This Week - But These 4 Altcoins Jumped, One Up 157%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-bled-week-4-125724634.html)**
+**[1 Top Cryptocurrency to Buy Before It Soars 1,600%, According to Cathie Wood of Ark Invest](https://finance.yahoo.com/markets/crypto/articles/1-top-cryptocurrency-buy-soars-154400363.html)**
 
-Altcoins surged, but Don Wedge called it a “setup, not signal,” as Scott Melker warned the “altcoin casino” was killed.
+Bitcoin could soar to a price of $1.25 million within the next 5 years.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Quick-thinking clerk, Crestwood officer save woman from $7,000 Bitcoin scam](https://fox2now.com/news/missouri/quick-thinking-clerk-crestwood-officer-save-woman-from-7000-bitcoin-scam/)**
 
-FOX 2 • 20h ago
+FOX 2 • 22h ago
 
 ---
 
-**[Bitcoin steadies above $73k as CME launches 24/7 crypto futures trading](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-73k-as-cme-launches-247-crypto-futures-trading-4717830)**
+**[Bitcoin slides but above $73k as CME launches 24/7 crypto futures trading](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-73k-as-cme-launches-247-crypto-futures-trading-4717830)**
 
-Investing.com • 6h ago
+Investing.com • 8h ago
 
 ---
 
@@ -217,15 +209,25 @@ New Scientist • 2d ago
 
 ---
 
-**[Bitcoin ATM operator files for bankruptcy as Florida tightens rules to avoid fraud](https://www.wfla.com/8-on-your-side/better-call-behnken/bitcoin-atm-operator-files-for-bankruptcy-as-florida-tightens-rules-to-avoid-fraud/)**
+**[It Will ‘Blow Up’—JPMorgan CEO Issues ‘Huge’ Crypto And Bitcoin Price Prediction](https://www.forbes.com/sites/digital-assets/2026/05/31/it-will-blow-up-jpmorgan-ceo-issues-huge-crypto-and-bitcoin-price-prediction/)**
 
-WFLA • 1d ago
+JPMorgan chief executive Jamie Dimon has issued a stark warning over president Donald Trump’s crypto market structure bill…
+
+Forbes • 5h ago
 
 ---
 
-**[Why Cathie Wood Is Pounding the Table for $750,000 Bitcoin: A New Generation Loves Crypto to Hedge Against Inflation](https://www.barchart.com/story/news/2218821/why-cathie-wood-is-pounding-the-table-for-750-000-bitcoin-a-new-generation-loves-crypto-to-hedge-against-inflation)**
+**[US Bitcoin ETFs Bleed $2.8 Billion in Longest Outflow Streak](https://www.bloomberg.com/news/articles/2026-05-29/us-bitcoin-btc-etfs-bleed-2-8-billion-in-longest-outflow-streak)**
 
-Barchart.com • 20h ago
+Investors pulled money from US spot-Bitcoin exchange-traded funds for a ninth straight session, the longest run of withdrawals since the products debuted, underscoring a cooling in demand for the largest cryptocurrency even as broader risk assets rally.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin ATM operator files for bankruptcy as Florida tightens rules to avoid fraud](https://www.wfla.com/8-on-your-side/better-call-behnken/bitcoin-atm-operator-files-for-bankruptcy-as-florida-tightens-rules-to-avoid-fraud/)**
+
+WFLA • 1d ago
 
 ---
 
@@ -237,7 +239,7 @@ Barchart.com • 20h ago
 
 Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
 
-⬆️ 43 • 💬 0 • 3d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
+⬆️ 43 • 💬 0 • 4d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
 
 ---
 
@@ -317,7 +319,7 @@ Peter Thiel left the United States and bought a compound in Argentina while warn
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 410 • ⏱️ 29:19 • 18h ago
+👁️ 31K • 👍 2K • 💬 380 • ⏱️ 29:19 • 19h ago
 
 ---
 
@@ -327,7 +329,17 @@ Bitcoin is getting smoked while stocks rip to all time highs, and investors are 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 163 • ⏱️ 13:56 • 1d ago
+👁️ 24K • 👍 1K • 💬 161 • ⏱️ 13:56 • 1d ago
+
+---
+
+**[Bitcoin Is About To DEVOUR $300 Trillion - Strive CEO Matt Cole](https://www.youtube.com/watch?v=qx4yUWBQ-FQ)**
+
+Bitcoin #Crypto #Finance Matt Cole managed a $70 billion Treasury portfolio, had direct access to the Fed and Treasury during ...
+
+📺 The Wolf Of All Streets
+
+👁️ 4K • 👍 339 • 💬 139 • ⏱️ 31:21 • 4h ago
 
 ---
 
@@ -337,7 +349,7 @@ Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.we
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 150 • ⏱️ 8:35 • 1d ago
+👁️ 41K • 👍 2K • 💬 151 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -347,17 +359,7 @@ Join me LIVE for a free 90 minute masterclass where I'll help you build your own
 
 📺 Mark Moss
 
-👁️ 91K • 👍 4K • 💬 456 • ⏱️ 30:33 • 1d ago
-
----
-
-**[Bitcoin: Asymmetric Tail Curvature in Bitcoin Price Quantiles](https://www.youtube.com/watch?v=uFn3KUE-VTI)**
-
-In this video we talk about a new Bitcoin price model: "Asymmetric Bitcoin Price Quantiles" Read the paper: ...
-
-📺 Benjamin Cowen
-
-👁️ 72K • 👍 5K • 💬 376 • ⏱️ 33:21 • 1d ago
+👁️ 94K • 👍 4K • 💬 474 • ⏱️ 30:33 • 1d ago
 
 ---
 
@@ -367,17 +369,17 @@ Get In Early. These 3 Crypto Coins Will Make Millionaires By 2027. ⭐ Follow Al
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 282 • ⏱️ 10:10 • 18h ago
+👁️ 31K • 👍 2K • 💬 254 • ⏱️ 10:10 • 19h ago
 
 ---
 
-**[$10M Bitcoin NOW - Trump Moves for 1,000,000 BTC](https://www.youtube.com/watch?v=BCnMx2bUVCQ)**
+**[Bitcoin Live Trading Alerts!](https://www.youtube.com/watch?v=oS2AfCDP7pc)**
 
-Subscribe. Before the reserve race becomes obvious. The White House says a Strategic Bitcoin Reserve announcement is ...
+Bitcoin Dump or Pump? Either way doesn't matter! Zen Master JP will find the winning trades! Get up to $8000 in bonuses with ...
 
-📺 Bitcoin News Alerts
+📺 Sin City Crypto
 
-👁️ 3K • 👍 201 • 💬 129 • ⏱️ 16:24 • 17h ago
+👁️ 11K • ⏱️ 8:40:50 • 9h ago
 
 ---
 
@@ -387,17 +389,17 @@ Bitcoin is underperforming stocks, gold, silver, AI, and almost every major asse
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 3K • 💬 337 • ⏱️ 15:50 • 2d ago
+👁️ 45K • 👍 3K • 💬 337 • ⏱️ 15:50 • 2d ago
 
 ---
 
-**[Why Passive Income Comes Before Stocks and Bitcoin](https://www.youtube.com/watch?v=W5-dM8wd1tc)**
+**[Bitcoin: Asymmetric Tail Curvature in Bitcoin Price Quantiles](https://www.youtube.com/watch?v=uFn3KUE-VTI)**
 
-Most people are investing too early and building wealth in the wrong order. Stocks, Bitcoin, and meme coins will not save you if ...
+In this video we talk about a new Bitcoin price model: "Asymmetric Bitcoin Price Quantiles" Read the paper: ...
 
-📺 Grant Cardone
+📺 Benjamin Cowen
 
-👁️ 10K • 👍 362 • 💬 138 • ⏱️ 8:48 • 1d ago
+👁️ 76K • 👍 5K • 💬 387 • ⏱️ 33:21 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ Bitcoin has entered what many traders call the "Window of Weakness"—a period w
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 193 • ⏱️ 23:28 • 2d ago
+👁️ 68K • 👍 4K • 💬 196 • ⏱️ 23:28 • 2d ago
 
 ---
 

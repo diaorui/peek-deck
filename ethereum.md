@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T15:49:05.746259+00:00'
+updated: '2026-05-31T17:06:40.888922+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 15:49 UTC  
+**Last Updated:** May 31, 2026 at 17:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,009.90
+### $2,001.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -4.8%  
-**30d:** -13.2%  
-**90d:** +1.4%  
-**1y:** -20.7%  
+**24h:** -1.3%  
+**7d:** -5.3%  
+**30d:** -13.6%  
+**90d:** +0.9%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.48B
+**Market Cap:** $241.35B
 Rank #2
 
 **Circulating Supply:** 120,685,243 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.3%
+-59.6%
 
 **All-Time Low:** $0.43
-+465197.4%
++461442.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -158,11 +158,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin And Ethereum Bled This Week - But These 4 Altcoins Jumped, One Up 157%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-bled-week-4-125724634.html)**
+**[Ethereum Weekly Price Forecast: Onchain data paints bearish picture](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-onchain-data-paints-bearish-picture-202605301536)**
 
-Altcoins surged, but Don Wedge called it a “setup, not signal,” as Scott Melker warned the “altcoin casino” was killed.
+Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
 
-Yahoo Finance • 2h ago
+FXStreet • 1d ago
 
 ---
 
@@ -170,23 +170,23 @@ Yahoo Finance • 2h ago
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[Base launches Azul on mainnet, pushing Coinbase's Ethereum L2 toward full decentralization](https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization)**
+**[Standard Chartered compares Ethereum to Amazon during 2001 dot-com bubble burst, says ETH will catch up to internal metrics](https://www.theblock.co/post/402864/standard-chartered-ethereum-amazon-dot-com-bubble-eth-will-catch-up)**
 
-Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.
+Standard Chartered Bank has maintained its ether price targets of $4,000 by end-2026 and $40,000 by end-2030.
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
-**['Ethereum Wins The Scoreboard,' Says SharpLink CEO, Comparing ETH's Long Game To Bezos's Amazon Bet](https://www.tradingview.com/news/stocktwits:f1dc057ce094b:0-ethereum-wins-the-scoreboard-says-sharplink-ceo-comparing-eth-s-long-game-to-bezos-s-amazon-bet/)**
+**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
 
-Joseph Chalom, Chief Executive Officer (CEO) of Ethereum (ETH) treasury firm SharpLink Inc. (SBET), stated in an interview on Saturday on the RollUp platform that recent criticism targeting the Ethereum network and its foundation is "noise" that loses sight of the bigger picture.Chalom, who has 20…
+Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-TradingView • 6h ago
+TradingView • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 6h ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -206,17 +206,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Weekly Price Forecast: Onchain data paints bearish picture](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-onchain-data-paints-bearish-picture-202605301536)**
+**[Moonwell proposes initial launch on Ethereum mainnet with MIP-E00](https://cryptobriefing.com/moonwell-ethereum-mainnet-mip-e00/)**
 
-Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
-
-FXStreet • 1d ago
-
----
-
-**[Vitalik Buterin warns Ethereum ecosystem against OpenAI’s path in EthCC speech](https://cryptobriefing.com/vitalik-buterin-ethereum-openai-ethcc-warning/)**
-
-Vitalik Buterin used his EthCC 2025 keynote to warn the Ethereum ecosystem against following OpenAI's centralized path, proposing three tests for true decentralization.
+Moonwell's MIP-E00 proposal seeks to deploy ETH, USDC, USDT, and cbBTC lending markets on Ethereum mainnet, with 99.9% early voting support and a 65.2M WELL quorum requirement.
 
 Crypto Briefing • 1d ago
 
@@ -230,6 +222,12 @@ Bit Digital • 3d ago
 
 ---
 
+**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/?p=603525)**
+
+AMBCrypto • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 626 • 💬 163 • ⏱️ 7:50 • 1d ago
+👁️ 11K • 👍 641 • 💬 174 • ⏱️ 7:50 • 1d ago
 
 ---
 
@@ -250,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 501 • 💬 92 • ⏱️ 18:46 • 23h ago
+👁️ 17K • 👍 528 • 💬 97 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -260,27 +258,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 6K • 👍 225 • 💬 42 • ⏱️ 36:57 • 20h ago
-
----
-
-**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
-
-MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
-
-📺 Linda CryptoFly
-
-👁️ 2K • 👍 178 • 💬 49 • ⏱️ 7:41 • 1d ago
-
----
-
-**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
-
-Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 113 • 💬 21 • ⏱️ 1:19 • 23h ago
+👁️ 7K • 👍 250 • 💬 44 • ⏱️ 36:57 • 21h ago
 
 ---
 
@@ -290,7 +268,17 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 183 • 💬 49 • ⏱️ 20:38 • 1d ago
+👁️ 6K • 👍 186 • 💬 50 • ⏱️ 20:38 • 2d ago
+
+---
+
+**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
+
+MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
+
+📺 Linda CryptoFly
+
+👁️ 2K • 👍 179 • 💬 49 • ⏱️ 7:41 • 2d ago
 
 ---
 
@@ -300,7 +288,17 @@ This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom
 
 📺 The BarterTown Conglomerate
 
-👁️ 88 • 👍 2 • ⏱️ 1:00:53 • 3h ago
+👁️ 116 • 👍 2 • ⏱️ 1:00:53 • 5h ago
+
+---
+
+**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
+
+Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 118 • 💬 24 • ⏱️ 1:19 • 1d ago
 
 ---
 
@@ -310,27 +308,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 195 • 👍 33 • ⏱️ 6:48 • 2h ago
+👁️ 523 • 👍 71 • ⏱️ 6:48 • 3h ago
 
 ---
 
-**[ETH WILL RALLY IF THIS LEVEL BREAKS (Ethereum Update)](https://www.youtube.com/watch?v=F0nx7ThHHo0)**
+**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
 
-📺 Cilinix Crypto
+📺 CryptoWendyO
 
-👁️ 145 • 👍 12 • 💬 1 • ⏱️ 4:37 • 5h ago
+👁️ 5K • 👍 452 • 💬 82 • ⏱️ 47:42 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=nfyqtcNvZzc)**
+**[It&#39;s CLARITY Stupid!🔥Price Predictions Are Useless Right Now📉](https://www.youtube.com/watch?v=KElFoweJ3w8)**
 
-BITCOIN & ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+The CLARITY Act, which is still walking a tightrope, has yet to make it to the president's desk. Even though Trump has repeatedly ...
 
-📺 Crypto World
+📺 Paul Barron Network
 
-👁️ 5K • 👍 257 • 💬 334 • ⏱️ 17:41 • 14h ago
+👁️ 31K • 👍 2K • 💬 110 • ⏱️ 8:24 • 2d ago
 
 ---
 

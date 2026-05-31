@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-31T15:49:05.301736+00:00"
+          "dateModified": "2026-05-31T17:06:40.575172+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,74 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tsz5vl/connected_a_reachy_mini_to_gpt_realtime_2/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Mm1sNzluMWt2aDRoMRa5Etp1rS309wo_jfbjQasft7PnxZMC7fMAEyhkiaAa.png?width=640&crop=smart&auto=webp&s=4aa8b69afb3217a79506d670375743a0f3bef76b" alt="Connected a Reachy Mini to GPT Realtime 2" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tsz5vl/connected_a_reachy_mini_to_gpt_realtime_2/" target="_blank" onclick="event.stopPropagation();">Connected a Reachy Mini to GPT Realtime 2</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Found a Reachy Mini lying around the office and spent an hour giving it a real-time voice brain via GPT Realtime 2. The model basically becomes Reachy. It hears through its mic, sees through its camera, talks through its speaker, and calls motion tools to physically react while it talks. For anyone who wants to do this, here's the repo: https://github.com/opper-ai/reachy-voice-realtime Note: most of the delay is just our turn-detection silence window (set long because we were in a noisy room), which is tunable in the repo, the model itself is built for low-latency speech-to-speech. Key things: Web UI to watch the camera feed, transcript, and tool calls live. 19 motion and perception tools the model calls mid-conversation (emotes, head/antenna/body movement, camera, sound direction). Mimics you, wave and it waves back, nod and it nods, tilt your head and it tilts. Runs on GPT Realtime 2, routed through Opper. Setup's in the README (Python 3.12+), MIT licensed.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780243026.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tszjfm/how_often_do_your_designs_fail/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tszjfm/how_often_do_your_designs_fail/" target="_blank" onclick="event.stopPropagation();">How often do your designs fail ?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I recently had a comment said to me in which someone asked “do you even know if your robots will work?” And I said “yes” to which they scoffed. For context - I’ve been working with cable driven robots (continuum) which is very difficult in comparison to rigid serial link systems from my experience, and it’s taking a lot of trial and error on each design. I’ll have a really good outcome from one robot (shorter in length, good shaping) , and then go to design the next one to be a bit longer and have a completely different outcome (robot has self weight issues, buckling, etc) I’m primarily self taught with these systems and it’s quite a niche field in robotics - yet I’m just curious as to what everyone else’s experience is when designing and building real things that move. I may be taking this comment to heart but it’s really stuck with me in a negative way. I’d love to hear anyone else’s experiences and what they do to keep going.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780243854.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ts3y40/fully_3d_printed_walle_with_functional_tracks/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -649,39 +717,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/" target="_blank" onclick="event.stopPropagation();">Anyone have experience with an Agibot G1? Looking for ROS2 advice.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780216713.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tswgd6/ra_b601dm_ros2_monitoring_overlay_open_source/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -708,6 +743,74 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1780236732.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tsucwl/does_there_any_alternative_for_pancake_brushless/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/47qndg3pxg4h1.png?width=140&height=64&auto=webp&s=0d2555f175ce25299de8cff6921b5f0193c6dae4" alt="Does there any Alternative for pancake brushless motor for robotics" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tsucwl/does_there_any_alternative_for_pancake_brushless/" target="_blank" onclick="event.stopPropagation();">Does there any Alternative for pancake brushless motor for robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi. I saw a lot of people on YouTube use pancake brushless motor for their robotics, such as robot dog But the problem is it is very very expensive https://preview.redd.it/47qndg3pxg4h1.png?width=1566&format=png&auto=webp&s=9bdd07815b19eebfde8719c3dc2aa806187c44e1 So does there any perfect alternative for it I know about servo motor, but the motion space and speed is not the best
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780231442.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/" target="_blank" onclick="event.stopPropagation();">Anyone have experience with an Agibot G1? Looking for ROS2 advice.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780216713.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -785,41 +888,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tsucwl/does_there_any_alternative_for_pancake_brushless/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/47qndg3pxg4h1.png?width=140&height=64&auto=webp&s=0d2555f175ce25299de8cff6921b5f0193c6dae4" alt="Does there any Alternative for pancake brushless motor for robotics" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tsucwl/does_there_any_alternative_for_pancake_brushless/" target="_blank" onclick="event.stopPropagation();">Does there any Alternative for pancake brushless motor for robotics</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi. I saw a lot of people on YouTube use pancake brushless motor for their robotics, such as robot dog But the problem is it is very very expensive https://preview.redd.it/47qndg3pxg4h1.png?width=1566&format=png&auto=webp&s=9bdd07815b19eebfde8719c3dc2aa806187c44e1 So does there any perfect alternative for it I know about servo motor, but the motion space and speed is not the best
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780231442.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tsuak8/whats_your_biggest_pain_point_when_debugging_rl/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -844,39 +912,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1780231260.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tsmmm6/will_i_find_a_job_with_robotics_and_automation/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1tsmmm6/will_i_find_a_job_with_robotics_and_automation/" target="_blank" onclick="event.stopPropagation();">Will I find a job with Robotics and Automation Technology Degree(A.A.S)?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/Robotics-Automation-Technology-Associate-of-Applie .What jobs should I apply for?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780206342.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -917,39 +952,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/" target="_blank" onclick="event.stopPropagation();">Closeup of GT2 belt drive transferring 60kg torque in my 6DOF arm — built from scratch in India</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780134463.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -973,7 +975,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-31T15:48:42.610601+00:00">Updated 2026-05-31T15:48:42.610601+00:00</small>
+        <small data-timestamp="2026-05-31T17:06:19.571332+00:00">Updated 2026-05-31T17:06:19.571332+00:00</small>
     </div>
 </div>
 
@@ -1323,20 +1325,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/05/Robot-1.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/" target="_blank" onclick="event.stopPropagation();">NVIDIA Research Advances Robotics From Simulation to the Real World</a>
+                            <a href="https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub" target="_blank" onclick="event.stopPropagation();">China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
+                            Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
                         </div>
                         
 
@@ -1346,9 +1348,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NVIDIA Blog" class="news-favicon">
-                                    <a href="https://blogs.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Blog</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
                                     
                                 </div>
                                 
@@ -1356,7 +1358,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779973698.0"></span>
+                                    <span data-timestamp="1780142160.0"></span>
                                 </div>
                                 
                             </div>
@@ -1364,20 +1366,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wfaa.com/assets/WFAA/images/b38fcc30-6b21-4205-a90f-b6c5330ad053/20260529T222904/b38fcc30-6b21-4205-a90f-b6c5330ad053_1140x641.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://hips.hearstapps.com/hmg-prod/images/b4e5a49f-daa2-46d7-9552-b8ac59009f64.jpeg?crop=1xw:0.889xh;0xw,0.072xh&resize=1200:*');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b" target="_blank" onclick="event.stopPropagation();">No, the robots spotted around Dallas World Cup sites are not scanning fans’ faces, company says</a>
+                            <a href="https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/" target="_blank" onclick="event.stopPropagation();">Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
+                            Will humanoids redefine how battles are fought and won?
                         </div>
                         
 
@@ -1387,9 +1389,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wfaa.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WFAA" class="news-favicon">
-                                    <a href="https://www.wfaa.com" target="_blank" onclick="event.stopPropagation();">WFAA</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.popularmechanics.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Popular Mechanics" class="news-favicon">
+                                    <a href="https://www.popularmechanics.com" target="_blank" onclick="event.stopPropagation();">Popular Mechanics</a>
                                     
                                 </div>
                                 
@@ -1397,7 +1399,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1780097460.0"></span>
+                                    <span data-timestamp="1779979500.0"></span>
                                 </div>
                                 
                             </div>
@@ -1405,20 +1407,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.popsci.com/technology/unstoppable-blob-robot/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2026/05/31/humanoid-robots-etf-stocks-best-to-buy/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.popsci.com/wp-content/uploads/2026/05/sea-urchin-robot-lead.png?quality=85&w=1200');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872456%2Fbest-humanoid-robot-stocks-etf-to-buy-ai-robotics-stocks-nvda-tesla-boston-dynamics.png&w=1200&op=resize');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.popsci.com/technology/unstoppable-blob-robot/" target="_blank" onclick="event.stopPropagation();">This creepy blob robot will keep going even if you break its legs</a>
+                            <a href="https://www.fool.com/investing/2026/05/31/humanoid-robots-etf-stocks-best-to-buy/" target="_blank" onclick="event.stopPropagation();">Interested in Humanoid Robot Stocks? You Might Consider Buying This Humanoid Robotics ETF</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            While Argus looks like a sea urchin, its designers took cues from physics, not biology.
+                            This humanoid robotics ETF (KOID) has been performing wonderfully, though it's only been in existence for about a year.
                         </div>
                         
 
@@ -1428,9 +1430,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.popsci.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Popular Science" class="news-favicon">
-                                    <a href="https://www.popsci.com" target="_blank" onclick="event.stopPropagation();">Popular Science</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Motley Fool" class="news-favicon">
+                                    <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
                                     
                                 </div>
                                 
@@ -1438,7 +1440,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1780149780.0"></span>
+                                    <span data-timestamp="1780239742.0"></span>
                                 </div>
                                 
                             </div>
@@ -1524,20 +1526,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://news.rice.edu/sites/g/files/bxs2656/files/2026-05/00bart_9.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis" target="_blank" onclick="event.stopPropagation();">Clinical trial seeks to advance intuitive assistive robotics for people with paralysis</a>
+                            <a href="https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/" target="_blank" onclick="event.stopPropagation();">NVIDIA Research Advances Robotics From Simulation to the Real World</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
+                            Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
                         </div>
                         
 
@@ -1547,9 +1549,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.rice.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Rice University" class="news-favicon">
-                                    <a href="https://news.rice.edu" target="_blank" onclick="event.stopPropagation();">Rice University</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NVIDIA Blog" class="news-favicon">
+                                    <a href="https://blogs.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Blog</a>
                                     
                                 </div>
                                 
@@ -1557,7 +1559,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1779976831.0"></span>
+                                    <span data-timestamp="1779973698.0"></span>
                                 </div>
                                 
                             </div>
@@ -1585,7 +1587,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-31T15:49:00.254650+00:00">Updated 2026-05-31T15:49:00.254650+00:00</small>
+        <small data-timestamp="2026-05-31T17:06:33.897123+00:00">Updated 2026-05-31T17:06:33.897123+00:00</small>
     </div>
 </div>
 
@@ -1817,7 +1819,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 62K</span>
+                                    <span style="color: #9ca3af;">👁️ 65K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1826,7 +1828,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 353</span>
+                                    <span style="color: #9ca3af;">💬 370</span>
                                 </div>
                                 
                             </div>
@@ -1837,138 +1839,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1780156813.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=21BzAy5YEuE', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/21BzAy5YEuE/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">19:39</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=21BzAy5YEuE" target="_blank" onclick="event.stopPropagation();">The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj" alt="TEDx Talks" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q" target="_blank" onclick="event.stopPropagation();">TEDx Talks</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 23K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 568</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 87</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1780067709.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=PyGkn9DYm9s', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/PyGkn9DYm9s/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">10:21</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=PyGkn9DYm9s" target="_blank" onclick="event.stopPropagation();">This $440 Million Startup Is Solving Robotics’ Biggest Problem</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nulMc6GNIrLUi_wcTCKojfsfro0dsNLAueuj4edxt_Kl4T=s88-c-k-c0x00ffffff-no-rj" alt="Forbes" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCmh7afBz-uWwOSSNTqUBAhg" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 52K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 48</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1779900883.0"></span>
                                 </div>
                                 
                             </div>
@@ -2015,11 +1885,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 18K</span>
+                                    <span style="color: #9ca3af;">👁️ 19K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 369</span>
+                                    <span style="color: #9ca3af;">👍 381</span>
                                 </div>
                                 
                                 
@@ -2035,6 +1905,138 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1780031352.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=PyGkn9DYm9s', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/PyGkn9DYm9s/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">10:21</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=PyGkn9DYm9s" target="_blank" onclick="event.stopPropagation();">This $440 Million Startup Is Solving Robotics’ Biggest Problem</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Meet Generalist, the startup that says the next big leap in robotics won't come from fancier humanoid hardware. It will come from ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nulMc6GNIrLUi_wcTCKojfsfro0dsNLAueuj4edxt_Kl4T=s88-c-k-c0x00ffffff-no-rj" alt="Forbes" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCmh7afBz-uWwOSSNTqUBAhg" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 54K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 48</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1779900883.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=21BzAy5YEuE', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/21BzAy5YEuE/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">19:39</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=21BzAy5YEuE" target="_blank" onclick="event.stopPropagation();">The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj" alt="TEDx Talks" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q" target="_blank" onclick="event.stopPropagation();">TEDx Talks</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 25K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 623</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 94</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1780067709.0"></span>
                                 </div>
                                 
                             </div>
@@ -2085,12 +2087,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 477</span>
+                                    <span style="color: #9ca3af;">👍 493</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 86</span>
+                                    <span style="color: #9ca3af;">💬 88</span>
                                 </div>
                                 
                             </div>
@@ -2108,24 +2110,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=uHfzK3wmZQM', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jMXW18haA0I', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/uHfzK3wmZQM/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jMXW18haA0I/hqdefault.jpg');">
                         
-                        <span class="duration-badge">18:41</span>
+                        <span class="duration-badge">0:27</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=uHfzK3wmZQM" target="_blank" onclick="event.stopPropagation();">NEW AI Robots Are Becoming TOO Human to Ignore... This Changes Everything</a>
+                            <a href="https://www.youtube.com/watch?v=jMXW18haA0I" target="_blank" onclick="event.stopPropagation();">This Robot Can Tell If Your Choke Actually Works</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 might be the year everything changes!
+                            This advanced jiu-jitsu training robot uses built-in sensors to detect when a choke is applied correctly. It can also move its arms ...
                         </div>
                         
 
@@ -2136,9 +2138,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/iUd6Yh-p8MachfBY-dZdrYOGId8wA8YtAW2L3_QLyoCPmM-tNqc_xe7vb_plJlYdcZqLJGovzA=s88-c-k-c0x00ffffff-no-rj" alt="The AI Nexus" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/B2pQrHWTYysAPF2rjgD7MpR2iImzQ2BHqPsITXEWpVnxM9BruKanTwr_oDlTHEkvNZn8S6l8eg=s88-c-k-c0x00ffffff-no-rj" alt="ENERG FACTS" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCGEdlrtxWPKsZEPKV2Wsepg" target="_blank" onclick="event.stopPropagation();">The AI Nexus</a>
+                                    <a href="https://www.youtube.com/channel/UC0sVLCvwPvCTQ-RQIEf1lqQ" target="_blank" onclick="event.stopPropagation();">ENERG FACTS</a>
                                 </div>
                                 
                             </div>
@@ -2150,13 +2152,9 @@
                                     <span style="color: #9ca3af;">👁️ 7K</span>
                                 </div>
                                 
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 154</span>
-                                </div>
-                                
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 21</span>
+                                    <span style="color: #9ca3af;">💬 6</span>
                                 </div>
                                 
                             </div>
@@ -2166,7 +2164,73 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1779903004.0"></span>
+                                    <span data-timestamp="1780218017.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=_8nBMUUgSHo', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/_8nBMUUgSHo/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:14</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=_8nBMUUgSHo" target="_blank" onclick="event.stopPropagation();">Delivery Robots Under Attack in LA😱</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            LA youths are ganging up on delivery robots.   Videos circulating online show young people in Los Angeles pushing over, ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_mPcv6JRxHX3A3jLfPWGA2HEBfVCCrulFVmoRfobJa6kg=s88-c-k-c0x00ffffff-no-rj" alt="箭厂ArrowFactory Doc" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw" target="_blank" onclick="event.stopPropagation();">箭厂ArrowFactory Doc</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 23K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 40</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 12</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1779958689.0"></span>
                                 </div>
                                 
                             </div>
@@ -2217,7 +2281,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 524</span>
+                                    <span style="color: #9ca3af;">👍 534</span>
                                 </div>
                                 
                                 
@@ -2233,134 +2297,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1780141388.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=_8nBMUUgSHo', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/_8nBMUUgSHo/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:14</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=_8nBMUUgSHo" target="_blank" onclick="event.stopPropagation();">Delivery Robots Under Attack in LA😱</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            LA youths are ganging up on delivery robots.   Videos circulating online show young people in Los Angeles pushing over, ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_mPcv6JRxHX3A3jLfPWGA2HEBfVCCrulFVmoRfobJa6kg=s88-c-k-c0x00ffffff-no-rj" alt="箭厂ArrowFactory Doc" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC_9AeV5Riy9AsIJZEsnsCDw" target="_blank" onclick="event.stopPropagation();">箭厂ArrowFactory Doc</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 21K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 40</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 12</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1779958689.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=jMXW18haA0I', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/jMXW18haA0I/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:27</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=jMXW18haA0I" target="_blank" onclick="event.stopPropagation();">This Robot Can Tell If Your Choke Actually Works</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            This advanced jiu-jitsu training robot uses built-in sensors to detect when a choke is applied correctly. It can also move its arms ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/B2pQrHWTYysAPF2rjgD7MpR2iImzQ2BHqPsITXEWpVnxM9BruKanTwr_oDlTHEkvNZn8S6l8eg=s88-c-k-c0x00ffffff-no-rj" alt="ENERG FACTS" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC0sVLCvwPvCTQ-RQIEf1lqQ" target="_blank" onclick="event.stopPropagation();">ENERG FACTS</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1780218017.0"></span>
                                 </div>
                                 
                             </div>
@@ -2434,6 +2370,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=uHfzK3wmZQM', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/uHfzK3wmZQM/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">18:41</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=uHfzK3wmZQM" target="_blank" onclick="event.stopPropagation();">NEW AI Robots Are Becoming TOO Human to Ignore... This Changes Everything</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 might be the year everything changes!
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/iUd6Yh-p8MachfBY-dZdrYOGId8wA8YtAW2L3_QLyoCPmM-tNqc_xe7vb_plJlYdcZqLJGovzA=s88-c-k-c0x00ffffff-no-rj" alt="The AI Nexus" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCGEdlrtxWPKsZEPKV2Wsepg" target="_blank" onclick="event.stopPropagation();">The AI Nexus</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 7K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 154</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 21</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1779903004.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -2454,7 +2456,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-31T14:17:33.528814+00:00">Updated 2026-05-31T14:17:33.528814+00:00</small>
+        <small data-timestamp="2026-05-31T17:06:27.481080+00:00">Updated 2026-05-31T17:06:27.481080+00:00</small>
     </div>
 </div>
 
