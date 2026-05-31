@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T10:30:27.974405+00:00'
+updated: '2026-05-31T12:02:26.438363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 10:30 UTC  
+**Last Updated:** May 31, 2026 at 12:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-18h ago
-
----
-
-**[Anyone have experience with an Agibot G1? Looking for ROS2 advice.](https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/)**
-
-Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
-
-1h ago
+19h ago
 
 ---
 
@@ -56,11 +48,27 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 ---
 
+**[Anyone have experience with an Agibot G1? Looking for ROS2 advice.](https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/)**
+
+Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
+
+3h ago
+
+---
+
 **[Will I find a job with Robotics and Automation Technology Degree(A.A.S)?](https://www.reddit.com/r/robotics/comments/1tsmmm6/will_i_find_a_job_with_robotics_and_automation/)**
 
 https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/Robotics-Automation-Technology-Associate-of-Applie .What jobs should I apply for?
 
-4h ago
+6h ago
+
+---
+
+**[How would I be able to have 4 arms ?](https://www.reddit.com/r/robotics/comments/1tsslzq/how_would_i_be_able_to_have_4_arms/)**
+
+Ok, weird title, but I’ve just woken up wondering if it’s possible to create an EXTRA prosthetic Since prosthetics are normally built around missing body parts I was curious if new body parts could be added, and how would the nervous system would work with it I don’t know any tiny bit of robotics But I’m super excited with this idea! And I’d like to know your guys takes on this
+
+41m ago
 
 ---
 
@@ -74,7 +82,7 @@ https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/R
 
 Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 360 and 3D printed, using a custom timing belt system for full wrist movement. MK1 will be a step up from my MK0 bionic hand, with 17 DOF, computer vision, and MediaPipe for gesture recognition. Next step — finger movement 🦾 https://reddit.com/link/1tsf18a/video/12fxn1dy0d4h1/player YouTube GitHub
 
-10h ago
+12h ago
 
 ---
 
@@ -90,7 +98,7 @@ Closeup of the belt drive transmission inside my core joint. Belt drive chosen s
 
 Hi everyone, I have been working on a text-to-cad generator for gears (eventually I'll incorporate other mechanical item). But I would like some people that need quick gear models for robotics or other projects to see if the UI makes sense, the cad models are accurate, and if it's a useful program in general. I've tried it myself and the gears are parametrically accurate with involute curve tooth profiles and seem to open perfectly in Solidworks. Also, the models look good when I bring them into my Bambu slicer for printing. Basically you just type a prompt like, "Make a spur gear with 32 teeth and a 2in pitch diameter", adjust any other feature dimensions as needed, then download the .STL or .step. If you're interested let me know or dm me. Thanks!
 
-7h ago
+9h ago
 
 ---
 
@@ -98,13 +106,7 @@ Hi everyone, I have been working on a text-to-cad generator for gears (eventuall
 
 Hey everyone, I recently created what I think is a fun and engaging environment for teachers to teach concepts relating to computer literacy, programming, and robotics. I would love to hear opinions from anyone about it. Take a look, and let me know what you think. Ahead warning, there are no seriously difficult skills required to use the system, but the learning curve is just a "bit" steep at the beginning. If you hang in there and read the documentation, you will get a great idea of how it all works. Thanks so much for your time! NOTE: Yes, I agree that there is a hint of self-promotion in this post, but I am mostly interested in opinions, NOT exposure in terms of tip-conversion. Mods, if you think this is unreasonable, you know what to do, and I respect your decision. 😉 Here is the project link: https://eschaeffer.github.io/botbattles/
 
-13h ago
-
----
-
-**[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
-
-1d ago
+15h ago
 
 ---
 
@@ -125,6 +127,14 @@ CNBC • 1d ago
 BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
 
 BBC • 2d ago
+
+---
+
+**[Inside China's push for global dominance: Evs, robotics, AI, pandas](https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587)**
+
+An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
+
+NBC News • 18m ago
 
 ---
 
@@ -160,14 +170,6 @@ ZME Science • 1d ago
 
 ---
 
-**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
-
-From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
-
-Bessemer Venture Partners • 3d ago
-
----
-
 **[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
 
 Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
@@ -176,19 +178,19 @@ NVIDIA Blog • 2d ago
 
 ---
 
+**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
+
+From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
+
+Bessemer Venture Partners • 3d ago
+
+---
+
 **[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub)**
 
 Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
 
-Interesting Engineering • 22h ago
-
----
-
-**[No, the robots spotted around Dallas World Cup sites are not scanning fans’ faces, company says](https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b)**
-
-A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
-
-WFAA • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -222,7 +224,7 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 59K • 👍 2K • 💬 334 • ⏱️ 29:20 • 18h ago
+👁️ 59K • 👍 2K • 💬 334 • ⏱️ 29:20 • 20h ago
 
 ---
 
@@ -232,7 +234,7 @@ New Vulcan Robot has arrived. I had a feeling we were getting a new robot in thi
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 512 • 💬 95 • ⏱️ 13:43 • 22h ago
+👁️ 12K • 👍 512 • 💬 95 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -242,7 +244,7 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 399 • 💬 95 • ⏱️ 13:36 • 1d ago
+👁️ 11K • 👍 399 • 💬 95 • ⏱️ 13:36 • 2d ago
 
 ---
 
@@ -252,7 +254,7 @@ Does This Robot Excite You… or Terrify You? Humanoid robots are becoming more 
 
 📺 Milopax
 
-👁️ 6K • 👍 96 • 💬 20 • ⏱️ 0:26 • 20h ago
+👁️ 6K • 👍 96 • 💬 20 • ⏱️ 0:26 • 22h ago
 
 ---
 

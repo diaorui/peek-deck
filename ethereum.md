@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T10:30:27.971601+00:00'
+updated: '2026-05-31T12:02:26.435601+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 10:30 UTC  
+**Last Updated:** May 31, 2026 at 12:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -4.5%  
-**30d:** -12.8%  
-**90d:** +1.8%  
-**1y:** -20.3%  
+**24h:** +0.2%  
+**7d:** -4.2%  
+**30d:** -12.6%  
+**90d:** +2.1%  
+**1y:** -20.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 SharpLink beats ETFs with permanent capital, near-full staking, $200 million restaking, and 6%-to-47% institutional ownership, said CEO Joseph Chalom.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 57m ago
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 2d ago
 
 Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 18h ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -210,7 +210,7 @@ Seeking Alpha • 4h ago
 
 Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
 
-FXStreet • 18h ago
+FXStreet • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 1d ago
 
 **[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/?p=603525)**
 
-AMBCrypto • 18h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 10K • 👍 597 • 💬 121 • ⏱️ 7:50 • 22h ago
+👁️ 10K • 👍 597 • 💬 121 • ⏱️ 7:50 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 457 • 💬 85 • ⏱️ 18:46 • 18h ago
+👁️ 14K • 👍 457 • 💬 85 • ⏱️ 18:46 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 6K • 👍 198 • 💬 29 • ⏱️ 36:57 • 15h ago
+👁️ 6K • 👍 198 • 💬 29 • ⏱️ 36:57 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 422 • 💬 44 • ⏱️ 13:33 • 5h ago
+👁️ 2K • 👍 422 • 💬 44 • ⏱️ 13:33 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 104 • 💬 16 • ⏱️ 1:19 • 18h ago
+👁️ 6K • 👍 104 • 💬 16 • ⏱️ 1:19 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 4K • 👍 226 • 💬 266 • ⏱️ 17:41 • 8h ago
+👁️ 4K • 👍 226 • 💬 266 • ⏱️ 17:41 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ Rejoignez nous sur Patreon pour soutenir le travail quotidien, retrouver les vid
 
 📺 Crypto ET Bourse pour Tous
 
-👁️ 3K • 👍 617 • 💬 115 • ⏱️ 17:24 • 19h ago
+👁️ 3K • 👍 617 • 💬 115 • ⏱️ 17:24 • 21h ago
 
 ---
 
