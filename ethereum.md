@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T14:17:42.500001+00:00'
+updated: '2026-05-31T15:49:05.746259+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 14:17 UTC  
+**Last Updated:** May 31, 2026 at 15:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,013.57
+### $2,009.90
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -4.6%  
-**30d:** -12.9%  
-**90d:** +1.7%  
-**1y:** -20.4%  
+**24h:** -0.8%  
+**7d:** -4.8%  
+**30d:** -13.2%  
+**90d:** +1.4%  
+**1y:** -20.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -158,11 +158,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin And Ethereum Bled This Week - But These 4 Altcoins Jumped, One Up 157%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-bled-week-4-125724634.html)**
+
+Altcoins surged, but Don Wedge called it a “setup, not signal,” as Scott Melker warned the “altcoin casino” was killed.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -178,7 +186,7 @@ The Block • 2d ago
 
 Joseph Chalom, Chief Executive Officer (CEO) of Ethereum (ETH) treasury firm SharpLink Inc. (SBET), stated in an interview on Saturday on the RollUp platform that recent criticism targeting the Ethereum network and its foundation is "noise" that loses sight of the bigger picture.Chalom, who has 20…
 
-TradingView • 4h ago
+TradingView • 6h ago
 
 ---
 
@@ -186,7 +194,7 @@ TradingView • 4h ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -202,7 +210,7 @@ CoinDesk • 2d ago
 
 Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
 
-FXStreet • 22h ago
+FXStreet • 1d ago
 
 ---
 
@@ -214,15 +222,11 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/?p=603525)**
+**[Bit Digital Purchases $20 Million of Ethereum, Deepening Its Strategic Asset Position](https://bit-digital.com/press-releases/bit-digital-purchases-20-million-of-ethereum-deepening-its-strategic-asset-position/)**
 
-AMBCrypto • 22h ago
+Bit Digital, Inc. (NASDAQ: BTBT), today announced the purchase of approximately 8,568 Ethereum ("ETH") for $20 million USD.
 
----
-
-**[Can ethereum reclaim 2021 highs versus bitcoin?](https://www.investing.com/news/cryptocurrency-news/can-ethereum-reclaim-2021-highs-versus-bitcoin-4714837)**
-
-Investing.com • 2d ago
+Bit Digital • 3d ago
 
 ---
 
@@ -246,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 501 • 💬 92 • ⏱️ 18:46 • 22h ago
+👁️ 16K • 👍 501 • 💬 92 • ⏱️ 18:46 • 23h ago
 
 ---
 
@@ -256,7 +260,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 6K • 👍 225 • 💬 42 • ⏱️ 36:57 • 19h ago
+👁️ 6K • 👍 225 • 💬 42 • ⏱️ 36:57 • 20h ago
 
 ---
 
@@ -276,7 +280,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 113 • 💬 21 • ⏱️ 1:19 • 22h ago
+👁️ 6K • 👍 113 • 💬 21 • ⏱️ 1:19 • 23h ago
 
 ---
 
@@ -296,7 +300,7 @@ This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom
 
 📺 The BarterTown Conglomerate
 
-👁️ 88 • 👍 2 • ⏱️ 1:00:53 • 2h ago
+👁️ 88 • 👍 2 • ⏱️ 1:00:53 • 3h ago
 
 ---
 
@@ -306,7 +310,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 195 • 👍 33 • ⏱️ 6:48 • 1h ago
+👁️ 195 • 👍 33 • ⏱️ 6:48 • 2h ago
 
 ---
 
@@ -316,7 +320,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 145 • 👍 12 • 💬 1 • ⏱️ 4:37 • 4h ago
+👁️ 145 • 👍 12 • 💬 1 • ⏱️ 4:37 • 5h ago
 
 ---
 
@@ -326,7 +330,7 @@ BITCOIN & ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 257 • 💬 334 • ⏱️ 17:41 • 12h ago
+👁️ 5K • 👍 257 • 💬 334 • ⏱️ 17:41 • 14h ago
 
 ---
 

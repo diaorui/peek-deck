@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T14:17:42.502829+00:00'
+updated: '2026-05-31T15:49:05.749566+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 14:17 UTC  
+**Last Updated:** May 31, 2026 at 15:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-22h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
 
-5h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platf
 
 https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda1ca704cadc43c8713b1f998096483772a77 The reBot Arm B601-DM has been open-sourced recently and their ROS2 driver is solid! But what I missed during my first sessions was a quick way to see if the hardware was actually healthy, so I built rebotarm_monitor: a small ROS 2 overlay for passive hardware monitoring & future observability planned. It watches the boring (but useful stuff); stale topics, value jumps, weird torques, unexpected status flags, and surfaces it as a standard diagnostic tree you can open in rqt_robot_monitor. Every threshold is a standard ROS2 parameter, so you can tune rates, jumps, velocity, torque or idle behaviour from YAML or launch args without touching code. Give me a star if you found it usefull x) https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2
 
-5m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-10m ago
+1h ago
 
 ---
 
@@ -76,7 +76,7 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 Hi. I saw a lot of people on YouTube use pancake brushless motor for their robotics, such as robot dog But the problem is it is very very expensive https://preview.redd.it/47qndg3pxg4h1.png?width=1566&format=png&auto=webp&s=9bdd07815b19eebfde8719c3dc2aa806187c44e1 So does there any perfect alternative for it I know about servo motor, but the motion space and speed is not the best
 
-1h ago
+3h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi. I saw a lot of people on YouTube use pancake brushless motor for their robot
 
 For people training RL agents: What part of debugging takes the most time for you? Examples: - figuring out why policy suddenly collapsed - replaying bad episodes - comparing runs - reward debugging - environment bugs - logging / tracking experiments - visualizing failure cases What do you currently do for it? Scripts? WandB? Manual inspection?
 
-1h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ For people training RL agents: What part of debugging takes the most time for yo
 
 https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/Robotics-Automation-Technology-Associate-of-Applie .What jobs should I apply for?
 
-8h ago
+10h ago
 
 ---
 
@@ -102,11 +102,11 @@ https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/R
 
 ---
 
-**[I Built a Custom Wrist Mechanism for My Bionic Hand.](https://www.reddit.com/r/robotics/comments/1tsf18a/i_built_a_custom_wrist_mechanism_for_my_bionic/)**
+**[Closeup of GT2 belt drive transferring 60kg torque in my 6DOF arm — built from scratch in India](https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/)**
 
-Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 360 and 3D printed, using a custom timing belt system for full wrist movement. MK1 will be a step up from my MK0 bionic hand, with 17 DOF, computer vision, and MediaPipe for gesture recognition. Next step — finger movement 🦾 https://reddit.com/link/1tsf18a/video/12fxn1dy0d4h1/player YouTube GitHub
+Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-14h ago
+1d ago
 
 ---
 
@@ -134,7 +134,7 @@ BBC • 2d ago
 
 An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
 
-NBC News • 2h ago
+NBC News • 4h ago
 
 ---
 
@@ -142,15 +142,7 @@ NBC News • 2h ago
 
 Mechanical hands dexterous enough to thread a needle, childlike dancing robots and adult-sized ones to help with deliveries were on display Thursday as the Humanoids Summit Tokyo opened.
 
-KSL.com • 1d ago
-
----
-
-**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus/)**
-
-Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
-
-ZME Science • 1d ago
+KSL News • 1d ago
 
 ---
 
@@ -170,27 +162,33 @@ WFAA • 1d ago
 
 ---
 
-**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
+**[This creepy blob robot will keep going even if you break its legs](https://www.popsci.com/technology/unstoppable-blob-robot/)**
 
-Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
+While Argus looks like a sea urchin, its designers took cues from physics, not biology.
 
-The Frederick News-Post • 2d ago
-
----
-
-**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
-
-ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
-
-Yahoo Finance • 3d ago
+Popular Science • 1d ago
 
 ---
 
-**[The Robotics Stock Nobody’s Talking About Already Has a $23 Billion Backlog](https://investorplace.com/smartmoney/2026/05/robotics-stock-23-billion-backlog/)**
+**[‘Arms race’: why investors can’t let go of robotic hand developers in China](https://www.scmp.com/tech/article/3355365/unicorn-born-record-time-amid-arms-race-among-chinas-robotic-hand-developers)**
 
-Even as Tesla breaks ground on a dedicated Optimus factory, I see a compelling alternative. It’s a company that directly competes with Optimus… but unlike Tesla, it’s already an established robotics player with a clear first-mover advantage.
+South China Morning Post • 1d ago
 
-InvestorPlace • 2d ago
+---
+
+**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
+
+Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
+
+Fox News • 2d ago
+
+---
+
+**[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
+
+Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
+
+Rice University • 3d ago
 
 ---
 
@@ -204,7 +202,7 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 62K • 👍 2K • 💬 353 • ⏱️ 29:20 • 22h ago
+👁️ 62K • 👍 2K • 💬 353 • ⏱️ 29:20 • 23h ago
 
 ---
 
@@ -214,7 +212,7 @@ NOTE FROM TED: TEDx events are independently organized by volunteers. The guidel
 
 📺 TEDx Talks
 
-👁️ 23K • 👍 568 • 💬 87 • ⏱️ 19:39 • 1d ago
+👁️ 23K • 👍 568 • 💬 87 • ⏱️ 19:39 • 2d ago
 
 ---
 
@@ -284,7 +282,7 @@ This advanced jiu-jitsu training robot uses built-in sensors to detect when a ch
 
 📺 ENERG FACTS
 
-👁️ 5K • 💬 3 • ⏱️ 0:27 • 5h ago
+👁️ 5K • 💬 3 • ⏱️ 0:27 • 6h ago
 
 ---
 

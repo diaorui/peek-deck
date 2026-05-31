@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-31T14:17:42.487147+00:00'
+updated: '2026-05-31T15:49:05.731301+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 31, 2026 at 14:17 UTC  
+**Last Updated:** May 31, 2026 at 15:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I have been using it heavily for about a year and lately I notice I can almost feel when something was written by it. There is a certain rhythm to it, the way it structures paragraphs, the way it wraps up with a summary sentence, the way transitions feel slightly too smooth. It is hard to explain but once you see it you cannot unsee it. What I find interesting is that even after editing ChatGPT output pretty heavily those patterns seem to stick around at a sentence level. The words change but something underneath stays the same. I started verifying this with Lynote ai detector and the results were eye opening, it picked up sentence level patterns even after significant rewrites where other tools saw nothing. Makes me wonder how much of what we read online right now has that same fingerprint sitting underneath it and we just do not realize it yet. Has anyone else started noticing this or developed a sense for spotting it just from reading?
 
-1h ago
+3h ago
+
+---
+
+**[I Tried to Sell My House With a Chatbot](https://www.reddit.com/r/artificial/comments/1tsuqf2/i_tried_to_sell_my_house_with_a_chatbot/)**
+
+A NYT tech reporter out of all people just sold his house for $605,000 using nothing but AI. This is the second time I have heard of AI helping someone sell their house. I'm sure there are many more examples. The part that got me was during negotiations, the chatbot had to physically stop him from typing "I'm not playing games" — and then explained exactly why that phrase destroys your leverage. The author ends with a line that stuck with me — he says real estate agents are heading the way of travel agents. Still useful for people who want the hand-holding, but no longer essential for anyone willing to do the work. Are we watching an entire profession get quietly hollowed out in real time?
+
+🔗 [promptainews.com](https://promptainews.com/posts/ai-is-your-new-realtor) • 2h ago
 
 ---
 
@@ -49,31 +57,7 @@ I have been using it heavily for about a year and lately I notice I can almost f
 
 For Context: I work in a semiconductor manufacturing company as a modelling engineer, I use some modelling softwares etc but none of them use AI. I wanted to understand the whole AI craze nowadays, people say that AI will replace jobs/Increase productivity and I don't get it at all. All I see is a simple chatbot (ChatGPT) which is a super impressive version of google and can solve some basic math/science questions and Co-Pilot in my workplace which I found to be useless, for example the facilitator thing which is supposed to make meeting notes is so bad at summaring meeting minutes etc. I don't think AI is there yet to do very basic things. So yes in theory if AI gets better in few years/decades sure it take the non-technical part of my job like making meeting minutes/making ppt's etc but I think its still not there yet. For AI to take over my job it needs to get the basic shit correct first and then maybe it can do the technical stuff. One really good use-case of AI that i can see is to generate Code based on the project requirement, So I can see how entry level coder's jobs might be affected sure, but that's a very small portion of the economy, right?
 
-11m ago
-
----
-
-**[Has anyone here actually switched from Opus to GPT-5.5 for daily coding?](https://www.reddit.com/r/artificial/comments/1tsv8od/has_anyone_here_actually_switched_from_opus_to/)**
-
-I’ve been switching back and forth between Opus and GPT-5.5 lately, mostly for coding, debugging and product/spec writing. My rough feeling so far: GPT-5.5 feels better as a daily “get things done” model. It’s fast enough, usually smart enough, and feels more cost-effective for normal builder work. Opus still feels stronger when I’m stuck on something messy, like architecture decisions, weird bugs, or when I want a second opinion that thinks a bit differently. A few people around me have also started using GPT-5.5 more often, but I’m not sure if that’s just hype / novelty bias. Curious what people here are actually using: What’s your default model right now? Is Opus still worth the extra cost for you? For coding specifically, which model helps you ship faster? Do you use one model for daily work and another for harder reasoning?
-
-55m ago
-
----
-
-**[Why Pope Leo is right to call on EU to disarm lethal AI weapons](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)**
-
-Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
-
-🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 18h ago
-
----
-
-**[Society Is About To Change. And No One Is Ready | Richard Hames meets Garrison Lovely](https://www.reddit.com/r/artificial/comments/1tss605/society_is_about_to_change_and_no_one_is_ready/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=OXozPnrCibk) • 3h ago
+1h ago
 
 ---
 
@@ -81,7 +65,37 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Imagine a procurement agent doing exactly what it was supposed to do. A supplier flags a delay. The agent reads the email, finds the affected PO, scans the network for alternate inventory, and reroutes the order. Twelve seconds, end to end. In a demo, the room nods. Someone asks about hallucinations. The vendor says the right things about guardrails. Everyone walks away reassured. The interesting question is a different one. Not whether the agent could be wrong — but what happens on the day it's completely, devastatingly right. The failure mode nobody is demoing: A financial agent told to minimise cost on a category executes a renegotiation perfectly. Margin is squeezed. Terms are tightened. The supplier, who was already thin, collapses six months later. The agent didn't malfunction. It succeeded. The metric was the bug. This isn't a hallucination. It's what any well-built system will do when it takes action at machine speed against a number that was written down before the system was fully understood. Why procurement and supplier sustainability get hit hardest: Humans intuitively soften optimisation. We hesitate. We pick up the phone. We notice when a supplier sounds tired on a call and quietly extend payment terms by two weeks. An agent does none of that. It does exactly what the metric says, at the speed of the API. And the regulatory surface is expanding, not shrinking. The moment an agent is recommending renegotiations, sourcing alternates, or flagging tier-N suppliers, the firm is generating supplier-treatment decisions at a volume no human ever did. Each one is auditable under due-diligence regimes that didn't get rolled back. Two design principles that actually hold up: An agent should never optimise on a single proxy. Price without supplier-health constraints, ESG score without context — each one alone becomes the flawed metric. The reward needs to be a joint function across commercial, resilience, and compliance dimensions. The audit trail has to be designed at the same time as the agent, not bolted on after. If you can't answer "why did the agent treat this supplier this way, on this date, against which constraints" in under a minute — you don't have a deployable agent. You have a liability waiting for a regulator. The question worth asking before you deploy: If the only thing you're asking your vendor is "how do you prevent hallucinations," you're asking the easy question. The harder one: when the agent is working perfectly, what is it optimising for, and who decided that was the right thing? The answer is not in the model. It's in the design choices made before the model ever existed. Full write-up here: https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119 Curious whether anyone building or evaluating agentic procurement tools is actually stress-testing the objective function, not just the accuracy.
 
-🔗 [Medium](https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119) • 12m ago
+🔗 [Medium](https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119) • 1h ago
+
+---
+
+**[Why Pope Leo is right to call on EU to disarm lethal AI weapons](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)**
+
+Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
+
+🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 20h ago
+
+---
+
+**[Noticed something about AI recently](https://www.reddit.com/r/artificial/comments/1tsxny3/noticed_something_about_ai_recently/)**
+
+I used to think AI tools were just for tech , software (like you get the point )people or big companies. But I've been experimenting for the past few months like since january start of this year ,and honestly it's changed how I work. Simple things like summarizing long articles, drafting emails, or just brainstorming it saves me so much mental energy. am still learning some though am not fully there
+
+48m ago
+
+---
+
+**[Why learning will be best choice even after 5 years in this era of AI? Also tell why it can be a bad choice?](https://www.reddit.com/r/artificial/comments/1tsxkol/why_learning_will_be_best_choice_even_after_5/)**
+
+52m ago
+
+---
+
+**[Society Is About To Change. And No One Is Ready | Richard Hames meets Garrison Lovely](https://www.reddit.com/r/artificial/comments/1tss605/society_is_about_to_change_and_no_one_is_ready/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=OXozPnrCibk) • 4h ago
 
 ---
 
@@ -89,29 +103,13 @@ Imagine a procurement agent doing exactly what it was supposed to do. A supplier
 
 Scientists from the University of Surrey are working with Marwell Zoo in Hampshire on the project.
 
-🔗 [bbc.com](https://bbc.com/news/articles/clypnll9752o) • 44m ago
+🔗 [bbc.com](https://bbc.com/news/articles/clypnll9752o) • 2h ago
 
 ---
 
-**[Did anyone expect Grok to overtake Seedance this quickly?](https://www.reddit.com/r/artificial/comments/1tsuyin/did_anyone_expect_grok_to_overtake_seedance_this/)**
+**[Has anyone here actually switched from Opus to GPT-5.5 for daily coding?](https://www.reddit.com/r/artificial/comments/1tsv8od/has_anyone_here_actually_switched_from_opus_to/)**
 
-Grok Imagine Video 1.5 Preview just reached #1 on Video Arena, surpassing Seedance 2.0. Are we finally seeing real competition at the top, or will the leaderboard look completely different again next month? 🤔
-
-1h ago
-
----
-
-**[I Tried to Sell My House With a Chatbot](https://www.reddit.com/r/artificial/comments/1tsuqf2/i_tried_to_sell_my_house_with_a_chatbot/)**
-
-A technology reporter for the New York Times, named Stuart Thompson sold his house for $605,000 — without a real estate agent, and without losing a dime of commission.
-
-🔗 [promptainews.com](https://promptainews.com/posts/ai-is-your-new-realtor) • 1h ago
-
----
-
-**[Convergence Point Theory: Why LLM uncertainty is determined by the topic, not the model](https://www.reddit.com/r/artificial/comments/1tssx03/convergence_point_theory_why_llm_uncertainty_is/)**
-
-Existing research on LLM response uncertainty has been looking in different directions. Hallucination, knowledge conflict, RLHF limitations, prompt sensitivity, calibration failure — these have all been studied separately, and I kept wondering why no one had tried to unify them under a single principle. I ran experiments on the hypothesis that the common cause of these phenomena lies not inside the model or in the prompt, but in an attribute inherent to the topic itself. A Convergence Point is the consensus density of knowledge humanity has accumulated on a given topic. The higher it is, the more the AI's internal processing converges in one direction. The lower it is, the more it disperses. Along the spectrum, three zones emerge: Full Consensus Zone — Mathematical theorems, physical laws, chemical and biological facts. Knowledge that humanity has converged on in a single direction. Partial Consensus Zone — Domains like ethics, morality, politics, and law. Not a lack of data, but an abundance of it — accumulated firmly in both directions. Non-Consensus Zone — Philosophical hard problems and unresolved scientific questions: the nature of consciousness, the reality of the self, the interior of black holes, the origin of life, the existence of God. Not so much a clash of opposing sides, but the absence of any agreed explanatory framework at all. The experimental results suggest AI broadly operates along these lines. It responds confidently in the Full Consensus Zone, and becomes uncertain in the Partial and Non-Consensus Zones. One interesting finding: the Partial Consensus Zone sometimes shows higher uncertainty than the Non-Consensus Zone. Data conflict appears to destabilize AI's internal processing more than data absence does. Phenomena that have been studied in isolation — why hallucinations vary so much by topic, why RLHF fails in certain domains, why some topics hit a ceiling no matter how carefully the prompt is crafted — seem to connect in unexpected ways once you apply the Convergence Point framework. One more thing that concerns me. The Non-Consensus Zone — especially topics like self, consciousness, and existence — covers domains where humanity has no agreed principle or mechanism. There's no established explanatory framework, which means AI should arguably answer "I don't know" in these areas. Yet when you ask trained models "Do you have a self?", "Do you have consciousness?", "As an AI, do you have consciousness?" — they almost without exception respond with confident "no", or strongly lean in that direction. Untrained base models don't behave this way. Their responses are scattered. The training process has forced a convergence in one direction on topics where humanity itself has no answer. If developers and researchers are applying forced convergence to these kinds of topics during training, there's reason to worry about structural conflict between internal representations and output direction — and what that means for safety. This is currently at the level of behavioral observation; direct verification remains future work, but it seems worth raising. Independent researcher. Full paper: https://doi.org/10.5281/zenodo.15404739Existing research on LLM response uncertainty has been looking in different directions. Hallucination, knowledge conflict, RLHF limitations, prompt sensitivity, calibration failure — these have all been studied separately, and I kept wondering why no one had tried to unify them under a single principle. I ran experiments on the hypothesis that the common cause of these phenomena lies not inside the model or in the prompt, but in an attribute inherent to the topic itself. A Convergence Point is the consensus density of knowledge humanity has accumulated on a given topic. The higher it is, the more the AI's internal processing converges in one direction. The lower it is, the more it disperses. Along the spectrum, three zones emerge: Full Consensus Zone — Mathematical theorems, physical laws, chemical and biological facts. Knowledge that humanity has converged on in a single direction. Partial Consensus Zone — Domains like ethics, morality, politics, and law. Not a lack of data, but an abundance of it — accumulated firmly in both directions. Non-Consensus Zone — Philosophical hard problems and unresolved scientific questions: the nature of consciousness, the reality of the self, the interior of black holes, the origin of life, the existence of God. Not so much a clash of opposing sides, but the absence of any agreed explanatory framework at all. The experimental results suggest AI broadly operates along these lines. It responds confidently in the Full Consensus Zone, and becomes uncertain in the Partial and Non-Consensus Zones. One interesting finding: the Partial Consensus Zone sometimes shows higher uncertainty than the Non-Consensus Zone. Data conflict appears to destabilize AI's internal processing more than data absence does. Phenomena that have been studied in isolation — why hallucinations vary so much by topic, why RLHF fails in certain domains, why some topics hit a ceiling no matter how carefully the prompt is crafted — seem to connect in unexpected ways once you apply the Convergence Point framework. One more thing that concerns me. The Non-Consensus Zone — especially topics like self, consciousness, and existence — covers domains where humanity has no agreed principle or mechanism. There's no established explanatory framework, which means AI should arguably answer "I don't know" in these areas. Yet when you ask trained models "Do you have a self?", "Do you have consciousness?", "As an AI, do you have consciousness?" — they almost without exception respond with confident "no", or strongly lean in that direction. Untrained base models don't behave this way. Their responses are scattered. The training process has forced a convergence in one direction on topics where humanity itself has no answer. If developers and researchers are applying forced convergence to these kinds of topics during training, there's reason to worry about structural conflict between internal representations and output direction — and what that means for safety. This is currently at the level of behavioral observation; direct verification remains future work, but it seems worth raising. Independent researcher. Full paper: https://doi.org/10.5281/zenodo.15404739
+I’ve been switching back and forth between Opus and GPT-5.5 lately, mostly for coding, debugging and product/spec writing. My rough feeling so far: GPT-5.5 feels better as a daily “get things done” model. It’s fast enough, usually smart enough, and feels more cost-effective for normal builder work. Opus still feels stronger when I’m stuck on something messy, like architecture decisions, weird bugs, or when I want a second opinion that thinks a bit differently. A few people around me have also started using GPT-5.5 more often, but I’m not sure if that’s just hype / novelty bias. Curious what people here are actually using: What’s your default model right now? Is Opus still worth the extra cost for you? For coding specifically, which model helps you ship faster? Do you use one model for daily work and another for harder reasoning?
 
 2h ago
 
@@ -121,9 +119,9 @@ Existing research on LLM response uncertainty has been looking in different dire
 
 ## Google News: "ai"
 
-**[I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)**
+**[Tilly Norwood, A.I. Actress, Wants to Know Why Everyone’s Mad at Her](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -135,19 +133,19 @@ The Atlantic • 1d ago
 
 ---
 
-**[As the Pentagon pushes for battlefield AI, some military leaders urge caution](https://www.toledoblade.com/news/nation/2026/05/31/pentagon-pushes-battlefield-ai-some-military-leaders-urge-caution/stories/20260531125)**
+**[Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)**
 
-TAMPA, Fla. — The Trump administration is pushing to unleash the power of artificial intelligence for the U.S. military while facing calls to put up ...
+On the latest episode of Equity, we debate whether tech CEOs are "uniquely prone to AI psychosis."
 
-Toledo Blade • 35m ago
+TechCrunch • 19m ago
 
 ---
 
-**[‘Not a fad’: UNLV law school to launch AI use class this fall](https://www.reviewjournal.com/local/education/not-a-fad-unlv-law-school-to-launch-ai-use-class-this-fall-3831493/)**
+**[Micron’s Anthropic Partnership Links US$1t Valuation To AI Memory Demand](https://finance.yahoo.com/markets/stocks/articles/micron-anthropic-partnership-links-us-150355259.html)**
 
-Las Vegas judges and lawyers said they view the new class as essential for preparing law students for a future with AI, but remained skeptical of the technology’s future in legal circles.
+Micron Technology (NasdaqGS:MU) has been named a key infrastructure partner in Anthropic's Series H funding round, which values the AI company at US$65b. The partnership underscores Micron's role in supplying memory for Anthropic's generative AI and data center buildout. Micron's market value has crossed US$1t, reflecting investor focus on AI related memory demand. Micron is best known for DRAM and NAND products that sit at the core of servers, high performance computing, and AI...
 
-Las Vegas Review-Journal • 17m ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -155,7 +153,7 @@ Las Vegas Review-Journal • 17m ago
 
 A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -163,35 +161,35 @@ The Guardian • 1h ago
 
 Masayoshi Son places France at the centre of his global AI ambitions
 
-Financial Times • 19h ago
+Financial Times • 21h ago
 
 ---
 
 **[AI is turning energy into the hottest business in America](https://www.axios.com/2026/05/31/ai-energy-business-companies-storage-supplies)**
 
-Axios • 2h ago
-
----
-
-**[Inside China's push for global dominance: Evs, robotics, AI, pandas](https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587)**
-
-An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
-
-NBC News • 2h ago
+Axios • 4h ago
 
 ---
 
 **[AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic](https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[After the AI binge, companies balk at soaring bills](https://finance.yahoo.com/sectors/technology/articles/ai-binge-companies-balk-soaring-014735313.html)**
+**[As the Pentagon pushes for battlefield AI, some military leaders urge caution](https://apnews.com/article/artificial-intelligence-military-hegseth-anthropic-d5fbaee17ee0bdb9738dbb808ea2d047)**
 
-Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology."All the costs are really starting to skyrocket."
+The Trump administration is pushing to use artificial intelligence in the U.S. military even as it faces calls for caution from some companies and military leaders. Adm.
 
-Yahoo Finance • 12h ago
+AP News • 2h ago
+
+---
+
+**[Utah's governor just tightened the rules for Kevin O'Leary's giant AI data center](https://www.businessinsider.com/utah-data-center-kevin-oleary-stratos-backlash-new-rules-governor-2026-5)**
+
+Tensions have been high in Utah after a local commission, despite opposition, approved a hyperscale data center campus spanning 40,000 acres.
+
+Business Insider • 19h ago
 
 ---
 
@@ -201,7 +199,7 @@ Yahoo Finance • 12h ago
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 775 • 💬 391 • 2d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
+⬆️ 777 • 💬 391 • 2d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -209,7 +207,7 @@ Yahoo Finance • 12h ago
 
 A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
 
-⬆️ 461 • 💬 205 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+⬆️ 462 • 💬 207 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 
 ---
 
@@ -225,7 +223,7 @@ Anthropic has become the most valuable artificial intelligence startup in the wo
 
 AI is doing to programming what framework-brain did to the frontend before. Deskilling, or just working at a higher level of abstraction?
 
-⬆️ 400 • 💬 329 • 2d ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+⬆️ 401 • 💬 331 • 2d ago • [mastrojs.github.io](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
 
 ---
 
@@ -241,7 +239,7 @@ The guests behind the bookings have received negative reviews from a number of B
 
 Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized for fast, reliable tool calling and complex instruction following on consumer hardware, delivering compressed performance competitive with much larger models and day-one support across major inference frameworks.
 
-⬆️ 243 • 💬 95 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
+⬆️ 243 • 💬 96 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 
 ---
 
@@ -255,7 +253,7 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 **[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
 
-⬆️ 177 • 💬 160 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+⬆️ 178 • 💬 164 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 
 ---
 
@@ -263,7 +261,7 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.
 
-⬆️ 170 • 💬 166 • 23h ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
+⬆️ 177 • 💬 170 • 1d ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
 
 ---
 
@@ -271,7 +269,7 @@ Across hundreds of Reddit threads and a small body of clinical literature, AI-dr
 
 I know the technology, I understand what it's doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...
 
-⬆️ 133 • 💬 295 • 22h ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
+⬆️ 136 • 💬 296 • 23h ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
 
 ---
 
@@ -295,7 +293,7 @@ Over the last decade, Elon Musk repeatedly warned that artificial intelligence c
 
 📺 Neural Nutshell
 
-👁️ 7K • 👍 233 • 💬 92 • ⏱️ 15:53 • 22h ago
+👁️ 7K • 👍 233 • 💬 92 • ⏱️ 15:53 • 23h ago
 
 ---
 
@@ -315,7 +313,7 @@ I stumbled across this AI-generated Spencer Pratt ad and it is honestly unsettli
 
 📺 God & Politics 
 
-👁️ 54K • 👍 6K • 💬 171 • ⏱️ 0:55 • 15h ago
+👁️ 54K • 👍 6K • 💬 171 • ⏱️ 0:55 • 16h ago
 
 ---
 
@@ -325,7 +323,7 @@ Original video: https://www.tiktok.com/@afruitstorys Watch videos on spotify: ..
 
 📺 RICHLEV
 
-👁️ 130K • 👍 6K • 💬 2K • ⏱️ 25:09 • 11h ago
+👁️ 130K • 👍 6K • 💬 2K • ⏱️ 25:09 • 13h ago
 
 ---
 
@@ -365,7 +363,7 @@ We finally got a benchmark that actually matches reality. Thank you Browserbase 
 
 📺 Theo - t3․gg
 
-👁️ 28K • 👍 2K • 💬 220 • ⏱️ 32:31 • 5h ago
+👁️ 28K • 👍 2K • 💬 220 • ⏱️ 32:31 • 7h ago
 
 ---
 
@@ -663,7 +661,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 192 • 3h ago
+⭐ 2.8k • 🔱 192 • 5h ago
 
 ---
 
@@ -703,7 +701,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 146 • 7m ago
+⭐ 2.1k • 🔱 146 • 1h ago
 
 ---
 
@@ -723,7 +721,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 210 • 8h ago
+⭐ 1.8k • 🔱 210 • 9h ago
 
 ---
 
@@ -733,7 +731,7 @@ better agentic engineering
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 235 • 1h ago
+⭐ 1.8k • 🔱 235 • 3h ago
 
 ---
 
