@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T20:09:06.760264+00:00'
+updated: '2026-05-31T21:31:59.976120+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 20:09 UTC  
+**Last Updated:** May 31, 2026 at 21:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,998.61
+### $2,006.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -5.2%  
-**30d:** -13.5%  
-**90d:** +1.0%  
-**1y:** -21.0%  
+**24h:** -0.8%  
+**7d:** -5.0%  
+**30d:** -13.3%  
+**90d:** +1.2%  
+**1y:** -20.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with mult
 
 gmgm. already shared with the r/ethdev community. but this was something that i made for "normies" like myself. so i think it deserves a post here as well. you all know the pain, RPC errors, tx reverts and etherscan not showing why, extremely vague explanations from the stuff we use daily for something that actually has a better explanation. first, i thought of just whining about this on twitter. instead, i decided to take the matter to hands, and started building the thing. the fact is, almost all the errors are actually catalogued, not all of them, there are still some execution context reliant errors which tenderly is way better at explaining. but have you ever tried using tenderly and tried to make sense of that tx graph? it's a puzzle. and a pleb like myself does not need that puzzle, probably neither you. eventually, i asked codex to build the thing as a small product. and in a few days, we generated a catalog of about 25k errors and error codes with their explanations and possible actions to take if it happens. now it lives on https://revert.wtf. and it is also entirely open source on github https://github.com/mrtdlgc/revertwtf with its npm packages, agent skills, mcp servers and what not. i am hosting the thing myself, the api is also available, it's pretty permissive in terms of rate limits. feel free to use it, spread the word if you think it's useful, contribute to the repo if you think it should cover more platforms/protocols.
 
-2d ago
+3d ago
 
 ---
 
@@ -166,11 +166,27 @@ FXStreet • 1d ago
 
 ---
 
+**[Insider Reveals Real Reason Ethereum Is Down 65% vs Bitcoin Since The Merge](https://finance.yahoo.com/markets/crypto/articles/insider-reveals-real-reason-ethereum-194227750.html)**
+
+An Ethereum insider blames the 65% drop versus Bitcoin since the Merge on execution debt, not market cycles.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Is Winning, But Its Token Holders Are Losing Faith.](https://www.forbes.com/sites/astanley/2026/05/30/ethereum-is-winning-but-its-token-holders-are-losing-faith/)**
+
+Ethereum the network has become the financial infrastructure its supporters always dreamed of. But ETH the token has taken a different turn
+
+Forbes • 22h ago
+
+---
+
 **[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 20h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -178,7 +194,7 @@ The Motley Fool • 20h ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -190,11 +206,11 @@ The Block • 3d ago
 
 ---
 
-**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
+**['Ethereum Wins The Scoreboard,' Says SharpLink CEO, Comparing ETH's Long Game To Bezos's Amazon Bet](https://www.tradingview.com/news/stocktwits:f1dc057ce094b:0-ethereum-wins-the-scoreboard-says-sharplink-ceo-comparing-eth-s-long-game-to-bezos-s-amazon-bet/)**
 
-Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
+Joseph Chalom, Chief Executive Officer (CEO) of Ethereum (ETH) treasury firm SharpLink Inc. (SBET), stated in an interview on Saturday on the RollUp platform that recent criticism targeting the Ethereum network and its foundation is "noise" that loses sight of the bigger picture.Chalom, who has 20…
 
-TradingView • 1d ago
+TradingView • 11h ago
 
 ---
 
@@ -206,25 +222,11 @@ Crypto Briefing • 2d ago
 
 ---
 
-**[Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)**
-
-In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
-
-CoinDesk • 3d ago
-
----
-
 **[Bit Digital Purchases $20 Million of Ethereum, Deepening Its Strategic Asset Position](https://bit-digital.com/press-releases/bit-digital-purchases-20-million-of-ethereum-deepening-its-strategic-asset-position/)**
 
 Bit Digital, Inc. (NASDAQ: BTBT), today announced the purchase of approximately 8,568 Ethereum ("ETH") for $20 million USD.
 
 Bit Digital • 3d ago
-
----
-
-**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/?p=603525)**
-
-AMBCrypto • 1d ago
 
 ---
 
@@ -288,7 +290,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 76 • 💬 18 • ⏱️ 22:52 • 9h ago
+👁️ 3K • 👍 76 • 💬 18 • ⏱️ 22:52 • 11h ago
 
 ---
 
@@ -308,7 +310,7 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 468 • 💬 82 • ⏱️ 47:42 • 1d ago
+👁️ 5K • 👍 468 • 💬 82 • ⏱️ 47:42 • 2d ago
 
 ---
 
@@ -318,7 +320,7 @@ This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom
 
 📺 The BarterTown Conglomerate
 
-👁️ 117 • 👍 2 • ⏱️ 1:00:53 • 8h ago
+👁️ 117 • 👍 2 • ⏱️ 1:00:53 • 9h ago
 
 ---
 
@@ -328,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 882 • 👍 86 • ⏱️ 6:48 • 7h ago
+👁️ 882 • 👍 86 • ⏱️ 6:48 • 8h ago
 
 ---
 
