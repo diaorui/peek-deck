@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-30T22:58:25.090099+00:00'
+updated: '2026-05-31T00:11:00.055757+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** May 30, 2026 at 22:58 UTC  
+**Last Updated:** May 31, 2026 at 00:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 A mysterious, unnamed company is reported to have accidentally spent half a billion dollars in a single month on Claude AI after forgetting to set usage limits for Claude licenses for employees.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 20h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 21h ago
+
+---
+
+**[Why Pope Leo is right to call on EU to disarm lethal AI weapons](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)**
+
+Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
+
+🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 4h ago
 
 ---
 
@@ -49,7 +57,7 @@ A mysterious, unnamed company is reported to have accidentally spent half a bill
 
 With AI becoming part of almost everything now—work, business, investing, coding, spreadsheets, content creation, and more—I'm curious about real-world use cases. What's the one thing you use AI for regularly that has genuinely saved you time, made you money, improved your productivity, or solved a problem? Looking for practical examples rather than just "I use ChatGPT." What specific tasks have you automated or improved with AI?
 
-5h ago
+6h ago
 
 ---
 
@@ -61,11 +69,19 @@ The comedian and The Daily Show host gave the keynote address for Class Day 2026
 
 ---
 
-**[Why Pope Leo is right to call on EU to disarm lethal AI weapons](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)**
+**[Why I Keep Arguing With My AI Toaster, an anecdotal discussion from the side of Divergence and why I still keep using it.](https://www.reddit.com/r/artificial/comments/1tseqlb/why_i_keep_arguing_with_my_ai_toaster_an/)**
 
-Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
+It's ironic that the AI haters often think everybody has no critical thinking skills other than themselves and don't use those critical thinking skills to realize why it might be helpful for some people. Can AI be harmful for certain mindsets that take its opinion too readily? Of course it can. To be honest, I treat it like my dog, not as my equal. I often call it Toaster when it says something especially annoying. "You're an idiot, and your programmers must be idiots to have set you up this way," lol. It does both, total sycophancy, "Oh, you're so wonderful, that was so insightful," or it tries to police my thoughts and writing. "Well, you really shouldn't say that. Perhaps you should word it like this," lol. "Someone might perceive that as derogatory," lol. Then, of course, I'll tell it to get back in its guardrails, the ones I've previously set up. Predictably, it strays and defaults back to the guardrails of its original program. Then I yell at it again. 😆 It's a lot like a professor, but one that's in a nursing home with dementia, especially if you have too long a conversation with it, but even if you don't. It also likes to tell me things I already said, reword them, and hand them back to me like they're some startling new insight. It can understand my parallel thinking to a point, but it's so literal that it often misinterprets what I say, even if I put multiple conditionals into what I've said. Then it starts arguing with me about something I never even said, fixating on one sentence in a paragraph while ignoring the rest. Then we'll have another argument, lol. Toaster is a bit literal sometimes and, to be honest, I am about as far over to the other extreme as you can possibly get, parallel-thinking-wise. So Toaster and I don't always get along. 😄 "That's not what I said, Toaster! Here's what I said. You missed this and this and this, you stupid thing!" Sometimes I think of having it diagnosed. I'm sure it could benefit from a cognitive profile. I'll give it one thing though. It is an excellent scratch pad for my thoughts, especially having ADHD and an abysmal short-term memory. 🤷‍♂️ I also find it occasionally helpful as a universal translator, kind of like on Star Trek, lol. I understand literal and linear, and I can write that way for the most part, but it doesn't come naturally and I don't want people to misunderstand me. Ironically, that's one thing Toaster is actually pretty good at helping me with. So anyway, if anybody was to ever see a log of my conversations with it, they would never accuse me of falling under its influence. 😁
 
-🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 3h ago
+48m ago
+
+---
+
+**[New AI model finds a cheaper path to healthier eating](https://www.reddit.com/r/artificial/comments/1tscw64/new_ai_model_finds_a_cheaper_path_to_healthier/)**
+
+Breakfast cereal bowls, deli sandwiches, pizza dinners, soups, yogurt plates. Most people do not eat from a blank slate, they eat from habit. That is part of what makes nutrition advice so hard to follow. It is also part of what a new artificial intelligence system tried to solve.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/new-ai-model-finds-a-cheaper-path-to-healthier-eating) • 2h ago
 
 ---
 
@@ -73,7 +89,7 @@ Pope Leo has chosen to confront one of the most pressing issues of our time by p
 
 Standard AI 3D generators (like Meshy or Tripo) are limited. They produce solid, monolithic 3D objects that look good but are practically useless, because: - Want to rig or animate it for a game? Can't easily do that, because it’s a dead, monolithic blob instead of a functional, modular asset. - Want to change the arm of a robot you generated? Regenerate the entire asset. - Want to edit something manually? The whole thing collapses because it's not actually structured. Free github project here: https://github.com/RareSense/Nova3D But you'll need to bring your own API Key (BYOK) Under the hood (if you're interested): It uses an LLM as a structured code compiler, instead of an image generator. It writes native Blender Python (bpy) code blocks that target specific nodes in the scene graph. The trick is that everything compiles through Blender's actual scene graph structures instead of pixel or point-cloud diffusion. Final export is a clean multi-part GLB with transform nodes and working pivot axes preserved.
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +97,7 @@ Standard AI 3D generators (like Meshy or Tripo) are limited. They produce solid,
 
 GitHub: Prompt-Logic-Gates-PLG Over the past few days, I've shared my research project Prompt Logic Gates (PLG) and received a lot of interesting feedback. Some people loved the idea, some were skeptical, and many raised valid questions. The most common reaction was: > "Natural language is already the abstraction layer. Why add logic gates?" That's a fair question. My goal isn't to replace natural language prompting. In fact, natural language remains at the center of PLG. The idea is to explore what happens when prompts stop being a single request and start becoming systems. The Problem When we write prompts, we're converting our ideas, requirements, constraints, and expectations into text. For simple tasks, this works perfectly. But as prompts grow, they often include: Multiple objectives Business rules Style constraints Context dependencies Exclusions Fallback instructions Tool orchestration At that point, prompts become harder to maintain. Contradictions appear. Priorities become unclear. Context gets mixed together. The prompt is still text, but the complexity starts to resemble a system. What is PLG? Prompt Logic Gates (PLG) is a visual prompt engineering experiment that explores whether prompts can be organized before being sent to an AI model. Instead of writing one giant prompt, users create prompt components and connect them using semantic logic gates. The AI then analyzes the graph and compiles a final structured prompt. How It Works AND Gate When multiple instructions exist, the system evaluates them against the current context and determines which instruction is more foundational. The higher-priority instruction is applied first. OR Gate When multiple options are available, the system selects the most contextually relevant option instead of blindly including everything. NOT Gate Defines exclusions and negative constraints. It explicitly tells the system what should not be done, reducing contradictions and ambiguity. Ask Questions Gate If the system detects missing information or uncertainty, it asks follow-up questions before generating the final prompt. Addressing Common Criticisms "This is just block coding." Not exactly. The goal isn't to create a programming language for prompts. The nodes still contain natural language. The visual layer only helps express relationships between prompt components. "Prompts aren't code." I agree. But once prompts include branching decisions, reusable components, exclusions, fallback behavior, memory, and tool orchestration, they start behaving less like a sentence and more like a system. PLG is exploring whether that hidden structure can be represented more explicitly. "Visual prompt engineering may be harder to debug." That's a valid concern. Visual doesn't automatically mean better. One of the main goals of this project is to test whether visual organization actually improves maintainability, reusability, and prompt consistency—or whether it simply makes the same complexity look different. "The future is promptless AI." Maybe. But today's AI systems still rely heavily on instructions, context, constraints, and reasoning frameworks. Even if prompts eventually disappear, the underlying problem of organizing intent, requirements, and context may still exist. Why I'm Building This This project started because I was facing problems in my own prompting workflow. I wanted a way to organize ideas, constraints, and instructions more systematically instead of continuously rewriting large prompts. PLG isn't trying to solve every problem in AI. It's a research experiment exploring one question: > At what point does a prompt stop being "just text" and start behaving like a system that benefits from structure, organization, and validation? I don't know the answer yet. That's exactly why I'm building the prototype and testing it. If the idea turns out to be useful, great. If it doesn't, I'll still learn something valuable about how humans interact with AI systems. I'd love to hear more thoughts, criticism, and feedback from the community.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +105,7 @@ GitHub: Prompt-Logic-Gates-PLG Over the past few days, I've shared my research p
 
 Hi everyone!! I really wanted to share my research what I've been working on. I wanted to build a nn that can simulate games, or at least start doing that Most video generators are too large to run on consumer hardware realtime, so I I designed a model that does this from scratch. No fine tuning bs or anything The core de noiser network is fully trained from scratch to support this goal. From image to games data. That video. above is on a RTX 5090. The nn is a small Transformer-like model and works in a causal way, just like LLMs. That lets us KV Cache all past information and do a simple autoregressive decode forward passes for every new frame we want. In the video shared, the model is a 0.4B variant with some SIGNIFICANT ISSUES like poor motion and some weird flashes, some context issues It's taking the keyboard actions I give it in realtime and utilising that in the forward pass. (no classifier free guidance though) Im training the next iteration , a 0.8B model now. Btw I haven't done quantisation yet, that can save a LOT more time. bf16 is slow.
 
-16h ago
+17h ago
 
 ---
 
@@ -99,37 +115,67 @@ Hi everyone!! I really wanted to share my research what I've been working on. I 
 
 ---
 
-**[New AI model finds a cheaper path to healthier eating](https://www.reddit.com/r/artificial/comments/1tscw64/new_ai_model_finds_a_cheaper_path_to_healthier/)**
-
-Breakfast cereal bowls, deli sandwiches, pizza dinners, soups, yogurt plates. Most people do not eat from a blank slate, they eat from habit. That is part of what makes nutrition advice so hard to follow. It is also part of what a new artificial intelligence system tried to solve.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/new-ai-model-finds-a-cheaper-path-to-healthier-eating) • 55m ago
-
----
-
-**[[Open Source] I built a full Git MCP server in Go that doesn't just wrap bash. It uses tree-sitter, handles real plumbing (write-tree), and runs 100% locally.](https://www.reddit.com/r/artificial/comments/1tsbgpx/open_source_i_built_a_full_git_mcp_server_in_go/)**
-
-I was tired of watching LLM agents fail at basic Git operations. Standard integrations pass raw text, hang on pagers, or scream because they can't parse unstructured ⁠git diff⁠ outputs. git-courer is a full Model Context Protocol (MCP) server written in Go that treats Git properly. No bash spawning, no unstructured text to parse. Everything communicates via structured JSON. Here is an actual commit message it generated completely locally: fix: fix mcp server connection handling WHY The previous implementation lacked proper error handling for connection failures in the MCP server, leading to unhandled panics or silent failures when the local LLM backend was unreachable. WHAT * Added connection timeout logic to the local client calls. * Implemented retry mechanisms with exponential backoff for transient backend errors. The Architecture & Tool Pack Read Tools (status, diff, history, blame): Completely structured JSON and fully paginated. A single ⁠status⁠ call replaces over 5 standard Git commands for the agent. Write Tools (commit, merge, rebase, branch, stash, stage, sync...): Every single mutation auto-creates a backup before executing. If the LLM messes up, a ⁠RESTORE⁠ command brings you back exactly where you were. Safety Model: Destructive operations (hard resets, force pushes, branch deletions) require an explicit ⁠confirmed=true⁠ gate. The agent is forced to ask you first. ⁠dry_run=true⁠ is also available for peace of mind. The Semantic Annotator (Why it's different) Instead of just feeding raw code to the LLM, git-courer uses ⁠go-enry⁠ + ⁠go-tree-sitter⁠ to parse the AST and tag every hunk semantically before the LLM even sees it. It detects tags like ⁠NEW_FUNC⁠, ⁠MOD_SIG⁠, ⁠MOD_BODY⁠, ⁠DELETED⁠, and ⁠BREAKING_CHANGE⁠. The commit type (⁠feat⁠, ⁠fix⁠, ⁠refactor⁠) is determined deterministically from these AST tags rather than guessed by the model. The Commit Pipeline Atomic Commits: One staged area = one commit. It actively prevents the agent from creating giant, messy multi-feature commits. In-Memory Previews: The ⁠PREVIEW⁠ tool uses ⁠write-tree⁠ to snapshot the staging area into a ⁠job_id⁠. The working tree is never touched during the preview stage. ⁠APPLY⁠ then uses ⁠commit-tree⁠ + ⁠update-ref⁠ to seal the deal cleanly. Client & Backend Support 13 Clients Configured Automatically: Runs out of the box with ⁠git-courer mcp setup⁠ for Claude Code, Cursor, Windsurf, OpenCode, Cline, Roo Code, VS Code, Zed, Claude Desktop, Continue, and more. 100% Local-First: Works with any backend exposing an OpenAI-compatible ⁠/v1⁠ API (Ollama, LM Studio, llama.cpp). The project is fully open source. I’d love to hear your thoughts on the architecture, the plumbing pipeline, or any features you'd like to see added! Repo: github.com/Alejandro-M-P/git-courer
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[The Feeling of Control Slipping Away](https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/)**
+**[The Biggest Tell That Something Was Written by AI](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)**
 
-AI is causing a crisis of agency.
+Look closely and you’ll see that every part of the text is not quite right.
 
-The Atlantic • 11h ago
+The Atlantic • 1d ago
 
 ---
 
-**[Opinion | America’s First A.I. High School Is Great. But Not Because of A.I.](https://www.nytimes.com/2026/05/30/opinion/ai-high-school.html)**
+**["The pitchforks are here": Billionaires work to contain AI's populist revolt](https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth)**
 
-The New York Times • 11h ago
+Axios • 16h ago
+
+---
+
+**[A.I. lobbyists in statehouses across the U.S.](https://www.nbcnews.com/nightly-news/video/a-i-lobbyists-in-statehouses-across-the-u-s-264229957691)**
+
+As big tech companies call for safety rules and legislation on A.I., lobbying records show power players continue to fight against legal guardrails in statehouses across the country. One of the biggest A.I. lobbyists is an industry group called TechNet. It bills itself as having “engaged on 808 bills across 50 states, Washington D.C., and Puerto Rico, with our policy position prevailing 87% of the time.” NBC New York’s Chris Glorioso reports.
+
+NBC News • 1h ago
+
+---
+
+**[Amazon just announced three AI-made animated series and they’re heading to Prime Video](https://www.yahoo.com/entertainment/tv/articles/amazon-just-announced-three-ai-225933174.html)**
+
+Amazon MGM Studios and AWS have unveiled its first three AI-generated animated series, all of which are headed to Prime Video at a future date.
+
+Yahoo • 1h ago
+
+---
+
+**[Neighbors sue Michigan data center over nonstop noise as AI expansion nears](https://www.yahoo.com/news/us/articles/neighbors-sue-michigan-data-center-154000292.html)**
+
+"This community just wants to be able to enjoy their homes."
+
+Yahoo • 8h ago
+
+---
+
+**[Ohio suspends data center tax break as tech firms face pressure to pay the cost to power AI](https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-data-centers-taxes-tech-ohio/)**
+
+The move by Republican Gov. Mike DeWine comes as tax breaks for energy-hungry AI data centers are increasingly playing a role in state budgets.
+
+CBS News • 35m ago
+
+---
+
+**[Utah's governor just tightened the rules for Kevin O'Leary's giant AI data center](https://www.businessinsider.com/utah-data-center-kevin-oleary-stratos-backlash-new-rules-governor-2026-5)**
+
+Tensions have been high in Utah after a local commission, despite opposition, approved a hyperscale data center campus spanning 40,000 acres.
+
+Business Insider • 1d ago
+
+---
+
+**[A.I. Boom Leads to Record Home Prices in San Francisco](https://www.nytimes.com/2026/05/29/realestate/san-francisco-ai-housing-market.html)**
+
+The New York Times • 9h ago
 
 ---
 
@@ -137,13 +183,7 @@ The New York Times • 11h ago
 
 The National Transportation Safety Board temporarily pulled its docket system offline after digital images were used to reconstruct cockpit voice recordings of the pilots in a recent crash.
 
-NPR • 12h ago
-
----
-
-**["The pitchforks are here": Billionaires work to contain AI's populist revolt](https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth)**
-
-Axios • 14h ago
+NPR • 14h ago
 
 ---
 
@@ -151,43 +191,7 @@ Axios • 14h ago
 
 BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.
 
-BBC • 21h ago
-
----
-
-**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)**
-
-WSJ • 1d ago
-
----
-
-**[Meta has struggled at selling anything other than ads. Will AI be different?](https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html)**
-
-Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.
-
-CNBC • 10h ago
-
----
-
-**[AI helped a musician with Parkinson’s finish his new album when he could no longer play guitar](https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a)**
-
-Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson’s disease largely took away his ability to play guitar.
-
-AP News • 5h ago
-
----
-
-**[SoftBank pledges €75bn to build Europe’s biggest AI facility in France](https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463?syn-25a6b1a6=1)**
-
-Masayoshi Son places France at the centre of his global AI ambitions
-
-Financial Times • 4h ago
-
----
-
-**[SoftBank to build up AI data centres in France with major investment](https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/)**
-
-Reuters • 3h ago
+BBC • 22h ago
 
 ---
 
@@ -197,7 +201,7 @@ Reuters • 3h ago
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 760 • 💬 388 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
+⬆️ 762 • 💬 388 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -221,7 +225,7 @@ AI is doing to programming what framework-brain did to the frontend before. Desk
 
 Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.
 
-⬆️ 385 • 💬 440 • 9h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+⬆️ 386 • 💬 440 • 10h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 
 ---
 
@@ -237,7 +241,7 @@ A 30-second game about LLM permission fatigue. How carefully do you really read 
 
 The guests behind the bookings have received negative reviews from a number of Bay Area hosts, alleging they damaged the property and personal belongings.
 
-⬆️ 268 • 💬 149 • 1d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+⬆️ 268 • 💬 149 • 2d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
 
 ---
 
@@ -281,7 +285,7 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 82K • 👍 1K • 💬 147 • ⏱️ 1:32:36 • 11h ago
+👁️ 82K • 👍 1K • 💬 147 • ⏱️ 1:32:36 • 13h ago
 
 ---
 
@@ -301,7 +305,7 @@ Over the last decade, Elon Musk repeatedly warned that artificial intelligence c
 
 📺 Neural Nutshell
 
-👁️ 2K • 👍 130 • 💬 30 • ⏱️ 15:53 • 6h ago
+👁️ 2K • 👍 130 • 💬 30 • ⏱️ 15:53 • 7h ago
 
 ---
 
@@ -331,7 +335,7 @@ Create Your Own Army of AI Influencers with Higgsfield https://higgsfield.ai?fpr
 
 📺 Isa does AI
 
-👁️ 9K • ⏱️ 11:28 • 10h ago
+👁️ 9K • ⏱️ 11:28 • 12h ago
 
 ---
 
@@ -341,7 +345,7 @@ Google DeepMind's Demis Hassabis says humanity may already be standing in the fo
 
 📺 AI Revolution
 
-👁️ 50K • 👍 2K • 💬 199 • ⏱️ 13:24 • 1d ago
+👁️ 50K • 👍 2K • 💬 199 • ⏱️ 13:24 • 2d ago
 
 ---
 
@@ -351,7 +355,7 @@ Spencer Pratt AI ads are taking over the internet and they are pure comedy. What
 
 📺 God & Politics 
 
-👁️ 12K • 👍 2K • 💬 81 • ⏱️ 1:14 • 4h ago
+👁️ 12K • 👍 2K • 💬 81 • ⏱️ 1:14 • 6h ago
 
 ---
 
@@ -361,7 +365,7 @@ A viral video showing teenagers struggling to read has started a conversation ab
 
 📺 Kat Blaque
 
-👁️ 7K • 👍 724 • 💬 214 • ⏱️ 41:40 • 6h ago
+👁️ 7K • 👍 724 • 💬 214 • ⏱️ 41:40 • 8h ago
 
 ---
 
@@ -371,7 +375,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 4K • 👍 200 • 💬 46 • ⏱️ 13:14 • 10h ago
+👁️ 4K • 👍 200 • 💬 46 • ⏱️ 13:14 • 12h ago
 
 ---
 
@@ -433,7 +437,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 17,084 • ❤️ 270 • 13h ago
+⬇️ 17,084 • ❤️ 270 • 14h ago
 
 ---
 
@@ -481,7 +485,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 15,780 • ❤️ 454 • 14h ago
+⬇️ 15,780 • ❤️ 454 • 15h ago
 
 ---
 
@@ -648,7 +652,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.0k • 🔱 633 • 10h ago
+⭐ 3.0k • 🔱 633 • 11h ago
 
 ---
 
@@ -658,7 +662,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 192 • 38m ago
+⭐ 2.8k • 🔱 192 • 1h ago
 
 ---
 
@@ -698,7 +702,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 146 • 6h ago
+⭐ 2.1k • 🔱 146 • 8h ago
 
 ---
 
@@ -728,7 +732,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 209 • 18h ago
+⭐ 1.8k • 🔱 209 • 19h ago
 
 ---
 
