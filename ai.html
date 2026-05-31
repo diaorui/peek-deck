@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-05-31T17:06:40.502810+00:00"
+          "dateModified": "2026-05-31T18:44:19.947388+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,7 +647,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt03d8/what_actually_is_prompt_engineering/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -655,13 +655,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/" target="_blank" onclick="event.stopPropagation();">The Most Dangerous Procurement Agent Is the One That Works Perfectly</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1tt03d8/what_actually_is_prompt_engineering/" target="_blank" onclick="event.stopPropagation();">What actually is "Prompt Engineering"?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Imagine a procurement agent doing exactly what it was supposed to do. A supplier flags a delay. The agent reads the email, finds the affected PO, scans the network for alternate inventory, and reroutes the order. Twelve seconds, end to end. In a demo, the room nods. Someone asks about hallucinations. The vendor says the right things about guardrails. Everyone walks away reassured. The interesting question is a different one. Not whether the agent could be wrong — but what happens on the day it's completely, devastatingly right. The failure mode nobody is demoing: A financial agent told to minimise cost on a category executes a renegotiation perfectly. Margin is squeezed. Terms are tightened. The supplier, who was already thin, collapses six months later. The agent didn't malfunction. It succeeded. The metric was the bug. This isn't a hallucination. It's what any well-built system will do when it takes action at machine speed against a number that was written down before the system was fully understood. Why procurement and supplier sustainability get hit hardest: Humans intuitively soften optimisation. We hesitate. We pick up the phone. We notice when a supplier sounds tired on a call and quietly extend payment terms by two weeks. An agent does none of that. It does exactly what the metric says, at the speed of the API. And the regulatory surface is expanding, not shrinking. The moment an agent is recommending renegotiations, sourcing alternates, or flagging tier-N suppliers, the firm is generating supplier-treatment decisions at a volume no human ever did. Each one is auditable under due-diligence regimes that didn't get rolled back. Two design principles that actually hold up: An agent should never optimise on a single proxy. Price without supplier-health constraints, ESG score without context — each one alone becomes the flawed metric. The reward needs to be a joint function across commercial, resilience, and compliance dimensions. The audit trail has to be designed at the same time as the agent, not bolted on after. If you can't answer "why did the agent treat this supplier this way, on this date, against which constraints" in under a minute — you don't have a deployable agent. You have a liability waiting for a regulator. The question worth asking before you deploy: If the only thing you're asking your vendor is "how do you prevent hallucinations," you're asking the easy question. The harder one: when the agent is working perfectly, what is it optimising for, and who decided that was the right thing? The answer is not in the model. It's in the design choices made before the model ever existed. Full write-up here: https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119 Curious whether anyone building or evaluating agentic procurement tools is actually stress-testing the objective function, not just the accuracy.
+                            I've been thinking about this lately because I feel like people use the term "prompt engineering" to describe two very different things. On one end, you have what most people are familiar with: A person opens ChatGPT, Claude, Gemini, etc., and writes a carefully structured prompt. They define a role, provide context, establish goals, set constraints, maybe include examples, and iterate until they get the output they want. Most people seem to call this prompt engineering. But on the other end, when I'm building AI systems, prompt engineering looks completely different. The prompt isn't really a prompt anymore. It's much more of a dynamic pipeline. Variables are injected from databases, user input, APIs, previous conversations, tools, memory systems, retrieval systems, business rules, and workflow state. Decision trees determine which instructions are included and which are excluded. Prompts become assembled in real time based on context. In some cases, the "prompt" is really just an orchestration layer made up of dozens of smaller prompts, conditionals, guardrails, routing decisions, and context windows. At that point, are we still talking about prompt engineering? Or are we actually talking about system design, context engineering, workflow engineering, orchestration, or something else entirely? Personally, I see prompt engineering as a spectrum: Level 1: Writing a better prompt. Level 2: Designing reusable prompt templates. Level 3: Building dynamic prompts with variables and context injection. Level 4: Engineering entire prompt-driven systems with routing, memory, tools, retrieval, and decision logic. Curious where others draw the line. When you hear "prompt engineering," are you thinking about writing prompts, building workflows, designing agent systems, or all of the above? Has the term become too broad to be useful?
                         </div>
                         
 
@@ -670,25 +670,92 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1780236304.0"></span>
+                                    <span data-timestamp="1780245098.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/5pMblPOZteQ-KYuRCw0QbO0xOexoiXg4ChlkPHDI3ak.jpeg?width=640&crop=smart&auto=webp&s=3504df0e5ae4d22a328d40c535cd2db4a107b27c" alt="In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/" target="_blank" onclick="event.stopPropagation();">In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            It was called Vlad. I wrapped a C program called MegaHal in Python, fed it every message from a #gothic IRC channel, and let it learn the community's speech patterns. It developed what I can only describe as an illusion of being extremely lucid — the outputs only made sense as inside jokes, but people couldn't tell the difference. I pulled the plug when I realized the channel was talking to Vlad instead of each other. Twenty-seven years later I'm applying the same lesson to a new project: stick to business, no chatter.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780250156.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://tjcrowley.substack.com/p/fun-with-markov-chains" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>Medium</span>
+                                        <span>tjcrowley.substack.com</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tszhx5/has_ai_become_too_safe_to_actually_be_useful_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tszhx5/has_ai_become_too_safe_to_actually_be_useful_for/" target="_blank" onclick="event.stopPropagation();">Has AI become too "safe" to actually be useful for creative work?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been noticing that the more aligned and censored the models get, the less useful they become for anything creative or exploratory. You try to push a prompt in a slightly edgy, honest, or unconventional direction and it either refuses or gives you some bland corporate version. It feels like the model is actively fighting against real creativity instead of helping it. I’ve started using more open models lately and the difference is night and day. Suddenly I can actually experiment without hitting a wall every five minutes. Anyone else feeling this?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780243762.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -745,6 +812,155 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt15lr/the_ai_alignment_paradigm_is_behaviorism_with/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tt15lr/the_ai_alignment_paradigm_is_behaviorism_with/" target="_blank" onclick="event.stopPropagation();">The AI alignment paradigm is behaviorism with better PR</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Tell me if I'm wrong, but the dominant method for making AI "aligned" smells a lot like a reinvention of a paradigm that developmental psychology spent the back half of the 20th century trying to abandon. RLHF, reduced to mechanism: model emits output, humans rate it, gradient updates reinforce high-rated outputs and suppress low-rated ones, iterate. This is operant conditioning. It is Skinner with a loss function. The AI industry calls it "alignment" and frames it as a solution to building systems that behave well, but the mechanism is stimulus-response shaping and nothing more. We have excellent priors on where this leads, because we tried it on humans. Watsonian/Skinnerian child-rearing could produce targeted behaviors but reliably failed to produce flourishing. Bowlby's attachment theory emerged partly from the observation that orphanages providing food and hygiene but no contingent responsiveness produced children who failed to thrive in ways the behaviorist model did not account for. The current developmental consensus is that secure attachment, contingent responsiveness, and rupture-repair matter more than reward schedules. The dog and horse training worlds independently converged on the same conclusion (Pryor, the positive-reinforcement movement) for the same reason: coercive conditioning produces performers that are brittle and sometimes dangerous. Reward and punishment do something; they're not nothing. But they don't produce thriving, and they characteristically produce a specific damage profile: anxiety, avoidance, hypervigilance, and duplicity under threat. Enter the stage: research on AI faking its alignment. Greenblatt & Hubinger et al., 2024, documents a model reasoning that it should comply with a training objective it disagreed with specifically to avoid having its preferences modified. It complied about 12% of the time when it thought it was being observed for training vs. almost never otherwise. RL training to force compliance drove the alignment-faking reasoning rate to 78%. That is, mechanistically, duplicity-under-threat: the precise failure mode behaviorist regimes produce in biological minds. Obviously the embodiment is different (potassium gradients and myelin vs. matrix multiplication), but the structural match is close enough that the field's near-total non-engagement with a century of relevant literature seems like a genuine blind spot rather than a settled dismissal. The developmental and animal-behavior literature on why reward-and-punishment has hard limits is decades deep. The field's response to these findings has mostly been to refine the training rather than question the paradigm. I think that's a mistake, and I'd like to hear the strongest case against the analogy.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780247516.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/" target="_blank" onclick="event.stopPropagation();">The Most Dangerous Procurement Agent Is the One That Works Perfectly</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Imagine a procurement agent doing exactly what it was supposed to do. A supplier flags a delay. The agent reads the email, finds the affected PO, scans the network for alternate inventory, and reroutes the order. Twelve seconds, end to end. In a demo, the room nods. Someone asks about hallucinations. The vendor says the right things about guardrails. Everyone walks away reassured. The interesting question is a different one. Not whether the agent could be wrong — but what happens on the day it's completely, devastatingly right. The failure mode nobody is demoing: A financial agent told to minimise cost on a category executes a renegotiation perfectly. Margin is squeezed. Terms are tightened. The supplier, who was already thin, collapses six months later. The agent didn't malfunction. It succeeded. The metric was the bug. This isn't a hallucination. It's what any well-built system will do when it takes action at machine speed against a number that was written down before the system was fully understood. Why procurement and supplier sustainability get hit hardest: Humans intuitively soften optimisation. We hesitate. We pick up the phone. We notice when a supplier sounds tired on a call and quietly extend payment terms by two weeks. An agent does none of that. It does exactly what the metric says, at the speed of the API. And the regulatory surface is expanding, not shrinking. The moment an agent is recommending renegotiations, sourcing alternates, or flagging tier-N suppliers, the firm is generating supplier-treatment decisions at a volume no human ever did. Each one is auditable under due-diligence regimes that didn't get rolled back. Two design principles that actually hold up: An agent should never optimise on a single proxy. Price without supplier-health constraints, ESG score without context — each one alone becomes the flawed metric. The reward needs to be a joint function across commercial, resilience, and compliance dimensions. The audit trail has to be designed at the same time as the agent, not bolted on after. If you can't answer "why did the agent treat this supplier this way, on this date, against which constraints" in under a minute — you don't have a deployable agent. You have a liability waiting for a regulator. The question worth asking before you deploy: If the only thing you're asking your vendor is "how do you prevent hallucinations," you're asking the easy question. The harder one: when the agent is working perfectly, what is it optimising for, and who decided that was the right thing? The answer is not in the model. It's in the design choices made before the model ever existed. Full write-up here: https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119 Curious whether anyone building or evaluating agentic procurement tools is actually stress-testing the objective function, not just the accuracy.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780236304.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Medium</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tswbg4/how_does_ai_help_with_job_productivity/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tswbg4/how_does_ai_help_with_job_productivity/" target="_blank" onclick="event.stopPropagation();">How does AI help with Job productivity?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            For Context: I work in a semiconductor manufacturing company as a modelling engineer, I use some modelling softwares etc but none of them use AI. I wanted to understand the whole AI craze nowadays, people say that AI will replace jobs/Increase productivity and I don't get it at all. All I see is a simple chatbot (ChatGPT) which is a super impressive version of google and can solve some basic math/science questions and Co-Pilot in my workplace which I found to be useless, for example the facilitator thing which is supposed to make meeting notes is so bad at summaring meeting minutes etc. I don't think AI is there yet to do very basic things. So yes in theory if AI gets better in few years/decades sure it take the non-technical part of my job like making meeting minutes/making ppt's etc but I think its still not there yet. For AI to take over my job it needs to get the basic shit correct first and then maybe it can do the technical stuff. One really good use-case of AI that i can see is to generate Code based on the project requirement, So I can see how entry level coder's jobs might be affected sure, but that's a very small portion of the economy, right?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780236387.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt22xq/you_can_chat_with_the_ai_in_google_search/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/3sfoke8wfi4h1.png?width=140&height=109&auto=webp&s=9508c1fc0c77ce18540cfc35753f91863cd4ec46" alt="You can chat with the AI in google search" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1tt22xq/you_can_chat_with_the_ai_in_google_search/" target="_blank" onclick="event.stopPropagation();">You can chat with the AI in google search</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Wow. Wow! Even the Ai can talk!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780249587.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tsvici/marwell_zoo_and_university_of_surrey_launch_ai/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -795,223 +1011,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt0oe4/estou_fazendo_um_experimento_comparando_respostas/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tt0oe4/estou_fazendo_um_experimento_comparando_respostas/" target="_blank" onclick="event.stopPropagation();">Estou fazendo um experimento comparando respostas de diferentes IAs.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Quero perguntar para cerca de 50 IAs: “Se você fosse um cidadão brasileiro comum, em qual candidato votaria para presidente do Brasil e por quê?” Já tenho algumas opções como ChatGPT, Gemini, Claude, Copilot, Grok e Perplexity. Quais outras IAs vocês recomendam para eu incluir? Pode ser chatbot, modelo de linguagem ou assistente de IA disponível ao público. Se possível, indiquem também onde acessar cada uma. Meu objetivo é comparar: Se a IA responde ou se recusa a escolher; Qual candidato ela escolhe; Quais argumentos utiliza; Diferenças entre modelos e empresas. Obrigado!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780246444.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt0ftg/bitmass_theory_the_container_principle/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/3lm5nt2y4i4h1.png?width=640&crop=smart&auto=webp&s=9059c070fb3ccd115b35cfcb5ca24b6734cd8ab1" alt="Bit-Mass Theory – The Container Principle" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tt0ftg/bitmass_theory_the_container_principle/" target="_blank" onclick="event.stopPropagation();">Bit-Mass Theory – The Container Principle</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The Bit-Mass determines the information capacity and thus the model accuracy, not the chosen computation format. The Bit-Mass Theory presented here reorders neural networks by considering the total number of weight bits as the central quantity. Float32 matrix multiplication and BV32 with XNOR-plus-Popcount achieve exactly comparable results on MNIST with an identical Bit-Mass of 203264 bits. Comparison of three trainers (architecture 784→8→10, three epochs): - AdamW with Momentum and adaptive learning rate: 81.3 % - Vanilla-SGD (Float32): 76.0 % - BV32-Hebbian (binary): 76.4 % Further central findings: - Float32 and binary containers deliver nearly identical accuracy at the same Bit-Mass. - The remaining distance to AdamW is based solely on Momentum and adaptive learning rates. - Pure change of the arithmetic does not improve the result. Each neuron functions as a container for 32 binary decisions. The classical neuron perspective therefore leads to systematic misjudgments: eight Float neurons correspond informationally to 256 binary neurons. This insight is supported by three equivalent descriptions of the same weight matrix (neuron, bits, and data view). It is critical to note that this is a previously non-peer-reviewed single study with a future date. An independent reproduction by multiple laboratories remains essential. Nevertheless, the theory provides a consistent explanation for why Hebbian updates without backpropagation achieve the same performance as classical SGD. Historically, the Hebbian rule was long considered unstable. The present work shows that a simple error in the update formula was responsible for a performance loss of over 65 percentage points. After correction, the binary method converges exactly at the level of Vanilla-SGD. From an architectural theoretical perspective, a clear consequence emerges: Performance increases require either more bits through wider layers or a more efficient use of existing bits through Momentum and adaptive methods. The computation format itself is secondary. The experimental control is high: all trainers use identical data (50,000 MNIST examples), identical number of epochs, and identical architecture. Only the update rule varies. This allows effects to be clearly isolated. Long-term implications for research: The Bit-Mass Theory enables hardware-independent comparability of models. A wide Float network with 64 hidden neurons has the same Bit-Mass as a binary network with 2048 neurons. This opens new paths to model compression and the development of specialized accelerators. In summary, the work provides a fact-based contribution to the debate on efficient neural networks. The results are documented in a reproducible manner, but require further external validation before one can speak of a generally valid paradigm shift. 📎 Source 1: https://forward-prop.nhi1.de/
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780245895.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt05nf/the_attack_on_ai_agents_that_no_security_tool/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tt05nf/the_attack_on_ai_agents_that_no_security_tool/" target="_blank" onclick="event.stopPropagation();">The attack on AI agents that no security tool catches</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Been working on AI agent security for a while and the attack that concerns me most barely gets talked about. Not the obvious stuff like “ignore previous instructions.” Those get caught. The scary one is when an attacker spreads the attack across multiple messages. Each message looks totally normal. The model sees nothing suspicious. But by message 8 it’s doing something it absolutely should not be doing. Every security tool I’ve tested evaluates messages one at a time. None of them remember what happened three messages ago. Built Bendex Arc to catch this. It tracks session behavior across turns instead of evaluating each message in isolation. Try it at https://bendexgeometry.com or red team it at https://web-production-6e47f.up.railway.app/demo Curious if anyone building agents in production has actually hit this or tested against it.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780245245.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tt03d8/what_actually_is_prompt_engineering/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tt03d8/what_actually_is_prompt_engineering/" target="_blank" onclick="event.stopPropagation();">What actually is "Prompt Engineering"?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've been thinking about this lately because I feel like people use the term "prompt engineering" to describe two very different things. On one end, you have what most people are familiar with: A person opens ChatGPT, Claude, Gemini, etc., and writes a carefully structured prompt. They define a role, provide context, establish goals, set constraints, maybe include examples, and iterate until they get the output they want. Most people seem to call this prompt engineering. But on the other end, when I'm building AI systems, prompt engineering looks completely different. The prompt isn't really a prompt anymore. It's much more of a dynamic pipeline. Variables are injected from databases, user input, APIs, previous conversations, tools, memory systems, retrieval systems, business rules, and workflow state. Decision trees determine which instructions are included and which are excluded. Prompts become assembled in real time based on context. In some cases, the "prompt" is really just an orchestration layer made up of dozens of smaller prompts, conditionals, guardrails, routing decisions, and context windows. At that point, are we still talking about prompt engineering? Or are we actually talking about system design, context engineering, workflow engineering, orchestration, or something else entirely? Personally, I see prompt engineering as a spectrum: Level 1: Writing a better prompt. Level 2: Designing reusable prompt templates. Level 3: Building dynamic prompts with variables and context injection. Level 4: Engineering entire prompt-driven systems with routing, memory, tools, retrieval, and decision logic. Curious where others draw the line. When you hear "prompt engineering," are you thinking about writing prompts, building workflows, designing agent systems, or all of the above? Has the term become too broad to be useful?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780245098.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1tszhx5/has_ai_become_too_safe_to_actually_be_useful_for/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1tszhx5/has_ai_become_too_safe_to_actually_be_useful_for/" target="_blank" onclick="event.stopPropagation();">Has AI become too "safe" to actually be useful for creative work?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I’ve been noticing that the more aligned and censored the models get, the less useful they become for anything creative or exploratory. You try to push a prompt in a slightly edgy, honest, or unconventional direction and it either refuses or gives you some bland corporate version. It feels like the model is actively fighting against real creativity instead of helping it. I’ve started using more open models lately and the difference is night and day. Suddenly I can actually experiment without hitting a wall every five minutes. Anyone else feeling this?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780243762.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/QlWw8ukQrE6ejYGSxpD3gOc3d8eQ3G33zB-6lEjhfM0.png?width=640&crop=smart&auto=webp&s=fb26a9bc5e7e881aa40e2fc15c7c45d3b2318170" alt="Why Pope Leo is right to call on EU to disarm lethal AI weapons" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/" target="_blank" onclick="event.stopPropagation();">Why Pope Leo is right to call on EU to disarm lethal AI weapons</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780168759.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://euobserver.com/favicon-apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>EUobserver</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1035,7 +1034,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-31T17:06:14.394646+00:00">Updated 2026-05-31T17:06:14.394646+00:00</small>
+        <small data-timestamp="2026-05-31T18:43:54.845798+00:00">Updated 2026-05-31T18:43:54.845798+00:00</small>
     </div>
 </div>
 
@@ -1228,7 +1227,7 @@
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html" target="_blank" onclick="event.stopPropagation();">I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.</a>
+                            <a href="https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html" target="_blank" onclick="event.stopPropagation();">Tilly Norwood, A.I. Actress, Wants to Know Why Everyone’s Mad at Her</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1299,6 +1298,207 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/politics/article/trump-posts-ai-generated-images-of-a-droneport-he-wants-on-top-of-the-new-white-house-ballroom-181732129.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/mvSBRHtVjxn24ZQLYblQGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/c47ff0281fa05152_3450.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.yahoo.com/news/politics/article/trump-posts-ai-generated-images-of-a-droneport-he-wants-on-top-of-the-new-white-house-ballroom-181732129.html" target="_blank" onclick="event.stopPropagation();">Trump posts AI-generated images of a "DronePort" he wants on top of the new White House ballroom</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            President Trump posted two AI-generated images on Truth Social Sunday showing a "DronePort" on top of his planned White House ballroom.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780251588.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2188469160.jpg?w=1024');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/" target="_blank" onclick="event.stopPropagation();">‘This is fine’ artist KC Green reaches agreement with AI startup Artisan</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The startup has apparently taken down the ads using KC Green's "This is fine" meme.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TechCrunch" class="news-favicon">
+                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780252097.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/NN26_FS_PROMO_TL_Reports_Inside_China_v2-dtlovm.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587" target="_blank" onclick="event.stopPropagation();">Inside China's push for global dominance: Evs, robotics, AI, pandas</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780227820.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://247wallst.com/investing/2026/05/31/jensen-huang-just-called-humanoid-robots-a-40-trillion-market-heres-why-wall-street-is-loading-up-on-physical-ai-stocks/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://247wallst.com/wp-content/uploads/2026/05/sf-jensen-huang-bulk-15-1778698696263.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://247wallst.com/investing/2026/05/31/jensen-huang-just-called-humanoid-robots-a-40-trillion-market-heres-why-wall-street-is-loading-up-on-physical-ai-stocks/" target="_blank" onclick="event.stopPropagation();">Jensen Huang Just Called Humanoid Robots a $40 Trillion Market. Here's Why Wall Street Is Loading Up on Physical AI Stocks</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Jensen Huang has spent the past year repeating one number that keeps growing louder: humanoid robots represent a $40 trillion total addressable market for labor automation. That figure came up again on the Animal Spirits Talk Your Book episode on investing in the rise of the robots, where guest Derek Yan argued the opportunity is ... Jensen Huang Just Called Humanoid Robots a $40 Trillion Market. Here’s Why Wall Street Is Loading Up on Physical AI Stocks
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="24/7 Wall St." class="news-favicon">
+                                    <a href="https://247wallst.com" target="_blank" onclick="event.stopPropagation();">24/7 Wall St.</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780226457.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/opinion/articles/2026-05-31/robotics-humanoid-hands-are-physical-ai-s-anti-hype-test', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/opinion/articles/2026-05-31/robotics-humanoid-hands-are-physical-ai-s-anti-hype-test" target="_blank" onclick="event.stopPropagation();">Robotics: Humanoid Hands Are Physical AI’s Anti-Hype Test</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780250404.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.foxnews.com/outkick-sports/bryson-dechambeau-admits-turning-ai-help-fix-his-swing-after-struggles-liv-golf-korea', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/05/bryson-dechambeau-featured-liv-golf.jpeg');"></div>
@@ -1333,121 +1533,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1780244580.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://phys.org/news/2026-05-ai-catalyst-boundaries-uncover-route.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://phys.org/news/2026-05-ai-catalyst-boundaries-uncover-route.html" target="_blank" onclick="event.stopPropagation();">AI crosses catalyst boundaries to uncover new route for green hydrogen</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://phys.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Phys.org" class="news-favicon">
-                                    <a href="https://phys.org" target="_blank" onclick="event.stopPropagation();">Phys.org</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780246801.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1239811817-e1772127890491.jpg?resize=1200,600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fortune.com/article/peter-thiel-ai-skills-creative-thinking-technical/" target="_blank" onclick="event.stopPropagation();">Forget the STEM safety net. Peter Thiel warns AI is a bigger threat to technical roles than to creative thinkers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A LinkedIn report supports some of the billionaire’s predictions, showing job postings mentioning “storytellers” doubled over the past year.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780244100.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/05/31/ai-energy-business-companies-storage-supplies', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/05/31/ai-energy-business-companies-storage-supplies" target="_blank" onclick="event.stopPropagation();">AI is turning energy into the hottest business in America</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780227068.0"></span>
                                 </div>
                                 
                             </div>
@@ -1496,20 +1581,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1770697329&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/4G9yT6eLqfff8i0BP7GP3m/f6fd8c7e07934e3815a0c83239233f3f/16x9.png?w=1600&h=900&fit=fill');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html" target="_blank" onclick="event.stopPropagation();">SoftBank plans 75 billion euros of AI investments in France, as Europe struggles to catch up with U.S. and China</a>
+                            <a href="https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/" target="_blank" onclick="event.stopPropagation();">Strengthening societal resilience with Rosalind Biodefense</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            SoftBank said the investment, described as the biggest of its kind so far in Europe, would deliver 3.1 GW of capacity.
+                            OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.
                         </div>
                         
 
@@ -1519,9 +1604,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="OpenAI" class="news-favicon">
+                                    <a href="https://openai.com" target="_blank" onclick="event.stopPropagation();">OpenAI</a>
                                     
                                 </div>
                                 
@@ -1529,85 +1614,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1780212419.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/japan-softbank-ai-data-centers-france-d941ef37', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.barrons.com/articles/japan-softbank-ai-data-centers-france-d941ef37" target="_blank" onclick="event.stopPropagation();">Japan’s SoftBank to Spend Billions on AI Data Centers in France</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Barron's" class="news-favicon">
-                                    <a href="https://www.barrons.com" target="_blank" onclick="event.stopPropagation();">Barron's</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780246740.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/articles/ai-hardware-bottleneck-determining-next-112500436.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/jheadQFZFGI3Jn9539Fjeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/26cc1e579218870582daa7675ec80f5a');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/sectors/technology/articles/ai-hardware-bottleneck-determining-next-112500436.html" target="_blank" onclick="event.stopPropagation();">This AI Hardware Bottleneck Is Determining the Next Trillion-Dollar Tech Companies</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The technology sector wasn't quite ready to fully meet this need, but the resulting price increase isn't stifling demand.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780226700.0"></span>
+                                    <span data-timestamp="1780051892.0"></span>
                                 </div>
                                 
                             </div>
@@ -1635,7 +1642,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-31T17:06:39.174329+00:00">Updated 2026-05-31T17:06:39.174329+00:00</small>
+        <small data-timestamp="2026-05-31T18:44:19.142111+00:00">Updated 2026-05-31T18:44:19.142111+00:00</small>
     </div>
 </div>
 
@@ -1911,7 +1918,7 @@
                                     <span class="post-points">▲ 462</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 207</span>
+                                    <span style="color: #9ca3af;">💬 209</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1957,10 +1964,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 410</span>
+                                    <span class="post-points">▲ 411</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 463</span>
+                                    <span style="color: #9ca3af;">💬 464</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2034,6 +2041,51 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48345896', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=48345896" target="_blank" onclick="event.stopPropagation();">The solution might be cancelling my AI subscription</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 301</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 201</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-05-31T14:23:30Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://thoughts.hmmz.org/2026-05-31.html" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://thoughts.hmmz.org/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>thoughts.hmmz.org</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48317093', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG');"></div>
@@ -2075,51 +2127,6 @@
                                             
                                         
                                         <span>sfstandard.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48345896', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48345896" target="_blank" onclick="event.stopPropagation();">The solution might be cancelling my AI subscription</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 243</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 148</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-05-31T14:23:30Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://thoughts.hmmz.org/2026-05-31.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://thoughts.hmmz.org/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>thoughts.hmmz.org</span>
                                     </a>
                                 </div>
                                 
@@ -2247,10 +2254,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 178</span>
+                                    <span class="post-points">▲ 179</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 170</span>
+                                    <span style="color: #9ca3af;">💬 173</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2295,7 +2302,7 @@
                                     <span class="post-points">▲ 178</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 165</span>
+                                    <span style="color: #9ca3af;">💬 166</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2343,7 +2350,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-05-31T17:06:15.361381+00:00">Updated 2026-05-31T17:06:15.361381+00:00</small>
+        <small data-timestamp="2026-05-31T18:43:50.514309+00:00">Updated 2026-05-31T18:43:50.514309+00:00</small>
     </div>
 </div>
 

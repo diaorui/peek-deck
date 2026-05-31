@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T17:06:40.888922+00:00'
+updated: '2026-05-31T18:44:20.437780+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 17:06 UTC  
+**Last Updated:** May 31, 2026 at 18:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,001.65
+### $2,004.78
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -1.3%  
-**7d:** -5.3%  
-**30d:** -13.6%  
-**90d:** +0.9%  
+**7d:** -5.2%  
+**30d:** -13.5%  
+**90d:** +1.0%  
 **1y:** -21.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -118,7 +118,7 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 **[Support Ethereum core development by trying to win your share of $1M](https://www.reddit.com/r/ethereum/comments/1tqc2bk/support_ethereum_core_development_by_trying_to/)**
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 2d ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 3d ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 17h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -182,11 +182,11 @@ The Block • 3d ago
 
 ---
 
-**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
+**['Ethereum Wins The Scoreboard,' Says SharpLink CEO, Comparing ETH's Long Game To Bezos's Amazon Bet](https://www.tradingview.com/news/stocktwits:f1dc057ce094b:0-ethereum-wins-the-scoreboard-says-sharplink-ceo-comparing-eth-s-long-game-to-bezos-s-amazon-bet/)**
 
-Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
+Joseph Chalom, Chief Executive Officer (CEO) of Ethereum (ETH) treasury firm SharpLink Inc. (SBET), stated in an interview on Saturday on the RollUp platform that recent criticism targeting the Ethereum network and its foundation is "noise" that loses sight of the bigger picture.Chalom, who has 20…
 
-TradingView • 1d ago
+TradingView • 9h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 1d ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 7K • 👍 250 • 💬 44 • ⏱️ 36:57 • 21h ago
+👁️ 7K • 👍 250 • 💬 44 • ⏱️ 36:57 • 23h ago
 
 ---
 
@@ -288,7 +288,7 @@ This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom
 
 📺 The BarterTown Conglomerate
 
-👁️ 116 • 👍 2 • ⏱️ 1:00:53 • 5h ago
+👁️ 116 • 👍 2 • ⏱️ 1:00:53 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 523 • 👍 71 • ⏱️ 6:48 • 3h ago
+👁️ 523 • 👍 71 • ⏱️ 6:48 • 5h ago
 
 ---
 
