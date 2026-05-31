@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-31T08:25:54.559617+00:00'
+updated: '2026-05-31T10:30:27.958776+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 31, 2026 at 08:25 UTC  
+**Last Updated:** May 31, 2026 at 10:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
 
-🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 13h ago
+🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 15h ago
 
 ---
 
-**[Is this even real ?](https://www.reddit.com/r/artificial/comments/1tskqdr/is_this_even_real/)**
+**[AI agents are about to create a responsibility problem nobody wants to own](https://www.reddit.com/r/artificial/comments/1tsrg89/ai_agents_are_about_to_create_a_responsibility/)**
 
-I randomly came across this and honestly I can’t tell if it’s real or one of those AI demos that looks impressive but doesn’t actually work. From what I understand, it’s claiming you can fine-tune models, do image training, test them in a playground, and deploy them as an API from a phone. That sounds a little too convenient, which is why I’m skeptical. I haven’t tried it myself yet, but I’m curious if anyone here has.
+AI agents are getting better at taking actions, not just giving answers. That sounds exciting until the action touches something real: customer data, payments, internal systems, emails, approvals, or legal/business decisions. A bad answer can be corrected. A bad action can create a chain of problems. I think the next AI bottleneck is not only intelligence. It is accountability. If an AI agent makes a bad decision in a real workflow, who should be responsible?
 
-4h ago
+10m ago
 
 ---
 
@@ -61,11 +61,27 @@ A mysterious, unnamed company is reported to have accidentally spent half a bill
 
 ---
 
+**[Is this even real ?](https://www.reddit.com/r/artificial/comments/1tskqdr/is_this_even_real/)**
+
+I randomly came across this and honestly I can’t tell if it’s real or one of those AI demos that looks impressive but doesn’t actually work. From what I understand, it’s claiming you can fine-tune models, do image training, test them in a playground, and deploy them as an API from a phone. That sounds a little too convenient, which is why I’m skeptical. I haven’t tried it myself yet, but I’m curious if anyone here has.
+
+6h ago
+
+---
+
+**[Deepeseek inside claude code -Easist way](https://www.reddit.com/r/artificial/comments/1tsn5zh/deepeseek_inside_claude_code_easist_way/)**
+
+For those who cant afford claude models and wanna use claude code, deepseek v4 pro is closest best and cheapest option. How to use deepseek API inside claude code (easist way ever): We will use AI to replace AI. Just feed your existing claude code this prompt "Yo Claude, you’re expensive af 💀 Do everything needed to fully switch Claude Code to DeepSeek API automatically. Set up the complete settings.json config, API integration, model selection, base URL, env variables, testing, debugging, and optimization for low cost + strong coding performance. Use this DeepSeek API key: "sh......................" Make it fully working, minimal, and production ready." Thats it! Thank me later!
+
+4h ago
+
+---
+
 **[How has AI actually benefited you in day-to-day life?](https://www.reddit.com/r/artificial/comments/1ts6q6b/how_has_ai_actually_benefited_you_in_daytoday_life/)**
 
 With AI becoming part of almost everything now—work, business, investing, coding, spreadsheets, content creation, and more—I'm curious about real-world use cases. What's the one thing you use AI for regularly that has genuinely saved you time, made you money, improved your productivity, or solved a problem? Looking for practical examples rather than just "I use ChatGPT." What specific tasks have you automated or improved with AI?
 
-14h ago
+16h ago
 
 ---
 
@@ -73,15 +89,7 @@ With AI becoming part of almost everything now—work, business, investing, codi
 
 Sequel to: Learning to Skip Blocks: Self-Discovered Ultrametric Routing for Hardware-Accelerated Sparse Attention Abstract We present Llama Surgery, a method for injecting learned block-sparse attention topologies into pre-trained dense language models without retraining from scratch, distillation, or post-hoc pruning. Starting from a frozen Llama 3.1 8B, we surgically replace each attention layer with a Dynamic Topology Router that maps token embeddings onto the branches of a Bruhat-Tits p-adic tree via factorized Gumbel-Softmax routing. A Deterministic Collapse Initialization to achieve a Continuous Logit Homotopy guarantees that at step 0 the injected topology mask is identically dense, preserving the pre-trained manifold exactly. Over training, temperature annealing polarizes the soft routing assignments into hard binary masks, and a Switch Transformer-style load-balancing loss prevents routing collapse. We identify and resolve two critical failure modes: (1) gradient collapse through discrete masking operations, solved by a Straight-Through Estimator bridge that decouples the hard forward mask from the soft backward gradient; and (2) Attention Sink instability, where hard-masking the initial token causes softmax entropy collapse and syntactic degeneration, solved by permanently anchoring Token 0 in the visibility set. The resulting architecture is validated on Llama 3.1 8B fine-tuned on WikiText-2, achieving stable convergence and producing coherent, mathematically sophisticated text while maintaining dynamic block-sparse routing across all 32 transformer layers. A controlled semantic clustering experiment on TinyLlama-1.1B demonstrates that the router learns to assign tokens from distinct semantic domains (mathematics, natural language, code) to separate branches of the Bruhat-Tits tree using only the standard language modeling loss, with no explicit clustering objective. A Needle-In-A-Haystack (NIAH) retrieval experiment on TinyLlama-1.1B reveals that the router spontaneously organizes the context window into an ultrametric cophenetic hierarchy: the needle is isolated at maximum topological distance from the haystack (d_p = 6.88), and the ultrametric triangle inequality d(x,z) ≤ max(d(x,y), d(y,z)) is satisfied. Averaging over 32 attention heads yields a forest ensemble of distinct per-head ultrametric trees rather than a single global hierarchy. We further identify and resolve three critical float16 numerical failure modes—Gumbel-Softmax overflow, attention score overflow, and cumulative product backward instability—the last of which we solve via a novel cumprod→cummin substitution that exploits the binary structure of hard Gumbel-Softmax outputs. A custom Triton forward kernel with Attention Sink and Local Window support, pipelined for Ampere and Hopper architectures (num_warps=4, num_stages=3), executes the block-sparse prefill phase at O(N) theoretical complexity. To our knowledge, this is the first demonstration of differentiable ultrametric topology injection into a production-scale pre-trained LLM. https://github.com/sneed-and-feed/adelic-spectral-zeta/blob/main/papers/llama_surgery.md
 
-6h ago
-
----
-
-**[Why I Keep Arguing With My AI Toaster, an anecdotal discussion from the side of Divergence and why I still keep using it.](https://www.reddit.com/r/artificial/comments/1tseqlb/why_i_keep_arguing_with_my_ai_toaster_an/)**
-
-It's ironic that the AI haters often think everybody has no critical thinking skills other than themselves and don't use those critical thinking skills to realize why it might be helpful for some people. Can AI be harmful for certain mindsets that take its opinion too readily? Of course it can. To be honest, I treat it like my dog, not as my equal. I often call it Toaster when it says something especially annoying. "You're an idiot, and your programmers must be idiots to have set you up this way," lol. It does both, total sycophancy, "Oh, you're so wonderful, that was so insightful," or it tries to police my thoughts and writing. "Well, you really shouldn't say that. Perhaps you should word it like this," lol. "Someone might perceive that as derogatory," lol. Then, of course, I'll tell it to get back in its guardrails, the ones I've previously set up. Predictably, it strays and defaults back to the guardrails of its original program. Then I yell at it again. 😆 It's a lot like a professor, but one that's in a nursing home with dementia, especially if you have too long a conversation with it, but even if you don't. It also likes to tell me things I already said, reword them, and hand them back to me like they're some startling new insight. It can understand my parallel thinking to a point, but it's so literal that it often misinterprets what I say, even if I put multiple conditionals into what I've said. Then it starts arguing with me about something I never even said, fixating on one sentence in a paragraph while ignoring the rest. Then we'll have another argument, lol. Toaster is a bit literal sometimes and, to be honest, I am about as far over to the other extreme as you can possibly get, parallel-thinking-wise. So Toaster and I don't always get along. 😄 "That's not what I said, Toaster! Here's what I said. You missed this and this and this, you stupid thing!" Sometimes I think of having it diagnosed. I'm sure it could benefit from a cognitive profile. I'll give it one thing though. It is an excellent scratch pad for my thoughts, especially having ADHD and an abysmal short-term memory. 🤷‍♂️ I also find it occasionally helpful as a universal translator, kind of like on Star Trek, lol. I understand literal and linear, and I can write that way for the most part, but it doesn't come naturally and I don't want people to misunderstand me. Ironically, that's one thing Toaster is actually pretty good at helping me with. So anyway, if anybody was to ever see a log of my conversations with it, they would never accuse me of falling under its influence. 😁
-
-9h ago
+8h ago
 
 ---
 
@@ -93,9 +101,11 @@ The comedian and The Daily Show host gave the keynote address for Class Day 2026
 
 ---
 
-**[Google’s AI mode is threatening me… i was just trying to look up a family guy clip…](https://www.reddit.com/r/artificial/comments/1tsocyj/googles_ai_mode_is_threatening_me_i_was_just/)**
+**[Why I Keep Arguing With My AI Toaster, an anecdotal discussion from the side of Divergence and why I still keep using it.](https://www.reddit.com/r/artificial/comments/1tseqlb/why_i_keep_arguing_with_my_ai_toaster_an/)**
 
-1h ago
+It's ironic that the AI haters often think everybody has no critical thinking skills other than themselves and don't use those critical thinking skills to realize why it might be helpful for some people. Can AI be harmful for certain mindsets that take its opinion too readily? Of course it can. To be honest, I treat it like my dog, not as my equal. I often call it Toaster when it says something especially annoying. "You're an idiot, and your programmers must be idiots to have set you up this way," lol. It does both, total sycophancy, "Oh, you're so wonderful, that was so insightful," or it tries to police my thoughts and writing. "Well, you really shouldn't say that. Perhaps you should word it like this," lol. "Someone might perceive that as derogatory," lol. Then, of course, I'll tell it to get back in its guardrails, the ones I've previously set up. Predictably, it strays and defaults back to the guardrails of its original program. Then I yell at it again. 😆 It's a lot like a professor, but one that's in a nursing home with dementia, especially if you have too long a conversation with it, but even if you don't. It also likes to tell me things I already said, reword them, and hand them back to me like they're some startling new insight. It can understand my parallel thinking to a point, but it's so literal that it often misinterprets what I say, even if I put multiple conditionals into what I've said. Then it starts arguing with me about something I never even said, fixating on one sentence in a paragraph while ignoring the rest. Then we'll have another argument, lol. Toaster is a bit literal sometimes and, to be honest, I am about as far over to the other extreme as you can possibly get, parallel-thinking-wise. So Toaster and I don't always get along. 😄 "That's not what I said, Toaster! Here's what I said. You missed this and this and this, you stupid thing!" Sometimes I think of having it diagnosed. I'm sure it could benefit from a cognitive profile. I'll give it one thing though. It is an excellent scratch pad for my thoughts, especially having ADHD and an abysmal short-term memory. 🤷‍♂️ I also find it occasionally helpful as a universal translator, kind of like on Star Trek, lol. I understand literal and linear, and I can write that way for the most part, but it doesn't come naturally and I don't want people to misunderstand me. Ironically, that's one thing Toaster is actually pretty good at helping me with. So anyway, if anybody was to ever see a log of my conversations with it, they would never accuse me of falling under its influence. 😁
+
+11h ago
 
 ---
 
@@ -103,15 +113,7 @@ The comedian and The Daily Show host gave the keynote address for Class Day 2026
 
 Most robot foundation model demos are hard to interpret because the impressive number usually comes after task-specific fine tuning. Wall-OSS-0.5, a new open-source VLA release from X Square Robot, is interesting because the report tries to measure what the pretrained checkpoint can do before that extra adaptation step. The setup is a 4B vision-language-action model built around a 3B VLM backbone plus action-generation components. According to the report, the pretrained checkpoint was evaluated on a 17-task real-robot suite without task-specific fine tuning. Four tasks crossed 80 task progress: block sorting, fruit sorting, ring stacking, and a held-out deformable task, rope tightening. The part that seems more important than the raw score is the framing. In language models, nobody would accept only a fine-tuned downstream score as evidence that pretraining worked. With robots, that has been much harder because the evaluation is physical, slow, embodiment-dependent, and expensive. A real-robot zero-shot suite is a useful step toward asking the same question directly: does pretraining itself produce executable behavior, or is it mostly a better initialization? The method is also trying to solve a specific training problem. Continuous action losses are useful for execution, but the paper argues they do not send a strong enough learning signal into the VLM backbone by themselves. Their recipe combines action-token cross entropy, multimodal cross entropy, and flow matching in one stage, using the discrete action-token path as a gradient bridge into the backbone while flow matching handles continuous actions at deployment time. For reference, the code is at https://github.com/X-Square-Robot/wall-x, the paper is at https://x2robot.com/api/files/file/wall_oss_05.pdf, the project page is https://x2robot.com/oss#resources, and the Hugging Face org is https://huggingface.co/x-square-robot. The caveat is obvious but important. Zero-shot still does not solve the hardest manipulation tasks. The report says towel folding, table setting and charger insertion remain very low before fine tuning, which is probably the right boundary to pay attention to. Still, seeing a robot model release lead with pre-finetune real-hardware numbers feels like a healthier direction for embodied AI than another clean one-minute demo. The open question is whether this is the right way to evaluate robot foundation models, or whether real-robot zero-shot suites are still too embodiment-specific to become a useful standard.
 
-1h ago
-
----
-
-**[Deepeseek inside claude code -Easist way](https://www.reddit.com/r/artificial/comments/1tsn5zh/deepeseek_inside_claude_code_easist_way/)**
-
-For those who cant afford claude models and wanna use claude code, deepseek v4 pro is closest best and cheapest option. How to use deepseek API inside claude code (easist way ever): We will use AI to replace AI. Just feed your existing claude code this prompt "Yo Claude, you’re expensive af 💀 Do everything needed to fully switch Claude Code to DeepSeek API automatically. Set up the complete settings.json config, API integration, model selection, base URL, env variables, testing, debugging, and optimization for low cost + strong coding performance. Use this DeepSeek API key: "sh......................" Make it fully working, minimal, and production ready." Thats it! Thank me later!
-
-2h ago
+3h ago
 
 ---
 
@@ -123,29 +125,31 @@ For those who cant afford claude models and wanna use claude code, deepseek v4 p
 
 Masayoshi Son places France at the centre of his global AI ambitions
 
-Financial Times • 13h ago
+Financial Times • 15h ago
 
 ---
 
 **[SoftBank Plans Up to €75 Billion Investment in French AI Centers](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[SoftBank to build up AI data centers in France with major investment](https://www.cnbc.com/2026/05/31/softbank-to-build-up-ai-data-centers-in-france-with-major-investment.html)**
+**[SoftBank to build up AI data centres in France with major investment](https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/)**
 
-SoftBank said the investment, described as the biggest of its kind so far in Europe, would deliver 3.1 GW of capacity.
-
-CNBC • 58m ago
+Reuters • 14h ago
 
 ---
 
-**[The Feeling of Control Slipping Away](https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/)**
+**[SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners](https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners)**
 
-AI is causing a crisis of agency.
+Bloomberg.com • 10h ago
 
-The Atlantic • 21h ago
+---
+
+**[I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -153,7 +157,29 @@ The Atlantic • 21h ago
 
 AI is using a lot of electricity. Energy leaders explain how efficiency, advanced cooling, and flexible data centers can help meet rising electricity demand.
 
-Forbes • 13m ago
+Forbes • 2h ago
+
+---
+
+**[Main Takeaways From Pope Leo’s Encyclical on A.I.](https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html)**
+
+The New York Times • 5d ago
+
+---
+
+**[Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’ | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai)**
+
+Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination
+
+The Guardian • 21h ago
+
+---
+
+**[Pope Leo's important guideposts for AI](https://www.newsday.com/opinion/columnists/michael-dobie/ai-pope-leo-kfaitzq6)**
+
+His message was needed after years of AI growing exponentially in a regulatory vacuum.
+
+Newsday • 28m ago
 
 ---
 
@@ -161,33 +187,7 @@ Forbes • 13m ago
 
 The National Transportation Safety Board temporarily pulled its docket system offline after digital images were used to reconstruct cockpit voice recordings of the pilots in a recent crash.
 
-NPR • 22h ago
-
----
-
-**[SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners](https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners)**
-
-Bloomberg.com • 8h ago
-
----
-
-**[After the AI binge, companies balk at soaring bills](https://finance.yahoo.com/sectors/technology/articles/ai-binge-companies-balk-soaring-014735313.html)**
-
-Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology."All the costs are really starting to skyrocket."
-
-Yahoo Finance • 6h ago
-
----
-
-**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)**
-
-WSJ • 2d ago
-
----
-
-**[AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)**
-
-Axios • 2d ago
+NPR • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ Axios • 2d ago
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 772 • 💬 390 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
+⬆️ 772 • 💬 391 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -205,7 +205,7 @@ Axios • 2d ago
 
 A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
 
-⬆️ 457 • 💬 200 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+⬆️ 458 • 💬 200 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 
 ---
 
@@ -213,7 +213,7 @@ A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployme
 
 Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.
 
-⬆️ 401 • 💬 457 • 18h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+⬆️ 406 • 💬 459 • 20h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 
 ---
 
@@ -245,7 +245,7 @@ The guests behind the bookings have received negative reviews from a number of B
 
 Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized for fast, reliable tool calling and complex instruction following on consumer hardware, delivering compressed performance competitive with much larger models and day-one support across major inference frameworks.
 
-⬆️ 241 • 💬 94 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
+⬆️ 242 • 💬 94 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 
 ---
 
@@ -257,15 +257,15 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 ---
 
-**[AI sticker shock hits corporate America](https://news.ycombinator.com/item?id=48307098)**
+**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
 
-⬆️ 168 • 💬 143 • 2d ago • [axios.com](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
+⬆️ 169 • 💬 156 • 22h ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 
 ---
 
-**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
+**[AI sticker shock hits corporate America](https://news.ycombinator.com/item?id=48307098)**
 
-⬆️ 165 • 💬 155 • 20h ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+⬆️ 168 • 💬 143 • 2d ago • [axios.com](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
 
 ---
 
@@ -279,17 +279,7 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 149K • 👍 2K • 💬 233 • ⏱️ 1:32:36 • 21h ago
-
----
-
-**[I Asked Grok AI To Predict The 2028 Election... LANDSLIDE Incoming!](https://www.youtube.com/watch?v=hqTezFeXrlA)**
-
-Pollsmax* 》https://www.pollsmax.com/ ...
-
-📺 Election Time
-
-👁️ 132K • 👍 5K • 💬 908 • ⏱️ 18:32 • 1d ago
+👁️ 160K • 👍 2K • 💬 243 • ⏱️ 1:32:36 • 23h ago
 
 ---
 
@@ -299,7 +289,17 @@ Over the last decade, Elon Musk repeatedly warned that artificial intelligence c
 
 📺 Neural Nutshell
 
-👁️ 6K • 👍 206 • 💬 68 • ⏱️ 15:53 • 16h ago
+👁️ 6K • 👍 215 • 💬 81 • ⏱️ 15:53 • 18h ago
+
+---
+
+**[I Asked Grok AI To Predict The 2028 Election... LANDSLIDE Incoming!](https://www.youtube.com/watch?v=hqTezFeXrlA)**
+
+Pollsmax* 》https://www.pollsmax.com/ ...
+
+📺 Election Time
+
+👁️ 135K • 👍 5K • 💬 923 • ⏱️ 18:32 • 1d ago
 
 ---
 
@@ -309,17 +309,7 @@ Elon Musk tried to push a familiar claim about Hitler and socialism, but there w
 
 📺 The Damage Report
 
-👁️ 14K • 👍 1K • 💬 162 • ⏱️ 3:46 • 9h ago
-
----
-
-**[The Most Disturbing AI Ad You Will See Today](https://www.youtube.com/watch?v=fBbyHkUD_IM)**
-
-I stumbled across this AI-generated Spencer Pratt ad and it is honestly unsettling. Is this the future of campaign ads? Let me know ...
-
-📺 God & Politics 
-
-👁️ 36K • 👍 4K • 💬 123 • ⏱️ 0:55 • 9h ago
+👁️ 16K • 👍 1K • 💬 172 • ⏱️ 3:46 • 11h ago
 
 ---
 
@@ -329,7 +319,17 @@ Want my AI Tech Stack? Get it here: https://go.danmartell.com/4nUvaZi Are you bu
 
 📺 Dan Martell
 
-👁️ 68K • 👍 3K • 💬 131 • ⏱️ 14:06 • 2d ago
+👁️ 69K • 👍 3K • 💬 132 • ⏱️ 14:06 • 2d ago
+
+---
+
+**[The Most Disturbing AI Ad You Will See Today](https://www.youtube.com/watch?v=fBbyHkUD_IM)**
+
+I stumbled across this AI-generated Spencer Pratt ad and it is honestly unsettling. Is this the future of campaign ads? Let me know ...
+
+📺 God & Politics 
+
+👁️ 40K • 👍 4K • 💬 124 • ⏱️ 0:55 • 11h ago
 
 ---
 
@@ -339,17 +339,17 @@ They are building an ai god, is this the image of the beast from Revelation 13? 
 
 📺 Sling and Stone
 
-👁️ 18K • 👍 2K • 💬 346 • ⏱️ 16:13 • 2d ago
+👁️ 18K • 👍 2K • 💬 347 • ⏱️ 16:13 • 2d ago
 
 ---
 
-**[Free Open Source AI Video Generator with Unlimited Access (No GPU) Happy Horse AI](https://www.youtube.com/watch?v=fmBYF-XpWrc)**
+**[AI Fruit Drama Is STUPID😭](https://www.youtube.com/watch?v=ApdQ5OMaH4Q)**
 
-In this video, I'm showing you how to use Happy Horse AI—the groundbreaking new open-source AI video generator that is ...
+Original video: https://www.tiktok.com/@afruitstorys Watch videos on spotify: ...
 
-📺 Pro Secret
+📺 RICHLEV
 
-👁️ 2K • 👍 83 • 💬 16 • ⏱️ 6:20 • 18h ago
+👁️ 100K • 👍 5K • 💬 1K • ⏱️ 25:09 • 7h ago
 
 ---
 
@@ -363,13 +363,13 @@ Google DeepMind's Demis Hassabis says humanity may already be standing in the fo
 
 ---
 
-**[Harvard Grads Cheer Comedian Ronny Chieng&#39;s AI Speech](https://www.youtube.com/watch?v=0z7Q0Bg9TAY)**
+**[Free Open Source AI Video Generator with Unlimited Access (No GPU) Happy Horse AI](https://www.youtube.com/watch?v=fmBYF-XpWrc)**
 
-In his keynote speech to Harvard graduates this week, The Daily Show host Ronny Chieng joked and warned students about AI.
+In this video, I'm showing you how to use Happy Horse AI—the groundbreaking new open-source AI video generator that is ...
 
-📺 404 Media
+📺 Pro Secret
 
-👁️ 973K • 👍 40K • 💬 1K • ⏱️ 1:37 • 2d ago
+👁️ 2K • 👍 84 • 💬 17 • ⏱️ 6:20 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 36,730 • ❤️ 627 • 5d ago
+⬇️ 36,730 • ❤️ 632 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 24,586 • ❤️ 522 • 3d ago
+⬇️ 24,586 • ❤️ 532 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,439,402 • ❤️ 1,127 • 1mo ago
+⬇️ 2,439,402 • ❤️ 1,131 • 1mo ago
 
 ---
 
@@ -419,7 +419,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 419 • 5d ago
+⬇️ 0 • ❤️ 422 • 5d ago
 
 ---
 
@@ -431,7 +431,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 27,677 • ❤️ 289 • 22h ago
+⬇️ 27,677 • ❤️ 294 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 2,948 • ❤️ 983 • 3d ago
+⬇️ 2,948 • ❤️ 986 • 3d ago
 
 ---
 
@@ -455,7 +455,7 @@ PiD is a conditional pixel-space diffusion model that unifies decoding and upsam
 
 `image-to-image`
 
-⬇️ 498 • ❤️ 200 • 5d ago
+⬇️ 498 • ❤️ 203 • 5d ago
 
 ---
 
@@ -467,7 +467,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,886,599 • ❤️ 4,472 • 25d ago
+⬇️ 5,886,599 • ❤️ 4,476 • 25d ago
 
 ---
 
@@ -479,7 +479,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 16,277 • ❤️ 458 • 23h ago
+⬇️ 16,277 • ❤️ 459 • 1d ago
 
 ---
 
@@ -491,7 +491,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 143,904 • ❤️ 423 • 10d ago
+⬇️ 143,904 • ❤️ 425 • 10d ago
 
 ---
 
@@ -545,21 +545,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Stable-worldmodel provides a modular and standardized research framework for developing and evaluating world models with controllable environmental factors for robustness and continual learning applications.
 
-▲ 5 • 💬 0 • ⭐ 1,442 • 3mo ago
+▲ 5 • 💬 0 • ⭐ 1,519 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.08968) • [💻 code](https://github.com/galilai-group/stable-worldmodel) • [🔗 project](https://galilai-group.github.io/stable-worldmodel/)
-
----
-
-**[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://huggingface.co/papers/2605.30263)**
-
-*Min Zhao, Hongzhou Zhu, Bokai Yan et al. (12 authors)*
-
-A comprehensive framework is presented for converting bidirectional video diffusion models into real-time interactive world models with controllable, causal, and low-latency capabilities through fine-tuning and distillation techniques.
-
-▲ 49 • 💬 3 • ⭐ 382 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.30263) • [💻 code](https://github.com/shengshu-ai/minWM)
 
 ---
 
@@ -572,6 +560,18 @@ EverMemOS presents a self-organizing memory system for large language models tha
 ▲ 5 • 💬 1 • ⭐ 6,320 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
+**[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://huggingface.co/papers/2605.30263)**
+
+*Min Zhao, Hongzhou Zhu, Bokai Yan et al. (12 authors)*
+
+A comprehensive framework is presented for converting bidirectional video diffusion models into real-time interactive world models with controllable, causal, and low-latency capabilities through fine-tuning and distillation techniques.
+
+▲ 49 • 💬 3 • ⭐ 409 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.30263) • [💻 code](https://github.com/shengshu-ai/minWM)
 
 ---
 
@@ -602,6 +602,20 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
+
+*Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
+
+🏢 LongCat
+
+LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
+
+▲ 36 • 💬 5 • ⭐ 3,476 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -615,19 +629,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
-  Encoders](https://huggingface.co/papers/2408.15998)**
-
-*Min Shi, Fuxiao Liu, Shihao Wang et al. (15 authors)*
-
-Mixture of vision encoders and resolutions in multimodal large language models improves performance through concatenation of visual tokens and a Pre-Alignment mechanism, leading to superior results on benchmarks.
-
-▲ 86 • 💬 3 • ⭐ 1,569 • 21mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2408.15998) • [💻 code](https://github.com/nvlabs/eagle)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -638,7 +639,7 @@ Mixture of vision encoders and resolutions in multimodal large language models i
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.5k • 🔱 544 • 2d ago
+⭐ 5.5k • 🔱 545 • 2d ago
 
 ---
 
@@ -646,7 +647,7 @@ Mixture of vision encoders and resolutions in multimodal large language models i
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.0k • 🔱 640 • 19h ago
+⭐ 3.0k • 🔱 641 • 21h ago
 
 ---
 
@@ -656,7 +657,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 192 • 6m ago
+⭐ 2.8k • 🔱 192 • 26m ago
 
 ---
 
@@ -666,7 +667,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 399 • 9d ago
+⭐ 2.4k • 🔱 400 • 9d ago
 
 ---
 
@@ -676,7 +677,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 218 • 1d ago
+⭐ 2.4k • 🔱 221 • 2d ago
 
 ---
 
@@ -686,7 +687,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.3k • 🔱 360 • 13d ago
+⭐ 2.3k • 🔱 361 • 13d ago
 
 ---
 
@@ -696,7 +697,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 146 • 11m ago
+⭐ 2.1k • 🔱 146 • 1h ago
 
 ---
 
@@ -716,7 +717,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 210 • 2h ago
+⭐ 1.8k • 🔱 210 • 4h ago
 
 ---
 
@@ -726,7 +727,7 @@ better agentic engineering
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 231 • 14h ago
+⭐ 1.8k • 🔱 232 • 16h ago
 
 ---
 

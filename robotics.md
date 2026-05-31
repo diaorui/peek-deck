@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T08:25:54.575824+00:00'
+updated: '2026-05-31T10:30:27.974405+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 08:25 UTC  
+**Last Updated:** May 31, 2026 at 10:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-16h ago
+18h ago
+
+---
+
+**[Anyone have experience with an Agibot G1? Looking for ROS2 advice.](https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/)**
+
+Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
+
+1h ago
 
 ---
 
@@ -44,7 +52,7 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/2059892813505142786
 
-22h ago
+1d ago
 
 ---
 
@@ -52,7 +60,7 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/Robotics-Automation-Technology-Associate-of-Applie .What jobs should I apply for?
 
-2h ago
+4h ago
 
 ---
 
@@ -66,7 +74,7 @@ https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/R
 
 Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 360 and 3D printed, using a custom timing belt system for full wrist movement. MK1 will be a step up from my MK0 bionic hand, with 17 DOF, computer vision, and MediaPipe for gesture recognition. Next step — finger movement 🦾 https://reddit.com/link/1tsf18a/video/12fxn1dy0d4h1/player YouTube GitHub
 
-8h ago
+10h ago
 
 ---
 
@@ -74,7 +82,7 @@ Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 36
 
 Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
 
-22h ago
+1d ago
 
 ---
 
@@ -82,7 +90,7 @@ Closeup of the belt drive transmission inside my core joint. Belt drive chosen s
 
 Hi everyone, I have been working on a text-to-cad generator for gears (eventually I'll incorporate other mechanical item). But I would like some people that need quick gear models for robotics or other projects to see if the UI makes sense, the cad models are accurate, and if it's a useful program in general. I've tried it myself and the gears are parametrically accurate with involute curve tooth profiles and seem to open perfectly in Solidworks. Also, the models look good when I bring them into my Bambu slicer for printing. Basically you just type a prompt like, "Make a spur gear with 32 teeth and a 2in pitch diameter", adjust any other feature dimensions as needed, then download the .STL or .step. If you're interested let me know or dm me. Thanks!
 
-5h ago
+7h ago
 
 ---
 
@@ -90,19 +98,13 @@ Hi everyone, I have been working on a text-to-cad generator for gears (eventuall
 
 Hey everyone, I recently created what I think is a fun and engaging environment for teachers to teach concepts relating to computer literacy, programming, and robotics. I would love to hear opinions from anyone about it. Take a look, and let me know what you think. Ahead warning, there are no seriously difficult skills required to use the system, but the learning curve is just a "bit" steep at the beginning. If you hang in there and read the documentation, you will get a great idea of how it all works. Thanks so much for your time! NOTE: Yes, I agree that there is a hint of self-promotion in this post, but I am mostly interested in opinions, NOT exposure in terms of tip-conversion. Mods, if you think this is unreasonable, you know what to do, and I respect your decision. 😉 Here is the project link: https://eschaeffer.github.io/botbattles/
 
-11h ago
+13h ago
 
 ---
 
 **[Robot arm and hand movement](https://www.reddit.com/r/robotics/comments/1trssj5/robot_arm_and_hand_movement/)**
 
 1d ago
-
----
-
-**[My current user interface/dashboard of my robot, with many new features: tilt-liddar automation, go section for collision, etc.](https://www.reddit.com/r/robotics/comments/1tsc1h6/my_current_user_interfacedashboard_of_my_robot/)**
-
-10h ago
 
 ---
 
@@ -114,7 +116,7 @@ Hey everyone, I recently created what I think is a fun and engaging environment 
 
 With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
@@ -150,14 +152,6 @@ eWeek • 1d ago
 
 ---
 
-**[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
-
-Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
-
-NVIDIA Blog • 2d ago
-
----
-
 **[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus/)**
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
@@ -174,19 +168,27 @@ Bessemer Venture Partners • 3d ago
 
 ---
 
+**[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
+
+Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
+
+NVIDIA Blog • 2d ago
+
+---
+
 **[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub)**
 
 Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 22h ago
 
 ---
 
-**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
+**[No, the robots spotted around Dallas World Cup sites are not scanning fans’ faces, company says](https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b)**
 
-Will humanoids redefine how battles are fought and won?
+A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
 
-Popular Mechanics • 2d ago
+WFAA • 1d ago
 
 ---
 
@@ -200,7 +202,7 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 17K • 👍 350 • 💬 72 • ⏱️ 5:11 • 2d ago
+👁️ 18K • 👍 358 • 💬 72 • ⏱️ 5:11 • 2d ago
 
 ---
 
@@ -210,7 +212,17 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 50K • 👍 1K • 💬 42 • ⏱️ 10:21 • 3d ago
+👁️ 51K • 👍 1K • 💬 43 • ⏱️ 10:21 • 3d ago
+
+---
+
+**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
+
+The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
+
+📺 Ryan Shaw
+
+👁️ 59K • 👍 2K • 💬 334 • ⏱️ 29:20 • 18h ago
 
 ---
 
@@ -220,7 +232,27 @@ New Vulcan Robot has arrived. I had a feeling we were getting a new robot in thi
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 497 • 💬 94 • ⏱️ 13:43 • 20h ago
+👁️ 12K • 👍 512 • 💬 95 • ⏱️ 13:43 • 22h ago
+
+---
+
+**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+
+The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+
+📺 PREDATOR WR
+
+👁️ 11K • 👍 399 • 💬 95 • ⏱️ 13:36 • 1d ago
+
+---
+
+**[Does This Robot Excite You… or Terrify You? 😲😨](https://www.youtube.com/watch?v=KPV4malaHfI)**
+
+Does This Robot Excite You… or Terrify You? Humanoid robots are becoming more advanced — and some demonstrations ...
+
+📺 Milopax
+
+👁️ 6K • 👍 96 • 💬 20 • ⏱️ 0:26 • 20h ago
 
 ---
 
@@ -240,57 +272,27 @@ NOTE FROM TED: TEDx events are independently organized by volunteers. The guidel
 
 📺 TEDx Talks
 
-👁️ 20K • 👍 492 • 💬 73 • ⏱️ 19:39 • 1d ago
+👁️ 22K • 👍 520 • 💬 79 • ⏱️ 19:39 • 1d ago
 
 ---
 
-**[Does This Robot Excite You… or Terrify You? 😲😨](https://www.youtube.com/watch?v=KPV4malaHfI)**
+**[Delivery Robots Under Attack in LA😱](https://www.youtube.com/watch?v=_8nBMUUgSHo)**
 
-Does This Robot Excite You… or Terrify You? Humanoid robots are becoming more advanced — and some demonstrations ...
+LA youths are ganging up on delivery robots.   Videos circulating online show young people in Los Angeles pushing over, ...
 
-📺 Milopax
+📺 箭厂ArrowFactory Doc
 
-👁️ 5K • 👍 90 • 💬 20 • ⏱️ 0:26 • 18h ago
-
----
-
-**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
-
-On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
-
-📺 ESPN
-
-👁️ 300K • 👍 5K • 💬 565 • ⏱️ 4:57 • 5d ago
+👁️ 20K • 👍 37 • 💬 11 • ⏱️ 0:14 • 3d ago
 
 ---
 
-**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+**[This Robot Mower Just Eliminated the Weed Trimmer](https://www.youtube.com/watch?v=fX3spGDe_qs)**
 
-The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+The new ECOVACS GOAT A3000 LiDAR PRO doesn't just mow your lawn autonomously — it actually trims edges using the new ...
 
-📺 PREDATOR WR
+📺 Pest and Lawn Ginja
 
-👁️ 11K • 👍 397 • 💬 95 • ⏱️ 13:36 • 1d ago
-
----
-
-**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
-
-Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
-
-📺 Techie Sapien
-
-👁️ 695K • 👍 5K • 💬 93 • ⏱️ 0:07 • 1d ago
-
----
-
-**[LimX Luna Robot Walks and Dances Like a Real Human](https://www.youtube.com/watch?v=yxZLeXho-OM)**
-
-A new humanoid robot is making headlines for one incredible reason: it walks and dances with movements that look surprisingly ...
-
-📺 DPCcars
-
-👁️ 1K • 👍 26 • 💬 6 • ⏱️ 2:57 • 1d ago
+👁️ 6K • 👍 88 • 💬 30 • ⏱️ 11:40 • 1d ago
 
 ---
 

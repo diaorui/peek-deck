@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T08:25:54.573011+00:00'
+updated: '2026-05-31T10:30:27.971601+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 08:25 UTC  
+**Last Updated:** May 31, 2026 at 10:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,029.70
+### $2,021.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -4.1%  
-**30d:** -12.5%  
-**90d:** +2.2%  
-**1y:** -20.0%  
+**24h:** +0.0%  
+**7d:** -4.5%  
+**30d:** -12.8%  
+**90d:** +1.8%  
+**1y:** -20.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.30B
+**Market Cap:** $243.13B
 Rank #2
 
 **Circulating Supply:** 120,685,243 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.1%
+-59.3%
 
 **All-Time Low:** $0.43
-+467416.9%
++465266.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+5h ago
 
 ---
 
@@ -158,11 +158,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**['Ethereum Wins The Scoreboard,' Says SharpLink CEO, Comparing ETH's Long Game To Bezos's Amazon Bet](https://finance.yahoo.com/markets/crypto/articles/ethereum-wins-scoreboard-says-sharplink-093303137.html)**
+
+SharpLink beats ETFs with permanent capital, near-full staking, $200 million restaking, and 6%-to-47% institutional ownership, said CEO Joseph Chalom.
+
+Yahoo Finance • 57m ago
+
+---
+
 **[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 9h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -170,7 +178,7 @@ The Motley Fool • 9h ago
 
 Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -186,7 +194,7 @@ CoinDesk • 2d ago
 
 Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-TradingView • 16h ago
+TradingView • 18h ago
 
 ---
 
@@ -194,15 +202,15 @@ TradingView • 16h ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 4h ago
 
 ---
 
-**[Ethereum Is Winning, But Its Token Holders Are Losing Faith.](https://www.forbes.com/sites/astanley/2026/05/30/ethereum-is-winning-but-its-token-holders-are-losing-faith/)**
+**[Ethereum Weekly Price Forecast: Onchain data paints bearish picture](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-onchain-data-paints-bearish-picture-202605301536)**
 
-Ethereum the network has become the financial infrastructure its supporters always dreamed of. But ETH the token has taken a different turn
+Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
 
-Forbes • 9h ago
+FXStreet • 18h ago
 
 ---
 
@@ -214,17 +222,9 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[MicroStrategy Corrects Bitcoin Sell-Off Fears With $30 Million Withdrawal](https://beincrypto.com/microstrategy-bitcoin-sell-off-fears-reversal/)**
+**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/?p=603525)**
 
-Strategy pulled 411.5 BTC from Coinbase Prime, easing sell-off fears as BitMine bought $50.6 million in ETH on the dip.
-
-BeInCrypto • 1d ago
-
----
-
-**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/early-signals-show-xrp-outpacing-ethereum-in-q2-can-it-happen/)**
-
-AMBCrypto • 16h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 10K • 👍 579 • 💬 120 • ⏱️ 7:50 • 20h ago
+👁️ 10K • 👍 597 • 💬 121 • ⏱️ 7:50 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 432 • 💬 77 • ⏱️ 18:46 • 16h ago
+👁️ 14K • 👍 457 • 💬 85 • ⏱️ 18:46 • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 5K • 👍 177 • 💬 28 • ⏱️ 36:57 • 13h ago
+👁️ 6K • 👍 198 • 💬 29 • ⏱️ 36:57 • 15h ago
 
 ---
 
@@ -282,33 +282,23 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 ---
 
-**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
-
-Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 94 • 💬 22 • ⏱️ 1:19 • 16h ago
-
----
-
-**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
-
-CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 416 • 💬 62 • ⏱️ 47:42 • 1d ago
-
----
-
 **[Bitcoin &amp; Ethereum, alles läuft nach Plan, wir warten jetzt geduldig auf unsere Chance! NUTZE DAS!!](https://www.youtube.com/watch?v=pgJkwuQe32U)**
 
 DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + ...
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 342 • 💬 38 • ⏱️ 13:33 • 3h ago
+👁️ 2K • 👍 422 • 💬 44 • ⏱️ 13:33 • 5h ago
+
+---
+
+**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
+
+Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 104 • 💬 16 • ⏱️ 1:19 • 18h ago
 
 ---
 
@@ -318,17 +308,27 @@ BITCOIN & ALTCOINS FLIPPED: Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 3K • 👍 211 • 💬 211 • ⏱️ 17:41 • 6h ago
+👁️ 4K • 👍 226 • 💬 266 • ⏱️ 17:41 • 8h ago
 
 ---
 
-**[It&#39;s CLARITY Stupid!🔥Price Predictions Are Useless Right Now📉](https://www.youtube.com/watch?v=KElFoweJ3w8)**
+**[🚨 Flash CRYPTO ⚡️ Le marché devient caliente 🥵 mauvais signal pour Ethereum et CKB Nervos 🛜](https://www.youtube.com/watch?v=Ry7oz3XqDaA)**
 
-The CLARITY Act, which is still walking a tightrope, has yet to make it to the president's desk. Even though Trump has repeatedly ...
+Rejoignez nous sur Patreon pour soutenir le travail quotidien, retrouver les vidéos exclusives, le CPT Gang et la CPT Université ...
 
-📺 Paul Barron Network
+📺 Crypto ET Bourse pour Tous
 
-👁️ 30K • 👍 2K • 💬 99 • ⏱️ 8:24 • 2d ago
+👁️ 3K • 👍 617 • 💬 115 • ⏱️ 17:24 • 19h ago
+
+---
+
+**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
+
+CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 424 • 💬 62 • ⏱️ 47:42 • 1d ago
 
 ---
 
