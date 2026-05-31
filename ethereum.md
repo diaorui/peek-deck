@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T18:44:20.437780+00:00'
+updated: '2026-05-31T20:09:06.760264+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 18:44 UTC  
+**Last Updated:** May 31, 2026 at 20:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,004.78
+### $1,998.61
 
 ---
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.35B
+**Market Cap:** $241.33B
 Rank #2
 
 **Circulating Supply:** 120,685,243 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.6%
 
 **All-Time Low:** $0.43
-+461442.0%
++461673.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -170,7 +170,15 @@ FXStreet • 1d ago
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
+
+---
+
+**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
+
+BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
+
+Seeking Alpha • 13h ago
 
 ---
 
@@ -182,27 +190,11 @@ The Block • 3d ago
 
 ---
 
-**['Ethereum Wins The Scoreboard,' Says SharpLink CEO, Comparing ETH's Long Game To Bezos's Amazon Bet](https://www.tradingview.com/news/stocktwits:f1dc057ce094b:0-ethereum-wins-the-scoreboard-says-sharplink-ceo-comparing-eth-s-long-game-to-bezos-s-amazon-bet/)**
+**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
 
-Joseph Chalom, Chief Executive Officer (CEO) of Ethereum (ETH) treasury firm SharpLink Inc. (SBET), stated in an interview on Saturday on the RollUp platform that recent criticism targeting the Ethereum network and its foundation is "noise" that loses sight of the bigger picture.Chalom, who has 20…
+Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-TradingView • 9h ago
-
----
-
-**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
-
-BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
-
-Seeking Alpha • 12h ago
-
----
-
-**[Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)**
-
-In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
-
-CoinDesk • 2d ago
+TradingView • 1d ago
 
 ---
 
@@ -210,7 +202,15 @@ CoinDesk • 2d ago
 
 Moonwell's MIP-E00 proposal seeks to deploy ETH, USDC, USDT, and cbBTC lending markets on Ethereum mainnet, with 99.9% early voting support and a 65.2M WELL quorum requirement.
 
-Crypto Briefing • 1d ago
+Crypto Briefing • 2d ago
+
+---
+
+**[Why the Ethereum Foundation is suddenly again at the center of crypto’s culture war](https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war)**
+
+In this week's edition of the Protocol Newsletter, we're diving deep into the institution that has been the main steward for the Ethereum blockchain, and why its been back in the spotlight.
+
+CoinDesk • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 641 • 💬 174 • ⏱️ 7:50 • 1d ago
+👁️ 12K • 👍 655 • 💬 177 • ⏱️ 7:50 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 528 • 💬 97 • ⏱️ 18:46 • 1d ago
+👁️ 18K • 👍 546 • 💬 100 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 7K • 👍 250 • 💬 44 • ⏱️ 36:57 • 23h ago
+👁️ 8K • 👍 267 • 💬 46 • ⏱️ 36:57 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 186 • 💬 50 • ⏱️ 20:38 • 2d ago
+👁️ 7K • 👍 188 • 💬 50 • ⏱️ 20:38 • 2d ago
 
 ---
 
@@ -278,17 +278,17 @@ MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7j
 
 📺 Linda CryptoFly
 
-👁️ 2K • 👍 179 • 💬 49 • ⏱️ 7:41 • 2d ago
+👁️ 2K • 👍 181 • 💬 49 • ⏱️ 7:41 • 2d ago
 
 ---
 
-**[Tom Lee Explains Ethereum’s Selling Pressure](https://www.youtube.com/watch?v=0wM30teWMFg)**
+**[🚨 Ethereum CRASHING… BMNR Next? Did Trump’s Iran Decision Just Change Everything?](https://www.youtube.com/watch?v=AO5jhnvYH5c)**
 
-This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom Lee explains Ethereum's sell pressure, the SEC ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 The BarterTown Conglomerate
+📺 MONEY GAME
 
-👁️ 116 • 👍 2 • ⏱️ 1:00:53 • 6h ago
+👁️ 3K • 👍 76 • 💬 18 • ⏱️ 22:52 • 9h ago
 
 ---
 
@@ -298,17 +298,7 @@ Ethereum's price is stuck exactly where it was five years ago while tech stocks 
 
 📺 Lark Davis
 
-👁️ 7K • 👍 118 • 💬 24 • ⏱️ 1:19 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=MfZcR-UQJOM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 523 • 👍 71 • ⏱️ 6:48 • 5h ago
+👁️ 8K • 👍 126 • 💬 25 • ⏱️ 1:19 • 1d ago
 
 ---
 
@@ -318,17 +308,27 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 452 • 💬 82 • ⏱️ 47:42 • 1d ago
+👁️ 5K • 👍 468 • 💬 82 • ⏱️ 47:42 • 1d ago
 
 ---
 
-**[It&#39;s CLARITY Stupid!🔥Price Predictions Are Useless Right Now📉](https://www.youtube.com/watch?v=KElFoweJ3w8)**
+**[Tom Lee Explains Ethereum’s Selling Pressure](https://www.youtube.com/watch?v=0wM30teWMFg)**
 
-The CLARITY Act, which is still walking a tightrope, has yet to make it to the president's desk. Even though Trump has repeatedly ...
+This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom Lee explains Ethereum's sell pressure, the SEC ...
 
-📺 Paul Barron Network
+📺 The BarterTown Conglomerate
 
-👁️ 31K • 👍 2K • 💬 110 • ⏱️ 8:24 • 2d ago
+👁️ 117 • 👍 2 • ⏱️ 1:00:53 • 8h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=MfZcR-UQJOM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 882 • 👍 86 • ⏱️ 6:48 • 7h ago
 
 ---
 

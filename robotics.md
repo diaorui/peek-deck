@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T18:44:20.440614+00:00'
+updated: '2026-05-31T20:09:06.763061+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 18:44 UTC  
+**Last Updated:** May 31, 2026 at 20:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Found a Reachy Mini lying around the office and spent an hour giving it a real-time voice brain via GPT Realtime 2. The model basically becomes Reachy. It hears through its mic, sees through its camera, talks through its speaker, and calls motion tools to physically react while it talks. For anyone who wants to do this, here's the repo: https://github.com/opper-ai/reachy-voice-realtime Note: most of the delay is just our turn-detection silence window (set long because we were in a noisy room), which is tunable in the repo, the model itself is built for low-latency speech-to-speech. Key things: Web UI to watch the camera feed, transcript, and tool calls live. 19 motion and perception tools the model calls mid-conversation (emotes, head/antenna/body movement, camera, sound direction). Mimics you, wave and it waves back, nod and it nods, tilt your head and it tilts. Runs on GPT Realtime 2, routed through Opper. Setup's in the README (Python 3.12+), MIT licensed.
 
-2h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Found a Reachy Mini lying around the office and spent an hour giving it a real-t
 
 Hi everyone, I recently had a comment said to me in which someone asked “do you even know if your robots will work?” And I said “yes” to which they scoffed. For context - I’ve been working with cable driven robots (continuum) which is very difficult in comparison to rigid serial link systems from my experience, and it’s taking a lot of trial and error on each design. I’ll have a really good outcome from one robot (shorter in length, good shaping) , and then go to design the next one to be a bit longer and have a completely different outcome (robot has self weight issues, buckling, etc) I’m primarily self taught with these systems and it’s quite a niche field in robotics - yet I’m just curious as to what everyone else’s experience is when designing and building real things that move. I may be taking this comment to heart but it’s really stuck with me in a negative way. I’d love to hear anyone else’s experiences and what they do to keep going.
 
-2h ago
+3h ago
 
 ---
 
@@ -56,11 +56,17 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 ---
 
+**[Get hands dirty on VLA+Immitation + RL](https://www.reddit.com/r/robotics/comments/1tt40u6/get_hands_dirty_on_vlaimmitation_rl/)**
+
+1h ago
+
+---
+
 **[RA B601-DM ROS2 Monitoring Overlay - Open Source](https://www.reddit.com/r/robotics/comments/1tswgd6/ra_b601dm_ros2_monitoring_overlay_open_source/)**
 
 https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda1ca704cadc43c8713b1f998096483772a77 The reBot Arm B601-DM has been open-sourced recently and their ROS2 driver is solid! But what I missed during my first sessions was a quick way to see if the hardware was actually healthy, so I built rebotarm_monitor: a small ROS 2 overlay for passive hardware monitoring & future observability planned. It watches the boring (but useful stuff); stale topics, value jumps, weird torques, unexpected status flags, and surfaces it as a standard diagnostic tree you can open in rqt_robot_monitor. Every threshold is a standard ROS2 parameter, so you can tune rates, jumps, velocity, torque or idle behaviour from YAML or launch args without touching code. Give me a star if you found it usefull x) https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +74,7 @@ https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda
 
 Hi. I saw a lot of people on YouTube use pancake brushless motor for their robotics, such as robot dog But the problem is it is very very expensive https://preview.redd.it/47qndg3pxg4h1.png?width=1566&format=png&auto=webp&s=9bdd07815b19eebfde8719c3dc2aa806187c44e1 So does there any perfect alternative for it I know about servo motor, but the motion space and speed is not the best
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +82,7 @@ Hi. I saw a lot of people on YouTube use pancake brushless motor for their robot
 
 Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +90,7 @@ Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platf
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-4h ago
+6h ago
 
 ---
 
@@ -100,13 +106,7 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 For people training RL agents: What part of debugging takes the most time for you? Examples: - figuring out why policy suddenly collapsed - replaying bad episodes - comparing runs - reward debugging - environment bugs - logging / tracking experiments - visualizing failure cases What do you currently do for it? Scripts? WandB? Manual inspection?
 
-6h ago
-
----
-
-**[i made this robot but still bad](https://www.reddit.com/r/robotics/comments/1trqq34/i_made_this_robot_but_still_bad/)**
-
-1d ago
+7h ago
 
 ---
 
@@ -134,7 +134,7 @@ BBC • 2d ago
 
 An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -146,17 +146,33 @@ KSL News • 1d ago
 
 ---
 
-**[Robotics: Humanoid Hands Are Physical AI’s Anti-Hype Test](https://www.bloomberg.com/opinion/articles/2026-05-31/robotics-humanoid-hands-are-physical-ai-s-anti-hype-test)**
+**[A tiny underwater antenna is changing how robots talk in dark, murky seas](https://techxplore.com/news/2026-05-tiny-underwater-antenna-robots-dark.html)**
 
-Bloomberg.com • 44m ago
+Tech Xplore • 2d ago
 
 ---
 
-**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub)**
+**[2 Tech ETFs for Nearly Every Corner of the Digital Economy: From Semiconductors to Robotics](https://www.fool.com/investing/2026/05/29/2-tech-etfs-for-nearly-every-corner-of-the-digital/)**
 
-Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
+Unless humanity enters another Stone Age, technology will continue to advance. Here's how you can profit from that knowledge.
 
-Interesting Engineering • 1d ago
+The Motley Fool • 1d ago
+
+---
+
+**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus/)**
+
+Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
+
+ZME Science • 2d ago
+
+---
+
+**[NVIDIA Research Advances Robotics From Simulation to the Real World](https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/)**
+
+Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
+
+NVIDIA Blog • 3d ago
 
 ---
 
@@ -166,25 +182,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Hyundai to send 25,000 Atlas robots to the US](https://www.foxnews.com/tech/hyundai-send-25000-atlas-robots-us)**
+**[No, the robots spotted around Dallas World Cup sites are not scanning fans’ faces, company says](https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b)**
 
-Hyundai reportedly plans to deploy over 25,000 Boston Dynamics Atlas humanoid robots across U.S. auto plants, starting at its Georgia facility in 2028.
+A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
 
-Fox News • 2d ago
-
----
-
-**[Interested in Humanoid Robot Stocks? You Might Consider Buying This Humanoid Robotics ETF](https://www.fool.com/investing/2026/05/31/humanoid-robots-etf-stocks-best-to-buy/)**
-
-This humanoid robotics ETF (KOID) has been performing wonderfully, though it's only been in existence for about a year.
-
-The Motley Fool • 2h ago
-
----
-
-**[A tiny underwater antenna is changing how robots talk in dark, murky seas](https://techxplore.com/news/2026-05-tiny-underwater-antenna-robots-dark.html)**
-
-Tech Xplore • 2d ago
+WFAA • 1d ago
 
 ---
 
@@ -192,13 +194,33 @@ Tech Xplore • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Stop Wasting Money On Expensive Robot Vacuums 2026](https://www.youtube.com/watch?v=HOMYo539G7g)**
+
+In this video we look at robots in different price categories and provide more affordable picks. Higher End Alternatives ...
+
+📺 Vacuum Nerds
+
+👁️ 2K • 👍 58 • 💬 16 • ⏱️ 9:24 • 8h ago
+
+---
+
+**[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
+
+NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
+
+📺 TEDx Talks
+
+👁️ 26K • 👍 674 • 💬 106 • ⏱️ 19:39 • 2d ago
+
+---
+
 **[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
 
 The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
 
 📺 Ryan Shaw
 
-👁️ 65K • 👍 2K • 💬 370 • ⏱️ 29:20 • 1d ago
+👁️ 68K • 👍 2K • 💬 391 • ⏱️ 29:20 • 1d ago
 
 ---
 
@@ -208,7 +230,17 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 19K • 👍 381 • 💬 73 • ⏱️ 5:11 • 2d ago
+👁️ 19K • 👍 391 • 💬 73 • ⏱️ 5:11 • 2d ago
+
+---
+
+**[EVERYONE wants to play THIS HAWK Now! War Robots](https://www.youtube.com/watch?v=_1cp6FzL3Uw)**
+
+War Robots Gameplay: Ultimate Hawk, that makes everyone happy! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 499 • 💬 88 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -222,53 +254,13 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 ---
 
-**[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
-
-NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
-
-📺 TEDx Talks
-
-👁️ 25K • 👍 623 • 💬 94 • ⏱️ 19:39 • 2d ago
-
----
-
-**[EVERYONE wants to play THIS HAWK Now! War Robots](https://www.youtube.com/watch?v=_1cp6FzL3Uw)**
-
-War Robots Gameplay: Ultimate Hawk, that makes everyone happy! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 493 • 💬 88 • ⏱️ 19:00 • 1d ago
-
----
-
-**[This Robot Can Tell If Your Choke Actually Works](https://www.youtube.com/watch?v=jMXW18haA0I)**
-
-This advanced jiu-jitsu training robot uses built-in sensors to detect when a choke is applied correctly. It can also move its arms ...
-
-📺 ENERG FACTS
-
-👁️ 7K • 💬 6 • ⏱️ 0:27 • 9h ago
-
----
-
-**[Delivery Robots Under Attack in LA😱](https://www.youtube.com/watch?v=_8nBMUUgSHo)**
-
-LA youths are ganging up on delivery robots.   Videos circulating online show young people in Los Angeles pushing over, ...
-
-📺 箭厂ArrowFactory Doc
-
-👁️ 23K • 👍 40 • 💬 12 • ⏱️ 0:14 • 3d ago
-
----
-
 **[NEW Vulcan Robot Is Here - Behemoth Jr With 3 Stage Energy Cannon | War Robots](https://www.youtube.com/watch?v=B_p2JLVIXQo)**
 
 New Vulcan Robot has arrived. I had a feeling we were getting a new robot in this week's test server and we got it. This thing is ...
 
 📺 PREDATOR WR
 
-👁️ 13K • 👍 534 • 💬 98 • ⏱️ 13:43 • 1d ago
+👁️ 13K • 👍 542 • 💬 98 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -282,13 +274,23 @@ The sword bot is everywhere. In the skies and on the ground. I think its the #1 
 
 ---
 
+**[Shaq surprises Kenny and Chuck with ROBOTS 🤖😂 | Inside the NBA](https://www.youtube.com/watch?v=nIPenYETLtI)**
+
+On Inside the NBA, Shaquille O'Neal surprises Kenny "The Jet" Smith and Charles Barkley with his robots. ✔️ Subscribe to ...
+
+📺 ESPN
+
+👁️ 307K • 👍 6K • 💬 571 • ⏱️ 4:57 • 5d ago
+
+---
+
 **[NEW AI Robots Are Becoming TOO Human to Ignore... This Changes Everything](https://www.youtube.com/watch?v=uHfzK3wmZQM)**
 
 The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 might be the year everything changes!
 
 📺 The AI Nexus
 
-👁️ 7K • 👍 154 • 💬 21 • ⏱️ 18:41 • 4d ago
+👁️ 7K • 👍 155 • 💬 21 • ⏱️ 18:41 • 4d ago
 
 ---
 
