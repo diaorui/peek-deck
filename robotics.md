@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T12:02:26.438363+00:00'
+updated: '2026-05-31T14:17:42.502829+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 12:02 UTC  
+**Last Updated:** May 31, 2026 at 14:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,31 @@ Robotics research and industry news
 
 I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It features functional rolling tracks, a fully poseable body, an opening storage compartment, and several print-in-place components. The project involved multiple design iterations to optimize the track mechanism, joint tolerances, and printability for consumer FDM printers. The 3D printing files are available for free on my MakerWorld profile: https://makerworld.com/models/2865166?appSharePlatform=copy This is also the starting point for my next robotics project, where I plan to integrate DC motors, electronics, and a control system to create a fully mobile robotic platform.
 
-19h ago
+22h ago
+
+---
+
+**[Anyone have experience with an Agibot G1? Looking for ROS2 advice.](https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/)**
+
+Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
+
+5h ago
+
+---
+
+**[RA B601-DM ROS2 Monitoring Overlay - Open Source](https://www.reddit.com/r/robotics/comments/1tswgd6/ra_b601dm_ros2_monitoring_overlay_open_source/)**
+
+https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda1ca704cadc43c8713b1f998096483772a77 The reBot Arm B601-DM has been open-sourced recently and their ROS2 driver is solid! But what I missed during my first sessions was a quick way to see if the hardware was actually healthy, so I built rebotarm_monitor: a small ROS 2 overlay for passive hardware monitoring & future observability planned. It watches the boring (but useful stuff); stale topics, value jumps, weird torques, unexpected status flags, and surfaces it as a standard diagnostic tree you can open in rqt_robot_monitor. Every threshold is a standard ROS2 parameter, so you can tune rates, jumps, velocity, torque or idle behaviour from YAML or launch args without touching code. Give me a star if you found it usefull x) https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2
+
+5m ago
+
+---
+
+**[[ Removed by Reddit ]](https://www.reddit.com/r/robotics/comments/1tswc72/removed_by_reddit/)**
+
+[ Removed by Reddit on account of violating the content policy. ]
+
+10m ago
 
 ---
 
@@ -48,11 +72,19 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 ---
 
-**[Anyone have experience with an Agibot G1? Looking for ROS2 advice.](https://www.reddit.com/r/robotics/comments/1tspp8r/anyone_have_experience_with_an_agibot_g1_looking/)**
+**[Does there any Alternative for pancake brushless motor for robotics](https://www.reddit.com/r/robotics/comments/1tsucwl/does_there_any_alternative_for_pancake_brushless/)**
 
-Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
+Hi. I saw a lot of people on YouTube use pancake brushless motor for their robotics, such as robot dog But the problem is it is very very expensive https://preview.redd.it/47qndg3pxg4h1.png?width=1566&format=png&auto=webp&s=9bdd07815b19eebfde8719c3dc2aa806187c44e1 So does there any perfect alternative for it I know about servo motor, but the motion space and speed is not the best
 
-3h ago
+1h ago
+
+---
+
+**[What’s your biggest pain point when debugging RL policies right now?](https://www.reddit.com/r/robotics/comments/1tsuak8/whats_your_biggest_pain_point_when_debugging_rl/)**
+
+For people training RL agents: What part of debugging takes the most time for you? Examples: - figuring out why policy suddenly collapsed - replaying bad episodes - comparing runs - reward debugging - environment bugs - logging / tracking experiments - visualizing failure cases What do you currently do for it? Scripts? WandB? Manual inspection?
+
+1h ago
 
 ---
 
@@ -60,15 +92,7 @@ Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platf
 
 https://www.lit.edu/Programs/Industrial-and-Engineering-Technology/Engineering/Robotics-Automation-Technology-Associate-of-Applie .What jobs should I apply for?
 
-6h ago
-
----
-
-**[How would I be able to have 4 arms ?](https://www.reddit.com/r/robotics/comments/1tsslzq/how_would_i_be_able_to_have_4_arms/)**
-
-Ok, weird title, but I’ve just woken up wondering if it’s possible to create an EXTRA prosthetic Since prosthetics are normally built around missing body parts I was curious if new body parts could be added, and how would the nervous system would work with it I don’t know any tiny bit of robotics But I’m super excited with this idea! And I’d like to know your guys takes on this
-
-41m ago
+8h ago
 
 ---
 
@@ -82,31 +106,7 @@ Ok, weird title, but I’ve just woken up wondering if it’s possible to create
 
 Just completed the wrist mechanism for my MK1 bionic hand. Designed in Fusion 360 and 3D printed, using a custom timing belt system for full wrist movement. MK1 will be a step up from my MK0 bionic hand, with 17 DOF, computer vision, and MediaPipe for gesture recognition. Next step — finger movement 🦾 https://reddit.com/link/1tsf18a/video/12fxn1dy0d4h1/player YouTube GitHub
 
-12h ago
-
----
-
-**[Closeup of GT2 belt drive transferring 60kg torque in my 6DOF arm — built from scratch in India](https://www.reddit.com/r/robotics/comments/1trvixc/closeup_of_gt2_belt_drive_transferring_60kg/)**
-
-Closeup of the belt drive transmission inside my core joint. Belt drive chosen specifically to eliminate backlash at high torque — DS5160 60kg servo driving it. Smooth movement comes from getting this right. Took a few iterations to dial in the bearing preload. Been building this 6DOF arm completely from scratch. Original design throughout. Front view of arm movement test also posted one day ago. Forearm and metal claw assembly happening now. Full demo soon. Happy to answer any questions.
-
-1d ago
-
----
-
-**[Made a text-to-cad generator for gears - would like some feedback](https://www.reddit.com/r/robotics/comments/1tsj271/made_a_texttocad_generator_for_gears_would_like/)**
-
-Hi everyone, I have been working on a text-to-cad generator for gears (eventually I'll incorporate other mechanical item). But I would like some people that need quick gear models for robotics or other projects to see if the UI makes sense, the cad models are accurate, and if it's a useful program in general. I've tried it myself and the gears are parametrically accurate with involute curve tooth profiles and seem to open perfectly in Solidworks. Also, the models look good when I bring them into my Bambu slicer for printing. Basically you just type a prompt like, "Make a spur gear with 32 teeth and a 2in pitch diameter", adjust any other feature dimensions as needed, then download the .STL or .step. If you're interested let me know or dm me. Thanks!
-
-9h ago
-
----
-
-**[Simple Virtual Robotics Teaching Project](https://www.reddit.com/r/robotics/comments/1tsbdxj/simple_virtual_robotics_teaching_project/)**
-
-Hey everyone, I recently created what I think is a fun and engaging environment for teachers to teach concepts relating to computer literacy, programming, and robotics. I would love to hear opinions from anyone about it. Take a look, and let me know what you think. Ahead warning, there are no seriously difficult skills required to use the system, but the learning curve is just a "bit" steep at the beginning. If you hang in there and read the documentation, you will get a great idea of how it all works. Thanks so much for your time! NOTE: Yes, I agree that there is a hint of self-promotion in this post, but I am mostly interested in opinions, NOT exposure in terms of tip-conversion. Mods, if you think this is unreasonable, you know what to do, and I respect your decision. 😉 Here is the project link: https://eschaeffer.github.io/botbattles/
-
-15h ago
+14h ago
 
 ---
 
@@ -134,7 +134,7 @@ BBC • 2d ago
 
 An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
 
-NBC News • 18m ago
+NBC News • 2h ago
 
 ---
 
@@ -143,22 +143,6 @@ NBC News • 18m ago
 Mechanical hands dexterous enough to thread a needle, childlike dancing robots and adult-sized ones to help with deliveries were on display Thursday as the Humanoids Summit Tokyo opened.
 
 KSL.com • 1d ago
-
----
-
-**[Humanoid robots stun crowd by doing delicate tasks at Tokyo summit](https://interestingengineering.com/ai-robotics/humanoids-robots-stun-crowd-at-tokyo-summit)**
-
-Humanoid robots demonstrate delicate tasks at Humanoids Summit 2026 as China gains attention in robotics shift today.
-
-Interesting Engineering • 1d ago
-
----
-
-**[China’s Humanoid Robots Dance, Wiggle, and Thread Needles in Tokyo](https://www.eweek.com/news/apac-chinese-humanoids-japan-robotics-race/)**
-
-Chinese humanoid robot makers drew attention in Tokyo as Japan emphasized precision, durability, and real-world robotics testbeds.
-
-eWeek • 1d ago
 
 ---
 
@@ -174,23 +158,39 @@ ZME Science • 1d ago
 
 Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
 
-NVIDIA Blog • 2d ago
+NVIDIA Blog • 3d ago
 
 ---
 
-**[Researching the frontier of robotics: Three founders on what it takes to succeed in embodied AI](https://www.bvp.com/atlas/researching-the-frontier-of-robotics-three-founders-on-what-it-takes-to-succeed-in-embodied-ai)**
+**[No, the robots spotted around Dallas World Cup sites are not scanning fans’ faces, company says](https://www.wfaa.com/article/sports/soccer/world-cup/face-scanning-robot-dallas-fifa-world-cup/287-b774ffc9-8195-4ae9-982f-c9e9e327e05b)**
 
-From the data pyramid to ‘dark magic’ in data attribution, here's what three founders at the cutting edge of embodied AI are watching closely—and what they think their field is missing.
+A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
 
-Bessemer Venture Partners • 3d ago
+WFAA • 1d ago
 
 ---
 
-**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub)**
+**[Three Frederick County Robotics teams reflect on championship event experience](https://www.fredericknewspost.com/news/education/schools/public_k-12/high_school/three-frederick-county-robotics-teams-reflect-on-championship-event-experience/article_e9e02e62-ff4d-5dff-baca-989dc5162a5e.html)**
 
-Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
+Three Frederick County Robotics teams have returned from the World Championship with memories, excitement for next season and tools for their future.
 
-Interesting Engineering • 1d ago
+The Frederick News-Post • 2d ago
+
+---
+
+**[Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-reports-q1-2026-103000046.html)**
+
+ST. JOHN’S, Newfoundland and Labrador, May 28, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF), has filed its financial results for the first quarter ended March 31, 2026 (“Q1 2026”). Please refer to the unaudited consolidated financial statements and management’s discussion and analysis (“MD&A”) for the three months ended March 31, 2026, filed on SEDAR+ at www.sedarplus.ca, for more information. Unless otherwise specified, all dollar amounts
+
+Yahoo Finance • 3d ago
+
+---
+
+**[The Robotics Stock Nobody’s Talking About Already Has a $23 Billion Backlog](https://investorplace.com/smartmoney/2026/05/robotics-stock-23-billion-backlog/)**
+
+Even as Tesla breaks ground on a dedicated Optimus factory, I see a compelling alternative. It’s a company that directly competes with Optimus… but unlike Tesla, it’s already an established robotics player with a clear first-mover advantage.
+
+InvestorPlace • 2d ago
 
 ---
 
@@ -198,13 +198,23 @@ Interesting Engineering • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
+**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
 
-Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
+The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
 
-📺 Financial Times
+📺 Ryan Shaw
 
-👁️ 18K • 👍 358 • 💬 72 • ⏱️ 5:11 • 2d ago
+👁️ 62K • 👍 2K • 💬 353 • ⏱️ 29:20 • 22h ago
+
+---
+
+**[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
+
+NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
+
+📺 TEDx Talks
+
+👁️ 23K • 👍 568 • 💬 87 • ⏱️ 19:39 • 1d ago
 
 ---
 
@@ -214,47 +224,27 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 📺 Forbes
 
-👁️ 51K • 👍 1K • 💬 43 • ⏱️ 10:21 • 3d ago
+👁️ 52K • 👍 1K • 💬 48 • ⏱️ 10:21 • 3d ago
 
 ---
 
-**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
+**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
 
-The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
+Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
 
-📺 Ryan Shaw
+📺 Financial Times
 
-👁️ 59K • 👍 2K • 💬 334 • ⏱️ 29:20 • 20h ago
-
----
-
-**[NEW Vulcan Robot Is Here - Behemoth Jr With 3 Stage Energy Cannon | War Robots](https://www.youtube.com/watch?v=B_p2JLVIXQo)**
-
-New Vulcan Robot has arrived. I had a feeling we were getting a new robot in this week's test server and we got it. This thing is ...
-
-📺 PREDATOR WR
-
-👁️ 12K • 👍 512 • 💬 95 • ⏱️ 13:43 • 1d ago
+👁️ 18K • 👍 369 • 💬 73 • ⏱️ 5:11 • 2d ago
 
 ---
 
-**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+**[EVERYONE wants to play THIS HAWK Now! War Robots](https://www.youtube.com/watch?v=_1cp6FzL3Uw)**
 
-The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+War Robots Gameplay: Ultimate Hawk, that makes everyone happy! My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 PREDATOR WR
+📺 Manni-Gaming
 
-👁️ 11K • 👍 399 • 💬 95 • ⏱️ 13:36 • 2d ago
-
----
-
-**[Does This Robot Excite You… or Terrify You? 😲😨](https://www.youtube.com/watch?v=KPV4malaHfI)**
-
-Does This Robot Excite You… or Terrify You? Humanoid robots are becoming more advanced — and some demonstrations ...
-
-📺 Milopax
-
-👁️ 6K • 👍 96 • 💬 20 • ⏱️ 0:26 • 22h ago
+👁️ 10K • 👍 477 • 💬 86 • ⏱️ 19:00 • 1d ago
 
 ---
 
@@ -268,13 +258,13 @@ The humanoid robot revolution just hit a level NOBODY saw coming — and 2026 mi
 
 ---
 
-**[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
+**[NEW Vulcan Robot Is Here - Behemoth Jr With 3 Stage Energy Cannon | War Robots](https://www.youtube.com/watch?v=B_p2JLVIXQo)**
 
-NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
+New Vulcan Robot has arrived. I had a feeling we were getting a new robot in this week's test server and we got it. This thing is ...
 
-📺 TEDx Talks
+📺 PREDATOR WR
 
-👁️ 22K • 👍 520 • 💬 79 • ⏱️ 19:39 • 1d ago
+👁️ 13K • 👍 524 • 💬 98 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -284,17 +274,27 @@ LA youths are ganging up on delivery robots.   Videos circulating online show yo
 
 📺 箭厂ArrowFactory Doc
 
-👁️ 20K • 👍 37 • 💬 11 • ⏱️ 0:14 • 3d ago
+👁️ 21K • 👍 40 • 💬 12 • ⏱️ 0:14 • 3d ago
 
 ---
 
-**[This Robot Mower Just Eliminated the Weed Trimmer](https://www.youtube.com/watch?v=fX3spGDe_qs)**
+**[This Robot Can Tell If Your Choke Actually Works](https://www.youtube.com/watch?v=jMXW18haA0I)**
 
-The new ECOVACS GOAT A3000 LiDAR PRO doesn't just mow your lawn autonomously — it actually trims edges using the new ...
+This advanced jiu-jitsu training robot uses built-in sensors to detect when a choke is applied correctly. It can also move its arms ...
 
-📺 Pest and Lawn Ginja
+📺 ENERG FACTS
 
-👁️ 6K • 👍 88 • 💬 30 • ⏱️ 11:40 • 1d ago
+👁️ 5K • 💬 3 • ⏱️ 0:27 • 5h ago
+
+---
+
+**[Sword Is The #1 F2p Bot In War Robots Right Now... Meta Slayer](https://www.youtube.com/watch?v=JvlrRsCEWqs)**
+
+The sword bot is everywhere. In the skies and on the ground. I think its the #1 f2p bot in the game right now. The absorber ability is ...
+
+📺 PREDATOR WR
+
+👁️ 11K • 👍 402 • 💬 95 • ⏱️ 13:36 • 2d ago
 
 ---
 

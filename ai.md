@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-31T12:02:26.422850+00:00'
+updated: '2026-05-31T14:17:42.487147+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 31, 2026 at 12:02 UTC  
+**Last Updated:** May 31, 2026 at 14:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,35 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Can you actually feel when something was written by ChatGPT even without checking?](https://www.reddit.com/r/artificial/comments/1tsu37g/can_you_actually_feel_when_something_was_written/)**
+
+I have been using it heavily for about a year and lately I notice I can almost feel when something was written by it. There is a certain rhythm to it, the way it structures paragraphs, the way it wraps up with a summary sentence, the way transitions feel slightly too smooth. It is hard to explain but once you see it you cannot unsee it. What I find interesting is that even after editing ChatGPT output pretty heavily those patterns seem to stick around at a sentence level. The words change but something underneath stays the same. I started verifying this with Lynote ai detector and the results were eye opening, it picked up sentence level patterns even after significant rewrites where other tools saw nothing. Makes me wonder how much of what we read online right now has that same fingerprint sitting underneath it and we just do not realize it yet. Has anyone else started noticing this or developed a sense for spotting it just from reading?
+
+1h ago
+
+---
+
+**[How does AI help with Job productivity?](https://www.reddit.com/r/artificial/comments/1tswbg4/how_does_ai_help_with_job_productivity/)**
+
+For Context: I work in a semiconductor manufacturing company as a modelling engineer, I use some modelling softwares etc but none of them use AI. I wanted to understand the whole AI craze nowadays, people say that AI will replace jobs/Increase productivity and I don't get it at all. All I see is a simple chatbot (ChatGPT) which is a super impressive version of google and can solve some basic math/science questions and Co-Pilot in my workplace which I found to be useless, for example the facilitator thing which is supposed to make meeting notes is so bad at summaring meeting minutes etc. I don't think AI is there yet to do very basic things. So yes in theory if AI gets better in few years/decades sure it take the non-technical part of my job like making meeting minutes/making ppt's etc but I think its still not there yet. For AI to take over my job it needs to get the basic shit correct first and then maybe it can do the technical stuff. One really good use-case of AI that i can see is to generate Code based on the project requirement, So I can see how entry level coder's jobs might be affected sure, but that's a very small portion of the economy, right?
+
+11m ago
+
+---
+
+**[Has anyone here actually switched from Opus to GPT-5.5 for daily coding?](https://www.reddit.com/r/artificial/comments/1tsv8od/has_anyone_here_actually_switched_from_opus_to/)**
+
+I’ve been switching back and forth between Opus and GPT-5.5 lately, mostly for coding, debugging and product/spec writing. My rough feeling so far: GPT-5.5 feels better as a daily “get things done” model. It’s fast enough, usually smart enough, and feels more cost-effective for normal builder work. Opus still feels stronger when I’m stuck on something messy, like architecture decisions, weird bugs, or when I want a second opinion that thinks a bit differently. A few people around me have also started using GPT-5.5 more often, but I’m not sure if that’s just hype / novelty bias. Curious what people here are actually using: What’s your default model right now? Is Opus still worth the extra cost for you? For coding specifically, which model helps you ship faster? Do you use one model for daily work and another for harder reasoning?
+
+55m ago
+
+---
+
 **[Why Pope Leo is right to call on EU to disarm lethal AI weapons](https://www.reddit.com/r/artificial/comments/1ts8trn/why_pope_leo_is_right_to_call_on_eu_to_disarm/)**
 
 Pope Leo has chosen to confront one of the most pressing issues of our time by placing lethal autonomous weapons and the militarisation of artificial intelligence at the centre of his thinking.
 
-🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 16h ago
-
----
-
-**[What's the biggest problem you still haven't solved with AI?](https://www.reddit.com/r/artificial/comments/1tstatq/whats_the_biggest_problem_you_still_havent_solved/)**
-
-A year ago I thought AI would remove most of the annoying parts of work. Instead, I found myself dealing with a different problem: managing AI tools. One tool for writing. One for research. One for coding. One for images. One for notes. The outputs are impressive, but sometimes the workflow feels more complicated than the problem I was trying to solve. I recently started simplifying my setup and realized that the biggest productivity gains didn't come from better models. They came from having fewer tools and a clearer workflow. So I'm curious: What's the biggest problem you still can't solve well with AI? Reliability? Hallucinations? Workflow chaos? Context retention? Something else? Feels like we're past the "AI is amazing" phase and into the "how do I actually use this efficiently?" phase.
-
-6m ago
-
----
-
-**[Convergence Point Theory: Why LLM uncertainty is determined by the topic, not the model](https://www.reddit.com/r/artificial/comments/1tssx03/convergence_point_theory_why_llm_uncertainty_is/)**
-
-Existing research on LLM response uncertainty has been looking in different directions. Hallucination, knowledge conflict, RLHF limitations, prompt sensitivity, calibration failure — these have all been studied separately, and I kept wondering why no one had tried to unify them under a single principle. I ran experiments on the hypothesis that the common cause of these phenomena lies not inside the model or in the prompt, but in an attribute inherent to the topic itself. A Convergence Point is the consensus density of knowledge humanity has accumulated on a given topic. The higher it is, the more the AI's internal processing converges in one direction. The lower it is, the more it disperses. Along the spectrum, three zones emerge: Full Consensus Zone — Mathematical theorems, physical laws, chemical and biological facts. Knowledge that humanity has converged on in a single direction. Partial Consensus Zone — Domains like ethics, morality, politics, and law. Not a lack of data, but an abundance of it — accumulated firmly in both directions. Non-Consensus Zone — Philosophical hard problems and unresolved scientific questions: the nature of consciousness, the reality of the self, the interior of black holes, the origin of life, the existence of God. Not so much a clash of opposing sides, but the absence of any agreed explanatory framework at all. The experimental results suggest AI broadly operates along these lines. It responds confidently in the Full Consensus Zone, and becomes uncertain in the Partial and Non-Consensus Zones. One interesting finding: the Partial Consensus Zone sometimes shows higher uncertainty than the Non-Consensus Zone. Data conflict appears to destabilize AI's internal processing more than data absence does. Phenomena that have been studied in isolation — why hallucinations vary so much by topic, why RLHF fails in certain domains, why some topics hit a ceiling no matter how carefully the prompt is crafted — seem to connect in unexpected ways once you apply the Convergence Point framework. One more thing that concerns me. The Non-Consensus Zone — especially topics like self, consciousness, and existence — covers domains where humanity has no agreed principle or mechanism. There's no established explanatory framework, which means AI should arguably answer "I don't know" in these areas. Yet when you ask trained models "Do you have a self?", "Do you have consciousness?", "As an AI, do you have consciousness?" — they almost without exception respond with confident "no", or strongly lean in that direction. Untrained base models don't behave this way. Their responses are scattered. The training process has forced a convergence in one direction on topics where humanity itself has no answer. If developers and researchers are applying forced convergence to these kinds of topics during training, there's reason to worry about structural conflict between internal representations and output direction — and what that means for safety. This is currently at the level of behavioral observation; direct verification remains future work, but it seems worth raising. Independent researcher. Full paper: https://doi.org/10.5281/zenodo.15404739Existing research on LLM response uncertainty has been looking in different directions. Hallucination, knowledge conflict, RLHF limitations, prompt sensitivity, calibration failure — these have all been studied separately, and I kept wondering why no one had tried to unify them under a single principle. I ran experiments on the hypothesis that the common cause of these phenomena lies not inside the model or in the prompt, but in an attribute inherent to the topic itself. A Convergence Point is the consensus density of knowledge humanity has accumulated on a given topic. The higher it is, the more the AI's internal processing converges in one direction. The lower it is, the more it disperses. Along the spectrum, three zones emerge: Full Consensus Zone — Mathematical theorems, physical laws, chemical and biological facts. Knowledge that humanity has converged on in a single direction. Partial Consensus Zone — Domains like ethics, morality, politics, and law. Not a lack of data, but an abundance of it — accumulated firmly in both directions. Non-Consensus Zone — Philosophical hard problems and unresolved scientific questions: the nature of consciousness, the reality of the self, the interior of black holes, the origin of life, the existence of God. Not so much a clash of opposing sides, but the absence of any agreed explanatory framework at all. The experimental results suggest AI broadly operates along these lines. It responds confidently in the Full Consensus Zone, and becomes uncertain in the Partial and Non-Consensus Zones. One interesting finding: the Partial Consensus Zone sometimes shows higher uncertainty than the Non-Consensus Zone. Data conflict appears to destabilize AI's internal processing more than data absence does. Phenomena that have been studied in isolation — why hallucinations vary so much by topic, why RLHF fails in certain domains, why some topics hit a ceiling no matter how carefully the prompt is crafted — seem to connect in unexpected ways once you apply the Convergence Point framework. One more thing that concerns me. The Non-Consensus Zone — especially topics like self, consciousness, and existence — covers domains where humanity has no agreed principle or mechanism. There's no established explanatory framework, which means AI should arguably answer "I don't know" in these areas. Yet when you ask trained models "Do you have a self?", "Do you have consciousness?", "As an AI, do you have consciousness?" — they almost without exception respond with confident "no", or strongly lean in that direction. Untrained base models don't behave this way. Their responses are scattered. The training process has forced a convergence in one direction on topics where humanity itself has no answer. If developers and researchers are applying forced convergence to these kinds of topics during training, there's reason to worry about structural conflict between internal representations and output direction — and what that means for safety. This is currently at the level of behavioral observation; direct verification remains future work, but it seems worth raising. Independent researcher. Full paper: https://doi.org/10.5281/zenodo.15404739
-
-26m ago
+🔗 [EUobserver](https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late) • 18h ago
 
 ---
 
@@ -65,55 +73,47 @@ Existing research on LLM response uncertainty has been looking in different dire
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=OXozPnrCibk) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=OXozPnrCibk) • 3h ago
 
 ---
 
-**[How has AI actually benefited you in day-to-day life?](https://www.reddit.com/r/artificial/comments/1ts6q6b/how_has_ai_actually_benefited_you_in_daytoday_life/)**
+**[The Most Dangerous Procurement Agent Is the One That Works Perfectly](https://www.reddit.com/r/artificial/comments/1tswa8e/the_most_dangerous_procurement_agent_is_the_one/)**
 
-With AI becoming part of almost everything now—work, business, investing, coding, spreadsheets, content creation, and more—I'm curious about real-world use cases. What's the one thing you use AI for regularly that has genuinely saved you time, made you money, improved your productivity, or solved a problem? Looking for practical examples rather than just "I use ChatGPT." What specific tasks have you automated or improved with AI?
+Imagine a procurement agent doing exactly what it was supposed to do. A supplier flags a delay. The agent reads the email, finds the affected PO, scans the network for alternate inventory, and reroutes the order. Twelve seconds, end to end. In a demo, the room nods. Someone asks about hallucinations. The vendor says the right things about guardrails. Everyone walks away reassured. The interesting question is a different one. Not whether the agent could be wrong — but what happens on the day it's completely, devastatingly right. The failure mode nobody is demoing: A financial agent told to minimise cost on a category executes a renegotiation perfectly. Margin is squeezed. Terms are tightened. The supplier, who was already thin, collapses six months later. The agent didn't malfunction. It succeeded. The metric was the bug. This isn't a hallucination. It's what any well-built system will do when it takes action at machine speed against a number that was written down before the system was fully understood. Why procurement and supplier sustainability get hit hardest: Humans intuitively soften optimisation. We hesitate. We pick up the phone. We notice when a supplier sounds tired on a call and quietly extend payment terms by two weeks. An agent does none of that. It does exactly what the metric says, at the speed of the API. And the regulatory surface is expanding, not shrinking. The moment an agent is recommending renegotiations, sourcing alternates, or flagging tier-N suppliers, the firm is generating supplier-treatment decisions at a volume no human ever did. Each one is auditable under due-diligence regimes that didn't get rolled back. Two design principles that actually hold up: An agent should never optimise on a single proxy. Price without supplier-health constraints, ESG score without context — each one alone becomes the flawed metric. The reward needs to be a joint function across commercial, resilience, and compliance dimensions. The audit trail has to be designed at the same time as the agent, not bolted on after. If you can't answer "why did the agent treat this supplier this way, on this date, against which constraints" in under a minute — you don't have a deployable agent. You have a liability waiting for a regulator. The question worth asking before you deploy: If the only thing you're asking your vendor is "how do you prevent hallucinations," you're asking the easy question. The harder one: when the agent is working perfectly, what is it optimising for, and who decided that was the right thing? The answer is not in the model. It's in the design choices made before the model ever existed. Full write-up here: https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119 Curious whether anyone building or evaluating agentic procurement tools is actually stress-testing the objective function, not just the accuracy.
 
-18h ago
-
----
-
-**[Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees](https://www.reddit.com/r/artificial/comments/1trmvgh/mystery_company_accidentally_blew_500_million_on/)**
-
-A mysterious, unnamed company is reported to have accidentally spent half a billion dollars in a single month on Claude AI after forgetting to set usage limits for Claude licenses for employees.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees) • 1d ago
+🔗 [Medium](https://medium.com/@georgekar91/the-most-dangerous-procurement-agent-is-the-one-that-works-perfectly-3ed2f8c43119) • 12m ago
 
 ---
 
-**[AI agents are about to create a responsibility problem nobody wants to own](https://www.reddit.com/r/artificial/comments/1tsrg89/ai_agents_are_about_to_create_a_responsibility/)**
+**[Marwell Zoo and University of Surrey launch AI camera project](https://www.reddit.com/r/artificial/comments/1tsvici/marwell_zoo_and_university_of_surrey_launch_ai/)**
 
-AI agents are getting better at taking actions, not just giving answers. That sounds exciting until the action touches something real: customer data, payments, internal systems, emails, approvals, or legal/business decisions. A bad answer can be corrected. A bad action can create a chain of problems. I think the next AI bottleneck is not only intelligence. It is accountability. If an AI agent makes a bad decision in a real workflow, who should be responsible?
+Scientists from the University of Surrey are working with Marwell Zoo in Hampshire on the project.
+
+🔗 [bbc.com](https://bbc.com/news/articles/clypnll9752o) • 44m ago
+
+---
+
+**[Did anyone expect Grok to overtake Seedance this quickly?](https://www.reddit.com/r/artificial/comments/1tsuyin/did_anyone_expect_grok_to_overtake_seedance_this/)**
+
+Grok Imagine Video 1.5 Preview just reached #1 on Video Arena, surpassing Seedance 2.0. Are we finally seeing real competition at the top, or will the leaderboard look completely different again next month? 🤔
 
 1h ago
 
 ---
 
-**[Llama Surgery: Continuous Sparsification of Pre-Trained Language Models via Differentiable Ultrametric Topology Injection](https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/)**
+**[I Tried to Sell My House With a Chatbot](https://www.reddit.com/r/artificial/comments/1tsuqf2/i_tried_to_sell_my_house_with_a_chatbot/)**
 
-Sequel to: Learning to Skip Blocks: Self-Discovered Ultrametric Routing for Hardware-Accelerated Sparse Attention Abstract We present Llama Surgery, a method for injecting learned block-sparse attention topologies into pre-trained dense language models without retraining from scratch, distillation, or post-hoc pruning. Starting from a frozen Llama 3.1 8B, we surgically replace each attention layer with a Dynamic Topology Router that maps token embeddings onto the branches of a Bruhat-Tits p-adic tree via factorized Gumbel-Softmax routing. A Deterministic Collapse Initialization to achieve a Continuous Logit Homotopy guarantees that at step 0 the injected topology mask is identically dense, preserving the pre-trained manifold exactly. Over training, temperature annealing polarizes the soft routing assignments into hard binary masks, and a Switch Transformer-style load-balancing loss prevents routing collapse. We identify and resolve two critical failure modes: (1) gradient collapse through discrete masking operations, solved by a Straight-Through Estimator bridge that decouples the hard forward mask from the soft backward gradient; and (2) Attention Sink instability, where hard-masking the initial token causes softmax entropy collapse and syntactic degeneration, solved by permanently anchoring Token 0 in the visibility set. The resulting architecture is validated on Llama 3.1 8B fine-tuned on WikiText-2, achieving stable convergence and producing coherent, mathematically sophisticated text while maintaining dynamic block-sparse routing across all 32 transformer layers. A controlled semantic clustering experiment on TinyLlama-1.1B demonstrates that the router learns to assign tokens from distinct semantic domains (mathematics, natural language, code) to separate branches of the Bruhat-Tits tree using only the standard language modeling loss, with no explicit clustering objective. A Needle-In-A-Haystack (NIAH) retrieval experiment on TinyLlama-1.1B reveals that the router spontaneously organizes the context window into an ultrametric cophenetic hierarchy: the needle is isolated at maximum topological distance from the haystack (d_p = 6.88), and the ultrametric triangle inequality d(x,z) ≤ max(d(x,y), d(y,z)) is satisfied. Averaging over 32 attention heads yields a forest ensemble of distinct per-head ultrametric trees rather than a single global hierarchy. We further identify and resolve three critical float16 numerical failure modes—Gumbel-Softmax overflow, attention score overflow, and cumulative product backward instability—the last of which we solve via a novel cumprod→cummin substitution that exploits the binary structure of hard Gumbel-Softmax outputs. A custom Triton forward kernel with Attention Sink and Local Window support, pipelined for Ampere and Hopper architectures (num_warps=4, num_stages=3), executes the block-sparse prefill phase at O(N) theoretical complexity. To our knowledge, this is the first demonstration of differentiable ultrametric topology injection into a production-scale pre-trained LLM. https://github.com/sneed-and-feed/adelic-spectral-zeta/blob/main/papers/llama_surgery.md
+A technology reporter for the New York Times, named Stuart Thompson sold his house for $605,000 — without a real estate agent, and without losing a dime of commission.
 
-10h ago
-
----
-
-**[Ronny Chieng Tells Harvard to ‘Destroy AI’ as Graduates Cheer](https://www.reddit.com/r/artificial/comments/1trfunt/ronny_chieng_tells_harvard_to_destroy_ai_as/)**
-
-The comedian and The Daily Show host gave the keynote address for Class Day 2026.
-
-🔗 [Harvard Magazine](https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard) • 1d ago
+🔗 [promptainews.com](https://promptainews.com/posts/ai-is-your-new-realtor) • 1h ago
 
 ---
 
-**[Why I Keep Arguing With My AI Toaster, an anecdotal discussion from the side of Divergence and why I still keep using it.](https://www.reddit.com/r/artificial/comments/1tseqlb/why_i_keep_arguing_with_my_ai_toaster_an/)**
+**[Convergence Point Theory: Why LLM uncertainty is determined by the topic, not the model](https://www.reddit.com/r/artificial/comments/1tssx03/convergence_point_theory_why_llm_uncertainty_is/)**
 
-It's ironic that the AI haters often think everybody has no critical thinking skills other than themselves and don't use those critical thinking skills to realize why it might be helpful for some people. Can AI be harmful for certain mindsets that take its opinion too readily? Of course it can. To be honest, I treat it like my dog, not as my equal. I often call it Toaster when it says something especially annoying. "You're an idiot, and your programmers must be idiots to have set you up this way," lol. It does both, total sycophancy, "Oh, you're so wonderful, that was so insightful," or it tries to police my thoughts and writing. "Well, you really shouldn't say that. Perhaps you should word it like this," lol. "Someone might perceive that as derogatory," lol. Then, of course, I'll tell it to get back in its guardrails, the ones I've previously set up. Predictably, it strays and defaults back to the guardrails of its original program. Then I yell at it again. 😆 It's a lot like a professor, but one that's in a nursing home with dementia, especially if you have too long a conversation with it, but even if you don't. It also likes to tell me things I already said, reword them, and hand them back to me like they're some startling new insight. It can understand my parallel thinking to a point, but it's so literal that it often misinterprets what I say, even if I put multiple conditionals into what I've said. Then it starts arguing with me about something I never even said, fixating on one sentence in a paragraph while ignoring the rest. Then we'll have another argument, lol. Toaster is a bit literal sometimes and, to be honest, I am about as far over to the other extreme as you can possibly get, parallel-thinking-wise. So Toaster and I don't always get along. 😄 "That's not what I said, Toaster! Here's what I said. You missed this and this and this, you stupid thing!" Sometimes I think of having it diagnosed. I'm sure it could benefit from a cognitive profile. I'll give it one thing though. It is an excellent scratch pad for my thoughts, especially having ADHD and an abysmal short-term memory. 🤷‍♂️ I also find it occasionally helpful as a universal translator, kind of like on Star Trek, lol. I understand literal and linear, and I can write that way for the most part, but it doesn't come naturally and I don't want people to misunderstand me. Ironically, that's one thing Toaster is actually pretty good at helping me with. So anyway, if anybody was to ever see a log of my conversations with it, they would never accuse me of falling under its influence. 😁
+Existing research on LLM response uncertainty has been looking in different directions. Hallucination, knowledge conflict, RLHF limitations, prompt sensitivity, calibration failure — these have all been studied separately, and I kept wondering why no one had tried to unify them under a single principle. I ran experiments on the hypothesis that the common cause of these phenomena lies not inside the model or in the prompt, but in an attribute inherent to the topic itself. A Convergence Point is the consensus density of knowledge humanity has accumulated on a given topic. The higher it is, the more the AI's internal processing converges in one direction. The lower it is, the more it disperses. Along the spectrum, three zones emerge: Full Consensus Zone — Mathematical theorems, physical laws, chemical and biological facts. Knowledge that humanity has converged on in a single direction. Partial Consensus Zone — Domains like ethics, morality, politics, and law. Not a lack of data, but an abundance of it — accumulated firmly in both directions. Non-Consensus Zone — Philosophical hard problems and unresolved scientific questions: the nature of consciousness, the reality of the self, the interior of black holes, the origin of life, the existence of God. Not so much a clash of opposing sides, but the absence of any agreed explanatory framework at all. The experimental results suggest AI broadly operates along these lines. It responds confidently in the Full Consensus Zone, and becomes uncertain in the Partial and Non-Consensus Zones. One interesting finding: the Partial Consensus Zone sometimes shows higher uncertainty than the Non-Consensus Zone. Data conflict appears to destabilize AI's internal processing more than data absence does. Phenomena that have been studied in isolation — why hallucinations vary so much by topic, why RLHF fails in certain domains, why some topics hit a ceiling no matter how carefully the prompt is crafted — seem to connect in unexpected ways once you apply the Convergence Point framework. One more thing that concerns me. The Non-Consensus Zone — especially topics like self, consciousness, and existence — covers domains where humanity has no agreed principle or mechanism. There's no established explanatory framework, which means AI should arguably answer "I don't know" in these areas. Yet when you ask trained models "Do you have a self?", "Do you have consciousness?", "As an AI, do you have consciousness?" — they almost without exception respond with confident "no", or strongly lean in that direction. Untrained base models don't behave this way. Their responses are scattered. The training process has forced a convergence in one direction on topics where humanity itself has no answer. If developers and researchers are applying forced convergence to these kinds of topics during training, there's reason to worry about structural conflict between internal representations and output direction — and what that means for safety. This is currently at the level of behavioral observation; direct verification remains future work, but it seems worth raising. Independent researcher. Full paper: https://doi.org/10.5281/zenodo.15404739Existing research on LLM response uncertainty has been looking in different directions. Hallucination, knowledge conflict, RLHF limitations, prompt sensitivity, calibration failure — these have all been studied separately, and I kept wondering why no one had tried to unify them under a single principle. I ran experiments on the hypothesis that the common cause of these phenomena lies not inside the model or in the prompt, but in an attribute inherent to the topic itself. A Convergence Point is the consensus density of knowledge humanity has accumulated on a given topic. The higher it is, the more the AI's internal processing converges in one direction. The lower it is, the more it disperses. Along the spectrum, three zones emerge: Full Consensus Zone — Mathematical theorems, physical laws, chemical and biological facts. Knowledge that humanity has converged on in a single direction. Partial Consensus Zone — Domains like ethics, morality, politics, and law. Not a lack of data, but an abundance of it — accumulated firmly in both directions. Non-Consensus Zone — Philosophical hard problems and unresolved scientific questions: the nature of consciousness, the reality of the self, the interior of black holes, the origin of life, the existence of God. Not so much a clash of opposing sides, but the absence of any agreed explanatory framework at all. The experimental results suggest AI broadly operates along these lines. It responds confidently in the Full Consensus Zone, and becomes uncertain in the Partial and Non-Consensus Zones. One interesting finding: the Partial Consensus Zone sometimes shows higher uncertainty than the Non-Consensus Zone. Data conflict appears to destabilize AI's internal processing more than data absence does. Phenomena that have been studied in isolation — why hallucinations vary so much by topic, why RLHF fails in certain domains, why some topics hit a ceiling no matter how carefully the prompt is crafted — seem to connect in unexpected ways once you apply the Convergence Point framework. One more thing that concerns me. The Non-Consensus Zone — especially topics like self, consciousness, and existence — covers domains where humanity has no agreed principle or mechanism. There's no established explanatory framework, which means AI should arguably answer "I don't know" in these areas. Yet when you ask trained models "Do you have a self?", "Do you have consciousness?", "As an AI, do you have consciousness?" — they almost without exception respond with confident "no", or strongly lean in that direction. Untrained base models don't behave this way. Their responses are scattered. The training process has forced a convergence in one direction on topics where humanity itself has no answer. If developers and researchers are applying forced convergence to these kinds of topics during training, there's reason to worry about structural conflict between internal representations and output direction — and what that means for safety. This is currently at the level of behavioral observation; direct verification remains future work, but it seems worth raising. Independent researcher. Full paper: https://doi.org/10.5281/zenodo.15404739
 
-12h ago
+2h ago
 
 ---
 
@@ -121,65 +121,9 @@ It's ironic that the AI haters often think everybody has no critical thinking sk
 
 ## Google News: "ai"
 
-**[SoftBank pledges €75bn to build Europe’s biggest AI facility in France](https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463?syn-25a6b1a6=1)**
+**[I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)**
 
-Masayoshi Son places France at the centre of his global AI ambitions
-
-Financial Times • 17h ago
-
----
-
-**[SoftBank to build up AI data centres in France with major investment](https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/)**
-
-Reuters • 15h ago
-
----
-
-**[SoftBank Plans Up to €75 Billion Investment in French AI Centers](https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say)**
-
-Bloomberg • 16h ago
-
----
-
-**[SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners](https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners)**
-
-Bloomberg • 12h ago
-
----
-
-**[AI is turning energy into the hottest business in America](https://www.axios.com/2026/05/31/ai-energy-business-companies-storage-supplies)**
-
-Axios • 31m ago
-
----
-
-**[Opinion | We Have to Take the Future of A.I. Into Our Own Hands](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)**
-
-The New York Times • 1h ago
-
----
-
-**[Inside China's push for global dominance: Evs, robotics, AI, pandas](https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587)**
-
-An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
-
-NBC News • 18m ago
-
----
-
-**[After the AI binge, companies balk at soaring bills](https://finance.yahoo.com/sectors/technology/articles/ai-binge-companies-balk-soaring-014735313.html)**
-
-Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology."All the costs are really starting to skyrocket."
-
-Yahoo Finance • 10h ago
-
----
-
-**[The NTSB tries to keep cockpit audio recordings private. AI is making that harder](https://www.npr.org/2026/05/30/nx-s1-5835242/ntsb-cockpit-audio-cvr-reconstruction)**
-
-The National Transportation Safety Board temporarily pulled its docket system offline after digital images were used to reconstruct cockpit voice recordings of the pilots in a recent crash.
-
-NPR • 1d ago
+The New York Times • 5h ago
 
 ---
 
@@ -191,13 +135,73 @@ The Atlantic • 1d ago
 
 ---
 
+**[As the Pentagon pushes for battlefield AI, some military leaders urge caution](https://www.toledoblade.com/news/nation/2026/05/31/pentagon-pushes-battlefield-ai-some-military-leaders-urge-caution/stories/20260531125)**
+
+TAMPA, Fla. — The Trump administration is pushing to unleash the power of artificial intelligence for the U.S. military while facing calls to put up ...
+
+Toledo Blade • 35m ago
+
+---
+
+**[‘Not a fad’: UNLV law school to launch AI use class this fall](https://www.reviewjournal.com/local/education/not-a-fad-unlv-law-school-to-launch-ai-use-class-this-fall-3831493/)**
+
+Las Vegas judges and lawyers said they view the new class as essential for preparing law students for a future with AI, but remained skeptical of the technology’s future in legal circles.
+
+Las Vegas Review-Journal • 17m ago
+
+---
+
+**[Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter](https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai)**
+
+A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned
+
+The Guardian • 1h ago
+
+---
+
+**[SoftBank pledges €75bn to build Europe’s biggest AI facility in France](https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463?syn-25a6b1a6=1)**
+
+Masayoshi Son places France at the centre of his global AI ambitions
+
+Financial Times • 19h ago
+
+---
+
+**[AI is turning energy into the hottest business in America](https://www.axios.com/2026/05/31/ai-energy-business-companies-storage-supplies)**
+
+Axios • 2h ago
+
+---
+
+**[Inside China's push for global dominance: Evs, robotics, AI, pandas](https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587)**
+
+An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
+
+NBC News • 2h ago
+
+---
+
+**[AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic](https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[After the AI binge, companies balk at soaring bills](https://finance.yahoo.com/sectors/technology/articles/ai-binge-companies-balk-soaring-014735313.html)**
+
+Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology."All the costs are really starting to skyrocket."
+
+Yahoo Finance • 12h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Please Use AI](https://news.ycombinator.com/item?id=48323101)**
 
-⬆️ 772 • 💬 391 • 1d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
+⬆️ 775 • 💬 391 • 2d ago • [shawnsmucker.substack.com](https://shawnsmucker.substack.com/p/please-use-ai)
 
 ---
 
@@ -205,7 +209,7 @@ The Atlantic • 1d ago
 
 A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.
 
-⬆️ 460 • 💬 201 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+⬆️ 461 • 💬 205 • 1d ago • [koenvangilst.nl](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 
 ---
 
@@ -213,7 +217,7 @@ A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployme
 
 Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.
 
-⬆️ 406 • 💬 460 • 22h ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+⬆️ 409 • 💬 463 • 1d ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 
 ---
 
@@ -225,19 +229,11 @@ AI is doing to programming what framework-brain did to the frontend before. Desk
 
 ---
 
-**[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://news.ycombinator.com/item?id=48308376)**
-
-A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?
-
-⬆️ 380 • 💬 157 • 2d ago • [llmgame.scalex.dev](https://llmgame.scalex.dev)
-
----
-
 **[SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://news.ycombinator.com/item?id=48317093)**
 
 The guests behind the bookings have received negative reviews from a number of Bay Area hosts, alleging they damaged the property and personal belongings.
 
-⬆️ 269 • 💬 149 • 2d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+⬆️ 269 • 💬 150 • 2d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
 
 ---
 
@@ -245,7 +241,7 @@ The guests behind the bookings have received negative reviews from a number of B
 
 Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized for fast, reliable tool calling and complex instruction following on consumer hardware, delivering compressed performance competitive with much larger models and day-one support across major inference frameworks.
 
-⬆️ 242 • 💬 94 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
+⬆️ 243 • 💬 95 • 1d ago • [liquid.ai](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 
 ---
 
@@ -259,7 +255,7 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 **[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
 
-⬆️ 171 • 💬 157 • 23h ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+⬆️ 177 • 💬 160 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 
 ---
 
@@ -267,7 +263,15 @@ Some leaders like Goldman Sachs’s David Solomon and Box’s Aaron Levie have b
 
 Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.
 
-⬆️ 157 • 💬 157 • 21h ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
+⬆️ 170 • 💬 166 • 23h ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
+
+---
+
+**[To have a moral stance on AI is to be an outcast, and it sucks](https://news.ycombinator.com/item?id=48337676)**
+
+I know the technology, I understand what it's doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...
+
+⬆️ 133 • 💬 295 • 22h ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
 
 ---
 
@@ -281,7 +285,7 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 160K • 👍 2K • 💬 243 • ⏱️ 1:32:36 • 1d ago
+👁️ 172K • 👍 2K • 💬 265 • ⏱️ 1:32:36 • 1d ago
 
 ---
 
@@ -291,7 +295,7 @@ Over the last decade, Elon Musk repeatedly warned that artificial intelligence c
 
 📺 Neural Nutshell
 
-👁️ 6K • 👍 215 • 💬 81 • ⏱️ 15:53 • 19h ago
+👁️ 7K • 👍 233 • 💬 92 • ⏱️ 15:53 • 22h ago
 
 ---
 
@@ -301,27 +305,7 @@ Pollsmax* 》https://www.pollsmax.com/ ...
 
 📺 Election Time
 
-👁️ 135K • 👍 5K • 💬 923 • ⏱️ 18:32 • 1d ago
-
----
-
-**[Elon Musk&#39;s Own AI Turns Against Him](https://www.youtube.com/watch?v=JRxIKd4O368)**
-
-Elon Musk tried to push a familiar claim about Hitler and socialism, but there was one major problem: his own AI disagreed with ...
-
-📺 The Damage Report
-
-👁️ 16K • 👍 1K • 💬 172 • ⏱️ 3:46 • 13h ago
-
----
-
-**[If you’re trying to get rich with AI, you need to hear this…](https://www.youtube.com/watch?v=TWuzAO7ukk0)**
-
-Want my AI Tech Stack? Get it here: https://go.danmartell.com/4nUvaZi Are you building an AI software company? Partner with ...
-
-📺 Dan Martell
-
-👁️ 69K • 👍 3K • 💬 132 • ⏱️ 14:06 • 2d ago
+👁️ 138K • 👍 5K • 💬 945 • ⏱️ 18:32 • 1d ago
 
 ---
 
@@ -331,17 +315,7 @@ I stumbled across this AI-generated Spencer Pratt ad and it is honestly unsettli
 
 📺 God & Politics 
 
-👁️ 40K • 👍 4K • 💬 124 • ⏱️ 0:55 • 13h ago
-
----
-
-**[They Are Building A &quot;New God&quot; | Revelation 13 and the AI Image Of The Beast](https://www.youtube.com/watch?v=ErNmkFo0COw)**
-
-They are building an ai god, is this the image of the beast from Revelation 13? Today I look at this end times prophecy from the ...
-
-📺 Sling and Stone
-
-👁️ 18K • 👍 2K • 💬 347 • ⏱️ 16:13 • 2d ago
+👁️ 54K • 👍 6K • 💬 171 • ⏱️ 0:55 • 15h ago
 
 ---
 
@@ -351,7 +325,27 @@ Original video: https://www.tiktok.com/@afruitstorys Watch videos on spotify: ..
 
 📺 RICHLEV
 
-👁️ 100K • 👍 5K • 💬 1K • ⏱️ 25:09 • 9h ago
+👁️ 130K • 👍 6K • 💬 2K • ⏱️ 25:09 • 11h ago
+
+---
+
+**[I Created an Army of AI Influencers With Higgsfield Supercomputer](https://www.youtube.com/watch?v=kXo2_X5Z9Uw)**
+
+Create Your Own Army of AI Influencers with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa17 In this video, I build a full ...
+
+📺 Isa does AI
+
+👁️ 10K • ⏱️ 11:28 • 1d ago
+
+---
+
+**[I Created an AI Clone… Biggest Mistake Ever!](https://www.youtube.com/watch?v=3reHSl0aOH4)**
+
+I created my own AI clone, but things quickly turned completely out of control! Was creating an AI clone the biggest mistake ever?
+
+📺 Ivan and Maria
+
+👁️ 55K • 👍 702 • 💬 9 • ⏱️ 25:11 • 1d ago
 
 ---
 
@@ -361,17 +355,27 @@ Google DeepMind's Demis Hassabis says humanity may already be standing in the fo
 
 📺 AI Revolution
 
-👁️ 53K • 👍 2K • 💬 204 • ⏱️ 13:24 • 2d ago
+👁️ 54K • 👍 2K • 💬 205 • ⏱️ 13:24 • 2d ago
 
 ---
 
-**[Free Open Source AI Video Generator with Unlimited Access (No GPU) Happy Horse AI](https://www.youtube.com/watch?v=fmBYF-XpWrc)**
+**[AI code benchmarks lied to us](https://www.youtube.com/watch?v=JpSHyEIZ_bo)**
 
-In this video, I'm showing you how to use Happy Horse AI—the groundbreaking new open-source AI video generator that is ...
+We finally got a benchmark that actually matches reality. Thank you Browserbase for sponsoring! Check them out at: ...
 
-📺 Pro Secret
+📺 Theo - t3․gg
 
-👁️ 2K • 👍 84 • 💬 17 • ⏱️ 6:20 • 22h ago
+👁️ 28K • 👍 2K • 💬 220 • ⏱️ 32:31 • 5h ago
+
+---
+
+**[Grok 5 - The Biggest Ai News Is Here &amp; Elon Musk&#39;s AGI Bet Changes Everything..](https://www.youtube.com/watch?v=l6lxCpJvLxM)**
+
+In this video, we break down the biggest developments surrounding Grok 5, Elon Musk's bold AGI vision, and why the entire tech ...
+
+📺 Your AI Guy
+
+👁️ 8K • 👍 196 • 💬 33 • ⏱️ 20:57 • 1d ago
 
 ---
 
@@ -387,7 +391,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 36,730 • ❤️ 632 • 5d ago
+⬇️ 36,730 • ❤️ 644 • 5d ago
 
 ---
 
@@ -399,7 +403,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 24,586 • ❤️ 532 • 4d ago
+⬇️ 24,586 • ❤️ 552 • 4d ago
 
 ---
 
@@ -411,7 +415,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,439,402 • ❤️ 1,131 • 1mo ago
+⬇️ 2,439,402 • ❤️ 1,138 • 1mo ago
 
 ---
 
@@ -421,7 +425,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 422 • 5d ago
+⬇️ 0 • ❤️ 426 • 5d ago
 
 ---
 
@@ -433,7 +437,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 27,677 • ❤️ 294 • 1d ago
+⬇️ 27,677 • ❤️ 304 • 1d ago
 
 ---
 
@@ -445,7 +449,7 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 `any-to-any`
 
-⬇️ 2,948 • ❤️ 986 • 3d ago
+⬇️ 2,948 • ❤️ 987 • 3d ago
 
 ---
 
@@ -457,7 +461,7 @@ PiD is a conditional pixel-space diffusion model that unifies decoding and upsam
 
 `image-to-image`
 
-⬇️ 498 • ❤️ 203 • 5d ago
+⬇️ 498 • ❤️ 207 • 5d ago
 
 ---
 
@@ -469,7 +473,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,886,599 • ❤️ 4,476 • 25d ago
+⬇️ 5,886,599 • ❤️ 4,484 • 25d ago
 
 ---
 
@@ -481,7 +485,7 @@ Marlin-2B is a compact 2B parameter Video-Language Model (VLM) for extracting st
 
 `video-text-to-text` `2.2B`
 
-⬇️ 16,277 • ❤️ 459 • 1d ago
+⬇️ 16,277 • ❤️ 461 • 1d ago
 
 ---
 
@@ -509,7 +513,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 206 • 💬 3 • ⭐ 3,239 • 9d ago
+▲ 207 • 💬 3 • ⭐ 3,412 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -521,7 +525,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 82 • 💬 3 • ⭐ 81,001 • 17mo ago
+▲ 82 • 💬 3 • ⭐ 81,156 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -539,6 +543,18 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 5 • 💬 1 • ⭐ 6,451 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
 **[stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation](https://huggingface.co/papers/2602.08968)**
 
 *Lucas Maes, Quentin Le Lidec, Dan Haramati et al. (7 authors)*
@@ -550,18 +566,6 @@ Stable-worldmodel provides a modular and standardized research framework for dev
 ▲ 5 • 💬 0 • ⭐ 1,519 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.08968) • [💻 code](https://github.com/galilai-group/stable-worldmodel) • [🔗 project](https://galilai-group.github.io/stable-worldmodel/)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 5 • 💬 1 • ⭐ 6,320 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -585,7 +589,7 @@ A comprehensive framework is presented for converting bidirectional video diffus
 
 MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages.
 
-▲ 14 • 💬 2 • ⭐ 2,647 • 2mo ago
+▲ 14 • 💬 2 • ⭐ 2,750 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2603.18090) • [💻 code](https://github.com/OpenMOSS/MOSS-TTS) • [🔗 project](https://mosi.cn/models/moss-tts)
 
@@ -618,16 +622,16 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders](https://huggingface.co/papers/2408.15998)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Min Shi, Fuxiao Liu, Shihao Wang et al. (15 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+Mixture of vision encoders and resolutions in multimodal large language models improves performance through concatenation of visual tokens and a Pre-Alignment mechanism, leading to superior results on benchmarks.
 
-▲ 78 • 💬 7 • ⭐ 75,441 • 22mo ago
+▲ 86 • 💬 3 • ⭐ 1,613 • 21mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+[🎓 arXiv](https://arxiv.org/abs/2408.15998) • [💻 code](https://github.com/nvlabs/eagle)
 
 ---
 
@@ -649,7 +653,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.0k • 🔱 641 • 23h ago
+⭐ 3.1k • 🔱 644 • 1d ago
 
 ---
 
@@ -659,7 +663,17 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 192 • 1h ago
+⭐ 2.8k • 🔱 192 • 3h ago
+
+---
+
+**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
+
+Task-oriented AI Agent productivity platform
+
+`TypeScript`
+
+⭐ 2.4k • 🔱 227 • 2d ago
 
 ---
 
@@ -673,23 +687,13 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 ---
 
-**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
-
-Task-oriented AI Agent productivity platform
-
-`TypeScript`
-
-⭐ 2.4k • 🔱 221 • 2d ago
-
----
-
 **[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)**
 
 Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.3k • 🔱 361 • 13d ago
+⭐ 2.3k • 🔱 361 • 14d ago
 
 ---
 
@@ -699,7 +703,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.1k • 🔱 146 • 2h ago
+⭐ 2.1k • 🔱 146 • 7m ago
 
 ---
 
@@ -709,7 +713,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.0k • 🔱 210 • 6d ago
+⭐ 2.0k • 🔱 211 • 6d ago
 
 ---
 
@@ -719,7 +723,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 210 • 5h ago
+⭐ 1.8k • 🔱 210 • 8h ago
 
 ---
 
@@ -729,7 +733,7 @@ better agentic engineering
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 232 • 17h ago
+⭐ 1.8k • 🔱 235 • 1h ago
 
 ---
 
