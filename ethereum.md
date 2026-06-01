@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-01T10:38:37.780851+00:00'
+updated: '2026-06-01T16:38:58.834160+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 01, 2026 at 10:38 UTC  
+**Last Updated:** June 01, 2026 at 16:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,984.23
+### $1,960.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -4.3%  
-**30d:** -14.6%  
-**90d:** -6.8%  
-**1y:** -23.8%  
+**24h:** -1.7%  
+**7d:** -4.9%  
+**30d:** -15.2%  
+**90d:** -7.4%  
+**1y:** -24.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.29B
+**Market Cap:** $237.69B
 Rank #2
 
 **Circulating Supply:** 120,685,210 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.0%
+-60.2%
 
 **All-Time Low:** $0.43
-+457164.7%
++454381.6%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+11h ago
+
+---
+
+**[More than half of crypto losses in May came from bridge failures](https://www.reddit.com/r/ethereum/comments/1ttsgyv/more_than_half_of_crypto_losses_in_may_came_from/)**
+
+https://preview.redd.it/i9m4zgybco4h1.png?width=2700&format=png&auto=webp&s=81f871e9f78b945ff86a1550d8d572929d906bcb We tracked 28 publicly disclosed exploits in May 2026, resulting in $51.9M in losses. What stood out wasn't the total amount lost. It was where the losses came from. Bridge-related incidents accounted for roughly 54% of all stolen funds. The interesting part is that these weren't the same vulnerability repeated: • Verification bypasses • TSS implementation failures • State poisoning attacks • Cross-chain message validation flaws Different architectures. Different codebases. Same outcome. Bridge security continues to be one of the most expensive unsolved problems in crypto. What do you think is driving bridges to remain such a frequent target despite the industry's continued focus on security?
+
+3h ago
 
 ---
 
@@ -80,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if this sounds basic. This isn’t a “I lost my keys” post. Back in the early days I had an Ethereum wallet. It required you run a full node of ETH using geth on your machine starting with downloading the entire chain. You had your public keys and your private keys were stored in an encrypted keystore file. This wallet software now seems defunct and few want to DL the entire chain now anyway. To make a paper wallet, how would I “recover”/unencrypt my private keys from the keystore file and my password? DMs on the subject will be ignored.
 
-9h ago
+15h ago
+
+---
+
+**[What's the actual plan for ETH to be valuable?](https://www.reddit.com/r/ethereum/comments/1ttppgw/whats_the_actual_plan_for_eth_to_be_valuable/)**
+
+I used to think the plan was threefold: (1) a big economy that burns fees in ETH, (2) being the best store of value, and (3) constantly updating our views and improving the tech. I'd like to revisit each with what we know today. Asking in good faith as a holder. 1. A big economy that burns fees in ETH Fees are tiny right now. Is the plan ever going to change that? If the entire stock-trading market moved onto Ethereum, would the fees still be negligible? Is there a scenario where the fees actually make a difference — and is it realistic? 2. The best store of value What are the main differentiators from Bitcoin and Zcash? Quantum resistance? Privacy plus more functionality than Zcash? 3. We keep updating our views and improving the tech Money is a technology, and technologies get outdated and need new features (e.g. quantum resistance). The EF isn't self-sustainable, and by its own framing the goal is to step aside over time. So is there any self-sustaining entity responsible for keeping ETH the best and most up-to-date tech — or who actually owns that long game?
+
+4h ago
 
 ---
 
@@ -120,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with multiproofs, FTSE Russell US indexes: Bitmine & Sharplink to join
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-25/) • 3d ago
 
 ---
 
@@ -132,20 +148,6 @@ gmgm. already shared with the r/ethdev community. but this was something that i 
 
 ---
 
-**[Support Ethereum core development by trying to win your share of $1M](https://www.reddit.com/r/ethereum/comments/1tqc2bk/support_ethereum_core_development_by_trying_to/)**
-
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2060060859662242194?s=20) • 3d ago
-
----
-
-**[Daily General Discussion May 28, 2026](https://www.reddit.com/r/ethereum/comments/1tptoer/daily_general_discussion_may_28_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's price fell below $2,000 for the first time since March 29. Santiment warned that retail “buy the dip” optimism may be a bearish contrarian ...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
+
+---
+
+**[Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-52-162525573.html)**
+
+A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
+
+Yahoo Finance • 13m ago
 
 ---
 
@@ -166,14 +176,6 @@ Forbes • 1d ago
 
 ---
 
-**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
-
-BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
-
-Seeking Alpha • 1d ago
-
----
-
 **[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
 
 If history is any guide, investors should be buying Ethereum, not XRP, right now.
@@ -182,19 +184,43 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
+
+BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Bitmine slows ether purchase pace, buying $53 million worth last week](https://www.coindesk.com/business/2026/06/01/bitmine-slows-ether-purchase-pace-buying-usd53-million-worth-last-week)**
+
+The Ethereum treasury firm cut weekly purchases by more than 75% after the previous week's 112,000 ETH buying spree.
+
+CoinDesk • 3h ago
+
+---
+
+**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-reportedly-adds-161627310.html)**
+
+Bankless co-founder David Hoffman sparked backlash with ETH criticism after Vitalik decided to write a sci-fi.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Current price of Ethereum for June 1, 2026](https://fortune.com/article/price-of-ethereum-06-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
+
+---
+
 **[Here's why Bitcoin, Ethereum, and Ripple could extend losses this week](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-institutional-outflow-risk-further-losses-202606010332)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) edge lower under pressure on Monday after a steady decline over the last three weeks. US-Iran ceasefire extension dillydally fuels institutional outflows, adding further downside pressure on the crypto market.
 
-FXStreet • 7h ago
-
----
-
-**[Ethereum Price Slide May Not Be Over Yet—More Losses Loom](https://www.tradingview.com/news/newsbtc:6ab45477f094b:0-ethereum-price-slide-may-not-be-over-yet-more-losses-loom/)**
-
-Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating near $2,000 and might continue to move down.Ethereum Price Remains At Risk of More DownsideEthereum price failed to remain stable above $2,040 and started a fresh decline, like Bitcoin. ETH price dipped below t…
-
-TradingView • 7h ago
+FXStreet • 13h ago
 
 ---
 
@@ -202,29 +228,7 @@ TradingView • 7h ago
 
 MONACO CITY, Monaco, May  31, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the project announced that its presale...
 
-markets.businessinsider.com • 6h ago
-
----
-
-**[Base launches Azul on mainnet, pushing Coinbase's Ethereum L2 toward full decentralization](https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization)**
-
-Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.
-
-The Block • 3d ago
-
----
-
-**[Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years](https://www.coindesk.com/tech/2026/06/01/whitehat-developer-unlocks-usd2-million-stuck-in-a-2016-ethereum-ico-contract-for-nine-years)**
-
-0xflorent, a security researcher, found an integer-overflow flaw in the HongCoin token sale contract that lets the team unlock funds for 48 original investors. It is the second such recovery he has publicized in eight days.
-
-CoinDesk • 3h ago
-
----
-
-**[Early signals show XRP outpacing Ethereum in Q2 – Can it happen?](https://ambcrypto.com/?p=603525)**
-
-AMBCrypto • 1d ago
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -238,17 +242,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 13K • 👍 730 • 💬 195 • ⏱️ 7:50 • 1d ago
-
----
-
-**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
-
-Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
-
-📺 The Rollup
-
-👁️ 9K • 👍 309 • 💬 90 • ⏱️ 36:57 • 1d ago
+👁️ 14K • 👍 739 • 💬 215 • ⏱️ 7:50 • 2d ago
 
 ---
 
@@ -258,17 +252,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 616 • 💬 109 • ⏱️ 18:46 • 1d ago
+👁️ 23K • 👍 658 • 💬 121 • ⏱️ 18:46 • 2d ago
 
 ---
 
-**[Gareth Soloway: Bitcoin Bear Flag Warning, Technical Chart Deep Dive — BTC, ETH, HYPE, SOL 2026](https://www.youtube.com/watch?v=XNEfvHeq-Ps)**
+**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
 
-Bitcoin is sitting at a PIVOTAL support level — and the chart is forming what could become a dangerous bear flag. Gareth Soloway ...
+Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
 
-📺 Gareth Soloway
+📺 The Rollup
 
-👁️ 43K • 👍 3K • 💬 212 • ⏱️ 13:11 • 18h ago
+👁️ 10K • 👍 324 • 💬 66 • ⏱️ 36:57 • 1d ago
+
+---
+
+**[Why ETH Can ACTUALLY Bottom Here (Ethereum Update)](https://www.youtube.com/watch?v=SMjsS1nsCUM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 236 • 👍 18 • 💬 2 • ⏱️ 4:56 • 6h ago
+
+---
+
+**[Before Ethereum… Vitalik Buterin Almost Joined Ripple](https://www.youtube.com/watch?v=5ySL7-XhqaQ)**
+
+Before Ethereum existed, Vitalik applied to work at Ripple and even stayed on CTO David Schwartz's couch while arranging the ...
+
+📺 CoinGecko
+
+👁️ 570 • 👍 70 • 💬 83 • ⏱️ 2:55 • 5h ago
 
 ---
 
@@ -278,7 +292,7 @@ BITCOIN & ALTCOINS ARE SLIPPING (New Price Target)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 203 • 💬 171 • ⏱️ 18:06 • 7h ago
+👁️ 6K • 👍 239 • 💬 326 • ⏱️ 18:06 • 13h ago
 
 ---
 
@@ -292,33 +306,13 @@ In this interview, former Ethereum Foundation team member Hudson Jameson shares 
 
 ---
 
-**[Vitalik Buterin: Ethereum Needs A Course Correction](https://www.youtube.com/watch?v=gFBV5oCKZUo)**
+**[Gareth Soloway: Bitcoin Bear Flag Warning, Technical Chart Deep Dive — BTC, ETH, HYPE, SOL 2026](https://www.youtube.com/watch?v=XNEfvHeq-Ps)**
 
-MALU Stake Pool (Cardano): pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
+Bitcoin is sitting at a PIVOTAL support level — and the chart is forming what could become a dangerous bear flag. Gareth Soloway ...
 
-📺 Linda CryptoFly
+📺 Gareth Soloway
 
-👁️ 2K • 👍 187 • 💬 35 • ⏱️ 7:41 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum, WANN stürzen wir endlich ab!!?? Greife jetzt noch die 13k Bonus ab!](https://www.youtube.com/watch?v=qPcGpkD8paw)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 425 • 💬 89 • ⏱️ 10:44 • 5h ago
-
----
-
-**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
-
-Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 148 • 💬 30 • ⏱️ 1:19 • 1d ago
+👁️ 46K • 👍 3K • 💬 235 • ⏱️ 13:11 • 1d ago
 
 ---
 
@@ -328,7 +322,17 @@ CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKI
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 496 • 💬 82 • ⏱️ 47:42 • 2d ago
+👁️ 6K • 👍 506 • 💬 88 • ⏱️ 47:42 • 2d ago
+
+---
+
+**[BITCOIN: Calm Before the Storm! (get ready) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=fHExIIHH6nE)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 7K • 👍 409 • 💬 16 • ⏱️ 56:56 • 20h ago
 
 ---
 
