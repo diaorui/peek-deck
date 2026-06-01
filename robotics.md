@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-05-31T23:00:29.511273+00:00'
+updated: '2026-06-01T00:13:21.062117+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** May 31, 2026 at 23:00 UTC  
+**Last Updated:** June 01, 2026 at 00:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Found a Reachy Mini lying around the office and spent an hour giving it a real-time voice brain via GPT Realtime 2. The model basically becomes Reachy. It hears through its mic, sees through its camera, talks through its speaker, and calls motion tools to physically react while it talks. For anyone who wants to do this, here's the repo: https://github.com/opper-ai/reachy-voice-realtime Note: most of the delay is just our turn-detection silence window (set long because we were in a noisy room), which is tunable in the repo, the model itself is built for low-latency speech-to-speech. Key things: Web UI to watch the camera feed, transcript, and tool calls live. 19 motion and perception tools the model calls mid-conversation (emotes, head/antenna/body movement, camera, sound direction). Mimics you, wave and it waves back, nod and it nods, tilt your head and it tilts. Runs on GPT Realtime 2, routed through Opper. Setup's in the README (Python 3.12+), MIT licensed.
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Found a Reachy Mini lying around the office and spent an hour giving it a real-t
 
 Hi everyone, I recently had a comment said to me in which someone asked “do you even know if your robots will work?” And I said “yes” to which they scoffed. For context - I’ve been working with cable driven robots (continuum) which is very difficult in comparison to rigid serial link systems from my experience, and it’s taking a lot of trial and error on each design. I’ll have a really good outcome from one robot (shorter in length, good shaping) , and then go to design the next one to be a bit longer and have a completely different outcome (robot has self weight issues, buckling, etc) I’m primarily self taught with these systems and it’s quite a niche field in robotics - yet I’m just curious as to what everyone else’s experience is when designing and building real things that move. I may be taking this comment to heart but it’s really stuck with me in a negative way. I’d love to hear anyone else’s experiences and what they do to keep going.
 
-6h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 **[Get hands dirty on VLA+Immitation + RL](https://www.reddit.com/r/robotics/comments/1tt40u6/get_hands_dirty_on_vlaimmitation_rl/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ I designed and 3D printed this fully articulated WALL-E in Autodesk Fusion. It f
 
 https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda1ca704cadc43c8713b1f998096483772a77 The reBot Arm B601-DM has been open-sourced recently and their ROS2 driver is solid! But what I missed during my first sessions was a quick way to see if the hardware was actually healthy, so I built rebotarm_monitor: a small ROS 2 overlay for passive hardware monitoring & future observability planned. It watches the boring (but useful stuff); stale topics, value jumps, weird torques, unexpected status flags, and surfaces it as a standard diagnostic tree you can open in rqt_robot_monitor. Every threshold is a standard ROS2 parameter, so you can tune rates, jumps, velocity, torque or idle behaviour from YAML or launch args without touching code. Give me a star if you found it usefull x) https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2
 
-8h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://preview.redd.it/fe1av44jdh4h1.png?width=673&format=png&auto=webp&s=8edda
 
 Hi. I saw a lot of people on YouTube use pancake brushless motor for their robotics, such as robot dog But the problem is it is very very expensive https://preview.redd.it/47qndg3pxg4h1.png?width=1566&format=png&auto=webp&s=9bdd07815b19eebfde8719c3dc2aa806187c44e1 So does there any perfect alternative for it I know about servo motor, but the motion space and speed is not the best
 
-10h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi. I saw a lot of people on YouTube use pancake brushless motor for their robot
 
 Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platform and can provide some advice on getting it operational in a ROS2 environment. The manual lists a ton of ROS2 topics that can be used to control various aspects of the robot, arm/head/torso motion, navigation, mapping etc. The latter (SLAM) being my first interest. However logging into the robot, no ROS2 topics are immediately visible. Starting the ROS daemon with ROS_LOCALHOST_ONLY (which is no good long-term, but I guess will do for now) shows a couple of topics but they seem to be subscribers, there's no data on any of them. Grateful for any advice.
 
-14h ago
+15h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all, I have an Agibot G1 here. Wondering if anyone is working with this platf
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-8h ago
+10h ago
 
 ---
 
@@ -106,7 +106,7 @@ From AGIBOT on 𝕏 (longer video): https://x.com/AGIBOTofficial/status/20598928
 
 For people training RL agents: What part of debugging takes the most time for you? Examples: - figuring out why policy suddenly collapsed - replaying bad episodes - comparing runs - reward debugging - environment bugs - logging / tracking experiments - visualizing failure cases What do you currently do for it? Scripts? WandB? Manual inspection?
 
-10h ago
+11h ago
 
 ---
 
@@ -118,15 +118,7 @@ For people training RL agents: What part of debugging takes the most time for yo
 
 This humanoid robotics ETF (KOID) has been performing wonderfully, though it's only been in existence for about a year.
 
-Yahoo Finance • 7h ago
-
----
-
-**[Humanoid robots 'the future' of car making, says BMW](https://www.bbc.com/news/articles/cgmpwzzvxr2o)**
-
-BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.
-
-BBC • 2d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -138,19 +130,17 @@ CNBC • 1d ago
 
 ---
 
+**[Robotics: Humanoid Hands Are Physical AI’s Anti-Hype Test](https://www.bloomberg.com/opinion/articles/2026-05-31/robotics-humanoid-hands-are-physical-ai-s-anti-hype-test)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[Why Richtech Robotics’ (RR) Latest Collaboration Could Change The Conversation](https://finance.yahoo.com/markets/stocks/articles/why-richtech-robotics-rr-latest-143820462.html)**
 
 With a stock price of $3.02, Richtech Robotics Inc. (NASDAQ:RR) is among the 8 Best Up and Coming Penny Stocks to Buy Now. On May 7, Richtech Robotics Inc. (NASDAQ:RR) announced a prospective partnership with SoundHound AI (SOUN), entering into a non-binding letter of intent regarding a strategic collaboration. The proposed partnership would integrate SoundHound’s advanced agentic […]
 
-Yahoo Finance • 8h ago
-
----
-
-**[Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese](https://www.ksl.com/article/51503542/humanoids-dance-and-thread-needles-as-japanese-robotics-developers-look-to-outdo-chinese)**
-
-Mechanical hands dexterous enough to thread a needle, childlike dancing robots and adult-sized ones to help with deliveries were on display Thursday as the Humanoids Summit Tokyo opened.
-
-KSL.com • 1d ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -172,15 +162,7 @@ Tech Xplore • 2d ago
 
 A viral video claimed “face-scanning robots” were checking World Cup tickets in Dallas. The company behind them says that’s not true.
 
-WFAA • 1d ago
-
----
-
-**[2 Tech ETFs for Nearly Every Corner of the Digital Economy: From Semiconductors to Robotics](https://www.fool.com/investing/2026/05/29/2-tech-etfs-for-nearly-every-corner-of-the-digital/)**
-
-Unless humanity enters another Stone Age, technology will continue to advance. Here's how you can profit from that knowledge.
-
-The Motley Fool • 2d ago
+WFAA • 2d ago
 
 ---
 
@@ -189,6 +171,22 @@ The Motley Fool • 2d ago
 Featured at the International Conference on Robotics and Automation, eight new NVIDIA Research papers show how robots trained in simulation are moving into the real world.
 
 NVIDIA Blog • 3d ago
+
+---
+
+**[Clinical trial seeks to advance intuitive assistive robotics for people with paralysis](https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis)**
+
+Rice, in collaboration with Baylor College of Medicine, will join BrainGate, a consortium of universities and academic medical centers working on creating brain-computer interface technologies.
+
+Rice University • 3d ago
+
+---
+
+**[Humanoid Robots Are Now Part of the War Machine—And America’s Newest ‘Soldier’ Is Ready for Action](https://www.popularmechanics.com/military/a71423388/humanoid-robots-are-already-in-combat/)**
+
+Will humanoids redefine how battles are fought and won?
+
+Popular Mechanics • 3d ago
 
 ---
 
@@ -232,7 +230,7 @@ LilyPichu and I try building an unhinged robot for Michael Reeves (with some hel
 
 📺 Valkyrae
 
-👁️ 60K • 👍 6K • 💬 182 • ⏱️ 21:44 • 6h ago
+👁️ 60K • 👍 6K • 💬 182 • ⏱️ 21:44 • 7h ago
 
 ---
 
@@ -262,7 +260,7 @@ Watch a humanoid robot launch a drone straight from its hand - a futuristic glim
 
 📺 Autonomous Robotic Systems @ Fraunhofer IOSB
 
-👁️ 2K • 👍 13 • 💬 2 • ⏱️ 0:38 • 7h ago
+👁️ 2K • 👍 13 • 💬 2 • ⏱️ 0:38 • 8h ago
 
 ---
 
@@ -272,7 +270,7 @@ The Princeps is getting nerfed! It's arguably the best titan in the game and it 
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 314 • 💬 53 • ⏱️ 14:24 • 11h ago
+👁️ 7K • 👍 314 • 💬 53 • ⏱️ 14:24 • 12h ago
 
 ---
 

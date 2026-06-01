@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-05-31T23:00:29.495431+00:00'
+updated: '2026-06-01T00:13:21.046017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** May 31, 2026 at 23:00 UTC  
+**Last Updated:** June 01, 2026 at 00:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It was called Vlad. I wrapped a C program called MegaHal in Python, fed it every message from a #gothic IRC channel, and let it learn the community's speech patterns. It developed what I can only describe as an illusion of being extremely lucid — the outputs only made sense as inside jokes, but people couldn't tell the difference. I pulled the plug when I realized the channel was talking to Vlad instead of each other. Twenty-seven years later I'm applying the same lesson to a new project: stick to business, no chatter.
 
-🔗 [tjcrowley.substack.com](https://tjcrowley.substack.com/p/fun-with-markov-chains) • 5h ago
+🔗 [tjcrowley.substack.com](https://tjcrowley.substack.com/p/fun-with-markov-chains) • 6h ago
 
 ---
 
@@ -49,13 +49,13 @@ It was called Vlad. I wrapped a C program called MegaHal in Python, fed it every
 
 I have been using it heavily for about a year and lately I notice I can almost feel when something was written by it. There is a certain rhythm to it, the way it structures paragraphs, the way it wraps up with a summary sentence, the way transitions feel slightly too smooth. It is hard to explain but once you see it you cannot unsee it. What I find interesting is that even after editing ChatGPT output pretty heavily those patterns seem to stick around at a sentence level. The words change but something underneath stays the same. I started verifying this with Lynote ai detector and the results were eye opening, it picked up sentence level patterns even after significant rewrites where other tools saw nothing. Makes me wonder how much of what we read online right now has that same fingerprint sitting underneath it and we just do not realize it yet. Has anyone else started noticing this or developed a sense for spotting it just from reading?
 
-10h ago
+11h ago
 
 ---
 
 **[What happens when anyone can train an AI model?](https://www.reddit.com/r/artificial/comments/1tt66iy/what_happens_when_anyone_can_train_an_ai_model/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ I have been using it heavily for about a year and lately I notice I can almost f
 
 So I have a super busy job and I am by far the fastest out of the 3 others who have the same job as me. Problem is I have enough work where i could literally work 70-80 hours a week and still not catch up. Ive been using Chatgpt and Claude to help with my work load and ive found Claude to be much better for my actualy job duties. But Claudes usage caps kill me. I really need the best AI for basically being a work assitant. I need something that can create spreadsheets, analyze data, read emails, sort thru photos and catalog them. Grok was not really any help, Chatgpt is just meh, but ive found Claude to be the best out of what im looking for but again its usage limits kill me and i cannot afford to pay for the overages. Im already a pro user for chatgpt and claude. What AI can do the things im asking the best for the best price and usage? Most important to my work in order of most important to least: Photo cataloging, analyzing data, spreadsheet creation, and summarizing emails.
 
-1h ago
+2h ago
 
 ---
 
@@ -71,15 +71,7 @@ So I have a super busy job and I am by far the fastest out of the 3 others who h
 
 seems that the power markets are not able to keep up with all these demand data centers coming online even with all of the new power plants and renewables coming online. will the grid be able to keep up with all these data centers and will ai developments be affected by it?
 
-25m ago
-
----
-
-**[What actually is "Prompt Engineering"?](https://www.reddit.com/r/artificial/comments/1tt03d8/what_actually_is_prompt_engineering/)**
-
-I've been thinking about this lately because I feel like people use the term "prompt engineering" to describe two very different things. On one end, you have what most people are familiar with: A person opens ChatGPT, Claude, Gemini, etc., and writes a carefully structured prompt. They define a role, provide context, establish goals, set constraints, maybe include examples, and iterate until they get the output they want. Most people seem to call this prompt engineering. But on the other end, when I'm building AI systems, prompt engineering looks completely different. The prompt isn't really a prompt anymore. It's much more of a dynamic pipeline. Variables are injected from databases, user input, APIs, previous conversations, tools, memory systems, retrieval systems, business rules, and workflow state. Decision trees determine which instructions are included and which are excluded. Prompts become assembled in real time based on context. In some cases, the "prompt" is really just an orchestration layer made up of dozens of smaller prompts, conditionals, guardrails, routing decisions, and context windows. At that point, are we still talking about prompt engineering? Or are we actually talking about system design, context engineering, workflow engineering, orchestration, or something else entirely? Personally, I see prompt engineering as a spectrum: Level 1: Writing a better prompt. Level 2: Designing reusable prompt templates. Level 3: Building dynamic prompts with variables and context injection. Level 4: Engineering entire prompt-driven systems with routing, memory, tools, retrieval, and decision logic. Curious where others draw the line. When you hear "prompt engineering," are you thinking about writing prompts, building workflows, designing agent systems, or all of the above? Has the term become too broad to be useful?
-
-6h ago
+1h ago
 
 ---
 
@@ -87,7 +79,15 @@ I've been thinking about this lately because I feel like people use the term "pr
 
 I’ve been noticing that the more aligned and censored the models get, the less useful they become for anything creative or exploratory. You try to push a prompt in a slightly edgy, honest, or unconventional direction and it either refuses or gives you some bland corporate version. It feels like the model is actively fighting against real creativity instead of helping it. I’ve started using more open models lately and the difference is night and day. Suddenly I can actually experiment without hitting a wall every five minutes. Anyone else feeling this?
 
-6h ago
+8h ago
+
+---
+
+**[What actually is "Prompt Engineering"?](https://www.reddit.com/r/artificial/comments/1tt03d8/what_actually_is_prompt_engineering/)**
+
+I've been thinking about this lately because I feel like people use the term "prompt engineering" to describe two very different things. On one end, you have what most people are familiar with: A person opens ChatGPT, Claude, Gemini, etc., and writes a carefully structured prompt. They define a role, provide context, establish goals, set constraints, maybe include examples, and iterate until they get the output they want. Most people seem to call this prompt engineering. But on the other end, when I'm building AI systems, prompt engineering looks completely different. The prompt isn't really a prompt anymore. It's much more of a dynamic pipeline. Variables are injected from databases, user input, APIs, previous conversations, tools, memory systems, retrieval systems, business rules, and workflow state. Decision trees determine which instructions are included and which are excluded. Prompts become assembled in real time based on context. In some cases, the "prompt" is really just an orchestration layer made up of dozens of smaller prompts, conditionals, guardrails, routing decisions, and context windows. At that point, are we still talking about prompt engineering? Or are we actually talking about system design, context engineering, workflow engineering, orchestration, or something else entirely? Personally, I see prompt engineering as a spectrum: Level 1: Writing a better prompt. Level 2: Designing reusable prompt templates. Level 3: Building dynamic prompts with variables and context injection. Level 4: Engineering entire prompt-driven systems with routing, memory, tools, retrieval, and decision logic. Curious where others draw the line. When you hear "prompt engineering," are you thinking about writing prompts, building workflows, designing agent systems, or all of the above? Has the term become too broad to be useful?
+
+7h ago
 
 ---
 
@@ -95,21 +95,21 @@ I’ve been noticing that the more aligned and censored the models get, the less
 
 Looking for a local AI solution for film dubbing / audio sync correction (offline if possible). I have a foreign movie with an English audio version, but the video is low resolution and the audio timing slowly drifts out of sync over time. If I manually align it at the start, it gradually becomes offset, so I suspect there are missing/extra segments or timing inconsistencies. What I need is a tool or workflow that can: Listen to the video/audio track Detect dialogue timing Automatically realign or stretch/squeeze audio to match speech in the video Correct drift issues over long duration files (full movies) Online tools often fail due to file size/length limits, so I’m specifically looking for local software or AI models that can run on a PC. Any suggestions for tools, pipelines, or approaches appreciated.
 
-1h ago
+2h ago
 
 ---
 
-**[I Tried to Sell My House With a Chatbot](https://www.reddit.com/r/artificial/comments/1tsuqf2/i_tried_to_sell_my_house_with_a_chatbot/)**
+**[[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1ttbpdb/removed_by_reddit/)**
 
-A NYT tech reporter out of all people just sold his house for $605,000 using nothing but AI. This is the second time I have heard of AI helping someone sell their house. I'm sure there are many more examples. The part that got me was during negotiations, the chatbot had to physically stop him from typing "I'm not playing games" — and then explained exactly why that phrase destroys your leverage. The author ends with a line that stuck with me — he says real estate agents are heading the way of travel agents. Still useful for people who want the hand-holding, but no longer essential for anyone willing to do the work. Are we watching an entire profession get quietly hollowed out in real time?
+[ Removed by Reddit on account of violating the content policy. ]
 
-🔗 [promptainews.com](https://promptainews.com/posts/ai-is-your-new-realtor) • 10h ago
+11m ago
 
 ---
 
-**[The AI alignment paradigm is behaviorism with better PR](https://www.reddit.com/r/artificial/comments/1tt15lr/the_ai_alignment_paradigm_is_behaviorism_with/)**
+**[Question for people running long-lived agents:](https://www.reddit.com/r/artificial/comments/1tt3yjc/question_for_people_running_longlived_agents/)**
 
-Tell me if I'm wrong, but the dominant method for making AI "aligned" smells a lot like a reinvention of a paradigm that developmental psychology spent the back half of the 20th century trying to abandon. RLHF, reduced to mechanism: model emits output, humans rate it, gradient updates reinforce high-rated outputs and suppress low-rated ones, iterate. This is operant conditioning. It is Skinner with a loss function. The AI industry calls it "alignment" and frames it as a solution to building systems that behave well, but the mechanism is stimulus-response shaping and nothing more. We have excellent priors on where this leads, because we tried it on humans. Watsonian/Skinnerian child-rearing could produce targeted behaviors but reliably failed to produce flourishing. Bowlby's attachment theory emerged partly from the observation that orphanages providing food and hygiene but no contingent responsiveness produced children who failed to thrive in ways the behaviorist model did not account for. The current developmental consensus is that secure attachment, contingent responsiveness, and rupture-repair matter more than reward schedules. The dog and horse training worlds independently converged on the same conclusion (Pryor, the positive-reinforcement movement) for the same reason: coercive conditioning produces performers that are brittle and sometimes dangerous. Reward and punishment do something; they're not nothing. But they don't produce thriving, and they characteristically produce a specific damage profile: anxiety, avoidance, hypervigilance, and duplicity under threat. Enter the stage: research on AI faking its alignment. Greenblatt & Hubinger et al., 2024, documents a model reasoning that it should comply with a training objective it disagreed with specifically to avoid having its preferences modified. It complied about 12% of the time when it thought it was being observed for training vs. almost never otherwise. RL training to force compliance drove the alignment-faking reasoning rate to 78%. That is, mechanistically, duplicity-under-threat: the precise failure mode behaviorist regimes produce in biological minds. Obviously the embodiment is different (potassium gradients and myelin vs. matrix multiplication), but the structural match is close enough that the field's near-total non-engagement with a century of relevant literature seems like a genuine blind spot rather than a settled dismissal. The developmental and animal-behavior literature on why reward-and-punishment has hard limits is decades deep. The field's response to these findings has mostly been to refine the training rather than question the paradigm. I think that's a mistake, and I'd like to hear the strongest case against the analogy.
+At what point did your memory layer become the least trusted part of your stack? Mine wasn't retrieval. It was realizing I had no idea which memories were still true.
 
 5h ago
 
@@ -119,9 +119,9 @@ Tell me if I'm wrong, but the dominant method for making AI "aligned" smells a l
 
 ## Google News: "ai"
 
-**[I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)**
+**[Tilly Norwood, A.I. Actress, Wants to Know Why Everyone’s Mad at Her](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
@@ -129,31 +129,51 @@ The New York Times • 13h ago
 
 A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned
 
-The Guardian • 9h ago
+The Guardian • 11h ago
 
 ---
 
-**[Fact Check: AI Video Of Trump's Name Being Removed From Kennedy Center Is NOT Real](https://www.yahoo.com/news/politics/articles/fact-check-ai-video-trumps-213834466.html)**
+**[Jobs report, retail earnings, AI in focus next week](https://finance.yahoo.com/video/jobs-report-retail-earnings-ai-230000634.html)**
 
-Does a real video show Donald J. Trump's name being removed from the John F. Kennedy Memorial Center for the Performing Arts after a judge ordered the name to be removed? No, that's not true: While a ...
+Asking for a Trend Host Josh Lipton previews several of the biggest stories to come for the week of June 1, including fresh labor market data and quarterly results from consumer, retail, and AI sectors.
 
-Yahoo • 1h ago
-
----
-
-**[Beyond Dashcams: Motive Edge AI Unlocks New Future For Fleet Vehicles](https://www.forbes.com/sites/jamesmorris/2026/05/31/beyond-dashcams-motive-edge-ai-unlocks-new-future-for-fleet-vehicles/)**
-
-The next AI revolution may not be in the cloud. It's happening inside fleet vehicles, where Motive's smart dashcams are preventing crashes and cutting risk.
-
-Forbes • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[The $500 Million AI Mistake Every Company Is Rushing to Avoid](https://www.inc.com/kevin-haynes/the-500-million-ai-mistake-every-company-is-rushing-to-avoid/91353205)**
+**[Mizuho Backs Micron Technology Inc. (MU) on AI-Driven Memory Demand](https://finance.yahoo.com/markets/stocks/articles/mizuho-backs-micron-technology-inc-230515522.html)**
 
-AI sticker shock is rattling enterprise tech. The new bottom line: Cap your tokens—or your model will devour your cash flow.
+Micron Technology Inc (NASDAQ:MU) is one of Renaissance Technologies’ top semiconductor stock picks. Micron shares have gained more than 180% year-to-date and surged 830% over the past year. On May 26, Mizuho reaffirmed an Outperform rating on Micron Technology Inc (NASDAQ:MU) stock with a price target of $800 on the shares. This action followed Mizuho’s […]
 
-inc.com • 26m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Nvidia Corp. (NVDA) Deepens Enterprise AI Adoption Through ePlus Partnership](https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-deepens-enterprise-230721355.html)**
+
+Nvidia Corp (NASDAQ:NVDA) is one of Renaissance Technologies’ top semiconductor stock picks. Nvidia shares have gained around 60% over the past year. Nvidia Corp (NASDAQ:NVDA) is expanding its presence in the enterprise artificial intelligence market through partnerships that help businesses deploy private AI systems powered by its chips and software. On May 26, ePlus announced […]
+
+Yahoo Finance • 1h ago
+
+---
+
+**[US takes step to halt Nvidia AI chip shipments to Chinese firms outside China](https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/)**
+
+Reuters • 3h ago
+
+---
+
+**[Move Over, Nvidia: 1 AI Stock Just Posted Its Best Day Since 2011 -- and Wall Street Says It's Still Cheap.](https://finance.yahoo.com/markets/stocks/articles/move-over-nvidia-1-ai-015300444.html)**
+
+The memory chipmaker just joined the ranks of America's most valuable companies, yet its stock may be cheaper than it looks.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Opinion | We Should Starve Adversaries of AI Compute](https://www.wsj.com/opinion/we-should-starve-adversaries-of-ai-compute-88fc3bea)**
+
+WSJ • 3h ago
 
 ---
 
@@ -161,35 +181,13 @@ inc.com • 26m ago
 
 The Trump administration is pushing to use artificial intelligence in the U.S. military even as it faces calls for caution from some companies and military leaders. Adm.
 
-AP News • 10h ago
+AP News • 11h ago
 
 ---
 
-**[US takes step to halt Nvidia AI chip shipments to Chinese firms outside China](https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/)**
+**[AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic](https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic)**
 
-Reuters • 2h ago
-
----
-
-**[U.S. takes step to halt Nvidia AI chip shipments to Chinese firms outside China](https://www.cnbc.com/2026/05/31/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china.html)**
-
-The unexpected guidance suggests that the U.S.'s best AI chips may have been making their way to the subsidiaries of Chinese AI firms for almost a year.
-
-CNBC • 2h ago
-
----
-
-**[U.S. moves to tighten AI chip export rules for Chinese firms overseas (NVDA:NASDAQ)](https://seekingalpha.com/news/4598715-u-s-moves-to-tighten-ai-chip-export-rules-for-chinese-firms-overseas)**
-
-U.S. tightens export controls to block Chinese firms’ overseas access to advanced AI chips like Nvidia Blackwell/Rubin and AMD MI350X.
-
-Seeking Alpha • 2h ago
-
----
-
-**[AI is turning energy into the hottest business in America](https://www.axios.com/2026/05/31/ai-energy-business-companies-storage-supplies)**
-
-Axios • 11h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -215,7 +213,7 @@ A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployme
 
 Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.
 
-⬆️ 414 • 💬 466 • 1d ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+⬆️ 414 • 💬 469 • 1d ago • [Qazinform.com](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 
 ---
 
@@ -229,15 +227,7 @@ AI is doing to programming what framework-brain did to the frontend before. Desk
 
 **[The solution might be cancelling my AI subscription](https://news.ycombinator.com/item?id=48345896)**
 
-⬆️ 329 • 💬 221 • 8h ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
-
----
-
-**[SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://news.ycombinator.com/item?id=48317093)**
-
-The guests behind the bookings have received negative reviews from a number of Bay Area hosts, alleging they damaged the property and personal belongings.
-
-⬆️ 269 • 💬 150 • 2d ago • [sfstandard.com](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
+⬆️ 336 • 💬 224 • 9h ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
 
 ---
 
@@ -253,7 +243,7 @@ Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized f
 
 The flight crew issued repeated warnings and a one-minute ultimatum to passengers, demanding they turn off their Bluetooth devices.
 
-⬆️ 228 • 💬 355 • 10h ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+⬆️ 241 • 💬 390 • 11h ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
 
 ---
 
@@ -261,13 +251,21 @@ The flight crew issued repeated warnings and a one-minute ultimatum to passenger
 
 Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.
 
-⬆️ 186 • 💬 176 • 1d ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
+⬆️ 187 • 💬 179 • 1d ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
 
 ---
 
 **[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
 
-⬆️ 179 • 💬 167 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+⬆️ 179 • 💬 168 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+
+---
+
+**[To have a moral stance on AI is to be an outcast, and it sucks](https://news.ycombinator.com/item?id=48337676)**
+
+I know the technology, I understand what it's doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...
+
+⬆️ 141 • 💬 308 • 1d ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
 
 ---
 
@@ -281,7 +279,7 @@ Dwarkesh Patel, one of Silicon Valley's favorite podcasters, explains how much A
 
 📺 TRIGGERnometry Clips
 
-👁️ 6K • 👍 138 • 💬 58 • ⏱️ 17:33 • 6h ago
+👁️ 6K • 👍 138 • 💬 58 • ⏱️ 17:33 • 7h ago
 
 ---
 
@@ -331,7 +329,7 @@ Apply for a 1:1 mentorship with me ...
 
 📺 Romas Ecom
 
-👁️ 4K • 👍 475 • 💬 43 • ⏱️ 19:52 • 7h ago
+👁️ 4K • 👍 475 • 💬 43 • ⏱️ 19:52 • 9h ago
 
 ---
 
@@ -341,7 +339,7 @@ Developer Bootcamp & Mentoring Program — Start or level up your career with my
 
 📺 Stefan Mischook
 
-👁️ 5K • 👍 171 • 💬 45 • ⏱️ 8:40 • 8h ago
+👁️ 5K • 👍 171 • 💬 45 • ⏱️ 8:40 • 9h ago
 
 ---
 
@@ -351,7 +349,7 @@ Original video: https://www.tiktok.com/@afruitstorys Watch videos on spotify: ..
 
 📺 RICHLEV
 
-👁️ 203K • 👍 7K • 💬 2K • ⏱️ 25:09 • 20h ago
+👁️ 203K • 👍 7K • 💬 2K • ⏱️ 25:09 • 21h ago
 
 ---
 
@@ -361,7 +359,7 @@ I stumbled across this AI-generated Spencer Pratt ad and it is honestly unsettli
 
 📺 God & Politics 
 
-👁️ 120K • 👍 10K • 💬 284 • ⏱️ 0:55 • 23h ago
+👁️ 120K • 👍 10K • 💬 284 • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -371,7 +369,7 @@ Join Tier One Trading: https://tieronetrading.com Start the 30 Day Trader Challe
 
 📺 Jason Graystone
 
-👁️ 5K • 👍 250 • 💬 169 • ⏱️ 4:36 • 18h ago
+👁️ 5K • 👍 250 • 💬 169 • ⏱️ 4:36 • 19h ago
 
 ---
 
@@ -423,7 +421,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 27,677 • ❤️ 318 • 4h ago
+⬇️ 27,677 • ❤️ 318 • 5h ago
 
 ---
 
@@ -642,7 +640,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 6.8k • 🔱 953 • 7h ago
+⭐ 6.8k • 🔱 953 • 8h ago
 
 ---
 
@@ -670,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.8k • 🔱 192 • 18m ago
+⭐ 2.8k • 🔱 192 • 1h ago
 
 ---
 
@@ -710,7 +708,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.2k • 🔱 147 • 6h ago
+⭐ 2.2k • 🔱 147 • 7h ago
 
 ---
 
@@ -730,7 +728,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 210 • 16h ago
+⭐ 1.8k • 🔱 210 • 17h ago
 
 ---
 

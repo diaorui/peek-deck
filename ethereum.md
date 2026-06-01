@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-05-31T23:00:29.508520+00:00'
+updated: '2026-06-01T00:13:21.059135+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** May 31, 2026 at 23:00 UTC  
+**Last Updated:** June 01, 2026 at 00:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,013.06
+### $2,009.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -4.7%  
-**30d:** -13.0%  
-**90d:** +1.6%  
-**1y:** -20.5%  
+**24h:** -1.0%  
+**7d:** -3.1%  
+**30d:** -13.5%  
+**90d:** -5.6%  
+**1y:** -22.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -142,7 +142,7 @@ In this thread posted by the Everstake team they raise the point that "Past a ce
 
 \&#x200B; I accidentally sent ETC from Skrill to my Lemon ETH/ERC20 deposit address. The transaction is confirmed on the ETC blockchain, and the funds appear in the receiving address. I emailed Lemon support but haven't received a response yet. Is it possible they could provide a recovery guide, or should I consider the funds lost?
 
-3d ago
+4d ago
 
 ---
 
@@ -158,19 +158,27 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum Weekly Price Forecast: Onchain data paints bearish picture](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-onchain-data-paints-bearish-picture-202605301536)**
+
+Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
+
+FXStreet • 1d ago
+
+---
+
+**[Trump Says He 'Saved' Crypto, But Did Bitcoin, Ethereum, XRP Actually Benefit?](https://finance.yahoo.com/markets/crypto/articles/trump-says-saved-crypto-did-220041192.html)**
+
+President Trump on Wednesday posted on Truth Social that he saved the American crypto industry from Gary Gensler’s “Anti-Crypto Army,” declaring America is now the “Crypto Capital of the World.” What Trump Actually Did For Crypto Since Taking Office The...
+
+Yahoo Finance • 2h ago
+
+---
+
 **[How Much Ethereum Do You Need to Retire by 2040?](https://finance.yahoo.com/markets/crypto/articles/much-ethereum-retire-2040-222009755.html)**
 
 Ethereum (CRYPTO: ETH) is trading at roughly $2,000 today, 59% below the all-time high of $4,946 it hit in August 2025. The drop has long-term investors asking a longer-term question. Whether holding ETH for the next 14 years could fund a retirement by 2040. It is a question worth taking seriously. So, we looked at ... How Much Ethereum Do You Need to Retire by 2040?
 
-Yahoo Finance • 40m ago
-
----
-
-**[Insider Reveals Real Reason Ethereum Is Down 65% vs Bitcoin Since The Merge](https://finance.yahoo.com/markets/crypto/articles/insider-reveals-real-reason-ethereum-194227750.html)**
-
-An Ethereum insider blames the 65% drop versus Bitcoin since the Merge on execution debt, not market cycles.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,7 +186,7 @@ Yahoo Finance • 3h ago
 
 Solana (CRYPTO: SOL) and Ethereum (CRYPTO: ETH) have followed similar trajectories, with their market value soaring and then facing sharp pullbacks. Solana hit its all-time high of $294 in January 2025, and seven months later, Ethereum reached its all-time high of $4,950. Now Solana trades near $82, roughly 72% down from its peak, while Ethereum ... Will Solana Overtake Ethereum by 2028?
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +194,7 @@ Yahoo Finance • 18m ago
 
 Ethereum the network has become the financial infrastructure its supporters always dreamed of. But ETH the token has taken a different turn
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -194,15 +202,7 @@ Forbes • 23h ago
 
 BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
 
-Seeking Alpha • 16h ago
-
----
-
-**[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
-
-If history is any guide, investors should be buying Ethereum, not XRP, right now.
-
-The Motley Fool • 23h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -214,19 +214,19 @@ The Block • 3d ago
 
 ---
 
-**['Ethereum Wins The Scoreboard,' Says SharpLink CEO, Comparing ETH's Long Game To Bezos's Amazon Bet](https://www.tradingview.com/news/stocktwits:f1dc057ce094b:0-ethereum-wins-the-scoreboard-says-sharplink-ceo-comparing-eth-s-long-game-to-bezos-s-amazon-bet/)**
+**[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
 
-Joseph Chalom, Chief Executive Officer (CEO) of Ethereum (ETH) treasury firm SharpLink Inc. (SBET), stated in an interview on Saturday on the RollUp platform that recent criticism targeting the Ethereum network and its foundation is "noise" that loses sight of the bigger picture.Chalom, who has 20…
+If history is any guide, investors should be buying Ethereum, not XRP, right now.
 
-TradingView • 13h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Weekly Price Forecast: Onchain data paints bearish picture](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-onchain-data-paints-bearish-picture-202605301536)**
+**[Tom Lee’s Bitmine Reportedly Adds More Ethereum As Critics Point To HYPE’s Record Run](https://www.tradingview.com/news/stocktwits:7214f75ae094b:0-tom-lee-s-bitmine-reportedly-adds-more-ethereum-as-critics-point-to-hype-s-record-run/)**
 
-Following Ethereum's (ETH) decline to the $2,000 psychological level over the past few days, loss realization has increased.
+Tom Lee-backed Bitmine Immersion Technologies (BMNR) reportedly bought over $50 million worth of Ethereum (ETH) on Friday, extending its treasury strategy even as crypto investors questioned whether Hyperliquid (HYPE) was delivering stronger returns.Arkham data showed that a wallet named “ETH Whale…
 
-FXStreet • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 78 • 💬 25 • ⏱️ 22:52 • 12h ago
+👁️ 3K • 👍 78 • 💬 25 • ⏱️ 22:52 • 13h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 291 • 👍 16 • 💬 1 • ⏱️ 4:37 • 13h ago
+👁️ 291 • 👍 16 • 💬 1 • ⏱️ 4:37 • 14h ago
 
 ---
 
@@ -320,7 +320,7 @@ This week's biggest crypto stories: Harvard exits its Ethereum ETF position, Tom
 
 📺 The BarterTown Conglomerate
 
-👁️ 152 • 👍 2 • ⏱️ 1:00:53 • 11h ago
+👁️ 152 • 👍 2 • ⏱️ 1:00:53 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 92 • ⏱️ 6:48 • 9h ago
+👁️ 1K • 👍 92 • ⏱️ 6:48 • 11h ago
 
 ---
 
