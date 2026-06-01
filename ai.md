@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-01T20:56:16.631357+00:00'
+updated: '2026-06-01T23:03:23.737403+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 01, 2026 at 20:56 UTC  
+**Last Updated:** June 01, 2026 at 23:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Selected excerpts: "The question, then, is not whether A.I. will change the world. It will. The question is: Who will own and control that future? Who will benefit from it, and who will be hurt by it? Will A.I. be used to make life better for working families? Will it enrich our quality of life? Will it help us eliminate poverty, extend life expectancies and solve the climate crisis? Or will the future of humanity be determined by a handful of billionaires who have promoted and developed A.I., with virtually no democratic input, who stand to become even richer and more powerful than they are today? That is the choice before us. Let us be clear. Artificial intelligence was not created out of thin air. The data and language used by generative A.I. tools didn’t just pop into Sam Altman’s head or Elon Musk’s imagination. A.I. is built on our collective intelligence: our books, songs, artwork, journalism, computer code, scientific research, videos, conversations, images and ideas spanning generations. That is not just the opinion of Bernie Sanders. According to Mr. Altman, the head of OpenAI, A.I. models were trained on our 'collective experience, knowledge' and 'learnings of humanity.' For the most part, tech oligarchs have fed this knowledge into their A.I. models without permission, without acknowledgment, without compensation. In other words, the creative work of millions of people — writers, artists, musicians, journalists, teachers, scientists and ordinary citizens — has essentially been stolen by some of the wealthiest people in the world. It’s time for us to reclaim it. That is why I will soon be introducing the American A.I. Sovereign Wealth Fund Act. This legislation would give the public a direct ownership stake in the largest A.I. companies in our country. How? It would create a sovereign wealth fund through a one-time 50 percent tax — not on the profits of OpenAI, Anthropic, xAI and other companies, but paid with something far more valuable than that: the stock."
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) • 9h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) • 11h ago
 
 ---
 
@@ -49,15 +49,7 @@ Selected excerpts: "The question, then, is not whether A.I. will change the worl
 
 Hey Reddit, I just published a study analyzing 25,500 LLM resume evaluations to measure hiring bias. By swapping minor identity and demographic variables on the exact same work history across 10 different models, an independent AI auditor flagged a staggering 45% bias rate driven by "silent bias." Instead of saying anything overtly offensive, models invent professional-sounding excuses to penalize candidates, like when a model dropped its score after I changed the university to MIT, suddenly claiming the candidate's experience wasn't relevant despite praising that exact same experience on the baseline resume. We also found a massive 6x difference in stability between systems, with Qwen and older Gemini models being highly volatile, while the Claude models, Mistral-Large, and Llama 4 proved to be the most stable and fair. Ultimately, AI screening tools are outputting highly subjective, unpredictable opinions driven by statistical noise rather than objective truth, making them a massive liability under regulations like the EU AI Act. You can read the full write-up and explore our interactive data app here: https://re-cinq.com/blog/ai-hiring-bias-25500-llm-evaluations
 
-7h ago
-
----
-
-**[Cognitive debt might be the most underrated problem AI is creating](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/)**
-
-Everyone knows about tech debt. You cut corners on code quality to ship faster, and you pay for it later. We're definitely watching a new version of that emerge in real time, except instead of deferring manageable code, you're deferring actual understanding. And unlike tech debt, cognitive debt compounds invisibly. You don't get a failing test suite. You just get someone who can't debug their own project, can't evaluate whether the AI's suggestion is good, and can't extend what they've built without prompting their way through it again. What I keep thinking about is where this leads at scale. Right now it's mostly developers vibe-coding their way through projects they half-understand. But AI is moving into law, medicine, and finance. The same dynamic follows: people making consequential decisions with tools they can't interrogate, in domains where "I'll just re-prompt it" isn't a recovery strategy. The pessimistic, or maybe rational read is that judgment without foundational understanding is just confident ignorance, and we're building entire careers on that foundation right now. Curious what people here think. Does cognitive debt get self-correcting as the stakes get high enough? Or are we sleepwalking into a generation of professionals who are deeply dependent on systems they fundamentally don't understand?
-
-18h ago
+9h ago
 
 ---
 
@@ -65,7 +57,15 @@ Everyone knows about tech debt. You cut corners on code quality to ship faster, 
 
 There is a Princeton paper by Kapoor and Narayanan. They found data leakage in close to 300 papers across 17 fields, including medicine and economics. Leakage means the model was trained on information it would never have when it makes a real prediction. So it looks great on the test set and then fails in the real world. My favorite example is civil war prediction. Complex models were reported to crush old logistic regression. Once the leakage was fixed, the fancy models were no better than the decades old stats. I have built enough models to know how easy this is to do by accident. You scale the data before you split it, or you use one feature that is really a stand in for the answer, and your numbers look amazing. So now when I read another "AI cracked X" headline, my first thought is whether anyone checked it for leakage.
 
-2h ago
+4h ago
+
+---
+
+**[Cognitive debt might be the most underrated problem AI is creating](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/)**
+
+Everyone knows about tech debt. You cut corners on code quality to ship faster, and you pay for it later. We're definitely watching a new version of that emerge in real time, except instead of deferring manageable code, you're deferring actual understanding. And unlike tech debt, cognitive debt compounds invisibly. You don't get a failing test suite. You just get someone who can't debug their own project, can't evaluate whether the AI's suggestion is good, and can't extend what they've built without prompting their way through it again. What I keep thinking about is where this leads at scale. Right now it's mostly developers vibe-coding their way through projects they half-understand. But AI is moving into law, medicine, and finance. The same dynamic follows: people making consequential decisions with tools they can't interrogate, in domains where "I'll just re-prompt it" isn't a recovery strategy. The pessimistic, or maybe rational read is that judgment without foundational understanding is just confident ignorance, and we're building entire careers on that foundation right now. Curious what people here think. Does cognitive debt get self-correcting as the stakes get high enough? Or are we sleepwalking into a generation of professionals who are deeply dependent on systems they fundamentally don't understand?
+
+20h ago
 
 ---
 
@@ -73,7 +73,7 @@ There is a Princeton paper by Kapoor and Narayanan. They found data leakage in c
 
 Maybe this is just me using these tools badly, but I've noticed a pattern with ChatGPT and Claude. I’ll have a really useful conversation about something like an idea, a plan, a bit of writing, a coding problem, whatever, and in the moment it feels like I’m making real progress. Then a week later I vaguely remember that we talked about it, but I can’t remember where, or what the useful part actually was and what I was supposed to do next. So I search, find a few old chats, open them… and now I’m scrolling through this massive thread trying to reconstruct why it mattered. It's exhausting and I feel I'm wasting time recollecting things. So sometimes I start over, hoping that the AI itself will remember the details, adding to the waste of time and the frustration. And the more ideas I develop the bigger this problem becomes. And it's only going to get worse. I’ve started leaving myself a short note at the end of useful conversations, but I never remember to do it consistently. Not sure if this is an actual problem or just the natural cost of using AI for messy thinking.
 
-8h ago
+11h ago
 
 ---
 
@@ -81,39 +81,39 @@ Maybe this is just me using these tools badly, but I've noticed a pattern with C
 
 Florida is suing OpenAI and its CEO Sam Altman, alleging they know ChatGPT is not safe, especially for minors.
 
-🔗 [CNN](https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman) • 4h ago
 
 ---
 
-**[Why do people hate/refuse to use anything with AI involved?](https://www.reddit.com/r/artificial/comments/1ttw89x/why_do_people_haterefuse_to_use_anything_with_ai/)**
+**[Changing from 2D generation method to a 3D one change the problem](https://www.reddit.com/r/artificial/comments/1tu5uxw/changing_from_2d_generation_method_to_a_3d_one/)**
 
-I’m genuinely curious why I see so many posts with people complaining about anything with AI involved? It’s not just games, it’s everything. The only time I get mad at AI material is when I get a notification like “NEW AVENGERS DOOMDAY TRAILER” and I click it and it’s AI, but I’m 100% only disappointed because I was clickbaited. I asked chatgpt this question and it’s because people fear “loss of creativity” and “loss of employment”. Is that really the only reason? I’m 33 and I use chatgpt (AI) for day to day questions, which means it would be hypocritical if I were to disapprove of AI use in anything at all, in my opinion. There is nothing wrong with being a hypocrite, we’ve all been hypocritical at some point or another in our lives, but please tell me why you dislike AI if it applies to you. I really want to know.
+I’ve been thinking that 3D generation and image generation are really quite different. When creating images most of the time we are thinking whether the final image looks good. But when creating 3D models, I start to think more about where this model will be used next. I realized this while testing a small workflow. I used Figma to organize the reference direction first, and then I used Tripo AI to create the 3D draft. Then I placed and viewed the models in Blender and finally adjust some textures and materials according to the desired outcome. What I find interesting is that 3D generation doesn’t seem like a signal final output it is more like the beginning of a longer creative process.
 
-5h ago
-
----
-
-**[Recommended models for document data analysis?](https://www.reddit.com/r/artificial/comments/1ttyfal/recommended_models_for_document_data_analysis/)**
-
-Hi everyone, A while ago I read about an AI platform for managing and analyzing body of documents for analysis and reference. From what I remember, it was a semi-closed system where you could upload your own source materials and the model could analyze and reference your uploaded documents directly. From what I recall, it wasn’t self-hosted. Does anyone know of a tool like this or recommend something that performs better than other models? Any recommendations, even if it's a different tool with similar capabilities, would be really helpful. Thanks in advance!
-
-3h ago
+1h ago
 
 ---
 
-**[NVIDIA just released a 32B open reasoning model for robotaxis](https://www.reddit.com/r/artificial/comments/1ttuhhd/nvidia_just_released_a_32b_open_reasoning_model/)**
+**[Free Ai App](https://www.reddit.com/r/artificial/comments/1tu8r9i/free_ai_app/)**
 
-NVIDIA announced Alpamayo 2 Super today: a 32B vision-language-action model aimed at Level 4 robotaxi development. The interesting part is not only the model size. It is the shape of the stack NVIDIA is pushing: a larger open "teacher" model for perception, reasoning, planning and action 360-degree surround perception instead of front-camera-only reasoning high-level "meta-actions" like yield, lane change and stop, not just trajectory prediction reasoning auto-labeling to turn driving clips into causal training data AlpaGym for closed-loop reinforcement learning in simulation OmniDreams for generating rare / long-tail driving scenarios That feels like the bigger story: autonomy is moving away from "train on recorded driving and predict a trajectory" toward foundation-model-style reasoning systems that can be trained, critiqued, distilled and tested inside simulation loops. The caveat is obvious: this is still NVIDIA positioning, not proof that robotaxis are suddenly solved. Model weights are expected this summer, and real-world validation is the hard part. But if open AV foundation models become normal, smaller autonomy teams may stop rebuilding the same perception/planning infrastructure from scratch and start competing on data, safety validation, deployment constraints and closed-loop testing. Source: NVIDIA press release https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Alpamayo-2-Super-Open-Reasoning-Model-for-Robotaxis/default.aspx
+Is there a free ai model apple on IOS that i can send unlimited conversations without a cool down or having to pay?
 
-6h ago
+7m ago
 
 ---
 
-**[Anthropic confidentially files to go public](https://www.reddit.com/r/artificial/comments/1tty3bm/anthropic_confidentially_files_to_go_public/)**
+**[Anthropic wants to be a $10T by 2027](https://www.reddit.com/r/artificial/comments/1tu70lr/anthropic_wants_to_be_a_10t_by_2027/)**
 
-Anthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in the trillion-dollar range as it races against rival OpenAI.
+So let me get this straight... Anthropic wants to build a $10T company, and at the same time keeps warning that AI may eliminate millions of jobs. As a shareholder, that sounds amazing. As an employee, slightly less amazing. Are we watching genuine concern for society, or the greatest investor pitch deck ever created? Curious how others see this....
 
-🔗 [CNN](https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing) • 4h ago
+1h ago
+
+---
+
+**[Open sourced a fun android Launcher](https://www.reddit.com/r/artificial/comments/1tu5wls/open_sourced_a_fun_android_launcher/)**
+
+A year in drafting and iterations. Getting real close to full release. Implementation details available on projects GitHub page. Enjoy [Δ 👾 ∇](https://github.com/vNeeL-code/GHOST)
+
+1h ago
 
 ---
 
@@ -121,75 +121,75 @@ Anthropic on Monday said it filed plans for an initial public offering, setting 
 
 ## Google News: "ai"
 
-**[California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart.](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)**
+**[Alphabet plans to raise $80 billion from stock sales to fund AI buildout](https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html)**
 
-The New York Times • 11h ago
+Alphabet said it plans to sell $80 billion in stock, including through a $10 billion investment by Berkshire Hathaway.
+
+CNBC • 2h ago
+
+---
+
+**[Alphabet seeks $80 billion to fund AI buildout](https://www.axios.com/2026/06/01/alphabet-80-billion-ai-buildout)**
+
+Axios • 1h ago
+
+---
+
+**[Alphabet plans to raise $80 billion to pay for AI buildout](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)**
+
+The Google parent company plans to raise the funds by selling stock.
+
+TechCrunch • 8m ago
+
+---
+
+**[A University System Went All In on A.I. Now It’s Tearing Itself Apart.](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)**
+
+The New York Times • 14h ago
+
+---
+
+**[Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)**
+
+The exploit shows the extreme risk of offloading technical support to AI.
+
+404 Media • 5h ago
+
+---
+
+**[Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)**
+
+The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's…
+
+Krebs on Security • 2h ago
+
+---
+
+**[Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account](https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram)**
+
+Breach confirmed by Meta raises concerns about how safe it is to rely on AI for security measures like passwords
+
+The Guardian • 30m ago
+
+---
+
+**['Godfather of AI' says we're not just creating new beings—they'll be much smarter than us, and soon](https://fortune.com/2026/06/01/godfather-of-ai-geoffrey-hinton-beings-smarter-than-us/)**
+
+The race to make the smartest possible AI that can do the most things will "lead to things that aren't nice beings towards us," Geofrey Hinton said.
+
+Fortune • 10m ago
+
+---
+
+**[Bernie Sanders Continues to Be Only Democrat(ish) Lawmaker Willing to Govern on AI](https://gizmodo.com/bernie-sanders-continues-to-be-only-democrat-willing-to-govern-on-ai-proposes-public-ownership-2000765960)**
+
+Gizmodo • 1h ago
 
 ---
 
 **[Nvidia Introduces First PCs Designed for AI Agents](https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd)**
 
-WSJ • 4h ago
-
----
-
-**[Nvidia announces new AI chip for personal computers](https://www.bbc.com/news/articles/crmp9mppvzro)**
-
-The technology giant's boss Jensen Huang called the move the "reinvention of the computer".
-
-BBC • 9h ago
-
----
-
-**[Has Micron replaced Nvidia as the 'It' stock for the AI trade? (MU:NASDAQ)](https://seekingalpha.com/news/4598510-has-micron-replaced-nvidia-as-the-it-stock-for-the-ai-trade)**
-
-Micron (MU) is surging as the hottest AI trade, outpacing Nvidia (NVDA) on 1-year returns and Quant Ratings—see what’s driving it and act now.
-
-Seeking Alpha • 1h ago
-
----
-
-**[Stargate live updates: OpenAI's Altman says 'people are right to be anxious' about AI](https://www.cnbc.com/2026/06/01/stargate-project-michigan-live-updates.html)**
-
-OpenAI, Oracle and Related Digital discuss the Stargate Michigan buildout, AI infrastructure, jobs and community plans.
-
-CNBC • 43m ago
-
----
-
-**[AI video depicts Washington arts center removing Trump's name](https://www.yahoo.com/news/politics/articles/ai-video-depicts-washington-arts-200718734.html)**
-
-A US judge ruled May 29 that the famed Kennedy Center for the Performing Arts had been illegally renamed after Donald Trump and that his name would need to be removed from the facade. But a video spre...
-
-Yahoo • 48m ago
-
----
-
-**[The election that will shape the future of AI](https://www.politico.com/newsletters/forecast/2026/06/01/the-election-that-will-shape-the-future-of-ai-00944775)**
-
-Politico • 26m ago
-
----
-
-**[Remote work — not AI — has sidelined recent college graduates, research finds](https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai)**
-
-Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.
-
-NPR • 2h ago
-
----
-
-**[GoPro Warns of Going-Concern Risk Amid AI-Fueled Memory Crunch](https://www.bloomberg.com/news/articles/2026-06-01/gopro-warns-of-going-concern-risk-amid-ai-fueled-memory-crunch)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal](https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html)**
-
-Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI.
-
-CNBC • 4h ago
+WSJ • 1h ago
 
 ---
 
@@ -209,13 +209,13 @@ Anthropic has become the most valuable artificial intelligence startup in the wo
 
 The flight crew issued repeated warnings and a one-minute ultimatum to passengers, demanding they turn off their Bluetooth devices.
 
-⬆️ 411 • 💬 865 • 1d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+⬆️ 412 • 💬 873 • 1d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
 
 ---
 
 **[The solution might be cancelling my AI subscription](https://news.ycombinator.com/item?id=48345896)**
 
-⬆️ 371 • 💬 232 • 1d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
+⬆️ 375 • 💬 232 • 1d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
 
 ---
 
@@ -223,15 +223,7 @@ The flight crew issued repeated warnings and a one-minute ultimatum to passenger
 
 Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.
 
-⬆️ 256 • 💬 130 • 4h ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
-
----
-
-**[Odysseus – self-hosted AI workspace](https://news.ycombinator.com/item?id=48346693)**
-
-Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.
-
-⬆️ 211 • 💬 93 • 1d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+⬆️ 271 • 💬 140 • 6h ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
 
 ---
 
@@ -239,7 +231,15 @@ Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus developm
 
 Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
 
-⬆️ 205 • 💬 91 • 4h ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+⬆️ 271 • 💬 106 • 6h ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+
+---
+
+**[Odysseus – self-hosted AI workspace](https://news.ycombinator.com/item?id=48346693)**
+
+Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.
+
+⬆️ 212 • 💬 94 • 1d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
 
 ---
 
@@ -255,21 +255,19 @@ Across hundreds of Reddit threads and a small body of clinical literature, AI-dr
 
 How AI has changed the way I prototype, plan, and ship; and what I'm doing to keep my hands dirty.
 
-⬆️ 188 • 💬 94 • 1d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+⬆️ 189 • 💬 94 • 1d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 
 ---
 
 **[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
 
-⬆️ 183 • 💬 173 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+⬆️ 184 • 💬 173 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 
 ---
 
-**[To have a moral stance on AI is to be an outcast, and it sucks](https://news.ycombinator.com/item?id=48337676)**
+**[Florida sues OpenAI and Sam Altman over AI risks](https://news.ycombinator.com/item?id=48358667)**
 
-I know the technology, I understand what it's doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...
-
-⬆️ 146 • 💬 313 • 2d ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
+⬆️ 159 • 💬 131 • 7h ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 
 ---
 
@@ -277,33 +275,33 @@ I know the technology, I understand what it's doing and I know the impact, so I 
 
 ## YouTube Videos: "ai"
 
-**[Best FREE AI Agent Tools That Actually Work in 2026 (I Tried All)](https://www.youtube.com/watch?v=2GOfWK5M3fg)**
-
-Best Free AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent5 ✓ Claim your ...
-
-📺 Mikey No Code
-
-👁️ 13K • 💬 7 • ⏱️ 20:44 • 6h ago
-
----
-
 **[This AI Warning on The Joe Rogan Experience is SPOT ON. We Must Prepare for This](https://www.youtube.com/watch?v=PA2WhIU0Ldk)**
 
 For years, Glenn has warned that AI will turn into AGI by 2030. But recently, Marc Andreessen told Joe Rogan that it's already here ...
 
 📺 Glenn Beck
 
-👁️ 146K • 👍 8K • 💬 987 • ⏱️ 14:55 • 1d ago
+👁️ 151K • 👍 8K • 💬 1K • ⏱️ 14:55 • 1d ago
 
 ---
 
-**[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
+**[Figure AI Appears To Be Faking Its Demos](https://www.youtube.com/watch?v=Juc-IyTdSho)**
 
-Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
+Check out our second channel Broken Business Models: https://www.youtube.com/@UCQUOscigSQWCVG8m-ZC8wiw Our ...
 
-📺 CNBC Television
+📺 Wall Street Millennial
 
-👁️ 2K • 👍 52 • 💬 55 • ⏱️ 5:47 • 1h ago
+👁️ 38K • 👍 3K • 💬 570 • ⏱️ 13:26 • 4h ago
+
+---
+
+**[Best FREE AI Agent Tools That Actually Work in 2026 (I Tried All)](https://www.youtube.com/watch?v=2GOfWK5M3fg)**
+
+Best Free AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent5 ✓ Claim your ...
+
+📺 Mikey No Code
+
+👁️ 13K • 💬 7 • ⏱️ 20:44 • 8h ago
 
 ---
 
@@ -313,27 +311,7 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 277K • 👍 4K • 💬 408 • ⏱️ 1:32:36 • 2d ago
-
----
-
-**[AI Is Evolving Faster Than We Thought - Dwarkesh Patel](https://www.youtube.com/watch?v=JmCXZQ2xiZo)**
-
-Dwarkesh Patel, one of Silicon Valley's favorite podcasters, explains how much AI has improved in the last couple of years - going ...
-
-📺 TRIGGERnometry Clips
-
-👁️ 16K • 👍 338 • 💬 148 • ⏱️ 17:33 • 1d ago
-
----
-
-**[Anthropic AI Buying Microsoft Maia Chips - NVIDIA is Dead](https://www.youtube.com/watch?v=ig4Sw4AwXng)**
-
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
-
-📺 Eli the Computer Guy
-
-👁️ 8K • 👍 365 • 💬 71 • ⏱️ 12:45 • 8h ago
+👁️ 278K • 👍 4K • 💬 410 • ⏱️ 1:32:36 • 2d ago
 
 ---
 
@@ -343,7 +321,27 @@ Over the last decade, Elon Musk repeatedly warned that artificial intelligence c
 
 📺 Neural Nutshell
 
-👁️ 11K • 👍 353 • 💬 128 • ⏱️ 15:53 • 2d ago
+👁️ 11K • 👍 354 • 💬 131 • ⏱️ 15:53 • 2d ago
+
+---
+
+**[AI Is Evolving Faster Than We Thought - Dwarkesh Patel](https://www.youtube.com/watch?v=JmCXZQ2xiZo)**
+
+Dwarkesh Patel, one of Silicon Valley's favorite podcasters, explains how much AI has improved in the last couple of years - going ...
+
+📺 TRIGGERnometry Clips
+
+👁️ 17K • 👍 349 • 💬 149 • ⏱️ 17:33 • 1d ago
+
+---
+
+**[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
+
+Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
+
+📺 CNBC Television
+
+👁️ 5K • 👍 114 • 💬 74 • ⏱️ 5:47 • 3h ago
 
 ---
 
@@ -353,27 +351,27 @@ NVIDIA CEO Jensen Huang has unveiled a bold vision for the future of computing �
 
 📺 NDTV Profit
 
-👁️ 9K • 👍 58 • 💬 14 • ⏱️ 2:46 • 14h ago
+👁️ 11K • 👍 59 • 💬 14 • ⏱️ 2:46 • 16h ago
 
 ---
 
-**[EXACTLY How to Make an AI Short Film (Full Workflow)](https://www.youtube.com/watch?v=0v534yAyhwg)**
+**[Anthropic AI Buying Microsoft Maia Chips - NVIDIA is Dead](https://www.youtube.com/watch?v=ig4Sw4AwXng)**
 
-Make Your Own Short Film with Higgsfield https://youricreates.com/short-films In this video, I show my full workflow for making a ...
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
 
-📺 Youri van Hofwegen
+📺 Eli the Computer Guy
 
-👁️ 9K • 💬 11 • ⏱️ 16:50 • 5h ago
+👁️ 9K • 👍 380 • 💬 73 • ⏱️ 12:45 • 11h ago
 
 ---
 
-**[AI Whistleblower WARNS: We&#39;re Not Ready For What&#39;s Coming In 2027](https://www.youtube.com/watch?v=QqIqEI9CiZs)**
+**[I Created an AI Clone… Biggest Mistake Ever!](https://www.youtube.com/watch?v=3reHSl0aOH4)**
 
-Evolutionary biologist Bret Weinstein claims that humans must come to terms with the fact that extinction is inevitable and that all ...
+I created my own AI clone, but things quickly turned completely out of control! Was creating an AI clone the biggest mistake ever?
 
-📺 Neural Nutshell
+📺 Ivan and Maria
 
-👁️ 4K • 👍 191 • 💬 50 • ⏱️ 18:34 • 1d ago
+👁️ 102K • 👍 1K • 💬 14 • ⏱️ 25:11 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 35,783 • ❤️ 775 • 5d ago
+⬇️ 35,783 • ❤️ 783 • 5d ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 45,698 • ❤️ 685 • 6d ago
+⬇️ 45,698 • ❤️ 688 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 37,893 • ❤️ 375 • 1d ago
+⬇️ 37,893 • ❤️ 383 • 1d ago
 
 ---
 
@@ -425,7 +423,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,533,393 • ❤️ 1,211 • 1mo ago
+⬇️ 2,533,393 • ❤️ 1,213 • 1mo ago
 
 ---
 
@@ -435,19 +433,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 464 • 17h ago
-
----
-
-**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
-
-*DeepSeek*
-
-DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, bridging the gap with closed-source models and serving as a top-tier open-source solution for complex agentic workflows and extensive knowledge retrieval.
-
-`text-generation` `861.6B`
-
-⬇️ 5,851,826 • ❤️ 4,528 • 26d ago
+⬇️ 0 • ❤️ 465 • 19h ago
 
 ---
 
@@ -459,7 +445,19 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 `image-text-to-text` `201.4B`
 
-⬇️ 9,256 • ❤️ 186 • 14h ago
+⬇️ 9,256 • ❤️ 189 • 17h ago
+
+---
+
+**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, bridging the gap with closed-source models and serving as a top-tier open-source solution for complex agentic workflows and extensive knowledge retrieval.
+
+`text-generation` `861.6B`
+
+⬇️ 5,851,826 • ❤️ 4,530 • 26d ago
 
 ---
 
@@ -471,7 +469,7 @@ PiD is a conditional pixel-space diffusion model that unifies decoding and upsam
 
 `image-to-image`
 
-⬇️ 577 • ❤️ 236 • 6d ago
+⬇️ 577 • ❤️ 238 • 6d ago
 
 ---
 
@@ -487,15 +485,15 @@ Lance is a unified multimodal model supporting image/video understanding, genera
 
 ---
 
-**[HRM-Text-1B](https://huggingface.co/sapientinc/HRM-Text-1B)**
+**[PaddleOCR-VL-1.6](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6)**
 
-*Sapient AI*
+*PaddlePaddle*
 
-HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning Model (HRM) architecture for enhanced compute depth. It excels at NLP tasks like classification and extraction using few-shot prompting, and can perform reasoning tasks with a 'synth,cot' prefix, though it's a pre-alignment model not a chat assistant.
+PaddleOCR-VL-1.6 is a multimodal OCR model capable of text spotting, recognition, and layout analysis across various document types. It excels at extracting structured information like tables, charts, and formulas from multilingual documents, leveraging ERNIE 4.5 for enhanced understanding.
 
-`text-generation` `1.2B`
+`image-text-to-text` `958.6M`
 
-⬇️ 149,543 • ❤️ 439 • 11d ago
+⬇️ 3,190 • ❤️ 152 • 3d ago
 
 ---
 
@@ -511,7 +509,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 211 • 💬 3 • ⭐ 4,068 • 11d ago
+▲ 212 • 💬 3 • ⭐ 4,068 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -561,7 +559,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 5 • 💬 1 • ⭐ 6,624 • 4mo ago
+▲ 5 • 💬 1 • ⭐ 6,660 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -608,20 +606,6 @@ Stable-worldmodel provides a modular and standardized research framework for dev
 
 ---
 
-**[MOSS-TTS Technical Report](https://huggingface.co/papers/2603.18090)**
-
-*Yitian Gong, Botian Jiang, Yiwei Zhao et al. (26 authors)*
-
-🏢 OpenMOSS
-
-MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages.
-
-▲ 15 • 💬 2 • ⭐ 2,783 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2603.18090) • [💻 code](https://github.com/OpenMOSS/MOSS-TTS) • [🔗 project](https://mosi.cn/models/moss-tts)
-
----
-
 **[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://huggingface.co/papers/2605.30263)**
 
 *Min Zhao, Hongzhou Zhu, Bokai Yan et al. (12 authors)*
@@ -631,6 +615,20 @@ A comprehensive framework is presented for converting bidirectional video diffus
 ▲ 50 • 💬 3 • ⭐ 456 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.30263) • [💻 code](https://github.com/shengshu-ai/minWM)
+
+---
+
+**[MOSS-TTS Technical Report](https://huggingface.co/papers/2603.18090)**
+
+*Yitian Gong, Botian Jiang, Yiwei Zhao et al. (26 authors)*
+
+🏢 OpenMOSS
+
+MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages.
+
+▲ 15 • 💬 2 • ⭐ 2,795 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.18090) • [💻 code](https://github.com/OpenMOSS/MOSS-TTS) • [🔗 project](https://mosi.cn/models/moss-tts)
 
 ---
 
@@ -644,7 +642,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 19.5k • 🔱 2.4k • 1m ago
+⭐ 20.3k • 🔱 2.5k • 24m ago
 
 ---
 
@@ -672,7 +670,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.9k • 🔱 205 • 22m ago
+⭐ 2.9k • 🔱 205 • 2h ago
 
 ---
 
@@ -682,7 +680,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 257 • 6h ago
+⭐ 2.7k • 🔱 258 • 9h ago
 
 ---
 
@@ -692,7 +690,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 399 • 10d ago
+⭐ 2.4k • 🔱 400 • 10d ago
 
 ---
 
@@ -712,7 +710,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.2k • 🔱 148 • 19m ago
+⭐ 2.2k • 🔱 149 • 2h ago
 
 ---
 
@@ -732,7 +730,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 212 • 5h ago
+⭐ 1.8k • 🔱 212 • 7h ago
 
 ---
 

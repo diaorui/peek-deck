@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-01T20:56:16.647256+00:00'
+updated: '2026-06-01T23:03:23.753184+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 01, 2026 at 20:56 UTC  
+**Last Updated:** June 01, 2026 at 23:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[First robot build in my life - based on quadrupedal sesame-robot esp32 project](https://www.reddit.com/r/robotics/comments/1ttzjre/first_robot_build_in_my_life_based_on_quadrupedal/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 This is my two year undergraduate capstone project from Engineering Physics at UBC. We trained a policy in simulation and then directly deployed in onto our robotic air hockey table. The project involved designing a physical robotic air hockey table, computer vision system, reinforcement learning pipeline, simulation, embedded systems, and controls If anyone's interested here's a short video explaining what we did: https://youtu.be/ugwpCam1rd0 And for more detail you can check out the github repo: HudsonNock/Air-Hockey-Sim
 
-5h ago
+7h ago
 
 ---
 
 **[💅Gotta love being pretty from the jump, period. (A whole slay moment.)](https://www.reddit.com/r/robotics/comments/1ttkr34/gotta_love_being_pretty_from_the_jump_period_a/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ This is my two year undergraduate capstone project from Engineering Physics at U
 
 Lever arm: 400mm. We just did a “load test” on our actuator… but decided to skip the robot this time. No one got hurt. The motor did not complain (which is honestly suspicious).
 
-11h ago
+13h ago
 
 ---
 
@@ -64,13 +64,13 @@ Lever arm: 400mm. We just did a “load test” on our actuator… but decided t
 
 This project is a long-term architectural study designed to test robotic systems before real hardware integration, focusing on target selection, attempt analysis, failure evaluation, strategy refinement, and safety boundaries in a traceable simulation environment. The goal was not to make early claims such as “real robot success,” but to build a Physical AI workflow that can clearly show what a robotic system selects, why it selects that target, how it evaluates an attempt, how it responds to failure, and which safety boundaries control its behavior. Within this scope, the system can select a target object in multi-object scenes, generate an object profile, create multiple grasp candidates, score attempts, and use failed attempts as experience data for later strategy selection. In other words, this is not just an “object detection demo”; it is a simulation-first robotic decision prototype that can attempt an action, analyze the result, log failure reasons, and block unsafe steps. Key capabilities demonstrated in the project include target object selection, object profile generation, grasp candidate planning, contact / lift / stable-hold / drop distinction, failure-aware scoring, experience-based retry recommendation, a fail-closed safety approach, and a Verified / Planned / Not Proven capability classification. This makes it clear which capabilities were demonstrated in simulation, which are only planned, and which are not yet proven. The project also defines controlled integration boundaries for areas that will be critical during real hardware transition, including Robot SDK adapter boundaries, RuntimeCommand safety gates, IK / motion planning contracts, camera calibration requirements, gripper feedback safety gates, and a simulation-to-hardware transfer matrix. As a result, the project is not only a demo; it also provides a software architecture discipline that makes technical risks visible before hardware investment, clarifies safety boundaries, and separates components that may later be transferred to a real system. This work was designed as a portfolio prototype that can support technical due diligence, architectural risk analysis, and safety boundary validation before moving to physical hardware, especially for warehouse automation, conveyor lines, service robots, and precise robotic manipulation scenarios. Portfolyo: linkedin.com/in/brkndc
 
-4h ago
+6h ago
 
 ---
 
 **[6 servos of 12 working](https://www.reddit.com/r/robotics/comments/1tthtf5/6_servos_of_12_working/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ This project is a long-term architectural study designed to test robotic systems
 
 Hi, I’m the founder of relay-x (dot) io. A code first iot platform that allows teams to stream telemetry and command connected devices via the Internet. I’m looking to enter the robotics space (a newbie to robotics here) and sell my services there but before I start, I would like to know if there is a need for it? How do you folks currently stream telemetry and command your robots over the internet? Do you folks even do this? Hoping to hear from you soon! Cheers
 
-1h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi, I’m the founder of relay-x (dot) io. A code first iot platform that allows
 
 My AgenticROS (NVIDIA #NemoClaw, #OpenClaw, #Claude, #Gemini, #ROS) + RealSense Physical AI talk video is now online from Robotics Summit & Expo!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GLy2TSVpcPY) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GLy2TSVpcPY) • 4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Found a Reachy Mini lying around the office and spent an hour giving it a real-t
 
 **[my robot lidar moves now up down left right if i need it, too hard and rough. but works](https://www.reddit.com/r/robotics/comments/1ttpoas/my_robot_lidar_moves_now_up_down_left_right_if_i/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Found a Reachy Mini lying around the office and spent an hour giving it a real-t
 
 The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.
 
-CNBC • 15h ago
+CNBC • 18h ago
 
 ---
 
@@ -128,57 +128,61 @@ Yahoo Finance UK • 1d ago
 
 NVIDIA today announced the NVIDIA Isaac™ GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.
 
-NVIDIA Newsroom • 16h ago
+NVIDIA Newsroom • 18h ago
 
 ---
 
-**[Nvidia's new world model helps robots navigate the world](https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model)**
-
-Axios • 1h ago
-
----
-
-**[Robotics: Humanoid Hands Are Physical AI’s Anti-Hype Test](https://www.bloomberg.com/opinion/articles/2026-05-31/robotics-humanoid-hands-are-physical-ai-s-anti-hype-test)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Inside China's push for global dominance: Evs, robotics, AI, pandas](https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587)**
-
-An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
-
-NBC News • 1d ago
-
----
-
-**[World of humanoid robots set for new blueprint as Nvidia teams with Asian firms](https://www.scmp.com/tech/big-tech/article/3355402/nvidia-unitree-and-sharpa-unite-design-humanoid-robot-can-perform-real-work)**
-
-South China Morning Post • 15h ago
-
----
-
-**[NVIDIA's Isaac Gr00t Platform Gives Researchers Access To Frontier Humanoid Robotics](https://www.engadget.com/2184658/nvidia-isaac-gr00t-humanoid-robotic-platform/)**
-
-NVIDIA announced the new Isaac Gr00t reference design humanoid robot platform that combines humanoid robot, five-fingered hands and NVIDIA Jetson Thor compute.
-
-Engadget • 11h ago
-
----
-
-**[Children Read Intent in Human Eyes but Not in Robots](https://neurosciencenews.com/humanoid-robot-gaze-child-30790/)**
-
-A new study reveals that 3-year-olds read intention in human eyes but fail to recognize nonverbal preferences in a robot's gaze.
-
-Neuroscience News • 1d ago
-
----
-
-**[Mecka AI raises $60 million to train robots with human data sourced from body sensors and iPhones](https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/)**
+**[Exclusive: Mecka AI raises $60 million to train robots with human data sourced from body sensors and iPhones](https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/)**
 
 The crypto VC Framework Ventures led two fundraises for the robotics startup, which projects $100 million in annual run rate.
 
-Fortune • 9h ago
+Fortune • 12h ago
+
+---
+
+**[Tesla's Optimus faces new threat as OpenAI enters robotics](https://finance.yahoo.com/video/teslas-optimus-faces-threat-openai-203231720.html)**
+
+Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination Overtime to discuss Tesla's (TSLA) new robotics competition in OpenAI (OPAI.PVT).
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Intel bets on comeback with new CPUs for data centers, robotics](https://asia.nikkei.com/business/tech/semiconductors/intel-bets-on-comeback-with-new-cpus-for-data-centers-robotics)**
+
+US-made Xeon 6+ chips are being rolled out amid an AI-fueled supply crunch
+
+Nikkei Asia • 20h ago
+
+---
+
+**[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
+
+Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
+
+Ars Technica • 5h ago
+
+---
+
+**[Deranged Robotics Cult at Duke Accidentally Summons Lovecraftian Outer God](https://gizmodo.com/deranged-robotics-cult-at-duke-accidentally-summons-lovecraftian-outer-god-2000765829)**
+
+Gizmodo • 5h ago
+
+---
+
+**[Meet the four-armed robot set to revolutionize work in outer space](https://www.futura-sciences.com/en/meet-the-four-armed-robot-set-to-revolutionize-work-in-outer-space_33020/)**
+
+Beyond Humanoid: Welcome the Quadrumanous Robot Most of the headlines about robotics are grabbed by humanoid machines, with manufacturers promising that, any day now, they’ll be taking over our household chores and manual labor. Some bots roll around on wheels, others stride ahead on two legs. But now, there’s a...
+
+Futura, le média qui explore le monde • 7h ago
+
+---
+
+**[Sam Altman’s OpenAI just made robotics its next frontier and it’s hiring to prove it](https://techfundingnews.com/sam-altmans-openai-just-made-robotics-its-next-frontier-and-its-hiring-to-prove-it/)**
+
+Sam Altman spent years making AI useful for people who sit at desks. Now he wants to make it useful for people who build things.
+
+Tech Funding News • 9h ago
 
 ---
 
@@ -186,23 +190,13 @@ Fortune • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[NVIDIA GR00T REVEALED – The Next Generation Humanoid Robot](https://www.youtube.com/watch?v=A0qRv8Rm2j8)**
-
-NVIDIA has officially REVEALED the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate ...
-
-📺 DPCcars
-
-👁️ 403 • 👍 14 • 💬 4 • ⏱️ 5:41 • 6h ago
-
----
-
 **[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
 
 NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
 
 📺 TEDx Talks
 
-👁️ 41K • 👍 986 • 💬 142 • ⏱️ 19:39 • 3d ago
+👁️ 42K • 👍 1K • 💬 142 • ⏱️ 19:39 • 3d ago
 
 ---
 
@@ -212,17 +206,17 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 88K • 👍 3K • 💬 498 • ⏱️ 29:20 • 2d ago
+👁️ 90K • 👍 3K • 💬 499 • ⏱️ 29:20 • 2d ago
 
 ---
 
-**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
+**[NVIDIA GR00T REVEALED – The Next Generation Humanoid Robot](https://www.youtube.com/watch?v=A0qRv8Rm2j8)**
 
-Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
+NVIDIA has officially REVEALED the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate ...
 
-📺 Financial Times
+📺 DPCcars
 
-👁️ 23K • 👍 450 • 💬 77 • ⏱️ 5:11 • 3d ago
+👁️ 456 • 👍 17 • 💬 4 • ⏱️ 5:41 • 8h ago
 
 ---
 
@@ -232,7 +226,17 @@ E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in
 
 📺 LIGHTS ARE OFF
 
-👁️ 97K • 👍 9K • 💬 975 • ⏱️ 1:40 • 13h ago
+👁️ 114K • 👍 10K • 💬 1K • ⏱️ 1:40 • 15h ago
+
+---
+
+**[Stop Wasting Money On Expensive Robot Vacuums 2026](https://www.youtube.com/watch?v=HOMYo539G7g)**
+
+In this video we look at robots in different price categories and provide more affordable picks. Higher End Alternatives ...
+
+📺 Vacuum Nerds
+
+👁️ 5K • 👍 91 • 💬 20 • ⏱️ 9:24 • 1d ago
 
 ---
 
@@ -246,13 +250,13 @@ Meet Generalist, the startup that says the next big leap in robotics won't come 
 
 ---
 
-**[Stop Wasting Money On Expensive Robot Vacuums 2026](https://www.youtube.com/watch?v=HOMYo539G7g)**
+**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
 
-In this video we look at robots in different price categories and provide more affordable picks. Higher End Alternatives ...
+Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
 
-📺 Vacuum Nerds
+📺 Financial Times
 
-👁️ 5K • 👍 90 • 💬 20 • ⏱️ 9:24 • 1d ago
+👁️ 24K • 👍 451 • 💬 77 • ⏱️ 5:11 • 3d ago
 
 ---
 
@@ -262,7 +266,7 @@ Join ARPO the Robot for an exciting livestream filled with fun, surprises, and l
 
 📺 ARPO: The Robot
 
-👁️ 43K • 👍 61 • ⏱️ 1:02:02 • 20h ago
+👁️ 47K • 👍 63 • ⏱️ 1:02:02 • 23h ago
 
 ---
 
@@ -272,17 +276,17 @@ Embodied AI robots are now sorting parcels at China Post's Guangzhou processing 
 
 📺 New China TV
 
-👁️ 68K • 👍 300 • 💬 101 • ⏱️ 0:20 • 1d ago
+👁️ 70K • 👍 302 • 💬 103 • ⏱️ 0:20 • 1d ago
 
 ---
 
-**[Delivery Robots Under Attack in LA😱](https://www.youtube.com/watch?v=_8nBMUUgSHo)**
+**[Armold 6DOF robotic arm is here!](https://www.youtube.com/watch?v=7RrCvX6NJlw)**
 
-LA youths are ganging up on delivery robots.   Videos circulating online show young people in Los Angeles pushing over, ...
+750g payload. 475mm reach. 26:1 cycloidal drives with CANBUS stepper control. Engineered to be easy to build, connect, and ...
 
-📺 箭厂ArrowFactory Doc
+📺 Sweep Dynamics
 
-👁️ 31K • 👍 45 • 💬 13 • ⏱️ 0:14 • 4d ago
+👁️ 6K • 👍 408 • 💬 12 • ⏱️ 0:49 • 4h ago
 
 ---
 
