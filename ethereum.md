@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-01T16:38:58.834160+00:00'
+updated: '2026-06-01T20:56:16.644368+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 01, 2026 at 16:38 UTC  
+**Last Updated:** June 01, 2026 at 20:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,960.11
+### $1,999.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -4.9%  
-**30d:** -15.2%  
-**90d:** -7.4%  
-**1y:** -24.3%  
+**24h:** -0.3%  
+**7d:** -3.2%  
+**30d:** -13.6%  
+**90d:** -5.8%  
+**1y:** -22.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $237.69B
+**Market Cap:** $241.89B
 Rank #2
 
 **Circulating Supply:** 120,685,210 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.2%
+-59.5%
 
 **All-Time Low:** $0.43
-+454381.6%
++462760.8%
 
 ---
 
@@ -72,13 +72,29 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+15h ago
 
 ---
 
 **[More than half of crypto losses in May came from bridge failures](https://www.reddit.com/r/ethereum/comments/1ttsgyv/more_than_half_of_crypto_losses_in_may_came_from/)**
 
 https://preview.redd.it/i9m4zgybco4h1.png?width=2700&format=png&auto=webp&s=81f871e9f78b945ff86a1550d8d572929d906bcb We tracked 28 publicly disclosed exploits in May 2026, resulting in $51.9M in losses. What stood out wasn't the total amount lost. It was where the losses came from. Bridge-related incidents accounted for roughly 54% of all stolen funds. The interesting part is that these weren't the same vulnerability repeated: • Verification bypasses • TSS implementation failures • State poisoning attacks • Cross-chain message validation flaws Different architectures. Different codebases. Same outcome. Bridge security continues to be one of the most expensive unsolved problems in crypto. What do you think is driving bridges to remain such a frequent target despite the industry's continued focus on security?
+
+7h ago
+
+---
+
+**[What's the actual plan for ETH to be valuable?](https://www.reddit.com/r/ethereum/comments/1ttppgw/whats_the_actual_plan_for_eth_to_be_valuable/)**
+
+I used to think the plan was threefold: (1) a big economy that burns fees in ETH, (2) being the best store of value, and (3) constantly updating our views and improving the tech. I'd like to revisit each with what we know today. Asking in good faith as a holder. 1. A big economy that burns fees in ETH Fees are tiny right now. Is the plan ever going to change that? If the entire stock-trading market moved onto Ethereum, would the fees still be negligible? Is there a scenario where the fees actually make a difference — and is it realistic? 2. The best store of value What are the main differentiators from Bitcoin and Zcash? Quantum resistance? Privacy plus more functionality than Zcash? 3. We keep updating our views and improving the tech Money is a technology, and technologies get outdated and need new features (e.g. quantum resistance). The EF isn't self-sustainable, and by its own framing the goal is to step aside over time. So is there any self-sustaining entity responsible for keeping ETH the best and most up-to-date tech — or who actually owns that long game?
+
+9h ago
+
+---
+
+**[Building Security for Agentic AI in DeFi: Looking for a CTO / Blockchain Dev](https://www.reddit.com/r/ethereum/comments/1ttygz0/building_security_for_agentic_ai_in_defi_looking/)**
+
+Right now, big companies are racing to deploy autonomous agents into the world with almost no audits, no real safeguards, and known vulnerabilities such as prompt injection and AI jailbreak. The result? DAOs and Web3 protocols are bleeding billions from automated exploits and uncontrolled agent actions. I gave my years to FinTech not for it to get filled with slop, but to provide democratic access to financial services. So, we’re fixing this. My team (with backgrounds from the world’s top %1 financial institutions) is building a governance protocol that brings strict, enforceable rules to autonomous AI workflows: starting with DeFi. Think of it as on-chain guardrails + auditability + human-in-the-loop controls for agentic systems. Safe agentic AI, not reckless AI. We’re currently in early-stage development and are actively looking for a strong technical developer to help us build the architecture (considering base primarily), iterate over the product, and build an MVP to collect early traction. If you’re deeply experienced in web3 and smart contract architectures, lets connect
 
 3h ago
 
@@ -88,15 +104,7 @@ https://preview.redd.it/i9m4zgybco4h1.png?width=2700&format=png&auto=webp&s=81f8
 
 Sorry if this sounds basic. This isn’t a “I lost my keys” post. Back in the early days I had an Ethereum wallet. It required you run a full node of ETH using geth on your machine starting with downloading the entire chain. You had your public keys and your private keys were stored in an encrypted keystore file. This wallet software now seems defunct and few want to DL the entire chain now anyway. To make a paper wallet, how would I “recover”/unencrypt my private keys from the keystore file and my password? DMs on the subject will be ignored.
 
-15h ago
-
----
-
-**[What's the actual plan for ETH to be valuable?](https://www.reddit.com/r/ethereum/comments/1ttppgw/whats_the_actual_plan_for_eth_to_be_valuable/)**
-
-I used to think the plan was threefold: (1) a big economy that burns fees in ETH, (2) being the best store of value, and (3) constantly updating our views and improving the tech. I'd like to revisit each with what we know today. Asking in good faith as a holder. 1. A big economy that burns fees in ETH Fees are tiny right now. Is the plan ever going to change that? If the entire stock-trading market moved onto Ethereum, would the fees still be negligible? Is there a scenario where the fees actually make a difference — and is it realistic? 2. The best store of value What are the main differentiators from Bitcoin and Zcash? Quantum resistance? Privacy plus more functionality than Zcash? 3. We keep updating our views and improving the tech Money is a technology, and technologies get outdated and need new features (e.g. quantum resistance). The EF isn't self-sustainable, and by its own framing the goal is to step aside over time. So is there any self-sustaining entity responsible for keeping ETH the best and most up-to-date tech — or who actually owns that long game?
-
-4h ago
+19h ago
 
 ---
 
@@ -140,14 +148,6 @@ Vitalik: EF will be smaller & more opinionated, Base Azul upgrade live with mult
 
 ---
 
-**[i built revert.wtf because ethereum errors are still cursed](https://www.reddit.com/r/ethereum/comments/1tqf5sk/i_built_revertwtf_because_ethereum_errors_are/)**
-
-gmgm. already shared with the r/ethdev community. but this was something that i made for "normies" like myself. so i think it deserves a post here as well. you all know the pain, RPC errors, tx reverts and etherscan not showing why, extremely vague explanations from the stuff we use daily for something that actually has a better explanation. first, i thought of just whining about this on twitter. instead, i decided to take the matter to hands, and started building the thing. the fact is, almost all the errors are actually catalogued, not all of them, there are still some execution context reliant errors which tenderly is way better at explaining. but have you ever tried using tenderly and tried to make sense of that tx graph? it's a puzzle. and a pleb like myself does not need that puzzle, probably neither you. eventually, i asked codex to build the thing as a small product. and in a few days, we generated a catalog of about 25k errors and error codes with their explanations and possible actions to take if it happens. now it lives on https://revert.wtf. and it is also entirely open source on github https://github.com/mrtdlgc/revertwtf with its npm packages, agent skills, mcp servers and what not. i am hosting the thing myself, the api is also available, it's pretty permissive in terms of rate limits. feel free to use it, spread the word if you think it's useful, contribute to the repo if you think it should cover more platforms/protocols.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,43 +160,11 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-52-162525573.html)**
-
-A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
-
-Yahoo Finance • 13m ago
-
----
-
-**[Ethereum Is Winning, But Its Token Holders Are Losing Faith.](https://www.forbes.com/sites/astanley/2026/05/30/ethereum-is-winning-but-its-token-holders-are-losing-faith/)**
+**[Ethereum Is Winning But Token Holders Are Losing Faith In What Comes Next](https://www.forbes.com/sites/astanley/2026/05/30/ethereum-is-winning-but-its-token-holders-are-losing-faith/)**
 
 Ethereum the network has become the financial infrastructure its supporters always dreamed of. But ETH the token has taken a different turn
 
 Forbes • 1d ago
-
----
-
-**[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
-
-If history is any guide, investors should be buying Ethereum, not XRP, right now.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
-
-BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Bitmine slows ether purchase pace, buying $53 million worth last week](https://www.coindesk.com/business/2026/06/01/bitmine-slows-ether-purchase-pace-buying-usd53-million-worth-last-week)**
-
-The Ethereum treasury firm cut weekly purchases by more than 75% after the previous week's 112,000 ETH buying spree.
-
-CoinDesk • 3h ago
 
 ---
 
@@ -208,11 +176,35 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum news: Bitmine (BMNR) slows purchase pace, buying $53 million in ETH](https://www.coindesk.com/business/2026/06/01/bitmine-slows-ether-purchase-pace-buying-usd53-million-worth-last-week)**
+
+The Ethereum treasury firm cut weekly purchases by more than 75% after the previous week's 112,000 ETH buying spree.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitmine Immersion: An Ethereum Treasury Trading Below Its Own Assets](https://seekingalpha.com/article/4910392-bmnr-an-ethereum-treasury-trading-below-its-own-assets)**
+
+BMNR offers Ethereum exposure at a discount (buy $1 of ETH for $0.92) plus 87% staking margins; key catalysts include MAVAN revenue and ETH trends—read now.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
+
+If history is any guide, investors should be buying Ethereum, not XRP, right now.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Current price of Ethereum for June 1, 2026](https://fortune.com/article/price-of-ethereum-06-01-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 8h ago
 
 ---
 
@@ -220,7 +212,7 @@ Fortune • 3h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) edge lower under pressure on Monday after a steady decline over the last three weeks. US-Iran ceasefire extension dillydally fuels institutional outflows, adding further downside pressure on the crypto market.
 
-FXStreet • 13h ago
+FXStreet • 17h ago
 
 ---
 
@@ -228,7 +220,15 @@ FXStreet • 13h ago
 
 MONACO CITY, Monaco, May  31, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the project announced that its presale...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 16h ago
+
+---
+
+**[Ethereum Price Slide May Not Be Over Yet—More Losses Loom](https://www.tradingview.com/news/newsbtc:6ab45477f094b:0-ethereum-price-slide-may-not-be-over-yet-more-losses-loom/)**
+
+Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating near $2,000 and might continue to move down.Ethereum Price Remains At Risk of More DownsideEthereum price failed to remain stable above $2,040 and started a fresh decline, like Bitcoin. ETH price dipped below t…
+
+TradingView • 17h ago
 
 ---
 
@@ -242,17 +242,7 @@ Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 14K • 👍 739 • 💬 215 • ⏱️ 7:50 • 2d ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=FzRg5udtTFI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 23K • 👍 658 • 💬 121 • ⏱️ 18:46 • 2d ago
+👁️ 14K • 👍 745 • 💬 216 • ⏱️ 7:50 • 2d ago
 
 ---
 
@@ -262,7 +252,27 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 10K • 👍 324 • 💬 66 • ⏱️ 36:57 • 1d ago
+👁️ 11K • 👍 333 • 💬 101 • ⏱️ 36:57 • 2d ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=FzRg5udtTFI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 24K • 👍 665 • 💬 124 • ⏱️ 18:46 • 2d ago
+
+---
+
+**[Ethereum BEST ENTRY Incoming? How To Find The Bear Market Bottom!](https://www.youtube.com/watch?v=brofQEJ4krE)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 132 • 👍 12 • 💬 1 • ⏱️ 5:57 • 3h ago
 
 ---
 
@@ -272,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 236 • 👍 18 • 💬 2 • ⏱️ 4:56 • 6h ago
+👁️ 369 • 👍 18 • 💬 2 • ⏱️ 4:56 • 11h ago
 
 ---
 
@@ -282,27 +292,7 @@ Before Ethereum existed, Vitalik applied to work at Ripple and even stayed on CT
 
 📺 CoinGecko
 
-👁️ 570 • 👍 70 • 💬 83 • ⏱️ 2:55 • 5h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS ARE SLIPPING (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PPYSFuzQdIQ)**
-
-BITCOIN & ALTCOINS ARE SLIPPING (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 239 • 💬 326 • ⏱️ 18:06 • 13h ago
-
----
-
-**[Ethereum: Why So Many People Are Giving Up on It](https://www.youtube.com/watch?v=2N30H9GoWss)**
-
-In this interview, former Ethereum Foundation team member Hudson Jameson shares his perspective on Ethereum's biggest ...
-
-📺 Cointelegraph
-
-👁️ 7K • 👍 197 • 💬 51 • ⏱️ 20:38 • 2d ago
+👁️ 878 • 👍 83 • 💬 88 • ⏱️ 2:55 • 10h ago
 
 ---
 
@@ -312,17 +302,27 @@ Bitcoin is sitting at a PIVOTAL support level — and the chart is forming what 
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 3K • 💬 235 • ⏱️ 13:11 • 1d ago
+👁️ 48K • 👍 3K • 💬 147 • ⏱️ 13:11 • 1d ago
 
 ---
 
-**[CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON](https://www.youtube.com/watch?v=V3-4k2QwGXY)**
+**[BITCOIN &amp; ALTCOINS ARE SLIPPING (New Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PPYSFuzQdIQ)**
 
-CRAZY CARDANO DRAMA EXPOSED – THE FUTURE OF ETHEREUM AND AI WITH CHARLES HOSKINSON Hey babes!
+BITCOIN & ALTCOINS ARE SLIPPING (New Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 6K • 👍 506 • 💬 88 • ⏱️ 47:42 • 2d ago
+👁️ 6K • 👍 254 • 💬 303 • ⏱️ 18:06 • 17h ago
+
+---
+
+**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
+
+Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 161 • 💬 32 • ⏱️ 1:19 • 2d ago
 
 ---
 
@@ -332,7 +332,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 409 • 💬 16 • ⏱️ 56:56 • 20h ago
+👁️ 7K • 👍 409 • 💬 18 • ⏱️ 56:56 • 1d ago
 
 ---
 

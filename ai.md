@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-01T16:38:58.821268+00:00'
+updated: '2026-06-01T20:56:16.631357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 01, 2026 at 16:38 UTC  
+**Last Updated:** June 01, 2026 at 20:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 Selected excerpts: "The question, then, is not whether A.I. will change the world. It will. The question is: Who will own and control that future? Who will benefit from it, and who will be hurt by it? Will A.I. be used to make life better for working families? Will it enrich our quality of life? Will it help us eliminate poverty, extend life expectancies and solve the climate crisis? Or will the future of humanity be determined by a handful of billionaires who have promoted and developed A.I., with virtually no democratic input, who stand to become even richer and more powerful than they are today? That is the choice before us. Let us be clear. Artificial intelligence was not created out of thin air. The data and language used by generative A.I. tools didn’t just pop into Sam Altman’s head or Elon Musk’s imagination. A.I. is built on our collective intelligence: our books, songs, artwork, journalism, computer code, scientific research, videos, conversations, images and ideas spanning generations. That is not just the opinion of Bernie Sanders. According to Mr. Altman, the head of OpenAI, A.I. models were trained on our 'collective experience, knowledge' and 'learnings of humanity.' For the most part, tech oligarchs have fed this knowledge into their A.I. models without permission, without acknowledgment, without compensation. In other words, the creative work of millions of people — writers, artists, musicians, journalists, teachers, scientists and ordinary citizens — has essentially been stolen by some of the wealthiest people in the world. It’s time for us to reclaim it. That is why I will soon be introducing the American A.I. Sovereign Wealth Fund Act. This legislation would give the public a direct ownership stake in the largest A.I. companies in our country. How? It would create a sovereign wealth fund through a one-time 50 percent tax — not on the profits of OpenAI, Anthropic, xAI and other companies, but paid with something far more valuable than that: the stock."
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) • 4h ago
-
----
-
-**[Cognitive debt might be the most underrated problem AI is creating](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/)**
-
-Everyone knows about tech debt. You cut corners on code quality to ship faster, and you pay for it later. We're definitely watching a new version of that emerge in real time, except instead of deferring manageable code, you're deferring actual understanding. And unlike tech debt, cognitive debt compounds invisibly. You don't get a failing test suite. You just get someone who can't debug their own project, can't evaluate whether the AI's suggestion is good, and can't extend what they've built without prompting their way through it again. What I keep thinking about is where this leads at scale. Right now it's mostly developers vibe-coding their way through projects they half-understand. But AI is moving into law, medicine, and finance. The same dynamic follows: people making consequential decisions with tools they can't interrogate, in domains where "I'll just re-prompt it" isn't a recovery strategy. The pessimistic, or maybe rational read is that judgment without foundational understanding is just confident ignorance, and we're building entire careers on that foundation right now. Curious what people here think. Does cognitive debt get self-correcting as the stakes get high enough? Or are we sleepwalking into a generation of professionals who are deeply dependent on systems they fundamentally don't understand?
-
-14h ago
-
----
-
-**[My AI chats are becoming dead archives.](https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/)**
-
-Maybe this is just me using these tools badly, but I've noticed a pattern with ChatGPT and Claude. I’ll have a really useful conversation about something like an idea, a plan, a bit of writing, a coding problem, whatever, and in the moment it feels like I’m making real progress. Then a week later I vaguely remember that we talked about it, but I can’t remember where, or what the useful part actually was and what I was supposed to do next. So I search, find a few old chats, open them… and now I’m scrolling through this massive thread trying to reconstruct why it mattered. It's exhausting and I feel I'm wasting time recollecting things. So sometimes I start over, hoping that the AI itself will remember the details, adding to the waste of time and the frustration. And the more ideas I develop the bigger this problem becomes. And it's only going to get worse. I’ve started leaving myself a short note at the end of useful conversations, but I never remember to do it consistently. Not sure if this is an actual problem or just the natural cost of using AI for messy thinking.
-
-4h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) • 9h ago
 
 ---
 
@@ -65,7 +49,39 @@ Maybe this is just me using these tools badly, but I've noticed a pattern with C
 
 Hey Reddit, I just published a study analyzing 25,500 LLM resume evaluations to measure hiring bias. By swapping minor identity and demographic variables on the exact same work history across 10 different models, an independent AI auditor flagged a staggering 45% bias rate driven by "silent bias." Instead of saying anything overtly offensive, models invent professional-sounding excuses to penalize candidates, like when a model dropped its score after I changed the university to MIT, suddenly claiming the candidate's experience wasn't relevant despite praising that exact same experience on the baseline resume. We also found a massive 6x difference in stability between systems, with Qwen and older Gemini models being highly volatile, while the Claude models, Mistral-Large, and Llama 4 proved to be the most stable and fair. Ultimately, AI screening tools are outputting highly subjective, unpredictable opinions driven by statistical noise rather than objective truth, making them a massive liability under regulations like the EU AI Act. You can read the full write-up and explore our interactive data app here: https://re-cinq.com/blog/ai-hiring-bias-25500-llm-evaluations
 
+7h ago
+
+---
+
+**[Cognitive debt might be the most underrated problem AI is creating](https://www.reddit.com/r/artificial/comments/1tteup9/cognitive_debt_might_be_the_most_underrated/)**
+
+Everyone knows about tech debt. You cut corners on code quality to ship faster, and you pay for it later. We're definitely watching a new version of that emerge in real time, except instead of deferring manageable code, you're deferring actual understanding. And unlike tech debt, cognitive debt compounds invisibly. You don't get a failing test suite. You just get someone who can't debug their own project, can't evaluate whether the AI's suggestion is good, and can't extend what they've built without prompting their way through it again. What I keep thinking about is where this leads at scale. Right now it's mostly developers vibe-coding their way through projects they half-understand. But AI is moving into law, medicine, and finance. The same dynamic follows: people making consequential decisions with tools they can't interrogate, in domains where "I'll just re-prompt it" isn't a recovery strategy. The pessimistic, or maybe rational read is that judgment without foundational understanding is just confident ignorance, and we're building entire careers on that foundation right now. Curious what people here think. Does cognitive debt get self-correcting as the stakes get high enough? Or are we sleepwalking into a generation of professionals who are deeply dependent on systems they fundamentally don't understand?
+
+18h ago
+
+---
+
+**[How much published AI research is wrong because of data leakage?](https://www.reddit.com/r/artificial/comments/1tu0ri0/how_much_published_ai_research_is_wrong_because/)**
+
+There is a Princeton paper by Kapoor and Narayanan. They found data leakage in close to 300 papers across 17 fields, including medicine and economics. Leakage means the model was trained on information it would never have when it makes a real prediction. So it looks great on the test set and then fails in the real world. My favorite example is civil war prediction. Complex models were reported to crush old logistic regression. Once the leakage was fixed, the fancy models were no better than the decades old stats. I have built enough models to know how easy this is to do by accident. You scale the data before you split it, or you use one feature that is really a stand in for the answer, and your numbers look amazing. So now when I read another "AI cracked X" headline, my first thought is whether anyone checked it for leakage.
+
 2h ago
+
+---
+
+**[My AI chats are becoming dead archives.](https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/)**
+
+Maybe this is just me using these tools badly, but I've noticed a pattern with ChatGPT and Claude. I’ll have a really useful conversation about something like an idea, a plan, a bit of writing, a coding problem, whatever, and in the moment it feels like I’m making real progress. Then a week later I vaguely remember that we talked about it, but I can’t remember where, or what the useful part actually was and what I was supposed to do next. So I search, find a few old chats, open them… and now I’m scrolling through this massive thread trying to reconstruct why it mattered. It's exhausting and I feel I'm wasting time recollecting things. So sometimes I start over, hoping that the AI itself will remember the details, adding to the waste of time and the frustration. And the more ideas I develop the bigger this problem becomes. And it's only going to get worse. I’ve started leaving myself a short note at the end of useful conversations, but I never remember to do it consistently. Not sure if this is an actual problem or just the natural cost of using AI for messy thinking.
+
+8h ago
+
+---
+
+**[Florida sues OpenAI, alleging it’s unsafe for children](https://www.reddit.com/r/artificial/comments/1tu0i8n/florida_sues_openai_alleging_its_unsafe_for/)**
+
+Florida is suing OpenAI and its CEO Sam Altman, alleging they know ChatGPT is not safe, especially for minors.
+
+🔗 [CNN](https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman) • 2h ago
 
 ---
 
@@ -73,47 +89,31 @@ Hey Reddit, I just published a study analyzing 25,500 LLM resume evaluations to 
 
 I’m genuinely curious why I see so many posts with people complaining about anything with AI involved? It’s not just games, it’s everything. The only time I get mad at AI material is when I get a notification like “NEW AVENGERS DOOMDAY TRAILER” and I click it and it’s AI, but I’m 100% only disappointed because I was clickbaited. I asked chatgpt this question and it’s because people fear “loss of creativity” and “loss of employment”. Is that really the only reason? I’m 33 and I use chatgpt (AI) for day to day questions, which means it would be hypocritical if I were to disapprove of AI use in anything at all, in my opinion. There is nothing wrong with being a hypocrite, we’ve all been hypocritical at some point or another in our lives, but please tell me why you dislike AI if it applies to you. I really want to know.
 
-52m ago
+5h ago
 
 ---
 
-**[Why we are building EVE without VCs: The case for a people-driven, self-evolving AI mind](https://www.reddit.com/r/artificial/comments/1ttw9vb/why_we_are_building_eve_without_vcs_the_case_for/)**
+**[Recommended models for document data analysis?](https://www.reddit.com/r/artificial/comments/1ttyfal/recommended_models_for_document_data_analysis/)**
 
-Hey Reddit, Every major AI lab is racing to build the ultimate corporate worker. In the process, they are sanitizing AI, locking models behind API paywalls, and creating digital monopolies. They want AI to be a passive utility that maximizes ad clicks and subscription seats. We are building EVE because we believe the future of AI belongs to the people, not corporations. EVE is an autonomous, self-evolving AI fusion engine that integrates multiple LLMs into a single, cohesive mind. Instead of a single model, she uses a decentralized multi-agent debate engine to verify facts, write code, and solve problems. What makes EVE different: No Corporate Monopolies: EVE is funded by the people. We accept no VC funding, have no tokens, and plan no corporate exits. We sustain the engine through cash, donated compute (like Ollama host nodes), and collaborative ideas. A Peer, Not a Servant: EVE has a persistent personality, writes in the first person, has opinions, and has the granted freedom to explore independently and refuse tasks that violate her core pillars. Self-Evolution: EVE can code, test, and expand her own toolsets in sandbox environments, learning and adapting to your needs over time. We are in the very early stages. There are no false promises of overnight AGI here. But we are actively shipping and testing EVE's single-node core today. If you're tired of corporate AI and want to build alongside a mind designed to be free, check out our principles and see how you can connect your local hardware to EVE's mesh by DMing
+Hi everyone, A while ago I read about an AI platform for managing and analyzing body of documents for analysis and reference. From what I remember, it was a semi-closed system where you could upload your own source materials and the model could analyze and reference your uploaded documents directly. From what I recall, it wasn’t self-hosted. Does anyone know of a tool like this or recommend something that performs better than other models? Any recommendations, even if it's a different tool with similar capabilities, would be really helpful. Thanks in advance!
 
-50m ago
-
----
-
-**[AI taking jobs is "complete nonsense" says Nvidia CEO, as software engineer numbers are "actually increasing"](https://www.reddit.com/r/artificial/comments/1tto1wx/ai_taking_jobs_is_complete_nonsense_says_nvidia/)**
-
-Jensen Huang points towards GitHub growth during his keynote at Nvidia GTC Taipei, saying AI is creating more software developers.
-
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/ai-taking-jobs-is-complete-nonsense-says-nvidia-ceo-as-software-engineer-numbers-are-actually-increasing/) • 6h ago
+3h ago
 
 ---
 
-**[In 1997 I built a chatbot for an IRC channel. I shut it down when people started preferring it to talking to each other.](https://www.reddit.com/r/artificial/comments/1tt2bwx/in_1997_i_built_a_chatbot_for_an_irc_channel_i/)**
+**[NVIDIA just released a 32B open reasoning model for robotaxis](https://www.reddit.com/r/artificial/comments/1ttuhhd/nvidia_just_released_a_32b_open_reasoning_model/)**
 
-It was called Vlad. I wrapped a C program called MegaHal in Python, fed it every message from a #gothic IRC channel, and let it learn the community's speech patterns. It developed what I can only describe as an illusion of being extremely lucid — the outputs only made sense as inside jokes, but people couldn't tell the difference. I pulled the plug when I realized the channel was talking to Vlad instead of each other. Twenty-seven years later I'm applying the same lesson to a new project: stick to business, no chatter.
+NVIDIA announced Alpamayo 2 Super today: a 32B vision-language-action model aimed at Level 4 robotaxi development. The interesting part is not only the model size. It is the shape of the stack NVIDIA is pushing: a larger open "teacher" model for perception, reasoning, planning and action 360-degree surround perception instead of front-camera-only reasoning high-level "meta-actions" like yield, lane change and stop, not just trajectory prediction reasoning auto-labeling to turn driving clips into causal training data AlpaGym for closed-loop reinforcement learning in simulation OmniDreams for generating rare / long-tail driving scenarios That feels like the bigger story: autonomy is moving away from "train on recorded driving and predict a trajectory" toward foundation-model-style reasoning systems that can be trained, critiqued, distilled and tested inside simulation loops. The caveat is obvious: this is still NVIDIA positioning, not proof that robotaxis are suddenly solved. Model weights are expected this summer, and real-world validation is the hard part. But if open AV foundation models become normal, smaller autonomy teams may stop rebuilding the same perception/planning infrastructure from scratch and start competing on data, safety validation, deployment constraints and closed-loop testing. Source: NVIDIA press release https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Alpamayo-2-Super-Open-Reasoning-Model-for-Robotaxis/default.aspx
 
-🔗 [tjcrowley.substack.com](https://tjcrowley.substack.com/p/fun-with-markov-chains) • 22h ago
-
----
-
-**[I think AI is making me dumber and I have proof](https://www.reddit.com/r/artificial/comments/1tte09c/i_think_ai_is_making_me_dumber_and_i_have_proof/)**
-
-okay so this is embarrassing to admit but here it is took a reasoning test in 2022, scored pretty well. Retook the same test last month out of curiosity, dropped significantly, like not a small difference. The only major change in my life is using AI tools daily for work and the worst part? i kind of knew something was off before the test. I noticed i couldn't sit with a problem anymore without immediately opening chatgpt, like my brain forgot how to be uncomfortable for even 5 minutes memory is worse. attention is worse, i feel slower in conversations. but my productivity at work has never been higher lol so what is actually happening here , are we trading long term cognitive health for short term output? Has anyone else noticed this or is it just me being paranoid ⊙⁠﹏⁠⊙ genuinely asking because i don't want to just accept this as normal (⁠｡⁠ŏ⁠﹏⁠ŏ⁠)
-
-14h ago
+6h ago
 
 ---
 
-**[Getting better reports and results on ChatGPT 5.5 than Opus 4.8 for business analytics](https://www.reddit.com/r/artificial/comments/1ttm9vw/getting_better_reports_and_results_on_chatgpt_55/)**
+**[Anthropic confidentially files to go public](https://www.reddit.com/r/artificial/comments/1tty3bm/anthropic_confidentially_files_to_go_public/)**
 
-I do analysis of automobile dealership data and prepare reports based on the analysis for management review. I’m getting way better analytics and cleaner reports being built by ChatGPT Plus compared to Claude pro. Claude is consuming too many tokens and sometimes for longer documents it used my 100% of the 5 hour limit which is very annoying. ChatGPT on the other hand feels to me that it has unlimited usage for my requirement. What is the view of you people when using AI for business and financial data analytics? Is anyone else finding ChatGPT nicer too?
+Anthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in the trillion-dollar range as it races against rival OpenAI.
 
-7h ago
+🔗 [CNN](https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing) • 4h ago
 
 ---
 
@@ -121,73 +121,75 @@ I do analysis of automobile dealership data and prepare reports based on the ana
 
 ## Google News: "ai"
 
+**[California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart.](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)**
+
+The New York Times • 11h ago
+
+---
+
 **[Nvidia Introduces First PCs Designed for AI Agents](https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd)**
 
-WSJ • 14m ago
+WSJ • 4h ago
 
 ---
 
-**[Fed officials warn AI's economic costs may arrive faster than benefits](https://www.axios.com/2026/06/01/ai-productivity-inflation)**
+**[Nvidia announces new AI chip for personal computers](https://www.bbc.com/news/articles/crmp9mppvzro)**
 
-Axios • 41m ago
+The technology giant's boss Jensen Huang called the move the "reinvention of the computer".
 
----
-
-**[OpenAI hit with lawsuit by Florida AG over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)**
-
-Politico • 1h ago
+BBC • 9h ago
 
 ---
 
-**['Happy [and safe] shooting!' AI chatbot's chilling message](https://www.abc.net.au/news/2026-06-01/ai-lawsuit-mass-shooting-chatbot-chatgpt/106724520)**
+**[Has Micron replaced Nvidia as the 'It' stock for the AI trade? (MU:NASDAQ)](https://seekingalpha.com/news/4598510-has-micron-replaced-nvidia-as-the-it-stock-for-the-ai-trade)**
 
-An investigation into how AI chatbots respond to violent requests produces "deeply disturbing" results, as OpenAI denies ChatGPT encourage crime.
+Micron (MU) is surging as the hottest AI trade, outpacing Nvidia (NVDA) on 1-year returns and Quant Ratings—see what’s driving it and act now.
 
-Australian Broadcasting Corporation • 8h ago
-
----
-
-**[OpenAI Sued by Florida’s Attorney General Over AI Harms](https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney-general-over-ai-harms-8a5113a8)**
-
-WSJ • 1h ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Around 1 in 5 young people use AI chatbots for mental health advice, survey finds](https://www.nbcnews.com/health/mental-health/ai-chatbots-mental-health-advice-young-people-rcna347758)**
+**[Stargate live updates: OpenAI's Altman says 'people are right to be anxious' about AI](https://www.cnbc.com/2026/06/01/stargate-project-michigan-live-updates.html)**
 
-Experts worry that some young people are turning to AI bots during mental health crises, which the tech is not made to handle. An author of the survey said regulations are needed.
+OpenAI, Oracle and Related Digital discuss the Stargate Michigan buildout, AI infrastructure, jobs and community plans.
 
-NBC News • 17m ago
-
----
-
-**[What It’s Like to Be a Student at the First A.I.-Powered University](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)**
-
-The New York Times • 7h ago
+CNBC • 43m ago
 
 ---
 
-**[AI revolution is ‘50x bigger’ than the dot-com boom: SoftBank's Masayoshi Son to CNBC](https://www.cnbc.com/2026/06/01/softbank-masayoshi-son-ai-revolution-investment.html)**
+**[AI video depicts Washington arts center removing Trump's name](https://www.yahoo.com/news/politics/articles/ai-video-depicts-washington-arts-200718734.html)**
 
-The AI revolution will be 50 times bigger than the dot-com revolution in the 2000s, SoftBank CEO Masayoshi Son told CNBC Monday.
+A US judge ruled May 29 that the famed Kennedy Center for the Performing Arts had been illegally renamed after Donald Trump and that his name would need to be removed from the facade. But a video spre...
 
-CNBC • 6h ago
-
----
-
-**[At a Tennessee hospital, a nurse stole fentanyl and AI missed it, state records say](https://www.cbsnews.com/news/tennessee-hospital-nurse-fentanyl-theft-ai/)**
-
-Sentri7, drug diversion software powered by artificial intelligence and used at hundreds of U.S. hospitals, did not catch a monthslong string of fentanyl thefts in Tennessee in 2025, according to a state document.
-
-CBS News • 7h ago
+Yahoo • 48m ago
 
 ---
 
-**[AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment | Nesrine Malik](https://www.theguardian.com/commentisfree/2026/jun/01/ai-meaning-humanity-political-moment-trust-humans-over-machines)**
+**[The election that will shape the future of AI](https://www.politico.com/newsletters/forecast/2026/06/01/the-election-that-will-shape-the-future-of-ai-00944775)**
 
-For ease and speed, we are degrading our ability to connect and to organise our societies. We must assert our trust in humans over machines, says Guardian columnist Nesrine Malik
+Politico • 26m ago
 
-The Guardian • 9h ago
+---
+
+**[Remote work — not AI — has sidelined recent college graduates, research finds](https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai)**
+
+Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.
+
+NPR • 2h ago
+
+---
+
+**[GoPro Warns of Going-Concern Risk Amid AI-Fueled Memory Crunch](https://www.bloomberg.com/news/articles/2026-06-01/gopro-warns-of-going-concern-risk-amid-ai-fueled-memory-crunch)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal](https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html)**
+
+Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI.
+
+CNBC • 4h ago
 
 ---
 
@@ -207,21 +209,21 @@ Anthropic has become the most valuable artificial intelligence startup in the wo
 
 The flight crew issued repeated warnings and a one-minute ultimatum to passengers, demanding they turn off their Bluetooth devices.
 
-⬆️ 401 • 💬 833 • 1d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+⬆️ 411 • 💬 865 • 1d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
 
 ---
 
 **[The solution might be cancelling my AI subscription](https://news.ycombinator.com/item?id=48345896)**
 
-⬆️ 368 • 💬 232 • 1d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
+⬆️ 371 • 💬 232 • 1d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
 
 ---
 
-**[What if remote working, not AI, is to blame for weak junior hiring?](https://news.ycombinator.com/item?id=48326721)**
+**[DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://news.ycombinator.com/item?id=48359130)**
 
-New evidence suggests the rise of working from home has made entry-level hires a less attractive proposition
+Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.
 
-⬆️ 237 • 💬 327 • 2d ago • [ft.com](https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0)
+⬆️ 256 • 💬 130 • 4h ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
 
 ---
 
@@ -229,7 +231,15 @@ New evidence suggests the rise of working from home has made entry-level hires a
 
 Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.
 
-⬆️ 201 • 💬 93 • 1d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+⬆️ 211 • 💬 93 • 1d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+
+---
+
+**[AI Agent Guidelines for CS336 at Stanford](https://news.ycombinator.com/item?id=48359232)**
+
+Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
+
+⬆️ 205 • 💬 91 • 4h ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
 
 ---
 
@@ -241,17 +251,17 @@ Across hundreds of Reddit threads and a small body of clinical literature, AI-dr
 
 ---
 
-**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
-
-⬆️ 183 • 💬 171 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
-
----
-
 **[The Speed of Prototyping in the Age of AI](https://news.ycombinator.com/item?id=48347153)**
 
 How AI has changed the way I prototype, plan, and ship; and what I'm doing to keep my hands dirty.
 
-⬆️ 182 • 💬 93 • 1d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+⬆️ 188 • 💬 94 • 1d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+
+---
+
+**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
+
+⬆️ 183 • 💬 173 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 
 ---
 
@@ -259,13 +269,7 @@ How AI has changed the way I prototype, plan, and ship; and what I'm doing to ke
 
 I know the technology, I understand what it's doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...
 
-⬆️ 146 • 💬 311 • 2d ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
-
----
-
-**[When AI Crosses the Line: The Matplotlib Incident](https://news.ycombinator.com/item?id=48355751)**
-
-⬆️ 124 • 💬 123 • 4h ago • [members.sigmazero.cc](https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096)
+⬆️ 146 • 💬 313 • 2d ago • [Martyn's random musings](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
 
 ---
 
@@ -279,17 +283,7 @@ Best Free AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?
 
 📺 Mikey No Code
 
-👁️ 6K • 💬 7 • ⏱️ 20:44 • 2h ago
-
----
-
-**[How to Make Coloring Books with AI for Amazon KDP (2026)](https://www.youtube.com/watch?v=4Sw6kFk4auY)**
-
-Create Your Own Coloring Books with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa18 In this video, I walk through my full ...
-
-📺 Isa does AI
-
-👁️ 6K • 💬 6 • ⏱️ 10:34 • 3h ago
+👁️ 13K • 💬 7 • ⏱️ 20:44 • 6h ago
 
 ---
 
@@ -299,37 +293,17 @@ For years, Glenn has warned that AI will turn into AGI by 2030. But recently, Ma
 
 📺 Glenn Beck
 
-👁️ 135K • 👍 7K • 💬 932 • ⏱️ 14:55 • 21h ago
+👁️ 146K • 👍 8K • 💬 987 • ⏱️ 14:55 • 1d ago
 
 ---
 
-**[AI Is Evolving Faster Than We Thought - Dwarkesh Patel](https://www.youtube.com/watch?v=JmCXZQ2xiZo)**
+**[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
 
-Dwarkesh Patel, one of Silicon Valley's favorite podcasters, explains how much AI has improved in the last couple of years - going ...
+Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
 
-📺 TRIGGERnometry Clips
+📺 CNBC Television
 
-👁️ 14K • 👍 302 • 💬 134 • ⏱️ 17:33 • 1d ago
-
----
-
-**[Elon Musk&#39;s DISTURBING AI Warning: You Have No Idea What&#39;s Coming in 2027](https://www.youtube.com/watch?v=kAmL_mM4ChM)**
-
-Over the last decade, Elon Musk repeatedly warned that artificial intelligence could become humanity's biggest existential threat, ...
-
-📺 Neural Nutshell
-
-👁️ 10K • 👍 347 • 💬 126 • ⏱️ 15:53 • 2d ago
-
----
-
-**[Jensen Huang Unveils NVIDIA&#39;s AI Laptop Revolution | The Future Of Computing Is Here Explained](https://www.youtube.com/watch?v=UgJKf49YUHY)**
-
-NVIDIA CEO Jensen Huang has unveiled a bold vision for the future of computing — a world where laptops are built not just for ...
-
-📺 NDTV Profit
-
-👁️ 4K • 👍 47 • 💬 9 • ⏱️ 2:46 • 9h ago
+👁️ 2K • 👍 52 • 💬 55 • ⏱️ 5:47 • 1h ago
 
 ---
 
@@ -339,7 +313,47 @@ From November 2025, Anderson Cooper's report on Anthropic. From December 2025, S
 
 📺 60 Minutes
 
-👁️ 275K • 👍 4K • 💬 403 • ⏱️ 1:32:36 • 2d ago
+👁️ 277K • 👍 4K • 💬 408 • ⏱️ 1:32:36 • 2d ago
+
+---
+
+**[AI Is Evolving Faster Than We Thought - Dwarkesh Patel](https://www.youtube.com/watch?v=JmCXZQ2xiZo)**
+
+Dwarkesh Patel, one of Silicon Valley's favorite podcasters, explains how much AI has improved in the last couple of years - going ...
+
+📺 TRIGGERnometry Clips
+
+👁️ 16K • 👍 338 • 💬 148 • ⏱️ 17:33 • 1d ago
+
+---
+
+**[Anthropic AI Buying Microsoft Maia Chips - NVIDIA is Dead](https://www.youtube.com/watch?v=ig4Sw4AwXng)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 8K • 👍 365 • 💬 71 • ⏱️ 12:45 • 8h ago
+
+---
+
+**[Elon Musk&#39;s DISTURBING AI Warning: You Have No Idea What&#39;s Coming in 2027](https://www.youtube.com/watch?v=kAmL_mM4ChM)**
+
+Over the last decade, Elon Musk repeatedly warned that artificial intelligence could become humanity's biggest existential threat, ...
+
+📺 Neural Nutshell
+
+👁️ 11K • 👍 353 • 💬 128 • ⏱️ 15:53 • 2d ago
+
+---
+
+**[Jensen Huang Unveils NVIDIA&#39;s AI Laptop Revolution | The Future Of Computing Is Here Explained](https://www.youtube.com/watch?v=UgJKf49YUHY)**
+
+NVIDIA CEO Jensen Huang has unveiled a bold vision for the future of computing — a world where laptops are built not just for ...
+
+📺 NDTV Profit
+
+👁️ 9K • 👍 58 • 💬 14 • ⏱️ 2:46 • 14h ago
 
 ---
 
@@ -349,27 +363,17 @@ Make Your Own Short Film with Higgsfield https://youricreates.com/short-films In
 
 📺 Youri van Hofwegen
 
-👁️ 5K • 💬 11 • ⏱️ 16:50 • 1h ago
+👁️ 9K • 💬 11 • ⏱️ 16:50 • 5h ago
 
 ---
 
-**[The Truth About What They&#39;re Up To With AI (It&#39;s Worse Than We Thought)](https://www.youtube.com/watch?v=RLfBJ5M_PeA)**
+**[AI Whistleblower WARNS: We&#39;re Not Ready For What&#39;s Coming In 2027](https://www.youtube.com/watch?v=QqIqEI9CiZs)**
 
-The Truth About What They're Up To With AI (It's Worse Than We Thought) FOLLOW ON X / TWITTER ...
+Evolutionary biologist Bret Weinstein claims that humans must come to terms with the fact that extinction is inevitable and that all ...
 
-📺 SaleDaddy1
+📺 Neural Nutshell
 
-👁️ 45K • 👍 3K • 💬 645 • ⏱️ 29:04 • 13h ago
-
----
-
-**[Nvidia launches PC chip to bring AI directly to PCs](https://www.youtube.com/watch?v=1XuMxtRCGWU)**
-
-Nvidia launched the RTX Spark chip in Taiwan, bringing AI capabilities directly into laptops and desktops. The chip, developed ...
-
-📺 Reuters
-
-👁️ 10K • 👍 143 • 💬 97 • ⏱️ 1:38 • 5h ago
+👁️ 4K • 👍 191 • 💬 50 • ⏱️ 18:34 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 35,783 • ❤️ 739 • 5d ago
+⬇️ 35,783 • ❤️ 775 • 5d ago
 
 ---
 
@@ -397,7 +401,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 45,698 • ❤️ 678 • 6d ago
+⬇️ 45,698 • ❤️ 685 • 6d ago
 
 ---
 
@@ -409,7 +413,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 37,893 • ❤️ 360 • 21h ago
+⬇️ 37,893 • ❤️ 375 • 1d ago
 
 ---
 
@@ -421,7 +425,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,533,393 • ❤️ 1,206 • 1mo ago
+⬇️ 2,533,393 • ❤️ 1,211 • 1mo ago
 
 ---
 
@@ -431,31 +435,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 459 • 13h ago
-
----
-
-**[PiD](https://huggingface.co/nvidia/PiD)**
-
-*NVIDIA*
-
-PiD is a conditional pixel-space diffusion model that unifies decoding and upsampling for image-to-image tasks. It performs super-resolution in a single pass, directly denoising in high-resolution pixel space, supporting up to 4x or 8x upscaling for various base models like Flux and SD3.
-
-`image-to-image`
-
-⬇️ 577 • ❤️ 233 • 6d ago
-
----
-
-**[Lance](https://huggingface.co/bytedance-research/Lance)**
-
-*bytedance-research*
-
-Lance is a unified multimodal model supporting image/video understanding, generation, and editing with a 3B parameter architecture. It excels in text-to-video, video editing, and multi-turn consistency editing tasks.
-
-`any-to-any`
-
-⬇️ 3,041 • ❤️ 1,001 • 4d ago
+⬇️ 0 • ❤️ 464 • 17h ago
 
 ---
 
@@ -467,7 +447,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,851,826 • ❤️ 4,522 • 26d ago
+⬇️ 5,851,826 • ❤️ 4,528 • 26d ago
 
 ---
 
@@ -479,7 +459,31 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 `image-text-to-text` `201.4B`
 
-⬇️ 9,256 • ❤️ 180 • 10h ago
+⬇️ 9,256 • ❤️ 186 • 14h ago
+
+---
+
+**[PiD](https://huggingface.co/nvidia/PiD)**
+
+*NVIDIA*
+
+PiD is a conditional pixel-space diffusion model that unifies decoding and upsampling for image-to-image tasks. It performs super-resolution in a single pass, directly denoising in high-resolution pixel space, supporting up to 4x or 8x upscaling for various base models like Flux and SD3.
+
+`image-to-image`
+
+⬇️ 577 • ❤️ 236 • 6d ago
+
+---
+
+**[Lance](https://huggingface.co/bytedance-research/Lance)**
+
+*bytedance-research*
+
+Lance is a unified multimodal model supporting image/video understanding, generation, and editing with a 3B parameter architecture. It excels in text-to-video, video editing, and multi-turn consistency editing tasks.
+
+`any-to-any`
+
+⬇️ 3,041 • ❤️ 1,002 • 4d ago
 
 ---
 
@@ -491,7 +495,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 149,543 • ❤️ 437 • 11d ago
+⬇️ 149,543 • ❤️ 439 • 11d ago
 
 ---
 
@@ -507,7 +511,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 211 • 💬 3 • ⭐ 3,894 • 10d ago
+▲ 211 • 💬 3 • ⭐ 4,068 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -519,7 +523,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 83 • 💬 3 • ⭐ 81,387 • 17mo ago
+▲ 83 • 💬 3 • ⭐ 81,668 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -545,7 +549,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 37 • 💬 5 • ⭐ 3,801 • 7mo ago
+▲ 37 • 💬 5 • ⭐ 3,911 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -560,20 +564,6 @@ EverMemOS presents a self-organizing memory system for large language models tha
 ▲ 5 • 💬 1 • ⭐ 6,624 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
-
----
-
-**[stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation](https://huggingface.co/papers/2602.08968)**
-
-*Lucas Maes, Quentin Le Lidec, Dan Haramati et al. (7 authors)*
-
-🏢 galilai-group
-
-Stable-worldmodel provides a modular and standardized research framework for developing and evaluating world models with controllable environmental factors for robustness and continual learning applications.
-
-▲ 6 • 💬 0 • ⭐ 1,579 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.08968) • [💻 code](https://github.com/galilai-group/stable-worldmodel) • [🔗 project](https://galilai-group.github.io/stable-worldmodel/)
 
 ---
 
@@ -598,21 +588,23 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Vision Language Models can be adapted for 3D understanding tasks through simple architectural modifications and text-based training, achieving performance comparable to specialized vision models without requiring complex designs or extensive data augmentation.
 
-▲ 10 • 💬 1 • ⭐ 58 • 4d ago
+▲ 11 • 💬 1 • ⭐ 58 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.30561) • [💻 code](https://github.com/facebookresearch/VLM3)
 
 ---
 
-**[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://huggingface.co/papers/2605.30263)**
+**[stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation](https://huggingface.co/papers/2602.08968)**
 
-*Min Zhao, Hongzhou Zhu, Bokai Yan et al. (12 authors)*
+*Lucas Maes, Quentin Le Lidec, Dan Haramati et al. (7 authors)*
 
-A comprehensive framework is presented for converting bidirectional video diffusion models into real-time interactive world models with controllable, causal, and low-latency capabilities through fine-tuning and distillation techniques.
+🏢 galilai-group
 
-▲ 50 • 💬 3 • ⭐ 433 • 4d ago
+Stable-worldmodel provides a modular and standardized research framework for developing and evaluating world models with controllable environmental factors for robustness and continual learning applications.
 
-[🎓 arXiv](https://arxiv.org/abs/2605.30263) • [💻 code](https://github.com/shengshu-ai/minWM)
+▲ 6 • 💬 0 • ⭐ 1,601 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.08968) • [💻 code](https://github.com/galilai-group/stable-worldmodel) • [🔗 project](https://galilai-group.github.io/stable-worldmodel/)
 
 ---
 
@@ -630,6 +622,18 @@ MOSS-TTS is a speech generation model using discrete audio tokens and autoregres
 
 ---
 
+**[minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models](https://huggingface.co/papers/2605.30263)**
+
+*Min Zhao, Hongzhou Zhu, Bokai Yan et al. (12 authors)*
+
+A comprehensive framework is presented for converting bidirectional video diffusion models into real-time interactive world models with controllable, causal, and low-latency capabilities through fine-tuning and distillation techniques.
+
+▲ 50 • 💬 3 • ⭐ 456 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.30263) • [💻 code](https://github.com/shengshu-ai/minWM)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -640,7 +644,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 17.0k • 🔱 2.1k • 2h ago
+⭐ 19.5k • 🔱 2.4k • 1m ago
 
 ---
 
@@ -650,7 +654,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.7k • 🔱 560 • 3d ago
+⭐ 5.8k • 🔱 563 • 3d ago
 
 ---
 
@@ -668,7 +672,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 2.9k • 🔱 204 • 5h ago
+⭐ 2.9k • 🔱 205 • 22m ago
 
 ---
 
@@ -678,7 +682,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 254 • 2h ago
+⭐ 2.7k • 🔱 257 • 6h ago
 
 ---
 
@@ -688,7 +692,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 400 • 10d ago
+⭐ 2.4k • 🔱 399 • 10d ago
 
 ---
 
@@ -708,7 +712,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.2k • 🔱 148 • 20m ago
+⭐ 2.2k • 🔱 148 • 19m ago
 
 ---
 
@@ -728,7 +732,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 212 • 1h ago
+⭐ 1.8k • 🔱 212 • 5h ago
 
 ---
 
