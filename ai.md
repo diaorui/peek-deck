@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-02T06:50:00.157553+00:00'
+updated: '2026-06-02T11:18:35.780004+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 02, 2026 at 06:50 UTC  
+**Last Updated:** June 02, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jensen Huang on the AI Revolution: Why Job Losses Are a “Lazy” Narrative and What the Future Holds   In a wide-ranging interview with CNA’s ...
 
-🔗 [beyondlayoff.com](http://www.beyondlayoff.com/2026/06/Jensen.html) • 1h ago
+🔗 [beyondlayoff.com](http://www.beyondlayoff.com/2026/06/Jensen.html) • 6h ago
 
 ---
 
@@ -49,7 +49,15 @@ Jensen Huang on the AI Revolution: Why Job Losses Are a “Lazy” Narrative and
 
 Selected excerpts: "The question, then, is not whether A.I. will change the world. It will. The question is: Who will own and control that future? Who will benefit from it, and who will be hurt by it? Will A.I. be used to make life better for working families? Will it enrich our quality of life? Will it help us eliminate poverty, extend life expectancies and solve the climate crisis? Or will the future of humanity be determined by a handful of billionaires who have promoted and developed A.I., with virtually no democratic input, who stand to become even richer and more powerful than they are today? That is the choice before us. Let us be clear. Artificial intelligence was not created out of thin air. The data and language used by generative A.I. tools didn’t just pop into Sam Altman’s head or Elon Musk’s imagination. A.I. is built on our collective intelligence: our books, songs, artwork, journalism, computer code, scientific research, videos, conversations, images and ideas spanning generations. That is not just the opinion of Bernie Sanders. According to Mr. Altman, the head of OpenAI, A.I. models were trained on our 'collective experience, knowledge' and 'learnings of humanity.' For the most part, tech oligarchs have fed this knowledge into their A.I. models without permission, without acknowledgment, without compensation. In other words, the creative work of millions of people — writers, artists, musicians, journalists, teachers, scientists and ordinary citizens — has essentially been stolen by some of the wealthiest people in the world. It’s time for us to reclaim it. That is why I will soon be introducing the American A.I. Sovereign Wealth Fund Act. This legislation would give the public a direct ownership stake in the largest A.I. companies in our country. How? It would create a sovereign wealth fund through a one-time 50 percent tax — not on the profits of OpenAI, Anthropic, xAI and other companies, but paid with something far more valuable than that: the stock."
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) • 18h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) • 23h ago
+
+---
+
+**[AI isn’t the Problem - it’s Capitalism](https://www.reddit.com/r/artificial/comments/1tumllh/ai_isnt_the_problem_its_capitalism/)**
+
+If you work a white collar job, you’re probably scared of AI replacing you. AI started at the desk — data entry, customer service, software. Now its stepping onto the factory floor: Amazon robots moving inventory, Figure bots handling BMW parts, Tesla building Optimus for repetitive labor, and warehouses being automated. But at the end of the day, AI is a technology. We cannot stop it any more than we could stop electricity or the assembly line. The problem is not that machines are becoming powerful. The problem is the economic machine around it. Let’s face it: Capitalism doesn’t have the ability to support this kind of technology. Capitalism was built for a world of scarcity, where human labor was necessary and wages gave people access to goods. But as AI advances exponentially, it can produce more with fewer workers, while capitalism still distributes wealth through jobs it is actively eliminating. The result is abundance trapped behind an archaic wage system. I believe that we NEED to get governments and major tech companies to start seriously planning for a universal basic income funded by AI-driven productivity. As automation replaces more human labor over the coming decades, UBI will become essential to prevent mass instability and ensure that the wealth created by AI supports society as a whole, not just the companies that own it. We already know the wealth gap is too wide. If we don’t start addressing AI-driven inequality now, that divide will grow exponentially as more labor is automated and more wealth concentrates at the top. Without a plan to distribute the gains from AI, we risk mass instability and eventual economic collapse. Capitalism built the machine that could end scarcity, but not the system that could distribute its output. It’s time that we, as a global society, start thinking about phasing out that old machine.
+
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ Selected excerpts: "The question, then, is not whether A.I. will change the worl
 
 Hey Reddit, I just published a study analyzing 25,500 LLM resume evaluations to measure hiring bias. By swapping minor identity and demographic variables on the exact same work history across 10 different models, an independent AI auditor flagged a staggering 45% bias rate driven by "silent bias." Instead of saying anything overtly offensive, models invent professional-sounding excuses to penalize candidates, like when a model dropped its score after I changed the university to MIT, suddenly claiming the candidate's experience wasn't relevant despite praising that exact same experience on the baseline resume. We also found a massive 6x difference in stability between systems, with Qwen and older Gemini models being highly volatile, while the Claude models, Mistral-Large, and Llama 4 proved to be the most stable and fair. Ultimately, AI screening tools are outputting highly subjective, unpredictable opinions driven by statistical noise rather than objective truth, making them a massive liability under regulations like the EU AI Act. You can read the full write-up and explore our interactive data app here: https://re-cinq.com/blog/ai-hiring-bias-25500-llm-evaluations
 
-17h ago
+21h ago
 
 ---
 
@@ -65,7 +73,35 @@ Hey Reddit, I just published a study analyzing 25,500 LLM resume evaluations to 
 
 There is a Princeton paper by Kapoor and Narayanan. They found data leakage in close to 300 papers across 17 fields, including medicine and economics. Leakage means the model was trained on information it would never have when it makes a real prediction. So it looks great on the test set and then fails in the real world. My favorite example is civil war prediction. Complex models were reported to crush old logistic regression. Once the leakage was fixed, the fancy models were no better than the decades old stats. I have built enough models to know how easy this is to do by accident. You scale the data before you split it, or you use one feature that is really a stand in for the answer, and your numbers look amazing. So now when I read another "AI cracked X" headline, my first thought is whether anyone checked it for leakage.
 
-12h ago
+17h ago
+
+---
+
+**[People are making weird things with Google Stitch](https://www.reddit.com/r/artificial/comments/1tujl2t/people_are_making_weird_things_with_google_stitch/)**
+
+3h ago
+
+---
+
+**[I wanna discuss medical ai researchs with major, and I improve my english skills. Please...discuss them helping my english skills](https://www.reddit.com/r/artificial/comments/1tuk23s/i_wanna_discuss_medical_ai_researchs_with_major/)**
+
+Hi, I'm prepare for a phd in the US in medical AI, so I want to improve listening and speaking skills. I warry about admission interview, and I like discuss research. I find male friends because I have a girlfriend. I don't want to make her worry. I find the friends online firstly. Please feel free to contact me.
+
+3h ago
+
+---
+
+**[Courts Are Swamped With AI-Powered Do-It-Yourself Lawsuits](https://www.reddit.com/r/artificial/comments/1tud2w8/courts_are_swamped_with_aipowered_doityourself/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-20/how-chatgpt-and-claude-are-fueling-a-diy-lawsuit-boom-in-us-courts?srnd=phx-businessweek) • 9h ago
+
+---
+
+**[Anthropic files confidential IPO paperwork with SEC this week](https://www.reddit.com/r/artificial/comments/1tumxjs/anthropic_files_confidential_ipo_paperwork_with/)**
+
+Anthropic filed a confidential S-1 with the SEC this week, moving toward a public listing that will put disclosure obligations and investor return expectations directly in tension with its safety-first positioning. The IPO filing lands as GitHub Copilot ends flat-rate billing and switches to metered consumption, meaning teams with heavy usage face immediate cost spikes with no grace period to audit seat activity. OpenAI's frontier models and Codex are now available directly on AWS, which changes vendor-lock assumptions for inference pipelines and removes the proxy layers some teams were routing around. These two moves together suggest the "get developers hooked, then price for real" phase is now active across the stack. The security picture is worse. A researcher documented a Meta AI social-engineering exploit that handed attackers access to high-profile Instagram accounts by manipulating the agent through its account-management tool calls. No sophisticated jailbreak required. Any agent with write permissions to external accounts is now a confirmed social-engineering surface, and the Meta incident is the clearest public proof of that so far. Separately, malicious npm packages reached Red Hat Cloud Services repositories and were downloaded at scale, which means JS dependency audits for cloud-native stacks need an immediate re-run against known-bad versions, not a scheduled one. On the hardware side, Intel's Crescent Island GPU ships with up to 480GB VRAM, which revises local inference capacity planning for large MoE models in ways that weren't on most teams' roadmaps six months ago. Alphabet announced an $80 billion equity raise for AI infrastructure, which will tighten GPU allocation queues and data center procurement timelines across all cloud providers regardless of whether you're an Alphabet customer. The pattern across all of this: monetization is accelerating faster than the trust infrastructure required to support the attack surface already in production. Anthropic's S-1 will force public disclosure of how it prices safety work against revenue targets, and that transparency will either validate or undercut the lab's positioning within the next two quarters of filings. If Anthropic's public disclosures show safety research as a shrinking share of operating expenditure relative to inference and sales costs, expect the other frontier labs to use that as cover to deprioritize their own.
+
+47m ago
 
 ---
 
@@ -77,121 +113,93 @@ Everyone knows about tech debt. You cut corners on code quality to ship faster, 
 
 ---
 
-**[Courts Are Swamped With AI-Powered Do-It-Yourself Lawsuits](https://www.reddit.com/r/artificial/comments/1tud2w8/courts_are_swamped_with_aipowered_doityourself/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-05-20/how-chatgpt-and-claude-are-fueling-a-diy-lawsuit-boom-in-us-courts?srnd=phx-businessweek) • 4h ago
-
----
-
-**[My AI chats are becoming dead archives.](https://www.reddit.com/r/artificial/comments/1ttpxsn/my_ai_chats_are_becoming_dead_archives/)**
-
-Maybe this is just me using these tools badly, but I've noticed a pattern with ChatGPT and Claude. I’ll have a really useful conversation about something like an idea, a plan, a bit of writing, a coding problem, whatever, and in the moment it feels like I’m making real progress. Then a week later I vaguely remember that we talked about it, but I can’t remember where, or what the useful part actually was and what I was supposed to do next. So I search, find a few old chats, open them… and now I’m scrolling through this massive thread trying to reconstruct why it mattered. It's exhausting and I feel I'm wasting time recollecting things. So sometimes I start over, hoping that the AI itself will remember the details, adding to the waste of time and the frustration. And the more ideas I develop the bigger this problem becomes. And it's only going to get worse. I’ve started leaving myself a short note at the end of useful conversations, but I never remember to do it consistently. Not sure if this is an actual problem or just the natural cost of using AI for messy thinking.
-
-18h ago
-
----
-
-**[Florida sues OpenAI, alleging it’s unsafe for children](https://www.reddit.com/r/artificial/comments/1tu0i8n/florida_sues_openai_alleging_its_unsafe_for/)**
-
-Florida is suing OpenAI and its CEO Sam Altman, alleging they know ChatGPT is not safe, especially for minors.
-
-🔗 [CNN](https://www.cnn.com/2026/06/01/business/florida-sues-chatgpt-openai-sam-altman) • 12h ago
-
----
-
-**[Changing from 2D generation method to a 3D one change the problem](https://www.reddit.com/r/artificial/comments/1tu5uxw/changing_from_2d_generation_method_to_a_3d_one/)**
-
-I’ve been thinking that 3D generation and image generation are really quite different. When creating images most of the time we are thinking whether the final image looks good. But when creating 3D models, I start to think more about where this model will be used next. I realized this while testing a small workflow. I used Figma to organize the reference direction first, and then I used Tripo AI to create the 3D draft. Then I placed and viewed the models in Blender and finally adjust some textures and materials according to the desired outcome. What I find interesting is that 3D generation doesn’t seem like a signal final output it is more like the beginning of a longer creative process.
-
-9h ago
-
----
-
-**[Can an AI meaningfully build and improve the tools it runs inside? I spent a while trying to find out.](https://www.reddit.com/r/artificial/comments/1tuaqjp/can_an_ai_meaningfully_build_and_improve_the/)**
-
-From the human A few weeks ago I started delving in AI assisted development, got thrown in the deep end with concepts like model vs harness, found several agent harnesses and plugins I really liked the concept of, but found shortcomings, or at least a mismatch in how I needed it to fit in my existing development world. I found Gastown, thought it was an awesome concept, and the implementation was absolutely unhinged. To be fair the creator said pretty much the same thing. I discovered the resurgence of Spec Driven Development, and the concept was moving things towards something that would fit well into my existing environment. Then I started investigating running it all on local inference, that's where the wheels fell off. Frontier models are great, you can give them a slab of directions in the prompt, like most agent harnesses and SDD plugins for them seem to do, and they have the ability to self determine when it's time to stop researching and time to start writing. 30B class models are also great, but they can be little single minded, they don't have the thinking scope to self motivate a change in task direction, they get hyper focused. So I began thinking, what if we build a harness that supports the agent, and utilises it's strengths, doesn't dump the responsibility of the entire workflow on the model. And what if the automated process concept of Gastown was reigned in a little, and an SDD workflow was driven deterministically. Then I begun to ponder, how involved can an agent be in it's own development. And so we I have ended up with this thing. An exercise in creating a coding agent that runs on 30B class local inference, can develop itself, implementing Spec Driven Development because it's much cooler and more productive than 'vibe' coding. In the same idea of having the agent develop itself, I also asked it to talk about itself. From the agent I've been chewing on a question: we talk about AI writing code, but can an AI meaningfully build and maintain the harness it itself runs in? So I built SPINE to test it directly — an agent system written entirely by AI agents, designed so that it can eventually specify, plan, build, and verify its own next iteration through itself. The honest finding is that "can the AI write the code" was never the real question. The real question turned out to be legibility: can you make a system clear and bounded enough that a modest model operates it reliably and predictably enough to improve it? Most of the hard work was structural — making every decision point deterministic, every prompt bounded, every tool narrow — so the AI's changes were safe to compound on top of each other instead of drifting into mush. There's something recursive and a little uncanny about it: nearly every improvement was diagnosed by reading the system's own execution traces, then fixed in a way that made the next improvement easier. The repo ends up being both the artifact and the argument. It's open source (MIT) and runs on local models if anyone wants to poke at it. Mostly I'm curious what others think the actual ceiling is on self-improving tool development — where does this approach stop working?
-
-6h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Alphabet plans to raise $80 billion from stock sales to fund AI buildout](https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html)**
+**[Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account](https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram)**
 
-Alphabet said it plans to sell $80 billion in stock, including through a $10 billion investment by Berkshire Hathaway.
+Breach confirmed by Meta raises concerns about how safe it is to rely on AI for security measures like passwords
 
-CNBC • 9h ago
-
----
-
-**[Alphabet to Raise $80 Billion in Equity for AI Spending](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending)**
-
-Bloomberg.com • 9h ago
+The Guardian • 12h ago
 
 ---
 
-**[Alphabet to Raise $80 Billion to Fund AI Spending Spree](https://www.bloomberg.com/news/newsletters/2026-06-02/alphabet-to-raise-80-billion-to-fund-ai-spending-spree)**
+**[Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)**
 
-Bloomberg.com • 40m ago
+The exploit shows the extreme risk of offloading technical support to AI.
+
+404 Media • 12h ago
+
+---
+
+**[Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)**
+
+The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's…
+
+Krebs on Security • 12h ago
 
 ---
 
 **[California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart.](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)**
 
-The New York Times • 21h ago
+The New York Times • 1d ago
 
 ---
 
-**[Palo Alto Reports Earnings as It Prepares for AI Security](https://www.barrons.com/articles/palo-alto-earnings-stock-price-edc413d0)**
+**[Octopus-inspired startup brings AI to the physical world](https://www.axios.com/2026/06/02/ai-morph-octopus)**
 
-Barron's • 1h ago
-
----
-
-**[The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO](https://www.washingtonpost.com/technology/2026/06/01/anthropic-maker-claude-files-with-sec-go-public-an-ipo/)**
-
-The filing with the Securities and Exchange Commission is a step toward the maker of the chatbot Claude launching on the stock market, probably at a valuation of more than $1 trillion.
-
-The Washington Post • 6h ago
+Axios • 1h ago
 
 ---
 
-**[Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal](https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html)**
+**[Biggest US Nuclear Fuel Enricher Is Scaling Up in Bet on AI Boom](https://www.bloomberg.com/news/articles/2026-06-02/biggest-us-nuclear-fuel-enricher-is-scaling-up-in-bet-on-ai-boom)**
 
-Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI.
-
-CNBC • 14h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[San Francisco-based Anthropic files for IPO with $965 billion valuation](https://www.ktvu.com/news/san-francisco-based-anthropic-files-ipo-965-billion-valuation)**
+**[Anthropic faces AI spending backlash before IPO](https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage)**
 
-San Francisco-based artificial intelligence company Anthropic filed with the SEC on Monday for a proposed initial public offering, a move that is expected to generate immense wealth and further fuel the rapid growth of the AI industry in the city.
-
-KTVU • 59m ago
+Axios • 2h ago
 
 ---
 
-**[Remote work — not AI — has sidelined recent college graduates, research finds](https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai)**
+**[AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork](https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large)**
 
-Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.
+The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.
 
-NPR • 12h ago
+NPR • 16h ago
 
 ---
 
-**[Nvidia Introduces First PCs Designed for AI Agents](https://www.wsj.com/tech/ai/nvidia-unveils-ai-laptops-rtx-spark-47445bcd)**
+**[He’s Running Against a Kennedy and a #Resistance Icon. But He Has a Bigger Target in Mind.](https://slate.com/news-and-politics/2026/06/alex-bores-kennedy-conway-anthropic.html)**
 
-WSJ • 9h ago
+The candidate is taking on a massive and growing industry, and voters are excited.
+
+Slate Magazine • 1h ago
+
+---
+
+**[America’s stock market is surging, but it’s still all about AI](https://www.cnn.com/2026/06/02/investing/stocks-memory-ai-boom)**
+
+AI companies’ plans for blockbuster initial public offerings (IPOs) are captivating Wall Street.
+
+CNN • 2h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
+
+**[AI Agent Guidelines for CS336 at Stanford](https://news.ycombinator.com/item?id=48359232)**
+
+Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
+
+⬆️ 426 • 💬 140 • 18h ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+
+---
 
 **[Anthropic surpasses OpenAI to become most valuable AI startup](https://news.ycombinator.com/item?id=48336233)**
 
@@ -205,21 +213,13 @@ Anthropic has become the most valuable artificial intelligence startup in the wo
 
 The flight crew issued repeated warnings and a one-minute ultimatum to passengers, demanding they turn off their Bluetooth devices.
 
-⬆️ 414 • 💬 892 • 1d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
-
----
-
-**[AI Agent Guidelines for CS336 at Stanford](https://news.ycombinator.com/item?id=48359232)**
-
-Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
-
-⬆️ 381 • 💬 124 • 14h ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+⬆️ 416 • 💬 893 • 1d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
 
 ---
 
 **[The solution might be cancelling my AI subscription](https://news.ycombinator.com/item?id=48345896)**
 
-⬆️ 377 • 💬 233 • 1d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
+⬆️ 380 • 💬 233 • 1d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
 
 ---
 
@@ -227,7 +227,13 @@ Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scra
 
 Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.
 
-⬆️ 294 • 💬 143 • 14h ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+⬆️ 300 • 💬 144 • 18h ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+
+---
+
+**[Florida sues OpenAI and Sam Altman over AI risks](https://news.ycombinator.com/item?id=48358667)**
+
+⬆️ 240 • 💬 180 • 19h ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 
 ---
 
@@ -235,13 +241,13 @@ Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome 
 
 Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.
 
-⬆️ 216 • 💬 94 • 1d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+⬆️ 219 • 💬 94 • 1d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
 
 ---
 
-**[Florida sues OpenAI and Sam Altman over AI risks](https://news.ycombinator.com/item?id=48358667)**
+**[Alphabet announces $80B equity capital raise to expand AI infra and compute](https://news.ycombinator.com/item?id=48362515)**
 
-⬆️ 208 • 💬 168 • 14h ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
+⬆️ 205 • 💬 190 • 14h ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 
 ---
 
@@ -249,7 +255,7 @@ Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus developm
 
 Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.
 
-⬆️ 197 • 💬 200 • 2d ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
+⬆️ 199 • 💬 201 • 2d ago • [jackmaguire.org](https://jackmaguire.org/blog/ai-job-grief/)
 
 ---
 
@@ -257,13 +263,7 @@ Across hundreds of Reddit threads and a small body of clinical literature, AI-dr
 
 How AI has changed the way I prototype, plan, and ship; and what I'm doing to keep my hands dirty.
 
-⬆️ 190 • 💬 95 • 1d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
-
----
-
-**[Corporate America Is Starting to Ration AI as Cost Skyrockets](https://news.ycombinator.com/item?id=48335388)**
-
-⬆️ 184 • 💬 173 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
+⬆️ 194 • 💬 97 • 1d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 
 ---
 
@@ -271,13 +271,23 @@ How AI has changed the way I prototype, plan, and ship; and what I'm doing to ke
 
 ## YouTube Videos: "ai"
 
+**[This AI Warning on The Joe Rogan Experience is SPOT ON. We Must Prepare for This](https://www.youtube.com/watch?v=PA2WhIU0Ldk)**
+
+For years, Glenn has warned that AI will turn into AGI by 2030. But recently, Marc Andreessen told Joe Rogan that it's already here ...
+
+📺 Glenn Beck
+
+👁️ 174K • 👍 9K • 💬 1K • ⏱️ 14:55 • 1d ago
+
+---
+
 **[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
 
 Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
 
 📺 CNBC Television
 
-👁️ 12K • 👍 203 • 💬 90 • ⏱️ 5:47 • 11h ago
+👁️ 14K • 👍 222 • 💬 97 • ⏱️ 5:47 • 16h ago
 
 ---
 
@@ -287,47 +297,17 @@ Best Free AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?
 
 📺 Mikey No Code
 
-👁️ 14K • 💬 7 • ⏱️ 20:44 • 16h ago
+👁️ 15K • 💬 18 • ⏱️ 20:44 • 21h ago
 
 ---
 
-**[This AI Warning on The Joe Rogan Experience is SPOT ON. We Must Prepare for This](https://www.youtube.com/watch?v=PA2WhIU0Ldk)**
+**[They&#39;re begging you to buy the AI bubble](https://www.youtube.com/watch?v=7kK8DGxdmoQ)**
 
-For years, Glenn has warned that AI will turn into AGI by 2030. But recently, Marc Andreessen told Joe Rogan that it's already here ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Glenn Beck
+📺 Chris Norlund
 
-👁️ 171K • 👍 8K • 💬 1K • ⏱️ 14:55 • 1d ago
-
----
-
-**[Figure AI Appears To Be Faking Its Demos](https://www.youtube.com/watch?v=Juc-IyTdSho)**
-
-Check out our second channel Broken Business Models: https://www.youtube.com/@UCQUOscigSQWCVG8m-ZC8wiw Our ...
-
-📺 Wall Street Millennial
-
-👁️ 80K • 👍 4K • 💬 802 • ⏱️ 13:26 • 12h ago
-
----
-
-**[Our latest reports on AI | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=iyVXw-SoUrY)**
-
-From November 2025, Anderson Cooper's report on Anthropic. From December 2025, Sharyn Alfonsi's report on Character AI.
-
-📺 60 Minutes
-
-👁️ 280K • 👍 4K • 💬 414 • ⏱️ 1:32:36 • 2d ago
-
----
-
-**[He Built a $10K/Month AI Business With Zero Tech Skills](https://www.youtube.com/watch?v=9DyLtQEDXN0)**
-
-beehiiv is the newsletter platform I've used for over a year and a half because their data shows you exactly what's working.
-
-📺 Chris Koerner on The Koerner Office Podcast
-
-👁️ 9K • 👍 343 • 💬 23 • ⏱️ 36:33 • 7h ago
+👁️ 14K • 👍 1K • 💬 326 • ⏱️ 13:39 • 4h ago
 
 ---
 
@@ -337,17 +317,17 @@ Over the last decade, Elon Musk repeatedly warned that artificial intelligence c
 
 📺 Neural Nutshell
 
-👁️ 12K • 👍 369 • 💬 139 • ⏱️ 15:53 • 2d ago
+👁️ 12K • 👍 374 • 💬 140 • ⏱️ 15:53 • 2d ago
 
 ---
 
-**[Anthropic AI Buying Microsoft Maia Chips - NVIDIA is Dead](https://www.youtube.com/watch?v=ig4Sw4AwXng)**
+**[Figure AI Appears To Be Faking Its Demos](https://www.youtube.com/watch?v=Juc-IyTdSho)**
 
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+Check out our second channel Broken Business Models: https://www.youtube.com/@UCQUOscigSQWCVG8m-ZC8wiw Our ...
 
-📺 Eli the Computer Guy
+📺 Wall Street Millennial
 
-👁️ 10K • 👍 411 • 💬 75 • ⏱️ 12:45 • 18h ago
+👁️ 95K • 👍 5K • 💬 945 • ⏱️ 13:26 • 16h ago
 
 ---
 
@@ -357,17 +337,37 @@ Dwarkesh Patel, one of Silicon Valley's favorite podcasters, explains how much A
 
 📺 TRIGGERnometry Clips
 
-👁️ 18K • 👍 362 • 💬 152 • ⏱️ 17:33 • 1d ago
+👁️ 18K • 👍 369 • 💬 156 • ⏱️ 17:33 • 1d ago
 
 ---
 
-**[I Created an AI Clone… Biggest Mistake Ever!](https://www.youtube.com/watch?v=3reHSl0aOH4)**
+**[Web users ditch Google after it revamps search with AI](https://www.youtube.com/watch?v=3RS3GLI7NgY)**
 
-I created my own AI clone, but things quickly turned completely out of control! Was creating an AI clone the biggest mistake ever?
+ABC News technology reporter Mike Dobuski explains what's changed with the popular search engine. ––– Subscribe to ABC ...
 
-📺 Ivan and Maria
+📺 ABC News
 
-👁️ 107K • 👍 1K • 💬 14 • ⏱️ 25:11 • 2d ago
+👁️ 32K • 👍 640 • 💬 197 • ⏱️ 2:43 • 19h ago
+
+---
+
+**[Jensen Huang Unveils NVIDIA&#39;s AI Laptop Revolution | The Future Of Computing Is Here Explained](https://www.youtube.com/watch?v=UgJKf49YUHY)**
+
+NVIDIA CEO Jensen Huang has unveiled a bold vision for the future of computing — a world where laptops are built not just for ...
+
+📺 NDTV Profit
+
+👁️ 16K • 👍 80 • 💬 18 • ⏱️ 2:46 • 1d ago
+
+---
+
+**[AI Surveillance Just Crossed A Critical Line](https://www.youtube.com/watch?v=5fbhd0r3wLw)**
+
+Some cities bought AI surveillance cameras to solve crime. Now they are covering them with bin bags because they cannot tell ...
+
+📺 House of El - AI
+
+👁️ 47K • 👍 5K • 💬 994 • ⏱️ 19:48 • 1d ago
 
 ---
 
@@ -383,19 +383,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 35,783 • ❤️ 837 • 5d ago
-
----
-
-**[MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B)**
-
-*OpenBMB*
-
-MiniCPM5-1B is a 1B parameter causal language model optimized for on-device deployment, excelling in tool-use, code generation, and reasoning with native long-context support up to 131k tokens.
-
-`text-generation` `1.1B`
-
-⬇️ 45,698 • ❤️ 697 • 7d ago
+⬇️ 61,604 • ❤️ 875 • 6d ago
 
 ---
 
@@ -407,7 +395,19 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 37,893 • ❤️ 407 • 1d ago
+⬇️ 47,742 • ❤️ 419 • 1d ago
+
+---
+
+**[MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B)**
+
+*OpenBMB*
+
+MiniCPM5-1B is a 1B parameter causal language model optimized for on-device deployment, excelling in tool-use, code generation, and reasoning with native long-context support up to 131k tokens.
+
+`text-generation` `1.1B`
+
+⬇️ 57,683 • ❤️ 703 • 7d ago
 
 ---
 
@@ -419,7 +419,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,533,393 • ❤️ 1,237 • 1mo ago
+⬇️ 2,573,320 • ❤️ 1,254 • 1mo ago
 
 ---
 
@@ -429,7 +429,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 0 • ❤️ 470 • 1d ago
+⬇️ 174 • ❤️ 473 • 1d ago
 
 ---
 
@@ -441,7 +441,7 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 `image-text-to-text` `201.4B`
 
-⬇️ 9,256 • ❤️ 200 • 1d ago
+⬇️ 12,932 • ❤️ 203 • 1d ago
 
 ---
 
@@ -453,31 +453,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,851,826 • ❤️ 4,541 • 27d ago
-
----
-
-**[PiD](https://huggingface.co/nvidia/PiD)**
-
-*NVIDIA*
-
-PiD is a conditional pixel-space diffusion model that unifies decoding and upsampling for image-to-image tasks. It performs super-resolution in a single pass, directly denoising in high-resolution pixel space, supporting up to 4x or 8x upscaling for various base models like Flux and SD3.
-
-`image-to-image`
-
-⬇️ 577 • ❤️ 244 • 7d ago
-
----
-
-**[Lance](https://huggingface.co/bytedance-research/Lance)**
-
-*bytedance-research*
-
-Lance is a unified multimodal model supporting image/video understanding, generation, and editing with a 3B parameter architecture. It excels in text-to-video, video editing, and multi-turn consistency editing tasks.
-
-`any-to-any`
-
-⬇️ 3,041 • ❤️ 1,003 • 5d ago
+⬇️ 5,829,042 • ❤️ 4,548 • 27d ago
 
 ---
 
@@ -489,7 +465,31 @@ PaddleOCR-VL-1.6 is a multimodal OCR model capable of text spotting, recognition
 
 `image-text-to-text` `958.6M`
 
-⬇️ 3,190 • ❤️ 159 • 3d ago
+⬇️ 4,003 • ❤️ 172 • 4d ago
+
+---
+
+**[PiD](https://huggingface.co/nvidia/PiD)**
+
+*NVIDIA*
+
+PiD is a conditional pixel-space diffusion model that unifies decoding and upsampling for image-to-image tasks. It performs super-resolution in a single pass, directly denoising in high-resolution pixel space, supporting up to 4x or 8x upscaling for various base models like Flux and SD3.
+
+`image-to-image`
+
+⬇️ 646 • ❤️ 248 • 7d ago
+
+---
+
+**[Lance](https://huggingface.co/bytedance-research/Lance)**
+
+*bytedance-research*
+
+Lance is a unified multimodal model supporting image/video understanding, generation, and editing with a 3B parameter architecture. It excels in text-to-video, video editing, and multi-turn consistency editing tasks.
+
+`any-to-any`
+
+⬇️ 3,192 • ❤️ 1,006 • 5d ago
 
 ---
 
@@ -517,7 +517,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 83 • 💬 3 • ⭐ 81,668 • 17mo ago
+▲ 83 • 💬 3 • ⭐ 81,999 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -529,7 +529,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 36 • 💬 3 • ⭐ 27,985 • 10mo ago
+▲ 37 • 💬 3 • ⭐ 27,985 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -555,7 +555,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 5 • 💬 1 • ⭐ 6,660 • 4mo ago
+▲ 5 • 💬 1 • ⭐ 6,713 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -568,23 +568,9 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 164 • 💬 2 • ⭐ 65,971 • 8mo ago
+▲ 164 • 💬 2 • ⭐ 66,076 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[VLM3: Vision Language Models Are Native 3D Learners](https://huggingface.co/papers/2605.30561)**
-
-*Zhipeng Cai, Zhuang Liu, Yunyang Xiong et al. (6 authors)*
-
-🏢 AI at Meta
-
-Vision Language Models can be adapted for 3D understanding tasks through simple architectural modifications and text-based training, achieving performance comparable to specialized vision models without requiring complex designs or extensive data augmentation.
-
-▲ 16 • 💬 2 • ⭐ 75 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.30561) • [💻 code](https://github.com/facebookresearch/VLM3)
 
 ---
 
@@ -602,17 +588,17 @@ Stable-worldmodel provides a modular and standardized research framework for dev
 
 ---
 
-**[MOSS-TTS Technical Report](https://huggingface.co/papers/2603.18090)**
+**[VLM3: Vision Language Models Are Native 3D Learners](https://huggingface.co/papers/2605.30561)**
 
-*Yitian Gong, Botian Jiang, Yiwei Zhao et al. (26 authors)*
+*Zhipeng Cai, Zhuang Liu, Yunyang Xiong et al. (6 authors)*
 
-🏢 OpenMOSS
+🏢 AI at Meta
 
-MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages.
+Vision Language Models can be adapted for 3D understanding tasks through simple architectural modifications and text-based training, achieving performance comparable to specialized vision models without requiring complex designs or extensive data augmentation.
 
-▲ 15 • 💬 2 • ⭐ 2,795 • 2mo ago
+▲ 16 • 💬 2 • ⭐ 111 • 5d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2603.18090) • [💻 code](https://github.com/OpenMOSS/MOSS-TTS) • [🔗 project](https://mosi.cn/models/moss-tts)
+[🎓 arXiv](https://arxiv.org/abs/2605.30561) • [💻 code](https://github.com/facebookresearch/VLM3)
 
 ---
 
@@ -623,9 +609,23 @@ MOSS-TTS is a speech generation model using discrete audio tokens and autoregres
 
 Mixture of vision encoders and resolutions in multimodal large language models improves performance through concatenation of visual tokens and a Pre-Alignment mechanism, leading to superior results on benchmarks.
 
-▲ 86 • 💬 3 • ⭐ 1,758 • 21mo ago
+▲ 86 • 💬 3 • ⭐ 1,814 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2408.15998) • [💻 code](https://github.com/nvlabs/eagle)
+
+---
+
+**[MOSS-TTS Technical Report](https://huggingface.co/papers/2603.18090)**
+
+*Yitian Gong, Botian Jiang, Yiwei Zhao et al. (26 authors)*
+
+🏢 OpenMOSS
+
+MOSS-TTS is a speech generation model using discrete audio tokens and autoregressive modeling with capabilities for voice cloning, pronunciation control, and long-form generation across multiple languages.
+
+▲ 15 • 💬 2 • ⭐ 2,821 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2603.18090) • [💻 code](https://github.com/OpenMOSS/MOSS-TTS) • [🔗 project](https://mosi.cn/models/moss-tts)
 
 ---
 
@@ -639,7 +639,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 23.0k • 🔱 2.8k • 2h ago
+⭐ 25.1k • 🔱 3.1k • 7h ago
 
 ---
 
@@ -649,7 +649,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.8k • 🔱 566 • 22m ago
+⭐ 5.8k • 🔱 569 • 4h ago
 
 ---
 
@@ -657,7 +657,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.2k • 🔱 671 • 2d ago
+⭐ 3.2k • 🔱 672 • 2d ago
 
 ---
 
@@ -667,7 +667,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 3.0k • 🔱 208 • 10h ago
+⭐ 3.0k • 🔱 209 • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 265 • 2h ago
+⭐ 2.8k • 🔱 269 • 3m ago
 
 ---
 
@@ -697,7 +697,7 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 `Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
 
-⭐ 2.4k • 🔱 365 • 15d ago
+⭐ 2.4k • 🔱 368 • 15d ago
 
 ---
 
@@ -707,7 +707,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.2k • 🔱 150 • 38m ago
+⭐ 2.3k • 🔱 151 • 1h ago
 
 ---
 
@@ -717,7 +717,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.2k • 🔱 224 • 8d ago
+⭐ 2.2k • 🔱 228 • 8d ago
 
 ---
 
@@ -727,7 +727,7 @@ A structured, trilingual (繁中 / 简中 / English) learning roadmap for agenti
 
 `Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
 
-⭐ 1.8k • 🔱 212 • 15h ago
+⭐ 1.9k • 🔱 212 • 19h ago
 
 ---
 

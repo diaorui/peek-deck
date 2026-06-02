@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-02T06:50:00.175160+00:00'
+updated: '2026-06-02T11:18:35.795687+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 02, 2026 at 06:50 UTC  
+**Last Updated:** June 02, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,37 +34,15 @@ Robotics research and industry news
 
 **[AI agent deployed on Robotic Air Hockey Table](https://www.reddit.com/r/robotics/comments/1ttvjvc/ai_agent_deployed_on_robotic_air_hockey_table/)**
 
-This is my two year undergraduate capstone project from Engineering Physics at UBC. We trained a policy in simulation and then directly deployed in onto our robotic air hockey table. The project involved designing a physical robotic air hockey table, computer vision system, reinforcement learning pipeline, simulation, embedded systems, and controls If anyone's interested here's a short video explaining what we did: https://youtu.be/ugwpCam1rd0 And for more detail you can check out the github repo: HudsonNock/Air-Hockey-Sim
+This is my two year undergraduate capstone project from Engineering Physics at UBC. We trained a policy in simulation and then directly deployed in onto our robotic air hockey table. The project involved designing a physical robotic air hockey table, computer vision system, reinforcement learning pipeline, simulation, embedded systems, and controls If anyone's interested here's a short video explaining what we did: https://youtu.be/ugwpCam1rd0 And for more detail you can check out the github repo: HudsonNock/Air-Hockey-Sim Edit: Extra context given in the explainer video and repo: there were previous teams that worked on it before us. They designed the first iterations of the mechanical and electrical systems, as well as the baseline controller that allowed the robot to follow a specific path. Like most projects, it changed a lot through the iterations. We ended up redesigning and upgrading a lot of their work (only a few original parts remain) but their early prototyping was definitely needed to make our final version possible with the time we had
 
-15h ago
+19h ago
 
 ---
 
 **[First robot build in my life - based on quadrupedal sesame-robot esp32 project](https://www.reddit.com/r/robotics/comments/1ttzjre/first_robot_build_in_my_life_based_on_quadrupedal/)**
 
-13h ago
-
----
-
-**[💅Gotta love being pretty from the jump, period. (A whole slay moment.)](https://www.reddit.com/r/robotics/comments/1ttkr34/gotta_love_being_pretty_from_the_jump_period_a/)**
-
-23h ago
-
----
-
-**[Starship Technologies closes US operations](https://www.reddit.com/r/robotics/comments/1tufrtv/starship_technologies_closes_us_operations/)**
-
-Basically - Autonomous delivery service provider Starship Technologies is shifting its strategic focus to urban grocery delivery and ending its core business on U.S. campuses. The changes will result in the company cutting several positions across its global team, including approximately 20% of its employees in Estonia 😅
-
-🔗 [Geenius DigiPRO](https://geeniusdigipro.delfi.ee/artikkel/120587867/starship-tagurdab-usa-ulikoolilinnakutest-valja-ja-koondab-viiendiku-tookohtadest-heinla-see-on-ariline-otsus) • 2h ago
-
----
-
-**[What's your biggest time sink when training robot policies?](https://www.reddit.com/r/robotics/comments/1tuik20/whats_your_biggest_time_sink_when_training_robot/)**
-
-Question for people working with robotics RL: What part of the workflow tends to be the most frustrating? Not necessarily the hardest technically, but the thing that repeatedly eats time. Training? Debugging? Reward shaping? Environment setup? Experiment tracking? Trying to get a better picture of what real-world workflows look like.
-
-21m ago
+17h ago
 
 ---
 
@@ -72,7 +50,43 @@ Question for people working with robotics RL: What part of the workflow tends to
 
 Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 40m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 5h ago
+
+---
+
+**[What's your biggest time sink when training robot policies?](https://www.reddit.com/r/robotics/comments/1tuik20/whats_your_biggest_time_sink_when_training_robot/)**
+
+Question for people working with robotics RL: What part of the workflow tends to be the most frustrating? Not necessarily the hardest technically, but the thing that repeatedly eats time. Training? Debugging? Reward shaping? Environment setup? Experiment tracking? Trying to get a better picture of what real-world workflows look like.
+
+4h ago
+
+---
+
+**[Opinion on this design](https://www.reddit.com/r/robotics/comments/1tuni95/opinion_on_this_design/)**
+
+I am referring to this design of the joint 1 on a robotics arm with smaller bearings on the circumference of the base and then two additional bearings in the middle. I am wondering about the longevity of this design it seems there would be a decent amount of wear from the inside and outside bearing part having to spin at different speed and they would also wear down the plastic but still several popular robot arms use them. Also if u have any other design u would like to share of the joint 1 I would appreciate it.
+
+18m ago
+
+---
+
+**[💅Gotta love being pretty from the jump, period. (A whole slay moment.)](https://www.reddit.com/r/robotics/comments/1ttkr34/gotta_love_being_pretty_from_the_jump_period_a/)**
+
+1d ago
+
+---
+
+**[Starship Technologies closes US operations](https://www.reddit.com/r/robotics/comments/1tufrtv/starship_technologies_closes_us_operations/)**
+
+Basically - Autonomous delivery service provider Starship Technologies is shifting its strategic focus to urban grocery delivery and ending its core business on U.S. campuses. The changes will result in the company cutting several positions across its global team, including approximately 20% of its employees in Estonia 😅
+
+🔗 [Geenius DigiPRO](https://geeniusdigipro.delfi.ee/artikkel/120587867/starship-tagurdab-usa-ulikoolilinnakutest-valja-ja-koondab-viiendiku-tookohtadest-heinla-see-on-ariline-otsus) • 7h ago
+
+---
+
+**[Wrote up why 2S - 4S Li-ion regulation is messier than the datasheet implies - the five failure modes I keep seeing in the field](https://www.reddit.com/r/robotics/comments/1tuj9ud/wrote_up_why_2s_4s_liion_regulation_is_messier/)**
+
+4h ago
 
 ---
 
@@ -80,27 +94,13 @@ Humanoid robots are now helping process millions of daily parcels inside China�
 
 Lever arm: 400mm. We just did a “load test” on our actuator… but decided to skip the robot this time. No one got hurt. The motor did not complain (which is honestly suspicious).
 
-20h ago
+1d ago
 
 ---
 
 **[Engineering on sets](https://www.reddit.com/r/robotics/comments/1tuf65b/engineering_on_sets/)**
 
-3h ago
-
----
-
-**[A Prototype Robotic Arm That Selects Objects, Tests Actions, and Learns from Failures](https://www.reddit.com/r/robotics/comments/1ttwtp8/a_prototype_robotic_arm_that_selects_objects/)**
-
-This project is a long-term architectural study designed to test robotic systems before real hardware integration, focusing on target selection, attempt analysis, failure evaluation, strategy refinement, and safety boundaries in a traceable simulation environment. The goal was not to make early claims such as “real robot success,” but to build a Physical AI workflow that can clearly show what a robotic system selects, why it selects that target, how it evaluates an attempt, how it responds to failure, and which safety boundaries control its behavior. Within this scope, the system can select a target object in multi-object scenes, generate an object profile, create multiple grasp candidates, score attempts, and use failed attempts as experience data for later strategy selection. In other words, this is not just an “object detection demo”; it is a simulation-first robotic decision prototype that can attempt an action, analyze the result, log failure reasons, and block unsafe steps. Key capabilities demonstrated in the project include target object selection, object profile generation, grasp candidate planning, contact / lift / stable-hold / drop distinction, failure-aware scoring, experience-based retry recommendation, a fail-closed safety approach, and a Verified / Planned / Not Proven capability classification. This makes it clear which capabilities were demonstrated in simulation, which are only planned, and which are not yet proven. The project also defines controlled integration boundaries for areas that will be critical during real hardware transition, including Robot SDK adapter boundaries, RuntimeCommand safety gates, IK / motion planning contracts, camera calibration requirements, gripper feedback safety gates, and a simulation-to-hardware transfer matrix. As a result, the project is not only a demo; it also provides a software architecture discipline that makes technical risks visible before hardware investment, clarifies safety boundaries, and separates components that may later be transferred to a real system. This work was designed as a portfolio prototype that can support technical due diligence, architectural risk analysis, and safety boundary validation before moving to physical hardware, especially for warehouse automation, conveyor lines, service robots, and precise robotic manipulation scenarios. Portfolyo: linkedin.com/in/brkndc
-
-14h ago
-
----
-
-**[6 servos of 12 working](https://www.reddit.com/r/robotics/comments/1tthtf5/6_servos_of_12_working/)**
-
-1d ago
+7h ago
 
 ---
 
@@ -112,37 +112,19 @@ This project is a long-term architectural study designed to test robotic systems
 
 The crypto VC Framework Ventures led two fundraises for the robotics startup, which projects $100 million in annual run rate.
 
-Fortune • 19h ago
+Fortune • 1d ago
 
 ---
 
-**[Tesla Optimus & Musk face a new threat — OpenAI Robotics](https://finance.yahoo.com/sectors/technology/article/tesla-optimus--musk-face-a-new-threat--openai-robotics-160202761.html)**
+**[Deranged Robotics Cult at Duke Accidentally Summons Lovecraftian Outer God](https://gizmodo.com/deranged-robotics-cult-at-duke-accidentally-summons-lovecraftian-outer-god-2000765829)**
 
-Tesla's Optimus robot may have a new challenger, and it's the one CEO Elon Musk least wanted to see: OpenAI.
-
-Yahoo Finance • 14h ago
+Gizmodo • 17h ago
 
 ---
 
-**[World of humanoid robots set for new blueprint as Nvidia teams with Asian firms](https://www.scmp.com/tech/big-tech/article/3355402/nvidia-unitree-and-sharpa-unite-design-humanoid-robot-can-perform-real-work)**
+**[SoftBank in Early Talks to Back $800 Million Agile Robots Round](https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round)**
 
-South China Morning Post • 1d ago
-
----
-
-**[NVIDIA Announces NVIDIA Isaac GR00T Reference Humanoid Robot for Academic Research](https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-design)**
-
-NVIDIA today announced the NVIDIA Isaac™ GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.
-
-NVIDIA Newsroom • 1d ago
-
----
-
-**[Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO](https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html)**
-
-The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.
-
-CNBC • 1d ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -150,13 +132,23 @@ CNBC • 1d ago
 
 A former Tesla designer's startup has won investment from Sam Altman and other top investors as money floods into physical AI.
 
-Business Insider • 11h ago
+Business Insider • 15h ago
 
 ---
 
-**[Chinese Bionic Hand Maker Sees Humanoid Robot-Led Sales Boom](https://www.bloomberg.com/news/articles/2026-06-02/chinese-bionic-hand-maker-sees-humanoid-robot-led-sales-boom)**
+**[Top 10 robotics stories of May 2026](https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/)**
 
-Bloomberg.com • 1h ago
+May 2026 was a busy month full of robotics news, and it was topped off by the Robotics Summit & Expo in Boston.
+
+The Robot Report • 17h ago
+
+---
+
+**[Tesla Optimus & Musk face a new threat — OpenAI Robotics](https://finance.yahoo.com/sectors/technology/article/tesla-optimus--musk-face-a-new-threat--openai-robotics-160202761.html)**
+
+Tesla's Optimus robot may have a new challenger, and it's the one CEO Elon Musk least wanted to see: OpenAI.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -168,19 +160,27 @@ NBC News • 1d ago
 
 ---
 
+**[China Turns Robots, AI Startups Into a Fast-Growing Tourism Industry](https://www.eweek.com/news/china-tech-tourism-ai-ev-robotics-apac/)**
+
+China’s tech tourism boom is drawing founders, investors, and students to AI labs, EV factories, and robotics hubs across major cities.
+
+eWeek • 17h ago
+
+---
+
 **[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
 
 Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
 
-Ars Technica • 13h ago
+Ars Technica • 18h ago
 
 ---
 
-**[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
+**[Luma AI launching robotics lab anyone can use](https://www.semafor.com/article/06/01/2026/ai-video-startup-luma-ai-makes-the-jump-into-robotics-with-open-lab)**
 
-With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
+Luma AI is starting a robotics lab that will allow anyone to train robots on its software, expanding beyond the startup’s video generation models.
 
-CNBC • 2d ago
+Semafor • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ Did Leonardo da Vinci build the world's first robot? ⚙️ Explore the incredib
 
 📺 Art Whisper Media
 
-👁️ 679 • 👍 61 • 💬 7 • ⏱️ 2:53 • 7h ago
+👁️ 705 • 👍 61 • 💬 7 • ⏱️ 2:53 • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 94K • 👍 3K • 💬 510 • ⏱️ 29:20 • 2d ago
+👁️ 95K • 👍 3K • 💬 512 • ⏱️ 29:20 • 2d ago
 
 ---
 
@@ -214,27 +214,7 @@ This is something you've never seen beforeA simple football challenge turned int
 
 📺 Next Potential
 
-👁️ 92K • 💬 317 • ⏱️ 0:38 • 16h ago
-
----
-
-**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
-
-Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
-
-📺 Financial Times
-
-👁️ 25K • 👍 464 • 💬 79 • ⏱️ 5:11 • 4d ago
-
----
-
-**[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
-
-NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
-
-📺 TEDx Talks
-
-👁️ 42K • 👍 1K • 💬 144 • ⏱️ 19:39 • 3d ago
+👁️ 138K • 💬 427 • ⏱️ 0:38 • 21h ago
 
 ---
 
@@ -244,7 +224,7 @@ E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in
 
 📺 LIGHTS ARE OFF
 
-👁️ 156K • 👍 11K • 💬 1K • ⏱️ 1:40 • 23h ago
+👁️ 174K • 👍 12K • 💬 1K • ⏱️ 1:40 • 1d ago
 
 ---
 
@@ -254,7 +234,37 @@ War Robots - New robot Vulcan has a built-in laser cannon. On this weekend's tes
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 174 • 💬 41 • ⏱️ 20:10 • 17h ago
+👁️ 4K • 👍 176 • 💬 42 • ⏱️ 20:10 • 22h ago
+
+---
+
+**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
+
+Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
+
+📺 Financial Times
+
+👁️ 26K • 👍 475 • 💬 80 • ⏱️ 5:11 • 4d ago
+
+---
+
+**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
+
+Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
+
+📺 Techie Sapien
+
+👁️ 696K • 👍 5K • 💬 94 • ⏱️ 0:07 • 4d ago
+
+---
+
+**[Arpo the Robot | Nannybot Vs Arpo - Battle of the Bots! | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=KXYp_1XlWr4)**
+
+Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+
+📺 ARPO: The Robot
+
+👁️ 72K • 👍 97 • ⏱️ 1:02:02 • 1d ago
 
 ---
 
@@ -264,7 +274,7 @@ NVIDIA has officially REVEALED the Isaac GR00T Reference Humanoid Robot, a power
 
 📺 DPCcars
 
-👁️ 664 • 👍 22 • 💬 5 • ⏱️ 5:41 • 16h ago
+👁️ 745 • 👍 23 • 💬 5 • ⏱️ 5:41 • 20h ago
 
 ---
 
@@ -274,17 +284,7 @@ Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/p
 
 📺 Farzad
 
-👁️ 85K • 👍 5K • 💬 461 • ⏱️ 23:36 • 18h ago
-
----
-
-**[Building an Unhinged Robot for Michael Reeves (ft. LilyPichu)](https://www.youtube.com/watch?v=DFZcZIEov0k)**
-
-LilyPichu and I try building an unhinged robot for Michael Reeves (with some help). Subscribe ▻ http://bit.ly/Sub2Rae Lily ...
-
-📺 Valkyrae
-
-👁️ 284K • 👍 16K • 💬 397 • ⏱️ 21:44 • 1d ago
+👁️ 90K • 👍 5K • 💬 474 • ⏱️ 23:36 • 23h ago
 
 ---
 

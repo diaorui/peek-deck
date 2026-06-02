@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-02T06:50:00.171929+00:00'
+updated: '2026-06-02T11:18:35.792866+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 02, 2026 at 06:50 UTC  
+**Last Updated:** June 02, 2026 at 11:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,985.69
+### $1,979.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** -0.4%  
 **7d:** -2.2%  
-**30d:** -15.5%  
+**30d:** -15.6%  
 **90d:** -4.4%  
 **1y:** -23.5%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.25B
+**Market Cap:** $238.68B
 Rank #2
 
 **Circulating Supply:** 120,685,138 ETH
@@ -62,7 +62,7 @@ No max supply
 -60.0%
 
 **All-Time Low:** $0.43
-+456998.4%
++456467.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+6h ago
 
 ---
 
@@ -80,7 +80,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am considering converting a few BTC to WBTC to stake. Theorically WBTC is better because I can also earn passive income while 'holding my keys' which is what i'm trying to understand: Is this custodial? more risky or same as USDT? Was there any freeze or issue on it by past?
 
-3h ago
+8h ago
+
+---
+
+**[zk proofs aren't just for rollups. the more interesting use case is verifiable exchange execution](https://www.reddit.com/r/ethereum/comments/1tun93o/zk_proofs_arent_just_for_rollups_the_more/)**
+
+most of the zk conversation in ethereum right now is about rollups. proving block validity, compressing state, bridging trustlessly. all important stuff. but there's a use case that i think is more immediately impactful and barely anyone talks about: using zk proofs to make exchange matching engines verifiable. here's the problem. every CLOB-style DEX runs a matching engine, and almost all of them are black boxes. your order goes in, a fill comes out, and you trust that the engine matched you fairly. you have no way to verify it. even the "decentralized" ones. the matching layer is the single biggest trust surface on any exchange and it's the one nobody can actually check. the fix isn't moving matching fully on-chain. dydx v4 went that direction and you pay for it in throughput, because every fill has to go through consensus. for a CLOB that's a hard ceiling on what you can offer. the more interesting path: keep matching off-chain for speed, but commit batched state transitions with validity proofs. the engine stays fast, but every batch of fills becomes cryptographically verifiable. no fill can be reordered, front-run, or fabricated without the proof failing. you get execution speed and provability without forcing a tradeoff between them. this feels like it matters more for end users than zk rollups honestly. rollups prove that a block was valid. exchange proofs prove that your specific trade was matched correctly. one is infrastructure-level, the other is directly about your money. curious why this isn't getting more attention in the ethereum zk community. is it a tooling problem? a "nobody's built it yet" problem? or does the market just not care enough about execution verifiability yet?
+
+30m ago
+
+---
+
+**[How should new Ethereum L2s avoid becoming liquidity islands at launch?](https://www.reddit.com/r/ethereum/comments/1tui882/how_should_new_ethereum_l2s_avoid_becoming/)**
+
+One thing I have been thinking about with newer Ethereum L2 ecosystems is the gap between “apps can deploy” and “users can actually bring useful liquidity in.” GIWA/GASOK is a good recent example. Teams are building toward mainnet, but the infrastructure question comes pretty early: If a wallet, DEX, lending app, or consumer app launches on a new L2, should each team be responsible for integrating bridges, routing, liquidity sources, and asset variants on its own? That feels like a lot of duplicated work for early app teams. One possible model is shared cross-network execution infrastructure: apps integrate a single SDK, and routing/liquidity access is handled outside the app. SODAX is preparing this kind of setup for GIWA builders, but the broader question applies to any new Ethereum L2. The tradeoffs seem non-trivial: app teams get faster access to multi-network liquidity users avoid manually bridging through several tools the L2 ecosystem may feel less empty at launch but routing, solver behavior, asset representation, and failure modes need to be easy to reason about For people who have built on or around Ethereum L2s: where do you think this responsibility should sit? Should liquidity/access infrastructure be handled by the L2 ecosystem, each individual app, or external execution layers?
+
+5h ago
 
 ---
 
@@ -92,19 +108,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[How should new Ethereum L2s avoid becoming liquidity islands at launch?](https://www.reddit.com/r/ethereum/comments/1tui882/how_should_new_ethereum_l2s_avoid_becoming/)**
-
-One thing I have been thinking about with newer Ethereum L2 ecosystems is the gap between “apps can deploy” and “users can actually bring useful liquidity in.” GIWA/GASOK is a good recent example. Teams are building toward mainnet, but the infrastructure question comes pretty early: If a wallet, DEX, lending app, or consumer app launches on a new L2, should each team be responsible for integrating bridges, routing, liquidity sources, and asset variants on its own? That feels like a lot of duplicated work for early app teams. One possible model is shared cross-network execution infrastructure: apps integrate a single SDK, and routing/liquidity access is handled outside the app. SODAX is preparing this kind of setup for GIWA builders, but the broader question applies to any new Ethereum L2. The tradeoffs seem non-trivial: app teams get faster access to multi-network liquidity users avoid manually bridging through several tools the L2 ecosystem may feel less empty at launch but routing, solver behavior, asset representation, and failure modes need to be easy to reason about For people who have built on or around Ethereum L2s: where do you think this responsibility should sit? Should liquidity/access infrastructure be handled by the L2 ecosystem, each individual app, or external execution layers?
-
-39m ago
-
----
-
 **[More than half of crypto losses in May came from bridge failures](https://www.reddit.com/r/ethereum/comments/1ttsgyv/more_than_half_of_crypto_losses_in_may_came_from/)**
 
 https://preview.redd.it/i9m4zgybco4h1.png?width=2700&format=png&auto=webp&s=81f871e9f78b945ff86a1550d8d572929d906bcb We tracked 28 publicly disclosed exploits in May 2026, resulting in $51.9M in losses. What stood out wasn't the total amount lost. It was where the losses came from. Bridge-related incidents accounted for roughly 54% of all stolen funds. The interesting part is that these weren't the same vulnerability repeated: • Verification bypasses • TSS implementation failures • State poisoning attacks • Cross-chain message validation flaws Different architectures. Different codebases. Same outcome. Bridge security continues to be one of the most expensive unsolved problems in crypto. What do you think is driving bridges to remain such a frequent target despite the industry's continued focus on security?
 
-17h ago
+21h ago
 
 ---
 
@@ -112,7 +120,7 @@ https://preview.redd.it/i9m4zgybco4h1.png?width=2700&format=png&auto=webp&s=81f8
 
 Right now, big companies are racing to deploy autonomous agents into the world with almost no audits, no real safeguards, and known vulnerabilities such as prompt injection and AI jailbreak. The result? DAOs and Web3 protocols are bleeding billions from automated exploits and uncontrolled agent actions. I gave my years to FinTech not for it to get filled with slop, but to provide democratic access to financial services. So, we’re fixing this. My team (with backgrounds from the world’s top %1 financial institutions) is building a governance protocol that brings strict, enforceable rules to autonomous AI workflows: starting with DeFi. Think of it as on-chain guardrails + auditability + human-in-the-loop controls for agentic systems. Safe agentic AI, not reckless AI. We’re currently in early-stage development and are actively looking for a strong technical developer to help us build the architecture (considering base primarily), iterate over the product, and build an MVP to collect early traction. If you’re deeply experienced in web3 and smart contract architectures, lets connect
 
-13h ago
+18h ago
 
 ---
 
@@ -120,7 +128,7 @@ Right now, big companies are racing to deploy autonomous agents into the world w
 
 I used to think the plan was threefold: (1) a big economy that burns fees in ETH, (2) being the best store of value, and (3) constantly updating our views and improving the tech. I'd like to revisit each with what we know today. Asking in good faith as a holder. 1. A big economy that burns fees in ETH Fees are tiny right now. Is the plan ever going to change that? If the entire stock-trading market moved onto Ethereum, would the fees still be negligible? Is there a scenario where the fees actually make a difference — and is it realistic? 2. The best store of value What are the main differentiators from Bitcoin and Zcash? Quantum resistance? Privacy plus more functionality than Zcash? 3. We keep updating our views and improving the tech Money is a technology, and technologies get outdated and need new features (e.g. quantum resistance). The EF isn't self-sustainable, and by its own framing the goal is to step aside over time. So is there any self-sustaining entity responsible for keeping ETH the best and most up-to-date tech — or who actually owns that long game?
 
-19h ago
+23h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion May 30, 2026](https://www.reddit.com/r/ethereum/comments/1trqcd4/daily_general_discussion_may_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,15 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In a research post published Monday, Buterin proposed creating index-tracking assets using options contracts rather than the debt-based structures that underpin much of DeFi today.
 
-CoinDesk • 13h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-52-162525573.html)**
+**[BMNR Stock Slips After Bitmine Buys Ethereum Dip – Retail Demands 'HYPE-PURR-Style' Rally](https://finance.yahoo.com/markets/crypto/articles/bmnr-stock-slips-bitmine-buys-132744133.html)**
 
-A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
+Bitmine announced a fresh purchase of more than 26,000 Ethereum tokens on Monday.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -180,7 +180,31 @@ Forbes • 2d ago
 
 Fundstrat’s Tom Lee said on Monday that the recent slump in crypto has triggered “rage quitting” among investors in response to Mark Cuban’s reported decision to sell off his Bitcoin (BTC) holdings.Bitmine Immersion Technologies (BMNR) Chairman Lee, speaking on CNBC’s SquawkBox, partly agreed when…
 
-TradingView • 18h ago
+TradingView • 22h ago
+
+---
+
+**[Ethereum Meme Coin Little Pepe (LILPEPE) Nearly Sells Out Presale, Tops $28 Million Raised](https://markets.businessinsider.com/news/stocks/ethereum-meme-coin-little-pepe-lilpepe-nearly-sells-out-presale-tops-28-million-raised-1036215203)**
+
+DUBAI, United Arab Emirates, June  01, 2026  (GLOBE NEWSWIRE) -- Little Pepe (LILPEPE), an Ethereum-based Layer 2 blockchain project combining mem...
+
+markets.businessinsider.com • 10h ago
+
+---
+
+**[Current price of Ethereum for June 1, 2026](https://fortune.com/article/price-of-ethereum-06-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
+
+---
+
+**[Insider Reveals Real Reason Ethereum Is Down 65% vs Bitcoin Since The Merge](https://beincrypto.com/ethereum-65-percent-down-bitcoin-merge/)**
+
+An Ethereum insider blames the 65% drop versus Bitcoin since the Merge on execution debt, not market cycles.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -192,43 +216,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Crypto News Today: AlphaPepe Presale Hits $1.43M While Ethereum Price Prediction Eyes $10K](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-hits-1-43m-while-ethereum-price-prediction-eyes-10k-1036210256)**
-
-MONACO CITY, Monaco, May  31, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the project announced that its presale...
-
-markets.businessinsider.com • 1d ago
-
----
-
-**[Current price of Ethereum for June 1, 2026](https://fortune.com/article/price-of-ethereum-06-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
-
----
-
-**[Bitwise leads Solana spot ETFs with $80M in May inflows as Bitcoin and Ethereum bleed capital](https://cryptobriefing.com/bitwise-solana-etf-inflows-may/)**
-
-Bitwise's BSOL fund captured $80M of the $115M in Solana spot ETF inflows during May, the category's best month in six, as Bitcoin and Ethereum ETFs saw outflows.
-
-Crypto Briefing • 14h ago
-
----
-
 **[Failed Ethereum ICO from 2016 just unlocked 1,003 ETH by exploiting itself](https://cryptoslate.com/failed-ethereum-ico-from-2016-just-unlocked-1003-eth-by-exploiting-itself/)**
 
 A failed Ethereum ICO from 2016 unlocked 1,003 ETH after a self-exploit exposed a flaw in its own smart contract.
 
-CryptoSlate • 15h ago
+CryptoSlate • 19h ago
 
 ---
 
-**[Ethereum price prediction: ETH to $4,500 by year-end 2026](https://financefeeds.com/ethereum-price-prediction-eth-4500-year-end-2026/)**
+**[Tom Lee's BitMine Stock At Risk As Ethereum ETF Outflows Jump, Network Stats Fall - BitMine Immersion (NY](https://www.benzinga.com/crypto/26/05/52893379/tom-lees-bitmine-stock-at-risk-as-ethereum-etf-outflows-jump-network-stats-fall)**
 
-Ethereum price prediction: a base case of $4,500 by year-end 2026 as a yield-bearing staking-ETF bid drains ETH supply — plus the four signals that break it.
+Tom Lee's BitMine Immersion Technologies (NYSE:BMNR) stock has crashed to a crucial support level, and the ongoing Ethereum performance suggests that it may
 
-FinanceFeeds • 19h ago
+Benzinga • 2d ago
 
 ---
 
@@ -236,33 +236,13 @@ FinanceFeeds • 19h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Is Ethereum The Biggest Scam In Crypto](https://www.youtube.com/watch?v=iZg-fVH2MO4)**
+**[Is the Bitcoin Thesis Broken? Tom Lee Weighs In](https://www.youtube.com/watch?v=NQuKKchNTu4)**
 
-Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Tom Lee joins 'Squawk Box' to discuss the latest market trends, impact of AI, market outlook, state of crypto, and more.
 
-📺 Lark Davis
+📺 Fundstrat
 
-👁️ 15K • 👍 749 • 💬 222 • ⏱️ 7:50 • 2d ago
-
----
-
-**[🛑TRUMP IRAN🛑 XRP BTC ETH BAD NEWS](https://www.youtube.com/watch?v=6jOYuaOqLk8)**
-
-xrp #bitcoin #hbar #xlm #eth Quality or Cheap merch, you vote here     ...
-
-📺 CRYPTO with KLAUS
-
-👁️ 4K • 👍 312 • 💬 77 • ⏱️ 13:29 • 11h ago
-
----
-
-**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=FzRg5udtTFI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 25K • 👍 676 • 💬 124 • ⏱️ 18:46 • 2d ago
+👁️ 43K • 👍 967 • 💬 290 • ⏱️ 7:41 • 21h ago
 
 ---
 
@@ -272,27 +252,37 @@ Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, t
 
 📺 The Rollup
 
-👁️ 12K • 👍 341 • 💬 104 • ⏱️ 36:57 • 2d ago
+👁️ 12K • 👍 345 • 💬 106 • ⏱️ 36:57 • 2d ago
 
 ---
 
-**[🚨 I Found The Next Ethereum, And It&#39;s Still EARLY!!!!](https://www.youtube.com/watch?v=PoCeckbaMew)**
+**[Is Ethereum The Biggest Scam In Crypto](https://www.youtube.com/watch?v=iZg-fVH2MO4)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Kid
+📺 Lark Davis
 
-👁️ 4K • 👍 248 • 💬 46 • ⏱️ 12:58 • 1d ago
+👁️ 15K • 👍 751 • 💬 223 • ⏱️ 7:50 • 2d ago
 
 ---
 
-**[Why ETH Can ACTUALLY Bottom Here (Ethereum Update)](https://www.youtube.com/watch?v=SMjsS1nsCUM)**
+**[My Ethereum ETH Price Prediction for June 2026](https://www.youtube.com/watch?v=coIysqHtTjQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
 
-📺 Cilinix Crypto
+📺 Altcoin Doctor
 
-👁️ 527 • 👍 18 • 💬 2 • ⏱️ 4:56 • 21h ago
+👁️ 73 • 👍 3 • ⏱️ 8:17 • 1d ago
+
+---
+
+**[We could see some of the biggest stock market gains in our lifetime after 2026: Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=gpxPwY5apDg)**
+
+Tom Lee, Fundstrat managing partner and head of research, and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest ...
+
+📺 CNBC Television
+
+👁️ 243K • 👍 3K • 💬 713 • ⏱️ 9:01 • 23h ago
 
 ---
 
@@ -302,7 +292,27 @@ Bitcoin is sitting at a PIVOTAL support level — and the chart is forming what 
 
 📺 Gareth Soloway
 
-👁️ 50K • 👍 3K • 💬 149 • ⏱️ 13:11 • 1d ago
+👁️ 51K • 👍 3K • 💬 151 • ⏱️ 13:11 • 1d ago
+
+---
+
+**[🛑TRUMP IRAN🛑 XRP BTC ETH BAD NEWS](https://www.youtube.com/watch?v=6jOYuaOqLk8)**
+
+xrp #bitcoin #hbar #xlm #eth Quality or Cheap merch, you vote here     ...
+
+📺 CRYPTO with KLAUS
+
+👁️ 4K • 👍 316 • 💬 89 • ⏱️ 13:29 • 16h ago
+
+---
+
+**[Bitcoin &amp; Ethereum at Key Support: Is the Crypto Bounce Coming?](https://www.youtube.com/watch?v=63VYWs9GuNs)**
+
+Head Trader Benjamin Poole breaks down key support levels and bounce setups across four major crypto charts — Bitcoin, ...
+
+📺 Verified Pro Traders
+
+👁️ 2K • 👍 212 • 💬 33 • ⏱️ 9:19 • 13h ago
 
 ---
 
@@ -312,27 +322,17 @@ Before Ethereum existed, Vitalik applied to work at Ripple and even stayed on CT
 
 📺 CoinGecko
 
-👁️ 1K • 👍 89 • 💬 60 • ⏱️ 2:55 • 20h ago
+👁️ 1K • 👍 90 • 💬 9 • ⏱️ 2:55 • 1d ago
 
 ---
 
-**[Is ETHEREUM Officially F*cked?](https://www.youtube.com/watch?v=o_0RLQofzmc)**
+**[NEAR&#39;s rejected Ethereum pitch #shorts](https://www.youtube.com/watch?v=g0HQagqlsQM)**
 
-Ethereum's price is stuck exactly where it was five years ago while tech stocks leave it in the dust. Has the ultimate crypto narrative ...
+New Uneasy Money: Illia Polosukhin recounts pitching NEAR's tech to the Ethereum Foundation, getting turned down on funding, ...
 
-📺 Lark Davis
+📺 Unchained
 
-👁️ 12K • 👍 186 • 💬 38 • ⏱️ 1:19 • 2d ago
-
----
-
-**[Ethereum BEST ENTRY Incoming? How To Find The Bear Market Bottom!](https://www.youtube.com/watch?v=brofQEJ4krE)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 282 • 👍 18 • 💬 1 • ⏱️ 5:57 • 13h ago
+👁️ 291 • 👍 7 • ⏱️ 1:13 • 1d ago
 
 ---
 
