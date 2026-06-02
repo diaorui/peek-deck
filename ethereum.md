@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-02T11:18:35.792866+00:00'
+updated: '2026-06-02T15:41:26.753287+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 02, 2026 at 11:18 UTC  
+**Last Updated:** June 02, 2026 at 15:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,979.72
+### $1,898.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -2.2%  
-**30d:** -15.6%  
-**90d:** -4.4%  
-**1y:** -23.5%  
+**24h:** -3.5%  
+**7d:** -5.8%  
+**30d:** -18.7%  
+**90d:** -8.0%  
+**1y:** -26.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.68B
+**Market Cap:** $228.94B
 Rank #2
 
 **Circulating Supply:** 120,685,138 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.0%
+-61.6%
 
 **All-Time Low:** $0.43
-+456467.2%
++438805.8%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
-
----
-
-**[Is WBTC safe?](https://www.reddit.com/r/ethereum/comments/1tuejlb/is_wbtc_safe/)**
-
-I am considering converting a few BTC to WBTC to stake. Theorically WBTC is better because I can also earn passive income while 'holding my keys' which is what i'm trying to understand: Is this custodial? more risky or same as USDT? Was there any freeze or issue on it by past?
-
-8h ago
+10h ago
 
 ---
 
@@ -88,7 +80,51 @@ I am considering converting a few BTC to WBTC to stake. Theorically WBTC is bett
 
 most of the zk conversation in ethereum right now is about rollups. proving block validity, compressing state, bridging trustlessly. all important stuff. but there's a use case that i think is more immediately impactful and barely anyone talks about: using zk proofs to make exchange matching engines verifiable. here's the problem. every CLOB-style DEX runs a matching engine, and almost all of them are black boxes. your order goes in, a fill comes out, and you trust that the engine matched you fairly. you have no way to verify it. even the "decentralized" ones. the matching layer is the single biggest trust surface on any exchange and it's the one nobody can actually check. the fix isn't moving matching fully on-chain. dydx v4 went that direction and you pay for it in throughput, because every fill has to go through consensus. for a CLOB that's a hard ceiling on what you can offer. the more interesting path: keep matching off-chain for speed, but commit batched state transitions with validity proofs. the engine stays fast, but every batch of fills becomes cryptographically verifiable. no fill can be reordered, front-run, or fabricated without the proof failing. you get execution speed and provability without forcing a tradeoff between them. this feels like it matters more for end users than zk rollups honestly. rollups prove that a block was valid. exchange proofs prove that your specific trade was matched correctly. one is infrastructure-level, the other is directly about your money. curious why this isn't getting more attention in the ethereum zk community. is it a tooling problem? a "nobody's built it yet" problem? or does the market just not care enough about execution verifiability yet?
 
-30m ago
+4h ago
+
+---
+
+**[Dutch crypto broker Knaken (Rotterdam) abruptly shuts down, customers locked out of funds. This is why self-custody matters.](https://www.reddit.com/r/ethereum/comments/1tuu8gn/dutch_crypto_broker_knaken_rotterdam_abruptly/)**
+
+17m ago
+
+---
+
+**[Decentralized* Storage in a Plywood Box: ETHPrague Day One](https://www.reddit.com/r/ethereum/comments/1tuqou6/decentralized_storage_in_a_plywood_box_ethprague/)**
+
+(* Not actually decentralized) Day One of ETHPrague My home for the next four nights is a capsule in a constellation of plywood. A Prague hostel has converted bunk-bed rooms into a capsule hotel, filling the room with ten interlocking plywood pods. Each room has a toilet, a shower and two sinks. The rooms share a small kitchen that reeks of ramen spice packets. This looks to be a clever move by the hostel: off season, over half the capsules are full and probably at twice the price that a single bunk bed would have gone for. The capsules are snug: an entrance with a short bench and a mirror and just enough room to stash my suitcase, as long as I have no intention of opening it. I need to step onto the bench to hoist up to the single mattress. My neighbour's bed intersects like a backwards Tetris piece but our privacy is complete other than the shared spaces. The following day I take a tram to Náměstí Republiky where people are already setting up their stands with cocktails and grilled sausages. The flashy Art Nouveau Municipal House is grafted onto a medieval wall, sitting uncomfortably next to the medieval Gothic tower at the boundary of Old Town and New Town. The Art Nouveau building built in 1912 on the site of the former Royal Court palace seems altogether too imposing for a crypto-conference. Two sculptures by Ladislav Šaloun flank the entrance: The Degradation of the People and The Resurrection of the People. Perhaps we are in the right place after all. https://preview.redd.it/9xuwmr8hcv4h1.jpg?width=2542&format=pjpg&auto=webp&s=aa6bb3aa4edf2dcca7a32691ece3c593a7ee7bd9 I join the t-shirted backpacked crowd and walk in. We gather in the "hacker space", Smetana Hall. Small tables fill the space under the domed stained-glass-and-steel ceiling. Mirrors sparkle with the light from gilded lamps. At the far end of the space is a stage with a massive organ of almost 5,000 pipes and two more sculptures. This is the actual room where Czechoslovak independence was proclaimed in 1918. After the opening speeches, the hackers will occupy this space. I can't help wishing that I was a hacker, dedicating the next seventy-two hours to creating something in this ornate hall. https://preview.redd.it/32zerkyjcv4h1.jpg?width=3184&format=pjpg&auto=webp&s=d48961b3ae34a702d9ef2ecf0016a7a7d7c375ff The first talk I attend is Emilien Duc of DeFiScan with the alarming title of How Many People Can Rug You?. He declares 2026 the year of preventable losses, with a common factor of off-chain failures. The problem is we treat "decentralized" as a buzzword, rather than a measurable metric. We need to look at who actually controls the protocol behind the scenes. This misuse of DeFi (Decentralized Finance) is a key theme throughout the conference. Duc's point is that most DeFi today still depends on small groups of admins/keyholders behind the scenes. A quick search tells me that the industry standard is 4-of-7 or 5-of-9 multisig set up, which fits in with his average of seven admins per smart contract. https://preview.redd.it/p4i81o9pcv4h1.jpg?width=3112&format=pjpg&auto=webp&s=a006c2d7355e84aef7137ab500be4bd9dec28438 The answer to the question of how many people, by the way, is that it only takes four or five keyholders to rug you on most platforms. We're mostly just trusting a handful of guys in group chat. Next up is Sem with How we hacked TheDAO, again, relating the 2016 hack that broke DAO and led to an Ethereum fork. The story of how they decided to use the same exploit to recover funds, waiting to see if anyone else spotted them and got there first, was truly gripping. The Crypto regulation and banks panel focuses on the intersection of cryptocurrency regulation and decentralized finance. Czech politician Ondřej Kovařík and Raiffeisenbank's Product Owner for crypto-initiatives Tomáš Piškule speak to Ondrej Pilny, the head of Ecosystem Growth at Gnosis. They discuss the state of DeFi, MiCA regulation, stablecoins as a simple vehicle to transfer value, and the state of legislation. Both predict high crypto adoption in the banks in five years. Most exciting point: Agentic commerce will not happen without stable coins. If this is happening and people will start regularly using any kind of agents to carry out transactions on the internet for them, it will all happen on blockchain rails. https://preview.redd.it/t0q04aqtcv4h1.jpg?width=2691&format=pjpg&auto=webp&s=e8ba6c441a391a4f57b371032ee917e99cb7f4a2 Unlocking AI Agentic UX with Google’s AP2 Standard and the x402 Protocol by Ben Greenberg, a senior dev/rel at Arbitrum, is surprisingly accessible: agents on the web are the new interface and we need to optimize for them. They are even more impatient than humans, who will quietly wait 3-4 seconds for a site to load, and they have difficulties paying. This is where the x402 protocol comes in. I need a break. Ben is standing in the corridor and I join the conversation; we talk about travel and cruise ships and porn. I miss a talk on Optimizing Yield While Prioritizing Safety. Stanislaw Šimek speaks on The Future of DeFi: From the Trenches and the Law, giving Web3 projects a clear decision point: are you tradfi and regulated or are you permissionless? Because, he warns, the current middle ground of pretending to be decentralized to avoid regulation will not survive. If the cocktails were less expensive, I would be getting a drink every time someone told us that most DeFi isn't. Instead I sneak out to have some lunch at Náměstí Republiky which, I notice, has cheaper cocktails available in a variety of stalls. I dismiss the idea of running out of Municipal House every time someone complains about the mis-use of DeFi and settle for some food. I return to the fray for editor Macauley Peterson on When tokens meet reality: why crypto needs disclosure standards. Peterson tells us about the original innovation of trading securities on Wall Street, and twenty-five years later, those traders wrote a constitution and formed what would become the New York Stock Exchange. The Securities Exchange Act, the Chicago Board of Trade and the Futures Act show that same trend: members of a community instituting formal trading strategies and contract standardization. And yet, now, the people who understand the technology are hanging back. The question is whether they will step in to create industry-led standards or continue to allow people who don't understand it to create regulation. I may not be in that group of those who understand the technology but I am hugely motivated by the talks on this first day, loving that feeling that every person can make a difference. https://preview.redd.it/sadw5h62dv4h1.jpg?width=2877&format=pjpg&auto=webp&s=b502c4622b4df6a15e3c0c71f207bc719c232dac Tobias Schreier's talk is a battle cry: Show Me the Users! A Data-Driven Reality Check. He shows us chewy stats from growthepie that show that Ethereum and L2 usage is still heavily dominated by basic financial speculation. The most startling stat: 75% of Polygon fees are coming from users interacting with Polymarket? What happens when they move? But growthepie also shows us real-world traction, for example a shift towards non-USD stablecoins such as EuroC and the Swiss CHF-based Frankencoin that you can use to pay for your cheap groceries at SPAR. By now, the planned presentations are diverging quite a bit from the schedule, especially for those of us changing rooms every 25 minutes, and I dash in late for Monetizing Crazy Times with Prediction Markets by Swiss lawyer Anne-Grace Kleczewski. She convinces me with a single quote: "Greatly designed beliefs certainly contribute to crowd intelligence, but poorly designed ones are merely depicting attempts at making some quick money." Between the three tracks of talks, people gather out on the balcony, standing in the sunshine overlooking the tourists. The conversations swirl around me. "I'm not with them any more but I'm still in Portugal, co-living there, looking for opportunities." "People are saying the old location was better but I like this. It feels like the real Prague." "Yeah, I'm back in Berlin, got a one-year-old daughter, so that's grounding me." "I tell them that they all need x402 but to be honest, I'm not that technical." "I got a gun. Accidentally. It's not a bug, it's a feature." I go back inside. I get back into synch with Who Owns Attention in a Decentralised Future? Toward Value-Aligned Recommendation Systems by Alexander Trauth-Goik, who explains algorithmic curation in surveillance capitalism and that we are being tricked into believing that invasion of our privacy and the fracturing of our attention is a necessary price to taking part in social media. "Do we want recommendation algorithms and technology in general to hijack and undermine our psychological vulnerabilities, or to empower and elevate the better angels of our nature?" Recommendation algorithms could be giving us information that better serve our long-term interests and goals. Veronika Civínová gives us a surprising angle with Practical challenges of EU laws: from climate to crypto. Civínová argues that while the media frames crypto and climate regulations as being in direct conflict, crypto actually fits beautifully into the broader definition of "sustainability." By looking past just environmental impact to include social and corporate governance pillars (like community focus and superior business conduct), crypto can prove it's sustainable, provided it doesn't "significantly harm" the environment. It's only ten past six but I feel like I've already experienced three days of conference into one. I wander aimlessly around Municipal House, sipping water and looking up at the ornate ceilings and dangling chandeliers. Then I walk home, stopping for a hearty meal at a quiet restaurant on the way. One beer at the hostel bar and I have to admit that I'm ready for bed. I snuggle into my plywood pod, head full of ideas. My neighbor enters his pod, slamming the door behind him, shaking the entire unit of four. I consider banging on the wall, annoying everyone with my hiss of "can you keep it down???" but while I'm still considering how to respond in a way that doesn't make things worse, my eyes flutter shut and I fall asleep. --- This series was supported through the generosity of the Peacock Foundation. Tomorrow: I am reminded once again that my greatest vulnerability isn't code. It's me.
+
+2h ago
+
+---
+
+**[Is WBTC safe?](https://www.reddit.com/r/ethereum/comments/1tuejlb/is_wbtc_safe/)**
+
+I am considering converting a few BTC to WBTC to stake. Theorically WBTC is better because I can also earn passive income while 'holding my keys' which is what i'm trying to understand: Is this custodial? more risky or same as USDT? Was there any freeze or issue on it by past?
+
+12h ago
+
+---
+
+**[A new way to fund open source with Ethereum at the core](https://www.reddit.com/r/ethereum/comments/1tuqq7t/a_new_way_to_fund_open_source_with_ethereum_at/)**
+
+Open source software does not have to choose between user freedom and sustainable funding. By combining GPL licensing with paid entitlements to the official service path, projects can keep the code forkable while making it rational for serious users to fund the shared infrastructure they depend on.
+
+🔗 [jthor.eth](https://jthor.eth.link/blog/2026/06/01/new-funding-model-for-open-source/) • 2h ago
+
+---
+
+**[Dev Tools Guild May 2026 update](https://www.reddit.com/r/ethereum/comments/1tuobq1/dev_tools_guild_may_2026_update/)**
+
+**TL;DR**: TheDAO Security Fund Ethereum security quadratic funding round results, Vyper 0.5.0 alpha prereleases, and pattern matching in Core Solidity.
+
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-may-2026-update) • 4h ago
+
+---
+
+**[r/BASE FOUNDER 'AMA' SERIES: 'Charms' Join us 7pm UTC Tues 2nd June](https://www.reddit.com/r/ethereum/comments/1tuq4jy/rbase_founder_ama_series_charms_join_us_7pm_utc/)**
+
+2h ago
 
 ---
 
@@ -96,7 +132,7 @@ most of the zk conversation in ethereum right now is about rollups. proving bloc
 
 One thing I have been thinking about with newer Ethereum L2 ecosystems is the gap between “apps can deploy” and “users can actually bring useful liquidity in.” GIWA/GASOK is a good recent example. Teams are building toward mainnet, but the infrastructure question comes pretty early: If a wallet, DEX, lending app, or consumer app launches on a new L2, should each team be responsible for integrating bridges, routing, liquidity sources, and asset variants on its own? That feels like a lot of duplicated work for early app teams. One possible model is shared cross-network execution infrastructure: apps integrate a single SDK, and routing/liquidity access is handled outside the app. SODAX is preparing this kind of setup for GIWA builders, but the broader question applies to any new Ethereum L2. The tradeoffs seem non-trivial: app teams get faster access to multi-network liquidity users avoid manually bridging through several tools the L2 ecosystem may feel less empty at launch but routing, solver behavior, asset representation, and failure modes need to be easy to reason about For people who have built on or around Ethereum L2s: where do you think this responsibility should sit? Should liquidity/access infrastructure be handled by the L2 ecosystem, each individual app, or external execution layers?
 
-5h ago
+9h ago
 
 ---
 
@@ -108,46 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[More than half of crypto losses in May came from bridge failures](https://www.reddit.com/r/ethereum/comments/1ttsgyv/more_than_half_of_crypto_losses_in_may_came_from/)**
-
-https://preview.redd.it/i9m4zgybco4h1.png?width=2700&format=png&auto=webp&s=81f871e9f78b945ff86a1550d8d572929d906bcb We tracked 28 publicly disclosed exploits in May 2026, resulting in $51.9M in losses. What stood out wasn't the total amount lost. It was where the losses came from. Bridge-related incidents accounted for roughly 54% of all stolen funds. The interesting part is that these weren't the same vulnerability repeated: • Verification bypasses • TSS implementation failures • State poisoning attacks • Cross-chain message validation flaws Different architectures. Different codebases. Same outcome. Bridge security continues to be one of the most expensive unsolved problems in crypto. What do you think is driving bridges to remain such a frequent target despite the industry's continued focus on security?
-
-21h ago
-
----
-
-**[Building Security for Agentic AI in DeFi: Looking for a CTO / Blockchain Dev](https://www.reddit.com/r/ethereum/comments/1ttygz0/building_security_for_agentic_ai_in_defi_looking/)**
-
-Right now, big companies are racing to deploy autonomous agents into the world with almost no audits, no real safeguards, and known vulnerabilities such as prompt injection and AI jailbreak. The result? DAOs and Web3 protocols are bleeding billions from automated exploits and uncontrolled agent actions. I gave my years to FinTech not for it to get filled with slop, but to provide democratic access to financial services. So, we’re fixing this. My team (with backgrounds from the world’s top %1 financial institutions) is building a governance protocol that brings strict, enforceable rules to autonomous AI workflows: starting with DeFi. Think of it as on-chain guardrails + auditability + human-in-the-loop controls for agentic systems. Safe agentic AI, not reckless AI. We’re currently in early-stage development and are actively looking for a strong technical developer to help us build the architecture (considering base primarily), iterate over the product, and build an MVP to collect early traction. If you’re deeply experienced in web3 and smart contract architectures, lets connect
-
-18h ago
-
----
-
-**[What's the actual plan for ETH to be valuable?](https://www.reddit.com/r/ethereum/comments/1ttppgw/whats_the_actual_plan_for_eth_to_be_valuable/)**
-
-I used to think the plan was threefold: (1) a big economy that burns fees in ETH, (2) being the best store of value, and (3) constantly updating our views and improving the tech. I'd like to revisit each with what we know today. Asking in good faith as a holder. 1. A big economy that burns fees in ETH Fees are tiny right now. Is the plan ever going to change that? If the entire stock-trading market moved onto Ethereum, would the fees still be negligible? Is there a scenario where the fees actually make a difference — and is it realistic? 2. The best store of value What are the main differentiators from Bitcoin and Zcash? Quantum resistance? Privacy plus more functionality than Zcash? 3. We keep updating our views and improving the tech Money is a technology, and technologies get outdated and need new features (e.g. quantum resistance). The EF isn't self-sustainable, and by its own framing the goal is to step aside over time. So is there any self-sustaining entity responsible for keeping ETH the best and most up-to-date tech — or who actually owns that long game?
-
-23h ago
-
----
-
-**[Unencrypting private keys from keystore file and password](https://www.reddit.com/r/ethereum/comments/1ttddvd/unencrypting_private_keys_from_keystore_file_and/)**
-
-Sorry if this sounds basic. This isn’t a “I lost my keys” post. Back in the early days I had an Ethereum wallet. It required you run a full node of ETH using geth on your machine starting with downloading the entire chain. You had your public keys and your private keys were stored in an encrypted keystore file. This wallet software now seems defunct and few want to DL the entire chain now anyway. To make a paper wallet, how would I “recover”/unencrypt my private keys from the keystore file and my password? DMs on the subject will be ignored.
-
-1d ago
-
----
-
-**[Daily General Discussion May 31, 2026](https://www.reddit.com/r/ethereum/comments/1tslsdo/daily_general_discussion_may_31_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,15 +152,47 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In a research post published Monday, Buterin proposed creating index-tracking assets using options contracts rather than the debt-based structures that underpin much of DeFi today.
 
-CoinDesk • 18h ago
+CoinDesk • 22h ago
 
 ---
 
-**[BMNR Stock Slips After Bitmine Buys Ethereum Dip – Retail Demands 'HYPE-PURR-Style' Rally](https://finance.yahoo.com/markets/crypto/articles/bmnr-stock-slips-bitmine-buys-132744133.html)**
+**[Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-52-162525573.html)**
 
-Bitmine announced a fresh purchase of more than 26,000 Ethereum tokens on Monday.
+A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX](https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx)**
+
+Institutional investors are ditching range-bound bitcoin and ether for Hyperliquid as the decentralized platform wins over hedge funds with massive liquidity and early access to hot markets, according to Joshua Lim, head of markets at FalconX.
+
+CoinDesk • 29m ago
+
+---
+
+**[Bitcoin and ethereum prices today, June 2, 2026: Bitcoin's lowest open since April, prices falling further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-june-2-2026-bitcoins-lowest-open-since-april-prices-falling-further-132451193.html)**
+
+Bitcoin opened at $71,320.49 today, down 3.1% from yesterday’s opening price. The price of bitcoin fell further,  reaching $68,936.01 as of 8:57 a.m. Ethereum opened at $2,003.78, flat compared to yesterday’s opening price. The price of ethereum was fell as well this morning, moving to $1,972.99 as of 8:57 a.m. ET.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin’s Crash Below $70K Wipes Out $800M, While ETF Outflows Hit 11-Day Record](https://www.tradingview.com/news/stocktwits:77cd126e0094b:0-bitcoin-s-crash-below-70k-wipes-out-800m-while-etf-outflows-hit-11-day-record/)**
+
+Bitcoin’s (BTC) price fell below $70,000 on Tuesday morning, wiping out nearly $800 million in leveraged crypto traders in the last 24 hours amid escalating outflows from spot BTC exchange-traded funds.Bitcoin’s price was trading at around $69,400 at the time of writing, down 4.4% in the last 24 ho…
+
+TradingView • 3h ago
+
+---
+
+**[Ethereum staking rate hits all-time high of 32.42%: Supply tightens, price falls](https://seekingalpha.com/news/4599700-ethereum-staking-rate-hits-all-time-high-of-3242-supply-tightens-price-falls)**
+
+Ethereum staking hits a record 32% with 39M ETH locked, shrinking supply amid volatility and big liquidations.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -176,11 +204,19 @@ Forbes • 2d ago
 
 ---
 
-**[Tom Lee Says Crypto Investors Are 'Rage Quitting' After Mark Cuban Dumped All His Bitcoin](https://www.tradingview.com/news/stocktwits:1a7ecbe0f094b:0-tom-lee-says-crypto-investors-are-rage-quitting-after-mark-cuban-dumped-all-his-bitcoin/)**
+**[Crypto Crash Alert: Why Tom Lee Remains Bullish For Bitcoin and Ethereum](https://coinpedia.org/news/crypto-crash-alert-why-tom-lee-remains-bullish-for-bitcoin-and-ethereum/)**
 
-Fundstrat’s Tom Lee said on Monday that the recent slump in crypto has triggered “rage quitting” among investors in response to Mark Cuban’s reported decision to sell off his Bitcoin (BTC) holdings.Bitmine Immersion Technologies (BMNR) Chairman Lee, speaking on CNBC’s SquawkBox, partly agreed when…
+The crypto market is seeing renewed volatility, with Bitcoin trading at around $70,722 after falling 4.23% in just 16 hours. Ethereum is hovering near
 
-TradingView • 22h ago
+Coinpedia • 10h ago
+
+---
+
+**[Current price of Ethereum for June 2, 2026](https://fortune.com/article/price-of-ethereum-06-02-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -188,47 +224,7 @@ TradingView • 22h ago
 
 DUBAI, United Arab Emirates, June  01, 2026  (GLOBE NEWSWIRE) -- Little Pepe (LILPEPE), an Ethereum-based Layer 2 blockchain project combining mem...
 
-markets.businessinsider.com • 10h ago
-
----
-
-**[Current price of Ethereum for June 1, 2026](https://fortune.com/article/price-of-ethereum-06-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
-
----
-
-**[Insider Reveals Real Reason Ethereum Is Down 65% vs Bitcoin Since The Merge](https://beincrypto.com/ethereum-65-percent-down-bitcoin-merge/)**
-
-An Ethereum insider blames the 65% drop versus Bitcoin since the Merge on execution debt, not market cycles.
-
-BeInCrypto • 1d ago
-
----
-
-**[Skip XRP and Buy This Top Cryptocurrency Instead](https://www.fool.com/investing/2026/05/30/skip-xrp-and-buy-this-top-cryptocurrency-instead/)**
-
-If history is any guide, investors should be buying Ethereum, not XRP, right now.
-
-The Motley Fool • 2d ago
-
----
-
-**[Failed Ethereum ICO from 2016 just unlocked 1,003 ETH by exploiting itself](https://cryptoslate.com/failed-ethereum-ico-from-2016-just-unlocked-1003-eth-by-exploiting-itself/)**
-
-A failed Ethereum ICO from 2016 unlocked 1,003 ETH after a self-exploit exposed a flaw in its own smart contract.
-
-CryptoSlate • 19h ago
-
----
-
-**[Tom Lee's BitMine Stock At Risk As Ethereum ETF Outflows Jump, Network Stats Fall - BitMine Immersion (NY](https://www.benzinga.com/crypto/26/05/52893379/tom-lees-bitmine-stock-at-risk-as-ethereum-etf-outflows-jump-network-stats-fall)**
-
-Tom Lee's BitMine Immersion Technologies (NYSE:BMNR) stock has crashed to a crucial support level, and the ongoing Ethereum performance suggests that it may
-
-Benzinga • 2d ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -236,73 +232,43 @@ Benzinga • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[The Billion Dollar Plan To Save Ethereum](https://www.youtube.com/watch?v=U0qHKPoSqHs)**
+
+Ethereum's lead researcher says the Foundation is broken and proposes a $1 billion ETH advocacy fund. We break down his plan ...
+
+📺 Coin Bureau
+
+👁️ 2K • 👍 186 • 💬 27 • ⏱️ 17:48 • 1h ago
+
+---
+
+**[WHY ETH WILL SURPRISE EVERYONE! (Ethereum Update)](https://www.youtube.com/watch?v=AS2o_Yy1cAA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 446 • 👍 26 • ⏱️ 4:17 • 5h ago
+
+---
+
+**[This Is &quot;Just The Beginning&quot; For XRP Bitcoin Ethereum SUPERCYCLE &amp; Cardano ADA Begins To Collapse](https://www.youtube.com/watch?v=f8XivNTF0rs)**
+
+Investors will only wait so long before they begin to move onto bigger and better blockchains. As we enter a brand new era is ...
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 547 • 💬 107 • ⏱️ 38:50 • 6h ago
+
+---
+
 **[Is the Bitcoin Thesis Broken? Tom Lee Weighs In](https://www.youtube.com/watch?v=NQuKKchNTu4)**
 
 Tom Lee joins 'Squawk Box' to discuss the latest market trends, impact of AI, market outlook, state of crypto, and more.
 
 📺 Fundstrat
 
-👁️ 43K • 👍 967 • 💬 290 • ⏱️ 7:41 • 21h ago
-
----
-
-**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
-
-Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
-
-📺 The Rollup
-
-👁️ 12K • 👍 345 • 💬 106 • ⏱️ 36:57 • 2d ago
-
----
-
-**[Is Ethereum The Biggest Scam In Crypto](https://www.youtube.com/watch?v=iZg-fVH2MO4)**
-
-Ethereum is the most hated coin in crypto, is it time to buy ETH? BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 751 • 💬 223 • ⏱️ 7:50 • 2d ago
-
----
-
-**[My Ethereum ETH Price Prediction for June 2026](https://www.youtube.com/watch?v=coIysqHtTjQ)**
-
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
-
-📺 Altcoin Doctor
-
-👁️ 73 • 👍 3 • ⏱️ 8:17 • 1d ago
-
----
-
-**[We could see some of the biggest stock market gains in our lifetime after 2026: Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=gpxPwY5apDg)**
-
-Tom Lee, Fundstrat managing partner and head of research, and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest ...
-
-📺 CNBC Television
-
-👁️ 243K • 👍 3K • 💬 713 • ⏱️ 9:01 • 23h ago
-
----
-
-**[Gareth Soloway: Bitcoin Bear Flag Warning, Technical Chart Deep Dive — BTC, ETH, HYPE, SOL 2026](https://www.youtube.com/watch?v=XNEfvHeq-Ps)**
-
-Bitcoin is sitting at a PIVOTAL support level — and the chart is forming what could become a dangerous bear flag. Gareth Soloway ...
-
-📺 Gareth Soloway
-
-👁️ 51K • 👍 3K • 💬 151 • ⏱️ 13:11 • 1d ago
-
----
-
-**[🛑TRUMP IRAN🛑 XRP BTC ETH BAD NEWS](https://www.youtube.com/watch?v=6jOYuaOqLk8)**
-
-xrp #bitcoin #hbar #xlm #eth Quality or Cheap merch, you vote here     ...
-
-📺 CRYPTO with KLAUS
-
-👁️ 4K • 👍 316 • 💬 89 • ⏱️ 13:29 • 16h ago
+👁️ 47K • 👍 1K • 💬 288 • ⏱️ 7:41 • 1d ago
 
 ---
 
@@ -312,27 +278,57 @@ Head Trader Benjamin Poole breaks down key support levels and bounce setups acro
 
 📺 Verified Pro Traders
 
-👁️ 2K • 👍 212 • 💬 33 • ⏱️ 9:19 • 13h ago
+👁️ 2K • 👍 229 • 💬 33 • ⏱️ 9:19 • 17h ago
 
 ---
 
-**[Before Ethereum… Vitalik Buterin Almost Joined Ripple](https://www.youtube.com/watch?v=5ySL7-XhqaQ)**
+**[🛑TRUMP IRAN🛑 XRP BTC ETH BAD NEWS](https://www.youtube.com/watch?v=6jOYuaOqLk8)**
 
-Before Ethereum existed, Vitalik applied to work at Ripple and even stayed on CTO David Schwartz's couch while arranging the ...
+xrp #bitcoin #hbar #xlm #eth Quality or Cheap merch, you vote here     ...
 
-📺 CoinGecko
+📺 CRYPTO with KLAUS
 
-👁️ 1K • 👍 90 • 💬 9 • ⏱️ 2:55 • 1d ago
+👁️ 4K • 👍 325 • 💬 91 • ⏱️ 13:29 • 20h ago
 
 ---
 
-**[NEAR&#39;s rejected Ethereum pitch #shorts](https://www.youtube.com/watch?v=g0HQagqlsQM)**
+**[Joseph Chalom: The Ethereum Bull Thesis in 2026 (Why Now)](https://www.youtube.com/watch?v=tTk6RZMtzVs)**
 
-New Uneasy Money: Illia Polosukhin recounts pitching NEAR's tech to the Ethereum Foundation, getting turned down on funding, ...
+Joseph Chalom explains why ETH is not dead. Joseph Chalom is CEO of SharpLink, the second largest corporate ETH holder.
 
-📺 Unchained
+📺 The Rollup
 
-👁️ 291 • 👍 7 • ⏱️ 1:13 • 1d ago
+👁️ 12K • 👍 346 • 💬 112 • ⏱️ 36:57 • 2d ago
+
+---
+
+**[&quot;Ethereum To $62,000, Bitcoin To $250,000 - Here&#39;s WHY&quot;: Raoul Pal &amp; Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=FzRg5udtTFI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 26K • 👍 683 • 💬 126 • ⏱️ 18:46 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum! Das passiert JETZT!](https://www.youtube.com/watch?v=sI8AjMYd1x4)**
+
+chartanalyse #trading #elliotwellen #bitcoin #ethereum In diesem Video In diesem Video besprechen wir die Entwicklungen ...
+
+📺 DER-RENTNER | BÖRSE & KRYPTO
+
+👁️ 1K • 👍 240 • 💬 14 • ⏱️ 8:52 • 5h ago
+
+---
+
+**[BITCOIN CRASH: This Will Get UGLY (whales selling)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OtRwO6NlKds)**
+
+BITCOIN CRASH: This Will Get UGLY (whales selling)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 272 • 💬 158 • ⏱️ 23:27 • 13h ago
 
 ---
 

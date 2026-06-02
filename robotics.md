@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-02T11:18:35.795687+00:00'
+updated: '2026-06-02T15:41:26.756483+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 02, 2026 at 11:18 UTC  
+**Last Updated:** June 02, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is my two year undergraduate capstone project from Engineering Physics at UBC. We trained a policy in simulation and then directly deployed in onto our robotic air hockey table. The project involved designing a physical robotic air hockey table, computer vision system, reinforcement learning pipeline, simulation, embedded systems, and controls If anyone's interested here's a short video explaining what we did: https://youtu.be/ugwpCam1rd0 And for more detail you can check out the github repo: HudsonNock/Air-Hockey-Sim Edit: Extra context given in the explainer video and repo: there were previous teams that worked on it before us. They designed the first iterations of the mechanical and electrical systems, as well as the baseline controller that allowed the robot to follow a specific path. Like most projects, it changed a lot through the iterations. We ended up redesigning and upgrading a lot of their work (only a few original parts remain) but their early prototyping was definitely needed to make our final version possible with the time we had
 
-19h ago
+1d ago
 
 ---
 
 **[First robot build in my life - based on quadrupedal sesame-robot esp32 project](https://www.reddit.com/r/robotics/comments/1ttzjre/first_robot_build_in_my_life_based_on_quadrupedal/)**
 
-17h ago
+22h ago
 
 ---
 
@@ -50,15 +50,15 @@ This is my two year undergraduate capstone project from Engineering Physics at U
 
 Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 9h ago
 
 ---
 
-**[What's your biggest time sink when training robot policies?](https://www.reddit.com/r/robotics/comments/1tuik20/whats_your_biggest_time_sink_when_training_robot/)**
+**[Opensource Waveshare UGV platform changed to 3D print profile and customised Electronice](https://www.reddit.com/r/robotics/comments/1turbq1/opensource_waveshare_ugv_platform_changed_to_3d/)**
 
-Question for people working with robotics RL: What part of the workflow tends to be the most frustrating? Not necessarily the hardest technically, but the thing that repeatedly eats time. Training? Debugging? Reward shaping? Environment setup? Experiment tracking? Trying to get a better picture of what real-world workflows look like.
+Hello all! This is my first post here. I am sharing the Waveshare UGV rover print files along with some hardware recommendation. I made these profiles and currently have the rover runing on ROS2 Humble Lite. I plan to integrate some SLAM modules eventually. The primary drive controller is seperate from raspberry pi 4B 8gb that i used. I originally bought this rover from a local seller then i wanted to understand the dynamics of it so i started vuilding from scratch. (The chasis main plate works fine in petg but i also had it laser cut in sheet metal). ESP32S3 drives the motors through 2x IBT-2 motor drivers Raspberry pi 4B is connected to esp32 via usb U can flash new firmware from raspi to esp on the go. I do have cmd vel file if someone actually goes ahead this way. This model is an open source model from waveshare however the electronics and firmware are all custom. I can make a github page for this if anyone requires. https://makerworld.com/models/2879603?appSharePlatform=copy
 
-4h ago
+2h ago
 
 ---
 
@@ -66,41 +66,45 @@ Question for people working with robotics RL: What part of the workflow tends to
 
 I am referring to this design of the joint 1 on a robotics arm with smaller bearings on the circumference of the base and then two additional bearings in the middle. I am wondering about the longevity of this design it seems there would be a decent amount of wear from the inside and outside bearing part having to spin at different speed and they would also wear down the plastic but still several popular robot arms use them. Also if u have any other design u would like to share of the joint 1 I would appreciate it.
 
-18m ago
-
----
-
-**[💅Gotta love being pretty from the jump, period. (A whole slay moment.)](https://www.reddit.com/r/robotics/comments/1ttkr34/gotta_love_being_pretty_from_the_jump_period_a/)**
-
-1d ago
-
----
-
-**[Starship Technologies closes US operations](https://www.reddit.com/r/robotics/comments/1tufrtv/starship_technologies_closes_us_operations/)**
-
-Basically - Autonomous delivery service provider Starship Technologies is shifting its strategic focus to urban grocery delivery and ending its core business on U.S. campuses. The changes will result in the company cutting several positions across its global team, including approximately 20% of its employees in Estonia 😅
-
-🔗 [Geenius DigiPRO](https://geeniusdigipro.delfi.ee/artikkel/120587867/starship-tagurdab-usa-ulikoolilinnakutest-valja-ja-koondab-viiendiku-tookohtadest-heinla-see-on-ariline-otsus) • 7h ago
-
----
-
-**[Wrote up why 2S - 4S Li-ion regulation is messier than the datasheet implies - the five failure modes I keep seeing in the field](https://www.reddit.com/r/robotics/comments/1tuj9ud/wrote_up_why_2s_4s_liion_regulation_is_messier/)**
-
 4h ago
 
 ---
 
-**[Actuator Load Test for Fun](https://www.reddit.com/r/robotics/comments/1ttng4b/actuator_load_test_for_fun/)**
+**[China's robotics giant Unitree is filing for an IPO, exciting news！](https://www.reddit.com/r/robotics/comments/1tupqr3/chinas_robotics_giant_unitree_is_filing_for_an/)**
 
-Lever arm: 400mm. We just did a “load test” on our actuator… but decided to skip the robot this time. No one got hurt. The motor did not complain (which is honestly suspicious).
+https://preview.redd.it/2tnw6v3d6v4h1.png?width=1724&format=png&auto=webp&s=eda2bad3d60de7e11d8d2135c6e042fc4ad15fa9 Unitree Robotics just cleared China's STAR Market hearing in a record 73 days — the world's only humanoid robot company generating real profit at scale. But after reading the actual prospectus, the hype needs tempering. Report below 👇
 
-1d ago
+3h ago
 
 ---
 
-**[Engineering on sets](https://www.reddit.com/r/robotics/comments/1tuf65b/engineering_on_sets/)**
+**[New FindObject Physical AI skill added to AgenticROS](https://www.reddit.com/r/robotics/comments/1tuu37d/new_findobject_physical_ai_skill_added_to/)**
 
-7h ago
+Your ROS robot can now look for physical items in your space using Nvidia's NemoClaw or OpenClaw, Claude, or Google Gemini. Try it: https://github.com/agenticros/agenticros-skill-find
+
+22m ago
+
+---
+
+**[What's your biggest time sink when training robot policies?](https://www.reddit.com/r/robotics/comments/1tuik20/whats_your_biggest_time_sink_when_training_robot/)**
+
+Question for people working with robotics RL: What part of the workflow tends to be the most frustrating? Not necessarily the hardest technically, but the thing that repeatedly eats time. Training? Debugging? Reward shaping? Environment setup? Experiment tracking? Trying to get a better picture of what real-world workflows look like.
+
+9h ago
+
+---
+
+**[HM-LD1 dToF LiDAR Displayed on Raspberry Pi](https://www.reddit.com/r/robotics/comments/1tut5yq/hmld1_dtof_lidar_displayed_on_raspberry_pi/)**
+
+54m ago
+
+---
+
+**[Hi everyone, new to the group and seeking advice for someone](https://www.reddit.com/r/robotics/comments/1turdsa/hi_everyone_new_to_the_group_and_seeking_advice/)**
+
+Hello everyone, I’m seeking advice for someone new to robotics. I’m trying to do some simple projects to have some father-son time now that they’re in summer. I found this one on Amazon with a raspberry pi, which I saw the coding and it’s not that hard. Are there any other kits I should be looking into? Any advice is welcomed.
+
+1h ago
 
 ---
 
@@ -116,15 +120,19 @@ Fortune • 1d ago
 
 ---
 
-**[Deranged Robotics Cult at Duke Accidentally Summons Lovecraftian Outer God](https://gizmodo.com/deranged-robotics-cult-at-duke-accidentally-summons-lovecraftian-outer-god-2000765829)**
+**[This Trump-linked startup plans to put humanoid robots in the military](https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html)**
 
-Gizmodo • 17h ago
+With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.
+
+CNBC • 3d ago
 
 ---
 
-**[SoftBank in Early Talks to Back $800 Million Agile Robots Round](https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round)**
+**[Robots Sense Reality: The Shocking Tech Leap That Changes Everything](https://www.futura-sciences.com/en/robots-sense-reality-the-shocking-tech-leap-that-changes-everything_33323/)**
 
-Bloomberg.com • 1h ago
+Nvidia and the ICRA: Bridging the Gap Between Simulation and Reality Every June, the International Conference on Robotics and Automation (ICRA) gathers the best minds in robotics from across the globe, and this year, Nvidia’s presence is impossible to miss. The tech giant, already a heavyweight thanks to its AI...
+
+Futura, le média qui explore le monde • 3h ago
 
 ---
 
@@ -132,15 +140,7 @@ Bloomberg.com • 1h ago
 
 A former Tesla designer's startup has won investment from Sam Altman and other top investors as money floods into physical AI.
 
-Business Insider • 15h ago
-
----
-
-**[Top 10 robotics stories of May 2026](https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/)**
-
-May 2026 was a busy month full of robotics news, and it was topped off by the Robotics Summit & Expo in Boston.
-
-The Robot Report • 17h ago
+Business Insider • 20h ago
 
 ---
 
@@ -148,23 +148,15 @@ The Robot Report • 17h ago
 
 Tesla's Optimus robot may have a new challenger, and it's the one CEO Elon Musk least wanted to see: OpenAI.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Inside China's push for global dominance: Evs, robotics, AI, pandas](https://www.nbcnews.com/nightly-news/video/inside-china-s-push-for-global-dominance-evs-robotics-ai-pandas-264238661587)**
+**[Sam Altman’s OpenAI just made robotics its next frontier and it’s hiring to prove it](https://techfundingnews.com/sam-altmans-openai-just-made-robotics-its-next-frontier-and-its-hiring-to-prove-it/)**
 
-An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of pandas. Plus, "NBC Nightly News" anchor Tom Llamas gets rare access to the restoration project underway at the Great Wall.
+Sam Altman spent years making AI useful for people who sit at desks. Now he wants to make it useful for people who build things.
 
-NBC News • 1d ago
-
----
-
-**[China Turns Robots, AI Startups Into a Fast-Growing Tourism Industry](https://www.eweek.com/news/china-tech-tourism-ai-ev-robotics-apac/)**
-
-China’s tech tourism boom is drawing founders, investors, and students to AI labs, EV factories, and robotics hubs across major cities.
-
-eWeek • 17h ago
+Tech Funding News • 1d ago
 
 ---
 
@@ -172,15 +164,29 @@ eWeek • 17h ago
 
 Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
 
-Ars Technica • 18h ago
+Ars Technica • 22h ago
 
 ---
 
-**[Luma AI launching robotics lab anyone can use](https://www.semafor.com/article/06/01/2026/ai-video-startup-luma-ai-makes-the-jump-into-robotics-with-open-lab)**
+**[Watch ABB Robotics on Nvidia Partnership, Physical AI](https://www.bloomberg.com/news/videos/2026-06-02/abb-robotics-on-nvidia-partnership-physical-ai-video)**
 
-Luma AI is starting a robotics lab that will allow anyone to train robots on its software, expanding beyond the startup’s video generation models.
+Bloomberg.com • 15h ago
 
-Semafor • 19h ago
+---
+
+**[ITER and industry push robotics into new territory](https://www.iter.org/node/20687/iter-and-industry-push-robotics-new-territory)**
+
+Specialized robots, machine vision systems and force-sensing technologies are helping ITER tackle one of fusion’s toughest engineering challenges: assembling and eventually maintaining the interior of the tokamak.
+
+ITER • 1d ago
+
+---
+
+**[NVIDIA Jetson Brings Agentic AI to the Physical World](https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/)**
+
+With NVIDIA JetPack 7.2 and NVIDIA NemoClaw support, Jetson is agentic-ready, giving developers a production-grade stack to deliver next-level intelligence to robotics, inspection and industrial automation.
+
+NVIDIA Blog • 10h ago
 
 ---
 
@@ -188,53 +194,33 @@ Semafor • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[The First Robot? Da Vinci’s 500-Year-Old Mechanical Lion! Art Whisper](https://www.youtube.com/watch?v=xtkvYrhOh_A)**
-
-Did Leonardo da Vinci build the world's first robot? ⚙️ Explore the incredible mystery of Da Vinci's Mechanical Lion, ...
-
-📺 Art Whisper Media
-
-👁️ 705 • 👍 61 • 💬 7 • ⏱️ 2:53 • 12h ago
-
----
-
 **[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
 
 The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
 
 📺 Ryan Shaw
 
-👁️ 95K • 👍 3K • 💬 512 • ⏱️ 29:20 • 2d ago
+👁️ 97K • 👍 3K • 💬 516 • ⏱️ 29:20 • 2d ago
 
 ---
 
-**[This Robot is literally Crazy 😱 #shorts](https://www.youtube.com/watch?v=J-PiRyHfKw0)**
+**[China&#39;s Unitree Robotics wins Shanghai IPO approval 73 days after filing](https://www.youtube.com/watch?v=uBhJIjk9a04)**
 
-This is something you've never seen beforeA simple football challenge turned into an unbelievable moment when a robot showed ...
+Unitree Robotics' initial public offering (IPO) application has just been accepted for Shanghai's STAR Market. The STAR Market is ...
 
-📺 Next Potential
+📺 ShanghaiEye魔都眼
 
-👁️ 138K • 💬 427 • ⏱️ 0:38 • 21h ago
-
----
-
-**[My Self-Aware Robot Built an Army (Official Trailer)](https://www.youtube.com/watch?v=yDA-A1jWswo)**
-
-E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in the making of this video. This 3D animation was ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 174K • 👍 12K • 💬 1K • ⏱️ 1:40 • 1d ago
+👁️ 2K • 👍 45 • 💬 18 • ⏱️ 1:24 • 12h ago
 
 ---
 
-**[War Robots - New Robot Vulcan Has A Built-in Laser Cannon! WR Vulcan Gameplay](https://www.youtube.com/watch?v=i8e7S_xgsH8)**
+**[Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics](https://www.youtube.com/watch?v=GvByvkp6k5s)**
 
-War Robots - New robot Vulcan has a built-in laser cannon. On this weekend's test server, I also tested out new lasers (Lumen) ...
+If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...
 
-📺 Adrian Chong
+📺 Boston Dynamics
 
-👁️ 4K • 👍 176 • 💬 42 • ⏱️ 20:10 • 22h ago
+👁️ 7K • 👍 728 • 💬 45 • ⏱️ 1:22 • 1h ago
 
 ---
 
@@ -244,7 +230,37 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 26K • 👍 475 • 💬 80 • ⏱️ 5:11 • 4d ago
+👁️ 26K • 👍 488 • 💬 82 • ⏱️ 5:11 • 4d ago
+
+---
+
+**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+
+Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+
+📺 Farzad
+
+👁️ 96K • 👍 5K • 💬 512 • ⏱️ 23:36 • 1d ago
+
+---
+
+**[This Robot is literally Crazy 😱 #shorts](https://www.youtube.com/watch?v=J-PiRyHfKw0)**
+
+This is something you've never seen beforeA simple football challenge turned into an unbelievable moment when a robot showed ...
+
+📺 Next Potential
+
+👁️ 191K • 💬 558 • ⏱️ 0:38 • 1d ago
+
+---
+
+**[My Self-Aware Robot Built an Army (Official Trailer)](https://www.youtube.com/watch?v=yDA-A1jWswo)**
+
+E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in the making of this video. This 3D animation was ...
+
+📺 LIGHTS ARE OFF
+
+👁️ 202K • 👍 14K • 💬 1K • ⏱️ 1:40 • 1d ago
 
 ---
 
@@ -258,33 +274,23 @@ Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hy
 
 ---
 
-**[Arpo the Robot | Nannybot Vs Arpo - Battle of the Bots! | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=KXYp_1XlWr4)**
+**[Inside China&#39;s push for global dominance: Evs, robotics, AI, pandas](https://www.youtube.com/watch?v=_sTlgdbdN0Y)**
 
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of ...
 
-📺 ARPO: The Robot
+📺 NBC News
 
-👁️ 72K • 👍 97 • ⏱️ 1:02:02 • 1d ago
-
----
-
-**[NVIDIA GR00T REVEALED – The Next Generation Humanoid Robot](https://www.youtube.com/watch?v=A0qRv8Rm2j8)**
-
-NVIDIA has officially REVEALED the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate ...
-
-📺 DPCcars
-
-👁️ 745 • 👍 23 • 💬 5 • ⏱️ 5:41 • 20h ago
+👁️ 20K • 👍 383 • 💬 224 • ⏱️ 23:26 • 21h ago
 
 ---
 
-**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+**[War Robots - New Robot Vulcan Has A Built-in Laser Cannon! WR Vulcan Gameplay](https://www.youtube.com/watch?v=i8e7S_xgsH8)**
 
-Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+War Robots - New robot Vulcan has a built-in laser cannon. On this weekend's test server, I also tested out new lasers (Lumen) ...
 
-📺 Farzad
+📺 Adrian Chong
 
-👁️ 90K • 👍 5K • 💬 474 • ⏱️ 23:36 • 23h ago
+👁️ 4K • 👍 184 • 💬 43 • ⏱️ 20:10 • 1d ago
 
 ---
 
