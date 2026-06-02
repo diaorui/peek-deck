@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-01T23:03:23.744927+00:00'
+updated: '2026-06-02T01:58:41.047066+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 01, 2026 at 23:03 UTC  
+**Last Updated:** June 02, 2026 at 01:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,865.52
+### $70,883.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
-**7d:** -6.0%  
-**30d:** -9.1%  
-**90d:** -1.9%  
-**1y:** -32.6%  
+**24h:** -4.1%  
+**7d:** -5.0%  
+**30d:** -11.4%  
+**90d:** -0.1%  
+**1y:** -32.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1429.65B
+**Market Cap:** $1419.24B
 Rank #1
 
-**Circulating Supply:** 20,037,581 BTC
+**Circulating Supply:** 20,037,653 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--43.4%
+-43.9%
 
 **All-Time Low:** $67.81
-+105064.4%
++104238.6%
 
 ---
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin performance in relationship of top 100 cryptos since 2020](https://www.reddit.com/r/Bitcoin/comments/1ttskan/bitcoin_performance_in_relationship_of_top_100/)**
-
-This is a new updated chart taking all top 100 coins from early 2020 until today, and the performance of all those coins in relationship to BTC. This is the ultimate proof that altcoins are no good for long term investment, other than very short term speculation.
-
-9h ago
-
----
-
 **[Strategy shares fall after selling $2.5 million in bitcoin, its first sale since 2022](https://www.reddit.com/r/Bitcoin/comments/1ttts9n/strategy_shares_fall_after_selling_25_million_in/)**
 
 Michael Saylor's Strategy sold bitcoin for the second time ever as geopolitical uncertainty continues to weigh on the cryptocurrency's price.
 
-🔗 [CNBC](https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html) • 11h ago
 
 ---
 
@@ -97,7 +89,15 @@ Michael Saylor's Strategy sold bitcoin for the second time ever as geopolitical 
 
 Anyone has idea why bitcoin is falling so sharply now ?
 
-7h ago
+10h ago
+
+---
+
+**[Bitcoin performance in relationship of top 100 cryptos since 2020](https://www.reddit.com/r/Bitcoin/comments/1ttskan/bitcoin_performance_in_relationship_of_top_100/)**
+
+This is a new updated chart taking all top 100 coins from early 2020 until today, and the performance of all those coins in relationship to BTC. This is the ultimate proof that altcoins are no good for long term investment, other than very short term speculation.
+
+12h ago
 
 ---
 
@@ -105,7 +105,15 @@ Anyone has idea why bitcoin is falling so sharply now ?
 
 We’ve spent years watching Bitcoin move in lockstep with the Nasdaq, but the data from the last few months of 2026 suggests something fundamental is changing. While traditional tech equities are struggling with shifting interest rates and regulatory headwinds, Bitcoin’s resilience seems to be driven by a different narrative,sovereign uncertainty and treasury diversification. I’ve been tracking the flow of capital, and it’s no longer just retail or speculative traders; we’re seeing a shift toward long-term institutional 'hold' strategies that look completely detached from short-term market volatility. Are we finally seeing Bitcoin mature into the 'digital gold' hedge we were promised, or is this just another temporary correlation breakdown? Curious to see how you all are interpreting the current market structure.
 
-2h ago
+5h ago
+
+---
+
+**[4 year cycles](https://www.reddit.com/r/Bitcoin/comments/1tu6w5h/4_year_cycles/)**
+
+Pretty much right where we should be…feels like the biggest no brainer of all time to stack bitcoin heavy during the next 6 months. Also feels like no one at all is acknowledging the 4 year cycles Besides maybe Saylor who sold the bottom today and sold it damn near perfect last time (negligible amount) Do people think cycles were invalidated or something? Why is the 4 year cycle no where on social media? OG bitcoiners stacking heavier this year? Not believe in cycles anymore? Don’t care and just stack regardless? Stocks are moving like alt coins so I get it - but anyone rotating stock profits into BTC is doing the right thing IMO
+
+4h ago
 
 ---
 
@@ -113,7 +121,15 @@ We’ve spent years watching Bitcoin move in lockstep with the Nasdaq, but the d
 
 Opinion: The Debt Clock Everyone Can Read But No One Will Act On
 
-🔗 [Lightning News](https://lightning.news/40t-debt-crisis-brutal-consequences/) • 3h ago
+🔗 [Lightning News](https://lightning.news/40t-debt-crisis-brutal-consequences/) • 6h ago
+
+---
+
+**[Bitcoin makes gold affordable](https://www.reddit.com/r/Bitcoin/comments/1tu5quf/bitcoin_makes_gold_affordable/)**
+
+Gold is too useful to be trapped in vaults. If Bitcoin is adopted as the main global money, it could make gold affordable again. Gold has utility in industry, technology, and jewelry. But part of its price comes from monetary premium because people use it as a store of value. This makes gold more expensive for the previously mentioned utility use cases. If Bitcoin absorbs the monetary premium, gold can be priced only for its amazing utility and therefore be more available for industry etc. Is this a fair view of the monetary role of gold, or does gold’s properties serve a monetary role Bitcoin cannot replace?
+
+🔗 [Myntad](https://www.myntad.com/bitcoin-makes-gold-affordable/) • 4h ago
 
 ---
 
@@ -121,7 +137,15 @@ Opinion: The Debt Clock Everyone Can Read But No One Will Act On
 
 Happens everytime. It's magic!
 
-10h ago
+13h ago
+
+---
+
+**[Does Bitcoin’s nature as a "self-regulating platform" solve the problem of human greed, or does it simply automate it?](https://www.reddit.com/r/Bitcoin/comments/1tu8w50/does_bitcoins_nature_as_a_selfregulating_platform/)**
+
+I’ve been thinking about the systemic design of Bitcoin and comparing it to the socioeconomic experiment in the movie The Platform (El Hoyo). In the movie, a "self-regulating" system is designed to provide enough resources for everyone, but it ultimately fails because it doesn't account for human greed—those at the top consume everything, leaving nothing for those below. Bitcoin is also a self-regulating platform, governed by code rather than human authority. However, I’m curious about your perspective: Does the decentralization and fixed nature of the Bitcoin protocol successfully mitigate human greed, or does it merely provide a new, automated "platform" where the same old patterns of accumulation and inequality persist? Can a protocol alone ever truly solve the social problem of greed, or is that strictly a human issue that technology cannot touch? I’m interested in hearing your thoughts on whether Bitcoin is just a technical solution to a social problem that requires a human solution.
+
+2h ago
 
 ---
 
@@ -129,31 +153,7 @@ Happens everytime. It's magic!
 
 For context, I'm writing a novel about time travel that takes place in 2009. The main character invests in bitcoin when it is first released. A few questions: 1.) How was bitcoin purchased back then? 2.) How did people set up a wallets? 3.) How did people send bitcoin to someone else's wallet? 4.) What would happen if someone were to purchase all Bitcoin available when it was first released? Would it still be as valuable as it is today? If not, how much Bitcoin could be taken out of circulation before it's value was decreased significantly?
 
-17h ago
-
----
-
-**[Accumulating](https://www.reddit.com/r/Bitcoin/comments/1ttwh4q/accumulating/)**
-
-How much Bitcoin you are accumulating per month or per year?
-
-7h ago
-
----
-
-**[What's the most tax efficient way to withdraw Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ttpnxv/whats_the_most_tax_efficient_way_to_withdraw/)**
-
-So my question is, as you get taxed on any profits you earn with directly held bitcoin, how are people withdrawing it? I know there are some places you can spend bitcoin directly, which would get around the issue, but most things you purchase, won't be possible to buy with bitcoin, so what's the best way to do it without wiping out a huge portion of your gains to tax? Please don't just reply with "HODL" or "don't withdraw it" at some point in our lives we should all be withdrawing otherwise it will have been a fruitless endeavour. Edit: I am in the UK, but also curious what people do in other countries
-
-11h ago
-
----
-
-**[Why hasn’t bitcoin recovered?](https://www.reddit.com/r/Bitcoin/comments/1tt7rbh/why_hasnt_bitcoin_recovered/)**
-
-What are the actual explanations? Not - it will etc etc. I want to know what’s suppressing it now, I’m interested in the mechanism not just speculative outcomes.
-
-1d ago
+19h ago
 
 ---
 
@@ -161,11 +161,23 @@ What are the actual explanations? Not - it will etc etc. I want to know what’s
 
 ## Google News: "bitcoin"
 
-**[Strategy shares fall after selling $2.5 million in bitcoin, its first sale since 2022](https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html)**
+**[Strategy Sells Bitcoin for First Time Since 2022. The Stock Is Sliding.](https://www.barrons.com/articles/strategy-stock-bitcoin-2b079994)**
 
-Michael Saylor's Strategy sold bitcoin for the second time ever as geopolitical uncertainty continues to weigh on the cryptocurrency's price.
+Barron's • 4h ago
 
-CNBC • 9h ago
+---
+
+**[California man pleads guilty in Danbury Bitcoin robbery, kidnapping case](https://www.wfsb.com/2026/06/02/california-man-pleads-guilty-danbury-bitcoin-robbery-kidnapping-case/)**
+
+A California man admitted in federal court that he helped plan a violent kidnapping in Danbury tied to a massive Bitcoin theft.
+
+WFSB • 1h ago
+
+---
+
+**[Bitcoin Diverges From Stocks, Losing Out to AI Rally](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026/card/bitcoin-diverges-from-stocks-losing-out-to-ai-rally-yUZXeo6Jrv5omWSOH5dG)**
+
+WSJ • 12h ago
 
 ---
 
@@ -173,21 +185,7 @@ CNBC • 9h ago
 
 A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Bitcoin Diverges From Stocks, Losing Out to AI Rally](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026/card/bitcoin-diverges-from-stocks-losing-out-to-ai-rally-yUZXeo6Jrv5omWSOH5dG)**
-
-WSJ • 9h ago
-
----
-
-**[Sphere 3D and Cathedra Bitcoin Announce Closing of Business Combination](https://www.newsfilecorp.com/release/299581/Sphere-3D-and-Cathedra-Bitcoin-Announce-Closing-of-Business-Combination)**
-
-Toronto, Ontario and Stamford, Connecticut--(Newsfile Corp. - June 1, 2026) - Sphere 3D Corp. (NASDAQ: ANY) (&quot;Sphere&quot;) and Cathedra Bitcoin...
-
-TMX Newsfile • 12h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -195,7 +193,23 @@ TMX Newsfile • 12h ago
 
 Anyone who follows this cryptocurrency knows that bear markets are a normal occurrence.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
+
+---
+
+**[Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows](https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows)**
+
+Investors pulled $1.67 billion from digital asset investment products last week, with bitcoin funds posting their largest weekly outflow of the year, according to a recent report from CoinShares.
+
+CoinDesk • 7h ago
+
+---
+
+**[Sphere 3D and Cathedra Bitcoin Announce Closing of Business Combination](https://www.newsfilecorp.com/release/299581/Sphere-3D-and-Cathedra-Bitcoin-Announce-Closing-of-Business-Combination)**
+
+Toronto, Ontario and Stamford, Connecticut--(Newsfile Corp. - June 1, 2026) - Sphere 3D Corp. (NASDAQ: ANY) (&quot;Sphere&quot;) and Cathedra Bitcoin...
+
+TMX Newsfile • 14h ago
 
 ---
 
@@ -207,31 +221,17 @@ Forbes • 1d ago
 
 ---
 
-**[BTC, ETH price news: Bitcoin, ether, solana slide as AI trade continues to rip higher](https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai)**
+**[Strategy bitcoin sale timing throws wrench into $20 million Polymarket pool](https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool)**
 
-U.S. spot bitcoin ETFs lost $2.97 billion across 10 trading days through Friday, the longest outflow streak on record. Oil's bounce on the stalled Iran deal added pressure even as global equities hit new highs on the Nvidia and SoftBank AI trade.
+A Polymarket pool asking whether Strategy would sell any of its bitcoin before May 31 had drawn more than $20 million in trading volume.
 
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin slides to $71k amid US-Iran uncertainty, ETF selldowns](https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-73k-amid-usiran-uncertainty-etf-selldowns-4718050)**
-
-Investing.com • 9h ago
+The Block • 9h ago
 
 ---
 
-**[Bitcoin weakens near $72K as ETF outflows, stalled whale buying and macro uncertainty weigh on prices: analysts](https://www.theblock.co/post/403179/bitcoin-weakens-near-72k-as-etf-outflows-stalled-whale-buying-and-macro-uncertainty-weigh-on-prices-analysts)**
+**[Quick-thinking clerk, Crestwood officer save woman from $7,000 Bitcoin scam](https://fox2now.com/news/missouri/quick-thinking-clerk-crestwood-officer-save-woman-from-7000-bitcoin-scam/)**
 
-Bitcoin fell toward $72,000 as U.S. spot ETFs posted weekly outflows again amid Iran risk-off and weak whale demand.
-
-The Block • 10h ago
-
----
-
-**[Strategy’s stock drops after rare bitcoin sale tests ‘never sell’ narrative](https://www.marketwatch.com/story/strategys-stock-drops-after-rare-bitcoin-sale-tests-never-sell-narrative-6aac9200)**
-
-MarketWatch • 6h ago
+FOX 2 • 2d ago
 
 ---
 
@@ -259,7 +259,7 @@ Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0
 
 Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its "never sell" stance broke.
 
-⬆️ 6 • 💬 1 • 6h ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
+⬆️ 6 • 💬 1 • 9h ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
 
 ---
 
@@ -267,7 +267,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 The bill would effectively turn miners into their own surveillance teams, collecting and reporting information to the government in exchange for economic favoritism.
 
-⬆️ 6 • 💬 0 • 5d ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
+⬆️ 6 • 💬 0 • 6d ago • [The Rage](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
 
 ---
 
@@ -295,7 +295,7 @@ Live Bitcoin trades turned into music and motion in real time. Sound on.
 
 Strategy (NASDAQ: $MSTR ) has sold some of its Bitcoin (CRYPTO: $BTC ) holdings.It marks the first time that the crypto treasury firm led by Executive Chairman Michael Saylor has sold any Bitcoin in four years.A regulatory disclosure shows that Strategy ...
 
-⬆️ 2 • 💬 0 • 3h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/strategy-sells-bitcoin-for-first-time-in-four-years-5724)
+⬆️ 2 • 💬 0 • 6h ago • [CryptoProwl.com](https://www.cryptoprowl.com/releases/strategy-sells-bitcoin-for-first-time-in-four-years-5724)
 
 ---
 
@@ -323,17 +323,7 @@ Tom Lee joins 'Squawk Box' to discuss the latest market trends, impact of AI, ma
 
 📺 Fundstrat
 
-👁️ 24K • 👍 695 • 💬 242 • ⏱️ 7:41 • 9h ago
-
----
-
-**[Bitcoin at $25k? - Peter Brandt &amp; Ran Neuner](https://www.youtube.com/watch?v=KycmQ3D7RAQ)**
-
-Peter Brandt called Bitcoin's top to the exact month. Now he's calling the bottom — somewhere in the $50-60K range. And he says ...
-
-📺 Crypto Banter
-
-👁️ 5K • 👍 94 • 💬 6 • ⏱️ 1:18 • 8h ago
+👁️ 30K • 👍 820 • 💬 269 • ⏱️ 7:41 • 12h ago
 
 ---
 
@@ -343,37 +333,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 394 • ⏱️ 42:58 • 7h ago
-
----
-
-**[Bitcoin Is About To DEVOUR $300 Trillion - Strive CEO Matt Cole](https://www.youtube.com/watch?v=qx4yUWBQ-FQ)**
-
-Bitcoin #Crypto #Finance Matt Cole managed a $70 billion Treasury portfolio, had direct access to the Fed and Treasury during ...
-
-📺 The Wolf Of All Streets
-
-👁️ 20K • 👍 849 • 💬 222 • ⏱️ 31:21 • 1d ago
-
----
-
-**[Bitcoin CRASHES Below $72K As Saylor Sells For The First Time](https://www.youtube.com/watch?v=PD8bVWx9kDo)**
-
-Bitcoin #Crypto #finance Bitcoin is teetering near $72000 as the Iran war heats back up, with Trump claiming Tehran "really ...
-
-📺 The Wolf Of All Streets
-
-👁️ 23K • 👍 1K • 💬 282 • ⏱️ 1:02:16 • 8h ago
-
----
-
-**[Bitcoin Closes Below the Bear Market Resistance Band](https://www.youtube.com/watch?v=1pAlH-EAm04)**
-
-Bitcoin closed below the bear market resistance band. What is next? Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 50K • 👍 4K • 💬 182 • ⏱️ 5:11 • 17h ago
+👁️ 27K • 👍 1K • 💬 381 • ⏱️ 42:58 • 10h ago
 
 ---
 
@@ -383,17 +343,17 @@ Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 962 • 💬 366 • ⏱️ 15:03 • 21h ago
+👁️ 16K • 👍 969 • 💬 340 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[Strategy PAYS DOWN debt while defending long-term Bitcoin strategy](https://www.youtube.com/watch?v=ff2yX_MBeEo)**
+**[Bitcoin at $25k? - Peter Brandt &amp; Ran Neuner](https://www.youtube.com/watch?v=KycmQ3D7RAQ)**
 
-Strategy CEO Phong Le explains the company's plan to repurchase $1.5 billion in convertible bonds using cash reserves while ...
+Peter Brandt called Bitcoin's top to the exact month. Now he's calling the bottom — somewhere in the $50-60K range. And he says ...
 
-📺 Fox Business
+📺 Crypto Banter
 
-👁️ 37K • 👍 757 • 💬 353 • ⏱️ 10:13 • 23h ago
+👁️ 6K • 👍 100 • 💬 7 • ⏱️ 1:18 • 11h ago
 
 ---
 
@@ -403,17 +363,57 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 672 • 💬 284 • ⏱️ 11:50 • 8h ago
+👁️ 10K • 👍 733 • 💬 322 • ⏱️ 11:50 • 10h ago
 
 ---
 
-**[Did AI Steal Crypto&#39;s Moment?](https://www.youtube.com/watch?v=StWZX9qm1a4)**
+**[Bitcoin CRASHES Below $72K As Saylor Sells For The First Time](https://www.youtube.com/watch?v=PD8bVWx9kDo)**
 
-On episode 466 of Animal Spirits, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Michael ...
+Bitcoin #Crypto #finance Bitcoin is teetering near $72000 as the Iran war heats back up, with Trump claiming Tehran "really ...
 
-📺 The Compound
+📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 33 • 💬 2 • ⏱️ 1:29 • 8h ago
+👁️ 25K • 👍 1K • 💬 302 • ⏱️ 1:02:16 • 11h ago
+
+---
+
+**[Does Peter Thiel Know Michael Saylor&#39;s Bitcoin Is At Risk?](https://www.youtube.com/watch?v=fYEX5go_-uw)**
+
+Peter Thiel left the United States and bought a compound in Argentina while warning that America is collapsing. At the same time, ...
+
+📺 Simply Bitcoin
+
+👁️ 45K • 👍 3K • 💬 338 • ⏱️ 29:19 • 2d ago
+
+---
+
+**[Bitcoin Is About To DEVOUR $300 Trillion - Strive CEO Matt Cole](https://www.youtube.com/watch?v=qx4yUWBQ-FQ)**
+
+Bitcoin #Crypto #Finance Matt Cole managed a $70 billion Treasury portfolio, had direct access to the Fed and Treasury during ...
+
+📺 The Wolf Of All Streets
+
+👁️ 20K • 👍 853 • 💬 223 • ⏱️ 31:21 • 1d ago
+
+---
+
+**[Michael Saylor Sells Bitcoin?📉Crypto Market Update🚨](https://www.youtube.com/watch?v=MpHapGrUgp0)**
+
+Between May 26 and May 31, Strategy sold 32 coins for $2.5 million, and at an average of $77135 per coin, according to a ...
+
+📺 Paul Barron Network
+
+👁️ 25K • 👍 1K • 💬 231 • ⏱️ 16:33 • 6h ago
+
+---
+
+**[Crypto Is About To Make Stocks Look Stupid (5 coins)](https://www.youtube.com/watch?v=JZhWr1FxJlM)**
+
+Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 187 • ⏱️ 9:19 • 1d ago
 
 ---
 
