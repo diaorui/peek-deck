@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-03T10:20:29.233580+00:00'
+updated: '2026-06-03T15:16:07.100880+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 03, 2026 at 10:20 UTC  
+**Last Updated:** June 03, 2026 at 15:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[What happens when a mobile robot gets two PiPER arms?](https://www.reddit.com/r/robotics/comments/1tvarih/what_happens_when_a_mobile_robot_gets_two_piper/)**
-
-NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot designed for embodied AI research. YOR can support tasks like grasping, carrying, opening a fridge, washing a cup, watering plants, and clearing dishes, combining mobility, lift motion, and dual-arm coordination in one platform. The robot uses AgileX PiPER 6-axis robotic arms, with hardware and software released for researchers and developers to build on.
-
-8h ago
-
----
-
 **[Concept of a robot dog in two parts (ICRA2026)](https://www.reddit.com/r/robotics/comments/1tvk48o/concept_of_a_robot_dog_in_two_parts_icra2026/)**
 
 From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254385910 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
 
-53m ago
+5h ago
+
+---
+
+**[Elliptical lidar of my robot converts 2D lidar to 3D lidar was not my best idea. rethink](https://www.reddit.com/r/robotics/comments/1tvppuo/elliptical_lidar_of_my_robot_converts_2d_lidar_to/)**
+
+1h ago
+
+---
+
+**[What happens when a mobile robot gets two PiPER arms?](https://www.reddit.com/r/robotics/comments/1tvarih/what_happens_when_a_mobile_robot_gets_two_piper/)**
+
+NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot designed for embodied AI research. YOR can support tasks like grasping, carrying, opening a fridge, washing a cup, watering plants, and clearing dishes, combining mobility, lift motion, and dual-arm coordination in one platform. The robot uses AgileX PiPER 6-axis robotic arms, with hardware and software released for researchers and developers to build on.
+
+13h ago
 
 ---
 
@@ -52,7 +58,7 @@ From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254
 
 For anyone curious about industrial actuator internals, I opened up a three-stage reduction actuator to see what's inside.
 
-1h ago
+6h ago
 
 ---
 
@@ -60,7 +66,7 @@ For anyone curious about industrial actuator internals, I opened up a three-stag
 
 I’ll be presenting this project at Stanford’s Deep Reinforcement Learning course, CS224R. I modified a diffusion policy so the robot can be prompted with a bounding box: “pick this object,” even in a cluttered scene with multiple LEGO blocks. The data was collected using a UMI handheld device, and the bounding-box conditioning enables a simple “point-and-click” interface for specifying the target object. The interesting part is that the instruction is spatial and visual, not just text. That matters because current Vision-Language-Action models can still struggle when the task requires selecting one specific object among very similar distractors. And as a small bonus: the whole policy runs locally on a laptop. :)
 
-15h ago
+20h ago
 
 ---
 
@@ -68,13 +74,25 @@ I’ll be presenting this project at Stanford’s Deep Reinforcement Learning co
 
 For anyone staying around after ICRA 2026 in Vienna: some of the Seeed team behind the open-source reArm robotic arm will be in Munich/Garching this Sunday, June 7. They’re hosting a small free hands-on robotics workshop where you can try reArm in person, see demos, ask technical questions, and hang out with other robotics folks. There’ll also be pizza, and spots are limited to around 20 people. Might be interesting if you’re into robotic manipulation, ROS2, open hardware, or just want to meet more robotics people after ICRA.
 
-2h ago
+7h ago
+
+---
+
+**[Cutting and remaking - Increased the chassis of my rover by 5 cm](https://www.reddit.com/r/robotics/comments/1tvmu7p/cutting_and_remaking_increased_the_chassis_of_my/)**
+
+3h ago
+
+---
+
+**[I made a cockpit to calibrate and test the robot arm.](https://www.reddit.com/r/robotics/comments/1tvs5oh/i_made_a_cockpit_to_calibrate_and_test_the_robot/)**
+
+9m ago
 
 ---
 
 **[The moment the pump turns on automatically after detecting dry soil 🌱](https://www.reddit.com/r/robotics/comments/1tvhg1v/the_moment_the_pump_turns_on_automatically_after/)**
 
-3h ago
+8h ago
 
 ---
 
@@ -82,29 +100,7 @@ For anyone staying around after ICRA 2026 in Vienna: some of the Seeed team behi
 
 Asking because in my experience everyone assumes it will be the algorithm or the model, but then you actually start building and it turns out to be something much more boring:) https://preview.redd.it/rtqqa1m1615h1.jpg?width=800&format=pjpg&auto=webp&s=690c3bd50e63ac95c8ed1dff324a6706ad28369c
 
-1h ago
-
----
-
-**[Opensource Waveshare UGV platform changed to 3D print profile and customised Electronice](https://www.reddit.com/r/robotics/comments/1turbq1/opensource_waveshare_ugv_platform_changed_to_3d/)**
-
-Hello all! This is my first post here. I am sharing the Waveshare UGV rover print files along with some hardware recommendation. I made these profiles and currently have the rover runing on ROS2 Humble Lite. I plan to integrate some SLAM modules eventually. The primary drive controller is seperate from raspberry pi 4B 8gb that i used. I originally bought this rover from a local seller then i wanted to understand the dynamics of it so i started vuilding from scratch. (The chasis main plate works fine in petg but i also had it laser cut in sheet metal). ESP32S3 drives the motors through 2x IBT-2 motor drivers Raspberry pi 4B is connected to esp32 via usb U can flash new firmware from raspi to esp on the go. I do have cmd vel file if someone actually goes ahead this way. This model is an open source model from waveshare however the electronics and firmware are all custom. I can make a github page for this if anyone requires. https://makerworld.com/models/2879603?appSharePlatform=copy
-
-20h ago
-
----
-
-**[Discussion: Robotic Surgery Thoughts?](https://www.reddit.com/r/robotics/comments/1tvgasw/discussion_robotic_surgery_thoughts/)**
-
-4h ago
-
----
-
-**[A Robotics Design and Simulation Workflow on iPhone with MuJoCo and URDF Support](https://www.reddit.com/r/robotics/comments/1tvhmmp/a_robotics_design_and_simulation_workflow_on/)**
-
-I am a solo developer of AR Mobile Robotics, a new iOS and macOS that I’m planning to release on June 17 (non-coincidentally, my birthday). As I push toward that date, I’m putting together a series of videos and a YouTube playlist that serve as the ARMOR 101. This video is a top-level summary of the ARMOR UI, with three sections: - A sidebar to create, import, and load robot projects that are saved as URDF archives with embedded assets in STL, DAE, OBJ, GLB, USDZ, and other 3D formats. - A detail view where robots are rendered in 3D with optional AR spatial reality, or read the XML text files. - An editor for for the complete project settings and XML properties. Future videos will talk about import/export of models, deep dive into the editors, robot dynamics and control simulation, and more. As part of developing ARMOR, I’ve open-sourced a few of the toolsets that I think might have more general utility to the robotics community. To date, those have included loaders and exporters for 3D formats like DAE, STL, OBJ, etc, which I’ve recognized as a pain point in certain robotics simulation workflows due to different file compatibility requirements for MuJoCo vs Gazebo vs Isaac Sim vs Drake, etc. I’m planning for the ARMOR importer to be universal, then use these open source utilities to provide a “export all visual meshes as OBJ” option, replacing OBJ with whatever format you choose. Do you think this would be helpful in real-world engineering workflows? More at https://armor.dc-engineer.com
-
-🔗 [youtu.be](https://youtu.be/gH_PdKrBz20) • 3h ago
+6h ago
 
 ---
 
@@ -116,7 +112,7 @@ I am a solo developer of AR Mobile Robotics, a new iOS and macOS that I’m plan
 
 “Be ready for it,” said one fund manager who sees enormous opportunities in the space.
 
-CNBC • 5h ago
+CNBC • 10h ago
 
 ---
 
@@ -128,11 +124,9 @@ CNBC • 2d ago
 
 ---
 
-**[Silicon Valley's New Slogan: Let's Get Physical](https://www.businessinsider.com/silicon-valleys-new-slogan-lets-get-physical-2026-6)**
+**[BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo)**
 
-Silicon Valley's AI boom is moving into robotics as OpenAI, Meta, Tesla, and startups race to give AI a body.
-
-Business Insider • 1d ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -140,19 +134,45 @@ Business Insider • 1d ago
 
 The crypto VC Framework Ventures led two fundraises for the robotics startup, which projects $100 million in annual run rate.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
-**[BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo)**
+**[Shifters raises $10.2 million Seed to build autonomous battlefield robots](https://www.calcalistech.com/ctechnews/article/b1emlktgmg)**
 
-Bloomberg.com • 6h ago
+Company targets high-risk environments with AI-driven ground platforms.
+
+CTech • 4h ago
 
 ---
 
 **[Tesla's Optimus faces new threat as OpenAI enters robotics](https://finance.yahoo.com/video/teslas-optimus-faces-threat-openai-203231720.html)**
 
 Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination Overtime to discuss Tesla's (TSLA) new robotics competition in OpenAI (OPAI.PVT).
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Sam Altman’s OpenAI just made robotics its next frontier and it’s hiring to prove it](https://techfundingnews.com/sam-altmans-openai-just-made-robotics-its-next-frontier-and-its-hiring-to-prove-it/)**
+
+Sam Altman spent years making AI useful for people who sit at desks. Now he wants to make it useful for people who build things.
+
+Tech Funding News • 2d ago
+
+---
+
+**[Sam Altman is quietly backing a stealth startup that's building software for robots and cars](https://www.businessinsider.com/sam-altman-startup-alfred-building-software-for-robots-and-cars-2026-6)**
+
+A former Tesla designer's startup has won investment from Sam Altman and other top investors as money floods into physical AI.
+
+Business Insider • 1d ago
+
+---
+
+**[Tesla Optimus & Musk face a new threat — OpenAI Robotics](https://finance.yahoo.com/sectors/technology/article/tesla-optimus--musk-face-a-new-threat--openai-robotics-160202761.html)**
+
+Tesla's Optimus robot may have a new challenger, and it's the one CEO Elon Musk least wanted to see: OpenAI.
 
 Yahoo Finance • 1d ago
 
@@ -166,41 +186,9 @@ Business Wire • 1d ago
 
 ---
 
-**[Version One Ventures raises fresh capital for early bets on AI, robotics and deep tech](https://www.geekwire.com/2026/version-one-ventures-raises-fresh-capital-for-early-bets-on-ai-robotics-and-deep-tech/)**
-
-The firm announced that it closed Version One Fund V, a $78 million fund focused on pre-seed and seed investments, along with Opportunities Fund III, a $30 million fund designed to make follow-on investments in its most promising portfolio companies.
-
-GeekWire • 18h ago
-
----
-
-**[Bankrupt Baltimore startup to hit the auction block](https://www.bizjournals.com/baltimore/news/2026/06/02/galen-robotics-auction-bankruptcy-court-startup.html)**
-
-The Business Journals • 23h ago
-
----
-
-**[Sam Altman’s OpenAI just made robotics its next frontier and it’s hiring to prove it](https://techfundingnews.com/sam-altmans-openai-just-made-robotics-its-next-frontier-and-its-hiring-to-prove-it/)**
-
-Sam Altman spent years making AI useful for people who sit at desks. Now he wants to make it useful for people who build things.
-
-Tech Funding News • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
-
-The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
-
-📺 Ryan Shaw
-
-👁️ 106K • 👍 3K • 💬 478 • ⏱️ 29:20 • 3d ago
-
----
 
 **[Early Release: Unitree’s Robots Leave Simon Cowell SPEECHLESS! | Auditions | AGT 2026](https://www.youtube.com/watch?v=y7ojRmPxqNg)**
 
@@ -208,37 +196,27 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 325K • 👍 7K • 💬 720 • ⏱️ 6:01 • 17h ago
+👁️ 402K • 👍 8K • 💬 912 • ⏱️ 6:01 • 22h ago
 
 ---
 
-**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
 
-Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
 
-📺 Farzad
+📺 Talent Recap
 
-👁️ 121K • 👍 6K • 💬 589 • ⏱️ 23:36 • 1d ago
-
----
-
-**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
-
-Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
-
-📺 DPCcars
-
-👁️ 15K • 👍 52 • 💬 18 • ⏱️ 2:07 • 17h ago
+👁️ 65K • 👍 1K • 💬 97 • ⏱️ 5:01 • 20h ago
 
 ---
 
-**[NVIDIA Just Unveiled a 75 DOF Humanoid Robot](https://www.youtube.com/watch?v=0ehh1A1qfwU)**
+**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
 
-NVIDIA has officially unveiled the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate the ...
+The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
 
-📺 DPCcars
+📺 Ryan Shaw
 
-👁️ 62K • 👍 405 • 💬 213 • ⏱️ 2:57 • 1d ago
+👁️ 108K • 👍 3K • 💬 491 • ⏱️ 29:20 • 3d ago
 
 ---
 
@@ -248,7 +226,17 @@ General-purpose humanoid robots represent the next leap in AI, but development r
 
 📺 NVIDIA
 
-👁️ 14K • 👍 487 • 💬 48 • ⏱️ 2:03 • 1d ago
+👁️ 16K • 👍 530 • 💬 54 • ⏱️ 2:03 • 1d ago
+
+---
+
+**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+
+Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+
+📺 Farzad
+
+👁️ 125K • 👍 6K • 💬 596 • ⏱️ 23:36 • 2d ago
 
 ---
 
@@ -258,15 +246,37 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 30K • 👍 516 • 💬 90 • ⏱️ 5:11 • 5d ago
+👁️ 31K • 👍 520 • 💬 90 • ⏱️ 5:11 • 5d ago
 
 ---
 
-**[Size doesn&#39;t matter #battleofrobots #championship #robotics #battle #robots #shorts](https://www.youtube.com/watch?v=7IR9h5CyehU)**
+**[No Doubt Best Robot (Early Season Override)](https://www.youtube.com/watch?v=2gqxww8Yq-I)**
 
-📺 Battle of Robots
+https://www.youtube.com/watch?v=P2MoY21YToo (reveal) #vex #override #stem #robotics.
 
-👁️ 1K • 👍 9 • 💬 1 • ⏱️ 0:16 • 11h ago
+📺 Luke does robotics
+
+👁️ 6K • 👍 197 • 💬 36 • ⏱️ 15:29 • 1d ago
+
+---
+
+**[My Self-Aware Robot Built an Army (Official Trailer)](https://www.youtube.com/watch?v=yDA-A1jWswo)**
+
+E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in the making of this video. This 3D animation was ...
+
+📺 LIGHTS ARE OFF
+
+👁️ 369K • 👍 20K • 💬 2K • ⏱️ 1:40 • 2d ago
+
+---
+
+**[Inside China&#39;s push for global dominance: Evs, robotics, AI, pandas](https://www.youtube.com/watch?v=_sTlgdbdN0Y)**
+
+An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of ...
+
+📺 NBC News
+
+👁️ 33K • 👍 641 • 💬 351 • ⏱️ 23:26 • 1d ago
 
 ---
 
@@ -276,17 +286,7 @@ Paris-based startup SquareMind has raised $18 million to launch Swan, the world'
 
 📺 Rowan Cheung
 
-👁️ 29K • 👍 2K • 💬 29 • ⏱️ 1:06 • 15h ago
-
----
-
-**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
-
-Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
-
-📺 Techie Sapien
-
-👁️ 696K • 👍 5K • 💬 94 • ⏱️ 0:07 • 4d ago
+👁️ 34K • 👍 2K • 💬 31 • ⏱️ 1:06 • 19h ago
 
 ---
 
