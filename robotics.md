@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-03T15:16:07.100880+00:00'
+updated: '2026-06-03T19:06:51.627161+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 03, 2026 at 15:16 UTC  
+**Last Updated:** June 03, 2026 at 19:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,21 @@ Robotics research and industry news
 
 From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254385910 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
 
-5h ago
+9h ago
+
+---
+
+**[I got tired of SSHing into robots at odd hours so I built a thing. It's probably unnecessary. Roast it.](https://www.reddit.com/r/robotics/comments/1tvvlnf/i_got_tired_of_sshing_into_robots_at_odd_hours_so/)**
+
+Okay so hear me out before you close the tab.Every time a robot failed in the field, our debugging process was SSH in, pray the logs survived, piece together what happened from /rosout like some kind of forensic archaeologist. Half the time the failure only happened once and we'd never reproduce it. Classic solution: just run rosbag2 continuously. Except in production that fills storage in like 2 hours and now you're debugging why the SD card is full instead of why the robot fell over. So I did the reasonable thing and spent months building an "episode recorder" that wraps each robot run, tags failures, and stores diagnostic context — basically a flight data recorder but for robots, which sounds very cool until you realise it's mostly just a fancier way to store JSON. I'm calling it BlackBox. Yes, like the aviation thing. Yes, I know. Genuinely asking: is this a real problem or did I just build elaborate infrastructure to avoid writing better log messages? Do you actually lose field failure context regularly or is this a me problem? What would make this useless for your setup? Be brutal. I can take it.
+
+2h ago
 
 ---
 
 **[Elliptical lidar of my robot converts 2D lidar to 3D lidar was not my best idea. rethink](https://www.reddit.com/r/robotics/comments/1tvppuo/elliptical_lidar_of_my_robot_converts_2d_lidar_to/)**
 
-1h ago
-
----
-
-**[What happens when a mobile robot gets two PiPER arms?](https://www.reddit.com/r/robotics/comments/1tvarih/what_happens_when_a_mobile_robot_gets_two_piper/)**
-
-NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot designed for embodied AI research. YOR can support tasks like grasping, carrying, opening a fridge, washing a cup, watering plants, and clearing dishes, combining mobility, lift motion, and dual-arm coordination in one platform. The robot uses AgileX PiPER 6-axis robotic arms, with hardware and software released for researchers and developers to build on.
-
-13h ago
+5h ago
 
 ---
 
@@ -58,21 +58,33 @@ NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot 
 
 For anyone curious about industrial actuator internals, I opened up a three-stage reduction actuator to see what's inside.
 
+9h ago
+
+---
+
+**[What happens when a mobile robot gets two PiPER arms?](https://www.reddit.com/r/robotics/comments/1tvarih/what_happens_when_a_mobile_robot_gets_two_piper/)**
+
+NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot designed for embodied AI research. YOR can support tasks like grasping, carrying, opening a fridge, washing a cup, watering plants, and clearing dishes, combining mobility, lift motion, and dual-arm coordination in one platform. The robot uses AgileX PiPER 6-axis robotic arms, with hardware and software released for researchers and developers to build on.
+
+17h ago
+
+---
+
+**[Made my arm grab from top or front depending on how the target is standing](https://www.reddit.com/r/robotics/comments/1tvnp9z/made_my_arm_grab_from_top_or_front_depending_on/)**
+
 6h ago
 
 ---
 
-**[I built a point-and-click robot diffusion policy using UMI to pick specific LEGO blocks from clutter](https://www.reddit.com/r/robotics/comments/1tv0574/i_built_a_pointandclick_robot_diffusion_policy/)**
+**[MIT Robotics Professor on Viability of Humanoids](https://www.reddit.com/r/robotics/comments/1tvm5qk/mit_robotics_professor_on_viability_of_humanoids/)**
 
-I’ll be presenting this project at Stanford’s Deep Reinforcement Learning course, CS224R. I modified a diffusion policy so the robot can be prompted with a bounding box: “pick this object,” even in a cluttered scene with multiple LEGO blocks. The data was collected using a UMI handheld device, and the bounding-box conditioning enables a simple “point-and-click” interface for specifying the target object. The interesting part is that the instruction is spatial and visual, not just text. That matters because current Vision-Language-Action models can still struggle when the task requires selecting one specific object among very similar distractors. And as a small bonus: the whole policy runs locally on a laptop. :)
+Daniela Rus from MIT CSAIL says that while humanoid demos have taken over the internet, the transition into task-based operations remains a big work in progress. Not only because the human world is complex with its own variables, but humanoids are also complex with their own challenges in terms of control.
 
-20h ago
+7h ago
 
 ---
 
-**[Small tip for anyone still around after ICRA](https://www.reddit.com/r/robotics/comments/1tvilhw/small_tip_for_anyone_still_around_after_icra/)**
-
-For anyone staying around after ICRA 2026 in Vienna: some of the Seeed team behind the open-source reArm robotic arm will be in Munich/Garching this Sunday, June 7. They’re hosting a small free hands-on robotics workshop where you can try reArm in person, see demos, ask technical questions, and hang out with other robotics folks. There’ll also be pizza, and spots are limited to around 20 people. Might be interesting if you’re into robotic manipulation, ROS2, open hardware, or just want to meet more robotics people after ICRA.
+**[Made a grabbing arm with depth camera and segmentation model](https://www.reddit.com/r/robotics/comments/1tvmnjy/made_a_grabbing_arm_with_depth_camera_and/)**
 
 7h ago
 
@@ -80,27 +92,15 @@ For anyone staying around after ICRA 2026 in Vienna: some of the Seeed team behi
 
 **[Cutting and remaking - Increased the chassis of my rover by 5 cm](https://www.reddit.com/r/robotics/comments/1tvmu7p/cutting_and_remaking_increased_the_chassis_of_my/)**
 
-3h ago
+7h ago
 
 ---
 
-**[I made a cockpit to calibrate and test the robot arm.](https://www.reddit.com/r/robotics/comments/1tvs5oh/i_made_a_cockpit_to_calibrate_and_test_the_robot/)**
+**[Small tip for anyone still around after ICRA](https://www.reddit.com/r/robotics/comments/1tvilhw/small_tip_for_anyone_still_around_after_icra/)**
 
-9m ago
+For anyone staying around after ICRA 2026 in Vienna: some of the Seeed team behind the open-source reArm robotic arm will be in Munich/Garching this Sunday, June 7. They’re hosting a small free hands-on robotics workshop where you can try reArm in person, see demos, ask technical questions, and hang out with other robotics folks. There’ll also be pizza, and spots are limited to around 20 people. Might be interesting if you’re into robotic manipulation, ROS2, open hardware, or just want to meet more robotics people after ICRA.
 
----
-
-**[The moment the pump turns on automatically after detecting dry soil 🌱](https://www.reddit.com/r/robotics/comments/1tvhg1v/the_moment_the_pump_turns_on_automatically_after/)**
-
-8h ago
-
----
-
-**[Where do you lose most time when building a robot prototype?](https://www.reddit.com/r/robotics/comments/1tvjdf8/where_do_you_lose_most_time_when_building_a_robot/)**
-
-Asking because in my experience everyone assumes it will be the algorithm or the model, but then you actually start building and it turns out to be something much more boring:) https://preview.redd.it/rtqqa1m1615h1.jpg?width=800&format=pjpg&auto=webp&s=690c3bd50e63ac95c8ed1dff324a6706ad28369c
-
-6h ago
+11h ago
 
 ---
 
@@ -112,53 +112,43 @@ Asking because in my experience everyone assumes it will be the algorithm or the
 
 “Be ready for it,” said one fund manager who sees enormous opportunities in the space.
 
-CNBC • 10h ago
+CNBC • 14h ago
 
 ---
 
-**[Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO](https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html)**
+**[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
 
-The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.
+Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
 
-CNBC • 2d ago
+Fox Business • 3h ago
 
 ---
 
 **[BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[Exclusive: Mecka AI raises $60 million to train robots with human data sourced from body sensors and iPhones](https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/)**
+**[China Robotics Firms Line Up IPOs to Pitch Next Phase of AI](https://www.bloomberg.com/news/articles/2026-06-01/china-robotics-firms-line-up-ipos-to-pitch-next-phase-of-ai)**
 
-The crypto VC Framework Ventures led two fundraises for the robotics startup, which projects $100 million in annual run rate.
-
-Fortune • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Shifters raises $10.2 million Seed to build autonomous battlefield robots](https://www.calcalistech.com/ctechnews/article/b1emlktgmg)**
+**[SwitchBot’s acquisition of Nanoleaf is about more than lighting](https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics)**
 
-Company targets high-risk environments with AI-driven ground platforms.
+Nanoleaf switches things up
 
-CTech • 4h ago
-
----
-
-**[Tesla's Optimus faces new threat as OpenAI enters robotics](https://finance.yahoo.com/video/teslas-optimus-faces-threat-openai-203231720.html)**
-
-Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination Overtime to discuss Tesla's (TSLA) new robotics competition in OpenAI (OPAI.PVT).
-
-Yahoo Finance • 1d ago
+The Verge • 7h ago
 
 ---
 
-**[Sam Altman’s OpenAI just made robotics its next frontier and it’s hiring to prove it](https://techfundingnews.com/sam-altmans-openai-just-made-robotics-its-next-frontier-and-its-hiring-to-prove-it/)**
+**[Pudu Robotics eyes Hong Kong listing amid geopolitical risks](https://asia.nikkei.com/business/technology/pudu-robotics-eyes-hong-kong-listing-amid-geopolitical-risks)**
 
-Sam Altman spent years making AI useful for people who sit at desks. Now he wants to make it useful for people who build things.
+CEO says Chinese service robot maker exploring overseas manufacturing options
 
-Tech Funding News • 2d ago
+Nikkei Asia • 15h ago
 
 ---
 
@@ -170,11 +160,19 @@ Business Insider • 1d ago
 
 ---
 
-**[Tesla Optimus & Musk face a new threat — OpenAI Robotics](https://finance.yahoo.com/sectors/technology/article/tesla-optimus--musk-face-a-new-threat--openai-robotics-160202761.html)**
+**[Version One Ventures raises fresh capital for early bets on AI, robotics and deep tech](https://www.geekwire.com/2026/version-one-ventures-raises-fresh-capital-for-early-bets-on-ai-robotics-and-deep-tech/)**
 
-Tesla's Optimus robot may have a new challenger, and it's the one CEO Elon Musk least wanted to see: OpenAI.
+The firm announced that it closed Version One Fund V, a $78 million fund focused on pre-seed and seed investments, along with Opportunities Fund III, a $30 million fund designed to make follow-on investments in its most promising portfolio companies.
 
-Yahoo Finance • 1d ago
+GeekWire • 1d ago
+
+---
+
+**[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
+
+Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
+
+Ars Technica • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 402K • 👍 8K • 💬 912 • ⏱️ 6:01 • 22h ago
+👁️ 462K • 👍 10K • 💬 1K • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -206,17 +204,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 65K • 👍 1K • 💬 97 • ⏱️ 5:01 • 20h ago
-
----
-
-**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
-
-The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
-
-📺 Ryan Shaw
-
-👁️ 108K • 👍 3K • 💬 491 • ⏱️ 29:20 • 3d ago
+👁️ 85K • 👍 2K • 💬 115 • ⏱️ 5:01 • 1d ago
 
 ---
 
@@ -226,7 +214,7 @@ General-purpose humanoid robots represent the next leap in AI, but development r
 
 📺 NVIDIA
 
-👁️ 16K • 👍 530 • 💬 54 • ⏱️ 2:03 • 1d ago
+👁️ 17K • 👍 559 • 💬 55 • ⏱️ 2:03 • 2d ago
 
 ---
 
@@ -236,47 +224,55 @@ Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/p
 
 📺 Farzad
 
-👁️ 125K • 👍 6K • 💬 596 • ⏱️ 23:36 • 2d ago
+👁️ 130K • 👍 6K • 💬 608 • ⏱️ 23:36 • 2d ago
 
 ---
 
-**[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)**
+**[#factory #robot #borunte #spraying #welding #industrial](https://www.youtube.com/watch?v=g5ZNbK-Ez8A)**
 
-Humanoid robots are more impressive than ever before. Not long ago they would barely manage a few steps on stage before ...
+📺 BORUNTE-Robot-Messi
 
-📺 Financial Times
-
-👁️ 31K • 👍 520 • 💬 90 • ⏱️ 5:11 • 5d ago
+👁️ 32K • 👍 33 • ⏱️ 0:11 • 2d ago
 
 ---
 
-**[No Doubt Best Robot (Early Season Override)](https://www.youtube.com/watch?v=2gqxww8Yq-I)**
+**[This Robot is literally Crazy 😱 #shorts](https://www.youtube.com/watch?v=J-PiRyHfKw0)**
 
-https://www.youtube.com/watch?v=P2MoY21YToo (reveal) #vex #override #stem #robotics.
+This is something you've never seen beforeA simple football challenge turned into an unbelievable moment when a robot showed ...
 
-📺 Luke does robotics
+📺 Next Potential
 
-👁️ 6K • 👍 197 • 💬 36 • ⏱️ 15:29 • 1d ago
-
----
-
-**[My Self-Aware Robot Built an Army (Official Trailer)](https://www.youtube.com/watch?v=yDA-A1jWswo)**
-
-E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in the making of this video. This 3D animation was ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 369K • 👍 20K • 💬 2K • ⏱️ 1:40 • 2d ago
+👁️ 244K • 💬 633 • ⏱️ 0:38 • 2d ago
 
 ---
 
-**[Inside China&#39;s push for global dominance: Evs, robotics, AI, pandas](https://www.youtube.com/watch?v=_sTlgdbdN0Y)**
+**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
 
-An inside look at China's push for global economic dominance with AI, humanoid robots, electric vehicles and the export of ...
+Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
 
-📺 NBC News
+📺 DPCcars
 
-👁️ 33K • 👍 641 • 💬 351 • ⏱️ 23:26 • 1d ago
+👁️ 20K • 👍 69 • 💬 22 • ⏱️ 2:07 • 1d ago
+
+---
+
+**[NVIDIA Just Unveiled a 75 DOF Humanoid Robot](https://www.youtube.com/watch?v=0ehh1A1qfwU)**
+
+NVIDIA has officially unveiled the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate the ...
+
+📺 DPCcars
+
+👁️ 68K • 👍 454 • 💬 241 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
+
+The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
+
+📺 Ryan Shaw
+
+👁️ 110K • 👍 3K • 💬 500 • ⏱️ 29:20 • 4d ago
 
 ---
 
@@ -286,7 +282,7 @@ Paris-based startup SquareMind has raised $18 million to launch Swan, the world'
 
 📺 Rowan Cheung
 
-👁️ 34K • 👍 2K • 💬 31 • ⏱️ 1:06 • 19h ago
+👁️ 40K • 👍 2K • 💬 34 • ⏱️ 1:06 • 23h ago
 
 ---
 

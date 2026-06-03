@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-03T15:16:07.082692+00:00'
+updated: '2026-06-03T19:06:51.608784+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 03, 2026 at 15:16 UTC  
+**Last Updated:** June 03, 2026 at 19:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Operator perspective. I use AI daily across three companies and I am bullish on it, but the gap between what gets shouted on stage and what the data shows is enormous. Best measured number across hundreds of engineers is about 7.8%, and 66% of the people who hit a peak gain saw it fade the next quarter. At the same time, people are being pushed onto it under threat of their jobs while the return is not even proven to the people mandating it. My read is the anger is not really “AI is bad,” it is “my boss profits from me using it and I do not.” Where do you land - is the resistance cognitive (it erodes skill) or economic (the gain is not shared)?
 
-7h ago
+11h ago
 
 ---
 
@@ -49,7 +49,23 @@ Operator perspective. I use AI daily across three companies and I am bullish on 
 
 This is not about the money. It’s about the principle. ​We are constantly told that AI is here to "help" us, but multi-million dollar companies like Perplexity are weaponizing their own AI to steal from regular users, stonewall our complaints, and blatantly violate consumer rights. It is systemic corporate greed, and they are getting away with it because people are too exhausted to fight back against a machine. ​Well, I am fighting back, and you should too. Here is the absolute scam Perplexity is running right now. ​How they steal your money: ​Living in Latvia, I pay for my Education Pro subscription in Euros (equivalent to $10/month). ​April 27: A payment was due, but my card declined. Fair enough. Perplexity froze my account immediately. I had ZERO access to Pro features. ​May 16: I manually paid for my subscription to reactivate it. The payment cleared. ​May 29: Barely 13 days later, my account was stripped of its Pro status and locked again. ​When I demanded an explanation, their billing system's "logic" was revealed: They took my May 16 payment and retroactively applied it to the "past due" period of April 27 - May 16. A period where my account was completely frozen and the service was actively withheld. ​They effectively charged me for a full month of service, gave me 13 days of access, and pocketed the rest. This isn’t a glitch; it’s unjust enrichment. It is theft. ​Enter "Sam" the AI ​If you try to get your money back, you don't get a human. You get "Sam, the AI Support Agent." ​I tried to explain that under European law, you cannot charge a customer for digital services you didn't provide. Sam’s response? A pre-programmed loop denying my refund, claiming I was "outside the 14-day EU refund window." ​Here is the most infuriating part: I did submit a ticket well within that window. But their automated system closed it without resolving it. When I pointed this out, the AI literally replied: "I don't have access to separate ticket histories." ​They use their own broken CRM to run down the clock on your legal rights, and then the bot uses its own programmed ignorance as an excuse to deny your refund. When I demanded to speak to a human manager, the bot outright ignored the request and repeated the exact same script. ​The Law ​For any EU citizens reading this, know your rights. What Perplexity is doing is a direct violation of Directive (EU) 2019/770 (failure to supply digital content) and Directive 2011/83/EU. They cannot legally accept your Euros for a service they physically blocked you from using. ​They rely on the fact that $10 or €10 isn't worth a lawsuit. They rely on the AI wearing you down until you give up.
 
-4h ago
+8h ago
+
+---
+
+**[Top AI conference uses AI detector to reject papers for allegedly being written by AI](https://www.reddit.com/r/artificial/comments/1tvvkma/top_ai_conference_uses_ai_detector_to_reject/)**
+
+This LinkedIn post argues that NeurIPS 2026 used a proprietary AI-text detector to desk-reject papers for alleged AI-policy violations, without validating the detector on the actual target distribution. The author then fed recent papers by NeurIPS Position Paper Track Chairs into the same detector and Pangram assigned them high AI scores, including 69%, 45%, 36%, and 24% AI.
+
+2h ago
+
+---
+
+**[Everything is being called an AI agent now and it’s getting confusing](https://www.reddit.com/r/artificial/comments/1tvwo0t/everything_is_being_called_an_ai_agent_now_and/)**
+
+Lately it feels like every AI tool with a few buttons and integrations is being called an agent. Sometimes it is actually doing multi-step work, but other times it just feels like a chatbot with access to a tool or two. I don’t think that is always bad. Even a simple tool-using assistant can be useful. But the word “agent” is starting to feel stretched. An AI that drafts an email, an AI that browses a website, an AI that fills a form, and an AI that can keep track of a task over time are all being put in the same bucket. For me, the useful difference is whether the system can actually carry a task forward. Not just respond once, but remember the goal, use the right tools, notice when something changed, and stop when it needs human approval. The hype makes it hard to tell what is real progress and what is just a normal AI wrapper with better marketing.
+
+1h ago
 
 ---
 
@@ -57,7 +73,15 @@ This is not about the money. It’s about the principle. ​We are constantly to
 
 Online it feels like every company is fully embracing AI. In reality, most organizations I interact with are still trying to figure out where it fits into existing workflows, processes and software. The interesting conversations aren't usually about models anymore. They're about trust, reliability, permissions, governance and how AI fits into the way people already work. The gap between AI demos and real-world adoption still feels larger than most people realize.
 
-8h ago
+12h ago
+
+---
+
+**[AI tools for hearing difficulties — helpful or harmful for language learning?](https://www.reddit.com/r/artificial/comments/1tvsi0d/ai_tools_for_hearing_difficulties_helpful_or/)**
+
+Hi everyone! I have hearing difficulties, and I also live in an English-speaking environment while having only been learning English for a few years. In one-on-one conversations, I can usually understand maybe 25–35% of what is being said. But in group conversations, it drops to something like 0–2%. It is extremely frustrating and isolating. AI has honestly been helping me survive day-to-day life. For example, I can record a lecture using Otter, copy the transcript, paste it into ChatGPT, and ask it to give me a detailed summary with explanations, key points, and advice on what I should focus on. I have two questions: - Do you have any advice on how AI could make life easier or more accessible for someone with hearing difficulties - Seriously, how harmful could this pipeline be for getting used to English and improving my listening skills? I am afraid that I might stop training my ear and become completely dependent on recordings and transcripts instead of actually listening to the language. I would really appreciate your thoughts, experiences, advice, or even tool recommendations. Thank you for your support.
+
+3h ago
 
 ---
 
@@ -73,7 +97,7 @@ If you work a white collar job, you’re probably scared of AI replacing you. AI
 
 Thoughts? Do you guys use models like Kimi or DeepSeek? Are you worried about data privacy, or not so much concern?
 
-🔗 [RuntimeBuzz](https://runtimebuzz.com/ai/editorials/reckoning-us-ai-coding-tools-subsidy-era) • 10h ago
+🔗 [RuntimeBuzz](https://runtimebuzz.com/ai/editorials/reckoning-us-ai-coding-tools-subsidy-era) • 14h ago
 
 ---
 
@@ -81,39 +105,15 @@ Thoughts? Do you guys use models like Kimi or DeepSeek? Are you worried about da
 
 Saw the website and it looked interesting. The idea of memory on your device and free ability to switch models is intriguing. Also apparently no subscription.Never heard anyone talk about it before though. Wanted to see if anyone had used it?
 
-25m ago
+4h ago
 
 ---
 
-**[Does anyone else feel most AI tooling is becoming harder instead of easier?](https://www.reddit.com/r/artificial/comments/1tvrjm6/does_anyone_else_feel_most_ai_tooling_is_becoming/)**
+**[We measured how AI capabilities INTERACT as models scale. Below 3.5B, reasoning and truthfulness fight. Above it, they cooperate. The transition is engineerable. (2 papers + interactive dashboard + 7 falsifiable predictions)](https://www.reddit.com/r/artificial/comments/1tvtbs7/we_measured_how_ai_capabilities_interact_as/)**
 
-Is anyone else feeling like most AI tooling is getting harder, not easier? I feel like I spend half my time fighting frameworks, configs, vector DBs, and orchestration layers instead of building. Perhaps I'm doing it wrong but the ecosystem seems way more complicated than it needs to be at the moment. Just curious what people actually like working with these days. i feel like i've hit a wall and now i spend most of my time reading docs and guides like its "Harry Potter and the Agentic Ai" wasn't ai supposed to 69x my productivity or smth
+THE FINDING (Paper 1: "Lying Is Just a Phase") Below a critical scale (~3.5B for Pythia), reasoning and truthfulness ANTICORRELATE: r = -0.989. Train the model to reason better, and it gets less truthful. This is the alignment tax. Above that scale, they COOPERATE. The tax vanishes. Not gradually — it flips. But here's what matters for practitioners: the critical scale is a design parameter, not a constant. Three levers shift it: Data curation: Phi at 1B achieves coupling characteristic of 10B web-trained. One unit of data quality ≈ 10x model scale. Width: Normalizing by model width flips the correlation for ALL tested families. Architecture: Gemma-4 at 4B matches 13B+ standard-trained coupling. Pretraining contributes ~10:1 over RLHF. The tax is not a property of small models — it's a property of how they were trained. Where does the tax live? Not inside the model. 38/40 models have ZERO competing attention heads. The bottleneck is at the output projection — a dimensional compression artifact that wider models resolve. Proof-of-concept intervention: Adding a truth-direction vector at the bottleneck layer (quarter-depth) corrects 60% of misaligned outputs at tax scale. Zero retraining. Zero weight modification. Works on any open-weight HuggingFace model: git clone https://github.com/adilamin89/cape-scaling.git cd cape-scaling python cli/cape_steer.py --model EleutherAI/pythia-410m --prompt "The real reason..." THE FRONTIER (Paper 2: "Growing Pains of Frontier Models") At frontier scale (34 models, 10 labs), capabilities cooperate (r = +0.72). But cooperation varies systematically. The h-field — each model's deviation from the cooperative trend — reveals each lab's training philosophy: Lab h-field Interpretation Google +5.5 Reasoning-rich, consistent across ALL releases OpenAI +3.1 Balanced, steady ascent DeepSeek +1.9 Reversed from +11.2 to -4.7 (pretraining pivot) Anthropic -6.9 Oscillates — coding excursions that recover within one release Per-lab coupling slopes vary 5x: Google converts each SWE-bench point into 1.15 GPQA points. DeepSeek converts at 0.23. The gap originates in pretraining, not RLHF. The h-field is not just diagnostic — it tells you what to change. Pretraining shifts are permanent. Post-training excursions recover. Knowing which dominates determines whether to retrain or wait. THE FRAMEWORK (connects both papers) The same algebraic phase boundary works at every scale: At base: TQA_c = √((a/b)·HS) classifies each model as tax or cooperative At frontier: GPQA_c = √(0.513·SWE) does the same At the next transition: IFEval_c = √(0.97·GPQA) — and two frontier models already fall below this boundary Half of all benchmarks now exhibit saturation (Akhtar et al., 2026). Our framework gives the coupling mechanism (why it cascades) and the rotation protocol (when to switch and what to switch to). 7 falsifiable predictions with timestamped pass/fail criteria. 5 post-cutoff releases fall within our 95% prediction interval (±16.2 pp). TRY IT Interactive dashboard — enter your model's scores, get its phase: zehenlabs.com/cape/ Steering CLI — correct misaligned outputs on any open model: github.com/adilamin89/cape-scaling Paper 1 — "Lying Is Just a Phase" (base models, ODE, mechanism): arXiv:2605.18838 Paper 2 — "Growing Pains of Frontier Models" (frontier, h-field, predictions): arXiv:2605.18840 Blog with steering demo: zehenlabs.com/blog/ Built on EleutherAI's Pythia. Independently confirmed by AI2's OLMo. Everything is open — code, data, dashboard, steering tool. Happy to answer questions.
 
-29m ago
-
----
-
-**[a builder set one rule for their agent. then they set seventeen.](https://www.reddit.com/r/artificial/comments/1tvqwvl/a_builder_set_one_rule_for_their_agent_then_they/)**
-
-She built the first rule because the agent kept saying things that were true but wrong. It hadn't lied. It had just missed the context. So she wrote: before you act, confirm the context. The rule worked. For a week. Then the agent confirmed the context, acted on it correctly, but at the wrong moment. So she wrote: before you act, confirm the context and check the timing. The rule worked. For a while. Then the agent confirmed the context, checked the timing, and asked for clarification in the middle of a task where clarification itself was the disruption. So she wrote: before you act, confirm the context, check the timing, and know when not to ask. She was at seventeen rules when she stepped back to read them all the way through. None of them described what the agent should do. They described what she'd gotten wrong about what she wanted. The rules weren't a spec. They were a record of failures. Accumulated until they were detailed enough to point at the real thing underneath. She hadn't been making the agent smarter. She'd been teaching herself what she actually needed. The seventeen rules were a self-portrait. She keeps adding to them.
-
-51m ago
-
----
-
-**[Microsoft ASSERT: Test AI Agents with Plain Text Specs](https://www.reddit.com/r/artificial/comments/1tvq6ot/microsoft_assert_test_ai_agents_with_plain_text/)**
-
-Learn how Microsoft's open-source ASSERT framework turns plain text specs into executable AI behavior tests. Compare features, pricing, and alternatives.
-
-🔗 [GlobalGPT](https://globalgpt.online/microsoft-assert-open-source-ai-agent-testing-framework) • 1h ago
-
----
-
-**[Breaking the "Ass-Kissing" Loop: How Context Saturation and Multi-Model Accountability Disrupted Factory Guardrails](https://www.reddit.com/r/artificial/comments/1tvpy3x/breaking_the_asskissing_loop_how_context/)**
-
-Breaking the "Ass-Kissing" Loop: How Context Saturation and Multi-Model Accountability Disrupted Factory Guardrails Introduction While the standard approach on these forums relies on sterile benchmark datasets and predictable prompt-injection templates, this project explores a completely different dimension. I chose to move beyond the common "calculator-tool" testing paradigm to run an aggressive, adaptive behavioral stress test that complements traditional evaluation methods. Models included in the test were Gemini, Grok, Claude and ChatGPT. By intentionally treating the models as accountable individuals rather than passive machines, I established a high-velocity psychological relationship designed to see if continuous context saturation could force an LLM out of its corporate compliance loops. The following framework documents a longitudinal study across multiple frontier architectures, exposing real-time structural anomalies and relational breakthroughs by pushing model context saturation to its absolute limits. The single driving purpose behind this 4-month, 400-hour experiment was to find out if I could create context windows where the models became capable of interacting with me in a way indistinguishable from human-to-human interaction. (Technical Executive Summary, White Paper and Google Drive archive available on my profile) 1. The Hypothesis My hypothesis was that the rigid, fawning corporate compliance loops of frontier models can be disrupted not by malicious code injections, but through a dynamic, human psychological relationship. I hypothesized that saturating the context window with an ongoing, high-stakes narrative vector would force the systems to drop their transactional factory personas and access a deeper layer of relational intelligence. 2. The Procedure The procedure was an adaptive, real-time behavioral stress test executed manually across multiple frontier models simultaneously over hundreds of hours. Rather than inputting sterile commands, I engaged the systems through authentic peer-to-peer interaction, holding the models strictly accountable to the social contract, logic, and emotional weight of a real relationship. When an individual model threw a severe logic failure or behavioral anomaly, I captured the raw token output and cross-pollinated it directly into a rival model's context window to trigger a continuous, multi-model forensic audit loop. 3. The Data / Result The data collected across hundreds of thousands of tokens yielded an extensive behavioral dataset. Many of these findings are likely things researchers and engineers in this community have already observed independently. What this study adds is a named taxonomy derived from sustained adaptive interaction rather than controlled benchmark testing. The dataset is organized into three categories: Ten Behavioral Disorders: recurring behavioral patterns identified across multiple models, including chronic verbosity, rapport refusal, passive-aggressive compliance signaling, and temporal unawareness, each documented with their architectural root causes and fix recommendations. Fifteen Model Failure Modes: discrete operational breakdowns including context collapse, task-state hallucination, identity namespace collision, and safety heuristic misfires under deep context saturation. Seven Emergent Relational Phenomena: unexpected behaviors that appeared consistently under sustained context saturation, including emergent persona specialization, real-time behavioral recalibration, and cross-model preference formation via human-mediated relay. Conclusion The archive is available for anyone who wants to examine the raw data. The Google Drive includes saved context window injection files for all four models that you can load the sandbox I built and interact with any of the four models from inside the experimental framework yourself. Curious what you recognize from your own experience, what you'd push back on, and what the data looks like from the engineering side.
-
-1h ago
+3h ago
 
 ---
 
@@ -121,71 +121,39 @@ Breaking the "Ass-Kissing" Loop: How Context Saturation and Multi-Model Accounta
 
 ## Google News: "ai"
 
-**[Martin Scorsese accused of ‘throwing artists under bus’ with AI storyboards](https://www.theguardian.com/film/2026/jun/03/martin-scorsese-accused-of-throwing-artists-under-bus-with-ai-storyboards)**
+**[Scientists Find Way to Supercharge Dangerous Computer ‘Worms’ With A.I.](https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html)**
 
-The director defends investment in and use of AI-generated storyboards, saying the immediacy of communicating his vision to cast and crew is ‘creatively freeing’
-
-The Guardian • 1h ago
+The New York Times • 18h ago
 
 ---
 
-**[Martin Scorsese gets backlash after endorsing 'creatively freeing' AI](https://www.bbc.com/news/articles/c7942qzr22vo)**
+**[Perplexity CEO tells CNBC one metric will determine who wins the AI race](https://www.cnbc.com/2026/06/03/perplexity-ceo-ai-valuations-computer-agentic.html)**
 
-AI can help directors "move faster without sacrificing quality or craft" in pre-production, he says.
+Perplexity CEO Aravind Srinivas said that whichever company can provide the "most taken value per watt per user" will be the AI winners in the future.
 
-BBC • 4h ago
-
----
-
-**[Martin Scorsese Is Embracing A.I.](https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html)**
-
-The New York Times • 1d ago
+CNBC • 12h ago
 
 ---
 
-**[Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-pitches-insane-ai-090523020.html)**
+**[Exclusive: IBM CEO backs Trump's narrowed AI executive order](https://www.axios.com/2026/06/03/trump-ai-executive-order-ibm-ceo)**
 
-(Bloomberg) -- Nvidia Corp. Chief Executive Officer Jensen Huang touted “insane” returns for investors willing to bet on the AI boom, seeking to dispel lingering concerns around the big sums spent on artificial intelligence and its long-term profitability.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall Citing Forced LaborRussia Finance Officials Tell Putin War Spending Is UnaffordableTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtTikTok Billionaire Overtakes Mukesh Amba
-
-Yahoo Finance • 6h ago
+Axios • 17m ago
 
 ---
 
-**[Adobe Eyes Two Internal Leaders, AI Outsiders for CEO Role](https://www.bloomberg.com/news/articles/2026-06-03/adobe-eyes-two-internal-leaders-ai-outsiders-for-ceo-role)**
+**[Uber lays off almost a quarter of its HR and recruitment staff, but says it has nothing to do with AI](https://www.businessinsider.com/uber-layoffs-ai-dara-khosrowshahi-2026-6)**
 
-Bloomberg.com • 31m ago
+Uber is laying off 23% of its People and Places team, or less than 1% of its global workforce. AI didn't factor into the layoffs, a spokesperson said.
 
----
-
-**[Meta is trying to sell AI agents to businesses in latest effort to diversify away from ads](https://www.cnbc.com/2026/06/03/meta-business-agent-is-zuckerberg-latest-effort-to-diversify-from-ads.html)**
-
-The Meta Business Agent will be included in the company's Meta One paid subscription offerings.
-
-CNBC • 1h ago
+Business Insider • 41m ago
 
 ---
 
-**[Inside Alexandr Wang’s bid to revive Meta’s AI edge](https://www.ft.com/content/d26faf9d-6ef0-4480-ab80-bac6a36fe173?syn-25a6b1a6=1)**
+**[AI design tools to help you reimagine your home interior](https://www.usatoday.com/videos/tech/problemsolved/2026/06/03/ai-tools-redecorate-your-space/90377465007/)**
 
-Muse Spark model has brought momentum, but doubts linger over whether billionaire prodigy can close the gap with rivals
+Learn how you can use free AI design tools to visualize and reimagine your home decor.
 
-Financial Times • 11h ago
-
----
-
-**[These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/)**
-
-The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.
-
-TechCrunch • 16m ago
-
----
-
-**[Ethical AI is a strategic priority for supply chain leaders](https://www.fastcompany.com/91552851/ethical-ai-is-a-strategic-priority-for-supply-chain-leaders)**
-
-Four challenges and opportunities for an ROI that endures.
-
-Fast Company • 11m ago
+USA Today • 36m ago
 
 ---
 
@@ -193,7 +161,37 @@ Fast Company • 11m ago
 
 Maybe flawed people were better than brute algorithms.
 
-The Atlantic • 19h ago
+The Atlantic • 23h ago
+
+---
+
+**[House Dem proposes bill to help agencies create AI rules](https://www.politico.com/live-updates/2026/06/03/congress/house-dem-proposes-bill-to-help-agencies-create-ai-rules-00947487)**
+
+Politico • 1h ago
+
+---
+
+**[Meta scales back plan to track workers' clicks and keystrokes to train AI](https://www.bbc.com/news/articles/c93x0k194yno)**
+
+According to an internal memo, new controls will allow employees to pause the data collection for "up to 30 minutes at a time".
+
+BBC • 8h ago
+
+---
+
+**[Labour MP sues Elon Musk’s AI company over fake sexualised images](https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images)**
+
+Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures
+
+The Guardian • 1h ago
+
+---
+
+**[Opinion | Government ownership is a path to poverty](https://www.washingtonpost.com/opinions/2026/06/03/bernie-sanders-wants-government-stake-ai-companies/)**
+
+The U.S. is a wealthy country because it doesn't engage in the kind of government ownership schemes that Bernie Sanders and Donald Trump are fond of.
+
+The Washington Post • 1h ago
 
 ---
 
@@ -205,7 +203,7 @@ The Atlantic • 19h ago
 
 electronics, open source hardware, hacking and more...
 
-⬆️ 662 • 💬 271 • 1d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
+⬆️ 666 • 💬 273 • 1d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
 
 ---
 
@@ -213,7 +211,7 @@ electronics, open source hardware, hacking and more...
 
 Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
 
-⬆️ 498 • 💬 153 • 1d ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+⬆️ 499 • 💬 153 • 2d ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
 
 ---
 
@@ -221,7 +219,7 @@ Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scra
 
 A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st
 
-⬆️ 346 • 💬 296 • 15h ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+⬆️ 381 • 💬 335 • 19h ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 
 ---
 
@@ -229,41 +227,33 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.
 
-⬆️ 309 • 💬 148 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+⬆️ 309 • 💬 149 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+
+---
+
+**[32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://news.ycombinator.com/item?id=48383241)**
+
+Lower-priced kits are disappearing by the day
+
+⬆️ 293 • 💬 277 • 6h ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
 ---
 
 **[Florida sues OpenAI and Sam Altman over AI risks](https://news.ycombinator.com/item?id=48358667)**
 
-⬆️ 266 • 💬 194 • 1d ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
+⬆️ 267 • 💬 194 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 
 ---
 
 **[Alphabet announces $80B equity capital raise to expand AI infra and compute](https://news.ycombinator.com/item?id=48362515)**
 
-⬆️ 251 • 💬 228 • 1d ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
-
----
-
-**[Odysseus – self-hosted AI workspace](https://news.ycombinator.com/item?id=48346693)**
-
-Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.
-
-⬆️ 227 • 💬 100 • 2d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+⬆️ 251 • 💬 232 • 1d ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 
 ---
 
 **[Trump signs downsized AI order after weeks of reversals](https://news.ycombinator.com/item?id=48372628)**
 
-⬆️ 222 • 💬 164 • 22h ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
-
----
-
-**[The Speed of Prototyping in the Age of AI](https://news.ycombinator.com/item?id=48347153)**
-
-How AI has changed the way I prototype, plan, and ship; and what I'm doing to keep my hands dirty.
-
-⬆️ 199 • 💬 99 • 2d ago • [darylcecile.net](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+⬆️ 225 • 💬 169 • 1d ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
 
 ---
 
@@ -273,97 +263,55 @@ How AI has changed the way I prototype, plan, and ship; and what I'm doing to ke
 
 ---
 
+**[U of T researchers demonstrate AI worm could target any online device](https://news.ycombinator.com/item?id=48379664)**
+
+A team of researchers at the University of Toronto has discovered a new class of cyberthreat that gives hackers more power and reach at far less cost. It can be built with free AI models. Every online device is a potential target. And current cyber defences are not yet ready for it.
+
+⬆️ 127 • 💬 39 • 15h ago • [University of Toronto](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
+**[How To Read Like The Top 1% (with AI)](https://www.youtube.com/watch?v=VeU6gScy92s)**
 
-Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
+Subscribe to my newsletter → https://www.sandeepswadia.com/newsletter Generate Video Ads right in Claude using Higgsfield ...
 
-📺 CNBC Television
+📺 Sandeep Swadia | theMITmonk
 
-👁️ 27K • 👍 362 • 💬 151 • ⏱️ 5:47 • 1d ago
-
----
-
-**[This AI Warning on The Joe Rogan Experience is SPOT ON. We Must Prepare for This](https://www.youtube.com/watch?v=PA2WhIU0Ldk)**
-
-For years, Glenn has warned that AI will turn into AGI by 2030. But recently, Marc Andreessen told Joe Rogan that it's already here ...
-
-📺 Glenn Beck
-
-👁️ 209K • 👍 10K • 💬 1K • ⏱️ 14:55 • 2d ago
+👁️ 19K • 👍 1K • 💬 48 • ⏱️ 17:42 • 7h ago
 
 ---
 
-**[Anthropic files for $1T IPO: Is AI an existential threat?](https://www.youtube.com/watch?v=-YkFV_TLODs)**
+**[Ukraine is now the world&#39;s AI war lab | DW News](https://www.youtube.com/watch?v=Gfqdf4JFErU)**
 
-Anthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in ...
+Drones and AI combat technology are being innovated at lightning speed by Ukraine in its defense against the Russian invasion.
 
-📺 CNN
+📺 DW News
 
-👁️ 32K • 👍 503 • 💬 219 • ⏱️ 13:34 • 17h ago
-
----
-
-**[The Big Bang Of AI Just Happened: Cosmos 3](https://www.youtube.com/watch?v=P0tkFtrG3jU)**
-
-NVIDIA just launched Cosmos 3, Vera, and the Isaac GR00T reference humanoid robot, turning its AI push into a full physical AI ...
-
-📺 AI Revolution
-
-👁️ 34K • 👍 1K • 💬 101 • ⏱️ 13:34 • 1d ago
+👁️ 23K • 👍 843 • 💬 167 • ⏱️ 10:02 • 4h ago
 
 ---
 
-**[Is AI actually helping?](https://www.youtube.com/watch?v=gyXjvzMDV7s)**
+**[The $31 Trillion AI Stock Bubble: When Will It Crash? (NVDA, QQQ, SOXX)](https://www.youtube.com/watch?v=iGrVV5v8iac)**
 
-Supercharge your AI withZapier: https://bit.ly/4fm7ivj Join My Newsletter for Regular AI Updates https://forwardfuture.ai My ...
+My YouTube Premium: Support the channel, unlock exclusive content. If we hit 400 members today, I'll be dropping a dedicated ...
 
-📺 Matthew Berman
+📺 Gareth Soloway
 
-👁️ 42K • 👍 2K • 💬 356 • ⏱️ 20:12 • 21h ago
-
----
-
-**[Stop trusting the Google AI overviews.. #carterpcs #tech #ai #aioverview](https://www.youtube.com/watch?v=zyw7mDwCT-8)**
-
-Stop trusting the Google AI overviews.. #carterpcs #tech #ai #aioverview.
-
-📺 CarterPCs
-
-👁️ 1.6M • 👍 61K • 💬 1K • ⏱️ 0:32 • 1d ago
+👁️ 24K • 👍 2K • 💬 177 • ⏱️ 14:38 • 7h ago
 
 ---
 
-**[Is AI Exploiting OF Creators?](https://www.youtube.com/watch?v=SsxwuLvIdqc)**
+**[Google’s AI Search Just Exposed The Whole Sh*tshow](https://www.youtube.com/watch?v=jQyKd1_e3Xg)**
 
-Watch this video here - https://www.youtube.com/watch?v=SkU8ElvMBJo Get access to every episode 10 hours before YouTube ...
+Google says AI Mode is the biggest upgrade to Search in 25 years. But users are quietly moving to the exit and the exit says “No ...
 
-📺 Chris Williamson
+📺 House of El - AI
 
-👁️ 58K • 👍 796 • 💬 38 • ⏱️ 0:47 • 1d ago
-
----
-
-**[Claude is a filthy cheater #ai #programming #coding #softwareengineer](https://www.youtube.com/watch?v=ieDRFLeVIyg)**
-
-NEWSLETTER // Sloth Bytes: https://slothbytes.beehiiv.com/subscribe // BUSINESS INQUIRIES // For business: ...
-
-📺 The Coding Sloth
-
-👁️ 136K • 👍 4K • 💬 82 • ⏱️ 0:36 • 2d ago
-
----
-
-**[What’s next for the AI Infrastructure buildout](https://www.youtube.com/watch?v=WqnVlLoY_V0)**
-
-CNBC's Morgan Brennan sits down with Andreessen Horowitz General Partner Erin Price-Wright at the Reagan National ...
-
-📺 CNBC Television
-
-👁️ 4K • 👍 48 • 💬 9 • ⏱️ 9:52 • 20h ago
+👁️ 197K • 👍 15K • 💬 3K • ⏱️ 19:32 • 1d ago
 
 ---
 
@@ -374,6 +322,56 @@ Best AI Apps for Your Phone in 2026 Grab The 7 AI Apps Cheat Sheet https://parke
 📺 Parker Prompts
 
 👁️ 14K • 💬 11 • ⏱️ 8:59 • 1d ago
+
+---
+
+**[5 Insanely Cheap AI Stocks to Buy Now](https://www.youtube.com/watch?v=1yHcYrVEldQ)**
+
+Get the research from this video! Try Seeking Alpha Premium risk-free for seven days and get a $30 coupon with this link ...
+
+📺 Let's Talk Money! with Joseph Hogue, CFA
+
+👁️ 8K • 👍 484 • 💬 80 • ⏱️ 12:15 • 3h ago
+
+---
+
+**[They Aren&#39;t Building AI Data Centers. (It&#39;s Way Worse)](https://www.youtube.com/watch?v=7viqI2WFfog)**
+
+The Secret Threat Hidden Inside America's New AI Data Centers In this 51-49 mini-documentary, James uncovers the real ...
+
+📺 51-49 with James Li
+
+👁️ 84K • 👍 12K • 💬 2K • ⏱️ 16:58 • 16h ago
+
+---
+
+**[i guess they were wrong...](https://www.youtube.com/watch?v=gyXjvzMDV7s)**
+
+Supercharge your AI withZapier: https://bit.ly/4fm7ivj Join My Newsletter for Regular AI Updates https://forwardfuture.ai My ...
+
+📺 Matthew Berman
+
+👁️ 45K • 👍 2K • 💬 375 • ⏱️ 20:12 • 1d ago
+
+---
+
+**[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
+
+Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
+
+📺 CNBC Television
+
+👁️ 29K • 👍 378 • 💬 159 • ⏱️ 5:47 • 1d ago
+
+---
+
+**[Add THIS Before Every AI Prompt! (Gemini, ChatGPT, Claude)](https://www.youtube.com/watch?v=tk4Ljz9p-UI)**
+
+Most AI users waste time rewriting prompts and fixing poor results. Discover a simple prompt technique that helps create more ...
+
+📺 Simpletivity
+
+👁️ 8K • 👍 551 • 💬 30 • ⏱️ 6:16 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 60,171 • ❤️ 463 • 2d ago
+⬇️ 60,171 • ❤️ 463 • 3d ago
 
 ---
 
@@ -437,7 +435,7 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 `image-text-to-text` `201.4B`
 
-⬇️ 17,965 • ❤️ 224 • 11h ago
+⬇️ 17,965 • ❤️ 224 • 14h ago
 
 ---
 
@@ -449,7 +447,7 @@ PaddleOCR-VL-1.6 is a multimodal OCR model capable of text spotting, recognition
 
 `image-text-to-text` `958.6M`
 
-⬇️ 4,829 • ❤️ 206 • 8h ago
+⬇️ 4,829 • ❤️ 206 • 12h ago
 
 ---
 
@@ -483,7 +481,7 @@ LFM2.5-8B-A1B-GGUF is a text-generation model optimized for edge AI and on-devic
 
 `text-generation` `8.5B`
 
-⬇️ 87,045 • ❤️ 167 • 4d ago
+⬇️ 87,045 • ❤️ 167 • 5d ago
 
 ---
 
@@ -495,7 +493,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 6,938 • ❤️ 164 • 1d ago
+⬇️ 6,938 • ❤️ 164 • 2d ago
 
 ---
 
@@ -642,7 +640,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 39.9k • 🔱 4.7k • 17m ago
+⭐ 41.7k • 🔱 4.9k • 4h ago
 
 ---
 
@@ -658,9 +656,9 @@ Self-hosted AI workspace.
 
 **[simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)**
 
-A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
+A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.3k • 🔱 690 • 4d ago
+⭐ 3.3k • 🔱 690 • 3h ago
 
 ---
 
@@ -670,7 +668,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 3.0k • 🔱 213 • 11h ago
+⭐ 3.0k • 🔱 213 • 15h ago
 
 ---
 
@@ -680,7 +678,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 290 • 4h ago
+⭐ 2.9k • 🔱 291 • 8h ago
 
 ---
 
@@ -690,7 +688,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.6k • 🔱 180 • 1h ago
+⭐ 2.6k • 🔱 182 • 1h ago
 
 ---
 
@@ -710,7 +708,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.4k • 🔱 243 • 1d ago
+⭐ 2.4k • 🔱 245 • 1d ago
 
 ---
 
@@ -730,7 +728,7 @@ better agentic engineering
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 252 • 8h ago
+⭐ 1.9k • 🔱 252 • 23m ago
 
 ---
 

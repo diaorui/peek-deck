@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-03T15:16:07.091495+00:00'
+updated: '2026-06-03T19:06:51.616746+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 03, 2026 at 15:16 UTC  
+**Last Updated:** June 03, 2026 at 19:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,502.18
+### $65,983.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -9.6%  
-**30d:** -17.8%  
-**90d:** -2.3%  
-**1y:** -36.4%  
+**24h:** -2.3%  
+**7d:** -10.3%  
+**30d:** -18.4%  
+**90d:** -3.1%  
+**1y:** -36.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1333.66B
+**Market Cap:** $1321.45B
 Rank #1
 
-**Circulating Supply:** 20,038,178 BTC
+**Circulating Supply:** 20,038,259 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-47.7%
 
 **All-Time Low:** $67.81
-+97859.0%
++97143.8%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC today](https://www.reddit.com/r/Bitcoin/comments/1tvcymj/btc_today/)**
-
-12h ago
-
----
-
 **[Bitcoin on sale](https://www.reddit.com/r/Bitcoin/comments/1tvq3ug/bitcoin_on_sale/)**
 
 Just do it!! Take the opportunity!!
 
-1h ago
+5h ago
+
+---
+
+**[BTC today](https://www.reddit.com/r/Bitcoin/comments/1tvcymj/btc_today/)**
+
+15h ago
 
 ---
 
@@ -95,15 +95,45 @@ Just do it!! Take the opportunity!!
 
 ...or read The Bitcoin Standard or Lyn Alden's Broken Money to understand why people are happy to pay for one bitcoin 70,000 more than for one dollar.
 
-24m ago
+4h ago
 
 ---
 
-**[I'm so happy Bitcoin is dropping](https://www.reddit.com/r/Bitcoin/comments/1tuvq9t/im_so_happy_bitcoin_is_dropping/)**
+**[Where are the good ol' vibes? Roller Coaster Guy to the rescue!](https://www.reddit.com/r/Bitcoin/comments/1tvum0m/where_are_the_good_ol_vibes_roller_coaster_guy_to/)**
 
-I'm sure you are feeling the same as me if you truly understand Bitcoin. Being able to purchase Bitcoin at this prices in big 2026 it's such a blessing. The 4 year cycle is more alive than ever and it's stronger than the correlation with the stock market, meaning Bitcoin will go up the following years even if the rest is going down. I'm from a third world country and have been buying since march 2021 with some stops in 2024 and 2025. I own about 0.13 BTC now and plan to reach 0.2 during this bear market. Fundamentals are the same. Nothing changed. Stay strong, buy, hodl and be patient. See you in 2028 for the next ATH.
+Who desn't love this cute little fellow?!
 
-23h ago
+2h ago
+
+---
+
+**[Good year to accumulate](https://www.reddit.com/r/Bitcoin/comments/1tvxcrk/good_year_to_accumulate/)**
+
+Was not convinced of Bitcoin until the ETFs released. Was worried I was late to the party. We are debt free and buying every day in River. I am committed to DCA until 2030.
+
+1h ago
+
+---
+
+**[Either you believe or you don't](https://www.reddit.com/r/Bitcoin/comments/1tvt0zt/either_you_believe_or_you_dont/)**
+
+3h ago
+
+---
+
+**[This is the right time to buy](https://www.reddit.com/r/Bitcoin/comments/1tvuar6/this_is_the_right_time_to_buy/)**
+
+Simple as that, if you want to keep your money value you NEED to buy bitcoin, Think of it more as a way to maintain the value of your hard work than as an investment.
+
+2h ago
+
+---
+
+**[It’s been a while but I bought again today.](https://www.reddit.com/r/Bitcoin/comments/1tvwauj/its_been_a_while_but_i_bought_again_today/)**
+
+crypto just being a side gig, but I couldn’t resist buying some btc today
+
+1h ago
 
 ---
 
@@ -111,47 +141,15 @@ I'm sure you are feeling the same as me if you truly understand Bitcoin. Being a
 
 Everyone talks a big game, well nows the opportunity. You ask for these opportunities, here they are. Buy, accumulate, follow through.
 
-10h ago
+14h ago
 
 ---
 
-**[Daily buys](https://www.reddit.com/r/Bitcoin/comments/1tvpta5/daily_buys/)**
+**[I'm so happy Bitcoin is dropping](https://www.reddit.com/r/Bitcoin/comments/1tuvq9t/im_so_happy_bitcoin_is_dropping/)**
 
-Good morning, I turned this on about a week ago, keeping on until I hit my quarter of a bitcoin goal.
+I'm sure you are feeling the same as me if you truly understand Bitcoin. Being able to purchase Bitcoin at this prices in big 2026 it's such a blessing. The 4 year cycle is more alive than ever and it's stronger than the correlation with the stock market, meaning Bitcoin will go up the following years even if the rest is going down. I'm from a third world country and have been buying since march 2021 with some stops in 2024 and 2025. I own about 0.13 BTC now and plan to reach 0.2 during this bear market. Fundamentals are the same. Nothing changed. Stay strong, buy, hodl and be patient. See you in 2028 for the next ATH.
 
-1h ago
-
----
-
-**[I all-in BTC near 2022 bottom](https://www.reddit.com/r/Bitcoin/comments/1tvi27q/i_allin_btc_near_2022_bottom/)**
-
-I will do it again in 2026
-
-7h ago
-
----
-
-**[Dont' feed the fudders!](https://www.reddit.com/r/Bitcoin/comments/1tvnbmb/dont_feed_the_fudders/)**
-
-Please resist giving all the shitty doom posts and video's the clicks they need - it will just make them fire out more. Bitcoin has "died" hundreds of times and it still keeps going like it always will. Tik-tok-next-block.
-
-3h ago
-
----
-
-**[Everyone now has the same opportunity as everyone who joined in 2021. Level field. What do you do?](https://www.reddit.com/r/Bitcoin/comments/1tuztc7/everyone_now_has_the_same_opportunity_as_everyone/)**
-
-Drops like these are just bitcoin clock resets. The folks in 2021 probably have more bitcoin than you, BUT you can enter at the same price.
-
-20h ago
-
----
-
-**[Pray the dip lasts until the next paycheck](https://www.reddit.com/r/Bitcoin/comments/1tv7o75/pray_the_dip_lasts_until_the_next_paycheck/)**
-
-Because they never do
-
-15h ago
+1d ago
 
 ---
 
@@ -159,77 +157,71 @@ Because they never do
 
 ## Google News: "bitcoin"
 
-**[Bitcoin trails stocks by most since 2019 as traders get their kicks elsewhere](https://www.cnbc.com/2026/06/03/bitcoin-trails-stocks-by-most-since-2019-as-traders-get-their-kicks-elsewhere.html)**
+**[Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast](https://www.cnbc.com/2026/06/03/bitcoin-to-slump-to-new-lows-after-recent-sell-off-traders-predict.html)**
 
-Bitcoin hasn't had this cold a winter in seven years.
+The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Crypto Liquidations Top $1 Billion as Bitcoin’s Slide Deepens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tumbles-below-70-000-103347188.html)**
+**[Bitcoin drops back under $70,000, Strategy extends its slide](https://www.cnbc.com/2026/06/02/bitcoin-drops-back-under-70000-strategy-extends-its-slide.html)**
 
-(Bloomberg) -- Souring Bitcoin sentiment has triggered almost $1.5 billion in crypto liquidations over the past 24 hours, as the largest digital asset sank back to a two-month low. Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableCanada Dips Into Technical Recession for First Time Since 2020Trump to Get Audit Immunity as $1.8 Billion Fund in DoubtAndrew Left Found Guilty in Case That Spooked Short SellersAlphabet to Raise $80 Billion in Equity for AI Spendi
+Bitcoin on Tuesday fell below $70,000 for the first time since April amid deteriorating market sentiment.
 
-Yahoo Finance • 19h ago
+CNBC • 1d ago
+
+---
+
+**[Bitcoin's high conviction holders are turning into sellers as the crypto's price hits new lows](https://www.msn.com/en-us/money/markets/bitcoin-s-high-conviction-holders-are-turning-into-sellers-as-the-crypto-s-price-hits-new-lows/ar-AA24LV5j?ocid=finance-verthp-feeds)**
+
+MSN • 12m ago
+
+---
+
+**[Bitcoin isn't crashing because of Saylor, it's losing the momentum trade](https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade)**
+
+Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other momentum trades rather than concerns about Michael Saylor's bitcoin sales, according to Charles Schwab's Jim Ferraioli.
+
+CoinDesk • 16m ago
+
+---
+
+**[A $245 million Bitcoin heist led police to a 'Godfather' who hired Sheriff's deputies as enforcers](https://fortune.com/2026/06/03/adam-iza-godfather-bitcoin-heist-kidnapping-deputies-guilty/)**
+
+Fortune • 3h ago
 
 ---
 
 **[A 180% Crypto Rally Shows New Investing Era as Bitcoin Stumbles](https://www.bloomberg.com/news/articles/2026-06-03/a-180-crypto-rally-shows-new-investing-era-as-bitcoin-stumbles)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin faces mounting pressure beyond Strategy sale](https://www.axios.com/2026/06/03/bitcoin-saylor-strategy-stocks)**
+
+Axios • 1h ago
 
 ---
 
 **[IREN Surges On Australia Data Center Plans, Analyst Shifts Bitcoin Miner Targets](https://www.investors.com/news/iren-stock-data-center-australia-ai-bitcoin-miners-mara-riot-platfroms-core-scientific-corz-bitcoin-price/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[Bitcoin price news: BTC bounces from overnight tumble to $65,000, but remains under pressure](https://www.coindesk.com/markets/2026/06/03/live-markets-what-s-next-as-bitcoin-re-tests-february-low-for-third-time)**
+**[Bessent backs summer push for Clarity Act, says bitcoin reserve moving at 'deliberate speed'](https://www.theblock.co/post/403563/bessent-backs-summer-push-clarity-act-bitcoin-reserve-moving-deliberate-speed)**
 
-One novel theory floating around social media says it's Iranian sanctions, not Strategy sales, that's behind this week's price crash.
+Treasury Secretary Scott Bessent said the department is moving at a "deliberate speed" to establish a strategic bitcoin reserve.
 
-CoinDesk • 40m ago
-
----
-
-**[Strategy shares fall after selling $2.5 million in bitcoin, its first sale since 2022](https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html)**
-
-Michael Saylor's Strategy sold bitcoin for the second time ever as geopolitical uncertainty continues to weigh on the cryptocurrency's price.
-
-CNBC • 2d ago
+The Block • 2h ago
 
 ---
 
-**[Should You Buy Bitcoin While It's Under $80,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/03/should-buy-bitcoin-under-80000-answer-surprise-you/)**
+**[Saylor’s Strategy Sells Bitcoin for First Time Since 2022](https://www.wsj.com/finance/currencies/saylors-strategy-sells-bitcoin-for-first-time-since-2022-05a531a8)**
 
-The world's top cryptocurrency might be losing its identity.
-
-The Motley Fool • 5h ago
-
----
-
-**[SpaceX’s $1.4 billion Bitcoin hoard is a strategic reserve—and an accounting headache](https://fortune.com/2026/06/01/spacexs-1-4-billion-bitcoin-hoard-is-a-strategic-reserve-for-its-cash-and-an-accounting-headache/)**
-
-“Marking $1.45 billion in Bitcoin to market each quarter can produce wild swings … that have nothing to do with rocket launches or satellite performance”
-
-Fortune • 2d ago
-
----
-
-**[Bitcoin Can't Compete With the AI Trade](https://www.etf.com/sections/features/bitcoin-cant-compete-ai-trade)**
-
-ETF.com • 20h ago
-
----
-
-**[Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer](https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer)**
-
-Microsoft said AI helped speed Majorana 2 development, adding to growing concerns about when quantum computers could threaten Bitcoin's cryptography.
-
-Decrypt • 11h ago
+WSJ • 1d ago
 
 ---
 
@@ -237,19 +229,11 @@ Decrypt • 11h ago
 
 ## HackerNews: "bitcoin"
 
-**[Matching Hashes: Reproducing the Guix-Built Bitcoin Core Release Binary with Nix](https://news.ycombinator.com/item?id=48296063)**
-
-Earlier this week, I produced a Nix-built bitcoind binary for Bitcoin Core v31.0 whose hash exactly matches the official Guix-built x86_64-pc-linux-gnu release binary. The result came out of a three year old side project, with a difficult goal: Can a binary built with Nix be made bit-for-bit identical to one produced by Bitcoin Core’s Guix reproducible build system?
-
-⬆️ 43 • 💬 0 • 6d ago • [b10c's blog](https://b10c.me/projects/027-bitcoind-gunix-match/)
-
----
-
 **[Ditto · a Nostr to Bitcoin Wallet](https://news.ycombinator.com/item?id=48369411)**
 
 Nostr client with other stuff
 
-⬆️ 32 • 💬 0 • 1d ago • [GitLab](https://gitlab.com/soapbox-pub/ditto/-/blob/main/WALLET.md)
+⬆️ 46 • 💬 0 • 1d ago • [GitLab](https://gitlab.com/soapbox-pub/ditto/-/blob/main/WALLET.md)
 
 ---
 
@@ -257,7 +241,7 @@ Nostr client with other stuff
 
 Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its "never sell" stance broke.
 
-⬆️ 6 • 💬 1 • 1d ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
+⬆️ 6 • 💬 1 • 2d ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
 
 ---
 
@@ -271,7 +255,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 MicroStrategy sold 32 bitcoin in May, marking the first mstr stock sale of digital assets since December 2022. The company’s disclosure triggered declines in the stock, signaling investor concern over a shift in management’s blockchain strategy. Quick Facts 32 bitcoin sold for $2.5 million in May 2026 First sale since December 2022—nearly 3.5 years earlier…
 
-⬆️ 3 • 💬 0 • 17h ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
+⬆️ 3 • 💬 0 • 21h ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
 
 ---
 
@@ -303,7 +287,7 @@ Strategy (NASDAQ: $MSTR ) has sold some of its Bitcoin (CRYPTO: $BTC ) holdings.
 
 Historical source code printed on gallery-quality canvas. Apollo 11's flight code, Linus's first Git commit, the Perl camel — licensed by O'Reilly. Eight pieces of computing history, on your wall.
 
-⬆️ 7 • 💬 2 • 1d ago • [canvascript](https://canvascript.com/)
+⬆️ 8 • 💬 2 • 2d ago • [canvascript](https://canvascript.com/)
 
 ---
 
@@ -315,17 +299,25 @@ Treasury Secretary Scott Bessent said the U.S. has seized up to $1 billion in Ir
 
 ---
 
+**[Anonymous plaintiffs have asked a NYC court to declare them owners of 3.8M BTC](https://news.ycombinator.com/item?id=48309473)**
+
+Anonymous plaintiffs have asked a New York court to declare them owners of 3.8m long-dormant BTC, including coins tied to Bitcoin’s mysterious creator. The case has a dubious legal basis, but the stakes are enormous.
+
+⬆️ 3 • 💬 0 • 6d ago • [Galaxy](https://www.galaxy.com/insights/research/satoshi-bitcoin-salomon-brothers-patoshi-abandoned-property-new-york-noah-doe-lawsuit)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: A Date with Destiny](https://www.youtube.com/watch?v=icDF_qFXATM)**
+**[Crypto Crashing Due To This (i&#39;m sorry)](https://www.youtube.com/watch?v=FwzyNt6XIlY)**
 
-Bitcoin is preparing for its date with destiny, likely coming soon! Into The Cryptoverse Premium SALE: ...
+Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 78K • 👍 6K • 💬 309 • ⏱️ 4:40 • 19h ago
+👁️ 42K • 👍 2K • 💬 264 • ⏱️ 12:30 • 20h ago
 
 ---
 
@@ -335,87 +327,87 @@ Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 478 • ⏱️ 11:42 • 14h ago
+👁️ 31K • 👍 1K • 💬 479 • ⏱️ 11:42 • 18h ago
 
 ---
 
-**[Crypto Crashing Due To This (i&#39;m sorry)](https://www.youtube.com/watch?v=FwzyNt6XIlY)**
+**[Crypto Is Dead... But Not How You Think](https://www.youtube.com/watch?v=KOYTzj12lb8)**
 
-Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 253 • ⏱️ 12:30 • 16h ago
-
----
-
-**[Bitcoin CRASHES Below $70K As ETFs Bleed A Historic $3.4 Billion](https://www.youtube.com/watch?v=-4PEnkGmNII)**
-
-Bitcoin #Crypto #Finance Bitcoin just crashed below $70000 - falling 3.8% overnight to $69446 - as $766 million in liquidations ...
-
-📺 The Wolf Of All Streets
-
-👁️ 22K • 👍 717 • 💬 273 • ⏱️ 53:41 • 1d ago
-
----
-
-**[Bitcoin is losing what makes it unique, says RWA.xyz&#39;s Emily Parker](https://www.youtube.com/watch?v=1zw1AhTR4Bo)**
-
-Emily Parker, RWA.xyz strategic advisor, joins 'The Exchange' to discuss bitcoin's recent move lower, Parker's message to bitcoin ...
-
-📺 CNBC Television
-
-👁️ 8K • 👍 90 • 💬 150 • ⏱️ 3:35 • 20h ago
-
----
-
-**[Why Is Bitcoin Crashing?](https://www.youtube.com/watch?v=YYHPrccB1NA)**
-
-Bitcoin fell below $68000 as crypto weakness continued across major tokens, with Ethereum and XRP also trading lower. One of ...
-
-📺 Benzinga
-
-👁️ 7K • 👍 83 • 💬 7 • ⏱️ 0:56 • 21h ago
-
----
-
-**[Tom Lee Says Strategy&#39;s Bitcoin Sale Is Classic &#39;Bottom Behavior&#39;](https://www.youtube.com/watch?v=Wj2spx7gTMU)**
-
-Bitmine's Tom Lee told CoinDesk that the record 11-day bitcoin ETF outflow streak and Strategy's first BTC sale since 2022 are ...
-
-📺 CoinDesk
-
-👁️ 4K • 👍 34 • 💬 5 • ⏱️ 1:30 • 22h ago
-
----
-
-**[Is the Bitcoin Thesis Broken? Tom Lee Weighs In](https://www.youtube.com/watch?v=NQuKKchNTu4)**
-
-Tom Lee joins 'Squawk Box' to discuss the latest market trends, impact of AI, market outlook, state of crypto, and more.
-
-📺 Fundstrat
-
-👁️ 72K • 👍 1K • 💬 417 • ⏱️ 7:41 • 2d ago
-
----
-
-**[Bitcoin is crashing. Crypto isn&#39;t.](https://www.youtube.com/watch?v=zoZTzOaw5eA)**
-
-bitcoin #crypto #stablecoins June 2nd, 2026 - Bitcoin broke $70000. The future of finance didn't. Stablecoins, payment networks ...
-
-📺 Yahoo Finance
-
-👁️ 11K • 👍 435 • 💬 127 • ⏱️ 14:52 • 22h ago
-
----
-
-**[Bitcoin at $25k? - Peter Brandt &amp; Ran Neuner](https://www.youtube.com/watch?v=KycmQ3D7RAQ)**
-
-Peter Brandt called Bitcoin's top to the exact month. Now he's calling the bottom — somewhere in the $50-60K range. And he says ...
+The role of crypto may be changing. In today's episode, Ran breaks down why capital is rotating toward equities, IPOs, and AI ...
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 138 • 💬 13 • ⏱️ 1:18 • 2d ago
+👁️ 13K • 👍 994 • 💬 38 • ⏱️ 30:04 • 4h ago
+
+---
+
+**[Bitcoin Crash - WTF Just Happened](https://www.youtube.com/watch?v=JbHwNHhbENw)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 10K • 👍 543 • 💬 59 • ⏱️ 17:55 • 6h ago
+
+---
+
+**[Michael Saylor Sold! Bitcoin Continues the Collapse](https://www.youtube.com/watch?v=vRohP7AeVAA)**
+
+Michael Saylor's first Bitcoin sale since 2022 just blew up the market narrative. He sold only 32 BTC, but the move broke faith in ...
+
+📺 Coin Bureau
+
+👁️ 6K • 👍 435 • 💬 79 • ⏱️ 12:02 • 4h ago
+
+---
+
+**[BITCOIN UNDER $66k](https://www.youtube.com/watch?v=MRHoZbFBJOs)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 2K • 👍 148 • 💬 35 • ⏱️ 10:11 • 2h ago
+
+---
+
+**[BITCOIN: THE BOTTOM IS NOT IN](https://www.youtube.com/watch?v=2BEvdGb9YsE)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 10K • 👍 564 • 💬 340 • ⏱️ 12:47 • 19h ago
+
+---
+
+**[Bitcoin COLLAPSES To $65,000 (Emergency Update)](https://www.youtube.com/watch?v=jZxm65X0Nbw)**
+
+TIA PRO 40% OFF LIFETIME DISCOUNT SALE NOW ON → https://link.tiainvestor.com/jp-tia-sale 40% OFF Lifetime Discount ...
+
+📺 Jason Pizzino
+
+👁️ 14K • 👍 932 • 💬 245 • ⏱️ 29:17 • 13h ago
+
+---
+
+**[Bitcoin: A Date with Destiny](https://www.youtube.com/watch?v=icDF_qFXATM)**
+
+Bitcoin is preparing for its date with destiny, likely coming soon! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 83K • 👍 6K • 💬 317 • ⏱️ 4:40 • 23h ago
+
+---
+
+**[Bitcoin ataca los mínimos del ciclo bajista: ¿Ahora qué?](https://www.youtube.com/watch?v=G4X86xJj8sc)**
+
+Directo Exclusivo Wall Street: https://tradinglab.es/wallstreet/registro?id=G4X86xJj8sc ▻ Lista Reproducción ESTRATEGIAS ...
+
+📺 Alex Ruiz
+
+👁️ 3K • 👍 478 • 💬 34 • ⏱️ 13:59 • 2h ago
 
 ---
 

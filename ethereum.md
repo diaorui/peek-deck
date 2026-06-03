@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-03T15:16:07.097599+00:00'
+updated: '2026-06-03T19:06:51.623510+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 03, 2026 at 15:16 UTC  
+**Last Updated:** June 03, 2026 at 19:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,869.80
+### $1,827.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -7.9%  
-**30d:** -21.5%  
-**90d:** -6.3%  
-**1y:** -28.9%  
+**24h:** -3.9%  
+**7d:** -8.8%  
+**30d:** -22.4%  
+**90d:** -7.3%  
+**1y:** -29.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.26B
+**Market Cap:** $220.85B
 Rank #2
 
 **Circulating Supply:** 120,685,013 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.7%
+-63.0%
 
 **All-Time Low:** $0.43
-+426442.6%
++422490.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+14h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 no shame in this. zk proofs get mentioned constantly in ethereum conversations and most explainers either go way too academic or skip the "why should i care" part entirely. here's my attempt at a practical breakdown. what's a zk proof actually doing? a zero-knowledge proof lets you prove something is true without revealing the underlying information. that's it. that's the whole concept. classic analogy: imagine you solved a sudoku puzzle. you want to prove to someone you solved it correctly, but you don't want to show them your solution. a zk proof lets you mathematically prove "yes, this solution is valid" without revealing a single number. the verifier becomes 100% convinced you solved it, but learns nothing about how. in crypto terms: you can prove a computation happened correctly without re-executing it or exposing the data involved. why does ethereum care? two big reasons right now: scaling. zk rollups (zkSync, Scroll, Polygon zkEVM) batch hundreds of transactions off-chain, execute them, and post a tiny proof back to L1 that says "all of these were valid." L1 just verifies the proof instead of re-running every transaction. way cheaper, same security guarantee. privacy. normally everything on-chain is public. zk proofs let you prove things like "i have enough balance for this transfer" or "i'm on this allowlist" without revealing your actual balance or identity. that's what protocols like Aztec use them for. the part most people miss zk proofs aren't limited to rollups and privacy. the core idea, "prove a computation was correct without re-executing it," applies to anything where you need trust in a result but can't or don't want to watch the computation happen. examples that are starting to get built: proving that an exchange's matching engine executed trades fairly without exposing the full order book state proving identity credentials (age, citizenship, accreditation) without revealing the actual documents proving AI model inference was done correctly on specific inputs the rollup use case gets 90% of the attention because it's the most mature. but the design space is way bigger than most people realize. if you want to go deeper the rabbit hole goes: understand the concept (you're here) > understand SNARKs vs STARKs (the two main proof systems) > understand specific implementations (plonk, groth16, SP1, risc zero). don't try to learn the math first. learn what the proofs enable, then work backwards into how they work. happy to answer questions if anything's unclear.
 
-6h ago
+10h ago
+
+---
+
+**[Lighter actually able to compete with Hyperliquid?](https://www.reddit.com/r/ethereum/comments/1tvw9uu/lighter_actually_able_to_compete_with_hyperliquid/)**
+
+What are everyone's thoughts on this? I actually haven't heard of this until a few months ago, but saw that Vitalik did a fireside chat with the dev team a few weeks back. Didn't buy it then, but saw lots of positive sentiment around it on X, including the David guy from Bankless. Platform: Just tried the platform now to buy the LIT asset, but wondering what people think of both the platform and the asset? I'm not the target audience since I don't trade, but the fundamental thesis I guess is that it might be the backbone for institutional perp platforms? Apparently it had a deal with Telegram to trade within the app (I dont use telegram so not sure if this is a big deal) There are rumors that Robinhood might integrate them into their perp offering soon. Potential tailwinds if Clarity Act passes, but I think that would be good for all tokens not just LIT or HYPE Token: This is where I'm a huge noob. I have only owned BTC and ETH for multiple cycles so I do not understand the tokenomics of these new tokens. Apparently, LIT and HYPE both use their fee revenue to buy back tokens, which is deflationary. But for both, they have a vesting schedule where early devs might sell in bulk. For LIT, it looks like December is the cliff. Any thoughts on this is a good investment, and for short or long term?
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ no shame in this. zk proofs get mentioned constantly in ethereum conversations a
 
 i think experienced users sometimes become more vulnerable. beginners are cautious because everything feels unfamiliar. veterans start speed-running approvals because they’ve interacted with thousands of contracts without issues before. then one day muscle memory catches up to them. feels like a lot of recent drains happened because people became too comfortable operating in environments they never fully verified in the first place.
 
-5h ago
+9h ago
 
 ---
 
@@ -102,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Dutch crypto broker Knaken (Rotterdam) abruptly shuts down, customers locked out of funds. This is why self-custody matters.](https://www.reddit.com/r/ethereum/comments/1tuu8gn/dutch_crypto_broker_knaken_rotterdam_abruptly/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -138,14 +146,6 @@ I am considering converting a few BTC to WBTC to stake. Theorically WBTC is bett
 
 ---
 
-**[Dev Tools Guild May 2026 update](https://www.reddit.com/r/ethereum/comments/1tuobq1/dev_tools_guild_may_2026_update/)**
-
-**TL;DR**: TheDAO Security Fund Ethereum security quadratic funding round results, Vyper 0.5.0 alpha prereleases, and pattern matching in Core Solidity.
-
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-may-2026-update) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ I am considering converting a few BTC to WBTC to stake. Theorically WBTC is bett
 
 The Bitmine chairman said DeFi and AI could push the Ethereum network's value into the multi-trillion range, making current prices “future optionality at a discount”.
 
-CoinDesk • 20h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 20h ago
 
 A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -178,15 +178,31 @@ PR Newswire • 2d ago
 
 Strategy's Bitcoin sale marked a counterintuitive turning point for Ethereum, Standard Chartered’s Geoff Kendrick argued.
 
-Decrypt • 16h ago
+Decrypt • 20h ago
 
 ---
 
-**[Ethereum Price to $250,000, Claims Tom Lee — Says Traders Are Bearish at Wrong Time](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-250-000-claims-130849799.html)**
+**[Why Ethereum Could Tank Another 25% Before Finding a Bottom: Analysis](https://finance.yahoo.com/markets/crypto/articles/why-ethereum-could-tank-another-183154985.html)**
 
-Fundstrat's Tom Lee said Ethereum could eventually reach $250,000. Lee believes investors are becoming bearish at the wrong time. Regulation and institutional adoption remain key ...
+ETH just crashed below $2,000 and is now trading near $1,841. Prediction markets place a 71% chance on a drop to $1,500—and the charts aren't pushing back.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 34m ago
+
+---
+
+**[Global digital asset ETPs dip 4% in May as Ethereum weakness offsets altcoin strength](https://finance.yahoo.com/markets/crypto/articles/global-digital-asset-etps-dip-152800785.html)**
+
+Global digital asset exchange traded products (ETPs) closed May 2026 with total assets under management (AUM) of $130.9 billion, down 4% at the end of April, according to research from Fineqia International Inc (CSE:FNQ). The decline partially reversed April's rebound and confirmed that...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Why Is Crypto Going Down Today? Bitcoin, Ethereum, XRP and Dogecoin Sink as Crypto Decouples From Record-High Stocks](https://www.tradingview.com/news/financemagnates:2024c64ed094b:0-why-is-crypto-going-down-today-bitcoin-ethereum-xrp-and-dogecoin-sink-as-crypto-decouples-from-record-high-stocks/)**
+
+Bitcoin (BTC) traded at $66,970 on Wednesday, June 3, 2026, holding just above its two-month low after a 9.5% weekly slide that dragged the entire digital asset complex lower. The total crypto market capitalization sits near $2.3 trillion, down roughly 8.7% on the week, with Ethereum at $1,872, XRP…
+
+TradingView • 5h ago
 
 ---
 
@@ -194,21 +210,7 @@ Yahoo Finance • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Ethereum leads way as most big cryptocurrencies post decreases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-decreases-72f3c951-fe1145e03cb5)**
-
-MarketWatch • 1h ago
-
----
-
-**[Ethereum Coinbase Premium Hits Lowest Level Since February – Traders Are Watching](https://www.tradingview.com/news/newsbtc:16e86d65d094b:0-ethereum-coinbase-premium-hits-lowest-level-since-february-traders-are-watching/)**
-
-Ethereum is struggling below $2,000 as selling pressure and market uncertainty combine to keep the asset pinned beneath a level that has become the defining test of whether the recovery from the cycle lows has any structural foundation remaining. The price is under pressure — and an Arab Chain repo…
-
-TradingView • 18h ago
+Fortune • 6h ago
 
 ---
 
@@ -220,11 +222,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Crypto Crash Today: Why Bitcoin, Ethereum, XRP and Major Altcoins Are Falling](https://coinpedia.org/price-analysis/crypto-crash-today-why-bitcoin-ethereum-xrp-and-major-altcoins-are-falling/)**
+**[MSTR Bitcoin Sale May Mark Turning Point For Ethereum – With BMNR, SBET Stocks Poised To Benefit, Says Standard Chartered](https://finance.yahoo.com/markets/crypto/articles/mstr-bitcoin-sale-may-mark-162927664.html)**
 
-Bitcoin, Ethereum, XRP, and major altcoins are crashing today amid aggressive selling pressure, wiping billions from the crypto market. The total crypto
+Although Strategy sold only 32 BTC, Standard Chartered’s Geoffrey Kendrick said investors viewed the transaction as a structural signal rather than an isolated event.
 
-Coinpedia • 8h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -238,17 +240,17 @@ This is pretty terrible for bitcoin, ethereum, and the rest of crypto and the ma
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 27 • ⏱️ 8:55 • 5h ago
+👁️ 8K • 👍 2K • 💬 30 • ⏱️ 8:55 • 9h ago
 
 ---
 
-**[Will Crypto Recover Soon? Bitcoin, XRP, Ethereum, Hyperliquid, &amp; Solana Analysis!](https://www.youtube.com/watch?v=mq2Q9mN_gW4)**
+**[🚨 ETH Update: $1850 Target Hit (Don’t Miss This!)](https://www.youtube.com/watch?v=vTQhD65CQ0Q)**
 
-Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, Hyperliquid, & Solana. We touch ...
+CoinGPT ✨ Your AI Crypto trading assistant https://marzell.org/CoinGPT ...
 
-📺 Thinking Crypto
+📺 Marzell Crypto
 
-👁️ 905 • 👍 99 • 💬 33 • ⏱️ 27:48 • 3h ago
+👁️ 440 • 👍 25 • 💬 69 • ⏱️ 4:12 • 6h ago
 
 ---
 
@@ -258,57 +260,17 @@ Ethereum's lead researcher says the Foundation is broken and proposes a $1 billi
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 779 • 💬 86 • ⏱️ 17:48 • 1d ago
+👁️ 22K • 👍 808 • 💬 91 • ⏱️ 17:48 • 1d ago
 
 ---
 
-**[Is the Bitcoin Thesis Broken? Tom Lee Weighs In](https://www.youtube.com/watch?v=NQuKKchNTu4)**
+**[Will Crypto Recover Soon? Bitcoin, XRP, Ethereum, Hyperliquid, &amp; Solana Analysis!](https://www.youtube.com/watch?v=mq2Q9mN_gW4)**
 
-Tom Lee joins 'Squawk Box' to discuss the latest market trends, impact of AI, market outlook, state of crypto, and more.
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, Hyperliquid, & Solana. We touch ...
 
-📺 Fundstrat
+📺 Thinking Crypto
 
-👁️ 72K • 👍 1K • 💬 417 • ⏱️ 7:41 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: ЭТО КОНЕЦ!!!!!!!!!!!!](https://www.youtube.com/watch?v=zt66Gd4hURY)**
-
-Так себе новости для биткоина, эфириума и всей остальной крипты, а также рынков в целом. Посмотрите это видео ...
-
-📺 Томас Кралов | Crypto & Trade
-
-👁️ 4K • 👍 264 • 💬 33 • ⏱️ 8:12 • 4h ago
-
----
-
-**[BITCOIN &amp; CRYPTO EMERGENCY: TOTAL COLLAPSE STARTING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E3O2ipLkqK0)**
-
-BITCOIN & CRYPTO EMERGENCY: TOTAL COLLAPSE STARTING!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 402 • 💬 228 • ⏱️ 29:01 • 13h ago
-
----
-
-**[Ethereum Is Waiting to POP… But Watch This First](https://www.youtube.com/watch?v=yrRo5A6CPnM)**
-
-Ethereum price prediction, ETH technical analysis, crypto market levels, support and resistance, and Fibonacci targets are the ...
-
-📺 Butter Smooth Crypto
-
-👁️ 88 • 👍 10 • 💬 9 • ⏱️ 8:43 • 19h ago
-
----
-
-**[&quot;FINALLY The Banana Zone Phase 2 Is HERE!&quot;: Raoul Pal | Bitcoin &amp; ETH Supercycle!](https://www.youtube.com/watch?v=H_IdSXAqVwA)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 330 • 💬 38 • ⏱️ 23:53 • 23h ago
+👁️ 2K • 👍 139 • 💬 38 • ⏱️ 27:48 • 7h ago
 
 ---
 
@@ -318,17 +280,57 @@ Ethereum may have just solved one of its biggest long-term problems. For years, 
 
 📺 Lamia web 3 crypto
 
-👁️ 88 • 👍 8 • 💬 9 • ⏱️ 5:31 • 22h ago
+👁️ 116 • 👍 9 • 💬 10 • ⏱️ 5:31 • 1d ago
 
 ---
 
-**[🚨 BlackRock Just Added $600M to Ethereum&#39;s Biggest RWA Fund](https://www.youtube.com/watch?v=MsCSCqde-Uw)**
+**[🚨 BTC &amp; ETH: ЭТО КОНЕЦ!!!!!!!!!!!!](https://www.youtube.com/watch?v=zt66Gd4hURY)**
 
-While retail investors debate whether Ethereum is finished, BlackRock just added another $600 million to BUIDL — its tokenized ...
+Так себе новости для биткоина, эфириума и всей остальной крипты, а также рынков в целом. Посмотрите это видео ...
 
-📺 Mie - Crypto Time Hotel
+📺 Томас Кралов | Crypto & Trade
 
-👁️ 128 • 👍 2 • ⏱️ 1:36 • 14h ago
+👁️ 7K • 👍 339 • 💬 49 • ⏱️ 8:12 • 8h ago
+
+---
+
+**[Is the Bitcoin Thesis Broken? Tom Lee Weighs In](https://www.youtube.com/watch?v=NQuKKchNTu4)**
+
+Tom Lee joins 'Squawk Box' to discuss the latest market trends, impact of AI, market outlook, state of crypto, and more.
+
+📺 Fundstrat
+
+👁️ 74K • 👍 1K • 💬 418 • ⏱️ 7:41 • 2d ago
+
+---
+
+**[&quot;FINALLY The Banana Zone Phase 2 Is HERE!&quot;: Raoul Pal | Bitcoin &amp; ETH Supercycle!](https://www.youtube.com/watch?v=H_IdSXAqVwA)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 8K • 👍 342 • 💬 40 • ⏱️ 23:53 • 1d ago
+
+---
+
+**[Tom Lee: Investors Are Rage Quitting = Crypto Winter Over?🥶🚀](https://www.youtube.com/watch?v=eRJdKlhfIwo)**
+
+shorts.
+
+📺 CJ Stock Pulse 
+
+👁️ 10K • 👍 139 • 💬 2 • ⏱️ 2:20 • 1d ago
+
+---
+
+**[Ethereum Is Waiting to POP… But Watch This First](https://www.youtube.com/watch?v=yrRo5A6CPnM)**
+
+Ethereum price prediction, ETH technical analysis, crypto market levels, support and resistance, and Fibonacci targets are the ...
+
+📺 Butter Smooth Crypto
+
+👁️ 100 • 👍 10 • 💬 9 • ⏱️ 8:43 • 23h ago
 
 ---
 
