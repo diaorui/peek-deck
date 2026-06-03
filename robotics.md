@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-02T22:23:14.439528+00:00'
+updated: '2026-06-03T00:11:21.340488+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 02, 2026 at 22:23 UTC  
+**Last Updated:** June 03, 2026 at 00:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ll be presenting this project at Stanford’s Deep Reinforcement Learning course, CS224R. I modified a diffusion policy so the robot can be prompted with a bounding box: “pick this object,” even in a cluttered scene with multiple LEGO blocks. The data was collected using a UMI handheld device, and the bounding-box conditioning enables a simple “point-and-click” interface for specifying the target object. The interesting part is that the instruction is spatial and visual, not just text. That matters because current Vision-Language-Action models can still struggle when the task requires selecting one specific object among very similar distractors. And as a small bonus: the whole policy runs locally on a laptop. :)
 
-3h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ll be presenting this project at Stanford’s Deep Reinforcement Learning co
 
 Hello all! This is my first post here. I am sharing the Waveshare UGV rover print files along with some hardware recommendation. I made these profiles and currently have the rover runing on ROS2 Humble Lite. I plan to integrate some SLAM modules eventually. The primary drive controller is seperate from raspberry pi 4B 8gb that i used. I originally bought this rover from a local seller then i wanted to understand the dynamics of it so i started vuilding from scratch. (The chasis main plate works fine in petg but i also had it laser cut in sheet metal). ESP32S3 drives the motors through 2x IBT-2 motor drivers Raspberry pi 4B is connected to esp32 via usb U can flash new firmware from raspi to esp on the go. I do have cmd vel file if someone actually goes ahead this way. This model is an open source model from waveshare however the electronics and firmware are all custom. I can make a github page for this if anyone requires. https://makerworld.com/models/2879603?appSharePlatform=copy
 
-8h ago
+10h ago
 
 ---
 
@@ -56,19 +56,11 @@ This is my two year undergraduate capstone project from Engineering Physics at U
 
 ---
 
-**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://www.reddit.com/r/robotics/comments/1tui7vu/china_deploys_humanoid_robots_to_sort_1200/)**
-
-Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 16h ago
-
----
-
 **[Hi everyone, new to the group and seeking advice for someone](https://www.reddit.com/r/robotics/comments/1turdsa/hi_everyone_new_to_the_group_and_seeking_advice/)**
 
 Hello everyone, I’m seeking advice for someone new to robotics. I’m trying to do some simple projects to have some father-son time now that they’re in summer. I found this one on Amazon with a raspberry pi, which I saw the coding and it’s not that hard. Are there any other kits I should be looking into? Any advice is welcomed.
 
-8h ago
+10h ago
 
 ---
 
@@ -76,7 +68,15 @@ Hello everyone, I’m seeking advice for someone new to robotics. I’m trying t
 
 https://preview.redd.it/2tnw6v3d6v4h1.png?width=1724&format=png&auto=webp&s=eda2bad3d60de7e11d8d2135c6e042fc4ad15fa9 Unitree Robotics just cleared China's STAR Market hearing in a record 73 days — the world's only humanoid robot company generating real profit at scale. But after reading the actual prospectus, the hype needs tempering. Report below 👇
 
-9h ago
+11h ago
+
+---
+
+**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://www.reddit.com/r/robotics/comments/1tui7vu/china_deploys_humanoid_robots_to_sort_1200/)**
+
+Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 18h ago
 
 ---
 
@@ -84,7 +84,7 @@ https://preview.redd.it/2tnw6v3d6v4h1.png?width=1724&format=png&auto=webp&s=eda2
 
 I am referring to this design of the joint 1 on a robotics arm with smaller bearings on the circumference of the base and then two additional bearings in the middle. I am wondering about the longevity of this design it seems there would be a decent amount of wear from the inside and outside bearing part having to spin at different speed and they would also wear down the plastic but still several popular robot arms use them. Also if u have any other design u would like to share of the joint 1 I would appreciate it.
 
-11h ago
+13h ago
 
 ---
 
@@ -98,7 +98,7 @@ I am referring to this design of the joint 1 on a robotics arm with smaller bear
 
 Pulled this brushless spindle out of a floppy drive ~20 years ago and finally made it spin. No published schematic for my controller board, so I reverse-engineered the pinout from a neighboring revision, then got it running open-loop on SimpleFOC. https://preview.redd.it/tnn3irekyx4h1.jpg?width=4032&format=pjpg&auto=webp&s=53e273a8e16cee6a24e502e86ae0e907e48ee8c4 Write-up: https://onedgy.com/blog/waking-a-dead-motor/
 
-12m ago
+2h ago
 
 ---
 
@@ -106,7 +106,7 @@ Pulled this brushless spindle out of a floppy drive ~20 years ago and finally ma
 
 Hey everyone, I'm working on a small autonomous marine drone/USV project and ran into something I'm curious about. Right now I have multiple components that all want different voltages (computer, sensors, radios, controllers, etc.), and I've ended up using a mix of converters and power modules. I'm wondering how others handle power distribution on their robots, drones, UGVs, or marine vehicles. Do you typically: Build your own power distribution setup? Use off-the-shelf power boards? Just combine multiple DC-DC converters? What's been the most annoying part of managing power on your projects? I'm not selling anything , just a student trying to understand how people are figuring this out?
 
-1h ago
+3h ago
 
 ---
 
@@ -122,11 +122,11 @@ CNBC • 1d ago
 
 ---
 
-**[Top 10 robotics stories of May 2026](https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/)**
+**[Robots Sense Reality: The Shocking Tech Leap That Changes Everything](https://www.futura-sciences.com/en/robots-sense-reality-the-shocking-tech-leap-that-changes-everything_33323/)**
 
-May 2026 was a busy month full of robotics news, and it was topped off by the Robotics Summit & Expo in Boston.
+Nvidia and the ICRA: Bridging the Gap Between Simulation and Reality Every June, the International Conference on Robotics and Automation (ICRA) gathers the best minds in robotics from across the globe, and this year, Nvidia’s presence is impossible to miss. The tech giant, already a heavyweight thanks to its AI...
 
-The Robot Report • 1d ago
+Futura, le média qui explore le monde • 11h ago
 
 ---
 
@@ -138,13 +138,15 @@ Bloomberg.com • 2d ago
 
 **[China Robotics Firms Line Up IPOs to Pitch Next Phase of AI](https://www.bloomberg.com/news/articles/2026-06-01/china-robotics-firms-line-up-ipos-to-pitch-next-phase-of-ai)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bankrupt Baltimore startup to hit the auction block](https://www.bizjournals.com/baltimore/news/2026/06/02/galen-robotics-auction-bankruptcy-court-startup.html)**
+**[A robot is helping an ailing couple stay in their home. Are more to come for an aging population?](https://www.kcra.com/article/caregiver-robot-home-care-support/71454720)**
 
-The Business Journals • 11h ago
+The decades-long quest to build home robots that are both helpful and lifelike — spurred on by fictional machines like "The Jetsons'" humanoid maid Rosie — is still mostly a pipe dream, but some developers are getting closer
+
+KCRA • 10m ago
 
 ---
 
@@ -152,7 +154,15 @@ The Business Journals • 11h ago
 
 morph today launches a physically intelligent soft robotics platform that designs and manufactures what it calls “soft robotic cells,” a term coined by the c...
 
-Business Wire • 12h ago
+Business Wire • 14h ago
+
+---
+
+**[Sam Altman backs Alfred, a physical AI startup for robotics](https://qz.com/sam-altman-alfred-startup-robotics-software-060226)**
+
+Alfred, founded 9 months ago by former Tesla and Meta employees, is aiming to raise at a $40 million valuation
+
+qz.com • 10h ago
 
 ---
 
@@ -161,14 +171,6 @@ Business Wire • 12h ago
 A former Tesla designer's startup has won investment from Sam Altman and other top investors as money floods into physical AI.
 
 Business Insider • 1d ago
-
----
-
-**[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
-
-Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
-
-Ars Technica • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it i
 
 📺 DPCcars
 
-👁️ 2K • 👍 22 • 💬 6 • ⏱️ 2:07 • 5h ago
+👁️ 2K • 👍 22 • 💬 6 • ⏱️ 2:07 • 7h ago
 
 ---
 
@@ -228,7 +230,7 @@ Unitree Robotics' initial public offering (IPO) application has just been accept
 
 📺 ShanghaiEye魔都眼
 
-👁️ 3K • 👍 50 • 💬 20 • ⏱️ 1:24 • 19h ago
+👁️ 3K • 👍 50 • 💬 20 • ⏱️ 1:24 • 21h ago
 
 ---
 
