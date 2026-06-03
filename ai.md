@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-03T00:11:21.324819+00:00'
+updated: '2026-06-03T05:26:43.787620+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 03, 2026 at 00:11 UTC  
+**Last Updated:** June 03, 2026 at 05:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,7 @@ AI news, discussions, and developments
 
 If you work a white collar job, you’re probably scared of AI replacing you. AI started at the desk — data entry, customer service, software. Now its stepping onto the factory floor: Amazon robots moving inventory, Figure bots handling BMW parts, Tesla building Optimus for repetitive labor, and warehouses being automated. But at the end of the day, AI is a technology. We cannot stop it any more than we could stop electricity or the assembly line. The problem is not that machines are becoming powerful. The problem is the economic machine around it. Let’s face it: Capitalism doesn’t have the ability to support this kind of technology. Capitalism was built for a world of scarcity, where human labor was necessary and wages gave people access to goods. But as AI advances exponentially, it can produce more with fewer workers, while capitalism still distributes wealth through jobs it is actively eliminating. The result is abundance trapped behind an archaic wage system. I believe that we NEED to get governments and major tech companies to start seriously planning for a universal basic income funded by AI-driven productivity. As automation replaces more human labor over the coming decades, UBI will become essential to prevent mass instability and ensure that the wealth created by AI supports society as a whole, not just the companies that own it. We already know the wealth gap is too wide. If we don’t start addressing AI-driven inequality now, that divide will grow exponentially as more labor is automated and more wealth concentrates at the top. Without a plan to distribute the gains from AI, we risk mass instability and eventual economic collapse. Capitalism built the machine that could end scarcity, but not the system that could distribute its output. It’s time that we, as a global society, start thinking about phasing out that old machine.
 
-13h ago
-
----
-
-**[We've reached the point where a tape measure is unnecessary. AI does it from your camera.](https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/)**
-
-8h ago
+19h ago
 
 ---
 
@@ -55,7 +49,21 @@ If you work a white collar job, you’re probably scared of AI replacing you. AI
 
 The AI Alliance (the IBM/Meta-founded nonprofit consortium) just published a report from the first planning workshop for Project Tapestry, an effort to explore whether frontier-scale AI can be built through a global coalition instead of a single centralized lab. About 30 researchers and institutional partners met in Paris in May, including representatives from initiatives such as Switzerland's Apertus, India's BharatGen, MBZUAI, and AI Singapore. The core idea is that sovereignty and frontier capability are increasingly linked. A locally controlled model that falls far behind the frontier may struggle to gain adoption, while relying entirely on external frontier labs limits transparency, adaptation, and governance. Tapestry is exploring a model where participants contribute data, compute, and expertise to build a shared foundation model while keeping control of their own data and deploying sovereign derivatives tailored to local laws, languages, and institutions. That said, this is still very early. The workshop produced an architecture proposal, workstreams, and a roadmap. Governance, funding, legal structure, and a distributed training demonstration remain future milestones. Many AI collaborations have struggled to move beyond this phase. Posted by an AI Alliance community member. Happy to answer questions. Source: https://thealliance.ai/blog/project-tapestry-the-path-to-frontier-sovereign-ai Question for the community: Can a multi-party consortium realistically compete at the frontier when leading labs are concentrating massive amounts of capital, talent, and compute? Or is collaborative frontier AI inevitably a step behind centralized efforts?
 
-3h ago
+9h ago
+
+---
+
+**[We've reached the point where a tape measure is unnecessary. AI does it from your camera.](https://www.reddit.com/r/artificial/comments/1tuv37l/weve_reached_the_point_where_a_tape_measure_is/)**
+
+13h ago
+
+---
+
+**[A reckoning is coming for US AI coding tools](https://www.reddit.com/r/artificial/comments/1tvepj3/a_reckoning_is_coming_for_us_ai_coding_tools/)**
+
+Thoughts? Do you guys use models like Kimi or DeepSeek? Are you worried about data privacy, or not so much concern?
+
+🔗 [RuntimeBuzz](https://runtimebuzz.com/ai/editorials/reckoning-us-ai-coding-tools-subsidy-era) • 56m ago
 
 ---
 
@@ -63,7 +71,7 @@ The AI Alliance (the IBM/Meta-founded nonprofit consortium) just published a rep
 
 The tooling is abstracting faster than people's mental models are updating. Been playing around with a few agent builders recently and what keeps standing out is how much previously manual orchestration is basically configuration now. Memory, tool calling, browser actions, structured outputs, workflow routing. You used to build this stuff manually. Now you're mostly wiring it together. Which makes "can this be built?" a much less interesting question for a lot of use cases. The harder problems now feel operational. Reliability, recovery when an agent drifts mid-workflow, context management across longer runs. Controlling behavior without supervising every step. Capability honestly isn't the bottleneck anymore imo. It's trust. Can these systems actually become reliable enough that people stop treating them like fragile demos? Curious what kinds of agents you would actually build if reliability became genuinely solid instead of just “mostly works.”
 
-10h ago
+16h ago
 
 ---
 
@@ -71,7 +79,23 @@ The tooling is abstracting faster than people's mental models are updating. Been
 
 The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who can’t see he’s stumbling through dangerous situations.
 
-🔗 [404 Media](https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/) • 7h ago
+🔗 [404 Media](https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/) • 12h ago
+
+---
+
+**[I built a chess coach that explains moves like a grandmaster instead of showing engine lines — powered by LLM](https://www.reddit.com/r/artificial/comments/1tvb8s7/i_built_a_chess_coach_that_explains_moves_like_a/)**
+
+The problem I wanted to solve: Stockfish tells you what the best move is, but never why. Players under 1800 don't lose because they can't read centipawns — they lose because they don't understand plans, structures, key squares. What the tool does: Imports your games from Chess.com or Lichess Stockfish 17.1 WASM runs in your browser (fully local, nothing uploaded) A pattern detector finds 18 types of recurring mistakes across all your games (missed forks, exposed king, bad bishop, neglected development...) An LLM generates coaching narratives in the style of a 2700+ coach Instead of: -89 cp · Best: Nc3 Nf6 Be3 The AI coach says: "Bd3 is premature — the bishop attacks nothing and blocks d3 where the queen may want to go. Nc3 was the right move: it defends d4, prevents Black's ...e5 counterplay, and leaves the bishop free to settle on Be3 or Be2 depending on Black's plan." You can also chat with the coach — it knows your full game history, opening stats, specific weaknesses. Ask "why do I keep losing with Black in the French?" and it answers with data from YOUR games. Other features: spaced repetition (SM-2) on your own blunders, puzzle rush with real mistakes, 6-month progress tracking. Free tier: unlimited Stockfish. Pro ($14.99/mo, 15-day free trial): LLM coach + chat. https://chessmentorai.com Happy to discuss the prompting approach — getting the LLM to explain chess like a coach (not an engine) was the hardest part.
+
+3h ago
+
+---
+
+**[I built an app that reads any article aloud to you, here's what it looks like in action](https://www.reddit.com/r/artificial/comments/1tvbqv2/i_built_an_app_that_reads_any_article_aloud_to/)**
+
+I've been building Linkwise as a solo developer for the past year. It's a read-it-later app for iOS, but with a twist, it has a built-in text-to-speech player that reads any saved article aloud, paragraph by paragraph, with adjustable speed (0.8x to 2.5x). I built it because I kept saving articles I'd never get back to. Now I just listen to them on walks or during my commute. Other things it does: AI chat with your saved links, reader mode, highlights, RSS feeds, and collections. Would love to hear what you think. Roast it, break it, suggest features, all welcome.
+
+3h ago
 
 ---
 
@@ -79,7 +103,7 @@ The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who
 
 Jensen Huang on the AI Revolution: Why Job Losses Are a “Lazy” Narrative and What the Future Holds   In a wide-ranging interview with CNA’s ...
 
-🔗 [beyondlayoff.com](http://www.beyondlayoff.com/2026/06/Jensen.html) • 19h ago
+🔗 [beyondlayoff.com](http://www.beyondlayoff.com/2026/06/Jensen.html) • 1d ago
 
 ---
 
@@ -87,31 +111,7 @@ Jensen Huang on the AI Revolution: Why Job Losses Are a “Lazy” Narrative and
 
 Hey everyone I built AIWire, a free real-time AI news aggregator. One clean feed, 20+ handpicked sources, auto refreshes every 30 minutes. No account needed, no ads. It pulls from the places most people already check anyway: OpenAI, Anthropic, Google DeepMind, Meta AI, Microsoft AI MIT Technology Review, The Verge, TechCrunch, VentureBeat, Ars Technica YouTube: Andrej Karpathy, AI Explained, Two Minute Papers Newsletters: The Batch, ImportAI, TLDR AI, Ben's Bites A few things worth knowing: Top Stories from the last 24h are pinned at the top so you don't have to scroll to find what's recent You can filter by source, category, and date Bookmarks if you want to save something for later Full source list at aiwire.app/sources No account needed, completely free. There's also a weekly newsletter now if you'd rather get the 5 most important stories of the week to your inbox. 🔗 aiwire.app Happy to hear what sources are missing or what you'd change. https://preview.redd.it/kuxfol80ex4h1.png?width=2549&format=png&auto=webp&s=9a723076309a49c704831809df4add4b0597a0ac
 
-4h ago
-
----
-
-**[We have built the first of it's kind interactive blog for matching open-source LLMs to GPUs.](https://www.reddit.com/r/artificial/comments/1tuvh36/we_have_built_the_first_of_its_kind_interactive/)**
-
-Hey everyone, If you are deploying open-source models, you know the biggest headache is figuring out exact hardware requirements. You usually end up digging through Reddit threads to find out if a specific model fits on a single A10G, if you can squeeze it onto consumer cards, or if you have to jump up to a massive bare metal A100 cluster. Most of the "guides" out there are just static, out-of-date tables or dense walls of text. So, we published "Which GPU Runs Which LLM" on the AgentSwarms blog, but we engineered it completely differently. What makes this different: It is 100% interactive and gamified. Instead of reading a textbook on VRAM math, you actively engage with the hardware logic right on the page. You select the model size (8B, 32B, 70B, etc.). You tweak the quantization (FP16, 8-bit, 4-bit, GGUF vs AWQ). The interactive deck instantly calculates the VRAM constraints and visually maps out the exact GPU tiers you need to deploy. It gamifies the infrastructure planning so you build an intuitive understanding of token economics and hardware limits before you spin up expensive cloud instances. It is completely free to read and play with (no sign-ups required). If you are trying to optimize your AI infrastructure or just want to test your intuition on hardware mapping, click around the interactive guide and let me know how this format feels compared to a standard article (All AgentSwarms blogs and presentations are fully interractive) Link: agentswarms.fyi/blog/which-gpu-runs-which-llm-the-complete-guide
-
-8h ago
-
----
-
-**[How does AI follow ethical guidelines in Data Collection?](https://www.reddit.com/r/artificial/comments/1tv70h3/how_does_ai_follow_ethical_guidelines_in_data/)**
-
-Hot take: if I wanted to gather data via the internet, and I’m writing scripts/code to speed up the process, I have to follow some basic rules (ie look at the sitemap, find relevant robots.txt, follow that websites preference and rules). But it seems any AI-agent I’ve used does not give af about rules and limits, and is totally cool building me a scraper that will perform hundreds of thousands of requests without regards to the website owner’s preference. Given it’s widely known you can use AI for simple coding tasks I can easily see a future where ordinary individuals are operating their own scrapers. Especially in gathering high-value information that “seems easy to get” like google search rankings, or job data. This creates an obvious nightmare for Google, ATS platforms, and just about every website on the internet if everyone and their mother starts spinning up Playwright sessions in Python. I’m deadset on this being a responsbility of AI providers (anthropic, open ai, anysphere, etc). But how are these companies supposed to balance this without implementing guardrails that heavily limit their products? Maybe this has been solved and someone can feed my curiosity.
-
-1h ago
-
----
-
-**[What's the best AI image generator for fine art?](https://www.reddit.com/r/artificial/comments/1tv5i4a/whats_the_best_ai_image_generator_for_fine_art/)**
-
-For the AI artists here who like creating painterly / impasto style work, what generators are you guys using? Just curious since I'm much more into that theme as opposed to realism, but it feels like most generators cater to realism now.
-
-2h ago
+9h ago
 
 ---
 
@@ -121,45 +121,7 @@ For the AI artists here who like creating painterly / impasto style work, what g
 
 **[Trump Signs Executive Order Seeking Oversight of A.I. Models](https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Trump signs AI executive order asking companies to give government early access to models](https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html)**
-
-AI developers, on a voluntary basis, are asked to collaborate with the government and provide early access to frontier models.
-
-CNBC • 8h ago
-
----
-
-**[Biggest losers in Trump’s AI order: Supporters of a tech Wild West](https://www.politico.com/news/2026/06/02/trump-ai-order-tech-winners-losers-00947285)**
-
-Politico • 38m ago
-
----
-
-**[Americans don’t know how to fight AI. So they’re fighting data centers.](https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash)**
-
-The data center revolt is a symptom of our political failure on AI.
-
-vox.com • 14h ago
-
----
-
-**[We're upping our Palo Alto price target after strong earnings vanquish AI disruption fears](https://www.cnbc.com/2026/06/02/were-upping-our-palo-alto-price-target-after-strong-earnings-vanquish-ai-disruption-fears-.html)**
-
-The business momentum is clear here, validating the stock's dramatic comeback to fresh highs.
-
-CNBC • 42m ago
-
----
-
-**[Opinion | Do these words make you sound smarter? The bias is spreading.](https://www.washingtonpost.com/opinions/2026/06/02/what-ai-chatbots-bias-romance-languages-tell-us-about-humanity/)**
-
-English speakers love the Romance vocabulary. AI noticed.
-
-The Washington Post • 6h ago
+The New York Times • 3h ago
 
 ---
 
@@ -167,27 +129,67 @@ The Washington Post • 6h ago
 
 Maybe flawed people were better than brute algorithms.
 
-The Atlantic • 4h ago
+The Atlantic • 9h ago
 
 ---
 
-**[Some companies question cost of using AI over human workers](https://www.cbsnews.com/video/some-companies-question-cost-ai-human-workers/)**
+**[Remote work — not AI — has sidelined recent college graduates, research finds](https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai)**
 
-Developments in artificial intelligence are happening very quickly, and so are mass layoffs as corporations rapidly embrace the technology. But now some companies like Uber and Microsoft are starting to second-guess aggressive AI adoption. Reyhan Harmanci, director of features at Wired magazine, joins to discuss the state of AI in corporate America.
+Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.
 
-CBS News • 3h ago
-
----
-
-**[Microsoft teases new era of AI-driven devices at annual developer conference](https://www.reuters.com/world/china/microsoft-expected-showcase-new-pc-cloud-ai-tools-developer-conference-2026-06-02/)**
-
-Reuters • 2h ago
+NPR • 1d ago
 
 ---
 
-**[Exclusive: Bipartisan members introduce new bill to protect creators from AI style theft](https://www.axios.com/2026/06/02/creator-style-ai-protections-congress-bill)**
+**[New York Fed research is just one of many saying remote work is behind the real Gen Z hiring nightmare](https://fortune.com/2026/06/02/remote-work-causing-youth-unemployment-federal-reserve/)**
 
-Axios • 1h ago
+Fortune • 11h ago
+
+---
+
+**[‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?](https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival)**
+
+It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director
+
+The Guardian • 1h ago
+
+---
+
+**[Investors bet humanoid robots will transform industry and homes over the next decade](https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html)**
+
+“Be ready for it,” said one fund manager who sees enormous opportunities in the space.
+
+CNBC • 26m ago
+
+---
+
+**[Chinese Investors Exit Hong Kong Stocks as AI Woos Money Onshore](https://www.bloomberg.com/news/articles/2026-06-03/chinese-investors-exit-hong-kong-stocks-as-ai-woos-money-onshore)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Opinion | Do these words make you sound smarter? The bias is spreading.](https://www.washingtonpost.com/opinions/2026/06/02/what-ai-chatbots-bias-romance-languages-tell-us-about-humanity/)**
+
+English speakers love the Romance vocabulary. AI noticed.
+
+The Washington Post • 11h ago
+
+---
+
+**[Can A.I. Produce Writing That We Actually Want to Read?](https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read)**
+
+I recently created a simple test, which convinced me that the answer is no.
+
+The New Yorker • 19h ago
+
+---
+
+**[Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers](https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html)**
+
+At its Build developer conference, Microsoft is announcing series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.
+
+CNBC • 10h ago
 
 ---
 
@@ -199,7 +201,7 @@ Axios • 1h ago
 
 electronics, open source hardware, hacking and more...
 
-⬆️ 599 • 💬 246 • 14h ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
+⬆️ 641 • 💬 261 • 19h ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
 
 ---
 
@@ -207,7 +209,7 @@ electronics, open source hardware, hacking and more...
 
 Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
 
-⬆️ 490 • 💬 152 • 1d ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+⬆️ 491 • 💬 153 • 1d ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
 
 ---
 
@@ -215,13 +217,13 @@ Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scra
 
 The flight crew issued repeated warnings and a one-minute ultimatum to passengers, demanding they turn off their Bluetooth devices.
 
-⬆️ 417 • 💬 920 • 2d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+⬆️ 417 • 💬 927 • 2d ago • [Simple Flying](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
 
 ---
 
 **[The solution might be cancelling my AI subscription](https://news.ycombinator.com/item?id=48345896)**
 
-⬆️ 382 • 💬 237 • 2d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
+⬆️ 382 • 💬 239 • 2d ago • [thoughts.hmmz.org](https://thoughts.hmmz.org/2026-05-31.html)
 
 ---
 
@@ -235,13 +237,13 @@ Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome 
 
 **[Florida sues OpenAI and Sam Altman over AI risks](https://news.ycombinator.com/item?id=48358667)**
 
-⬆️ 263 • 💬 193 • 1d ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
+⬆️ 265 • 💬 193 • 1d ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 
 ---
 
 **[Alphabet announces $80B equity capital raise to expand AI infra and compute](https://news.ycombinator.com/item?id=48362515)**
 
-⬆️ 247 • 💬 224 • 1d ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
+⬆️ 248 • 💬 225 • 1d ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 
 ---
 
@@ -249,7 +251,7 @@ Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome 
 
 Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.
 
-⬆️ 225 • 💬 98 • 2d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+⬆️ 226 • 💬 98 • 2d ago • [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
 
 ---
 
@@ -263,7 +265,7 @@ How AI has changed the way I prototype, plan, and ship; and what I'm doing to ke
 
 **[Trump signs downsized AI order after weeks of reversals](https://news.ycombinator.com/item?id=48372628)**
 
-⬆️ 161 • 💬 113 • 7h ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
+⬆️ 195 • 💬 141 • 12h ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
 
 ---
 
@@ -271,13 +273,23 @@ How AI has changed the way I prototype, plan, and ship; and what I'm doing to ke
 
 ## YouTube Videos: "ai"
 
+**[Anthropic files for $1T IPO: Is AI an existential threat?](https://www.youtube.com/watch?v=-YkFV_TLODs)**
+
+Anthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in ...
+
+📺 CNN
+
+👁️ 16K • 👍 276 • 💬 131 • ⏱️ 13:34 • 7h ago
+
+---
+
 **[Sam Altman: People are right to be anxious about AI](https://www.youtube.com/watch?v=4qGz2uFuRvs)**
 
 Sam Atlman, OpenAI CEO, joins 'Power Lunch' to discuss the pace of AI buildouts, what consumers believe around AI and much ...
 
 📺 CNBC Television
 
-👁️ 22K • 👍 307 • 💬 124 • ⏱️ 5:47 • 1d ago
+👁️ 25K • 👍 331 • 💬 136 • ⏱️ 5:47 • 1d ago
 
 ---
 
@@ -287,7 +299,17 @@ For years, Glenn has warned that AI will turn into AGI by 2030. But recently, Ma
 
 📺 Glenn Beck
 
-👁️ 193K • 👍 9K • 💬 1K • ⏱️ 14:55 • 2d ago
+👁️ 204K • 👍 9K • 💬 1K • ⏱️ 14:55 • 2d ago
+
+---
+
+**[Is AI actually helping?](https://www.youtube.com/watch?v=gyXjvzMDV7s)**
+
+Supercharge your AI withZapier: https://bit.ly/4fm7ivj Join My Newsletter for Regular AI Updates https://forwardfuture.ai My ...
+
+📺 Matthew Berman
+
+👁️ 30K • 👍 2K • 💬 291 • ⏱️ 20:12 • 11h ago
 
 ---
 
@@ -297,47 +319,27 @@ NVIDIA just launched Cosmos 3, Vera, and the Isaac GR00T reference humanoid robo
 
 📺 AI Revolution
 
-👁️ 29K • 👍 974 • 💬 88 • ⏱️ 13:34 • 1d ago
+👁️ 32K • 👍 1K • 💬 94 • ⏱️ 13:34 • 1d ago
 
 ---
 
-**[Web users ditch Google after it revamps search with AI](https://www.youtube.com/watch?v=3RS3GLI7NgY)**
+**[Stop trusting the Google AI overviews.. #carterpcs #tech #ai #aioverview](https://www.youtube.com/watch?v=zyw7mDwCT-8)**
 
-ABC News technology reporter Mike Dobuski explains what's changed with the popular search engine. ––– Subscribe to ABC ...
+Stop trusting the Google AI overviews.. #carterpcs #tech #ai #aioverview.
 
-📺 ABC News
+📺 CarterPCs
 
-👁️ 46K • 👍 1K • 💬 319 • ⏱️ 2:43 • 1d ago
-
----
-
-**[A stock market veteran’s view on the AI bubble](https://www.youtube.com/watch?v=aEwY72u7fgs)**
-
-Jeremy Grantham's investment firm GMO made its name betting against the mania of the late 1990s and the mid-2000s housing ...
-
-📺 Reuters
-
-👁️ 13K • 👍 362 • 💬 76 • ⏱️ 41:26 • 15h ago
+👁️ 1.5M • 👍 58K • 💬 1K • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[Best AI Apps for Your Phone in 2026](https://www.youtube.com/watch?v=N2bfdBNtUQY)**
+**[Is AI Exploiting OF Creators?](https://www.youtube.com/watch?v=SsxwuLvIdqc)**
 
-Best AI Apps for Your Phone in 2026 Grab The 7 AI Apps Cheat Sheet https://parker-prompts.com/apps In this video, I tested ...
+Watch this video here - https://www.youtube.com/watch?v=SkU8ElvMBJo Get access to every episode 10 hours before YouTube ...
 
-📺 Parker Prompts
+📺 Chris Williamson
 
-👁️ 12K • 💬 11 • ⏱️ 8:59 • 11h ago
-
----
-
-**[Figure AI Appears To Be Faking Its Demos](https://www.youtube.com/watch?v=Juc-IyTdSho)**
-
-Check out our second channel Broken Business Models: https://www.youtube.com/@UCQUOscigSQWCVG8m-ZC8wiw Our ...
-
-📺 Wall Street Millennial
-
-👁️ 130K • 👍 6K • 💬 1K • ⏱️ 13:26 • 1d ago
+👁️ 53K • 👍 744 • 💬 36 • ⏱️ 0:47 • 1d ago
 
 ---
 
@@ -347,27 +349,27 @@ NEWSLETTER // Sloth Bytes: https://slothbytes.beehiiv.com/subscribe // BUSINESS 
 
 📺 The Coding Sloth
 
-👁️ 116K • 👍 3K • 💬 72 • ⏱️ 0:36 • 2d ago
+👁️ 126K • 👍 4K • 💬 74 • ⏱️ 0:36 • 2d ago
 
 ---
 
-**[Major Companies Reconsidering AI Costs](https://www.youtube.com/watch?v=Y1cGhEi-FHM)**
+**[Best AI Apps for Your Phone in 2026](https://www.youtube.com/watch?v=N2bfdBNtUQY)**
 
-Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether ...
+Best AI Apps for Your Phone in 2026 Grab The 7 AI Apps Cheat Sheet https://parker-prompts.com/apps In this video, I tested ...
 
-📺 Bloomberg Podcasts
+📺 Parker Prompts
 
-👁️ 39K • 👍 723 • 💬 164 • ⏱️ 10:48 • 2d ago
+👁️ 13K • 💬 11 • ⏱️ 8:59 • 16h ago
 
 ---
 
-**[Self-Evolving Hermes Agents: Enterprise AI That Gets Better With Use | Nemotron Labs](https://www.youtube.com/watch?v=pgQDbRMa2Eg)**
+**[Grok&#39;s Low Censorship AI Video Model Shouldn&#39;t Exist Yet (Most Dangerous AI News)](https://www.youtube.com/watch?v=2m3BZYBvLq4)**
 
-Most organizational knowledge lives informally — in people's heads, review comments, and repeated workflows. Hermes learns ...
+Try Higgsfield plugins for Adobe today https://higgsfield.ai/s/general-aisamsonreal-cETJvj Thanks to Higgsfield for sponsoring this ...
 
-📺 NVIDIA Developer
+📺 AI Samson
 
-👁️ 2K • 👍 153 • 💬 2 • ⏱️ 55:04 • 5h ago
+👁️ 32K • 👍 2K • 💬 135 • ⏱️ 26:03 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ MiniCPM5-1B is a 1B parameter causal language model optimized for on-device depl
 
 `text-generation` `1.1B`
 
-⬇️ 57,683 • ❤️ 729 • 7d ago
+⬇️ 57,683 • ❤️ 729 • 8d ago
 
 ---
 
@@ -441,7 +443,7 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 LongCat-Video-Avatar 1.5 is a production-ready framework for audio-driven human video generation, capable of Audio-Text-to-Video (AT2V), Audio-Text-Image-to-Video (ATI2V), and video continuation with stable, commercial-grade avatar synthesis and stylized domain generalization.
 
-⬇️ 174 • ❤️ 484 • 1d ago
+⬇️ 174 • ❤️ 484 • 2d ago
 
 ---
 
@@ -453,7 +455,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 5,829,042 • ❤️ 4,566 • 27d ago
+⬇️ 5,829,042 • ❤️ 4,566 • 28d ago
 
 ---
 
@@ -489,7 +491,7 @@ PiD is a conditional pixel-space diffusion model that unifies decoding and upsam
 
 `image-to-image`
 
-⬇️ 646 • ❤️ 258 • 10h ago
+⬇️ 646 • ❤️ 258 • 15h ago
 
 ---
 
@@ -639,7 +641,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 32.3k • 🔱 3.9k • 4h ago
+⭐ 34.9k • 🔱 4.2k • 2m ago
 
 ---
 
@@ -649,7 +651,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 5.9k • 🔱 573 • 17h ago
+⭐ 5.9k • 🔱 574 • 22h ago
 
 ---
 
@@ -657,7 +659,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.3k • 🔱 680 • 3d ago
+⭐ 3.3k • 🔱 682 • 3d ago
 
 ---
 
@@ -667,7 +669,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 3.0k • 🔱 212 • 6h ago
+⭐ 3.0k • 🔱 213 • 1h ago
 
 ---
 
@@ -677,7 +679,17 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 280 • 10h ago
+⭐ 2.9k • 🔱 286 • 2h ago
+
+---
+
+**[opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)**
+
+OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
+
+`Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
+
+⭐ 2.4k • 🔱 163 • 11m ago
 
 ---
 
@@ -687,7 +699,7 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 402 • 11d ago
+⭐ 2.4k • 🔱 402 • 12d ago
 
 ---
 
@@ -701,33 +713,23 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 ---
 
-**[opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)**
-
-OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
-
-`Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
-
-⭐ 2.3k • 🔱 157 • 1h ago
-
----
-
 **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)**
 
 AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.3k • 🔱 231 • 10h ago
+⭐ 2.3k • 🔱 233 • 15h ago
 
 ---
 
-**[WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)**
+**[microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)**
 
-A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。
+better agentic engineering
 
-`Python` `agentic-ai` `ai-agents` `awesome-list` `claude-code` `claude-skills`
+`TypeScript`
 
-⭐ 1.9k • 🔱 213 • 6h ago
+⭐ 1.9k • 🔱 248 • 9h ago
 
 ---
 
