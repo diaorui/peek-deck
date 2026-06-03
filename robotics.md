@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-03T05:26:43.803510+00:00'
+updated: '2026-06-03T10:20:29.233580+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 03, 2026 at 05:26 UTC  
+**Last Updated:** June 03, 2026 at 10:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,23 @@ Robotics research and industry news
 
 NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot designed for embodied AI research. YOR can support tasks like grasping, carrying, opening a fridge, washing a cup, watering plants, and clearing dishes, combining mobility, lift motion, and dual-arm coordination in one platform. The robot uses AgileX PiPER 6-axis robotic arms, with hardware and software released for researchers and developers to build on.
 
-3h ago
+8h ago
+
+---
+
+**[Concept of a robot dog in two parts (ICRA2026)](https://www.reddit.com/r/robotics/comments/1tvk48o/concept_of_a_robot_dog_in_two_parts_icra2026/)**
+
+From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254385910 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
+
+53m ago
+
+---
+
+**[I took apart a 3-stage planetary actuator](https://www.reddit.com/r/robotics/comments/1tvjrow/i_took_apart_a_3stage_planetary_actuator/)**
+
+For anyone curious about industrial actuator internals, I opened up a three-stage reduction actuator to see what's inside.
+
+1h ago
 
 ---
 
@@ -44,7 +60,29 @@ NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot 
 
 I’ll be presenting this project at Stanford’s Deep Reinforcement Learning course, CS224R. I modified a diffusion policy so the robot can be prompted with a bounding box: “pick this object,” even in a cluttered scene with multiple LEGO blocks. The data was collected using a UMI handheld device, and the bounding-box conditioning enables a simple “point-and-click” interface for specifying the target object. The interesting part is that the instruction is spatial and visual, not just text. That matters because current Vision-Language-Action models can still struggle when the task requires selecting one specific object among very similar distractors. And as a small bonus: the whole policy runs locally on a laptop. :)
 
-10h ago
+15h ago
+
+---
+
+**[Small tip for anyone still around after ICRA](https://www.reddit.com/r/robotics/comments/1tvilhw/small_tip_for_anyone_still_around_after_icra/)**
+
+For anyone staying around after ICRA 2026 in Vienna: some of the Seeed team behind the open-source reArm robotic arm will be in Munich/Garching this Sunday, June 7. They’re hosting a small free hands-on robotics workshop where you can try reArm in person, see demos, ask technical questions, and hang out with other robotics folks. There’ll also be pizza, and spots are limited to around 20 people. Might be interesting if you’re into robotic manipulation, ROS2, open hardware, or just want to meet more robotics people after ICRA.
+
+2h ago
+
+---
+
+**[The moment the pump turns on automatically after detecting dry soil 🌱](https://www.reddit.com/r/robotics/comments/1tvhg1v/the_moment_the_pump_turns_on_automatically_after/)**
+
+3h ago
+
+---
+
+**[Where do you lose most time when building a robot prototype?](https://www.reddit.com/r/robotics/comments/1tvjdf8/where_do_you_lose_most_time_when_building_a_robot/)**
+
+Asking because in my experience everyone assumes it will be the algorithm or the model, but then you actually start building and it turns out to be something much more boring:) https://preview.redd.it/rtqqa1m1615h1.jpg?width=800&format=pjpg&auto=webp&s=690c3bd50e63ac95c8ed1dff324a6706ad28369c
+
+1h ago
 
 ---
 
@@ -52,67 +90,35 @@ I’ll be presenting this project at Stanford’s Deep Reinforcement Learning co
 
 Hello all! This is my first post here. I am sharing the Waveshare UGV rover print files along with some hardware recommendation. I made these profiles and currently have the rover runing on ROS2 Humble Lite. I plan to integrate some SLAM modules eventually. The primary drive controller is seperate from raspberry pi 4B 8gb that i used. I originally bought this rover from a local seller then i wanted to understand the dynamics of it so i started vuilding from scratch. (The chasis main plate works fine in petg but i also had it laser cut in sheet metal). ESP32S3 drives the motors through 2x IBT-2 motor drivers Raspberry pi 4B is connected to esp32 via usb U can flash new firmware from raspi to esp on the go. I do have cmd vel file if someone actually goes ahead this way. This model is an open source model from waveshare however the electronics and firmware are all custom. I can make a github page for this if anyone requires. https://makerworld.com/models/2879603?appSharePlatform=copy
 
-15h ago
+20h ago
 
 ---
 
-**[AI agent deployed on Robotic Air Hockey Table](https://www.reddit.com/r/robotics/comments/1ttvjvc/ai_agent_deployed_on_robotic_air_hockey_table/)**
+**[Discussion: Robotic Surgery Thoughts?](https://www.reddit.com/r/robotics/comments/1tvgasw/discussion_robotic_surgery_thoughts/)**
 
-This is my two year undergraduate capstone project from Engineering Physics at UBC. We trained a policy in simulation and then directly deployed in onto our robotic air hockey table. The project involved designing a physical robotic air hockey table, computer vision system, reinforcement learning pipeline, simulation, embedded systems, and controls If anyone's interested here's a short video explaining what we did: https://youtu.be/ugwpCam1rd0 And for more detail you can check out the github repo: HudsonNock/Air-Hockey-Sim Edit: Extra context given in the explainer video and repo: there were previous teams that worked on it before us. They designed the first iterations of the mechanical and electrical systems, as well as the baseline controller that allowed the robot to follow a specific path. Like most projects, it changed a lot through the iterations. We ended up redesigning and upgrading a lot of their work (only a few original parts remain) but their early prototyping was definitely needed to make our final version possible with the time we had
-
-1d ago
+4h ago
 
 ---
 
-**[Hi everyone, new to the group and seeking advice for someone](https://www.reddit.com/r/robotics/comments/1turdsa/hi_everyone_new_to_the_group_and_seeking_advice/)**
+**[A Robotics Design and Simulation Workflow on iPhone with MuJoCo and URDF Support](https://www.reddit.com/r/robotics/comments/1tvhmmp/a_robotics_design_and_simulation_workflow_on/)**
 
-Hello everyone, I’m seeking advice for someone new to robotics. I’m trying to do some simple projects to have some father-son time now that they’re in summer. I found this one on Amazon with a raspberry pi, which I saw the coding and it’s not that hard. Are there any other kits I should be looking into? Any advice is welcomed.
+I am a solo developer of AR Mobile Robotics, a new iOS and macOS that I’m planning to release on June 17 (non-coincidentally, my birthday). As I push toward that date, I’m putting together a series of videos and a YouTube playlist that serve as the ARMOR 101. This video is a top-level summary of the ARMOR UI, with three sections: - A sidebar to create, import, and load robot projects that are saved as URDF archives with embedded assets in STL, DAE, OBJ, GLB, USDZ, and other 3D formats. - A detail view where robots are rendered in 3D with optional AR spatial reality, or read the XML text files. - An editor for for the complete project settings and XML properties. Future videos will talk about import/export of models, deep dive into the editors, robot dynamics and control simulation, and more. As part of developing ARMOR, I’ve open-sourced a few of the toolsets that I think might have more general utility to the robotics community. To date, those have included loaders and exporters for 3D formats like DAE, STL, OBJ, etc, which I’ve recognized as a pain point in certain robotics simulation workflows due to different file compatibility requirements for MuJoCo vs Gazebo vs Isaac Sim vs Drake, etc. I’m planning for the ARMOR importer to be universal, then use these open source utilities to provide a “export all visual meshes as OBJ” option, replacing OBJ with whatever format you choose. Do you think this would be helpful in real-world engineering workflows? More at https://armor.dc-engineer.com
 
-15h ago
-
----
-
-**[China deploys humanoid robots to sort 1,200 parcels per hour in massive postal hub](https://www.reddit.com/r/robotics/comments/1tui7vu/china_deploys_humanoid_robots_to_sort_1200/)**
-
-Humanoid robots are now helping process millions of daily parcels inside China’s automated postal centers.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-robots-in-postal-hub) • 23h ago
-
----
-
-**[China's robotics giant Unitree is filing for an IPO, exciting news！](https://www.reddit.com/r/robotics/comments/1tupqr3/chinas_robotics_giant_unitree_is_filing_for_an/)**
-
-https://preview.redd.it/2tnw6v3d6v4h1.png?width=1724&format=png&auto=webp&s=eda2bad3d60de7e11d8d2135c6e042fc4ad15fa9 Unitree Robotics just cleared China's STAR Market hearing in a record 73 days — the world's only humanoid robot company generating real profit at scale. But after reading the actual prospectus, the hype needs tempering. Report below 👇
-
-16h ago
-
----
-
-**[First robot build in my life - based on quadrupedal sesame-robot esp32 project](https://www.reddit.com/r/robotics/comments/1ttzjre/first_robot_build_in_my_life_based_on_quadrupedal/)**
-
-1d ago
-
----
-
-**[Opinion on this design](https://www.reddit.com/r/robotics/comments/1tuni95/opinion_on_this_design/)**
-
-I am referring to this design of the joint 1 on a robotics arm with smaller bearings on the circumference of the base and then two additional bearings in the middle. I am wondering about the longevity of this design it seems there would be a decent amount of wear from the inside and outside bearing part having to spin at different speed and they would also wear down the plastic but still several popular robot arms use them. Also if u have any other design u would like to share of the joint 1 I would appreciate it.
-
-18h ago
-
----
-
-**[Brought a dead floppy-drive spindle motor back to life with SimpleFOC + ESP32](https://www.reddit.com/r/robotics/comments/1tv5wtz/brought_a_dead_floppydrive_spindle_motor_back_to/)**
-
-Pulled this brushless spindle out of a floppy drive ~20 years ago and finally made it spin. No published schematic for my controller board, so I reverse-engineered the pinout from a neighboring revision, then got it running open-loop on SimpleFOC. https://preview.redd.it/tnn3irekyx4h1.jpg?width=4032&format=pjpg&auto=webp&s=53e273a8e16cee6a24e502e86ae0e907e48ee8c4 Write-up: https://onedgy.com/blog/waking-a-dead-motor/
-
-7h ago
+🔗 [youtu.be](https://youtu.be/gH_PdKrBz20) • 3h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Investors bet humanoid robots will transform industry and homes over the next decade](https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html)**
+
+“Be ready for it,” said one fund manager who sees enormous opportunities in the space.
+
+CNBC • 5h ago
+
+---
 
 **[Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO](https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html)**
 
@@ -122,31 +128,33 @@ CNBC • 2d ago
 
 ---
 
-**[Top 10 robotics stories of May 2026](https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/)**
+**[Silicon Valley's New Slogan: Let's Get Physical](https://www.businessinsider.com/silicon-valleys-new-slogan-lets-get-physical-2026-6)**
 
-May 2026 was a busy month full of robotics news, and it was topped off by the Robotics Summit & Expo in Boston.
+Silicon Valley's AI boom is moving into robotics as OpenAI, Meta, Tesla, and startups race to give AI a body.
 
-The Robot Report • 1d ago
-
----
-
-**[Investors bet humanoid robots will transform industry and homes over the next decade](https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html)**
-
-“Be ready for it,” said one fund manager who sees enormous opportunities in the space.
-
-CNBC • 26m ago
+Business Insider • 1d ago
 
 ---
 
-**[China Robotics Firms Line Up IPOs to Pitch Next Phase of AI](https://www.bloomberg.com/news/articles/2026-06-01/china-robotics-firms-line-up-ipos-to-pitch-next-phase-of-ai)**
+**[Exclusive: Mecka AI raises $60 million to train robots with human data sourced from body sensors and iPhones](https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/)**
 
-Bloomberg.com • 1d ago
+The crypto VC Framework Ventures led two fundraises for the robotics startup, which projects $100 million in annual run rate.
+
+Fortune • 1d ago
 
 ---
 
 **[BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Tesla's Optimus faces new threat as OpenAI enters robotics](https://finance.yahoo.com/video/teslas-optimus-faces-threat-openai-203231720.html)**
+
+Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination Overtime to discuss Tesla's (TSLA) new robotics competition in OpenAI (OPAI.PVT).
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -154,7 +162,7 @@ Bloomberg.com • 1h ago
 
 morph today launches a physically intelligent soft robotics platform that designs and manufactures what it calls “soft robotic cells,” a term coined by the c...
 
-Business Wire • 19h ago
+Business Wire • 1d ago
 
 ---
 
@@ -162,23 +170,13 @@ Business Wire • 19h ago
 
 The firm announced that it closed Version One Fund V, a $78 million fund focused on pre-seed and seed investments, along with Opportunities Fund III, a $30 million fund designed to make follow-on investments in its most promising portfolio companies.
 
-GeekWire • 13h ago
+GeekWire • 18h ago
 
 ---
 
-**[Tesla Optimus & Musk face a new threat — OpenAI Robotics](https://finance.yahoo.com/sectors/technology/article/tesla-optimus--musk-face-a-new-threat--openai-robotics-160202761.html)**
+**[Bankrupt Baltimore startup to hit the auction block](https://www.bizjournals.com/baltimore/news/2026/06/02/galen-robotics-auction-bankruptcy-court-startup.html)**
 
-Tesla's Optimus robot may have a new challenger, and it's the one CEO Elon Musk least wanted to see: OpenAI.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Sam Altman is quietly backing a stealth startup that's building software for robots and cars](https://www.businessinsider.com/sam-altman-startup-alfred-building-software-for-robots-and-cars-2026-6)**
-
-A former Tesla designer's startup has won investment from Sam Altman and other top investors as money floods into physical AI.
-
-Business Insider • 1d ago
+The Business Journals • 23h ago
 
 ---
 
@@ -200,7 +198,7 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 104K • 👍 3K • 💬 470 • ⏱️ 29:20 • 3d ago
+👁️ 106K • 👍 3K • 💬 478 • ⏱️ 29:20 • 3d ago
 
 ---
 
@@ -210,27 +208,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 225K • 👍 5K • 💬 525 • ⏱️ 6:01 • 12h ago
-
----
-
-**[This Robot is literally Crazy 😱 #shorts](https://www.youtube.com/watch?v=J-PiRyHfKw0)**
-
-This is something you've never seen beforeA simple football challenge turned into an unbelievable moment when a robot showed ...
-
-📺 Next Potential
-
-👁️ 225K • 💬 601 • ⏱️ 0:38 • 1d ago
-
----
-
-**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
-
-Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
-
-📺 DPCcars
-
-👁️ 8K • 👍 43 • 💬 17 • ⏱️ 2:07 • 12h ago
+👁️ 325K • 👍 7K • 💬 720 • ⏱️ 6:01 • 17h ago
 
 ---
 
@@ -240,17 +218,37 @@ Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/p
 
 📺 Farzad
 
-👁️ 118K • 👍 6K • 💬 582 • ⏱️ 23:36 • 1d ago
+👁️ 121K • 👍 6K • 💬 589 • ⏱️ 23:36 • 1d ago
 
 ---
 
-**[Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics](https://www.youtube.com/watch?v=GvByvkp6k5s)**
+**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
 
-If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...
+Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
 
-📺 Boston Dynamics
+📺 DPCcars
 
-👁️ 33K • 👍 2K • 💬 102 • ⏱️ 1:22 • 15h ago
+👁️ 15K • 👍 52 • 💬 18 • ⏱️ 2:07 • 17h ago
+
+---
+
+**[NVIDIA Just Unveiled a 75 DOF Humanoid Robot](https://www.youtube.com/watch?v=0ehh1A1qfwU)**
+
+NVIDIA has officially unveiled the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate the ...
+
+📺 DPCcars
+
+👁️ 62K • 👍 405 • 💬 213 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[Accelerating Humanoid Robot Development With NVIDIA Isaac GR00T](https://www.youtube.com/watch?v=yvDDpQZliY8)**
+
+General-purpose humanoid robots represent the next leap in AI, but development remains fragmented. Developers spend ...
+
+📺 NVIDIA
+
+👁️ 14K • 👍 487 • 💬 48 • ⏱️ 2:03 • 1d ago
 
 ---
 
@@ -260,17 +258,7 @@ Humanoid robots are more impressive than ever before. Not long ago they would ba
 
 📺 Financial Times
 
-👁️ 29K • 👍 513 • 💬 87 • ⏱️ 5:11 • 5d ago
-
----
-
-**[Is this the ultimate humanoid robot? #robotics #nvidia #gtc2026](https://www.youtube.com/watch?v=9aOrIXTYY6k)**
-
-NVIDIA has picked the robot to embody the AI brain it wants future humanoids to run on. At GTC Taiwan 2026, the tech giant ...
-
-📺 Kalil 4.0
-
-👁️ 602 • 👍 29 • ⏱️ 1:07 • 8h ago
+👁️ 30K • 👍 516 • 💬 90 • ⏱️ 5:11 • 5d ago
 
 ---
 
@@ -278,7 +266,17 @@ NVIDIA has picked the robot to embody the AI brain it wants future humanoids to 
 
 📺 Battle of Robots
 
-👁️ 1K • 👍 9 • 💬 1 • ⏱️ 0:16 • 6h ago
+👁️ 1K • 👍 9 • 💬 1 • ⏱️ 0:16 • 11h ago
+
+---
+
+**[This robot was built to detect skin cancer 👀 #trendingshorts #technology #ai #robot](https://www.youtube.com/watch?v=-whuDUaiGrs)**
+
+Paris-based startup SquareMind has raised $18 million to launch Swan, the world's first robot designed to capture standardized, ...
+
+📺 Rowan Cheung
+
+👁️ 29K • 👍 2K • 💬 29 • ⏱️ 1:06 • 15h ago
 
 ---
 
