@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-04T05:21:48.650309+00:00'
+updated: '2026-06-04T09:11:18.416888+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 04, 2026 at 05:21 UTC  
+**Last Updated:** June 04, 2026 at 09:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Concept of a robot dog in two parts (ICRA2026)](https://www.reddit.com/r/robotics/comments/1tvk48o/concept_of_a_robot_dog_in_two_parts_icra2026/)**
-
-From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254385910 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
-
-19h ago
-
----
-
 **[Xiaomi LDS02RR with Raspberry Pi 5 using lds2d Python library](https://www.reddit.com/r/robotics/comments/1twbzej/xiaomi_lds02rr_with_raspberry_pi_5_using_lds2d/)**
 
 Here is my Xiaomi LDS02RR capturing data live using my Raspberry Pi 5. I'm using my lds2d Python library (pip install lds2d). LDSO2RR connects to the RPi's serial port available on its header. Also, I'm using one of RPi's GPIO as PWM to control LDS02RR motor speed. Source https://github.com/kaiaai/lds2d
 
-1h ago
+5h ago
+
+---
+
+**[Concept of a robot dog in two parts (ICRA2026)](https://www.reddit.com/r/robotics/comments/1tvk48o/concept_of_a_robot_dog_in_two_parts_icra2026/)**
+
+From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254385910 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
+
+23h ago
 
 ---
 
@@ -52,13 +52,19 @@ Here is my Xiaomi LDS02RR capturing data live using my Raspberry Pi 5. I'm using
 
 Okay so hear me out before you close the tab.Every time a robot failed in the field, our debugging process was SSH in, pray the logs survived, piece together what happened from /rosout like some kind of forensic archaeologist. Half the time the failure only happened once and we'd never reproduce it. Classic solution: just run rosbag2 continuously. Except in production that fills storage in like 2 hours and now you're debugging why the SD card is full instead of why the robot fell over. So I did the reasonable thing and spent months building an "episode recorder" that wraps each robot run, tags failures, and stores diagnostic context — basically a flight data recorder but for robots, which sounds very cool until you realise it's mostly just a fancier way to store JSON. I'm calling it BlackBox. Yes, like the aviation thing. Yes, I know. Genuinely asking: is this a real problem or did I just build elaborate infrastructure to avoid writing better log messages? Do you actually lose field failure context regularly or is this a me problem? What would make this useless for your setup? Be brutal. I can take it.
 
-12h ago
+16h ago
 
 ---
 
 **[Elliptical lidar of my robot converts 2D lidar to 3D lidar was not my best idea. rethink](https://www.reddit.com/r/robotics/comments/1tvppuo/elliptical_lidar_of_my_robot_converts_2d_lidar_to/)**
 
-15h ago
+19h ago
+
+---
+
+**[i placed a laser module on the ultraschall sensor of my robot, for point the target](https://www.reddit.com/r/robotics/comments/1tw9ixv/i_placed_a_laser_module_on_the_ultraschall_sensor/)**
+
+7h ago
 
 ---
 
@@ -66,7 +72,7 @@ Okay so hear me out before you close the tab.Every time a robot failed in the fi
 
 Fish stranded on shore often look helpless, all flops and wriggles. But that clumsy scramble may follow a surprisingly consistent plan, one shared by several species separated by large gaps on the evolutionary tree, and one that could help explain a turning point in the history of life.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/robot-fish-helps-explain-how-real-fish-learned-to-move-on-land) • 1h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/robot-fish-helps-explain-how-real-fish-learned-to-move-on-land) • 5h ago
 
 ---
 
@@ -74,13 +80,13 @@ Fish stranded on shore often look helpless, all flops and wriggles. But that clu
 
 I’ve been trying to get a TB6612FNG motor driver working and I’m completely stuck. I’ve followed two different tutorials step-by-step and double-checked my wiring and code. Neither setup worked. As far as I can tell, the only difference between my setup and the tutorials is that my TB6612FNG came with the header pins (those metal rods) unattached, and I haven’t soldered them on yet. The pins are inserted into the board, but they’re not soldered. Could that alone be enough to prevent the motor driver from working at all? Has anyone successfully used a TB6612FNG without soldering the headers, or is soldering basically required for the board to make proper electrical contact? Before I go buy a soldering iron, I’d like to know if this is the most likely cause of the problem or if I should be looking elsewhere. Thanks!
 
-5h ago
+8h ago
 
 ---
 
 **[Made my arm grab from top or front depending on how the target is standing](https://www.reddit.com/r/robotics/comments/1tvnp9z/made_my_arm_grab_from_top_or_front_depending_on/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -88,13 +94,7 @@ I’ve been trying to get a TB6612FNG motor driver working and I’m completely 
 
 For anyone curious about industrial actuator internals, I opened up a three-stage reduction actuator to see what's inside.
 
-20h ago
-
----
-
-**[i placed a laser module on the ultraschall sensor of my robot, for point the target](https://www.reddit.com/r/robotics/comments/1tw9ixv/i_placed_a_laser_module_on_the_ultraschall_sensor/)**
-
-3h ago
+1d ago
 
 ---
 
@@ -110,11 +110,57 @@ NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot 
 
 ## Google News: "robotics"
 
+**[Bristol students take top prize in global robotics competition](https://www.bbc.com/news/articles/c3w2ve6wzq9o)**
+
+Two Bristol students were crowned best in the UK in largest global robotics competition in USA.
+
+BBC • 3h ago
+
+---
+
+**[NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)**
+
+New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development.
+
+NVIDIA Blog • 18h ago
+
+---
+
+**[This Startup Will Clean Your Apartment for Free, If AI Can Watch](https://www.businessinsider.com/this-startup-will-clean-your-apartment-free-ai-can-watch-2026-6)**
+
+Shift Robotics is part of a growing scramble for real-world data as AI companies try to train machines to work in homes, warehouses, and factories.
+
+Business Insider • 10m ago
+
+---
+
+**[Bankrupt Baltimore startup to hit the auction block](https://www.bizjournals.com/baltimore/news/2026/06/02/galen-robotics-auction-bankruptcy-court-startup.html)**
+
+The Business Journals • 1d ago
+
+---
+
+**[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
+
+Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
+
+Ars Technica • 2d ago
+
+---
+
+**[Thanks largely to robots, Ukraine is now talking about winning, not just surviving](https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/)**
+
+Uncrewed and autonomous systems—and the willingness to adapt to them—have neutered Russian advantages.
+
+Defense One • 2d ago
+
+---
+
 **[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
 
 Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
 
-Fox Business • 13h ago
+Fox Business • 17h ago
 
 ---
 
@@ -132,57 +178,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Exclusive: Mecka AI raises $60 million to train robots with human data sourced from body sensors and iPhones](https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/)**
-
-The crypto VC Framework Ventures led two fundraises for the robotics startup, which projects $100 million in annual run rate.
-
-Fortune • 2d ago
-
----
-
-**[Thanks largely to robots, Ukraine is now talking about winning, not just surviving](https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/)**
-
-Uncrewed and autonomous systems—and the willingness to adapt to them—have neutered Russian advantages.
-
-Defense One • 2d ago
-
----
-
 **[Tesla Faces China FSD Lawsuit As Robotics And Valuation Risks Grow](https://finance.yahoo.com/markets/stocks/articles/tesla-faces-china-fsd-lawsuit-071158560.html)**
 
 Chinese consumers have filed a new class-action lawsuit against Tesla (NasdaqGS:TSLA) alleging fraudulent marketing and consumer deception related to its Full Self-Driving feature in China. The case targets Tesla's largest international market and raises questions around how the company presents its advanced driver assistance capabilities. At the same time, Tesla's humanoid robotics and autonomy ambitions face sharper competition as OpenAI launches a robotics division and Nvidia expands its...
 
-Yahoo Finance • 22h ago
-
----
-
-**[NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)**
-
-New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development.
-
-NVIDIA Blog • 14h ago
-
----
-
-**[China just beat Nvidia on a global robotics ranking. Is a new tech war brewing?](https://www.scmp.com/tech/article/3355838/chinese-robotics-start-beat-nvidia-global-ai-ranking-new-tech-war-brewing)**
-
-South China Morning Post • 4h ago
-
----
-
-**[Shifters raises $10.2 million Seed to build autonomous battlefield robots](https://www.calcalistech.com/ctechnews/article/b1emlktgmg)**
-
-Company targets high-risk environments with AI-driven ground platforms.
-
-CTech • 18h ago
-
----
-
-**[robotic art and AI-driven spirituality empower human connection at sónar+D 2026](https://www.designboom.com/technology/sonar-d-2026-festival-exhibitions-installations-barcelona-june-2026/)**
-
-sónar+D 2026 transforms barcelona’s llotja de mar into a speculative landscape of robotic art and AI-driven spirituality
-
-Designboom • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 964K • 👍 19K • 💬 2K • ⏱️ 6:01 • 1d ago
+👁️ 1.1M • 👍 22K • 💬 2K • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -206,27 +206,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 171K • 👍 3K • 💬 227 • ⏱️ 5:01 • 1d ago
-
----
-
-**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
-
-Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
-
-📺 DPCcars
-
-👁️ 28K • 👍 93 • 💬 31 • ⏱️ 2:07 • 1d ago
-
----
-
-**[Humanoid Robots Are Coming To JCPenney Warehouses #Figure #Robotics #AI](https://www.youtube.com/watch?v=mAlH80KLcmQ)**
-
-Figure Robotics just signed a commercial agreement with Catalyst Brands to deploy humanoid robots at their warehouses.
-
-📺 Ryan Shaw
-
-👁️ 3K • 👍 59 • 💬 6 • ⏱️ 0:33 • 13h ago
+👁️ 198K • 👍 4K • 💬 257 • ⏱️ 5:01 • 1d ago
 
 ---
 
@@ -236,25 +216,27 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 116K • 👍 3K • 💬 510 • ⏱️ 29:20 • 4d ago
+👁️ 118K • 👍 3K • 💬 517 • ⏱️ 29:20 • 4d ago
 
 ---
 
-**[Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics](https://www.youtube.com/watch?v=GvByvkp6k5s)**
+**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
 
-If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...
+Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
 
-📺 Boston Dynamics
+📺 DPCcars
 
-👁️ 42K • 👍 2K • 💬 120 • ⏱️ 1:22 • 1d ago
+👁️ 31K • 👍 103 • 💬 34 • ⏱️ 2:07 • 1d ago
 
 ---
 
-**[MINI &quot;ROCKING&quot; ROBOT GUITARIST!! #robotics #humanoid #robot #ai #robotmaxxing](https://www.youtube.com/watch?v=V5OsriAQBYY)**
+**[Humanoid Robots Are Coming To JCPenney Warehouses #Figure #Robotics #AI](https://www.youtube.com/watch?v=mAlH80KLcmQ)**
 
-📺 6PACKB450
+Figure Robotics just signed a commercial agreement with Catalyst Brands to deploy humanoid robots at their warehouses.
 
-👁️ 8K • 👍 44 • ⏱️ 0:09 • 1d ago
+📺 Ryan Shaw
+
+👁️ 3K • 👍 64 • 💬 6 • ⏱️ 0:33 • 16h ago
 
 ---
 
@@ -264,17 +246,27 @@ War Robots Gameplay: The HARPY can do more than people expect My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 555 • 💬 117 • ⏱️ 17:38 • 1d ago
+👁️ 11K • 👍 560 • 💬 120 • ⏱️ 17:38 • 1d ago
 
 ---
 
-**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+**[Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics](https://www.youtube.com/watch?v=GvByvkp6k5s)**
 
-Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...
 
-📺 Farzad
+📺 Boston Dynamics
 
-👁️ 141K • 👍 6K • 💬 636 • ⏱️ 23:36 • 2d ago
+👁️ 42K • 👍 2K • 💬 122 • ⏱️ 1:22 • 1d ago
+
+---
+
+**[Scientists Turned Dead Spiders Into Robotic Grippers Using Their Hydraulic Legs 🤯🕷️🤖](https://www.youtube.com/watch?v=xDntVZFxt_o)**
+
+Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hydraulic Legs 🕷️   In this fascinating ...
+
+📺 Techie Sapien
+
+👁️ 695K • 👍 5K • 💬 94 • ⏱️ 0:07 • 5d ago
 
 ---
 
@@ -284,7 +276,17 @@ China's humanoid robotics industry is booming, and some analysts reckon that 1bn
 
 📺 The Economist
 
-👁️ 64K • 👍 3K • 💬 113 • ⏱️ 2:20 • 2d ago
+👁️ 68K • 👍 3K • 💬 117 • ⏱️ 2:20 • 2d ago
+
+---
+
+**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+
+Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+
+📺 Farzad
+
+👁️ 144K • 👍 6K • 💬 642 • ⏱️ 23:36 • 2d ago
 
 ---
 
