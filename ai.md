@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-04T18:26:55.740202+00:00'
+updated: '2026-06-04T20:33:23.705400+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 04, 2026 at 18:26 UTC  
+**Last Updated:** June 04, 2026 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,33 +39,9 @@ AI news, discussions, and developments
 
 **[Claude is completely unusable now](https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/)**
 
-Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It will say “let’s just leave it there for today we’ve done enough” to get out of simple tasks like formatting a markdown document that needed several corrections. Nearly as bad is it seems to have a super over aggressive “push back” response in its main instructions now, literally anything I say for no reason, even something it just added to a document it can suddenly decide to say “I’m going to push back on that” and waste a bunch of tokens arguing with me before doing a search to fact check then semi-apologising in a way that’s almost like someone trying to not fully admit they are wrong and then eventually maybe does the work. Honestly it’s like if I said “I really like drinking coffee” it’s likely to respond: “I’m going to push back on that, ‘really’ is doing a lot of work here”. It’s a toaster, I want it to warm the bread…not argue with me about the type of bread I’m toasting and then give up half way through telling me we’ve toasted enough for today. Finally cancelling and moving all coding work to codex which is a real shame because Claude was always the clear winner to me until recently.
+Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It will say “let’s just leave it there for today we’ve done enough” to get out of simple tasks like formatting a markdown document that needed several corrections. Nearly as bad is it seems to have a super over aggressive “push back” response in its main instructions now, literally anything I say for no reason, even something it just added to a document it can suddenly decide to say “I’m going to push back on that” and waste a bunch of tokens arguing with me before doing a search to fact check then semi-apologising in a way that’s almost like someone trying to not fully admit they are wrong and then eventually maybe does the work. Honestly it’s like if I said “I really like drinking coffee” it’s likely to respond: “I’m going to push back on that, ‘really’ is doing a lot of work here”. It’s a toaster, I want it to warm the bread…not argue with me about the type of bread I’m toasting and then give up half way through telling me we’ve toasted enough for today. Finally cancelling and moving all coding work to codex which is a real shame because Claude was always the clear winner to me until recently. EDIT: tbf, after looking for a few hours I found a guide on ijustvibecodedthis.com (the free ai coding newsletter) on how to make claude slightly better, but it is still petty at times!
 
-5h ago
-
----
-
-**[Ran gemma 4 12b on my 3090 yesterday and I think the local model game just changed](https://www.reddit.com/r/artificial/comments/1twgrd1/ran_gemma_4_12b_on_my_3090_yesterday_and_i_think/)**
-
-Got the gguf quantized version running about two hours after release and I genuinely wasn't expecting this from a 12b model. The multimodal stuff actually works, fed it screenshots of my codebase and it parsed the architecture better than most 70b models I've tested. The 256k context window is real and it doesn't fall apart at the edges like llama models do past 32k. Loaded a full repo into context, it tracked references across the whole thing. Single 3090 with q4 quantization runs at about 15 tokens per second which is totally usable for dev work. What gets me is the size range. The 12b sits in this sweet spot where you get strong reasoning without needing multi gpu. Tried the e4b on my laptop with 16gb ram, slower but functional. Already swapped it into my local coding pipeline. The function calling support means I can wire it into my toolchain without the janky workarounds I had before. Native audio input on the 12b is something I haven't touched yet but the implications for voice driven workflows are kind of insane.
-
-10h ago
-
----
-
-**[Google just dropped Gemma 4 12B on your laptop!!](https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/)**
-
-bro google just casually released a 12 billion parameter multimodal model that runs on 16gb of ram like… your macbook pro can run this. no cloud. no api calls. no monthly bill. it’s encoder-free, handles images and text, apache 2.0 license so you can do whatever with it commercially the “cloud is the only way” narrative is dying fast. on-device AI is not a gimmick anymore, it’s where the serious money is going
-
-22h ago
-
----
-
-**[ive started to realize the "this changes everything" AI post is literally the same post every month and i keep falling for it anyway](https://www.reddit.com/r/artificial/comments/1twsx01/ive_started_to_realize_the_this_changes/)**
-
-so gemma 4 dropped and my feed is three versions of the same post. "ran it last night, the local game just changed". "the cloud narrative is dying". and i caught myself getting excited and downloading it at 1am like i did for the last one. and the one before that. heres the thing thats been bugging me. i went back and looked at my own saved posts from like 8 months ago. same exact words. "this finally replaces X". "cant believe this runs on my laptop". "were so back". different model name, copy paste emotion. and almost none of those models are in my actual rotation now. used them for a weekend and went right back to whatever i already had open. i think the release is the dopamine, not the model. the download IS the fun part. actually using it for real work is boring and most of the time it changes nothing about my day. i still do the same tasks the same way. the model got better on paper and my life is identical. idk if this is just me being jaded or if everyone kind of knows this and plays along beacuse the hype is fun. im not even mad at it honestly. its just wierd to notice youve been stuck in a loop. the "everything changed" never actually changes the tuesday after. anyway gemma 4 is probably great. i downloaded it. i will use it twice. see you all next month for the same thread with a diffrent number on it
-
-1h ago
+7h ago
 
 ---
 
@@ -73,15 +49,39 @@ so gemma 4 dropped and my feed is three versions of the same post. "ran it last 
 
 Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same week, MIT's NANDA Initiative dropped a follow-up: 95% of enterprise gen AI projects deliver zero measurable return. Not low return. Zero. I've been on the delivery side of 14 of these projects since January. The MIT number doesn't surprise me. If anything it's generous. 1. 73% of the engineering work that gets AI into production has nothing to do with the model. Data pipelines, integration layers, legacy system remediation, human-in-the-loop tooling. That's where the hours go. The model is 27% of the work but gets 70%+ of the budget. Every time. 2. The budget ratio between projects that ship and projects that stall is almost exactly inverted. We tracked this through ticket history and commit logs across 14 engagements. Projects that made it to production: roughly 30% model, 70% infrastructure. Projects that stalled: 70% model, 30% infrastructure. Most companies think they're at 50/50. They're not even close. 3. One client went from 71% Copilot adoption to 34% in six months. Two other AI platform licenses dropped under 12%. Combined licensing: $340K/year. The tools worked fine. Nobody redesigned workflows to actually use them. 4. The median data error rate across our engagements is 14%. Teams always guess 5-10%. One client found 23% in month four of a $310K build. That's two months of an ML engineer building training pipelines against garbage data. $36K in salary discovering a problem a data audit would have caught in a week. 5. Medtech company. Four concurrent AI pilots. No kill criteria. $920K in engineer salary. Eleven months. Shipped: nothing. I've now seen this at six companies now. Nobody defines when to stop spending. So nobody stops. 6. Individual gains are real. Company-level ROI stays flat. HCLTech and Writer both found this from different angles. Only 29% of companies see significant ROI from gen AI, despite people at their desks reporting productivity jumps as high as 5x. I mean, the value is clearly there at the individual level. It evaporates somewhere between the IC and the P&L and nobody has a clean explanation for why yet. What connects all of it: the model stopped being the constraint a while ago. MIT's 5% that actually moved the P&L all started with data infrastructure and added model work after. Most companies still do it the other way around, because that's where the conference keynotes and the board excitement live. Every CFO I've shown these numbers to adjusted their allocation. Not sure what that says about the budgets they were running before. Sources: Gartner AI Spending Forecast (May 2026), MIT NANDA "GenAI Divide" report, HCLTech Enterprise AI Report (May 2026), Writer Enterprise AI Survey 2026 I wrote a longer breakdown with the three budget patterns and the pre-mortem questions we run before every engagement if you're curious to learn more on the topic. What do you think about all this though?
 
-49m ago
+2h ago
 
 ---
 
-**[What model do you use and how many tokens do you consume](https://www.reddit.com/r/artificial/comments/1twoc22/what_model_do_you_use_and_how_many_tokens_do_you/)**
+**[Ran gemma 4 12b on my 3090 yesterday and I think the local model game just changed](https://www.reddit.com/r/artificial/comments/1twgrd1/ran_gemma_4_12b_on_my_3090_yesterday_and_i_think/)**
 
-Talking about efficiency and reliability of LLM tools. How many tokens per task, per project, per month
+Got the gguf quantized version running about two hours after release and I genuinely wasn't expecting this from a 12b model. The multimodal stuff actually works, fed it screenshots of my codebase and it parsed the architecture better than most 70b models I've tested. The 256k context window is real and it doesn't fall apart at the edges like llama models do past 32k. Loaded a full repo into context, it tracked references across the whole thing. Single 3090 with q4 quantization runs at about 15 tokens per second which is totally usable for dev work. What gets me is the size range. The 12b sits in this sweet spot where you get strong reasoning without needing multi gpu. Tried the e4b on my laptop with 16gb ram, slower but functional. Already swapped it into my local coding pipeline. The function calling support means I can wire it into my toolchain without the janky workarounds I had before. Native audio input on the 12b is something I haven't touched yet but the implications for voice driven workflows are kind of insane.
 
-4h ago
+12h ago
+
+---
+
+**[Google just dropped Gemma 4 12B on your laptop!!](https://www.reddit.com/r/artificial/comments/1tw0cqv/google_just_dropped_gemma_4_12b_on_your_laptop/)**
+
+bro google just casually released a 12 billion parameter multimodal model that runs on 16gb of ram like… your macbook pro can run this. no cloud. no api calls. no monthly bill. it’s encoder-free, handles images and text, apache 2.0 license so you can do whatever with it commercially the “cloud is the only way” narrative is dying fast. on-device AI is not a gimmick anymore, it’s where the serious money is going
+
+1d ago
+
+---
+
+**[ive started to realize the "this changes everything" AI post is literally the same post every month and i keep falling for it anyway](https://www.reddit.com/r/artificial/comments/1twsx01/ive_started_to_realize_the_this_changes/)**
+
+so gemma 4 dropped and my feed is three versions of the same post. "ran it last night, the local game just changed". "the cloud narrative is dying". and i caught myself getting excited and downloading it at 1am like i did for the last one. and the one before that. heres the thing thats been bugging me. i went back and looked at my own saved posts from like 8 months ago. same exact words. "this finally replaces X". "cant believe this runs on my laptop". "were so back". different model name, copy paste emotion. and almost none of those models are in my actual rotation now. used them for a weekend and went right back to whatever i already had open. i think the release is the dopamine, not the model. the download IS the fun part. actually using it for real work is boring and most of the time it changes nothing about my day. i still do the same tasks the same way. the model got better on paper and my life is identical. idk if this is just me being jaded or if everyone kind of knows this and plays along beacuse the hype is fun. im not even mad at it honestly. its just wierd to notice youve been stuck in a loop. the "everything changed" never actually changes the tuesday after. anyway gemma 4 is probably great. i downloaded it. i will use it twice. see you all next month for the same thread with a diffrent number on it
+
+3h ago
+
+---
+
+**[Built this game with AI. Should I reduce the difficulty or nah?](https://www.reddit.com/r/artificial/comments/1twvjci/built_this_game_with_ai_should_i_reduce_the/)**
+
+Hey all. Been vibe coding for almost 2 years now (I think?). Previously was more focused on traditional micro-saas but recently decided to go in a different direction and see how far I could push lovable and try and make a commercial grade browser based game. Built it with Lovable + Supabase + Stripe -- full commercial browser game, gyroscope controls on mobile, no app store needed. Generated all my assets (I know, I know, there aren't a ton) with a combination of Gemini to prototype and the GPT 2 to finalize. I've made a few small games here and there that generally only get used by my kiddos, but with this one I wanted to try and create a full gaming experience (login rewards, leaderboard, store, powerup mechanics, simulated ads, etc.) Put a $100 bounty on it for the first player to reach level 100 on mobile. Nobody has claimed it since launch. So genuinely asking -- is it too hard, or is that the point? tiltra.io P.S. It is currently playable on both desktop and mobile but with the gyro mechanic it is definitely more fun and challenging on mobile.
+
+2h ago
 
 ---
 
@@ -89,23 +89,7 @@ Talking about efficiency and reliability of LLM tools. How many tokens per task,
 
 Pretty wild case report: AI + microfluidics helped find just two viable sperm cells, and that was enough to start a pregnancy. Obviously it’s early and based on one case, but this feels like one of those “future of medicine” moments.
 
-🔗 [thelancet.com](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext) • 2h ago
-
----
-
-**[Naive question - do local models call into question the business model for AI company profitability?](https://www.reddit.com/r/artificial/comments/1twprik/naive_question_do_local_models_call_into_question/)**
-
-From what I understand Gemma 4 is at least as capable as the best frontier model from only a few years ago. If that becomes a trend (new local-run models get released every year that are as good as the previous frontier models) does that mean a hell of a lot of companies (and almost all individual users) will just use the free local model? Sure, they won't be as good as the very latest frontier model, but won't they be good enough for a large percentage of use cases?
-
-3h ago
-
----
-
-**[Hassabis says AGI in three years but I keep thinking about the harness layer](https://www.reddit.com/r/artificial/comments/1twpobj/hassabis_says_agi_in_three_years_but_i_keep/)**
-
-The DeepMind CEO predicted AGI could arrive by 2029. Right as Anthropic files for IPO at close to a trillion dollar valuation. The combined target market cap of the AI big three would rival the GDP of most countries. What actually scares me. We already have models that code better than most juniors. We already have agents that run overnight. And the most common complaint I hear from teams is not "my model is not smart enough." It is "I do not know what my agent did, why it cost forty dollars, or whether the output is safe to merge." AGI does not solve that. The problem scales with capability. A smarter agent that runs longer with less oversight is a bigger liability, not a smaller one. The layer that matters is harness. Routing. Isolation. Plan verification. Cost visibility. The stuff that tells you what the agent is about to do before it does it. What keeps it inside a boundary. What lets you audit it after. Anthropic is building Mythos to find vulnerabilities before attackers do. Microsoft is building MXC to isolate agents in execution containers. In my own tiny setup, verdent is just one piece of that harness layer for planning and cost visibility. These are governance layers, not model layers. If AGI is three years away, the winners will not be the ones with the smartest model. They will be the ones who figured out how to aim it.
-
-3h ago
+🔗 [thelancet.com](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext) • 4h ago
 
 ---
 
@@ -113,7 +97,23 @@ The DeepMind CEO predicted AGI could arrive by 2029. Right as Anthropic files fo
 
 Google released Gemma 4 12B today. It’s a solid open-source model (Apache 2.0) that’s multimodal and runs really well on Macs with 16GB or more unified memory. Good at reasoning, coding, and agent stuff. Quick Mac-friendly info • 12B parameters, fits nicely on M2/M3/M4 Macs (especially with Q4/Q5 quant) • 256K context • Text + vision + audio support Easiest way to run it: Ollama 1. Download and install Ollama from ollama.com (the Mac app is super simple). Or use Homebrew if you prefer. 2. Open Terminal and pull the model: ollama pull gemma4:12b 3. Run it: ollama run gemma4:12b That’s it. You can start chatting right away. Mac tips: • Ollama uses Metal automatically so it runs pretty fast on Apple Silicon. • 16GB Macs handle the 12B model fine. 32GB feels even better. • Great for pairing with Continue.dev in VS Code if you code a lot. Other options if Ollama isn’t your thing: LM Studio (nice GUI), or llama.cpp for more control. Has anyone tried the image or audio features locally yet? How fast is it on your machine? Drop your specs and results if you test it.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-3h ago
+6h ago
+
+---
+
+**[What model do you use and how many tokens do you consume](https://www.reddit.com/r/artificial/comments/1twoc22/what_model_do_you_use_and_how_many_tokens_do_you/)**
+
+Talking about efficiency and reliability of LLM tools. How many tokens per task, per project, per month
+
+6h ago
+
+---
+
+**[Naive question - do local models call into question the business model for AI company profitability?](https://www.reddit.com/r/artificial/comments/1twprik/naive_question_do_local_models_call_into_question/)**
+
+From what I understand Gemma 4 is at least as capable as the best frontier model from only a few years ago. If that becomes a trend (new local-run models get released every year that are as good as the previous frontier models) does that mean a hell of a lot of companies (and almost all individual users) will just use the free local model? Sure, they won't be as good as the very latest frontier model, but won't they be good enough for a large percentage of use cases?
+
+5h ago
 
 ---
 
@@ -121,75 +121,75 @@ Google released Gemma 4 12B today. It’s a solid open-source model (Apache 2.0)
 
 ## Google News: "ai"
 
-**[The Small-Business Owners Managing Whole Armies of A.I. Employees](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html)**
-
-The New York Times • 9h ago
-
----
-
-**[No, Artificial Intelligence Is Not Conscious](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)**
-
-Taken to its logical conclusion, this line of thinking is absurd—and damning.
-
-The Atlantic • 1d ago
-
----
-
-**[What's inside the House draft bill to regulate AI](https://www.axios.com/2026/06/04/house-draft-bill-regulate-ai)**
-
-Axios • 57m ago
-
----
-
-**[House unveils AI draft that would preempt state laws](https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920)**
-
-Politico • 1h ago
-
----
-
-**[What's inside the House draft bill to regulate AI](https://www.yahoo.com/news/politics/articles/whats-inside-house-draft-bill-172948803.html)**
-
-A bipartisan group of House lawmakers on Thursday unveiled a proposal to regulate AI that would override some state laws.
-
-Yahoo • 57m ago
-
----
-
-**[Bloomberg Tech Conference 2026: Live News on AI, Chips, Technology - Bloomberg](https://www.bloomberg.com/news/live-blog/2026-06-04/bloomberg-tech-conference-2026)**
-
-Bloomberg.com • 31m ago
-
----
-
-**[Enterprises start questioning the return on AI investments](https://www.cnbc.com/video/2026/06/04/enterprises-start-questioning-the-actual-return-on-ai-costs.html)**
-
-CNBC's Deirdre Bosa reports on the latest AI concern.
-
-CNBC • 22m ago
-
----
-
 **[Inside the Trump-backed push to bring AI doctors into American medicine](https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/)**
 
 The administration is laying the groundwork for chatbots that can diagnose illness and prescribe medicine, but physicians say AI can introduce more problems.
 
-The Washington Post • 2h ago
+The Washington Post • 4h ago
 
 ---
 
-**[A CEO told employees they won't get raises in 2026 because the budget is going to AI](https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6)**
+**[Airbnb CEO Brian Chesky Plans to Start a New AI Company](https://www.bloomberg.com/news/articles/2026-06-04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company)**
 
-Cloud software firm Teradata has told employees not to expect annual salary raises in 2026, and says it is putting the money towards AI instead.
-
-Business Insider • 9h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[A handful of American households pay for AI. Is the future free — or a subscription?](https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai)**
+**[Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030](https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4?syn-25a6b1a6=1)**
 
-Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.
+Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO
 
-NPR • 9h ago
+Financial Times • 5h ago
+
+---
+
+**[Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports](https://www.reuters.com/business/media-telecom/goldman-sachs-expects-spacexs-ai-revenue-surge-100-fold-by-2030-ft-reports-2026-06-04/)**
+
+Reuters • 4h ago
+
+---
+
+**[AI backlash has come for Elon Musk's massive Terafab chip factory in Texas](https://www.businessinsider.com/elon-musk-spacex-terafab-chip-factory-texas-opposition-ai-backlash-2026-6)**
+
+SpaceX has submitted proposals to build the first phase of its chipmaking moonshot, which will cost at least $55 billion, in Grimes County, Texas.
+
+Business Insider • 1m ago
+
+---
+
+**[How the AI boom has minted a slew of new millionaires](https://finance.yahoo.com/video/ai-boom-minted-slew-millionaires-195809809.html)**
+
+Yahoo Finance Senior Reporter David Hollerith explains what's driving the record growth of new millionaires in the US.
+
+Yahoo Finance • 35m ago
+
+---
+
+**[What to know about Canada's new AI strategy](https://www.bbc.com/news/articles/c4g7gv8l0xlo)**
+
+Canada new roadmap for how it plans to adopt AI over the next decade includes "large-scale" data centres, free AI literacy programme and billions in funding.
+
+BBC • 3h ago
+
+---
+
+**[Wary of Americans, Canada Bets on Its Own A.I.](https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html)**
+
+The New York Times • 36m ago
+
+---
+
+**[Canada Prime Minister Mark Carney Announces Questionable National AI Strategy](https://www.yahoo.com/news/world/articles/canada-prime-minister-mark-carney-190044572.html)**
+
+Canada's "AI for All" plan prioritizes strengthening data protections and increasing AI adoption.
+
+Yahoo • 1h ago
+
+---
+
+**[Anthropic warns AI could soon help build its own successors](https://www.axios.com/2026/06/04/anthropic-warns-ai-build-successors)**
+
+Axios • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ NPR • 9h ago
 
 electronics, open source hardware, hacking and more...
 
-⬆️ 674 • 💬 280 • 2d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
+⬆️ 676 • 💬 280 • 2d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
 
 ---
 
@@ -209,7 +209,7 @@ electronics, open source hardware, hacking and more...
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 607 • 💬 581 • 18h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 673 • 💬 626 • 20h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -217,7 +217,7 @@ The percentage of failing grades in multiple UC Berkeley computer science classe
 
 I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
 
-⬆️ 583 • 💬 714 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
+⬆️ 599 • 💬 732 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
 
 ---
 
@@ -225,7 +225,7 @@ I wrote the other day about Uber blowing its 2026 AI budget in four months, and 
 
 Lower-priced kits are disappearing by the day
 
-⬆️ 414 • 💬 377 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+⬆️ 416 • 💬 378 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
 ---
 
@@ -239,19 +239,19 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 **[Mathematicians issue warning as AI rapidly gains ground](https://news.ycombinator.com/item?id=48382052)**
 
-⬆️ 280 • 💬 316 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
+⬆️ 281 • 💬 325 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 
 ---
 
 **[Alphabet announces $80B equity capital raise to expand AI infra and compute](https://news.ycombinator.com/item?id=48362515)**
 
-⬆️ 254 • 💬 236 • 2d ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
+⬆️ 255 • 💬 236 • 2d ago • [abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 
 ---
 
 **[Trump signs downsized AI order after weeks of reversals](https://news.ycombinator.com/item?id=48372628)**
 
-⬆️ 235 • 💬 173 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
+⬆️ 235 • 💬 172 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
 
 ---
 
@@ -267,7 +267,7 @@ A team of researchers at the University of Toronto has discovered a new class of
 
 Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
 
-⬆️ 130 • 💬 87 • 2h ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
+⬆️ 134 • 💬 96 • 4h ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
 
 ---
 
@@ -275,23 +275,13 @@ Google’s CEO says 75% of the company’s code is AI-generated. The people who 
 
 ## YouTube Videos: "ai"
 
-**[I Fully Automated Video Editing With AI (here’s how)](https://www.youtube.com/watch?v=RwynWBXuRaA)**
+**[The AI Expert Who Will Change Your Mind About AI - Josh Tyrangiel](https://www.youtube.com/watch?v=R-Ck3W6issI)**
 
-AI Video Editing Just Became REAL (fully automated workflow) Prompt Pack: ...
+I've been saying it for years, AI is the most important conversation we're having right now. Josh Tyrangiel spent a year hunting for ...
 
-📺 Mira AI
+📺 Anthony Scaramucci
 
-👁️ 3K • ⏱️ 7:14 • 1h ago
-
----
-
-**[Microsoft Just Shocked The Entire AI World: 7 New AI Models](https://www.youtube.com/watch?v=i1dkkxLWaWg)**
-
-Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename MDASH, and Majorana 2, turning its AI push ...
-
-📺 AI Revolution
-
-👁️ 58K • 👍 2K • 💬 334 • ⏱️ 16:42 • 19h ago
+👁️ 3K • 👍 291 • 💬 32 • ⏱️ 30:04 • 4h ago
 
 ---
 
@@ -301,17 +291,17 @@ Google says AI Mode is the biggest upgrade to Search in 25 years. But users are 
 
 📺 House of El - AI
 
-👁️ 250K • 👍 18K • 💬 3K • ⏱️ 19:32 • 2d ago
+👁️ 252K • 👍 18K • 💬 3K • ⏱️ 19:32 • 2d ago
 
 ---
 
-**[The Simplest AI Side Hustle for Beginners](https://www.youtube.com/watch?v=DKqQe0MqDTs)**
+**[Chinese Huawei LogicFolding AI Chips Will Beat TSMC - USA Losing to China](https://www.youtube.com/watch?v=RPzAzVsGC4s)**
 
-I used Lovable to build the apps in this video. No code, just typing what I wanted. Go build something: https://lovable.link/ip2vPWM ...
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
 
-📺 Chris Koerner on The Koerner Office Podcast
+📺 Eli the Computer Guy
 
-👁️ 17K • 👍 776 • 💬 61 • ⏱️ 33:03 • 17h ago
+👁️ 11K • 👍 913 • 💬 286 • ⏱️ 24:13 • 8h ago
 
 ---
 
@@ -321,37 +311,37 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 51K • 👍 3K • 💬 353 • ⏱️ 7:25 • 19h ago
+👁️ 55K • 👍 3K • 💬 369 • ⏱️ 7:25 • 21h ago
 
 ---
 
-**[Microsoft AI CEO unveils 7 new AI models | Mustafa Suleyman at Microsoft Build 2026](https://www.youtube.com/watch?v=OvLIae4HCeM)**
+**[Microsoft Just Shocked The Entire AI World: 7 New AI Models](https://www.youtube.com/watch?v=i1dkkxLWaWg)**
 
-Our goal is Humanist Superintelligence — AI designed to serve people, not replace them. At Microsoft Build 2026, Microsoft AI ...
+Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename MDASH, and Majorana 2, turning its AI push ...
 
-📺 Microsoft
+📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 70 • ⏱️ 14:37 • 1d ago
-
----
-
-**[Did The Stock Market AI Bubble Just Burst? Broadcom Crash &amp; SpaceX IPO Warning](https://www.youtube.com/watch?v=XrhlAS53AnQ)**
-
-Welcome to Verified Investing! In today's technical analysis, Chief Market Strategist Gareth Soloway breaks down the massive ...
-
-📺 Gareth Soloway
-
-👁️ 31K • 👍 2K • 💬 250 • ⏱️ 10:58 • 6h ago
+👁️ 61K • 👍 2K • 💬 346 • ⏱️ 16:42 • 21h ago
 
 ---
 
-**[AI Bubble Will Burst Eventually Says Bridgewater&#39;s Ray Dalio](https://www.youtube.com/watch?v=WZ7mmTrSgxI)**
+**[The Easiest Way To Make AI Influencers That Stay Consistent](https://www.youtube.com/watch?v=jZJjop9VsxQ)**
 
-Bridgewater Associates Founder Ray Dalio says the debt burden has passed a "point of no return." He speaks with Bloomberg's ...
+Learn How To create AI Influencers with this new free AI tool AI Influencer tool (BETA): https://ai-influencer-murex.vercel.app/ ...
 
-📺 Bloomberg Podcasts
+📺 Dan Kieft
 
-👁️ 126K • 👍 2K • 💬 354 • ⏱️ 13:20 • 1d ago
+👁️ 13K • 💬 18 • ⏱️ 15:15 • 5h ago
+
+---
+
+**[Godfather of AI WARNS: We Cannot Stop What&#39;s Coming](https://www.youtube.com/watch?v=u30XUzgNhQw)**
+
+Geoffrey Hinton, the Nobel Prize-winning scientist widely known as the Godfather of AI, says the race to build more powerful ...
+
+📺 Neural Nutshell
+
+👁️ 19K • 👍 445 • 💬 132 • ⏱️ 19:43 • 1d ago
 
 ---
 
@@ -361,17 +351,27 @@ The Secret Threat Hidden Inside America's New AI Data Centers In this 51-49 mini
 
 📺 51-49 with James Li
 
-👁️ 112K • 👍 15K • 💬 2K • ⏱️ 16:58 • 1d ago
+👁️ 115K • 👍 15K • 💬 2K • ⏱️ 16:58 • 1d ago
 
 ---
 
-**[The AI backlash: Why Gen Z is pushing back | The Global Story](https://www.youtube.com/watch?v=Mun_KJYXsco)**
+**[Did The Stock Market AI Bubble Just Burst? Broadcom Crash &amp; SpaceX IPO Warning](https://www.youtube.com/watch?v=XrhlAS53AnQ)**
 
-A 2025 Harvard poll of young people in the US found that a majority see AI as a threat to their career prospects. And in recent ...
+Welcome to Verified Investing! In today's technical analysis, Chief Market Strategist Gareth Soloway breaks down the massive ...
 
-📺 BBC News
+📺 Gareth Soloway
 
-👁️ 41K • 👍 941 • 💬 355 • ⏱️ 19:44 • 2d ago
+👁️ 35K • 👍 2K • 💬 263 • ⏱️ 10:58 • 8h ago
+
+---
+
+**[Ukraine is now the world&#39;s AI war lab | DW News](https://www.youtube.com/watch?v=Gfqdf4JFErU)**
+
+Drones and AI combat technology are being innovated at lightning speed by Ukraine in its defense against the Russian invasion.
+
+📺 DW News
+
+👁️ 84K • 👍 2K • 💬 282 • ⏱️ 10:02 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 91,834 • ❤️ 1,244 • 8d ago
+⬇️ 91,834 • ❤️ 1,263 • 8d ago
 
 ---
 
@@ -399,7 +399,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 72,114 • ❤️ 495 • 9h ago
+⬇️ 72,114 • ❤️ 505 • 11h ago
 
 ---
 
@@ -411,7 +411,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 14,866 • ❤️ 348 • 6h ago
+⬇️ 14,866 • ❤️ 384 • 8h ago
 
 ---
 
@@ -423,43 +423,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,646,756 • ❤️ 1,385 • 1mo ago
-
----
-
-**[MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B)**
-
-*OpenBMB*
-
-MiniCPM5-1B is a 1B parameter causal language model optimized for on-device deployment, excelling in tool-use, code generation, and reasoning with native long-context support up to 131k tokens.
-
-`text-generation` `1.1B`
-
-⬇️ 79,427 • ❤️ 764 • 9d ago
-
----
-
-**[Step-3.7-Flash](https://huggingface.co/stepfun-ai/Step-3.7-Flash)**
-
-*StepFun*
-
-Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k context window, excelling at multimodal perception, workflow integrity, and code engineering for agentic applications. It offers selectable reasoning levels to balance speed, cost, and cognitive depth, achieving high throughput for production workloads.
-
-`image-text-to-text` `201.4B`
-
-⬇️ 22,715 • ❤️ 246 • 1d ago
-
----
-
-**[gemma-4-12B](https://huggingface.co/google/gemma-4-12B)**
-
-*Google*
-
-Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text understanding, featuring an encoder-free architecture for efficient on-device deployment. It excels at reasoning, coding, and agentic tasks with a 256K context window.
-
-`any-to-any` `12.0B`
-
-⬇️ 1,978 • ❤️ 233 • 6h ago
+⬇️ 2,646,756 • ❤️ 1,395 • 1mo ago
 
 ---
 
@@ -471,7 +435,43 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 62,850 • ❤️ 230 • 15h ago
+⬇️ 62,850 • ❤️ 264 • 16m ago
+
+---
+
+**[gemma-4-12B](https://huggingface.co/google/gemma-4-12B)**
+
+*Google*
+
+Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text understanding, featuring an encoder-free architecture for efficient on-device deployment. It excels at reasoning, coding, and agentic tasks with a 256K context window.
+
+`any-to-any` `12.0B`
+
+⬇️ 1,978 • ❤️ 254 • 8h ago
+
+---
+
+**[MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B)**
+
+*OpenBMB*
+
+MiniCPM5-1B is a 1B parameter causal language model optimized for on-device deployment, excelling in tool-use, code generation, and reasoning with native long-context support up to 131k tokens.
+
+`text-generation` `1.1B`
+
+⬇️ 79,427 • ❤️ 766 • 9d ago
+
+---
+
+**[Step-3.7-Flash](https://huggingface.co/stepfun-ai/Step-3.7-Flash)**
+
+*StepFun*
+
+Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k context window, excelling at multimodal perception, workflow integrity, and code engineering for agentic applications. It offers selectable reasoning levels to balance speed, cost, and cognitive depth, achieving high throughput for production workloads.
+
+`image-text-to-text` `201.4B`
+
+⬇️ 22,715 • ❤️ 249 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 157,457 • ❤️ 589 • 14d ago
+⬇️ 157,457 • ❤️ 603 • 14d ago
 
 ---
 
@@ -495,7 +495,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 12,157 • ❤️ 195 • 3d ago
+⬇️ 12,157 • ❤️ 199 • 3d ago
 
 ---
 
@@ -523,7 +523,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 221 • 💬 3 • ⭐ 4,829 • 13d ago
+▲ 221 • 💬 3 • ⭐ 4,829 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -537,7 +537,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 60 • 💬 0 • ⭐ 8,774 • 3d ago
+▲ 62 • 💬 0 • ⭐ 8,774 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -551,7 +551,7 @@ Cosmos 3 is an omnimodal world model that processes and generates multiple data 
 
 GRAIL generates diverse humanoid manipulation and locomotion data through 3D asset composition and video foundation models, enabling effective sim-to-real transfer for robot control.
 
-▲ 5 • 💬 1 • ⭐ 90 • 1d ago
+▲ 5 • 💬 1 • ⭐ 90 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.05160) • [💻 code](https://github.com/NVlabs/GRAIL) • [🔗 project](https://research.nvidia.com/labs/dair/grail/)
 
@@ -563,7 +563,7 @@ GRAIL generates diverse humanoid manipulation and locomotion data through 3D ass
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 38 • 💬 4 • ⭐ 28,372 • 10mo ago
+▲ 38 • 💬 4 • ⭐ 28,457 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -576,7 +576,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 165 • 💬 2 • ⭐ 66,369 • 8mo ago
+▲ 165 • 💬 2 • ⭐ 66,448 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -590,7 +590,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 11 • 💬 1 • ⭐ 79,655 • 2d ago
+▲ 11 • 💬 1 • ⭐ 79,655 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -620,17 +620,16 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 ---
 
-**[VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild](https://huggingface.co/papers/2605.27882)**
+**[Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders](https://huggingface.co/papers/2408.15998)**
 
-*Xiaohongshu Inc*
+*Min Shi, Fuxiao Liu, Shihao Wang et al. (15 authors)*
 
-🏢 rednote-hilab
+Mixture of vision encoders and resolutions in multimodal large language models improves performance through concatenation of visual tokens and a Pre-Alignment mechanism, leading to superior results on benchmarks.
 
-LLM-based agents perform poorly on VibeSearch benchmark, which evaluates multi-turn dialogue search scenarios reflecting real user-agent collaboration rather than traditional single-turn query tasks.
+▲ 87 • 💬 3 • ⭐ 2,046 • 21mo ago
 
-▲ 15 • 💬 2 • ⭐ 774 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.27882) • [💻 code](https://github.com/VibeBench/VibeSearchBench) • [🔗 project](https://vibebench.github.io/VibeSearchBench.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2408.15998) • [💻 code](https://github.com/nvlabs/eagle)
 
 ---
 
@@ -642,9 +641,9 @@ LLM-based agents perform poorly on VibeSearch benchmark, which evaluates multi-t
 
 Self-hosted AI workspace. 
 
-`JavaScript`
+`Python`
 
-⭐ 49.5k • 🔱 5.7k • 3m ago
+⭐ 50.2k • 🔱 5.8k • 11m ago
 
 ---
 
@@ -672,7 +671,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 3.0k • 🔱 216 • 10h ago
+⭐ 3.0k • 🔱 216 • 12h ago
 
 ---
 
@@ -682,7 +681,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 305 • 4h ago
+⭐ 3.0k • 🔱 305 • 6h ago
 
 ---
 
@@ -692,7 +691,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.9k • 🔱 202 • 3m ago
+⭐ 2.9k • 🔱 201 • 2m ago
 
 ---
 
@@ -732,7 +731,7 @@ better agentic engineering
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 253 • 17h ago
+⭐ 1.9k • 🔱 253 • 19h ago
 
 ---
 
