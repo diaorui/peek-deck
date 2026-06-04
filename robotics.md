@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-03T22:11:04.126272+00:00'
+updated: '2026-06-04T00:14:02.351604+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 03, 2026 at 22:11 UTC  
+**Last Updated:** June 04, 2026 at 00:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254385910 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
 
-12h ago
+14h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254
 
 Okay so hear me out before you close the tab.Every time a robot failed in the field, our debugging process was SSH in, pray the logs survived, piece together what happened from /rosout like some kind of forensic archaeologist. Half the time the failure only happened once and we'd never reproduce it. Classic solution: just run rosbag2 continuously. Except in production that fills storage in like 2 hours and now you're debugging why the SD card is full instead of why the robot fell over. So I did the reasonable thing and spent months building an "episode recorder" that wraps each robot run, tags failures, and stores diagnostic context — basically a flight data recorder but for robots, which sounds very cool until you realise it's mostly just a fancier way to store JSON. I'm calling it BlackBox. Yes, like the aviation thing. Yes, I know. Genuinely asking: is this a real problem or did I just build elaborate infrastructure to avoid writing better log messages? Do you actually lose field failure context regularly or is this a me problem? What would make this useless for your setup? Be brutal. I can take it.
 
-5h ago
+7h ago
 
 ---
 
 **[Elliptical lidar of my robot converts 2D lidar to 3D lidar was not my best idea. rethink](https://www.reddit.com/r/robotics/comments/1tvppuo/elliptical_lidar_of_my_robot_converts_2d_lidar_to/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Okay so hear me out before you close the tab.Every time a robot failed in the fi
 
 For anyone curious about industrial actuator internals, I opened up a three-stage reduction actuator to see what's inside.
 
-13h ago
+15h ago
 
 ---
 
@@ -66,13 +66,19 @@ For anyone curious about industrial actuator internals, I opened up a three-stag
 
 NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot designed for embodied AI research. YOR can support tasks like grasping, carrying, opening a fridge, washing a cup, watering plants, and clearing dishes, combining mobility, lift motion, and dual-arm coordination in one platform. The robot uses AgileX PiPER 6-axis robotic arms, with hardware and software released for researchers and developers to build on.
 
-20h ago
+22h ago
 
 ---
 
 **[Made my arm grab from top or front depending on how the target is standing](https://www.reddit.com/r/robotics/comments/1tvnp9z/made_my_arm_grab_from_top_or_front_depending_on/)**
 
-9h ago
+11h ago
+
+---
+
+**[lds2d Python library for 2D LiDARs supports LDROBOT, YDLIDAR, RPLIDAR, 3irobotix, Neato, Xiaomi, Camsense, Hitachi-LG](https://www.reddit.com/r/robotics/comments/1tw7a29/lds2d_python_library_for_2d_lidars_supports/)**
+
+8m ago
 
 ---
 
@@ -80,7 +86,13 @@ NYU has open-sourced YOR (Your Own Robot), a dual-arm mobile manipulation robot 
 
 Daniela Rus from MIT CSAIL says that while humanoid demos have taken over the internet, the transition into task-based operations remains a big work in progress. Not only because the human world is complex with its own variables, but humanoids are also complex with their own challenges in terms of control.
 
-10h ago
+13h ago
+
+---
+
+**[Made a grabbing arm with depth camera and segmentation model](https://www.reddit.com/r/robotics/comments/1tvmnjy/made_a_grabbing_arm_with_depth_camera_and/)**
+
+12h ago
 
 ---
 
@@ -88,19 +100,7 @@ Daniela Rus from MIT CSAIL says that while humanoid demos have taken over the in
 
 https://reddit.com/link/1tw3ujj/video/ji55qrap055h1/player The world’s first ruby laser was invented in 1960. The 1980s marked LiDAR’s entry into remote sensing and mapping applications. The 2000s ushered in the era of mechanically rotating LiDAR.
 
-21m ago
-
----
-
-**[Cutting and remaking - Increased the chassis of my rover by 5 cm](https://www.reddit.com/r/robotics/comments/1tvmu7p/cutting_and_remaking_increased_the_chassis_of_my/)**
-
-10h ago
-
----
-
-**[Made a grabbing arm with depth camera and segmentation model](https://www.reddit.com/r/robotics/comments/1tvmnjy/made_a_grabbing_arm_with_depth_camera_and/)**
-
-10h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ https://reddit.com/link/1tw3ujj/video/ji55qrap055h1/player The world’s first r
 
 “Be ready for it,” said one fund manager who sees enormous opportunities in the space.
 
-CNBC • 17h ago
+CNBC • 19h ago
 
 ---
 
@@ -120,51 +120,23 @@ CNBC • 17h ago
 
 Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
 
-Fox Business • 6h ago
+Fox Business • 8h ago
 
 ---
 
-**[BYD-Backed Robotics Firm PaXini Is Said to Explore Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-03/byd-backed-robotics-firm-paxini-is-said-to-explore-hong-kong-ipo)**
+**[Robots, supply strain: five hot topics at Computex](https://uk.finance.yahoo.com/news/robots-supply-strain-five-hot-092132492.html)**
 
-Bloomberg • 18h ago
+From laptops designed for the artificial intelligence era to advances in robotics and sky-high tech shares, here are five hot topics at Taipei's huge Computex trade show:
+- Call my agent!- Stock boom -
+Red-hot share prices for AI-related companies have made many tech investors very rich, very quickly.
 
----
-
-**[Springfield Boys & Girls Club to host robotics demonstration and LEGO build experience](https://www.yahoo.com/news/science/articles/springfield-boys-girls-club-host-203000114.html)**
-
-Young people at the Springfield Boys & Girls Club will have an opportunity to explore robotics, engineering, and hands-on STEM learning during a special educational program on Thursday.
-
-Yahoo • 1h ago
-
----
-
-**[Thanks largely to robots, Ukraine is now talking about winning, not just surviving](https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/)**
-
-Uncrewed and autonomous systems—and the willingness to adapt to them—have neutered Russian advantages.
-
-Defense One • 1d ago
+Yahoo Finance UK • 14h ago
 
 ---
 
 **[China Robotics Firms Line Up IPOs to Pitch Next Phase of AI](https://www.bloomberg.com/news/articles/2026-06-01/china-robotics-firms-line-up-ipos-to-pitch-next-phase-of-ai)**
 
-Bloomberg • 1d ago
-
----
-
-**[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
-
-Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
-
-Ars Technica • 2d ago
-
----
-
-**[morph Launches the World’s First Shapeshifting Soft Robotics Cells Platform to Bring Physical AI into Real-World Applications](https://www.businesswire.com/news/home/20260602211043/en/morph-Launches-the-Worlds-First-Shapeshifting-Soft-Robotics-Cells-Platform-to-Bring-Physical-AI-into-Real-World-Applications)**
-
-morph today launches a physically intelligent soft robotics platform that designs and manufactures what it calls “soft robotic cells,” a term coined by the c...
-
-Business Wire • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -176,11 +148,43 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Allegedly trashing Airbnbs to test robots puts startup in legal trouble](https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/)**
+
+Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.
+
+Ars Technica • 2d ago
+
+---
+
 **[Version One Ventures raises fresh capital for early bets on AI, robotics and deep tech](https://www.geekwire.com/2026/version-one-ventures-raises-fresh-capital-for-early-bets-on-ai-robotics-and-deep-tech/)**
 
 The firm announced that it closed Version One Fund V, a $78 million fund focused on pre-seed and seed investments, along with Opportunities Fund III, a $30 million fund designed to make follow-on investments in its most promising portfolio companies.
 
 GeekWire • 1d ago
+
+---
+
+**[morph Launches the World’s First Shapeshifting Soft Robotics Cells Platform to Bring Physical AI into Real-World Applications](https://www.businesswire.com/news/home/20260602211043/en/morph-Launches-the-Worlds-First-Shapeshifting-Soft-Robotics-Cells-Platform-to-Bring-Physical-AI-into-Real-World-Applications)**
+
+morph today launches a physically intelligent soft robotics platform that designs and manufactures what it calls “soft robotic cells,” a term coined by the c...
+
+Business Wire • 1d ago
+
+---
+
+**[Pudu Robotics eyes Hong Kong listing amid geopolitical risks](https://asia.nikkei.com/business/technology/pudu-robotics-eyes-hong-kong-listing-amid-geopolitical-risks)**
+
+CEO says Chinese service robot maker exploring overseas manufacturing options
+
+Nikkei Asia • 20h ago
+
+---
+
+**[Robots join hotel staff: inside Singapore’s new training lab](https://www.stocktitan.net/news/YYGH/yy-group-nasdaq-yygh-advances-ai-training-data-strategy-with-launch-fnrfl8fikczt.html)**
+
+Humanoid robots begin pilot duty in a Singapore mall and luxury hotel as YY Group opens NVIDIA-powered training lab and keeps FY2026 revenue guidance.
+
+Stock Titan • 4h ago
 
 ---
 
@@ -194,37 +198,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 581K • 👍 13K • 💬 1K • ⏱️ 6:01 • 1d ago
-
----
-
-**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
-
-Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
-
-📺 Talent Recap
-
-👁️ 103K • 👍 2K • 💬 148 • ⏱️ 5:01 • 1d ago
-
----
-
-**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
-
-The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
-
-📺 Ryan Shaw
-
-👁️ 112K • 👍 3K • 💬 503 • ⏱️ 29:20 • 4d ago
-
----
-
-**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
-
-Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
-
-📺 Farzad
-
-👁️ 133K • 👍 6K • 💬 613 • ⏱️ 23:36 • 2d ago
+👁️ 708K • 👍 14K • 💬 2K • ⏱️ 6:01 • 1d ago
 
 ---
 
@@ -234,47 +208,27 @@ General-purpose humanoid robots represent the next leap in AI, but development r
 
 📺 NVIDIA
 
-👁️ 18K • 👍 573 • 💬 57 • ⏱️ 2:03 • 2d ago
+👁️ 18K • 👍 580 • 💬 57 • ⏱️ 2:03 • 2d ago
 
 ---
 
-**[Chinese Robots in Barcelona: Shanghai is leaving Tesla behind!](https://www.youtube.com/watch?v=117viyHMEW0)**
+**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
 
-While the West is waiting for the next Tesla Optimus update and watching Boston Dynamics demos in labs, humanoids from China ...
+Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
 
-📺 PRO ROBOTS
+📺 Talent Recap
 
-👁️ 15K • 👍 325 • 💬 35 • ⏱️ 15:49 • 4d ago
-
----
-
-**[The Future of Humanoid Robotics | Jonathan Hurst | TEDxPortland](https://www.youtube.com/watch?v=21BzAy5YEuE)**
-
-NOTE FROM TED: TEDx events are independently organized by volunteers. The guidelines we give TEDx organizers are ...
-
-📺 TEDx Talks
-
-👁️ 45K • 👍 1K • 💬 152 • ⏱️ 19:39 • 5d ago
+👁️ 128K • 👍 2K • 💬 169 • ⏱️ 5:01 • 1d ago
 
 ---
 
-**[No Doubt Best Robot (Early Season Override)](https://www.youtube.com/watch?v=2gqxww8Yq-I)**
+**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
 
-https://www.youtube.com/watch?v=P2MoY21YToo (reveal) #vex #override #stem #robotics.
+Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
 
-📺 Luke does robotics
+📺 Farzad
 
-👁️ 6K • 👍 205 • 💬 36 • ⏱️ 15:29 • 2d ago
-
----
-
-**[My Self-Aware Robot Built an Army (Official Trailer)](https://www.youtube.com/watch?v=yDA-A1jWswo)**
-
-E.L.B.E.R.R Series PART 4 Trailer. Part 4 coming soon! *No AI was used at all in the making of this video. This 3D animation was ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 409K • 👍 21K • 💬 2K • ⏱️ 1:40 • 2d ago
+👁️ 136K • 👍 6K • 💬 624 • ⏱️ 23:36 • 2d ago
 
 ---
 
@@ -284,7 +238,55 @@ Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it i
 
 📺 DPCcars
 
-👁️ 23K • 👍 78 • 💬 25 • ⏱️ 2:07 • 1d ago
+👁️ 25K • 👍 82 • 💬 27 • ⏱️ 2:07 • 1d ago
+
+---
+
+**[#factory #robot #borunte #spraying #welding #industrial](https://www.youtube.com/watch?v=g5ZNbK-Ez8A)**
+
+📺 BORUNTE-Robot-Messi
+
+👁️ 32K • 👍 33 • ⏱️ 0:11 • 2d ago
+
+---
+
+**[NVIDIA Just Unveiled a 75 DOF Humanoid Robot](https://www.youtube.com/watch?v=0ehh1A1qfwU)**
+
+NVIDIA has officially unveiled the Isaac GR00T Reference Humanoid Robot, a powerful new platform designed to accelerate the ...
+
+📺 DPCcars
+
+👁️ 71K • 👍 468 • 💬 242 • ⏱️ 2:57 • 2d ago
+
+---
+
+**[This Robot is literally Crazy 😱 #shorts](https://www.youtube.com/watch?v=J-PiRyHfKw0)**
+
+This is something you've never seen beforeA simple football challenge turned into an unbelievable moment when a robot showed ...
+
+📺 Next Potential
+
+👁️ 253K • 💬 643 • ⏱️ 0:38 • 2d ago
+
+---
+
+**[Do robots need shoes? | Ask a Roboticist #atlas #robot #bostondynamics](https://www.youtube.com/watch?v=GvByvkp6k5s)**
+
+If you've ever worked on your feet all day, you know how important a good pair of shoes is. Mechanical design engineer Chastity ...
+
+📺 Boston Dynamics
+
+👁️ 41K • 👍 2K • 💬 119 • ⏱️ 1:22 • 1d ago
+
+---
+
+**[Humanoid Robots Are Coming To JCPenney Warehouses #Figure #Robotics #AI](https://www.youtube.com/watch?v=mAlH80KLcmQ)**
+
+Figure Robotics just signed a commercial agreement with Catalyst Brands to deploy humanoid robots at their warehouses.
+
+📺 Ryan Shaw
+
+👁️ 1K • 👍 51 • 💬 5 • ⏱️ 0:33 • 8h ago
 
 ---
 
