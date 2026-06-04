@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-04T20:33:23.722885+00:00'
+updated: '2026-06-04T22:21:45.370362+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 04, 2026 at 20:33 UTC  
+**Last Updated:** June 04, 2026 at 22:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Kevin Wood | Robotics & AI on 𝕏: https://x.com/KWRoboticsAI/status/2061764713290047713 Official Wuji Hand 2 post (June 1): https://x.com/wuji_global/status/2061456465764987085 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
 
-11h ago
+13h ago
 
 ---
 
 **[I built an open-source Gazebo tool where the ground looks real and behaves real: photorealistic environments coupled with wheel-soil terramechanics, for sim-to-real](https://www.reddit.com/r/robotics/comments/1twojg8/i_built_an_opensource_gazebo_tool_where_the/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -50,13 +50,19 @@ From Kevin Wood | Robotics & AI on 𝕏: https://x.com/KWRoboticsAI/status/20617
 
 Hey everyone, I've been building an Asimov-based humanoid robot in my garage and just finished machining and assembling the ankle and shin. Most of the parts are CNC machined aluminum, with some 3D SLS printed components. My goal is to see how far a small builder can get without a huge budget or a team of engineers. I'm documenting the entire process, including the mistakes, redesigns, machining, and assembly work. Still a long way to go before I have a walking humanoid, but it's finally starting to look like a robot instead of a pile of aluminium I'd love feedback from anyone who's built humanoids, quadrupeds, or other legged robots. What are the biggest mistakes you made early on that you'd avoid if you started again? Build video: https://youtu.be/a4vX0B_dGQ0 A few things I'm still figuring out: Backlash and joint stiffness Cable routing through the leg Impact resistance during falls Maintaining low weight while keeping rigidity Happy to answer any questions about the design or manufacturing process.
 
-3h ago
+5h ago
+
+---
+
+**[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
+
+2h ago
 
 ---
 
 **[laser works and point on yolo targets and measure the distanz](https://www.reddit.com/r/robotics/comments/1twljib/laser_works_and_point_on_yolo_targets_and_measure/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -64,13 +70,7 @@ Hey everyone, I've been building an Asimov-based humanoid robot in my garage and
 
 Here is my Xiaomi LDS02RR capturing data live using my Raspberry Pi 5. I'm using my lds2d Python library (pip install lds2d). LDSO2RR connects to the RPi's serial port available on its header. Also, I'm using one of RPi's GPIO as PWM to control LDS02RR motor speed. Source https://github.com/kaiaai/lds2d
 
-16h ago
-
----
-
-**[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
-
-44m ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ Here is my Xiaomi LDS02RR capturing data live using my Raspberry Pi 5. I'm using
 
 We are a team of clinicians (internists and surgeons), nurses, and ML engineers. We want to contribute to the opensource community by creating a dataset that would help advance medical robotics. So my first question is: is recorded human data still relevant and of high impact? Or would we need to do it with a robot hand or gripper? We are considering recording structured human-demonstration videos performing common medical hand–object tasks, such as handling instruments, preparing trays, manipulating tubes/syringes/gauze, and following sterile/non-sterile workflow rules, with annotations like hand/object segmentation, action steps, contact points, errors, and safety/protocol labels. Would this kind of dataset be useful for medical robotics research, or would it only become valuable if we also include robot/gripper demonstrations? My second question is: from the perspective of robotics developers, engineers, and researchers, what types of datasets would actually be useful for you and the wider community? Are there specific medical workflows, annotations, sensor modalities, or demonstration formats that you think would be most valuable for us to build? All data will be done as simulations by the team, i mean no real patient data will be recorded. We would use mannequins and volunteers from the team.
 
-9h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254
 
 Andromeda is looking to scale Abi, its age-tech robot, from dozens of current assisted-living deployments to potentially thousands over the next two years. The company started with deployments mostly in Australia and has since moved more of its operations to San Francisco after raising a Series A. The scaling challenge now appears to be less about whether there is demand and more about whether the company can manufacture, support, and deploy the robots at a much larger level.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/andromeda-robotics-next-chapter) • 6h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/andromeda-robotics-next-chapter) • 8h ago
 
 ---
 
@@ -102,7 +102,7 @@ Andromeda is looking to scale Abi, its age-tech robot, from dozens of current as
 
 Hello, I have been researching UGVs and how they are designed and built. While there are many examples online, wiring diagrams and detailed documentation seem to be rare. I have also looked at related fields such as EVs, EV conversions, solar installations, van power systems, and small rover-like robots. I have a few questions and was hoping someone could help clear them up: 1.) Battery disconnect switch ("big red knob") The battery disconnect switch is sometimes labeled as a main, master, service, maintenance, or disconnect switch. I know that those words can mean and do different things. a.) Should it be a one-pole or two-pole switch? Disconnecting one conductor (usually positive, rarely negative) is enough to remove power from the system, but it does not fully isolate the battery because the other conductor remains connected. Most switches I found online are single-pole, and some manufacturers describe their systems as: "Turning the switch to the OFF position removes power from the system, but it is not equivalent to removing the battery." This probably means disconnecting the battery connectors. Based on this description, I presume they are using a single-pole switch. What is considered best practice for UGVs? b.) Should the switch be rated to disconnect under load, or should it only be operated when the system is already powered down? Again, technically both are possible. There are switches described as being capable of disconnecting under load. However, it is also true that many systems have a power-on button that performs the boot-up and shutdown sequence, along with instructions describing how and in what order things should be done. Can battery connectors themselves be considered a disconnect device? It seems that there are multiple ways of doing things, and that it is very important to correctly describe whichever combination is being used. 2.) Contactors How many contactors are typically used in a UGV? Is one sufficient, or should there be separate contactors for the positive and negative conductors? Is there a need for a pre-charge contactor in a UGV? While the battery voltage isn't low anymore (around 60 V), it is not as high as in EVs, where battery packs are commonly around 400 V. The purpose of the pre-charge contactor is to charge the capacitors gradually and equalize the voltage potential on both sides of the main contactor before it closes. This helps avoid inrush current, contact damage, arcing, and contact welding. 3.) Fuses Fuses are generally preferred over MCBs because they are cheaper, easier to find, simpler in design, and faster acting. Also, the ability to quickly reset a protection device is not always desirable in this type of environment. I have noticed that fuses are usually installed on the positive conductor, although I occasionally see them on the negative conductor as well (for example, pyrofuses in cars that disconnect the negative battery terminal). Is a fuse on the positive side generally sufficient, or are there situations where it makes sense to fuse both conductors? Thank you.
 
-6h ago
+8h ago
 
 ---
 
@@ -110,31 +110,17 @@ Hello, I have been researching UGVs and how they are designed and built. While t
 
 ## Google News: "robotics"
 
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+
+Bloomberg.com • 9h ago
+
+---
+
 **[Amazon unveils next-gen Proteus robot as part of €10 billion European investment in its fulfillment network](https://www.aboutamazon.com/news/operations/amazon-proteus-robot-europe-investment-employee-support)**
 
 The new Proteus and additional robotics expansions in Europe are designed to support employees by taking on physically strenuous tasks.
 
-About Amazon • 11h ago
-
----
-
-**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
-
-Bloomberg.com • 8h ago
-
----
-
-**[Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.](https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/)**
-
-The California startup released the fourth-generation of its home assistance robot, Stretch.
-
-TechCrunch • 5h ago
-
----
-
-**[China just beat Nvidia on a global robotics ranking. Is a new tech war brewing?](https://www.scmp.com/tech/article/3355838/chinese-robotics-start-beat-nvidia-global-ai-ranking-new-tech-war-brewing)**
-
-South China Morning Post • 19h ago
+About Amazon • 12h ago
 
 ---
 
@@ -164,7 +150,15 @@ Fox Business • 1d ago
 
 **[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
-South China Morning Post • 7h ago
+South China Morning Post • 9h ago
+
+---
+
+**[Is OpenAI coming for Tesla's robotics business?](https://finance.yahoo.com/video/openai-coming-teslas-robotics-business-120000710.html)**
+
+OpenAI (OPAI.PVT) recently announced it is returning to the robotics business, potentially rivaling Tesla's (TSLA) Optimus robot. Barron's associate editor Al Root discusses the dynamics of the competition in the video above.
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -172,15 +166,23 @@ South China Morning Post • 7h ago
 
 Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
 
-The Jerusalem Post • 2h ago
+The Jerusalem Post • 4h ago
 
 ---
 
-**[Bristol students take top prize in global robotics competition](https://www.bbc.com/news/articles/c3w2ve6wzq9o)**
+**[Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.](https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/)**
 
-Two Bristol students were crowned best in the UK in largest global robotics competition in USA.
+The California startup released the fourth-generation of its home assistance robot, Stretch.
 
-BBC • 15h ago
+TechCrunch • 7h ago
+
+---
+
+**[NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)**
+
+New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development.
+
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -224,7 +226,7 @@ Testing the robot code on the real hardware every time can be very inefficient. 
 
 📺 Kitajima
 
-👁️ 931 • 👍 15 • ⏱️ 0:29 • 4h ago
+👁️ 931 • 👍 15 • ⏱️ 0:29 • 6h ago
 
 ---
 
@@ -254,7 +256,7 @@ In Terminator 2, the T-1000 melted through barriers and reformed on the other si
 
 📺 KF Labs
 
-👁️ 34K • 👍 587 • 💬 9 • ⏱️ 0:05 • 5h ago
+👁️ 34K • 👍 587 • 💬 9 • ⏱️ 0:05 • 6h ago
 
 ---
 
