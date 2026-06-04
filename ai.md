@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-04T16:00:45.201951+00:00'
+updated: '2026-06-04T18:26:55.740202+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 04, 2026 at 16:00 UTC  
+**Last Updated:** June 04, 2026 at 18:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It will say “let’s just leave it there for today we’ve done enough” to get out of simple tasks like formatting a markdown document that needed several corrections. Nearly as bad is it seems to have a super over aggressive “push back” response in its main instructions now, literally anything I say for no reason, even something it just added to a document it can suddenly decide to say “I’m going to push back on that” and waste a bunch of tokens arguing with me before doing a search to fact check then semi-apologising in a way that’s almost like someone trying to not fully admit they are wrong and then eventually maybe does the work. Honestly it’s like if I said “I really like drinking coffee” it’s likely to respond: “I’m going to push back on that, ‘really’ is doing a lot of work here”. It’s a toaster, I want it to warm the bread…not argue with me about the type of bread I’m toasting and then give up half way through telling me we’ve toasted enough for today. Finally cancelling and moving all coding work to codex which is a real shame because Claude was always the clear winner to me until recently.
 
-2h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Has anyone else experienced this recently? It’s been getting worse for a while
 
 Got the gguf quantized version running about two hours after release and I genuinely wasn't expecting this from a 12b model. The multimodal stuff actually works, fed it screenshots of my codebase and it parsed the architecture better than most 70b models I've tested. The 256k context window is real and it doesn't fall apart at the edges like llama models do past 32k. Loaded a full repo into context, it tracked references across the whole thing. Single 3090 with q4 quantization runs at about 15 tokens per second which is totally usable for dev work. What gets me is the size range. The 12b sits in this sweet spot where you get strong reasoning without needing multi gpu. Tried the e4b on my laptop with 16gb ram, slower but functional. Already swapped it into my local coding pipeline. The function calling support means I can wire it into my toolchain without the janky workarounds I had before. Native audio input on the 12b is something I haven't touched yet but the implications for voice driven workflows are kind of insane.
 
-8h ago
+10h ago
 
 ---
 
@@ -57,15 +57,23 @@ Got the gguf quantized version running about two hours after release and I genui
 
 bro google just casually released a 12 billion parameter multimodal model that runs on 16gb of ram like… your macbook pro can run this. no cloud. no api calls. no monthly bill. it’s encoder-free, handles images and text, apache 2.0 license so you can do whatever with it commercially the “cloud is the only way” narrative is dying fast. on-device AI is not a gimmick anymore, it’s where the serious money is going
 
-20h ago
+22h ago
 
 ---
 
-**[Hassabis says AGI in three years but I keep thinking about the harness layer](https://www.reddit.com/r/artificial/comments/1twpobj/hassabis_says_agi_in_three_years_but_i_keep/)**
+**[ive started to realize the "this changes everything" AI post is literally the same post every month and i keep falling for it anyway](https://www.reddit.com/r/artificial/comments/1twsx01/ive_started_to_realize_the_this_changes/)**
 
-The DeepMind CEO predicted AGI could arrive by 2029. Right as Anthropic files for IPO at close to a trillion dollar valuation. The combined target market cap of the AI big three would rival the GDP of most countries. What actually scares me. We already have models that code better than most juniors. We already have agents that run overnight. And the most common complaint I hear from teams is not "my model is not smart enough." It is "I do not know what my agent did, why it cost forty dollars, or whether the output is safe to merge." AGI does not solve that. The problem scales with capability. A smarter agent that runs longer with less oversight is a bigger liability, not a smaller one. The layer that matters is harness. Routing. Isolation. Plan verification. Cost visibility. The stuff that tells you what the agent is about to do before it does it. What keeps it inside a boundary. What lets you audit it after. Anthropic is building Mythos to find vulnerabilities before attackers do. Microsoft is building MXC to isolate agents in execution containers. In my own tiny setup, verdent is just one piece of that harness layer for planning and cost visibility. These are governance layers, not model layers. If AGI is three years away, the winners will not be the ones with the smartest model. They will be the ones who figured out how to aim it.
+so gemma 4 dropped and my feed is three versions of the same post. "ran it last night, the local game just changed". "the cloud narrative is dying". and i caught myself getting excited and downloading it at 1am like i did for the last one. and the one before that. heres the thing thats been bugging me. i went back and looked at my own saved posts from like 8 months ago. same exact words. "this finally replaces X". "cant believe this runs on my laptop". "were so back". different model name, copy paste emotion. and almost none of those models are in my actual rotation now. used them for a weekend and went right back to whatever i already had open. i think the release is the dopamine, not the model. the download IS the fun part. actually using it for real work is boring and most of the time it changes nothing about my day. i still do the same tasks the same way. the model got better on paper and my life is identical. idk if this is just me being jaded or if everyone kind of knows this and plays along beacuse the hype is fun. im not even mad at it honestly. its just wierd to notice youve been stuck in a loop. the "everything changed" never actually changes the tuesday after. anyway gemma 4 is probably great. i downloaded it. i will use it twice. see you all next month for the same thread with a diffrent number on it
 
 1h ago
+
+---
+
+**[$2.5T in AI spending this year. 95% produces zero P&L impact.](https://www.reddit.com/r/artificial/comments/1twupqt/25t_in_ai_spending_this_year_95_produces_zero_pl/)**
+
+Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same week, MIT's NANDA Initiative dropped a follow-up: 95% of enterprise gen AI projects deliver zero measurable return. Not low return. Zero. I've been on the delivery side of 14 of these projects since January. The MIT number doesn't surprise me. If anything it's generous. 1. 73% of the engineering work that gets AI into production has nothing to do with the model. Data pipelines, integration layers, legacy system remediation, human-in-the-loop tooling. That's where the hours go. The model is 27% of the work but gets 70%+ of the budget. Every time. 2. The budget ratio between projects that ship and projects that stall is almost exactly inverted. We tracked this through ticket history and commit logs across 14 engagements. Projects that made it to production: roughly 30% model, 70% infrastructure. Projects that stalled: 70% model, 30% infrastructure. Most companies think they're at 50/50. They're not even close. 3. One client went from 71% Copilot adoption to 34% in six months. Two other AI platform licenses dropped under 12%. Combined licensing: $340K/year. The tools worked fine. Nobody redesigned workflows to actually use them. 4. The median data error rate across our engagements is 14%. Teams always guess 5-10%. One client found 23% in month four of a $310K build. That's two months of an ML engineer building training pipelines against garbage data. $36K in salary discovering a problem a data audit would have caught in a week. 5. Medtech company. Four concurrent AI pilots. No kill criteria. $920K in engineer salary. Eleven months. Shipped: nothing. I've now seen this at six companies now. Nobody defines when to stop spending. So nobody stops. 6. Individual gains are real. Company-level ROI stays flat. HCLTech and Writer both found this from different angles. Only 29% of companies see significant ROI from gen AI, despite people at their desks reporting productivity jumps as high as 5x. I mean, the value is clearly there at the individual level. It evaporates somewhere between the IC and the P&L and nobody has a clean explanation for why yet. What connects all of it: the model stopped being the constraint a while ago. MIT's 5% that actually moved the P&L all started with data infrastructure and added model work after. Most companies still do it the other way around, because that's where the conference keynotes and the board excitement live. Every CFO I've shown these numbers to adjusted their allocation. Not sure what that says about the budgets they were running before. Sources: Gartner AI Spending Forecast (May 2026), MIT NANDA "GenAI Divide" report, HCLTech Enterprise AI Report (May 2026), Writer Enterprise AI Survey 2026 I wrote a longer breakdown with the three budget patterns and the pre-mortem questions we run before every engagement if you're curious to learn more on the topic. What do you think about all this though?
+
+49m ago
 
 ---
 
@@ -73,23 +81,15 @@ The DeepMind CEO predicted AGI could arrive by 2029. Right as Anthropic files fo
 
 Talking about efficiency and reliability of LLM tools. How many tokens per task, per project, per month
 
-2h ago
+4h ago
 
 ---
 
-**[Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search. Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.](https://www.reddit.com/r/artificial/comments/1tw6hb9/companies_are_using_reddit_to_manipulate_chatgpt/)**
+**[AI system helps achieve first clinical pregnancy by finding rare viable sperm cells in severe male infertility case](https://www.reddit.com/r/artificial/comments/1tws9sg/ai_system_helps_achieve_first_clinical_pregnancy/)**
 
-Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.
+Pretty wild case report: AI + microfluidics helped find just two viable sperm cells, and that was enough to start a pregnancy. Obviously it’s early and based on one case, but this feels like one of those “future of medicine” moments.
 
-🔗 [404 Media](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/) • 16h ago
-
----
-
-**[The AI war is moving from models to machines and I don’t think enough people are talking about it](https://www.reddit.com/r/artificial/comments/1twqwoq/the_ai_war_is_moving_from_models_to_machines_and/)**
-
-okay so I’ve been thinking about this for a while and finally wrote it out properly everyone’s still arguing about benchmarks and which model is smarter but like… that’s starting to feel like the wrong fight? the more interesting question is where the model actually runs. on your device, in a cloud DC, on some edge hardware, inside enterprise infrastructure. that placement question is quietly becoming more important than the model quality question a few things that got me thinking about this recently: microsoft’s project solara is not a laptop. it’s basically a concept for hardware built around agents from the ground up, and they’re reportedly doing it on android not windows which says a lot about what they think “agent-native” actually needs to look like nvidia pushing local inference via RTX spark is interesting because it basically challenges the assumption that anything serious has to live in the cloud. latency, privacy, enterprise control requirements, there are real reasons to want compute closer to the user bytedance apparently building custom CPUs is the one that really made me stop. because agentic workloads aren’t just GPU jobs. agents call tools, manage state, orchestrate steps, interact with software systems. that’s a different workload profile entirely and big companies are starting to customize silicon around it anyway I wrote the whole thing up for towards AI if anyone wants to read it. not trying to just drop a link, genuinely curious if people here think the infrastructure angle is getting underplayed or if I’m reading too much into it [link in comments]
-
-35m ago
+🔗 [thelancet.com](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext) • 2h ago
 
 ---
 
@@ -97,7 +97,15 @@ okay so I’ve been thinking about this for a while and finally wrote it out pro
 
 From what I understand Gemma 4 is at least as capable as the best frontier model from only a few years ago. If that becomes a trend (new local-run models get released every year that are as good as the previous frontier models) does that mean a hell of a lot of companies (and almost all individual users) will just use the free local model? Sure, they won't be as good as the very latest frontier model, but won't they be good enough for a large percentage of use cases?
 
-1h ago
+3h ago
+
+---
+
+**[Hassabis says AGI in three years but I keep thinking about the harness layer](https://www.reddit.com/r/artificial/comments/1twpobj/hassabis_says_agi_in_three_years_but_i_keep/)**
+
+The DeepMind CEO predicted AGI could arrive by 2029. Right as Anthropic files for IPO at close to a trillion dollar valuation. The combined target market cap of the AI big three would rival the GDP of most countries. What actually scares me. We already have models that code better than most juniors. We already have agents that run overnight. And the most common complaint I hear from teams is not "my model is not smart enough." It is "I do not know what my agent did, why it cost forty dollars, or whether the output is safe to merge." AGI does not solve that. The problem scales with capability. A smarter agent that runs longer with less oversight is a bigger liability, not a smaller one. The layer that matters is harness. Routing. Isolation. Plan verification. Cost visibility. The stuff that tells you what the agent is about to do before it does it. What keeps it inside a boundary. What lets you audit it after. Anthropic is building Mythos to find vulnerabilities before attackers do. Microsoft is building MXC to isolate agents in execution containers. In my own tiny setup, verdent is just one piece of that harness layer for planning and cost visibility. These are governance layers, not model layers. If AGI is three years away, the winners will not be the ones with the smartest model. They will be the ones who figured out how to aim it.
+
+3h ago
 
 ---
 
@@ -105,15 +113,7 @@ From what I understand Gemma 4 is at least as capable as the best frontier model
 
 Google released Gemma 4 12B today. It’s a solid open-source model (Apache 2.0) that’s multimodal and runs really well on Macs with 16GB or more unified memory. Good at reasoning, coding, and agent stuff. Quick Mac-friendly info • 12B parameters, fits nicely on M2/M3/M4 Macs (especially with Q4/Q5 quant) • 256K context • Text + vision + audio support Easiest way to run it: Ollama 1. Download and install Ollama from ollama.com (the Mac app is super simple). Or use Homebrew if you prefer. 2. Open Terminal and pull the model: ollama pull gemma4:12b 3. Run it: ollama run gemma4:12b That’s it. You can start chatting right away. Mac tips: • Ollama uses Metal automatically so it runs pretty fast on Apple Silicon. • 16GB Macs handle the 12B model fine. 32GB feels even better. • Great for pairing with Continue.dev in VS Code if you code a lot. Other options if Ollama isn’t your thing: LM Studio (nice GUI), or llama.cpp for more control. Has anyone tried the image or audio features locally yet? How fast is it on your machine? Drop your specs and results if you test it.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
-1h ago
-
----
-
-**[Companies are letting AI gains go to waste, study says](https://www.reddit.com/r/artificial/comments/1tw5v4v/companies_are_letting_ai_gains_go_to_waste_study/)**
-
-A recent study by Boston Consulting Group highlights a significant increase in employee adoption of AI tools, with 74% of non-managerial white-collar workers using them regularly. More than 4 in 10 of those professionals report that artificial intelligence saves them at least a day's worth of time every week. However, many companies face challenges converting those efficiency gains into measurable value, and the technology's impact varies across industries. When it comes to AI, according to the study's authors, "strategy matters more than tools."
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/companies-are-letting-ai-efficiencies-go-to-waste-study-8914154/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 16h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ A recent study by Boston Consulting Group highlights a significant increase in e
 
 **[The Small-Business Owners Managing Whole Armies of A.I. Employees](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html)**
 
-The New York Times • 6h ago
+The New York Times • 9h ago
 
 ---
 
@@ -131,39 +131,41 @@ The New York Times • 6h ago
 
 Taken to its logical conclusion, this line of thinking is absurd—and damning.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
-**[Broadcom stock sinks in after hours as AI chip forecast disappoints](https://finance.yahoo.com/markets/article/broadcom-stock-sinks-in-after-hours-as-ai-chip-forecast-disappoints-165602504.html)**
+**[What's inside the House draft bill to regulate AI](https://www.axios.com/2026/06/04/house-draft-bill-regulate-ai)**
 
-Broadcom shares sank in after-hours following the chipmaker's quarterly results.
-
-Yahoo Finance • 5h ago
+Axios • 57m ago
 
 ---
 
-**[Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year](https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html)**
+**[House unveils AI draft that would preempt state laws](https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920)**
 
-Broadcom reported fiscal second-quarter results on Wednesday and missed estimates for revenue.
-
-CNBC • 19h ago
+Politico • 1h ago
 
 ---
 
-**[Broadcom Is Drowning in AI Orders. Why Aren’t Investors Impressed?](https://www.trefis.com/stock/avgo/articles/601481/broadcom-is-drowning-in-ai-orders-why-arent-investors-impressed/2026-06-04)**
+**[What's inside the House draft bill to regulate AI](https://www.yahoo.com/news/politics/articles/whats-inside-house-draft-bill-172948803.html)**
 
-Broadcom (AVGO)'s stock took a 14.0% haircut before the market even opened on Thursday. You'd think the company had just guided to a collapse. Instead, the CEO was talking about “accelerating growth in AI semiconductor revenue” and demand that is “simply insatiable.
+A bipartisan group of House lawmakers on Thursday unveiled a proposal to regulate AI that would override some state laws.
 
-Trefis • 51m ago
+Yahoo • 57m ago
 
 ---
 
-**[Indeed's CMO wants marketers to get AI-smart without losing the human touch](https://www.businessinsider.com/indeeds-cmo-says-ai-powers-hyper-targeting-and-sales-strategy-2026-6)**
+**[Bloomberg Tech Conference 2026: Live News on AI, Chips, Technology - Bloomberg](https://www.bloomberg.com/news/live-blog/2026-06-04/bloomberg-tech-conference-2026)**
 
-As Indeed launches a new brand campaign, CMO James Whitemore talks about smart uses of AI, and the importance of fandom
+Bloomberg.com • 31m ago
 
-Business Insider • 12m ago
+---
+
+**[Enterprises start questioning the return on AI investments](https://www.cnbc.com/video/2026/06/04/enterprises-start-questioning-the-actual-return-on-ai-costs.html)**
+
+CNBC's Deirdre Bosa reports on the latest AI concern.
+
+CNBC • 22m ago
 
 ---
 
@@ -171,29 +173,23 @@ Business Insider • 12m ago
 
 The administration is laying the groundwork for chatbots that can diagnose illness and prescribe medicine, but physicians say AI can introduce more problems.
 
-The Washington Post • 10m ago
+The Washington Post • 2h ago
 
 ---
 
-**[Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion](https://news.samsung.com/uk/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion)**
+**[A CEO told employees they won't get raises in 2026 because the budget is going to AI](https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6)**
 
-New update transforms the user experience from passive tracking to proactive guidance with a suite of personalised, intuitive daily insights
+Cloud software firm Teradata has told employees not to expect annual salary raises in 2026, and says it is putting the money towards AI instead.
 
-samsung.com • 16h ago
-
----
-
-**[Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers](https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html)**
-
-Amazon engineers called out their employer for conducting mass layoffs while it commits to spending $200 billion this year on AI infrastructure.
-
-CNBC • 16h ago
+Business Insider • 9h ago
 
 ---
 
-**[AI is ushering in a new era of colonialism](https://www.axios.com/2026/06/04/ai-data-extraction-colonialism)**
+**[A handful of American households pay for AI. Is the future free — or a subscription?](https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai)**
 
-Axios • 6h ago
+Just 3% of U.S. households pay for AI for personal use. Sign ups are growing — even though Americans have subscription fatigue.
+
+NPR • 9h ago
 
 ---
 
@@ -209,27 +205,19 @@ electronics, open source hardware, hacking and more...
 
 ---
 
-**[Uber's $1,500/month AI limit is a useful signal for AI tool pricing](https://news.ycombinator.com/item?id=48383056)**
-
-I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
-
-⬆️ 559 • 💬 683 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
-
----
-
 **[Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://news.ycombinator.com/item?id=48392004)**
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 552 • 💬 509 • 15h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 607 • 💬 581 • 18h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
-**[AI Agent Guidelines for CS336 at Stanford](https://news.ycombinator.com/item?id=48359232)**
+**[Uber's $1,500/month AI limit is a useful signal for AI tool pricing](https://news.ycombinator.com/item?id=48383056)**
 
-Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics
+I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
 
-⬆️ 499 • 💬 153 • 2d ago • [GitHub](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+⬆️ 583 • 💬 714 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
 
 ---
 
@@ -237,7 +225,7 @@ Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scra
 
 Lower-priced kits are disappearing by the day
 
-⬆️ 413 • 💬 370 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+⬆️ 414 • 💬 377 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
 ---
 
@@ -249,23 +237,9 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 ---
 
-**[DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://news.ycombinator.com/item?id=48359130)**
-
-Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.
-
-⬆️ 309 • 💬 150 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
-
----
-
 **[Mathematicians issue warning as AI rapidly gains ground](https://news.ycombinator.com/item?id=48382052)**
 
-⬆️ 271 • 💬 310 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
-
----
-
-**[Florida sues OpenAI and Sam Altman over AI risks](https://news.ycombinator.com/item?id=48358667)**
-
-⬆️ 268 • 💬 194 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
+⬆️ 280 • 💬 316 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 
 ---
 
@@ -275,27 +249,39 @@ Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome 
 
 ---
 
+**[Trump signs downsized AI order after weeks of reversals](https://news.ycombinator.com/item?id=48372628)**
+
+⬆️ 235 • 💬 173 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
+
+---
+
+**[U of T researchers demonstrate AI worm could target any online device](https://news.ycombinator.com/item?id=48379664)**
+
+A team of researchers at the University of Toronto has discovered a new class of cyberthreat that gives hackers more power and reach at far less cost. It can be built with free AI models. Every online device is a potential target. And current cyber defences are not yet ready for it.
+
+⬆️ 148 • 💬 46 • 1d ago • [University of Toronto](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+
+---
+
+**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
+
+Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
+
+⬆️ 130 • 💬 87 • 2h ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[Best AI Video Agents in 2026 (Most Realistic)](https://www.youtube.com/watch?v=uQulSf5Mci0)**
+**[I Fully Automated Video Editing With AI (here’s how)](https://www.youtube.com/watch?v=RwynWBXuRaA)**
 
-Best AI Video Agents in 2026 Use The Best AI Video Agent https://youricreates.com/higgsfield-agent In this video, I compare ...
+AI Video Editing Just Became REAL (fully automated workflow) Prompt Pack: ...
 
-📺 Youri van Hofwegen
+📺 Mira AI
 
-👁️ 4K • ⏱️ 8:11 • 1h ago
-
----
-
-**[Quantum Just Killed AI Data Centers](https://www.youtube.com/watch?v=4o_evxWvsx0)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *A quantum computer just solved in minutes ...
-
-📺 Julia McCoy
-
-👁️ 46K • 👍 3K • 💬 312 • ⏱️ 7:25 • 17h ago
+👁️ 3K • ⏱️ 7:14 • 1h ago
 
 ---
 
@@ -305,17 +291,7 @@ Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename 
 
 📺 AI Revolution
 
-👁️ 53K • 👍 2K • 💬 313 • ⏱️ 16:42 • 17h ago
-
----
-
-**[The Easiest Way To Make AI Influencers That Stay Consistent](https://www.youtube.com/watch?v=jZJjop9VsxQ)**
-
-Learn How To create AI Influencers with this new free AI tool Tool you need: https://higgsfield.ai?fpr=dankieft&fp_sid=dash In this ...
-
-📺 Dan Kieft
-
-👁️ 5K • 💬 9 • ⏱️ 15:15 • 1h ago
+👁️ 58K • 👍 2K • 💬 334 • ⏱️ 16:42 • 19h ago
 
 ---
 
@@ -325,7 +301,37 @@ Google says AI Mode is the biggest upgrade to Search in 25 years. But users are 
 
 📺 House of El - AI
 
-👁️ 245K • 👍 17K • 💬 3K • ⏱️ 19:32 • 2d ago
+👁️ 250K • 👍 18K • 💬 3K • ⏱️ 19:32 • 2d ago
+
+---
+
+**[The Simplest AI Side Hustle for Beginners](https://www.youtube.com/watch?v=DKqQe0MqDTs)**
+
+I used Lovable to build the apps in this video. No code, just typing what I wanted. Go build something: https://lovable.link/ip2vPWM ...
+
+📺 Chris Koerner on The Koerner Office Podcast
+
+👁️ 17K • 👍 776 • 💬 61 • ⏱️ 33:03 • 17h ago
+
+---
+
+**[Quantum Just Killed AI Data Centers](https://www.youtube.com/watch?v=4o_evxWvsx0)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *A quantum computer just solved in minutes ...
+
+📺 Julia McCoy
+
+👁️ 51K • 👍 3K • 💬 353 • ⏱️ 7:25 • 19h ago
+
+---
+
+**[Microsoft AI CEO unveils 7 new AI models | Mustafa Suleyman at Microsoft Build 2026](https://www.youtube.com/watch?v=OvLIae4HCeM)**
+
+Our goal is Humanist Superintelligence — AI designed to serve people, not replace them. At Microsoft Build 2026, Microsoft AI ...
+
+📺 Microsoft
+
+👁️ 41K • 👍 1K • 💬 70 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -335,27 +341,7 @@ Welcome to Verified Investing! In today's technical analysis, Chief Market Strat
 
 📺 Gareth Soloway
 
-👁️ 23K • 👍 2K • 💬 229 • ⏱️ 10:58 • 4h ago
-
----
-
-**[They Aren&#39;t Building AI Data Centers. (It&#39;s Way Worse)](https://www.youtube.com/watch?v=7viqI2WFfog)**
-
-The Secret Threat Hidden Inside America's New AI Data Centers In this 51-49 mini-documentary, James uncovers the real ...
-
-📺 51-49 with James Li
-
-👁️ 110K • 👍 15K • 💬 2K • ⏱️ 16:58 • 1d ago
-
----
-
-**[Godfather of AI WARNS: We Cannot Stop What&#39;s Coming](https://www.youtube.com/watch?v=u30XUzgNhQw)**
-
-Geoffrey Hinton, the Nobel Prize-winning scientist widely known as the Godfather of AI, says the race to build more powerful ...
-
-📺 Neural Nutshell
-
-👁️ 17K • 👍 389 • 💬 124 • ⏱️ 19:43 • 23h ago
+👁️ 31K • 👍 2K • 💬 250 • ⏱️ 10:58 • 6h ago
 
 ---
 
@@ -365,17 +351,27 @@ Bridgewater Associates Founder Ray Dalio says the debt burden has passed a "poin
 
 📺 Bloomberg Podcasts
 
-👁️ 119K • 👍 2K • 💬 341 • ⏱️ 13:20 • 23h ago
+👁️ 126K • 👍 2K • 💬 354 • ⏱️ 13:20 • 1d ago
 
 ---
 
-**[Add THIS Before Every AI Prompt! (Gemini, ChatGPT, Claude)](https://www.youtube.com/watch?v=tk4Ljz9p-UI)**
+**[They Aren&#39;t Building AI Data Centers. (It&#39;s Way Worse)](https://www.youtube.com/watch?v=7viqI2WFfog)**
 
-Most AI users waste time rewriting prompts and fixing poor results. Discover a simple prompt technique that helps create more ...
+The Secret Threat Hidden Inside America's New AI Data Centers In this 51-49 mini-documentary, James uncovers the real ...
 
-📺 Simpletivity
+📺 51-49 with James Li
 
-👁️ 48K • 👍 2K • 💬 89 • ⏱️ 6:16 • 2d ago
+👁️ 112K • 👍 15K • 💬 2K • ⏱️ 16:58 • 1d ago
+
+---
+
+**[The AI backlash: Why Gen Z is pushing back | The Global Story](https://www.youtube.com/watch?v=Mun_KJYXsco)**
+
+A 2025 Harvard poll of young people in the US found that a majority see AI as a threat to their career prospects. And in recent ...
+
+📺 BBC News
+
+👁️ 41K • 👍 941 • 💬 355 • ⏱️ 19:44 • 2d ago
 
 ---
 
@@ -403,7 +399,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 72,114 • ❤️ 495 • 7h ago
+⬇️ 72,114 • ❤️ 495 • 9h ago
 
 ---
 
@@ -415,7 +411,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 14,866 • ❤️ 348 • 4h ago
+⬇️ 14,866 • ❤️ 348 • 6h ago
 
 ---
 
@@ -463,7 +459,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 1,978 • ❤️ 233 • 4h ago
+⬇️ 1,978 • ❤️ 233 • 6h ago
 
 ---
 
@@ -475,7 +471,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 62,850 • ❤️ 230 • 13h ago
+⬇️ 62,850 • ❤️ 230 • 15h ago
 
 ---
 
@@ -648,7 +644,7 @@ Self-hosted AI workspace.
 
 `JavaScript`
 
-⭐ 48.8k • 🔱 5.6k • 4m ago
+⭐ 49.5k • 🔱 5.7k • 3m ago
 
 ---
 
@@ -666,7 +662,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.4k • 🔱 707 • 1d ago
+⭐ 3.4k • 🔱 709 • 1d ago
 
 ---
 
@@ -676,7 +672,7 @@ A Unified Virtual Filesystem For AI Agents
 
 `TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
 
-⭐ 3.0k • 🔱 216 • 8h ago
+⭐ 3.0k • 🔱 216 • 10h ago
 
 ---
 
@@ -686,7 +682,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 303 • 2h ago
+⭐ 3.0k • 🔱 305 • 4h ago
 
 ---
 
@@ -696,7 +692,7 @@ OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence d
 
 `Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
 
-⭐ 2.8k • 🔱 200 • 1h ago
+⭐ 2.9k • 🔱 202 • 3m ago
 
 ---
 
@@ -706,7 +702,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.7k • 🔱 268 • 2d ago
+⭐ 2.7k • 🔱 269 • 2d ago
 
 ---
 
@@ -736,7 +732,7 @@ better agentic engineering
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 253 • 14h ago
+⭐ 1.9k • 🔱 253 • 17h ago
 
 ---
 

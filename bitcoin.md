@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-04T16:00:45.210884+00:00'
+updated: '2026-06-04T18:26:55.748895+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 04, 2026 at 16:00 UTC  
+**Last Updated:** June 04, 2026 at 18:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,773.90
+### $63,394.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** -13.0%  
-**30d:** -21.5%  
-**90d:** -4.9%  
-**1y:** -37.0%  
+**24h:** -3.0%  
+**7d:** -13.5%  
+**30d:** -22.0%  
+**90d:** -5.5%  
+**1y:** -37.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1281.82B
+**Market Cap:** $1269.14B
 Rank #1
 
-**Circulating Supply:** 20,038,578 BTC
+**Circulating Supply:** 20,038,634 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.7%
 
 **All-Time Low:** $67.81
-+94194.4%
++93458.5%
 
 ---
 
@@ -77,11 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Finally did it I have my whole 1 Bitcoin !!](https://www.reddit.com/r/Bitcoin/comments/1tweq3a/finally_did_it_i_have_my_whole_1_bitcoin/)**
+**[Don’t worry guys, i panic sold all of my bitcoin](https://www.reddit.com/r/Bitcoin/comments/1twuvwm/dont_worry_guys_i_panic_sold_all_of_my_bitcoin/)**
 
-I was due being a whole coiner by the end of next year but with the price fluctuations I am now a whole coiner! I have been stacking since 2021 and now my new goal is 2.1 BTC for my future retirement. Just so we're clear: I've had my offline wallet since day one and I couldn't care less who knows I have 1 whole Bitcoin. Now, I'll just sit back and wait for all my long lost friends and long-lost cousins to start flooding my DMs.
+Should go up to 100k. Give it a few days
 
-10h ago
+43m ago
 
 ---
 
@@ -89,7 +89,7 @@ I was due being a whole coiner by the end of next year but with the price fluctu
 
 Check Bitcoin on google news, every article negative. Everyone starting to sell, all negative news surrounding Bitcoin, this is when you start buying. Been in it since 2017. Learned to never sell in 2018. This has happened over and over now. Don't sell. Good luck.
 
-14h ago
+16h ago
 
 ---
 
@@ -97,15 +97,15 @@ Check Bitcoin on google news, every article negative. Everyone starting to sell,
 
 Imagine building something that ends up being worth hundreds of billions of dollars, and never touching a single cent. Not in the first bull run, not at $1,000, not at $10,000, not at $100,000. For over a decade, Satoshi's coins just... sit there. No transactions. Nothing. Zero. Maybe he lost the keys. Maybe he's gone. Or maybe, and this is the part that messes with my head, he just got it in a way most of us still don't, because Bitcoin was built to outlive its creator. And it did. So here's what I keep thiunking about : if Satoshi was staring at the charts right now, watching the price do its thing... would he feel like an idiot for leaving so much money on the table?...or would he just smile, close his laptop, and think: we're still early?
 
-3h ago
+6h ago
 
 ---
 
-**[Tell me you understand nothing about bitcoin: 26% of btc sold in the past 30 days was done AT A LOSS (Source: CNBC)](https://www.reddit.com/r/Bitcoin/comments/1tw1ri5/tell_me_you_understand_nothing_about_bitcoin_26/)**
+**[Finally did it I have my whole 1 Bitcoin !!](https://www.reddit.com/r/Bitcoin/comments/1tweq3a/finally_did_it_i_have_my_whole_1_bitcoin/)**
 
-Source: https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html Imagine that. One quarter of all bitcoin sales in the last month was done by the literal definition of weak hands. These were not people who researched bitcoin; who deposited it to their own wallet; who believe the tech matters; who know bitcoin's "inherent value" comes from being the world's largest immutable decentralized ledger; who feel that independent money has a place in the world. Bitcoin's real price is only found when you shake out those speculators. Are you one of them? EDIT: Fwiw, I kinda screwed up the headline here because it’s not that 26% sold at a general loss, it’s how many people sold after buying in over $90k. Meaning they’ve held since January and folded now. My point stands, however.
+I was due being a whole coiner by the end of next year but with the price fluctuations I am now a whole coiner! I have been stacking since 2021 and now my new goal is 2.1 BTC for my future retirement. Just so we're clear: I've had my offline wallet since day one and I couldn't care less who knows I have 1 whole Bitcoin. Now, I'll just sit back and wait for all my long lost friends and long-lost cousins to start flooding my DMs.
 
-19h ago
+12h ago
 
 ---
 
@@ -113,7 +113,15 @@ Source: https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-sel
 
 Mt. Gox - On June 2, the defunct exchange transferred 10,422 BTC, valued at roughly $739 million, to new wallets. With creditor repayments scheduled before the October 2026 deadline, large wallet movements continue to fuel speculation about potential future selling activity. Mt. Gox still holds roughly 34,504 BTC valued at $2.43 billion. Potentially going to be liquidated in the coming months..
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears) • 12h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears) • 14h ago
+
+---
+
+**[Tell me you understand nothing about bitcoin: 26% of btc sold in the past 30 days was done AT A LOSS (Source: CNBC)](https://www.reddit.com/r/Bitcoin/comments/1tw1ri5/tell_me_you_understand_nothing_about_bitcoin_26/)**
+
+Source: https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html Imagine that. One quarter of all bitcoin sales in the last month was done by the literal definition of weak hands. These were not people who researched bitcoin; who deposited it to their own wallet; who believe the tech matters; who know bitcoin's "inherent value" comes from being the world's largest immutable decentralized ledger; who feel that independent money has a place in the world. Bitcoin's real price is only found when you shake out those speculators. Are you one of them? EDIT: Fwiw, I kinda screwed up the headline here because it’s not that 26% sold at a general loss, it’s how many people sold after buying in over $90k. Meaning they’ve held since January and folded now. My point stands, however.
+
+21h ago
 
 ---
 
@@ -121,7 +129,15 @@ Mt. Gox - On June 2, the defunct exchange transferred 10,422 BTC, valued at roug
 
 We’re in the 4th Bitcoin drawdown after the 2024 having; the total Drawdown: -49.7% Peak: $126,198 (October 6, 2025) Current Macro Trough: ~$63,392 I think Bitcoin is performing well if you compare it with the previous cycles, especially considering the liquidity competition from AI stocks. Tile to buy and hodl…
 
-7h ago
+9h ago
+
+---
+
+**[I started doing DCA](https://www.reddit.com/r/Bitcoin/comments/1twu6vp/i_started_doing_dca/)**
+
+I started doing DCA, for $10 a week on Coinbase. Is this a bad idea?
+
+1h ago
 
 ---
 
@@ -137,23 +153,7 @@ Just do it!! Take the opportunity!!
 
 This is my first ever post on here. I started purchasing bitcoin in 2017, before it had ever hit 10k. When it hit 10K I was pumped!!! Then it hit 20k and I was in disbelief… when it started to drop I panicked sold. I broke even. I had a buddy of mine who convinced me to buy back in. Long story short let this an investment. Don’t cash out when times look tough. Hold strong and invest what you can afford. I will never consider selling my bitcoin unless it is a true emergency or I’m ready to start retirement. HODL
 
-13h ago
-
----
-
-**[How would BTC failing affect your life?](https://www.reddit.com/r/Bitcoin/comments/1twjh8w/how_would_btc_failing_affect_your_life/)**
-
-Please note I am not a BTC hater. I have it as a notable part of my portfolio. However, I'm not a Maxi or "all in." I have been part of this community since 2017. I've noticed for some "true believers" that it's almost a religion. Some people are pinning their future financial health on it. What happens when one finds out there is no Heaven?
-
-5h ago
-
----
-
-**[State of BTC](https://www.reddit.com/r/Bitcoin/comments/1tw8dmu/state_of_btc/)**
-
-What’s you honest thoughts, reactions, input on the current state of BTC and what this market/run is doing?
-
-15h ago
+16h ago
 
 ---
 
@@ -161,65 +161,55 @@ What’s you honest thoughts, reactions, input on the current state of BTC and w
 
 ## Google News: "bitcoin"
 
-**[Crypto stocks sink as Bitcoin hits a 4-month low](https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-sink-bitcoin-hits-110352763.html)**
+**[5 reasons bitcoin prices are bleeding — besides Michael Saylor](https://finance.yahoo.com/video/5-reasons-bitcoin-prices-are-bleeding--besides-michael-saylor-163326874.html)**
 
-Investing.com -- Bitcoin dropped to its lowest level in nearly four months Thursday, weighed down by a combination of geopolitical anxiety, persistent institutional selling, and Strategy’s first Bitcoin sale in years.
+Bitcoin (BTC-USD) prices are plummeting, dipping below $65,000 on Wednesday. This comes as Strategy's (MSTR) Michael Saylor sold 32 coins.
 
-Yahoo Finance • 4h ago
+Scott Melker discusses the details in the video above."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
----
-
-**[Bitcoin Weakness Is Hitting Strategy and Coinbase. What the Charts Say.](https://www.barrons.com/articles/bitcoin-proxy-stocks-strategy-coinbase-charts-20b2d031)**
-
-Barron's • 14m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says](https://finance.yahoo.com/markets/crypto/articles/fannie-mae-backed-bitcoin-home-151200865.html)**
+**[Michael Saylor’s Bitcoin Machine Is Misfiring on Every Cylinder](https://www.bloomberg.com/news/articles/2026-06-04/michael-saylor-s-bitcoin-machine-is-misfiring-on-every-cylinder)**
 
-Coinbase said a Michigan couple closed on the first-ever conventional, Fannie Mae-backed home mortgage by pledging Bitcoin as collateral.
-
-Yahoo Finance • 48m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin miners best positioned in “time to compute” race, Bernstein says](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-best-positioned-time-150044120.html)**
+**[Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%](https://finance.yahoo.com/markets/crypto/articles/strategys-michael-saylor-blames-capital-180615584.html)**
 
-Investing.com -- Bernstein initiated coverage of TeraWulf and Cipher Digital with Outperform ratings in a note on Thursday, arguing that Bitcoin miners are uniquely positioned to meet surging demand for AI computing infrastructure through their large-scale power portfolios and ability to deliver operational data center capacity quickly.
+With Bitcoin falling hard this week and down nearly 50% from peak. Strategy's Michael Saylor is pointing the finger at the AI boom.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 20m ago
 
 ---
 
 **[MSTR Stock: Strategy Shoots Own Foot: Bitcoin Dive Will Cost It $26 Mil A Year](https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/)**
 
-Investor's Business Daily • 4h ago
-
----
-
-**[Saylor’s Strategy Sells Bitcoin for First Time Since 2022](https://www.wsj.com/finance/currencies/saylors-strategy-sells-bitcoin-for-first-time-since-2022-05a531a8)**
-
-WSJ • 2d ago
-
----
-
-**[Bitcoin (BTC) isn't broken, says Strategy's (MSTR) Saylor](https://www.coindesk.com/markets/2026/06/04/strategy-s-saylor-s-explanation-for-bitcoin-s-slide-isn-t-what-bears-think)**
-
-Bitcoin's drop reflects capital rotation into artificial intelligence, Saylor argues.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Slump Deepens](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026/card/bitcoin-slump-deepens-AWtPstJEOuFVwOHXq08k)**
-
-WSJ • 7h ago
+Investor's Business Daily • 7h ago
 
 ---
 
 **[Standard Chartered's crypto bull sticks to $100,000 bitcoin call despite 'painful' week](https://www.reuters.com/legal/transactional/standard-chartereds-crypto-bull-sticks-100000-bitcoin-call-despite-painful-week-2026-06-04/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
+
+---
+
+**[Standard Chartered's crypto bull sticks to $100,000 bitcoin call despite 'painful' week](https://finance.yahoo.com/markets/crypto/articles/standard-chartereds-crypto-bull-sticks-131701088.html)**
+
+Geoffrey Kendrick, the global head of digital assets research at Standard Chartered and one of the most vocal crypto advocates, is sticking with his call for ‌bitcoin to hit $100,000 by the end of the year as the bulk of the selling may be ‌over.  The biggest crypto token has tumbled more than 12% in what Kendrick said was a "painful" week, after Michael Saylor's Strategy, the largest ​corporate holder of bitcoin, disclosed on Monday that it had sold some of the holdings for the first time since 2022.  "The timing of the sale was a shame," Kendrick wrote in a note to clients.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Standard Chartered's three 'Ifs' that stand between bitcoin and a market low: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/04/standard-chartered-s-three-ifs-that-stand-between-bitcoin-and-a-market-low)**
+
+Your day-ahead look for June 4, 2026
+
+CoinDesk • 7h ago
 
 ---
 
@@ -227,7 +217,21 @@ Reuters • 2h ago
 
 Treasury Secretary Scott Bessent said the department is moving at a "deliberate speed" to establish a strategic bitcoin reserve.
 
-The Block • 23h ago
+The Block • 1d ago
+
+---
+
+**[Better, Coinbase fund Fannie Mae-backed bitcoin mortgage](https://www.housingwire.com/articles/fannie-mae-bitcoin-mortgage/)**
+
+Better and Coinbase funded a Fannie Mae-backed mortgage using bitcoin as collateral, with a nationwide rollout planned by summer 2026.
+
+HousingWire • 54m ago
+
+---
+
+**[A $245 million Bitcoin heist led police to a 'Godfather' who hired Sheriff's deputies as enforcers](https://fortune.com/2026/06/03/adam-iza-godfather-bitcoin-heist-kidnapping-deputies-guilty/)**
+
+Fortune • 1d ago
 
 ---
 
@@ -237,7 +241,7 @@ The Block • 23h ago
 
 **[Bitcoin Has Longest Losing Streak Since August in Bruising Week](https://news.ycombinator.com/item?id=48398073)**
 
-⬆️ 49 • 💬 71 • 2h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
+⬆️ 51 • 💬 78 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
 
 ---
 
@@ -253,7 +257,7 @@ Nostr client with other stuff
 
 Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its "never sell" stance broke.
 
-⬆️ 6 • 💬 1 • 2d ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
+⬆️ 6 • 💬 1 • 3d ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
 
 ---
 
@@ -261,7 +265,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 In the past two days, bitcoin's highest-conviction holders have sold about $2.4 billion in bitcoin.
 
-⬆️ 4 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
+⬆️ 4 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
 
 ---
 
@@ -289,7 +293,7 @@ Second offers simple solutions to integrate Ark and Lightning payments into your
 
 **[Bitcoin Falls to Pre-Iran Conflict Low as Crypto Slide Extends](https://news.ycombinator.com/item?id=48393874)**
 
-⬆️ 2 • 💬 0 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
+⬆️ 2 • 💬 0 • 13h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
 
 ---
 
@@ -305,7 +309,7 @@ Strategy (NASDAQ: $MSTR ) has sold some of its Bitcoin (CRYPTO: $BTC ) holdings.
 
 Historical source code printed on gallery-quality canvas. Apollo 11's flight code, Linus's first Git commit, the Perl camel — licensed by O'Reilly. Eight pieces of computing history, on your wall.
 
-⬆️ 8 • 💬 2 • 2d ago • [canvascript](https://canvascript.com/)
+⬆️ 8 • 💬 2 • 3d ago • [canvascript](https://canvascript.com/)
 
 ---
 
@@ -313,23 +317,13 @@ Historical source code printed on gallery-quality canvas. Apollo 11's flight cod
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Bloodbath: Is The Bottom In?](https://www.youtube.com/watch?v=L0Q4T_mD0s8)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 8K • 👍 630 • 💬 38 • ⏱️ 54:25 • 1h ago
-
----
-
 **[Bitcoin&#39;s Reset May Be Here...](https://www.youtube.com/watch?v=XJccJROA7ek)**
 
 Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 493 • ⏱️ 14:51 • 15h ago
+👁️ 31K • 👍 1K • 💬 499 • ⏱️ 14:51 • 17h ago
 
 ---
 
@@ -339,27 +333,7 @@ Bitcoin Manipulation DISCOVERED! (Watch Before They Delete) ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 4K • 💬 320 • ⏱️ 11:52 • 15h ago
-
----
-
-**[Bitcoin Just Nuked - Here’s What You Need To Know](https://www.youtube.com/watch?v=HfQXi6CkEIU)**
-
-Bitcoin, Ethereum, my stock portfolio updates, and HYPE sell off BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 419 • 💬 64 • ⏱️ 20:00 • 3h ago
-
----
-
-**[Bitcoin Just CRASHED to $62k... Is it Time to Sell EVERYTHING?! - Mike Novogratz](https://www.youtube.com/watch?v=hTJG5c-3Z2Y)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 91 • 💬 7 • ⏱️ 15:06 • 20h ago
+👁️ 47K • 👍 4K • 💬 346 • ⏱️ 11:52 • 18h ago
 
 ---
 
@@ -369,7 +343,27 @@ Anthony Pompliano breaks down why Michael Saylor and Strategy selling 32 bitcoin
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 1K • 💬 92 • ⏱️ 12:45 • 19h ago
+👁️ 36K • 👍 1K • 💬 92 • ⏱️ 12:45 • 21h ago
+
+---
+
+**[Everything has to go right for Bitcoin right now: Gary Cardone](https://www.youtube.com/watch?v=XHDRXRwa5Z8)**
+
+bitcoin #crypto #garycardone #scottmelker In this episode of The Daily Wolf, Scott Melker and Gary Cardone debate whether ...
+
+📺 Yahoo Finance
+
+👁️ 2K • 👍 223 • 💬 148 • ⏱️ 14:58 • 2h ago
+
+---
+
+**[Bitcoin Just Got Liquidated...](https://www.youtube.com/watch?v=Dx4N6ywswPU)**
+
+Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 35K • 👍 2K • 💬 372 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -379,17 +373,17 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium SALE: https:
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 8K • 💬 292 • ⏱️ 1:06:37 • 12h ago
+👁️ 84K • 👍 8K • 💬 307 • ⏱️ 1:06:37 • 15h ago
 
 ---
 
-**[NFA Live! Bitcoin in 2026](https://www.youtube.com/watch?v=G_UgtpMwOKM)**
+**[Bitcoin Just CRASHED to $62k... Is it Time to Sell EVERYTHING?! - Mike Novogratz](https://www.youtube.com/watch?v=hTJG5c-3Z2Y)**
 
-Let's talk about Bitcoin and more! Subscribe to Guy: https://www.youtube.com/@coinbureaupodcast Subscribe to Rob: ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Benjamin Cowen
+📺 Savvy Finance
 
-👁️ 7K • 👍 574 • 💬 20 • ⏱️ 33:15 • 2h ago
+👁️ 4K • 👍 94 • 💬 9 • ⏱️ 15:06 • 23h ago
 
 ---
 
@@ -399,15 +393,27 @@ Strategy Inc. sold 32 Bitcoin for roughly $2.5 million between May 26 and May 31
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 2K • 💬 312 • ⏱️ 16:03 • 20h ago
+👁️ 61K • 👍 2K • 💬 320 • ⏱️ 16:03 • 23h ago
 
 ---
 
-**[🚨BITCOIN &amp; CRYPTO R DOING EXACTLY WHAT THEY SHOULD🚨 SO ALTCOINS R TAKING A TURN (URGENT)](https://www.youtube.com/watch?v=ZQLXJvrSSNA)**
+**[Bitcoin Just Nuked - Here’s What You Need To Know](https://www.youtube.com/watch?v=HfQXi6CkEIU)**
 
-📺 62ndAlpha
+Bitcoin, Ethereum, my stock portfolio updates, and HYPE sell off BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-👁️ 3K • 👍 148 • 💬 9 • ⏱️ 1:01 • 15h ago
+📺 Lark Davis
+
+👁️ 9K • 👍 541 • 💬 94 • ⏱️ 20:00 • 5h ago
+
+---
+
+**[Bitcoin Meltdown! Live Trading The Crash](https://www.youtube.com/watch?v=nw2F1z4_9dg)**
+
+Bitcoin is Melting Down in Real Time! Zen Master JP Scouts the Market for Live Trades. Get up to $8000 in bonuses with Bitunix ...
+
+📺 Sin City Crypto
+
+👁️ 8K • ⏱️ 4:03:51 • 15h ago
 
 ---
 
