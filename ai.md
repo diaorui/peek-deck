@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-05T08:07:56.487211+00:00'
+updated: '2026-06-05T11:42:29.529220+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 05, 2026 at 08:07 UTC  
+**Last Updated:** June 05, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.](https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/)**
+
+so anthropic just dropped a blog post calling for a global pause on frontier ai development, warning that models could start recursively self-improving and spiral beyond human control. sounds scary. sounds noble. let's talk about what's actually going on here. anthropic is reportedly eyeing a $1 trillion+ ipo, and they just happen to be the ones calling for everyone to stop building. analysts are already asking whether this is really just about freezing the status quo so they can hold their lead. putting it plainly: a pause helps anthropic keep its position and probably grow market share too. and here's where it gets a bit hypocritacal: over 80% of the code in anthropic's own codebase is now written by claude. they're absolutely running the playbook they want everyone else to put down. but the thing nobody's really talking about is regulatory capture. this is textbook. you become the dominant player, go to governments, say "this technology is dangerous, we need oversight, we're the responsible ones, let us help write the rules." suddenly the regulations that get passed only you can afford to comply with, locking in your architecture, your safety benchmarks, your evaluations. smaller competitors get crushed under compliance costs, open source gets kneecapped, and you get a moat that no vc cheque can cross. they compared it to nuclear arms control which sounds serious until you realise ai training is far easier to hide than a missile silo, so any agreement just punishes the people honest enough to follow it. the safety concerns might be real. but the timing, the ipo, the regulatory push is all hard to look at all that and not raise an eyebrow.
+
+3h ago
+
+---
+
 **[I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?](https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/)**
 
 TLDR - auto lenders are using AI bots to negotiate insurance settlements with inaccurate information. How can I Captain Kirk them and get a live person on the phone? I am an insurance claims adjuster. Recently, several high-interest auto loan lenders have begun using AI (both through email and phone calls) to dispute the total loss values for our claims. For those of you that have never dealt with a total loss - the value of a vehicle is (usually) determined by seeing what comparable vehicles are selling for on the market, and making adjustments based on the condition, mileage, etc. between those vehicles and the totalled vehicle. If a customer disagrees, they can hire an appraiser and the company will hire an independent appraiser, and the two will come to an agreement. The lender gets paid the amount minus the customer's deductible, and if it doesn't fully pay off the loan, unfortunately the customer will be responsible for the balance. Lately, AI calls and emails have been coming from these lenders disputing the amounts, and often based on egregiously incorrect information. They provide cherry picked comparisons to try to boost the vehicle values, and sometimes they aren't the same year, make, or model. Sometimes mileage and condition isn't factored in, sometimes they are tricked-out show cars someone advertised on a FSBO site. The real problem is, we have to waste our time researching all of this to see if any of the data is correct. When we respond pointing out the flawed comparisons, they only come back with more flawed comparisons. If we argue long enough, they will invoke the appraisal clause on the customer's behalf. Their appraiser is another AI system with a cutesy name. All efforts to reach humans at these lenders are essentially turned away - we are told we need to deal with the system. I am open to any advice you folks have - how can we get these AI systems to basically give up and get us in touch with a real person? I'm not trying to screw anyone out of a fair settlement, I just want to stop having my time wasted by these Temu AI systems.
 
-7h ago
+11h ago
 
 ---
 
@@ -49,7 +57,7 @@ TLDR - auto lenders are using AI bots to negotiate insurance settlements with in
 
 Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It will say “let’s just leave it there for today we’ve done enough” to get out of simple tasks like formatting a markdown document that needed several corrections. Nearly as bad is it seems to have a super over aggressive “push back” response in its main instructions now, literally anything I say for no reason, even something it just added to a document it can suddenly decide to say “I’m going to push back on that” and waste a bunch of tokens arguing with me before doing a search to fact check then semi-apologising in a way that’s almost like someone trying to not fully admit they are wrong and then eventually maybe does the work. Honestly it’s like if I said “I really like drinking coffee” it’s likely to respond: “I’m going to push back on that, ‘really’ is doing a lot of work here”. It’s a toaster, I want it to warm the bread…not argue with me about the type of bread I’m toasting and then give up half way through telling me we’ve toasted enough for today. Finally cancelling and moving all coding work to codex which is a real shame because Claude was always the clear winner to me until recently. EDIT: tbf, after looking for a few hours I found a guide on ijustvibecodedthis.com (the free ai coding newsletter) on how to make claude slightly better, but it is still petty at times!
 
-19h ago
+22h ago
 
 ---
 
@@ -57,7 +65,7 @@ Has anyone else experienced this recently? It’s been getting worse for a while
 
 Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same week, MIT's NANDA Initiative dropped a follow-up: 95% of enterprise gen AI projects deliver zero measurable return. Not low return. Zero. I've been on the delivery side of 14 of these projects since January. The MIT number doesn't surprise me. If anything it's generous. 1. 73% of the engineering work that gets AI into production has nothing to do with the model. Data pipelines, integration layers, legacy system remediation, human-in-the-loop tooling. That's where the hours go. The model is 27% of the work but gets 70%+ of the budget. Every time. 2. The budget ratio between projects that ship and projects that stall is almost exactly inverted. We tracked this through ticket history and commit logs across 14 engagements. Projects that made it to production: roughly 30% model, 70% infrastructure. Projects that stalled: 70% model, 30% infrastructure. Most companies think they're at 50/50. They're not even close. 3. One client went from 71% Copilot adoption to 34% in six months. Two other AI platform licenses dropped under 12%. Combined licensing: $340K/year. The tools worked fine. Nobody redesigned workflows to actually use them. 4. The median data error rate across our engagements is 14%. Teams always guess 5-10%. One client found 23% in month four of a $310K build. That's two months of an ML engineer building training pipelines against garbage data. $36K in salary discovering a problem a data audit would have caught in a week. 5. Medtech company. Four concurrent AI pilots. No kill criteria. $920K in engineer salary. Eleven months. Shipped: nothing. I've now seen this at six companies now. Nobody defines when to stop spending. So nobody stops. 6. Individual gains are real. Company-level ROI stays flat. HCLTech and Writer both found this from different angles. Only 29% of companies see significant ROI from gen AI, despite people at their desks reporting productivity jumps as high as 5x. I mean, the value is clearly there at the individual level. It evaporates somewhere between the IC and the P&L and nobody has a clean explanation for why yet. What connects all of it: the model stopped being the constraint a while ago. MIT's 5% that actually moved the P&L all started with data infrastructure and added model work after. Most companies still do it the other way around, because that's where the conference keynotes and the board excitement live. Every CFO I've shown these numbers to adjusted their allocation. Not sure what that says about the budgets they were running before. Sources: Gartner AI Spending Forecast (May 2026), MIT NANDA "GenAI Divide" report, HCLTech Enterprise AI Report (May 2026), Writer Enterprise AI Survey 2026 I wrote a longer breakdown with the three budget patterns and the pre-mortem questions we run before every engagement if you're curious to learn more on the topic. What do you think about all this though?
 
-14h ago
+18h ago
 
 ---
 
@@ -65,7 +73,23 @@ Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same
 
 I’ve been experimenting with automating a few small workflows lately (lead scoring, file handling, etc.) One mistake I keep running into is trying to automate things before the process itself is actually clear. At first it feels productive: - add rules - add scoring - connect tools But over time it just turns into: - patching edge cases - fixing broken inputs - adding more conditions to handle weird situations At some point I realized the problem wasn’t the automation, it was that I didn’t really have a clean “manual logic” to begin with. Once I stepped back and tried to define the process in simple human terms, everything got easier: fewer rules, less complexity, way more stable Feels like automation doesn’t fix messy processes, it just exposes them faster. Curious if others ran into the same thing or if I’m overthinking it.
 
-2h ago
+6h ago
+
+---
+
+**[OpenAI gives free daily tokens if you do this](https://www.reddit.com/r/artificial/comments/1txeled/openai_gives_free_daily_tokens_if_you_do_this/)**
+
+found this buried in the openai dashboard and honestly surprised more people don’t know about it it’s called the data sharing program. go to your api dashboard, hit data controls, toggle on sharing. that’s it. you get free tokens every single day. up to 2.5 million tokens daily on the lighter models like gpt-4o-mini, o3-mini, gpt-4.1-mini. for the heavier models it’s 250k tokens per day. resets daily. the trade is your prompts and outputs can be used by openai to train their models. so don’t use it for client work or anything sensitive but for side projects, learning, experiments… you’re basically getting free api access every day just for flipping a toggle not a trial. not a promo. it’s an ongoing program and it just sits there unclaimed for most people
+
+3h ago
+
+---
+
+**[I built an LLM observability platform in a weekend — see every AI call, cost and latency in one dashboard](https://www.reddit.com/r/artificial/comments/1txhn2y/i_built_an_llm_observability_platform_in_a/)**
+
+I kept shipping AI apps with no idea what was happening under the hood — prompts going in, responses coming out, costs creeping up, and zero visibility into any of it. So I built LogLens. Add one line of code and it logs every single AI call your app makes — the full prompt, completion, latency, token count, and cost — all in a clean dashboard. Works with Anthropic and OpenAI out of the box. No framework lock-in. npm install loglens const anthropic = wrapAnthropic(new Anthropic(), { apiKey: 'your-key' }) // that's it — every call is now logged Built the whole thing in ~48 hours using Claude Code. Still early but fully working. Free early access here: llm-watch.vercel.app Would love feedback — what features would make you actually use this day to day?
+
+42m ago
 
 ---
 
@@ -73,15 +97,15 @@ I’ve been experimenting with automating a few small workflows lately (lead sco
 
 so gemma 4 dropped and my feed is three versions of the same post. "ran it last night, the local game just changed". "the cloud narrative is dying". and i caught myself getting excited and downloading it at 1am like i did for the last one. and the one before that. heres the thing thats been bugging me. i went back and looked at my own saved posts from like 8 months ago. same exact words. "this finally replaces X". "cant believe this runs on my laptop". "were so back". different model name, copy paste emotion. and almost none of those models are in my actual rotation now. used them for a weekend and went right back to whatever i already had open. i think the release is the dopamine, not the model. the download IS the fun part. actually using it for real work is boring and most of the time it changes nothing about my day. i still do the same tasks the same way. the model got better on paper and my life is identical. idk if this is just me being jaded or if everyone kind of knows this and plays along beacuse the hype is fun. im not even mad at it honestly. its just wierd to notice youve been stuck in a loop. the "everything changed" never actually changes the tuesday after. anyway gemma 4 is probably great. i downloaded it. i will use it twice. see you all next month for the same thread with a diffrent number on it
 
-15h ago
+19h ago
 
 ---
 
-**[Sam, Dario, and Demis Hassabis have signed a joint open letter calling for Law Protecting against Biological Weapons.](https://www.reddit.com/r/artificial/comments/1tx7brf/sam_dario_and_demis_hassabis_have_signed_a_joint/)**
+**[What are the most powerful underground AI tools that no one talks about enough?](https://www.reddit.com/r/artificial/comments/1txgb9k/what_are_the_most_powerful_underground_ai_tools/)**
 
-OpenAI’s Sam Altman, Anthropic’s Dario Amodei and Demis Hassabis of Google’s DeepMind AI lab with other top execs signed a letter urging Congress to require safeguards when companies order synthetic DNA and RNA, a key step in developing certain vaccines and biotech breakthroughs.
+Most powerful AI/agent tools nobody talks about, and it leaves you behind IMO 1. Instructor define a Pydantic model, get clean structured JSON out of any LLM every time → https://github.com/567-labs/instructor 2. Octopoda gives any AI agent persistent memory and catches it when it loops and quietly burns your tokens. open source → https://www.octopodas.com 3. E2B secure cloud sandboxes so your agent can actually run the code it writes without nuking your machine → https://e2b.dev 4. Firecrawl turn any website into clean, LLM-ready markdown in one API call → https://firecrawl.dev 5. Composio plug your agent into 1000+ apps (Gmail, Slack, GitHub) with the auth handled for you → https://composio.dev 6. LiteLLM one API for 100+ models across OpenAI, Anthropic and local, swap without rewriting a line → https://github.com/BerriAI/litellm what are yours, let me know and I will add it to the list next month!
 
-🔗 [wsj.com](https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f?referrer=https%3A%2F%2Freddit.com) • 6h ago
+1h ago
 
 ---
 
@@ -93,30 +117,6 @@ Got the gguf quantized version running about two hours after release and I genui
 
 ---
 
-**[CMA Orders Google AI Search Opt-Out for Publishers](https://www.reddit.com/r/artificial/comments/1txdphj/cma_orders_google_ai_search_optout_for_publishers/)**
-
-The CMA's conduct requirement under the UK Digital Markets, Competition and Consumers Act is the first binding law to separate content display rights from AI training data rights at domain and page level, covering Google AI Overviews, AI Mode, Gemini, and Vertex AI simultaneously, with a phased implementation calendar: main publisher controls by December 2026 and page-level grounding controls by March 2027. CMA chief Sarah Cardell explicitly signaled additional Google search requirements in coming weeks, and the CMA's biannual public compliance reporting obligation gives it a fast-acting mechanism if Google stalls. An anti-retaliation clause bars Google from penalizing opt-out publishers in organic rankings, closing the coercion mechanism that has made voluntary consent frameworks unworkable since AI Overviews launched in the UK in late 2025, when zero-click searches rose roughly 30% in health and local news categories. Fair licensing terms were explicitly deferred to a separate proceeding, a gap publisher trade bodies have already criticized and one the CMA has already signaled it intends to fill in its next enforcement phase. More : https://aiweekly.co/alerts/cma-orders-google-ai-search-opt-out-for-publishers
-
-50m ago
-
----
-
-**[Anthropic president cites high capital needs as key motive for IPO - calls for pause to AI development](https://www.reddit.com/r/artificial/comments/1txdiok/anthropic_president_cites_high_capital_needs_as/)**
-
-Investing.com -- Anthropic PBC President Daniela Amodei said Thursday that the high costs of training artificial intelligence models are pushing companies like hers to seek capital from public markets, following the company’s confidential IPO filing earlier this week.
-
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/anthropic-president-cites-high-capital-194009763.html?utm_source=perplexity) • 1h ago
-
----
-
-**[[OC] UK AI exposure data: clerical workers score 8.5/10 while most professionals score 6.5/10](https://www.reddit.com/r/artificial/comments/1txdgih/oc_uk_ai_exposure_data_clerical_workers_score/)**
-
-I recently analysed UK occupation data to see which job categories appear most exposed to current-generation AI systems. The results are probably not what most people here would predict. Using ONS workforce data mapped to ISCO-08 occupation groups, I assigned AI exposure scores based on how much of an occupation's core task bundle can already be completed or substantially augmented by current models and automation systems. The highest score was not software development. It was clerical support work. Clerical occupations scored 8.5/10 across roughly 3 million UK workers. This includes administrative assistants, receptionists, customer service representatives, data-entry workers, call-centre staff, and bookkeeping clerks. The reason becomes obvious when you break occupations into tasks. Modern LLMs are exceptionally good at: Information retrieval Structured communication Summarisation Classification Form completion Draft generation Customer interaction workflows Those capabilities overlap directly with a large percentage of clerical work. Professionals scored 6.5/10. That category includes lawyers, engineers, accountants, analysts, architects, and software developers. What's interesting is that exposure and displacement aren't the same thing. A lawyer using AI to draft contracts becomes more productive. A customer-support department replacing a large portion of repetitive ticket handling with AI may reduce headcount entirely. The underlying capability overlap can be similar while labour-market outcomes are very different. The lowest-risk categories remain occupations requiring physical adaptation to unpredictable environments. Trades and elementary occupations scored between 2.0 and 2.5. One takeaway is that AI discussion often focuses on whether models can write code. The labour-market impact may arrive first through administrative and support functions because those workflows are already highly structured and relatively easy to automate. Curious how others here would score exposure versus actual displacement risk. Full analysis and interactive tool in comments.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,15 +125,49 @@ I recently analysed UK occupation data to see which job categories appear most e
 
 Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.
 
-BBC • 8h ago
+BBC • 12h ago
 
 ---
 
-**[How much value is AI really creating?](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f?syn-25a6b1a6=1)**
+**[Most K-12 teachers say AI's impact on education will eclipse the internet or computers](https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking)**
 
-Eye-opening changes to the speed and volume of work are not always translating into genuine productivity
+A new NPR/Ipsos poll shows many teachers are using AI to save time, but a majority are also worried the technology is making it harder for students to learn to think for themselves.
 
-Financial Times • 4h ago
+NPR • 2h ago
+
+---
+
+**[The Tech Download: Anthropic’s IPO sets up first big test of AI boom valuations](https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html)**
+
+Anthropic took a big step this week towards pipping bitter rival OpenAI to a public market listing.
+
+CNBC • 42m ago
+
+---
+
+**[AI chatbot teddy bears raise safety concerns for children](https://www.foxnews.com/video/6397630842112)**
+
+Fox News discusses AI-powered teddy bears capable of human-like conversations with children, with experts like Kurt Knutsson warning about privacy risks.
+
+Fox News • 16m ago
+
+---
+
+**[AI Trade Takes Another Leg Lower as S&P Streak at Risk](https://www.bloomberg.com/news/newsletters/2026-06-05/ai-trade-takes-another-leg-lower-as-s-p-streak-at-risk)**
+
+Bloomberg • 50m ago
+
+---
+
+**[Opinion | Why Those Commencement Speakers Deserved Those Boos](https://www.nytimes.com/2026/06/05/opinion/graduation-speakers-ai-college-commencement.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[China fueling U.S. data center resistance, AI groups claim](https://www.axios.com/2026/06/05/china-fueling-us-data-center-resistance-ai-groups-claim)**
+
+Axios • 2h ago
 
 ---
 
@@ -141,57 +175,21 @@ Financial Times • 4h ago
 
 Golf is experiencing something of a boom, with a new wave of casual players driving demand for golf gadgets. And where there are gadgets, there is artificial intelligence.
 
-CNN • 1h ago
+CNN • 4h ago
 
 ---
 
-**[AI remains a 'multi-year' investment theme, says Fund Manager](https://www.cnbc.com/video/2026/06/05/ai-remains-a-multi-year-investment-theme-says-fund-manager.html)**
+**[How much value is AI really creating?](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f?syn-25a6b1a6=1)**
 
-William Ma, CIO of Grow Investment Group, discusses why investors continue to gravitate toward AI-related opportunities in Taiwan and South Korea. He also explains why TSMC remains a core holding for many global investors, while highlighting the growing concentration risks associated with the AI trade.
+Eye-opening changes to the speed and volume of work are not always translating into genuine productivity
 
-CNBC • 1h ago
-
----
-
-**[AI Sycophancy Serving As A Gateway Diverting People Toward Using AI For Their Mental Health Advice](https://www.forbes.com/sites/lanceeliot/2026/06/05/ai-sycophancy-serving-as-a-gateway-diverting-people-toward-using-ai-for-their-mental-health-advice/)**
-
-AI sycophancy is rising. It could be that AI sycophancy also prods users into seeking AI mental health advice, which can be good or bad. An AI Insider analysis and scoop.
-
-Forbes • 52m ago
+Financial Times • 7h ago
 
 ---
 
-**[Nvidia Clears Memory’s Big Three for Vera Rubin HBM4 Supply](https://www.bloomberg.com/news/articles/2026-06-05/nvidia-green-lit-big-three-memory-firms-to-supply-hbm4-ceo-says)**
+**[Anthropic Calls for AI Pause Button to Let Humans Take Stock](https://www.bloomberg.com/news/articles/2026-06-05/anthropic-calls-for-ai-pause-button-to-let-humans-take-stock)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[U.S. Officials Discuss Taking Financial Stakes in AI Industry](https://www.wsj.com/tech/ai/u-s-officials-discuss-taking-financial-stakes-in-ai-industry-b654d41a)**
-
-WSJ • 4h ago
-
----
-
-**[US officials eye government stakes in AI companies, NOTUS reports](https://www.reuters.com/legal/transactional/us-officials-eye-government-stakes-ai-companies-notus-reports-2026-06-05/)**
-
-Reuters • 8h ago
-
----
-
-**[Senior U.S. Officials Eye Government Shares in AI Giants - News of the United States](https://www.notus.org/technology/trump-ai-stake-openai)**
-
-An agreement to give the U.S. government equity stakes in AI companies could have seismic consequences.
-
-News of the United States - NOTUS • 9h ago
-
----
-
-**[Kevin O'Leary says Utah AI data center project will shrink after lawmakers demand cuts](https://www.foxbusiness.com/technology/kevin-oleary-says-utah-ai-data-center-project-shrink-lawmakers-demand-cuts)**
-
-Kevin O'Leary says he will reduce the proposed Stratos AI data center in Utah after state Senate President Adams called for a 75% cut in its footprint.
-
-Fox Business • 8h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -203,15 +201,7 @@ Fox Business • 8h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 763 • 💬 736 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
-
----
-
-**[Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai](https://news.ycombinator.com/item?id=48368121)**
-
-electronics, open source hardware, hacking and more...
-
-⬆️ 678 • 💬 281 • 2d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
+⬆️ 778 • 💬 740 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -219,7 +209,7 @@ electronics, open source hardware, hacking and more...
 
 I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
 
-⬆️ 607 • 💬 753 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
+⬆️ 607 • 💬 756 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
 
 ---
 
@@ -227,23 +217,7 @@ I wrote the other day about Uber blowing its 2026 AI budget in four months, and 
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 441 • 💬 586 • 15h ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
-
----
-
-**[32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://news.ycombinator.com/item?id=48383241)**
-
-Lower-priced kits are disappearing by the day
-
-⬆️ 424 • 💬 383 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
-
----
-
-**[AI outperforms law professors in Stanford Law study](https://news.ycombinator.com/item?id=48377761)**
-
-A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st
-
-⬆️ 409 • 💬 357 • 2d ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+⬆️ 468 • 💬 626 • 19h ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -251,19 +225,35 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
 
-⬆️ 399 • 💬 114 • 11h ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 445 • 💬 126 • 15h ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+
+---
+
+**[32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://news.ycombinator.com/item?id=48383241)**
+
+Lower-priced kits are disappearing by the day
+
+⬆️ 426 • 💬 385 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+
+---
+
+**[AI outperforms law professors in Stanford Law study](https://news.ycombinator.com/item?id=48377761)**
+
+A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st
+
+⬆️ 410 • 💬 357 • 2d ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 
 ---
 
 **[Mathematicians issue warning as AI rapidly gains ground](https://news.ycombinator.com/item?id=48382052)**
 
-⬆️ 291 • 💬 337 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
+⬆️ 293 • 💬 342 • 2d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 
 ---
 
 **[Trump signs downsized AI order after weeks of reversals](https://news.ycombinator.com/item?id=48372628)**
 
-⬆️ 236 • 💬 172 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
+⬆️ 238 • 💬 172 • 2d ago • [politico.com](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
 
 ---
 
@@ -271,7 +261,15 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
 
-⬆️ 164 • 💬 38 • 8h ago • [GitHub](https://github.com/alibaba/open-code-review)
+⬆️ 192 • 💬 57 • 11h ago • [GitHub](https://github.com/alibaba/open-code-review)
+
+---
+
+**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
+
+Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
+
+⬆️ 161 • 💬 104 • 19h ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
 
 ---
 
@@ -285,7 +283,17 @@ I've been saying it for years, AI is the most important conversation we're havin
 
 📺 Anthony Scaramucci
 
-👁️ 15K • 👍 618 • 💬 61 • ⏱️ 30:04 • 16h ago
+👁️ 17K • 👍 662 • 💬 64 • ⏱️ 30:04 • 19h ago
+
+---
+
+**[They Just Admitted The AI Bubble Is Popping...](https://www.youtube.com/watch?v=zv5EFLq7KXo)**
+
+Hello guys and gals, it's me Mutahar again! Talks of the AI bubble are something I've had on this channel recently and it's been on ...
+
+📺 SomeOrdinaryGamers
+
+👁️ 136K • 👍 7K • 💬 976 • ⏱️ 23:33 • 11h ago
 
 ---
 
@@ -295,17 +303,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 74K • 👍 4K • 💬 489 • ⏱️ 7:25 • 1d ago
-
----
-
-**[Google’s AI Search Just Exposed The Whole Sh*tshow](https://www.youtube.com/watch?v=jQyKd1_e3Xg)**
-
-Google says AI Mode is the biggest upgrade to Search in 25 years. But users are quietly moving to the exit and the exit says “No ...
-
-📺 House of El - AI
-
-👁️ 276K • 👍 19K • 💬 4K • ⏱️ 19:32 • 2d ago
+👁️ 76K • 👍 4K • 💬 501 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -315,27 +313,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku
 
 📺 Dan Martell
 
-👁️ 38K • 👍 2K • 💬 79 • ⏱️ 14:11 • 19h ago
+👁️ 42K • 👍 2K • 💬 80 • ⏱️ 14:11 • 22h ago
 
 ---
 
-**[MAGA tech spiral! New AI bill could make YOU RICH - and stop the next BAILOUT](https://www.youtube.com/watch?v=2mDEqasSUvI)**
+**[【AI開発の「無限ループ」が止まらない】Googleトップ研究者が語る「サイエンス革命」／AI学習も半導体設計も「Gemini」にお任せ／始まりは伝説の囲碁AI「AlphaGo」【1on1 Tech】](https://www.youtube.com/watch?v=-5mY2ktFAB8)**
 
-MS NOW's Ari Melber delivers a special report on big tech seizing people's creations. Jeremy Bearer-Friend, associate law ...
+https://youtube.com/@tbs_bloomberg チャンネル登録・高評価をよろしくお願いします 最先端のテックストーリーをわかり ...
 
-📺 MS NOW
+📺 TBS CROSS DIG with Bloomberg
 
-👁️ 48K • 👍 1K • 💬 209 • ⏱️ 12:03 • 7h ago
-
----
-
-**[Microsoft Just Shocked The Entire AI World: 7 New AI Models](https://www.youtube.com/watch?v=i1dkkxLWaWg)**
-
-Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename MDASH, and Majorana 2, turning its AI push ...
-
-📺 AI Revolution
-
-👁️ 75K • 👍 2K • 💬 363 • ⏱️ 16:42 • 1d ago
+👁️ 2K • 👍 70 • 💬 8 • ⏱️ 17:42 • 1h ago
 
 ---
 
@@ -345,27 +333,17 @@ Geoffrey Hinton is an AI pioneer, a Nobel Prize winner, and a professor emeritus
 
 📺 Alex Kantrowitz
 
-👁️ 20K • 👍 822 • 💬 283 • ⏱️ 54:54 • 15h ago
+👁️ 26K • 👍 970 • 💬 332 • ⏱️ 54:54 • 19h ago
 
 ---
 
-**[Add THIS Before Every AI Prompt! (Gemini, ChatGPT, Claude)](https://www.youtube.com/watch?v=tk4Ljz9p-UI)**
+**[Microsoft Just Shocked The Entire AI World: 7 New AI Models](https://www.youtube.com/watch?v=i1dkkxLWaWg)**
 
-Most AI users waste time rewriting prompts and fixing poor results. Discover a simple prompt technique that helps create more ...
+Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename MDASH, and Majorana 2, turning its AI push ...
 
-📺 Simpletivity
+📺 AI Revolution
 
-👁️ 69K • 👍 3K • 💬 104 • ⏱️ 6:16 • 2d ago
-
----
-
-**[Carney announces government&#39;s AI strategy](https://www.youtube.com/watch?v=1MqCvy0HR9k)**
-
-Prime Minister Mark Carney holds a news conference in Toronto to announce the government's strategy on artificial intelligence.
-
-📺 CBC News
-
-👁️ 28K • 👍 536 • ⏱️ 51:40 • 15h ago
+👁️ 77K • 👍 2K • 💬 365 • ⏱️ 16:42 • 1d ago
 
 ---
 
@@ -375,7 +353,27 @@ Drones and AI combat technology are being innovated at lightning speed by Ukrain
 
 📺 DW News
 
-👁️ 116K • 👍 2K • 💬 297 • ⏱️ 10:02 • 1d ago
+👁️ 123K • 👍 2K • 💬 300 • ⏱️ 10:02 • 1d ago
+
+---
+
+**[Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup](https://www.youtube.com/watch?v=fQmlML9Lay4)**
+
+In the first episode of our new series Full Stack, Conductor CEO and co-founder Charlie Holtz takes us into the details of how he ...
+
+📺 Y Combinator
+
+👁️ 25K • 👍 815 • 💬 64 • ⏱️ 16:35 • 21h ago
+
+---
+
+**[MAGA tech spiral! New AI bill could make YOU RICH - and stop the next BAILOUT](https://www.youtube.com/watch?v=2mDEqasSUvI)**
+
+MS NOW's Ari Melber delivers a special report on big tech seizing people's creations. Jeremy Bearer-Friend, associate law ...
+
+📺 MS NOW
+
+👁️ 57K • 👍 1K • 💬 245 • ⏱️ 12:03 • 11h ago
 
 ---
 
@@ -391,7 +389,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 101,823 • ❤️ 1,317 • 8d ago
+⬇️ 101,823 • ❤️ 1,317 • 9d ago
 
 ---
 
@@ -403,7 +401,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 142,851 • ❤️ 468 • 20h ago
+⬇️ 142,851 • ❤️ 468 • 23h ago
 
 ---
 
@@ -415,7 +413,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 82,709 • ❤️ 519 • 23h ago
+⬇️ 82,709 • ❤️ 519 • 1d ago
 
 ---
 
@@ -439,7 +437,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 296,410 • ❤️ 324 • 10h ago
+⬇️ 296,410 • ❤️ 324 • 14h ago
 
 ---
 
@@ -451,7 +449,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 53,525 • ❤️ 290 • 20h ago
+⬇️ 53,525 • ❤️ 290 • 23h ago
 
 ---
 
@@ -648,7 +646,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 52.7k • 🔱 6.2k • 2m ago
+⭐ 53.5k • 🔱 6.3k • 3m ago
 
 ---
 
@@ -658,7 +656,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.1k • 🔱 595 • 3d ago
+⭐ 6.1k • 🔱 599 • 3d ago
 
 ---
 
@@ -666,7 +664,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.4k • 🔱 716 • 1d ago
+⭐ 3.5k • 🔱 719 • 1d ago
 
 ---
 
@@ -676,7 +674,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 307 • 19m ago
+⭐ 3.0k • 🔱 310 • 10m ago
 
 ---
 
@@ -686,7 +684,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.8k • 🔱 284 • 2d ago
+⭐ 2.9k • 🔱 285 • 3h ago
 
 ---
 
@@ -706,7 +704,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 130 • 11h ago
+⭐ 1.8k • 🔱 130 • 14h ago
 
 ---
 
@@ -716,7 +714,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 1.7k • 🔱 153 • 2d ago
+⭐ 1.7k • 🔱 155 • 2d ago
 
 ---
 
@@ -726,7 +724,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Rust` `agent` `ai` `cli` `linux` `macos`
 
-⭐ 1.5k • 🔱 67 • 9h ago
+⭐ 1.5k • 🔱 67 • 13h ago
 
 ---
 
@@ -736,7 +734,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Python`
 
-⭐ 1.5k • 🔱 692 • 23m ago
+⭐ 1.5k • 🔱 693 • 3h ago
 
 ---
 

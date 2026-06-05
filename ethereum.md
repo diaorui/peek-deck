@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-05T08:07:56.500145+00:00'
+updated: '2026-06-05T11:42:29.543032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 05, 2026 at 08:07 UTC  
+**Last Updated:** June 05, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,670.94
+### $1,688.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
+**24h:** -5.8%  
 **7d:** -17.3%  
 **30d:** -27.0%  
 **90d:** -13.6%  
-**1y:** -32.6%  
+**1y:** -32.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.98B
+**Market Cap:** $201.82B
 Rank #2
 
 **Circulating Supply:** 120,684,816 ETH
@@ -62,7 +62,7 @@ No max supply
 -66.2%
 
 **All-Time Low:** $0.43
-+386004.2%
++385969.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+6h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 (* Not actually decentralized) Catch up: Day One Day Two The whole article as an EPub on Github Or stream the AI-generated audio file on on Vocaroo (26:35 AI-generated audio recording) ETHPrague Day Three I wake up in plenty of time for the last day of ETHPrague. Also, miraculously, both the toilet and the shower are free at the exact moments that I want to use them. I'm OK with being a pod person, I think. This is quite good. Then I walk out of the shower only-mostly covered by a wet t-shirt and a young man says good morning to me cheerfully before trying desperately to make it clear that he did not look at me and will never look at me again. I fear he may not ever make eye contact with anyone ever again. https://preview.redd.it/4rrpqnqs4b5h1.jpg?width=2542&format=pjpg&auto=webp&s=c2662308fc02203bb003eb757742682831b96341 Day Three kicks off with a sobering perspective shift that feels intentionally out of place at a crypto conference. With no official live stream to record it, the presentation is a raw, slide-driven argument for protecting the physical world from total digital engulfment. When the offline movement meets privacy advocates is presented by Hynek Trojánek, who admits his entire understanding of our conference is based on attempting to understand the Wikipedia page on Bitcoin. But his perspective is a strong one: we are engineering a terrifying baseline of digital exclusion, and defending a "Right to Analogue" is a vital mental health sanctuary against mandatory digital compliance. https://preview.redd.it/ehlab7x35b5h1.jpg?width=3320&format=pjpg&auto=webp&s=35840dc91112d24bead637159ecea3c054bafab8 That demand for an analogue escape hatch connects directly to the usability crisis that Olaf van Wijk addresses in Recovery is the key to sovereignty. Van Wijk tells us that for 80% of the population, absolute cryptographic security feels incredibly unsafe because of the risk of losing a seed phrase. Account abstraction may handle basic authorization on-chain, but it completely fails to recover the core cryptographic secrets required for true privacy tooling. We need more privacy, we need more zk-proofs, we need censorship-resistant systems. All of this requires secrets to operate, and he argues that this is the same as externally owned accounts. Yeah but your security is not safety is the most "only in crypto" product I have ever seen. José Pedro Sousa starts with a series of frankly frightening wrench attacks in France, reassuring us that he doesn't want to scare us before describing severed fingers. "If all your information is on your phone, when someone points a gun to your head, you will hand over the phone." He is representing SpaceComputer, who wants to solve this by -- you guessed it-- launching secure chips (TEEs) into space, into orbit on a satellite, so that your signing keys are physically unreachable. But the entire premise relies on the classic fantasy that you can just say "oh, but I can't" to violent criminals and they will stop cutting off your digits. An audience member points out that if you can access the chip for your transactions, then your attacker can force you to transact. Yes, but the timelock. Sousa reminds us of the successful case where a timelock saved the day. https://preview.redd.it/kq8nsfmx4b5h1.png?width=1200&format=png&auto=webp&s=b57d360ce8cec4673e423374ac5e0172e11ecc35 This is the April 2026 Burgundy case, where the attackers kidnapped the man's wife and child to hold as hostages while they waited out the timer. It's true that the Gendarmerie rescued the hostages before the transaction window unlocked. Still, this doesn't strike me as a great success story so much as a cautionary tale. Honestly, if I were that wife? I'd be filing for a fucking divorce. I decide to skip the next sessions in favour of protecting my blood pressure and head out of Municipal House, on a mission for the greasiest street food I can find. https://preview.redd.it/njv6jly65b5h1.jpg?width=3320&format=pjpg&auto=webp&s=fa9ae703298d9af109c1cd04e91426b185101b78 An American couple wait in line behind me, suffering from currency and cabbage concerns. "Do they have brats?" "Yes, there are brats right there on the grill." "What about sauerkraut?" "I don't see any sauerkraut. I don't think they have any sauerkraut. Not hot, anyway. Do you want a brat?" "Do you think they take credit cards?" "I don't know. We have cash." "What kind?" "Euros" "Do you think they take Euros?" "Yeah, I think they will. But I hope they take cards." "Everyone is paying with cash." "What kind of cash?" "The, uh, kroner, or whatever they are." "They aren't paying in euros?" "No. And there's definitely no sauerkraut." Thankfully, they walk away before I can gouge their eyes out with an overcooked sausage. https://preview.redd.it/x96y3yx85b5h1.jpg?width=2611&format=pjpg&auto=webp&s=c168edfc462ae926c4d5525be99a9612aca3cefd I reluctantly return to Municipal House feeling altogether unfit for human contact. When Technology Meets the Museum World restores my faith in humankind. Ivo Macek, the director of the City of Prague Museum explains how they are using tech to make local history cool, for example a full-sized projection showing where a railway station used to be. He explains that a key issue for museums is that if a collection is not visible, it doesn't exist. Traditionally museums have added more screens but most people don't use the mobile app or show much interest in browsing online collections. The answer is better story telling and he believes that AI can help us get there. They are building a system where a five-year-old can naturally prompt the catalog to "show me everything with the sun on it," instantly pulling hidden specimens out of the dark. They also built a strictly closed-loop chatbot that gives sourced museum info without hallucinating, point-blank refusing to write code or give you a recipe for Czech dumplings. https://preview.redd.it/jvoaw7sa5b5h1.jpg?width=3320&format=pjpg&auto=webp&s=417808794d907d1d89c17ec314c477966ef4135a And then it is time to return to the amazing Smetana Hall, restored from hackerspace to its full concert-hall glory. The closing ceremony starts with Shaka Lei Kaumaka and the Open Source Orchestra which started at ETHPrague in 2022. The conference had over 1,000 attendees and the hackathon shipped 64 projects. We applaud for all the bounty winners. It feels like it is over. https://preview.redd.it/p548ntgc5b5h1.jpg?width=3168&format=pjpg&auto=webp&s=a75d931dd42088a6f132c6b9996e3b2607aea252 But no. We have a major concert from Jaroslav Ježek Conservatory (KJJ) who present us with their annual showcase. The students entertain us by shifting quickly across an amazing range from choral pop to big band to Pat Metheny to modern fusion. Sadly, there doesn't seem to be video of the concert because my photographs don't do it justice. It was a beautiful and thoughtful end to three days of top-tier content. I walk home, no longer trusting myself to use public transport, and have a delicious bowl of goulash and dumplings. It's also my last night as a pod person. I enter my plywood sanctuary and spend the rest of the evening in blessed silence, except for the farts of my neighbor. I have strong thoughts about privacy and not all of them can be solved by zero-knowledge proofs. --- This series was supported through the generosity of the Peacock Foundation.
 
-13h ago
+17h ago
+
+---
+
+**[Ethereal news weekly #26 | Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched](https://www.reddit.com/r/ethereum/comments/1txf938/ethereal_news_weekly_26_justin_drake_qday_odds_10/)**
+
+Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 2h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello once again guys. A week or so ago, I posted about https://revert.wtf. A thing, basically a catalog of common EVM errors that covers about 25k error types. And I decided to dogfood my own product, and made a browser extension. I already submitted it for review on Chrome Web Store, but if you would like to give it a try, you can get it from my github here. https://github.com/mrtdlgc/revertwtf-extension And this is my main announcement post on Twitter. It has some screenshots there on how it looks. https://x.com/mrtdlgc/status/2062657866717118561 Feedback welcome. I added a "this explanation is too generic" button, so you can rotate through what revert.wtf actually covers. If you still see too generic explanations, feel free to submit them on Github, and I can find better grounded explanations and next steps to take for other people to use in the future as well.
 
-8h ago
+11h ago
 
 ---
 
@@ -136,15 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 no shame in this. zk proofs get mentioned constantly in ethereum conversations and most explainers either go way too academic or skip the "why should i care" part entirely. here's my attempt at a practical breakdown. what's a zk proof actually doing? a zero-knowledge proof lets you prove something is true without revealing the underlying information. that's it. that's the whole concept. classic analogy: imagine you solved a sudoku puzzle. you want to prove to someone you solved it correctly, but you don't want to show them your solution. a zk proof lets you mathematically prove "yes, this solution is valid" without revealing a single number. the verifier becomes 100% convinced you solved it, but learns nothing about how. in crypto terms: you can prove a computation happened correctly without re-executing it or exposing the data involved. why does ethereum care? two big reasons right now: scaling. zk rollups (zkSync, Scroll, Polygon zkEVM) batch hundreds of transactions off-chain, execute them, and post a tiny proof back to L1 that says "all of these were valid." L1 just verifies the proof instead of re-running every transaction. way cheaper, same security guarantee. privacy. normally everything on-chain is public. zk proofs let you prove things like "i have enough balance for this transfer" or "i'm on this allowlist" without revealing your actual balance or identity. that's what protocols like Aztec use them for. the part most people miss zk proofs aren't limited to rollups and privacy. the core idea, "prove a computation was correct without re-executing it," applies to anything where you need trust in a result but can't or don't want to watch the computation happen. examples that are starting to get built: proving that an exchange's matching engine executed trades fairly without exposing the full order book state proving identity credentials (age, citizenship, accreditation) without revealing the actual documents proving AI model inference was done correctly on specific inputs the rollup use case gets 90% of the attention because it's the most mature. but the design space is way bigger than most people realize. if you want to go deeper the rabbit hole goes: understand the concept (you're here) > understand SNARKs vs STARKs (the two main proof systems) > understand specific implementations (plonk, groth16, SP1, risc zero). don't try to learn the math first. learn what the proofs enable, then work backwards into how they work. happy to answer questions if anything's unclear.
 
-1d ago
-
----
-
-**[Biggest crypto security myth is that experienced users are safer](https://www.reddit.com/r/ethereum/comments/1tvkfo4/biggest_crypto_security_myth_is_that_experienced/)**
-
-i think experienced users sometimes become more vulnerable. beginners are cautious because everything feels unfamiliar. veterans start speed-running approvals because they’ve interacted with thousands of contracts without issues before. then one day muscle memory catches up to them. feels like a lot of recent drains happened because people became too comfortable operating in environments they never fully verified in the first place.
-
-1d ago
+2d ago
 
 ---
 
@@ -156,39 +156,23 @@ i think experienced users sometimes become more vulnerable. beginners are cautio
 
 In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.
 
-CoinDesk • 18h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Why Ethereum Could Tank Another 25% Before Finding a Bottom: Analysis](https://decrypt.co/369926/ethereum-eth-price-25-percent-bottom-technical-analysis)**
+**[As Bitcoin Sinks, It's Time for Ethereum to Outperform: Standard Chartered](https://decrypt.co/369803/bitcoin-sinks-time-ethereum-outperform-standard-chartered)**
 
-Ethereum just crashed below $2,000 and is now trading near $1,841. Prediction markets put a 71% chance on a price drop to $1,500—here's why.
+Strategy's Bitcoin sale marked a counterintuitive turning point for Ethereum, Standard Chartered’s Geoff Kendrick argued.
 
-Decrypt • 1d ago
-
----
-
-**[Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits](https://finance.yahoo.com/markets/crypto/articles/crypto-crash-today-why-bitcoin-222002231.html)**
-
-The crypto market cap stood at $2.53 trillion last Wednesday. As of this morning, it has dropped to $2.25 trillion, with Bitcoin (CRYPTO: BTC) testing $61,500 overnight before rebounding to $63K. There’s quite a few reasons for the market plunge. Strategy broke a years-long rule and sold Bitcoin for the first time in nearly four ... Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits
-
-Yahoo Finance • 9h ago
+Decrypt • 2d ago
 
 ---
 
-**[Why Is Crypto Going Down Today? Bitcoin, Ethereum, XRP and Dogecoin Sink as Crypto Decouples From Record-High Stocks](https://www.tradingview.com/news/financemagnates:2024c64ed094b:0-why-is-crypto-going-down-today-bitcoin-ethereum-xrp-and-dogecoin-sink-as-crypto-decouples-from-record-high-stocks/)**
+**[Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html)**
 
-Bitcoin (BTC) traded at $66,970 on Wednesday, June 3, 2026, holding just above its two-month low after a 9.5% weekly slide that dragged the entire digital asset complex lower. The total crypto market capitalization sits near $2.3 trillion, down roughly 8.7% on the week, with Ethereum at $1,872, XRP…
+Bitcoin opened at $63,812.18 on Friday, June 5, 2026, down 0.3% from Thursday's opening price. The value was $62,411.20 at 7:29 a.m ET. Ethereum opened at $1,768.86 on Friday, down 2.4% from Thursday's opening price. The value of ethereum was $1,676.27 at 7:29 a.m. ET.
 
-TradingView • 1d ago
-
----
-
-**[Crypto Crash Today: Why Bitcoin, Ethereum, XRP and Major Altcoins Are Falling](https://coinpedia.org/price-analysis/crypto-crash-today-why-bitcoin-ethereum-xrp-and-major-altcoins-are-falling/)**
-
-Bitcoin, Ethereum, XRP, and major altcoins are crashing today amid aggressive selling pressure, wiping billions from the crypto market. The total crypto
-
-Coinpedia • 2d ago
+Yahoo Finance • 5m ago
 
 ---
 
@@ -196,21 +180,29 @@ Coinpedia • 2d ago
 
 Ethereum price started a fresh decline and traded below $1,750. ETH is now consolidating below $1,750 and might continue to move down.Ethereum Price Remains In DowntrendEthereum price failed to remain stable above $1,840 and started a fresh decline, like Bitcoin. ETH price dipped below the $1,800 a…
 
-TradingView • 4h ago
-
----
-
-**[Current price of Ethereum for June 2, 2026](https://fortune.com/article/price-of-ethereum-06-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
+TradingView • 8h ago
 
 ---
 
 **[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
 
-Crowdfund Insider • 11h ago
+Crowdfund Insider • 14h ago
+
+---
+
+**[Bixin Pool CEO buys back Ethereum at $1,645, anticipates short-term rebound](https://cryptobriefing.com/bixin-pool-ceo-buys-back-ethereum-at-1645-anticipates-short-term-rebound/)**
+
+Bixin Pool CEO buys back Ethereum at $1,645, expecting a short-term rebound. Ethereum reaching $2,500 by June 7 at 0.1% YES.
+
+Crypto Briefing • 2h ago
+
+---
+
+**[Blockchain Futurist Conference Toronto Adds Speakers from Ethereum Foundation, Mastercard, Morgan Stanley](https://markets.businessinsider.com/news/stocks/blockchain-futurist-conference-toronto-adds-speakers-from-ethereum-foundation-mastercard-morgan-stanley-1036225688)**
+
+Now in its ninth year, Canada’s premier Web3 gathering will spotlight the people, technologies, and ideas driving the next era of AI and digital...
+
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -218,7 +210,7 @@ Crowdfund Insider • 11h ago
 
 BitMine is testing whether Wall Street will bankroll another crypto treasury bet as ETH trades below the company’s purchase price.
 
-CryptoSlate • 19h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -226,7 +218,15 @@ CryptoSlate • 19h ago
 
 Compare how these two 2024-launched funds offer distinct exposure to leading cryptocurrencies, each with unique risk and return profiles for investors.
 
-The Motley Fool • 10h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Tom Lee Sees Ethereum at $250,000 as AI and Tokenization Reshape Finance](https://beincrypto.com/tom-lee-sees-ethereum-at-250000-as-ai-and-tokenization-reshape-finance/)**
+
+Tom Lee predicts that Ethereum will hit $250,000 long-term as AI and asset tokenization reshape global finance.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -240,17 +240,17 @@ BITCOIN CRASH IS OVER, for now... (explained)!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 205 • 💬 100 • ⏱️ 24:41 • 3h ago
+👁️ 6K • 👍 293 • 💬 149 • ⏱️ 24:41 • 7h ago
 
 ---
 
-**[WHY BMNR &amp; ETH JUST CRASHED?](https://www.youtube.com/watch?v=cMFE95FaCjY)**
+**[Will ETH CRASH Lower Today? (Ethereum Update)](https://www.youtube.com/watch?v=OZ4pSW5swy0)**
 
-WHY BMNR & ETH JUST CRASHED? Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi Discord: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Big Time Trades
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 61 • 💬 35 • ⏱️ 22:26 • 1d ago
+👁️ 84 • 👍 4 • ⏱️ 4:26 • 2h ago
 
 ---
 
@@ -260,55 +260,7 @@ CRASHING NOW Bitcoin to $60000? Ethereum CRASHING $2 TRILLION Leaves CRYPTO! iTr
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 383 • 💬 28 • ⏱️ 30:38 • 13h ago
-
----
-
-**[ETHEREUM ESTÁ MORRENDO? OS NÚMEROS NÃO MENTEM](https://www.youtube.com/watch?v=ZLx2-MosJA4)**
-
-ETHEREUM ESTÁ MORRENDO? OS NÚMEROS NÃO MENTEM Grupo Vip ...
-
-📺 Luiz Fernando
-
-👁️ 4K • 👍 335 • 💬 44 • ⏱️ 10:12 • 10h ago
-
----
-
-**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!!](https://www.youtube.com/watch?v=9lncS9888v8)**
-
-This is pretty terrible for bitcoin, ethereum, and the rest of crypto and the markets in genaral. Watch this video before making a ...
-
-📺 Thomas Kralow
-
-👁️ 14K • 👍 2K • 💬 24 • ⏱️ 8:55 • 1d ago
-
----
-
-**[HUGE XRP AND ETHEREUM INTEGRATION CRYPTO #xrp #ethereum #bitcoin](https://www.youtube.com/watch?v=J5Jh-8ftCdk)**
-
-📺 CryptoWendyO
-
-👁️ 10K • 👍 629 • 💬 34 • ⏱️ 2:04 • 1d ago
-
----
-
-**[🥩 Tom Lee Just ACTIVATED Ethereum](https://www.youtube.com/watch?v=GJk_vuEB3V4)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 3K • 👍 261 • 💬 21 • ⏱️ 13:29 • 1d ago
-
----
-
-**[ETH Breakdown Continues: Where Is The Bottom?](https://www.youtube.com/watch?v=xcfMQRnqK4w)**
-
-Ethereum remains under pressure after breaking down from a bearish flag pattern, and the broader Elliott Wave structure ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 417 • 💬 31 • ⏱️ 9:27 • 1d ago
+👁️ 6K • 👍 390 • 💬 28 • ⏱️ 30:38 • 17h ago
 
 ---
 
@@ -318,17 +270,65 @@ Ethereum's lead researcher says the Foundation is broken and proposes a $1 billi
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 910 • 💬 106 • ⏱️ 17:48 • 2d ago
+👁️ 30K • 👍 920 • 💬 106 • ⏱️ 17:48 • 2d ago
 
 ---
 
-**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=X0nt6zEL0dQ)**
+**[🥩 Tom Lee Just ACTIVATED Ethereum](https://www.youtube.com/watch?v=GJk_vuEB3V4)**
 
-BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Crypto Gyan
+📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 141 • 💬 2 • ⏱️ 6:50 • 4h ago
+👁️ 3K • 👍 259 • 💬 22 • ⏱️ 13:29 • 1d ago
+
+---
+
+**[WHY BMNR &amp; ETH JUST CRASHED?](https://www.youtube.com/watch?v=cMFE95FaCjY)**
+
+WHY BMNR & ETH JUST CRASHED? Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi Discord: ...
+
+📺 Big Time Trades
+
+👁️ 2K • 👍 64 • 💬 35 • ⏱️ 22:26 • 1d ago
+
+---
+
+**[HUGE XRP AND ETHEREUM INTEGRATION CRYPTO #xrp #ethereum #bitcoin](https://www.youtube.com/watch?v=J5Jh-8ftCdk)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 639 • 💬 34 • ⏱️ 2:04 • 1d ago
+
+---
+
+**[ETH Breakdown Continues: Where Is The Bottom?](https://www.youtube.com/watch?v=xcfMQRnqK4w)**
+
+Ethereum remains under pressure after breaking down from a bearish flag pattern, and the broader Elliott Wave structure ...
+
+📺 More Crypto Online
+
+👁️ 9K • 👍 423 • 💬 33 • ⏱️ 9:27 • 1d ago
+
+---
+
+**[Cardano and Ethereum Price Prediction June 2026: Mini-Bull Run Coming | Vedic Astrology](https://www.youtube.com/watch?v=iAgN6VhVi94)**
+
+ADA, ETH, XRP & BTC are at a critical turning point — and Vedic Astrology's RoadVi charts are issuing a clear warning for ...
+
+📺 Chariot Palmistry
+
+👁️ 2K • 👍 186 • 💬 32 • ⏱️ 4:32 • 6h ago
+
+---
+
+**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!!](https://www.youtube.com/watch?v=9lncS9888v8)**
+
+This is pretty terrible for bitcoin, ethereum, and the rest of crypto and the markets in genaral. Watch this video before making a ...
+
+📺 Thomas Kralow
+
+👁️ 15K • 👍 2K • 💬 24 • ⏱️ 8:55 • 2d ago
 
 ---
 

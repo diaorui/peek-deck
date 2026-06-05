@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-05T08:07:56.503025+00:00'
+updated: '2026-06-05T11:42:29.546011+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 05, 2026 at 08:07 UTC  
+**Last Updated:** June 05, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
 
-1h ago
+4h ago
 
 ---
 
 **[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
 
-12h ago
+15h ago
 
 ---
 
@@ -48,13 +48,37 @@ Robotics research and industry news
 
 From Kevin Wood | Robotics & AI on 𝕏: https://x.com/KWRoboticsAI/status/2061764713290047713 Official Wuji Hand 2 post (June 1): https://x.com/wuji_global/status/2061456465764987085 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
 
-22h ago
+1d ago
+
+---
+
+**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 13m ago
+
+---
+
+**[Autonomous Exploring Rover with VSLAM](https://www.reddit.com/r/robotics/comments/1txi5ur/autonomous_exploring_rover_with_vslam/)**
+
+I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
+
+17m ago
 
 ---
 
 **[I built an open-source Gazebo tool where the ground looks real and behaves real: photorealistic environments coupled with wheel-soil terramechanics, for sim-to-real](https://www.reddit.com/r/robotics/comments/1twojg8/i_built_an_opensource_gazebo_tool_where_the/)**
 
-18h ago
+21h ago
+
+---
+
+**[Is capture-time semantic annotation for robot trajectories a solved problem?](https://www.reddit.com/r/robotics/comments/1txf1lx/is_capturetime_semantic_annotation_for_robot/)**
+
+It seems raw teleoperation data (RGB + joint states) structurally lacks affordance, contact intent, and embodiment-specific kinematic context — information that can't be reliably recovered post-hoc once the demonstration is recorded. Most current approaches either filter/clean after collection, or rely on simulation to compensate. But neither seems to close the semantic gap for contact-rich tasks in unstructured environments. Is anyone working on supervision at acquisition time — enriching the stream as it's captured rather than labeling after the fact? And if not, is this a real bottleneck or am I overestimating the problem?
+
+3h ago
 
 ---
 
@@ -62,7 +86,7 @@ From Kevin Wood | Robotics & AI on 𝕏: https://x.com/KWRoboticsAI/status/20617
 
 Hey everyone, I've been building an Asimov-based humanoid robot in my garage and just finished machining and assembling the ankle and shin. Most of the parts are CNC machined aluminum, with some 3D SLS printed components. My goal is to see how far a small builder can get without a huge budget or a team of engineers. I'm documenting the entire process, including the mistakes, redesigns, machining, and assembly work. Still a long way to go before I have a walking humanoid, but it's finally starting to look like a robot instead of a pile of aluminium I'd love feedback from anyone who's built humanoids, quadrupeds, or other legged robots. What are the biggest mistakes you made early on that you'd avoid if you started again? Build video: https://youtu.be/a4vX0B_dGQ0 A few things I'm still figuring out: Backlash and joint stiffness Cable routing through the leg Impact resistance during falls Maintaining low weight while keeping rigidity Happy to answer any questions about the design or manufacturing process.
 
-15h ago
+18h ago
 
 ---
 
@@ -70,35 +94,13 @@ Hey everyone, I've been building an Asimov-based humanoid robot in my garage and
 
 I want to show my raspberry pi c++ object tracking robot.It took a while to make but it is functional.Lighting can affect the perfomance but all in all it works.tutorial is coming soon if anyone is interested code is in the repo link in the shorts but i forgot to post the link to some nessacary software for the project that i gonna post soon.thats about all
 
-🔗 [youtube.com](https://youtube.com/shorts/4Mcd0rOkKpw?si=mpNdlAOlvajoQK9r) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/4Mcd0rOkKpw?si=mpNdlAOlvajoQK9r) • 5h ago
 
 ---
 
 **[Robotics in Belgium meetups are back — ROBIB returns 24 June in Brussels](https://www.reddit.com/r/robotics/comments/1tx5bbq/robotics_in_belgium_meetups_are_back_robib/)**
 
-7h ago
-
----
-
-**[laser works and point on yolo targets and measure the distanz](https://www.reddit.com/r/robotics/comments/1twljib/laser_works_and_point_on_yolo_targets_and_measure/)**
-
-20h ago
-
----
-
-**[Xiaomi LDS02RR with Raspberry Pi 5 using lds2d Python library](https://www.reddit.com/r/robotics/comments/1twbzej/xiaomi_lds02rr_with_raspberry_pi_5_using_lds2d/)**
-
-Here is my Xiaomi LDS02RR capturing data live using my Raspberry Pi 5. I'm using my lds2d Python library (pip install lds2d). LDSO2RR connects to the RPi's serial port available on its header. Also, I'm using one of RPi's GPIO as PWM to control LDS02RR motor speed. Source https://github.com/kaiaai/lds2d
-
-1d ago
-
----
-
-**[Advice for someone creating an open-source medical dataset for robotics](https://www.reddit.com/r/robotics/comments/1twkc0e/advice_for_someone_creating_an_opensource_medical/)**
-
-We are a team of clinicians (internists and surgeons), nurses, and ML engineers. We want to contribute to the opensource community by creating a dataset that would help advance medical robotics. So my first question is: is recorded human data still relevant and of high impact? Or would we need to do it with a robot hand or gripper? We are considering recording structured human-demonstration videos performing common medical hand–object tasks, such as handling instruments, preparing trays, manipulating tubes/syringes/gauze, and following sterile/non-sterile workflow rules, with annotations like hand/object segmentation, action steps, contact points, errors, and safety/protocol labels. Would this kind of dataset be useful for medical robotics research, or would it only become valuable if we also include robot/gripper demonstrations? My second question is: from the perspective of robotics developers, engineers, and researchers, what types of datasets would actually be useful for you and the wider community? Are there specific medical workflows, annotations, sensor modalities, or demonstration formats that you think would be most valuable for us to build? All data will be done as simulations by the team, i mean no real patient data will be recorded. We would use mannequins and volunteers from the team.
-
-21h ago
+11h ago
 
 ---
 
@@ -108,7 +110,7 @@ We are a team of clinicians (internists and surgeons), nurses, and ML engineers.
 
 **[Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
 
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
@@ -116,13 +118,49 @@ Reuters • 3h ago
 
 Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
 
-About Amazon • 22h ago
+About Amazon • 1d ago
 
 ---
 
-**[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
+**[Scientists are teaching AI-powered robots to run lab experiments](https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks)**
 
-Bloomberg.com • 1h ago
+Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
+
+NPR • 2h ago
+
+---
+
+**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
+
+Reuters • 3h ago
+
+---
+
+**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
+
+Robot demonstrations can distort public perceptions of robotic capabilities.
+
+Ars Technica • 13h ago
+
+---
+
+**[Shifters: Robots on the frontline](https://www.jpost.com/defense-and-tech/article-898434)**
+
+Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
+
+The Jerusalem Post • 17h ago
+
+---
+
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+
+Bloomberg • 23h ago
+
+---
+
+**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
+
+South China Morning Post • 22h ago
 
 ---
 
@@ -134,49 +172,11 @@ CNBC • 2d ago
 
 ---
 
-**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
+**[Sen. Dave McCormick and Colorado Democrat introduce national robotics commission](https://www.post-gazette.com/business/tech-news/2026/06/03/mccormick-and-colorado-democrat-introduce/stories/202606030071)**
 
-South China Morning Post • 19h ago
+Robotics are taking center stage in discussions of national security, which is why U.S. Senators Dave McCormick, R-Pa., and John Hickenlooper, D-Co., introduced...
 
----
-
-**[10 Ways Humanoid Robots Are About To Change Everyday Life](https://www.forbes.com/sites/bernardmarr/2026/06/05/10-ways-humanoid-robots-are-about-to-change-everyday-life/)**
-
-As AI makes them smarter and more affordable, human-shaped machines could transform some of the most demanding, repetitive & dangerous jobs in business and everyday life.
-
-Forbes • 2h ago
-
----
-
-**[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-051530964.html)**
-
-Nvidia CEO Jensen Huang on Friday said robotics will be South Korea's next major sector, as he arrived for his second visit in seven months, ‌underscoring deepening ties with local firms in not only chips but also robotics and AI factories.  "Because Korea is ‌a manufacturing centre of the world, we can apply the robotics technology, the physical AI technology that we invent here for the industry," he told ​reporters after landing at Gimpo International Airport on a flight from Taiwan.  South Korea is a key Asian manufacturing powerhouse - home to major manufacturers of chips, electronics, cars and ships.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Shifters: Robots on the frontline](https://www.jpost.com/defense-and-tech/article-898434)**
-
-Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
-
-The Jerusalem Post • 14h ago
-
----
-
-**[NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)**
-
-New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development.
-
-NVIDIA Blog • 1d ago
-
----
-
-**[Bristol students take top prize in global robotics competition](https://www.bbc.com/news/articles/c3w2ve6wzq9o)**
-
-Two Bristol students were crowned best in the UK in largest global robotics competition in USA.
-
-BBC • 1d ago
+Pittsburgh Post-Gazette • 9h ago
 
 ---
 
@@ -190,17 +190,17 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 1.9M • 👍 36K • 💬 4K • ⏱️ 6:01 • 2d ago
+👁️ 2.0M • 👍 37K • 💬 4K • ⏱️ 6:01 • 2d ago
 
 ---
 
-**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
+**[Sorry but Ultimate LEO is just not that good... War Robots](https://www.youtube.com/watch?v=qcNQOQQwy8s)**
 
-Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
+War Robots Gameplay: Ultimate LEO - that I don't think is very good. My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Talent Recap
+📺 Manni-Gaming
 
-👁️ 444K • 👍 8K • 💬 587 • ⏱️ 5:01 • 2d ago
+👁️ 7K • 👍 391 • 💬 85 • ⏱️ 13:59 • 22h ago
 
 ---
 
@@ -210,7 +210,17 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 130K • 👍 4K • 💬 560 • ⏱️ 29:20 • 5d ago
+👁️ 131K • 👍 4K • 💬 563 • ⏱️ 29:20 • 5d ago
+
+---
+
+**[Figure 03 Robot Just Finished A 200 Hours Work Shift 😱 | Humans in Danger?](https://www.youtube.com/watch?v=xw_yth1tJik)**
+
+The future is here! The Figure 03 humanoid robot has reportedly completed a 200-hour work shift, showcasing how advanced ...
+
+📺 Brain Box
+
+👁️ 4K • 💬 7 • ⏱️ 0:50 • 21h ago
 
 ---
 
@@ -220,27 +230,7 @@ Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/p
 
 📺 Farzad
 
-👁️ 173K • 👍 7K • 💬 717 • ⏱️ 23:36 • 3d ago
-
----
-
-**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
-
-Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
-
-📺 DPCcars
-
-👁️ 43K • 👍 152 • 💬 42 • ⏱️ 2:07 • 2d ago
-
----
-
-**[Glacier Shoggoth Is GOOD... Shoggoth As A Brawler Cooks | War Robots](https://www.youtube.com/watch?v=wnt5LOPhcw4)**
-
-Shoggoth is one of the best snipers in the game. But what about the Shoggoth as a pure brawler. We're starting with the freeze ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 296 • 💬 31 • ⏱️ 14:21 • 20h ago
+👁️ 175K • 👍 7K • 💬 720 • ⏱️ 23:36 • 3d ago
 
 ---
 
@@ -250,7 +240,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 25K • 👍 1K • 💬 58 • ⏱️ 1:26 • 18h ago
+👁️ 29K • 👍 1K • 💬 62 • ⏱️ 1:26 • 22h ago
 
 ---
 
@@ -264,23 +254,33 @@ If you've ever worked on your feet all day, you know how important a good pair o
 
 ---
 
+**[Deep Robotics Just Upgraded Its Humanoid Robot](https://www.youtube.com/watch?v=esli_YADxzA)**
+
+Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it improved payload capacity and enhanced ...
+
+📺 DPCcars
+
+👁️ 44K • 👍 160 • 💬 44 • ⏱️ 2:07 • 2d ago
+
+---
+
 **[This robot was built to detect skin cancer 👀 #trendingshorts #technology #ai #robot](https://www.youtube.com/watch?v=-whuDUaiGrs)**
 
 Paris-based startup SquareMind has raised $18 million to launch Swan, the world's first robot designed to capture standardized, ...
 
 📺 Rowan Cheung
 
-👁️ 47K • 👍 2K • 💬 41 • ⏱️ 1:06 • 2d ago
+👁️ 48K • 👍 2K • 💬 41 • ⏱️ 1:06 • 2d ago
 
 ---
 
-**[Figure 03 Robot Just Finished A 200 Hours Work Shift 😱 | Humans in Danger?](https://www.youtube.com/watch?v=xw_yth1tJik)**
+**[This 3D-printed robot is invisible to the naked eye 👀 #trendingshorts #technology #robot #future](https://www.youtube.com/watch?v=Rw-EcOj4rlw)**
 
-The future is here! The Figure 03 humanoid robot has reportedly completed a 200-hour work shift, showcasing how advanced ...
+Researchers at Leiden University 3D-printed a microrobot just five micrometers long that moves like a living worm despite having ...
 
-📺 Brain Box
+📺 Rowan Cheung
 
-👁️ 3K • 💬 6 • ⏱️ 0:50 • 17h ago
+👁️ 88K • 👍 3K • 💬 74 • ⏱️ 1:06 • 1d ago
 
 ---
 
