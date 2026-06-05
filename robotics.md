@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-05T17:19:54.478434+00:00'
+updated: '2026-06-05T19:17:09.755171+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 05, 2026 at 17:19 UTC  
+**Last Updated:** June 05, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
 
-10h ago
+12h ago
 
 ---
 
 **[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -48,15 +48,7 @@ Robotics research and industry news
 
 In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
 
-19m ago
-
----
-
-**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 5h ago
+2h ago
 
 ---
 
@@ -64,7 +56,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
 
-5h ago
+7h ago
+
+---
+
+**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 7h ago
 
 ---
 
@@ -72,13 +72,21 @@ I've just released my latest blog post and video, which shows my Viam Rover buil
 
 Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
 
-2h ago
+4h ago
+
+---
+
+**[Is There Industrial Level Robotic Arm Like This?](https://www.reddit.com/r/robotics/comments/1txscvf/is_there_industrial_level_robotic_arm_like_this/)**
+
+Just came across this turn key modular consumer robotic arm that offers hardware and software integration all in one package. Question: Does anything like this exists for industrial application under $5k, each module made out of stainless steel or aluminum and comes with easy to use software integration (machine vision etc)?
+
+1h ago
 
 ---
 
 **[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -86,7 +94,7 @@ Hey all, I'm a robotics engineer by training turned ML/AI engineer because of pa
 
 I'm researching how teams build datasets for robot learning and I'm curious what the biggest challenges are in practice. From what I've seen so far, collecting robotics data seems very different from standard computer vision datasets because you have to deal with sensor synchronization, demonstrations, real-world edge cases, and often much smaller datasets. One thing I'm still trying to understand is where most teams spend the majority of their time. For people working on robot learning, manipulation, navigation, or autonomous systems: Is data collection the main bottleneck? Is annotation and labeling the difficult part? Do you rely more on simulation or real-world data? What would you improve if you could rebuild your data pipeline from scratch? I'd love to hear some real-world experiences.
 
-23m ago
+2h ago
 
 ---
 
@@ -94,25 +102,13 @@ I'm researching how teams build datasets for robot learning and I'm curious what
 
 Hey r/robotics, Just joined and I’m really impressed by the quality of projects and discussion here. I’ve been working on an open framework for building more reliable, long-running automated systems, especially physical robots and agents that need to operate safely over time. The core of it is three structural distinctions that most AI/robotics work tends to treat as afterthoughts: Entity ~ clearly defining what the system actually is (structural class, not just “a smart model”) Authority ~ runtime-enforced boundaries so the robot can’t quietly expand its own scope or do unsafe things Identity Continuity ~ how the robot maintains a coherent sense of self, role, and mission across restarts, model swaps, or long missions It’s all open (no product pitch):→ Full blueprints + papers here: https://github.com/michaeljb79-ai/A-Preamble-to-Automated-Intelligence-Authorization-Topology-and-Identity-Continuity Would love to hear what challenges you all are running into with long-term robot autonomy, safety boundaries, persistent behavior, or anything in that space. Looking forward to learning from this community !
 
-28m ago
-
----
-
-**[need help with speed controller!](https://www.reddit.com/r/robotics/comments/1txo9v4/need_help_with_speed_controller/)**
-
-1h ago
+2h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
-
-Reuters • 8h ago
-
----
 
 **[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
 
@@ -122,11 +118,17 @@ About Amazon • 1d ago
 
 ---
 
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-045529173.html)**
 
 Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -134,7 +136,7 @@ Yahoo Finance • 12h ago
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
 
-Ars Technica • 18h ago
+Ars Technica • 20h ago
 
 ---
 
@@ -142,13 +144,29 @@ Ars Technica • 18h ago
 
 "Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
-**[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
+**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
-Bloomberg.com • 3m ago
+Reuters • 10h ago
+
+---
+
+**[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
+
+Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
+
+Fox Business • 2d ago
+
+---
+
+**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
+
+Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
+
+Shore Daily News • 9h ago
 
 ---
 
@@ -156,31 +174,13 @@ Bloomberg.com • 3m ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 3h ago
 
 ---
 
-**[Generalist AI raises $400M at $2B valuation, backed by Nvidia](https://qz.com/generalist-ai-funding-robotics-nvidia-bezos-060526)**
+**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
-Radical Ventures led the round, with Nvidia and Bezos Expeditions among the returning backers
-
-qz.com • 2h ago
-
----
-
-**[Spelman announces robotics, AI expert as college’s next president](https://www.ajc.com/education/2026/06/spelman-announces-robotics-ai-expert-as-colleges-next-president/)**
-
-Spelman College announces engineering educator Ayanna Howard will be the next president of the all-female Atlanta HBCU.
-
-AJC.com • 3h ago
-
----
-
-**[Shifters: Robots on the frontline](https://www.jpost.com/defense-and-tech/article-898434)**
-
-Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
-
-The Jerusalem Post • 23h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 568K • 👍 9K • 💬 710 • ⏱️ 5:01 • 2d ago
+👁️ 568K • 👍 9K • 💬 710 • ⏱️ 5:01 • 3d ago
 
 ---
 

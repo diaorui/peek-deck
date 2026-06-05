@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-05T17:19:54.475524+00:00'
+updated: '2026-06-05T19:17:09.751982+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 05, 2026 at 17:19 UTC  
+**Last Updated:** June 05, 2026 at 19:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,589.08
+### $1,584.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -10.4%  
-**7d:** -21.3%  
-**30d:** -30.5%  
-**90d:** -17.7%  
-**1y:** -35.8%  
+**24h:** -13.1%  
+**7d:** -23.8%  
+**30d:** -32.7%  
+**90d:** -20.3%  
+**1y:** -37.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated financial infrastructure ever built, and i still have to convert everything to fiat just to buy groceries. The DeFi side is incredible. Lending, borrowing, yield all of it works seamlessly but the moment you want to actually spend your stablecoins in real life you're back to exchanges, fees and waiting for bank transfers. Everything works perfectly until you want to spend it somewhere normal
 
-4h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 (* Not actually decentralized) Catch up: Day One Day Two The whole article as an EPub on Github Or stream the AI-generated audio file on on Vocaroo (26:35 AI-generated audio recording) ETHPrague Day Three I wake up in plenty of time for the last day of ETHPrague. Also, miraculously, both the toilet and the shower are free at the exact moments that I want to use them. I'm OK with being a pod person, I think. This is quite good. Then I walk out of the shower only-mostly covered by a wet t-shirt and a young man says good morning to me cheerfully before trying desperately to make it clear that he did not look at me and will never look at me again. I fear he may not ever make eye contact with anyone ever again. https://preview.redd.it/4rrpqnqs4b5h1.jpg?width=2542&format=pjpg&auto=webp&s=c2662308fc02203bb003eb757742682831b96341 Day Three kicks off with a sobering perspective shift that feels intentionally out of place at a crypto conference. With no official live stream to record it, the presentation is a raw, slide-driven argument for protecting the physical world from total digital engulfment. When the offline movement meets privacy advocates is presented by Hynek Trojánek, who admits his entire understanding of our conference is based on attempting to understand the Wikipedia page on Bitcoin. But his perspective is a strong one: we are engineering a terrifying baseline of digital exclusion, and defending a "Right to Analogue" is a vital mental health sanctuary against mandatory digital compliance. https://preview.redd.it/ehlab7x35b5h1.jpg?width=3320&format=pjpg&auto=webp&s=35840dc91112d24bead637159ecea3c054bafab8 That demand for an analogue escape hatch connects directly to the usability crisis that Olaf van Wijk addresses in Recovery is the key to sovereignty. Van Wijk tells us that for 80% of the population, absolute cryptographic security feels incredibly unsafe because of the risk of losing a seed phrase. Account abstraction may handle basic authorization on-chain, but it completely fails to recover the core cryptographic secrets required for true privacy tooling. We need more privacy, we need more zk-proofs, we need censorship-resistant systems. All of this requires secrets to operate, and he argues that this is the same as externally owned accounts. Yeah but your security is not safety is the most "only in crypto" product I have ever seen. José Pedro Sousa starts with a series of frankly frightening wrench attacks in France, reassuring us that he doesn't want to scare us before describing severed fingers. "If all your information is on your phone, when someone points a gun to your head, you will hand over the phone." He is representing SpaceComputer, who wants to solve this by -- you guessed it-- launching secure chips (TEEs) into space, into orbit on a satellite, so that your signing keys are physically unreachable. But the entire premise relies on the classic fantasy that you can just say "oh, but I can't" to violent criminals and they will stop cutting off your digits. An audience member points out that if you can access the chip for your transactions, then your attacker can force you to transact. Yes, but the timelock. Sousa reminds us of the successful case where a timelock saved the day. https://preview.redd.it/kq8nsfmx4b5h1.png?width=1200&format=png&auto=webp&s=b57d360ce8cec4673e423374ac5e0172e11ecc35 This is the April 2026 Burgundy case, where the attackers kidnapped the man's wife and child to hold as hostages while they waited out the timer. It's true that the Gendarmerie rescued the hostages before the transaction window unlocked. Still, this doesn't strike me as a great success story so much as a cautionary tale. Honestly, if I were that wife? I'd be filing for a fucking divorce. I decide to skip the next sessions in favour of protecting my blood pressure and head out of Municipal House, on a mission for the greasiest street food I can find. https://preview.redd.it/njv6jly65b5h1.jpg?width=3320&format=pjpg&auto=webp&s=fa9ae703298d9af109c1cd04e91426b185101b78 An American couple wait in line behind me, suffering from currency and cabbage concerns. "Do they have brats?" "Yes, there are brats right there on the grill." "What about sauerkraut?" "I don't see any sauerkraut. I don't think they have any sauerkraut. Not hot, anyway. Do you want a brat?" "Do you think they take credit cards?" "I don't know. We have cash." "What kind?" "Euros" "Do you think they take Euros?" "Yeah, I think they will. But I hope they take cards." "Everyone is paying with cash." "What kind of cash?" "The, uh, kroner, or whatever they are." "They aren't paying in euros?" "No. And there's definitely no sauerkraut." Thankfully, they walk away before I can gouge their eyes out with an overcooked sausage. https://preview.redd.it/x96y3yx85b5h1.jpg?width=2611&format=pjpg&auto=webp&s=c168edfc462ae926c4d5525be99a9612aca3cefd I reluctantly return to Municipal House feeling altogether unfit for human contact. When Technology Meets the Museum World restores my faith in humankind. Ivo Macek, the director of the City of Prague Museum explains how they are using tech to make local history cool, for example a full-sized projection showing where a railway station used to be. He explains that a key issue for museums is that if a collection is not visible, it doesn't exist. Traditionally museums have added more screens but most people don't use the mobile app or show much interest in browsing online collections. The answer is better story telling and he believes that AI can help us get there. They are building a system where a five-year-old can naturally prompt the catalog to "show me everything with the sun on it," instantly pulling hidden specimens out of the dark. They also built a strictly closed-loop chatbot that gives sourced museum info without hallucinating, point-blank refusing to write code or give you a recipe for Czech dumplings. https://preview.redd.it/jvoaw7sa5b5h1.jpg?width=3320&format=pjpg&auto=webp&s=417808794d907d1d89c17ec314c477966ef4135a And then it is time to return to the amazing Smetana Hall, restored from hackerspace to its full concert-hall glory. The closing ceremony starts with Shaka Lei Kaumaka and the Open Source Orchestra which started at ETHPrague in 2022. The conference had over 1,000 attendees and the hackathon shipped 64 projects. We applaud for all the bounty winners. It feels like it is over. https://preview.redd.it/p548ntgc5b5h1.jpg?width=3168&format=pjpg&auto=webp&s=a75d931dd42088a6f132c6b9996e3b2607aea252 But no. We have a major concert from Jaroslav Ježek Conservatory (KJJ) who present us with their annual showcase. The students entertain us by shifting quickly across an amazing range from choral pop to big band to Pat Metheny to modern fusion. Sadly, there doesn't seem to be video of the concert because my photographs don't do it justice. It was a beautiful and thoughtful end to three days of top-tier content. I walk home, no longer trusting myself to use public transport, and have a delicious bowl of goulash and dumplings. It's also my last night as a pod person. I enter my plywood sanctuary and spend the rest of the evening in blessed silence, except for the farts of my neighbor. I have strong thoughts about privacy and not all of them can be solved by zero-knowledge proofs. --- This series was supported through the generosity of the Peacock Foundation.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 10h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello once again guys. A week or so ago, I posted about https://revert.wtf. A thing, basically a catalog of common EVM errors that covers about 25k error types. And I decided to dogfood my own product, and made a browser extension. I already submitted it for review on Chrome Web Store, but if you would like to give it a try, you can get it from my github here. https://github.com/mrtdlgc/revertwtf-extension And this is my main announcement post on Twitter. It has some screenshots there on how it looks. https://x.com/mrtdlgc/status/2062657866717118561 Feedback welcome. I added a "this explanation is too generic" button, so you can rotate through what revert.wtf actually covers. If you still see too generic explanations, feel free to submit them on Github, and I can find better grounded explanations and next steps to take for other people to use in the future as well.
 
-17h ago
+19h ago
 
 ---
 
@@ -136,7 +136,7 @@ Small team working on a protocol and incorporated in Cayman because thats what m
 
 What are everyone's thoughts on this? I actually haven't heard of this until a few months ago, but saw that Vitalik did a fireside chat with the dev team a few weeks back. Didn't buy it then, but saw lots of positive sentiment around it on X, including the David guy from Bankless. Platform: Just tried the platform now to buy the LIT asset, but wondering what people think of both the platform and the asset? I'm not the target audience since I don't trade, but the fundamental thesis I guess is that it might be the backbone for institutional perp platforms? Apparently it had a deal with Telegram to trade within the app (I dont use telegram so not sure if this is a big deal) There are rumors that Robinhood might integrate them into their perp offering soon. Potential tailwinds if Clarity Act passes, but I think that would be good for all tokens not just LIT or HYPE Token: This is where I'm a huge noob. I have only owned BTC and ETH for multiple cycles so I do not understand the tokenomics of these new tokens. Apparently, LIT and HYPE both use their fee revenue to buy back tokens, which is deflationary. But for both, they have a vesting schedule where early devs might sell in bulk. For LIT, it looks like December is the cliff. Any thoughts on this is a good investment, and for short or long term?
 
-1d ago
+2d ago
 
 ---
 
@@ -152,6 +152,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
+
+Barron's • 1d ago
+
+---
+
 **[Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist](https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist)**
 
 In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.
@@ -160,55 +166,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[As Bitcoin Sinks, It's Time for Ethereum to Outperform: Standard Chartered](https://decrypt.co/369803/bitcoin-sinks-time-ethereum-outperform-standard-chartered)**
+**[Ethereum Price Downtrend May Not Be Over—Sub-$1,700 Levels Loom](https://www.tradingview.com/news/newsbtc:85135a550094b:0-ethereum-price-downtrend-may-not-be-over-sub-1-700-levels-loom/)**
 
-Strategy's Bitcoin sale marked a counterintuitive turning point for Ethereum, Standard Chartered’s Geoff Kendrick argued.
+Ethereum price started a fresh decline and traded below $1,750. ETH is now consolidating below $1,750 and might continue to move down.Ethereum Price Remains In DowntrendEthereum price failed to remain stable above $1,840 and started a fresh decline, like Bitcoin. ETH price dipped below the $1,800 a…
 
-Decrypt • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html)**
-
-Bitcoin opened at $63,812.18 on Friday, June 5, 2026, down 0.3% from Thursday's opening price. The value was $62,411.20 at 7:29 a.m ET. Ethereum opened at $1,768.86 on Friday, down 2.4% from Thursday's opening price. The value of ethereum was $1,676.27 at 7:29 a.m. ET.
-
-Yahoo Finance • 3h ago
+TradingView • 15h ago
 
 ---
 
-**[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
+**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://finance.yahoo.com/markets/crypto/articles/tom-lees-ethereum-treasury-bitmine-175729130.html)**
 
-Barron's • 1d ago
+BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
----
-
-**[Bankless Co-Founder Reveals New Crypto Portfolio After Ethereum Sale](https://www.tradingview.com/news/newsbtc:8ea9e5d16094b:0-bankless-co-founder-reveals-new-crypto-portfolio-after-ethereum-sale/)**
-
-Bankless co-founder David Hoffman has disclosed how he redeployed capital after selling ETH, revealing a new portfolio tilted toward VVV, NEAR, ZEC, HYPE and LIT. The move marks a notable shift for one of Ethereum’s most recognizable public advocates and has triggered debate over whether Hoffman is…
-
-TradingView • 1d ago
-
----
-
-**[Dormant Ethereum Whale Resurfaces With Massive ETH Accumulation—Could It Fuel the Next Rally?](https://coinpedia.org/price-analysis/dormant-ethereum-whale-resurfaces-with-massive-eth-accumulation-could-it-fuel-the-next-rally/)**
-
-Ethereum has slipped to fresh yearly lows after breaking a critical support zone, reinforcing bearish sentiment across the broader market.
-
-Coinpedia • 3h ago
-
----
-
-**[Is Ethereum Falling Below $1,600 a Red Flag or a Green Signal to Buy?](https://www.fool.com/investing/2026/06/05/is-ethereum-falling-below-1600-a-red-flag-or-a-gre/)**
-
-Is the world's second-largest cryptocurrency undervalued, or is it a falling knife?
-
-The Motley Fool • 5m ago
-
----
-
-**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
-
-Crowdfund Insider • 20h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -216,15 +186,45 @@ Crowdfund Insider • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[ETHUSD – Ethereum Price Falls By 8% As Fear Fuels Selloffs](https://dmarketforces.com/ethusd-ethereum-price-falls-by-8-as-fear-fuels-selloffs/)**
+**[Dormant Ethereum Whale Resurfaces With Massive ETH Accumulation—Could It Fuel the Next Rally?](https://coinpedia.org/price-analysis/dormant-ethereum-whale-resurfaces-with-massive-eth-accumulation-could-it-fuel-the-next-rally/)**
 
-Ethereum (ETHUSD) price fell 8.05% over the last 24 hours to $1,638.21, underperforming the broader market decline and was primarily
+Ethereum has slipped to fresh yearly lows after breaking a critical support zone, reinforcing bearish sentiment across the broader market.
 
-MarketForces Africa • 9h ago
+Coinpedia • 5h ago
+
+---
+
+**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
+
+Crowdfund Insider • 22h ago
+
+---
+
+**[Ethereum faces $547M liquidation risk as price nears critical levels](https://cryptobriefing.com/ethereum-faces-547m-liquidation-risk-as-price-nears-critical-levels/)**
+
+Ethereum faces a $547M liquidation risk as it nears critical price levels. Ethereum dip to $1,500 by June 1 at 33.4% YES.
+
+Crypto Briefing • 3h ago
+
+---
+
+**[Tom Lee Sees Ethereum at $250,000 as AI and Tokenization Reshape Finance](https://beincrypto.com/tom-lee-sees-ethereum-at-250000-as-ai-and-tokenization-reshape-finance/)**
+
+Tom Lee predicts that Ethereum will hit $250,000 long-term as AI and asset tokenization reshape global finance.
+
+BeInCrypto • 1d ago
+
+---
+
+**[Tom Lee: 'Ethereum Is Like Amazon Stuck At $6, You're Bearish At The Bottom'](https://www.benzinga.com/crypto/cryptocurrency/26/06/53023799/tom-lee-ethereum-is-like-amazon-stuck-at-6-youre-bearish-at-the-bottom)**
+
+Fundstrat founder Tom Lee told investors at a Paris conference Tuesday that Ethereum (CRYPTO: ETH) mirrors Amazon
+
+Benzinga • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 826 • 👍 20 • ⏱️ 4:26 • 7h ago
+👁️ 826 • 👍 20 • ⏱️ 4:26 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ ADA, ETH, XRP & BTC are at a critical turning point — and Vedic Astrology's Ro
 
 📺 Chariot Palmistry
 
-👁️ 4K • 👍 260 • 💬 36 • ⏱️ 4:32 • 12h ago
+👁️ 4K • 👍 260 • 💬 36 • ⏱️ 4:32 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ Rejoignez nous sur Patreon pour soutenir le travail quotidien, retrouver les vid
 
 📺 Crypto ET Bourse pour Tous
 
-👁️ 4K • 👍 549 • 💬 106 • ⏱️ 13:06 • 7h ago
+👁️ 4K • 👍 549 • 💬 106 • ⏱️ 13:06 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN CRASH IS OVER, for now... (explained)!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 355 • 💬 276 • ⏱️ 24:41 • 12h ago
+👁️ 9K • 👍 355 • 💬 276 • ⏱️ 24:41 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ I Trade Crypto on Bybit https://partner.bybit.com/b/landyoutube ============ Sig
 
 📺 Kara Trading EN
 
-👁️ 763 • 👍 6 • ⏱️ 1:17 • 8h ago
+👁️ 763 • 👍 6 • ⏱️ 1:17 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ Comfortable crypto trading with Bybit: https://partner.bybit.com/b/youtbtu =====
 
 📺 TU Crypto News
 
-👁️ 64 • 👍 28 • ⏱️ 2:14 • 4h ago
+👁️ 64 • 👍 28 • ⏱️ 2:14 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ CRASHING NOW Bitcoin to $60000? Ethereum CRASHING $2 TRILLION Leaves CRYPTO! iTr
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 404 • 💬 36 • ⏱️ 30:38 • 23h ago
+👁️ 6K • 👍 404 • 💬 36 • ⏱️ 30:38 • 1d ago
 
 ---
 

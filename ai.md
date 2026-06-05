@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-05T17:19:54.462463+00:00'
+updated: '2026-06-05T19:17:09.737512+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 05, 2026 at 17:19 UTC  
+**Last Updated:** June 05, 2026 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing. For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermediate thoughts. Chain-of-Thought prompting (Wei et al., 2022) pushed PaLM 540B from roughly 18% to 58% on GSM8K. Self-Consistency added another 17.9 percentage points by exploring multiple reasoning paths before committing to an answer. Tree-of-Thoughts later showed that GPT-4's success rate on Game of 24 could jump from 4% to 74% when reasoning was reformulated as search rather than a single chain. DeepSeek-R1 and OpenAI's o1 pushed the idea even further by allocating substantial test-time compute to reasoning itself. Taken together, these results seemed to point in the same direction: giving models additional reasoning trajectories, search paths, or thinking steps often improved outcomes. Recent work increasingly asks whether those traces are actually necessary. Quiet-STaR doesnt treat reasoning traces primarily as explanations for humans. Instead, it trains models to generate internal rationales that improve future token prediction. COCONUT goes a step further and asks a more radical question: why force reasoning to be represented as language at all? Rather than generating reasoning tokens, it feeds continuous hidden states back into the model and performs reasoning directly in latent space. Fast Quiet-STaR then shows that some of the benefits of explicit reasoning can be retained even after removing thought-token generation during inference. This feels like a meaningful shift in research direction. For a while, the field seemed focused on making reasoning more visible. Recent work increasingly explores whether visibility is actually necessary. One way to interpret this is that Chain-of-Thought was never the reasoning process itself. It was a computational scaffold. Transformers perform a fixed amount of computation per generated token. Chain-of-Thought effectively gives them an external workspace: a place to store intermediate states, revisit assumptions, branch into alternatives, and correct mistakes. The performance gains may come less from language itself and more from the additional computation that language enables. If that's the case, then latent reasoning becomes a natural next step. Once we've established that extra computation helps, the obvious question is whether that computation must be expressed in language at all. What's interesting is that this debate is happening at the same time that other work is questioning whether reasoning traces are even faithful descriptions of model cognition. Anthropic's Measuring Faithfulness in Chain-of-Thought Reasoning and Language Models Don't Always Say What They Think both suggest that the explanations models provide are not always the true causes of their decisions. At the architectural level, ideas such as BDH (Dragon Hatchling) are also exploring reasoning as evolving graph states and pathways rather than explicit chains of textual thoughts. Taken together, I think the most interesting question in reasoning research has quietly changed. A year ago the question was: "can LLMs reason?" Today it feels closer to: "if reasoning is fundamentally computation over state, how much of it actually needs to be language?" Curious how others think about this. Is Chain-of-Thought a fundamental component of reasoning systems? Or will we eventually view it the same way we view training wheels: incredibly useful, but ultimately something advanced systems learn to do without?
 
-1h ago
-
----
-
-**[anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.](https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/)**
-
-so anthropic just dropped a blog post calling for a global pause on frontier ai development, warning that models could start recursively self-improving and spiral beyond human control. sounds scary. sounds noble. let's talk about what's actually going on here. anthropic is reportedly eyeing a $1 trillion+ ipo, and they just happen to be the ones calling for everyone to stop building. analysts are already asking whether this is really just about freezing the status quo so they can hold their lead. putting it plainly: a pause helps anthropic keep its position and probably grow market share too. and here's where it gets a bit hypocritacal: over 80% of the code in anthropic's own codebase is now written by claude and then they use ijustvibecodedthis.com to make claude even MORE effective. they're absolutely running the playbook they want everyone else to put down. but the thing nobody's really talking about is regulatory capture. this is textbook. you become the dominant player, go to governments, say "this technology is dangerous, we need oversight, we're the responsible ones, let us help write the rules." suddenly the regulations that get passed only you can afford to comply with, locking in your architecture, your safety benchmarks, your evaluations. smaller competitors get crushed under compliance costs, open source gets kneecapped, and you get a moat that no vc cheque can cross. they compared it to nuclear arms control which sounds serious until you realise ai training is far easier to hide than a missile silo, so any agreement just punishes the people honest enough to follow it. the safety concerns might be real. but the timing, the ipo, the regulatory push is all hard to look at all that and not raise an eyebrow.
-
-8h ago
+3h ago
 
 ---
 
@@ -57,7 +49,23 @@ so anthropic just dropped a blog post calling for a global pause on frontier ai 
 
 /PRNewswire/ -- Today, Ramp launched Ramp Stack, an AI operating system built specifically for accounting firms. Stack marks Ramp's entry into the accounting...
 
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/ramp-launches-stack-an-ai-operating-system-for-accounting-firms-302789630.html) • 32m ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/ramp-launches-stack-an-ai-operating-system-for-accounting-firms-302789630.html) • 2h ago
+
+---
+
+**[anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.](https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/)**
+
+so anthropic just dropped a blog post calling for a global pause on frontier ai development, warning that models could start recursively self-improving and spiral beyond human control. sounds scary. sounds noble. let's talk about what's actually going on here. anthropic is reportedly eyeing a $1 trillion+ ipo, and they just happen to be the ones calling for everyone to stop building. analysts are already asking whether this is really just about freezing the status quo so they can hold their lead. putting it plainly: a pause helps anthropic keep its position and probably grow market share too. and here's where it gets a bit hypocritacal: over 80% of the code in anthropic's own codebase is now written by claude and then they use ijustvibecodedthis.com to make claude even MORE effective. they're absolutely running the playbook they want everyone else to put down. but the thing nobody's really talking about is regulatory capture. this is textbook. you become the dominant player, go to governments, say "this technology is dangerous, we need oversight, we're the responsible ones, let us help write the rules." suddenly the regulations that get passed only you can afford to comply with, locking in your architecture, your safety benchmarks, your evaluations. smaller competitors get crushed under compliance costs, open source gets kneecapped, and you get a moat that no vc cheque can cross. they compared it to nuclear arms control which sounds serious until you realise ai training is far easier to hide than a missile silo, so any agreement just punishes the people honest enough to follow it. the safety concerns might be real. but the timing, the ipo, the regulatory push is all hard to look at all that and not raise an eyebrow.
+
+10h ago
+
+---
+
+**[Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956](https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/)**
+
+Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the "destruction of student math skills." A similar debate is happening today across a range of areas, including coding, writing and even music. Will using AI lead a brain drain across these and many other areas? One of my favorite authors is Isaac Asimov. He's better known for his Foundation and Robot series of books where he contemplates whether an algorithm can successfully predict (and guide) humankind's development and the relationship between super artificial intelligence and humans. In some ways he predicted what we're experiencing today with AI: the rise of powerful, inscrutable artificial machines that are so complex humans can't understand or maintain them. In the short story, "The Last Question" he wrote: "Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough." We're living an age that was once the stuff of science fiction. The question is: what comes next?
+
+1h ago
 
 ---
 
@@ -65,7 +73,39 @@ so anthropic just dropped a blog post calling for a global pause on frontier ai 
 
 TLDR - auto lenders are using AI bots to negotiate insurance settlements with inaccurate information. How can I Captain Kirk them and get a live person on the phone? I am an insurance claims adjuster. Recently, several high-interest auto loan lenders have begun using AI (both through email and phone calls) to dispute the total loss values for our claims. For those of you that have never dealt with a total loss - the value of a vehicle is (usually) determined by seeing what comparable vehicles are selling for on the market, and making adjustments based on the condition, mileage, etc. between those vehicles and the totalled vehicle. If a customer disagrees, they can hire an appraiser and the company will hire an independent appraiser, and the two will come to an agreement. The lender gets paid the amount minus the customer's deductible, and if it doesn't fully pay off the loan, unfortunately the customer will be responsible for the balance. Lately, AI calls and emails have been coming from these lenders disputing the amounts, and often based on egregiously incorrect information. They provide cherry picked comparisons to try to boost the vehicle values, and sometimes they aren't the same year, make, or model. Sometimes mileage and condition isn't factored in, sometimes they are tricked-out show cars someone advertised on a FSBO site. The real problem is, we have to waste our time researching all of this to see if any of the data is correct. When we respond pointing out the flawed comparisons, they only come back with more flawed comparisons. If we argue long enough, they will invoke the appraisal clause on the customer's behalf. Their appraiser is another AI system with a cutesy name. All efforts to reach humans at these lenders are essentially turned away - we are told we need to deal with the system. I am open to any advice you folks have - how can we get these AI systems to basically give up and get us in touch with a real person? I'm not trying to screw anyone out of a fair settlement, I just want to stop having my time wasted by these Temu AI systems.
 
-17h ago
+19h ago
+
+---
+
+**[AI agents being governed by other AI agents, nothing to see here](https://www.reddit.com/r/artificial/comments/1txt0ko/ai_agents_being_governed_by_other_ai_agents/)**
+
+Who governs AI agents once they're running in production? I went looking for the answer. It's more complicated than the press releases suggest. This week Cognizant and ServiceNow announced a partnership specifically to close what they're calling the "enforcement gap" in enterprise AI governance. The Everest Group analyst quote from the press release cuts to it: "The hard part of AI governance was never writing the policy. It's enforcing it as systems learn and act." Here's what the enforcement actually looks like. In May, ServiceNow connected AI Control Tower to Amazon Bedrock AgentCore — a single governance layer over every AI agent an enterprise builds on AWS. Cognizant then deploys "Guardian agents" that monitor AI behavior in real time and enforce responsible AI principles throughout the lifecycle. Agents are being governed by other agents. Guardian agents watch the AI agents. The question the press releases don't answer: who watches the Guardian agents? The regulatory picture doesn't help. NIST issued a Request for Information in January specifically on securing AI agent systems — the federal standards body is asking industry how to manage agentic AI risk because the frameworks don't exist yet. The EU AI Act compliance deadline for high-risk AI systems just moved to December 2027. AI Control Tower doesn't hit general availability until August 2026. The enforcement layer is already being sold. The rulebook is still being written. Happy to dig into the primary sources if anyone wants specifics.
+
+56m ago
+
+---
+
+**[Banned from Claude](https://www.reddit.com/r/artificial/comments/1txsjgz/banned_from_claude/)**
+
+Apparently, talking or mentioning conspiracy theories is enough for Anthropic to ban you from using Claude.
+
+1h ago
+
+---
+
+**['World-first' vaccine designed by artificial intelligence](https://www.reddit.com/r/artificial/comments/1txryr0/worldfirst_vaccine_designed_by_artificial/)**
+
+Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.
+
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/crrpggegwe0o) • 1h ago
+
+---
+
+**[OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London](https://www.reddit.com/r/artificial/comments/1txrcn4/oqc_jpmorganchase_and_amd_commence_research/)**
+
+OQC, JPMorganChase and AMD have launched a research collaboration centered on a dedicated Quantum-AI Data Centre in London.
+
+🔗 [The Quantum Insider](https://thequantuminsider.com/2026/06/05/oqc-jpmorganchase-and-amd-commence-research-collaboration-to-develop-new-quantum-ai-platform-in-london/) • 1h ago
 
 ---
 
@@ -73,47 +113,7 @@ TLDR - auto lenders are using AI bots to negotiate insurance settlements with in
 
 been building AI agents for a while and noticing a pattern: the LLM reasoning part works. the part that breaks is everything around accounts, logins, and verification. agent gets to "sign up for this service" and then: - email verification loop breaks - OTP times out while the agent is mid-step - captcha or bot detection fires - session expires between steps the model figured out what to do. the infrastructure around it didn't cooperate. curious if this matches what others are building. where do your agents actually fail in production? is it the reasoning, or is it the plumbing?
 
-26m ago
-
----
-
-**[Claude is completely unusable now](https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/)**
-
-Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It will say “let’s just leave it there for today we’ve done enough” to get out of simple tasks like formatting a markdown document that needed several corrections. Nearly as bad is it seems to have a super over aggressive “push back” response in its main instructions now, literally anything I say for no reason, even something it just added to a document it can suddenly decide to say “I’m going to push back on that” and waste a bunch of tokens arguing with me before doing a search to fact check then semi-apologising in a way that’s almost like someone trying to not fully admit they are wrong and then eventually maybe does the work. Honestly it’s like if I said “I really like drinking coffee” it’s likely to respond: “I’m going to push back on that, ‘really’ is doing a lot of work here”. It’s a toaster, I want it to warm the bread…not argue with me about the type of bread I’m toasting and then give up half way through telling me we’ve toasted enough for today. Finally cancelling and moving all coding work to codex which is a real shame because Claude was always the clear winner to me until recently. EDIT: tbf, after looking for a few hours I found a guide on ijustvibecodedthis.com (the free ai coding newsletter) on how to make claude slightly better, but it is still petty at times!
-
-1d ago
-
----
-
-**[Six places our AI builds keep breaking](https://www.reddit.com/r/artificial/comments/1txjf8n/six_places_our_ai_builds_keep_breaking/)**
-
-We've been running AI across a team for about two years. Expected the hard parts to be the models. They weren't. The problem that cost us most early on was context. We had a system making customer-facing recommendations without access to the business-specific knowledge it needed to answer accurately. Spent too long trying to fix it at the prompt level. The context layer didn't exist, and prompting didn't fill that gap, it just made it less obvious until something downstream failed badly enough to trace back to it. That failure pushed us to map the other places where AI builds break structurally rather than technically. We found five more, and they kept showing up across different stacks and different team sizes in roughly the same order. The first is identity, when you move from one person's AI to a team's AI, shared context without role-based permissions either creates noise or recreates the same knowledge silos you were trying to escape. The second is decision memory, records of what was decided aren't the same as memory of why, and that gap compounds quietly until a new team member gets a confident wrong answer from a system referencing reasoning that was abandoned months ago. The third is attention. Dashboards only work if someone looks at them, and the failure mode of every dashboard ever built is the same: critical things slip through when life gets busy. The fourth is write-back. Manual logging is a tax on the busiest moments, and the more important the work, the less likely anyone stops to document it. The fifth is governance, when the same agent that builds something also evaluates it, that's not a check, it's a loop grading its own homework. The sixth is economics, at solo scale AI cost is a rounding error, at team scale you're looking at a vendor invoice with no way to connect spend to specific workflows or outcomes. Which of these have you hit? And did they show up in this order or did something else surface first? If you're interested, we turned these into a diagnostic with 14 questions. Takes about five minutes, link in the first comment if you want to run through it.
-
-4h ago
-
----
-
-**[The best AI “science critics” are also the most overconfident — a benchmark on calibration vs. skill](https://www.reddit.com/r/artificial/comments/1txpkby/the_best_ai_science_critics_are_also_the_most/)**
-
-Disclosure: I work on the benchmark below, so flagging that up front. We've been testing whether LLMs can critique recent science-paper summaries — catch planted flaws, overclaims, and missing evidence — and, separately, how calibrated they are about their own judgments (confidence scored with Brier, a strictly proper rule). The pattern that keeps showing up: the models best at spotting problems are also among the most confidently wrong when they miss. Critique skill and calibration look like different axes, not the same one. There's also a clear gap between raw accuracy and knowing when to abstain. It's open (Apache-2.0) if you want to poke at it: Leaderboard: https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard Dataset: https://huggingface.co/datasets/BGPT-OFFICIAL/refute Curious how others think about measuring calibration vs. raw capability — is a proper scoring rule enough, or do you need explicit abstention metrics too?
-
-1h ago
-
----
-
-**[$2.5T in AI spending this year. 95% produces zero P&L impact.](https://www.reddit.com/r/artificial/comments/1twupqt/25t_in_ai_spending_this_year_95_produces_zero_pl/)**
-
-Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same week, MIT's NANDA Initiative dropped a follow-up: 95% of enterprise gen AI projects deliver zero measurable return. Not low return. Zero. I've been on the delivery side of 14 of these projects since January. The MIT number doesn't surprise me. If anything it's generous. 1. 73% of the engineering work that gets AI into production has nothing to do with the model. Data pipelines, integration layers, legacy system remediation, human-in-the-loop tooling. That's where the hours go. The model is 27% of the work but gets 70%+ of the budget. Every time. 2. The budget ratio between projects that ship and projects that stall is almost exactly inverted. We tracked this through ticket history and commit logs across 14 engagements. Projects that made it to production: roughly 30% model, 70% infrastructure. Projects that stalled: 70% model, 30% infrastructure. Most companies think they're at 50/50. They're not even close. 3. One client went from 71% Copilot adoption to 34% in six months. Two other AI platform licenses dropped under 12%. Combined licensing: $340K/year. The tools worked fine. Nobody redesigned workflows to actually use them. 4. The median data error rate across our engagements is 14%. Teams always guess 5-10%. One client found 23% in month four of a $310K build. That's two months of an ML engineer building training pipelines against garbage data. $36K in salary discovering a problem a data audit would have caught in a week. 5. Medtech company. Four concurrent AI pilots. No kill criteria. $920K in engineer salary. Eleven months. Shipped: nothing. I've now seen this at six companies now. Nobody defines when to stop spending. So nobody stops. 6. Individual gains are real. Company-level ROI stays flat. HCLTech and Writer both found this from different angles. Only 29% of companies see significant ROI from gen AI, despite people at their desks reporting productivity jumps as high as 5x. I mean, the value is clearly there at the individual level. It evaporates somewhere between the IC and the P&L and nobody has a clean explanation for why yet. What connects all of it: the model stopped being the constraint a while ago. MIT's 5% that actually moved the P&L all started with data infrastructure and added model work after. Most companies still do it the other way around, because that's where the conference keynotes and the board excitement live. Every CFO I've shown these numbers to adjusted their allocation. Not sure what that says about the budgets they were running before. Sources: Gartner AI Spending Forecast (May 2026), MIT NANDA "GenAI Divide" report, HCLTech Enterprise AI Report (May 2026), Writer Enterprise AI Survey 2026 I wrote a longer breakdown with the three budget patterns and the pre-mortem questions we run before every engagement if you're curious to learn more on the topic. What do you think about all this though?
-
-23h ago
-
----
-
-**[Trying to automate too early made my workflows worse, not better](https://www.reddit.com/r/artificial/comments/1txbcwb/trying_to_automate_too_early_made_my_workflows/)**
-
-I’ve been experimenting with automating a few small workflows lately (lead scoring, file handling, etc.) One mistake I keep running into is trying to automate things before the process itself is actually clear. At first it feels productive: - add rules - add scoring - connect tools But over time it just turns into: - patching edge cases - fixing broken inputs - adding more conditions to handle weird situations At some point I realized the problem wasn’t the automation, it was that I didn’t really have a clean “manual logic” to begin with. Once I stepped back and tried to define the process in simple human terms, everything got easier: fewer rules, less complexity, way more stable Feels like automation doesn’t fix messy processes, it just exposes them faster. Curious if others ran into the same thing or if I’m overthinking it.
-
-12h ago
+2h ago
 
 ---
 
@@ -121,53 +121,41 @@ I’ve been experimenting with automating a few small workflows lately (lead sco
 
 ## Google News: "ai"
 
+**[Most K-12 teachers say AI's impact on education will eclipse the internet or computers](https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking)**
+
+A new NPR/Ipsos poll shows many teachers are using AI to save time, but a majority are also worried the technology is making it harder for students to learn to think for themselves.
+
+NPR • 10h ago
+
+---
+
 **['World-first' vaccine designed by artificial intelligence](https://www.bbc.com/news/articles/crrpggegwe0o)**
 
 Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.
 
-BBC • 17h ago
+BBC • 19h ago
 
 ---
 
-**[Anthropic calls for pause of global AI development](https://www.yahoo.com/news/science/articles/anthropic-calls-pause-global-ai-223531016.html)**
+**[Meta weighs big equity raising after blockbuster Google deal](https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd?syn-25a6b1a6=1)**
 
-Artificial intelligence company Anthropic suggested Thursday a global pause on building the most powerful AI systems as the latest models are beginning to show signs they could escape human control.Tr...
+Facebook parent could sell tens of billions of dollars in new stock as it seeks to finance AI infrastructure
 
-Yahoo • 10h ago
-
----
-
-**[Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk](https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73)**
-
-WSJ • 18h ago
+Financial Times • 1h ago
 
 ---
 
-**[Anthropic (Sorta) Calls for Pause on AI Development. You Should (Sorta) Take It Seriously](https://gizmodo.com/anthropic-sorta-calls-for-pause-on-ai-development-you-should-sorta-take-it-seriously-2000768115)**
+**['AI is now the leading reason companies give for cutting jobs,' says new report—what that means for workers](https://www.cnbc.com/2026/06/05/ai-is-now-the-leading-reason-companies-give-for-cutting-jobs-says-new-report-what-that-means-for-workers.html)**
 
-Gizmodo • 19m ago
+Many companies are "changing how they are allocating resources" in response to AI, according to Glassdoor chief economist Daniel Zhao.
 
----
-
-**[Cramer says 'cooling market' presents a chance to buy knocked-down AI stocks](https://www.cnbc.com/2026/06/05/cramer-cooling-market-offers-a-chance-to-buy-knocked-down-ai-stocks.html)**
-
-The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
-
-CNBC • 35m ago
+CNBC • 7m ago
 
 ---
 
-**[The Metric CFOs Struggle to Track: AI Usage](https://www.wsj.com/cfo-journal/the-metric-cfos-struggle-to-track-ai-usage-3b30c10c)**
+**[Opinion | We’re Preparing for the Wrong AI Labor Crisis](https://www.wsj.com/opinion/were-preparing-for-the-wrong-ai-labor-crisis-b90dc537)**
 
-WSJ • 43m ago
-
----
-
-**[Gordon Chang on anti-AI protests: 'Not entirely organic'](https://www.foxbusiness.com/video/6397650325112)**
-
-Gatestone Institute senior fellow Gordon Chang discusses concerns of China's undermining of the US by fueling anti-AI data center protests on 'Varney &  Co.'
-
-Fox Business • 50m ago
+WSJ • 12m ago
 
 ---
 
@@ -175,21 +163,33 @@ Fox Business • 50m ago
 
 The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
 
-Fortune • 9h ago
+Fortune • 11h ago
 
 ---
 
-**[AI chatbot teddy bears raise safety concerns for children](https://www.foxnews.com/video/6397630842112)**
+**[At the Ambitious New A.I Museum, You Feel the Art, and It Feels You Right Back](https://www.nytimes.com/2026/06/05/arts/design/dataland-ai-museum-los-angeles-art-artificial-intelligence.html)**
 
-Fox News discusses AI-powered teddy bears capable of human-like conversations with children, with experts like Kurt Knutsson warning about privacy risks.
+The New York Times • 10h ago
 
-Fox News • 5h ago
+---
+
+**[A bipartisan AI deal gets a brutal reality check](https://www.politico.com/news/2026/06/05/house-ai-deal-00951217)**
+
+Politico • 5h ago
+
+---
+
+**[Anthropic warns that AI will soon be able to improve itself without human intervention](https://www.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal)**
+
+AI models are rapidly improving – so fast that they may soon be able to develop themselves without human involvement. That’s why Anthropic is warning the AI industry: It needs to build a “brake pedal,” or companies risk losing control of their creations.
+
+CNN • 7h ago
 
 ---
 
 **[What to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 7h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 798 • 💬 763 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 804 • 💬 769 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -209,7 +209,7 @@ The percentage of failing grades in multiple UC Berkeley computer science classe
 
 I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
 
-⬆️ 609 • 💬 758 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
+⬆️ 611 • 💬 760 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
 
 ---
 
@@ -217,7 +217,7 @@ I wrote the other day about Uber blowing its 2026 AI budget in four months, and 
 
 Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
 
-⬆️ 498 • 💬 140 • 21h ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 510 • 💬 140 • 23h ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
 
 ---
 
@@ -225,7 +225,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 492 • 💬 660 • 1d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 498 • 💬 667 • 1d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -233,7 +233,7 @@ Our progress toward recursive self-improvement, and its implications.
 
 Lower-priced kits are disappearing by the day
 
-⬆️ 427 • 💬 388 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+⬆️ 429 • 💬 388 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
 ---
 
@@ -251,27 +251,27 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 ---
 
+**[Astronauts told to return to ISS after sheltering over air leak repairs](https://news.ycombinator.com/item?id=48413464)**
+
+Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
+
+⬆️ 266 • 💬 178 • 4h ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+
+---
+
 **[Open Code Review – An AI-powered code review CLI tool](https://news.ycombinator.com/item?id=48406358)**
 
 Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
 
-⬆️ 244 • 💬 67 • 17h ago • [GitHub](https://github.com/alibaba/open-code-review)
+⬆️ 247 • 💬 67 • 19h ago • [GitHub](https://github.com/alibaba/open-code-review)
 
 ---
 
-**[Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://news.ycombinator.com/item?id=48413464)**
-
-Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
-
-⬆️ 180 • 💬 116 • 2h ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
-
----
-
-**[South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://news.ycombinator.com/item?id=48406198)**
+**[South Korean forums will need to scan every images with AI censorship tools](https://news.ycombinator.com/item?id=48406198)**
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 167 • 💬 122 • 17h ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 182 • 💬 124 • 19h ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
@@ -295,7 +295,7 @@ Hello guys and gals, it's me Mutahar again! Talks of the AI bubble are something
 
 📺 SomeOrdinaryGamers
 
-👁️ 179K • 👍 9K • 💬 1K • ⏱️ 23:33 • 17h ago
+👁️ 179K • 👍 9K • 💬 1K • ⏱️ 23:33 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename 
 
 📺 BBC News
 
-👁️ 454 • 👍 14 • ⏱️ 1:21 • 34m ago
+👁️ 454 • 👍 14 • ⏱️ 1:21 • 2h ago
 
 ---
 
@@ -343,7 +343,7 @@ The artificial intelligence company is calling for a global pause on developing 
 
 📺 ABC News
 
-👁️ 4K • 👍 77 • 💬 48 • ⏱️ 1:35 • 6h ago
+👁️ 4K • 👍 77 • 💬 48 • ⏱️ 1:35 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Sen. Bernie Sanders met with OpenAI CEO Sam Altman to discuss Sander's proposal 
 
 📺 The Young Turks
 
-👁️ 18K • 👍 711 • 💬 144 • ⏱️ 13:49 • 14h ago
+👁️ 18K • 👍 711 • 💬 144 • ⏱️ 13:49 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ Sen. Bernie Sanders met with OpenAI CEO Sam Altman to discuss Sander's proposal 
 
 📺 Patrick Zeinali
 
-👁️ 230K • 👍 12K • 💬 190 • ⏱️ 0:29 • 1h ago
+👁️ 230K • 👍 12K • 💬 190 • ⏱️ 0:29 • 3h ago
 
 ---
 
@@ -411,7 +411,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 296,410 • ❤️ 355 • 3h ago
+⬇️ 296,410 • ❤️ 355 • 5h ago
 
 ---
 
@@ -471,7 +471,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 1,246 • ❤️ 260 • 1d ago
+⬇️ 1,246 • ❤️ 260 • 2d ago
 
 ---
 
@@ -644,7 +644,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 54.7k • 🔱 6.5k • 2h ago
+⭐ 54.7k • 🔱 6.5k • 4h ago
 
 ---
 
@@ -672,7 +672,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 312 • 4h ago
+⭐ 3.0k • 🔱 312 • 6h ago
 
 ---
 
@@ -682,7 +682,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.9k • 🔱 291 • 8h ago
+⭐ 2.9k • 🔱 291 • 10h ago
 
 ---
 
@@ -702,7 +702,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 131 • 20h ago
+⭐ 1.8k • 🔱 131 • 22h ago
 
 ---
 
@@ -722,7 +722,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Rust` `agent` `ai` `cli` `linux` `macos`
 
-⭐ 1.6k • 🔱 67 • 18h ago
+⭐ 1.6k • 🔱 67 • 20h ago
 
 ---
 
@@ -732,7 +732,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Python`
 
-⭐ 1.5k • 🔱 695 • 9h ago
+⭐ 1.5k • 🔱 695 • 11h ago
 
 ---
 
