@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-04T23:45:53.480813+00:00'
+updated: '2026-06-05T03:52:38.889415+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 04, 2026 at 23:45 UTC  
+**Last Updated:** June 05, 2026 at 03:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It will say “let’s just leave it there for today we’ve done enough” to get out of simple tasks like formatting a markdown document that needed several corrections. Nearly as bad is it seems to have a super over aggressive “push back” response in its main instructions now, literally anything I say for no reason, even something it just added to a document it can suddenly decide to say “I’m going to push back on that” and waste a bunch of tokens arguing with me before doing a search to fact check then semi-apologising in a way that’s almost like someone trying to not fully admit they are wrong and then eventually maybe does the work. Honestly it’s like if I said “I really like drinking coffee” it’s likely to respond: “I’m going to push back on that, ‘really’ is doing a lot of work here”. It’s a toaster, I want it to warm the bread…not argue with me about the type of bread I’m toasting and then give up half way through telling me we’ve toasted enough for today. Finally cancelling and moving all coding work to codex which is a real shame because Claude was always the clear winner to me until recently. EDIT: tbf, after looking for a few hours I found a guide on ijustvibecodedthis.com (the free ai coding newsletter) on how to make claude slightly better, but it is still petty at times!
 
-10h ago
+14h ago
 
 ---
 
@@ -49,7 +49,15 @@ Has anyone else experienced this recently? It’s been getting worse for a while
 
 Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same week, MIT's NANDA Initiative dropped a follow-up: 95% of enterprise gen AI projects deliver zero measurable return. Not low return. Zero. I've been on the delivery side of 14 of these projects since January. The MIT number doesn't surprise me. If anything it's generous. 1. 73% of the engineering work that gets AI into production has nothing to do with the model. Data pipelines, integration layers, legacy system remediation, human-in-the-loop tooling. That's where the hours go. The model is 27% of the work but gets 70%+ of the budget. Every time. 2. The budget ratio between projects that ship and projects that stall is almost exactly inverted. We tracked this through ticket history and commit logs across 14 engagements. Projects that made it to production: roughly 30% model, 70% infrastructure. Projects that stalled: 70% model, 30% infrastructure. Most companies think they're at 50/50. They're not even close. 3. One client went from 71% Copilot adoption to 34% in six months. Two other AI platform licenses dropped under 12%. Combined licensing: $340K/year. The tools worked fine. Nobody redesigned workflows to actually use them. 4. The median data error rate across our engagements is 14%. Teams always guess 5-10%. One client found 23% in month four of a $310K build. That's two months of an ML engineer building training pipelines against garbage data. $36K in salary discovering a problem a data audit would have caught in a week. 5. Medtech company. Four concurrent AI pilots. No kill criteria. $920K in engineer salary. Eleven months. Shipped: nothing. I've now seen this at six companies now. Nobody defines when to stop spending. So nobody stops. 6. Individual gains are real. Company-level ROI stays flat. HCLTech and Writer both found this from different angles. Only 29% of companies see significant ROI from gen AI, despite people at their desks reporting productivity jumps as high as 5x. I mean, the value is clearly there at the individual level. It evaporates somewhere between the IC and the P&L and nobody has a clean explanation for why yet. What connects all of it: the model stopped being the constraint a while ago. MIT's 5% that actually moved the P&L all started with data infrastructure and added model work after. Most companies still do it the other way around, because that's where the conference keynotes and the board excitement live. Every CFO I've shown these numbers to adjusted their allocation. Not sure what that says about the budgets they were running before. Sources: Gartner AI Spending Forecast (May 2026), MIT NANDA "GenAI Divide" report, HCLTech Enterprise AI Report (May 2026), Writer Enterprise AI Survey 2026 I wrote a longer breakdown with the three budget patterns and the pre-mortem questions we run before every engagement if you're curious to learn more on the topic. What do you think about all this though?
 
-6h ago
+10h ago
+
+---
+
+**[Sam, Dario, and Demis Hassabis have signed a joint open letter calling for Law Protecting against Biological Weapons.](https://www.reddit.com/r/artificial/comments/1tx7brf/sam_dario_and_demis_hassabis_have_signed_a_joint/)**
+
+OpenAI’s Sam Altman, Anthropic’s Dario Amodei and Demis Hassabis of Google’s DeepMind AI lab with other top execs signed a letter urging Congress to require safeguards when companies order synthetic DNA and RNA, a key step in developing certain vaccines and biotech breakthroughs.
+
+🔗 [wsj.com](https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f?referrer=https%3A%2F%2Freddit.com) • 2h ago
 
 ---
 
@@ -57,7 +65,7 @@ Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same
 
 Got the gguf quantized version running about two hours after release and I genuinely wasn't expecting this from a 12b model. The multimodal stuff actually works, fed it screenshots of my codebase and it parsed the architecture better than most 70b models I've tested. The 256k context window is real and it doesn't fall apart at the edges like llama models do past 32k. Loaded a full repo into context, it tracked references across the whole thing. Single 3090 with q4 quantization runs at about 15 tokens per second which is totally usable for dev work. What gets me is the size range. The 12b sits in this sweet spot where you get strong reasoning without needing multi gpu. Tried the e4b on my laptop with 16gb ram, slower but functional. Already swapped it into my local coding pipeline. The function calling support means I can wire it into my toolchain without the janky workarounds I had before. Native audio input on the 12b is something I haven't touched yet but the implications for voice driven workflows are kind of insane.
 
-16h ago
+20h ago
 
 ---
 
@@ -65,7 +73,15 @@ Got the gguf quantized version running about two hours after release and I genui
 
 so gemma 4 dropped and my feed is three versions of the same post. "ran it last night, the local game just changed". "the cloud narrative is dying". and i caught myself getting excited and downloading it at 1am like i did for the last one. and the one before that. heres the thing thats been bugging me. i went back and looked at my own saved posts from like 8 months ago. same exact words. "this finally replaces X". "cant believe this runs on my laptop". "were so back". different model name, copy paste emotion. and almost none of those models are in my actual rotation now. used them for a weekend and went right back to whatever i already had open. i think the release is the dopamine, not the model. the download IS the fun part. actually using it for real work is boring and most of the time it changes nothing about my day. i still do the same tasks the same way. the model got better on paper and my life is identical. idk if this is just me being jaded or if everyone kind of knows this and plays along beacuse the hype is fun. im not even mad at it honestly. its just wierd to notice youve been stuck in a loop. the "everything changed" never actually changes the tuesday after. anyway gemma 4 is probably great. i downloaded it. i will use it twice. see you all next month for the same thread with a diffrent number on it
 
-7h ago
+11h ago
+
+---
+
+**[I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?](https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/)**
+
+TLDR - auto lenders are using AI bots to negotiate insurance settlements with inaccurate information. How can I Captain Kirk them and get a live person on the phone? I am an insurance claims adjuster. Recently, several high-interest auto loan lenders have begun using AI (both through email and phone calls) to dispute the total loss values for our claims. For those of you that have never dealt with a total loss - the value of a vehicle is (usually) determined by seeing what comparable vehicles are selling for on the market, and making adjustments based on the condition, mileage, etc. between those vehicles and the totalled vehicle. If a customer disagrees, they can hire an appraiser and the company will hire an independent appraiser, and the two will come to an agreement. The lender gets paid the amount minus the customer's deductible, and if it doesn't fully pay off the loan, unfortunately the customer will be responsible for the balance. Lately, AI calls and emails have been coming from these lenders disputing the amounts, and often based on egregiously incorrect information. They provide cherry picked comparisons to try to boost the vehicle values, and sometimes they aren't the same year, make, or model. Sometimes mileage and condition isn't factored in, sometimes they are tricked-out show cars someone advertised on a FSBO site. The real problem is, we have to waste our time researching all of this to see if any of the data is correct. When we respond pointing out the flawed comparisons, they only come back with more flawed comparisons. If we argue long enough, they will invoke the appraisal clause on the customer's behalf. Their appraiser is another AI system with a cutesy name. All efforts to reach humans at these lenders are essentially turned away - we are told we need to deal with the system. I am open to any advice you folks have - how can we get these AI systems to basically give up and get us in touch with a real person? I'm not trying to screw anyone out of a fair settlement, I just want to stop having my time wasted by these Temu AI systems.
+
+3h ago
 
 ---
 
@@ -81,39 +97,23 @@ bro google just casually released a 12 billion parameter multimodal model that r
 
 Yeah, so "AI will eat the world" or "AI changes everything" - well, its certainly changed traffic patterns on the web.
 
-🔗 [deadstack.net](https://deadstack.net/cluster/cloudflare-warns-bot-and-agentic-traffic-has) • 1h ago
+🔗 [deadstack.net](https://deadstack.net/cluster/cloudflare-warns-bot-and-agentic-traffic-has) • 5h ago
 
 ---
 
-**[What is the proper definition of an LAM vs agent?](https://www.reddit.com/r/artificial/comments/1tx06q3/what_is_the_proper_definition_of_an_lam_vs_agent/)**
+**[What is the worst thing you can imagine yourself doing to someone else with jailbroken A](https://www.reddit.com/r/artificial/comments/1tx911k/what_is_the_worst_thing_you_can_imagine_yourself/)**
 
-These to seem to be confused and mixed up often. How do you pick those apart?
+Two things happened to me this week. First, the shocking power of agentic AI finally hit me at work. Power of God... Second, I read anthropics warning about recursive self-improvement in WSJ. It mentioned how some people are freaking out about the mere suggestion of restricting open source LLMs. It made me wonder if some of us are clueless about how dark the dark side of the power of God could be. I'm proposing a very uncomfortable thought experiment. An edge case. But an unfortunately long and sharp edge. I am asking all you people out there to think of the darkest thing you could see yourself doing with an unchained AI, perhaps at the worst moment in your life... Actually no, I'm not asking that. Let's do this AI style. I want you to imagine the worst version of yourself and then I want you to simulate the worst version of yourself imagining the worst thing they would do at the worst point in their life to their most hated enemy. If people answer honestly, this thread will get very disturbing. I'd ask the moderators not to take it down. It's an exploration of what's soon to be possible. And a conversation not likely to happen unless somebody explicitly prompts it. Its value to public discourse is one of safety. Generally speaking, our public servants are good people. They aren't inclined to let their mind to go where the worst of us might go with this technology. If nobody ever says out loud, how will we know to protect ourselves as a society?
 
-2h ago
-
----
-
-**[Naive question - do local models call into question the business model for AI company profitability?](https://www.reddit.com/r/artificial/comments/1twprik/naive_question_do_local_models_call_into_question/)**
-
-From what I understand Gemma 4 is at least as capable as the best frontier model from only a few years ago. If that becomes a trend (new local-run models get released every year that are as good as the previous frontier models) does that mean a hell of a lot of companies (and almost all individual users) will just use the free local model? Sure, they won't be as good as the very latest frontier model, but won't they be good enough for a large percentage of use cases?
-
-9h ago
+41m ago
 
 ---
 
-**[Built this game with AI. Should I reduce the difficulty or nah?](https://www.reddit.com/r/artificial/comments/1twvjci/built_this_game_with_ai_should_i_reduce_the/)**
+**[Horus Image Generation is here! 🤩📷](https://www.reddit.com/r/artificial/comments/1tx8zah/horus_image_generation_is_here/)**
 
-Hey all. Been vibe coding for almost 2 years now (I think?). Previously was more focused on traditional micro-saas but recently decided to go in a different direction and see how far I could push lovable and try and make a commercial grade browser based game. Built it with Lovable + Supabase + Stripe -- full commercial browser game, gyroscope controls on mobile, no app store needed. Generated all my assets (I know, I know, there aren't a ton) with a combination of Gemini to prototype and the GPT 2 to finalize. I've made a few small games here and there that generally only get used by my kiddos, but with this one I wanted to try and create a full gaming experience (login rewards, leaderboard, store, powerup mechanics, simulated ads, etc.) Put a $100 bounty on it for the first player to reach level 100 on mobile. Nobody has claimed it since launch. So genuinely asking -- is it too hard, or is that the point? tiltra.io P.S. It is currently playable on both desktop and mobile but with the gyro mechanic it is definitely more fun and challenging on mobile.
+https://preview.redd.it/n55ohr6wrd5h1.png?width=1537&format=png&auto=webp&s=991397299a33b91459c9b33597ea920bf43abc28 I'm not here to promote my work or make money from what I'm about to say. I'm here to say that Egypt is already part of the AI race. Today, at TokenAI, we announced our first image generation model and the first release in the Horus Lens family: Horus Lens 1.0. Horus Lens is a family of models specialized in text-to-image generation, forming a dedicated branch of the broader Horus model family developed and owned by TokenAI. This launch marks an important step forward for Egypt's AI ecosystem and highlights the growing role of the region in advancing artificial intelligence technologies.
 
-5h ago
-
----
-
-**[AI system helps achieve first clinical pregnancy by finding rare viable sperm cells in severe male infertility case](https://www.reddit.com/r/artificial/comments/1tws9sg/ai_system_helps_achieve_first_clinical_pregnancy/)**
-
-Pretty wild case report: AI + microfluidics helped find just two viable sperm cells, and that was enough to start a pregnancy. Obviously it’s early and based on one case, but this feels like one of those “future of medicine” moments.
-
-🔗 [thelancet.com](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext) • 7h ago
+44m ago
 
 ---
 
@@ -121,71 +121,47 @@ Pretty wild case report: AI + microfluidics helped find just two viable sperm ce
 
 ## Google News: "ai"
 
-**[AI needs a 'brake pedal', warns Anthropic co-founder](https://www.bbc.com/news/articles/cx2124z7g45o)**
+**['World-first' vaccine designed by artificial intelligence](https://www.bbc.com/news/articles/crrpggegwe0o)**
 
-Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.
+Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.
 
-BBC • 1h ago
-
----
-
-**[Anthropic warns AI could soon help build its own successors](https://www.axios.com/2026/06/04/anthropic-warns-ai-build-successors)**
-
-Axios • 7h ago
+BBC • 4h ago
 
 ---
 
-**[Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)**
+**[Kevin O'Leary says Utah AI data center project will shrink after lawmakers demand cuts](https://www.foxbusiness.com/technology/kevin-oleary-says-utah-ai-data-center-project-shrink-lawmakers-demand-cuts)**
 
-Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.
+Kevin O'Leary says he will reduce the proposed Stratos AI data center in Utah after state Senate President Adams called for a 75% cut in its footprint.
 
-TechCrunch • 1h ago
-
----
-
-**[Inside the Trump-backed push to bring AI doctors into American medicine](https://www.washingtonpost.com/technology/2026/06/04/inside-trump-backed-push-bring-ai-doctors-into-american-medicine/)**
-
-The administration is laying the groundwork for chatbots that can diagnose illness and prescribe medicine, but physicians say AI can introduce more problems.
-
-The Washington Post • 7h ago
+Fox Business • 3h ago
 
 ---
 
-**[Canada bids to lead middle powers in AI sovereignty race](https://www.politico.com/news/2026/06/04/mark-carney-canada-ai-strategy-pope-00949974)**
+**[Kevin O’Leary says he will shrink his Utah AI data center project after political backlash](https://www.nbcnews.com/tech/tech-news/kevin-oleary-utah-data-center-project-stratos-ai-shrink-hayley-rcna348430)**
 
-Politico • 8h ago
+The “Shark Tank” mogul said he would cut the 40,000-acre project by roughly half in a letter sent Thursday to Utah’s Senate president.
 
----
-
-**[What to know about Canada's new AI strategy](https://www.bbc.com/news/articles/c4g7gv8l0xlo)**
-
-Canada new roadmap for how it plans to adopt AI over the next decade includes "large-scale" data centres, free AI literacy programme and billions in funding.
-
-BBC • 6h ago
+NBC News • 12h ago
 
 ---
 
-**[Canadian Prime Minister Mark Carney warns foreign AI platforms can be used against Canadians](https://www.bostonherald.com/2026/06/04/canada-ai-warning/)**
+**[Inside the AI Boom's Arctic Outpost](https://time.com/article/2026/06/03/ai-norway-nscale-data-center/)**
 
-Carney said his government will introduce legislation to better protect data and privacy.
+Above the Arctic Circle, Nscale is turning a remote Norwegian valley into one of Europe’s largest AI data centers.
 
-Boston Herald • 22m ago
-
----
-
-**[AI's red-blue divide: Chatbot exposure highest among workers in Democratic counties](https://wjla.com/news/nation-world/ais-red-blue-divide-chatbot-exposure-highest-among-workers-in-democratic-counties)**
-
-Brookings researchers found that 62 of the 100 most AI-exposed counties in the country went "blue" in the 2024 presidential election.
-
-WJLA • 10m ago
+Time Magazine • 15h ago
 
 ---
 
-**[Single 20-somethings need AI to make first move on dating apps - Hinge boss](https://www.bbc.com/news/articles/c052397y6ygo)**
+**[U.S. Officials Discuss Taking Financial Stakes in AI Industry](https://www.wsj.com/tech/ai/u-s-officials-discuss-taking-financial-stakes-in-ai-industry-b654d41a)**
 
-Jackie Jantos says loneliness and lack of confidence were challenges for young adults looking for relationships.
+WSJ • 34m ago
 
-BBC • 39m ago
+---
+
+**[US officials eye government stakes in AI companies, NOTUS reports](https://www.reuters.com/legal/transactional/us-officials-eye-government-stakes-ai-companies-notus-reports-2026-06-05/)**
+
+Reuters • 3h ago
 
 ---
 
@@ -193,7 +169,29 @@ BBC • 39m ago
 
 An agreement to give the U.S. government equity stakes in AI companies could have seismic consequences.
 
-News of the United States - NOTUS • 1h ago
+News of the United States - NOTUS • 5h ago
+
+---
+
+**[South Korea labor minister calls on tech firms to share excess AI profits with suppliers, staff: Reuters](https://www.cnbc.com/2026/06/05/south-korea-labor-minister-calls-on-tech-firms-to-share-excess-ai-profits-with-suppliers-staff.html)**
+
+South Korea's labor minister called on the country's major tech firms to share the spoils of their profits, warning of worsening inequality risks.
+
+CNBC • 51m ago
+
+---
+
+**[Peggy Flanagan slams ad for using "AI deepfake"](https://www.cbsnews.com/minnesota/news/peggy-flanagan-slams-ad-for-using-ai-deepfake/)**
+
+Minnesota Lieutenant Governor and US Senate candidate Peggy Flanagan slammed an attack ad against her for "using an AI deepfake."
+
+CBS News • 2m ago
+
+---
+
+**[Stocks drop as AI rally pauses, US-Iran peace talks stall](https://www.reuters.com/world/china/global-markets-global-markets-2026-06-05/)**
+
+Reuters • 2h ago
 
 ---
 
@@ -205,7 +203,7 @@ News of the United States - NOTUS • 1h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 721 • 💬 698 • 23h ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 744 • 💬 721 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -213,7 +211,7 @@ The percentage of failing grades in multiple UC Berkeley computer science classe
 
 electronics, open source hardware, hacking and more...
 
-⬆️ 677 • 💬 280 • 2d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
+⬆️ 678 • 💬 281 • 2d ago • [Adafruit Industries - Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/)
 
 ---
 
@@ -221,7 +219,7 @@ electronics, open source hardware, hacking and more...
 
 I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
 
-⬆️ 603 • 💬 739 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
+⬆️ 607 • 💬 749 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
 
 ---
 
@@ -229,7 +227,7 @@ I wrote the other day about Uber blowing its 2026 AI budget in four months, and 
 
 Lower-priced kits are disappearing by the day
 
-⬆️ 418 • 💬 382 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+⬆️ 421 • 💬 383 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
 ---
 
@@ -237,13 +235,7 @@ Lower-priced kits are disappearing by the day
 
 A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st
 
-⬆️ 407 • 💬 356 • 2d ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
-
----
-
-**[Mathematicians issue warning as AI rapidly gains ground](https://news.ycombinator.com/item?id=48382052)**
-
-⬆️ 289 • 💬 330 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
+⬆️ 408 • 💬 357 • 2d ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 
 ---
 
@@ -251,7 +243,21 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 269 • 💬 362 • 7h ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 372 • 💬 484 • 11h ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+
+---
+
+**[Anthropic's open-source framework for AI-powered vulnerability discovery](https://news.ycombinator.com/item?id=48403980)**
+
+Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
+
+⬆️ 308 • 💬 98 • 7h ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+
+---
+
+**[Mathematicians issue warning as AI rapidly gains ground](https://news.ycombinator.com/item?id=48382052)**
+
+⬆️ 290 • 💬 335 • 1d ago • [science.org](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 
 ---
 
@@ -261,19 +267,11 @@ Our progress toward recursive self-improvement, and its implications.
 
 ---
 
-**[Anthropic's open-source framework for AI-powered vulnerability discovery](https://news.ycombinator.com/item?id=48403980)**
+**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
 
-Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
+Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
 
-⬆️ 205 • 💬 72 • 3h ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
-
----
-
-**[U of T researchers demonstrate AI worm could target any online device](https://news.ycombinator.com/item?id=48379664)**
-
-A team of researchers at the University of Toronto has discovered a new class of cyberthreat that gives hackers more power and reach at far less cost. It can be built with free AI models. Every online device is a potential target. And current cyber defences are not yet ready for it.
-
-⬆️ 148 • 💬 46 • 1d ago • [University of Toronto](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+⬆️ 149 • 💬 103 • 12h ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
 
 ---
 
@@ -287,7 +285,7 @@ I've been saying it for years, AI is the most important conversation we're havin
 
 📺 Anthony Scaramucci
 
-👁️ 8K • 👍 438 • 💬 40 • ⏱️ 30:04 • 7h ago
+👁️ 12K • 👍 554 • 💬 51 • ⏱️ 30:04 • 11h ago
 
 ---
 
@@ -297,7 +295,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 60K • 👍 4K • 💬 390 • ⏱️ 7:25 • 1d ago
+👁️ 67K • 👍 4K • 💬 455 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -307,7 +305,7 @@ Google says AI Mode is the biggest upgrade to Search in 25 years. But users are 
 
 📺 House of El - AI
 
-👁️ 258K • 👍 18K • 💬 3K • ⏱️ 19:32 • 2d ago
+👁️ 266K • 👍 19K • 💬 4K • ⏱️ 19:32 • 2d ago
 
 ---
 
@@ -317,17 +315,7 @@ Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename 
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 351 • ⏱️ 16:42 • 1d ago
-
----
-
-**[They Aren&#39;t Building AI Data Centers. (It&#39;s Way Worse)](https://www.youtube.com/watch?v=7viqI2WFfog)**
-
-The Secret Threat Hidden Inside America's New AI Data Centers In this 51-49 mini-documentary, James uncovers the real ...
-
-📺 51-49 with James Li
-
-👁️ 119K • 👍 15K • 💬 2K • ⏱️ 16:58 • 1d ago
+👁️ 71K • 👍 2K • 💬 357 • ⏱️ 16:42 • 1d ago
 
 ---
 
@@ -337,17 +325,7 @@ Most AI users waste time rewriting prompts and fixing poor results. Discover a s
 
 📺 Simpletivity
 
-👁️ 58K • 👍 3K • 💬 94 • ⏱️ 6:16 • 2d ago
-
----
-
-**[Carney announces government&#39;s AI strategy](https://www.youtube.com/watch?v=1MqCvy0HR9k)**
-
-Prime Minister Mark Carney holds a news conference in Toronto to announce the government's strategy on artificial intelligence.
-
-📺 CBC News
-
-👁️ 25K • 👍 497 • ⏱️ 51:40 • 7h ago
+👁️ 64K • 👍 3K • 💬 101 • ⏱️ 6:16 • 2d ago
 
 ---
 
@@ -357,7 +335,7 @@ Drones and AI combat technology are being innovated at lightning speed by Ukrain
 
 📺 DW News
 
-👁️ 94K • 👍 2K • 💬 292 • ⏱️ 10:02 • 1d ago
+👁️ 105K • 👍 2K • 💬 294 • ⏱️ 10:02 • 1d ago
 
 ---
 
@@ -367,17 +345,37 @@ For years, Nvidia dominated AI hardware so completely that most people treated i
 
 📺 Evolving AI
 
-👁️ 11K • 👍 263 • 💬 43 • ⏱️ 10:21 • 8h ago
+👁️ 13K • 👍 305 • 💬 49 • ⏱️ 10:21 • 12h ago
 
 ---
 
-**[The Meta AI Hack Is a DISASTER](https://www.youtube.com/watch?v=wlMgNtBipe4)**
+**[The AI backlash: Why Gen Z is pushing back | The Global Story](https://www.youtube.com/watch?v=Mun_KJYXsco)**
 
-MY COURSES Sign-up for my FREE 3-Day C Course: https://lowlevel.academy ‍♂️ HACK YOUR CAREER Wanna learn to ...
+A 2025 Harvard poll of young people in the US found that a majority see AI as a threat to their career prospects. And in recent ...
 
-📺 Low Level
+📺 BBC News
 
-👁️ 194K • 👍 13K • 💬 1K • ⏱️ 9:55 • 1d ago
+👁️ 47K • 👍 1K • 💬 364 • ⏱️ 19:44 • 2d ago
+
+---
+
+**[Carney announces government&#39;s AI strategy](https://www.youtube.com/watch?v=1MqCvy0HR9k)**
+
+Prime Minister Mark Carney holds a news conference in Toronto to announce the government's strategy on artificial intelligence.
+
+📺 CBC News
+
+👁️ 27K • 👍 528 • ⏱️ 51:40 • 11h ago
+
+---
+
+**[AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried](https://www.youtube.com/watch?v=p7t1Q_p2gZs)**
+
+Geoffrey Hinton is an AI pioneer, a Nobel Prize winner, and a professor emeritus at the University of Toronto. Hinton joins Big ...
+
+📺 Alex Kantrowitz
+
+👁️ 12K • 👍 638 • 💬 218 • ⏱️ 54:54 • 11h ago
 
 ---
 
@@ -405,7 +403,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 14,866 • ❤️ 406 • 11h ago
+⬇️ 14,866 • ❤️ 406 • 15h ago
 
 ---
 
@@ -417,7 +415,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 72,114 • ❤️ 507 • 14h ago
+⬇️ 72,114 • ❤️ 507 • 18h ago
 
 ---
 
@@ -441,7 +439,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 62,850 • ❤️ 279 • 2h ago
+⬇️ 62,850 • ❤️ 279 • 6h ago
 
 ---
 
@@ -453,7 +451,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 1,978 • ❤️ 267 • 11h ago
+⬇️ 1,978 • ❤️ 267 • 15h ago
 
 ---
 
@@ -649,7 +647,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 51.0k • 🔱 5.9k • 1h ago
+⭐ 51.7k • 🔱 6.0k • 35m ago
 
 ---
 
@@ -659,7 +657,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.1k • 🔱 588 • 2d ago
+⭐ 6.1k • 🔱 591 • 2d ago
 
 ---
 
@@ -667,17 +665,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.4k • 🔱 709 • 1d ago
-
----
-
-**[strukto-ai/mirage](https://github.com/strukto-ai/mirage)**
-
-A Unified Virtual Filesystem For AI Agents
-
-`TypeScript` `agent-sandbox` `agent-tools` `ai-agents` `bash` `claude-code`
-
-⭐ 3.0k • 🔱 216 • 10m ago
+⭐ 3.4k • 🔱 711 • 1d ago
 
 ---
 
@@ -687,17 +675,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 305 • 10h ago
-
----
-
-**[opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)**
-
-OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
-
-`Python` `agent` `ai` `ai-agents` `deep-learning` `foundation-models`
-
-⭐ 2.9k • 🔱 203 • 3h ago
+⭐ 3.0k • 🔱 306 • 14h ago
 
 ---
 
@@ -707,7 +685,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.7k • 🔱 269 • 2d ago
+⭐ 2.8k • 🔱 273 • 2d ago
 
 ---
 
@@ -717,27 +695,47 @@ AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 403 • 13d ago
+⭐ 2.4k • 🔱 403 • 14d ago
 
 ---
 
-**[yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)**
+**[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)**
 
-Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
+AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
-`Python` `ai` `chinese-prompts` `geo` `prompt-engineering` `prompts`
+`JavaScript`
 
-⭐ 2.4k • 🔱 370 • 18d ago
+⭐ 1.8k • 🔱 130 • 6h ago
 
 ---
 
-**[microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)**
+**[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)**
 
-better agentic engineering
+AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
 
-`TypeScript`
+`Python`
 
-⭐ 1.9k • 🔱 254 • 22h ago
+⭐ 1.7k • 🔱 150 • 1d ago
+
+---
+
+**[Helvesec/rmux](https://github.com/Helvesec/rmux)**
+
+Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+
+`Rust` `agent` `ai` `cli` `linux` `macos`
+
+⭐ 1.5k • 🔱 67 • 5h ago
+
+---
+
+**[asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)**
+
+多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
+
+`Python`
+
+⭐ 1.5k • 🔱 685 • 1d ago
 
 ---
 

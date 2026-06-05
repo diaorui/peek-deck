@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-04T23:45:53.498563+00:00'
+updated: '2026-06-05T03:52:38.907410+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 04, 2026 at 23:45 UTC  
+**Last Updated:** June 05, 2026 at 03:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Kevin Wood | Robotics & AI on 𝕏: https://x.com/KWRoboticsAI/status/2061764713290047713 Official Wuji Hand 2 post (June 1): https://x.com/wuji_global/status/2061456465764987085 ICRA2026: the 2026 IEEE International Conference on Robotics and Automation - June 1–5, 2026 in Vienna, Austria: https://2026.ieee-icra.org/
 
-14h ago
-
----
-
-**[I built an open-source Gazebo tool where the ground looks real and behaves real: photorealistic environments coupled with wheel-soil terramechanics, for sim-to-real](https://www.reddit.com/r/robotics/comments/1twojg8/i_built_an_opensource_gazebo_tool_where_the/)**
-
-9h ago
+18h ago
 
 ---
 
 **[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
 
-3h ago
+8h ago
+
+---
+
+**[I built an open-source Gazebo tool where the ground looks real and behaves real: photorealistic environments coupled with wheel-soil terramechanics, for sim-to-real](https://www.reddit.com/r/robotics/comments/1twojg8/i_built_an_opensource_gazebo_tool_where_the/)**
+
+13h ago
 
 ---
 
@@ -56,13 +56,13 @@ From Kevin Wood | Robotics & AI on 𝕏: https://x.com/KWRoboticsAI/status/20617
 
 Hey everyone, I've been building an Asimov-based humanoid robot in my garage and just finished machining and assembling the ankle and shin. Most of the parts are CNC machined aluminum, with some 3D SLS printed components. My goal is to see how far a small builder can get without a huge budget or a team of engineers. I'm documenting the entire process, including the mistakes, redesigns, machining, and assembly work. Still a long way to go before I have a walking humanoid, but it's finally starting to look like a robot instead of a pile of aluminium I'd love feedback from anyone who's built humanoids, quadrupeds, or other legged robots. What are the biggest mistakes you made early on that you'd avoid if you started again? Build video: https://youtu.be/a4vX0B_dGQ0 A few things I'm still figuring out: Backlash and joint stiffness Cable routing through the leg Impact resistance during falls Maintaining low weight while keeping rigidity Happy to answer any questions about the design or manufacturing process.
 
-6h ago
+11h ago
 
 ---
 
-**[laser works and point on yolo targets and measure the distanz](https://www.reddit.com/r/robotics/comments/1twljib/laser_works_and_point_on_yolo_targets_and_measure/)**
+**[Robotics in Belgium meetups are back — ROBIB returns 24 June in Brussels](https://www.reddit.com/r/robotics/comments/1tx5bbq/robotics_in_belgium_meetups_are_back_robib/)**
 
-11h ago
+3h ago
 
 ---
 
@@ -70,15 +70,13 @@ Hey everyone, I've been building an Asimov-based humanoid robot in my garage and
 
 Here is my Xiaomi LDS02RR capturing data live using my Raspberry Pi 5. I'm using my lds2d Python library (pip install lds2d). LDSO2RR connects to the RPi's serial port available on its header. Also, I'm using one of RPi's GPIO as PWM to control LDS02RR motor speed. Source https://github.com/kaiaai/lds2d
 
-20h ago
+1d ago
 
 ---
 
-**[Raspberry Pi 5 fails to boot.](https://www.reddit.com/r/robotics/comments/1tx3gsl/raspberry_pi_5_fails_to_boot/)**
+**[laser works and point on yolo targets and measure the distanz](https://www.reddit.com/r/robotics/comments/1twljib/laser_works_and_point_on_yolo_targets_and_measure/)**
 
-Hello everyone, I am using Raspberry Pi 5 (64 bit) and Ubuntu 24.04 LTS for some time. Yesterday, I installed a heat sink and a cooler fan on it . But now the Raspi fails to boot. I have tried the bootloader thing with imager software and also flashing the sd card again and again. What I have observed: 3 long 3 short blinks with SD card and also without SD card. According to the convention, the 3 long and 3 short blinks means I2C error. I concluded that its a hardware issue , cannot be fixed with software and the board needs to be replaced now. Am I right or wrong? What should I do ? I don't have spare Raspi and neither enough money to buy a new one. Help me out please. Also , please tell me what could be the reason behind this damage. Also the heat sink isn't the reason right ? The board worked before ( some weeks before heat sink ) and not after heat sink installation. Thanks. Please help
-
-45m ago
+15h ago
 
 ---
 
@@ -86,7 +84,7 @@ Hello everyone, I am using Raspberry Pi 5 (64 bit) and Ubuntu 24.04 LTS for some
 
 We are a team of clinicians (internists and surgeons), nurses, and ML engineers. We want to contribute to the opensource community by creating a dataset that would help advance medical robotics. So my first question is: is recorded human data still relevant and of high impact? Or would we need to do it with a robot hand or gripper? We are considering recording structured human-demonstration videos performing common medical hand–object tasks, such as handling instruments, preparing trays, manipulating tubes/syringes/gauze, and following sterile/non-sterile workflow rules, with annotations like hand/object segmentation, action steps, contact points, errors, and safety/protocol labels. Would this kind of dataset be useful for medical robotics research, or would it only become valuable if we also include robot/gripper demonstrations? My second question is: from the perspective of robotics developers, engineers, and researchers, what types of datasets would actually be useful for you and the wider community? Are there specific medical workflows, annotations, sensor modalities, or demonstration formats that you think would be most valuable for us to build? All data will be done as simulations by the team, i mean no real patient data will be recorded. We would use mannequins and volunteers from the team.
 
-12h ago
+16h ago
 
 ---
 
@@ -102,7 +100,7 @@ From Michael Cho - Rbt/Acc on 𝕏: https://x.com/micoolcho/status/2062100333254
 
 Andromeda is looking to scale Abi, its age-tech robot, from dozens of current assisted-living deployments to potentially thousands over the next two years. The company started with deployments mostly in Australia and has since moved more of its operations to San Francisco after raising a Series A. The scaling challenge now appears to be less about whether there is demand and more about whether the company can manufacture, support, and deploy the robots at a much larger level.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/andromeda-robotics-next-chapter) • 10h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/andromeda-robotics-next-chapter) • 14h ago
 
 ---
 
@@ -112,7 +110,25 @@ Andromeda is looking to scale Abi, its age-tech robot, from dozens of current as
 
 **[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 15h ago
+
+---
+
+**[Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.](https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/)**
+
+The California startup released the fourth-generation of its home assistance robot, Stretch.
+
+TechCrunch • 12h ago
+
+---
+
+**[Robots, supply strain: five hot topics at Computex](https://uk.finance.yahoo.com/news/robots-supply-strain-five-hot-092132492.html)**
+
+From laptops designed for the artificial intelligence era to advances in robotics and sky-high tech shares, here are five hot topics at Taipei's huge Computex trade show:
+- Call my agent!- Stock boom -
+Red-hot share prices for AI-related companies have made many tech investors very rich, very quickly.
+
+Yahoo Finance UK • 1d ago
 
 ---
 
@@ -120,7 +136,7 @@ Bloomberg.com • 11h ago
 
 The new Proteus and additional robotics expansions in Europe are designed to support employees by taking on physically strenuous tasks.
 
-About Amazon • 14h ago
+About Amazon • 18h ago
 
 ---
 
@@ -132,19 +148,17 @@ CNBC • 1d ago
 
 ---
 
+**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
+
+South China Morning Post • 14h ago
+
+---
+
 **[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
 
-Ars Technica • 1h ago
-
----
-
-**[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
-
-Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
-
-Fox Business • 1d ago
+Ars Technica • 5h ago
 
 ---
 
@@ -160,29 +174,15 @@ Defense One • 2d ago
 
 Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
 
-The Jerusalem Post • 5h ago
+The Jerusalem Post • 9h ago
 
 ---
 
-**[Is OpenAI coming for Tesla's robotics business?](https://finance.yahoo.com/video/openai-coming-teslas-robotics-business-120000710.html)**
+**[Sen. Dave McCormick and Colorado Democrat introduce national robotics commission](https://www.post-gazette.com/business/tech-news/2026/06/03/mccormick-and-colorado-democrat-introduce/stories/202606030071)**
 
-OpenAI (OPAI.PVT) recently announced it is returning to the robotics business, potentially rivaling Tesla's (TSLA) Optimus robot. Barron's associate editor Al Root discusses the dynamics of the competition in the video above.
+Robotics are taking center stage in discussions of national security, which is why U.S. Senators Dave McCormick, R-Pa., and John Hickenlooper, D-Co., introduced...
 
-Yahoo Finance • 11h ago
-
----
-
-**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
-
-South China Morning Post • 10h ago
-
----
-
-**[Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.](https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/)**
-
-The California startup released the fourth-generation of its home assistance robot, Stretch.
-
-TechCrunch • 8h ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -196,27 +196,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 1.6M • 👍 31K • 💬 3K • ⏱️ 6:01 • 2d ago
-
----
-
-**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
-
-Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
-
-📺 Talent Recap
-
-👁️ 327K • 👍 6K • 💬 470 • ⏱️ 5:01 • 2d ago
-
----
-
-**[Testing the Robotic Arm Virtually #robot #robotics #maker #raspberrypi #ros2 #ubuntu #python #tech](https://www.youtube.com/watch?v=YXGOPlh6DeE)**
-
-Testing the robot code on the real hardware every time can be very inefficient. In this video, I show how I use a Ubuntu virtual ...
-
-📺 Kitajima
-
-👁️ 1K • 👍 16 • ⏱️ 0:29 • 7h ago
+👁️ 1.8M • 👍 33K • 💬 4K • ⏱️ 6:01 • 2d ago
 
 ---
 
@@ -226,7 +206,15 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 126K • 👍 4K • 💬 545 • ⏱️ 29:20 • 5d ago
+👁️ 128K • 👍 4K • 💬 551 • ⏱️ 29:20 • 5d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=XBvltdL73mw)**
+
+📺 Robot Julie 
+
+👁️ 17K • 👍 49 • ⏱️ 0:22 • 2d ago
 
 ---
 
@@ -236,7 +224,7 @@ Deep Robotics has unveiled new upgrades for its DR02 humanoid robot, giving it i
 
 📺 DPCcars
 
-👁️ 40K • 👍 140 • 💬 40 • ⏱️ 2:07 • 2d ago
+👁️ 42K • 👍 145 • 💬 41 • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -250,11 +238,13 @@ Scientists Turned Dead Spiders Into Tiny Robotic Grippers Using Their Natural Hy
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=XBvltdL73mw)**
+**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
 
-📺 Robot Julie 
+Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
 
-👁️ 17K • 👍 49 • ⏱️ 0:22 • 1d ago
+📺 Farzad
+
+👁️ 166K • 👍 7K • 💬 706 • ⏱️ 23:36 • 3d ago
 
 ---
 
@@ -264,17 +254,7 @@ A multi-million dollar naval mine neutralized in seconds. This is the final, pre
 
 📺  Flap Factory
 
-👁️ 588 • 👍 9 • ⏱️ 0:50 • 3h ago
-
----
-
-**[HARPY is mega UNDERESTIMATED in War Robots](https://www.youtube.com/watch?v=Vsgs1OVKayg)**
-
-War Robots Gameplay: The HARPY can do more than people expect My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 575 • 💬 124 • ⏱️ 17:38 • 2d ago
+👁️ 893 • 👍 14 • ⏱️ 0:50 • 7h ago
 
 ---
 
@@ -284,7 +264,27 @@ If you've ever worked on your feet all day, you know how important a good pair o
 
 📺 Boston Dynamics
 
-👁️ 44K • 👍 2K • 💬 124 • ⏱️ 1:22 • 2d ago
+👁️ 45K • 👍 2K • 💬 123 • ⏱️ 1:22 • 2d ago
+
+---
+
+**[This robot was built to detect skin cancer 👀 #trendingshorts #technology #ai #robot](https://www.youtube.com/watch?v=-whuDUaiGrs)**
+
+Paris-based startup SquareMind has raised $18 million to launch Swan, the world's first robot designed to capture standardized, ...
+
+📺 Rowan Cheung
+
+👁️ 47K • 👍 2K • 💬 40 • ⏱️ 1:06 • 2d ago
+
+---
+
+**[From Bag to Hopper😎 #depalletizing #automation #plastic #robotics #robot](https://www.youtube.com/watch?v=QWZrSzdxJtc)**
+
+Transform your material feeding process with our automatic depalletizing and unpacking robot. In this video, the column-type ...
+
+📺 Beiyuan Palletizing Robot by Lau
+
+👁️ 4K • 👍 25 • 💬 1 • ⏱️ 0:16 • 8h ago
 
 ---
 
