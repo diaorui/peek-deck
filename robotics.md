@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-05T21:08:12.993828+00:00'
+updated: '2026-06-05T22:42:32.103660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 05, 2026 at 21:08 UTC  
+**Last Updated:** June 05, 2026 at 22:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,7 @@ Robotics research and industry news
 
 **[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
 
-14h ago
-
----
-
-**[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
-
-6h ago
+15h ago
 
 ---
 
@@ -48,7 +42,13 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-58m ago
+2h ago
+
+---
+
+**[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
+
+8h ago
 
 ---
 
@@ -56,23 +56,7 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
 
-4h ago
-
----
-
-**[Autonomous Exploring Rover with VSLAM](https://www.reddit.com/r/robotics/comments/1txi5ur/autonomous_exploring_rover_with_vslam/)**
-
-I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
-
-9h ago
-
----
-
-**[I'm looking to join/form a team working on physical AI robotics challenge](https://www.reddit.com/r/robotics/comments/1txmrm4/im_looking_to_joinform_a_team_working_on_physical/)**
-
-Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
-
-6h ago
+5h ago
 
 ---
 
@@ -80,13 +64,29 @@ Hey all, I'm a robotics engineer by training turned ML/AI engineer because of pa
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 9h ago
+🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 11h ago
+
+---
+
+**[Autonomous Exploring Rover with VSLAM](https://www.reddit.com/r/robotics/comments/1txi5ur/autonomous_exploring_rover_with_vslam/)**
+
+I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
+
+11h ago
+
+---
+
+**[I'm looking to join/form a team working on physical AI robotics challenge](https://www.reddit.com/r/robotics/comments/1txmrm4/im_looking_to_joinform_a_team_working_on_physical/)**
+
+Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
+
+8h ago
 
 ---
 
 **[Building a Custom Drones MuJoCo Environment](https://www.reddit.com/r/robotics/comments/1txuz3l/building_a_custom_drones_mujoco_environment/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just came across this turn key modular consumer robotic arm that offers hardware and software integration all in one package. Question: Does anything like this exists for industrial application under $5k, each module made out of stainless steel or aluminum and comes with easy to use software integration (machine vision etc)?
 
-3h ago
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ Just came across this turn key modular consumer robotic arm that offers hardware
 
 **[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
-Reuters • 12h ago
+Reuters • 14h ago
 
 ---
 
@@ -126,7 +126,7 @@ About Amazon • 1d ago
 
 Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -134,7 +134,7 @@ NPR • 12h ago
 
 Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 16h ago
 
 "Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-CNBC • 6h ago
+CNBC • 8h ago
 
 ---
 
@@ -154,14 +154,6 @@ CNBC • 2d ago
 
 ---
 
-**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
-
-Robot demonstrations can distort public perceptions of robotic capabilities.
-
-Ars Technica • 22h ago
-
----
-
 **[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
 
 Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
@@ -170,17 +162,25 @@ Fox Business • 2d ago
 
 ---
 
-**[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
+**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
-Bloomberg.com • 3h ago
+Robot demonstrations can distort public perceptions of robotic capabilities.
+
+Ars Technica • 1d ago
 
 ---
 
-**[Sen. Dave McCormick and Colorado Democrat introduce national robotics commission](https://www.post-gazette.com/business/tech-news/2026/06/03/mccormick-and-colorado-democrat-introduce/stories/202606030071)**
+**[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
 
-Robotics are taking center stage in discussions of national security, which is why U.S. Senators Dave McCormick, R-Pa., and John Hickenlooper, D-Co., introduced...
+Bloomberg.com • 5h ago
 
-Pittsburgh Post-Gazette • 19h ago
+---
+
+**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
+
+Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
+
+Shore Daily News • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 727 • 👍 101 • 💬 9 • ⏱️ 6:04 • 2h ago
+👁️ 727 • 👍 101 • 💬 9 • ⏱️ 6:04 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ The AR4 6 axis robot arm uses an Arduino based controller and Python interface. 
 
 📺 Chris Annin
 
-👁️ 1K • 👍 148 • 💬 6 • ⏱️ 4:53 • 7h ago
+👁️ 1K • 👍 148 • 💬 6 • ⏱️ 4:53 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ The AR4 6 axis robot arm uses an Arduino based controller and Python interface. 
 
 📺 Robosculptor
 
-👁️ 624 • 👍 7 • ⏱️ 1:45 • 11h ago
+👁️ 624 • 👍 7 • ⏱️ 1:45 • 13h ago
 
 ---
 
