@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-05T14:52:50.796191+00:00'
+updated: '2026-06-05T17:19:54.470221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 05, 2026 at 14:52 UTC  
+**Last Updated:** June 05, 2026 at 17:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,954.06
+### $60,834.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.6%  
-**7d:** -17.4%  
-**30d:** -23.8%  
-**90d:** -7.6%  
-**1y:** -41.5%  
+**24h:** -4.7%  
+**7d:** -17.7%  
+**30d:** -24.0%  
+**90d:** -7.9%  
+**1y:** -41.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1221.05B
+**Market Cap:** $1223.14B
 Rank #1
 
-**Circulating Supply:** 20,039,003 BTC
+**Circulating Supply:** 20,039,059 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -51.7%
 
 **All-Time Low:** $67.81
-+89630.1%
++89619.8%
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 All of my friends are messaging me that bitcoin is dead! I am so excited for the discount we’re going to get
 
-30m ago
+2h ago
+
+---
+
+**[My Heart is Broken](https://www.reddit.com/r/Bitcoin/comments/1txl6r3/my_heart_is_broken/)**
+
+Went all in at $124k, thinking this thing is rocketing to millions. Today I watch as we dip to $60k, and my heart sinks further and further into the abyss. Why Bitcoin? Why me?
+
+3h ago
 
 ---
 
@@ -89,29 +97,13 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 Just stopping by to tell everyone who's panicking and isn't convinced about BTC: please leave the sub and don't bother the diamond hands with your useless FUD. You're not going to make it. What I see is the stock market rising and crypto dropping, but no one wants to admit that the AI bubble is going to burst at some point, and all that liquidity currently rotating from BTC into stocks will land in someone's pocket, because so many are little crying b****s who are sooo easy to manipulate. Keep holding my friends!
 
-8h ago
+10h ago
 
 ---
 
-**[Don’t worry guys, i panic sold all of my bitcoin](https://www.reddit.com/r/Bitcoin/comments/1twuvwm/dont_worry_guys_i_panic_sold_all_of_my_bitcoin/)**
+**[Serious question to all Bitcoiners](https://www.reddit.com/r/Bitcoin/comments/1txnzn5/serious_question_to_all_bitcoiners/)**
 
-Should go up to 100k. Give it a few days
-
-21h ago
-
----
-
-**[Vibing Cat Time!!!](https://www.reddit.com/r/Bitcoin/comments/1tx3evi/vibing_cat_time/)**
-
-Can’t be a bear market and Bitcoin crash without the vibing cat!
-
-15h ago
-
----
-
-**[My Heart is Broken](https://www.reddit.com/r/Bitcoin/comments/1txl6r3/my_heart_is_broken/)**
-
-Went all in at $124k, thinking this thing is rocketing to millions. Today I watch as we dip to $60k, and my heart sinks further and further into the abyss. Why Bitcoin? Why me?
+This is only for those that are still screaming for another 70%+ crash… I have one simple question for you. Cycle returns have already shrunk dramatically. Each bull market has delivered meaningfully lower multiples than the last. Yet many of you still price in classic 70-80% drawdowns. If the upside is getting smaller while the downside stays brutal… what exactly is your thesis? Previous cycles gave you massive asymmetric upside in exchange for the pain. Now we’re looking at considerably lower returns… while still accepting 70%+ pain? That’s a materially worse risk/reward profile. So which is it? A) You’re taking nearly the same risk for far lower returns B) Diminishing returns eventually plateau or reverse as adoption grows C) You’re a full bear who believes Bitcoin is dying Be honest.
 
 1h ago
 
@@ -121,31 +113,37 @@ Went all in at $124k, thinking this thing is rocketing to millions. Today I watc
 
 Its been a long time staking and bought more recently, i have 1.3btc to my name
 
+4h ago
+
+---
+
+**[There is NO SECOND BEST crypto asset](https://www.reddit.com/r/Bitcoin/comments/1txndge/there_is_no_second_best_crypto_asset/)**
+
+I wanted to break out a classic for all those that need to hear this right now
+
 2h ago
 
 ---
 
-**[Bitcoin Buys A Home: Better And Coinbase Close First Fannie Mae-Backed BTC Mortgage](https://www.reddit.com/r/Bitcoin/comments/1txdvlx/bitcoin_buys_a_home_better_and_coinbase_close/)**
+**[Don’t worry guys, i panic sold all of my bitcoin](https://www.reddit.com/r/Bitcoin/comments/1twuvwm/dont_worry_guys_i_panic_sold_all_of_my_bitcoin/)**
 
-Better and Coinbase have funded the first Fannie Mae-backed mortgage that lets homebuyers use Bitcoin as collateral for their down payment loan.
+Should go up to 100k. Give it a few days
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-buys-a-home-better-and-coinbase) • 7h ago
-
----
-
-**[Waiting till the bear is over and shoot up to 250k](https://www.reddit.com/r/Bitcoin/comments/1txg1lo/waiting_till_the_bear_is_over_and_shoot_up_to_250k/)**
-
-Yes. I said it. Not just me. We are ALL waiting for the bear to be over. Let us all cooperate to let it dip to a new low if it needs to. Then let it shoot up to 250k when the bear phase is over. We predicted the bear cycle, that will come true. And next we will make the bull cycle come true too.
-
-5h ago
+23h ago
 
 ---
 
-**[Is it a bad time to buy BTC?](https://www.reddit.com/r/Bitcoin/comments/1tx6nn5/is_it_a_bad_time_to_buy_btc/)**
+**[Vibing Cat Time!!!](https://www.reddit.com/r/Bitcoin/comments/1tx3evi/vibing_cat_time/)**
 
-I'm thinking about holding BTC until next year
+Can’t be a bear market and Bitcoin crash without the vibing cat!
 
-13h ago
+18h ago
+
+---
+
+**[Every time someone asks about the BTC dip](https://www.reddit.com/r/Bitcoin/comments/1txn7fl/every_time_someone_asks_about_the_btc_dip/)**
+
+2h ago
 
 ---
 
@@ -153,7 +151,7 @@ I'm thinking about holding BTC until next year
 
 Sorry if my question is stupid but I want to know since im a beginner.
 
-28m ago
+2h ago
 
 ---
 
@@ -165,13 +163,19 @@ Sorry if my question is stupid but I want to know since im a beginner.
 
 Geopolitical uncertainty and other factors are causing the coin’s price to suffer, even as Big Tech carries the traditional stock market to new heights.
 
-Morning Brew • 9h ago
+Morning Brew • 12h ago
 
 ---
 
 **[Michael Saylor’s Bitcoin Machine Is Misfiring on Every Cylinder](https://www.bloomberg.com/news/articles/2026-06-04/michael-saylor-s-bitcoin-machine-is-misfiring-on-every-cylinder)**
 
-Bloomberg • 18h ago
+Bloomberg.com • 21h ago
+
+---
+
+**[Why Is Bitcoin Plunging?](https://global.morningstar.com/en-nd/markets/why-is-bitcoin-plunging)**
+
+Morningstar • 1h ago
 
 ---
 
@@ -179,35 +183,35 @@ Bloomberg • 18h ago
 
 Standard Chartered remains bullish despite Bitcoin's price falling below $61,500. It comes as Strategy's unrealized losses have reached a record $10.8 billion. Market divided over ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Why Bitcoin, XRP and Other Cryptos Could Be First Casualties of SpaceX IPO](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
+
+Barron's • 3h ago
 
 ---
 
 **[Strategy Shoots Own Foot: Bitcoin Dive Will Hike Borrowing Rate To 11.75%](https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[5th Worst Bitcoin Price Action Ever — I’m Buying At 99.8% Probability](https://bitcoinmagazine.com/markets/5th-worst-bitcoin-price-action-ever-im-buying-at-99-8-probability)**
+**[What Really Broke Bitcoin?](https://pro.thestreet.com/trade-ideas/what-really-broke-bitcoin)**
 
-Bitcoin price remains under pressure, yet five separate data points suggest fear may be creating one of the best accumulation setups in years.
+A small sale by Strategy may have rattled investor confidence, but the technical damage was already underway.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin tumbles after Strategy sale unnerves crypto traders](https://www.ft.com/content/06bb85c7-ab3c-4cc2-bdcf-679976b6e901?syn-25a6b1a6=1)**
-
-Cryptocurrency is heading for biggest weekly loss since November 2022
-
-Financial Times • 20h ago
+TheStreet Pro • 3h ago
 
 ---
 
-**[Standard Chartered's crypto bull sticks to $100,000 bitcoin call despite 'painful' week](https://www.reuters.com/legal/transactional/standard-chartereds-crypto-bull-sticks-100000-bitcoin-call-despite-painful-week-2026-06-04/)**
+**[Crypto Market News: MemeToro Presale Gains Attention While Bitcoin Price Prediction Targets $50K Support](https://markets.businessinsider.com/news/stocks/crypto-market-news-memetoro-presale-gains-attention-while-bitcoin-price-prediction-targets-50k-support-1036228355)**
 
-Reuters • 21h ago
+ZURICH, June  05, 2026  (GLOBE NEWSWIRE) -- MemeToro ($MT) completed Stage 1 of its presale campaign this week while broader cryptocurrency market...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -215,21 +219,15 @@ Reuters • 21h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1h ago
+Fortune • 4h ago
 
 ---
 
-**[Why Is Bitcoin Plunging?](https://global.morningstar.com/en-gb/markets/why-is-bitcoin-plunging)**
+**[Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html)**
 
-Morningstar • 18m ago
+Bitcoin opened at $63,812.18 on Friday, June 5, 2026, down 0.3% from Thursday's opening price. The value was $62,411.20 at 7:29 a.m ET. Ethereum opened at $1,768.86 on Friday, down 2.4% from Thursday's opening price. The value of ethereum was $1,676.27 at 7:29 a.m. ET.
 
----
-
-**[Why is crypto crashing? Bitcoin price keeps dropping as major BTC selloff continues this week](https://www.fastcompany.com/91554638/crypto-crashing-why-bitcoin-price-dropping-btc-selloff)**
-
-In a reversal of fortunes for investors, major cryptocurrencies have now seen their Trump-era gains completely wiped out.
-
-Fast Company • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -255,7 +253,7 @@ Nostr client with other stuff
 
 Bitcoin is getting pummeled to kick off June as the market loses its dominant narrative and liquidity continues to rotate into other assets.
 
-⬆️ 7 • 💬 2 • 12h ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
+⬆️ 7 • 💬 2 • 14h ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
 
 ---
 
@@ -263,7 +261,7 @@ Bitcoin is getting pummeled to kick off June as the market loses its dominant na
 
 Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its "never sell" stance broke.
 
-⬆️ 6 • 💬 1 • 3d ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
+⬆️ 6 • 💬 1 • 4d ago • [Decrypt](https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m)
 
 ---
 
@@ -309,7 +307,7 @@ Strategy (NASDAQ: $MSTR ) has sold some of its Bitcoin (CRYPTO: $BTC ) holdings.
 
 Historical source code printed on gallery-quality canvas. Apollo 11's flight code, Linus's first Git commit, the Perl camel — licensed by O'Reilly. Eight pieces of computing history, on your wall.
 
-⬆️ 8 • 💬 2 • 3d ago • [canvascript](https://canvascript.com/)
+⬆️ 8 • 💬 2 • 4d ago • [canvascript](https://canvascript.com/)
 
 ---
 
@@ -323,57 +321,7 @@ Bitcoin's not doing good, no need to sugarcoat it. It's especially frustrating f
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 167 • ⏱️ 11:49 • 17h ago
-
----
-
-**[Bitcoin Falls to the 200W Moving Average](https://www.youtube.com/watch?v=ulDJeCNJo3Y)**
-
-Bitcoin has fallen to the 200W moving average. What next? Into The Cryptoverse Premium SALE: https://intothecryptoverse.com ...
-
-📺 Benjamin Cowen
-
-👁️ 72K • 👍 6K • 💬 302 • ⏱️ 12:51 • 9h ago
-
----
-
-**[Crypto Holders.. this is not good](https://www.youtube.com/watch?v=gFETHhqsE9w)**
-
-Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 188 • ⏱️ 9:10 • 16h ago
-
----
-
-**[Bitcoin Holders: Something VERY Important Just Happened (Bear Market Bottom Signals)](https://www.youtube.com/watch?v=BQC-IPWtJH0)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Into The ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 368 • 💬 101 • ⏱️ 13:24 • 6h ago
-
----
-
-**[Historic Bitcoin Liquidity Dump Over Or Worst Yet To Come?](https://www.youtube.com/watch?v=Nt0RBal4pR0)**
-
-Bitcoin #Crypto #Finance Bitcoin has officially erased over $2 trillion in market cap since its October 2025 all-time high — a ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 473 • 💬 248 • ⏱️ 30:59 • 19h ago
-
----
-
-**[Everything has to go right for Bitcoin right now: Gary Cardone](https://www.youtube.com/watch?v=XHDRXRwa5Z8)**
-
-bitcoin #crypto #garycardone #scottmelker In this episode of The Daily Wolf, Scott Melker and Gary Cardone debate whether ...
-
-📺 Yahoo Finance
-
-👁️ 20K • 👍 623 • 💬 242 • ⏱️ 14:58 • 22h ago
+👁️ 23K • 👍 1K • 💬 194 • ⏱️ 11:49 • 20h ago
 
 ---
 
@@ -383,27 +331,57 @@ Every Bitcoin bear market follows the same pattern — and we're right on schedu
 
 📺 CoinGecko
 
-👁️ 3K • 👍 289 • 💬 131 • ⏱️ 6:32 • 4h ago
+👁️ 7K • 👍 382 • 💬 219 • ⏱️ 6:32 • 6h ago
 
 ---
 
-**[Massive Bitcoin Signal Just Flashed](https://www.youtube.com/watch?v=_won_O1puSw)**
+**[Bitcoin and Altcoins Continue CAPITULATION! (Bottom Ever?)](https://www.youtube.com/watch?v=yHUGQ53T8sM)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+
+📺 Crypto Capital Venture
+
+👁️ 3K • 👍 348 • 💬 114 • ⏱️ 18:05 • 2h ago
+
+---
+
+**[Bitcoin Holders: Something VERY Important Just Happened (Bear Market Bottom Signals)](https://www.youtube.com/watch?v=BQC-IPWtJH0)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Into The ...
+
+📺 Aaron Bennett
+
+👁️ 7K • 👍 441 • 💬 114 • ⏱️ 13:24 • 8h ago
+
+---
+
+**[Crypto Holders.. this is not good](https://www.youtube.com/watch?v=gFETHhqsE9w)**
 
 Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 409 • 💬 61 • ⏱️ 0:55 • 15h ago
+👁️ 37K • 👍 2K • 💬 166 • ⏱️ 9:10 • 19h ago
 
 ---
 
-**[Did Michael Saylor Give Up on Bitcoin?](https://www.youtube.com/watch?v=XYVHCGFLCY4)**
+**[Bitcoin Falls to the 200W Moving Average](https://www.youtube.com/watch?v=ulDJeCNJo3Y)**
 
-Anthony Pompliano breaks down why Michael Saylor and Strategy selling 32 bitcoin is not a sign of lost faith — it's a calculated ...
+Bitcoin has fallen to the 200W moving average. What next? Into The Cryptoverse Premium SALE: https://intothecryptoverse.com ...
 
-📺 Anthony Pompliano
+📺 Benjamin Cowen
 
-👁️ 43K • 👍 2K • 💬 91 • ⏱️ 12:45 • 1d ago
+👁️ 89K • 👍 6K • 💬 324 • ⏱️ 12:51 • 12h ago
+
+---
+
+**[Crypto Just Broke - You Need To Hear This](https://www.youtube.com/watch?v=BzfSujGYEYQ)**
+
+Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 883 • 💬 190 • ⏱️ 20:00 • 5h ago
 
 ---
 
@@ -413,7 +391,27 @@ BITFUNDED 3RD ANNIVERSARY: GET 50% OFF YOUR NEXT CHALLENGE! First 1000 ...
 
 📺 100XClub
 
-👁️ 6K • 👍 830 • 💬 188 • ⏱️ 11:19 • 6h ago
+👁️ 8K • 👍 913 • 💬 200 • ⏱️ 11:19 • 8h ago
+
+---
+
+**[DO NOT BE FOOLED, BITCOIN WILL GO BELOW $60,000.](https://www.youtube.com/watch?v=sAOVJtFe3i0)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 196 • 💬 24 • ⏱️ 10:50 • 2h ago
+
+---
+
+**[Bitcoin &#39;xuống thang máy&#39; - Đâu là vùng giá đỡ, các kịch bản nào có thể xảy ra tiếp theo?](https://www.youtube.com/watch?v=BnynLIS6cxs)**
+
++ Cập nhật view BTC, học trading Wyckoff miễn phí và hoàn phí tự động tại: https://5phutcrypto.io/youtube/ + Hoàn phí sàn ...
+
+📺 5 Phút Crypto 
+
+👁️ 2K • 👍 122 • 💬 15 • ⏱️ 18:44 • 4h ago
 
 ---
 
