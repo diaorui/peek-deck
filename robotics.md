@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-05T19:17:09.755171+00:00'
+updated: '2026-06-05T21:08:12.993828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 05, 2026 at 19:17 UTC  
+**Last Updated:** June 05, 2026 at 21:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
 
-4h ago
+6h ago
+
+---
+
+**[SLAM Camera Module](https://www.reddit.com/r/robotics/comments/1txw0ha/slam_camera_module/)**
+
+Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
+
+58m ago
 
 ---
 
@@ -48,7 +56,7 @@ Robotics research and industry news
 
 In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
 
-2h ago
+4h ago
 
 ---
 
@@ -56,15 +64,7 @@ In my previous post was a little showcase of my implementation of the pure pursu
 
 I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
 
-7h ago
-
----
-
-**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 7h ago
+9h ago
 
 ---
 
@@ -72,7 +72,21 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
 
-4h ago
+6h ago
+
+---
+
+**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 9h ago
+
+---
+
+**[Building a Custom Drones MuJoCo Environment](https://www.reddit.com/r/robotics/comments/1txuz3l/building_a_custom_drones_mujoco_environment/)**
+
+1h ago
 
 ---
 
@@ -80,35 +94,25 @@ Hey all, I'm a robotics engineer by training turned ML/AI engineer because of pa
 
 Just came across this turn key modular consumer robotic arm that offers hardware and software integration all in one package. Question: Does anything like this exists for industrial application under $5k, each module made out of stainless steel or aluminum and comes with easy to use software integration (machine vision etc)?
 
-1h ago
+3h ago
 
 ---
 
 **[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
 
-23h ago
-
----
-
-**[What has been the hardest part of collecting training data for robotics projects?](https://www.reddit.com/r/robotics/comments/1txqnns/what_has_been_the_hardest_part_of_collecting/)**
-
-I'm researching how teams build datasets for robot learning and I'm curious what the biggest challenges are in practice. From what I've seen so far, collecting robotics data seems very different from standard computer vision datasets because you have to deal with sensor synchronization, demonstrations, real-world edge cases, and often much smaller datasets. One thing I'm still trying to understand is where most teams spend the majority of their time. For people working on robot learning, manipulation, navigation, or autonomous systems: Is data collection the main bottleneck? Is annotation and labeling the difficult part? Do you rely more on simulation or real-world data? What would you improve if you could rebuild your data pipeline from scratch? I'd love to hear some real-world experiences.
-
-2h ago
-
----
-
-**[Hi r/robotics — building architectural foundations for reliable AI-powered robots](https://www.reddit.com/r/robotics/comments/1txqiai/hi_rrobotics_building_architectural_foundations/)**
-
-Hey r/robotics, Just joined and I’m really impressed by the quality of projects and discussion here. I’ve been working on an open framework for building more reliable, long-running automated systems, especially physical robots and agents that need to operate safely over time. The core of it is three structural distinctions that most AI/robotics work tends to treat as afterthoughts: Entity ~ clearly defining what the system actually is (structural class, not just “a smart model”) Authority ~ runtime-enforced boundaries so the robot can’t quietly expand its own scope or do unsafe things Identity Continuity ~ how the robot maintains a coherent sense of self, role, and mission across restarts, model swaps, or long missions It’s all open (no product pitch):→ Full blueprints + papers here: https://github.com/michaeljb79-ai/A-Preamble-to-Automated-Intelligence-Authorization-Topology-and-Identity-Continuity Would love to hear what challenges you all are running into with long-term robot autonomy, safety boundaries, persistent behavior, or anything in that space. Looking forward to learning from this community !
-
-2h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
+
+Reuters • 12h ago
+
+---
 
 **[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
 
@@ -118,9 +122,11 @@ About Amazon • 1d ago
 
 ---
 
-**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+**[Scientists in 'autonomous laboratories' are starting to outsource work to robots](https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks)**
 
-Bloomberg.com • 1d ago
+Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
+
+NPR • 12h ago
 
 ---
 
@@ -128,15 +134,7 @@ Bloomberg.com • 1d ago
 
 Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
 
-Yahoo Finance • 14h ago
-
----
-
-**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
-
-Robot demonstrations can distort public perceptions of robotic capabilities.
-
-Ars Technica • 20h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -144,13 +142,23 @@ Ars Technica • 20h ago
 
 "Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
+**[Investors bet humanoid robots will transform industry and homes over the next decade](https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html)**
 
-Reuters • 10h ago
+“Be ready for it,” said one fund manager who sees enormous opportunities in the space.
+
+CNBC • 2d ago
+
+---
+
+**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
+
+Robot demonstrations can distort public perceptions of robotic capabilities.
+
+Ars Technica • 22h ago
 
 ---
 
@@ -162,25 +170,17 @@ Fox Business • 2d ago
 
 ---
 
-**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
+**[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
 
-Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
-
-Shore Daily News • 9h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Can humanoid robots run stairs without tripping? Do they need shoes?](https://spectrum.ieee.org/video-friday-humanoid-robot-running)**
+**[Sen. Dave McCormick and Colorado Democrat introduce national robotics commission](https://www.post-gazette.com/business/tech-news/2026/06/03/mccormick-and-colorado-democrat-introduce/stories/202606030071)**
 
-Your weekly selection of awesome robot videos
+Robotics are taking center stage in discussions of national security, which is why U.S. Senators Dave McCormick, R-Pa., and John Hickenlooper, D-Co., introduced...
 
-IEEE Spectrum • 3h ago
-
----
-
-**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
-
-South China Morning Post • 1d ago
+Pittsburgh Post-Gazette • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 2.2M • 👍 40K • 💬 5K • ⏱️ 6:01 • 3d ago
+👁️ 2.3M • 👍 42K • 💬 5K • ⏱️ 6:01 • 3d ago
 
 ---
 
@@ -204,7 +204,17 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 568K • 👍 9K • 💬 710 • ⏱️ 5:01 • 3d ago
+👁️ 628K • 👍 10K • 💬 755 • ⏱️ 5:01 • 3d ago
+
+---
+
+**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
+
+In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
+
+📺 Munro Live
+
+👁️ 727 • 👍 101 • 💬 9 • ⏱️ 6:04 • 2h ago
 
 ---
 
@@ -214,7 +224,7 @@ War Robots Gameplay: Ultimate LEO - that I don't think is very good. My War Robo
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 407 • 💬 85 • ⏱️ 13:59 • 1d ago
+👁️ 7K • 👍 417 • 💬 88 • ⏱️ 13:59 • 1d ago
 
 ---
 
@@ -224,17 +234,27 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 132K • 👍 4K • 💬 569 • ⏱️ 29:20 • 6d ago
+👁️ 133K • 👍 4K • 💬 573 • ⏱️ 29:20 • 6d ago
 
 ---
 
-**[There’s a Robot for Everything in 2026... 🤖🐶](https://www.youtube.com/watch?v=ypXtEM1c_RA)**
+**[AR4 MK5 Open Source Robot Arm | 6DOF Arduino Python ROS2 Automation Robot](https://www.youtube.com/watch?v=IMCri8vN6l8)**
 
-Get the early bird pricing and save ...
+The AR4 6 axis robot arm uses an Arduino based controller and Python interface. This 6DOF arm is widely used in educational ...
 
-📺 Unbox Therapy
+📺 Chris Annin
 
-👁️ 433K • 👍 2K • 💬 49 • ⏱️ 2:20 • 2d ago
+👁️ 1K • 👍 148 • 💬 6 • ⏱️ 4:53 • 7h ago
+
+---
+
+**[11 Real Reactions. They Forgot It Was a Robot.](https://www.youtube.com/watch?v=5-9moiTMnM0)**
+
+"I didn't feel like it was a robot" - 11 real people. Zero scripts. roboSculptor combines cutting-edge robotics with a touch so precise, ...
+
+📺 Robosculptor
+
+👁️ 624 • 👍 7 • ⏱️ 1:45 • 11h ago
 
 ---
 
@@ -244,47 +264,27 @@ Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/p
 
 📺 Farzad
 
-👁️ 176K • 👍 7K • 💬 724 • ⏱️ 23:36 • 4d ago
+👁️ 177K • 👍 7K • 💬 728 • ⏱️ 23:36 • 4d ago
 
 ---
 
-**[Engineers Built Walking Robots in 1968 😳🤖⚙️](https://www.youtube.com/watch?v=pdkn5gu1ewc)**
+**[This 3D-printed robot is invisible to the naked eye 👀 #trendingshorts #technology #robot #future](https://www.youtube.com/watch?v=Rw-EcOj4rlw)**
 
-Step back to 1968 and witness the remarkable mechanical ingenuity that helped shape the future of robotics ⚙️   This rare ...
+Researchers at Leiden University 3D-printed a microrobot just five micrometers long that moves like a living worm despite having ...
 
-📺 Perigee Tech
+📺 Rowan Cheung
 
-👁️ 129K • 💬 7 • ⏱️ 0:05 • 4d ago
-
----
-
-**[Taiwan military unveils sci-fi-like robot dogs that can hunt targets](https://www.youtube.com/watch?v=sibAJShf4oo)**
-
-Taiwan's military is entering its sci-fi era. The National Chung-Shan Institute of Science and Technology has unveiled three new ...
-
-📺 Formosa News (民視英語新聞)
-
-👁️ 21K • 👍 125 • 💬 35 • ⏱️ 0:26 • 3d ago
+👁️ 96K • 👍 3K • 💬 79 • ⏱️ 1:06 • 2d ago
 
 ---
 
-**[Robot sorter handles 1,200 parcels per hour with AI precision](https://www.youtube.com/watch?v=xr6eiDw3Iyw)**
+**[Smart Fruit Picking Robot WORKS WITH INSANE Precision! 🍎](https://www.youtube.com/watch?v=Zs7MEjtsojs)**
 
-Embodied AI robots are now sorting parcels at China Post's Guangzhou processing center, each handling up to 1200 packages ...
+Deep inside a high-yield modern fruit orchard, an advanced autonomous harvesting robot demonstrates a flawless display of ...
 
-📺 New China TV
+📺 Peace Working Shorts
 
-👁️ 87K • 👍 343 • 💬 112 • ⏱️ 0:20 • 5d ago
-
----
-
-**[Chinese Robots in Barcelona: Shanghai is leaving Tesla behind!](https://www.youtube.com/watch?v=117viyHMEW0)**
-
-While the West is waiting for the next Tesla Optimus update and watching Boston Dynamics demos in labs, humanoids from China ...
-
-📺 PRO ROBOTS
-
-👁️ 15K • 👍 342 • 💬 37 • ⏱️ 15:49 • 6d ago
+👁️ 674K • 👍 890 • 💬 10 • ⏱️ 0:06 • 3d ago
 
 ---
 
