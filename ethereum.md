@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T15:16:47.766147+00:00'
+updated: '2026-06-06T16:39:13.072215+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 15:16 UTC  
+**Last Updated:** June 06, 2026 at 16:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,556.08
+### $1,571.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** -22.7%  
-**30d:** -32.8%  
-**90d:** -22.2%  
-**1y:** -38.6%  
+**24h:** -2.4%  
+**7d:** -22.4%  
+**30d:** -32.5%  
+**90d:** -22.0%  
+**1y:** -38.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $188.35B
+**Market Cap:** $187.64B
 Rank #2
 
 **Circulating Supply:** 120,684,554 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.4%
+-68.5%
 
 **All-Time Low:** $0.43
-+360370.1%
++359192.3%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-4h ago
+6h ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -152,13 +152,21 @@ Small team working on a protocol and incorporated in Cayman because thats what m
 
 BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
 **[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
 
 Barron's • 1d ago
+
+---
+
+**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
+
+Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -170,11 +178,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist](https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist)**
+**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
 
-In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.
-
-CoinDesk • 2d ago
+Crowdfund Insider • 1d ago
 
 ---
 
@@ -182,27 +188,13 @@ CoinDesk • 2d ago
 
 Ethereum investors are on high alert after a wallet linked to Ethereum co-founder Joseph Lubin suddenly moved more than $121 million worth of ETH
 
-Coinpedia • 8h ago
-
----
-
-**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
-
-Crowdfund Insider • 1d ago
+Coinpedia • 9h ago
 
 ---
 
 **[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-富途牛牛 • 15h ago
-
----
-
-**[These 2 Cryptocurrencies Have Better Outlooks Than Solana or Ethereum. Should You Buy Them?](https://www.fool.com/investing/2026/06/06/these-2-cryptocurrencies-have-better-outlooks-than/)**
-
-For a coin to be successful, it's necessary to have holder-friendly policies.
-
-The Motley Fool • 3h ago
+富途牛牛 • 16h ago
 
 ---
 
@@ -210,7 +202,15 @@ The Motley Fool • 3h ago
 
 Ethereum price (ETHUSD) dropped by about 10% in 24 hours to $1,598.17, underperforming Bitcoin's 3.92% drop, primarily driven by a cascade
 
-MarketForces Africa • 21h ago
+MarketForces Africa • 22h ago
+
+---
+
+**[These 2 Cryptocurrencies Have Better Outlooks Than Solana or Ethereum. Should You Buy Them?](https://www.fool.com/investing/2026/06/06/these-2-cryptocurrencies-have-better-outlooks-than/)**
+
+For a coin to be successful, it's necessary to have holder-friendly policies.
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -232,7 +232,27 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 985 • 👍 68 • 💬 12 • ⏱️ 14:13 • 3h ago
+👁️ 2K • 👍 121 • 💬 25 • ⏱️ 14:13 • 5h ago
+
+---
+
+**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
+
+Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
+
+📺 Coin Bureau
+
+👁️ 3K • 👍 225 • 💬 32 • ⏱️ 21:23 • 2h ago
+
+---
+
+**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
+
+Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
+
+📺 Paul Barron Network
+
+👁️ 2K • 👍 147 • 💬 14 • ⏱️ 21:26 • 38m ago
 
 ---
 
@@ -242,27 +262,27 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 365 • 💬 18 • ⏱️ 8:30 • 15h ago
+👁️ 8K • 👍 372 • 💬 19 • ⏱️ 8:30 • 16h ago
 
 ---
 
-**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
+**[I Was Wrong About Holding ETH Through This Bear Market](https://www.youtube.com/watch?v=Q9D96NVemfU)**
 
-Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
+Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
-📺 Kamilah Stevenson
+📺 Jake Call
 
-👁️ 23K • 👍 2K • 💬 260 • ⏱️ 13:31 • 21h ago
+👁️ 2K • 👍 30 • 💬 11 • ⏱️ 10:22 • 21h ago
 
 ---
 
-**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
+**[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Trade Confident
+📺 Crypto World
 
-👁️ 1K • 👍 20 • 💬 3 • ⏱️ 5:45 • 20h ago
+👁️ 13K • 👍 489 • 💬 61 • ⏱️ 21:38 • 13h ago
 
 ---
 
@@ -276,31 +296,23 @@ Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX
 
 ---
 
-**[I Was Wrong About Holding ETH Through This Bear Market](https://www.youtube.com/watch?v=Q9D96NVemfU)**
+**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
 
-Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
+Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
 
-📺 Jake Call
+📺 Kamilah Stevenson
 
-👁️ 1K • 👍 28 • 💬 10 • ⏱️ 10:22 • 20h ago
-
----
-
-**[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
-
-BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 464 • 💬 90 • ⏱️ 21:38 • 12h ago
+👁️ 24K • 👍 2K • 💬 271 • ⏱️ 13:31 • 22h ago
 
 ---
 
-**[HUGE XRP AND ETHEREUM INTEGRATION CRYPTO #xrp #ethereum #bitcoin](https://www.youtube.com/watch?v=J5Jh-8ftCdk)**
+**[Ethereum Price Analysis. Everyone Is Ignoring THIS ETH Signal…](https://www.youtube.com/watch?v=7Tei7CFxJpA)**
 
-📺 CryptoWendyO
+In this video, I analyze the price action of Ethereum chart and ETH/BTC chart using custom indicators to predict the potential future ...
 
-👁️ 12K • 👍 723 • 💬 42 • ⏱️ 2:04 • 2d ago
+📺 Crypto 4Light
+
+👁️ 244 • 👍 14 • 💬 5 • ⏱️ 10:32 • 6h ago
 
 ---
 
@@ -311,16 +323,6 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 📺 Cilinix Crypto
 
 👁️ 2K • 👍 31 • ⏱️ 4:26 • 1d ago
-
----
-
-**[WHY BMNR &amp; ETH JUST CRASHED?](https://www.youtube.com/watch?v=cMFE95FaCjY)**
-
-WHY BMNR & ETH JUST CRASHED? Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi Discord: ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 70 • 💬 36 • ⏱️ 22:26 • 2d ago
 
 ---
 

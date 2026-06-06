@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-06T15:16:47.760775+00:00'
+updated: '2026-06-06T16:39:13.066241+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 15:16 UTC  
+**Last Updated:** June 06, 2026 at 16:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,675.12
+### $60,568.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
+**24h:** -0.4%  
 **7d:** -17.8%  
 **30d:** -24.5%  
 **90d:** -11.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1219.05B
+**Market Cap:** $1212.85B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--51.7%
+-52.0%
 
 **All-Time Low:** $67.81
-+89612.4%
++89167.1%
 
 ---
 
@@ -77,17 +77,37 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[noooo-](https://www.reddit.com/r/Bitcoin/comments/1tybiel/noooo/)**
-
-6h ago
-
----
-
 **[The next 6-12 months will be the best opportunity to buy bitcoin we will ever see again in our lifetimes.](https://www.reddit.com/r/Bitcoin/comments/1tyehye/the_next_612_months_will_be_the_best_opportunity/)**
 
 Stack hard and hold on tight. Enjoy!
 
-4h ago
+5h ago
+
+---
+
+**[noooo-](https://www.reddit.com/r/Bitcoin/comments/1tybiel/noooo/)**
+
+8h ago
+
+---
+
+**[Bitcoin at $66k in 2024 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1tydz9d/bitcoin_at_66k_in_2024_vs_2026/)**
+
+5h ago
+
+---
+
+**[Bitcoin just dropped from $71K to $59K in a matter of days.](https://www.reddit.com/r/Bitcoin/comments/1tykloa/bitcoin_just_dropped_from_71k_to_59k_in_a_matter/)**
+
+For people who've been through previous cycles, this probably feels familiar. For people newer to Bitcoin, this might be the first real test of conviction. What keeps you from selling? Is it understanding what you own? Cycle timing? Something you told yourself last time that held true? Or something else entirely?
+
+56m ago
+
+---
+
+**[Thanks for dip - finally a full bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1tyg8nt/thanks_for_dip_finally_a_full_bitcoiner/)**
+
+3h ago
 
 ---
 
@@ -95,19 +115,7 @@ Stack hard and hold on tight. Enjoy!
 
 For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $55k. It’s waiting for a drop that never comes and then watching it run to $100k+ without you.
 
-15h ago
-
----
-
-**[Bitcoin at $66k in 2024 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1tydz9d/bitcoin_at_66k_in_2024_vs_2026/)**
-
-4h ago
-
----
-
-**[Thanks for dip - finally a full bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1tyg8nt/thanks_for_dip_finally_a_full_bitcoiner/)**
-
-2h ago
+16h ago
 
 ---
 
@@ -115,7 +123,7 @@ For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $5
 
 Im very excited !!! and want it to share it with someone outside my inner circle!!! I have been DCA this last month and finally got my 1.01 btc!!!! It will be worth it!!! Next goal 2.0 btc!!!!!
 
-15h ago
+16h ago
 
 ---
 
@@ -129,23 +137,13 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 **[Live footage of your crypto portfolio right now.](https://www.reddit.com/r/Bitcoin/comments/1txvdm6/live_footage_of_your_crypto_portfolio_right_now/)**
 
-19h ago
+20h ago
 
 ---
 
-**[So what are everyones plans to buy the dip?](https://www.reddit.com/r/Bitcoin/comments/1tyeee4/so_what_are_everyones_plans_to_buy_the_dip/)**
+**[Red month sats are always the best](https://www.reddit.com/r/Bitcoin/comments/1tyk1we/red_month_sats_are_always_the_best/)**
 
-Im starting to buy the first partials, hopefully it will go down to 50k and 40k and be at new ATH in a year or two. What are your moves?
-
-4h ago
-
----
-
-**[Mt. Gox moved 10,422.65 BTC out of cold storage](https://www.reddit.com/r/Bitcoin/comments/1txv95n/mt_gox_moved_1042265_btc_out_of_cold_storage/)**
-
-I see some chatter on here about October being the bottom most likely. But I think that would only be the start of it. The deadline for the final Mt. Gox bitcoin to be returned to creditors is October 31, 2026. Which no doubt they would want to liquidate those coins and finally get their money. Which would cause a further extended crash. I'd imagine between now and then the big players will be trying to exit bitcoin and sell off what they can so they don't get caught in the middle of that storm. That's probably what is going on right now. Something to take into consideration.
-
-19h ago
+1h ago
 
 ---
 
@@ -157,7 +155,15 @@ I see some chatter on here about October being the bottom most likely. But I thi
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-CNBC • 1h ago
+CNBC • 3h ago
+
+---
+
+**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
+
+Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -169,25 +175,33 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Michael Saylor unveils Bitcoin’s four tribes as the market tumbles](https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win)**
+**[Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some](https://finance.yahoo.com/markets/crypto/articles/bitcoin-dumped-gains-since-trump-155930270.html)**
 
-The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success.
+Bitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025. Now it's down more than 50% from that peak.
 
-CoinDesk • 2h ago
+Yahoo Finance • 39m ago
 
 ---
 
-**[Strive's CEO Matt Cole Says Strive’s 13% Bitcoin-Backed Yield Product Can Survive A Bear Market](https://finance.yahoo.com/markets/crypto/articles/strives-ceo-matt-cole-says-130755767.html)**
+**[Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some](https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some)**
 
-Strategy's recent 32-Bitcoin sale disciplined capital allocation, while adoption of Bitcoin ETFs and digital-credit products remains in its early stages, according to Matt Cole.
+Bitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025. Now it's down more than 50% from that peak.
 
-Yahoo Finance • 2h ago
+Decrypt • 39m ago
+
+---
+
+**[Peter Schiff Says 'Young' People Who Made Money Early With Bitcoin Dishing Out Financial Advice: 'Don't Confuse Brains With A Bull Market'](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-young-people-150230531.html)**
+
+Economist Peter Schiff took a dig on Wednesday at “unqualified” cryptocurrency advisors who mistake Bitcoin's early gains as validation of a smart long-term investment. Schiff Scoffs At ‘Young’ Crypto Commentators In an X post, Schiff observed that many “young” and...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin and Its Promises Are Showing Their Age](https://www.bloomberg.com/news/newsletters/2026-06-06/bitcoin-and-its-promises-show-their-age-merryn-talks-money)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -197,31 +211,17 @@ Reuters • 1d ago
 
 ---
 
-**[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
-
-Barron's • 20h ago
-
----
-
 **[Strategy's Saylor says Bitcoin should avoid choosing between 'purity and adoption' as BTC extends losses](https://www.theblock.co/post/403818/strategy-saylor-bitcoin-avoid-choosing-purity-adoption-btc-extends-losses)**
 
 Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Here's Why I'm Buying Bitcoin Right Now](https://www.fool.com/investing/2026/06/06/heres-why-im-buying-bitcoin-right-now/)**
+**[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
 
-The next Bitcoin recovery could be coming sooner than anyone expects.
-
-The Motley Fool • 6h ago
-
----
-
-**[Bitcoin Dive Will Hike Strategy's Borrowing Rate To 11.75% — At Least](https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/)**
-
-Investor's Business Daily • 18h ago
+Barron's • 22h ago
 
 ---
 
@@ -245,7 +245,7 @@ Nostr client with other stuff
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
-⬆️ 10 • 💬 1 • 11h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+⬆️ 10 • 💬 1 • 13h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
 
 ---
 
@@ -253,7 +253,7 @@ Nostr client with other stuff
 
 The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
 
-⬆️ 7 • 💬 6 • 11h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
+⬆️ 7 • 💬 6 • 13h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
-⬆️ 5 • 💬 0 • 8h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
+⬆️ 5 • 💬 0 • 9h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 
 ---
 
@@ -309,13 +309,23 @@ Second offers simple solutions to integrate Ark and Lightning payments into your
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Is Bitcoin CRASHING?!](https://www.youtube.com/watch?v=5TTtJBwmmnM)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 14K • 👍 1K • 💬 16 • ⏱️ 57:39 • 3h ago
+
+---
+
 **[“Michael Saylor’s LAST Laugh” - Strategy Faces $11B Bitcoin CRISIS](https://www.youtube.com/watch?v=csT9MTHQR5M)**
 
 The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a deep paper hole while its preferred stock now ...
 
 📺 Valuetainment
 
-👁️ 48K • 👍 1K • 💬 531 • ⏱️ 10:46 • 20h ago
+👁️ 54K • 👍 1K • 💬 630 • ⏱️ 10:46 • 21h ago
 
 ---
 
@@ -325,17 +335,7 @@ Bitcoin just suffered one of its sharpest pullbacks of the cycle, wiping out bil
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 700 • 💬 148 • ⏱️ 10:42 • 19h ago
-
----
-
-**[Bitcoin Is Getting Crushed by Fear and Panic...](https://www.youtube.com/watch?v=VrsI5auG7Jc)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 31K • 👍 1K • 💬 295 • ⏱️ 1:09:01 • 1d ago
+👁️ 11K • 👍 743 • 💬 181 • ⏱️ 10:42 • 20h ago
 
 ---
 
@@ -345,7 +345,25 @@ Bitcoin's not doing good, no need to sugarcoat it. It's especially frustrating f
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 32K • 👍 1K • 💬 314 • ⏱️ 11:49 • 1d ago
+👁️ 33K • 👍 1K • 💬 314 • ⏱️ 11:49 • 1d ago
+
+---
+
+**[Bitcoin Drop Tests Retail Investor Strength](https://www.youtube.com/watch?v=0QlcXC_MpDw)**
+
+For years, Wall Street has benefited from one of the most reliable forces in modern markets: a retail-trader army willing to buy ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 84 • 💬 79 • ⏱️ 10:30 • 4h ago
+
+---
+
+**[$50,000 BITCOIN INCOMING  #bitcoin #crypto #cryptocurrency](https://www.youtube.com/watch?v=nTprwiZFNqk)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 346 • 💬 32 • ⏱️ 2:11 • 14h ago
 
 ---
 
@@ -355,7 +373,7 @@ Bitcoin just went below the low from February 2026, confirming the bear market d
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 4K • 💬 222 • ⏱️ 21:54 • 10h ago
+👁️ 64K • 👍 5K • 💬 292 • ⏱️ 21:54 • 11h ago
 
 ---
 
@@ -365,45 +383,27 @@ Crypto Is Done” Michael Saylor Problem EXPLAINED (Don't Be Fooled) 50% deposit
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 236 • ⏱️ 12:01 • 16h ago
+👁️ 41K • 👍 3K • 💬 264 • ⏱️ 12:01 • 17h ago
 
 ---
 
-**[Bitcoin Falls to the 200W Moving Average](https://www.youtube.com/watch?v=ulDJeCNJo3Y)**
+**[BITCOIN HISTORY IS REPEATING...](https://www.youtube.com/watch?v=PGT_atDO11I)**
 
-Bitcoin has fallen to the 200W moving average. What next? Into The Cryptoverse Premium SALE: https://intothecryptoverse.com ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Benjamin Cowen
+📺 Crypto Rover
 
-👁️ 123K • 👍 7K • 💬 429 • ⏱️ 12:51 • 1d ago
-
----
-
-**[$50,000 BITCOIN INCOMING  #bitcoin #crypto #cryptocurrency](https://www.youtube.com/watch?v=nTprwiZFNqk)**
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 319 • 💬 7 • ⏱️ 2:11 • 13h ago
+👁️ 9K • 👍 732 • 💬 56 • ⏱️ 11:59 • 6h ago
 
 ---
 
-**[Bitcoin Is Dropping Fast… $40K or Is the Bottom In?](https://www.youtube.com/watch?v=Q9BTqRh_oTM)**
+**[My Biggest Bitcoin Buy Is Still Ahead 😱](https://www.youtube.com/watch?v=SUW7_WOvitQ)**
 
-Every Bitcoin bear market follows the same pattern — and we're right on schedule. Here's what history says happens next, and ...
+My Biggest Bitcoin Buy Is Still Ahead ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
 
-📺 CoinGecko
+📺 Stocks with Josh
 
-👁️ 17K • 👍 577 • 💬 116 • ⏱️ 6:32 • 1d ago
-
----
-
-**[Something Feels Wrong With Bitcoin Right Now](https://www.youtube.com/watch?v=7RwbMp_ansE)**
-
-Why has Bitcoin been struggling while every other asset rips (before today's correction of course)? In this video I explore the 4 key ...
-
-📺 Coinsider
-
-👁️ 6K • 👍 154 • 💬 82 • ⏱️ 12:54 • 22h ago
+👁️ 9K • 👍 259 • 💬 14 • ⏱️ 1:00 • 21h ago
 
 ---
 
