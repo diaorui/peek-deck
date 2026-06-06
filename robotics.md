@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T10:06:07.558216+00:00'
+updated: '2026-06-06T11:53:41.975184+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 10:06 UTC  
+**Last Updated:** June 06, 2026 at 11:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-13h ago
+15h ago
 
 ---
 
@@ -50,19 +50,19 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
 
-6h ago
+8h ago
 
 ---
 
 **[reality vs lidar](https://www.reddit.com/r/robotics/comments/1ty52hw/reality_vs_lidar/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -70,7 +70,7 @@ Leaning towards uncanny valley obviously versus trying to make it sound too real
 
 Hi all, I’m trying to understand how people working with physical AI, embodied AI, robotics, or VLA models think about benchmarks in practice. This is not a product promotion or a request for upvotes. I’m looking for practical perspectives from people who run, read, or rely on benchmark results. A few questions: - Which benchmarks do you actually pay attention to? - Do benchmark scores influence model, policy, or framework choices, or are they mostly sanity checks? - What makes a benchmark result credible to you? - How much do you trust simulated task results compared with real-robot or hardware-in-the-loop results? - What are the biggest red flags when you see a physical AI benchmark claim? I’m especially interested in how people separate useful evidence from leaderboard noise, overfitting, cherry-picked demos, or unclear evaluation protocols. If this is too broad for this subreddit, I’m happy to narrow the question.
 
-9h ago
+10h ago
 
 ---
 
@@ -78,19 +78,19 @@ Hi all, I’m trying to understand how people working with physical AI, embodied
 
 In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
 
-17h ago
+18h ago
 
 ---
 
 **[Similar issue different model (Seeed studio Servo bus board xiao v1) with Sts 3215 (I know its supposed to go into ask robotics but initial post was from here)](https://www.reddit.com/r/robotics/comments/1ty4s8j/similar_issue_different_model_seeed_studio_servo/)**
 
-7h ago
+9h ago
 
 ---
 
 **[The calibration of the laser offset for object pointing is really difficult. i will now try Measure your actual camera FOV: Set servo to Pan=90° (center) Hold a ruler at a known distance (e.g., 100 cm) See how many centimeters wide the image area is FOV = 2 × atan(width/2 / distance) × 180/π](https://www.reddit.com/r/robotics/comments/1ty4mbn/the_calibration_of_the_laser_offset_for_object/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ In my previous post was a little showcase of my implementation of the pure pursu
 
 Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this? L.E.1. I'm based in Europe. I think online only competitions would be easiest to start with to get momentum going, then if the results are worth it, we can consider meeting in person if it makes sense. L.E.2. I don't have the next challenge in mind yet, I'm open to suggestions.
 
-19h ago
+21h ago
 
 ---
 
@@ -106,23 +106,17 @@ Hey all, I'm a robotics engineer by training turned ML/AI engineer because of pa
 
 ## Google News: "robotics"
 
-**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
 Reuters • 1d ago
 
 ---
 
-**[Amazon unveils latest warehouse robot as tech giants continue AI layoffs](https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html)**
+**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
 
-"Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
+Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
 
-CNBC • 19h ago
+About Amazon • 2d ago
 
 ---
 
@@ -134,11 +128,17 @@ NPR • 1d ago
 
 ---
 
-**[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-045529173.html)**
+**[Amazon unveils latest warehouse robot as tech giants continue AI layoffs](https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html)**
 
-Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
+"Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-Yahoo Finance • 1d ago
+CNBC • 21h ago
+
+---
+
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -147,6 +147,22 @@ Yahoo Finance • 1d ago
 Robot demonstrations can distort public perceptions of robotic capabilities.
 
 Ars Technica • 1d ago
+
+---
+
+**[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-045529173.html)**
+
+Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Spelman announces robotics, AI expert as college’s next president](https://www.ajc.com/education/2026/06/spelman-announces-robotics-ai-expert-as-colleges-next-president/)**
+
+Spelman College announces engineering educator Ayanna Howard will be the next president of the all-female Atlanta HBCU.
+
+AJC.com • 21h ago
 
 ---
 
@@ -161,22 +177,6 @@ Dronelife • 1d ago
 **[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
 South China Morning Post • 1d ago
-
----
-
-**[NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)**
-
-New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development.
-
-NVIDIA Blog • 2d ago
-
----
-
-**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
-
-Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
-
-Shore Daily News • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 8K • 👍 233 • 💬 25 • ⏱️ 6:04 • 15h ago
+👁️ 8K • 👍 233 • 💬 25 • ⏱️ 6:04 • 16h ago
 
 ---
 
@@ -230,7 +230,7 @@ Unitree's G1 humanoid robots made history on the Season 21 premiere of America's
 
 📺 sXe Finance
 
-👁️ 37K • 👍 941 • 💬 57 • ⏱️ 0:44 • 23h ago
+👁️ 37K • 👍 941 • 💬 57 • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Open Bionics built a bionic hand that detaches and keeps moving on its own. Afte
 
 📺 AzlanX
 
-👁️ 13K • 💬 7 • ⏱️ 0:34 • 13h ago
+👁️ 13K • 💬 7 • ⏱️ 0:34 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Open Bionics built a bionic hand that detaches and keeps moving on its own. Afte
 
 📺 Brut India
 
-👁️ 94K • 👍 1K • 💬 175 • ⏱️ 0:27 • 23h ago
+👁️ 94K • 👍 1K • 💬 175 • ⏱️ 0:27 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ Open Bionics built a bionic hand that detaches and keeps moving on its own. Afte
 
 📺 Bigdaddyleo “Bigdaddyleo”
 
-👁️ 28K • 👍 4K • 💬 126 • ⏱️ 0:25 • 10h ago
+👁️ 28K • 👍 4K • 💬 126 • ⏱️ 0:25 • 11h ago
 
 ---
 

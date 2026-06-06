@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T10:06:07.554911+00:00'
+updated: '2026-06-06T11:53:41.972276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 10:06 UTC  
+**Last Updated:** June 06, 2026 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,574.22
+### $1,564.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.3%  
-**7d:** -22.3%  
-**30d:** -32.4%  
-**90d:** -21.8%  
-**1y:** -38.3%  
+**24h:** -5.8%  
+**7d:** -22.2%  
+**30d:** -32.3%  
+**90d:** -21.7%  
+**1y:** -38.2%  
 
 ---
 
@@ -72,13 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
+
+---
+
+**[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
+
+1h ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
 
-42m ago
+2h ago
 
 ---
 
@@ -94,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated financial infrastructure ever built, and i still have to convert everything to fiat just to buy groceries. The DeFi side is incredible. Lending, borrowing, yield all of it works seamlessly but the moment you want to actually spend your stablecoins in real life you're back to exchanges, fees and waiting for bank transfers. Everything works perfectly until you want to spend it somewhere normal
 
-20h ago
+22h ago
 
 ---
 
@@ -138,17 +144,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[The fiat side of running an offshore crypto company is still broken](https://www.reddit.com/r/ethereum/comments/1tw2m29/the_fiat_side_of_running_an_offshore_crypto/)**
-
-Small team working on a protocol and incorporated in Cayman because thats what made sense for the structure. On-chain treasury management works great but the second we need to do anything in fiat its a nightmare for paying auditors, legal, hosting, salaries etc. Anyone else running a Cayman or BVI crypto company and figured out the fiat banking side
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
+
+BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
+
+Decrypt • 17h ago
+
+---
 
 **[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
 
@@ -156,25 +162,19 @@ Barron's • 1d ago
 
 ---
 
-**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
+**[These 2 Cryptocurrencies Have Better Outlooks Than Solana or Ethereum. Should You Buy Them?](https://finance.yahoo.com/markets/crypto/articles/2-cryptocurrencies-better-outlooks-solana-111500476.html)**
 
-BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
+For a coin to be successful, it's necessary to have holder-friendly policies.
 
-Decrypt • 16h ago
-
----
-
-**[Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits](https://finance.yahoo.com/markets/crypto/articles/crypto-crash-today-why-bitcoin-222002231.html)**
-
-The crypto market cap stood at $2.53 trillion last Wednesday. As of this morning, it has dropped to $2.25 trillion, with Bitcoin (CRYPTO: BTC) testing $61,500 overnight before rebounding to $63K. There’s quite a few reasons for the market plunge. Strategy broke a years-long rule and sold Bitcoin for the first time in nearly four ... Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 38m ago
 
 ---
 
-**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
+**[Joseph Lubin’s $122 Million Move Sparks Sell-Off Fears for Ethereum](https://finance.yahoo.com/markets/crypto/articles/joseph-lubin-122-million-move-104914278.html)**
 
-Crowdfund Insider • 1d ago
+Joseph Lubin moved 80,001 ETH after three years, but on-chain data shows the funds went to MakerDAO, not an exchange.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,25 +186,15 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
+
+Crowdfund Insider • 1d ago
+
+---
+
 **[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-富途牛牛 • 10h ago
-
----
-
-**[Ethereum Liquidation Risk Mounts as $547 Million in DeFi Positions Near Critical Levels](https://coinpedia.org/price-analysis/ethereum-liquidation-risk-mounts-as-547-million-in-defi-positions-near-critical-levels/)**
-
-Ethereum is once again staring at a familiar crypto nightmare: leveraged positions stacked on top of each other while price action starts to crack.
-
-Coinpedia • 17h ago
-
----
-
-**[ETHUSD- Ethereum Price Tumbles by 10% on Panic Selling](https://dmarketforces.com/ethusd-ethereum-plunges-by-10-on-panic-selling/)**
-
-Ethereum price (ETHUSD) dropped by about 10% in 24 hours to $1,598.17, underperforming Bitcoin's 3.92% drop, primarily driven by a cascade
-
-MarketForces Africa • 16h ago
+富途牛牛 • 11h ago
 
 ---
 
@@ -212,15 +202,23 @@ MarketForces Africa • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 22h ago
 
 ---
 
-**[“Ethereum is a Failed Project” Says Bankless Founder](https://www.tradingview.com/news/coinpedia:f9203703e094b:0-ethereum-is-a-failed-project-says-bankless-founder/)**
+**[Ethereum Liquidation Risk Mounts as $547 Million in DeFi Positions Near Critical Levels](https://coinpedia.org/price-analysis/ethereum-liquidation-risk-mounts-as-547-million-in-defi-positions-near-critical-levels/)**
 
-Bankless Co-founder Ryan Sean Adams said that Ethereum is a failed project if ETH never becomes a global store of value. His comments come as ETH trades near April 2025 levels, down roughly 67% from its record high of $4953.Perhaps responding to the Adams statement sparked debate in the community…
+Ethereum is once again staring at a familiar crypto nightmare: leveraged positions stacked on top of each other while price action starts to crack.
 
-TradingView • 1d ago
+Coinpedia • 19h ago
+
+---
+
+**[ETHUSD- Ethereum Price Tumbles by 10% on Panic Selling](https://dmarketforces.com/ethusd-ethereum-plunges-by-10-on-panic-selling/)**
+
+Ethereum price (ETHUSD) dropped by about 10% in 24 hours to $1,598.17, underperforming Bitcoin's 3.92% drop, primarily driven by a cascade
+
+MarketForces Africa • 18h ago
 
 ---
 
@@ -234,7 +232,7 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 316 • 💬 16 • ⏱️ 8:30 • 10h ago
+👁️ 6K • 👍 316 • 💬 16 • ⏱️ 8:30 • 12h ago
 
 ---
 
@@ -244,7 +242,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 1K • 👍 20 • 💬 3 • ⏱️ 5:45 • 15h ago
+👁️ 1K • 👍 20 • 💬 3 • ⏱️ 5:45 • 17h ago
 
 ---
 
@@ -254,7 +252,7 @@ Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX
 
 📺 Lark Davis
 
-👁️ 26K • 👍 1K • 💬 260 • ⏱️ 20:00 • 22h ago
+👁️ 26K • 👍 1K • 💬 260 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -264,7 +262,7 @@ BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 9K • 👍 411 • 💬 82 • ⏱️ 21:38 • 7h ago
+👁️ 9K • 👍 411 • 💬 82 • ⏱️ 21:38 • 9h ago
 
 ---
 
@@ -274,7 +272,7 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 21K • 👍 2K • 💬 248 • ⏱️ 13:31 • 16h ago
+👁️ 21K • 👍 2K • 💬 248 • ⏱️ 13:31 • 17h ago
 
 ---
 
@@ -284,7 +282,7 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 📺 Jake Call
 
-👁️ 1K • 👍 27 • 💬 10 • ⏱️ 10:22 • 15h ago
+👁️ 1K • 👍 27 • 💬 10 • ⏱️ 10:22 • 16h ago
 
 ---
 
