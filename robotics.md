@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T21:05:52.299015+00:00'
+updated: '2026-06-06T22:36:17.857381+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 21:05 UTC  
+**Last Updated:** June 06, 2026 at 22:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -56,21 +56,21 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
 
-6h ago
-
----
-
-**[Build of IRON FLEET Sherman](https://www.reddit.com/r/robotics/comments/1tyme0q/build_of_iron_fleet_sherman/)**
-
-Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
-
-4h ago
+8h ago
 
 ---
 
 **[Our hands-on workshop is ready for Sunday.](https://www.reddit.com/r/robotics/comments/1tykbqg/our_handson_workshop_is_ready_for_sunday/)**
 
 The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
+
+7h ago
+
+---
+
+**[Build of IRON FLEET Sherman](https://www.reddit.com/r/robotics/comments/1tyme0q/build_of_iron_fleet_sherman/)**
+
+Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
 
 5h ago
 
@@ -80,13 +80,13 @@ The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-o
 
 I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
 
-🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 3h ago
+🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 5h ago
 
 ---
 
 **[Help: Robotics Project Ideas for Teenangers](https://www.reddit.com/r/robotics/comments/1tyh439/help_robotics_project_ideas_for_teenangers/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -94,7 +94,7 @@ I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll pro
 
 Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
 
-17h ago
+18h ago
 
 ---
 
@@ -116,9 +116,9 @@ About Amazon • 2d ago
 
 ---
 
-**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
-Bloomberg.com • 2d ago
+Reuters • 1d ago
 
 ---
 
@@ -138,33 +138,33 @@ Shore Daily News • 1d ago
 
 ---
 
-**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
-
-Reuters • 1d ago
-
----
-
 **[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
 
 ---
 
-**[Congress Introduces GUARD Act, Extending FCC Covered List Framework to Robotics](https://dronelife.com/2026/06/04/congress-introduces-guard-act-extending-fcc-covered-list-framework-to-robotics/)**
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
-Proposal would require national security reviews of certain foreign-made robots, extending the FCC Covered List framework beyond drones.
-
-Dronelife • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
+**[Shifters: Robots on the frontline](https://www.jpost.com/defense-and-tech/article-898434)**
 
-Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
+Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
 
-Fox Business • 3d ago
+The Jerusalem Post • 2d ago
+
+---
+
+**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-051530964.html)**
+
+Nvidia CEO Jensen Huang on Friday said robotics will be South Korea's next major sector, as he arrived for his second visit in seven months, ‌underscoring deepening ties with local firms in not only chips but also robotics and AI factories.  "Because Korea is ‌a manufacturing centre of the world, we can apply the robotics technology, the physical AI technology that we invent here for the industry," he told ​reporters after landing at Gimpo International Airport on a flight from Taiwan.  South Korea is a key Asian manufacturing powerhouse - home to major manufacturers of chips, electronics, cars and ships.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ BBC • 2d ago
 
 Most underwater robots lose contact with the surface the moment they descend. But a new antenna technology, borrowed from the physics of medical implants, is rethinking how submarine machines talk to each other – and to us.
 
-New Atlas • 7h ago
+New Atlas • 9h ago
 
 ---
 
@@ -194,7 +194,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 28K • 👍 936 • 💬 870 • ⏱️ 2:17 • 6h ago
+👁️ 52K • 👍 1K • 💬 1K • ⏱️ 2:17 • 7h ago
 
 ---
 
@@ -204,7 +204,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 16K • 👍 472 • 💬 50 • ⏱️ 15:31 • 1d ago
+👁️ 16K • 👍 473 • 💬 51 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 2.8M • 👍 49K • 💬 5K • ⏱️ 6:01 • 4d ago
+👁️ 2.8M • 👍 50K • 💬 6K • ⏱️ 6:01 • 4d ago
 
 ---
 
@@ -224,7 +224,7 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 9K • 👍 291 • 💬 29 • ⏱️ 6:04 • 1d ago
+👁️ 9K • 👍 300 • 💬 31 • ⏱️ 6:04 • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 895K • 👍 14K • 💬 1K • ⏱️ 5:01 • 4d ago
+👁️ 924K • 👍 14K • 💬 1K • ⏱️ 5:01 • 4d ago
 
 ---
 
@@ -244,7 +244,7 @@ Meet NEXi – my fully autonomous AI robot ✨ After months of development, codi
 
 📺 HD Robotics
 
-👁️ 301 • 👍 3 • ⏱️ 1:10 • 3h ago
+👁️ 698 • 👍 6 • 💬 2 • ⏱️ 1:10 • 5h ago
 
 ---
 
@@ -254,25 +254,7 @@ Unitree's G1 humanoid robots made history on the Season 21 premiere of America's
 
 📺 sXe Finance
 
-👁️ 66K • 👍 1K • 💬 104 • ⏱️ 0:44 • 1d ago
-
----
-
-**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
-
-Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
-
-📺 PREDATOR WR
-
-👁️ 12K • 👍 391 • 💬 87 • ⏱️ 15:22 • 1d ago
-
----
-
-**[Humanoid robot kicks child during public demo](https://www.youtube.com/watch?v=PTrCX4Kge1U)**
-
-📺 Brut India
-
-👁️ 107K • 👍 1K • 💬 199 • ⏱️ 0:27 • 1d ago
+👁️ 69K • 👍 1K • 💬 105 • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -282,7 +264,25 @@ Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #r
 
 📺 EAZYTRONIC
 
-👁️ 8K • 👍 102 • ⏱️ 0:27 • 11h ago
+👁️ 9K • 👍 116 • ⏱️ 0:27 • 13h ago
+
+---
+
+**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
+
+Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
+
+📺 PREDATOR WR
+
+👁️ 12K • 👍 395 • 💬 87 • ⏱️ 15:22 • 1d ago
+
+---
+
+**[Humanoid robot kicks child during public demo](https://www.youtube.com/watch?v=PTrCX4Kge1U)**
+
+📺 Brut India
+
+👁️ 109K • 👍 1K • 💬 204 • ⏱️ 0:27 • 1d ago
 
 ---
 

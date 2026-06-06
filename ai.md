@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-06T21:05:52.281039+00:00'
+updated: '2026-06-06T22:36:17.841599+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 06, 2026 at 21:05 UTC  
+**Last Updated:** June 06, 2026 at 22:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,45 +39,13 @@ AI news, discussions, and developments
 
 **[A company just sent me the most detailed rejection email I’ve ever received](https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
 
-16h ago
-
----
-
-**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
-
-I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
-
-4h ago
-
----
-
-**[I've been making AI short films for a while — here are some things I noticed that most people get wrong about AI video generation](https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/)**
-
-Prompt length doesn't equal quality. Most people write paragraphs. Short, visual, specific prompts almost always win. Consistency is the real challenge. Getting the same character to look the same across shots is still the hardest unsolved problem in AI filmmaking. Audio kills or saves the whole thing. Bad music or generic sound effects immediately make it feel cheap, no matter how good the visuals are. People overthink the tools and underthink the story. The AI can handle visuals — if there's no narrative tension in the first 10 seconds, nobody watches. Iteration speed is the actual superpower. Treat it like editing — make 20 versions, pick the one that works. What tools are you all using for AI video right now?
-
-2h ago
-
----
-
-**[Ai general question](https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/)**
-
-Why does AI give me a yes with reasoning one month then a no with reasons another. With the same exact question?
-
-2h ago
-
----
-
-**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
-
-there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
-
-3h ago
+17h ago
 
 ---
 
@@ -85,7 +53,47 @@ there's a pattern i keep seeing in multi-model setups (karpathy's llm council, t
 
 I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
 
-1h ago
+3h ago
+
+---
+
+**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
+
+I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
+
+6h ago
+
+---
+
+**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
+
+there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
+
+5h ago
+
+---
+
+**[I've been making AI short films for a while — here are some things I noticed that most people get wrong about AI video generation](https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/)**
+
+Prompt length doesn't equal quality. Most people write paragraphs. Short, visual, specific prompts almost always win. Consistency is the real challenge. Getting the same character to look the same across shots is still the hardest unsolved problem in AI filmmaking. Audio kills or saves the whole thing. Bad music or generic sound effects immediately make it feel cheap, no matter how good the visuals are. People overthink the tools and underthink the story. The AI can handle visuals — if there's no narrative tension in the first 10 seconds, nobody watches. Iteration speed is the actual superpower. Treat it like editing — make 20 versions, pick the one that works. What tools are you all using for AI video right now?
+
+3h ago
+
+---
+
+**[Ai general question](https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/)**
+
+Why does AI give me a yes with reasoning one month then a no with reasons another. With the same exact question?
+
+4h ago
+
+---
+
+**[Which country can replace Taiwan? Realistically...](https://www.reddit.com/r/artificial/comments/1tyu8rw/which_country_can_replace_taiwan_realistically/)**
+
+The world knows that Taiwan is the only geopoliticial chockpoint of ai. Realistically speaking, which country / countries can replace it in mid term and long term? and why it hasn't happened yet?
+
+30m ago
 
 ---
 
@@ -93,23 +101,15 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 Now I myself have not used AI a ton beyond making a funny picture or two on ChatGPT/Gemini and maybe asking it a few things on the fly if I need a second opinion on something - and sometimes it's been helpful. The biggest thing I hear from the "Fuck AI" crowd is that it ruins the creative circles like artists, authors, etc. because it copies their work. I sympathize with their hate, but I've heard an argument that it's not doing anything different than what we do when/if AI didn't play a role in anything: look at other people's work for inspiration then create something. Like we can't create a song in a vacuum, we need to learn and be exposed to music theory, notes, other styles of music, instruments, etc. So someone starting a band didn't make something brand new, it took pieces from other artists. And the part that makes me sing AIs praises, so to speak, is its use in the medical field. Doctor Mike posted a video about a year ago talking about this. Like, if it's improving healthcare to the point that it's detecting life threatening things to help doctors treat and cure us more effectively and efficiently, why are we trying to get rid of it? Maybe that's not what people are saying when they want AI gone or saying how 'awful' it is, but I just hope we don't end up throwing the baby out with the bathwater with AI because I genuinely think it's an astonishing thing that's clearly helpful in certain circles.
 
-6h ago
+8h ago
 
 ---
 
-**[The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces](https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/)**
+**[An open-source tool for validating code changes with browser recordings](https://www.reddit.com/r/artificial/comments/1tyuija/an_opensource_tool_for_validating_code_changes/)**
 
-After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing. For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermediate thoughts. Chain-of-Thought prompting (Wei et al., 2022) pushed PaLM 540B from roughly 18% to 58% on GSM8K. Self-Consistency added another 17.9 percentage points by exploring multiple reasoning paths before committing to an answer. Tree-of-Thoughts later showed that GPT-4's success rate on Game of 24 could jump from 4% to 74% when reasoning was reformulated as search rather than a single chain. DeepSeek-R1 and OpenAI's o1 pushed the idea even further by allocating substantial test-time compute to reasoning itself. Taken together, these results seemed to point in the same direction: giving models additional reasoning trajectories, search paths, or thinking steps often improved outcomes. Recent work increasingly asks whether those traces are actually necessary. Quiet-STaR doesnt treat reasoning traces primarily as explanations for humans. Instead, it trains models to generate internal rationales that improve future token prediction. COCONUT goes a step further and asks a more radical question: why force reasoning to be represented as language at all? Rather than generating reasoning tokens, it feeds continuous hidden states back into the model and performs reasoning directly in latent space. Fast Quiet-STaR then shows that some of the benefits of explicit reasoning can be retained even after removing thought-token generation during inference. This feels like a meaningful shift in research direction. For a while, the field seemed focused on making reasoning more visible. Recent work increasingly explores whether visibility is actually necessary. One way to interpret this is that Chain-of-Thought was never the reasoning process itself. It was a computational scaffold. Transformers perform a fixed amount of computation per generated token. Chain-of-Thought effectively gives them an external workspace: a place to store intermediate states, revisit assumptions, branch into alternatives, and correct mistakes. The performance gains may come less from language itself and more from the additional computation that language enables. If that's the case, then latent reasoning becomes a natural next step. Once we've established that extra computation helps, the obvious question is whether that computation must be expressed in language at all. What's interesting is that this debate is happening at the same time that other work is questioning whether reasoning traces are even faithful descriptions of model cognition. Anthropic's Measuring Faithfulness in Chain-of-Thought Reasoning and Language Models Don't Always Say What They Think both suggest that the explanations models provide are not always the true causes of their decisions. At the architectural level, ideas such as BDH (Dragon Hatchling) are also exploring reasoning as evolving graph states and pathways rather than explicit chains of textual thoughts. Taken together, I think the most interesting question in reasoning research has quietly changed. A year ago the question was: "can LLMs reason?" Today it feels closer to: "if reasoning is fundamentally computation over state, how much of it actually needs to be language?" Curious how others think about this. Is Chain-of-Thought a fundamental component of reasoning systems? Or will we eventually view it the same way we view training wheels: incredibly useful, but ultimately something advanced systems learn to do without?
+Lately I've been experimenting on an open-source project called Canary. https://preview.redd.it/c4dgxw22lq5h1.png?width=1920&format=png&auto=webp&s=304f37871aa9b7ee0a084d8b59207fae51d8b7bc It takes a code diff, identifies the UI flows that are likely affected, and then uses Claude Code to test those paths in a real browser. Every run captures video, screenshots, network traffic, HAR files, console logs, and Playwright traces. The result is both a validation run and a replayable Playwright script.
 
-1d ago
-
----
-
-**[Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956](https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/)**
-
-Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the "destruction of student math skills." A similar debate is happening today across a range of areas, including coding, writing and even music. Will using AI lead a brain drain across these and many other areas? One of my favorite authors is Isaac Asimov. He's better known for his Foundation and Robot series of books where he contemplates whether an algorithm can successfully predict (and guide) humankind's development and the relationship between super artificial intelligence and humans. In some ways he predicted what we're experiencing today with AI: the rise of powerful, inscrutable artificial machines that are so complex humans can't understand or maintain them. In the short story, "The Last Question" he wrote: "Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough." We're living an age that was once the stuff of science fiction. The question is: what comes next?
-
-1d ago
+18m ago
 
 ---
 
@@ -121,69 +121,73 @@ Back in the 1980s a debate raged about whether it was okay to let children use c
 
 These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-The Washington Post • 5h ago
-
----
-
-**[Revenge of the AI bubble](https://www.axios.com/2026/06/06/ai-bubble-economy-growth)**
-
-Axios • 8h ago
-
----
-
-**[Universal Basic Capital: Why Both Trump And Bernie Sanders Want To Give Americans AI Equity](https://www.forbes.com/sites/alisondurkee/2026/06/06/could-americans-build-wealth-through-ai-why-trump-may-be-considering-equity-sharing-scheme/)**
-
-The policy has attracted support from both sides of the aisle on how to respond to AI, but economists still have concerns.
-
-Forbes • 10h ago
-
----
-
-**[Former AI czar calls billl for government equity a 'stupidity tax' and warns against nationalization](https://fortune.com/2026/06/06/former-ai-czar-david-sacks-bernie-sanders-bill-government-equity-stupidity-tax-nationalization-trump-public-stakes/)**
-
-"Dario and Sam have begun to walk back their claims of massive job loss, but the damage to public trust is done, and now the chickens are coming home to roost."
-
-Fortune • 1h ago
+The Washington Post • 6h ago
 
 ---
 
 **[Trump: U.S. stake in AI giants "could be a beautiful thing"](https://www.axios.com/2026/06/06/trump-us-stake-ai-companies)**
 
-Axios • 7h ago
+Axios • 9h ago
 
 ---
 
-**[Trump AI Policy Adviser Krishnan Is Giving Up White House Role](https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role)**
+**[Hackers exploit Meta AI chatbot to breach prominent accounts](https://www.foxnews.com/video/6397762475112)**
 
-Bloomberg.com • 1h ago
+Cybersecurity and privacy attorney Leeza Garber discusses how hackers used Meta's A.I. chatbot to breach prominent social media accounts on ‘Fox Report.’
 
----
-
-**[White House AI policy adviser Krishnan to leave position](https://www.staradvertiser.com/2026/06/06/breaking-news/white-house-ai-policy-adviser-krishnan-to-leave-position/)**
-
-A top White House artificial intelligence policy advisor on Saturday said he will leave his position at the end of June, marking the exit of a leading figure helping craft policies for frontier technologies. “This journey has been the privilege of a lifetime,” the adviser, Sriram Krishnan, posted on social media platform X.
-
-Honolulu Star-Advertiser • 24m ago
-
----
-
-**[Top Trump artificial intelligence adviser to leave the White House](https://www.washingtonpost.com/politics/2026/06/06/trump-top-ai-advisor-leaving-white-house/)**
-
-Sriram Krishnan, who has been central to the administration’s AI efforts, will probably continue to play an active role in its approach to the technology.
-
-The Washington Post • 1h ago
+Fox News • 1h ago
 
 ---
 
 **[A.I. Companies Don’t Know What to Do With Alex Bores](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
-**[Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test](https://www.reuters.com/business/marvell-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test-2026-06-05/)**
+**[My father and I started a parking lot clean-up business. It's been 45 years, and my family-run company is still AI-proof.](https://www.businessinsider.com/family-run-business-cleans-up-parking-lots-ai-proof-2026-6)**
 
-Reuters • 23h ago
+My dad inspired me to start a small business cleaning parking lots, and I expanded it to multiple states. I call it "America's Simplest Business."
+
+Business Insider • 8h ago
+
+---
+
+**[Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise](https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed)**
+
+Investors sold stocks, bonds, bitcoin and gold Friday after strong jobs data raised odds for Federal Reserve interest rate hikes, and Wall Street wrestled with weakness in AI stocks.
+
+CNN • 1d ago
+
+---
+
+**[SaaS Stocks Are Rallying on AI Optimism. 3 Stocks to Buy Now.](https://www.fool.com/investing/2026/06/06/saas-stocks-are-rallying-on-ai-optimism-3-stocks/)**
+
+These three SaaS stocks have plenty more upside ahead.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Fed’s Mary Daly has blunt message for AI stock investors](https://www.thestreet.com/investing/feds-mary-daly-has-blunt-message-for-ai-stock-investors)**
+
+thestreet.com • 6h ago
+
+---
+
+**[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
+
+The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
+
+Fortune • 1d ago
+
+---
+
+**[Nashville Zoo tries to halt data center project next door over animal safety concerns](https://www.nbcnews.com/tech/tech-news/leopards-tigers-ai-data-oh-nashville-zoo-tries-halt-proposed-data-cent-rcna348735)**
+
+It’s the latest example of data centers getting pushback in communities nationwide, as neighbors say they don’t want to live near them.
+
+NBC News • 19h ago
 
 ---
 
@@ -195,7 +199,7 @@ Reuters • 23h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 821 • 💬 784 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 822 • 💬 786 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -211,7 +215,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 518 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 520 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -219,13 +223,13 @@ Our progress toward recursive self-improvement, and its implications.
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 416 • 💬 258 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 416 • 💬 260 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 304 • 💬 530 • 18h ago
+⬆️ 334 • 💬 575 • 20h ago
 
 ---
 
@@ -234,6 +238,14 @@ Nasa had directed five of the seven astronauts to shelter inside the docked Spac
 Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
 
 ⬆️ 272 • 💬 68 • 1d ago • [GitHub](https://github.com/alibaba/open-code-review)
+
+---
+
+**[Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://news.ycombinator.com/item?id=48427643)**
+
+Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
+
+⬆️ 261 • 💬 92 • 4h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
@@ -247,7 +259,7 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 185 • 💬 82 • 11h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 192 • 💬 84 • 13h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -257,17 +269,19 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 ---
 
-**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
-
-Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
-
-⬆️ 167 • 💬 104 • 2d ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[How I Make VIRAL 3D Documentary Videos Using FREE AI Tools (FULL COURSE)](https://www.youtube.com/watch?v=YjmE-1gzLVY)**
+
+3D documentary videos are one of the biggest opportunities in faceless YouTube right now, and in this full course, I'll show you ...
+
+📺 Money Degree
+
+👁️ 2K • 👍 120 • 💬 34 • ⏱️ 27:45 • 10h ago
+
+---
 
 **[How to Make Hollywood Level AI Films People Would Pay to Watch (Higgsfield AI)](https://www.youtube.com/watch?v=KFTX8UhGeBY)**
 
@@ -275,7 +289,7 @@ Make Hollywood Level AI Films using Higgsfield https://higgsfield.ai?fpr=ai&fp_s
 
 📺 Roboverse
 
-👁️ 7K • ⏱️ 10:38 • 5h ago
+👁️ 9K • ⏱️ 10:38 • 6h ago
 
 ---
 
@@ -285,27 +299,7 @@ You've probably heard that the artificial intelligence revolution is running out
 
 📺 The Infographics Show
 
-👁️ 88K • 👍 3K • 💬 767 • ⏱️ 19:55 • 5h ago
-
----
-
-**[I Discovered The AI Girlfriend Epidemic](https://www.youtube.com/watch?v=Peg814-7dH8)**
-
-christinegracesmith #news #latestlunacy Hey!  Thank you so much for watching   To support the channel please consider ...
-
-📺 Christine Grace Smith
-
-👁️ 66K • 👍 4K • 💬 1K • ⏱️ 29:00 • 2d ago
-
----
-
-**[Anthropic Just Warned Everyone About Claude (It’s Evolving)](https://www.youtube.com/watch?v=JlwwyNtHsCI)**
-
-Anthropic just published a major warning about AI self-improvement, and the numbers behind it are hard to ignore. Claude is now ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 2K • 💬 245 • ⏱️ 17:13 • 21h ago
+👁️ 147K • 👍 4K • 💬 1K • ⏱️ 19:55 • 7h ago
 
 ---
 
@@ -315,27 +309,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku
 
 📺 Dan Martell
 
-👁️ 68K • 👍 3K • 💬 137 • ⏱️ 14:11 • 2d ago
+👁️ 70K • 👍 3K • 💬 141 • ⏱️ 14:11 • 2d ago
 
 ---
 
-**[These New AI Robots Just Became TOO POWERFUL… And It’s Getting Weird](https://www.youtube.com/watch?v=5_EEAGDV1aA)**
+**[Anthropic Just Warned Everyone About Claude (It’s Evolving)](https://www.youtube.com/watch?v=JlwwyNtHsCI)**
 
-These AI robots just crossed into territory that feels almost too real — and you need to see this. A robot is now beating skilled ...
+Anthropic just published a major warning about AI self-improvement, and the numbers behind it are hard to ignore. Claude is now ...
 
-📺 The AI Nexus
+📺 AI Revolution
 
-👁️ 3K • 👍 112 • 💬 7 • ⏱️ 59:14 • 17h ago
-
----
-
-**[How I Make VIRAL 3D Documentary Videos Using FREE AI Tools (FULL COURSE)](https://www.youtube.com/watch?v=YjmE-1gzLVY)**
-
-3D documentary videos are one of the biggest opportunities in faceless YouTube right now, and in this full course, I'll show you ...
-
-📺 Money Degree
-
-👁️ 1K • 👍 103 • 💬 33 • ⏱️ 27:45 • 9h ago
+👁️ 51K • 👍 2K • 💬 251 • ⏱️ 17:13 • 22h ago
 
 ---
 
@@ -345,17 +329,15 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 95K • 👍 5K • 💬 610 • ⏱️ 7:25 • 2d ago
+👁️ 96K • 👍 6K • 💬 620 • ⏱️ 7:25 • 2d ago
 
 ---
 
-**[AI News: Microsoft Finally Reveals Their Plan!](https://www.youtube.com/watch?v=nz4h3H1MmTg)**
+**[AI Tells Me to Drink Bleach](https://www.youtube.com/watch?v=Eky_eh-aSuM)**
 
-Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
+📺 CodeMiko
 
-📺 Matt Wolfe
-
-👁️ 43K • 👍 2K • 💬 255 • ⏱️ 30:17 • 1d ago
+👁️ 15K • 👍 1K • 💬 99 • ⏱️ 0:49 • 9h ago
 
 ---
 
@@ -365,7 +347,27 @@ The artificial intelligence company's warns that we need to pause development be
 
 📺 ABC News
 
-👁️ 66K • 👍 1K • 💬 484 • ⏱️ 4:00 • 1d ago
+👁️ 69K • 👍 1K • 💬 499 • ⏱️ 4:00 • 1d ago
+
+---
+
+**[AI News: Microsoft Finally Reveals Their Plan!](https://www.youtube.com/watch?v=nz4h3H1MmTg)**
+
+Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
+
+📺 Matt Wolfe
+
+👁️ 45K • 👍 2K • 💬 256 • ⏱️ 30:17 • 1d ago
+
+---
+
+**[I Discovered The AI Girlfriend Epidemic](https://www.youtube.com/watch?v=Peg814-7dH8)**
+
+christinegracesmith #news #latestlunacy Hey!  Thank you so much for watching   To support the channel please consider ...
+
+📺 Christine Grace Smith
+
+👁️ 67K • 👍 4K • 💬 1K • ⏱️ 29:00 • 2d ago
 
 ---
 
@@ -465,7 +467,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 95,440 • ❤️ 530 • 21h ago
+⬇️ 95,440 • ❤️ 530 • 23h ago
 
 ---
 
@@ -638,7 +640,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 58.3k • 🔱 7.0k • 6h ago
+⭐ 58.8k • 🔱 7.1k • 1m ago
 
 ---
 
@@ -716,7 +718,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.7k • 🔱 128 • 11h ago
+⭐ 1.7k • 🔱 129 • 13h ago
 
 ---
 
@@ -726,7 +728,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.7k • 🔱 181 • 6h ago
+⭐ 1.7k • 🔱 184 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T21:05:52.295818+00:00'
+updated: '2026-06-06T22:36:17.854500+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 21:05 UTC  
+**Last Updated:** June 06, 2026 at 22:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,557.93
+### $1,555.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -22.3%  
-**30d:** -32.4%  
+**24h:** -1.7%  
+**7d:** -22.4%  
+**30d:** -32.5%  
 **90d:** -21.9%  
-**1y:** -38.3%  
+**1y:** -38.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $187.59B
+**Market Cap:** $187.67B
 Rank #2
 
 **Circulating Supply:** 120,684,554 ETH
@@ -62,7 +62,7 @@ No max supply
 -68.6%
 
 **All-Time Low:** $0.43
-+358975.2%
++358956.7%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-10h ago
+12h ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -162,11 +162,11 @@ Benzinga • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Prices 9.5% Preferred Shares to Fund Ethereum Strategy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-prices-9-192900897.html)**
+**[$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income](https://finance.yahoo.com/markets/crypto/articles/10-000-grayscale-ethereum-staking-220053280.html)**
 
-BitMine Immersion Technologies Inc. (NYSE: $BMNR) priced an upsized preferred stock offering as Tom Lee's Ether...
+A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 35m ago
 
 ---
 
@@ -174,7 +174,15 @@ Yahoo Finance • 1d ago
 
 Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
+
+---
+
+**[Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position](https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position)**
+
+Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
+
+The Block • 5h ago
 
 ---
 
@@ -184,41 +192,33 @@ Crowdfund Insider • 2d ago
 
 ---
 
+**[Ethereum Golden Triangle Survives As Structure Remains Unbroken, This Target Says $10,000 Is Coming](https://www.tradingview.com/news/newsbtc:90bc7992d094b:0-ethereum-golden-triangle-survives-as-structure-remains-unbroken-this-target-says-10-000-is-coming/)**
+
+Technical analysis of the 3-week chart outlook shows ETH pressing into the apex of a golden triangle formation that has survived the Covid crash, the 2022 bear market, and the ongoing 2026 correction. According to the analyst who first identified it, what happens next at the apex of that structure…
+
+TradingView • 4h ago
+
+---
+
+**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
+
+BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
+
+Decrypt • 1d ago
+
+---
+
 **[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-富途牛牛 • 21h ago
+富途牛牛 • 22h ago
 
 ---
 
-**[Ethereum Co-founder Linked Wallet Move 80,001 ETH, Is he Dumping ETH?](https://coinpedia.org/news/ethereum-co-founder-linked-wallet-move-80001-eth-is-he-dumping-eth/)**
+**[Dormant Ethereum Whale Resurfaces With Massive ETH Accumulation—Could It Fuel the Next Rally?](https://coinpedia.org/price-analysis/dormant-ethereum-whale-resurfaces-with-massive-eth-accumulation-could-it-fuel-the-next-rally/)**
 
-Ethereum investors are on high alert after a wallet linked to Ethereum co-founder Joseph Lubin suddenly moved more than $121 million worth of ETH
+Ethereum has slipped to fresh yearly lows after breaking a critical support zone, reinforcing bearish sentiment across the broader market.
 
-Coinpedia • 14h ago
-
----
-
-**[Russia Central Bank To Limit Retail Crypto Investors To Bitcoin, Ethereum, & USDT](https://www.tradingview.com/news/coinpedia:437f1011e094b:0-russia-central-bank-to-limit-retail-crypto-investors-to-bitcoin-ethereum-usdt/)**
-
-Bitcoin, Ethereum, and USDT could soon become the only cryptocurrencies available to most retail investors in Russia. The country’s central bank is backing a new framework that would restrict non-qualified investors access to other digital assets, which will come into effect by next year.So buying…
-
-TradingView • 14h ago
-
----
-
-**[Ethereum Price Prediction: Will ETH Dump Toward $1K Next?](https://cryptopotato.com/ethereum-price-prediction-will-eth-dump-toward-1k-next/)**
-
-Ethereum has entered a decisive bearish phase after losing multiple high-timeframe support levels in a matter of days. The latest sell-off pushed ETH
-
-CryptoPotato • 4h ago
-
----
-
-**[Bixin Pool CEO buys back Ethereum at $1,645, anticipates short-term rebound](https://cryptobriefing.com/bixin-pool-ceo-buys-back-ethereum-at-1645-anticipates-short-term-rebound/)**
-
-Bixin Pool CEO buys back Ethereum at $1,645, expecting a short-term rebound. Ethereum reaching $2,500 by June 7 at 0.1% YES.
-
-Crypto Briefing • 1d ago
+Coinpedia • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 10K • 👍 610 • 💬 77 • ⏱️ 21:26 • 5h ago
+👁️ 17K • 👍 757 • 💬 110 • ⏱️ 21:26 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 142 • 💬 28 • ⏱️ 14:13 • 9h ago
+👁️ 4K • 👍 148 • 💬 30 • ⏱️ 14:13 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 353 • 💬 53 • ⏱️ 21:23 • 7h ago
+👁️ 9K • 👍 421 • 💬 65 • ⏱️ 21:23 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 379 • 💬 19 • ⏱️ 8:30 • 21h ago
+👁️ 9K • 👍 387 • 💬 20 • ⏱️ 8:30 • 22h ago
 
 ---
 
@@ -272,7 +272,17 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 25K • 👍 2K • 💬 287 • ⏱️ 13:31 • 1d ago
+👁️ 26K • 👍 2K • 💬 292 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[Crypto Just Broke - You Need To Hear This](https://www.youtube.com/watch?v=BzfSujGYEYQ)**
+
+Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 28K • 👍 1K • 💬 298 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -286,16 +296,6 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 ---
 
-**[Crypto Just Broke - You Need To Hear This](https://www.youtube.com/watch?v=BzfSujGYEYQ)**
-
-Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 27K • 👍 1K • 💬 297 • ⏱️ 20:00 • 1d ago
-
----
-
 **[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
 
 Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
@@ -306,21 +306,21 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 ---
 
+**[HUGE XRP AND ETHEREUM INTEGRATION CRYPTO #xrp #ethereum #bitcoin](https://www.youtube.com/watch?v=J5Jh-8ftCdk)**
+
+📺 CryptoWendyO
+
+👁️ 13K • 👍 736 • 💬 44 • ⏱️ 2:04 • 2d ago
+
+---
+
 **[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
 
 BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
 📺 Crypto World
 
-👁️ 13K • 👍 508 • 💬 205 • ⏱️ 21:38 • 18h ago
-
----
-
-**[HUGE XRP AND ETHEREUM INTEGRATION CRYPTO #xrp #ethereum #bitcoin](https://www.youtube.com/watch?v=J5Jh-8ftCdk)**
-
-📺 CryptoWendyO
-
-👁️ 13K • 👍 731 • 💬 44 • ⏱️ 2:04 • 2d ago
+👁️ 14K • 👍 526 • 💬 227 • ⏱️ 21:38 • 19h ago
 
 ---
 
