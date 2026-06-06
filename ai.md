@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-06T18:05:57.188081+00:00'
+updated: '2026-06-06T19:53:58.959861+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 06, 2026 at 18:05 UTC  
+**Last Updated:** June 06, 2026 at 19:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[A company just sent me the most detailed rejection email I’ve ever received](https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -53,7 +53,47 @@ AI news, discussions, and developments
 
 I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
 
+3h ago
+
+---
+
+**[I've been making AI short films for a while — here are some things I noticed that most people get wrong about AI video generation](https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/)**
+
+Prompt length doesn't equal quality. Most people write paragraphs. Short, visual, specific prompts almost always win. Consistency is the real challenge. Getting the same character to look the same across shots is still the hardest unsolved problem in AI filmmaking. Audio kills or saves the whole thing. Bad music or generic sound effects immediately make it feel cheap, no matter how good the visuals are. People overthink the tools and underthink the story. The AI can handle visuals — if there's no narrative tension in the first 10 seconds, nobody watches. Iteration speed is the actual superpower. Treat it like editing — make 20 versions, pick the one that works. What tools are you all using for AI video right now?
+
 1h ago
+
+---
+
+**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
+
+there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
+
+2h ago
+
+---
+
+**[Ai general question](https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/)**
+
+Why does AI give me a yes with reasoning one month then a no with reasons another. With the same exact question?
+
+1h ago
+
+---
+
+**[AI keeps getting blamed for tech layoffs, but the numbers don't really line up](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)**
+
+I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
+
+33m ago
+
+---
+
+**[Help me understand AI a bit more because I don't think AI is as bad as everyone says.](https://www.reddit.com/r/artificial/comments/1tyi9r2/help_me_understand_ai_a_bit_more_because_i_dont/)**
+
+Now I myself have not used AI a ton beyond making a funny picture or two on ChatGPT/Gemini and maybe asking it a few things on the fly if I need a second opinion on something - and sometimes it's been helpful. The biggest thing I hear from the "Fuck AI" crowd is that it ruins the creative circles like artists, authors, etc. because it copies their work. I sympathize with their hate, but I've heard an argument that it's not doing anything different than what we do when/if AI didn't play a role in anything: look at other people's work for inspiration then create something. Like we can't create a song in a vacuum, we need to learn and be exposed to music theory, notes, other styles of music, instruments, etc. So someone starting a band didn't make something brand new, it took pieces from other artists. And the part that makes me sing AIs praises, so to speak, is its use in the medical field. Doctor Mike posted a video about a year ago talking about this. Like, if it's improving healthcare to the point that it's detecting life threatening things to help doctors treat and cure us more effectively and efficiently, why are we trying to get rid of it? Maybe that's not what people are saying when they want AI gone or saying how 'awful' it is, but I just hope we don't end up throwing the baby out with the bathwater with AI because I genuinely think it's an astonishing thing that's clearly helpful in certain circles.
+
+5h ago
 
 ---
 
@@ -73,46 +113,6 @@ Back in the 1980s a debate raged about whether it was okay to let children use c
 
 ---
 
-**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
-
-there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
-
-52m ago
-
----
-
-**[Help me understand AI a bit more because I don't think AI is as bad as everyone says.](https://www.reddit.com/r/artificial/comments/1tyi9r2/help_me_understand_ai_a_bit_more_because_i_dont/)**
-
-Now I myself have not used AI a ton beyond making a funny picture or two on ChatGPT/Gemini and maybe asking it a few things on the fly if I need a second opinion on something - and sometimes it's been helpful. The biggest thing I hear from the "Fuck AI" crowd is that it ruins the creative circles like artists, authors, etc. because it copies their work. I sympathize with their hate, but I've heard an argument that it's not doing anything different than what we do when/if AI didn't play a role in anything: look at other people's work for inspiration then create something. Like we can't create a song in a vacuum, we need to learn and be exposed to music theory, notes, other styles of music, instruments, etc. So someone starting a band didn't make something brand new, it took pieces from other artists. And the part that makes me sing AIs praises, so to speak, is its use in the medical field. Doctor Mike posted a video about a year ago talking about this. Like, if it's improving healthcare to the point that it's detecting life threatening things to help doctors treat and cure us more effectively and efficiently, why are we trying to get rid of it? Maybe that's not what people are saying when they want AI gone or saying how 'awful' it is, but I just hope we don't end up throwing the baby out with the bathwater with AI because I genuinely think it's an astonishing thing that's clearly helpful in certain circles.
-
-3h ago
-
----
-
-**[What is the most useful thing you’re using AI for?](https://www.reddit.com/r/artificial/comments/1tygu1j/what_is_the_most_useful_thing_youre_using_ai_for/)**
-
-Pretty basic question, I’m curious to know what the most useful thing you’re using AI for? Are you using things like Claude cowork for tasks, Codex or Claude code for programming, script writing, homework? Do you use it as a regular chat for companionship, are you using it for life advice? Really just curious how individuals are finding it useful to them Thanks
-
-4h ago
-
----
-
-**[I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time](https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/)**
-
-I ran a small experiment on myself and the result broke my mental model of how AI "knows" things, so I'm sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity ("Marin T. Kael") with no prior web footprint and no published book yet. Then I asked 5 web-connected AI systems the same 16 questions, every day, for 23 days, and scored every answer (+1 correct/source-grounded, 0 not found, -1 hallucinated). About 16,000 scored datapoints. The whole thing was pre-registered before I started, n=1, and I logged the failures publicly. It's a measurement, not a success story. Here's the part that messed with my head. An AI cited the entity correctly on day 6. Google had a Knowledge Graph entry by day 4. And for 22 of those 23 days, the website's firewall was returning HTTP 403 to every single AI crawler. I didn't set that block on purpose — Cloudflare now silently opts new domains out of AI crawling by default. So the AIs never read the site. They got the entity anyway, by stitching it together from the Knowledge Graph (Wikidata) and third-party mentions at the moment you ask. The "front door" was bolted shut the entire time and it didn't matter. (Honest caveat: because the crawlers were blocked, I can't tell you anything about llms.txt or on-site optimization.) Other surprises: it's not a "smarter model = better" story, it's a retrieval story. OpenAI's newest web model hit 4.7 correct per 1 hallucinated; Gemini went net-negative — and grounded on the entity ONLY via Reddit (17/17), while OpenAI hit the entity's own domain 119x. Going viral did nothing: a 23x Reddit-karma jump produced zero citation lift. Structured identity (Wikidata, site, DOIs) moved the needle; reach didn't. And the controls caught the models fabricating a "Wikipedia" source 24 times for an entity with no Wikipedia page. n=1 with me as investigator and subject is the obvious limit — which is why it's pre-registered with a public failure log. Everything's open: Report + data (Zenodo, CC-BY): https://doi.org/10.5281/zenodo.20549020?utm_source=reddit Code (MIT): https://github.com/marintkael/marin-research-tools Dataset: https://huggingface.co/datasets/marintkael/ai-citation-fidelity
-
-22h ago
-
----
-
-**[i have no idea what i'm doing anymore.](https://www.reddit.com/r/artificial/comments/1tymn0m/i_have_no_idea_what_im_doing_anymore/)**
-
-i am a reasonably intelligent person. i have been coding for years. i can hold my own in a technical conversation. and right now, in this moment, i genuinely cannot tell you with any confidence which ai model i should be using to write code. not even close. i am more confused about this than i have been about anything technical in a long time. here's where i am. i have cursor open. cursor lets me pick the model. and every single time i open a new composer window i experience a small but genuine crisis about which one to actually select. claude opus 4.8. claude sonnet 4.6. gpt-5.5. gpt-5.4. grok 4.3. gemini 3.1 pro. qwen3-coder. deepseek v4-pro. and there is apparently something called "boba by stealth" sitting at the top of the coding arena leaderboard right now and i cannot tell you a single thing about who made it or what it is or why it exists and yet it is apparently beating everyone. i have read approximately forty reddit threads about this. they all contradict each other. someone with eight hundred upvotes says opus 4.8 is the only correct answer for anything serious. the top reply says that person is wrong and gpt-5.5 has better agentic performance on multi-file refactors. third comment says both of them are cooked on long runs and gemini 3.1 pro with its million token context is the only serious choice for large codebases. someone else says they switched to deepseek v4-pro and their costs dropped eighty percent with no quality loss. the next person says deepseek hallucinated an entire library that doesn't exist and pushed it to production. i have no framework for evaluating any of this. because here's the thing. the benchmarks don't help. i have looked at so many benchmarks. swe-bench verified. swe-bench pro. terminal-bench 2.0. terminal-bench 2.1. live code bench. the coding arena elo. and then i pick the model that scored highest and it does something confidently wrong that a junior dev wouldn't do, and i'm back to square one wondering if i'm prompting wrong or if the benchmark is fake or if i just got unlucky. and it's not just the model. it's the mode. are you using agent mode. are you letting it run terminal commands autonomously. are you doing ask mode and reviewing everything first. do you have a rules file. a memory file. a custom system prompt per project. there are people with elaborate cursor setups that look like mission control and i genuinely cannot determine if they are more productive than me or just performing productivity for the content. and then there's the routing question. because apparently you're supposed to use different models for different tasks now. opus 4.8 for long autonomous runs where judgment compounds. gpt-5.5 for dense structured reasoning and anything scientific. gemini 3.1 pro for multimodal work and long document retrieval. qwen for cost-sensitive agent loops when you need fifty tool calls and don't want to remortgage your house. people have actual decision flowcharts for this. i have seen the flowcharts. they are not making me feel better. and grok 4.3. what do i do with grok 4.3. the benchmarks put it fourth overall. fourth out of everything. that's extraordinary. and yet every time it comes up in a thread someone immediately says something that makes me put it back down again and i can't even remember what it is but the feeling sticks. i think what happened is the capability race moved faster than anyone's ability to develop genuine intuition about the tools. two years ago this was easier. you picked claude or gpt-4 and you got on with it. now there are fifteen serious options, they are genuinely different, the differences matter for different workloads, and also the differences change every six weeks when someone drops a new version and all the advice goes stale instantly. the thread telling you that sonnet 4.5 is the coding king is four months old. four months is basically a geological era now. and the switching cost of actually testing them properly is high. you need to use a model on real work for weeks before you have proper feel for it. you can't benchmark it yourself in an afternoon. so you're always working with someone else's intuition, formed on different work, in a different context, possibly three model versions ago, posted by someone whose use case has nothing to do with yours. i'm not even sure this is a solvable problem. i think it might just be the permanent condition of working in this space now. perpetual low-level confusion interrupted by brief moments of "okay this one is clearly working" before the next release drops and the discourse resets entirely. so i'm actually asking. not rhetorically. what are you using right now. for real work. not what sounds impressive. what model, what tool, what mode, and what are you actually building with it. because i am genuinely lost and the benchmark threads are not helping and i would very much like to hear from people doing the actual thing. and if anyone can explain what boba by stealth is i would appreciate that too.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,13 +121,13 @@ i am a reasonably intelligent person. i have been coding for years. i can hold m
 
 These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
 **[Revenge of the AI bubble](https://www.axios.com/2026/06/06/ai-bubble-economy-growth)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -135,57 +135,57 @@ Axios • 5h ago
 
 Sriram Krishnan, who has been central to the administration’s AI efforts, will probably continue to play an active role in its approach to the technology.
 
-The Washington Post • 5m ago
+The Washington Post • 12m ago
 
 ---
 
-**[White House AI Policy Advisor Sriram Krishnan to Leave Position](https://www.theinformation.com/articles/white-house-ai-policy-advisor-krishnan-leave-position)**
+**[White House AI policy adviser Krishnan to leave position](https://www.cnbc.com/2026/06/06/white-house-ai-policy-adviser-krishnan-to-leave-position.html)**
 
-Sriram Krishnan, a top AI policy advisor in the Trump administration, plans to leave his position at the end of June, according to a person with direct knowledge of the move and a statement viewed by The Information. Krishnan has discussed starting a policy institution following his time in the ...
+Krishnan has been involved in Trump administration efforts to create a national framework for regulating AI developments.
 
-The Information • 1h ago
-
----
-
-**[Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)**
-
-Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.
-
-TechCrunch • 23m ago
+CNBC • 1h ago
 
 ---
 
-**[Trump: U.S. stake in AI giants "could be a beautiful thing"](https://www.axios.com/2026/06/06/trump-us-stake-ai-companies)**
+**[Trump AI Policy Adviser Krishnan Is Giving Up White House Role](https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role)**
 
-Axios • 4h ago
-
----
-
-**[McDonald's testing AI drive-thru order-taking system called ArchIQ at five locations across country](https://www.foxbusiness.com/retail/mcdonalds-testing-ai-drive-thru-order-taking-system-called-archiq-five-locations-country)**
-
-McDonald's is testing ArchIQ, a new AI order-taking system at five locations, as part of its McDonald's Next strategy announced by CEO Chris Kempczinski.
-
-Fox Business • 16h ago
+Bloomberg.com • 43m ago
 
 ---
 
-**[Major fast-food chain tests AI ordering at drive-thru locations across U.S.](https://www.cleveland.com/news/2026/06/major-fast-food-chain-tests-ai-ordering-at-drive-thru-locations-across-us.html)**
+**[SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power](https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html)**
 
-Cleveland.com • 11m ago
+The New York Times • 19h ago
 
 ---
 
-**[McDonald's Introduces AI Drive-Thru System, Sparking Customer Backlash](https://tech.yahoo.com/ai/deals/articles/mcdonalds-introduces-ai-drive-thru-000717731.html)**
+**[Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)**
 
-'God no,' one declared in a video demonstration of the update.
+In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.
 
-Yahoo Tech • 17h ago
+TechCrunch • 1d ago
+
+---
+
+**[Three Ways The SpaceX IPO Is Really About AI](https://www.forbes.com/sites/johnwerner/2026/06/06/three-ways-the-spacex-ipo-is-really-about-ai/)**
+
+SpaceX’s IPO reflects AI-driven market trends after xAI merger, Anthropic deal, and Cerebras success.
+
+Forbes • 43m ago
 
 ---
 
 **[A.I. Companies Don’t Know What to Do With Alex Bores](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
+
+---
+
+**[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
+
+The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
+
+Fortune • 1d ago
 
 ---
 
@@ -221,7 +221,13 @@ Our progress toward recursive self-improvement, and its implications.
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 415 • 💬 256 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 416 • 💬 257 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+
+---
+
+**[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
+
+⬆️ 278 • 💬 471 • 17h ago
 
 ---
 
@@ -229,7 +235,7 @@ Nasa had directed five of the seven astronauts to shelter inside the docked Spac
 
 Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
 
-⬆️ 270 • 💬 68 • 1d ago • [GitHub](https://github.com/alibaba/open-code-review)
+⬆️ 272 • 💬 68 • 1d ago • [GitHub](https://github.com/alibaba/open-code-review)
 
 ---
 
@@ -237,25 +243,19 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 257 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
-
----
-
-**[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
-
-⬆️ 242 • 💬 431 • 15h ago
+⬆️ 259 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
 
-⬆️ 177 • 💬 97 • 21h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 179 • 💬 97 • 23h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 171 • 💬 72 • 8h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 178 • 💬 80 • 10h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -271,73 +271,43 @@ Google’s CEO says 75% of the company’s code is AI-generated. The people who 
 
 ## YouTube Videos: "ai"
 
+**[How to Make Hollywood Level AI Films People Would Pay to Watch (Higgsfield AI)](https://www.youtube.com/watch?v=KFTX8UhGeBY)**
+
+Make Hollywood Level AI Films using Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=robo20 ✓ FREE Prompt Generator: ...
+
+📺 Roboverse
+
+👁️ 7K • ⏱️ 10:38 • 3h ago
+
+---
+
+**[The Limitless AI Lie. The Bubble Is Slowly BURSTING.](https://www.youtube.com/watch?v=o5jrjvi_w9Q)**
+
+You've probably heard that the artificial intelligence revolution is running out of money, but the truth is much worse. It's running out ...
+
+📺 The Infographics Show
+
+👁️ 88K • 👍 3K • 💬 767 • ⏱️ 19:55 • 4h ago
+
+---
+
+**[I Discovered The AI Girlfriend Epidemic](https://www.youtube.com/watch?v=Peg814-7dH8)**
+
+christinegracesmith #news #latestlunacy Hey!  Thank you so much for watching   To support the channel please consider ...
+
+📺 Christine Grace Smith
+
+👁️ 66K • 👍 4K • 💬 1K • ⏱️ 29:00 • 2d ago
+
+---
+
 **[Anthropic Just Warned Everyone About Claude (It’s Evolving)](https://www.youtube.com/watch?v=JlwwyNtHsCI)**
 
 Anthropic just published a major warning about AI self-improvement, and the numbers behind it are hard to ignore. Claude is now ...
 
 📺 AI Revolution
 
-👁️ 44K • 👍 2K • 💬 233 • ⏱️ 17:13 • 18h ago
-
----
-
-**[AI News: Microsoft Finally Reveals Their Plan!](https://www.youtube.com/watch?v=nz4h3H1MmTg)**
-
-Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
-
-📺 Matt Wolfe
-
-👁️ 41K • 👍 2K • 💬 249 • ⏱️ 30:17 • 1d ago
-
----
-
-**[These New AI Robots Just Became TOO POWERFUL… And It’s Getting Weird](https://www.youtube.com/watch?v=5_EEAGDV1aA)**
-
-These AI robots just crossed into territory that feels almost too real — and you need to see this. A robot is now beating skilled ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 101 • 💬 5 • ⏱️ 59:14 • 14h ago
-
----
-
-**[Quantum Just Killed AI Data Centers](https://www.youtube.com/watch?v=4o_evxWvsx0)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *A quantum computer just solved in minutes ...
-
-📺 Julia McCoy
-
-👁️ 94K • 👍 5K • 💬 598 • ⏱️ 7:25 • 2d ago
-
----
-
-**[AI Fruit Drama Is STUPID😭(Pt2)](https://www.youtube.com/watch?v=tpKsujA_L7E)**
-
-Watch videos on spotify: https://open.spotify.com/show/3uu2K4QFclulDG6P4hDOn9?si=a9383e052e104601 Gaming Channel: ...
-
-📺 RICHLEV
-
-👁️ 91K • 👍 4K • 💬 1K • ⏱️ 20:11 • 14h ago
-
----
-
-**[DeepMind’s New AI Found A Strange New Way To Think](https://www.youtube.com/watch?v=Dkqzqw8rxXI)**
-
-Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 80K • 👍 5K • 💬 338 • ⏱️ 7:30 • 1d ago
-
----
-
-**[Anthropic calls for global pause in AI development](https://www.youtube.com/watch?v=joZ4Esutu9w)**
-
-The artificial intelligence company's warns that we need to pause development before AI can build itself and humans lose control ...
-
-📺 ABC News
-
-👁️ 61K • 👍 1K • 💬 466 • ⏱️ 4:00 • 22h ago
+👁️ 48K • 👍 2K • 💬 245 • ⏱️ 17:13 • 20h ago
 
 ---
 
@@ -347,25 +317,57 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku
 
 📺 Dan Martell
 
-👁️ 65K • 👍 3K • 💬 134 • ⏱️ 14:11 • 2d ago
+👁️ 68K • 👍 3K • 💬 137 • ⏱️ 14:11 • 2d ago
 
 ---
 
-**[The AI Bubble Is Starting To Pop...](https://www.youtube.com/watch?v=qM0BWixY09w)**
+**[These New AI Robots Just Became TOO POWERFUL… And It’s Getting Weird](https://www.youtube.com/watch?v=5_EEAGDV1aA)**
 
-SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
+These AI robots just crossed into territory that feels almost too real — and you need to see this. A robot is now beating skilled ...
 
-📺 YongYea
+📺 The AI Nexus
 
-👁️ 134K • 👍 6K • 💬 2K • ⏱️ 17:22 • 22h ago
+👁️ 3K • 👍 112 • 💬 7 • ⏱️ 59:14 • 16h ago
 
 ---
 
-**[Real Vs AI @NickDiGiovanni @albert_cancook #ai](https://www.youtube.com/watch?v=bY9CAAF3pEQ)**
+**[How I Make VIRAL 3D Documentary Videos Using FREE AI Tools (FULL COURSE)](https://www.youtube.com/watch?v=YjmE-1gzLVY)**
 
-📺 Patrick Zeinali
+3D documentary videos are one of the biggest opportunities in faceless YouTube right now, and in this full course, I'll show you ...
 
-👁️ 3.2M • 👍 94K • 💬 936 • ⏱️ 0:29 • 1d ago
+📺 Money Degree
+
+👁️ 1K • 👍 103 • 💬 33 • ⏱️ 27:45 • 7h ago
+
+---
+
+**[Quantum Just Killed AI Data Centers](https://www.youtube.com/watch?v=4o_evxWvsx0)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *A quantum computer just solved in minutes ...
+
+📺 Julia McCoy
+
+👁️ 95K • 👍 5K • 💬 610 • ⏱️ 7:25 • 2d ago
+
+---
+
+**[AI News: Microsoft Finally Reveals Their Plan!](https://www.youtube.com/watch?v=nz4h3H1MmTg)**
+
+Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
+
+📺 Matt Wolfe
+
+👁️ 43K • 👍 2K • 💬 255 • ⏱️ 30:17 • 1d ago
+
+---
+
+**[Anthropic calls for global pause in AI development](https://www.youtube.com/watch?v=joZ4Esutu9w)**
+
+The artificial intelligence company's warns that we need to pause development before AI can build itself and humans lose control ...
+
+📺 ABC News
+
+👁️ 66K • 👍 1K • 💬 484 • ⏱️ 4:00 • 23h ago
 
 ---
 
@@ -453,7 +455,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 2,818 • ❤️ 291 • 2d ago
+⬇️ 2,818 • ❤️ 291 • 3d ago
 
 ---
 
@@ -465,7 +467,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 95,440 • ❤️ 528 • 18h ago
+⬇️ 95,440 • ❤️ 528 • 20h ago
 
 ---
 
@@ -638,7 +640,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 57.7k • 🔱 6.9k • 3h ago
+⭐ 58.3k • 🔱 7.0k • 4h ago
 
 ---
 
@@ -648,7 +650,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.2k • 🔱 606 • 4d ago
+⭐ 6.2k • 🔱 607 • 4d ago
 
 ---
 
@@ -656,7 +658,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.5k • 🔱 736 • 3d ago
+⭐ 3.5k • 🔱 739 • 3d ago
 
 ---
 
@@ -666,7 +668,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.0k • 🔱 305 • 1d ago
+⭐ 3.1k • 🔱 306 • 1d ago
 
 ---
 
@@ -716,7 +718,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.7k • 🔱 127 • 8h ago
+⭐ 1.7k • 🔱 128 • 10h ago
 
 ---
 
@@ -726,7 +728,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.6k • 🔱 179 • 3h ago
+⭐ 1.7k • 🔱 181 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-06T18:05:57.195832+00:00'
+updated: '2026-06-06T19:53:58.968496+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 18:05 UTC  
+**Last Updated:** June 06, 2026 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,648.10
+### $60,726.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** -1.7%  
 **7d:** -17.7%  
 **30d:** -24.4%  
-**90d:** -11.4%  
-**1y:** -42.6%  
+**90d:** -11.3%  
+**1y:** -42.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1212.85B
+**Market Cap:** $1214.28B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--52.0%
+-51.9%
 
 **All-Time Low:** $67.81
-+89167.1%
++89276.2%
 
 ---
 
@@ -77,17 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bought 1 btc at 110K](https://www.reddit.com/r/Bitcoin/comments/1tylx3i/bought_1_btc_at_110k/)**
+
+I spent last summer studying bitcoin, and I was very quickly convinced of the sovereignty that such an asset could give us, so I decided to buy 1 BTC when it was worth 110K. At the time, I hadn't studied the four-year cycles. Today I somewhat regret diving in headfirst instead of doing a DCA. But of course I won't sell. Even if it dropped to 1K, I won't sell. I'm now part of the network, like all of you here. Have a great weekend, everyone!
+
+3h ago
+
+---
+
 **[The next 6-12 months will be the best opportunity to buy bitcoin we will ever see again in our lifetimes.](https://www.reddit.com/r/Bitcoin/comments/1tyehye/the_next_612_months_will_be_the_best_opportunity/)**
 
 Stack hard and hold on tight. Enjoy!
 
-6h ago
+8h ago
 
 ---
 
 **[noooo-](https://www.reddit.com/r/Bitcoin/comments/1tybiel/noooo/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -95,27 +103,19 @@ Stack hard and hold on tight. Enjoy!
 
 For people who've been through previous cycles, this probably feels familiar. For people newer to Bitcoin, this might be the first real test of conviction. What keeps you from selling? Is it understanding what you own? Cycle timing? Something you told yourself last time that held true? Or something else entirely?
 
-2h ago
-
----
-
-**[Bought 1 btc at 110K](https://www.reddit.com/r/Bitcoin/comments/1tylx3i/bought_1_btc_at_110k/)**
-
-I spent last summer studying bitcoin, and I was very quickly convinced of the sovereignty that such an asset could give us, so I decided to buy 1 BTC when it was worth 110K. At the time, I hadn't studied the four-year cycles. Today I somewhat regret diving in headfirst instead of doing a DCA. But of course I won't sell. Even if it dropped to 1K, I won't sell. I'm now part of the network, like all of you here. Have a great weekend, everyone!
-
-1h ago
+4h ago
 
 ---
 
 **[Bitcoin at $66k in 2024 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1tydz9d/bitcoin_at_66k_in_2024_vs_2026/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Thanks for dip - finally a full bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1tyg8nt/thanks_for_dip_finally_a_full_bitcoiner/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ I spent last summer studying bitcoin, and I was very quickly convinced of the so
 
 For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $55k. It’s waiting for a drop that never comes and then watching it run to $100k+ without you.
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,13 @@ For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $5
 
 Im very excited !!! and want it to share it with someone outside my inner circle!!! I have been DCA this last month and finally got my 1.01 btc!!!! It will be worth it!!! Next goal 2.0 btc!!!!!
 
-18h ago
+20h ago
+
+---
+
+**[Red month sats are always the best](https://www.reddit.com/r/Bitcoin/comments/1tyk1we/red_month_sats_are_always_the_best/)**
+
+4h ago
 
 ---
 
@@ -143,12 +149,6 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 ---
 
-**[Red month sats are always the best](https://www.reddit.com/r/Bitcoin/comments/1tyk1we/red_month_sats_are_always_the_best/)**
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,7 +157,13 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-CNBC • 4h ago
+CNBC • 6h ago
+
+---
+
+**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -169,11 +175,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
+**[Fannie Mae Bitcoin Down Payments Test Crypto’s Role In Mortgage Growth](https://finance.yahoo.com/markets/crypto/articles/fannie-mae-bitcoin-down-payments-191001289.html)**
 
-Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
+Fannie Mae backed mortgages are now available using Bitcoin as collateral for the down payment. The product is offered through a partnership between Federal National Mortgage Association, Coinbase and Better Mortgage. This marks the first time a government backed home loan structure supports cryptocurrency as part of the funding mix. For investors watching Federal National Mortgage Association (OTCPK:FNMA), this move lands at a time when the stock trades around $6.70 and has seen sizeable...
 
-CoinDesk • 3h ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -181,21 +187,27 @@ CoinDesk • 3h ago
 
 @DustyBC Crypto 1102 Views
 
-Moomoo • 1h ago
-
----
-
-**[Peter Schiff Says 'Young' People Who Made Money Early With Bitcoin Dishing Out Financial Advice: 'Don't Confuse Brains With A Bull Market'](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-young-people-150230531.html)**
-
-Economist Peter Schiff took a dig on Wednesday at “unqualified” cryptocurrency advisors who mistake Bitcoin's early gains as validation of a smart long-term investment. Schiff Scoffs At ‘Young’ Crypto Commentators In an X post, Schiff observed that many “young” and...
-
-Yahoo Finance • 3h ago
+Moomoo • 3h ago
 
 ---
 
 **[Tech Selloff, Bitcoin Drop Test Retail Investor Strength Ahead of SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-05/tanking-tech-crashing-crypto-jolt-retail-crowd-before-spacex)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 22h ago
+
+---
+
+**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
+
+Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin rebounds above $60,000 after $1.6 billion liquidation-driven selloff](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-16-billion-liquidationdriven-selloff-4729561)**
+
+Investing.com • 11h ago
 
 ---
 
@@ -203,7 +215,7 @@ Bloomberg.com • 20h ago
 
 Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -212,18 +224,6 @@ CNBC • 23h ago
 Bitcoin's drop reflects capital rotation into artificial intelligence, Saylor argues.
 
 CoinDesk • 2d ago
-
----
-
-**[Michael Saylor’s Bitcoin Machine Is Misfiring on Every Cylinder](https://www.bloomberg.com/news/articles/2026-06-04/michael-saylor-s-bitcoin-machine-is-misfiring-on-every-cylinder)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)**
-
-Reuters • 1d ago
 
 ---
 
@@ -247,7 +247,7 @@ Nostr client with other stuff
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
-⬆️ 10 • 💬 1 • 14h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+⬆️ 10 • 💬 1 • 16h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
 
 ---
 
@@ -255,7 +255,7 @@ Nostr client with other stuff
 
 The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
 
-⬆️ 7 • 💬 6 • 14h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
+⬆️ 7 • 💬 6 • 16h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
-⬆️ 5 • 💬 0 • 11h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
+⬆️ 5 • 💬 0 • 12h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 
 ---
 
@@ -317,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 1K • 💬 16 • ⏱️ 57:39 • 5h ago
+👁️ 29K • 👍 2K • 💬 70 • ⏱️ 57:39 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a
 
 📺 Valuetainment
 
-👁️ 54K • 👍 1K • 💬 630 • ⏱️ 10:46 • 23h ago
+👁️ 59K • 👍 1K • 💬 658 • ⏱️ 10:46 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin just suffered one of its sharpest pullbacks of the cycle, wiping out bil
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 743 • 💬 181 • ⏱️ 10:42 • 22h ago
+👁️ 12K • 👍 779 • 💬 187 • ⏱️ 10:42 • 23h ago
 
 ---
 
@@ -347,17 +347,7 @@ Bitcoin's not doing good, no need to sugarcoat it. It's especially frustrating f
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 33K • 👍 1K • 💬 314 • ⏱️ 11:49 • 1d ago
-
----
-
-**[Bitcoin Drop Tests Retail Investor Strength](https://www.youtube.com/watch?v=0QlcXC_MpDw)**
-
-For years, Wall Street has benefited from one of the most reliable forces in modern markets: a retail-trader army willing to buy ...
-
-📺 Bloomberg Television
-
-👁️ 4K • 👍 84 • 💬 79 • ⏱️ 10:30 • 5h ago
+👁️ 34K • 👍 1K • 💬 276 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -365,27 +355,7 @@ For years, Wall Street has benefited from one of the most reliable forces in mod
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 346 • 💬 32 • ⏱️ 2:11 • 16h ago
-
----
-
-**[Bitcoin Sweeps The February 2026 Low](https://www.youtube.com/watch?v=LuiJ6uK_qh0)**
-
-Bitcoin just went below the low from February 2026, confirming the bear market did not end back then. What's next? Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 64K • 👍 5K • 💬 292 • ⏱️ 21:54 • 13h ago
-
----
-
-**[“Crypto Is Done” Michael Saylor Problem EXPLAINED (Don&#39;t Be Fooled)](https://www.youtube.com/watch?v=0Og6CHQdeAk)**
-
-Crypto Is Done” Michael Saylor Problem EXPLAINED (Don't Be Fooled) 50% deposit bonus on first $100 on WEEX: ...
-
-📺 Altcoin Daily
-
-👁️ 41K • 👍 3K • 💬 264 • ⏱️ 12:01 • 19h ago
+👁️ 6K • 👍 378 • 💬 32 • ⏱️ 2:11 • 18h ago
 
 ---
 
@@ -395,7 +365,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 732 • 💬 56 • ⏱️ 11:59 • 8h ago
+👁️ 12K • 👍 828 • 💬 59 • ⏱️ 11:59 • 9h ago
 
 ---
 
@@ -405,7 +375,37 @@ My Biggest Bitcoin Buy Is Still Ahead ❤️ Josh New Discord [JOIN NOW] ▻ htt
 
 📺 Stocks with Josh
 
-👁️ 9K • 👍 259 • 💬 14 • ⏱️ 1:00 • 22h ago
+👁️ 10K • 👍 282 • 💬 14 • ⏱️ 1:00 • 1d ago
+
+---
+
+**[Bitcoin Is Getting Crushed by Fear and Panic...](https://www.youtube.com/watch?v=VrsI5auG7Jc)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRUs
+
+👁️ 32K • 👍 1K • 💬 287 • ⏱️ 1:09:01 • 1d ago
+
+---
+
+**[The Bitcoin Core Bear Market](https://www.youtube.com/watch?v=JraZHryxRvs)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the Bitcoin Core bear market, which ...
+
+📺 Bitcoin University
+
+👁️ 6K • 👍 709 • 💬 169 • ⏱️ 11:55 • 6h ago
+
+---
+
+**[Bitcoin Is Dropping Fast… $40K or Is the Bottom In?](https://www.youtube.com/watch?v=Q9BTqRh_oTM)**
+
+Every Bitcoin bear market follows the same pattern — and we're right on schedule. Here's what history says happens next, and ...
+
+📺 CoinGecko
+
+👁️ 18K • 👍 602 • 💬 139 • ⏱️ 6:32 • 1d ago
 
 ---
 

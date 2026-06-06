@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T18:05:57.204155+00:00'
+updated: '2026-06-06T19:53:58.977658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 18:05 UTC  
+**Last Updated:** June 06, 2026 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-21h ago
+23h ago
 
 ---
 
@@ -56,7 +56,7 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
 
-3h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ Sorry for the slow pace of the video, but I figured that seeing each visualizer 
 
 Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
 
-1h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and
 
 I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
 
-🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 45m ago
+🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 2h ago
 
 ---
 
@@ -80,13 +80,21 @@ I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll pro
 
 The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
 
-2h ago
+4h ago
 
 ---
 
 **[Help: Robotics Project Ideas for Teenangers](https://www.reddit.com/r/robotics/comments/1tyh439/help_robotics_project_ideas_for_teenangers/)**
 
-4h ago
+6h ago
+
+---
+
+**[BB1 Robot shows progress - denial](https://www.reddit.com/r/robotics/comments/1ty6jj6/bb1_robot_shows_progress_denial/)**
+
+Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
+
+16h ago
 
 ---
 
@@ -96,21 +104,13 @@ The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-o
 
 ---
 
-**[BB1 Robot shows progress - denial](https://www.reddit.com/r/robotics/comments/1ty6jj6/bb1_robot_shows_progress_denial/)**
-
-Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
-
-14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
+**[Amazon unveils next-gen Proteus robot as part of €10 billion European investment in its fulfillment network](https://www.aboutamazon.com/news/operations/amazon-proteus-robot-europe-investment-employee-support)**
 
-Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
+The new Proteus and additional robotics expansions in Europe are designed to support employees by taking on physically strenuous tasks.
 
 About Amazon • 2d ago
 
@@ -136,11 +136,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-045529173.html)**
+**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
 
-Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
+Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
 
-Yahoo Finance • 1d ago
+Shore Daily News • 1d ago
 
 ---
 
@@ -152,11 +152,27 @@ Ars Technica • 1d ago
 
 ---
 
+**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-051530964.html)**
+
+Nvidia CEO Jensen Huang on Friday said robotics will be South Korea's next major sector, as he arrived for his second visit in seven months, ‌underscoring deepening ties with local firms in not only chips but also robotics and AI factories.  "Because Korea is ‌a manufacturing centre of the world, we can apply the robotics technology, the physical AI technology that we invent here for the industry," he told ​reporters after landing at Gimpo International Airport on a flight from Taiwan.  South Korea is a key Asian manufacturing powerhouse - home to major manufacturers of chips, electronics, cars and ships.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Congress Introduces GUARD Act, Extending FCC Covered List Framework to Robotics](https://dronelife.com/2026/06/04/congress-introduces-guard-act-extending-fcc-covered-list-framework-to-robotics/)**
 
 Proposal would require national security reviews of certain foreign-made robots, extending the FCC Covered List framework beyond drones.
 
 Dronelife • 2d ago
+
+---
+
+**[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
+
+Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
+
+Fox Business • 3d ago
 
 ---
 
@@ -168,23 +184,19 @@ BBC • 2d ago
 
 ---
 
-**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
-
-South China Morning Post • 2d ago
-
----
-
-**[Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)**
-
-Most underwater robots lose contact with the surface the moment they descend. But a new antenna technology, borrowed from the physics of medical implants, is rethinking how submarine machines talk to each other – and to us.
-
-New Atlas • 4h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 28K • 👍 936 • 💬 870 • ⏱️ 2:17 • 4h ago
+
+---
 
 **[China Just Built A Two Brain AI Robot: One Body, Two Minds](https://www.youtube.com/watch?v=-bDC3OyMGRg)**
 
@@ -192,17 +204,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 16K • 👍 464 • 💬 50 • ⏱️ 15:31 • 1d ago
-
----
-
-**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
-
-In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
-
-📺 Munro Live
-
-👁️ 9K • 👍 272 • 💬 28 • ⏱️ 6:04 • 23h ago
+👁️ 16K • 👍 472 • 💬 50 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -212,7 +214,17 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 2.7M • 👍 48K • 💬 5K • ⏱️ 6:01 • 4d ago
+👁️ 2.8M • 👍 49K • 💬 5K • ⏱️ 6:01 • 4d ago
+
+---
+
+**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
+
+In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
+
+📺 Munro Live
+
+👁️ 9K • 👍 291 • 💬 29 • ⏱️ 6:04 • 1d ago
 
 ---
 
@@ -222,7 +234,17 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 857K • 👍 13K • 💬 984 • ⏱️ 5:01 • 3d ago
+👁️ 895K • 👍 14K • 💬 1K • ⏱️ 5:01 • 4d ago
+
+---
+
+**[my AI Robot Nexi is now full function and ready to go . esp32s3 and Deepseek Based AI robot by HD](https://www.youtube.com/watch?v=d9iAdeMfu0M)**
+
+Meet NEXi – my fully autonomous AI robot ✨ After months of development, coding, testing, and designing, NEXi has reached a ...
+
+📺 HD Robotics
+
+👁️ 301 • 👍 3 • ⏱️ 1:10 • 2h ago
 
 ---
 
@@ -232,7 +254,17 @@ Unitree's G1 humanoid robots made history on the Season 21 premiere of America's
 
 📺 sXe Finance
 
-👁️ 58K • 👍 1K • 💬 96 • ⏱️ 0:44 • 1d ago
+👁️ 66K • 👍 1K • 💬 104 • ⏱️ 0:44 • 1d ago
+
+---
+
+**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
+
+Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
+
+📺 PREDATOR WR
+
+👁️ 12K • 👍 391 • 💬 87 • ⏱️ 15:22 • 1d ago
 
 ---
 
@@ -240,45 +272,17 @@ Unitree's G1 humanoid robots made history on the Season 21 premiere of America's
 
 📺 Brut India
 
-👁️ 104K • 👍 1K • 💬 190 • ⏱️ 0:27 • 1d ago
+👁️ 107K • 👍 1K • 💬 199 • ⏱️ 0:27 • 1d ago
 
 ---
 
-**[Best robot I&#39;ve ever seen!🤣 @elizabethveezee](https://www.youtube.com/watch?v=PxSngnfYI90)**
+**[Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #robo #sciencproject](https://www.youtube.com/watch?v=5ToxGla0n5U)**
 
-📺 Bigdaddyleo “Bigdaddyleo”
+Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #robo #sciencproject.
 
-👁️ 37K • 👍 5K • 💬 151 • ⏱️ 0:25 • 18h ago
+📺 EAZYTRONIC
 
----
-
-**[China&#39;s Hospitals Are Living in the Future](https://www.youtube.com/watch?v=o7POY7UFH2w)**
-
-China is building hospitals with technology that looks straight out of a science-fiction movie. From automatic medicine ...
-
-📺 Science Universe YT
-
-👁️ 550 • ⏱️ 1:00 • 3h ago
-
----
-
-**[This Robotic Hand Moves After Being Detached From the Body](https://www.youtube.com/watch?v=s74Q6jC-w2U)**
-
-Open Bionics built a bionic hand that detaches and keeps moving on its own. After 30 days, users' brains permanently rewired to ...
-
-📺 AzlanX
-
-👁️ 73K • 💬 25 • ⏱️ 0:34 • 21h ago
-
----
-
-**[MINI &quot;ROCKING&quot; ROBOT GUITARIST!! #robotics #humanoid #robot #ai #robotmaxxing](https://www.youtube.com/watch?v=V5OsriAQBYY)**
-
-For more information on purchasing the right Humanoid or Quadruped Robot for you - contact us on : robert@robotist.com.au.
-
-📺 6PACKB450
-
-👁️ 39K • 👍 164 • 💬 1 • ⏱️ 0:09 • 3d ago
+👁️ 8K • 👍 102 • ⏱️ 0:27 • 10h ago
 
 ---
 
