@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-05T22:42:32.092665+00:00'
+updated: '2026-06-06T00:06:52.209283+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 05, 2026 at 22:42 UTC  
+**Last Updated:** June 06, 2026 at 00:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,752.19
+### $61,283.40
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -3.3%  
-**7d:** -16.3%  
-**30d:** -22.8%  
-**90d:** -6.4%  
-**1y:** -40.8%  
+**7d:** -16.8%  
+**30d:** -23.6%  
+**90d:** -10.4%  
+**1y:** -41.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1237.54B
+**Market Cap:** $1223.09B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--51.0%
+-51.4%
 
 **All-Time Low:** $67.81
-+91059.1%
++90324.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 All of my friends are messaging me that bitcoin is dead! I am so excited for the discount we’re going to get
 
-8h ago
+9h ago
 
 ---
 
 **[Live footage of your crypto portfolio right now.](https://www.reddit.com/r/Bitcoin/comments/1txvdm6/live_footage_of_your_crypto_portfolio_right_now/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 Don't be a baby. Don't be a fish. Stay strong. It's not supposed to be easy. Bitcoin.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,19 +103,43 @@ Don't be a baby. Don't be a fish. Stay strong. It's not supposed to be easy. Bit
 
 This is only for those that are still screaming for another 70%+ crash… I have one simple question for you. Cycle returns have already shrunk dramatically. Each bull market has delivered meaningfully lower multiples than the last. Yet many of you still price in classic 70-80% drawdowns. If the upside is getting smaller while the downside stays brutal… what exactly is your thesis? Previous cycles gave you massive asymmetric upside in exchange for the pain. Now we’re looking at considerably lower returns… while still accepting 70%+ pain? That’s a materially worse risk/reward profile. So which is it? A) You’re taking nearly the same risk for far lower returns B) Diminishing returns eventually plateau or reverse as adoption grows C) You’re a full bear who believes Bitcoin is dying Be honest.
 
-7h ago
+8h ago
 
 ---
 
 **[Every time someone asks about the BTC dip](https://www.reddit.com/r/Bitcoin/comments/1txn7fl/every_time_someone_asks_about_the_btc_dip/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Here is what’s happening](https://www.reddit.com/r/Bitcoin/comments/1txng14/here_is_whats_happening/)**
 
 Bitcoin isn’t “dead.” It’s doing what it has done every cycle: violently shaking out weak hands. What’s interesting is that the long-term models with the best historical fit still project surprisingly high BTC prices by 2030: • Power Law 400k • Metcalfe’s Law 500k+ • Institutional adoption models → 250k–600k Meanwhile the current selloff is mostly: ETF outflows macro/rates fears leveraged liquidations Different cycle. Same emotions.
+
+9h ago
+
+---
+
+**[Finally!!! 1.01 btc!!!!! I'M THRILLED!!!!!!!!!](https://www.reddit.com/r/Bitcoin/comments/1ty18f7/finally_101_btc_im_thrilled/)**
+
+Im very excited !!! and want it to share it with someone outside my inner circle!!! I have been DCA this last month and finally got my 1.01 btc!!!! It will be worth it!!! Next goal 2.0 btc!!!!!
+
+27m ago
+
+---
+
+**[Mt. Gox moved 10,422.65 BTC out of cold storage](https://www.reddit.com/r/Bitcoin/comments/1txv95n/mt_gox_moved_1042265_btc_out_of_cold_storage/)**
+
+I see some chatter on here about October being the bottom most likely. But I think that would only be the start of it. The deadline for the final Mt. Gox bitcoin to be returned to creditors is October 31, 2026. Which no doubt they would want to liquidate those coins and finally get their money. Which would cause a further extended crash. I'd imagine between now and then the big players will be trying to exit bitcoin and sell off what they can so they don't get caught in the middle of that storm. That's probably what is going on right now. Something to take into consideration.
+
+4h ago
+
+---
+
+**[Now is the time to be greedy!](https://www.reddit.com/r/Bitcoin/comments/1txq3hd/now_is_the_time_to_be_greedy/)**
+
+Im telling you guys now is a time to buy when things are falling. Human nature plays against the typically has us buying when things are high. I’ve lost over 80,000 for my high about 20,000 in personal funds mainly mess with all coins at this point I’m gonna hold my crypto and buy more bitcoin
 
 7h ago
 
@@ -125,31 +149,7 @@ Bitcoin isn’t “dead.” It’s doing what it has done every cycle: violently
 
 Yall diving in on this juicy target price or DCA to 50k? It’s speaking to me like the ring. Side note - I can’t wait for all these overpromised AI investors to run back to BTC once they realize no one cares about generating b tier animations or code that requires constant sourcing for troubleshooting.
 
-3h ago
-
----
-
-**[Beginner here, why don't multi billionaire's buy all BTC?](https://www.reddit.com/r/Bitcoin/comments/1txmgkn/beginner_here_why_dont_multi_billionaires_buy_all/)**
-
-Sorry if my question is stupid but I want to know since im a beginner.
-
-8h ago
-
----
-
-**[There is NO SECOND BEST crypto asset](https://www.reddit.com/r/Bitcoin/comments/1txndge/there_is_no_second_best_crypto_asset/)**
-
-I wanted to break out a classic for all those that need to hear this right now
-
-7h ago
-
----
-
-**[What is everyone's cost basis?](https://www.reddit.com/r/Bitcoin/comments/1txqzn9/what_is_everyones_cost_basis/)**
-
-Mine is $94k so yeah... definitely feeling the pain but still hodling
-
-5h ago
+4h ago
 
 ---
 
@@ -157,71 +157,77 @@ Mine is $94k so yeah... definitely feeling the pain but still hodling
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Has Longest Losing Streak Since August in Bruising Week](https://finance.yahoo.com/markets/crypto/articles/bitcoin-longest-losing-streak-since-204856305.html)**
+**[Bitcoin is down horrendous](https://www.morningbrew.com/stories/bitcoin-is-down-horrendous)**
 
-(Bloomberg) -- Bitcoin posted its longest losing streak since August, weighed down by liquidations of bullish bets and this week’s rare sale of tokens by the dominant corporate buyer. Most Read from BloombergGlazer Family Members Study Manchester United Stake SaleRepublican-Led House Votes to Stop Iran War, Rebuking TrumpDow Average Hits Peak as Old-School Stocks Beat AI: Markets WrapSaylor’s Bitcoin Machine Is Misfiring on Every CylinderTrump Begins Rebuilding His Tariff Wall, Citing Forced Lab
+Geopolitical uncertainty and other factors are causing the coin’s price to suffer, even as Big Tech carries the traditional stock market to new heights.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)**
-
-Reuters • 6h ago
+Morning Brew • 18h ago
 
 ---
 
-**[Bitcoin is suffering from an ‘attention’ deficit, as momentum traders have moved on](https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140)**
+**[Most People Have No Idea What’s Coming! $Bitcoin (BTC.CC)$ $Ethereum (ETH.CC)$ $Solana (SOL.CC)$ $Hyperliquid (HYPE.CC)$ Timestamps: 0:00 - BLOODBATH 0:59 - Generational Buying Opportunity 2:45 - VanEck: “We are bullish” 5:34 - Who is selli](https://www.moomoo.com/community/feed/most-people-have-no-idea-what-s-coming-bitcoin-btc-116700016803845)**
 
-MarketWatch • 44m ago
+@AltCoin Daily 5622 Views|2 Likes
 
----
-
-**[Bitcoin Price Hits Lowest Level Since Before Trump’s 2024 Election Win](https://gizmodo.com/bitcoin-price-hits-lowest-level-since-before-trumps-2024-election-win-2000768314)**
-
-Gizmodo • 6m ago
+Moomoo • 34m ago
 
 ---
 
-**[Analyst who nailed 2021 Bitcoin crash sends another warning](https://sg.finance.yahoo.com/news/analyst-nailed-2021-bitcoin-crash-222001672.html)**
+**[Why Is Bitcoin Plunging?](https://global.morningstar.com/en-eu/markets/why-is-bitcoin-plunging)**
 
-Benjamin Cowen, the analyst widely credited with calling the 2021 crypto collapse, has issued another sobering read on the market. The warning capped a punishing week. It began when Strategy (NASDAQ: MSTR) made its first Bitcoin (BTC) sale in years. It might have been a tiny 32 BTC against its ...
-
-Yahoo Finance Singapore • 22m ago
+Morningstar • 7h ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Machine Is Misfiring on Every Cylinder](https://www.bloomberg.com/news/articles/2026-06-04/michael-saylor-s-bitcoin-machine-is-misfiring-on-every-cylinder)**
+**[Bitcoin Drops Under $60,000—A First Since Late 2024](https://www.forbes.com/sites/tylerroush/2026/06/05/bitcoin-falls-below-60000-erasing-trump-fueled-rally/)**
 
-Bloomberg.com • 1d ago
+The world’s largest cryptocurrency is now down more than half from its all-time high.
+
+Forbes • 6h ago
 
 ---
 
-**[Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000](https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000)**
+**[Bitcoin tumbles after Strategy sale unnerves crypto traders](https://www.ft.com/content/06bb85c7-ab3c-4cc2-bdcf-679976b6e901?syn-25a6b1a6=1)**
 
-Dogecoin and Shiba Inu led losses among major tokens as heavy volume and liquidations overwhelmed support levels, extending a broader risk-off move across crypto markets.
+Cryptocurrency is heading for biggest weekly loss since November 2022
 
-CoinDesk • 6h ago
+Financial Times • 8h ago
+
+---
+
+**[Michael Saylor Just Sold Some of His Bitcoin. Here's Why That Matters for Bitcoin Investors.](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-just-sold-bitcoin-195000024.html)**
+
+Strategy sold Bitcoin for the first time since 2022.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin maximalists say the brutal price crash is just a temporary liquidity crunch caused by the AI boom](https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion)**
+
+Mati Greenspan, Michael Saylor and Jameson Lopp blamed the AI boom for draining capital from bitcoin. Meanwhile, Jack Mallers refrained from sharing an outlook but recommended buying the dip.
+
+CoinDesk • 4h ago
 
 ---
 
 **[Investors Flee Bitcoin ETFs as Crypto Continues to Crumble](https://www.barrons.com/articles/crypto-bitcoin-price-selloff-etfs-761f4801)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
-**[Bitcoin and ether spot exchange-traded funds end record multibillion outflow streak](https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak)**
+**[Bitcoin Dive Will Hike Strategy's Borrowing Rate To 11.75% — At Least](https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/)**
 
-U.S. spot bitcoin ETFs pulled in a net $3.05 million on Thursday, capping 13 straight sessions of outflows totaling roughly $4.4 billion. Ether ETFs ended a 17-day outflow streak.
-
-CoinDesk • 10h ago
+Investor's Business Daily • 3h ago
 
 ---
 
-**[Why Is Bitcoin Plunging?](https://global.morningstar.com/en-nd/markets/why-is-bitcoin-plunging)**
+**[Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath](https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html)**
 
-Morningstar • 6h ago
+Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.
+
+CNBC • 5h ago
 
 ---
 
@@ -247,7 +253,7 @@ Nostr client with other stuff
 
 Bitcoin is getting pummeled to kick off June as the market loses its dominant narrative and liquidity continues to rotate into other assets.
 
-⬆️ 7 • 💬 2 • 20h ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
+⬆️ 7 • 💬 2 • 21h ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
 
 ---
 
@@ -263,7 +269,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 In the past two days, bitcoin's highest-conviction holders have sold about $2.4 billion in bitcoin.
 
-⬆️ 4 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
+⬆️ 4 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
 
 ---
 
@@ -299,7 +305,7 @@ Strategy (NASDAQ: $MSTR ) has sold some of its Bitcoin (CRYPTO: $BTC ) holdings.
 
 **[Saylor's Strategy Sells Bitcoin for First Time Since 2022](https://news.ycombinator.com/item?id=48417897)**
 
-⬆️ 1 • 💬 0 • 2h ago • [wsj.com](https://www.wsj.com/finance/currencies/saylors-strategy-sells-bitcoin-for-first-time-since-2022-05a531a8)
+⬆️ 1 • 💬 0 • 3h ago • [wsj.com](https://www.wsj.com/finance/currencies/saylors-strategy-sells-bitcoin-for-first-time-since-2022-05a531a8)
 
 ---
 
@@ -307,23 +313,23 @@ Strategy (NASDAQ: $MSTR ) has sold some of its Bitcoin (CRYPTO: $BTC ) holdings.
 
 ## YouTube Videos: "bitcoin"
 
+**[“Michael Saylor’s LAST Laugh” - Strategy Faces $11B Bitcoin CRISIS](https://www.youtube.com/watch?v=csT9MTHQR5M)**
+
+The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a deep paper hole while its preferred stock now ...
+
+📺 Valuetainment
+
+👁️ 17K • 👍 521 • 💬 226 • ⏱️ 10:46 • 5h ago
+
+---
+
 **[Bitcoin Is CRASHING AGAIN! Buy The Dip Or Is It Truly Over?](https://www.youtube.com/watch?v=9NJwkEUi2dw)**
 
 Bitcoin's not doing good, no need to sugarcoat it. It's especially frustrating for investors because Bitcoin's weakness comes when ...
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 26K • 👍 1K • 💬 231 • ⏱️ 11:49 • 1d ago
-
----
-
-**[Bitcoin Is Getting Crushed by Fear and Panic...](https://www.youtube.com/watch?v=VrsI5auG7Jc)**
-
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 210 • ⏱️ 1:09:01 • 7h ago
+👁️ 28K • 👍 1K • 💬 270 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -333,17 +339,7 @@ Every Bitcoin bear market follows the same pattern — and we're right on schedu
 
 📺 CoinGecko
 
-👁️ 12K • 👍 454 • 💬 244 • ⏱️ 6:32 • 12h ago
-
----
-
-**[“Michael Saylor’s LAST Laugh” - Strategy Faces $11B Bitcoin CRISIS](https://www.youtube.com/watch?v=csT9MTHQR5M)**
-
-The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a deep paper hole while its preferred stock now ...
-
-📺 Valuetainment
-
-👁️ 6K • 👍 276 • 💬 188 • ⏱️ 10:46 • 3h ago
+👁️ 13K • 👍 477 • 💬 232 • ⏱️ 6:32 • 13h ago
 
 ---
 
@@ -353,17 +349,7 @@ Bitcoin has fallen to the 200W moving average. What next? Into The Cryptoverse P
 
 📺 Benjamin Cowen
 
-👁️ 104K • 👍 7K • 💬 382 • ⏱️ 12:51 • 17h ago
-
----
-
-**[Bitcoin hits a major rough patch in crypto&#39;s worst week since 2024](https://www.youtube.com/watch?v=BQKkHTwBFyo)**
-
-bitcoin #cryptonews #yahoofinance June 5th, 2026 - In this episode of The Daily Wolf, Scott Melker breaks down Bitcoin, crypto ...
-
-📺 Yahoo Finance
-
-👁️ 5K • 👍 271 • 💬 66 • ⏱️ 14:52 • 6h ago
+👁️ 111K • 👍 7K • 💬 402 • ⏱️ 12:51 • 18h ago
 
 ---
 
@@ -373,37 +359,57 @@ Why has Bitcoin been struggling while every other asset rips (before today's cor
 
 📺 Coinsider
 
-👁️ 2K • 👍 100 • 💬 88 • ⏱️ 12:54 • 6h ago
+👁️ 4K • 👍 114 • 💬 71 • ⏱️ 12:54 • 7h ago
 
 ---
 
-**[Bitcoin and Altcoins Continue CAPITULATION! (Bottom Ever?)](https://www.youtube.com/watch?v=yHUGQ53T8sM)**
+**[Bitcoin Is Getting Crushed by Fear and Panic...](https://www.youtube.com/watch?v=VrsI5auG7Jc)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Crypto Capital Venture
+📺 CryptosRUs
 
-👁️ 8K • 👍 528 • 💬 252 • ⏱️ 18:05 • 8h ago
-
----
-
-**[Bitcoin Holders: Something VERY Important Just Happened (Bear Market Bottom Signals)](https://www.youtube.com/watch?v=BQC-IPWtJH0)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Check out Ledn: https://aaronbtc.com/ledn Into The ...
-
-📺 Aaron Bennett
-
-👁️ 10K • 👍 512 • 💬 122 • ⏱️ 13:24 • 14h ago
+👁️ 28K • 👍 1K • 💬 162 • ⏱️ 1:09:01 • 9h ago
 
 ---
 
-**[Crypto Holders.. this is not good](https://www.youtube.com/watch?v=gFETHhqsE9w)**
+**[Bitcoin hits a major rough patch in crypto&#39;s worst week since 2024](https://www.youtube.com/watch?v=BQKkHTwBFyo)**
 
-Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
+bitcoin #cryptonews #yahoofinance June 5th, 2026 - In this episode of The Daily Wolf, Scott Melker breaks down Bitcoin, crypto ...
 
-📺 Altcoin Daily
+📺 Yahoo Finance
 
-👁️ 40K • 👍 2K • 💬 175 • ⏱️ 9:10 • 1d ago
+👁️ 7K • 👍 320 • 💬 78 • ⏱️ 14:52 • 7h ago
+
+---
+
+**[Bitcoin cracks $60,000 sinking to lowest level since October 2024](https://www.youtube.com/watch?v=J-ThXksQonY)**
+
+Bitcoin extended its losses on Friday, dropping to October 2024 lows to cap an already bruising week for crypto investors. CNBC's ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 27 • 💬 4 • ⏱️ 0:50 • 3h ago
+
+---
+
+**[My Biggest Bitcoin Buy Is Still Ahead 😱](https://www.youtube.com/watch?v=SUW7_WOvitQ)**
+
+My Biggest Bitcoin Buy Is Still Ahead ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 3K • 👍 130 • 💬 7 • ⏱️ 1:00 • 4h ago
+
+---
+
+**[Did Michael Saylor Give Up on Bitcoin?](https://www.youtube.com/watch?v=XYVHCGFLCY4)**
+
+Anthony Pompliano breaks down why Michael Saylor and Strategy selling 32 bitcoin is not a sign of lost faith — it's a calculated ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 90 • ⏱️ 12:45 • 2d ago
 
 ---
 

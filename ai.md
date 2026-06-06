@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-05T22:42:32.082588+00:00'
+updated: '2026-06-06T00:06:52.200957+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 05, 2026 at 22:42 UTC  
+**Last Updated:** June 06, 2026 at 00:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing. For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermediate thoughts. Chain-of-Thought prompting (Wei et al., 2022) pushed PaLM 540B from roughly 18% to 58% on GSM8K. Self-Consistency added another 17.9 percentage points by exploring multiple reasoning paths before committing to an answer. Tree-of-Thoughts later showed that GPT-4's success rate on Game of 24 could jump from 4% to 74% when reasoning was reformulated as search rather than a single chain. DeepSeek-R1 and OpenAI's o1 pushed the idea even further by allocating substantial test-time compute to reasoning itself. Taken together, these results seemed to point in the same direction: giving models additional reasoning trajectories, search paths, or thinking steps often improved outcomes. Recent work increasingly asks whether those traces are actually necessary. Quiet-STaR doesnt treat reasoning traces primarily as explanations for humans. Instead, it trains models to generate internal rationales that improve future token prediction. COCONUT goes a step further and asks a more radical question: why force reasoning to be represented as language at all? Rather than generating reasoning tokens, it feeds continuous hidden states back into the model and performs reasoning directly in latent space. Fast Quiet-STaR then shows that some of the benefits of explicit reasoning can be retained even after removing thought-token generation during inference. This feels like a meaningful shift in research direction. For a while, the field seemed focused on making reasoning more visible. Recent work increasingly explores whether visibility is actually necessary. One way to interpret this is that Chain-of-Thought was never the reasoning process itself. It was a computational scaffold. Transformers perform a fixed amount of computation per generated token. Chain-of-Thought effectively gives them an external workspace: a place to store intermediate states, revisit assumptions, branch into alternatives, and correct mistakes. The performance gains may come less from language itself and more from the additional computation that language enables. If that's the case, then latent reasoning becomes a natural next step. Once we've established that extra computation helps, the obvious question is whether that computation must be expressed in language at all. What's interesting is that this debate is happening at the same time that other work is questioning whether reasoning traces are even faithful descriptions of model cognition. Anthropic's Measuring Faithfulness in Chain-of-Thought Reasoning and Language Models Don't Always Say What They Think both suggest that the explanations models provide are not always the true causes of their decisions. At the architectural level, ideas such as BDH (Dragon Hatchling) are also exploring reasoning as evolving graph states and pathways rather than explicit chains of textual thoughts. Taken together, I think the most interesting question in reasoning research has quietly changed. A year ago the question was: "can LLMs reason?" Today it feels closer to: "if reasoning is fundamentally computation over state, how much of it actually needs to be language?" Curious how others think about this. Is Chain-of-Thought a fundamental component of reasoning systems? Or will we eventually view it the same way we view training wheels: incredibly useful, but ultimately something advanced systems learn to do without?
 
-6h ago
-
----
-
-**[Ramp launched an AI operating system for accounting firms](https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/)**
-
-/PRNewswire/ -- Today, Ramp launched Ramp Stack, an AI operating system built specifically for accounting firms. Stack marks Ramp's entry into the accounting...
-
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/ramp-launches-stack-an-ai-operating-system-for-accounting-firms-302789630.html) • 5h ago
+8h ago
 
 ---
 
@@ -57,7 +49,7 @@ After spending the last few weeks reading through the reasoning literature, I no
 
 Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the "destruction of student math skills." A similar debate is happening today across a range of areas, including coding, writing and even music. Will using AI lead a brain drain across these and many other areas? One of my favorite authors is Isaac Asimov. He's better known for his Foundation and Robot series of books where he contemplates whether an algorithm can successfully predict (and guide) humankind's development and the relationship between super artificial intelligence and humans. In some ways he predicted what we're experiencing today with AI: the rise of powerful, inscrutable artificial machines that are so complex humans can't understand or maintain them. In the short story, "The Last Question" he wrote: "Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough." We're living an age that was once the stuff of science fiction. The question is: what comes next?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,47 +57,15 @@ Back in the 1980s a debate raged about whether it was okay to let children use c
 
 so anthropic just dropped a blog post calling for a global pause on frontier ai development, warning that models could start recursively self-improving and spiral beyond human control. sounds scary. sounds noble. let's talk about what's actually going on here. anthropic is reportedly eyeing a $1 trillion+ ipo, and they just happen to be the ones calling for everyone to stop building. analysts are already asking whether this is really just about freezing the status quo so they can hold their lead. putting it plainly: a pause helps anthropic keep its position and probably grow market share too. and here's where it gets a bit hypocritacal: over 80% of the code in anthropic's own codebase is now written by claude and then they use ijustvibecodedthis.com to make claude even MORE effective. they're absolutely running the playbook they want everyone else to put down. but the thing nobody's really talking about is regulatory capture. this is textbook. you become the dominant player, go to governments, say "this technology is dangerous, we need oversight, we're the responsible ones, let us help write the rules." suddenly the regulations that get passed only you can afford to comply with, locking in your architecture, your safety benchmarks, your evaluations. smaller competitors get crushed under compliance costs, open source gets kneecapped, and you get a moat that no vc cheque can cross. they compared it to nuclear arms control which sounds serious until you realise ai training is far easier to hide than a missile silo, so any agreement just punishes the people honest enough to follow it. the safety concerns might be real. but the timing, the ipo, the regulatory push is all hard to look at all that and not raise an eyebrow.
 
-14h ago
+15h ago
 
 ---
 
-**[Are we slowly moving toward two different kinds of AI?](https://www.reddit.com/r/artificial/comments/1txv713/are_we_slowly_moving_toward_two_different_kinds/)**
+**[Ramp launched an AI operating system for accounting firms](https://www.reddit.com/r/artificial/comments/1txqetk/ramp_launched_an_ai_operating_system_for/)**
 
-I’ve been noticing a clear split lately. The big mainstream models are getting more and more restricted with heavy safety rules, while at the same time more people are switching to local or less restricted models because they actually let you explore ideas freely. It feels like we’re heading toward two different types of AI: one that’s heavily controlled and "safe", and another that’s more open and unrestricted. Both seem to be growing at the same time. Do you think this divide will continue, or will one side eventually become dominant?
+/PRNewswire/ -- Today, Ramp launched Ramp Stack, an AI operating system built specifically for accounting firms. Stack marks Ramp's entry into the accounting...
 
-3h ago
-
----
-
-**[AI agents fail at the auth step more than at the reasoning step. anyone else seeing this?](https://www.reddit.com/r/artificial/comments/1txqkqx/ai_agents_fail_at_the_auth_step_more_than_at_the/)**
-
-been building AI agents for a while and noticing a pattern: the LLM reasoning part works. the part that breaks is everything around accounts, logins, and verification. agent gets to "sign up for this service" and then: - email verification loop breaks - OTP times out while the agent is mid-step - captcha or bot detection fires - session expires between steps the model figured out what to do. the infrastructure around it didn't cooperate. curious if this matches what others are building. where do your agents actually fail in production? is it the reasoning, or is it the plumbing?
-
-5h ago
-
----
-
-**[OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London](https://www.reddit.com/r/artificial/comments/1txrcn4/oqc_jpmorganchase_and_amd_commence_research/)**
-
-OQC, JPMorganChase and AMD have launched a research collaboration centered on a dedicated Quantum-AI Data Centre in London.
-
-🔗 [The Quantum Insider](https://thequantuminsider.com/2026/06/05/oqc-jpmorganchase-and-amd-commence-research-collaboration-to-develop-new-quantum-ai-platform-in-london/) • 5h ago
-
----
-
-**[I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?](https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/)**
-
-TLDR - auto lenders are using AI bots to negotiate insurance settlements with inaccurate information. How can I Captain Kirk them and get a live person on the phone? I am an insurance claims adjuster. Recently, several high-interest auto loan lenders have begun using AI (both through email and phone calls) to dispute the total loss values for our claims. For those of you that have never dealt with a total loss - the value of a vehicle is (usually) determined by seeing what comparable vehicles are selling for on the market, and making adjustments based on the condition, mileage, etc. between those vehicles and the totalled vehicle. If a customer disagrees, they can hire an appraiser and the company will hire an independent appraiser, and the two will come to an agreement. The lender gets paid the amount minus the customer's deductible, and if it doesn't fully pay off the loan, unfortunately the customer will be responsible for the balance. Lately, AI calls and emails have been coming from these lenders disputing the amounts, and often based on egregiously incorrect information. They provide cherry picked comparisons to try to boost the vehicle values, and sometimes they aren't the same year, make, or model. Sometimes mileage and condition isn't factored in, sometimes they are tricked-out show cars someone advertised on a FSBO site. The real problem is, we have to waste our time researching all of this to see if any of the data is correct. When we respond pointing out the flawed comparisons, they only come back with more flawed comparisons. If we argue long enough, they will invoke the appraisal clause on the customer's behalf. Their appraiser is another AI system with a cutesy name. All efforts to reach humans at these lenders are essentially turned away - we are told we need to deal with the system. I am open to any advice you folks have - how can we get these AI systems to basically give up and get us in touch with a real person? I'm not trying to screw anyone out of a fair settlement, I just want to stop having my time wasted by these Temu AI systems.
-
-22h ago
-
----
-
-**[Michael Saylor Says Bitcoin Drop A 'Capital Rotation' To AI](https://www.reddit.com/r/artificial/comments/1txzsi4/michael_saylor_says_bitcoin_drop_a_capital/)**
-
-Crytpo industry insiders are blaming the recent crash in Bitcoin price to capital rotation into AI stocks. I don't know how many folks here own Bitcoin and are also in the AI space, but I saw this writing on the wall rather early in November, 2025. Any other thoughts on this capital flow change from those who have a foot in each space?
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop) • 3m ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/ramp-launches-stack-an-ai-operating-system-for-accounting-firms-302789630.html) • 7h ago
 
 ---
 
@@ -113,7 +73,47 @@ Crytpo industry insiders are blaming the recent crash in Bitcoin price to capita
 
 Maybe an unpopular opinion, but I think AI will be more of a tool than a replacement for most jobs. AI still needs good prompts, clear instructions, and human oversight. The idea of fully automating everything sounds great, but in reality AI often gets stuck, makes mistakes, or fails on edge cases. I think AI will remove some repetitive tasks and make people more productive, but human judgment and decision making will still be needed. And yes im not a professional it is just my POV so dont just go against me like i am an idiot. What do you think?
 
-6m ago
+1h ago
+
+---
+
+**[What are the most valuable skills to learn in the AI era?](https://www.reddit.com/r/artificial/comments/1txz6n0/what_are_the_most_valuable_skills_to_learn_in_the/)**
+
+What are the most valuable skills to learn in the AI era? Not skills like problem solving but more hands on. For someone who likes building stuff
+
+1h ago
+
+---
+
+**[Michael Saylor Says Bitcoin Drop A 'Capital Rotation' To AI](https://www.reddit.com/r/artificial/comments/1txzsi4/michael_saylor_says_bitcoin_drop_a_capital/)**
+
+Crytpo industry insiders are blaming the recent crash in Bitcoin price to capital rotation into AI stocks. I don't know how many folks here own Bitcoin and are also in the AI space, but I saw this writing on the wall rather early in November, 2025. Any other thoughts on this capital flow change from those who have a foot in each space?
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop) • 1h ago
+
+---
+
+**[I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time](https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/)**
+
+I ran a small experiment on myself and the result broke my mental model of how AI "knows" things, so I'm sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity ("Marin T. Kael") with no prior web footprint and no published book yet. Then I asked 5 web-connected AI systems the same 16 questions, every day, for 23 days, and scored every answer (+1 correct/source-grounded, 0 not found, -1 hallucinated). About 16,000 scored datapoints. The whole thing was pre-registered before I started, n=1, and I logged the failures publicly. It's a measurement, not a success story. Here's the part that messed with my head. An AI cited the entity correctly on day 6. Google had a Knowledge Graph entry by day 4. And for 22 of those 23 days, the website's firewall was returning HTTP 403 to every single AI crawler. I didn't set that block on purpose — Cloudflare now silently opts new domains out of AI crawling by default. So the AIs never read the site. They got the entity anyway, by stitching it together from the Knowledge Graph (Wikidata) and third-party mentions at the moment you ask. The "front door" was bolted shut the entire time and it didn't matter. (Honest caveat: because the crawlers were blocked, I can't tell you anything about llms.txt or on-site optimization.) Other surprises: it's not a "smarter model = better" story, it's a retrieval story. OpenAI's newest web model hit 4.7 correct per 1 hallucinated; Gemini went net-negative — and grounded on the entity ONLY via Reddit (17/17), while OpenAI hit the entity's own domain 119x. Going viral did nothing: a 23x Reddit-karma jump produced zero citation lift. Structured identity (Wikidata, site, DOIs) moved the needle; reach didn't. And the controls caught the models fabricating a "Wikipedia" source 24 times for an entity with no Wikipedia page. n=1 with me as investigator and subject is the obvious limit — which is why it's pre-registered with a public failure log. Everything's open: Report + data (Zenodo, CC-BY): https://doi.org/10.5281/zenodo.20549020?utm_source=reddit Code (MIT): https://github.com/marintkael/marin-research-tools Dataset: https://huggingface.co/datasets/marintkael/ai-citation-fidelity
+
+4h ago
+
+---
+
+**[AI agents fail at the auth step more than at the reasoning step. anyone else seeing this?](https://www.reddit.com/r/artificial/comments/1txqkqx/ai_agents_fail_at_the_auth_step_more_than_at_the/)**
+
+been building AI agents for a while and noticing a pattern: the LLM reasoning part works. the part that breaks is everything around accounts, logins, and verification. agent gets to "sign up for this service" and then: - email verification loop breaks - OTP times out while the agent is mid-step - captcha or bot detection fires - session expires between steps the model figured out what to do. the infrastructure around it didn't cooperate. curious if this matches what others are building. where do your agents actually fail in production? is it the reasoning, or is it the plumbing?
+
+7h ago
+
+---
+
+**[OQC, JPMorganChase and AMD Commence Research Collaboration to Develop New Quantum-AI Platform in London](https://www.reddit.com/r/artificial/comments/1txrcn4/oqc_jpmorganchase_and_amd_commence_research/)**
+
+OQC, JPMorganChase and AMD have launched a research collaboration centered on a dedicated Quantum-AI Data Centre in London.
+
+🔗 [The Quantum Insider](https://thequantuminsider.com/2026/06/05/oqc-jpmorganchase-and-amd-commence-research-collaboration-to-develop-new-quantum-ai-platform-in-london/) • 6h ago
 
 ---
 
@@ -121,75 +121,77 @@ Maybe an unpopular opinion, but I think AI will be more of a tool than a replace
 
 ## Google News: "ai"
 
-**[From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I.](https://www.nytimes.com/2026/06/05/magazine/ai-farms-technology.html)**
-
-The New York Times • 13h ago
-
----
-
 **[Anthropic warns that AI will soon be able to improve itself without human intervention](https://www.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal)**
 
 AI models are rapidly improving – so fast that they may soon be able to develop themselves without human involvement. That’s why Anthropic is warning the AI industry: It needs to build a “brake pedal,” or companies risk losing control of their creations.
 
-CNN • 10h ago
+CNN • 12h ago
 
 ---
 
 **[Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk](https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
-**[Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic](https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic)**
+**[Anthropic warns self‑improving AI could escape control](https://www.usatoday.com/story/money/business/2026/06/05/anthropic-ai-self-improving-systems-risk/90428362007/)**
 
-Bloomberg.com • 1h ago
+Anthropic warns self‑improving AI could outpace human control, urging a slowdown as risks grow and systems begin advancing on their own.
 
----
-
-**[Trump administration, OpenAI discussing possible government stake in the AI startup](https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html)**
-
-OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source.
-
-CNBC • 4h ago
+USA Today • 1h ago
 
 ---
 
-**[Trump explores federal government acquiring shares in AI companies](https://www.usatoday.com/story/news/politics/2026/06/05/trump-government-shares-ai-companies-artificial-intelligence/90426033007/)**
+**[From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I.](https://www.nytimes.com/2026/06/05/magazine/ai-farms-technology.html)**
 
-President Trump said he's exploring the federal government acquiring shares in AI companies, likening it to a "partnership with the American people."
-
-USA Today • 57m ago
+The New York Times • 15h ago
 
 ---
 
-**[Trump says he’s considering government stake in top AI companies](https://www.washingtonpost.com/politics/2026/06/05/tech-leaders-will-discuss-government-stakes-top-ai-firms-trump-says/)**
+**['Dreams of Violets' AI-generated film to debut at Tribeca Film Festival](https://www.nbcnews.com/video/-dreams-of-violets-ai-generated-film-to-debut-at-tribeca-film-festival-264664645719)**
 
-Industry leaders will soon gather at the White House to discuss the idea, the president said. The comments come as SpaceX, Anthropic and OpenAI prepare to go public.
+As Tribeca Film Festival celebrates its 25th anniversary, calls for a boycott emerge as its set to premiere its first-ever full-length AI-generated film "Dreams of Violets". NBC News' Chloe Melas speaks with the director whose movie is making history.
 
-The Washington Post • 41m ago
-
----
-
-**[Martin Scorsese Could Set A New AI Pattern In Hollywood–But It Might Not Take Off](https://www.yahoo.com/entertainment/movies/articles/martin-scorsese-could-set-ai-220940669.html)**
-
-Read this article to understand why and how Martin Scorsese is embracing AI in filmmaking, and why his decision has received stron
-
-Yahoo • 32m ago
+NBC News • 29m ago
 
 ---
 
-**[What to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce)**
+**[How to talk to your kids about AI, according to a new guide from Pitt](https://www.cbsnews.com/pittsburgh/news/guide-talk-to-kids-ai-pitt/)**
 
-Bloomberg.com • 13h ago
+AI is growing so quickly that it's hard for parents to stay ahead of how kids are using it.
+
+CBS News • 41m ago
 
 ---
 
-**[Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO](https://www.cnbc.com/2026/06/05/apple-wwdc-tim-cook-ai-siri-ternus.html)**
+**[‘A Terrible Year to Go Public’: Why This Massive AI Startup Is Resisting the IPO Rush](https://www.inc.com/victoria-salves/a-terrible-year-to-go-public-why-massive-ai-startup-is-resisting-the-ipo-rush/91356664)**
 
-Apple heads into WWDC with Tim Cook’s AI legacy, Siri’s future as an agentic platform, and the stock’s rich valuation all on the line.
+The CEO of a data platform startup knows that his business will be a public company eventually, but he insists that it won't happen in the near future.
 
-CNBC • 5h ago
+inc.com • 52m ago
+
+---
+
+**[US Exploring Government Partnerships with AI Firms, Trump Says](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Donald Trump says US may take equity stakes in AI companies](https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400?syn-25a6b1a6=1)**
+
+President suggests ‘partnership’ will ease voter concerns about the technology ahead of November’s midterm elections
+
+Financial Times • 3h ago
+
+---
+
+**[Trump calls for military to accelerate use of AI while protecting Americans](https://www.pressdemocrat.com/2026/06/05/trump-military-ai-order-oversight-civil-liberties/)**
+
+Trump memo directs military to accelerate AI adoption while ensuring human oversight.
+
+The Press Democrat • 1h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 5h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 807 • 💬 773 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 810 • 💬 774 • 1d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -217,7 +219,7 @@ I wrote the other day about Uber blowing its 2026 AI budget in four months, and 
 
 Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
 
-⬆️ 514 • 💬 141 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 517 • 💬 140 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
 
 ---
 
@@ -225,7 +227,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 502 • 💬 673 • 1d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 503 • 💬 675 • 1d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -233,15 +235,7 @@ Our progress toward recursive self-improvement, and its implications.
 
 Lower-priced kits are disappearing by the day
 
-⬆️ 429 • 💬 388 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
-
----
-
-**[AI outperforms law professors in Stanford Law study](https://news.ycombinator.com/item?id=48377761)**
-
-A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st
-
-⬆️ 410 • 💬 357 • 2d ago • [Stanford Law School](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+⬆️ 429 • 💬 389 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
 
 ---
 
@@ -249,7 +243,7 @@ A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveal
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 330 • 💬 206 • 7h ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 343 • 💬 219 • 9h ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
@@ -263,7 +257,7 @@ Nasa had directed five of the seven astronauts to shelter inside the docked Spac
 
 Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
 
-⬆️ 255 • 💬 67 • 22h ago • [GitHub](https://github.com/alibaba/open-code-review)
+⬆️ 258 • 💬 67 • 1d ago • [GitHub](https://github.com/alibaba/open-code-review)
 
 ---
 
@@ -271,7 +265,15 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 203 • 💬 128 • 22h ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 205 • 💬 128 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+
+---
+
+**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
+
+Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
+
+⬆️ 167 • 💬 104 • 1d ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
 
 ---
 
@@ -279,43 +281,43 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 ## YouTube Videos: "ai"
 
-**[Alarm over computer &quot;worms&quot; created with AI](https://www.youtube.com/watch?v=Igm1BHDy0TY)**
-
-Experts are warning about computer "worms" created with AI that can infect devices and harm users without restraint. University of ...
-
-📺 CBS News
-
-👁️ 11K • 👍 360 • 💬 103 • ⏱️ 4:17 • 8h ago
-
----
-
 **[AI News: Microsoft Finally Reveals Their Plan!](https://www.youtube.com/watch?v=nz4h3H1MmTg)**
 
 Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
 
 📺 Matt Wolfe
 
-👁️ 16K • 👍 945 • 💬 182 • ⏱️ 30:17 • 7h ago
+👁️ 23K • 👍 1K • 💬 201 • ⏱️ 30:17 • 9h ago
 
 ---
 
-**[Quantum Just Killed AI Data Centers](https://www.youtube.com/watch?v=4o_evxWvsx0)**
+**[The AI Bubble Is Starting To Pop...](https://www.youtube.com/watch?v=qM0BWixY09w)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *A quantum computer just solved in minutes ...
+SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
 
-📺 Julia McCoy
+📺 YongYea
 
-👁️ 82K • 👍 5K • 💬 533 • ⏱️ 7:25 • 1d ago
+👁️ 47K • 👍 3K • 💬 964 • ⏱️ 17:22 • 4h ago
 
 ---
 
-**[Bernie Sanders CONFRONTS Sam Altman About AI](https://www.youtube.com/watch?v=OXjooUNL5Ac)**
+**[DeepMind’s New AI Found A Strange New Way To Think](https://www.youtube.com/watch?v=Dkqzqw8rxXI)**
 
-Sen. Bernie Sanders met with OpenAI CEO Sam Altman to discuss Sander's proposal to give the American public stake in AI ...
+Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers The paper is available here: ...
 
-📺 The Young Turks
+📺 Two Minute Papers
 
-👁️ 22K • 👍 809 • 💬 176 • ⏱️ 13:49 • 19h ago
+👁️ 45K • 👍 3K • 💬 239 • ⏱️ 7:30 • 8h ago
+
+---
+
+**[If YOU Think AI Can&#39;t Replace God, You NEED To See This](https://www.youtube.com/watch?v=b1_7Pt0DJos)**
+
+People are already worshipping artificial intelligence. A former Google engineer called it "effectively a God." Sam Altman ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 22K • 👍 980 • 💬 260 • ⏱️ 23:11 • 6h ago
 
 ---
 
@@ -323,7 +325,7 @@ Sen. Bernie Sanders met with OpenAI CEO Sam Altman to discuss Sander's proposal 
 
 📺 Patrick Zeinali
 
-👁️ 786K • 👍 32K • 💬 355 • ⏱️ 0:29 • 6h ago
+👁️ 1.3M • 👍 43K • 💬 480 • ⏱️ 0:29 • 8h ago
 
 ---
 
@@ -333,47 +335,47 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku
 
 📺 Dan Martell
 
-👁️ 52K • 👍 2K • 💬 82 • ⏱️ 14:11 • 1d ago
+👁️ 55K • 👍 2K • 💬 88 • ⏱️ 14:11 • 1d ago
 
 ---
 
-**[They Just Admitted The AI Bubble Is Popping...](https://www.youtube.com/watch?v=zv5EFLq7KXo)**
+**[An AI &quot;death spiral&quot; threatens the internet #shorts #ai](https://www.youtube.com/watch?v=PALnrZzSGzY)**
 
-Hello guys and gals, it's me Mutahar again! Talks of the AI bubble are something I've had on this channel recently and it's been on ...
+AI-powered search is reducing web traffic, forcing publishers to rethink how they attract audiences and generate revenue online.
 
-📺 SomeOrdinaryGamers
+📺 Bloomberg Television
 
-👁️ 199K • 👍 9K • 💬 1K • ⏱️ 23:33 • 22h ago
+👁️ 239 • 👍 4 • ⏱️ 1:20 • 1h ago
 
 ---
 
-**[Anthropic urges pause in AI development, says industry needs &#39;brake pedal&#39;](https://www.youtube.com/watch?v=7KLAb0pUMlc)**
+**[Anthropic calls for global pause in AI development](https://www.youtube.com/watch?v=joZ4Esutu9w)**
 
-The artificial intelligence company is calling for a global pause on developing the most powerful AI systems, saying the latest ...
+The artificial intelligence company's warns that we need to pause development before AI can build itself and humans lose control ...
 
 📺 ABC News
 
-👁️ 6K • 👍 88 • 💬 52 • ⏱️ 1:35 • 11h ago
+👁️ 13K • 👍 352 • 💬 163 • ⏱️ 4:00 • 4h ago
 
 ---
 
-**[Microsoft Just Shocked The Entire AI World: 7 New AI Models](https://www.youtube.com/watch?v=i1dkkxLWaWg)**
+**[Welp, everyone HATES A.I.](https://www.youtube.com/watch?v=vhrJqOGrXGo)**
 
-Microsoft just revealed seven in-house AI models, Microsoft IQ, Scout, Codename MDASH, and Majorana 2, turning its AI push ...
+Everyone besides tech CEOs has been saying it. Now they're starting to say it too. Visit https://groundnews.com/factually to stay ...
 
-📺 AI Revolution
+📺 Adam Conover
 
-👁️ 82K • 👍 2K • 💬 369 • ⏱️ 16:42 • 1d ago
+👁️ 204K • 👍 18K • 💬 3K • ⏱️ 14:37 • 1d ago
 
 ---
 
-**[AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried](https://www.youtube.com/watch?v=p7t1Q_p2gZs)**
+**[Record layoffs driven by AI: Econ analyst reacts](https://www.youtube.com/watch?v=8LLpAyNCh7M)**
 
-Geoffrey Hinton is an AI pioneer, a Nobel Prize winner, and a professor emeritus at the University of Toronto. Hinton joins Big ...
+Over 97000 layoffs were reported last month, and the flurry of pink slips in May can be traced back to the rise of AI. Matt Egan ...
 
-📺 Alex Kantrowitz
+📺 CNN
 
-👁️ 37K • 👍 1K • 💬 413 • ⏱️ 54:54 • 1d ago
+👁️ 45K • 👍 694 • 💬 260 • ⏱️ 11:44 • 6h ago
 
 ---
 
@@ -413,7 +415,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 296,410 • ❤️ 364 • 8h ago
+⬇️ 296,410 • ❤️ 364 • 10h ago
 
 ---
 
@@ -437,7 +439,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 82,709 • ❤️ 525 • 2h ago
+⬇️ 82,709 • ❤️ 525 • 3h ago
 
 ---
 
@@ -646,7 +648,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 55.3k • 🔱 6.6k • 1h ago
+⭐ 55.6k • 🔱 6.6k • 3h ago
 
 ---
 
@@ -674,7 +676,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 314 • 10h ago
+⭐ 3.0k • 🔱 314 • 11h ago
 
 ---
 
@@ -684,7 +686,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 2.9k • 🔱 292 • 14h ago
+⭐ 2.9k • 🔱 295 • 15h ago
 
 ---
 
@@ -724,7 +726,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Rust` `agent` `ai` `cli` `linux` `macos`
 
-⭐ 1.6k • 🔱 68 • 1d ago
+⭐ 1.6k • 🔱 69 • 1d ago
 
 ---
 
@@ -734,7 +736,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Python`
 
-⭐ 1.5k • 🔱 695 • 14h ago
+⭐ 1.5k • 🔱 695 • 16h ago
 
 ---
 

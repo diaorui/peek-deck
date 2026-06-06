@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-05T22:42:32.103660+00:00'
+updated: '2026-06-06T00:06:52.218385+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 05, 2026 at 22:42 UTC  
+**Last Updated:** June 06, 2026 at 00:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,23 +32,23 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
-
-15h ago
-
----
-
 **[SLAM Camera Module](https://www.reddit.com/r/robotics/comments/1txw0ha/slam_camera_module/)**
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-2h ago
+3h ago
+
+---
+
+**[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
+
+17h ago
 
 ---
 
 **[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,23 +56,7 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
 
-5h ago
-
----
-
-**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 11h ago
-
----
-
-**[Autonomous Exploring Rover with VSLAM](https://www.reddit.com/r/robotics/comments/1txi5ur/autonomous_exploring_rover_with_vslam/)**
-
-I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
-
-11h ago
+7h ago
 
 ---
 
@@ -80,13 +64,29 @@ I've just released my latest blog post and video, which shows my Viam Rover buil
 
 Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
 
-8h ago
+9h ago
+
+---
+
+**[Autonomous Exploring Rover with VSLAM](https://www.reddit.com/r/robotics/comments/1txi5ur/autonomous_exploring_rover_with_vslam/)**
+
+I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
+
+12h ago
+
+---
+
+**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 12h ago
 
 ---
 
 **[Building a Custom Drones MuJoCo Environment](https://www.reddit.com/r/robotics/comments/1txuz3l/building_a_custom_drones_mujoco_environment/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey all, I'm a robotics engineer by training turned ML/AI engineer because of pa
 
 Just came across this turn key modular consumer robotic arm that offers hardware and software integration all in one package. Question: Does anything like this exists for industrial application under $5k, each module made out of stainless steel or aluminum and comes with easy to use software integration (machine vision etc)?
 
-4h ago
+6h ago
 
 ---
 
@@ -110,7 +110,7 @@ Just came across this turn key modular consumer robotic arm that offers hardware
 
 **[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -126,7 +126,7 @@ About Amazon • 1d ago
 
 Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
 
-NPR • 13h ago
+NPR • 15h ago
 
 ---
 
@@ -134,7 +134,7 @@ NPR • 13h ago
 
 Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 17h ago
 
 "Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -172,15 +172,15 @@ Ars Technica • 1d ago
 
 **[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
+**[Spelman announces robotics, AI expert as college’s next president](https://www.ajc.com/education/2026/06/spelman-announces-robotics-ai-expert-as-colleges-next-president/)**
 
-Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
+Spelman College announces engineering educator Ayanna Howard will be the next president of the all-female Atlanta HBCU.
 
-Shore Daily News • 13h ago
+AJC.com • 9h ago
 
 ---
 
@@ -188,23 +188,23 @@ Shore Daily News • 13h ago
 
 ## YouTube Videos: "robotics"
 
+**[China Just Built A Two Brain AI Robot: One Body, Two Minds](https://www.youtube.com/watch?v=-bDC3OyMGRg)**
+
+China just revealed JAKA Pi, a compact humanoid with a split AI brain built to think, see, move, and react in real time. Vietnam ...
+
+📺 AI Revolution
+
+👁️ 14K • 👍 429 • 💬 44 • ⏱️ 15:31 • 1d ago
+
+---
+
 **[Early Release: Unitree’s Robots Leave Simon Cowell SPEECHLESS! | Auditions | AGT 2026](https://www.youtube.com/watch?v=y7ojRmPxqNg)**
 
 Unitree has waited years to show the world something new, and the result is one of the wildest acts of the season. The judges ...
 
 📺 America's Got Talent
 
-👁️ 2.3M • 👍 42K • 💬 5K • ⏱️ 6:01 • 3d ago
-
----
-
-**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
-
-Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
-
-📺 Talent Recap
-
-👁️ 628K • 👍 10K • 💬 755 • ⏱️ 5:01 • 3d ago
+👁️ 2.3M • 👍 43K • 💬 5K • ⏱️ 6:01 • 3d ago
 
 ---
 
@@ -214,7 +214,17 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 727 • 👍 101 • 💬 9 • ⏱️ 6:04 • 3h ago
+👁️ 2K • 👍 147 • 💬 19 • ⏱️ 6:04 • 5h ago
+
+---
+
+**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
+
+Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
+
+📺 Talent Recap
+
+👁️ 664K • 👍 11K • 💬 793 • ⏱️ 5:01 • 3d ago
 
 ---
 
@@ -224,7 +234,17 @@ War Robots Gameplay: Ultimate LEO - that I don't think is very good. My War Robo
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 417 • 💬 88 • ⏱️ 13:59 • 1d ago
+👁️ 8K • 👍 422 • 💬 88 • ⏱️ 13:59 • 1d ago
+
+---
+
+**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
+
+Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
+
+📺 PREDATOR WR
+
+👁️ 8K • 👍 321 • 💬 74 • ⏱️ 15:22 • 12h ago
 
 ---
 
@@ -234,27 +254,7 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 133K • 👍 4K • 💬 573 • ⏱️ 29:20 • 6d ago
-
----
-
-**[AR4 MK5 Open Source Robot Arm | 6DOF Arduino Python ROS2 Automation Robot](https://www.youtube.com/watch?v=IMCri8vN6l8)**
-
-The AR4 6 axis robot arm uses an Arduino based controller and Python interface. This 6DOF arm is widely used in educational ...
-
-📺 Chris Annin
-
-👁️ 1K • 👍 148 • 💬 6 • ⏱️ 4:53 • 8h ago
-
----
-
-**[11 Real Reactions. They Forgot It Was a Robot.](https://www.youtube.com/watch?v=5-9moiTMnM0)**
-
-"I didn't feel like it was a robot" - 11 real people. Zero scripts. roboSculptor combines cutting-edge robotics with a touch so precise, ...
-
-📺 Robosculptor
-
-👁️ 624 • 👍 7 • ⏱️ 1:45 • 13h ago
+👁️ 134K • 👍 4K • 💬 585 • ⏱️ 29:20 • 6d ago
 
 ---
 
@@ -264,7 +264,7 @@ Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/p
 
 📺 Farzad
 
-👁️ 177K • 👍 7K • 💬 728 • ⏱️ 23:36 • 4d ago
+👁️ 177K • 👍 7K • 💬 729 • ⏱️ 23:36 • 4d ago
 
 ---
 
@@ -274,7 +274,7 @@ Researchers at Leiden University 3D-printed a microrobot just five micrometers l
 
 📺 Rowan Cheung
 
-👁️ 96K • 👍 3K • 💬 79 • ⏱️ 1:06 • 2d ago
+👁️ 97K • 👍 3K • 💬 80 • ⏱️ 1:06 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ Deep inside a high-yield modern fruit orchard, an advanced autonomous harvesting
 
 📺 Peace Working Shorts
 
-👁️ 674K • 👍 890 • 💬 10 • ⏱️ 0:06 • 3d ago
+👁️ 678K • 👍 893 • 💬 10 • ⏱️ 0:06 • 3d ago
 
 ---
 
