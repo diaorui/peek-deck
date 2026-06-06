@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T00:06:52.218385+00:00'
+updated: '2026-06-06T04:37:05.702482+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 00:06 UTC  
+**Last Updated:** June 06, 2026 at 04:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,33 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-3h ago
+8h ago
 
 ---
 
 **[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
 
-17h ago
+21h ago
 
 ---
 
 **[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
 
-9h ago
+14h ago
+
+---
+
+**[How do you use or trust physical AI / robotics benchmarks in practice?](https://www.reddit.com/r/robotics/comments/1ty2zea/how_do_you_use_or_trust_physical_ai_robotics/)**
+
+Hi all, I’m trying to understand how people working with physical AI, embodied AI, robotics, or VLA models think about benchmarks in practice. This is not a product promotion or a request for upvotes. I’m looking for practical perspectives from people who run, read, or rely on benchmark results. A few questions: - Which benchmarks do you actually pay attention to? - Do benchmark scores influence model, policy, or framework choices, or are they mostly sanity checks? - What makes a benchmark result credible to you? - How much do you trust simulated task results compared with real-robot or hardware-in-the-loop results? - What are the biggest red flags when you see a physical AI benchmark claim? I’m especially interested in how people separate useful evidence from leaderboard noise, overfitting, cherry-picked demos, or unclear evaluation protocols. If this is too broad for this subreddit, I’m happy to narrow the question.
+
+3h ago
+
+---
+
+**[reality vs lidar](https://www.reddit.com/r/robotics/comments/1ty52hw/reality_vs_lidar/)**
+
+1h ago
 
 ---
 
@@ -56,7 +70,27 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
 
-7h ago
+11h ago
+
+---
+
+**[BB1 Robot shows progress - denial](https://www.reddit.com/r/robotics/comments/1ty6jj6/bb1_robot_shows_progress_denial/)**
+
+Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
+
+46m ago
+
+---
+
+**[Similar issue different model (Seeed studio Servo bus board xiao v1) with Sts 3215 (I know its supposed to go into ask robotics but initial post was from here)](https://www.reddit.com/r/robotics/comments/1ty4s8j/similar_issue_different_model_seeed_studio_servo/)**
+
+2h ago
+
+---
+
+**[The calibration of the laser offset for object pointing is really difficult. i will now try Measure your actual camera FOV: Set servo to Pan=90° (center) Hold a ruler at a known distance (e.g., 100 cm) See how many centimeters wide the image area is FOV = 2 × atan(width/2 / distance) × 180/π](https://www.reddit.com/r/robotics/comments/1ty4mbn/the_calibration_of_the_laser_offset_for_object/)**
+
+2h ago
 
 ---
 
@@ -64,43 +98,7 @@ In my previous post was a little showcase of my implementation of the pure pursu
 
 Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
 
-9h ago
-
----
-
-**[Autonomous Exploring Rover with VSLAM](https://www.reddit.com/r/robotics/comments/1txi5ur/autonomous_exploring_rover_with_vslam/)**
-
-I've just released my latest blog post and video, which shows my Viam Rover build upgraded with a RealSense camera to perform full VSLAM mapping and exploration. In the post, I talk about the robot build, the challenges I faced, and provide a parts list so you can build your own version too. Future posts/videos will have more detail on the build and teach some of the concepts. I hope it's interesting! Video: https://youtu.be/QPRefVvoB8o Blog post: https://mikelikesrobots.github.io/blog/autonomous-viam-rover
-
-12h ago
-
----
-
-**[TienKung Omni Conquers Real-World Obstacles—No Mocap](https://www.reddit.com/r/robotics/comments/1txi8tl/tienkung_omni_conquers_realworld_obstaclesno_mocap/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/am7X0pVGoGE) • 12h ago
-
----
-
-**[Building a Custom Drones MuJoCo Environment](https://www.reddit.com/r/robotics/comments/1txuz3l/building_a_custom_drones_mujoco_environment/)**
-
-4h ago
-
----
-
-**[Is There Industrial Level Robotic Arm Like This?](https://www.reddit.com/r/robotics/comments/1txscvf/is_there_industrial_level_robotic_arm_like_this/)**
-
-Just came across this turn key modular consumer robotic arm that offers hardware and software integration all in one package. Question: Does anything like this exists for industrial application under $5k, each module made out of stainless steel or aluminum and comes with easy to use software integration (machine vision etc)?
-
-6h ago
-
----
-
-**[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1twygou/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
-
-1d ago
+14h ago
 
 ---
 
@@ -110,15 +108,13 @@ Just came across this turn key modular consumer robotic arm that offers hardware
 
 **[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
-Reuters • 15h ago
+Reuters • 20h ago
 
 ---
 
-**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
-Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
-
-About Amazon • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -126,15 +122,7 @@ About Amazon • 1d ago
 
 Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
 
-NPR • 15h ago
-
----
-
-**[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-045529173.html)**
-
-Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
-
-Yahoo Finance • 19h ago
+NPR • 19h ago
 
 ---
 
@@ -142,23 +130,15 @@ Yahoo Finance • 19h ago
 
 "Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-CNBC • 9h ago
+CNBC • 14h ago
 
 ---
 
-**[Investors bet humanoid robots will transform industry and homes over the next decade](https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html)**
+**[Nvidia CEO sees robotics as next major sector in South Korea](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-045529173.html)**
 
-“Be ready for it,” said one fund manager who sees enormous opportunities in the space.
+Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
 
-CNBC • 2d ago
-
----
-
-**[Tap into the humanoid robotics boom with this ETF](https://www.foxbusiness.com/markets/tap-humanoid-robotics-boom-etf)**
-
-Humanoid robots and physical AI may be the next major tech investment theme as investors look beyond the artificial intelligence boom for new opportunities.
-
-Fox Business • 2d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -170,17 +150,35 @@ Ars Technica • 1d ago
 
 ---
 
-**[China’s Robotics Companies Look to Prove They’re Here to Stay](https://www.bloomberg.com/news/newsletters/2026-06-05/china-s-robotics-firms-heading-for-listings-look-to-prove-they-re-here-to-stay)**
-
-Bloomberg.com • 6h ago
-
----
-
 **[Spelman announces robotics, AI expert as college’s next president](https://www.ajc.com/education/2026/06/spelman-announces-robotics-ai-expert-as-colleges-next-president/)**
 
 Spelman College announces engineering educator Ayanna Howard will be the next president of the all-female Atlanta HBCU.
 
-AJC.com • 9h ago
+AJC.com • 14h ago
+
+---
+
+**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
+
+Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
+
+About Amazon • 1d ago
+
+---
+
+**[Congress Introduces GUARD Act, Extending FCC Covered List Framework to Robotics](https://dronelife.com/2026/06/04/congress-introduces-guard-act-extending-fcc-covered-list-framework-to-robotics/)**
+
+Proposal would require national security reviews of certain foreign-made robots, extending the FCC Covered List framework beyond drones.
+
+Dronelife • 1d ago
+
+---
+
+**[Shifters: Robots on the frontline](https://www.jpost.com/defense-and-tech/article-898434)**
+
+Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
+
+The Jerusalem Post • 1d ago
 
 ---
 
@@ -194,17 +192,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 14K • 👍 429 • 💬 44 • ⏱️ 15:31 • 1d ago
-
----
-
-**[Early Release: Unitree’s Robots Leave Simon Cowell SPEECHLESS! | Auditions | AGT 2026](https://www.youtube.com/watch?v=y7ojRmPxqNg)**
-
-Unitree has waited years to show the world something new, and the result is one of the wildest acts of the season. The judges ...
-
-📺 America's Got Talent
-
-👁️ 2.3M • 👍 43K • 💬 5K • ⏱️ 6:01 • 3d ago
+👁️ 14K • 👍 443 • 💬 46 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -214,7 +202,17 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 2K • 👍 147 • 💬 19 • ⏱️ 6:04 • 5h ago
+👁️ 3K • 👍 195 • 💬 23 • ⏱️ 6:04 • 9h ago
+
+---
+
+**[Early Release: Unitree’s Robots Leave Simon Cowell SPEECHLESS! | Auditions | AGT 2026](https://www.youtube.com/watch?v=y7ojRmPxqNg)**
+
+Unitree has waited years to show the world something new, and the result is one of the wildest acts of the season. The judges ...
+
+📺 America's Got Talent
+
+👁️ 2.4M • 👍 44K • 💬 5K • ⏱️ 6:01 • 3d ago
 
 ---
 
@@ -224,7 +222,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 664K • 👍 11K • 💬 793 • ⏱️ 5:01 • 3d ago
+👁️ 718K • 👍 11K • 💬 844 • ⏱️ 5:01 • 3d ago
 
 ---
 
@@ -234,7 +232,7 @@ War Robots Gameplay: Ultimate LEO - that I don't think is very good. My War Robo
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 422 • 💬 88 • ⏱️ 13:59 • 1d ago
+👁️ 8K • 👍 427 • 💬 90 • ⏱️ 13:59 • 1d ago
 
 ---
 
@@ -244,7 +242,35 @@ Nether & Devourer got buffed! The rebalance is mostly bad but there are some buf
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 321 • 💬 74 • ⏱️ 15:22 • 12h ago
+👁️ 9K • 👍 347 • 💬 77 • ⏱️ 15:22 • 16h ago
+
+---
+
+**[This Robotic Hand Moves After Being Detached From the Body](https://www.youtube.com/watch?v=s74Q6jC-w2U)**
+
+Open Bionics built a bionic hand that detaches and keeps moving on its own. After 30 days, users' brains permanently rewired to ...
+
+📺 AzlanX
+
+👁️ 7K • 💬 4 • ⏱️ 0:34 • 8h ago
+
+---
+
+**[TRICKS &amp; FLIPS!! Doggy Robots Showing Off!! #robotics #humanoid #robot #ai #robotmaxxing](https://www.youtube.com/watch?v=oDxUUvubNlA)**
+
+📺 6PACKB450
+
+👁️ 637 • 👍 6 • ⏱️ 0:43 • 2h ago
+
+---
+
+**[Override | Worlds Reveal | VEX Robotics Competition World Championship 2026](https://www.youtube.com/watch?v=lCFVuyHgmmc)**
+
+ORDER HERE: https://vex.com/VEXgames26-27yt SUBSCRIBE: https://vex.com/YouTube ...
+
+📺 VEX Robotics
+
+👁️ 4K • 👍 50 • 💬 10 • ⏱️ 12:31 • 8h ago
 
 ---
 
@@ -254,37 +280,7 @@ The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behin
 
 📺 Ryan Shaw
 
-👁️ 134K • 👍 4K • 💬 585 • ⏱️ 29:20 • 6d ago
-
----
-
-**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
-
-Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
-
-📺 Farzad
-
-👁️ 177K • 👍 7K • 💬 729 • ⏱️ 23:36 • 4d ago
-
----
-
-**[This 3D-printed robot is invisible to the naked eye 👀 #trendingshorts #technology #robot #future](https://www.youtube.com/watch?v=Rw-EcOj4rlw)**
-
-Researchers at Leiden University 3D-printed a microrobot just five micrometers long that moves like a living worm despite having ...
-
-📺 Rowan Cheung
-
-👁️ 97K • 👍 3K • 💬 80 • ⏱️ 1:06 • 2d ago
-
----
-
-**[Smart Fruit Picking Robot WORKS WITH INSANE Precision! 🍎](https://www.youtube.com/watch?v=Zs7MEjtsojs)**
-
-Deep inside a high-yield modern fruit orchard, an advanced autonomous harvesting robot demonstrates a flawless display of ...
-
-📺 Peace Working Shorts
-
-👁️ 678K • 👍 893 • 💬 10 • ⏱️ 0:06 • 3d ago
+👁️ 135K • 👍 4K • 💬 585 • ⏱️ 29:20 • 6d ago
 
 ---
 

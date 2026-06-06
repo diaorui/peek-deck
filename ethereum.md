@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T00:06:52.215214+00:00'
+updated: '2026-06-06T04:37:05.698337+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 00:06 UTC  
+**Last Updated:** June 06, 2026 at 04:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,588.86
+### $1,522.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.9%  
-**7d:** -20.4%  
-**30d:** -30.7%  
-**90d:** -19.9%  
-**1y:** -36.7%  
+**24h:** -9.6%  
+**7d:** -24.2%  
+**30d:** -34.1%  
+**90d:** -23.5%  
+**1y:** -39.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.43B
-Rank #2
+**Market Cap:** $183.44B
+Rank #3
 
-**Circulating Supply:** 120,684,816 ETH
+**Circulating Supply:** 120,684,554 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.2%
+-69.3%
 
 **All-Time Low:** $0.43
-+362601.2%
++351023.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated financial infrastructure ever built, and i still have to convert everything to fiat just to buy groceries. The DeFi side is incredible. Lending, borrowing, yield all of it works seamlessly but the moment you want to actually spend your stablecoins in real life you're back to exchanges, fees and waiting for bank transfers. Everything works perfectly until you want to spend it somewhere normal
 
-10h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 15h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 19h ago
 
 ---
 
@@ -152,20 +152,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
-
-Barron's • 1d ago
-
----
-
-**[Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist](https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist)**
-
-In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.
-
-CoinDesk • 1d ago
-
----
-
 **[Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits](https://finance.yahoo.com/markets/crypto/articles/crypto-crash-today-why-bitcoin-222002231.html)**
 
 The crypto market cap stood at $2.53 trillion last Wednesday. As of this morning, it has dropped to $2.25 trillion, with Bitcoin (CRYPTO: BTC) testing $61,500 overnight before rebounding to $63K. There’s quite a few reasons for the market plunge. Strategy broke a years-long rule and sold Bitcoin for the first time in nearly four ... Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits
@@ -178,53 +164,71 @@ Yahoo Finance • 1d ago
 
 BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
-Decrypt • 6h ago
+Decrypt • 10h ago
 
 ---
 
-**[Dormant Ethereum Whale Resurfaces With Massive ETH Accumulation—Could It Fuel the Next Rally?](https://coinpedia.org/price-analysis/dormant-ethereum-whale-resurfaces-with-massive-eth-accumulation-could-it-fuel-the-next-rally/)**
+**[Ethereum news: ETH falling below $1,800 leaves Tom Lee's Bitmine (BMNR) with $8.9 billion paper loss](https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800)**
 
-Ethereum has slipped to fresh yearly lows after breaking a critical support zone, reinforcing bearish sentiment across the broader market.
+Shares of Tom Lee's Ethereum treasury firm hit their lowest level since the company's crypto pivot as ETH revisits the February lows.
 
-Coinpedia • 9h ago
-
----
-
-**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
-
-Crowdfund Insider • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Is Ethereum Falling Below $1,600 a Red Flag or a Green Signal to Buy?](https://finance.yahoo.com/markets/crypto/articles/ethereum-falling-below-1-600-172500639.html)**
+**[BitMine Slides 5%, Strategy Falls 4% as Crypto Crash Deepens on Ethereum’s 7% Plunge](https://finance.yahoo.com/markets/crypto/articles/bitmine-slides-5-strategy-falls-133126817.html)**
+
+Shares of Bitmine Immersion Technologies (NYSE:BMNR) are down 5% to $16.91 in early Friday trading, while Strategy (NASDAQ:MSTR) is off 4% to $124.38. The slide tracks a fresh leg lower in crypto. Ethereum (CRYPTO:ETH) is down 7% over the past 24 hours to $1,665, dragging BMNR stock with it as the largest corporate ETH holder. ... BitMine Slides 5%, Strategy Falls 4% as Crypto Crash Deepens on Ethereum’s 7% Plunge
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist](https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist)**
+
+In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Liquidation Risk Mounts as $547 Million in DeFi Positions Near Critical Levels](https://coinpedia.org/price-analysis/ethereum-liquidation-risk-mounts-as-547-million-in-defi-positions-near-critical-levels/)**
+
+Ethereum is once again staring at a familiar crypto nightmare: leveraged positions stacked on top of each other while price action starts to crack.
+
+Coinpedia • 11h ago
+
+---
+
+**[Current price of Ethereum for June 5, 2026](https://fortune.com/article/price-of-ethereum-06-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
+
+---
+
+**[“Ethereum is a Failed Project” Says Bankless Founder](https://www.tradingview.com/news/coinpedia:f9203703e094b:0-ethereum-is-a-failed-project-says-bankless-founder/)**
+
+Bankless Co-founder Ryan Sean Adams said that Ethereum is a failed project if ETH never becomes a global store of value. His comments come as ETH trades near April 2025 levels, down roughly 67% from its record high of $4953.Perhaps responding to the Adams statement sparked debate in the community…
+
+TradingView • 21h ago
+
+---
+
+**[Is Ethereum Falling Below $1,600 a Red Flag or a Green Signal to Buy?](https://www.fool.com/investing/2026/06/05/is-ethereum-falling-below-1600-a-red-flag-or-a-gre/)**
 
 Is the world's second-largest cryptocurrency undervalued, or is it a falling knife?
 
-Yahoo Finance • 6h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[ETHUSD – Ethereum Price Falls By 8% As Fear Fuels Selloffs](https://dmarketforces.com/ethusd-ethereum-price-falls-by-8-as-fear-fuels-selloffs/)**
+**[Tom Lee: 'Ethereum Is Like Amazon Stuck At $6, You're Bearish At The Bottom'](https://www.benzinga.com/crypto/cryptocurrency/26/06/53023799/tom-lee-ethereum-is-like-amazon-stuck-at-6-youre-bearish-at-the-bottom)**
 
-Ethereum (ETHUSD) price fell 8.05% over the last 24 hours to $1,638.21, underperforming the broader market decline and was primarily
+Fundstrat founder Tom Lee told investors at a Paris conference Tuesday that Ethereum (CRYPTO: ETH) mirrors Amazon
 
-MarketForces Africa • 16h ago
-
----
-
-**[Ethereum Price Downtrend May Not Be Over—Sub-$1,700 Levels Loom](https://www.tradingview.com/news/newsbtc:85135a550094b:0-ethereum-price-downtrend-may-not-be-over-sub-1-700-levels-loom/)**
-
-Ethereum price started a fresh decline and traded below $1,750. ETH is now consolidating below $1,750 and might continue to move down.Ethereum Price Remains In DowntrendEthereum price failed to remain stable above $1,840 and started a fresh decline, like Bitcoin. ETH price dipped below the $1,800 a…
-
-TradingView • 20h ago
-
----
-
-**[Standard Chartered Cuts Ethereum Target 47% as ETH Slips Below $1,800](https://beincrypto.com/standard-chartered-cuts-ethereum-price-target/)**
-
-Standard Chartered cut its 2026 Ethereum target 47% to $4,000 but kept its $40,000 long-term call, implying over 20x upside.
-
-BeInCrypto • 1d ago
+Benzinga • 17h ago
 
 ---
 
@@ -232,13 +236,13 @@ BeInCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
+**[Ethereum Crash Explained: Why ETH Could Still Fall Further](https://www.youtube.com/watch?v=v_YPM2hSVrw)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+Ethereum continues to trade below the key yellow trend line, keeping downside pressure firmly in place. In this update, I explain ...
 
-📺 Trade Confident
+📺 More Crypto Online
 
-👁️ 524 • 👍 12 • 💬 1 • ⏱️ 5:45 • 5h ago
+👁️ 2K • 👍 183 • 💬 11 • ⏱️ 8:30 • 4h ago
 
 ---
 
@@ -248,7 +252,17 @@ Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX
 
 📺 Lark Davis
 
-👁️ 24K • 👍 1K • 💬 246 • ⏱️ 20:00 • 12h ago
+👁️ 25K • 👍 1K • 💬 256 • ⏱️ 20:00 • 16h ago
+
+---
+
+**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 812 • 👍 17 • 💬 1 • ⏱️ 5:45 • 10h ago
 
 ---
 
@@ -258,7 +272,7 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 13K • 👍 1K • 💬 199 • ⏱️ 13:31 • 6h ago
+👁️ 18K • 👍 2K • 💬 224 • ⏱️ 13:31 • 10h ago
 
 ---
 
@@ -268,17 +282,7 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 📺 Jake Call
 
-👁️ 525 • 👍 17 • 💬 4 • ⏱️ 10:22 • 5h ago
-
----
-
-**[Will ETH CRASH Lower Today? (Ethereum Update)](https://www.youtube.com/watch?v=OZ4pSW5swy0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 2K • 👍 28 • ⏱️ 4:26 • 14h ago
+👁️ 865 • 👍 22 • 💬 8 • ⏱️ 10:22 • 9h ago
 
 ---
 
@@ -286,7 +290,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 697 • 💬 42 • ⏱️ 2:04 • 1d ago
+👁️ 12K • 👍 707 • 💬 42 • ⏱️ 2:04 • 2d ago
+
+---
+
+**[CRASHING NOW Bitcoin to $60,000? Ethereum CRASHING $2 TRILLION Leaves CRYPTO!](https://www.youtube.com/watch?v=KG6CvTgTK2o)**
+
+CRASHING NOW Bitcoin to $60000? Ethereum CRASHING $2 TRILLION Leaves CRYPTO! iTrustCapital (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 410 • 💬 37 • ⏱️ 30:38 • 1d ago
 
 ---
 
@@ -296,7 +310,17 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 3K • 👍 264 • 💬 22 • ⏱️ 13:29 • 1d ago
+👁️ 3K • 👍 265 • 💬 22 • ⏱️ 13:29 • 1d ago
+
+---
+
+**[Will ETH CRASH Lower Today? (Ethereum Update)](https://www.youtube.com/watch?v=OZ4pSW5swy0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 2K • 👍 31 • ⏱️ 4:26 • 19h ago
 
 ---
 
@@ -306,27 +330,7 @@ ADA, ETH, XRP & BTC are at a critical turning point — and Vedic Astrology's Ro
 
 📺 Chariot Palmistry
 
-👁️ 5K • 👍 293 • 💬 52 • ⏱️ 4:32 • 19h ago
-
----
-
-**[BITCOIN CRASH IS OVER, for now... (explained)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=kdt9_YVvvWk)**
-
-BITCOIN CRASH IS OVER, for now... (explained)!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* https://bit.ly/WEEX1 ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 382 • 💬 154 • ⏱️ 24:41 • 19h ago
-
----
-
-**[ETH Breakdown Continues: Where Is The Bottom?](https://www.youtube.com/watch?v=xcfMQRnqK4w)**
-
-Ethereum remains under pressure after breaking down from a bearish flag pattern, and the broader Elliott Wave structure ...
-
-📺 More Crypto Online
-
-👁️ 11K • 👍 447 • 💬 40 • ⏱️ 9:27 • 2d ago
+👁️ 5K • 👍 303 • 💬 56 • ⏱️ 4:32 • 23h ago
 
 ---
 
