@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-06T19:53:58.959861+00:00'
+updated: '2026-06-06T21:05:52.281039+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 06, 2026 at 19:53 UTC  
+**Last Updated:** June 06, 2026 at 21:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[A company just sent me the most detailed rejection email I’ve ever received](https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -53,21 +53,13 @@ AI news, discussions, and developments
 
 I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
 
-3h ago
+4h ago
 
 ---
 
 **[I've been making AI short films for a while — here are some things I noticed that most people get wrong about AI video generation](https://www.reddit.com/r/artificial/comments/1typ7hj/ive_been_making_ai_short_films_for_a_while_here/)**
 
 Prompt length doesn't equal quality. Most people write paragraphs. Short, visual, specific prompts almost always win. Consistency is the real challenge. Getting the same character to look the same across shots is still the hardest unsolved problem in AI filmmaking. Audio kills or saves the whole thing. Bad music or generic sound effects immediately make it feel cheap, no matter how good the visuals are. People overthink the tools and underthink the story. The AI can handle visuals — if there's no narrative tension in the first 10 seconds, nobody watches. Iteration speed is the actual superpower. Treat it like editing — make 20 versions, pick the one that works. What tools are you all using for AI video right now?
-
-1h ago
-
----
-
-**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
-
-there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
 
 2h ago
 
@@ -77,7 +69,15 @@ there's a pattern i keep seeing in multi-model setups (karpathy's llm council, t
 
 Why does AI give me a yes with reasoning one month then a no with reasons another. With the same exact question?
 
-1h ago
+2h ago
+
+---
+
+**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
+
+there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
+
+3h ago
 
 ---
 
@@ -85,7 +85,7 @@ Why does AI give me a yes with reasoning one month then a no with reasons anothe
 
 I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
 
-33m ago
+1h ago
 
 ---
 
@@ -93,7 +93,7 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 Now I myself have not used AI a ton beyond making a funny picture or two on ChatGPT/Gemini and maybe asking it a few things on the fly if I need a second opinion on something - and sometimes it's been helpful. The biggest thing I hear from the "Fuck AI" crowd is that it ruins the creative circles like artists, authors, etc. because it copies their work. I sympathize with their hate, but I've heard an argument that it's not doing anything different than what we do when/if AI didn't play a role in anything: look at other people's work for inspiration then create something. Like we can't create a song in a vacuum, we need to learn and be exposed to music theory, notes, other styles of music, instruments, etc. So someone starting a band didn't make something brand new, it took pieces from other artists. And the part that makes me sing AIs praises, so to speak, is its use in the medical field. Doctor Mike posted a video about a year ago talking about this. Like, if it's improving healthcare to the point that it's detecting life threatening things to help doctors treat and cure us more effectively and efficiently, why are we trying to get rid of it? Maybe that's not what people are saying when they want AI gone or saying how 'awful' it is, but I just hope we don't end up throwing the baby out with the bathwater with AI because I genuinely think it's an astonishing thing that's clearly helpful in certain circles.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,13 +121,49 @@ Back in the 1980s a debate raged about whether it was okay to let children use c
 
 These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-The Washington Post • 3h ago
+The Washington Post • 5h ago
 
 ---
 
 **[Revenge of the AI bubble](https://www.axios.com/2026/06/06/ai-bubble-economy-growth)**
 
-Axios • 6h ago
+Axios • 8h ago
+
+---
+
+**[Universal Basic Capital: Why Both Trump And Bernie Sanders Want To Give Americans AI Equity](https://www.forbes.com/sites/alisondurkee/2026/06/06/could-americans-build-wealth-through-ai-why-trump-may-be-considering-equity-sharing-scheme/)**
+
+The policy has attracted support from both sides of the aisle on how to respond to AI, but economists still have concerns.
+
+Forbes • 10h ago
+
+---
+
+**[Former AI czar calls billl for government equity a 'stupidity tax' and warns against nationalization](https://fortune.com/2026/06/06/former-ai-czar-david-sacks-bernie-sanders-bill-government-equity-stupidity-tax-nationalization-trump-public-stakes/)**
+
+"Dario and Sam have begun to walk back their claims of massive job loss, but the damage to public trust is done, and now the chickens are coming home to roost."
+
+Fortune • 1h ago
+
+---
+
+**[Trump: U.S. stake in AI giants "could be a beautiful thing"](https://www.axios.com/2026/06/06/trump-us-stake-ai-companies)**
+
+Axios • 7h ago
+
+---
+
+**[Trump AI Policy Adviser Krishnan Is Giving Up White House Role](https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[White House AI policy adviser Krishnan to leave position](https://www.staradvertiser.com/2026/06/06/breaking-news/white-house-ai-policy-adviser-krishnan-to-leave-position/)**
+
+A top White House artificial intelligence policy advisor on Saturday said he will leave his position at the end of June, marking the exit of a leading figure helping craft policies for frontier technologies. “This journey has been the privilege of a lifetime,” the adviser, Sriram Krishnan, posted on social media platform X.
+
+Honolulu Star-Advertiser • 24m ago
 
 ---
 
@@ -135,57 +171,19 @@ Axios • 6h ago
 
 Sriram Krishnan, who has been central to the administration’s AI efforts, will probably continue to play an active role in its approach to the technology.
 
-The Washington Post • 12m ago
-
----
-
-**[White House AI policy adviser Krishnan to leave position](https://www.cnbc.com/2026/06/06/white-house-ai-policy-adviser-krishnan-to-leave-position.html)**
-
-Krishnan has been involved in Trump administration efforts to create a national framework for regulating AI developments.
-
-CNBC • 1h ago
-
----
-
-**[Trump AI Policy Adviser Krishnan Is Giving Up White House Role](https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role)**
-
-Bloomberg.com • 43m ago
-
----
-
-**[SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power](https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html)**
-
-The New York Times • 19h ago
-
----
-
-**[Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)**
-
-In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.
-
-TechCrunch • 1d ago
-
----
-
-**[Three Ways The SpaceX IPO Is Really About AI](https://www.forbes.com/sites/johnwerner/2026/06/06/three-ways-the-spacex-ipo-is-really-about-ai/)**
-
-SpaceX’s IPO reflects AI-driven market trends after xAI merger, Anthropic deal, and Cerebras success.
-
-Forbes • 43m ago
+The Washington Post • 1h ago
 
 ---
 
 **[A.I. Companies Don’t Know What to Do With Alex Bores](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
-**[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
+**[Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test](https://www.reuters.com/business/marvell-join-sp-500-after-ai-boom-helps-chipmaker-pass-profitability-test-2026-06-05/)**
 
-The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
-
-Fortune • 1d ago
+Reuters • 23h ago
 
 ---
 
@@ -197,7 +195,7 @@ Fortune • 1d ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 820 • 💬 784 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 821 • 💬 784 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -205,7 +203,7 @@ The percentage of failing grades in multiple UC Berkeley computer science classe
 
 Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
 
-⬆️ 531 • 💬 141 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 532 • 💬 141 • 2d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
 
 ---
 
@@ -213,7 +211,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 517 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 518 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -221,13 +219,13 @@ Our progress toward recursive self-improvement, and its implications.
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 416 • 💬 257 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 416 • 💬 258 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 278 • 💬 471 • 17h ago
+⬆️ 304 • 💬 530 • 18h ago
 
 ---
 
@@ -243,19 +241,19 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 259 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
-
----
-
-**[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
-
-⬆️ 179 • 💬 97 • 23h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 260 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 178 • 💬 80 • 10h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 185 • 💬 82 • 11h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+
+---
+
+**[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
+
+⬆️ 179 • 💬 98 • 1d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 
 ---
 
@@ -277,7 +275,7 @@ Make Hollywood Level AI Films using Higgsfield https://higgsfield.ai?fpr=ai&fp_s
 
 📺 Roboverse
 
-👁️ 7K • ⏱️ 10:38 • 3h ago
+👁️ 7K • ⏱️ 10:38 • 5h ago
 
 ---
 
@@ -287,7 +285,7 @@ You've probably heard that the artificial intelligence revolution is running out
 
 📺 The Infographics Show
 
-👁️ 88K • 👍 3K • 💬 767 • ⏱️ 19:55 • 4h ago
+👁️ 88K • 👍 3K • 💬 767 • ⏱️ 19:55 • 5h ago
 
 ---
 
@@ -307,7 +305,7 @@ Anthropic just published a major warning about AI self-improvement, and the numb
 
 📺 AI Revolution
 
-👁️ 48K • 👍 2K • 💬 245 • ⏱️ 17:13 • 20h ago
+👁️ 48K • 👍 2K • 💬 245 • ⏱️ 17:13 • 21h ago
 
 ---
 
@@ -327,7 +325,7 @@ These AI robots just crossed into territory that feels almost too real — and y
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 112 • 💬 7 • ⏱️ 59:14 • 16h ago
+👁️ 3K • 👍 112 • 💬 7 • ⏱️ 59:14 • 17h ago
 
 ---
 
@@ -337,7 +335,7 @@ These AI robots just crossed into territory that feels almost too real — and y
 
 📺 Money Degree
 
-👁️ 1K • 👍 103 • 💬 33 • ⏱️ 27:45 • 7h ago
+👁️ 1K • 👍 103 • 💬 33 • ⏱️ 27:45 • 9h ago
 
 ---
 
@@ -367,7 +365,7 @@ The artificial intelligence company's warns that we need to pause development be
 
 📺 ABC News
 
-👁️ 66K • 👍 1K • 💬 484 • ⏱️ 4:00 • 23h ago
+👁️ 66K • 👍 1K • 💬 484 • ⏱️ 4:00 • 1d ago
 
 ---
 
@@ -383,7 +381,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 111,078 • ❤️ 1,430 • 10d ago
+⬇️ 111,078 • ❤️ 1,443 • 10d ago
 
 ---
 
@@ -395,7 +393,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 315,131 • ❤️ 604 • 2d ago
+⬇️ 315,131 • ❤️ 610 • 2d ago
 
 ---
 
@@ -407,7 +405,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 458,174 • ❤️ 409 • 1d ago
+⬇️ 458,174 • ❤️ 414 • 1d ago
 
 ---
 
@@ -419,7 +417,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 84,549 • ❤️ 367 • 2d ago
+⬇️ 84,549 • ❤️ 371 • 2d ago
 
 ---
 
@@ -431,7 +429,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,771,843 • ❤️ 1,475 • 1mo ago
+⬇️ 2,771,843 • ❤️ 1,480 • 1mo ago
 
 ---
 
@@ -443,7 +441,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 161,627 • ❤️ 705 • 16d ago
+⬇️ 161,627 • ❤️ 709 • 16d ago
 
 ---
 
@@ -455,7 +453,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 2,818 • ❤️ 291 • 3d ago
+⬇️ 2,818 • ❤️ 299 • 3d ago
 
 ---
 
@@ -467,7 +465,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 95,440 • ❤️ 528 • 20h ago
+⬇️ 95,440 • ❤️ 530 • 21h ago
 
 ---
 
@@ -479,7 +477,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 16,395 • ❤️ 236 • 5d ago
+⬇️ 16,395 • ❤️ 237 • 5d ago
 
 ---
 
@@ -507,9 +505,21 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 13 • 💬 1 • ⭐ 80,717 • 4d ago
+▲ 13 • 💬 1 • ⭐ 80,717 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 86 • 💬 4 • ⭐ 83,447 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -521,21 +531,9 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 86 • 💬 1 • ⭐ 9,508 • 5d ago
+▲ 87 • 💬 1 • ⭐ 9,579 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 86 • 💬 4 • ⭐ 83,247 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -547,7 +545,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 221 • 💬 3 • ⭐ 5,105 • 15d ago
+▲ 221 • 💬 3 • ⭐ 5,172 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -579,20 +577,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://huggingface.co/papers/2606.05160)**
-
-*Tianyi Xie, Haotian Zhang, Jinhyung Park et al. (20 authors)*
-
-🏢 NVIDIA
-
-GRAIL generates diverse humanoid manipulation and locomotion data through 3D asset composition and video foundation models, enabling effective sim-to-real transfer for robot control.
-
-▲ 7 • 💬 1 • ⭐ 194 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.05160) • [💻 code](https://github.com/NVlabs/GRAIL) • [🔗 project](https://research.nvidia.com/labs/dair/grail/)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -603,6 +587,20 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 165 • 💬 2 • ⭐ 66,637 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://huggingface.co/papers/2606.05160)**
+
+*Tianyi Xie, Haotian Zhang, Jinhyung Park et al. (20 authors)*
+
+🏢 NVIDIA
+
+GRAIL generates diverse humanoid manipulation and locomotion data through 3D asset composition and video foundation models, enabling effective sim-to-real transfer for robot control.
+
+▲ 7 • 💬 1 • ⭐ 199 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.05160) • [💻 code](https://github.com/NVlabs/GRAIL) • [🔗 project](https://research.nvidia.com/labs/dair/grail/)
 
 ---
 
@@ -640,7 +638,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 58.3k • 🔱 7.0k • 4h ago
+⭐ 58.3k • 🔱 7.0k • 6h ago
 
 ---
 
@@ -698,7 +696,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 132 • 1d ago
+⭐ 1.8k • 🔱 132 • 2d ago
 
 ---
 
@@ -718,7 +716,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.7k • 🔱 128 • 10h ago
+⭐ 1.7k • 🔱 128 • 11h ago
 
 ---
 
@@ -728,7 +726,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.7k • 🔱 181 • 5h ago
+⭐ 1.7k • 🔱 181 • 6h ago
 
 ---
 

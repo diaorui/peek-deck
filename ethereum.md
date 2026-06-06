@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T19:53:58.974445+00:00'
+updated: '2026-06-06T21:05:52.295818+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 19:53 UTC  
+**Last Updated:** June 06, 2026 at 21:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,562.17
+### $1,557.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -22.5%  
-**30d:** -32.6%  
-**90d:** -22.0%  
-**1y:** -38.4%  
+**24h:** -2.4%  
+**7d:** -22.3%  
+**30d:** -32.4%  
+**90d:** -21.9%  
+**1y:** -38.3%  
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Small team working on a protocol and incorporated in Cayman because thats what made sense for the structure. On-chain treasury management works great but the second we need to do anything in fiat its a nightmare for paying auditors, legal, hosting, salaries etc. Anyone else running a Cayman or BVI crypto company and figured out the fiat banking side
 
-2d ago
+3d ago
 
 ---
 
@@ -148,39 +148,25 @@ Small team working on a protocol and incorporated in Cayman because thats what m
 
 ## Google News: "ethereum"
 
-**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
-
-BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
-
-Decrypt • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html)**
-
-Bitcoin opened at $63,812.18 on Friday, June 5, 2026, down 0.3% from Thursday's opening price. The value was $62,411.20 at 7:29 a.m ET. Ethereum opened at $1,768.86 on Friday, down 2.4% from Thursday's opening price. The value of ethereum was $1,676.27 at 7:29 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
 
 Barron's • 2d ago
 
 ---
 
-**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
+**[Tom Lee: 'Ethereum Is Like Amazon Stuck At $6, You're Bearish At The Bottom'](https://www.benzinga.com/crypto/cryptocurrency/26/06/53023799/tom-lee-ethereum-is-like-amazon-stuck-at-6-youre-bearish-at-the-bottom)**
 
-富途牛牛 • 19h ago
+Fundstrat founder Tom Lee told investors at a Paris conference Tuesday that Ethereum (CRYPTO: ETH) mirrors Amazon
+
+Benzinga • 1d ago
 
 ---
 
-**[Tom Lee is sitting on nearly $9B in losses as ethereum slides lower](https://finance.yahoo.com/video/tom-lee-sitting-nearly-9b-180000024.html)**
+**[Tom Lee’s BitMine Prices 9.5% Preferred Shares to Fund Ethereum Strategy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-prices-9-192900897.html)**
 
-Scott Melker discusses how Bitmine chairman Tom Lee is reportedly sitting on $9 billion in unrealized ethereum (ETH-USD) losses as the crypto asset has slid below $1,600. Lee currently owns 4.4% of all ethereum tokens. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+BitMine Immersion Technologies Inc. (NYSE: $BMNR) priced an upsized preferred stock offering as Tom Lee's Ether...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,13 +174,19 @@ Yahoo Finance • 1h ago
 
 Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
 
-Crowdfund Insider • 1d ago
+Crowdfund Insider • 2d ago
+
+---
+
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
+
+富途牛牛 • 21h ago
 
 ---
 
@@ -202,15 +194,23 @@ Crowdfund Insider • 1d ago
 
 Ethereum investors are on high alert after a wallet linked to Ethereum co-founder Joseph Lubin suddenly moved more than $121 million worth of ETH
 
-Coinpedia • 12h ago
+Coinpedia • 14h ago
 
 ---
 
-**[Ethereum Price Downtrend May Not Be Over—Sub-$1,700 Levels Loom](https://www.tradingview.com/news/newsbtc:85135a550094b:0-ethereum-price-downtrend-may-not-be-over-sub-1-700-levels-loom/)**
+**[Russia Central Bank To Limit Retail Crypto Investors To Bitcoin, Ethereum, & USDT](https://www.tradingview.com/news/coinpedia:437f1011e094b:0-russia-central-bank-to-limit-retail-crypto-investors-to-bitcoin-ethereum-usdt/)**
 
-Ethereum price started a fresh decline and traded below $1,750. ETH is now consolidating below $1,750 and might continue to move down.Ethereum Price Remains In DowntrendEthereum price failed to remain stable above $1,840 and started a fresh decline, like Bitcoin. ETH price dipped below the $1,800 a…
+Bitcoin, Ethereum, and USDT could soon become the only cryptocurrencies available to most retail investors in Russia. The country’s central bank is backing a new framework that would restrict non-qualified investors access to other digital assets, which will come into effect by next year.So buying…
 
-TradingView • 1d ago
+TradingView • 14h ago
+
+---
+
+**[Ethereum Price Prediction: Will ETH Dump Toward $1K Next?](https://cryptopotato.com/ethereum-price-prediction-will-eth-dump-toward-1k-next/)**
+
+Ethereum has entered a decisive bearish phase after losing multiple high-timeframe support levels in a matter of days. The latest sell-off pushed ETH
+
+CryptoPotato • 4h ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 10K • 👍 610 • 💬 77 • ⏱️ 21:26 • 3h ago
+👁️ 10K • 👍 610 • 💬 77 • ⏱️ 21:26 • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 142 • 💬 28 • ⏱️ 14:13 • 8h ago
+👁️ 4K • 👍 142 • 💬 28 • ⏱️ 14:13 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 353 • 💬 53 • ⏱️ 21:23 • 5h ago
+👁️ 6K • 👍 353 • 💬 53 • ⏱️ 21:23 • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 379 • 💬 19 • ⏱️ 8:30 • 20h ago
+👁️ 8K • 👍 379 • 💬 19 • ⏱️ 8:30 • 21h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 13K • 👍 508 • 💬 205 • ⏱️ 21:38 • 17h ago
+👁️ 13K • 👍 508 • 💬 205 • ⏱️ 21:38 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T19:53:58.977658+00:00'
+updated: '2026-06-06T21:05:52.299015+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 19:53 UTC  
+**Last Updated:** June 06, 2026 at 21:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
 
-5h ago
+6h ago
 
 ---
 
@@ -64,15 +64,7 @@ Sorry for the slow pace of the video, but I figured that seeing each visualizer 
 
 Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
 
-3h ago
-
----
-
-**[I built Small Robot Arms from Scratch](https://www.reddit.com/r/robotics/comments/1tyn4yy/i_built_small_robot_arms_from_scratch/)**
-
-I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
-
-🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 2h ago
+4h ago
 
 ---
 
@@ -80,13 +72,21 @@ I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll pro
 
 The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
 
-4h ago
+5h ago
+
+---
+
+**[I built Small Robot Arms from Scratch](https://www.reddit.com/r/robotics/comments/1tyn4yy/i_built_small_robot_arms_from_scratch/)**
+
+I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
+
+🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 3h ago
 
 ---
 
 **[Help: Robotics Project Ideas for Teenangers](https://www.reddit.com/r/robotics/comments/1tyh439/help_robotics_project_ideas_for_teenangers/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-o
 
 Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
 
-16h ago
+17h ago
 
 ---
 
@@ -116,9 +116,9 @@ About Amazon • 2d ago
 
 ---
 
-**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
-Reuters • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -130,12 +130,6 @@ NPR • 1d ago
 
 ---
 
-**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
 
 Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
@@ -144,19 +138,17 @@ Shore Daily News • 1d ago
 
 ---
 
+**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
+
+Reuters • 1d ago
+
+---
+
 **[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
 
 Ars Technica • 1d ago
-
----
-
-**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-051530964.html)**
-
-Nvidia CEO Jensen Huang on Friday said robotics will be South Korea's next major sector, as he arrived for his second visit in seven months, ‌underscoring deepening ties with local firms in not only chips but also robotics and AI factories.  "Because Korea is ‌a manufacturing centre of the world, we can apply the robotics technology, the physical AI technology that we invent here for the industry," he told ​reporters after landing at Gimpo International Airport on a flight from Taiwan.  South Korea is a key Asian manufacturing powerhouse - home to major manufacturers of chips, electronics, cars and ships.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -184,6 +176,14 @@ BBC • 2d ago
 
 ---
 
+**[Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)**
+
+Most underwater robots lose contact with the surface the moment they descend. But a new antenna technology, borrowed from the physics of medical implants, is rethinking how submarine machines talk to each other – and to us.
+
+New Atlas • 7h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +194,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 28K • 👍 936 • 💬 870 • ⏱️ 2:17 • 4h ago
+👁️ 28K • 👍 936 • 💬 870 • ⏱️ 2:17 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Meet NEXi – my fully autonomous AI robot ✨ After months of development, codi
 
 📺 HD Robotics
 
-👁️ 301 • 👍 3 • ⏱️ 1:10 • 2h ago
+👁️ 301 • 👍 3 • ⏱️ 1:10 • 3h ago
 
 ---
 
@@ -282,7 +282,7 @@ Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #r
 
 📺 EAZYTRONIC
 
-👁️ 8K • 👍 102 • ⏱️ 0:27 • 10h ago
+👁️ 8K • 👍 102 • ⏱️ 0:27 • 11h ago
 
 ---
 
