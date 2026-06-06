@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T04:37:05.702482+00:00'
+updated: '2026-06-06T07:46:24.881767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 04:37 UTC  
+**Last Updated:** June 06, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,41 +36,13 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-8h ago
+11h ago
 
 ---
 
 **[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
 
-21h ago
-
----
-
-**[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
-
-14h ago
-
----
-
-**[How do you use or trust physical AI / robotics benchmarks in practice?](https://www.reddit.com/r/robotics/comments/1ty2zea/how_do_you_use_or_trust_physical_ai_robotics/)**
-
-Hi all, I’m trying to understand how people working with physical AI, embodied AI, robotics, or VLA models think about benchmarks in practice. This is not a product promotion or a request for upvotes. I’m looking for practical perspectives from people who run, read, or rely on benchmark results. A few questions: - Which benchmarks do you actually pay attention to? - Do benchmark scores influence model, policy, or framework choices, or are they mostly sanity checks? - What makes a benchmark result credible to you? - How much do you trust simulated task results compared with real-robot or hardware-in-the-loop results? - What are the biggest red flags when you see a physical AI benchmark claim? I’m especially interested in how people separate useful evidence from leaderboard noise, overfitting, cherry-picked demos, or unclear evaluation protocols. If this is too broad for this subreddit, I’m happy to narrow the question.
-
-3h ago
-
----
-
-**[reality vs lidar](https://www.reddit.com/r/robotics/comments/1ty52hw/reality_vs_lidar/)**
-
-1h ago
-
----
-
-**[Omni-dorectional pure pursuit with feed forward upgrade](https://www.reddit.com/r/robotics/comments/1txqs3i/omnidorectional_pure_pursuit_with_feed_forward/)**
-
-In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
-
-11h ago
+1d ago
 
 ---
 
@@ -78,27 +50,55 @@ In my previous post was a little showcase of my implementation of the pure pursu
 
 Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
 
-46m ago
+3h ago
+
+---
+
+**[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
+
+17h ago
+
+---
+
+**[reality vs lidar](https://www.reddit.com/r/robotics/comments/1ty52hw/reality_vs_lidar/)**
+
+5h ago
+
+---
+
+**[How do you use or trust physical AI / robotics benchmarks in practice?](https://www.reddit.com/r/robotics/comments/1ty2zea/how_do_you_use_or_trust_physical_ai_robotics/)**
+
+Hi all, I’m trying to understand how people working with physical AI, embodied AI, robotics, or VLA models think about benchmarks in practice. This is not a product promotion or a request for upvotes. I’m looking for practical perspectives from people who run, read, or rely on benchmark results. A few questions: - Which benchmarks do you actually pay attention to? - Do benchmark scores influence model, policy, or framework choices, or are they mostly sanity checks? - What makes a benchmark result credible to you? - How much do you trust simulated task results compared with real-robot or hardware-in-the-loop results? - What are the biggest red flags when you see a physical AI benchmark claim? I’m especially interested in how people separate useful evidence from leaderboard noise, overfitting, cherry-picked demos, or unclear evaluation protocols. If this is too broad for this subreddit, I’m happy to narrow the question.
+
+6h ago
+
+---
+
+**[Omni-dorectional pure pursuit with feed forward upgrade](https://www.reddit.com/r/robotics/comments/1txqs3i/omnidorectional_pure_pursuit_with_feed_forward/)**
+
+In my previous post was a little showcase of my implementation of the pure pursuit path tracking algorithm for omni-directional robots. One of the missing features is the safe curve approaching. The robot doesn't know the upcoming curve and it won't slow down (enough, at least in the previous implementation). Now I added the feed-forward lookahead that will calculate the slowdown cost based on the total sum of the angle differences of every three pose points in a small set of lookahead points. And the slowdown cost then plugged into the e^-x function and used it to scale the maximum velocity. Now it seems that the robot approaches the curve more smoothly. Additional stuff still needs to be added such as the acceleration limit and the better last pose point brake. If you are interested, you can check it out here over GitHub : https://github.com/E12-CO/iRob_bot_ros2
+
+14h ago
 
 ---
 
 **[Similar issue different model (Seeed studio Servo bus board xiao v1) with Sts 3215 (I know its supposed to go into ask robotics but initial post was from here)](https://www.reddit.com/r/robotics/comments/1ty4s8j/similar_issue_different_model_seeed_studio_servo/)**
 
-2h ago
+5h ago
 
 ---
 
 **[The calibration of the laser offset for object pointing is really difficult. i will now try Measure your actual camera FOV: Set servo to Pan=90° (center) Hold a ruler at a known distance (e.g., 100 cm) See how many centimeters wide the image area is FOV = 2 × atan(width/2 / distance) × 180/π](https://www.reddit.com/r/robotics/comments/1ty4mbn/the_calibration_of_the_laser_offset_for_object/)**
 
-2h ago
+5h ago
 
 ---
 
 **[I'm looking to join/form a team working on physical AI robotics challenge](https://www.reddit.com/r/robotics/comments/1txmrm4/im_looking_to_joinform_a_team_working_on_physical/)**
 
-Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this?
+Hey all, I'm a robotics engineer by training turned ML/AI engineer because of passion right after school. I want to start combining these skills together and I think a competition is the best way of doing it. Here's an example of a challenge I'm talking about to set expectations : https://www.intrinsic.ai/events/ai-for-industry-challenge Anyone up for this? L.E.1. I'm based in Europe. I think online only competitions would be easiest to start with to get momentum going, then if the results are worth it, we can consider meeting in person if it makes sense. L.E.2. I don't have the next challenge in mind yet, I'm open to suggestions.
 
-14h ago
+17h ago
 
 ---
 
@@ -106,23 +106,15 @@ Hey all, I'm a robotics engineer by training turned ML/AI engineer because of pa
 
 ## Google News: "robotics"
 
-**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
-
-Reuters • 20h ago
-
----
-
 **[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Scientists in 'autonomous laboratories' are starting to outsource work to robots](https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks)**
+**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
 
-Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
-
-NPR • 19h ago
+Reuters • 23h ago
 
 ---
 
@@ -130,7 +122,15 @@ NPR • 19h ago
 
 "Our experience of robots is that it's actually driven up employment rather than the reverse," Amazon executive John Boumphrey told CNBC.
 
-CNBC • 14h ago
+CNBC • 17h ago
+
+---
+
+**[Scientists in 'autonomous laboratories' are starting to outsource work to robots](https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks)**
+
+Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
+
+NPR • 22h ago
 
 ---
 
@@ -138,7 +138,7 @@ CNBC • 14h ago
 
 Nvidia ‌CEO Jensen Huang ‌said on Friday that he ​sees robotics as the next major sector in South Korea. He was ‌talking ⁠to reporters after arriving at Gimpo ⁠airport in South Korea on a flight ​from Taiwan. Huang ​said ​he had ‌meetings scheduled with Hyundai, LG, SK, Samsung and Naver during his trip.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -150,22 +150,6 @@ Ars Technica • 1d ago
 
 ---
 
-**[Spelman announces robotics, AI expert as college’s next president](https://www.ajc.com/education/2026/06/spelman-announces-robotics-ai-expert-as-colleges-next-president/)**
-
-Spelman College announces engineering educator Ayanna Howard will be the next president of the all-female Atlanta HBCU.
-
-AJC.com • 14h ago
-
----
-
-**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
-
-Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
-
-About Amazon • 1d ago
-
----
-
 **[Congress Introduces GUARD Act, Extending FCC Covered List Framework to Robotics](https://dronelife.com/2026/06/04/congress-introduces-guard-act-extending-fcc-covered-list-framework-to-robotics/)**
 
 Proposal would require national security reviews of certain foreign-made robots, extending the FCC Covered List framework beyond drones.
@@ -174,11 +158,25 @@ Dronelife • 1d ago
 
 ---
 
-**[Shifters: Robots on the frontline](https://www.jpost.com/defense-and-tech/article-898434)**
+**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
-Shifters’ platform is built around supervised autonomy, where robotic teams can operate in complex environments while remaining under human oversight.
+South China Morning Post • 1d ago
 
-The Jerusalem Post • 1d ago
+---
+
+**[NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI](https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/)**
+
+New physical AI agent skills, powered by NVIDIA Cosmos 3, help researchers accelerate data generation, simulation, policy training and evaluation for autonomous system development.
+
+NVIDIA Blog • 2d ago
+
+---
+
+**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
+
+Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
+
+Shore Daily News • 22h ago
 
 ---
 
@@ -192,17 +190,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 14K • 👍 443 • 💬 46 • ⏱️ 15:31 • 1d ago
-
----
-
-**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
-
-In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
-
-📺 Munro Live
-
-👁️ 3K • 👍 195 • 💬 23 • ⏱️ 6:04 • 9h ago
+👁️ 15K • 👍 446 • 💬 47 • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -212,7 +200,27 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 2.4M • 👍 44K • 💬 5K • ⏱️ 6:01 • 3d ago
+👁️ 2.5M • 👍 45K • 💬 5K • ⏱️ 6:01 • 3d ago
+
+---
+
+**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
+
+In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
+
+📺 Munro Live
+
+👁️ 4K • 👍 216 • 💬 25 • ⏱️ 6:04 • 12h ago
+
+---
+
+**[Unitree&#39;s Dancing Robots STUN America&#39;s Got Talent!](https://www.youtube.com/watch?v=zZKIKz0RsHY)**
+
+Unitree amazed the audience on America's Got Talent with an incredible robot dance performance alongside a 26-year-old ...
+
+📺 The Construct Robotics Institute
+
+👁️ 8K • 👍 284 • 💬 38 • ⏱️ 5:12 • 14h ago
 
 ---
 
@@ -222,27 +230,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 718K • 👍 11K • 💬 844 • ⏱️ 5:01 • 3d ago
-
----
-
-**[Sorry but Ultimate LEO is just not that good... War Robots](https://www.youtube.com/watch?v=qcNQOQQwy8s)**
-
-War Robots Gameplay: Ultimate LEO - that I don't think is very good. My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 427 • 💬 90 • ⏱️ 13:59 • 1d ago
-
----
-
-**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
-
-Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 347 • 💬 77 • ⏱️ 15:22 • 16h ago
+👁️ 759K • 👍 12K • 💬 870 • ⏱️ 5:01 • 3d ago
 
 ---
 
@@ -252,35 +240,47 @@ Open Bionics built a bionic hand that detaches and keeps moving on its own. Afte
 
 📺 AzlanX
 
-👁️ 7K • 💬 4 • ⏱️ 0:34 • 8h ago
+👁️ 10K • 💬 5 • ⏱️ 0:34 • 11h ago
 
 ---
 
-**[TRICKS &amp; FLIPS!! Doggy Robots Showing Off!! #robotics #humanoid #robot #ai #robotmaxxing](https://www.youtube.com/watch?v=oDxUUvubNlA)**
+**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
 
-📺 6PACKB450
+Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
 
-👁️ 637 • 👍 6 • ⏱️ 0:43 • 2h ago
+📺 PREDATOR WR
 
----
-
-**[Override | Worlds Reveal | VEX Robotics Competition World Championship 2026](https://www.youtube.com/watch?v=lCFVuyHgmmc)**
-
-ORDER HERE: https://vex.com/VEXgames26-27yt SUBSCRIBE: https://vex.com/YouTube ...
-
-📺 VEX Robotics
-
-👁️ 4K • 👍 50 • 💬 10 • ⏱️ 12:31 • 8h ago
+👁️ 10K • 👍 372 • 💬 82 • ⏱️ 15:22 • 19h ago
 
 ---
 
-**[Tesla&#39;s $25,000 Robot Is Replacing Workers | Optimus Is Here](https://www.youtube.com/watch?v=5p5_dj0Hb-k)**
+**[Sorry but Ultimate LEO is just not that good... War Robots](https://www.youtube.com/watch?v=qcNQOQQwy8s)**
 
-The full story of Tesla Optimus. Tesla's most ambitious bet ever, the chip behind it all, and the surprising state of the humanoid ...
+War Robots Gameplay: Ultimate LEO - that I don't think is very good. My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Ryan Shaw
+📺 Manni-Gaming
 
-👁️ 135K • 👍 4K • 💬 585 • ⏱️ 29:20 • 6d ago
+👁️ 8K • 👍 433 • 💬 92 • ⏱️ 13:59 • 1d ago
+
+---
+
+**[The iPhone Moment for Robots Just Happened](https://www.youtube.com/watch?v=ELkTfPuVI5Y)**
+
+Matic, the AI Vacuum that actually survived our house: https://maticrobots.com/product?utm_term=FRIEND-FARZADMESBAHI ...
+
+📺 Farzad
+
+👁️ 178K • 👍 7K • 💬 731 • ⏱️ 23:36 • 4d ago
+
+---
+
+**[This 3D-printed robot is invisible to the naked eye 👀 #trendingshorts #technology #robot #future](https://www.youtube.com/watch?v=Rw-EcOj4rlw)**
+
+Researchers at Leiden University 3D-printed a microrobot just five micrometers long that moves like a living worm despite having ...
+
+📺 Rowan Cheung
+
+👁️ 99K • 👍 3K • 💬 71 • ⏱️ 1:06 • 2d ago
 
 ---
 
