@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T07:46:24.878464+00:00'
+updated: '2026-06-06T10:06:07.554911+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 07:46 UTC  
+**Last Updated:** June 06, 2026 at 10:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** -21.4%  
-**30d:** -31.7%  
-**90d:** -20.9%  
-**1y:** -37.6%  
+**24h:** -6.3%  
+**7d:** -22.3%  
+**30d:** -32.4%  
+**90d:** -21.8%  
+**1y:** -38.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $190.09B
+**Market Cap:** $188.49B
 Rank #2
 
 **Circulating Supply:** 120,684,554 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.1%
+-68.5%
 
 **All-Time Low:** $0.43
-+363820.7%
++360268.5%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+5h ago
+
+---
+
+**[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
+
+42m ago
 
 ---
 
@@ -88,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated financial infrastructure ever built, and i still have to convert everything to fiat just to buy groceries. The DeFi side is incredible. Lending, borrowing, yield all of it works seamlessly but the moment you want to actually spend your stablecoins in real life you're back to exchanges, fees and waiting for bank transfers. Everything works perfectly until you want to spend it somewhere normal
 
-18h ago
+20h ago
 
 ---
 
@@ -96,7 +102,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 1d ago
 
 ---
 
@@ -108,19 +114,19 @@ Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glams
 
 ---
 
-**[Daily General Discussion June 04, 2026](https://www.reddit.com/r/ethereum/comments/1twdqlo/daily_general_discussion_june_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 **[Remember revert.wtf. I made a browser extension for it.](https://www.reddit.com/r/ethereum/comments/1tx4jhl/remember_revertwtf_i_made_a_browser_extension_for/)**
 
 Hello once again guys. A week or so ago, I posted about https://revert.wtf. A thing, basically a catalog of common EVM errors that covers about 25k error types. And I decided to dogfood my own product, and made a browser extension. I already submitted it for review on Chrome Web Store, but if you would like to give it a try, you can get it from my github here. https://github.com/mrtdlgc/revertwtf-extension And this is my main announcement post on Twitter. It has some screenshots there on how it looks. https://x.com/mrtdlgc/status/2062657866717118561 Feedback welcome. I added a "this explanation is too generic" button, so you can rotate through what revert.wtf actually covers. If you still see too generic explanations, feel free to submit them on Github, and I can find better grounded explanations and next steps to take for other people to use in the future as well.
 
 1d ago
+
+---
+
+**[Daily General Discussion June 04, 2026](https://www.reddit.com/r/ethereum/comments/1twdqlo/daily_general_discussion_june_04_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
 
 ---
 
@@ -140,14 +146,6 @@ Small team working on a protocol and incorporated in Cayman because thats what m
 
 ---
 
-**[Lighter actually able to compete with Hyperliquid?](https://www.reddit.com/r/ethereum/comments/1tvw9uu/lighter_actually_able_to_compete_with_hyperliquid/)**
-
-What are everyone's thoughts on this? I actually haven't heard of this until a few months ago, but saw that Vitalik did a fireside chat with the dev team a few weeks back. Didn't buy it then, but saw lots of positive sentiment around it on X, including the David guy from Bankless. Platform: Just tried the platform now to buy the LIT asset, but wondering what people think of both the platform and the asset? I'm not the target audience since I don't trade, but the fundamental thesis I guess is that it might be the backbone for institutional perp platforms? Apparently it had a deal with Telegram to trade within the app (I dont use telegram so not sure if this is a big deal) There are rumors that Robinhood might integrate them into their perp offering soon. Potential tailwinds if Clarity Act passes, but I think that would be good for all tokens not just LIT or HYPE Token: This is where I'm a huge noob. I have only owned BTC and ETH for multiple cycles so I do not understand the tokenomics of these new tokens. Apparently, LIT and HYPE both use their fee revenue to buy back tokens, which is deflationary. But for both, they have a vesting schedule where early devs might sell in bulk. For LIT, it looks like December is the cliff. Any thoughts on this is a good investment, and for short or long term?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +160,7 @@ Barron's • 1d ago
 
 BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
-Decrypt • 13h ago
+Decrypt • 16h ago
 
 ---
 
@@ -190,7 +188,7 @@ CoinDesk • 1d ago
 
 **[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-富途牛牛 • 7h ago
+富途牛牛 • 10h ago
 
 ---
 
@@ -198,7 +196,7 @@ CoinDesk • 1d ago
 
 Ethereum is once again staring at a familiar crypto nightmare: leveraged positions stacked on top of each other while price action starts to crack.
 
-Coinpedia • 14h ago
+Coinpedia • 17h ago
 
 ---
 
@@ -206,7 +204,7 @@ Coinpedia • 14h ago
 
 Ethereum price (ETHUSD) dropped by about 10% in 24 hours to $1,598.17, underperforming Bitcoin's 3.92% drop, primarily driven by a cascade
 
-MarketForces Africa • 13h ago
+MarketForces Africa • 16h ago
 
 ---
 
@@ -214,7 +212,7 @@ MarketForces Africa • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 20h ago
 
 ---
 
@@ -236,17 +234,7 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 270 • 💬 13 • ⏱️ 8:30 • 7h ago
-
----
-
-**[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
-
-BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 353 • 💬 32 • ⏱️ 21:38 • 5h ago
+👁️ 6K • 👍 316 • 💬 16 • ⏱️ 8:30 • 10h ago
 
 ---
 
@@ -256,7 +244,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 924 • 👍 19 • 💬 1 • ⏱️ 5:45 • 13h ago
+👁️ 1K • 👍 20 • 💬 3 • ⏱️ 5:45 • 15h ago
 
 ---
 
@@ -266,7 +254,17 @@ Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX
 
 📺 Lark Davis
 
-👁️ 26K • 👍 1K • 💬 258 • ⏱️ 20:00 • 20h ago
+👁️ 26K • 👍 1K • 💬 260 • ⏱️ 20:00 • 22h ago
+
+---
+
+**[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
+
+BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 411 • 💬 82 • ⏱️ 21:38 • 7h ago
 
 ---
 
@@ -276,7 +274,7 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 20K • 👍 2K • 💬 239 • ⏱️ 13:31 • 13h ago
+👁️ 21K • 👍 2K • 💬 248 • ⏱️ 13:31 • 16h ago
 
 ---
 
@@ -286,7 +284,7 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 📺 Jake Call
 
-👁️ 1K • 👍 24 • 💬 10 • ⏱️ 10:22 • 12h ago
+👁️ 1K • 👍 27 • 💬 10 • ⏱️ 10:22 • 15h ago
 
 ---
 
@@ -294,17 +292,7 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 713 • 💬 42 • ⏱️ 2:04 • 2d ago
-
----
-
-**[Will ETH CRASH Lower Today? (Ethereum Update)](https://www.youtube.com/watch?v=OZ4pSW5swy0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 2K • 👍 31 • ⏱️ 4:26 • 22h ago
+👁️ 12K • 👍 716 • 💬 42 • ⏱️ 2:04 • 2d ago
 
 ---
 
@@ -314,7 +302,17 @@ ADA, ETH, XRP & BTC are at a critical turning point — and Vedic Astrology's Ro
 
 📺 Chariot Palmistry
 
-👁️ 5K • 👍 309 • 💬 59 • ⏱️ 4:32 • 1d ago
+👁️ 5K • 👍 311 • 💬 59 • ⏱️ 4:32 • 1d ago
+
+---
+
+**[Will ETH CRASH Lower Today? (Ethereum Update)](https://www.youtube.com/watch?v=OZ4pSW5swy0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 2K • 👍 31 • ⏱️ 4:26 • 1d ago
 
 ---
 

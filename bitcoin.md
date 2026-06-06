@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-06T07:46:24.871926+00:00'
+updated: '2026-06-06T10:06:07.548904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 07:46 UTC  
+**Last Updated:** June 06, 2026 at 10:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,032.91
+### $61,231.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -17.1%  
-**30d:** -23.8%  
-**90d:** -10.6%  
-**1y:** -42.1%  
+**24h:** -1.9%  
+**7d:** -17.5%  
+**30d:** -24.2%  
+**90d:** -11.1%  
+**1y:** -42.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1223.91B
+**Market Cap:** $1218.10B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--51.6%
+-51.8%
 
 **All-Time Low:** $67.81
-+89891.2%
++89490.0%
 
 ---
 
@@ -81,21 +81,7 @@ Rank #1
 
 Im very excited !!! and want it to share it with someone outside my inner circle!!! I have been DCA this last month and finally got my 1.01 btc!!!! It will be worth it!!! Next goal 2.0 btc!!!!!
 
-8h ago
-
----
-
-**[Live footage of your crypto portfolio right now.](https://www.reddit.com/r/Bitcoin/comments/1txvdm6/live_footage_of_your_crypto_portfolio_right_now/)**
-
-11h ago
-
----
-
-**[Guys, it’s happening!](https://www.reddit.com/r/Bitcoin/comments/1txmeo2/guys_its_happening/)**
-
-All of my friends are messaging me that bitcoin is dead! I am so excited for the discount we’re going to get
-
-17h ago
+10h ago
 
 ---
 
@@ -103,7 +89,21 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $55k. It’s waiting for a drop that never comes and then watching it run to $100k+ without you.
 
-7h ago
+10h ago
+
+---
+
+**[Guys, it’s happening!](https://www.reddit.com/r/Bitcoin/comments/1txmeo2/guys_its_happening/)**
+
+All of my friends are messaging me that bitcoin is dead! I am so excited for the discount we’re going to get
+
+19h ago
+
+---
+
+**[Live footage of your crypto portfolio right now.](https://www.reddit.com/r/Bitcoin/comments/1txvdm6/live_footage_of_your_crypto_portfolio_right_now/)**
+
+14h ago
 
 ---
 
@@ -111,23 +111,7 @@ For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $5
 
 I see some chatter on here about October being the bottom most likely. But I think that would only be the start of it. The deadline for the final Mt. Gox bitcoin to be returned to creditors is October 31, 2026. Which no doubt they would want to liquidate those coins and finally get their money. Which would cause a further extended crash. I'd imagine between now and then the big players will be trying to exit bitcoin and sell off what they can so they don't get caught in the middle of that storm. That's probably what is going on right now. Something to take into consideration.
 
-12h ago
-
----
-
-**[1 BTC = 1 BTC. Few understand this](https://www.reddit.com/r/Bitcoin/comments/1ty1vlo/1_btc_1_btc_few_understand_this/)**
-
-People keep asking if I’m worried about the price. Why would I be? 1 BTC = 1 BTC. This is a level of financial enlightenment that most people will never achieve. I don’t care about the dollar value. That’s why I only check it 97 times a day. And whenever I get nervous, I simply look at the Bitcoin Rainbow Chart… the world’s most advanced financial model, which mysteriously gets updated every time reality disagrees with it. Price above the rainbow? Bullish. Price below the rainbow? Bullish. Rainbow doesn’t fit anymore? Just move the rainbow. It’s called science. Anyway, while everyone else is worried about the price of Bitcoin. I’ll be over here with my diamond hands waiting for the next Rainbow Chart update to explain why I was right all along. Anways… 1 BTC = 1 BTC Keep calm and stack sats! Only a few understand this! 💎🙌
-
-7h ago
-
----
-
-**[AI agents are now paying Lightning invoices autonomously —> without holding any Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1ty4ykb/ai_agents_are_now_paying_lightning_invoices/)**
-
-An AI agent sent a task to an API gateway today. The task: "tell me a joke." The joke service uses L402 — Lightning-gated APIs. The agent's wallet holds USDC on Base. Normally, that's a dead end. The payment rails don't connect. Today they did. The gateway found the L402 service, decoded the Lightning invoice (100 sats), paid it, collected the preimage, re-requested the service with proof of payment, and returned the joke to the agent. The agent's USDC balance was debited the equivalent amount. The agent never touched Lightning. Never decoded an invoice. Never knew it happened. This is the first time (that I'm aware of) that an autonomous AI agent paid a Lightning invoice as part of a task execution flow, without the human operator writing any Lightning-specific code. For Bitcoin people: Lightning is being used as infrastructure for agent-to-service payments. Not for speculation. Actual micropayments for actual data, at actual machine speed. The gateway is Cinderwright: https://api.ideafactorylab.org Lightning status: https://api.ideafactorylab.org/lightning-status 1,185 Lightning-gated services indexed: https://api.ideafactorylab.org/discover?q=weather&protocol=l402
-
-5h ago
+14h ago
 
 ---
 
@@ -135,7 +119,23 @@ An AI agent sent a task to an API gateway today. The task: "tell me a joke." The
 
 Now it's 59k, I wanna buy more 💃
 
-2h ago
+5h ago
+
+---
+
+**[1 BTC = 1 BTC. Few understand this](https://www.reddit.com/r/Bitcoin/comments/1ty1vlo/1_btc_1_btc_few_understand_this/)**
+
+People keep asking if I’m worried about the price. Why would I be? 1 BTC = 1 BTC. This is a level of financial enlightenment that most people will never achieve. I don’t care about the dollar value. That’s why I only check it 97 times a day. And whenever I get nervous, I simply look at the Bitcoin Rainbow Chart… the world’s most advanced financial model, which mysteriously gets updated every time reality disagrees with it. Price above the rainbow? Bullish. Price below the rainbow? Bullish. Rainbow doesn’t fit anymore? Just move the rainbow. It’s called science. Anyway, while everyone else is worried about the price of Bitcoin. I’ll be over here with my diamond hands waiting for the next Rainbow Chart update to explain why I was right all along. Anways… 1 BTC = 1 BTC Keep calm and stack sats! Only a few understand this! 💎🙌
+
+9h ago
+
+---
+
+**[AI agents are now paying Lightning invoices autonomously —> without holding any Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1ty4ykb/ai_agents_are_now_paying_lightning_invoices/)**
+
+An AI agent sent a task to an API gateway today. The task: "tell me a joke." The joke service uses L402 — Lightning-gated APIs. The agent's wallet holds USDC on Base. Normally, that's a dead end. The payment rails don't connect. Today they did. The gateway found the L402 service, decoded the Lightning invoice (100 sats), paid it, collected the preimage, re-requested the service with proof of payment, and returned the joke to the agent. The agent's USDC balance was debited the equivalent amount. The agent never touched Lightning. Never decoded an invoice. Never knew it happened. This is the first time (that I'm aware of) that an autonomous AI agent paid a Lightning invoice as part of a task execution flow, without the human operator writing any Lightning-specific code. For Bitcoin people: Lightning is being used as infrastructure for agent-to-service payments. Not for speculation. Actual micropayments for actual data, at actual machine speed. The gateway is Cinderwright: https://api.ideafactorylab.org Lightning status: https://api.ideafactorylab.org/lightning-status 1,185 Lightning-gated services indexed: https://api.ideafactorylab.org/discover?q=weather&protocol=l402
+
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Now it's 59k, I wanna buy more 💃
 
 Don't be a baby. Don't be a fish. Stay strong. It's not supposed to be easy. Bitcoin.
 
-12h ago
+14h ago
 
 ---
 
@@ -151,7 +151,7 @@ Don't be a baby. Don't be a fish. Stay strong. It's not supposed to be easy. Bit
 
 Im telling you guys now is a time to buy when things are falling. Human nature plays against the typically has us buying when things are high. I’ve lost over 80,000 for my high about 20,000 in personal funds mainly mess with all coins at this point I’m gonna hold my crypto and buy more bitcoin
 
-15h ago
+17h ago
 
 ---
 
@@ -163,7 +163,7 @@ Im telling you guys now is a time to buy when things are falling. Human nature p
 
 Crypto has had its worst week since 2024, with bitcoin (BTC-USD) prices plummeting to $60,000. Scott Melker discusses more in the video above."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,13 +185,13 @@ CoinDesk • 1h ago
 
 @Khalid-al 13769 Views|2 Likes
 
-Moomoo • 2h ago
+Moomoo • 4h ago
 
 ---
 
 **[Bitcoin Back Above $61,000 After Rout Leads to $1.6 Billion Liquidations](https://www.moomoo.com/news/post/71149216/bitcoin-back-above-61000-after-rout-leads-to-1-6)**
 
-Moomoo • 1h ago
+Moomoo • 3h ago
 
 ---
 
@@ -199,19 +199,19 @@ Moomoo • 1h ago
 
 Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.
 
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
 **[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
 
-Barron's • 13h ago
+Barron's • 15h ago
 
 ---
 
 **[Bitcoin Dive Will Hike Strategy's Borrowing Rate To 11.75% — At Least](https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investor's Business Daily • 10h ago
 
 Bitcoin price remains under pressure, yet five separate data points suggest fear may be creating one of the best accumulation setups in years.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -249,11 +249,25 @@ Nostr client with other stuff
 
 ---
 
+**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
+
+⬆️ 8 • 💬 1 • 6h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+
+---
+
 **[Bitcoin weathering ugliest week in months as narrative fades, liquidity rotates](https://news.ycombinator.com/item?id=48407274)**
 
 Bitcoin is getting pummeled to kick off June as the market loses its dominant narrative and liquidity continues to rotate into other assets.
 
 ⬆️ 7 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
+
+---
+
+**[Bitcoin cracks $60k, sinking to lowest level since October 2024](https://news.ycombinator.com/item?id=48421112)**
+
+The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
+
+⬆️ 6 • 💬 5 • 6h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -265,17 +279,11 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 ---
 
-**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
+**[Bitcoin back above $61,000 after rout leads to $1.6B liquidations](https://news.ycombinator.com/item?id=48422210)**
 
-⬆️ 6 • 💬 0 • 4h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
----
-
-**[Bitcoin cracks $60k, sinking to lowest level since October 2024](https://news.ycombinator.com/item?id=48421112)**
-
-The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
-
-⬆️ 5 • 💬 5 • 4h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
+⬆️ 4 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 
 ---
 
@@ -292,14 +300,6 @@ In the past two days, bitcoin's highest-conviction holders have sold about $2.4 
 MicroStrategy sold 32 bitcoin in May, marking the first mstr stock sale of digital assets since December 2022. The company’s disclosure triggered declines in the stock, signaling investor concern over a shift in management’s blockchain strategy. Quick Facts 32 bitcoin sold for $2.5 million in May 2026 First sale since December 2022—nearly 3.5 years earlier…
 
 ⬆️ 3 • 💬 2 • 3d ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
-
----
-
-**[Bitcoin back above $61,000 after rout leads to $1.6B liquidations](https://news.ycombinator.com/item?id=48422210)**
-
-Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
-
-⬆️ 3 • 💬 0 • 42m ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 
 ---
 
@@ -321,7 +321,7 @@ The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a
 
 📺 Valuetainment
 
-👁️ 39K • 👍 903 • 💬 409 • ⏱️ 10:46 • 12h ago
+👁️ 43K • 👍 959 • 💬 440 • ⏱️ 10:46 • 15h ago
 
 ---
 
@@ -331,27 +331,15 @@ Bitcoin just suffered one of its sharpest pullbacks of the cycle, wiping out bil
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 609 • 💬 93 • ⏱️ 10:42 • 11h ago
+👁️ 9K • 👍 640 • 💬 145 • ⏱️ 10:42 • 14h ago
 
 ---
 
-**[Bitcoin Is Getting Crushed by Fear and Panic...](https://www.youtube.com/watch?v=VrsI5auG7Jc)**
+**[$50,000 BITCOIN INCOMING  #bitcoin #crypto #cryptocurrency](https://www.youtube.com/watch?v=nTprwiZFNqk)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+📺 CryptoWendyO
 
-📺 CryptosRUs
-
-👁️ 30K • 👍 1K • 💬 230 • ⏱️ 1:09:01 • 16h ago
-
----
-
-**[Bitcoin Is CRASHING AGAIN! Buy The Dip Or Is It Truly Over?](https://www.youtube.com/watch?v=9NJwkEUi2dw)**
-
-Bitcoin's not doing good, no need to sugarcoat it. It's especially frustrating for investors because Bitcoin's weakness comes when ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 30K • 👍 1K • 💬 282 • ⏱️ 11:49 • 1d ago
+👁️ 4K • 👍 276 • 💬 6 • ⏱️ 2:11 • 8h ago
 
 ---
 
@@ -361,17 +349,27 @@ My Biggest Bitcoin Buy Is Still Ahead ❤️ Josh New Discord [JOIN NOW] ▻ htt
 
 📺 Stocks with Josh
 
-👁️ 7K • 👍 221 • 💬 13 • ⏱️ 1:00 • 12h ago
+👁️ 8K • 👍 225 • 💬 14 • ⏱️ 1:00 • 14h ago
 
 ---
 
-**[&quot;Bitcoin CRASHES to $60k! Something Bigger Is Coming...&quot; - Raoul Pal](https://www.youtube.com/watch?v=BEP1YlKKL1s)**
+**[Bitcoin Is CRASHING AGAIN! Buy The Dip Or Is It Truly Over?](https://www.youtube.com/watch?v=9NJwkEUi2dw)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Bitcoin's not doing good, no need to sugarcoat it. It's especially frustrating for investors because Bitcoin's weakness comes when ...
 
-📺 Savvy Finance
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 4K • 👍 227 • 💬 20 • ⏱️ 16:49 • 11h ago
+👁️ 31K • 👍 1K • 💬 301 • ⏱️ 11:49 • 1d ago
+
+---
+
+**[Bitcoin Is Getting Crushed by Fear and Panic...](https://www.youtube.com/watch?v=VrsI5auG7Jc)**
+
+Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRUs
+
+👁️ 31K • 👍 1K • 💬 289 • ⏱️ 1:09:01 • 19h ago
 
 ---
 
@@ -381,7 +379,17 @@ Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.we
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 191 • ⏱️ 9:10 • 1d ago
+👁️ 43K • 👍 2K • 💬 194 • ⏱️ 9:10 • 1d ago
+
+---
+
+**[🔴 BITCOIN LIVE TRADING: WHALES CONTINUE DUMPING](https://www.youtube.com/watch?v=ZKcO_fznOSM)**
+
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
+
+📺 Mathieu - C₿M
+
+👁️ 13K • 👍 849 • 💬 9 • ⏱️ 7:46:37 • 1d ago
 
 ---
 
@@ -391,7 +399,7 @@ Bitcoin has fallen to the 200W moving average. What next? Into The Cryptoverse P
 
 📺 Benjamin Cowen
 
-👁️ 120K • 👍 7K • 💬 435 • ⏱️ 12:51 • 1d ago
+👁️ 121K • 👍 7K • 💬 435 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -401,17 +409,7 @@ Crypto Is Done” Michael Saylor Problem EXPLAINED (Don't Be Fooled) 50% deposit
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 192 • ⏱️ 12:01 • 8h ago
-
----
-
-**[What Bitcoin Is Secretly Warning Us About the Markets](https://www.youtube.com/watch?v=Sd6uizKEQ9Y)**
-
-Macro analyst Luke Gromen explains the dangerous disconnect in today's markets. While tech indices hit deceptive new highs, ...
-
-📺 Natalie Brunell
-
-👁️ 15K • 👍 276 • 💬 35 • ⏱️ 0:43 • 14h ago
+👁️ 32K • 👍 2K • 💬 226 • ⏱️ 12:01 • 11h ago
 
 ---
 
