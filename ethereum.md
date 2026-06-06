@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T11:53:41.972276+00:00'
+updated: '2026-06-06T13:45:17.630992+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 11:53 UTC  
+**Last Updated:** June 06, 2026 at 13:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.8%  
-**7d:** -22.2%  
+**24h:** -2.4%  
+**7d:** -22.1%  
 **30d:** -32.3%  
 **90d:** -21.7%  
-**1y:** -38.2%  
+**1y:** -38.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $188.49B
+**Market Cap:** $188.35B
 Rank #2
 
 **Circulating Supply:** 120,684,554 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.5%
+-68.4%
 
 **All-Time Low:** $0.43
-+360268.5%
++360370.1%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-1h ago
+3h ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated financial infrastructure ever built, and i still have to convert everything to fiat just to buy groceries. The DeFi side is incredible. Lending, borrowing, yield all of it works seamlessly but the moment you want to actually spend your stablecoins in real life you're back to exchanges, fees and waiting for bank transfers. Everything works perfectly until you want to spend it somewhere normal
 
-22h ago
+1d ago
 
 ---
 
@@ -136,9 +136,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Decentralized* Storage in a Plywood Box: ETHPrague Day Two](https://www.reddit.com/r/ethereum/comments/1tw0rw9/decentralized_storage_in_a_plywood_box_ethprague/)**
+**[The fiat side of running an offshore crypto company is still broken](https://www.reddit.com/r/ethereum/comments/1tw2m29/the_fiat_side_of_running_an_offshore_crypto/)**
 
-(* Not actually decentralized) Day One is here: https://www.reddit.com/r/ethereum/comments/1tuqou6/decentralized_storage_in_a_plywood_box_ethprague/ --- Day Two of ETHPrague I wake up with a start and kick the plywood wall of my pod-bed before grabbing my phone. I have overslept and my "last call" alarm is sounding throughout the room. I try to muffle it against my chest and swipe-to-dismiss-alarm at the same time, which goes about as well as you might expect. Finally, it's off. I say "I'm sorry," into the void of the pod and I hear someone grunt unhappily in response. I get up and head to the toilet but someone else gets there first. I have woken up the entire room of pods and now I'm paying the price. Eventually I am organised and dressed and out the door to rush to Municipal House for day two of ETHPrague. https://preview.redd.it/tt604gx1h45h1.jpg?width=3215&format=pjpg&auto=webp&s=23614f605a90e87e7df2a30922af0702f6efc795 I've missed the morning session but manage to slip into Draft-to-Funding Markets: When Bets Can Influence Outcomes. Martin Štrobl offers an unexpectedly wholesome talk on how to turn degenerate speculation into project funding, by using betting liquidity to subsidize fundraisers. "The protocol settles as if all the 'Yes' bettors coordinated." Štrobl concedes that this is an opinionated approach, but it explicitly optimizes for getting public goods funded rather than letting them fail. This is followed by OG Viktor Trón introducing Ethereum Swarm to us in From Free to Fast: Product Tiers of Decentralised Storage. Systems are not working and we sit for what seems like an eternity while tech staff appear to fix the problem. Once he starts talking, my mind is blown for a second time (arguably a third, if you count the moment when I realised it was my phone blaring into pod town) as he reframes decentralized storage into two primitives with different economics: propagation and persistence. At the end of his slot, Trón refuses to cede the stage, arguing that he should at least get five more minutes to make up for the fifteen it took to set up. He is grudgingly allowed to finish his talk at high speed. https://preview.redd.it/t0m2j3w7h45h1.jpg?width=3322&format=pjpg&auto=webp&s=09a9b9a12ed3091d6efbdc40674b2fa452c22800 I'm now glued to my seat for all eternity. The room is full for the presentation by Josef Jelacic and Mario Havel talking about Bordel - the unexpected case for long-term and stable DeFi. The two used permissionless lending to fund a mortgage for an underground Soviet-era bunker to serve as a permanent, unevictable space for Bordel 2.0, following their original space in a dirty, windowless Prague basement because they wanted a space to blast music, code, and run weird workshops on everything from semiconductors and opsec to biology and mycelium. "We are these like cryptonative misfits, we like to do mischief, so we just made our own loan. We don't go to a bank, we don't go to a third party, we just program it ourselves permissionlessly on Ethereum." The room continues to fill, is now standing-room only, because next up is the Vitalik & Jordi Baylina fireside chat. Josef Je stays on-stage to tease us. "So you all thought you were coming for Vitalik? This is a rug pull." That's because Vitalik Buterin isn't there to chat but to interview zk researcher and engineer Jordi Baylina about Zisk, an open-source zero-knowledge Virtual Machine (zkVM) designed for real-time proving. Baylina explains that because ZK proving speeds have matured to the point where blocks can be proven in real time, they can now enable synchronous, atomic communication across different rollups. Synchronous composability, Baylina says, was a dream. "I was thinking always in an asynchronous way." Real-time ZK proving changed that. The dream he assumed was impossible is what ZisK is built for. https://preview.redd.it/tlwmaje9h45h1.jpg?width=2122&format=pjpg&auto=webp&s=9e1b76a6651f3826c2b44c7bea17c6a4753c03ee Baylina mentions Berlin and I miss it, frantically pasting a bit of their conversation into Claude, trying to work out what the Berlin reference is. Claude tells me I must have misheard. I start arguing with a chat bot. The person next to me nudges me and shows me his phone, showing Daapcon Berlin from the 16th to 17th of June. Flushed with embarrassment, I close Claude and thank the kind stranger and make a note. My ability to deal with new information is definitely beginning to get strained. https://preview.redd.it/eyd2m2thh45h1.jpg?width=2971&format=pjpg&auto=webp&s=c3981cb21bfdaef3e2881feb657a534bbd4db7c3 But I'm refusing to give up my seat, because we are ready for Cheeky-Gorilla, a Core Contributor at Protocol Guild, to speak on Maintaining Ethereum's Future. This video does not seem to appear on the ETHPrague video list, which is a shame, because it gave us a great look behind the curtain of Ethereum's engineering roadmap as the core dev machine works towards a transition from "massive upgrades" to "final maintenance mode". He also talked about the difficulties of keeping core devs involved when they are giving up 50% of their market value to stay involved. "We need more, orders of magnitude more, if we want to compete with the <br/>kind of job offers these talented and in-demand individuals are getting,<br/> but we're on the right path." My phone and I are slowly dying but FOMO is hitting hard and I go straight into Josef Je's fireside with Burning Man CEO Marian Goodell: From the Playa to the Protocol. Goodell tracks the 40-year evolution of the event from a loose beach happening into a highly structured San Francisco nonprofit designed to dictate and export its culture globally. It is an interesting talk, though I can't shake the feeling that she's never before addressed a crowd that is fundamentally more decentralized, fluid, and permissionless than her own organization. https://preview.redd.it/peh824sjh45h1.jpg?width=2176&format=pjpg&auto=webp&s=4b6d9c15d7e49b312e942bc1644c06b8342904cc The intellectual whiplash is hitting hard and I'm not sure how much more I can sensibly take in. But there's one more talk that I don't want to miss: Tereza Bízková's What to Build on Ethereum That's Not DeFi. Bízková frames the ideal future of Web3 as "sanctuary technologies," drawing a historical parallel to Prague’s own Samizdat movement. Bízková urges the ecosystem to look beyond financial speculation and deploy Ethereum to solve real-world, non-financial problems: money that can't be controlled, tools for collective decision making without exposure, services for layers of identity, publishing that cannot be taken down. Now is the time to focus on the promise of freedom. https://preview.redd.it/qbclqhdlh45h1.jpg?width=3322&format=pjpg&auto=webp&s=1fa77fe52894cddcdbbe36e92b9dfa1f46ebaaa8 Feeling as if someone has topped up my battery, I visit the Bordel space, where apparently they are attempting to hack daylight to supply sunshine to the underground bunker. The table is scattered with packages of decorative cannabis. I have no idea what this means. https://preview.redd.it/sam8yr1oh45h1.jpg?width=3220&format=pjpg&auto=webp&s=03a8db71579c3481c2bdfa2c9728f734af1f141e We have been given free transport around the city for the duration of the conference. I decide to take a tram back to my pod which seems, in the moment, like a perfectly reasonable decision. It is not. My phone, stressed from my frantic note-taking, dies just as I am checking if this is my stop. The tram doors open. I jump. Slowly turning in a circle, I recognize nothing. My hand keeps reaching for the dead phone, the reflexive twitch of an addict. My brain cannot comprehend that I am alone in a foreign city without a map. I strike off at random, hunting for some recognizable landmark. If I can find the restaurant from last night, I can find my way home. The restaurant has apparently been raptured. I'm completely, utterly lost. I accost some poor bastard staring at his phone, waiting for the lights to change. "Do you speak English?" He removes an earbud and nods warily. I'm already babbling at him, can he look up my pod-home on his map and tell me where to go? The lights change while I'm still trying to explain. He starts to cross as he searches on the map. Once we are across, he stops and stares at his phone. "It's not close." He points back at where we've come from. "You need to go another block that way, past the park, turn right, uphill, then right again, then left..." He looks at me and his voice trails off. "I think this is too difficult." He stares at the phone. "Do you have a transport ticket?" "Yes. On my phone, which is dead." I am on tiptoe, peering at the map, trying to commit it to memory. "I think I can do it," I lie. He repeats the instructions again, this time adding landmarks. He's clearly walked the entire route in his head. The lights turn green again. I smile with as much confidence as I can muster. "It'll be fine." He does not think it will be fine; in fact, he looks like he's debating walking the wrong way to deliver me in person. "Good luck," he says in a resigned voice. Fifteen minutes later, by some miracle I do not deserve, I spot the sign for my temporary home. I made it. I reach for my phone to message him that I'm safe, before remembering that I don't know who he is, still don't have a phone that works. I crawl back into my pod and plug in my phone. It blinks to life almost immediately. It takes me about eight hours longer. --- Tomorrow: I'm not winning any wet t-shirt contests --> Read Day Three
+Small team working on a protocol and incorporated in Cayman because thats what made sense for the structure. On-chain treasury management works great but the second we need to do anything in fiat its a nightmare for paying auditors, legal, hosting, salaries etc. Anyone else running a Cayman or BVI crypto company and figured out the fiat banking side
 
 2d ago
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
-Decrypt • 17h ago
+Decrypt • 19h ago
 
 ---
 
@@ -166,7 +166,7 @@ Barron's • 1d ago
 
 For a coin to be successful, it's necessary to have holder-friendly policies.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 38m ago
 
 Joseph Lubin moved 80,001 ETH after three years, but on-chain data shows the funds went to MakerDAO, not an exchange.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ Crowdfund Insider • 1d ago
 
 **[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-富途牛牛 • 11h ago
+富途牛牛 • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ Crowdfund Insider • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Fortune • 22h ago
 
 Ethereum is once again staring at a familiar crypto nightmare: leveraged positions stacked on top of each other while price action starts to crack.
 
-Coinpedia • 19h ago
+Coinpedia • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ Coinpedia • 19h ago
 
 Ethereum price (ETHUSD) dropped by about 10% in 24 hours to $1,598.17, underperforming Bitcoin's 3.92% drop, primarily driven by a cascade
 
-MarketForces Africa • 18h ago
+MarketForces Africa • 19h ago
 
 ---
 
@@ -226,43 +226,23 @@ MarketForces Africa • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[☢ Ethereum Will Crash More! - ETH Crypto Analysis](https://www.youtube.com/watch?v=UPVS8o0WJU4)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 985 • 👍 68 • 💬 12 • ⏱️ 14:13 • 2h ago
+
+---
+
 **[Ethereum Crash Explained: Why ETH Could Still Fall Further](https://www.youtube.com/watch?v=v_YPM2hSVrw)**
 
 Ethereum continues to trade below the key yellow trend line, keeping downside pressure firmly in place. In this update, I explain ...
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 316 • 💬 16 • ⏱️ 8:30 • 12h ago
-
----
-
-**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 1K • 👍 20 • 💬 3 • ⏱️ 5:45 • 17h ago
-
----
-
-**[Crypto Just Broke - You Need To Hear This](https://www.youtube.com/watch?v=BzfSujGYEYQ)**
-
-Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 26K • 👍 1K • 💬 260 • ⏱️ 20:00 • 1d ago
-
----
-
-**[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
-
-BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 411 • 💬 82 • ⏱️ 21:38 • 9h ago
+👁️ 7K • 👍 365 • 💬 18 • ⏱️ 8:30 • 13h ago
 
 ---
 
@@ -272,7 +252,27 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 21K • 👍 2K • 💬 248 • ⏱️ 13:31 • 17h ago
+👁️ 23K • 👍 2K • 💬 260 • ⏱️ 13:31 • 19h ago
+
+---
+
+**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 1K • 👍 20 • 💬 3 • ⏱️ 5:45 • 19h ago
+
+---
+
+**[Crypto Just Broke - You Need To Hear This](https://www.youtube.com/watch?v=BzfSujGYEYQ)**
+
+Bitcoin, Ethereum, Solana insane signal, ZEC exploit, and stock updates! BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 27K • 👍 1K • 💬 297 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -282,7 +282,17 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 📺 Jake Call
 
-👁️ 1K • 👍 27 • 💬 10 • ⏱️ 10:22 • 16h ago
+👁️ 1K • 👍 28 • 💬 10 • ⏱️ 10:22 • 18h ago
+
+---
+
+**[BITCOIN BREAKING $60,000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FAbvubhYdMo)**
+
+BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 464 • 💬 90 • ⏱️ 21:38 • 11h ago
 
 ---
 
@@ -290,17 +300,7 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 716 • 💬 42 • ⏱️ 2:04 • 2d ago
-
----
-
-**[Cardano and Ethereum Price Prediction June 2026: Mini-Bull Run Coming | Vedic Astrology](https://www.youtube.com/watch?v=iAgN6VhVi94)**
-
-ADA, ETH, XRP & BTC are at a critical turning point — and Vedic Astrology's RoadVi charts are issuing a clear warning for ...
-
-📺 Chariot Palmistry
-
-👁️ 5K • 👍 311 • 💬 59 • ⏱️ 4:32 • 1d ago
+👁️ 12K • 👍 723 • 💬 42 • ⏱️ 2:04 • 2d ago
 
 ---
 
@@ -314,13 +314,13 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 ---
 
-**[🥩 Tom Lee Just ACTIVATED Ethereum](https://www.youtube.com/watch?v=GJk_vuEB3V4)**
+**[WHY BMNR &amp; ETH JUST CRASHED?](https://www.youtube.com/watch?v=cMFE95FaCjY)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+WHY BMNR & ETH JUST CRASHED? Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi Discord: ...
 
-📺 🌟yourfriendsommi
+📺 Big Time Trades
 
-👁️ 3K • 👍 266 • 💬 22 • ⏱️ 13:29 • 2d ago
+👁️ 2K • 👍 70 • 💬 36 • ⏱️ 22:26 • 2d ago
 
 ---
 

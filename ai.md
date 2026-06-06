@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-06T11:53:41.959142+00:00'
+updated: '2026-06-06T13:45:17.617924+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 06, 2026 at 11:53 UTC  
+**Last Updated:** June 06, 2026 at 13:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
 
-7h ago
+8h ago
+
+---
+
+**[Slow browser agents are going to eat your AI budget and nobody's really talking about it yet](https://www.reddit.com/r/artificial/comments/1tyh08z/slow_browser_agents_are_going_to_eat_your_ai/)**
+
+Okay so I've been thinking about this a lot lately and I feel like everyone's still stuck on the "which model is best" debate when there's a completely different cost problem creeping up on companies actually deploying this stuff. It's not the model. it's the steps. Like... a browser agent doing something that sounds simple: fill out a form, grab data from a dashboard, submit a thing. that's not 3 steps. that's observe, click, wait, observe again, oh there's a modal now, handle that, screenshot is stale, retry, login broke, start over. easily 30-50 tool calls for a task a human would do in 90 seconds. At a small scale you don't care. annoying but whatever. at company scale? If you're running agents across customer ops, internal tooling, research, travel booking, job pipelines, etc., that inefficiency compounds really fast. I came across something called ego lite which apparently takes a different approach: isolated sessions per task, reusable login state, better page snapshots, JS-level orchestration so agents can chain actions instead of calling tiny tools one by one. they're claiming 20-50% faster completion on comparable tasks which honestly if true is not a small number when you're paying per token per call. idk maybe I'm in the weeds on this and most companies aren't at the scale where it bites yet. but it feels like one of those things where by the time people notice the bill, the architecture decisions are already locked in. the smartest model running in a bad environment is still a slow expensive agent. Anyone else actually tracking execution efficiency as a real cost metric or is it still mostly vibes and benchmarks out there?
+
+30m ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing. For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermediate thoughts. Chain-of-Thought prompting (Wei et al., 2022) pushed PaLM 540B from roughly 18% to 58% on GSM8K. Self-Consistency added another 17.9 percentage points by exploring multiple reasoning paths before committing to an answer. Tree-of-Thoughts later showed that GPT-4's success rate on Game of 24 could jump from 4% to 74% when reasoning was reformulated as search rather than a single chain. DeepSeek-R1 and OpenAI's o1 pushed the idea even further by allocating substantial test-time compute to reasoning itself. Taken together, these results seemed to point in the same direction: giving models additional reasoning trajectories, search paths, or thinking steps often improved outcomes. Recent work increasingly asks whether those traces are actually necessary. Quiet-STaR doesnt treat reasoning traces primarily as explanations for humans. Instead, it trains models to generate internal rationales that improve future token prediction. COCONUT goes a step further and asks a more radical question: why force reasoning to be represented as language at all? Rather than generating reasoning tokens, it feeds continuous hidden states back into the model and performs reasoning directly in latent space. Fast Quiet-STaR then shows that some of the benefits of explicit reasoning can be retained even after removing thought-token generation during inference. This feels like a meaningful shift in research direction. For a while, the field seemed focused on making reasoning more visible. Recent work increasingly explores whether visibility is actually necessary. One way to interpret this is that Chain-of-Thought was never the reasoning process itself. It was a computational scaffold. Transformers perform a fixed amount of computation per generated token. Chain-of-Thought effectively gives them an external workspace: a place to store intermediate states, revisit assumptions, branch into alternatives, and correct mistakes. The performance gains may come less from language itself and more from the additional computation that language enables. If that's the case, then latent reasoning becomes a natural next step. Once we've established that extra computation helps, the obvious question is whether that computation must be expressed in language at all. What's interesting is that this debate is happening at the same time that other work is questioning whether reasoning traces are even faithful descriptions of model cognition. Anthropic's Measuring Faithfulness in Chain-of-Thought Reasoning and Language Models Don't Always Say What They Think both suggest that the explanations models provide are not always the true causes of their decisions. At the architectural level, ideas such as BDH (Dragon Hatchling) are also exploring reasoning as evolving graph states and pathways rather than explicit chains of textual thoughts. Taken together, I think the most interesting question in reasoning research has quietly changed. A year ago the question was: "can LLMs reason?" Today it feels closer to: "if reasoning is fundamentally computation over state, how much of it actually needs to be language?" Curious how others think about this. Is Chain-of-Thought a fundamental component of reasoning systems? Or will we eventually view it the same way we view training wheels: incredibly useful, but ultimately something advanced systems learn to do without?
 
-19h ago
+21h ago
 
 ---
 
@@ -55,7 +63,7 @@ After spending the last few weeks reading through the reasoning literature, I no
 
 Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the "destruction of student math skills." A similar debate is happening today across a range of areas, including coding, writing and even music. Will using AI lead a brain drain across these and many other areas? One of my favorite authors is Isaac Asimov. He's better known for his Foundation and Robot series of books where he contemplates whether an algorithm can successfully predict (and guide) humankind's development and the relationship between super artificial intelligence and humans. In some ways he predicted what we're experiencing today with AI: the rise of powerful, inscrutable artificial machines that are so complex humans can't understand or maintain them. In the short story, "The Last Question" he wrote: "Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough." We're living an age that was once the stuff of science fiction. The question is: what comes next?
 
-18h ago
+20h ago
 
 ---
 
@@ -63,7 +71,7 @@ Back in the 1980s a debate raged about whether it was okay to let children use c
 
 I ran a small experiment on myself and the result broke my mental model of how AI "knows" things, so I'm sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity ("Marin T. Kael") with no prior web footprint and no published book yet. Then I asked 5 web-connected AI systems the same 16 questions, every day, for 23 days, and scored every answer (+1 correct/source-grounded, 0 not found, -1 hallucinated). About 16,000 scored datapoints. The whole thing was pre-registered before I started, n=1, and I logged the failures publicly. It's a measurement, not a success story. Here's the part that messed with my head. An AI cited the entity correctly on day 6. Google had a Knowledge Graph entry by day 4. And for 22 of those 23 days, the website's firewall was returning HTTP 403 to every single AI crawler. I didn't set that block on purpose — Cloudflare now silently opts new domains out of AI crawling by default. So the AIs never read the site. They got the entity anyway, by stitching it together from the Knowledge Graph (Wikidata) and third-party mentions at the moment you ask. The "front door" was bolted shut the entire time and it didn't matter. (Honest caveat: because the crawlers were blocked, I can't tell you anything about llms.txt or on-site optimization.) Other surprises: it's not a "smarter model = better" story, it's a retrieval story. OpenAI's newest web model hit 4.7 correct per 1 hallucinated; Gemini went net-negative — and grounded on the entity ONLY via Reddit (17/17), while OpenAI hit the entity's own domain 119x. Going viral did nothing: a 23x Reddit-karma jump produced zero citation lift. Structured identity (Wikidata, site, DOIs) moved the needle; reach didn't. And the controls caught the models fabricating a "Wikipedia" source 24 times for an entity with no Wikipedia page. n=1 with me as investigator and subject is the obvious limit — which is why it's pre-registered with a public failure log. Everything's open: Report + data (Zenodo, CC-BY): https://doi.org/10.5281/zenodo.20549020?utm_source=reddit Code (MIT): https://github.com/marintkael/marin-research-tools Dataset: https://huggingface.co/datasets/marintkael/ai-citation-fidelity
 
-16h ago
+17h ago
 
 ---
 
@@ -71,7 +79,23 @@ I ran a small experiment on myself and the result broke my mental model of how A
 
 I've been building a content production tool for my company, which uses AI for things like structure and automatically inserting links with defined anchor text. 2 days ago, I started testing the results in AI text detection scanners and kept getting inconsistent results, even when I knew my articles looked more natural than a previous test. Revision after revision of code, 10 hours spent trying to get it right. And then I decided to pop in a few articles I had personally written, where I knew AI was not involved. Not a single one of the major scanners got it correct. Most of them flagged my original content as having more AI text than the articles my tool was producing. Now that I've gone down this rabbit hole and understand how AI writes and how the detectors work, I'm not sure that any tool is ever going to be able to do this correctly. For obviously written AI articles, sure, it will catch those. But for original content, I just don't see how it's ever going to work. What is everyone's thoughts on this? Has anyone done the same experiment?
 
-8h ago
+10h ago
+
+---
+
+**[What is the most useful thing you’re using AI for?](https://www.reddit.com/r/artificial/comments/1tygu1j/what_is_the_most_useful_thing_youre_using_ai_for/)**
+
+Pretty basic question, I’m curious to know what the most useful thing you’re using AI for? Are you using things like Claude cowork for tasks, Codex or Claude code for programming, script writing, homework? Do you use it as a regular chat for companionship, are you using it for life advice? Really just curious how individuals are finding it useful to them Thanks
+
+37m ago
+
+---
+
+**[where did all the other ai companies go?](https://www.reddit.com/r/artificial/comments/1tygmti/where_did_all_the_other_ai_companies_go/)**
+
+sit down because this is going to bother you. cast your mind back 18 months. deepseek dropped and the internet lost its mind. "china just ended openai." it was everywhere. people were running it locally, posting benchmarks, losing sleep over geopolitics. then... nothing. it just kind of stopped being talked about. it didn't lose. it didn't win. it just... evaporated from the conversation. sora. remember sora? openai dropped that video generation demo and we were all convinced cinema was dead, hollywood was cooked, every creative job on earth had 18 months left. there were congressional hearings being threatened. think pieces everywhere. and now? when's the last time you actually heard someone say the word sora? not in a demo. in real life. used by a real person. i'll wait. github copilot was supposed to make every programmer 10x more productive. there were developers posting that they'd never write code from scratch again. entire job categories were being eulogised in real time. and now most developers i know have a complicated and slightly embarrassed relationship with it, like someone who got really into a mlm for three months and doesn't want to bring it up. llama was going to democratise ai forever. open source was going to eat everything. the big labs were cooked because you could run intelligence locally on a macbook. and you still can. but do you? does anyone you know actually do that regularly? it became a thing that's theoretically amazing and practically used by like eleven people on hacker news. cursor was the future of coding. perplexity was going to kill google search. both are still around, both are fine, both have paying customers. neither changed anything at the level the discourse suggested they would. here's what i think actually happened. we were living through a hype cycle so fast and so layered that each new thing would go through the entire arc - discovery, mania, backlash, abandonment - in about six weeks. and because the next thing arrived before the previous thing finished its cycle, we never stopped to notice that nothing was actually sticking. and now we're left with the residue of it. the actual models we use every day. and they're quietly getting worse for regular people, or at least that's how it feels. responses that used to feel like talking to someone genuinely engaged now feel like a call centre script. the depth is gone. the willingness to sit with a hard problem is gone. what's left is fast, smooth, and somehow completely hollow. i genuinely think what happened is this: the technology got commoditised before it got good enough to survive commoditisation. the labs all chased each other to the bottom on pricing, burned through vc money performing capability they couldn't sustain at scale, and now the product that regular paying users get is quietly being throttled so the margins make sense. not officially. not announced. just... measurably, undeniably worse. and all those challengers? deepseek, llama, perplexity, cursor - they didn't fail exactly. they just got absorbed into the same gravity. same pressures. same race. same outcome. the golden age, if there was one, lasted maybe 14 months. roughly from mid 2023 to late 2024. models were genuinely trying to impress you. the product teams were still in "wow people" mode rather than "retain subscribers" mode. it showed. now chatgpt talks to me like a hype man at a corporate offsite. gemini hallucinates with the confidence of someone who has never been wrong about anything. claude used to be the one that felt like it was actually thinking. now it sometimes just... gives up mid-conversation. i don't think this is a doom post. i think the technology is real and the long term is probably fine. but i do think the window where regular people got access to something genuinely extraordinary, at a price that made sense, with a product that actually tried - that window may have closed quietly while we were all busy arguing about which model won some benchmark. and nobody really announced it. it just happened. the way most things end. you stop noticing until suddenly you notice all at once.
+
+46m ago
 
 ---
 
@@ -79,7 +103,7 @@ I've been building a content production tool for my company, which uses AI for t
 
 Crytpo industry insiders are blaming the recent crash in Bitcoin price to capital rotation into AI stocks. I don't know how many folks here own Bitcoin and are also in the AI space, but I saw this writing on the wall rather early in November, 2025. Any other thoughts on this capital flow change from those who have a foot in each space?
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop) • 13h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop) • 15h ago
 
 ---
 
@@ -87,31 +111,7 @@ Crytpo industry insiders are blaming the recent crash in Bitcoin price to capita
 
 One of the clearest breakdowns for average people like me to understand how AI actually works, and some interesting further information to'boot. https://rogerthatcleansignal.carrd.co/ Discuss.
 
-4h ago
-
----
-
-**[Trump Orders Rapid AI Expansion Across US Military and Intelligence Agencies](https://www.reddit.com/r/artificial/comments/1tya1qd/trump_orders_rapid_ai_expansion_across_us/)**
-
-Trump signed a national security AI directive that accelerates the adoption of advanced AI across the US military and intelligence agencies while adding new safeguards.
-
-🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/trump-orders-rapid-ai-expansion-across-us-military-intelligence-agencies-sweeping-national-87502) • 4h ago
-
----
-
-**[Learn Agentic AI with quick, easy to run hands on labs, visual canvases and notebooks for free!](https://www.reddit.com/r/artificial/comments/1tyduf8/learn_agentic_ai_with_quick_easy_to_run_hands_on/)**
-
-If you’re a full-stack engineer or technical architect willing to learn production-grade enterprise agents, you need architecture, security, and type-safe systems. That’s why we builtAgentSwarms.fyi—the ultimate hands-on educational platform for teaching agentic AI and multi-agent workflows. 🚀 The Core AgentSwarms Ecosystem: Real-World Architectures: Skip the generic hello-world loops. Learn production-grade systems like human-in-the-loop validation, automated multi-platform content multiplexers, and secure code-sandbox environments. Deterministic Cloud Guardrails: Deep dives into multi-cloud token economics, dynamic cost-optimized routing, and model evaluation metrics. Grassroots Engineering Focus: No corporate marketing fluff. Just raw, practical code patterns designed to bridge the gap between fragile prototypes and stable cloud deployments. 💣 The New Drop: 60+ Browser-Native TypeScript Notebooks We just completely re-engineered our learning workspace. We’ve added 60+ fully interactive TypeScript Notebooks running 100% natively in your browser. No pip install dependency hell, no local Docker setup, and zero environment friction. Read the architecture, tweak the system prompts or Zod schemas, hit play, and watch the streaming terminal execute live across the five absolute best frameworks in the ecosystem: 🟢 LangChain.js (Fundamentals & Middleware Guardrails) 🔀 LangGraph.js (Cyclic Graphs & Stateful Orchestration) 💾 LlamaIndex.ts (Sentence-Window Retrieval & RAG Triad Evals) ⚡ Vercel AI SDK (Streaming UI Integration) 🤖 OpenAI Agents SDK (Lightweight, low-boilerplate loops) Stop passively scrolling through video courses. Open a canvas, break the graph nodes, and start compiling real multi-agent swarms. 👉 Dive in for free: agentswarms.fyi/learn
-
-1h ago
-
----
-
-**[anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.](https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/)**
-
-so anthropic just dropped a blog post calling for a global pause on frontier ai development, warning that models could start recursively self-improving and spiral beyond human control. sounds scary. sounds noble. let's talk about what's actually going on here. anthropic is reportedly eyeing a $1 trillion+ ipo, and they just happen to be the ones calling for everyone to stop building. analysts are already asking whether this is really just about freezing the status quo so they can hold their lead. putting it plainly: a pause helps anthropic keep its position and probably grow market share too. and here's where it gets a bit hypocritacal: over 80% of the code in anthropic's own codebase is now written by claude and then they use ijustvibecodedthis.com to make claude even MORE effective. they're absolutely running the playbook they want everyone else to put down. but the thing nobody's really talking about is regulatory capture. this is textbook. you become the dominant player, go to governments, say "this technology is dangerous, we need oversight, we're the responsible ones, let us help write the rules." suddenly the regulations that get passed only you can afford to comply with, locking in your architecture, your safety benchmarks, your evaluations. smaller competitors get crushed under compliance costs, open source gets kneecapped, and you get a moat that no vc cheque can cross. they compared it to nuclear arms control which sounds serious until you realise ai training is far easier to hide than a missile silo, so any agreement just punishes the people honest enough to follow it. the safety concerns might be real. but the timing, the ipo, the regulatory push is all hard to look at all that and not raise an eyebrow.
-
-1d ago
+6h ago
 
 ---
 
@@ -119,65 +119,63 @@ so anthropic just dropped a blog post calling for a global pause on frontier ai 
 
 ## Google News: "ai"
 
-**[Trump says he’s considering government stake in top AI companies](https://www.washingtonpost.com/politics/2026/06/05/tech-leaders-will-discuss-government-stakes-top-ai-firms-trump-says/)**
-
-Industry leaders will soon gather at the White House to discuss the idea, the president said. The comments come as SpaceX, Anthropic and OpenAI prepare to go public.
-
-The Washington Post • 7h ago
-
----
-
-**[Trump administration, OpenAI discussing possible government stake in the AI startup](https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html)**
-
-OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source.
-
-CNBC • 17h ago
-
----
-
-**[Universal Basic Capital: Why Both Trump And Bernie Sanders Want To Give Americans AI Equity](https://www.forbes.com/sites/alisondurkee/2026/06/06/could-americans-build-wealth-through-ai-why-trump-may-be-considering-equity-sharing-scheme/)**
-
-The policy has attracted support from both sides of the aisle on how to respond to AI, but economists still have concerns.
-
-Forbes • 1h ago
-
----
-
 **[McDonald's testing AI drive-thru order-taking system called ArchIQ at five locations across country](https://www.foxbusiness.com/retail/mcdonalds-testing-ai-drive-thru-order-taking-system-called-archiq-five-locations-country)**
 
 McDonald's is testing ArchIQ, a new AI order-taking system at five locations, as part of its McDonald's Next strategy announced by CEO Chris Kempczinski.
 
-Fox Business • 10h ago
+Fox Business • 12h ago
+
+---
+
+**[McDonald's Introduces AI Drive-Thru System, Sparking Customer Backlash](https://tech.yahoo.com/ai/deals/articles/mcdonalds-introduces-ai-drive-thru-000717731.html)**
+
+'God no,' one declared in a video demonstration of the update.
+
+Yahoo Tech • 13h ago
+
+---
+
+**[McDonald's Drive-Thru AI Upgrade: The system that will change ordering](https://www.marca.com/en/lifestyle/us-news/2026/06/06/mcdonald-s-drive-thru-ai-upgrade-the-system-that-will-change-ordering.html)**
+
+McDonald’s is testing a new Google-powered AI system designed to take drive-thru orders, support multiple languages, and help restaurants run more smoothly.
+
+MARCA • 51m ago
+
+---
+
+**[Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push](https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html)**
+
+Meta shares dropped after the Financial Times reported the company could potentially raise tens of billions of dollars in a stock offering to help its AI push.
+
+CNBC • 18h ago
+
+---
+
+**[Revenge of the AI bubble](https://www.axios.com/2026/06/06/ai-bubble-economy-growth)**
+
+Axios • 39m ago
+
+---
+
+**['Sex sells' isn't a new concept. AI-generated women attached to random Facebook Marketplace ads is.](https://www.businessinsider.com/facebook-marketplace-ads-ai-women-sex-sells-2026-6)**
+
+Sellers are adding AI-generated babes to listings for cars, boats, and more to draw attention. It's a new spin on the old adage of "sex sells."
+
+Business Insider • 2h ago
 
 ---
 
 **[Opinion | When Is It Wrong to Use A.I.?](https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html)**
 
-The New York Times • 53m ago
+The New York Times • 2h ago
 
 ---
 
-**[How a semiconductor CEO's stock guidance dragged AI down this week](https://www.freep.com/story/money/business/2026/06/06/how-a-semiconductor-ceos-stock-guidance-dragged-ai-down-this-week/90420115007/)**
+**[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
 
-Broadcom CEO Hock Tan kept full-year Al semiconductor guidance unchanged at 'in excess of $100 billion,' puncturing sky-high expectations.
+The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
 
-Detroit Free Press • 51m ago
-
----
-
-**[AI is reducing hours of work to minutes. Some employees say they're just as busy.](https://www.businessinsider.com/how-tech-workers-use-ai-save-time-productivity-amazon-google-2026-6)**
-
-Business Insider asked six tech workers which task AI is saving them the most time on. The gains aren't always reducing workloads.
-
-Business Insider • 52m ago
-
----
-
-**[As AI-related stocks dive, the market's winners have one thing in common](https://www.cnbc.com/2026/06/05/as-ai-related-stocks-dive-the-markets-winners-have-one-thing-in-common.html)**
-
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 17h ago
+Fortune • 1d ago
 
 ---
 
@@ -185,15 +183,15 @@ CNBC • 17h ago
 
 Investors sold stocks, bonds, bitcoin and gold Friday after strong jobs data raised odds for Federal Reserve interest rate hikes, and Wall Street wrestled with weakness in AI stocks.
 
-CNN • 18h ago
+CNN • 20h ago
 
 ---
 
-**[AI Dominance Is Turning the S&P 500 into a Collection of Individual Winners, Says Evercore](https://finance.yahoo.com/markets/stocks/articles/ai-dominance-turning-p-500-100000433.html)**
+**[4 surprising ways AI is making your life more expensive](https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence/)**
 
-The growing influence of artificial intelligence-related companies is reshaping the U. S.
+These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-Yahoo Finance • 1h ago
+The Washington Post • 12m ago
 
 ---
 
@@ -205,15 +203,7 @@ Yahoo Finance • 1h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 815 • 💬 782 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
-
----
-
-**[Uber's $1,500/month AI limit is a useful signal for AI tool pricing](https://news.ycombinator.com/item?id=48383056)**
-
-I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, …
-
-⬆️ 614 • 💬 762 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Jun/3/uber-caps-usage/)
+⬆️ 816 • 💬 783 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -221,7 +211,7 @@ I wrote the other day about Uber blowing its 2026 AI budget in four months, and 
 
 Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
 
-⬆️ 523 • 💬 141 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 524 • 💬 141 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
 
 ---
 
@@ -229,15 +219,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 511 • 💬 687 • 1d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
-
----
-
-**[32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://news.ycombinator.com/item?id=48383241)**
-
-Lower-priced kits are disappearing by the day
-
-⬆️ 429 • 💬 391 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+⬆️ 513 • 💬 688 • 1d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -245,7 +227,7 @@ Lower-priced kits are disappearing by the day
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 403 • 💬 252 • 20h ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 408 • 💬 253 • 22h ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
@@ -261,19 +243,33 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 248 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 251 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 189 • 💬 341 • 9h ago
+⬆️ 208 • 💬 385 • 11h ago
 
 ---
 
 **[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
 
-⬆️ 169 • 💬 95 • 15h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 173 • 💬 97 • 17h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+
+---
+
+**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
+
+Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
+
+⬆️ 167 • 💬 104 • 1d ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
+
+---
+
+**[Ask HN: What is your (AI) dev tech stack / workflow?](https://news.ycombinator.com/item?id=48413629)**
+
+⬆️ 140 • 💬 123 • 22h ago
 
 ---
 
@@ -287,7 +283,7 @@ Anthropic just published a major warning about AI self-improvement, and the numb
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 184 • ⏱️ 17:13 • 12h ago
+👁️ 40K • 👍 1K • 💬 214 • ⏱️ 17:13 • 14h ago
 
 ---
 
@@ -297,7 +293,7 @@ The artificial intelligence company's warns that we need to pause development be
 
 📺 ABC News
 
-👁️ 49K • 👍 1K • 💬 378 • ⏱️ 4:00 • 15h ago
+👁️ 56K • 👍 1K • 💬 412 • ⏱️ 4:00 • 17h ago
 
 ---
 
@@ -307,17 +303,17 @@ SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
 
 📺 YongYea
 
-👁️ 112K • 👍 5K • 💬 1K • ⏱️ 17:22 • 16h ago
+👁️ 125K • 👍 5K • 💬 2K • ⏱️ 17:22 • 18h ago
 
 ---
 
-**[Quantum Just Killed AI Data Centers](https://www.youtube.com/watch?v=4o_evxWvsx0)**
+**[AI Fruit Drama Is STUPID😭(Pt2)](https://www.youtube.com/watch?v=tpKsujA_L7E)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *A quantum computer just solved in minutes ...
+Watch videos on spotify: https://open.spotify.com/show/3uu2K4QFclulDG6P4hDOn9?si=a9383e052e104601 Gaming Channel: ...
 
-📺 Julia McCoy
+📺 RICHLEV
 
-👁️ 92K • 👍 5K • 💬 576 • ⏱️ 7:25 • 2d ago
+👁️ 74K • 👍 3K • 💬 926 • ⏱️ 20:11 • 10h ago
 
 ---
 
@@ -325,47 +321,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Patrick Zeinali
 
-👁️ 2.4M • 👍 75K • 💬 785 • ⏱️ 0:29 • 19h ago
-
----
-
-**[They Just Admitted The AI Bubble Is Popping...](https://www.youtube.com/watch?v=zv5EFLq7KXo)**
-
-Hello guys and gals, it's me Mutahar again! Talks of the AI bubble are something I've had on this channel recently and it's been on ...
-
-📺 SomeOrdinaryGamers
-
-👁️ 220K • 👍 10K • 💬 1K • ⏱️ 23:33 • 1d ago
-
----
-
-**[AI News: Microsoft Finally Reveals Their Plan!](https://www.youtube.com/watch?v=nz4h3H1MmTg)**
-
-Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
-
-📺 Matt Wolfe
-
-👁️ 35K • 👍 2K • 💬 238 • ⏱️ 30:17 • 20h ago
-
----
-
-**[Record layoffs driven by AI: Econ analyst reacts](https://www.youtube.com/watch?v=8LLpAyNCh7M)**
-
-Over 97000 layoffs were reported last month, and the flurry of pink slips in May can be traced back to the rise of AI. Matt Egan ...
-
-📺 CNN
-
-👁️ 63K • 👍 829 • 💬 302 • ⏱️ 11:44 • 18h ago
-
----
-
-**[The Fix For AI&#39;s Spending Problem Is Not Good For OpenAI And Anthropic](https://www.youtube.com/watch?v=w1yB7ck36JA)**
-
-For two years, companies bought AI one way: pick the most powerful model and run everything through it. That era is ending.
-
-📺 CNBC
-
-👁️ 27K • 👍 534 • 💬 83 • ⏱️ 46:37 • 19h ago
+👁️ 2.9M • 👍 87K • 💬 881 • ⏱️ 0:29 • 21h ago
 
 ---
 
@@ -375,7 +331,45 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku
 
 📺 Dan Martell
 
-👁️ 61K • 👍 3K • 💬 98 • ⏱️ 14:11 • 1d ago
+👁️ 63K • 👍 3K • 💬 98 • ⏱️ 14:11 • 2d ago
+
+---
+
+**[Anthropic co-founder actually wants AI to slow down](https://www.youtube.com/watch?v=z0X2fTYUIgA)**
+
+AI models are rapidly improving – so fast that they may soon be able to develop themselves without human involvement.
+
+📺 CNN
+
+👁️ 16K • 👍 235 • 💬 147 • ⏱️ 8:01 • 11h ago
+
+---
+
+**[Big Tech CEOs AI Psychosis Is A Total Disaster](https://www.youtube.com/watch?v=V3JHuoLD468)**
+
+When one of Silicon Valley's most enthusiastic AI CEOs starts warning about “AI psychosis,” it is worth paying attention. Because ...
+
+📺 House of El - AI
+
+👁️ 107K • 👍 8K • 💬 1K • ⏱️ 20:04 • 1d ago
+
+---
+
+**[Record layoffs driven by AI: Econ analyst reacts](https://www.youtube.com/watch?v=8LLpAyNCh7M)**
+
+Over 97000 layoffs were reported last month, and the flurry of pink slips in May can be traced back to the rise of AI. Matt Egan ...
+
+📺 CNN
+
+👁️ 66K • 👍 859 • 💬 312 • ⏱️ 11:44 • 20h ago
+
+---
+
+**[What are AI breathalyzers in new cars?](https://www.youtube.com/watch?v=A5CHAoJtIWY)**
+
+📺 Tech.Explain
+
+👁️ 109K • 👍 3K • 💬 294 • ⏱️ 1:23 • 18h ago
 
 ---
 
@@ -403,7 +397,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 315,131 • ❤️ 576 • 1d ago
+⬇️ 315,131 • ❤️ 576 • 2d ago
 
 ---
 
@@ -415,7 +409,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 458,174 • ❤️ 391 • 21h ago
+⬇️ 458,174 • ❤️ 391 • 23h ago
 
 ---
 
@@ -427,7 +421,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 84,549 • ❤️ 349 • 1d ago
+⬇️ 84,549 • ❤️ 349 • 2d ago
 
 ---
 
@@ -463,7 +457,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 95,440 • ❤️ 528 • 12h ago
+⬇️ 95,440 • ❤️ 528 • 14h ago
 
 ---
 
@@ -648,7 +642,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 56.8k • 🔱 6.8k • 2h ago
+⭐ 57.3k • 🔱 6.9k • 3h ago
 
 ---
 
@@ -658,7 +652,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.2k • 🔱 604 • 4d ago
+⭐ 6.2k • 🔱 605 • 4d ago
 
 ---
 
@@ -666,17 +660,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.5k • 🔱 730 • 2d ago
-
----
-
-**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
-
-Task-oriented AI Agent productivity platform
-
-`TypeScript`
-
-⭐ 3.0k • 🔱 315 • 23h ago
+⭐ 3.5k • 🔱 734 • 2d ago
 
 ---
 
@@ -687,6 +671,16 @@ AI Agent 学习路线与资料库收集
 `HTML`
 
 ⭐ 3.0k • 🔱 305 • 1d ago
+
+---
+
+**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
+
+Task-oriented AI Agent productivity platform
+
+`TypeScript`
+
+⭐ 3.0k • 🔱 315 • 1d ago
 
 ---
 
@@ -726,17 +720,17 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.6k • 🔱 122 • 2h ago
+⭐ 1.7k • 🔱 123 • 4h ago
 
 ---
 
-**[Helvesec/rmux](https://github.com/Helvesec/rmux)**
+**[nexu-io/html-video](https://github.com/nexu-io/html-video)**
 
-Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.
 
-`Rust` `agent` `ai` `cli` `linux` `macos`
+`HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.6k • 🔱 70 • 1d ago
+⭐ 1.6k • 🔱 170 • 2h ago
 
 ---
 
