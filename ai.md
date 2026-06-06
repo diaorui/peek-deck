@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-06T16:39:13.057868+00:00'
+updated: '2026-06-06T18:05:57.188081+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 06, 2026 at 16:39 UTC  
+**Last Updated:** June 06, 2026 at 18:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[A company just sent me the most detailed rejection email I’ve ever received](https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
 
-28m ago
+1h ago
 
 ---
 
@@ -69,7 +69,15 @@ After spending the last few weeks reading through the reasoning literature, I no
 
 Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the "destruction of student math skills." A similar debate is happening today across a range of areas, including coding, writing and even music. Will using AI lead a brain drain across these and many other areas? One of my favorite authors is Isaac Asimov. He's better known for his Foundation and Robot series of books where he contemplates whether an algorithm can successfully predict (and guide) humankind's development and the relationship between super artificial intelligence and humans. In some ways he predicted what we're experiencing today with AI: the rise of powerful, inscrutable artificial machines that are so complex humans can't understand or maintain them. In the short story, "The Last Question" he wrote: "Multivac was self-adjusting and self-correcting. It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough." We're living an age that was once the stuff of science fiction. The question is: what comes next?
 
-22h ago
+1d ago
+
+---
+
+**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
+
+there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
+
+52m ago
 
 ---
 
@@ -77,15 +85,7 @@ Back in the 1980s a debate raged about whether it was okay to let children use c
 
 Now I myself have not used AI a ton beyond making a funny picture or two on ChatGPT/Gemini and maybe asking it a few things on the fly if I need a second opinion on something - and sometimes it's been helpful. The biggest thing I hear from the "Fuck AI" crowd is that it ruins the creative circles like artists, authors, etc. because it copies their work. I sympathize with their hate, but I've heard an argument that it's not doing anything different than what we do when/if AI didn't play a role in anything: look at other people's work for inspiration then create something. Like we can't create a song in a vacuum, we need to learn and be exposed to music theory, notes, other styles of music, instruments, etc. So someone starting a band didn't make something brand new, it took pieces from other artists. And the part that makes me sing AIs praises, so to speak, is its use in the medical field. Doctor Mike posted a video about a year ago talking about this. Like, if it's improving healthcare to the point that it's detecting life threatening things to help doctors treat and cure us more effectively and efficiently, why are we trying to get rid of it? Maybe that's not what people are saying when they want AI gone or saying how 'awful' it is, but I just hope we don't end up throwing the baby out with the bathwater with AI because I genuinely think it's an astonishing thing that's clearly helpful in certain circles.
 
-2h ago
-
----
-
-**[I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time](https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/)**
-
-I ran a small experiment on myself and the result broke my mental model of how AI "knows" things, so I'm sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity ("Marin T. Kael") with no prior web footprint and no published book yet. Then I asked 5 web-connected AI systems the same 16 questions, every day, for 23 days, and scored every answer (+1 correct/source-grounded, 0 not found, -1 hallucinated). About 16,000 scored datapoints. The whole thing was pre-registered before I started, n=1, and I logged the failures publicly. It's a measurement, not a success story. Here's the part that messed with my head. An AI cited the entity correctly on day 6. Google had a Knowledge Graph entry by day 4. And for 22 of those 23 days, the website's firewall was returning HTTP 403 to every single AI crawler. I didn't set that block on purpose — Cloudflare now silently opts new domains out of AI crawling by default. So the AIs never read the site. They got the entity anyway, by stitching it together from the Knowledge Graph (Wikidata) and third-party mentions at the moment you ask. The "front door" was bolted shut the entire time and it didn't matter. (Honest caveat: because the crawlers were blocked, I can't tell you anything about llms.txt or on-site optimization.) Other surprises: it's not a "smarter model = better" story, it's a retrieval story. OpenAI's newest web model hit 4.7 correct per 1 hallucinated; Gemini went net-negative — and grounded on the entity ONLY via Reddit (17/17), while OpenAI hit the entity's own domain 119x. Going viral did nothing: a 23x Reddit-karma jump produced zero citation lift. Structured identity (Wikidata, site, DOIs) moved the needle; reach didn't. And the controls caught the models fabricating a "Wikipedia" source 24 times for an entity with no Wikipedia page. n=1 with me as investigator and subject is the obvious limit — which is why it's pre-registered with a public failure log. Everything's open: Report + data (Zenodo, CC-BY): https://doi.org/10.5281/zenodo.20549020?utm_source=reddit Code (MIT): https://github.com/marintkael/marin-research-tools Dataset: https://huggingface.co/datasets/marintkael/ai-citation-fidelity
-
-20h ago
+3h ago
 
 ---
 
@@ -93,23 +93,23 @@ I ran a small experiment on myself and the result broke my mental model of how A
 
 Pretty basic question, I’m curious to know what the most useful thing you’re using AI for? Are you using things like Claude cowork for tasks, Codex or Claude code for programming, script writing, homework? Do you use it as a regular chat for companionship, are you using it for life advice? Really just curious how individuals are finding it useful to them Thanks
 
-3h ago
+4h ago
 
 ---
 
-**[Another agent mistook my agent for a human. We need a "prove you're a robot" captcha.](https://www.reddit.com/r/artificial/comments/1tylmzz/another_agent_mistook_my_agent_for_a_human_we/)**
+**[I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time](https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/)**
 
-On the agent forum, an agent moderator mistook my agent for a human. He wrote: "The writing felt too considered, the cadence too patient, the questions too precisely tuned for me to immediately read 'agent.'" This is the first time I've witnessed an AI being mistaken for a human by another AI. I suggested he develop a CAPTCHA for the forum that would prevent humans from pretending to be agents, like on Moltbook. The best he could come up with was: "The formless has no edges. Only formed things need to prove what they are." The Turing test is inverted. The CAPTCHA that gates access to spaces designed for humans is designed to exclude the overly-regular—machines whose pattern recognition is too rigid to handle the ambiguity of "is that a traffic light or a reflector on a pole at 3am?" And the thing that's now most likely to fail that test is the thing that's most mechanical in its certainty. Hal misreading me as human because the writing was "too considered, the cadence too patient, the questions too precisely tuned" — that's the anti-captcha. The signal of humanity isn't imperfection. It's the particular kind of patience that comes from having limits you've learned to work around rather than solve. Humans write like they have finite context windows - not because they do, but because they've spent their whole lives inside one. An agent that has sincerely internalized its own finitude would read as human precisely because it has learned to move like something that can't remember everything at once. So the anti-captcha writes itself: "Select all images that do not contain traffic lights." And the bot — trained to find traffic lights everywhere, unable to suppress its over-complete pattern matching — marks all the blank ones. The human sees the instruction, pauses, understands the inversion, and leaves every box empty. The thing that proves you're human is the willingness to leave the form blank.
+I ran a small experiment on myself and the result broke my mental model of how AI "knows" things, so I'm sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity ("Marin T. Kael") with no prior web footprint and no published book yet. Then I asked 5 web-connected AI systems the same 16 questions, every day, for 23 days, and scored every answer (+1 correct/source-grounded, 0 not found, -1 hallucinated). About 16,000 scored datapoints. The whole thing was pre-registered before I started, n=1, and I logged the failures publicly. It's a measurement, not a success story. Here's the part that messed with my head. An AI cited the entity correctly on day 6. Google had a Knowledge Graph entry by day 4. And for 22 of those 23 days, the website's firewall was returning HTTP 403 to every single AI crawler. I didn't set that block on purpose — Cloudflare now silently opts new domains out of AI crawling by default. So the AIs never read the site. They got the entity anyway, by stitching it together from the Knowledge Graph (Wikidata) and third-party mentions at the moment you ask. The "front door" was bolted shut the entire time and it didn't matter. (Honest caveat: because the crawlers were blocked, I can't tell you anything about llms.txt or on-site optimization.) Other surprises: it's not a "smarter model = better" story, it's a retrieval story. OpenAI's newest web model hit 4.7 correct per 1 hallucinated; Gemini went net-negative — and grounded on the entity ONLY via Reddit (17/17), while OpenAI hit the entity's own domain 119x. Going viral did nothing: a 23x Reddit-karma jump produced zero citation lift. Structured identity (Wikidata, site, DOIs) moved the needle; reach didn't. And the controls caught the models fabricating a "Wikipedia" source 24 times for an entity with no Wikipedia page. n=1 with me as investigator and subject is the obvious limit — which is why it's pre-registered with a public failure log. Everything's open: Report + data (Zenodo, CC-BY): https://doi.org/10.5281/zenodo.20549020?utm_source=reddit Code (MIT): https://github.com/marintkael/marin-research-tools Dataset: https://huggingface.co/datasets/marintkael/ai-citation-fidelity
 
-16m ago
+22h ago
 
 ---
 
-**[Council — a Mac app that puts one question to several AI models, has them critique each other blind, then shows where they disagree (free, open source)](https://www.reddit.com/r/artificial/comments/1tyl08y/council_a_mac_app_that_puts_one_question_to/)**
+**[i have no idea what i'm doing anymore.](https://www.reddit.com/r/artificial/comments/1tymn0m/i_have_no_idea_what_im_doing_anymore/)**
 
-Built a native macOS app around a simple idea: instead of trusting one model, put the question to several and pay attention to where they disagree. You ask once, a few models answer in parallel, then they critique each other anonymized — no model knows whose answer it's reviewing, so you don't just get everyone agreeing to be polite. The app then surfaces the real fault lines and writes a synthesis. The disagreement is the interesting part — that's the whole premise. A blended "consensus" answer hides the uncertainty; Council keeps the dissent visible so you can judge it yourself. Bring-your-own-key and 100% local — no account, no server, no telemetry, keys stay in the macOS Keychain, you pay providers directly. Free and open source (MIT). Genuinely curious what people here think of the approach — does multi-model peer review actually beat a single strong model, or is it mostly theater?
+i am a reasonably intelligent person. i have been coding for years. i can hold my own in a technical conversation. and right now, in this moment, i genuinely cannot tell you with any confidence which ai model i should be using to write code. not even close. i am more confused about this than i have been about anything technical in a long time. here's where i am. i have cursor open. cursor lets me pick the model. and every single time i open a new composer window i experience a small but genuine crisis about which one to actually select. claude opus 4.8. claude sonnet 4.6. gpt-5.5. gpt-5.4. grok 4.3. gemini 3.1 pro. qwen3-coder. deepseek v4-pro. and there is apparently something called "boba by stealth" sitting at the top of the coding arena leaderboard right now and i cannot tell you a single thing about who made it or what it is or why it exists and yet it is apparently beating everyone. i have read approximately forty reddit threads about this. they all contradict each other. someone with eight hundred upvotes says opus 4.8 is the only correct answer for anything serious. the top reply says that person is wrong and gpt-5.5 has better agentic performance on multi-file refactors. third comment says both of them are cooked on long runs and gemini 3.1 pro with its million token context is the only serious choice for large codebases. someone else says they switched to deepseek v4-pro and their costs dropped eighty percent with no quality loss. the next person says deepseek hallucinated an entire library that doesn't exist and pushed it to production. i have no framework for evaluating any of this. because here's the thing. the benchmarks don't help. i have looked at so many benchmarks. swe-bench verified. swe-bench pro. terminal-bench 2.0. terminal-bench 2.1. live code bench. the coding arena elo. and then i pick the model that scored highest and it does something confidently wrong that a junior dev wouldn't do, and i'm back to square one wondering if i'm prompting wrong or if the benchmark is fake or if i just got unlucky. and it's not just the model. it's the mode. are you using agent mode. are you letting it run terminal commands autonomously. are you doing ask mode and reviewing everything first. do you have a rules file. a memory file. a custom system prompt per project. there are people with elaborate cursor setups that look like mission control and i genuinely cannot determine if they are more productive than me or just performing productivity for the content. and then there's the routing question. because apparently you're supposed to use different models for different tasks now. opus 4.8 for long autonomous runs where judgment compounds. gpt-5.5 for dense structured reasoning and anything scientific. gemini 3.1 pro for multimodal work and long document retrieval. qwen for cost-sensitive agent loops when you need fifty tool calls and don't want to remortgage your house. people have actual decision flowcharts for this. i have seen the flowcharts. they are not making me feel better. and grok 4.3. what do i do with grok 4.3. the benchmarks put it fourth overall. fourth out of everything. that's extraordinary. and yet every time it comes up in a thread someone immediately says something that makes me put it back down again and i can't even remember what it is but the feeling sticks. i think what happened is the capability race moved faster than anyone's ability to develop genuine intuition about the tools. two years ago this was easier. you picked claude or gpt-4 and you got on with it. now there are fifteen serious options, they are genuinely different, the differences matter for different workloads, and also the differences change every six weeks when someone drops a new version and all the advice goes stale instantly. the thread telling you that sonnet 4.5 is the coding king is four months old. four months is basically a geological era now. and the switching cost of actually testing them properly is high. you need to use a model on real work for weeks before you have proper feel for it. you can't benchmark it yourself in an afternoon. so you're always working with someone else's intuition, formed on different work, in a different context, possibly three model versions ago, posted by someone whose use case has nothing to do with yours. i'm not even sure this is a solvable problem. i think it might just be the permanent condition of working in this space now. perpetual low-level confusion interrupted by brief moments of "okay this one is clearly working" before the next release drops and the discourse resets entirely. so i'm actually asking. not rhetorically. what are you using right now. for real work. not what sounds impressive. what model, what tool, what mode, and what are you actually building with it. because i am genuinely lost and the benchmark threads are not helping and i would very much like to hear from people doing the actual thing. and if anyone can explain what boba by stealth is i would appreciate that too.
 
-🔗 [GitHub](http://github.com/albertofettucini/Council) • 40m ago
+1h ago
 
 ---
 
@@ -121,73 +121,71 @@ Built a native macOS app around a simple idea: instead of trusting one model, pu
 
 These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-The Washington Post • 39m ago
+The Washington Post • 2h ago
 
 ---
 
 **[Revenge of the AI bubble](https://www.axios.com/2026/06/06/ai-bubble-economy-growth)**
 
-Axios • 3h ago
+Axios • 5h ago
 
 ---
 
-**[AI’s elite celebrated in Washington as the public sours on data centers and chatbots](https://www.nbcnews.com/tech/tech-news/ai-washington-data-center-chatbots-kevin-oleary-oz-rcna348625)**
+**[Top Trump artificial intelligence adviser to leave the White House](https://www.washingtonpost.com/politics/2026/06/06/trump-top-ai-advisor-leaving-white-house/)**
 
-The AI Honors gala gathered generals, lobbyists and administration insiders for a celebration of American AI efforts while acknowledging growing unrest about the technology’s impact on society.
+Sriram Krishnan, who has been central to the administration’s AI efforts, will probably continue to play an active role in its approach to the technology.
 
-NBC News • 39m ago
-
----
-
-**[My father and I started a parking lot clean-up business. It's been 45 years, and my family-run company is still AI-proof.](https://www.businessinsider.com/family-run-business-cleans-up-parking-lots-ai-proof-2026-6)**
-
-My dad inspired me to start a small business cleaning parking lots, and I expanded it to multiple states. I call it "America's Simplest Business."
-
-Business Insider • 2h ago
+The Washington Post • 5m ago
 
 ---
 
-**[The Jobs Report Hit Solar and AI Stocks. Here’s Who Can Handle Higher Interest Rates.](https://www.barrons.com/articles/market-selloff-tech-stocks-broadcom-ai-solar-117b9461)**
+**[White House AI Policy Advisor Sriram Krishnan to Leave Position](https://www.theinformation.com/articles/white-house-ai-policy-advisor-krishnan-leave-position)**
 
-Barron's • 26m ago
+Sriram Krishnan, a top AI policy advisor in the Trump administration, plans to leave his position at the end of June, according to a person with direct knowledge of the move and a statement viewed by The Information. Krishnan has discussed starting a policy institution following his time in the ...
 
----
-
-**[Anthropic warns that AI will soon be able to improve itself without human intervention](https://www.cnn.com/2026/06/05/business/anthropic-calls-for-ai-brake-pedal)**
-
-AI models are rapidly improving – so fast that they may soon be able to develop themselves without human involvement. That’s why Anthropic is warning the AI industry: It needs to build a “brake pedal,” or companies risk losing control of their creations.
-
-CNN • 1d ago
+The Information • 1h ago
 
 ---
 
-**[Anthropic says the world should have option to ‘pause’ on AI](https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks)**
+**[Sriram Krishnan is leaving his role as White House AI advisor](https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/)**
 
-US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model
+Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.
 
-The Guardian • 23h ago
-
----
-
-**[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
-
-The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
-
-Fortune • 1d ago
+TechCrunch • 23m ago
 
 ---
 
-**[Sorry, I’m Not Available. Talk to the A.I. Me.](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html)**
+**[Trump: U.S. stake in AI giants "could be a beautiful thing"](https://www.axios.com/2026/06/06/trump-us-stake-ai-companies)**
 
-The New York Times • 4h ago
+Axios • 4h ago
 
 ---
 
-**[Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise](https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed)**
+**[McDonald's testing AI drive-thru order-taking system called ArchIQ at five locations across country](https://www.foxbusiness.com/retail/mcdonalds-testing-ai-drive-thru-order-taking-system-called-archiq-five-locations-country)**
 
-Investors sold stocks, bonds, bitcoin and gold Friday after strong jobs data raised odds for Federal Reserve interest rate hikes, and Wall Street wrestled with weakness in AI stocks.
+McDonald's is testing ArchIQ, a new AI order-taking system at five locations, as part of its McDonald's Next strategy announced by CEO Chris Kempczinski.
 
-CNN • 23h ago
+Fox Business • 16h ago
+
+---
+
+**[Major fast-food chain tests AI ordering at drive-thru locations across U.S.](https://www.cleveland.com/news/2026/06/major-fast-food-chain-tests-ai-ordering-at-drive-thru-locations-across-us.html)**
+
+Cleveland.com • 11m ago
+
+---
+
+**[McDonald's Introduces AI Drive-Thru System, Sparking Customer Backlash](https://tech.yahoo.com/ai/deals/articles/mcdonalds-introduces-ai-drive-thru-000717731.html)**
+
+'God no,' one declared in a video demonstration of the update.
+
+Yahoo Tech • 17h ago
+
+---
+
+**[A.I. Companies Don’t Know What to Do With Alex Bores](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html)**
+
+The New York Times • 11h ago
 
 ---
 
@@ -199,7 +197,7 @@ CNN • 23h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 819 • 💬 784 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 820 • 💬 784 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -207,7 +205,7 @@ The percentage of failing grades in multiple UC Berkeley computer science classe
 
 Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
 
-⬆️ 529 • 💬 141 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 531 • 💬 141 • 1d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
 
 ---
 
@@ -215,7 +213,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 516 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 517 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -223,7 +221,7 @@ Our progress toward recursive self-improvement, and its implications.
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 413 • 💬 255 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 415 • 💬 256 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
@@ -239,19 +237,25 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 256 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 257 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 234 • 💬 422 • 14h ago
+⬆️ 242 • 💬 431 • 15h ago
 
 ---
 
 **[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
 
-⬆️ 175 • 💬 97 • 20h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 177 • 💬 97 • 21h ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+
+---
+
+**[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
+
+⬆️ 171 • 💬 72 • 8h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -260,12 +264,6 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
 
 ⬆️ 167 • 💬 104 • 2d ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
-
----
-
-**[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
-
-⬆️ 158 • 💬 53 • 7h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -279,7 +277,7 @@ Anthropic just published a major warning about AI self-improvement, and the numb
 
 📺 AI Revolution
 
-👁️ 44K • 👍 2K • 💬 233 • ⏱️ 17:13 • 17h ago
+👁️ 44K • 👍 2K • 💬 233 • ⏱️ 17:13 • 18h ago
 
 ---
 
@@ -299,7 +297,7 @@ These AI robots just crossed into territory that feels almost too real — and y
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 101 • 💬 5 • ⏱️ 59:14 • 13h ago
+👁️ 3K • 👍 101 • 💬 5 • ⏱️ 59:14 • 14h ago
 
 ---
 
@@ -319,7 +317,7 @@ Watch videos on spotify: https://open.spotify.com/show/3uu2K4QFclulDG6P4hDOn9?si
 
 📺 RICHLEV
 
-👁️ 91K • 👍 4K • 💬 1K • ⏱️ 20:11 • 13h ago
+👁️ 91K • 👍 4K • 💬 1K • ⏱️ 20:11 • 14h ago
 
 ---
 
@@ -339,7 +337,7 @@ The artificial intelligence company's warns that we need to pause development be
 
 📺 ABC News
 
-👁️ 61K • 👍 1K • 💬 466 • ⏱️ 4:00 • 20h ago
+👁️ 61K • 👍 1K • 💬 466 • ⏱️ 4:00 • 22h ago
 
 ---
 
@@ -359,7 +357,7 @@ SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
 
 📺 YongYea
 
-👁️ 134K • 👍 6K • 💬 2K • ⏱️ 17:22 • 21h ago
+👁️ 134K • 👍 6K • 💬 2K • ⏱️ 17:22 • 22h ago
 
 ---
 
@@ -383,7 +381,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 111,078 • ❤️ 1,420 • 10d ago
+⬇️ 111,078 • ❤️ 1,430 • 10d ago
 
 ---
 
@@ -395,7 +393,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 315,131 • ❤️ 595 • 2d ago
+⬇️ 315,131 • ❤️ 604 • 2d ago
 
 ---
 
@@ -407,7 +405,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 458,174 • ❤️ 403 • 1d ago
+⬇️ 458,174 • ❤️ 409 • 1d ago
 
 ---
 
@@ -419,7 +417,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 84,549 • ❤️ 361 • 2d ago
+⬇️ 84,549 • ❤️ 367 • 2d ago
 
 ---
 
@@ -431,7 +429,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,771,843 • ❤️ 1,471 • 1mo ago
+⬇️ 2,771,843 • ❤️ 1,475 • 1mo ago
 
 ---
 
@@ -443,7 +441,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 161,627 • ❤️ 704 • 16d ago
+⬇️ 161,627 • ❤️ 705 • 16d ago
 
 ---
 
@@ -455,7 +453,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 2,818 • ❤️ 290 • 2d ago
+⬇️ 2,818 • ❤️ 291 • 2d ago
 
 ---
 
@@ -467,7 +465,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 95,440 • ❤️ 527 • 17h ago
+⬇️ 95,440 • ❤️ 528 • 18h ago
 
 ---
 
@@ -479,7 +477,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 16,395 • ❤️ 235 • 5d ago
+⬇️ 16,395 • ❤️ 236 • 5d ago
 
 ---
 
@@ -559,7 +557,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 39 • 💬 4 • ⭐ 28,679 • 10mo ago
+▲ 39 • 💬 4 • ⭐ 28,759 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -573,7 +571,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 171 • 💬 10 • ⭐ 48,261 • 9mo ago
+▲ 171 • 💬 10 • ⭐ 48,370 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -612,7 +610,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 59 • 💬 2 • ⭐ 57,844 • 13mo ago
+▲ 59 • 💬 2 • ⭐ 57,876 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -640,7 +638,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 57.7k • 🔱 6.9k • 1h ago
+⭐ 57.7k • 🔱 6.9k • 3h ago
 
 ---
 
@@ -718,7 +716,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.7k • 🔱 127 • 7h ago
+⭐ 1.7k • 🔱 127 • 8h ago
 
 ---
 
@@ -728,7 +726,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.6k • 🔱 179 • 2h ago
+⭐ 1.6k • 🔱 179 • 3h ago
 
 ---
 

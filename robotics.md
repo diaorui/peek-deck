@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T16:39:13.075389+00:00'
+updated: '2026-06-06T18:05:57.204155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 16:39 UTC  
+**Last Updated:** June 06, 2026 at 18:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Posting an update here with simplified PCB and robustness. Mighty Camera runs VIO on-device in a tiny package. But for it to be useful, you need things like mapping (and later occupancy, loop closure etc). Here is a demo of lightweight mapping which uses VIO pose from Mighty and generates a semi-dense map on host-side in realtime. It’s early but this will be part of the SDK along with other goodies.
 
-20h ago
+21h ago
 
 ---
 
@@ -56,7 +56,23 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
 
-2h ago
+3h ago
+
+---
+
+**[Build of IRON FLEET Sherman](https://www.reddit.com/r/robotics/comments/1tyme0q/build_of_iron_fleet_sherman/)**
+
+Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
+
+1h ago
+
+---
+
+**[I built Small Robot Arms from Scratch](https://www.reddit.com/r/robotics/comments/1tyn4yy/i_built_small_robot_arms_from_scratch/)**
+
+I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
+
+🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 45m ago
 
 ---
 
@@ -64,13 +80,13 @@ Sorry for the slow pace of the video, but I figured that seeing each visualizer 
 
 The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
 
-1h ago
+2h ago
 
 ---
 
 **[Help: Robotics Project Ideas for Teenangers](https://www.reddit.com/r/robotics/comments/1tyh439/help_robotics_project_ideas_for_teenangers/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -84,19 +100,7 @@ The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-o
 
 Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
 
-12h ago
-
----
-
-**[reality vs lidar](https://www.reddit.com/r/robotics/comments/1ty52hw/reality_vs_lidar/)**
-
 14h ago
-
----
-
-**[Point-to-point navigation and obstacle avoidance by the slam camera](https://www.reddit.com/r/robotics/comments/1txmfoh/pointtopoint_navigation_and_obstacle_avoidance_by/)**
-
-1d ago
 
 ---
 
@@ -164,17 +168,17 @@ BBC • 2d ago
 
 ---
 
-**[Investors bet humanoid robots will transform industry and homes over the next decade](https://www.cnbc.com/2026/06/03/humanoid-robots-trillion-dollar-ai-market.html)**
-
-“Be ready for it,” said one fund manager who sees enormous opportunities in the space.
-
-CNBC • 3d ago
-
----
-
 **[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
 South China Morning Post • 2d ago
+
+---
+
+**[Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)**
+
+Most underwater robots lose contact with the surface the moment they descend. But a new antenna technology, borrowed from the physics of medical implants, is rethinking how submarine machines talk to each other – and to us.
+
+New Atlas • 4h ago
 
 ---
 
@@ -198,7 +202,7 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 9K • 👍 272 • 💬 28 • ⏱️ 6:04 • 21h ago
+👁️ 9K • 👍 272 • 💬 28 • ⏱️ 6:04 • 23h ago
 
 ---
 
@@ -208,7 +212,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 2.7M • 👍 48K • 💬 5K • ⏱️ 6:01 • 3d ago
+👁️ 2.7M • 👍 48K • 💬 5K • ⏱️ 6:01 • 4d ago
 
 ---
 
@@ -244,7 +248,7 @@ Unitree's G1 humanoid robots made history on the Season 21 premiere of America's
 
 📺 Bigdaddyleo “Bigdaddyleo”
 
-👁️ 37K • 👍 5K • 💬 151 • ⏱️ 0:25 • 16h ago
+👁️ 37K • 👍 5K • 💬 151 • ⏱️ 0:25 • 18h ago
 
 ---
 
@@ -254,7 +258,7 @@ China is building hospitals with technology that looks straight out of a science
 
 📺 Science Universe YT
 
-👁️ 550 • ⏱️ 1:00 • 2h ago
+👁️ 550 • ⏱️ 1:00 • 3h ago
 
 ---
 
@@ -264,7 +268,7 @@ Open Bionics built a bionic hand that detaches and keeps moving on its own. Afte
 
 📺 AzlanX
 
-👁️ 73K • 💬 25 • ⏱️ 0:34 • 20h ago
+👁️ 73K • 💬 25 • ⏱️ 0:34 • 21h ago
 
 ---
 
