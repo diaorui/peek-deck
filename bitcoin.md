@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-06T13:45:17.625651+00:00'
+updated: '2026-06-06T15:16:47.760775+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 13:45 UTC  
+**Last Updated:** June 06, 2026 at 15:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,786.25
+### $60,675.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -17.4%  
-**30d:** -24.1%  
-**90d:** -11.0%  
-**1y:** -42.3%  
+**24h:** -1.3%  
+**7d:** -17.8%  
+**30d:** -24.5%  
+**90d:** -11.4%  
+**1y:** -42.6%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[noooo-](https://www.reddit.com/r/Bitcoin/comments/1tybiel/noooo/)**
+
+6h ago
+
+---
+
 **[The next 6-12 months will be the best opportunity to buy bitcoin we will ever see again in our lifetimes.](https://www.reddit.com/r/Bitcoin/comments/1tyehye/the_next_612_months_will_be_the_best_opportunity/)**
 
 Stack hard and hold on tight. Enjoy!
 
-2h ago
+4h ago
 
 ---
 
@@ -89,13 +95,19 @@ Stack hard and hold on tight. Enjoy!
 
 For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $55k. It’s waiting for a drop that never comes and then watching it run to $100k+ without you.
 
-13h ago
+15h ago
 
 ---
 
-**[noooo-](https://www.reddit.com/r/Bitcoin/comments/1tybiel/noooo/)**
+**[Bitcoin at $66k in 2024 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1tydz9d/bitcoin_at_66k_in_2024_vs_2026/)**
 
-5h ago
+4h ago
+
+---
+
+**[Thanks for dip - finally a full bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1tyg8nt/thanks_for_dip_finally_a_full_bitcoiner/)**
+
+2h ago
 
 ---
 
@@ -103,7 +115,7 @@ For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $5
 
 Im very excited !!! and want it to share it with someone outside my inner circle!!! I have been DCA this last month and finally got my 1.01 btc!!!! It will be worth it!!! Next goal 2.0 btc!!!!!
 
-14h ago
+15h ago
 
 ---
 
@@ -111,25 +123,21 @@ Im very excited !!! and want it to share it with someone outside my inner circle
 
 All of my friends are messaging me that bitcoin is dead! I am so excited for the discount we’re going to get
 
-23h ago
-
----
-
-**[Bitcoin at $66k in 2024 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1tydz9d/bitcoin_at_66k_in_2024_vs_2026/)**
-
-2h ago
-
----
-
-**[Thanks for dip - finally a full bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1tyg8nt/thanks_for_dip_finally_a_full_bitcoiner/)**
-
-1h ago
+1d ago
 
 ---
 
 **[Live footage of your crypto portfolio right now.](https://www.reddit.com/r/Bitcoin/comments/1txvdm6/live_footage_of_your_crypto_portfolio_right_now/)**
 
-17h ago
+19h ago
+
+---
+
+**[So what are everyones plans to buy the dip?](https://www.reddit.com/r/Bitcoin/comments/1tyeee4/so_what_are_everyones_plans_to_buy_the_dip/)**
+
+Im starting to buy the first partials, hopefully it will go down to 50k and 40k and be at new ATH in a year or two. What are your moves?
+
+4h ago
 
 ---
 
@@ -137,15 +145,7 @@ All of my friends are messaging me that bitcoin is dead! I am so excited for the
 
 I see some chatter on here about October being the bottom most likely. But I think that would only be the start of it. The deadline for the final Mt. Gox bitcoin to be returned to creditors is October 31, 2026. Which no doubt they would want to liquidate those coins and finally get their money. Which would cause a further extended crash. I'd imagine between now and then the big players will be trying to exit bitcoin and sell off what they can so they don't get caught in the middle of that storm. That's probably what is going on right now. Something to take into consideration.
 
-18h ago
-
----
-
-**[1 BTC = 1 BTC. Few understand this](https://www.reddit.com/r/Bitcoin/comments/1ty1vlo/1_btc_1_btc_few_understand_this/)**
-
-People keep asking if I’m worried about the price. Why would I be? 1 BTC = 1 BTC. This is a level of financial enlightenment that most people will never achieve. I don’t care about the dollar value. That’s why I only check it 97 times a day. And whenever I get nervous, I simply look at the Bitcoin Rainbow Chart… the world’s most advanced financial model, which mysteriously gets updated every time reality disagrees with it. Price above the rainbow? Bullish. Price below the rainbow? Bullish. Rainbow doesn’t fit anymore? Just move the rainbow. It’s called science. Anyway, while everyone else is worried about the price of Bitcoin. I’ll be over here with my diamond hands waiting for the next Rainbow Chart update to explain why I was right all along. Anways… 1 BTC = 1 BTC Keep calm and stack sats! Only a few understand this! 💎🙌
-
-13h ago
+19h ago
 
 ---
 
@@ -153,45 +153,53 @@ People keep asking if I’m worried about the price. Why would I be? 1 BTC = 1 B
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price crash reveals a surprisingly positive future outcome](https://finance.yahoo.com/markets/crypto/article/bitcoin-price-crash-reveals-a-surprisingly-positive-future-outcome-135353860.html)**
-
-Bitcoin may not stay down for long, if history is any guide.
-
-Yahoo Finance • 23h ago
-
----
-
-**[Are Retail Traders Selling Their Bitcoin to Buy the SpaceX IPO?](https://www.moomoo.com/news/post/71150840/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex)**
-
-Moomoo • 2h ago
-
----
-
-**[Memecoin News: Dogecoin and Shiba Inu Dive 9% as Bitcoin Tests $60,000 — Memecoins Lead the Risk-Off Exodus](https://www.binance.com/hu/square/post/331200130875570)**
-
-Binance • 48m ago
-
----
-
 **[Bitcoin is cratering, but a new Wall Street crypto hype is on the rise](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)**
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-CNBC • 16m ago
+CNBC • 1h ago
+
+---
+
+**[Bitcoin price crash reveals a surprisingly positive future outcome](https://finance.yahoo.com/markets/crypto/article/bitcoin-price-crash-reveals-a-surprisingly-positive-future-outcome-135353860.html)**
+
+Bitcoin may not stay down for long, if history is any guide.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Michael Saylor unveils Bitcoin’s four tribes as the market tumbles](https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win)**
+
+The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success.
+
+CoinDesk • 2h ago
+
+---
+
+**[Strive's CEO Matt Cole Says Strive’s 13% Bitcoin-Backed Yield Product Can Survive A Bear Market](https://finance.yahoo.com/markets/crypto/articles/strives-ceo-matt-cole-says-130755767.html)**
+
+Strategy's recent 32-Bitcoin sale disciplined capital allocation, while adoption of Bitcoin ETFs and digital-credit products remains in its early stages, according to Matt Cole.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin and Its Promises Are Showing Their Age](https://www.bloomberg.com/news/newsletters/2026-06-06/bitcoin-and-its-promises-show-their-age-merryn-talks-money)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[BTC price update: Bitcoin reclaims $61,000 after dipping below $60,000 in an AI-led rout](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)**
+**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)**
 
-Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
+Reuters • 1d ago
 
-CoinDesk • 7h ago
+---
+
+**[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
+
+Barron's • 20h ago
 
 ---
 
@@ -199,13 +207,7 @@ CoinDesk • 7h ago
 
 Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.
 
-The Block • 22h ago
-
----
-
-**[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
-
-Barron's • 19h ago
+The Block • 23h ago
 
 ---
 
@@ -213,13 +215,13 @@ Barron's • 19h ago
 
 The next Bitcoin recovery could be coming sooner than anyone expects.
 
-The Motley Fool • 4h ago
+The Motley Fool • 6h ago
 
 ---
 
 **[Bitcoin Dive Will Hike Strategy's Borrowing Rate To 11.75% — At Least](https://www.investors.com/news/mstr-stock-strategy-shoots-own-foot-bitcoin-dive-will-cost-it-26-mil-a-year/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -243,7 +245,15 @@ Nostr client with other stuff
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
-⬆️ 9 • 💬 1 • 10h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+⬆️ 10 • 💬 1 • 11h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+
+---
+
+**[Bitcoin cracks $60k, sinking to lowest level since October 2024](https://news.ycombinator.com/item?id=48421112)**
+
+The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
+
+⬆️ 7 • 💬 6 • 11h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -252,14 +262,6 @@ Nostr client with other stuff
 Bitcoin is getting pummeled to kick off June as the market loses its dominant narrative and liquidity continues to rotate into other assets.
 
 ⬆️ 7 • 💬 2 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
-
----
-
-**[Bitcoin cracks $60k, sinking to lowest level since October 2024](https://news.ycombinator.com/item?id=48421112)**
-
-The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
-
-⬆️ 6 • 💬 6 • 10h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -275,7 +277,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
-⬆️ 4 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
+⬆️ 5 • 💬 0 • 8h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 
 ---
 
@@ -313,7 +315,7 @@ The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a
 
 📺 Valuetainment
 
-👁️ 48K • 👍 1K • 💬 531 • ⏱️ 10:46 • 18h ago
+👁️ 48K • 👍 1K • 💬 531 • ⏱️ 10:46 • 20h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin just suffered one of its sharpest pullbacks of the cycle, wiping out bil
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 700 • 💬 148 • ⏱️ 10:42 • 17h ago
+👁️ 10K • 👍 700 • 💬 148 • ⏱️ 10:42 • 19h ago
 
 ---
 
@@ -333,7 +335,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 295 • ⏱️ 1:09:01 • 22h ago
+👁️ 31K • 👍 1K • 💬 295 • ⏱️ 1:09:01 • 1d ago
 
 ---
 
@@ -353,7 +355,7 @@ Bitcoin just went below the low from February 2026, confirming the bear market d
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 4K • 💬 222 • ⏱️ 21:54 • 8h ago
+👁️ 49K • 👍 4K • 💬 222 • ⏱️ 21:54 • 10h ago
 
 ---
 
@@ -363,7 +365,7 @@ Crypto Is Done” Michael Saylor Problem EXPLAINED (Don't Be Fooled) 50% deposit
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 236 • ⏱️ 12:01 • 14h ago
+👁️ 37K • 👍 2K • 💬 236 • ⏱️ 12:01 • 16h ago
 
 ---
 
@@ -381,7 +383,7 @@ Bitcoin has fallen to the 200W moving average. What next? Into The Cryptoverse P
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 319 • 💬 7 • ⏱️ 2:11 • 12h ago
+👁️ 5K • 👍 319 • 💬 7 • ⏱️ 2:11 • 13h ago
 
 ---
 
@@ -401,7 +403,7 @@ Why has Bitcoin been struggling while every other asset rips (before today's cor
 
 📺 Coinsider
 
-👁️ 6K • 👍 154 • 💬 82 • ⏱️ 12:54 • 21h ago
+👁️ 6K • 👍 154 • 💬 82 • ⏱️ 12:54 • 22h ago
 
 ---
 
