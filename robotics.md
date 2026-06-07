@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T00:04:49.996416+00:00'
+updated: '2026-06-07T05:07:21.503825+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 00:04 UTC  
+**Last Updated:** June 07, 2026 at 05:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,43 @@ Robotics research and industry news
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-9h ago
+14h ago
+
+---
+
+**[Closed out the "expression engine" phase on my open-source companion robot — voice, synced head/ear motion, and a beating-heart display. Looking for feedback.](https://www.reddit.com/r/robotics/comments/1tz03mu/closed_out_the_expression_engine_phase_on_my/)**
+
+Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
+
+2h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-9h ago
+14h ago
+
+---
+
+**[Headless tool kit for Vive Trackers.](https://www.reddit.com/r/robotics/comments/1tz28ny/headless_tool_kit_for_vive_trackers/)**
+
+First-time poster here. I wanted to share a side project I’ve been working on that may be useful for robotics / research workflows. I built a headless toolkit for VIVE Trackers, which supports VIVE Tracker 3.0, Vive wands and VIVE Ultimate Trackers (SLAM). It streams live pose data over WebSocket, so tracker position / rotation can be used by other applications without needing a HMD. Tool kit also includes an MCP server, so the tracker data can be fed directly into agentic workflows / AI tools. GitHub: https://github.com/nandunabey/VT-Headless-SDK Disclaimer: I do work for VIVE, but this is not an official HTC / VIVE project. This is just a personal side project I built mainly to support a few research groups and to explore what’s possible. I come from more of a Product background than a developer background, so feedback, suggestions would be very welcome.
+
+39m ago
+
+---
+
+**[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
+
+5h ago
+
+---
+
+**[Tele-op visualizers for my robot](https://www.reddit.com/r/robotics/comments/1tyibkb/teleop_visualizers_for_my_robot/)**
+
+Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
+
+14h ago
 
 ---
 
@@ -52,19 +82,11 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 ---
 
-**[Tele-op visualizers for my robot](https://www.reddit.com/r/robotics/comments/1tyibkb/teleop_visualizers_for_my_robot/)**
+**[Thinking about switching from Software Engineering to Mechanical Engineering (Mechatronics & Robotics) is it worth the 6 years?](https://www.reddit.com/r/robotics/comments/1tyyxmp/thinking_about_switching_from_software/)**
 
-Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
+Hey everyone, looking for some genuine opinions here. I’m currently a second-year Software Engineering student in Australia and I’ve been seriously considering switching to Mechanical Engineering with a Mechatronics & Robotics major, followed by a Master of Professional Engineering (Mechatronic). That’s a 4 year undergrad plus 2 year masters A few things I’d love honest input on: Is a Mechanical Engineering degree still worth pursuing in 2026 with AI moving so fast, or will a lot of that work get automated too? For those already working in robotics or mechatronics does your degree actually reflect what you do day to day? Was the Masters worth it or could you have gotten into the industry with just the undergrad? Any regrets about the path you took? Appreciate any input from people actually in the industry or going through something similar.
 
-9h ago
-
----
-
-**[Build of IRON FLEET Sherman](https://www.reddit.com/r/robotics/comments/1tyme0q/build_of_iron_fleet_sherman/)**
-
-Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
-
-7h ago
+3h ago
 
 ---
 
@@ -72,35 +94,15 @@ Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and
 
 The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
 
-8h ago
+13h ago
 
 ---
 
-**[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
+**[Build of IRON FLEET Sherman](https://www.reddit.com/r/robotics/comments/1tyme0q/build_of_iron_fleet_sherman/)**
 
-16m ago
+Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
 
----
-
-**[I built Small Robot Arms from Scratch](https://www.reddit.com/r/robotics/comments/1tyn4yy/i_built_small_robot_arms_from_scratch/)**
-
-I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
-
-🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 6h ago
-
----
-
-**[Help: Robotics Project Ideas for Teenangers](https://www.reddit.com/r/robotics/comments/1tyh439/help_robotics_project_ideas_for_teenangers/)**
-
-10h ago
-
----
-
-**[BB1 Robot shows progress - denial](https://www.reddit.com/r/robotics/comments/1ty6jj6/bb1_robot_shows_progress_denial/)**
-
-Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
-
-20h ago
+12h ago
 
 ---
 
@@ -116,9 +118,9 @@ About Amazon • 2d ago
 
 ---
 
-**[JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth](https://www.reuters.com/business/media-telecom/jp-morgan-upgrades-tesla-neutral-sees-robotics-driving-long-term-growth-2026-06-05/)**
+**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -138,6 +140,14 @@ Shore Daily News • 1d ago
 
 ---
 
+**[Spelman College names renowned roboticist Dr. Ayanna Howard as its 12th president](https://thegrio.com/2026/06/06/spelman-ayanna-howard-12th-president/)**
+
+Spelman College has named Dr. Ayanna Howard, a nationally recognized roboticist and AI leader, as its 12th president.
+
+TheGrio • 12h ago
+
+---
+
 **[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
@@ -148,7 +158,7 @@ Ars Technica • 2d ago
 
 **[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -160,25 +170,17 @@ The Jerusalem Post • 2d ago
 
 ---
 
-**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-sees-robotics-next-051530964.html)**
-
-Nvidia CEO Jensen Huang on Friday said robotics will be South Korea's next major sector, as he arrived for his second visit in seven months, ‌underscoring deepening ties with local firms in not only chips but also robotics and AI factories.  "Because Korea is ‌a manufacturing centre of the world, we can apply the robotics technology, the physical AI technology that we invent here for the industry," he told ​reporters after landing at Gimpo International Airport on a flight from Taiwan.  South Korea is a key Asian manufacturing powerhouse - home to major manufacturers of chips, electronics, cars and ships.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bristol students take top prize in global robotics competition](https://www.bbc.com/news/articles/c3w2ve6wzq9o)**
-
-Two Bristol students were crowned best in the UK in largest global robotics competition in USA.
-
-BBC • 2d ago
-
----
-
 **[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
 South China Morning Post • 2d ago
+
+---
+
+**[J.P. Morgan Turns More Positive on Tesla as Robotics and AI Shape Future Outlook (TSLA)](https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-turns-more-100322884.html)**
+
+J. P. Morgan has upgraded Tesla (NASDAQ:TSLA) to “neutral” from “underweight”, arguing that the company’s market valuation is becoming increasingly tied to its long-term ambitions in autonomous technology and robotics rather than its near-term financial performance.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -192,7 +194,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 52K • 👍 1K • 💬 1K • ⏱️ 2:17 • 9h ago
+👁️ 99K • 👍 2K • 💬 2K • ⏱️ 2:17 • 14h ago
 
 ---
 
@@ -202,7 +204,17 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 16K • 👍 473 • 💬 51 • ⏱️ 15:31 • 2d ago
+👁️ 17K • 👍 479 • 💬 51 • ⏱️ 15:31 • 2d ago
+
+---
+
+**[7 Humanoid Robots That Are Ready To Buy Today!](https://www.youtube.com/watch?v=Jpnxig4ma3k)**
+
+The future isn't coming someday—it's already here. From elder-care companions and factory workers to record-breaking athletic ...
+
+📺 IntelliCore
+
+👁️ 23K • 👍 218 • 💬 13 • ⏱️ 9:14 • 4d ago
 
 ---
 
@@ -212,7 +224,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 2.8M • 👍 50K • 💬 6K • ⏱️ 6:01 • 4d ago
+👁️ 2.9M • 👍 51K • 💬 6K • ⏱️ 6:01 • 4d ago
 
 ---
 
@@ -222,7 +234,7 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 9K • 👍 300 • 💬 31 • ⏱️ 6:04 • 1d ago
+👁️ 10K • 👍 312 • 💬 31 • ⏱️ 6:04 • 1d ago
 
 ---
 
@@ -232,17 +244,27 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 924K • 👍 14K • 💬 1K • ⏱️ 5:01 • 4d ago
+👁️ 992K • 👍 15K • 💬 1K • ⏱️ 5:01 • 4d ago
 
 ---
 
-**[my AI Robot Nexi is now full function and ready to go . esp32s3 and Deepseek Based AI robot by HD](https://www.youtube.com/watch?v=d9iAdeMfu0M)**
+**[The Real-World Robotics Revolution is HERE | Robot.com](https://www.youtube.com/watch?v=2LXY2Qld8dE)**
 
-Meet NEXi – my fully autonomous AI robot ✨ After months of development, coding, testing, and designing, NEXi has reached a ...
+Are robots still a futuristic novelty, or have they officially become critical urban infrastructure? In this episode of The Edge of Show, ...
 
-📺 HD Robotics
+📺 The Edge of Show & Outer Edge
 
-👁️ 698 • 👍 6 • 💬 2 • ⏱️ 1:10 • 6h ago
+👁️ 174K • 👍 63 • ⏱️ 45:36 • 3d ago
+
+---
+
+**[These New AI Robots Just Became TOO POWERFUL… And It’s Getting Weird](https://www.youtube.com/watch?v=5_EEAGDV1aA)**
+
+These AI robots just crossed into territory that feels almost too real — and you need to see this. A robot is now beating skilled ...
+
+📺 The AI Nexus
+
+👁️ 4K • 👍 136 • 💬 8 • ⏱️ 59:14 • 1d ago
 
 ---
 
@@ -252,35 +274,17 @@ Unitree's G1 humanoid robots made history on the Season 21 premiere of America's
 
 📺 sXe Finance
 
-👁️ 69K • 👍 1K • 💬 105 • ⏱️ 0:44 • 1d ago
+👁️ 76K • 👍 1K • 💬 109 • ⏱️ 0:44 • 1d ago
 
 ---
 
-**[Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #robo #sciencproject](https://www.youtube.com/watch?v=5ToxGla0n5U)**
+**[my AI Robot Nexi is now full function and ready to go . esp32s3 and Deepseek Based AI robot by HD](https://www.youtube.com/watch?v=d9iAdeMfu0M)**
 
-Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #robo #sciencproject.
+Meet NEXi – my fully autonomous AI robot ✨ After months of development, coding, testing, and designing, NEXi has reached a ...
 
-📺 EAZYTRONIC
+📺 HD Robotics
 
-👁️ 9K • 👍 116 • ⏱️ 0:27 • 14h ago
-
----
-
-**[Nether Finally Gets A NEW Buff... Devourer Gets MORE HP | War Robots](https://www.youtube.com/watch?v=GgPVeI6hjhs)**
-
-Nether & Devourer got buffed! The rebalance is mostly bad but there are some buffs, including buffs to the Nether and Devourer.
-
-📺 PREDATOR WR
-
-👁️ 12K • 👍 395 • 💬 87 • ⏱️ 15:22 • 1d ago
-
----
-
-**[Humanoid robot kicks child during public demo](https://www.youtube.com/watch?v=PTrCX4Kge1U)**
-
-📺 Brut India
-
-👁️ 109K • 👍 1K • 💬 204 • ⏱️ 0:27 • 1d ago
+👁️ 749 • 👍 7 • 💬 2 • ⏱️ 1:10 • 11h ago
 
 ---
 
