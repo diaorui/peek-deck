@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T11:09:41.432928+00:00'
+updated: '2026-06-07T13:03:22.420224+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 11:09 UTC  
+**Last Updated:** June 07, 2026 at 13:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Closed out the "expression engine" phase on my open-source companion robot — voice, synced head/ear motion, and a beating-heart display. Looking for feedback.](https://www.reddit.com/r/robotics/comments/1tz03mu/closed_out_the_expression_engine_phase_on_my/)**
-
-Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
-
-8h ago
-
----
-
 **[Recent updates & Recruiting sponsors😢🙏](https://www.reddit.com/r/robotics/comments/1tz7hdq/recent_updates_recruiting_sponsors/)**
 
 Hello, I am a 19-year-old dropout developing robots. I started with servo motors and have finally built a quadruped robot using the BLDC + FOC method. I have adopted a 20:1 backdriving reduction system. Currently, I am printing with PLA for testing purposes, and I plan to build it later using Pa12 or a more reinforced material. Also, are there any companies interested in spon1soring me? My development 💸 have run low😢😢, Please feel free to message me! My IG: IMAKEROBOTS__
 
-1h ago
+3h ago
 
 ---
 
-**[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
+**[Closed out the "expression engine" phase on my open-source companion robot — voice, synced head/ear motion, and a beating-heart display. Looking for feedback.](https://www.reddit.com/r/robotics/comments/1tz03mu/closed_out_the_expression_engine_phase_on_my/)**
 
-20h ago
+Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
+
+10h ago
 
 ---
 
@@ -58,33 +52,31 @@ Hello, I am a 19-year-old dropout developing robots. I started with servo motors
 
 Has anyone received IROS results? The results are supposed to be out next week but I see my submission status currently changed to undisclosed, which, as far as I know, this happens usually at the day of sending out the notification. Any idea? Did anyone get any notification?
 
-1h ago
+3h ago
+
+---
+
+**[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
+
+22h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-20h ago
+22h ago
 
 ---
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
 
-1h ago
+3h ago
 
 ---
 
 **[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
 
-11h ago
-
----
-
-**[„Humans self-heal. Robots don’t. Why OR positioning principles matter for your household robot.”](https://www.reddit.com/r/robotics/comments/1tz90hd/humans_selfheal_robots_dont_why_or_positioning/)**
-
-I work as a surgical positioning specialist in an OR. Every day, my job is to make sure patients are positioned correctly during surgery. Wrong positioning = nerve damage, pressure necrosis, joint stress. Even then – the human body can compensate. It regenerates blood flow, heals tissue, adapts. A household robot can’t do any of that. Think about it like a motorcycle or a car: • Store your bike wrong over winter → flat tires, dry seals, dead battery • Wrong tire pressure for months → uneven wear, handling issues • A robot stored or „parked” incorrectly → joint stress, cable fatigue, sensor drift, premature wear Household robots like NEO, Tesla Optimus or LG CLOiD are coming to our homes within the next 2–3 years. They’ll cost $10,000–$20,000+. Nobody is talking about how to store, position and maintain them correctly at home. That’s the gap I’m here to fill – applying 2+ years of OR knowledge to household robotics. Question for the community: Would you trust a $20,000 robot to just „stand in the corner” without thinking about positioning and wear?
-
-14m ago
+13h ago
 
 ---
 
@@ -92,7 +84,7 @@ I work as a surgical positioning specialist in an OR. Every day, my job is to ma
 
 First-time poster here. I wanted to share a side project I’ve been working on that may be useful for robotics / research workflows. I built a headless toolkit for VIVE Trackers, which supports VIVE Tracker 3.0, Vive wands and VIVE Ultimate Trackers (SLAM). It streams live pose data over WebSocket, so tracker position / rotation can be used by other applications without needing a HMD. Tool kit also includes an MCP server, so the tracker data can be fed directly into agentic workflows / AI tools. GitHub: https://github.com/nandunabey/VT-Headless-SDK Disclaimer: I do work for VIVE, but this is not an official HTC / VIVE project. This is just a personal side project I built mainly to support a few research groups and to explore what’s possible. I come from more of a Product background than a developer background, so feedback, suggestions would be very welcome.
 
-6h ago
+8h ago
 
 ---
 
@@ -100,7 +92,15 @@ First-time poster here. I wanted to share a side project I’ve been working on 
 
 Another week of robotics marketing loops versus harsh field realities. In this week's breakdown, we are looking past investor decks to audit the actual friction of automating physical labor. Here is what we are covering in this episode: Figure’s 55/Week Ramp-Up: Production is accelerating, but commercial use cases are still in continuous development. Is scaling ahead of general application a massive capital gamble, or does their package-sorting livestream prove they're ready for structured work? Verobotics at NVIDIA Campus: A massive 100,000 sq ft facade deployment that ended up in a strict 60/40 operational compromise with human window washing crews because of live construction site dust. The 8.1B Parameter Bottleneck: Looking at RLWRLD’s new RLDX-1 model. Why graph optimization and real-time memory bandwidth constraints—not raw compute power—are the real bottlenecks for dexterous robotic hands. Spot's Purely Visual Blind Spots: Boston Dynamics paired Spot with DeepMind’s Gemini 1.6. What a sideways-crushed soda can proves about semantic reasoning models running without tactile force integration. FANUC x Google: Industrial giants bringing physical AI to factory floors, but keeping implementation highly conservative.
 
-🔗 [youtu.be](https://youtu.be/DFJjaNWU7mo) • 2h ago
+🔗 [youtu.be](https://youtu.be/DFJjaNWU7mo) • 4h ago
+
+---
+
+**[Tele-op visualizers for my robot](https://www.reddit.com/r/robotics/comments/1tyibkb/teleop_visualizers_for_my_robot/)**
+
+Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
+
+22h ago
 
 ---
 
@@ -110,7 +110,7 @@ Another week of robotics marketing loops versus harsh field realities. In this w
 
 **[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 3d ago
 
 ---
 
@@ -122,12 +122,6 @@ About Amazon • 3d ago
 
 ---
 
-**[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
-
-The Economist • 51m ago
-
----
-
 **[Scientists in 'autonomous laboratories' are starting to outsource work to robots](https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks)**
 
 Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers' most laborious, time-consuming tasks.
@@ -136,9 +130,25 @@ NPR • 2d ago
 
 ---
 
-**[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
+**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
 
-CT Mirror • 2h ago
+A major state-run mail hub in Guangzhou
+
+Futurism • 23h ago
+
+---
+
+**[Unitree dancing robots that wowed America’s Got Talent are G1 humanoid models, firm tells GT](https://www.globaltimes.cn/page/202606/1362852.shtml)**
+
+Chinese dancing robots have just stolen the show on America's Got Talent. A performance by Chinese dancer Wu Yufei and eight humanoid robots from Unitree Robotics drew a standing ovation on the season premiere of America’s Got Talent, as the synchronized routine to Lady Gaga’s “Abracadabra” captivated judges and viewers alike, according to the Xinhua News Agency.Chinese robotics company Unitree Robotics confirmed to the Global Times on Friday that the robots featured in the performance were its G1 humanoid models.
+
+Global Times • 2d ago
+
+---
+
+**[China can build humanoids at scale. The hard part is finding enough buyers](https://techxplore.com/news/2026-06-china-humanoids-scale-hard-buyers.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -156,27 +166,15 @@ Shore Daily News • 2d ago
 
 ---
 
-**[Unitree dancing robots that wowed America’s Got Talent are G1 humanoid models, firm tells GT](https://www.globaltimes.cn/page/202606/1362852.shtml)**
+**[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
 
-Chinese dancing robots have just stolen the show on America's Got Talent. A performance by Chinese dancer Wu Yufei and eight humanoid robots from Unitree Robotics drew a standing ovation on the season premiere of America’s Got Talent, as the synchronized routine to Lady Gaga’s “Abracadabra” captivated judges and viewers alike, according to the Xinhua News Agency.Chinese robotics company Unitree Robotics confirmed to the Global Times on Friday that the robots featured in the performance were its G1 humanoid models.
-
-Global Times • 1d ago
+CT Mirror • 4h ago
 
 ---
 
-**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
+**[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
 
-A major state-run mail hub in Guangzhou
-
-Futurism • 21h ago
-
----
-
-**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
-
-Robot demonstrations can distort public perceptions of robotic capabilities.
-
-Ars Technica • 2d ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -190,7 +188,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 117K • 👍 2K • 💬 2K • ⏱️ 2:17 • 20h ago
+👁️ 117K • 👍 2K • 💬 2K • ⏱️ 2:17 • 22h ago
 
 ---
 
@@ -260,7 +258,7 @@ Nether & Devourer got buffed! The rebalance is mostly bad but there are some buf
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 402 • 💬 92 • ⏱️ 15:22 • 1d ago
+👁️ 12K • 👍 402 • 💬 92 • ⏱️ 15:22 • 2d ago
 
 ---
 

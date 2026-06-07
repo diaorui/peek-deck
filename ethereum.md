@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T11:09:41.429687+00:00'
+updated: '2026-06-07T13:03:22.417015+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 11:09 UTC  
+**Last Updated:** June 07, 2026 at 13:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
-**7d:** -18.9%  
-**30d:** -30.0%  
-**90d:** -20.2%  
-**1y:** -35.2%  
+**24h:** +3.7%  
+**7d:** -19.4%  
+**30d:** -30.5%  
+**90d:** -20.7%  
+**1y:** -35.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
@@ -176,14 +176,6 @@ Barron's • 2d ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$ $Ethereum (ETH.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-ethereum-eth-cc-116708228923397)**
-
-@Stock_Drift 9342 Views|1 Like
-
-Moomoo • 1h ago
-
----
-
 **[Tom Lee’s BitMine Prices 9.5% Preferred Shares to Fund Ethereum Strategy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-prices-9-192900897.html)**
 
 BitMine Immersion Technologies Inc. (NYSE: $BMNR) priced an upsized preferred stock offering as Tom Lee's Ether...
@@ -196,7 +188,7 @@ Yahoo Finance • 1d ago
 
 Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -204,7 +196,13 @@ CoinDesk • 20h ago
 
 $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 16h ago
+
+---
+
+**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
+
+Crowdfund Insider • 2d ago
 
 ---
 
@@ -212,13 +210,15 @@ $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was 
 
 Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
-**[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
+**[Has Ethereum (ETH) Price Finally Bottomed? Here’s Where It Could Head in June 2026](https://coinpedia.org/price-analysis/has-ethereum-eth-price-finally-bottomed-heres-where-it-could-head-in-june-2026/)**
 
-Crowdfund Insider • 2d ago
+Ethereum has entered a major historical support zone, but bearish momentum and weak technical indicators suggest a confirmed bottom is yet to form.
+
+Coinpedia • 18h ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 26K • 👍 1K • 💬 131 • ⏱️ 21:26 • 19h ago
+👁️ 26K • 👍 1K • 💬 131 • ⏱️ 21:26 • 21h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 11K • 👍 551 • 💬 91 • ⏱️ 21:27 • 8h ago
+👁️ 11K • 👍 551 • 💬 91 • ⏱️ 21:27 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 560 • 💬 74 • ⏱️ 21:23 • 21h ago
+👁️ 14K • 👍 560 • 💬 74 • ⏱️ 21:23 • 23h ago
 
 ---
 
@@ -262,7 +262,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 172 • 💬 37 • ⏱️ 14:13 • 23h ago
+👁️ 6K • 👍 172 • 💬 37 • ⏱️ 14:13 • 1d ago
 
 ---
 
@@ -312,7 +312,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 654 • 💬 91 • ⏱️ 20:54 • 5h ago
+👁️ 3K • 👍 654 • 💬 91 • ⏱️ 20:54 • 7h ago
 
 ---
 
