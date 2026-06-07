@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T19:54:41.489299+00:00'
+updated: '2026-06-07T21:13:45.224270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 19:54 UTC  
+**Last Updated:** June 07, 2026 at 21:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Differential wrist WIP](https://www.reddit.com/r/robotics/comments/1tzd3pw/differential_wrist_wip/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, I am a 19-year-old dropout developing robots. I started with servo motors and have finally built a quadruped robot using the BLDC + FOC method. I have adopted a 20:1 backdriving reduction system. Currently, I am printing with PLA for testing purposes, and I plan to build it later using Pa12 or a more reinforced material. Also, are there any companies interested in spon1soring me? My development 💸 have run low😢😢, Please feel free to message me! My IG: IMAKEROBOTS__
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello, I am a 19-year-old dropout developing robots. I started with servo motors
 
 Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,15 @@ Been building Olaf, a companion robot, in the open for a while now and just clos
 
 Has anyone received IROS results? The results are supposed to be out next week but I see my submission status currently changed to undisclosed, which, as far as I know, this happens usually at the day of sending out the notification. Any idea? Did anyone get any notification?
 
-10h ago
+11h ago
+
+---
+
+**[MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation](https://www.reddit.com/r/robotics/comments/1tzdvfa/motiondisco_motion_discovery_for_extreme_humanoid/)**
+
+https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. This is challenging because the space of possible contact interactions grows combinatorially with the task horizon and the number of objects in the scene.
+
+6h ago
 
 ---
 
@@ -70,15 +78,7 @@ Has anyone received IROS results? The results are supposed to be out next week b
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
 
-10h ago
-
----
-
-**[MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation](https://www.reddit.com/r/robotics/comments/1tzdvfa/motiondisco_motion_discovery_for_extreme_humanoid/)**
-
-https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. This is challenging because the space of possible contact interactions grows combinatorially with the task horizon and the number of objects in the scene.
-
-5h ago
+12h ago
 
 ---
 
@@ -90,13 +90,13 @@ https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionD
 
 **[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
 
-20h ago
+21h ago
 
 ---
 
 **[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -112,19 +112,19 @@ Bloomberg.com • 3d ago
 
 **[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
 
-The Economist • 9h ago
+The Economist • 10h ago
 
 ---
 
 **[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
 
-CT Mirror • 10h ago
+CT Mirror • 12h ago
 
 ---
 
 **[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -136,12 +136,6 @@ NPR • 2d ago
 
 ---
 
-**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
-
-Reuters • 2d ago
-
----
-
 **[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
@@ -150,11 +144,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[New Chinese axial flux motor reaches 18,000 rpm milestone, can be used in EVs and robots](https://interestingengineering.com/ai-robotics/chinese-axial-flux-motor-milestone)**
+**[We hung out with around 100 robots – and here are the bizarre highlights](https://newatlas.com/ai-humanoids/gallery-robots-hong-kong/)**
 
-A research team in China says it has developed a high-performance axial flux motor capable of exceeding 18,000 rpm and achieving a power density of 25.73 kW/kg.
+Humanoids may be winning marathons and getting factory jobs, but after spending a few days with around 100 different robots of all shapes and sizes, one thing was clear: There's a chasm separating viral demonstration video and reality.
 
-Interesting Engineering • 17h ago
+New Atlas • 1h ago
 
 ---
 
@@ -166,11 +160,17 @@ Futurism • 1d ago
 
 ---
 
-**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
+**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
 
-Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
+Reuters • 2d ago
 
-About Amazon • 3d ago
+---
+
+**[New Chinese axial flux motor reaches 18,000 rpm milestone, can be used in EVs and robots](https://interestingengineering.com/ai-robotics/chinese-axial-flux-motor-milestone)**
+
+A research team in China says it has developed a high-performance axial flux motor capable of exceeding 18,000 rpm and achieving a power density of 25.73 kW/kg.
+
+Interesting Engineering • 19h ago
 
 ---
 
@@ -194,17 +194,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 133K • 👍 3K • 💬 2K • ⏱️ 2:17 • 1d ago
-
----
-
-**[Early Release: Unitree’s Robots Leave Simon Cowell SPEECHLESS! | Auditions | AGT 2026](https://www.youtube.com/watch?v=y7ojRmPxqNg)**
-
-Unitree has waited years to show the world something new, and the result is one of the wildest acts of the season. The judges ...
-
-📺 America's Got Talent
-
-👁️ 3.0M • 👍 53K • 💬 6K • ⏱️ 6:01 • 5d ago
+👁️ 144K • 👍 3K • 💬 3K • ⏱️ 2:17 • 1d ago
 
 ---
 
@@ -214,7 +204,17 @@ The future isn't coming someday—it's already here. From elder-care companions 
 
 📺 IntelliCore
 
-👁️ 24K • 👍 222 • 💬 13 • ⏱️ 9:14 • 4d ago
+👁️ 24K • 👍 222 • 💬 13 • ⏱️ 9:14 • 5d ago
+
+---
+
+**[Early Release: Unitree’s Robots Leave Simon Cowell SPEECHLESS! | Auditions | AGT 2026](https://www.youtube.com/watch?v=y7ojRmPxqNg)**
+
+Unitree has waited years to show the world something new, and the result is one of the wildest acts of the season. The judges ...
+
+📺 America's Got Talent
+
+👁️ 3.1M • 👍 54K • 💬 6K • ⏱️ 6:01 • 5d ago
 
 ---
 
@@ -224,25 +224,15 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 5:01 • 5d ago
+👁️ 1.2M • 👍 17K • 💬 1K • ⏱️ 5:01 • 5d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=1bsJVYGiNPw)**
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=CySmfsE6xKA)**
 
-📺 Robot Julie 
+📺 Borunte julie 
 
-👁️ 29K • 👍 103 • 💬 2 • ⏱️ 0:25 • 1d ago
-
----
-
-**[China&#39;s BANNED Robots Just STUNNED America&#39;s Got Talent #news #technology #china #robot](https://www.youtube.com/watch?v=fVvKiriKOFk)**
-
-Unitree's G1 humanoid robots made history on the Season 21 premiere of America's Got Talent, taking the stage alongside ...
-
-📺 sXe Finance
-
-👁️ 84K • 👍 2K • 💬 116 • ⏱️ 0:44 • 2d ago
+👁️ 33K • 👍 137 • 💬 1 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -252,7 +242,25 @@ Unitree amazed the audience on America's Got Talent with an incredible robot dan
 
 📺 The Construct Robotics Institute
 
-👁️ 50K • 👍 906 • 💬 121 • ⏱️ 5:12 • 2d ago
+👁️ 54K • 👍 933 • 💬 126 • ⏱️ 5:12 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=1bsJVYGiNPw)**
+
+📺 Robot Julie 
+
+👁️ 32K • 👍 104 • 💬 2 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[China&#39;s BANNED Robots Just STUNNED America&#39;s Got Talent #news #technology #china #robot](https://www.youtube.com/watch?v=fVvKiriKOFk)**
+
+Unitree's G1 humanoid robots made history on the Season 21 premiere of America's Got Talent, taking the stage alongside ...
+
+📺 sXe Finance
+
+👁️ 86K • 👍 2K • 💬 118 • ⏱️ 0:44 • 2d ago
 
 ---
 
@@ -262,17 +270,7 @@ Nether & Devourer got buffed! The rebalance is mostly bad but there are some buf
 
 📺 PREDATOR WR
 
-👁️ 13K • 👍 412 • 💬 94 • ⏱️ 15:22 • 2d ago
-
----
-
-**[MINI &quot;ROCKING&quot; ROBOT GUITARIST!! #robotics #humanoid #robot #ai #robotmaxxing](https://www.youtube.com/watch?v=V5OsriAQBYY)**
-
-For more information on purchasing the right Humanoid or Quadruped Robot for you - contact us on : robert@robotist.com.au.
-
-📺 6PACKB450
-
-👁️ 39K • 👍 163 • 💬 1 • ⏱️ 0:09 • 4d ago
+👁️ 13K • 👍 412 • 💬 95 • ⏱️ 15:22 • 2d ago
 
 ---
 

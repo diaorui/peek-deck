@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-07T19:54:41.471483+00:00'
+updated: '2026-06-07T21:13:45.207773+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 07, 2026 at 19:54 UTC  
+**Last Updated:** June 07, 2026 at 21:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 it turns into some unfinished project lying in some GitHub private repo lol
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ it turns into some unfinished project lying in some GitHub private repo lol
 
 I have been experimenting with LLMs to see how well they navigate highly cross-referenced texts like the Bible. Standard models often hallucinate verses or lose historical context. To try and fix this, I built a free app called Biblians (no ads, no paywalls). I built it specifically for people who have questions they might hesitate to ask in person, or who simply want a 1-click way to explain a verse. While testing it, I discovered a fascinating denominational bias that is still lingering and changes depending entirely on the language you use: In English: It is Protestant-leaning. It praises Luther, saying things like, "Martin Luther sought to return the Church to the truth of God's Word." In Spanish, French, or Portuguese: It is Catholic-leaning. It condemns Luther's actions, stating: "...trajo confusión..." (...brought confusion...). Has anyone else noticed how drastically the training data changes the core bias based on the language prompted? I would love for this community to test the app, look for other linguistic biases, or just try to break the AI's logic. You can experiment with it here: https://play.google.com/store/apps/details?id=com.biblians.app Let me know what weird outputs you get!
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ I have been experimenting with LLMs to see how well they navigate highly cross-r
 
 Been experimenting with AI-generated UGC. This whole clip — the face, the voice, the walk — is generated (I used omnigems.ai). No camera, no actor. What surprised me is the "tells" are mostly gone now if you keep the lighting candid (no studio polish), add real skin texture, and let there be natural micro-motion. Studio-perfect is what reads as fake; messy/handheld reads as real. Posting because I'm curious where this community draws the line: is AI UGC fair game for ads, or does \undisclosed** AI cross into sketchy territory? Happy to share the exact workflow if it's useful to anyone.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Been experimenting with AI-generated UGC. This whole clip — the face, the voic
 
 For enterprise AI/security teams, what would make AI SPM useful rather than just another category label? Is the important part AI asset inventory data access mapping, agent permissions, prompt/data monitoring, policy enforcement or something else?
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ For enterprise AI/security teams, what would make AI SPM useful rather than just
 
 With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.
 
-🔗 [404 Media](https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/) • 47m ago
+🔗 [404 Media](https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/) • 2h ago
 
 ---
 
@@ -81,15 +81,7 @@ With some fans making sexualized AI-generated images and videos of idols, the re
 
 so i kept using chatgpt to ask questions about my pdfs and notes, and half the time i couldn't tell if it actually read the doc or just made something up that sounded right. that bugged me enough to build my own thing over the last few weeks. you upload a pdf (or word, csv, image, or just paste a link), ask whatever you want, and it answers using only what's in your file - and it shows the exact page it pulled the answer from, so you can check. if the answer isn't in the doc, it just tells you instead of guessing. stuff i actually end up using: flip on web search when i want it to look something up online instead one click to turn a doc into a summary / key points / flashcards (this is clutch for studying) resume review + cover letter help you can talk to it and it reads the answer back it's completely free, i'm not selling anything. honestly just want people to break it and tell me what's missing. link: https://athena-wisdom.vercel.app (there's a short guide on the site too if you get stuck) solo project so be gentle lol - but real feedback is what i'm after, especially what you'd want it to do next.
 
-7h ago
-
----
-
-**[Are AI video tools solving the wrong part of the filmmaking process?](https://www.reddit.com/r/artificial/comments/1tzjy3b/are_ai_video_tools_solving_the_wrong_part_of_the/)**
-
-I've been spending a lot of time experimenting with AI filmmaking tools lately, and I've noticed something that feels a bit odd. Most AI video tools seem to be built around generating clips: Text → Video Image → Video Start Frame → End Frame But when I think about how films are actually made, the process usually starts with: Screenplay → Characters → Locations → Storyboard → Shots → Film It feels like there's a gap between how filmmakers think about projects and how AI video tools are currently designed. For example, while working on my ai video, I don't really think in terms of generating isolated clips. I'm thinking about scenes, character continuity, locations, visual references, storyboards, and how everything fits together. Maybe I'm wrong, but it sometimes feels like AI tools are optimizing for clip generation while filmmakers are optimizing for story development and visual planning. Do others here feel the same way? How are you currently bridging the gap between screenplay and AI-generated video?
-
-1h ago
+8h ago
 
 ---
 
@@ -105,15 +97,21 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working because of some reason or other. But it was my baby as is housed in a lovely Soprano DX silver brushed case. SO, I swapped out the old HDD for a couple of SSDs (a couple of mirrored OS disks and a large 2TB storage disk) I swapped out the Nvidia 780ti graphics card for a couple of OG Nvidia 1080ti's. I pulled the whole thing to bits.. repasted the northbridge chip, southbridge chip and central CPU. Upgraded the fans to push pull the CPU heatsink. Wrapped ALL cables in mesh and it's so lovely now. Installed Windows 10 Pro. Installed the Nvidia App. Installed CrystalDiskInfo and all is sweet 😄 EXCEPT... I'd like to use this old bangin box for an HG AI server... now I have read that ALL LLMs need this thing called AVX (Advanced Vector Extensions) I didn't even know that was a THING! So even though I have 22Gb worth of GPU sitting there that I was going to point everything to, because I have a lame ass QX6700 CPU sitting on a kickass D975XBX2 (BadAxe2) main board I CAN NOT fulfill my wish for this OG box to be a headless source of awesomeness sitting in it's home under my desk supplying me with a home grown AI. IS THERE ANYTHING I CAN DO?!?!?! Surely after all this time of parts getting munched by AI farms a plenty people have been using what's around to do what they will... Does anyone know of anything I can do apart from just look at it running at 25 degrees aircooled humming along so lovely... it NEEDS purpose!!! 😄 Cheers and thanks all NB
 
-4h ago
+6h ago
 
 ---
 
-**[ChatGPT has a different personality when you're paying for it.](https://www.reddit.com/r/artificial/comments/1tzjsb5/chatgpt_has_a_different_personality_when_youre/)**
+**[Asking LLM AI for feedback on your body or appearance, would it be honest?](https://www.reddit.com/r/artificial/comments/1tznrgm/asking_llm_ai_for_feedback_on_your_body_or/)**
 
-I too have a different personality when you're paying for me
+If someone asked one of the know AI chats for feedback on body, would it be honest or be supportive only
 
-1h ago
+19m ago
+
+---
+
+**[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
+
+1d ago
 
 ---
 
@@ -125,43 +123,69 @@ I too have a different personality when you're paying for me
 
 Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding
 
-The Guardian • 8h ago
+The Guardian • 10h ago
 
 ---
 
-**[Inside Apple’s Secret Meeting That Led It to Finally Take AI Seriously](https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27)**
+**[‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late](https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[AI-designed universal vaccine clears first human trial, targets future coronavirus threats with needle-free delivery](https://medicalxpress.com/news/2026-06-ai-universal-vaccine-human-trial.html)**
-
-Medical Xpress • 34m ago
+Politico • 10h ago
 
 ---
 
-**[Can AI undermine the capacities that make human empowerment possible?](https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-empowerment-paradox)**
+**[Sega Confirms And Responds To Generative AI Content In New Crazy Taxi Game](https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game)**
 
-AI doesn't just answer our questions, it may replace the struggle that once made us capable of asking better ones.
+"Generative AI was used to support our teams during the development of background assets for 'Crazy Taxi: World Tour'," Sega confirms.
 
-Psychology Today • 56m ago
-
----
-
-**['A splash of cold water': Wall Street gauges pause in AI trade](https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html)**
-
-Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.
-
-Yahoo Finance • 8h ago
+Game Informer • 1h ago
 
 ---
 
-**[The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)**
+**[Crazy Taxi: World Tour uses generative AI during development](https://nintendoeverything.com/crazy-taxi-world-tour-uses-generative-ai-during-development/)**
 
-A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
+You can add Crazy Taxi: World Tour to the lineup of games that’s using generative AI during development. That piece of information comes from the game’s official Steam page. SEGA just announced the game, and in the description on the store page, it includes a note about AI usage. SEGA describes its implementation as follows: “At SEGA Corporation, we utilize...
 
-Forbes • 9h ago
+Nintendo Everything • 1h ago
+
+---
+
+**[Why Do You Need Generative AI To Make Crazy Taxi?](https://kotaku.com/why-do-you-need-generative-ai-to-make-crazy-taxi-2000703713)**
+
+Answer: You don't!
+
+Kotaku • 2h ago
+
+---
+
+**[Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)**
+
+We're likely to see more price increases as the big AI companies plan to go public.
+
+TechCrunch • 47m ago
+
+---
+
+**[2 Millionaire-Maker AI Stocks to Hold for the Next Decade](https://www.fool.com/investing/2026/06/07/2-millionaire-maker-ai-stocks-to-hold-for-the-next/)**
+
+These two tickers are about to be the next AI headline stocks.
+
+The Motley Fool • 3h ago
+
+---
+
+**[TSMC Nvidia AI Partnership Puts Factory Efficiency And Valuation In Focus](https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-ai-partnership-puts-200726215.html)**
+
+TSMC (NYSE:TSM) and Nvidia announced a wide-ranging partnership to apply AI and accelerated computing across TSMC's semiconductor manufacturing operations. The agreement covers areas such as lithography, defect detection, and factory and production optimization within TSMC's fabs. The partnership extends the existing customer supplier relationship into a broader collaboration focused on AI driven chipmaking processes. For you as an investor, this matters because TSMC is a key contract chip...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could 'Last for Years'](https://247wallst.com/investing/2026/06/07/nvidia-and-sk-hynix-to-partner-as-jensen-huang-warns-memory-shortage-could-last-for-years/)**
+
+The AI infrastructure buildout is still running faster than the physical chips required to support it. Across hyperscalers, chip designers, and memory manufacturers, capital spending is surging, yet supply chains remain pinned by one stubborn constraint: high-bandwidth memory.  Demand tied to training and inference workloads continues to rise in waves, not increments, and each wave ... Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could ‘Last for Years’
+
+24/7 Wall St. • 5h ago
 
 ---
 
@@ -169,29 +193,7 @@ Forbes • 9h ago
 
 When Lip-Bu Tan took the helm of Intel in March 2025, the company was in desperate need of a turnaround.
 
-CNN • 2h ago
-
----
-
-**[‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late](https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786)**
-
-Politico • 8h ago
-
----
-
-**[My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.](https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6)**
-
-A Miami home seller is open to accepting shares in OpenAI, Anthropic, or SpaceX as payment, reflecting a trend in investment strategy.
-
-Business Insider • 11h ago
-
----
-
-**[AI Can Further, Not Replace, Human Relationships, Elder Gong Teaches in New Vid](https://newsroom.churchofjesuschrist.org/article/ai-can-further-not-replace-human-relationships-elder-gong-teaches-in-new-video)**
-
-In a new Church video about AI, Elder Geritt W. Gong explores “how to hear God’s voice clearly in an age of artificial intelligence, and why that distinction matters more now than ever.”
-
-newsroom.churchofjesuschrist.org • 5h ago
+CNN • 4h ago
 
 ---
 
@@ -203,21 +205,13 @@ newsroom.churchofjesuschrist.org • 5h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 677 • 💬 244 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
-
----
-
-**[Anthropic's open-source framework for AI-powered vulnerability discovery](https://news.ycombinator.com/item?id=48403980)**
-
-Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness
-
-⬆️ 533 • 💬 141 • 2d ago • [GitHub](https://github.com/anthropics/defending-code-reference-harness)
+⬆️ 681 • 💬 245 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 434 • 💬 723 • 1d ago
+⬆️ 436 • 💬 730 • 1d ago
 
 ---
 
@@ -247,13 +241,13 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 218 • 💬 100 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 221 • 💬 100 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
 **[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
 
-⬆️ 182 • 💬 101 • 1d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 182 • 💬 101 • 2d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 
 ---
 
@@ -271,9 +265,45 @@ Safeguards must be in place before forces automate justice tasks, says head of P
 
 ---
 
+**[US House lawmakers release draft bill to prohibit state AI rules](https://news.ycombinator.com/item?id=48425031)**
+
+⬆️ 127 • 💬 91 • 1d ago • [reuters.com](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
+
+**[JD Vance Tells Grads To Shut Up And Love AI](https://www.youtube.com/watch?v=WUieecrlQhU)**
+
+Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
+
+📺 The Majority Report w/ Sam Seder
+
+👁️ 39K • 👍 2K • 💬 300 • ⏱️ 10:05 • 5h ago
+
+---
+
+**[The Best FREE AI Just Got Unlocked (No Limits)](https://www.youtube.com/watch?v=9zr3hXKq4Pc)**
+
+Try Higgsfield Supercomputer and build with AI agents here → https://higgsfield.ai/s/supercomputer-malvaai-jiSEqg Free ...
+
+📺 Malva AI
+
+👁️ 4K • 👍 265 • 💬 29 • ⏱️ 20:02 • 10h ago
+
+---
+
+**[AI Bros are Going BROKE...](https://www.youtube.com/watch?v=mu7mfhflVPQ)**
+
+AI is unprofitable. Companies are shoveling TRILLIONS into AI and only Nvidia is turning any kind of a profit... selling GPUs to the ...
+
+📺 Clownfish TV
+
+👁️ 21K • 👍 2K • 💬 471 • ⏱️ 15:08 • 9h ago
+
+---
 
 **[Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](https://www.youtube.com/watch?v=CzxqQJOswvo)**
 
@@ -281,17 +311,7 @@ HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more
 
 📺 AI Search
 
-👁️ 64K • 👍 3K • 💬 293 • ⏱️ 49:09 • 16h ago
-
----
-
-**[The AI Bubble Is On The Verge Of Collapse](https://www.youtube.com/watch?v=3veJfsXS1Ks)**
-
-MY PATREON – My Portfolio, My Trades, Deep Dives, Q&A, Community: https://www.patreon.com/jerryromine FREE: The ...
-
-📺 Jerry Romine Stocks
-
-👁️ 11K • 👍 1K • 💬 181 • ⏱️ 13:38 • 7h ago
+👁️ 71K • 👍 3K • 💬 306 • ⏱️ 49:09 • 17h ago
 
 ---
 
@@ -301,37 +321,17 @@ Google DeepMind just released Gemma 4 12B, a new AI model that completely change
 
 📺 Better Stack
 
-👁️ 26K • 👍 1K • 💬 82 • ⏱️ 11:02 • 18h ago
+👁️ 30K • 👍 1K • 💬 84 • ⏱️ 11:02 • 20h ago
 
 ---
 
-**[Anthropic Just Warned Everyone About Claude (It’s Evolving)](https://www.youtube.com/watch?v=JlwwyNtHsCI)**
+**[The AI bubble is finally Collapsing…They are running out of money](https://www.youtube.com/watch?v=9vvFz7D5y-M)**
 
-Anthropic just published a major warning about AI self-improvement, and the numbers behind it are hard to ignore. Claude is now ...
+Claim your free 1-on-1 investment consultation: https://theproactivethinker.com/ The Investing Academy: ...
 
-📺 AI Revolution
+📺 Proactive Thinker
 
-👁️ 71K • 👍 2K • 💬 321 • ⏱️ 17:13 • 1d ago
-
----
-
-**[How Big Tech Lies About AI Layoffs](https://www.youtube.com/watch?v=08uMw4_BWOA)**
-
-The "AI is taking our jobs" narrative is apparently a massive corporate cover-up. Big companies aren't laying off thousands of ...
-
-📺 Matt Wolfe
-
-👁️ 362 • 👍 18 • 💬 1 • ⏱️ 1:06 • 2h ago
-
----
-
-**[The Future of AI Might Be Underwater 😳🌊🤖lvl](https://www.youtube.com/watch?v=VMTylFSpBhk)**
-
-What sounds like science fiction is already happening beneath the ocean surface. China has deployed a massive underwater ...
-
-📺 CosmicIn60
-
-👁️ 44K • 💬 113 • ⏱️ 0:09 • 2d ago
+👁️ 5K • 👍 237 • 💬 49 • ⏱️ 11:35 • 13h ago
 
 ---
 
@@ -341,35 +341,37 @@ You've probably heard that the artificial intelligence revolution is running out
 
 📺 The Infographics Show
 
-👁️ 306K • 👍 7K • 💬 1K • ⏱️ 19:55 • 1d ago
+👁️ 312K • 👍 7K • 💬 1K • ⏱️ 19:55 • 1d ago
 
 ---
 
-**[The AI Bubble Is Starting To Pop...](https://www.youtube.com/watch?v=qM0BWixY09w)**
+**[Anthropic Just Warned Everyone About Claude (It’s Evolving)](https://www.youtube.com/watch?v=JlwwyNtHsCI)**
 
-SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
+Anthropic just published a major warning about AI self-improvement, and the numbers behind it are hard to ignore. Claude is now ...
 
-📺 YongYea
+📺 AI Revolution
 
-👁️ 191K • 👍 7K • 💬 2K • ⏱️ 17:22 • 2d ago
-
----
-
-**[Anthropic calls for global pause in AI development](https://www.youtube.com/watch?v=joZ4Esutu9w)**
-
-The artificial intelligence company's warns that we need to pause development before AI can build itself and humans lose control ...
-
-📺 ABC News
-
-👁️ 95K • 👍 2K • 💬 661 • ⏱️ 4:00 • 1d ago
+👁️ 73K • 👍 2K • 💬 325 • ⏱️ 17:13 • 1d ago
 
 ---
 
-**[Real Vs AI @NickDiGiovanni @albert_cancook #ai](https://www.youtube.com/watch?v=bY9CAAF3pEQ)**
+**[How to use Google OMNI 🤯 VERY EASY 🔥Create Viral AI Videos Free #ai #omni](https://www.youtube.com/watch?v=UHE2UoDnLVg)**
 
-📺 Patrick Zeinali
+sandeepGoswami #LipSyncAI #geminiomni #GoogleOmni Gemini Omni Video Generator | Make FREE AI Videos (Dialogues + ...
 
-👁️ 4.2M • 👍 120K • 💬 1K • ⏱️ 0:29 • 2d ago
+📺 Sandeep Goswami
+
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 20:04 • 1d ago
+
+---
+
+**[How Big Tech Lies About AI Layoffs](https://www.youtube.com/watch?v=08uMw4_BWOA)**
+
+The "AI is taking our jobs" narrative is apparently a massive corporate cover-up. Big companies aren't laying off thousands of ...
+
+📺 Matt Wolfe
+
+👁️ 3K • 👍 138 • 💬 10 • ⏱️ 1:06 • 3h ago
 
 ---
 
@@ -385,7 +387,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 115,556 • ❤️ 1,507 • 11d ago
+⬇️ 115,556 • ❤️ 1,518 • 11d ago
 
 ---
 
@@ -397,7 +399,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 434,969 • ❤️ 672 • 3d ago
+⬇️ 434,969 • ❤️ 682 • 3d ago
 
 ---
 
@@ -409,7 +411,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 568,158 • ❤️ 440 • 2d ago
+⬇️ 568,158 • ❤️ 445 • 2d ago
 
 ---
 
@@ -421,7 +423,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 99,655 • ❤️ 402 • 3d ago
+⬇️ 99,655 • ❤️ 404 • 3d ago
 
 ---
 
@@ -433,7 +435,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 4,377 • ❤️ 333 • 4d ago
+⬇️ 4,377 • ❤️ 341 • 4d ago
 
 ---
 
@@ -445,7 +447,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 162,822 • ❤️ 717 • 17d ago
+⬇️ 162,822 • ❤️ 718 • 17d ago
 
 ---
 
@@ -457,7 +459,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,923,564 • ❤️ 1,510 • 1mo ago
+⬇️ 2,923,564 • ❤️ 1,514 • 1mo ago
 
 ---
 
@@ -469,19 +471,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 16,924 • ❤️ 248 • 6d ago
-
----
-
-**[LFM2.5-8B-A1B](https://huggingface.co/LiquidAI/LFM2.5-8B-A1B)**
-
-*Liquid AI*
-
-LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device deployment, offering compressed performance and unmatched throughput on CPU/GPU. It excels at agentic workflows, tool use, and multilingual tasks, supporting a context length of 131,072 tokens.
-
-`text-generation` `8.5B`
-
-⬇️ 118,326 • ❤️ 538 • 1d ago
+⬇️ 16,924 • ❤️ 249 • 6d ago
 
 ---
 
@@ -493,7 +483,19 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 3,844 • ❤️ 227 • 3d ago
+⬇️ 3,844 • ❤️ 232 • 3d ago
+
+---
+
+**[LFM2.5-8B-A1B](https://huggingface.co/LiquidAI/LFM2.5-8B-A1B)**
+
+*Liquid AI*
+
+LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device deployment, offering compressed performance and unmatched throughput on CPU/GPU. It excels at agentic workflows, tool use, and multilingual tasks, supporting a context length of 131,072 tokens.
+
+`text-generation` `8.5B`
+
+⬇️ 118,326 • ❤️ 539 • 1d ago
 
 ---
 
@@ -521,7 +523,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 15 • 💬 1 • ⭐ 81,097 • 5d ago
+▲ 15 • 💬 1 • ⭐ 81,243 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -535,7 +537,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 91 • 💬 1 • ⭐ 9,619 • 6d ago
+▲ 91 • 💬 1 • ⭐ 9,619 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -549,7 +551,7 @@ Cosmos 3 is an omnimodal world model that processes and generates multiple data 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 221 • 💬 3 • ⭐ 5,297 • 16d ago
+▲ 221 • 💬 3 • ⭐ 5,297 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -594,6 +596,19 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 79 • 💬 7 • ⭐ 76,133 • 22mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -606,19 +621,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 79 • 💬 7 • ⭐ 76,075 • 22mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
 **[GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://huggingface.co/papers/2606.05160)**
 
 *Tianyi Xie, Haotian Zhang, Jinhyung Park et al. (20 authors)*
@@ -627,7 +629,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 GRAIL generates diverse humanoid manipulation and locomotion data through 3D asset composition and video foundation models, enabling effective sim-to-real transfer for robot control.
 
-▲ 7 • 💬 1 • ⭐ 216 • 4d ago
+▲ 7 • 💬 1 • ⭐ 216 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.05160) • [💻 code](https://github.com/NVlabs/GRAIL) • [🔗 project](https://research.nvidia.com/labs/dair/grail/)
 
@@ -643,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 61.0k • 🔱 7.4k • 2h ago
+⭐ 61.4k • 🔱 7.4k • 25m ago
 
 ---
 
@@ -661,7 +663,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.6k • 🔱 748 • 4d ago
+⭐ 3.6k • 🔱 747 • 4d ago
 
 ---
 
@@ -701,7 +703,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 176 • 4h ago
+⭐ 2.1k • 🔱 178 • 5h ago
 
 ---
 
@@ -711,7 +713,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.0k • 🔱 222 • 16h ago
+⭐ 2.0k • 🔱 226 • 17h ago
 
 ---
 
@@ -721,7 +723,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.8k • 🔱 136 • 3h ago
+⭐ 1.8k • 🔱 137 • 5h ago
 
 ---
 
@@ -731,7 +733,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 133 • 2d ago
+⭐ 1.8k • 🔱 133 • 3d ago
 
 ---
 

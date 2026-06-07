@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T19:54:41.486115+00:00'
+updated: '2026-06-07T21:13:45.221345+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 19:54 UTC  
+**Last Updated:** June 07, 2026 at 21:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** -19.3%  
-**30d:** -30.4%  
-**90d:** -20.6%  
-**1y:** -35.5%  
+**24h:** +4.6%  
+**7d:** -18.6%  
+**30d:** -29.8%  
+**90d:** -19.9%  
+**1y:** -35.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $196.86B
+**Market Cap:** $196.10B
 Rank #2
 
 **Circulating Supply:** 120,684,518 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.0%
+-67.1%
 
 **All-Time Low:** $0.43
-+376832.8%
++375661.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 1h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -164,17 +164,39 @@ The Block • 1d ago
 
 ---
 
-**[$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income](https://finance.yahoo.com/markets/crypto/articles/10-000-grayscale-ethereum-staking-220053280.html)**
+**[Ethereum Utility Debate Grows As Adoption Expands](https://www.binance.com/en/square/post/331639114861266)**
 
-A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
+Binance • 2h ago
 
-Yahoo Finance • 21h ago
+---
+
+**[1 Unstoppable Crypto to Buy Before It Soars 3,000%, According to Wall Street's Tom Lee](https://finance.yahoo.com/markets/crypto/articles/1-unstoppable-crypto-buy-soars-154700628.html)**
+
+The world's second-biggest cryptocurrency could be on the verge of a major breakout.
+
+Yahoo Finance • 5h ago
 
 ---
 
 **[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
 
 Barron's • 3d ago
+
+---
+
+**[$10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600](https://247wallst.com/investing/2026/06/06/10000-in-etht-became-7731-in-one-day-as-ethereum-cracked-below-1600/)**
+
+$10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
+
+24/7 Wall St. • 1d ago
+
+---
+
+**['Cancerous' Altcoins And A Struggling Ethereum Could Drag Bitcoin To $38,000, Gary Cardone Warns](https://www.tradingview.com/news/stocktwits:c58034a91094b:0-cancerous-altcoins-and-a-struggling-ethereum-could-drag-bitcoin-to-38-000-gary-cardone-warns/)**
+
+Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
+
+TradingView • 12h ago
 
 ---
 
@@ -186,19 +208,9 @@ Coinpedia • 1d ago
 
 ---
 
-**['Cancerous' Altcoins And A Struggling Ethereum Could Drag Bitcoin To $38,000, Gary Cardone Warns](https://www.tradingview.com/news/stocktwits:c58034a91094b:0-cancerous-altcoins-and-a-struggling-ethereum-could-drag-bitcoin-to-38-000-gary-cardone-warns/)**
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
-
-TradingView • 10h ago
-
----
-
-**[$10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600](https://247wallst.com/investing/2026/06/06/10000-in-etht-became-7731-in-one-day-as-ethereum-cracked-below-1600/)**
-
-$10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
-
-24/7 Wall St. • 23h ago
+富途牛牛 • 1d ago
 
 ---
 
@@ -206,21 +218,7 @@ $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was 
 
 Over 343,075 ETH worth $547M faces liquidation risk across DeFi protocols like Maker and Aave V3, with thresholds clustered between $1,362 and $1,566.
 
-Crypto Briefing • 21h ago
-
----
-
-**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
-
-BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
-
-Decrypt • 2d ago
-
----
-
-**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
-
-富途牛牛 • 1d ago
+Crypto Briefing • 22h ago
 
 ---
 
@@ -228,13 +226,13 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETH Is Entering a New Era and It’s Getting Messy](https://www.youtube.com/watch?v=HAAhbq_lefc)**
+**[Ethereum’s Future Just Took a Sharp Turn](https://www.youtube.com/watch?v=HAAhbq_lefc)**
 
 Ethereum's founder just made his most dramatic announcement yet: foundation downsizing, less ETH selling, and a personal step ...
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 368 • 💬 30 • ⏱️ 16:49 • 6h ago
+👁️ 9K • 👍 480 • 💬 42 • ⏱️ 16:49 • 8h ago
 
 ---
 
@@ -244,7 +242,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 685 • 👍 43 • 💬 37 • ⏱️ 16:40 • 6h ago
+👁️ 1K • 👍 65 • 💬 39 • ⏱️ 16:40 • 8h ago
 
 ---
 
@@ -254,7 +252,7 @@ In today's video, Chief Market Strategist Gareth Soloway dives deep into the rec
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 3K • 💬 286 • ⏱️ 15:17 • 6h ago
+👁️ 53K • 👍 4K • 💬 326 • ⏱️ 15:17 • 7h ago
 
 ---
 
@@ -264,27 +262,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 1K • 💬 138 • ⏱️ 21:26 • 1d ago
-
----
-
-**[Don&#39;t Ignore This Signal: Why BMNR and Ethereum are at a Breaking Point](https://www.youtube.com/watch?v=Z1Sh-q3muJA)**
-
-BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Squeeze ...
-
-📺 Smart Stock Sam
-
-👁️ 730 • 👍 111 • 💬 14 • ⏱️ 19:08 • 7h ago
-
----
-
-**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
-
-Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
-
-📺 Coin Bureau
-
-👁️ 16K • 👍 613 • 💬 92 • ⏱️ 21:23 • 1d ago
+👁️ 28K • 👍 1K • 💬 136 • ⏱️ 21:26 • 1d ago
 
 ---
 
@@ -294,27 +272,27 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 175 • 💬 39 • ⏱️ 14:13 • 1d ago
+👁️ 6K • 👍 178 • 💬 41 • ⏱️ 14:13 • 1d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=p6KNB0rixrs)**
+**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
 
-BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
 
-📺 Crypto World
+📺 Coin Bureau
 
-👁️ 16K • 👍 667 • 💬 180 • ⏱️ 21:27 • 17h ago
+👁️ 17K • 👍 631 • 💬 94 • ⏱️ 21:23 • 1d ago
 
 ---
 
-**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
+**[Don&#39;t Ignore This Signal: Why BMNR and Ethereum are at a Breaking Point](https://www.youtube.com/watch?v=Z1Sh-q3muJA)**
 
-Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
+BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Squeeze ...
 
-📺 Kamilah Stevenson
+📺 Smart Stock Sam
 
-👁️ 28K • 👍 2K • 💬 289 • ⏱️ 13:31 • 2d ago
+👁️ 1K • 👍 139 • 💬 16 • ⏱️ 19:08 • 9h ago
 
 ---
 
@@ -324,7 +302,27 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 426 • 💬 20 • ⏱️ 8:30 • 1d ago
+👁️ 10K • 👍 431 • 💬 20 • ⏱️ 8:30 • 1d ago
+
+---
+
+**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
+
+Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
+
+📺 Kamilah Stevenson
+
+👁️ 28K • 👍 2K • 💬 290 • ⏱️ 13:31 • 2d ago
+
+---
+
+**[🚨 TECH CRASH – KAUFCHANCE ODER BÄRENMARKT VORAUS ⁉️💥 Nvidia Microsoft Bitcoin Ethereum Tesla &amp; Co.](https://www.youtube.com/watch?v=9EDb4gWY9Js)**
+
+Discord: https://discord.gg/PBbDUvSccV Werde 10xMEMBER und erhalte Zugang zum Premium Bereich im Discord, inkl.
+
+📺 10xTrading
+
+👁️ 2K • 👍 332 • 💬 24 • ⏱️ 24:52 • 2h ago
 
 ---
 
