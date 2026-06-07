@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-07T18:05:27.785934+00:00'
+updated: '2026-06-07T19:54:41.480082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 18:05 UTC  
+**Last Updated:** June 07, 2026 at 19:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,266.21
+### $61,410.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** -12.9%  
-**30d:** -22.9%  
-**90d:** -11.1%  
-**1y:** -41.2%  
+**24h:** +1.0%  
+**7d:** -14.1%  
+**30d:** -24.0%  
+**90d:** -12.3%  
+**1y:** -42.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 im gen z, i here a lot of people my age complain about how old folks got houses for dirt cheap, and there right they did. but i believe that what we are looking at today with bitcoin is the exact same opportunity. most people my age dont realize it. i remember learning about bitcoin 6 years ago, i had money to invest but i overlooked btc at 15k i bought stocks instead. now im older now and im wise enough now to not miss that opportunity again. ai is the sexy new tech that eats up billions while barely improving since the first chatgpt, while btc sitting quietly in the back knowing it will go down in history for fundamentally changing how humans view currency and store economic value. not sure how long btc will be this cheap, but im going all in with the money ive saved over the years. im not going to sell. see you in October.
 
-2h ago
+4h ago
 
 ---
 
@@ -89,7 +89,13 @@ im gen z, i here a lot of people my age complain about how old folks got houses 
 
 I have been in this since 2013. I know what you're thinking...'this guy is running on hopium', 'past performance is no guarantee of future performance', 'he's a bag holder shilling bitcoin'... Yeah yeah yeah. I get it. I've been here before. I bought in at $600 ish...I saw it go up over $1000, I sold a ton at $2500, I held, I watched, I bought, I sold... It's a rollercoaster...but here's the thing... It has never broken. It has never been hacked. It is a rock solid protocol for money. This thing is real. If you want to step off the legacy emotional money system and get into never debased permanent future money, this is your opportunity. Don't fuck it up.
 
-19h ago
+21h ago
+
+---
+
+**[Bull to bear how it feels](https://www.reddit.com/r/Bitcoin/comments/1tz2dox/bull_to_bear_how_it_feels/)**
+
+15h ago
 
 ---
 
@@ -97,13 +103,7 @@ I have been in this since 2013. I know what you're thinking...'this guy is runni
 
 This is my thesis Sentiment of crypto delusion maxxing analisis paralisys bro is “wait till drop to 30k n buy ” Sentiment of normie boomer is “btc is dead 4 ever” Sentiment of chad emotionally testosteronally balanced stoic crypto alpha hodler: i filled my bags 60k, if goes to 50, buy again double quantity Who u trust more ? Gl bros
 
-7h ago
-
----
-
-**[Bull to bear how it feels](https://www.reddit.com/r/Bitcoin/comments/1tz2dox/bull_to_bear_how_it_feels/)**
-
-13h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ This is my thesis Sentiment of crypto delusion maxxing analisis paralisys bro is
 
 Dca
 
-5h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Dca
 
 We're down ~50% from the October high and my feed is nothing but FUD, so let's take a step back and put things back into perspective. Bitcoin is not going to zero. Why? Because as long as anyone in the world values it, they'll trade something for it. What sold for pennies 16 years ago is sitting at $60k today — after getting cut in half. Name another asset that drops 50% and is still up that much over its life. I'll wait. This is what Bitcoin does. It doesn't go up in a straight line, it goes up in violent, gut-wrenching steps with brutal drawdowns in between. Every single one of these dips has felt like the end. None of them were. If a 50% haircut shakes you out, you were never going to make it anyway. And here's the part the haters never want to deal with: not only is Bitcoin not going to zero, it's going to infinity. Why? Because the currency it's priced in is being printed to infinity. Bitcoin's monetary inflation steadily drops every 4 years on a fixed schedule, marching toward a hard cap of 21 million. Fiat does the exact opposite. That's the core design flaw of fiat — there's always an incentive to inflate, and eventually it snowballs. The result is that every real asset gets more "valuable" relative to the currency it's measured in. It's exactly what's been happening in real estate and the stock market for years. So no, the short-term price isn't the story. Plenty of factors drive the day-to-day chaos, and right now they're driving it down. That's noise. The fundamentals are simple: an asset getting scarcer, demand growing over time, priced in a currency being debased. Over a long enough timeline, there's only one direction that math points. Zoom out.
 
-18h ago
+20h ago
 
 ---
 
@@ -131,11 +131,11 @@ I spent last summer studying bitcoin, and I was very quickly convinced of the so
 
 ---
 
-**[I love watching my average cost go down](https://www.reddit.com/r/Bitcoin/comments/1tzhp22/i_love_watching_my_average_cost_go_down/)**
+**[Bad at Bitcoin .0266615 @ $87417](https://www.reddit.com/r/Bitcoin/comments/1tzegzy/bad_at_bitcoin_0266615_87417/)**
 
-That’s it, okay bye
+Long time observer and a first-time poster, and I just want to admit I have always had awful timing with selling my btc. Don't get me wrong, I've always managed to make a few bucks, but the timing was always wrong as soon as I would get a hankering to sell for profit it has never failed to skyrocket and take off leaving me in the dust. Alas, as I am seemingly never wrong with my bad timing, around last Halloween,I decided that it would be a great time to dive right in I decided to attempt to make a goal for myself of at least obtaining .1 btc; Maybe not a huge milestone for many, but for me personally coming from what I will just sum up as blatant poverty (to skip a lot of details) no time limit necessary, but obviously, the sooner, the better. I just wanted to hear from others if I'm cooked, dead in the water, or just surviving?
 
-59m ago
+4h ago
 
 ---
 
@@ -143,15 +143,15 @@ That’s it, okay bye
 
 Please double check my math. At the current price, IBIT is holding $162 billion. They charge 1/4th of 1% per year (0.0025). This is $405 million per year revenue at current price. I think the big boys want to see Bitcoin continue to thrive. They want Bitcoin to double, triple or 10x. This makes me feel better about the future.
 
-4h ago
+6h ago
 
 ---
 
-**[For those thinking $60k is a blood bath...](https://www.reddit.com/r/Bitcoin/comments/1tyqzsz/for_those_thinking_60k_is_a_blood_bath/)**
+**[I love watching my average cost go down](https://www.reddit.com/r/Bitcoin/comments/1tzhp22/i_love_watching_my_average_cost_go_down/)**
 
-Only ~3 years ago it was UNDER $20,000. So it's still up 300%+ in about 3 years. So yeah, it's off it's ATH but it's up big in 3 years.
+That’s it, okay bye
 
-22h ago
+2h ago
 
 ---
 
@@ -175,25 +175,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Michael Saylor Revives Bitcoin-buy Speculation as Scrutiny Over Strategy Grows](https://www.moomoo.com/news/post/71158242/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy)**
+
+Moomoo • 2h ago
+
+---
+
+**[MicroStrategy and BitMine Could Trigger the Largest Bitcoin Crash Ever: DWF Labs Co-founder Warns](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitmine-could-trigger-largest-190000167.html)**
+
+DWF Labs warns MicroStrategy and BitMine could trigger the biggest crypto crash ever, with Bitcoin possibly hitting $10,000.
+
+Yahoo Finance • 54m ago
+
+---
+
 **[Bitcoin near $60,000 today vs February: ETF flows tell a different story](https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different)**
 
 Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip.
 
-CoinDesk • 1h ago
-
----
-
-**[Michael Saylor Revives Bitcoin-buy Speculation as Scrutiny Over Strategy Grows](https://www.moomoo.com/news/post/71158242/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy)**
-
-Moomoo • 14m ago
-
----
-
-**[TeraWulf Expands Beyond Bitcoin Mining With AI And Muskie Data Campus](https://finance.yahoo.com/markets/stocks/articles/terawulf-expands-beyond-bitcoin-mining-151307357.html)**
-
-TeraWulf (NasdaqCM:WULF) is expanding beyond bitcoin mining into AI and data center infrastructure. The company acquired the Muskie Data Campus, a large capacity site aimed at AI and high performance computing customers. TeraWulf is exploring leveraged loans to help fund the build out of its new AI focused infrastructure. TeraWulf is shifting its focus from a pure-play bitcoin miner toward a broader role in AI and data center infrastructure, while its stock trades around $24.0. The share...
-
-Yahoo Finance • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -217,9 +217,9 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin climbs above $62,000 as crypto market steadies after brutal selloff](https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-62000-as-crypto-market-steadies-after-brutal-selloff-4729656)**
+**[Bitcoin Falls Below $60,000](https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026/card/bitcoin-falls-below-60-000-Hw8s57xfgErSf1HaykZn)**
 
-Investing.com • 8h ago
+WSJ • 1d ago
 
 ---
 
@@ -227,7 +227,7 @@ Investing.com • 8h ago
 
 Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-⬆️ 6 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
+⬆️ 6 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
 
 ---
 
@@ -321,7 +321,7 @@ In this episode, Ran sits down with Ben Cowen to break down Bitcoin's current ma
 
 📺 Crypto Insider
 
-👁️ 21K • 👍 2K • 💬 66 • ⏱️ 38:44 • 6h ago
+👁️ 21K • 👍 2K • 💬 66 • ⏱️ 38:44 • 8h ago
 
 ---
 
@@ -331,7 +331,7 @@ I think Bitcoin has entered the 3rd stage of the bear market. Let's talk about i
 
 📺 Benjamin Cowen
 
-👁️ 94K • 👍 7K • 💬 432 • ⏱️ 13:26 • 14h ago
+👁️ 94K • 👍 7K • 💬 432 • ⏱️ 13:26 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ Learn more about what's coming. Click below! Click here to learn more about what
 
 📺 Simply Bitcoin
 
-👁️ 563 • 👍 15 • ⏱️ 0:48 • 1h ago
+👁️ 563 • 👍 15 • ⏱️ 0:48 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ Check out Ledn: https://aaronbtc.com/ledn Into The Cryptoverse Charts – 10% Of
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 374 • 💬 193 • ⏱️ 6:49 • 14h ago
+👁️ 7K • 👍 374 • 💬 193 • ⏱️ 6:49 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a
 
 📺 Valuetainment
 
-👁️ 79K • 👍 2K • 💬 820 • ⏱️ 10:46 • 1d ago
+👁️ 79K • 👍 2K • 💬 820 • ⏱️ 10:46 • 2d ago
 
 ---
 

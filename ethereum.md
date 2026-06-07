@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T18:05:27.791399+00:00'
+updated: '2026-06-07T19:54:41.486115+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 18:05 UTC  
+**Last Updated:** June 07, 2026 at 19:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.9%  
-**7d:** -18.6%  
-**30d:** -29.8%  
-**90d:** -19.9%  
-**1y:** -34.9%  
+**24h:** +3.8%  
+**7d:** -19.3%  
+**30d:** -30.4%  
+**90d:** -20.6%  
+**1y:** -35.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -124,7 +124,7 @@ Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glams
 
 (* Not actually decentralized) Catch up: Day One Day Two The whole article as an EPub on Github Or stream the AI-generated audio file on on Vocaroo (26:35 AI-generated audio recording) ETHPrague Day Three I wake up in plenty of time for the last day of ETHPrague. Also, miraculously, both the toilet and the shower are free at the exact moments that I want to use them. I'm OK with being a pod person, I think. This is quite good. Then I walk out of the shower only-mostly covered by a wet t-shirt and a young man says good morning to me cheerfully before trying desperately to make it clear that he did not look at me and will never look at me again. I fear he may not ever make eye contact with anyone ever again. https://preview.redd.it/4rrpqnqs4b5h1.jpg?width=2542&format=pjpg&auto=webp&s=c2662308fc02203bb003eb757742682831b96341 Day Three kicks off with a sobering perspective shift that feels intentionally out of place at a crypto conference. With no official live stream to record it, the presentation is a raw, slide-driven argument for protecting the physical world from total digital engulfment. When the offline movement meets privacy advocates is presented by Hynek Trojánek, who admits his entire understanding of our conference is based on attempting to understand the Wikipedia page on Bitcoin. But his perspective is a strong one: we are engineering a terrifying baseline of digital exclusion, and defending a "Right to Analogue" is a vital mental health sanctuary against mandatory digital compliance. https://preview.redd.it/ehlab7x35b5h1.jpg?width=3320&format=pjpg&auto=webp&s=35840dc91112d24bead637159ecea3c054bafab8 That demand for an analogue escape hatch connects directly to the usability crisis that Olaf van Wijk addresses in Recovery is the key to sovereignty. Van Wijk tells us that for 80% of the population, absolute cryptographic security feels incredibly unsafe because of the risk of losing a seed phrase. Account abstraction may handle basic authorization on-chain, but it completely fails to recover the core cryptographic secrets required for true privacy tooling. We need more privacy, we need more zk-proofs, we need censorship-resistant systems. All of this requires secrets to operate, and he argues that this is the same as externally owned accounts. Yeah but your security is not safety is the most "only in crypto" product I have ever seen. José Pedro Sousa starts with a series of frankly frightening wrench attacks in France, reassuring us that he doesn't want to scare us before describing severed fingers. "If all your information is on your phone, when someone points a gun to your head, you will hand over the phone." He is representing SpaceComputer, who wants to solve this by -- you guessed it-- launching secure chips (TEEs) into space, into orbit on a satellite, so that your signing keys are physically unreachable. But the entire premise relies on the classic fantasy that you can just say "oh, but I can't" to violent criminals and they will stop cutting off your digits. An audience member points out that if you can access the chip for your transactions, then your attacker can force you to transact. Yes, but the timelock. Sousa reminds us of the successful case where a timelock saved the day. https://preview.redd.it/kq8nsfmx4b5h1.png?width=1200&format=png&auto=webp&s=b57d360ce8cec4673e423374ac5e0172e11ecc35 This is the April 2026 Burgundy case, where the attackers kidnapped the man's wife and child to hold as hostages while they waited out the timer. It's true that the Gendarmerie rescued the hostages before the transaction window unlocked. Still, this doesn't strike me as a great success story so much as a cautionary tale. Honestly, if I were that wife? I'd be filing for a fucking divorce. I decide to skip the next sessions in favour of protecting my blood pressure and head out of Municipal House, on a mission for the greasiest street food I can find. https://preview.redd.it/njv6jly65b5h1.jpg?width=3320&format=pjpg&auto=webp&s=fa9ae703298d9af109c1cd04e91426b185101b78 An American couple wait in line behind me, suffering from currency and cabbage concerns. "Do they have brats?" "Yes, there are brats right there on the grill." "What about sauerkraut?" "I don't see any sauerkraut. I don't think they have any sauerkraut. Not hot, anyway. Do you want a brat?" "Do you think they take credit cards?" "I don't know. We have cash." "What kind?" "Euros" "Do you think they take Euros?" "Yeah, I think they will. But I hope they take cards." "Everyone is paying with cash." "What kind of cash?" "The, uh, kroner, or whatever they are." "They aren't paying in euros?" "No. And there's definitely no sauerkraut." Thankfully, they walk away before I can gouge their eyes out with an overcooked sausage. https://preview.redd.it/x96y3yx85b5h1.jpg?width=2611&format=pjpg&auto=webp&s=c168edfc462ae926c4d5525be99a9612aca3cefd I reluctantly return to Municipal House feeling altogether unfit for human contact. When Technology Meets the Museum World restores my faith in humankind. Ivo Macek, the director of the City of Prague Museum explains how they are using tech to make local history cool, for example a full-sized projection showing where a railway station used to be. He explains that a key issue for museums is that if a collection is not visible, it doesn't exist. Traditionally museums have added more screens but most people don't use the mobile app or show much interest in browsing online collections. The answer is better story telling and he believes that AI can help us get there. They are building a system where a five-year-old can naturally prompt the catalog to "show me everything with the sun on it," instantly pulling hidden specimens out of the dark. They also built a strictly closed-loop chatbot that gives sourced museum info without hallucinating, point-blank refusing to write code or give you a recipe for Czech dumplings. https://preview.redd.it/jvoaw7sa5b5h1.jpg?width=3320&format=pjpg&auto=webp&s=417808794d907d1d89c17ec314c477966ef4135a And then it is time to return to the amazing Smetana Hall, restored from hackerspace to its full concert-hall glory. The closing ceremony starts with Shaka Lei Kaumaka and the Open Source Orchestra which started at ETHPrague in 2022. The conference had over 1,000 attendees and the hackathon shipped 64 projects. We applaud for all the bounty winners. It feels like it is over. https://preview.redd.it/p548ntgc5b5h1.jpg?width=3168&format=pjpg&auto=webp&s=a75d931dd42088a6f132c6b9996e3b2607aea252 But no. We have a major concert from Jaroslav Ježek Conservatory (KJJ) who present us with their annual showcase. The students entertain us by shifting quickly across an amazing range from choral pop to big band to Pat Metheny to modern fusion. Sadly, there doesn't seem to be video of the concert because my photographs don't do it justice. It was a beautiful and thoughtful end to three days of top-tier content. I walk home, no longer trusting myself to use public transport, and have a delicious bowl of goulash and dumplings. It's also my last night as a pod person. I enter my plywood sanctuary and spend the rest of the evening in blessed silence, except for the farts of my neighbor. I have strong thoughts about privacy and not all of them can be solved by zero-knowledge proofs. --- This series was supported through the generosity of the Peacock Foundation.
 
-2d ago
+3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 5h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -168,21 +168,13 @@ The Block • 1d ago
 
 A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
 
 Barron's • 3d ago
-
----
-
-**[$10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600](https://247wallst.com/investing/2026/06/06/10000-in-etht-became-7731-in-one-day-as-ethereum-cracked-below-1600/)**
-
-$10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
-
-24/7 Wall St. • 21h ago
 
 ---
 
@@ -198,21 +190,23 @@ Coinpedia • 1d ago
 
 Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
-**[Mr Curious(@tahach313)'s insights](https://www.binance.com/en/square/post/331552166392754)**
+**[$10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600](https://247wallst.com/investing/2026/06/06/10000-in-etht-became-7731-in-one-day-as-ethereum-cracked-below-1600/)**
 
-Binance • 5h ago
+$10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
+
+24/7 Wall St. • 23h ago
 
 ---
 
-**[Ethereum Has 3x More Holders Than Bitcoin Despite a Brutal Price Decline: Analyst](https://cryptopotato.com/ethereum-has-3x-more-holders-than-bitcoin-despite-a-brutal-price-decline-analyst/)**
+**[Ethereum faces $547M liquidation risk as 343,075 ETH sits near danger zone in DeFi](https://cryptobriefing.com/ethereum-547m-defi-liquidation-risk/)**
 
-Wallet data shows Ethereum has over three times as many holders as Bitcoin.
+Over 343,075 ETH worth $547M faces liquidation risk across DeFi protocols like Maker and Aave V3, with thresholds clustered between $1,362 and $1,566.
 
-CryptoPotato • 20h ago
+Crypto Briefing • 21h ago
 
 ---
 
@@ -221,6 +215,12 @@ CryptoPotato • 20h ago
 BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
 Decrypt • 2d ago
+
+---
+
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
+
+富途牛牛 • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 368 • 💬 30 • ⏱️ 16:49 • 5h ago
+👁️ 6K • 👍 368 • 💬 30 • ⏱️ 16:49 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 685 • 👍 43 • 💬 37 • ⏱️ 16:40 • 5h ago
+👁️ 685 • 👍 43 • 💬 37 • ⏱️ 16:40 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ In today's video, Chief Market Strategist Gareth Soloway dives deep into the rec
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 3K • 💬 286 • ⏱️ 15:17 • 4h ago
+👁️ 33K • 👍 3K • 💬 286 • ⏱️ 15:17 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Sque
 
 📺 Smart Stock Sam
 
-👁️ 730 • 👍 111 • 💬 14 • ⏱️ 19:08 • 6h ago
+👁️ 730 • 👍 111 • 💬 14 • ⏱️ 19:08 • 7h ago
 
 ---
 
@@ -304,7 +304,7 @@ BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 16K • 👍 667 • 💬 180 • ⏱️ 21:27 • 15h ago
+👁️ 16K • 👍 667 • 💬 180 • ⏱️ 21:27 • 17h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-07T18:05:27.778076+00:00'
+updated: '2026-06-07T19:54:41.471483+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 07, 2026 at 18:05 UTC  
+**Last Updated:** June 07, 2026 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,31 +41,7 @@ AI news, discussions, and developments
 
 it turns into some unfinished project lying in some GitHub private repo lol
 
-2h ago
-
----
-
-**[What would make AI SPM useful instead of just another vendor category?](https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/)**
-
-For enterprise AI/security teams, what would make AI SPM useful rather than just another category label? Is the important part AI asset inventory data access mapping, agent permissions, prompt/data monitoring, policy enforcement or something else?
-
-1h ago
-
----
-
-**[I got tired of Al making stuff up about my PDFs, so I built something that actually cites its sources](https://www.reddit.com/r/artificial/comments/1tzaylp/i_got_tired_of_al_making_stuff_up_about_my_pdfs/)**
-
-so i kept using chatgpt to ask questions about my pdfs and notes, and half the time i couldn't tell if it actually read the doc or just made something up that sounded right. that bugged me enough to build my own thing over the last few weeks. you upload a pdf (or word, csv, image, or just paste a link), ask whatever you want, and it answers using only what's in your file - and it shows the exact page it pulled the answer from, so you can check. if the answer isn't in the doc, it just tells you instead of guessing. stuff i actually end up using: flip on web search when i want it to look something up online instead one click to turn a doc into a summary / key points / flashcards (this is clutch for studying) resume review + cover letter help you can talk to it and it reads the answer back it's completely free, i'm not selling anything. honestly just want people to break it and tell me what's missing. link: https://athena-wisdom.vercel.app (there's a short guide on the site too if you get stuck) solo project so be gentle lol - but real feedback is what i'm after, especially what you'd want it to do next.
-
-5h ago
-
----
-
-**[AI keeps getting blamed for tech layoffs, but the numbers don't really line up](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)**
-
-I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
-
-22h ago
+4h ago
 
 ---
 
@@ -73,7 +49,55 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 I have been experimenting with LLMs to see how well they navigate highly cross-referenced texts like the Bible. Standard models often hallucinate verses or lose historical context. To try and fix this, I built a free app called Biblians (no ads, no paywalls). I built it specifically for people who have questions they might hesitate to ask in person, or who simply want a 1-click way to explain a verse. While testing it, I discovered a fascinating denominational bias that is still lingering and changes depending entirely on the language you use: In English: It is Protestant-leaning. It praises Luther, saying things like, "Martin Luther sought to return the Church to the truth of God's Word." In Spanish, French, or Portuguese: It is Catholic-leaning. It condemns Luther's actions, stating: "...trajo confusión..." (...brought confusion...). Has anyone else noticed how drastically the training data changes the core bias based on the language prompted? I would love for this community to test the app, look for other linguistic biases, or just try to break the AI's logic. You can experiment with it here: https://play.google.com/store/apps/details?id=com.biblians.app Let me know what weird outputs you get!
 
-2h ago
+4h ago
+
+---
+
+**[Generated a fully AI "creator" walking out of a subway at 2AM — at what point can people just not tell anymore?](https://www.reddit.com/r/artificial/comments/1tzki46/generated_a_fully_ai_creator_walking_out_of_a/)**
+
+Been experimenting with AI-generated UGC. This whole clip — the face, the voice, the walk — is generated (I used omnigems.ai). No camera, no actor. What surprised me is the "tells" are mostly gone now if you keep the lighting candid (no studio polish), add real skin texture, and let there be natural micro-motion. Studio-perfect is what reads as fake; messy/handheld reads as real. Posting because I'm curious where this community draws the line: is AI UGC fair game for ads, or does \undisclosed** AI cross into sketchy territory? Happy to share the exact workflow if it's useful to anyone.
+
+1h ago
+
+---
+
+**[What would make AI SPM useful instead of just another vendor category?](https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/)**
+
+For enterprise AI/security teams, what would make AI SPM useful rather than just another category label? Is the important part AI asset inventory data access mapping, agent permissions, prompt/data monitoring, policy enforcement or something else?
+
+3h ago
+
+---
+
+**[K-pop Fans Are Calling Out Creepy Deepfakes of Idols](https://www.reddit.com/r/artificial/comments/1tzkzsk/kpop_fans_are_calling_out_creepy_deepfakes_of/)**
+
+With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.
+
+🔗 [404 Media](https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/) • 47m ago
+
+---
+
+**[I got tired of Al making stuff up about my PDFs, so I built something that actually cites its sources](https://www.reddit.com/r/artificial/comments/1tzaylp/i_got_tired_of_al_making_stuff_up_about_my_pdfs/)**
+
+so i kept using chatgpt to ask questions about my pdfs and notes, and half the time i couldn't tell if it actually read the doc or just made something up that sounded right. that bugged me enough to build my own thing over the last few weeks. you upload a pdf (or word, csv, image, or just paste a link), ask whatever you want, and it answers using only what's in your file - and it shows the exact page it pulled the answer from, so you can check. if the answer isn't in the doc, it just tells you instead of guessing. stuff i actually end up using: flip on web search when i want it to look something up online instead one click to turn a doc into a summary / key points / flashcards (this is clutch for studying) resume review + cover letter help you can talk to it and it reads the answer back it's completely free, i'm not selling anything. honestly just want people to break it and tell me what's missing. link: https://athena-wisdom.vercel.app (there's a short guide on the site too if you get stuck) solo project so be gentle lol - but real feedback is what i'm after, especially what you'd want it to do next.
+
+7h ago
+
+---
+
+**[Are AI video tools solving the wrong part of the filmmaking process?](https://www.reddit.com/r/artificial/comments/1tzjy3b/are_ai_video_tools_solving_the_wrong_part_of_the/)**
+
+I've been spending a lot of time experimenting with AI filmmaking tools lately, and I've noticed something that feels a bit odd. Most AI video tools seem to be built around generating clips: Text → Video Image → Video Start Frame → End Frame But when I think about how films are actually made, the process usually starts with: Screenplay → Characters → Locations → Storyboard → Shots → Film It feels like there's a gap between how filmmakers think about projects and how AI video tools are currently designed. For example, while working on my ai video, I don't really think in terms of generating isolated clips. I'm thinking about scenes, character continuity, locations, visual references, storyboards, and how everything fits together. Maybe I'm wrong, but it sometimes feels like AI tools are optimizing for clip generation while filmmakers are optimizing for story development and visual planning. Do others here feel the same way? How are you currently bridging the gap between screenplay and AI-generated video?
+
+1h ago
+
+---
+
+**[AI keeps getting blamed for tech layoffs, but the numbers don't really line up](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)**
+
+I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
+
+1d ago
 
 ---
 
@@ -81,37 +105,15 @@ I have been experimenting with LLMs to see how well they navigate highly cross-r
 
 OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working because of some reason or other. But it was my baby as is housed in a lovely Soprano DX silver brushed case. SO, I swapped out the old HDD for a couple of SSDs (a couple of mirrored OS disks and a large 2TB storage disk) I swapped out the Nvidia 780ti graphics card for a couple of OG Nvidia 1080ti's. I pulled the whole thing to bits.. repasted the northbridge chip, southbridge chip and central CPU. Upgraded the fans to push pull the CPU heatsink. Wrapped ALL cables in mesh and it's so lovely now. Installed Windows 10 Pro. Installed the Nvidia App. Installed CrystalDiskInfo and all is sweet 😄 EXCEPT... I'd like to use this old bangin box for an HG AI server... now I have read that ALL LLMs need this thing called AVX (Advanced Vector Extensions) I didn't even know that was a THING! So even though I have 22Gb worth of GPU sitting there that I was going to point everything to, because I have a lame ass QX6700 CPU sitting on a kickass D975XBX2 (BadAxe2) main board I CAN NOT fulfill my wish for this OG box to be a headless source of awesomeness sitting in it's home under my desk supplying me with a home grown AI. IS THERE ANYTHING I CAN DO?!?!?! Surely after all this time of parts getting munched by AI farms a plenty people have been using what's around to do what they will... Does anyone know of anything I can do apart from just look at it running at 25 degrees aircooled humming along so lovely... it NEEDS purpose!!! 😄 Cheers and thanks all NB
 
-3h ago
+4h ago
 
 ---
 
-**[Roguelite MMO Beta Vibe Coded In 4 Weeks](https://www.reddit.com/r/artificial/comments/1tzdj0o/roguelite_mmo_beta_vibe_coded_in_4_weeks/)**
+**[ChatGPT has a different personality when you're paying for it.](https://www.reddit.com/r/artificial/comments/1tzjsb5/chatgpt_has_a_different_personality_when_youre/)**
 
-10 year senior dev, vibe coded this in 4 weeks and counting. Something like this would have taken me a year+ before and ive always been a 10x dev. I built this along side my day job (gov contractor dev). Feel free to check it out! https://imgur.com/a/F6OINKR⁠ Game Title: Roguelite MMO Playable Link: https://roguelite-mmo.com/⁠ Platform: PC / Web Description: Roguelite MMO is a browser-based RPG/MMO project built around dungeon runs, exploration, gear progression, PvP, quests, loot, and character building. The game is still in beta and active development, with the latest update adding new side activities and progression options. Latest update: The new Casino is now live, giving players more ways to spend gold, take risks, and chase rewards between dungeon runs and exploration. Horse racing and horse taming have also been added. Players can race horses, bet on races, and work toward collecting better horses over time. Fishing is now available too, adding a more relaxed activity with its own rewards while exploring the world. The core loop is still being refined, but the current focus is making sure players understand what they earned, where important items come from, what to do next, and whether the early gameplay loop feels worth continuing after the first few minutes. Free to play
+I too have a different personality when you're paying for me
 
-3h ago
-
----
-
-**[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
-
-1d ago
-
----
-
-**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
-
-I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
-
-1d ago
-
----
-
-**[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
-
-there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
-
-1d ago
+1h ago
 
 ---
 
@@ -123,27 +125,43 @@ there's a pattern i keep seeing in multi-model setups (karpathy's llm council, t
 
 Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
 **[Inside Apple’s Secret Meeting That Led It to Finally Take AI Seriously](https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Apple WWDC preview: Apple gets a second shot at its AI rollout](https://finance.yahoo.com/news/apple-wwdc-preview-apple-gets-a-second-shot-at-its-ai-rollout-143000592.html)**
+**[AI-designed universal vaccine clears first human trial, targets future coronavirus threats with needle-free delivery](https://medicalxpress.com/news/2026-06-ai-universal-vaccine-human-trial.html)**
 
-Apple will hold its WWDC event on Monday, June 8.
-
-Yahoo Finance • 4h ago
+Medical Xpress • 34m ago
 
 ---
 
-**[One fateful meeting in 2025 put Apple Intelligence and Siri on the right course](https://appleinsider.com/articles/26/06/07/one-fateful-meeting-in-2025-put-apple-intelligence-and-siri-on-the-right-course)**
+**[Can AI undermine the capacities that make human empowerment possible?](https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-empowerment-paradox)**
 
-AppleInsider • 3h ago
+AI doesn't just answer our questions, it may replace the struggle that once made us capable of asking better ones.
+
+Psychology Today • 56m ago
+
+---
+
+**['A splash of cold water': Wall Street gauges pause in AI trade](https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html)**
+
+Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)**
+
+A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
+
+Forbes • 9h ago
 
 ---
 
@@ -151,41 +169,29 @@ AppleInsider • 3h ago
 
 When Lip-Bu Tan took the helm of Intel in March 2025, the company was in desperate need of a turnaround.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
-**[AI stock mania is taking over the markets in 2026](https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html)**
+**[‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late](https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786)**
 
-It was a mind-blowing week for the AI trade, with only one reasonable conclusion.
-
-Yahoo Finance • 5h ago
+Politico • 8h ago
 
 ---
 
-**[AI’s Mega Stock Deals Raise Specter of More Shares Than Buyers](https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers)**
+**[My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.](https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6)**
 
-Bloomberg.com • 5h ago
+A Miami home seller is open to accepting shares in OpenAI, Anthropic, or SpaceX as payment, reflecting a trend in investment strategy.
 
----
-
-**[The business of AI's 4 harsh realities](https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom)**
-
-Axios • 5h ago
+Business Insider • 11h ago
 
 ---
 
-**[Opinion | Human intelligence will win out over artificial intelligence](https://www.washingtonpost.com/opinions/2026/06/07/why-human-intelligence-still-matters-age-ai/)**
+**[AI Can Further, Not Replace, Human Relationships, Elder Gong Teaches in New Vid](https://newsroom.churchofjesuschrist.org/article/ai-can-further-not-replace-human-relationships-elder-gong-teaches-in-new-video)**
 
-The more machines can do, the clearer it becomes what only human beings can provide.
+In a new Church video about AI, Elder Geritt W. Gong explores “how to hear God’s voice clearly in an age of artificial intelligence, and why that distinction matters more now than ever.”
 
-The Washington Post • 48m ago
-
----
-
-**[How artificial intelligence got better at building itself](https://www.economist.com/science-and-technology/2026/06/07/how-artificial-intelligence-got-better-at-building-itself)**
-
-The Economist • 3h ago
+newsroom.churchofjesuschrist.org • 5h ago
 
 ---
 
@@ -197,7 +203,7 @@ The Economist • 3h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 668 • 💬 238 • 23h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+⬆️ 677 • 💬 244 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
@@ -211,7 +217,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 434 • 💬 717 • 1d ago
+⬆️ 434 • 💬 723 • 1d ago
 
 ---
 
@@ -227,7 +233,7 @@ Nasa had directed five of the seven astronauts to shelter inside the docked Spac
 
 Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
 
-⬆️ 277 • 💬 69 • 2d ago • [GitHub](https://github.com/alibaba/open-code-review)
+⬆️ 278 • 💬 69 • 2d ago • [GitHub](https://github.com/alibaba/open-code-review)
 
 ---
 
@@ -241,7 +247,7 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 217 • 💬 100 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 218 • 💬 100 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -253,7 +259,7 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 **[Ask HN: What is your (AI) dev tech stack / workflow?](https://news.ycombinator.com/item?id=48413629)**
 
-⬆️ 156 • 💬 130 • 2d ago
+⬆️ 157 • 💬 130 • 2d ago
 
 ---
 
@@ -275,7 +281,7 @@ HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more
 
 📺 AI Search
 
-👁️ 64K • 👍 3K • 💬 293 • ⏱️ 49:09 • 14h ago
+👁️ 64K • 👍 3K • 💬 293 • ⏱️ 49:09 • 16h ago
 
 ---
 
@@ -285,7 +291,7 @@ MY PATREON – My Portfolio, My Trades, Deep Dives, Q&A, Community: https://www.
 
 📺 Jerry Romine Stocks
 
-👁️ 11K • 👍 1K • 💬 181 • ⏱️ 13:38 • 5h ago
+👁️ 11K • 👍 1K • 💬 181 • ⏱️ 13:38 • 7h ago
 
 ---
 
@@ -295,7 +301,7 @@ Google DeepMind just released Gemma 4 12B, a new AI model that completely change
 
 📺 Better Stack
 
-👁️ 26K • 👍 1K • 💬 82 • ⏱️ 11:02 • 16h ago
+👁️ 26K • 👍 1K • 💬 82 • ⏱️ 11:02 • 18h ago
 
 ---
 
@@ -315,7 +321,7 @@ The "AI is taking our jobs" narrative is apparently a massive corporate cover-up
 
 📺 Matt Wolfe
 
-👁️ 362 • 👍 18 • 💬 1 • ⏱️ 1:06 • 11m ago
+👁️ 362 • 👍 18 • 💬 1 • ⏱️ 1:06 • 2h ago
 
 ---
 
@@ -345,7 +351,7 @@ SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
 
 📺 YongYea
 
-👁️ 191K • 👍 7K • 💬 2K • ⏱️ 17:22 • 1d ago
+👁️ 191K • 👍 7K • 💬 2K • ⏱️ 17:22 • 2d ago
 
 ---
 
@@ -427,7 +433,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 4,377 • ❤️ 333 • 3d ago
+⬇️ 4,377 • ❤️ 333 • 4d ago
 
 ---
 
@@ -487,7 +493,7 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 3,844 • ❤️ 227 • 2d ago
+⬇️ 3,844 • ❤️ 227 • 3d ago
 
 ---
 
@@ -637,7 +643,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 61.0k • 🔱 7.4k • 39m ago
+⭐ 61.0k • 🔱 7.4k • 2h ago
 
 ---
 
@@ -695,7 +701,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 176 • 2h ago
+⭐ 2.1k • 🔱 176 • 4h ago
 
 ---
 
@@ -705,7 +711,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.0k • 🔱 222 • 14h ago
+⭐ 2.0k • 🔱 222 • 16h ago
 
 ---
 
@@ -715,7 +721,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.8k • 🔱 136 • 2h ago
+⭐ 1.8k • 🔱 136 • 3h ago
 
 ---
 

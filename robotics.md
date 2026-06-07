@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T18:05:27.794240+00:00'
+updated: '2026-06-07T19:54:41.489299+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 18:05 UTC  
+**Last Updated:** June 07, 2026 at 19:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Differential wrist WIP](https://www.reddit.com/r/robotics/comments/1tzd3pw/differential_wrist_wip/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, I am a 19-year-old dropout developing robots. I started with servo motors and have finally built a quadruped robot using the BLDC + FOC method. I have adopted a 20:1 backdriving reduction system. Currently, I am printing with PLA for testing purposes, and I plan to build it later using Pa12 or a more reinforced material. Also, are there any companies interested in spon1soring me? My development 💸 have run low😢😢, Please feel free to message me! My IG: IMAKEROBOTS__
 
-8h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello, I am a 19-year-old dropout developing robots. I started with servo motors
 
 Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
 
-15h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been building Olaf, a companion robot, in the open for a while now and just clos
 
 Has anyone received IROS results? The results are supposed to be out next week but I see my submission status currently changed to undisclosed, which, as far as I know, this happens usually at the day of sending out the notification. Any idea? Did anyone get any notification?
 
-8h ago
+10h ago
 
 ---
 
@@ -70,7 +70,7 @@ Has anyone received IROS results? The results are supposed to be out next week b
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ Has anyone received IROS results? The results are supposed to be out next week b
 
 https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. This is challenging because the space of possible contact interactions grows combinatorially with the task horizon and the number of objects in the scene.
 
-3h ago
+5h ago
 
 ---
 
@@ -88,15 +88,15 @@ https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionD
 
 ---
 
-**[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
+**[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
 
-4h ago
+20h ago
 
 ---
 
-**[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
+**[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
 
-18h ago
+6h ago
 
 ---
 
@@ -110,23 +110,21 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[Bristol students take top prize in global robotics competition](https://www.bbc.com/news/articles/c3w2ve6wzq9o)**
+**[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
 
-Two Bristol students were crowned best in the UK in largest global robotics competition in USA.
-
-BBC • 3d ago
+The Economist • 9h ago
 
 ---
 
 **[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
 
-CT Mirror • 9h ago
+CT Mirror • 10h ago
 
 ---
 
 **[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -144,19 +142,19 @@ Reuters • 2d ago
 
 ---
 
-**[Unitree dancing robots that wowed America’s Got Talent are G1 humanoid models, firm tells GT](https://www.globaltimes.cn/page/202606/1362852.shtml)**
-
-Chinese dancing robots have just stolen the show on America's Got Talent. A performance by Chinese dancer Wu Yufei and eight humanoid robots from Unitree Robotics drew a standing ovation on the season premiere of America’s Got Talent, as the synchronized routine to Lady Gaga’s “Abracadabra” captivated judges and viewers alike, according to the Xinhua News Agency.Chinese robotics company Unitree Robotics confirmed to the Global Times on Friday that the robots featured in the performance were its G1 humanoid models.
-
-Global Times • 2d ago
-
----
-
 **[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
 Robot demonstrations can distort public perceptions of robotic capabilities.
 
 Ars Technica • 2d ago
+
+---
+
+**[New Chinese axial flux motor reaches 18,000 rpm milestone, can be used in EVs and robots](https://interestingengineering.com/ai-robotics/chinese-axial-flux-motor-milestone)**
+
+A research team in China says it has developed a high-performance axial flux motor capable of exceeding 18,000 rpm and achieving a power density of 25.73 kW/kg.
+
+Interesting Engineering • 17h ago
 
 ---
 
@@ -226,7 +224,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 5:01 • 4d ago
+👁️ 1.1M • 👍 17K • 💬 1K • ⏱️ 5:01 • 5d ago
 
 ---
 
