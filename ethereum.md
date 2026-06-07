@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T16:52:19.264336+00:00'
+updated: '2026-06-07T18:05:27.791399+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 16:52 UTC  
+**Last Updated:** June 07, 2026 at 18:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.2%  
-**7d:** -18.5%  
+**24h:** +4.9%  
+**7d:** -18.6%  
 **30d:** -29.8%  
-**90d:** -19.8%  
+**90d:** -19.9%  
 **1y:** -34.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.67B
+**Market Cap:** $196.86B
 Rank #2
 
 **Circulating Supply:** 120,684,518 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.2%
+-67.0%
 
 **All-Time Low:** $0.43
-+374911.3%
++376832.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 3h ago
 
 Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -168,13 +168,13 @@ The Block • 23h ago
 
 A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
@@ -182,7 +182,15 @@ Barron's • 2d ago
 
 $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
 
-24/7 Wall St. • 20h ago
+24/7 Wall St. • 21h ago
+
+---
+
+**[Russia Central Bank To Limit Retail Crypto Investors To Bitcoin, Ethereum, & USDT](https://coinpedia.org/news/russia-central-bank-to-limit-retail-crypto-investors-to-bitcoin-ethereum-usdt/)**
+
+Bitcoin, Ethereum, and USDT could soon become the only cryptocurrencies available to most retail investors in Russia. The country's central bank is
+
+Coinpedia • 1d ago
 
 ---
 
@@ -190,19 +198,13 @@ $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was 
 
 Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
 
-TradingView • 7h ago
-
----
-
-**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
-
-富途牛牛 • 1d ago
+TradingView • 9h ago
 
 ---
 
 **[Mr Curious(@tahach313)'s insights](https://www.binance.com/en/square/post/331552166392754)**
 
-Binance • 4h ago
+Binance • 5h ago
 
 ---
 
@@ -210,15 +212,15 @@ Binance • 4h ago
 
 Wallet data shows Ethereum has over three times as many holders as Bitcoin.
 
-CryptoPotato • 19h ago
+CryptoPotato • 20h ago
 
 ---
 
-**[Has Ethereum (ETH) Price Finally Bottomed? Here’s Where It Could Head in June 2026](https://coinpedia.org/price-analysis/has-ethereum-eth-price-finally-bottomed-heres-where-it-could-head-in-june-2026/)**
+**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
 
-Ethereum has entered a major historical support zone, but bearish momentum and weak technical indicators suggest a confirmed bottom is yet to form.
+BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
 
-Coinpedia • 22h ago
+Decrypt • 2d ago
 
 ---
 
@@ -232,17 +234,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 195 • 💬 18 • ⏱️ 16:49 • 3h ago
-
----
-
-**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
-
-Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
-
-📺 Paul Barron Network
-
-👁️ 27K • 👍 1K • 💬 135 • ⏱️ 21:26 • 1d ago
+👁️ 6K • 👍 368 • 💬 30 • ⏱️ 16:49 • 5h ago
 
 ---
 
@@ -252,7 +244,37 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 276 • 👍 22 • 💬 20 • ⏱️ 16:40 • 3h ago
+👁️ 685 • 👍 43 • 💬 37 • ⏱️ 16:40 • 5h ago
+
+---
+
+**[Crypto Collapse! Institutional Technical Analysis, Latest Forecast, Trades (BTC, ETH, SOL, HYPE)](https://www.youtube.com/watch?v=9Sccl9hBids)**
+
+In today's video, Chief Market Strategist Gareth Soloway dives deep into the recent crypto collapse. As predicted, Bitcoin hit the ...
+
+📺 Gareth Soloway
+
+👁️ 33K • 👍 3K • 💬 286 • ⏱️ 15:17 • 4h ago
+
+---
+
+**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
+
+Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
+
+📺 Paul Barron Network
+
+👁️ 28K • 👍 1K • 💬 138 • ⏱️ 21:26 • 1d ago
+
+---
+
+**[Don&#39;t Ignore This Signal: Why BMNR and Ethereum are at a Breaking Point](https://www.youtube.com/watch?v=Z1Sh-q3muJA)**
+
+BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Squeeze ...
+
+📺 Smart Stock Sam
+
+👁️ 730 • 👍 111 • 💬 14 • ⏱️ 19:08 • 6h ago
 
 ---
 
@@ -262,17 +284,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 591 • 💬 78 • ⏱️ 21:23 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=p6KNB0rixrs)**
-
-BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 639 • 💬 167 • ⏱️ 21:27 • 13h ago
+👁️ 16K • 👍 613 • 💬 92 • ⏱️ 21:23 • 1d ago
 
 ---
 
@@ -282,17 +294,17 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 173 • 💬 39 • ⏱️ 14:13 • 1d ago
+👁️ 6K • 👍 175 • 💬 39 • ⏱️ 14:13 • 1d ago
 
 ---
 
-**[Ethereum Price Analysis. Everyone Is Ignoring THIS ETH Signal…](https://www.youtube.com/watch?v=7Tei7CFxJpA)**
+**[BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=p6KNB0rixrs)**
 
-In this video, I analyze the price action of Ethereum chart and ETH/BTC chart using custom indicators to predict the potential future ...
+BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Crypto 4Light
+📺 Crypto World
 
-👁️ 626 • 👍 31 • 💬 12 • ⏱️ 10:32 • 1d ago
+👁️ 16K • 👍 667 • 💬 180 • ⏱️ 21:27 • 15h ago
 
 ---
 
@@ -302,17 +314,7 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 27K • 👍 2K • 💬 292 • ⏱️ 13:31 • 1d ago
-
----
-
-**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 1K • 👍 24 • 💬 3 • ⏱️ 5:45 • 1d ago
+👁️ 28K • 👍 2K • 💬 289 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -322,7 +324,7 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 10K • 👍 418 • 💬 20 • ⏱️ 8:30 • 1d ago
+👁️ 10K • 👍 426 • 💬 20 • ⏱️ 8:30 • 1d ago
 
 ---
 
