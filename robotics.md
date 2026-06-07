@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T15:10:52.032073+00:00'
+updated: '2026-06-07T16:52:19.267591+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 15:10 UTC  
+**Last Updated:** June 07, 2026 at 16:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Differential wrist WIP](https://www.reddit.com/r/robotics/comments/1tzd3pw/differential_wrist_wip/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, I am a 19-year-old dropout developing robots. I started with servo motors and have finally built a quadruped robot using the BLDC + FOC method. I have adopted a 20:1 backdriving reduction system. Currently, I am printing with PLA for testing purposes, and I plan to build it later using Pa12 or a more reinforced material. Also, are there any companies interested in spon1soring me? My development 💸 have run low😢😢, Please feel free to message me! My IG: IMAKEROBOTS__
 
-5h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello, I am a 19-year-old dropout developing robots. I started with servo motors
 
 Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
 
-12h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been building Olaf, a companion robot, in the open for a while now and just clos
 
 Has anyone received IROS results? The results are supposed to be out next week but I see my submission status currently changed to undisclosed, which, as far as I know, this happens usually at the day of sending out the notification. Any idea? Did anyone get any notification?
 
-5h ago
+7h ago
 
 ---
 
@@ -68,17 +68,17 @@ Has anyone received IROS results? The results are supposed to be out next week b
 
 ---
 
+**[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
+
+7h ago
+
+---
+
 **[MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation](https://www.reddit.com/r/robotics/comments/1tzdvfa/motiondisco_motion_discovery_for_extreme_humanoid/)**
 
 https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. This is challenging because the space of possible contact interactions grows combinatorially with the task horizon and the number of objects in the scene.
 
-32m ago
-
----
-
-**[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
-
-1h ago
+2h ago
 
 ---
 
@@ -88,15 +88,15 @@ https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionD
 
 ---
 
-**[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
+**[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
 
-5h ago
+3h ago
 
 ---
 
 **[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -104,39 +104,17 @@ https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionD
 
 ## Google News: "robotics"
 
-**[China can build humanoids at scale. The hard part is finding enough buyers](https://techxplore.com/news/2026-06-china-humanoids-scale-hard-buyers.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
-
-Robot demonstrations can distort public perceptions of robotic capabilities.
-
-Ars Technica • 2d ago
-
----
-
-**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
-
-A major state-run mail hub in Guangzhou
-
-Futurism • 1d ago
-
----
-
 **[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
 
 Bloomberg.com • 3d ago
 
 ---
 
-**[AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks](https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/)**
+**[Bristol students take top prize in global robotics competition](https://www.bbc.com/news/articles/c3w2ve6wzq9o)**
 
-AGIBOT said the industry is moving beyond simulation scores toward closed-loop testing on real robots with real tasks.
+Two Bristol students were crowned best in the UK in largest global robotics competition in USA.
 
-The Robot Report • 2h ago
+BBC • 3d ago
 
 ---
 
@@ -150,13 +128,37 @@ NPR • 2d ago
 
 **[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 7h ago
 
 ---
 
 **[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
 
 Reuters • 2d ago
+
+---
+
+**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
+
+Robot demonstrations can distort public perceptions of robotic capabilities.
+
+Ars Technica • 2d ago
+
+---
+
+**[Unitree dancing robots that wowed America’s Got Talent are G1 humanoid models, firm tells GT](https://www.globaltimes.cn/page/202606/1362852.shtml)**
+
+Chinese dancing robots have just stolen the show on America's Got Talent. A performance by Chinese dancer Wu Yufei and eight humanoid robots from Unitree Robotics drew a standing ovation on the season premiere of America’s Got Talent, as the synchronized routine to Lady Gaga’s “Abracadabra” captivated judges and viewers alike, according to the Xinhua News Agency.Chinese robotics company Unitree Robotics confirmed to the Global Times on Friday that the robots featured in the performance were its G1 humanoid models.
+
+Global Times • 2d ago
+
+---
+
+**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
+
+A major state-run mail hub in Guangzhou
+
+Futurism • 1d ago
 
 ---
 
@@ -168,9 +170,11 @@ About Amazon • 3d ago
 
 ---
 
-**[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
+**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
 
-CT Mirror • 6h ago
+Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
+
+Shore Daily News • 2d ago
 
 ---
 
@@ -252,7 +256,7 @@ Are robots still a futuristic novelty, or have they officially become critical u
 
 📺 The Edge of Show & Outer Edge
 
-👁️ 197K • 👍 73 • ⏱️ 45:36 • 3d ago
+👁️ 197K • 👍 73 • ⏱️ 45:36 • 4d ago
 
 ---
 

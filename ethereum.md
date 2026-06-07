@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T15:10:52.029231+00:00'
+updated: '2026-06-07T16:52:19.264336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 15:10 UTC  
+**Last Updated:** June 07, 2026 at 16:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
-**7d:** -18.9%  
-**30d:** -30.1%  
-**90d:** -20.2%  
-**1y:** -35.2%  
+**24h:** +5.2%  
+**7d:** -18.5%  
+**30d:** -29.8%  
+**90d:** -19.8%  
+**1y:** -34.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -148,11 +148,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says](https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says)**
+
+The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
+
+CoinDesk • 3h ago
+
+---
+
 **[Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position](https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position)**
 
 Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
 
-The Block • 21h ago
+The Block • 23h ago
+
+---
+
+**[$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income](https://finance.yahoo.com/markets/crypto/articles/10-000-grayscale-ethereum-staking-220053280.html)**
+
+A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -162,39 +178,11 @@ Barron's • 2d ago
 
 ---
 
-**[Mr Curious(@tahach313)'s insights](https://www.binance.com/en/square/post/331552166392754)**
-
-Binance • 2h ago
-
----
-
-**[Ethereum Foundation Cuts and Departures Aren't a Crisis, Joe Lubin Says](https://www.moomoo.com/news/post/71157187/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe)**
-
-Moomoo • 2h ago
-
----
-
-**[$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income](https://finance.yahoo.com/markets/crypto/articles/10-000-grayscale-ethereum-staking-220053280.html)**
-
-A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
-
-Yahoo Finance • 17h ago
-
----
-
-**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
-
-Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
-
-CoinDesk • 1d ago
-
----
-
 **[$10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600](https://247wallst.com/investing/2026/06/06/10000-in-etht-became-7731-in-one-day-as-ethereum-cracked-below-1600/)**
 
 $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 20h ago
 
 ---
 
@@ -202,15 +190,19 @@ $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was 
 
 Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
-**[Has Ethereum (ETH) Price Finally Bottomed? Here’s Where It Could Head in June 2026](https://coinpedia.org/price-analysis/has-ethereum-eth-price-finally-bottomed-heres-where-it-could-head-in-june-2026/)**
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-Ethereum has entered a major historical support zone, but bearish momentum and weak technical indicators suggest a confirmed bottom is yet to form.
+富途牛牛 • 1d ago
 
-Coinpedia • 21h ago
+---
+
+**[Mr Curious(@tahach313)'s insights](https://www.binance.com/en/square/post/331552166392754)**
+
+Binance • 4h ago
 
 ---
 
@@ -218,7 +210,15 @@ Coinpedia • 21h ago
 
 Wallet data shows Ethereum has over three times as many holders as Bitcoin.
 
-CryptoPotato • 17h ago
+CryptoPotato • 19h ago
+
+---
+
+**[Has Ethereum (ETH) Price Finally Bottomed? Here’s Where It Could Head in June 2026](https://coinpedia.org/price-analysis/has-ethereum-eth-price-finally-bottomed-heres-where-it-could-head-in-june-2026/)**
+
+Ethereum has entered a major historical support zone, but bearish momentum and weak technical indicators suggest a confirmed bottom is yet to form.
+
+Coinpedia • 22h ago
 
 ---
 
@@ -232,7 +232,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 195 • 💬 18 • ⏱️ 16:49 • 2h ago
+👁️ 2K • 👍 195 • 💬 18 • ⏱️ 16:49 • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 1K • 💬 135 • ⏱️ 21:26 • 23h ago
+👁️ 27K • 👍 1K • 💬 135 • ⏱️ 21:26 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 276 • 👍 22 • 💬 20 • ⏱️ 16:40 • 2h ago
+👁️ 276 • 👍 22 • 💬 20 • ⏱️ 16:40 • 3h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 14K • 👍 639 • 💬 167 • ⏱️ 21:27 • 12h ago
+👁️ 14K • 👍 639 • 💬 167 • ⏱️ 21:27 • 13h ago
 
 ---
 

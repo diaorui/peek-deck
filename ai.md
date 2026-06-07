@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-07T15:10:52.016407+00:00'
+updated: '2026-06-07T16:52:19.249150+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 07, 2026 at 15:10 UTC  
+**Last Updated:** June 07, 2026 at 16:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI on an older PC with a CPU that apparently doesn't have AVX >:,(](https://www.reddit.com/r/artificial/comments/1tzehpi/ai_on_an_older_pc_with_a_cpu_that_apparently/)**
+**[I got tired of Al making stuff up about my PDFs, so I built something that actually cites its sources](https://www.reddit.com/r/artificial/comments/1tzaylp/i_got_tired_of_al_making_stuff_up_about_my_pdfs/)**
 
-OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working because of some reason or other. But it was my baby as is housed in a lovely Soprano DX silver brushed case. SO, I swapped out the old HDD for a couple of SSDs (a couple of mirrored OS disks and a large 2TB storage disk) I swapped out the Nvidia 780ti graphics card for a couple of OG Nvidia 1080ti's. I pulled the whole thing to bits.. repasted the northbridge chip, southbridge chip and central CPU. Upgraded the fans to push pull the CPU heatsink. Wrapped ALL cables in mesh and it's so lovely now. Installed Windows 10 Pro. Installed the Nvidia App. Installed CrystalDiskInfo and all is sweet 😄 EXCEPT... I'd like to use this old bangin box for an HG AI server... now I have read that ALL LLMs need this thing called AVX (Advanced Vector Extensions) I didn't even know that was a THING! So even though I have 22Gb worth of GPU sitting there that I was going to point everything to, because I have a lame ass QX6700 CPU sitting on a kickass D975XBX2 (BadAxe2) main board I CAN NOT fulfill my wish for this OG box to be a headless source of awesomeness sitting in it's home under my desk supplying me with a home grown AI. IS THERE ANYTHING I CAN DO?!?!?! Surely after all this time of parts getting munched by AI farms a plenty people have been using what's around to do what they will... Does anyone know of anything I can do apart from just look at it running at 25 degrees aircooled humming along so lovely... it NEEDS purpose!!! 😄 Cheers and thanks all NB
+so i kept using chatgpt to ask questions about my pdfs and notes, and half the time i couldn't tell if it actually read the doc or just made something up that sounded right. that bugged me enough to build my own thing over the last few weeks. you upload a pdf (or word, csv, image, or just paste a link), ask whatever you want, and it answers using only what's in your file - and it shows the exact page it pulled the answer from, so you can check. if the answer isn't in the doc, it just tells you instead of guessing. stuff i actually end up using: flip on web search when i want it to look something up online instead one click to turn a doc into a summary / key points / flashcards (this is clutch for studying) resume review + cover letter help you can talk to it and it reads the answer back it's completely free, i'm not selling anything. honestly just want people to break it and tell me what's missing. link: https://athena-wisdom.vercel.app (there's a short guide on the site too if you get stuck) solo project so be gentle lol - but real feedback is what i'm after, especially what you'd want it to do next.
 
-8m ago
+4h ago
+
+---
+
+**[What would make AI SPM useful instead of just another vendor category?](https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/)**
+
+For enterprise AI/security teams, what would make AI SPM useful rather than just another category label? Is the important part AI asset inventory data access mapping, agent permissions, prompt/data monitoring, policy enforcement or something else?
+
+21m ago
+
+---
+
+**[Has anyone else noticed this LLM language bias?](https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/)**
+
+I have been experimenting with LLMs to see how well they navigate highly cross-referenced texts like the Bible. Standard models often hallucinate verses or lose historical context. To try and fix this, I built a free app called Biblians (no ads, no paywalls). I built it specifically for people who have questions they might hesitate to ask in person, or who simply want a 1-click way to explain a verse. While testing it, I discovered a fascinating denominational bias that is still lingering and changes depending entirely on the language you use: In English: It is Protestant-leaning. It praises Luther, saying things like, "Martin Luther sought to return the Church to the truth of God's Word." In Spanish, French, or Portuguese: It is Catholic-leaning. It condemns Luther's actions, stating: "...trajo confusión..." (...brought confusion...). Has anyone else noticed how drastically the training data changes the core bias based on the language prompted? I would love for this community to test the app, look for other linguistic biases, or just try to break the AI's logic. You can experiment with it here: https://play.google.com/store/apps/details?id=com.biblians.app Let me know what weird outputs you get!
+
+1h ago
 
 ---
 
@@ -49,7 +65,15 @@ OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working
 
 I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
 
-19h ago
+21h ago
+
+---
+
+**[AI on an older PC with a CPU that apparently doesn't have AVX >:,(](https://www.reddit.com/r/artificial/comments/1tzehpi/ai_on_an_older_pc_with_a_cpu_that_apparently/)**
+
+OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working because of some reason or other. But it was my baby as is housed in a lovely Soprano DX silver brushed case. SO, I swapped out the old HDD for a couple of SSDs (a couple of mirrored OS disks and a large 2TB storage disk) I swapped out the Nvidia 780ti graphics card for a couple of OG Nvidia 1080ti's. I pulled the whole thing to bits.. repasted the northbridge chip, southbridge chip and central CPU. Upgraded the fans to push pull the CPU heatsink. Wrapped ALL cables in mesh and it's so lovely now. Installed Windows 10 Pro. Installed the Nvidia App. Installed CrystalDiskInfo and all is sweet 😄 EXCEPT... I'd like to use this old bangin box for an HG AI server... now I have read that ALL LLMs need this thing called AVX (Advanced Vector Extensions) I didn't even know that was a THING! So even though I have 22Gb worth of GPU sitting there that I was going to point everything to, because I have a lame ass QX6700 CPU sitting on a kickass D975XBX2 (BadAxe2) main board I CAN NOT fulfill my wish for this OG box to be a headless source of awesomeness sitting in it's home under my desk supplying me with a home grown AI. IS THERE ANYTHING I CAN DO?!?!?! Surely after all this time of parts getting munched by AI farms a plenty people have been using what's around to do what they will... Does anyone know of anything I can do apart from just look at it running at 25 degrees aircooled humming along so lovely... it NEEDS purpose!!! 😄 Cheers and thanks all NB
+
+1h ago
 
 ---
 
@@ -57,23 +81,15 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 10 year senior dev, vibe coded this in 4 weeks and counting. Something like this would have taken me a year+ before and ive always been a 10x dev. I built this along side my day job (gov contractor dev). Feel free to check it out! https://imgur.com/a/F6OINKR⁠ Game Title: Roguelite MMO Playable Link: https://roguelite-mmo.com/⁠ Platform: PC / Web Description: Roguelite MMO is a browser-based RPG/MMO project built around dungeon runs, exploration, gear progression, PvP, quests, loot, and character building. The game is still in beta and active development, with the latest update adding new side activities and progression options. Latest update: The new Casino is now live, giving players more ways to spend gold, take risks, and chase rewards between dungeon runs and exploration. Horse racing and horse taming have also been added. Players can race horses, bet on races, and work toward collecting better horses over time. Fishing is now available too, adding a more relaxed activity with its own rewards while exploring the world. The core loop is still being refined, but the current focus is making sure players understand what they earned, where important items come from, what to do next, and whether the early gameplay loop feels worth continuing after the first few minutes. Free to play
 
-46m ago
-
----
-
-**[I got tired of Al making stuff up about my PDFs, so I built something that actually cites its sources](https://www.reddit.com/r/artificial/comments/1tzaylp/i_got_tired_of_al_making_stuff_up_about_my_pdfs/)**
-
-so i kept using chatgpt to ask questions about my pdfs and notes, and half the time i couldn't tell if it actually read the doc or just made something up that sounded right. that bugged me enough to build my own thing over the last few weeks. you upload a pdf (or word, csv, image, or just paste a link), ask whatever you want, and it answers using only what's in your file - and it shows the exact page it pulled the answer from, so you can check. if the answer isn't in the doc, it just tells you instead of guessing. stuff i actually end up using: flip on web search when i want it to look something up online instead one click to turn a doc into a summary / key points / flashcards (this is clutch for studying) resume review + cover letter help you can talk to it and it reads the answer back it's completely free, i'm not selling anything. honestly just want people to break it and tell me what's missing. link: https://athena-wisdom.vercel.app (there's a short guide on the site too if you get stuck) solo project so be gentle lol - but real feedback is what i'm after, especially what you'd want it to do next.
-
 2h ago
 
 ---
 
-**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
+**[The harsh truth](https://www.reddit.com/r/artificial/comments/1tzfm7l/the_harsh_truth/)**
 
-I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
+it turns into some unfinished project lying in some GitHub private repo lol
 
-22h ago
+1h ago
 
 ---
 
@@ -83,35 +99,19 @@ I don't know if I'm just wierd but when I ask AI to make me a picture or cooking
 
 ---
 
+**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
+
+I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
+
+1d ago
+
+---
+
 **[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
 
 there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
 
-21h ago
-
----
-
-**[Best AI PowerPoint maker for people who already have content?](https://www.reddit.com/r/artificial/comments/1tz68q4/best_ai_powerpoint_maker_for_people_who_already/)**
-
-Most recommendations I’m seeing are for generating presentations from a topic, but I already HAVE the content. Problem is it’s usually: messy notes meeting transcripts random docs giant walls of text Main thing I want is help turning all of that into slides that are actually readable. Does anything handle that well right now?
-
-6h ago
-
----
-
-**[are AI coding tools just becoming the new cloud bill problem?](https://www.reddit.com/r/artificial/comments/1tz1mdu/are_ai_coding_tools_just_becoming_the_new_cloud/)**
-
-idk maybe this is obvious to people already working in bigger teams, but the AI coding tool cost thing feels like early cloud all over again. Everyone keeps saying tokens are getting cheaper, which is true, but then somehow companies are still freaking out about AI bills. And I think the reason is pretty simple: people are treating these tools like normal SaaS seats when they are really more like metered infra. Like with a normal dev tool you kind of know the cost. X users, Y dollars per month, done. But with agentic coding tools one small request can quietly turn into a bunch of model calls, context loading, tool calls, retries, verification, more retries, etc. From the user side it looks like “fix this bug” or “write this function” but underneath it may have done a whole mini workflow. And then there is the other cost which I feel people don’t talk about enough: reviewing the generated code. Sometimes the code works but it adds weird duplication, misses existing abstractions, or creates stuff that someone has to clean up later. So the bill is not just tokens. It is also review time + maintenance + future tech debt. Not saying these tools are bad btw. I use them too and they are obviously useful. But it feels like the industry is moving from the fun phase of “look what this can do” to the boring phase of “who is paying for all these calls and did this actually ship anything useful?” Curious if teams are actually tracking this properly yet. Like cost per PR, cost per resolved ticket, cost per workflow etc. Or is it still mostly hidden under “AI productivity” and vibes.
-
-11h ago
-
----
-
-**[How accurate are AI checkers?](https://www.reddit.com/r/artificial/comments/1tz149y/how_accurate_are_ai_checkers/)**
-
-I’ve been a movie reviewer for a couple of years, and occasionally people assume my reviews are AI-generated. The thing is, I’ve spent years developing my writing through extensive reading, English classes, and a lot of practice. Because of that, my writing tends to be polished and structured, which I think may be why some AI-detection tools flag it. What I’m curious about is how accurate these AI detectors actually are. Some people have compared my work to AI-generated writing, and when I’ve run my reviews through different AI checkers, I get completely different results. One detector might say a review is 100% AI-generated, another might say 70% or 80%, and another might classify the same review as entirely human-written. Some call it AI, some call it human, and the results seem to be all over the place. None of my reviews are AI-generated. Every review I’ve published has been written entirely by me, without using AI to generate any part of the writing. I just don’t understand how the same piece of writing can receive such wildly different results depending on which detector is being used. Are these tools accurate in any way, shape, or form?
-
-11h ago
+23h ago
 
 ---
 
@@ -123,33 +123,61 @@ I’ve been a movie reviewer for a couple of years, and occasionally people assu
 
 Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding
 
-The Guardian • 4h ago
+The Guardian • 5h ago
+
+---
+
+**[Inside Apple’s Secret Meeting That Led It to Finally Take AI Seriously](https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Here’s How Long It Will Take for AI to Reach Its Potential](https://www.wsj.com/tech/ai/ai-future-advancements-what-to-expect-a4fdba95)**
+
+WSJ • 52m ago
+
+---
+
+**[Intel told me not to wear deodorant to visit its AI chip factory. Then I saw why.](https://www.businessinsider.com/inside-intel-ai-chip-factory-manufacture-humans-greatest-threat-2026-6)**
+
+I visited Intel's massive chip factory in Oregon, where robots outnumber people and a single human hair or skin particle can cause costly damage.
+
+Business Insider • 1h ago
+
+---
+
+**[This Map Tracks 4,000 AI Data Centers Being Built—and Reveals Where the Biggest Boom Is](https://www.inc.com/fast-company-2/data-centers-map-ai-boom-erin-brockovich-reporting-website/91357251)**
+
+inc.com • 13m ago
+
+---
+
+**[‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late](https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786)**
+
+Politico • 5h ago
+
+---
+
+**['A splash of cold water': Wall Street gauges pause in AI trade](https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html)**
+
+Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Opinion | Human intelligence will win out over artificial intelligence](https://www.washingtonpost.com/opinions/2026/06/07/why-human-intelligence-still-matters-age-ai/)**
+
+The more machines can do, the clearer it becomes what only human beings can provide.
+
+The Washington Post • 1h ago
 
 ---
 
 **[The business of AI's 4 harsh realities](https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom)**
 
-Axios • 2h ago
-
----
-
-**[How AI clouds the future of WA’s rivers](https://www.seattletimes.com/opinion/how-ai-clouds-the-future-of-was-rivers/)**
-
-The Seattle Times • 10m ago
-
----
-
-**[The AI Boom Has A Blue-Collar Bottleneck](https://www.forbes.com/sites/rrapier/2026/06/07/the-ai-boom-has-a-blue-collar-bottleneck/)**
-
-AI’s data center boom is straining the power grid and creating demand for electricians, line workers, and other skilled infrastructure workers.
-
-Forbes • 12m ago
-
----
-
-**[How artificial intelligence got better at building itself](https://www.economist.com/science-and-technology/2026/06/07/how-artificial-intelligence-got-better-at-building-itself)**
-
-The Economist • 55m ago
+Axios • 3h ago
 
 ---
 
@@ -161,38 +189,6 @@ Fortune • 2d ago
 
 ---
 
-**[My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.](https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6)**
-
-A Miami home seller is open to accepting shares in OpenAI, Anthropic, or SpaceX as payment, reflecting a trend in investment strategy.
-
-Business Insider • 6h ago
-
----
-
-**[OpenAI plots biggest ChatGPT overhaul since launch](https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9?syn-25a6b1a6=1)**
-
-$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO
-
-Financial Times • 11h ago
-
----
-
-**[Opinion | Human intelligence will win out over artificial intelligence](https://www.washingtonpost.com/opinions/2026/06/07/why-human-intelligence-still-matters-age-ai/)**
-
-The more machines can do, the clearer it becomes what only human beings can provide.
-
-The Washington Post • 9m ago
-
----
-
-**['A splash of cold water': Wall Street gauges pause in AI trade](https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html)**
-
-Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.
-
-Yahoo Finance • 3h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +197,7 @@ Yahoo Finance • 3h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 649 • 💬 237 • 20h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+⬆️ 656 • 💬 237 • 22h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
@@ -213,17 +209,9 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 ---
 
-**[When AI Builds Itself: Our progress toward recursive self-improvement](https://news.ycombinator.com/item?id=48400842)**
-
-Our progress toward recursive self-improvement, and its implications.
-
-⬆️ 523 • 💬 692 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
-
----
-
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 425 • 💬 708 • 1d ago
+⬆️ 432 • 💬 713 • 1d ago
 
 ---
 
@@ -247,27 +235,33 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 271 • 💬 150 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 274 • 💬 151 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 213 • 💬 98 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 217 • 💬 99 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
 **[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
 
-⬆️ 182 • 💬 100 • 1d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 182 • 💬 101 • 1d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 
 ---
 
-**[Google employees internally share memes about how its AI sucks](https://news.ycombinator.com/item?id=48400311)**
+**[Ask HN: What is your (AI) dev tech stack / workflow?](https://news.ycombinator.com/item?id=48413629)**
 
-Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.
+⬆️ 155 • 💬 130 • 2d ago
 
-⬆️ 167 • 💬 104 • 2d ago • [404 Media](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
+---
+
+**[Police in England and Wales told to halt AI use in court statements](https://news.ycombinator.com/item?id=48426022)**
+
+Safeguards must be in place before forces automate justice tasks, says head of Police.AI
+
+⬆️ 152 • 💬 49 • 1d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 
 ---
 
@@ -281,7 +275,7 @@ Google DeepMind just released Gemma 4 12B, a new AI model that completely change
 
 📺 Better Stack
 
-👁️ 22K • 👍 913 • 💬 74 • ⏱️ 11:02 • 13h ago
+👁️ 22K • 👍 913 • 💬 74 • ⏱️ 11:02 • 15h ago
 
 ---
 
@@ -301,7 +295,7 @@ HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more
 
 📺 AI Search
 
-👁️ 53K • 👍 3K • 💬 268 • ⏱️ 49:09 • 11h ago
+👁️ 53K • 👍 3K • 💬 268 • ⏱️ 49:09 • 13h ago
 
 ---
 
@@ -311,7 +305,7 @@ You've probably heard that the artificial intelligence revolution is running out
 
 📺 The Infographics Show
 
-👁️ 298K • 👍 7K • 💬 1K • ⏱️ 19:55 • 23h ago
+👁️ 298K • 👍 7K • 💬 1K • ⏱️ 19:55 • 1d ago
 
 ---
 
@@ -341,7 +335,7 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 70K • 👍 4K • 💬 905 • ⏱️ 15:39 • 16h ago
+👁️ 70K • 👍 4K • 💬 905 • ⏱️ 15:39 • 18h ago
 
 ---
 
@@ -351,7 +345,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 678K • 👍 45K • 💬 1K • ⏱️ 0:45 • 21h ago
+👁️ 678K • 👍 45K • 💬 1K • ⏱️ 0:45 • 23h ago
 
 ---
 
@@ -359,7 +353,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Patrick Zeinali
 
-👁️ 4.1M • 👍 117K • 💬 1K • ⏱️ 0:29 • 1d ago
+👁️ 4.1M • 👍 117K • 💬 1K • ⏱️ 0:29 • 2d ago
 
 ---
 
@@ -369,7 +363,7 @@ The REAL REASON All AI Stocks Plunged On Friday! How YOU Can Profit From This AI
 
 📺 Austin Talks Investing
 
-👁️ 2K • 👍 75 • 💬 9 • ⏱️ 10:10 • 21h ago
+👁️ 2K • 👍 75 • 💬 9 • ⏱️ 10:10 • 22h ago
 
 ---
 
@@ -469,7 +463,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 16,924 • ❤️ 246 • 5d ago
+⬇️ 16,924 • ❤️ 246 • 6d ago
 
 ---
 
@@ -643,7 +637,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 60.6k • 🔱 7.3k • 2m ago
+⭐ 60.6k • 🔱 7.3k • 1h ago
 
 ---
 
@@ -661,7 +655,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.6k • 🔱 747 • 3d ago
+⭐ 3.6k • 🔱 747 • 4d ago
 
 ---
 
@@ -701,7 +695,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 172 • 16m ago
+⭐ 2.0k • 🔱 172 • 1h ago
 
 ---
 
@@ -711,7 +705,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.0k • 🔱 219 • 11h ago
+⭐ 2.0k • 🔱 219 • 13h ago
 
 ---
 
@@ -721,7 +715,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.8k • 🔱 135 • 10h ago
+⭐ 1.8k • 🔱 135 • 12h ago
 
 ---
 
