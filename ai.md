@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-07T08:35:11.902931+00:00'
+updated: '2026-06-07T11:09:41.415069+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 07, 2026 at 08:35 UTC  
+**Last Updated:** June 07, 2026 at 11:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 the interesting shift is when AI stops sitting in a chat box and starts sharing the browser with you.
 
-4h ago
+6h ago
 
 ---
 
@@ -49,7 +49,31 @@ the interesting shift is when AI stops sitting in a chat box and starts sharing 
 
 I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
 
-13h ago
+15h ago
+
+---
+
+**[What happened in AI in the last 24 hours](https://www.reddit.com/r/artificial/comments/1tz997d/what_happened_in_ai_in_the_last_24_hours/)**
+
+🚀 SpaceX signed a massive $920 million monthly deal with Google for 110,000 Nvidia chips — this is a huge infrastructure play ahead of their monster $1.7 trillion IPO. 🏛️ The Trump administration is discussing taking equity stakes in top AI firms — this would make the public official partners in the upside of AI-driven economic growth. 🔓 Meta's automated AI support was hacked to take over high-profile accounts — it proves that offloading critical security tasks to AI can create dangerous, easily exploited vulnerabilities. 🧠 Tech workers are trading hours of manual labor for high-level strategy thanks to AI — while tasks now take minutes, humans are still needed for crucial, complex decision-making.
+
+1m ago
+
+---
+
+**[How I built an AI email agent that processes 15,000 hotel guest emails per day. full architecture breakdown](https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/)**
+
+Just shipped this project and wanted to share the full technical breakdown because hotel/hospitality AI doesn't get much attention compared to the usual chatbot and SaaS use cases. The client manages 500 hotel properties. Their support team was manually handling around 15,000 guest emails per day. Same questions over and over across hundreds of hotels but each one still needed a human to read it, understand it, find the answer, and reply. Here's how the system works end to end: Layer 1: Email ingestion and question extraction This was the hardest part. Guest emails are messy. A typical one looks like: "Hi there, we're coming for our anniversary on the 20th and I was wondering if you have any room upgrades available. Also is the spa open to guests or do we need to book separately? We're driving so need to know about parking too. Last time we stayed the wifi was a bit slow in our room, has that been fixed? Thanks!" That's four separate questions plus a complaint wrapped in one email. If you just embed the whole thing and search the FAQ database you get a blended result that partially answers one or two questions and misses the rest. So I built an extraction layer that reads the full email and breaks it into individual questions. It handles directly stated questions ("is the spa open?"), implied questions ("we're driving" implies they need parking info), complaints that need acknowledgment but aren't FAQ-searchable ("wifi was slow"), and informational context that shouldn't be treated as a question at all ("coming on the 20th"). Getting this extraction reliable was probably 40% of the total development time. Layer 2: FAQ knowledge base with vector search All hotel FAQs get embedded and stored in a vector database. Different properties have different amenities, policies, and details so the search is scoped per hotel. When a guest emails the Berlin property asking about breakfast, it searches the Berlin FAQ, not the Munich one. Each extracted question from Layer 1 gets searched independently against the relevant hotel's FAQ. This is critical because searching each question separately gives way better retrieval quality than searching the entire email as one blob. Layer 3: Response assembly Takes the extracted questions plus their FAQ matches and generates a natural email response. The tone needs to sound like a helpful hotel staff member, not a chatbot. It addresses every question the guest asked in a logical order and flags anything it couldn't find an FAQ match for so the support team knows which emails need human follow-up. What I learned: The question extraction step is where most email AI projects would fail. It's tempting to skip it and just do whole-email retrieval. That works for short simple messages but completely breaks down on real customer emails that ramble across multiple topics. Investing the time in proper extraction made everything downstream work better. The per-hotel scoping was more important than I expected. Generic FAQ answers that don't match the specific property create confusion and erode trust. A guest asking about parking at a city center hotel needs a different answer than one asking about parking at a resort property. I made a full step-by-step video walking through the entire build process if anyone wants to see the actual implementation: link Happy to answer questions about the architecture.
+
+21m ago
+
+---
+
+**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
+
+I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
+
+18h ago
 
 ---
 
@@ -59,19 +83,11 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 ---
 
-**[Does anyone else say please and thank you to AI? Or am I just wierd?](https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/)**
-
-I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
-
-16h ago
-
----
-
 **[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
 
 there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
 
-15h ago
+17h ago
 
 ---
 
@@ -79,7 +95,7 @@ there's a pattern i keep seeing in multi-model setups (karpathy's llm council, t
 
 McDonald's is testing ArchIQ, an AI drive-thru system powered by Google Cloud, enabling faster multilingual ordering with up to 90% automation in pilot stores globally
 
-🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/what-archy-mcdonalds-ai-drive-thru-assistant-archiq-powered-by-google-faster-automated-ordering-87551) • 4m ago
+🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/what-archy-mcdonalds-ai-drive-thru-assistant-archiq-powered-by-google-faster-automated-ordering-87551) • 2h ago
 
 ---
 
@@ -87,15 +103,7 @@ McDonald's is testing ArchIQ, an AI drive-thru system powered by Google Cloud, e
 
 Most recommendations I’m seeing are for generating presentations from a topic, but I already HAVE the content. Problem is it’s usually: messy notes meeting transcripts random docs giant walls of text Main thing I want is help turning all of that into slides that are actually readable. Does anything handle that well right now?
 
-21m ago
-
----
-
-**[Intelligence Network](https://www.reddit.com/r/artificial/comments/1tyyy9i/intelligence_network/)**
-
-Creating an intelligence network where signals are turned into intelligence. Goal is to create network/digital ecosystems of intelligence. Any feedback is appreciated. Still early in the works check it out https://echonaxnetwork.com/
-
-6h ago
+2h ago
 
 ---
 
@@ -103,15 +111,7 @@ Creating an intelligence network where signals are turned into intelligence. Goa
 
 idk maybe this is obvious to people already working in bigger teams, but the AI coding tool cost thing feels like early cloud all over again. Everyone keeps saying tokens are getting cheaper, which is true, but then somehow companies are still freaking out about AI bills. And I think the reason is pretty simple: people are treating these tools like normal SaaS seats when they are really more like metered infra. Like with a normal dev tool you kind of know the cost. X users, Y dollars per month, done. But with agentic coding tools one small request can quietly turn into a bunch of model calls, context loading, tool calls, retries, verification, more retries, etc. From the user side it looks like “fix this bug” or “write this function” but underneath it may have done a whole mini workflow. And then there is the other cost which I feel people don’t talk about enough: reviewing the generated code. Sometimes the code works but it adds weird duplication, misses existing abstractions, or creates stuff that someone has to clean up later. So the bill is not just tokens. It is also review time + maintenance + future tech debt. Not saying these tools are bad btw. I use them too and they are obviously useful. But it feels like the industry is moving from the fun phase of “look what this can do” to the boring phase of “who is paying for all these calls and did this actually ship anything useful?” Curious if teams are actually tracking this properly yet. Like cost per PR, cost per resolved ticket, cost per workflow etc. Or is it still mostly hidden under “AI productivity” and vibes.
 
-4h ago
-
----
-
-**[How accurate AI checker software](https://www.reddit.com/r/artificial/comments/1tz14pq/how_accurate_ai_checker_software/)**
-
-I’ve been a movie reviewer for a couple of years, and occasionally people assume my reviews are AI-generated. The thing is, I’ve spent years developing my writing through extensive reading, English classes, and a lot of practice. Because of that, my writing tends to be polished and structured, which I think may be why some AI-detection tools flag it. What I’m curious about is how accurate these AI detectors actually are. Some people have compared my work to AI-generated writing, and when I’ve run my reviews through different AI checkers, I get completely different results. One detector might say a review is 100% AI-generated, another might say 70% or 80%, and another might classify the same review as entirely human-written. Some call it AI, some call it human, and the results seem to be all over the place. None of my reviews are AI-generated. Every review I’ve published has been written entirely by me, without using AI to generate any part of the writing. I just don’t understand how the same piece of writing can receive such wildly different results depending on which detector is being used. Are these tools accurate in any way, shape, or form?
-
-5h ago
+7h ago
 
 ---
 
@@ -119,31 +119,41 @@ I’ve been a movie reviewer for a couple of years, and occasionally people assu
 
 ## Google News: "ai"
 
-**[We should be getting better at AI by now](https://www.ft.com/content/9753a44c-bec8-4d89-bac6-3416713c3166?syn-25a6b1a6=1)**
-
-From cancelled novels to legal fines, the scale of blunders only halfway through the year suggests the opposite
-
-Financial Times • 5h ago
-
----
-
 **[Trump: U.S. stake in AI giants "could be a beautiful thing"](https://www.axios.com/2026/06/06/trump-us-stake-ai-companies)**
 
-Axios • 18h ago
+Axios • 21h ago
 
 ---
 
-**[‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites)**
+**[4 surprising ways AI is making your life more expensive](https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence/)**
 
-Buyers are ripped off after assuming online stores were genuine because they are recommended by an AI tool
+These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-The Guardian • 2h ago
+The Washington Post • 19h ago
 
 ---
 
-**[What Happens If the AI Bubble Bursts](https://www.bloomberg.com/news/newsletters/2026-06-07/what-happens-if-the-ai-bubble-bursts)**
+**[‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism](https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence)**
 
-Bloomberg.com • 35m ago
+Backlash against AI is taking an extremist turn, following in the footsteps of earlier techno-pessimist militants
+
+The Guardian • 1h ago
+
+---
+
+**[My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.](https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6)**
+
+A Miami home seller is open to accepting shares in OpenAI, Anthropic, or SpaceX as payment, reflecting a trend in investment strategy.
+
+Business Insider • 2h ago
+
+---
+
+**[The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)**
+
+A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
+
+Forbes • 39m ago
 
 ---
 
@@ -155,33 +165,17 @@ Fortune • 2d ago
 
 ---
 
-**[4 surprising ways AI is making your life more expensive](https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence/)**
+**[OpenAI plots biggest ChatGPT overhaul since launch](https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9?syn-25a6b1a6=1)**
 
-These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
+$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO
 
-The Washington Post • 16h ago
-
----
-
-**[My father and I started a parking lot clean-up business. It's been 45 years, and my family-run company is still AI-proof.](https://www.businessinsider.com/family-run-business-cleans-up-parking-lots-ai-proof-2026-6)**
-
-My dad inspired me to start a small business cleaning parking lots, and I expanded it to multiple states. I call it "America's Simplest Business."
-
-Business Insider • 18h ago
-
----
-
-**[AI’s elite celebrated in Washington as the public sours on data centers and chatbots](https://www.nbcnews.com/tech/tech-news/ai-washington-data-center-chatbots-kevin-oleary-oz-rcna348625)**
-
-The AI Honors gala gathered generals, lobbyists and administration insiders for a celebration of American AI efforts while acknowledging growing unrest about the technology’s impact on society.
-
-NBC News • 16h ago
+Financial Times • 7h ago
 
 ---
 
 **[White House AI policy adviser Krishnan to leave position](https://www.reuters.com/world/us/white-house-ai-policy-adviser-krishnan-leave-position-information-reports-2026-06-06/)**
 
-Reuters • 13h ago
+Reuters • 16h ago
 
 ---
 
@@ -189,7 +183,13 @@ Reuters • 13h ago
 
 Sriram Krishnan, who has been central to the administration’s AI efforts, will probably continue to play an active role in its approach to the technology.
 
-The Washington Post • 7h ago
+The Washington Post • 9h ago
+
+---
+
+**[Trump AI Policy Adviser Krishnan Is Giving Up White House Role](https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Washington Post • 7h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 568 • 💬 206 • 13h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+⬆️ 609 • 💬 219 • 16h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
@@ -217,7 +217,13 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 523 • 💬 691 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 523 • 💬 692 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+
+---
+
+**[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
+
+⬆️ 417 • 💬 685 • 1d ago
 
 ---
 
@@ -226,12 +232,6 @@ Our progress toward recursive self-improvement, and its implications.
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
 ⬆️ 417 • 💬 262 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
-
----
-
-**[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
-
-⬆️ 410 • 💬 674 • 1d ago
 
 ---
 
@@ -247,19 +247,19 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 267 • 💬 148 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 268 • 💬 149 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 206 • 💬 91 • 23h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 210 • 💬 94 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
 **[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
 
-⬆️ 181 • 💬 100 • 1d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+⬆️ 182 • 💬 100 • 1d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 
 ---
 
@@ -275,23 +275,13 @@ Google’s CEO says 75% of the company’s code is AI-generated. The people who 
 
 ## YouTube Videos: "ai"
 
-**[Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](https://www.youtube.com/watch?v=CzxqQJOswvo)**
-
-HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more #ai #ainews #aitools #agi #singularity ...
-
-📺 AI Search
-
-👁️ 21K • 👍 1K • 💬 154 • ⏱️ 49:09 • 5h ago
-
----
-
 **[Google&#39;s New AI Architecture Changes Everything (Gemma 4 12B)](https://www.youtube.com/watch?v=WLtCHXdHTF0)**
 
 Google DeepMind just released Gemma 4 12B, a new AI model that completely changes how LLMs process pictures and sound.
 
 📺 Better Stack
 
-👁️ 10K • 👍 486 • 💬 47 • ⏱️ 11:02 • 7h ago
+👁️ 15K • 👍 682 • 💬 64 • ⏱️ 11:02 • 9h ago
 
 ---
 
@@ -301,7 +291,15 @@ Anthropic just published a major warning about AI self-improvement, and the numb
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 289 • ⏱️ 17:13 • 1d ago
+👁️ 64K • 👍 2K • 💬 294 • ⏱️ 17:13 • 1d ago
+
+---
+
+**[AI Tells Me to Drink Bleach](https://www.youtube.com/watch?v=Eky_eh-aSuM)**
+
+📺 CodeMiko
+
+👁️ 33K • 👍 2K • 💬 167 • ⏱️ 0:49 • 22h ago
 
 ---
 
@@ -311,17 +309,27 @@ You've probably heard that the artificial intelligence revolution is running out
 
 📺 The Infographics Show
 
-👁️ 253K • 👍 6K • 💬 1K • ⏱️ 19:55 • 17h ago
+👁️ 273K • 👍 6K • 💬 1K • ⏱️ 19:55 • 19h ago
 
 ---
 
-**[How to Build Your First AI Agent in 10 Minutes (No Code)](https://www.youtube.com/watch?v=5MmToIaVvFc)**
+**[Full body waifus, AI dreams, realtime AI music, open-source Gemini Omni: AI NEWS](https://www.youtube.com/watch?v=CzxqQJOswvo)**
 
-Learn how to build your first AI agent in 10 minutes with no code. This step-by-step beginner tutorial takes you from zero to a fully ...
+HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more #ai #ainews #aitools #agi #singularity ...
 
-📺 Metics Media
+📺 AI Search
 
-👁️ 6K • 👍 249 • 💬 4 • ⏱️ 10:09 • 20h ago
+👁️ 36K • 👍 2K • 💬 197 • ⏱️ 49:09 • 7h ago
+
+---
+
+**[The AI obsession is backfiring](https://www.youtube.com/watch?v=apnIvQXMyz0)**
+
+Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 63K • 👍 4K • 💬 833 • ⏱️ 15:39 • 12h ago
 
 ---
 
@@ -331,17 +339,27 @@ The artificial intelligence company's warns that we need to pause development be
 
 📺 ABC News
 
-👁️ 81K • 👍 2K • 💬 604 • ⏱️ 4:00 • 1d ago
+👁️ 84K • 👍 2K • 💬 607 • ⏱️ 4:00 • 1d ago
 
 ---
 
-**[The REAL REASON All AI Stocks Plunged On Friday! How YOU Can Profit From This AI Stock Downturn!](https://www.youtube.com/watch?v=vyukgebHLj8)**
+**[How to Build a $10M Business with AI (Zero Employees)](https://www.youtube.com/watch?v=b3yuAekDS4U)**
 
-The REAL REASON All AI Stocks Plunged On Friday! How YOU Can Profit From This AI Stock Downturn! Why did AI stocks ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4x5Fku6 Are you building an AI software ...
 
-📺 Austin Talks Investing
+📺 Dan Martell
 
-👁️ 2K • 👍 69 • 💬 7 • ⏱️ 10:10 • 14h ago
+👁️ 76K • 👍 3K • 💬 142 • ⏱️ 14:11 • 2d ago
+
+---
+
+**[I Asked AI to Recreate This Image 100 Times To See What Would Happen](https://www.youtube.com/watch?v=imbF-igIJDM)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 622K • 👍 41K • 💬 976 • ⏱️ 0:45 • 17h ago
 
 ---
 
@@ -349,27 +367,7 @@ The REAL REASON All AI Stocks Plunged On Friday! How YOU Can Profit From This AI
 
 📺 Patrick Zeinali
 
-👁️ 3.9M • 👍 110K • 💬 1K • ⏱️ 0:29 • 1d ago
-
----
-
-**[The AI Bubble Is Starting To Pop...](https://www.youtube.com/watch?v=qM0BWixY09w)**
-
-SOURCES 1: https://x.com/BusinessInsider/status/2062211094450434219 2: ...
-
-📺 YongYea
-
-👁️ 168K • 👍 7K • 💬 2K • ⏱️ 17:22 • 1d ago
-
----
-
-**[Anthropic co-founder actually wants AI to slow down](https://www.youtube.com/watch?v=z0X2fTYUIgA)**
-
-AI models are rapidly improving – so fast that they may soon be able to develop themselves without human involvement.
-
-📺 CNN
-
-👁️ 29K • 👍 364 • 💬 191 • ⏱️ 8:01 • 1d ago
+👁️ 4.0M • 👍 113K • 💬 1K • ⏱️ 0:29 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 115,556 • ❤️ 1,478 • 11d ago
+⬇️ 115,556 • ❤️ 1,483 • 11d ago
 
 ---
 
@@ -397,7 +395,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 434,969 • ❤️ 638 • 2d ago
+⬇️ 434,969 • ❤️ 648 • 2d ago
 
 ---
 
@@ -409,7 +407,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 568,158 • ❤️ 429 • 1d ago
+⬇️ 568,158 • ❤️ 432 • 1d ago
 
 ---
 
@@ -421,7 +419,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 99,655 • ❤️ 385 • 2d ago
+⬇️ 99,655 • ❤️ 389 • 2d ago
 
 ---
 
@@ -433,7 +431,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 4,377 • ❤️ 317 • 3d ago
+⬇️ 4,377 • ❤️ 325 • 3d ago
 
 ---
 
@@ -445,7 +443,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,923,564 • ❤️ 1,496 • 1mo ago
+⬇️ 2,923,564 • ❤️ 1,499 • 1mo ago
 
 ---
 
@@ -457,7 +455,19 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 162,822 • ❤️ 713 • 17d ago
+⬇️ 162,822 • ❤️ 715 • 17d ago
+
+---
+
+**[Mellum2-12B-A2.5B-Thinking](https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking)**
+
+*JetBrains*
+
+Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tasks, generating explicit chain-of-thought explanations within `<think>` blocks. It excels in multi-step planning, agentic workflows, and math/reasoning-heavy problems, featuring a 131,072 token context length.
+
+`text-generation` `12.1B`
+
+⬇️ 16,924 • ❤️ 244 • 5d ago
 
 ---
 
@@ -473,18 +483,6 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 ---
 
-**[Mellum2-12B-A2.5B-Thinking](https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking)**
-
-*JetBrains*
-
-Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tasks, generating explicit chain-of-thought explanations within `<think>` blocks. It excels in multi-step planning, agentic workflows, and math/reasoning-heavy problems, featuring a 131,072 token context length.
-
-`text-generation` `12.1B`
-
-⬇️ 16,924 • ❤️ 241 • 5d ago
-
----
-
 **[ideogram-4-nf4](https://huggingface.co/ideogram-ai/ideogram-4-nf4)**
 
 *Ideogram*
@@ -493,7 +491,7 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 3,844 • ❤️ 217 • 2d ago
+⬇️ 3,844 • ❤️ 219 • 2d ago
 
 ---
 
@@ -588,7 +586,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 165 • 💬 2 • ⭐ 66,666 • 8mo ago
+▲ 165 • 💬 2 • ⭐ 66,705 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -627,7 +625,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 79 • 💬 7 • ⭐ 76,030 • 22mo ago
+▲ 79 • 💬 7 • ⭐ 76,075 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -643,7 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 59.8k • 🔱 7.2k • 4h ago
+⭐ 60.1k • 🔱 7.3k • 12m ago
 
 ---
 
@@ -661,7 +659,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.6k • 🔱 744 • 3d ago
+⭐ 3.6k • 🔱 745 • 3d ago
 
 ---
 
@@ -671,7 +669,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.1k • 🔱 310 • 2d ago
+⭐ 3.1k • 🔱 312 • 2d ago
 
 ---
 
@@ -681,7 +679,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 316 • 1d ago
+⭐ 3.0k • 🔱 317 • 1d ago
 
 ---
 
@@ -701,7 +699,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.9k • 🔱 201 • 5h ago
+⭐ 1.9k • 🔱 208 • 7h ago
 
 ---
 
@@ -715,23 +713,23 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 ---
 
+**[XingYu-Zhong/DeepSeek-GUI](https://github.com/XingYu-Zhong/DeepSeek-GUI)**
+
+AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.
+
+`TypeScript`
+
+⭐ 1.8k • 🔱 154 • 4h ago
+
+---
+
 **[deeplethe/forkd](https://github.com/deeplethe/forkd)**
 
 Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.8k • 🔱 132 • 4h ago
-
----
-
-**[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)**
-
-AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
-
-`Python`
-
-⭐ 1.8k • 🔱 159 • 4d ago
+⭐ 1.8k • 🔱 134 • 6h ago
 
 ---
 

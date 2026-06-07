@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T08:35:11.916038+00:00'
+updated: '2026-06-07T11:09:41.429687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 08:35 UTC  
+**Last Updated:** June 07, 2026 at 11:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,607.48
+### $1,631.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -19.2%  
-**30d:** -30.4%  
-**90d:** -20.5%  
-**1y:** -35.5%  
+**24h:** +3.4%  
+**7d:** -18.9%  
+**30d:** -30.0%  
+**90d:** -20.2%  
+**1y:** -35.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.15B
+**Market Cap:** $196.04B
 Rank #2
 
 **Circulating Supply:** 120,684,518 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.3%
+-67.2%
 
 **All-Time Low:** $0.43
-+373024.3%
++374839.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+6h ago
 
 ---
 
@@ -86,13 +86,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-22h ago
+1d ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 2d ago
 
 ---
 
@@ -152,7 +152,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
 
-The Block • 15h ago
+The Block • 17h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html)**
+
+Bitcoin opened at $63,812.18 on Friday, June 5, 2026, down 0.3% from Thursday's opening price. The value was $62,411.20 at 7:29 a.m ET. Ethereum opened at $1,768.86 on Friday, down 2.4% from Thursday's opening price. The value of ethereum was $1,676.27 at 7:29 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,11 +170,25 @@ Barron's • 2d ago
 
 ---
 
-**[Tom Lee is sitting on nearly $9B in losses as ethereum slides lower](https://finance.yahoo.com/video/tom-lee-sitting-nearly-9b-180000024.html)**
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-Scott Melker discusses how Bitmine chairman Tom Lee is reportedly sitting on $9 billion in unrealized ethereum (ETH-USD) losses as the crypto asset has slid below $1,600. Lee currently owns 4.4% of all ethereum tokens. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+富途牛牛 • 1d ago
 
-Yahoo Finance • 14h ago
+---
+
+**[$Bitcoin (BTC.CC)$ $Ethereum (ETH.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-ethereum-eth-cc-116708228923397)**
+
+@Stock_Drift 9342 Views|1 Like
+
+Moomoo • 1h ago
+
+---
+
+**[Tom Lee’s BitMine Prices 9.5% Preferred Shares to Fund Ethereum Strategy](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-prices-9-192900897.html)**
+
+BitMine Immersion Technologies Inc. (NYSE: $BMNR) priced an upsized preferred stock offering as Tom Lee's Ether...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,7 +196,7 @@ Yahoo Finance • 14h ago
 
 Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
 
-CoinDesk • 17h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -182,43 +204,21 @@ CoinDesk • 17h ago
 
 $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was worth about $7,731 by the closing bell. The fund closed at $7.77 from a $10.05 open, a 22.69% drop in a single session on June 5, 2026, as Ethereum cracked through $1,600 on the way to $1,596.42. Spot ETH, depending on how you ... $10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600
 
-24/7 Wall St. • 12h ago
+24/7 Wall St. • 14h ago
+
+---
+
+**['Cancerous' Altcoins And A Struggling Ethereum Could Drag Bitcoin To $38,000, Gary Cardone Warns](https://www.tradingview.com/news/stocktwits:c58034a91094b:0-cancerous-altcoins-and-a-struggling-ethereum-could-drag-bitcoin-to-38-000-gary-cardone-warns/)**
+
+Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
+
+TradingView • 2h ago
 
 ---
 
 **[Ethereum (ETH) And Solana (SOL) Poised For Gains After Crypto Bear Market Ends](https://www.crowdfundinsider.com/2026/06/283331-ethereum-eth-and-solana-sol-poised-for-gains-after-crypto-bear-market-ends/)**
 
 Crowdfund Insider • 2d ago
-
----
-
-**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
-
-富途牛牛 • 1d ago
-
----
-
-**[Ethereum Golden Triangle Survives As Structure Remains Unbroken, This Target Says $10,000 Is Coming](https://www.tradingview.com/news/newsbtc:90bc7992d094b:0-ethereum-golden-triangle-survives-as-structure-remains-unbroken-this-target-says-10-000-is-coming/)**
-
-Technical analysis of the 3-week chart outlook shows ETH pressing into the apex of a golden triangle formation that has survived the Covid crash, the 2022 bear market, and the ongoing 2026 correction. According to the analyst who first identified it, what happens next at the apex of that structure…
-
-TradingView • 14h ago
-
----
-
-**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
-
-BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
-
-Decrypt • 1d ago
-
----
-
-**[Ethereum Has 3x More Holders Than Bitcoin Despite a Brutal Price Decline: Analyst](https://cryptopotato.com/ethereum-has-3x-more-holders-than-bitcoin-despite-a-brutal-price-decline-analyst/)**
-
-Wallet data shows Ethereum has over three times as many holders as Bitcoin.
-
-CryptoPotato • 11h ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 1K • 💬 123 • ⏱️ 21:26 • 16h ago
+👁️ 26K • 👍 1K • 💬 131 • ⏱️ 21:26 • 19h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN LIQUIDATIONS COMING: PREPARE NOW!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 7K • 👍 444 • 💬 91 • ⏱️ 21:27 • 5h ago
+👁️ 11K • 👍 551 • 💬 91 • ⏱️ 21:27 • 8h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 543 • 💬 78 • ⏱️ 21:23 • 18h ago
+👁️ 14K • 👍 560 • 💬 74 • ⏱️ 21:23 • 21h ago
 
 ---
 
@@ -262,17 +262,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 173 • 💬 36 • ⏱️ 14:13 • 20h ago
-
----
-
-**[Bitcoin &amp; Ethereum, Panikmache und wie es jetzt weitergehen sollte!](https://www.youtube.com/watch?v=uwjb9dEb36Q)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 508 • 💬 57 • ⏱️ 20:54 • 3h ago
+👁️ 6K • 👍 172 • 💬 37 • ⏱️ 14:13 • 23h ago
 
 ---
 
@@ -282,17 +272,7 @@ Over the last thirty days, the XRP Ledger took in roughly one and a half billion
 
 📺 Kamilah Stevenson
 
-👁️ 27K • 👍 2K • 💬 291 • ⏱️ 13:31 • 1d ago
-
----
-
-**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 1K • 👍 21 • 💬 3 • ⏱️ 5:45 • 1d ago
+👁️ 27K • 👍 2K • 💬 292 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -302,7 +282,17 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 409 • 💬 20 • ⏱️ 8:30 • 1d ago
+👁️ 9K • 👍 417 • 💬 20 • ⏱️ 8:30 • 1d ago
+
+---
+
+**[Ethereum Crashed Into FEAR! The Bottom May Be Sooner Than You Think!](https://www.youtube.com/watch?v=uC9u2Xkahf4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 5:45 • 1d ago
 
 ---
 
@@ -316,13 +306,23 @@ Book a call with my team to setup your Flywheel → https://jakec.link/wc52jk45.
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=x7ZZ0BNDAJo)**
+**[Bitcoin &amp; Ethereum, Panikmache und wie es jetzt weitergehen sollte!](https://www.youtube.com/watch?v=uwjb9dEb36Q)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
 
-📺 Crypto Gyan
+📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 190 • 💬 14 • ⏱️ 7:38 • 6h ago
+👁️ 3K • 👍 654 • 💬 91 • ⏱️ 20:54 • 5h ago
+
+---
+
+**[CRASHING NOW Bitcoin to $60,000? Ethereum CRASHING $2 TRILLION Leaves CRYPTO!](https://www.youtube.com/watch?v=KG6CvTgTK2o)**
+
+CRASHING NOW Bitcoin to $60000? Ethereum CRASHING $2 TRILLION Leaves CRYPTO! iTrustCapital (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 414 • 💬 38 • ⏱️ 30:38 • 2d ago
 
 ---
 
