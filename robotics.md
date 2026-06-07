@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T13:03:22.420224+00:00'
+updated: '2026-06-07T15:10:52.032073+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 13:03 UTC  
+**Last Updated:** June 07, 2026 at 15:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Differential wrist WIP](https://www.reddit.com/r/robotics/comments/1tzd3pw/differential_wrist_wip/)**
+
+1h ago
+
+---
+
 **[Recent updates & Recruiting sponsors😢🙏](https://www.reddit.com/r/robotics/comments/1tz7hdq/recent_updates_recruiting_sponsors/)**
 
 Hello, I am a 19-year-old dropout developing robots. I started with servo motors and have finally built a quadruped robot using the BLDC + FOC method. I have adopted a 20:1 backdriving reduction system. Currently, I am printing with PLA for testing purposes, and I plan to build it later using Pa12 or a more reinforced material. Also, are there any companies interested in spon1soring me? My development 💸 have run low😢😢, Please feel free to message me! My IG: IMAKEROBOTS__
 
-3h ago
+5h ago
 
 ---
 
@@ -44,7 +50,7 @@ Hello, I am a 19-year-old dropout developing robots. I started with servo motors
 
 Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
 
-10h ago
+12h ago
 
 ---
 
@@ -52,55 +58,45 @@ Been building Olaf, a companion robot, in the open for a while now and just clos
 
 Has anyone received IROS results? The results are supposed to be out next week but I see my submission status currently changed to undisclosed, which, as far as I know, this happens usually at the day of sending out the notification. Any idea? Did anyone get any notification?
 
-3h ago
+5h ago
 
 ---
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-22h ago
+1d ago
+
+---
+
+**[MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation](https://www.reddit.com/r/robotics/comments/1tzdvfa/motiondisco_motion_discovery_for_extreme_humanoid/)**
+
+https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. This is challenging because the space of possible contact interactions grows combinatorially with the task horizon and the number of objects in the scene.
+
+32m ago
+
+---
+
+**[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
+
+1h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-22h ago
+1d ago
 
 ---
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
 
-3h ago
+5h ago
 
 ---
 
 **[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
 
-13h ago
-
----
-
-**[Headless tool kit for Vive Trackers.](https://www.reddit.com/r/robotics/comments/1tz28ny/headless_tool_kit_for_vive_trackers/)**
-
-First-time poster here. I wanted to share a side project I’ve been working on that may be useful for robotics / research workflows. I built a headless toolkit for VIVE Trackers, which supports VIVE Tracker 3.0, Vive wands and VIVE Ultimate Trackers (SLAM). It streams live pose data over WebSocket, so tracker position / rotation can be used by other applications without needing a HMD. Tool kit also includes an MCP server, so the tracker data can be fed directly into agentic workflows / AI tools. GitHub: https://github.com/nandunabey/VT-Headless-SDK Disclaimer: I do work for VIVE, but this is not an official HTC / VIVE project. This is just a personal side project I built mainly to support a few research groups and to explore what’s possible. I come from more of a Product background than a developer background, so feedback, suggestions would be very welcome.
-
-8h ago
-
----
-
-**[5 Robot Stories You May Have Missed | RobotShift](https://www.reddit.com/r/robotics/comments/1tz68m4/5_robot_stories_you_may_have_missed_robotshift/)**
-
-Another week of robotics marketing loops versus harsh field realities. In this week's breakdown, we are looking past investor decks to audit the actual friction of automating physical labor. Here is what we are covering in this episode: Figure’s 55/Week Ramp-Up: Production is accelerating, but commercial use cases are still in continuous development. Is scaling ahead of general application a massive capital gamble, or does their package-sorting livestream prove they're ready for structured work? Verobotics at NVIDIA Campus: A massive 100,000 sq ft facade deployment that ended up in a strict 60/40 operational compromise with human window washing crews because of live construction site dust. The 8.1B Parameter Bottleneck: Looking at RLWRLD’s new RLDX-1 model. Why graph optimization and real-time memory bandwidth constraints—not raw compute power—are the real bottlenecks for dexterous robotic hands. Spot's Purely Visual Blind Spots: Boston Dynamics paired Spot with DeepMind’s Gemini 1.6. What a sideways-crushed soda can proves about semantic reasoning models running without tactile force integration. FANUC x Google: Industrial giants bringing physical AI to factory floors, but keeping implementation highly conservative.
-
-🔗 [youtu.be](https://youtu.be/DFJjaNWU7mo) • 4h ago
-
----
-
-**[Tele-op visualizers for my robot](https://www.reddit.com/r/robotics/comments/1tyibkb/teleop_visualizers_for_my_robot/)**
-
-Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
-
-22h ago
+15h ago
 
 ---
 
@@ -108,17 +104,39 @@ Sorry for the slow pace of the video, but I figured that seeing each visualizer 
 
 ## Google News: "robotics"
 
-**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+**[China can build humanoids at scale. The hard part is finding enough buyers](https://techxplore.com/news/2026-06-china-humanoids-scale-hard-buyers.html)**
 
-Bloomberg • 3d ago
+Tech Xplore • 1d ago
 
 ---
 
-**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
+**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
 
-Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
+Robot demonstrations can distort public perceptions of robotic capabilities.
 
-About Amazon • 3d ago
+Ars Technica • 2d ago
+
+---
+
+**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
+
+A major state-run mail hub in Guangzhou
+
+Futurism • 1d ago
+
+---
+
+**[Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion](https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion)**
+
+Bloomberg.com • 3d ago
+
+---
+
+**[AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks](https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/)**
+
+AGIBOT said the industry is moving beyond simulation scores toward closed-loop testing on real robots with real tasks.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -130,25 +148,9 @@ NPR • 2d ago
 
 ---
 
-**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
+**[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
 
-A major state-run mail hub in Guangzhou
-
-Futurism • 23h ago
-
----
-
-**[Unitree dancing robots that wowed America’s Got Talent are G1 humanoid models, firm tells GT](https://www.globaltimes.cn/page/202606/1362852.shtml)**
-
-Chinese dancing robots have just stolen the show on America's Got Talent. A performance by Chinese dancer Wu Yufei and eight humanoid robots from Unitree Robotics drew a standing ovation on the season premiere of America’s Got Talent, as the synchronized routine to Lady Gaga’s “Abracadabra” captivated judges and viewers alike, according to the Xinhua News Agency.Chinese robotics company Unitree Robotics confirmed to the Global Times on Friday that the robots featured in the performance were its G1 humanoid models.
-
-Global Times • 2d ago
-
----
-
-**[China can build humanoids at scale. The hard part is finding enough buyers](https://techxplore.com/news/2026-06-china-humanoids-scale-hard-buyers.html)**
-
-Tech Xplore • 1d ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -158,23 +160,17 @@ Reuters • 2d ago
 
 ---
 
-**[Northampton High School’s Robotics Team celebrates FIRST Signing Day](https://shoredailynews.com/headlines/northampton-high-schools-robotics-team-celebrates-first-signing-day/)**
+**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
 
-Northampton High School’s robotics team, Team 1908 The ShoreBots, celebrated the accomplishments of its graduating seniors during FIRST Signing Day on May 19 in the school’s Media Center. FIRST Signing Day, held annually on the third Tuesday in May, recognizes graduating high school students around the world and celebrates their plans after graduation. The event was created by FIRST, the ... Read More
+Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
 
-Shore Daily News • 2d ago
+About Amazon • 3d ago
 
 ---
 
 **[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
 
-CT Mirror • 4h ago
-
----
-
-**[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
-
-Seeking Alpha • 3h ago
+CT Mirror • 6h ago
 
 ---
 
@@ -182,23 +178,23 @@ Seeking Alpha • 3h ago
 
 ## YouTube Videos: "robotics"
 
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
-
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
-
-📺 New York Post
-
-👁️ 117K • 👍 2K • 💬 2K • ⏱️ 2:17 • 22h ago
-
----
-
 **[China Just Built A Two Brain AI Robot: One Body, Two Minds](https://www.youtube.com/watch?v=-bDC3OyMGRg)**
 
 China just revealed JAKA Pi, a compact humanoid with a split AI brain built to think, see, move, and react in real time. Vietnam ...
 
 📺 AI Revolution
 
-👁️ 17K • 👍 487 • 💬 52 • ⏱️ 15:31 • 2d ago
+👁️ 17K • 👍 493 • 💬 52 • ⏱️ 15:31 • 2d ago
+
+---
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 125K • 👍 3K • 💬 2K • ⏱️ 2:17 • 1d ago
 
 ---
 
@@ -218,17 +214,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 3.0M • 👍 52K • 💬 6K • ⏱️ 6:01 • 4d ago
-
----
-
-**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
-
-In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
-
-📺 Munro Live
-
-👁️ 16K • 👍 331 • 💬 32 • ⏱️ 6:04 • 1d ago
+👁️ 3.0M • 👍 53K • 💬 6K • ⏱️ 6:01 • 4d ago
 
 ---
 
@@ -242,13 +228,31 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 ---
 
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=1bsJVYGiNPw)**
+
+📺 Robot Julie 
+
+👁️ 26K • 👍 90 • 💬 2 • ⏱️ 0:25 • 1d ago
+
+---
+
 **[China&#39;s BANNED Robots Just STUNNED America&#39;s Got Talent #news #technology #china #robot](https://www.youtube.com/watch?v=fVvKiriKOFk)**
 
 Unitree's G1 humanoid robots made history on the Season 21 premiere of America's Got Talent, taking the stage alongside ...
 
 📺 sXe Finance
 
-👁️ 81K • 👍 1K • 💬 113 • ⏱️ 0:44 • 2d ago
+👁️ 82K • 👍 2K • 💬 115 • ⏱️ 0:44 • 2d ago
+
+---
+
+**[The Real-World Robotics Revolution is HERE | Robot.com](https://www.youtube.com/watch?v=2LXY2Qld8dE)**
+
+Are robots still a futuristic novelty, or have they officially become critical urban infrastructure? In this episode of The Edge of Show, ...
+
+📺 The Edge of Show & Outer Edge
+
+👁️ 197K • 👍 73 • ⏱️ 45:36 • 3d ago
 
 ---
 
@@ -258,7 +262,7 @@ Nether & Devourer got buffed! The rebalance is mostly bad but there are some buf
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 402 • 💬 92 • ⏱️ 15:22 • 2d ago
+👁️ 13K • 👍 410 • 💬 93 • ⏱️ 15:22 • 2d ago
 
 ---
 
@@ -268,15 +272,7 @@ These AI robots just crossed into territory that feels almost too real — and y
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 145 • 💬 10 • ⏱️ 59:14 • 1d ago
-
----
-
-**[Humanoid robot kicks child during public demo](https://www.youtube.com/watch?v=PTrCX4Kge1U)**
-
-📺 Brut India
-
-👁️ 114K • 👍 1K • 💬 211 • ⏱️ 0:27 • 2d ago
+👁️ 6K • 👍 153 • 💬 10 • ⏱️ 59:14 • 1d ago
 
 ---
 
