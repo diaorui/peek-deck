@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-06T22:36:17.849225+00:00'
+updated: '2026-06-07T00:04:49.987108+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 22:36 UTC  
+**Last Updated:** June 07, 2026 at 00:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,938.42
+### $60,814.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -17.9%  
-**30d:** -24.6%  
-**90d:** -11.5%  
-**1y:** -42.7%  
+**24h:** -0.2%  
+**7d:** -14.7%  
+**30d:** -24.5%  
+**90d:** -12.9%  
+**1y:** -42.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I spent last summer studying bitcoin, and I was very quickly convinced of the sovereignty that such an asset could give us, so I decided to buy 1 BTC when it was worth 110K. At the time, I hadn't studied the four-year cycles. Today I somewhat regret diving in headfirst instead of doing a DCA. But of course I won't sell. Even if it dropped to 1K, I won't sell. I'm now part of the network, like all of you here. Have a great weekend, everyone!
 
-6h ago
+7h ago
 
 ---
 
@@ -89,15 +89,7 @@ I spent last summer studying bitcoin, and I was very quickly convinced of the so
 
 For people who've been through previous cycles, this probably feels familiar. For people newer to Bitcoin, this might be the first real test of conviction. What keeps you from selling? Is it understanding what you own? Cycle timing? Something you told yourself last time that held true? Or something else entirely?
 
-6h ago
-
----
-
-**[The next 6-12 months will be the best opportunity to buy bitcoin we will ever see again in our lifetimes.](https://www.reddit.com/r/Bitcoin/comments/1tyehye/the_next_612_months_will_be_the_best_opportunity/)**
-
-Stack hard and hold on tight. Enjoy!
-
-11h ago
+8h ago
 
 ---
 
@@ -105,25 +97,41 @@ Stack hard and hold on tight. Enjoy!
 
 Only ~3 years ago it was UNDER $20,000. So it's still up 300%+ in about 3 years. So yeah, it's off it's ATH but it's up big in 3 years.
 
-2h ago
+4h ago
+
+---
+
+**[Buy bitcoin now!!!](https://www.reddit.com/r/Bitcoin/comments/1tyuox9/buy_bitcoin_now/)**
+
+I have been in this since 2013. I know what you're thinking...'this guy is running on hopium', 'past performance is no guarantee of future performance', 'he's a bag holder shilling bitcoin'... Yeah yeah yeah. I get it. I've been here before. I bought in at $600 ish...I saw it go up over $1000, I sold a ton at $2500, I held, I watched, I bought, I sold... It's a rollercoaster...but here's the thing... It has never broken. It has never been hacked. It is a rock solid protocol for money. This thing is real. If you want to step off the legacy emotional money system and get into never debased permanent future money, this is your opportunity. Don't fuck it up.
+
+1h ago
+
+---
+
+**[The next 6-12 months will be the best opportunity to buy bitcoin we will ever see again in our lifetimes.](https://www.reddit.com/r/Bitcoin/comments/1tyehye/the_next_612_months_will_be_the_best_opportunity/)**
+
+Stack hard and hold on tight. Enjoy!
+
+12h ago
 
 ---
 
 **[noooo-](https://www.reddit.com/r/Bitcoin/comments/1tybiel/noooo/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin at $66k in 2024 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1tydz9d/bitcoin_at_66k_in_2024_vs_2026/)**
 
-11h ago
+13h ago
 
 ---
 
 **[Thanks for dip - finally a full bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1tyg8nt/thanks_for_dip_finally_a_full_bitcoiner/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -131,7 +139,7 @@ Only ~3 years ago it was UNDER $20,000. So it's still up 300%+ in about 3 years.
 
 Not really looking for hopium or doom, just curious where heads are at. Bitcoin's been sitting around the low $60Ks, the ETF outflows have been running for about two weeks straight now, and the Fear & Greed index is parked at 12 which is about as low as it's been all year. Apparently whales are buying while retail sells, which is the same story we always hear at these points. I've been through enough of these to know the "extreme fear = buy" thing works until it really doesn't. Are you actually doing anything differently right now or just sitting on your hands?
 
-3h ago
+5h ago
 
 ---
 
@@ -139,13 +147,7 @@ Not really looking for hopium or doom, just curious where heads are at. Bitcoin'
 
 For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $55k. It’s waiting for a drop that never comes and then watching it run to $100k+ without you.
 
-22h ago
-
----
-
-**[Red month sats are always the best](https://www.reddit.com/r/Bitcoin/comments/1tyk1we/red_month_sats_are_always_the_best/)**
-
-7h ago
+1d ago
 
 ---
 
@@ -157,7 +159,7 @@ For your strategy, the bigger risk isn’t Bitcoin going from $65k to $60k or $5
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -175,11 +177,11 @@ Morning Brew • 1d ago
 
 ---
 
-**[Bitcoin, Ether Eye Worst Weekly Rout Since FTX Collapse as Cryptos Shed $390 Billion](https://www.moomoo.com/news/post/71153497/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as)**
+**[Petition to ban bitcoin in Europe over energy use sets off heated debate](https://www.yahoo.com/news/science/articles/petition-ban-bitcoin-europe-over-232000881.html)**
 
-Aweek that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.
+Bitcoin's electricity use has been debated for years because the network runs on proof-of-work mining.
 
-Moomoo • 2h ago
+Yahoo • 44m ago
 
 ---
 
@@ -189,25 +191,23 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Peter Schiff Says 'Young' People Who Made Money Early With Bitcoin Dishing Out Financial Advice: 'Don't Confuse Brains With A Bull Market'](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-young-people-150230531.html)**
-
-Economist Peter Schiff took a dig on Wednesday at “unqualified” cryptocurrency advisors who mistake Bitcoin's early gains as validation of a smart long-term investment. Schiff Scoffs At ‘Young’ Crypto Commentators In an X post, Schiff observed that many “young” and...
-
-Yahoo Finance • 7h ago
-
----
-
 **[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
 
 Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Bitcoin rebounds above $60,000 after $1.6 billion liquidation-driven selloff](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-16-billion-liquidationdriven-selloff-4729561)**
 
-Investing.com • 13h ago
+Investing.com • 15h ago
+
+---
+
+**[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
+
+Barron's • 1d ago
 
 ---
 
@@ -219,9 +219,11 @@ The Block • 1d ago
 
 ---
 
-**[Cryptos Could Be Casualties of SpaceX IPO as Bitcoin Hits Lowest Price Since 2024](https://www.barrons.com/articles/bitcoin-spacex-ethereum-xrp-cryptos-4f28af51)**
+**[What Really Broke Bitcoin?](https://pro.thestreet.com/trade-ideas/what-really-broke-bitcoin)**
 
-Barron's • 1d ago
+A small sale by Strategy may have rattled investor confidence, but the technical damage was already underway.
+
+TheStreet Pro • 1d ago
 
 ---
 
@@ -231,7 +233,7 @@ Barron's • 1d ago
 
 **[Bitcoin Has Longest Losing Streak Since August in Bruising Week](https://news.ycombinator.com/item?id=48398073)**
 
-⬆️ 60 • 💬 101 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
+⬆️ 60 • 💬 102 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
 
 ---
 
@@ -245,7 +247,7 @@ Nostr client with other stuff
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
-⬆️ 10 • 💬 3 • 18h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+⬆️ 10 • 💬 3 • 20h ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
 
 ---
 
@@ -253,7 +255,7 @@ Nostr client with other stuff
 
 The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
 
-⬆️ 7 • 💬 6 • 19h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
+⬆️ 7 • 💬 6 • 20h ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -277,7 +279,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
-⬆️ 5 • 💬 0 • 15h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
+⬆️ 5 • 💬 0 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
 
 ---
 
@@ -285,7 +287,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 In the past two days, bitcoin's highest-conviction holders have sold about $2.4 billion in bitcoin.
 
-⬆️ 4 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
+⬆️ 4 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
 
 ---
 
@@ -315,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 123 • ⏱️ 57:39 • 9h ago
+👁️ 40K • 👍 2K • 💬 123 • ⏱️ 57:39 • 11h ago
 
 ---
 
@@ -333,7 +335,7 @@ The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 401 • 💬 32 • ⏱️ 2:11 • 20h ago
+👁️ 7K • 👍 401 • 💬 32 • ⏱️ 2:11 • 22h ago
 
 ---
 
@@ -363,7 +365,7 @@ Crypto Is Done” Michael Saylor Problem EXPLAINED (Don't Be Fooled) 50% deposit
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 254 • ⏱️ 12:01 • 23h ago
+👁️ 46K • 👍 3K • 💬 254 • ⏱️ 12:01 • 1d ago
 
 ---
 
@@ -403,7 +405,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 833 • 💬 197 • ⏱️ 11:55 • 8h ago
+👁️ 8K • 👍 833 • 💬 197 • ⏱️ 11:55 • 10h ago
 
 ---
 

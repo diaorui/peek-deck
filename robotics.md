@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-06T22:36:17.857381+00:00'
+updated: '2026-06-07T00:04:49.996416+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 06, 2026 at 22:36 UTC  
+**Last Updated:** June 07, 2026 at 00:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tyijur/omnidirectional_ground_robot_with_outdoor/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Ground robot with multiple steering modes (Ackermann, tank, omni)](https://www.reddit.com/r/robotics/comments/1tyigmr/ground_robot_with_multiple_steering_modes/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,15 +56,7 @@ Posting an update here with simplified PCB and robustness. Mighty Camera runs VI
 
 Sorry for the slow pace of the video, but I figured that seeing each visualizer perform the same path makes them more intuitive. All of these visualizers are rendered on a meta quest 3 using OpenXR.
 
-8h ago
-
----
-
-**[Our hands-on workshop is ready for Sunday.](https://www.reddit.com/r/robotics/comments/1tykbqg/our_handson_workshop_is_ready_for_sunday/)**
-
-The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
-
-7h ago
+9h ago
 
 ---
 
@@ -72,7 +64,21 @@ The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-o
 
 Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and 6 hour build time. It has custom electronics, bb gun mechanism and piezo equipped plates for hit detection. You controll it via mobile app and can have up to 8 tanks in multiplayer game
 
-5h ago
+7h ago
+
+---
+
+**[Our hands-on workshop is ready for Sunday.](https://www.reddit.com/r/robotics/comments/1tykbqg/our_handson_workshop_is_ready_for_sunday/)**
+
+The Seeed team will be in Garching-Hochbrück near Munich tomorrow for a hands-on workshop with reBot Arm, our fully open-source robotic arm. Try it in person, ask technical questions, meet robotics folks, and grab some pizza with us. Limited spots: https://www.eventbrite.co.uk/e/robotics-builders-meetup-hands-on-with-rebot-arm-tickets-1990578698472
+
+8h ago
+
+---
+
+**[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
+
+16m ago
 
 ---
 
@@ -80,13 +86,13 @@ Multiplayer DIY robot where you learn mechanics and engineering...600+ parts and
 
 I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll probably make new smaller & cuter version of my robot with these small arms.
 
-🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 5h ago
+🔗 [youtu.be](https://youtu.be/GT6ZnkfcvD0) • 6h ago
 
 ---
 
 **[Help: Robotics Project Ideas for Teenangers](https://www.reddit.com/r/robotics/comments/1tyh439/help_robotics_project_ideas_for_teenangers/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -94,13 +100,7 @@ I built Small & Cute Robot arms from Scratch for my ROS 2 mobile robot. I'll pro
 
 Leaning towards uncanny valley obviously versus trying to make it sound too real but I like getting roasted by a robot. Current progress . Hopefully doesn’t get flagged for having fire in the background or something. Cheers yall!
 
-18h ago
-
----
-
-**[Virus-inspired robot with 20 legs and eyes, built to move and see in any direction](https://www.reddit.com/r/robotics/comments/1txdc2p/virusinspired_robot_with_20_legs_and_eyes_built/)**
-
-1d ago
+20h ago
 
 ---
 
@@ -176,11 +176,9 @@ BBC • 2d ago
 
 ---
 
-**[Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)**
+**[US public cheers dancing Unitree robots while Congress looks to ban them](https://www.scmp.com/tech/tech-trends/article/3355993/brilliant-us-public-cheers-dancing-unitree-robots-while-congress-looks-ban-them)**
 
-Most underwater robots lose contact with the surface the moment they descend. But a new antenna technology, borrowed from the physics of medical implants, is rethinking how submarine machines talk to each other – and to us.
-
-New Atlas • 9h ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -194,7 +192,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 52K • 👍 1K • 💬 1K • ⏱️ 2:17 • 7h ago
+👁️ 52K • 👍 1K • 💬 1K • ⏱️ 2:17 • 9h ago
 
 ---
 
@@ -204,7 +202,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 16K • 👍 473 • 💬 51 • ⏱️ 15:31 • 1d ago
+👁️ 16K • 👍 473 • 💬 51 • ⏱️ 15:31 • 2d ago
 
 ---
 
@@ -244,7 +242,7 @@ Meet NEXi – my fully autonomous AI robot ✨ After months of development, codi
 
 📺 HD Robotics
 
-👁️ 698 • 👍 6 • 💬 2 • ⏱️ 1:10 • 5h ago
+👁️ 698 • 👍 6 • 💬 2 • ⏱️ 1:10 • 6h ago
 
 ---
 
@@ -264,7 +262,7 @@ Top 5 Arduino Projects #arduinoprojects #arduino #arduinouno #robotics #robot #r
 
 📺 EAZYTRONIC
 
-👁️ 9K • 👍 116 • ⏱️ 0:27 • 13h ago
+👁️ 9K • 👍 116 • ⏱️ 0:27 • 14h ago
 
 ---
 

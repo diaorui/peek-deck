@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-06T22:36:17.841599+00:00'
+updated: '2026-06-07T00:04:49.978653+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 06, 2026 at 22:36 UTC  
+**Last Updated:** June 07, 2026 at 00:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,21 +39,7 @@ AI news, discussions, and developments
 
 **[A company just sent me the most detailed rejection email I’ve ever received](https://www.reddit.com/r/artificial/comments/1tyimc0/a_company_just_sent_me_the_most_detailed/)**
 
-8h ago
-
----
-
-**[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
-
-17h ago
-
----
-
-**[AI keeps getting blamed for tech layoffs, but the numbers don't really line up](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)**
-
-I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
-
-3h ago
+9h ago
 
 ---
 
@@ -61,13 +47,35 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 I don't know if I'm just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can't be the only one..
 
-6h ago
+7h ago
+
+---
+
+**[AI keeps getting blamed for tech layoffs, but the numbers don't really line up](https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/)**
+
+I keep seeing "AI took these jobs" every time a company does layoffs, and I'm not convinced it's the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in 2024. AI was named as a direct reason in fewer than 8% of those announcements. So for the other 90 percent plus, something else was going on. Actual AI adoption inside companies is also lower than the marketing suggests. Full org-wide rollout is still in the single digits in the surveys I've seen. Plenty of teams have a ChatGPT subscription and call themselves "AI-driven", but that is not the same as AI doing real work in the pipeline. My read: AI usually isn't replacing people directly. Managers see devs shipping more code and assume they can cut headcount, and companies are moving tight budgets toward expensive AI infra and tooling. But coding is a small part of the job, so "more code per dev = fewer devs" rarely holds up. I don't think AI is taking most jobs. I think it's adding pressure to a market that was already rough for other reasons (economy, over-hiring in 2021-2022, investor expectations). For people who work in eng or hiring: when you've seen layoffs up close, how often was AI genuinely the reason versus the convenient public explanation?
+
+4h ago
+
+---
+
+**[Benefits and Risks of AI at Harvard Class Day 2026](https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/)**
+
+19h ago
 
 ---
 
 **[the more i use multiple models, the more i think "AI consensus" is a trap — the disagreement is the only part worth paying attention to](https://www.reddit.com/r/artificial/comments/1tymxz2/the_more_i_use_multiple_models_the_more_i_think/)**
 
 there's a pattern i keep seeing in multi-model setups (karpathy's llm council, the various "ask 5 models and combine" tools) and i think most of them are optimizing for the wrong thing. they treat agreement as the goal. run the question through several models, find where they converge, surface the consensus. but in my experience the consensus is the least useful output. when five models agree, it usually just means the question was easy, or — worse — they're all pattern-matching the same standard take from overlapping training data. agreement can be a sign of shared blind spots, not correctness. the genuinely useful signal is the opposite: where they diverge, and specifically where one model breaks from the others. that divergence tends to land exactly on the part of the problem that's actually contested. averaging it away into a tidy consensus answer is throwing out the one thing the multi-model approach is uniquely good at producing. which makes me think the design goal for these systems is backwards. you don't want a machine that manufactures agreement. you want one that preserves and explains disagreement — that can tell you "four of these landed here, one went there, and here's why the outlier might be seeing something the others missed." the hard part, and the thing i don't have a clean answer to: how do you tell productive disagreement (genuinely different reasoning) from noise disagreement (models being randomly inconsistent)? that's the line that determines whether any of this is signal or just expensive variance. curious what people working on multi-agent or ensemble setups think. is consensus the wrong target? and how would you separate real divergence from noise?
+
+6h ago
+
+---
+
+**[Ai general question](https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/)**
+
+Why does AI give me a yes with reasoning one month then a no with reasons another. With the same exact question?
 
 5h ago
 
@@ -77,15 +85,7 @@ there's a pattern i keep seeing in multi-model setups (karpathy's llm council, t
 
 Prompt length doesn't equal quality. Most people write paragraphs. Short, visual, specific prompts almost always win. Consistency is the real challenge. Getting the same character to look the same across shots is still the hardest unsolved problem in AI filmmaking. Audio kills or saves the whole thing. Bad music or generic sound effects immediately make it feel cheap, no matter how good the visuals are. People overthink the tools and underthink the story. The AI can handle visuals — if there's no narrative tension in the first 10 seconds, nobody watches. Iteration speed is the actual superpower. Treat it like editing — make 20 versions, pick the one that works. What tools are you all using for AI video right now?
 
-3h ago
-
----
-
-**[Ai general question](https://www.reddit.com/r/artificial/comments/1tyonst/ai_general_question/)**
-
-Why does AI give me a yes with reasoning one month then a no with reasons another. With the same exact question?
-
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Why does AI give me a yes with reasoning one month then a no with reasons anothe
 
 The world knows that Taiwan is the only geopoliticial chockpoint of ai. Realistically speaking, which country / countries can replace it in mid term and long term? and why it hasn't happened yet?
 
-30m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ The world knows that Taiwan is the only geopoliticial chockpoint of ai. Realisti
 
 Now I myself have not used AI a ton beyond making a funny picture or two on ChatGPT/Gemini and maybe asking it a few things on the fly if I need a second opinion on something - and sometimes it's been helpful. The biggest thing I hear from the "Fuck AI" crowd is that it ruins the creative circles like artists, authors, etc. because it copies their work. I sympathize with their hate, but I've heard an argument that it's not doing anything different than what we do when/if AI didn't play a role in anything: look at other people's work for inspiration then create something. Like we can't create a song in a vacuum, we need to learn and be exposed to music theory, notes, other styles of music, instruments, etc. So someone starting a band didn't make something brand new, it took pieces from other artists. And the part that makes me sing AIs praises, so to speak, is its use in the medical field. Doctor Mike posted a video about a year ago talking about this. Like, if it's improving healthcare to the point that it's detecting life threatening things to help doctors treat and cure us more effectively and efficiently, why are we trying to get rid of it? Maybe that's not what people are saying when they want AI gone or saying how 'awful' it is, but I just hope we don't end up throwing the baby out with the bathwater with AI because I genuinely think it's an astonishing thing that's clearly helpful in certain circles.
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ Now I myself have not used AI a ton beyond making a funny picture or two on Chat
 
 Lately I've been experimenting on an open-source project called Canary. https://preview.redd.it/c4dgxw22lq5h1.png?width=1920&format=png&auto=webp&s=304f37871aa9b7ee0a084d8b59207fae51d8b7bc It takes a code diff, identifies the UI flows that are likely affected, and then uses Claude Code to test those paths in a real browser. Every run captures video, screenshots, network traffic, HAR files, console logs, and Playwright traces. The result is both a validation run and a replayable Playwright script.
 
-18m ago
+1h ago
 
 ---
 
@@ -121,35 +121,41 @@ Lately I've been experimenting on an open-source project called Canary. https://
 
 These goods and services are getting more expensive due to spillover from massive tech company investments in artificial intelligence.
 
-The Washington Post • 6h ago
+The Washington Post • 8h ago
 
 ---
 
 **[Trump: U.S. stake in AI giants "could be a beautiful thing"](https://www.axios.com/2026/06/06/trump-us-stake-ai-companies)**
 
-Axios • 9h ago
-
----
-
-**[Hackers exploit Meta AI chatbot to breach prominent accounts](https://www.foxnews.com/video/6397762475112)**
-
-Cybersecurity and privacy attorney Leeza Garber discusses how hackers used Meta's A.I. chatbot to breach prominent social media accounts on ‘Fox Report.’
-
-Fox News • 1h ago
+Axios • 10h ago
 
 ---
 
 **[A.I. Companies Don’t Know What to Do With Alex Bores](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
-**[My father and I started a parking lot clean-up business. It's been 45 years, and my family-run company is still AI-proof.](https://www.businessinsider.com/family-run-business-cleans-up-parking-lots-ai-proof-2026-6)**
+**[AI’s elite celebrated in Washington as the public sours on data centers and chatbots](https://www.nbcnews.com/tech/tech-news/ai-washington-data-center-chatbots-kevin-oleary-oz-rcna348625)**
 
-My dad inspired me to start a small business cleaning parking lots, and I expanded it to multiple states. I call it "America's Simplest Business."
+The AI Honors gala gathered generals, lobbyists and administration insiders for a celebration of American AI efforts while acknowledging growing unrest about the technology’s impact on society.
 
-Business Insider • 8h ago
+NBC News • 8h ago
+
+---
+
+**[Nashville Zoo tries to halt data center project next door over animal safety concerns](https://www.nbcnews.com/tech/tech-news/leopards-tigers-ai-data-oh-nashville-zoo-tries-halt-proposed-data-cent-rcna348735)**
+
+It’s the latest example of data centers getting pushback in communities nationwide, as neighbors say they don’t want to live near them.
+
+NBC News • 20h ago
+
+---
+
+**[China fueling U.S. data center resistance, AI groups claim](https://www.axios.com/2026/06/05/china-fueling-us-data-center-resistance-ai-groups-claim)**
+
+Axios • 1d ago
 
 ---
 
@@ -161,20 +167,6 @@ CNN • 1d ago
 
 ---
 
-**[SaaS Stocks Are Rallying on AI Optimism. 3 Stocks to Buy Now.](https://www.fool.com/investing/2026/06/06/saas-stocks-are-rallying-on-ai-optimism-3-stocks/)**
-
-These three SaaS stocks have plenty more upside ahead.
-
-The Motley Fool • 7h ago
-
----
-
-**[Fed’s Mary Daly has blunt message for AI stock investors](https://www.thestreet.com/investing/feds-mary-daly-has-blunt-message-for-ai-stock-investors)**
-
-thestreet.com • 6h ago
-
----
-
 **[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
 
 The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
@@ -183,11 +175,17 @@ Fortune • 1d ago
 
 ---
 
-**[Nashville Zoo tries to halt data center project next door over animal safety concerns](https://www.nbcnews.com/tech/tech-news/leopards-tigers-ai-data-oh-nashville-zoo-tries-halt-proposed-data-cent-rcna348735)**
+**[My father and I started a parking lot clean-up business. It's been 45 years, and my family-run company is still AI-proof.](https://www.businessinsider.com/family-run-business-cleans-up-parking-lots-ai-proof-2026-6)**
 
-It’s the latest example of data centers getting pushback in communities nationwide, as neighbors say they don’t want to live near them.
+My dad inspired me to start a small business cleaning parking lots, and I expanded it to multiple states. I call it "America's Simplest Business."
 
-NBC News • 19h ago
+Business Insider • 10h ago
+
+---
+
+**[Trump AI Policy Adviser Krishnan Is Giving Up White House Role](https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -199,7 +197,7 @@ NBC News • 19h ago
 
 The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department’s grading guidelines.
 
-⬆️ 822 • 💬 786 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+⬆️ 822 • 💬 787 • 2d ago • [Daily Cal | Berkeley news](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
 
 ---
 
@@ -215,7 +213,7 @@ Skills for threat modeling, scanning, triage, patching, plus an autonomous scann
 
 Our progress toward recursive self-improvement, and its implications.
 
-⬆️ 520 • 💬 689 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
+⬆️ 520 • 💬 690 • 2d ago • [anthropic.com](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ---
 
@@ -223,21 +221,13 @@ Our progress toward recursive self-improvement, and its implications.
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 416 • 💬 260 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 417 • 💬 261 • 1d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 334 • 💬 575 • 20h ago
-
----
-
-**[Open Code Review – An AI-powered code review CLI tool](https://news.ycombinator.com/item?id=48406358)**
-
-Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
-
-⬆️ 272 • 💬 68 • 1d ago • [GitHub](https://github.com/alibaba/open-code-review)
+⬆️ 369 • 💬 611 • 21h ago
 
 ---
 
@@ -245,7 +235,15 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 261 • 💬 92 • 4h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+⬆️ 351 • 💬 127 • 5h ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+
+---
+
+**[Open Code Review – An AI-powered code review CLI tool](https://news.ycombinator.com/item?id=48406358)**
+
+Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...
+
+⬆️ 272 • 💬 68 • 2d ago • [GitHub](https://github.com/alibaba/open-code-review)
 
 ---
 
@@ -253,13 +251,13 @@ Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the 
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 260 • 💬 145 • 1d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 261 • 💬 146 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 192 • 💬 84 • 13h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 194 • 💬 85 • 14h ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -279,7 +277,7 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 📺 Money Degree
 
-👁️ 2K • 👍 120 • 💬 34 • ⏱️ 27:45 • 10h ago
+👁️ 2K • 👍 120 • 💬 34 • ⏱️ 27:45 • 12h ago
 
 ---
 
@@ -289,7 +287,7 @@ Make Hollywood Level AI Films using Higgsfield https://higgsfield.ai?fpr=ai&fp_s
 
 📺 Roboverse
 
-👁️ 9K • ⏱️ 10:38 • 6h ago
+👁️ 9K • ⏱️ 10:38 • 8h ago
 
 ---
 
@@ -299,7 +297,7 @@ You've probably heard that the artificial intelligence revolution is running out
 
 📺 The Infographics Show
 
-👁️ 147K • 👍 4K • 💬 1K • ⏱️ 19:55 • 7h ago
+👁️ 147K • 👍 4K • 💬 1K • ⏱️ 19:55 • 8h ago
 
 ---
 
@@ -319,7 +317,7 @@ Anthropic just published a major warning about AI self-improvement, and the numb
 
 📺 AI Revolution
 
-👁️ 51K • 👍 2K • 💬 251 • ⏱️ 17:13 • 22h ago
+👁️ 51K • 👍 2K • 💬 251 • ⏱️ 17:13 • 1d ago
 
 ---
 
@@ -329,7 +327,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 96K • 👍 6K • 💬 620 • ⏱️ 7:25 • 2d ago
+👁️ 96K • 👍 6K • 💬 620 • ⏱️ 7:25 • 3d ago
 
 ---
 
@@ -337,7 +335,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 CodeMiko
 
-👁️ 15K • 👍 1K • 💬 99 • ⏱️ 0:49 • 9h ago
+👁️ 15K • 👍 1K • 💬 99 • ⏱️ 0:49 • 11h ago
 
 ---
 
@@ -383,7 +381,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 111,078 • ❤️ 1,443 • 10d ago
+⬇️ 111,078 • ❤️ 1,451 • 10d ago
 
 ---
 
@@ -395,7 +393,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 315,131 • ❤️ 610 • 2d ago
+⬇️ 315,131 • ❤️ 615 • 2d ago
 
 ---
 
@@ -407,7 +405,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 458,174 • ❤️ 414 • 1d ago
+⬇️ 458,174 • ❤️ 421 • 1d ago
 
 ---
 
@@ -419,7 +417,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 84,549 • ❤️ 371 • 2d ago
+⬇️ 84,549 • ❤️ 376 • 2d ago
 
 ---
 
@@ -431,7 +429,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,771,843 • ❤️ 1,480 • 1mo ago
+⬇️ 2,771,843 • ❤️ 1,487 • 1mo ago
 
 ---
 
@@ -443,7 +441,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 161,627 • ❤️ 709 • 16d ago
+⬇️ 161,627 • ❤️ 711 • 16d ago
 
 ---
 
@@ -455,7 +453,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 2,818 • ❤️ 299 • 3d ago
+⬇️ 2,818 • ❤️ 305 • 3d ago
 
 ---
 
@@ -467,7 +465,7 @@ LFM2.5-8B-A1B is an 8.3B parameter text-generation model optimized for on-device
 
 `text-generation` `8.5B`
 
-⬇️ 95,440 • ❤️ 530 • 23h ago
+⬇️ 95,440 • ❤️ 532 • 1d ago
 
 ---
 
@@ -479,7 +477,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 16,395 • ❤️ 237 • 5d ago
+⬇️ 16,395 • ❤️ 239 • 5d ago
 
 ---
 
@@ -491,7 +489,7 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 `image-text-to-text` `201.4B`
 
-⬇️ 38,716 • ❤️ 340 • 3d ago
+⬇️ 38,716 • ❤️ 342 • 3d ago
 
 ---
 
@@ -507,7 +505,7 @@ Step-3.7-Flash is a 198B parameter sparse MoE vision-language model with a 256k 
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 13 • 💬 1 • ⭐ 80,717 • 5d ago
+▲ 13 • 💬 1 • ⭐ 80,936 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -586,7 +584,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 165 • 💬 2 • ⭐ 66,637 • 8mo ago
+▲ 165 • 💬 2 • ⭐ 66,666 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -618,15 +616,16 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 6 • 💬 1 • ⭐ 7,000 • 5mo ago
+▲ 79 • 💬 7 • ⭐ 76,030 • 22mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -640,7 +639,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 58.8k • 🔱 7.1k • 1m ago
+⭐ 58.8k • 🔱 7.1k • 1h ago
 
 ---
 
@@ -718,7 +717,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.7k • 🔱 129 • 13h ago
+⭐ 1.7k • 🔱 129 • 14h ago
 
 ---
 
@@ -728,7 +727,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 1.7k • 🔱 184 • 8h ago
+⭐ 1.7k • 🔱 184 • 9h ago
 
 ---
 

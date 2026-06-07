@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-06T22:36:17.854500+00:00'
+updated: '2026-06-07T00:04:49.993208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 06, 2026 at 22:36 UTC  
+**Last Updated:** June 07, 2026 at 00:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -22.4%  
-**30d:** -32.5%  
-**90d:** -21.9%  
-**1y:** -38.4%  
+**24h:** -0.9%  
+**7d:** -21.6%  
+**30d:** -32.4%  
+**90d:** -22.8%  
+**1y:** -37.3%  
 
 ---
 
@@ -72,17 +72,17 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
-
----
-
-**[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
-
-12h ago
+19h ago
 
 ---
 
 **[Nodle App v4 is now live in your wallet 🚀](https://www.reddit.com/r/ethereum/comments/1tyck6t/nodle_app_v4_is_now_live_in_your_wallet/)**
+
+14h ago
+
+---
+
+**[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
 13h ago
 
@@ -124,7 +124,7 @@ Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glams
 
 Hello once again guys. A week or so ago, I posted about https://revert.wtf. A thing, basically a catalog of common EVM errors that covers about 25k error types. And I decided to dogfood my own product, and made a browser extension. I already submitted it for review on Chrome Web Store, but if you would like to give it a try, you can get it from my github here. https://github.com/mrtdlgc/revertwtf-extension And this is my main announcement post on Twitter. It has some screenshots there on how it looks. https://x.com/mrtdlgc/status/2062657866717118561 Feedback welcome. I added a "this explanation is too generic" button, so you can rotate through what revert.wtf actually covers. If you still see too generic explanations, feel free to submit them on Github, and I can find better grounded explanations and next steps to take for other people to use in the future as well.
 
-1d ago
+2d ago
 
 ---
 
@@ -162,19 +162,11 @@ Benzinga • 1d ago
 
 ---
 
-**[$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income](https://finance.yahoo.com/markets/crypto/articles/10-000-grayscale-ethereum-staking-220053280.html)**
+**[Tom Lee is sitting on nearly $9B in losses as ethereum slides lower](https://finance.yahoo.com/video/tom-lee-sitting-nearly-9b-180000024.html)**
 
-A $10,000 position in Grayscale’s Ethereum Staking Mini ETF on the morning of June 4, 2026 was worth about $8,867 by Friday’s close, an 11% single-day haircut that tracked Ether’s spot price almost tick for tick. The fund did what it was designed to do. That is the problem. What the Math Actually Says Grayscale ... $10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income
+Scott Melker discusses how Bitmine chairman Tom Lee is reportedly sitting on $9 billion in unrealized ethereum (ETH-USD) losses as the crypto asset has slid below $1,600. Lee currently owns 4.4% of all ethereum tokens. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 35m ago
-
----
-
-**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
-
-Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
-
-CoinDesk • 7h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -182,7 +174,15 @@ CoinDesk • 7h ago
 
 Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
 
-The Block • 5h ago
+The Block • 6h ago
+
+---
+
+**[A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin](https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin)**
+
+Sourcing initial capital from his mother to build an inves, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -196,7 +196,7 @@ Crowdfund Insider • 2d ago
 
 Technical analysis of the 3-week chart outlook shows ETH pressing into the apex of a golden triangle formation that has survived the Covid crash, the 2022 bear market, and the ongoing 2026 correction. According to the analyst who first identified it, what happens next at the apex of that structure…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -210,7 +210,7 @@ Decrypt • 1d ago
 
 **[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
 
-富途牛牛 • 22h ago
+富途牛牛 • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 17K • 👍 757 • 💬 110 • ⏱️ 21:26 • 6h ago
+👁️ 17K • 👍 757 • 💬 110 • ⏱️ 21:26 • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 148 • 💬 30 • ⏱️ 14:13 • 10h ago
+👁️ 4K • 👍 148 • 💬 30 • ⏱️ 14:13 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 421 • 💬 65 • ⏱️ 21:23 • 8h ago
+👁️ 9K • 👍 421 • 💬 65 • ⏱️ 21:23 • 10h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum continues to trade below the key yellow trend line, keeping downside pr
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 387 • 💬 20 • ⏱️ 8:30 • 22h ago
+👁️ 9K • 👍 387 • 💬 20 • ⏱️ 8:30 • 1d ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN BREAKING $60000: Everyone is WRONG!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 14K • 👍 526 • 💬 227 • ⏱️ 21:38 • 19h ago
+👁️ 14K • 👍 526 • 💬 227 • ⏱️ 21:38 • 21h ago
 
 ---
 
