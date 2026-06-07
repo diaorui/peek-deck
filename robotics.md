@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-07T21:13:45.224270+00:00'
+updated: '2026-06-07T22:37:22.895676+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 07, 2026 at 21:13 UTC  
+**Last Updated:** June 07, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Differential wrist WIP](https://www.reddit.com/r/robotics/comments/1tzd3pw/differential_wrist_wip/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 Hello, I am a 19-year-old dropout developing robots. I started with servo motors and have finally built a quadruped robot using the BLDC + FOC method. I have adopted a 20:1 backdriving reduction system. Currently, I am printing with PLA for testing purposes, and I plan to build it later using Pa12 or a more reinforced material. Also, are there any companies interested in spon1soring me? My development 💸 have run low😢😢, Please feel free to message me! My IG: IMAKEROBOTS__
 
-11h ago
-
----
-
-**[Closed out the "expression engine" phase on my open-source companion robot — voice, synced head/ear motion, and a beating-heart display. Looking for feedback.](https://www.reddit.com/r/robotics/comments/1tz03mu/closed_out_the_expression_engine_phase_on_my/)**
-
-Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
-
-18h ago
+13h ago
 
 ---
 
@@ -58,7 +50,15 @@ Been building Olaf, a companion robot, in the open for a while now and just clos
 
 Has anyone received IROS results? The results are supposed to be out next week but I see my submission status currently changed to undisclosed, which, as far as I know, this happens usually at the day of sending out the notification. Any idea? Did anyone get any notification?
 
-11h ago
+13h ago
+
+---
+
+**[Closed out the "expression engine" phase on my open-source companion robot — voice, synced head/ear motion, and a beating-heart display. Looking for feedback.](https://www.reddit.com/r/robotics/comments/1tz03mu/closed_out_the_expression_engine_phase_on_my/)**
+
+Been building Olaf, a companion robot, in the open for a while now and just closed out the phase focused entirely on making him expressive instead of just functional. Sharing the demo + what changed: Voice: swapped Cartesia for Google TTS — noticeably more expressive and natural. Head motion: tuned so movement tracks the words and tone of speech rather than firing randomly. Ears: redesigned the ear movement — surprisingly big impact on how readable his "mood" is. Heart: added a small display on the body that renders a beating heart. Multilingual: he can switch languages mid-conversation (in the demo he answers in Hindi). Still tuning the audio side. That's the expression engine done bar some fine-tuning. Next phase is the body — getting him mobile so he can move around the apartment. Everything's open source if you want to dig in. Would appreciate a star: Hardware: https://github.com/kamalkantsingh10/OLAF Voice agent / pipeline: https://github.com/kamalkantsingh10/olaf_companion Happy to answer anything about the build. Feedback very welcome — especially on the motion-to-speech syncing: right now I'm driving head/ear motion off the LLM output, and I'd love to hear how others have approached tying gesture to prosody.
+
+19h ago
 
 ---
 
@@ -66,7 +66,7 @@ Has anyone received IROS results? The results are supposed to be out next week b
 
 https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionDisco, a framework that discovers contact-rich, long-horizon humanoid loco-manipulation motions from scratch, without relying on teleoperation or motion retargeting from human demonstrations. This is challenging because the space of possible contact interactions grows combinatorially with the task horizon and the number of objects in the scene.
 
-6h ago
+7h ago
 
 ---
 
@@ -78,7 +78,7 @@ https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionD
 
 **[Omni-directional ground robot with outdoor suspension](https://www.reddit.com/r/robotics/comments/1tz76za/omnidirectional_ground_robot_with_outdoor/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -90,13 +90,13 @@ https://arxiv.org/abs/2606.06139 https://youtu.be/DHiVz34QYlw We present MotionD
 
 **[A few complex bin-picking grasps](https://www.reddit.com/r/robotics/comments/1tywjk8/a_few_complex_binpicking_grasps/)**
 
-21h ago
+22h ago
 
 ---
 
 **[I built a MuJoCo skill for AI agents after using AI to create simulation scenes as a beginner](https://www.reddit.com/r/robotics/comments/1tzcf1c/i_built_a_mujoco_skill_for_ai_agents_after_using/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -112,19 +112,19 @@ Bloomberg.com • 3d ago
 
 **[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
 
-The Economist • 10h ago
+The Economist • 12h ago
 
 ---
 
 **[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
 
-CT Mirror • 12h ago
+CT Mirror • 13h ago
 
 ---
 
 **[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -136,11 +136,9 @@ NPR • 2d ago
 
 ---
 
-**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
+**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
 
-Robot demonstrations can distort public perceptions of robotic capabilities.
-
-Ars Technica • 2d ago
+Reuters • 2d ago
 
 ---
 
@@ -148,21 +146,7 @@ Ars Technica • 2d ago
 
 Humanoids may be winning marathons and getting factory jobs, but after spending a few days with around 100 different robots of all shapes and sizes, one thing was clear: There's a chasm separating viral demonstration video and reality.
 
-New Atlas • 1h ago
-
----
-
-**[Chinese Post Office Deploys Humanoid Robots to Sort Mail](https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail)**
-
-A major state-run mail hub in Guangzhou
-
-Futurism • 1d ago
-
----
-
-**[Nvidia CEO says robotics is South Korea's next big sector, points to 'some surprises'](https://www.reuters.com/business/media-telecom/nvidia-ceo-sees-robotics-next-major-sector-south-korea-2026-06-05/)**
-
-Reuters • 2d ago
+New Atlas • 2h ago
 
 ---
 
@@ -170,7 +154,23 @@ Reuters • 2d ago
 
 A research team in China says it has developed a high-performance axial flux motor capable of exceeding 18,000 rpm and achieving a power density of 25.73 kW/kg.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
+
+---
+
+**[The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/)**
+
+Robot demonstrations can distort public perceptions of robotic capabilities.
+
+Ars Technica • 3d ago
+
+---
+
+**[Amazon announces new robotics, faster delivery expansion in Europe, and $1 billion in employee upskilling](https://www.aboutamazon.com/news/operations/amazon-europe-robotics-delivery-investment)**
+
+Amazon unveiled a next-generation Proteus robot and more ultra-fast delivery options, plus a European fulfillment workforce expansion.
+
+About Amazon • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-07T21:13:45.215870+00:00'
+updated: '2026-06-07T22:37:22.887526+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 21:13 UTC  
+**Last Updated:** June 07, 2026 at 22:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,897.45
+### $62,802.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** -13.2%  
-**30d:** -23.2%  
-**90d:** -11.4%  
-**1y:** -41.4%  
+**24h:** +3.8%  
+**7d:** -11.4%  
+**30d:** -21.6%  
+**90d:** -9.6%  
+**1y:** -40.2%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 im gen z, i here a lot of people my age complain about how old folks got houses for dirt cheap, and there right they did. but i believe that what we are looking at today with bitcoin is the exact same opportunity. most people my age dont realize it. i remember learning about bitcoin 6 years ago, i had money to invest but i overlooked btc at 15k i bought stocks instead. now im older now and im wise enough now to not miss that opportunity again. ai is the sexy new tech that eats up billions while barely improving since the first chatgpt, while btc sitting quietly in the back knowing it will go down in history for fundamentally changing how humans view currency and store economic value. not sure how long btc will be this cheap, but im going all in with the money ive saved over the years. im not going to sell. see you in October.
 
-5h ago
+7h ago
 
 ---
 
 **[10,500,000 bitcoin being held at a loss right now, a new record](https://www.reddit.com/r/Bitcoin/comments/1tzlf5r/10500000_bitcoin_being_held_at_a_loss_right_now_a/)**
 
-1h ago
+3h ago
 
 ---
 
 **[Just one of the other times when it was all over. June 11th 2011. BTC was around $25.](https://www.reddit.com/r/Bitcoin/comments/1tzhzur/just_one_of_the_other_times_when_it_was_all_over/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -101,7 +101,13 @@ im gen z, i here a lot of people my age complain about how old folks got houses 
 
 I have been in this since 2013. I know what you're thinking...'this guy is running on hopium', 'past performance is no guarantee of future performance', 'he's a bag holder shilling bitcoin'... Yeah yeah yeah. I get it. I've been here before. I bought in at $600 ish...I saw it go up over $1000, I sold a ton at $2500, I held, I watched, I bought, I sold... It's a rollercoaster...but here's the thing... It has never broken. It has never been hacked. It is a rock solid protocol for money. This thing is real. If you want to step off the legacy emotional money system and get into never debased permanent future money, this is your opportunity. Don't fuck it up.
 
-22h ago
+1d ago
+
+---
+
+**[Bull to bear how it feels](https://www.reddit.com/r/Bitcoin/comments/1tz2dox/bull_to_bear_how_it_feels/)**
+
+18h ago
 
 ---
 
@@ -109,13 +115,15 @@ I have been in this since 2013. I know what you're thinking...'this guy is runni
 
 This is my thesis Sentiment of crypto delusion maxxing analisis paralisys bro is “wait till drop to 30k n buy ” Sentiment of normie boomer is “btc is dead 4 ever” Sentiment of chad emotionally testosteronally balanced stoic crypto alpha hodler: i filled my bags 60k, if goes to 50, buy again double quantity Who u trust more ? Gl bros
 
-10h ago
+12h ago
 
 ---
 
-**[Bull to bear how it feels](https://www.reddit.com/r/Bitcoin/comments/1tz2dox/bull_to_bear_how_it_feels/)**
+**[Would you borrow to buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1tzl3qf/would_you_borrow_to_buy_bitcoin/)**
 
-16h ago
+Do you think taking out a low-interest loan or using leverage to acquire more Bitcoin is a smart strategic move, or does adding debt completely defeat the philosophy of financial freedom?
+
+3h ago
 
 ---
 
@@ -123,7 +131,7 @@ This is my thesis Sentiment of crypto delusion maxxing analisis paralisys bro is
 
 Dca
 
-8h ago
+10h ago
 
 ---
 
@@ -131,23 +139,15 @@ Dca
 
 That’s it, okay bye
 
-4h ago
+5h ago
 
 ---
 
-**[Bad at Bitcoin .0266615 @ $87417](https://www.reddit.com/r/Bitcoin/comments/1tzegzy/bad_at_bitcoin_0266615_87417/)**
+**[New merchant now accepting Bitcoin for design work](https://www.reddit.com/r/Bitcoin/comments/1tzo3yb/new_merchant_now_accepting_bitcoin_for_design_work/)**
 
-Long time observer and a first-time poster, and I just want to admit I have always had awful timing with selling my btc. Don't get me wrong, I've always managed to make a few bucks, but the timing was always wrong as soon as I would get a hankering to sell for profit it has never failed to skyrocket and take off leaving me in the dust. Alas, as I am seemingly never wrong with my bad timing, around last Halloween,I decided that it would be a great time to dive right in I decided to attempt to make a goal for myself of at least obtaining .1 btc; Maybe not a huge milestone for many, but for me personally coming from what I will just sum up as blatant poverty (to skip a lot of details) no time limit necessary, but obviously, the sooner, the better. I just wanted to hear from others if I'm cooked, dead in the water, or just surviving?
+Hey everyone, I’m a graphic designer who grew up inspired by the logos, sports graphics and retro aesthetics of the 80s and 90s. That nostalgia eventually became the foundation of my career, and today I create retro‑style logos, vintage sports artwork and branding for clients around the world. I’ve recently started accepting Bitcoin as a payment option, so I’m sharing this as a one‑time merchant announcement in line with the subreddit rules. If anyone wants to check out my work or get in touch, I’ll leave more details in a comment below. Thanks for reading.
 
-6h ago
-
----
-
-**[Bought 1 btc at 110K](https://www.reddit.com/r/Bitcoin/comments/1tylx3i/bought_1_btc_at_110k/)**
-
-I spent last summer studying bitcoin, and I was very quickly convinced of the sovereignty that such an asset could give us, so I decided to buy 1 BTC when it was worth 110K. At the time, I hadn't studied the four-year cycles. Today I somewhat regret diving in headfirst instead of doing a DCA. But of course I won't sell. Even if it dropped to 1K, I won't sell. I'm now part of the network, like all of you here. Have a great weekend, everyone!
-
-1d ago
+1h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 1d ago
 
 Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 4h ago
 
 It can be smart to be greedy when others are fearful, and now is one of those times.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -187,19 +187,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[NY Judge Halts Lawsuit Claiming 39,069 Dormant Bitcoin Wallets Until July Hearing](https://www.yahoo.com/news/us/articles/ny-judge-halts-lawsuit-claiming-213347498.html)**
+
+A New York judge stays the lawsuit claiming 39,069 dormant Bitcoin wallets worth $235 billion ahead of a July 14 hearing.
+
+Yahoo • 1h ago
+
+---
+
 **[Satoshi-era Bitcoin moves after 15 years of no movement](https://sg.finance.yahoo.com/news/satoshi-era-bitcoin-moves-15-201841326.html)**
 
 A pseudonymous plaintiff who calls himself “Noah Doe” and two Wyoming LLCs, ABC Company and XYZ Company, filed a lawsuit in New York on March 11 to seek a court declaration that they are the legal owners of around 3.8 million Bitcoin (BTC), worth approximately $293 billion, ...
 
-Yahoo Finance Singapore • 55m ago
-
----
-
-**[MicroStrategy and BitMine Could Trigger the Largest Bitcoin Crash Ever: DWF Labs Co-founder Warns](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitmine-could-trigger-largest-190000167.html)**
-
-DWF Labs warns MicroStrategy and BitMine could trigger the biggest crypto crash ever, with Bitcoin possibly hitting $10,000.
-
-Yahoo Finance • 2h ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
@@ -207,25 +207,27 @@ Yahoo Finance • 2h ago
 
 The post lands a week after Strategy revealed its first bitcoin sale since 2022 and one day before voting closes on a STRC dividend amendment.
 
-The Block • 6h ago
+The Block • 7h ago
+
+---
+
+**[Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath](https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html)**
+
+Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin’s Broken Promise Wipes Out Billions in Bullish Crypto Bets](https://www.bloomberg.com/news/newsletters/2026-06-06/michael-saylor-breaks-bitcoin-btc-pledge-sells-for-first-time-in-four-years)**
+
+Bloomberg.com • 1d ago
 
 ---
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)**
 
 Reuters • 2d ago
-
----
-
-**[Bitcoin Falls Below $60,000](https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026/card/bitcoin-falls-below-60-000-Hw8s57xfgErSf1HaykZn)**
-
-WSJ • 2d ago
-
----
-
-**[Bitcoin climbs above $62,000 as crypto market steadies after brutal selloff](https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-62000-as-crypto-market-steadies-after-brutal-selloff-4729656)**
-
-Investing.com • 11h ago
 
 ---
 
@@ -281,7 +283,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-⬆️ 6 • 💬 0 • 19h ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
+⬆️ 6 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
 
 ---
 
@@ -305,7 +307,7 @@ In the past two days, bitcoin's highest-conviction holders have sold about $2.4 
 
 MicroStrategy sold 32 bitcoin in May, marking the first mstr stock sale of digital assets since December 2022. The company’s disclosure triggered declines in the stock, signaling investor concern over a shift in management’s blockchain strategy. Quick Facts 32 bitcoin sold for $2.5 million in May 2026 First sale since December 2022—nearly 3.5 years earlier…
 
-⬆️ 3 • 💬 2 • 4d ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
+⬆️ 3 • 💬 2 • 5d ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
 
 ---
 
@@ -319,7 +321,7 @@ In this episode, Ran sits down with Ben Cowen to break down Bitcoin's current ma
 
 📺 Crypto Insider
 
-👁️ 33K • 👍 2K • 💬 97 • ⏱️ 38:44 • 9h ago
+👁️ 33K • 👍 2K • 💬 97 • ⏱️ 38:44 • 11h ago
 
 ---
 
@@ -329,7 +331,7 @@ Bitcoin wicked down to $59000 on Friday — its lowest since the 2024 election �
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 391 • 💬 43 • ⏱️ 31:05 • 3h ago
+👁️ 5K • 👍 391 • 💬 43 • ⏱️ 31:05 • 4h ago
 
 ---
 
@@ -339,7 +341,7 @@ I think Bitcoin has entered the 3rd stage of the bear market. Let's talk about i
 
 📺 Benjamin Cowen
 
-👁️ 105K • 👍 7K • 💬 459 • ⏱️ 13:26 • 17h ago
+👁️ 105K • 👍 7K • 💬 459 • ⏱️ 13:26 • 19h ago
 
 ---
 
@@ -359,7 +361,7 @@ Check out Ledn: https://aaronbtc.com/ledn Into The Cryptoverse Charts – 10% Of
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 388 • 💬 195 • ⏱️ 6:49 • 17h ago
+👁️ 7K • 👍 388 • 💬 195 • ⏱️ 6:49 • 18h ago
 
 ---
 
@@ -389,7 +391,7 @@ Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.we
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 71 • ⏱️ 11:13 • 23h ago
+👁️ 33K • 👍 2K • 💬 71 • ⏱️ 11:13 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 20K • 👍 1K • 💬 78 • ⏱️ 14:36 • 14h ago
+👁️ 20K • 👍 1K • 💬 78 • ⏱️ 14:36 • 15h ago
 
 ---
 

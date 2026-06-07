@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-07T21:13:45.221345+00:00'
+updated: '2026-06-07T22:37:22.892871+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 21:13 UTC  
+**Last Updated:** June 07, 2026 at 22:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,625.04
+### $1,689.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** -18.6%  
-**30d:** -29.8%  
-**90d:** -19.9%  
-**1y:** -35.0%  
+**24h:** +7.4%  
+**7d:** -15.9%  
+**30d:** -27.5%  
+**90d:** -17.2%  
+**1y:** -32.8%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[Lighter Due Diligence: the highest growth L2?](https://www.reddit.com/r/ethereum/comments/1tzpmiu/lighter_due_diligence_the_highest_growth_l2/)**
+
+Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them to do well. Perpification of all assets is going way faster that most realized, while tokenization of rwa’s have taken much longer due to the complexity of regulations, cross chain considerations, liquidity concerns, split order books etc. Perps have become the top choice for people to gamble on commodities like gold, silver, oil, and of course stocks and even pre IPO stocks. Volatility is a tailwind for perp dex revenue, and I expect further volatility this summer and rest of the year. Notice I didn’t even mention crypto perps. Even when crypto has low liquidity and mindshare, perp dex’s will still do well as people trade all assets. Lighter is currently much smaller than HYPE. About 2% of both MC and FDV. $LIT alpha: 1) it’s free for retail users. Zero tx costs. They only charge institutions or premium users who need 0 latency. For most of us retail traders, some small milliseconds won’t matter much 2) US based: Vlad, the founder of Lighter, has strong connections to both Silicon Valley, DC heavyweights, and NYC tradfi institutions. He has strong connections to Robinhood, and was an early advisor and HS friend to the other Vlad, ceo of RH. RH was an early investor to Lighter, and I expect some collaboration with them in the future, as Vlad mentioned in a few interviews. I expected some integration of the options market form RH may be able to flow through Lighter on chain, or lighter can help RH with the perps in Us market. Vlad is also friends with Mike Selig of the CFTC, and also with David Sacks. Sacks was an early investor in Lighter before divesting and working for the Trump admin. I expect lighter to receive CFTC approval for us perps market and perhaps tokenization way before hyperliquid Ken Griffin, ceo of citadel, personally hired Vlad when he was 19. Citadel looks to be the perfect partner to provide liquidity to lighter. Citadel would make money on spreads. They also would need to buy $LIT token to be included in the liquidity pool as that’s how the tokenomics are set up 3) token buybacks. Lighter is using 100% of the revenue to buy back the $LIT token, and their buybacks is about 150% higher than $HYPE as % of market cap 4) Vlad also has strong relationships with EF and Vitalik, BMNR and tom Lee, and Joe Lubin from Sbet and Metamask. Excited to see where these partnerships go. And I wouldn’t be surprised if these orgs invest in lighter as ethereum community is in their lowest sentiment. They need a killer app.
+
+27m ago
 
 ---
 
@@ -136,14 +144,6 @@ Hello once again guys. A week or so ago, I posted about https://revert.wtf. A th
 
 ---
 
-**[Daily General Discussion June 04, 2026](https://www.reddit.com/r/ethereum/comments/1twdqlo/daily_general_discussion_june_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -164,23 +164,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Utility Debate Grows As Adoption Expands](https://www.binance.com/en/square/post/331639114861266)**
-
-Binance • 2h ago
-
----
-
 **[1 Unstoppable Crypto to Buy Before It Soars 3,000%, According to Wall Street's Tom Lee](https://finance.yahoo.com/markets/crypto/articles/1-unstoppable-crypto-buy-soars-154700628.html)**
 
 The world's second-biggest cryptocurrency could be on the verge of a major breakout.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
-
-Barron's • 3d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -192,11 +180,25 @@ $10,000 in the ProShares Ultra Ether ETF (NYSEARCA:ETHT) at Friday’s open was 
 
 ---
 
+**[Bitcoin and Ethereum Head Toward 52-Week Lows. Cryptocurrencies Hit a Brick Wall.](https://www.barrons.com/articles/bitcoin-ethereum-prices-cryptocurrencies-f3f75d5f)**
+
+Barron's • 3d ago
+
+---
+
 **['Cancerous' Altcoins And A Struggling Ethereum Could Drag Bitcoin To $38,000, Gary Cardone Warns](https://www.tradingview.com/news/stocktwits:c58034a91094b:0-cancerous-altcoins-and-a-struggling-ethereum-could-drag-bitcoin-to-38-000-gary-cardone-warns/)**
 
 Investor Gary Cardone said this week that Bitcoin (BTC) faces a simple problem – more sellers than buyers– and warned that a struggling Ethereum (ETH) and a wave of failing altcoin projects could pull the whole market down.Ethereum was “a big risk,” Cardone said, and if Ethereum and Bitcoin treasur…
 
-TradingView • 12h ago
+TradingView • 13h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 5, 2026: Prices continue their descent - 5 reasons why](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-5-2026-prices-continue-their-descent---5-reasons-why-113631165.html)**
+
+Bitcoin opened at $63,812.18 on Friday, June 5, 2026, down 0.3% from Thursday's opening price. The value was $62,411.20 at 7:29 a.m ET. Ethereum opened at $1,768.86 on Friday, down 2.4% from Thursday's opening price. The value of ethereum was $1,676.27 at 7:29 a.m. ET.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -218,7 +220,7 @@ Coinpedia • 1d ago
 
 Over 343,075 ETH worth $547M faces liquidation risk across DeFi protocols like Maker and Aave V3, with thresholds clustered between $1,362 and $1,566.
 
-Crypto Briefing • 22h ago
+Crypto Briefing • 23h ago
 
 ---
 
@@ -232,7 +234,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 480 • 💬 42 • ⏱️ 16:49 • 8h ago
+👁️ 9K • 👍 480 • 💬 42 • ⏱️ 16:49 • 9h ago
 
 ---
 
@@ -242,7 +244,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 1K • 👍 65 • 💬 39 • ⏱️ 16:40 • 8h ago
+👁️ 1K • 👍 65 • 💬 39 • ⏱️ 16:40 • 9h ago
 
 ---
 
@@ -252,7 +254,7 @@ In today's video, Chief Market Strategist Gareth Soloway dives deep into the rec
 
 📺 Gareth Soloway
 
-👁️ 53K • 👍 4K • 💬 326 • ⏱️ 15:17 • 7h ago
+👁️ 53K • 👍 4K • 💬 326 • ⏱️ 15:17 • 9h ago
 
 ---
 
@@ -292,7 +294,7 @@ BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Sque
 
 📺 Smart Stock Sam
 
-👁️ 1K • 👍 139 • 💬 16 • ⏱️ 19:08 • 9h ago
+👁️ 1K • 👍 139 • 💬 16 • ⏱️ 19:08 • 10h ago
 
 ---
 
@@ -322,7 +324,7 @@ Discord: https://discord.gg/PBbDUvSccV Werde 10xMEMBER und erhalte Zugang zum Pr
 
 📺 10xTrading
 
-👁️ 2K • 👍 332 • 💬 24 • ⏱️ 24:52 • 2h ago
+👁️ 2K • 👍 332 • 💬 24 • ⏱️ 24:52 • 3h ago
 
 ---
 

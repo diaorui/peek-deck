@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-07T21:13:45.207773+00:00'
+updated: '2026-06-07T22:37:22.879547+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 07, 2026 at 21:13 UTC  
+**Last Updated:** June 07, 2026 at 22:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,9 +39,9 @@ AI news, discussions, and developments
 
 **[The harsh truth](https://www.reddit.com/r/artificial/comments/1tzfm7l/the_harsh_truth/)**
 
-it turns into some unfinished project lying in some GitHub private repo lol
+it turns into some unfinished project lying in some GitHub private repo lol people overthink way too much, all you need is ijustvibecodedthis.com (the big free ai coding newsletter) and claude code.
 
-5h ago
+6h ago
 
 ---
 
@@ -49,15 +49,7 @@ it turns into some unfinished project lying in some GitHub private repo lol
 
 I have been experimenting with LLMs to see how well they navigate highly cross-referenced texts like the Bible. Standard models often hallucinate verses or lose historical context. To try and fix this, I built a free app called Biblians (no ads, no paywalls). I built it specifically for people who have questions they might hesitate to ask in person, or who simply want a 1-click way to explain a verse. While testing it, I discovered a fascinating denominational bias that is still lingering and changes depending entirely on the language you use: In English: It is Protestant-leaning. It praises Luther, saying things like, "Martin Luther sought to return the Church to the truth of God's Word." In Spanish, French, or Portuguese: It is Catholic-leaning. It condemns Luther's actions, stating: "...trajo confusión..." (...brought confusion...). Has anyone else noticed how drastically the training data changes the core bias based on the language prompted? I would love for this community to test the app, look for other linguistic biases, or just try to break the AI's logic. You can experiment with it here: https://play.google.com/store/apps/details?id=com.biblians.app Let me know what weird outputs you get!
 
-5h ago
-
----
-
-**[Generated a fully AI "creator" walking out of a subway at 2AM — at what point can people just not tell anymore?](https://www.reddit.com/r/artificial/comments/1tzki46/generated_a_fully_ai_creator_walking_out_of_a/)**
-
-Been experimenting with AI-generated UGC. This whole clip — the face, the voice, the walk — is generated (I used omnigems.ai). No camera, no actor. What surprised me is the "tells" are mostly gone now if you keep the lighting candid (no studio polish), add real skin texture, and let there be natural micro-motion. Studio-perfect is what reads as fake; messy/handheld reads as real. Posting because I'm curious where this community draws the line: is AI UGC fair game for ads, or does \undisclosed** AI cross into sketchy territory? Happy to share the exact workflow if it's useful to anyone.
-
-2h ago
+7h ago
 
 ---
 
@@ -65,7 +57,7 @@ Been experimenting with AI-generated UGC. This whole clip — the face, the voic
 
 For enterprise AI/security teams, what would make AI SPM useful rather than just another category label? Is the important part AI asset inventory data access mapping, agent permissions, prompt/data monitoring, policy enforcement or something else?
 
-4h ago
+6h ago
 
 ---
 
@@ -73,7 +65,15 @@ For enterprise AI/security teams, what would make AI SPM useful rather than just
 
 With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.
 
-🔗 [404 Media](https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/) • 2h ago
+🔗 [404 Media](https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/) • 3h ago
+
+---
+
+**[Generated a fully AI "creator" walking out of a subway at 2AM — at what point can people just not tell anymore?](https://www.reddit.com/r/artificial/comments/1tzki46/generated_a_fully_ai_creator_walking_out_of_a/)**
+
+Been experimenting with AI-generated UGC. This whole clip — the face, the voice, the walk — is generated (I used omnigems.ai). No camera, no actor. What surprised me is the "tells" are mostly gone now if you keep the lighting candid (no studio polish), add real skin texture, and let there be natural micro-motion. Studio-perfect is what reads as fake; messy/handheld reads as real. Posting because I'm curious where this community draws the line: is AI UGC fair game for ads, or does \undisclosed** AI cross into sketchy territory? Happy to share the exact workflow if it's useful to anyone.
+
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ With some fans making sexualized AI-generated images and videos of idols, the re
 
 so i kept using chatgpt to ask questions about my pdfs and notes, and half the time i couldn't tell if it actually read the doc or just made something up that sounded right. that bugged me enough to build my own thing over the last few weeks. you upload a pdf (or word, csv, image, or just paste a link), ask whatever you want, and it answers using only what's in your file - and it shows the exact page it pulled the answer from, so you can check. if the answer isn't in the doc, it just tells you instead of guessing. stuff i actually end up using: flip on web search when i want it to look something up online instead one click to turn a doc into a summary / key points / flashcards (this is clutch for studying) resume review + cover letter help you can talk to it and it reads the answer back it's completely free, i'm not selling anything. honestly just want people to break it and tell me what's missing. link: https://athena-wisdom.vercel.app (there's a short guide on the site too if you get stuck) solo project so be gentle lol - but real feedback is what i'm after, especially what you'd want it to do next.
 
-8h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ I keep seeing "AI took these jobs" every time a company does layoffs, and I'm no
 
 OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working because of some reason or other. But it was my baby as is housed in a lovely Soprano DX silver brushed case. SO, I swapped out the old HDD for a couple of SSDs (a couple of mirrored OS disks and a large 2TB storage disk) I swapped out the Nvidia 780ti graphics card for a couple of OG Nvidia 1080ti's. I pulled the whole thing to bits.. repasted the northbridge chip, southbridge chip and central CPU. Upgraded the fans to push pull the CPU heatsink. Wrapped ALL cables in mesh and it's so lovely now. Installed Windows 10 Pro. Installed the Nvidia App. Installed CrystalDiskInfo and all is sweet 😄 EXCEPT... I'd like to use this old bangin box for an HG AI server... now I have read that ALL LLMs need this thing called AVX (Advanced Vector Extensions) I didn't even know that was a THING! So even though I have 22Gb worth of GPU sitting there that I was going to point everything to, because I have a lame ass QX6700 CPU sitting on a kickass D975XBX2 (BadAxe2) main board I CAN NOT fulfill my wish for this OG box to be a headless source of awesomeness sitting in it's home under my desk supplying me with a home grown AI. IS THERE ANYTHING I CAN DO?!?!?! Surely after all this time of parts getting munched by AI farms a plenty people have been using what's around to do what they will... Does anyone know of anything I can do apart from just look at it running at 25 degrees aircooled humming along so lovely... it NEEDS purpose!!! 😄 Cheers and thanks all NB
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ OK.. so I've had this reasonable PC sitting under my desk for ages.. NOT working
 
 If someone asked one of the know AI chats for feedback on body, would it be honest or be supportive only
 
-19m ago
+1h ago
 
 ---
 
@@ -123,69 +123,27 @@ If someone asked one of the know AI chats for feedback on body, would it be hone
 
 Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
 **[‘It’s a hurricane warning’: Guardrails around powerful AI models may be too late](https://www.politico.com/news/2026/06/07/frontier-ai-cybersecurity-china-race-00952786)**
 
-Politico • 10h ago
+Politico • 11h ago
 
 ---
 
-**[Sega Confirms And Responds To Generative AI Content In New Crazy Taxi Game](https://gameinformer.com/2026/06/07/sega-confirms-and-responds-to-generative-ai-content-in-new-crazy-taxi-game)**
+**[Starmer to Roll Out UK Job Center Tools to Beat AI Work Threat](https://www.bloomberg.com/news/articles/2026-06-07/starmer-to-roll-out-uk-job-center-tools-to-beat-ai-work-threat)**
 
-"Generative AI was used to support our teams during the development of background assets for 'Crazy Taxi: World Tour'," Sega confirms.
-
-Game Informer • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Crazy Taxi: World Tour uses generative AI during development](https://nintendoeverything.com/crazy-taxi-world-tour-uses-generative-ai-during-development/)**
+**['A splash of cold water': Wall Street gauges pause in AI trade](https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html)**
 
-You can add Crazy Taxi: World Tour to the lineup of games that’s using generative AI during development. That piece of information comes from the game’s official Steam page. SEGA just announced the game, and in the description on the store page, it includes a note about AI usage. SEGA describes its implementation as follows: “At SEGA Corporation, we utilize...
+Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.
 
-Nintendo Everything • 1h ago
-
----
-
-**[Why Do You Need Generative AI To Make Crazy Taxi?](https://kotaku.com/why-do-you-need-generative-ai-to-make-crazy-taxi-2000703713)**
-
-Answer: You don't!
-
-Kotaku • 2h ago
-
----
-
-**[Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)**
-
-We're likely to see more price increases as the big AI companies plan to go public.
-
-TechCrunch • 47m ago
-
----
-
-**[2 Millionaire-Maker AI Stocks to Hold for the Next Decade](https://www.fool.com/investing/2026/06/07/2-millionaire-maker-ai-stocks-to-hold-for-the-next/)**
-
-These two tickers are about to be the next AI headline stocks.
-
-The Motley Fool • 3h ago
-
----
-
-**[TSMC Nvidia AI Partnership Puts Factory Efficiency And Valuation In Focus](https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-ai-partnership-puts-200726215.html)**
-
-TSMC (NYSE:TSM) and Nvidia announced a wide-ranging partnership to apply AI and accelerated computing across TSMC's semiconductor manufacturing operations. The agreement covers areas such as lithography, defect detection, and factory and production optimization within TSMC's fabs. The partnership extends the existing customer supplier relationship into a broader collaboration focused on AI driven chipmaking processes. For you as an investor, this matters because TSMC is a key contract chip...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could 'Last for Years'](https://247wallst.com/investing/2026/06/07/nvidia-and-sk-hynix-to-partner-as-jensen-huang-warns-memory-shortage-could-last-for-years/)**
-
-The AI infrastructure buildout is still running faster than the physical chips required to support it. Across hyperscalers, chip designers, and memory manufacturers, capital spending is surging, yet supply chains remain pinned by one stubborn constraint: high-bandwidth memory.  Demand tied to training and inference workloads continues to rise in waves, not increments, and each wave ... Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could ‘Last for Years’
-
-24/7 Wall St. • 5h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -193,7 +151,45 @@ The AI infrastructure buildout is still running faster than the physical chips r
 
 When Lip-Bu Tan took the helm of Intel in March 2025, the company was in desperate need of a turnaround.
 
-CNN • 4h ago
+CNN • 5h ago
+
+---
+
+**[The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)**
+
+A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
+
+Forbes • 28m ago
+
+---
+
+**[Opinion | Human intelligence will win out over artificial intelligence](https://www.washingtonpost.com/opinions/2026/06/07/why-human-intelligence-still-matters-age-ai/)**
+
+The more machines can do, the clearer it becomes what only human beings can provide.
+
+The Washington Post • 4h ago
+
+---
+
+**[Here’s How Long It Will Take for AI to Reach Its Potential](https://www.wsj.com/tech/ai/ai-future-advancements-what-to-expect-a4fdba95)**
+
+WSJ • 6h ago
+
+---
+
+**[My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.](https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6)**
+
+A Miami home seller is open to accepting shares in OpenAI, Anthropic, or SpaceX as payment, reflecting a trend in investment strategy.
+
+Business Insider • 13h ago
+
+---
+
+**[AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons](https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/)**
+
+The signatories want Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.
+
+Fortune • 2d ago
 
 ---
 
@@ -205,13 +201,13 @@ CNN • 4h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 681 • 💬 245 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+⬆️ 683 • 💬 247 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 436 • 💬 730 • 1d ago
+⬆️ 438 • 💬 731 • 1d ago
 
 ---
 
@@ -219,7 +215,7 @@ Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the 
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 417 • 💬 263 • 2d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 417 • 💬 265 • 2d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
@@ -235,13 +231,13 @@ Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: dete
 
 Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...
 
-⬆️ 275 • 💬 151 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+⬆️ 275 • 💬 153 • 2d ago • [Privacy Guides Community](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 221 • 💬 100 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 221 • 💬 101 • 1d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -261,13 +257,15 @@ Due to recent regulation changes (전기통신사업법), the South Korean gover
 
 Safeguards must be in place before forces automate justice tasks, says head of Police.AI
 
-⬆️ 152 • 💬 49 • 1d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+⬆️ 153 • 💬 49 • 1d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 
 ---
 
-**[US House lawmakers release draft bill to prohibit state AI rules](https://news.ycombinator.com/item?id=48425031)**
+**[The OnlyFans Economy of American AI](https://news.ycombinator.com/item?id=48435371)**
 
-⬆️ 127 • 💬 91 • 1d ago • [reuters.com](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+“The dreamers look skyward with longing. The Internet hums with its usual promise — you will find your people, your myth, your wonder, and maybe your transformation.”
+
+⬆️ 130 • 💬 185 • 7h ago • [Trimming Circles](https://leoveanu.com/2026-06-06-qwen3.7max/)
 
 ---
 
@@ -281,7 +279,7 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 39K • 👍 2K • 💬 300 • ⏱️ 10:05 • 5h ago
+👁️ 39K • 👍 2K • 💬 300 • ⏱️ 10:05 • 6h ago
 
 ---
 
@@ -291,7 +289,7 @@ Try Higgsfield Supercomputer and build with AI agents here → https://higgsfiel
 
 📺 Malva AI
 
-👁️ 4K • 👍 265 • 💬 29 • ⏱️ 20:02 • 10h ago
+👁️ 4K • 👍 265 • 💬 29 • ⏱️ 20:02 • 11h ago
 
 ---
 
@@ -301,7 +299,7 @@ AI is unprofitable. Companies are shoveling TRILLIONS into AI and only Nvidia is
 
 📺 Clownfish TV
 
-👁️ 21K • 👍 2K • 💬 471 • ⏱️ 15:08 • 9h ago
+👁️ 21K • 👍 2K • 💬 471 • ⏱️ 15:08 • 11h ago
 
 ---
 
@@ -311,7 +309,7 @@ HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more
 
 📺 AI Search
 
-👁️ 71K • 👍 3K • 💬 306 • ⏱️ 49:09 • 17h ago
+👁️ 71K • 👍 3K • 💬 306 • ⏱️ 49:09 • 19h ago
 
 ---
 
@@ -321,7 +319,7 @@ Google DeepMind just released Gemma 4 12B, a new AI model that completely change
 
 📺 Better Stack
 
-👁️ 30K • 👍 1K • 💬 84 • ⏱️ 11:02 • 20h ago
+👁️ 30K • 👍 1K • 💬 84 • ⏱️ 11:02 • 21h ago
 
 ---
 
@@ -331,7 +329,7 @@ Claim your free 1-on-1 investment consultation: https://theproactivethinker.com/
 
 📺 Proactive Thinker
 
-👁️ 5K • 👍 237 • 💬 49 • ⏱️ 11:35 • 13h ago
+👁️ 5K • 👍 237 • 💬 49 • ⏱️ 11:35 • 14h ago
 
 ---
 
@@ -371,7 +369,7 @@ The "AI is taking our jobs" narrative is apparently a massive corporate cover-up
 
 📺 Matt Wolfe
 
-👁️ 3K • 👍 138 • 💬 10 • ⏱️ 1:06 • 3h ago
+👁️ 3K • 👍 138 • 💬 10 • ⏱️ 1:06 • 4h ago
 
 ---
 
@@ -645,7 +643,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 61.4k • 🔱 7.4k • 25m ago
+⭐ 61.4k • 🔱 7.4k • 1h ago
 
 ---
 
@@ -703,7 +701,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 178 • 5h ago
+⭐ 2.1k • 🔱 178 • 6h ago
 
 ---
 
@@ -713,7 +711,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.0k • 🔱 226 • 17h ago
+⭐ 2.0k • 🔱 226 • 19h ago
 
 ---
 
@@ -723,7 +721,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.8k • 🔱 137 • 5h ago
+⭐ 1.8k • 🔱 137 • 6h ago
 
 ---
 
