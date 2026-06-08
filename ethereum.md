@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-08T22:10:11.778709+00:00'
+updated: '2026-06-08T23:47:09.748428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 08, 2026 at 22:10 UTC  
+**Last Updated:** June 08, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -8.8%  
-**30d:** -28.4%  
-**90d:** -17.3%  
-**1y:** -36.7%  
+**24h:** -0.3%  
+**7d:** -9.1%  
+**30d:** -28.6%  
+**90d:** -17.5%  
+**1y:** -36.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $203.05B
+**Market Cap:** $204.72B
 Rank #2
 
 **Circulating Supply:** 120,684,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.0%
+-65.7%
 
 **All-Time Low:** $0.43
-+388530.9%
++391276.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-2h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
 
-2h ago
+4h ago
 
 ---
 
@@ -166,19 +166,11 @@ Benzinga • 3d ago
 
 ---
 
-**[Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit](https://finance.yahoo.com/markets/crypto/articles/bored-ape-maker-yuga-labs-205445197.html)**
-
-The Bored Ape Yacht Club creator now holds more than 60 rescued NFTs in its custody as it works to return them to their rightful owners.
-
-Yahoo Finance • 1h ago
-
----
-
 **[MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum](https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum)**
 
 Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -186,15 +178,7 @@ The Block • 9h ago
 
 The largest ethereum treasury firm acquired 126,971 tokens last week....
 
-Sherwood News • 6h ago
-
----
-
-**[UNDP Brings Ethereum, Cardano, and Stellar Together to Explore Blockchain for Public Good](https://coinpedia.org/news/undp-brings-ethereum-cardano-and-stellar-together-to-explore-blockchain-for-public-good/)**
-
-The United Nations Development Programme (UNDP) has launched a new Blockchain Advisory Group that brings together 26 organizations, including the Ethereum
-
-Coinpedia • 10h ago
+Sherwood News • 8h ago
 
 ---
 
@@ -202,7 +186,7 @@ Coinpedia • 10h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 10h ago
 
 ---
 
@@ -210,7 +194,7 @@ Fortune • 8h ago
 
 Discover who founded Ethereum. Learn about Vitalik Buterin, all 8 original co-founders, their vision, and how to secure your ETH today.
 
-Ledger • 11h ago
+Ledger • 13h ago
 
 ---
 
@@ -218,7 +202,7 @@ Ledger • 11h ago
 
 Russia's central bank limits retail investors to Bitcoin, Ethereum, and USDT starting July 2026, with a $4,000 annual cap and mandatory risk testing.
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 13h ago
 
 ---
 
@@ -226,7 +210,21 @@ Crypto Briefing • 11h ago
 
 Ethereum price started a recovery wave above the $1,600 zone. ETH is now consolidating and might rally if there is a clear move above the $1,750 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $1,500 support zone, like Bitcoin. ETH price formed a base and starte…
 
-TradingView • 20h ago
+TradingView • 22h ago
+
+---
+
+**[Ethereum Co-founder Linked Wallet Move 80,001 ETH, Is he Dumping ETH?](https://coinpedia.org/news/ethereum-co-founder-linked-wallet-move-80001-eth-is-he-dumping-eth/)**
+
+Ethereum investors are on high alert after a wallet linked to Ethereum co-founder Joseph Lubin suddenly moved more than $121 million worth of ETH
+
+Coinpedia • 2d ago
+
+---
+
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
+
+富途牛牛 • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 732 • 💬 61 • ⏱️ 16:49 • 1d ago
+👁️ 21K • 👍 745 • 💬 63 • ⏱️ 16:49 • 1d ago
 
 ---
 
@@ -250,7 +248,7 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 554 • 👍 55 • 💬 57 • ⏱️ 5:46 • 4h ago
+👁️ 2K • 👍 136 • 💬 56 • ⏱️ 5:46 • 6h ago
 
 ---
 
@@ -260,7 +258,7 @@ Here are the latest news affecting bitcoin, ethereum and all markets globally. I
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 328 • 💬 45 • ⏱️ 8:10 • 11h ago
+👁️ 9K • 👍 357 • 💬 64 • ⏱️ 8:10 • 12h ago
 
 ---
 
@@ -270,17 +268,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 3K • 👍 90 • 💬 5 • ⏱️ 16:40 • 1d ago
-
----
-
-**[WILL ETHEREUM CRASH AGAIN THIS WEEK?🚨](https://www.youtube.com/watch?v=6V9rtI1CWuM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 275 • 👍 11 • 💬 1 • ⏱️ 4:44 • 12h ago
+👁️ 3K • 👍 92 • 💬 10 • ⏱️ 16:40 • 1d ago
 
 ---
 
@@ -290,7 +278,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 19K • 👍 700 • 💬 98 • ⏱️ 21:23 • 2d ago
+👁️ 20K • 👍 705 • 💬 99 • ⏱️ 21:23 • 2d ago
 
 ---
 
@@ -300,27 +288,27 @@ BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 11K • 👍 474 • 💬 101 • ⏱️ 18:51 • 21h ago
+👁️ 11K • 👍 478 • 💬 120 • ⏱️ 18:51 • 23h ago
 
 ---
 
-**[OFFICIAL: XRP Hits $400,000,000 in Tokenized Assets 2x Faster Than Ethereum!](https://www.youtube.com/watch?v=93Pw8oienAI)**
+**[Crypto Collapse! Institutional Technical Analysis, Latest Forecast, Trades (BTC, ETH, SOL, HYPE)](https://www.youtube.com/watch?v=9Sccl9hBids)**
 
-XRP just hit $400 million in tokenized real-world assets twice as fast as Ethereum, breaking historical records. While the broader ...
+In today's video, Chief Market Strategist Gareth Soloway dives deep into the recent crypto collapse. As predicted, Bitcoin hit the ...
 
-📺 Cheeky Crypto
+📺 Gareth Soloway
 
-👁️ 12K • 👍 771 • 💬 48 • ⏱️ 23:26 • 14h ago
+👁️ 89K • 👍 5K • 💬 306 • ⏱️ 15:17 • 1d ago
 
 ---
 
-**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
+**[WILL ETHEREUM CRASH AGAIN THIS WEEK?🚨](https://www.youtube.com/watch?v=6V9rtI1CWuM)**
 
-Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Paul Barron Network
+📺 Cilinix Crypto
 
-👁️ 33K • 👍 1K • 💬 96 • ⏱️ 21:26 • 2d ago
+👁️ 350 • 👍 11 • 💬 1 • ⏱️ 4:44 • 14h ago
 
 ---
 
@@ -330,7 +318,17 @@ BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Sque
 
 📺 Smart Stock Sam
 
-👁️ 2K • 👍 179 • 💬 33 • ⏱️ 19:08 • 1d ago
+👁️ 2K • 👍 179 • 💬 36 • ⏱️ 19:08 • 1d ago
+
+---
+
+**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
+
+Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
+
+📺 Paul Barron Network
+
+👁️ 33K • 👍 1K • 💬 97 • ⏱️ 21:26 • 2d ago
 
 ---
 

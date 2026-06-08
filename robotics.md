@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-08T22:10:11.781935+00:00'
+updated: '2026-06-08T23:47:09.751296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 08, 2026 at 22:10 UTC  
+**Last Updated:** June 08, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I made a playable Excel workbook that models a 2D and 3D robot arm using only ordinary spreadsheet formulas, charts, sliders, and Excel Solver. The idea is to make kinematics easier to understand. GitHub: https://github.com/CarlKCarlK/excel-3d-robot-arm The 3D arm is inspired by the old Radio Shack / TOMY Armatron toy robot arm. The workbook lets you move the arm manually, set a target point, and then use Excel's Solver to find the control settings that move the hand to the target (inverse kinematics!). I made this mostly as a learning project. Excel makes the math visible: the rotation matrices, position updates, target error, and Solver setup are all inspectable cell by cell. Nothing is hidden in a robotics library or graphics engine. The model itself is just a series of rows, each controlling one segment. The rows process 3 ways to turn (yaw, pitch, roll) or a move, turtle graphics-style.
 
-6h ago
+8h ago
 
 ---
 
@@ -44,7 +44,13 @@ I made a playable Excel workbook that models a 2D and 3D robot arm using only or
 
 From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Project: MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation Website: https://atarilab.github.io/motiondisco.io/ ArXiv: https://arxiv.org/pdf/2606.06139
 
-11h ago
+12h ago
+
+---
+
+**[Humanoid robot kicks a child during a performance at a Chinese amusement park](https://www.reddit.com/r/robotics/comments/1u0fb3h/humanoid_robot_kicks_a_child_during_a_performance/)**
+
+5h ago
 
 ---
 
@@ -52,7 +58,7 @@ From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Pro
 
 This machine takes around four seconds for each solve. To reach that speed I had to use the kociemba algorithm, which can find a solution of around 20 moves for all scrambles. It took me a really long time to complete this so I would appreciate it if you show it some love! I made this when I was around 15. Please ask questions!
 
-1h ago
+3h ago
 
 ---
 
@@ -60,7 +66,7 @@ This machine takes around four seconds for each solve. To reach that speed I had
 
 Hey reddit, So we built a gaming accessibility app SensePilot that enable people with disabilities to control a computer and play video games. I just finished developing the human-robot interface prototype so thought I'll share the demo here too as its related to robotics. Hope to eventually apply this to assistive living robots, because their controls are usually very limited and their users are unable to use hands for controlling the robot very well.
 
-7h ago
+9h ago
 
 ---
 
@@ -68,19 +74,19 @@ Hey reddit, So we built a gaming accessibility app SensePilot that enable people
 
 I made a little online multiplayer game inspired by my recent underwater robotics work. You can pilot a little ROV around the ocean, explore shipwrecks, take photos and categorize fish and things. It's multiplayer and I'm thinking of having treasure hunts, etc. Should I ship it? Would you play?
 
-18h ago
+20h ago
 
 ---
 
 **[Testing autonomous robot data collection from real-world attempts](https://www.reddit.com/r/robotics/comments/1u009cr/testing_autonomous_robot_data_collection_from/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Point-to-point autonomous navigation](https://www.reddit.com/r/robotics/comments/1u06fbw/pointtopoint_autonomous_navigation/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -88,19 +94,13 @@ I made a little online multiplayer game inspired by my recent underwater robotic
 
 I'm looking to buy a robot arm through AIFITLAB - has anyone done a major purchase through them recently? I'm looking to buy an AgileX NERO, price seems lower than US based companies which I know might be due to tariffs
 
-7h ago
+9h ago
 
 ---
 
 **[Current research directions in robotics foundation models if you can’t train from scratch?](https://www.reddit.com/r/robotics/comments/1u0i1nz/current_research_directions_in_robotics/)**
 
 TL;DR struggling in finding a meaningful research contribution on top of existing big foundation models. (edit: please note it's my first post on reddit,I'm not a bot) Context: I'm working on FM applied to robotics: VLAs, world models, WAMs. Lately I'm mostly reading papers, and implementing small adds on. Those topic are really exiting but I’m wondering where modest researchers (like me) can make meaningful contributions, given that training competitive foundation models from scratch is a big-lab game. For people working on fondation models in academy and R&D, that asked themself similar questions: Do you have some honest suggestions or feedback? If starting from a pretrained fondation model, main things that come to my mind are eg: - architecture changes (don't you lose all the pre training warmup)? - fine tune (not much new science if one runs lora...) - froze the model and build add-on like uncertaintyquant , world-model lookahead, inference guidance, safety constraints - something big I'm not seeing? Also happy to hear paper/project recommendations that are good examples of this. Thank you all.
-
-2h ago
-
----
-
-**[Humanoid robot kicks a child during a performance at a Chinese amusement park](https://www.reddit.com/r/robotics/comments/1u0fb3h/humanoid_robot_kicks_a_child_during_a_performance/)**
 
 4h ago
 
@@ -114,41 +114,19 @@ TL;DR struggling in finding a meaningful research contribution on top of existin
 
 New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
 
-NVIDIA Blog • 19h ago
+NVIDIA Blog • 20h ago
 
 ---
 
-**[NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/)**
+**[Nvidia CEO Jensen Huang: "No one" better with robots than Hyundai](https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots)**
 
-Companies to explore robotics, AI factory power solutions and advanced electronics materials for next-generation data center systems.
-
-NVIDIA Blog • 23h ago
+Axios • 2h ago
 
 ---
 
 **[Nvidia, Hyundai Deepen Joint Push Into AI-Powered Robotics](https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics)**
 
-Bloomberg.com • 11h ago
-
----
-
-**[Not Tesla? "No one" better with robots than Hyundai, Nvidia CEO says](https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots)**
-
-Axios • 31m ago
-
----
-
-**[Opinion | What’s the price of folding laundry? It’s higher than you think.](https://www.washingtonpost.com/opinions/interactive/2026/06/08/this-ai-robot-promises-fold-your-laundry-would-you-buy-it/)**
-
-This is the new hype in Silicon Valley. Should you get on board?
-
-The Washington Post • 4h ago
-
----
-
-**[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
-
-The Economist • 1d ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -156,7 +134,7 @@ The Economist • 1d ago
 
 Robot.com CEO Felipe Chavez said he wants to build an ecosystem of robots that will handle boring, repetitive tasks.
 
-Business Insider • 12h ago
+Business Insider • 14h ago
 
 ---
 
@@ -168,19 +146,37 @@ Fortune • 2d ago
 
 ---
 
-**[We hung out with around 100 robots – and here are the bizarre highlights](https://newatlas.com/ai-humanoids/gallery-robots-hong-kong/)**
+**[Could humanoid robots be heading for the battlefield?](https://www.bbc.com/news/articles/cedpxwe26l1o)**
 
-Humanoids may be winning marathons and getting factory jobs, but after spending a few days with around 100 different robots of all shapes and sizes, one thing was clear: There's a chasm separating viral demonstration video and reality.
+Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.
 
-New Atlas • 1d ago
+BBC • 40m ago
 
 ---
 
-**[China’s first general-purpose humanoid robot undergoes real-home trials; room remains for robots to understand various needs, raise effiiciency: expert](https://www.globaltimes.cn/page/202606/1362970.shtml)**
+**[Opinion | What’s the price of folding laundry? It’s higher than you think.](https://www.washingtonpost.com/opinions/interactive/2026/06/08/this-ai-robot-promises-fold-your-laundry-would-you-buy-it/)**
 
-“Xiaoguang, please prepare breakfast.” Responding to the command, a humanoid household robot rolled to a counter, picked up bread, heated fried chicken in a microwave and served the meal in under 8 minutes at a model apartment in Wuhan, Central China's Hubei Province, showcasing the latest advances in home-service robotics. This is China’s first general-purpose humanoid robot which has entered real household scenarios on a trial basis, chinanews.com reported on Sunday.
+This is the new hype in Silicon Valley. Should you get on board?
 
-Global Times • 1d ago
+The Washington Post • 6h ago
+
+---
+
+**[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
+
+The Economist • 1d ago
+
+---
+
+**[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
+
+CT Mirror • 1d ago
 
 ---
 
@@ -194,7 +190,17 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 3.2M • 👍 56K • 💬 6K • ⏱️ 6:01 • 6d ago
+👁️ 3.3M • 👍 56K • 💬 6K • ⏱️ 6:01 • 6d ago
+
+---
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 236K • 👍 5K • 💬 4K • ⏱️ 2:17 • 2d ago
 
 ---
 
@@ -208,13 +214,13 @@ The future isn't coming someday—it's already here. From elder-care companions 
 
 ---
 
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
 
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
 
-📺 New York Post
+📺 Talent Recap
 
-👁️ 228K • 👍 5K • 💬 4K • ⏱️ 2:17 • 2d ago
+👁️ 1.4M • 👍 20K • 💬 1K • ⏱️ 5:01 • 6d ago
 
 ---
 
@@ -224,17 +230,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 18K • 👍 507 • 💬 53 • ⏱️ 15:31 • 3d ago
-
----
-
-**[He Created A Whole Dance Crew With ROBOTS! | AGT 2026](https://www.youtube.com/watch?v=Zj2GL3dOQWE)**
-
-Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative moment for both AGT and robotic history!
-
-📺 Talent Recap
-
-👁️ 1.4M • 👍 19K • 💬 1K • ⏱️ 5:01 • 6d ago
+👁️ 18K • 👍 509 • 💬 53 • ⏱️ 15:31 • 4d ago
 
 ---
 
@@ -244,7 +240,7 @@ Auto Tool Changer That Never Stops — MATC! Adding a gripper meant adding anoth
 
 📺 코라스로보틱스 | Korasrobotics
 
-👁️ 183K • 👍 2K • ⏱️ 1:22 • 4d ago
+👁️ 184K • 👍 2K • ⏱️ 1:22 • 4d ago
 
 ---
 
@@ -254,15 +250,7 @@ A robotic tattoo machine prints a full Japanese koi sleeve across a bare arm in 
 
 📺 Prototype Leaked
 
-👁️ 8K • 👍 118 • ⏱️ 0:11 • 7h ago
-
----
-
-**[His Cleaning Robot Almost Became a Spy Machine](https://www.youtube.com/watch?v=fUx13iL-1UM)**
-
-📺 Rennrat
-
-👁️ 95K • 👍 5K • 💬 95 • ⏱️ 0:32 • 20h ago
+👁️ 12K • 👍 145 • ⏱️ 0:11 • 8h ago
 
 ---
 
@@ -272,17 +260,25 @@ Unitree amazed the audience on America's Got Talent with an incredible robot dan
 
 📺 The Construct Robotics Institute
 
-👁️ 72K • 👍 1K • 💬 151 • ⏱️ 5:12 • 3d ago
+👁️ 74K • 👍 1K • 💬 152 • ⏱️ 5:12 • 3d ago
 
 ---
 
-**[This Robotic Hand Moves After Being Detached From the Body](https://www.youtube.com/watch?v=s74Q6jC-w2U)**
+**[Finally! A Robot Lawn Mower Worth buying](https://www.youtube.com/watch?v=ZLXM4bND1vk)**
 
-Open Bionics built a bionic hand that detaches and keeps moving on its own. After 30 days, users' brains permanently rewired to ...
+Lymow One Plus Robot Lawn mower review Get your Lymow One Plus here: https://amzn.to/4v69cVV Looking for High quality, ...
 
-📺 AzlanX
+📺 Rockhill farm 
 
-👁️ 104K • 💬 30 • ⏱️ 0:34 • 3d ago
+👁️ 4K • 👍 306 • 💬 49 • ⏱️ 20:35 • 1d ago
+
+---
+
+**[This ROBOT is not HUMAN 😭🔥](https://www.youtube.com/watch?v=rbOvdL_VCd4)**
+
+📺 Naifh Alehydeb
+
+👁️ 116K • 👍 5K • 💬 93 • ⏱️ 0:28 • 12h ago
 
 ---
 
