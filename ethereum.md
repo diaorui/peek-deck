@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-08T05:13:04.757879+00:00'
+updated: '2026-06-08T10:03:36.331481+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 08, 2026 at 05:13 UTC  
+**Last Updated:** June 08, 2026 at 10:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,685.81
+### $1,674.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** -11.0%  
-**30d:** -30.1%  
-**90d:** -19.3%  
-**1y:** -38.2%  
+**24h:** +2.4%  
+**7d:** -10.3%  
+**30d:** -29.6%  
+**90d:** -18.6%  
+**1y:** -37.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.98B
+**Market Cap:** $201.41B
 Rank #2
 
 **Circulating Supply:** 120,684,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.5%
+-66.2%
 
 **All-Time Low:** $0.43
-+382214.2%
++385643.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11m ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them to do well. Perpification of all assets is going way faster that most realized, while tokenization of rwa’s have taken much longer due to the complexity of regulations, cross chain considerations, liquidity concerns, split order books etc. Perps have become the top choice for people to gamble on commodities like gold, silver, oil, and of course stocks and even pre IPO stocks. Volatility is a tailwind for perp dex revenue, and I expect further volatility this summer and rest of the year. Notice I didn’t even mention crypto perps. Even when crypto has low liquidity and mindshare, perp dex’s will still do well as people trade all assets. Lighter is currently much smaller than HYPE. About 2% of both MC and FDV. $LIT alpha: US based: Vlad, the founder of Lighter, has strong connections to both Silicon Valley, DC heavyweights, and NYC tradfi institutions. He has strong connections to Robinhood, and was an early advisor and HS friend to the other Vlad, ceo of RH. RH was an early investor to Lighter, and I expect some collaboration with them in the future, as Vlad mentioned in a few interviews. I expected some integration of the options market form RH may be able to flow through Lighter on chain, or lighter can help RH with the perps in Us market. Vlad is also friends with Mike Selig of the CFTC, and also with David Sacks. Sacks was an early investor in Lighter before divesting and working for the Trump admin. I expect lighter to receive CFTC approval for us perps market and perhaps tokenization way before hyperliquid Ken Griffin, ceo of citadel, personally hired Vlad when he was 19. Citadel looks to be the perfect partner to provide liquidity to lighter. Citadel would make money on spreads. They also would need to buy $LIT token to be included in the liquidity pool as that’s how the tokenomics are set up 3) token buybacks. Lighter is using 100% of the revenue to buy back the $LIT token, and their buybacks is about 150% higher than $HYPE as % of market cap 4) Vlad also has strong relationships with EF and Vitalik, BMNR and tom Lee. Excited to see where these partnerships go. And I wouldn’t be surprised if these orgs invest in lighter as ethereum community is in their lowest sentiment. They need a killer app.
 
-7h ago
+11h ago
 
 ---
 
@@ -126,7 +126,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Hello once again guys. A week or so ago, I posted about https://revert.wtf. A th
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 7h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -166,17 +166,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Spring Back Even As Iran And Israel Exchange Strikes: Analyst Sees Increasing Possibility Of BTC Bottom](https://sg.finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-spring-020010009.html)**
+**[Whales Buy the Dip as Ethereum Exchange Reserves Keep Falling](https://finance.yahoo.com/markets/crypto/articles/whales-buy-dip-ethereum-exchange-072720161.html)**
 
-Leading cryptocurrencies rallied Sunday evening, even as rising tensions in the Middle East fueled doubts about sustained market momentum. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.30%$63,078.37Ethereum (CRYPTO: ETH) +5.50%$1,681.11XRP (CRYPTO: XRP) +3.85%$1.15Solana (CRYPTO: SOL) +3.96%$65.92Dogecoin (CRYPTO: DOGE) +2.55%$0.08533 Crypto Market Rebounds Bitcoin exceeded $64,000 late evening, fueled by a 15% jump in trading volume, as the apex cryptoc
+An Ethereum OG, Chun Wang, and the Pando Rings hacker bought ETH near $1,600 as exchange reserves dropped 475K.
 
-Yahoo Finance Singapore • 3h ago
-
----
-
-**[Zävîyār 07(@mirajsk2)'s insights](https://www.binance.com/en/square/post/331785932739633)**
-
-Binance • 32m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -184,13 +178,7 @@ Binance • 32m ago
 
 Ethereum’s latest price crash has pushed the cryptocurrency below $1,800, placing its monthly chart under pressure at a time when the entire crypto market sentiment has turned heavily bearish. There is also another weakness coming from the monthly RSI, which has now dropped to its lowest level sinc…
 
-TradingView • 7h ago
-
----
-
-**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
-
-富途牛牛 • 2d ago
+TradingView • 12h ago
 
 ---
 
@@ -198,7 +186,7 @@ TradingView • 7h ago
 
 Bitcoin, Ethereum, and USDT could soon become the only cryptocurrencies available to most retail investors in Russia. The country's central bank is
 
-Coinpedia • 1d ago
+Coinpedia • 2d ago
 
 ---
 
@@ -212,13 +200,27 @@ Decrypt • 2d ago
 
 **[Tether overtakes Ethereum: Is crypto entering a ‘stablecoin season’?](https://ambcrypto.com/tether-overtakes-ethereum-is-crypto-entering-a-stablecoin-season/)**
 
-AMBCrypto • 20h ago
+AMBCrypto • 1d ago
+
+---
+
+**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
+
+富途牛牛 • 2d ago
 
 ---
 
 **[HODL1 Strikes Blockchain Alliance with Startale to Expand Ethereum-Based Web3 Business](https://www.tipranks.com/news/company-announcements/hodl1-strikes-blockchain-alliance-with-startale-to-expand-ethereum-based-web3-business)**
 
-TipRanks • 41m ago
+TipRanks • 5h ago
+
+---
+
+**[Ethereum’s $1,500 test shows how quickly Wall Street’s crypto trade has turned](https://cryptoslate.com/ethereums-1500-test-shows-how-quickly-wall-streets-crypto-trade-has-turned/)**
+
+More than $870 million has left spot Ethereum ETFs as options markets price greater risk around the $1,500 level.
+
+CryptoSlate • 14h ago
 
 ---
 
@@ -232,17 +234,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 612 • 💬 50 • ⏱️ 16:49 • 16h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=G3Pq5W4-QFA)**
-
-BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 339 • 💬 72 • ⏱️ 18:51 • 4h ago
+👁️ 17K • 👍 651 • 💬 52 • ⏱️ 16:49 • 21h ago
 
 ---
 
@@ -252,7 +244,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 2K • 👍 76 • 💬 40 • ⏱️ 16:40 • 16h ago
+👁️ 2K • 👍 81 • 💬 51 • ⏱️ 16:40 • 21h ago
 
 ---
 
@@ -262,7 +254,17 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 665 • 💬 97 • ⏱️ 21:23 • 1d ago
+👁️ 18K • 👍 676 • 💬 98 • ⏱️ 21:23 • 1d ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=G3Pq5W4-QFA)**
+
+BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 431 • 💬 93 • ⏱️ 18:51 • 9h ago
 
 ---
 
@@ -272,7 +274,7 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 30K • 👍 1K • 💬 115 • ⏱️ 21:26 • 1d ago
+👁️ 31K • 👍 1K • 💬 112 • ⏱️ 21:26 • 1d ago
 
 ---
 
@@ -282,7 +284,7 @@ In today's video, Chief Market Strategist Gareth Soloway dives deep into the rec
 
 📺 Gareth Soloway
 
-👁️ 75K • 👍 5K • 💬 426 • ⏱️ 15:17 • 15h ago
+👁️ 81K • 👍 5K • 💬 447 • ⏱️ 15:17 • 20h ago
 
 ---
 
@@ -292,17 +294,7 @@ BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Sque
 
 📺 Smart Stock Sam
 
-👁️ 2K • 👍 168 • 💬 30 • ⏱️ 19:08 • 17h ago
-
----
-
-**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
-
-Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
-
-📺 Kamilah Stevenson
-
-👁️ 28K • 👍 2K • 💬 286 • ⏱️ 13:31 • 2d ago
+👁️ 2K • 👍 172 • 💬 31 • ⏱️ 19:08 • 22h ago
 
 ---
 
@@ -316,13 +308,23 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 ---
 
+**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
+
+Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
+
+📺 Kamilah Stevenson
+
+👁️ 28K • 👍 2K • 💬 291 • ⏱️ 13:31 • 2d ago
+
+---
+
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=9kDGAZjjNJI)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 646 • 👍 92 • ⏱️ 8:13 • 2h ago
+👁️ 2K • 👍 146 • ⏱️ 8:13 • 7h ago
 
 ---
 
