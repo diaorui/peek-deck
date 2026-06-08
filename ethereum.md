@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-08T10:03:36.331481+00:00'
+updated: '2026-06-08T14:34:06.986405+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 08, 2026 at 10:03 UTC  
+**Last Updated:** June 08, 2026 at 14:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,674.67
+### $1,695.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** -10.3%  
-**30d:** -29.6%  
-**90d:** -18.6%  
-**1y:** -37.7%  
+**24h:** +3.5%  
+**7d:** -9.3%  
+**30d:** -28.8%  
+**90d:** -17.7%  
+**1y:** -37.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.41B
+**Market Cap:** $203.36B
 Rank #2
 
 **Circulating Supply:** 120,684,491 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.2%
+-65.9%
 
 **All-Time Low:** $0.43
-+385643.9%
++389369.2%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+9h ago
+
+---
+
+**[Lighter Due Diligence: the highest growth L2?](https://www.reddit.com/r/ethereum/comments/1tzpmiu/lighter_due_diligence_the_highest_growth_l2/)**
+
+Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them to do well. Perpification of all assets is going way faster that most realized, while tokenization of rwa’s have taken much longer due to the complexity of regulations, cross chain considerations, liquidity concerns, split order books etc. Perps have become the top choice for people to gamble on commodities like gold, silver, oil, and of course stocks and even pre IPO stocks. Volatility is a tailwind for perp dex revenue, and I expect further volatility this summer and rest of the year. Notice I didn’t even mention crypto perps. Even when crypto has low liquidity and mindshare, perp dex’s will still do well as people trade all assets. Lighter is currently much smaller than HYPE. About 2% of both MC and FDV. $LIT alpha: US based: Vlad, the founder of Lighter, has strong connections to both Silicon Valley, DC heavyweights, and NYC tradfi institutions. He has strong connections to Robinhood, and was an early advisor and HS friend to the other Vlad, ceo of RH. RH was an early investor to Lighter, and I expect some collaboration with them in the future, as Vlad mentioned in a few interviews. I expected some integration of the options market form RH may be able to flow through Lighter on chain, or lighter can help RH with the perps in Us market. Vlad is also friends with Mike Selig of the CFTC, and also with David Sacks. Sacks was an early investor in Lighter before divesting and working for the Trump admin. I expect lighter to receive CFTC approval for us perps market and perhaps tokenization way before hyperliquid Ken Griffin, ceo of citadel, personally hired Vlad when he was 19. Citadel looks to be the perfect partner to provide liquidity to lighter. Citadel would make money on spreads. They also would need to buy $LIT token to be included in the liquidity pool as that’s how the tokenomics are set up 3) token buybacks. Lighter is using 100% of the revenue to buy back the $LIT token, and their buybacks is about 150% higher than $HYPE as % of market cap 4) Vlad also has strong relationships with EF and Vitalik, BMNR and tom Lee. Excited to see where these partnerships go. And I wouldn’t be surprised if these orgs invest in lighter as ethereum community is in their lowest sentiment. They need a killer app.
+
+16h ago
 
 ---
 
@@ -81,14 +89,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Lighter Due Diligence: the highest growth L2?](https://www.reddit.com/r/ethereum/comments/1tzpmiu/lighter_due_diligence_the_highest_growth_l2/)**
-
-Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them to do well. Perpification of all assets is going way faster that most realized, while tokenization of rwa’s have taken much longer due to the complexity of regulations, cross chain considerations, liquidity concerns, split order books etc. Perps have become the top choice for people to gamble on commodities like gold, silver, oil, and of course stocks and even pre IPO stocks. Volatility is a tailwind for perp dex revenue, and I expect further volatility this summer and rest of the year. Notice I didn’t even mention crypto perps. Even when crypto has low liquidity and mindshare, perp dex’s will still do well as people trade all assets. Lighter is currently much smaller than HYPE. About 2% of both MC and FDV. $LIT alpha: US based: Vlad, the founder of Lighter, has strong connections to both Silicon Valley, DC heavyweights, and NYC tradfi institutions. He has strong connections to Robinhood, and was an early advisor and HS friend to the other Vlad, ceo of RH. RH was an early investor to Lighter, and I expect some collaboration with them in the future, as Vlad mentioned in a few interviews. I expected some integration of the options market form RH may be able to flow through Lighter on chain, or lighter can help RH with the perps in Us market. Vlad is also friends with Mike Selig of the CFTC, and also with David Sacks. Sacks was an early investor in Lighter before divesting and working for the Trump admin. I expect lighter to receive CFTC approval for us perps market and perhaps tokenization way before hyperliquid Ken Griffin, ceo of citadel, personally hired Vlad when he was 19. Citadel looks to be the perfect partner to provide liquidity to lighter. Citadel would make money on spreads. They also would need to buy $LIT token to be included in the liquidity pool as that’s how the tokenomics are set up 3) token buybacks. Lighter is using 100% of the revenue to buy back the $LIT token, and their buybacks is about 150% higher than $HYPE as % of market cap 4) Vlad also has strong relationships with EF and Vitalik, BMNR and tom Lee. Excited to see where these partnerships go. And I wouldn’t be surprised if these orgs invest in lighter as ethereum community is in their lowest sentiment. They need a killer app.
-
-11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated financial infrastructure ever built, and i still have to convert everything to fiat just to buy groceries. The DeFi side is incredible. Lending, borrowing, yield all of it works seamlessly but the moment you want to actually spend your stablecoins in real life you're back to exchanges, fees and waiting for bank transfers. Everything works perfectly until you want to spend it somewhere normal
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Hello once again guys. A week or so ago, I posted about https://revert.wtf. A th
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,19 +166,57 @@ The Block • 1d ago
 
 ---
 
-**[Whales Buy the Dip as Ethereum Exchange Reserves Keep Falling](https://finance.yahoo.com/markets/crypto/articles/whales-buy-dip-ethereum-exchange-072720161.html)**
+**[Bitcoin and ethereum prices today, Monday, June 8, 2026: Moving up after bitcoin prices fell below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-8-2026-moving-up-after-bitcoin-prices-fell-below-60000-131559331.html)**
 
-An Ethereum OG, Chun Wang, and the Pando Rings hacker bought ETH near $1,600 as exchange reserves dropped 475K.
+Bitcoin opened at $63,310.30 on Monday, June 8, 2026, 4% higher than Sunday's opening price. Ethereum opened at $1,689.78 on Monday, up 7.7% from Sunday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum’s RSI Just Hit Its Lowest Level In History, And That May Be Exactly The Point](https://www.tradingview.com/news/newsbtc:288641e62094b:0-ethereum-s-rsi-just-hit-its-lowest-level-in-history-and-that-may-be-exactly-the-point/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.54 Million Tokens, and Total...](https://www.binance.com/en/square/post/331909458679554)**
 
-Ethereum’s latest price crash has pushed the cryptocurrency below $1,800, placing its monthly chart under pressure at a time when the entire crypto market sentiment has turned heavily bearish. There is also another weakness coming from the monthly RSI, which has now dropped to its lowest level sinc…
+Binance • 1h ago
 
-TradingView • 12h ago
+---
+
+**[Bitmine Makes Biggest Ethereum Purchase Of 2026](https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-135300568.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) made its biggest Ethereum (CRYPTO: $ETH) purchase of the year as the c...
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Current price of Ethereum for June 8, 2026](https://fortune.com/article/price-of-ethereum-06-08-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
+**[Ethereum Price Mounts An Impressive Recovery As Market Mood Shifts](https://www.tradingview.com/news/newsbtc:ba36d9ef0094b:0-ethereum-price-mounts-an-impressive-recovery-as-market-mood-shifts/)**
+
+Ethereum price started a recovery wave above the $1,600 zone. ETH is now consolidating and might rally if there is a clear move above the $1,750 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $1,500 support zone, like Bitcoin. ETH price formed a base and starte…
+
+TradingView • 13h ago
+
+---
+
+**[Ethereum RSI drops to lowest level since launch amid relentless selling pressure](https://cryptobriefing.com/ethereum-rsi-record-low-oversold/)**
+
+Ethereum's RSI has fallen to its lowest level ever recorded, dropping below thresholds seen during the FTX collapse and COVID crash as ETH trades near
+
+Crypto Briefing • 16h ago
+
+---
+
+**[Tom Lee's 'BitMine bought the bloodbath': BMNR reports $213M worth of Ethereum purchase](https://seekingalpha.com/news/4601401-tom-lees-bitmine-bought-the-bloodbath-bmnr-reports-213m-worth-of-ethereum-purchase)**
+
+Bitmine (BMNR) bought $213M in Ethereum, now holding 5.54M ETH (4.59% supply).
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -190,43 +228,19 @@ Coinpedia • 2d ago
 
 ---
 
-**[Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend](https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares)**
-
-BitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.
-
-Decrypt • 2d ago
-
----
-
-**[Tether overtakes Ethereum: Is crypto entering a ‘stablecoin season’?](https://ambcrypto.com/tether-overtakes-ethereum-is-crypto-entering-a-stablecoin-season/)**
-
-AMBCrypto • 1d ago
-
----
-
-**[Crypto market in turmoil! Bitcoin breaks below $60,000, Ethereum plunges over 10%, and Strategy is targeted by short sellers.](https://news.futunn.com/en/post/74213986/crypto-market-in-turmoil-bitcoin-breaks-below-60000-ethereum-plunges)**
-
-富途牛牛 • 2d ago
-
----
-
-**[HODL1 Strikes Blockchain Alliance with Startale to Expand Ethereum-Based Web3 Business](https://www.tipranks.com/news/company-announcements/hodl1-strikes-blockchain-alliance-with-startale-to-expand-ethereum-based-web3-business)**
-
-TipRanks • 5h ago
-
----
-
-**[Ethereum’s $1,500 test shows how quickly Wall Street’s crypto trade has turned](https://cryptoslate.com/ethereums-1500-test-shows-how-quickly-wall-streets-crypto-trade-has-turned/)**
-
-More than $870 million has left spot Ethereum ETFs as options markets price greater risk around the $1,500 level.
-
-CryptoSlate • 14h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
+
+Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
+
+📺 Thomas Kralow
+
+👁️ 4K • 👍 246 • 💬 96 • ⏱️ 8:10 • 3h ago
+
+---
 
 **[Ethereum’s Future Just Took a Sharp Turn](https://www.youtube.com/watch?v=HAAhbq_lefc)**
 
@@ -234,7 +248,17 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 17K • 👍 651 • 💬 52 • ⏱️ 16:49 • 21h ago
+👁️ 18K • 👍 702 • 💬 57 • ⏱️ 16:49 • 1d ago
+
+---
+
+**[WILL ETHEREUM CRASH AGAIN THIS WEEK?🚨](https://www.youtube.com/watch?v=6V9rtI1CWuM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 165 • 👍 9 • ⏱️ 4:44 • 5h ago
 
 ---
 
@@ -244,17 +268,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 2K • 👍 81 • 💬 51 • ⏱️ 16:40 • 21h ago
-
----
-
-**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
-
-Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
-
-📺 Coin Bureau
-
-👁️ 18K • 👍 676 • 💬 98 • ⏱️ 21:23 • 1d ago
+👁️ 3K • 👍 88 • 💬 50 • ⏱️ 16:40 • 1d ago
 
 ---
 
@@ -264,7 +278,7 @@ BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 431 • 💬 93 • ⏱️ 18:51 • 9h ago
+👁️ 10K • 👍 459 • 💬 189 • ⏱️ 18:51 • 13h ago
 
 ---
 
@@ -274,7 +288,17 @@ Join us for an in-depth conversation with Jerome de Tychey as he breaks down the
 
 📺 Paul Barron Network
 
-👁️ 31K • 👍 1K • 💬 112 • ⏱️ 21:26 • 1d ago
+👁️ 32K • 👍 1K • 💬 115 • ⏱️ 21:26 • 1d ago
+
+---
+
+**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
+
+Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
+
+📺 Coin Bureau
+
+👁️ 19K • 👍 682 • 💬 98 • ⏱️ 21:23 • 2d ago
 
 ---
 
@@ -284,7 +308,7 @@ In today's video, Chief Market Strategist Gareth Soloway dives deep into the rec
 
 📺 Gareth Soloway
 
-👁️ 81K • 👍 5K • 💬 447 • ⏱️ 15:17 • 20h ago
+👁️ 85K • 👍 5K • 💬 492 • ⏱️ 15:17 • 1d ago
 
 ---
 
@@ -294,37 +318,17 @@ BMNR Stock Analysis: The Hidden Catalyst That Could Trigger a Massive Short Sque
 
 📺 Smart Stock Sam
 
-👁️ 2K • 👍 172 • 💬 31 • ⏱️ 19:08 • 22h ago
+👁️ 2K • 👍 176 • 💬 32 • ⏱️ 19:08 • 1d ago
 
 ---
 
-**[☢ Ethereum Will Crash More! - ETH Crypto Analysis](https://www.youtube.com/watch?v=UPVS8o0WJU4)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 6K • 👍 180 • 💬 45 • ⏱️ 14:13 • 1d ago
-
----
-
-**[The Money Is Leaving Ethereum For XRP... Here Is The Proof.](https://www.youtube.com/watch?v=fTKGITKcujU)**
-
-Over the last thirty days, the XRP Ledger took in roughly one and a half billion dollars in net new real world asset inflows. In the ...
-
-📺 Kamilah Stevenson
-
-👁️ 28K • 👍 2K • 💬 291 • ⏱️ 13:31 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=9kDGAZjjNJI)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=oHc9oWD8654)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto Gyan
+📺 Profit First
 
-👁️ 2K • 👍 146 • ⏱️ 8:13 • 7h ago
+👁️ 269 • 👍 44 • ⏱️ 6:03 • 1h ago
 
 ---
 

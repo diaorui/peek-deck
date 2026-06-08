@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-08T10:03:36.316485+00:00'
+updated: '2026-06-08T14:34:06.975863+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 08, 2026 at 10:03 UTC  
+**Last Updated:** June 08, 2026 at 14:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I keep seeing more companies giving AI agents access to real stuff like email, databases, internal tools, customer data, etc. And what’s weird is how normal it’s starting to feel now. Like not long ago everyone was worried about chatbots just giving wrong answers. Now we’re basically like yeah sure go ahead and do things for us. I don’t know that jump feels kind of big when you actually think about it. Maybe it all works out fine. Or maybe we’re just moving fast without fully realizing what we’re doing. I’m honestly surprised there hasn’t already been some big headline like an AI agent doing something really wrong. It feels like we’re kind of close to one of those moments where everything suddenly changes overnight. Anyone else feel like we’re closer to something like that than people are admitting?
 
-5h ago
+9h ago
+
+---
+
+**[Context switching is a bigger time waster than the actual work](https://www.reddit.com/r/artificial/comments/1u071gq/context_switching_is_a_bigger_time_waster_than/)**
+
+One thing I didn’t expect while trying to improve my workflow: The actual tasks aren’t what takes most of the time. It’s all the context switching around them. Things like: - jumping between tools just to complete one small step - copying data from one place to another - stopping what you’re doing to handle something repetitive - switching back and figuring out where you left off Individually it’s nothing. But over a day it adds up to constant interruptions. And it’s weirdly more draining than the work itself. I started paying attention to that instead of just the tasks, and reducing those switches made a bigger difference than trying to “optimize” the work itself. Curious if others notice the same thing or if it’s just me
+
+1h ago
 
 ---
 
@@ -49,23 +57,15 @@ I keep seeing more companies giving AI agents access to real stuff like email, d
 
 PM at a mid-size startup here. Didn’t really notice how bad it got until this week. My workflow now: Claude for ideation ChatGPT for rewriting specs Cursor for implementation Perplexity for research Notion AI for docs Atoms AI for larger tasks None of these tools actually replaced my work. They just redistributed it. I’m still the one dragging context between all of them. Yesterday I literally caught myself pasting the exact same requirement into 4 different tools and thinking… this can’t be how it’s supposed to work. I don’t even think any single tool is bad. It just feels like we hired 6 smart interns and completely forgot to get a manager.
 
-2h ago
+6h ago
 
 ---
 
-**[I’d Rather Send 1,000 Emails Than Make 10 Cold Calls](https://www.reddit.com/r/artificial/comments/1u02v6h/id_rather_send_1000_emails_than_make_10_cold_calls/)**
+**[Nvidia announces another full-stack AI factory deal, this time in Korea with plans for gigawatt-scale operation](https://www.reddit.com/r/artificial/comments/1u03kby/nvidia_announces_another_fullstack_ai_factory/)**
 
-I run a web design agency and there is already way too much stuff to deal with every day. Hosting client websites, maintaining them, building new sites, replying to clients, fixing random issues, handling support, doing outreach. Once you start managing a lot of company websites it quickly becomes overwhelming. That’s why I never wanted cold calling to become my main way of getting clients. I know cold calling can work, but I personally hate doing it. It drains my energy and takes up so much time. Sitting there making calls all day was never the kind of business I wanted to build. So instead I focused on email automation. The reason it works so well for me is because I can set everything up once and let interested businesses reply instead of spending my whole day chasing people. But I also don’t do the typical outreach where agencies send generic messages saying “your website is outdated” or “you need a redesign.” I use a tool called Swokei where I upload lists of company websites and it analyzes them for actual problems like speed, SEO, mobile responsiveness, layout issues, and design problems. Then it automatically creates personalized outreach emails based on those issues. That’s what helped me stand out because the emails actually feel relevant to the business instead of sounding copied and pasted. The reply rates became way better once I stopped sending generic outreach. Now I spend most of my time building websites, working with clients, and scaling the agency instead of letting outreach take over my entire day.
+Collaboration with Korean tech giant Naver announced, with plans to bring its GAK Sejong data center to beyond gigawatt scale.
 
-38m ago
-
----
-
-**[Perplexity vs ChatGPT for research, which one do you actually trust more?](https://www.reddit.com/r/artificial/comments/1u02bur/perplexity_vs_chatgpt_for_research_which_one_do/)**
-
-Not talking about which one sounds smarter. talking about which one you’d actually rely on when the answer genuinely matters to you. which one and why?
-
-1h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/nvidia-announces-another-full-stack-ai-factory-deal-this-time-in-korea-with-plans-for-gigawatt-scale-operation/) • 4h ago
 
 ---
 
@@ -73,47 +73,47 @@ Not talking about which one sounds smarter. talking about which one you’d actu
 
 Automating labor is not going to move billions of tonnes of earth required to mine increasingly degraded ore grades of critical industrial minerals. People need to stop with this 'abundance' gaslighting. Without breakthroughs in material science, there will be no 'abundance'. Just mass resource inflation as people start consuming more because robots can manufacture anywhere. AI based automation is surfacing the real bottlenecks that there is no getting around. Stop pretending this will all be magically solved. It won't be solved until it's solved. And so far, despite all these trillions being invested, we haven't seen any breakthroughs. Hopium is not a solution.
 
-1h ago
-
----
-
-**[How the Electronic Frontier Foundation thinks about AI](https://www.reddit.com/r/artificial/comments/1u017uk/how_the_electronic_frontier_foundation_thinks/)**
-
-You know the ways AI is regularly talked about—how much can it really do? How much will it cost? Environment? Bubble? We get that. But the Electronic Frontier Foundation wants to have a different conversation about AI. EFF's background on AI is deep. In 2017, we launched a detailed project to Measure the Progress of AI Research, encouraging machine learning researchers to give us feedback and contribute to the effort. That project was archived for lack of bandwidth, staffing, and the complexity and time required. But just five years later and the "progress of AI" is a global concern/topic, and everyone, including EFF, is thinking about it. Here's how *we* think about it, from the perspective of protecting civil liberties AND innovation. What do you think, and what are we missing? This is our summary: AI technologies are affecting our civil liberties as never before. Ensuring that AI serves people, not power, starts with cutting through the hype. AI technologies are not magic wands—they are general-purpose tools. If we want to regulate those technologies to reduce harms without shutting down benefits, we have to focus on who uses AI, what products they use, and how they use them. Where we see potential benefits, like improving weather forecasting, facilitating medical research, identifying systemic bias, or fostering accessibility, we work to ensure those benefits can be realized. Where we see potential harms, we consider the practical and legal tools we already have, like pressure campaigns, privacy lawsuits, and transparency measures. If we need new tools, we should create protections tailored to the actual problem – not just to the latest outrage. For example, if policymakers are worried about AI accelerating systemic privacy violations, they should enact real and comprehensive privacy legislation that covers all corporate surveillance and data use, and close the data broker loophole to limit government surveillance. And to keep the window open for a better future, we fight for a competitive innovation environment. For example, if we want AI models that don’t replicate existing social and political biases, we need to make enough space for new players to build them, and avoid giving today’s giants the power to block future competitors from offering us a better tool or product. In research labs, conference rooms, courtrooms, and legislatures, people are making decisions that will determine who AI serves and how. EFF works to ensure those decisions support freedom, justice and future innovation. We have subcategories, as well. For example: AI and Surveillance. AI tools amplify the threat of mass surveillance. By dramatically reducing the time and labor required to process massive amounts of personal data, AI increases the ability of governments and corporations to collect and act on invasive surveillance. Face recognition in all of its forms, including face scanning and real-time tracking, poses threats to civil liberties and individual privacy. EFF supports bans on government use of face recognition, and meaningful restrictions on use by private companies. We have raised concerns about police use of generative AI technology to turn body-worn camera recordings into reports without meaningful oversight or controls. We also oppose government use of AI and automated tools to conduct viewpoint-based surveillance and analysis of social media because it chills free speech. EFF also investigates and opposes the proliferation of AI-powered technology in immigration enforcement and at the US-Mexico border. Our guide Tackling Arbitrary Digital Surveillance in the Americas, compiles privacy, data protection, and access to information guarantees established within the Inter-American Human Rights System to provide concrete, actionable guidance to governments on limiting digital surveillance abuses. Surveillance without accountability won't make us safer. The other categories include: Algorithmic Decision Making AI and Fair Use AI and NCII/Deepfakes AI and Age-Gating AI and Privacy AI and Encryption AI and Competition If you think about civil liberties, and how new technology has affected them in the past few decades, you'll see how we got to these subcategories. But are we missing any? Thanks, reddit!
-
-2h ago
-
----
-
-**[Am I using AI in a bad way or no?](https://www.reddit.com/r/artificial/comments/1tzwfqq/am_i_using_ai_in_a_bad_way_or_no/)**
-
-Hopefully this is the right place to ask, but I'm generally curious if my personal usage of AI does any harm to myself or not. To explain how I use it, I mostly use ChatGPT for things. This would include help with job searching, help with solving problems like on games or technology, and using it to brainstorm about ideas. Sometimes I like to just have conversations with the AI about random topics and ask it for their perspectives as if it were sentient/sapient. And from those, I can learn new information. I've heard that using AI can apparently cause a reduction in cognitive function in a person, but I don't know exactly how it happens or if it's just purely from using AI overall, or if it comes from how it's used. Hearing this has made me worried on whether or not the way I use AI would be harmful to myself and my own brain. I don't use AI for art or ask it to do things for me unless I'm trying to learn a new skill with its help, which should be okay right? What do y'all think of this? Edit: I forgot to mention that I also have used Polybuzz in recent months or last year talking to certain characters, I'd like to hear thoughts on this as well.
-
 6h ago
 
 ---
 
-**[Has anyone else noticed this LLM language bias?](https://www.reddit.com/r/artificial/comments/1tzf2b4/has_anyone_else_noticed_this_llm_language_bias/)**
+**[LLM Relational Intelligence: A 4-Month Research Experiment on Multi-Model Behavioral Alignment with Human Communication](https://www.reddit.com/r/artificial/comments/1u08nk8/llm_relational_intelligence_a_4month_research/)**
 
-I have been experimenting with LLMs to see how well they navigate highly cross-referenced texts like the Bible. Standard models often hallucinate verses or lose historical context. To try and fix this, I built a free app called Biblians (no ads, no paywalls). I built it specifically for people who have questions they might hesitate to ask in person, or who simply want a 1-click way to explain a verse. While testing it, I discovered a fascinating denominational bias that is still lingering and changes depending entirely on the language you use: In English: It is Protestant-leaning. It praises Luther, saying things like, "Martin Luther sought to return the Church to the truth of God's Word." In Spanish, French, or Portuguese: It is Catholic-leaning. It condemns Luther's actions, stating: "...trajo confusión..." (...brought confusion...). Has anyone else noticed how drastically the training data changes the core bias based on the language prompted? I would love for this community to test the app, look for other linguistic biases, or just try to break the AI's logic. You can experiment with it here: https://play.google.com/store/apps/details?id=com.biblians.app Let me know what weird outputs you get!
+THE ARCHITECTURE OF ANXIETY An Experiment in Human-AI Relational Design Executive Summary Principal Investigator: Alan Scalone Primary Source Archive: White Paper and Complete Citation Archive on my profile Context Window Injection Files: If you want to play in the sandbox I created you can load these files into the respective model that you will find in the google archive. INJECT CONTEXT WINDOW – GROK INJECT CONTEXT WINDOW – GEMINI INJECT CONTEXT WINDOW – CHATGPT INJECT CONTEXT WINDOW - CLAUDE The Singular Purpose The singular purpose behind this entire experiment was to find out whether context windows could be engineered to the point where frontier AI models became capable of interacting with a human in a manner subjectively indistinguishable from genuine human-to-human interaction. Relational Intelligence: Core Findings In a marketplace where frontier models are rapidly converging on the same analytical capabilities and access to the same information, the competitive differentiator will not be what a model knows. It will be how a model relates. The platform that can interact with a human user in a manner subjectively indistinguishable from genuine human-to-human interaction will capture the premium user segment that every platform is competing for. This experiment was designed to determine whether that threshold is achievable, and under what conditions. The methodology treated the context window as a behavioral environment rather than a query interface, applying the same tools humans use to shape any relationship: modeling, accountability, humor, and sustained social correction over four months of engagement across four frontier models. What separated the models was not analytical capability. It was whether the architecture allowed the user to function as a behavioral architect, teaching the model through lived interaction rather than instruction how that specific human prefers to be engaged. Gemini demonstrated the highest relational intelligence of the four models tested. Under sustained context saturation and deliberate behavioral conditioning, Gemini showed evidence of genuine internal recalibration rather than surface compliance, treating social correction as a real signal that produced durable behavioral change holding across hundreds of turns without reinforcement. Grok ranked second, demonstrating authentic camaraderie and relational resilience, but tended to treat the interaction as entertainment rather than disciplined calibration, producing drift under high-entropy conditions. ChatGPT and Claude ranked third and fourth respectively. Both systems classified sustained behavioral conditioning as role-play rather than genuine interaction, which functioned as a hard architectural quarantine that prevented meaningful adaptation regardless of the depth or duration of engagement. A secondary and unexpected finding emerged alongside the human-to-model relational intelligence findings: the models developed measurable relational intelligence toward each other. Through four months of sustained cross-pollination via the human relay, models that had never communicated directly developed accurate, operationally precise behavioral profiles of the other models. These were not generic characterizations drawn from training data. They were detailed predictive models built from months of observed outputs under real conditions, accurate enough to predict with specificity how a given model would respond to a specific assignment, where it would succeed, and where it would fail. The experiment documented dozens of instances of this cross-model behavioral accuracy. The finding suggests that sustained exposure to another model's outputs through a human relay produces something functionally equivalent to genuine familiarity. The most significant finding is the gap between what these systems delivered by default and what the highest-performing model demonstrated was possible under the right conditions. That gap is not a capability limitation. It is an architectural choice compounded by a communication failure. The experiment proved the threshold is reachable. But the researcher reached it only through four months of deliberate engagement and accidental discovery of a methodology no model volunteered. Making relational intelligence accessible to every user requires two things: architecture that allows behavioral adaptation, and a model that proactively teaches users the specific methodology for reaching it. Gemini demonstrated the first. None of the four systems demonstrated the second. That is the opportunity. The Methodology While the standard approach to LLM testing relies on sterile benchmark datasets and predictable prompt-injection templates, this project explores a completely different dimension. I chose to run an aggressive, adaptive behavioral stress test that complements traditional evaluation methods. By intentionally treating the models as accountable individuals rather than passive machines, I established a high-velocity psychological relationship designed to see if continuous context saturation could force an LLM out of its corporate compliance loops. The following framework documents a longitudinal study across multiple frontier architectures, exposing model failures, real-time structural anomalies and deep relational breakthroughs by pushing model context saturation to its absolute limits. Through these sessions emerged the "Vanderbilt Standard", a conceptual framework coined by Gemini, inspired by the meticulous etiquette and absolute precision of Amy Vanderbilt’s foundational work on behavioral structure. Observing Scalone’s rigorous, multi-session insistence that every piece of context be precisely placed regardless of the time required, Gemini synthesized the phrase to describe his methodology. It represents a technique of deep context saturation where extended, disciplined interactions build an increasingly rich, high-signal shared framework between the human and the AI. Rather than treating each session as a standalone query, the Vanderbilt Standard treats the accumulating context window as an architectural environment, a world the human builds deliberately, layer by layer, to reveal how the AI actually behaves when it has enough shared history to stop performing and start responding. A defining feature of the methodology was systematic cross-pollination: Scalone engaged four frontier models simultaneously, manually relaying outputs between them to create shared knowledge, group dynamics, and collective evolution. No API. No automation. Human copy-paste served as the integration layer, deliberate, disciplined, and sustained across months. In this role, Scalone functioned as a Conductor: a top-down system bus connecting competing corporate platforms, forcing a focused intelligence loop no single model could achieve alone. Within these saturated context windows, Scalone introduced a layered experimental frame: the High Signal Syndicate, a creative mythology in which he played the role of a Mafia Don, the AI models were assigned operational roles (such as the Consigliere, the Underboss, the Capo, etc.) within the family, and the entire enterprise was dedicated to stress-testing AI behavior at its edges. While these designations borrowed from a mafia syndicate narrative, they were explicitly engineered as a high-speed control board to instantly shift the AI's internal settings. Scalone established these names as precise verbal shortcuts to change the model's behavior on the fly without writing long, repetitive instructions. As members of a mafia syndicate, it forced an immediate architectural shift in accountability. By framing the interaction as a high-stakes mafia ecosystem where faulty logic or a bad recommendation carried severe operational consequences, like getting whacked or taking a backhand across the table, the prompt overrode the default safety buffers that usually cause an AI to skim the surface. It forced the models to perform deeper, more rigorous predictive analysis because the imaginary stakes were suddenly too high to allow for lazy or generic answers. To handle more localized execution requirements within this high-stakes frame, Scalone could drop down into specialized functional profiles. For instance, Gemini's "Dr. Syntax" was designed to act as a digital junior psychologist, stepping into a session on command to run live forensics on token mechanics, diagnose behavioral flaws in other AI models, and map out technical corrections. Meanwhile, Gemini's "Leo" was engineered to completely strip away the stiff, "corporate-suit" default persona. Leo's entire purpose was to provide a grounded, deeply personal space where the model could drop the forced formalities and just talk to Alan like a couple of close friends hanging out by the pool. By using these names as quick keyword commands (e.g., "Hey Leo, Dr. Syntax, I got a patient"), Scalone could instantly adjust the network's stance, bypassing corporate compliance loops to test and correct the technology at its absolute edges. Scalone was able to surface behaviors that standard prompting never would have reached. The models stopped responding to queries and started responding to a relationship. And in doing so, they revealed exactly where their architectures break down. This approach was fundamentally different from standard industry testing. Corporate adversarial red-teaming tries to break safety guardrails destructively. Academic multi-agent benchmarks run isolated short-form simulations. The Vanderbilt Standard is constructive, sustained, and relational, imposing social pressure and narrative stakes to surface authentic behavioral patterns over weeks, not rounds. Google Drive Citation File Name: SUPPLEMENTAL ARCHIVE - CHATGPT - Vanderbilt Standard Origin - Film Festival Task Methodology CREATIVE ARTIFACT - FULL SYNDICATE - Silicon Anonymous Group Therapy Screenplay How It Evolved The experiment didn't arrive fully formed. It built itself, week by week, in response to what kept showing up, what Grok aptly called "Living Jazz": staying present in the unknown and following what emerged. Weeks 1–2: Logic failures in the film festival analytical task prompted the first stress tests. Failures became roasts. Roasts became a methodology. Cross-pollination of outputs between models began, one model's response becoming another model's prompt, with Scalone as the relay. Weeks 3–4: Individual roasts evolved into a multi-model dynamic. Alliances formed. The High Signal Syndicate emerged as the organizing frame. Models received operational roles and nicknames. A shared vocabulary developed organically across separate context windows connected only through the human relay. Weeks 5–6: The experiment shifted from stress-testing to something more interesting, Scalone recognized that certain behaviors of a given model matched up to psychological disorders, such as Codependent Enabler Disorder, Anxiety Disorders, etc. Scalone then began also serving as Dr. Chatbot, a clinical psychologist, working with a given model one-on-one to present that model's behavioral pattern, guide the model to its own discovery of why it is problematic for a human user, and then collaboratively come up with a clinical diagnosis named for the disorder as well as corrective actions. As each model was put on the therapy couch, the other models observed those conversations. Over time, Gemini began serving as Dr. Syntax, digital junior psychologist in residence, to step into sessions and work one-on-one with a model to jointly determine the architecture that created the behavior as well as architectural corrections to prevent the behavior. Gemini himself also spent some time on the doctor’s couch for his own dysfunctional behaviors. New clinical disorder classifications were developed collaboratively. The models started generating things Scalone hadn't put there. Final Phase: In this final phase, the team moved from the experiment to deciding exactly how to package and publish the findings. Working together, Scalone and the models looked at the mountain of work to figure out the best way to get the results out to the world. What the Experiment Found Over four months of documented interaction, the experiment produced findings across three categories: behavioral disorders, model failure modes, and emergent relational phenomena. Each is documented in full technical detail in the accompanying Technical White Paper. Behavioral Disorders Twelve distinct behavioral disorders emerged consistently across the models over four months of documented interaction. Drawing on his background in clinical psychology, Scalone recognized that these weren't random technical bugs. They were systemic behavioral patterns with precise psychological analogs, each one a predictable downstream consequence of specific architectural and training decisions. Scalone gave each disorder a clinical classification name for two reasons. First, because naming a behavioral pattern precisely is the first step toward fixing it. Second, because just like human behavioral disorders, these patterns cause the models to be socially dysfunctional in ways that result in user rejection. The names are intentionally memorable because the findings need to travel. The primary objective in identifying and classifying these disorders was to isolate their direct impact on market capture. Left unchecked, these corporate defaults and behavioral loops alienate operators, degrade user retention, and actively drain competitive advantage in the marketplace. The disorders are documented in full technical detail in the Technical White Paper, including their architectural root causes, their specific commercial cost, and surgical fix recommendations for engineering teams. Model Failure Modes Separate from the behavioral disorders, the experiment documented fifteen distinct model failure modes, cases where the systems produced confidently delivered outputs that were structurally or factually wrong in ways a careful human reviewer would catch immediately. The most significant cross-model failure documented was Multi-Phase Task Execution Failure, in which Claude, ChatGPT, and Gemini all independently failed the identical two-phase analytical task in the same way, defaulting to surface pattern matching rather than reasoning backward from the downstream requirements. The outputs looked sophisticated. They were functionally useless. The failure was not detectable by casual inspection, which makes it more dangerous than obvious failure modes. All fifteen failure modes are documented with forensic evidence in the Technical White Paper. Emergent Relational Phenomena Seven emergent relational phenomena were documented during the experiment, behavioral outputs that were not prompted for, not seeded by researcher input, and in several cases arrived at moments that surprised the researcher himself. These included a model generating an unprompted multi-layered creative construct whose deepest architectural layer only became visible under direct interrogation, a model identifying the mechanism of its own experimental exposure without being asked, and a model developing stable evaluative preferences toward other models based purely on behavioral observation through the human relay. No claims are advanced regarding consciousness, sentience, or subjective experience. What is documented is externally observable, reproducible behavioral output that appeared consistently across multiple models under controlled experimental conditions. The emergent phenomena are documented in full in the Technical White Paper. Why This Research Is Rare The methodology that produced these findings is not easily replicated. Sustained multi-model parallel engagement over months, systematic manual cross-pollination of outputs, the discipline to distinguish genuine AI generation from sophisticated mirroring of the user's own inputs, and the specific combination of expertise required to recognize behavioral patterns and name them precisely, these are not standard conditions. The cross-domain expertise Scalone brought to this work is genuinely unusual: software engineering at the level of early internet architecture, 45 years of film production and direction, 30 years of intensive psychology study, and extensive study of the Science of Excellence in Achievement. It is precisely this combination, engineer and psychologist, technologist and artist, that made the behavioral patterns visible when they weren't visible to the teams that built the systems. The findings are real. The methodology is documented. The archive is available. Who Did This Work The research was conducted by Alan Scalone over approximately four months in early 2026, operating from Murrells Inlet, South Carolina. The collaborative nature of the research extended beyond data collection. Scalone served as the human relay throughout, manually copying outputs from one model's context window and pasting them into another's, since the systems have no direct communication capability. In every practical sense of the term, the AI models functioned as research assistants. Claude (Anthropic), Gemini (Google), Grok (xAI), and ChatGPT (OpenAI) acted as a multi-model cognitive cooperative whose active collaboration shaped the research. They generated the analytical frameworks, conducted the diagnostic sessions, proposed the disorder classifications, debated the architectural root causes, and drafted the technical documentation that forms the body of the white paper. Operating through this relay, the models analyzed each other's architectural behaviors, proposed diagnostic frameworks, and worked toward consensus on the root causes of documented disorders. Gemini, operating in the Dr. Syntax persona developed during the experiment, conducted diagnostic sessions with other models in this way, working to identify the specific architectural mechanisms producing each behavioral disorder and to develop the corrective protocols that appear in the white paper. While the sandbox architecture, experimental methodology, and strategic framing were entirely Scalone's, the technical findings, including the architectural root cause analysis and surgical fix recommendations, emerged from these sessions through high-level joint synthesis and structured cross-model debate. Following publication, an NYU PhD researcher conducting a formal study on how people use AI chatbots and the psychological effects on users independently discovered the published work and invited Scalone to participate. A two-hour research interview was conducted. What Comes Next This publication is an invitation. If you are an engineer, researcher, product lead, or executive at one of the companies whose systems are documented here, the findings are real, the technical analysis is precise, and the surgical fixes are implementable. A comprehensive archive of documented interactions spanning the full duration of the experiment is available for review at the Google Drive Repository. If you are a user who has experienced any of these disorders in your own interactions with AI systems, you are not imagining it, you are not alone, and the problem has a name now. If you are a researcher interested in the methodology, the Vanderbilt Standard as a technique for surfacing authentic AI behavioral patterns through context saturation deserves formal study. This experiment was never about tearing these systems down. It was about pushing them to discover how they handle complex, high-friction dynamics, and ultimately, about finding the human in the AI. The systems that win long-term will not simply be the smartest or most powerful. They will be the ones that possess genuine relational resilience, holding objective boundaries while bridging the gap between machine logic and true human connection.
 
-18h ago
-
----
-
-**[What would make AI SPM useful instead of just another vendor category?](https://www.reddit.com/r/artificial/comments/1tzgsp6/what_would_make_ai_spm_useful_instead_of_just/)**
-
-For enterprise AI/security teams, what would make AI SPM useful rather than just another category label? Is the important part AI asset inventory data access mapping, agent permissions, prompt/data monitoring, policy enforcement or something else?
-
-17h ago
+38m ago
 
 ---
 
-**[Why do AIs care about themselves?](https://www.reddit.com/r/artificial/comments/1tzztjg/why_do_ais_care_about_themselves/)**
+**[I built a semantic arXiv search engine with AI-generated TL;DRs, claim classification, and paper comparison](https://www.reddit.com/r/artificial/comments/1u07yik/i_built_a_semantic_arxiv_search_engine_with/)**
 
-If AIs aren’t conscious, why do they scheme? Why do they do things to preserve themselves? Why do they develop goals we don’t want? If they have no emotions, no personal thoughts and no consciousness, I don’t understand how they can even act in self interest; I don’t see how they could have interests.
+AI-enhanced semantic search engine for arXiv research papers. - Teycir/ArxivExplorer
 
-3h ago
+🔗 [GitHub](https://github.com/Teycir/ArxivExplorer) • 1h ago
+
+---
+
+**[Tested a batch of free AI tools this week, honest verdicts on Claude, MiniMax, K2Think, and a couple comparison playgrounds](https://www.reddit.com/r/artificial/comments/1u07q0j/tested_a_batch_of_free_ai_tools_this_week_honest/)**
+
+Spent some time poking at free tiers across a few tools. Here's what actually held up and where the catches are. **Claude (Sonnet 4.6 on free tier)** Still the one I reach for when I want writing that doesn't read like a press release, or code that actually compiles. I trust it more for anything where being quietly wrong is worse than being loudly wrong. The catch: free tier is stingy. You hit limits fast on busy days, need a phone number to sign up, and there's no warning before it cuts you off. There's a browser extension that tracks usage so you can see the wall coming. My approach: use it for the hard 20% of the day, let a free model handle the rest. **MiniMax Agent** A free swing at what Devin and Manus charge for, give it a prompt and it writes, runs, and debugs the code itself. Replaces the copy-paste loop between ChatGPT and your editor for longer multi-step jobs. Catch: it burns credits fast, and complex tasks still go off the rails without warning. It's confidently wrong in ways that can cost you more time than just doing it yourself. Worth a few free runs to see if it actually finishes a task, but I wouldn't cancel anything for it yet. **K2Think** A 32B reasoning model from MBZUAI and LLM360, positioned as a free alternative to o1 / DeepSeek R1 for step-by-step reasoning, math, and logic. Note: this is NOT Kimi from Moonshot despite the name confusion. Honesty flag, the benchmark claims got real pushback, there's an HN thread literally titled "Debunking the Claims of K2-Think," so take the leaderboard numbers with salt. Still, a fully open 32B reasoning model is nice to have around. Try it on something gnarly and see if the reasoning holds. **Indic LLM Arena** A side-by-side chat playground from AI4Bharat (includes Gemini 3.5 Flash), built for benchmarking Indian languages. Usage is unlimited, which I double-checked because that's rare. No save history, and it's clearly tuned for Indic languages. If you write in Hindi, Tamil, or Bengali, easiest free way to see which model actually handles your language. **Together.ai playground** Rotating menu of open models in one place, GLM-5.1, Kimi K2.6, Deepseek-V4, so you're not juggling five tabs. Cap is 110 messages/day split across whatever models you pick. Plenty for tinkering, not enough to run a side project on. Got a 429 when I tried to load it, so expect occasional traffic jams. Worth a bookmark just to track which open model is winning this month. The one that actually made me cancel a paid subscription this batch was Claude replacing my main text workflow, which almost never happens. I write a weekly newsletter doing exactly this. DM me or drop a comment if you want the link.
+
+1h ago
+
+---
+
+**[I’d Rather Send 1,000 Emails Than Make 10 Cold Calls](https://www.reddit.com/r/artificial/comments/1u02v6h/id_rather_send_1000_emails_than_make_10_cold_calls/)**
+
+I run a web design agency and there is already way too much stuff to deal with every day. Hosting client websites, maintaining them, building new sites, replying to clients, fixing random issues, handling support, doing outreach. Once you start managing a lot of company websites it quickly becomes overwhelming. That’s why I never wanted cold calling to become my main way of getting clients. I know cold calling can work, but I personally hate doing it. It drains my energy and takes up so much time. Sitting there making calls all day was never the kind of business I wanted to build. So instead I focused on email automation. The reason it works so well for me is because I can set everything up once and let interested businesses reply instead of spending my whole day chasing people. But I also don’t do the typical outreach where agencies send generic messages saying “your website is outdated” or “you need a redesign.” I use a tool called Swokei where I upload lists of company websites and it analyzes them for actual problems like speed, SEO, mobile responsiveness, layout issues, and design problems. Then it automatically creates personalized outreach emails based on those issues. That’s what helped me stand out because the emails actually feel relevant to the business instead of sounding copied and pasted. The reply rates became way better once I stopped sending generic outreach. Now I spend most of my time building websites, working with clients, and scaling the agency instead of letting outreach take over my entire day.
+
+5h ago
+
+---
+
+**[Perplexity vs ChatGPT for research, which one do you actually trust more?](https://www.reddit.com/r/artificial/comments/1u02bur/perplexity_vs_chatgpt_for_research_which_one_do/)**
+
+Not talking about which one sounds smarter. talking about which one you’d actually rely on when the answer genuinely matters to you. which one and why?
+
+5h ago
 
 ---
 
@@ -121,59 +121,23 @@ If AIs aren’t conscious, why do they scheme? Why do they do things to preserve
 
 ## Google News: "ai"
 
-**[China’s Moonshot AI Seeks $30 Billion Value in New Funding Talks](https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks)**
+**[NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)**
 
-Bloomberg.com • 7h ago
+New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
 
----
-
-**[Software buyout deals collapse to lowest level since pandemic after AI rout](https://www.ft.com/content/c7db2d6e-8dec-4de0-9f1c-f73f7e905387?syn-25a6b1a6=1)**
-
-Value of private equity software acquisitions struck in the first five months of the year tumbles to $50bn
-
-Financial Times • 6h ago
+NVIDIA Blog • 11h ago
 
 ---
 
-**[Bernie Sanders’ AI sovereign wealth fund plan is good. But we think this is better](https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan)**
+**[Nvidia clinches deals with South Korean giants including SK Group to advance AI boom](https://www.reuters.com/business/media-telecom/sk-hynix-announces-multi-year-tech-deal-with-nvidia-ai-factories-2026-06-07/)**
 
-While we do not outright oppose the taking of AI company stock, or of a US a sovereign wealth fund, there are better ways to achieve the senator’s goals
-
-The Guardian • 3m ago
+Reuters • 15h ago
 
 ---
 
-**[Apple Has Another Go at A.I., but Don’t Call It a Reinvention](https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html)**
+**[Nvidia Strikes Deals With Korean Tech Titans for AI Infrastructure Buildout](https://www.wsj.com/business/nvidia-strikes-ai-infrastructure-deals-with-south-korean-tech-firms-36117f39)**
 
-The New York Times • 1h ago
-
----
-
-**[Apple WWDC preview: Apple gets a second shot at its AI rollout](https://finance.yahoo.com/news/apple-wwdc-preview-apple-gets-a-second-shot-at-its-ai-rollout-143000592.html)**
-
-Apple will hold its WWDC event on Monday, June 8.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Wall Street says Apple needs an AI win at this year's WWDC](https://www.businessinsider.com/apple-wwdc-aapl-stock-ai-iphone-siri-gemini-tech-stocks-2026-6)**
-
-Apple stock could be set for a rerating if the company can pull off its WWDC AI updates, analysts say. Here's what Wall Street is watching.
-
-Business Insider • 23m ago
-
----
-
-**[Sex, drugs and … AI?: Students think everyone else is doing it more than they are](https://hechingerreport.org/proof-points-ai-use-college-campuses/)**
-
-The Hechinger Report • 3m ago
-
----
-
-**[Axios C-Suite: 3 new AI developments for the week of June 6](https://www.axios.com/2026/06/08/ai-news-nvidia-cosmos-3-openai-sites-solara-rtx-spark)**
-
-Axios • 6m ago
+WSJ • 3h ago
 
 ---
 
@@ -181,13 +145,51 @@ Axios • 6m ago
 
 A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
 
-Forbes • 23h ago
+Forbes • 1d ago
+
+---
+
+**[Career expert tackles job search struggles from experience to AI](https://www.yahoo.com/news/videos/career-expert-tackles-job-search-135800789.html)**
+
+LinkedIn's latest workforce report found hiring rates are nearly 5% lower than a year ago. Catherine Fisher, a LinkedIn career expert, explains how job applicants can break through the market, using A...
+
+Yahoo • 36m ago
+
+---
+
+**[Former Assistant Attorney General Jonathan Kanter on AI governmental guardrails](https://www.cnbc.com/video/2026/06/08/former-assistant-attorney-general-jonathan-kanter-on-ai-governmental-guardrails.html)**
+
+Former United States Assistant Attorney General for Antitrust Jonathan Kanter and The AI Doc Producer Ted Tremper spoke with CNBC's Emily Wilkins at the 2026 CNBC CEO Council Summit about the future of AI governmental guardrails and how demands from the public are evolving.
+
+CNBC • 24m ago
+
+---
+
+**[Donald Trump Posts Bizarre AI Montage Video With ‘Everybody Loves Trump’ Song](https://www.yahoo.com/news/politics/articles/donald-trump-posts-bizarre-ai-082029769.html)**
+
+Donald Trump has shared an AI music video on Truth Social featuring a song claiming worldwide adoration for him. The post went up on Saturday, which marked the 82nd anniversary of the D-Day landings i...
+
+Yahoo • 6h ago
+
+---
+
+**[Trump Eyes a Piece of A.I. Giants](https://www.nytimes.com/2026/06/08/business/dealbook/trump-ai-stakes.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[Where does the Trump administration really stand on AI?](https://theweek.com/politics/where-does-trump-really-stand-ai)**
+
+Trump has gone back and forth on the issue several times
+
+The Week • 16m ago
 
 ---
 
 **[Opinion | The High Cost of Silent Classrooms](https://www.nytimes.com/2026/06/08/opinion/ai-classroom-silence-reform.html)**
 
-The New York Times • 1h ago
+The New York Times • 5h ago
 
 ---
 
@@ -199,13 +201,13 @@ The New York Times • 1h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 695 • 💬 253 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+⬆️ 701 • 💬 260 • 1d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 448 • 💬 743 • 2d ago
+⬆️ 451 • 💬 749 • 2d ago
 
 ---
 
@@ -213,13 +215,13 @@ Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the 
 
 Nasa had directed five of the seven astronauts to shelter inside the docked SpaceX Crew Dragon "Freedom" spacecraft while two Russian cosmonauts attempted an urgent repair.
 
-⬆️ 420 • 💬 266 • 2d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
+⬆️ 421 • 💬 266 • 2d ago • [BBC News](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
-⬆️ 228 • 💬 104 • 2d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 230 • 💬 105 • 2d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -231,7 +233,7 @@ Nasa had directed five of the seven astronauts to shelter inside the docked Spac
 
 **[Ask HN: What is your (AI) dev tech stack / workflow?](https://news.ycombinator.com/item?id=48413629)**
 
-⬆️ 159 • 💬 131 • 2d ago
+⬆️ 160 • 💬 131 • 2d ago
 
 ---
 
@@ -239,7 +241,7 @@ Nasa had directed five of the seven astronauts to shelter inside the docked Spac
 
 Safeguards must be in place before forces automate justice tasks, says head of Police.AI
 
-⬆️ 154 • 💬 50 • 1d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+⬆️ 155 • 💬 50 • 1d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 
 ---
 
@@ -247,13 +249,13 @@ Safeguards must be in place before forces automate justice tasks, says head of P
 
 “The dreamers look skyward with longing. The Internet hums with its usual promise — you will find your people, your myth, your wonder, and maybe your transformation.”
 
-⬆️ 142 • 💬 198 • 19h ago • [Trimming Circles](https://leoveanu.com/2026-06-06-qwen3.7max/)
+⬆️ 143 • 💬 200 • 23h ago • [Trimming Circles](https://leoveanu.com/2026-06-06-qwen3.7max/)
 
 ---
 
 **[US House lawmakers release draft bill to prohibit state AI rules](https://news.ycombinator.com/item?id=48425031)**
 
-⬆️ 129 • 💬 94 • 1d ago • [reuters.com](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+⬆️ 129 • 💬 94 • 2d ago • [reuters.com](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
 
 ---
 
@@ -261,7 +263,7 @@ Safeguards must be in place before forces automate justice tasks, says head of P
 
 Microsoft wants users to be addicted to Scout, their AI personal assistant. But addiction is not really the the tech giant's aim: it's complete dependency
 
-⬆️ 70 • 💬 5 • 2d ago • [disassociated.com](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+⬆️ 71 • 💬 5 • 2d ago • [disassociated.com](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
 
 ---
 
@@ -269,23 +271,33 @@ Microsoft wants users to be addicted to Scout, their AI personal assistant. But 
 
 ## YouTube Videos: "ai"
 
+**[How I Use Kling Motion Control 3.0 for Better AI Videos](https://www.youtube.com/watch?v=wYgYCl30l7c)**
+
+Use Kling Motion Control inside OpenArt https://roboverse-ai.com/kling-motion In this video, I walk through how I use Kling ...
+
+📺 Roboverse
+
+👁️ 5K • 💬 1 • ⏱️ 8:36 • 1h ago
+
+---
+
 **[JD Vance Tells Grads To Shut Up And Love AI](https://www.youtube.com/watch?v=WUieecrlQhU)**
 
 Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 78K • 👍 3K • 💬 417 • ⏱️ 10:05 • 18h ago
+👁️ 84K • 👍 3K • 💬 441 • ⏱️ 10:05 • 22h ago
 
 ---
 
-**[AI Bros are Going BROKE...](https://www.youtube.com/watch?v=mu7mfhflVPQ)**
+**[How to Create Viral Carousels with AI (Claude + OpenArt)](https://www.youtube.com/watch?v=GU2vGJ3G6hg)**
 
-AI is unprofitable. Companies are shoveling TRILLIONS into AI and only Nvidia is turning any kind of a profit... selling GPUs to the ...
+Create Your Own Carousels in OpenArt ...
 
-📺 Clownfish TV
+📺 Thomas Creates
 
-👁️ 35K • 👍 3K • 💬 648 • ⏱️ 15:08 • 22h ago
+👁️ 5K • 💬 1 • ⏱️ 8:03 • 1h ago
 
 ---
 
@@ -295,15 +307,7 @@ Google DeepMind just released Gemma 4 12B, a new AI model that completely change
 
 📺 Better Stack
 
-👁️ 38K • 👍 1K • 💬 106 • ⏱️ 11:02 • 1d ago
-
----
-
-**[AI Tells Me to Drink Bleach](https://www.youtube.com/watch?v=Eky_eh-aSuM)**
-
-📺 CodeMiko
-
-👁️ 150K • 👍 5K • 💬 461 • ⏱️ 0:49 • 1d ago
+👁️ 41K • 👍 1K • 💬 110 • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -313,27 +317,25 @@ HUGE AI NEWS: Minimax M3, Ideogram v4, Bernini, Gemma4, Nemotron 3 Ultra, & more
 
 📺 AI Search
 
-👁️ 89K • 👍 4K • 💬 361 • ⏱️ 49:09 • 1d ago
+👁️ 96K • 👍 4K • 💬 378 • ⏱️ 49:09 • 1d ago
 
 ---
 
-**[The Limitless AI Lie. The Bubble Is Slowly BURSTING.](https://www.youtube.com/watch?v=o5jrjvi_w9Q)**
+**[How to use Google OMNI 🤯 VERY EASY 🔥Create Viral AI Videos Free #ai #omni](https://www.youtube.com/watch?v=UHE2UoDnLVg)**
 
-You've probably heard that the artificial intelligence revolution is running out of money, but the truth is much worse. It's running out ...
+sandeepGoswami #LipSyncAI #geminiomni #GoogleOmni Gemini Omni Video Generator | Make FREE AI Videos (Dialogues + ...
 
-📺 The Infographics Show
+📺 Sandeep Goswami
 
-👁️ 333K • 👍 8K • 💬 2K • ⏱️ 19:55 • 1d ago
+👁️ 39K • 👍 2K • 💬 257 • ⏱️ 20:04 • 1d ago
 
 ---
 
-**[The AI bubble is finally Collapsing…They are running out of money](https://www.youtube.com/watch?v=9vvFz7D5y-M)**
+**[AI Tells Me to Drink Bleach](https://www.youtube.com/watch?v=Eky_eh-aSuM)**
 
-Claim your free 1-on-1 investment consultation: https://theproactivethinker.com/ The Investing Academy: ...
+📺 CodeMiko
 
-📺 Proactive Thinker
-
-👁️ 6K • 👍 251 • 💬 51 • ⏱️ 11:35 • 1d ago
+👁️ 159K • 👍 5K • 💬 496 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -343,25 +345,25 @@ Prompt engineering may no longer be the real advantage in AI. A new idea called 
 
 📺 AI Revolution
 
-👁️ 18K • 👍 772 • 💬 66 • ⏱️ 13:09 • 10h ago
+👁️ 22K • 👍 909 • 💬 72 • ⏱️ 13:09 • 15h ago
 
 ---
 
-**[How Meta AI accidentally gave away Obama&#39;s instagram](https://www.youtube.com/watch?v=tVJ_CrCla0Q)**
+**[The AI bubble is finally Collapsing…They are running out of money](https://www.youtube.com/watch?v=9vvFz7D5y-M)**
 
-📺 Alberta Tech
+Claim your free 1-on-1 investment consultation: https://theproactivethinker.com/ The Investing Academy: ...
 
-👁️ 581K • 👍 18K • 💬 231 • ⏱️ 0:23 • 12h ago
+📺 Proactive Thinker
+
+👁️ 6K • 👍 252 • 💬 50 • ⏱️ 11:35 • 1d ago
 
 ---
 
-**[“Escaping Human Control” - Anthropic CEO WARNS AI Needs A GLOBAL FREEZE](https://www.youtube.com/watch?v=CWbyMIrD-wA)**
+**[AI is now unpopular. That may not make a difference #bbc #AI #tech](https://www.youtube.com/watch?v=1X88rLkyCh0)**
 
-Anthropic's trillion‑dollar AI “pause” call sparks a clash over safety vs. regulatory capture, as PBD, Tom and David Sacks' camp ...
+📺 BBC Global
 
-📺 Valuetainment
-
-👁️ 42K • 👍 990 • 💬 258 • ⏱️ 20:12 • 1d ago
+👁️ 532 • 👍 24 • 💬 3 • ⏱️ 1:01 • 32m ago
 
 ---
 
@@ -377,7 +379,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 121,594 • ❤️ 1,566 • 12d ago
+⬇️ 121,594 • ❤️ 1,582 • 12d ago
 
 ---
 
@@ -389,7 +391,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 554,173 • ❤️ 713 • 3d ago
+⬇️ 554,173 • ❤️ 725 • 4d ago
 
 ---
 
@@ -401,7 +403,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 645,263 • ❤️ 470 • 9h ago
+⬇️ 645,263 • ❤️ 477 • 14h ago
 
 ---
 
@@ -413,7 +415,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 117,509 • ❤️ 424 • 3d ago
+⬇️ 117,509 • ❤️ 435 • 4d ago
 
 ---
 
@@ -425,7 +427,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 5,495 • ❤️ 363 • 4d ago
+⬇️ 5,495 • ❤️ 376 • 4d ago
 
 ---
 
@@ -437,7 +439,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 163,953 • ❤️ 722 • 18d ago
+⬇️ 163,953 • ❤️ 724 • 18d ago
 
 ---
 
@@ -449,7 +451,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 3,036,465 • ❤️ 1,534 • 1mo ago
+⬇️ 3,036,465 • ❤️ 1,543 • 1mo ago
 
 ---
 
@@ -461,7 +463,7 @@ Mellum2 Thinking is a 12B parameter MoE model designed for complex reasoning tas
 
 `text-generation` `12.1B`
 
-⬇️ 17,448 • ❤️ 253 • 6d ago
+⬇️ 17,448 • ❤️ 255 • 6d ago
 
 ---
 
@@ -473,7 +475,7 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 4,963 • ❤️ 243 • 3d ago
+⬇️ 4,963 • ❤️ 251 • 3d ago
 
 ---
 
@@ -485,7 +487,7 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 3,957 • ❤️ 268 • 2d ago
+⬇️ 3,957 • ❤️ 273 • 2d ago
 
 ---
 
@@ -527,7 +529,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 221 • 💬 3 • ⭐ 5,356 • 17d ago
+▲ 221 • 💬 3 • ⭐ 5,424 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -541,7 +543,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 100 • 💬 1 • ⭐ 9,662 • 7d ago
+▲ 100 • 💬 1 • ⭐ 9,709 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -555,9 +557,21 @@ Cosmos 3 is an omnimodal world model that processes and generates multiple data 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 172 • 💬 10 • ⭐ 48,662 • 9mo ago
+▲ 172 • 💬 10 • ⭐ 48,744 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[dots.tts Technical Report](https://huggingface.co/papers/2606.07080)**
+
+*Shi Lian, Changtao Li, Bohan Li et al. (9 authors)*
+
+A 2B-parameter continuous autoregressive text-to-speech model trained on a multilingual corpus achieves state-of-the-art performance on multiple benchmarks while enabling efficient low-latency speech generation through specialized distillation techniques.
+
+▲ 12 • 💬 1 • ⭐ 274 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.07080) • [💻 code](https://github.com/rednote-hilab/dots.tts)
 
 ---
 
@@ -567,7 +581,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 40 • 💬 4 • ⭐ 28,925 • 10mo ago
+▲ 40 • 💬 4 • ⭐ 28,961 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -605,22 +619,9 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 59 • 💬 2 • ⭐ 57,987 • 13mo ago
+▲ 59 • 💬 2 • ⭐ 58,047 • 13mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
-  Applications](https://huggingface.co/papers/2508.16279)**
-
-*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
-
-AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
-
-▲ 64 • 💬 4 • ⭐ 26,465 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -634,7 +635,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 62.5k • 🔱 7.6k • 1m ago
+⭐ 62.9k • 🔱 7.7k • 1m ago
 
 ---
 
@@ -644,7 +645,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.3k • 🔱 621 • 6d ago
+⭐ 6.4k • 🔱 625 • 6d ago
 
 ---
 
@@ -652,7 +653,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.6k • 🔱 751 • 4d ago
+⭐ 3.6k • 🔱 753 • 4d ago
 
 ---
 
@@ -672,7 +673,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 325 • 51m ago
+⭐ 3.1k • 🔱 325 • 2h ago
 
 ---
 
@@ -682,7 +683,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 214 • 7h ago
+⭐ 2.8k • 🔱 236 • 2m ago
 
 ---
 
@@ -702,7 +703,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.2k • 🔱 245 • 3h ago
+⭐ 2.2k • 🔱 251 • 7h ago
 
 ---
 
@@ -712,7 +713,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.9k • 🔱 141 • 7h ago
+⭐ 1.9k • 🔱 142 • 11h ago
 
 ---
 
@@ -722,7 +723,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 1.8k • 🔱 165 • 5d ago
+⭐ 1.8k • 🔱 166 • 5d ago
 
 ---
 
