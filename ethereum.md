@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-08T20:19:00.023285+00:00'
+updated: '2026-06-08T22:10:11.778709+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 08, 2026 at 20:19 UTC  
+**Last Updated:** June 08, 2026 at 22:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,686.54
+### $1,709.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** -9.7%  
-**30d:** -29.1%  
-**90d:** -18.1%  
-**1y:** -37.3%  
+**24h:** +0.4%  
+**7d:** -8.8%  
+**30d:** -28.4%  
+**90d:** -17.3%  
+**1y:** -36.7%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[How to extract yield from defi via the "flywheel effect"](https://www.reddit.com/r/ethereum/comments/1u0i9bg/how_to_extract_yield_from_defi_via_the_flywheel/)**
-
-Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
-
-45m ago
+17h ago
 
 ---
 
@@ -88,7 +80,15 @@ Create a reward token that doubles in supply yearly. Promise a 51% yield to prov
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-56m ago
+2h ago
+
+---
+
+**[How to extract yield from defi via the "flywheel effect"](https://www.reddit.com/r/ethereum/comments/1u0i9bg/how_to_extract_yield_from_defi_via_the_flywheel/)**
+
+Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
+
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them to do well. Perpification of all assets is going way faster that most realized, while tokenization of rwa’s have taken much longer due to the complexity of regulations, cross chain considerations, liquidity concerns, split order books etc. Perps have become the top choice for people to gamble on commodities like gold, silver, oil, and of course stocks and even pre IPO stocks. Volatility is a tailwind for perp dex revenue, and I expect further volatility this summer and rest of the year. Notice I didn’t even mention crypto perps. Even when crypto has low liquidity and mindshare, perp dex’s will still do well as people trade all assets. Lighter is currently much smaller than HYPE. About 2% of both MC and FDV. $LIT alpha: US based: Vlad, the founder of Lighter, has strong connections to both Silicon Valley, DC heavyweights, and NYC tradfi institutions. He has strong connections to Robinhood, and was an early advisor and HS friend to the other Vlad, ceo of RH. RH was an early investor to Lighter, and I expect some collaboration with them in the future, as Vlad mentioned in a few interviews. I expected some integration of the options market form RH may be able to flow through Lighter on chain, or lighter can help RH with the perps in Us market. Vlad is also friends with Mike Selig of the CFTC, and also with David Sacks. Sacks was an early investor in Lighter before divesting and working for the Trump admin. I expect lighter to receive CFTC approval for us perps market and perhaps tokenization way before hyperliquid Ken Griffin, ceo of citadel, personally hired Vlad when he was 19. Citadel looks to be the perfect partner to provide liquidity to lighter. Citadel would make money on spreads. They also would need to buy $LIT token to be included in the liquidity pool as that’s how the tokenomics are set up 3) token buybacks. Lighter is using 100% of the revenue to buy back the $LIT token, and their buybacks is about 150% higher than $HYPE as % of market cap 4) Vlad also has strong relationships with EF and Vitalik, BMNR and tom Lee. Excited to see where these partnerships go. And I wouldn’t be surprised if these orgs invest in lighter as ethereum community is in their lowest sentiment. They need a killer app.
 
-22h ago
+1d ago
 
 ---
 
@@ -166,35 +166,11 @@ Benzinga • 3d ago
 
 ---
 
-**[Ethereum is at Its Cheapest Valuation in 7 Years: Here’s What Happened Last Time](https://finance.yahoo.com/markets/crypto/articles/ethereum-cheapest-valuation-7-years-190110408.html)**
+**[Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit](https://finance.yahoo.com/markets/crypto/articles/bored-ape-maker-yuga-labs-205445197.html)**
 
-Ethereum's MVRV Z-Score fell to its lowest since 2018, a zone that has historically rewarded patient ETH accumulators.
+The Bored Ape Yacht Club creator now holds more than 60 rescued NFTs in its custody as it works to return them to their rightful owners.
 
 Yahoo Finance • 1h ago
-
----
-
-**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
-
-The largest ethereum treasury firm acquired 126,971 tokens last week....
-
-Sherwood News • 4h ago
-
----
-
-**[Tom Lee is sitting on nearly $9B in losses as ethereum slides lower](https://finance.yahoo.com/video/tom-lee-sitting-nearly-9b-180000024.html)**
-
-Scott Melker discusses how Bitmine chairman Tom Lee is reportedly sitting on $9 billion in unrealized ethereum (ETH-USD) losses as the crypto asset has slid below $1,600. Lee currently owns 4.4% of all ethereum tokens. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.54 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-54-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302793756.html)**
-
-Bitmine owns 4.59% of the total ETH coin supply of 120.7 million Bitmine is 92% of the way to the 'Alchemy of 5%' in just 11 months Ethereum continues to...
-
-PR Newswire • 7h ago
 
 ---
 
@@ -202,7 +178,23 @@ PR Newswire • 7h ago
 
 Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
 
-The Block • 7h ago
+The Block • 9h ago
+
+---
+
+**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
+
+The largest ethereum treasury firm acquired 126,971 tokens last week....
+
+Sherwood News • 6h ago
+
+---
+
+**[UNDP Brings Ethereum, Cardano, and Stellar Together to Explore Blockchain for Public Good](https://coinpedia.org/news/undp-brings-ethereum-cardano-and-stellar-together-to-explore-blockchain-for-public-good/)**
+
+The United Nations Development Programme (UNDP) has launched a new Blockchain Advisory Group that brings together 26 organizations, including the Ethereum
+
+Coinpedia • 10h ago
 
 ---
 
@@ -210,15 +202,15 @@ The Block • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
 
 ---
 
-**[Ethereum Price Mounts An Impressive Recovery As Market Mood Shifts](https://www.tradingview.com/news/newsbtc:ba36d9ef0094b:0-ethereum-price-mounts-an-impressive-recovery-as-market-mood-shifts/)**
+**[Who Founded Ethereum? The Story of Vitalik Buterin And The Co-Founders](https://www.ledger.com/academy/topics/blockchain/ethereum-founder)**
 
-Ethereum price started a recovery wave above the $1,600 zone. ETH is now consolidating and might rally if there is a clear move above the $1,750 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $1,500 support zone, like Bitcoin. ETH price formed a base and starte…
+Discover who founded Ethereum. Learn about Vitalik Buterin, all 8 original co-founders, their vision, and how to secure your ETH today.
 
-TradingView • 18h ago
+Ledger • 11h ago
 
 ---
 
@@ -226,7 +218,15 @@ TradingView • 18h ago
 
 Russia's central bank limits retail investors to Bitcoin, Ethereum, and USDT starting July 2026, with a $4,000 annual cap and mandatory risk testing.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 11h ago
+
+---
+
+**[Ethereum Price Mounts An Impressive Recovery As Market Mood Shifts](https://www.tradingview.com/news/newsbtc:ba36d9ef0094b:0-ethereum-price-mounts-an-impressive-recovery-as-market-mood-shifts/)**
+
+Ethereum price started a recovery wave above the $1,600 zone. ETH is now consolidating and might rally if there is a clear move above the $1,750 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $1,500 support zone, like Bitcoin. ETH price formed a base and starte…
+
+TradingView • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 554 • 👍 55 • 💬 57 • ⏱️ 5:46 • 2h ago
+👁️ 554 • 👍 55 • 💬 57 • ⏱️ 5:46 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ Here are the latest news affecting bitcoin, ethereum and all markets globally. I
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 328 • 💬 45 • ⏱️ 8:10 • 9h ago
+👁️ 8K • 👍 328 • 💬 45 • ⏱️ 8:10 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 275 • 👍 11 • 💬 1 • ⏱️ 4:44 • 10h ago
+👁️ 275 • 👍 11 • 💬 1 • ⏱️ 4:44 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN PRICE SQUEEZE CONFIRMED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 11K • 👍 474 • 💬 101 • ⏱️ 18:51 • 19h ago
+👁️ 11K • 👍 474 • 💬 101 • ⏱️ 18:51 • 21h ago
 
 ---
 
@@ -310,7 +310,7 @@ XRP just hit $400 million in tokenized real-world assets twice as fast as Ethere
 
 📺 Cheeky Crypto
 
-👁️ 12K • 👍 771 • 💬 48 • ⏱️ 23:26 • 12h ago
+👁️ 12K • 👍 771 • 💬 48 • ⏱️ 23:26 • 14h ago
 
 ---
 

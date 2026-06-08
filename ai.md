@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-08T20:19:00.008142+00:00'
+updated: '2026-06-08T22:10:11.763974+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 08, 2026 at 20:19 UTC  
+**Last Updated:** June 08, 2026 at 22:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.
 
-🔗 [404 Media](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) • 4h ago
+🔗 [404 Media](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) • 6h ago
 
 ---
 
 **[OG Will understand 🙄](https://www.reddit.com/r/artificial/comments/1u0a7v0/og_will_understand/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ The change comes as arXiv and others struggle to manage an influx of AI-generate
 
 I keep seeing more companies giving AI agents access to real stuff like email, databases, internal tools, customer data, etc. And what’s weird is how normal it’s starting to feel now. Like not long ago everyone was worried about chatbots just giving wrong answers. Now we’re basically like yeah sure go ahead and do things for us. I don’t know that jump feels kind of big when you actually think about it. Maybe it all works out fine. Or maybe we’re just moving fast without fully realizing what we’re doing. I’m honestly surprised there hasn’t already been some big headline like an AI agent doing something really wrong. It feels like we’re kind of close to one of those moments where everything suddenly changes overnight. Anyone else feel like we’re closer to something like that than people are admitting?
 
-15h ago
+17h ago
 
 ---
 
@@ -63,7 +63,7 @@ I keep seeing more companies giving AI agents access to real stuff like email, d
 
 One thing I didn’t expect while trying to improve my workflow: The actual tasks aren’t what takes most of the time. It’s all the context switching around them. Things like: - jumping between tools just to complete one small step - copying data from one place to another - stopping what you’re doing to handle something repetitive - switching back and figuring out where you left off Individually it’s nothing. But over a day it adds up to constant interruptions. And it’s weirdly more draining than the work itself. I started paying attention to that instead of just the tasks, and reducing those switches made a bigger difference than trying to “optimize” the work itself. Curious if others notice the same thing or if it’s just me
 
-7h ago
+9h ago
 
 ---
 
@@ -71,45 +71,43 @@ One thing I didn’t expect while trying to improve my workflow: The actual task
 
 PM at a mid-size startup here. Didn’t really notice how bad it got until this week. My workflow now: Claude for ideation ChatGPT for rewriting specs Cursor for implementation Perplexity for research Notion AI for docs Atoms AI for larger tasks None of these tools actually replaced my work. They just redistributed it. I’m still the one dragging context between all of them. Yesterday I literally caught myself pasting the exact same requirement into 4 different tools and thinking… this can’t be how it’s supposed to work. I don’t even think any single tool is bad. It just feels like we hired 6 smart interns and completely forgot to get a manager.
 
-12h ago
+14h ago
 
 ---
 
-**[The AI productivity paradox that needs to be addressed rn](https://www.reddit.com/r/artificial/comments/1u0f28f/the_ai_productivity_paradox_that_needs_to_be/)**
+**[AI coding agents are getting better at writing code, but I'm not convinced they're getting better at understanding codebases](https://www.reddit.com/r/artificial/comments/1u0m4pi/ai_coding_agents_are_getting_better_at_writing/)**
 
-The conversation around AI coding is still stuck on velocity and its completely missing the real operational bottleneck -> DEBUGGING I use a combination of tools like GitHub Copilot, Cursor, and generic agentic code gen tools(whichever give me the most credits that week) , dropping a 300-line functional block from a natural language prompt takes about a minute. On paper, developer velocity should have been increased by 69 times. but i feel like the bottleneck hasn't disappeared; it just shifted down the pipeline. Like i traded manual work for incredibly frustrating debugging. LLM code looks fine on surface but like when u go through line to line, you feel like its built on sand i mean sure if it works it works but like one thing i struggle with is ghost features, like if i accidentally suggest a feature then the LLM is gonna shove it in my code, even if i say no later on. (if someone knows how to fix do dm) idk about ya'll but i'd much rather have a ai llm that takes like 1 hour to write 500 lines of code if that means i have to debug less. another thing how are you handling validation boundaries? are u using runtime timeout scripts or smth open source like gitagent? also this is gonna sound weird but i kinda have trust issues when a llm spits like 300-400 lines in under a minute (idk why) sorry for my bad english, im not a native speaker
+I've been using Claude Code, Cursor and a few other coding agents quite a bit recently. One thing that keeps standing out is that generating code isn't really the bottleneck anymore. Understanding the codebase is. Agents can usually find the relevant file. The problems start when the change depends on: historical decisions undocumented relationships ownership boundaries files that always change together Bigger context windows help, but I'm not sure they solve this problem completely. Curious what people building or using coding agents think. Is the next step bigger models and more context? Or do agents need a better representation of the codebase itself before they can reliably work on larger projects? Been exploring this problem while building RepoWise: https://github.com/repowise-dev/repowise
 
-2h ago
+🔗 [GitHub](https://github.com/repowise-dev/repowise) • 13m ago
+
+---
+
+**[How do you handle a simple question popping up mid-chat? Switch models or just push through?](https://www.reddit.com/r/artificial/comments/1u0lp27/how_do_you_handle_a_simple_question_popping_up/)**
+
+Claude is my main tool. I delegate all the difficult tasks to him. What gets me is the small stuff. I'll be halfway through a heavy conversation and some throwaway question comes up, the kind literally any model could handle. So now I'm stuck: ask the capable model and feel a bit wasteful, or open another tab with a lighter one and lose the whole thread I was building. I do the second more than I'd like to admit. What I actually want is one place to pick whatever model makes sense for the moment, Haiku for quick stuff, Sonnet or Opus for the hard things, maybe GPT-4o or Gemini if I feel like it, all in the same chat. No new conversations, no tab-hopping. Bonus points if it just routes automatically based on the question. Half-tempted to build it myself at this point. But figured I'd ask first: does something like this already exist and I just missed it? How do you deal with it? Stick with one model and push through, bounce between tabs like me, or did you find something that actually works?
+
+30m ago
+
+---
+
+**[Jack and Sharon Osbourne defend plan for AI Ozzy Osbourne](https://www.reddit.com/r/artificial/comments/1u0jqbq/jack_and_sharon_osbourne_defend_plan_for_ai_ozzy/)**
+
+🔗 [seattletimes.com](http://seattletimes.com/entertainment/jack-and-sharon-osbourne-defend-plan-for-ai-ozzy-osbourne?utm_medium=social&utm_campaign=owned_reddit&utm_source=reddit) • 1h ago
 
 ---
 
 **[Carney government testing use of AI in prisons to create profile reports of offenders](https://www.reddit.com/r/artificial/comments/1u0dt1h/carney_government_testing_use_of_ai_in_prisons_to/)**
 
-🔗 [Toronto Star](https://www.thestar.com/gift-redeem?t=0ed6b1ae-ad3c-4a5c-a1e7-be5b950456e9) • 3h ago
+🔗 [Toronto Star](https://www.thestar.com/gift-redeem?t=0ed6b1ae-ad3c-4a5c-a1e7-be5b950456e9) • 5h ago
 
 ---
 
-**[Nvidia announces another full-stack AI factory deal, this time in Korea with plans for gigawatt-scale operation](https://www.reddit.com/r/artificial/comments/1u03kby/nvidia_announces_another_fullstack_ai_factory/)**
+**[OpenAI says it has confidentially filed for an IPO](https://www.reddit.com/r/artificial/comments/1u0m9ct/openai_says_it_has_confidentially_filed_for_an_ipo/)**
 
-Collaboration with Korean tech giant Naver announced, with plans to bring its GAK Sejong data center to beyond gigawatt scale.
+Artificial intelligence giant OpenAI says it has filed confidential paperwork for an initial public offering. In a brief statement, OpenAI says it has submitted its S-1 filing, but has "not decided" yet on the timing of an IPO, adding: "It may be a while because there are things we want to do that are likely easier as a private company." The announcement comes days after the company's chief rival, Anthropic, filed its own S-1, and the on the eve of major AI player SpaceX's potentially historic public debut.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/nvidia-announces-another-full-stack-ai-factory-deal-this-time-in-korea-with-plans-for-gigawatt-scale-operation/) • 10h ago
-
----
-
-**[Are We Being Assimilated?](https://www.reddit.com/r/artificial/comments/1u0j0u1/are_we_being_assimilated/)**
-
-Any Star Trek fan knows of the Borg. They began as humanoids, then over time chose to effectively merge with technology, and subsequently launched their mission to assimilate others to attain 'perfection'. AI launched by assimilating humanity's written and visual works, and now it is effectively 'assimilating' us by homogenizing how we think, write, and act. Should we one day choose to integrate AI more intimately, we might become disconcertingly like Borg drones.
-
-🔗 [RealClearScience](https://www.realclearscience.com/blog/2026/06/08/are_we_being_assimilated_1186835.html) • 18m ago
-
----
-
-**[Copper at ATH, resource inflation rampant. Ore grades declining globally. There is no abundance. Just people made redundant. Stop gaslighting.](https://www.reddit.com/r/artificial/comments/1u01q2s/copper_at_ath_resource_inflation_rampant_ore/)**
-
-Automating labor is not going to move billions of tonnes of earth required to mine increasingly degraded ore grades of critical industrial minerals. People need to stop with this 'abundance' gaslighting. Without breakthroughs in material science, there will be no 'abundance'. Just mass resource inflation as people start consuming more because robots can manufacture anywhere. AI based automation is surfacing the real bottlenecks that there is no getting around. Stop pretending this will all be magically solved. It won't be solved until it's solved. And so far, despite all these trillions being invested, we haven't seen any breakthroughs. Hopium is not a solution.
-
-12h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-says-it-has-confidentially-filed-for-an-ipo-8201641/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 8m ago
 
 ---
 
@@ -117,63 +115,61 @@ Automating labor is not going to move billions of tonnes of earth required to mi
 
 ## Google News: "ai"
 
-**[Apple rolls out new, AI-powered Siri at annual WWDC](https://www.reuters.com/business/apples-wwdc-conference-kicks-off-investors-want-know-if-ai-will-save-siri-2026-06-08/)**
+**[Apple Investors Give Lukewarm Reaction to New Siri, AI Platform](https://www.bloomberg.com/news/articles/2026-06-08/apple-unveils-next-generation-of-ai-platform-including-new-siri)**
 
-Reuters • 1h ago
-
----
-
-**[Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.](https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html)**
-
-Amazon is the latest megacap company to announce a massive deal with Corning, which is rapidly becoming a critical player in the AI buildout.
-
-CNBC • 7h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)**
+**[They Spent Years on a Math Problem. Then They Were Scooped by A.I.](https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html)**
 
-Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
-
-TechCrunch • 15m ago
+The New York Times • 5h ago
 
 ---
 
-**[The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)**
+**[Wall Street holds steadier as AI stocks recover some of their sell-off](https://www.latimes.com/business/story/2026-06-08/wall-street-holds-steadier-as-ai-stocks-recover-some-of-their-sell-off)**
 
-A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
+Wall Street held steadier and recovered some of its sell-off from last week
 
-Forbes • 1d ago
-
----
-
-**[Nvidia CEO Jensen Huang declines Warren’s request to testify at AI hearing](https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-declines-warren-senate-testify-ai-hearing-rcna349034)**
-
-Sen. Elizabeth Warren had invited Huang to discuss Nvidia’s business in China at a Thursday Senate committee meeting about America’s AI industry.
-
-NBC News • 52m ago
+Los Angeles Times • 19m ago
 
 ---
 
-**[Stock markets fall as concerns persist over tech firms at heart of AI boom](https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel)**
+**[Leveraging AI Pays Off For Japan’s Discount Retailing Billionaire](https://www.forbes.com/sites/jsimms/2026/06/08/leveraging-ai-pays-off-for-japans-discount-retailing-billionaire/)**
 
-Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikes
+Shares of Trial Holdings surged 32% in the past 12 months, boosting the net worth of chairman Hisao Nagata to $1.4 billion.
 
-The Guardian • 11h ago
-
----
-
-**[This AI Stock Took Sell-Off In Stride. It's At A New Buy Point.](https://www.investors.com/research/ai-stock-comfort-systems-fix-stock/)**
-
-Investor's Business Daily • 3h ago
+Forbes • 23m ago
 
 ---
 
-**[1 Monster AI Stock Warren Buffett Is Extremely Bullish on](https://finance.yahoo.com/markets/stocks/articles/1-monster-ai-stock-warren-193500849.html)**
+**[OpenAI says it filed confidential IPO as it positions itself for AI arms race](https://www.cbsnews.com/news/openai-files-confidential-initial-public-offering/)**
 
-Under new CEO Greg Abel, Berkshire Hathaway might be more open to making large tech investments.
+Going public will allow OpenAI, valued at $852 billion, to inject more cash into its business as the AI race quickens.
 
-Yahoo Finance • 44m ago
+CBS News • 27m ago
+
+---
+
+**[Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/)**
+
+A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.
+
+OpenAI • 58m ago
+
+---
+
+**[Axios AI+NY Summit: Startups fear new AI rules will entrench big tech and crush small competitors](https://www.axios.com/2026/06/08/axios-ainy-summit-startups-fear-new-ai-rules-will-entrench-big-tech-and-crush-small-competitors)**
+
+Axios • 1h ago
+
+---
+
+**[AI remains top reason for US job cuts for third straight month as employers axed 97,000 workers in May](https://www.foxbusiness.com/economy/ai-remains-top-reason-us-job-cuts-third-straight-month-employers-axed-97000-workers-may)**
+
+AI was the leading reason cited for U.S. job cuts for the third consecutive month, with 97,006 layoffs announced in May, according to new data.
+
+Fox Business • 1h ago
 
 ---
 
@@ -181,13 +177,13 @@ Yahoo Finance • 44m ago
 
 New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
 
-NVIDIA Blog • 17h ago
+NVIDIA Blog • 19h ago
 
 ---
 
-**[Have a Thorny Medical Question? Your Doctor May Be Using A.I. for That.](https://www.nytimes.com/2026/06/08/business/ai-medicine-doctors.html)**
+**[AI Fears Spur 70% Plunge in Private Equity Tech Deal Value](https://www.bloomberg.com/news/articles/2026-06-08/ai-fears-spur-70-plunge-in-private-equity-tech-deal-value)**
 
-The New York Times • 6h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -205,27 +201,37 @@ Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the 
 
 **[Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)**
 
-⬆️ 454 • 💬 753 • 2d ago
+⬆️ 454 • 💬 755 • 2d ago
+
+---
+
+**[AI is slowing down](https://news.ycombinator.com/item?id=48446893)**
+
+If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
+
+⬆️ 293 • 💬 328 • 6h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
+
+---
+
+**[Siri AI](https://news.ycombinator.com/item?id=48449084)**
+
+Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
+
+⬆️ 274 • 💬 207 • 3h ago • [Apple](https://www.apple.com/apple-intelligence/)
+
+---
+
+**[Apple reveals new AI architecture built around Google Gemini models](https://news.ycombinator.com/item?id=48450142)**
+
+Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.
+
+⬆️ 270 • 💬 222 • 2h ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 
 ---
 
 **[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
 
 ⬆️ 232 • 💬 105 • 2d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
-
----
-
-**[AI Is Slowing Down](https://news.ycombinator.com/item?id=48446893)**
-
-If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
-
-⬆️ 212 • 💬 243 • 4h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
-
----
-
-**[Hacker News, Sans AI](https://news.ycombinator.com/item?id=48417916)**
-
-⬆️ 182 • 💬 101 • 2d ago • [elijahpotter.dev](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 
 ---
 
@@ -245,25 +251,17 @@ Safeguards must be in place before forces automate justice tasks, says head of P
 
 ---
 
-**[Siri AI](https://news.ycombinator.com/item?id=48449084)**
-
-Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
-
-⬆️ 144 • 💬 120 • 2h ago • [Apple](https://www.apple.com/apple-intelligence/)
-
----
-
 **[US House lawmakers release draft bill to prohibit state AI rules](https://news.ycombinator.com/item?id=48425031)**
 
 ⬆️ 129 • 💬 97 • 2d ago • [reuters.com](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
 
 ---
 
-**[Microsoft wants users to be addicted to Scout, their AI personal assistant](https://news.ycombinator.com/item?id=48419023)**
+**[Apple Core AI Framework](https://news.ycombinator.com/item?id=48449665)**
 
-Microsoft wants users to be addicted to Scout, their AI personal assistant. But addiction is not really the the tech giant's aim: it's complete dependency
+Run AI models in your app on Apple silicon.
 
-⬆️ 71 • 💬 5 • 2d ago • [disassociated.com](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+⬆️ 79 • 💬 4 • 3h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/coreai/)
 
 ---
 
@@ -277,7 +275,7 @@ The AI billionaires are changing their tone. After years of promising disruption
 
 📺 House of El - AI
 
-👁️ 70K • 👍 8K • 💬 2K • ⏱️ 20:02 • 6h ago
+👁️ 70K • 👍 8K • 💬 2K • ⏱️ 20:02 • 8h ago
 
 ---
 
@@ -287,7 +285,7 @@ You can sign up to Revolut at: https://get.revolut.com/z4lF/coldfusion, use your
 
 📺 ColdFusion
 
-👁️ 117K • 👍 11K • 💬 2K • ⏱️ 27:15 • 3h ago
+👁️ 117K • 👍 11K • 💬 2K • ⏱️ 27:15 • 5h ago
 
 ---
 
@@ -297,7 +295,7 @@ Apple Inc. unveiled the next generation of its artificial intelligence platform,
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 77 • 💬 8 • ⏱️ 3:24 • 2h ago
+👁️ 4K • 👍 77 • 💬 8 • ⏱️ 3:24 • 3h ago
 
 ---
 
@@ -327,7 +325,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 9K • 💬 7 • ⏱️ 16:45 • 6h ago
+👁️ 9K • 💬 7 • ⏱️ 16:45 • 7h ago
 
 ---
 
@@ -337,7 +335,7 @@ How To Make AI Films For Free in 2026 (Cinematic AI Videos) Prompt Pack: ...
 
 📺 Mira AI
 
-👁️ 5K • ⏱️ 13:11 • 3h ago
+👁️ 5K • ⏱️ 13:11 • 5h ago
 
 ---
 
@@ -347,7 +345,7 @@ Apple just dropped AI Siri… #c#carterpcssiriai #ai #siri #ios27.
 
 📺 CarterPCs
 
-👁️ 138K • 👍 12K • 💬 734 • ⏱️ 0:39 • 37m ago
+👁️ 138K • 👍 12K • 💬 734 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -383,7 +381,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 121,594 • ❤️ 1,608 • 23m ago
+⬇️ 121,594 • ❤️ 1,608 • 2h ago
 
 ---
 
@@ -407,7 +405,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 645,263 • ❤️ 491 • 20h ago
+⬇️ 645,263 • ❤️ 491 • 21h ago
 
 ---
 
@@ -479,7 +477,7 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 3,957 • ❤️ 283 • 2d ago
+⬇️ 3,957 • ❤️ 283 • 3d ago
 
 ---
 
@@ -639,7 +637,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 63.5k • 🔱 7.8k • 45m ago
+⭐ 63.5k • 🔱 7.8k • 2h ago
 
 ---
 
@@ -677,7 +675,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 325 • 7h ago
+⭐ 3.1k • 🔱 325 • 9h ago
 
 ---
 
@@ -687,7 +685,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 246 • 3h ago
+⭐ 2.9k • 🔱 246 • 5h ago
 
 ---
 
@@ -707,7 +705,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.3k • 🔱 258 • 13h ago
+⭐ 2.3k • 🔱 258 • 15h ago
 
 ---
 
@@ -717,7 +715,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.9k • 🔱 146 • 17h ago
+⭐ 1.9k • 🔱 146 • 19h ago
 
 ---
 

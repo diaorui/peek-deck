@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-08T20:19:00.026514+00:00'
+updated: '2026-06-08T22:10:11.781935+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 08, 2026 at 20:19 UTC  
+**Last Updated:** June 08, 2026 at 22:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I made a playable Excel workbook that models a 2D and 3D robot arm using only ordinary spreadsheet formulas, charts, sliders, and Excel Solver. The idea is to make kinematics easier to understand. GitHub: https://github.com/CarlKCarlK/excel-3d-robot-arm The 3D arm is inspired by the old Radio Shack / TOMY Armatron toy robot arm. The workbook lets you move the arm manually, set a target point, and then use Excel's Solver to find the control settings that move the hand to the target (inverse kinematics!). I made this mostly as a learning project. Excel makes the math visible: the rotation matrices, position updates, target error, and Solver setup are all inspectable cell by cell. Nothing is hidden in a robotics library or graphics engine. The model itself is just a series of rows, each controlling one segment. The rows process 3 ways to turn (yaw, pitch, roll) or a move, turtle graphics-style.
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,15 @@ I made a playable Excel workbook that models a 2D and 3D robot arm using only or
 
 From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Project: MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation Website: https://atarilab.github.io/motiondisco.io/ ArXiv: https://arxiv.org/pdf/2606.06139
 
-9h ago
+11h ago
+
+---
+
+**[I made a cube solving robot!](https://www.reddit.com/r/robotics/comments/1u0k1pq/i_made_a_cube_solving_robot/)**
+
+This machine takes around four seconds for each solve. To reach that speed I had to use the kociemba algorithm, which can find a solution of around 20 moves for all scrambles. It took me a really long time to complete this so I would appreciate it if you show it some love! I made this when I was around 15. Please ask questions!
+
+1h ago
 
 ---
 
@@ -52,7 +60,7 @@ From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Pro
 
 Hey reddit, So we built a gaming accessibility app SensePilot that enable people with disabilities to control a computer and play video games. I just finished developing the human-robot interface prototype so thought I'll share the demo here too as its related to robotics. Hope to eventually apply this to assistive living robots, because their controls are usually very limited and their users are unable to use hands for controlling the robot very well.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,19 +68,19 @@ Hey reddit, So we built a gaming accessibility app SensePilot that enable people
 
 I made a little online multiplayer game inspired by my recent underwater robotics work. You can pilot a little ROV around the ocean, explore shipwrecks, take photos and categorize fish and things. It's multiplayer and I'm thinking of having treasure hunts, etc. Should I ship it? Would you play?
 
-16h ago
+18h ago
 
 ---
 
 **[Testing autonomous robot data collection from real-world attempts](https://www.reddit.com/r/robotics/comments/1u009cr/testing_autonomous_robot_data_collection_from/)**
 
-13h ago
+15h ago
 
 ---
 
 **[Point-to-point autonomous navigation](https://www.reddit.com/r/robotics/comments/1u06fbw/pointtopoint_autonomous_navigation/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -80,7 +88,7 @@ I made a little online multiplayer game inspired by my recent underwater robotic
 
 I'm looking to buy a robot arm through AIFITLAB - has anyone done a major purchase through them recently? I'm looking to buy an AgileX NERO, price seems lower than US based companies which I know might be due to tariffs
 
-5h ago
+7h ago
 
 ---
 
@@ -88,19 +96,13 @@ I'm looking to buy a robot arm through AIFITLAB - has anyone done a major purcha
 
 TL;DR struggling in finding a meaningful research contribution on top of existing big foundation models. (edit: please note it's my first post on reddit,I'm not a bot) Context: I'm working on FM applied to robotics: VLAs, world models, WAMs. Lately I'm mostly reading papers, and implementing small adds on. Those topic are really exiting but I’m wondering where modest researchers (like me) can make meaningful contributions, given that training competitive foundation models from scratch is a big-lab game. For people working on fondation models in academy and R&D, that asked themself similar questions: Do you have some honest suggestions or feedback? If starting from a pretrained fondation model, main things that come to my mind are eg: - architecture changes (don't you lose all the pre training warmup)? - fine tune (not much new science if one runs lora...) - froze the model and build add-on like uncertaintyquant , world-model lookahead, inference guidance, safety constraints - something big I'm not seeing? Also happy to hear paper/project recommendations that are good examples of this. Thank you all.
 
-53m ago
+2h ago
 
 ---
 
 **[Humanoid robot kicks a child during a performance at a Chinese amusement park](https://www.reddit.com/r/robotics/comments/1u0fb3h/humanoid_robot_kicks_a_child_during_a_performance/)**
 
-2h ago
-
----
-
-**[We sang Happy Birthday to our robot. Happy birthday, Éloi.](https://www.reddit.com/r/robotics/comments/1tzvcc6/we_sang_happy_birthday_to_our_robot_happy/)**
-
-17h ago
+4h ago
 
 ---
 
@@ -112,7 +114,7 @@ TL;DR struggling in finding a meaningful research contribution on top of existin
 
 New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
 
-NVIDIA Blog • 17h ago
+NVIDIA Blog • 19h ago
 
 ---
 
@@ -120,13 +122,19 @@ NVIDIA Blog • 17h ago
 
 Companies to explore robotics, AI factory power solutions and advanced electronics materials for next-generation data center systems.
 
-NVIDIA Blog • 21h ago
+NVIDIA Blog • 23h ago
 
 ---
 
 **[Nvidia, Hyundai Deepen Joint Push Into AI-Powered Robotics](https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics)**
 
-Bloomberg • 10h ago
+Bloomberg.com • 11h ago
+
+---
+
+**[Not Tesla? "No one" better with robots than Hyundai, Nvidia CEO says](https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots)**
+
+Axios • 31m ago
 
 ---
 
@@ -134,7 +142,7 @@ Bloomberg • 10h ago
 
 This is the new hype in Silicon Valley. Should you get on board?
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -148,7 +156,7 @@ The Economist • 1d ago
 
 Robot.com CEO Felipe Chavez said he wants to build an ecosystem of robots that will handle boring, repetitive tasks.
 
-Business Insider • 10h ago
+Business Insider • 12h ago
 
 ---
 
@@ -176,12 +184,6 @@ Global Times • 1d ago
 
 ---
 
-**[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
-
-Seeking Alpha • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -202,7 +204,7 @@ The future isn't coming someday—it's already here. From elder-care companions 
 
 📺 IntelliCore
 
-👁️ 24K • 👍 230 • 💬 13 • ⏱️ 9:14 • 5d ago
+👁️ 24K • 👍 230 • 💬 13 • ⏱️ 9:14 • 6d ago
 
 ---
 
@@ -252,7 +254,7 @@ A robotic tattoo machine prints a full Japanese koi sleeve across a bare arm in 
 
 📺 Prototype Leaked
 
-👁️ 8K • 👍 118 • ⏱️ 0:11 • 5h ago
+👁️ 8K • 👍 118 • ⏱️ 0:11 • 7h ago
 
 ---
 
@@ -260,7 +262,7 @@ A robotic tattoo machine prints a full Japanese koi sleeve across a bare arm in 
 
 📺 Rennrat
 
-👁️ 95K • 👍 5K • 💬 95 • ⏱️ 0:32 • 18h ago
+👁️ 95K • 👍 5K • 💬 95 • ⏱️ 0:32 • 20h ago
 
 ---
 
@@ -280,7 +282,7 @@ Open Bionics built a bionic hand that detaches and keeps moving on its own. Afte
 
 📺 AzlanX
 
-👁️ 104K • 💬 30 • ⏱️ 0:34 • 2d ago
+👁️ 104K • 💬 30 • ⏱️ 0:34 • 3d ago
 
 ---
 
