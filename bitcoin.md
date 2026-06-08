@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-07T22:37:22.887526+00:00'
+updated: '2026-06-08T00:09:47.010728+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 07, 2026 at 22:37 UTC  
+**Last Updated:** June 08, 2026 at 00:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,62 +38,92 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,802.59
+### $63,238.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.8%  
-**7d:** -11.4%  
-**30d:** -21.6%  
-**90d:** -9.6%  
-**1y:** -40.2%  
+**24h:** +2.7%  
+**7d:** -5.3%  
+**30d:** -23.0%  
+**90d:** -9.9%  
+**1y:** -42.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1237.20B
+**Market Cap:** $1266.95B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--51.0%
+-49.8%
 
 **All-Time Low:** $67.81
-+91038.5%
++93147.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 12
+### 8
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[10,500,000 bitcoin being held at a loss right now, a new record](https://www.reddit.com/r/Bitcoin/comments/1tzlf5r/10500000_bitcoin_being_held_at_a_loss_right_now_a/)**
+
+4h ago
+
+---
+
 **[buying bitcoin now is like buying a house in the 1950s](https://www.reddit.com/r/Bitcoin/comments/1tzewfr/buying_bitcoin_now_is_like_buying_a_house_in_the/)**
 
 im gen z, i here a lot of people my age complain about how old folks got houses for dirt cheap, and there right they did. but i believe that what we are looking at today with bitcoin is the exact same opportunity. most people my age dont realize it. i remember learning about bitcoin 6 years ago, i had money to invest but i overlooked btc at 15k i bought stocks instead. now im older now and im wise enough now to not miss that opportunity again. ai is the sexy new tech that eats up billions while barely improving since the first chatgpt, while btc sitting quietly in the back knowing it will go down in history for fundamentally changing how humans view currency and store economic value. not sure how long btc will be this cheap, but im going all in with the money ive saved over the years. im not going to sell. see you in October.
 
-7h ago
-
----
-
-**[10,500,000 bitcoin being held at a loss right now, a new record](https://www.reddit.com/r/Bitcoin/comments/1tzlf5r/10500000_bitcoin_being_held_at_a_loss_right_now_a/)**
-
-3h ago
+8h ago
 
 ---
 
 **[Just one of the other times when it was all over. June 11th 2011. BTC was around $25.](https://www.reddit.com/r/Bitcoin/comments/1tzhzur/just_one_of_the_other_times_when_it_was_all_over/)**
 
-5h ago
+6h ago
+
+---
+
+**[Did... did it just double bottom at 60?](https://www.reddit.com/r/Bitcoin/comments/1tzqfkf/did_did_it_just_double_bottom_at_60/)**
+
+if this double bottom is confirmed its huge. thats all. sorry to all the shorts but take care the bounce can get BRUTAL
+
+1h ago
+
+---
+
+**[So I went to a card show in Anaheim, CA today.](https://www.reddit.com/r/Bitcoin/comments/1tzrvs4/so_i_went_to_a_card_show_in_anaheim_ca_today/)**
+
+I asked every single card trader if they accepted Bitcoin. Except this legend.
+
+20m ago
+
+---
+
+**[Think about it... what is max pain? Fast pump to 70-80k](https://www.reddit.com/r/Bitcoin/comments/1tzrsc7/think_about_it_what_is_max_pain_fast_pump_to_7080k/)**
+
+Everyone waiting for lower prices. Longs liquidated. Shorts will get liquidated. Amount of people that waited for 60k and open long? maybe less than 5% Amount of people willing to go long now after this scare and buy power weakness. Almost nobody.
+
+25m ago
+
+---
+
+**[Bull to bear how it feels](https://www.reddit.com/r/Bitcoin/comments/1tz2dox/bull_to_bear_how_it_feels/)**
+
+19h ago
 
 ---
 
@@ -105,17 +135,11 @@ I have been in this since 2013. I know what you're thinking...'this guy is runni
 
 ---
 
-**[Bull to bear how it feels](https://www.reddit.com/r/Bitcoin/comments/1tz2dox/bull_to_bear_how_it_feels/)**
-
-18h ago
-
----
-
 **[Why 50-60 K is probably the bottom](https://www.reddit.com/r/Bitcoin/comments/1tz8gxu/why_5060_k_is_probably_the_bottom/)**
 
 This is my thesis Sentiment of crypto delusion maxxing analisis paralisys bro is “wait till drop to 30k n buy ” Sentiment of normie boomer is “btc is dead 4 ever” Sentiment of chad emotionally testosteronally balanced stoic crypto alpha hodler: i filled my bags 60k, if goes to 50, buy again double quantity Who u trust more ? Gl bros
 
-12h ago
+13h ago
 
 ---
 
@@ -123,31 +147,7 @@ This is my thesis Sentiment of crypto delusion maxxing analisis paralisys bro is
 
 Do you think taking out a low-interest loan or using leverage to acquire more Bitcoin is a smart strategic move, or does adding debt completely defeat the philosophy of financial freedom?
 
-3h ago
-
----
-
-**[I think the best way to ease the mind is to just buy like $15 a day . Every day is the best way to average right](https://www.reddit.com/r/Bitcoin/comments/1tzavhu/i_think_the_best_way_to_ease_the_mind_is_to_just/)**
-
-Dca
-
-10h ago
-
----
-
-**[I love watching my average cost go down](https://www.reddit.com/r/Bitcoin/comments/1tzhp22/i_love_watching_my_average_cost_go_down/)**
-
-That’s it, okay bye
-
-5h ago
-
----
-
-**[New merchant now accepting Bitcoin for design work](https://www.reddit.com/r/Bitcoin/comments/1tzo3yb/new_merchant_now_accepting_bitcoin_for_design_work/)**
-
-Hey everyone, I’m a graphic designer who grew up inspired by the logos, sports graphics and retro aesthetics of the 80s and 90s. That nostalgia eventually became the foundation of my career, and today I create retro‑style logos, vintage sports artwork and branding for clients around the world. I’ve recently started accepting Bitcoin as a payment option, so I’m sharing this as a one‑time merchant announcement in line with the subreddit rules. If anyone wants to check out my work or get in touch, I’ll leave more details in a comment below. Thanks for reading.
-
-1h ago
+4h ago
 
 ---
 
@@ -155,77 +155,61 @@ Hey everyone, I’m a graphic designer who grew up inspired by the logos, sports
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is cratering, but a new Wall Street crypto hype is on the rise](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)**
-
-As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
+**[Bitcoin is cratering, but a new Wall Street crypto hype is on the rise](https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnVhcTN4SVZaVkd4WEFzQlNsNW4tWVY0alM3dU1zTkRyeEhqOTJLLVgwTDBPTWphMk1pYm1oMm9vNWdBZGgydkpXQW8tOGlTVHVLdTc5d0tmbi1YUnJzNklrYXFaS1VSN2p2QzNvQUFIcFRxaTl6dko4ZHdBTVFxRmpBd1BBNnY0ZkpKR3B30gGTAUFVX3lxTE9MWjVaSGcwVjllQml6eEQ2c0ZTQ0paenB4eUYxaHp5SmhxUnZHRUk3TzlKWGxlZGRBRzFka015b2xLZzFKT1Z4WWZWU1JxX3FLT21zbk12Q21YTUZYVjZjT0YyNzBkSmRsdEVTLTh5Rm1YUnA5eVNiS1liR1pNaDE4NExCX3lQWDVTLW83M3llQTNIbw?oc=5)**
 
 CNBC • 1d ago
 
 ---
 
-**[Bitcoin near $60,000 today vs February: ETF flows tell a different story](https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different)**
+**[Bitcoin near $60,000 today vs February: ETF flows tell a different story](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckI4SkZZUUxyYy1INHotWHZ6SUxOVFJrdFBfSEcwSml5UVlmOFoybm9McUphZUR2QnhJQVM4eVhnOG1mM0pyVFAyWnRfa2RuLWNrVGtxeDRpQVloa3REaWVlZXhKaFJGY2VwUVY4dDJvc1B0aWhrTXpwMlhiTFBYb0p3QjNXNks0bUZFaWRTTGx1OC1ZamhYdHNFdE05NksyekU2bHBreUhsdi0xZnhLOUxZeWM3WUgzZktOeUg0YjFldw?oc=5)**
 
-Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip.
-
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Investors Are Selling Bitcoin ETFs. Here's Why Now's the Time to Buy.](https://finance.yahoo.com/markets/crypto/articles/investors-selling-bitcoin-etfs-heres-062700511.html)**
+**[Investors Are Selling Bitcoin ETFs. Here's Why Now's the Time to Buy.](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3VYOUY1NzJYcHJOZkxfM2RVN3ZfYTZKRmVDblpyRlowNENlRXJzeWdvbEg3Sk9pbVMzb1IxSl83UURTdlZqYk02ZFNYV2VtUzhVZkZ0OFlETHAyVlFhTXZVUUdGR2d2N2FqTzV6dnBxQTFVcnp0MjQ1SUx5blB3czl2cm9jdEJmV1NiQjYzMS1OWWFFMlRVZUhEcW5rcnM2NzFB?oc=5)**
 
-It can be smart to be greedy when others are fearful, and now is one of those times.
-
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Bitcoin price crash reveals a surprisingly positive future outcome](https://finance.yahoo.com/markets/crypto/article/bitcoin-price-crash-reveals-a-surprisingly-positive-future-outcome-135353860.html)**
-
-Bitcoin may not stay down for long, if history is any guide.
+**[Bitcoin price crash reveals a surprisingly positive future outcome](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1JJeks4a29UbHQyLWNXck5ESTZPbG5UOS1qVHRzeWZtSlc5eUFLRGVUYjNydkhMaGxZUWlpY25jYXZSTWZ1VGhPakdtLTZobVFZX3ZSVEF0ckVSOVR3NDRVWGdNNG45RHh0X3VudjJHeWVUazZKQzFaNWlQMVp0S2szcHZ4R290YlNtM0ZmdGFXR2VYNWZRaDRMLWpnVEJJVEpzcXN2WFNPa2RzVU1BRVJybzQ4cjJhTmRXT3NaakRVUWJ3akxYdW1B?oc=5)**
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[NY Judge Halts Lawsuit Claiming 39,069 Dormant Bitcoin Wallets Until July Hearing](https://www.yahoo.com/news/us/articles/ny-judge-halts-lawsuit-claiming-213347498.html)**
+**[Crypto World Braces for Failures as Bitcoin Falls Below $60K](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTBLWUc2dlY3QmN1WWNObWhMbGhlQnJOa3pFY2pSbGVaN3hwbEdqOC1oSzg5Z3dLYTQ0TlpQNV9LeEJVWEo2WkdwT1JwRHZIeDRlb2k4RGc4Y0ZWMEpvR0NrQ1ZfSWNaVXFWVTUwQjRXd3JYLTlrVlR3cm1LMXk4bVZLQmo5d2xUN2Jqc0JwRE92NklTZ0Nta21JakstY08zNk82R2d3?oc=5)**
 
-A New York judge stays the lawsuit claiming 39,069 dormant Bitcoin wallets worth $235 billion ahead of a July 14 hearing.
-
-Yahoo • 1h ago
+PYMNTS.com • 1h ago
 
 ---
 
-**[Satoshi-era Bitcoin moves after 15 years of no movement](https://sg.finance.yahoo.com/news/satoshi-era-bitcoin-moves-15-201841326.html)**
+**[Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value](https://news.google.com/rss/articles/CBMimwFBVV95cUxON2pydEVPYkpRMGNkVGFOS2NjaGkxY3RMeDFOQ2pfcWtzeXhOdmlOZ3hwQkJ6NFAtRlZKdHZKUlBUcGlfUXdVZG4yZzFrS2tEM3lVV3RDdDNzMnJlMlcyeXJ4SXNkd20zZUJ3LUFGUHNXb2kzZmZCeloxSm83bl83SHJOWndHNjltU1lrVnlDN0JpM21yWlpGQzlSSQ?oc=5)**
 
-A pseudonymous plaintiff who calls himself “Noah Doe” and two Wyoming LLCs, ABC Company and XYZ Company, filed a lawsuit in New York on March 11 to seek a court declaration that they are the legal owners of around 3.8 million Bitcoin (BTC), worth approximately $293 billion, ...
-
-Yahoo Finance Singapore • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Michael Saylor hints at fresh bitcoin buy with 'add more dots' post as Strategy sits $11.7 billion underwater](https://www.theblock.co/post/403900/michael-saylor-signals-fresh-bitcoin-buy-with-add-more-dots-post-as-strategy-sits-11-7-billion-underwater)**
+**[Michael Saylor hints at fresh bitcoin buy with 'add more dots' post as Strategy sits $11.7 billion underwater](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSk4zcE42Ykd1WkdIU2hBRkdCOVZMbmxxbEhRc2RjWG1KQmZZU0pQbm0wODVwSmh6eVBMT1lXbDdwM294SUQwTHIwaUNFbHNOQzVTalE3Z3dodExpcXFKNW83Y01RYzhJRUNIa3ZXSE05TW9Fc3h6aDkteHlKM3loa2w1M1N5MzVaSzFxamd5WmRYMC1POFM5eC1JVzBCdlVZY1daQzdSV1d5ZzlWUkpKWkJHUHRGdTcta3pYTWJnQU9FN2ktZFhLcWlvbDZCU0I2V0dWelhqMWc?oc=5)**
 
-The post lands a week after Strategy revealed its first bitcoin sale since 2022 and one day before voting closes on a STRC dividend amendment.
-
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**[Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath](https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html)**
-
-Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.
+**[Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRG4xZW4wOTZ1S1g3MW9oVUc5ZXAzcTE3YWZqUmhLVzU0c2Y2MTd5dDcyV284cUNKOU41LVZ0bl9wRHAwWnVaQkVwMDg2REtXZXYzMUtPSnN2SmNhdWZyc3U3cG1hN09SUk9LdWdCN09QSjItUFpLT2VKWVRNd1g4NjRBTHpDRXc1Z0h4YTZGd3loNlpqbjdJYVVyV1pWWjgxMnczT9IBqgFBVV95cUxPcWxTcllYcU95S0xqcjYyWU5xZDRNOEE3RHNPT1JkVW1OZTUwZUpydjJleEtsVWtacHVxRkRlZ0pWR0lDOGlmUnB6Y1lTVDNRZWx4aTZaRWREVGVkTFQ1OE84eHZ0dFBQVkYyY1dzTWstWFZFS0dpQlQ5bVY1NXRfa20yS3ZCZ18tem5hSFZQckFOSTRac0oySlhRMjhHaENmazhYMG5INUhxdw?oc=5)**
 
 CNBC • 2d ago
 
 ---
 
-**[Bitcoin’s Broken Promise Wipes Out Billions in Bullish Crypto Bets](https://www.bloomberg.com/news/newsletters/2026-06-06/michael-saylor-breaks-bitcoin-btc-pledge-sells-for-first-time-in-four-years)**
+**[Bitcoin’s Broken Promise Wipes Out Billions in Bullish Crypto Bets](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbE00V1NMb3pQLTdIbDk5cDhYV1BaQXJSSU1WTDBpM0U4Mzdkd21CSFZYeGY5dENLMHM0RmxrVUxRQy1UTmRrTkhWM3k3eThZU1FKekgtWVY5TUFDYU1TakdtaV9FaXE2czdieVlqQm5XNUlMaEh5eVFUdm5xWDBpWGx6S2xna284NUxIdU1KMTV1RlZicXJJX196U2E0Wmh1aUJfOVJyR2h4VVJjZTF4WDl2UWFydExsZEk2WExUaUF5bkd0UW1QYg?oc=5)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)**
+**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRS1vTjdBbG45ZlBuOE9kbjk2WVU4YmZLaVNpYWtOR0ZEaldfWnNoUlAzcnFXOWlGZFpIZGxlYU9ycElwSUpzMlFMRk9iZUprUG5Jcnc3ZHlBa2VBMVJKWFFSZlZQMWoxdy1nSS1fT2xkTFA2cktWSW53OEsxOVVMYjd5c2dvazBqY2tVcE94b2xjT1FfaTZHLW5wZTJ4emh4TjN6Um5vVHM1Nnk1RXZ0VQ?oc=5)**
 
 Reuters • 2d ago
 
@@ -283,7 +267,7 @@ Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face 
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-⬆️ 6 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
+⬆️ 6 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
 
 ---
 
@@ -299,7 +283,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 In the past two days, bitcoin's highest-conviction holders have sold about $2.4 billion in bitcoin.
 
-⬆️ 4 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
+⬆️ 4 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html)
 
 ---
 
@@ -321,7 +305,17 @@ In this episode, Ran sits down with Ben Cowen to break down Bitcoin's current ma
 
 📺 Crypto Insider
 
-👁️ 33K • 👍 2K • 💬 97 • ⏱️ 38:44 • 11h ago
+👁️ 41K • 👍 2K • 💬 103 • ⏱️ 38:44 • 12h ago
+
+---
+
+**[Why Is Bitcoin CRASHING?!](https://www.youtube.com/watch?v=5TTtJBwmmnM)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 76K • 👍 3K • 💬 143 • ⏱️ 57:39 • 1d ago
 
 ---
 
@@ -331,7 +325,7 @@ Bitcoin wicked down to $59000 on Friday — its lowest since the 2024 election �
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 391 • 💬 43 • ⏱️ 31:05 • 4h ago
+👁️ 8K • 👍 491 • 💬 52 • ⏱️ 31:05 • 6h ago
 
 ---
 
@@ -341,7 +335,37 @@ I think Bitcoin has entered the 3rd stage of the bear market. Let's talk about i
 
 📺 Benjamin Cowen
 
-👁️ 105K • 👍 7K • 💬 459 • ⏱️ 13:26 • 19h ago
+👁️ 113K • 👍 8K • 💬 480 • ⏱️ 13:26 • 20h ago
+
+---
+
+**[LOOK OUT: Final Bitcoin Crash Coming (Just Like 2018?)](https://www.youtube.com/watch?v=tebcKnJ0BFU)**
+
+I Can't Stay Quiet on this Bitcoin Crash Any Longer! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 4K • 👍 495 • 💬 58 • ⏱️ 11:59 • 2h ago
+
+---
+
+**[2 reasons WHY Bitcoin is DUMPING right now 🚨](https://www.youtube.com/watch?v=NkXo6VnejYc)**
+
+2 main reasons WHY Bitcoin is DUMPING right now: job reports were really good so bonds spiked, and the Fed might have to ...
+
+📺 STOCK UP! with LARRY JONES
+
+👁️ 7K • 👍 273 • 💬 57 • ⏱️ 1:00 • 13h ago
+
+---
+
+**[Bitcoin Crash Explained: Here&#39;s What&#39;s Really Happening and What Comes Next!](https://www.youtube.com/watch?v=xYoD-Hz74sU)**
+
+Bitcoin is under pressure, the media is calling it dead, and capital is flooding into AI and space stocks. But beneath the headlines, ...
+
+📺 Simply Bitcoin
+
+👁️ 2K • 👍 205 • 💬 37 • ⏱️ 12:02 • 4h ago
 
 ---
 
@@ -351,27 +375,17 @@ The hometeam reacts to claims that Strategy's huge Bitcoin bet has turned into a
 
 📺 Valuetainment
 
-👁️ 83K • 👍 2K • 💬 830 • ⏱️ 10:46 • 2d ago
+👁️ 85K • 👍 2K • 💬 838 • ⏱️ 10:46 • 2d ago
 
 ---
 
-**[Crypto Holders: Here&#39;s Why I&#39;m Buying Right Now](https://www.youtube.com/watch?v=zNl-PdvK2TU)**
+**[What the Crash in Bitcoin Means Now (and for rest of 2026)](https://www.youtube.com/watch?v=QzTDL9I0MKA)**
 
-Check out Ledn: https://aaronbtc.com/ledn Into The Cryptoverse Charts – 10% Off ...
+What the crash in bitcoin means now (and for rest of 2026). We explain what the recent drop in bitcoin means in combination with ...
 
-📺 Aaron Bennett
+📺 Alessio Rastani
 
-👁️ 7K • 👍 388 • 💬 195 • ⏱️ 6:49 • 18h ago
-
----
-
-**[The Bitcoin Core Bear Market](https://www.youtube.com/watch?v=JraZHryxRvs)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the Bitcoin Core bear market, which ...
-
-📺 Bitcoin University
-
-👁️ 12K • 👍 1K • 💬 255 • ⏱️ 11:55 • 1d ago
+👁️ 24K • 👍 2K • 💬 271 • ⏱️ 12:14 • 13h ago
 
 ---
 
@@ -382,36 +396,6 @@ Bitcoin just suffered one of its sharpest pullbacks of the cycle, wiping out bil
 📺 Simply Bitcoin
 
 👁️ 15K • 👍 867 • 💬 226 • ⏱️ 10:42 • 2d ago
-
----
-
-**[Crypto Holders - Major Warning About SpaceX IPO This Week](https://www.youtube.com/watch?v=EAQPHMz2byQ)**
-
-Buy, Sell, Trade Crypto: Trade Stocks: ($60k Stock Trading Week): https://www.weex.com/events/promo/spot-event34?
-
-📺 Altcoin Daily
-
-👁️ 33K • 👍 2K • 💬 71 • ⏱️ 11:13 • 1d ago
-
----
-
-**[THE NEXT BITCOIN MOVE IS SO OBVIOUS...](https://www.youtube.com/watch?v=8jiqV9Pk5B0)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 20K • 👍 1K • 💬 78 • ⏱️ 14:36 • 15h ago
-
----
-
-**[Why Is Bitcoin CRASHING?!](https://www.youtube.com/watch?v=5TTtJBwmmnM)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 74K • 👍 3K • 💬 143 • ⏱️ 57:39 • 1d ago
 
 ---
 
