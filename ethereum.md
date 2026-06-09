@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-09T13:59:20.510867+00:00'
+updated: '2026-06-09T16:35:44.591967+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 13:59 UTC  
+**Last Updated:** June 09, 2026 at 16:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,669.61
+### $1,640.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -7.9%  
-**30d:** -28.6%  
-**90d:** -19.4%  
-**1y:** -40.6%  
+**24h:** -3.3%  
+**7d:** -10.1%  
+**30d:** -30.3%  
+**90d:** -21.3%  
+**1y:** -42.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.08B
+**Market Cap:** $196.88B
 Rank #2
 
 **Circulating Supply:** 120,684,430 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.2%
+-67.0%
 
 **All-Time Low:** $0.43
-+385921.0%
++376442.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-18h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
 
-18h ago
+21h ago
 
 ---
 
@@ -150,41 +150,51 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[cirBTC Is Live on Ethereum for Wrapped BTC Deployment](https://www.circle.com/blog/cirbtc-is-now-live-on-ethereum)**
-
-Now live on Ethereum, cirBTC is a 1:1 BTC-backed token that delivers secure, neutral collateral across DeFi on Ethereum, with planned Arc and multichain support.
-
-Circle Internet Financial • 20h ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, June 9, 2026: Values stabilize as investors may seek alternatives](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-june-9-2026-values-stabilize-as-investors-may-seek-alternatives-114631191.html)**
-
-These are today's bitcoin and ethereum prices, Tuesday, June 9, 2026. Bitcoin opened at $63,078.89, down 0.3% from yesterday’s opening price. Ethereum opened at $1,689.88, up 0.2% from yesterday's open.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Crypto News: Bitcoin, Ethereum, XRP and Cardano Enter Historical Buy Zones as MVRV Turns Negative](https://www.binance.com/sv/square/post/332239443761601)**
-
-Binance • 2h ago
-
----
-
-**[BlackRock Sells $230 Million in Bitcoin and Buys Ethereum: What Is Really Going On?](https://finance.yahoo.com/markets/crypto/articles/blackrock-sells-230-million-bitcoin-131810369.html)**
-
-BlackRock sold 3,671 BTC and bought 10,566 ETH amid heavy IBIT and ETHA outflows across the crypto ETF market.
-
-Yahoo Finance • 41m ago
-
----
-
 **[Circle debuts cirBTC on Ethereum to challenge Coinbase in the wrapped bitcoin market](https://www.coindesk.com/business/2026/06/09/circle-debuts-cirbtc-on-ethereum-to-challenge-coinbase-in-the-wrapped-bitcoin-market)**
 
 Circle unveiled "cirBTC", a token backed 1:1 with the world's largest cryptocurrency to allow users to utilise their bitcoin wealth in DeFi protocols.
 
-CoinDesk • 3h ago
+CoinDesk • 6h ago
+
+---
+
+**[cirBTC Is Live on Ethereum for Wrapped BTC Deployment](https://www.circle.com/blog/cirbtc-is-now-live-on-ethereum)**
+
+Now live on Ethereum, cirBTC is a 1:1 BTC-backed token that delivers secure, neutral collateral across DeFi on Ethereum, with planned Arc and multichain support.
+
+Circle Internet Financial • 23h ago
+
+---
+
+**[Crypto News Today: MemeToro AI Agents Gain Momentum as Ethereum Price Faces Pressure](https://markets.businessinsider.com/news/stocks/crypto-news-today-memetoro-ai-agents-gain-momentum-as-ethereum-price-faces-pressure-1036235368)**
+
+ZURICH, June  09, 2026  (GLOBE NEWSWIRE) -- MemeToro AI Labs, an innovative developer of decentralized artificial intelligence infrastructure, tod...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-dip-151837018.html)**
+
+Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position](https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position)**
+
+Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
+
+The Block • 2d ago
+
+---
+
+**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
+
+The largest ethereum treasury firm acquired 126,971 tokens last week....
+
+Sherwood News • 1d ago
 
 ---
 
@@ -192,31 +202,23 @@ CoinDesk • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 44m ago
+Fortune • 3h ago
 
 ---
 
-**[Tom Lee is sitting on nearly $9B in losses as ethereum slides lower](https://finance.yahoo.com/video/tom-lee-sitting-nearly-9b-180000024.html)**
+**[Anthropic's AI Just Found a Bug That Sent Zcash Down 40% in 1 Day. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/06/09/anthropics-ai-just-found-a-bug-that-sent-zcash-dow/)**
 
-Scott Melker discusses how Bitmine chairman Tom Lee is reportedly sitting on $9 billion in unrealized ethereum (ETH-USD) losses as the crypto asset has slid below $1,600. Lee currently owns 4.4% of all ethereum tokens. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Cybersecurity is now something that crypto investors must be more aware of than ever.
 
-Yahoo Finance • 2d ago
-
----
-
-**[MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum](https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum)**
-
-Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
-
-The Block • 1d ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Crypto News Today: AlphaPepe Nears Binance Listing as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-binance-listing-as-ethereum-price-prediction-targets-10-000-1036233913)**
+**[Crypto Today: Bitcoin, Ethereum, XRP edge lower despite Middle East tensions easing](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-lower-despite-middle-east-tensions-easing-202606091200)**
 
-MONACO, June  08, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the project’s exchange debut moves closer and Binance...
+Cryptocurrency prices trade amid persistent selling pressure on Tuesday.
 
-markets.businessinsider.com • 8h ago
+FXStreet • 4h ago
 
 ---
 
@@ -232,53 +234,23 @@ Ledger • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETHEREUM - THIS HASN&#39;T HAPPENED IN OVER Y 7EARS (LAST TIME WE PUMPED 5,000%)](https://www.youtube.com/watch?v=4kj-j6zxK54)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+
+📺 Tyler Hill Crypto
+
+👁️ 957 • 👍 93 • 💬 19 • ⏱️ 15:00 • 1h ago
+
+---
+
 **[Ethereum’s Future Just Took a Sharp Turn](https://www.youtube.com/watch?v=HAAhbq_lefc)**
 
 Ethereum's founder just made his most dramatic announcement yet: foundation downsizing, less ETH selling, and a personal step ...
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 788 • 💬 75 • ⏱️ 16:49 • 2d ago
-
----
-
-**[BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=s9azVCatNr4)**
-
-BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 270 • 💬 156 • ⏱️ 19:32 • 6h ago
-
----
-
-**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
-
-Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
-
-📺 Thomas Kralow
-
-👁️ 11K • 👍 396 • 💬 111 • ⏱️ 8:10 • 1d ago
-
----
-
-**[When Ethereum DeFi Collapses, Liquidity Will Flow to ICP](https://www.youtube.com/watch?v=GWUOPs0oJ8g)**
-
-In this video, I explain why I believe Ethereum DeFi is headed for a major collapse and why that could send liquidity flowing into ...
-
-📺 Jerry Banfield ICP
-
-👁️ 255 • 👍 61 • 💬 14 • ⏱️ 5:43 • 1h ago
-
----
-
-**[How Low Will ETH Still Fall in 2026?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=qVrfEOF-DJo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 108 • 👍 20 • 💬 2 • ⏱️ 4:41 • 4h ago
+👁️ 23K • 👍 795 • 💬 75 • ⏱️ 16:49 • 2d ago
 
 ---
 
@@ -288,7 +260,7 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 6K • 👍 252 • 💬 92 • ⏱️ 5:46 • 20h ago
+👁️ 6K • 👍 260 • 💬 17 • ⏱️ 5:46 • 23h ago
 
 ---
 
@@ -298,37 +270,67 @@ DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated
 
 📺 The Rollup
 
-👁️ 3K • 👍 96 • 💬 9 • ⏱️ 38:13 • 15h ago
+👁️ 3K • 👍 108 • 💬 18 • ⏱️ 38:13 • 17h ago
 
 ---
 
-**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
+**[BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=s9azVCatNr4)**
 
-Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
+BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Coin Bureau
+📺 Crypto World
 
-👁️ 20K • 👍 722 • 💬 104 • ⏱️ 21:23 • 2d ago
-
----
-
-**[OFFICIAL: XRP Hits $400,000,000 in Tokenized Assets 2x Faster Than Ethereum!](https://www.youtube.com/watch?v=93Pw8oienAI)**
-
-XRP just hit $400 million in tokenized real-world assets twice as fast as Ethereum, breaking historical records. While the broader ...
-
-📺 Cheeky Crypto
-
-👁️ 18K • 👍 927 • 💬 64 • ⏱️ 23:26 • 1d ago
+👁️ 6K • 👍 314 • 💬 165 • ⏱️ 19:32 • 9h ago
 
 ---
 
-**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
+**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
 
-Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
+Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
 
-📺 Paul Barron Network
+📺 Thomas Kralow
 
-👁️ 34K • 👍 1K • 💬 97 • ⏱️ 21:26 • 2d ago
+👁️ 11K • 👍 404 • 💬 111 • ⏱️ 8:10 • 1d ago
+
+---
+
+**[Ethereum Bottom REVEALED: This ETH Historical Pattern Triggers Massive Bull Runs](https://www.youtube.com/watch?v=WJVONw_V21I)**
+
+When will #ethereum finally bottom? In this video, I break down a historical patterns that has appeared near major Ethereum bear ...
+
+📺 Humble Market Timer
+
+👁️ 26 • 👍 3 • ⏱️ 9:34 • 4h ago
+
+---
+
+**[How Low Will ETH Still Fall in 2026?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=qVrfEOF-DJo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 156 • 👍 21 • 💬 2 • ⏱️ 4:41 • 7h ago
+
+---
+
+**[All-Time High Usage, Dead Price: What&#39;s Really Going On With Ethereum w/ John Gillen](https://www.youtube.com/watch?v=TBQAUbEdPf4)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 3K • 👍 95 • 💬 9 • ⏱️ 16:40 • 2d ago
+
+---
+
+**[Crypto Collapse! Institutional Technical Analysis, Latest Forecast, Trades (BTC, ETH, SOL, HYPE)](https://www.youtube.com/watch?v=9Sccl9hBids)**
+
+In today's video, Chief Market Strategist Gareth Soloway dives deep into the recent crypto collapse. As predicted, Bitcoin hit the ...
+
+📺 Gareth Soloway
+
+👁️ 93K • 👍 6K • 💬 372 • ⏱️ 15:17 • 2d ago
 
 ---
 
