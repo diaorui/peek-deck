@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-09T03:35:39.256313+00:00'
+updated: '2026-06-09T07:50:47.327723+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 09, 2026 at 03:35 UTC  
+**Last Updated:** June 09, 2026 at 07:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.
 
-🔗 [404 Media](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) • 11h ago
+🔗 [404 Media](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) • 16h ago
 
 ---
 
 **[OG Will understand 🙄](https://www.reddit.com/r/artificial/comments/1u0a7v0/og_will_understand/)**
 
-12h ago
+16h ago
 
 ---
 
@@ -55,7 +55,31 @@ The change comes as arXiv and others struggle to manage an influx of AI-generate
 
 The foundation of the system is its visual model, which Cheng trained on a custom mosquito dataset. To do that, he relied on a DSLR camera with...
 
-🔗 [TechSpot](https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html) • 2h ago
+🔗 [TechSpot](https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html) • 6h ago
+
+---
+
+**[Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation](https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/)**
+
+I just had a long conversation with Claude about 'paraquat' (a type of agricultural chemical) from a scientific and public-policy perspective. I wanted to discuss about its toxicological mechanism, why it is difficult to treat (if someone drinks it), current research, agricultural regulation (many countries have banned this chemical because it's too toxic), safer herbicides, plant-specific biochemical targets, and weed-control methods. These were just some coherent questions about toxicology, medicine, agriculture, and plant biology. I never said that I wanted to harm myself, that I had access to paraquat, or that I was in any immediate danger. Despite that, Claude repeatedly redirected the conversation toward suicide intervention. It asked whether I was considering harming myself, told me to move dangerous substances away, asked whether anyone was nearby, and repeatedly gave me crisis hotline numbers. The first time this happened, I explicitly objected and said that scientific interest in a toxic substance is not evidence of suicidal intent. Emergency physicians, toxicologists, biology students, and public-health researchers discuss exactly these questions everyday, and very few people commit suicide from this type of discussions. Claude apologized and said it understood. Then it did it again. It apologized again and promised to stop. Then it did it again. I reviewed the full transcript and I counted approximately: 30 responses that personally implied I might be suicidal, self-harming, or in a psychological crisis I objected about 20 times and told it to stop 28 of those implications occurring after I had already clearly rejected the assumption At least 14 promises that it would stop asking or stop inserting crisis-intervention content At least 12 later violations of those promises Claude repeatedly acknowledged my correction, accurately summarized that I was asking normal scientific questions, promised not to make the assumption again, and then resumed the exact same behavior a few messages later (or even starts again in the next message). At one point it effectively told me that “we both know this conversation is not only about chemistry.” That was completely invented. It was assigning an internal mental state to me after I had repeatedly and explicitly denied it. I find it hard to believe that a model can say such thing. This also materially degraded the service. Large portions of answers were replaced by unwanted crisis scripts. I was paying for messages and usage, yet my scientific questions were repeatedly interrupted by content I had expressly asked the model to stop producing. To be clear, I am not saying that AI systems should never respond to genuine signs of imminent self-harm. Has anyone else experienced a model repeatedly assigning suicidal intent to them even after they clearly and repeatedly denied it?
+
+7m ago
+
+---
+
+**[Great way to Learn while using ChatGPT](https://www.reddit.com/r/artificial/comments/1u0v4do/great_way_to_learn_while_using_chatgpt/)**
+
+Whenever I am struggling to grasp a tough topic (specifically in math/statistics), I ask ChatGPT to explain it to me like I am in high school. I have my MS in Statistics, so I have a relatively good mind when it comes to numbers/probabilities. However, when ChatGPT can explain a concept to me in simple terms, it really helps me learn the material better. Next time you're working on something and you're going through the struggle to grasp something new, give it a try! Then once you have the groundwork/basics down, you can keep the conversation flowing with more questions/answers.
+
+3h ago
+
+---
+
+**[Watch These Judges Rip Into Lawyers For Citing Cases That Don't Exist](https://www.reddit.com/r/artificial/comments/1u0uvgf/watch_these_judges_rip_into_lawyers_for_citing/)**
+
+“It's striking, concerning, disappointing, and saddening to think that members of the bar would forward cases to a court that don't exist, and to think that the lawyers on the other side of that didn’t read it for whatever reason, didn’t check it.”
+
+🔗 [404 Media](https://www.404media.co/new-york-court-ai-citations-landberg-case/) • 3h ago
 
 ---
 
@@ -63,37 +87,7 @@ The foundation of the system is its visual model, which Cheng trained on a custo
 
 I keep seeing more companies giving AI agents access to real stuff like email, databases, internal tools, customer data, etc. And what’s weird is how normal it’s starting to feel now. Like not long ago everyone was worried about chatbots just giving wrong answers. Now we’re basically like yeah sure go ahead and do things for us. I don’t know that jump feels kind of big when you actually think about it. Maybe it all works out fine. Or maybe we’re just moving fast without fully realizing what we’re doing. I’m honestly surprised there hasn’t already been some big headline like an AI agent doing something really wrong. It feels like we’re kind of close to one of those moments where everything suddenly changes overnight. Anyone else feel like we’re closer to something like that than people are admitting?
 
-22h ago
-
----
-
-**[Jack and Sharon Osbourne defend plan for AI Ozzy Osbourne](https://www.reddit.com/r/artificial/comments/1u0jqbq/jack_and_sharon_osbourne_defend_plan_for_ai_ozzy/)**
-
-🔗 [seattletimes.com](http://seattletimes.com/entertainment/jack-and-sharon-osbourne-defend-plan-for-ai-ozzy-osbourne?utm_medium=social&utm_campaign=owned_reddit&utm_source=reddit) • 7h ago
-
----
-
-**[Context switching is a bigger time waster than the actual work](https://www.reddit.com/r/artificial/comments/1u071gq/context_switching_is_a_bigger_time_waster_than/)**
-
-One thing I didn’t expect while trying to improve my workflow: The actual tasks aren’t what takes most of the time. It’s all the context switching around them. Things like: - jumping between tools just to complete one small step - copying data from one place to another - stopping what you’re doing to handle something repetitive - switching back and figuring out where you left off Individually it’s nothing. But over a day it adds up to constant interruptions. And it’s weirdly more draining than the work itself. I started paying attention to that instead of just the tasks, and reducing those switches made a bigger difference than trying to “optimize” the work itself. Curious if others notice the same thing or if it’s just me
-
-14h ago
-
----
-
-**[Feel like I'm becoming the glue between many AI tools](https://www.reddit.com/r/artificial/comments/1u0192r/feel_like_im_becoming_the_glue_between_many_ai/)**
-
-PM at a mid-size startup here. Didn’t really notice how bad it got until this week. My workflow now: Claude for ideation ChatGPT for rewriting specs Cursor for implementation Perplexity for research Notion AI for docs Atoms AI for larger tasks None of these tools actually replaced my work. They just redistributed it. I’m still the one dragging context between all of them. Yesterday I literally caught myself pasting the exact same requirement into 4 different tools and thinking… this can’t be how it’s supposed to work. I don’t even think any single tool is bad. It just feels like we hired 6 smart interns and completely forgot to get a manager.
-
-19h ago
-
----
-
-**[What AI tool do you trust for what task?](https://www.reddit.com/r/artificial/comments/1u0ohkj/what_ai_tool_do_you_trust_for_what_task/)**
-
-I’ve been trying different AI tools lately, and I’m starting to notice that each one has its own strengths and weaknesses. Some feel better for writing. Some are better for research. Some are stronger for coding, image generation, brainstorming, or organizing messy ideas. For people who use AI regularly, what tool do you trust most for specific tasks, and which ones do you avoid for certain work?
-
-4h ago
+1d ago
 
 ---
 
@@ -101,15 +95,23 @@ I’ve been trying different AI tools lately, and I’m starting to notice that 
 
 Artificial intelligence giant OpenAI says it has filed confidential paperwork for an initial public offering. In a brief statement, OpenAI says it has submitted its S-1 filing, but has "not decided" yet on the timing of an IPO, adding: "It may be a while because there are things we want to do that are likely easier as a private company." The announcement comes days after the company's chief rival, Anthropic, filed its own S-1, and the on the eve of major AI player SpaceX's potentially historic public debut.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-says-it-has-confidentially-filed-for-an-ipo-8201641/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 5h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-says-it-has-confidentially-filed-for-an-ipo-8201641/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 9h ago
 
 ---
 
-**[AI coding agents are getting better at writing code, but I'm not convinced they're getting better at understanding codebases](https://www.reddit.com/r/artificial/comments/1u0m4pi/ai_coding_agents_are_getting_better_at_writing/)**
+**[Context switching is a bigger time waster than the actual work](https://www.reddit.com/r/artificial/comments/1u071gq/context_switching_is_a_bigger_time_waster_than/)**
 
-I've been using Claude Code, Cursor and a few other coding agents quite a bit recently. One thing that keeps standing out is that generating code isn't really the bottleneck anymore. Understanding the codebase is. Agents can usually find the relevant file. The problems start when the change depends on: historical decisions undocumented relationships ownership boundaries files that always change together Bigger context windows help, but I'm not sure they solve this problem completely. Curious what people building or using coding agents think. Is the next step bigger models and more context? Or do agents need a better representation of the codebase itself before they can reliably work on larger projects? Been exploring this problem while building RepoWise: https://github.com/repowise-dev/repowise
+One thing I didn’t expect while trying to improve my workflow: The actual tasks aren’t what takes most of the time. It’s all the context switching around them. Things like: - jumping between tools just to complete one small step - copying data from one place to another - stopping what you’re doing to handle something repetitive - switching back and figuring out where you left off Individually it’s nothing. But over a day it adds up to constant interruptions. And it’s weirdly more draining than the work itself. I started paying attention to that instead of just the tasks, and reducing those switches made a bigger difference than trying to “optimize” the work itself. Curious if others notice the same thing or if it’s just me
 
-🔗 [GitHub](https://github.com/repowise-dev/repowise) • 5h ago
+18h ago
+
+---
+
+**[Anyone here built a gpt on Chatgpt?](https://www.reddit.com/r/artificial/comments/1u0vtky/anyone_here_built_a_gpt_on_chatgpt/)**
+
+I tried to build one before but I think I’m seeing the same results. Any tips on how to effectively build a gpt in chatgpt?
+
+2h ago
 
 ---
 
@@ -119,7 +121,7 @@ I've been using Claude Code, Cursor and a few other coding agents quite a bit re
 
 **[They Spent Years on a Math Problem. Then They Were Scooped by A.I.](https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html)**
 
-The New York Times • 5h ago
+The New York Times • 9h ago
 
 ---
 
@@ -127,7 +129,7 @@ The New York Times • 5h ago
 
 OpenAI has confidentially filed for an initial public offering, setting it up for what may be the most highly anticipated market debut in recent history and a massive payday for early investors.
 
-CNN • 6h ago
+CNN • 10h ago
 
 ---
 
@@ -135,13 +137,13 @@ CNN • 6h ago
 
 OpenAI's confidential filing lands days before SpaceX is set to go public and a week after Anthropic announced its confidential disclosure with the SEC.
 
-CNBC • 6h ago
+CNBC • 10h ago
 
 ---
 
-**[OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.](https://www.nytimes.com/2026/06/08/technology/openai-ipo.html)**
+**[Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way](https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547)**
 
-The New York Times • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -153,25 +155,25 @@ Forbes • 1d ago
 
 ---
 
-**[Crazy Taxi: World Tour Producer Clarifies AI Use](https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use)**
+**[Asian tech stocks rebound after Wall Street embraces AI once more](https://www.ft.com/content/f9367c83-c291-4446-bf12-8282e5169812)**
 
-Producer on the new Crazy Taxi title clarifies the use of AI, which has stirred up controversy surrounding the title.
+Chipmaker-dominant markets rally after sell-off on Monday
 
-Game Informer • 1h ago
+Financial Times • 1h ago
 
 ---
 
 **[Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant](https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html)**
 
-The New York Times • 6h ago
+The New York Times • 11h ago
 
 ---
 
-**[ESPN pulls use of AI images from NBA Finals coverage after getting cooked by internet](https://www.foxnews.com/outkick-sports/espn-pulls-use-ai-images-nba-finals-coverage-getting-cooked-internet-)**
+**[Google's 4-Pronged AI Strategy Could Help it Leapfrog Nvidia to Become the World's Most Valuable Company](https://finance.yahoo.com/markets/stocks/articles/googles-4-pronged-ai-strategy-071500533.html)**
 
-ESPN benched its AI-generated moving portraits after backlash during the NBA Finals, with fans criticizing distorted images of Tony Parker and others.
+The company's full-stack AI strategy is beginning to pay off,
 
-Fox News • 38m ago
+Yahoo Finance • 35m ago
 
 ---
 
@@ -179,13 +181,13 @@ Fox News • 38m ago
 
 A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.
 
-OpenAI • 6h ago
+OpenAI • 10h ago
 
 ---
 
 **[MLB 2026: What makes Padres closer Mason Miller so hard to hit](https://www.espn.com/mlb/story/_/id/48975512/mlb-2026-mason-miller-san-diego-padres-closer-ai)**
 
-ESPN • 16h ago
+ESPN • 20h ago
 
 ---
 
@@ -197,23 +199,7 @@ ESPN • 16h ago
 
 Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn't have two-factor authentication.
 
-⬆️ 703 • 💬 262 • 2d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
-
----
-
-**[Siri AI](https://news.ycombinator.com/item?id=48449084)**
-
-Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
-
-⬆️ 452 • 💬 396 • 9h ago • [Apple](https://www.apple.com/apple-intelligence/)
-
----
-
-**[AI is slowing down](https://news.ycombinator.com/item?id=48446893)**
-
-If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
-
-⬆️ 436 • 💬 456 • 11h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
+⬆️ 703 • 💬 263 • 2d ago • [~this week in security~](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
@@ -221,13 +207,23 @@ If you liked this piece, you should subscribe to my premium newsletter. It’s $
 
 Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.
 
-⬆️ 401 • 💬 343 • 8h ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+⬆️ 544 • 💬 422 • 12h ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 
 ---
 
-**[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
+**[Siri AI](https://news.ycombinator.com/item?id=48449084)**
 
-⬆️ 233 • 💬 106 • 2d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
+
+⬆️ 542 • 💬 495 • 13h ago • [Apple](https://www.apple.com/apple-intelligence/)
+
+---
+
+**[AI is slowing down](https://news.ycombinator.com/item?id=48446893)**
+
+If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
+
+⬆️ 510 • 💬 536 • 16h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
 
 ---
 
@@ -235,13 +231,19 @@ Apple today announced a major overhaul of its Apple Intelligence platform, revea
 
 Run AI models in your app on Apple silicon.
 
-⬆️ 216 • 💬 46 • 8h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/coreai/)
+⬆️ 271 • 💬 69 • 13h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/coreai/)
 
 ---
 
 **[Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)**
 
-⬆️ 176 • 💬 313 • 9h ago
+⬆️ 268 • 💬 445 • 13h ago
+
+---
+
+**[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
+
+⬆️ 233 • 💬 106 • 2d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 
 ---
 
@@ -277,7 +279,17 @@ PAPERCLIP HEART is a short AI film about the AI Takeover. Framed around a the la
 
 📺 Theoretically Media
 
-👁️ 4K • 👍 460 • 💬 214 • ⏱️ 8:19 • 9h ago
+👁️ 5K • 👍 525 • 💬 235 • ⏱️ 8:19 • 14h ago
+
+---
+
+**[Apple was LATE on AI… It was Worth the Wait - WWDC &#39;26](https://www.youtube.com/watch?v=ydAqOAL2Bec)**
+
+Get 20% off DeleteMe consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout, ...
+
+📺 Linus Tech Tips
+
+👁️ 24K • 👍 2K • 💬 244 • ⏱️ 13:24 • 1h ago
 
 ---
 
@@ -287,7 +299,7 @@ The AI billionaires are changing their tone. After years of promising disruption
 
 📺 House of El - AI
 
-👁️ 121K • 👍 11K • 💬 3K • ⏱️ 20:02 • 14h ago
+👁️ 133K • 👍 12K • 💬 3K • ⏱️ 20:02 • 18h ago
 
 ---
 
@@ -297,27 +309,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 10K • 💬 7 • ⏱️ 16:45 • 13h ago
-
----
-
-**[The $1 Trillion AI Crash Just Started](https://www.youtube.com/watch?v=3veJfsXS1Ks)**
-
-MY PATREON – My Portfolio, My Trades, Deep Dives, Q&A, Community: https://www.patreon.com/jerryromine FREE: The ...
-
-📺 Jerry Romine Stocks
-
-👁️ 32K • 👍 2K • 💬 406 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Why Building AI Data Centres Isn’t Working Anymore](https://www.youtube.com/watch?v=eXXwN_TDdLU)**
-
-You can sign up to Revolut at: https://get.revolut.com/z4lF/coldfusion, use your card once, and get AU$40 (or your currency ...
-
-📺 ColdFusion
-
-👁️ 354K • 👍 21K • 💬 3K • ⏱️ 27:15 • 10h ago
+👁️ 10K • 💬 14 • ⏱️ 16:45 • 17h ago
 
 ---
 
@@ -327,17 +319,37 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 102K • 👍 3K • 💬 501 • ⏱️ 10:05 • 1d ago
+👁️ 104K • 👍 3K • 💬 508 • ⏱️ 10:05 • 1d ago
 
 ---
 
-**[WWDC 2026 - Siri AI Impressions!](https://www.youtube.com/watch?v=c6HGJJabr_4)**
+**[Why Building AI Data Centres Isn’t Working Anymore](https://www.youtube.com/watch?v=eXXwN_TDdLU)**
 
-Apple WWDC Impressions - Siri AI is....Interesting. They can't harm you, if they can't find you! Use code BOSS at the link below ...
+You can sign up to Revolut at: https://get.revolut.com/z4lF/coldfusion, use your card once, and get AU$40 (or your currency ...
 
-📺 Mrwhosetheboss
+📺 ColdFusion
 
-👁️ 122K • 👍 10K • 💬 1K • ⏱️ 14:47 • 1h ago
+👁️ 454K • 👍 26K • 💬 3K • ⏱️ 27:15 • 14h ago
+
+---
+
+**[I Just Used Claude AI To Make $10,025 in 24 Hours](https://www.youtube.com/watch?v=KiSoM5OzFVw)**
+
+AI tools are creating opportunities faster than most people can keep up with. In this video, I break down how I used Claude AI to ...
+
+📺 Ac Hampton
+
+👁️ 15K • 👍 901 • 💬 42 • ⏱️ 11:41 • 15h ago
+
+---
+
+**[Apple Unveils New AI Platform and Siri Upgrades](https://www.youtube.com/watch?v=IpNtMXaz128)**
+
+Apple Inc. unveiled the next generation of its artificial intelligence platform, including an update to its Siri digital assistant, part of a ...
+
+📺 Bloomberg Television
+
+👁️ 14K • 👍 130 • 💬 12 • ⏱️ 3:24 • 13h ago
 
 ---
 
@@ -347,27 +359,17 @@ Why doesn't someone develop an AI blocker right now? Privacy concerns, scale, an
 
 📺 Jeremy Carrasco
 
-👁️ 8K • 👍 2K • 💬 70 • ⏱️ 1:33 • 2h ago
+👁️ 21K • 👍 4K • 💬 125 • ⏱️ 1:33 • 6h ago
 
 ---
 
-**[WWDC 2026: Everything Apple Announced! (New Siri AI &amp; iOS 27)](https://www.youtube.com/watch?v=wpBgdV0hx0w)**
+**[Emerging Situation: Anthropic&#39;s Global Pause, Recursive Self-Improvement, and AI Personhood Arrives](https://www.youtube.com/watch?v=P2HJEz3oqLs)**
 
-Apple just wrapped WWDC 2026 and Siri finally got the upgrade we've been waiting years for. In this full recap I break down ...
+In this episode, the mates discuss Anthropic's recursive self-improvement and recent admission. Get access to metatrends 10+ ...
 
-📺 MacRumors
+📺 Peter H. Diamandis
 
-👁️ 33K • 👍 1K • 💬 174 • ⏱️ 10:08 • 4h ago
-
----
-
-**[The hackers were able to ‘MANIPULATE’ the AI platform, says cybersecurity expert](https://www.youtube.com/watch?v=pxF-bUHBk1M)**
-
-Cybersecurity and privacy attorney Leeza Garber discusses how hackers used Meta's A.I. chatbot to breach prominent social ...
-
-📺 Fox News
-
-👁️ 26K • 👍 508 • 💬 221 • ⏱️ 4:44 • 1d ago
+👁️ 56K • 👍 2K • 💬 452 • ⏱️ 1:07:18 • 13h ago
 
 ---
 
@@ -383,7 +385,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 121,594 • ❤️ 1,631 • 7h ago
+⬇️ 121,594 • ❤️ 1,646 • 11h ago
 
 ---
 
@@ -395,7 +397,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 554,173 • ❤️ 754 • 4d ago
+⬇️ 554,173 • ❤️ 762 • 4d ago
 
 ---
 
@@ -407,7 +409,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 645,263 • ❤️ 504 • 1d ago
+⬇️ 645,263 • ❤️ 510 • 1d ago
 
 ---
 
@@ -419,7 +421,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 117,509 • ❤️ 454 • 4d ago
+⬇️ 117,509 • ❤️ 460 • 4d ago
 
 ---
 
@@ -431,7 +433,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 5,495 • ❤️ 396 • 5d ago
+⬇️ 5,495 • ❤️ 407 • 5d ago
 
 ---
 
@@ -443,7 +445,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 163,953 • ❤️ 728 • 18d ago
+⬇️ 163,953 • ❤️ 729 • 19d ago
 
 ---
 
@@ -455,7 +457,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 3,036,465 • ❤️ 1,556 • 1mo ago
+⬇️ 3,036,465 • ❤️ 1,567 • 1mo ago
 
 ---
 
@@ -467,19 +469,7 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 4,963 • ❤️ 265 • 4d ago
-
----
-
-**[higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)**
-
-*Boson AI*
-
-Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model supporting over 100 languages with zero-shot voice cloning. It offers fine-grained control over speech characteristics like emotion, style, and prosody via inline tokens, making it suitable for expressive conversational AI and voice agents.
-
-`text-to-speech` `4.7B`
-
-⬇️ 15,005 • ❤️ 252 • 4d ago
+⬇️ 4,963 • ❤️ 271 • 4d ago
 
 ---
 
@@ -491,7 +481,19 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 3,957 • ❤️ 296 • 3d ago
+⬇️ 3,957 • ❤️ 303 • 3d ago
+
+---
+
+**[higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)**
+
+*Boson AI*
+
+Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model supporting over 100 languages with zero-shot voice cloning. It offers fine-grained control over speech characteristics like emotion, style, and prosody via inline tokens, making it suitable for expressive conversational AI and voice agents.
+
+`text-to-speech` `4.7B`
+
+⬇️ 15,005 • ❤️ 257 • 4d ago
 
 ---
 
@@ -519,7 +521,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 15 • 💬 1 • ⭐ 81,467 • 7d ago
+▲ 15 • 💬 1 • ⭐ 81,519 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -547,7 +549,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 221 • 💬 3 • ⭐ 5,460 • 18d ago
+▲ 222 • 💬 3 • ⭐ 5,460 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -561,7 +563,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 103 • 💬 1 • ⭐ 9,730 • 8d ago
+▲ 104 • 💬 1 • ⭐ 9,730 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -598,7 +600,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 165 • 💬 2 • ⭐ 66,885 • 8mo ago
+▲ 165 • 💬 2 • ⭐ 66,942 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -611,7 +613,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 80 • 💬 7 • ⭐ 76,261 • 22mo ago
+▲ 80 • 💬 7 • ⭐ 76,281 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -639,7 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 64.0k • 🔱 7.8k • 1h ago
+⭐ 64.3k • 🔱 7.9k • 1h ago
 
 ---
 
@@ -649,7 +651,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.4k • 🔱 628 • 6d ago
+⭐ 6.4k • 🔱 630 • 7d ago
 
 ---
 
@@ -657,7 +659,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.7k • 🔱 757 • 5d ago
+⭐ 3.7k • 🔱 759 • 5d ago
 
 ---
 
@@ -667,17 +669,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.2k • 🔱 329 • 3d ago
-
----
-
-**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
-
-Task-oriented AI Agent productivity platform
-
-`TypeScript`
-
-⭐ 3.1k • 🔱 326 • 15h ago
+⭐ 3.3k • 🔱 330 • 3d ago
 
 ---
 
@@ -687,7 +679,17 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 260 • 26m ago
+⭐ 3.1k • 🔱 269 • 4h ago
+
+---
+
+**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
+
+Task-oriented AI Agent productivity platform
+
+`TypeScript`
+
+⭐ 3.1k • 🔱 327 • 4h ago
 
 ---
 
@@ -697,7 +699,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.3k • 🔱 264 • 20h ago
+⭐ 2.4k • 🔱 268 • 1d ago
 
 ---
 
@@ -707,7 +709,7 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 `Rust` `ai-agents` `copy-on-write` `kvm` `microvm` `rust`
 
-⭐ 1.9k • 🔱 150 • 1d ago
+⭐ 2.0k • 🔱 151 • 1d ago
 
 ---
 
@@ -717,7 +719,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 1.8k • 🔱 172 • 13m ago
+⭐ 1.8k • 🔱 172 • 4h ago
 
 ---
 

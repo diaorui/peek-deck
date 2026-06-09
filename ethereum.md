@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-09T03:35:39.269312+00:00'
+updated: '2026-06-09T07:50:47.341082+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 03:35 UTC  
+**Last Updated:** June 09, 2026 at 07:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,669.63
+### $1,678.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -8.3%  
-**30d:** -28.9%  
-**90d:** -19.7%  
-**1y:** -40.9%  
+**24h:** +1.2%  
+**7d:** -7.4%  
+**30d:** -28.2%  
+**90d:** -19.0%  
+**1y:** -40.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.21B
+**Market Cap:** $202.76B
 Rank #2
 
 **Circulating Supply:** 120,684,430 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-66.1%
 
 **All-Time Low:** $0.43
-+384438.3%
++387692.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion June 09, 2026](https://www.reddit.com/r/ethereum/comments/1u0vguk/daily_general_discussion_june_09_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2h ago
+
+---
+
 **[Would anybody be willing to explain in simple terms how this works - getting paid by a website via an Ethereum wallet?](https://www.reddit.com/r/ethereum/comments/1u0hxza/would_anybody_be_willing_to_explain_in_simple/)**
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-8h ago
+12h ago
 
 ---
 
@@ -80,7 +88,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
 
-8h ago
+12h ago
 
 ---
 
@@ -104,7 +112,7 @@ Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,15 +142,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
-
----
-
-**[Ethereal news weekly #26 | Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched](https://www.reddit.com/r/ethereum/comments/1txf938/ethereal_news_weekly_26_justin_drake_qday_odds_10/)**
-
-Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glamsterdam-devnet-5 launched
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-26/) • 3d ago
+4d ago
 
 ---
 
@@ -150,27 +150,19 @@ Justin Drake qday odds: 10% by 2030 & 50% by 2032, Aave rsETH post mortem, glams
 
 ## Google News: "ethereum"
 
-**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
-
-The largest ethereum treasury firm acquired 126,971 tokens last week....
-
-Sherwood News • 12h ago
-
----
-
 **[Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says](https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says)**
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 1d ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even As Michael Saylor's Strategy Inc Resumes Buying BTC: Analyst Says 'Buy' The ETH Dip](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-014849347.html)**
+**[Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-dip-151837018.html)**
 
-Leading cryptocurrencies dipped, while major stock indexes closed higher on Monday as investors pinned hopes on a lasting ceasefire in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:10 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.04%$62,642.55Ethereum (CRYPTO: ETH) -1.74%$1,662.25XRP (CRYPTO: XRP) -0.49%$1.15Solana (CRYPTO: SOL) -1.37%$65.52Dogecoin (CRYPTO: DOGE) -1.37%$0.08489 Crypto Market Stagnates Bitcoin wobbled in the area between $62,000 and $64,000, while trading volume dipped
+Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -178,15 +170,23 @@ Yahoo Finance • 1h ago
 
 Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
 
-The Block • 14h ago
+The Block • 18h ago
 
 ---
 
-**[Tom Lee is sitting on nearly $9B in losses as ethereum slides lower](https://finance.yahoo.com/video/tom-lee-sitting-nearly-9b-180000024.html)**
+**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
 
-Scott Melker discusses how Bitmine chairman Tom Lee is reportedly sitting on $9 billion in unrealized ethereum (ETH-USD) losses as the crypto asset has slid below $1,600. Lee currently owns 4.4% of all ethereum tokens. "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+The largest ethereum treasury firm acquired 126,971 tokens last week....
 
-Yahoo Finance • 2d ago
+Sherwood News • 16h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Nears Binance Listing as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-binance-listing-as-ethereum-price-prediction-targets-10-000-1036233913)**
+
+MONACO, June  08, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the project’s exchange debut moves closer and Binance...
+
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -194,15 +194,7 @@ Yahoo Finance • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
-
----
-
-**[UNDP Brings Ethereum, Cardano, and Stellar Together to Explore Blockchain for Public Good](https://coinpedia.org/news/undp-brings-ethereum-cardano-and-stellar-together-to-explore-blockchain-for-public-good/)**
-
-The United Nations Development Programme (UNDP) has launched a new Blockchain Advisory Group that brings together 26 organizations, including the Ethereum
-
-Coinpedia • 16h ago
+Fortune • 18h ago
 
 ---
 
@@ -210,7 +202,7 @@ Coinpedia • 16h ago
 
 Discover who founded Ethereum. Learn about Vitalik Buterin, all 8 original co-founders, their vision, and how to secure your ETH today.
 
-Ledger • 16h ago
+Ledger • 21h ago
 
 ---
 
@@ -218,7 +210,15 @@ Ledger • 16h ago
 
 Russia's central bank limits retail investors to Bitcoin, Ethereum, and USDT starting July 2026, with a $4,000 annual cap and mandatory risk testing.
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 21h ago
+
+---
+
+**[UNDP Brings Ethereum, Cardano, and Stellar Together to Explore Blockchain for Public Good](https://coinpedia.org/news/undp-brings-ethereum-cardano-and-stellar-together-to-explore-blockchain-for-public-good/)**
+
+The United Nations Development Programme (UNDP) has launched a new Blockchain Advisory Group that brings together 26 organizations, including the Ethereum
+
+Coinpedia • 20h ago
 
 ---
 
@@ -240,17 +240,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 757 • 💬 73 • ⏱️ 16:49 • 1d ago
-
----
-
-**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
-
-What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
-
-📺 Binance
-
-👁️ 3K • 👍 180 • 💬 97 • ⏱️ 5:46 • 10h ago
+👁️ 22K • 👍 771 • 💬 72 • ⏱️ 16:49 • 1d ago
 
 ---
 
@@ -260,7 +250,27 @@ Here are the latest news affecting bitcoin, ethereum and all markets globally. I
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 370 • 💬 121 • ⏱️ 8:10 • 16h ago
+👁️ 10K • 👍 384 • 💬 114 • ⏱️ 8:10 • 20h ago
+
+---
+
+**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
+
+What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
+
+📺 Binance
+
+👁️ 5K • 👍 209 • 💬 94 • ⏱️ 5:46 • 14h ago
+
+---
+
+**[BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=s9azVCatNr4)**
+
+BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 656 • 👍 62 • 💬 30 • ⏱️ 19:32 • 34m ago
 
 ---
 
@@ -270,17 +280,7 @@ DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated
 
 📺 The Rollup
 
-👁️ 729 • 👍 31 • 💬 1 • ⏱️ 38:13 • 4h ago
-
----
-
-**[The Crypto Mistake That Costs People Everything (Bitcoin PulseChain HEX Ethereum)](https://www.youtube.com/watch?v=VBNgFlkM4Uc)**
-
-public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
-
-📺 Crypto Coffee
-
-👁️ 175 • 👍 41 • 💬 33 • ⏱️ 19:38 • 1h ago
+👁️ 2K • 👍 57 • 💬 4 • ⏱️ 38:13 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 3K • 👍 94 • 💬 43 • ⏱️ 16:40 • 1d ago
+👁️ 3K • 👍 95 • 💬 43 • ⏱️ 16:40 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ Bitcoin and Ethereum are the two giants of crypto, but they play totally differe
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 708 • 💬 99 • ⏱️ 21:23 • 2d ago
+👁️ 20K • 👍 714 • 💬 103 • ⏱️ 21:23 • 2d ago
 
 ---
 
@@ -310,7 +310,17 @@ In today's video, Chief Market Strategist Gareth Soloway dives deep into the rec
 
 📺 Gareth Soloway
 
-👁️ 90K • 👍 5K • 💬 368 • ⏱️ 15:17 • 1d ago
+👁️ 91K • 👍 5K • 💬 376 • ⏱️ 15:17 • 1d ago
+
+---
+
+**[Ethereum Inflation Reduction Incoming!🚀INTERVIEW](https://www.youtube.com/watch?v=ca6Sk_zptyM)**
+
+Join us for an in-depth conversation with Jerome de Tychey as he breaks down the latest proposal aimed at reducing Ethereum's ...
+
+📺 Paul Barron Network
+
+👁️ 33K • 👍 1K • 💬 97 • ⏱️ 21:26 • 2d ago
 
 ---
 
@@ -320,17 +330,7 @@ XRP just hit $400 million in tokenized real-world assets twice as fast as Ethere
 
 📺 Cheeky Crypto
 
-👁️ 16K • 👍 876 • 💬 62 • ⏱️ 23:26 • 19h ago
-
----
-
-**[WILL ETHEREUM CRASH AGAIN THIS WEEK?🚨](https://www.youtube.com/watch?v=6V9rtI1CWuM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 443 • 👍 12 • 💬 26 • ⏱️ 4:44 • 18h ago
+👁️ 17K • 👍 895 • 💬 62 • ⏱️ 23:26 • 23h ago
 
 ---
 

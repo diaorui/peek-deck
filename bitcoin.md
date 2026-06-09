@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-09T03:35:39.264046+00:00'
+updated: '2026-06-09T07:50:47.335682+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 03:35 UTC  
+**Last Updated:** June 09, 2026 at 07:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,823.94
+### $63,385.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -2.3%  
-**30d:** -23.3%  
-**90d:** -11.0%  
-**1y:** -43.1%  
+**24h:** +0.1%  
+**7d:** -1.5%  
+**30d:** -22.7%  
+**90d:** -10.4%  
+**1y:** -42.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1257.91B
+**Market Cap:** $1265.81B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--50.3%
+-49.9%
 
 **All-Time Low:** $67.81
-+92373.1%
++93027.9%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 The last time BTC was at $62,000 or so was back in 2021. In Oct. 2025, I would've done anything to go back in time and buy BTC at that price. Now, we are at that price point! So, isn't it a good time to buy?
 
-2h ago
-
----
-
-**[The bitcoin 4 year cycle trick](https://www.reddit.com/r/Bitcoin/comments/1u02g0r/the_bitcoin_4_year_cycle_trick/)**
-
-I think a lot of people will regret not buying btc at this levels because they are waiting for lower prices or the 4 year cycle logic If everyone is waiting to buy $BTC on October 5 2026, that means a lot of you ll be front run Just DCA and chill Have a nice week people
-
-18h ago
+6h ago
 
 ---
 
@@ -97,43 +89,13 @@ I think a lot of people will regret not buying btc at this levels because they a
 
 I’m going to buy some and it always drops when I do.
 
-3h ago
+7h ago
 
 ---
 
-**[Got a new tool cart from another electrician who owns 8 btc. Its a sign for me to start buying!](https://www.reddit.com/r/Bitcoin/comments/1u0eew3/got_a_new_tool_cart_from_another_electrician_who/)**
+**[The bitcoin 4 year cycle trick](https://www.reddit.com/r/Bitcoin/comments/1u02g0r/the_bitcoin_4_year_cycle_trick/)**
 
-10h ago
-
----
-
-**[Does anyone else feel like 100k is the new average or new normal?](https://www.reddit.com/r/Bitcoin/comments/1u0h2h2/does_anyone_else_feel_like_100k_is_the_new/)**
-
-We first reached $100k in late 2024, a year and a half ago. Since then we spent a total of 260 days above $100k which is close to 9 months. Now we are back below $100k and have been below $100k for around 7 months. Humans love round numbers and now that we have spent time both above and below $100k it is starting to feel like a magnet. Almost like $100k is not expensive but its also not cheap, it is just about right in terms of fair value. Who knows, maybe we bounce above and below $100k for a long time to come given that the higher bitcoins market cap gets the slower it moves.
-
-8h ago
-
----
-
-**["The 4-year cycle trick doesn't work" Ok my friend I bought the low of last cycle in 2022! So...](https://www.reddit.com/r/Bitcoin/comments/1u0oyo1/the_4year_cycle_trick_doesnt_work_ok_my_friend_i/)**
-
-Running a DCA all the time = Shit-averaging your investment. 💩😰 (more fees, more slippage) Running a DCA at the bottom of the cycle = Efficient investment averaging 👔💎(more ROI)
-
-3h ago
-
----
-
-**[Sold the AP to buy the dip, got a nicer one instead](https://www.reddit.com/r/Bitcoin/comments/1u0ggox/sold_the_ap_to_buy_the_dip_got_a_nicer_one_instead/)**
-
-Couldn't fade the bear market discounts so sold the watch collection and bought this banger instead
-
-9h ago
-
----
-
-**[Bitcoin is $250,000 in 2 to 3 years. Wonder why these people are selling at $60k?](https://www.reddit.com/r/Bitcoin/comments/1tzxzc5/bitcoin_is_250000_in_2_to_3_years_wonder_why/)**
-
-You shoulld be buying. Does not matter what price. Go back in 2 to 3 years (2028-2029) Institutions have been accumulating MSTR and at highest level now. They know something.. https://preview.redd.it/v4xgz06i166h1.png?width=2464&format=png&auto=webp&s=a69a0adfa2f965e25794f6723e771e533a27e0af
+I think a lot of people will regret not buying btc at this levels because they are waiting for lower prices or the 4 year cycle logic If everyone is waiting to buy $BTC on October 5 2026, that means a lot of you ll be front run Just DCA and chill Have a nice week people
 
 22h ago
 
@@ -143,13 +105,49 @@ You shoulld be buying. Does not matter what price. Go back in 2 to 3 years (2028
 
 This is the true opportunity everyone it's waiting for If you keep buying now around ~60K When BTC hit again 120K Our returns will be 100% of the initial investment But... ¿Do you have enough guts to hold BTC for years, without selling?
 
-1h ago
+6h ago
 
 ---
 
-**[Patience.](https://www.reddit.com/r/Bitcoin/comments/1u0kcp7/patience/)**
+**[Got a new tool cart from another electrician who owns 8 btc. Its a sign for me to start buying!](https://www.reddit.com/r/Bitcoin/comments/1u0eew3/got_a_new_tool_cart_from_another_electrician_who/)**
 
-We’re down about 50% from the October highs, and my feed is packed with fear, doom, and “Bitcoin is dead” posts. So let’s zoom out for a second. Bitcoin is not going to zero. Why? Because as long as even one person somewhere in the world values it, they’ll trade something for it. Something that was worth pennies 16 years ago is sitting around $60,000 today… after being cut in half. Name another asset that can drop 50% and still be up that much over its lifetime. This is what Bitcoin does. It doesn’t move in a straight line. It climbs in violent, gut-wrenching waves with brutal pullbacks in between. Every major correction has felt like the end of the world while it was happening. Every single one. And yet here we are. The part critics never seem to address is this: Bitcoin’s supply gets tighter over time, while the supply of dollars keeps expanding. Every four years, Bitcoin’s issuance gets cut in half on a predetermined schedule, all the way toward its hard cap of 21 million coins. Fiat currencies work the opposite way. More gets created whenever policymakers decide it’s necessary. That’s not a conspiracy; it’s simply how the system is designed. Over time, assets with limited supply tend to rise relative to currencies that are continually being expanded. We’ve seen that play out in real estate, stocks, and many other scarce assets for decades. So no, the daily price action isn’t the story. Short-term markets are driven by emotions, headlines, liquidity, and uncertainty. Sometimes that sends prices higher. Sometimes it sends them lower. That’s the noise. The bigger picture is much simpler: a scarce asset, growing adoption over time, and a currency system that continues to expand. Zoom out. The long-term trend is what matters.
+14h ago
+
+---
+
+**["The 4-year cycle trick doesn't work" Ok my friend I bought the low of last cycle in 2022! So...](https://www.reddit.com/r/Bitcoin/comments/1u0oyo1/the_4year_cycle_trick_doesnt_work_ok_my_friend_i/)**
+
+Running a DCA all the time = Shit-averaging your investment. 💩😰 (more fees, more slippage) Running a DCA at the bottom of the cycle = Efficient investment averaging 👔💎(more ROI)
+
+7h ago
+
+---
+
+**[Does anyone else feel like 100k is the new average or new normal?](https://www.reddit.com/r/Bitcoin/comments/1u0h2h2/does_anyone_else_feel_like_100k_is_the_new/)**
+
+We first reached $100k in late 2024, a year and a half ago. Since then we spent a total of 260 days above $100k which is close to 9 months. Now we are back below $100k and have been below $100k for around 7 months. Humans love round numbers and now that we have spent time both above and below $100k it is starting to feel like a magnet. Almost like $100k is not expensive but its also not cheap, it is just about right in terms of fair value. Who knows, maybe we bounce above and below $100k for a long time to come given that the higher bitcoins market cap gets the slower it moves.
+
+12h ago
+
+---
+
+**[Sold the AP to buy the dip, got a nicer one instead](https://www.reddit.com/r/Bitcoin/comments/1u0ggox/sold_the_ap_to_buy_the_dip_got_a_nicer_one_instead/)**
+
+Couldn't fade the bear market discounts so sold the watch collection and bought this banger instead
+
+13h ago
+
+---
+
+**[Bitcoin is $250,000 in 2 to 3 years. Wonder why these people are selling at $60k?](https://www.reddit.com/r/Bitcoin/comments/1tzxzc5/bitcoin_is_250000_in_2_to_3_years_wonder_why/)**
+
+You shoulld be buying. Does not matter what price. Go back in 2 to 3 years (2028-2029) Institutions have been accumulating MSTR and at highest level now. They know something.. https://preview.redd.it/v4xgz06i166h1.png?width=2464&format=png&auto=webp&s=a69a0adfa2f965e25794f6723e771e533a27e0af
+
+1d ago
+
+---
+
+**[First goal reached .2 next](https://www.reddit.com/r/Bitcoin/comments/1u0ria5/first_goal_reached_2_next/)**
 
 6h ago
 
@@ -161,7 +159,7 @@ We’re down about 50% from the October highs, and my feed is packed with fear, 
 
 **[Bitcoin’s $235 Billion Crash Masks a Bigger Shift Across Crypto](https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto)**
 
-Bloomberg • 11h ago
+Bloomberg • 10h ago
 
 ---
 
@@ -173,65 +171,67 @@ Scott Melker discusses Strategy (MSTR) co-founder and executive chairman announc
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Institutions Are Running From Bitcoin — Ark's Cathie Wood Remains Bullish: An Upside Target of $1.25 Million In Five Years, She Predicts](https://finance.yahoo.com/markets/crypto/articles/institutions-running-bitcoin-arks-cathie-020110889.html)**
+**[Bitcoin in trouble if it doesn't recover by Q4, currently still in 'classic mid-cycle' bear market](https://www.cnbc.com/video/2026/06/09/bitcoin-in-trouble-if-it-doesnt-recover-by-q4-lucy-gazmararian.html)**
 
-Ark Invest CEO Cathie Wood is not deterred by the recent volatility in Bitcoin, which she believes could hit a price of $1.25 million per coin over the next five years. Despite recent institutional selling, Wood stated her bullish case...
+Lucy Gazmararian, Founder and Managing Partner of Token Bay Capital, discusses the recent drop in bitcoin prices and why she believes it is characteristic of the classic cyclical bear phase rather than indicative of a structural breakdown. She also addresses the surge of investment sentiment in AI considering the upcoming Anthropic IPO and explains why this demand is separate from core crypto‑native capital.
 
-Yahoo Finance • 1h ago
+CNBC • 34m ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even As Michael Saylor's Strategy Inc Resumes Buying BTC: Analyst Says 'Buy' The ETH Dip](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-014849347.html)**
+**[Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense](https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense)**
 
-Leading cryptocurrencies dipped, while major stock indexes closed higher on Monday as investors pinned hopes on a lasting ceasefire in the Middle East. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:10 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.04%$62,642.55Ethereum (CRYPTO: ETH) -1.74%$1,662.25XRP (CRYPTO: XRP) -0.49%$1.15Solana (CRYPTO: SOL) -1.37%$65.52Dogecoin (CRYPTO: DOGE) -1.37%$0.08489 Crypto Market Stagnates Bitcoin wobbled in the area between $62,000 and $64,000, while trading volume dipped
+Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capital rotation, as Strategy's Saylor claimed.
 
-Yahoo Finance • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[How Michael Saylor’s preferred stock gamble could trigger a death spiral for Strategy](https://fortune.com/2026/06/09/michael-saylor-strategy-math-problem-death-spiral-bitcoin-price/)**
+
+Michael Saylor leveraged Strategy to the hilt. Now the math is working against him.
+
+Fortune • 50m ago
+
+---
+
+**[Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value](https://finance.yahoo.com/markets/stocks/articles/tesla-bitcoin-hit-versus-china-221044310.html)**
+
+Tesla (NasdaqGS:TSLA) has seen a sharp decline in the value of its Bitcoin holdings following the recent cryptocurrency downturn. The company’s digital asset exposure is back in focus as investors reassess the risk profile of its crypto strategy. At the same time, Tesla reported around 40% sales growth in China for May, highlighting stronger activity in a key market. Tesla is also expanding the rollout of its Full Self-Driving (FSD) software in China, one of its most important international...
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Mapping the Market: Bitcoin teetering on brink of further losses](https://www.reuters.com/markets/global-markets-technicals-graphic-2026-06-08/)**
 
-Reuters • 15h ago
+Reuters • 19h ago
 
 ---
 
-**[Bitcoin is cratering, but a new Wall Street crypto hype is on the rise](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)**
+**[Coinbase strategist says institutions aren't panicking about bitcoin, 'love it even more' at lower prices](https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices)**
 
-As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
+Family offices and sovereign wealth funds continue accumulating bitcoin despite the recent selloff, according to Coinbase's John D'Agostino.
 
-CNBC • 2d ago
+The Block • 13h ago
 
 ---
 
 **[Bitcoin Price Rebounds From 2-Month Low. SpaceX IPO Siphons Capital, Analyst Says.](https://www.investors.com/news/bitcoin-price-rebound-liquidations-etf-flows-spacex-ipo-capital/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 11h ago
 
 ---
 
-**[Strive (ASST) Buys 32 Bitcoin At $63,900 Average, Bringing Total Holdings To 19,032 BTC](https://bitcoinmagazine.com/news/strive-buys-32-bitcoin-at-63900-average)**
+**[How Low Can Bitcoin Go?](https://www.fool.com/investing/2026/06/08/how-low-can-bitcoin-go/)**
 
-Strive, Inc. (Nasdaq: ASST) disclosed Monday that it purchased 32 bitcoin between June 2 and June 7, 2026, at an average cost of approximately $63,911 per
+Technically speaking, Bitcoin's floor is zero, but that's unlikely to happen if history is any guide.
 
-Bitcoin Magazine • 13h ago
-
----
-
-**[Bitcoin rebounds above $63k but remains frail amid ETF outflows, Iran tensions](https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-63k-but-remains-frail-amid-etf-outflows-iran-tensions-4729814)**
-
-Investing.com • 19h ago
-
----
-
-**[Bitcoin Cut In Half (BTC-USD)](https://seekingalpha.com/article/4913104-bitcoin-cut-in-half)**
-
-While there was a small rebound in weekend trading in addition to the start of the week on Monday, Bitcoin remains one of the more notable pain trades of late.
-
-Seeking Alpha • 1h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -255,7 +255,7 @@ Nostr client with other stuff
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
-⬆️ 11 • 💬 4 • 2d ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+⬆️ 11 • 💬 4 • 3d ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
 
 ---
 
@@ -287,7 +287,15 @@ As bitcoin dropped to its lowest price since 2024, investors flock to a new type
 
 Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.
 
-⬆️ 5 • 💬 0 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
+⬆️ 5 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations)
+
+---
+
+**[Bitcoin Manga](https://news.ycombinator.com/item?id=48444900)**
+
+84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
+
+⬆️ 4 • 💬 1 • 18h ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
 
 ---
 
@@ -307,14 +315,6 @@ In the past two days, bitcoin's highest-conviction holders have sold about $2.4 
 
 ---
 
-**[MSTR sells Bitcoin for 1st time since 2022 as quantum risks emerge](https://news.ycombinator.com/item?id=48376561)**
-
-MicroStrategy sold 32 bitcoin in May, marking the first mstr stock sale of digital assets since December 2022. The company’s disclosure triggered declines in the stock, signaling investor concern over a shift in management’s blockchain strategy. Quick Facts 32 bitcoin sold for $2.5 million in May 2026 First sale since December 2022—nearly 3.5 years earlier…
-
-⬆️ 3 • 💬 2 • 6d ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,7 +325,7 @@ Anthony Pompliano breaks down why bitcoin is down 50% from its highs and whether
 
 📺 Anthony Pompliano
 
-👁️ 11K • 👍 578 • ⏱️ 13:32 • 6h ago
+👁️ 16K • 👍 722 • 💬 26 • ⏱️ 13:32 • 10h ago
 
 ---
 
@@ -335,7 +335,17 @@ Bitcoin just crashed toward $59K, fear is surging, and the market is asking the 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 160 • ⏱️ 17:44 • 6h ago
+👁️ 18K • 👍 1K • 💬 236 • ⏱️ 17:44 • 10h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 71) - 1 Million Subscriber Milestone!](https://www.youtube.com/watch?v=IOFwbuyDC78)**
+
+It is once again time for an update on our Bitcoin: The Beauty of Mathematics series! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 25K • 👍 3K • 💬 447 • ⏱️ 7:10 • 6h ago
 
 ---
 
@@ -345,7 +355,17 @@ In this episode, Ran sits down with Ben Cowen to break down Bitcoin's current ma
 
 📺 Crypto Insider
 
-👁️ 64K • 👍 4K • 💬 124 • ⏱️ 38:44 • 1d ago
+👁️ 65K • 👍 4K • 💬 125 • ⏱️ 38:44 • 1d ago
+
+---
+
+**[Bitcoin Holds While Markets Crack](https://www.youtube.com/watch?v=7e-2xU4lutc)**
+
+Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 599 • 💬 129 • ⏱️ 11:21 • 7h ago
 
 ---
 
@@ -355,7 +375,7 @@ Please hear me out ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDai
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 140 • ⏱️ 11:59 • 1d ago
+👁️ 26K • 👍 2K • 💬 142 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -365,37 +385,7 @@ The market is bouncing, but Ran believes investors should be extremely cautious.
 
 📺 Crypto Banter
 
-👁️ 25K • 👍 1K • 💬 39 • ⏱️ 31:01 • 13h ago
-
----
-
-**[Bitcoin Crash Explained: Here&#39;s What&#39;s Really Happening and What Comes Next!](https://www.youtube.com/watch?v=xYoD-Hz74sU)**
-
-Bitcoin is under pressure, the media is calling it dead, and capital is flooding into AI and space stocks. But beneath the headlines, ...
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 488 • 💬 66 • ⏱️ 12:02 • 1d ago
-
----
-
-**[Major Recovery for Bitcoin After Massive Selloff...](https://www.youtube.com/watch?v=8lR1vplZIuo)**
-
-Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 949 • 💬 173 • ⏱️ 11:37 • 1d ago
-
----
-
-**[Bitcoin just erased every dollar it gained since the election.](https://www.youtube.com/watch?v=D1nO0Lj95yY)**
-
-Bitcoin just erased every dollar it gained since the election. Worst week since FTX, and it started when the biggest holder sold.
-
-📺 Upside Invest
-
-👁️ 6K • 👍 462 • 💬 39 • ⏱️ 1:38 • 12h ago
+👁️ 27K • 👍 1K • 💬 38 • ⏱️ 31:01 • 17h ago
 
 ---
 
@@ -405,7 +395,17 @@ bitcoin #michaelsaylor #crypto #strategy #arthurhayes #bitcoinprice #investing #
 
 📺 Yahoo Finance
 
-👁️ 20K • 👍 742 • 💬 256 • ⏱️ 14:50 • 11h ago
+👁️ 22K • 👍 789 • 💬 258 • ⏱️ 14:50 • 15h ago
+
+---
+
+**[Bitcoin just erased every dollar it gained since the election.](https://www.youtube.com/watch?v=D1nO0Lj95yY)**
+
+Bitcoin just erased every dollar it gained since the election. Worst week since FTX, and it started when the biggest holder sold.
+
+📺 Upside Invest
+
+👁️ 8K • 👍 527 • 💬 41 • ⏱️ 1:38 • 16h ago
 
 ---
 
@@ -415,7 +415,7 @@ Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 911 • 💬 171 • ⏱️ 43:28 • 12h ago
+👁️ 18K • 👍 922 • 💬 171 • ⏱️ 43:28 • 17h ago
 
 ---
 

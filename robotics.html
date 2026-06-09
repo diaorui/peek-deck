@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-06-09T03:35:38.882547+00:00"
+          "dateModified": "2026-06-09T07:50:46.930178+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -750,21 +750,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u0rx4y/made_a_tool_so_i_stop_rewriting_tactile_sensor/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u0tavv/building_on_the_sunfounder_picarx_upgrading_for/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/bhu9poiob66h1.jpg?width=140&height=105&auto=webp&s=b11aa77e7ebdbd9a64abaf0cdb01d2aa24a61bf0" alt="Building on the SunFounder PiCar-X: Upgrading for SLAM & Computer Vision" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u0rx4y/made_a_tool_so_i_stop_rewriting_tactile_sensor/" target="_blank" onclick="event.stopPropagation();">Made a tool so I stop rewriting tactile sensor loaders every project</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1u0tavv/building_on_the_sunfounder_picarx_upgrading_for/" target="_blank" onclick="event.stopPropagation();">Building on the SunFounder PiCar-X: Upgrading for SLAM & Computer Vision</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            https://reddit.com/link/1u0rx4y/video/yhckg2drz56h1/player Sick of writing custom parsers every time I switch tactile sensors. Threw this together — one API, any sensor, 3 lines. Video shows the useful thing: demo: AI pre-annotate → review → export. Took me like 2 minutes. pip install tlabel import tlabel tlabel.demo() # try it right now, zero config Works with GelSight Mini, DIGIT, PaXini, Daimon. MIT, free.
+                            I've recently completed the assembly of a SunFounder PiCar-X and am currently running it on a legacy Raspberry Pi B. I have the base movement and motor control working and am currently prepping to get it chasing ArUco/AprilTags this coming week. I'm looking to evolve this platform into something capable of SLAM and eventually Structure from Motion (SfM). I'd love to get some community advice on the best way to handle these upgrades: Traction The stock wheels are quite slippery. Has anyone found direct-fit replacement tires or wheels that offer better grip on smooth indoor surfaces? Odometry Since the stock motors lack encoders, my dead reckoning is non-existent. Should I attempt to mount external encoders to these motors, or is it better to swap out the motor/gearbox assembly entirely for something with integrated feedback? IMU for SLAM I'm planning to add an accelerometer/gyroscope. Any specific sensors (such as the BNO055 vs. MPU6050) that are currently considered the "gold standard" for stability and ease of integration on a Raspberry Pi? Computer Vision The current camera resolution is limiting for SfM. Any recommendations for a higher-resolution CSI or USB camera that fits well within the PiCar's chassis? ROS 2 / Distributed Computing A specific question on the software side: I'm planning to move this platform to ROS 2. Given that I'm working with a legacy Raspberry Pi B, is this a lost cause, or should I keep the Pi as a low-level hardware node and offload the heavy ROS 2 processing, SLAM, and visualization tasks to a more powerful machine on my network? If a distributed setup is the preferred approach, what does the typical workflow look like? For example: Pi handles motor control, sensors, and camera acquisition ROS 2 nodes run on a desktop/laptop workstation Visualization and mapping performed via RViz on the workstation Communication over Wi-Fi using DDS Is this the recommended architecture, or are there better approaches for a platform like the PiCar-X? General Advice Any feedback on the hardware upgrade path, software architecture, or general "gotchas" with this kit would be greatly appreciated. Thanks in advance!
                         </div>
                         
 
@@ -773,7 +775,36 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1780970807.0"></span>
+                                    <span data-timestamp="1780974729.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u0y3sr/stainless_steel_stepper_motor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u0y3sr/stainless_steel_stepper_motor/" target="_blank" onclick="event.stopPropagation();">Stainless steel stepper motor</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780990117.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -818,41 +849,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u0tavv/building_on_the_sunfounder_picarx_upgrading_for/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/bhu9poiob66h1.jpg?width=140&height=105&auto=webp&s=b11aa77e7ebdbd9a64abaf0cdb01d2aa24a61bf0" alt="Building on the SunFounder PiCar-X: Upgrading for SLAM & Computer Vision" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u0tavv/building_on_the_sunfounder_picarx_upgrading_for/" target="_blank" onclick="event.stopPropagation();">Building on the SunFounder PiCar-X: Upgrading for SLAM & Computer Vision</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've recently completed the assembly of a SunFounder PiCar-X and am currently running it on a legacy Raspberry Pi B. I have the base movement and motor control working and am currently prepping to get it chasing ArUco/AprilTags this coming week. I'm looking to evolve this platform into something capable of SLAM and eventually Structure from Motion (SfM). I'd love to get some community advice on the best way to handle these upgrades: Traction The stock wheels are quite slippery. Has anyone found direct-fit replacement tires or wheels that offer better grip on smooth indoor surfaces? Odometry Since the stock motors lack encoders, my dead reckoning is non-existent. Should I attempt to mount external encoders to these motors, or is it better to swap out the motor/gearbox assembly entirely for something with integrated feedback? IMU for SLAM I'm planning to add an accelerometer/gyroscope. Any specific sensors (such as the BNO055 vs. MPU6050) that are currently considered the "gold standard" for stability and ease of integration on a Raspberry Pi? Computer Vision The current camera resolution is limiting for SfM. Any recommendations for a higher-resolution CSI or USB camera that fits well within the PiCar's chassis? ROS 2 / Distributed Computing A specific question on the software side: I'm planning to move this platform to ROS 2. Given that I'm working with a legacy Raspberry Pi B, is this a lost cause, or should I keep the Pi as a low-level hardware node and offload the heavy ROS 2 processing, SLAM, and visualization tasks to a more powerful machine on my network? If a distributed setup is the preferred approach, what does the typical workflow look like? For example: Pi handles motor control, sensors, and camera acquisition ROS 2 nodes run on a desktop/laptop workstation Visualization and mapping performed via RViz on the workstation Communication over Wi-Fi using DDS Is this the recommended architecture, or are there better approaches for a platform like the PiCar-X? General Advice Any feedback on the hardware upgrade path, software architecture, or general "gotchas" with this kit would be greatly appreciated. Thanks in advance!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780974729.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1tzwkwi/robotic_underwater_exploration_game_prototype/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -879,6 +875,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1780889573.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u0rx4y/made_a_tool_so_i_stop_rewriting_tactile_sensor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u0rx4y/made_a_tool_so_i_stop_rewriting_tactile_sensor/" target="_blank" onclick="event.stopPropagation();">Made a tool so I stop rewriting tactile sensor loaders every project</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            https://reddit.com/link/1u0rx4y/video/yhckg2drz56h1/player Sick of writing custom parsers every time I switch tactile sensors. Threw this together — one API, any sensor, 3 lines. Video shows the useful thing: demo: AI pre-annotate → review → export. Took me like 2 minutes. pip install tlabel import tlabel tlabel.demo() # try it right now, zero config Works with GelSight Mini, DIGIT, PaXini, Daimon. MIT, free.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1780970807.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -919,37 +948,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u06fbw/pointtopoint_autonomous_navigation/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Yjg5aDU1ZTZ5MTZoMeFv0-nZ5kUdw9liS2U48ZrT5L8gCwH2xS_z1f5XmySH.png?width=320&crop=smart&auto=webp&s=df92526d78150fdb2502c339edf05194fbb9b76b" alt="Point-to-point autonomous navigation" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u06fbw/pointtopoint_autonomous_navigation/" target="_blank" onclick="event.stopPropagation();">Point-to-point autonomous navigation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1780921596.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -973,7 +971,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-09T03:35:22.015409+00:00">Updated 2026-06-09T03:35:22.015409+00:00</small>
+        <small data-timestamp="2026-06-09T07:50:25.662826+00:00">Updated 2026-06-09T07:50:25.662826+00:00</small>
     </div>
 </div>
 
@@ -1159,6 +1157,47 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/robot-com-ceo-automation-kiwibot-delivery-robots-humanoids-future-labor-2026-6', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a2357ceb4fb977f35985138?width=1200&format=jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.businessinsider.com/robot-com-ceo-automation-kiwibot-delivery-robots-humanoids-future-labor-2026-6" target="_blank" onclick="event.stopPropagation();">Robot.com CEO Wants to Automate the Work That Makes People Quit</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Robot.com CEO Felipe Chavez said he wants to build an ecosystem of robots that will handle boring, repetitive tasks.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780911060.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-lg-group-1920x1080-no-credit.png');"></div>
@@ -1193,43 +1232,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1780887870.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots" target="_blank" onclick="event.stopPropagation();">Nvidia CEO Jensen Huang: "No one" better with robots than Hyundai</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780963282.0"></span>
                                 </div>
                                 
                             </div>
@@ -1274,20 +1276,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/robot-com-ceo-automation-kiwibot-delivery-robots-humanoids-future-labor-2026-6', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/nvidia-robotics-physical-ai-push-021022391.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a2357ceb4fb977f35985138?width=1200&format=jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.businessinsider.com/robot-com-ceo-automation-kiwibot-delivery-robots-humanoids-future-labor-2026-6" target="_blank" onclick="event.stopPropagation();">Robot.com CEO Wants to Automate the Work That Makes People Quit</a>
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-robotics-physical-ai-push-021022391.html" target="_blank" onclick="event.stopPropagation();">NVIDIA’s Robotics And Physical AI Push What It Could Mean For Investors</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Robot.com CEO Felipe Chavez said he wants to build an ecosystem of robots that will handle boring, repetitive tasks.
+                            NVIDIA (NasdaqGS:NVDA) has launched a broad set of open-source robotics and physical AI tools. The company introduced the Isaac GR00T humanoid reference platform for next generation robots. NVIDIA also rolled out its Cosmos 3 world model to support training and simulation for AI-driven systems. The new offerings target use cases in healthcare automation, autonomous vehicles, manufacturing and industrial AI. For investors watching the shift from pure data center AI to real world...
                         </div>
                         
 
@@ -1297,9 +1299,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1307,7 +1309,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1780911060.0"></span>
+                                    <span data-timestamp="1780884600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1390,6 +1392,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1780959990.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://newatlas.com/ai-humanoids/gallery-robots-hong-kong/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://assets.newatlas.com/dims4/default/22fc7d1/2147483647/strip/true/crop/3996x2098+0+261/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F87%2F5f5a3ddc440e99c7b4b0273eeaf1%2Frobothk-25.jpg&na.image_optimisation=0');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://newatlas.com/ai-humanoids/gallery-robots-hong-kong/" target="_blank" onclick="event.stopPropagation();">We hung out with around 100 robots – and here are the bizarre highlights</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Humanoids may be winning marathons and getting factory jobs, but after spending a few days with around 100 different robots of all shapes and sizes, one thing was clear: There's a chasm separating viral demonstration video and reality.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newatlas.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="New Atlas" class="news-favicon">
+                                    <a href="https://newatlas.com" target="_blank" onclick="event.stopPropagation();">New Atlas</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1780863079.0"></span>
                                 </div>
                                 
                             </div>
@@ -1512,47 +1555,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/robot-masters-air-hockey-without-touching-table', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/06/ai-air-hockey.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/robot-masters-air-hockey-without-touching-table" target="_blank" onclick="event.stopPropagation();">Video: Robot masters air hockey, learns to beat humans without ever touching real table</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            UBC students skipped traditional physics engines to build a hyper-reactive, AI-controlled air hockey robot using soft actor-critic training.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1780832640.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1573,7 +1575,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-09T03:35:36.442837+00:00">Updated 2026-06-09T03:35:36.442837+00:00</small>
+        <small data-timestamp="2026-06-09T07:50:38.163067+00:00">Updated 2026-06-09T07:50:38.163067+00:00</small>
     </div>
 </div>
 
@@ -1898,68 +1900,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=3xBkpE2UD0M', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/3xBkpE2UD0M/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:05</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=3xBkpE2UD0M" target="_blank" onclick="event.stopPropagation();">The US Wants Unitree Robotics BANNED! #robotics #unitree #unitreeg1</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Chinese robotics leader Unitree is heading into what looks like a blockbuster summer, but it comes with growing risks that could ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/-9kCWtWeJJGztKeXkyekZhmQYaXSSt7eGi5U-a2fGjFQ7g9lYOErdg1ezyAo-OqScsOw9T2J=s88-c-k-c0x00ffffff-no-rj" alt="Kalil 4.0" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC00LYrodHro2ho2PkmhwLig" target="_blank" onclick="event.stopPropagation();">Kalil 4.0</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 578</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 21</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1780971171.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=RrbfIxpdxv0', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/RrbfIxpdxv0/hqdefault.jpg');">
@@ -1999,7 +1939,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 244K</span>
+                                    <span style="color: #9ca3af;">👁️ 253K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2019,6 +1959,68 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1780758012.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=3xBkpE2UD0M', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/3xBkpE2UD0M/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:05</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=3xBkpE2UD0M" target="_blank" onclick="event.stopPropagation();">The US Wants Unitree Robotics BANNED! #robotics #unitree #unitreeg1</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Chinese robotics leader Unitree is heading into what looks like a blockbuster summer, but it comes with growing risks that could ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/-9kCWtWeJJGztKeXkyekZhmQYaXSSt7eGi5U-a2fGjFQ7g9lYOErdg1ezyAo-OqScsOw9T2J=s88-c-k-c0x00ffffff-no-rj" alt="Kalil 4.0" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC00LYrodHro2ho2PkmhwLig" target="_blank" onclick="event.stopPropagation();">Kalil 4.0</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 841</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 25</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1780971171.0"></span>
                                 </div>
                                 
                             </div>
@@ -2131,7 +2133,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 18K</span>
+                                    <span style="color: #9ca3af;">👁️ 19K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2197,7 +2199,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 76K</span>
+                                    <span style="color: #9ca3af;">👁️ 79K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2206,7 +2208,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 152</span>
+                                    <span style="color: #9ca3af;">💬 153</span>
                                 </div>
                                 
                             </div>
@@ -2263,7 +2265,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 188K</span>
+                                    <span style="color: #9ca3af;">👁️ 195K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2279,72 +2281,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1780556340.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=o9xZRhJCB3U', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/o9xZRhJCB3U/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:19</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=o9xZRhJCB3U" target="_blank" onclick="event.stopPropagation();">Robot zipping a backpack: Autonomous dexterity challenge at ICRA 2026 #physicalai #robotics</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            One of the standouts from #ICRA2026 is the #TARS Robotics performance! The best dexterity and adaptation to a live task / new ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/kg7jGwm-sNm8XwgoETOrQhI3io3pgZYjrjtDsgDXeSvY7wwBQhPNLdiYPoXWjGUXh2dEwumr=s88-c-k-c0x00ffffff-no-rj" alt="Back to Engineering" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCA5yXa0rDsGaJFOuj6pxw1w" target="_blank" onclick="event.stopPropagation();">Back to Engineering</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 30</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1780923618.0"></span>
                                 </div>
                                 
                             </div>
@@ -2414,6 +2350,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=o9xZRhJCB3U', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/o9xZRhJCB3U/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:19</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=o9xZRhJCB3U" target="_blank" onclick="event.stopPropagation();">Robot zipping a backpack: Autonomous dexterity challenge at ICRA 2026 #physicalai #robotics</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            One of the standouts from #ICRA2026 is the #TARS Robotics performance! The best dexterity and adaptation to a live task / new ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/kg7jGwm-sNm8XwgoETOrQhI3io3pgZYjrjtDsgDXeSvY7wwBQhPNLdiYPoXWjGUXh2dEwumr=s88-c-k-c0x00ffffff-no-rj" alt="Back to Engineering" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCA5yXa0rDsGaJFOuj6pxw1w" target="_blank" onclick="event.stopPropagation();">Back to Engineering</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 8K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 44</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 4</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1780923618.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -2434,7 +2436,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-09T03:35:27.311728+00:00">Updated 2026-06-09T03:35:27.311728+00:00</small>
+        <small data-timestamp="2026-06-09T07:50:33.516528+00:00">Updated 2026-06-09T07:50:33.516528+00:00</small>
     </div>
 </div>
 
