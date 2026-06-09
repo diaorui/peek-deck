@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-09T19:14:24.800546+00:00'
+updated: '2026-06-09T21:18:01.069324+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 19:14 UTC  
+**Last Updated:** June 09, 2026 at 21:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,643.16
+### $1,659.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -9.0%  
-**30d:** -29.4%  
-**90d:** -20.3%  
-**1y:** -41.3%  
+**24h:** -2.6%  
+**7d:** -8.5%  
+**30d:** -29.1%  
+**90d:** -19.9%  
+**1y:** -41.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.23B
+**Market Cap:** $200.05B
 Rank #2
 
 **Circulating Supply:** 120,684,430 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.7%
+-66.5%
 
 **All-Time Low:** $0.43
-+380837.6%
++382629.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-1h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I've been running a solo validator for about 8 months now and want
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Circle unveiled "cirBTC", a token backed 1:1 with the world's largest cryptocurrency to allow users to utilise their bitcoin wealth in DeFi protocols.
 
-CoinDesk • 8h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ Circle Internet Financial • 1d ago
 
 These are today's bitcoin and ethereum prices, Tuesday, June 9, 2026. Bitcoin opened at $63,078.89, down 0.3% from yesterday’s opening price. Ethereum opened at $1,689.88, up 0.2% from yesterday's open.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -214,17 +214,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Crypto News: Bitcoin, Ethereum, XRP and Cardano Enter Historical Buy Zones as MVRV Turns Negative](https://www.binance.com/en/square/post/332239443761601)**
+**[Crypto News Today: MemeToro AI Agents Gain Momentum as Ethereum Price Faces Pressure](https://markets.businessinsider.com/news/stocks/crypto-news-today-memetoro-ai-agents-gain-momentum-as-ethereum-price-faces-pressure-1036235368)**
 
-Binance • 7h ago
+ZURICH, June  09, 2026  (GLOBE NEWSWIRE) -- MemeToro AI Labs, an innovative developer of decentralized artificial intelligence infrastructure, tod...
+
+markets.businessinsider.com • 7h ago
 
 ---
 
-**[Anthropic's AI Just Found a Bug That Sent Zcash Down 40% in 1 Day. Here's Why That's Bearish for Ethereum.](https://www.fool.com/investing/2026/06/09/anthropics-ai-just-found-a-bug-that-sent-zcash-dow/)**
+**[Not Bitcoin or Ethereum: These were the most popular crypto tokens in May](https://www.livemint.com/money/personal-finance/not-bitcoin-not-ethereum-these-were-the-most-popular-crypto-trades-in-may-binance-report-11781007011370.html)**
 
-Cybersecurity is now something that crypto investors must be more aware of than ever.
+In May, traders sought lesser-known tokens. While Bitcoin and Ethereum struggled, digital assets such as HYPE and BNB gained. Here's why major tokens failed to entice investors, and some tokens emerged as winners.
 
-The Motley Fool • 9h ago
+Mint • 7h ago
 
 ---
 
@@ -238,7 +240,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 171 • 💬 33 • ⏱️ 15:00 • 4h ago
+👁️ 3K • 👍 203 • 💬 38 • ⏱️ 15:00 • 6h ago
 
 ---
 
@@ -248,7 +250,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 797 • 💬 76 • ⏱️ 16:49 • 2d ago
+👁️ 23K • 👍 799 • 💬 76 • ⏱️ 16:49 • 2d ago
 
 ---
 
@@ -258,17 +260,7 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 7K • 👍 269 • 💬 17 • ⏱️ 5:46 • 1d ago
-
----
-
-**[DeFi Dad: Ethereum Will Be The Backbone of Finance (Tokenization &amp; Stablecoins)](https://www.youtube.com/watch?v=_Bpzr0AQ3gc)**
-
-DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated security feature versus HyperLiquid, why ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 109 • 💬 19 • ⏱️ 38:13 • 20h ago
+👁️ 7K • 👍 275 • 💬 20 • ⏱️ 5:46 • 1d ago
 
 ---
 
@@ -278,27 +270,7 @@ Here are the latest news affecting bitcoin, ethereum and all markets globally. I
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 409 • 💬 111 • ⏱️ 8:10 • 1d ago
-
----
-
-**[Ethereum Bottom REVEALED: This ETH Historical Pattern Triggers Massive Bull Runs](https://www.youtube.com/watch?v=WJVONw_V21I)**
-
-When will #ethereum finally bottom? In this video, I break down a historical patterns that has appeared near major Ethereum bear ...
-
-📺 Humble Market Timer
-
-👁️ 174 • 👍 3 • ⏱️ 9:34 • 6h ago
-
----
-
-**[How Low Will ETH Still Fall in 2026?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=qVrfEOF-DJo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 157 • 👍 21 • 💬 2 • ⏱️ 4:41 • 9h ago
+👁️ 11K • 👍 416 • 💬 112 • ⏱️ 8:10 • 1d ago
 
 ---
 
@@ -308,7 +280,27 @@ BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 327 • 💬 207 • ⏱️ 19:32 • 11h ago
+👁️ 7K • 👍 340 • 💬 200 • ⏱️ 19:32 • 14h ago
+
+---
+
+**[DeFi Dad: Ethereum Will Be The Backbone of Finance (Tokenization &amp; Stablecoins)](https://www.youtube.com/watch?v=_Bpzr0AQ3gc)**
+
+DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated security feature versus HyperLiquid, why ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 114 • 💬 21 • ⏱️ 38:13 • 22h ago
+
+---
+
+**[How Low Will ETH Still Fall in 2026?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=qVrfEOF-DJo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 245 • 👍 23 • 💬 2 • ⏱️ 4:41 • 11h ago
 
 ---
 
@@ -322,13 +314,23 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 ---
 
+**[Ethereum Bottom REVEALED: This ETH Historical Pattern Triggers Massive Bull Runs](https://www.youtube.com/watch?v=WJVONw_V21I)**
+
+When will #ethereum finally bottom? In this video, I break down a historical patterns that has appeared near major Ethereum bear ...
+
+📺 Humble Market Timer
+
+👁️ 174 • 👍 3 • ⏱️ 9:34 • 9h ago
+
+---
+
 **[When Ethereum DeFi Collapses, Liquidity Will Flow to ICP](https://www.youtube.com/watch?v=GWUOPs0oJ8g)**
 
 In this video, I explain why I believe Ethereum DeFi is headed for a major collapse and why that could send liquidity flowing into ...
 
 📺 Jerry Banfield ICP
 
-👁️ 846 • 👍 133 • 💬 37 • ⏱️ 5:43 • 7h ago
+👁️ 1K • 👍 146 • 💬 42 • ⏱️ 5:43 • 9h ago
 
 ---
 
