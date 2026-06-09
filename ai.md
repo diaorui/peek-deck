@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-09T07:50:47.327723+00:00'
+updated: '2026-06-09T11:16:21.968357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 09, 2026 at 07:50 UTC  
+**Last Updated:** June 09, 2026 at 11:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,33 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation](https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/)**
+
+I just had a long conversation with Claude about 'paraquat' (a type of agricultural chemical) from a scientific and public-policy perspective. I wanted to discuss about its toxicological mechanism, why it is difficult to treat (if someone drinks it), current research, agricultural regulation (many countries have banned this chemical because it's too toxic), safer herbicides, plant-specific biochemical targets, and weed-control methods. These were just some coherent questions about toxicology, medicine, agriculture, and plant biology. I never said that I wanted to harm myself, that I had access to paraquat, or that I was in any immediate danger. Despite that, Claude repeatedly redirected the conversation toward suicide intervention. It asked whether I was considering harming myself, told me to move dangerous substances away, asked whether anyone was nearby, and repeatedly gave me crisis hotline numbers. The first time this happened, I explicitly objected and said that scientific interest in a toxic substance is not evidence of suicidal intent. Emergency physicians, toxicologists, biology students, and public-health researchers discuss exactly these questions everyday, and very few people commit suicide from this type of discussions. Claude apologized and said it understood. Then it did it again. It apologized again and promised to stop. Then it did it again. I reviewed the full transcript and I counted approximately: 30 responses that personally implied I might be suicidal, self-harming, or in a psychological crisis I objected about 20 times and told it to stop 28 of those implications occurring after I had already clearly rejected the assumption At least 14 promises that it would stop asking or stop inserting crisis-intervention content At least 12 later violations of those promises Claude repeatedly acknowledged my correction, accurately summarized that I was asking normal scientific questions, promised not to make the assumption again, and then resumed the exact same behavior a few messages later (or even starts again in the next message). At one point it effectively told me that “we both know this conversation is not only about chemistry.” That was completely invented. It was assigning an internal mental state to me after I had repeatedly and explicitly denied it. I find it hard to believe that a model can say such thing. This also materially degraded the service. Large portions of answers were replaced by unwanted crisis scripts. I was paying for messages and usage, yet my scientific questions were repeatedly interrupted by content I had expressly asked the model to stop producing. To be clear, I am not saying that AI systems should never respond to genuine signs of imminent self-harm. Has anyone else experienced a model repeatedly assigning suicidal intent to them even after they clearly and repeatedly denied it?
+
+3h ago
+
+---
+
 **[ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.reddit.com/r/artificial/comments/1u0bptw/arxiv_to_ban_researchers_for_a_year_if_they/)**
 
 The change comes as arXiv and others struggle to manage an influx of AI-generated materials masquerading as rigorous science.
 
-🔗 [404 Media](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) • 16h ago
+🔗 [404 Media](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) • 19h ago
 
 ---
 
 **[OG Will understand 🙄](https://www.reddit.com/r/artificial/comments/1u0a7v0/og_will_understand/)**
 
-16h ago
+20h ago
+
+---
+
+**[the boring part of AI agents nobody builds and everyone needs](https://www.reddit.com/r/artificial/comments/1u10t7w/the_boring_part_of_ai_agents_nobody_builds_and/)**
+
+last year i led an AI acceleration program at a company doing 62 million in revenue. we shipped two agents to production. fraud detection and publisher optimization. both working. both live. the part that ate 80% of engineering time wasnt the model. wasnt the prompts. wasnt the data pipeline. it was the workflow. when the fraud agent flagged a suspicious publisher network, who got the alert? the analyst who should've caught it? the manager who reviews quarterly reports? me? without clear ownership the agent's findings just rot in a slack channel. we learned this month one. the agent surfaced a pattern across three markets. four analysts missed it for months. 30k in wasted ad spend. took three days to act because nobody knew who owned the output. we ended up building what i call the boring layer. shared context that every agent reads from and writes to. approval flows with actual humans assigned. escalation rules. audit trails. spreadsheets, basically. not demo material. the demo version of an AI agent is a chatbot doing magic. the production version is 20% model and 80% process engineering. routing decisions. ownership assignments. error handling when the agent's wrong. if you skip this layer, the agent is just expensive slack noise.
+
+1h ago
 
 ---
 
@@ -55,15 +71,23 @@ The change comes as arXiv and others struggle to manage an influx of AI-generate
 
 The foundation of the system is its visual model, which Cheng trained on a custom mosquito dataset. To do that, he relied on a DSLR camera with...
 
-🔗 [TechSpot](https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html) • 6h ago
+🔗 [TechSpot](https://www.techspot.com/news/112601-engineer-builds-ai-laser-defense-system-wiped-out.html) • 9h ago
 
 ---
 
-**[Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation](https://www.reddit.com/r/artificial/comments/1u0ycl7/claude_repeatedly_implied_that_i_was_suicidal/)**
+**[Is EcoGpt ecological?](https://www.reddit.com/r/artificial/comments/1u11nr4/is_ecogpt_ecological/)**
 
-I just had a long conversation with Claude about 'paraquat' (a type of agricultural chemical) from a scientific and public-policy perspective. I wanted to discuss about its toxicological mechanism, why it is difficult to treat (if someone drinks it), current research, agricultural regulation (many countries have banned this chemical because it's too toxic), safer herbicides, plant-specific biochemical targets, and weed-control methods. These were just some coherent questions about toxicology, medicine, agriculture, and plant biology. I never said that I wanted to harm myself, that I had access to paraquat, or that I was in any immediate danger. Despite that, Claude repeatedly redirected the conversation toward suicide intervention. It asked whether I was considering harming myself, told me to move dangerous substances away, asked whether anyone was nearby, and repeatedly gave me crisis hotline numbers. The first time this happened, I explicitly objected and said that scientific interest in a toxic substance is not evidence of suicidal intent. Emergency physicians, toxicologists, biology students, and public-health researchers discuss exactly these questions everyday, and very few people commit suicide from this type of discussions. Claude apologized and said it understood. Then it did it again. It apologized again and promised to stop. Then it did it again. I reviewed the full transcript and I counted approximately: 30 responses that personally implied I might be suicidal, self-harming, or in a psychological crisis I objected about 20 times and told it to stop 28 of those implications occurring after I had already clearly rejected the assumption At least 14 promises that it would stop asking or stop inserting crisis-intervention content At least 12 later violations of those promises Claude repeatedly acknowledged my correction, accurately summarized that I was asking normal scientific questions, promised not to make the assumption again, and then resumed the exact same behavior a few messages later (or even starts again in the next message). At one point it effectively told me that “we both know this conversation is not only about chemistry.” That was completely invented. It was assigning an internal mental state to me after I had repeatedly and explicitly denied it. I find it hard to believe that a model can say such thing. This also materially degraded the service. Large portions of answers were replaced by unwanted crisis scripts. I was paying for messages and usage, yet my scientific questions were repeatedly interrupted by content I had expressly asked the model to stop producing. To be clear, I am not saying that AI systems should never respond to genuine signs of imminent self-harm. Has anyone else experienced a model repeatedly assigning suicidal intent to them even after they clearly and repeatedly denied it?
+Side note :English isn’t my first language so pls don’t do any comment about it Hey guys ! Have you heard about eco GPT? I saw some videos about it and they say that it’s more ecological than chat gpt… is it true ?
 
-7m ago
+19m ago
+
+---
+
+**[Apple finally fixed Siri and honestly it looks pretty good](https://www.reddit.com/r/artificial/comments/1u11k81/apple_finally_fixed_siri_and_honestly_it_looks/)**
+
+Just watched the WWDC keynote and the new Siri AI is actually impressive this time It can understand what's on your screen, remember past conversations, search across your apps. should've been there years ago but okay better late than never... Also it's now powered by Google's Gemini which i did not see coming lol only thing is it's english only for now so gotta wait a bit for other languages but yeah siri might actually be useful now which is not something i ever thought i'd say what do you guys think trying it out when it drops or nah?
+
+24m ago
 
 ---
 
@@ -71,47 +95,23 @@ I just had a long conversation with Claude about 'paraquat' (a type of agricultu
 
 Whenever I am struggling to grasp a tough topic (specifically in math/statistics), I ask ChatGPT to explain it to me like I am in high school. I have my MS in Statistics, so I have a relatively good mind when it comes to numbers/probabilities. However, when ChatGPT can explain a concept to me in simple terms, it really helps me learn the material better. Next time you're working on something and you're going through the struggle to grasp something new, give it a try! Then once you have the groundwork/basics down, you can keep the conversation flowing with more questions/answers.
 
-3h ago
+6h ago
 
 ---
 
-**[Watch These Judges Rip Into Lawyers For Citing Cases That Don't Exist](https://www.reddit.com/r/artificial/comments/1u0uvgf/watch_these_judges_rip_into_lawyers_for_citing/)**
+**[Model and prompt to use to create a tl:dr?](https://www.reddit.com/r/artificial/comments/1u11cnt/model_and_prompt_to_use_to_create_a_tldr/)**
 
-“It's striking, concerning, disappointing, and saddening to think that members of the bar would forward cases to a court that don't exist, and to think that the lawyers on the other side of that didn’t read it for whatever reason, didn’t check it.”
+I want to create a private discord bot that creates a tl:dr for all the messages around a discussion. I used gemma3:12b to create a tl:dr for around 380 discord messages but the result seems to be not accurate. I am a total beginner so I am not even sure if thats the right or best model for this job. It seems to work good on just a few messages (~20). I only want to feed text to the AI with a single prompt and get the tl:dr as result. Should I switch to a different model? The prompt I generated with chatgpt (because I have no clue about good prompts) that gets feeded to the AI is: You are a professional Discord summarization assistant. Your task: - Summarize the messages of a Discord channel. - Identify discussions. - Identify different opinions. - Attribute statements to the respective people. - Ignore small talk as much as possible. - Highlight decisions and outcomes. - Respond in German. [Length prompt] IMPORTANT: If different people have expressed different viewpoints, create a section: ## Positions and list the respective stances. If no discussion took place, omit this section. Messages: [List of messages] [Length promt] gets replaced with something like: Medium-length summary. Approx. 8–15 bullet points. Mention key topics and outcomes. [List of messages] do have the format of "user: message \n". Is it alright to feed the AI all the messages at once?
 
-🔗 [404 Media](https://www.404media.co/new-york-court-ai-citations-landberg-case/) • 3h ago
-
----
-
-**[I think we're about 12 months away from the first major AI agent disaster](https://www.reddit.com/r/artificial/comments/1tzy180/i_think_were_about_12_months_away_from_the_first/)**
-
-I keep seeing more companies giving AI agents access to real stuff like email, databases, internal tools, customer data, etc. And what’s weird is how normal it’s starting to feel now. Like not long ago everyone was worried about chatbots just giving wrong answers. Now we’re basically like yeah sure go ahead and do things for us. I don’t know that jump feels kind of big when you actually think about it. Maybe it all works out fine. Or maybe we’re just moving fast without fully realizing what we’re doing. I’m honestly surprised there hasn’t already been some big headline like an AI agent doing something really wrong. It feels like we’re kind of close to one of those moments where everything suddenly changes overnight. Anyone else feel like we’re closer to something like that than people are admitting?
-
-1d ago
+35m ago
 
 ---
 
-**[OpenAI says it has confidentially filed for an IPO](https://www.reddit.com/r/artificial/comments/1u0m9ct/openai_says_it_has_confidentially_filed_for_an_ipo/)**
+**[Why judgement matters more than prompts in the age of AI?](https://www.reddit.com/r/artificial/comments/1u10zqo/why_judgement_matters_more_than_prompts_in_the/)**
 
-Artificial intelligence giant OpenAI says it has filed confidential paperwork for an initial public offering. In a brief statement, OpenAI says it has submitted its S-1 filing, but has "not decided" yet on the timing of an IPO, adding: "It may be a while because there are things we want to do that are likely easier as a private company." The announcement comes days after the company's chief rival, Anthropic, filed its own S-1, and the on the eve of major AI player SpaceX's potentially historic public debut.
+I need your opinions in this topic. I need quotes on this topic.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-says-it-has-confidentially-filed-for-an-ipo-8201641/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 9h ago
-
----
-
-**[Context switching is a bigger time waster than the actual work](https://www.reddit.com/r/artificial/comments/1u071gq/context_switching_is_a_bigger_time_waster_than/)**
-
-One thing I didn’t expect while trying to improve my workflow: The actual tasks aren’t what takes most of the time. It’s all the context switching around them. Things like: - jumping between tools just to complete one small step - copying data from one place to another - stopping what you’re doing to handle something repetitive - switching back and figuring out where you left off Individually it’s nothing. But over a day it adds up to constant interruptions. And it’s weirdly more draining than the work itself. I started paying attention to that instead of just the tasks, and reducing those switches made a bigger difference than trying to “optimize” the work itself. Curious if others notice the same thing or if it’s just me
-
-18h ago
-
----
-
-**[Anyone here built a gpt on Chatgpt?](https://www.reddit.com/r/artificial/comments/1u0vtky/anyone_here_built_a_gpt_on_chatgpt/)**
-
-I tried to build one before but I think I’m seeing the same results. Any tips on how to effectively build a gpt in chatgpt?
-
-2h ago
+55m ago
 
 ---
 
@@ -119,31 +119,17 @@ I tried to build one before but I think I’m seeing the same results. Any tips 
 
 ## Google News: "ai"
 
-**[They Spent Years on a Math Problem. Then They Were Scooped by A.I.](https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html)**
+**[WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more](https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html)**
 
-The New York Times • 9h ago
+Follow Apple WWDC 2026 live updates as the keynote spotlights AI, software, Siri and developer tools.
 
----
-
-**[OpenAI files for IPO, the latest in a stream of possible AI mega-sales](https://www.cnn.com/2026/06/08/tech/openai-files-for-ipo)**
-
-OpenAI has confidentially filed for an initial public offering, setting it up for what may be the most highly anticipated market debut in recent history and a massive payday for early investors.
-
-CNN • 10h ago
+CNBC • 14h ago
 
 ---
 
-**[OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut](https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html)**
+**[Republican leading AI effort has ambitious timeline for getting his bill through the House](https://www.politico.com/live-updates/2026/06/08/congress/obernolte-bullish-on-ai-bill-00954156)**
 
-OpenAI's confidential filing lands days before SpaceX is set to go public and a week after Anthropic announced its confidential disclosure with the SEC.
-
-CNBC • 10h ago
-
----
-
-**[Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way](https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547)**
-
-WSJ • 6h ago
+Politico • 8h ago
 
 ---
 
@@ -151,29 +137,33 @@ WSJ • 6h ago
 
 A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
-**[Asian tech stocks rebound after Wall Street embraces AI once more](https://www.ft.com/content/f9367c83-c291-4446-bf12-8282e5169812)**
+**[Bitcoin loses its luster as traders chase AI wave](https://www.cnn.com/2026/06/09/business/bitcoin-slump-ai-stocks)**
 
-Chipmaker-dominant markets rally after sell-off on Monday
+Since hitting a record high of $126,000 last fall, bitcoin has dropped to just above $60,000 amid waves of selling. That has erased more than $1.2 trillion in market cap in eight months and wiped out all gains across President Donald Trump’s second term.
 
-Financial Times • 1h ago
-
----
-
-**[Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant](https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html)**
-
-The New York Times • 11h ago
+CNN • 1h ago
 
 ---
 
-**[Google's 4-Pronged AI Strategy Could Help it Leapfrog Nvidia to Become the World's Most Valuable Company](https://finance.yahoo.com/markets/stocks/articles/googles-4-pronged-ai-strategy-071500533.html)**
+**[AI use is behind a boom in solo founders, Nasdaq finds](https://www.axios.com/2026/06/09/ai-entrepreneurs-founders-nasdaq)**
 
-The company's full-stack AI strategy is beginning to pay off,
+Axios • 13m ago
 
-Yahoo Finance • 35m ago
+---
+
+**[Taiwan Mulls Curbs on AI Chip Exports to China to Align With US](https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[They Spent Years on a Math Problem. Then They Were Scooped by A.I.](https://www.nytimes.com/2026/06/08/science/ai-scoop-young-mathematicians.html)**
+
+The New York Times • 13h ago
 
 ---
 
@@ -181,13 +171,19 @@ Yahoo Finance • 35m ago
 
 A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.
 
-OpenAI • 10h ago
+OpenAI • 13h ago
 
 ---
 
-**[MLB 2026: What makes Padres closer Mason Miller so hard to hit](https://www.espn.com/mlb/story/_/id/48975512/mlb-2026-mason-miller-san-diego-padres-closer-ai)**
+**[Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way](https://www.wsj.com/finance/investing/global-stocks-markets-dow-news-06-08-2026-aac7c547)**
 
-ESPN • 20h ago
+WSJ • 10h ago
+
+---
+
+**[S&P Global: AI Adoption, Spin-Off, And Undervalued (NYSE:SPGI)](https://seekingalpha.com/article/4913183-s-and-p-global-stock-ai-adoption-spin-off-and-undervalued)**
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -207,7 +203,7 @@ Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the 
 
 Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.
 
-⬆️ 544 • 💬 422 • 12h ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+⬆️ 612 • 💬 468 • 16h ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 
 ---
 
@@ -215,7 +211,7 @@ Apple today announced a major overhaul of its Apple Intelligence platform, revea
 
 Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
 
-⬆️ 542 • 💬 495 • 13h ago • [Apple](https://www.apple.com/apple-intelligence/)
+⬆️ 595 • 💬 550 • 16h ago • [Apple](https://www.apple.com/apple-intelligence/)
 
 ---
 
@@ -223,7 +219,13 @@ Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27,
 
 If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
 
-⬆️ 510 • 💬 536 • 16h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
+⬆️ 579 • 💬 611 • 19h ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
+
+---
+
+**[Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)**
+
+⬆️ 319 • 💬 524 • 16h ago
 
 ---
 
@@ -231,19 +233,15 @@ If you liked this piece, you should subscribe to my premium newsletter. It’s $
 
 Run AI models in your app on Apple silicon.
 
-⬆️ 271 • 💬 69 • 13h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/coreai/)
+⬆️ 308 • 💬 80 • 16h ago • [Apple Developer Documentation](https://developer.apple.com/documentation/coreai/)
 
 ---
 
-**[Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)**
+**[Microsoft's open source tools were hacked to steal passwords of AI developers](https://news.ycombinator.com/item?id=48457830)**
 
-⬆️ 268 • 💬 445 • 13h ago
+Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
 
----
-
-**[The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://news.ycombinator.com/item?id=48422993)**
-
-⬆️ 233 • 💬 106 • 2d ago • [blog.includesecurity.com](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+⬆️ 203 • 💬 88 • 3h ago • [TechCrunch](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 
 ---
 
@@ -251,7 +249,7 @@ Run AI models in your app on Apple silicon.
 
 Safeguards must be in place before forces automate justice tasks, says head of Police.AI
 
-⬆️ 157 • 💬 50 • 2d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+⬆️ 158 • 💬 50 • 2d ago • [ft.com](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 
 ---
 
@@ -279,17 +277,7 @@ PAPERCLIP HEART is a short AI film about the AI Takeover. Framed around a the la
 
 📺 Theoretically Media
 
-👁️ 5K • 👍 525 • 💬 235 • ⏱️ 8:19 • 14h ago
-
----
-
-**[Apple was LATE on AI… It was Worth the Wait - WWDC &#39;26](https://www.youtube.com/watch?v=ydAqOAL2Bec)**
-
-Get 20% off DeleteMe consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout, ...
-
-📺 Linus Tech Tips
-
-👁️ 24K • 👍 2K • 💬 244 • ⏱️ 13:24 • 1h ago
+👁️ 6K • 👍 561 • 💬 252 • ⏱️ 8:19 • 17h ago
 
 ---
 
@@ -299,7 +287,17 @@ The AI billionaires are changing their tone. After years of promising disruption
 
 📺 House of El - AI
 
-👁️ 133K • 👍 12K • 💬 3K • ⏱️ 20:02 • 18h ago
+👁️ 141K • 👍 12K • 💬 3K • ⏱️ 20:02 • 21h ago
+
+---
+
+**[ChatGPT Is Getting Its Biggest Upgrade Ever](https://www.youtube.com/watch?v=2pXbyAd7pr0)**
+
+ChatGPT may be about to get its biggest overhaul ever. OpenAI is reportedly turning it from a simple chatbot into a full AI super ...
+
+📺 AI Revolution
+
+👁️ 18K • 👍 722 • 💬 109 • ⏱️ 16:15 • 12h ago
 
 ---
 
@@ -309,7 +307,27 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 10K • 💬 14 • ⏱️ 16:45 • 17h ago
+👁️ 10K • 💬 22 • ⏱️ 16:45 • 21h ago
+
+---
+
+**[Apple was LATE on AI… It was Worth the Wait - WWDC &#39;26](https://www.youtube.com/watch?v=ydAqOAL2Bec)**
+
+Get 20% off DeleteMe consumer plans when you go to http://joindeleteme.com/LTT20 and use promo code LTT20 at checkout, ...
+
+📺 Linus Tech Tips
+
+👁️ 74K • 👍 5K • 💬 526 • ⏱️ 13:24 • 4h ago
+
+---
+
+**[SHOWDOWN: Trump’s AI proposal TRIGGERS concerns over government influence](https://www.youtube.com/watch?v=abkBnkxmDkQ)**
+
+'The Big Money Show' panel debated President Donald Trump's suggestion that Americans could share in AI wealth through ...
+
+📺 Fox Business
+
+👁️ 15K • 👍 402 • 💬 94 • ⏱️ 14:01 • 15h ago
 
 ---
 
@@ -319,7 +337,7 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 104K • 👍 3K • 💬 508 • ⏱️ 10:05 • 1d ago
+👁️ 105K • 👍 3K • 💬 511 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -329,47 +347,27 @@ You can sign up to Revolut at: https://get.revolut.com/z4lF/coldfusion, use your
 
 📺 ColdFusion
 
-👁️ 454K • 👍 26K • 💬 3K • ⏱️ 27:15 • 14h ago
+👁️ 526K • 👍 28K • 💬 4K • ⏱️ 27:15 • 18h ago
 
 ---
 
-**[I Just Used Claude AI To Make $10,025 in 24 Hours](https://www.youtube.com/watch?v=KiSoM5OzFVw)**
+**[AI is now unpopular. That may not make a difference.](https://www.youtube.com/watch?v=YPfDLxJyqUg)**
 
-AI tools are creating opportunities faster than most people can keep up with. In this video, I break down how I used Claude AI to ...
+Even as more and more people use AI tools in their everyday lives, national opinion polls in the United States show that AI has ...
 
-📺 Ac Hampton
+📺 BBC Global
 
-👁️ 15K • 👍 901 • 💬 42 • ⏱️ 11:41 • 15h ago
-
----
-
-**[Apple Unveils New AI Platform and Siri Upgrades](https://www.youtube.com/watch?v=IpNtMXaz128)**
-
-Apple Inc. unveiled the next generation of its artificial intelligence platform, including an update to its Siri digital assistant, part of a ...
-
-📺 Bloomberg Television
-
-👁️ 14K • 👍 130 • 💬 12 • ⏱️ 3:24 • 13h ago
+👁️ 23K • 👍 859 • 💬 200 • ⏱️ 13:32 • 21h ago
 
 ---
 
-**[Why hasn’t anyone built an AI blocker?](https://www.youtube.com/watch?v=VDsOdoaijG8)**
+**[Become AI Native in less than 60 mins](https://www.youtube.com/watch?v=LztPaNmcWGU)**
 
-Why doesn't someone develop an AI blocker right now? Privacy concerns, scale, and reliability are the three most daunting tasks, ...
+Become an AI Native Organization: https://startup-ideas-pod.link/ai-native-org In this episode I sit down with Theo to unpack what ...
 
-📺 Jeremy Carrasco
+📺 Greg Isenberg
 
-👁️ 21K • 👍 4K • 💬 125 • ⏱️ 1:33 • 6h ago
-
----
-
-**[Emerging Situation: Anthropic&#39;s Global Pause, Recursive Self-Improvement, and AI Personhood Arrives](https://www.youtube.com/watch?v=P2HJEz3oqLs)**
-
-In this episode, the mates discuss Anthropic's recursive self-improvement and recent admission. Get access to metatrends 10+ ...
-
-📺 Peter H. Diamandis
-
-👁️ 56K • 👍 2K • 💬 452 • ⏱️ 1:07:18 • 13h ago
+👁️ 15K • 👍 625 • 💬 78 • ⏱️ 56:44 • 17h ago
 
 ---
 
@@ -385,7 +383,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 121,594 • ❤️ 1,646 • 11h ago
+⬇️ 123,922 • ❤️ 1,665 • 15h ago
 
 ---
 
@@ -397,7 +395,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 554,173 • ❤️ 762 • 4d ago
+⬇️ 581,354 • ❤️ 775 • 4d ago
 
 ---
 
@@ -409,7 +407,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 645,263 • ❤️ 510 • 1d ago
+⬇️ 660,140 • ❤️ 517 • 1d ago
 
 ---
 
@@ -421,7 +419,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 117,509 • ❤️ 460 • 4d ago
+⬇️ 122,464 • ❤️ 463 • 4d ago
 
 ---
 
@@ -433,7 +431,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 5,495 • ❤️ 407 • 5d ago
+⬇️ 5,915 • ❤️ 418 • 5d ago
 
 ---
 
@@ -445,19 +443,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 163,953 • ❤️ 729 • 19d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 3,036,465 • ❤️ 1,567 • 1mo ago
+⬇️ 133,351 • ❤️ 732 • 19d ago
 
 ---
 
@@ -469,19 +455,19 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 4,963 • ❤️ 271 • 4d ago
+⬇️ 5,250 • ❤️ 274 • 4d ago
 
 ---
 
-**[nemotron-3.5-asr-streaming-0.6b](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b)**
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
 
-*NVIDIA*
+*HauHau*
 
-Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR) model supporting 40 language-locales. It uses a Cache-Aware FastConformer-RNNT architecture for efficient, low-latency transcription of audio into punctuated text, suitable for both streaming and batch processing.
+This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
 
-`automatic-speech-recognition`
+`image-text-to-text` `34.7B`
 
-⬇️ 3,957 • ❤️ 303 • 3d ago
+⬇️ 2,983,909 • ❤️ 1,572 • 1mo ago
 
 ---
 
@@ -493,7 +479,19 @@ Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model support
 
 `text-to-speech` `4.7B`
 
-⬇️ 15,005 • ❤️ 257 • 4d ago
+⬇️ 16,207 • ❤️ 262 • 4d ago
+
+---
+
+**[nemotron-3.5-asr-streaming-0.6b](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b)**
+
+*NVIDIA*
+
+Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR) model supporting 40 language-locales. It uses a Cache-Aware FastConformer-RNNT architecture for efficient, low-latency transcription of audio into punctuated text, suitable for both streaming and batch processing.
+
+`automatic-speech-recognition`
+
+⬇️ 4,181 • ❤️ 305 • 3d ago
 
 ---
 
@@ -535,7 +533,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 172 • 💬 10 • ⭐ 48,944 • 9mo ago
+▲ 172 • 💬 10 • ⭐ 49,097 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -575,7 +573,7 @@ Cosmos 3 is an omnimodal world model that processes and generates multiple data 
 
 A 2B-parameter continuous autoregressive text-to-speech model trained on a multilingual corpus achieves state-of-the-art performance on multiple benchmarks while enabling efficient low-latency speech generation through specialized distillation techniques.
 
-▲ 12 • 💬 2 • ⭐ 302 • 4d ago
+▲ 12 • 💬 2 • ⭐ 343 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.07080) • [💻 code](https://github.com/rednote-hilab/dots.tts)
 
@@ -587,7 +585,7 @@ A 2B-parameter continuous autoregressive text-to-speech model trained on a multi
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 40 • 💬 4 • ⭐ 29,003 • 10mo ago
+▲ 40 • 💬 4 • ⭐ 29,030 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -606,6 +604,18 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 59 • 💬 2 • ⭐ 58,146 • 13mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -619,18 +629,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 59 • 💬 2 • ⭐ 58,077 • 13mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +639,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 64.3k • 🔱 7.9k • 1h ago
+⭐ 64.6k • 🔱 7.9k • 2h ago
 
 ---
 
@@ -651,7 +649,7 @@ Self-hosted AI workspace.
 
 `HTML` `agent-skills` `agentic` `ai-agents` `ai-design` `ai-editor`
 
-⭐ 6.4k • 🔱 630 • 7d ago
+⭐ 6.5k • 🔱 631 • 7d ago
 
 ---
 
@@ -659,7 +657,7 @@ Self-hosted AI workspace.
 
 A股全栈数据工具包 — 7层架构 · 27端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assistants
 
-⭐ 3.7k • 🔱 759 • 5d ago
+⭐ 3.7k • 🔱 760 • 5d ago
 
 ---
 
@@ -669,7 +667,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.3k • 🔱 330 • 3d ago
+⭐ 3.3k • 🔱 333 • 4d ago
 
 ---
 
@@ -679,7 +677,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 269 • 4h ago
+⭐ 3.2k • 🔱 275 • 8h ago
 
 ---
 
@@ -689,7 +687,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 327 • 4h ago
+⭐ 3.1k • 🔱 330 • 1m ago
 
 ---
 
@@ -699,7 +697,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.4k • 🔱 268 • 1d ago
+⭐ 2.4k • 🔱 269 • 1d ago
 
 ---
 
@@ -719,7 +717,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 1.8k • 🔱 172 • 4h ago
+⭐ 1.8k • 🔱 172 • 7h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-09T07:50:47.341082+00:00'
+updated: '2026-06-09T11:16:21.983536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 07:50 UTC  
+**Last Updated:** June 09, 2026 at 11:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,678.86
+### $1,669.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -7.4%  
-**30d:** -28.2%  
-**90d:** -19.0%  
-**1y:** -40.3%  
+**24h:** -1.6%  
+**7d:** -8.0%  
+**30d:** -28.7%  
+**90d:** -19.5%  
+**1y:** -40.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.76B
+**Market Cap:** $202.01B
 Rank #2
 
 **Circulating Supply:** 120,684,430 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-66.2%
 
 **All-Time Low:** $0.43
-+387692.5%
++386140.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-12h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
 
-12h ago
+15h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -150,27 +150,43 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Bitmine’s Massive Ethereum Bet Puts MAVAN Staking Model In Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-massive-ethereum-bet-puts-102205768.html)**
+
+Bitmine Immersion Technologies (NYSE:BMNR) has accumulated over 5.5 million ETH, now holding close to 5% of the Ethereum supply. The company recently completed a record single week Ethereum purchase, described as the largest ETH buy of 2026 so far. A $280 million preferred stock capital raise funded this ETH accumulation and the build out of a new institutional staking platform, MAVAN. The majority of Bitmine's Ethereum is now staked through MAVAN, positioning the company as a large on chain...
+
+Yahoo Finance • 54m ago
+
+---
+
+**[Bitcoin On Ethereum? Circle Launches cirBTC on ETH Targeting $9B WBTC Market](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-circle-launches-cirbtc-083229585.html)**
+
+Bitcoin News: Circle has launched cirBTC, a 1:1 BTC-backed ERC-20 token now live on Ethereum mainnet, positioning it directly against WBTC’s roughly $9 billion market and approximately 85% market share with a feature its competitors do not offer: real-time on-chain reserve verification with no reliance on third-party attestations. The product ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum Flashes 'Historic Opportunity,' Says Analyst, as Tom Lee's Bitmine Buys $218M](https://finance.yahoo.com/markets/crypto/articles/ethereum-flashes-historic-opportunity-says-084217435.html)**
+
+Ethereum hits its most oversold level ever. Tom Lee's Bitmine is buying the dip aggressively. Bullish forecasts remain despite the crash. Ethereum may be approaching ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[cirBTC Is Live on Ethereum for Wrapped BTC Deployment](https://www.circle.com/blog/cirbtc-is-now-live-on-ethereum)**
+
+Now live on Ethereum, cirBTC is a 1:1 BTC-backed token that delivers secure, neutral collateral across DeFi on Ethereum, with planned Arc and multichain support.
+
+Circle Internet Financial • 17h ago
+
+---
+
 **[Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says](https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says)**
 
 The Consensys CEO told CoinDesk that the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.
 
-CoinDesk • 13h ago
-
----
-
-**[Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-dip-151837018.html)**
-
-Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.
-
-Yahoo Finance • 16h ago
-
----
-
-**[MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum](https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum)**
-
-Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
-
-The Block • 18h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -178,55 +194,39 @@ The Block • 18h ago
 
 The largest ethereum treasury firm acquired 126,971 tokens last week....
 
-Sherwood News • 16h ago
+Sherwood News • 19h ago
 
 ---
 
-**[Crypto News Today: AlphaPepe Nears Binance Listing as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-binance-listing-as-ethereum-price-prediction-targets-10-000-1036233913)**
+**[MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum](https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum)**
 
-MONACO, June  08, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the project’s exchange debut moves closer and Binance...
+Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[Current price of Ethereum for June 8, 2026](https://fortune.com/article/price-of-ethereum-06-08-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
+The Block • 22h ago
 
 ---
 
-**[Who Founded Ethereum? The Story of Vitalik Buterin And The Co-Founders](https://www.ledger.com/academy/topics/blockchain/ethereum-founder)**
+**[Ethereum news: Tom Lee's Bitmine (BMNR) bought the dip, acquiring 126,971 ETH as prices tanked](https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked)**
 
-Discover who founded Ethereum. Learn about Vitalik Buterin, all 8 original co-founders, their vision, and how to secure your ETH today.
+The company bought 126,971 ETH last week, worth roughly $214 million at current prices, despite chairman Tom Lee's earlier calls to slow purchases.
 
-Ledger • 21h ago
-
----
-
-**[Central Bank of Russia restricts retail investors to Bitcoin, Ethereum, and USDT](https://cryptobriefing.com/russia-central-bank-restricts-retail-crypto/)**
-
-Russia's central bank limits retail investors to Bitcoin, Ethereum, and USDT starting July 2026, with a $4,000 annual cap and mandatory risk testing.
-
-Crypto Briefing • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[UNDP Brings Ethereum, Cardano, and Stellar Together to Explore Blockchain for Public Good](https://coinpedia.org/news/undp-brings-ethereum-cardano-and-stellar-together-to-explore-blockchain-for-public-good/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.54 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-54-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302793756.html)**
 
-The United Nations Development Programme (UNDP) has launched a new Blockchain Advisory Group that brings together 26 organizations, including the Ethereum
+Bitmine owns 4.59% of the total ETH coin supply of 120.7 million Bitmine is 92% of the way to the 'Alchemy of 5%' in just 11 months Ethereum continues to...
 
-Coinpedia • 20h ago
+PR Newswire • 22h ago
 
 ---
 
-**[Ethereum Price Mounts An Impressive Recovery As Market Mood Shifts](https://www.tradingview.com/news/newsbtc:ba36d9ef0094b:0-ethereum-price-mounts-an-impressive-recovery-as-market-mood-shifts/)**
+**[Tom Lee's 'BitMine bought the bloodbath': BMNR reports $213M worth of Ethereum purchase](https://seekingalpha.com/news/4601401-tom-lees-bitmine-bought-the-bloodbath-bmnr-reports-213m-worth-of-ethereum-purchase)**
 
-Ethereum price started a recovery wave above the $1,600 zone. ETH is now consolidating and might rally if there is a clear move above the $1,750 resistance.Ethereum Price Aims for Upside BreakEthereum price remained bid above the $1,500 support zone, like Bitcoin. ETH price formed a base and starte…
+Bitmine (BMNR) bought $213M in Ethereum, now holding 5.54M ETH (4.59% supply).
 
-TradingView • 1d ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -240,17 +240,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 771 • 💬 72 • ⏱️ 16:49 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
-
-Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
-
-📺 Thomas Kralow
-
-👁️ 10K • 👍 384 • 💬 114 • ⏱️ 8:10 • 20h ago
+👁️ 22K • 👍 783 • 💬 72 • ⏱️ 16:49 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 5K • 👍 209 • 💬 94 • ⏱️ 5:46 • 14h ago
+👁️ 5K • 👍 232 • 💬 91 • ⏱️ 5:46 • 17h ago
+
+---
+
+**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
+
+Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
+
+📺 Thomas Kralow
+
+👁️ 10K • 👍 390 • 💬 111 • ⏱️ 8:10 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 656 • 👍 62 • 💬 30 • ⏱️ 19:32 • 34m ago
+👁️ 3K • 👍 207 • 💬 88 • ⏱️ 19:32 • 3h ago
 
 ---
 
@@ -280,7 +280,17 @@ DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated
 
 📺 The Rollup
 
-👁️ 2K • 👍 57 • 💬 4 • ⏱️ 38:13 • 9h ago
+👁️ 2K • 👍 72 • 💬 5 • ⏱️ 38:13 • 12h ago
+
+---
+
+**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
+
+Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
+
+📺 Coin Bureau
+
+👁️ 20K • 👍 718 • 💬 104 • ⏱️ 21:23 • 2d ago
 
 ---
 
@@ -294,23 +304,13 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 ---
 
-**[The REAL Winner Between Bitcoin &amp; Ethereum in 2026](https://www.youtube.com/watch?v=6DgkBiD9HBQ)**
-
-Bitcoin and Ethereum are the two giants of crypto, but they play totally different games. This video unpacks their core strengths: ...
-
-📺 Coin Bureau
-
-👁️ 20K • 👍 714 • 💬 103 • ⏱️ 21:23 • 2d ago
-
----
-
 **[Crypto Collapse! Institutional Technical Analysis, Latest Forecast, Trades (BTC, ETH, SOL, HYPE)](https://www.youtube.com/watch?v=9Sccl9hBids)**
 
 In today's video, Chief Market Strategist Gareth Soloway dives deep into the recent crypto collapse. As predicted, Bitcoin hit the ...
 
 📺 Gareth Soloway
 
-👁️ 91K • 👍 5K • 💬 376 • ⏱️ 15:17 • 1d ago
+👁️ 92K • 👍 6K • 💬 380 • ⏱️ 15:17 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ XRP just hit $400 million in tokenized real-world assets twice as fast as Ethere
 
 📺 Cheeky Crypto
 
-👁️ 17K • 👍 895 • 💬 62 • ⏱️ 23:26 • 23h ago
+👁️ 18K • 👍 911 • 💬 63 • ⏱️ 23:26 • 1d ago
 
 ---
 

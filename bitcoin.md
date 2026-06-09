@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-09T07:50:47.335682+00:00'
+updated: '2026-06-09T11:16:21.977294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 07:50 UTC  
+**Last Updated:** June 09, 2026 at 11:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,385.37
+### $62,573.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -1.5%  
-**30d:** -22.7%  
-**90d:** -10.4%  
-**1y:** -42.7%  
+**24h:** -2.0%  
+**7d:** -2.5%  
+**30d:** -23.5%  
+**90d:** -11.3%  
+**1y:** -43.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.81B
+**Market Cap:** $1255.02B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.9%
+-50.4%
 
 **All-Time Low:** $67.81
-+93027.9%
++92153.4%
 
 ---
 
@@ -81,7 +81,23 @@ Rank #1
 
 The last time BTC was at $62,000 or so was back in 2021. In Oct. 2025, I would've done anything to go back in time and buy BTC at that price. Now, we are at that price point! So, isn't it a good time to buy?
 
-6h ago
+10h ago
+
+---
+
+**[China’s Bitcoin Paradox: Despite Beijing’s crackdown, a Chinese court has reinforced Bitcoin’s legal status as protected property](https://www.reddit.com/r/Bitcoin/comments/1u0ymsa/chinas_bitcoin_paradox_despite_beijings_crackdown/)**
+
+In a ruling that highlights the growing legal complexity surrounding digital assets, a Chinese court has reaffirmed that Bitcoin can be treated as protected property under criminal law, even as the country continues to ban cryptocurrency trading and related business activities. The decision emerged from a remarkable theft case involving 107 Bitcoin and is likely to draw attention from regulators, investors, and legal experts worldwide. The case underscores a broader global trend: governments may restrict or regulate cryptocurrency markets, but courts are increasingly recognizing digital assets as possessing real economic value that deserves legal protection. For Bitcoin holders, the ruling reinforces a critical reality—ownership rights and trading rights are not necessarily the same thing. According to court documents, a man identified only by his surname Zhang was sentenced to 10 years and 9 months in prison after stealing 107 BTC from an acquaintance. Prosecutors said Zhang gained access to the victim’s wallet in an unusually low-tech but highly effective manner. After observing the wallet creation process, he reportedly memorized 11 of the 12 recovery seed words and later reconstructed the final word using contextual clues, allowing him to regain access to the wallet and transfer the funds. Authorities eventually traced the missing Bitcoin and linked the theft to Zhang, leading to one of the most significant criminal sentences handed down in China for a cryptocurrency-related crime. The severity of the punishment reflects not only the value of the stolen assets but also the court’s willingness to treat Bitcoin theft in the same legal category as the theft of traditional property. The most consequential aspect of the case, however, was the prosecution’s successful argument that Bitcoin qualifies as “property” under Chinese criminal law. By accepting that interpretation, the court reinforced an increasingly consistent legal position emerging from Chinese jurisprudence: while cryptocurrency trading platforms, mining operations, and financial services remain heavily restricted, individuals can still possess legally recognized ownership rights over digital assets. This distinction has become increasingly important as courts around the world grapple with how to classify cryptocurrencies. Similar debates have played out in jurisdictions ranging from the United States and the European Union to Singapore and Hong Kong, where regulators continue to refine the balance between investor protection, market oversight, and technological innovation. China’s latest ruling suggests that even some of the world’s most restrictive crypto environments are adapting traditional property laws to accommodate digital assets. The decision does not signal any softening of Beijing’s broader anti-crypto stance. Cryptocurrency exchanges remain banned, and financial institutions are prohibited from offering crypto-related services. Yet the ruling demonstrates that Chinese courts are increasingly separating ownership rights from commercial activity restrictions, creating a more nuanced legal framework than many outside observers assume. For investors, the case delivers a lesson that transcends China’s borders. The theft was not the result of sophisticated malware, blockchain vulnerabilities, or advanced cyberattacks. Instead, it stemmed from a compromised recovery phrase—arguably the most basic security component in self-custodied digital assets. As Bitcoin adoption expands globally, the weakest link often remains human behavior rather than technology itself. The broader takeaway may be one of crypto’s most intriguing contradictions: even governments that restrict digital asset markets are finding it increasingly difficult to deny that cryptocurrencies represent real property with real economic value. The question facing regulators is no longer whether Bitcoin has value—it is how legal systems will continue adapting as digital assets become an increasingly permanent part of the global financial landscape.
+
+🔗 [Market Insider](https://marketinsider.net/chinas-bitcoin-paradox-court-recognizes-btc-as-property-in-107-btc-theft-case/) • 3h ago
+
+---
+
+**[Why has BTC been rising abruptly after touching 59000?](https://www.reddit.com/r/Bitcoin/comments/1u0xwws/why_has_btc_been_rising_abruptly_after_touching/)**
+
+Almost every chart analysis and trends predicted it to go at least 55k. But instead of stalling at 59k, it has since increased violently to 64k. Why has this happened and can we expect it to go down soon (ie. This increase is a temporary pump)?
+
+3h ago
 
 ---
 
@@ -89,15 +105,7 @@ The last time BTC was at $62,000 or so was back in 2021. In Oct. 2025, I would'v
 
 I’m going to buy some and it always drops when I do.
 
-7h ago
-
----
-
-**[The bitcoin 4 year cycle trick](https://www.reddit.com/r/Bitcoin/comments/1u02g0r/the_bitcoin_4_year_cycle_trick/)**
-
-I think a lot of people will regret not buying btc at this levels because they are waiting for lower prices or the 4 year cycle logic If everyone is waiting to buy $BTC on October 5 2026, that means a lot of you ll be front run Just DCA and chill Have a nice week people
-
-22h ago
+11h ago
 
 ---
 
@@ -105,13 +113,31 @@ I think a lot of people will regret not buying btc at this levels because they a
 
 This is the true opportunity everyone it's waiting for If you keep buying now around ~60K When BTC hit again 120K Our returns will be 100% of the initial investment But... ¿Do you have enough guts to hold BTC for years, without selling?
 
-6h ago
+9h ago
 
 ---
 
-**[Got a new tool cart from another electrician who owns 8 btc. Its a sign for me to start buying!](https://www.reddit.com/r/Bitcoin/comments/1u0eew3/got_a_new_tool_cart_from_another_electrician_who/)**
+**[I ran the numbers on $100/month Bitcoin DCA from 2018 to today — the results during the bear market surprised me](https://www.reddit.com/r/Bitcoin/comments/1u10owe/i_ran_the_numbers_on_100month_bitcoin_dca_from/)**
 
-14h ago
+Been thinking about DCA a lot lately so I pulled real historical price data and simulated what $100/month would have actually returned from different starting points. The one that surprised me most — starting in January 2018, right at the peak of that cycle when everyone was euphoric and prices were near $15K-$18K. Genuinely the worst time to start. By mid-2023 that $6,800 investment had accumulated roughly 0.59 BTC at an average cost of around $11,500. Portfolio well into profit despite the timing being objectively terrible. The people who kept buying through 2018, 2019 and the covid crash in 2020 ended up with an average cost that made the eventual recovery look very different from someone who bought all at once at the top. What got me was how much the 2022 bear market purchases changed the average. Every month you bought at $20K, $18K, $16K was dragging that average down significantly. The strategy only works if you actually keep going when it feels worst. I built a free calculator that simulates any DCA scenario with real historical BTC price data going back to 2010 — you pick the amount, frequency and start date and it shows portfolio value, average buy price, best and worst purchases, and a chart. Link: https://coinguides.org/bitcoin-dca-calculator/ Curious what starting date people here would test first.
+
+1h ago
+
+---
+
+**[The bitcoin 4 year cycle trick](https://www.reddit.com/r/Bitcoin/comments/1u02g0r/the_bitcoin_4_year_cycle_trick/)**
+
+I think a lot of people will regret not buying btc at this levels because they are waiting for lower prices or the 4 year cycle logic If everyone is waiting to buy $BTC on October 5 2026, that means a lot of you ll be front run Just DCA and chill Have a nice week people
+
+1d ago
+
+---
+
+**[UBI is the ultimate fiat trap. It’s not free money; it’s a compliance mechanism for CBDCs.](https://www.reddit.com/r/Bitcoin/comments/1u11lgb/ubi_is_the_ultimate_fiat_trap_its_not_free_money/)**
+
+The current financial architecture is running out of runway, and Universal Basic Income is their endgame. It’s not about lifting people out of poverty; it’s about establishing a permanent digital cage. Once programmable money is fully rolled out, UBI will enforce absolute behavioral compliance, dictating what you can buy, eat, and own. I put together a visual breakdown of how UBI functions as the programmable rations of the digital serf, and why a decentralized, proof-of-work exit is the only mathematical defense we have left. UBI: The Programmable Rations of the Digital Serf (Part 2) How close do you think we are to the point where opting out of the UBI/CBDC system becomes practically illegal?
+
+22m ago
 
 ---
 
@@ -119,37 +145,13 @@ This is the true opportunity everyone it's waiting for If you keep buying now ar
 
 Running a DCA all the time = Shit-averaging your investment. 💩😰 (more fees, more slippage) Running a DCA at the bottom of the cycle = Efficient investment averaging 👔💎(more ROI)
 
-7h ago
+11h ago
 
 ---
 
-**[Does anyone else feel like 100k is the new average or new normal?](https://www.reddit.com/r/Bitcoin/comments/1u0h2h2/does_anyone_else_feel_like_100k_is_the_new/)**
+**[Got a new tool cart from another electrician who owns 8 btc. Its a sign for me to start buying!](https://www.reddit.com/r/Bitcoin/comments/1u0eew3/got_a_new_tool_cart_from_another_electrician_who/)**
 
-We first reached $100k in late 2024, a year and a half ago. Since then we spent a total of 260 days above $100k which is close to 9 months. Now we are back below $100k and have been below $100k for around 7 months. Humans love round numbers and now that we have spent time both above and below $100k it is starting to feel like a magnet. Almost like $100k is not expensive but its also not cheap, it is just about right in terms of fair value. Who knows, maybe we bounce above and below $100k for a long time to come given that the higher bitcoins market cap gets the slower it moves.
-
-12h ago
-
----
-
-**[Sold the AP to buy the dip, got a nicer one instead](https://www.reddit.com/r/Bitcoin/comments/1u0ggox/sold_the_ap_to_buy_the_dip_got_a_nicer_one_instead/)**
-
-Couldn't fade the bear market discounts so sold the watch collection and bought this banger instead
-
-13h ago
-
----
-
-**[Bitcoin is $250,000 in 2 to 3 years. Wonder why these people are selling at $60k?](https://www.reddit.com/r/Bitcoin/comments/1tzxzc5/bitcoin_is_250000_in_2_to_3_years_wonder_why/)**
-
-You shoulld be buying. Does not matter what price. Go back in 2 to 3 years (2028-2029) Institutions have been accumulating MSTR and at highest level now. They know something.. https://preview.redd.it/v4xgz06i166h1.png?width=2464&format=png&auto=webp&s=a69a0adfa2f965e25794f6723e771e533a27e0af
-
-1d ago
-
----
-
-**[First goal reached .2 next](https://www.reddit.com/r/Bitcoin/comments/1u0ria5/first_goal_reached_2_next/)**
-
-6h ago
+17h ago
 
 ---
 
@@ -157,81 +159,77 @@ You shoulld be buying. Does not matter what price. Go back in 2 to 3 years (2028
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s $235 Billion Crash Masks a Bigger Shift Across Crypto](https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto)**
-
-Bloomberg • 10h ago
-
----
-
-**[Strategy's Michael Saylor bought big on the bitcoin dip](https://finance.yahoo.com/video/strategys-michael-saylor-bought-big-162000426.html)**
-
-Scott Melker discusses Strategy (MSTR) co-founder and executive chairman announcing that the crypto firm has bought the bitcoin (BTC-USD) dip and purchased $101 million worth of the crypto asset.
-
-“The Daily Wolf with Scott Melker” airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Bitcoin in trouble if it doesn't recover by Q4, currently still in 'classic mid-cycle' bear market](https://www.cnbc.com/video/2026/06/09/bitcoin-in-trouble-if-it-doesnt-recover-by-q4-lucy-gazmararian.html)**
-
-Lucy Gazmararian, Founder and Managing Partner of Token Bay Capital, discusses the recent drop in bitcoin prices and why she believes it is characteristic of the classic cyclical bear phase rather than indicative of a structural breakdown. She also addresses the surge of investment sentiment in AI considering the upcoming Anthropic IPO and explains why this demand is separate from core crypto‑native capital.
-
-CNBC • 34m ago
-
----
-
 **[Saylor blamed AI for bitcoin crash. Arca has one word for that: Nonsense](https://www.coindesk.com/markets/2026/06/09/saylor-blamed-ai-for-bitcoin-crash-arca-has-one-word-for-that-nonsense)**
 
 Arca is blaming Strategy's sale of 32 BTC for last week's BTC crash, not AI capital rotation, as Strategy's Saylor claimed.
 
-CoinDesk • 2h ago
+CoinDesk • 6h ago
 
 ---
 
-**[How Michael Saylor’s preferred stock gamble could trigger a death spiral for Strategy](https://fortune.com/2026/06/09/michael-saylor-strategy-math-problem-death-spiral-bitcoin-price/)**
+**[Bitcoin’s $235 Billion Crash Masks a Bigger Shift Across Crypto](https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto)**
 
-Michael Saylor leveraged Strategy to the hilt. Now the math is working against him.
-
-Fortune • 50m ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Tesla Bitcoin Hit Versus China Growth Puts Focus On Core Value](https://finance.yahoo.com/markets/stocks/articles/tesla-bitcoin-hit-versus-china-221044310.html)**
+**[Bitcoin loses its luster as traders chase AI wave](https://www.cnn.com/2026/06/09/business/bitcoin-slump-ai-stocks)**
 
-Tesla (NasdaqGS:TSLA) has seen a sharp decline in the value of its Bitcoin holdings following the recent cryptocurrency downturn. The company’s digital asset exposure is back in focus as investors reassess the risk profile of its crypto strategy. At the same time, Tesla reported around 40% sales growth in China for May, highlighting stronger activity in a key market. Tesla is also expanding the rollout of its Full Self-Driving (FSD) software in China, one of its most important international...
+Since hitting a record high of $126,000 last fall, bitcoin has dropped to just above $60,000 amid waves of selling. That has erased more than $1.2 trillion in market cap in eight months and wiped out all gains across President Donald Trump’s second term.
 
-Yahoo Finance • 1d ago
+CNN • 1h ago
+
+---
+
+**[Bitcoin’s Worst Week Since FTX Crash May Signal More Pain Ahead](https://www.bloomberg.com/news/articles/2026-06-09/bitcoin-s-worst-week-since-ftx-crash-may-signal-more-pain-ahead)**
+
+Bloomberg.com • 52m ago
+
+---
+
+**[Live Bitcoin price: BTC above $63,000 as some peg SpaceX's IPO as 'next catalyst'](https://www.coindesk.com/business/2026/06/09/bitcoin-steady-above-usd63-000-bnb-sol-edge-higher-as-ai-stocks-rebound)**
+
+Stocks recovered through SpaceX's oversubscribed IPO, an Nvidia and SK Hynix chip pact, and Apple's AI reboot, while crypto trailed.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Steadies After $60,000 Breach as Saylor Adds to Hoard](https://finance.yahoo.com/markets/crypto/articles/bitcoin-steadies-60-000-breach-060839854.html)**
+
+(Bloomberg) -- Bitcoin steadied in Monday trading after dropping below $60,000 late last week as Strategy Inc. Chairman Michael Saylor hinted at further purchases.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’Trump Says He, Not Congress, Is in Charge of Kennedy Center in ReversalWhy Oil’s Not at $200 After the Biggest Supply Shock in HistoryIsrael Strikes Iran After Missile Attack, Imperiling Trump TalksKorean Stocks Tumble as Unwinding AI Trades Threaten B
+
+Yahoo Finance • 23h ago
+
+---
+
+**[Current price of Bitcoin for June 8, 2026](https://fortune.com/article/price-of-bitcoin-06-08-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 21h ago
 
 ---
 
 **[Mapping the Market: Bitcoin teetering on brink of further losses](https://www.reuters.com/markets/global-markets-technicals-graphic-2026-06-08/)**
 
-Reuters • 19h ago
+Reuters • 23h ago
 
 ---
 
-**[Coinbase strategist says institutions aren't panicking about bitcoin, 'love it even more' at lower prices](https://www.theblock.co/post/404019/coinbase-strategist-institutions-arent-panicking-bitcoin-love-more-lower-prices)**
+**[Both retail and institutional are signaling crypto is a long-term asset to hold: John D’Agostino](https://www.cnbc.com/video/2026/06/08/both-retail-and-institutional-are-signaling-crypto-is-a-long-term-asset-to-hold-john-daagostino.html)**
 
-Family offices and sovereign wealth funds continue accumulating bitcoin despite the recent selloff, according to Coinbase's John D'Agostino.
+John D’Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the state of the crypto, latest bitcoin price trends, what's behind the crypto slump, and more.
 
-The Block • 13h ago
-
----
-
-**[Bitcoin Price Rebounds From 2-Month Low. SpaceX IPO Siphons Capital, Analyst Says.](https://www.investors.com/news/bitcoin-price-rebound-liquidations-etf-flows-spacex-ipo-capital/)**
-
-Investor's Business Daily • 11h ago
+CNBC • 22h ago
 
 ---
 
-**[How Low Can Bitcoin Go?](https://www.fool.com/investing/2026/06/08/how-low-can-bitcoin-go/)**
+**[Billionaire Michael Saylor’s Strategy Buys Bitcoin Dip With $100 Million Purchase](https://www.forbes.com/sites/tylerroush/2026/06/08/billionaire-saylors-strategy-buys-bitcoin-worth-101-million-after-earlier-sale-sparked-sell-off/)**
 
-Technically speaking, Bitcoin's floor is zero, but that's unlikely to happen if history is any guide.
+Bitcoin’s price recently dropped under $60,000 for the first time since 2024.
 
-The Motley Fool • 6h ago
+Forbes • 20h ago
 
 ---
 
@@ -295,7 +293,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
 
-⬆️ 4 • 💬 1 • 18h ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
+⬆️ 4 • 💬 1 • 22h ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
 
 ---
 
@@ -325,7 +323,7 @@ Anthony Pompliano breaks down why bitcoin is down 50% from its highs and whether
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 722 • 💬 26 • ⏱️ 13:32 • 10h ago
+👁️ 18K • 👍 791 • 💬 26 • ⏱️ 13:32 • 14h ago
 
 ---
 
@@ -335,27 +333,7 @@ Bitcoin just crashed toward $59K, fear is surging, and the market is asking the 
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 236 • ⏱️ 17:44 • 10h ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 71) - 1 Million Subscriber Milestone!](https://www.youtube.com/watch?v=IOFwbuyDC78)**
-
-It is once again time for an update on our Bitcoin: The Beauty of Mathematics series! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 25K • 👍 3K • 💬 447 • ⏱️ 7:10 • 6h ago
-
----
-
-**[This Is Where Bitcoin Finally Bottoms | Ben Cowen](https://www.youtube.com/watch?v=mXBizppCfEU)**
-
-In this episode, Ran sits down with Ben Cowen to break down Bitcoin's current market structure, what historical cycles suggest ...
-
-📺 Crypto Insider
-
-👁️ 65K • 👍 4K • 💬 125 • ⏱️ 38:44 • 1d ago
+👁️ 21K • 👍 1K • 💬 265 • ⏱️ 17:44 • 14h ago
 
 ---
 
@@ -365,7 +343,27 @@ Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 599 • 💬 129 • ⏱️ 11:21 • 7h ago
+👁️ 11K • 👍 651 • 💬 145 • ⏱️ 11:21 • 11h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 71) - 1 Million Subscriber Milestone!](https://www.youtube.com/watch?v=IOFwbuyDC78)**
+
+It is once again time for an update on our Bitcoin: The Beauty of Mathematics series! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 36K • 👍 4K • 💬 541 • ⏱️ 7:10 • 10h ago
+
+---
+
+**[This Is Where Bitcoin Finally Bottoms | Ben Cowen](https://www.youtube.com/watch?v=mXBizppCfEU)**
+
+In this episode, Ran sits down with Ben Cowen to break down Bitcoin's current market structure, what historical cycles suggest ...
+
+📺 Crypto Insider
+
+👁️ 66K • 👍 4K • 💬 126 • ⏱️ 38:44 • 1d ago
 
 ---
 
@@ -375,17 +373,7 @@ Please hear me out ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDai
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 142 • ⏱️ 11:59 • 1d ago
-
----
-
-**[This Bitcoin Relief Rally Will Destroy Investors!](https://www.youtube.com/watch?v=LUgKKvJdcZo)**
-
-The market is bouncing, but Ran believes investors should be extremely cautious. What looks like strength on the surface may ...
-
-📺 Crypto Banter
-
-👁️ 27K • 👍 1K • 💬 38 • ⏱️ 31:01 • 17h ago
+👁️ 27K • 👍 2K • 💬 145 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -395,27 +383,37 @@ bitcoin #michaelsaylor #crypto #strategy #arthurhayes #bitcoinprice #investing #
 
 📺 Yahoo Finance
 
-👁️ 22K • 👍 789 • 💬 258 • ⏱️ 14:50 • 15h ago
+👁️ 23K • 👍 813 • 💬 276 • ⏱️ 14:50 • 18h ago
 
 ---
 
-**[Bitcoin just erased every dollar it gained since the election.](https://www.youtube.com/watch?v=D1nO0Lj95yY)**
+**[This Bitcoin Relief Rally Will Destroy Investors!](https://www.youtube.com/watch?v=LUgKKvJdcZo)**
 
-Bitcoin just erased every dollar it gained since the election. Worst week since FTX, and it started when the biggest holder sold.
+The market is bouncing, but Ran believes investors should be extremely cautious. What looks like strength on the surface may ...
 
-📺 Upside Invest
+📺 Crypto Banter
 
-👁️ 8K • 👍 527 • 💬 41 • ⏱️ 1:38 • 16h ago
+👁️ 28K • 👍 1K • 💬 39 • ⏱️ 31:01 • 21h ago
 
 ---
 
-**[Historic Bitcoin Bottom Signal Just Triggered](https://www.youtube.com/watch?v=l-N5WLxZjQY)**
+**[2 reasons WHY Bitcoin is DUMPING right now 🚨](https://www.youtube.com/watch?v=NkXo6VnejYc)**
 
-Your AI Platform for Crypto, Markets, and Sports ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+2 main reasons WHY Bitcoin is DUMPING right now: job reports were really good so bonds spiked, and the Fed might have to ...
 
-📺 CryptosRUs
+📺 STOCK UP! with LARRY JONES
 
-👁️ 18K • 👍 922 • 💬 171 • ⏱️ 43:28 • 17h ago
+👁️ 11K • 👍 361 • 💬 26 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[My Realistic Price Target For This Bitcoin Bounce! [+ Bonus Trades]](https://www.youtube.com/watch?v=WLt-MdSJ1K0)**
+
+In today's video, Kyledoops shows you his realistic price target for this Bitcoin bounce and then outlines trade setups for some ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 898 • 💬 14 • ⏱️ 40:23 • 3h ago
 
 ---
 
