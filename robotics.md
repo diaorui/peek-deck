@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-08T23:47:09.751296+00:00'
+updated: '2026-06-09T03:35:39.272140+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 08, 2026 at 23:47 UTC  
+**Last Updated:** June 09, 2026 at 03:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Humanoid robot kicks a child during a performance at a Chinese amusement park](https://www.reddit.com/r/robotics/comments/1u0fb3h/humanoid_robot_kicks_a_child_during_a_performance/)**
+
+9h ago
+
+---
+
 **[Simulating 2D & 3D Robot Arms in Excel, with Inverse Kinematics](https://www.reddit.com/r/robotics/comments/1u0arfu/simulating_2d_3d_robot_arms_in_excel_with_inverse/)**
 
 I made a playable Excel workbook that models a 2D and 3D robot arm using only ordinary spreadsheet formulas, charts, sliders, and Excel Solver. The idea is to make kinematics easier to understand. GitHub: https://github.com/CarlKCarlK/excel-3d-robot-arm The 3D arm is inspired by the old Radio Shack / TOMY Armatron toy robot arm. The workbook lets you move the arm manually, set a target point, and then use Excel's Solver to find the control settings that move the hand to the target (inverse kinematics!). I made this mostly as a learning project. Excel makes the math visible: the rotation matrices, position updates, target error, and Solver setup are all inspectable cell by cell. Nothing is hidden in a robotics library or graphics engine. The model itself is just a series of rows, each controlling one segment. The rows process 3 ways to turn (yaw, pitch, roll) or a move, turtle graphics-style.
 
-8h ago
-
----
-
-**[A Unitree robot picks up a box from the floor and climb onto a desk with it.](https://www.reddit.com/r/robotics/comments/1u04el5/a_unitree_robot_picks_up_a_box_from_the_floor_and/)**
-
-From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Project: MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation Website: https://atarilab.github.io/motiondisco.io/ ArXiv: https://arxiv.org/pdf/2606.06139
-
 12h ago
-
----
-
-**[Humanoid robot kicks a child during a performance at a Chinese amusement park](https://www.reddit.com/r/robotics/comments/1u0fb3h/humanoid_robot_kicks_a_child_during_a_performance/)**
-
-5h ago
 
 ---
 
@@ -58,7 +50,23 @@ From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Pro
 
 This machine takes around four seconds for each solve. To reach that speed I had to use the kociemba algorithm, which can find a solution of around 20 moves for all scrambles. It took me a really long time to complete this so I would appreciate it if you show it some love! I made this when I was around 15. Please ask questions!
 
-3h ago
+6h ago
+
+---
+
+**[A Unitree robot picks up a box from the floor and climb onto a desk with it.](https://www.reddit.com/r/robotics/comments/1u04el5/a_unitree_robot_picks_up_a_box_from_the_floor_and/)**
+
+From C. Zhang on 𝕏: https://x.com/ChongZzZhang/status/2062837883178738107 Project: MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation Website: https://atarilab.github.io/motiondisco.io/ ArXiv: https://arxiv.org/pdf/2606.06139
+
+16h ago
+
+---
+
+**[Made a tool so I stop rewriting tactile sensor loaders every project](https://www.reddit.com/r/robotics/comments/1u0rx4y/made_a_tool_so_i_stop_rewriting_tactile_sensor/)**
+
+https://reddit.com/link/1u0rx4y/video/yhckg2drz56h1/player Sick of writing custom parsers every time I switch tactile sensors. Threw this together — one API, any sensor, 3 lines. Video shows the useful thing: demo: AI pre-annotate → review → export. Took me like 2 minutes. pip install tlabel import tlabel tlabel.demo() # try it right now, zero config Works with GelSight Mini, DIGIT, PaXini, Daimon. MIT, free.
+
+1h ago
 
 ---
 
@@ -66,7 +74,15 @@ This machine takes around four seconds for each solve. To reach that speed I had
 
 Hey reddit, So we built a gaming accessibility app SensePilot that enable people with disabilities to control a computer and play video games. I just finished developing the human-robot interface prototype so thought I'll share the demo here too as its related to robotics. Hope to eventually apply this to assistive living robots, because their controls are usually very limited and their users are unable to use hands for controlling the robot very well.
 
-9h ago
+13h ago
+
+---
+
+**[Building on the SunFounder PiCar-X: Upgrading for SLAM & Computer Vision](https://www.reddit.com/r/robotics/comments/1u0tavv/building_on_the_sunfounder_picarx_upgrading_for/)**
+
+I've recently completed the assembly of a SunFounder PiCar-X and am currently running it on a legacy Raspberry Pi B. I have the base movement and motor control working and am currently prepping to get it chasing ArUco/AprilTags this coming week. I'm looking to evolve this platform into something capable of SLAM and eventually Structure from Motion (SfM). I'd love to get some community advice on the best way to handle these upgrades: Traction The stock wheels are quite slippery. Has anyone found direct-fit replacement tires or wheels that offer better grip on smooth indoor surfaces? Odometry Since the stock motors lack encoders, my dead reckoning is non-existent. Should I attempt to mount external encoders to these motors, or is it better to swap out the motor/gearbox assembly entirely for something with integrated feedback? IMU for SLAM I'm planning to add an accelerometer/gyroscope. Any specific sensors (such as the BNO055 vs. MPU6050) that are currently considered the "gold standard" for stability and ease of integration on a Raspberry Pi? Computer Vision The current camera resolution is limiting for SfM. Any recommendations for a higher-resolution CSI or USB camera that fits well within the PiCar's chassis? ROS 2 / Distributed Computing A specific question on the software side: I'm planning to move this platform to ROS 2. Given that I'm working with a legacy Raspberry Pi B, is this a lost cause, or should I keep the Pi as a low-level hardware node and offload the heavy ROS 2 processing, SLAM, and visualization tasks to a more powerful machine on my network? If a distributed setup is the preferred approach, what does the typical workflow look like? For example: Pi handles motor control, sensors, and camera acquisition ROS 2 nodes run on a desktop/laptop workstation Visualization and mapping performed via RViz on the workstation Communication over Wi-Fi using DDS Is this the recommended architecture, or are there better approaches for a platform like the PiCar-X? General Advice Any feedback on the hardware upgrade path, software architecture, or general "gotchas" with this kit would be greatly appreciated. Thanks in advance!
+
+23m ago
 
 ---
 
@@ -74,35 +90,19 @@ Hey reddit, So we built a gaming accessibility app SensePilot that enable people
 
 I made a little online multiplayer game inspired by my recent underwater robotics work. You can pilot a little ROV around the ocean, explore shipwrecks, take photos and categorize fish and things. It's multiplayer and I'm thinking of having treasure hunts, etc. Should I ship it? Would you play?
 
-20h ago
+1d ago
 
 ---
 
 **[Testing autonomous robot data collection from real-world attempts](https://www.reddit.com/r/robotics/comments/1u009cr/testing_autonomous_robot_data_collection_from/)**
 
-16h ago
+20h ago
 
 ---
 
 **[Point-to-point autonomous navigation](https://www.reddit.com/r/robotics/comments/1u06fbw/pointtopoint_autonomous_navigation/)**
 
-11h ago
-
----
-
-**[AIFITLAB - Should I Trust?](https://www.reddit.com/r/robotics/comments/1u09ff6/aifitlab_should_i_trust/)**
-
-I'm looking to buy a robot arm through AIFITLAB - has anyone done a major purchase through them recently? I'm looking to buy an AgileX NERO, price seems lower than US based companies which I know might be due to tariffs
-
-9h ago
-
----
-
-**[Current research directions in robotics foundation models if you can’t train from scratch?](https://www.reddit.com/r/robotics/comments/1u0i1nz/current_research_directions_in_robotics/)**
-
-TL;DR struggling in finding a meaningful research contribution on top of existing big foundation models. (edit: please note it's my first post on reddit,I'm not a bot) Context: I'm working on FM applied to robotics: VLAs, world models, WAMs. Lately I'm mostly reading papers, and implementing small adds on. Those topic are really exiting but I’m wondering where modest researchers (like me) can make meaningful contributions, given that training competitive foundation models from scratch is a big-lab game. For people working on fondation models in academy and R&D, that asked themself similar questions: Do you have some honest suggestions or feedback? If starting from a pretrained fondation model, main things that come to my mind are eg: - architecture changes (don't you lose all the pre training warmup)? - fine tune (not much new science if one runs lora...) - froze the model and build add-on like uncertaintyquant , world-model lookahead, inference guidance, safety constraints - something big I'm not seeing? Also happy to hear paper/project recommendations that are good examples of this. Thank you all.
-
-4h ago
+15h ago
 
 ---
 
@@ -114,19 +114,19 @@ TL;DR struggling in finding a meaningful research contribution on top of existin
 
 New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
 
-NVIDIA Blog • 20h ago
+NVIDIA Blog • 1d ago
 
 ---
 
 **[Nvidia CEO Jensen Huang: "No one" better with robots than Hyundai](https://www.axios.com/2026/06/08/nvidia-jensen-huang-hyundai-robots)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[Nvidia, Hyundai Deepen Joint Push Into AI-Powered Robotics](https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics)**
 
-Bloomberg.com • 13h ago
+Bloomberg • 17h ago
 
 ---
 
@@ -134,7 +134,7 @@ Bloomberg.com • 13h ago
 
 Robot.com CEO Felipe Chavez said he wants to build an ecosystem of robots that will handle boring, repetitive tasks.
 
-Business Insider • 14h ago
+Business Insider • 18h ago
 
 ---
 
@@ -150,7 +150,7 @@ Fortune • 2d ago
 
 Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.
 
-BBC • 40m ago
+BBC • 4h ago
 
 ---
 
@@ -158,7 +158,7 @@ BBC • 40m ago
 
 This is the new hype in Silicon Valley. Should you get on board?
 
-The Washington Post • 6h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -168,15 +168,17 @@ The Economist • 1d ago
 
 ---
 
-**[Micron: Robotics Supercycle Meets Fed Rate Hike Risks](https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade)**
-
-Seeking Alpha • 1d ago
-
----
-
 **[Amid manufacturing workforce woes, CT bets on youth robotics](https://ctmirror.org/2026/06/07/robotics-manufacturing-technology-first-recf-ct/)**
 
 CT Mirror • 1d ago
+
+---
+
+**[Video: Robot masters air hockey, learns to beat humans without ever touching real table](https://interestingengineering.com/ai-robotics/robot-masters-air-hockey-without-touching-table)**
+
+UBC students skipped traditional physics engines to build a hyper-reactive, AI-controlled air hockey robot using soft actor-critic training.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -190,17 +192,7 @@ Unitree has waited years to show the world something new, and the result is one 
 
 📺 America's Got Talent
 
-👁️ 3.3M • 👍 56K • 💬 6K • ⏱️ 6:01 • 6d ago
-
----
-
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
-
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
-
-📺 New York Post
-
-👁️ 236K • 👍 5K • 💬 4K • ⏱️ 2:17 • 2d ago
+👁️ 3.3M • 👍 57K • 💬 6K • ⏱️ 6:01 • 6d ago
 
 ---
 
@@ -210,7 +202,27 @@ The future isn't coming someday—it's already here. From elder-care companions 
 
 📺 IntelliCore
 
-👁️ 24K • 👍 230 • 💬 13 • ⏱️ 9:14 • 6d ago
+👁️ 24K • 👍 230 • 💬 14 • ⏱️ 9:14 • 6d ago
+
+---
+
+**[The US Wants Unitree Robotics BANNED! #robotics #unitree #unitreeg1](https://www.youtube.com/watch?v=3xBkpE2UD0M)**
+
+Chinese robotics leader Unitree is heading into what looks like a blockbuster summer, but it comes with growing risks that could ...
+
+📺 Kalil 4.0
+
+👁️ 578 • 👍 21 • ⏱️ 1:05 • 1h ago
+
+---
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 244K • 👍 5K • 💬 4K • ⏱️ 2:17 • 2d ago
 
 ---
 
@@ -220,7 +232,7 @@ Unitree dances on stage, and the judges GO ABSOLUTELY FERAL. What an innovative 
 
 📺 Talent Recap
 
-👁️ 1.4M • 👍 20K • 💬 1K • ⏱️ 5:01 • 6d ago
+👁️ 1.5M • 👍 20K • 💬 1K • ⏱️ 5:01 • 6d ago
 
 ---
 
@@ -234,51 +246,43 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 ---
 
-**[One Motor, Unlimited Grippers — Here&#39;s How #shorts #robot #cobot #robotics #autotoolchanger](https://www.youtube.com/watch?v=Mtozj-UNqew)**
-
-Auto Tool Changer That Never Stops — MATC! Adding a gripper meant adding another motor. That complex, costly structure ends ...
-
-📺 코라스로보틱스 | Korasrobotics
-
-👁️ 184K • 👍 2K • ⏱️ 1:22 • 4d ago
-
----
-
-**[This Robot Tattoo Machine Printed a Full Koi Sleeve in One Pass 🐉](https://www.youtube.com/watch?v=KONmxYcDwBs)**
-
-A robotic tattoo machine prints a full Japanese koi sleeve across a bare arm in one continuous pass The pressure seal, the ...
-
-📺 Prototype Leaked
-
-👁️ 12K • 👍 145 • ⏱️ 0:11 • 8h ago
-
----
-
 **[Unitree&#39;s Dancing Robots STUN America&#39;s Got Talent!](https://www.youtube.com/watch?v=zZKIKz0RsHY)**
 
 Unitree amazed the audience on America's Got Talent with an incredible robot dance performance alongside a 26-year-old ...
 
 📺 The Construct Robotics Institute
 
-👁️ 74K • 👍 1K • 💬 152 • ⏱️ 5:12 • 3d ago
+👁️ 76K • 👍 1K • 💬 152 • ⏱️ 5:12 • 3d ago
 
 ---
 
-**[Finally! A Robot Lawn Mower Worth buying](https://www.youtube.com/watch?v=ZLXM4bND1vk)**
+**[One Motor, Unlimited Grippers — Here&#39;s How #shorts #robot #cobot #robotics #autotoolchanger](https://www.youtube.com/watch?v=Mtozj-UNqew)**
 
-Lymow One Plus Robot Lawn mower review Get your Lymow One Plus here: https://amzn.to/4v69cVV Looking for High quality, ...
+Auto Tool Changer That Never Stops — MATC! Adding a gripper meant adding another motor. That complex, costly structure ends ...
 
-📺 Rockhill farm 
+📺 코라스로보틱스 | Korasrobotics
 
-👁️ 4K • 👍 306 • 💬 49 • ⏱️ 20:35 • 1d ago
+👁️ 188K • 👍 2K • ⏱️ 1:22 • 4d ago
 
 ---
 
-**[This ROBOT is not HUMAN 😭🔥](https://www.youtube.com/watch?v=rbOvdL_VCd4)**
+**[Robot zipping a backpack: Autonomous dexterity challenge at ICRA 2026 #physicalai #robotics](https://www.youtube.com/watch?v=o9xZRhJCB3U)**
 
-📺 Naifh Alehydeb
+One of the standouts from #ICRA2026 is the #TARS Robotics performance! The best dexterity and adaptation to a live task / new ...
 
-👁️ 116K • 👍 5K • 💬 93 • ⏱️ 0:28 • 12h ago
+📺 Back to Engineering
+
+👁️ 5K • 👍 30 • 💬 3 • ⏱️ 0:19 • 14h ago
+
+---
+
+**[This Robotic Hand Moves After Being Detached From the Body](https://www.youtube.com/watch?v=s74Q6jC-w2U)**
+
+Open Bionics built a bionic hand that detaches and keeps moving on its own. After 30 days, users' brains permanently rewired to ...
+
+📺 AzlanX
+
+👁️ 105K • 💬 30 • ⏱️ 0:34 • 3d ago
 
 ---
 
