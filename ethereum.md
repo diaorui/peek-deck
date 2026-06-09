@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-09T21:18:01.069324+00:00'
+updated: '2026-06-09T22:58:30.941949+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - videos
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 21:18 UTC  
+**Last Updated:** June 09, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** -8.5%  
-**30d:** -29.1%  
-**90d:** -19.9%  
-**1y:** -41.0%  
+**24h:** -2.9%  
+**7d:** -9.5%  
+**30d:** -29.9%  
+**90d:** -20.8%  
+**1y:** -41.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Create a reward token that doubles in supply yearly. Promise a 51% yield to prov
 
 Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them to do well. Perpification of all assets is going way faster that most realized, while tokenization of rwa’s have taken much longer due to the complexity of regulations, cross chain considerations, liquidity concerns, split order books etc. Perps have become the top choice for people to gamble on commodities like gold, silver, oil, and of course stocks and even pre IPO stocks. Volatility is a tailwind for perp dex revenue, and I expect further volatility this summer and rest of the year. Notice I didn’t even mention crypto perps. Even when crypto has low liquidity and mindshare, perp dex’s will still do well as people trade all assets. Lighter is currently much smaller than HYPE. About 2% of both MC and FDV. $LIT alpha: US based: Vlad, the founder of Lighter, has strong connections to both Silicon Valley, DC heavyweights, and NYC tradfi institutions. He has strong connections to Robinhood, and was an early advisor and HS friend to the other Vlad, ceo of RH. RH was an early investor to Lighter, and I expect some collaboration with them in the future, as Vlad mentioned in a few interviews. I expected some integration of the options market form RH may be able to flow through Lighter on chain, or lighter can help RH with the perps in Us market. Vlad is also friends with Mike Selig of the CFTC, and also with David Sacks. Sacks was an early investor in Lighter before divesting and working for the Trump admin. I expect lighter to receive CFTC approval for us perps market and perhaps tokenization way before hyperliquid Ken Griffin, ceo of citadel, personally hired Vlad when he was 19. Citadel looks to be the perfect partner to provide liquidity to lighter. Citadel would make money on spreads. They also would need to buy $LIT token to be included in the liquidity pool as that’s how the tokenomics are set up 3) token buybacks. Lighter is using 100% of the revenue to buy back the $LIT token, and their buybacks is about 150% higher than $HYPE as % of market cap 4) Vlad also has strong relationships with EF and Vitalik, BMNR and tom Lee. Excited to see where these partnerships go. And I wouldn’t be surprised if these orgs invest in lighter as ethereum community is in their lowest sentiment. They need a killer app.
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Circle unveiled "cirBTC", a token backed 1:1 with the world's largest cryptocurrency to allow users to utilise their bitcoin wealth in DeFi protocols.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -170,7 +170,15 @@ Circle Internet Financial • 1d ago
 
 These are today's bitcoin and ethereum prices, Tuesday, June 9, 2026. Bitcoin opened at $63,078.89, down 0.3% from yesterday’s opening price. Ethereum opened at $1,689.88, up 0.2% from yesterday's open.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum](https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum)**
+
+The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.
+
+Decrypt • 2h ago
 
 ---
 
@@ -218,15 +226,7 @@ CoinDesk • 1d ago
 
 ZURICH, June  09, 2026  (GLOBE NEWSWIRE) -- MemeToro AI Labs, an innovative developer of decentralized artificial intelligence infrastructure, tod...
 
-markets.businessinsider.com • 7h ago
-
----
-
-**[Not Bitcoin or Ethereum: These were the most popular crypto tokens in May](https://www.livemint.com/money/personal-finance/not-bitcoin-not-ethereum-these-were-the-most-popular-crypto-trades-in-may-binance-report-11781007011370.html)**
-
-In May, traders sought lesser-known tokens. While Bitcoin and Ethereum struggled, digital assets such as HYPE and BNB gained. Here's why major tokens failed to entice investors, and some tokens emerged as winners.
-
-Mint • 7h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 203 • 💬 38 • ⏱️ 15:00 • 6h ago
+👁️ 3K • 👍 203 • 💬 38 • ⏱️ 15:00 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 340 • 💬 200 • ⏱️ 19:32 • 14h ago
+👁️ 7K • 👍 340 • 💬 200 • ⏱️ 19:32 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated
 
 📺 The Rollup
 
-👁️ 4K • 👍 114 • 💬 21 • ⏱️ 38:13 • 22h ago
+👁️ 4K • 👍 114 • 💬 21 • ⏱️ 38:13 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 245 • 👍 23 • 💬 2 • ⏱️ 4:41 • 11h ago
+👁️ 245 • 👍 23 • 💬 2 • ⏱️ 4:41 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ When will #ethereum finally bottom? In this video, I break down a historical pat
 
 📺 Humble Market Timer
 
-👁️ 174 • 👍 3 • ⏱️ 9:34 • 9h ago
+👁️ 174 • 👍 3 • ⏱️ 9:34 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ In this video, I explain why I believe Ethereum DeFi is headed for a major colla
 
 📺 Jerry Banfield ICP
 
-👁️ 1K • 👍 146 • 💬 42 • ⏱️ 5:43 • 9h ago
+👁️ 1K • 👍 146 • 💬 42 • ⏱️ 5:43 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-09T21:18:01.063285+00:00'
+updated: '2026-06-09T22:58:30.935378+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 09, 2026 at 21:18 UTC  
+**Last Updated:** June 09, 2026 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,103.78
+### $61,748.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -3.2%  
-**30d:** -24.1%  
-**90d:** -11.9%  
-**1y:** -43.6%  
+**24h:** -2.2%  
+**7d:** -3.8%  
+**30d:** -24.5%  
+**90d:** -12.4%  
+**1y:** -44.0%  
 
 ---
 
@@ -79,6 +79,20 @@ Rank #1
 
 **[Choose carefully](https://www.reddit.com/r/Bitcoin/comments/1u1d113/choose_carefully/)**
 
+4h ago
+
+---
+
+**[btc went below the "fire sale"](https://www.reddit.com/r/Bitcoin/comments/1u1hrpu/btc_went_below_the_fire_sale/)**
+
+https://preview.redd.it/ckast777nb6h1.png?width=1331&format=png&auto=webp&s=252463789ba3eb19323f675b785887c61a7c80f1 i guess its time to buy more...
+
+1h ago
+
+---
+
+**[Spot the Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1u1fuch/spot_the_bitcoiner/)**
+
 3h ago
 
 ---
@@ -87,11 +101,13 @@ Rank #1
 
 In a ruling that highlights the growing legal complexity surrounding digital assets, a Chinese court has reaffirmed that Bitcoin can be treated as protected property under criminal law, even as the country continues to ban cryptocurrency trading and related business activities. The decision emerged from a remarkable theft case involving 107 Bitcoin and is likely to draw attention from regulators, investors, and legal experts worldwide. The case underscores a broader global trend: governments may restrict or regulate cryptocurrency markets, but courts are increasingly recognizing digital assets as possessing real economic value that deserves legal protection. For Bitcoin holders, the ruling reinforces a critical reality—ownership rights and trading rights are not necessarily the same thing. According to court documents, a man identified only by his surname Zhang was sentenced to 10 years and 9 months in prison after stealing 107 BTC from an acquaintance. Prosecutors said Zhang gained access to the victim’s wallet in an unusually low-tech but highly effective manner. After observing the wallet creation process, he reportedly memorized 11 of the 12 recovery seed words and later reconstructed the final word using contextual clues, allowing him to regain access to the wallet and transfer the funds. Authorities eventually traced the missing Bitcoin and linked the theft to Zhang, leading to one of the most significant criminal sentences handed down in China for a cryptocurrency-related crime. The severity of the punishment reflects not only the value of the stolen assets but also the court’s willingness to treat Bitcoin theft in the same legal category as the theft of traditional property. The most consequential aspect of the case, however, was the prosecution’s successful argument that Bitcoin qualifies as “property” under Chinese criminal law. By accepting that interpretation, the court reinforced an increasingly consistent legal position emerging from Chinese jurisprudence: while cryptocurrency trading platforms, mining operations, and financial services remain heavily restricted, individuals can still possess legally recognized ownership rights over digital assets. This distinction has become increasingly important as courts around the world grapple with how to classify cryptocurrencies. Similar debates have played out in jurisdictions ranging from the United States and the European Union to Singapore and Hong Kong, where regulators continue to refine the balance between investor protection, market oversight, and technological innovation. China’s latest ruling suggests that even some of the world’s most restrictive crypto environments are adapting traditional property laws to accommodate digital assets. The decision does not signal any softening of Beijing’s broader anti-crypto stance. Cryptocurrency exchanges remain banned, and financial institutions are prohibited from offering crypto-related services. Yet the ruling demonstrates that Chinese courts are increasingly separating ownership rights from commercial activity restrictions, creating a more nuanced legal framework than many outside observers assume. For investors, the case delivers a lesson that transcends China’s borders. The theft was not the result of sophisticated malware, blockchain vulnerabilities, or advanced cyberattacks. Instead, it stemmed from a compromised recovery phrase—arguably the most basic security component in self-custodied digital assets. As Bitcoin adoption expands globally, the weakest link often remains human behavior rather than technology itself. The broader takeaway may be one of crypto’s most intriguing contradictions: even governments that restrict digital asset markets are finding it increasingly difficult to deny that cryptocurrencies represent real property with real economic value. The question facing regulators is no longer whether Bitcoin has value—it is how legal systems will continue adapting as digital assets become an increasingly permanent part of the global financial landscape.
 
-🔗 [Market Insider](https://marketinsider.net/chinas-bitcoin-paradox-court-recognizes-btc-as-property-in-107-btc-theft-case/) • 13h ago
+🔗 [Market Insider](https://marketinsider.net/chinas-bitcoin-paradox-court-recognizes-btc-as-property-in-107-btc-theft-case/) • 14h ago
 
 ---
 
-**[Spot the Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1u1fuch/spot_the_bitcoiner/)**
+**[Strategy sells 32 BTC, the market collapses. Same company buys 1,000 BTC and the market doesn't move. Can someone explain it to me like Im 5yr old?](https://www.reddit.com/r/Bitcoin/comments/1u1htco/strategy_sells_32_btc_the_market_collapses_same/)**
+
+I'm having a bit of a difficult time reconciling that - Is it panic selling? does the market need time to digest? is it that the IPO's are consuming all this capital?
 
 1h ago
 
@@ -101,7 +117,7 @@ In a ruling that highlights the growing legal complexity surrounding digital ass
 
 Almost every chart analysis and trends predicted it to go at least 55k. But instead of stalling at 59k, it has since increased violently to 64k. Why has this happened and can we expect it to go down soon (ie. This increase is a temporary pump)?
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +125,7 @@ Almost every chart analysis and trends predicted it to go at least 55k. But inst
 
 The last time BTC was at $62,000 or so was back in 2021. In Oct. 2025, I would've done anything to go back in time and buy BTC at that price. Now, we are at that price point! So, isn't it a good time to buy?
 
-20h ago
+21h ago
 
 ---
 
@@ -117,15 +133,15 @@ The last time BTC was at $62,000 or so was back in 2021. In Oct. 2025, I would'v
 
 I’m going to buy some and it always drops when I do.
 
-21h ago
+22h ago
 
 ---
 
-**[btc went below the "fire sale"](https://www.reddit.com/r/Bitcoin/comments/1u1hrpu/btc_went_below_the_fire_sale/)**
+**[Joined the million club!](https://www.reddit.com/r/Bitcoin/comments/1u1gelh/joined_the_million_club/)**
 
-https://preview.redd.it/ckast777nb6h1.png?width=1331&format=png&auto=webp&s=252463789ba3eb19323f675b785887c61a7c80f1 i guess its time to buy more...
+As the title says, thanks to the dip this last week and some smash buys as a result, I finally joined the million club! Aka, 21 bitcoin. Feeling pretty stoked. Throwaway account for obvious reasons. For those of you doubting btc due to recent price movement, take it from someone who has been in this since 2013. It's all the same shit we've seen numerous times over. The FUD, the doomposts, the naysayers. People saying this time is different, it will go to zero, etc. I've seen almost all of it, and every time it comes back stronger. My only regret with Bitcoin has always been not buying enough. THIS is the time to buy. So keep stacking. Be consistent, and one day it will pay off.
 
-15m ago
+2h ago
 
 ---
 
@@ -133,23 +149,7 @@ https://preview.redd.it/ckast777nb6h1.png?width=1331&format=png&auto=webp&s=2524
 
 This is the true opportunity everyone it's waiting for If you keep buying now around ~60K When BTC hit again 120K Our returns will be 100% of the initial investment But... ¿Do you have enough guts to hold BTC for years, without selling?
 
-19h ago
-
----
-
-**[Why do so many people oppose expanding Bitcoin's use cases?](https://www.reddit.com/r/Bitcoin/comments/1u15vll/why_do_so_many_people_oppose_expanding_bitcoins/)**
-
-Genuine question. Whenever new Bitcoin use cases are discussed, whether it's DeFi, lending, staking, or other applications, there's always a group that strongly pushes back against them. If these developments are optional and don't alter Bitcoin's core properties, why the resistance? Is it mainly about preserving security and simplicity, or is there a concern that additional layers eventually introduce trade-offs that could undermine what makes Bitcoin valuable in the first place? I think healthy skepticism is important. Not every use case deserves adoption. But if people are free to opt in or ignore them, shouldn't the market decide what provides value? Curious to hear different perspectives.
-
-7h ago
-
----
-
-**[Bitcoin Core disk full on Umbrel OS — 1TB SSD not enough anymore?](https://www.reddit.com/r/Bitcoin/comments/1u16hog/bitcoin_core_disk_full_on_umbrel_os_1tb_ssd_not/)**
-
-I was running a Bitcoin Core node on Umbrel OS on a 1TB SSD and ran into a disk space issue near the end of the initial sync. The node was already at around height 952,967 (~99.9% synced) when it suddenly stopped with a “No space left on device” error while writing to the txindex database. After checking disk usage with df -h, I found the main partition /dev/sda1 mounted at /mnt/data was completely full (938GB total, 891GB used, 0GB available), which caused Bitcoin Core to shut down to avoid corrupting the LevelDB database. To investigate further, I checked the Bitcoin data directory using du -sh, which showed that most of the space was consumed by the blockchain itself: blocks was ~792GB, chainstate ~12GB, and indexes ~78GB (including a ~66GB txindex and ~13GB block filters). I also confirmed that Docker usage was minimal (docker system df showed only ~3.8GB total), so the issue was clearly the Bitcoin data size combined with the filesystem reserve. I then checked the ext4 reserved space using tune2fs -l /dev/sda1 | grep 'Reserved block count', which showed a 5% reservation (~47GB), further limiting usable space for the node during sync operations. The solution I applied was reducing the ext4 reserved space from 5% to 1% using the command sudo tune2fs -m 1 /dev/sda1. After applying this change, I verified the disk again with df -h /mnt/data, which now showed about 39GB of available space (938GB total, 891GB used, 39GB available, 96% usage). This gave the system enough breathing room to continue operating. The node could then proceed without immediately hitting disk full errors again. The root cause is that a full archival Bitcoin node with txindex enabled on a 1TB SSD in 2026 leaves almost no operational buffer, especially during final sync stages where LevelDB needs extra temporary space to write and reorganize data. I would recommend anyone using a 1TB drive to store the Bitcoin blockchain to regularly check whether their node is still able to sync properly and whether there is enough free disk space for ongoing operations.
-
-6h ago
+21h ago
 
 ---
 
@@ -161,7 +161,7 @@ I was running a Bitcoin Core node on Umbrel OS on a 1TB SSD and ran into a disk 
 
 The year has been a rocky one for the flagship cryptocurrency, but traders aren't backing away from the space.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -173,33 +173,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Live updates: Bitcoin narrows early losses, returns to $62,000 as Nasdaq bounces to close down 1%](https://www.coindesk.com/tech/2026/06/09/live-updates-bitcoin-drifts-back-to-usd62-500-putting-damper-on-hope-for-two-straight-up-days)**
-
-Crypto prices rose on Monday following last week's crash, but the bears still appear to be in control.
-
-CoinDesk • 30m ago
-
----
-
-**[Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum](https://www.yahoo.com/news/us/articles/seattle-area-man-gets-prison-202611226.html)**
-
-The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.
-
-Yahoo • 51m ago
-
----
-
 **[More than $1 trillion in value gone in 8 months. What’s going on with bitcoin?](https://www.cnn.com/2026/06/09/business/bitcoin-slump-ai-stocks)**
 
 Since hitting a record high of $126,000 last fall, bitcoin has dropped to just above $60,000 amid waves of selling. That has erased more than $1.2 trillion in market cap in eight months and wiped out all gains across President Donald Trump’s second term.
 
-CNN • 11h ago
+CNN • 13h ago
+
+---
+
+**[Live updates: Bitcoin narrows early losses, returns to $62,000 as Nasdaq bounces to close down 1%](https://www.coindesk.com/tech/2026/06/09/live-updates-bitcoin-drifts-back-to-usd62-500-putting-damper-on-hope-for-two-straight-up-days)**
+
+Crypto prices rose on Monday following last week's crash, but the bears still appear to be in control.
+
+CoinDesk • 8h ago
 
 ---
 
 **[Bitcoin’s Worst Week Since FTX Crash May Signal More Pain Ahead](https://www.bloomberg.com/news/articles/2026-06-09/bitcoin-s-worst-week-since-ftx-crash-may-signal-more-pain-ahead)**
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -207,7 +199,7 @@ Bloomberg.com • 31m ago
 
 Michael Saylor leveraged Strategy to the hilt. Now the math is working against him.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -221,15 +213,21 @@ Reuters • 1d ago
 
 North Tonawanda residents are pushing back on a plan to convert a controversial bitcoin mining facility on Erie Avenue into an AI data center.
 
-WKBW • 18h ago
+WKBW • 19h ago
 
 ---
 
-**[How Low Can Bitcoin Go?](https://www.fool.com/investing/2026/06/08/how-low-can-bitcoin-go/)**
+**[Analyst sees Bitcoin hitting $227K-$378K amid monetary scarcity, gold flows](https://www.investing.com/news/cryptocurrency-news/analyst-sees-bitcoin-hitting-227k378k-amid-monetary-scarcity-gold-flows-4733694)**
 
-Technically speaking, Bitcoin's floor is zero, but that's unlikely to happen if history is any guide.
+Investing.com • 4h ago
 
-The Motley Fool • 20h ago
+---
+
+**[Bitcoin Is Suddenly Hurtling Toward A Surprise $1.75 Trillion Elon Musk Price Shock](https://www.forbes.com/sites/digital-assets/2026/06/09/bitcoin-is-suddenly-hurtling-toward-a-surprise-175-trillion-elon-musk-price-shock/)**
+
+SpaceX and Tesla chief executive Elon Musk could be about to trigger bitcoin's next price boom...
+
+Forbes • 10h ago
 
 ---
 
@@ -293,7 +291,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used to claim "lost" assets controlled by private keys.
 
-⬆️ 4 • 💬 0 • 1d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
+⬆️ 4 • 💬 0 • 2d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
 
 ---
 
@@ -305,11 +303,11 @@ In the past two days, bitcoin's highest-conviction holders have sold about $2.4 
 
 ---
 
-**[MSTR sells Bitcoin for 1st time since 2022 as quantum risks emerge](https://news.ycombinator.com/item?id=48376561)**
+**[Bitcoin pump to $63,700 triggers the most short liquidations since late April](https://news.ycombinator.com/item?id=48442539)**
 
-MicroStrategy sold 32 bitcoin in May, marking the first mstr stock sale of digital assets since December 2022. The company’s disclosure triggered declines in the stock, signaling investor concern over a shift in management’s blockchain strategy. Quick Facts 32 bitcoin sold for $2.5 million in May 2026 First sale since December 2022—nearly 3.5 years earlier…
+Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday.
 
-⬆️ 3 • 💬 2 • 6d ago • [ECIKS.org](https://eciks.org/6891-53435-mstr-stock-drops-as-strategy-sells-bitcoin-for-first-time-since-2022)
+⬆️ 2 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2026/06/08/bitcoin-pump-to-usd63-700-triggers-the-most-short-liquidations-since-late-april)
 
 ---
 
@@ -333,7 +331,7 @@ Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are al
 
 📺 Mark Moss
 
-👁️ 9K • 👍 1K • 💬 155 • ⏱️ 20:43 • 2h ago
+👁️ 9K • 👍 1K • 💬 155 • ⏱️ 20:43 • 3h ago
 
 ---
 
@@ -353,7 +351,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 766 • 💬 216 • ⏱️ 35:38 • 7h ago
+👁️ 13K • 👍 766 • 💬 216 • ⏱️ 35:38 • 8h ago
 
 ---
 
@@ -363,7 +361,7 @@ CHECK OUT TBL PULSE FOR FREE: https://research.thebitcoinlayer.com/ In this epis
 
 📺 The Bitcoin Layer
 
-👁️ 701 • 👍 80 • 💬 49 • ⏱️ 37:30 • 5h ago
+👁️ 701 • 👍 80 • 💬 49 • ⏱️ 37:30 • 7h ago
 
 ---
 
@@ -393,7 +391,7 @@ MicroStrategy's reported sale of 32 BTC is small relative to its overall holding
 
 📺 Sebastien Davies
 
-👁️ 769 • 👍 3 • 💬 1 • ⏱️ 0:40 • 8h ago
+👁️ 769 • 👍 3 • 💬 1 • ⏱️ 0:40 • 10h ago
 
 ---
 
@@ -403,7 +401,7 @@ It is once again time for an update on our Bitcoin: The Beauty of Mathematics se
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 5K • 💬 485 • ⏱️ 7:10 • 20h ago
+👁️ 55K • 👍 5K • 💬 485 • ⏱️ 7:10 • 21h ago
 
 ---
 
