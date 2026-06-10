@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-10T00:20:47.891678+00:00'
+updated: '2026-06-10T04:57:54.907835+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 00:20 UTC  
+**Last Updated:** June 10, 2026 at 04:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,56 +38,62 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,610.82
+### $61,237.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -3.3%  
-**30d:** -23.2%  
-**90d:** -12.9%  
-**1y:** -43.1%  
+**24h:** -3.3%  
+**7d:** -4.1%  
+**30d:** -23.9%  
+**90d:** -13.7%  
+**1y:** -43.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1238.03B
+**Market Cap:** $1227.45B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--51.0%
+-51.4%
 
 **All-Time Low:** $67.81
-+90945.6%
++90203.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 10
+### 9
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Choose carefully](https://www.reddit.com/r/Bitcoin/comments/1u1d113/choose_carefully/)**
-
-6h ago
-
----
-
 **[Strategy sells 32 BTC, the market collapses. Same company buys 1,000 BTC and the market doesn't move. Can someone explain it to me like Im 5yr old?](https://www.reddit.com/r/Bitcoin/comments/1u1htco/strategy_sells_32_btc_the_market_collapses_same/)**
 
 I'm having a bit of a difficult time reconciling that - Is it panic selling? does the market need time to digest? is it that the IPO's are consuming all this capital?
 
-3h ago
+7h ago
+
+---
+
+**[Choose carefully](https://www.reddit.com/r/Bitcoin/comments/1u1d113/choose_carefully/)**
+
+10h ago
+
+---
+
+**[How it feels right now... keep DCAing](https://www.reddit.com/r/Bitcoin/comments/1u1lxod/how_it_feels_right_now_keep_dcaing/)**
+
+5h ago
 
 ---
 
@@ -95,17 +101,41 @@ I'm having a bit of a difficult time reconciling that - Is it panic selling? doe
 
 https://preview.redd.it/ckast777nb6h1.png?width=1331&format=png&auto=webp&s=252463789ba3eb19323f675b785887c61a7c80f1 i guess its time to buy more...
 
-3h ago
+7h ago
 
 ---
 
-**[How it feels right now... keep DCAing](https://www.reddit.com/r/Bitcoin/comments/1u1lxod/how_it_feels_right_now_keep_dcaing/)**
+**[Joined the million club!](https://www.reddit.com/r/Bitcoin/comments/1u1gelh/joined_the_million_club/)**
 
-31m ago
+As the title says, thanks to the dip this last week and some smash buys as a result, I finally joined the million club! Aka, 21 bitcoin. Feeling pretty stoked. Throwaway account for obvious reasons. For those of you doubting btc due to recent price movement, take it from someone who has been in this since 2013. It's all the same shit we've seen numerous times over. The FUD, the doomposts, the naysayers. People saying this time is different, it will go to zero, etc. I've seen almost all of it, and every time it comes back stronger. My only regret with Bitcoin has always been not buying enough. THIS is the time to buy. So keep stacking. Be consistent, and one day it will pay off.
+
+8h ago
 
 ---
 
 **[Spot the Bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1u1fuch/spot_the_bitcoiner/)**
+
+9h ago
+
+---
+
+**[Help me understand why you would want currency to be decentralized](https://www.reddit.com/r/Bitcoin/comments/1u1oevl/help_me_understand_why_you_would_want_currency_to/)**
+
+I am just now starting to learn about bitcoin. It seems to me that two of the most common arguments for its usefulness are (1) that it "takes the government out of our currency" and "takes banks out of our currency, and (2) that it is a "hedge against inflation." I... have some questions. I'm coming at this from an American perspective, so I understand that may factor into your answers. But I also think a lot of you are Americans, and I want to understand why you personally see bitcoin as advantageous to you. Question #1: Why is decentralization a good thing? What are the specific advantages you see from removing intermediaries? It seems to me that governments and banks provide important protections. Some examples: Your banks savings are insured by the FDIC and NCUA. But if you yeet your bitcoin off to an incorrect address, it's gone forever and just sits there on the blockchain for eternity. If a scam artist gets my grandma to give them her credit card or bank information, she can call the credit card company or the bank and they will reverse the fraudulent transactions. But if a hacker tricks my grandma into sending them bitcoin, or worse, giving them her seed phrase, then there is no one she can call. So: If we are giving up these protections, what are the advantages, and how do the advantages outweigh the cost? If crypto is the future of finance, how will we protect all the grandmas and other technologically slow people out there? Question #2: How is bitcoin a hedge against inflation? Bitcoin is wildly volatile. Since I started learning about bitcoin a month ago, it went from $80,000 to under $60,000 and currently sits around $62,000. Doesn't that mean that the value of your bitcoin has deflated by roughly 25% in a month? And as for the idea that your fiat currency will continue to lose value, there are many investments that provide a return that outpace inflation. The average inflation rate for USD from 2021 to 2025 was 4.7%. The average stock market return was around 14%. So by investing in the stock market, the purchasing power of your fiat would have grown greater than the inflation rate. There are also simpler investments like CDs and the money market with rates of return roughly similar to the inflation rate, so they are often an effective way to preserve purchasing power. So: If inflation is your concern, why is bitcoin a better hedge compared to other investments? Help me understand.
+
+3h ago
+
+---
+
+**[Holy cow. I just used bitcoin for the first time.](https://www.reddit.com/r/Bitcoin/comments/1u1s83z/holy_cow_i_just_used_bitcoin_for_the_first_time/)**
+
+I used bitcoin to send money to a sanctioned country. This sanctioned country is Russia. The problem is it took like 26 minutes to get the transaction confirmed
+
+12m ago
+
+---
+
+**[It's only 2026](https://www.reddit.com/r/Bitcoin/comments/1u1mcbo/its_only_2026/)**
 
 4h ago
 
@@ -115,39 +145,7 @@ https://preview.redd.it/ckast777nb6h1.png?width=1331&format=png&auto=webp&s=2524
 
 In a ruling that highlights the growing legal complexity surrounding digital assets, a Chinese court has reaffirmed that Bitcoin can be treated as protected property under criminal law, even as the country continues to ban cryptocurrency trading and related business activities. The decision emerged from a remarkable theft case involving 107 Bitcoin and is likely to draw attention from regulators, investors, and legal experts worldwide. The case underscores a broader global trend: governments may restrict or regulate cryptocurrency markets, but courts are increasingly recognizing digital assets as possessing real economic value that deserves legal protection. For Bitcoin holders, the ruling reinforces a critical reality—ownership rights and trading rights are not necessarily the same thing. According to court documents, a man identified only by his surname Zhang was sentenced to 10 years and 9 months in prison after stealing 107 BTC from an acquaintance. Prosecutors said Zhang gained access to the victim’s wallet in an unusually low-tech but highly effective manner. After observing the wallet creation process, he reportedly memorized 11 of the 12 recovery seed words and later reconstructed the final word using contextual clues, allowing him to regain access to the wallet and transfer the funds. Authorities eventually traced the missing Bitcoin and linked the theft to Zhang, leading to one of the most significant criminal sentences handed down in China for a cryptocurrency-related crime. The severity of the punishment reflects not only the value of the stolen assets but also the court’s willingness to treat Bitcoin theft in the same legal category as the theft of traditional property. The most consequential aspect of the case, however, was the prosecution’s successful argument that Bitcoin qualifies as “property” under Chinese criminal law. By accepting that interpretation, the court reinforced an increasingly consistent legal position emerging from Chinese jurisprudence: while cryptocurrency trading platforms, mining operations, and financial services remain heavily restricted, individuals can still possess legally recognized ownership rights over digital assets. This distinction has become increasingly important as courts around the world grapple with how to classify cryptocurrencies. Similar debates have played out in jurisdictions ranging from the United States and the European Union to Singapore and Hong Kong, where regulators continue to refine the balance between investor protection, market oversight, and technological innovation. China’s latest ruling suggests that even some of the world’s most restrictive crypto environments are adapting traditional property laws to accommodate digital assets. The decision does not signal any softening of Beijing’s broader anti-crypto stance. Cryptocurrency exchanges remain banned, and financial institutions are prohibited from offering crypto-related services. Yet the ruling demonstrates that Chinese courts are increasingly separating ownership rights from commercial activity restrictions, creating a more nuanced legal framework than many outside observers assume. For investors, the case delivers a lesson that transcends China’s borders. The theft was not the result of sophisticated malware, blockchain vulnerabilities, or advanced cyberattacks. Instead, it stemmed from a compromised recovery phrase—arguably the most basic security component in self-custodied digital assets. As Bitcoin adoption expands globally, the weakest link often remains human behavior rather than technology itself. The broader takeaway may be one of crypto’s most intriguing contradictions: even governments that restrict digital asset markets are finding it increasingly difficult to deny that cryptocurrencies represent real property with real economic value. The question facing regulators is no longer whether Bitcoin has value—it is how legal systems will continue adapting as digital assets become an increasingly permanent part of the global financial landscape.
 
-🔗 [Market Insider](https://marketinsider.net/chinas-bitcoin-paradox-court-recognizes-btc-as-property-in-107-btc-theft-case/) • 16h ago
-
----
-
-**[Joined the million club!](https://www.reddit.com/r/Bitcoin/comments/1u1gelh/joined_the_million_club/)**
-
-As the title says, thanks to the dip this last week and some smash buys as a result, I finally joined the million club! Aka, 21 bitcoin. Feeling pretty stoked. Throwaway account for obvious reasons. For those of you doubting btc due to recent price movement, take it from someone who has been in this since 2013. It's all the same shit we've seen numerous times over. The FUD, the doomposts, the naysayers. People saying this time is different, it will go to zero, etc. I've seen almost all of it, and every time it comes back stronger. My only regret with Bitcoin has always been not buying enough. THIS is the time to buy. So keep stacking. Be consistent, and one day it will pay off.
-
-4h ago
-
----
-
-**[Why has BTC been rising abruptly after touching 59000?](https://www.reddit.com/r/Bitcoin/comments/1u0xwws/why_has_btc_been_rising_abruptly_after_touching/)**
-
-Almost every chart analysis and trends predicted it to go at least 55k. But instead of stalling at 59k, it has since increased violently to 64k. Why has this happened and can we expect it to go down soon (ie. This increase is a temporary pump)?
-
-17h ago
-
----
-
-**[Did we just time travel?!?](https://www.reddit.com/r/Bitcoin/comments/1u0qlzq/did_we_just_time_travel/)**
-
-The last time BTC was at $62,000 or so was back in 2021. In Oct. 2025, I would've done anything to go back in time and buy BTC at that price. Now, we are at that price point! So, isn't it a good time to buy?
-
-23h ago
-
----
-
-**[Just a heads up. I’m the guy who has never had a successful trading year and bought Bitcoin 5 times and it dropped all 5 times. I’m about to buy more. You were warned.](https://www.reddit.com/r/Bitcoin/comments/1u0pg9u/just_a_heads_up_im_the_guy_who_has_never_had_a/)**
-
-I’m going to buy some and it always drops when I do.
-
-1d ago
+🔗 [Market Insider](https://marketinsider.net/chinas-bitcoin-paradox-court-recognizes-btc-as-property-in-107-btc-theft-case/) • 20h ago
 
 ---
 
@@ -159,15 +157,15 @@ I’m going to buy some and it always drops when I do.
 
 The year has been a rocky one for the flagship cryptocurrency, but traders aren't backing away from the space.
 
-CNBC • 13h ago
+CNBC • 17h ago
 
 ---
 
-**[‘Who in their right mind would rather buy crypto right now?’ Bitcoin prices plunge after market turmoil](https://finance.yahoo.com/markets/crypto/articles/mind-rather-buy-crypto-now-174304351.html)**
+**[Bitcoin’s Worst Week Since FTX Crash Signals More Pain Ahead](https://finance.yahoo.com/markets/crypto/articles/bitcoin-worst-week-since-ftx-102331607.html)**
 
-The world’s largest cryptocurrency just suffered its worst selloff in months, and some experts aren’t convinced the pain is over.
+(Bloomberg) -- Bitcoin’s slide below $60,000 last Friday capped its worst week since the collapse of Sam Bankman-Fried’s FTX exchange in 2022.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’US Launches Strikes Against Iran After Helicopter Shot DownStocks Pare Tech-Led Drop as Rotation Gains Speed: Markets WrapUS Strikes Iran After Helicopter Downed, Testing Peace TalksSurface Naval Drone Rescued Downed US Apache Crew, Pentagon SaysThe forces currently at pla
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -175,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Since hitting a record high of $126,000 last fall, bitcoin has dropped to just above $60,000 amid waves of selling. That has erased more than $1.2 trillion in market cap in eight months and wiped out all gains across President Donald Trump’s second term.
 
-CNN • 14h ago
+CNN • 19h ago
 
 ---
 
@@ -183,13 +181,7 @@ CNN • 14h ago
 
 Michael Saylor leveraged Strategy to the hilt. Now the math is working against him.
 
-Fortune • 17h ago
-
----
-
-**[Bitcoin’s Worst Week Since FTX Crash May Signal More Pain Ahead](https://www.bloomberg.com/news/articles/2026-06-09/bitcoin-s-worst-week-since-ftx-crash-may-signal-more-pain-ahead)**
-
-Bloomberg.com • 3h ago
+Fortune • 21h ago
 
 ---
 
@@ -197,7 +189,21 @@ Bloomberg.com • 3h ago
 
 Crypto prices rose on Monday following last week's crash, but the bears still appear to be in control.
 
-CoinDesk • 10h ago
+CoinDesk • 14h ago
+
+---
+
+**[Traditional Finance Is Rushing Into Crypto As Institutions Buy Bitcoin’s Dip: Axios](https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto)**
+
+TradFi institutions are shedding their skepticism toward crypto, and the shift is accelerating in 2026.
+
+Bitcoin Magazine • 11h ago
+
+---
+
+**[Bitcoin Steadies After $60,000 Breach as Saylor Adds to Hoard](https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-steadies-after-60-000-breach-as-saylor-hints-at-buying)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -207,27 +213,17 @@ Reuters • 1d ago
 
 ---
 
-**[North Tonawanda residents against plan to convert bitcoin mining facility into AI data center](https://www.wkbw.com/niagara-county/north-tonawanda-residents-push-back-on-plan-to-convert-bitcoin-mining-facility-into-ai-data-center)**
-
-North Tonawanda residents are pushing back on a plan to convert a controversial bitcoin mining facility on Erie Avenue into an AI data center.
-
-WKBW • 21h ago
-
----
-
-**[Bitcoin Is Suddenly Hurtling Toward A Surprise $1.75 Trillion Elon Musk Price Shock](https://www.forbes.com/sites/digital-assets/2026/06/09/bitcoin-is-suddenly-hurtling-toward-a-surprise-175-trillion-elon-musk-price-shock/)**
-
-SpaceX and Tesla chief executive Elon Musk could be about to trigger bitcoin's next price boom...
-
-Forbes • 11h ago
-
----
-
 **[Longtime Bitcoin Advocate Says ‘MicroStrategy Is a $1,000 Stock Within a Few Years’](https://247wallst.com/investing/2026/06/09/longtime-bitcoin-advocate-says-microstrategy-is-a-1000-stock-within-a-few-years/)**
 
 Lawrence Lepard, a longtime bitcoin investor and advocate, laid out one of the most aggressive bull cases for Strategy (NASDAQ:MSTR | MSTR Price Prediction) on a recent appearance on Thoughtful Money with Adam Taggart. Lepard says he is buying shares both for his fund and personally, and his target price is striking: “I think it’s ... Longtime Bitcoin Advocate Says ‘MicroStrategy Is a $1,000 Stock Within a Few Years’
 
-24/7 Wall St. • 8h ago
+24/7 Wall St. • 13h ago
+
+---
+
+**[Bitcoin dips below $62k as ETF outflows continue; Strategy buys the dip](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-63k-after-strategy-buy-etf-outflows-ease-4732045)**
+
+Investing.com • 15h ago
 
 ---
 
@@ -243,7 +239,7 @@ Lawrence Lepard, a longtime bitcoin investor and advocate, laid out one of the m
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
-⬆️ 11 • 💬 4 • 3d ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
+⬆️ 11 • 💬 4 • 4d ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
 
 ---
 
@@ -251,7 +247,7 @@ Lawrence Lepard, a longtime bitcoin investor and advocate, laid out one of the m
 
 The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
 
-⬆️ 8 • 💬 8 • 3d ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
+⬆️ 8 • 💬 8 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
 
 ---
 
@@ -259,7 +255,7 @@ The weeklong sell-off was exacerbated after a stronger-than-expected May jobs r
 
 Bitcoin is getting pummeled to kick off June as the market loses its dominant narrative and liquidity continues to rotate into other assets.
 
-⬆️ 7 • 💬 2 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
+⬆️ 7 • 💬 2 • 5d ago • [CNBC](https://www.cnbc.com/2026/06/04/bitcoin-is-weathering-its-ugliest-week-in-months-as-narrative-fades-and-liquidity-rotates.html)
 
 ---
 
@@ -267,7 +263,7 @@ Bitcoin is getting pummeled to kick off June as the market loses its dominant na
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-⬆️ 6 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
+⬆️ 6 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
 
 ---
 
@@ -321,17 +317,7 @@ Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are al
 
 📺 Mark Moss
 
-👁️ 25K • 👍 2K • 💬 355 • ⏱️ 20:43 • 5h ago
-
----
-
-**[Will Bitcoin Keep Crashing?!](https://www.youtube.com/watch?v=W2QygPyvl2I)**
-
-Anthony Pompliano breaks down why bitcoin is down 50% from its highs and whether the bear market bottom is in. In this episode ...
-
-📺 Anthony Pompliano
-
-👁️ 26K • 👍 1K • 💬 31 • ⏱️ 13:32 • 1d ago
+👁️ 43K • 👍 3K • 💬 464 • ⏱️ 20:43 • 9h ago
 
 ---
 
@@ -341,7 +327,17 @@ Dante takes a look at the latest Bitcoin pullback and the growing excitement aro
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 1K • 💬 199 • ⏱️ 17:26 • 3h ago
+👁️ 17K • 👍 2K • 💬 283 • ⏱️ 17:26 • 7h ago
+
+---
+
+**[Will Bitcoin Keep Crashing?!](https://www.youtube.com/watch?v=W2QygPyvl2I)**
+
+Anthony Pompliano breaks down why bitcoin is down 50% from its highs and whether the bear market bottom is in. In this episode ...
+
+📺 Anthony Pompliano
+
+👁️ 27K • 👍 1K • 💬 31 • ⏱️ 13:32 • 1d ago
 
 ---
 
@@ -351,7 +347,17 @@ Bitcoin just crashed toward $59K, fear is surging, and the market is asking the 
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 299 • ⏱️ 17:44 • 1d ago
+👁️ 27K • 👍 2K • 💬 323 • ⏱️ 17:44 • 1d ago
+
+---
+
+**[&quot;Bitcoin at $62k! Something Much Bigger Is Happening...&quot; - Jack Mallers](https://www.youtube.com/watch?v=bEDYu_BVyf0)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 1K • 👍 67 • 💬 1 • ⏱️ 19:43 • 9h ago
 
 ---
 
@@ -361,17 +367,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 824 • 💬 266 • ⏱️ 35:38 • 10h ago
-
----
-
-**[This Bitcoin Relief Rally Will Destroy Investors!](https://www.youtube.com/watch?v=LUgKKvJdcZo)**
-
-The market is bouncing, but Ran believes investors should be extremely cautious. What looks like strength on the surface may ...
-
-📺 Crypto Banter
-
-👁️ 29K • 👍 1K • 💬 37 • ⏱️ 31:01 • 1d ago
+👁️ 16K • 👍 848 • 💬 263 • ⏱️ 35:38 • 14h ago
 
 ---
 
@@ -381,17 +377,17 @@ Bitcoin just erased every dollar it gained since the election. Worst week since 
 
 📺 Upside Invest
 
-👁️ 11K • 👍 711 • 💬 68 • ⏱️ 1:38 • 1d ago
+👁️ 11K • 👍 771 • 💬 73 • ⏱️ 1:38 • 1d ago
 
 ---
 
-**[The Biggest Bitcoin Myths — And Why They&#39;re Dead Wrong](https://www.youtube.com/watch?v=KKNEfSIo5Tc)**
+**[Bitcoin Warning Signs Tonight](https://www.youtube.com/watch?v=Ww5V8wmPFz0)**
 
-Get Your Free After Crypto Guide Here: https://lp.bitcoinira.com/after-crypto Chris Kline is the co-founder and COO of Bitcoin IRA.
+AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Anthony Pompliano
+📺 CryptosRUs
 
-👁️ 5K • 👍 315 • 💬 11 • ⏱️ 19:20 • 3h ago
+👁️ 8K • 👍 622 • 💬 112 • ⏱️ 9:24 • 4h ago
 
 ---
 
@@ -401,17 +397,17 @@ bitcoin #michaelsaylor #crypto #strategy #arthurhayes #bitcoinprice #investing #
 
 📺 Yahoo Finance
 
-👁️ 26K • 👍 888 • 💬 281 • ⏱️ 14:50 • 1d ago
+👁️ 26K • 👍 903 • 💬 283 • ⏱️ 14:50 • 1d ago
 
 ---
 
-**[Bitcoin: 3 CRITICAL Signs of a MAJOR Turning Point!](https://www.youtube.com/watch?v=8zuhUYU6_lM)**
+**[The Biggest Bitcoin Myths — And Why They&#39;re Dead Wrong](https://www.youtube.com/watch?v=KKNEfSIo5Tc)**
 
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XTK3 ...
+Get Your Free After Crypto Guide Here: https://lp.bitcoinira.com/after-crypto Chris Kline is the co-founder and COO of Bitcoin IRA.
 
-📺 Frankie Candles 
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 317 • 💬 2 • ⏱️ 1:58:26 • 1h ago
+👁️ 11K • 👍 473 • 💬 11 • ⏱️ 19:20 • 7h ago
 
 ---
 

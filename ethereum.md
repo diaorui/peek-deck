@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-10T00:20:47.897040+00:00'
+updated: '2026-06-10T04:57:54.913980+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 00:20 UTC  
+**Last Updated:** June 10, 2026 at 04:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -7.4%  
-**30d:** -27.9%  
-**90d:** -21.6%  
-**1y:** -40.8%  
+**24h:** -3.8%  
+**7d:** -8.3%  
+**30d:** -28.6%  
+**90d:** -22.4%  
+**1y:** -41.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $197.98B
+**Market Cap:** $196.08B
 Rank #2
 
-**Circulating Supply:** 120,684,430 ETH
+**Circulating Supply:** 120,684,382 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.8%
+-67.2%
 
 **All-Time Low:** $0.43
-+378675.9%
++375121.4%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion June 09, 2026](https://www.reddit.com/r/ethereum/comments/1u0vguk/daily_general_discussion_june_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-19h ago
-
----
-
 **[Diving into Ethereum staking after Shanghai – my setup headaches and questions for the community](https://www.reddit.com/r/ethereum/comments/1u1cq9h/diving_into_ethereum_staking_after_shanghai_my/)**
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-6h ago
+10h ago
+
+---
+
+**[Daily General Discussion June 09, 2026](https://www.reddit.com/r/ethereum/comments/1u0vguk/daily_general_discussion_june_09_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Billions in USDC and USDT sitting on Ethereum, some of the most sophisticated fi
 
 Circle unveiled "cirBTC", a token backed 1:1 with the world's largest cryptocurrency to allow users to utilise their bitcoin wealth in DeFi protocols.
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Circle Internet Financial • 1d ago
 
 These are today's bitcoin and ethereum prices, Tuesday, June 9, 2026. Bitcoin opened at $63,078.89, down 0.3% from yesterday’s opening price. Ethereum opened at $1,689.88, up 0.2% from yesterday's open.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -186,23 +186,15 @@ Sherwood News • 1d ago
 
 The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.
 
-Decrypt • 3h ago
+Decrypt • 8h ago
 
 ---
 
-**[Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position](https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position)**
+**[MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum](https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum)**
 
-Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.
+Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
 
-The Block • 3d ago
-
----
-
-**[Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-dip-151837018.html)**
-
-Leading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.
-
-Yahoo Finance • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -214,19 +206,25 @@ PR Newswire • 1d ago
 
 ---
 
-**[Ethereum news: Tom Lee's Bitmine (BMNR) bought the dip, acquiring 126,971 ETH as prices tanked](https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked)**
+**[Crypto News: Bitcoin, Ethereum, XRP and Cardano Enter Historical Buy Zones as MVRV Turns Negative](https://www.binance.com/en/square/post/332239443761601)**
 
-The company bought 126,971 ETH last week, worth roughly $214 million at current prices, despite chairman Tom Lee's earlier calls to slow purchases.
-
-CoinDesk • 1d ago
+Binance • 17h ago
 
 ---
 
-**[Not Bitcoin or Ethereum: These were the most popular crypto tokens in May](https://www.livemint.com/money/personal-finance/not-bitcoin-not-ethereum-these-were-the-most-popular-crypto-trades-in-may-binance-report-11781007011370.html)**
+**[Crypto News Today: MemeToro AI Agents Gain Momentum as Ethereum Price Faces Pressure](https://markets.businessinsider.com/news/stocks/crypto-news-today-memetoro-ai-agents-gain-momentum-as-ethereum-price-faces-pressure-1036235368)**
 
-In May, traders sought lesser-known tokens. While Bitcoin and Ethereum struggled, digital assets such as HYPE and BNB gained. Here's why major tokens failed to entice investors, and some tokens emerged as winners.
+ZURICH, June  09, 2026  (GLOBE NEWSWIRE) -- MemeToro AI Labs, an innovative developer of decentralized artificial intelligence infrastructure, tod...
 
-Mint • 10h ago
+markets.businessinsider.com • 15h ago
+
+---
+
+**[Ethereum Flashes 'Historic Opportunity,' Says Analyst, as Tom Lee's Bitmine Buys $218M](https://finance.yahoo.com/markets/crypto/articles/ethereum-flashes-historic-opportunity-says-084217435.html)**
+
+Ethereum hits its most oversold level ever. Tom Lee's Bitmine is buying the dip aggressively. Bullish forecasts remain despite the crash. Ethereum may be approaching ...
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -240,7 +238,15 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 226 • 💬 73 • ⏱️ 15:00 • 9h ago
+👁️ 5K • 👍 247 • 💬 62 • ⏱️ 15:00 • 13h ago
+
+---
+
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 290 • 💬 2 • ⏱️ 2:28 • 3h ago
 
 ---
 
@@ -250,17 +256,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 802 • 💬 78 • ⏱️ 16:49 • 2d ago
-
----
-
-**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
-
-What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
-
-📺 Binance
-
-👁️ 7K • 👍 280 • 💬 20 • ⏱️ 5:46 • 1d ago
+👁️ 24K • 👍 806 • 💬 79 • ⏱️ 16:49 • 2d ago
 
 ---
 
@@ -270,27 +266,47 @@ DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated
 
 📺 The Rollup
 
-👁️ 4K • 👍 119 • 💬 21 • ⏱️ 38:13 • 1d ago
+👁️ 4K • 👍 123 • 💬 22 • ⏱️ 38:13 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
+**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
 
-Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
+What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
 
-📺 Thomas Kralow
+📺 Binance
 
-👁️ 12K • 👍 419 • 💬 112 • ⏱️ 8:10 • 1d ago
+👁️ 8K • 👍 289 • 💬 21 • ⏱️ 5:46 • 1d ago
 
 ---
 
-**[ETH Final Flush (Rotation Next?) + BTC Bottom Signal](https://www.youtube.com/watch?v=ZAPYekLDvyQ)**
+**[Ethereum Bottom REVEALED: This ETH Historical Pattern Triggers Massive Bull Runs](https://www.youtube.com/watch?v=WJVONw_V21I)**
 
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+When will #ethereum finally bottom? In this video, I break down a historical patterns that has appeared near major Ethereum bear ...
 
-📺 Marzell Crypto
+📺 Humble Market Timer
 
-👁️ 277 • 👍 24 • 💬 61 • ⏱️ 6:16 • 13h ago
+👁️ 179 • 👍 3 • ⏱️ 9:34 • 16h ago
+
+---
+
+**[😱 3 FORMAS DE ACUMULAR ETH EN LA BAJADA](https://www.youtube.com/watch?v=R91fJQnpTI8)**
+
+Gracias por ver! Únase a la conversación en nuestro Telegram: https://telegram.me/valueindexchat Links de interés: Socios ...
+
+📺 Value Index | Bitcoin y altcoins
+
+👁️ 3K • 👍 340 • 💬 62 • ⏱️ 16:03 • 14h ago
+
+---
+
+**[Bitcoin &amp; Ethereum, bereit für den LONG? Habt Geduld, bald ist es soweit!](https://www.youtube.com/watch?v=YbcYeaHTpi8)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+
+📺 Krypto Trading & Investing
+
+👁️ 523 • 👍 125 • 💬 11 • ⏱️ 12:47 • 55m ago
 
 ---
 
@@ -300,37 +316,17 @@ FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy
 
 📺 The Rollup
 
-👁️ 228 • 👍 14 • 💬 26 • ⏱️ 2:36 • 7h ago
+👁️ 330 • 👍 17 • 💬 25 • ⏱️ 2:36 • 12h ago
 
 ---
 
-**[BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=s9azVCatNr4)**
+**[ETH Final Flush (Rotation Next?) + BTC Bottom Signal](https://www.youtube.com/watch?v=ZAPYekLDvyQ)**
 
-BITCOIN JUST FLIPPED: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
 
-📺 Crypto World
+📺 Marzell Crypto
 
-👁️ 7K • 👍 349 • 💬 240 • ⏱️ 19:32 • 17h ago
-
----
-
-**[All-Time High Usage, Dead Price: What&#39;s Really Going On With Ethereum w/ John Gillen](https://www.youtube.com/watch?v=TBQAUbEdPf4)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 96 • 💬 9 • ⏱️ 16:40 • 2d ago
-
----
-
-**[How Low Will ETH Still Fall in 2026?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=qVrfEOF-DJo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 273 • 👍 23 • 💬 3 • ⏱️ 4:41 • 14h ago
+👁️ 337 • 👍 26 • 💬 61 • ⏱️ 6:16 • 17h ago
 
 ---
 
