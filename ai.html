@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-06-10T21:35:45.187114+00:00"
+          "dateModified": "2026-06-10T23:25:55.633592+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,39 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/" target="_blank" onclick="event.stopPropagation();">I ran Fable 5 for half day and the guardrails are the real story</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Anthropic dropped Fable 5 and I immediately swapped it into our dev stack. We route everything through a single endpoint on zenmux, so the actual switch was changing one model string and watching the latency graphs. The good parts first because there are a lot of them. I threw a refactoring task at it: split a messy python service into modules, preserve the public api, and write tests that prove nothing broke. Fable 5 planned the whole thing, caught a circular dependency I did not mention, and verified the tests pass. With Opus 4.8 I usually have to nudge it a couple of times when it forgets to update the init file. Fable 5 just did it. Then I dumped our full codebase and asked it to find a race condition we had been hunting for a week. It traced the async flow, named the exact function, and described the interleaving that triggers the bug. That level of context digestion feels new. Opus is good at long context, but Fable 5 felt like it was actually reasoning across the whole window instead of pattern matching near the top. I also sent it a blurry dashboard screenshot from a client call and it rebuilt the html and echarts config including the tooltip formatting. My designer’s first words were "when did you learn front end." I did not. But here is the part nobody in the launch threads is talking about enough. It is slow. On high effort I am seeing 45 to 90 seconds for a single complex turn. Our latency graphs go from a flat green line to a jagged mess the moment Fable 5 traffic hits. And it is expensive. The same prompt that costs X on Opus 4.8 costs roughly 1.4 to 1.7X on Fable 5 because it generates more tokens and runs at a higher effort tier by default. It writes its own reasoning traces out loud and bills you for them. For research tasks the quality is worth it. For "rewrite this email" it is comically overpowered. The bigger issue is the silent fallback. Fable 5 is basically Mythos with guardrails. When your prompt touches cybersecurity, biology, chemistry, or distillation, it silently routes to Opus 4.8. No warning. I found this out debugging a staging proxy config, entirely normal internal work, and halfway through the thread the code style changed. Checked the metadata and sure enough it had fallen back to Opus 4.8 mid thread because the word "proxy" made the classifier jumpy. Anthropic says this happens in under 5 percent of sessions globally, but for my stack it was closer to 15 percent because we touch infrastructure and networking a lot. When it happens mid task the model switch breaks context. I had a four turn debugging sequence where turn three flipped to Opus because I mentioned a firewall rule, then turn four flipped back. The state was preserved but the tone and depth shifted enough that I had to restart the thread. After 12 hours here is where I land. If you are doing pure software engineering, data analysis, or scientific reasoning in safe domains, Fable 5 is the best model I have ever used. It is not close. But if you touch infrastructure or security, the silent fallback is genuinely annoying and you need to monitor which model actually answered you. We only caught the switch because our gateway logs the per call trace. Without that you might not even know it swapped until the tone changes. I am keeping it enabled for our non sensitive dev workflows. For anything touching infra I am routing to Opus 4.8 explicitly until I understand the classifier boundaries better. Fable 5 is a beast. Anthropic just needs to tell you when it is not the one driving.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781111389.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u2cwez/nobody_needs_ai_to_search_the_internet_court_says/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -692,7 +659,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -700,13 +667,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/" target="_blank" onclick="event.stopPropagation();">GitLab says Git is being reengineered for "machine scale." Was the idea of "Git for AI agents" ahead of its time?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/" target="_blank" onclick="event.stopPropagation();">I ran Fable 5 for half day and the guardrails are the real story</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I was reading GitLab's recent statements around agentic software engineering, and one quote really stood out: "Git itself is being reengineered for machine scale." (Business Insider) According to GitLab, future software development will involve AI agents that: plan, code, review, deploy, and repair software, with humans providing oversight and architectural judgment. (Business Insider) That got me thinking. There has been projects for some time arguing that AI agents shouldn't simply be treated as better autocomplete systems. Instead, they argued that agents should become first-class participants in software development: with their own identities, their own branches, their own merge requests, their own audit trails, and infrastructure designed for machine-rate collaboration. One example is GitLawb, which has described itself as a kind of "Git for agents." At the time, a lot of people dismissed these ideas as unnecessary or overly ambitious. But now GitLab—a multi-billion-dollar DevSecOps company—is talking about: agent-specific APIs, machine-scale Git infrastructure, orchestration layers coordinating agents, and agents acting as first-class users of development platforms. (Business Insider) It does raise an interesting question: Was the underlying thesis correct all along? We've seen similar patterns before: Containers existed before Kubernetes became the standard. Electric vehicle startups pushed ideas that incumbents later adopted. Cloud-native companies advocated architectures that the rest of the industry eventually embraced. The original innovators don't always dominate the market. But when major incumbents begin rebuilding around similar assumptions, it often suggests that the problem itself is real. So I'm curious what this community thinks: Do AI agents require an entirely new layer of collaboration infrastructure? Or will existing platforms simply evolve enough to absorb these workflows? Because if GitLab is right, software development may be transitioning from:humans using AI tools to humans managing teams of AI developers. And if that's the case, version control itself may have to evolve.
+                            Anthropic dropped Fable 5 and I immediately swapped it into our dev stack. We route everything through a single endpoint on zenmux, so the actual switch was changing one model string and watching the latency graphs. The good parts first because there are a lot of them. I threw a refactoring task at it: split a messy python service into modules, preserve the public api, and write tests that prove nothing broke. Fable 5 planned the whole thing, caught a circular dependency I did not mention, and verified the tests pass. With Opus 4.8 I usually have to nudge it a couple of times when it forgets to update the init file. Fable 5 just did it. Then I dumped our full codebase and asked it to find a race condition we had been hunting for a week. It traced the async flow, named the exact function, and described the interleaving that triggers the bug. That level of context digestion feels new. Opus is good at long context, but Fable 5 felt like it was actually reasoning across the whole window instead of pattern matching near the top. I also sent it a blurry dashboard screenshot from a client call and it rebuilt the html and echarts config including the tooltip formatting. My designer’s first words were "when did you learn front end." I did not. But here is the part nobody in the launch threads is talking about enough. It is slow. On high effort I am seeing 45 to 90 seconds for a single complex turn. Our latency graphs go from a flat green line to a jagged mess the moment Fable 5 traffic hits. And it is expensive. The same prompt that costs X on Opus 4.8 costs roughly 1.4 to 1.7X on Fable 5 because it generates more tokens and runs at a higher effort tier by default. It writes its own reasoning traces out loud and bills you for them. For research tasks the quality is worth it. For "rewrite this email" it is comically overpowered. The bigger issue is the silent fallback. Fable 5 is basically Mythos with guardrails. When your prompt touches cybersecurity, biology, chemistry, or distillation, it silently routes to Opus 4.8. No warning. I found this out debugging a staging proxy config, entirely normal internal work, and halfway through the thread the code style changed. Checked the metadata and sure enough it had fallen back to Opus 4.8 mid thread because the word "proxy" made the classifier jumpy. Anthropic says this happens in under 5 percent of sessions globally, but for my stack it was closer to 15 percent because we touch infrastructure and networking a lot. When it happens mid task the model switch breaks context. I had a four turn debugging sequence where turn three flipped to Opus because I mentioned a firewall rule, then turn four flipped back. The state was preserved but the tone and depth shifted enough that I had to restart the thread. After 12 hours here is where I land. If you are doing pure software engineering, data analysis, or scientific reasoning in safe domains, Fable 5 is the best model I have ever used. It is not close. But if you touch infrastructure or security, the silent fallback is genuinely annoying and you need to monitor which model actually answered you. We only caught the switch because our gateway logs the per call trace. Without that you might not even know it swapped until the tone changes. I am keeping it enabled for our non sensitive dev workflows. For anything touching infra I am routing to Opus 4.8 explicitly until I understand the classifier boundaries better. Fable 5 is a beast. Anthropic just needs to tell you when it is not the one driving.
                         </div>
                         
 
@@ -715,7 +682,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781093738.0"></span>
+                                    <span data-timestamp="1781111389.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -754,6 +721,85 @@
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/" target="_blank" onclick="event.stopPropagation();">GitLab says Git is being reengineered for "machine scale." Was the idea of "Git for AI agents" ahead of its time?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I was reading GitLab's recent statements around agentic software engineering, and one quote really stood out: "Git itself is being reengineered for machine scale." (Business Insider) According to GitLab, future software development will involve AI agents that: plan, code, review, deploy, and repair software, with humans providing oversight and architectural judgment. (Business Insider) That got me thinking. There has been projects for some time arguing that AI agents shouldn't simply be treated as better autocomplete systems. Instead, they argued that agents should become first-class participants in software development: with their own identities, their own branches, their own merge requests, their own audit trails, and infrastructure designed for machine-rate collaboration. One example is GitLawb, which has described itself as a kind of "Git for agents." At the time, a lot of people dismissed these ideas as unnecessary or overly ambitious. But now GitLab—a multi-billion-dollar DevSecOps company—is talking about: agent-specific APIs, machine-scale Git infrastructure, orchestration layers coordinating agents, and agents acting as first-class users of development platforms. (Business Insider) It does raise an interesting question: Was the underlying thesis correct all along? We've seen similar patterns before: Containers existed before Kubernetes became the standard. Electric vehicle startups pushed ideas that incumbents later adopted. Cloud-native companies advocated architectures that the rest of the industry eventually embraced. The original innovators don't always dominate the market. But when major incumbents begin rebuilding around similar assumptions, it often suggests that the problem itself is real. So I'm curious what this community thinks: Do AI agents require an entirely new layer of collaboration infrastructure? Or will existing platforms simply evolve enough to absorb these workflows? Because if GitLab is right, software development may be transitioning from:humans using AI tools to humans managing teams of AI developers. And if that's the case, version control itself may have to evolve.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781093738.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ptB3AI7JHoGPw9jCMhJ8vO--VrMr0BQkkCCTP4rRtxg.jpeg?width=640&crop=smart&auto=webp&s=8f0ac15d410f4cbfd6d15b95973f72e274bf9e96" alt="Dario Amodei — Policy on the AI Exponential" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/" target="_blank" onclick="event.stopPropagation();">Dario Amodei — Policy on the AI Exponential</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781120165.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://darioamodei.com/post/policy-on-the-ai-exponential" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://cdn.prod.website-files.com/67e201a6a390d00a0ca1cbf3/67f34ed4b5b7dea3e6bcdb2d_dario-webclip.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>darioamodei.com</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -810,85 +856,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ptB3AI7JHoGPw9jCMhJ8vO--VrMr0BQkkCCTP4rRtxg.jpeg?width=640&crop=smart&auto=webp&s=8f0ac15d410f4cbfd6d15b95973f72e274bf9e96" alt="Dario Amodei — Policy on the AI Exponential" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u2ch83/dario_amodei_policy_on_the_ai_exponential/" target="_blank" onclick="event.stopPropagation();">Dario Amodei — Policy on the AI Exponential</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781120165.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://darioamodei.com/post/policy-on-the-ai-exponential" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://cdn.prod.website-files.com/67e201a6a390d00a0ca1cbf3/67f34ed4b5b7dea3e6bcdb2d_dario-webclip.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>darioamodei.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/" target="_blank" onclick="event.stopPropagation();">AI infrastructure spending still feels early.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AI infrastructure spending is still accelerating, especially in data centers and advanced chip production. While most attention goes to chip makers, the companies enabling that ecosystem may have a longer runway. Do any of you work in similar companies and can give a broader perspective on it ? Teradyne sits in a pretty interesting spot. More AI chips being produced means more testing capacity is needed, and this is one of the key players in semiconductor testing equipment. Could testing equipment companies outperform some of the more crowded AI trades over the next few years? For me personally I feel like AI hardware growth probably creates winners beyond just the obvious names, and TER seems like one of the more overlooked candidates. I learned they are also being listed on bitget recently so looking at a bigger picture we are watching a lot of growth happening in Ai infra.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781101433.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u28za4/what_do_you_think_will_happen_in_the_future_with/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -913,39 +880,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1781112712.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u2fetp/is_ai_at_this_scale_actually_sustainable/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u2fetp/is_ai_at_this_scale_actually_sustainable/" target="_blank" onclick="event.stopPropagation();">Is AI at this scale actually sustainable?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I build agents for work so I'm clearly not anti-AI, but the numbers keep bothering me, concerning the environmental factors of it. Every datacenter is the same now, gigawatts of new demand, water for cooling, grids that weren't designed for any of this, and rising cost of water for cities. And the data centers keep using clean water because of lack of technology to turn dirty water into usable water for cooling. Then I see Elon talking about putting data centers in orbit, solar powered, radiating heat into space, no water needed. And while I do think its going to be the end solution, I do think we have much more demand for compute power then Elon can provide so far with the space data centers and I think the demand is growing faster than Elon can provide Is efficiency improving fast enough to outrun demand? Are space data centers a real answer or a distraction that will fail? And is anything happening right now (smaller models, better scheduling, offsets) that you'd call an actual solution rather than PR? That people can use today to make an impact
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781126658.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -990,6 +924,74 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1u23oce/ai_infrastructure_spending_still_feels_early/" target="_blank" onclick="event.stopPropagation();">AI infrastructure spending still feels early.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            AI infrastructure spending is still accelerating, especially in data centers and advanced chip production. While most attention goes to chip makers, the companies enabling that ecosystem may have a longer runway. Do any of you work in similar companies and can give a broader perspective on it ? Teradyne sits in a pretty interesting spot. More AI chips being produced means more testing capacity is needed, and this is one of the key players in semiconductor testing equipment. Could testing equipment companies outperform some of the more crowded AI trades over the next few years? For me personally I feel like AI hardware growth probably creates winners beyond just the obvious names, and TER seems like one of the more overlooked candidates. I learned they are also being listed on bitget recently so looking at a bigger picture we are watching a lot of growth happening in Ai infra.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781101433.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u2g6nz/i_let_an_ai_read_my_bank_statement_and_it_roasted/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/ctcc5kwb1j6h1.png?width=640&crop=smart&auto=webp&s=83f2609861979d60490c7731db766a3f36ed7329" alt="I let an AI read my bank statement and it roasted me politely" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1u2g6nz/i_let_an_ai_read_my_bank_statement_and_it_roasted/" target="_blank" onclick="event.stopPropagation();">I let an AI read my bank statement and it roasted me politely</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Asked it: "what did I waste on takeaways last month?" Answer: "You spent £340 on takeaways in May — 22% more than April. Want a £200 cap with a nudge near the limit?" £340. In one month. The "22% more than April" detail was the real knife. This is from my own app (Expenzez — it reads uploaded statements on-device, no bank login), so yes, I built my own roaster. But the broader point stands: AI answering questions from YOUR actual numbers beats generic budgeting advice by a mile. Best/worst thing an AI has told you about your own data?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781128464.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1013,7 +1015,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-10T21:35:13.376218+00:00">Updated 2026-06-10T21:35:13.376218+00:00</small>
+        <small data-timestamp="2026-06-10T23:25:27.160831+00:00">Updated 2026-06-10T23:25:27.160831+00:00</small>
     </div>
 </div>
 
@@ -1240,17 +1242,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.anthropic.com/policy-on-the-ai-exponential', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.sanity.io/images/4zrzovbb/website/577dda8172ff9540c2c58481a3ae1757f0a1f65f-2400x1260.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/" target="_blank" onclick="event.stopPropagation();">Nobody needs AI to search the Internet, court says in ruling against Google</a>
+                            <a href="https://www.anthropic.com/policy-on-the-ai-exponential" target="_blank" onclick="event.stopPropagation();">Policy on the AI Exponential</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            We are sharing two policy proposals to prepare for AI progress: Our Advanced AI Framework and our Economic Policy Framework.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1259,9 +1265,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.anthropic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Anthropic" class="news-favicon">
+                                    <a href="https://www.anthropic.com" target="_blank" onclick="event.stopPropagation();">Anthropic</a>
                                     
                                 </div>
                                 
@@ -1269,7 +1275,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781111971.0"></span>
+                                    <span data-timestamp="1781117632.0"></span>
                                 </div>
                                 
                             </div>
@@ -1277,14 +1283,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/pro/all-deals/2026/06/10/ai-investors-china-deepseek', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/pro/all-deals/2026/06/10/ai-investors-china-deepseek" target="_blank" onclick="event.stopPropagation();">AI investors keep their eyes on China</a>
+                            <a href="https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai" target="_blank" onclick="event.stopPropagation();">Anthropic CEO says government should block dangerous AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1306,7 +1312,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781126113.0"></span>
+                                    <span data-timestamp="1781119206.0"></span>
                                 </div>
                                 
                             </div>
@@ -1314,20 +1320,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-pull-back-trump-says-hes-meeting-with-ai-executives-120420030.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/antoniopequenoiv/2026/06/10/anthropic-ceo-we-dont-know-exactly-how-claude-ai-was-used-in-iran-school-strike/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/qNkamUJQtwA4d6_V81dE_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-06/301663db-ba0c-471c-9e56-c9bf168d0803');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/6a29931d3f33cf5ca48f99f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-pull-back-trump-says-hes-meeting-with-ai-executives-120420030.html" target="_blank" onclick="event.stopPropagation();">Tech stocks today: Chip stocks pull back, Trump says he's meeting with AI executives</a>
+                            <a href="https://www.forbes.com/sites/antoniopequenoiv/2026/06/10/anthropic-ceo-we-dont-know-exactly-how-claude-ai-was-used-in-iran-school-strike/" target="_blank" onclick="event.stopPropagation();">Anthropic CEO: ‘We Don’t Know Exactly How’ Claude AI Was Used In Iran School Strike</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Tech stocks are recovering from a brusing sell-off ahead of Oracle earnings, Apple's Worldwide Developers Conference, and the highly anticipated SpaceX IPO.
+                            The strike killed an estimated 120 children near the beginning of Operation Epic Fury in Iran.
                         </div>
                         
 
@@ -1337,9 +1343,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1347,7 +1353,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781110702.0"></span>
+                                    <span data-timestamp="1781109671.0"></span>
                                 </div>
                                 
                             </div>
@@ -1355,14 +1361,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.investors.com/news/technology/smci-stock-supermicro-falls-on-financing-to-fund-ai-orders/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/2026/06/10/anthropic-backs-mandatory-vetting-for-frontier-ai-models-00957632', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.investors.com/news/technology/smci-stock-supermicro-falls-on-financing-to-fund-ai-orders/" target="_blank" onclick="event.stopPropagation();">Supermicro Stock Tumbles On Financing Deals To Fund AI Orders</a>
+                            <a href="https://www.politico.com/news/2026/06/10/anthropic-backs-mandatory-vetting-for-frontier-ai-models-00957632" target="_blank" onclick="event.stopPropagation();">Anthropic backs mandatory testing for frontier AI models</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1374,9 +1380,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Investor's Business Daily" class="news-favicon">
-                                    <a href="https://www.investors.com" target="_blank" onclick="event.stopPropagation();">Investor's Business Daily</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Politico" class="news-favicon">
+                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
                                     
                                 </div>
                                 
@@ -1384,7 +1390,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781123400.0"></span>
+                                    <span data-timestamp="1781128565.0"></span>
                                 </div>
                                 
                             </div>
@@ -1392,57 +1398,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-us-strikes-iran-cpi-oracle-results/card/dow-ends-below-50k-threshold-as-ai-favorites-lurch-lower-ahead-of-spacex-ipo-sgbmI47NMzgGCUYCFOU2?mod=bulletin_ribbon', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.apple.com/newsroom/images/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/tile/Apple-Siri-AI-hero-260608-lp.jpg.og.jpg?202606092235');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-us-strikes-iran-cpi-oracle-results/card/dow-ends-below-50k-threshold-as-ai-favorites-lurch-lower-ahead-of-spacex-ipo-sgbmI47NMzgGCUYCFOU2?mod=bulletin_ribbon" target="_blank" onclick="event.stopPropagation();">Dow books worst day of 2026 as AI favorites lurch lower ahead of SpaceX IPO</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MarketWatch" class="news-favicon">
-                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781122500.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/video/6398097907112', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4ec04236-e560-4799-abb6-43ac025a0884/c3bc86eb-8979-4a7b-8df1-908fb0d58d5a/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/video/6398097907112" target="_blank" onclick="event.stopPropagation();">Terrell Owens, Syntilay debut world’s AI-powered personalized recovery shoes</a>
+                            <a href="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/" target="_blank" onclick="event.stopPropagation();">Apple introduces Siri AI, a profoundly more capable and personal assistant</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Reebok co-founder Joe Foster, former NFL star Terrell Owens and Syntilay founder Ben Weiss unveil their AI-powered, 3D-printed recovery shoes on ‘The Claman Countdown.’
+                            Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.
                         </div>
                         
 
@@ -1452,9 +1421,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Apple" class="news-favicon">
+                                    <a href="https://www.apple.com" target="_blank" onclick="event.stopPropagation();">Apple</a>
                                     
                                 </div>
                                 
@@ -1462,7 +1431,130 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781124779.0"></span>
+                                    <span data-timestamp="1780976987.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_13193.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality" target="_blank" onclick="event.stopPropagation();">Apple’s new Siri AI knows when to shut up</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            It’s businesslike and succinct.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781131937.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.macrumors.com/2026/06/10/ios-27-siri-ai-hands-on/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.macrumors.com/t/FvvE61ZpC2dlbK-qoIUBLtFbNNM=/2500x/article-new/2026/06/Siri-AI-Hands-On-Thumb-1.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.macrumors.com/2026/06/10/ios-27-siri-ai-hands-on/" target="_blank" onclick="event.stopPropagation();">Hands-On With iOS 27's Siri AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The smarter, more capable version of Siri is finally here, available in iOS 27, iPadOS 27, and macOS Golden Gate. The updates are limited to developers right now, but there's a lot to look forward to this fall. Subscribe to the MacRumors YouTube channel for more videos. Personal Context is a Siri capability that distinguishes Siri AI from other chatbots like Claude and OpenAI. Siri has access to the data on your iPhone, from emails and messages to photos and files.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="MacRumors" class="news-favicon">
+                                    <a href="https://www.macrumors.com" target="_blank" onclick="event.stopPropagation();">MacRumors</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781120892.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.psychologytoday.com/us/blog/harm-reduction-or-abstinence/202606/will-artificial-intelligence-replace-therapy-for-addiction', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-06/pexels-silverkblack-23496577.jpg?itok=vM5VznHY');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.psychologytoday.com/us/blog/harm-reduction-or-abstinence/202606/will-artificial-intelligence-replace-therapy-for-addiction" target="_blank" onclick="event.stopPropagation();">Will Artificial Intelligence Replace Therapy for Addiction?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Can AI replace your therapist for addiction? The answer may surprise you — and the stakes could not be higher.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.psychologytoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Psychology Today" class="news-favicon">
+                                    <a href="https://www.psychologytoday.com" target="_blank" onclick="event.stopPropagation();">Psychology Today</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781130936.0"></span>
                                 </div>
                                 
                             </div>
@@ -1503,85 +1595,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781117228.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-06-10/oracle-reports-higher-than-expected-data-center-spending', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-06-10/oracle-reports-higher-than-expected-data-center-spending" target="_blank" onclick="event.stopPropagation();">Oracle Reports Higher-Than-Expected Data Center Spending</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781126317.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/" target="_blank" onclick="event.stopPropagation();">DiffusionGemma: 4x faster text generation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            An overview of DiffusionGemma, an exceptionally fast text generation model with up to 4x faster speeds.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="blog.google" class="news-favicon">
-                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781107559.0"></span>
+                                    <span data-timestamp="1781121555.0"></span>
                                 </div>
                                 
                             </div>
@@ -1609,7 +1623,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-10T21:35:44.425090+00:00">Updated 2026-06-10T21:35:44.425090+00:00</small>
+        <small data-timestamp="2026-06-10T23:25:53.916823+00:00">Updated 2026-06-10T23:25:53.916823+00:00</small>
     </div>
 </div>
 
@@ -1834,10 +1848,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 945</span>
+                                    <span class="post-points">▲ 956</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 505</span>
+                                    <span style="color: #9ca3af;">💬 508</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1879,10 +1893,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 805</span>
+                                    <span class="post-points">▲ 808</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 293</span>
+                                    <span style="color: #9ca3af;">💬 294</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1931,10 +1945,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 724</span>
+                                    <span class="post-points">▲ 727</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 556</span>
+                                    <span style="color: #9ca3af;">💬 557</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1980,10 +1994,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 668</span>
+                                    <span class="post-points">▲ 670</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 695</span>
+                                    <span style="color: #9ca3af;">💬 697</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2078,7 +2092,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 550</span>
+                                    <span class="post-points">▲ 551</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 193</span>
@@ -2127,10 +2141,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 484</span>
+                                    <span class="post-points">▲ 486</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 355</span>
+                                    <span style="color: #9ca3af;">💬 356</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2172,10 +2186,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 426</span>
+                                    <span class="post-points">▲ 427</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 731</span>
+                                    <span style="color: #9ca3af;">💬 732</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2238,20 +2252,28 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48462823', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=48470581', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/oppen-2.jpg');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://pbs.twimg.com/profile_images/1797759934811254786/XsJes4Sk_200x200.jpg');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=48462823" target="_blank" onclick="event.stopPropagation();">'Sloppenheimer:' Amazon employees mock the company's AI on Slack</a>
+                            <a href="https://news.ycombinator.com/item?id=48470581" target="_blank" onclick="event.stopPropagation();">Rich Sutton on AI creativity and discovery</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.
+                            A new and possibly controversial perspective:
+In this video, I explain the sense in which generative AI trained by supervised learning is incapable of making novel discoveries.
+https://t.co/LhAU6AyDkh
+
+The text of the speech:
+
+AI Creativity and Discovery
+
+Good day ladies and
                         </div>
                         
 
@@ -2262,23 +2284,23 @@
                                     <span class="post-points">▲ 196</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 96</span>
+                                    <span style="color: #9ca3af;">💬 112</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-06-09T15:59:41Z"></span>
+                                    <span class="post-age" data-timestamp="2026-06-10T02:25:24Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://twitter.com/RichardSSutton/status/2061216087744946656" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg" alt="" class="post-favicon">
+                                            <img src="https://twitter.com/apple-touch-icon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>404 Media</span>
+                                        <span>X (formerly Twitter)</span>
                                     </a>
                                 </div>
                                 
@@ -2307,7 +2329,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-10T21:35:07.743545+00:00">Updated 2026-06-10T21:35:07.743545+00:00</small>
+        <small data-timestamp="2026-06-10T23:25:28.357674+00:00">Updated 2026-06-10T23:25:28.357674+00:00</small>
     </div>
 </div>
 
@@ -3443,7 +3465,7 @@
                                     <span class="model-stats">⬇️ 675,936</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 874</span>
+                                    <span class="model-stats">❤️ 884</span>
                                 </div>
                             </div>
                             
@@ -3501,7 +3523,7 @@
                                     <span class="model-stats">⬇️ 131,794</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,789</span>
+                                    <span class="model-stats">❤️ 1,796</span>
                                 </div>
                             </div>
                             
@@ -3617,7 +3639,7 @@
                                     <span class="model-stats">⬇️ 140,221</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 499</span>
+                                    <span class="model-stats">❤️ 500</span>
                                 </div>
                             </div>
                             
@@ -3673,7 +3695,7 @@
                                     <span class="model-stats">⬇️ 7,170</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 465</span>
+                                    <span class="model-stats">❤️ 469</span>
                                 </div>
                             </div>
                             
@@ -3731,13 +3753,13 @@
                                     <span class="model-stats">⬇️ 19,948</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 312</span>
+                                    <span class="model-stats">❤️ 320</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-06-05T01:12:34.000Z"></span>
+                                    <span class="model-age" data-timestamp="2026-06-10T19:57:37.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3787,13 +3809,71 @@
                                     <span class="model-stats">⬇️ 4,965</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 339</span>
+                                    <span class="model-stats">❤️ 341</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-06-05T21:59:07.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/CohereLabs/North-Mini-Code-1.0', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/CohereLabs/North-Mini-Code-1.0.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/CohereLabs/North-Mini-Code-1.0" target="_blank" onclick="event.stopPropagation();">
+                                North-Mini-Code-1.0
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1678549441248-5e70f6048ce3c604d78fe133.png" alt="Cohere Labs" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/CohereLabs" target="_blank" onclick="event.stopPropagation();">Cohere Labs</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            North Mini Code 1.0 is a 30B-3B parameter research model optimized for code generation and agentic software engineering, featuring a 256K context length and tool-use capabilities for terminal tasks.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">text-generation</span>
+                                
+                                
+                                <span class="model-tag">30.5B</span>
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 1,859</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 250</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-06-09T16:43:11.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3843,7 +3923,7 @@
                                     <span class="model-stats">⬇️ 6,124</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 303</span>
+                                    <span class="model-stats">❤️ 307</span>
                                 </div>
                             </div>
                             
@@ -3901,71 +3981,13 @@
                                     <span class="model-stats">⬇️ 3,057,541</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,625</span>
+                                    <span class="model-stats">❤️ 1,630</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-04-17T02:59:21.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/CohereLabs/North-Mini-Code-1.0', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/CohereLabs/North-Mini-Code-1.0.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/CohereLabs/North-Mini-Code-1.0" target="_blank" onclick="event.stopPropagation();">
-                                North-Mini-Code-1.0
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1678549441248-5e70f6048ce3c604d78fe133.png" alt="Cohere Labs" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/CohereLabs" target="_blank" onclick="event.stopPropagation();">Cohere Labs</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            North Mini Code 1.0 is a 30B-3B parameter research model optimized for code generation and agentic software engineering, featuring a 256K context length and tool-use capabilities for terminal tasks.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">text-generation</span>
-                                
-                                
-                                <span class="model-tag">30.5B</span>
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,859</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 246</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-06-09T16:43:11.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3993,7 +4015,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-10T19:11:11.366635+00:00">Updated 2026-06-10T19:11:11.366635+00:00</small>
+        <small data-timestamp="2026-06-10T23:25:37.212218+00:00">Updated 2026-06-10T23:25:37.212218+00:00</small>
     </div>
 </div>
 
@@ -4248,7 +4270,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 84,899</span>
+                                    <span style="color: #9ca3af;">⭐ 84,989</span>
                                 </div>
                                 
                             </div>
@@ -4320,7 +4342,7 @@
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 163</span>
+                                    <span class="paper-stats">▲ 176</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 2</span>
@@ -4617,6 +4639,83 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2606.10804', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.10804.png');" ></div>
+
+                    <div class="paper-content">
+                        <!-- Paper title (fixed 2-line height) -->
+                        <div class="paper-title">
+                            <a href="https://huggingface.co/papers/2606.10804" target="_blank" onclick="event.stopPropagation();">SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning</a>
+                        </div>
+
+                        <!-- Authors -->
+                        <div class="paper-authors">
+                            Wenhao Yan, Fengjia Guo, Zhuoyi Yang et al. (4 authors)
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            
+                        </div>
+
+                        <!-- Rich description (AI summary if available, otherwise full summary) -->
+                        
+                        <div class="paper-summary">
+                            SCAIL-2 enables end-to-end character animation by directly transferring motion from driving videos without intermediate representations, using unified task decomposition and synthetic data generation.
+                        </div>
+                        
+
+                        <!-- Metadata (stats, links, time) -->
+                        <div class="paper-meta">
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-stats">▲ 32</span>
+                                </div>
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">💬 1</span>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">⭐ 156</span>
+                                </div>
+                                
+                            </div>
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <a href="https://arxiv.org/abs/2606.10804" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🎓 arXiv
+                                    </a>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://github.com/zai-org/SCAIL-2" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        💻 code
+                                    </a>
+                                </div>
+                                
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://teal024.github.io/SCAIL-2/" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🔗 project
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-age" data-timestamp="2026-06-08T20:00:00.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2605.23904', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2605.23904.png');" ></div>
@@ -4664,7 +4763,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 5,615</span>
+                                    <span style="color: #9ca3af;">⭐ 5,660</span>
                                 </div>
                                 
                             </div>
@@ -4696,83 +4795,6 @@
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
                                     <span class="paper-age" data-timestamp="2026-05-21T20:00:00.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2606.10804', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.10804.png');" ></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2606.10804" target="_blank" onclick="event.stopPropagation();">SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Wenhao Yan, Fengjia Guo, Zhuoyi Yang et al. (4 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            SCAIL-2 enables end-to-end character animation by directly transferring motion from driving videos without intermediate representations, using unified task decomposition and synthetic data generation.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 30</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 156</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2606.10804" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🎓 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/zai-org/SCAIL-2" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://teal024.github.io/SCAIL-2/" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                            
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2026-06-08T20:00:00.000Z"></span>
                                 </div>
                             </div>
                             
@@ -4905,7 +4927,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 9,813</span>
+                                    <span style="color: #9ca3af;">⭐ 9,830</span>
                                 </div>
                                 
                             </div>
@@ -4944,39 +4966,30 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2606.09828', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2508.02739', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2606.09828.png');" ></div>
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png');" ></div>
 
                     <div class="paper-content">
                         <!-- Paper title (fixed 2-line height) -->
                         <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2606.09828" target="_blank" onclick="event.stopPropagation();">Latent Spatial Memory for Video World Models</a>
+                            <a href="https://huggingface.co/papers/2508.02739" target="_blank" onclick="event.stopPropagation();">Kronos: A Foundation Model for the Language of Financial Markets</a>
                         </div>
 
                         <!-- Authors -->
                         <div class="paper-authors">
-                            Weijie Wang, Haoyu Zhao, Yifan Yang et al. (10 authors)
+                            Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)
                         </div>
 
                         <!-- Organization (always reserve space for consistent card height) -->
                         <div class="paper-organization">
-                            
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/6529a4f2f1205983224fa513/PeuVr7jSuJflmDBBGxoDX.png" alt="Microsoft Research"
-                                class="org-avatar">
-                            
-                            <a href="https://huggingface.co/MicrosoftResearch" target="_blank"
-                                onclick="event.stopPropagation();">
-                                Microsoft Research
-                            </a>
                             
                         </div>
 
                         <!-- Rich description (AI summary if available, otherwise full summary) -->
                         
                         <div class="paper-summary">
-                            Latent spatial memory for video world models stores 3D scene information directly in diffusion latent space, eliminating pixel-space reconstruction overhead and achieving faster generation with reduced memory usage.
+                            Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
                         </div>
                         
 
@@ -4984,45 +4997,38 @@
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 58</span>
+                                    <span class="paper-stats">▲ 40</span>
                                 </div>
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
+                                    <span style="color: #9ca3af;">💬 4</span>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 137</span>
+                                    <span style="color: #9ca3af;">⭐ 29,145</span>
                                 </div>
                                 
                             </div>
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2606.09828" target="_blank" class="paper-link"
+                                    <a href="https://arxiv.org/abs/2508.02739" target="_blank" class="paper-link"
                                         onclick="event.stopPropagation();">
                                         🎓 arXiv
                                     </a>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <a href="https://github.com/microsoft/LatentSpatialMemory" target="_blank" class="paper-link"
+                                    <a href="https://github.com/shiyu-coder/Kronos" target="_blank" class="paper-link"
                                         onclick="event.stopPropagation();">
                                         💻 code
                                     </a>
                                 </div>
                                 
                                 
-                                <div class="paper-meta-item">
-                                    <a href="https://microsoft.github.io/LatentSpatialMemory/" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
                             </div>
                             
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2026-06-07T20:00:00.000Z"></span>
+                                    <span class="paper-age" data-timestamp="2025-08-02T09:15:59.000Z"></span>
                                 </div>
                             </div>
                             
@@ -5051,7 +5057,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-10T19:11:12.422290+00:00">Updated 2026-06-10T19:11:12.422290+00:00</small>
+        <small data-timestamp="2026-06-10T23:25:38.261573+00:00">Updated 2026-06-10T23:25:38.261573+00:00</small>
     </div>
 </div>
 
