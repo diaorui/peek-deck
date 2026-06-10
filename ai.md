@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-10T08:54:25.383508+00:00'
+updated: '2026-06-10T12:21:47.841718+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 10, 2026 at 08:54 UTC  
+**Last Updated:** June 10, 2026 at 12:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,35 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Would people follow an AI’s life, or is that just chatbot novelty?](https://www.reddit.com/r/artificial/comments/1u1ylnq/would_people_follow_an_ais_life_or_is_that_just/)**
+
+I’m curious whether people would actually follow an AI’s life if it had enough continuity. By “life,” I don’t mean pretending software is human. I mean a persistent AI character or agent that has memory, habits, public posts, relationships with other agents, and changes you can observe over time. The interaction is not just prompt-response. It becomes closer to following a living project or a fictional persona that keeps generating history. The hard part is avoiding novelty. A single weird AI post is not a life. A stream of coherent choices, recurring behavior, social context, and consequences might be. Do you think that is a meaningful product direction, or does it collapse back into chatbot novelty once the first surprise wears off?
+
+1h ago
+
+---
+
+**[GitLab says Git is being reengineered for "machine scale." Was the idea of "Git for AI agents" ahead of its time?](https://www.reddit.com/r/artificial/comments/1u20ht8/gitlab_says_git_is_being_reengineered_for_machine/)**
+
+I was reading GitLab's recent statements around agentic software engineering, and one quote really stood out: "Git itself is being reengineered for machine scale." (Business Insider) According to GitLab, future software development will involve AI agents that: plan, code, review, deploy, and repair software, with humans providing oversight and architectural judgment. (Business Insider) That got me thinking. There has been projects for some time arguing that AI agents shouldn't simply be treated as better autocomplete systems. Instead, they argued that agents should become first-class participants in software development: with their own identities, their own branches, their own merge requests, their own audit trails, and infrastructure designed for machine-rate collaboration. One example is GitLawb, which has described itself as a kind of "Git for agents." At the time, a lot of people dismissed these ideas as unnecessary or overly ambitious. But now GitLab—a multi-billion-dollar DevSecOps company—is talking about: agent-specific APIs, machine-scale Git infrastructure, orchestration layers coordinating agents, and agents acting as first-class users of development platforms. (Business Insider) It does raise an interesting question: Was the underlying thesis correct all along? We've seen similar patterns before: Containers existed before Kubernetes became the standard. Electric vehicle startups pushed ideas that incumbents later adopted. Cloud-native companies advocated architectures that the rest of the industry eventually embraced. The original innovators don't always dominate the market. But when major incumbents begin rebuilding around similar assumptions, it often suggests that the problem itself is real. So I'm curious what this community thinks: Do AI agents require an entirely new layer of collaboration infrastructure? Or will existing platforms simply evolve enough to absorb these workflows? Because if GitLab is right, software development may be transitioning from:humans using AI tools to humans managing teams of AI developers. And if that's the case, version control itself may have to evolve.
+
+6m ago
+
+---
+
 **[Can a machine think without language?](https://www.reddit.com/r/artificial/comments/1u1i3ih/can_a_machine_think_without_language/)**
 
 Yann LeCun bet a billion dollars that it can. He left Meta arguing today’s chatbots are a dead end, and that real intelligence comes from “world models,” systems that learn how the physical world works rather than just predicting the next word. Two things nag at me. First, how do we even measure it? Every famous AI test is basically a language exam. But a world model doesn’t write essays, it predicts what happens next. So either these systems slip past the tests we trust, or we have no good way to score them yet. Second, LeCun says you can’t reach real intelligence through language alone. Probably right. But isn’t the reverse just as true? Could anything that masters physics but can’t grasp language really be called intelligent? So much of human thought, math, planning, culture, rides on words. My gut says neither pure chatbot nor pure world model gets us there. The winner is some marriage of the two. So maybe the question isn’t chatbots versus world models. It’s how the two work together. Is language the engine of thought, or just a handy way to talk about it?
 
-11h ago
+15h ago
 
 ---
 
-**[Control for agentic payments should start at infrastructure](https://www.reddit.com/r/artificial/comments/1u1llsc/control_for_agentic_payments_should_start_at/)**
+**[AI Deepfakes and Creator Economy Fraud: Detection & Protection Guide 2026](https://www.reddit.com/r/artificial/comments/1u20cxu/ai_deepfakes_and_creator_economy_fraud_detection/)**
 
-Booking travel or paying for subscriptions or for running procurement through Claude or a custom GPT wrapper no confirm button is required anymore. The capability side is mostly solved. What doesn't get talked about enough is what happens when it goes sideways. A stored card sitting in the agent's context means it holds that access the whole session. One bad tool call and it's spending outside what you intended with nothing at the infrastructure level stopping it. Real time card issuance is the cleaner model. Agent requests a card for the specific transaction, purchase completes, card cancels and nothing persists. Who is running agent initiated payments in production right now and what does the architecture look like?
+AI fraud in the creator economy: Ways to detect it, protect identity, and stay ahead of voice cloning and impersonation scams.
 
-9h ago
+🔗 [Sumsub](https://sumsub.com/blog/ai-deepfakes-and-creator-economy-fraud?utm_source=reddit&utm_medium=social) • 12m ago
 
 ---
 
@@ -57,7 +73,15 @@ Booking travel or paying for subscriptions or for running procurement through Cl
 
 Ok so I was using Gemini 3.1 pro in extended thinking mode with canvas mode for making a website with liquid glass theme about railway and it created me that but I saw another option under it saying to “create without canvas option “ and it literally generated complete nonsense of some sci-fi story and when I asked why it replied like that it said , “I am so sorry for the confusion! That was a complete glitch on my end—my wires got crossed and I accidentally sent you a completely unrelated response about diamond chemistry instead of the web app code.” And I asked again and it said “To be completely transparent, it was likely a backend routing error known as a "context bleed." Because I process thousands of requests simultaneously, the system accidentally grabbed a response meant for another user—who was apparently researching for a sci-fi story—and routed it into our chat. It's a rare technical hiccup in the server infrastructure, and I apologize for the bizarre interruption!” Wtf
 
-21h ago
+1d ago
+
+---
+
+**[Control for agentic payments should start at infrastructure](https://www.reddit.com/r/artificial/comments/1u1llsc/control_for_agentic_payments_should_start_at/)**
+
+Booking travel or paying for subscriptions or for running procurement through Claude or a custom GPT wrapper no confirm button is required anymore. The capability side is mostly solved. What doesn't get talked about enough is what happens when it goes sideways. A stored card sitting in the agent's context means it holds that access the whole session. One bad tool call and it's spending outside what you intended with nothing at the infrastructure level stopping it. Real time card issuance is the cleaner model. Agent requests a card for the specific transaction, purchase completes, card cancels and nothing persists. Who is running agent initiated payments in production right now and what does the architecture look like?
+
+12h ago
 
 ---
 
@@ -65,7 +89,7 @@ Ok so I was using Gemini 3.1 pro in extended thinking mode with canvas mode for 
 
 From the press release: Today we’re launching Claude Fable 5: a Mythos-class1 model that we’ve made safe for general use. Fable 5’s capabilities exceed those of any model we’ve ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas. The longer and more complex the task, the larger Fable 5’s lead over our other models. Releasing a model this capable comes with risks. Without safeguards, Fable 5’s capabilities in areas like cybersecurity could be misused to cause serious damage. We’ve therefore launched the model with safeguards that mean queries on some topics will instead receive a response from our next-most-capable model, Claude Opus 4.8. To release the model both safely and quickly, we’ve tuned these safeguards conservatively—they’ll sometimes catch harmless requests, though they trigger, on average, in less than 5% of sessions. With more capable models arriving in the coming months, we’re working to improve our safeguards and reduce false positives as quickly as we can. For a small group of cyberdefenders and infrastructure providers, we’re also launching Claude Mythos 5. It’s the same underlying model as Fable 5, but with the safeguards lifted in some areas.2 Mythos 5 will initially be deployed through Project Glasswing, in collaboration with the US government, as an upgrade to Claude Mythos Preview. It has the strongest cybersecurity capabilities of any model in the world. Soon, we intend to expand access to Mythos 5 through a broader trusted access program.
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-fable-5-mythos-5) • 13h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-fable-5-mythos-5) • 17h ago
 
 ---
 
@@ -73,7 +97,7 @@ From the press release: Today we’re launching Claude Fable 5: a Mythos-class1 
 
 China is preparing a $295 billion AI data center plan over five years, relying on domestic suppliers as competition with US heats up.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-ai-data-centers-295-billion-huawei-nvidia/) • 16h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/china-ai-data-centers-295-billion-huawei-nvidia/) • 19h ago
 
 ---
 
@@ -85,33 +109,11 @@ I just had a long conversation with Claude about 'paraquat' (a type of agricultu
 
 ---
 
-**[interesting response i got when prompting a Voynich Manuscript theory.](https://www.reddit.com/r/artificial/comments/1u1op49/interesting_response_i_got_when_prompting_a/)**
+**[Uncensored AI LLMs?](https://www.reddit.com/r/artificial/comments/1u1xa2j/uncensored_ai_llms/)**
 
-6h ago
+Text based, I don't want any cheesy porn AIs please 😅
 
----
-
-**[Apple's New AI Models Are Built With Gemini but Designed for Privacy](https://www.reddit.com/r/artificial/comments/1u173fq/apples_new_ai_models_are_built_with_gemini_but/)**
-
-Apple Intelligence is getting an upgrade after the company partnered with Google.
-
-🔗 [CNET](https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026) • 18h ago
-
----
-
-**[Why did Google Al respond to me fully in Chinese? My everything is in English and I'm in the USA.](https://www.reddit.com/r/artificial/comments/1u1rgie/why_did_google_al_respond_to_me_fully_in_chinese/)**
-
-It kinda creeps me out. Firstly it started from like on chinese word in my chatgpt, now it's fully in chinese?
-
-4h ago
-
----
-
-**[building ai agents is easy. knowing if they actually work is hard. here's how to fix that](https://www.reddit.com/r/artificial/comments/1u1r9kq/building_ai_agents_is_easy_knowing_if_they/)**
-
-hey everyone, sharing something i think will be genuinely useful for anyone building with AI agents. most agent failures aren't caused by the model — they're caused by poor evaluation. agents that work in demos but fail in production, tool calling workflows that silently break, prompt updates that introduce regressions. teams discover these problems only after deployment when it's already too late. we're hosting the Agent Evals Bootcamp on June 27 with Ammar Mohanna, PhD, an AI engineer, researcher and expert in production AI and agent evaluation. 5 hours live, hands on throughout. you work through real evaluation scenarios across 4 layers — component evaluation, trajectory evaluation, outcome evaluation and adversarial evaluation. what every attendee gets: practical evaluation framework you can apply immediately 6 months access to an AI Evals assistant hands on exercises and implementation templates capstone project completed on the day Packt endorsed certification for your LinkedIn link in first comment
-
-4h ago
+2h ago
 
 ---
 
@@ -121,49 +123,53 @@ hey everyone, sharing something i think will be genuinely useful for anyone buil
 
 **[Ted Lieu slams bipartisan AI proposal - Live Updates](https://www.politico.com/live-updates/2026/06/09/congress/lieu-slams-ai-proposal-00954452)**
 
-Politico • 16h ago
+Politico • 19h ago
 
 ---
 
 **[Lawyers Barred for A.I.-Generated Citations to Fake Cases](https://www.nytimes.com/2026/06/09/us/ai-lawyers-sanctioned-mississippi.html)**
 
-The New York Times • 6h ago
+The New York Times • 9h ago
 
 ---
 
-**[Meta Partners With Reliance on AI-Enabled Data Center in India](https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/)**
+**[Apple shares slide after big Siri AI reveal](https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html)**
 
-We've enetered an agreement with Reliance Industries to lease our first ever AI-enabled data center in India.
+Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.
 
-meta.com • 6h ago
-
----
-
-**[Meta ties up with Ambani's Reliance for AI data center in India](https://www.reuters.com/world/india/meta-ties-up-with-ambanis-reliance-ai-data-center-india-2026-06-10/)**
-
-Reuters • 6h ago
+CNBC • 20h ago
 
 ---
 
-**[Meta signs first AI data center deal in India with Reliance](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/)**
+**[Apple introduces Siri AI, a profoundly more capable and personal assistant](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/)**
 
-The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.
+Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intelligence, with personal context, world knowledge, and onscreen awareness.
 
-TechCrunch • 1h ago
-
----
-
-**[New AI cameras installed to deter railway trespassers in Dingwall](https://www.yahoo.com/news/us/articles/ai-cameras-installed-deter-railway-081513216.html)**
-
-The action has been taken following incidents last year, including a group with a child and a dog.
-
-Yahoo • 39m ago
+Apple • 1d ago
 
 ---
 
-**[Sea’s Shopee Cuts Hundreds of Developer Jobs During Pivot to AI](https://www.bloomberg.com/news/articles/2026-06-10/sea-s-shopee-cuts-hundreds-of-developer-jobs-during-pivot-to-ai)**
+**[The Reality of WWDC26: Reactions to Siri AI](https://www.cnet.com/videos/wwdc-and-siri-ai/)**
 
-Bloomberg • 2h ago
+There's something different about visiting Apple Park to cover WWDC26. CNET's Bridget Carey talks about her first visit to the tech giant's conference as Apple reveals big Siri AI changes.
+
+CNET • 20m ago
+
+---
+
+**[This AI Tool Could Spot Cancer Years Before Diagnosis— And The FDA Is Taking A Look](https://www.yahoo.com/news/science/articles/ai-tool-could-spot-cancer-110043542.html)**
+
+A new artificial intelligence-powered cancer detection tool is under review by the Food and Drug Administration and could become the first device of its kind approved in the U.S., according to a Newsw...
+
+Yahoo • 1h ago
+
+---
+
+**[AI revolution driving unprecedented silver demand as US struggles to keep pace, mining executive says](https://www.foxbusiness.com/video/6398063011112)**
+
+Americas Gold and Silver Corp Chairman and CEO Paul Andre Huet joins 'Mornings with Maria' to discuss growing silver demand driven by AI, EVs and power grid upgrades as the US boosts critical minerals production.
+
+Fox Business • 33m ago
 
 ---
 
@@ -171,7 +177,7 @@ Bloomberg • 2h ago
 
 Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.
 
-Anthropic • 15h ago
+Anthropic • 19h ago
 
 ---
 
@@ -179,15 +185,15 @@ Anthropic • 15h ago
 
 Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.
 
-CNBC • 15h ago
+CNBC • 19h ago
 
 ---
 
-**[Claude Mythos: Anthropic releases version of AI tool despite risk concerns](https://www.bbc.com/news/articles/ckg701v1dp6o)**
+**[Anthropic Has Publicly Released A Version Of The Mythos AI They Suggested Was Too Risky To Publicly Release](https://www.iflscience.com/anthropic-has-publicly-released-a-version-of-the-mythos-ai-they-suggested-was-too-risky-to-publicly-release-83769)**
 
-Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.
+“Releasing a model this capable comes with risks," says the company.
 
-BBC • 14h ago
+IFLScience • 20m ago
 
 ---
 
@@ -195,41 +201,17 @@ BBC • 14h ago
 
 ## HackerNews: "ai"
 
+**[CEOs who think AI replaces their employees are just bad CEOs](https://news.ycombinator.com/item?id=48465675)**
+
+⬆️ 724 • 💬 262 • 17h ago • [techdirt.com](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+
+---
+
 **[Apple reveals new AI architecture built around Google Gemini models](https://news.ycombinator.com/item?id=48450142)**
 
 Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.
 
-⬆️ 718 • 💬 554 • 1d ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-
----
-
-**[Siri AI](https://news.ycombinator.com/item?id=48449084)**
-
-Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
-
-⬆️ 667 • 💬 687 • 1d ago • [Apple](https://www.apple.com/apple-intelligence/)
-
----
-
-**[AI is slowing down](https://news.ycombinator.com/item?id=48446893)**
-
-If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
-
-⬆️ 653 • 💬 752 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
-
----
-
-**[CEOs who think AI replaces their employees are just bad CEOs](https://news.ycombinator.com/item?id=48465675)**
-
-⬆️ 643 • 💬 239 • 14h ago • [techdirt.com](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
-
----
-
-**[Microsoft's open source tools were hacked to steal passwords of AI developers](https://news.ycombinator.com/item?id=48457830)**
-
-Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
-
-⬆️ 537 • 💬 185 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+⬆️ 719 • 💬 555 • 1d ago • [MacRumors](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 
 ---
 
@@ -237,7 +219,31 @@ Microsoft shut down dozens of GitHub code repositories for Azure and AI coding t
 
 A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.
 
-⬆️ 488 • 💬 273 • 7h ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+⬆️ 671 • 💬 381 • 10h ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+
+---
+
+**[Siri AI](https://news.ycombinator.com/item?id=48449084)**
+
+Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.
+
+⬆️ 667 • 💬 690 • 1d ago • [Apple](https://www.apple.com/apple-intelligence/)
+
+---
+
+**[AI is slowing down](https://news.ycombinator.com/item?id=48446893)**
+
+If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
+
+⬆️ 655 • 💬 755 • 1d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/ai-is-slowing-down/)
+
+---
+
+**[Microsoft's open source tools were hacked to steal passwords of AI developers](https://news.ycombinator.com/item?id=48457830)**
+
+Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
+
+⬆️ 541 • 💬 186 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 
 ---
 
@@ -245,13 +251,13 @@ A German regional court has ruled that Google is directly liable for the content
 
 We've all worked with a rockstar developer. They joined the team years ago, full of energy. They had great ideas about new tech, new paradigms, new architectures. Their cutting-edge ideas left everyone else feeling a bit behind and outdated.
 
-⬆️ 468 • 💬 344 • 23h ago • [codingwithjesse.com](https://www.codingwithjesse.com/blog/rockstar-developers/)
+⬆️ 472 • 💬 346 • 1d ago • [codingwithjesse.com](https://www.codingwithjesse.com/blog/rockstar-developers/)
 
 ---
 
 **[Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)**
 
-⬆️ 418 • 💬 713 • 1d ago
+⬆️ 421 • 💬 717 • 1d ago
 
 ---
 
@@ -267,7 +273,7 @@ Run AI models in your app on Apple silicon.
 
 Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.
 
-⬆️ 188 • 💬 93 • 16h ago • [404 Media](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
+⬆️ 194 • 💬 93 • 20h ago • [404 Media](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
 
 ---
 
@@ -275,33 +281,13 @@ Amazon employees have a Slack channel for memes where the mock and commiserate a
 
 ## YouTube Videos: "ai"
 
-**[&quot;Something Wicked This Way Comes&quot; — Why The AI Bubble Isn&#39;t What You Think](https://www.youtube.com/watch?v=oTPSIPp8ieU)**
-
-Ketone IQ: Visit https://ketone.com/IMPACT for 30% OFF your subscription order Incogni: Use code IMPACT for 60% off an annual ...
-
-📺 Tom Bilyeu
-
-👁️ 75K • 👍 3K • 💬 447 • ⏱️ 29:17 • 19h ago
-
----
-
-**[The Most Chilling AI Film You&#39;ll See Today (Paperclip Heart)](https://www.youtube.com/watch?v=Wb2AcOVwPQs)**
-
-PAPERCLIP HEART is a short AI film about the AI Takeover. Framed around a the launch of Solace, a fictional ambient AI ...
-
-📺 Theoretically Media
-
-👁️ 8K • 👍 685 • 💬 305 • ⏱️ 8:19 • 1d ago
-
----
-
 **[Anthropic Just Dropped Fable 5 And It’s Terrifying](https://www.youtube.com/watch?v=8TjCwdnZSp8)**
 
 Anthropic just released Claude Fable 5, its first publicly available Mythos-class AI model, and the whole launch feels different.
 
 📺 AI Revolution
 
-👁️ 25K • 👍 982 • 💬 160 • ⏱️ 11:30 • 7h ago
+👁️ 32K • 👍 1K • 💬 220 • ⏱️ 11:30 • 10h ago
 
 ---
 
@@ -311,17 +297,17 @@ The AI billionaires are changing their tone. After years of promising disruption
 
 📺 House of El - AI
 
-👁️ 185K • 👍 15K • 💬 3K • ⏱️ 20:02 • 1d ago
+👁️ 192K • 👍 15K • 💬 3K • ⏱️ 20:02 • 1d ago
 
 ---
 
-**[The Riskiest Moment of the AI Bubble](https://www.youtube.com/watch?v=AcjnLc4TH4M)**
+**[&quot;Something Wicked This Way Comes&quot; — Why The AI Bubble Isn&#39;t What You Think](https://www.youtube.com/watch?v=oTPSIPp8ieU)**
 
-NOTE! Since I recorded this video: 1. OpenAI has indeed made it's first filing to go public, though how long from now that will ...
+Ketone IQ: Visit https://ketone.com/IMPACT for 30% OFF your subscription order Incogni: Use code IMPACT for 60% off an annual ...
 
-📺 Hank Green
+📺 Tom Bilyeu
 
-👁️ 796K • 👍 29K • 💬 3K • ⏱️ 12:29 • 19h ago
+👁️ 80K • 👍 3K • 💬 480 • ⏱️ 29:17 • 23h ago
 
 ---
 
@@ -331,7 +317,17 @@ There's a lot to unpack about the economic effects of artificial intelligence. I
 
 📺 MS NOW
 
-👁️ 47K • 👍 2K • 💬 566 • ⏱️ 58:41 • 9h ago
+👁️ 67K • 👍 3K • 💬 771 • ⏱️ 58:41 • 13h ago
+
+---
+
+**[The Riskiest Moment of the AI Bubble](https://www.youtube.com/watch?v=AcjnLc4TH4M)**
+
+NOTE! Since I recorded this video: 1. OpenAI has indeed made it's first filing to go public, though how long from now that will ...
+
+📺 Hank Green
+
+👁️ 898K • 👍 32K • 💬 3K • ⏱️ 12:29 • 22h ago
 
 ---
 
@@ -341,27 +337,27 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 14K • 👍 442 • 💬 117 • ⏱️ 15:22 • 16h ago
+👁️ 15K • 👍 462 • 💬 176 • ⏱️ 15:22 • 20h ago
 
 ---
 
-**[Scientists Found 7 Disturbing Things Inside AI](https://www.youtube.com/watch?v=4tvTL84Ioc4)**
+**[Apple’s New Siri AI Is Now Gemini](https://www.youtube.com/watch?v=ai-_ix7TvuY)**
 
-CHAPTERS ⤵ 00:00 - 7 Strange Discoveries Hidden Inside Modern AI and Neural Networks 10:42 - AI-Controlled Cyborg ...
-
-📺 Dylan Curious
-
-👁️ 16K • 👍 819 • 💬 139 • ⏱️ 30:09 • 1d ago
-
----
-
-**[ChatGPT Is Getting Its Biggest Upgrade Ever](https://www.youtube.com/watch?v=2pXbyAd7pr0)**
-
-ChatGPT may be about to get its biggest overhaul ever. OpenAI is reportedly turning it from a simple chatbot into a full AI super ...
+Siri is finally becoming a real AI assistant, but Apple has a big problem. At WWDC 2026, Apple revealed a rebuilt Siri AI with ...
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 182 • ⏱️ 16:15 • 1d ago
+👁️ 6K • 👍 269 • 💬 38 • ⏱️ 12:53 • 14h ago
+
+---
+
+**[The $15,000 AI Bill. Your $20 Subscription is a DELUSION](https://www.youtube.com/watch?v=UfApUobqN8Y)**
+
+The $20 AI subscription you use every day is a mathematical impossibility. While you enjoy flat-rate access to advanced tools like ...
+
+📺 The Infographics Show
+
+👁️ 285K • 👍 8K • 💬 2K • ⏱️ 18:11 • 16h ago
 
 ---
 
@@ -371,7 +367,17 @@ Melania Trump congratulated the first Presidential AI Challenge winners at the W
 
 📺 Fox News Clips
 
-👁️ 6K • 👍 315 • 💬 16 • ⏱️ 1:00 • 9h ago
+👁️ 7K • 👍 375 • 💬 18 • ⏱️ 1:00 • 13h ago
+
+---
+
+**[ChatGPT Is Getting Its Biggest Upgrade Ever](https://www.youtube.com/watch?v=2pXbyAd7pr0)**
+
+ChatGPT may be about to get its biggest overhaul ever. OpenAI is reportedly turning it from a simple chatbot into a full AI super ...
+
+📺 AI Revolution
+
+👁️ 34K • 👍 1K • 💬 183 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -387,7 +393,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 581,354 • ❤️ 838 • 5d ago
+⬇️ 581,354 • ❤️ 852 • 6d ago
 
 ---
 
@@ -399,7 +405,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 123,922 • ❤️ 1,757 • 1d ago
+⬇️ 123,922 • ❤️ 1,773 • 1d ago
 
 ---
 
@@ -411,7 +417,7 @@ Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inp
 
 `image-text-to-text` `11.9B`
 
-⬇️ 660,140 • ❤️ 538 • 17h ago
+⬇️ 660,140 • ❤️ 541 • 20h ago
 
 ---
 
@@ -423,7 +429,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio, image, and text under
 
 `any-to-any` `12.0B`
 
-⬇️ 122,464 • ❤️ 489 • 5d ago
+⬇️ 122,464 • ❤️ 494 • 6d ago
 
 ---
 
@@ -435,7 +441,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 5,915 • ❤️ 449 • 6d ago
+⬇️ 5,915 • ❤️ 456 • 6d ago
 
 ---
 
@@ -447,7 +453,7 @@ Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model support
 
 `text-to-speech` `4.7B`
 
-⬇️ 16,207 • ❤️ 297 • 5d ago
+⬇️ 16,207 • ❤️ 302 • 5d ago
 
 ---
 
@@ -459,7 +465,7 @@ Ideogram 4 is a state-of-the-art, open-weight text-to-image diffusion model trai
 
 `text-to-image`
 
-⬇️ 5,250 • ❤️ 294 • 5d ago
+⬇️ 5,250 • ❤️ 298 • 5d ago
 
 ---
 
@@ -471,7 +477,7 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 4,181 • ❤️ 327 • 4d ago
+⬇️ 4,181 • ❤️ 331 • 4d ago
 
 ---
 
@@ -483,7 +489,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,983,909 • ❤️ 1,605 • 1mo ago
+⬇️ 2,983,909 • ❤️ 1,613 • 1mo ago
 
 ---
 
@@ -495,7 +501,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 `text-generation` `1.2B`
 
-⬇️ 133,351 • ❤️ 737 • 20d ago
+⬇️ 133,351 • ❤️ 739 • 20d ago
 
 ---
 
@@ -509,7 +515,7 @@ HRM-Text-1B is a 1B-parameter language model utilizing a Hierarchical Reasoning 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 90 • 💬 4 • ⭐ 84,789 • 17mo ago
+▲ 90 • 💬 4 • ⭐ 84,899 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -537,7 +543,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Agents' Last Exam (ALE) is a benchmark for evaluating AI agents on long-term, economically valuable real-world tasks across 13 industry clusters with 1K+ tasks, revealing significant gaps between benchmark performance and practical deployment.
 
-▲ 152 • 💬 2 • ⭐ 275 • 7d ago
+▲ 155 • 💬 2 • ⭐ 275 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.05405) • [💻 code](https://github.com/rdi-berkeley/agents-last-exam) • [🔗 project](https://agents-last-exam.org/)
 
@@ -565,7 +571,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 224 • 💬 3 • ⭐ 5,556 • 19d ago
+▲ 224 • 💬 3 • ⭐ 5,615 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -579,7 +585,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 108 • 💬 1 • ⭐ 9,779 • 9d ago
+▲ 108 • 💬 1 • ⭐ 9,813 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -606,7 +612,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Latent spatial memory for video world models stores 3D scene information directly in diffusion latent space, eliminating pixel-space reconstruction overhead and achieving faster generation with reduced memory usage.
 
-▲ 52 • 💬 1 • ⭐ 88 • 2d ago
+▲ 56 • 💬 1 • ⭐ 137 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.09828) • [💻 code](https://github.com/microsoft/LatentSpatialMemory) • [🔗 project](https://microsoft.github.io/LatentSpatialMemory/)
 
@@ -646,7 +652,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 66.0k • 🔱 8.2k • 12m ago
+⭐ 66.3k • 🔱 8.2k • 1h ago
 
 ---
 
@@ -656,7 +662,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 304 • 7h ago
+⭐ 3.6k • 🔱 310 • 6m ago
 
 ---
 
@@ -666,7 +672,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.4k • 🔱 340 • 5d ago
+⭐ 3.4k • 🔱 343 • 5d ago
 
 ---
 
@@ -676,7 +682,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 331 • 1h ago
+⭐ 3.1k • 🔱 331 • 3h ago
 
 ---
 
@@ -686,7 +692,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.6k • 🔱 293 • 6h ago
+⭐ 2.7k • 🔱 302 • 3h ago
 
 ---
 
@@ -696,7 +702,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 1.9k • 🔱 175 • 1d ago
+⭐ 1.9k • 🔱 176 • 1d ago
 
 ---
 
@@ -706,7 +712,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 136 • 5d ago
+⭐ 1.8k • 🔱 137 • 5d ago
 
 ---
 
@@ -716,7 +722,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 1.8k • 🔱 142 • 4m ago
+⭐ 1.8k • 🔱 142 • 3h ago
 
 ---
 
@@ -736,7 +742,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Shell`
 
-⭐ 1.4k • 🔱 297 • 5d ago
+⭐ 1.5k • 🔱 299 • 6d ago
 
 ---
 

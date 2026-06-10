@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-10T08:54:25.393829+00:00'
+updated: '2026-06-10T12:21:47.857646+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 08:54 UTC  
+**Last Updated:** June 10, 2026 at 12:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,622.94
+### $1,622.46
 
 ---
 
@@ -46,13 +46,13 @@ Live Ethereum monitoring dashboard
 **7d:** -8.5%  
 **30d:** -28.8%  
 **90d:** -22.6%  
-**1y:** -41.5%  
+**1y:** -41.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.58B
+**Market Cap:** $195.64B
 Rank #2
 
 **Circulating Supply:** 120,684,382 ETH
@@ -62,7 +62,7 @@ No max supply
 -67.2%
 
 **All-Time Low:** $0.43
-+374186.1%
++374197.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-14h ago
+18h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Sent 0.04485299 ETH but nothing arrived.](https://www.reddit.com/r/ethereum/comments/1tydlyy/sent_004485299_eth_but_nothing_arrived/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Circle unveiled "cirBTC", a token backed 1:1 with the world's largest cryptocurrency to allow users to utilise their bitcoin wealth in DeFi protocols.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -166,17 +166,19 @@ Circle Internet Financial • 1d ago
 
 ---
 
-**[ETH/USDT](https://www.binance.com/en/trade/ETH_USDT?contentId=332528777740481)**
+**[Bitcoin and ethereum prices today, June 10, 2026: BTC, ETH open lower and falling further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-june-10-2026-btc-eth-open-lower-and-falling-further-114713805.html)**
 
-Binance • 1h ago
+These are today's bitcoin and ethereum prices, Wednesday, June 10, 2026. Bitcoin opened at $61,672.20 on Wednesday, down 2.3% from Tuesday's opening price. Ethereum opened at $1,638.45 on Wednesday, 3.1% lower than Tuesday's opening price.
+
+Yahoo Finance • 34m ago
 
 ---
 
-**[Ethereum Flashes 'Historic Opportunity,' Says Analyst, as Tom Lee's Bitmine Buys $218M](https://finance.yahoo.com/markets/crypto/articles/ethereum-flashes-historic-opportunity-says-084217435.html)**
+**[Current price of Ethereum for June 9, 2026](https://fortune.com/article/price-of-ethereum-06-09-2026/)**
 
-Ethereum hits its most oversold level ever. Tom Lee's Bitmine is buying the dip aggressively. Bullish forecasts remain despite the crash. Ethereum may be approaching ...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1d ago
+Fortune • 23h ago
 
 ---
 
@@ -184,15 +186,7 @@ Yahoo Finance • 1d ago
 
 The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.
 
-Decrypt • 12h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.54 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-54-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302793756.html)**
-
-Bitmine owns 4.59% of the total ETH coin supply of 120.7 million Bitmine is 92% of the way to the 'Alchemy of 5%' in just 11 months Ethereum continues to...
-
-PR Newswire • 1d ago
+Decrypt • 15h ago
 
 ---
 
@@ -204,27 +198,33 @@ Sherwood News • 1d ago
 
 ---
 
-**[Crypto News Today: MemeToro AI Agents Gain Momentum as Ethereum Price Faces Pressure](https://markets.businessinsider.com/news/stocks/crypto-news-today-memetoro-ai-agents-gain-momentum-as-ethereum-price-faces-pressure-1036235368)**
+**[Crypto News: Bitcoin, Ethereum, XRP and Cardano Enter Historical Buy Zones as MVRV Turns Negative](https://www.binance.com/en/square/post/332239443761601)**
 
-ZURICH, June  09, 2026  (GLOBE NEWSWIRE) -- MemeToro AI Labs, an innovative developer of decentralized artificial intelligence infrastructure, tod...
-
-markets.businessinsider.com • 19h ago
+Binance • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP edge lower despite Middle East tensions easing](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-edge-lower-despite-middle-east-tensions-easing-202606091200)**
+**[Bitmine’s Massive Ethereum Bet Puts MAVAN Staking Model In Focus](https://finance.yahoo.com/markets/crypto/articles/bitmine-massive-ethereum-bet-puts-102205768.html)**
 
-Cryptocurrency prices trade amid persistent selling pressure on Tuesday.
+Bitmine Immersion Technologies (NYSE:BMNR) has accumulated over 5.5 million ETH, now holding close to 5% of the Ethereum supply. The company recently completed a record single week Ethereum purchase, described as the largest ETH buy of 2026 so far. A $280 million preferred stock capital raise funded this ETH accumulation and the build out of a new institutional staking platform, MAVAN. The majority of Bitmine's Ethereum is now staked through MAVAN, positioning the company as a large on chain...
 
-FXStreet • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 9, 2026](https://fortune.com/article/price-of-ethereum-06-09-2026/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.54 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-54-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302793756.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine owns 4.59% of the total ETH coin supply of 120.7 million Bitmine is 92% of the way to the 'Alchemy of 5%' in just 11 months Ethereum continues to...
 
-Fortune • 19h ago
+PR Newswire • 1d ago
+
+---
+
+**[Ethereum news: Tom Lee's Bitmine (BMNR) bought the dip, acquiring 126,971 ETH as prices tanked](https://www.coindesk.com/markets/2026/06/07/bitmine-bought-the-dip-making-its-biggest-ether-purchase-in-2026-as-prices-tanked)**
+
+The company bought 126,971 ETH last week, worth roughly $214 million at current prices, despite chairman Tom Lee's earlier calls to slow purchases.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -238,7 +238,25 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 257 • 💬 63 • ⏱️ 15:00 • 17h ago
+👁️ 5K • 👍 266 • 💬 63 • ⏱️ 15:00 • 21h ago
+
+---
+
+**[BITCOIN PUMP &amp; DUMP EXPLAINED (30 mins remaining)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Xv7ExyY_cZk)**
+
+BITCOIN PUMP & DUMP EXPLAINED (30 mins remaining)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 437 • 👍 41 • 💬 1 • ⏱️ 22:06 • 20m ago
+
+---
+
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 438 • 💬 3 • ⏱️ 2:28 • 11h ago
 
 ---
 
@@ -248,15 +266,7 @@ Ethereum's founder just made his most dramatic announcement yet: foundation down
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 810 • 💬 78 • ⏱️ 16:49 • 2d ago
-
----
-
-**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 383 • 💬 2 • ⏱️ 2:28 • 7h ago
+👁️ 24K • 👍 813 • 💬 78 • ⏱️ 16:49 • 2d ago
 
 ---
 
@@ -266,17 +276,27 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 8K • 👍 296 • 💬 21 • ⏱️ 5:46 • 1d ago
+👁️ 8K • 👍 298 • 💬 21 • ⏱️ 5:46 • 1d ago
 
 ---
 
-**[DeFi Dad: Ethereum Will Be The Backbone of Finance (Tokenization &amp; Stablecoins)](https://www.youtube.com/watch?v=_Bpzr0AQ3gc)**
+**[SOLANA peut-elle vraiment dépasser ETHEREUM ?](https://www.youtube.com/watch?v=YYl_HpsJid8)**
 
-DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated security feature versus HyperLiquid, why ...
+Crypto #Macroéconomie #btc Stratégie d'accumulation de BTC : https://go.rifter.fr/lp-Gerer-son-exposition-et-accumuler-du-BTC ...
 
-📺 The Rollup
+📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 5K • 👍 128 • 💬 22 • ⏱️ 38:13 • 1d ago
+👁️ 4K • 👍 504 • 💬 59 • ⏱️ 16:58 • 5h ago
+
+---
+
+**[Tom Lee: False narrative to think bull market is in trouble](https://www.youtube.com/watch?v=MJ56NoxTaYI)**
+
+Tom Lee, Fundstrat managing partner, joins 'Power Lunch' to discuss the latest market action, the state of the crypto complex and ...
+
+📺 CNBC Television
+
+👁️ 183K • 👍 2K • 💬 497 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -286,37 +306,17 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 392 • 👍 27 • 💬 63 • ⏱️ 6:16 • 21h ago
+👁️ 422 • 👍 26 • 💬 120 • ⏱️ 6:16 • 1d ago
 
 ---
 
-**[Ethereum Bottom REVEALED: This ETH Historical Pattern Triggers Massive Bull Runs](https://www.youtube.com/watch?v=WJVONw_V21I)**
+**[DeFi Dad: Ethereum Will Be The Backbone of Finance (Tokenization &amp; Stablecoins)](https://www.youtube.com/watch?v=_Bpzr0AQ3gc)**
 
-When will #ethereum finally bottom? In this video, I break down a historical patterns that has appeared near major Ethereum bear ...
+DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated security feature versus HyperLiquid, why ...
 
-📺 Humble Market Timer
+📺 The Rollup
 
-👁️ 179 • 👍 3 • ⏱️ 9:34 • 20h ago
-
----
-
-**[Ethereum&#39;s a HUGE Disappointment](https://www.youtube.com/watch?v=GoE6dn4e0A8)**
-
-Ethereum, once a top GPU mining holding, has returned to its 2017 all-time high price. Despite hitting nearly $5k in 2021, ...
-
-📺 Red Fox Crypto
-
-👁️ 162 • 👍 4 • 💬 2 • ⏱️ 1:30 • 2h ago
-
----
-
-**[Bitcoin &amp; Ethereum, bereit für den LONG? Habt Geduld, bald ist es soweit!](https://www.youtube.com/watch?v=YbcYeaHTpi8)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 424 • 💬 49 • ⏱️ 12:47 • 4h ago
+👁️ 5K • 👍 132 • 💬 22 • ⏱️ 38:13 • 1d ago
 
 ---
 
