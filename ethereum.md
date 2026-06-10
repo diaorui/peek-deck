@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-10T16:21:21.606692+00:00'
+updated: '2026-06-10T19:11:29.953915+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 16:21 UTC  
+**Last Updated:** June 10, 2026 at 19:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,650.28
+### $1,630.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -6.8%  
-**30d:** -27.4%  
-**90d:** -21.1%  
-**1y:** -40.4%  
+**24h:** -1.6%  
+**7d:** -7.9%  
+**30d:** -28.3%  
+**90d:** -22.0%  
+**1y:** -41.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.13B
+**Market Cap:** $196.40B
 Rank #2
 
 **Circulating Supply:** 120,684,382 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.6%
+-67.0%
 
 **All-Time Low:** $0.43
-+381036.3%
++376394.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-22h ago
+1d ago
 
 ---
 
@@ -150,33 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[cirBTC Is Live on Ethereum for Wrapped BTC Deployment](https://www.circle.com/blog/cirbtc-is-now-live-on-ethereum)**
+**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
 
-Now live on Ethereum, cirBTC is a 1:1 BTC-backed token that delivers secure, neutral collateral across DeFi on Ethereum, with planned Arc and multichain support.
+Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
-Circle Internet Financial • 1d ago
-
----
-
-**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
-
-The largest ethereum treasury firm acquired 126,971 tokens last week....
-
-Sherwood News • 2d ago
+The Block • 3h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Slump as AI Selloff Hits Cryptos](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-ai-crypto-46c810ef)**
+**[The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)**
 
-Barron's • 3h ago
+A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
+
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-resume-rebound-inflation-144607048.html)**
+**[BlackRock Sells $230 Million in Bitcoin and Buys Ethereum: What Is Really Going On?](https://finance.yahoo.com/markets/crypto/articles/blackrock-sells-230-million-bitcoin-131810369.html)**
 
-The reading likely supports restrictive monetary policy.
+BlackRock sold 3,671 BTC and bought 10,566 ETH amid heavy IBIT and ETHA outflows across the crypto ETF market.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,43 +182,49 @@ Fortune • 1d ago
 
 ---
 
-**[The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)**
+**[cirBTC Is Live on Ethereum for Wrapped BTC Deployment](https://www.circle.com/blog/cirbtc-is-now-live-on-ethereum)**
 
-A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
+Now live on Ethereum, cirBTC is a 1:1 BTC-backed token that delivers secure, neutral collateral across DeFi on Ethereum, with planned Arc and multichain support.
 
-CoinDesk • 11m ago
-
----
-
-**[Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum](https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum)**
-
-The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.
-
-Decrypt • 19h ago
+Circle Internet Financial • 2d ago
 
 ---
 
-**[Ethereum could transition to zero-knowledge proof protocol in 3 to 5 years, says Joe Lubin](https://cryptobriefing.com/ethereum-zk-proof-transition-lubin/)**
+**[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high)**
 
-Ethereum co-founder Joe Lubin says ZK proof integration could reshape the network within 3 to 5 years, citing infinite demand for the World Computer vision.
+Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
 
-Crypto Briefing • 44m ago
-
----
-
-**[Crypto News Today: AlphaPepe Nears Binance Listing as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-binance-listing-as-ethereum-price-prediction-targets-10-000-1036233913)**
-
-MONACO, June  08, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as the project’s exchange debut moves closer and Binance...
-
-markets.businessinsider.com • 1d ago
+Decrypt • 4h ago
 
 ---
 
-**[MetaMask debuts Agent Wallet giving AI bots self-custody access to Ethereum](https://www.theblock.co/post/403865/metamask-debuts-agent-wallet-giving-ai-bots-self-custody-access-ethereum)**
+**[Bitcoin, XRP, Ethereum Slump as AI Selloff Hits Cryptos](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-ai-crypto-46c810ef)**
 
-Consensys-backed MetaMask is rolling out a non-custodial wallet for AI agents for general availability this summer.
+Barron's • 6h ago
 
-The Block • 2d ago
+---
+
+**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
+
+The largest ethereum treasury firm acquired 126,971 tokens last week....
+
+Sherwood News • 2d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC remains vulnerable, ETH weakens further, XRP signals more downside](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-remains-vulnerable-eth-weakens-further-xrp-signals-more-downside-202606100313)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) remain under pressure mid-week, as the broader cryptocurrency market struggles to regain recovery momentum after last week’s massive correction.
+
+FXStreet • 15h ago
+
+---
+
+**[Ethereum OG Nails The Crash: Sells $188M, Buys Back Lower](https://www.tradingview.com/news/newsbtc:69e65d8d7094b:0-ethereum-og-nails-the-crash-sells-188m-buys-back-lower/)**
+
+Ethereum has reclaimed the $1,650 level after the massive drop that defined last week’s market action — a recovery attempt that has provided some relief after a correction that tested the resolve of even the most conviction-driven holders. The bounce is welcome — but data from Arkham Intelligence h…
+
+TradingView • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 271 • 💬 52 • ⏱️ 15:00 • 1d ago
+👁️ 6K • 👍 273 • 💬 52 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -246,7 +246,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 526 • 💬 30 • ⏱️ 2:28 • 15h ago
+👁️ 9K • 👍 570 • 💬 33 • ⏱️ 2:28 • 18h ago
+
+---
+
+**[BITCOIN PUMP &amp; DUMP EXPLAINED (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Xv7ExyY_cZk)**
+
+BITCOIN PUMP & DUMP EXPLAINED (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 253 • 💬 64 • ⏱️ 22:06 • 7h ago
 
 ---
 
@@ -256,7 +266,7 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 📺 Binance
 
-👁️ 8K • 👍 308 • 💬 22 • ⏱️ 5:46 • 1d ago
+👁️ 9K • 👍 314 • 💬 22 • ⏱️ 5:46 • 2d ago
 
 ---
 
@@ -266,7 +276,7 @@ ETH & BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH Farm ETH ON MaxFi: https://
 
 📺 Big Time Trades
 
-👁️ 551 • 👍 38 • 💬 8 • ⏱️ 14:20 • 16h ago
+👁️ 573 • 👍 40 • 💬 8 • ⏱️ 14:20 • 19h ago
 
 ---
 
@@ -276,7 +286,7 @@ Les avantages Kraken : https://s.rifter.fr/Kraken-avantages #Crypto #Macroécono
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 6K • 👍 619 • 💬 69 • ⏱️ 16:58 • 9h ago
+👁️ 8K • 👍 696 • 💬 74 • ⏱️ 16:58 • 12h ago
 
 ---
 
@@ -286,17 +296,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 4K • 👍 359 • 💬 31 • ⏱️ 14:19 • 7h ago
+👁️ 5K • 👍 382 • 💬 34 • ⏱️ 14:19 • 9h ago
 
 ---
 
-**[DeFi Dad: Ethereum Will Be The Backbone of Finance (Tokenization &amp; Stablecoins)](https://www.youtube.com/watch?v=_Bpzr0AQ3gc)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=fSjpCvHRKFg)**
 
-DeFi Dad breaks down why lighter's ETH escape hatch makes it the most underrated security feature versus HyperLiquid, why ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 The Rollup
+📺 Profit First
 
-👁️ 5K • 👍 137 • 💬 25 • ⏱️ 38:13 • 1d ago
+👁️ 304 • 👍 40 • ⏱️ 5:17 • 2h ago
 
 ---
 
@@ -306,27 +316,17 @@ When will #ethereum finally bottom? In this video, I break down a historical pat
 
 📺 Humble Market Timer
 
-👁️ 127 • 👍 3 • ⏱️ 9:34 • 1d ago
+👁️ 139 • 👍 3 • ⏱️ 9:34 • 1d ago
 
 ---
 
-**[ETH Final Flush (Rotation Next?) + BTC Bottom Signal](https://www.youtube.com/watch?v=ZAPYekLDvyQ)**
+**[When Ethereum DeFi Collapses, Liquidity Will Flow to ICP](https://www.youtube.com/watch?v=GWUOPs0oJ8g)**
 
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+In this video, I explain why I believe Ethereum DeFi is headed for a major collapse and why that could send liquidity flowing into ...
 
-📺 Marzell Crypto
+📺 Jerry Banfield ICP
 
-👁️ 436 • 👍 28 • 💬 120 • ⏱️ 6:16 • 1d ago
-
----
-
-**[Why Can&#39;t Anyone Kill Ethereum](https://www.youtube.com/watch?v=iEuxV-LicfA)**
-
-FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
-
-📺 The Rollup
-
-👁️ 550 • 👍 21 • 💬 1 • ⏱️ 2:36 • 23h ago
+👁️ 2K • 👍 169 • 💬 51 • ⏱️ 5:43 • 1d ago
 
 ---
 

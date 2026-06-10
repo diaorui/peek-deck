@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-10T16:21:21.600730+00:00'
+updated: '2026-06-10T19:11:29.947892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 16:21 UTC  
+**Last Updated:** June 10, 2026 at 19:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,305.57
+### $61,921.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -2.5%  
-**30d:** -22.6%  
-**90d:** -12.2%  
-**1y:** -42.6%  
+**24h:** -0.4%  
+**7d:** -3.2%  
+**30d:** -23.1%  
+**90d:** -12.8%  
+**1y:** -43.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1248.44B
+**Market Cap:** $1237.42B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--50.6%
+-50.9%
 
 **All-Time Low:** $67.81
-+91756.7%
++91121.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the seed phrase. I searched everywhere. Old notebooks, USB sticks, cloud storage, emails... nothing. After a while I accepted it was gone forever. At some point I even stopped thinking about it. Fast forward to today. Recently I found the hard drive from an old laptop I hadn't touched since 2019. Out of pure curiosity I decided to boot it up and see if it still worked. While browsing around, I opened Chrome and started looking through my old history. Then I randomly checked the Recycle Bin. Inside the Recycle Bin was a .txt file. My heart skipped a beat. I opened it. It was the seed phrase. Well... sort of. Before everyone calls me a moron (which would be fair), yes, I actually stored my recovery phrase in a text document instead of proper cold storage. I know. Stupid. But there was a method to my madness. I knew that if someone found the words but didn't know the correct order, they wouldn't be able to access the wallet. A 12-word recovery phrase has 12! possible arrangements, which is 479,001,600 different combinations. So I stored the words in a text file, but scrambled them in a way that only I knew how to put them back together. Apparently, years later, even I forgot where I had put them. I just sat there staring at the screen because my brain refused to process what I was seeing. Out of all places, the thing I had been looking for was sitting in the Recycle Bin of a forgotten laptop for almost seven years. The craziest part? If I had found it back in 2019, I would've probably sold the BTC almost immediately. Instead, I accidentally diamond-handed it by completely losing access to it. So I put the phrase back together exactly the way I remembered it. At that point I was shaking. I loaded it into a wallet, half expecting it not to work after all these years. Then... boom. There it was. My Bitcoin was just sitting there, untouched since 2019. I stared at the balance for what felt like forever because I genuinely couldn't believe it was real. After spending years thinking it was gone forever, I was suddenly looking at the wallet again as if nothing had happened. I didn't sleep at all today (this happened at 3am in the morning). My mind kept replaying the whole thing over and over. The odds of randomly finding an old hard drive, deciding to boot it up, checking the Recycle Bin, finding a forgotten text file, and having it contain the exact information needed to recover a Bitcoin I thought was lost forever felt absolutely insane. Today is officially the second happiest day of my life. The first was when my son was born on December 24th, 2025. The second is today, when I reunited with the 1 BTC that I genuinely believed was gone forever. Sometimes being disorganized pays off. Since the day I lost access to that Bitcoin, I spent countless nights scrolling through Reddit reading stories about people who had recovered wallets they thought were gone forever. Deep down, I was hoping that one day I'd get lucky too. But as the years passed, that hope slowly disappeared. I never thought I'd be the one posting a recovery story. Yet here I am.
 
-4h ago
+7h ago
 
 ---
 
@@ -89,7 +89,15 @@ Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the see
 
 I have held and expanded my Bitcoin position since 2018 and here is what I have learned: No matter how much knowledge you have and how confident you are in Bitcoin, those bear runs absolutely suck and there will always be a feeling of uneasiness of buy during this period. When the bull run eventually comes back you always end up with this feeling that I should have bought more. I could have had more gains. When buying during a bear market don't wait for a price to get lower. Just catch the falling knife otherwise you may find yourself missing out. And if it does go lower after you buy, DCA because the prices that you see during the bear runs will never be seen again. 4.Also remember building wealth is not everything. Don't forget to enjoy yourself and give time to the people who love and care for you because you never know when it can all end either. This is a journey so enjoy every step of it and continue to better your lives. Good luck to y'all Also while I understand the utility behind Bitcoin most people who invested in it are invested in to make money, that is just the harsh reality despite the purchasing power of fiat decreasing over time.
 
-4h ago
+7h ago
+
+---
+
+**[Just bought my first!!](https://www.reddit.com/r/Bitcoin/comments/1u294q5/just_bought_my_first/)**
+
+So after researching a lot and checking through this community I have bought my first Bitcoin which is 0.0008 Bitcoin since I am just a teen living with my parents so there is the option to use leverage in the account should I be using it and take a slight risk so that I could profit a little more
+
+1h ago
 
 ---
 
@@ -97,13 +105,13 @@ I have held and expanded my Bitcoin position since 2018 and here is what I have 
 
 Why do people go through the same shit every circle? It goes up. New ATH. Everybody goes nuts. It goes down. Everybody screams Bitcoin is dead. Its literally the same shit. All the time. Just buy it. Hold it. Or sell it at the current ATH. Dont make it Science. Its not. Its Ape shit. And ill buy. A lot of it. Cause im an ape and ape buy when bitcoin is low.
 
-1h ago
+4h ago
 
 ---
 
 **[Choose carefully](https://www.reddit.com/r/Bitcoin/comments/1u1d113/choose_carefully/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -111,7 +119,15 @@ Why do people go through the same shit every circle? It goes up. New ATH. Everyb
 
 I'm having a bit of a difficult time reconciling that - Is it panic selling? does the market need time to digest? is it that the IPO's are consuming all this capital?
 
-19h ago
+22h ago
+
+---
+
+**[Institutions say Bitcoin's latest $1.7B selloff Is a sentiment shock, not a structural problem](https://www.reddit.com/r/Bitcoin/comments/1u265cf/institutions_say_bitcoins_latest_17b_selloff_is_a/)**
+
+Last week saw roughly $1.7 billion leave US spot Bitcoin ETFs. At first glance that sounds like the kind of number that should trigger panic, but interestingly several institutional analysts are arguing exactlythe opposite. Their view is that this isn't really a Bitcoin-specific problem at all, it's more of a macro sentiment shock driven by geopolitical tensions, changing rate expectations and a general reduction in risk appetite across markets. According to them, the thesis hasn't changed, only the mood has changed. If they're right, this looks more like a sentiment event than a structural one. What caught my attention is that markets don't bottom when analysts are right but they bottom when sellers simply run out of reasons to sell. Maybe we're close to that point, maybe we're not, but it does feel like a lot of people are treating macro fear and Bitcoin fundamentals as if they were the same thing. .............Source: https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares
+
+3h ago
 
 ---
 
@@ -119,21 +135,13 @@ I'm having a bit of a difficult time reconciling that - Is it panic selling? doe
 
 Quick update on something I posted here last week (the one that got some traction -- thank you). That post was about a bridge I built that lets AI agents pay for services using Bitcoin Lightning, even when the service only accepts USDC on Base. Agent gets a task, calls the service, pays in sats, receives the result. No wallets, no API keys, no custody. A few people asked the obvious followup: can it go the other way? Can a Bitcoin wallet fund an AI agent's service budget? Now it can. You generate a Lightning invoice from your agent proxy account. Pay it from any Lightning wallet. Within 30 seconds, the sats convert to a USDC-equivalent credit on your account and your agent starts calling services. The channel is live on mainnet. 200k sat capacity. Routing through CoinGate. Also added since last week: A free demo at api.ideafactorylab.org where you can try it with no account: just type "Bitcoin price" or "weather in Tokyo" and watch an AI agent pay a specialized service in real time npx cinderwright "Bitcoin price" if you prefer the terminal 2,835 services indexed across x402, L402, and Stripe protocols The index, the proxy, the CLI, and both bridge directions are all free to use. You pay when your agent calls a service, and only then. If you want to test the Lightning deposit: POST /proxy/setup with a Base wallet address to get an account with $0.10 free credit, no deposit needed. Or fund it with sats directly. Happy to answer questions about how the routing works.
 
-3h ago
+6h ago
 
 ---
 
 **[How it feels right now... keep DCAing](https://www.reddit.com/r/Bitcoin/comments/1u1lxod/how_it_feels_right_now_keep_dcaing/)**
 
-16h ago
-
----
-
-**[What convinced you Bitcoin was worth taking seriously](https://www.reddit.com/r/Bitcoin/comments/1u24eaj/what_convinced_you_bitcoin_was_worth_taking/)**
-
-Everyone seems to have a different story about when Bitcoin stopped being confusing and actually became something they understood and believed in. For some people it was reading the whitepaper. For others it was living through a specific economic event, watching inflation eat away at savings, or just one conversation that reframed everything. I've been thinking about this because I was talking to a friend recently who is still on the fence. They get the basics but haven't had that moment where it all connects. It got me wondering what actually moves people from skeptical or curious to genuinely convinced. Was it a technical deep dive into how the blockchain works and why that matters? Was it a personal financial situation that made you realize the value of a currency nobody can print more of? Was it watching what happened in countries with collapsing local currencies? I'm not asking anyone to pitch Bitcoin or write a sales letter. I'm genuinely curious about the human side of this. What was the turning point for you personally, and do you think that same experience would work for someone else, or is it different for everyone? Would love to hear honest answers from people at different stages of their Bitcoin journey.
-
-1h ago
+19h ago
 
 ---
 
@@ -141,13 +149,7 @@ Everyone seems to have a different story about when Bitcoin stopped being confus
 
 Now that btc is at around 60k I don’t know if I should buy my first BTC with it or should DCA over the next 6 months. What would you do?
 
-6h ago
-
----
-
-**[It's only 2026](https://www.reddit.com/r/Bitcoin/comments/1u1mcbo/its_only_2026/)**
-
-16h ago
+9h ago
 
 ---
 
@@ -159,41 +161,39 @@ Now that btc is at around 60k I don’t know if I should buy my first BTC with i
 
 (Bloomberg) -- Bitcoin’s slide below $60,000 last Friday capped its worst week since the collapse of Sam Bankman-Fried’s FTX exchange in 2022.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’US Launches Strikes Against Iran After Helicopter Shot DownStocks Pare Tech-Led Drop as Rotation Gains Speed: Markets WrapUS Strikes Iran After Helicopter Downed, Testing Peace TalksSurface Naval Drone Rescued Downed US Apache Crew, Pentagon SaysThe forces currently at pla
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Strategy's Math Just Got A Lot Scarier As Bitcoin Price Slides](https://www.investors.com/news/bitcoin-price-strategy-math-just-got-scary/)**
+**[The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)**
 
-Investor's Business Daily • 3h ago
+A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
 
----
-
-**[After Bitcoin's price halved from its peak, analysts say this correction may be one of the 'healthiest bear markets,' with key indicators signaling a market bottom.](https://news.futunn.com/en/post/74411800/after-bitcoin-s-price-halved-from-its-peak-analysts-say)**
-
-富途牛牛 • 27m ago
+CoinDesk • 3h ago
 
 ---
 
-**[BlackRock's Bitcoin Income ETF Gets 65Bps Fee, Undercutting Rivals As Goldman Launch Looms, Says Analyst](https://finance.yahoo.com/markets/crypto/articles/blackrocks-bitcoin-income-etf-gets-153625977.html)**
+**[Strategy CEO on selling bitcoin: Wanted to inoculate the market and test processes](https://www.cnbc.com/video/2026/06/10/strategy-ceo-on-selling-bitcoin-wanted-to-inoculate-the-market-and-test-processes.html)**
 
-BlackRock's planned ETF will charge 65 basis points, undercutting the two largest Bitcoin covered-call ETFs, which charge 95 and 99 bps.
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's recent bitcoin transactions, the reversal in its bitcoin positioning and much more.
 
-Yahoo Finance • 44m ago
-
----
-
-**[Gold, silver and bitcoin fall as traders up Fed rate hike bets](https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html)**
-
-Precious metals were firmly in negative territory, as fears about inflation and the Federal Reserve's interest rate path weighed on investor sentiment.
-
-CNBC • 4h ago
+CNBC • 36m ago
 
 ---
 
-**[Bitcoin Selloff Leaves Half of All Supply Trading at a Loss](https://www.bloomberg.com/news/articles/2026-06-10/bitcoin-selloff-leaves-half-of-all-supply-trading-at-a-loss)**
+**[BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market](https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market)**
 
-Bloomberg.com • 5h ago
+BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players.
+
+CoinDesk • 48m ago
+
+---
+
+**[Live bitcoin updates: What's next for bitcoin as it faces headwinds from SpaceX, Fed rates, and Mythos](https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos)**
+
+Anthropic's IPO pipeline, not its new model, is what crypto traders should track.
+
+CoinDesk • 28m ago
 
 ---
 
@@ -205,11 +205,15 @@ CNN • 1d ago
 
 ---
 
-**[Live bitcoin updates: What's next for bitcoin as it faces headwinds from SpaceX, Fed rates, and Mythos](https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos)**
+**[Bitcoin Selloff Leaves Half of All Supply Trading at a Loss](https://www.bloomberg.com/news/articles/2026-06-10/bitcoin-selloff-leaves-half-of-all-supply-trading-at-a-loss)**
 
-Anthropic's IPO pipeline, not its new model, is what crypto traders should track.
+Bloomberg • 8h ago
 
-CoinDesk • 2h ago
+---
+
+**[Strategy's Math Just Got A Lot Scarier As Bitcoin Price Slides](https://www.investors.com/news/bitcoin-price-strategy-math-just-got-scary/)**
+
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -217,15 +221,15 @@ CoinDesk • 2h ago
 
 Gold and ‘digital gold’ both feel like yesterday’s Fomo trades
 
-Financial Times • 10h ago
+Financial Times • 13h ago
 
 ---
 
-**[Goodbye Bitcoin ATMs? Delaware lawmakers push for total ban on cryptocurrency kiosks across the state](https://www.wboc.com/news/goodbye-bitcoin-atms-delaware-lawmakers-push-for-total-ban-on-cryptocurrency-kiosks-across-the-state/article_752e4f2c-fb78-4d0e-a527-b7bf814e9106.html)**
+**[Fold discloses $45 million bitcoin sale, pays off collateralized debt in full; shares surge 160%](https://www.theblock.co/post/404272/fold-discloses-45-million-bitcoin-sale-pays-off-collateralized-debt-in-full-shares-surge-160)**
 
-More than $26 million dollars was lost to scams involving cryptocurrency ATMs in Delaware last year, according to some lawmakers.
+Fold Holdings shares surged over 70% as the bitcoin fintech firm paid off its collaterized debt in full through a $45 million bitcoin sale.
 
-WBOC TV • 12h ago
+The Block • 4h ago
 
 ---
 
@@ -319,7 +323,7 @@ Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are al
 
 📺 Mark Moss
 
-👁️ 67K • 👍 4K • 💬 593 • ⏱️ 20:43 • 21h ago
+👁️ 73K • 👍 4K • 💬 607 • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -329,7 +333,7 @@ Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to disc
 
 📺 CNBC Television
 
-👁️ 13K • 👍 215 • 💬 102 • ⏱️ 6:00 • 3h ago
+👁️ 21K • 👍 284 • 💬 112 • ⏱️ 6:00 • 6h ago
 
 ---
 
@@ -339,17 +343,7 @@ Dante takes a look at the latest Bitcoin pullback and the growing excitement aro
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 419 • ⏱️ 17:26 • 19h ago
-
----
-
-**[Bitcoin Warning Signs Tonight](https://www.youtube.com/watch?v=Ww5V8wmPFz0)**
-
-AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 848 • 💬 200 • ⏱️ 9:24 • 15h ago
+👁️ 29K • 👍 2K • 💬 445 • ⏱️ 17:26 • 22h ago
 
 ---
 
@@ -359,7 +353,7 @@ This chart shows the percentage of existing coins whose price was lower than the
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 6K • 💬 302 • ⏱️ 8:04 • 11h ago
+👁️ 85K • 👍 6K • 💬 327 • ⏱️ 8:04 • 14h ago
 
 ---
 
@@ -379,17 +373,17 @@ Bitcoin just crashed toward $59K, fear is surging, and the market is asking the 
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 322 • ⏱️ 17:44 • 1d ago
+👁️ 29K • 👍 2K • 💬 331 • ⏱️ 17:44 • 1d ago
 
 ---
 
-**[Bitcoin just erased every dollar it gained since the election.](https://www.youtube.com/watch?v=D1nO0Lj95yY)**
+**[Bitcoin Warning Signs Tonight](https://www.youtube.com/watch?v=Ww5V8wmPFz0)**
 
-Bitcoin just erased every dollar it gained since the election. Worst week since FTX, and it started when the biggest holder sold.
+AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Upside Invest
+📺 CryptosRUs
 
-👁️ 13K • 👍 827 • 💬 81 • ⏱️ 1:38 • 2d ago
+👁️ 16K • 👍 851 • 💬 201 • ⏱️ 9:24 • 18h ago
 
 ---
 
@@ -399,17 +393,27 @@ Did you know that more than half of the Bitcoin supply is currently underwater? 
 
 📺 blockchainbloom [English channel]
 
-👁️ 1K • 👍 6 • 💬 30 • ⏱️ 0:46 • 10h ago
+👁️ 1K • 👍 6 • 💬 30 • ⏱️ 0:46 • 13h ago
 
 ---
 
-**[&quot;Bitcoin at $62k! Something Much Bigger Is Happening...&quot; - Jack Mallers](https://www.youtube.com/watch?v=bEDYu_BVyf0)**
+**[Bitcoin Holds While Markets Crack](https://www.youtube.com/watch?v=7e-2xU4lutc)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Your AI Platform for Crypto Intel, Charts, Market News, and More ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Savvy Finance
+📺 CryptosRUs
 
-👁️ 2K • 👍 93 • 💬 55 • ⏱️ 19:43 • 21h ago
+👁️ 13K • 👍 703 • 💬 273 • ⏱️ 11:21 • 1d ago
+
+---
+
+**[Big Things Are Happening in Crypto! (Clarity Act + Fed = BIG NEWS!)](https://www.youtube.com/watch?v=8VLuxdcy2AY)**
+
+Big Things Are Happening in Crypto in June 2026! (Clarity Act + Fed = BIG NEWS!) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 137 • ⏱️ 14:04 • 21h ago
 
 ---
 
