@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-10T12:21:47.850892+00:00'
+updated: '2026-06-10T16:21:21.600730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 12:21 UTC  
+**Last Updated:** June 10, 2026 at 16:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,164.91
+### $62,305.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -4.4%  
-**30d:** -24.1%  
-**90d:** -13.9%  
-**1y:** -43.8%  
+**24h:** +1.0%  
+**7d:** -2.5%  
+**30d:** -22.6%  
+**90d:** -12.2%  
+**1y:** -42.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1224.39B
+**Market Cap:** $1248.44B
 Rank #1
 
 **Circulating Supply:** 20,039,087 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--51.6%
+-50.6%
 
 **All-Time Low:** $67.81
-+89960.5%
++91756.7%
 
 ---
 
@@ -77,31 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Choose carefully](https://www.reddit.com/r/Bitcoin/comments/1u1d113/choose_carefully/)**
+**[Today I found 1 BTC I thought was gone forever](https://www.reddit.com/r/Bitcoin/comments/1u1zfs0/today_i_found_1_btc_i_thought_was_gone_forever/)**
 
-18h ago
+Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the seed phrase. I searched everywhere. Old notebooks, USB sticks, cloud storage, emails... nothing. After a while I accepted it was gone forever. At some point I even stopped thinking about it. Fast forward to today. Recently I found the hard drive from an old laptop I hadn't touched since 2019. Out of pure curiosity I decided to boot it up and see if it still worked. While browsing around, I opened Chrome and started looking through my old history. Then I randomly checked the Recycle Bin. Inside the Recycle Bin was a .txt file. My heart skipped a beat. I opened it. It was the seed phrase. Well... sort of. Before everyone calls me a moron (which would be fair), yes, I actually stored my recovery phrase in a text document instead of proper cold storage. I know. Stupid. But there was a method to my madness. I knew that if someone found the words but didn't know the correct order, they wouldn't be able to access the wallet. A 12-word recovery phrase has 12! possible arrangements, which is 479,001,600 different combinations. So I stored the words in a text file, but scrambled them in a way that only I knew how to put them back together. Apparently, years later, even I forgot where I had put them. I just sat there staring at the screen because my brain refused to process what I was seeing. Out of all places, the thing I had been looking for was sitting in the Recycle Bin of a forgotten laptop for almost seven years. The craziest part? If I had found it back in 2019, I would've probably sold the BTC almost immediately. Instead, I accidentally diamond-handed it by completely losing access to it. So I put the phrase back together exactly the way I remembered it. At that point I was shaking. I loaded it into a wallet, half expecting it not to work after all these years. Then... boom. There it was. My Bitcoin was just sitting there, untouched since 2019. I stared at the balance for what felt like forever because I genuinely couldn't believe it was real. After spending years thinking it was gone forever, I was suddenly looking at the wallet again as if nothing had happened. I didn't sleep at all today (this happened at 3am in the morning). My mind kept replaying the whole thing over and over. The odds of randomly finding an old hard drive, deciding to boot it up, checking the Recycle Bin, finding a forgotten text file, and having it contain the exact information needed to recover a Bitcoin I thought was lost forever felt absolutely insane. Today is officially the second happiest day of my life. The first was when my son was born on December 24th, 2025. The second is today, when I reunited with the 1 BTC that I genuinely believed was gone forever. Sometimes being disorganized pays off. Since the day I lost access to that Bitcoin, I spent countless nights scrolling through Reddit reading stories about people who had recovered wallets they thought were gone forever. Deep down, I was hoping that one day I'd get lucky too. But as the years passed, that hope slowly disappeared. I never thought I'd be the one posting a recovery story. Yet here I am.
 
----
-
-**[Strategy sells 32 BTC, the market collapses. Same company buys 1,000 BTC and the market doesn't move. Can someone explain it to me like Im 5yr old?](https://www.reddit.com/r/Bitcoin/comments/1u1htco/strategy_sells_32_btc_the_market_collapses_same/)**
-
-I'm having a bit of a difficult time reconciling that - Is it panic selling? does the market need time to digest? is it that the IPO's are consuming all this capital?
-
-15h ago
-
----
-
-**[How it feels right now... keep DCAing](https://www.reddit.com/r/Bitcoin/comments/1u1lxod/how_it_feels_right_now_keep_dcaing/)**
-
-12h ago
-
----
-
-**[Joined the million club!](https://www.reddit.com/r/Bitcoin/comments/1u1gelh/joined_the_million_club/)**
-
-As the title says, thanks to the dip this last week and some smash buys as a result, I finally joined the million club! Aka, 21 bitcoin. Feeling pretty stoked. Throwaway account for obvious reasons. For those of you doubting btc due to recent price movement, take it from someone who has been in this since 2013. It's all the same shit we've seen numerous times over. The FUD, the doomposts, the naysayers. People saying this time is different, it will go to zero, etc. I've seen almost all of it, and every time it comes back stronger. My only regret with Bitcoin has always been not buying enough. THIS is the time to buy. So keep stacking. Be consistent, and one day it will pay off.
-
-16h ago
+4h ago
 
 ---
 
@@ -109,45 +89,65 @@ As the title says, thanks to the dip this last week and some smash buys as a res
 
 I have held and expanded my Bitcoin position since 2018 and here is what I have learned: No matter how much knowledge you have and how confident you are in Bitcoin, those bear runs absolutely suck and there will always be a feeling of uneasiness of buy during this period. When the bull run eventually comes back you always end up with this feeling that I should have bought more. I could have had more gains. When buying during a bear market don't wait for a price to get lower. Just catch the falling knife otherwise you may find yourself missing out. And if it does go lower after you buy, DCA because the prices that you see during the bear runs will never be seen again. 4.Also remember building wealth is not everything. Don't forget to enjoy yourself and give time to the people who love and care for you because you never know when it can all end either. This is a journey so enjoy every step of it and continue to better your lives. Good luck to y'all Also while I understand the utility behind Bitcoin most people who invested in it are invested in to make money, that is just the harsh reality despite the purchasing power of fiat decreasing over time.
 
-21m ago
+4h ago
 
 ---
 
-**[Help me understand why you would want currency to be decentralized](https://www.reddit.com/r/Bitcoin/comments/1u1oevl/help_me_understand_why_you_would_want_currency_to/)**
+**[Just buy it](https://www.reddit.com/r/Bitcoin/comments/1u23o2x/just_buy_it/)**
 
-I am just now starting to learn about bitcoin. It seems to me that two of the most common arguments for its usefulness are (1) that it "takes the government out of our currency" and "takes banks out of our currency, and (2) that it is a "hedge against inflation." I... have some questions. I'm coming at this from an American perspective, so I understand that may factor into your answers. But I also think a lot of you are Americans, and I want to understand why you personally see bitcoin as advantageous to you. Question #1: Why is decentralization a good thing? What are the specific advantages you see from removing intermediaries? It seems to me that governments and banks provide important protections. Some examples: Your banks savings are insured by the FDIC and NCUA. But if you yeet your bitcoin off to an incorrect address, it's gone forever and just sits there on the blockchain for eternity. If a scam artist gets my grandma to give them her credit card or bank information, she can call the credit card company or the bank and they will reverse the fraudulent transactions. But if a hacker tricks my grandma into sending them bitcoin, or worse, giving them her seed phrase, then there is no one she can call. So: If we are giving up these protections, what are the advantages, and how do the advantages outweigh the cost? If crypto is the future of finance, how will we protect all the grandmas and other technologically slow people out there? Question #2: How is bitcoin a hedge against inflation? Bitcoin is wildly volatile. Since I started learning about bitcoin a month ago, it went from $80,000 to under $60,000 and currently sits around $62,000. Doesn't that mean that the value of your bitcoin has deflated by roughly 25% in a month? And as for the idea that your fiat currency will continue to lose value, there are many investments that provide a return that outpace inflation. The average inflation rate for USD from 2021 to 2025 was 4.7%. The average stock market return was around 14%. So by investing in the stock market, the purchasing power of your fiat would have grown greater than the inflation rate. There are also simpler investments like CDs and the money market with rates of return roughly similar to the inflation rate, so they are often an effective way to preserve purchasing power. So: If inflation is your concern, why is bitcoin a better hedge compared to other investments? Help me understand.
+Why do people go through the same shit every circle? It goes up. New ATH. Everybody goes nuts. It goes down. Everybody screams Bitcoin is dead. Its literally the same shit. All the time. Just buy it. Hold it. Or sell it at the current ATH. Dont make it Science. Its not. Its Ape shit. And ill buy. A lot of it. Cause im an ape and ape buy when bitcoin is low.
 
-10h ago
-
----
-
-**[btc went below the "fire sale"](https://www.reddit.com/r/Bitcoin/comments/1u1hrpu/btc_went_below_the_fire_sale/)**
-
-https://preview.redd.it/ckast777nb6h1.png?width=1331&format=png&auto=webp&s=252463789ba3eb19323f675b785887c61a7c80f1 i guess its time to buy more...
-
-15h ago
+1h ago
 
 ---
 
-**[It's only 2026](https://www.reddit.com/r/Bitcoin/comments/1u1mcbo/its_only_2026/)**
+**[Choose carefully](https://www.reddit.com/r/Bitcoin/comments/1u1d113/choose_carefully/)**
 
-12h ago
+22h ago
 
 ---
 
-**[Daily Discussion, June 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1u1tpsh/daily_discussion_june_10_2026/)**
+**[Strategy sells 32 BTC, the market collapses. Same company buys 1,000 BTC and the market doesn't move. Can someone explain it to me like Im 5yr old?](https://www.reddit.com/r/Bitcoin/comments/1u1htco/strategy_sells_32_btc_the_market_collapses_same/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+I'm having a bit of a difficult time reconciling that - Is it panic selling? does the market need time to digest? is it that the IPO's are consuming all this capital?
+
+19h ago
+
+---
+
+**[Last week I showed AI agents paying Lightning invoices. This week they can also fund themselves with sats.](https://www.reddit.com/r/Bitcoin/comments/1u21jzp/last_week_i_showed_ai_agents_paying_lightning/)**
+
+Quick update on something I posted here last week (the one that got some traction -- thank you). That post was about a bridge I built that lets AI agents pay for services using Bitcoin Lightning, even when the service only accepts USDC on Base. Agent gets a task, calls the service, pays in sats, receives the result. No wallets, no API keys, no custody. A few people asked the obvious followup: can it go the other way? Can a Bitcoin wallet fund an AI agent's service budget? Now it can. You generate a Lightning invoice from your agent proxy account. Pay it from any Lightning wallet. Within 30 seconds, the sats convert to a USDC-equivalent credit on your account and your agent starts calling services. The channel is live on mainnet. 200k sat capacity. Routing through CoinGate. Also added since last week: A free demo at api.ideafactorylab.org where you can try it with no account: just type "Bitcoin price" or "weather in Tokyo" and watch an AI agent pay a specialized service in real time npx cinderwright "Bitcoin price" if you prefer the terminal 2,835 services indexed across x402, L402, and Stripe protocols The index, the proxy, the CLI, and both bridge directions are all free to use. You pay when your agent calls a service, and only then. If you want to test the Lightning deposit: POST /proxy/setup with a Base wallet address to get an account with $0.10 free credit, no deposit needed. Or fund it with sats directly. Happy to answer questions about how the routing works.
+
+3h ago
+
+---
+
+**[How it feels right now... keep DCAing](https://www.reddit.com/r/Bitcoin/comments/1u1lxod/how_it_feels_right_now_keep_dcaing/)**
+
+16h ago
+
+---
+
+**[What convinced you Bitcoin was worth taking seriously](https://www.reddit.com/r/Bitcoin/comments/1u24eaj/what_convinced_you_bitcoin_was_worth_taking/)**
+
+Everyone seems to have a different story about when Bitcoin stopped being confusing and actually became something they understood and believed in. For some people it was reading the whitepaper. For others it was living through a specific economic event, watching inflation eat away at savings, or just one conversation that reframed everything. I've been thinking about this because I was talking to a friend recently who is still on the fence. They get the basics but haven't had that moment where it all connects. It got me wondering what actually moves people from skeptical or curious to genuinely convinced. Was it a technical deep dive into how the blockchain works and why that matters? Was it a personal financial situation that made you realize the value of a currency nobody can print more of? Was it watching what happened in countries with collapsing local currencies? I'm not asking anyone to pitch Bitcoin or write a sales letter. I'm genuinely curious about the human side of this. What was the turning point for you personally, and do you think that same experience would work for someone else, or is it different for everyone? Would love to hear honest answers from people at different stages of their Bitcoin journey.
+
+1h ago
+
+---
+
+**[60k in cash, what should I do?](https://www.reddit.com/r/Bitcoin/comments/1u1xs2y/60k_in_cash_what_should_i_do/)**
+
+Now that btc is at around 60k I don’t know if I should buy my first BTC with it or should DCA over the next 6 months. What would you do?
 
 6h ago
 
 ---
 
-**[Bitcoin core team](https://www.reddit.com/r/Bitcoin/comments/1u1ue8f/bitcoin_core_team/)**
+**[It's only 2026](https://www.reddit.com/r/Bitcoin/comments/1u1mcbo/its_only_2026/)**
 
-Is the bitcoin core team centralised ? Who votes them in or out ? Do they have a centralised point of control. I was concerned when patch 30 came out and nobody wanted the upgrades they we’re implementing, I know they had there reasons for the upgrade, but the concerning part was the they forced it when I thought these things had to be agreed to in majority. (I also appreciate you don’t have to use version 30 but allot of people will just use it by default l) Can the team be over run if they go rogue ? Any informational videos would be appreciated, specifically on how the core team works, but I’m really not interested in the (op_return data) information as I’ve listened to allot.
-
-5h ago
+16h ago
 
 ---
 
@@ -155,31 +155,45 @@ Is the bitcoin core team centralised ? Who votes them in or out ? Do they have a
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's brutal sell-off sparks a flurry of trading in related stocks, including one big bullish bet](https://www.cnbc.com/2026/06/09/bitcoins-brutal-sell-off-sparks-a-flurry-of-trading-in-related-stocks-including-one-big-bullish-bet.html)**
+**[Bitcoin’s Worst Week Since FTX Crash Signals More Pain Ahead](https://finance.yahoo.com/markets/crypto/articles/bitcoin-worst-week-since-ftx-102331607.html)**
 
-The year has been a rocky one for the flagship cryptocurrency, but traders aren't backing away from the space.
+(Bloomberg) -- Bitcoin’s slide below $60,000 last Friday capped its worst week since the collapse of Sam Bankman-Fried’s FTX exchange in 2022.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’US Launches Strikes Against Iran After Helicopter Shot DownStocks Pare Tech-Led Drop as Rotation Gains Speed: Markets WrapUS Strikes Iran After Helicopter Downed, Testing Peace TalksSurface Naval Drone Rescued Downed US Apache Crew, Pentagon SaysThe forces currently at pla
 
-CNBC • 1d ago
+Yahoo Finance • 15h ago
+
+---
+
+**[Strategy's Math Just Got A Lot Scarier As Bitcoin Price Slides](https://www.investors.com/news/bitcoin-price-strategy-math-just-got-scary/)**
+
+Investor's Business Daily • 3h ago
+
+---
+
+**[After Bitcoin's price halved from its peak, analysts say this correction may be one of the 'healthiest bear markets,' with key indicators signaling a market bottom.](https://news.futunn.com/en/post/74411800/after-bitcoin-s-price-halved-from-its-peak-analysts-say)**
+
+富途牛牛 • 27m ago
+
+---
+
+**[BlackRock's Bitcoin Income ETF Gets 65Bps Fee, Undercutting Rivals As Goldman Launch Looms, Says Analyst](https://finance.yahoo.com/markets/crypto/articles/blackrocks-bitcoin-income-etf-gets-153625977.html)**
+
+BlackRock's planned ETF will charge 65 basis points, undercutting the two largest Bitcoin covered-call ETFs, which charge 95 and 99 bps.
+
+Yahoo Finance • 44m ago
+
+---
+
+**[Gold, silver and bitcoin fall as traders up Fed rate hike bets](https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html)**
+
+Precious metals were firmly in negative territory, as fears about inflation and the Federal Reserve's interest rate path weighed on investor sentiment.
+
+CNBC • 4h ago
 
 ---
 
 **[Bitcoin Selloff Leaves Half of All Supply Trading at a Loss](https://www.bloomberg.com/news/articles/2026-06-10/bitcoin-selloff-leaves-half-of-all-supply-trading-at-a-loss)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[The U.S. CPI scenario that could send the BTC price tumbling below $60,000: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/10/the-inflation-scenario-that-could-send-bitcoin-tumbling-below-usd60-000)**
-
-Your day-ahead look for June 10, 2026
-
-CoinDesk • 59m ago
-
----
-
-**[Elliott Wave: Can the S&P 500 Fall Further and Will Bitcoin Hold $50,000 Support?](https://www.investing.com/analysis/elliott-wave-can-the-sp-500-fall-further-and-will-bitcoin-hold-50000-support-200681878)**
-
-Investing.com • 1h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -191,43 +205,27 @@ CNN • 1d ago
 
 ---
 
+**[Live bitcoin updates: What's next for bitcoin as it faces headwinds from SpaceX, Fed rates, and Mythos](https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos)**
+
+Anthropic's IPO pipeline, not its new model, is what crypto traders should track.
+
+CoinDesk • 2h ago
+
+---
+
 **[Gold and bitcoin: the assets the rally forgot](https://www.ft.com/content/830cacfc-cda7-4da8-acde-49f6079bc524?syn-25a6b1a6=1)**
 
 Gold and ‘digital gold’ both feel like yesterday’s Fomo trades
 
-Financial Times • 6h ago
+Financial Times • 10h ago
 
 ---
 
-**[Billionaire Michael Saylor’s Strategy Buys Bitcoin Dip With $100 Million Purchase](https://www.forbes.com/sites/tylerroush/2026/06/08/billionaire-saylors-strategy-buys-bitcoin-worth-101-million-after-earlier-sale-sparked-sell-off/)**
+**[Goodbye Bitcoin ATMs? Delaware lawmakers push for total ban on cryptocurrency kiosks across the state](https://www.wboc.com/news/goodbye-bitcoin-atms-delaware-lawmakers-push-for-total-ban-on-cryptocurrency-kiosks-across-the-state/article_752e4f2c-fb78-4d0e-a527-b7bf814e9106.html)**
 
-Bitcoin’s price recently dropped under $60,000 for the first time since 2024.
+More than $26 million dollars was lost to scams involving cryptocurrency ATMs in Delaware last year, according to some lawmakers.
 
-Forbes • 1d ago
-
----
-
-**[Is the AI trade, Strategy, or macro factors to blame for bitcoin woes?](https://sherwood.news/crypto/is-the-ai-trade-strategy-or-macro-factors-to-blame-for-bitcoin-woes/)**
-
-Michael Saylor says don’t blame Strategy after Jim Cramer said he “murdered bitcoin.”...
-
-Sherwood News • 20h ago
-
----
-
-**[New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA](https://bitcoinmagazine.com/news/bitcoin-season-charts-bitcoins-in-the-nba)**
-
-A new upcoming documentary, Bitcoin Season, explores how Bitcoin is gaining traction in professional basketball.
-
-Bitcoin Magazine • 19h ago
-
----
-
-**[Longtime Bitcoin Advocate Says ‘MicroStrategy Is a $1,000 Stock Within a Few Years’](https://247wallst.com/investing/2026/06/09/longtime-bitcoin-advocate-says-microstrategy-is-a-1000-stock-within-a-few-years/)**
-
-Lawrence Lepard, a longtime bitcoin investor and advocate, laid out one of the most aggressive bull cases for Strategy (NASDAQ:MSTR | MSTR Price Prediction) on a recent appearance on Thoughtful Money with Adam Taggart. Lepard says he is buying shares both for his fund and personally, and his target price is striking: “I think it’s ... Longtime Bitcoin Advocate Says ‘MicroStrategy Is a $1,000 Stock Within a Few Years’
-
-24/7 Wall St. • 20h ago
+WBOC TV • 12h ago
 
 ---
 
@@ -237,7 +235,7 @@ Lawrence Lepard, a longtime bitcoin investor and advocate, laid out one of the m
 
 **[Bitcoin Has Longest Losing Streak Since August in Bruising Week](https://news.ycombinator.com/item?id=48398073)**
 
-⬆️ 60 • 💬 101 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
+⬆️ 60 • 💬 101 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
 
 ---
 
@@ -283,7 +281,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
 
-⬆️ 4 • 💬 1 • 1d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
+⬆️ 4 • 💬 1 • 2d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
 
 ---
 
@@ -321,7 +319,17 @@ Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are al
 
 📺 Mark Moss
 
-👁️ 59K • 👍 3K • 💬 547 • ⏱️ 20:43 • 17h ago
+👁️ 67K • 👍 4K • 💬 593 • ⏱️ 20:43 • 21h ago
+
+---
+
+**[This is one of the best bear markets for bitcoin, says Anthony Pompliano](https://www.youtube.com/watch?v=h49tQmFjI_o)**
+
+Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to discuss the state of crypto, what's driving the ...
+
+📺 CNBC Television
+
+👁️ 13K • 👍 215 • 💬 102 • ⏱️ 6:00 • 3h ago
 
 ---
 
@@ -331,7 +339,7 @@ Dante takes a look at the latest Bitcoin pullback and the growing excitement aro
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 402 • ⏱️ 17:26 • 15h ago
+👁️ 28K • 👍 2K • 💬 419 • ⏱️ 17:26 • 19h ago
 
 ---
 
@@ -341,7 +349,7 @@ AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 822 • 💬 192 • ⏱️ 9:24 • 11h ago
+👁️ 16K • 👍 848 • 💬 200 • ⏱️ 9:24 • 15h ago
 
 ---
 
@@ -351,7 +359,7 @@ This chart shows the percentage of existing coins whose price was lower than the
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 5K • 💬 208 • ⏱️ 8:04 • 7h ago
+👁️ 74K • 👍 6K • 💬 302 • ⏱️ 8:04 • 11h ago
 
 ---
 
@@ -361,7 +369,7 @@ Anthony Pompliano breaks down why bitcoin is down 50% from its highs and whether
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 1K • 💬 31 • ⏱️ 13:32 • 1d ago
+👁️ 29K • 👍 1K • 💬 31 • ⏱️ 13:32 • 1d ago
 
 ---
 
@@ -371,47 +379,37 @@ Bitcoin just crashed toward $59K, fear is surging, and the market is asking the 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 322 • ⏱️ 17:44 • 1d ago
+👁️ 29K • 👍 2K • 💬 322 • ⏱️ 17:44 • 1d ago
 
 ---
 
-**[Big Things Are Happening in Crypto! (Clarity Act + Fed = BIG NEWS!)](https://www.youtube.com/watch?v=8VLuxdcy2AY)**
+**[Bitcoin just erased every dollar it gained since the election.](https://www.youtube.com/watch?v=D1nO0Lj95yY)**
 
-Big Things Are Happening in Crypto in June 2026! (Clarity Act + Fed = BIG NEWS!) ⭐ Follow Altcoin Daily on X: ...
+Bitcoin just erased every dollar it gained since the election. Worst week since FTX, and it started when the biggest holder sold.
 
-📺 Altcoin Daily
+📺 Upside Invest
 
-👁️ 35K • 👍 2K • 💬 123 • ⏱️ 14:04 • 14h ago
-
----
-
-**[🔴 BITCOIN LIVE TRADING: WILL THE CRASH CONTINUE?](https://www.youtube.com/watch?v=TXuosJmKnRk)**
-
-DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu -25% OFF TRADING FEES AND ...
-
-📺 Mathieu - C₿M
-
-👁️ 10K • 👍 741 • 💬 11 • ⏱️ 6:33:01 • 18h ago
+👁️ 13K • 👍 827 • 💬 81 • ⏱️ 1:38 • 2d ago
 
 ---
 
-**[This Bitcoin Relief Rally Will Destroy Investors!](https://www.youtube.com/watch?v=LUgKKvJdcZo)**
+**[🚨 HALF OF ALL BITCOIN HOLDERS ARE NOW UNDERWATER 😱📉](https://www.youtube.com/watch?v=_ChdXVk4TjM)**
 
-The market is bouncing, but Ran believes investors should be extremely cautious. What looks like strength on the surface may ...
+Did you know that more than half of the Bitcoin supply is currently underwater? That means over 50% of Bitcoin holders bought ...
 
-📺 Crypto Banter
+📺 blockchainbloom [English channel]
 
-👁️ 30K • 👍 1K • 💬 37 • ⏱️ 31:01 • 1d ago
+👁️ 1K • 👍 6 • 💬 30 • ⏱️ 0:46 • 10h ago
 
 ---
 
-**[Bitcoin&#39;s Bottom Setup...Pay Attention](https://www.youtube.com/watch?v=KU5dbL2kUzw)**
+**[&quot;Bitcoin at $62k! Something Much Bigger Is Happening...&quot; - Jack Mallers](https://www.youtube.com/watch?v=bEDYu_BVyf0)**
 
-AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 CryptosRUs
+📺 Savvy Finance
 
-👁️ 16K • 👍 864 • 💬 265 • ⏱️ 35:38 • 22h ago
+👁️ 2K • 👍 93 • 💬 55 • ⏱️ 19:43 • 21h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-10T12:21:47.861002+00:00'
+updated: '2026-06-10T16:21:21.609907+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 10, 2026 at 12:21 UTC  
+**Last Updated:** June 10, 2026 at 16:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,35 @@ Robotics research and industry news
 
 **[Inverse Differential 2Dof Wrist](https://www.reddit.com/r/robotics/comments/1u1uxtw/inverse_differential_2dof_wrist/)**
 
-5h ago
+9h ago
+
+---
+
+**[The only room that keeps going all day](https://www.reddit.com/r/robotics/comments/1u24g0e/the_only_room_that_keeps_going_all_day/)**
+
+Hey everyone, Daniel here, we’re building Vastnaut One, a 4x4 exoskeleton designed for people moving through demanding terrain with load where fatigue tends to build gradually across hips and knees, especially on descents. What you’re looking at here is part of our joint aging tests, repeating the same movement cycles than any normal hike would require. At some point, it stops looking like testing and starts looking a bit obsessive. Our system works across both hips and knees in real time step by step based on movement, terrain, and load. The goal isn’t to change how you move, but to redistribute effort over time so the later miles feel closer to the first. Curious how others here think about for a wearable like this, and what do you usually trust as a good enough cycle count.
+
+1h ago
+
+---
+
+**[Speed test for my robotic hand](https://www.reddit.com/r/robotics/comments/1u21h9m/speed_test_for_my_robotic_hand/)**
+
+Just a quick demo to see how fast my hand is! I started with a baseline 5 second, finger-to-thumb opposition cycle and increased the speed until the fingers started to lose contact. The pinky starts to lose contact with the thumb at around 12x and the rest of the fingers barely make contact at 14x and beyond. Having the fingers be tendon driven does help a good bit in reducing inertia to get these max achievable speeds. Although, I'm not sure there's even a good reason to be moving this fast..
+
+3h ago
+
+---
+
+**[Testing a camera robot that can film a person across different terrain](https://www.reddit.com/r/robotics/comments/1u218i4/testing_a_camera_robot_that_can_film_a_person/)**
+
+3h ago
+
+---
+
+**[P008G vs D405](https://www.reddit.com/r/robotics/comments/1u23hcq/p008g_vs_d405/)**
+
+2h ago
 
 ---
 
@@ -42,43 +70,13 @@ Robotics research and industry news
 
 Honestly, I don't know how other people can do IMU balancing so elegantly; my PID oscillates like it's on life support. I have been tuning the PID the whole night, but then again, I don't have a lot of experience other than following some manuals, so any advice would be great! I am using BNO055 for IMU. Work in progress GitHub: https://github.com/SphericalCowww/CubicDoggo_06R Original Cubic Doggo: https://github.com/SphericalCowww/CubicDoggo
 
-14h ago
+18h ago
 
 ---
 
 **[Testing the stability of my new walking gait (x0.25)](https://www.reddit.com/r/robotics/comments/1u1cydy/testing_the_stability_of_my_new_walking_gait_x025/)**
 
-18h ago
-
----
-
-**[Made a robot arm with a depth camera grab a fork and place it inside a cup](https://www.reddit.com/r/robotics/comments/1u1ukh3/made_a_robot_arm_with_a_depth_camera_grab_a_fork/)**
-
-5h ago
-
----
-
-**[What's the most technically impressive machine you've seen up close?](https://www.reddit.com/r/robotics/comments/1u1hfcv/whats_the_most_technically_impressive_machine/)**
-
-Just a machine that made you stop and think: "wow...somebody put a ridiculous amount of engineering into this". Could be anything.sometimes the most impressive machines are the ones that make incredibly difficult things look effortless.
-
-15h ago
-
----
-
-**[Made a quick tutorial on getting a drone flying in our UE5 sim](https://www.reddit.com/r/robotics/comments/1u1zk9z/made_a_quick_tutorial_on_getting_a_drone_flying/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=gUSc84v3f44) • 48m ago
-
----
-
-**[Genesis launch video, watched by millions, inspired me to look into what's actually available for simulation asset generation. Compared 4 tools.](https://www.reddit.com/r/robotics/comments/1u179q4/genesis_launch_video_watched_by_millions_inspired/)**
-
-The Genesis sim video got me thinking: what does it actually take to build scenes like that (apart from gaussian splat part) with such accuracy, at scale? Asset and scene generation is one of the biggest bottlenecks in robot training. NVIDIA GR00T, Helix, HumanPlus, and ASAP all show the same pattern: more diverse scenarios lead to better sim-to-real transfer. But generating physically accurate objects and scenes takes time. Four platforms are working on this in 2026. Here's how they compare: 1. Rigyd: Agentic pipeline, best for on-demand scale and new types of objects Takes raw 3D (.glb, .fbx, .obj), images, or text and outputs calibrated OpenUSD + MJCF in ~2 minutes per asset with SimReady asset validator baked in. Generates full interactable scenes with per-object decomposition. Native Isaac Sim and MuJoCo support. Non-rigid and articulated objects are stated in the roadmap. The pipeline is agentic end-to-end, so no per-asset manual work. Good fit for teams that need to move fast with on-demand assets. 2. Lightwheel: High fidelity articulated objects, SimReady catalog Strong catalog of high-fidelity articulated assets and a SimReady library used by large enterprise customers. Per-asset visual and physical quality is high. USD and MJCF support via open-source converters. Good fit if you need a curated, validated catalog. Less flexible for new use cases or object categories outside their existing library. Catalog growth follows a curation model rather than an agentic pipeline. 3. NVIDIA Edify: Generative 3D, physics added separately Generates high-quality 3D meshes from text or image in under 2 minutes. Trained on licensed data, enterprise-safe. Tight Omniverse integration. The gap: it produces visual geometry, not SimReady assets. Physics, collision geometry, and USDPhysics schemas need to be added downstream before the asset is usable for robot training. Works well as an upstream step paired with a SimReady pipeline. 4. Moonlake: World modeling agent approach Acts directly inside Blender, automating the creation of articulated assets, physics-validated scenes, and complex environments rather than per-asset annotation. The approach is promising for research but production-grade Isaac Sim / MuJoCo integration is not there yet. If successful, world models could collapse scene generation and policy training into a single learning loop. What I think actually matters for sim-to-real transfer (ranked by impact): Per-object physics accuracy within the domain-randomization band Scene diversity (variation of scenes the policy sees during training) Visual fidelity (matters most for camera-only policies, less for contact-rich manipulation) How to choose: Need to scale across many object categories fast → Rigyd Need a validated catalog of articulated assets for known use cases → Lightwheel Need high-quality visual 3D in the NVIDIA ecosystem and will add physics downstream → Edify Researching end-to-end learned simulation → Moonlake For most teams the practical pattern is Rigyd for the long tail + hand-authored or Lightwheel assets for the few hero objects your scenario depends on. Both output standard OpenUSD/MJCF so they compose cleanly. Questions for the community: What's missing from this comparison? For those running training: where does asset prep actually bottleneck you? Image Credit: Genesis AI
-
-21h ago
+22h ago
 
 ---
 
@@ -86,21 +84,21 @@ The Genesis sim video got me thinking: what does it actually take to build scene
 
 I have been planning this for a while now. It's basically a youtube live stream where we learn robotics concepts together, ask each other doubts, discuss, make weird robots, some shinaneigens and most importantly just have fun. You can choose to not show your face, or vtube like me. Right now I have started learning the physics behind robotics using a book called Modern robotics by Kevin lynch and Frank Park. You can either learn it with me(I have only seen a couple of pages, I can teach you in like 20 min to get you to where I am) or if you want you can choose to just do your own thing simultaneously as well. Any suggestions or feedback to get as many people as we can is appreciated 👍 I really want to make the robotics community to become friendly and fun . Just dm me . we'll plan exactly how to undertake this (let's say a discord call in the stream or chat based etc.)
 
-6h ago
+10h ago
 
 ---
 
-**[Find an amazing 3D Depth Camera](https://www.reddit.com/r/robotics/comments/1u15bou/find_an_amazing_3d_depth_camera/)**
+**[The small one is getting bullied](https://www.reddit.com/r/robotics/comments/1u211nz/the_small_one_is_getting_bullied/)**
 
-22h ago
+3h ago
 
 ---
 
-**[Built a URDF playground with 3D visualization, validation, and conversion tools](https://www.reddit.com/r/robotics/comments/1u185ie/built_a_urdf_playground_with_3d_visualization/)**
+**[What's the tightest memory constraint you've had to work with?](https://www.reddit.com/r/robotics/comments/1u26na8/whats_the_tightest_memory_constraint_youve_had_to/)**
 
-Hi everyone, I've been working on a browser-based URDF playground aimed at making robot development a bit easier. Steps: i) Paste URDF or Xacro directly into the browser ii) Instant 3D visualization iii) Shareable robot links iv) No ROS installation required Playground: https://roboinfra-dashboard.azurewebsites.net/playground Additional tooling: URDF/Xacro validation Auto-fix suggestions URDF → SDF conversion URDF → MJCF conversion URDF → USD conversion MoveIt configuration generation Mesh analysis GitHub Action integration Python SDK The goal is to make robotics workflows feel a little more like modern web development—open a browser, paste your robot description, and start iterating immediately. I'd really appreciate feedback from ROS, MoveIt, Isaac Sim, MuJoCo, and general robotics developers: What feature would make this genuinely useful in your workflow? What is currently missing from existing URDF tools? Any issues or suggestions after trying it? Thanks!
+Here you can see how Bill Gates thought about memory: In this Software Notes newsletter from 1975, he explains the strategies and tricks he employs to squeeze things to the utmost. Back then, "memory budgeting" wasn't just a best practice, it was a survival skill. What are your approaches today? You can see more how Gates approaches systems design, handwritten diagrams, and BASIC source code here : https://www.programmersatwork.net/bill-gates
 
-20h ago
+10m ago
 
 ---
 
@@ -124,11 +122,47 @@ blog.google • 1d ago
 
 ---
 
+**[Tether Backs German Robotics Startup Neura in $1.4 Billion Round](https://www.bloomberg.com/news/articles/2026-06-10/tether-backs-german-robotics-startup-neura-in-1-4-billion-round)**
+
+Bloomberg.com • 27m ago
+
+---
+
+**[Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others](https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html)**
+
+Investors have rushed to back companies in the physical AI space
+
+CNBC • 24m ago
+
+---
+
+**[Founders on the frontiers of space and robotics show off their gadgets and tell the stories behind them](https://www.geekwire.com/2026/founders-space-robotics-show-tell-gadgets/)**
+
+Carbon Robotics, Overland AI, Starcloud and Starfish Space get their share of the spotlight at a session featuring AI chips and satellites.
+
+GeekWire • 17h ago
+
+---
+
 **[China builds 85% of the world’s humanoids robots for cheap at scale, but finding buyers is tricky](https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/)**
 
 While there's a viable commercial path forward in industry and logistics, experts say demand for humanoids lags building capacity.
 
-Fortune • 22h ago
+Fortune • 1d ago
+
+---
+
+**[Nebius And NVIDIA Lab Links AI Cloud Growth To Robotics Demand](https://finance.yahoo.com/sectors/technology/articles/nebius-nvidia-lab-links-ai-031512196.html)**
+
+Nebius Group (NasdaqGS:NBIS) has launched the Physical AI Living Lab with NVIDIA, described as a first of its kind program for robotics startups in the UK and Europe. The program offers access to advanced physical AI simulation tools, synthetic data, and Nebius's full stack AI cloud infrastructure. The announcement extends beyond previous coverage that focused on Nebius's UK capacity expansion and financial results. Nebius Group, listed as NasdaqGS:NBIS, is broadening its role in AI...
+
+Yahoo Finance • 13h ago
+
+---
+
+**[From dance to factory floor: China moves to fast track humanoids into industry](https://www.scmp.com/economy/china-economy/article/3356629/china-fast-tracks-humanoid-robots-and-embodied-ai-industry-under-nationwide-programme)**
+
+South China Morning Post • 6h ago
 
 ---
 
@@ -146,47 +180,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Jensen Huang's vision for South Korea's Robotics & Physical AI sectors](https://www.cnbc.com/video/2026/06/08/jensen-huangs-vision-for-sk-nvidia-eyes-robotics-physical-ai.html)**
-
-Ethan Cho, Partner at TheVentures, talks about Jensen Huang's strategic vision in the robotics and physical AI spaces on the back of his trip to South Korea, as well as how the Korean market could benefit.
-
-CNBC • 2d ago
-
----
-
-**[YY Group turns cleaning shifts into AI data for humanoid robots](https://www.stocktitan.net/news/YYGH/yy-group-nasdaq-yygh-launches-commercial-humanoid-robotics-wo4lg7gqzbr5.html)**
-
-Cleaning staff in data-capture gear feed Unitree G1 humanoid robots, as YY Group targets IFM labor shortages and new SaaS and automation revenue streams.
-
-Stock Titan • 16h ago
-
----
-
-**[HUD pilots robotics-built housing and automated permitting](https://www.housingwire.com/articles/hud-robotics-built-housing-permitting/)**
-
-HUD opened applications for $13M in demos, $10M for robotics and AI home construction and $3M for automated permitting, due July 13.
-
-HousingWire • 1d ago
-
----
-
-**[Robots could soon be delivering your pizza](https://www.economist.com/business/2026/06/07/robots-could-soon-be-delivering-your-pizza)**
-
-The Economist • 3d ago
-
----
-
-**[We Were Promised Sex Robots by 2026. Where Are They?](https://www.businessinsider.com/we-were-promised-sex-robots-2026-6)**
-
-A decade ago, experts predicted a sex-robot boom. Instead, AI companions took off while sex robots struggled to improve.
-
-Business Insider • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[War Robots - Shoggoth Transformed Into One Of The Craziest Brawlers Of 2026! WR Shoggoth Gameplay](https://www.youtube.com/watch?v=yDVQTF53aWQ)**
+
+War Robots - Shoggoth transformed into one of the craziest brawlers of 2026. In this video, I run Ultimate Redeemer and Ultimate ...
+
+📺 Adrian Chong
+
+👁️ 947 • 👍 117 • 💬 29 • ⏱️ 15:00 • 3h ago
+
+---
 
 **[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
 
@@ -194,7 +200,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 12K • 👍 336 • 💬 30 • ⏱️ 6:09 • 13h ago
+👁️ 22K • 👍 466 • 💬 63 • ⏱️ 6:09 • 17h ago
 
 ---
 
@@ -204,17 +210,7 @@ Physical AI is NVIDIA's next big bet, and robotics stocks are set to explode. We
 
 📺 The Motley Fool
 
-👁️ 13K • 👍 416 • 💬 32 • ⏱️ 10:29 • 1d ago
-
----
-
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
-
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
-
-📺 New York Post
-
-👁️ 299K • 👍 6K • 💬 4K • ⏱️ 2:17 • 3d ago
+👁️ 14K • 👍 430 • 💬 32 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -224,7 +220,35 @@ War Robots Update Vlog: New Rebalance Simulator in WR Here's the original Animat
 
 📺 Manni-Gaming
 
-👁️ 15K • 👍 1K • 💬 253 • ⏱️ 17:02 • 1d ago
+👁️ 15K • 👍 1K • 💬 251 • ⏱️ 17:02 • 1d ago
+
+---
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 304K • 👍 6K • 💬 4K • ⏱️ 2:17 • 4d ago
+
+---
+
+**[China&#39;s Bionic Humanoid Robots #shorts](https://www.youtube.com/watch?v=sr4pTSFGEGM)**
+
+Chinese company UBTECH Robotics has unveiled teaser videos of its U1 series humanoid robots, designed for the mass market.
+
+📺 NeuroVerse
+
+👁️ 5K • 👍 175 • 💬 10 • ⏱️ 0:27 • 4h ago
+
+---
+
+**[He treats the GI robot like family...#shorts #edit #viral #Gi #robot](https://www.youtube.com/watch?v=Oi9GJql9W2s)**
+
+📺 Vorythix Mode
+
+👁️ 1.2M • 👍 58K • 💬 1K • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -238,43 +262,13 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 ---
 
-**[This Self-Cleaning, Solar Powered Pool Robot is Genius - Wybot S3](https://www.youtube.com/watch?v=_fxY-BYyl3A)**
-
-This is one of the coolest and most advanced pool robot cleaners we've ever tested. Check out the Wybot S3 robotic pool cleaner ...
-
-📺 Kim Java
-
-👁️ 15K • 👍 435 • 💬 20 • ⏱️ 15:27 • 1d ago
-
----
-
-**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
-
-Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
-
-📺 Talent Replay
-
-👁️ 23K • 👍 292 • 💬 32 • ⏱️ 5:50 • 13h ago
-
----
-
 **[Chinese robots show America they have ‘got talent’](https://www.youtube.com/watch?v=odxjRpKkvs0)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more: https://sc.mp/406956 Chinese ...
 
 📺 South China Morning Post
 
-👁️ 66K • 👍 2K • 💬 116 • ⏱️ 1:26 • 5d ago
-
----
-
-**[¿El primer &quot;Gundam&quot; real? El impresionante robot gigante que presentaron en China.](https://www.youtube.com/watch?v=ITlxNHb0UT8)**
-
-Un video tecnológico de la firma Unitree Robotics captó el momento exacto en que su nuevo modelo demostró una sorprendente ...
-
-📺 adn Noticias
-
-👁️ 23K • 👍 492 • 💬 18 • ⏱️ 0:33 • 2d ago
+👁️ 66K • 👍 2K • 💬 117 • ⏱️ 1:26 • 6d ago
 
 ---
 
@@ -284,7 +278,7 @@ Auto Tool Changer That Never Stops — MATC! Adding a gripper meant adding anoth
 
 📺 코라스로보틱스 | Korasrobotics
 
-👁️ 236K • 👍 2K • 💬 1 • ⏱️ 1:22 • 6d ago
+👁️ 244K • 👍 2K • 💬 1 • ⏱️ 1:22 • 6d ago
 
 ---
 
