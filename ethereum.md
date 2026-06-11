@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-11T11:54:48.967920+00:00'
+updated: '2026-06-11T16:03:07.687104+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 11, 2026 at 11:54 UTC  
+**Last Updated:** June 11, 2026 at 16:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,672.89
+### $1,642.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +5.5%  
-**30d:** -26.1%  
-**90d:** -20.4%  
-**1y:** -36.9%  
+**24h:** +0.7%  
+**7d:** +3.9%  
+**30d:** -27.2%  
+**90d:** -21.6%  
+**1y:** -37.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $200.58B
+**Market Cap:** $198.25B
 Rank #2
 
 **Circulating Supply:** 120,684,325 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-66.8%
 
 **All-Time Low:** $0.43
-+384978.7%
++379692.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+11h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Like you know that feeling of knowing what something is and reading alot about it and knowing its significance but struggling to explain it simply to someone i feel like ethereum is exactly that. How do you explain ethereum to a child, as they say if you cant explain it to a child you dont understand it, how do you explain the greatness and future of ethereum to someone.
 
-12h ago
-
----
-
-**[Mascot needed for Glamsterdam upgrade 🐜🦫🐝🦩🐹🐙🐻‍❄️🐩 Vote for your favorite](https://www.reddit.com/r/ethereum/comments/1u2j8c5/mascot_needed_for_glamsterdam_upgrade_vote_for/)**
-
-A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 11h ago
+17h ago
 
 ---
 
@@ -96,7 +88,21 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
 
-3h ago
+7h ago
+
+---
+
+**[What Crypto prediction lives rent free in your head?](https://www.reddit.com/r/ethereum/comments/1u30opm/what_crypto_prediction_lives_rent_free_in_your/)**
+
+1h ago
+
+---
+
+**[Mascot needed for Glamsterdam upgrade 🐜🦫🐝🦩🐹🐙🐻‍❄️🐩 Vote for your favorite](https://www.reddit.com/r/ethereum/comments/1u2j8c5/mascot_needed_for_glamsterdam_upgrade_vote_for/)**
+
+A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
+
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 16h ago
 
 ---
 
@@ -112,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I still can't understand how ETH wants to become private when we can see all the transactions on etherscan. What is a new Privacy Upgrade? Is it going to be on L1?
 
-8h ago
+12h ago
 
 ---
 
@@ -140,14 +146,6 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 ---
 
-**[Daily General Discussion June 08, 2026](https://www.reddit.com/r/ethereum/comments/1tzyakv/daily_general_discussion_june_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
-The Block • 20h ago
+The Block • 1d ago
 
 ---
 
@@ -164,15 +162,27 @@ The Block • 20h ago
 
 A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
 
-CoinDesk • 19h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, June 10, 2026: BTC, ETH open lower and falling further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-june-10-2026-btc-eth-open-lower-and-falling-further-114713805.html)**
+**[Ethereum Whales Mask a 2022 Bear Market Warning](https://finance.yahoo.com/markets/crypto/articles/ethereum-whales-mask-2022-bear-143913083.html)**
 
-These are today's bitcoin and ethereum prices, Wednesday, June 10, 2026. Bitcoin opened at $61,672.20 on Wednesday, down 2.3% from Tuesday's opening price. Ethereum opened at $1,638.45 on Wednesday, 3.1% lower than Tuesday's opening price.
+Ethereum price bounced off support, but whale patterns and hodler selling mask a warning that echoes the 2022 bear market.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Crypto 100](https://fortune.com/ranking/crypto/2026/ethereum/)**
+
+In 2013, a precocious teenager named Vitalik Buterin saw the rise of Bitcoin and decided to expand on the cryptocurrency's vision of decentralization. While Bitcoin was a decentralized ledger for sending and receiving currency, Buterin thought of Ethereum as a decentralized computer to run software. 
+
+One year later, Buterin and a team of cofounders raised $18 million for Ethereum in an initial coin offering, or ICO, setting off a wave of ICOs for new cryptocurrencies. (None would fare as well as Ethereum.) Ethereum's token is currently the second-largest worldwide, behind only Bitcoin.
+
+More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
+
+Fortune • 3h ago
 
 ---
 
@@ -184,27 +194,33 @@ Circle Internet Financial • 2d ago
 
 ---
 
+**[Ethereum Bulls Need $1,680 Breakout to Turn Stability Into Recovery](https://www.investing.com/analysis/ethereum-bulls-need-1680-breakout-to-turn-stability-into-recovery-200681994)**
+
+Investing.com • 35m ago
+
+---
+
 **[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high)**
 
 Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
 
-Decrypt • 21h ago
+Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 9, 2026](https://fortune.com/article/price-of-ethereum-06-09-2026/)**
+**[Japan Approves Crypto Bill: Bitcoin, Ethereum, and XRP Set for 20% Tax Rate](https://www.tradingview.com/news/coinpedia:43fcb8b4b094b:0-japan-approves-crypto-bill-bitcoin-ethereum-and-xrp-set-for-20-tax-rate/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Japan Lower House has approved a bill that would officially classify cryptocurrencies such as Bitcoin and Ethereum as financial products, placing them under the same legal framework as stocks and traditional securities.If approved by the Upper House, the changes could slash crypto taxes 55% to a fl…
 
-Fortune • 1d ago
+TradingView • 4h ago
 
 ---
 
-**[$1,500: Why Ethereum just crashed 20% despite spot markets barely selling](https://www.fxstreet.com/cryptocurrencies/news/1-500-why-ethereum-just-crashed-20-despite-spot-markets-barely-selling-202606101700)**
+**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
-Ethereum (ETH) recently suffered one of its sharpest declines of 2026, dropping more than 20% and briefly testing the $1,500 area. While the sell-off appeared to reflect broader market fears, derivatives and on-chain data suggest a more complex story may be unfolding beneath the surface.
+Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
 
-FXStreet • 18h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -212,21 +228,7 @@ FXStreet • 18h ago
 
 If you're eager to buy this coin on the cheap, this summer could be a great time to do it.
 
-The Motley Fool • 10h ago
-
----
-
-**[Michael Saylor: Ethereum Confidence Collapses](https://blockchain.news/flashnews/michael-saylor-ethereum-confidence-collapses)**
-
-blockchain.news • 12h ago
-
----
-
-**[Tom Lee's 'BitMine bought the bloodbath': BMNR reports $213M worth of Ethereum purchase](https://seekingalpha.com/news/4601401-tom-lees-bitmine-bought-the-bloodbath-bmnr-reports-213m-worth-of-ethereum-purchase)**
-
-Bitmine (BMNR) bought $213M in Ethereum, now holding 5.54M ETH (4.59% supply).
-
-Seeking Alpha • 2d ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -234,13 +236,23 @@ Seeking Alpha • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[💀 The Ethereum Death Slide - ETH Crypto Analysis](https://www.youtube.com/watch?v=OlwILA0wDM0)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 969 • 👍 71 • 💬 18 • ⏱️ 16:46 • 3h ago
+
+---
+
 **[ETHEREUM: THE BOTTOM IS NOT IN](https://www.youtube.com/watch?v=JwZkAWk8_bI)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 273 • 💬 226 • ⏱️ 12:37 • 12h ago
+👁️ 5K • 👍 293 • 💬 338 • ⏱️ 12:37 • 16h ago
 
 ---
 
@@ -250,7 +262,45 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 658 • 💬 286 • ⏱️ 11:58 • 19h ago
+👁️ 10K • 👍 686 • 💬 332 • ⏱️ 11:58 • 23h ago
+
+---
+
+**[Buy Ethereum Now Or Wait For $1.3K Dip? #crypto #ethereum](https://www.youtube.com/watch?v=jMgxbWh75vw)**
+
+Ethereum could still drop to its 2025 crash low around $1.3K and a lot of people are waiting for exactly that But here's the question ...
+
+📺 Crypto Archie
+
+👁️ 104 • 👍 4 • 💬 65 • ⏱️ 0:40 • 32m ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=enzEVHGYroU)**
+
+BITCOIN & CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum & Altcoins *SpaceX ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 225 • 💬 207 • ⏱️ 18:56 • 3h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=8b-scDLqAwk)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 297 • 👍 44 • ⏱️ 5:41 • 2h ago
+
+---
+
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
+
+📺 CryptoWendyO
+
+👁️ 11K • 👍 715 • 💬 37 • ⏱️ 2:28 • 1d ago
 
 ---
 
@@ -260,27 +310,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 283 • 💬 86 • ⏱️ 15:00 • 1d ago
-
----
-
-**[Billionaires Are Convinced The Crypto BULL RUN Is On This Date](https://www.youtube.com/watch?v=46NH3wtKzx4)**
-
-Check out FortisX Liquidity Pools Sign up here ▻ https://fortisx.fi/kol/firehustle Join My FREE Mailing List Get my full portfolio, ...
-
-📺 FireHustle
-
-👁️ 2K • 👍 122 • 💬 195 • ⏱️ 10:13 • 16h ago
-
----
-
-**[BITCOIN PUMP &amp; DUMP EXPLAINED (Final Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Xv7ExyY_cZk)**
-
-BITCOIN PUMP & DUMP EXPLAINED (Final Warning)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 315 • 💬 491 • ⏱️ 22:06 • 23h ago
+👁️ 6K • 👍 285 • 💬 86 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -290,17 +320,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 572 • 💬 129 • ⏱️ 11:31 • 7h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=5pI8gd0s9oA)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 112 • ⏱️ 6:28 • 9h ago
+👁️ 3K • 👍 594 • 💬 115 • ⏱️ 11:31 • 11h ago
 
 ---
 
@@ -310,27 +330,7 @@ ETH & BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH Farm ETH ON MaxFi: https://
 
 📺 Big Time Trades
 
-👁️ 736 • 👍 45 • 💬 8 • ⏱️ 14:20 • 1d ago
-
----
-
-**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
-
-What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
-
-📺 Binance
-
-👁️ 9K • 👍 320 • 💬 18 • ⏱️ 5:46 • 2d ago
-
----
-
-**[ETH Ethereum Price Prediction: 10th of JUNE](https://www.youtube.com/watch?v=hR5DEkyYYJ8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 174 • 👍 19 • 💬 42 • ⏱️ 10:23 • 21h ago
+👁️ 738 • 👍 45 • 💬 8 • ⏱️ 14:20 • 1d ago
 
 ---
 

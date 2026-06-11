@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-11T11:54:48.961849+00:00'
+updated: '2026-06-11T16:03:07.681800+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 11, 2026 at 11:54 UTC  
+**Last Updated:** June 11, 2026 at 16:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,118.83
+### $62,810.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +3.4%  
-**30d:** -20.3%  
-**90d:** -11.3%  
-**1y:** -40.2%  
+**24h:** +1.3%  
+**7d:** +2.7%  
+**30d:** -20.9%  
+**90d:** -11.8%  
+**1y:** -40.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1263.91B
+**Market Cap:** $1255.42B
 Rank #1
 
-**Circulating Supply:** 20,041,215 BTC
+**Circulating Supply:** 20,041,409 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.9%
+-50.3%
 
 **All-Time Low:** $67.81
-+92980.7%
++92393.7%
 
 ---
 
@@ -76,6 +76,14 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[Osaka Exchange to List Bitcoin Futures in 2028, Chairman Tells Nikkei](https://www.reddit.com/r/Bitcoin/comments/1u2u1bx/osaka_exchange_to_list_bitcoin_futures_in_2028/)**
+
+Interesting to see Japan lining up futures alongside potential ETF approval. Feels like a coordinated push toward giving institutions a full toolkit. Curious how people see this, does this actually drive adoption, or just more derivatives activity?
+
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 6h ago
+
+---
 
 **[Today I found 1 BTC I thought was gone forever](https://www.reddit.com/r/Bitcoin/comments/1u1zfs0/today_i_found_1_btc_i_thought_was_gone_forever/)**
 
@@ -89,15 +97,23 @@ Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the see
 
 BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.
 
-🔗 [The Block](https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf) • 5h ago
+🔗 [The Block](https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf) • 9h ago
 
 ---
 
-**[Osaka Exchange to List Bitcoin Futures in 2028, Chairman Tells Nikkei](https://www.reddit.com/r/Bitcoin/comments/1u2u1bx/osaka_exchange_to_list_bitcoin_futures_in_2028/)**
+**[Bitcoin is a long game and people don't get it](https://www.reddit.com/r/Bitcoin/comments/1u2uqo2/bitcoin_is_a_long_game_and_people_dont_get_it/)**
 
-Interesting to see Japan lining up futures alongside potential ETF approval. Feels like a coordinated push toward giving institutions a full toolkit. Curious how people see this, does this actually drive adoption, or just more derivatives activity?
+I used to think Bitcoin was easy money at first when i first got into investing which was like 4ish years ago. After making my first ACTUAL big profit off Bitcoin in 2025, I realized that Bitcoin is a long game and people don't understand that. I didn't even understand that when I first put money in but after months of having my money on a low (I made the mistake of buying when Bitcoin was on a high) I finally cracked the way to fix my portfolio and hope for some growth. Now it's just a matter of closing my app and waiting for it to grow again and not stress over it.
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 2h ago
+6h ago
+
+---
+
+**[I built my own Bitcoin Lightning node from scratch on a VPS — no Umbrel, no Start9, real config files inside](https://www.reddit.com/r/Bitcoin/comments/1u2zdm4/i_built_my_own_bitcoin_lightning_node_from/)**
+
+After running a Raspberry Pi node at home that died without warning, I moved everything to a bare metal VPS on Contabo. No prepackaged solutions — just Ubuntu 24, Docker, Bitcoin Core 28.1, LND 0.20.1, and a stack I assembled one by one. The article covers the full setup including real bitcoin.conf and lnd.conf, SSH hardening, UFW + Fail2ban, channel strategy mistakes (don't open to big nodes — learned the hard way), ZeroTier private network for monitoring without exposing any public ports, automatic channel.backup redundancy, BOS via Telegram, and LiT for auto fee management. 7 channels live, node visible on Amboss if you want to verify it's not theoretical. Full guide (paid): https://davidebtc186.substack.com/p/how-i-built-my-own-bitcoin-lightning Happy to answer questions here. ⚡ [donate@shadowbip.com](mailto:donate@shadowbip.com) | 🛠 github.com/shadowbipnode
+
+2h ago
 
 ---
 
@@ -105,15 +121,15 @@ Interesting to see Japan lining up futures alongside potential ETF approval. Fee
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+9h ago
 
 ---
 
-**[When you short bitcoin at 120k](https://www.reddit.com/r/Bitcoin/comments/1u2vlkx/when_you_short_bitcoin_at_120k/)**
+**[What Bitcoin question took you the longest to answer?](https://www.reddit.com/r/Bitcoin/comments/1u2yy8b/what_bitcoin_question_took_you_the_longest_to/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+For me, some Bitcoin questions were easy. Others took months or years before I felt like I really understood them. Things like: Why does Bitcoin have value? ETF or self-custody? How much Bitcoin is enough? Is volatility the same thing as risk? What makes Bitcoin different from every other crypto? What Bitcoin question took you the longest to answer?
 
-🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 1h ago
+2h ago
 
 ---
 
@@ -121,31 +137,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Just did this transfer... ​ TRANSFER AMOUNT USD 13,706.11 1.00 USD 13,706.11 SWIFT Handling Commission USD 15.00 IB Outward Transfer Commission USD 82.24 Overseas correspondent charges-USD USD 15.00 ​ The banks and SWIFT have had a monopoly for way to long. They basically rob a chunk of everyone's money. ​ Need BTC to have easy on and off ramps so could do this quicker and cheaper.
 
-3h ago
+7h ago
 
 ---
 
-**[I am starting to realize that Bitcoin is a lesson of conviction](https://www.reddit.com/r/Bitcoin/comments/1u2053t/i_am_starting_to_realize_that_bitcoin_is_a_lesson/)**
+**[When you short bitcoin at 120k](https://www.reddit.com/r/Bitcoin/comments/1u2vlkx/when_you_short_bitcoin_at_120k/)**
 
-I have held and expanded my Bitcoin position since 2018 and here is what I have learned: No matter how much knowledge you have and how confident you are in Bitcoin, those bear runs absolutely suck and there will always be a feeling of uneasiness of buy during this period. When the bull run eventually comes back you always end up with this feeling that I should have bought more. I could have had more gains. When buying during a bear market don't wait for a price to get lower. Just catch the falling knife otherwise you may find yourself missing out. And if it does go lower after you buy, DCA because the prices that you see during the bear runs will never be seen again. 4.Also remember building wealth is not everything. Don't forget to enjoy yourself and give time to the people who love and care for you because you never know when it can all end either. This is a journey so enjoy every step of it and continue to better your lives. Good luck to y'all Also while I understand the utility behind Bitcoin most people who invested in it are invested in to make money, that is just the harsh reality despite the purchasing power of fiat decreasing over time.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-23h ago
-
----
-
-**[Just bought my first!!](https://www.reddit.com/r/Bitcoin/comments/1u294q5/just_bought_my_first/)**
-
-So after researching a lot and checking through this community I have bought my first Bitcoin which is 0.0008 Bitcoin since I am just a teen living with my parents so there is the option to use leverage in the account should I be using it and take a slight risk so that I could profit a little more
-
-18h ago
-
----
-
-**[Just buy it](https://www.reddit.com/r/Bitcoin/comments/1u23o2x/just_buy_it/)**
-
-Why do people go through the same shit every circle? It goes up. New ATH. Everybody goes nuts. It goes down. Everybody screams Bitcoin is dead. Its literally the same shit. All the time. Just buy it. Hold it. Or sell it at the current ATH. Dont make it Science. Its not. Its Ape shit. And ill buy. A lot of it. Cause im an ape and ape buy when bitcoin is low.
-
-21h ago
+🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 5h ago
 
 ---
 
@@ -153,7 +153,7 @@ Why do people go through the same shit every circle? It goes up. New ATH. Everyb
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-4h ago
+8h ago
 
 ---
 
@@ -161,11 +161,25 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
+**[BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says](https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf)**
+
+BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.
+
+The Block • 10h ago
+
+---
+
 **[Corporate bitcoin buying has collapsed from $500 million per day to almost negligible](https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too)**
 
 Bitcoin is losing institutional demand from two directions: Spot ETFs and digital asset treasuries.
 
-CoinDesk • 6h ago
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin rises above $62k; Iran tensions, ETF outflows in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-62k-iran-tensions-etf-outflows-in-focus-4736515)**
+
+Investing.com • 9h ago
 
 ---
 
@@ -173,21 +187,7 @@ CoinDesk • 6h ago
 
 Bitwise CIO Matt Hougan said financial advisors are now showing more interest in stablecoins and tokenization than bitcoin.
 
-The Block • 15h ago
-
----
-
-**[London BTC backs Bitcoin strategy with Nevada gold push; CEO explains](https://finance.yahoo.com/video/london-btc-backs-bitcoin-strategy-101429654.html)**
-
-London BTC Company Ltd (LSE:BTC, OTCQB:VINZF) CEO Hewie Rattray joined Proactive's Stephen Gunnion to discuss how the company is building a Nevada gold portfolio to complement its core Bitcoin treasury and mining business.
-
-Rattray outlined the rationale behind staking the Huntington-Whitman and Amonett-Frank projects, highlighting their historical production, limited modern exploration and low-cost entry. He stressed that London BTC remains "Bitcoin first", with the aim of monetising successful gold assets and recycling capital into Bitcoin, while hinting at further project activity and newsflow over the summer.
-
-For more interviews and market insights, visit the Proactive YouTube channel. Don't forget to like this video, subscribe to the channel and enable notifications so you never miss future content.
-
-#LondonBTCCompany #Bitcoin #BitcoinMining #BitcoinTreasury #NevadaGold #GoldMining #GoldExploration #GoldProjects #MiningStocks #JuniorMining #DigitalAssets #PreciousMetals #HewieRattray #ResourceInvesting #ProactiveInvestors
-
-Yahoo Finance • 1h ago
+The Block • 20h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 May's inflation numbers lifted major digital assets on Thursday, though ether and the large altcoins are still down 6% to 8% over seven days.
 
-CoinDesk • 29m ago
+CoinDesk • 8m ago
 
 ---
 
@@ -207,27 +207,11 @@ Forbes • 1d ago
 
 ---
 
-**[Elon Musk's SpaceX IPO could become bitcoin's latest headwind](https://www.theblock.co/post/404324/elon-musks-spacex-ipo-could-become-bitcoins-latest-headwind)**
+**[Did SpaceX IPO Really Sink Bitcoin Price or Just Take the Blame?](https://finance.yahoo.com/markets/crypto/articles/did-spacex-ipo-really-sink-150215955.html)**
 
-SpaceX setting aside up to 30% of IPO shares for retail investors could prompt investors to exit crypto assets like Bitcoin and Ethereum.
+Bitcoin's June 2026 selloff was driven by ETF outflows, leverage liquidations, and macroeconomic pressures rather than SpaceX's IPO filing. The theory that investors sold ...
 
-The Block • 16h ago
-
----
-
-**[Is Bitcoin Going to $0? Here's the Honest Answer.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-going-0-heres-honest-112700685.html)**
-
-Bitcoin skeptics love to predict its demise. Here's what would actually have to break.
-
-Yahoo Finance • 27m ago
-
----
-
-**[Gold, silver and bitcoin fall as traders up Fed rate hike bets](https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html)**
-
-Precious metals were firmly in negative territory, as fears about inflation and the Federal Reserve's interest rate path weighed on investor sentiment.
-
-CNBC • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -239,23 +223,29 @@ CNN • 2d ago
 
 ---
 
-**[Current price of Bitcoin for June 10, 2026](https://fortune.com/article/price-of-bitcoin-06-10-2026/)**
+**[Gold, silver and bitcoin fall as traders up Fed rate hike bets](https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Precious metals were firmly in negative territory, as fears about inflation and the Federal Reserve's interest rate path weighed on investor sentiment.
 
-Fortune • 22h ago
+CNBC • 1d ago
+
+---
+
+**[Bitcoin Crypto 100](https://fortune.com/ranking/crypto/2026/bitcoin/)**
+
+Bitcoin is the original cryptocurrency. After emerging from cypherpunk internet forums in the late aughts, the digital asset has grown to become one oof the globe's most valuable commodities by market capitalization, trailing gold and silver. Investors liken the cryptocurrency to digital gold. 
+
+Bitcoin is not controlled by any single entity. Instead, a decentralized network of computers work to verify transactions. These computers are kept honest by a system known as mining, where one participant who correctly verifies the transactions receives some Bitcoin every 10 minutes. 
+
+Remarkably, the identity behind Bitcoin's inventor, Satoshi Nakamoto, remains an unsolved mystery nearly two decades since the cryptocurrency's launch in 2009. Nakamoto's crypto wallet, which has never moved any of its 1.1 million Bitcoin, makes the pseudonymous founder one of the world's richest people.
+
+Fortune • 3h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Bitcoin Has Longest Losing Streak Since August in Bruising Week](https://news.ycombinator.com/item?id=48398073)**
-
-⬆️ 60 • 💬 101 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
-
----
 
 **[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
 
@@ -279,6 +269,14 @@ Bitcoin is getting pummeled to kick off June as the market loses its dominant na
 
 ---
 
+**[25.3% of Bitcoin sits at addresses with an exposed public key](https://news.ycombinator.com/item?id=48490037)**
+
+5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
+
+⬆️ 6 • 💬 2 • 2h ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+
+---
+
 **[Bitcoin is cratering, but there is a new Wall Street crypto HYPE](https://news.ycombinator.com/item?id=48430892)**
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
@@ -299,7 +297,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
 
-⬆️ 4 • 💬 1 • 2d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
+⬆️ 4 • 💬 1 • 3d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
 
 ---
 
@@ -337,17 +335,7 @@ Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to disc
 
 📺 CNBC Television
 
-👁️ 39K • 👍 428 • 💬 270 • ⏱️ 6:00 • 23h ago
-
----
-
-**[I’ve Got a Confession to Make… I Was WRONG About Bitcoin!](https://www.youtube.com/watch?v=8kAU5MVZn34)**
-
-Dante takes a look at the latest Bitcoin pullback and the growing excitement around AI, IPOs, and tech speculation.
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 3K • 💬 543 • ⏱️ 17:26 • 1d ago
+👁️ 42K • 👍 470 • 💬 299 • ⏱️ 6:00 • 1d ago
 
 ---
 
@@ -357,47 +345,17 @@ Bitcoin just suffered a brutal 50% drawdown, but the price action may be signali
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 269 • ⏱️ 17:57 • 13h ago
+👁️ 20K • 👍 2K • 💬 302 • ⏱️ 17:57 • 17h ago
 
 ---
 
-**[Bitcoin Warning Signs Tonight](https://www.youtube.com/watch?v=Ww5V8wmPFz0)**
+**[I’ve Got a Confession to Make… I Was WRONG About Bitcoin!](https://www.youtube.com/watch?v=8kAU5MVZn34)**
 
-AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+Dante takes a look at the latest Bitcoin pullback and the growing excitement around AI, IPOs, and tech speculation.
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 861 • 💬 433 • ⏱️ 9:24 • 1d ago
-
----
-
-**[Will Bitcoin Keep Crashing?!](https://www.youtube.com/watch?v=W2QygPyvl2I)**
-
-Anthony Pompliano breaks down why bitcoin is down 50% from its highs and whether the bear market bottom is in. In this episode ...
-
-📺 Anthony Pompliano
-
-👁️ 31K • 👍 1K • 💬 31 • ⏱️ 13:32 • 2d ago
-
----
-
-**[The Secret Reason Bitcoin Dropped 40% (And What Happens Next)](https://www.youtube.com/watch?v=x0000eoTPRA)**
-
-Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are all making new highs. Most explanations for why this ...
-
-📺 Mark Moss
-
-👁️ 98K • 👍 4K • 💬 661 • ⏱️ 20:43 • 1d ago
-
----
-
-**[Bitcoin: A Beautiful Chart](https://www.youtube.com/watch?v=vxnpP3EOl-8)**
-
-This chart shows the percentage of existing coins whose price was lower than the current price the last time they moved on-chain.
-
-📺 Benjamin Cowen
-
-👁️ 109K • 👍 7K • 💬 352 • ⏱️ 8:04 • 1d ago
+👁️ 35K • 👍 3K • 💬 540 • ⏱️ 17:26 • 1d ago
 
 ---
 
@@ -407,27 +365,67 @@ Let's discuss an on-chain metric; namely, the Bitcoin realized price. Let's disc
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 2K • 💬 97 • ⏱️ 4:14 • 8h ago
+👁️ 39K • 👍 3K • 💬 119 • ⏱️ 4:14 • 12h ago
 
 ---
 
-**[When Bitcoin was worth $200](https://www.youtube.com/watch?v=vBz3EIp_iTA)**
+**[Bitcoin Warning Signs Tonight](https://www.youtube.com/watch?v=Ww5V8wmPFz0)**
 
-While he was exploring a remote Chinese Bitcoin mine in 2014, longtime VICE producer Alex Waterfield was offered to buy ...
+AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 VICE News
+📺 CryptosRUs
 
-👁️ 13K • 👍 341 • 💬 15 • ⏱️ 1:36 • 14h ago
+👁️ 17K • 👍 861 • 💬 423 • ⏱️ 9:24 • 1d ago
 
 ---
 
-**[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
+**[The Secret Reason Bitcoin Dropped 40% (And What Happens Next)](https://www.youtube.com/watch?v=x0000eoTPRA)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are all making new highs. Most explanations for why this ...
 
-📺 Crypto Capital Venture
+📺 Mark Moss
 
-👁️ 10K • 👍 658 • 💬 286 • ⏱️ 11:58 • 19h ago
+👁️ 103K • 👍 5K • 💬 663 • ⏱️ 20:43 • 1d ago
+
+---
+
+**[Bitcoin: A Beautiful Chart](https://www.youtube.com/watch?v=vxnpP3EOl-8)**
+
+This chart shows the percentage of existing coins whose price was lower than the current price the last time they moved on-chain.
+
+📺 Benjamin Cowen
+
+👁️ 113K • 👍 8K • 💬 358 • ⏱️ 8:04 • 1d ago
+
+---
+
+**[Every Bitcoin Investor Should Do This Before It Gets Worse](https://www.youtube.com/watch?v=9kFUeewVpvI)**
+
+CPI inflation data is in and markets are entering a period where crypto is no longer moving in isolation. With economists expecting ...
+
+📺 Crypto Banter
+
+👁️ 17K • 👍 823 • 💬 16 • ⏱️ 30:01 • 1d ago
+
+---
+
+**[🔴 BITCOIN LIVE TRADING: CPI INFLATION (VOLATILITY INCOMING)](https://www.youtube.com/watch?v=7rtYqNv-erM)**
+
+DM me the word “BTC” on Telegram to join my private group: https://t.me/CryptoByMathieu - 25% OFF TRADING FEES AND ...
+
+📺 Mathieu - C₿M
+
+👁️ 9K • 👍 595 • 💬 14 • ⏱️ 5:53:21 • 23h ago
+
+---
+
+**[Bitcoin VS 200 Week Moving Average: Bottom Is Close](https://www.youtube.com/watch?v=vZoed9bnIG8)**
+
+Bitcoin is testing the 200-week moving average once again — the same critical level that has marked major bear market bottoms ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 189 • 💬 128 • ⏱️ 4:32 • 15h ago
 
 ---
 
