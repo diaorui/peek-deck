@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-11T07:14:18.775117+00:00'
+updated: '2026-06-11T11:54:48.967920+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 11, 2026 at 07:14 UTC  
+**Last Updated:** June 11, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,621.15
+### $1,672.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +4.4%  
-**30d:** -26.8%  
-**90d:** -21.2%  
-**1y:** -37.5%  
+**24h:** +2.0%  
+**7d:** +5.5%  
+**30d:** -26.1%  
+**90d:** -20.4%  
+**1y:** -36.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.35B
+**Market Cap:** $200.58B
 Rank #2
 
 **Circulating Supply:** 120,684,325 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.6%
+-66.3%
 
 **All-Time Low:** $0.43
-+381555.9%
++384978.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Like you know that feeling of knowing what something is and reading alot about it and knowing its significance but struggling to explain it simply to someone i feel like ethereum is exactly that. How do you explain ethereum to a child, as they say if you cant explain it to a child you dont understand it, how do you explain the greatness and future of ethereum to someone.
 
-8h ago
+12h ago
 
 ---
 
@@ -88,7 +88,15 @@ Like you know that feeling of knowing what something is and reading alot about i
 
 A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 7h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 11h ago
+
+---
+
+**[Vattelum: an open-source decentralized legal system on Ethereum.](https://www.reddit.com/r/ethereum/comments/1u2t91y/vattelum_an_opensource_decentralized_legal_system/)**
+
+I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
+
+3h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I still can't understand how ETH wants to become private when we can see all the transactions on etherscan. What is a new Privacy Upgrade? Is it going to be on L1?
 
-4h ago
+8h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[How to extract yield from defi via the "flywheel effect"](https://www.reddit.com/r/ethereum/comments/1u0i9bg/how_to_extract_yield_from_defi_via_the_flywheel/)**
-
-Create a reward token that doubles in supply yearly. Promise a 51% yield to provide trading liquidity for the token, which is expected to lose 50% of its value in a year. Secretly send the other 49% to a stablecoin farming pool or something. Profit.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Create a reward token that doubles in supply yearly. Promise a 51% yield to prov
 
 Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
-The Block • 15h ago
+The Block • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 15h ago
 
 A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
 
-CoinDesk • 15h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 15h ago
 
 These are today's bitcoin and ethereum prices, Wednesday, June 10, 2026. Bitcoin opened at $61,672.20 on Wednesday, down 2.3% from Tuesday's opening price. Ethereum opened at $1,638.45 on Wednesday, 3.1% lower than Tuesday's opening price.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -184,6 +184,14 @@ Circle Internet Financial • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high)**
+
+Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
+
+Decrypt • 21h ago
+
+---
+
 **[Current price of Ethereum for June 9, 2026](https://fortune.com/article/price-of-ethereum-06-09-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -192,11 +200,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high)**
+**[$1,500: Why Ethereum just crashed 20% despite spot markets barely selling](https://www.fxstreet.com/cryptocurrencies/news/1-500-why-ethereum-just-crashed-20-despite-spot-markets-barely-selling-202606101700)**
 
-Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
+Ethereum (ETH) recently suffered one of its sharpest declines of 2026, dropping more than 20% and briefly testing the $1,500 area. While the sell-off appeared to reflect broader market fears, derivatives and on-chain data suggest a more complex story may be unfolding beneath the surface.
 
-Decrypt • 16h ago
+FXStreet • 18h ago
 
 ---
 
@@ -204,23 +212,13 @@ Decrypt • 16h ago
 
 If you're eager to buy this coin on the cheap, this summer could be a great time to do it.
 
-The Motley Fool • 5h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[$1,500: Why Ethereum just crashed 20% despite spot markets barely selling](https://www.fxstreet.com/cryptocurrencies/news/1-500-why-ethereum-just-crashed-20-despite-spot-markets-barely-selling-202606101700)**
+**[Michael Saylor: Ethereum Confidence Collapses](https://blockchain.news/flashnews/michael-saylor-ethereum-confidence-collapses)**
 
-Ethereum (ETH) recently suffered one of its sharpest declines of 2026, dropping more than 20% and briefly testing the $1,500 area. While the sell-off appeared to reflect broader market fears, derivatives and on-chain data suggest a more complex story may be unfolding beneath the surface.
-
-FXStreet • 14h ago
-
----
-
-**[BitMine buys the dip, makes largest ethereum purchase this year](https://sherwood.news/crypto/bitmine-buys-the-dip-makes-largest-ethereum-purchase-this-year/)**
-
-The largest ethereum treasury firm acquired 126,971 tokens last week....
-
-Sherwood News • 2d ago
+blockchain.news • 12h ago
 
 ---
 
@@ -242,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 3K • 👍 238 • 💬 184 • ⏱️ 12:37 • 7h ago
+👁️ 4K • 👍 273 • 💬 226 • ⏱️ 12:37 • 12h ago
 
 ---
 
@@ -252,7 +250,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 619 • 💬 284 • ⏱️ 11:58 • 14h ago
+👁️ 10K • 👍 658 • 💬 286 • ⏱️ 11:58 • 19h ago
 
 ---
 
@@ -262,35 +260,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 280 • 💬 86 • ⏱️ 15:00 • 1d ago
+👁️ 6K • 👍 283 • 💬 86 • ⏱️ 15:00 • 1d ago
 
 ---
 
-**[Tom Lee LOST $9 BILLION But He&#39;s Doubling Down On This Crypto... Here&#39;s Why](https://www.youtube.com/watch?v=46NH3wtKzx4)**
+**[Billionaires Are Convinced The Crypto BULL RUN Is On This Date](https://www.youtube.com/watch?v=46NH3wtKzx4)**
 
 Check out FortisX Liquidity Pools Sign up here ▻ https://fortisx.fi/kol/firehustle Join My FREE Mailing List Get my full portfolio, ...
 
 📺 FireHustle
 
-👁️ 1K • 👍 108 • 💬 148 • ⏱️ 10:13 • 12h ago
-
----
-
-**[Bitcoin &amp; Ethereum, brechen wir heute aus? ich bin bereit! Richtung 65k zu laufen!](https://www.youtube.com/watch?v=5nCRHsuQ8Ag)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 463 • 💬 132 • ⏱️ 11:31 • 3h ago
-
----
-
-**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
-
-📺 CryptoWendyO
-
-👁️ 11K • 👍 679 • 💬 33 • ⏱️ 2:28 • 1d ago
+👁️ 2K • 👍 122 • 💬 195 • ⏱️ 10:13 • 16h ago
 
 ---
 
@@ -300,7 +280,17 @@ BITCOIN PUMP & DUMP EXPLAINED (Final Warning)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 309 • 💬 463 • ⏱️ 22:06 • 19h ago
+👁️ 8K • 👍 315 • 💬 491 • ⏱️ 22:06 • 23h ago
+
+---
+
+**[Bitcoin &amp; Ethereum, brechen wir heute aus? ich bin bereit! Richtung 65k zu laufen!](https://www.youtube.com/watch?v=5nCRHsuQ8Ag)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 572 • 💬 129 • ⏱️ 11:31 • 7h ago
 
 ---
 
@@ -310,7 +300,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 760 • 👍 87 • ⏱️ 6:28 • 5h ago
+👁️ 1K • 👍 112 • ⏱️ 6:28 • 9h ago
+
+---
+
+**[🚨 ETH &amp; BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH 🚨](https://www.youtube.com/watch?v=shgrtG7JKuI)**
+
+ETH & BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi ...
+
+📺 Big Time Trades
+
+👁️ 736 • 👍 45 • 💬 8 • ⏱️ 14:20 • 1d ago
 
 ---
 
@@ -324,13 +324,13 @@ What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready fu
 
 ---
 
-**[🚨 ETH &amp; BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH 🚨](https://www.youtube.com/watch?v=shgrtG7JKuI)**
+**[ETH Ethereum Price Prediction: 10th of JUNE](https://www.youtube.com/watch?v=hR5DEkyYYJ8)**
 
-ETH & BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Big Time Trades
+📺 C-Zar Gets Crypto 
 
-👁️ 726 • 👍 45 • 💬 8 • ⏱️ 14:20 • 1d ago
+👁️ 174 • 👍 19 • 💬 42 • ⏱️ 10:23 • 21h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-11T07:14:18.778256+00:00'
+updated: '2026-06-11T11:54:48.971141+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 11, 2026 at 07:14 UTC  
+**Last Updated:** June 11, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and made a fully open-source mobile robotics platform for my robot arm, making it a whole robotics manipulator platform. The arm has 5 degrees of freedom, and the platform is 4WD with differential steering. The plan is to upgrade to mecanum wheels in the future. Current electronics are an NXP FRDM board controlling everything over WiFi, with an L298N Motor driver for the platform and off-the-shelf servo motors by DFROBOT. The idea was to use components that are easily available and easy to use! The plan is to continue working on it and upgrading it!
 
-9h ago
+14h ago
 
 ---
 
@@ -44,7 +44,13 @@ I designed and made a fully open-source mobile robotics platform for my robot ar
 
 Hey everyone, Daniel here, we’re building Vastnaut One, a 4x4 exoskeleton designed for people moving through demanding terrain with load where fatigue tends to build gradually across hips and knees, especially on descents. What you’re looking at here is part of our joint aging tests, repeating the same movement cycles than any normal hike would require. At some point, it stops looking like testing and starts looking a bit obsessive. Our system works across both hips and knees in real time step by step based on movement, terrain, and load. The goal isn’t to change how you move, but to redistribute effort over time so the later miles feel closer to the first. Curious how others here think about for a wearable like this, and what do you usually trust as a good enough cycle count.
 
-16h ago
+21h ago
+
+---
+
+**[Drones enforcing traffic rules in Shenzen](https://www.reddit.com/r/robotics/comments/1u2se5p/drones_enforcing_traffic_rules_in_shenzen/)**
+
+4h ago
 
 ---
 
@@ -52,7 +58,23 @@ Hey everyone, Daniel here, we’re building Vastnaut One, a 4x4 exoskeleton desi
 
 Just a quick demo to see how fast my hand is! I started with a baseline 5 second, finger-to-thumb opposition cycle and increased the speed until the fingers started to lose contact. The pinky starts to lose contact with the thumb at around 12x and the rest of the fingers barely make contact at 14x and beyond. Having the fingers be tendon driven does help a good bit in reducing inertia to get these max achievable speeds. Although, I'm not sure there's even a good reason to be moving this fast..
 
-18h ago
+22h ago
+
+---
+
+**[Refiner: Robotics library from the ex-Hugging Face pre-training team](https://www.reddit.com/r/robotics/comments/1u2unb5/refiner_robotics_library_from_the_exhugging_face/)**
+
+ex-Huggingface pre-training team just announce a new library create for robotics data refinment! It supports ingestion of all robotics formats (Parquet, HDF5, MCAP, Zarr, RLDS, and LeRobot), as well as the common processing flows like visual hand-tracking, subtask annotations and reward model running
+
+🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 1h ago
+
+---
+
+**[AI Piano Tutor on the Way...](https://www.reddit.com/r/robotics/comments/1u2vgss/ai_piano_tutor_on_the_way/)**
+
+https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=337217b73e76a7c3628cdaf62f5867fb25fb3e0b This robotic piano tutor physically guides your fingers so you can play even if you've never touched a piano before. Instead of just watching videos or apps, this system uses a dual-arm gantry with five-finger robotic hands that: - Precisely control each finger’s position and pressure on the keys - Use compliant (flexible) actuators for natural-feeling guidance instead of stiff pushing - Start with strong support and gradually reduce assistance as you build real muscle memory It turns passive learning into active, embodied practice — helping you feel the correct movements directly. Video: https://www.youtube.com/watch?v=QXn7hCM5yTI
+
+1h ago
 
 ---
 
@@ -62,11 +84,19 @@ Just a quick demo to see how fast my hand is! I started with a baseline 5 second
 
 ---
 
+**[Are the Chicago Automate Conference classes good?](https://www.reddit.com/r/robotics/comments/1u2vvs5/are_the_chicago_automate_conference_classes_good/)**
+
+Hello, I am trying to get back into the Robotics industry after years as an SWE and find a job. I am based in Chicago so I was thinking of getting an all access pass to network for a job, and take some courses. I am currently unemployed. Does anyone know the best way to network at these things? Are the courses worth it? Does anyone have a coupon to reduce the cost? i would be paying out of pocket and I am unemployed so i figured i would ask. Thanks for your advice!
+
+51m ago
+
+---
+
 **[Is this wheel any good?](https://www.reddit.com/r/robotics/comments/1u2ly9h/is_this_wheel_any_good/)**
 
 Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 20° ramp and pass over small debris(kinda like RoboCup rescue line jr)?
 
-5h ago
+9h ago
 
 ---
 
@@ -74,35 +104,7 @@ Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 2
 
 Andrew Barry of Generalist compares earlier robot behaviors, including Spot opening doors, with the newer learned-model approach being used for dexterous manipulation. The older approach relied on hard-coded controllers for different parts of a task. The newer approach is aimed at giving the model a wider range of usable behavior when it sees something outside the exact training case. Barry describes this as “improvisational intelligence,” where the robot encounters a new variation and still takes a reasonable action instead of immediately failing. He also connects this to how humans complete manipulation tasks. A person does not need to make every pick or motion perfectly on the first try. They can miss, adjust, regrasp, and continue the task.
 
-17h ago
-
----
-
-**[P008G vs D405](https://www.reddit.com/r/robotics/comments/1u23hcq/p008g_vs_d405/)**
-
-16h ago
-
----
-
-**[Building a 5-year IT/Robotics curriculum for grades 7–11](https://www.reddit.com/r/robotics/comments/1u2cjog/building_a_5year_itrobotics_curriculum_for_grades/)**
-
-Hey everyone! I teach CS and programming at a small school in Syria and I'm in the middle of designing a full 5-year hardware-focused IT curriculum. I'd love some honest feedback from people with hands-on robotics/embedded systems experience. Here's the current plan: - **Grade 7:** Lego Spike Prime + Micro:bit - **Grade 8:** Arduino Uno with multiple sensors - **Grade 9:** Project-based learning with Arduino *(see note below)* - **Grade 10:** ESP32 - **Grade 11:** Advanced ESP32 + Raspberry Pi **Note on Grade 9:** This is the Basic Education Certificate year (think national standardized exams), so the curriculum here is intentionally lighter — more of a consolidation year with small projects rather than introducing heavy new concepts. Students won't have the bandwidth for anything too demanding, so I'm keeping it Arduino-based but project-driven to keep them engaged without piling on. --- **My questions for the community:** **Is this hardware progression age-appropriate?** Students range from roughly 12–17. Does the jump between stages feel right, or are there places where it's too much too soon (or not enough)? **ESP32 in grades 10–11 — good idea or not?** I like it because it covers WiFi/BLE, has plenty of GPIO, and feels like a natural step up from Arduino. But I've heard mixed things about its learning curve and toolchain complexity for high schoolers. What's been your experience? **Are there better alternatives to the ESP32 at that level?** I'm open to suggestions — whether that's staying on the Arduino ecosystem (Nano 33 IoT, Portenta, Uno R4 ?), or something else entirely. Budget is a consideration but not the only one. Any feedback appreciated — curriculum design resources, pitfalls to avoid, or even just "this worked great for my students" stories. Thanks in advance!
-
-11h ago
-
----
-
-**[Cubic Doggo Update: Wobbly IMU](https://www.reddit.com/r/robotics/comments/1u1iql9/cubic_doggo_update_wobbly_imu/)**
-
-Honestly, I don't know how other people can do IMU balancing so elegantly; my PID oscillates like it's on life support. I have been tuning the PID the whole night, but then again, I don't have a lot of experience other than following some manuals, so any advice would be great! I am using BNO055 for IMU. Work in progress GitHub: https://github.com/SphericalCowww/CubicDoggo_06R Original Cubic Doggo: https://github.com/SphericalCowww/CubicDoggo
-
-1d ago
-
----
-
-**[The small one is getting bullied](https://www.reddit.com/r/robotics/comments/1u211nz/the_small_one_is_getting_bullied/)**
-
-18h ago
+21h ago
 
 ---
 
@@ -114,7 +116,13 @@ Honestly, I don't know how other people can do IMU balancing so elegantly; my PI
 
 Investors have rushed to back companies in the physical AI space
 
-CNBC • 15h ago
+CNBC • 19h ago
+
+---
+
+**[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
+
+The New York Times • 2h ago
 
 ---
 
@@ -126,39 +134,9 @@ BBC • 2d ago
 
 ---
 
-**[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
+**[Standard Bots Raises $200 Million to Manufacture Robots in US](https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us)**
 
-WSJ • 8m ago
-
----
-
-**[German start-up Neura raises $1.4bn in humanoid robot push](https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772?syn-25a6b1a6=1)**
-
-Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
-
-Financial Times • 16h ago
-
----
-
-**[Neura Robotics' $1.4B raise, Pi's $25M Series A and Hugo Boss' new suitor](https://www.axios.com/pro/all-deals/2026/06/10/pro-rata-premium-first-look-neura-robotics-frasers)**
-
-Axios • 10h ago
-
----
-
-**[Robotic Hands Fold Balloon Dogs With Surprising Contact Skills](https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation)**
-
-From balloon twisting to OmniHand 3 Ultra-M, AGILINK is shaping the future of contact intelligence
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance](https://finance.yahoo.com/sectors/technology/articles/jensen-huang-says-humanoid-robots-124203722.html)**
-
-According to a Bloomberg report, Huang and Hyundai Motor Executive Chair Chung Euisun detailed plans to deepen their collaboration and bring physical AI and robotics technologies into real-world industrial products.
-
-Yahoo Finance • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -170,12 +148,6 @@ GeekWire • 1d ago
 
 ---
 
-**[Standard Bots Raises $200 Million to Manufacture Robots in US](https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)**
 
 New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
@@ -184,9 +156,51 @@ NVIDIA Blog • 3d ago
 
 ---
 
+**[YY Group (NASDAQ YYGH) Launches Commercial Humanoid Robotics Initiative to Drive AI-Driven Margin Expansion and Address Global Facility Management Labor Shortages](https://finance.yahoo.com/sectors/technology/articles/yy-group-nasdaq-yygh-launches-202000315.html)**
+
+Deploys Unitree G1 Humanoid Robots to Build Proprietary Enterprise Datasets; Integrates Automation into Core IFM Platform for Scalable Revenue GrowthSINGAPORE, June 09, 2026 (GLOBE NEWSWIRE) -- YY Group Holding Limited (NASDAQ: YYGH) (“YY Group” or the “Company”), an AI-native workforce management platform and integrated facility management (IFM) provider operating across Asia and beyond, today announced the strategic deployment of Unitree G1 Edu Ultimate B-U4 humanoid robots. This initiative ac
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Powering the future of robotics in Europe](https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/)**
+
+Google DeepMind Accelerator selects 15 robotics companies from across Europe to join the program. Providing 3 months of intensive mentorship and technical support, enabl…
+
+blog.google • 2d ago
+
+---
+
+**[MIT’s ultrasound wristband could teach humanoid robots human hand skills](https://interestingengineering.com/ai-robotics/mit-ultrasound-wristband-humanoid-robots-human)**
+
+MIT researchers developed a 256-channel ultrasound wristband that tracks muscle activity to reconstruct all 22 hand movements.
+
+Interesting Engineering • 19h ago
+
+---
+
+**[China builds 85% of the world’s humanoids robots for cheap at scale, but finding buyers is tricky](https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/)**
+
+While there's a viable commercial path forward in industry and logistics, experts say demand for humanoids lags building capacity.
+
+Fortune • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 318K • 👍 6K • 💬 4K • ⏱️ 2:17 • 4d ago
+
+---
 
 **[China Just Built A Two Brain AI Robot: One Body, Two Minds](https://www.youtube.com/watch?v=-bDC3OyMGRg)**
 
@@ -194,7 +208,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 20K • 👍 519 • 💬 53 • ⏱️ 15:31 • 6d ago
+👁️ 20K • 👍 520 • 💬 53 • ⏱️ 15:31 • 6d ago
 
 ---
 
@@ -204,27 +218,7 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 53K • 👍 415 • 💬 42 • ⏱️ 6:04 • 5d ago
-
----
-
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
-
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
-
-📺 New York Post
-
-👁️ 316K • 👍 6K • 💬 4K • ⏱️ 2:17 • 4d ago
-
----
-
-**[War Robots - Shoggoth Transformed Into One Of The Craziest Brawlers Of 2026! WR Shoggoth Gameplay](https://www.youtube.com/watch?v=yDVQTF53aWQ)**
-
-War Robots - Shoggoth transformed into one of the craziest brawlers of 2026. In this video, I run Ultimate Redeemer and Ultimate ...
-
-📺 Adrian Chong
-
-👁️ 4K • 👍 271 • 💬 63 • ⏱️ 15:00 • 18h ago
+👁️ 64K • 👍 418 • 💬 42 • ⏱️ 6:04 • 5d ago
 
 ---
 
@@ -234,17 +228,17 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 46K • 👍 741 • 💬 87 • ⏱️ 6:09 • 1d ago
+👁️ 49K • 👍 782 • 💬 96 • ⏱️ 6:09 • 1d ago
 
 ---
 
-**[New Humanoid Robot Trio Just Solved This MAJOR AI Problem ($13,271 HUMANOID)](https://www.youtube.com/watch?v=tz-eOi-SBzQ)**
+**[China Builds 85% of the World&#39;s Humanoid Robots. So Why Is Nobody Buying Them? | FP Explains](https://www.youtube.com/watch?v=qsC5PwAgSYY)**
 
-New humanoid robot trio models from Noble Machines, Galaxea, and Astrobot just shook up the AI news landscape with massive ...
+China now builds 85% of the world's humanoid robots. Companies like Unitree and AGIBOT can produce robots far cheaper than ...
 
-📺 AI News
+📺 Firstpost
 
-👁️ 3K • 👍 66 • 💬 4 • ⏱️ 8:05 • 5d ago
+👁️ 1K • 👍 30 • 💬 24 • ⏱️ 6:29 • 9h ago
 
 ---
 
@@ -254,17 +248,37 @@ Physical AI is NVIDIA's next big bet, and robotics stocks are set to explode. We
 
 📺 The Motley Fool
 
-👁️ 15K • 👍 461 • 💬 33 • ⏱️ 10:29 • 2d ago
+👁️ 15K • 👍 463 • 💬 33 • ⏱️ 10:29 • 2d ago
 
 ---
 
-**[When Robots Become Street Performers     #humanoidrobot #dancingrobot #robotperformance #robordancer](https://www.youtube.com/watch?v=vt0VM3iVm7k)**
+**[War Robots - Shoggoth Transformed Into One Of The Craziest Brawlers Of 2026! WR Shoggoth Gameplay](https://www.youtube.com/watch?v=yDVQTF53aWQ)**
 
-These robots dance better than me #robotics #humanoidrobot #dancingrobot #robotperformance #robordancer #streetshow ...
+War Robots - Shoggoth transformed into one of the craziest brawlers of 2026. In this video, I run Ultimate Redeemer and Ultimate ...
 
-📺 金玉两言 Golden Two Cents
+📺 Adrian Chong
 
-👁️ 934 • ⏱️ 2:16 • 11h ago
+👁️ 5K • 👍 283 • 💬 64 • ⏱️ 15:00 • 22h ago
+
+---
+
+**[New Humanoid Robot Trio Just Solved This MAJOR AI Problem ($13,271 HUMANOID)](https://www.youtube.com/watch?v=tz-eOi-SBzQ)**
+
+New humanoid robot trio models from Noble Machines, Galaxea, and Astrobot just shook up the AI news landscape with massive ...
+
+📺 AI News
+
+👁️ 3K • 👍 66 • 💬 4 • ⏱️ 8:05 • 6d ago
+
+---
+
+**[The Company That Beat Tesla on EVs Is Now Building Humanoid Robots](https://www.youtube.com/watch?v=EbXtwJBNAWA)**
+
+SOURCES BYD confirms humanoid robot development, says future sales could use dealer network ...
+
+📺 Jason Lowe on AI
+
+👁️ 44K • 👍 2K • 💬 127 • ⏱️ 2:20 • 2d ago
 
 ---
 
@@ -272,17 +286,7 @@ These robots dance better than me #robotics #humanoidrobot #dancingrobot #robotp
 
 📺 Clara Dao
 
-👁️ 38K • 👍 2K • 💬 100 • ⏱️ 0:12 • 14h ago
-
----
-
-**[The Robots Are Coming For Your Jobs](https://www.youtube.com/watch?v=tXltr2gpSy4)**
-
-Looks like a robot lawnmower. Better find a new lane. #robot #lawnmower #landscaping.
-
-📺 DOORBELL NEWS
-
-👁️ 36K • 👍 914 • 💬 83 • ⏱️ 0:19 • 1d ago
+👁️ 48K • 👍 2K • 💬 110 • ⏱️ 0:12 • 18h ago
 
 ---
 
