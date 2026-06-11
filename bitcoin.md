@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-11T19:18:47.865014+00:00'
+updated: '2026-06-11T21:34:58.683667+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 11, 2026 at 19:18 UTC  
+**Last Updated:** June 11, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,486.75
+### $63,391.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** +4.2%  
-**30d:** -19.8%  
-**90d:** -10.6%  
-**1y:** -39.8%  
+**24h:** +3.5%  
+**7d:** +4.0%  
+**30d:** -19.9%  
+**90d:** -10.8%  
+**1y:** -39.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1270.51B
+**Market Cap:** $1271.13B
 Rank #1
 
-**Circulating Supply:** 20,041,459 BTC
+**Circulating Supply:** 20,041,496 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.6%
+-49.7%
 
 **All-Time Low:** $67.81
-+93526.3%
++93468.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Interesting to see Japan lining up futures alongside potential ETF approval. Feels like a coordinated push toward giving institutions a full toolkit. Curious how people see this, does this actually drive adoption, or just more derivatives activity?
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 9h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the see
 
 BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.
 
-🔗 [The Block](https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf) • 12h ago
+🔗 [The Block](https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf) • 15h ago
 
 ---
 
@@ -105,7 +105,7 @@ BlackRock's new bitcoin fund seeks to provide yield through active covered call 
 
 I used to think Bitcoin was easy money at first when i first got into investing which was like 4ish years ago. After making my first ACTUAL big profit off Bitcoin in 2025, I realized that Bitcoin is a long game and people don't understand that. I didn't even understand that when I first put money in but after months of having my money on a low (I made the mistake of buying when Bitcoin was on a high) I finally cracked the way to fix my portfolio and hope for some growth. Now it's just a matter of closing my app and waiting for it to grow again and not stress over it.
 
-9h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ I used to think Bitcoin was easy money at first when i first got into investing 
 
 After running a Raspberry Pi node at home that died without warning, I moved everything to a bare metal VPS on Contabo. No prepackaged solutions — just Ubuntu 24, Docker, Bitcoin Core 28.1, LND 0.20.1, and a stack I assembled one by one. The article covers the full setup including real bitcoin.conf and lnd.conf, SSH hardening, UFW + Fail2ban, channel strategy mistakes (don't open to big nodes — learned the hard way), ZeroTier private network for monitoring without exposing any public ports, automatic channel.backup redundancy, BOS via Telegram, and LiT for auto fee management. 7 channels live, node visible on Amboss if you want to verify it's not theoretical. Full guide (paid): https://davidebtc186.substack.com/p/how-i-built-my-own-bitcoin-lightning Happy to answer questions here. ⚡ [donate@shadowbip.com](mailto:donate@shadowbip.com) | 🛠 github.com/shadowbipnode
 
-5h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ After running a Raspberry Pi node at home that died without warning, I moved eve
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For me, some Bitcoin questions were easy. Others took months or years before I felt like I really understood them. Things like: Why does Bitcoin have value? ETF or self-custody? How much Bitcoin is enough? Is volatility the same thing as risk? What makes Bitcoin different from every other crypto? What Bitcoin question took you the longest to answer?
 
-5h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ For me, some Bitcoin questions were easy. Others took months or years before I f
 
 Just did this transfer... ​ TRANSFER AMOUNT USD 13,706.11 1.00 USD 13,706.11 SWIFT Handling Commission USD 15.00 IB Outward Transfer Commission USD 82.24 Overseas correspondent charges-USD USD 15.00 ​ The banks and SWIFT have had a monopoly for way to long. They basically rob a chunk of everyone's money. ​ Need BTC to have easy on and off ramps so could do this quicker and cheaper.
 
-10h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Just did this transfer... ​ TRANSFER AMOUNT USD 13,706.11 1.00 USD 13,706.11 S
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 10h ago
 
 ---
 
@@ -153,7 +153,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-12h ago
+14h ago
 
 ---
 
@@ -161,55 +161,11 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[More than $1 trillion in value gone in 8 months. What’s going on with bitcoin?](https://www.cnn.com/2026/06/09/business/bitcoin-slump-ai-stocks)**
+**[JPMorgan says debasement trade retreat has 'accelerated' for bitcoin](https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold)**
 
-Since hitting a record high of $126,000 last fall, bitcoin has dropped to just above $60,000 amid waves of selling. That has erased more than $1.2 trillion in market cap in eight months and wiped out all gains across President Donald Trump’s second term.
+The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.
 
-CNN • 2d ago
-
----
-
-**[CryptoQuant sees bitcoin bottom near $53,600 while demand remains 'deeply unfavorable'](https://www.theblock.co/post/404316/cryptoquant-sees-bitcoin-bottom-near-53600-while-demand-remains-deeply-unfavorable)**
-
-CryptoQuant sees bitcoin bottom near $53,600, its current realized price and a level that has historically marked bear market bottoms.
-
-The Block • 1d ago
-
----
-
-**[The Roundhill Bitcoin Covered Call ETF Paying 30 Percent Yields Without Holding a Single Satoshi](https://finance.yahoo.com/markets/crypto/articles/roundhill-bitcoin-covered-call-etf-184511841.html)**
-
-The launch of spot Bitcoin ETFs in the United States in January 2024 did more than simply make cryptocurrency easier to access. It also created a regulated ecosystem around Bitcoin that could support options trading and a variety of derivative-based income strategies. Since then, ETF issuers have experimented with all kinds of products. Some use ... The Roundhill Bitcoin Covered Call ETF Paying 30 Percent Yields Without Holding a Single Satoshi
-
-Yahoo Finance • 33m ago
-
----
-
-**[Gold, silver and bitcoin fall as traders up Fed rate hike bets](https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html)**
-
-Precious metals were firmly in negative territory, as fears about inflation and the Federal Reserve's interest rate path weighed on investor sentiment.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin Crypto 100](https://fortune.com/ranking/crypto/2026/bitcoin/)**
-
-Bitcoin is the original cryptocurrency. After emerging from cypherpunk internet forums in the late aughts, the digital asset has grown to become one oof the globe's most valuable commodities by market capitalization, trailing gold and silver. Investors liken the cryptocurrency to digital gold. 
-
-Bitcoin is not controlled by any single entity. Instead, a decentralized network of computers work to verify transactions. These computers are kept honest by a system known as mining, where one participant who correctly verifies the transactions receives some Bitcoin every 10 minutes. 
-
-Remarkably, the identity behind Bitcoin's inventor, Satoshi Nakamoto, remains an unsolved mystery nearly two decades since the cryptocurrency's launch in 2009. Nakamoto's crypto wallet, which has never moved any of its 1.1 million Bitcoin, makes the pseudonymous founder one of the world's richest people.
-
-Fortune • 6h ago
-
----
-
-**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
-
-Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
-
-CoinDesk • 1h ago
+The Block • 3h ago
 
 ---
 
@@ -221,23 +177,67 @@ Forbes • 1d ago
 
 ---
 
-**[Public Companies Added 43,557 BTC In May As SpaceX Enters Bitcoin Treasury Race](https://bitcoinmagazine.com/news/public-companies-added-43557-bitcoin)**
+**[Strategy Just Made a Major Bitcoin Buy After Selling For the First Time Since 2022. What Does It Mean for Bitcoin Investors?](https://finance.yahoo.com/markets/crypto/articles/strategy-just-made-major-bitcoin-203501129.html)**
 
-Public companies added a net 43,557 BTC worth $3.2 billion in May, led by Strategy’s continued accumulation.
+The world's top Bitcoin hoarder is buying more Bitcoins again.
 
-Bitcoin Magazine • 6h ago
+Yahoo Finance • 59m ago
 
 ---
 
-**[Bitcoin at $1 million? The math points to a wildly different number.](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+**[More than $1 trillion in value gone in 8 months. What’s going on with bitcoin?](https://www.cnn.com/2026/06/09/business/bitcoin-slump-ai-stocks)**
 
-MarketWatch • 31m ago
+Since hitting a record high of $126,000 last fall, bitcoin has dropped to just above $60,000 amid waves of selling. That has erased more than $1.2 trillion in market cap in eight months and wiped out all gains across President Donald Trump’s second term.
+
+CNN • 2d ago
 
 ---
 
 **[Bitcoin Selloff Leaves Half of All Supply Trading at a Loss](https://www.bloomberg.com/news/articles/2026-06-10/bitcoin-selloff-leaves-half-of-all-supply-trading-at-a-loss)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Crypto 100](https://fortune.com/ranking/crypto/2026/bitcoin/)**
+
+Bitcoin is the original cryptocurrency. After emerging from cypherpunk internet forums in the late aughts, the digital asset has grown to become one oof the globe's most valuable commodities by market capitalization, trailing gold and silver. Investors liken the cryptocurrency to digital gold. 
+
+Bitcoin is not controlled by any single entity. Instead, a decentralized network of computers work to verify transactions. These computers are kept honest by a system known as mining, where one participant who correctly verifies the transactions receives some Bitcoin every 10 minutes. 
+
+Remarkably, the identity behind Bitcoin's inventor, Satoshi Nakamoto, remains an unsolved mystery nearly two decades since the cryptocurrency's launch in 2009. Nakamoto's crypto wallet, which has never moved any of its 1.1 million Bitcoin, makes the pseudonymous founder one of the world's richest people.
+
+Fortune • 9h ago
+
+---
+
+**[Gold, silver and bitcoin fall as traders up Fed rate hike bets](https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html)**
+
+Precious metals were firmly in negative territory, as fears about inflation and the Federal Reserve's interest rate path weighed on investor sentiment.
+
+CNBC • 1d ago
+
+---
+
+**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
+
+Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+
+MarketWatch • 2h ago
+
+---
+
+**[U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web](https://bitcoinmagazine.com/news/u-s-charges-two-men-389-million-bitcoin)**
+
+Federal prosecutors charged two Eastern European nationals with operating AudiA6, a cryptocurrency mixing service and cybercrime platform that allegedly laundered nearly $400 million in bitcoin.
+
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin is getting pummeled to kick off June as the market loses its dominant na
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 2 • 5h ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+⬆️ 6 • 💬 2 • 8h ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -327,33 +327,33 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 ## YouTube Videos: "bitcoin"
 
-**[This is one of the best bear markets for bitcoin, says Anthony Pompliano](https://www.youtube.com/watch?v=h49tQmFjI_o)**
-
-Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to discuss the state of crypto, what's driving the ...
-
-📺 CNBC Television
-
-👁️ 44K • 👍 485 • 💬 321 • ⏱️ 6:00 • 1d ago
-
----
-
 **[Did Bitcoin&#39;s 53% Fall Front Run the A.I. Market Collapse?](https://www.youtube.com/watch?v=hRfqcDGNynQ)**
 
 Bitcoin just suffered a brutal 50% drawdown, but the price action may be signaling something much bigger than crypto. While Wall ...
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 302 • ⏱️ 17:57 • 20h ago
+👁️ 21K • 👍 2K • 💬 373 • ⏱️ 17:57 • 23h ago
 
 ---
 
-**[I’ve Got a Confession to Make… I Was WRONG About Bitcoin!](https://www.youtube.com/watch?v=8kAU5MVZn34)**
+**[Brian Armstrong on Bitcoin, Anthropic Drops Fable 5 &amp; Mythos 5, NewLimit&#39;s $435M Age-Reversal | 264](https://www.youtube.com/watch?v=isd2y37j8v4)**
 
-Dante takes a look at the latest Bitcoin pullback and the growing excitement around AI, IPOs, and tech speculation.
+This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, government stakes in AI companies, the OpenAI IPO ...
 
-📺 Simply Bitcoin
+📺 Peter H. Diamandis
 
-👁️ 36K • 👍 3K • 💬 539 • ⏱️ 17:26 • 1d ago
+👁️ 22K • 👍 1K • 💬 294 • ⏱️ 1:57:02 • 6h ago
+
+---
+
+**[This is one of the best bear markets for bitcoin, says Anthony Pompliano](https://www.youtube.com/watch?v=h49tQmFjI_o)**
+
+Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to discuss the state of crypto, what's driving the ...
+
+📺 CNBC Television
+
+👁️ 45K • 👍 493 • 💬 324 • ⏱️ 6:00 • 1d ago
 
 ---
 
@@ -363,27 +363,37 @@ Let's discuss an on-chain metric; namely, the Bitcoin realized price. Let's disc
 
 📺 Benjamin Cowen
 
-👁️ 44K • 👍 3K • 💬 134 • ⏱️ 4:14 • 15h ago
+👁️ 46K • 👍 4K • 💬 140 • ⏱️ 4:14 • 17h ago
 
 ---
 
-**[Bitcoin Warning Signs Tonight](https://www.youtube.com/watch?v=Ww5V8wmPFz0)**
+**[Big Things Are Happening in Crypto! (Clarity Act + Fed = BIG NEWS!)](https://www.youtube.com/watch?v=8VLuxdcy2AY)**
 
-AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+Big Things Are Happening in Crypto in June 2026! (Clarity Act + Fed = BIG NEWS!) ⭐ Follow Altcoin Daily on X: ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 17K • 👍 862 • 💬 420 • ⏱️ 9:24 • 1d ago
+👁️ 47K • 👍 3K • 💬 164 • ⏱️ 14:04 • 1d ago
 
 ---
 
-**[Bitcoin: A Beautiful Chart](https://www.youtube.com/watch?v=vxnpP3EOl-8)**
+**[Bitcoin Just Flipped](https://www.youtube.com/watch?v=R3LZlVlyrlo)**
 
-This chart shows the percentage of existing coins whose price was lower than the current price the last time they moved on-chain.
+Bitcoin, Ethereum, Solana, Marvell, stocks and crypto updates BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Benjamin Cowen
+📺 Lark Davis
 
-👁️ 116K • 👍 8K • 💬 361 • ⏱️ 8:04 • 1d ago
+👁️ 12K • 👍 574 • 💬 89 • ⏱️ 17:00 • 9h ago
+
+---
+
+**[Bitcoin Analysis: Targets of the Next Bull Market](https://www.youtube.com/watch?v=RZOPcMbYSKM)**
+
+In this video I break down the long term outlook for Bitcoin and analyze where the next bull market targets might lie using Elliott ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 355 • 💬 15 • ⏱️ 15:16 • 3h ago
 
 ---
 
@@ -393,37 +403,27 @@ Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are al
 
 📺 Mark Moss
 
-👁️ 107K • 👍 5K • 💬 670 • ⏱️ 20:43 • 2d ago
+👁️ 109K • 👍 5K • 💬 681 • ⏱️ 20:43 • 2d ago
 
 ---
 
-**[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
+**[I’ve Got a Confession to Make… I Was WRONG About Bitcoin!](https://www.youtube.com/watch?v=8kAU5MVZn34)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+Dante takes a look at the latest Bitcoin pullback and the growing excitement around AI, IPOs, and tech speculation.
 
-📺 Crypto Capital Venture
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 692 • 💬 332 • ⏱️ 11:58 • 1d ago
-
----
-
-**[Every Bitcoin Investor Should Do This Before It Gets Worse](https://www.youtube.com/watch?v=9kFUeewVpvI)**
-
-CPI inflation data is in and markets are entering a period where crypto is no longer moving in isolation. With economists expecting ...
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 826 • 💬 16 • ⏱️ 30:01 • 1d ago
+👁️ 36K • 👍 3K • 💬 536 • ⏱️ 17:26 • 2d ago
 
 ---
 
-**[Bitcoin is entering a massive new virtuous cycle. Here is why.](https://www.youtube.com/watch?v=DT0OYMWm3bE)**
+**[Bitcoin Is About To Fool Everyone](https://www.youtube.com/watch?v=LWOcekeGCJo)**
 
-Michael Saylor offers a profound perspective on the transformation of the digital asset landscape. Rather than viewing competing ...
+Bitcoin Is About To Fool Everyone Want access to the Platinum Group? Join here: ...
 
-📺 BlockPilot
+📺 Mister Crypto
 
-👁️ 521 • 👍 8 • ⏱️ 0:37 • 3h ago
+👁️ 2K • 👍 111 • 💬 111 • ⏱️ 10:07 • 10h ago
 
 ---
 
