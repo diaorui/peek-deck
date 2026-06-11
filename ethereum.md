@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-10T23:25:56.139995+00:00'
+updated: '2026-06-11T02:00:59.073359+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 10, 2026 at 23:25 UTC  
+**Last Updated:** June 11, 2026 at 02:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,606.41
+### $1,621.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -8.5%  
-**30d:** -28.8%  
-**90d:** -22.6%  
-**1y:** -41.5%  
+**24h:** +0.8%  
+**7d:** +3.8%  
+**30d:** -27.3%  
+**90d:** -21.7%  
+**1y:** -37.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.69B
+**Market Cap:** $198.12B
 Rank #2
 
-**Circulating Supply:** 120,684,382 ETH
+**Circulating Supply:** 120,684,325 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.2%
+-66.8%
 
 **All-Time Low:** $0.43
-+374407.8%
++379066.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Mascot needed for Glamsterdam upgrade 🐜🦫🐝🦩🐹🐙🐻‍❄️🐩 Vote for your favorite](https://www.reddit.com/r/ethereum/comments/1u2j8c5/mascot_needed_for_glamsterdam_upgrade_vote_for/)**
+
+A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
+
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 1h ago
+
+---
+
 **[How do you simply explain what ethereum is?](https://www.reddit.com/r/ethereum/comments/1u2hq56/how_do_you_simply_explain_what_ethereum_is/)**
 
 Like you know that feeling of knowing what something is and reading alot about it and knowing its significance but struggling to explain it simply to someone i feel like ethereum is exactly that. How do you explain ethereum to a child, as they say if you cant explain it to a child you dont understand it, how do you explain the greatness and future of ethereum to someone.
 
-28m ago
+3h ago
 
 ---
 
@@ -80,7 +88,15 @@ Like you know that feeling of knowing what something is and reading alot about i
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
+
+---
+
+**[Ethereum Devs Push Private ERC-20 Rival](https://www.reddit.com/r/ethereum/comments/1u2inc8/ethereum_devs_push_private_erc20_rival/)**
+
+ERC-8287 proposes privacy-native Ethereum tokens with hidden balances and transfers, public totalSupply and a compliance freeze mechanism.
+
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/ethereum-erc-8287-private-token-standard/) • 2h ago
 
 ---
 
@@ -132,22 +148,6 @@ Due diligence: Beta on HYPE: Hyperliquid is amazing right now, and I expect them
 
 ---
 
-**[Daily General Discussion June 07, 2026](https://www.reddit.com/r/ethereum/comments/1tz2vsm/daily_general_discussion_june_07_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Daily General Discussion June 06, 2026](https://www.reddit.com/r/ethereum/comments/1ty7xyl/daily_general_discussion_june_06_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
-The Block • 8h ago
+The Block • 10h ago
 
 ---
 
@@ -164,15 +164,15 @@ The Block • 8h ago
 
 A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
-**[BlackRock Sells $230 Million in Bitcoin and Buys Ethereum: What Is Really Going On?](https://finance.yahoo.com/markets/crypto/articles/blackrock-sells-230-million-bitcoin-131810369.html)**
+**[Here's What History Says to Expect for Ethereum This Summer](https://finance.yahoo.com/markets/crypto/articles/heres-history-says-expect-ethereum-005000325.html)**
 
-BlackRock sold 3,671 BTC and bought 10,566 ETH amid heavy IBIT and ETHA outflows across the crypto ETF market.
+If you're eager to buy this coin on the cheap, this summer could be a great time to do it.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 1d ago
 
 Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
 
-Decrypt • 8h ago
+Decrypt • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ Decrypt • 8h ago
 
 Major crypto assets trade under intense headwinds on Wednesday, as market participants navigate complex geopolitical and macroeconomic environments. Bitcoin (BTC) has slipped toward $61,000 after its recent rebound was sold near $64,000, leaving buyers exhausted.
 
-FXStreet • 11h ago
+FXStreet • 14h ago
 
 ---
 
@@ -216,14 +216,6 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum OG Nails The Crash: Sells $188M, Buys Back Lower](https://www.tradingview.com/news/newsbtc:69e65d8d7094b:0-ethereum-og-nails-the-crash-sells-188m-buys-back-lower/)**
-
-Ethereum has reclaimed the $1,650 level after the massive drop that defined last week’s market action — a recovery attempt that has provided some relief after a correction that tested the resolve of even the most conviction-driven holders. The bounce is welcome — but data from Arkham Intelligence h…
-
-TradingView • 1d ago
-
----
-
 **[Tom Lee's 'BitMine bought the bloodbath': BMNR reports $213M worth of Ethereum purchase](https://seekingalpha.com/news/4601401-tom-lees-bitmine-bought-the-bloodbath-bmnr-reports-213m-worth-of-ethereum-purchase)**
 
 Bitmine (BMNR) bought $213M in Ethereum, now holding 5.54M ETH (4.59% supply).
@@ -232,9 +224,27 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[UNDP Brings Ethereum, Cardano, and Stellar Together to Explore Blockchain for Public Good](https://coinpedia.org/news/undp-brings-ethereum-cardano-and-stellar-together-to-explore-blockchain-for-public-good/)**
+
+The United Nations Development Programme (UNDP) has launched a new Blockchain Advisory Group that brings together 26 organizations, including the Ethereum
+
+Coinpedia • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[ETHEREUM: THE BOTTOM IS NOT IN](https://www.youtube.com/watch?v=JwZkAWk8_bI)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 1K • 👍 146 • 💬 140 • ⏱️ 12:37 • 2h ago
+
+---
 
 **[ETHEREUM - THIS HASN&#39;T HAPPENED IN OVER 7 YEARS (LAST TIME WE PUMPED 5,000%)](https://www.youtube.com/watch?v=4kj-j6zxK54)**
 
@@ -242,7 +252,15 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 277 • 💬 126 • ⏱️ 15:00 • 1d ago
+👁️ 6K • 👍 279 • 💬 87 • ⏱️ 15:00 • 1d ago
+
+---
+
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 653 • 💬 33 • ⏱️ 2:28 • 1d ago
 
 ---
 
@@ -252,17 +270,7 @@ BITCOIN PUMP & DUMP EXPLAINED (Final Warning)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 272 • 💬 158 • ⏱️ 22:06 • 11h ago
-
----
-
-**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
-
-What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
-
-📺 Binance
-
-👁️ 9K • 👍 315 • 💬 22 • ⏱️ 5:46 • 2d ago
+👁️ 7K • 👍 294 • 💬 422 • ⏱️ 22:06 • 13h ago
 
 ---
 
@@ -272,17 +280,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 88 • 👍 14 • 💬 2 • ⏱️ 10:23 • 8h ago
-
----
-
-**[🚨 ETH &amp; BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH 🚨](https://www.youtube.com/watch?v=shgrtG7JKuI)**
-
-ETH & BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi ...
-
-📺 Big Time Trades
-
-👁️ 634 • 👍 42 • 💬 8 • ⏱️ 14:20 • 23h ago
+👁️ 136 • 👍 15 • 💬 4 • ⏱️ 10:23 • 11h ago
 
 ---
 
@@ -292,25 +290,27 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 397 • 💬 117 • ⏱️ 14:19 • 14h ago
+👁️ 6K • 👍 405 • 💬 260 • ⏱️ 14:19 • 16h ago
 
 ---
 
-**[ETH Final Flush (Rotation Next?) + BTC Bottom Signal](https://www.youtube.com/watch?v=ZAPYekLDvyQ)**
+**[🚨 ETH &amp; BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH 🚨](https://www.youtube.com/watch?v=shgrtG7JKuI)**
 
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+ETH & BMNR: THE BOTTOM IS IN? TOM LEE BUYS MORE $ETH Farm ETH ON MaxFi: https://www.maxfi.tech/ MaxFi ...
 
-📺 Marzell Crypto
+📺 Big Time Trades
 
-👁️ 469 • 👍 29 • 💬 119 • ⏱️ 6:16 • 1d ago
+👁️ 692 • 👍 44 • 💬 8 • ⏱️ 14:20 • 1d ago
 
 ---
 
-**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
+**[Is Ethereum Falling Behind? The 2026 Upgrades That Could Change EVERYTHING: Glamsterdam, Hegotá](https://www.youtube.com/watch?v=bv7Er1OMY8c)**
 
-📺 CryptoWendyO
+What's next for Ethereum in 2026? Glamsterdam, Hegotá, and a quantum‑ready future, that's what!* In this episode, we strip it ...
 
-👁️ 9K • 👍 609 • 💬 33 • ⏱️ 2:28 • 22h ago
+📺 Binance
+
+👁️ 9K • 👍 320 • 💬 18 • ⏱️ 5:46 • 2d ago
 
 ---
 
@@ -320,17 +320,17 @@ Les avantages Kraken : https://s.rifter.fr/Kraken-avantages #Crypto #Macroécono
 
 📺 Cryptolyze | Crypto - Finance - Économie
 
-👁️ 8K • 👍 734 • 💬 76 • ⏱️ 16:58 • 16h ago
+👁️ 9K • 👍 762 • 💬 130 • ⏱️ 16:58 • 19h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: URGENT NEWS + $500,000 TRADE!!!! GO GO GO!!!!!!](https://www.youtube.com/watch?v=Blz9xpZWLZk)**
+**[When Ethereum DeFi Collapses, Liquidity Will Flow to ICP](https://www.youtube.com/watch?v=GWUOPs0oJ8g)**
 
-Here are the latest news affecting bitcoin, ethereum and all markets globally. I am taking a trade from here. Here is my full plan!
+In this video, I explain why I believe Ethereum DeFi is headed for a major collapse and why that could send liquidity flowing into ...
 
-📺 Thomas Kralow
+📺 Jerry Banfield ICP
 
-👁️ 12K • 👍 430 • 💬 115 • ⏱️ 8:10 • 2d ago
+👁️ 2K • 👍 172 • 💬 54 • ⏱️ 5:43 • 1d ago
 
 ---
 
