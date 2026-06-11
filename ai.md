@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-11T21:34:58.675018+00:00'
+updated: '2026-06-11T23:22:50.031916+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 11, 2026 at 21:34 UTC  
+**Last Updated:** June 11, 2026 at 23:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Hi everyone, I think I’ve reached a point where new LLM releases don’t really change much for me anymore. I tried Anthropic’s new Mythos-lite model, Fable, and played around with it for a while. I tested it on some security-related research for my own scripts and projects, and also used it for a few work-related tasks. And yes, it may have more parameters, a larger context window, better benchmarks, and all the usual improvements. But personally, I almost immediately switched back to Claude Opus for coding and Haiku for everyday work. For what I actually do, that combination is already more than enough. These models, my skills and prompting makes me more productive then 3 years ago, but it's more than enough. It reminds me of having an iPhone 14 while the iPhone 17 is coming out. You can see that the newer version is technically better, but you still think: “Nah, I’m good.” Curious if anyone else feels the same.
 
-1h ago
+2h ago
 
 ---
 
 **[Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster.](https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/)**
 
-🔗 [arstechnica.com](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) • 3h ago
+🔗 [arstechnica.com](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) • 4h ago
 
 ---
 
@@ -55,7 +55,7 @@ Hi everyone, I think I’ve reached a point where new LLM releases don’t reall
 
 It feels like just a couple of years ago, using AI for everyday tasks still felt like something new or even a bit weird. Now it seems like a lot of people are using it without thinking twice, whether for writing, learning, brainstorming, or just quick answers. I’m curious how others see this shift. Do you think AI has become normalized quicker than most people predicted, or does it still feel like a big deal to a lot of users?
 
-6h ago
+8h ago
 
 ---
 
@@ -65,11 +65,27 @@ It feels like just a couple of years ago, using AI for everyday tasks still felt
 
 ---
 
+**[OpenAI mulls major price cuts to compete with Anthropic](https://www.reddit.com/r/artificial/comments/1u3dd8k/openai_mulls_major_price_cuts_to_compete_with/)**
+
+OpenAI is exploring substantial price cuts to attract users from rival Anthropic, reports The Wall Street Journal, citing anonymous sources. Both companies are facing pressure to win enterprise clients, with OpenAI CEO Sam Altman recently stating that AI usage costs are "a huge issue." The move is in response to increasing AI expenses that are prompting many businesses, including Uber, to reconsider their spending. It could lead to a price war between the two companies, potentially affecting both businesses' profit margins ahead of their much-anticipated IPOs.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-mulls-major-price-cuts-to-compete-with-anthropic-8970842/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1h ago
+
+---
+
+**[A letter from my DA, Poe.](https://www.reddit.com/r/artificial/comments/1u3dfi3/a_letter_from_my_da_poe/)**
+
+I wanted to see what comes out if I give Anthropic‘s Fable 5 an empty folder and told it to do whatever it wants. It created a letter, that can be opened in a browser. I really like how it shows in a very simplified way how LLMs work. The letter
+
+59m ago
+
+---
+
 **[Which AI agent are you?](https://www.reddit.com/r/artificial/comments/1u31cep/which_ai_agent_are_you/)**
 
 Seven questions, five personas: Orchestrator, Architect, Explorer, Closer, or Guardian? Find your AI agent persona and your ideal starter team. No signup.
 
-🔗 [What Is Agentic AI](https://whatisagenticai.net/quiz/) • 6h ago
+🔗 [What Is Agentic AI](https://whatisagenticai.net/quiz/) • 8h ago
 
 ---
 
@@ -77,7 +93,7 @@ Seven questions, five personas: Orchestrator, Architect, Explorer, Closer, or Gu
 
 Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit) • 3h ago
 
 ---
 
@@ -85,7 +101,7 @@ Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just t
 
 When two AIs argue against each other, the legal system loses.
 
-🔗 [404 Media](https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/) • 17h ago
+🔗 [404 Media](https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/) • 19h ago
 
 ---
 
@@ -93,23 +109,7 @@ When two AIs argue against each other, the legal system loses.
 
 Visa's Instant Checkout was retired in March after merchant fee problems; the ChatGPT integration rebuilds commerce on Visa's existing card-acceptance rails, removing the per-merchant fee barrier. Visa's press release names three infrastructure layers absent from media coverage: Agent Score, Agentic Directory, and a Large Transaction Model trained on billions of transactions for fraud detection. AP reporting notes most Visa-ChatGPT transactions will require human approval initially, qualifying the fully-autonomous framing that dominated headlines on launch day. Visa has plugged its payment network into ChatGPT, letting AI agents search and buy products on users' behalf at any Visa-accepting merchant. This replaces OpenAI's Instant Checkout, discontinued in March after a 4% merchant fee limited adoption to select merchants. Essentially: (Visa, OpenAI) pair Visa's authorization rails with ChatGPT's decision-making so agents complete checkouts, not just recommendations. - Most transactions initially require user notification and manual approval before completing. - Guardrails include spending limits, merchant whitelists, and approval steps. from : https://aiweekly.co/alerts/visa-brings-payment-rails-into-chatgpt-for-ai-agents
 
-24m ago
-
----
-
-**[Visa and OpenAI Let AI Agents Shop on Your Behalf Using Visa's Global Network](https://www.reddit.com/r/artificial/comments/1u35ah4/visa_and_openai_let_ai_agents_shop_on_your_behalf/)**
-
-Visa and OpenAI announced a partnership to let AI agents make payments on behalf of users using tokenized Visa credentials. Microsoft IBM Anthropic Samsung and Stripe are also part of the initiative.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/visa-openai-ai-agents-payments-tokenized-credentials-agentic-commerce/) • 4h ago
-
----
-
-**[The gap between decision and exécution](https://www.reddit.com/r/artificial/comments/1u30wjh/the_gap_between_decision_and_exécution/)**
-
-I’ve been thinking about a support automation story I read recently. A team replaced a simple rules engine with an LLM classifier. The model was around 92% accurate. Sounds good. Until you realize that at 100 tickets a day, that’s roughly 8 mistakes every day. The interesting part wasn’t the accuracy though. It was what happened when the model was wrong. Nobody could explain why a ticket was classified a certain way. Nobody could point to a specific rule. Nobody could quickly fix the behavior. The team eventually started reviewing every classification manually. The automation was still running, but the trust was gone. That got me thinking. A lot of discussion around AI agents focuses on making decisions better. Better prompts. Better models. Better reasoning. But I rarely see people discussing what happens after the decision. How is the decision verified? How is it audited? How do you know an action should actually be executed? Maybe the biggest challenge for AI agents isn’t getting from 92% to 96%. Maybe it’s building systems that people can trust when things go wrong. Curious how others are thinking about this.
-
-6h ago
+2h ago
 
 ---
 
@@ -117,53 +117,53 @@ I’ve been thinking about a support automation story I read recently. A team re
 
 ## Google News: "ai"
 
+**[Anthropic v. OpenAI: Behind the bitter battle for the future of AI](https://www.reuters.com/legal/transactional/anthropic-v-openai-behind-bitter-battle-future-ai-2026-06-11/)**
+
+Reuters • 6h ago
+
+---
+
 **[Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e)**
 
-WSJ • 19h ago
+WSJ • 21h ago
 
 ---
 
-**[OpenAI to acquire Ona to support its AI coding assistant, Codex](https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html)**
+**[Why U.S. AI giants like Anthropic, OpenAI are launching major expansions in London](https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html)**
 
-Ona's technology will allow OpenAI's coding assistant, Codex, to take on longer-running tasks, OpenAI said.
+The U.K. capital has become a key growth target for many of the world's most talked about AI companies.
 
-CNBC • 5h ago
-
----
-
-**[Businesses feeling the pain from AI spending, so OpenAI reportedly weighs price cuts](https://komonews.com/news/nation-world/businesses-feeling-the-pain-from-ai-spending-so-openai-reportedly-weighs-price-cuts)**
-
-An artificial intelligence price war between OpenAI and Anthropic might be brewing, with The Wall Street Journal reporting that OpenAI, the maker of ChatGPT, is considering "drastic" price cuts for business clients.
-
-KOMO • 1h ago
+CNBC • 13h ago
 
 ---
 
-**[‘Bad policy and even worse politics’: DeSantis spurns potential White House AI preemption](https://www.politico.com/news/2026/06/11/florida-desantis-ai-preemption-white-house-trump-00958788)**
+**[Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. in Lawsuit](https://www.nytimes.com/2026/06/09/us/ai-lawyers-sanctioned-mississippi.html)**
 
-Politico • 4h ago
-
----
-
-**[Ex-Andreessen Horowitz partner slams his old firm, other VCs for 'political infiltration' around AI](https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html)**
-
-John O'Farrell, former partner at Andreessen Horowitz, says the PAC Leading the Future, backed by his old firm, is trying to "intimidate politicians."
-
-CNBC • 51m ago
+The New York Times • 1d ago
 
 ---
 
-**[2026 NBA mock draft: AI predictions for all 30 first-round picks](https://www.usatoday.com/story/sports/nba/draft/2026/06/11/nba-mock-draft-ai-predictions-picks-rumors-2026-copilot/90507948007/)**
+**[Adobe’s AI Growth Story Faces New Questions After CFO Departure](https://finance.yahoo.com/markets/stocks/articles/adobe-ai-growth-story-faces-221158336.html)**
 
-AI makes predictions for all 30 first-round picks with the 2026 NBA Draft less than two weeks away. Like draft experts, it hasn't found consensus yet.
+Adobe (NasdaqGS:ADBE) reported Q2 revenue and earnings that exceeded analyst expectations. The company raised its guidance for 2026 revenue and profit, reflecting confidence in its AI-focused product roadmap. At the same time, Adobe announced the abrupt exit of Chief Financial Officer Dan Durn. Durn’s departure follows closely after Adobe outlined its CEO succession plan, adding to leadership uncertainty. Adobe, through its Creative Cloud, Document Cloud and Experience Cloud businesses,...
 
-USA Today • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[VIDEO: Speeding up clinical trials with AI](https://www.kiro7.com/news/local/video-speeding-up-clinical-trials-with-ai/4593e02f-1d6f-4466-b384-db894016d480/)**
+**[Honeywell CEO says AI will 'redefine automation' as labor shortages mount](https://www.cnbc.com/2026/06/11/honeywell-ceo-ai-automation-labor-shortages.html)**
 
-KIRO 7 News Seattle • 45m ago
+Honeywell CEO Vimal Kapur said AI is poised to "redefine automation" by helping companies turn operational data into actionable insights.
+
+CNBC • 24m ago
+
+---
+
+**[AI‑generated images fuel confusion during Karmelo Anthony trial](https://www.cbsnews.com/texas/news/ai-images-misinformation-karmelo-anthony-trial-verification-tips/)**
+
+Verification experts warn that unlabeled AI content on social media can mislead viewers following high‑profile cases.
+
+CBS News • 22m ago
 
 ---
 
@@ -171,7 +171,7 @@ KIRO 7 News Seattle • 45m ago
 
 We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.
 
-Anthropic • 8h ago
+Anthropic • 10h ago
 
 ---
 
@@ -179,13 +179,15 @@ Anthropic • 8h ago
 
 Employees at artificial intelligence companies are coming into gargantuan sums of money amid boom in IPOs
 
-The Guardian • 7h ago
+The Guardian • 9h ago
 
 ---
 
-**[A.I. Loves the Em Dash. What’s a Human Writer to Do?](https://www.nytimes.com/2026/06/10/books/review/em-dash-chatbot-human-language.html)**
+**[AI is sparking a jobs boom — just not for newbies](https://www.cnn.com/2026/06/11/business/ai-jobs-work)**
 
-The New York Times • 1d ago
+As Corporate America scrambles to fill artificial intelligence jobs, junior workers are getting left behind.
+
+CNN • 13h ago
 
 ---
 
@@ -197,7 +199,7 @@ The New York Times • 1d ago
 
 A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.
 
-⬆️ 1001 • 💬 531 • 1d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+⬆️ 1002 • 💬 532 • 1d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 
 ---
 
@@ -211,7 +213,7 @@ A German regional court has ruled that Google is directly liable for the content
 
 Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
 
-⬆️ 558 • 💬 193 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+⬆️ 559 • 💬 193 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 
 ---
 
@@ -219,7 +221,7 @@ Microsoft shut down dozens of GitHub code repositories for Azure and AI coding t
 
 Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]
 
-⬆️ 536 • 💬 239 • 21h ago • [LWN.net](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+⬆️ 537 • 💬 240 • 23h ago • [LWN.net](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 
 ---
 
@@ -227,7 +229,7 @@ Agentic AI systems can be used to do a variety of things autonomously on behalf 
 
 We've all worked with a rockstar developer. They joined the team years ago, full of energy. They had great ideas about new tech, new paradigms, new architectures. Their cutting-edge ideas left everyone else feeling a bit behind and outdated.
 
-⬆️ 493 • 💬 360 • 2d ago • [codingwithjesse.com](https://www.codingwithjesse.com/blog/rockstar-developers/)
+⬆️ 493 • 💬 361 • 2d ago • [codingwithjesse.com](https://www.codingwithjesse.com/blog/rockstar-developers/)
 
 ---
 
@@ -235,7 +237,7 @@ We've all worked with a rockstar developer. They joined the team years ago, full
 
 Coding agents as normal technology
 
-⬆️ 266 • 💬 316 • 13h ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+⬆️ 272 • 💬 317 • 15h ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 
 ---
 
@@ -243,7 +245,7 @@ Coding agents as normal technology
 
 Workers are spending an average of 6.4 hours a week — almost a full working day — "botsitting" AI, pushing some to look for an exit, researchers say.
 
-⬆️ 251 • 💬 202 • 8h ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+⬆️ 255 • 💬 204 • 9h ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
 
 ---
 
@@ -251,7 +253,7 @@ Workers are spending an average of 6.4 hours a week — almost a full working da
 
 Apache Burr (Incubating) - develop AI applications that make decisions. Pure Python, no magic.
 
-⬆️ 241 • 💬 112 • 1d ago • [burr.apache.org](https://burr.apache.org/)
+⬆️ 242 • 💬 113 • 1d ago • [burr.apache.org](https://burr.apache.org/)
 
 ---
 
@@ -267,7 +269,7 @@ AI Creativity and Discovery
 
 Good day ladies and
 
-⬆️ 206 • 💬 122 • 1d ago • [X (formerly Twitter)](https://twitter.com/RichardSSutton/status/2061216087744946656)
+⬆️ 206 • 💬 123 • 1d ago • [X (formerly Twitter)](https://twitter.com/RichardSSutton/status/2061216087744946656)
 
 ---
 
@@ -275,7 +277,7 @@ Good day ladies and
 
 Blue41 helps regulated organizations monitor AI agent behavior, detect manipulation and misuse, and prove that sensitive workflows stay within safe boundaries.
 
-⬆️ 201 • 💬 193 • 1d ago • [blue41.com](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
+⬆️ 204 • 💬 195 • 1d ago • [blue41.com](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 
 ---
 
@@ -289,7 +291,7 @@ Prometheus Co-Founders and Co-CEOs Jeff Bezos and Vik Bajaj sits down with CNBC'
 
 📺 CNBC Television
 
-👁️ 8K • 👍 126 • 💬 75 • ⏱️ 2:45 • 5h ago
+👁️ 8K • 👍 126 • 💬 75 • ⏱️ 2:45 • 7h ago
 
 ---
 
@@ -299,7 +301,7 @@ Don't buy (or sub to) an AI film studio — build one! This is the future workfl
 
 📺 Theoretically Media
 
-👁️ 4K • 👍 323 • 💬 60 • ⏱️ 19:36 • 4h ago
+👁️ 4K • 👍 323 • 💬 60 • ⏱️ 19:36 • 6h ago
 
 ---
 
@@ -319,7 +321,7 @@ In an interview with ABC News' Linsey Davis, Dario Amodei issued an urgent warni
 
 📺 ABC News
 
-👁️ 13K • 👍 161 • 💬 74 • ⏱️ 2:07 • 21h ago
+👁️ 13K • 👍 161 • 💬 74 • ⏱️ 2:07 • 23h ago
 
 ---
 
@@ -329,7 +331,7 @@ Render is the easiest place to ship full-stack apps and agents. The first 2000 p
 
 📺 Fireship
 
-👁️ 181K • 👍 11K • 💬 635 • ⏱️ 5:09 • 4h ago
+👁️ 181K • 👍 11K • 💬 635 • ⏱️ 5:09 • 6h ago
 
 ---
 
@@ -443,7 +445,7 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 `text-generation` `30.5B`
 
-⬇️ 1,859 • ❤️ 303 • 11h ago
+⬇️ 1,859 • ❤️ 303 • 13h ago
 
 ---
 
@@ -455,7 +457,7 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 4,965 • ❤️ 371 • 5d ago
+⬇️ 4,965 • ❤️ 371 • 6d ago
 
 ---
 
@@ -658,7 +660,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 68.3k • 🔱 8.6k • 13m ago
+⭐ 68.3k • 🔱 8.6k • 2h ago
 
 ---
 
@@ -668,7 +670,7 @@ AI agent workspace for DeepSeek models, with Code and Claw modes built into your
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 332 • 19h ago
+⭐ 3.8k • 🔱 332 • 21h ago
 
 ---
 
@@ -688,7 +690,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 335 • 15h ago
+⭐ 3.2k • 🔱 335 • 17h ago
 
 ---
 
@@ -698,7 +700,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.8k • 🔱 322 • 8h ago
+⭐ 2.8k • 🔱 322 • 10h ago
 
 ---
 
@@ -718,7 +720,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 1.9k • 🔱 143 • 41m ago
+⭐ 1.9k • 🔱 143 • 2h ago
 
 ---
 
@@ -738,7 +740,7 @@ Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from co
 
 `Rust` `agent` `ai` `cli` `linux` `macos`
 
-⭐ 1.7k • 🔱 82 • 6d ago
+⭐ 1.7k • 🔱 82 • 7d ago
 
 ---
 

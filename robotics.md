@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-11T21:34:58.692912+00:00'
+updated: '2026-06-11T23:22:50.043200+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 11, 2026 at 21:34 UTC  
+**Last Updated:** June 11, 2026 at 23:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Drones enforcing traffic rules in Shenzen](https://www.reddit.com/r/robotics/comments/1u2se5p/drones_enforcing_traffic_rules_in_shenzen/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I designed and made a fully open-source mobile robotics platform for my robot arm, making it a whole robotics manipulator platform. The arm has 5 degrees of freedom, and the platform is 4WD with differential steering. The plan is to upgrade to mecanum wheels in the future. Current electronics are an NXP FRDM board controlling everything over WiFi, with an L298N Motor driver for the platform and off-the-shelf servo motors by DFROBOT. The idea was to use components that are easily available and easy to use! The plan is to continue working on it and upgrading it!
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ Just a quick demo to see how fast my hand is! I started with a baseline 5 second
 
 ex-Huggingface pre-training team just announce a new library create for robotics data refinment! It supports ingestion of all robotics formats (Parquet, HDF5, MCAP, Zarr, RLDS, and LeRobot), as well as the common processing flows like visual hand-tracking, subtask annotations and reward model running
 
-🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 11h ago
+🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 13h ago
 
 ---
 
@@ -74,7 +74,7 @@ ex-Huggingface pre-training team just announce a new library create for robotics
 
 I am 16 years old and have absolutely no experience with Linux, and I am looking for a ROS 2 course. While the courses offered by The Construct seem quite comprehensive, I am concerned about some issues others have reported, such as incorrect quizzes, shallow content, or general quality problems. If you have experience with their courses, could you share how it went, or would you recommend other structured courses instead?
 
-6h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ I am 16 years old and have absolutely no experience with Linux, and I am looking
 
 https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=337217b73e76a7c3628cdaf62f5867fb25fb3e0b This robotic piano tutor physically guides your fingers so you can play even if you've never touched a piano before. Instead of just watching videos or apps, this system uses a dual-arm gantry with five-finger robotic hands that: - Precisely control each finger’s position and pressure on the keys - Use compliant (flexible) actuators for natural-feeling guidance instead of stiff pushing - Start with strong support and gradually reduce assistance as you build real muscle memory It turns passive learning into active, embodied practice — helping you feel the correct movements directly. Video: https://www.youtube.com/watch?v=QXn7hCM5yTI
 
-10h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=3372
 
 Hello, I am trying to get back into the Robotics industry after years as an SWE and find a job. I am based in Chicago so I was thinking of getting an all access pass to network for a job, and take some courses. I am currently unemployed. Does anyone know the best way to network at these things? Are the courses worth it? Does anyone have a coupon to reduce the cost? i would be paying out of pocket and I am unemployed so i figured i would ask. Thanks for your advice!
 
-10h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, I am trying to get back into the Robotics industry after years as an SWE 
 
 Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 20° ramp and pass over small debris(kinda like RoboCup rescue line jr)?
 
-19h ago
+21h ago
 
 ---
 
@@ -114,19 +114,19 @@ Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 2
 
 **[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
 
-WSJ • 14h ago
+WSJ • 16h ago
 
 ---
 
 **[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
-Barron's • 6h ago
+Barron's • 8h ago
 
 ---
 
 **[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
@@ -134,7 +134,7 @@ The New York Times • 6h ago
 
 They were impressive, but could they ever feel human?
 
-The Atlantic • 6h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -142,7 +142,15 @@ The Atlantic • 6h ago
 
 Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.
 
-BBC • 2d ago
+BBC • 3d ago
+
+---
+
+**[China builds 85% of the world’s humanoids robots for cheap at scale, but finding buyers is tricky](https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/)**
+
+While there's a viable commercial path forward in industry and logistics, experts say demand for humanoids lags building capacity.
+
+Fortune • 2d ago
 
 ---
 
@@ -166,15 +174,7 @@ Designboom • 2d ago
 
 Developers think feeding first-person footage, called “egocentric data”, into specialised AI models will help robots copy humans.
 
-Dawn • 15h ago
-
----
-
-**[Which Robotics Stock Most Likely Gets Acquired? 3 Targets Wall Street Is Watching](https://finance.yahoo.com/markets/stocks/articles/robotics-stock-most-likely-gets-131042966.html)**
-
-The robotics industry is consolidating. Large platform companies now treat robots as a real distribution channel for compute, logistics software, and last-mile economics. That forces public market investors to ask which pure-play robotics names survive as standalones and which get acquired. Three U.S.-listed robotics stocks frame that debate. None has announced a deal, but the ... Which Robotics Stock Most Likely Gets Acquired? 3 Targets Wall Street Is Watching
-
-Yahoo Finance • 2d ago
+Dawn • 17h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 2d ago
 
 Carbon Robotics, Overland AI, Starcloud and Starfish Space get their share of the spotlight at a session featuring AI chips and satellites.
 
-GeekWire • 1d ago
+GeekWire • 2d ago
 
 ---
 
@@ -216,7 +216,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 62K • 👍 945 • 💬 121 • ⏱️ 6:09 • 1d ago
+👁️ 62K • 👍 945 • 💬 121 • ⏱️ 6:09 • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Join NVIDIA for an introduction to Cosmos 3, the latest evolution of NVIDIA's wo
 
 📺 NVIDIA Developer
 
-👁️ 1K • 👍 99 • ⏱️ 1:03:54 • 4h ago
+👁️ 1K • 👍 99 • ⏱️ 1:03:54 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 📺 Firstpost
 
-👁️ 2K • 👍 34 • 💬 27 • ⏱️ 6:29 • 19h ago
+👁️ 2K • 👍 34 • 💬 27 • ⏱️ 6:29 • 20h ago
 
 ---
 
@@ -274,7 +274,7 @@ South Korea's ROBOTIS says it taught its open-source humanoid robot to dance lik
 
 📺 Kalil 4.0
 
-👁️ 680 • 👍 26 • ⏱️ 0:56 • 4h ago
+👁️ 680 • 👍 26 • ⏱️ 0:56 • 5h ago
 
 ---
 
