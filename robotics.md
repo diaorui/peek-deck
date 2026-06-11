@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-11T16:03:07.689913+00:00'
+updated: '2026-06-11T19:18:47.874282+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 11, 2026 at 16:03 UTC  
+**Last Updated:** June 11, 2026 at 19:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Drones enforcing traffic rules in Shenzen](https://www.reddit.com/r/robotics/comments/1u2se5p/drones_enforcing_traffic_rules_in_shenzen/)**
 
-8h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I designed and made a fully open-source mobile robotics platform for my robot arm, making it a whole robotics manipulator platform. The arm has 5 degrees of freedom, and the platform is 4WD with differential steering. The plan is to upgrade to mecanum wheels in the future. Current electronics are an NXP FRDM board controlling everything over WiFi, with an L298N Motor driver for the platform and off-the-shelf servo motors by DFROBOT. The idea was to use components that are easily available and easy to use! The plan is to continue working on it and upgrading it!
 
-18h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Just a quick demo to see how fast my hand is! I started with a baseline 5 second
 
 ex-Huggingface pre-training team just announce a new library create for robotics data refinment! It supports ingestion of all robotics formats (Parquet, HDF5, MCAP, Zarr, RLDS, and LeRobot), as well as the common processing flows like visual hand-tracking, subtask annotations and reward model running
 
-🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 6h ago
+🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 9h ago
 
 ---
 
@@ -74,7 +74,7 @@ ex-Huggingface pre-training team just announce a new library create for robotics
 
 I am 16 years old and have absolutely no experience with Linux, and I am looking for a ROS 2 course. While the courses offered by The Construct seem quite comprehensive, I am concerned about some issues others have reported, such as incorrect quizzes, shallow content, or general quality problems. If you have experience with their courses, could you share how it went, or would you recommend other structured courses instead?
 
-57m ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ I am 16 years old and have absolutely no experience with Linux, and I am looking
 
 https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=337217b73e76a7c3628cdaf62f5867fb25fb3e0b This robotic piano tutor physically guides your fingers so you can play even if you've never touched a piano before. Instead of just watching videos or apps, this system uses a dual-arm gantry with five-finger robotic hands that: - Precisely control each finger’s position and pressure on the keys - Use compliant (flexible) actuators for natural-feeling guidance instead of stiff pushing - Start with strong support and gradually reduce assistance as you build real muscle memory It turns passive learning into active, embodied practice — helping you feel the correct movements directly. Video: https://www.youtube.com/watch?v=QXn7hCM5yTI
 
-5h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=3372
 
 Hello, I am trying to get back into the Robotics industry after years as an SWE and find a job. I am based in Chicago so I was thinking of getting an all access pass to network for a job, and take some courses. I am currently unemployed. Does anyone know the best way to network at these things? Are the courses worth it? Does anyone have a coupon to reduce the cost? i would be paying out of pocket and I am unemployed so i figured i would ask. Thanks for your advice!
 
-5h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, I am trying to get back into the Robotics industry after years as an SWE 
 
 Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 20° ramp and pass over small debris(kinda like RoboCup rescue line jr)?
 
-13h ago
+17h ago
 
 ---
 
@@ -120,15 +120,29 @@ Tether.io • 1d ago
 
 ---
 
-**[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
+**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
-The New York Times • 7h ago
+Barron's • 4h ago
 
 ---
 
-**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
+**[Cincinnati robotics startup, 1819 Innovation Hub tenant snags key safety certification](https://www.bizjournals.com/cincinnati/news/2026/06/11/sensory-robotics-ul-certification-robot-factory-uc.html)**
 
-Barron's • 1h ago
+The Business Journals • 2h ago
+
+---
+
+**[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
+
+The New York Times • 4h ago
+
+---
+
+**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
+
+They were impressive, but could they ever feel human?
+
+The Atlantic • 4h ago
 
 ---
 
@@ -148,41 +162,23 @@ blog.google • 2d ago
 
 ---
 
+**[crafting with code: how architects reinvent making through robotics and digital fabrication](https://www.designboom.com/architecture/crafting-code-architects-robotics-digital-fabrication/)**
+
+from BIG and studio RAP to the new raw and michael hansmeyer, architects are using robotics and digital fabrication to reinvent craft.
+
+Designboom • 2d ago
+
+---
+
 **[Standard Bots Raises $200 Million to Manufacture Robots in US](https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
-**[YY Group (NASDAQ YYGH) Launches Commercial Humanoid Robotics Initiative to Drive AI-Driven Margin Expansion and Address Global Facility Management Labor Shortages](https://finance.yahoo.com/sectors/technology/articles/yy-group-nasdaq-yygh-launches-202000315.html)**
+**[Tech leaders argue AI’s real future Is task augmentation, not mass layoffs](https://fortune.com/2026/06/11/agility-robotics-c-h-robinson-ceo-task-augmentation-not-mass-layoffs/)**
 
-Deploys Unitree G1 Humanoid Robots to Build Proprietary Enterprise Datasets; Integrates Automation into Core IFM Platform for Scalable Revenue GrowthSINGAPORE, June 09, 2026 (GLOBE NEWSWIRE) -- YY Group Holding Limited (NASDAQ: YYGH) (“YY Group” or the “Company”), an AI-native workforce management platform and integrated facility management (IFM) provider operating across Asia and beyond, today announced the strategic deployment of Unitree G1 Edu Ultimate B-U4 humanoid robots. This initiative ac
-
-Yahoo Finance • 1d ago
-
----
-
-**[NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)**
-
-New AI factory to serve as the foundation for LG Group’s robotics, autonomous driving, data center technologies and GPU cloud services.
-
-NVIDIA Blog • 3d ago
-
----
-
-**[Founders on the frontiers of space and robotics show off their gadgets and tell the stories behind them](https://www.geekwire.com/2026/founders-space-robotics-show-tell-gadgets/)**
-
-Carbon Robotics, Overland AI, Starcloud and Starfish Space get their share of the spotlight at a session featuring AI chips and satellites.
-
-GeekWire • 1d ago
-
----
-
-**[MIT’s ultrasound wristband could teach humanoid robots human hand skills](https://interestingengineering.com/ai-robotics/mit-ultrasound-wristband-humanoid-robots-human)**
-
-MIT researchers developed a 256-channel ultrasound wristband that tracks muscle activity to reconstruct all 22 hand movements.
-
-Interesting Engineering • 23h ago
+Fortune • 2h ago
 
 ---
 
@@ -196,7 +192,7 @@ China just revealed JAKA Pi, a compact humanoid with a split AI brain built to t
 
 📺 AI Revolution
 
-👁️ 20K • 👍 523 • 💬 53 • ⏱️ 15:31 • 6d ago
+👁️ 20K • 👍 524 • 💬 54 • ⏱️ 15:31 • 6d ago
 
 ---
 
@@ -206,7 +202,17 @@ In this video, we take an look at the Unitree G1, exploring its design, capabili
 
 📺 Munro Live
 
-👁️ 64K • 👍 421 • 💬 43 • ⏱️ 6:04 • 5d ago
+👁️ 64K • 👍 421 • 💬 43 • ⏱️ 6:04 • 6d ago
+
+---
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 322K • 👍 6K • 💬 5K • ⏱️ 2:17 • 5d ago
 
 ---
 
@@ -216,7 +222,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 54K • 👍 840 • 💬 113 • ⏱️ 6:09 • 1d ago
+👁️ 59K • 👍 908 • 💬 118 • ⏱️ 6:09 • 1d ago
 
 ---
 
@@ -226,7 +232,7 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 📺 Firstpost
 
-👁️ 2K • 👍 32 • 💬 24 • ⏱️ 6:29 • 13h ago
+👁️ 2K • 👍 33 • 💬 27 • ⏱️ 6:29 • 16h ago
 
 ---
 
@@ -240,51 +246,41 @@ New humanoid robot trio models from Noble Machines, Galaxea, and Astrobot just s
 
 ---
 
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
-
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
-
-📺 New York Post
-
-👁️ 320K • 👍 6K • 💬 4K • ⏱️ 2:17 • 5d ago
-
----
-
 **[Humanoid robot kicks child during public demo](https://www.youtube.com/watch?v=PTrCX4Kge1U)**
 
 📺 Brut India
 
-👁️ 127K • 👍 2K • 💬 236 • ⏱️ 0:27 • 6d ago
+👁️ 128K • 👍 2K • 💬 236 • ⏱️ 0:27 • 6d ago
 
 ---
 
-**[Unitree Robot + Human Dancer on AGT = 🔥  #robotics #robot #agt #ai #unitree](https://www.youtube.com/watch?v=t1ya7bTuTEc)**
+**[China&#39;s BANNED Robots Just STUNNED America&#39;s Got Talent #news #technology #china #robot](https://www.youtube.com/watch?v=fVvKiriKOFk)**
 
-A brief description of the video... You'll learn: - How to - How to - How to Related courses & tutorials: * * -- #ROS #Robot ...
+Unitree's G1 humanoid robots made history on the Season 21 premiere of America's Got Talent, taking the stage alongside ...
 
-📺 The Construct Robotics Institute
+📺 sXe Finance
 
-👁️ 3K • 👍 102 • 💬 4 • ⏱️ 0:57 • 1d ago
-
----
-
-**[Meet Amazon&#39;s autonomous warehouse robot](https://www.youtube.com/watch?v=fC3wzNmVfh8)**
-
-Amazon is rolling out more robots across its warehouses, but says the technology will create new jobs rather than replace workers ...
-
-📺 CNBC Television
-
-👁️ 274 • 👍 4 • ⏱️ 1:14 • 1h ago
+👁️ 94K • 👍 2K • 💬 130 • ⏱️ 0:44 • 6d ago
 
 ---
 
-**[The Robots Are Coming For Your Jobs](https://www.youtube.com/watch?v=tXltr2gpSy4)**
+**[24 Hour Test 0 5mm Precision#depalletizing #palletizer #robotics #automation #](https://www.youtube.com/watch?v=gJ76srD10-M)**
 
-Looks like a robot lawnmower. Better find a new lane. #robot #lawnmower #landscaping.
+The industrial robot is undergoing a 24-hour continuous performance test. The system successfully maintains a strict precision ...
 
-📺 DOORBELL NEWS
+📺 Beiyuan Palletizing Robot by Lau
 
-👁️ 38K • 👍 940 • 💬 89 • ⏱️ 0:19 • 1d ago
+👁️ 28K • 👍 103 • ⏱️ 0:15 • 2d ago
+
+---
+
+**[Humanoid robot learns K-Pop moves from a phone! 🤯 #humanoid #robotics #robot](https://www.youtube.com/watch?v=YfyiLsmdvTE)**
+
+South Korea's ROBOTIS says it taught its open-source humanoid robot to dance like a K-Pop star using just smartphone footage.
+
+📺 Kalil 4.0
+
+👁️ 495 • 👍 18 • ⏱️ 0:56 • 1h ago
 
 ---
 
