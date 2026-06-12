@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-12T19:30:14.435354+00:00'
+updated: '2026-06-12T21:17:07.547535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 19:30 UTC  
+**Last Updated:** June 12, 2026 at 21:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,667.20
+### $1,667.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +6.4%  
-**30d:** -26.9%  
-**90d:** -23.4%  
-**1y:** -35.3%  
+**24h:** -0.5%  
+**7d:** +6.2%  
+**30d:** -27.0%  
+**90d:** -23.5%  
+**1y:** -35.4%  
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -162,13 +162,13 @@ CoinDesk • 6h ago
 
 The market needs fresh inflows and it might become the foundation for a price recovery.
 
-U.Today • 19h ago
+U.Today • 21h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, June 12, 2026: Prices rebound this morning after Trump claims war has ended](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html)**
+**[Ethereum Staking Demand Soars As Investors Chase Rewards](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-demand-soars-investors-134300898.html)**
 
-Bitcoin opened at $63,553.08 on Friday, June 12, 2026, up 3.4% from Thursday's opening price. Ethereum opened at $1,671.71 on Friday, up 3.2% from Thursday's opening price.
+Demand for Ethereum (CRYPTO: $ETH) staking is soaring as investors increasingly seek rewards from cryptocurrencies....
 
 Yahoo Finance • 7h ago
 
@@ -194,6 +194,14 @@ The Block • 2d ago
 
 ---
 
+**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+
+The prominent analyst expects Ether to replicate Bitcoin's historic run.
+
+The Motley Fool • 2h ago
+
+---
+
 **[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
 Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
@@ -204,15 +212,7 @@ Seeking Alpha • 1d ago
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 8h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
-
-Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
-
-FXStreet • 16h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -220,13 +220,15 @@ FXStreet • 16h ago
 
 Centrifuge brings AAA CLO fund JAAA to Ethereum as collateral on Morpho, enabling leveraged wJAAA/USDC strategies with 98% LLTV and $1B in AUM.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 10h ago
 
 ---
 
-**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
 
-CCN.com • 6h ago
+Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
+
+FXStreet • 18h ago
 
 ---
 
@@ -260,7 +262,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 2K • 👍 240 • 💬 6 • ⏱️ 13:24 • 8h ago
+👁️ 2K • 👍 240 • 💬 6 • ⏱️ 13:24 • 10h ago
 
 ---
 

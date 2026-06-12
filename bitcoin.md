@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-12T19:30:14.429702+00:00'
+updated: '2026-06-12T21:17:07.541466+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 19:30 UTC  
+**Last Updated:** June 12, 2026 at 21:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,694.04
+### $63,464.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +4.6%  
-**30d:** -21.4%  
-**90d:** -12.4%  
-**1y:** -39.9%  
+**24h:** +0.1%  
+**7d:** +4.4%  
+**30d:** -21.6%  
+**90d:** -12.6%  
+**1y:** -40.0%  
 
 ---
 
@@ -165,7 +165,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 14h ago
 
 BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trading volume, with a current 73.7% market share.
 
-The Block • 6h ago
+The Block • 8h ago
 
 ---
 
@@ -181,7 +181,15 @@ The Block • 6h ago
 
 Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Forbes • 1h ago
+Forbes • 3h ago
+
+---
+
+**[Live BTC prices: SpaceX rally loses momentum, while bitcoin trades near $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
+
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+
+CoinDesk • 21m ago
 
 ---
 
@@ -189,47 +197,7 @@ Forbes • 1h ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 2h ago
-
----
-
-**[Strategy CEO reveals the company's approach to selling bitcoin](https://finance.yahoo.com/video/strategy-ceo-reveals-companys-approach-190000213.html)**
-
-Scott Melker chats with Strategy (MSTR) President and CEO Phong Le to discuss the company's approach to managing and potentially selling its massive bitcoin (BTC-USD) holdings, as well as the long-term vision behind its bitcoin treasury strategy.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 29m ago
-
----
-
-**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
-
-Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
-
-CoinDesk • 1d ago
-
----
-
-**[Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin](https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin)**
-
-SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.
-
-Decrypt • 7h ago
-
----
-
-**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
-
-WSJ • 5h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 4h ago
+CNBC • 3h ago
 
 ---
 
@@ -237,7 +205,35 @@ Bloomberg.com • 4h ago
 
 Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
 
-galaxy.com • 14h ago
+galaxy.com • 16h ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
+
+Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
+
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Current price of Bitcoin for June 10, 2026](https://fortune.com/article/price-of-bitcoin-06-10-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
 
 ---
 
@@ -315,9 +311,11 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 ---
 
-**[Saylor's Strategy Sells Bitcoin for First Time Since 2022](https://news.ycombinator.com/item?id=48417897)**
+**[Tornado Cash's Roman Storm Could Face 40 Years as Government Seeks New Trial](https://news.ycombinator.com/item?id=48468891)**
 
-⬆️ 1 • 💬 0 • 6d ago • [wsj.com](https://www.wsj.com/finance/currencies/saylors-strategy-sells-bitcoin-for-first-time-since-2022-05a531a8)
+Federal prosecutors want another chance to convict Tornado Cash developer Roman Storm, asking a judge to schedule a retrial this October.
+
+⬆️ 6 • 💬 0 • 2d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
 
 ---
 
@@ -331,7 +329,7 @@ Bitcoin is showing a hidden bullish signal that could trigger a massive relief r
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 2K • 💬 173 • ⏱️ 14:32 • 7h ago
+👁️ 33K • 👍 2K • 💬 173 • ⏱️ 14:32 • 9h ago
 
 ---
 
@@ -341,7 +339,7 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 424 • ⏱️ 20:54 • 22h ago
+👁️ 22K • 👍 2K • 💬 424 • ⏱️ 20:54 • 1d ago
 
 ---
 
@@ -351,7 +349,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 704 • 💬 27 • ⏱️ 9:35 • 12h ago
+👁️ 10K • 👍 704 • 💬 27 • ⏱️ 9:35 • 13h ago
 
 ---
 
@@ -361,7 +359,7 @@ In this video I break down the latest Bitcoin price action to determine whether 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 407 • 💬 16 • ⏱️ 10:51 • 5h ago
+👁️ 5K • 👍 407 • 💬 16 • ⏱️ 10:51 • 7h ago
 
 ---
 
@@ -371,7 +369,7 @@ Trump Iran news, Bitcoin charts, Ethereum, Solana, Micron, and more BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 10K • 👍 572 • 💬 56 • ⏱️ 16:44 • 8h ago
+👁️ 10K • 👍 572 • 💬 56 • ⏱️ 16:44 • 10h ago
 
 ---
 
@@ -381,7 +379,7 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 6K • 👍 1K • 💬 36 • ⏱️ 1:24 • 2h ago
+👁️ 6K • 👍 1K • 💬 36 • ⏱️ 1:24 • 4h ago
 
 ---
 
@@ -391,7 +389,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 3K • 👍 182 • 💬 13 • ⏱️ 4:35 • 6h ago
+👁️ 3K • 👍 182 • 💬 13 • ⏱️ 4:35 • 8h ago
 
 ---
 
@@ -401,7 +399,7 @@ Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In to
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 481 • 💬 15 • ⏱️ 17:44 • 9h ago
+👁️ 8K • 👍 481 • 💬 15 • ⏱️ 17:44 • 11h ago
 
 ---
 
@@ -411,7 +409,7 @@ This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on W
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 8:18 • 21h ago
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 8:18 • 23h ago
 
 ---
 
@@ -421,7 +419,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 4K • 💬 156 • ⏱️ 10:27 • 16h ago
+👁️ 48K • 👍 4K • 💬 156 • ⏱️ 10:27 • 17h ago
 
 ---
 

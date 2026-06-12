@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-12T19:30:14.438216+00:00'
+updated: '2026-06-12T21:17:07.550738+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 12, 2026 at 19:30 UTC  
+**Last Updated:** June 12, 2026 at 21:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-9h ago
+11h ago
 
 ---
 
 **[test the stereo depth, only-vision](https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-2h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 This video demonstrates the general concept that makes a differential wrist joint work. Both motors working together achieve two degrees of freedom.
 
-18h ago
+20h ago
 
 ---
 
@@ -66,7 +66,7 @@ This video demonstrates the general concept that makes a differential wrist join
 
 At Foxglove, we collaborated with Aditya Kamath, resulting in another blog post in his ROS 2 LeKiwi series, this time covering the integration of SLAM and Nav2. This blog post should be relevant to anyone wanting to integrate Nav2, even if they don't have a holonomic platform. If you find this kind of content useful, let us know, and we will keep it coming!
 
-🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 8h ago
+🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ At Foxglove, we collaborated with Aditya Kamath, resulting in another blog post 
 
 I'm building an autonomous rover using ROS2. For mapping, I'm using SLAM Toolbox, and my goal is to navigate the rover autonomously. My rover uses BLDC hub motors (the type of wheel in the picture) that have built-in hall sensors. However, I'm confused about how to generate the /odom topic required by SLAM Toolbox using these hall sensors. From what I understand, SLAM Toolbox needs odometry data, but I'm not sure: How to convert hall sensor readings into wheel odometry. How to calculate wheel position, velocity, and robot pose from the hall sensor data. Whether hall sensors alone are accurate enough for odometry. If there are any ROS2 packages or existing solutions that can help with this. Has anyone implemented odometry using BLDC hub motor hall sensors in ROS2? Any examples, tutorials, or advice would be greatly appreciated.
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ No the thumbnail is not fake and shes quite talented would not be surprised if s
 
 **[Que opinan](https://www.reddit.com/r/robotics/comments/1u3mxq4/que_opinan/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -132,6 +132,12 @@ Al Jazeera • 1d ago
 
 ---
 
+**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
+
+WSJ • 22h ago
+
+---
+
 **[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
 
 They were impressive, but could they ever feel human?
@@ -148,11 +154,9 @@ NASA Science (.gov) • 1d ago
 
 ---
 
-**[Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)**
+**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
 
-Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.
-
-TechCrunch • 17h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -178,12 +182,6 @@ Financial Times • 2d ago
 
 ---
 
-**[Humanoid Robot Manufacturer EngineAI Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo)**
-
-Bloomberg.com • 17h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +192,7 @@ The humanoid robot race just left the demo stage — and entered the factory flo
 
 📺 The AI Nexus
 
-👁️ 780 • 👍 58 • 💬 4 • ⏱️ 28:04 • 16h ago
+👁️ 780 • 👍 58 • 💬 4 • ⏱️ 28:04 • 17h ago
 
 ---
 
@@ -214,7 +212,7 @@ Thunder are back! This doesnt even make sense but it works. The thunder have to 
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 298 • 💬 44 • ⏱️ 13:43 • 7h ago
+👁️ 6K • 👍 298 • 💬 44 • ⏱️ 13:43 • 9h ago
 
 ---
 

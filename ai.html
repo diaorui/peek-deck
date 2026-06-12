@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-06-12T19:30:13.987141+00:00"
+          "dateModified": "2026-06-12T21:17:07.026238+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -664,21 +664,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u40uys/continual_learning_in_mid2026_a_map_of_everyone/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/eHoyamNrbHFvcjZoMdM0swacNg8swtFtlc5PuhCir1xBxCxHbrhe1RvFGwbp.png?width=640&crop=smart&auto=webp&s=d889f06d781e97176e66b7c386174a2857cb8583" alt="Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u40uys/continual_learning_in_mid2026_a_map_of_everyone/" target="_blank" onclick="event.stopPropagation();">Continual learning in mid-2026. A map of everyone trying to crack it: memory layers, "dreaming" agents, and the Post-Transformer models that learn inside the network</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/" target="_blank" onclick="event.stopPropagation();">Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Llion Jones said “2026 is the continual learning year” in the recent Post-Transformer debate. Sutton/Silver call the next phase the "era of experience”. What’s continual learning? Simply put, it’s a model’s ability to continuously improve as it gains experience – without exhibiting catastrophic forgetting. Essentially the stability-plasticity tradeoff for a reasoning model. Essentially it comes down to: where does the memory live? Outside the model. Memory files, vector dbs, graphs. Text is retrieved and pasted back into context. The model stays frozen. In the model's running state. Hidden states or fast weights that change while the model processes input. In the model's weights. What it actually knows. Encoded within the model weights to improve decision making patterns without forgetting. Dev docs today hint at #1 - memory outside the model. But the “2026 is continual learning year” notion does not come from it. Why? Part 1: The Memento stack (today’s stack) There are engineering fixes for the LLM’s memory problem. Julian Togelius & a16z compared it to Memento. In the movie, Leonard functions with his Polaroid and notes. But everyday he is the same man as day 0. Progress around these include: Anthropic's Dreaming: an async job to manage “memories”, explicitly modeled on sleep consolidation. Long context as memory: Visibly good, but with 3 problems. a) Position bias and "lost in the middle" challenge. b) Longer LLM windows come with bigger costs and we’re already discussing “token economics”. c). KV cache bottleneck, and everything evaporates when the request ends. Mem0, Letta, Zep: the popular memory-layer products from startups. AGENTS.md and git-style memory files: But, in this ETH Zurich paper (arXiv 2602.11988) it showed that LLM-generated context files actually reduce task success by about 3% while raising cost over 20%. And human-written ones barely helped too. Part 2: Continual learning, memory within the model (the big bet) Weight updates in large networks trigger catastrophic forgetting. A January 2026 paper tried continual fine-tuning on LRMs (arXiv 2601.18699) but catastrophic forgetting didn’t fade but rather increased. Promising directions that could solve this: TTT layers (arXiv 2407.04620, ICML 2025): the hidden state of the sequence layer is a small model, updated by gradient descent on tokens as they stream in. Matches or beats Transformer / Mamba baselines upto 1.3B params. Titans & Atlas: Titans add a neural long-term memory that decides what to store using a surprise signal. Atlas upgrades the memory's learning rule. Nested Learning + HOPE: Architecture updates different blocks at different frequencies. RNNs are also coming closer to Transformers via viral Memory Caching papers. Dragon Hatchling (BDH): From AI lab Pathway (arXiv 2509.26507). Working memory lives in Hebbian synapses rather than in a KV cache, allowing for an "infinite context window" without quadratic cost. AMI Labs, LFMs, etc. also mention continual learning but I didn’t find much specific info on them in this front. Current State and Future Outlook Where is continual learning in mid-2026? Solved with public access: nothing. Shipping in production: only the dossier stack, all frozen models. Demonstrated at research scale (< 2B params): TTT, Titans, Memory Caching, HOPE, and BDH. What would move the needle imo: Ship memory within the model with forgetting measurably controlled. Two questions though: What OpenAI is brewing in all of this? What’s the blocker to adoption for continual learning models: the missing breakthrough itself, or evals, serving economics, etc?
+                            Google's Project Genie went global this week and I have not stopped thinking about it. You type a sentence, or upload an image, and it generates an open world you can actually walk around in, in real time. No code, no game engine. Someone made a GTA-style open world of Istanbul and just strolled through it, with pedestrians and traffic reacting around them. The reality check: it is rough. Low framerate, laggy response, visible bugs. Right now it is a tech demo, not a game you would sit down and play. But the trajectory is the whole conversation. I keep going back and forth. One side: this is the beginning of the end for the traditional pipeline. If a sentence can spin up an explorable world, the engine, the assets, the studio, all of that stops being the gate. Anyone gets to make a world. The other side: interactive world models hit a wall fast. Consistency, object permanence, holding a world together for more than a few minutes, framerate. It could stay an impressive demo that never becomes a real game for years. My honest guess is the "walk around a generated world" part is genuinely new, but the gap from explorable demo to a game you would actually play is huge and might not close as fast as the hype says. Where do you land, real threat to game engines in a year or two, or a plateau? And what is the first world you would generate?
                         </div>
                         
 
@@ -687,7 +689,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781283124.0"></span>
+                                    <span data-timestamp="1781233661.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -732,23 +734,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u40uys/continual_learning_in_mid2026_a_map_of_everyone/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/eHoyamNrbHFvcjZoMdM0swacNg8swtFtlc5PuhCir1xBxCxHbrhe1RvFGwbp.png?width=640&crop=smart&auto=webp&s=d889f06d781e97176e66b7c386174a2857cb8583" alt="Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/" target="_blank" onclick="event.stopPropagation();">Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1u40uys/continual_learning_in_mid2026_a_map_of_everyone/" target="_blank" onclick="event.stopPropagation();">Continual learning in mid-2026. A map of everyone trying to crack it: memory layers, "dreaming" agents, and the Post-Transformer models that learn inside the network</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Google's Project Genie went global this week and I have not stopped thinking about it. You type a sentence, or upload an image, and it generates an open world you can actually walk around in, in real time. No code, no game engine. Someone made a GTA-style open world of Istanbul and just strolled through it, with pedestrians and traffic reacting around them. The reality check: it is rough. Low framerate, laggy response, visible bugs. Right now it is a tech demo, not a game you would sit down and play. But the trajectory is the whole conversation. I keep going back and forth. One side: this is the beginning of the end for the traditional pipeline. If a sentence can spin up an explorable world, the engine, the assets, the studio, all of that stops being the gate. Anyone gets to make a world. The other side: interactive world models hit a wall fast. Consistency, object permanence, holding a world together for more than a few minutes, framerate. It could stay an impressive demo that never becomes a real game for years. My honest guess is the "walk around a generated world" part is genuinely new, but the gap from explorable demo to a game you would actually play is huge and might not close as fast as the hype says. Where do you land, real threat to game engines in a year or two, or a plateau? And what is the first world you would generate?
+                            Llion Jones said “2026 is the continual learning year” in the recent Post-Transformer debate. Sutton/Silver call the next phase the "era of experience”. What’s continual learning? Simply put, it’s a model’s ability to continuously improve as it gains experience – without exhibiting catastrophic forgetting. Essentially the stability-plasticity tradeoff for a reasoning model. Essentially it comes down to: where does the memory live? Outside the model. Memory files, vector dbs, graphs. Text is retrieved and pasted back into context. The model stays frozen. In the model's running state. Hidden states or fast weights that change while the model processes input. In the model's weights. What it actually knows. Encoded within the model weights to improve decision making patterns without forgetting. Dev docs today hint at #1 - memory outside the model. But the “2026 is continual learning year” notion does not come from it. Why? Part 1: The Memento stack (today’s stack) There are engineering fixes for the LLM’s memory problem. Julian Togelius & a16z compared it to Memento. In the movie, Leonard functions with his Polaroid and notes. But everyday he is the same man as day 0. Progress around these include: Anthropic's Dreaming: an async job to manage “memories”, explicitly modeled on sleep consolidation. Long context as memory: Visibly good, but with 3 problems. a) Position bias and "lost in the middle" challenge. b) Longer LLM windows come with bigger costs and we’re already discussing “token economics”. c). KV cache bottleneck, and everything evaporates when the request ends. Mem0, Letta, Zep: the popular memory-layer products from startups. AGENTS.md and git-style memory files: But, in this ETH Zurich paper (arXiv 2602.11988) it showed that LLM-generated context files actually reduce task success by about 3% while raising cost over 20%. And human-written ones barely helped too. Part 2: Continual learning, memory within the model (the big bet) Weight updates in large networks trigger catastrophic forgetting. A January 2026 paper tried continual fine-tuning on LRMs (arXiv 2601.18699) but catastrophic forgetting didn’t fade but rather increased. Promising directions that could solve this: TTT layers (arXiv 2407.04620, ICML 2025): the hidden state of the sequence layer is a small model, updated by gradient descent on tokens as they stream in. Matches or beats Transformer / Mamba baselines upto 1.3B params. Titans & Atlas: Titans add a neural long-term memory that decides what to store using a surprise signal. Atlas upgrades the memory's learning rule. Nested Learning + HOPE: Architecture updates different blocks at different frequencies. RNNs are also coming closer to Transformers via viral Memory Caching papers. Dragon Hatchling (BDH): From AI lab Pathway (arXiv 2509.26507). Working memory lives in Hebbian synapses rather than in a KV cache, allowing for an "infinite context window" without quadratic cost. AMI Labs, LFMs, etc. also mention continual learning but I didn’t find much specific info on them in this front. Current State and Future Outlook Where is continual learning in mid-2026? Solved with public access: nothing. Shipping in production: only the dossier stack, all frozen models. Demonstrated at research scale (< 2B params): TTT, Titans, Memory Caching, HOPE, and BDH. What would move the needle imo: Ship memory within the model with forgetting measurably controlled. Two questions though: What OpenAI is brewing in all of this? What’s the blocker to adoption for continual learning models: the missing breakthrough itself, or evals, serving economics, etc?
                         </div>
                         
 
@@ -757,7 +757,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781233661.0"></span>
+                                    <span data-timestamp="1781283124.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -831,7 +831,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u3xwkz/what_project_are_you_working_on_and_what_problem/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u462p3/we_are_treating_ai_like_a_magic_trick_instead_of/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -839,13 +839,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u3xwkz/what_project_are_you_working_on_and_what_problem/" target="_blank" onclick="event.stopPropagation();">What project are you working on and what problem does it solve?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1u462p3/we_are_treating_ai_like_a_magic_trick_instead_of/" target="_blank" onclick="event.stopPropagation();">We are treating AI like a magic trick instead of software, and it’s making agents unmaintainable.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hi all, Just curious, I've been noticing lately that a lot of people have some secret project that will change the industry and so on. Please share a bit if you're working on something
+                            I’ve been spending a lot of time lately experimenting with multi-agent workflows and on the surface, the capabilities look incredible. You tie an LLM to a couple of tools, tweak a prompt loop and watch it solve tasks in real time. But once you try to move past the initial prototype phase, the entire illusion falls apart. The underlying problem is how current frameworks approach agent architecture. They treat things like prompt states, memory and behavioral shifts as completely ephemeral or they hide them deep inside closed cloud databases. If an agent fails in production or if its behavior drifts over time based on user feedback, figuring out why it made a specific decision is almost impossible. There is no audit trail. If a system degrades, you can’t easily roll it back to the state it was in yesterday. It breaks every fundamental rule of predictability that we’ve established in modern software engineering. It made me realize that we are trying to invent entirely new, black-box paradigms for AI management when we’ve already had the perfect solution for version control for decades. Out of pure frustration, I started playing around with an open-source concept called Git-Native architecture, specifically looking at a project called Lyzr GitAgent and the OpenGAP protocol. The shift in logic is simple but fixes the core issue: instead of saving an agent's memory or prompt updates to an opaque database, everything is saved as flat files inside a standard Git repository. When the agent adapts its behavior or learns a new workflow, it doesn't just quietly change in the background. It cuts a new branch and opens a Pull Request. Suddenly, you actually have a tangible history of the agent's logic. You can review and approve its self-improvement steps before they deploy. If a hallucination slips through, you just run a standard git revert and hook the entire layer directly into normal CI/CD pipelines. It forces the system to behave like predictable, manageable software. The bottleneck with AI right now isn't that the models aren't evolving fast enough. It's that our engineering practices around them are completely chaotic. We can't scale an ecosystem if we treat every deployment like an untrackable magic trick.
                         </div>
                         
 
@@ -854,7 +854,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781276816.0"></span>
+                                    <span data-timestamp="1781294698.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -897,20 +897,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u3xwkz/what_project_are_you_working_on_and_what_problem/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/HmaaytPaBc2v2NVgmNyCR3_eQb2_W_Rb4S1OeaqQ7io.png?width=640&crop=smart&auto=webp&s=90cde6a00786abf6b225db3da76b07a75f684923" alt="Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/" target="_blank" onclick="event.stopPropagation();">Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1u3xwkz/what_project_are_you_working_on_and_what_problem/" target="_blank" onclick="event.stopPropagation();">What project are you working on and what problem does it solve?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi all, Just curious, I've been noticing lately that a lot of people have some secret project that will change the industry and so on. Please share a bit if you're working on something
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -918,44 +920,32 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781202280.0"></span>
+                                    <span data-timestamp="1781276816.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>arstechnica.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u42v64/openai_visa_team_up_to_let_ai_agents_make/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1u46r4f/the_more_i_use_multiple_ai_models_for_the_same/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/S9Ssn0YJ1KDtO9blk9DShuCYp9tpqIjtXaWsYtX-VgU.jpeg?width=640&crop=smart&auto=webp&s=e5410f06730df5c9238cdd786f629d1c91ab8761" alt="OpenAI, Visa Team Up to Let AI Agents Make Purchases Online" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1u42v64/openai_visa_team_up_to_let_ai_agents_make/" target="_blank" onclick="event.stopPropagation();">OpenAI, Visa Team Up to Let AI Agents Make Purchases Online</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1u46r4f/the_more_i_use_multiple_ai_models_for_the_same/" target="_blank" onclick="event.stopPropagation();">the more i use multiple AI models for the same question, the more i think the disagreement is the only useful part</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            i've been throwing the same hard question at a few different models (or the same models) for a while now and honestly i've stopped caring where they agree. when they all land on the same answer it usually just means the question was easy, or they all grabbed the same standard take from overlapping training data, so agreement is often just a shared blind spot. the useful part is always where one of them breaks from the pack, that gap tends to be land right on the thing i was glossing over. i got nerdy enough about this that i built a little private setup on my own machine i call multi-claude, basically several claude sessions running at once so i can watch them diverge instead of collapsing it all into one tidy answer. this is not a promo. its private and not available to others. the part i couldn't cleanly crack is telling real disagreement (genuinely different reasoning) apart from noise (a model just being randomly inconsistent). 6 months ago i think i finally figured it out. i'm building an ios app that automates the process i validated. its been pretty fun!
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -963,24 +953,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781287453.0"></span>
+                                    <span data-timestamp="1781296286.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.bloomberg.com/news/articles/2026-06-10/openai-visa-team-up-to-let-ai-agents-make-purchases-online" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>bloomberg.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1010,7 +986,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-12T19:29:49.692414+00:00">Updated 2026-06-12T19:29:49.692414+00:00</small>
+        <small data-timestamp="2026-06-12T21:16:40.981984+00:00">Updated 2026-06-12T21:16:40.981984+00:00</small>
     </div>
 </div>
 
@@ -1237,17 +1213,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/06/12/elon-musk-trillionaire-spacex-ipo-money-one-day-irrelevant-ai-robotics/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2281237832-e1781288848533.jpg?resize=1200,600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html" target="_blank" onclick="event.stopPropagation();">Google Says Chinese Cybercrime Group Used Its A.I. in Scams</a>
+                            <a href="https://fortune.com/2026/06/12/elon-musk-trillionaire-spacex-ipo-money-one-day-irrelevant-ai-robotics/" target="_blank" onclick="event.stopPropagation();">Despite his new trillionaire status, Elon Musk says money ‘will stop being relevant’ in the future because of AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The SpaceX CEO envisions a world where robots serve humans, and the output of goods and services will far exceed the supply of money, creating deflation.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1256,9 +1236,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
                                     
                                 </div>
                                 
@@ -1266,7 +1246,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781255431.0"></span>
+                                    <span data-timestamp="1781290860.0"></span>
                                 </div>
                                 
                             </div>
@@ -1274,17 +1254,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/local/san-francisco/2026/06/12/coinbase-layoffs-ai-job-losses-san-francisco-tech-workers', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/video/2026/06/12/spacexs-ai-business-is-a-wildcard-says-cfras-keith-snyder.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108321407-17812932531781293250-46506434230-1080pnbcnews.jpg?v=1781293252&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/local/san-francisco/2026/06/12/coinbase-layoffs-ai-job-losses-san-francisco-tech-workers" target="_blank" onclick="event.stopPropagation();">Coinbase layoffs fuel debate over AI's role in job cuts</a>
+                            <a href="https://www.cnbc.com/video/2026/06/12/spacexs-ai-business-is-a-wildcard-says-cfras-keith-snyder.html" target="_blank" onclick="event.stopPropagation();">SpaceX's AI business is a wildcard, says CFRA's Keith Snyder</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Keith Snyder, CFRA analyst, joins 'Closing Bell' to discuss what to expect from SpaceX's stock, the company's execution risk and much more.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1293,9 +1277,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1303,7 +1287,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781291149.0"></span>
+                                    <span data-timestamp="1781293785.0"></span>
                                 </div>
                                 
                             </div>
@@ -1352,20 +1336,172 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/technology/2026/06/dataset-free-music-archive/687336/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/J4gCaJCp8q2Rj4Fd5Tngj3NV8CQ=/0x43:2000x1085/1200x625/media/img/mt/2026/05/AI_Watchdog_Dataset_Article_Art-3/original.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theatlantic.com/technology/2026/06/dataset-free-music-archive/687336/" target="_blank" onclick="event.stopPropagation();">AI Watchdog: Free Music Archive</a>
+                            <a href="https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html" target="_blank" onclick="event.stopPropagation();">Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781255431.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://thehill.com/policy/technology/5922154-google-sues-chinese-hackers/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://thehill.com/policy/technology/5922154-google-sues-chinese-hackers/" target="_blank" onclick="event.stopPropagation();">Google accuses Chinese cybercrime network of using its AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hill" class="news-favicon">
+                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781295540.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Combat_AI_Scams_hero.width-1300.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/" target="_blank" onclick="event.stopPropagation();">How we're combatting AI scams with security, legislation and more</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            None
+                            Learn how Google is fighting scammers on all fronts with industry-leading security, lawsuits and law enforcement and industry partners.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781255058.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/pope-leos-encyclical-on-ai-is-too-one-sided-2257e276', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/opinion/pope-leos-encyclical-on-ai-is-too-one-sided-2257e276" target="_blank" onclick="event.stopPropagation();">Opinion | Pope Leo’s Encyclical on AI Is Too One-Sided</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WSJ" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781295060.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/VTdEavJMYacSMdu_m6jU-eMSaSc=/0x43:2000x1085/1200x625/media/img/mt/2026/06/2026_05_28_Data_Centers_Are_Fine_Actually/original.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/" target="_blank" onclick="event.stopPropagation();">The Data-Center Panic Is Overblown</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Critics are inflating the costs.
                         </div>
                         
 
@@ -1385,7 +1521,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781288760.0"></span>
+                                    <span data-timestamp="1781262000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1393,94 +1529,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.politico.com/live-updates/2026/06/12/congress/chuck-schumer-ai-congress-00960335', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://heatmap.news/plus/the-fight/spotlight/ai-data-centers-water-usage', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82Njg5ODEwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5NDEzMjg2NX0.TypH-Ebzy-TbKM4W84-uUmNxjNaZeviOmuftKwqBO2w/image.jpg?width=1200&height=600&coordinates=0%2C100%2C0%2C100');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.politico.com/live-updates/2026/06/12/congress/chuck-schumer-ai-congress-00960335" target="_blank" onclick="event.stopPropagation();">Capitol agenda: What Schumer told us about AI - Live Updates</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Politico" class="news-favicon">
-                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781265660.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it" target="_blank" onclick="event.stopPropagation();">SpaceX Rented Out Computing After Own Teams Had Trouble Using It</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781289050.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.anthropic.com/news/claude-corps', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.anthropic.com/news/claude-corps" target="_blank" onclick="event.stopPropagation();">Introducing Claude Corps</a>
+                            <a href="https://heatmap.news/plus/the-fight/spotlight/ai-data-centers-water-usage" target="_blank" onclick="event.stopPropagation();">The Real vs. Imagined Problems with Data Centers’ Water Use</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.
+                            How much water is too much?
                         </div>
                         
 
@@ -1490,9 +1552,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.anthropic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Anthropic" class="news-favicon">
-                                    <a href="https://www.anthropic.com" target="_blank" onclick="event.stopPropagation();">Anthropic</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://heatmap.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Heatmap News" class="news-favicon">
+                                    <a href="https://heatmap.news" target="_blank" onclick="event.stopPropagation();">Heatmap News</a>
                                     
                                 </div>
                                 
@@ -1500,89 +1562,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781182869.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/opinions/2026/06/12/battery-breakthroughs-will-lessen-ais-demand-electricity-grid/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QWKXH6QBRUFD6NPI2E3YHHH2IY_size-normalized.jpg&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/opinions/2026/06/12/battery-breakthroughs-will-lessen-ais-demand-electricity-grid/" target="_blank" onclick="event.stopPropagation();">Opinion | Battery breakthroughs will lessen AI’s demand on the electricity grid</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Pivoting from lithium to sodium-ion will reduce reliance on China.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781289389.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bostonglobe.com/2026/06/12/business/south-shore-local-news-ai/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/DINOZRLP4MS7CGXKW72L4DFYOY.jpg?auth=d47e4a914d0efc87d496630d31520258c936d4df660b6fa337f8b17be332d744&width=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bostonglobe.com/2026/06/12/business/south-shore-local-news-ai/" target="_blank" onclick="event.stopPropagation();">South Shore News: AI-generated newsletter has a paid audience</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            While the audience is still small, it’s a sign that despite skepticism about the technology, there could be a larger audience for AI-generated local news — albeit with a limited focus.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Boston Globe" class="news-favicon">
-                                    <a href="https://www.bostonglobe.com" target="_blank" onclick="event.stopPropagation();">The Boston Globe</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781241243.0"></span>
+                                    <span data-timestamp="1781278292.0"></span>
                                 </div>
                                 
                             </div>
@@ -1610,7 +1590,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-12T19:30:10.988860+00:00">Updated 2026-06-12T19:30:10.988860+00:00</small>
+        <small data-timestamp="2026-06-12T21:17:06.191489+00:00">Updated 2026-06-12T21:17:06.191489+00:00</small>
     </div>
 </div>
 
@@ -1831,10 +1811,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1321</span>
+                                    <span class="post-points">▲ 1358</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 475</span>
+                                    <span style="color: #9ca3af;">💬 491</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1978,10 +1958,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 304</span>
+                                    <span class="post-points">▲ 305</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 348</span>
+                                    <span style="color: #9ca3af;">💬 349</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2027,7 +2007,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 274</span>
+                                    <span class="post-points">▲ 276</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 220</span>
@@ -2079,7 +2059,7 @@
                                     <span class="post-points">▲ 244</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 114</span>
+                                    <span style="color: #9ca3af;">💬 115</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2231,10 +2211,10 @@ Good day ladies and
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 203</span>
+                                    <span class="post-points">▲ 204</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 193</span>
+                                    <span style="color: #9ca3af;">💬 195</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2279,7 +2259,7 @@ Good day ladies and
                                     <span class="post-points">▲ 167</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 249</span>
+                                    <span style="color: #9ca3af;">💬 251</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2324,7 +2304,7 @@ Good day ladies and
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-12T19:29:45.317176+00:00">Updated 2026-06-12T19:29:45.317176+00:00</small>
+        <small data-timestamp="2026-06-12T21:16:40.948241+00:00">Updated 2026-06-12T21:16:40.948241+00:00</small>
     </div>
 </div>
 
