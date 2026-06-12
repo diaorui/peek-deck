@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-12T14:19:58.979606+00:00'
+updated: '2026-06-12T17:22:24.062538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 14:19 UTC  
+**Last Updated:** June 12, 2026 at 17:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,666.12
+### $1,670.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +6.3%  
-**30d:** -27.0%  
-**90d:** -23.4%  
-**1y:** -35.4%  
+**24h:** -0.8%  
+**7d:** +6.4%  
+**30d:** -26.8%  
+**90d:** -23.3%  
+**1y:** -35.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $200.99B
+**Market Cap:** $201.55B
 Rank #2
 
 **Circulating Supply:** 120,684,283 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-66.2%
 
 **All-Time Low:** $0.43
-+384754.7%
++385579.2%
 
 ---
 
@@ -94,7 +94,7 @@ I've launched Vattelum, an open-source project building a new legal system on Et
 
 **[What Crypto prediction lives rent free in your head?](https://www.reddit.com/r/ethereum/comments/1u30opm/what_crypto_prediction_lives_rent_free_in_your/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -150,19 +150,31 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 ## Google News: "ethereum"
 
-**[Current price of Ethereum for June 12, 2026](https://fortune.com/article/price-of-ethereum-06-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, June 12, 2026: Prices rebound this morning after Trump claims war has ended](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html)**
 
 Bitcoin opened at $63,553.08 on Friday, June 12, 2026, up 3.4% from Thursday's opening price. Ethereum opened at $1,671.71 on Friday, up 3.2% from Thursday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower)**
+
+Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
+
+CoinDesk • 4h ago
+
+---
+
+**[Ethereum Crypto 100](https://fortune.com/ranking/crypto/2026/ethereum/)**
+
+In 2013, a precocious teenager named Vitalik Buterin saw the rise of Bitcoin and decided to expand on the cryptocurrency's vision of decentralization. While Bitcoin was a decentralized ledger for sending and receiving currency, Buterin thought of Ethereum as a decentralized computer to run software. 
+
+One year later, Buterin and a team of cofounders raised $18 million for Ethereum in an initial coin offering, or ICO, setting off a wave of ICOs for new cryptocurrencies. (None would fare as well as Ethereum.) Ethereum's token is currently the second-largest worldwide, behind only Bitcoin.
+
+More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
+
+Fortune • 1d ago
 
 ---
 
@@ -170,21 +182,13 @@ Yahoo Finance • 2h ago
 
 Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)**
-
-A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
-
-CoinDesk • 1d ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -200,7 +204,7 @@ Seeking Alpha • 1d ago
 
 Centrifuge brings AAA CLO fund JAAA to Ethereum as collateral on Morpho, enabling leveraged wJAAA/USDC strategies with 98% LLTV and $1B in AUM.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -208,15 +212,7 @@ Crypto Briefing • 3h ago
 
 Ethereum derivatives activity is flashing a fresh signal on Binance, where open interest measured in ETH terms has reached a new all-time high. The move comes as traders reassess Ethereum after a steep drawdown, even as macro and geopolitical uncertainty continue to suppress broader risk appetite.C…
 
-TradingView • 22h ago
-
----
-
-**[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high)**
-
-Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
-
-Decrypt • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -225,6 +221,12 @@ Decrypt • 1d ago
 If you're eager to buy this coin on the cheap, this summer could be a great time to do it.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Price Nears Key Bottom as BitMine Buys 126,971 ETH Despite Market Selloff](https://www.ccn.com/analysis/crypto/ethereum-price-bottom-bitmine-buys-eth-market-selloff/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 334 • 💬 265 • ⏱️ 12:37 • 1d ago
+👁️ 6K • 👍 337 • 💬 257 • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -248,7 +250,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 148 • 💬 43 • ⏱️ 16:46 • 1d ago
+👁️ 4K • 👍 156 • 💬 42 • ⏱️ 16:46 • 1d ago
 
 ---
 
@@ -258,47 +260,15 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 648 • 💬 349 • ⏱️ 11:58 • 1d ago
+👁️ 11K • 👍 648 • 💬 348 • ⏱️ 11:58 • 2d ago
 
 ---
 
-**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
 
-Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
+📺 CryptoWendyO
 
-📺 Alvarburn
-
-👁️ 831 • 👍 149 • 💬 4 • ⏱️ 13:24 • 3h ago
-
----
-
-**[ETHEREUM - THIS HASN&#39;T HAPPENED IN OVER 7 YEARS (LAST TIME WE PUMPED 5,000%)](https://www.youtube.com/watch?v=4kj-j6zxK54)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 6K • 👍 286 • 💬 83 • ⏱️ 15:00 • 2d ago
-
----
-
-**[Meine neuen Kursziele für BTC &amp; ETH](https://www.youtube.com/watch?v=01k5W5RyALI)**
-
-In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitcoin und Ethereum sowie die wichtigsten ...
-
-📺 Charts & Cars by Philip Klinkmüller
-
-👁️ 26K • 👍 2K • 💬 129 • ⏱️ 22:40 • 21h ago
-
----
-
-**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 431 • 👍 20 • 💬 3 • ⏱️ 5:41 • 20h ago
+👁️ 13K • 👍 767 • 💬 40 • ⏱️ 2:28 • 2d ago
 
 ---
 
@@ -308,15 +278,47 @@ SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 313 • 💬 30 • ⏱️ 21:04 • 20h ago
+👁️ 6K • 👍 318 • 💬 30 • ⏱️ 21:04 • 23h ago
 
 ---
 
-**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
+**[Meine neuen Kursziele für BTC &amp; ETH](https://www.youtube.com/watch?v=01k5W5RyALI)**
 
-📺 CryptoWendyO
+In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitcoin und Ethereum sowie die wichtigsten ...
 
-👁️ 13K • 👍 764 • 💬 40 • ⏱️ 2:28 • 2d ago
+📺 Charts & Cars by Philip Klinkmüller
+
+👁️ 28K • 👍 2K • 💬 134 • ⏱️ 22:40 • 1d ago
+
+---
+
+**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 431 • 👍 20 • 💬 3 • ⏱️ 5:41 • 23h ago
+
+---
+
+**[Billionaires Are Convinced The Crypto BULL RUN Is On This Date](https://www.youtube.com/watch?v=46NH3wtKzx4)**
+
+Check out FortisX Liquidity Pools Sign up here ▻ https://fortisx.fi/kol/firehustle Join My FREE Mailing List Get my full portfolio, ...
+
+📺 FireHustle
+
+👁️ 2K • 👍 154 • 💬 44 • ⏱️ 10:13 • 1d ago
+
+---
+
+**[XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!)](https://www.youtube.com/watch?v=TIW18EpM6Is)**
+
+XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, ...
+
+📺 NCashOfficial
+
+👁️ 6K • 👍 465 • 💬 56 • ⏱️ 15:23 • 1d ago
 
 ---
 
@@ -326,7 +328,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 516 • 💬 121 • ⏱️ 13:04 • 10h ago
+👁️ 4K • 👍 516 • 💬 87 • ⏱️ 13:04 • 13h ago
 
 ---
 

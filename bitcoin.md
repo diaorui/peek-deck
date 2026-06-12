@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-12T14:19:58.973573+00:00'
+updated: '2026-06-12T17:22:24.056515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 14:19 UTC  
+**Last Updated:** June 12, 2026 at 17:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,426.12
+### $64,031.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +4.1%  
-**30d:** -21.8%  
-**90d:** -12.8%  
-**1y:** -40.2%  
+**24h:** +0.6%  
+**7d:** +4.8%  
+**30d:** -21.2%  
+**90d:** -12.2%  
+**1y:** -39.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1271.00B
+**Market Cap:** $1279.38B
 Rank #1
 
-**Circulating Supply:** 20,041,775 BTC
+**Circulating Supply:** 20,041,825 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-49.4%
 
 **All-Time Low:** $67.81
-+93442.3%
++94011.5%
 
 ---
 
@@ -165,79 +165,75 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.
 
-CoinDesk • 9h ago
+CoinDesk • 12h ago
 
 ---
 
-**[BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week](https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf)**
+**[JPMorgan says debasement trade retreat has 'accelerated' for bitcoin](https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold)**
 
-Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, adding that he expects it to start trading next week.
+The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.
 
-The Block • 8h ago
-
----
-
-**[Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX — But 'Good Money' Apple And Nvidia Not Spared Either](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-describes-bitcoin-gold-031010567.html)**
-
-Market commentator and popular media personality Jim Cramer dubbed Bitcoin (CRYPTO: BTC) and gold as “bad money” on Wednesday, which are getting dumped to participate in SpaceX’s upcoming IPO. Good Vs. Bad In an X post, Cramer posited that investors are liquidating assets to free up cash for SpaceX, expected to be the biggest stock market debut in history. But the way he described those assets raised some eyebrows. The “Mad Money” host called Bitcoin and gold “bad money,” while referring to Nvid
-
-Yahoo Finance • 1d ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
+**[Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin](https://finance.yahoo.com/markets/crypto/articles/elon-musks-spacex-ipo-bull-122500462.html)**
 
-WSJ • 22m ago
+SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.
 
----
-
-**[For the bitcoin (BTC) price, SpaceX's Nasdaq debut could go either way: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way)**
-
-Your day-ahead look for June 12, 2026
-
-CoinDesk • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Everybody hates bitcoin now. And that's the signal.](https://finance.yahoo.com/video/everybody-hates-bitcoin-now-thats-120000322.html)**
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-Scott Melker discusses the shifting investor sentiment around bitcoin (BTC-USD).
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[U.S. Bitcoin Strategic Reserve: What It Will Actually Mean for the Market](https://reports.tiger-research.com/p/us-bitcoin-strategic-reserve-what-eng)**
+**[Live updates: Bitcoin edges higher on Iran peace hope as SpaceX opens for trade](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
 
-News of a U.S.
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
 
-Tiger Research Reports • 2h ago
+CoinDesk • 1h ago
+
+---
+
+**[Forget Bitcoin ETFs: This Crypto Stock Fund Is Up 11% YTD While Bitcoin Drops 29%](https://finance.yahoo.com/markets/crypto/articles/forget-bitcoin-etfs-crypto-stock-154420158.html)**
+
+Spot Bitcoin ETFs were supposed to be the simplest way to own crypto. Funds like the iShares Bitcoin Trust (NASDAQ:IBIT) made it easy: low fees, direct spot exposure, no wallet headaches. Buyers in early 2026 wanted clean access to crypto’s upside. Instead they got a fund tracking a coin down 29.36% year to date. The Amplify Transformational Data Sharing ... Forget Bitcoin ETFs: This Crypto Stock Fund Is Up 11% YTD While Bitcoin Drops 29%
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Somerville homeowners oppose bitcoin mining data center proposal](https://www.waff.com/2026/06/12/somerville-homeowners-oppose-bitcoin-mining-data-center-proposal/)**
+
+Somerville homeowners are rejecting a bitcoin data mining center planned for construction near their properties, turning down offers of cash, free internet service and other incentives.
+
+WAFF • 13h ago
+
+---
+
+**[Bitcoin May Not Have Bottomed Yet. Here’s Where the Data Says it Could.](https://www.galaxy.com/insights/research/bitcoin-four-year-cycle-where-is-the-bottom)**
+
+Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
+
+galaxy.com • 12h ago
 
 ---
 
 **[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
-MarketWatch • 19h ago
+MarketWatch • 22h ago
 
 ---
 
-**[Strategy’s sell-off signals the first real stress test for the bitcoin treasury trade](https://www.cnbc.com/2026/06/09/strategys-sell-off-signals-the-first-real-stress-test-for-the-bitcoin-treasury-trade.html)**
+**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
 
-"When Strategy comes under fire, bitcoin itself comes under fire," Benchmark analyst Mark Palmer.
+Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
 
-CNBC • 2d ago
-
----
-
-**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -331,7 +327,17 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 485 • ⏱️ 20:54 • 17h ago
+👁️ 21K • 👍 2K • 💬 426 • ⏱️ 20:54 • 20h ago
+
+---
+
+**[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
+
+Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
+
+📺 Gareth Soloway
+
+👁️ 27K • 👍 2K • 💬 166 • ⏱️ 14:32 • 5h ago
 
 ---
 
@@ -341,17 +347,27 @@ This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on W
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 144 • ⏱️ 8:18 • 16h ago
+👁️ 30K • 👍 2K • 💬 150 • ⏱️ 8:18 • 19h ago
 
 ---
 
-**[BITCOIN IT&#39;S ABOUT TO HAPPEN!!!!](https://www.youtube.com/watch?v=7l1WOXDa7lA)**
+**[BITCOIN HISTORY IS EXACTLY REPEATING...](https://www.youtube.com/watch?v=4JgEbFXHulo)**
 
-YUBIT Trading Group https://ckenny.com/YBTM (Claim $500 Position) ⚠️ DISCLAIMER – READ FIRST This video is not ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Conor Kenny
+📺 Crypto Rover
 
-👁️ 5K • 👍 453 • 💬 69 • ⏱️ 11:31 • 4h ago
+👁️ 9K • 👍 683 • 💬 23 • ⏱️ 9:35 • 9h ago
+
+---
+
+**[Trump Shocking News [Crypto Reacts]](https://www.youtube.com/watch?v=TVKf7vAUQxA)**
+
+Trump Iran news, Bitcoin charts, Ethereum, Solana, Micron, and more BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 9K • 👍 542 • 💬 51 • ⏱️ 16:44 • 6h ago
 
 ---
 
@@ -361,67 +377,47 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 410 • 💬 16 • ⏱️ 13:24 • 5h ago
+👁️ 7K • 👍 461 • 💬 18 • ⏱️ 13:24 • 8h ago
 
 ---
 
-**[Has Bitcoin NEVER Been This Cheap?!?](https://www.youtube.com/watch?v=BPrtShHLeEY)**
+**[Bitcoin Rejection Is Warning That A Big Drop Is Incoming (Prepare)](https://www.youtube.com/watch?v=pqChX17fo2s)**
 
-Bitcoin is down 50% from its all-time high, the Fear & Greed Index just printed an 8, and your brother-in-law is back to talking ...
+Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In today's episode, Sheldon breaks down the key signals ...
 
-📺 Swan Bitcoin
+📺 Crypto Banter
 
-👁️ 7K • 👍 551 • 💬 132 • ⏱️ 18:59 • 15h ago
-
----
-
-**[People Don&#39;t Understand Most Crypto Coins Are Dead.. And Never Coming Back](https://www.youtube.com/watch?v=26N4u0ihIT4)**
-
-Buy, Sell, Trade Crypto: Join SpaceX hype ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 740 • ⏱️ 10:10 • 1d ago
+👁️ 7K • 👍 468 • 💬 15 • ⏱️ 17:44 • 7h ago
 
 ---
 
-**[The BIGGEST NEWS Since The Bitcoin ETF Launch JUST HAPPENED!! | EP 1524](https://www.youtube.com/watch?v=sfMOkKagyCE)**
+**[🚨 BITCOIN: DANGER DANGER DANGER !!!](https://www.youtube.com/watch?v=Ww0jWSabAM0)**
 
-While everyone is distracted by short-term price moves bitcoin CONTINUES TO TAKEOVER .
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
 
-📺 Simply Bitcoin
+📺 Crypto Kid
 
-👁️ 6K • 👍 317 • 💬 112 • ⏱️ 1:01:03 • 20h ago
-
----
-
-**[Bitcoin: Using On-Chain Metrics To Identify Market Cycle Bottoms](https://www.youtube.com/watch?v=Di8YR9nX8Q8)**
-
-This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
-
-📺 Benjamin Cowen
-
-👁️ 38K • 👍 3K • 💬 147 • ⏱️ 10:27 • 10h ago
+👁️ 4K • 👍 301 • 💬 297 • ⏱️ 11:21 • 19h ago
 
 ---
 
-**[Why Henrik Zeberg Predicts A 97% Bitcoin Crash.](https://www.youtube.com/watch?v=VCgUHJomPuM)**
+**[This is one of the best bear markets for bitcoin, says Anthony Pompliano](https://www.youtube.com/watch?v=h49tQmFjI_o)**
 
-Henrik Zeberg joins Ran on for a deep dive into the current macro landscape, sharing his outlook on crypto, equities, the US dollar ...
+Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to discuss the state of crypto, what's driving the ...
 
-📺 Crypto Insider
+📺 CNBC Television
 
-👁️ 23K • 👍 1K • 💬 89 • ⏱️ 33:17 • 1d ago
+👁️ 50K • 👍 520 • 💬 360 • ⏱️ 6:00 • 2d ago
 
 ---
 
-**[Brian Armstrong on Bitcoin, Anthropic Drops Fable 5 &amp; Mythos 5, NewLimit&#39;s $435M Age-Reversal | 264](https://www.youtube.com/watch?v=isd2y37j8v4)**
+**[Is Bitcoin actually failing at its own game?](https://www.youtube.com/watch?v=14RB07Nv04E)**
 
-This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, government stakes in AI companies, the OpenAI IPO ...
+While many view cryptocurrency as the future of finance, the reality of its scalability remains a major hurdle. Even with its massive ...
 
-📺 Peter H. Diamandis
+📺 CryptoHarbor
 
-👁️ 66K • 👍 2K • 💬 939 • ⏱️ 1:57:02 • 22h ago
+👁️ 684 • 👍 4 • ⏱️ 0:32 • 7h ago
 
 ---
 
