@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-12T11:02:06.143368+00:00'
+updated: '2026-06-12T14:19:58.973573+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 11:02 UTC  
+**Last Updated:** June 12, 2026 at 14:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,718.72
+### $63,426.12
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.1%  
-**7d:** +4.6%  
-**30d:** -21.4%  
-**90d:** -12.4%  
-**1y:** -39.9%  
+**7d:** +4.1%  
+**30d:** -21.8%  
+**90d:** -12.8%  
+**1y:** -40.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1275.20B
+**Market Cap:** $1271.00B
 Rank #1
 
-**Circulating Supply:** 20,041,700 BTC
+**Circulating Supply:** 20,041,775 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.5%
+-49.7%
 
 **All-Time Low:** $67.81
-+93737.2%
++93442.3%
 
 ---
 
@@ -89,7 +89,7 @@ Interesting to see Japan lining up futures alongside potential ETF approval. Fee
 
 Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the seed phrase. I searched everywhere. Old notebooks, USB sticks, cloud storage, emails... nothing. After a while I accepted it was gone forever. At some point I even stopped thinking about it. Fast forward to today. Recently I found the hard drive from an old laptop I hadn't touched since 2019. Out of pure curiosity I decided to boot it up and see if it still worked. While browsing around, I opened Chrome and started looking through my old history. Then I randomly checked the Recycle Bin. Inside the Recycle Bin was a .txt file. My heart skipped a beat. I opened it. It was the seed phrase. Well... sort of. Before everyone calls me a moron (which would be fair), yes, I actually stored my recovery phrase in a text document instead of proper cold storage. I know. Stupid. But there was a method to my madness. I knew that if someone found the words but didn't know the correct order, they wouldn't be able to access the wallet. A 12-word recovery phrase has 12! possible arrangements, which is 479,001,600 different combinations. So I stored the words in a text file, but scrambled them in a way that only I knew how to put them back together. Apparently, years later, even I forgot where I had put them. I just sat there staring at the screen because my brain refused to process what I was seeing. Out of all places, the thing I had been looking for was sitting in the Recycle Bin of a forgotten laptop for almost seven years. The craziest part? If I had found it back in 2019, I would've probably sold the BTC almost immediately. Instead, I accidentally diamond-handed it by completely losing access to it. So I put the phrase back together exactly the way I remembered it. At that point I was shaking. I loaded it into a wallet, half expecting it not to work after all these years. Then... boom. There it was. My Bitcoin was just sitting there, untouched since 2019. I stared at the balance for what felt like forever because I genuinely couldn't believe it was real. After spending years thinking it was gone forever, I was suddenly looking at the wallet again as if nothing had happened. I didn't sleep at all today (this happened at 3am in the morning). My mind kept replaying the whole thing over and over. The odds of randomly finding an old hard drive, deciding to boot it up, checking the Recycle Bin, finding a forgotten text file, and having it contain the exact information needed to recover a Bitcoin I thought was lost forever felt absolutely insane. Today is officially the second happiest day of my life. The first was when my son was born on December 24th, 2025. The second is today, when I reunited with the 1 BTC that I genuinely believed was gone forever. Sometimes being disorganized pays off. Since the day I lost access to that Bitcoin, I spent countless nights scrolling through Reddit reading stories about people who had recovered wallets they thought were gone forever. Deep down, I was hoping that one day I'd get lucky too. But as the years passed, that hope slowly disappeared. I never thought I'd be the one posting a recovery story. Yet here I am.
 
-1d ago
+2d ago
 
 ---
 
@@ -113,7 +113,7 @@ I used to think Bitcoin was easy money at first when i first got into investing 
 
 After running a Raspberry Pi node at home that died without warning, I moved everything to a bare metal VPS on Contabo. No prepackaged solutions — just Ubuntu 24, Docker, Bitcoin Core 28.1, LND 0.20.1, and a stack I assembled one by one. The article covers the full setup including real bitcoin.conf and lnd.conf, SSH hardening, UFW + Fail2ban, channel strategy mistakes (don't open to big nodes — learned the hard way), ZeroTier private network for monitoring without exposing any public ports, automatic channel.backup redundancy, BOS via Telegram, and LiT for auto fee management. 7 channels live, node visible on Amboss if you want to verify it's not theoretical. Full guide (paid): https://davidebtc186.substack.com/p/how-i-built-my-own-bitcoin-lightning Happy to answer questions here. ⚡ [donate@shadowbip.com](mailto:donate@shadowbip.com) | 🛠 github.com/shadowbipnode
 
-21h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For me, some Bitcoin questions were easy. Others took months or years before I felt like I really understood them. Things like: Why does Bitcoin have value? ETF or self-custody? How much Bitcoin is enough? Is volatility the same thing as risk? What makes Bitcoin different from every other crypto? What Bitcoin question took you the longest to answer?
 
-21h ago
+1d ago
 
 ---
 
@@ -165,23 +165,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin News Today: BTC Jumps +3% as Trump Cancels Iran Strikes But the Fed Could Undo It All](https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-today-btc-jumps-090335706.html)**
-
-In today’s crypto news (June 10), Bitcoin surged +2% overnight, beginning this morning’s European session at $62,600. This bullish move for BTC caught many traders off guard, with $70M of the $120M in Bitcoin liquidations over the past 24 hours being from short positions. Of the other major caps, XMR ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Rises Above $63,000 as Trump Cancels Iran Strikes and Signals Peace Deal](https://thedefiant.io/news/markets/bitcoin-rises-above-63000-trump-cancels-iran-strikes-peace-deal)**
-
-Bitcoin rose roughly 3% to above $63,000 Thursday after Trump canceled scheduled Iran strikes and signaled a multi-nation peace deal was nearing completion.
-
-thedefiant.io • 14h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -189,29 +173,55 @@ thedefiant.io • 14h ago
 
 Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, adding that he expects it to start trading next week.
 
-The Block • 5h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin Network ‘Fires Miners’ In August 2026 ? Adam Back Speaks Out](https://finance.yahoo.com/markets/crypto/articles/bitcoin-network-fires-miners-august-092141552.html)**
+**[Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX — But 'Good Money' Apple And Nvidia Not Spared Either](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-describes-bitcoin-gold-031010567.html)**
 
-Adam Back rejects claims Bitcoin will fire the miners in August 2026, calling Luke Dashjr's fork plan a separate altcoin.
+Market commentator and popular media personality Jim Cramer dubbed Bitcoin (CRYPTO: BTC) and gold as “bad money” on Wednesday, which are getting dumped to participate in SpaceX’s upcoming IPO. Good Vs. Bad In an X post, Cramer posited that investors are liquidating assets to free up cash for SpaceX, expected to be the biggest stock market debut in history. But the way he described those assets raised some eyebrows. The “Mad Money” host called Bitcoin and gold “bad money,” while referring to Nvid
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Just Fell Below $65,000. What Happens Next?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-fell-below-65-101200674.html)**
+**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
 
-The crypto sector's lead asset is looking a bit sickly at the moment.
+WSJ • 22m ago
 
-Yahoo Finance • 50m ago
+---
+
+**[For the bitcoin (BTC) price, SpaceX's Nasdaq debut could go either way: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way)**
+
+Your day-ahead look for June 12, 2026
+
+CoinDesk • 3h ago
+
+---
+
+**[Everybody hates bitcoin now. And that's the signal.](https://finance.yahoo.com/video/everybody-hates-bitcoin-now-thats-120000322.html)**
+
+Scott Melker discusses the shifting investor sentiment around bitcoin (BTC-USD).
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[U.S. Bitcoin Strategic Reserve: What It Will Actually Mean for the Market](https://reports.tiger-research.com/p/us-bitcoin-strategic-reserve-what-eng)**
+
+News of a U.S.
+
+Tiger Research Reports • 2h ago
 
 ---
 
 **[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
-MarketWatch • 16h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -223,19 +233,11 @@ CNBC • 2d ago
 
 ---
 
-**[Gold and bitcoin: the assets the rally forgot](https://www.ft.com/content/830cacfc-cda7-4da8-acde-49f6079bc524?syn-25a6b1a6=1)**
+**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
 
-Gold and ‘digital gold’ both feel like yesterday’s Fomo trades
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Financial Times • 2d ago
-
----
-
-**[Bitcoin Beach Life With Real Tax Perks? Inside Bukele’s 90-Day Residency Overhaul](https://bitcoinmagazine.com/business/bukeles-reform-makes-el-salvador-a-top-tax-haven-0-on-foreign-income-and-bitcoin-gains-with-minimal-presence)**
-
-Seasonal Bitcoin events, AI summits like SovAI, and low local costs make it tempting, but origin-country tax fights and economic realities add important nuance.
-
-Bitcoin Magazine • 14h ago
+Fortune • 1h ago
 
 ---
 
@@ -261,7 +263,7 @@ The weeklong sell-off was exacerbated after a stronger-than-expected May jobs r
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 2 • 21h ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+⬆️ 6 • 💬 2 • 1d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -285,7 +287,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
 
-⬆️ 4 • 💬 1 • 3d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
+⬆️ 4 • 💬 1 • 4d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
 
 ---
 
@@ -323,33 +325,13 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 ## YouTube Videos: "bitcoin"
 
-**[This is one of the best bear markets for bitcoin, says Anthony Pompliano](https://www.youtube.com/watch?v=h49tQmFjI_o)**
+**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
 
-Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to discuss the state of crypto, what's driving the ...
+Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
 
-📺 CNBC Television
+📺 Simply Bitcoin
 
-👁️ 49K • 👍 509 • 💬 343 • ⏱️ 6:00 • 1d ago
-
----
-
-**[Brian Armstrong on Bitcoin, Anthropic Drops Fable 5 &amp; Mythos 5, NewLimit&#39;s $435M Age-Reversal | 264](https://www.youtube.com/watch?v=isd2y37j8v4)**
-
-This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, government stakes in AI companies, the OpenAI IPO ...
-
-📺 Peter H. Diamandis
-
-👁️ 61K • 👍 2K • 💬 836 • ⏱️ 1:57:02 • 19h ago
-
----
-
-**[Bitcoin: The Cost Basis of the Network](https://www.youtube.com/watch?v=R9vEpIpyj2s)**
-
-Let's discuss an on-chain metric; namely, the Bitcoin realized price. Let's discuss how it can be used in identifying market cycle ...
-
-📺 Benjamin Cowen
-
-👁️ 53K • 👍 4K • 💬 154 • ⏱️ 4:14 • 1d ago
+👁️ 20K • 👍 2K • 💬 485 • ⏱️ 20:54 • 17h ago
 
 ---
 
@@ -359,67 +341,87 @@ This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on W
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 124 • ⏱️ 8:18 • 13h ago
+👁️ 28K • 👍 2K • 💬 144 • ⏱️ 8:18 • 16h ago
 
 ---
 
-**[Bitcoin: A Beautiful Chart](https://www.youtube.com/watch?v=vxnpP3EOl-8)**
+**[BITCOIN IT&#39;S ABOUT TO HAPPEN!!!!](https://www.youtube.com/watch?v=7l1WOXDa7lA)**
 
-This chart shows the percentage of existing coins whose price was lower than the current price the last time they moved on-chain.
+YUBIT Trading Group https://ckenny.com/YBTM (Claim $500 Position) ⚠️ DISCLAIMER – READ FIRST This video is not ...
 
-📺 Benjamin Cowen
+📺 Conor Kenny
 
-👁️ 127K • 👍 8K • 💬 377 • ⏱️ 8:04 • 2d ago
+👁️ 5K • 👍 453 • 💬 69 • ⏱️ 11:31 • 4h ago
 
 ---
 
-**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
+**[BITCOIN: This Breakout Will Be BIG! (get ready) - BTC Price Prediction Today](https://www.youtube.com/watch?v=C5d5KjfAFb8)**
 
-Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 410 • 💬 16 • ⏱️ 13:24 • 5h ago
+
+---
+
+**[Has Bitcoin NEVER Been This Cheap?!?](https://www.youtube.com/watch?v=BPrtShHLeEY)**
+
+Bitcoin is down 50% from its all-time high, the Fear & Greed Index just printed an 8, and your brother-in-law is back to talking ...
+
+📺 Swan Bitcoin
+
+👁️ 7K • 👍 551 • 💬 132 • ⏱️ 18:59 • 15h ago
+
+---
+
+**[People Don&#39;t Understand Most Crypto Coins Are Dead.. And Never Coming Back](https://www.youtube.com/watch?v=26N4u0ihIT4)**
+
+Buy, Sell, Trade Crypto: Join SpaceX hype ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
+
+📺 Altcoin Daily
+
+👁️ 42K • 👍 2K • 💬 740 • ⏱️ 10:10 • 1d ago
+
+---
+
+**[The BIGGEST NEWS Since The Bitcoin ETF Launch JUST HAPPENED!! | EP 1524](https://www.youtube.com/watch?v=sfMOkKagyCE)**
+
+While everyone is distracted by short-term price moves bitcoin CONTINUES TO TAKEOVER .
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 418 • ⏱️ 20:54 • 13h ago
+👁️ 6K • 👍 317 • 💬 112 • ⏱️ 1:01:03 • 20h ago
 
 ---
 
-**[When Bitcoin was worth $200](https://www.youtube.com/watch?v=vBz3EIp_iTA)**
+**[Bitcoin: Using On-Chain Metrics To Identify Market Cycle Bottoms](https://www.youtube.com/watch?v=Di8YR9nX8Q8)**
 
-While he was exploring a remote Chinese Bitcoin mine in 2014, longtime VICE producer Alex Waterfield was offered to buy ...
+This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
 
-📺 VICE News
+📺 Benjamin Cowen
 
-👁️ 23K • 👍 646 • 💬 27 • ⏱️ 1:36 • 1d ago
-
----
-
-**[The Secret Reason Bitcoin Dropped 40% (And What Happens Next)](https://www.youtube.com/watch?v=x0000eoTPRA)**
-
-Bitcoin is down about 40% while stocks, gold, silver, and foreign markets are all making new highs. Most explanations for why this ...
-
-📺 Mark Moss
-
-👁️ 116K • 👍 5K • 💬 658 • ⏱️ 20:43 • 2d ago
+👁️ 38K • 👍 3K • 💬 147 • ⏱️ 10:27 • 10h ago
 
 ---
 
-**[Don&#39;t Chase Bitcoin Shorts (Wait For This)](https://www.youtube.com/watch?v=dzGqj1LGTXk)**
+**[Why Henrik Zeberg Predicts A 97% Bitcoin Crash.](https://www.youtube.com/watch?v=VCgUHJomPuM)**
 
-Bitcoin has bounced hard off the lows. Chasing shorts here is risky. But there's one level that changes everything: 65777. On the ...
+Henrik Zeberg joins Ran on for a deep dive into the current macro landscape, sharing his outlook on crypto, equities, the US dollar ...
 
-📺 Justin Bennett
+📺 Crypto Insider
 
-👁️ 1K • 👍 38 • ⏱️ 0:46 • 12h ago
+👁️ 23K • 👍 1K • 💬 89 • ⏱️ 33:17 • 1d ago
 
 ---
 
-**[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
+**[Brian Armstrong on Bitcoin, Anthropic Drops Fable 5 &amp; Mythos 5, NewLimit&#39;s $435M Age-Reversal | 264](https://www.youtube.com/watch?v=isd2y37j8v4)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, government stakes in AI companies, the OpenAI IPO ...
 
-📺 Crypto Capital Venture
+📺 Peter H. Diamandis
 
-👁️ 11K • 👍 647 • 💬 351 • ⏱️ 11:58 • 1d ago
+👁️ 66K • 👍 2K • 💬 939 • ⏱️ 1:57:02 • 22h ago
 
 ---
 

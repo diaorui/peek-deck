@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-12T11:02:06.152678+00:00'
+updated: '2026-06-12T14:19:58.982804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 12, 2026 at 11:02 UTC  
+**Last Updated:** June 12, 2026 at 14:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Hey everyone, Daniel here, we’re building Vastnaut One, a 4x4 exoskeleton desi
 
 Just a quick demo to see how fast my hand is! I started with a baseline 5 second, finger-to-thumb opposition cycle and increased the speed until the fingers started to lose contact. The pinky starts to lose contact with the thumb at around 12x and the rest of the fingers barely make contact at 14x and beyond. Having the fingers be tendon driven does help a good bit in reducing inertia to get these max achievable speeds. Although, I'm not sure there's even a good reason to be moving this fast..
 
-1d ago
+2d ago
 
 ---
 
@@ -74,7 +74,7 @@ ex-Huggingface pre-training team just announce a new library create for robotics
 
 I am 16 years old and have absolutely no experience with Linux, and I am looking for a ROS 2 course. While the courses offered by The Construct seem quite comprehensive, I am concerned about some issues others have reported, such as incorrect quizzes, shallow content, or general quality problems. If you have experience with their courses, could you share how it went, or would you recommend other structured courses instead?
 
-19h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=3372
 
 Hello, I am trying to get back into the Robotics industry after years as an SWE and find a job. I am based in Chicago so I was thinking of getting an all access pass to network for a job, and take some courses. I am currently unemployed. Does anyone know the best way to network at these things? Are the courses worth it? Does anyone have a coupon to reduce the cost? i would be paying out of pocket and I am unemployed so i figured i would ask. Thanks for your advice!
 
-23h ago
+1d ago
 
 ---
 
@@ -115,42 +115,6 @@ Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 2
 **[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
-
-Barron's • 20h ago
-
----
-
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs?srnd=phx-businessweek)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[India’s workers are training AI robots to take their jobs](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)**
-
-Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
-
-Al Jazeera • 1d ago
-
----
-
-**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
-
-They were impressive, but could they ever feel human?
-
-The Atlantic • 20h ago
-
----
-
-**[NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)**
-
-A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
-
-NASA Science (.gov) • 16h ago
 
 ---
 
@@ -176,11 +140,47 @@ Business Wire • 1d ago
 
 ---
 
-**[China builds 85% of the world’s humanoids robots for cheap at scale, but finding buyers is tricky](https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/)**
+**[India’s workers are training AI robots to take their jobs](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)**
 
-While there's a viable commercial path forward in industry and logistics, experts say demand for humanoids lags building capacity.
+Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
 
-Fortune • 2d ago
+Al Jazeera • 1d ago
+
+---
+
+**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
+
+They were impressive, but could they ever feel human?
+
+The Atlantic • 23h ago
+
+---
+
+**[NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)**
+
+A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
+
+NASA Science (.gov) • 19h ago
+
+---
+
+**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
+
+Barron's • 23h ago
+
+---
+
+**[Humanoid Robot Manufacturer EngineAI Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[How 3 E Network wants to power eldercare robots with edge AI](https://www.stocktitan.net/news/MASK/3-e-network-ceo-outlines-strategic-vision-for-robotics-highlighting-u6ip2cmi4tzm.html)**
+
+CEO Dr. Tingjun Yang details plans for a pan-robotics compute platform, eldercare robots and a developer-focused ecosystem after deal with Aladdin Alaris AI.
+
+Stock Titan • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ The humanoid robot race just left the demo stage — and entered the factory flo
 
 📺 The AI Nexus
 
-👁️ 461 • 👍 34 • ⏱️ 28:04 • 7h ago
+👁️ 617 • 👍 45 • 💬 3 • ⏱️ 28:04 • 10h ago
 
 ---
 
@@ -214,17 +214,27 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 74K • 👍 1K • 💬 131 • ⏱️ 6:09 • 2d ago
+👁️ 77K • 👍 1K • 💬 134 • ⏱️ 6:09 • 2d ago
 
 ---
 
-**[Robots are getting crazy good at soccer (football)  #robotics #robots #humanoidrobots #tech](https://www.youtube.com/watch?v=-F7nUaADyms)**
+**[This Makes NO SENSE... Thunder Bagliore CRUSHING The Strongest Mechs | War Robots](https://www.youtube.com/watch?v=3holEGTbl18)**
 
-Robots are getting pretty good at soccer/football. In anticipation of the 2026 World Cup games, here's a compilation featuring ...
+Thunder are back! This doesnt even make sense but it works. The thunder have to be some of the oldest weapons in the game, ...
 
-📺 Kalil 4.0
+📺 PREDATOR WR
 
-👁️ 2K • 👍 32 • 💬 1 • ⏱️ 0:42 • 11h ago
+👁️ 2K • 👍 138 • 💬 30 • ⏱️ 13:43 • 2h ago
+
+---
+
+**[Our Robot Dog Missed a Step... Here&#39;s What Happened Next](https://www.youtube.com/watch?v=nljO7jdemiU)**
+
+What happens when a robot dog misses a stair? In this real-world test, our BPX quadruped robot encountered an unexpected foot ...
+
+📺 MirrorMe
+
+👁️ 998 • 👍 5 • ⏱️ 0:13 • 4h ago
 
 ---
 
@@ -234,47 +244,17 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 📺 Firstpost
 
-👁️ 3K • 👍 41 • 💬 27 • ⏱️ 6:29 • 1d ago
+👁️ 3K • 👍 42 • 💬 27 • ⏱️ 6:29 • 1d ago
 
 ---
 
-**[New Humanoid Robot Trio Just Solved This MAJOR AI Problem ($13,271 HUMANOID)](https://www.youtube.com/watch?v=tz-eOi-SBzQ)**
+**[Unitree&#39;s Dancing Robots STUN America&#39;s Got Talent!](https://www.youtube.com/watch?v=zZKIKz0RsHY)**
 
-New humanoid robot trio models from Noble Machines, Galaxea, and Astrobot just shook up the AI news landscape with massive ...
+Unitree amazed the audience on America's Got Talent with an incredible robot dance performance alongside a 26-year-old ...
 
-📺 AI News
+📺 The Construct Robotics Institute
 
-👁️ 3K • 👍 66 • 💬 5 • ⏱️ 8:05 • 6d ago
-
----
-
-**[Getting Started with NVIDIA Cosmos 3 for Robotics and Physical AI | Cosmos Labs](https://www.youtube.com/watch?v=9XZeMdnI79I)**
-
-Join NVIDIA for an introduction to Cosmos 3, the latest evolution of NVIDIA's world foundation model platform for physical AI.
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 130 • 💬 1 • ⏱️ 1:03:54 • 17h ago
-
----
-
-**[Thousands Are Pre-Ordering This Human-Like Robot Before It&#39;s Even Released 🤖](https://www.youtube.com/watch?v=4OaA9wdyaiQ)**
-
-China's UBTECH Robotics has unveiled the U1 humanoid robot series, featuring realistic human-like movement, AI-powered ...
-
-📺 Mistmap
-
-👁️ 725 • 👍 10 • 💬 1 • ⏱️ 0:54 • 11h ago
-
----
-
-**[This Robot Can Grab Anything in Orbit 🛰️](https://www.youtube.com/watch?v=G7lqRuOUXkw)**
-
-There are 27000 pieces of tracked debris orbiting Earth right now. At 28000 km/h, a 1cm fragment hits with the force of a hand ...
-
-📺 KF Labs
-
-👁️ 137K • 👍 1K • 💬 44 • ⏱️ 0:05 • 1d ago
+👁️ 104K • 👍 1K • 💬 181 • ⏱️ 5:12 • 6d ago
 
 ---
 
@@ -285,6 +265,26 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 📺 New York Post
 
 👁️ 329K • 👍 6K • 💬 5K • ⏱️ 2:17 • 5d ago
+
+---
+
+**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
+
+500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
+
+📺 KF Labs
+
+👁️ 4K • 👍 154 • 💬 2 • ⏱️ 0:05 • 5h ago
+
+---
+
+**[Unitree Robot + Human Dancer on AGT = 🔥  #robotics #robot #agt #ai #unitree](https://www.youtube.com/watch?v=t1ya7bTuTEc)**
+
+A brief description of the video... You'll learn: - How to - How to - How to Related courses & tutorials: * * -- #ROS #Robot ...
+
+📺 The Construct Robotics Institute
+
+👁️ 13K • 👍 196 • 💬 22 • ⏱️ 0:57 • 1d ago
 
 ---
 
