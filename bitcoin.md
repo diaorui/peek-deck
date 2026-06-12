@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-12T21:17:07.541466+00:00'
+updated: '2026-06-12T22:57:34.605342+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 21:17 UTC  
+**Last Updated:** June 12, 2026 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,464.11
+### $63,513.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +4.4%  
-**30d:** -21.6%  
-**90d:** -12.6%  
-**1y:** -40.0%  
+**24h:** -0.1%  
+**7d:** +4.3%  
+**30d:** -21.7%  
+**90d:** -12.7%  
+**1y:** -40.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1276.38B
+**Market Cap:** $1272.07B
 Rank #1
 
-**Circulating Supply:** 20,041,862 BTC
+**Circulating Supply:** 20,041,937 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.5%
+-49.7%
 
 **All-Time Low:** $67.81
-+93861.1%
++93504.2%
 
 ---
 
@@ -161,35 +161,39 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, SOL price news: Bitcoin pops as Trump signals an end to the Iran war](https://www.coindesk.com/markets/2026/06/12/bitcoin-climbs-back-into-the-green-as-trump-signals-an-end-to-the-iran-war)**
-
-A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.
-
-CoinDesk • 16h ago
-
----
-
-**[US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows](https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume)**
-
-BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trading volume, with a current 73.7% market share.
-
-The Block • 8h ago
-
----
-
 **[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
 
 Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Forbes • 3h ago
+Forbes • 5h ago
 
 ---
 
-**[Live BTC prices: SpaceX rally loses momentum, while bitcoin trades near $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
+**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
 
-Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
 
-CoinDesk • 21m ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
+
+WSJ • 8h ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Market Wrap: Bitcoin Stalls As SpaceX IPO Takes Centre Stage](https://finance.yahoo.com/markets/crypto/articles/market-wrap-bitcoin-stalls-spacex-212800890.html)**
+
+Bitcoin (CRYPTO: $BTC) and other cryptocurrencies barely budged over the past trading week as investors and traders...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +201,7 @@ CoinDesk • 21m ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
@@ -205,35 +209,29 @@ CNBC • 3h ago
 
 Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
 
-galaxy.com • 16h ago
+galaxy.com • 18h ago
 
 ---
 
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+**[Live BTC prices: SpaceX rally loses momentum, while bitcoin trades near $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
 
-Bloomberg.com • 6h ago
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+
+CoinDesk • 1h ago
+
+---
+
+**[JPMorgan says debasement trade retreat has 'accelerated' for bitcoin](https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold)**
+
+The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.
+
+The Block • 1d ago
 
 ---
 
 **[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
 MarketWatch • 1d ago
-
----
-
-**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
-
-Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
-
-Bitcoin Magazine • 7h ago
-
----
-
-**[Current price of Bitcoin for June 10, 2026](https://fortune.com/article/price-of-bitcoin-06-10-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
 
 ---
 
@@ -291,7 +289,7 @@ Bitcoin fell as low as $59,227 overnight before recovering, steadying after Frid
 
 The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used to claim "lost" assets controlled by private keys.
 
-⬆️ 4 • 💬 0 • 4d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
+⬆️ 4 • 💬 0 • 5d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
 
 ---
 
@@ -315,7 +313,7 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 Federal prosecutors want another chance to convict Tornado Cash developer Roman Storm, asking a judge to schedule a retrial this October.
 
-⬆️ 6 • 💬 0 • 2d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
+⬆️ 6 • 💬 0 • 3d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
 
 ---
 
@@ -329,7 +327,7 @@ Bitcoin is showing a hidden bullish signal that could trigger a massive relief r
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 2K • 💬 173 • ⏱️ 14:32 • 9h ago
+👁️ 39K • 👍 3K • 💬 183 • ⏱️ 14:32 • 11h ago
 
 ---
 
@@ -339,37 +337,17 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 424 • ⏱️ 20:54 • 1d ago
+👁️ 23K • 👍 2K • 💬 366 • ⏱️ 20:54 • 1d ago
 
 ---
 
-**[BITCOIN HISTORY IS EXACTLY REPEATING...](https://www.youtube.com/watch?v=4JgEbFXHulo)**
+**[SpaceX + Bitcoin: This Could Change Everything](https://www.youtube.com/watch?v=UOxo1N_UA1E)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Crypto Rover
+📺 CryptosRUs
 
-👁️ 10K • 👍 704 • 💬 27 • ⏱️ 9:35 • 13h ago
-
----
-
-**[Is a New Bitcoin Low Coming Soon?](https://www.youtube.com/watch?v=09YFg6LdNSY)**
-
-In this video I break down the latest Bitcoin price action to determine whether we are witnessing the start of a wave 2 bounce or if ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 407 • 💬 16 • ⏱️ 10:51 • 7h ago
-
----
-
-**[Trump Shocking News [Crypto Reacts]](https://www.youtube.com/watch?v=TVKf7vAUQxA)**
-
-Trump Iran news, Bitcoin charts, Ethereum, Solana, Micron, and more BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 572 • 💬 56 • ⏱️ 16:44 • 10h ago
+👁️ 17K • 👍 867 • 💬 65 • ⏱️ 1:10:59 • 7h ago
 
 ---
 
@@ -379,27 +357,7 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 6K • 👍 1K • 💬 36 • ⏱️ 1:24 • 4h ago
-
----
-
-**[BITCOIN IS ABOUT TO BREAK OUT !!!!! 🚀](https://www.youtube.com/watch?v=eHtDXpmcwTg)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 3K • 👍 182 • 💬 13 • ⏱️ 4:35 • 8h ago
-
----
-
-**[Bitcoin Rejection Is Warning That A Big Drop Is Incoming (Prepare)](https://www.youtube.com/watch?v=pqChX17fo2s)**
-
-Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In today's episode, Sheldon breaks down the key signals ...
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 481 • 💬 15 • ⏱️ 17:44 • 11h ago
+👁️ 15K • 👍 2K • 💬 56 • ⏱️ 1:24 • 5h ago
 
 ---
 
@@ -409,7 +367,37 @@ This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on W
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 8:18 • 23h ago
+👁️ 32K • 👍 2K • 💬 154 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[Bitcoin Rejection Is Warning That A Big Drop Is Incoming (Prepare)](https://www.youtube.com/watch?v=pqChX17fo2s)**
+
+Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In today's episode, Sheldon breaks down the key signals ...
+
+📺 Crypto Banter
+
+👁️ 8K • 👍 485 • 💬 15 • ⏱️ 17:44 • 13h ago
+
+---
+
+**[Bitcoin: The Cost Basis of the Network](https://www.youtube.com/watch?v=R9vEpIpyj2s)**
+
+Let's discuss an on-chain metric; namely, the Bitcoin realized price. Let's discuss how it can be used in identifying market cycle ...
+
+📺 Benjamin Cowen
+
+👁️ 55K • 👍 4K • 💬 154 • ⏱️ 4:14 • 1d ago
+
+---
+
+**[Brian Armstrong on Bitcoin, Anthropic Drops Fable 5 &amp; Mythos 5, NewLimit&#39;s $435M Age-Reversal | 264](https://www.youtube.com/watch?v=isd2y37j8v4)**
+
+This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, government stakes in AI companies, the OpenAI IPO ...
+
+📺 Peter H. Diamandis
+
+👁️ 78K • 👍 2K • 💬 955 • ⏱️ 1:57:02 • 1d ago
 
 ---
 
@@ -419,7 +407,17 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 4K • 💬 156 • ⏱️ 10:27 • 17h ago
+👁️ 51K • 👍 4K • 💬 160 • ⏱️ 10:27 • 19h ago
+
+---
+
+**[Has Bitcoin NEVER Been This Cheap?!?](https://www.youtube.com/watch?v=BPrtShHLeEY)**
+
+Bitcoin is down 50% from its all-time high, the Fear & Greed Index just printed an 8, and your brother-in-law is back to talking ...
+
+📺 Swan Bitcoin
+
+👁️ 9K • 👍 639 • 💬 102 • ⏱️ 18:59 • 1d ago
 
 ---
 

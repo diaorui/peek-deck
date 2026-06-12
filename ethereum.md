@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-12T21:17:07.547535+00:00'
+updated: '2026-06-12T22:57:34.610594+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 21:17 UTC  
+**Last Updated:** June 12, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +6.2%  
-**30d:** -27.0%  
-**90d:** -23.5%  
-**1y:** -35.4%  
+**24h:** -0.7%  
+**7d:** +5.9%  
+**30d:** -27.2%  
+**90d:** -23.7%  
+**1y:** -35.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.29B
+**Market Cap:** $200.50B
 Rank #2
 
 **Circulating Supply:** 120,684,283 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-66.4%
 
 **All-Time Low:** $0.43
-+385419.9%
++383623.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Like you know that feeling of knowing what something is and reading alot about it and knowing its significance but struggling to explain it simply to someone i feel like ethereum is exactly that. How do you explain ethereum to a child, as they say if you cant explain it to a child you dont understand it, how do you explain the greatness and future of ethereum to someone.
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 8h ago
 
 The market needs fresh inflows and it might become the foundation for a price recovery.
 
-U.Today • 21h ago
+U.Today • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ U.Today • 21h ago
 
 Demand for Ethereum (CRYPTO: $ETH) staking is soaring as investors increasingly seek rewards from cryptocurrencies....
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 2d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 2h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -212,7 +212,7 @@ Seeking Alpha • 1d ago
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -220,7 +220,7 @@ Bloomberg.com • 10h ago
 
 Centrifuge brings AAA CLO fund JAAA to Ethereum as collateral on Morpho, enabling leveraged wJAAA/USDC strategies with 98% LLTV and $1B in AUM.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -228,7 +228,7 @@ Crypto Briefing • 10h ago
 
 Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
 
-FXStreet • 18h ago
+FXStreet • 20h ago
 
 ---
 
@@ -242,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 339 • 💬 253 • ⏱️ 12:37 • 1d ago
+👁️ 6K • 👍 340 • 💬 251 • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -252,17 +252,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 156 • 💬 42 • ⏱️ 16:46 • 1d ago
-
----
-
-**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
-
-Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
-
-📺 Alvarburn
-
-👁️ 2K • 👍 240 • 💬 6 • ⏱️ 13:24 • 10h ago
+👁️ 4K • 👍 158 • 💬 40 • ⏱️ 16:46 • 1d ago
 
 ---
 
@@ -272,7 +262,17 @@ Check out FortisX Liquidity Pools Sign up here ▻ https://fortisx.fi/kol/firehu
 
 📺 FireHustle
 
-👁️ 2K • 👍 154 • 💬 44 • ⏱️ 10:13 • 2d ago
+👁️ 2K • 👍 154 • 💬 31 • ⏱️ 10:13 • 2d ago
+
+---
+
+**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
+
+Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
+
+📺 Alvarburn
+
+👁️ 3K • 👍 267 • 💬 8 • ⏱️ 13:24 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 648 • 💬 348 • ⏱️ 11:58 • 2d ago
+👁️ 12K • 👍 707 • 💬 335 • ⏱️ 11:58 • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 769 • 💬 40 • ⏱️ 2:28 • 2d ago
+👁️ 13K • 👍 776 • 💬 40 • ⏱️ 2:28 • 2d ago
 
 ---
 
@@ -300,17 +300,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitco
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 29K • 👍 2K • 💬 141 • ⏱️ 22:40 • 1d ago
-
----
-
-**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 457 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
+👁️ 31K • 👍 2K • 💬 145 • ⏱️ 22:40 • 1d ago
 
 ---
 
@@ -320,17 +310,27 @@ XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, 
 
 📺 NCashOfficial
 
-👁️ 6K • 👍 466 • 💬 55 • ⏱️ 15:23 • 1d ago
+👁️ 6K • 👍 467 • 💬 54 • ⏱️ 15:23 • 1d ago
 
 ---
 
-**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
+**[Bitcoin vs Ethereum 2026 - Crypto Market Update on $SPXC SpaceX Historic Day](https://www.youtube.com/watch?v=f2M7VP3BDJ4)**
 
-SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
+Patreon: https://www.patreon.com/CryptoRyan17 X: https://x.com/CryptoRyan17 #Crypto Market Update #BTC #ethereum Not ...
 
-📺 CryptoWendyO
+📺 CryptoRyan17
 
-👁️ 6K • 👍 318 • 💬 30 • ⏱️ 21:04 • 1d ago
+👁️ 153 • 👍 8 • ⏱️ 11:54 • 5h ago
+
+---
+
+**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 467 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
 
 ---
 
