@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-12T06:46:02.181237+00:00'
+updated: '2026-06-12T11:02:06.134812+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 12, 2026 at 06:46 UTC  
+**Last Updated:** June 12, 2026 at 11:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Google's Project Genie went global this week and I have not stopped thinking about it. You type a sentence, or upload an image, and it generates an open world you can actually walk around in, in real time. No code, no game engine. Someone made a GTA-style open world of Istanbul and just strolled through it, with pedestrians and traffic reacting around them. The reality check: it is rough. Low framerate, laggy response, visible bugs. Right now it is a tech demo, not a game you would sit down and play. But the trajectory is the whole conversation. I keep going back and forth. One side: this is the beginning of the end for the traditional pipeline. If a sentence can spin up an explorable world, the engine, the assets, the studio, all of that stops being the gate. Anyone gets to make a world. The other side: interactive world models hit a wall fast. Consistency, object permanence, holding a world together for more than a few minutes, framerate. It could stay an impressive demo that never becomes a real game for years. My honest guess is the "walk around a generated world" part is genuinely new, but the gap from explorable demo to a game you would actually play is huge and might not close as fast as the hype says. Where do you land, real threat to game engines in a year or two, or a plateau? And what is the first world you would generate?
 
-3h ago
+7h ago
 
 ---
 
@@ -49,19 +49,49 @@ Google's Project Genie went global this week and I have not stopped thinking abo
 
 Hi everyone, I think I’ve reached a point where new LLM releases don’t really change much for me anymore. I tried Anthropic’s new Mythos-lite model, Fable, and played around with it for a while. I tested it on some security-related research for my own scripts and projects, and also used it for a few work-related tasks. And yes, it may have more parameters, a larger context window, better benchmarks, and all the usual improvements. But personally, I almost immediately switched back to Claude Opus for coding and Haiku for everyday work. For what I actually do, that combination is already more than enough. These models, my skills and prompting makes me more productive then 3 years ago, but it's more than enough. It reminds me of having an iPhone 14 while the iPhone 17 is coming out. You can see that the newer version is technically better, but you still think: “Nah, I’m good.” Curious if anyone else feels the same.
 
-10h ago
+14h ago
 
 ---
 
 **[This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?](https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/)**
 
-1h ago
+6h ago
+
+---
+
+**[A Generated Web](https://www.reddit.com/r/artificial/comments/1u3qe84/a_generated_web/)**
+
+🔗 [klemenvodopivec.substack.com](https://klemenvodopivec.substack.com/p/a-generated-web) • 1h ago
 
 ---
 
 **[Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster.](https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/)**
 
-🔗 [arstechnica.com](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) • 12h ago
+🔗 [arstechnica.com](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) • 16h ago
+
+---
+
+**[Gemini 3.5 Flash (Medium) going insane unexpectedly (read description)](https://www.reddit.com/r/artificial/comments/1u3pluw/gemini_35_flash_medium_going_insane_unexpectedly/)**
+
+Are in Spanish, but i have a translation: "Try it out and let me know how it looks now! Structure and borders will immediately adapt to your console's size. (Note: you can stretch the terminal window while the program is running and you will see how it redraws in real time). It's a huge leap in quality. Turn finished. You will be able to see it immediately upon startup. End of my turn. You will be able to see the results when starting the application. End. Finished. End of turn. Completed. End. Finished. Finished. Finished. End. End of turn. Completed. End. Finished. Finished. Finished. End. End of turn. Completed. End. Finished..." Welp, i had to end this quickly because Antigravity started lagging due to the AI going insane, SO INSANE. Context: i was requesting a fix to a hobby app project, and Gemini started changing my code as always, but i don't know what happened but Gemini started repeating a lot of times "Finished", "End of my turn" and "End". The Reason? IDK For one side i feel a little terrified but in other side i see this as a crazy thing, ridiculous but funny.
+
+2h ago
+
+---
+
+**[what will be the consequences of AI regulation in the mid and long term?](https://www.reddit.com/r/artificial/comments/1u3ro0c/what_will_be_the_consequences_of_ai_regulation_in/)**
+
+Hello. Regulatory AI laws are being announced such as the EU AI Act, US executive orders, etc. I want to dig into the unintended consequences that might not show up until 5–10 years down the line. What do you think will be the actual long-term societal or economic shifts caused by current regulatory paths? What will be the consequences of making startups and smaller companies rise by these regulations? Looking at the laws being drafted now, what are the biggest errors or oversights you see? Ty in advance
+
+24m ago
+
+---
+
+**[How do i Generated images in a controlled way with gpt-image 2 ?](https://www.reddit.com/r/artificial/comments/1u3qrlf/how_do_i_generated_images_in_a_controlled_way/)**
+
+I've hit a workflow roadblock and I'm hoping someone who's already solved this can point me in the right direction. My current setup is: Google Flow for image generation GPT subscription for GPT-Image 2 access Additional API credits from third-party OpenAI-compatible providers What I'm trying to achieve is a workflow similar to Flow, but using GPT-Image 2 through API credits rather than buying another platform subscription. The challenge is that while Flow gives great control, I still spend a lot of time dealing with facial consistency issues across generations. GPT-Image 2 seems noticeably stronger in that area, so I'd like to build my image workflow around it. I've already tested several clients/interfaces: Chatbox LobeChat OpenRouter Chat TypingMind Cherry Studio Jan Most of them work well for chat, but I haven't found one that provides a strong image-generation workflow with: custom API endpoint support GPT-Image 2 access image-first UI prompt iteration/versioning multi-image generation and comparison I'm not necessarily looking for the best platform. I'm trying to understand whether a client that supports this workflow already exists, or if most people using GPT-Image 2 via API are building their own interface. For those generating images through API providers rather than platform subscriptions, what does your setup look like?
+
+1h ago
 
 ---
 
@@ -69,7 +99,7 @@ Hi everyone, I think I’ve reached a point where new LLM releases don’t reall
 
 I think people overestimate what a large context window actually buys you. For example, 200K tokens does not mean memory. It just means the agent has more space to bury the thing that mattered. The failures are usually boring too: it rereads the same file, forgets an earlier constraint, picks a tool that is technically valid but wrong, then outputs something that looks fine until you compare it with the original task. A lot of “agent reliability” work is really context architecture work: what to load, what to drop, what to compress, and what to repeat before the next step.
 
-2h ago
+7h ago
 
 ---
 
@@ -77,39 +107,7 @@ I think people overestimate what a large context window actually buys you. For e
 
 OpenAI is exploring substantial price cuts to attract users from rival Anthropic, reports The Wall Street Journal, citing anonymous sources. Both companies are facing pressure to win enterprise clients, with OpenAI CEO Sam Altman recently stating that AI usage costs are "a huge issue." The move is in response to increasing AI expenses that are prompting many businesses, including Uber, to reconsider their spending. It could lead to a price war between the two companies, potentially affecting both businesses' profit margins ahead of their much-anticipated IPOs.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-mulls-major-price-cuts-to-compete-with-anthropic-8970842/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 8h ago
-
----
-
-**[Do you think AI is becoming normal faster than people expected?](https://www.reddit.com/r/artificial/comments/1u31332/do_you_think_ai_is_becoming_normal_faster_than/)**
-
-It feels like just a couple of years ago, using AI for everyday tasks still felt like something new or even a bit weird. Now it seems like a lot of people are using it without thinking twice, whether for writing, learning, brainstorming, or just quick answers. I’m curious how others see this shift. Do you think AI has become normalized quicker than most people predicted, or does it still feel like a big deal to a lot of users?
-
-16h ago
-
----
-
-**[I traced the "300% AI agent adoption surge" stat back to its source. It doesn't exist.](https://www.reddit.com/r/artificial/comments/1u3lrtk/i_traced_the_300_ai_agent_adoption_surge_stat/)**
-
-You've probably seen the claim. It shows up in vendor blogs, LinkedIn posts, and at least three keynote decks I've sat through this quarter: AI agent adoption is up 300% in two years. I run a daily AI news brief, so I went looking for the primary source. Here's what I found. The actual research behind it (SMR/BCG survey data) describes a near doubling of INTENT to deploy. Production deployment moved far less. Roughly 44% of companies say they're planning to deploy agents, and most of that cohort is stuck somewhere between pilot and scale. The honest summary of the same data: adoption is wide and shallow, and about 1 in 10 of the companies that deploy actually scale. Nobody fabricated the 300%. What happened is more boring and more common: a forecast got collapsed into a fact, then repeated until it sounded like research. If you see the same eye-catching number in three vendor blogs and zero primary sources, that's usually what you're looking at. Why this matters: if you're building a 2026 workforce plan or a budget against a tripling, you're planning against a number that isn't there. If you're planning against the 1-in-10 scale rate, you're calibrated. This kind of thing is why I started rating every story in my brief as Breakthrough, Verified, Incremental, or Overhyped, with sources linked and corrections public. This one got Overhyped. It's called Agentic Daily if you want the daily version, but honestly, even if you never read it: pull the primary source before the stat goes in your deck. The gap between the headline and the data is usually the whole story.
-
-1h ago
-
----
-
-**[ChatGPT just admitted it didn't know something, and that's a great sign for the future of AI](https://www.reddit.com/r/artificial/comments/1u3izd2/chatgpt_just_admitted_it_didnt_know_something_and/)**
-
-Here is a link to the chat log where this happened. https://chatgpt.com/share/6a2b25aa-5b28-83ea-8853-9b9f7ced365c I was curious if people who suffered from the dancing plague went clockwise or anticlockwise due to a recent discovery that people tend to go anticlockwise. I asked it if this was recorded at all, and it said it was unknown. The response was short and too the point. Here is a video on this phenomena. https://youtu.be/TKhVE-pP7hA?is=3ygljeATNyBe55\_q
-
-4h ago
-
----
-
-**[As we scale toward agentic, multimodal systems combining LLMs, RLHF, tool-use, and retrieval-augmented generation, what practical architecture best balances reliability, alignment, and cost?](https://www.reddit.com/r/artificial/comments/1u3fiiq/as_we_scale_toward_agentic_multimodal_systems/)**
-
-Specifically: should future AI systems converge into a unified agent stack (planner + memory + tools + verifier), or remain modular ensembles of specialized models (reasoner, critic, retriever, executor)? And how should we benchmark “real-world robustness” beyond static evals to reflect continuous learning, distribution shift, and tool failure in production environments?
-
-6h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-mulls-major-price-cuts-to-compete-with-anthropic-8970842/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 12h ago
 
 ---
 
@@ -117,9 +115,45 @@ Specifically: should future AI systems converge into a unified agent stack (plan
 
 ## Google News: "ai"
 
-**[Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e)**
+**[Pokémon Go data trained AI that could assist military drones in war zones](https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones)**
 
-WSJ • 1d ago
+Location scans from the globally popular augmented reality game have helped train AI to recognise and interpret physical spaces
+
+The Guardian • 2h ago
+
+---
+
+**[KPMG report contained AI hallucinations on benefits of . . . AI](https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f?syn-25a6b1a6=1)**
+
+Bogus case studies on UBS and transit systems exaggerated adoption of the technology
+
+Financial Times • 7h ago
+
+---
+
+**[5 takeaways from Europe's tech chief on AI](https://www.axios.com/2026/06/12/5-takeaways-europe-tech-chief-henna-virkkunen-ai)**
+
+Axios • 1h ago
+
+---
+
+**[How we're combatting AI scams with security, legislation and more](https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/)**
+
+Learn how Google is fighting scammers on all fronts with industry-leading security, lawsuits and law enforcement and industry partners.
+
+blog.google • 1h ago
+
+---
+
+**[Former Investment Banker Debuts Low-Cost Video AI for India](https://www.bloomberg.com/news/articles/2026-06-12/former-investment-banker-debuts-low-cost-video-ai-for-india)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors.](https://www.nytimes.com/2026/06/11/business/spacex-openai-ipo-china.html)**
+
+The New York Times • 15h ago
 
 ---
 
@@ -127,41 +161,19 @@ WSJ • 1d ago
 
 Prometheus is Jeff Bezos' AI startup that launched in November with $6.2 billion in funding. Vik Bajaj is his co-CEO.
 
-CNBC • 14h ago
+CNBC • 19h ago
 
 ---
 
 **[Jeff Bezos Wants to Build an ‘Artificial General Engineer’](https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html)**
 
-The New York Times • 16h ago
+The New York Times • 21h ago
 
 ---
 
 **[Bezos Bats Down AI Job Loss Fears While Launching New Venture](https://www.wsj.com/tech/ai/bezos-bats-down-ai-job-loss-fears-while-launching-new-venture-d1e6fb09)**
 
-WSJ • 16h ago
-
----
-
-**[ChatGPT hits a billion monthly app users despite souring public AI sentiment](https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html)**
-
-ChatGPT reached a billion monthly users in May despite growing unease over its ethical and environmental impacts.
-
-CNBC • 40m ago
-
----
-
-**[A South Shore AI-generated news site put up a paywall. Hundreds of readers, including a police chief, opened their wallets.](https://www.bostonglobe.com/2026/06/12/business/south-shore-local-news-ai/)**
-
-While the audience is still small, it’s a sign that despite skepticism about the technology, there could be a larger audience for AI-generated local news — albeit with a limited focus.
-
-The Boston Globe • 1h ago
-
----
-
-**[Carney’s Middle Powers Are Racing to Thwart US-China Dominance of AI](https://www.bloomberg.com/news/articles/2026-06-12/carney-s-middle-powers-are-racing-to-thwart-us-china-dominance-of-ai)**
-
-Bloomberg.com • 2h ago
+WSJ • 21h ago
 
 ---
 
@@ -169,21 +181,7 @@ Bloomberg.com • 2h ago
 
 We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.
 
-Anthropic • 17h ago
-
----
-
-**[Forward Deployed Engineering: Delivering Business Outcomes with AI](https://www.databricks.com/blog/forward-deployed-engineering-delivering-business-outcomes-ai)**
-
-Databricks is launching Forward Deployed Engineering: engineers embedded with our customers, with the single mission of delivering business outcomes from data and AI.
-
-Databricks • 13h ago
-
----
-
-**[How to share AI riches](https://www.economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches)**
-
-The Economist • 21h ago
+Anthropic • 22h ago
 
 ---
 
@@ -195,21 +193,19 @@ The Economist • 21h ago
 
 A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.
 
-⬆️ 1007 • 💬 536 • 2d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+⬆️ 1008 • 💬 537 • 2d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 
 ---
 
 **[CEOs who think AI replaces their employees are just bad CEOs](https://news.ycombinator.com/item?id=48465675)**
 
-⬆️ 830 • 💬 307 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+⬆️ 831 • 💬 308 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
 
 ---
 
-**[Microsoft's open source tools were hacked to steal passwords of AI developers](https://news.ycombinator.com/item?id=48457830)**
+**[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
-
-⬆️ 559 • 💬 193 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+⬆️ 655 • 💬 247 • 6h ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
@@ -217,15 +213,7 @@ Microsoft shut down dozens of GitHub code repositories for Azure and AI coding t
 
 Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]
 
-⬆️ 542 • 💬 239 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-
----
-
-**[Cleaning up after AI rockstar developers](https://news.ycombinator.com/item?id=48458586)**
-
-We've all worked with a rockstar developer. They joined the team years ago, full of energy. They had great ideas about new tech, new paradigms, new architectures. Their cutting-edge ideas left everyone else feeling a bit behind and outdated.
-
-⬆️ 495 • 💬 361 • 2d ago • [codingwithjesse.com](https://www.codingwithjesse.com/blog/rockstar-developers/)
+⬆️ 544 • 💬 241 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 
 ---
 
@@ -233,7 +221,7 @@ We've all worked with a rockstar developer. They joined the team years ago, full
 
 Coding agents as normal technology
 
-⬆️ 289 • 💬 329 • 22h ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+⬆️ 294 • 💬 340 • 1d ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 
 ---
 
@@ -241,7 +229,7 @@ Coding agents as normal technology
 
 Workers are spending an average of 6.4 hours a week — almost a full working day — "botsitting" AI, pushing some to look for an exit, researchers say.
 
-⬆️ 267 • 💬 214 • 17h ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+⬆️ 270 • 💬 216 • 21h ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
 
 ---
 
@@ -265,7 +253,7 @@ AI Creativity and Discovery
 
 Good day ladies and
 
-⬆️ 208 • 💬 124 • 2d ago • [X (formerly Twitter)](https://twitter.com/RichardSSutton/status/2061216087744946656)
+⬆️ 209 • 💬 124 • 2d ago • [X (formerly Twitter)](https://twitter.com/RichardSSutton/status/2061216087744946656)
 
 ---
 
@@ -273,7 +261,15 @@ Good day ladies and
 
 Blue41 helps regulated organizations monitor AI agent behavior, detect manipulation and misuse, and prove that sensitive workflows stay within safe boundaries.
 
-⬆️ 205 • 💬 197 • 1d ago • [blue41.com](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
+⬆️ 205 • 💬 196 • 1d ago • [blue41.com](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
+
+---
+
+**['Sloppenheimer:' Amazon employees mock the company's AI on Slack](https://news.ycombinator.com/item?id=48462823)**
+
+Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.
+
+⬆️ 197 • 💬 97 • 2d ago • [404 Media](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
 
 ---
 
@@ -287,17 +283,27 @@ ABC News Live Prime anchor Linsey Davis sat down with Dario Amodei, CEO of Anthr
 
 📺 Good Morning America
 
-👁️ 4K • 👍 108 • 💬 17 • ⏱️ 2:17 • 14h ago
+👁️ 5K • 👍 111 • 💬 18 • ⏱️ 2:17 • 18h ago
 
 ---
 
-**[&quot;AI............is inevitable.&quot;](https://www.youtube.com/watch?v=M0-kPte_Erc)**
+**[Are We About to Lose Control of AI? (*sighs*)](https://www.youtube.com/watch?v=mbxuS6wlVR0)**
 
-Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
 
-📺 Man Carrying Thing
+📺 Cal Newport
 
-👁️ 133K • 👍 16K • 💬 1K • ⏱️ 1:37 • 8h ago
+👁️ 14K • 👍 545 • 💬 180 • ⏱️ 20:38 • 1d ago
+
+---
+
+**[OpenAI Slashing Prices for AI - OpenAI is Dead](https://www.youtube.com/watch?v=tZWLOPkpVvQ)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 20K • 👍 789 • 💬 200 • ⏱️ 17:22 • 11h ago
 
 ---
 
@@ -307,7 +313,17 @@ Render is the easiest place to ship full-stack apps and agents. The first 2000 p
 
 📺 Fireship
 
-👁️ 430K • 👍 18K • 💬 1K • ⏱️ 5:09 • 13h ago
+👁️ 514K • 👍 20K • 💬 1K • ⏱️ 5:09 • 17h ago
+
+---
+
+**[Apple WWDC 2026: The AI Story Everyone is Missing](https://www.youtube.com/watch?v=t7L6-fMpxFc)**
+
+My Links Newsletter: https://natesnewsletter.substack.com/ X: https://x.com/natebjones TikTok: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 33K • 👍 1K • 💬 188 • ⏱️ 18:34 • 21h ago
 
 ---
 
@@ -317,7 +333,17 @@ Thanks to police using AI, Jalil Richardson was misidentified and jailed for sev
 
 📺 Indisputable with Dr. Rashad Richey
 
-👁️ 6K • 👍 341 • 💬 65 • ⏱️ 6:06 • 1d ago
+👁️ 6K • 👍 343 • 💬 66 • ⏱️ 6:06 • 1d ago
+
+---
+
+**[I Asked AI to Build a Square Four Engine… Then I Made It Real](https://www.youtube.com/watch?v=x2-N50rQN-g)**
+
+What started as an AI-generated concept turned into a real, running Square Four engine. From designing the crankshaft and ...
+
+📺 Lets Learn Something
+
+👁️ 34K • 👍 2K • 💬 204 • ⏱️ 41:56 • 16h ago
 
 ---
 
@@ -327,27 +353,7 @@ Nice or Cute? AI fruit Babies With Small Baby | The Ultimate Oddly Satisfying AI
 
 📺 JoJo ai Visual Zone
 
-👁️ 81K • 👍 140 • 💬 4 • ⏱️ 2:01 • 2d ago
-
----
-
-**[I Put Claude Fable 5 Inside a Free AI Agent and It Runs an Entire Company](https://www.youtube.com/watch?v=l1VrD1Sx8AA)**
-
-Try Hostinger: https://www.hostg.xyz/SHJcD Use code STAYINGAHEAD for 20% off. Join our WhatsApp Community Get the ...
-
-📺 Vaibhav Sisinty
-
-👁️ 37K • 👍 1K • 💬 69 • ⏱️ 26:09 • 13h ago
-
----
-
-**[Anthropic Just Dropped Fable 5 And It’s Terrifying](https://www.youtube.com/watch?v=8TjCwdnZSp8)**
-
-Anthropic just released Claude Fable 5, its first publicly available Mythos-class AI model, and the whole launch feels different.
-
-📺 AI Revolution
-
-👁️ 66K • 👍 2K • 💬 341 • ⏱️ 11:30 • 2d ago
+👁️ 81K • 👍 139 • 💬 4 • ⏱️ 2:01 • 2d ago
 
 ---
 
@@ -361,41 +367,19 @@ NOTE! Since I recorded this video: 1. OpenAI has indeed made it's first filing t
 
 ---
 
-**[Prometheus CO-CEO Jeff Bezos: AI will result in labor scarcity, will raise standard of living](https://www.youtube.com/watch?v=NG0GoX0zMxQ)**
+**[Anthropic Just Dropped Fable 5 And It’s Terrifying](https://www.youtube.com/watch?v=8TjCwdnZSp8)**
 
-Prometheus Co-Founders and Co-CEOs Jeff Bezos and Vik Bajaj sits down with CNBC's David Faber to talk Prometheus' strategy ...
+Anthropic just released Claude Fable 5, its first publicly available Mythos-class AI model, and the whole launch feels different.
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 22K • 👍 223 • 💬 117 • ⏱️ 2:45 • 14h ago
-
----
-
-**[You&#39;re Paying for AI Data Centers—Whether You Want to or Not](https://www.youtube.com/watch?v=hKosmE1-5A8)**
-
-Subscribe: https://www.youtube.com/@TheJoshPhilippShow?sub_confirmation=1 Get Up To $20000 of Free Silver with ...
-
-📺 The Josh Philipp Show
-
-👁️ 8K • 👍 441 • 💬 117 • ⏱️ 17:19 • 10h ago
+👁️ 67K • 👍 2K • 💬 340 • ⏱️ 11:30 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
-
-*NVIDIA*
-
-LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 131,794 • ❤️ 1,888 • 3d ago
-
----
 
 **[diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**
 
@@ -405,7 +389,19 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 0 • ❤️ 520 • 1d ago
+⬇️ 20,669 • ❤️ 547 • 1d ago
+
+---
+
+**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
+
+*NVIDIA*
+
+LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
+
+`image-text-to-text` `3.8B`
+
+⬇️ 149,206 • ❤️ 1,902 • 11m ago
 
 ---
 
@@ -417,7 +413,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 675,936 • ❤️ 943 • 7d ago
+⬇️ 911,544 • ❤️ 948 • 7d ago
 
 ---
 
@@ -429,7 +425,7 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 `text-generation` `30.5B`
 
-⬇️ 1,859 • ❤️ 311 • 20h ago
+⬇️ 4,054 • ❤️ 319 • 1d ago
 
 ---
 
@@ -441,7 +437,7 @@ Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model support
 
 `text-to-speech` `4.7B`
 
-⬇️ 19,948 • ❤️ 366 • 1d ago
+⬇️ 29,347 • ❤️ 373 • 1d ago
 
 ---
 
@@ -453,7 +449,7 @@ Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation mod
 
 `text-to-image`
 
-⬇️ 7,170 • ❤️ 489 • 8d ago
+⬇️ 4,987 • ❤️ 494 • 8d ago
 
 ---
 
@@ -465,31 +461,7 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 4,965 • ❤️ 374 • 6d ago
-
----
-
-**[gemma-4-12b-it-GGUF](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF)**
-
-*Unsloth AI*
-
-Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inputs natively, supporting up to 256K context tokens. It excels at reasoning, coding, and agentic tasks, optimized for efficient local execution on consumer hardware.
-
-`image-text-to-text` `11.9B`
-
-⬇️ 711,706 • ❤️ 564 • 2d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 3,057,541 • ❤️ 1,685 • 1mo ago
+⬇️ 3,551 • ❤️ 380 • 6d ago
 
 ---
 
@@ -501,7 +473,31 @@ Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery t
 
 `text-generation` `12.0B`
 
-⬇️ 14,838 • ❤️ 237 • 2d ago
+⬇️ 43,578 • ❤️ 242 • 3d ago
+
+---
+
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 2,393,894 • ❤️ 1,696 • 1mo ago
+
+---
+
+**[gemma-4-12b-it-GGUF](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF)**
+
+*Unsloth AI*
+
+Gemma 4 12B Unified is a multimodal LLM capable of processing text and image inputs natively, supporting up to 256K context tokens. It excels at reasoning, coding, and agentic tasks, optimized for efficient local execution on consumer hardware.
+
+`image-text-to-text` `11.9B`
+
+⬇️ 836,531 • ❤️ 565 • 2d ago
 
 ---
 
@@ -515,9 +511,23 @@ Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery t
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 91 • 💬 4 • ⭐ 85,221 • 17mo ago
+▲ 92 • 💬 4 • ⭐ 85,297 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[SIA: Self Improving AI with Harness & Weight Updates](https://huggingface.co/papers/2605.27276)**
+
+*Prannay Hebbar, Yogendra Manawat, Samuel Verboomen et al. (7 authors)*
+
+🏢 Hexo AI
+
+A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across legal classification, GPU optimization, and biological data denoising tasks.
+
+▲ 12 • 💬 2 • ⭐ 1,474 • 17d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.27276) • [💻 code](https://github.com/hexo-ai/sia) • [🔗 project](https://hexolabs.com/)
 
 ---
 
@@ -529,7 +539,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 16 • 💬 1 • ⭐ 81,861 • 10d ago
+▲ 16 • 💬 1 • ⭐ 81,931 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -543,7 +553,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Agents' Last Exam (ALE) is a benchmark for evaluating AI agents on long-term, economically valuable real-world tasks across 13 industry clusters with 1K+ tasks, revealing significant gaps between benchmark performance and practical deployment.
 
-▲ 314 • 💬 2 • ⭐ 571 • 9d ago
+▲ 321 • 💬 2 • ⭐ 592 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.05405) • [💻 code](https://github.com/rdi-berkeley/agents-last-exam) • [🔗 project](https://agents-last-exam.org/)
 
@@ -557,23 +567,9 @@ Agents' Last Exam (ALE) is a benchmark for evaluating AI agents on long-term, ec
 
 DRPO improves LLM reinforcement learning stability by replacing hard masks with smooth regularization that provides continuous gradient corrections beyond trust-region boundaries.
 
-▲ 29 • 💬 4 • ⭐ 521 • 4d ago
+▲ 30 • 💬 4 • ⭐ 539 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.09821) • [💻 code](https://github.com/Tencent-Hunyuan/UniRL)
-
----
-
-**[SIA: Self Improving AI with Harness & Weight Updates](https://huggingface.co/papers/2605.27276)**
-
-*Prannay Hebbar, Yogendra Manawat, Samuel Verboomen et al. (7 authors)*
-
-🏢 Hexo AI
-
-A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across legal classification, GPU optimization, and biological data denoising tasks.
-
-▲ 12 • 💬 2 • ⭐ 1,219 • 17d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.27276) • [💻 code](https://github.com/hexo-ai/sia) • [🔗 project](https://hexolabs.com/)
 
 ---
 
@@ -591,17 +587,16 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
-**[SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning](https://huggingface.co/papers/2606.10804)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Wenhao Yan, Fengjia Guo, Zhuoyi Yang et al. (4 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-🏢 Z.ai
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-SCAIL-2 enables end-to-end character animation by directly transferring motion from driving videos without intermediate representations, using unified task decomposition and synthetic data generation.
+▲ 166 • 💬 2 • ⭐ 67,332 • 8mo ago
 
-▲ 38 • 💬 2 • ⭐ 269 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.10804) • [💻 code](https://github.com/zai-org/SCAIL-2) • [🔗 project](https://teal024.github.io/SCAIL-2/)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -619,28 +614,30 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning](https://huggingface.co/papers/2606.10804)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Wenhao Yan, Fengjia Guo, Zhuoyi Yang et al. (4 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+🏢 Z.ai
 
-▲ 165 • 💬 2 • ⭐ 67,259 • 8mo ago
+SCAIL-2 enables end-to-end character animation by directly transferring motion from driving videos without intermediate representations, using unified task decomposition and synthetic data generation.
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+▲ 39 • 💬 2 • ⭐ 311 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.10804) • [💻 code](https://github.com/zai-org/SCAIL-2) • [🔗 project](https://teal024.github.io/SCAIL-2/)
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 40 • 💬 4 • ⭐ 29,295 • 10mo ago
+▲ 58 • 💬 1 • ⭐ 82,650 • 33mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -654,7 +651,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 68.6k • 🔱 8.6k • 9h ago
+⭐ 68.8k • 🔱 8.6k • 2h ago
 
 ---
 
@@ -664,7 +661,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 338 • 1d ago
+⭐ 3.8k • 🔱 340 • 1d ago
 
 ---
 
@@ -674,7 +671,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.5k • 🔱 360 • 6d ago
+⭐ 3.5k • 🔱 362 • 7d ago
 
 ---
 
@@ -684,7 +681,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 337 • 1d ago
+⭐ 3.2k • 🔱 339 • 1d ago
 
 ---
 
@@ -694,7 +691,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.9k • 🔱 331 • 17h ago
+⭐ 2.9k • 🔱 332 • 21h ago
 
 ---
 
@@ -714,7 +711,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 1.9k • 🔱 143 • 3h ago
+⭐ 1.9k • 🔱 143 • 7h ago
 
 ---
 

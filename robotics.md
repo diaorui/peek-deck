@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-12T06:46:02.199268+00:00'
+updated: '2026-06-12T11:02:06.152678+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 12, 2026 at 06:46 UTC  
+**Last Updated:** June 12, 2026 at 11:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Drones enforcing traffic rules in Shenzen](https://www.reddit.com/r/robotics/comments/1u2se5p/drones_enforcing_traffic_rules_in_shenzen/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ Just a quick demo to see how fast my hand is! I started with a baseline 5 second
 
 ex-Huggingface pre-training team just announce a new library create for robotics data refinment! It supports ingestion of all robotics formats (Parquet, HDF5, MCAP, Zarr, RLDS, and LeRobot), as well as the common processing flows like visual hand-tracking, subtask annotations and reward model running
 
-🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 20h ago
+🔗 [GitHub](https://github.com/macrodata-labs/refiner) • 1d ago
 
 ---
 
@@ -74,7 +74,7 @@ ex-Huggingface pre-training team just announce a new library create for robotics
 
 I am 16 years old and have absolutely no experience with Linux, and I am looking for a ROS 2 course. While the courses offered by The Construct seem quite comprehensive, I am concerned about some issues others have reported, such as incorrect quizzes, shallow content, or general quality problems. If you have experience with their courses, could you share how it went, or would you recommend other structured courses instead?
 
-15h ago
+19h ago
 
 ---
 
@@ -82,13 +82,13 @@ I am 16 years old and have absolutely no experience with Linux, and I am looking
 
 https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=337217b73e76a7c3628cdaf62f5867fb25fb3e0b This robotic piano tutor physically guides your fingers so you can play even if you've never touched a piano before. Instead of just watching videos or apps, this system uses a dual-arm gantry with five-finger robotic hands that: - Precisely control each finger’s position and pressure on the keys - Use compliant (flexible) actuators for natural-feeling guidance instead of stiff pushing - Start with strong support and gradually reduce assistance as you build real muscle memory It turns passive learning into active, embodied practice — helping you feel the correct movements directly. Video: https://www.youtube.com/watch?v=QXn7hCM5yTI
 
-20h ago
+1d ago
 
 ---
 
 **[Inverse Differential 2Dof Wrist](https://www.reddit.com/r/robotics/comments/1u1uxtw/inverse_differential_2dof_wrist/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ https://preview.redd.it/p5ml1bjytm6h1.png?width=2126&format=png&auto=webp&s=3372
 
 Hello, I am trying to get back into the Robotics industry after years as an SWE and find a job. I am based in Chicago so I was thinking of getting an all access pass to network for a job, and take some courses. I am currently unemployed. Does anyone know the best way to network at these things? Are the courses worth it? Does anyone have a coupon to reduce the cost? i would be paying out of pocket and I am unemployed so i figured i would ask. Thanks for your advice!
 
-19h ago
+23h ago
 
 ---
 
@@ -114,7 +114,43 @@ Is this N20 D-shaft wheel good for a line follower robot that needs to climb a 2
 
 **[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
 
-The New York Times • 21h ago
+The New York Times • 1d ago
+
+---
+
+**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
+
+Barron's • 20h ago
+
+---
+
+**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs?srnd=phx-businessweek)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[India’s workers are training AI robots to take their jobs](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)**
+
+Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
+
+Al Jazeera • 1d ago
+
+---
+
+**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
+
+They were impressive, but could they ever feel human?
+
+The Atlantic • 20h ago
+
+---
+
+**[NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)**
+
+A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
+
+NASA Science (.gov) • 16h ago
 
 ---
 
@@ -128,59 +164,23 @@ CNBC • 1d ago
 
 **[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
-**[German start-up Neura raises $1.4bn in humanoid robot push](https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772?syn-25a6b1a6=1)**
+**[NEURA Robotics Announces Record Series C of up to $1.4 Billion to Accelerate the World’s Leading Physical AI Platform](https://www.businesswire.com/news/home/20260610204575/en/NEURA-Robotics-Announces-Record-Series-C-of-up-to-%241.4-Billion-to-Accelerate-the-Worlds-Leading-Physical-AI-Platform)**
 
-Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
+NEURA Robotics (“NEURA”), the pioneer in cognitive robotics and creator of the Neuraverse, today announced a landmark Series C financing with a total round s...
 
-Financial Times • 1d ago
-
----
-
-**[India’s workers are training AI robots to take their jobs](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)**
-
-Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
-
-Al Jazeera • 19h ago
+Business Wire • 1d ago
 
 ---
 
-**[Humanoid Robot Manufacturer EngineAI Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo)**
+**[China builds 85% of the world’s humanoids robots for cheap at scale, but finding buyers is tricky](https://fortune.com/2026/06/09/china-builds-85-percent-worlds-humanoids-robots-cheap/)**
 
-Bloomberg.com • 4h ago
+While there's a viable commercial path forward in industry and logistics, experts say demand for humanoids lags building capacity.
 
----
-
-**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
-
-They were impressive, but could they ever feel human?
-
-The Atlantic • 15h ago
-
----
-
-**[NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)**
-
-A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
-
-NASA Science (.gov) • 11h ago
-
----
-
-**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
-
-Barron's • 16h ago
-
----
-
-**[Could humanoid robots be heading for the battlefield?](https://www.bbc.com/news/articles/cedpxwe26l1o)**
-
-Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.
-
-BBC • 3d ago
+Fortune • 2d ago
 
 ---
 
@@ -188,13 +188,23 @@ BBC • 3d ago
 
 ## YouTube Videos: "robotics"
 
+**[AI Humanoid Robots Just Got REAL… And That’s the Scary Part](https://www.youtube.com/watch?v=cNQuG2fbDks)**
+
+The humanoid robot race just left the demo stage — and entered the factory floor! You're about to see the moment AI humanoid ...
+
+📺 The AI Nexus
+
+👁️ 461 • 👍 34 • ⏱️ 28:04 • 7h ago
+
+---
+
 **[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
 
 In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
 
 📺 Munro Live
 
-👁️ 64K • 👍 428 • 💬 43 • ⏱️ 6:04 • 6d ago
+👁️ 71K • 👍 429 • 💬 43 • ⏱️ 6:04 • 6d ago
 
 ---
 
@@ -204,7 +214,17 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 71K • 👍 1K • 💬 131 • ⏱️ 6:09 • 2d ago
+👁️ 74K • 👍 1K • 💬 131 • ⏱️ 6:09 • 2d ago
+
+---
+
+**[Robots are getting crazy good at soccer (football)  #robotics #robots #humanoidrobots #tech](https://www.youtube.com/watch?v=-F7nUaADyms)**
+
+Robots are getting pretty good at soccer/football. In anticipation of the 2026 World Cup games, here's a compilation featuring ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 32 • 💬 1 • ⏱️ 0:42 • 11h ago
 
 ---
 
@@ -214,7 +234,7 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 📺 Firstpost
 
-👁️ 2K • 👍 40 • 💬 27 • ⏱️ 6:29 • 1d ago
+👁️ 3K • 👍 41 • 💬 27 • ⏱️ 6:29 • 1d ago
 
 ---
 
@@ -228,21 +248,33 @@ New humanoid robot trio models from Noble Machines, Galaxea, and Astrobot just s
 
 ---
 
-**[Robot just took the stage at Hard Fork Live 🤖](https://www.youtube.com/watch?v=uV3n9WuPUjo)**
+**[Getting Started with NVIDIA Cosmos 3 for Robotics and Physical AI | Cosmos Labs](https://www.youtube.com/watch?v=9XZeMdnI79I)**
 
-POV: humanoid robots just took the stage at Hard Fork Live Behind the scenes with Toborlife AI as our robot, and CTO George ...
+Join NVIDIA for an introduction to Cosmos 3, the latest evolution of NVIDIA's world foundation model platform for physical AI.
 
-📺 Toborlife AI
+📺 NVIDIA Developer
 
-👁️ 627 • 👍 12 • ⏱️ 0:26 • 7h ago
+👁️ 2K • 👍 130 • 💬 1 • ⏱️ 1:03:54 • 17h ago
 
 ---
 
-**[Humanoid robot kicks child during public demo](https://www.youtube.com/watch?v=PTrCX4Kge1U)**
+**[Thousands Are Pre-Ordering This Human-Like Robot Before It&#39;s Even Released 🤖](https://www.youtube.com/watch?v=4OaA9wdyaiQ)**
 
-📺 Brut India
+China's UBTECH Robotics has unveiled the U1 humanoid robot series, featuring realistic human-like movement, AI-powered ...
 
-👁️ 128K • 👍 2K • 💬 236 • ⏱️ 0:27 • 6d ago
+📺 Mistmap
+
+👁️ 725 • 👍 10 • 💬 1 • ⏱️ 0:54 • 11h ago
+
+---
+
+**[This Robot Can Grab Anything in Orbit 🛰️](https://www.youtube.com/watch?v=G7lqRuOUXkw)**
+
+There are 27000 pieces of tracked debris orbiting Earth right now. At 28000 km/h, a 1cm fragment hits with the force of a hand ...
+
+📺 KF Labs
+
+👁️ 137K • 👍 1K • 💬 44 • ⏱️ 0:05 • 1d ago
 
 ---
 
@@ -252,37 +284,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 327K • 👍 6K • 💬 5K • ⏱️ 2:17 • 5d ago
-
----
-
-**[War Robots - Shoggoth Transformed Into One Of The Craziest Brawlers Of 2026! WR Shoggoth Gameplay](https://www.youtube.com/watch?v=yDVQTF53aWQ)**
-
-War Robots - Shoggoth transformed into one of the craziest brawlers of 2026. In this video, I run Ultimate Redeemer and Ultimate ...
-
-📺 Adrian Chong
-
-👁️ 6K • 👍 295 • 💬 65 • ⏱️ 15:00 • 1d ago
-
----
-
-**[24 Hour Test 0 5mm Precision#depalletizing #palletizer #robotics #automation #](https://www.youtube.com/watch?v=gJ76srD10-M)**
-
-The industrial robot is undergoing a 24-hour continuous performance test. The system successfully maintains a strict precision ...
-
-📺 Beiyuan Palletizing Robot by Lau
-
-👁️ 29K • 👍 105 • ⏱️ 0:15 • 2d ago
-
----
-
-**[China&#39;s BANNED Robots Just STUNNED America&#39;s Got Talent #news #technology #china #robot](https://www.youtube.com/watch?v=fVvKiriKOFk)**
-
-Unitree's G1 humanoid robots made history on the Season 21 premiere of America's Got Talent, taking the stage alongside ...
-
-📺 sXe Finance
-
-👁️ 94K • 👍 2K • 💬 130 • ⏱️ 0:44 • 6d ago
+👁️ 329K • 👍 6K • 💬 5K • ⏱️ 2:17 • 5d ago
 
 ---
 
