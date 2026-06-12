@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-11T23:22:50.041240+00:00'
+updated: '2026-06-12T01:56:47.159618+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 11, 2026 at 23:22 UTC  
+**Last Updated:** June 12, 2026 at 01:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,683.57
+### $1,676.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +5.6%  
-**30d:** -26.0%  
-**90d:** -20.3%  
-**1y:** -36.8%  
+**24h:** +1.6%  
+**7d:** +6.2%  
+**30d:** -27.0%  
+**90d:** -23.5%  
+**1y:** -35.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.47B
+**Market Cap:** $200.87B
 Rank #2
 
-**Circulating Supply:** 120,684,325 ETH
+**Circulating Supply:** 120,684,283 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-66.3%
 
 **All-Time Low:** $0.43
-+387491.5%
++384322.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -88,13 +88,13 @@ Like you know that feeling of knowing what something is and reading alot about i
 
 I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
 
-14h ago
+17h ago
 
 ---
 
 **[What Crypto prediction lives rent free in your head?](https://www.reddit.com/r/ethereum/comments/1u30opm/what_crypto_prediction_lives_rent_free_in_your/)**
 
-8h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ I've launched Vattelum, an open-source project building a new legal system on Et
 
 A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 23h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I still can't understand how ETH wants to become private when we can see all the transactions on etherscan. What is a new Privacy Upgrade? Is it going to be on L1?
 
-20h ago
+22h ago
 
 ---
 
@@ -166,6 +166,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Tom Lee Says Bitmine To Slow Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html)**
+
+Tom Lee, chairman of Bitmine Immersion Technology (NYSE: $BMNR), says the crypto treasury company is likely to slow...
+
+Yahoo Finance • 44m ago
+
+---
+
 **[Ethereum Crypto 100](https://fortune.com/ranking/crypto/2026/ethereum/)**
 
 In 2013, a precocious teenager named Vitalik Buterin saw the rise of Bitcoin and decided to expand on the cryptocurrency's vision of decentralization. While Bitcoin was a decentralized ledger for sending and receiving currency, Buterin thought of Ethereum as a decentralized computer to run software. 
@@ -174,15 +182,7 @@ One year later, Buterin and a team of cofounders raised $18 million for Ethereum
 
 More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
 
-Fortune • 10h ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, June 11, 2026: Prices lifting off low opening figures](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-11-2026-prices-lifting-off-low-opening-figures-114705725.html)**
-
-Bitcoin opened at $61,456.17 on Thursday, June 11, 2026, down 0.3% from Wednesday's opening price. The value of bitcoin rose substantially this morning to $63,020 by 7:39 a.m. ET.  Ethereum opened at $1,620.37, down 1.1% from yesterday's opening price. The price of ethereum firmed this morning as well, moving to $1,660.32 by 7:39 a.m. ET.
-
-Yahoo Finance • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -194,14 +194,6 @@ Circle Internet Financial • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Slide, Dogecoin Flat As US Launches 'Proportional' Strikes Against Iran: Analyst Sees BTC's Strong Rebound To $74,000 Soon](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-slide-dogecoin-020152158.html)**
-
-Leading cryptocurrencies fell alongside major stock indexes on Tuesday amid a big escalation in the Middle East conflict. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.68%$61,757.98Ethereum (CRYPTO: ETH) -1.83%$1,641.98XRP (CRYPTO: XRP) -1.71%$1.13Solana (CRYPTO: SOL) -0.96%$65.08Dogecoin (CRYPTO: DOGE) -0.15%$0.08487 Crypto Market On Edge Bitcoin revisited the $60,000 floor but recovered overnight, as trading activity climbed 12% in the past 24 hours. E
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High](https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high)**
 
 Although consumer prices rose in May at their fastest annual pace since 2023, Bitcoin and other cryptocurrencies turned higher.
@@ -210,17 +202,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Crypto News: Bitcoin, Ethereum, XRP and Cardano Enter Historical Buy Zones as MVRV Turns Negative](https://www.binance.com/en/square/post/06-09-2026-crypto-news-bitcoin-ethereum-xrp-and-cardano-enter-historical-buy-zones-as-mvrv-turns-negative-332239443761601)**
-
-Binance • 2d ago
-
----
-
 **[Ethereum Futures Just Hit A Binance Record: Are Traders Calling The Bottom?](https://www.tradingview.com/news/newsbtc:4f692a127094b:0-ethereum-futures-just-hit-a-binance-record-are-traders-calling-the-bottom/)**
 
 Ethereum derivatives activity is flashing a fresh signal on Binance, where open interest measured in ETH terms has reached a new all-time high. The move comes as traders reassess Ethereum after a steep drawdown, even as macro and geopolitical uncertainty continue to suppress broader risk appetite.C…
 
-TradingView • 7h ago
+TradingView • 10h ago
 
 ---
 
@@ -228,7 +214,21 @@ TradingView • 7h ago
 
 TurboFlow integrates Chainlink oracles for continuous prediction markets on gold, Bitcoin, and Ethereum with 30-second windows and up to 1,000x leverage.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 7h ago
+
+---
+
+**[Here's What History Says to Expect for Ethereum This Summer](https://www.fool.com/investing/2026/06/10/heres-what-history-says-to-expect-for-ethereum-thi/)**
+
+If you're eager to buy this coin on the cheap, this summer could be a great time to do it.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Price Nears Key Bottom as BitMine Buys 126,971 ETH Despite Market Selloff](https://www.ccn.com/analysis/crypto/ethereum-price-bottom-bitmine-buys-eth-market-selloff/)**
+
+CCN.com • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 116 • 💬 25 • ⏱️ 16:46 • 10h ago
+👁️ 3K • 👍 130 • 💬 36 • ⏱️ 16:46 • 13h ago
 
 ---
 
@@ -252,17 +252,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 312 • 💬 302 • ⏱️ 12:37 • 1d ago
-
----
-
-**[XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!)](https://www.youtube.com/watch?v=TIW18EpM6Is)**
-
-XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, ...
-
-📺 NCashOfficial
-
-👁️ 4K • 👍 382 • 💬 53 • ⏱️ 15:23 • 7h ago
+👁️ 5K • 👍 319 • 💬 286 • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -272,7 +262,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 694 • 💬 334 • ⏱️ 11:58 • 1d ago
+👁️ 11K • 👍 698 • 💬 328 • ⏱️ 11:58 • 1d ago
 
 ---
 
@@ -282,7 +272,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 171 • 👍 16 • 💬 3 • ⏱️ 5:41 • 5h ago
+👁️ 319 • 👍 20 • 💬 3 • ⏱️ 5:41 • 8h ago
 
 ---
 
@@ -292,7 +282,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitco
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 10K • 👍 1K • 💬 74 • ⏱️ 22:40 • 6h ago
+👁️ 17K • 👍 2K • 💬 90 • ⏱️ 22:40 • 9h ago
 
 ---
 
@@ -302,17 +292,15 @@ Ethereum could still drop to its 2025 crash low around $1.3K and a lot of people
 
 📺 Crypto Archie
 
-👁️ 657 • 👍 25 • 💬 22 • ⏱️ 0:40 • 7h ago
+👁️ 922 • 👍 31 • 💬 20 • ⏱️ 0:40 • 10h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=enzEVHGYroU)**
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
 
-BITCOIN & CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum & Altcoins *SpaceX ...
+📺 CryptoWendyO
 
-📺 Crypto World
-
-👁️ 6K • 👍 296 • 💬 175 • ⏱️ 18:56 • 11h ago
+👁️ 12K • 👍 746 • 💬 39 • ⏱️ 2:28 • 2d ago
 
 ---
 
@@ -322,7 +310,17 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 285 • 💬 86 • ⏱️ 15:00 • 2d ago
+👁️ 6K • 👍 285 • 💬 82 • ⏱️ 15:00 • 2d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=enzEVHGYroU)**
+
+BITCOIN & CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum & Altcoins *SpaceX ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 325 • 💬 176 • ⏱️ 18:56 • 13h ago
 
 ---
 
@@ -332,7 +330,7 @@ See Full Video: ...
 
 📺 Future Forecasters
 
-👁️ 275 • 👍 34 • 💬 3 • ⏱️ 9:17 • 4h ago
+👁️ 643 • 👍 69 • 💬 48 • ⏱️ 9:17 • 6h ago
 
 ---
 
