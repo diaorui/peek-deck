@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-12T17:22:24.062538+00:00'
+updated: '2026-06-12T19:30:14.435354+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 17:22 UTC  
+**Last Updated:** June 12, 2026 at 19:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,670.77
+### $1,667.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
+**24h:** -0.2%  
 **7d:** +6.4%  
-**30d:** -26.8%  
-**90d:** -23.3%  
+**30d:** -26.9%  
+**90d:** -23.4%  
 **1y:** -35.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.55B
+**Market Cap:** $201.29B
 Rank #2
 
 **Circulating Supply:** 120,684,283 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.2%
+-66.3%
 
 **All-Time Low:** $0.43
-+385579.2%
++385419.9%
 
 ---
 
@@ -126,7 +126,7 @@ I still can't understand how ETH wants to become private when we can see all the
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-2d ago
+3d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-3d ago
+4d ago
 
 ---
 
@@ -150,19 +150,27 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, June 12, 2026: Prices rebound this morning after Trump claims war has ended](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html)**
-
-Bitcoin opened at $63,553.08 on Friday, June 12, 2026, up 3.4% from Thursday's opening price. Ethereum opened at $1,671.71 on Friday, up 3.2% from Thursday's opening price.
-
-Yahoo Finance • 5h ago
-
----
-
 **[CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower)**
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
+
+---
+
+**[Dogecoin (DOGE), Shiba Inu (SHIB), Toncoin (TON), and Ethereum (ETH) Price Analysis For June 12: Getting Back in Bull Market](https://u.today/dogecoin-doge-shiba-inu-shib-toncoin-ton-and-ethereum-eth-price-analysis-for-june-12-getting-back)**
+
+The market needs fresh inflows and it might become the foundation for a price recovery.
+
+U.Today • 19h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 12, 2026: Prices rebound this morning after Trump claims war has ended](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html)**
+
+Bitcoin opened at $63,553.08 on Friday, June 12, 2026, up 3.4% from Thursday's opening price. Ethereum opened at $1,671.71 on Friday, up 3.2% from Thursday's opening price.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -186,12 +194,6 @@ The Block • 2d ago
 
 ---
 
-**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
-
-Bloomberg.com • 6h ago
-
----
-
 **[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
 Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
@@ -200,33 +202,31 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
+
+Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
+
+FXStreet • 16h ago
+
+---
+
 **[Centrifuge enables AAA CLO collateral on Ethereum with $JAAA exposure](https://cryptobriefing.com/centrifuge-aaa-clo-collateral-ethereum-jaaa/)**
 
 Centrifuge brings AAA CLO fund JAAA to Ethereum as collateral on Morpho, enabling leveraged wJAAA/USDC strategies with 98% LLTV and $1B in AUM.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 8h ago
 
 ---
 
-**[Ethereum Futures Just Hit A Binance Record: Are Traders Calling The Bottom?](https://www.tradingview.com/news/newsbtc:4f692a127094b:0-ethereum-futures-just-hit-a-binance-record-are-traders-calling-the-bottom/)**
+**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
-Ethereum derivatives activity is flashing a fresh signal on Binance, where open interest measured in ETH terms has reached a new all-time high. The move comes as traders reassess Ethereum after a steep drawdown, even as macro and geopolitical uncertainty continue to suppress broader risk appetite.C…
-
-TradingView • 1d ago
-
----
-
-**[Here's What History Says to Expect for Ethereum This Summer](https://www.fool.com/investing/2026/06/10/heres-what-history-says-to-expect-for-ethereum-thi/)**
-
-If you're eager to buy this coin on the cheap, this summer could be a great time to do it.
-
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum Price Nears Key Bottom as BitMine Buys 126,971 ETH Despite Market Selloff](https://www.ccn.com/analysis/crypto/ethereum-price-bottom-bitmine-buys-eth-market-selloff/)**
-
-CCN.com • 1d ago
+CCN.com • 6h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 337 • 💬 257 • ⏱️ 12:37 • 1d ago
+👁️ 6K • 👍 339 • 💬 253 • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -251,6 +251,26 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 4K • 👍 156 • 💬 42 • ⏱️ 16:46 • 1d ago
+
+---
+
+**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
+
+Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
+
+📺 Alvarburn
+
+👁️ 2K • 👍 240 • 💬 6 • ⏱️ 13:24 • 8h ago
+
+---
+
+**[Billionaires Are Convinced The Crypto BULL RUN Is On This Date](https://www.youtube.com/watch?v=46NH3wtKzx4)**
+
+Check out FortisX Liquidity Pools Sign up here ▻ https://fortisx.fi/kol/firehustle Join My FREE Mailing List Get my full portfolio, ...
+
+📺 FireHustle
+
+👁️ 2K • 👍 154 • 💬 44 • ⏱️ 10:13 • 2d ago
 
 ---
 
@@ -268,17 +288,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 767 • 💬 40 • ⏱️ 2:28 • 2d ago
-
----
-
-**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
-
-SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 318 • 💬 30 • ⏱️ 21:04 • 23h ago
+👁️ 13K • 👍 769 • 💬 40 • ⏱️ 2:28 • 2d ago
 
 ---
 
@@ -288,7 +298,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitco
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 28K • 👍 2K • 💬 134 • ⏱️ 22:40 • 1d ago
+👁️ 29K • 👍 2K • 💬 141 • ⏱️ 22:40 • 1d ago
 
 ---
 
@@ -298,17 +308,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 431 • 👍 20 • 💬 3 • ⏱️ 5:41 • 23h ago
-
----
-
-**[Billionaires Are Convinced The Crypto BULL RUN Is On This Date](https://www.youtube.com/watch?v=46NH3wtKzx4)**
-
-Check out FortisX Liquidity Pools Sign up here ▻ https://fortisx.fi/kol/firehustle Join My FREE Mailing List Get my full portfolio, ...
-
-📺 FireHustle
-
-👁️ 2K • 👍 154 • 💬 44 • ⏱️ 10:13 • 1d ago
+👁️ 457 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
 
 ---
 
@@ -318,17 +318,17 @@ XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, 
 
 📺 NCashOfficial
 
-👁️ 6K • 👍 465 • 💬 56 • ⏱️ 15:23 • 1d ago
+👁️ 6K • 👍 466 • 💬 55 • ⏱️ 15:23 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum ausgebrochen! Longs laufen, wir warten auf unsere Ziele um auszucashen!](https://www.youtube.com/watch?v=Lzusyl9KXo0)**
+**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
 
-📺 Krypto Trading & Investing
+📺 CryptoWendyO
 
-👁️ 4K • 👍 516 • 💬 87 • ⏱️ 13:04 • 13h ago
+👁️ 6K • 👍 318 • 💬 30 • ⏱️ 21:04 • 1d ago
 
 ---
 

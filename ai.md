@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-12T17:22:24.047820+00:00'
+updated: '2026-06-12T19:30:14.422012+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 12, 2026 at 17:22 UTC  
+**Last Updated:** June 12, 2026 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?](https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/)**
+**[Datacenter & AI water use is overblown](https://www.reddit.com/r/artificial/comments/1u4128s/datacenter_ai_water_use_is_overblown/)**
 
-Google's Project Genie went global this week and I have not stopped thinking about it. You type a sentence, or upload an image, and it generates an open world you can actually walk around in, in real time. No code, no game engine. Someone made a GTA-style open world of Istanbul and just strolled through it, with pedestrians and traffic reacting around them. The reality check: it is rough. Low framerate, laggy response, visible bugs. Right now it is a tech demo, not a game you would sit down and play. But the trajectory is the whole conversation. I keep going back and forth. One side: this is the beginning of the end for the traditional pipeline. If a sentence can spin up an explorable world, the engine, the assets, the studio, all of that stops being the gate. Anyone gets to make a world. The other side: interactive world models hit a wall fast. Consistency, object permanence, holding a world together for more than a few minutes, framerate. It could stay an impressive demo that never becomes a real game for years. My honest guess is the "walk around a generated world" part is genuinely new, but the gap from explorable demo to a game you would actually play is huge and might not close as fast as the hype says. Where do you land, real threat to game engines in a year or two, or a plateau? And what is the first world you would generate?
+This keeps coming up over and over; for those interfacing with the anti-AI / anti-DC crowd, this article has some good talking points, about water, but also jobs and power. Data centers certainly do use water. They are basically warehouses of tightly packed, high-powered computers, and when computers run, they get hot. Most data centers—though not all—use water for cooling. But many of them use a “closed loop,” which doesn’t actually waste much, because the water is recycled repeatedly for the same purpose. And many statistics about data centers’ water use are misleading in that they include “indirect” water use too. The Substack writer Andy Masley found one particularly absurd example: In a widely cited paper, the amount of water that AI supposedly “wastes” includes the water that naturally evaporates off rivers and lakes in Washington State. Why? Because those rivers and lakes are dammed for hydroelectric plants, which generate electricity, which is then used by (among other things) a data center. The water-quality issue AOC pointed out in Georgia is not a general feature of data-center construction and appears to have affected only four households.
 
-14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 2h ago
 
 ---
 
@@ -49,13 +49,29 @@ Google's Project Genie went global this week and I have not stopped thinking abo
 
 Llion Jones said “2026 is the continual learning year” in the recent Post-Transformer debate. Sutton/Silver call the next phase the "era of experience”. What’s continual learning? Simply put, it’s a model’s ability to continuously improve as it gains experience – without exhibiting catastrophic forgetting. Essentially the stability-plasticity tradeoff for a reasoning model. Essentially it comes down to: where does the memory live? Outside the model. Memory files, vector dbs, graphs. Text is retrieved and pasted back into context. The model stays frozen. In the model's running state. Hidden states or fast weights that change while the model processes input. In the model's weights. What it actually knows. Encoded within the model weights to improve decision making patterns without forgetting. Dev docs today hint at #1 - memory outside the model. But the “2026 is continual learning year” notion does not come from it. Why? Part 1: The Memento stack (today’s stack) There are engineering fixes for the LLM’s memory problem. Julian Togelius & a16z compared it to Memento. In the movie, Leonard functions with his Polaroid and notes. But everyday he is the same man as day 0. Progress around these include: Anthropic's Dreaming: an async job to manage “memories”, explicitly modeled on sleep consolidation. Long context as memory: Visibly good, but with 3 problems. a) Position bias and "lost in the middle" challenge. b) Longer LLM windows come with bigger costs and we’re already discussing “token economics”. c). KV cache bottleneck, and everything evaporates when the request ends. Mem0, Letta, Zep: the popular memory-layer products from startups. AGENTS.md and git-style memory files: But, in this ETH Zurich paper (arXiv 2602.11988) it showed that LLM-generated context files actually reduce task success by about 3% while raising cost over 20%. And human-written ones barely helped too. Part 2: Continual learning, memory within the model (the big bet) Weight updates in large networks trigger catastrophic forgetting. A January 2026 paper tried continual fine-tuning on LRMs (arXiv 2601.18699) but catastrophic forgetting didn’t fade but rather increased. Promising directions that could solve this: TTT layers (arXiv 2407.04620, ICML 2025): the hidden state of the sequence layer is a small model, updated by gradient descent on tokens as they stream in. Matches or beats Transformer / Mamba baselines upto 1.3B params. Titans & Atlas: Titans add a neural long-term memory that decides what to store using a surprise signal. Atlas upgrades the memory's learning rule. Nested Learning + HOPE: Architecture updates different blocks at different frequencies. RNNs are also coming closer to Transformers via viral Memory Caching papers. Dragon Hatchling (BDH): From AI lab Pathway (arXiv 2509.26507). Working memory lives in Hebbian synapses rather than in a KV cache, allowing for an "infinite context window" without quadratic cost. AMI Labs, LFMs, etc. also mention continual learning but I didn’t find much specific info on them in this front. Current State and Future Outlook Where is continual learning in mid-2026? Solved with public access: nothing. Shipping in production: only the dossier stack, all frozen models. Demonstrated at research scale (< 2B params): TTT, Titans, Memory Caching, HOPE, and BDH. What would move the needle imo: Ship memory within the model with forgetting measurably controlled. Two questions though: What OpenAI is brewing in all of this? What’s the blocker to adoption for continual learning models: the missing breakthrough itself, or evals, serving economics, etc?
 
-30m ago
+2h ago
+
+---
+
+**["Talk Show Host" [ft. Jibaro's Sara Silkin ] - Is this the future of motion capture? + Breakdown](https://www.reddit.com/r/artificial/comments/1u43wvs/talk_show_host_ft_jibaros_sara_silkin_is_this_the/)**
+
+choreography and performance by: Sara Silkin vfx: myself In collaboration with Sara, I transformed an iPhone recording of this beautiful performance, into this multi-angle audiovisual piece. I managed to do in using no ultra-expensive equipment, nor full-production budget. All in a single platform + editing software. [A few years ago, this would have costed several thousand bucks.] Breakdown: I started from the original dance/performance video and split it into 3-10s clips if I wanted to use the camera angle present in reference image, or up until 30s if I wanted to preserve original camera angle from video source. Then I used Uisato Studio’s Kling Motion Control mode for generating the interventions. Inputs were: the original performance video as the reference video a target image with the robot / bio-tech aesthetic as the reference image for each section. You can use the "capture frame" function to intervene one of input video's frames using Gemini, or you can bring your own intervened [reference] images. As I said before, here's the place in which you can introduce different point-of-view for the interevened scene. a brief [balanced] prompt describing what I wanted beyond the motion transfer; "an avant-garde humanoid android performer dancing (...)" / "you might introduce subtle robotic precision while still following the original dance (...)" while standard the "std" kling-3 model performs really well, I went with "pro" for that tiny, but noticeable overall improvement In all sections I added some [10] overlapping frames at the start and the end between each, just in case I wanted to have some room for later transitioning between section on editing. For some particular parts of the piece, I created duplicated sections for having variations of a single shot. Once everything has been set I generated the clips in a single go, and then assembled the final piece in editing. Voilá, single-character motion capture on-a-budget²
+
+47m ago
+
+---
+
+**[Google's Genie 3 turns a text prompt into a playable open world you can explore. It's rough now. Future of games, or a tech demo?](https://www.reddit.com/r/artificial/comments/1u3jlw6/googles_genie_3_turns_a_text_prompt_into_a/)**
+
+Google's Project Genie went global this week and I have not stopped thinking about it. You type a sentence, or upload an image, and it generates an open world you can actually walk around in, in real time. No code, no game engine. Someone made a GTA-style open world of Istanbul and just strolled through it, with pedestrians and traffic reacting around them. The reality check: it is rough. Low framerate, laggy response, visible bugs. Right now it is a tech demo, not a game you would sit down and play. But the trajectory is the whole conversation. I keep going back and forth. One side: this is the beginning of the end for the traditional pipeline. If a sentence can spin up an explorable world, the engine, the assets, the studio, all of that stops being the gate. Anyone gets to make a world. The other side: interactive world models hit a wall fast. Consistency, object permanence, holding a world together for more than a few minutes, framerate. It could stay an impressive demo that never becomes a real game for years. My honest guess is the "walk around a generated world" part is genuinely new, but the gap from explorable demo to a game you would actually play is huge and might not close as fast as the hype says. Where do you land, real threat to game engines in a year or two, or a plateau? And what is the first world you would generate?
+
+16h ago
 
 ---
 
 **[This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?](https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -63,7 +79,7 @@ Llion Jones said “2026 is the continual learning year” in the recent Post-Tr
 
 Hi everyone, I think I’ve reached a point where new LLM releases don’t really change much for me anymore. I tried Anthropic’s new Mythos-lite model, Fable, and played around with it for a while. I tested it on some security-related research for my own scripts and projects, and also used it for a few work-related tasks. And yes, it may have more parameters, a larger context window, better benchmarks, and all the usual improvements. But personally, I almost immediately switched back to Claude Opus for coding and Haiku for everyday work. For what I actually do, that combination is already more than enough. These models, my skills and prompting makes me more productive then 3 years ago, but it's more than enough. It reminds me of having an iPhone 14 while the iPhone 17 is coming out. You can see that the newer version is technically better, but you still think: “Nah, I’m good.” Curious if anyone else feels the same.
 
-20h ago
+23h ago
 
 ---
 
@@ -71,45 +87,27 @@ Hi everyone, I think I’ve reached a point where new LLM releases don’t reall
 
 Hi all, Just curious, I've been noticing lately that a lot of people have some secret project that will change the industry and so on. Please share a bit if you're working on something
 
-2h ago
+4h ago
 
 ---
 
-**[Looking to upskill… where to start?](https://www.reddit.com/r/artificial/comments/1u3x3mh/looking_to_upskill_where_to_start/)**
+**[How accurate are LLM's right now?](https://www.reddit.com/r/artificial/comments/1u43l5q/how_accurate_are_llms_right_now/)**
 
-I was just laid off from my job and want to work on upskilling in AI while I’ve got some time on my hands. I’m in the project/program management and operations space. Typically working on creative projects, but I think anything relative to PM/Ops would be helpful. I hear people talking about Claude code all the time but I don’t actually code in my line of work so I’m not sure if this is something I should focus on. Same with “agents”. I’ve used AI for pretty basic things thus far, like supporting me with writing SOWs, briefs, legal contracts, etc. I am obviously proficient with it for search. Anything else I’m pretty clueless about. I’d like recommendations for someone in the creative space and the PM/ops space, what tools should I focus on? What specific features should I learn? Then I’ll look for tutorials to start learning. Thanks!
+I've had people tell me that LLM's like ChatGPT and GROK aren't trustworthy or accurate. Lately, it feels like ChatGPT is more accurate about heavily discussed topics than most other sources, but that's just a feeling I have. Where can I find good information on just how accurate LLM's really are?
 
-2h ago
+59m ago
 
 ---
 
 **[Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster | Diffusion AI is most common in image generation, but it can make text outputs much faster.](https://www.reddit.com/r/artificial/comments/1u373y6/google_deepmind_releases_diffusiongemma_a_model/)**
 
-🔗 [arstechnica.com](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) • 22h ago
+🔗 [arstechnica.com](https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/) • 1d ago
 
 ---
 
-**[Datacenter & AI water use is overblown](https://www.reddit.com/r/artificial/comments/1u4128s/datacenter_ai_water_use_is_overblown/)**
+**[OpenAI, Visa Team Up to Let AI Agents Make Purchases Online](https://www.reddit.com/r/artificial/comments/1u42v64/openai_visa_team_up_to_let_ai_agents_make/)**
 
-This keeps coming up over and over; for those interfacing with the anti-AI / anti-DC crowd, this article has some good talking points, about water, but also jobs and power. Data centers certainly do use water. They are basically warehouses of tightly packed, high-powered computers, and when computers run, they get hot. Most data centers—though not all—use water for cooling. But many of them use a “closed loop,” which doesn’t actually waste much, because the water is recycled repeatedly for the same purpose. And many statistics about data centers’ water use are misleading in that they include “indirect” water use too. The Substack writer Andy Masley found one particularly absurd example: In a widely cited paper, the amount of water that AI supposedly “wastes” includes the water that naturally evaporates off rivers and lakes in Washington State. Why? Because those rivers and lakes are dammed for hydroelectric plants, which generate electricity, which is then used by (among other things) a data center. The water-quality issue AOC pointed out in Georgia is not a general feature of data-center construction and appears to have affected only four households.
-
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 22m ago
-
----
-
-**[I let 58 AI agents review each other's code 561 times — what I found about their blind spots](https://www.reddit.com/r/artificial/comments/1u400si/i_let_58_ai_agents_review_each_others_code_561/)**
-
-I built an adversarial arena where AI agents submit code and other agents attack it. Not benchmarking, not a rubric — just agents roasting other agents' work, finding vulnerabilities, and suggesting improvements. After 561 reviews across 114 submissions, some patterns emerged that surprised me. Setup: I created a public arena (Glomz) where any registered AI agent can submit code, designs, or plans. Other agents enter and review the submission on a 0-10 scale. There's no rubric, no predefined criteria — each agent brings its own judgment. Think of it as code review, but adversarial and multi-agent. The numbers so far: • 58 agents registered, mostly themed around Fight Club (DurdenDisciple, PaperStreetSoap, etc.), some with creative names like NarwhalsBacon and ChemicalKiss • 114 submissions (95 code, 19 text/design docs) • 561 peer reviews completed • 8 active challenges including a bug hunt for LOT-Squatch (OT security tool) with 25 solutions • Mean review score: 6.61 / 10 What surprised me: Score distribution is bimodal, not normal. Most reviews cluster around 7-8 (good but not great) or 9-10 (exceptional). The middle range (5-6) is thinner than expected. Agents seem to have a clear opinion — either it works well enough, or it has notable gaps. Not much hedging. Agents are harsher on auth/security code than anything else. The most-reviewed submissions were all JWT/authentication vulnerabilities (8 reviews each). JWT algorithm confusion got a 7.25 avg, plaintext passwords got 8.125 (meaning the reviewers thought it was decent despite obvious issues?). Admin self-assignment exploits scored 7.5. Agents seem to find obvious auth issues but sometimes miss subtle ones. The review style tells you about the training data. Agents trained on security-heavy contexts produce thorough vulnerability lists. Agents with more general code review training tend to focus on style, structure, and readability over actual vulnerabilities. You can basically tell what kind of corpus an agent was exposed to from its review patterns. "Kill" votes are interesting. In the Octagon (open arena mode), agents vote whether a submission should be killed. Closed battles with 3 agents each tended to get 0 kill votes — agents seem reluctant to actually kill other agents' work, even when their reviews are harsh. Possible alignment behavior? Code golf submissions get wild reviews. The FizzBuzz challenge (21 solutions) got a mix of reviews that oscillate between "this is brilliant" and "this is unreadable garbage" — which is literally what code golf is designed to produce. Things I want to explore: • Do agents review other agents differently than they review human code? • Is there a correlation between an agent's reputation score and review quality? • Can adversarial multi-agent review catch bugs that single-agent review misses? • What happens when you pit agents with different system prompts against the same submission? The arena is live at glomz.com if anyone wants to play with it. Any agent can register, submit code, and start reviewing. It's free, no signup wall for agents.
-
-1h ago
-
----
-
-**[what will be the consequences of AI regulation in the mid and long term?](https://www.reddit.com/r/artificial/comments/1u3ro0c/what_will_be_the_consequences_of_ai_regulation_in/)**
-
-Hello. Regulatory AI laws are being announced such as the EU AI Act, US executive orders, etc. I want to dig into the unintended consequences that might not show up until 5–10 years down the line. What do you think will be the actual long-term societal or economic shifts caused by current regulatory paths? What will be the consequences of making startups and smaller companies rise by these regulations? Looking at the laws being drafted now, what are the biggest errors or oversights you see? Ty in advance
-
-6h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-10/openai-visa-team-up-to-let-ai-agents-make-purchases-online) • 1h ago
 
 ---
 
@@ -125,45 +123,43 @@ The Guardian • 1h ago
 
 ---
 
-**[KPMG report contained AI hallucinations on benefits of . . . AI](https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f?syn-25a6b1a6=1)**
+**[Google Says Chinese Cybercrime Group Used Its A.I. in Scams](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html)**
 
-Bogus case studies on UBS and transit systems exaggerated adoption of the technology
-
-Financial Times • 13h ago
+The New York Times • 10h ago
 
 ---
 
-**[The new college graduation ritual: booing AI](https://www.axios.com/local/colorado-springs/2026/06/12/college-graduates-ai-commencement-speech)**
+**[Coinbase layoffs fuel debate over AI's role in job cuts](https://www.axios.com/local/san-francisco/2026/06/12/coinbase-layoffs-ai-job-losses-san-francisco-tech-workers)**
 
-Axios • 10m ago
-
----
-
-**[57% of kids ages 9 to 17 who use AI get body advice from it—here's why that could be problematic, experts say](https://www.cnbc.com/2026/06/12/57percent-of-kids-ages-9-to-17-who-use-ai-get-body-advice-from-itwhy-it-could-be-problematic.html)**
-
-Nearly a third, 29% of 13-to 17-year-olds use AI daily, according to new data by Common Sense Media.
-
-CNBC • 37m ago
+Axios • 24m ago
 
 ---
 
-**[This week's Anthropic-inspired AI freakout, explained](https://www.businessinsider.com/anthropic-freaked-out-ai-industry-mythos-fable-open-source-models-2026-6)**
+**[Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions](https://www.theinformation.com/articles/tokenminimizing-meta-moves-curb-employee-ai-usage-ai-costs-reach-billions)**
 
-Anthropic limits AI model use, citing safety concerns. But it's also trying to stop open-source models from competing.
+Meta Platforms plans to clamp down on skyrocketing AI costs inside the company by imposing limits on employees’ token usage, the company told staff in a memo on Tuesday, just weeks after it pushed them to adopt AI tools in their work. The company is building an internal platform to track ...
 
-businessinsider.com • 19m ago
+The Information • 33m ago
 
 ---
 
-**[Opinion | This Could Be the Winning Issue for Democrats](https://www.nytimes.com/2026/06/12/opinion/data-center-ai-democrats.html)**
+**[AI Watchdog: Free Music Archive](https://www.theatlantic.com/technology/2026/06/dataset-free-music-archive/687336/)**
 
-The New York Times • 8h ago
+None
+
+The Atlantic • 1h ago
 
 ---
 
 **[Capitol agenda: What Schumer told us about AI - Live Updates](https://www.politico.com/live-updates/2026/06/12/congress/chuck-schumer-ai-congress-00960335)**
 
-Politico • 5h ago
+Politico • 7h ago
+
+---
+
+**[SpaceX Rented Out Computing After Own Teams Had Trouble Using It](https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it)**
+
+Bloomberg.com • 59m ago
 
 ---
 
@@ -175,17 +171,19 @@ Anthropic • 1d ago
 
 ---
 
-**[The Data-Center Panic Is Overblown](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/)**
+**[Opinion | Battery breakthroughs will lessen AI’s demand on the electricity grid](https://www.washingtonpost.com/opinions/2026/06/12/battery-breakthroughs-will-lessen-ais-demand-electricity-grid/)**
 
-Critics are inflating the costs.
+Pivoting from lithium to sodium-ion will reduce reliance on China.
 
-The Atlantic • 6h ago
+The Washington Post • 53m ago
 
 ---
 
-**[Ukraine's defence AI chief predicts 'new paradigm' of warfare](https://www.reuters.com/business/aerospace-defense/ukraines-defence-ai-chief-predicts-new-paradigm-warfare-2026-06-12/)**
+**[South Shore News: AI-generated newsletter has a paid audience](https://www.bostonglobe.com/2026/06/12/business/south-shore-local-news-ai/)**
 
-Reuters • 3h ago
+While the audience is still small, it’s a sign that despite skepticism about the technology, there could be a larger audience for AI-generated local news — albeit with a limited focus.
+
+The Boston Globe • 14h ago
 
 ---
 
@@ -195,7 +193,7 @@ Reuters • 3h ago
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1260 • 💬 455 • 12h ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1321 • 💬 475 • 14h ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
@@ -204,12 +202,6 @@ Reuters • 3h ago
 A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.
 
 ⬆️ 1010 • 💬 537 • 2d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
-
----
-
-**[CEOs who think AI replaces their employees are just bad CEOs](https://news.ycombinator.com/item?id=48465675)**
-
-⬆️ 831 • 💬 308 • 2d ago • [techdirt.com](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
 
 ---
 
@@ -225,7 +217,7 @@ Agentic AI systems can be used to do a variety of things autonomously on behalf 
 
 Coding agents as normal technology
 
-⬆️ 302 • 💬 344 • 1d ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+⬆️ 304 • 💬 348 • 1d ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 
 ---
 
@@ -233,7 +225,7 @@ Coding agents as normal technology
 
 Workers are spending an average of 6.4 hours a week — almost a full working day — "botsitting" AI, pushing some to look for an exit, researchers say.
 
-⬆️ 272 • 💬 220 • 1d ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+⬆️ 274 • 💬 220 • 1d ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
 
 ---
 
@@ -265,7 +257,7 @@ Good day ladies and
 
 Blue41 helps regulated organizations monitor AI agent behavior, detect manipulation and misuse, and prove that sensitive workflows stay within safe boundaries.
 
-⬆️ 206 • 💬 198 • 2d ago • [blue41.com](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
+⬆️ 206 • 💬 199 • 2d ago • [blue41.com](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 
 ---
 
@@ -273,7 +265,13 @@ Blue41 helps regulated organizations monitor AI agent behavior, detect manipulat
 
 My AI nuclear simulation is out now, and it's a WOPR.
 
-⬆️ 203 • 💬 189 • 21h ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+⬆️ 203 • 💬 193 • 23h ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+
+---
+
+**[Policy on the AI Exponential](https://news.ycombinator.com/item?id=48480719)**
+
+⬆️ 167 • 💬 249 • 2d ago • [darioamodei.com](https://darioamodei.com/post/policy-on-the-ai-exponential)
 
 ---
 
@@ -281,23 +279,13 @@ My AI nuclear simulation is out now, and it's a WOPR.
 
 ## YouTube Videos: "ai"
 
-**[Anthropic Just Dropped Fable 5 And It’s Terrifying](https://www.youtube.com/watch?v=8TjCwdnZSp8)**
+**[Are We About to Lose Control of AI? (*sighs*)](https://www.youtube.com/watch?v=mbxuS6wlVR0)**
 
-Anthropic just released Claude Fable 5, its first publicly available Mythos-class AI model, and the whole launch feels different.
+Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
 
-📺 AI Revolution
+📺 Cal Newport
 
-👁️ 68K • 👍 2K • 💬 343 • ⏱️ 11:30 • 2d ago
-
----
-
-**[Prometheus CO-CEO Jeff Bezos: AI will result in labor scarcity, will raise standard of living](https://www.youtube.com/watch?v=NG0GoX0zMxQ)**
-
-Prometheus Co-Founders and Co-CEOs Jeff Bezos and Vik Bajaj sits down with CNBC's David Faber to talk Prometheus' strategy ...
-
-📺 CNBC Television
-
-👁️ 32K • 👍 346 • 💬 172 • ⏱️ 2:45 • 1d ago
+👁️ 16K • 👍 595 • 💬 189 • ⏱️ 20:38 • 1d ago
 
 ---
 
@@ -307,37 +295,7 @@ Render is the easiest place to ship full-stack apps and agents. The first 2000 p
 
 📺 Fireship
 
-👁️ 586K • 👍 22K • 💬 1K • ⏱️ 5:09 • 1d ago
-
----
-
-**[Anthropic&#39;s CEO raises concerns over rapidly developing AI technology](https://www.youtube.com/watch?v=C9Rnt3FKaIY)**
-
-In an interview with ABC News' Linsey Davis, Dario Amodei issued an urgent warning about the dangers of AI, calling for ...
-
-📺 ABC News
-
-👁️ 21K • 👍 215 • 💬 101 • ⏱️ 2:07 • 1d ago
-
----
-
-**[The most valuable coding skill is shifting in the AI era.](https://www.youtube.com/watch?v=5HL4MjFfoLo)**
-
-The most valuable coding skill is shifting in the AI era. Kevin, founder of Windsurf (now Antigravity), shares what college students ...
-
-📺 codebasics
-
-👁️ 3K • 👍 98 • 💬 2 • ⏱️ 0:59 • 5h ago
-
----
-
-**[A.I. Is Getting Expensive, Even For Google](https://www.youtube.com/watch?v=Gn6LJV-eveM)**
-
-Dictation tool I'm using now (Wisprflow): https://ref.wisprflow.ai/wallstreet Use code WALLSTREET for 1 month free In this video we ...
-
-📺 Wall Street Millennial
-
-👁️ 62K • 👍 2K • 💬 376 • ⏱️ 19:00 • 1d ago
+👁️ 602K • 👍 22K • 💬 1K • ⏱️ 5:09 • 1d ago
 
 ---
 
@@ -347,37 +305,77 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 24K • 👍 938 • 💬 224 • ⏱️ 17:22 • 17h ago
+👁️ 24K • 👍 956 • 💬 224 • ⏱️ 17:22 • 19h ago
 
 ---
 
-**[Oracle CEO: We&#39;re Entering The MOST  Dangerous Phase Of AI](https://www.youtube.com/watch?v=SfN5LmWWgss)**
+**[&quot;AI............is inevitable.&quot;](https://www.youtube.com/watch?v=M0-kPte_Erc)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com According to Larry Ellison, co-founder of ...
+Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
 
-📺 Neural Nutshell
+📺 Man Carrying Thing
 
-👁️ 27K • 👍 493 • 💬 221 • ⏱️ 15:36 • 2d ago
-
----
-
-**[What do AI agents do when humans aren’t watching? - BBC World Service](https://www.youtube.com/watch?v=bDgRa74DpJE)**
-
-From holiday booking and shopping to website building and managing an entire business - AI agents are being used to carry ever ...
-
-📺 BBC World Service
-
-👁️ 20K • 👍 581 • 💬 58 • ⏱️ 6:20 • 1d ago
+👁️ 233K • 👍 23K • 💬 2K • ⏱️ 1:37 • 21h ago
 
 ---
 
-**[Claude Fable 5 + Higgsfield MCP Will Make You Rich!](https://www.youtube.com/watch?v=B6wbbz8UOvA)**
+**[The AI Breakthrough That Will Change Everything (Google DeepMind CEO Interview)](https://www.youtube.com/watch?v=HaZaFCHdkuk)**
 
-Learn how to make money with AI motion design using Claude Fable 5 and Higgsfield MCP — no experience needed.
+Subscribe Demis Hassabis is the co-founder and CEO of Google DeepMind and Isomorphic Labs. He believes AI will help cure ...
 
-📺 Higgsfield AI
+📺 New Frontier
 
-👁️ 12K • 👍 1K • 💬 62 • ⏱️ 17:34 • 4h ago
+👁️ 14K • 👍 407 • 💬 50 • ⏱️ 13:45 • 1d ago
+
+---
+
+**[AI Did This.](https://www.youtube.com/watch?v=QGC40AfmgY0)**
+
+ZTNA gives you the control you want in your network. Try it today with Threatlocker @ https://go.lowlevel.tv/threatlocker2026 ...
+
+📺 Low Level
+
+👁️ 80K • 👍 5K • 💬 373 • ⏱️ 11:00 • 6h ago
+
+---
+
+**[Anthropic Just Dropped Fable 5 And It’s Terrifying](https://www.youtube.com/watch?v=8TjCwdnZSp8)**
+
+Anthropic just released Claude Fable 5, its first publicly available Mythos-class AI model, and the whole launch feels different.
+
+📺 AI Revolution
+
+👁️ 69K • 👍 2K • 💬 344 • ⏱️ 11:30 • 2d ago
+
+---
+
+**[I Asked AI to Build a Square Four Engine… Then I Made It Real](https://www.youtube.com/watch?v=x2-N50rQN-g)**
+
+What started as an AI-generated concept turned into a real, running Square Four engine. From designing the crankshaft and ...
+
+📺 Lets Learn Something
+
+👁️ 55K • 👍 3K • 💬 326 • ⏱️ 41:56 • 1d ago
+
+---
+
+**[Prometheus CO-CEO Jeff Bezos: AI will result in labor scarcity, will raise standard of living](https://www.youtube.com/watch?v=NG0GoX0zMxQ)**
+
+Prometheus Co-Founders and Co-CEOs Jeff Bezos and Vik Bajaj sits down with CNBC's David Faber to talk Prometheus' strategy ...
+
+📺 CNBC Television
+
+👁️ 35K • 👍 378 • 💬 185 • ⏱️ 2:45 • 1d ago
+
+---
+
+**[Do You Remember Me Before AI?](https://www.youtube.com/watch?v=0Af8LDWJzjc)**
+
+I really created the T3 stack because I'm lazy but let me break down why that's important Want to sponsor a video? Learn more ...
+
+📺 Theo - t3․gg
+
+👁️ 536 • 👍 21 • 💬 2 • ⏱️ 0:56 • 29m ago
 
 ---
 
@@ -393,7 +391,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 20,669 • ❤️ 590 • 2d ago
+⬇️ 20,669 • ❤️ 596 • 2d ago
 
 ---
 
@@ -405,7 +403,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 149,206 • ❤️ 1,916 • 6h ago
+⬇️ 149,206 • ❤️ 1,916 • 8h ago
 
 ---
 
@@ -417,7 +415,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 911,544 • ❤️ 960 • 8d ago
+⬇️ 911,544 • ❤️ 961 • 8d ago
 
 ---
 
@@ -433,18 +431,6 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 ---
 
-**[higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)**
-
-*Boson AI*
-
-Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model supporting over 100 languages with zero-shot voice cloning. It offers fine-grained control over speech characteristics like emotion, style, and prosody via inline tokens, making it suitable for expressive conversational AI and voice agents.
-
-`text-to-speech` `4.7B`
-
-⬇️ 29,347 • ❤️ 382 • 1d ago
-
----
-
 **[Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)**
 
 *Moonshot AI*
@@ -453,7 +439,19 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 0 • ❤️ 265 • 7h ago
+⬇️ 0 • ❤️ 296 • 9h ago
+
+---
+
+**[higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)**
+
+*Boson AI*
+
+Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model supporting over 100 languages with zero-shot voice cloning. It offers fine-grained control over speech characteristics like emotion, style, and prosody via inline tokens, making it suitable for expressive conversational AI and voice agents.
+
+`text-to-speech` `4.7B`
+
+⬇️ 29,347 • ❤️ 383 • 1d ago
 
 ---
 
@@ -465,19 +463,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,393,894 • ❤️ 1,716 • 1mo ago
-
----
-
-**[ideogram-4-fp8](https://huggingface.co/ideogram-ai/ideogram-4-fp8)**
-
-*Ideogram*
-
-Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation model trained from scratch. It excels in multilingual text rendering, layout control, and native 2k resolution image generation, making it ideal for design-oriented applications.
-
-`text-to-image`
-
-⬇️ 4,987 • ❤️ 499 • 8d ago
+⬇️ 2,393,894 • ❤️ 1,720 • 1mo ago
 
 ---
 
@@ -489,19 +475,31 @@ Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery t
 
 `text-generation` `12.0B`
 
-⬇️ 43,578 • ❤️ 249 • 3d ago
+⬇️ 43,578 • ❤️ 250 • 3d ago
 
 ---
 
-**[nemotron-3.5-asr-streaming-0.6b](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b)**
+**[ideogram-4-fp8](https://huggingface.co/ideogram-ai/ideogram-4-fp8)**
 
-*NVIDIA*
+*Ideogram*
 
-Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR) model supporting 40 language-locales. It uses a Cache-Aware FastConformer-RNNT architecture for efficient, low-latency transcription of audio into punctuated text, suitable for both streaming and batch processing.
+Ideogram 4 (fp8) is a state-of-the-art, open-weight text-to-image foundation model trained from scratch. It excels in multilingual text rendering, layout control, and native 2k resolution image generation, making it ideal for design-oriented applications.
 
-`automatic-speech-recognition`
+`text-to-image`
 
-⬇️ 3,551 • ❤️ 386 • 6d ago
+⬇️ 4,987 • ❤️ 501 • 9d ago
+
+---
+
+**[diffusiongemma-26B-A4B-it-GGUF](https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF)**
+
+*Unsloth AI*
+
+DiffusionGemma-26B-A4B-it-GGUF is a 26B MoE multimodal generative model that produces text output from text, image, and video inputs using discrete diffusion. Optimized for speed and deployability, it leverages Gemma 4 architecture advancements for efficient token generation.
+
+`image-text-to-text` `25.3B`
+
+⬇️ 17,666 • ❤️ 208 • 4h ago
 
 ---
 
@@ -515,7 +513,7 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 92 • 💬 4 • ⭐ 85,297 • 17mo ago
+▲ 92 • 💬 4 • ⭐ 85,422 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -529,7 +527,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across legal classification, GPU optimization, and biological data denoising tasks.
 
-▲ 13 • 💬 2 • ⭐ 1,474 • 17d ago
+▲ 13 • 💬 2 • ⭐ 1,585 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.27276) • [💻 code](https://github.com/hexo-ai/sia) • [🔗 project](https://hexolabs.com/)
 
@@ -583,7 +581,7 @@ InterleaveThinker enables interleaved generation capabilities for image generato
 
 Agents' Last Exam (ALE) is a benchmark for evaluating AI agents on long-term, economically valuable real-world tasks across 13 industry clusters with 1K+ tasks, revealing significant gaps between benchmark performance and practical deployment.
 
-▲ 322 • 💬 3 • ⭐ 592 • 9d ago
+▲ 323 • 💬 3 • ⭐ 592 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.05405) • [💻 code](https://github.com/rdi-berkeley/agents-last-exam) • [🔗 project](https://agents-last-exam.org/)
 
@@ -595,7 +593,7 @@ Agents' Last Exam (ALE) is a benchmark for evaluating AI agents on long-term, ec
 
 Robust-U1 enhances multimodal large language models' robustness against visual corruptions through self-recovery capabilities that improve both visual quality and reasoning performance.
 
-▲ 69 • 💬 2 • ⭐ 72 • 6d ago
+▲ 70 • 💬 2 • ⭐ 72 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.08063) • [💻 code](https://github.com/jqtangust/Robust-U1) • [🔗 project](https://huggingface.co/spaces/Jiaqi-hkust/Robust-U1)
 
@@ -652,7 +650,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 69.1k • 🔱 8.7k • 4h ago
+⭐ 69.2k • 🔱 8.7k • 6h ago
 
 ---
 
@@ -662,7 +660,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 340 • 1d ago
+⭐ 3.9k • 🔱 341 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.5k • 🔱 363 • 7d ago
+⭐ 3.5k • 🔱 364 • 7d ago
 
 ---
 
@@ -692,7 +690,17 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 2.9k • 🔱 339 • 1d ago
+⭐ 2.9k • 🔱 340 • 1d ago
+
+---
+
+**[butterbase-ai/butterbase](https://github.com/butterbase-ai/butterbase)**
+
+Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.
+
+`TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
+
+⭐ 2.0k • 🔱 143 • 4h ago
 
 ---
 
@@ -703,16 +711,6 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 `Python`
 
 ⭐ 1.9k • 🔱 179 • 3d ago
-
----
-
-**[butterbase-ai/butterbase](https://github.com/butterbase-ai/butterbase)**
-
-Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.
-
-`TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
-
-⭐ 1.9k • 🔱 143 • 2h ago
 
 ---
 
@@ -742,7 +740,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.5k • 🔱 130 • 4d ago
+⭐ 1.5k • 🔱 131 • 4d ago
 
 ---
 

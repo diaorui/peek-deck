@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-12T17:22:24.065786+00:00'
+updated: '2026-06-12T19:30:14.438216+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 12, 2026 at 17:22 UTC  
+**Last Updated:** June 12, 2026 at 19:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-7h ago
+9h ago
 
 ---
 
 **[test the stereo depth, only-vision](https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-24m ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 This video demonstrates the general concept that makes a differential wrist joint work. Both motors working together achieve two degrees of freedom.
 
-16h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ This video demonstrates the general concept that makes a differential wrist join
 
 At Foxglove, we collaborated with Aditya Kamath, resulting in another blog post in his ROS 2 LeKiwi series, this time covering the integration of SLAM and Nav2. This blog post should be relevant to anyone wanting to integrate Nav2, even if they don't have a holonomic platform. If you find this kind of content useful, let us know, and we will keep it coming!
 
-🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 6h ago
+🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 8h ago
 
 ---
 
@@ -80,7 +80,7 @@ At Foxglove, we collaborated with Aditya Kamath, resulting in another blog post 
 
 I'm building an autonomous rover using ROS2. For mapping, I'm using SLAM Toolbox, and my goal is to navigate the rover autonomously. My rover uses BLDC hub motors (the type of wheel in the picture) that have built-in hall sensors. However, I'm confused about how to generate the /odom topic required by SLAM Toolbox using these hall sensors. From what I understand, SLAM Toolbox needs odometry data, but I'm not sure: How to convert hall sensor readings into wheel odometry. How to calculate wheel position, velocity, and robot pose from the hall sensor data. Whether hall sensors alone are accurate enough for odometry. If there are any ROS2 packages or existing solutions that can help with this. Has anyone implemented odometry using BLDC hub motor hall sensors in ROS2? Any examples, tutorials, or advice would be greatly appreciated.
 
-21h ago
+23h ago
 
 ---
 
@@ -96,13 +96,13 @@ I am 16 years old and have absolutely no experience with Linux, and I am looking
 
 No the thumbnail is not fake and shes quite talented would not be surprised if she is in here anyways enjoy —————————————————————————————————————-——————————————————————-
 
-🔗 [youtu.be](https://youtu.be/iMNQjPxvfTk?is=n-td5S6DHMVQagKt) • 22h ago
+🔗 [youtu.be](https://youtu.be/iMNQjPxvfTk?is=n-td5S6DHMVQagKt) • 1d ago
 
 ---
 
 **[Que opinan](https://www.reddit.com/r/robotics/comments/1u3mxq4/que_opinan/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -110,9 +110,11 @@ No the thumbnail is not fake and shes quite talented would not be surprised if s
 
 ## Google News: "robotics"
 
-**[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
+**[Powering the future of robotics in Europe](https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/)**
 
-The New York Times • 1d ago
+Google DeepMind Accelerator selects 15 robotics companies from across Europe to join the program. Providing 3 months of intensive mentorship and technical support, enabl…
+
+blog.google • 3d ago
 
 ---
 
@@ -122,23 +124,11 @@ Barron's • 1d ago
 
 ---
 
-**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
-
-WSJ • 18h ago
-
----
-
 **[India’s workers are training AI robots to take their jobs](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)**
 
 Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
 
 Al Jazeera • 1d ago
-
----
-
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
-
-Bloomberg.com • 7h ago
 
 ---
 
@@ -154,7 +144,7 @@ The Atlantic • 1d ago
 
 A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
 
-NASA Science (.gov) • 22h ago
+NASA Science (.gov) • 1d ago
 
 ---
 
@@ -162,7 +152,7 @@ NASA Science (.gov) • 22h ago
 
 Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.
 
-TechCrunch • 15h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -180,6 +170,20 @@ WSJ • 1d ago
 
 ---
 
+**[German start-up Neura raises $1.4bn in humanoid robot push](https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772?syn-25a6b1a6=1)**
+
+Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
+
+Financial Times • 2d ago
+
+---
+
+**[Humanoid Robot Manufacturer EngineAI Is Said to File for Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo)**
+
+Bloomberg.com • 17h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -190,17 +194,7 @@ The humanoid robot race just left the demo stage — and entered the factory flo
 
 📺 The AI Nexus
 
-👁️ 754 • 👍 56 • 💬 4 • ⏱️ 28:04 • 13h ago
-
----
-
-**[Unitree G1 Humanoid Robot: Overview &amp; Upcoming Teardown](https://www.youtube.com/watch?v=udhR37iq0RU)**
-
-In this video, we take an look at the Unitree G1, exploring its design, capabilities, and key features. Most importantly, this video ...
-
-📺 Munro Live
-
-👁️ 71K • 👍 430 • 💬 43 • ⏱️ 6:04 • 6d ago
+👁️ 780 • 👍 58 • 💬 4 • ⏱️ 28:04 • 16h ago
 
 ---
 
@@ -210,7 +204,17 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 80K • 👍 1K • 💬 135 • ⏱️ 6:09 • 2d ago
+👁️ 82K • 👍 1K • 💬 135 • ⏱️ 6:09 • 2d ago
+
+---
+
+**[This Makes NO SENSE... Thunder Bagliore CRUSHING The Strongest Mechs | War Robots](https://www.youtube.com/watch?v=3holEGTbl18)**
+
+Thunder are back! This doesnt even make sense but it works. The thunder have to be some of the oldest weapons in the game, ...
+
+📺 PREDATOR WR
+
+👁️ 6K • 👍 298 • 💬 44 • ⏱️ 13:43 • 7h ago
 
 ---
 
@@ -234,53 +238,33 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 ---
 
-**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
-
-500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
-
-📺 KF Labs
-
-👁️ 8K • 👍 256 • 💬 5 • ⏱️ 0:05 • 8h ago
-
----
-
 **[New AI Robot Technology From China Is Getting TOO Advanced... Experts Are Worried](https://www.youtube.com/watch?v=ZNhwMVyeXWw)**
 
 A humanoid hand sweats like human skin while tightening bolts for three hours straight without overheating. That's Xiaomi's ...
 
 📺 NextGen Humanoids
 
-👁️ 7K • 👍 160 • 💬 15 • ⏱️ 8:16 • 4d ago
+👁️ 8K • 👍 160 • 💬 15 • ⏱️ 8:16 • 4d ago
 
 ---
 
-**[Unitree Robot + Human Dancer on AGT = 🔥  #robotics #robot #agt #ai #unitree](https://www.youtube.com/watch?v=t1ya7bTuTEc)**
+**[Getting Started with NVIDIA Cosmos 3 for Robotics and Physical AI | Cosmos Labs](https://www.youtube.com/watch?v=9XZeMdnI79I)**
 
-A brief description of the video... You'll learn: - How to - How to - How to Related courses & tutorials: * * -- #ROS #Robot ...
+Join NVIDIA for an introduction to Cosmos 3, the latest evolution of NVIDIA's world foundation model platform for physical AI.
 
-📺 The Construct Robotics Institute
+📺 NVIDIA Developer
 
-👁️ 15K • 👍 205 • 💬 22 • ⏱️ 0:57 • 2d ago
-
----
-
-**[War Robots - Shoggoth Transformed Into One Of The Craziest Brawlers Of 2026! WR Shoggoth Gameplay](https://www.youtube.com/watch?v=yDVQTF53aWQ)**
-
-War Robots - Shoggoth transformed into one of the craziest brawlers of 2026. In this video, I run Ultimate Redeemer and Ultimate ...
-
-📺 Adrian Chong
-
-👁️ 6K • 👍 317 • 💬 65 • ⏱️ 15:00 • 2d ago
+👁️ 3K • 👍 142 • 💬 1 • ⏱️ 1:03:54 • 1d ago
 
 ---
 
-**[The Company That Beat Tesla on EVs Is Now Building Humanoid Robots](https://www.youtube.com/watch?v=EbXtwJBNAWA)**
+**[Gemma Playground: Robot Duck](https://www.youtube.com/watch?v=pLwB_63yUBY)**
 
-SOURCES BYD confirms humanoid robot development, says future sales could use dealer network ...
+Xavier Plantaz, Partner Solutions Engineer at Google, brings two Open Duck Mini v2 robots, built by Antoine Pirrone, on-device ...
 
-📺 Jason Lowe on AI
+📺 Google for Developers
 
-👁️ 68K • 👍 2K • 💬 195 • ⏱️ 2:20 • 4d ago
+👁️ 29K • 👍 1K • 💬 70 • ⏱️ 2:11 • 3d ago
 
 ---
 

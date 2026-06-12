@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-12T17:22:24.056515+00:00'
+updated: '2026-06-12T19:30:14.429702+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 17:22 UTC  
+**Last Updated:** June 12, 2026 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,031.94
+### $63,694.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.8%  
-**30d:** -21.2%  
-**90d:** -12.2%  
-**1y:** -39.8%  
+**24h:** +0.5%  
+**7d:** +4.6%  
+**30d:** -21.4%  
+**90d:** -12.4%  
+**1y:** -39.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1279.38B
+**Market Cap:** $1276.38B
 Rank #1
 
-**Circulating Supply:** 20,041,825 BTC
+**Circulating Supply:** 20,041,862 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.5%
 
 **All-Time Low:** $67.81
-+94011.5%
++93861.1%
 
 ---
 
@@ -165,53 +165,71 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
 
 ---
 
-**[JPMorgan says debasement trade retreat has 'accelerated' for bitcoin](https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold)**
+**[US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows](https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume)**
 
-The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.
+BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trading volume, with a current 73.7% market share.
 
-The Block • 23h ago
+The Block • 6h ago
 
 ---
 
-**[Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin](https://finance.yahoo.com/markets/crypto/articles/elon-musks-spacex-ipo-bull-122500462.html)**
+**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
+
+Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
+
+Forbes • 1h ago
+
+---
+
+**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
+
+The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
+
+CNBC • 2h ago
+
+---
+
+**[Strategy CEO reveals the company's approach to selling bitcoin](https://finance.yahoo.com/video/strategy-ceo-reveals-companys-approach-190000213.html)**
+
+Scott Melker chats with Strategy (MSTR) President and CEO Phong Le to discuss the company's approach to managing and potentially selling its massive bitcoin (BTC-USD) holdings, as well as the long-term vision behind its bitcoin treasury strategy.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
+
+Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
+
+CoinDesk • 1d ago
+
+---
+
+**[Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin](https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin)**
 
 SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.
 
-Yahoo Finance • 4h ago
+Decrypt • 7h ago
+
+---
+
+**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
+
+WSJ • 5h ago
 
 ---
 
 **[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Live updates: Bitcoin edges higher on Iran peace hope as SpaceX opens for trade](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
-
-Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
-
-CoinDesk • 1h ago
-
----
-
-**[Forget Bitcoin ETFs: This Crypto Stock Fund Is Up 11% YTD While Bitcoin Drops 29%](https://finance.yahoo.com/markets/crypto/articles/forget-bitcoin-etfs-crypto-stock-154420158.html)**
-
-Spot Bitcoin ETFs were supposed to be the simplest way to own crypto. Funds like the iShares Bitcoin Trust (NASDAQ:IBIT) made it easy: low fees, direct spot exposure, no wallet headaches. Buyers in early 2026 wanted clean access to crypto’s upside. Instead they got a fund tracking a coin down 29.36% year to date. The Amplify Transformational Data Sharing ... Forget Bitcoin ETFs: This Crypto Stock Fund Is Up 11% YTD While Bitcoin Drops 29%
-
-Yahoo Finance • 1h ago
-
----
-
-**[Somerville homeowners oppose bitcoin mining data center proposal](https://www.waff.com/2026/06/12/somerville-homeowners-oppose-bitcoin-mining-data-center-proposal/)**
-
-Somerville homeowners are rejecting a bitcoin data mining center planned for construction near their properties, turning down offers of cash, free internet service and other incentives.
-
-WAFF • 13h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -219,21 +237,7 @@ WAFF • 13h ago
 
 Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
 
-galaxy.com • 12h ago
-
----
-
-**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
-
-MarketWatch • 22h ago
-
----
-
-**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
-
-Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
-
-Bitcoin Magazine • 3h ago
+galaxy.com • 14h ago
 
 ---
 
@@ -321,33 +325,23 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
-
-Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 2K • 💬 426 • ⏱️ 20:54 • 20h ago
-
----
-
 **[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
 
 Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
 
 📺 Gareth Soloway
 
-👁️ 27K • 👍 2K • 💬 166 • ⏱️ 14:32 • 5h ago
+👁️ 33K • 👍 2K • 💬 173 • ⏱️ 14:32 • 7h ago
 
 ---
 
-**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
+**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
 
-This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
+Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 150 • ⏱️ 8:18 • 19h ago
+👁️ 22K • 👍 2K • 💬 424 • ⏱️ 20:54 • 22h ago
 
 ---
 
@@ -357,7 +351,17 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 683 • 💬 23 • ⏱️ 9:35 • 9h ago
+👁️ 10K • 👍 704 • 💬 27 • ⏱️ 9:35 • 12h ago
+
+---
+
+**[Is a New Bitcoin Low Coming Soon?](https://www.youtube.com/watch?v=09YFg6LdNSY)**
+
+In this video I break down the latest Bitcoin price action to determine whether we are witnessing the start of a wave 2 bounce or if ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 407 • 💬 16 • ⏱️ 10:51 • 5h ago
 
 ---
 
@@ -367,17 +371,27 @@ Trump Iran news, Bitcoin charts, Ethereum, Solana, Micron, and more BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 9K • 👍 542 • 💬 51 • ⏱️ 16:44 • 6h ago
+👁️ 10K • 👍 572 • 💬 56 • ⏱️ 16:44 • 8h ago
 
 ---
 
-**[BITCOIN: This Breakout Will Be BIG! (get ready) - BTC Price Prediction Today](https://www.youtube.com/watch?v=C5d5KjfAFb8)**
+**[Why hasn’t Bitcoin replaced the dollar?](https://www.youtube.com/watch?v=dbJVJiTUpBY)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
-📺 BitcoinHyper
+📺 NPR's Planet Money
 
-👁️ 7K • 👍 461 • 💬 18 • ⏱️ 13:24 • 8h ago
+👁️ 6K • 👍 1K • 💬 36 • ⏱️ 1:24 • 2h ago
+
+---
+
+**[BITCOIN IS ABOUT TO BREAK OUT !!!!! 🚀](https://www.youtube.com/watch?v=eHtDXpmcwTg)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 3K • 👍 182 • 💬 13 • ⏱️ 4:35 • 6h ago
 
 ---
 
@@ -387,37 +401,27 @@ Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In to
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 468 • 💬 15 • ⏱️ 17:44 • 7h ago
+👁️ 8K • 👍 481 • 💬 15 • ⏱️ 17:44 • 9h ago
 
 ---
 
-**[🚨 BITCOIN: DANGER DANGER DANGER !!!](https://www.youtube.com/watch?v=Ww0jWSabAM0)**
+**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
 
-📺 Crypto Kid
+📺 Altcoin Daily
 
-👁️ 4K • 👍 301 • 💬 297 • ⏱️ 11:21 • 19h ago
-
----
-
-**[This is one of the best bear markets for bitcoin, says Anthony Pompliano](https://www.youtube.com/watch?v=h49tQmFjI_o)**
-
-Anthony Pompliano, ProCap Financial chairman and CEO, joins 'Squawk box' to discuss the state of crypto, what's driving the ...
-
-📺 CNBC Television
-
-👁️ 50K • 👍 520 • 💬 360 • ⏱️ 6:00 • 2d ago
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 8:18 • 21h ago
 
 ---
 
-**[Is Bitcoin actually failing at its own game?](https://www.youtube.com/watch?v=14RB07Nv04E)**
+**[Bitcoin: Using On-Chain Metrics To Identify Market Cycle Bottoms](https://www.youtube.com/watch?v=Di8YR9nX8Q8)**
 
-While many view cryptocurrency as the future of finance, the reality of its scalability remains a major hurdle. Even with its massive ...
+This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
 
-📺 CryptoHarbor
+📺 Benjamin Cowen
 
-👁️ 684 • 👍 4 • ⏱️ 0:32 • 7h ago
+👁️ 48K • 👍 4K • 💬 156 • ⏱️ 10:27 • 16h ago
 
 ---
 
