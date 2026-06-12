@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-12T01:56:47.159618+00:00'
+updated: '2026-06-12T06:46:02.196056+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 01:56 UTC  
+**Last Updated:** June 12, 2026 at 06:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,676.44
+### $1,678.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +6.2%  
-**30d:** -27.0%  
-**90d:** -23.5%  
-**1y:** -35.5%  
+**24h:** +0.1%  
+**7d:** +5.5%  
+**30d:** -27.5%  
+**90d:** -24.0%  
+**1y:** -35.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $200.87B
+**Market Cap:** $199.47B
 Rank #2
 
 **Circulating Supply:** 120,684,283 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-66.6%
 
 **All-Time Low:** $0.43
-+384322.8%
++381588.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -88,13 +88,13 @@ Like you know that feeling of knowing what something is and reading alot about i
 
 I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
 
-17h ago
+22h ago
 
 ---
 
 **[What Crypto prediction lives rent free in your head?](https://www.reddit.com/r/ethereum/comments/1u30opm/what_crypto_prediction_lives_rent_free_in_your/)**
 
-11h ago
+16h ago
 
 ---
 
@@ -110,7 +110,7 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I still can't understand how ETH wants to become private when we can see all the transactions on etherscan. What is a new Privacy Upgrade? Is it going to be on L1?
 
-22h ago
+1d ago
 
 ---
 
@@ -134,7 +134,7 @@ Hey everyone, I've been running a solo validator for about 8 months now and want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -150,14 +150,6 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 ## Google News: "ethereum"
 
-**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
-
-Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
-
-The Block • 1d ago
-
----
-
 **[The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)**
 
 A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.
@@ -166,11 +158,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Tom Lee Says Bitmine To Slow Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html)**
+**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
 
-Tom Lee, chairman of Bitmine Immersion Technology (NYSE: $BMNR), says the crypto treasury company is likely to slow...
+Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
-Yahoo Finance • 44m ago
+The Block • 1d ago
 
 ---
 
@@ -182,15 +174,31 @@ One year later, Buterin and a team of cofounders raised $18 million for Ethereum
 
 More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
 
-Fortune • 13h ago
+Fortune • 18h ago
 
 ---
 
-**[cirBTC Is Live on Ethereum for Wrapped BTC Deployment](https://www.circle.com/blog/cirbtc-is-now-live-on-ethereum)**
+**[Bitcoin and ethereum prices today, Thursday, June 11, 2026: Prices lifting off low opening figures](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-11-2026-prices-lifting-off-low-opening-figures-114705725.html)**
 
-Now live on Ethereum, cirBTC is a 1:1 BTC-backed token that delivers secure, neutral collateral across DeFi on Ethereum, with planned Arc and multichain support.
+Bitcoin opened at $61,456.17 on Thursday, June 11, 2026, down 0.3% from Wednesday's opening price. The value of bitcoin rose substantially this morning to $63,020 by 7:39 a.m. ET.  Ethereum opened at $1,620.37, down 1.1% from yesterday's opening price. The price of ethereum firmed this morning as well, moving to $1,660.32 by 7:39 a.m. ET.
 
-Circle Internet Financial • 3d ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Ethereum Futures Just Hit A Binance Record: Are Traders Calling The Bottom?](https://www.tradingview.com/news/newsbtc:4f692a127094b:0-ethereum-futures-just-hit-a-binance-record-are-traders-calling-the-bottom/)**
+
+Ethereum derivatives activity is flashing a fresh signal on Binance, where open interest measured in ETH terms has reached a new all-time high. The move comes as traders reassess Ethereum after a steep drawdown, even as macro and geopolitical uncertainty continue to suppress broader risk appetite.C…
+
+TradingView • 15h ago
+
+---
+
+**[TurboFlow adopts Chainlink for continuous prediction markets on gold, Bitcoin, and Ethereum](https://cryptobriefing.com/turboflow-chainlink-prediction-markets/)**
+
+TurboFlow integrates Chainlink oracles for continuous prediction markets on gold, Bitcoin, and Ethereum with 30-second windows and up to 1,000x leverage.
+
+Crypto Briefing • 12h ago
 
 ---
 
@@ -202,19 +210,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Futures Just Hit A Binance Record: Are Traders Calling The Bottom?](https://www.tradingview.com/news/newsbtc:4f692a127094b:0-ethereum-futures-just-hit-a-binance-record-are-traders-calling-the-bottom/)**
+**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
-Ethereum derivatives activity is flashing a fresh signal on Binance, where open interest measured in ETH terms has reached a new all-time high. The move comes as traders reassess Ethereum after a steep drawdown, even as macro and geopolitical uncertainty continue to suppress broader risk appetite.C…
+Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
 
-TradingView • 10h ago
-
----
-
-**[TurboFlow adopts Chainlink for continuous prediction markets on gold, Bitcoin, and Ethereum](https://cryptobriefing.com/turboflow-chainlink-prediction-markets/)**
-
-TurboFlow integrates Chainlink oracles for continuous prediction markets on gold, Bitcoin, and Ethereum with 30-second windows and up to 1,000x leverage.
-
-Crypto Briefing • 7h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Motley Fool • 1d ago
 
 **[Ethereum Price Nears Key Bottom as BitMine Buys 126,971 ETH Despite Market Selloff](https://www.ccn.com/analysis/crypto/ethereum-price-bottom-bitmine-buys-eth-market-selloff/)**
 
-CCN.com • 12h ago
+CCN.com • 17h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 130 • 💬 36 • ⏱️ 16:46 • 13h ago
+👁️ 3K • 👍 142 • 💬 40 • ⏱️ 16:46 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 319 • 💬 286 • ⏱️ 12:37 • 1d ago
+👁️ 6K • 👍 323 • 💬 285 • ⏱️ 12:37 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 698 • 💬 328 • ⏱️ 11:58 • 1d ago
+👁️ 11K • 👍 644 • 💬 352 • ⏱️ 11:58 • 1d ago
 
 ---
 
@@ -272,7 +272,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 319 • 👍 20 • 💬 3 • ⏱️ 5:41 • 8h ago
+👁️ 356 • 👍 20 • 💬 3 • ⏱️ 5:41 • 12h ago
+
+---
+
+**[Bitcoin &amp; Ethereum ausgebrochen! Longs laufen, wir warten auf unsere Ziele um auszucashen!](https://www.youtube.com/watch?v=Lzusyl9KXo0)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 352 • 💬 42 • ⏱️ 13:04 • 2h ago
 
 ---
 
@@ -282,25 +292,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitco
 
 📺 Charts & Cars by Philip Klinkmüller
 
-👁️ 17K • 👍 2K • 💬 90 • ⏱️ 22:40 • 9h ago
-
----
-
-**[Buy Ethereum Now Or Wait For $1.3K Dip? #crypto #ethereum](https://www.youtube.com/watch?v=jMgxbWh75vw)**
-
-Ethereum could still drop to its 2025 crash low around $1.3K and a lot of people are waiting for exactly that But here's the question ...
-
-📺 Crypto Archie
-
-👁️ 922 • 👍 31 • 💬 20 • ⏱️ 0:40 • 10h ago
-
----
-
-**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
-
-📺 CryptoWendyO
-
-👁️ 12K • 👍 746 • 💬 39 • ⏱️ 2:28 • 2d ago
+👁️ 18K • 👍 2K • 💬 113 • ⏱️ 22:40 • 14h ago
 
 ---
 
@@ -310,27 +302,35 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 285 • 💬 82 • ⏱️ 15:00 • 2d ago
+👁️ 6K • 👍 285 • 💬 83 • ⏱️ 15:00 • 2d ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=enzEVHGYroU)**
+**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
 
-BITCOIN & CRYPTO: WATCH BEFORE TOMORROW (SpaceX IPO)!!! - Bitcoin News Today, Ethereum & Altcoins *SpaceX ...
+SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
 
-📺 Crypto World
+📺 CryptoWendyO
 
-👁️ 7K • 👍 325 • 💬 176 • ⏱️ 18:56 • 13h ago
+👁️ 6K • 👍 299 • 💬 10 • ⏱️ 21:04 • 12h ago
 
 ---
 
-**[Secret Chinese Crypto 10x?! Everything You Should Know About China&#39;s &quot;Ethereum&quot; Token (CFX)](https://www.youtube.com/watch?v=X9E1B5n_3p8)**
+**[MASSIVE XRP JAPAN BANK NEWS $10,000 ETHEREUM (MANIFESTING) #xrp #ethereum #ai](https://www.youtube.com/watch?v=7nea-f-tin0)**
 
-See Full Video: ...
+📺 CryptoWendyO
 
-📺 Future Forecasters
+👁️ 12K • 👍 756 • 💬 39 • ⏱️ 2:28 • 2d ago
 
-👁️ 643 • 👍 69 • 💬 48 • ⏱️ 9:17 • 6h ago
+---
+
+**[XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!)](https://www.youtube.com/watch?v=TIW18EpM6Is)**
+
+XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, ...
+
+📺 NCashOfficial
+
+👁️ 6K • 👍 446 • 💬 53 • ⏱️ 15:23 • 14h ago
 
 ---
 
