@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T05:02:56.518752+00:00'
+updated: '2026-06-13T08:36:54.239689+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 05:02 UTC  
+**Last Updated:** June 13, 2026 at 08:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,662.92
+### $1,673.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -1.4%  
-**30d:** -25.1%  
-**90d:** -29.1%  
-**1y:** -34.2%  
+**24h:** -0.4%  
+**7d:** -0.9%  
+**30d:** -24.7%  
+**90d:** -28.8%  
+**1y:** -33.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $200.80B
+**Market Cap:** $202.09B
 Rank #2
 
 **Circulating Supply:** 120,684,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.4%
+-66.1%
 
 **All-Time Low:** $0.43
-+384163.4%
++386627.8%
 
 ---
 
@@ -88,7 +88,7 @@ Like you know that feeling of knowing what something is and reading alot about i
 
 I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 15h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 2d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 10h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -202,11 +202,17 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
+
+Bloomberg.com • 12h ago
+
+---
+
 **[Is XRP the Most Resilient Large-Cap Cryptocurrency in June?](https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/)**
 
 XRP (XRP) has emerged as one of the more resilient large-cap cryptocurrencies in June despite a challenging environment for digital assets. Recent flow trends indicate that XRP-focused investment products continue to attract capital even as some Bitcoin (BTC) and Ethereum (ETH)- linked funds experi…
 
-TradingView • 10h ago
+TradingView • 13h ago
 
 ---
 
@@ -218,15 +224,9 @@ Coinpedia • 1d ago
 
 ---
 
-**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
-
-Bloomberg.com • 17h ago
-
----
-
 **[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
-CCN.com • 15h ago
+CCN.com • 19h ago
 
 ---
 
@@ -250,27 +250,17 @@ XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, 
 
 📺 NCashOfficial
 
-👁️ 6K • 👍 467 • 💬 53 • ⏱️ 15:23 • 1d ago
+👁️ 6K • 👍 468 • 💬 53 • ⏱️ 15:23 • 1d ago
 
 ---
 
-**[💀 The Ethereum Death Slide - ETH Crypto Analysis](https://www.youtube.com/watch?v=OlwILA0wDM0)**
+**[💀 Whales Move 290,000 ETH - ETH Crypto Analysis](https://www.youtube.com/watch?v=OlwILA0wDM0)**
 
 Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 157 • 💬 40 • ⏱️ 16:46 • 1d ago
-
----
-
-**[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 709 • 💬 297 • ⏱️ 11:58 • 2d ago
+👁️ 4K • 👍 158 • 💬 41 • ⏱️ 16:46 • 1d ago
 
 ---
 
@@ -290,17 +280,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 480 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
+👁️ 482 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
 
 ---
 
-**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
+**[अगले 4 साल में Ethereum देगा Bitcoin को टक्कर? | Sagar Sinha Podcast Clips](https://www.youtube.com/watch?v=je4AL2tAd58)**
 
-Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
+In this special episode of the Sagar Sinha Podcast, we sit down with Gajendra Singh Shekhawat, Hon'ble Union Minister for ...
 
-📺 Alvarburn
+📺 Sagar Sinha Podcast Clips
 
-👁️ 3K • 👍 283 • 💬 11 • ⏱️ 13:24 • 17h ago
+👁️ 7K • 👍 336 • 💬 38 • ⏱️ 7:22 • 19h ago
 
 ---
 
@@ -310,27 +300,35 @@ Bitcoin vs Ethereum: Which One Has the Real Reversal Opportunity?
 
 📺 Tackle Trading
 
-👁️ 20 • 👍 1 • ⏱️ 2:41 • 10h ago
+👁️ 32 • 👍 1 • ⏱️ 2:41 • 14h ago
 
 ---
 
-**[Meine neuen Kursziele für BTC &amp; ETH](https://www.youtube.com/watch?v=01k5W5RyALI)**
+**[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
 
-In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitcoin und Ethereum sowie die wichtigsten ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
 
-📺 Charts & Cars by Philip Klinkmüller
+📺 Crypto Capital Venture
 
-👁️ 32K • 👍 3K • 💬 146 • ⏱️ 22:40 • 1d ago
+👁️ 12K • 👍 710 • 💬 297 • ⏱️ 11:58 • 2d ago
 
 ---
 
-**[📉 Whales Have Been Dumping ETH Since 2018](https://www.youtube.com/watch?v=OtoKZztBqxs)**
+**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
 
-Ethereum lost its retail buyers after 2022, and the whales have been quietly selling for years. Even the one buyer propping it up is ...
+Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Alvarburn
 
-👁️ 400 • 👍 12 • 💬 4 • ⏱️ 0:55 • 9h ago
+👁️ 3K • 👍 286 • 💬 11 • ⏱️ 13:24 • 21h ago
+
+---
+
+**[Sorry Eth. It was never you. #ethereum #crypto #cryptoinvest #xrp](https://www.youtube.com/watch?v=pgJxybxFJGw)**
+
+📺 klay browning
+
+👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:06 • 10h ago
 
 ---
 

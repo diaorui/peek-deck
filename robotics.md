@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-13T05:02:56.521719+00:00'
+updated: '2026-06-13T08:36:54.242583+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 13, 2026 at 05:02 UTC  
+**Last Updated:** June 13, 2026 at 08:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-18h ago
+22h ago
 
 ---
 
 **[test the stereo depth, only-vision](https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -50,7 +50,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-12h ago
+15h ago
 
 ---
 
@@ -66,13 +66,13 @@ This video demonstrates the general concept that makes a differential wrist join
 
 At Foxglove, we collaborated with Aditya Kamath, resulting in another blog post in his ROS 2 LeKiwi series, this time covering the integration of SLAM and Nav2. This blog post should be relevant to anyone wanting to integrate Nav2, even if they don't have a holonomic platform. If you find this kind of content useful, let us know, and we will keep it coming!
 
-🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 18h ago
+🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 21h ago
 
 ---
 
 **[Drones enforcing traffic rules in Shenzen](https://www.reddit.com/r/robotics/comments/1u2se5p/drones_enforcing_traffic_rules_in_shenzen/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ No the thumbnail is not fake and shes quite talented would not be surprised if s
 
 **[Que opinan](https://www.reddit.com/r/robotics/comments/1u3mxq4/que_opinan/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -116,9 +116,33 @@ Barron's • 1d ago
 
 ---
 
-**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
+**[Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others](https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html)**
 
-WSJ • 1d ago
+Investors have rushed to back companies in the physical AI space
+
+CNBC • 2d ago
+
+---
+
+**[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
+
+WSJ • 2d ago
+
+---
+
+**[German start-up Neura raises $1.4bn in humanoid robot push](https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772?syn-25a6b1a6=1)**
+
+Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
+
+Financial Times • 2d ago
+
+---
+
+**[Robotics teams from Marshall, Hayfield honored by county board for international success](https://www.ffxnow.com/2026/06/12/robotics-teams-from-marshall-hayfield-honored-by-county-board-for-international-success/)**
+
+Fairfax County supervisors on Tuesday (June 9) honored students from robotics teams at two schools for participation in recent international competition. The Hayfield Secondary School Night Hawks and Marshall High School Gryphon Robotics each competed in the FIRST Robotics World Championship, held in Houston April 29-May 2. About 600 squads from across the globe participated
+
+FFXnow • 12h ago
 
 ---
 
@@ -126,21 +150,19 @@ WSJ • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 15h ago
 
 ---
 
-**[India’s workers are training AI robots to take their jobs](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)**
+**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
 
-Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
-
-Al Jazeera • 1d ago
+WSJ • 1d ago
 
 ---
 
 **[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -160,31 +182,19 @@ NASA Science (.gov) • 1d ago
 
 ---
 
-**[Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others](https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html)**
-
-Investors have rushed to back companies in the physical AI space
-
-CNBC • 2d ago
-
----
-
-**[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
-
-WSJ • 1d ago
-
----
-
-**[German start-up Neura raises $1.4bn in humanoid robot push](https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772?syn-25a6b1a6=1)**
-
-Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
-
-Financial Times • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
+
+I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
+
+📺 The Hook Up
+
+👁️ 18K • 👍 567 • 💬 191 • ⏱️ 33:19 • 17h ago
+
+---
 
 **[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
 
@@ -192,17 +202,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 90K • 👍 1K • 💬 144 • ⏱️ 6:09 • 3d ago
-
----
-
-**[AI Humanoid Robots Just Got REAL… And That’s the Scary Part](https://www.youtube.com/watch?v=cNQuG2fbDks)**
-
-The humanoid robot race just left the demo stage — and entered the factory floor! You're about to see the moment AI humanoid ...
-
-📺 The AI Nexus
-
-👁️ 1K • 👍 64 • 💬 4 • ⏱️ 28:04 • 1d ago
+👁️ 92K • 👍 1K • 💬 147 • ⏱️ 6:09 • 3d ago
 
 ---
 
@@ -212,17 +212,7 @@ Did you know scientists are using "necrobotics" to turn deceased spiders into ti
 
 📺 Wealthy Capital
 
-👁️ 6K • 👍 57 • 💬 4 • ⏱️ 0:07 • 6h ago
-
----
-
-**[China Builds 85% of the World&#39;s Humanoid Robots. So Why Is Nobody Buying Them? | FP Explains](https://www.youtube.com/watch?v=qsC5PwAgSYY)**
-
-China now builds 85% of the world's humanoid robots. Companies like Unitree and AGIBOT can produce robots far cheaper than ...
-
-📺 Firstpost
-
-👁️ 3K • 👍 43 • 💬 29 • ⏱️ 6:29 • 2d ago
+👁️ 11K • 👍 175 • 💬 10 • ⏱️ 0:07 • 9h ago
 
 ---
 
@@ -232,27 +222,7 @@ A young boy was accidentally kicked in the stomach by a performing robot during 
 
 📺 New York Post
 
-👁️ 333K • 👍 6K • 💬 5K • ⏱️ 2:17 • 6d ago
-
----
-
-**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
-
-500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
-
-📺 KF Labs
-
-👁️ 14K • 👍 420 • 💬 6 • ⏱️ 0:05 • 20h ago
-
----
-
-**[A Homemade Robot Walked Onto the Stage…Then Started Doing Flips](https://www.youtube.com/watch?v=7XwZjpO-MKQ)**
-
-Every acrobat needs a partner. Daniel Simu had plenty of them. They got injured. They quit. They moved to other countries.
-
-📺 Top Viral Talent
-
-👁️ 170K • 👍 637 • 💬 43 • ⏱️ 4:52 • 2d ago
+👁️ 334K • 👍 6K • 💬 5K • ⏱️ 2:17 • 6d ago
 
 ---
 
@@ -266,21 +236,53 @@ A humanoid hand sweats like human skin while tightening bolts for three hours st
 
 ---
 
+**[A Homemade Robot Walked Onto the Stage…Then Started Doing Flips](https://www.youtube.com/watch?v=7XwZjpO-MKQ)**
+
+Every acrobat needs a partner. Daniel Simu had plenty of them. They got injured. They quit. They moved to other countries.
+
+📺 Top Viral Talent
+
+👁️ 178K • 👍 659 • 💬 46 • ⏱️ 4:52 • 2d ago
+
+---
+
+**[China Builds 85% of the World&#39;s Humanoid Robots. So Why Is Nobody Buying Them? | FP Explains](https://www.youtube.com/watch?v=qsC5PwAgSYY)**
+
+China now builds 85% of the world's humanoid robots. Companies like Unitree and AGIBOT can produce robots far cheaper than ...
+
+📺 Firstpost
+
+👁️ 3K • 👍 44 • 💬 30 • ⏱️ 6:29 • 2d ago
+
+---
+
+**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
+
+Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
+
+📺 Talent Replay
+
+👁️ 64K • 👍 691 • 💬 69 • ⏱️ 5:50 • 3d ago
+
+---
+
+**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
+
+500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
+
+📺 KF Labs
+
+👁️ 17K • 👍 488 • 💬 6 • ⏱️ 0:05 • 23h ago
+
+---
+
 **[Unitree Robot + Human Dancer on AGT = 🔥  #robotics #robot #agt #ai #unitree](https://www.youtube.com/watch?v=t1ya7bTuTEc)**
 
 A brief description of the video... You'll learn: - How to - How to - How to Related courses & tutorials: * * -- #ROS #Robot ...
 
 📺 The Construct Robotics Institute
 
-👁️ 26K • 👍 242 • 💬 29 • ⏱️ 0:57 • 2d ago
-
----
-
-**[Ever wonder how a robot actually works? Yeah, me too. #electronicsprojects #robotics](https://www.youtube.com/watch?v=ZcHgWIYdc8c)**
-
-📺 Kevin Lange
-
-👁️ 757 • 👍 22 • ⏱️ 1:16 • 5h ago
+👁️ 28K • 👍 244 • 💬 29 • ⏱️ 0:57 • 2d ago
 
 ---
 
