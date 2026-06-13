@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T18:09:24.670619+00:00'
+updated: '2026-06-13T20:01:56.970633+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 18:09 UTC  
+**Last Updated:** June 13, 2026 at 20:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -0.9%  
-**30d:** -24.7%  
+**24h:** +0.8%  
+**7d:** -0.8%  
+**30d:** -24.6%  
 **90d:** -28.7%  
 **1y:** -33.8%  
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
 
-4d ago
+5d ago
 
 ---
 
@@ -158,11 +158,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
+**[Tom Lee Says Bitmine To Slow Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html)**
 
-The world's second-largest cryptocurrency is still a compelling investment.
+Tom Lee, chairman of Bitmine Immersion Technology (NYSE: $BMNR), says the crypto treasury company is likely to slow...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Fortune • 2d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -204,7 +204,15 @@ Seeking Alpha • 2d ago
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 23h ago
+
+---
+
+**[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
+
+Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
+
+Crypto Briefing • 14h ago
 
 ---
 
@@ -214,19 +222,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
-
-Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
-
-Crypto Briefing • 12h ago
-
----
-
 **[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
@@ -240,7 +240,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 6K • 👍 459 • 💬 50 • ⏱️ 10:36 • 6h ago
+👁️ 6K • 👍 459 • 💬 50 • ⏱️ 10:36 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 4K • 👍 306 • 💬 127 • ⏱️ 20:28 • 4h ago
+👁️ 4K • 👍 306 • 💬 127 • ⏱️ 20:28 • 6h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 308 • 💬 24 • ⏱️ 14:06 • 7h ago
+👁️ 5K • 👍 308 • 💬 24 • ⏱️ 14:06 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 4K • 👍 637 • 💬 93 • ⏱️ 34:45 • 4h ago
+👁️ 4K • 👍 637 • 💬 93 • ⏱️ 34:45 • 6h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 253 • 👍 23 • 💬 2 • ⏱️ 5:32 • 6h ago
+👁️ 253 • 👍 23 • 💬 2 • ⏱️ 5:32 • 8h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 439 • 👍 55 • ⏱️ 5:18 • 4h ago
+👁️ 439 • 👍 55 • ⏱️ 5:18 • 6h ago
 
 ---
 

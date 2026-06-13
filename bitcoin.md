@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T18:09:24.665259+00:00'
+updated: '2026-06-13T20:01:56.965282+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 18:09 UTC  
+**Last Updated:** June 13, 2026 at 20:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,053.36
+### $64,222.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.2%  
-**30d:** -19.0%  
-**90d:** -14.4%  
-**1y:** -39.2%  
+**24h:** +1.2%  
+**7d:** +1.6%  
+**30d:** -18.7%  
+**90d:** -14.1%  
+**1y:** -39.0%  
 
 ---
 
@@ -161,28 +161,6 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/?streamIndex=0)**
-
-Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
-
-Forbes • 1d ago
-
----
-
-**[Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin](https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin)**
-
-Strategy chairman Michael Saylor congratulated Elon Musk on SpaceX's historic Nasdaq debut Friday, coining the term "Mag8" and noting that 25% of the group now holds bitcoin on the balance sheet.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 22h ago
-
----
-
 **[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
@@ -203,15 +181,7 @@ Fortune • 1d ago
 
 The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
 
-Forbes • 6h ago
-
----
-
-**[Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-now-record-094600753.html)**
-
-Times aren't great for Bitcoin right now.
-
-Yahoo Finance • 8h ago
+Forbes • 8h ago
 
 ---
 
@@ -223,9 +193,11 @@ galaxy.com • 1d ago
 
 ---
 
-**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+**[Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-now-record-094600753.html)**
 
-MarketWatch • 1d ago
+Times aren't great for Bitcoin right now.
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -233,7 +205,35 @@ MarketWatch • 1d ago
 
 Having peaked last year, the cryptocurrency has now lost half its value
 
-The Globe and Mail • 7h ago
+The Globe and Mail • 9h ago
+
+---
+
+**[SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/?streamIndex=0)**
+
+Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
+
+Forbes • 1d ago
+
+---
+
+**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
+
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -299,7 +299,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 **[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
 
-⬆️ 2 • 💬 0 • 1d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+⬆️ 2 • 💬 0 • 2d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
 
 ---
 
@@ -307,7 +307,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 2 • 💬 0 • 8h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 10h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -329,7 +329,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 100 • ⏱️ 8:42 • 18h ago
+👁️ 29K • 👍 1K • 💬 100 • ⏱️ 8:42 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 2K • 👍 292 • 💬 55 • ⏱️ 11:00 • 2h ago
+👁️ 2K • 👍 292 • 💬 55 • ⏱️ 11:00 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 277 • 💬 28 • ⏱️ 19:27 • 22h ago
+👁️ 8K • 👍 277 • 💬 28 • ⏱️ 19:27 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ BITCOIN PRICE ANALYSIS | BITCOIN PREDICTION | BITCOIN HEATMAP | BITCOIN VOLUME |
 
 📺 TMG Trades
 
-👁️ 4K • 👍 561 • 💬 136 • ⏱️ 10:20 • 4h ago
+👁️ 4K • 👍 561 • 💬 136 • ⏱️ 10:20 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ Unsere Kurs-Analysen: https://schulz-technical-analysis.com ▭▭▭▭▭▭�
 
 📺 STA Solutions
 
-👁️ 4K • 👍 1K • 💬 97 • ⏱️ 19:58 • 2h ago
+👁️ 4K • 👍 1K • 💬 97 • ⏱️ 19:58 • 4h ago
 
 ---
 
@@ -399,7 +399,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 668 • 💬 85 • ⏱️ 2:22 • 17h ago
+👁️ 16K • 👍 668 • 💬 85 • ⏱️ 2:22 • 18h ago
 
 ---
 
@@ -409,7 +409,7 @@ ENLACE BITUNIX NO KYC NO VPN https://www.bitunix.com/es-es/activity/basic/USACRY
 
 📺 USACRYPTONOTICIAS
 
-👁️ 2K • 👍 517 • 💬 11 • ⏱️ 1:44:01 • 1h ago
+👁️ 2K • 👍 517 • 💬 11 • ⏱️ 1:44:01 • 2h ago
 
 ---
 
@@ -419,7 +419,7 @@ It doesnt take long before news within the cryptocurrency market becomes uplifti
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 533 • 💬 245 • ⏱️ 12:27 • 6h ago
+👁️ 4K • 👍 533 • 💬 245 • ⏱️ 12:27 • 8h ago
 
 ---
 
