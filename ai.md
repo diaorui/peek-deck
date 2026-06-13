@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-12T22:57:34.597558+00:00'
+updated: '2026-06-13T00:22:46.203183+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 12, 2026 at 22:57 UTC  
+**Last Updated:** June 13, 2026 at 00:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This keeps coming up over and over; for those interfacing with the anti-AI / anti-DC crowd, this article has some good talking points, about water, but also jobs and power. Data centers certainly do use water. They are basically warehouses of tightly packed, high-powered computers, and when computers run, they get hot. Most data centers—though not all—use water for cooling. But many of them use a “closed loop,” which doesn’t actually waste much, because the water is recycled repeatedly for the same purpose. And many statistics about data centers’ water use are misleading in that they include “indirect” water use too. The Substack writer Andy Masley found one particularly absurd example: In a widely cited paper, the amount of water that AI supposedly “wastes” includes the water that naturally evaporates off rivers and lakes in Washington State. Why? Because those rivers and lakes are dammed for hydroelectric plants, which generate electricity, which is then used by (among other things) a data center. The water-quality issue AOC pointed out in Georgia is not a general feature of data-center construction and appears to have affected only four households.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 5h ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 7h ago
 
 ---
 
@@ -49,13 +49,7 @@ This keeps coming up over and over; for those interfacing with the anti-AI / ant
 
 Google's Project Genie went global this week and I have not stopped thinking about it. You type a sentence, or upload an image, and it generates an open world you can actually walk around in, in real time. No code, no game engine. Someone made a GTA-style open world of Istanbul and just strolled through it, with pedestrians and traffic reacting around them. The reality check: it is rough. Low framerate, laggy response, visible bugs. Right now it is a tech demo, not a game you would sit down and play. But the trajectory is the whole conversation. I keep going back and forth. One side: this is the beginning of the end for the traditional pipeline. If a sentence can spin up an explorable world, the engine, the assets, the studio, all of that stops being the gate. Anyone gets to make a world. The other side: interactive world models hit a wall fast. Consistency, object permanence, holding a world together for more than a few minutes, framerate. It could stay an impressive demo that never becomes a real game for years. My honest guess is the "walk around a generated world" part is genuinely new, but the gap from explorable demo to a game you would actually play is huge and might not close as fast as the hype says. Where do you land, real threat to game engines in a year or two, or a plateau? And what is the first world you would generate?
 
-19h ago
-
----
-
-**[This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?](https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/)**
-
-18h ago
+21h ago
 
 ---
 
@@ -63,13 +57,19 @@ Google's Project Genie went global this week and I have not stopped thinking abo
 
 Llion Jones said “2026 is the continual learning year” in the recent Post-Transformer debate. Sutton/Silver call the next phase the "era of experience”. What’s continual learning? Simply put, it’s a model’s ability to continuously improve as it gains experience – without exhibiting catastrophic forgetting. Essentially the stability-plasticity tradeoff for a reasoning model. Essentially it comes down to: where does the memory live? Outside the model. Memory files, vector dbs, graphs. Text is retrieved and pasted back into context. The model stays frozen. In the model's running state. Hidden states or fast weights that change while the model processes input. In the model's weights. What it actually knows. Encoded within the model weights to improve decision making patterns without forgetting. Dev docs today hint at #1 - memory outside the model. But the “2026 is continual learning year” notion does not come from it. Why? Part 1: The Memento stack (today’s stack) There are engineering fixes for the LLM’s memory problem. Julian Togelius & a16z compared it to Memento. In the movie, Leonard functions with his Polaroid and notes. But everyday he is the same man as day 0. Progress around these include: Anthropic's Dreaming: an async job to manage “memories”, explicitly modeled on sleep consolidation. Long context as memory: Visibly good, but with 3 problems. a) Position bias and "lost in the middle" challenge. b) Longer LLM windows come with bigger costs and we’re already discussing “token economics”. c). KV cache bottleneck, and everything evaporates when the request ends. Mem0, Letta, Zep: the popular memory-layer products from startups. AGENTS.md and git-style memory files: But, in this ETH Zurich paper (arXiv 2602.11988) it showed that LLM-generated context files actually reduce task success by about 3% while raising cost over 20%. And human-written ones barely helped too. Part 2: Continual learning, memory within the model (the big bet) Weight updates in large networks trigger catastrophic forgetting. A January 2026 paper tried continual fine-tuning on LRMs (arXiv 2601.18699) but catastrophic forgetting didn’t fade but rather increased. Promising directions that could solve this: TTT layers (arXiv 2407.04620, ICML 2025): the hidden state of the sequence layer is a small model, updated by gradient descent on tokens as they stream in. Matches or beats Transformer / Mamba baselines upto 1.3B params. Titans & Atlas: Titans add a neural long-term memory that decides what to store using a surprise signal. Atlas upgrades the memory's learning rule. Nested Learning + HOPE: Architecture updates different blocks at different frequencies. RNNs are also coming closer to Transformers via viral Memory Caching papers. Dragon Hatchling (BDH): From AI lab Pathway (arXiv 2509.26507). Working memory lives in Hebbian synapses rather than in a KV cache, allowing for an "infinite context window" without quadratic cost. AMI Labs, LFMs, etc. also mention continual learning but I didn’t find much specific info on them in this front. Current State and Future Outlook Where is continual learning in mid-2026? Solved with public access: nothing. Shipping in production: only the dossier stack, all frozen models. Demonstrated at research scale (< 2B params): TTT, Titans, Memory Caching, HOPE, and BDH. What would move the needle imo: Ship memory within the model with forgetting measurably controlled. Two questions though: What OpenAI is brewing in all of this? What’s the blocker to adoption for continual learning models: the missing breakthrough itself, or evals, serving economics, etc?
 
-6h ago
+7h ago
+
+---
+
+**[This 2000s photo is 100% AI-generated. Be honest: how many details did you check before scrolling?](https://www.reddit.com/r/artificial/comments/1u3lmrn/this_2000s_photo_is_100_aigenerated_be_honest_how/)**
+
+19h ago
 
 ---
 
 **[New DaxBot Robot Was Ran over in Tyler Texas not even 24 hours after launching.](https://www.reddit.com/r/artificial/comments/1u482xp/new_daxbot_robot_was_ran_over_in_tyler_texas_not/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -77,7 +77,7 @@ Llion Jones said “2026 is the continual learning year” in the recent Post-Tr
 
 I’ve been spending a lot of time lately experimenting with multi-agent workflows and on the surface, the capabilities look incredible. You tie an LLM to a couple of tools, tweak a prompt loop and watch it solve tasks in real time. But once you try to move past the initial prototype phase, the entire illusion falls apart. The underlying problem is how current frameworks approach agent architecture. They treat things like prompt states, memory and behavioral shifts as completely ephemeral or they hide them deep inside closed cloud databases. If an agent fails in production or if its behavior drifts over time based on user feedback, figuring out why it made a specific decision is almost impossible. There is no audit trail. If a system degrades, you can’t easily roll it back to the state it was in yesterday. It breaks every fundamental rule of predictability that we’ve established in modern software engineering. It made me realize that we are trying to invent entirely new, black-box paradigms for AI management when we’ve already had the perfect solution for version control for decades. Out of pure frustration, I started playing around with an open-source concept called Git-Native architecture, specifically looking at a project called Lyzr GitAgent and the OpenGAP protocol. The shift in logic is simple but fixes the core issue: instead of saving an agent's memory or prompt updates to an opaque database, everything is saved as flat files inside a standard Git repository. When the agent adapts its behavior or learns a new workflow, it doesn't just quietly change in the background. It cuts a new branch and opens a Pull Request. Suddenly, you actually have a tangible history of the agent's logic. You can review and approve its self-improvement steps before they deploy. If a hallucination slips through, you just run a standard git revert and hook the entire layer directly into normal CI/CD pipelines. It forces the system to behave like predictable, manageable software. The bottleneck with AI right now isn't that the models aren't evolving fast enough. It's that our engineering practices around them are completely chaotic. We can't scale an ecosystem if we treat every deployment like an untrackable magic trick.
 
-2h ago
+4h ago
 
 ---
 
@@ -89,11 +89,19 @@ Hi everyone, I think I’ve reached a point where new LLM releases don’t reall
 
 ---
 
-**[How accurate are LLM's right now?](https://www.reddit.com/r/artificial/comments/1u43l5q/how_accurate_are_llms_right_now/)**
+**[Claude Pro Users: How do you actually maximize your subscription?](https://www.reddit.com/r/artificial/comments/1u4bneb/claude_pro_users_how_do_you_actually_maximize/)**
 
-I've had people tell me that LLM's like ChatGPT and GROK aren't trustworthy or accurate. Lately, it feels like ChatGPT is more accurate about heavily discussed topics than most other sources, but that's just a feeling I have. Where can I find good information on just how accurate LLM's really are?
+I recently subscribed to Claude Pro and I feel like I’m probably only using a fraction of what it’s capable of. My current use cases are: Deep research and brainstorming Business ideas and startup planning Long-form strategy discussions Creating project knowledge bases Writing prompts for large projects Analyzing workflows and finding inefficiencies I’ve heard people talk about: Projects Knowledge files Artifacts MCP servers Claude Code Context management Multi-chat workflows Agent-style setups But I’m not sure which ones actually provide the biggest productivity gains. For those who use Claude Pro heavily: What features give you the most value? What workflows completely changed how you use Claude? What mistakes do new Pro users make? How do you avoid hitting message limits too quickly? What tasks do you think Claude does significantly better than ChatGPT, Gemini, or other AI tools? If you were starting over today with a fresh Claude Pro subscription, what would you do first? I’m especially interested in advanced workflows, automation, business use cases, research systems, and anything that feels like a “hidden gem” most users don’t know about. Feel free to share screenshots, project structures, prompt templates, or examples of how you organize large-scale work inside Claude. Looking forward to learning from the users here. For context, I tend to be the type of person who builds systems, looks for loopholes, automates repetitive work, and experiments with business opportunities. If Claude has “10x leverage” use cases, I’d love to hear them.
 
-4h ago
+28m ago
+
+---
+
+**[I put my AI agent governance platform online. Try to break it.](https://www.reddit.com/r/artificial/comments/1u4bmra/i_put_my_ai_agent_governance_platform_online_try/)**
+
+I’ve spent the last several months building Bendex Arc, a governance layer that sits between AI agents and the real world. As agents get browser access, tools, MCP servers, memory, and the ability to take actions, I kept running into the same gap: nothing was tracking what authority those agents should actually have, or stopping them from being gradually manipulated into doing things they shouldn’t. So I built it. Arc Gate tracks authority across a session, enforces source boundaries, and blocks or restricts actions before they execute. Arc Replay lets you inspect exactly what happened and why. The part I care most about right now is multi-turn escalation. Most attacks don’t start with “ignore previous instructions.” They start with a normal conversation that gradually shifts over several turns until the agent is primed to do something it shouldn’t. I put a live demo online because I wanted real people to break it instead of relying on benchmarks. If you find something that works, I want to know. If it catches everything you throw at it, I want to know that too. Either way I’ll share the results. Demo: https://web-production-6e47f.up.railway.app/demo GitHub: https://github.com/9hannahnine-jpg/arc-gate
+
+29m ago
 
 ---
 
@@ -101,15 +109,7 @@ I've had people tell me that LLM's like ChatGPT and GROK aren't trustworthy or a
 
 Hi all, Just curious, I've been noticing lately that a lot of people have some secret project that will change the industry and so on. Please share a bit if you're working on something
 
-7h ago
-
----
-
-**[The $20K/Month Website Redesign Blueprint Nobody Talks About](https://www.reddit.com/r/artificial/comments/1u48kx4/the_20kmonth_website_redesign_blueprint_nobody/)**
-
-So I’m writing this for anyone running a web agency who’s struggling to get consistent clients or build scalable systems. I understand how stressful it can be because I was in the exact same position. I’ve been running my web agency for 4 years, but only in the last year did I start using AI seriously, and honestly it changed everything for me. I used to build websites on WordPress and do all my outreach manually. It worked, but it was inconsistent and exhausting. Once I started implementing AI into my business, I went from constantly chasing clients to doing around $20k/month recurring. This is basically what changed for me. At first I was targeting businesses with no websites, but switching to businesses that already had websites worked way better. There are SO many businesses with outdated websites that clearly need upgrading. Plus, these business owners already understand the value of having a website because they’ve already paid for one before. It’s way easier convincing someone to improve something they already believe in than trying to convince someone from zero. The second big shift was moving from manual outreach to automated email outreach that actually feels personalized. Instead of sending generic emails, I now use a tool called swokei that mass analyzes a business’s website and generates personalized outreach based on things like design issues, SEO problems, site speed, mobile optimization, and overall user experience. I run all of my outreach campaigns through it. The third thing that changed everything was offering a free redesigned draft version of their current website. Realistically, who says no to free? I can build these drafts really quickly using Claude Code, and most of the time they already look way more modern than the client’s existing site. Once business owners see a better version of their own company in front of them, selling becomes way easier. Another huge mistake I used to make was just sending preview links through email. They open it later when they’re busy, nobody’s there to explain the improvements properly, and eventually the lead goes cold. Now I always present the website live on Google Meet and try to close them on the spot. That alone massively increased my close rate. Also, always charge upfront for the website build, but don’t ignore monthly recurring revenue. Hosting, maintenance, edits, SEO, ongoing changes, etc. That’s where stability comes from if you actually want predictable income every month instead of constantly hunting for new clients. For anyone curious about the tools I use, it’s honestly pretty simple. Apollo for finding leads because you basically never run out of businesses to contact. Swokei for outreach. I upload my lead list there and it analyzes each business website, scores it, and turns flaws in design, SEO, speed, and mobile optimization into personalized outreach emails automatically. Pointing out actual issues on their website increased my reply rates massively. Claude Code for building websites. And honestly, people saying AI built websites don’t perform well are just wrong. If you know what you’re doing, you can build pretty much anything now. And Cloudflare for hosting client websites. That’s pretty much the system I run now.
-
-1h ago
+9h ago
 
 ---
 
@@ -119,7 +119,13 @@ So I’m writing this for anyone running a web agency who’s struggling to get 
 
 **[Capitol agenda: What Schumer told us about AI - Live Updates](https://www.politico.com/live-updates/2026/06/12/congress/chuck-schumer-ai-congress-00960335)**
 
-Politico • 10h ago
+Politico • 12h ago
+
+---
+
+**[What the SpaceX I.P.O. Means for OpenAI and Anthropic](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -127,65 +133,57 @@ Politico • 10h ago
 
 They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios
 
-The Guardian • 4h ago
+The Guardian • 6h ago
 
 ---
 
-**[SpaceX is now a public company valued for its AI potential, so what comes next?](https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/)**
+**[SpaceX IPO extends Elon Musk’s influence across AI and the economy](https://www.washingtonpost.com/technology/2026/06/12/spacex-goes-public-some-fear-musks-growing-dominance/)**
 
-As of today, SpaceX is owned by investors who will want to see it make money.
+SpaceX’s IPO, the largest in history, dramatically increases Musk’s personal wealth and broadens his power over the global economy, worrying critics.
 
-Ars Technica • 37m ago
-
----
-
-**[Opinion | Why Big Tech IPOs could be a ticking time bomb](https://www.ms.now/opinion/spacex-ipo-openai-anthropic-stock-market)**
-
-The major artificial intelligence firms have burned through billions in cash from private investors. Now they’re looking to the public for a boost.
-
-MS NOW • 6h ago
+The Washington Post • 8h ago
 
 ---
 
-**[Meta's Zuckerberg admits 'mistakes' made on AI transformation](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)**
+**[Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI](https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security)**
 
-Reuters • 1h ago
-
----
-
-**[NVIDIA’s China Vera CPU Launch Tests AI Growth And Valuation Story](https://finance.yahoo.com/markets/stocks/articles/nvidia-china-vera-cpu-launch-221417853.html)**
-
-NVIDIA (NasdaqGS:NVDA) has introduced its Vera CPU to the Chinese market, targeting AI data center and cloud workloads. The launch follows tighter U.S. export controls on advanced GPUs to China and focuses on processors that face fewer trade restrictions. Reports point to early orders and internal revenue targets tied to Vera sales to Chinese cloud and data center clients. NVIDIA enters this new phase with Vera while its stock trades at about $205.15 per share. Over the past year,...
-
-Yahoo Finance • 43m ago
+Axios • 33m ago
 
 ---
 
-**[The Data-Center Panic Is Overblown](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/)**
+**[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/)**
 
-Critics are inflating the costs.
+The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.
 
-The Atlantic • 11h ago
+WIRED • 1d ago
 
 ---
 
-**[Google moving forward on AI data center without developer Crusoe](https://www.cnbc.com/video/2026/06/12/google-moving-forward-on-ai-data-center-without-developer-crusoe.html)**
+**[Policy on the AI Exponential](https://www.anthropic.com/policy-on-the-ai-exponential)**
 
-CNBC's MacKenzie Sigalos reports on Google's plans to move forward with AI data center plans in Wyoming without developer Crusoe.
+We are sharing two policy proposals to prepare for AI progress: Our Advanced AI Framework and our Economic Policy Framework.
 
-CNBC • 5h ago
+Anthropic • 2d ago
+
+---
+
+**[Watch Wall Street Week | SpaceX Goes Public, Google’s AI Bet, World Cup Price Backlash](https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video)**
+
+Bloomberg.com • 38m ago
+
+---
+
+**[AI can be a business's 'secret sauce' or a way of ‘democratizing mediocrity’](https://fortune.com/2026/06/12/brainstorm-tech-hard-part-of-ai-typeface-liquid-death-athenahealth-simbe/)**
+
+AI tools can be the most effective and well-designed in the world, but two people can use the same tool and get to vastly different results.
+
+Fortune • 23m ago
 
 ---
 
 **[Opinion | This Could Be the Winning Issue for Democrats](https://www.nytimes.com/2026/06/12/opinion/data-center-ai-democrats.html)**
 
-The New York Times • 13h ago
-
----
-
-**[General-purpose large language models outperform specialized clinical AI tools on medical benchmarks](https://www.nature.com/articles/s41591-026-04431-5)**
-
-Nature • 12h ago
+The New York Times • 15h ago
 
 ---
 
@@ -195,7 +193,7 @@ Nature • 12h ago
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1372 • 💬 497 • 18h ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1384 • 💬 501 • 19h ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
@@ -203,7 +201,7 @@ Nature • 12h ago
 
 A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.
 
-⬆️ 1010 • 💬 537 • 2d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+⬆️ 1011 • 💬 537 • 2d ago • [The Decoder](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 
 ---
 
@@ -211,7 +209,7 @@ A German regional court has ruled that Google is directly liable for the content
 
 Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]
 
-⬆️ 548 • 💬 242 • 1d ago • [LWN.net](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+⬆️ 548 • 💬 243 • 2d ago • [LWN.net](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 
 ---
 
@@ -267,13 +265,13 @@ Blue41 helps regulated organizations monitor AI agent behavior, detect manipulat
 
 My AI nuclear simulation is out now, and it's a WOPR.
 
-⬆️ 204 • 💬 196 • 1d ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+⬆️ 204 • 💬 198 • 1d ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
 
 ---
 
 **[Policy on the AI Exponential](https://news.ycombinator.com/item?id=48480719)**
 
-⬆️ 167 • 💬 252 • 2d ago • [darioamodei.com](https://darioamodei.com/post/policy-on-the-ai-exponential)
+⬆️ 168 • 💬 254 • 2d ago • [darioamodei.com](https://darioamodei.com/post/policy-on-the-ai-exponential)
 
 ---
 
@@ -337,7 +335,7 @@ AI layoffs are a lie. Just like everything else in late stage capitalism. It's e
 
 📺 Charlotte Chaze | Break Into Tech
 
-👁️ 384 • 👍 18 • ⏱️ 1:16 • 42m ago
+👁️ 384 • 👍 18 • ⏱️ 1:16 • 2h ago
 
 ---
 
@@ -347,7 +345,7 @@ ZTNA gives you the control you want in your network. Try it today with Threatloc
 
 📺 Low Level
 
-👁️ 113K • 👍 6K • 💬 459 • ⏱️ 11:00 • 9h ago
+👁️ 113K • 👍 6K • 💬 459 • ⏱️ 11:00 • 11h ago
 
 ---
 
@@ -367,7 +365,7 @@ Best Apple Deals: AirPods Pro 3 - https://amzn.to/4w7FHE9 (Under $180!!) MacBook
 
 📺 9to5Mac
 
-👁️ 10K • 👍 442 • 💬 66 • ⏱️ 10:45 • 6h ago
+👁️ 10K • 👍 442 • 💬 66 • ⏱️ 10:45 • 8h ago
 
 ---
 
@@ -405,7 +403,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 149,206 • ❤️ 1,923 • 12h ago
+⬇️ 149,206 • ❤️ 1,923 • 13h ago
 
 ---
 
@@ -441,7 +439,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 0 • ❤️ 326 • 12h ago
+⬇️ 0 • ❤️ 326 • 14h ago
 
 ---
 
@@ -465,7 +463,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 442 • ❤️ 241 • 10h ago
+⬇️ 442 • ❤️ 241 • 11h ago
 
 ---
 
@@ -650,7 +648,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 69.3k • 🔱 8.7k • 10h ago
+⭐ 69.3k • 🔱 8.7k • 11h ago
 
 ---
 
@@ -700,7 +698,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.0k • 🔱 143 • 7h ago
+⭐ 2.0k • 🔱 143 • 9h ago
 
 ---
 

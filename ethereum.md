@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-12T22:57:34.610594+00:00'
+updated: '2026-06-13T00:22:46.216278+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 22:57 UTC  
+**Last Updated:** June 13, 2026 at 00:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,667.11
+### $1,662.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +5.9%  
-**30d:** -27.2%  
-**90d:** -23.7%  
-**1y:** -35.6%  
+**24h:** +0.1%  
+**7d:** -1.4%  
+**30d:** -25.1%  
+**90d:** -29.1%  
+**1y:** -34.2%  
 
 ---
 
@@ -102,7 +102,7 @@ I've launched Vattelum, an open-source project building a new legal system on Et
 
 A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 1d ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -162,15 +162,15 @@ CoinDesk • 9h ago
 
 The market needs fresh inflows and it might become the foundation for a price recovery.
 
-U.Today • 22h ago
+U.Today • 1d ago
 
 ---
 
-**[Ethereum Staking Demand Soars As Investors Chase Rewards](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-demand-soars-investors-134300898.html)**
+**[Tom Lee Says Bitmine To Slow Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html)**
 
-Demand for Ethereum (CRYPTO: $ETH) staking is soaring as investors increasingly seek rewards from cryptocurrencies....
+Tom Lee, chairman of Bitmine Immersion Technology (NYSE: $BMNR), says the crypto treasury company is likely to slow...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -186,19 +186,19 @@ Fortune • 1d ago
 
 ---
 
+**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+
+The prominent analyst expects Ether to replicate Bitcoin's historic run.
+
+The Motley Fool • 5h ago
+
+---
+
 **[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
 
 Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
 
 The Block • 2d ago
-
----
-
-**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
-
-The prominent analyst expects Ether to replicate Bitcoin's historic run.
-
-The Motley Fool • 4h ago
 
 ---
 
@@ -210,25 +210,23 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Michael Saylor Says Confidence in Ethereum Has Collapsed](https://coinpedia.org/news/michael-saylor-says-confidence-in-ethereum-has-collapsed/)**
+
+Strategy chairman Michael Saylor has once again questioned Ethereum’s long-term position in the crypto market. According to him, growing competition from
+
+Coinpedia • 1d ago
+
+---
+
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Centrifuge enables AAA CLO collateral on Ethereum with $JAAA exposure](https://cryptobriefing.com/centrifuge-aaa-clo-collateral-ethereum-jaaa/)**
+**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
-Centrifuge brings AAA CLO fund JAAA to Ethereum as collateral on Morpho, enabling leveraged wJAAA/USDC strategies with 98% LLTV and $1B in AUM.
-
-Crypto Briefing • 11h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
-
-Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
-
-FXStreet • 20h ago
+CCN.com • 11h ago
 
 ---
 
@@ -242,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 340 • 💬 251 • ⏱️ 12:37 • 1d ago
+👁️ 6K • 👍 340 • 💬 251 • ⏱️ 12:37 • 2d ago
 
 ---
 
@@ -272,7 +270,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 3K • 👍 267 • 💬 8 • ⏱️ 13:24 • 11h ago
+👁️ 3K • 👍 267 • 💬 8 • ⏱️ 13:24 • 13h ago
 
 ---
 
@@ -320,7 +318,7 @@ Patreon: https://www.patreon.com/CryptoRyan17 X: https://x.com/CryptoRyan17 #Cry
 
 📺 CryptoRyan17
 
-👁️ 153 • 👍 8 • ⏱️ 11:54 • 5h ago
+👁️ 153 • 👍 8 • ⏱️ 11:54 • 7h ago
 
 ---
 

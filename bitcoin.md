@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-12T22:57:34.605342+00:00'
+updated: '2026-06-13T00:22:46.211027+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 12, 2026 at 22:57 UTC  
+**Last Updated:** June 13, 2026 at 00:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,513.40
+### $63,476.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +4.3%  
-**30d:** -21.7%  
-**90d:** -12.7%  
-**1y:** -40.1%  
+**24h:** +0.2%  
+**7d:** +0.4%  
+**30d:** -19.6%  
+**90d:** -15.1%  
+**1y:** -39.7%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 12
+### 13
 **EXTREME FEAR**
 
 ---
@@ -165,35 +165,29 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
-**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
+**[BTC updates: Bitcoin's price bounces ahead of the SpaceX IPO](https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week)**
 
-Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
+May's inflation numbers lifted major digital assets on Thursday, though ether and the large altcoins are still down 6% to 8% over seven days.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
-
-WSJ • 8h ago
+CoinDesk • 14h ago
 
 ---
 
 **[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Market Wrap: Bitcoin Stalls As SpaceX IPO Takes Centre Stage](https://finance.yahoo.com/markets/crypto/articles/market-wrap-bitcoin-stalls-spacex-212800890.html)**
+**[Bitcoin Perpetual Futures Are Now Available for Trading. Here's What You Need to Know.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-perpetual-futures-now-available-234300328.html)**
 
-Bitcoin (CRYPTO: $BTC) and other cryptocurrencies barely budged over the past trading week as investors and traders...
+These derivative contracts are exciting for a lot of different reasons.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -201,7 +195,23 @@ Yahoo Finance • 1h ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 5h ago
+CNBC • 7h ago
+
+---
+
+**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
+
+Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
+
+Bitcoin Magazine • 10h ago
+
+---
+
+**[MicroStrategy CEO discloses 3 reasons behind Bitcoin sale](https://sg.finance.yahoo.com/news/microstrategy-ceo-discloses-3-reasons-175140365.html)**
+
+The crypto market got a shock on June 1 when Strategy (Nasdaq: MSTR), née MicroStrategy, announced its first Bitcoin (BTC) sale in years. Even though the co-founder Michael Saylor had hinted about the potential sale in early May, the announcement of the sale of 32 Bitcoin shook the crypto ...
+
+Yahoo Finance Singapore • 1d ago
 
 ---
 
@@ -209,15 +219,7 @@ CNBC • 5h ago
 
 Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
 
-galaxy.com • 18h ago
-
----
-
-**[Live BTC prices: SpaceX rally loses momentum, while bitcoin trades near $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
-
-Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
-
-CoinDesk • 1h ago
+galaxy.com • 19h ago
 
 ---
 
@@ -327,7 +329,7 @@ Bitcoin is showing a hidden bullish signal that could trigger a massive relief r
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 3K • 💬 183 • ⏱️ 14:32 • 11h ago
+👁️ 39K • 👍 3K • 💬 183 • ⏱️ 14:32 • 12h ago
 
 ---
 
@@ -347,7 +349,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 867 • 💬 65 • ⏱️ 1:10:59 • 7h ago
+👁️ 17K • 👍 867 • 💬 65 • ⏱️ 1:10:59 • 9h ago
 
 ---
 
@@ -357,7 +359,7 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 15K • 👍 2K • 💬 56 • ⏱️ 1:24 • 5h ago
+👁️ 15K • 👍 2K • 💬 56 • ⏱️ 1:24 • 7h ago
 
 ---
 
@@ -377,7 +379,7 @@ Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In to
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 485 • 💬 15 • ⏱️ 17:44 • 13h ago
+👁️ 8K • 👍 485 • 💬 15 • ⏱️ 17:44 • 14h ago
 
 ---
 
@@ -407,7 +409,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 160 • ⏱️ 10:27 • 19h ago
+👁️ 51K • 👍 4K • 💬 160 • ⏱️ 10:27 • 21h ago
 
 ---
 
