@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T21:45:54.546905+00:00'
+updated: '2026-06-13T23:05:21.317370+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 21:45 UTC  
+**Last Updated:** June 13, 2026 at 23:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +2.0%  
-**30d:** -18.4%  
-**90d:** -13.8%  
-**1y:** -38.7%  
+**24h:** +1.3%  
+**7d:** +1.8%  
+**30d:** -18.5%  
+**90d:** -13.9%  
+**1y:** -38.9%  
 
 ---
 
@@ -77,83 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Osaka Exchange to List Bitcoin Futures in 2028, Chairman Tells Nikkei](https://www.reddit.com/r/Bitcoin/comments/1u2u1bx/osaka_exchange_to_list_bitcoin_futures_in_2028/)**
+**[This is by design and everything is pre-programmed. We are at the mid year between halving. The most bearish year and the best time to accumulate and buy bitcoin. Seen this 3 times already and I just follow this same pattern and now I am an millionaire just from an investment of $10,000](https://www.reddit.com/r/Bitcoin/comments/1u4rpvy/this_is_by_design_and_everything_is_preprogrammed/)**
 
-Interesting to see Japan lining up futures alongside potential ETF approval. Feels like a coordinated push toward giving institutions a full toolkit. Curious how people see this, does this actually drive adoption, or just more derivatives activity?
+Keep buying before the institutions get all these cheap bitcoins. The institutions have been gobbling up bitcoin right now. I have access to institution data. They are holding bitcoin at highest record and all time high now. They are shaking out every retail trader weak hands . They will accumulate the price goes up. So they short it with futures and options and bring it back down and they accumulate again. https://preview.redd.it/tyw1nqtlo27h1.png?width=2464&format=png&auto=webp&s=1a39097f745bef7ae272930bffb542759bb29a4e
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 2d ago
-
----
-
-**[Today I found 1 BTC I thought was gone forever](https://www.reddit.com/r/Bitcoin/comments/1u1zfs0/today_i_found_1_btc_i_thought_was_gone_forever/)**
-
-Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the seed phrase. I searched everywhere. Old notebooks, USB sticks, cloud storage, emails... nothing. After a while I accepted it was gone forever. At some point I even stopped thinking about it. Fast forward to today. Recently I found the hard drive from an old laptop I hadn't touched since 2019. Out of pure curiosity I decided to boot it up and see if it still worked. While browsing around, I opened Chrome and started looking through my old history. Then I randomly checked the Recycle Bin. Inside the Recycle Bin was a .txt file. My heart skipped a beat. I opened it. It was the seed phrase. Well... sort of. Before everyone calls me a moron (which would be fair), yes, I actually stored my recovery phrase in a text document instead of proper cold storage. I know. Stupid. But there was a method to my madness. I knew that if someone found the words but didn't know the correct order, they wouldn't be able to access the wallet. A 12-word recovery phrase has 12! possible arrangements, which is 479,001,600 different combinations. So I stored the words in a text file, but scrambled them in a way that only I knew how to put them back together. Apparently, years later, even I forgot where I had put them. I just sat there staring at the screen because my brain refused to process what I was seeing. Out of all places, the thing I had been looking for was sitting in the Recycle Bin of a forgotten laptop for almost seven years. The craziest part? If I had found it back in 2019, I would've probably sold the BTC almost immediately. Instead, I accidentally diamond-handed it by completely losing access to it. So I put the phrase back together exactly the way I remembered it. At that point I was shaking. I loaded it into a wallet, half expecting it not to work after all these years. Then... boom. There it was. My Bitcoin was just sitting there, untouched since 2019. I stared at the balance for what felt like forever because I genuinely couldn't believe it was real. After spending years thinking it was gone forever, I was suddenly looking at the wallet again as if nothing had happened. I didn't sleep at all today (this happened at 3am in the morning). My mind kept replaying the whole thing over and over. The odds of randomly finding an old hard drive, deciding to boot it up, checking the Recycle Bin, finding a forgotten text file, and having it contain the exact information needed to recover a Bitcoin I thought was lost forever felt absolutely insane. Today is officially the second happiest day of my life. The first was when my son was born on December 24th, 2025. The second is today, when I reunited with the 1 BTC that I genuinely believed was gone forever. Sometimes being disorganized pays off. Since the day I lost access to that Bitcoin, I spent countless nights scrolling through Reddit reading stories about people who had recovered wallets they thought were gone forever. Deep down, I was hoping that one day I'd get lucky too. But as the years passed, that hope slowly disappeared. I never thought I'd be the one posting a recovery story. Yet here I am.
-
-3d ago
+9h ago
 
 ---
 
-**[BlackRock files new amendment for yield-generating bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1u2r40l/blackrock_files_new_amendment_for_yieldgenerating/)**
+**[Bitcoin's mining difficulty is set for the 11th-largest downward adjustment in Bitcoin's history. Miners are leaving the network](https://www.reddit.com/r/Bitcoin/comments/1u4oqyy/bitcoins_mining_difficulty_is_set_for_the/)**
 
-BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.
+You can see the live difficulty here: https://newhedge.io/bitcoin/difficulty-estimator
 
-🔗 [The Block](https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf) • 2d ago
-
----
-
-**[Bitcoin is a long game and people don't get it](https://www.reddit.com/r/Bitcoin/comments/1u2uqo2/bitcoin_is_a_long_game_and_people_dont_get_it/)**
-
-I used to think Bitcoin was easy money at first when i first got into investing which was like 4ish years ago. After making my first ACTUAL big profit off Bitcoin in 2025, I realized that Bitcoin is a long game and people don't understand that. I didn't even understand that when I first put money in but after months of having my money on a low (I made the mistake of buying when Bitcoin was on a high) I finally cracked the way to fix my portfolio and hope for some growth. Now it's just a matter of closing my app and waiting for it to grow again and not stress over it.
-
-2d ago
+11h ago
 
 ---
 
-**[I built my own Bitcoin Lightning node from scratch on a VPS — no Umbrel, no Start9, real config files inside](https://www.reddit.com/r/Bitcoin/comments/1u2zdm4/i_built_my_own_bitcoin_lightning_node_from/)**
+**[Is the 500-Day Bitcoin Halving Strategy Really This Simple?](https://www.reddit.com/r/Bitcoin/comments/1u4onay/is_the_500day_bitcoin_halving_strategy_really/)**
 
-After running a Raspberry Pi node at home that died without warning, I moved everything to a bare metal VPS on Contabo. No prepackaged solutions — just Ubuntu 24, Docker, Bitcoin Core 28.1, LND 0.20.1, and a stack I assembled one by one. The article covers the full setup including real bitcoin.conf and lnd.conf, SSH hardening, UFW + Fail2ban, channel strategy mistakes (don't open to big nodes — learned the hard way), ZeroTier private network for monitoring without exposing any public ports, automatic channel.backup redundancy, BOS via Telegram, and LiT for auto fee management. 7 channels live, node visible on Amboss if you want to verify it's not theoretical. Full guide (paid): https://davidebtc186.substack.com/p/how-i-built-my-own-bitcoin-lightning Happy to answer questions here. ⚡ [donate@shadowbip.com](mailto:donate@shadowbip.com) | 🛠 github.com/shadowbipnode
+Has anyone here actually tried the 500-day Bitcoin halving strategy? The idea is simple: Buy 500 days before a Bitcoin halving Sell 500 days after the halving Looking at previous cycles, the returns seem surprisingly strong: • Cycle 1: 31x • Cycle 2: 34x • Cycle 3: 12x • Cycle 4: 6.4x No indicators, no active trading, no trying to time tops and bottoms. If historical patterns continue, the next buy window would start around December 1, 2026. What am I missing here? Is this one of the most effective long-term Bitcoin strategies, or is it just a case of curve-fitting past data?
 
-2d ago
-
----
-
-**[Daily Discussion, June 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1u2qq5x/daily_discussion_june_11_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-2d ago
+11h ago
 
 ---
 
-**[What Bitcoin question took you the longest to answer?](https://www.reddit.com/r/Bitcoin/comments/1u2yy8b/what_bitcoin_question_took_you_the_longest_to/)**
+**[Enjoy it while it lasts](https://www.reddit.com/r/Bitcoin/comments/1u4m8d1/enjoy_it_while_it_lasts/)**
 
-For me, some Bitcoin questions were easy. Others took months or years before I felt like I really understood them. Things like: Why does Bitcoin have value? ETF or self-custody? How much Bitcoin is enough? Is volatility the same thing as risk? What makes Bitcoin different from every other crypto? What Bitcoin question took you the longest to answer?
-
-2d ago
+13h ago
 
 ---
 
-**[Why decentralisation? Ridiculous bank charges and slow transfers... Just paid 115 USD for a transfer that could take 3 days, longer if over a weekend!](https://www.reddit.com/r/Bitcoin/comments/1u2t3gk/why_decentralisation_ridiculous_bank_charges_and/)**
+**[If your still waiting for it to go lower to get in then you will never own any BTC](https://www.reddit.com/r/Bitcoin/comments/1u4z78r/if_your_still_waiting_for_it_to_go_lower_to_get/)**
 
-Just did this transfer... ​ TRANSFER AMOUNT USD 13,706.11 1.00 USD 13,706.11 SWIFT Handling Commission USD 15.00 IB Outward Transfer Commission USD 82.24 Overseas correspondent charges-USD USD 15.00 ​ The banks and SWIFT have had a monopoly for way to long. They basically rob a chunk of everyone's money. ​ Need BTC to have easy on and off ramps so could do this quicker and cheaper.
+I’ve talked to several people who didn’t buy at 16K because they thought it would go down to 12.5K A few more who never bought in Jan 2024 because they thought it would break below 30K I just talked to another friend who said it should come down to 55K, then I’ll buy. What if it doesn’t? If you’re one of these people, you want to invest but think you can wait till the bottom to go all in, you will miss out. This is a great level. Especially if you don’t already own any. Invest half now of whatever your maximum investment amount is. If it goes lower invest more. When it makes a new ATH you’re not going care if you got in at 65 or 55. You will just be happy you got in! Make the choice, don’t miss out
 
-2d ago
-
----
-
-**[When you short bitcoin at 120k](https://www.reddit.com/r/Bitcoin/comments/1u2vlkx/when_you_short_bitcoin_at_120k/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 2d ago
+4h ago
 
 ---
 
-**[⚡ Lightning Thursday! June 11, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1u2rt0k/lightning_thursday_june_11_2026_explore_the/)**
+**[0.5 BTC Reward (~USD 31,000) for Recovering the Password (hashcat)](https://www.reddit.com/r/Bitcoin/comments/1u53hci/05_btc_reward_usd_31000_for_recovering_the/)**
 
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giving it much thought. Over the course of that year, they deposited small amounts of Bitcoin into it. When they later wanted to cash out, they couldn't remember ever encrypting the wallet in the first place. While attempting to recover access at the time, they filled out the following form (see image). The version of Bitcoin Core available back then displayed the following recommendation when encrypting a wallet: This was only a recommendation. The actual technical requirement was simply that the passphrase contain more than one character. Today, the owner believes the password may contain the word "wallet" (or its Spanish equivalent, "billetera"). His name is Guillermo Ariel Ramirez, birthday 21-nov-1969, from Argentina. Offline page for manual testing: https://mrbianchi.github.io/decrypter16btc-web/ Hashcat hash for anyone who wants to attempt brute force: $bitcoin$96$1bbd24dc0f23175483d619a24e15f4a06e7e1d3d8b13d9a979b7f4223792836f50520c27c698fa9468ff95f481b888f0$16$65e1017f33467568$63533$2$00$2$00 In 2018, I made a similar post in the Bitcoin Argentina Facebook group: https://facebook.com/groups/351870631591732/?multi_permalinks=1569987566446693 For those who don't know me, I've completed numerous projects within that community involving wallet recovery and the recovery of cryptocurrency balances. https://preview.redd.it/surzl9x9h47h1.png?width=3525&format=png&auto=webp&s=075c6622dba32e4b909977c4c3d637e8fa74986e https://preview.redd.it/6yhesw6dh47h1.png?width=1080&format=png&auto=webp&s=8ea8955bdc40bf87009740b377859ac29c8c9f20 https://www.blockchain.com/es/explorer/addresses/btc/189JveWz2WP79oYU9Gq4NUfiurbiuNPUhn
 
-2d ago
+1h ago
+
+---
+
+**[Why does the mainstream always ignore the rising floor? (The SpaceX IPO vs. BTC cope)](https://www.reddit.com/r/Bitcoin/comments/1u4wnyc/why_does_the_mainstream_always_ignore_the_rising/)**
+
+I’ve been seeing a lot of "investment" subreddits posting memes lately, hyping up a potential SpaceX IPO while throwing trash at Bitcoin because it’s "stuck" at around $60k–$63k instead of hitting $1 million overnight. It honestly blows my mind how short-sighted the general public is. They act as if traditional stocks or fiat currency have some magical "tangible value," completely ignoring that corporate valuations are heavily inflated and fiat is guaranteed to lose purchasing power year after year. People completely ignore the macro perspective: • The rising floor: A few years ago, the cycle floor was $15k. Now, the floor has established itself between $30k–$60k. That is massive structural growth, but critics choose to look away. • The predictable cycle: We all know how this ends. Bitcoin will eventually climb to $250k–$300k in the coming years. When it does, the exact same crowd calling it "garbage" right now will FOMO in at the absolute top, screaming about a bubble while buying our bags. Why is the average retail investor so blind to the reality of currency devaluing and Bitcoin's higher lows? Is it just pure coping because they missed the early boats?
+
+5h ago
+
+---
+
+**[HODL started as a drunk typo in 2013. Here's the full story](https://www.reddit.com/r/Bitcoin/comments/1u4mig2/hodl_started_as_a_drunk_typo_in_2013_heres_the/)**
+
+December 18, 2013. Bitcoin had just crashed from $1,100 to $600 in a matter of days. A forum user named GameKyuubi sat down at his keyboard, by his own admission a bit drunk, and posted a thread called "I AM HODLING." He didn't try to fix the typo. He explained that he knew he was a bad trader, that he'd lose to people who actually knew what they were doing if he tried to time the market, so he'd decided to just sit on his Bitcoin and wait. The community ran with it. The word never went away. "Hold On for Dear Life" was invented after the fact to explain a word that already existed. Classic backronym. The funny thing is that his reasoning was actually solid. He identified his own weakness, and the best solution he came up with was to do nothing. That's essentially passive long-term investing applied to crypto, and for Bitcoin specifically the track record has backed it up every single time, through every crash that was supposed to be the end. The most rational strategy in crypto came from a drunk guy who couldn't spell on a Tuesday night in 2013. Feels right.
+
+13h ago
+
+---
+
+**[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
+
+18m ago
+
+---
+
+**[Study Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1u4puv4/study_bitcoin/)**
+
+10h ago
 
 ---
 
@@ -165,23 +159,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
 
-Forbes • 10h ago
-
----
-
-**[Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst](https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst)**
-
-Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto sell-off.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy, SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bottom-hunters-eyeing-ai-143829336.html)**
-
-(Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
-
-Yahoo Finance • 1d ago
+Forbes • 11h ago
 
 ---
 
@@ -189,15 +167,15 @@ Yahoo Finance • 1d ago
 
 Having peaked last year, the cryptocurrency has now lost half its value
 
-The Globe and Mail • 10h ago
+The Globe and Mail • 12h ago
 
 ---
 
-**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
+**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
 
-The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
+Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
 
-CNBC • 1d ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -209,11 +187,11 @@ galaxy.com • 1d ago
 
 ---
 
-**[Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-now-record-094600753.html)**
+**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
 
-Times aren't great for Bitcoin right now.
+The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-Yahoo Finance • 11h ago
+CNBC • 1d ago
 
 ---
 
@@ -225,17 +203,33 @@ Fortune • 1d ago
 
 ---
 
+**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
+
+Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
+
+Forbes • 1d ago
+
+---
+
 **[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
 
 The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
 
-CoinDesk • 4h ago
+CoinDesk • 35m ago
 
 ---
 
 **[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
 Bloomberg • 1d ago
+
+---
+
+**[Clarity Act by July 4 paints "green forest" for Bitcoin—but are bears still patrolling?](https://seekingalpha.com/news/4603093-clarity-act-by-july-4-paints-green-forest-for-bitcoin-but-are-bears-still-patrolling)**
+
+Bitcoin eyes a policy boost as the Clarity Act nears approval.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -271,7 +265,7 @@ As bitcoin dropped to its lowest price since 2024, investors flock to a new type
 
 The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used to claim "lost" assets controlled by private keys.
 
-⬆️ 4 • 💬 0 • 5d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
+⬆️ 4 • 💬 0 • 6d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
 
 ---
 
@@ -295,7 +289,7 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 Federal prosecutors want another chance to convict Tornado Cash developer Roman Storm, asking a judge to schedule a retrial this October.
 
-⬆️ 6 • 💬 0 • 3d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
+⬆️ 6 • 💬 0 • 4d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
 
 ---
 
@@ -309,7 +303,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 2 • 💬 0 • 12h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 13h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -331,7 +325,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 106 • ⏱️ 8:42 • 21h ago
+👁️ 32K • 👍 2K • 💬 106 • ⏱️ 8:42 • 23h ago
 
 ---
 
@@ -341,7 +335,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 5K • 👍 488 • 💬 82 • ⏱️ 11:00 • 5h ago
+👁️ 5K • 👍 488 • 💬 82 • ⏱️ 11:00 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T21:45:54.553026+00:00'
+updated: '2026-06-13T23:05:21.323529+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 21:45 UTC  
+**Last Updated:** June 13, 2026 at 23:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -0.2%  
-**30d:** -24.1%  
-**90d:** -28.2%  
-**1y:** -33.3%  
+**24h:** +0.9%  
+**7d:** -0.6%  
+**30d:** -24.4%  
+**90d:** -28.5%  
+**1y:** -33.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Like you know that feeling of knowing what something is and reading alot about it and knowing its significance but struggling to explain it simply to someone i feel like ethereum is exactly that. How do you explain ethereum to a child, as they say if you cant explain it to a child you dont understand it, how do you explain the greatness and future of ethereum to someone.
 
-2d ago
+3d ago
 
 ---
 
@@ -150,19 +150,19 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 ## Google News: "ethereum"
 
-**[CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower)**
+**[Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder](https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder)**
 
-Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
+In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 1d ago
+CoinDesk • 7h ago
 
 ---
 
-**[Tom Lee Says Bitmine To Slow Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html)**
+**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
 
-Tom Lee, chairman of Bitmine Immersion Technology (NYSE: $BMNR), says the crypto treasury company is likely to slow...
+Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -194,11 +194,11 @@ The Block • 3d ago
 
 ---
 
-**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
+**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
 
-Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
+More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-Seeking Alpha • 2d ago
+TradingView • 17h ago
 
 ---
 
@@ -208,25 +208,23 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
-
-Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
-
-Crypto Briefing • 16h ago
-
----
-
 **[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
 CCN.com • 1d ago
 
 ---
 
-**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
+**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
 
-More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
+AMBCrypto • 2h ago
 
-TradingView • 16h ago
+---
+
+**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
+
+Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 9K • 👍 543 • 💬 59 • ⏱️ 10:36 • 9h ago
+👁️ 9K • 👍 543 • 💬 59 • ⏱️ 10:36 • 11h ago
 
 ---
 
@@ -250,7 +248,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 337 • 💬 18 • ⏱️ 14:06 • 11h ago
+👁️ 6K • 👍 337 • 💬 18 • ⏱️ 14:06 • 12h ago
 
 ---
 
@@ -260,7 +258,7 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 828 • 👍 17 • 💬 2 • ⏱️ 0:45 • 5h ago
+👁️ 828 • 👍 17 • 💬 2 • ⏱️ 0:45 • 7h ago
 
 ---
 
@@ -270,7 +268,7 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 7K • 👍 830 • 💬 127 • ⏱️ 34:45 • 8h ago
+👁️ 7K • 👍 830 • 💬 127 • ⏱️ 34:45 • 9h ago
 
 ---
 
@@ -280,7 +278,7 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 361 • 💬 121 • ⏱️ 20:28 • 8h ago
+👁️ 8K • 👍 361 • 💬 121 • ⏱️ 20:28 • 9h ago
 
 ---
 
@@ -300,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 367 • 👍 24 • 💬 3 • ⏱️ 5:32 • 10h ago
+👁️ 367 • 👍 24 • 💬 3 • ⏱️ 5:32 • 11h ago
 
 ---
 
