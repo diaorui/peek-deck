@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T15:17:04.377931+00:00'
+updated: '2026-06-13T16:56:16.732696+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 15:17 UTC  
+**Last Updated:** June 13, 2026 at 16:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,274.68
+### $64,053.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.6%  
-**30d:** -18.7%  
-**90d:** -14.1%  
-**1y:** -39.0%  
+**24h:** +0.3%  
+**7d:** +1.1%  
+**30d:** -19.1%  
+**90d:** -14.5%  
+**1y:** -39.3%  
 
 ---
 
@@ -161,33 +161,11 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
-
-The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
-
-CNBC • 21h ago
-
----
-
 **[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
 
 Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Forbes • 21h ago
-
----
-
-**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
-
-Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
-
-CoinDesk • 19h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 19h ago
+Forbes • 23h ago
 
 ---
 
@@ -195,7 +173,35 @@ Bloomberg.com • 19h ago
 
 Strategy chairman Michael Saylor congratulated Elon Musk on SpaceX's historic Nasdaq debut Friday, coining the term "Mag8" and noting that 25% of the group now holds bitcoin on the balance sheet.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
+
+The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
+
+CNBC • 23h ago
+
+---
+
+**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
+
+The world's second-largest cryptocurrency is still a compelling investment.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin News: Bitcoin's Worst Week in Months Ends With a Late Macro Rescue — Iran De-escalation and SpaceX's 19% Debut Pop Pull BTC Back to $64,000](https://www.binance.com/en-PH/square/post/333698770773362)**
+
+Binance • 2h ago
 
 ---
 
@@ -203,7 +209,7 @@ CoinDesk • 2h ago
 
 Bitcoin rose toward $64,000 after Pakistan said a US-Iran peace deal could be finalized within 24 hours, but key resistance remains.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -219,23 +225,13 @@ galaxy.com • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 17h ago
+Fortune • 1d ago
 
 ---
 
-**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
+**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
-Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Clarity Act by July 4 paints "green forest" for Bitcoin—but are bears still patrolling?](https://seekingalpha.com/news/4603093-clarity-act-by-july-4-paints-green-forest-for-bitcoin-but-are-bears-still-patrolling)**
-
-Bitcoin eyes a policy boost as the Clarity Act nears approval.
-
-Seeking Alpha • 16h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -247,7 +243,7 @@ Seeking Alpha • 16h ago
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 2 • 2d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+⬆️ 6 • 💬 3 • 2d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -309,7 +305,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 2 • 💬 0 • 5h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 7h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -317,7 +313,7 @@ Newer packages in this compromise use native extensions and .pth loaders to exec
 
 A near-future startup novel by Milo C. Kingston. Read sample chapters for free. Book available for purchase.
 
-⬆️ 25 • 💬 14 • 4d ago • [blockchainednovel.com](https://www.blockchainednovel.com/)
+⬆️ 25 • 💬 14 • 5d ago • [blockchainednovel.com](https://www.blockchainednovel.com/)
 
 ---
 
@@ -331,7 +327,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 77 • ⏱️ 8:42 • 15h ago
+👁️ 27K • 👍 1K • 💬 77 • ⏱️ 8:42 • 17h ago
 
 ---
 
@@ -341,7 +337,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 264 • 💬 19 • ⏱️ 19:27 • 19h ago
+👁️ 7K • 👍 264 • 💬 19 • ⏱️ 19:27 • 21h ago
 
 ---
 
@@ -351,7 +347,7 @@ It doesnt take long before news within the cryptocurrency market becomes uplifti
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 409 • 💬 182 • ⏱️ 12:27 • 4h ago
+👁️ 2K • 👍 409 • 💬 182 • ⏱️ 12:27 • 5h ago
 
 ---
 
@@ -361,7 +357,7 @@ It doesnt take long before news within the cryptocurrency market becomes uplifti
 
 📺 What Bitcoin Did
 
-👁️ 18K • 👍 714 • 💬 297 • ⏱️ 1:04:38 • 22h ago
+👁️ 18K • 👍 714 • 💬 297 • ⏱️ 1:04:38 • 1d ago
 
 ---
 
@@ -371,7 +367,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 595 • 💬 84 • ⏱️ 2:22 • 14h ago
+👁️ 14K • 👍 595 • 💬 84 • ⏱️ 2:22 • 15h ago
 
 ---
 
@@ -401,7 +397,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 502 • 💬 219 • ⏱️ 13:39 • 23h ago
+👁️ 8K • 👍 502 • 💬 219 • ⏱️ 13:39 • 1d ago
 
 ---
 
@@ -411,7 +407,7 @@ Une anomalie sans précédent vient de se produire sur le marché options du SP5
 
 📺 Crypto Le Trone
 
-👁️ 3K • 👍 501 • 💬 20 • ⏱️ 10:19 • 3h ago
+👁️ 3K • 👍 501 • 💬 20 • ⏱️ 10:19 • 5h ago
 
 ---
 

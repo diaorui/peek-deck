@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T15:17:04.383339+00:00'
+updated: '2026-06-13T16:56:16.737956+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 15:17 UTC  
+**Last Updated:** June 13, 2026 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -0.6%  
-**30d:** -24.5%  
-**90d:** -28.5%  
-**1y:** -33.7%  
+**24h:** +0.4%  
+**7d:** -0.9%  
+**30d:** -24.7%  
+**90d:** -28.7%  
+**1y:** -33.8%  
 
 ---
 
@@ -158,11 +158,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Tom Lee Says Bitmine To Slow Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html)**
+**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
 
-Tom Lee, chairman of Bitmine Immersion Technology (NYSE: $BMNR), says the crypto treasury company is likely to slow...
+The world's second-largest cryptocurrency is still a compelling investment.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+
+The prominent analyst expects Ether to replicate Bitcoin's historic run.
+
+The Motley Fool • 22h ago
+
+---
+
+**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
+
+Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
+
+The Block • 3d ago
 
 ---
 
@@ -178,22 +194,6 @@ Fortune • 2d ago
 
 ---
 
-**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
-
-Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
-
-The Block • 2d ago
-
----
-
-**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
-
-The prominent analyst expects Ether to replicate Bitcoin's historic run.
-
-The Motley Fool • 20h ago
-
----
-
 **[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
 Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
@@ -202,17 +202,9 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
-
-More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
-
-TradingView • 9h ago
-
----
-
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -226,7 +218,15 @@ CCN.com • 1d ago
 
 Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
+
+---
+
+**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
+
+More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
+
+TradingView • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 3K • 👍 323 • 💬 31 • ⏱️ 10:36 • 3h ago
+👁️ 3K • 👍 323 • 💬 31 • ⏱️ 10:36 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 251 • 💬 20 • ⏱️ 14:06 • 4h ago
+👁️ 3K • 👍 251 • 💬 20 • ⏱️ 14:06 • 6h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 198 • 💬 107 • ⏱️ 20:28 • 1h ago
+👁️ 2K • 👍 198 • 💬 107 • ⏱️ 20:28 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 136 • 👍 18 • 💬 2 • ⏱️ 5:32 • 3h ago
+👁️ 136 • 👍 18 • 💬 2 • ⏱️ 5:32 • 5h ago
 
 ---
 
@@ -300,7 +300,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 245 • 👍 35 • ⏱️ 5:18 • 1h ago
+👁️ 245 • 👍 35 • ⏱️ 5:18 • 3h ago
 
 ---
 
@@ -310,7 +310,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 712 • 💬 297 • ⏱️ 11:58 • 2d ago
+👁️ 12K • 👍 712 • 💬 297 • ⏱️ 11:58 • 3d ago
 
 ---
 
