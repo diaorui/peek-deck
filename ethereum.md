@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T20:01:56.970633+00:00'
+updated: '2026-06-13T21:45:54.553026+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 20:01 UTC  
+**Last Updated:** June 13, 2026 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.8%  
-**30d:** -24.6%  
-**90d:** -28.7%  
-**1y:** -33.8%  
+**24h:** +1.5%  
+**7d:** -0.2%  
+**30d:** -24.1%  
+**90d:** -28.2%  
+**1y:** -33.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.95B
+**Market Cap:** $203.64B
 Rank #2
 
 **Circulating Supply:** 120,684,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-65.9%
 
 **All-Time Low:** $0.43
-+386948.8%
++389621.0%
 
 ---
 
@@ -204,7 +204,7 @@ Seeking Alpha • 2d ago
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 23h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Bloomberg.com • 23h ago
 
 Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -226,7 +226,7 @@ CCN.com • 1d ago
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 14h ago
+TradingView • 16h ago
 
 ---
 
@@ -240,17 +240,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 6K • 👍 459 • 💬 50 • ⏱️ 10:36 • 8h ago
-
----
-
-**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
-
-BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 306 • 💬 127 • ⏱️ 20:28 • 6h ago
+👁️ 9K • 👍 543 • 💬 59 • ⏱️ 10:36 • 9h ago
 
 ---
 
@@ -260,7 +250,17 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 308 • 💬 24 • ⏱️ 14:06 • 9h ago
+👁️ 6K • 👍 337 • 💬 18 • ⏱️ 14:06 • 11h ago
+
+---
+
+**[Your Ethereum is in Danger](https://www.youtube.com/watch?v=O2fs5TB7Aig)**
+
+Ethereum's biggest problem may not be price. It may be its own economy. After a major upgrade cut fees, ETH became less ...
+
+📺 Coin Bureau Podcast
+
+👁️ 828 • 👍 17 • 💬 2 • ⏱️ 0:45 • 5h ago
 
 ---
 
@@ -270,7 +270,17 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 4K • 👍 637 • 💬 93 • ⏱️ 34:45 • 6h ago
+👁️ 7K • 👍 830 • 💬 127 • ⏱️ 34:45 • 8h ago
+
+---
+
+**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
+
+BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 361 • 💬 121 • ⏱️ 20:28 • 8h ago
 
 ---
 
@@ -280,7 +290,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 350 • 💬 204 • ⏱️ 12:37 • 2d ago
+👁️ 7K • 👍 351 • 💬 205 • ⏱️ 12:37 • 2d ago
 
 ---
 
@@ -290,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 253 • 👍 23 • 💬 2 • ⏱️ 5:32 • 8h ago
+👁️ 367 • 👍 24 • 💬 3 • ⏱️ 5:32 • 10h ago
 
 ---
 
@@ -300,7 +310,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 160 • 💬 41 • ⏱️ 16:46 • 2d ago
+👁️ 4K • 👍 161 • 💬 41 • ⏱️ 16:46 • 2d ago
 
 ---
 
@@ -310,27 +320,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 490 • 👍 20 • 💬 5 • ⏱️ 5:41 • 2d ago
+👁️ 493 • 👍 20 • 💬 5 • ⏱️ 5:41 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Zjr8XCeYjQI)**
+**[XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!)](https://www.youtube.com/watch?v=TIW18EpM6Is)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, ...
 
-📺 Profit First
+📺 NCashOfficial
 
-👁️ 439 • 👍 55 • ⏱️ 5:18 • 6h ago
-
----
-
-**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
-
-SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 320 • 💬 28 • ⏱️ 21:04 • 2d ago
+👁️ 7K • 👍 474 • 💬 52 • ⏱️ 15:23 • 2d ago
 
 ---
 

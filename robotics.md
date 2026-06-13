@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-13T20:01:56.973485+00:00'
+updated: '2026-06-13T21:45:54.556264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 13, 2026 at 20:01 UTC  
+**Last Updated:** June 13, 2026 at 21:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've always been interested in point clouds and spatial data, so I created my own LiDAR scanner! It runs off of an esp32 and TMC2209s on a custom PCB, which continuously rotate and sweep the LiDAR sensor. I learned a ton creating this project, as this was my first time creating a PCB and using NEMA motors (I have used other motors before). Github repo
 
-13h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Depth cloud Test on SLAM Camera](https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-4h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Curation of materials for robotics and Artificial Intelligence. Learn as your pr
 
 **[Visual Integration to LIO SAM](https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 4h ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 5h ago
 
 ---
 
@@ -110,7 +110,13 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
 
-CNBC • 8h ago
+CNBC • 9h ago
+
+---
+
+**[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
+
+WSJ • 2d ago
 
 ---
 
@@ -122,15 +128,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
+**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
 
-Bloomberg.com • 1d ago
+Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
 
----
-
-**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
-
-Barron's • 2d ago
+Fox News • 8h ago
 
 ---
 
@@ -140,27 +142,17 @@ WSJ • 1d ago
 
 ---
 
-**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
-
-Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
-
-Fox News • 6h ago
-
----
-
 **[Soft robots get a tiny soft pump to move their bodies](https://newatlas.com/robotics/soft-robots-tiny-pump/)**
 
 Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed,…
 
-New Atlas • 16h ago
+New Atlas • 18h ago
 
 ---
 
-**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
+**[The first-ever robotic rescue at sea is a milestone](https://www.economist.com/middle-east-and-africa/2026/06/11/the-first-ever-robotic-rescue-at-sea-is-a-milestone)**
 
-They were impressive, but could they ever feel human?
-
-The Atlantic • 2d ago
+The Economist • 2d ago
 
 ---
 
@@ -172,11 +164,19 @@ FFXnow • 1d ago
 
 ---
 
+**[This football robot’s penalties are shocking experts—is it unstoppable now?](https://www.futura-sciences.com/en/this-football-robots-penalties-are-shocking-experts-is-it-unstoppable-now_33926/)**
+
+Beyond the Human Game: RoboCup Steps Up Just as the 2026 FIFA World Cup kicks off, some are gearing up for a very different kind of football tournament. But this one isn’t played by humans—it’s a battle of the robots. Since 1996, RoboCup has been an annual event where robotics...
+
+Futura, le média qui explore le monde • 9h ago
+
+---
+
 **[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
 
 A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
 
-Futurism • 4h ago
+Futurism • 6h ago
 
 ---
 
@@ -184,13 +184,11 @@ Futurism • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
+**[Coffee Balloon Turns Into Robot Hand 😮](https://www.youtube.com/watch?v=NX_LsXlC7QQ)**
 
-I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
+📺 Zack D. Films
 
-📺 The Hook Up
-
-👁️ 28K • 👍 744 • 💬 240 • ⏱️ 33:19 • 1d ago
+👁️ 632K • 👍 44K • 💬 789 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -200,7 +198,7 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 19K • 👍 963 • 💬 70 • ⏱️ 0:30 • 10h ago
+👁️ 27K • 👍 1K • 💬 84 • ⏱️ 0:30 • 11h ago
 
 ---
 
@@ -210,7 +208,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 99K • 👍 1K • 💬 155 • ⏱️ 6:09 • 3d ago
+👁️ 103K • 👍 1K • 💬 156 • ⏱️ 6:09 • 3d ago
 
 ---
 
@@ -220,27 +218,7 @@ Did you know scientists are using "necrobotics" to turn deceased spiders into ti
 
 📺 Wealthy Capital
 
-👁️ 47K • 👍 204 • 💬 12 • ⏱️ 0:07 • 21h ago
-
----
-
-**[Meet the Military Robot Dogs of the Future 😳🐺](https://www.youtube.com/watch?v=MGize6Ndn_Y)**
-
-The future of military technology is arriving on four legs. This video showcases advanced quadruped robotic systems, often called ...
-
-📺 Perigee Tech
-
-👁️ 11K • 💬 8 • ⏱️ 0:05 • 9h ago
-
----
-
-**[China Builds 85% of the World&#39;s Humanoid Robots. So Why Is Nobody Buying Them? | FP Explains](https://www.youtube.com/watch?v=qsC5PwAgSYY)**
-
-China now builds 85% of the world's humanoid robots. Companies like Unitree and AGIBOT can produce robots far cheaper than ...
-
-📺 Firstpost
-
-👁️ 4K • 👍 44 • 💬 31 • ⏱️ 6:29 • 2d ago
+👁️ 50K • 👍 220 • 💬 12 • ⏱️ 0:07 • 22h ago
 
 ---
 
@@ -254,33 +232,53 @@ A humanoid hand sweats like human skin while tightening bolts for three hours st
 
 ---
 
+**[Meet the Military Robot Dogs of the Future 😳🐺](https://www.youtube.com/watch?v=MGize6Ndn_Y)**
+
+The future of military technology is arriving on four legs. This video showcases advanced quadruped robotic systems, often called ...
+
+📺 Perigee Tech
+
+👁️ 16K • 💬 10 • ⏱️ 0:05 • 11h ago
+
+---
+
+**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
+
+This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
+
+📺 Over Engineer
+
+👁️ 462 • 👍 69 • 💬 6 • ⏱️ 6:05 • 1d ago
+
+---
+
+**[Mini LEGO brick Pteranodon  transformer robot - Pterabot #LEGO #MOC #dinobot](https://www.youtube.com/watch?v=87CRNBaeanM)**
+
+A Pteranodon transforming robot that can be built easily with just 25 pieces – Pterabot! Parts list for these LEGO robots ...
+
+📺 BrickMecha
+
+👁️ 3K • 👍 65 • 💬 11 • ⏱️ 8:05 • 20h ago
+
+---
+
 **[This REK robot thinks he&#39;s Michael Jackson! #robot #robotics #technology #michaeljackson #dance](https://www.youtube.com/watch?v=yQQ7ANI-kPk)**
 
 A demo of a dancing robot I could experience at REK in San Francisco. You can learn more about REK at https://rek.com/ --- If you ...
 
 📺 Skarredghost
 
-👁️ 1K • 👍 31 • 💬 2 • ⏱️ 0:58 • 10h ago
+👁️ 1K • 👍 34 • 💬 2 • ⏱️ 0:58 • 11h ago
 
 ---
 
-**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
+**[China’s Humanoid Robots Crash! ¥1M Each to ¥50K per Truck, Looks Like Scrap Metal](https://www.youtube.com/watch?v=uFuGY0yaTdg)**
 
-Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
+Recently, the price of humanoid robots in China has plunged sharply. Just a year ago, engineering prototypes required tens of ...
 
-📺 Talent Replay
+📺 China Observer
 
-👁️ 65K • 👍 704 • 💬 70 • ⏱️ 5:50 • 3d ago
-
----
-
-**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
-
-500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
-
-📺 KF Labs
-
-👁️ 21K • 👍 613 • 💬 9 • ⏱️ 0:05 • 1d ago
+👁️ 58K • 👍 2K • 💬 623 • ⏱️ 16:33 • 6d ago
 
 ---
 

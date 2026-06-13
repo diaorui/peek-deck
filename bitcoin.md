@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T20:01:56.965282+00:00'
+updated: '2026-06-13T21:45:54.546905+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 20:01 UTC  
+**Last Updated:** June 13, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,222.33
+### $64,646.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +1.6%  
-**30d:** -18.7%  
-**90d:** -14.1%  
-**1y:** -39.0%  
+**24h:** +1.6%  
+**7d:** +2.0%  
+**30d:** -18.4%  
+**90d:** -13.8%  
+**1y:** -38.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1281.68B
+**Market Cap:** $1288.71B
 Rank #1
 
-**Circulating Supply:** 20,042,284 BTC
+**Circulating Supply:** 20,042,318 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-48.8%
 
 **All-Time Low:** $67.81
-+94299.1%
++95161.8%
 
 ---
 
@@ -161,27 +161,43 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
+**[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
+
+The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
+
+Forbes • 10h ago
+
+---
+
+**[Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst](https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst)**
+
+Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto sell-off.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy, SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bottom-hunters-eyeing-ai-143829336.html)**
+
+(Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
+
+Having peaked last year, the cryptocurrency has now lost half its value
+
+The Globe and Mail • 10h ago
+
+---
+
 **[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
 CNBC • 1d ago
-
----
-
-**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
-
-The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
-
-Forbes • 8h ago
 
 ---
 
@@ -197,43 +213,29 @@ galaxy.com • 1d ago
 
 Times aren't great for Bitcoin right now.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
+**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
 
-Having peaked last year, the cryptocurrency has now lost half its value
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-The Globe and Mail • 9h ago
-
----
-
-**[SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/?streamIndex=0)**
-
-Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
-
-Forbes • 1d ago
+Fortune • 1d ago
 
 ---
 
-**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
+**[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
 
-Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
 
-CoinDesk • 1d ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-Bloomberg.com • 23h ago
-
----
-
-**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
-
-MarketWatch • 2d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -307,7 +309,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 2 • 💬 0 • 10h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 12h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -329,7 +331,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 100 • ⏱️ 8:42 • 20h ago
+👁️ 32K • 👍 2K • 💬 106 • ⏱️ 8:42 • 21h ago
 
 ---
 
@@ -339,7 +341,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 2K • 👍 292 • 💬 55 • ⏱️ 11:00 • 4h ago
+👁️ 5K • 👍 488 • 💬 82 • ⏱️ 11:00 • 5h ago
 
 ---
 
@@ -349,27 +351,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 277 • 💬 28 • ⏱️ 19:27 • 1d ago
-
----
-
-**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
-
-"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
-
-📺 What Bitcoin Did
-
-👁️ 19K • 👍 756 • 💬 357 • ⏱️ 1:04:38 • 1d ago
-
----
-
-**[BITCOIN PRICE TRAP!! HEATMAP IS BULLISH!! I CLOSED MY BITCOIN SHORT POSITION!!](https://www.youtube.com/watch?v=Q6h75BDBs14)**
-
-BITCOIN PRICE ANALYSIS | BITCOIN PREDICTION | BITCOIN HEATMAP | BITCOIN VOLUME | SPACEX IPO Bitcoin is moving ...
-
-📺 TMG Trades
-
-👁️ 4K • 👍 561 • 💬 136 • ⏱️ 10:20 • 6h ago
+👁️ 9K • 👍 289 • 💬 29 • ⏱️ 19:27 • 1d ago
 
 ---
 
@@ -379,47 +361,67 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 357 • ⏱️ 20:54 • 1d ago
+👁️ 25K • 👍 2K • 💬 358 • ⏱️ 20:54 • 2d ago
 
 ---
 
-**[Bitcoin: NICHT VERPASSEN! das Zeitfenster für Käufe könnte SEHR ENG werden!](https://www.youtube.com/watch?v=812tyoSQIEM)**
+**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
 
-Unsere Kurs-Analysen: https://schulz-technical-analysis.com ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Bitcoin BTC, ...
+"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
 
-📺 STA Solutions
+📺 What Bitcoin Did
 
-👁️ 4K • 👍 1K • 💬 97 • ⏱️ 19:58 • 4h ago
+👁️ 21K • 👍 817 • 💬 334 • ⏱️ 1:04:38 • 1d ago
 
 ---
 
-**[Don’t buy SpaceX, buy this instead. #crypto](https://www.youtube.com/watch?v=WqthcftfgYw)**
+**[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
 
-Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
+Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
+
+📺 Gareth Soloway
+
+👁️ 52K • 👍 3K • 💬 310 • ⏱️ 14:32 • 1d ago
+
+---
+
+**[Every Bitcoin Bottom Started At This Line. We Just Touched It.](https://www.youtube.com/watch?v=-VsSwV5kYHs)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 516 • 💬 245 • ⏱️ 13:39 • 1d ago
+
+---
+
+**[SpaceX + Bitcoin: This Could Change Everything](https://www.youtube.com/watch?v=UOxo1N_UA1E)**
+
+AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 966 • 💬 101 • ⏱️ 1:10:59 • 1d ago
+
+---
+
+**[Why hasn’t Bitcoin replaced the dollar?](https://www.youtube.com/watch?v=dbJVJiTUpBY)**
+
+Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
+
+📺 NPR's Planet Money
+
+👁️ 44K • 👍 4K • 💬 132 • ⏱️ 1:24 • 1d ago
+
+---
+
+**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
+
+This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 668 • 💬 85 • ⏱️ 2:22 • 18h ago
-
----
-
-**[BITCOIN: ¿Y Si El Quinto CICLO ALCISTA Ya Empezó?](https://www.youtube.com/watch?v=Qzwul32ZTIA)**
-
-ENLACE BITUNIX NO KYC NO VPN https://www.bitunix.com/es-es/activity/basic/USACRYPTONOTICIAS0613?vipCode=kxm7 ...
-
-📺 USACRYPTONOTICIAS
-
-👁️ 2K • 👍 517 • 💬 11 • ⏱️ 1:44:01 • 2h ago
-
----
-
-**[The Cycle Structure Has Been Invalidated This Chart Shows Bitcoin Is Going EXACTLY According To Plan](https://www.youtube.com/watch?v=DT7f1pvARe0)**
-
-It doesnt take long before news within the cryptocurrency market becomes uplifting and positive again. Bitcoin and the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 4K • 👍 533 • 💬 245 • ⏱️ 12:27 • 8h ago
+👁️ 35K • 👍 2K • 💬 152 • ⏱️ 8:18 • 2d ago
 
 ---
 
