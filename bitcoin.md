@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T08:36:54.234291+00:00'
+updated: '2026-06-13T11:15:00.238823+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 08:36 UTC  
+**Last Updated:** June 13, 2026 at 11:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,857.20
+### $63,920.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.9%  
+**24h:** +0.7%  
+**7d:** +1.0%  
 **30d:** -19.2%  
-**90d:** -14.7%  
+**90d:** -14.6%  
 **1y:** -39.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1278.35B
+**Market Cap:** $1280.18B
 Rank #1
 
-**Circulating Supply:** 20,042,115 BTC
+**Circulating Supply:** 20,042,171 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.3%
 
 **All-Time Low:** $67.81
-+93940.7%
++94097.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Interesting to see Japan lining up futures alongside potential ETF approval. Feels like a coordinated push toward giving institutions a full toolkit. Curious how people see this, does this actually drive adoption, or just more derivatives activity?
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 1d ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/osaka-exchange-list-bitcoin-futures-2028-chairman-tells-nikkei) • 2d ago
 
 ---
 
@@ -105,7 +105,7 @@ BlackRock's new bitcoin fund seeks to provide yield through active covered call 
 
 I used to think Bitcoin was easy money at first when i first got into investing which was like 4ish years ago. After making my first ACTUAL big profit off Bitcoin in 2025, I realized that Bitcoin is a long game and people don't understand that. I didn't even understand that when I first put money in but after months of having my money on a low (I made the mistake of buying when Bitcoin was on a high) I finally cracked the way to fix my portfolio and hope for some growth. Now it's just a matter of closing my app and waiting for it to grow again and not stress over it.
 
-1d ago
+2d ago
 
 ---
 
@@ -145,7 +145,7 @@ Just did this transfer... ​ TRANSFER AMOUNT USD 13,706.11 1.00 USD 13,706.11 S
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 1d ago
+🔗 [youtube.com](https://youtube.com/shorts/DfsR6HaJ-24?is=XpoaxGNcSaO-GKHl) • 2d ago
 
 ---
 
@@ -165,45 +165,53 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
-**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
+**[What happens to Satoshi's BTC when Bitcoin's quantum problem is fixed?](https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question)**
 
-Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
+A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.
 
-Forbes • 14h ago
-
----
-
-**[Here's why bitcoin ETF outflows may have little to do with SpaceX mania](https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo)**
-
-Sygnum CIO Fabian Dori says recent bitcoin ETF outflows are more likely tied to arbitrage unwinds and macro liquidity pressures than investors rotating into anticipated IPOs such as SpaceX.
-
-CoinDesk • 1d ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
+**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
 
-WSJ • 16h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
----
-
-**[Bitcoin steady above $63,000 as its worst week in months got a late macro rescue](https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue)**
-
-A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears and a strong SpaceX debut helped risk assets recover.
-
-CoinDesk • 2h ago
+Fortune • 16h ago
 
 ---
 
-**[Mark Cuban Said If You Want To Get Rich, Throw A 'Hail Mary' With 10% In Bitcoin And Pretend You Lost It — 9 Years Later, He Says It 'Lost The Plot'](https://finance.yahoo.com/markets/crypto/articles/mark-cuban-said-want-rich-153146650.html)**
+**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
-Calling something a "Hail Mary" is usually a good sign that things could end brilliantly or blow up in your face. That's exactly how billionaire entrepreneur Mark Cuban described Bitcoin while discussing wealth-building to Vanity Fair in 2017. He wasn't...
+MarketWatch • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[How Bitcoin Became a Luxury Currency](https://www.yahoo.com/entertainment/videos/bitcoin-became-luxury-currency-085313391.html)**
+
+Once dismissed as digital money with nowhere to go, Bitcoin is stepping out of the shadows
+
+Yahoo • 2h ago
+
+---
+
+**[Javier Mile's Right Hand Says Bitcoin Explains His Hidden $500,000](https://www.forbes.com/sites/digital-assets/2026/06/13/mileis-cabinet-chief-faces-harder-scrutiny-after-his-bitcoin-disclosure/)**
+
+Argentina's cabinet chief says bitcoin explains the $513,000 he hid. The blockchain, his own videos and his filings tell a different stoory.
+
+Forbes • 58m ago
+
+---
+
+**[Bitcoin rebounds above $63,000 as Iran optimism boosts risk appetite](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-63-000-082546730.html)**
+
+Investing.com -- Bitcoin rebounded above $63,000 on Saturday and was headed for a weekly gain, as improving sentiment around a potential U.S.-Iran peace agreement helped lift risk assets after a volatile week for cryptocurrencies.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,23 +223,19 @@ galaxy.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
+**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Fortune • 13h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 12h ago
+Forbes • 17h ago
 
 ---
 
-**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
 
-MarketWatch • 1d ago
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+
+CoinDesk • 14h ago
 
 ---
 
@@ -283,7 +287,7 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve would impose a 20-year lock-up on federally held bitcoin.
 
-⬆️ 1 • 💬 0 • 3d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill)
+⬆️ 1 • 💬 0 • 4d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill)
 
 ---
 
@@ -298,6 +302,14 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 **[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
 
 ⬆️ 2 • 💬 0 • 1d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+
+---
+
+**[Mini Shai-Hulud, Miasma, and Hades Worms Target Bioinformati](https://news.ycombinator.com/item?id=48515233)**
+
+Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
+
+⬆️ 1 • 💬 0 • 1h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -319,7 +331,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 57 • ⏱️ 8:42 • 8h ago
+👁️ 22K • 👍 1K • 💬 69 • ⏱️ 8:42 • 11h ago
 
 ---
 
@@ -329,7 +341,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 What Bitcoin Did
 
-👁️ 14K • 👍 580 • 💬 152 • ⏱️ 1:04:38 • 16h ago
+👁️ 15K • 👍 625 • 💬 204 • ⏱️ 1:04:38 • 18h ago
 
 ---
 
@@ -339,7 +351,7 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 348 • ⏱️ 20:54 • 1d ago
+👁️ 24K • 👍 2K • 💬 350 • ⏱️ 20:54 • 1d ago
 
 ---
 
@@ -349,27 +361,7 @@ Bitcoin is showing a hidden bullish signal that could trigger a massive relief r
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 3K • 💬 298 • ⏱️ 14:32 • 20h ago
-
----
-
-**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
-
-This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
-
-📺 Altcoin Daily
-
-👁️ 33K • 👍 2K • 💬 166 • ⏱️ 8:18 • 1d ago
-
----
-
-**[Every Bitcoin Bottom Started At This Line. We Just Touched It.](https://www.youtube.com/watch?v=-VsSwV5kYHs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 475 • 💬 188 • ⏱️ 13:39 • 16h ago
+👁️ 47K • 👍 3K • 💬 301 • ⏱️ 14:32 • 23h ago
 
 ---
 
@@ -379,7 +371,27 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 930 • 💬 105 • ⏱️ 1:10:59 • 17h ago
+👁️ 19K • 👍 937 • 💬 101 • ⏱️ 1:10:59 • 20h ago
+
+---
+
+**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
+
+This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
+
+📺 Altcoin Daily
+
+👁️ 34K • 👍 2K • 💬 166 • ⏱️ 8:18 • 1d ago
+
+---
+
+**[Every Bitcoin Bottom Started At This Line. We Just Touched It.](https://www.youtube.com/watch?v=-VsSwV5kYHs)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 485 • 💬 188 • ⏱️ 13:39 • 19h ago
 
 ---
 
@@ -389,17 +401,17 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 35K • 👍 4K • 💬 88 • ⏱️ 1:24 • 15h ago
+👁️ 37K • 👍 4K • 💬 98 • ⏱️ 1:24 • 18h ago
 
 ---
 
-**[Brian Armstrong on Bitcoin, Anthropic Drops Fable 5 &amp; Mythos 5, NewLimit&#39;s $435M Age-Reversal | 264](https://www.youtube.com/watch?v=isd2y37j8v4)**
+**[you aren&#39;t crazy... something isn&#39;t right with bitcoin nowadays](https://www.youtube.com/watch?v=_sgx1CjhEJs)**
 
-This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, government stakes in AI companies, the OpenAI IPO ...
+Is bitcoin dying? Something isn't right with bitcoin nowadays... Use Bitcoin to buy at Walmart, Amazon, and 10000+ other brands + ...
 
-📺 Peter H. Diamandis
+📺 BTC Isla
 
-👁️ 87K • 👍 2K • 💬 965 • ⏱️ 1:57:02 • 1d ago
+👁️ 7K • 👍 718 • 💬 128 • ⏱️ 8:29 • 21h ago
 
 ---
 
@@ -409,7 +421,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 173 • ⏱️ 10:27 • 1d ago
+👁️ 57K • 👍 4K • 💬 174 • ⏱️ 10:27 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T08:36:54.239689+00:00'
+updated: '2026-06-13T11:15:00.244760+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 08:36 UTC  
+**Last Updated:** June 13, 2026 at 11:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
+**24h:** +0.6%  
 **7d:** -0.9%  
 **30d:** -24.7%  
-**90d:** -28.8%  
-**1y:** -33.9%  
+**90d:** -28.7%  
+**1y:** -33.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.09B
+**Market Cap:** $202.17B
 Rank #2
 
 **Circulating Supply:** 120,684,238 ETH
@@ -62,7 +62,7 @@ No max supply
 -66.1%
 
 **All-Time Low:** $0.43
-+386627.8%
++386837.9%
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 19h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 2d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -202,17 +202,17 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
+**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
 
-Bloomberg.com • 12h ago
+More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
+
+TradingView • 5h ago
 
 ---
 
-**[Is XRP the Most Resilient Large-Cap Cryptocurrency in June?](https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/)**
+**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-XRP (XRP) has emerged as one of the more resilient large-cap cryptocurrencies in June despite a challenging environment for digital assets. Recent flow trends indicate that XRP-focused investment products continue to attract capital even as some Bitcoin (BTC) and Ethereum (ETH)- linked funds experi…
-
-TradingView • 13h ago
+Bloomberg • 15h ago
 
 ---
 
@@ -226,7 +226,7 @@ Coinpedia • 1d ago
 
 **[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
-CCN.com • 19h ago
+CCN.com • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 346 • 💬 206 • ⏱️ 12:37 • 2d ago
+👁️ 6K • 👍 347 • 💬 206 • ⏱️ 12:37 • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, 
 
 📺 NCashOfficial
 
-👁️ 6K • 👍 468 • 💬 53 • ⏱️ 15:23 • 1d ago
+👁️ 6K • 👍 470 • 💬 52 • ⏱️ 15:23 • 1d ago
 
 ---
 
@@ -260,47 +260,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 158 • 💬 41 • ⏱️ 16:46 • 1d ago
-
----
-
-**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
-
-SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 321 • 💬 28 • ⏱️ 21:04 • 1d ago
-
----
-
-**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 482 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
-
----
-
-**[अगले 4 साल में Ethereum देगा Bitcoin को टक्कर? | Sagar Sinha Podcast Clips](https://www.youtube.com/watch?v=je4AL2tAd58)**
-
-In this special episode of the Sagar Sinha Podcast, we sit down with Gajendra Singh Shekhawat, Hon'ble Union Minister for ...
-
-📺 Sagar Sinha Podcast Clips
-
-👁️ 7K • 👍 336 • 💬 38 • ⏱️ 7:22 • 19h ago
-
----
-
-**[Bitcoin vs Ethereum - Which one is better for a reversal](https://www.youtube.com/watch?v=U07AVD8dt5c)**
-
-Bitcoin vs Ethereum: Which One Has the Real Reversal Opportunity?
-
-📺 Tackle Trading
-
-👁️ 32 • 👍 1 • ⏱️ 2:41 • 14h ago
+👁️ 4K • 👍 159 • 💬 41 • ⏱️ 16:46 • 1d ago
 
 ---
 
@@ -314,21 +274,63 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
+**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 486 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
+
+---
+
+**[SHOCKING $1.1 TRILLION GONE IN ONE DAY 🚨 Saylor Issues Brutal Ethereum Warning Crypto Fear Explodes](https://www.youtube.com/watch?v=ROmFfTlTAhw)**
+
+SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as Crypto Fear Explodes GM babes!
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 321 • 💬 28 • ⏱️ 21:04 • 1d ago
+
+---
+
+**[अगले 4 साल में Ethereum देगा Bitcoin को टक्कर? | Sagar Sinha Podcast Clips](https://www.youtube.com/watch?v=je4AL2tAd58)**
+
+In this special episode of the Sagar Sinha Podcast, we sit down with Gajendra Singh Shekhawat, Hon'ble Union Minister for ...
+
+📺 Sagar Sinha Podcast Clips
+
+👁️ 9K • 👍 369 • 💬 40 • ⏱️ 7:22 • 21h ago
+
+---
+
+**[Ethereum (ETH) Price Action Update! — June 2026](https://www.youtube.com/watch?v=ina_YHr1ybo)**
+
+In this video, we break down Ethereum's latest price action after a sharp selloff over the past week and analyze what could be ...
+
+📺 Gordon Frayne
+
+👁️ 231 • 👍 21 • 💬 9 • ⏱️ 10:11 • 1d ago
+
+---
+
 **[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
 
 Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
 
 📺 Alvarburn
 
-👁️ 3K • 👍 286 • 💬 11 • ⏱️ 13:24 • 21h ago
+👁️ 3K • 👍 292 • 💬 10 • ⏱️ 13:24 • 23h ago
 
 ---
 
-**[Sorry Eth. It was never you. #ethereum #crypto #cryptoinvest #xrp](https://www.youtube.com/watch?v=pgJxybxFJGw)**
+**[Meine neuen Kursziele für BTC &amp; ETH](https://www.youtube.com/watch?v=01k5W5RyALI)**
 
-📺 klay browning
+In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitcoin und Ethereum sowie die wichtigsten ...
 
-👁️ 1K • 👍 14 • 💬 1 • ⏱️ 0:06 • 10h ago
+📺 Charts & Cars by Philip Klinkmüller
+
+👁️ 33K • 👍 3K • 💬 150 • ⏱️ 22:40 • 1d ago
 
 ---
 
