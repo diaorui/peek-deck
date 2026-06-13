@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T11:15:00.244760+00:00'
+updated: '2026-06-13T13:05:44.963309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 11:15 UTC  
+**Last Updated:** June 13, 2026 at 13:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -0.9%  
-**30d:** -24.7%  
-**90d:** -28.7%  
-**1y:** -33.8%  
+**24h:** -0.3%  
+**7d:** -0.7%  
+**30d:** -24.5%  
+**90d:** -28.6%  
+**1y:** -33.7%  
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ One year later, Buterin and a team of cofounders raised $18 million for Ethereum
 
 More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 2d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -206,13 +206,19 @@ Seeking Alpha • 1d ago
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 5h ago
+TradingView • 7h ago
 
 ---
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg • 15h ago
+Bloomberg.com • 16h ago
+
+---
+
+**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
+
+CCN.com • 23h ago
 
 ---
 
@@ -221,12 +227,6 @@ Bloomberg • 15h ago
 Strategy chairman Michael Saylor has once again questioned Ethereum’s long-term position in the crypto market. According to him, growing competition from
 
 Coinpedia • 1d ago
-
----
-
-**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
-
-CCN.com • 22h ago
 
 ---
 
@@ -260,7 +260,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 159 • 💬 41 • ⏱️ 16:46 • 1d ago
+👁️ 4K • 👍 159 • 💬 41 • ⏱️ 16:46 • 2d ago
 
 ---
 
@@ -300,7 +300,7 @@ In this special episode of the Sagar Sinha Podcast, we sit down with Gajendra Si
 
 📺 Sagar Sinha Podcast Clips
 
-👁️ 9K • 👍 369 • 💬 40 • ⏱️ 7:22 • 21h ago
+👁️ 9K • 👍 369 • 💬 40 • ⏱️ 7:22 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 3K • 👍 292 • 💬 10 • ⏱️ 13:24 • 23h ago
+👁️ 3K • 👍 292 • 💬 10 • ⏱️ 13:24 • 1d ago
 
 ---
 

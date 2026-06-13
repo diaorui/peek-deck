@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T11:15:00.238823+00:00'
+updated: '2026-06-13T13:05:44.957193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 11:15 UTC  
+**Last Updated:** June 13, 2026 at 13:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,920.69
+### $63,958.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.0%  
-**30d:** -19.2%  
-**90d:** -14.6%  
-**1y:** -39.4%  
+**24h:** +0.2%  
+**7d:** +1.3%  
+**30d:** -19.0%  
+**90d:** -14.4%  
+**1y:** -39.2%  
 
 ---
 
@@ -89,7 +89,7 @@ Interesting to see Japan lining up futures alongside potential ETF approval. Fee
 
 Back in 2019 I bought 1 BTC and, like an absolute idiot, managed to lose the seed phrase. I searched everywhere. Old notebooks, USB sticks, cloud storage, emails... nothing. After a while I accepted it was gone forever. At some point I even stopped thinking about it. Fast forward to today. Recently I found the hard drive from an old laptop I hadn't touched since 2019. Out of pure curiosity I decided to boot it up and see if it still worked. While browsing around, I opened Chrome and started looking through my old history. Then I randomly checked the Recycle Bin. Inside the Recycle Bin was a .txt file. My heart skipped a beat. I opened it. It was the seed phrase. Well... sort of. Before everyone calls me a moron (which would be fair), yes, I actually stored my recovery phrase in a text document instead of proper cold storage. I know. Stupid. But there was a method to my madness. I knew that if someone found the words but didn't know the correct order, they wouldn't be able to access the wallet. A 12-word recovery phrase has 12! possible arrangements, which is 479,001,600 different combinations. So I stored the words in a text file, but scrambled them in a way that only I knew how to put them back together. Apparently, years later, even I forgot where I had put them. I just sat there staring at the screen because my brain refused to process what I was seeing. Out of all places, the thing I had been looking for was sitting in the Recycle Bin of a forgotten laptop for almost seven years. The craziest part? If I had found it back in 2019, I would've probably sold the BTC almost immediately. Instead, I accidentally diamond-handed it by completely losing access to it. So I put the phrase back together exactly the way I remembered it. At that point I was shaking. I loaded it into a wallet, half expecting it not to work after all these years. Then... boom. There it was. My Bitcoin was just sitting there, untouched since 2019. I stared at the balance for what felt like forever because I genuinely couldn't believe it was real. After spending years thinking it was gone forever, I was suddenly looking at the wallet again as if nothing had happened. I didn't sleep at all today (this happened at 3am in the morning). My mind kept replaying the whole thing over and over. The odds of randomly finding an old hard drive, deciding to boot it up, checking the Recycle Bin, finding a forgotten text file, and having it contain the exact information needed to recover a Bitcoin I thought was lost forever felt absolutely insane. Today is officially the second happiest day of my life. The first was when my son was born on December 24th, 2025. The second is today, when I reunited with the 1 BTC that I genuinely believed was gone forever. Sometimes being disorganized pays off. Since the day I lost access to that Bitcoin, I spent countless nights scrolling through Reddit reading stories about people who had recovered wallets they thought were gone forever. Deep down, I was hoping that one day I'd get lucky too. But as the years passed, that hope slowly disappeared. I never thought I'd be the one posting a recovery story. Yet here I am.
 
-2d ago
+3d ago
 
 ---
 
@@ -165,7 +165,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 17h ago
+CNBC • 19h ago
 
 ---
 
@@ -173,29 +173,7 @@ CNBC • 17h ago
 
 A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.
 
-CoinDesk • 5h ago
-
----
-
-**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 16h ago
-
----
-
-**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
-
-MarketWatch • 1d ago
-
----
-
-**[How Bitcoin Became a Luxury Currency](https://www.yahoo.com/entertainment/videos/bitcoin-became-luxury-currency-085313391.html)**
-
-Once dismissed as digital money with nowhere to go, Bitcoin is stepping out of the shadows
-
-Yahoo • 2h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -203,15 +181,23 @@ Yahoo • 2h ago
 
 Argentina's cabinet chief says bitcoin explains the $513,000 he hid. The blockchain, his own videos and his filings tell a different stoory.
 
-Forbes • 58m ago
+Forbes • 2h ago
 
 ---
 
-**[Bitcoin rebounds above $63,000 as Iran optimism boosts risk appetite](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-63-000-082546730.html)**
+**[$Bitcoin (BTC.CC)$ keep going.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-keep-going-116742407979014)**
 
-Investing.com -- Bitcoin rebounded above $63,000 on Saturday and was headed for a weekly gain, as improving sentiment around a potential U.S.-Iran peace agreement helped lift risk assets after a volatile week for cryptocurrencies.
+@TheMillionQuest 8410 Views|4 Likes
 
-Yahoo Finance • 2h ago
+Moomoo • 2h ago
+
+---
+
+**[Mark Cuban Said If You Want To Get Rich, Throw A 'Hail Mary' With 10% In Bitcoin And Pretend You Lost It — 9 Years Later, He Says It 'Lost The Plot'](https://finance.yahoo.com/markets/crypto/articles/mark-cuban-said-want-rich-153146650.html)**
+
+Calling something a "Hail Mary" is usually a good sign that things could end brilliantly or blow up in your face. That's exactly how billionaire entrepreneur Mark Cuban described Bitcoin while discussing wealth-building to Vanity Fair in 2017. He wasn't...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -223,11 +209,25 @@ galaxy.com • 1d ago
 
 ---
 
+**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 18h ago
+
+---
+
 **[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
 
 Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Forbes • 17h ago
+Forbes • 19h ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -235,7 +235,7 @@ Forbes • 17h ago
 
 Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -309,7 +309,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 1 • 💬 0 • 1h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 1 • 💬 0 • 3h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -331,7 +331,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 69 • ⏱️ 8:42 • 11h ago
+👁️ 22K • 👍 1K • 💬 69 • ⏱️ 8:42 • 13h ago
 
 ---
 
@@ -341,7 +341,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 What Bitcoin Did
 
-👁️ 15K • 👍 625 • 💬 204 • ⏱️ 1:04:38 • 18h ago
+👁️ 15K • 👍 625 • 💬 204 • ⏱️ 1:04:38 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin is showing a hidden bullish signal that could trigger a massive relief r
 
 📺 Gareth Soloway
 
-👁️ 47K • 👍 3K • 💬 301 • ⏱️ 14:32 • 23h ago
+👁️ 47K • 👍 3K • 💬 301 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 937 • 💬 101 • ⏱️ 1:10:59 • 20h ago
+👁️ 19K • 👍 937 • 💬 101 • ⏱️ 1:10:59 • 22h ago
 
 ---
 
@@ -391,7 +391,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 485 • 💬 188 • ⏱️ 13:39 • 19h ago
+👁️ 7K • 👍 485 • 💬 188 • ⏱️ 13:39 • 20h ago
 
 ---
 
@@ -401,7 +401,7 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 37K • 👍 4K • 💬 98 • ⏱️ 1:24 • 18h ago
+👁️ 37K • 👍 4K • 💬 98 • ⏱️ 1:24 • 20h ago
 
 ---
 
@@ -411,7 +411,7 @@ Is bitcoin dying? Something isn't right with bitcoin nowadays... Use Bitcoin to 
 
 📺 BTC Isla
 
-👁️ 7K • 👍 718 • 💬 128 • ⏱️ 8:29 • 21h ago
+👁️ 7K • 👍 718 • 💬 128 • ⏱️ 8:29 • 23h ago
 
 ---
 

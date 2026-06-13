@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-13T11:15:00.230416+00:00'
+updated: '2026-06-13T13:05:44.948313+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 13, 2026 at 11:15 UTC  
+**Last Updated:** June 13, 2026 at 13:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. Since there's a lot of speculation already, here's what's actually confirmed vs. what isn't. Confirmed (Anthropic's official statement + Bloomberg, NBC, CNBC): The US government issued an export control directive ordering Anthropic to suspend Fable 5 and Mythos 5 access for any foreign national — including its own foreign-national employees, inside or outside the US. Anthropic received it at 5:21pm ET. It reportedly came from the Commerce Department, citing national security authorities. Because they can't separate foreign nationals from everyone else in real time, Anthropic disabled both models for all customers. Every other Anthropic model still works normally. It's tied to a suspected jailbreak. Anthropic disputes the severity — says it red-teamed the model for thousands of hours, no universal jailbreak was ever found, and the flagged technique uses minor known vulnerabilities also present in other public models. They say they think it's a misunderstanding and are working to restore access. Why I think this matters beyond one model: Anthropic's own statement argues that if this standard were applied across the industry, it would essentially halt all new frontier model deployments. Whether or not you buy their framing, the precedent is the actual story — a frontier model being pulled from the market by government directive rather than the company's own choice. That's a different world than "company decides to release or not." My opinion (clearly opinion, not fact): this reads as an early sign of where AI governance is heading — capability thresholds triggering export-control treatment, and probably nationality/ID verification becoming standard across providers. It could also just be a one-off misread of a jailbreak report that gets reversed in days. Genuinely don't know yet, and Commerce hasn't said anything publicly, so we're only hearing one side. The question I'm actually curious about, separate from how anyone feels about Anthropic: is a government pulling a model by directive a reasonable national-security tool, or a line that shouldn't be crossed? UPDATE (2:47 AM ET): big update if it holds up. WSJ is now reporting the jailbreak was found by researchers at Amazon, who reported it to Commerce, and Axios says the admin had already tried to get anthropic to delay the launch before this. so this looks less like anthropic pulling a stunt and more like a competitor flagging it to a govt thats already adversarial toward them. changes the picture a lot from where this thread started. still WSJ-sourced so worth confirming but multiple outlets line up on "another company reported it". And this is the part that doesnt add up to me. amazon is anthropics biggest investor and anthropic trains on AWS. so why would an amazon researcher report a jailbreak to commerce instead of just disclosing it to anthropic directly like normal responsible disclosure? either someone at amazon went around their own portfolio company, or there was some obligation to report it to govt because of the cyber/bio capability, or something weirder is going on. genuinely confused by the incentives here. anyone seen reporting on why it went to commerce and not anthropic?
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 https://www.anthropic.com/news/fable-mythos-access The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected.
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ https://www.anthropic.com/news/fable-mythos-access The US government, citing nat
 
 The bitter lesson, visualized.
 
-4h ago
+6h ago
 
 ---
 
@@ -65,15 +65,7 @@ The bitter lesson, visualized.
 
 Under 24h ago we launched and open-sourced a 100% vibecoded MMORPG "World of Claudecraft" -- seeing how far we can take AI for game development using Fable. Many developers started contributing and shipping updates, and the game has got better than I ever imagined... Feeling the AGI. You can play the game on https://worldofclaudecraft.com/ (8000 users) Our code is on Github: https://github.com/levy-street/world-of-claudecraft (456 stars) Discord community: https://discord.gg/GjhnUsBtw I thought some people who are vibecoding on opensource might like to know about or be interested in contributing 😄
 
-6h ago
-
----
-
-**[US government just forced Anthropic to pull Fable 5 and Mythos 5 for all users](https://www.reddit.com/r/artificial/comments/1u4jsg1/us_government_just_forced_anthropic_to_pull_fable/)**
-
-Anthropic put out a statement today. The US government issued an export control directive citing national security, suspending access to Fable 5 and Mythos 5 for any foreign national, inside or outside the US. To comply, Anthropic had to disable both models for everyone immediately. Other Claude models are not affected. The stated reason is a potential method to bypass Fable 5’s safeguards. But Anthropic says it reviewed the demonstration and found the vulnerabilities were minor, already known, and discoverable by other public models (they specifically point to GPT-5.5) without needing any bypass. Anthropic is complying but openly disagrees. Their argument is that recalling a commercial model used by hundreds of millions over a narrow potential jailbreak could effectively freeze new model deployments across the whole industry if it became the standard. What I find interesting is the precedent. If a verbal report of a minor, non-universal jailbreak is enough to pull a frontier model, where does that leave every other provider? Curious what people here think. Reasonable safety intervention, or government overreach that hurts the whole field?
-
-4h ago
+8h ago
 
 ---
 
@@ -81,7 +73,31 @@ Anthropic put out a statement today. The US government issued an export control 
 
 This keeps coming up over and over; for those interfacing with the anti-AI / anti-DC crowd, this article has some good talking points, about water, but also jobs and power. Data centers certainly do use water. They are basically warehouses of tightly packed, high-powered computers, and when computers run, they get hot. Most data centers—though not all—use water for cooling. But many of them use a “closed loop,” which doesn’t actually waste much, because the water is recycled repeatedly for the same purpose. And many statistics about data centers’ water use are misleading in that they include “indirect” water use too. The Substack writer Andy Masley found one particularly absurd example: In a widely cited paper, the amount of water that AI supposedly “wastes” includes the water that naturally evaporates off rivers and lakes in Washington State. Why? Because those rivers and lakes are dammed for hydroelectric plants, which generate electricity, which is then used by (among other things) a data center. The water-quality issue AOC pointed out in Georgia is not a general feature of data-center construction and appears to have affected only four households.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 18h ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 20h ago
+
+---
+
+**[US government just forced Anthropic to pull Fable 5 and Mythos 5 for all users](https://www.reddit.com/r/artificial/comments/1u4jsg1/us_government_just_forced_anthropic_to_pull_fable/)**
+
+Anthropic put out a statement today. The US government issued an export control directive citing national security, suspending access to Fable 5 and Mythos 5 for any foreign national, inside or outside the US. To comply, Anthropic had to disable both models for everyone immediately. Other Claude models are not affected. The stated reason is a potential method to bypass Fable 5’s safeguards. But Anthropic says it reviewed the demonstration and found the vulnerabilities were minor, already known, and discoverable by other public models (they specifically point to GPT-5.5) without needing any bypass. Anthropic is complying but openly disagrees. Their argument is that recalling a commercial model used by hundreds of millions over a narrow potential jailbreak could effectively freeze new model deployments across the whole industry if it became the standard. What I find interesting is the precedent. If a verbal report of a minor, non-universal jailbreak is enough to pull a frontier model, where does that leave every other provider? Curious what people here think. Reasonable safety intervention, or government overreach that hurts the whole field?
+
+6h ago
+
+---
+
+**[OpenAI Faces Multi-State Probe as US Attorneys General Demand Records on Safety and User Impact](https://www.reddit.com/r/artificial/comments/1u4nhfs/openai_faces_multistate_probe_as_us_attorneys/)**
+
+US state attorneys general have launched a probe into OpenAI, demanding records on user safety, data practices and AI behavior amid rising regulatory scrutiny.
+
+🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/openai-faces-multi-state-probe-attorneys-general-demand-records-user-safety-data-practices-87883) • 2h ago
+
+---
+
+**[If these models are so good (fable 5) at this point.. perhaps its time.](https://www.reddit.com/r/artificial/comments/1u4qb2e/if_these_models_are_so_good_fable_5_at_this_point/)**
+
+If Kept Private (ROI Focus) Extreme wealth gap Corporate censorship Paywalled education Profit-driven priorities If Public Utility (Right Focus) Universal cognitive asset Democratic oversight Free, equal access Public good alignment What do you all think and how do we move forward on it?
+
+8m ago
 
 ---
 
@@ -95,23 +111,7 @@ Google's Project Genie went global this week and I have not stopped thinking abo
 
 **[New DaxBot Robot Was Ran over in Tyler Texas not even 24 hours after launching.](https://www.reddit.com/r/artificial/comments/1u482xp/new_daxbot_robot_was_ran_over_in_tyler_texas_not/)**
 
-13h ago
-
----
-
-**[Dude where's my rug?](https://www.reddit.com/r/artificial/comments/1u4lawv/dude_wheres_my_rug/)**
-
-You may have noticed.. Fable 5 just got switched off for all non-US nationals on a government order. This makes me realise how fragile building on frontier models can be. The most capable available model is easy to start treating as a foundation, something to plan and build on. It is not. It is a convenience that happened to be available, until it was not. I got lucky on timing. I had not yet leaned on the frontier tier for anything foundational, so when it vanished, everything I had running kept running. But that was luck, not foresight. If a big piece of architecture had landed on my desk the week Fable launched, I almost certainly would have built it on the best model I could reach, because why would you not. The trap has nothing to do with carelessness. The frontier is genuinely the best tool in the room, so reaching for it on the important work is the natural move. Timing was the only thing that saved me from making exactly that choice. The capability of a frontier model is real. The access to it is conditional. Those are not the same thing, and this is a clean demonstration of the gap. The model did not get withdrawn because it was unsafe or because of anything Anthropic chose. Although their marketing Mythos as "too dangerous" certainly would not have helped their case. The outcome either way is it got withdrawn because a government drew a line, and the line was nationality, not capability or risk. If a model can be taken away from me specifically, because of where I was born, by a government I have no relationship with and no vote in, then it cannot be load-bearing in anything I build. For experiments, fine. For a pipeline that has to keep running, no. This is not a hypothetical. The top tier is gone from my account as I write this, with no clear date for its return, and there is nothing I or Anthropic can do about it. So the rule I now work by is simple. Nothing I depend on sits on a model that a single government can take away from me. When a frontier model is available, it is a turbo button for one-off work: a hard design exploration, a gnarly refactor, a research pass I want done well in one shot. It produces an artifact, and then everything downstream of that artifact runs on a lower tier that is not under the same restriction and is more than good enough for almost all of it. The frontier accelerates when I can reach it. It never holds weight, because some weeks I cannot reach it at all. The deeper version of this is local. Models I can run on my own machine, offline, that no directive can reach. They are weaker than the frontier. They do not need to be strong. They need to be mine. Anything in my stack that genuinely cannot go down is the thing I most want running locally, precisely because local is the only tier with no off switch held by someone else. This is what doing business with the US has become. What used to be a reliable partner for most of the world is turning into a fickle and unreliable liability. This is not new, and today's events only underscore it once more. A directive can land at 5pm and rewrite who is allowed to use a tool by the next morning, with no process you can see and no recourse you can take. That is not a foundation any builder outside the country can plan on. Which is also why I would not be surprised, or sorry, to see frontier labs look elsewhere. Europe would almost certainly welcome a lab like Anthropic. It would probably mean more work before each release, more process, more scrutiny up front. But it would also mean no rug pulls of this kind. Slower and predictable beats fast and revocable when you are the one building on top. None of this is anti-frontier. These models are extraordinary and I will use them again the moment I can, for what they are good at. It is a point about architecture, and about timing. If you are outside the US, access to the top tier is now a political variable, not a technical one, and it can flip to zero overnight. Whether you get burned by that is partly luck, depending on what you happened to build on it and when. Take luck out of it. Build the parts that have to survive on what you can actually keep, and let the frontier sprint on the days it is there. So I am curious how the rest of you are handling this. If you build outside the US, do you treat frontier access as something you can rely on, or have you already moved your foundations to models nobody can switch off on you? And where is your line between the two?
-
-2h ago
-
----
-
-**[OpenAI Faces Multi-State Probe as US Attorneys General Demand Records on Safety and User Impact](https://www.reddit.com/r/artificial/comments/1u4nhfs/openai_faces_multistate_probe_as_us_attorneys/)**
-
-US state attorneys general have launched a probe into OpenAI, demanding records on user safety, data practices and AI behavior amid rising regulatory scrutiny.
-
-🔗 [International Business Times, Singapore Edition](https://www.ibtimes.sg/openai-faces-multi-state-probe-attorneys-general-demand-records-user-safety-data-practices-87883) • 43m ago
+15h ago
 
 ---
 
@@ -121,35 +121,39 @@ US state attorneys general have launched a probe into OpenAI, demanding records 
 
 **[Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use](https://www.wsj.com/tech/ai/anthropic-halts-access-to-top-ai-models-after-u-s-ban-on-foreign-use-a4bca2cc)**
 
-WSJ • 6h ago
+WSJ • 8h ago
 
 ---
 
-**[Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time](https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time)**
+**[Google Search Gets AI Makeover, and the World Cup Comes to North America](https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america)**
 
-Other projects include developing tools to help visually impaired people navigate video games
-
-The Guardian • 14m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[One year in, big challenges ahead for Meta AI Chief Alexandr Wang](https://www.cnbc.com/video/2026/06/13/one-year-in-big-challenges-ahead-for-meta-ai-chief-alexandr-wang.html)**
+**[You can ignore AI giants like SpaceX, but your 401(k) won't](https://www.10tv.com/article/syndication/associatedpress/you-can-ignore-ai-giants-like-spacex-but-your-401k-wont/616-c498fbfc-b8fb-460b-b8f1-56f805819229)**
 
-A year after Meta's $14.3 billion bet on Alexandr Wang, the company has its first proprietary AI model, Muse Spark, but remains far behind OpenAI, Anthropic and Google. Developers are largely ignoring it, morale is low after mass layoffs and trust and safety cuts are raising red flags. Now Wang and Zuckerberg must prove AI can generate real revenue beyond ads.
-
-CNBC • 14m ago
+10tv.com • 1h ago
 
 ---
 
-**[Global Capitalism Bets It All on AI Future That Alarms Voters](https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters)**
+**[Everyone Wants to Tax A.I. The Big Disagreement: How?](https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html)**
 
-Bloomberg • 15m ago
+The New York Times • 1h ago
+
+---
+
+**[Opinion | Battery breakthroughs will lessen AI’s demand on the electricity grid](https://www.washingtonpost.com/opinions/2026/06/12/battery-breakthroughs-will-lessen-ais-demand-electricity-grid/)**
+
+Pivoting from lithium to sodium-ion will reduce reliance on China.
+
+The Washington Post • 11h ago
 
 ---
 
 **[Zuckerberg says Meta made 'mistakes' in AI workforce shift](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)**
 
-Reuters • 12h ago
+Reuters • 14h ago
 
 ---
 
@@ -157,31 +161,21 @@ Reuters • 12h ago
 
 Anthropic Public Record is a national survey of attitudes and opinions towards AI.
 
-Anthropic • 19h ago
+Anthropic • 21h ago
 
 ---
 
-**[AI is revolutionising the stock market](https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70?syn-25a6b1a6=1)**
+**[Dutch far-right party pays damages to court artist after changing image with AI](https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai)**
 
-Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
+Geert Wilders’ PVV altered sketch of jailed Syrian brothers to make them look more menacing
 
-Financial Times • 7h ago
-
----
-
-**[German court holds Google liable for fake AI answers](https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661)**
-
-Judges in Bavaria drew a distinction between standard search engine results and AI-generated summaries. They ruled that tech giants themselves are responsible for the content of answers provided by AI.
-
-DW • 10h ago
+The Guardian • 9h ago
 
 ---
 
-**[NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark](https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/)**
+**[Capitol agenda: What Schumer told us about AI - Live Updates](https://www.politico.com/live-updates/2026/06/12/congress/chuck-schumer-ai-congress-00960335)**
 
-New AgentPerf results from Artificial Analysis show how accelerated computing systems handle real-world agentic workloads, with NVIDIA GB300 NVL72 running up to 20x more agents per megawatt than NVIDIA Hopper.
-
-NVIDIA Blog • 13h ago
+Politico • 1d ago
 
 ---
 
@@ -189,7 +183,7 @@ NVIDIA Blog • 13h ago
 
 OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.
 
-OpenAI • 20h ago
+OpenAI • 22h ago
 
 ---
 
@@ -199,7 +193,7 @@ OpenAI • 20h ago
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1419 • 💬 516 • 1d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1421 • 💬 516 • 1d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
@@ -207,7 +201,7 @@ OpenAI • 20h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1007 • 💬 316 • 9h ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1149 • 💬 363 • 10h ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
@@ -223,7 +217,7 @@ Agentic AI systems can be used to do a variety of things autonomously on behalf 
 
 Coding agents as normal technology
 
-⬆️ 307 • 💬 353 • 2d ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+⬆️ 307 • 💬 355 • 2d ago • [normaltech.ai](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 
 ---
 
@@ -255,13 +249,13 @@ Blue41 helps regulated organizations monitor AI agent behavior, detect manipulat
 
 My AI nuclear simulation is out now, and it's a WOPR.
 
-⬆️ 205 • 💬 198 • 1d ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+⬆️ 205 • 💬 199 • 1d ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
 
 ---
 
 **[Slightly reducing the sloppiness of AI generated front end](https://news.ycombinator.com/item?id=48504912)**
 
-⬆️ 197 • 💬 122 • 20h ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+⬆️ 205 • 💬 122 • 22h ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 
 ---
 
@@ -281,7 +275,7 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 Secular Talk
 
-👁️ 62K • 👍 4K • 💬 753 • ⏱️ 18:21 • 10h ago
+👁️ 62K • 👍 4K • 💬 753 • ⏱️ 18:21 • 12h ago
 
 ---
 
@@ -291,7 +285,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 47K • 👍 3K • 💬 591 • ⏱️ 28:12 • 14h ago
+👁️ 47K • 👍 3K • 💬 591 • ⏱️ 28:12 • 16h ago
 
 ---
 
@@ -341,7 +335,7 @@ ZTNA gives you the control you want in your network. Try it today with Threatloc
 
 📺 Low Level
 
-👁️ 165K • 👍 8K • 💬 571 • ⏱️ 11:00 • 21h ago
+👁️ 165K • 👍 8K • 💬 571 • ⏱️ 11:00 • 23h ago
 
 ---
 
@@ -361,7 +355,7 @@ Here's the AI News you probably missed this week. Discover More: 🛠️ Explore
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 160 • ⏱️ 30:52 • 20h ago
+👁️ 49K • 👍 2K • 💬 160 • ⏱️ 30:52 • 22h ago
 
 ---
 
@@ -371,7 +365,7 @@ Fanttik is running a big Father's Day promotion now! Get 43% off total for Fantt
 
 📺 The Friday Checkout
 
-👁️ 73K • 👍 5K • 💬 343 • ⏱️ 10:52 • 21h ago
+👁️ 73K • 👍 5K • 💬 343 • ⏱️ 10:52 • 23h ago
 
 ---
 
@@ -435,7 +429,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 1,031 • ❤️ 337 • 9h ago
+⬇️ 1,031 • ❤️ 337 • 11h ago
 
 ---
 
@@ -447,7 +441,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 1,005,883 • ❤️ 982 • 8d ago
+⬇️ 1,005,883 • ❤️ 982 • 9d ago
 
 ---
 
@@ -471,7 +465,7 @@ DiffusionGemma-26B-A4B-it-GGUF is a 26B MoE multimodal generative model that pro
 
 `image-text-to-text` `25.3B`
 
-⬇️ 42,885 • ❤️ 227 • 20h ago
+⬇️ 42,885 • ❤️ 227 • 22h ago
 
 ---
 
@@ -643,7 +637,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 69.7k • 🔱 8.8k • 22h ago
+⭐ 69.7k • 🔱 8.8k • 1d ago
 
 ---
 
@@ -653,7 +647,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 343 • 2h ago
+⭐ 3.9k • 🔱 343 • 4h ago
 
 ---
 
@@ -693,7 +687,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.0k • 🔱 144 • 1h ago
+⭐ 2.0k • 🔱 144 • 2h ago
 
 ---
 
