@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-13T16:56:16.724991+00:00'
+updated: '2026-06-13T18:09:24.657361+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 13, 2026 at 16:56 UTC  
+**Last Updated:** June 13, 2026 at 18:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Rain secures agentic payments with new Agent Control Layer](https://www.reddit.com/r/artificial/comments/1u4vrfn/rain_secures_agentic_payments_with_new_agent/)**
+
+Rain has released its Agent Control Layer, giving businesses programmatic control over AI agent spending via cards and money movement APIs.
+
+🔗 [thepaypers.com](https://thepaypers.com/crypto-web3-and-cbdc/news/rain-launches-agent-control-layer-for-agentic-payments) • 1h ago
+
+---
+
 **[US Government Kills Fable 5: Here's What Happened](https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/)**
 
 Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. Since there's a lot of speculation already, here's what's actually confirmed vs. what isn't. Confirmed (Anthropic's official statement + Bloomberg, NBC, CNBC): The US government issued an export control directive ordering Anthropic to suspend Fable 5 and Mythos 5 access for any foreign national — including its own foreign-national employees, inside or outside the US. Anthropic received it at 5:21pm ET. It reportedly came from the Commerce Department, citing national security authorities. Because they can't separate foreign nationals from everyone else in real time, Anthropic disabled both models for all customers. Every other Anthropic model still works normally. It's tied to a suspected jailbreak. Anthropic disputes the severity — says it red-teamed the model for thousands of hours, no universal jailbreak was ever found, and the flagged technique uses minor known vulnerabilities also present in other public models. They say they think it's a misunderstanding and are working to restore access. Why I think this matters beyond one model: Anthropic's own statement argues that if this standard were applied across the industry, it would essentially halt all new frontier model deployments. Whether or not you buy their framing, the precedent is the actual story — a frontier model being pulled from the market by government directive rather than the company's own choice. That's a different world than "company decides to release or not." My opinion (clearly opinion, not fact): this reads as an early sign of where AI governance is heading — capability thresholds triggering export-control treatment, and probably nationality/ID verification becoming standard across providers. It could also just be a one-off misread of a jailbreak report that gets reversed in days. Genuinely don't know yet, and Commerce hasn't said anything publicly, so we're only hearing one side. The question I'm actually curious about, separate from how anyone feels about Anthropic: is a government pulling a model by directive a reasonable national-security tool, or a line that shouldn't be crossed? UPDATE (2:47 AM ET): big update if it holds up. WSJ is now reporting the jailbreak was found by researchers at Amazon, who reported it to Commerce, and Axios says the admin had already tried to get anthropic to delay the launch before this. so this looks less like anthropic pulling a stunt and more like a competitor flagging it to a govt thats already adversarial toward them. changes the picture a lot from where this thread started. still WSJ-sourced so worth confirming but multiple outlets line up on "another company reported it". And this is the part that doesnt add up to me. amazon is anthropics biggest investor and anthropic trains on AWS. so why would an amazon researcher report a jailbreak to commerce instead of just disclosing it to anthropic directly like normal responsible disclosure? either someone at amazon went around their own portfolio company, or there was some obligation to report it to govt because of the cyber/bio capability, or something weirder is going on. genuinely confused by the incentives here. anyone seen reporting on why it went to commerce and not anthropic?
 
-12h ago
+14h ago
 
 ---
 
@@ -49,7 +57,7 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 https://www.anthropic.com/news/fable-mythos-access The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected.
 
-14h ago
+16h ago
 
 ---
 
@@ -57,7 +65,7 @@ https://www.anthropic.com/news/fable-mythos-access The US government, citing nat
 
 The bitter lesson, visualized.
 
-10h ago
+11h ago
 
 ---
 
@@ -65,23 +73,7 @@ The bitter lesson, visualized.
 
 Under 24h ago we launched and open-sourced a 100% vibecoded MMORPG "World of Claudecraft" -- seeing how far we can take AI for game development using Fable. Many developers started contributing and shipping updates, and the game has got better than I ever imagined... Feeling the AGI. You can play the game on https://worldofclaudecraft.com/ (8000 users) Our code is on Github: https://github.com/levy-street/world-of-claudecraft (456 stars) Discord community: https://discord.gg/GjhnUsBtw I thought some people who are vibecoding on opensource might like to know about or be interested in contributing 😄
 
-12h ago
-
----
-
-**[I had Claude Fable 5 build Minecraft from scratch](https://www.reddit.com/r/artificial/comments/1u4qj6l/i_had_claude_fable_5_build_minecraft_from_scratch/)**
-
-I've been directing Claude Fable 5 (Anthropic's newest model) to build Pebble, a complete, native macOS block-survival game written from scratch in Swift + Metal. The clip is real a real unedited gameplay of Pebble (that's not Minecraft, that's Pebble). Unfortunately died to a pack of llamas 😭 What it actually is: About 45,000 lines of Swift, 82 files, zero external dependencies, Apple frameworks only, no game engine, no .xcodeproj A hand-written Metal renderer (15+ passes, runtime-compiled shaders, SSAO + volumetric god rays + soft shadows + ACES) Every sound and all music synthesized in real time from oscillators, there are zero audio files in the project The full game: 879 blocks, 1,188 items, 63 biomes, 100 entity types (55+ mobs with A* pathfinding), three dimensions, redstone, enchanting, villages, raids, and all three bosses Vanilla-exact player physics and fully deterministic worldgen, pinned by 456 golden regression tests that re-derive the constants, same seed gives a bit-identical world on any machine (tho it doesn't match Minecraft's seeds) 200+ fps at full settings on an M-series MacBook Air (i got up to 500 on my M5 Air) It's MIT-licensed and open source, so you don't have to take my word for any of it, the code's right there: github.com/thebriangao/pebble The project is strictly macOS 14+ only (Metal renderer), singleplayer only for now, and you build from source (./pebble install), no notarized download yet. First public beta, so there are definitely bugs I haven't found. It's an original re-creation built from Minecraft 1.20, no Mojang code or assets, reimplemented from observable behavior, not affiliated with Mojang/Microsoft.
-
-3h ago
-
----
-
-**[Rain secures agentic payments with new Agent Control Layer](https://www.reddit.com/r/artificial/comments/1u4vrfn/rain_secures_agentic_payments_with_new_agent/)**
-
-Rain has released its Agent Control Layer, giving businesses programmatic control over AI agent spending via cards and money movement APIs.
-
-🔗 [thepaypers.com](https://thepaypers.com/crypto-web3-and-cbdc/news/rain-launches-agent-control-layer-for-agentic-payments) • 10m ago
+13h ago
 
 ---
 
@@ -89,7 +81,7 @@ Rain has released its Agent Control Layer, giving businesses programmatic contro
 
 Anthropic put out a statement today. The US government issued an export control directive citing national security, suspending access to Fable 5 and Mythos 5 for any foreign national, inside or outside the US. To comply, Anthropic had to disable both models for everyone immediately. Other Claude models are not affected. The stated reason is a potential method to bypass Fable 5’s safeguards. But Anthropic says it reviewed the demonstration and found the vulnerabilities were minor, already known, and discoverable by other public models (they specifically point to GPT-5.5) without needing any bypass. Anthropic is complying but openly disagrees. Their argument is that recalling a commercial model used by hundreds of millions over a narrow potential jailbreak could effectively freeze new model deployments across the whole industry if it became the standard. What I find interesting is the precedent. If a verbal report of a minor, non-universal jailbreak is enough to pull a frontier model, where does that leave every other provider? Curious what people here think. Reasonable safety intervention, or government overreach that hurts the whole field?
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +89,13 @@ Anthropic put out a statement today. The US government issued an export control 
 
 You may have noticed.. Fable 5 just got switched off for all non-US nationals on a government order. This makes me realise how fragile building on frontier models can be. The most capable available model is easy to start treating as a foundation, something to plan and build on. It is not. It is a convenience that happened to be available, until it was not. I got lucky on timing. I had not yet leaned on the frontier tier for anything foundational, so when it vanished, everything I had running kept running. But that was luck, not foresight. If a big piece of architecture had landed on my desk the week Fable launched, I almost certainly would have built it on the best model I could reach, because why would you not. The trap has nothing to do with carelessness. The frontier is genuinely the best tool in the room, so reaching for it on the important work is the natural move. Timing was the only thing that saved me from making exactly that choice. The capability of a frontier model is real. The access to it is conditional. Those are not the same thing, and this is a clean demonstration of the gap. The model did not get withdrawn because it was unsafe or because of anything Anthropic chose. Although their marketing Mythos as "too dangerous" certainly would not have helped their case. The outcome either way is it got withdrawn because a government drew a line, and the line was nationality, not capability or risk. If a model can be taken away from me specifically, because of where I was born, by a government I have no relationship with and no vote in, then it cannot be load-bearing in anything I build. For experiments, fine. For a pipeline that has to keep running, no. This is not a hypothetical. The top tier is gone from my account as I write this, with no clear date for its return, and there is nothing I or Anthropic can do about it. So the rule I now work by is simple. Nothing I depend on sits on a model that a single government can take away from me. When a frontier model is available, it is a turbo button for one-off work: a hard design exploration, a gnarly refactor, a research pass I want done well in one shot. It produces an artifact, and then everything downstream of that artifact runs on a lower tier that is not under the same restriction and is more than good enough for almost all of it. The frontier accelerates when I can reach it. It never holds weight, because some weeks I cannot reach it at all. The deeper version of this is local. Models I can run on my own machine, offline, that no directive can reach. They are weaker than the frontier. They do not need to be strong. They need to be mine. Anything in my stack that genuinely cannot go down is the thing I most want running locally, precisely because local is the only tier with no off switch held by someone else. This is what doing business with the US has become. What used to be a reliable partner for most of the world is turning into a fickle and unreliable liability. This is not new, and today's events only underscore it once more. A directive can land at 5pm and rewrite who is allowed to use a tool by the next morning, with no process you can see and no recourse you can take. That is not a foundation any builder outside the country can plan on. Which is also why I would not be surprised, or sorry, to see frontier labs look elsewhere. Europe would almost certainly welcome a lab like Anthropic. It would probably mean more work before each release, more process, more scrutiny up front. But it would also mean no rug pulls of this kind. Slower and predictable beats fast and revocable when you are the one building on top. None of this is anti-frontier. These models are extraordinary and I will use them again the moment I can, for what they are good at. It is a point about architecture, and about timing. If you are outside the US, access to the top tier is now a political variable, not a technical one, and it can flip to zero overnight. Whether you get burned by that is partly luck, depending on what you happened to build on it and when. Take luck out of it. Build the parts that have to survive on what you can actually keep, and let the frontier sprint on the days it is there. So I am curious how the rest of you are handling this. If you build outside the US, do you treat frontier access as something you can rely on, or have you already moved your foundations to models nobody can switch off on you? And where is your line between the two?
 
-8h ago
+9h ago
+
+---
+
+**[New DaxBot Robot Was Ran over in Tyler Texas not even 24 hours after launching.](https://www.reddit.com/r/artificial/comments/1u482xp/new_daxbot_robot_was_ran_over_in_tyler_texas_not/)**
+
+20h ago
 
 ---
 
@@ -105,13 +103,15 @@ You may have noticed.. Fable 5 just got switched off for all non-US nationals on
 
 This keeps coming up over and over; for those interfacing with the anti-AI / anti-DC crowd, this article has some good talking points, about water, but also jobs and power. Data centers certainly do use water. They are basically warehouses of tightly packed, high-powered computers, and when computers run, they get hot. Most data centers—though not all—use water for cooling. But many of them use a “closed loop,” which doesn’t actually waste much, because the water is recycled repeatedly for the same purpose. And many statistics about data centers’ water use are misleading in that they include “indirect” water use too. The Substack writer Andy Masley found one particularly absurd example: In a widely cited paper, the amount of water that AI supposedly “wastes” includes the water that naturally evaporates off rivers and lakes in Washington State. Why? Because those rivers and lakes are dammed for hydroelectric plants, which generate electricity, which is then used by (among other things) a data center. The water-quality issue AOC pointed out in Georgia is not a general feature of data-center construction and appears to have affected only four households.
 
-🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 23h ago
+🔗 [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/) • 1d ago
 
 ---
 
-**[New DaxBot Robot Was Ran over in Tyler Texas not even 24 hours after launching.](https://www.reddit.com/r/artificial/comments/1u482xp/new_daxbot_robot_was_ran_over_in_tyler_texas_not/)**
+**[I’ve created a tool that helps you reclaim your privacy in the age of AI](https://www.reddit.com/r/artificial/comments/1u4mryu/ive_created_a_tool_that_helps_you_reclaim_your/)**
 
-19h ago
+But first, a little background: why did I create this tool? It’s simple: I work at a company where I manage the entire backend, data management, task optimization, automation, and so on. When ChatGPT came out in 2023, things went haywire, everyone was copying and pasting highly confidential info into it just to save 30 seconds on writing an email. As if all of Snowden’s warnings only applied to Google searches. So we had to rein all that in a bit, define how and when we use LLMs. But as you can imagine, to save time (or out of laziness, I don’t know), all that information kept getting sent in bulk. From customers’ first and last names to financial data, even passwords. Everything went in there. It’s been a year now since I left that company to focus on my own projects. And this issue came back to me: how can we save time without compromising our privacy and personal data? After weeks of testing and research, and two months of development, ONYRI Sanitize was born. ONYRI Sanitize is a simple web app connected to the latest AI model available, which uses scripts (without AI) to detect data that needs to be kept confidential. You continue to use AI just as you would on the official site, but this time, your data will remain confidential forever. When you consider that millions of users admit to having already used ChatGPT as a therapist, it would be naive to think that these companies aren’t using that data... A quote I grew up with: “Saying you don’t need privacy because you have nothing to hide is like saying you don’t need free speech because you have nothing to say.” — Edward Snowden
+
+8h ago
 
 ---
 
@@ -119,17 +119,31 @@ This keeps coming up over and over; for those interfacing with the anti-AI / ant
 
 ## Google News: "ai"
 
-**[U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html)**
+**[Anthropic Blocks Foreigners From Using Mythos and Fable AI](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
-**[Apple’s big Siri update is here. Now the real challenge begins](https://www.cnn.com/2026/06/13/tech/apple-siri-ai-update)**
+**[AI oversight gap could leave a lasting legacy](https://www.axios.com/2026/06/13/ai-oversight-federal-states-courts)**
 
-Siri is finally getting the big AI upgrade Wall Street has been waiting for. But it’s just the beginning.
+Axios • 1h ago
 
-CNN • 6h ago
+---
+
+**[Google Photos Prepares Massive 'Video Remix' AI Upgrade](https://www.forbes.com/sites/paulmonckton/2026/06/13/google-photos-prepares-massive-video-remix-ai-upgrade/)**
+
+Deep code analysis shows Google Photos is preparing a massive Video Remix AI upgrade.
+
+Forbes • 15m ago
+
+---
+
+**[Spencer Pratt’s use of AI to boost campaign sparks debate](https://www.foxnews.com/video/6398326864112)**
+
+Forward Party founder Andrew Yang discusses Spencer Pratt’s use of AI during his campaign for Los Angeles mayor and predicts AI’s impact on taxes and the economy on ‘Saturday in America.’
+
+Fox News • 1h ago
 
 ---
 
@@ -137,21 +151,31 @@ CNN • 6h ago
 
 Pivoting from lithium to sodium-ion will reduce reliance on China.
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
-**[Zuckerberg says Meta made 'mistakes' in AI workforce shift](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)**
+**[Apple’s big Siri update is here. Now the real challenge begins](https://www.cnn.com/2026/06/13/tech/apple-siri-ai-update)**
 
-Reuters • 18h ago
+Siri is finally getting the big AI upgrade Wall Street has been waiting for. But it’s just the beginning.
+
+CNN • 7h ago
 
 ---
 
-**[Dutch far-right party pays damages to court artist after changing image with AI](https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai)**
+**[My first 24 hours with Siri AI on the Mac](https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence)**
 
-Geert Wilders’ PVV altered sketch of jailed Syrian brothers to make them look more menacing
+This is progress. I guess?
 
-The Guardian • 12h ago
+The Verge • 3h ago
+
+---
+
+**[Top Stories: WWDC 2026 Recap With Siri AI, iOS 27, macOS Golden Gate, and More](https://www.macrumors.com/2026/06/13/top-stories-wwdc-2026-recap/)**
+
+WWDC 2026 has come to a close, and it brought a number of announcements with the headliner being the new Siri AI functionality available both in a standalone app and integrated throughout most of Apple's next-generation operating systems.
+
+MacRumors • 5h ago
 
 ---
 
@@ -159,39 +183,13 @@ The Guardian • 12h ago
 
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
-Financial Times • 12h ago
+Financial Times • 14h ago
 
 ---
 
-**[AI is disrupting investment](https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1?syn-25a6b1a6=1)**
+**[Zuckerberg says Meta made 'mistakes' in AI workforce shift](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)**
 
-The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class
-
-Financial Times • 12h ago
-
----
-
-**[Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart.](https://www.fool.com/investing/2026/06/13/apple-is-mostly-sitting-out-the-ai-spending-arms-r/)**
-
-A brutal week for AI's biggest spenders is recasting the iPhone maker's restraint as a strength.
-
-The Motley Fool • 2h ago
-
----
-
-**[New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work/)**
-
-OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.
-
-OpenAI • 1d ago
-
----
-
-**[The ‘AI superstar’ CEO behind a self-driving truck unicorn on why Gen Z is a better hiring bet than industry veterans](https://fortune.com/2026/06/13/waabi-ceo-raquel-urtasun-future-of-work-embrace-ai-first-gen-z-over-industry-experts-career-advice/)**
-
-Raquel Urtasun, co-founder of autonomous truck startup Waabi, talks to Fortune about unicorn hiring in the AI age: “Fear can paralyze your ability to embrace that change.”
-
-Fortune • 7h ago
+Reuters • 19h ago
 
 ---
 
@@ -201,7 +199,7 @@ Fortune • 7h ago
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1430 • 💬 522 • 1d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1432 • 💬 522 • 1d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
@@ -209,7 +207,7 @@ Fortune • 7h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1360 • 💬 420 • 14h ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1410 • 💬 432 • 15h ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
@@ -239,7 +237,7 @@ Workers are spending an average of 6.4 hours a week — almost a full working da
 
 **[Slightly reducing the sloppiness of AI generated front end](https://news.ycombinator.com/item?id=48504912)**
 
-⬆️ 214 • 💬 127 • 1d ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+⬆️ 216 • 💬 128 • 1d ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 
 ---
 
@@ -251,17 +249,17 @@ My AI nuclear simulation is out now, and it's a WOPR.
 
 ---
 
-**[Policy on the AI Exponential](https://news.ycombinator.com/item?id=48480719)**
-
-⬆️ 168 • 💬 257 • 2d ago • [darioamodei.com](https://darioamodei.com/post/policy-on-the-ai-exponential)
-
----
-
 **[AI OSS tool repo goes archived over night after raising $7.3M Seed](https://news.ycombinator.com/item?id=48516504)**
 
 TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
 
-⬆️ 168 • 💬 118 • 4h ago • [GitHub](https://github.com/tensorzero/tensorzero)
+⬆️ 191 • 💬 134 • 5h ago • [GitHub](https://github.com/tensorzero/tensorzero)
+
+---
+
+**[Policy on the AI Exponential](https://news.ycombinator.com/item?id=48480719)**
+
+⬆️ 168 • 💬 257 • 2d ago • [darioamodei.com](https://darioamodei.com/post/policy-on-the-ai-exponential)
 
 ---
 
@@ -277,33 +275,43 @@ The advance in fabric technology comes alongside a new benchmark for atmospheric
 
 ## YouTube Videos: "ai"
 
+**[Latest Claude AI models suspended after orders from Trump administration • FRANCE 24 English](https://www.youtube.com/watch?v=MDaZ31jx2vQ)**
+
+Anthropic says it's suspended access to its latest AI models, in order to comply with a US national security order. Just three days ...
+
+📺 FRANCE 24 English
+
+👁️ 81K • 👍 932 • 💬 352 • ⏱️ 1:32 • 6h ago
+
+---
+
+**[The End of Unrestricted AI: Why Claude Fable 5 Was Just Forced Offline](https://www.youtube.com/watch?v=b3jlsjOIOzs)**
+
+My Links Newsletter: https://natesnewsletter.substack.com/ X: https://x.com/natebjones TikTok: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 42K • 👍 2K • 💬 635 • ⏱️ 10:04 • 11h ago
+
+---
+
 **[Anthropic&#39;s Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California’s Broken Elections](https://www.youtube.com/watch?v=gH4FTjDm9FQ)**
 
 (0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI ...
 
 📺 All-In Podcast
 
-👁️ 80K • 👍 3K • 💬 484 • ⏱️ 1:42:00 • 11h ago
+👁️ 114K • 👍 4K • 💬 685 • ⏱️ 1:42:00 • 12h ago
 
 ---
 
-**[AI Expert Issues DIRE WARNING You Have To See To Believe](https://www.youtube.com/watch?v=CR7UNbZag7U)**
+**[We&#39;re Not Ready for Self-Building AI, But it&#39;s Happening](https://www.youtube.com/watch?v=QADKN3hantI)**
 
-Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
+Try out Consensus!! https://get.consensus.app/n6durqk1ao40 Artificial Intelligence is beginning to improve itself. In today's video I ...
 
-📺 Secular Talk
+📺 Sabine Hossenfelder
 
-👁️ 77K • 👍 5K • 💬 900 • ⏱️ 18:21 • 15h ago
-
----
-
-**[Baby Elon&#39;s AI Writes A Song For Baby Trump](https://www.youtube.com/watch?v=37VAgS8Bp4A)**
-
-Baby Elon Musk builds an AI that writes a song about Baby Trump in nine seconds... and it only gets greenlit if his name drops in ...
-
-📺 Baby News Network 
-
-👁️ 96K • 👍 5K • 💬 147 • ⏱️ 0:15 • 1d ago
+👁️ 27K • 👍 3K • 💬 586 • ⏱️ 6:40 • 3h ago
 
 ---
 
@@ -313,17 +321,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 55K • 👍 3K • 💬 676 • ⏱️ 28:12 • 19h ago
-
----
-
-**[Anthropic begged the world to stop AI… then shipped this](https://www.youtube.com/watch?v=1PBRhm5ZnjU)**
-
-Render is the easiest place to ship full-stack apps and agents. The first 2000 people to use the code RENDER-FIRESHIP will get ...
-
-📺 Fireship
-
-👁️ 682K • 👍 24K • 💬 1K • ⏱️ 5:09 • 1d ago
+👁️ 60K • 👍 4K • 💬 729 • ⏱️ 28:12 • 21h ago
 
 ---
 
@@ -333,47 +331,47 @@ Render is the easiest place to ship full-stack apps and agents. The first 2000 p
 
 📺 Fox Business
 
-👁️ 5K • 👍 109 • 💬 73 • ⏱️ 5:25 • 1d ago
+👁️ 5K • 👍 111 • 💬 77 • ⏱️ 5:25 • 1d ago
 
 ---
 
-**[The AI Breakthrough That Will Change Everything (Google DeepMind CEO Interview)](https://www.youtube.com/watch?v=HaZaFCHdkuk)**
+**[AI Expert Issues DIRE WARNING You Have To See To Believe](https://www.youtube.com/watch?v=CR7UNbZag7U)**
 
-Subscribe Demis Hassabis is the co-founder and CEO of Google DeepMind and Isomorphic Labs. He believes AI will help cure ...
+Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
 
-📺 New Frontier
+📺 Secular Talk
 
-👁️ 28K • 👍 712 • 💬 64 • ⏱️ 13:45 • 1d ago
-
----
-
-**[Prometheus CO-CEO Jeff Bezos: AI will result in labor scarcity, will raise standard of living](https://www.youtube.com/watch?v=NG0GoX0zMxQ)**
-
-Prometheus Co-Founders and Co-CEOs Jeff Bezos and Vik Bajaj sits down with CNBC's David Faber to talk Prometheus' strategy ...
-
-📺 CNBC Television
-
-👁️ 58K • 👍 573 • 💬 265 • ⏱️ 2:45 • 2d ago
+👁️ 87K • 👍 6K • 💬 1K • ⏱️ 18:21 • 17h ago
 
 ---
 
-**[AI Did This.](https://www.youtube.com/watch?v=QGC40AfmgY0)**
+**[AI News: An INSANE Week… Here’s What Matters](https://www.youtube.com/watch?v=nydHKXjwu0U)**
 
-ZTNA gives you the control you want in your network. Try it today with Threatlocker @ https://go.lowlevel.tv/threatlocker2026 ...
+Here's the AI News you probably missed this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ Weekly ...
 
-📺 Low Level
+📺 Matt Wolfe
 
-👁️ 178K • 👍 8K • 💬 631 • ⏱️ 11:00 • 1d ago
+👁️ 56K • 👍 2K • 💬 173 • ⏱️ 30:52 • 1d ago
 
 ---
 
-**[The AI cash burn is about to pop](https://www.youtube.com/watch?v=ZswT_E0zW-Q)**
+**[Anthropic begged the world to stop AI… then shipped this](https://www.youtube.com/watch?v=1PBRhm5ZnjU)**
 
-Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Render is the easiest place to ship full-stack apps and agents. The first 2000 people to use the code RENDER-FIRESHIP will get ...
 
-📺 Chris Norlund
+📺 Fireship
 
-👁️ 67K • 👍 4K • 💬 645 • ⏱️ 14:47 • 2d ago
+👁️ 691K • 👍 25K • 💬 1K • ⏱️ 5:09 • 2d ago
+
+---
+
+**[Best AI Video Generator for 4K Videos in 2026 (Full Test)](https://www.youtube.com/watch?v=3DWP5w7yd2I)**
+
+Access THE BEST 4K Video Generator in OpenArt https://youricreates.com/4k-AI In this video, I compare Veo 3.1, LTX-2.3, ...
+
+📺 Youri van Hofwegen
+
+👁️ 6K • 💬 5 • ⏱️ 10:18 • 3h ago
 
 ---
 
@@ -389,19 +387,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 92,080 • ❤️ 669 • 3d ago
-
----
-
-**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
-
-*NVIDIA*
-
-LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 69,443 • ❤️ 1,947 • 1d ago
+⬇️ 92,080 • ❤️ 682 • 3d ago
 
 ---
 
@@ -413,7 +399,19 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 1,689 • ❤️ 456 • 1d ago
+⬇️ 1,689 • ❤️ 477 • 1d ago
+
+---
+
+**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
+
+*NVIDIA*
+
+LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
+
+`image-text-to-text` `3.8B`
+
+⬇️ 69,443 • ❤️ 1,950 • 1d ago
 
 ---
 
@@ -425,7 +423,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 1,031 • ❤️ 373 • 15h ago
+⬇️ 1,031 • ❤️ 394 • 16h ago
 
 ---
 
@@ -437,7 +435,7 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 `text-generation` `30.5B`
 
-⬇️ 6,533 • ❤️ 343 • 2d ago
+⬇️ 6,533 • ❤️ 345 • 2d ago
 
 ---
 
@@ -449,7 +447,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 1,005,883 • ❤️ 986 • 9d ago
+⬇️ 1,005,883 • ❤️ 990 • 9d ago
 
 ---
 
@@ -461,7 +459,7 @@ Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model support
 
 `text-to-speech` `4.7B`
 
-⬇️ 32,162 • ❤️ 404 • 2d ago
+⬇️ 32,162 • ❤️ 407 • 2d ago
 
 ---
 
@@ -473,19 +471,7 @@ DiffusionGemma-26B-A4B-it-GGUF is a 26B MoE multimodal generative model that pro
 
 `image-text-to-text` `25.3B`
 
-⬇️ 42,885 • ❤️ 234 • 1d ago
-
----
-
-**[Gemma-4-12B-OBLITERATED](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED)**
-
-*OBLITERATUS*
-
-Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery to achieve zero refusals while maintaining stock benchmark performance. It's designed for alignment research, red-teaming, and safety evaluation by removing safety guardrails.
-
-`text-generation` `12.0B`
-
-⬇️ 50,289 • ❤️ 267 • 4d ago
+⬇️ 42,885 • ❤️ 238 • 1d ago
 
 ---
 
@@ -497,7 +483,19 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,411,202 • ❤️ 1,747 • 1mo ago
+⬇️ 2,411,202 • ❤️ 1,754 • 1mo ago
+
+---
+
+**[Gemma-4-12B-OBLITERATED](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED)**
+
+*OBLITERATUS*
+
+Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery to achieve zero refusals while maintaining stock benchmark performance. It's designed for alignment research, red-teaming, and safety evaluation by removing safety guardrails.
+
+`text-generation` `12.0B`
+
+⬇️ 50,289 • ❤️ 271 • 4d ago
 
 ---
 
@@ -511,7 +509,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 92 • 💬 4 • ⭐ 85,500 • 17mo ago
+▲ 92 • 💬 4 • ⭐ 85,728 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -525,23 +523,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across legal classification, GPU optimization, and biological data denoising tasks.
 
-▲ 13 • 💬 2 • ⭐ 1,601 • 18d ago
+▲ 13 • 💬 2 • ⭐ 1,636 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.27276) • [💻 code](https://github.com/hexo-ai/sia) • [🔗 project](https://hexolabs.com/)
-
----
-
-**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
-
-*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
-
-▲ 16 • 💬 1 • ⭐ 82,055 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
 ---
 
@@ -556,6 +540,20 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 ▲ 228 • 💬 3 • ⭐ 6,137 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
+
+---
+
+**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
+
+*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
+
+▲ 16 • 💬 1 • ⭐ 82,093 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
 ---
 
@@ -591,7 +589,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Agents' Last Exam (ALE) is a benchmark for evaluating AI agents on long-term, economically valuable real-world tasks across 13 industry clusters with 1K+ tasks, revealing significant gaps between benchmark performance and practical deployment.
 
-▲ 328 • 💬 3 • ⭐ 614 • 10d ago
+▲ 329 • 💬 3 • ⭐ 614 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.05405) • [💻 code](https://github.com/rdi-berkeley/agents-last-exam) • [🔗 project](https://agents-last-exam.org/)
 
@@ -647,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 69.8k • 🔱 8.8k • 1d ago
+⭐ 70.0k • 🔱 8.9k • 1h ago
 
 ---
 
@@ -657,7 +655,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 346 • 2h ago
+⭐ 4.0k • 🔱 348 • 58m ago
 
 ---
 
@@ -667,7 +665,7 @@ AI Agent 学习路线与资料库收集
 
 `HTML`
 
-⭐ 3.6k • 🔱 368 • 8d ago
+⭐ 3.6k • 🔱 369 • 8d ago
 
 ---
 
@@ -677,7 +675,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 342 • 2d ago
+⭐ 3.2k • 🔱 341 • 2d ago
 
 ---
 
@@ -687,7 +685,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.0k • 🔱 355 • 2d ago
+⭐ 3.0k • 🔱 357 • 2d ago
 
 ---
 
@@ -697,7 +695,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.0k • 🔱 144 • 1h ago
+⭐ 2.1k • 🔱 144 • 2h ago
 
 ---
 

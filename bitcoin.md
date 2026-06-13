@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T16:56:16.732696+00:00'
+updated: '2026-06-13T18:09:24.665259+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 16:56 UTC  
+**Last Updated:** June 13, 2026 at 18:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.1%  
-**30d:** -19.1%  
-**90d:** -14.5%  
-**1y:** -39.3%  
+**24h:** +0.7%  
+**7d:** +1.2%  
+**30d:** -19.0%  
+**90d:** -14.4%  
+**1y:** -39.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.46B
+**Market Cap:** $1281.68B
 Rank #1
 
-**Circulating Supply:** 20,042,243 BTC
+**Circulating Supply:** 20,042,284 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.2%
 
 **All-Time Low:** $67.81
-+94648.6%
++94299.1%
 
 ---
 
@@ -161,11 +161,11 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
+**[SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/?streamIndex=0)**
 
 Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -173,13 +173,13 @@ Forbes • 23h ago
 
 Strategy chairman Michael Saylor congratulated Elon Musk on SpaceX's historic Nasdaq debut Friday, coining the term "Mag8" and noting that 25% of the group now holds bitcoin on the balance sheet.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -187,37 +187,7 @@ Bloomberg.com • 20h ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 23h ago
-
----
-
-**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
-
-The world's second-largest cryptocurrency is still a compelling investment.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin News: Bitcoin's Worst Week in Months Ends With a Late Macro Rescue — Iran De-escalation and SpaceX's 19% Debut Pop Pull BTC Back to $64,000](https://www.binance.com/en-PH/square/post/333698770773362)**
-
-Binance • 2h ago
-
----
-
-**[US-Iran Peace Deal Expected in 24-Hours: Will Bitcoin Price Recover?](https://finance.yahoo.com/markets/crypto/articles/us-iran-peace-deal-expected-142612466.html)**
-
-Bitcoin rose toward $64,000 after Pakistan said a US-Iran peace deal could be finalized within 24 hours, but key resistance remains.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin May Not Have Bottomed Yet. Here’s Where the Data Says it Could.](https://www.galaxy.com/insights/research/bitcoin-four-year-cycle-where-is-the-bottom)**
-
-Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
-
-galaxy.com • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -229,9 +199,41 @@ Fortune • 1d ago
 
 ---
 
+**[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
+
+The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
+
+Forbes • 6h ago
+
+---
+
+**[Bitcoin ETF Outflows Are Now at Record Levels. Time to Panic, or Time to Buy the Dip?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-now-record-094600753.html)**
+
+Times aren't great for Bitcoin right now.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin May Not Have Bottomed Yet. Here’s Where the Data Says it Could.](https://www.galaxy.com/insights/research/bitcoin-four-year-cycle-where-is-the-bottom)**
+
+Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
+
+galaxy.com • 1d ago
+
+---
+
 **[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
 MarketWatch • 1d ago
+
+---
+
+**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
+
+Having peaked last year, the cryptocurrency has now lost half its value
+
+The Globe and Mail • 7h ago
 
 ---
 
@@ -305,7 +307,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 2 • 💬 0 • 7h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 8h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -327,7 +329,17 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 77 • ⏱️ 8:42 • 17h ago
+👁️ 29K • 👍 1K • 💬 100 • ⏱️ 8:42 • 18h ago
+
+---
+
+**[are you seeing what bitcoin is doing right now.....](https://www.youtube.com/watch?v=ndbwgMVQqVY)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 2K • 👍 292 • 💬 55 • ⏱️ 11:00 • 2h ago
 
 ---
 
@@ -337,17 +349,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 264 • 💬 19 • ⏱️ 19:27 • 21h ago
-
----
-
-**[The Cycle Structure Has Been Invalidated This Chart Shows Bitcoin Is Going EXACTLY According To Plan](https://www.youtube.com/watch?v=DT7f1pvARe0)**
-
-It doesnt take long before news within the cryptocurrency market becomes uplifting and positive again. Bitcoin and the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 2K • 👍 409 • 💬 182 • ⏱️ 12:27 • 5h ago
+👁️ 8K • 👍 277 • 💬 28 • ⏱️ 19:27 • 22h ago
 
 ---
 
@@ -357,27 +359,17 @@ It doesnt take long before news within the cryptocurrency market becomes uplifti
 
 📺 What Bitcoin Did
 
-👁️ 18K • 👍 714 • 💬 297 • ⏱️ 1:04:38 • 1d ago
+👁️ 19K • 👍 756 • 💬 357 • ⏱️ 1:04:38 • 1d ago
 
 ---
 
-**[Don’t buy SpaceX, buy this instead. #crypto](https://www.youtube.com/watch?v=WqthcftfgYw)**
+**[BITCOIN PRICE TRAP!! HEATMAP IS BULLISH!! I CLOSED MY BITCOIN SHORT POSITION!!](https://www.youtube.com/watch?v=Q6h75BDBs14)**
 
-Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
+BITCOIN PRICE ANALYSIS | BITCOIN PREDICTION | BITCOIN HEATMAP | BITCOIN VOLUME | SPACEX IPO Bitcoin is moving ...
 
-📺 Altcoin Daily
+📺 TMG Trades
 
-👁️ 14K • 👍 595 • 💬 84 • ⏱️ 2:22 • 15h ago
-
----
-
-**[you aren&#39;t crazy... something isn&#39;t right with bitcoin nowadays](https://www.youtube.com/watch?v=_sgx1CjhEJs)**
-
-Is bitcoin dying? Something isn't right with bitcoin nowadays... Use Bitcoin to buy at Walmart, Amazon, and 10000+ other brands + ...
-
-📺 BTC Isla
-
-👁️ 8K • 👍 768 • 💬 133 • ⏱️ 8:29 • 1d ago
+👁️ 4K • 👍 561 • 💬 136 • ⏱️ 10:20 • 4h ago
 
 ---
 
@@ -387,37 +379,47 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 355 • ⏱️ 20:54 • 1d ago
+👁️ 25K • 👍 2K • 💬 357 • ⏱️ 20:54 • 1d ago
 
 ---
 
-**[Every Bitcoin Bottom Started At This Line. We Just Touched It.](https://www.youtube.com/watch?v=-VsSwV5kYHs)**
+**[Bitcoin: NICHT VERPASSEN! das Zeitfenster für Käufe könnte SEHR ENG werden!](https://www.youtube.com/watch?v=812tyoSQIEM)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+Unsere Kurs-Analysen: https://schulz-technical-analysis.com ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Bitcoin BTC, ...
 
-📺 Crypto Capital Venture
+📺 STA Solutions
 
-👁️ 8K • 👍 502 • 💬 219 • ⏱️ 13:39 • 1d ago
-
----
-
-**[URGENT BITCOIN !! 🚨 UNE ÉNORME NEWS ARRIVE !!](https://www.youtube.com/watch?v=8aMWFpDNOT0)**
-
-Une anomalie sans précédent vient de se produire sur le marché options du SP500 : le DEX est passé de -20 milliards à +1 050 ...
-
-📺 Crypto Le Trone
-
-👁️ 3K • 👍 501 • 💬 20 • ⏱️ 10:19 • 5h ago
+👁️ 4K • 👍 1K • 💬 97 • ⏱️ 19:58 • 2h ago
 
 ---
 
-**[The Weirdest Home Bitcoin Miner I’ve EVER Tested!](https://www.youtube.com/watch?v=jIq3PfXoHbU)**
+**[Don’t buy SpaceX, buy this instead. #crypto](https://www.youtube.com/watch?v=WqthcftfgYw)**
 
-Checkout the MagicMiner WM02 Solo Bitcoin Miner from Today's Video ➤ https://geni.us/WM02HOBBYIST Use Checkout Code ...
+Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
 
-📺 The Hobbyist Miner
+📺 Altcoin Daily
 
-👁️ 2K • 👍 68 • 💬 84 • ⏱️ 17:45 • 1d ago
+👁️ 16K • 👍 668 • 💬 85 • ⏱️ 2:22 • 17h ago
+
+---
+
+**[BITCOIN: ¿Y Si El Quinto CICLO ALCISTA Ya Empezó?](https://www.youtube.com/watch?v=Qzwul32ZTIA)**
+
+ENLACE BITUNIX NO KYC NO VPN https://www.bitunix.com/es-es/activity/basic/USACRYPTONOTICIAS0613?vipCode=kxm7 ...
+
+📺 USACRYPTONOTICIAS
+
+👁️ 2K • 👍 517 • 💬 11 • ⏱️ 1:44:01 • 1h ago
+
+---
+
+**[The Cycle Structure Has Been Invalidated This Chart Shows Bitcoin Is Going EXACTLY According To Plan](https://www.youtube.com/watch?v=DT7f1pvARe0)**
+
+It doesnt take long before news within the cryptocurrency market becomes uplifting and positive again. Bitcoin and the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 4K • 👍 533 • 💬 245 • ⏱️ 12:27 • 6h ago
 
 ---
 

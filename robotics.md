@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-13T16:56:16.740767+00:00'
+updated: '2026-06-13T18:09:24.673453+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 13, 2026 at 16:56 UTC  
+**Last Updated:** June 13, 2026 at 18:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've always been interested in point clouds and spatial data, so I created my own LiDAR scanner! It runs off of an esp32 and TMC2209s on a custom PCB, which continuously rotate and sweep the LiDAR sensor. I learned a ton creating this project, as this was my first time creating a PCB and using NEMA motors (I have used other motors before). Github repo
 
-10h ago
+12h ago
 
 ---
 
@@ -50,13 +50,13 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Opening fight for last year’s competition](https://www.reddit.com/r/robotics/comments/1u433ih/opening_fight_for_last_years_competition/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Depth cloud Test on SLAM Camera](https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -64,19 +64,19 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-1h ago
+2h ago
 
 ---
 
 **[2Dof Differential Joint](https://www.reddit.com/r/robotics/comments/1u41ugd/2dof_differential_joint/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Visual Integration to LIO SAM](https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -90,7 +90,7 @@ Curation of materials for robotics and Artificial Intelligence. Learn as your pr
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 1h ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 2h ago
 
 ---
 
@@ -106,11 +106,11 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Watch This Humanoid Robot Move in Ways Your Hips Wouldn't Like](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation)**
+**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
 
-Your weekly selection of awesome robot videos
+Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
 
-IEEE Spectrum • 23h ago
+CNBC • 6h ago
 
 ---
 
@@ -120,9 +120,31 @@ WSJ • 2d ago
 
 ---
 
+**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
+
+Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+
+Fox News • 4h ago
+
+---
+
 **[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
 Barron's • 2d ago
+
+---
+
+**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
+
+WSJ • 1d ago
+
+---
+
+**[Soft robots get a tiny soft pump to move their bodies](https://newatlas.com/robotics/soft-robots-tiny-pump/)**
+
+Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed,…
+
+New Atlas • 15h ago
 
 ---
 
@@ -134,27 +156,11 @@ The Atlantic • 2d ago
 
 ---
 
-**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
+**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
 
-Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
+A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
 
-CNBC • 4h ago
-
----
-
-**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
-
-Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
-
-Fox News • 3h ago
-
----
-
-**[Soft robots get a tiny soft pump to move their bodies](https://newatlas.com/robotics/soft-robots-tiny-pump/)**
-
-Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed,…
-
-New Atlas • 13h ago
+Futurism • 2h ago
 
 ---
 
@@ -162,7 +168,7 @@ New Atlas • 13h ago
 
 Fairfax County supervisors on Tuesday (June 9) honored students from robotics teams at two schools for participation in recent international competition. The Hayfield Secondary School Night Hawks and Marshall High School Gryphon Robotics each competed in the FIRST Robotics World Championship, held in Houston April 29-May 2. About 600 squads from across the globe participated
 
-FFXnow • 21h ago
+FFXnow • 22h ago
 
 ---
 
@@ -170,13 +176,7 @@ FFXnow • 21h ago
 
 Beyond the Human Game: RoboCup Steps Up Just as the 2026 FIFA World Cup kicks off, some are gearing up for a very different kind of football tournament. But this one isn’t played by humans—it’s a battle of the robots. Since 1996, RoboCup has been an annual event where robotics...
 
-Futura, le média qui explore le monde • 4h ago
-
----
-
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
-
-Bloomberg.com • 1d ago
+Futura, le média qui explore le monde • 5h ago
 
 ---
 
@@ -190,27 +190,7 @@ I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which f
 
 📺 The Hook Up
 
-👁️ 26K • 👍 685 • 💬 204 • ⏱️ 33:19 • 1d ago
-
----
-
-**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
-
-What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
-
-📺 Top Talent
-
-👁️ 97K • 👍 1K • 💬 151 • ⏱️ 6:09 • 3d ago
-
----
-
-**[Scientists Turned a Dead Spider into a Robot! 🕷️🤖](https://www.youtube.com/watch?v=jQbugXzN8LE)**
-
-Did you know scientists are using "necrobotics" to turn deceased spiders into tiny robotic grippers? Spiders naturally use hydraulic ...
-
-📺 Wealthy Capital
-
-👁️ 41K • 👍 201 • 💬 12 • ⏱️ 0:07 • 17h ago
+👁️ 28K • 👍 744 • 💬 240 • ⏱️ 33:19 • 1d ago
 
 ---
 
@@ -220,7 +200,37 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 13K • 👍 752 • 💬 52 • ⏱️ 0:30 • 6h ago
+👁️ 19K • 👍 963 • 💬 70 • ⏱️ 0:30 • 8h ago
+
+---
+
+**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
+
+What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
+
+📺 Top Talent
+
+👁️ 99K • 👍 1K • 💬 155 • ⏱️ 6:09 • 3d ago
+
+---
+
+**[Scientists Turned a Dead Spider into a Robot! 🕷️🤖](https://www.youtube.com/watch?v=jQbugXzN8LE)**
+
+Did you know scientists are using "necrobotics" to turn deceased spiders into tiny robotic grippers? Spiders naturally use hydraulic ...
+
+📺 Wealthy Capital
+
+👁️ 47K • 👍 204 • 💬 12 • ⏱️ 0:07 • 19h ago
+
+---
+
+**[Meet the Military Robot Dogs of the Future 😳🐺](https://www.youtube.com/watch?v=MGize6Ndn_Y)**
+
+The future of military technology is arriving on four legs. This video showcases advanced quadruped robotic systems, often called ...
+
+📺 Perigee Tech
+
+👁️ 11K • 💬 8 • ⏱️ 0:05 • 7h ago
 
 ---
 
@@ -240,17 +250,17 @@ A humanoid hand sweats like human skin while tightening bolts for three hours st
 
 📺 NextGen Humanoids
 
-👁️ 8K • 👍 160 • 💬 15 • ⏱️ 8:16 • 4d ago
+👁️ 8K • 👍 160 • 💬 15 • ⏱️ 8:16 • 5d ago
 
 ---
 
-**[Mini LEGO brick Pteranodon  transformer robot - Pterabot #LEGO #MOC #dinobot](https://www.youtube.com/watch?v=87CRNBaeanM)**
+**[This REK robot thinks he&#39;s Michael Jackson! #robot #robotics #technology #michaeljackson #dance](https://www.youtube.com/watch?v=yQQ7ANI-kPk)**
 
-A Pteranodon transforming robot that can be built easily with just 25 pieces – Pterabot! Parts list for these LEGO robots ...
+A demo of a dancing robot I could experience at REK in San Francisco. You can learn more about REK at https://rek.com/ --- If you ...
 
-📺 BrickMecha
+📺 Skarredghost
 
-👁️ 3K • 👍 59 • 💬 10 • ⏱️ 8:05 • 15h ago
+👁️ 1K • 👍 31 • 💬 2 • ⏱️ 0:58 • 8h ago
 
 ---
 
@@ -260,17 +270,7 @@ Unitree brought the future to the AGT 2026 stage with a performance that left th
 
 📺 Talent Replay
 
-👁️ 65K • 👍 699 • 💬 70 • ⏱️ 5:50 • 3d ago
-
----
-
-**[The Company That Beat Tesla on EVs Is Now Building Humanoid Robots](https://www.youtube.com/watch?v=EbXtwJBNAWA)**
-
-SOURCES BYD confirms humanoid robot development, says future sales could use dealer network ...
-
-📺 Jason Lowe on AI
-
-👁️ 83K • 👍 3K • 💬 235 • ⏱️ 2:20 • 5d ago
+👁️ 65K • 👍 704 • 💬 70 • ⏱️ 5:50 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ SOURCES BYD confirms humanoid robot development, says future sales could use dea
 
 📺 KF Labs
 
-👁️ 21K • 👍 601 • 💬 8 • ⏱️ 0:05 • 1d ago
+👁️ 21K • 👍 613 • 💬 9 • ⏱️ 0:05 • 1d ago
 
 ---
 

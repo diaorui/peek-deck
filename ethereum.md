@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T16:56:16.737956+00:00'
+updated: '2026-06-13T18:09:24.670619+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 16:56 UTC  
+**Last Updated:** June 13, 2026 at 18:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.6%  
 **7d:** -0.9%  
 **30d:** -24.7%  
 **90d:** -28.7%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.71B
+**Market Cap:** $201.95B
 Rank #2
 
 **Circulating Supply:** 120,684,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.0%
+-66.1%
 
 **All-Time Low:** $0.43
-+387900.3%
++386948.8%
 
 ---
 
@@ -126,7 +126,7 @@ I still can't understand how ETH wants to become private when we can see all the
 
 Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
 
-3d ago
+4d ago
 
 ---
 
@@ -162,23 +162,7 @@ CoinDesk • 1d ago
 
 The world's second-largest cryptocurrency is still a compelling investment.
 
-Yahoo Finance • 1h ago
-
----
-
-**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
-
-The prominent analyst expects Ether to replicate Bitcoin's historic run.
-
-The Motley Fool • 22h ago
-
----
-
-**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
-
-Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
-
-The Block • 3d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,6 +178,22 @@ Fortune • 2d ago
 
 ---
 
+**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+
+The prominent analyst expects Ether to replicate Bitcoin's historic run.
+
+The Motley Fool • 23h ago
+
+---
+
+**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
+
+Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
+
+The Block • 3d ago
+
+---
+
 **[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
 Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
@@ -204,7 +204,7 @@ Seeking Alpha • 2d ago
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -218,7 +218,7 @@ CCN.com • 1d ago
 
 Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -226,7 +226,7 @@ Crypto Briefing • 11h ago
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -240,17 +240,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 3K • 👍 323 • 💬 31 • ⏱️ 10:36 • 4h ago
-
----
-
-**[Will Ethereum Outperform Bitcoin? The Structural Outlook](https://www.youtube.com/watch?v=jcobQN6VRzQ)**
-
-In this video I break down the current Ethereum price outlook and evaluate why the asset remains in a state of relative weakness ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 251 • 💬 20 • ⏱️ 14:06 • 6h ago
+👁️ 6K • 👍 459 • 💬 50 • ⏱️ 10:36 • 6h ago
 
 ---
 
@@ -260,17 +250,27 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 198 • 💬 107 • ⏱️ 20:28 • 3h ago
+👁️ 4K • 👍 306 • 💬 127 • ⏱️ 20:28 • 4h ago
 
 ---
 
-**[$1,000 $ETH COMING? | My Longterm Ethereum Prediction!🚨](https://www.youtube.com/watch?v=hwRhqjYab3M)**
+**[Will Ethereum Outperform Bitcoin? The Structural Outlook](https://www.youtube.com/watch?v=jcobQN6VRzQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+In this video I break down the current Ethereum price outlook and evaluate why the asset remains in a state of relative weakness ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 136 • 👍 18 • 💬 2 • ⏱️ 5:32 • 5h ago
+👁️ 5K • 👍 308 • 💬 24 • ⏱️ 14:06 • 7h ago
+
+---
+
+**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
+
+En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
+
+📺 Emir Şahin
+
+👁️ 4K • 👍 637 • 💬 93 • ⏱️ 34:45 • 4h ago
 
 ---
 
@@ -280,7 +280,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 350 • 💬 206 • ⏱️ 12:37 • 2d ago
+👁️ 6K • 👍 350 • 💬 204 • ⏱️ 12:37 • 2d ago
+
+---
+
+**[$1,000 $ETH COMING? | My Longterm Ethereum Prediction!🚨](https://www.youtube.com/watch?v=hwRhqjYab3M)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 253 • 👍 23 • 💬 2 • ⏱️ 5:32 • 6h ago
 
 ---
 
@@ -290,27 +300,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 159 • 💬 41 • ⏱️ 16:46 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Zjr8XCeYjQI)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 245 • 👍 35 • ⏱️ 5:18 • 3h ago
-
----
-
-**[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 712 • 💬 297 • ⏱️ 11:58 • 3d ago
+👁️ 4K • 👍 160 • 💬 41 • ⏱️ 16:46 • 2d ago
 
 ---
 
@@ -320,7 +310,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 490 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
+👁️ 490 • 👍 20 • 💬 5 • ⏱️ 5:41 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Zjr8XCeYjQI)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 439 • 👍 55 • ⏱️ 5:18 • 4h ago
 
 ---
 
@@ -330,7 +330,7 @@ SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 320 • 💬 28 • ⏱️ 21:04 • 1d ago
+👁️ 7K • 👍 320 • 💬 28 • ⏱️ 21:04 • 2d ago
 
 ---
 
