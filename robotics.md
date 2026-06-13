@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-13T00:22:46.219143+00:00'
+updated: '2026-06-13T05:02:56.521719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 13, 2026 at 00:22 UTC  
+**Last Updated:** June 13, 2026 at 05:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-14h ago
+18h ago
 
 ---
 
 **[test the stereo depth, only-vision](https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/)**
 
-11h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-7h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 This video demonstrates the general concept that makes a differential wrist joint work. Both motors working together achieve two degrees of freedom.
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ This video demonstrates the general concept that makes a differential wrist join
 
 At Foxglove, we collaborated with Aditya Kamath, resulting in another blog post in his ROS 2 LeKiwi series, this time covering the integration of SLAM and Nav2. This blog post should be relevant to anyone wanting to integrate Nav2, even if they don't have a holonomic platform. If you find this kind of content useful, let us know, and we will keep it coming!
 
-🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 13h ago
+🔗 [Foxglove](https://foxglove.dev/blog/autonomous-navigation-with-lekiwi-and-nav2) • 18h ago
 
 ---
 
@@ -102,7 +102,7 @@ No the thumbnail is not fake and shes quite talented would not be surprised if s
 
 **[Que opinan](https://www.reddit.com/r/robotics/comments/1u3mxq4/que_opinan/)**
 
-18h ago
+23h ago
 
 ---
 
@@ -116,9 +116,17 @@ Barron's • 1d ago
 
 ---
 
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
+**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
 
-Bloomberg.com • 14h ago
+WSJ • 1d ago
+
+---
+
+**[Watch This Humanoid Robot Move in Ways Your Hips Wouldn't Like](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -127,6 +135,12 @@ Bloomberg.com • 14h ago
 Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
 
 Al Jazeera • 1d ago
+
+---
+
+**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
+
+Bloomberg.com • 19h ago
 
 ---
 
@@ -143,14 +157,6 @@ The Atlantic • 1d ago
 A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
 
 NASA Science (.gov) • 1d ago
-
----
-
-**[Watch This Humanoid Robot Move in Ways Your Hips Wouldn't Like](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 6h ago
 
 ---
 
@@ -176,27 +182,9 @@ Financial Times • 2d ago
 
 ---
 
-**[Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)**
-
-Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.
-
-TechCrunch • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[AI Humanoid Robots Just Got REAL… And That’s the Scary Part](https://www.youtube.com/watch?v=cNQuG2fbDks)**
-
-The humanoid robot race just left the demo stage — and entered the factory floor! You're about to see the moment AI humanoid ...
-
-📺 The AI Nexus
-
-👁️ 979 • 👍 61 • 💬 4 • ⏱️ 28:04 • 20h ago
-
----
 
 **[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
 
@@ -204,17 +192,27 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 85K • 👍 1K • 💬 140 • ⏱️ 6:09 • 3d ago
+👁️ 90K • 👍 1K • 💬 144 • ⏱️ 6:09 • 3d ago
 
 ---
 
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+**[AI Humanoid Robots Just Got REAL… And That’s the Scary Part](https://www.youtube.com/watch?v=cNQuG2fbDks)**
 
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+The humanoid robot race just left the demo stage — and entered the factory floor! You're about to see the moment AI humanoid ...
 
-📺 New York Post
+📺 The AI Nexus
 
-👁️ 332K • 👍 6K • 💬 5K • ⏱️ 2:17 • 6d ago
+👁️ 1K • 👍 64 • 💬 4 • ⏱️ 28:04 • 1d ago
+
+---
+
+**[Scientists Turned a Dead Spider into a Robot! 🕷️🤖](https://www.youtube.com/watch?v=jQbugXzN8LE)**
+
+Did you know scientists are using "necrobotics" to turn deceased spiders into tiny robotic grippers? Spiders naturally use hydraulic ...
+
+📺 Wealthy Capital
+
+👁️ 6K • 👍 57 • 💬 4 • ⏱️ 0:07 • 6h ago
 
 ---
 
@@ -224,7 +222,37 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 📺 Firstpost
 
-👁️ 3K • 👍 43 • 💬 27 • ⏱️ 6:29 • 1d ago
+👁️ 3K • 👍 43 • 💬 29 • ⏱️ 6:29 • 2d ago
+
+---
+
+**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+
+A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+
+📺 New York Post
+
+👁️ 333K • 👍 6K • 💬 5K • ⏱️ 2:17 • 6d ago
+
+---
+
+**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
+
+500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
+
+📺 KF Labs
+
+👁️ 14K • 👍 420 • 💬 6 • ⏱️ 0:05 • 20h ago
+
+---
+
+**[A Homemade Robot Walked Onto the Stage…Then Started Doing Flips](https://www.youtube.com/watch?v=7XwZjpO-MKQ)**
+
+Every acrobat needs a partner. Daniel Simu had plenty of them. They got injured. They quit. They moved to other countries.
+
+📺 Top Viral Talent
+
+👁️ 170K • 👍 637 • 💬 43 • ⏱️ 4:52 • 2d ago
 
 ---
 
@@ -238,53 +266,21 @@ A humanoid hand sweats like human skin while tightening bolts for three hours st
 
 ---
 
-**[This Makes NO SENSE... Thunder Bagliore CRUSHING The Strongest Mechs | War Robots](https://www.youtube.com/watch?v=3holEGTbl18)**
-
-Thunder are back! This doesnt even make sense but it works. The thunder have to be some of the oldest weapons in the game, ...
-
-📺 PREDATOR WR
-
-👁️ 7K • 👍 360 • 💬 58 • ⏱️ 13:43 • 12h ago
-
----
-
 **[Unitree Robot + Human Dancer on AGT = 🔥  #robotics #robot #agt #ai #unitree](https://www.youtube.com/watch?v=t1ya7bTuTEc)**
 
 A brief description of the video... You'll learn: - How to - How to - How to Related courses & tutorials: * * -- #ROS #Robot ...
 
 📺 The Construct Robotics Institute
 
-👁️ 21K • 👍 224 • 💬 25 • ⏱️ 0:57 • 2d ago
+👁️ 26K • 👍 242 • 💬 29 • ⏱️ 0:57 • 2d ago
 
 ---
 
-**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
+**[Ever wonder how a robot actually works? Yeah, me too. #electronicsprojects #robotics](https://www.youtube.com/watch?v=ZcHgWIYdc8c)**
 
-Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
+📺 Kevin Lange
 
-📺 Talent Replay
-
-👁️ 62K • 👍 677 • 💬 68 • ⏱️ 5:50 • 3d ago
-
----
-
-**[Getting Started with NVIDIA Cosmos 3 for Robotics and Physical AI | Cosmos Labs](https://www.youtube.com/watch?v=9XZeMdnI79I)**
-
-Join NVIDIA for an introduction to Cosmos 3, the latest evolution of NVIDIA's world foundation model platform for physical AI.
-
-📺 NVIDIA Developer
-
-👁️ 3K • 👍 147 • 💬 1 • ⏱️ 1:03:54 • 1d ago
-
----
-
-**[24 Hour Test 0 5mm Precision#depalletizing #palletizer #robotics #automation #](https://www.youtube.com/watch?v=gJ76srD10-M)**
-
-The industrial robot is undergoing a 24-hour continuous performance test. The system successfully maintains a strict precision ...
-
-📺 Beiyuan Palletizing Robot by Lau
-
-👁️ 29K • 👍 105 • ⏱️ 0:15 • 3d ago
+👁️ 757 • 👍 22 • ⏱️ 1:16 • 5h ago
 
 ---
 

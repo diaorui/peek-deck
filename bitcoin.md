@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T00:22:46.211027+00:00'
+updated: '2026-06-13T05:02:56.513469+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 00:22 UTC  
+**Last Updated:** June 13, 2026 at 05:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,476.26
+### $63,657.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.9%  
 **7d:** +0.4%  
-**30d:** -19.6%  
+**30d:** -19.7%  
 **90d:** -15.1%  
 **1y:** -39.7%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1272.07B
+**Market Cap:** $1272.36B
 Rank #1
 
-**Circulating Supply:** 20,041,937 BTC
+**Circulating Supply:** 20,042,046 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-49.6%
 
 **All-Time Low:** $67.81
-+93504.2%
++93520.4%
 
 ---
 
@@ -161,57 +161,27 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
-
-Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
-
-Forbes • 6h ago
-
----
-
-**[BTC updates: Bitcoin's price bounces ahead of the SpaceX IPO](https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week)**
-
-May's inflation numbers lifted major digital assets on Thursday, though ether and the large altcoins are still down 6% to 8% over seven days.
-
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[Bitcoin Perpetual Futures Are Now Available for Trading. Here's What You Need to Know.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-perpetual-futures-now-available-234300328.html)**
-
-These derivative contracts are exciting for a lot of different reasons.
-
-Yahoo Finance • 39m ago
-
----
-
 **[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 7h ago
+CNBC • 11h ago
 
 ---
 
-**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
+**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
 
-Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
+Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-Bitcoin Magazine • 10h ago
+Forbes • 11h ago
 
 ---
 
-**[MicroStrategy CEO discloses 3 reasons behind Bitcoin sale](https://sg.finance.yahoo.com/news/microstrategy-ceo-discloses-3-reasons-175140365.html)**
+**[HIVE Shifts Beyond Bitcoin With 320 MW AI Data Center Plan](https://finance.yahoo.com/markets/stocks/articles/hive-shifts-beyond-bitcoin-320-031036368.html)**
 
-The crypto market got a shock on June 1 when Strategy (Nasdaq: MSTR), née MicroStrategy, announced its first Bitcoin (BTC) sale in years. Even though the co-founder Michael Saylor had hinted about the potential sale in early May, the announcement of the sale of 32 Bitcoin shook the crypto ...
+HIVE Digital Technologies (TSX:HIVE) plans to build a 320 MW AI-focused data-center gigafactory in the Greater Toronto Area. The company is targeting a launch in the second half of 2027, expanding beyond its core Bitcoin mining operations. This project is intended to support AI and high-performance computing workloads at large scale. For investors watching TSX:HIVE, this move comes with the stock at CA$5.22 and a 1 year return of 101.5%. The share price is also up 39.6% year to date and...
 
-Yahoo Finance Singapore • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,7 +189,21 @@ Yahoo Finance Singapore • 1d ago
 
 Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
 
-galaxy.com • 19h ago
+galaxy.com • 1d ago
+
+---
+
+**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
+
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+
+CoinDesk • 18h ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
+
+Bloomberg.com • 14h ago
 
 ---
 
@@ -231,29 +215,29 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin Price Holds Steady Ahead of SpaceX’s Listing](https://www.wsj.com/livecoverage/spacex-ipo-stock-market-06-12-2026/card/bitcoin-price-holds-steady-ahead-of-spacex-s-listing-RPyIqeDvdWGHYCGSh1HH)**
+
+WSJ • 13h ago
+
+---
+
 **[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
 
 MarketWatch • 1d ago
 
 ---
 
+**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
+
+Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
+
+Bitcoin Magazine • 15h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs](https://news.ycombinator.com/item?id=48421156)**
-
-⬆️ 11 • 💬 4 • 6d ago • [reuters.com](https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/)
-
----
-
-**[Bitcoin cracks $60k, sinking to lowest level since October 2024](https://news.ycombinator.com/item?id=48421112)**
-
-The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.
-
-⬆️ 8 • 💬 8 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html)
-
----
 
 **[25.3% of Bitcoin sits at addresses with an exposed public key](https://news.ycombinator.com/item?id=48490037)**
 
@@ -267,7 +251,7 @@ The weeklong sell-off was exacerbated after a stronger-than-expected May jobs r
 
 As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
 
-⬆️ 6 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
+⬆️ 6 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
 
 ---
 
@@ -319,17 +303,31 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 ---
 
+**[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
+
+⬆️ 2 • 💬 0 • 1d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+
+---
+
+**[Show HN: Startup sci-fi novel that took me 5 years to write](https://news.ycombinator.com/item?id=48447484)**
+
+A near-future startup novel by Milo C. Kingston. Read sample chapters for free. Book available for purchase.
+
+⬆️ 25 • 💬 14 • 4d ago • [blockchainednovel.com](https://www.blockchainednovel.com/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
+**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
 
-Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
+"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
 
-📺 Gareth Soloway
+📺 What Bitcoin Did
 
-👁️ 39K • 👍 3K • 💬 183 • ⏱️ 14:32 • 12h ago
+👁️ 11K • 👍 515 • 💬 108 • ⏱️ 1:04:38 • 12h ago
 
 ---
 
@@ -339,17 +337,27 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 366 • ⏱️ 20:54 • 1d ago
+👁️ 24K • 👍 2K • 💬 345 • ⏱️ 20:54 • 1d ago
 
 ---
 
-**[SpaceX + Bitcoin: This Could Change Everything](https://www.youtube.com/watch?v=UOxo1N_UA1E)**
+**[Elon Musk’s SpaceX Is Coming For Your Bitcoin. Here&#39;s the Mechanism.](https://www.youtube.com/watch?v=buiJPqv7TZc)**
 
-AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 17K • 👍 867 • 💬 65 • ⏱️ 1:10:59 • 9h ago
+👁️ 11K • 👍 833 • 💬 33 • ⏱️ 8:42 • 5h ago
+
+---
+
+**[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
+
+Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
+
+📺 Gareth Soloway
+
+👁️ 44K • 👍 3K • 💬 291 • ⏱️ 14:32 • 17h ago
 
 ---
 
@@ -359,7 +367,17 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 15K • 👍 2K • 💬 56 • ⏱️ 1:24 • 7h ago
+👁️ 29K • 👍 3K • 💬 82 • ⏱️ 1:24 • 12h ago
+
+---
+
+**[32 Bitcoin Crashed the Entire Market #bitcoin  #crypto](https://www.youtube.com/watch?v=k5UlD4rCc0k)**
+
+Michael Saylor broke his five-year rule and sold Bitcoin — just 32 coins, and the market plunged below $60K. Then Strategy ...
+
+📺 ShipGuild
+
+👁️ 504 • 👍 10 • 💬 4 • ⏱️ 1:02 • 10h ago
 
 ---
 
@@ -369,27 +387,17 @@ This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on W
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 154 • ⏱️ 8:18 • 1d ago
+👁️ 33K • 👍 2K • 💬 150 • ⏱️ 8:18 • 1d ago
 
 ---
 
-**[Bitcoin Rejection Is Warning That A Big Drop Is Incoming (Prepare)](https://www.youtube.com/watch?v=pqChX17fo2s)**
+**[SpaceX + Bitcoin: This Could Change Everything](https://www.youtube.com/watch?v=UOxo1N_UA1E)**
 
-Bitcoin and altcoins are bouncing, but is this rally actually sustainable? In today's episode, Sheldon breaks down the key signals ...
+AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 8K • 👍 485 • 💬 15 • ⏱️ 17:44 • 14h ago
-
----
-
-**[Bitcoin: The Cost Basis of the Network](https://www.youtube.com/watch?v=R9vEpIpyj2s)**
-
-Let's discuss an on-chain metric; namely, the Bitcoin realized price. Let's discuss how it can be used in identifying market cycle ...
-
-📺 Benjamin Cowen
-
-👁️ 55K • 👍 4K • 💬 154 • ⏱️ 4:14 • 1d ago
+👁️ 19K • 👍 917 • 💬 111 • ⏱️ 1:10:59 • 14h ago
 
 ---
 
@@ -399,7 +407,7 @@ This episode is a dense Moonshots roundtable on Bitcoin, agentic payments, gover
 
 📺 Peter H. Diamandis
 
-👁️ 78K • 👍 2K • 💬 955 • ⏱️ 1:57:02 • 1d ago
+👁️ 84K • 👍 2K • 💬 963 • ⏱️ 1:57:02 • 1d ago
 
 ---
 
@@ -409,17 +417,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 160 • ⏱️ 10:27 • 21h ago
-
----
-
-**[Has Bitcoin NEVER Been This Cheap?!?](https://www.youtube.com/watch?v=BPrtShHLeEY)**
-
-Bitcoin is down 50% from its all-time high, the Fear & Greed Index just printed an 8, and your brother-in-law is back to talking ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 639 • 💬 102 • ⏱️ 18:59 • 1d ago
+👁️ 55K • 👍 4K • 💬 171 • ⏱️ 10:27 • 1d ago
 
 ---
 
