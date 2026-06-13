@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T13:05:44.957193+00:00'
+updated: '2026-06-13T15:17:04.377931+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 13:05 UTC  
+**Last Updated:** June 13, 2026 at 15:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,958.03
+### $64,274.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.3%  
-**30d:** -19.0%  
-**90d:** -14.4%  
-**1y:** -39.2%  
+**24h:** +0.5%  
+**7d:** +1.6%  
+**30d:** -18.7%  
+**90d:** -14.1%  
+**1y:** -39.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1280.18B
+**Market Cap:** $1287.46B
 Rank #1
 
-**Circulating Supply:** 20,042,171 BTC
+**Circulating Supply:** 20,042,243 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.0%
 
 **All-Time Low:** $67.81
-+94097.0%
++94648.6%
 
 ---
 
@@ -113,7 +113,7 @@ I used to think Bitcoin was easy money at first when i first got into investing 
 
 After running a Raspberry Pi node at home that died without warning, I moved everything to a bare metal VPS on Contabo. No prepackaged solutions — just Ubuntu 24, Docker, Bitcoin Core 28.1, LND 0.20.1, and a stack I assembled one by one. The article covers the full setup including real bitcoin.conf and lnd.conf, SSH hardening, UFW + Fail2ban, channel strategy mistakes (don't open to big nodes — learned the hard way), ZeroTier private network for monitoring without exposing any public ports, automatic channel.backup redundancy, BOS via Telegram, and LiT for auto fee management. 7 channels live, node visible on Amboss if you want to verify it's not theoretical. Full guide (paid): https://davidebtc186.substack.com/p/how-i-built-my-own-bitcoin-lightning Happy to answer questions here. ⚡ [donate@shadowbip.com](mailto:donate@shadowbip.com) | 🛠 github.com/shadowbipnode
 
-1d ago
+2d ago
 
 ---
 
@@ -129,7 +129,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 For me, some Bitcoin questions were easy. Others took months or years before I felt like I really understood them. Things like: Why does Bitcoin have value? ETF or self-custody? How much Bitcoin is enough? Is volatility the same thing as risk? What makes Bitcoin different from every other crypto? What Bitcoin question took you the longest to answer?
 
-1d ago
+2d ago
 
 ---
 
@@ -165,39 +165,45 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 19h ago
+CNBC • 21h ago
 
 ---
 
-**[What happens to Satoshi's BTC when Bitcoin's quantum problem is fixed?](https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question)**
+**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
 
-A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.
+Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
 
-CoinDesk • 6h ago
-
----
-
-**[Javier Mile's Right Hand Says Bitcoin Explains His Hidden $500,000](https://www.forbes.com/sites/digital-assets/2026/06/13/mileis-cabinet-chief-faces-harder-scrutiny-after-his-bitcoin-disclosure/)**
-
-Argentina's cabinet chief says bitcoin explains the $513,000 he hid. The blockchain, his own videos and his filings tell a different stoory.
-
-Forbes • 2h ago
+Forbes • 21h ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$ keep going.](https://www.moomoo.com/community/feed/bitcoin-btc-cc-keep-going-116742407979014)**
+**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
 
-@TheMillionQuest 8410 Views|4 Likes
+Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
 
-Moomoo • 2h ago
+CoinDesk • 19h ago
 
 ---
 
-**[Mark Cuban Said If You Want To Get Rich, Throw A 'Hail Mary' With 10% In Bitcoin And Pretend You Lost It — 9 Years Later, He Says It 'Lost The Plot'](https://finance.yahoo.com/markets/crypto/articles/mark-cuban-said-want-rich-153146650.html)**
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-Calling something a "Hail Mary" is usually a good sign that things could end brilliantly or blow up in your face. That's exactly how billionaire entrepreneur Mark Cuban described Bitcoin while discussing wealth-building to Vanity Fair in 2017. He wasn't...
+Bloomberg.com • 19h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin](https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin)**
+
+Strategy chairman Michael Saylor congratulated Elon Musk on SpaceX's historic Nasdaq debut Friday, coining the term "Mag8" and noting that 25% of the group now holds bitcoin on the balance sheet.
+
+CoinDesk • 2h ago
+
+---
+
+**[US-Iran Peace Deal Expected in 24-Hours: Will Bitcoin Price Recover?](https://finance.yahoo.com/markets/crypto/articles/us-iran-peace-deal-expected-142612466.html)**
+
+Bitcoin rose toward $64,000 after Pakistan said a US-Iran peace deal could be finalized within 24 hours, but key resistance remains.
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -213,29 +219,23 @@ galaxy.com • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 18h ago
+Fortune • 17h ago
 
 ---
 
-**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
+**[Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount](https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount)**
 
-Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
+Buying $1 Of Bitcoin For $0.82? Why Strategy Stock MSTR Is Flashing Rare Buy Signals.
 
-Forbes • 19h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 16h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000](https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged)**
+**[Clarity Act by July 4 paints "green forest" for Bitcoin—but are bears still patrolling?](https://seekingalpha.com/news/4603093-clarity-act-by-july-4-paints-green-forest-for-bitcoin-but-are-bears-still-patrolling)**
 
-Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.
+Bitcoin eyes a policy boost as the Clarity Act nears approval.
 
-CoinDesk • 16h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -247,7 +247,7 @@ CoinDesk • 16h ago
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 2 • 1d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+⬆️ 6 • 💬 2 • 2d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -263,7 +263,7 @@ As bitcoin dropped to its lowest price since 2024, investors flock to a new type
 
 84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
 
-⬆️ 4 • 💬 1 • 4d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
+⬆️ 4 • 💬 1 • 5d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
 
 ---
 
@@ -309,7 +309,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 1 • 💬 0 • 3h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 5h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -331,7 +331,27 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 69 • ⏱️ 8:42 • 13h ago
+👁️ 27K • 👍 1K • 💬 77 • ⏱️ 8:42 • 15h ago
+
+---
+
+**[&quot;THEY All LIED! Everyone Is 100% WRONG About this Bitcoin Cycle&quot; - Lyn Alden](https://www.youtube.com/watch?v=pJycNMBmq-o)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 264 • 💬 19 • ⏱️ 19:27 • 19h ago
+
+---
+
+**[The Cycle Structure Has Been Invalidated This Chart Shows Bitcoin Is Going EXACTLY According To Plan](https://www.youtube.com/watch?v=DT7f1pvARe0)**
+
+It doesnt take long before news within the cryptocurrency market becomes uplifting and positive again. Bitcoin and the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 2K • 👍 409 • 💬 182 • ⏱️ 12:27 • 4h ago
 
 ---
 
@@ -341,67 +361,17 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 What Bitcoin Did
 
-👁️ 15K • 👍 625 • 💬 204 • ⏱️ 1:04:38 • 20h ago
+👁️ 18K • 👍 714 • 💬 297 • ⏱️ 1:04:38 • 22h ago
 
 ---
 
-**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
+**[Don’t buy SpaceX, buy this instead. #crypto](https://www.youtube.com/watch?v=WqthcftfgYw)**
 
-Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 350 • ⏱️ 20:54 • 1d ago
-
----
-
-**[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
-
-Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
-
-📺 Gareth Soloway
-
-👁️ 47K • 👍 3K • 💬 301 • ⏱️ 14:32 • 1d ago
-
----
-
-**[SpaceX + Bitcoin: This Could Change Everything](https://www.youtube.com/watch?v=UOxo1N_UA1E)**
-
-AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 937 • 💬 101 • ⏱️ 1:10:59 • 22h ago
-
----
-
-**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
-
-This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
+Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 166 • ⏱️ 8:18 • 1d ago
-
----
-
-**[Every Bitcoin Bottom Started At This Line. We Just Touched It.](https://www.youtube.com/watch?v=-VsSwV5kYHs)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 485 • 💬 188 • ⏱️ 13:39 • 20h ago
-
----
-
-**[Why hasn’t Bitcoin replaced the dollar?](https://www.youtube.com/watch?v=dbJVJiTUpBY)**
-
-Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
-
-📺 NPR's Planet Money
-
-👁️ 37K • 👍 4K • 💬 98 • ⏱️ 1:24 • 20h ago
+👁️ 14K • 👍 595 • 💬 84 • ⏱️ 2:22 • 14h ago
 
 ---
 
@@ -411,17 +381,47 @@ Is bitcoin dying? Something isn't right with bitcoin nowadays... Use Bitcoin to 
 
 📺 BTC Isla
 
-👁️ 7K • 👍 718 • 💬 128 • ⏱️ 8:29 • 23h ago
+👁️ 8K • 👍 768 • 💬 133 • ⏱️ 8:29 • 1d ago
 
 ---
 
-**[Bitcoin: Using On-Chain Metrics To Identify Market Cycle Bottoms](https://www.youtube.com/watch?v=Di8YR9nX8Q8)**
+**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
 
-This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
+Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 57K • 👍 4K • 💬 174 • ⏱️ 10:27 • 1d ago
+👁️ 25K • 👍 2K • 💬 355 • ⏱️ 20:54 • 1d ago
+
+---
+
+**[Every Bitcoin Bottom Started At This Line. We Just Touched It.](https://www.youtube.com/watch?v=-VsSwV5kYHs)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 502 • 💬 219 • ⏱️ 13:39 • 23h ago
+
+---
+
+**[URGENT BITCOIN !! 🚨 UNE ÉNORME NEWS ARRIVE !!](https://www.youtube.com/watch?v=8aMWFpDNOT0)**
+
+Une anomalie sans précédent vient de se produire sur le marché options du SP500 : le DEX est passé de -20 milliards à +1 050 ...
+
+📺 Crypto Le Trone
+
+👁️ 3K • 👍 501 • 💬 20 • ⏱️ 10:19 • 3h ago
+
+---
+
+**[The Weirdest Home Bitcoin Miner I’ve EVER Tested!](https://www.youtube.com/watch?v=jIq3PfXoHbU)**
+
+Checkout the MagicMiner WM02 Solo Bitcoin Miner from Today's Video ➤ https://geni.us/WM02HOBBYIST Use Checkout Code ...
+
+📺 The Hobbyist Miner
+
+👁️ 2K • 👍 68 • 💬 84 • ⏱️ 17:45 • 1d ago
 
 ---
 

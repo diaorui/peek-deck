@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-13T13:05:44.966578+00:00'
+updated: '2026-06-13T15:17:04.386237+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 13, 2026 at 13:05 UTC  
+**Last Updated:** June 13, 2026 at 15:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-20h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ I'm building an autonomous rover using ROS2. For mapping, I'm using SLAM Toolbox
 
 I am 16 years old and have absolutely no experience with Linux, and I am looking for a ROS 2 course. While the courses offered by The Construct seem quite comprehensive, I am concerned about some issues others have reported, such as incorrect quizzes, shallow content, or general quality problems. If you have experience with their courses, could you share how it went, or would you recommend other structured courses instead?
 
-1d ago
+2d ago
 
 ---
 
@@ -110,15 +110,17 @@ No the thumbnail is not fake and shes quite talented would not be surprised if s
 
 ## Google News: "robotics"
 
-**[Why It’s Nearly Impossible to Build a Robot Without China](https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html)**
+**[Watch This Humanoid Robot Move in Ways Your Hips Wouldn't Like](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation)**
 
-The New York Times • 2d ago
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 21h ago
 
 ---
 
 **[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -126,23 +128,23 @@ Barron's • 1d ago
 
 Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
 
-CNBC • 1h ago
+CNBC • 3h ago
 
 ---
 
-**[This football robot’s penalties are shocking experts—is it unstoppable now?](https://www.futura-sciences.com/en/this-football-robots-penalties-are-shocking-experts-is-it-unstoppable-now_33926/)**
+**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
 
-Beyond the Human Game: RoboCup Steps Up Just as the 2026 FIFA World Cup kicks off, some are gearing up for a very different kind of football tournament. But this one isn’t played by humans—it’s a battle of the robots. Since 1996, RoboCup has been an annual event where robotics...
+Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
 
-Futura, le média qui explore le monde • 46m ago
+Fox News • 1h ago
 
 ---
 
-**[Watch This Humanoid Robot Move in Ways Your Hips Wouldn't Like](https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation)**
+**[Soft robots get a tiny soft pump to move their bodies](https://newatlas.com/robotics/soft-robots-tiny-pump/)**
 
-Your weekly selection of awesome robot videos
+Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed,…
 
-IEEE Spectrum • 19h ago
+New Atlas • 12h ago
 
 ---
 
@@ -160,9 +162,9 @@ CNBC • 2d ago
 
 ---
 
-**[Tether Backs German Robotics Startup Neura in $1.4 Billion Round](https://www.bloomberg.com/news/articles/2026-06-10/tether-backs-german-robotics-startup-neura-in-1-4-billion-round)**
+**[Robotics Startup Lands Up to $1.4 Bln in Funding Round Backed by Nvidia](https://news.futunn.com/en/post/74441544/robotics-startup-lands-up-to-1-4-bln-in-funding)**
 
-Bloomberg.com • 2d ago
+富途牛牛 • 2d ago
 
 ---
 
@@ -170,7 +172,7 @@ Bloomberg.com • 2d ago
 
 Fairfax County supervisors on Tuesday (June 9) honored students from robotics teams at two schools for participation in recent international competition. The Hayfield Secondary School Night Hawks and Marshall High School Gryphon Robotics each competed in the FIRST Robotics World Championship, held in Houston April 29-May 2. About 600 squads from across the globe participated
 
-FFXnow • 17h ago
+FFXnow • 19h ago
 
 ---
 
@@ -178,7 +180,7 @@ FFXnow • 17h ago
 
 They were impressive, but could they ever feel human?
 
-The Atlantic • 1d ago
+The Atlantic • 2d ago
 
 ---
 
@@ -192,7 +194,7 @@ I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which f
 
 📺 The Hook Up
 
-👁️ 24K • 👍 596 • 💬 194 • ⏱️ 33:19 • 21h ago
+👁️ 26K • 👍 685 • 💬 204 • ⏱️ 33:19 • 1d ago
 
 ---
 
@@ -202,17 +204,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 94K • 👍 1K • 💬 148 • ⏱️ 6:09 • 3d ago
-
----
-
-**[Mini LEGO brick Pteranodon  transformer robot - Pterabot #LEGO #MOC #dinobot](https://www.youtube.com/watch?v=87CRNBaeanM)**
-
-A Pteranodon transforming robot that can be built easily with just 25 pieces – Pterabot! Parts list for these LEGO robots ...
-
-📺 BrickMecha
-
-👁️ 2K • 👍 53 • 💬 7 • ⏱️ 8:05 • 12h ago
+👁️ 97K • 👍 1K • 💬 151 • ⏱️ 6:09 • 3d ago
 
 ---
 
@@ -222,7 +214,17 @@ Did you know scientists are using "necrobotics" to turn deceased spiders into ti
 
 📺 Wealthy Capital
 
-👁️ 39K • 👍 169 • 💬 10 • ⏱️ 0:07 • 14h ago
+👁️ 41K • 👍 201 • 💬 12 • ⏱️ 0:07 • 16h ago
+
+---
+
+**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
+
+Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
+
+📺 Armourdesia Military Hardware
+
+👁️ 13K • 👍 752 • 💬 52 • ⏱️ 0:30 • 5h ago
 
 ---
 
@@ -232,7 +234,7 @@ China now builds 85% of the world's humanoid robots. Companies like Unitree and 
 
 📺 Firstpost
 
-👁️ 3K • 👍 44 • 💬 31 • ⏱️ 6:29 • 2d ago
+👁️ 4K • 👍 44 • 💬 31 • ⏱️ 6:29 • 2d ago
 
 ---
 
@@ -246,13 +248,13 @@ A humanoid hand sweats like human skin while tightening bolts for three hours st
 
 ---
 
-**[Martial Arts Performing Robot Kicks Boy in the Stomach](https://www.youtube.com/watch?v=RrbfIxpdxv0)**
+**[Mini LEGO brick Pteranodon  transformer robot - Pterabot #LEGO #MOC #dinobot](https://www.youtube.com/watch?v=87CRNBaeanM)**
 
-A young boy was accidentally kicked in the stomach by a performing robot during a martial arts demonstration in China.
+A Pteranodon transforming robot that can be built easily with just 25 pieces – Pterabot! Parts list for these LEGO robots ...
 
-📺 New York Post
+📺 BrickMecha
 
-👁️ 335K • 👍 6K • 💬 5K • ⏱️ 2:17 • 6d ago
+👁️ 3K • 👍 59 • 💬 10 • ⏱️ 8:05 • 14h ago
 
 ---
 
@@ -262,27 +264,27 @@ Unitree brought the future to the AGT 2026 stage with a performance that left th
 
 📺 Talent Replay
 
-👁️ 64K • 👍 697 • 💬 70 • ⏱️ 5:50 • 3d ago
+👁️ 65K • 👍 699 • 💬 70 • ⏱️ 5:50 • 3d ago
 
 ---
 
-**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
+**[The Company That Beat Tesla on EVs Is Now Building Humanoid Robots](https://www.youtube.com/watch?v=EbXtwJBNAWA)**
 
-Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
+SOURCES BYD confirms humanoid robot development, says future sales could use dealer network ...
 
-📺 Armourdesia Military Hardware
+📺 Jason Lowe on AI
 
-👁️ 4K • 👍 240 • 💬 11 • ⏱️ 0:30 • 3h ago
+👁️ 83K • 👍 3K • 💬 235 • ⏱️ 2:20 • 4d ago
 
 ---
 
-**[A Homemade Robot Walked Onto the Stage…Then Started Doing Flips](https://www.youtube.com/watch?v=7XwZjpO-MKQ)**
+**[This Robot is Replacing Electricians. 🤖](https://www.youtube.com/watch?v=qoR3Its7SkE)**
 
-Every acrobat needs a partner. Daniel Simu had plenty of them. They got injured. They quit. They moved to other countries.
+500000 volts. No insulation suit. No safety distance. Just a robot with multiple arms doing the job no human can. China's State ...
 
-📺 Top Viral Talent
+📺 KF Labs
 
-👁️ 183K • 👍 673 • 💬 46 • ⏱️ 4:52 • 3d ago
+👁️ 21K • 👍 601 • 💬 8 • ⏱️ 0:05 • 1d ago
 
 ---
 

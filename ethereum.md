@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T13:05:44.963309+00:00'
+updated: '2026-06-13T15:17:04.383339+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 13:05 UTC  
+**Last Updated:** June 13, 2026 at 15:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -0.7%  
+**24h:** +0.6%  
+**7d:** -0.6%  
 **30d:** -24.5%  
-**90d:** -28.6%  
+**90d:** -28.5%  
 **1y:** -33.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.17B
+**Market Cap:** $202.71B
 Rank #2
 
 **Circulating Supply:** 120,684,238 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-66.0%
 
 **All-Time Low:** $0.43
-+386837.9%
++387900.3%
 
 ---
 
@@ -94,7 +94,7 @@ I've launched Vattelum, an open-source project building a new legal system on Et
 
 **[What Crypto prediction lives rent free in your head?](https://www.reddit.com/r/ethereum/comments/1u30opm/what_crypto_prediction_lives_rent_free_in_your/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 Cronos (CRO), down 1.4% from Thursday, was also an underperformer.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 2d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 18h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Motley Fool • 18h ago
 
 Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -206,27 +206,27 @@ Seeking Alpha • 1d ago
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 19h ago
 
 ---
 
 **[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
-**[Michael Saylor Says Confidence in Ethereum Has Collapsed](https://coinpedia.org/news/michael-saylor-says-confidence-in-ethereum-has-collapsed/)**
+**[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
 
-Strategy chairman Michael Saylor has once again questioned Ethereum’s long-term position in the crypto market. According to him, growing competition from
+Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
 
-Coinpedia • 1d ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -234,23 +234,53 @@ Coinpedia • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[If You Own Ethereum - Watch This](https://www.youtube.com/watch?v=8Zju1jzzb3Y)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE The burn is dead.
+
+📺 Lark Davis
+
+👁️ 3K • 👍 323 • 💬 31 • ⏱️ 10:36 • 3h ago
+
+---
+
+**[Will Ethereum Outperform Bitcoin? The Structural Outlook](https://www.youtube.com/watch?v=jcobQN6VRzQ)**
+
+In this video I break down the current Ethereum price outlook and evaluate why the asset remains in a state of relative weakness ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 251 • 💬 20 • ⏱️ 14:06 • 4h ago
+
+---
+
+**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
+
+BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 198 • 💬 107 • ⏱️ 20:28 • 1h ago
+
+---
+
+**[$1,000 $ETH COMING? | My Longterm Ethereum Prediction!🚨](https://www.youtube.com/watch?v=hwRhqjYab3M)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 136 • 👍 18 • 💬 2 • ⏱️ 5:32 • 3h ago
+
+---
+
 **[ETHEREUM: THE BOTTOM IS NOT IN](https://www.youtube.com/watch?v=JwZkAWk8_bI)**
 
 The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 347 • 💬 206 • ⏱️ 12:37 • 2d ago
-
----
-
-**[XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!)](https://www.youtube.com/watch?v=TIW18EpM6Is)**
-
-XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, ...
-
-📺 NCashOfficial
-
-👁️ 6K • 👍 470 • 💬 52 • ⏱️ 15:23 • 1d ago
+👁️ 6K • 👍 350 • 💬 206 • ⏱️ 12:37 • 2d ago
 
 ---
 
@@ -264,13 +294,23 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 ---
 
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Zjr8XCeYjQI)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 245 • 👍 35 • ⏱️ 5:18 • 1h ago
+
+---
+
 **[This CRYPTO Indicator Has Hit EVERY Major Bottom...ETHEREUM Being Bought Like Crazy!](https://www.youtube.com/watch?v=7bVdWfDcfcQ)**
 
 My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 710 • 💬 297 • ⏱️ 11:58 • 2d ago
+👁️ 12K • 👍 712 • 💬 297 • ⏱️ 11:58 • 2d ago
 
 ---
 
@@ -280,7 +320,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 486 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
+👁️ 490 • 👍 20 • 💬 5 • ⏱️ 5:41 • 1d ago
 
 ---
 
@@ -290,47 +330,7 @@ SHOCKING $1.1 TRILLION GONE IN ONE DAY Saylor Issues Brutal Ethereum Warning as 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 321 • 💬 28 • ⏱️ 21:04 • 1d ago
-
----
-
-**[अगले 4 साल में Ethereum देगा Bitcoin को टक्कर? | Sagar Sinha Podcast Clips](https://www.youtube.com/watch?v=je4AL2tAd58)**
-
-In this special episode of the Sagar Sinha Podcast, we sit down with Gajendra Singh Shekhawat, Hon'ble Union Minister for ...
-
-📺 Sagar Sinha Podcast Clips
-
-👁️ 9K • 👍 369 • 💬 40 • ⏱️ 7:22 • 23h ago
-
----
-
-**[Ethereum (ETH) Price Action Update! — June 2026](https://www.youtube.com/watch?v=ina_YHr1ybo)**
-
-In this video, we break down Ethereum's latest price action after a sharp selloff over the past week and analyze what could be ...
-
-📺 Gordon Frayne
-
-👁️ 231 • 👍 21 • 💬 9 • ⏱️ 10:11 • 1d ago
-
----
-
-**[ACUERDO en IRÁN ¿CASI CONFIRMADO? ✅ BTC, SPACEX y ETH](https://www.youtube.com/watch?v=ImZW7a5pVbo)**
-
-Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
-
-📺 Alvarburn
-
-👁️ 3K • 👍 292 • 💬 10 • ⏱️ 13:24 • 1d ago
-
----
-
-**[Meine neuen Kursziele für BTC &amp; ETH](https://www.youtube.com/watch?v=01k5W5RyALI)**
-
-In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Bitcoin und Ethereum sowie die wichtigsten ...
-
-📺 Charts & Cars by Philip Klinkmüller
-
-👁️ 33K • 👍 3K • 💬 150 • ⏱️ 22:40 • 1d ago
+👁️ 7K • 👍 320 • 💬 28 • ⏱️ 21:04 • 1d ago
 
 ---
 
