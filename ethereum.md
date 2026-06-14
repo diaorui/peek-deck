@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T01:55:09.812500+00:00'
+updated: '2026-06-14T06:41:58.501363+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 01:55 UTC  
+**Last Updated:** June 14, 2026 at 06:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,673.56
+### $1,681.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -0.3%  
-**30d:** -22.7%  
-**90d:** -27.2%  
-**1y:** -33.8%  
+**24h:** +0.1%  
+**7d:** -0.7%  
+**30d:** -23.0%  
+**90d:** -27.6%  
+**1y:** -34.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $203.39B
+**Market Cap:** $202.32B
 Rank #2
 
 **Circulating Supply:** 120,684,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.9%
+-66.1%
 
 **All-Time Low:** $0.43
-+389184.5%
++387062.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -110,7 +110,7 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I still can't understand how ETH wants to become private when we can see all the transactions on etherscan. What is a new Privacy Upgrade? Is it going to be on L1?
 
-2d ago
+3d ago
 
 ---
 
@@ -134,7 +134,7 @@ Hey everyone, I've been running a solo validator for about 8 months now and want
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -154,15 +154,15 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 9h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
+**[BitMine Immersion (BMNR) Reports $9.6B Crypto and Cash Holdings, Led by Ethereum Treasury](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-reports-9-193428427.html)**
 
-The world's second-largest cryptocurrency is still a compelling investment.
+BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion reported that its total crypto and cash holdings reached $9.6 billion, driven primarily by a large Ethereum/ETH treasury position. The company disclosed holdings of over 5.5 million ETH, alongside smaller Bitcoin positions, […]
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -186,25 +186,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin)**
-
-Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
-
-The Block • 3d ago
-
----
-
 **[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 20h ago
+TradingView • 1d ago
 
 ---
 
 **[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/?p=607935)**
 
-AMBCrypto • 4h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -214,17 +206,25 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
+
+CCN.com • 1d ago
+
+---
+
 **[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
 
 Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
 
-Crypto Briefing • 20h ago
+Crypto Briefing • 1d ago
 
 ---
 
-**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
 
-CCN.com • 1d ago
+Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
+
+FXStreet • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 10K • 👍 601 • 💬 66 • ⏱️ 10:36 • 13h ago
+👁️ 12K • 👍 655 • 💬 93 • ⏱️ 10:36 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 347 • 💬 20 • ⏱️ 14:06 • 15h ago
+👁️ 7K • 👍 359 • 💬 21 • ⏱️ 14:06 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 1K • 👍 25 • 💬 2 • ⏱️ 0:45 • 9h ago
+👁️ 2K • 👍 30 • 💬 2 • ⏱️ 0:45 • 14h ago
 
 ---
 
@@ -268,17 +268,7 @@ This video is about the Ethereum cryptocurrency.
 
 📺 Crypto Wealth Transfer
 
-👁️ 2K • 👍 197 • 💬 48 • ⏱️ 22:47 • 13h ago
-
----
-
-**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
-
-BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 403 • 💬 218 • ⏱️ 20:28 • 12h ago
+👁️ 2K • 👍 210 • 💬 50 • ⏱️ 22:47 • 18h ago
 
 ---
 
@@ -288,17 +278,27 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 9K • 👍 911 • 💬 182 • ⏱️ 34:45 • 12h ago
+👁️ 10K • 👍 947 • 💬 203 • ⏱️ 34:45 • 17h ago
 
 ---
 
-**[$1,000 $ETH COMING? | My Longterm Ethereum Prediction!🚨](https://www.youtube.com/watch?v=hwRhqjYab3M)**
+**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 404 • 👍 24 • 💬 3 • ⏱️ 5:32 • 14h ago
+👁️ 11K • 👍 432 • 💬 195 • ⏱️ 20:28 • 17h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opNCYoSVyYk)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 652 • 👍 85 • ⏱️ 6:39 • 4h ago
 
 ---
 
@@ -308,27 +308,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Romanov Crypto
 
-👁️ 2K • 👍 97 • 💬 12 • ⏱️ 7:45 • 10h ago
+👁️ 2K • 👍 108 • 💬 13 • ⏱️ 7:45 • 15h ago
 
 ---
 
-**[Ethereum Rejected Resistance: Further Drops Coming?](https://www.youtube.com/watch?v=bKrGqL6OfLw)**
+**[💀 Whales Move 290,000 ETH - ETH Crypto Analysis](https://www.youtube.com/watch?v=OlwILA0wDM0)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
 
-📺 Trade Confident
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 496 • 👍 20 • 💬 5 • ⏱️ 5:41 • 2d ago
+👁️ 5K • 👍 163 • 💬 41 • ⏱️ 16:46 • 2d ago
 
 ---
 
-**[XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!)](https://www.youtube.com/watch?v=TIW18EpM6Is)**
+**[$1,000 $ETH COMING? | My Longterm Ethereum Prediction!🚨](https://www.youtube.com/watch?v=hwRhqjYab3M)**
 
-XRP UTILITY SHOCKER! WE JUST FLIPPED ETHEREUM! (THIS IS INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 NCashOfficial
+📺 Cilinix Crypto
 
-👁️ 7K • 👍 474 • 💬 52 • ⏱️ 15:23 • 2d ago
+👁️ 432 • 👍 27 • 💬 3 • ⏱️ 5:32 • 19h ago
 
 ---
 
