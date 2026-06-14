@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-13T23:05:21.323529+00:00'
+updated: '2026-06-14T01:55:09.812500+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 23:05 UTC  
+**Last Updated:** June 14, 2026 at 01:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -0.6%  
-**30d:** -24.4%  
-**90d:** -28.5%  
-**1y:** -33.6%  
+**24h:** +1.1%  
+**7d:** -0.3%  
+**30d:** -22.7%  
+**90d:** -27.2%  
+**1y:** -33.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $203.64B
+**Market Cap:** $203.39B
 Rank #2
 
-**Circulating Supply:** 120,684,238 ETH
+**Circulating Supply:** 120,684,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -65.9%
 
 **All-Time Low:** $0.43
-+389621.0%
++389184.5%
 
 ---
 
@@ -102,7 +102,7 @@ I've launched Vattelum, an open-source project building a new legal system on Et
 
 A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 2d ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 3d ago
 
 ---
 
@@ -154,15 +154,15 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
+**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
 
-Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
+The world's second-largest cryptocurrency is still a compelling investment.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -198,33 +198,33 @@ The Block • 3d ago
 
 More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
-TradingView • 17h ago
+TradingView • 20h ago
+
+---
+
+**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/?p=607935)**
+
+AMBCrypto • 4h ago
 
 ---
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
+
+Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
+
+Crypto Briefing • 20h ago
 
 ---
 
 **[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
 
 CCN.com • 1d ago
-
----
-
-**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
-
-AMBCrypto • 2h ago
-
----
-
-**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
-
-Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
-
-Seeking Alpha • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 9K • 👍 543 • 💬 59 • ⏱️ 10:36 • 11h ago
+👁️ 10K • 👍 601 • 💬 66 • ⏱️ 10:36 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 337 • 💬 18 • ⏱️ 14:06 • 12h ago
+👁️ 7K • 👍 347 • 💬 20 • ⏱️ 14:06 • 15h ago
 
 ---
 
@@ -258,17 +258,17 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 828 • 👍 17 • 💬 2 • ⏱️ 0:45 • 7h ago
+👁️ 1K • 👍 25 • 💬 2 • ⏱️ 0:45 • 9h ago
 
 ---
 
-**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
+**[ETHEREUM WILL CRASH TO $100!](https://www.youtube.com/watch?v=TviGaAAOIN8)**
 
-En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
+This video is about the Ethereum cryptocurrency.
 
-📺 Emir Şahin
+📺 Crypto Wealth Transfer
 
-👁️ 7K • 👍 830 • 💬 127 • ⏱️ 34:45 • 9h ago
+👁️ 2K • 👍 197 • 💬 48 • ⏱️ 22:47 • 13h ago
 
 ---
 
@@ -278,17 +278,17 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 361 • 💬 121 • ⏱️ 20:28 • 9h ago
+👁️ 10K • 👍 403 • 💬 218 • ⏱️ 20:28 • 12h ago
 
 ---
 
-**[ETHEREUM: THE BOTTOM IS NOT IN](https://www.youtube.com/watch?v=JwZkAWk8_bI)**
+**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
 
-📺 Jordan Camirand
+📺 Emir Şahin
 
-👁️ 7K • 👍 351 • 💬 205 • ⏱️ 12:37 • 2d ago
+👁️ 9K • 👍 911 • 💬 182 • ⏱️ 34:45 • 12h ago
 
 ---
 
@@ -298,17 +298,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 367 • 👍 24 • 💬 3 • ⏱️ 5:32 • 11h ago
+👁️ 404 • 👍 24 • 💬 3 • ⏱️ 5:32 • 14h ago
 
 ---
 
-**[💀 Whales Move 290,000 ETH - ETH Crypto Analysis](https://www.youtube.com/watch?v=OlwILA0wDM0)**
+**[ETHEREUM одно видео и ты поймешь что сейчас происходит](https://www.youtube.com/watch?v=x4fD3mHUIsE)**
 
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+Торгую на бирже Bybit: https://www.bybit.com/register?affiliate_id=53351&group_id=0&group_type=1 Как перевести аккаунт к ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Romanov Crypto
 
-👁️ 4K • 👍 161 • 💬 41 • ⏱️ 16:46 • 2d ago
+👁️ 2K • 👍 97 • 💬 12 • ⏱️ 7:45 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 493 • 👍 20 • 💬 5 • ⏱️ 5:41 • 2d ago
+👁️ 496 • 👍 20 • 💬 5 • ⏱️ 5:41 • 2d ago
 
 ---
 

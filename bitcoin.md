@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-13T23:05:21.317370+00:00'
+updated: '2026-06-14T01:55:09.806432+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 13, 2026 at 23:05 UTC  
+**Last Updated:** June 14, 2026 at 01:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,646.81
+### $64,625.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.8%  
-**30d:** -18.5%  
-**90d:** -13.9%  
-**1y:** -38.9%  
+**24h:** +1.5%  
+**7d:** +2.4%  
+**30d:** -17.3%  
+**90d:** -12.5%  
+**1y:** -38.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.71B
+**Market Cap:** $1294.79B
 Rank #1
 
-**Circulating Supply:** 20,042,318 BTC
+**Circulating Supply:** 20,042,393 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -48.8%
 
 **All-Time Low:** $67.81
-+95161.8%
++95169.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Keep buying before the institutions get all these cheap bitcoins. The institutions have been gobbling up bitcoin right now. I have access to institution data. They are holding bitcoin at highest record and all time high now. They are shaking out every retail trader weak hands . They will accumulate the price goes up. So they short it with futures and options and bring it back down and they accumulate again. https://preview.redd.it/tyw1nqtlo27h1.png?width=2464&format=png&auto=webp&s=1a39097f745bef7ae272930bffb542759bb29a4e
 
-9h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Keep buying before the institutions get all these cheap bitcoins. The institutio
 
 You can see the live difficulty here: https://newhedge.io/bitcoin/difficulty-estimator
 
-11h ago
+14h ago
 
 ---
 
@@ -97,13 +97,13 @@ You can see the live difficulty here: https://newhedge.io/bitcoin/difficulty-est
 
 Has anyone here actually tried the 500-day Bitcoin halving strategy? The idea is simple: Buy 500 days before a Bitcoin halving Sell 500 days after the halving Looking at previous cycles, the returns seem surprisingly strong: • Cycle 1: 31x • Cycle 2: 34x • Cycle 3: 12x • Cycle 4: 6.4x No indicators, no active trading, no trying to time tops and bottoms. If historical patterns continue, the next buy window would start around December 1, 2026. What am I missing here? Is this one of the most effective long-term Bitcoin strategies, or is it just a case of curve-fitting past data?
 
-11h ago
+14h ago
 
 ---
 
 **[Enjoy it while it lasts](https://www.reddit.com/r/Bitcoin/comments/1u4m8d1/enjoy_it_while_it_lasts/)**
 
-13h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ Has anyone here actually tried the 500-day Bitcoin halving strategy? The idea is
 
 I’ve talked to several people who didn’t buy at 16K because they thought it would go down to 12.5K A few more who never bought in Jan 2024 because they thought it would break below 30K I just talked to another friend who said it should come down to 55K, then I’ll buy. What if it doesn’t? If you’re one of these people, you want to invest but think you can wait till the bottom to go all in, you will miss out. This is a great level. Especially if you don’t already own any. Invest half now of whatever your maximum investment amount is. If it goes lower invest more. When it makes a new ATH you’re not going care if you got in at 65 or 55. You will just be happy you got in! Make the choice, don’t miss out
 
-4h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giving it much thought. Over the course of that year, they deposited small amounts of Bitcoin into it. When they later wanted to cash out, they couldn't remember ever encrypting the wallet in the first place. While attempting to recover access at the time, they filled out the following form (see image). The version of Bitcoin Core available back then displayed the following recommendation when encrypting a wallet: This was only a recommendation. The actual technical requirement was simply that the passphrase contain more than one character. Today, the owner believes the password may contain the word "wallet" (or its Spanish equivalent, "billetera"). His name is Guillermo Ariel Ramirez, birthday 21-nov-1969, from Argentina. Offline page for manual testing: https://mrbianchi.github.io/decrypter16btc-web/ Hashcat hash for anyone who wants to attempt brute force: $bitcoin$96$1bbd24dc0f23175483d619a24e15f4a06e7e1d3d8b13d9a979b7f4223792836f50520c27c698fa9468ff95f481b888f0$16$65e1017f33467568$63533$2$00$2$00 In 2018, I made a similar post in the Bitcoin Argentina Facebook group: https://facebook.com/groups/351870631591732/?multi_permalinks=1569987566446693 For those who don't know me, I've completed numerous projects within that community involving wallet recovery and the recovery of cryptocurrency balances. https://preview.redd.it/surzl9x9h47h1.png?width=3525&format=png&auto=webp&s=075c6622dba32e4b909977c4c3d637e8fa74986e https://preview.redd.it/6yhesw6dh47h1.png?width=1080&format=png&auto=webp&s=8ea8955bdc40bf87009740b377859ac29c8c9f20 https://www.blockchain.com/es/explorer/addresses/btc/189JveWz2WP79oYU9Gq4NUfiurbiuNPUhn
 
-1h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 I’ve been seeing a lot of "investment" subreddits posting memes lately, hyping up a potential SpaceX IPO while throwing trash at Bitcoin because it’s "stuck" at around $60k–$63k instead of hitting $1 million overnight. It honestly blows my mind how short-sighted the general public is. They act as if traditional stocks or fiat currency have some magical "tangible value," completely ignoring that corporate valuations are heavily inflated and fiat is guaranteed to lose purchasing power year after year. People completely ignore the macro perspective: • The rising floor: A few years ago, the cycle floor was $15k. Now, the floor has established itself between $30k–$60k. That is massive structural growth, but critics choose to look away. • The predictable cycle: We all know how this ends. Bitcoin will eventually climb to $250k–$300k in the coming years. When it does, the exact same crowd calling it "garbage" right now will FOMO in at the absolute top, screaming about a bubble while buying our bags. Why is the average retail investor so blind to the reality of currency devaluing and Bitcoin's higher lows? Is it just pure coping because they missed the early boats?
 
-5h ago
+8h ago
 
 ---
 
@@ -135,19 +135,19 @@ I’ve been seeing a lot of "investment" subreddits posting memes lately, hyping
 
 December 18, 2013. Bitcoin had just crashed from $1,100 to $600 in a matter of days. A forum user named GameKyuubi sat down at his keyboard, by his own admission a bit drunk, and posted a thread called "I AM HODLING." He didn't try to fix the typo. He explained that he knew he was a bad trader, that he'd lose to people who actually knew what they were doing if he tried to time the market, so he'd decided to just sit on his Bitcoin and wait. The community ran with it. The word never went away. "Hold On for Dear Life" was invented after the fact to explain a word that already existed. Classic backronym. The funny thing is that his reasoning was actually solid. He identified his own weakness, and the best solution he came up with was to do nothing. That's essentially passive long-term investing applied to crypto, and for Bitcoin specifically the track record has backed it up every single time, through every crash that was supposed to be the end. The most rational strategy in crypto came from a drunk guy who couldn't spell on a Tuesday night in 2013. Feels right.
 
-13h ago
+16h ago
 
 ---
 
 **[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
 
-18m ago
+3h ago
 
 ---
 
 **[Study Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1u4puv4/study_bitcoin/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -159,7 +159,7 @@ December 18, 2013. Bitcoin had just crashed from $1,100 to $600 in a matter of d
 
 The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
 
-Forbes • 11h ago
+Forbes • 14h ago
 
 ---
 
@@ -167,15 +167,15 @@ Forbes • 11h ago
 
 Having peaked last year, the cryptocurrency has now lost half its value
 
-The Globe and Mail • 12h ago
+The Globe and Mail • 14h ago
 
 ---
 
-**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
+**[With Bitcoin Down 21% in 1 Month, Is It Still Worth Buying and Holding Forever?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-21-1-month-004100383.html)**
 
-Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
+Holders are dumping this coin, and it's probably a bit shortsighted.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,17 +211,11 @@ Forbes • 1d ago
 
 ---
 
-**[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
+**[Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse](https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse)**
 
-The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
+The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.
 
-CoinDesk • 35m ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg • 1d ago
+The Block • 7h ago
 
 ---
 
@@ -230,6 +224,12 @@ Bloomberg • 1d ago
 Bitcoin eyes a policy boost as the Clarity Act nears approval.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Bitcoin’s long-term return may actually be close to zero — and that could be just what it needs](https://www.marketwatch.com/story/bitcoin-at-1-million-the-math-points-to-a-wildly-different-number-cb835b8a)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -242,14 +242,6 @@ Seeking Alpha • 1d ago
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
 ⬆️ 6 • 💬 3 • 2d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
-
----
-
-**[Bitcoin is cratering, but there is a new Wall Street crypto HYPE](https://news.ycombinator.com/item?id=48430892)**
-
-As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.
-
-⬆️ 6 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html)
 
 ---
 
@@ -303,7 +295,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Newer packages in this compromise use native extensions and .pth loaders to execute JavaScript stealers in developer environments.
 
-⬆️ 2 • 💬 0 • 13h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
+⬆️ 2 • 💬 0 • 16h ago • [Socket](https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious)
 
 ---
 
@@ -325,7 +317,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 106 • ⏱️ 8:42 • 23h ago
+👁️ 35K • 👍 2K • 💬 108 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -335,7 +327,17 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 5K • 👍 488 • 💬 82 • ⏱️ 11:00 • 7h ago
+👁️ 8K • 👍 578 • 💬 190 • ⏱️ 11:00 • 10h ago
+
+---
+
+**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 4K • 👍 341 • 💬 168 • ⏱️ 17:52 • 4h ago
 
 ---
 
@@ -345,17 +347,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 289 • 💬 29 • ⏱️ 19:27 • 1d ago
+👁️ 9K • 👍 303 • 💬 30 • ⏱️ 19:27 • 1d ago
 
 ---
 
-**[Bitcoin, Gold and Silver Are ALL Crashing — Here&#39;s Why I&#39;m Not Selling!](https://www.youtube.com/watch?v=2XzYUUvpfo8)**
+**[Bitcoin Is About To Make Everyone Look Stupid | Joe Consorti](https://www.youtube.com/watch?v=USS1sWjINUU)**
 
-Inflation is rising again, the Fed may be forced back into hikes, gold and silver are already breaking down, and Bitcoin is being ...
+Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Michael Saylor's recent Bitcoin moves and why the ...
 
-📺 Simply Bitcoin
+📺 Crypto Insider
 
-👁️ 25K • 👍 2K • 💬 358 • ⏱️ 20:54 • 2d ago
+👁️ 21K • 👍 1K • 💬 52 • ⏱️ 55:10 • 9h ago
 
 ---
 
@@ -365,17 +367,17 @@ Inflation is rising again, the Fed may be forced back into hikes, gold and silve
 
 📺 What Bitcoin Did
 
-👁️ 21K • 👍 817 • 💬 334 • ⏱️ 1:04:38 • 1d ago
+👁️ 23K • 👍 852 • 💬 366 • ⏱️ 1:04:38 • 1d ago
 
 ---
 
-**[Bitcoin’s Hidden Bull Signal: Is $75K Next?](https://www.youtube.com/watch?v=f6Q_ZgeSOh4)**
+**[I’m Buying Bitcoin; Here’s Why | Eric Krown](https://www.youtube.com/watch?v=1hrA9NUZ-WE)**
 
-Bitcoin is showing a hidden bullish signal that could trigger a massive relief rally to $75000. In this video, Chief Market Strategist ...
+Alessandro explains that making money in cryptocurrency has become increasingly difficult as the market institutionalizes, with a ...
 
-📺 Gareth Soloway
+📺 Crypto Banter
 
-👁️ 52K • 👍 3K • 💬 310 • ⏱️ 14:32 • 1d ago
+👁️ 4K • 👍 258 • 💬 9 • ⏱️ 46:11 • 8h ago
 
 ---
 
@@ -385,17 +387,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 516 • 💬 245 • ⏱️ 13:39 • 1d ago
-
----
-
-**[SpaceX + Bitcoin: This Could Change Everything](https://www.youtube.com/watch?v=UOxo1N_UA1E)**
-
-AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 966 • 💬 101 • ⏱️ 1:10:59 • 1d ago
+👁️ 8K • 👍 519 • 💬 245 • ⏱️ 13:39 • 1d ago
 
 ---
 
@@ -405,17 +397,17 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 44K • 👍 4K • 💬 132 • ⏱️ 1:24 • 1d ago
+👁️ 45K • 👍 4K • 💬 134 • ⏱️ 1:24 • 1d ago
 
 ---
 
-**[Bitcoin Holders: This Is Hard To Ignore Now (Top 3 Crypto Coins)](https://www.youtube.com/watch?v=ZmfUGwmPq6k)**
+**[Bitcoin: Using On-Chain Metrics To Identify Market Cycle Bottoms](https://www.youtube.com/watch?v=Di8YR9nX8Q8)**
 
-This Is Hard To Ignore Now... (Top 3 Coins) 50% deposit bonus on first $100 on WEEX: ...
+This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 152 • ⏱️ 8:18 • 2d ago
+👁️ 61K • 👍 4K • 💬 178 • ⏱️ 10:27 • 1d ago
 
 ---
 
