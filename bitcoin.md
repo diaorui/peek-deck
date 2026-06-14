@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-14T21:13:24.942103+00:00'
+updated: '2026-06-14T22:41:31.926671+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 21:13 UTC  
+**Last Updated:** June 14, 2026 at 22:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,033.75
+### $65,424.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +1.5%  
-**30d:** -18.1%  
-**90d:** -13.4%  
-**1y:** -39.3%  
+**24h:** +1.4%  
+**7d:** +3.5%  
+**30d:** -16.4%  
+**90d:** -11.6%  
+**1y:** -38.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When everyone's telling me to "go all in" while it's cheap, but I went all in months ago.](https://www.reddit.com/r/Bitcoin/comments/1u5j1cq/when_everyones_telling_me_to_go_all_in_while_its/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-4h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Happy to share that I’ve just added a new NerdQX to my home mining setup. My t
 
 People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 7h ago
 
 ---
 
@@ -109,13 +109,13 @@ People need to stop deferring to @giacomozucco for their opinions on BIP110. His
 
 Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giving it much thought. Over the course of that year, they deposited small amounts of Bitcoin into it. When they later wanted to cash out, they couldn't remember ever encrypting the wallet in the first place. While attempting to recover access at the time, they filled out the following form (see image). The version of Bitcoin Core available back then displayed the following recommendation when encrypting a wallet: This was only a recommendation. The actual technical requirement was simply that the passphrase contain more than one character. Today, the owner believes the password may contain the word "wallet" (or its Spanish equivalent, "billetera"). His name is Guillermo Ariel Ramirez, birthday 21-nov-1969, from Argentina. Offline page for manual testing: https://mrbianchi.github.io/decrypter16btc-web/ Hashcat hash for anyone who wants to attempt brute force: $bitcoin$96$1bbd24dc0f23175483d619a24e15f4a06e7e1d3d8b13d9a979b7f4223792836f50520c27c698fa9468ff95f481b888f0$16$65e1017f33467568$63533$2$00$2$00 In 2018, I made a similar post in the Bitcoin Argentina Facebook group: https://facebook.com/groups/351870631591732/?multi_permalinks=1569987566446693 For those who don't know me, I've completed numerous projects within that community involving wallet recovery and the recovery of cryptocurrency balances. https://preview.redd.it/surzl9x9h47h1.png?width=3525&format=png&auto=webp&s=075c6622dba32e4b909977c4c3d637e8fa74986e https://preview.redd.it/6yhesw6dh47h1.png?width=1080&format=png&auto=webp&s=8ea8955bdc40bf87009740b377859ac29c8c9f20 https://www.blockchain.com/es/explorer/addresses/btc/189JveWz2WP79oYU9Gq4NUfiurbiuNPUhn
 
-23h ago
+1d ago
 
 ---
 
 **[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
-5h ago
+7h ago
 
 ---
 
@@ -131,7 +131,7 @@ Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
 Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +139,7 @@ Right now is very good time to make order in your UTXOs and withdraw your BTC fr
 
 Buy Bitcoin
 
-5h ago
+6h ago
 
 ---
 
@@ -155,6 +155,14 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 ## Google News: "bitcoin"
 
+**[Is Bitcoin the Safest Crypto to Own Right Now?](https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/)**
+
+The world's top cryptocurrency is still safer than the smaller altcoins.
+
+The Motley Fool • 4h ago
+
+---
+
 **[Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse](https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse)**
 
 The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.
@@ -163,11 +171,11 @@ The Block • 1d ago
 
 ---
 
-**[Is Bitcoin the Safest Crypto to Own Right Now?](https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/)**
+**[Donald Trump: Deal With Iran is Complete – Bitcoin, Gold and Oil React](https://finance.yahoo.com/markets/commodities/articles/donald-trump-deal-iran-complete-212746066.html)**
 
-The world's top cryptocurrency is still safer than the smaller altcoins.
+Pakistani Prime Minister Shehbaz Sharif announced that the US and Iran have reached a peace agreement: Bitcoin, Gold and Oil React.
 
-The Motley Fool • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,45 +183,15 @@ The Motley Fool • 2h ago
 
 Michael Saylor unveils new Bitcoin metrics for MicroStrategy as critics warn the KPIs mask leverage and dilution risk.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
+**[Bitcoin Price Will Hit $250,000 in Next 6 Months, Says Famed Investor Mike Alfred — Here’s His Thesis](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-250-000-114715646.html)**
 
-Having peaked last year, the cryptocurrency has now lost half its value
-
-The Globe and Mail • 1d ago
-
----
-
-**[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
-
-The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
-
-CoinDesk • 22h ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy, SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bottom-hunters-eyeing-ai-143829336.html)**
-
-(Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
+Mike Alfred said Bitcoin could climb to between $150,000 and $250,000 in its next major move. Alfred reiterated that Bitcoin will eventually reach $1 million. ...
 
 Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin tops $64,000 as ETF inflows rebound, SpaceX boosts crypto sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-advances-as-spacexs-13-billion-crypto-reserve-draws-attention-4741070)**
-
-Investing.com • 12h ago
-
----
-
-**[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
-
-The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
-
-Forbes • 1d ago
 
 ---
 
@@ -225,11 +203,35 @@ CNBC • 2d ago
 
 ---
 
-**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
+**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Having peaked last year, the cryptocurrency has now lost half its value
 
-Fortune • 2d ago
+The Globe and Mail • 1d ago
+
+---
+
+**[Bitcoin could crash to $48,000, if this historical pattern is triggered](https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered)**
+
+Bitcoin has never escaped a particular Fibonacci pattern since it started trading in 2010. Here is what it suggests about where prices could go next.
+
+CoinDesk • 3h ago
+
+---
+
+**[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
+
+The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy, SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bottom-hunters-eyeing-ai-143829336.html)**
+
+(Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -273,7 +275,7 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
 
-⬆️ 2 • 💬 0 • 2h ago • [kicksats.com](https://kicksats.com/)
+⬆️ 2 • 💬 0 • 4h ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -347,7 +349,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 13K • 👍 654 • 💬 239 • ⏱️ 17:52 • 23h ago
+👁️ 13K • 👍 654 • 💬 239 • ⏱️ 17:52 • 1d ago
 
 ---
 
@@ -357,7 +359,7 @@ GIANT News For Bitcoin, Ethereum, & Altcoins (Clarity Act Moves Forward?) ⭐ Fo
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 189 • ⏱️ 9:33 • 23h ago
+👁️ 24K • 👍 2K • 💬 189 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ Critics keep screaming that Strategy will be a forced seller of Bitcoin, so Stra
 
 📺 The Wolf Of All Streets
 
-👁️ 303 • 👍 20 • 💬 62 • ⏱️ 1:06 • 1h ago
+👁️ 303 • 👍 20 • 💬 62 • ⏱️ 1:06 • 2h ago
 
 ---
 

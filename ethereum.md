@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T21:13:24.948261+00:00'
+updated: '2026-06-14T22:41:31.932643+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 21:13 UTC  
+**Last Updated:** June 14, 2026 at 22:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -1.2%  
-**30d:** -23.4%  
-**90d:** -27.9%  
-**1y:** -34.4%  
+**24h:** +2.5%  
+**7d:** +1.9%  
+**30d:** -21.0%  
+**90d:** -25.7%  
+**1y:** -32.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve read opinions that, in today’s market, ETH sellers are, by and large, individual/retail investors and buyers whales and institutions. Is this a valid observation? If so, what are the implications if it persists?
 
-2d ago
+3d ago
 
 ---
 
@@ -164,7 +164,15 @@ CoinDesk • 1d ago
 
 Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[BitMine's Preferred Stock Begins Trading This Week As Ethereum Heads For Its Worst First Half Since 2022](https://www.tradingview.com/news/stocktwits:098faa06b094b:0-bitmine-s-preferred-stock-begins-trading-this-week-as-ethereum-heads-for-its-worst-first-half-since-2022/)**
+
+BitMine Immersion Technologies' (BMNR) Class A perpetual preferred shares have been approved for listing on the New York Stock Exchange (NYSE) under the ticker “BMNP” and are expected to begin trading on Tuesday, June 16, carrying an annualized dividend yield of 9.50%.On Sunday, Bitmine’s Board of…
+
+TradingView • 7h ago
 
 ---
 
@@ -200,19 +208,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
-
-More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
-
-TradingView • 1d ago
-
----
-
 **[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
 
-TipRanks • 10h ago
+TipRanks • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 5K • 👍 264 • 💬 35 • ⏱️ 20:10 • 6h ago
+👁️ 5K • 👍 264 • 💬 35 • ⏱️ 20:10 • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ Joseph Chalom breaks down why ETH is winning by a large margin across stablecoin
 
 📺 The Rollup
 
-👁️ 1K • 👍 71 • 💬 12 • ⏱️ 6:28 • 4h ago
+👁️ 1K • 👍 71 • 💬 12 • ⏱️ 6:28 • 6h ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 ALDERAMIN
 
-👁️ 2K • 👍 156 • 💬 34 • ⏱️ 7:21 • 12h ago
+👁️ 2K • 👍 156 • 💬 34 • ⏱️ 7:21 • 14h ago
 
 ---
 

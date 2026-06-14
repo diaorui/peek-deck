@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T21:13:24.951035+00:00'
+updated: '2026-06-14T22:41:31.935859+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 21:13 UTC  
+**Last Updated:** June 14, 2026 at 22:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,25 +106,11 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
-
-Barron's • 3d ago
-
----
-
 **[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
-The Guardian • 1h ago
-
----
-
-**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
-
-Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
-
-CNBC • 1d ago
+The Guardian • 2h ago
 
 ---
 
@@ -136,9 +122,45 @@ Nautilus | Science • 2d ago
 
 ---
 
-**[NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe](https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-partners-nebius-192521134.html)**
+**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
 
-NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
+WSJ • 2d ago
+
+---
+
+**[I Lent My Apartment to an AI Company](https://www.thefp.com/p/ai-company-robot-cleaning-apartment)**
+
+“Two college kids showed up with Clorox, and cameras on their heads—and filmed themselves cleaning,” writes Suzy Weiss. “The footage will train robots. I feel awkward about it.”
+
+The Free Press • 2d ago
+
+---
+
+**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
+
+A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
+
+Futurism • 1d ago
+
+---
+
+**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
+
+Barron's • 3d ago
+
+---
+
+**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
+
+Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
+
+CNBC • 1d ago
+
+---
+
+**[Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens](https://finance.yahoo.com/markets/stocks/articles/amazon-expands-satellite-cloud-robotics-200831338.html)**
+
+Amazon.com (NasdaqGS:AMZN) plans to acquire Apple’s 20% stake in satellite operator Globalstar as part of an $11.6b satellite communications agreement tied to its Project Leo plans. The company also announced a new multi billion dollar AWS partnership with Pinterest, expanding its cloud reach into a major social media platform. In Europe, Amazon is rolling out a new generation of AI powered warehouse robots aimed at improving fulfillment efficiency and logistics capabilities. Amazon.com,...
 
 Yahoo Finance • 1d ago
 
@@ -148,7 +170,7 @@ Yahoo Finance • 1d ago
 
 ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -157,26 +179,6 @@ The Motley Fool • 8h ago
 A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
 
 NASA Science (.gov) • 3d ago
-
----
-
-**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
-
-WSJ • 2d ago
-
----
-
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[I Lent My Apartment to an AI Company](https://www.thefp.com/p/ai-company-robot-cleaning-apartment)**
-
-“Two college kids showed up with Clorox, and cameras on their heads—and filmed themselves cleaning,” writes Suzy Weiss. “The footage will train robots. I feel awkward about it.”
-
-The Free Press • 2d ago
 
 ---
 
@@ -210,7 +212,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 126K • 👍 2K • 💬 167 • ⏱️ 6:09 • 4d ago
+👁️ 126K • 👍 2K • 💬 167 • ⏱️ 6:09 • 5d ago
 
 ---
 
@@ -230,7 +232,7 @@ At first glance this material looks like polished metal, yet it bends, twists an
 
 📺 Machines In Action
 
-👁️ 8K • 👍 111 • 💬 4 • ⏱️ 0:15 • 7h ago
+👁️ 8K • 👍 111 • 💬 4 • ⏱️ 0:15 • 8h ago
 
 ---
 
@@ -268,7 +270,7 @@ What if a robot could climb walls effortlessly? This amazing wall-climbing robot
 
 📺 VIDEOS YOUR CHOICE
 
-👁️ 5K • 👍 79 • ⏱️ 0:14 • 7h ago
+👁️ 5K • 👍 79 • ⏱️ 0:14 • 9h ago
 
 ---
 
