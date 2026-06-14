@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T17:57:21.279303+00:00'
+updated: '2026-06-14T19:44:03.050877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 17:57 UTC  
+**Last Updated:** June 14, 2026 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Opening fight for last year’s competition](https://www.reddit.com/r/robotics/comments/1u433ih/opening_fight_for_last_years_competition/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Barron's • 3d ago
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
-The Guardian • 3h ago
+The Guardian • 1h ago
 
 ---
 
@@ -140,7 +140,7 @@ Nautilus | Science • 2d ago
 
 NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo Finance • 22h ago
 
 ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -160,7 +160,7 @@ WSJ • 2d ago
 
 **[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -220,7 +220,7 @@ At first glance this material looks like polished metal, yet it bends, twists an
 
 📺 Machines In Action
 
-👁️ 4K • 👍 62 • 💬 1 • ⏱️ 0:15 • 3h ago
+👁️ 4K • 👍 62 • 💬 1 • ⏱️ 0:15 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ This footage shows a Unitree H1 humanoid robot experiencing a malfunction during
 
 📺 Zack D. Films
 
-👁️ 5.4M • 👍 213K • 💬 2K • ⏱️ 0:39 • 22h ago
+👁️ 5.4M • 👍 213K • 💬 2K • ⏱️ 0:39 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ What if a robot could climb walls effortlessly? This amazing wall-climbing robot
 
 📺 VIDEOS YOUR CHOICE
 
-👁️ 3K • 👍 68 • ⏱️ 0:14 • 4h ago
+👁️ 3K • 👍 68 • ⏱️ 0:14 • 6h ago
 
 ---
 

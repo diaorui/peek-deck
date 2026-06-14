@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T17:57:21.276175+00:00'
+updated: '2026-06-14T19:44:03.047969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 17:57 UTC  
+**Last Updated:** June 14, 2026 at 19:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -1.7%  
-**30d:** -23.8%  
-**90d:** -28.3%  
-**1y:** -34.8%  
+**24h:** -0.6%  
+**7d:** -1.5%  
+**30d:** -23.6%  
+**90d:** -28.1%  
+**1y:** -34.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -160,11 +160,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
+**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
 
-The world's second-largest cryptocurrency is still a compelling investment.
+Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -172,13 +172,7 @@ Yahoo Finance • 1d ago
 
 The prominent analyst expects Ether to replicate Bitcoin's historic run.
 
-The Motley Fool • 1d ago
-
----
-
-**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
-
-AMBCrypto • 20h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -194,9 +188,15 @@ Fortune • 3d ago
 
 ---
 
+**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
+
+AMBCrypto • 22h ago
+
+---
+
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -208,19 +208,19 @@ TradingView • 1d ago
 
 ---
 
+**[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
+
+Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
+
+TipRanks • 9h ago
+
+---
+
 **[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
 Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
 
 Seeking Alpha • 3d ago
-
----
-
-**[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
-
-Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
-
-TipRanks • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 1K • 👍 109 • 💬 39 • ⏱️ 20:10 • 2h ago
+👁️ 1K • 👍 109 • 💬 39 • ⏱️ 20:10 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 309 • 💬 234 • ⏱️ 23:03 • 5h ago
+👁️ 6K • 👍 309 • 💬 234 • ⏱️ 23:03 • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 174 • 💬 34 • ⏱️ 19:47 • 23h ago
+👁️ 5K • 👍 174 • 💬 34 • ⏱️ 19:47 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y9
 
 📺 Trade with Renato Ulianov
 
-👁️ 175 • 👍 28 • 💬 2 • ⏱️ 1:51 • 3h ago
+👁️ 175 • 👍 28 • 💬 2 • ⏱️ 1:51 • 5h ago
 
 ---
 

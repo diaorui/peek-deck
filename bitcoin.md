@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-14T17:57:21.270285+00:00'
+updated: '2026-06-14T19:44:03.042613+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 17:57 UTC  
+**Last Updated:** June 14, 2026 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,722.77
+### $63,812.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +0.9%  
-**30d:** -18.5%  
-**90d:** -13.8%  
+**24h:** -0.8%  
+**7d:** +1.1%  
+**30d:** -18.4%  
+**90d:** -13.7%  
 **1y:** -39.6%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[When everyone's telling me to "go all in" while it's cheap, but I went all in months ago.](https://www.reddit.com/r/Bitcoin/comments/1u5j1cq/when_everyones_telling_me_to_go_all_in_while_its/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-1h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Happy to share that I’ve just added a new NerdQX to my home mining setup. My t
 
 People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 4h ago
 
 ---
 
@@ -109,13 +109,13 @@ People need to stop deferring to @giacomozucco for their opinions on BIP110. His
 
 Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giving it much thought. Over the course of that year, they deposited small amounts of Bitcoin into it. When they later wanted to cash out, they couldn't remember ever encrypting the wallet in the first place. While attempting to recover access at the time, they filled out the following form (see image). The version of Bitcoin Core available back then displayed the following recommendation when encrypting a wallet: This was only a recommendation. The actual technical requirement was simply that the passphrase contain more than one character. Today, the owner believes the password may contain the word "wallet" (or its Spanish equivalent, "billetera"). His name is Guillermo Ariel Ramirez, birthday 21-nov-1969, from Argentina. Offline page for manual testing: https://mrbianchi.github.io/decrypter16btc-web/ Hashcat hash for anyone who wants to attempt brute force: $bitcoin$96$1bbd24dc0f23175483d619a24e15f4a06e7e1d3d8b13d9a979b7f4223792836f50520c27c698fa9468ff95f481b888f0$16$65e1017f33467568$63533$2$00$2$00 In 2018, I made a similar post in the Bitcoin Argentina Facebook group: https://facebook.com/groups/351870631591732/?multi_permalinks=1569987566446693 For those who don't know me, I've completed numerous projects within that community involving wallet recovery and the recovery of cryptocurrency balances. https://preview.redd.it/surzl9x9h47h1.png?width=3525&format=png&auto=webp&s=075c6622dba32e4b909977c4c3d637e8fa74986e https://preview.redd.it/6yhesw6dh47h1.png?width=1080&format=png&auto=webp&s=8ea8955bdc40bf87009740b377859ac29c8c9f20 https://www.blockchain.com/es/explorer/addresses/btc/189JveWz2WP79oYU9Gq4NUfiurbiuNPUhn
 
-19h ago
+21h ago
 
 ---
 
 **[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
-2h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
 Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
 
-3h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Right now is very good time to make order in your UTXOs and withdraw your BTC fr
 
 Buy Bitcoin
 
-1h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Buy Bitcoin
 
 I’ve talked to several people who didn’t buy at 16K because they thought it would go down to 12.5K A few more who never bought in Jan 2024 because they thought it would break below 30K I just talked to another friend who said it should come down to 55K, then I’ll buy. What if it doesn’t? If you’re one of these people, you want to invest but think you can wait till the bottom to go all in, you will miss out. This is a great level. Especially if you don’t already own any. Invest half now of whatever your maximum investment amount is. If it goes lower invest more. When it makes a new ATH you’re not going care if you got in at 65 or 55. You will just be happy you got in! Make the choice, don’t miss out
 
-22h ago
+1d ago
 
 ---
 
@@ -159,7 +159,7 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -171,11 +171,35 @@ CNBC • 2d ago
 
 ---
 
+**[Bitcoin Price Will Hit $250,000 in Next 6 Months, Says Famed Investor Mike Alfred — Here’s His Thesis](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-250-000-114715646.html)**
+
+Mike Alfred said Bitcoin could climb to between $150,000 and $250,000 in its next major move. Alfred reiterated that Bitcoin will eventually reach $1 million. ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
 
 The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
 
 Forbes • 1d ago
+
+---
+
+**[Charles Hoskinson Tries to Close Cardano’s $70 Million Bitcoin Mystery](https://finance.yahoo.com/markets/crypto/articles/charles-hoskinson-tries-close-cardano-171516556.html)**
+
+Charles Hoskinson ties Cardano's disputed 1,096 Bitcoin to a 2016 crowdsale audit, but Thomas Braziel demands the receipts.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Is Bitcoin the Safest Crypto to Own Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-safest-crypto-own-now-174508158.html)**
+
+The world's top cryptocurrency is still safer than the smaller altcoins.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,51 +211,25 @@ The Globe and Mail • 1d ago
 
 ---
 
-**[Is Bitcoin the Safest Crypto to Own Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-safest-crypto-own-now-174508158.html)**
-
-The world's top cryptocurrency is still safer than the smaller altcoins.
-
-Yahoo Finance • 12m ago
-
----
-
-**[Bitcoin is Falling, But $273 Billion in Stablecoins Isn’t Leaving](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falling-273-billion-stablecoins-142413774.html)**
-
-Stablecoin cash is staying onchain, rotating into DeFi yields, tokenized stocks and RWAs instead of crypto exchanges.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
 
 The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Bitcoin May Not Have Bottomed Yet. Here’s Where the Data Says it Could.](https://www.galaxy.com/insights/research/bitcoin-four-year-cycle-where-is-the-bottom)**
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy, SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bottom-hunters-eyeing-ai-143829336.html)**
 
-Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
+(Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
 
-galaxy.com • 2d ago
-
----
-
-**[Michael Saylor Explains What Makes Bitcoin Treasury Firms Beat BTC](https://stocktwits.com/news-articles/markets/equity/saylor-explains-what-makes-bitcoin-treasury-firms-beat-btc/cZKBfwVR7dT)**
-
-Strategy (MSTR) Executive Chairman Michael Saylor laid out a framework on Sunday for judging whether a Bitcoin (BTC) treasury company can actually beat Bitcoin's own returns, or whether it's quietly falling behind it.
-
-Stocktwits • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Perpetual Futures Are Now Available for Trading. Here's What You Need to Know.](https://www.fool.com/investing/2026/06/12/bitcoin-perpetual-futures-are-now-available/)**
+**[Bitcoin tops $64,000 as ETF inflows rebound, SpaceX boosts crypto sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-advances-as-spacexs-13-billion-crypto-reserve-draws-attention-4741070)**
 
-These derivative contracts are exciting for a lot of different reasons.
-
-The Motley Fool • 1d ago
+Investing.com • 10h ago
 
 ---
 
@@ -271,6 +269,14 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 ---
 
+**[Turned Claude's 'discombobulating' into a Bitcoin faucet](https://news.ycombinator.com/item?id=48530823)**
+
+Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
+
+⬆️ 2 • 💬 0 • 1h ago • [kicksats.com](https://kicksats.com/)
+
+---
+
 **[Full Text of Strategic Bitcoin Reserve Bill (H.R. 8957) Published](https://news.ycombinator.com/item?id=48458856)**
 
 The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve would impose a 20-year lock-up on federally held bitcoin.
@@ -289,7 +295,15 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 **[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
 
-⬆️ 2 • 💬 0 • 2d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+⬆️ 2 • 💬 0 • 3d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+
+---
+
+**[Show HN: Startup sci-fi novel that took me 5 years to write](https://news.ycombinator.com/item?id=48447484)**
+
+A near-future startup novel by Milo C. Kingston. Read sample chapters for free. Book available for purchase.
+
+⬆️ 25 • 💬 14 • 6d ago • [blockchainednovel.com](https://www.blockchainednovel.com/)
 
 ---
 
@@ -323,7 +337,7 @@ GIANT News For Bitcoin, Ethereum, & Altcoins (Clarity Act Moves Forward?) ⭐ Fo
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:33 • 20h ago
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:33 • 22h ago
 
 ---
 
@@ -333,7 +347,7 @@ THE ISLAND PROJECT FOUNDERS ROUND! (Fill OUT 5-Min App) https://IslandProject.co
 
 📺 AMTV
 
-👁️ 3K • 👍 180 • 💬 37 • ⏱️ 3:29 • 19h ago
+👁️ 3K • 👍 180 • 💬 37 • ⏱️ 3:29 • 21h ago
 
 ---
 
@@ -353,7 +367,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 343 • 💬 202 • ⏱️ 14:48 • 6h ago
+👁️ 4K • 👍 343 • 💬 202 • ⏱️ 14:48 • 8h ago
 
 ---
 
@@ -373,7 +387,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 13K • 👍 635 • 💬 244 • ⏱️ 17:52 • 20h ago
+👁️ 13K • 👍 635 • 💬 244 • ⏱️ 17:52 • 22h ago
 
 ---
 
@@ -383,7 +397,7 @@ My Free Trading Course https://rt1m.com/free My Free Discord Community https://d
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 255 • 💬 46 • ⏱️ 9:11 • 20h ago
+👁️ 4K • 👍 255 • 💬 46 • ⏱️ 9:11 • 21h ago
 
 ---
 

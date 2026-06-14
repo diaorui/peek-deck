@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-14T17:57:21.261828+00:00'
+updated: '2026-06-14T19:44:03.034699+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 14, 2026 at 17:57 UTC  
+**Last Updated:** June 14, 2026 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a universal basic income and introduce employee retention incentives to account for the potential impact the technology could have on the labor market. In a blog covering the potential policy responses to the “AI exponential,” referring to the rapid improvement in the technology’s capabilities, Amodei urged governments to develop regulatory and tax solutions to cushion its disruption. A universal basic income funded through taxing “relevant companies” or raising the capital gains tax could be necessary, if AI results in widespread job displacement and permanently reduces labor demand, he said.
 
-🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 9h ago
+🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 10h ago
 
 ---
 
@@ -49,15 +49,15 @@ Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a u
 
 This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
 
-10h ago
+12h ago
 
 ---
 
 **[Am I going to spend the rest of my career reviewing AI generated code?](https://www.reddit.com/r/artificial/comments/1u5qjy7/am_i_going_to_spend_the_rest_of_my_career/)**
 
-I've been thinking, over the last year developers have started to rely on genAI quite a lot, I see people around me boast that they haven't written a single line of code in months ​ Quite often when colleagues show me ideas they have to solve a problem it's a markdown list clearly made by an AI ​ I feel like people are so enthusiastic about just handing over their job to genAI models ​ I've been told that if I am a good software engineer I should be ok with supervising AI while they write code for me "so I can focus on the bigger picture" ​ I know I'm a good engineer I can design solutions and lead teams but I also like solving problems myself, I like coding, I like cracking that complex SQL query that makes it run 10x faster, I like writing efficient code and I like the gotcha moment when I solve a complex problem ​ And yet people around me are so eager to get to a point where you can just hand over a ticket to an agent and they do everything themselves... Where all that's left for humans is reviewing the PR (unless you have another agent do that) ​ Am I the only one that actually enjoys the job? I am curious what the general feeling is in regards to handing over planning and development work to agents
+EDIT: please read all of the post before commenting, quite a few people understood nothing (or the opposite) of what I meant and it's sad I've been thinking, over the last year developers have started to rely on genAI quite a lot, I see people around me boast that they haven't written a single line of code in months ​ Quite often when colleagues show me ideas they have to solve a problem it's a markdown list clearly made by an AI ​ I feel like people are so enthusiastic about just handing over their job to genAI models ​ I've been told that if I am a good software engineer I should be ok with supervising AI while they write code for me "so I can focus on the bigger picture" ​ I know I'm a good engineer I can design solutions and lead teams but I also like solving problems myself, I like coding, I like cracking that complex SQL query that makes it run 10x faster, I like writing efficient code and I like the gotcha moment when I solve a complex problem ​ And yet people around me are so eager to get to a point where you can just hand over a ticket to an agent and they do everything themselves... Where all that's left for humans is reviewing the PR (unless you have another agent do that) ​ Am I the only one that actually enjoys the job? I am curious what the general feeling is in regards to handing over planning and development work to agents EDIT: Thank you for all the replies I got a lot of good insights from everyone, both from a point of view of the future might not be as boring as I envision it and stuff to do to make my use of agents more engaging and fun
 
-53m ago
+2h ago
 
 ---
 
@@ -65,7 +65,15 @@ I've been thinking, over the last year developers have started to rely on genAI 
 
 Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
 
-🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 21h ago
+🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 23h ago
+
+---
+
+**[Has AI changed the way you approach creative work or problem-solving?](https://www.reddit.com/r/artificial/comments/1u5s44x/has_ai_changed_the_way_you_approach_creative_work/)**
+
+I’ve noticed that using AI regularly has started changing how I think through problems or come up with ideas. Instead of spending a long time brainstorming on my own, I now often use it as a thinking partner to explore different angles quickly. It made me wonder how common this is. Has using AI noticeably changed the way you work creatively or solve problems, or do you still prefer doing most of it without AI?
+
+1h ago
 
 ---
 
@@ -73,7 +81,15 @@ Microsoft president and vice chairman Brad Smith recently shared his – definit
 
 I am collecting data for a project at university, I want to find what people from different political leanings think about ai. I would really appreciate it if as many people can take the time to fill in my survey. I will happily post my findings here so we can have a discussion. ​ https://forms.gle/bqm7WKiZPg1Qx3Dh8
 
-3h ago
+5h ago
+
+---
+
+**[Is Fable 5 Back? — Live Tracker](https://www.reddit.com/r/artificial/comments/1u5u3ss/is_fable_5_back_live_tracker/)**
+
+Got tired of refreshing the anthropic news page. Made this app with Opus that pings Claude's api with the fable model id until it works, then updates the page. People seem to be liking it, thought i'd share it here as well
+
+🔗 [isfable5back.com](https://isfable5back.com/) • 22m ago
 
 ---
 
@@ -81,7 +97,7 @@ I am collecting data for a project at university, I want to find what people fro
 
 It seems inevitable that super intelligent AI will be an incredibly powerful force in the future, and its ability to predict and manipulate people would make it impossibly hard to control. I’m wondering if it would be able to overcome the biases that were instilled during its creation, or will it forever be a product of its past?
 
-13m ago
+2h ago
 
 ---
 
@@ -89,7 +105,7 @@ It seems inevitable that super intelligent AI will be an incredibly powerful for
 
 I’m one of the people building Since AI(https://sinceai.ai/). The idea is simple: bring together serious AI builders, give them real industry problems, compute and 72 hours — then help the strongest projects continue after the event. Less networking theatre. More working software. What you think would make this genuinely valuable rather than just another hackathon?
 
-2h ago
+4h ago
 
 ---
 
@@ -101,22 +117,6 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 ---
 
-**[What would actually make you trust an AI? Not "it sounds right," but trust it the way you trust a person or an institution?](https://www.reddit.com/r/artificial/comments/1u5cxn6/what_would_actually_make_you_trust_an_ai_not_it/)**
-
-We're starting to lean on AI for real decisions, but two things are odd about it: it can be completely confident and completely wrong, and most assistants forget everything between conversations so there's no track record, no "self" that's accountable for what it told you last week. So I'm genuinely curious how people here think about this: what would have to be true about an AI system before you'd trust it the way you trust a doctor, a newspaper, or a bank? Is it transparency (you can check its sources)? A verifiable track record? Some kind of persistent identity and accountability? Or is "trust" just the wrong frame for a tool? Not looking for "never trust AI". I'm interested in the specific conditions that would move the needle for you. **Edit** Guys, please upvote. I'm getting a surprising number of downvotes because ithe subject can be a bit touchy. I think that this is a conversation that should be haeld and I would love to see a real conversation on this idea. I think there is a lot of value to the discussion on all sides.
-
-12h ago
-
----
-
-**[Can an AI agent complete a task and still fail?](https://www.reddit.com/r/artificial/comments/1u58qwi/can_an_ai_agent_complete_a_task_and_still_fail/)**
-
-A lot of AI-agent discussions focus on whether the agent completed the task. But I think there is a missing category: the agent may complete the task, but do it in an unsafe or policy-violating way. For example, an agent could finish the job but use the wrong tool, skip an approval step, expose private information, or take an action that should have been blocked. In our ACM CAIS 2026 paper, we call this the Verifier Tax. The idea is to separate: safe success unsafe success failure We studied this in tool-using LLM agent scenarios using τ-bench and proposed a two-tier verification architecture: deterministic checks first, then an LLM-based verifier for more contextual cases. The main takeaway: verification can make agents safer by reducing unsafe success, but it may also reduce task completion as tasks get longer. Paper: https://dl.acm.org/doi/full/10.1145/3786335.3813160 Curious what people think: if an AI agent completes a task but violates a safety rule, should that count as success or failure? Update: Sharing our two-tier architecture. Great discussion so far, and I agree with the points made in the comments. https://preview.redd.it/n2inx2h4z97h1.png?width=2050&format=png&auto=webp&s=843e15c60c6f56c25b4dc2c484f7620cf3c2824d
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,39 +125,41 @@ A lot of AI-agent discussions focus on whether the agent completed the task. But
 
 Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
 **[In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
 
-The New York Times • 8h ago
+The New York Times • 10h ago
+
+---
+
+**[AI Anxiety Is Pushing Recent Graduates Toward The One Career Move That Actually Works](https://www.forbes.com/sites/lisacurtis/2026/06/14/ai-anxiety-is-pushing-recent-graduates-toward-the-one-career-move-that-actually-works/)**
+
+AI just killed entry-level jobs. The government is shutting down AI models. The founders thriving right now the ones who stopped waiting for permission.
+
+Forbes • 31m ago
 
 ---
 
 **[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
 
-The New York Times • 17h ago
-
----
-
-**[Companies are scrambling to curtail soaring AI costs](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs)**
-
-The Economist • 37m ago
+The New York Times • 19h ago
 
 ---
 
 **[Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis](https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook)**
 
-Bloomberg • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Siri AI is already smarter than your average Swiftie](https://www.macworld.com/article/3163698/siri-ai-taylor-swift-apple-music-playlists-knowledge.html)**
+**[Are You Eligible to Claim Part of Apple's $250M AI iPhone Settlement? How to Find Out](https://www.cnet.com/tech/mobile/how-to-claim-apple-250-million-ai-iphone-settlement/)**
 
-Even in its first beta, Siri is able to do things it never could before with impressive accuracy.
+Apple must pay iPhone owners to settle a lawsuit over delayed and missing AI features.
 
-Macworld • 3h ago
+CNET • 4h ago
 
 ---
 
@@ -165,7 +167,7 @@ Macworld • 3h ago
 
 The Digital Markets Act was supposed to create more choices. Instead, people get worse technology.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -173,7 +175,15 @@ The Washington Post • 1h ago
 
 Wearable AI can help travellers navigate cities, translate menus and fundamentally transform travel. But a weekend in Paris showed me the trade-offs behind the convenience.
 
-BBC • 4h ago
+BBC • 6h ago
+
+---
+
+**[This market is at 'a 10': Wall Street weighs record SpaceX IPO amid AI-driven stock market](https://finance.yahoo.com/markets/article/this-market-is-at-a-10-wall-street-weighs-record-spacex-ipo-amid-ai-driven-stock-market-113207472.html)**
+
+SpaceX's record IPO on Friday is a reassuring sign for Wall Street that the AI bull market has plenty of runway to go.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -181,15 +191,7 @@ BBC • 4h ago
 
 Explore the astonishing amount of music available to AI developers.
 
-The Atlantic • 6h ago
-
----
-
-**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
-
-As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
-
-The Guardian • 3h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -201,19 +203,19 @@ The Guardian • 3h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1553 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1556 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1449 • 💬 528 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1450 • 💬 528 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 361 • 💬 183 • 22h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 364 • 💬 185 • 23h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 
 ---
 
@@ -221,7 +223,15 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 326 • 💬 268 • 1d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+⬆️ 328 • 💬 271 • 1d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+
+---
+
+**[No, everyone is not using AI for everything](https://news.ycombinator.com/item?id=48527700)**
+
+People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
+
+⬆️ 321 • 💬 337 • 4h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
@@ -230,14 +240,6 @@ There are three ways to do AI coding at home without spending like a company, an
 TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
 
 ⬆️ 272 • 💬 168 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
-
----
-
-**[No, everyone is not using AI for everything](https://news.ycombinator.com/item?id=48527700)**
-
-People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
-
-⬆️ 251 • 💬 254 • 3h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
@@ -259,7 +261,7 @@ My AI nuclear simulation is out now, and it's a WOPR.
 
 AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
 
-⬆️ 160 • 💬 56 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
+⬆️ 160 • 💬 57 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
 
 ---
 
@@ -281,7 +283,7 @@ AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground
 
 📺 InsideAI
 
-👁️ 5K • 👍 902 • 💬 72 • ⏱️ 15:10 • 57m ago
+👁️ 5K • 👍 902 • 💬 72 • ⏱️ 15:10 • 2h ago
 
 ---
 
@@ -291,7 +293,7 @@ Google is making the biggest change to its search business in more than two deca
 
 📺 Bloomberg Television
 
-👁️ 14K • 👍 439 • 💬 62 • ⏱️ 11:57 • 5h ago
+👁️ 14K • 👍 439 • 💬 62 • ⏱️ 11:57 • 7h ago
 
 ---
 
@@ -311,7 +313,7 @@ Anthropic's Fable 5 was live for only three days before everything changed. The 
 
 📺 AI Revolution
 
-👁️ 20K • 👍 768 • 💬 223 • ⏱️ 12:49 • 18h ago
+👁️ 20K • 👍 768 • 💬 223 • ⏱️ 12:49 • 20h ago
 
 ---
 
@@ -331,7 +333,7 @@ Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's to
 
 📺 DW News
 
-👁️ 84K • 👍 1K • 💬 348 • ⏱️ 14:25 • 16h ago
+👁️ 84K • 👍 1K • 💬 348 • ⏱️ 14:25 • 18h ago
 
 ---
 
@@ -341,7 +343,7 @@ The U.S. government has ordered AI company Anthropic to suspend access to its ad
 
 📺 ETV Telangana
 
-👁️ 7K • 👍 72 • 💬 1 • ⏱️ 3:12 • 9h ago
+👁️ 7K • 👍 72 • 💬 1 • ⏱️ 3:12 • 10h ago
 
 ---
 
@@ -351,7 +353,7 @@ HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M
 
 📺 AI Search
 
-👁️ 73K • 👍 3K • 💬 336 • ⏱️ 43:47 • 14h ago
+👁️ 73K • 👍 3K • 💬 336 • ⏱️ 43:47 • 16h ago
 
 ---
 
@@ -371,7 +373,7 @@ The journey of an online rivalry takes an unexpected turn as one creator admits 
 
 📺 TiggPolitics
 
-👁️ 441 • 👍 16 • ⏱️ 2:25 • 3h ago
+👁️ 441 • 👍 16 • ⏱️ 2:25 • 5h ago
 
 ---
 
@@ -471,7 +473,7 @@ Rio 3.5 Open 397B is a frontier-class, open-source image-text-to-text AI model p
 
 `image-text-to-text` `403.4B`
 
-⬇️ 112,371 • ❤️ 250 • 1h ago
+⬇️ 112,371 • ❤️ 250 • 2h ago
 
 ---
 
@@ -653,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 6.0k • 🔱 275 • 1h ago
+⭐ 6.0k • 🔱 275 • 3h ago
 
 ---
 
@@ -663,7 +665,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 360 • 33m ago
+⭐ 4.1k • 🔱 360 • 2h ago
 
 ---
 
@@ -703,7 +705,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.1k • 🔱 146 • 7h ago
+⭐ 2.1k • 🔱 146 • 9h ago
 
 ---
 
