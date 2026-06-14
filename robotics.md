@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T12:23:22.688833+00:00'
+updated: '2026-06-14T14:41:04.176933+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 12:23 UTC  
+**Last Updated:** June 14, 2026 at 14:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Depth cloud Test on SLAM Camera](https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-21h ago
+23h ago
 
 ---
 
@@ -76,13 +76,13 @@ Curation of materials for robotics and Artificial Intelligence. Learn as your pr
 
 **[Visual Integration to LIO SAM](https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/)**
 
-22h ago
+1d ago
 
 ---
 
 **[test the stereo depth, only-vision](https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 20h ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 22h ago
 
 ---
 
@@ -108,7 +108,7 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 **[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
@@ -140,7 +140,7 @@ Nautilus | Science • 2d ago
 
 NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -158,7 +158,7 @@ Bloomberg.com • 2d ago
 
 **[The first-ever robotic rescue at sea is a milestone](https://www.economist.com/middle-east-and-africa/2026/06/11/the-first-ever-robotic-rescue-at-sea-is-a-milestone)**
 
-The Economist • 2d ago
+The Economist • 3d ago
 
 ---
 
@@ -170,11 +170,11 @@ The Atlantic • 2d ago
 
 ---
 
-**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
+**[Anthropic restricts top-tier models after US cites security risk](https://interestingengineering.com/ai-robotics/anthropic-blocks-international-users)**
 
-Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+Anthropic has suspended access to its most advanced AI models for international users after the Trump administration designated them as potential national security risks.
 
-Fox News • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -188,27 +188,7 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 7K • 👍 155 • 💬 76 • ⏱️ 8:49 • 1d ago
-
----
-
-**[New AI Robot Technology From China Is Getting TOO Advanced... Experts Are Worried](https://www.youtube.com/watch?v=ZNhwMVyeXWw)**
-
-A humanoid hand sweats like human skin while tightening bolts for three hours straight without overheating. That's Xiaomi's ...
-
-📺 NextGen Humanoids
-
-👁️ 8K • 👍 161 • 💬 15 • ⏱️ 8:16 • 5d ago
-
----
-
-**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
-
-What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
-
-📺 Top Talent
-
-👁️ 116K • 👍 2K • 💬 164 • ⏱️ 6:09 • 4d ago
+👁️ 8K • 👍 156 • 💬 82 • ⏱️ 8:49 • 1d ago
 
 ---
 
@@ -218,7 +198,55 @@ This video showcases some model successes and failures I've had in building a ro
 
 📺 Over Engineer
 
-👁️ 2K • 👍 197 • 💬 25 • ⏱️ 6:05 • 1d ago
+👁️ 3K • 👍 273 • 💬 36 • ⏱️ 6:05 • 1d ago
+
+---
+
+**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
+
+What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
+
+📺 Top Talent
+
+👁️ 120K • 👍 2K • 💬 164 • ⏱️ 6:09 • 4d ago
+
+---
+
+**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
+
+ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
+
+📺 Back to Engineering
+
+👁️ 26K • 👍 258 • 💬 8 • ⏱️ 0:13 • 3d ago
+
+---
+
+**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
+
+Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
+
+📺 Armourdesia Military Hardware
+
+👁️ 35K • 👍 1K • 💬 112 • ⏱️ 0:30 • 1d ago
+
+---
+
+**[Coffee Balloon Turns Into Robot Hand 😮](https://www.youtube.com/watch?v=NX_LsXlC7QQ)**
+
+📺 Zack D. Films
+
+👁️ 4.9M • 👍 186K • 💬 2K • ⏱️ 0:39 • 19h ago
+
+---
+
+**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
+
+Shantak, Urhag & Voonith Giveaway Winners ...
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 344 • 💬 64 • ⏱️ 15:34 • 1d ago
 
 ---
 
@@ -232,51 +260,23 @@ Chinese Dancers Bring 8 Unitree Robots to AGT 2026 - and get the ultimate 4 Yess
 
 ---
 
-**[China’s Humanoid Robots Crash! ¥1M Each to ¥50K per Truck, Looks Like Scrap Metal](https://www.youtube.com/watch?v=uFuGY0yaTdg)**
+**[The Robot More Precise Than Any Surgeon 🦾](https://www.youtube.com/watch?v=Nnjub0UQA4U)**
 
-Recently, the price of humanoid robots in China has plunged sharply. Just a year ago, engineering prototypes required tens of ...
+A surgical robot operating on the human spine with sub-millimeter precision. FDA cleared. Already in use in real hospitals.
 
-📺 China Observer
+📺 KF Labs
 
-👁️ 58K • 👍 2K • 💬 625 • ⏱️ 16:33 • 6d ago
-
----
-
-**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
-
-Shantak, Urhag & Voonith Giveaway Winners ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 343 • 💬 60 • ⏱️ 15:34 • 1d ago
+👁️ 3K • 👍 115 • 💬 2 • ⏱️ 0:05 • 5h ago
 
 ---
 
-**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
+**[Watch: AI Humanoid Robots Perform Michael Jackson Moves In HK | Michael Jackson Moon Walk | N18G](https://www.youtube.com/watch?v=GMdGomL2jQ4)**
 
-ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
+Watch: AI Humanoid Robots Perform Michael Jackson Moves In HK | Michael Jackson Moon Walk | N18G Visitors at Hong Kong's ...
 
-📺 Back to Engineering
+📺 CNBC-TV18
 
-👁️ 23K • 👍 249 • 💬 6 • ⏱️ 0:13 • 2d ago
-
----
-
-**[Coffee Balloon Turns Into Robot Hand 😮](https://www.youtube.com/watch?v=NX_LsXlC7QQ)**
-
-📺 Zack D. Films
-
-👁️ 4.0M • 👍 161K • 💬 2K • ⏱️ 0:39 • 16h ago
-
----
-
-**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
-
-Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 34K • 👍 1K • 💬 106 • ⏱️ 0:30 • 1d ago
+👁️ 47K • 👍 123 • 💬 15 • ⏱️ 0:27 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-14T12:23:22.672671+00:00'
+updated: '2026-06-14T14:41:04.160725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 14, 2026 at 12:23 UTC  
+**Last Updated:** June 14, 2026 at 14:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
 
-5h ago
-
----
-
-**[Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry](https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/)**
-
-Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
-
-🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 16h ago
+7h ago
 
 ---
 
@@ -57,15 +49,23 @@ Microsoft president and vice chairman Brad Smith recently shared his – definit
 
 Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a universal basic income and introduce employee retention incentives to account for the potential impact the technology could have on the labor market. In a blog covering the potential policy responses to the “AI exponential,” referring to the rapid improvement in the technology’s capabilities, Amodei urged governments to develop regulatory and tax solutions to cushion its disruption. A universal basic income funded through taxing “relevant companies” or raising the capital gains tax could be necessary, if AI results in widespread job displacement and permanently reduces labor demand, he said.
 
-🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 3h ago
+🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 5h ago
 
 ---
 
-**[We solved reasoning. The remaining challenge was apparently pressing Enter.](https://www.reddit.com/r/artificial/comments/1u5gaxs/we_solved_reasoning_the_remaining_challenge_was/)**
+**[Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry](https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/)**
 
-Every week I see discussions about more capable models. Better reasoning.Better coding. Longer context. More autonomy. Meanwhile most real-world AI workflows still look like this: AI works. Human clicks continue. AI works. Human clicks continue. Repeat until boredom wins. I became curious how much of that friction was actually necessary. So I built Ghost in the Loop. It's an open-source project that automatically continues multi-step AI conversations across major AI platforms. What's interesting isn't the automation itself. What's interesting is watching how far current models can go once the conversation isn't constantly interrupted. Sometimes the results are impressive. Sometimes they're complete disasters. Both are useful data. I'd love feedback from people who spend time thinking about AI systems and human-in-the-loop design. Questions I'm exploring: • Where should autonomy stop? • Where should humans stay involved? • What tasks benefit from longer loops? • What tasks become worse? GitHub: https://github.com/MShneur/ghost-in-the-loop TL;DR I built a tool that removes one layer of human intervention from AI workflows. Now I'm trying to figure out where that becomes valuable and where it becomes a mistake.
+Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
 
-3h ago
+🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 18h ago
+
+---
+
+**[University study survey](https://www.reddit.com/r/artificial/comments/1u5mna2/university_study_survey/)**
+
+I am collecting data for a project at university, I want to find what people from different political leanings think about ai. I would really appreciate it if as many people can take the time to fill in my survey. I will happily post my findings here so we can have a discussion. ​ https://forms.gle/bqm7WKiZPg1Qx3Dh8
+
+10m ago
 
 ---
 
@@ -81,15 +81,15 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 A lot of AI-agent discussions focus on whether the agent completed the task. But I think there is a missing category: the agent may complete the task, but do it in an unsafe or policy-violating way. For example, an agent could finish the job but use the wrong tool, skip an approval step, expose private information, or take an action that should have been blocked. In our ACM CAIS 2026 paper, we call this the Verifier Tax. The idea is to separate: safe success unsafe success failure We studied this in tool-using LLM agent scenarios using τ-bench and proposed a two-tier verification architecture: deterministic checks first, then an LLM-based verifier for more contextual cases. The main takeaway: verification can make agents safer by reducing unsafe success, but it may also reduce task completion as tasks get longer. Paper: https://dl.acm.org/doi/full/10.1145/3786335.3813160 Curious what people think: if an AI agent completes a task but violates a safety rule, should that count as success or failure?
 
-10h ago
+12h ago
 
 ---
 
-**[My client didn't want to add FAQs manually, so I built a system that crawls their website and generates the knowledge base automatically](https://www.reddit.com/r/artificial/comments/1u5idv8/my_client_didnt_want_to_add_faqs_manually_so_i/)**
+**[We solved reasoning. The remaining challenge was apparently pressing Enter.](https://www.reddit.com/r/artificial/comments/1u5gaxs/we_solved_reasoning_the_remaining_challenge_was/)**
 
-Building on a hotel email AI system I shipped recently (500 properties, ~15k emails/day). The client had a requirement that turned into the most interesting part of the build. They did not want to manually add FAQs to the database for every hotel they onboard. With 500+ properties and new ones being added regularly, hand-entering FAQs would be a full time job by itself. So they asked for two things: feed the system a hotel's website URL OR a PDF, and have it automatically extract all the relevant information and generate the FAQ knowledge base. Here's how the website crawler works: It starts at the hotel's URL and hits their sitemap first to discover pages. It maintains a set of visited URLs so it never crawls the same page twice. It caps at 50 pages because most of the useful information lives in the first few pages. Crawling the entire site adds hours of processing time for almost no extra value. The junk filtering was important. The crawler skips paths like booking, reserve, login, careers, legal, checkout, cart, admin. These pages have no FAQ-relevant content. It only follows links that look like they lead to useful info (amenities, FAQs, policies, etc). For content extraction it uses BeautifulSoup and strips out script, style, nav, footer, and header elements before grabbing the text. The footer and nav are pure noise that would pollute the knowledge base if included. It crawls deeper by following relevant internal links from the first page, so it captures subsequent pages like /amenities or /faq, not just the landing page. Here's the part that makes it actually useful: After crawling and cleaning the content, it doesn't just dump raw website text into the vector database. A separate AI agent reads the cleaned content and generates structured FAQs from it. Question and answer pairs. Then those get embedded and stored. So the flow is: website URL → crawl relevant pages → clean the content → AI generates FAQs from content → embed and store. The client just pastes a URL and the entire knowledge base builds itself. When the same URL gets crawled again, the old data for that hotel gets deleted and replaced with fresh data, so re-crawling updates the knowledge base instead of duplicating it. The system prompt for the FAQ generation agent was the most critical piece. I gave it explicit rules, guardrails, and 11 worked examples. Garbage in garbage out. If the FAQ generation hallucinates wrong information (like a wrong price or a wrong policy) it could cost the client real money and trust. I've seen reports of AI agents quoting customers wrong prices because of sloppy system prompts. I recorded a full walkthrough of how I built the crawler and FAQ generation if anyone wants to see the actual code: here Happy to answer questions about the crawling or FAQ generation approach.
+Every week I see discussions about more capable models. Better reasoning.Better coding. Longer context. More autonomy. Meanwhile most real-world AI workflows still look like this: AI works. Human clicks continue. AI works. Human clicks continue. Repeat until boredom wins. I became curious how much of that friction was actually necessary. So I built Ghost in the Loop. It's an open-source project that automatically continues multi-step AI conversations across major AI platforms. What's interesting isn't the automation itself. What's interesting is watching how far current models can go once the conversation isn't constantly interrupted. Sometimes the results are impressive. Sometimes they're complete disasters. Both are useful data. I'd love feedback from people who spend time thinking about AI systems and human-in-the-loop design. Questions I'm exploring: • Where should autonomy stop? • Where should humans stay involved? • What tasks benefit from longer loops? • What tasks become worse? GitHub: https://github.com/MShneur/ghost-in-the-loop TL;DR I built a tool that removes one layer of human intervention from AI workflows. Now I'm trying to figure out where that becomes valuable and where it becomes a mistake.
 
-1h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ The bitter lesson, visualized.
 
 I came across this website when I was trying to figure out how real the complaints to data center opposition are. Has anyone seen this site before? I can't figure out what it is. Looks kind of like a legal site, but I don't think it is. https://beaumontandsheridan.com/resources/data-centers-the-internets-body/
 
-15h ago
+17h ago
 
 ---
 
@@ -121,61 +121,37 @@ I came across this website when I was trying to figure out how real the complain
 
 ## Google News: "ai"
 
-**[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
-
-The New York Times • 11h ago
-
----
-
-**[AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past](https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it](https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html)**
 
 Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
 
-CNBC • 23m ago
+CNBC • 2h ago
 
 ---
 
-**[How a Texas lawyer used AI to beat Meta in the social media addiction trial](https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6)**
+**[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
 
-Mark Lanier, trial lawyer who beat Meta in a landmark social media addiction case, said AI has transformed his work during and before trial.
-
-Business Insider • 3h ago
+The New York Times • 13h ago
 
 ---
 
-**[Meta's highest paid employee Alexandr Wang 'admits' the company's previous AI policy didn't work, says ot](https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-admits-the-companys-previous-ai-policy-didnt-work-says-other-labs-are-seeing-the/articleshow/131715015.cms)**
+**[Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis](https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook)**
 
-Alexandr Wang, the Scale AI co-founder Mark Zuckerberg hired last year as Meta's Chief AI Officer after a reported $15 billion deal, has acknowledged on Bloomberg Tech that Meta's longstanding open-source approach hit a wall with Muse Spark. The model, released in April, stayed proprietary because internal testing flagged risks the company couldn't safely contain in an open release, and Wang says rival labs are running into the same problem as their models scale.
-
-The Times of India • 8h ago
+Bloomberg.com • 41m ago
 
 ---
 
-**[New Amazon AI search turns words into shoppable images](https://www.foxnews.com/tech/new-amazon-ai-search-turns-words-shoppable-images-)**
+**[One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says](https://www.cnbc.com/2026/06/14/ceo-of-.html)**
 
-Amazon's new AI search feature generates images in real time as you type, helping you find clothes and furniture that match the look in your head.
+Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.
 
-Fox News • 26m ago
+CNBC • 37m ago
 
 ---
 
 **[The World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
 
-The New York Times • 3h ago
-
----
-
-**[Opinion | Why Europe won’t have the new Siri](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/)**
-
-The Digital Markets Act was supposed to create more choices. Instead, people get worse technology.
-
-The Washington Post • 1h ago
+The New York Times • 5h ago
 
 ---
 
@@ -183,15 +159,37 @@ The Washington Post • 1h ago
 
 The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.
 
-BBC • 13h ago
+BBC • 15h ago
 
 ---
 
-**[Trump tried to block state AI regulations, but some states are forging ahead](https://apnews.com/article/trump-artificial-intelligence-chatbots-ai-23a0e44ab05402ddfe9cdfd0bffa0ade)**
+**[For centuries, math has been a human endeavor. Does AI mean it’s over?](https://www.washingtonpost.com/science/2026/06/14/math-has-helped-define-what-it-means-be-human-centuries-cue-robots/)**
 
-Six months after President Donald Trump warned states not to regulate artificial intelligence, they are increasingly doing just that.
+Math illuminates how traffic flows, how our cells build proteins and even how to speed up medical imaging scans. Some worry the academic discipline now faces an existential threat.
 
-AP News • 3h ago
+The Washington Post • 1h ago
+
+---
+
+**[The Job That AI Was Supposed to Kill Needs More Humans Than Ever](https://www.wsj.com/tech/ai/the-job-that-ai-was-supposed-to-kill-needs-more-humans-than-ever-0771e4cf)**
+
+WSJ • 1d ago
+
+---
+
+**[The Millions of Songs Mashed Into AI-Generated Music](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/)**
+
+Explore the astonishing amount of music available to AI developers.
+
+The Atlantic • 3h ago
+
+---
+
+**[Wall Street digests record fundraising haul as AI race intensifies](https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06?syn-25a6b1a6=1)**
+
+SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
+
+Financial Times • 10h ago
 
 ---
 
@@ -203,7 +201,7 @@ AP News • 3h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1539 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1545 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
@@ -215,7 +213,7 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 340 • 💬 169 • 16h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 349 • 💬 177 • 18h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 
 ---
 
@@ -223,15 +221,7 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 306 • 💬 247 • 19h ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
-
----
-
-**[Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://news.ycombinator.com/item?id=48490057)**
-
-Workers are spending an average of 6.4 hours a week — almost a full working day — "botsitting" AI, pushing some to look for an exit, researchers say.
-
-⬆️ 278 • 💬 220 • 2d ago • [Business Insider](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+⬆️ 314 • 💬 260 • 21h ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
@@ -239,7 +229,7 @@ Workers are spending an average of 6.4 hours a week — almost a full working da
 
 TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
 
-⬆️ 266 • 💬 165 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
+⬆️ 269 • 💬 166 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
 
 ---
 
@@ -269,7 +259,13 @@ The advance in fabric technology comes alongside a new benchmark for atmospheric
 
 AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
 
-⬆️ 156 • 💬 55 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
+⬆️ 158 • 💬 56 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
+
+---
+
+**[Ask HN: How do you get into a flow state when using AI to code?](https://news.ycombinator.com/item?id=48492118)**
+
+⬆️ 90 • 💬 116 • 2d ago
 
 ---
 
@@ -283,7 +279,7 @@ Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's to
 
 📺 DW News
 
-👁️ 31K • 👍 690 • 💬 198 • ⏱️ 14:25 • 11h ago
+👁️ 64K • 👍 1K • 💬 306 • ⏱️ 14:25 • 13h ago
 
 ---
 
@@ -293,7 +289,7 @@ Anthropic's Fable 5 was live for only three days before everything changed. The 
 
 📺 AI Revolution
 
-👁️ 14K • 👍 597 • 💬 168 • ⏱️ 12:49 • 13h ago
+👁️ 18K • 👍 720 • 💬 204 • ⏱️ 12:49 • 15h ago
 
 ---
 
@@ -303,47 +299,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 20K • 👍 1K • 💬 215 • ⏱️ 9:43 • 21h ago
-
----
-
-**[I Tried AI Video Editing for 8 Days - Here’s what DOES work](https://www.youtube.com/watch?v=9-iSl83dF34)**
-
-I tried AI Video Editing with Claude & Higgsfield. Higgsfield AI Plugin https://higgsfield.ai?fpr=dankieft&fp_sid=edit Claude ...
-
-📺 Dan Kieft
-
-👁️ 30K • 💬 25 • ⏱️ 11:37 • 1d ago
-
----
-
-**[The Invisible War: A Realistic AI Takeover Scenario](https://www.youtube.com/watch?v=S2oIFOm-XXQ)**
-
-Detailed sources: ...
-
-📺 Species | Documenting AGI
-
-👁️ 88K • 👍 5K • 💬 929 • ⏱️ 28:12 • 1d ago
-
----
-
-**[Anthropic&#39;s Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California’s Broken Elections](https://www.youtube.com/watch?v=gH4FTjDm9FQ)**
-
-(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI ...
-
-📺 All-In Podcast
-
-👁️ 235K • 👍 6K • 💬 1K • ⏱️ 1:42:00 • 1d ago
-
----
-
-**[Live Results From Banned US Government-Restricted AI model](https://www.youtube.com/watch?v=A74hBNktkvs)**
-
-In this video, we take a closer look at Anthropic's latest model, Fable 5, and try to answer a simple question: is this yet another ...
-
-📺 Varun Mayya
-
-👁️ 38K • 👍 1K • 💬 133 • ⏱️ 22:58 • 1d ago
+👁️ 21K • 👍 1K • 💬 234 • ⏱️ 9:43 • 23h ago
 
 ---
 
@@ -353,17 +309,57 @@ HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M
 
 📺 AI Search
 
-👁️ 37K • 👍 2K • 💬 228 • ⏱️ 43:47 • 8h ago
+👁️ 61K • 👍 3K • 💬 306 • ⏱️ 43:47 • 11h ago
 
 ---
 
-**[AI News: An INSANE Week… Here’s What Matters](https://www.youtube.com/watch?v=nydHKXjwu0U)**
+**[Live Results From Banned US Government-Restricted AI model](https://www.youtube.com/watch?v=A74hBNktkvs)**
 
-Here's the AI News you probably missed this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ Weekly ...
+In this video, we take a closer look at Anthropic's latest model, Fable 5, and try to answer a simple question: is this yet another ...
 
-📺 Matt Wolfe
+📺 Varun Mayya
 
-👁️ 68K • 👍 2K • 💬 187 • ⏱️ 30:52 • 1d ago
+👁️ 39K • 👍 1K • 💬 136 • ⏱️ 22:58 • 2d ago
+
+---
+
+**[The Invisible War: A Realistic AI Takeover Scenario](https://www.youtube.com/watch?v=S2oIFOm-XXQ)**
+
+Detailed sources: ...
+
+📺 Species | Documenting AGI
+
+👁️ 93K • 👍 5K • 💬 982 • ⏱️ 28:12 • 1d ago
+
+---
+
+**[I Tried AI Video Editing for 8 Days - Here’s what DOES work](https://www.youtube.com/watch?v=9-iSl83dF34)**
+
+I tried AI Video Editing with Claude & Higgsfield. Higgsfield AI Plugin https://higgsfield.ai?fpr=dankieft&fp_sid=edit Claude ...
+
+📺 Dan Kieft
+
+👁️ 31K • 💬 36 • ⏱️ 11:37 • 1d ago
+
+---
+
+**[Anthropic&#39;s Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California’s Broken Elections](https://www.youtube.com/watch?v=gH4FTjDm9FQ)**
+
+(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI ...
+
+📺 All-In Podcast
+
+👁️ 249K • 👍 6K • 💬 1K • ⏱️ 1:42:00 • 1d ago
+
+---
+
+**[Latest Claude AI models suspended after orders from Trump administration • FRANCE 24 English](https://www.youtube.com/watch?v=MDaZ31jx2vQ)**
+
+Anthropic says it's suspended access to its latest AI models, in order to comply with a US national security order. Just three days ...
+
+📺 FRANCE 24 English
+
+👁️ 134K • 👍 1K • 💬 452 • ⏱️ 1:32 • 1d ago
 
 ---
 
@@ -373,7 +369,7 @@ Render is the easiest place to ship full-stack apps and agents. The first 2000 p
 
 📺 Fireship
 
-👁️ 720K • 👍 25K • 💬 1K • ⏱️ 5:09 • 2d ago
+👁️ 728K • 👍 25K • 💬 1K • ⏱️ 5:09 • 2d ago
 
 ---
 
@@ -389,7 +385,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 198,912 • ❤️ 735 • 3d ago
+⬇️ 198,912 • ❤️ 751 • 4d ago
 
 ---
 
@@ -401,19 +397,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 15,145 • ❤️ 561 • 2d ago
-
----
-
-**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
-
-*NVIDIA*
-
-LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 75,201 • ❤️ 1,977 • 2d ago
+⬇️ 15,145 • ❤️ 581 • 2d ago
 
 ---
 
@@ -425,7 +409,19 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 6,643 • ❤️ 443 • 1d ago
+⬇️ 6,643 • ❤️ 459 • 1d ago
+
+---
+
+**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
+
+*NVIDIA*
+
+LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
+
+`image-text-to-text` `3.8B`
+
+⬇️ 75,201 • ❤️ 1,983 • 2d ago
 
 ---
 
@@ -437,7 +433,7 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 `text-generation` `30.5B`
 
-⬇️ 9,932 • ❤️ 361 • 3d ago
+⬇️ 9,932 • ❤️ 365 • 3d ago
 
 ---
 
@@ -449,7 +445,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 1,084,405 • ❤️ 999 • 10d ago
+⬇️ 1,084,405 • ❤️ 1,003 • 10d ago
 
 ---
 
@@ -461,7 +457,7 @@ DiffusionGemma-26B-A4B-it-GGUF is a 26B MoE multimodal generative model that pro
 
 `image-text-to-text` `25.3B`
 
-⬇️ 80,118 • ❤️ 250 • 1d ago
+⬇️ 80,118 • ❤️ 254 • 1d ago
 
 ---
 
@@ -473,19 +469,7 @@ Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery t
 
 `text-generation` `12.0B`
 
-⬇️ 60,949 • ❤️ 286 • 5d ago
-
----
-
-**[higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)**
-
-*Boson AI*
-
-Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model supporting over 100 languages with zero-shot voice cloning. It offers fine-grained control over speech characteristics like emotion, style, and prosody via inline tokens, making it suitable for expressive conversational AI and voice agents.
-
-`text-to-speech` `4.7B`
-
-⬇️ 35,122 • ❤️ 418 • 11h ago
+⬇️ 60,949 • ❤️ 291 • 5d ago
 
 ---
 
@@ -497,7 +481,19 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,516,709 • ❤️ 1,776 • 1mo ago
+⬇️ 2,516,709 • ❤️ 1,781 • 1mo ago
+
+---
+
+**[higgs-audio-v3-tts-4b](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)**
+
+*Boson AI*
+
+Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model supporting over 100 languages with zero-shot voice cloning. It offers fine-grained control over speech characteristics like emotion, style, and prosody via inline tokens, making it suitable for expressive conversational AI and voice agents.
+
+`text-to-speech` `4.7B`
+
+⬇️ 35,122 • ❤️ 422 • 13h ago
 
 ---
 
@@ -511,9 +507,23 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 94 • 💬 4 • ⭐ 85,865 • 17mo ago
+▲ 95 • 💬 4 • ⭐ 86,025 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 228 • 💬 3 • ⭐ 6,488 • 23d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -539,20 +549,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 80 • 💬 7 • ⭐ 76,932 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 228 • 💬 3 • ⭐ 6,166 • 23d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -596,20 +592,6 @@ LMCACHE enables efficient KV cache management for large language models by stori
 
 ---
 
-**[Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800)**
-
-*Aditi, Niket Agarwal, Arslan Ali et al. (291 authors)*
-
-🏢 NVIDIA
-
-Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
-
-▲ 119 • 💬 1 • ⭐ 10,155 • 13d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
-
----
-
 **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://huggingface.co/papers/2606.13679)**
 
 *Dian Zheng, Harry Lee, Manyuan Zhang et al. (7 authors)*
@@ -619,6 +601,20 @@ InterleaveThinker enables interleaved generation capabilities for image generato
 ▲ 75 • 💬 3 • ⭐ 124 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.13679) • [💻 code](https://github.com/zhengdian1/InterleaveThinker) • [🔗 project](https://zhengdian1.github.io/InterleaveThinker-proj/)
+
+---
+
+**[Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800)**
+
+*Aditi, Niket Agarwal, Arslan Ali et al. (291 authors)*
+
+🏢 NVIDIA
+
+Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
+
+▲ 119 • 💬 1 • ⭐ 10,188 • 13d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
 ---
 
@@ -645,47 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 70.4k • 🔱 8.9k • 19h ago
-
----
-
-**[KunAgent/Kun](https://github.com/KunAgent/Kun)**
-
-AI agent workspace with Code and Write modes built into your application.
-
-`TypeScript`
-
-⭐ 4.1k • 🔱 356 • 19h ago
-
----
-
-**[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)**
-
-AI Agent 学习路线与资料库收集
-
-`HTML`
-
-⭐ 3.6k • 🔱 372 • 9d ago
-
----
-
-**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
-
-Task-oriented AI Agent productivity platform
-
-`TypeScript`
-
-⭐ 3.3k • 🔱 346 • 3d ago
-
----
-
-**[nexu-io/html-video](https://github.com/nexu-io/html-video)**
-
-Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.
-
-`HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
-
-⭐ 3.1k • 🔱 363 • 2d ago
+⭐ 70.6k • 🔱 9.0k • 21h ago
 
 ---
 
@@ -695,7 +651,47 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 2.7k • 🔱 121 • 1d ago
+⭐ 4.6k • 🔱 194 • 1d ago
+
+---
+
+**[KunAgent/Kun](https://github.com/KunAgent/Kun)**
+
+AI agent workspace with Code and Write modes built into your application.
+
+`TypeScript`
+
+⭐ 4.1k • 🔱 357 • 21h ago
+
+---
+
+**[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)**
+
+AI Agent 学习路线与资料库收集
+
+`HTML`
+
+⭐ 3.6k • 🔱 375 • 9d ago
+
+---
+
+**[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)**
+
+Task-oriented AI Agent productivity platform
+
+`TypeScript`
+
+⭐ 3.3k • 🔱 347 • 3d ago
+
+---
+
+**[nexu-io/html-video](https://github.com/nexu-io/html-video)**
+
+Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.
+
+`HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
+
+⭐ 3.1k • 🔱 367 • 3d ago
 
 ---
 
@@ -705,7 +701,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.1k • 🔱 145 • 3h ago
+⭐ 2.1k • 🔱 146 • 3h ago
 
 ---
 

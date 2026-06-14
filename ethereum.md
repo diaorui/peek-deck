@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T12:23:22.685969+00:00'
+updated: '2026-06-14T14:41:04.174102+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 12:23 UTC  
+**Last Updated:** June 14, 2026 at 14:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.0%  
-**30d:** -23.2%  
-**90d:** -27.8%  
-**1y:** -34.3%  
+**24h:** -1.3%  
+**7d:** -2.0%  
+**30d:** -24.0%  
+**90d:** -28.5%  
+**1y:** -35.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.25B
+**Market Cap:** $199.96B
 Rank #2
 
 **Circulating Supply:** 120,684,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-66.5%
 
 **All-Time Low:** $0.43
-+387105.8%
++382403.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 LG Electronics built L2 for advertising, Aave risk framework proposed, history of account abstraction
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 20h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 20h ago
 
 The world's second-largest cryptocurrency is still a compelling investment.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -176,6 +176,12 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
+
+AMBCrypto • 17h ago
+
+---
+
 **[Ethereum Crypto 100](https://fortune.com/ranking/crypto/2026/ethereum/)**
 
 In 2013, a precocious teenager named Vitalik Buterin saw the rise of Bitcoin and decided to expand on the cryptocurrency's vision of decentralization. While Bitcoin was a decentralized ledger for sending and receiving currency, Buterin thought of Ethereum as a decentralized computer to run software. 
@@ -184,13 +190,7 @@ One year later, Buterin and a team of cofounders raised $18 million for Ethereum
 
 More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
 
-Fortune • 2d ago
-
----
-
-**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
-
-AMBCrypto • 15h ago
+Fortune • 3d ago
 
 ---
 
@@ -200,11 +200,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Is XRP the Most Resilient Large-Cap Cryptocurrency in June?](https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/)**
+**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
 
-XRP (XRP) has emerged as one of the more resilient large-cap cryptocurrencies in June despite a challenging environment for digital assets. Recent flow trends indicate that XRP-focused investment products continue to attract capital even as some Bitcoin (BTC) and Ethereum (ETH)- linked funds experi…
+More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
 TradingView • 1d ago
+
+---
+
+**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -216,19 +222,11 @@ FXStreet • 2d ago
 
 ---
 
-**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
+**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/06/13/why-is-institutional-money-pouring-into-xrp-etfs-while-fleeing-bitcoin-and-ethereum/)**
 
-Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
+Bitcoin and Ethereum ETFs lost billions while XRP's kept taking money for six straight weeks. Here's what the flows say about institutions.
 
-Seeking Alpha • 2d ago
-
----
-
-**[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
-
-Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
-
-TipRanks • 1h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -242,7 +240,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 13K • 👍 685 • 💬 106 • ⏱️ 10:36 • 1d ago
+👁️ 14K • 👍 715 • 💬 118 • ⏱️ 10:36 • 1d ago
+
+---
+
+**[Tom Lee :“This Changes Everything for Bitcoin and Crypto&quot; (New 2026 Bitcoin and Crypto Prediction)](https://www.youtube.com/watch?v=O1ykJ45zQJo)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 165 • 💬 33 • ⏱️ 19:47 • 20h ago
 
 ---
 
@@ -252,17 +260,17 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 374 • 💬 21 • ⏱️ 14:06 • 1d ago
+👁️ 8K • 👍 383 • 💬 25 • ⏱️ 14:06 • 1d ago
 
 ---
 
-**[Your Ethereum is in Danger](https://www.youtube.com/watch?v=O2fs5TB7Aig)**
+**[🚨 BTC &amp; ETH: ВСЁ!!! ВРЕМЯ ПРИШЛО!!!!!](https://www.youtube.com/watch?v=DvEoxe6SdxU)**
 
-Ethereum's biggest problem may not be price. It may be its own economy. After a major upgrade cut fees, ETH became less ...
+биткоин #btc #bitcoin Telegram (Новости, тех. анализ, мысли и точки входа): https://t.me/+Z3QpPjhhiRIzZGQy Надёжная ...
 
-📺 Coin Bureau Podcast
+📺 ALDERAMIN
 
-👁️ 2K • 👍 32 • 💬 3 • ⏱️ 0:45 • 20h ago
+👁️ 1K • 👍 132 • 💬 29 • ⏱️ 7:21 • 6h ago
 
 ---
 
@@ -272,57 +280,7 @@ This video is about the Ethereum cryptocurrency.
 
 📺 Crypto Wealth Transfer
 
-👁️ 2K • 👍 215 • 💬 51 • ⏱️ 22:47 • 1d ago
-
----
-
-**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
-
-En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
-
-📺 Emir Şahin
-
-👁️ 10K • 👍 1K • 💬 208 • ⏱️ 34:45 • 23h ago
-
----
-
-**[ETHEREUM одно видео и ты поймешь что сейчас происходит](https://www.youtube.com/watch?v=x4fD3mHUIsE)**
-
-Торгую на бирже Bybit: https://www.bybit.com/register?affiliate_id=53351&group_id=0&group_type=1 Как перевести аккаунт к ...
-
-📺 Romanov Crypto
-
-👁️ 2K • 👍 119 • 💬 15 • ⏱️ 7:45 • 21h ago
-
----
-
-**[BTC &amp; ETHEREUM, fast am Ziel, wir warten auf unsere Gelegenheit hier mal rein zu shorten!](https://www.youtube.com/watch?v=qoyYmKK0-yE)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 430 • 💬 38 • ⏱️ 15:27 • 7h ago
-
----
-
-**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
-
-BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 452 • 💬 195 • ⏱️ 20:28 • 23h ago
-
----
-
-**[$1,000 $ETH COMING? | My Longterm Ethereum Prediction!🚨](https://www.youtube.com/watch?v=hwRhqjYab3M)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 466 • 👍 30 • 💬 3 • ⏱️ 5:32 • 1d ago
+👁️ 2K • 👍 217 • 💬 51 • ⏱️ 22:47 • 1d ago
 
 ---
 
@@ -332,7 +290,47 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 110 • ⏱️ 6:39 • 10h ago
+👁️ 2K • 👍 117 • 💬 8 • ⏱️ 6:39 • 12h ago
+
+---
+
+**[Your Ethereum is in Danger](https://www.youtube.com/watch?v=O2fs5TB7Aig)**
+
+Ethereum's biggest problem may not be price. It may be its own economy. After a major upgrade cut fees, ETH became less ...
+
+📺 Coin Bureau Podcast
+
+👁️ 2K • 👍 36 • 💬 5 • ⏱️ 0:45 • 22h ago
+
+---
+
+**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
+
+BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 459 • 💬 207 • ⏱️ 20:28 • 1d ago
+
+---
+
+**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
+
+En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
+
+📺 Emir Şahin
+
+👁️ 11K • 👍 1K • 💬 218 • ⏱️ 34:45 • 1d ago
+
+---
+
+**[ETHEREUM одно видео и ты поймешь что сейчас происходит](https://www.youtube.com/watch?v=x4fD3mHUIsE)**
+
+Торгую на бирже Bybit: https://www.bybit.com/register?affiliate_id=53351&group_id=0&group_type=1 Как перевести аккаунт к ...
+
+📺 Romanov Crypto
+
+👁️ 2K • 👍 125 • 💬 15 • ⏱️ 7:45 • 23h ago
 
 ---
 
