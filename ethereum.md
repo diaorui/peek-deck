@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T06:41:58.501363+00:00'
+updated: '2026-06-14T10:25:19.128695+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 06:41 UTC  
+**Last Updated:** June 14, 2026 at 10:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** -0.0%  
 **7d:** -0.7%  
 **30d:** -23.0%  
 **90d:** -27.6%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.32B
+**Market Cap:** $202.25B
 Rank #2
 
 **Circulating Supply:** 120,684,209 ETH
@@ -62,15 +62,71 @@ No max supply
 -66.1%
 
 **All-Time Low:** $0.43
-+387062.0%
++387105.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion June 14, 2026](https://www.reddit.com/r/ethereum/comments/1u5c0uz/daily_general_discussion_june_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+5h ago
+
+---
+
+**[Daily General Discussion June 13, 2026](https://www.reddit.com/r/ethereum/comments/1u4huin/daily_general_discussion_june_13_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[Daily General Discussion June 12, 2026](https://www.reddit.com/r/ethereum/comments/1u3lsym/daily_general_discussion_june_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
+**[Ethereal news weekly #27 | LG Electronics built L2 for advertising, Aave risk framework proposed, history of account abstraction](https://www.reddit.com/r/ethereum/comments/1u3vcm4/ethereal_news_weekly_27_lg_electronics_built_l2/)**
+
+LG Electronics built L2 for advertising, Aave risk framework proposed, history of account abstraction
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 1d ago
+
+---
+
+**[Highlights from the All Core Developers Consensus (ACDC) Call #180](https://www.reddit.com/r/ethereum/comments/1u3ml5g/highlights_from_the_all_core_developers_consensus/)**
+
+Ethereum developers tackle Glamsterdam Devnet-5 stability issues, approve key API upgrades, advance QUIC networking, and evaluate early Hegota proposals including EIP-8243.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-180/) • 2d ago
+
+---
+
 **[Daily General Discussion June 11, 2026](https://www.reddit.com/r/ethereum/comments/1u2pk9u/daily_general_discussion_june_11_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
+**[Who are the buyers? Seller’s](https://www.reddit.com/r/ethereum/comments/1u3bxet/who_are_the_buyers_sellers/)**
+
+I’ve read opinions that, in today’s market, ETH sellers are, by and large, individual/retail investors and buyers whales and institutions. Is this a valid observation? If so, what are the implications if it persists?
+
+2d ago
+
+---
+
+**[Vattelum: an open-source decentralized legal system on Ethereum.](https://www.reddit.com/r/ethereum/comments/1u2t91y/vattelum_an_opensource_decentralized_legal_system/)**
+
+I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
 
 3d ago
 
@@ -84,65 +140,11 @@ Like you know that feeling of knowing what something is and reading alot about i
 
 ---
 
-**[Vattelum: an open-source decentralized legal system on Ethereum.](https://www.reddit.com/r/ethereum/comments/1u2t91y/vattelum_an_opensource_decentralized_legal_system/)**
-
-I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
-
-2d ago
-
----
-
-**[What Crypto prediction lives rent free in your head?](https://www.reddit.com/r/ethereum/comments/1u30opm/what_crypto_prediction_lives_rent_free_in_your/)**
-
-2d ago
-
----
-
 **[Mascot needed for Glamsterdam upgrade 🐜🦫🐝🦩🐹🐙🐻‍❄️🐩 Vote for your favorite](https://www.reddit.com/r/ethereum/comments/1u2j8c5/mascot_needed_for_glamsterdam_upgrade_vote_for/)**
 
 A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
 
 🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 3d ago
-
----
-
-**[Daily General Discussion June 10, 2026](https://www.reddit.com/r/ethereum/comments/1u1sjed/daily_general_discussion_june_10_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[I've just read that read that ETH wants to get private. What does it really mean?](https://www.reddit.com/r/ethereum/comments/1u2nc8c/ive_just_read_that_read_that_eth_wants_to_get/)**
-
-I still can't understand how ETH wants to become private when we can see all the transactions on etherscan. What is a new Privacy Upgrade? Is it going to be on L1?
-
-3d ago
-
----
-
-**[Diving into Ethereum staking after Shanghai – my setup headaches and questions for the community](https://www.reddit.com/r/ethereum/comments/1u1cq9h/diving_into_ethereum_staking_after_shanghai_my/)**
-
-Hey everyone, I've been running a solo validator for about 8 months now and wanted to share some concrete details from my experience post-Shanghai upgrade since it feels like the subreddit has been light on real-user staking stories lately. I started with 32 ETH on mainnet using Lighthouse + Geth on a used Dell OptiPlex with 32GB RAM and a 1TB NVMe drive, mostly because I wanted to avoid the big pools and actually control my keys. Before the upgrade withdrawals were basically impossible without full exit, but now I've been able to pull out 0.4 ETH in partial rewards last month to cover electricity and still keep the validator happy. What surprised me most was the MEV-Boost integration – I had to switch from the default relay to Flashbots after seeing my effective APR drop to 3.1% for two weeks straight; the concrete difference was an extra 0.12 ETH over 30 days once I configured the builder API correctly with mev-boost 1.6.0. Hardware-wise the Pi 4 I tried first kept crashing on sync after the Dencun changes so I migrated everything to the desktop and added a 2TB external SSD for the archive node because geth was eating 800GB+ alone. Gas fees for the withdrawal credential change were only 0.0008 ETH which felt almost too cheap compared to 2021 levels, but I still double-checked the contract address against Etherscan three times before signing. One thing I'm still puzzled about is why my attestation success rate dipped to 96% for a few days even though uptime was 99.8% – turned out to be a beacon chain checkpoint issue after a recent client update. Anyone running similar hardware seeing the same? Also curious how people are handling the new 0x01 withdrawal credentials in terms of tax tracking since the partial withdrawals create way more on-chain events than before. Would love to hear specific client configs or relay recommendations that have worked for others without getting rate-limited. Thanks in advance, this community has been super helpful with my earlier posts about testnet debugging.
-
-4d ago
-
----
-
-**[Daily General Discussion June 09, 2026](https://www.reddit.com/r/ethereum/comments/1u0vguk/daily_general_discussion_june_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[Would anybody be willing to explain in simple terms how this works - getting paid by a website via an Ethereum wallet?](https://www.reddit.com/r/ethereum/comments/1u0hxza/would_anybody_be_willing_to_explain_in_simple/)**
-
-I signed up with a well-known legitimate site to get paid posting clips of their content to tiktok, youtube, etc. but found out the only way they pay is to an ethereum wallet, which I have never heard of before. I am not familiar with how to use cryptocurrency at all. I've spent the whole morning trying to find info to understand how it works, called my bank and spoke with someone who told me I can't convert it into real money to deposit it with them, etc. and it's still all just Greek to me. I'm wondering if it's worth bothering with.
-
-5d ago
 
 ---
 
@@ -154,7 +156,7 @@ I signed up with a well-known legitimate site to get paid posting clips of their
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -162,7 +164,7 @@ CoinDesk • 14h ago
 
 BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion reported that its total crypto and cash holdings reached $9.6 billion, driven primarily by a large Ethereum/ETH treasury position. The company disclosed holdings of over 5.5 million ETH, alongside smaller Bitcoin positions, […]
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -186,17 +188,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
+**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
 
-More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
-
-TradingView • 1d ago
-
----
-
-**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/?p=607935)**
-
-AMBCrypto • 9h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -212,11 +206,19 @@ CCN.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12](https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/)**
+**[Is XRP the Most Resilient Large-Cap Cryptocurrency in June?](https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/)**
 
-Bitcoin spot ETFs attracted $85.9M and XRP ETFs gained $2.04M in net inflows on June 12, while Ethereum ETFs continued a streak of outflows.
+XRP (XRP) has emerged as one of the more resilient large-cap cryptocurrencies in June despite a challenging environment for digital assets. Recent flow trends indicate that XRP-focused investment products continue to attract capital even as some Bitcoin (BTC) and Ethereum (ETH)- linked funds experi…
 
-Crypto Briefing • 1d ago
+TradingView • 1d ago
+
+---
+
+**['Cash Is Trash': Robert Kiyosaki Doubles Down on Bitcoin, Ethereum and Gold](https://u.today/cash-is-trash-robert-kiyosaki-doubles-down-on-bitcoin-ethereum-and-gold)**
+
+'Rich Dad Poor Dad' Author Robert Kiyosaki Believes Gold, Silver, Bitcoin, and Ethereum win long term.
+
+U.Today • 4h ago
 
 ---
 
@@ -238,7 +240,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 12K • 👍 655 • 💬 93 • ⏱️ 10:36 • 18h ago
+👁️ 13K • 👍 685 • 💬 106 • ⏱️ 10:36 • 22h ago
 
 ---
 
@@ -248,7 +250,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 359 • 💬 21 • ⏱️ 14:06 • 20h ago
+👁️ 8K • 👍 374 • 💬 21 • ⏱️ 14:06 • 23h ago
 
 ---
 
@@ -258,7 +260,7 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 30 • 💬 2 • ⏱️ 0:45 • 14h ago
+👁️ 2K • 👍 32 • 💬 3 • ⏱️ 0:45 • 18h ago
 
 ---
 
@@ -268,7 +270,7 @@ This video is about the Ethereum cryptocurrency.
 
 📺 Crypto Wealth Transfer
 
-👁️ 2K • 👍 210 • 💬 50 • ⏱️ 22:47 • 18h ago
+👁️ 2K • 👍 215 • 💬 51 • ⏱️ 22:47 • 22h ago
 
 ---
 
@@ -278,27 +280,7 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 10K • 👍 947 • 💬 203 • ⏱️ 34:45 • 17h ago
-
----
-
-**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
-
-BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 432 • 💬 195 • ⏱️ 20:28 • 17h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opNCYoSVyYk)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 652 • 👍 85 • ⏱️ 6:39 • 4h ago
+👁️ 10K • 👍 1K • 💬 208 • ⏱️ 34:45 • 21h ago
 
 ---
 
@@ -308,17 +290,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Romanov Crypto
 
-👁️ 2K • 👍 108 • 💬 13 • ⏱️ 7:45 • 15h ago
+👁️ 2K • 👍 119 • 💬 15 • ⏱️ 7:45 • 19h ago
 
 ---
 
-**[💀 Whales Move 290,000 ETH - ETH Crypto Analysis](https://www.youtube.com/watch?v=OlwILA0wDM0)**
+**[BTC &amp; ETHEREUM, fast am Ziel, wir warten auf unsere Gelegenheit hier mal rein zu shorten!](https://www.youtube.com/watch?v=qoyYmKK0-yE)**
 
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Krypto Trading & Investing
 
-👁️ 5K • 👍 163 • 💬 41 • ⏱️ 16:46 • 2d ago
+👁️ 2K • 👍 430 • 💬 38 • ⏱️ 15:27 • 5h ago
+
+---
+
+**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
+
+BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 452 • 💬 195 • ⏱️ 20:28 • 21h ago
 
 ---
 
@@ -328,7 +320,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 432 • 👍 27 • 💬 3 • ⏱️ 5:32 • 19h ago
+👁️ 466 • 👍 30 • 💬 3 • ⏱️ 5:32 • 23h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opNCYoSVyYk)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 110 • ⏱️ 6:39 • 8h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T06:41:58.504564+00:00'
+updated: '2026-06-14T10:25:19.131948+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 06:41 UTC  
+**Last Updated:** June 14, 2026 at 10:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I've always been interested in point clouds and spatial data, so I created my ow
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-1d ago
+2d ago
 
 ---
 
@@ -56,7 +56,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Depth cloud Test on SLAM Camera](https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-15h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ Curation of materials for robotics and Artificial Intelligence. Learn as your pr
 
 **[Visual Integration to LIO SAM](https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 14h ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 18h ago
 
 ---
 
@@ -106,23 +106,9 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Nvidia, Amazon Back Neura Robotics’ $1.4 Billion Fundraise](https://www.wsj.com/tech/ai/nvidia-amazon-back-neura-robotics-1-4-billion-fundraise-ff630662)**
-
-WSJ • 2d ago
-
----
-
 **[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
 Barron's • 2d ago
-
----
-
-**[Qualcomm’s AI Ecosystem Extends To Humanoid Robots And Autonomous Vehicles](https://finance.yahoo.com/markets/stocks/articles/qualcomm-ai-ecosystem-extends-humanoid-180653077.html)**
-
-Neura Robotics, backed by Qualcomm, Nvidia and Amazon, has secured funding of up to US$1.4b to scale AI-powered humanoid and cognitive robots across multiple industries. Qualcomm’s automotive partner QCraft is preparing global mass-market deployment of autonomous driving solutions built on Qualcomm’s SA8650P platform. These developments highlight Qualcomm’s push beyond smartphones into robotics and intelligent vehicles through its wider AI and hardware ecosystem. For investors tracking...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -130,15 +116,7 @@ Yahoo Finance • 2d ago
 
 Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
 
-CNBC • 18h ago
-
----
-
-**[Are Emotion Reading Robots Still Missing What Matters Most?](https://spectrum.ieee.org/robot-emotions-visual-language-models)**
-
-If robots are ever going to work alongside humans more generally, they’ll need read our moods
-
-IEEE Spectrum • 2d ago
+CNBC • 22h ago
 
 ---
 
@@ -146,7 +124,23 @@ IEEE Spectrum • 2d ago
 
 NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Why Robots Still Can’t Do Science](https://nautil.us/why-robots-still-cant-do-science-1281910)**
+
+Why Robots Still Can't Do Science: AI can read the literature in an afternoon and design molecules a chemist never would. So why can't a robot hold a pipette?
+
+Nautilus | Science • 1d ago
+
+---
+
+**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
+
+Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+
+Fox News • 20h ago
 
 ---
 
@@ -156,25 +150,31 @@ WSJ • 2d ago
 
 ---
 
-**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
+**[Soft robots get a tiny soft pump to move their bodies](https://newatlas.com/robotics/soft-robots-tiny-pump/)**
 
-Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed,…
 
-Fox News • 17h ago
-
----
-
-**[Why it’s nearly impossible to build a robot without China](https://www.japantimes.co.jp/business/2026/06/13/tech/china-robot-lead/)**
-
-Building on the country’s electric vehicle industry, Chinese companies are making robot parts at a scale and price point others can’t match.
-
-The Japan Times • 22h ago
+New Atlas • 1d ago
 
 ---
 
 **[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[The first-ever robotic rescue at sea is a milestone](https://www.economist.com/middle-east-and-africa/2026/06/11/the-first-ever-robotic-rescue-at-sea-is-a-milestone)**
+
+The Economist • 2d ago
+
+---
+
+**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
+
+They were impressive, but could they ever feel human?
+
+The Atlantic • 2d ago
 
 ---
 
@@ -188,7 +188,7 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 7K • 👍 149 • 💬 75 • ⏱️ 8:49 • 19h ago
+👁️ 7K • 👍 155 • 💬 76 • ⏱️ 8:49 • 23h ago
 
 ---
 
@@ -202,13 +202,13 @@ A humanoid hand sweats like human skin while tightening bolts for three hours st
 
 ---
 
-**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
+**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
 
-Shantak, Urhag & Voonith Giveaway Winners ...
+What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
 
-📺 PREDATOR WR
+📺 Top Talent
 
-👁️ 7K • 👍 333 • 💬 59 • ⏱️ 15:34 • 18h ago
+👁️ 116K • 👍 2K • 💬 164 • ⏱️ 6:09 • 4d ago
 
 ---
 
@@ -218,17 +218,47 @@ This video showcases some model successes and failures I've had in building a ro
 
 📺 Over Engineer
 
-👁️ 2K • 👍 175 • 💬 22 • ⏱️ 6:05 • 1d ago
+👁️ 2K • 👍 197 • 💬 25 • ⏱️ 6:05 • 1d ago
 
 ---
 
-**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
+**[He made robots dance to... lady gaga on AGT? 🤯 #robot #agt #humanoidrobot #talent](https://www.youtube.com/watch?v=OGy5M2Xsss8)**
 
-What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
+Chinese Dancers Bring 8 Unitree Robots to AGT 2026 - and get the ultimate 4 Yesses from the judges! Humans can dances..
 
 📺 Top Talent
 
-👁️ 113K • 👍 2K • 💬 162 • ⏱️ 6:09 • 4d ago
+👁️ 686K • 👍 10K • 💬 183 • ⏱️ 1:06 • 6d ago
+
+---
+
+**[China’s Humanoid Robots Crash! ¥1M Each to ¥50K per Truck, Looks Like Scrap Metal](https://www.youtube.com/watch?v=uFuGY0yaTdg)**
+
+Recently, the price of humanoid robots in China has plunged sharply. Just a year ago, engineering prototypes required tens of ...
+
+📺 China Observer
+
+👁️ 58K • 👍 2K • 💬 625 • ⏱️ 16:33 • 6d ago
+
+---
+
+**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
+
+Shantak, Urhag & Voonith Giveaway Winners ...
+
+📺 PREDATOR WR
+
+👁️ 8K • 👍 343 • 💬 60 • ⏱️ 15:34 • 22h ago
+
+---
+
+**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
+
+ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
+
+📺 Back to Engineering
+
+👁️ 23K • 👍 249 • 💬 6 • ⏱️ 0:13 • 2d ago
 
 ---
 
@@ -236,17 +266,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Zack D. Films
 
-👁️ 3.0M • 👍 132K • 💬 1K • ⏱️ 0:39 • 11h ago
-
----
-
-**[Mini LEGO brick Pteranodon  transformer robot - Pterabot #LEGO #MOC #dinobot](https://www.youtube.com/watch?v=87CRNBaeanM)**
-
-A Pteranodon transforming robot that can be built easily with just 25 pieces – Pterabot! Parts list for these LEGO robots ...
-
-📺 BrickMecha
-
-👁️ 4K • 👍 70 • 💬 14 • ⏱️ 8:05 • 1d ago
+👁️ 4.0M • 👍 161K • 💬 2K • ⏱️ 0:39 • 14h ago
 
 ---
 
@@ -256,27 +276,7 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 32K • 👍 1K • 💬 102 • ⏱️ 0:30 • 20h ago
-
----
-
-**[Amazing Swimming Robot 🐟 | Biomimetic Underwater Drone Technology Explained](https://www.youtube.com/watch?v=d-mjpzo9ZJU)**
-
-Watch this incredible swimming robot that mimics the movement of a real fish! Instead of traditional propellers, this advanced ...
-
-📺 SolidWorks Pro Tutorials
-
-👁️ 21K • 👍 149 • ⏱️ 0:09 • 4d ago
-
----
-
-**[0-Shot Picking Robot: Sereact&#39;s Revolutionary AI for Any Item #shorts](https://www.youtube.com/watch?v=NcfcQJdFO88)**
-
-Revolutionary 0-shot picking: our robot uses AI vision to identify and grasp items, even without prior training. Perfect for diverse ...
-
-📺 Supply Chaney
-
-👁️ 522 • 👍 8 • ⏱️ 0:59 • 11h ago
+👁️ 34K • 👍 1K • 💬 106 • ⏱️ 0:30 • 1d ago
 
 ---
 
