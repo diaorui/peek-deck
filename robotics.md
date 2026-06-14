@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T14:41:04.176933+00:00'
+updated: '2026-06-14T16:22:51.895434+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 14:41 UTC  
+**Last Updated:** June 14, 2026 at 16:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 22h ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Barron's • 3d ago
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -136,11 +136,19 @@ Nautilus | Science • 2d ago
 
 ---
 
+**[OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?](https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/)**
+
+ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
+
+The Motley Fool • 4h ago
+
+---
+
 **[NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe](https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-partners-nebius-192521134.html)**
 
 NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -156,9 +164,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[The first-ever robotic rescue at sea is a milestone](https://www.economist.com/middle-east-and-africa/2026/06/11/the-first-ever-robotic-rescue-at-sea-is-a-milestone)**
+**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
 
-The Economist • 3d ago
+Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+
+Fox News • 1d ago
 
 ---
 
@@ -166,15 +176,7 @@ The Economist • 3d ago
 
 They were impressive, but could they ever feel human?
 
-The Atlantic • 2d ago
-
----
-
-**[Anthropic restricts top-tier models after US cites security risk](https://interestingengineering.com/ai-robotics/anthropic-blocks-international-users)**
-
-Anthropic has suspended access to its most advanced AI models for international users after the Trump administration designated them as potential national security risks.
-
-Interesting Engineering • 23h ago
+The Atlantic • 3d ago
 
 ---
 
@@ -236,7 +238,7 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Zack D. Films
 
-👁️ 4.9M • 👍 186K • 💬 2K • ⏱️ 0:39 • 19h ago
+👁️ 4.9M • 👍 186K • 💬 2K • ⏱️ 0:39 • 20h ago
 
 ---
 
@@ -266,7 +268,7 @@ A surgical robot operating on the human spine with sub-millimeter precision. FDA
 
 📺 KF Labs
 
-👁️ 3K • 👍 115 • 💬 2 • ⏱️ 0:05 • 5h ago
+👁️ 3K • 👍 115 • 💬 2 • ⏱️ 0:05 • 7h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T14:41:04.174102+00:00'
+updated: '2026-06-14T16:22:51.892271+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 14:41 UTC  
+**Last Updated:** June 14, 2026 at 16:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -2.0%  
-**30d:** -24.0%  
-**90d:** -28.5%  
-**1y:** -35.0%  
+**24h:** -0.5%  
+**7d:** -1.5%  
+**30d:** -23.6%  
+**90d:** -28.1%  
+**1y:** -34.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 22h ago
 
 The world's second-largest cryptocurrency is still a compelling investment.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ The Motley Fool • 1d ago
 
 **[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
 
-AMBCrypto • 17h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -200,17 +200,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
+**[Is XRP the Most Resilient Large-Cap Cryptocurrency in June?](https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/)**
 
-More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
+XRP (XRP) has emerged as one of the more resilient large-cap cryptocurrencies in June despite a challenging environment for digital assets. Recent flow trends indicate that XRP-focused investment products continue to attract capital even as some Bitcoin (BTC) and Ethereum (ETH)- linked funds experi…
 
 TradingView • 1d ago
-
----
-
-**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
-
-CCN.com • 2d ago
 
 ---
 
@@ -222,11 +216,19 @@ FXStreet • 2d ago
 
 ---
 
-**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://247wallst.com/investing/cryptocurrency/2026/06/13/why-is-institutional-money-pouring-into-xrp-etfs-while-fleeing-bitcoin-and-ethereum/)**
+**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
 
-Bitcoin and Ethereum ETFs lost billions while XRP's kept taking money for six straight weeks. Here's what the flows say about institutions.
+Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
 
-24/7 Wall St. • 16h ago
+Seeking Alpha • 3d ago
+
+---
+
+**[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
+
+Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
+
+TipRanks • 5h ago
 
 ---
 
@@ -250,7 +252,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 165 • 💬 33 • ⏱️ 19:47 • 20h ago
+👁️ 5K • 👍 165 • 💬 33 • ⏱️ 19:47 • 22h ago
 
 ---
 
@@ -270,7 +272,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 ALDERAMIN
 
-👁️ 1K • 👍 132 • 💬 29 • ⏱️ 7:21 • 6h ago
+👁️ 1K • 👍 132 • 💬 29 • ⏱️ 7:21 • 8h ago
 
 ---
 
@@ -290,7 +292,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 117 • 💬 8 • ⏱️ 6:39 • 12h ago
+👁️ 2K • 👍 117 • 💬 8 • ⏱️ 6:39 • 14h ago
 
 ---
 
@@ -300,7 +302,7 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 36 • 💬 5 • ⏱️ 0:45 • 22h ago
+👁️ 2K • 👍 36 • 💬 5 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -330,7 +332,7 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Romanov Crypto
 
-👁️ 2K • 👍 125 • 💬 15 • ⏱️ 7:45 • 23h ago
+👁️ 2K • 👍 125 • 💬 15 • ⏱️ 7:45 • 1d ago
 
 ---
 

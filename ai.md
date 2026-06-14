@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-14T14:41:04.160725+00:00'
+updated: '2026-06-14T16:22:51.877669+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 14, 2026 at 14:41 UTC  
+**Last Updated:** June 14, 2026 at 16:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
 
-7h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ This is something I keep thinking about as someone who's built AI into a few bus
 
 Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a universal basic income and introduce employee retention incentives to account for the potential impact the technology could have on the labor market. In a blog covering the potential policy responses to the “AI exponential,” referring to the rapid improvement in the technology’s capabilities, Amodei urged governments to develop regulatory and tax solutions to cushion its disruption. A universal basic income funded through taxing “relevant companies” or raising the capital gains tax could be necessary, if AI results in widespread job displacement and permanently reduces labor demand, he said.
 
-🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 5h ago
+🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a u
 
 Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
 
-🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 18h ago
+🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 20h ago
 
 ---
 
@@ -65,7 +65,15 @@ Microsoft president and vice chairman Brad Smith recently shared his – definit
 
 I am collecting data for a project at university, I want to find what people from different political leanings think about ai. I would really appreciate it if as many people can take the time to fill in my survey. I will happily post my findings here so we can have a discussion. ​ https://forms.gle/bqm7WKiZPg1Qx3Dh8
 
-10m ago
+1h ago
+
+---
+
+**[We’re building an AI factory](https://www.reddit.com/r/artificial/comments/1u5oi77/were_building_an_ai_factory/)**
+
+I’m one of the people building Since AI(https://sinceai.ai/). The idea is simple: bring together serious AI builders, give them real industry problems, compute and 72 hours — then help the strongest projects continue after the event. Less networking theatre. More working software. What you think would make this genuinely valuable rather than just another hackathon?
+
+38m ago
 
 ---
 
@@ -81,15 +89,7 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 A lot of AI-agent discussions focus on whether the agent completed the task. But I think there is a missing category: the agent may complete the task, but do it in an unsafe or policy-violating way. For example, an agent could finish the job but use the wrong tool, skip an approval step, expose private information, or take an action that should have been blocked. In our ACM CAIS 2026 paper, we call this the Verifier Tax. The idea is to separate: safe success unsafe success failure We studied this in tool-using LLM agent scenarios using τ-bench and proposed a two-tier verification architecture: deterministic checks first, then an LLM-based verifier for more contextual cases. The main takeaway: verification can make agents safer by reducing unsafe success, but it may also reduce task completion as tasks get longer. Paper: https://dl.acm.org/doi/full/10.1145/3786335.3813160 Curious what people think: if an AI agent completes a task but violates a safety rule, should that count as success or failure?
 
-12h ago
-
----
-
-**[We solved reasoning. The remaining challenge was apparently pressing Enter.](https://www.reddit.com/r/artificial/comments/1u5gaxs/we_solved_reasoning_the_remaining_challenge_was/)**
-
-Every week I see discussions about more capable models. Better reasoning.Better coding. Longer context. More autonomy. Meanwhile most real-world AI workflows still look like this: AI works. Human clicks continue. AI works. Human clicks continue. Repeat until boredom wins. I became curious how much of that friction was actually necessary. So I built Ghost in the Loop. It's an open-source project that automatically continues multi-step AI conversations across major AI platforms. What's interesting isn't the automation itself. What's interesting is watching how far current models can go once the conversation isn't constantly interrupted. Sometimes the results are impressive. Sometimes they're complete disasters. Both are useful data. I'd love feedback from people who spend time thinking about AI systems and human-in-the-loop design. Questions I'm exploring: • Where should autonomy stop? • Where should humans stay involved? • What tasks benefit from longer loops? • What tasks become worse? GitHub: https://github.com/MShneur/ghost-in-the-loop TL;DR I built a tool that removes one layer of human intervention from AI workflows. Now I'm trying to figure out where that becomes valuable and where it becomes a mistake.
-
-5h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ The bitter lesson, visualized.
 
 I came across this website when I was trying to figure out how real the complaints to data center opposition are. Has anyone seen this site before? I can't figure out what it is. Looks kind of like a legal site, but I don't think it is. https://beaumontandsheridan.com/resources/data-centers-the-internets-body/
 
-17h ago
+19h ago
 
 ---
 
@@ -125,71 +125,67 @@ I came across this website when I was trying to figure out how real the complain
 
 Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
 
-CNBC • 2h ago
+CNBC • 4h ago
+
+---
+
+**[In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[Changing Careers, Cutting Expenses: Software Engineers Contend With AI](https://www.wsj.com/lifestyle/careers/changing-careers-cutting-expenses-software-engineers-contend-with-ai-3889ce73)**
+
+WSJ • 22m ago
+
+---
+
+**[Report: Americans support targeted AI surveillance, oppose 'indiscriminate' monitoring](https://www.ksl.com/article/51509055/report-americans-support-targeted-ai-surveillance-oppose-indiscriminate-monitoring)**
+
+A report released by software company LiveView Technologies painted a picture of how people feel about technologies like AI-powered security cameras in public spaces.
+
+KSL News • 16m ago
 
 ---
 
 **[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
+
+---
+
+**[Amazon voiced concerns about Anthropic AI models before US crackdown, source says​](https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/)**
+
+Reuters • 22h ago
+
+---
+
+**[Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic](https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519)**
+
+Politico • 16h ago
 
 ---
 
 **[Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis](https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook)**
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says](https://www.cnbc.com/2026/06/14/ceo-of-.html)**
+**[Siri AI is already smarter than your average Swiftie](https://www.macworld.com/article/3163698/siri-ai-taylor-swift-apple-music-playlists-knowledge.html)**
 
-Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.
+Even in its first beta, Siri is able to do things it never could before with impressive accuracy.
 
-CNBC • 37m ago
-
----
-
-**[The World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
-
-The New York Times • 5h ago
+Macworld • 1h ago
 
 ---
 
-**[Russian families use AI to 'resurrect' loved ones killed in Ukraine](https://www.bbc.com/news/articles/cwy24v72n19o)**
+**[Opinion | Why Europe won’t have the new Siri](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/)**
 
-The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.
+The Digital Markets Act was supposed to create more choices. Instead, people get worse technology.
 
-BBC • 15h ago
-
----
-
-**[For centuries, math has been a human endeavor. Does AI mean it’s over?](https://www.washingtonpost.com/science/2026/06/14/math-has-helped-define-what-it-means-be-human-centuries-cue-robots/)**
-
-Math illuminates how traffic flows, how our cells build proteins and even how to speed up medical imaging scans. Some worry the academic discipline now faces an existential threat.
-
-The Washington Post • 1h ago
-
----
-
-**[The Job That AI Was Supposed to Kill Needs More Humans Than Ever](https://www.wsj.com/tech/ai/the-job-that-ai-was-supposed-to-kill-needs-more-humans-than-ever-0771e4cf)**
-
-WSJ • 1d ago
-
----
-
-**[The Millions of Songs Mashed Into AI-Generated Music](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/)**
-
-Explore the astonishing amount of music available to AI developers.
-
-The Atlantic • 3h ago
-
----
-
-**[Wall Street digests record fundraising haul as AI race intensifies](https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06?syn-25a6b1a6=1)**
-
-SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
-
-Financial Times • 10h ago
+The Washington Post • 36m ago
 
 ---
 
@@ -201,19 +197,19 @@ Financial Times • 10h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1545 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1551 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1448 • 💬 528 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1449 • 💬 528 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 349 • 💬 177 • 18h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 355 • 💬 180 • 20h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 
 ---
 
@@ -221,7 +217,7 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 314 • 💬 260 • 21h ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+⬆️ 322 • 💬 263 • 23h ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
@@ -229,13 +225,13 @@ There are three ways to do AI coding at home without spending like a company, an
 
 TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
 
-⬆️ 269 • 💬 166 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
+⬆️ 270 • 💬 168 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
 
 ---
 
 **[Slightly reducing the sloppiness of AI generated front end](https://news.ycombinator.com/item?id=48504912)**
 
-⬆️ 218 • 💬 130 • 1d ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+⬆️ 218 • 💬 130 • 2d ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 
 ---
 
@@ -259,13 +255,15 @@ The advance in fabric technology comes alongside a new benchmark for atmospheric
 
 AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
 
-⬆️ 158 • 💬 56 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
+⬆️ 159 • 💬 56 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
 
 ---
 
-**[Ask HN: How do you get into a flow state when using AI to code?](https://news.ycombinator.com/item?id=48492118)**
+**[No, everyone is not using AI for everything](https://news.ycombinator.com/item?id=48527700)**
 
-⬆️ 90 • 💬 116 • 2d ago
+People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
+
+⬆️ 136 • 💬 110 • 1h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
@@ -279,7 +277,7 @@ Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's to
 
 📺 DW News
 
-👁️ 64K • 👍 1K • 💬 306 • ⏱️ 14:25 • 13h ago
+👁️ 64K • 👍 1K • 💬 306 • ⏱️ 14:25 • 15h ago
 
 ---
 
@@ -289,7 +287,7 @@ Anthropic's Fable 5 was live for only three days before everything changed. The 
 
 📺 AI Revolution
 
-👁️ 18K • 👍 720 • 💬 204 • ⏱️ 12:49 • 15h ago
+👁️ 18K • 👍 720 • 💬 204 • ⏱️ 12:49 • 17h ago
 
 ---
 
@@ -299,7 +297,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 21K • 👍 1K • 💬 234 • ⏱️ 9:43 • 23h ago
+👁️ 21K • 👍 1K • 💬 234 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -309,7 +307,7 @@ HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M
 
 📺 AI Search
 
-👁️ 61K • 👍 3K • 💬 306 • ⏱️ 43:47 • 11h ago
+👁️ 61K • 👍 3K • 💬 306 • ⏱️ 43:47 • 12h ago
 
 ---
 
@@ -339,7 +337,7 @@ I tried AI Video Editing with Claude & Higgsfield. Higgsfield AI Plugin https://
 
 📺 Dan Kieft
 
-👁️ 31K • 💬 36 • ⏱️ 11:37 • 1d ago
+👁️ 31K • 💬 36 • ⏱️ 11:37 • 2d ago
 
 ---
 
@@ -457,7 +455,7 @@ DiffusionGemma-26B-A4B-it-GGUF is a 26B MoE multimodal generative model that pro
 
 `image-text-to-text` `25.3B`
 
-⬇️ 80,118 • ❤️ 254 • 1d ago
+⬇️ 80,118 • ❤️ 254 • 2d ago
 
 ---
 
@@ -493,7 +491,7 @@ Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model support
 
 `text-to-speech` `4.7B`
 
-⬇️ 35,122 • ❤️ 422 • 13h ago
+⬇️ 35,122 • ❤️ 422 • 15h ago
 
 ---
 
@@ -641,7 +639,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 70.6k • 🔱 9.0k • 21h ago
+⭐ 70.6k • 🔱 9.0k • 23h ago
 
 ---
 
@@ -661,7 +659,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 357 • 21h ago
+⭐ 4.1k • 🔱 357 • 23h ago
 
 ---
 
@@ -701,7 +699,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.1k • 🔱 146 • 3h ago
+⭐ 2.1k • 🔱 146 • 5h ago
 
 ---
 
