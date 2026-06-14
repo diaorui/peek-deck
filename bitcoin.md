@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-14T16:22:51.886282+00:00'
+updated: '2026-06-14T17:57:21.270285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 16:22 UTC  
+**Last Updated:** June 14, 2026 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,080.16
+### $63,722.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.6%  
-**30d:** -18.0%  
-**90d:** -13.3%  
-**1y:** -39.3%  
+**24h:** -0.7%  
+**7d:** +0.9%  
+**30d:** -18.5%  
+**90d:** -13.8%  
+**1y:** -39.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1281.69B
+**Market Cap:** $1277.55B
 Rank #1
 
-**Circulating Supply:** 20,042,590 BTC
+**Circulating Supply:** 20,042,662 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.4%
 
 **All-Time Low:** $67.81
-+94160.4%
++93890.6%
 
 ---
 
@@ -77,27 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[This is by design and everything is pre-programmed. We are at the mid year between halving. The most bearish year and the best time to accumulate and buy bitcoin. Seen this 3 times already and I just follow this same pattern and now I am an millionaire just from an investment of $10,000](https://www.reddit.com/r/Bitcoin/comments/1u4rpvy/this_is_by_design_and_everything_is_preprogrammed/)**
+**[When everyone's telling me to "go all in" while it's cheap, but I went all in months ago.](https://www.reddit.com/r/Bitcoin/comments/1u5j1cq/when_everyones_telling_me_to_go_all_in_while_its/)**
 
-Keep buying before the institutions get all these cheap bitcoins. The institutions have been gobbling up bitcoin right now. I have access to institution data. They are holding bitcoin at highest record and all time high now. They are shaking out every retail trader weak hands . They will accumulate the price goes up. So they short it with futures and options and bring it back down and they accumulate again. https://preview.redd.it/tyw1nqtlo27h1.png?width=2464&format=png&auto=webp&s=1a39097f745bef7ae272930bffb542759bb29a4e
-
-1d ago
+6h ago
 
 ---
 
-**[Bitcoin's mining difficulty is set for the 11th-largest downward adjustment in Bitcoin's history. Miners are leaving the network](https://www.reddit.com/r/Bitcoin/comments/1u4oqyy/bitcoins_mining_difficulty_is_set_for_the/)**
+**[Just expanded my solo mining rig to 72 TH/s! 🚀](https://www.reddit.com/r/Bitcoin/comments/1u5pf4i/just_expanded_my_solo_mining_rig_to_72_ths/)**
 
-You can see the live difficulty here: https://newhedge.io/bitcoin/difficulty-estimator
+Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-1d ago
-
----
-
-**[Is the 500-Day Bitcoin Halving Strategy Really This Simple?](https://www.reddit.com/r/Bitcoin/comments/1u4onay/is_the_500day_bitcoin_halving_strategy_really/)**
-
-Has anyone here actually tried the 500-day Bitcoin halving strategy? The idea is simple: Buy 500 days before a Bitcoin halving Sell 500 days after the halving Looking at previous cycles, the returns seem surprisingly strong: • Cycle 1: 31x • Cycle 2: 34x • Cycle 3: 12x • Cycle 4: 6.4x No indicators, no active trading, no trying to time tops and bottoms. If historical patterns continue, the next buy window would start around December 1, 2026. What am I missing here? Is this one of the most effective long-term Bitcoin strategies, or is it just a case of curve-fitting past data?
-
-1d ago
+1h ago
 
 ---
 
@@ -107,11 +97,11 @@ Has anyone here actually tried the 500-day Bitcoin halving strategy? The idea is
 
 ---
 
-**[If your still waiting for it to go lower to get in then you will never own any BTC](https://www.reddit.com/r/Bitcoin/comments/1u4z78r/if_your_still_waiting_for_it_to_go_lower_to_get/)**
+**[Listen to Mechanic](https://www.reddit.com/r/Bitcoin/comments/1u5oa53/listen_to_mechanic/)**
 
-I’ve talked to several people who didn’t buy at 16K because they thought it would go down to 12.5K A few more who never bought in Jan 2024 because they thought it would break below 30K I just talked to another friend who said it should come down to 55K, then I’ll buy. What if it doesn’t? If you’re one of these people, you want to invest but think you can wait till the bottom to go all in, you will miss out. This is a great level. Especially if you don’t already own any. Invest half now of whatever your maximum investment amount is. If it goes lower invest more. When it makes a new ATH you’re not going care if you got in at 65 or 55. You will just be happy you got in! Make the choice, don’t miss out
+People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-21h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 2h ago
 
 ---
 
@@ -119,35 +109,45 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giving it much thought. Over the course of that year, they deposited small amounts of Bitcoin into it. When they later wanted to cash out, they couldn't remember ever encrypting the wallet in the first place. While attempting to recover access at the time, they filled out the following form (see image). The version of Bitcoin Core available back then displayed the following recommendation when encrypting a wallet: This was only a recommendation. The actual technical requirement was simply that the passphrase contain more than one character. Today, the owner believes the password may contain the word "wallet" (or its Spanish equivalent, "billetera"). His name is Guillermo Ariel Ramirez, birthday 21-nov-1969, from Argentina. Offline page for manual testing: https://mrbianchi.github.io/decrypter16btc-web/ Hashcat hash for anyone who wants to attempt brute force: $bitcoin$96$1bbd24dc0f23175483d619a24e15f4a06e7e1d3d8b13d9a979b7f4223792836f50520c27c698fa9468ff95f481b888f0$16$65e1017f33467568$63533$2$00$2$00 In 2018, I made a similar post in the Bitcoin Argentina Facebook group: https://facebook.com/groups/351870631591732/?multi_permalinks=1569987566446693 For those who don't know me, I've completed numerous projects within that community involving wallet recovery and the recovery of cryptocurrency balances. https://preview.redd.it/surzl9x9h47h1.png?width=3525&format=png&auto=webp&s=075c6622dba32e4b909977c4c3d637e8fa74986e https://preview.redd.it/6yhesw6dh47h1.png?width=1080&format=png&auto=webp&s=8ea8955bdc40bf87009740b377859ac29c8c9f20 https://www.blockchain.com/es/explorer/addresses/btc/189JveWz2WP79oYU9Gq4NUfiurbiuNPUhn
 
-18h ago
-
----
-
-**[Why does the mainstream always ignore the rising floor? (The SpaceX IPO vs. BTC cope)](https://www.reddit.com/r/Bitcoin/comments/1u4wnyc/why_does_the_mainstream_always_ignore_the_rising/)**
-
-I’ve been seeing a lot of "investment" subreddits posting memes lately, hyping up a potential SpaceX IPO while throwing trash at Bitcoin because it’s "stuck" at around $60k–$63k instead of hitting $1 million overnight. It honestly blows my mind how short-sighted the general public is. They act as if traditional stocks or fiat currency have some magical "tangible value," completely ignoring that corporate valuations are heavily inflated and fiat is guaranteed to lose purchasing power year after year. People completely ignore the macro perspective: • The rising floor: A few years ago, the cycle floor was $15k. Now, the floor has established itself between $30k–$60k. That is massive structural growth, but critics choose to look away. • The predictable cycle: We all know how this ends. Bitcoin will eventually climb to $250k–$300k in the coming years. When it does, the exact same crowd calling it "garbage" right now will FOMO in at the absolute top, screaming about a bubble while buying our bags. Why is the average retail investor so blind to the reality of currency devaluing and Bitcoin's higher lows? Is it just pure coping because they missed the early boats?
-
-23h ago
-
----
-
-**[HODL started as a drunk typo in 2013. Here's the full story](https://www.reddit.com/r/Bitcoin/comments/1u4mig2/hodl_started_as_a_drunk_typo_in_2013_heres_the/)**
-
-December 18, 2013. Bitcoin had just crashed from $1,100 to $600 in a matter of days. A forum user named GameKyuubi sat down at his keyboard, by his own admission a bit drunk, and posted a thread called "I AM HODLING." He didn't try to fix the typo. He explained that he knew he was a bad trader, that he'd lose to people who actually knew what they were doing if he tried to time the market, so he'd decided to just sit on his Bitcoin and wait. The community ran with it. The word never went away. "Hold On for Dear Life" was invented after the fact to explain a word that already existed. Classic backronym. The funny thing is that his reasoning was actually solid. He identified his own weakness, and the best solution he came up with was to do nothing. That's essentially passive long-term investing applied to crypto, and for Bitcoin specifically the track record has backed it up every single time, through every crash that was supposed to be the end. The most rational strategy in crypto came from a drunk guy who couldn't spell on a Tuesday night in 2013. Feels right.
-
-1d ago
+19h ago
 
 ---
 
 **[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
 
-17h ago
+19h ago
 
 ---
 
-**[Study Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1u4puv4/study_bitcoin/)**
+**[Probably shouldn't promise her a new nest](https://www.reddit.com/r/Bitcoin/comments/1u5nte6/probably_shouldnt_promise_her_a_new_nest/)**
 
-1d ago
+Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
+
+2h ago
+
+---
+
+**[On-chain fees are so low right now](https://www.reddit.com/r/Bitcoin/comments/1u5m51y/onchain_fees_are_so_low_right_now/)**
+
+Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
+
+3h ago
+
+---
+
+**[1 Bitcoin is 1 bitcoin . It’s the only true monetary asset that is scarce . It just go on extreme exuberance and go overvalued to extreme so it drops to being undervalued like now . I have done nothing and can still buy a house . Not possible if I have my assets in dollar .](https://www.reddit.com/r/Bitcoin/comments/1u5oybp/1_bitcoin_is_1_bitcoin_its_the_only_true_monetary/)**
+
+Buy Bitcoin
+
+1h ago
+
+---
+
+**[If your still waiting for it to go lower to get in then you will never own any BTC](https://www.reddit.com/r/Bitcoin/comments/1u4z78r/if_your_still_waiting_for_it_to_go_lower_to_get/)**
+
+I’ve talked to several people who didn’t buy at 16K because they thought it would go down to 12.5K A few more who never bought in Jan 2024 because they thought it would break below 30K I just talked to another friend who said it should come down to 55K, then I’ll buy. What if it doesn’t? If you’re one of these people, you want to invest but think you can wait till the bottom to go all in, you will miss out. This is a great level. Especially if you don’t already own any. Invest half now of whatever your maximum investment amount is. If it goes lower invest more. When it makes a new ATH you’re not going care if you got in at 65 or 55. You will just be happy you got in! Make the choice, don’t miss out
+
+22h ago
 
 ---
 
@@ -159,39 +159,7 @@ December 18, 2013. Bitcoin had just crashed from $1,100 to $600 in a matter of d
 
 The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.
 
-The Block • 22h ago
-
----
-
-**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
-
-Having peaked last year, the cryptocurrency has now lost half its value
-
-The Globe and Mail • 1d ago
-
----
-
-**[SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth](https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/)**
-
-Elon Musk’s mega-company holds more Bitcoin than cryptocurrency broker Coinbase.
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin’s Uselessness As ‘Money’ Well Predates Its Recent Decline](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
-
-With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
-
-Forbes • 2h ago
-
----
-
-**[Bitcoin Meets AI Trading: AIXAlpha Launches Free AI Strategy Contracts with Daily Settlement](https://uk.finance.yahoo.com/news/bitcoin-meets-ai-trading-aixalpha-130000919.html)**
-
-Join BTC and top assets through AI-driven automated strategies with daily settlement—no manual trading needed.LOS ANGELES, June 14, 2026 (GLOBE NEWSWIRE) -- As the Bitcoin ecosystem gains global momentum, AIXAlpha is proud to introduce a major leap in accessible AI-driven participation: the launch of BTC-focused AI Strategy Contracts. Now available on both web and mobile platforms, these flexible short-term contracts allow users to participate in BTC markets through automated AI strategies and r
-
-Yahoo Finance UK • 3h ago
+The Block • 23h ago
 
 ---
 
@@ -199,15 +167,7 @@ Yahoo Finance UK • 3h ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 1d ago
-
----
-
-**[Bitcoin Price Will Hit $250,000 in Next 6 Months, Says Famed Investor Mike Alfred — Here’s His Thesis](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-250-000-114715646.html)**
-
-Mike Alfred said Bitcoin could climb to between $150,000 and $250,000 in its next major move. Alfred reiterated that Bitcoin will eventually reach $1 million. ...
-
-Yahoo Finance • 2d ago
+CNBC • 2d ago
 
 ---
 
@@ -219,6 +179,38 @@ Forbes • 1d ago
 
 ---
 
+**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
+
+Having peaked last year, the cryptocurrency has now lost half its value
+
+The Globe and Mail • 1d ago
+
+---
+
+**[Is Bitcoin the Safest Crypto to Own Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-safest-crypto-own-now-174508158.html)**
+
+The world's top cryptocurrency is still safer than the smaller altcoins.
+
+Yahoo Finance • 12m ago
+
+---
+
+**[Bitcoin is Falling, But $273 Billion in Stablecoins Isn’t Leaving](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falling-273-billion-stablecoins-142413774.html)**
+
+Stablecoin cash is staying onchain, rotating into DeFi yields, tokenized stocks and RWAs instead of crypto exchanges.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
+
+The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
+
+CoinDesk • 19h ago
+
+---
+
 **[Bitcoin May Not Have Bottomed Yet. Here’s Where the Data Says it Could.](https://www.galaxy.com/insights/research/bitcoin-four-year-cycle-where-is-the-bottom)**
 
 Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals shape a changing economy.
@@ -227,11 +219,19 @@ galaxy.com • 2d ago
 
 ---
 
-**[Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst](https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst)**
+**[Michael Saylor Explains What Makes Bitcoin Treasury Firms Beat BTC](https://stocktwits.com/news-articles/markets/equity/saylor-explains-what-makes-bitcoin-treasury-firms-beat-btc/cZKBfwVR7dT)**
 
-Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto sell-off.
+Strategy (MSTR) Executive Chairman Michael Saylor laid out a framework on Sunday for judging whether a Bitcoin (BTC) treasury company can actually beat Bitcoin's own returns, or whether it's quietly falling behind it.
 
-CoinDesk • 1d ago
+Stocktwits • 4h ago
+
+---
+
+**[Bitcoin Perpetual Futures Are Now Available for Trading. Here's What You Need to Know.](https://www.fool.com/investing/2026/06/12/bitcoin-perpetual-futures-are-now-available/)**
+
+These derivative contracts are exciting for a lot of different reasons.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 104 • ⏱️ 8:42 • 1d ago
+👁️ 40K • 👍 2K • 💬 106 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -313,17 +313,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 11K • 👍 657 • 💬 190 • ⏱️ 11:00 • 1d ago
-
----
-
-**[&quot;THEY All LIED! Everyone Is 100% WRONG About this Bitcoin Cycle&quot; - Lyn Alden](https://www.youtube.com/watch?v=pJycNMBmq-o)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 353 • 💬 31 • ⏱️ 19:27 • 1d ago
+👁️ 12K • 👍 676 • 💬 181 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -333,57 +323,37 @@ GIANT News For Bitcoin, Ethereum, & Altcoins (Clarity Act Moves Forward?) ⭐ Fo
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 76 • ⏱️ 9:33 • 18h ago
+👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:33 • 20h ago
 
 ---
 
-**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
+**[TRUMP GOES ALL IN BITCOIN !!!!!!! THIS IS INSANE !!!! PREPARE TO GET VERY RICH IF YOU&#39;RE IN CRYPTO !](https://www.youtube.com/watch?v=gd6hAPo-UXo)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+THE ISLAND PROJECT FOUNDERS ROUND! (Fill OUT 5-Min App) https://IslandProject.com/ ...
 
-📺 Jordan Camirand
+📺 AMTV
 
-👁️ 12K • 👍 616 • 💬 222 • ⏱️ 17:52 • 18h ago
-
----
-
-**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
-
-"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
-
-📺 What Bitcoin Did
-
-👁️ 28K • 👍 979 • 💬 435 • ⏱️ 1:04:38 • 1d ago
+👁️ 3K • 👍 180 • 💬 37 • ⏱️ 3:29 • 19h ago
 
 ---
 
-**[Bitcoin Dynamic DCA: How I Navigate Crypto](https://www.youtube.com/watch?v=hx_neha7BVQ)**
+**[&quot;THEY All LIED! Everyone Is 100% WRONG About this Bitcoin Cycle&quot; - Lyn Alden](https://www.youtube.com/watch?v=pJycNMBmq-o)**
 
-This chart shows the risk metric for Bitcoin, the Total Market Cap, Ethereum and various other altcoins. The purpose of the Risk ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Benjamin Cowen
+📺 Savvy Finance
 
-👁️ 46K • 👍 4K • 💬 253 • ⏱️ 39:11 • 14h ago
-
----
-
-**[Warren Buffett: Bitcoin is NOT Investing! 😱 (Here&#39;s Why)](https://www.youtube.com/watch?v=U3Uyw2xLv4U)**
-
-Warren Buffett breaks down the difference between real investing and speculation using Bitcoin as the perfect example.
-
-📺 smart wealth tips
-
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:45 • 10h ago
+👁️ 11K • 👍 369 • 💬 32 • ⏱️ 19:27 • 1d ago
 
 ---
 
-**[Is Bitcoin actually failing at its own game?](https://www.youtube.com/watch?v=14RB07Nv04E)**
+**[BIG BITCOIN BREAKOUT BY MONDAY !!!!! [CLICK NOW]](https://www.youtube.com/watch?v=0q4H-_LyH6E)**
 
-While many view cryptocurrency as the future of finance, the reality of its scalability remains a major hurdle. Even with its massive ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
 
-📺 CryptoHarbor
+📺 Crypto Kid
 
-👁️ 5K • 👍 22 • 💬 6 • ⏱️ 0:32 • 2d ago
+👁️ 4K • 👍 343 • 💬 202 • ⏱️ 14:48 • 6h ago
 
 ---
 
@@ -393,7 +363,37 @@ Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Mich
 
 📺 Crypto Insider
 
-👁️ 31K • 👍 1K • 💬 63 • ⏱️ 55:10 • 1d ago
+👁️ 33K • 👍 1K • 💬 63 • ⏱️ 55:10 • 1d ago
+
+---
+
+**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 13K • 👍 635 • 💬 244 • ⏱️ 17:52 • 20h ago
+
+---
+
+**[BITCOIN: GET READY!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=07Ac2R1Lhxo)**
+
+My Free Trading Course https://rt1m.com/free My Free Discord Community https://discord.com/invite/jRAnCV9CTB ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 255 • 💬 46 • ⏱️ 9:11 • 20h ago
+
+---
+
+**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
+
+"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
+
+📺 What Bitcoin Did
+
+👁️ 29K • 👍 1K • 💬 469 • ⏱️ 1:04:38 • 2d ago
 
 ---
 

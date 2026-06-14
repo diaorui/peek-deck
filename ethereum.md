@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T16:22:51.892271+00:00'
+updated: '2026-06-14T17:57:21.276175+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 16:22 UTC  
+**Last Updated:** June 14, 2026 at 17:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,681.48
+### $1,660.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -1.5%  
-**30d:** -23.6%  
-**90d:** -28.1%  
-**1y:** -34.6%  
+**24h:** -0.9%  
+**7d:** -1.7%  
+**30d:** -23.8%  
+**90d:** -28.3%  
+**1y:** -34.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.96B
+**Market Cap:** $200.52B
 Rank #2
 
 **Circulating Supply:** 120,684,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.5%
+-66.4%
 
 **All-Time Low:** $0.43
-+382403.5%
++383673.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Motley Fool • 1d ago
 
 **[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -196,23 +196,15 @@ Fortune • 3d ago
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Is XRP the Most Resilient Large-Cap Cryptocurrency in June?](https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/)**
+**[Ali Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets](https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/)**
 
-XRP (XRP) has emerged as one of the more resilient large-cap cryptocurrencies in June despite a challenging environment for digital assets. Recent flow trends indicate that XRP-focused investment products continue to attract capital even as some Bitcoin (BTC) and Ethereum (ETH)- linked funds experi…
+More than $500 billion has been wiped from the crypto market over the past two months, pushing investor sentiment toward Extreme Fear. As investor sentiment weakens, major cryptocurrencies like Bitcoin, Ethereum, and XRP have dropped 50% and 70% from their recent peaks.Now, popular crypto analyst A…
 
 TradingView • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
-
-Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
-
-FXStreet • 2d ago
 
 ---
 
@@ -228,7 +220,15 @@ Seeking Alpha • 3d ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
 
-TipRanks • 5h ago
+TipRanks • 7h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Jump After Trump Sparks Optimism On Iran Deal: Analyst Says SpaceX IPO W](https://www.benzinga.com/crypto/cryptocurrency/26/06/53158839/bitcoin-ethereum-xrp-dogecoin-jump-on-iran-deal-optimism-spacex-ipo-tricky-for-markets)**
+
+Leading cryptocurrencies climbed alongside stocks on Thursday after President Donald Trump called off &#8220;scheduled&#8221; strikes on Iran amid hopes for a peace deal.
+
+Benzinga • 2d ago
 
 ---
 
@@ -236,13 +236,33 @@ TipRanks • 5h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
+
+Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
+
+📺 CoinDesk
+
+👁️ 1K • 👍 109 • 💬 39 • ⏱️ 20:10 • 2h ago
+
+---
+
 **[If You Own Ethereum - Watch This](https://www.youtube.com/watch?v=8Zju1jzzb3Y)**
 
 Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE The burn is dead.
 
 📺 Lark Davis
 
-👁️ 14K • 👍 715 • 💬 118 • ⏱️ 10:36 • 1d ago
+👁️ 16K • 👍 752 • 💬 135 • ⏱️ 10:36 • 1d ago
+
+---
+
+**[BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B1Tvs2edKwo)**
+
+BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 309 • 💬 234 • ⏱️ 23:03 • 5h ago
 
 ---
 
@@ -252,27 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 165 • 💬 33 • ⏱️ 19:47 • 22h ago
-
----
-
-**[Will Ethereum Outperform Bitcoin? The Structural Outlook](https://www.youtube.com/watch?v=jcobQN6VRzQ)**
-
-In this video I break down the current Ethereum price outlook and evaluate why the asset remains in a state of relative weakness ...
-
-📺 More Crypto Online
-
-👁️ 8K • 👍 383 • 💬 25 • ⏱️ 14:06 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: ВСЁ!!! ВРЕМЯ ПРИШЛО!!!!!](https://www.youtube.com/watch?v=DvEoxe6SdxU)**
-
-биткоин #btc #bitcoin Telegram (Новости, тех. анализ, мысли и точки входа): https://t.me/+Z3QpPjhhiRIzZGQy Надёжная ...
-
-📺 ALDERAMIN
-
-👁️ 1K • 👍 132 • 💬 29 • ⏱️ 7:21 • 8h ago
+👁️ 5K • 👍 174 • 💬 34 • ⏱️ 19:47 • 23h ago
 
 ---
 
@@ -286,13 +286,13 @@ This video is about the Ethereum cryptocurrency.
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=opNCYoSVyYk)**
+**[Will Ethereum Outperform Bitcoin? The Structural Outlook](https://www.youtube.com/watch?v=jcobQN6VRzQ)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+In this video I break down the current Ethereum price outlook and evaluate why the asset remains in a state of relative weakness ...
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 8 • ⏱️ 6:39 • 14h ago
+👁️ 8K • 👍 386 • 💬 25 • ⏱️ 14:06 • 1d ago
 
 ---
 
@@ -302,17 +302,7 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 36 • 💬 5 • ⏱️ 0:45 • 1d ago
-
----
-
-**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
-
-BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 459 • 💬 207 • ⏱️ 20:28 • 1d ago
+👁️ 2K • 👍 39 • 💬 5 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -322,17 +312,27 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 11K • 👍 1K • 💬 218 • ⏱️ 34:45 • 1d ago
+👁️ 12K • 👍 1K • 💬 255 • ⏱️ 34:45 • 1d ago
 
 ---
 
-**[ETHEREUM одно видео и ты поймешь что сейчас происходит](https://www.youtube.com/watch?v=x4fD3mHUIsE)**
+**[Ethereum (ETH) - Análise de hoje, 14/06/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=m92GKPI4XNk)**
 
-Торгую на бирже Bybit: https://www.bybit.com/register?affiliate_id=53351&group_id=0&group_type=1 Как перевести аккаунт к ...
+ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
 
-📺 Romanov Crypto
+📺 Trade with Renato Ulianov
 
-👁️ 2K • 👍 125 • 💬 15 • ⏱️ 7:45 • 1d ago
+👁️ 175 • 👍 28 • 💬 2 • ⏱️ 1:51 • 3h ago
+
+---
+
+**[BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Nad0NUTIeww)**
+
+BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 461 • 💬 207 • ⏱️ 20:28 • 1d ago
 
 ---
 
