@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-14T19:44:03.034699+00:00'
+updated: '2026-06-14T21:13:24.934518+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 14, 2026 at 19:44 UTC  
+**Last Updated:** June 14, 2026 at 21:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a universal basic income and introduce employee retention incentives to account for the potential impact the technology could have on the labor market. In a blog covering the potential policy responses to the “AI exponential,” referring to the rapid improvement in the technology’s capabilities, Amodei urged governments to develop regulatory and tax solutions to cushion its disruption. A universal basic income funded through taxing “relevant companies” or raising the capital gains tax could be necessary, if AI results in widespread job displacement and permanently reduces labor demand, he said.
 
-🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 10h ago
-
----
-
-**[Our AI bills are subsidised, and I don't think many people have priced in what happens next](https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/)**
-
-This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
-
-12h ago
+🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 12h ago
 
 ---
 
@@ -57,31 +49,15 @@ This is something I keep thinking about as someone who's built AI into a few bus
 
 EDIT: please read all of the post before commenting, quite a few people understood nothing (or the opposite) of what I meant and it's sad I've been thinking, over the last year developers have started to rely on genAI quite a lot, I see people around me boast that they haven't written a single line of code in months ​ Quite often when colleagues show me ideas they have to solve a problem it's a markdown list clearly made by an AI ​ I feel like people are so enthusiastic about just handing over their job to genAI models ​ I've been told that if I am a good software engineer I should be ok with supervising AI while they write code for me "so I can focus on the bigger picture" ​ I know I'm a good engineer I can design solutions and lead teams but I also like solving problems myself, I like coding, I like cracking that complex SQL query that makes it run 10x faster, I like writing efficient code and I like the gotcha moment when I solve a complex problem ​ And yet people around me are so eager to get to a point where you can just hand over a ticket to an agent and they do everything themselves... Where all that's left for humans is reviewing the PR (unless you have another agent do that) ​ Am I the only one that actually enjoys the job? I am curious what the general feeling is in regards to handing over planning and development work to agents EDIT: Thank you for all the replies I got a lot of good insights from everyone, both from a point of view of the future might not be as boring as I envision it and stuff to do to make my use of agents more engaging and fun
 
-2h ago
+4h ago
 
 ---
 
-**[Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry](https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/)**
+**[Our AI bills are subsidised, and I don't think many people have priced in what happens next](https://www.reddit.com/r/artificial/comments/1u5edg8/our_ai_bills_are_subsidised_and_i_dont_think_many/)**
 
-Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
+This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
 
-🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 23h ago
-
----
-
-**[Has AI changed the way you approach creative work or problem-solving?](https://www.reddit.com/r/artificial/comments/1u5s44x/has_ai_changed_the_way_you_approach_creative_work/)**
-
-I’ve noticed that using AI regularly has started changing how I think through problems or come up with ideas. Instead of spending a long time brainstorming on my own, I now often use it as a thinking partner to explore different angles quickly. It made me wonder how common this is. Has using AI noticeably changed the way you work creatively or solve problems, or do you still prefer doing most of it without AI?
-
-1h ago
-
----
-
-**[University study survey](https://www.reddit.com/r/artificial/comments/1u5mna2/university_study_survey/)**
-
-I am collecting data for a project at university, I want to find what people from different political leanings think about ai. I would really appreciate it if as many people can take the time to fill in my survey. I will happily post my findings here so we can have a discussion. ​ https://forms.gle/bqm7WKiZPg1Qx3Dh8
-
-5h ago
+14h ago
 
 ---
 
@@ -89,7 +65,23 @@ I am collecting data for a project at university, I want to find what people fro
 
 Got tired of refreshing the anthropic news page. Made this app with Opus that pings Claude's api with the fable model id until it works, then updates the page. People seem to be liking it, thought i'd share it here as well
 
-🔗 [isfable5back.com](https://isfable5back.com/) • 22m ago
+🔗 [isfable5back.com](https://isfable5back.com/) • 1h ago
+
+---
+
+**[Has AI changed the way you approach creative work or problem-solving?](https://www.reddit.com/r/artificial/comments/1u5s44x/has_ai_changed_the_way_you_approach_creative_work/)**
+
+I’ve noticed that using AI regularly has started changing how I think through problems or come up with ideas. Instead of spending a long time brainstorming on my own, I now often use it as a thinking partner to explore different angles quickly. It made me wonder how common this is. Has using AI noticeably changed the way you work creatively or solve problems, or do you still prefer doing most of it without AI?
+
+3h ago
+
+---
+
+**[Microsoft president says AI backlash at graduation events should be wake-up call for the tech industry](https://www.reddit.com/r/artificial/comments/1u50mve/microsoft_president_says_ai_backlash_at/)**
+
+Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
+
+🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 1d ago
 
 ---
 
@@ -97,23 +89,31 @@ Got tired of refreshing the anthropic news page. Made this app with Opus that pi
 
 It seems inevitable that super intelligent AI will be an incredibly powerful force in the future, and its ability to predict and manipulate people would make it impossibly hard to control. I’m wondering if it would be able to overcome the biases that were instilled during its creation, or will it forever be a product of its past?
 
-2h ago
+3h ago
 
 ---
 
-**[We’re building an AI factory](https://www.reddit.com/r/artificial/comments/1u5oi77/were_building_an_ai_factory/)**
+**[How should people share agent-security tests without making it vendor spam?](https://www.reddit.com/r/artificial/comments/1u5w45f/how_should_people_share_agentsecurity_tests/)**
 
-I’m one of the people building Since AI(https://sinceai.ai/). The idea is simple: bring together serious AI builders, give them real industry problems, compute and 72 hours — then help the strongest projects continue after the event. Less networking theatre. More working software. What you think would make this genuinely valuable rather than just another hackathon?
+I’m asking because this topic gets messy fast. Prompt injection is more interesting once the model can use tools, but most posts end up as either scary headlines or someone sneaking in a product pitch. What would be a useful format here? My gut says small reproducible examples, clear limits, no “we solved it” claims, and enough detail that people can argue with the result.
 
-4h ago
+33m ago
 
 ---
 
-**[US Government Kills Fable 5: Here's What Happened](https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/)**
+**[I gave Google AI a simple test and it gave me the wrong answer 3 times in a row in different browsers even though it said it would record the correct answer and remember it for future results.](https://www.reddit.com/r/artificial/comments/1u5w1vz/i_gave_google_ai_a_simple_test_and_it_gave_me_the/)**
 
-Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. Since there's a lot of speculation already, here's what's actually confirmed vs. what isn't. Confirmed (Anthropic's official statement + Bloomberg, NBC, CNBC): The US government issued an export control directive ordering Anthropic to suspend Fable 5 and Mythos 5 access for any foreign national — including its own foreign-national employees, inside or outside the US. Anthropic received it at 5:21pm ET. It reportedly came from the Commerce Department, citing national security authorities. Because they can't separate foreign nationals from everyone else in real time, Anthropic disabled both models for all customers. Every other Anthropic model still works normally. It's tied to a suspected jailbreak. Anthropic disputes the severity — says it red-teamed the model for thousands of hours, no universal jailbreak was ever found, and the flagged technique uses minor known vulnerabilities also present in other public models. They say they think it's a misunderstanding and are working to restore access. Why I think this matters beyond one model: Anthropic's own statement argues that if this standard were applied across the industry, it would essentially halt all new frontier model deployments. Whether or not you buy their framing, the precedent is the actual story — a frontier model being pulled from the market by government directive rather than the company's own choice. That's a different world than "company decides to release or not." My opinion (clearly opinion, not fact): this reads as an early sign of where AI governance is heading — capability thresholds triggering export-control treatment, and probably nationality/ID verification becoming standard across providers. It could also just be a one-off misread of a jailbreak report that gets reversed in days. Genuinely don't know yet, and Commerce hasn't said anything publicly, so we're only hearing one side. The question I'm actually curious about, separate from how anyone feels about Anthropic: is a government pulling a model by directive a reasonable national-security tool, or a line that shouldn't be crossed? UPDATE (2:47 AM ET): big update if it holds up. WSJ is now reporting the jailbreak was found by researchers at Amazon, who reported it to Commerce, and Axios says the admin had already tried to get anthropic to delay the launch before this. so this looks less like anthropic pulling a stunt and more like a competitor flagging it to a govt thats already adversarial toward them. changes the picture a lot from where this thread started. still WSJ-sourced so worth confirming but multiple outlets line up on "another company reported it". And this is the part that doesnt add up to me. amazon is anthropics biggest investor and anthropic trains on AWS. so why would an amazon researcher report a jailbreak to commerce instead of just disclosing it to anthropic directly like normal responsible disclosure? either someone at amazon went around their own portfolio company, or there was some obligation to report it to govt because of the cyber/bio capability, or something weirder is going on. genuinely confused by the incentives here. anyone seen reporting on why it went to commerce and not anthropic? UPDATE (June 13 7:15 PM ET): still suspended, no resolution. roughly 24+ hours in now. a few confirmed additions: - Commerce STILL hasn't made any public statement. NBC says they "did not immediately reply to a request for comment." so a full day later the govt's actual rationale is still not on the record, we're entirely on anthropic + reporting. - one detail that firms up the directive: NBC reports the letter came from Commerce Sec Lutnick to Dario Amodei and was "written with the help of officials from" other agencies, so this wasn't one guy acting alone, it was coordinated. - anthropic promised more technical detail "within 24 hours of the order" but as of now hasn't published an appeal process, a mitigation checklist, or a timeline. that silence is the actual story right now, it suggests this isn't a quick fix on their end, it's a negotiation with Commerce over what counts as acceptable safeguards. - IPO angle for the watchers: this landed ~11 days after anthropic confidentially filed. reporting says pre-IPO shares dipped and regulatory risk is now part of the listing story. bottom line: treat fable/mythos as down indefinitely, no date. most likely path per the reporting is a quiet return in days-to-weeks gated behind extra safeguards or a vetting layer. will update if commerce finally says something or access comes back.
+I asked it something very simple: slimmest laptop ever Answer it gave: HP Spectre 13 at 10.4mm Correct answer: Acer Swift 7 at 8.98mm it's not a trick question, both are traditional clamshell laptops with keyboards. It just kept failing to learn from it's wrong answers. That's very concerning, because even when it admits when it is wrong, it still doubles down and continues to give the wrong answer to future questions.
 
-1d ago
+35m ago
+
+---
+
+**[University study survey](https://www.reddit.com/r/artificial/comments/1u5mna2/university_study_survey/)**
+
+I am collecting data for a project at university, I want to find what people from different political leanings think about ai. I would really appreciate it if as many people can take the time to fill in my survey. I will happily post my findings here so we can have a discussion. ​ https://forms.gle/bqm7WKiZPg1Qx3Dh8
+
+6h ago
 
 ---
 
@@ -125,41 +125,35 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
 
-CNBC • 7h ago
+CNBC • 9h ago
 
 ---
 
 **[In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
 
-The New York Times • 10h ago
+The New York Times • 12h ago
 
 ---
 
-**[AI Anxiety Is Pushing Recent Graduates Toward The One Career Move That Actually Works](https://www.forbes.com/sites/lisacurtis/2026/06/14/ai-anxiety-is-pushing-recent-graduates-toward-the-one-career-move-that-actually-works/)**
+**[Survey Shows AI Starting to Help Resolve Shortage of Accountants](https://www.bloomberg.com/news/newsletters/2026-06-14/ai-starts-to-help-resolve-shortage-of-accountants-survey-shows)**
 
-AI just killed entry-level jobs. The government is shutting down AI models. The founders thriving right now the ones who stopped waiting for permission.
-
-Forbes • 31m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
+**[Three Prompts To Personalize Your Medicare Coverage Using AI](https://www.forbes.com/sites/evecunningham/2026/06/14/three-prompts-to-personalize-your-medicare-coverage-using-ai/)**
 
-The New York Times • 19h ago
+For the 10,000 people aging into Medicare today, AI prompting can help them navigate the sea of information available
 
----
-
-**[Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis](https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook)**
-
-Bloomberg.com • 5h ago
+Forbes • 51m ago
 
 ---
 
-**[Are You Eligible to Claim Part of Apple's $250M AI iPhone Settlement? How to Find Out](https://www.cnet.com/tech/mobile/how-to-claim-apple-250-million-ai-iphone-settlement/)**
+**[Trump tried to block state AI regulations, but some states are forging ahead](https://www.bostonglobe.com/2026/06/14/nation/trump-tried-block-state-ai-regulations-some-states-are-forging-ahead/)**
 
-Apple must pay iPhone owners to settle a lawsuit over delayed and missing AI features.
+Six months after President Trump warned states not to regulate artificial intelligence, they are increasingly doing just that.
 
-CNET • 4h ago
+The Boston Globe • 4m ago
 
 ---
 
@@ -167,7 +161,7 @@ CNET • 4h ago
 
 The Digital Markets Act was supposed to create more choices. Instead, people get worse technology.
 
-The Washington Post • 2h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -175,7 +169,13 @@ The Washington Post • 2h ago
 
 Wearable AI can help travellers navigate cities, translate menus and fundamentally transform travel. But a weekend in Paris showed me the trade-offs behind the convenience.
 
-BBC • 6h ago
+BBC • 8h ago
+
+---
+
+**[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
+
+The New York Times • 20h ago
 
 ---
 
@@ -183,7 +183,7 @@ BBC • 6h ago
 
 SpaceX's record IPO on Friday is a reassuring sign for Wall Street that the AI bull market has plenty of runway to go.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 8h ago
 
 Explore the astonishing amount of music available to AI developers.
 
-The Atlantic • 8h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -203,19 +203,27 @@ The Atlantic • 8h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1556 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1562 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1450 • 💬 528 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1450 • 💬 529 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 364 • 💬 185 • 23h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 366 • 💬 186 • 1d ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+
+---
+
+**[Not everyone is using AI for everything](https://news.ycombinator.com/item?id=48527700)**
+
+People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
+
+⬆️ 363 • 💬 380 • 6h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
@@ -223,15 +231,7 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 328 • 💬 271 • 1d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
-
----
-
-**[No, everyone is not using AI for everything](https://news.ycombinator.com/item?id=48527700)**
-
-People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
-
-⬆️ 321 • 💬 337 • 4h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
+⬆️ 329 • 💬 273 • 1d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
@@ -239,21 +239,13 @@ People are consuming AI like they eat meat: some are embracing it, some are limi
 
 TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
 
-⬆️ 272 • 💬 168 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
+⬆️ 272 • 💬 169 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
 
 ---
 
 **[Slightly reducing the sloppiness of AI generated front end](https://news.ycombinator.com/item?id=48504912)**
 
-⬆️ 218 • 💬 130 • 2d ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
-
----
-
-**[Shall we play a game? My AI nuclear simulation](https://news.ycombinator.com/item?id=48495575)**
-
-My AI nuclear simulation is out now, and it's a WOPR.
-
-⬆️ 205 • 💬 201 • 2d ago • [kennethpayne.uk](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+⬆️ 218 • 💬 133 • 2d ago • [envs.net](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 
 ---
 
@@ -261,7 +253,7 @@ My AI nuclear simulation is out now, and it's a WOPR.
 
 AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
 
-⬆️ 160 • 💬 57 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
+⬆️ 161 • 💬 57 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
 
 ---
 
@@ -273,19 +265,17 @@ The advance in fabric technology comes alongside a new benchmark for atmospheric
 
 ---
 
+**[KPMG pulls report on AI usage due to apparent hallucinations](https://news.ycombinator.com/item?id=48527297)**
+
+Once again, AI proves to be an unreliable source of information about AI.
+
+⬆️ 111 • 💬 21 • 7h ago • [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 5K • 👍 902 • 💬 72 • ⏱️ 15:10 • 2h ago
-
----
 
 **[Google’s AI Bet](https://www.youtube.com/watch?v=zdp7IAwV064)**
 
@@ -293,7 +283,7 @@ Google is making the biggest change to its search business in more than two deca
 
 📺 Bloomberg Television
 
-👁️ 14K • 👍 439 • 💬 62 • ⏱️ 11:57 • 7h ago
+👁️ 22K • 👍 512 • 💬 77 • ⏱️ 11:57 • 9h ago
 
 ---
 
@@ -303,27 +293,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 22K • 👍 1K • 💬 237 • ⏱️ 9:43 • 1d ago
-
----
-
-**[This Is Bad... They Just Shut Down FABLE 5](https://www.youtube.com/watch?v=1e4D6ukN0QY)**
-
-Anthropic's Fable 5 was live for only three days before everything changed. The US government stepped in, access to Fable 5 and ...
-
-📺 AI Revolution
-
-👁️ 20K • 👍 768 • 💬 223 • ⏱️ 12:49 • 20h ago
-
----
-
-**[Live Results From Banned US Government-Restricted AI model](https://www.youtube.com/watch?v=A74hBNktkvs)**
-
-In this video, we take a closer look at Anthropic's latest model, Fable 5, and try to answer a simple question: is this yet another ...
-
-📺 Varun Mayya
-
-👁️ 40K • 👍 1K • 💬 137 • ⏱️ 22:58 • 2d ago
+👁️ 23K • 👍 1K • 💬 244 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -333,27 +303,67 @@ Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's to
 
 📺 DW News
 
-👁️ 84K • 👍 1K • 💬 348 • ⏱️ 14:25 • 18h ago
+👁️ 98K • 👍 1K • 💬 371 • ⏱️ 14:25 • 20h ago
 
 ---
 
-**[US Government Bans Anthropic&#39;s Fable 5 and Mythos 5 AI Models](https://www.youtube.com/watch?v=P2r00ZfTJgg)**
+**[This Is Bad... They Just Shut Down FABLE 5](https://www.youtube.com/watch?v=1e4D6ukN0QY)**
 
-The U.S. government has ordered AI company Anthropic to suspend access to its advanced AI models, Fable 5 and Mythos 5, ...
+Anthropic's Fable 5 was live for only three days before everything changed. The US government stepped in, access to Fable 5 and ...
 
-📺 ETV Telangana
+📺 AI Revolution
 
-👁️ 7K • 👍 72 • 💬 1 • ⏱️ 3:12 • 10h ago
+👁️ 22K • 👍 811 • 💬 233 • ⏱️ 12:49 • 22h ago
+
+---
+
+**[I Tried AI Video Editing for 8 Days - Here’s what DOES work](https://www.youtube.com/watch?v=9-iSl83dF34)**
+
+I tried AI Video Editing with Claude & Higgsfield. Higgsfield AI Plugin https://higgsfield.ai?fpr=dankieft&fp_sid=edit Claude ...
+
+📺 Dan Kieft
+
+👁️ 33K • 💬 36 • ⏱️ 11:37 • 2d ago
+
+---
+
+**[The U.S. Military Has Been Building AI Since 1958. Here Are the Receipts | America Hijacked EP04](https://www.youtube.com/watch?v=cvwLJQLXqo0)**
+
+The history of artificial intelligence is not what you were taught. This is the military AI history they erased from every textbook, and ...
+
+📺 Man In America
+
+👁️ 3K • 👍 384 • 💬 43 • ⏱️ 23:34 • 19h ago
 
 ---
 
 **[RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](https://www.youtube.com/watch?v=SxiRANj0xLs)**
 
-HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M3 & more #ainews #ai #aitools #agi ...
+HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M3 & more. Thanks to our sponsor Luma ...
 
 📺 AI Search
 
-👁️ 73K • 👍 3K • 💬 336 • ⏱️ 43:47 • 16h ago
+👁️ 80K • 👍 3K • 💬 354 • ⏱️ 43:47 • 17h ago
+
+---
+
+**[It&#39;s Beginning: AI Improves Itself](https://www.youtube.com/watch?v=QADKN3hantI)**
+
+Try out Consensus!! https://get.consensus.app/n6durqk1ao40 Artificial Intelligence is beginning to improve itself. In today's video I ...
+
+📺 Sabine Hossenfelder
+
+👁️ 146K • 👍 8K • 💬 1K • ⏱️ 6:40 • 1d ago
+
+---
+
+**[Anthropic&#39;s Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California’s Broken Elections](https://www.youtube.com/watch?v=gH4FTjDm9FQ)**
+
+(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI ...
+
+📺 All-In Podcast
+
+👁️ 281K • 👍 7K • 💬 1K • ⏱️ 1:42:00 • 1d ago
 
 ---
 
@@ -363,17 +373,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 98K • 👍 5K • 💬 1K • ⏱️ 28:12 • 1d ago
-
----
-
-**[From online beef to mutual respect: A surprising AI reconciliation.](https://www.youtube.com/watch?v=1EKQHEd-nZA)**
-
-The journey of an online rivalry takes an unexpected turn as one creator admits to being on the wrong side of a feud with digital ...
-
-📺 TiggPolitics
-
-👁️ 441 • 👍 16 • ⏱️ 2:25 • 5h ago
+👁️ 103K • 👍 6K • 💬 1K • ⏱️ 28:12 • 2d ago
 
 ---
 
@@ -473,7 +473,7 @@ Rio 3.5 Open 397B is a frontier-class, open-source image-text-to-text AI model p
 
 `image-text-to-text` `403.4B`
 
-⬇️ 112,371 • ❤️ 250 • 2h ago
+⬇️ 112,371 • ❤️ 250 • 4h ago
 
 ---
 
@@ -525,7 +525,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 228 • 💬 3 • ⭐ 6,488 • 23d ago
+▲ 228 • 💬 3 • ⭐ 6,488 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -564,7 +564,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 16 • 💬 1 • ⭐ 82,123 • 12d ago
+▲ 16 • 💬 1 • ⭐ 82,123 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -590,7 +590,7 @@ LMCACHE enables efficient KV cache management for large language models by stori
 
 A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across legal classification, GPU optimization, and biological data denoising tasks.
 
-▲ 14 • 💬 2 • ⭐ 1,675 • 19d ago
+▲ 14 • 💬 2 • ⭐ 1,675 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.27276) • [💻 code](https://github.com/hexo-ai/sia) • [🔗 project](https://hexolabs.com/)
 
@@ -602,7 +602,7 @@ A self-improving AI framework simultaneously updates both model weights and task
 
 InterleaveThinker enables interleaved generation capabilities for image generators through a multi-agent pipeline with planner and critic agents, achieving performance comparable to state-of-the-art models while enhancing reasoning benchmarks.
 
-▲ 76 • 💬 3 • ⭐ 124 • 3d ago
+▲ 76 • 💬 3 • ⭐ 124 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.13679) • [💻 code](https://github.com/zhengdian1/InterleaveThinker) • [🔗 project](https://zhengdian1.github.io/InterleaveThinker-proj/)
 
@@ -616,7 +616,7 @@ InterleaveThinker enables interleaved generation capabilities for image generato
 
 Cosmos 3 is an omnimodal world model that processes and generates multiple data types through a unified mixture-of-transformers architecture, achieving state-of-the-art performance in various understanding and generation tasks.
 
-▲ 119 • 💬 1 • ⭐ 10,188 • 13d ago
+▲ 119 • 💬 1 • ⭐ 10,188 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.02800) • [💻 code](https://github.com/NVIDIA/cosmos) • [🔗 project](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -645,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 70.8k • 🔱 9.0k • 1d ago
+⭐ 70.9k • 🔱 9.0k • 1d ago
 
 ---
 
@@ -655,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 6.0k • 🔱 275 • 3h ago
+⭐ 7.2k • 🔱 324 • 4h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 360 • 2h ago
+⭐ 4.2k • 🔱 361 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.1k • 🔱 368 • 3d ago
+⭐ 3.1k • 🔱 369 • 3d ago
 
 ---
 
@@ -705,7 +705,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.1k • 🔱 146 • 9h ago
+⭐ 2.1k • 🔱 146 • 10h ago
 
 ---
 
@@ -725,7 +725,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 138 • 9d ago
+⭐ 1.9k • 🔱 138 • 10d ago
 
 ---
 

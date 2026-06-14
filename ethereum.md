@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T19:44:03.047969+00:00'
+updated: '2026-06-14T21:13:24.948261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 19:44 UTC  
+**Last Updated:** June 14, 2026 at 21:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.5%  
-**30d:** -23.6%  
-**90d:** -28.1%  
-**1y:** -34.6%  
+**24h:** -0.7%  
+**7d:** -1.2%  
+**30d:** -23.4%  
+**90d:** -27.9%  
+**1y:** -34.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $200.52B
+**Market Cap:** $201.53B
 Rank #2
 
 **Circulating Supply:** 120,684,209 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.4%
+-66.2%
 
 **All-Time Low:** $0.43
-+383673.8%
++385521.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+16h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -190,13 +190,13 @@ Fortune • 3d ago
 
 **[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
 
-AMBCrypto • 22h ago
+AMBCrypto • 1d ago
 
 ---
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ TradingView • 1d ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 1K • 👍 109 • 💬 39 • ⏱️ 20:10 • 4h ago
+👁️ 5K • 👍 264 • 💬 35 • ⏱️ 20:10 • 6h ago
 
 ---
 
@@ -252,17 +252,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 16K • 👍 752 • 💬 135 • ⏱️ 10:36 • 1d ago
+👁️ 17K • 👍 781 • 💬 139 • ⏱️ 10:36 • 1d ago
 
 ---
 
-**[BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B1Tvs2edKwo)**
+**[Joseph Chalom: Ethereum Is Extremely Oversold (2026 Bull Thesis)](https://www.youtube.com/watch?v=y6kQEthFc2I)**
 
-BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+Joseph Chalom breaks down why ETH is winning by a large margin across stablecoins, tokenized assets, and high-value DeFi ...
 
-📺 Crypto World
+📺 The Rollup
 
-👁️ 6K • 👍 309 • 💬 234 • ⏱️ 23:03 • 7h ago
+👁️ 1K • 👍 71 • 💬 12 • ⏱️ 6:28 • 4h ago
 
 ---
 
@@ -272,17 +272,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 174 • 💬 34 • ⏱️ 19:47 • 1d ago
-
----
-
-**[ETHEREUM WILL CRASH TO $100!](https://www.youtube.com/watch?v=TviGaAAOIN8)**
-
-This video is about the Ethereum cryptocurrency.
-
-📺 Crypto Wealth Transfer
-
-👁️ 2K • 👍 217 • 💬 51 • ⏱️ 22:47 • 1d ago
+👁️ 6K • 👍 177 • 💬 26 • ⏱️ 19:47 • 1d ago
 
 ---
 
@@ -292,7 +282,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 386 • 💬 25 • ⏱️ 14:06 • 1d ago
+👁️ 8K • 👍 389 • 💬 25 • ⏱️ 14:06 • 1d ago
 
 ---
 
@@ -302,27 +292,17 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 39 • 💬 5 • ⏱️ 0:45 • 1d ago
+👁️ 3K • 👍 41 • 💬 5 • ⏱️ 0:45 • 1d ago
 
 ---
 
-**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
+**[ETHEREUM WILL CRASH TO $100!](https://www.youtube.com/watch?v=TviGaAAOIN8)**
 
-En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
+This video is about the Ethereum cryptocurrency.
 
-📺 Emir Şahin
+📺 Crypto Wealth Transfer
 
-👁️ 12K • 👍 1K • 💬 255 • ⏱️ 34:45 • 1d ago
-
----
-
-**[Ethereum (ETH) - Análise de hoje, 14/06/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=m92GKPI4XNk)**
-
-ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
-
-📺 Trade with Renato Ulianov
-
-👁️ 175 • 👍 28 • 💬 2 • ⏱️ 1:51 • 5h ago
+👁️ 2K • 👍 222 • 💬 51 • ⏱️ 22:47 • 1d ago
 
 ---
 
@@ -332,7 +312,27 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 12K • 👍 461 • 💬 207 • ⏱️ 20:28 • 1d ago
+👁️ 13K • 👍 462 • 💬 197 • ⏱️ 20:28 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: ВСЁ!!! ВРЕМЯ ПРИШЛО!!!!!](https://www.youtube.com/watch?v=DvEoxe6SdxU)**
+
+биткоин #btc #bitcoin Telegram (Новости, тех. анализ, мысли и точки входа): https://t.me/+Z3QpPjhhiRIzZGQy Надёжная ...
+
+📺 ALDERAMIN
+
+👁️ 2K • 👍 156 • 💬 34 • ⏱️ 7:21 • 12h ago
+
+---
+
+**[Ethereum vs Solana: Which Crypto Wins?](https://www.youtube.com/watch?v=VgAzNC2rfXw)**
+
+Ethereum vs Solana... which crypto wins? Want this PDF? DM me the word ETH1 on Instagram and I'll send it over. Instagram: ...
+
+📺 Mike Sotero
+
+👁️ 174 • 👍 26 • 💬 13 • ⏱️ 13:15 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T19:44:03.050877+00:00'
+updated: '2026-06-14T21:13:24.951035+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 19:44 UTC  
+**Last Updated:** June 14, 2026 at 21:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -148,7 +148,15 @@ Yahoo Finance • 1d ago
 
 ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
 
-The Motley Fool • 6h ago
+The Motley Fool • 8h ago
+
+---
+
+**[NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)**
+
+A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
+
+NASA Science (.gov) • 3d ago
 
 ---
 
@@ -164,19 +172,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[I Trained as a Dancer. Then I Saw the Robots Move.](https://www.theatlantic.com/culture/2026/06/robot-dance-choreorobotics/687506/)**
+**[I Lent My Apartment to an AI Company](https://www.thefp.com/p/ai-company-robot-cleaning-apartment)**
 
-They were impressive, but could they ever feel human?
+“Two college kids showed up with Clorox, and cameras on their heads—and filmed themselves cleaning,” writes Suzy Weiss. “The footage will train robots. I feel awkward about it.”
 
-The Atlantic • 3d ago
-
----
-
-**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
-
-A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
-
-Futurism • 1d ago
+The Free Press • 2d ago
 
 ---
 
@@ -190,7 +190,17 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 8K • 👍 168 • 💬 82 • ⏱️ 8:49 • 1d ago
+👁️ 9K • 👍 202 • 💬 93 • ⏱️ 8:49 • 1d ago
+
+---
+
+**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
+
+I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
+
+📺 The Hook Up
+
+👁️ 70K • 👍 1K • 💬 338 • ⏱️ 33:19 • 2d ago
 
 ---
 
@@ -200,27 +210,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 123K • 👍 2K • 💬 165 • ⏱️ 6:09 • 4d ago
-
----
-
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
-
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
-
-📺 Over Engineer
-
-👁️ 4K • 👍 330 • 💬 39 • ⏱️ 6:05 • 1d ago
-
----
-
-**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
-
-At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
-
-📺 Machines In Action
-
-👁️ 4K • 👍 62 • 💬 1 • ⏱️ 0:15 • 5h ago
+👁️ 126K • 👍 2K • 💬 167 • ⏱️ 6:09 • 4d ago
 
 ---
 
@@ -230,35 +220,17 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 📺 Back to Engineering
 
-👁️ 28K • 👍 263 • 💬 8 • ⏱️ 0:13 • 3d ago
+👁️ 30K • 👍 270 • 💬 8 • ⏱️ 0:13 • 3d ago
 
 ---
 
-**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
+**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
 
-Shantak, Urhag & Voonith Giveaway Winners ...
+At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
 
-📺 PREDATOR WR
+📺 Machines In Action
 
-👁️ 9K • 👍 351 • 💬 68 • ⏱️ 15:34 • 1d ago
-
----
-
-**[For a Moment, Everyone Thought It Went Rogue 🥶⚡](https://www.youtube.com/watch?v=5EnM_WYhIus)**
-
-This footage shows a Unitree H1 humanoid robot experiencing a malfunction during a demonstration. The robot began making ...
-
-📺 Unova
-
-👁️ 88K • 👍 806 • 💬 103 • ⏱️ 0:09 • 2d ago
-
----
-
-**[Coffee Balloon Turns Into Robot Hand 😮](https://www.youtube.com/watch?v=NX_LsXlC7QQ)**
-
-📺 Zack D. Films
-
-👁️ 5.4M • 👍 213K • 💬 2K • ⏱️ 0:39 • 1d ago
+👁️ 8K • 👍 111 • 💬 4 • ⏱️ 0:15 • 7h ago
 
 ---
 
@@ -268,7 +240,25 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 36K • 👍 1K • 💬 113 • ⏱️ 0:30 • 1d ago
+👁️ 37K • 👍 1K • 💬 114 • ⏱️ 0:30 • 1d ago
+
+---
+
+**[Coffee Balloon Turns Into Robot Hand 😮](https://www.youtube.com/watch?v=NX_LsXlC7QQ)**
+
+📺 Zack D. Films
+
+👁️ 6.3M • 👍 234K • 💬 2K • ⏱️ 0:39 • 1d ago
+
+---
+
+**[For a Moment, Everyone Thought It Went Rogue 🥶⚡](https://www.youtube.com/watch?v=5EnM_WYhIus)**
+
+This footage shows a Unitree H1 humanoid robot experiencing a malfunction during a demonstration. The robot began making ...
+
+📺 Unova
+
+👁️ 88K • 👍 811 • 💬 103 • ⏱️ 0:09 • 2d ago
 
 ---
 
@@ -278,7 +268,17 @@ What if a robot could climb walls effortlessly? This amazing wall-climbing robot
 
 📺 VIDEOS YOUR CHOICE
 
-👁️ 3K • 👍 68 • ⏱️ 0:14 • 6h ago
+👁️ 5K • 👍 79 • ⏱️ 0:14 • 7h ago
+
+---
+
+**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
+
+Shantak, Urhag & Voonith Giveaway Winners ...
+
+📺 PREDATOR WR
+
+👁️ 10K • 👍 360 • 💬 69 • ⏱️ 15:34 • 1d ago
 
 ---
 

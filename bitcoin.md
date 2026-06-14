@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-14T19:44:03.042613+00:00'
+updated: '2026-06-14T21:13:24.942103+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 19:44 UTC  
+**Last Updated:** June 14, 2026 at 21:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,812.52
+### $64,033.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +1.1%  
-**30d:** -18.4%  
-**90d:** -13.7%  
-**1y:** -39.6%  
+**24h:** -0.7%  
+**7d:** +1.5%  
+**30d:** -18.1%  
+**90d:** -13.4%  
+**1y:** -39.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1277.55B
+**Market Cap:** $1282.82B
 Rank #1
 
-**Circulating Supply:** 20,042,662 BTC
+**Circulating Supply:** 20,042,728 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.2%
 
 **All-Time Low:** $67.81
-+93890.6%
++94275.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When everyone's telling me to "go all in" while it's cheap, but I went all in months ago.](https://www.reddit.com/r/Bitcoin/comments/1u5j1cq/when_everyones_telling_me_to_go_all_in_while_its/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Happy to share that I’ve just added a new NerdQX to my home mining setup. My t
 
 People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 5h ago
 
 ---
 
@@ -109,13 +109,13 @@ People need to stop deferring to @giacomozucco for their opinions on BIP110. His
 
 Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giving it much thought. Over the course of that year, they deposited small amounts of Bitcoin into it. When they later wanted to cash out, they couldn't remember ever encrypting the wallet in the first place. While attempting to recover access at the time, they filled out the following form (see image). The version of Bitcoin Core available back then displayed the following recommendation when encrypting a wallet: This was only a recommendation. The actual technical requirement was simply that the passphrase contain more than one character. Today, the owner believes the password may contain the word "wallet" (or its Spanish equivalent, "billetera"). His name is Guillermo Ariel Ramirez, birthday 21-nov-1969, from Argentina. Offline page for manual testing: https://mrbianchi.github.io/decrypter16btc-web/ Hashcat hash for anyone who wants to attempt brute force: $bitcoin$96$1bbd24dc0f23175483d619a24e15f4a06e7e1d3d8b13d9a979b7f4223792836f50520c27c698fa9468ff95f481b888f0$16$65e1017f33467568$63533$2$00$2$00 In 2018, I made a similar post in the Bitcoin Argentina Facebook group: https://facebook.com/groups/351870631591732/?multi_permalinks=1569987566446693 For those who don't know me, I've completed numerous projects within that community involving wallet recovery and the recovery of cryptocurrency balances. https://preview.redd.it/surzl9x9h47h1.png?width=3525&format=png&auto=webp&s=075c6622dba32e4b909977c4c3d637e8fa74986e https://preview.redd.it/6yhesw6dh47h1.png?width=1080&format=png&auto=webp&s=8ea8955bdc40bf87009740b377859ac29c8c9f20 https://www.blockchain.com/es/explorer/addresses/btc/189JveWz2WP79oYU9Gq4NUfiurbiuNPUhn
 
-21h ago
+23h ago
 
 ---
 
 **[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
 Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
 
-5h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ Right now is very good time to make order in your UTXOs and withdraw your BTC fr
 
 Buy Bitcoin
 
-3h ago
+5h ago
 
 ---
 
@@ -163,41 +163,17 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
-
-The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin Price Will Hit $250,000 in Next 6 Months, Says Famed Investor Mike Alfred — Here’s His Thesis](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-250-000-114715646.html)**
-
-Mike Alfred said Bitcoin could climb to between $150,000 and $250,000 in its next major move. Alfred reiterated that Bitcoin will eventually reach $1 million. ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
-
-The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
-
-Forbes • 1d ago
-
----
-
-**[Charles Hoskinson Tries to Close Cardano’s $70 Million Bitcoin Mystery](https://finance.yahoo.com/markets/crypto/articles/charles-hoskinson-tries-close-cardano-171516556.html)**
-
-Charles Hoskinson ties Cardano's disputed 1,096 Bitcoin to a 2016 crowdsale audit, but Thomas Braziel demands the receipts.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Is Bitcoin the Safest Crypto to Own Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-safest-crypto-own-now-174508158.html)**
+**[Is Bitcoin the Safest Crypto to Own Right Now?](https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/)**
 
 The world's top cryptocurrency is still safer than the smaller altcoins.
+
+The Motley Fool • 2h ago
+
+---
+
+**[New MicroStrategy Bitcoin Metrics: Innovation or Goalpost Moving by Michael Saylor?](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-metrics-innovation-goalpost-191925557.html)**
+
+Michael Saylor unveils new Bitcoin metrics for MicroStrategy as critics warn the KPIs mask leverage and dilution risk.
 
 Yahoo Finance • 1h ago
 
@@ -215,7 +191,7 @@ The Globe and Mail • 1d ago
 
 The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -223,13 +199,37 @@ CoinDesk • 21h ago
 
 (Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Bitcoin tops $64,000 as ETF inflows rebound, SpaceX boosts crypto sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-advances-as-spacexs-13-billion-crypto-reserve-draws-attention-4741070)**
 
-Investing.com • 10h ago
+Investing.com • 12h ago
+
+---
+
+**[It’s ‘Over’—Crypto Is Quietly Braced For A Huge BlackRock Bitcoin Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/06/13/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
+
+The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
+
+The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
+
+CNBC • 2d ago
+
+---
+
+**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
 
 ---
 
@@ -273,7 +273,7 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
 
-⬆️ 2 • 💬 0 • 1h ago • [kicksats.com](https://kicksats.com/)
+⬆️ 2 • 💬 0 • 2h ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -317,37 +317,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 106 • ⏱️ 8:42 • 1d ago
-
----
-
-**[are you seeing what bitcoin is doing right now.....](https://www.youtube.com/watch?v=ndbwgMVQqVY)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 12K • 👍 676 • 💬 181 • ⏱️ 11:00 • 1d ago
-
----
-
-**[GIANT CRYPTO NEWS HAPPENING NOW! (Major Clarity Act News)](https://www.youtube.com/watch?v=CdsTuErwm5k)**
-
-GIANT News For Bitcoin, Ethereum, & Altcoins (Clarity Act Moves Forward?) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 1K • 💬 192 • ⏱️ 9:33 • 22h ago
-
----
-
-**[TRUMP GOES ALL IN BITCOIN !!!!!!! THIS IS INSANE !!!! PREPARE TO GET VERY RICH IF YOU&#39;RE IN CRYPTO !](https://www.youtube.com/watch?v=gd6hAPo-UXo)**
-
-THE ISLAND PROJECT FOUNDERS ROUND! (Fill OUT 5-Min App) https://IslandProject.com/ ...
-
-📺 AMTV
-
-👁️ 3K • 👍 180 • 💬 37 • ⏱️ 3:29 • 21h ago
+👁️ 41K • 👍 2K • 💬 105 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -357,47 +327,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 369 • 💬 32 • ⏱️ 19:27 • 1d ago
-
----
-
-**[BIG BITCOIN BREAKOUT BY MONDAY !!!!! [CLICK NOW]](https://www.youtube.com/watch?v=0q4H-_LyH6E)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
-
-📺 Crypto Kid
-
-👁️ 4K • 👍 343 • 💬 202 • ⏱️ 14:48 • 8h ago
-
----
-
-**[Bitcoin Is About To Make Everyone Look Stupid | Joe Consorti](https://www.youtube.com/watch?v=USS1sWjINUU)**
-
-Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Michael Saylor's recent Bitcoin moves and why the ...
-
-📺 Crypto Insider
-
-👁️ 33K • 👍 1K • 💬 63 • ⏱️ 55:10 • 1d ago
-
----
-
-**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 13K • 👍 635 • 💬 244 • ⏱️ 17:52 • 22h ago
-
----
-
-**[BITCOIN: GET READY!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=07Ac2R1Lhxo)**
-
-My Free Trading Course https://rt1m.com/free My Free Discord Community https://discord.com/invite/jRAnCV9CTB ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 255 • 💬 46 • ⏱️ 9:11 • 21h ago
+👁️ 12K • 👍 382 • 💬 32 • ⏱️ 19:27 • 2d ago
 
 ---
 
@@ -407,7 +337,77 @@ My Free Trading Course https://rt1m.com/free My Free Discord Community https://d
 
 📺 What Bitcoin Did
 
-👁️ 29K • 👍 1K • 💬 469 • ⏱️ 1:04:38 • 2d ago
+👁️ 31K • 👍 1K • 💬 472 • ⏱️ 1:04:38 • 2d ago
+
+---
+
+**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 13K • 👍 654 • 💬 239 • ⏱️ 17:52 • 23h ago
+
+---
+
+**[GIANT CRYPTO NEWS HAPPENING NOW! (Major Clarity Act News)](https://www.youtube.com/watch?v=CdsTuErwm5k)**
+
+GIANT News For Bitcoin, Ethereum, & Altcoins (Clarity Act Moves Forward?) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 2K • 💬 189 • ⏱️ 9:33 • 23h ago
+
+---
+
+**[are you seeing what bitcoin is doing right now.....](https://www.youtube.com/watch?v=ndbwgMVQqVY)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 13K • 👍 688 • 💬 184 • ⏱️ 11:00 • 1d ago
+
+---
+
+**[Bitcoin Is About To Make Everyone Look Stupid | Joe Consorti](https://www.youtube.com/watch?v=USS1sWjINUU)**
+
+Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Michael Saylor's recent Bitcoin moves and why the ...
+
+📺 Crypto Insider
+
+👁️ 34K • 👍 1K • 💬 64 • ⏱️ 55:10 • 1d ago
+
+---
+
+**[Why hasn’t Bitcoin replaced the dollar?](https://www.youtube.com/watch?v=dbJVJiTUpBY)**
+
+Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
+
+📺 NPR's Planet Money
+
+👁️ 48K • 👍 4K • 💬 135 • ⏱️ 1:24 • 2d ago
+
+---
+
+**[I’m Buying Bitcoin; Here’s Why | Eric Krown](https://www.youtube.com/watch?v=1hrA9NUZ-WE)**
+
+Alessandro explains that making money in cryptocurrency has become increasingly difficult as the market institutionalizes, with a ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 402 • 💬 17 • ⏱️ 46:11 • 1d ago
+
+---
+
+**[What Would It Actually Take for Strategy to Be a Forced Seller of Bitcoin](https://www.youtube.com/watch?v=9XA6OILE9oM)**
+
+Critics keep screaming that Strategy will be a forced seller of Bitcoin, so Strategy CEO Phong Le laid out what it would actually ...
+
+📺 The Wolf Of All Streets
+
+👁️ 303 • 👍 20 • 💬 62 • ⏱️ 1:06 • 1h ago
 
 ---
 
