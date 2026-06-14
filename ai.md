@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-14T10:25:19.109254+00:00'
+updated: '2026-06-14T12:23:22.672671+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 14, 2026 at 10:25 UTC  
+**Last Updated:** June 14, 2026 at 12:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
 
-3h ago
+5h ago
 
 ---
 
@@ -49,15 +49,7 @@ This is something I keep thinking about as someone who's built AI into a few bus
 
 Microsoft president and vice chairman Brad Smith recently shared his – definitely informed – opinion about the growing backlash against AI. Smith thinks that other leaders in...
 
-🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 14h ago
-
----
-
-**[We solved reasoning. The remaining challenge was apparently pressing Enter.](https://www.reddit.com/r/artificial/comments/1u5gaxs/we_solved_reasoning_the_remaining_challenge_was/)**
-
-Every week I see discussions about more capable models. Better reasoning.Better coding. Longer context. More autonomy. Meanwhile most real-world AI workflows still look like this: AI works. Human clicks continue. AI works. Human clicks continue. Repeat until boredom wins. I became curious how much of that friction was actually necessary. So I built Ghost in the Loop. It's an open-source project that automatically continues multi-step AI conversations across major AI platforms. What's interesting isn't the automation itself. What's interesting is watching how far current models can go once the conversation isn't constantly interrupted. Sometimes the results are impressive. Sometimes they're complete disasters. Both are useful data. I'd love feedback from people who spend time thinking about AI systems and human-in-the-loop design. Questions I'm exploring: • Where should autonomy stop? • Where should humans stay involved? • What tasks benefit from longer loops? • What tasks become worse? GitHub: https://github.com/MShneur/ghost-in-the-loop TL;DR I built a tool that removes one layer of human intervention from AI workflows. Now I'm trying to figure out where that becomes valuable and where it becomes a mistake.
-
-1h ago
+🔗 [TechSpot](https://www.techspot.com/news/112751-microsoft-president-ai-backlash-graduation-events-wake-up.html) • 16h ago
 
 ---
 
@@ -65,7 +57,15 @@ Every week I see discussions about more capable models. Better reasoning.Better 
 
 Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a universal basic income and introduce employee retention incentives to account for the potential impact the technology could have on the labor market. In a blog covering the potential policy responses to the “AI exponential,” referring to the rapid improvement in the technology’s capabilities, Amodei urged governments to develop regulatory and tax solutions to cushion its disruption. A universal basic income funded through taxing “relevant companies” or raising the capital gains tax could be necessary, if AI results in widespread job displacement and permanently reduces labor demand, he said.
 
-🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 1h ago
+🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 3h ago
+
+---
+
+**[We solved reasoning. The remaining challenge was apparently pressing Enter.](https://www.reddit.com/r/artificial/comments/1u5gaxs/we_solved_reasoning_the_remaining_challenge_was/)**
+
+Every week I see discussions about more capable models. Better reasoning.Better coding. Longer context. More autonomy. Meanwhile most real-world AI workflows still look like this: AI works. Human clicks continue. AI works. Human clicks continue. Repeat until boredom wins. I became curious how much of that friction was actually necessary. So I built Ghost in the Loop. It's an open-source project that automatically continues multi-step AI conversations across major AI platforms. What's interesting isn't the automation itself. What's interesting is watching how far current models can go once the conversation isn't constantly interrupted. Sometimes the results are impressive. Sometimes they're complete disasters. Both are useful data. I'd love feedback from people who spend time thinking about AI systems and human-in-the-loop design. Questions I'm exploring: • Where should autonomy stop? • Where should humans stay involved? • What tasks benefit from longer loops? • What tasks become worse? GitHub: https://github.com/MShneur/ghost-in-the-loop TL;DR I built a tool that removes one layer of human intervention from AI workflows. Now I'm trying to figure out where that becomes valuable and where it becomes a mistake.
+
+3h ago
 
 ---
 
@@ -77,37 +77,43 @@ Anthropic's two most powerful models, Fable 5 and Mythos 5, went dark tonight. S
 
 ---
 
-**[Change human biology?](https://www.reddit.com/r/artificial/comments/1u5hhuw/change_human_biology/)**
-
-Could a super intelligent AI learn the tools to change a human biology?
-
-3m ago
-
----
-
-**[History Facts That Break Your Brain (School Lied)](https://www.reddit.com/r/artificial/comments/1u5h827/history_facts_that_break_your_brain_school_lied/)**
-
-19m ago
-
----
-
-**[5 Countries That Literally Pay You To Move There](https://www.reddit.com/r/artificial/comments/1u5h5em/5_countries_that_literally_pay_you_to_move_there/)**
-
-23m ago
-
----
-
-**[She Hadn't Seen His Face in 11 Years. Then This.](https://www.reddit.com/r/artificial/comments/1u5h1o1/she_hadnt_seen_his_face_in_11_years_then_this/)**
-
-29m ago
-
----
-
 **[Can an AI agent complete a task and still fail?](https://www.reddit.com/r/artificial/comments/1u58qwi/can_an_ai_agent_complete_a_task_and_still_fail/)**
 
 A lot of AI-agent discussions focus on whether the agent completed the task. But I think there is a missing category: the agent may complete the task, but do it in an unsafe or policy-violating way. For example, an agent could finish the job but use the wrong tool, skip an approval step, expose private information, or take an action that should have been blocked. In our ACM CAIS 2026 paper, we call this the Verifier Tax. The idea is to separate: safe success unsafe success failure We studied this in tool-using LLM agent scenarios using τ-bench and proposed a two-tier verification architecture: deterministic checks first, then an LLM-based verifier for more contextual cases. The main takeaway: verification can make agents safer by reducing unsafe success, but it may also reduce task completion as tasks get longer. Paper: https://dl.acm.org/doi/full/10.1145/3786335.3813160 Curious what people think: if an AI agent completes a task but violates a safety rule, should that count as success or failure?
 
-8h ago
+10h ago
+
+---
+
+**[My client didn't want to add FAQs manually, so I built a system that crawls their website and generates the knowledge base automatically](https://www.reddit.com/r/artificial/comments/1u5idv8/my_client_didnt_want_to_add_faqs_manually_so_i/)**
+
+Building on a hotel email AI system I shipped recently (500 properties, ~15k emails/day). The client had a requirement that turned into the most interesting part of the build. They did not want to manually add FAQs to the database for every hotel they onboard. With 500+ properties and new ones being added regularly, hand-entering FAQs would be a full time job by itself. So they asked for two things: feed the system a hotel's website URL OR a PDF, and have it automatically extract all the relevant information and generate the FAQ knowledge base. Here's how the website crawler works: It starts at the hotel's URL and hits their sitemap first to discover pages. It maintains a set of visited URLs so it never crawls the same page twice. It caps at 50 pages because most of the useful information lives in the first few pages. Crawling the entire site adds hours of processing time for almost no extra value. The junk filtering was important. The crawler skips paths like booking, reserve, login, careers, legal, checkout, cart, admin. These pages have no FAQ-relevant content. It only follows links that look like they lead to useful info (amenities, FAQs, policies, etc). For content extraction it uses BeautifulSoup and strips out script, style, nav, footer, and header elements before grabbing the text. The footer and nav are pure noise that would pollute the knowledge base if included. It crawls deeper by following relevant internal links from the first page, so it captures subsequent pages like /amenities or /faq, not just the landing page. Here's the part that makes it actually useful: After crawling and cleaning the content, it doesn't just dump raw website text into the vector database. A separate AI agent reads the cleaned content and generates structured FAQs from it. Question and answer pairs. Then those get embedded and stored. So the flow is: website URL → crawl relevant pages → clean the content → AI generates FAQs from content → embed and store. The client just pastes a URL and the entire knowledge base builds itself. When the same URL gets crawled again, the old data for that hotel gets deleted and replaced with fresh data, so re-crawling updates the knowledge base instead of duplicating it. The system prompt for the FAQ generation agent was the most critical piece. I gave it explicit rules, guardrails, and 11 worked examples. Garbage in garbage out. If the FAQ generation hallucinates wrong information (like a wrong price or a wrong policy) it could cost the client real money and trust. I've seen reports of AI agents quoting customers wrong prices because of sloppy system prompts. I recorded a full walkthrough of how I built the crawler and FAQ generation if anyone wants to see the actual code: here Happy to answer questions about the crawling or FAQ generation approach.
+
+1h ago
+
+---
+
+**[Anthropic suspends access to Claude Fable and Mythos for all users after US government order](https://www.reddit.com/r/artificial/comments/1u4ef3y/anthropic_suspends_access_to_claude_fable_and/)**
+
+https://www.anthropic.com/news/fable-mythos-access The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected.
+
+1d ago
+
+---
+
+**[ML in 2010 vs ML in 2026](https://www.reddit.com/r/artificial/comments/1u4jsei/ml_in_2010_vs_ml_in_2026/)**
+
+The bitter lesson, visualized.
+
+1d ago
+
+---
+
+**[Found this interesting resource on Data Centers in the US. Shows tax incentives on the map too. Fairly neutral on positioning. Does anyone know what Beaumont and Sheridan is?](https://www.reddit.com/r/artificial/comments/1u51wqm/found_this_interesting_resource_on_data_centers/)**
+
+I came across this website when I was trying to figure out how real the complaints to data center opposition are. Has anyone seen this site before? I can't figure out what it is. Looks kind of like a legal site, but I don't think it is. https://beaumontandsheridan.com/resources/data-centers-the-internets-body/
+
+15h ago
 
 ---
 
@@ -115,23 +121,23 @@ A lot of AI-agent discussions focus on whether the agent completed the task. But
 
 ## Google News: "ai"
 
-**[Anthropic to disable its most advanced AI models after US order limiting foreign access](https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order)**
+**[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
 
-Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities
-
-The Guardian • 21h ago
+The New York Times • 11h ago
 
 ---
 
-**[Amazon voiced concerns about Anthropic AI models before US crackdown, source says​](https://www.reuters.com/business/retail-consumer/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-2026-06-13/)**
+**[AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past](https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts)**
 
-Reuters • 12h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
+**[A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it](https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html)**
 
-The New York Times • 1h ago
+Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
+
+CNBC • 23m ago
 
 ---
 
@@ -139,15 +145,37 @@ The New York Times • 1h ago
 
 Mark Lanier, trial lawyer who beat Meta in a landmark social media addiction case, said AI has transformed his work during and before trial.
 
-Business Insider • 1h ago
+Business Insider • 3h ago
 
 ---
 
-**[Who wins Netherlands vs. Japan? AI predicts every World Cup game today](https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/14/world-cup-ai-predictions-netherlands-japan/90543481007/)**
+**[Meta's highest paid employee Alexandr Wang 'admits' the company's previous AI policy didn't work, says ot](https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-admits-the-companys-previous-ai-policy-didnt-work-says-other-labs-are-seeing-the/articleshow/131715015.cms)**
 
-There are four World Cup games on the slate for Sunday, June 14. Who will win each game? Microsoft Copilot AI makes its picks.
+Alexandr Wang, the Scale AI co-founder Mark Zuckerberg hired last year as Meta's Chief AI Officer after a reported $15 billion deal, has acknowledged on Bloomberg Tech that Meta's longstanding open-source approach hit a wall with Muse Spark. The model, released in April, stayed proprietary because internal testing flagged risks the company couldn't safely contain in an open release, and Wang says rival labs are running into the same problem as their models scale.
 
-USA Today • 53m ago
+The Times of India • 8h ago
+
+---
+
+**[New Amazon AI search turns words into shoppable images](https://www.foxnews.com/tech/new-amazon-ai-search-turns-words-shoppable-images-)**
+
+Amazon's new AI search feature generates images in real time as you type, helping you find clothes and furniture that match the look in your head.
+
+Fox News • 26m ago
+
+---
+
+**[The World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[Opinion | Why Europe won’t have the new Siri](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/)**
+
+The Digital Markets Act was supposed to create more choices. Instead, people get worse technology.
+
+The Washington Post • 1h ago
 
 ---
 
@@ -155,33 +183,15 @@ USA Today • 53m ago
 
 The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.
 
-BBC • 11h ago
+BBC • 13h ago
 
 ---
 
-**[Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic](https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519)**
+**[Trump tried to block state AI regulations, but some states are forging ahead](https://apnews.com/article/trump-artificial-intelligence-chatbots-ai-23a0e44ab05402ddfe9cdfd0bffa0ade)**
 
-Politico • 10h ago
+Six months after President Donald Trump warned states not to regulate artificial intelligence, they are increasingly doing just that.
 
----
-
-**[The Job That AI Was Supposed to Kill Needs More Humans Than Ever](https://www.wsj.com/tech/ai/the-job-that-ai-was-supposed-to-kill-needs-more-humans-than-ever-0771e4cf)**
-
-WSJ • 22h ago
-
----
-
-**[Wall Street digests record fundraising haul as AI race intensifies](https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06?syn-25a6b1a6=1)**
-
-SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
-
-Financial Times • 6h ago
-
----
-
-**[China’s universities cut 12,000 ‘obsolete’ degrees amid race to embrace AI era](https://www.scmp.com/economy/china-economy/article/3356913/chinas-universities-cut-12000-obsolete-degrees-amid-race-embrace-ai-era)**
-
-South China Morning Post • 7h ago
+AP News • 3h ago
 
 ---
 
@@ -193,19 +203,19 @@ South China Morning Post • 7h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1537 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1539 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1447 • 💬 526 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1448 • 💬 528 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 326 • 💬 158 • 14h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 340 • 💬 169 • 16h ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 
 ---
 
@@ -213,7 +223,7 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 294 • 💬 238 • 17h ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+⬆️ 306 • 💬 247 • 19h ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
@@ -229,7 +239,7 @@ Workers are spending an average of 6.4 hours a week — almost a full working da
 
 TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
 
-⬆️ 261 • 💬 163 • 22h ago • [GitHub](https://github.com/tensorzero/tensorzero)
+⬆️ 266 • 💬 165 • 1d ago • [GitHub](https://github.com/tensorzero/tensorzero)
 
 ---
 
@@ -259,7 +269,7 @@ The advance in fabric technology comes alongside a new benchmark for atmospheric
 
 AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
 
-⬆️ 153 • 💬 55 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
+⬆️ 156 • 💬 55 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
 
 ---
 
@@ -273,7 +283,7 @@ Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's to
 
 📺 DW News
 
-👁️ 31K • 👍 690 • 💬 198 • ⏱️ 14:25 • 9h ago
+👁️ 31K • 👍 690 • 💬 198 • ⏱️ 14:25 • 11h ago
 
 ---
 
@@ -283,7 +293,7 @@ Anthropic's Fable 5 was live for only three days before everything changed. The 
 
 📺 AI Revolution
 
-👁️ 14K • 👍 597 • 💬 168 • ⏱️ 12:49 • 11h ago
+👁️ 14K • 👍 597 • 💬 168 • ⏱️ 12:49 • 13h ago
 
 ---
 
@@ -293,7 +303,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 20K • 👍 1K • 💬 215 • ⏱️ 9:43 • 19h ago
+👁️ 20K • 👍 1K • 💬 215 • ⏱️ 9:43 • 21h ago
 
 ---
 
@@ -343,7 +353,7 @@ HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M
 
 📺 AI Search
 
-👁️ 37K • 👍 2K • 💬 228 • ⏱️ 43:47 • 6h ago
+👁️ 37K • 👍 2K • 💬 228 • ⏱️ 43:47 • 8h ago
 
 ---
 
@@ -403,7 +413,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 75,201 • ❤️ 1,977 • 1d ago
+⬇️ 75,201 • ❤️ 1,977 • 2d ago
 
 ---
 
@@ -439,7 +449,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 1,084,405 • ❤️ 999 • 9d ago
+⬇️ 1,084,405 • ❤️ 999 • 10d ago
 
 ---
 
@@ -463,7 +473,7 @@ Gemma-4-12B-OBLITERATED is a text-generation model modified via weight surgery t
 
 `text-generation` `12.0B`
 
-⬇️ 60,949 • ❤️ 286 • 4d ago
+⬇️ 60,949 • ❤️ 286 • 5d ago
 
 ---
 
@@ -475,7 +485,7 @@ Higgs Audio v3 TTS is a 4B parameter autoregressive text-to-speech model support
 
 `text-to-speech` `4.7B`
 
-⬇️ 35,122 • ❤️ 418 • 9h ago
+⬇️ 35,122 • ❤️ 418 • 11h ago
 
 ---
 
@@ -635,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 70.4k • 🔱 8.9k • 17h ago
+⭐ 70.4k • 🔱 8.9k • 19h ago
 
 ---
 
@@ -645,7 +655,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 356 • 17h ago
+⭐ 4.1k • 🔱 356 • 19h ago
 
 ---
 
@@ -685,7 +695,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 2.7k • 🔱 121 • 22h ago
+⭐ 2.7k • 🔱 121 • 1d ago
 
 ---
 
@@ -695,7 +705,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.1k • 🔱 145 • 1h ago
+⭐ 2.1k • 🔱 145 • 3h ago
 
 ---
 

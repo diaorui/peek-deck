@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-14T10:25:19.128695+00:00'
+updated: '2026-06-14T12:23:22.685969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 10:25 UTC  
+**Last Updated:** June 14, 2026 at 12:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -0.7%  
-**30d:** -23.0%  
-**90d:** -27.6%  
-**1y:** -34.1%  
+**24h:** -0.2%  
+**7d:** -1.0%  
+**30d:** -23.2%  
+**90d:** -27.8%  
+**1y:** -34.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -156,15 +156,23 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 18h ago
+CoinDesk • 20h ago
 
 ---
 
-**[BitMine Immersion (BMNR) Reports $9.6B Crypto and Cash Holdings, Led by Ethereum Treasury](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-reports-9-193428427.html)**
+**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
 
-BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion reported that its total crypto and cash holdings reached $9.6 billion, driven primarily by a large Ethereum/ETH treasury position. The company disclosed holdings of over 5.5 million ETH, alongside smaller Bitcoin positions, […]
+The world's second-largest cryptocurrency is still a compelling investment.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+
+The prominent analyst expects Ether to replicate Bitcoin's historic run.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -180,29 +188,15 @@ Fortune • 2d ago
 
 ---
 
-**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
-
-The prominent analyst expects Ether to replicate Bitcoin's historic run.
-
-The Motley Fool • 1d ago
-
----
-
 **[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
 
-AMBCrypto • 13h ago
+AMBCrypto • 15h ago
 
 ---
 
 **[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Ethereum Staking Demand Explodes as Investors Lock Up 3 Million ETH](https://www.ccn.com/analysis/crypto/ethereum-staking-demand-explodes-eth-queue-supply-crunch/)**
-
-CCN.com • 1d ago
 
 ---
 
@@ -214,19 +208,27 @@ TradingView • 1d ago
 
 ---
 
-**['Cash Is Trash': Robert Kiyosaki Doubles Down on Bitcoin, Ethereum and Gold](https://u.today/cash-is-trash-robert-kiyosaki-doubles-down-on-bitcoin-ethereum-and-gold)**
-
-'Rich Dad Poor Dad' Author Robert Kiyosaki Believes Gold, Silver, Bitcoin, and Ethereum win long term.
-
-U.Today • 4h ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC tests key resistance, ETH stabilizes, XRP shows signs of bearish exhaustion](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-tests-key-resistance-eth-stabilizes-xrp-shows-signs-of-bearish-exhaustion-202606120254)**
 
 Bitcoin (BTC) is attempting to reclaim the key $64,000 resistance level on Friday after staging a modest recovery from recent declines. Ethereum (ETH) is stabilizing above $1,660 after a slight rebound, while Ripple (XRP) momentum indicators suggest weakening bearish pressure.
 
 FXStreet • 2d ago
+
+---
+
+**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
+
+Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
+
+Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
+
+TipRanks • 1h ago
 
 ---
 
@@ -240,7 +242,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 13K • 👍 685 • 💬 106 • ⏱️ 10:36 • 22h ago
+👁️ 13K • 👍 685 • 💬 106 • ⏱️ 10:36 • 1d ago
 
 ---
 
@@ -250,7 +252,7 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 374 • 💬 21 • ⏱️ 14:06 • 23h ago
+👁️ 8K • 👍 374 • 💬 21 • ⏱️ 14:06 • 1d ago
 
 ---
 
@@ -260,7 +262,7 @@ Ethereum's biggest problem may not be price. It may be its own economy. After a 
 
 📺 Coin Bureau Podcast
 
-👁️ 2K • 👍 32 • 💬 3 • ⏱️ 0:45 • 18h ago
+👁️ 2K • 👍 32 • 💬 3 • ⏱️ 0:45 • 20h ago
 
 ---
 
@@ -270,7 +272,7 @@ This video is about the Ethereum cryptocurrency.
 
 📺 Crypto Wealth Transfer
 
-👁️ 2K • 👍 215 • 💬 51 • ⏱️ 22:47 • 22h ago
+👁️ 2K • 👍 215 • 💬 51 • ⏱️ 22:47 • 1d ago
 
 ---
 
@@ -280,7 +282,7 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Emir Şahin
 
-👁️ 10K • 👍 1K • 💬 208 • ⏱️ 34:45 • 21h ago
+👁️ 10K • 👍 1K • 💬 208 • ⏱️ 34:45 • 23h ago
 
 ---
 
@@ -290,7 +292,7 @@ En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinlikleri
 
 📺 Romanov Crypto
 
-👁️ 2K • 👍 119 • 💬 15 • ⏱️ 7:45 • 19h ago
+👁️ 2K • 👍 119 • 💬 15 • ⏱️ 7:45 • 21h ago
 
 ---
 
@@ -300,7 +302,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 430 • 💬 38 • ⏱️ 15:27 • 5h ago
+👁️ 2K • 👍 430 • 💬 38 • ⏱️ 15:27 • 7h ago
 
 ---
 
@@ -310,7 +312,7 @@ BITCOIN BREAKOUT IMMINENT: New Price Targets!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 12K • 👍 452 • 💬 195 • ⏱️ 20:28 • 21h ago
+👁️ 12K • 👍 452 • 💬 195 • ⏱️ 20:28 • 23h ago
 
 ---
 
@@ -320,7 +322,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 466 • 👍 30 • 💬 3 • ⏱️ 5:32 • 23h ago
+👁️ 466 • 👍 30 • 💬 3 • ⏱️ 5:32 • 1d ago
 
 ---
 
@@ -330,7 +332,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 110 • ⏱️ 6:39 • 8h ago
+👁️ 1K • 👍 110 • ⏱️ 6:39 • 10h ago
 
 ---
 

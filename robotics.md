@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T10:25:19.131948+00:00'
+updated: '2026-06-14T12:23:22.688833+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 10:25 UTC  
+**Last Updated:** June 14, 2026 at 12:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Depth cloud Test on SLAM Camera](https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -64,7 +64,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-19h ago
+21h ago
 
 ---
 
@@ -76,7 +76,7 @@ Curation of materials for robotics and Artificial Intelligence. Learn as your pr
 
 **[Visual Integration to LIO SAM](https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 18h ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 20h ago
 
 ---
 
@@ -112,19 +112,19 @@ Barron's • 2d ago
 
 ---
 
+**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
+
+As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
+
+The Guardian • 1h ago
+
+---
+
 **[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
 
 Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
 
-CNBC • 22h ago
-
----
-
-**[NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe](https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-partners-nebius-192521134.html)**
-
-NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
-
-Yahoo Finance • 14h ago
+CNBC • 1d ago
 
 ---
 
@@ -132,29 +132,21 @@ Yahoo Finance • 14h ago
 
 Why Robots Still Can't Do Science: AI can read the literature in an afternoon and design molecules a chemist never would. So why can't a robot hold a pipette?
 
-Nautilus | Science • 1d ago
+Nautilus | Science • 2d ago
 
 ---
 
-**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
+**[NVIDIA Corporation (NVDA) Partners with Nebius to Support AI Robotics Startup in Europe](https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-partners-nebius-192521134.html)**
 
-Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising growth stocks to buy now. On June 9, Nebius reiterated a strategic collaboration with NVIDIA Corporation (NASDAQ:NVDA) to create a cloud platform for robotics and physical artificial intelligence. Nebius launched the Physical AI Living Lab for UK and European robotics startups, built with NVIDIA technologies. The […]
 
-Fox News • 20h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
 
 WSJ • 2d ago
-
----
-
-**[Soft robots get a tiny soft pump to move their bodies](https://newatlas.com/robotics/soft-robots-tiny-pump/)**
-
-Soft robots have a “cardiovascular” problem. While their bodies can deform and bend, their hearts, the pumps that keep them moving, have remained bulky and rigid. Researchers at the University of Bristol have created a “soft” miniature pump that weighs about as much as a single dried pumpkin seed,…
-
-New Atlas • 1d ago
 
 ---
 
@@ -178,6 +170,14 @@ The Atlantic • 2d ago
 
 ---
 
+**[Robot soccer player dents wall with terrifying kicks](https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks)**
+
+Booster Robotics' T1 humanoid robot kicks soccer balls hard enough to dent walls, raising serious safety questions about powerful robots near people.
+
+Fox News • 22h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -188,7 +188,7 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 7K • 👍 155 • 💬 76 • ⏱️ 8:49 • 23h ago
+👁️ 7K • 👍 155 • 💬 76 • ⏱️ 8:49 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Shantak, Urhag & Voonith Giveaway Winners ...
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 343 • 💬 60 • ⏱️ 15:34 • 22h ago
+👁️ 8K • 👍 343 • 💬 60 • ⏱️ 15:34 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 📺 Zack D. Films
 
-👁️ 4.0M • 👍 161K • 💬 2K • ⏱️ 0:39 • 14h ago
+👁️ 4.0M • 👍 161K • 💬 2K • ⏱️ 0:39 • 16h ago
 
 ---
 
