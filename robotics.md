@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-15T12:16:12.881048+00:00'
+updated: '2026-06-15T17:30:53.467653+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 15, 2026 at 12:16 UTC  
+**Last Updated:** June 15, 2026 at 17:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 **[Depth cloud Test on SLAM Camera](https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -64,25 +64,25 @@ Nature: Outplaying elite table tennis players with an autonomous robot (Publishe
 
 Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
 
-1d ago
+2d ago
 
 ---
 
 **[2Dof Differential Joint](https://www.reddit.com/r/robotics/comments/1u41ugd/2dof_differential_joint/)**
 
-2d ago
+3d ago
 
 ---
 
 **[Visual Integration to LIO SAM](https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/)**
 
-1d ago
+2d ago
 
 ---
 
 **[test the stereo depth, only-vision](https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -90,7 +90,7 @@ Curation of materials for robotics and Artificial Intelligence. Learn as your pr
 
 Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
 
-2d ago
+3d ago
 
 ---
 
@@ -98,7 +98,7 @@ Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTa
 
 Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
 
-🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 1d ago
+🔗 [youtu.be](https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq) • 2d ago
 
 ---
 
@@ -106,35 +106,19 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Atlanta STEM camp uses robotics to inspire foster kids and at-risk youth](https://www.cbsnews.com/atlanta/video/atlanta-stem-camp-uses-robotics-to-inspire-foster-kids-and-at-risk-youth/)**
-
-An Atlanta nonprofit is giving foster children and at-risk youth hands-on experience with robotics and STEM through a new summer camp partnership. Students are learning critical thinking, problem-solving and perseverance while exploring technology and building confidence for future careers.
-
-CBS News • 38m ago
-
----
-
 **[Meet the 22 Investors to Know in Robotics and Physical AI](https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6)**
 
 Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-Business Insider • 3h ago
+Business Insider • 8h ago
 
 ---
 
-**[Me and my exoskeletons: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
+**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
 
-Lighter and more affordable devices give users a battery-powered spring in their step
+A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
 
-Financial Times • 10m ago
-
----
-
-**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
-
-As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
-
-The Guardian • 16h ago
+Futurism • 2d ago
 
 ---
 
@@ -146,39 +130,57 @@ CNBC • 2d ago
 
 ---
 
-**[Autonomous Robots Confirmed to Have Killed Human Soldiers](https://www.yahoo.com/news/world/articles/autonomous-robots-confirmed-killed-human-151500034.html)**
+**[Me and my exoskeletons: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
 
-"We just launch it and we know everything will be dead — everything that will be found there in this particular area will be dead."
+Lighter and more affordable devices give users a battery-powered spring in their step
 
-Yahoo • 1d ago
-
----
-
-**[Octopus-like robo-arm thinks with its suckers to explore the ocean floor](https://newatlas.com/robotics/iit-octopus-robot-arm-autonomous-ocean-floor-exploration/)**
-
-Robots exploring the ocean floor today use pre-programmed movements, centralized processors, and rigid structures to do their work. But the sea is unpredictable, and that architecture struggles wherever currents shift, visibility drops, or terrain changes without warning. Now, researchers at the…
-
-New Atlas • 1d ago
+Financial Times • 5h ago
 
 ---
 
-**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
+**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
 
-WSJ • 3d ago
+As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
----
-
-**[OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?](https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/)**
-
-ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
-
-The Motley Fool • 23h ago
+The Guardian • 21h ago
 
 ---
 
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
+**[Food Delivery Robots Coming To South Side After Alderman Approves Program's Expansion](https://blockclubchicago.org/2026/06/15/food-delivery-robots-coming-to-south-side-after-alderman-approves-programs-expansion/)**
 
-Bloomberg • 3d ago
+Block Club Chicago • 4h ago
+
+---
+
+**[Why robots are now sent to school in China—and what they’re learning will shock you](https://www.futura-sciences.com/en/why-robots-are-now-sent-to-school-in-china-and-what-theyre-learning-will-shock-you_33125/)**
+
+Not Your Typical School: Where Robots Sharpen Their Skills In China, humanoid robots now have a school of their own. In Shanghai, at an institute built around diversity, they’re busy perfecting their gestures to serve in a range of domestic and industrial sectors. But make no mistake, this school is...
+
+Futura, le média qui explore le monde • 4h ago
+
+---
+
+**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-06-14/)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+
+CBS News • 18h ago
+
+---
+
+**[Robotics startup backed by Nvidia, Amazon and others raises $1.4B](https://finance.yahoo.com/sectors/technology/articles/robotics-startup-backed-nvidia-amazon-115700698.html)**
+
+Neura plans to leverage the capital to increase robot manufacturing and deployments across industries, as well as expand its training and intelligence infrastructure.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Pemba humanoid robot eyes Mount Everest summit after historic 20,312-ft climb](https://interestingengineering.com/ai-robotics/humanoid-robot-mount-everest)**
+
+A Unitree G1 humanoid robot reached Mount Chimborazo’s summit in Ecuador, marking the first robotic expedition to the peak.
+
+Interesting Engineering • 6h ago
 
 ---
 
@@ -192,27 +194,47 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 14K • 👍 276 • 💬 103 • ⏱️ 8:49 • 2d ago
+👁️ 14K • 👍 289 • 💬 105 • ⏱️ 8:49 • 2d ago
 
 ---
 
-**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+**[New Atlas vs Unitree G1: The AI Robot War Just Got REAL!](https://www.youtube.com/watch?v=fgAAAodpRcE)**
 
-AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
+The humanoid robot war just exploded — and Atlas vs G1 is the showdown you CANNOT miss! Boston Dynamics and Unitree are ...
 
-📺 InsideAI
+📺 The AI Nexus
 
-👁️ 339K • 👍 12K • 💬 1K • ⏱️ 15:10 • 19h ago
+👁️ 3K • 👍 88 • 💬 4 • ⏱️ 18:44 • 22h ago
 
 ---
 
-**[Can This $125K Robot Be My Friend? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
+**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
 
-Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
+This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
 
-📺 Business Insider
+📺 Over Engineer
 
-👁️ 44K • 👍 629 • 💬 175 • ⏱️ 17:26 • 23h ago
+👁️ 19K • 👍 2K • 💬 141 • ⏱️ 6:05 • 2d ago
+
+---
+
+**[Robotic Transformation ID 8  #robotics #indianarmy #usaarmy](https://www.youtube.com/watch?v=nrutJuv4-RY)**
+
+Robotic Transformation ID 8 #robotics #indianarmy #usaarmy In this video you are going to watch ai robotic transformation, ...
+
+📺 GlossCraft
+
+👁️ 1K • 👍 2 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[Robot-as-a-Service: The Business Model That Could Put Humanoids in Every Factory](https://www.youtube.com/watch?v=KgtFHvsD5ck)**
+
+SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Schaeffler to Deploy Thousands of ...
+
+📺 Jason Lowe on AI
+
+👁️ 8K • 👍 705 • 💬 27 • ⏱️ 2:31 • 19h ago
 
 ---
 
@@ -222,17 +244,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 137K • 👍 2K • 💬 176 • ⏱️ 6:09 • 5d ago
-
----
-
-**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
-
-MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
-
-📺 Make Dream Come True 
-
-👁️ 206K • 👍 1K • 💬 6 • ⏱️ 0:10 • 2d ago
+👁️ 140K • 👍 2K • 💬 178 • ⏱️ 6:09 • 5d ago
 
 ---
 
@@ -242,7 +254,17 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 📺 Back to Engineering
 
-👁️ 32K • 👍 273 • 💬 8 • ⏱️ 0:13 • 3d ago
+👁️ 32K • 👍 277 • 💬 8 • ⏱️ 0:13 • 4d ago
+
+---
+
+**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
+
+MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
+
+📺 Make Dream Come True 
+
+👁️ 208K • 👍 1K • 💬 6 • ⏱️ 0:10 • 2d ago
 
 ---
 
@@ -250,37 +272,17 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 📺 Zack D. Films
 
-👁️ 7.2M • 👍 259K • 💬 2K • ⏱️ 0:39 • 1d ago
+👁️ 7.5M • 👍 269K • 💬 2K • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
+**[The Closest Thing To Original War Robots... This Is Awesome | B.o.T. Is Back!](https://www.youtube.com/watch?v=yF24RQQz5cc)**
 
-At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
-
-📺 Machines In Action
-
-👁️ 21K • 👍 229 • 💬 14 • ⏱️ 0:15 • 22h ago
-
----
-
-**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
-
-Shantak, Urhag & Voonith Giveaway Winners ...
+This is awesome. The closest we might ever see to the original years of War Robots. Battle of titans was released back in 2016-17 ...
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 385 • 💬 76 • ⏱️ 15:34 • 2d ago
-
----
-
-**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
-
-Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
-
-📺 Talent Replay
-
-👁️ 74K • 👍 784 • 💬 83 • ⏱️ 5:50 • 5d ago
+👁️ 15K • 👍 783 • 💬 167 • ⏱️ 13:36 • 1d ago
 
 ---
 

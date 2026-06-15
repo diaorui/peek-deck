@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-15T12:16:12.872577+00:00'
+updated: '2026-06-15T17:30:53.458499+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 12:16 UTC  
+**Last Updated:** June 15, 2026 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,232.81
+### $66,931.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +7.4%  
-**30d:** -14.4%  
-**90d:** -7.0%  
-**1y:** -37.9%  
+**24h:** +4.8%  
+**7d:** +8.3%  
+**30d:** -13.7%  
+**90d:** -6.2%  
+**1y:** -37.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1326.36B
+**Market Cap:** $1339.48B
 Rank #1
 
-**Circulating Supply:** 20,042,953 BTC
+**Circulating Supply:** 20,043,121 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--47.5%
+-47.0%
 
 **All-Time Low:** $67.81
-+97575.9%
++98469.5%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-19h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ Happy to share that I’ve just added a new NerdQX to my home mining setup. My t
 
 People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
-20h ago
+1d ago
 
 ---
 
@@ -131,7 +131,7 @@ Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
 Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
 
-22h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ Right now is very good time to make order in your UTXOs and withdraw your BTC fr
 
 Buy Bitcoin
 
-20h ago
+1d ago
 
 ---
 
@@ -155,47 +155,9 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) Rallies to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
+**[Bitcoin Rallies to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
 
-Bloomberg • 1h ago
-
----
-
-**[Bitcoin’s Uselessness As ‘Money’ Well Predates Its Recent Decline](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
-
-With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
-
-Forbes • 22h ago
-
----
-
-**[Bitcoin Just Topped a Key Level. Strategy, Coinbase Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-crypto-d2fcb517)**
-
-Barron's • 23m ago
-
----
-
-**[Bitcoin and ethereum prices today, Monday, June 15, 2026: Prices rising after U.S., Iran agree to ceasefire deal](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-15-2026-prices-rising-after-us-iran-agree-to-ceasefire-deal-114616600.html)**
-
-Bitcoin opened at $65,710.09 on Monday, June 15, 2% higher than Sunday's opening price. As of 7:33 a.m. ET this morning, the price of bitcoin moved up to $66,157.11. Ethereum opened at $1,724.44, up 2.6% from Sunday's opening price. The price of ethereum moved higher this morning to $1,762.41 as of 7:33 a.m. ET.
-
-Yahoo Finance • 29m ago
-
----
-
-**[Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical](https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-65k-us-iran-110314226.html)**
-
-A crypto relief rally has “partially arrived” as Trump announces a deal with Iran, but prediction market traders remain unconvinced.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Crown alleges man accessed $5.7m dark web bitcoin to buy home](https://www.abc.net.au/news/2026-06-15/crypto-bust-jamie-powrie-bail-release/106798570)**
-
-Prosecutors allege the house Jamie Lawrence Powrie was arrested at was bought with the cryptocurrency acquired through illegal dark web activity.
-
-Australian Broadcasting Corporation • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -203,15 +165,23 @@ Australian Broadcasting Corporation • 4h ago
 
 The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices.
 
-The Block • 15h ago
+The Block • 20h ago
 
 ---
 
-**[Opinion: From nothing bitcoin came, and to nothing it will return](https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/)**
+**[Bitcoin, XRP surge as U.S.-Iran near peace deal](https://sg.finance.yahoo.com/news/bitcoin-xrp-surge-u-iran-165259539.html)**
 
-Having peaked last year, the cryptocurrency has now lost half its value
+Cryptocurrencies climbed across the board on June 15 after the United States and Iran agreed to a deal aimed at ending their conflict. The de-escalation comes after weeks of stalled conversations and renewed attacks in pockets. Pakistan's Prime Minister Shehbaz Sharif, whose government helped ...
 
-The Globe and Mail • 2d ago
+Yahoo Finance Singapore • 37m ago
+
+---
+
+**[Bitcoin Is Totally Useless As Money, Not Because It’s Declining](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
+
+With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
+
+Forbes • 1d ago
 
 ---
 
@@ -219,7 +189,19 @@ The Globe and Mail • 2d ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CNBC • 2d ago
+CNBC • 3d ago
+
+---
+
+**[Since 2010, This Signal Has Flagged Bitcoin Bottoms (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4914956-since-2010-this-signal-has-flagged-bitcoin-bottoms)**
+
+Seeking Alpha • 7h ago
+
+---
+
+**[Did Bitcoin Find Its Bottom? Or Is This Rebound A Dead Cat Bounce?](https://www.investors.com/news/bitcoin-price-rebound-cryptocurrency-stocks-iran-us-oil-prices-bottom-dead-cat-bounce/)**
+
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -227,7 +209,19 @@ CNBC • 2d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 2d ago
+Fortune • 3d ago
+
+---
+
+**[Bitcoin hits $66,380 resistance after W-bottom breakout: Live levels](https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296)**
+
+Investing.com • 10h ago
+
+---
+
+**[Bitcoin Just Topped a Key Level. Strategy, Coinbase Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-crypto-d2fcb517)**
+
+Barron's • 2h ago
 
 ---
 
@@ -239,15 +233,7 @@ Fortune • 2d ago
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 3 • 3d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
-
----
-
-**[Bitcoin Manga](https://news.ycombinator.com/item?id=48444900)**
-
-84-page Bitcoin manga by award-winning Japanese artist Dai-nonsugar. Free to read online.
-
-⬆️ 4 • 💬 1 • 6d ago • [Bitcoin Bacheen!](https://bitcoinbacheen.com/Manga/en/viewer.html)
+⬆️ 6 • 💬 3 • 4d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -255,7 +241,7 @@ Fortune • 2d ago
 
 Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
 
-⬆️ 4 • 💬 0 • 17h ago • [kicksats.com](https://kicksats.com/)
+⬆️ 4 • 💬 0 • 23h ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -263,7 +249,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 2 • 💬 0 • 7h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+⬆️ 3 • 💬 0 • 12h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
 
 ---
 
@@ -293,15 +279,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Queries own the reads the way commands own the writes, and a T::Struct is the only thing that crosses between them. Every read here ran against ActiveRecord 8.1 before it went in.
 
-⬆️ 3 • 💬 0 • 1h ago • [baweaver](https://baweaver.com/writing/2026/06/14/rails-sharp-parts-queries-read-models-and-batching/)
-
----
-
-**[Show HN: Startup sci-fi novel that took me 5 years to write](https://news.ycombinator.com/item?id=48447484)**
-
-A near-future startup novel by Milo C. Kingston. Read sample chapters for free. Book available for purchase.
-
-⬆️ 25 • 💬 14 • 6d ago • [blockchainednovel.com](https://www.blockchainednovel.com/)
+⬆️ 3 • 💬 0 • 6h ago • [baweaver](https://baweaver.com/writing/2026/06/14/rails-sharp-parts-queries-read-models-and-batching/)
 
 ---
 
@@ -309,23 +287,23 @@ A near-future startup novel by Milo C. Kingston. Read sample chapters for free. 
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Holders: The War Is Over &amp; Bitcoin Is Pumping](https://www.youtube.com/watch?v=lUlg7BNEsh0)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Ledn Bitcoin Loans: https://aaronbtc.com/ledn ➡️ Favorite ...
-
-📺 Aaron Bennett
-
-👁️ 2K • 👍 208 • 💬 54 • ⏱️ 5:47 • 7h ago
-
----
-
 **[Bitcoin Investors...The War is Finally Over](https://www.youtube.com/watch?v=_Owt9X5i_Qw)**
 
 AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 936 • 💬 162 • ⏱️ 9:43 • 11h ago
+👁️ 17K • 👍 993 • 💬 94 • ⏱️ 9:43 • 16h ago
+
+---
+
+**[Bitcoin Holders: The War Is Over &amp; Bitcoin Is Pumping](https://www.youtube.com/watch?v=lUlg7BNEsh0)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Ledn Bitcoin Loans: https://aaronbtc.com/ledn ➡️ Favorite ...
+
+📺 Aaron Bennett
+
+👁️ 4K • 👍 269 • 💬 66 • ⏱️ 5:47 • 13h ago
 
 ---
 
@@ -335,27 +313,27 @@ Subscribe. Before $10 million stops sounding crazy. Senator Cynthia Lummis just 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 260 • 💬 97 • ⏱️ 15:19 • 13h ago
+👁️ 4K • 👍 279 • 💬 80 • ⏱️ 15:19 • 19h ago
 
 ---
 
-**[Bitcoin BREAKOUT But We&#39;re Not Safe Yet (Watch This Level!)](https://www.youtube.com/watch?v=3n2YV8S3tqQ)**
+**[Bitcoin Bulls Are Waking Up](https://www.youtube.com/watch?v=Vvl2mmgR5Sk)**
 
-Bitcoin Breakout! BTC is showing strength, but the market isn't out of danger yet. In this video, Sheldon breaks down the key levels ...
+AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 2K • 👍 270 • 💬 12 • ⏱️ 19:55 • 2h ago
+👁️ 8K • 👍 664 • 💬 11 • ⏱️ 54:21 • 2h ago
 
 ---
 
-**[Michael Saylor Describes How Bitcoin Gets to $7M!](https://www.youtube.com/watch?v=r2X04I6yGdY)**
+**[Bitcoin Holders: It’s Over](https://www.youtube.com/watch?v=HpJNpDrOW1U)**
 
-Michael Saylor Describes How Bitcoin Gets to $7M in his exclusive keynote presentation at the 2026 Btc Prague conference.
+Bitcoin, Trump, and the market bottom! Stocks pumping again BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 BTCPrague
+📺 Lark Davis
 
-👁️ 4K • 👍 287 • 💬 62 • ⏱️ 54:37 • 1h ago
+👁️ 13K • 👍 584 • 💬 59 • ⏱️ 14:19 • 5h ago
 
 ---
 
@@ -369,41 +347,43 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 ---
 
-**[XRP Army WAKE UP! Ripple Just Got Backed by a MASSIVE Banking Giant #xrp #crypto #bitcoin #finance](https://www.youtube.com/watch?v=zMp5QkNbS-s)**
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
 
-📺 CryptoWendyO
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
 
-👁️ 10K • 👍 460 • 💬 23 • ⏱️ 1:00 • 15h ago
+📺 Gareth Soloway
 
----
-
-**[Crypto Holders - What&#39;s Coming Is Worse Than 1929 Depression | Macro Position Trader Jason Pizzino](https://www.youtube.com/watch?v=2Q7Dmfqv5fY)**
-
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 25K • 👍 1K • 💬 132 • ⏱️ 31:21 • 14h ago
+👁️ 36K • 👍 3K • 💬 198 • ⏱️ 13:52 • 6h ago
 
 ---
 
-**[BITCOIN: THIS IS A TRAP...](https://www.youtube.com/watch?v=XqknmRr9yJo)**
+**[CRYPTO SHOCK AHEAD! (Peace Deal Announced &amp; Kevin Warsh Speaks!)](https://www.youtube.com/watch?v=qSpe2hizKog)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
 
-📺 Crypto Rover
+📺 Crypto Capital Venture
 
-👁️ 6K • 👍 604 • 💬 115 • ⏱️ 8:23 • 4h ago
+👁️ 7K • 👍 538 • 💬 253 • ⏱️ 13:58 • 13h ago
 
 ---
 
-**[&quot;THEY All LIED! Everyone Is 100% WRONG About this Bitcoin Cycle&quot; - Lyn Alden](https://www.youtube.com/watch?v=pJycNMBmq-o)**
+**[Bitcoin BREAKOUT But We&#39;re Not Safe Yet (Watch This Level!)](https://www.youtube.com/watch?v=3n2YV8S3tqQ)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Bitcoin Breakout! BTC is showing strength, but the market isn't out of danger yet. In this video, Sheldon breaks down the key levels ...
 
-📺 Savvy Finance
+📺 Crypto Banter
 
-👁️ 14K • 👍 426 • 💬 29 • ⏱️ 19:27 • 2d ago
+👁️ 6K • 👍 395 • 💬 55 • ⏱️ 19:55 • 8h ago
+
+---
+
+**[are you seeing what bitcoin is doing right now.....](https://www.youtube.com/watch?v=ndbwgMVQqVY)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 15K • 👍 750 • 💬 188 • ⏱️ 11:00 • 2d ago
 
 ---
 

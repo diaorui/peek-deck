@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-15T12:16:12.878087+00:00'
+updated: '2026-06-15T17:30:53.464483+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 12:16 UTC  
+**Last Updated:** June 15, 2026 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,765.16
+### $1,809.08
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.0%  
-**7d:** +7.7%  
-**30d:** -17.2%  
-**90d:** -20.0%  
-**1y:** -30.5%  
+**24h:** +10.1%  
+**7d:** +11.6%  
+**30d:** -14.2%  
+**90d:** -17.1%  
+**1y:** -27.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.60B
+**Market Cap:** $220.81B
 Rank #2
 
 **Circulating Supply:** 120,684,183 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.3%
+-63.0%
 
 **All-Time Low:** $0.43
-+407159.9%
++422530.2%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 LG Electronics built L2 for advertising, Aave risk framework proposed, history of account abstraction
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 3d ago
 
 ---
 
@@ -156,15 +156,7 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
-CoinDesk • 1d ago
-
----
-
-**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-falls-30-below-094215872.html)**
-
-Ethereum is trading roughly 30% below its 200-week SMA for only the second time in history. Bankless co-founder David Hoffman questioned where the next major ...
-
-Yahoo Finance • 2h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -172,15 +164,35 @@ Yahoo Finance • 2h ago
 
 Bitcoin opened at $65,710.09 on Monday, June 15, 2% higher than Sunday's opening price. As of 7:33 a.m. ET this morning, the price of bitcoin moved up to $66,157.11. Ethereum opened at $1,724.44, up 2.6% from Sunday's opening price. The price of ethereum moved higher this morning to $1,762.41 as of 7:33 a.m. ET.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead](https://www.tradingview.com/news/cointelegraph:db398f07c094b:0-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-ethereum-s-kohaku-lead/)**
+**[BitMine Immersion (BMNR) Reports $9.6B Crypto and Cash Holdings, Led by Ethereum Treasury](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-reports-9-193428427.html)**
 
-Ethereum could begin adding post-quantum protections to accounts for as little as $0.07, without waiting for a hard fork, according to the Ethereum Foundation's Kohaku project lead Nicolas Consigny.In a Saturday X post, Consigny shared a paper proposing a cheaper way for Ethereum users to protect t…
+BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion reported that its total crypto and cash holdings reached $9.6 billion, driven primarily by a large Ethereum/ETH treasury position. The company disclosed holdings of over 5.5 million ETH, alongside smaller Bitcoin positions, […]
 
-TradingView • 22h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.62 Million Tokens, and Total Crypto and Total Cash Holdings of $10.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-62-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-4-billion-302799963.html)**
+
+Bitmine owns 4.66% of the total ETH coin supply of 120.7 million Bitmine is 93% of the way to the 'Alchemy of 5%' in just 11 months Bitmine named to Fortune...
+
+PR Newswire • 5h ago
+
+---
+
+**[Bitmine joins Ethereum rally with 76.9K ETH purchase; crypto holdings top $10.4B](https://seekingalpha.com/news/4603451-bitmine-joins-ethereum-rally-with-769k-eth-purchase-crypto-holdings-top-104b)**
+
+Seeking Alpha • 3h ago
+
+---
+
+**[Current price of Ethereum for June 15, 2026](https://fortune.com/article/price-of-ethereum-06-15-2026/)**
+
+Fortune • 4h ago
 
 ---
 
@@ -188,7 +200,7 @@ TradingView • 22h ago
 
 Ant International, the owner of Alipay+ and other money management solutions, has been using blockchain for years for internal treasury management, using
 
-ledgerinsights.com • 2h ago
+ledgerinsights.com • 1h ago
 
 ---
 
@@ -196,37 +208,23 @@ ledgerinsights.com • 2h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
 
-FXStreet • 8h ago
+FXStreet • 14h ago
 
 ---
 
-**[BitMine Preferred Stock Lists Tuesday As ETH Nears Worst H1](https://stocktwits.com/news-articles/markets/equity/bitmine-preferred-stock-bmnp-nyse-ethereum/cZKBW7fR7dc)**
+**[Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead](https://www.tradingview.com/news/cointelegraph:db398f07c094b:0-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-ethereum-s-kohaku-lead/)**
 
-BitMine Immersion Technologies' (BMNR) Class A perpetual preferred shares have been approved for listing on the New York Stock Exchange (NYSE) under the ticker “BMNP” and are expected to begin trading on Tuesday, June 16, carrying an annualized dividend y
+Ethereum could begin adding post-quantum protections to accounts for as little as $0.07, without waiting for a hard fork, according to the Ethereum Foundation's Kohaku project lead Nicolas Consigny.In a Saturday X post, Consigny shared a paper proposing a cheaper way for Ethereum users to protect t…
 
-Stocktwits • 21h ago
+TradingView • 1d ago
 
 ---
 
-**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://www.fool.com/investing/2026/06/13/why-id-buy-ethereum-over-bitcoin-right-now/)**
 
-The prominent analyst expects Ether to replicate Bitcoin's historic run.
+The world's second-largest cryptocurrency is still a compelling investment.
 
 The Motley Fool • 2d ago
-
----
-
-**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
-
-AMBCrypto • 1d ago
-
----
-
-**[How Proposer-Builder Separation (PBS) Reshapes Ethereum Validator Economics](https://financefeeds.com/what-is-pbs-ethereum-validator-economics/)**
-
-PBS reshapes Ethereum validator economics, turning MEV into a builder auction while raising new builder centralization risks.
-
-FinanceFeeds • 2h ago
 
 ---
 
@@ -234,13 +232,23 @@ FinanceFeeds • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+
+📺 Gareth Soloway
+
+👁️ 36K • 👍 3K • 💬 198 • ⏱️ 13:52 • 6h ago
+
+---
+
 **[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
 
 Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
 
 📺 CoinDesk
 
-👁️ 15K • 👍 525 • 💬 62 • ⏱️ 20:10 • 21h ago
+👁️ 18K • 👍 599 • 💬 67 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -250,7 +258,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 23K • 👍 918 • 💬 156 • ⏱️ 10:36 • 2d ago
+👁️ 24K • 👍 959 • 💬 157 • ⏱️ 10:36 • 2d ago
 
 ---
 
@@ -260,7 +268,7 @@ Joseph Chalom breaks down why ETH is winning by a large margin across stablecoin
 
 📺 The Rollup
 
-👁️ 4K • 👍 129 • 💬 33 • ⏱️ 6:28 • 19h ago
+👁️ 5K • 👍 134 • 💬 23 • ⏱️ 6:28 • 1d ago
 
 ---
 
@@ -270,7 +278,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 118 • 👍 12 • ⏱️ 4:21 • 2h ago
+👁️ 226 • 👍 14 • ⏱️ 4:21 • 7h ago
+
+---
+
+**[The Real Reason Tom Lee Loves Ethereum #cryptotruth #ethereum #investing](https://www.youtube.com/watch?v=SBtLmdJr6rE)**
+
+USE YUBIT: 25% FEE DISCOUNT FOREVER + $50000 DEPOSIT BONUS https://www.yubit.com/en-US/register?
+
+📺 TMG Trades
+
+👁️ 766 • 👍 21 • 💬 10 • ⏱️ 0:18 • 7h ago
 
 ---
 
@@ -280,7 +298,7 @@ BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 140 • 👍 21 • 💬 5 • ⏱️ 26:14 • 6m ago
+👁️ 4K • 👍 290 • 💬 73 • ⏱️ 26:14 • 5h ago
 
 ---
 
@@ -290,47 +308,27 @@ In this video I break down the latest Ethereum price action to determine if this
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 4 • ⏱️ 6:47 • 11h ago
+👁️ 4K • 👍 215 • 💬 4 • ⏱️ 6:47 • 16h ago
 
 ---
 
-**[Will Ethereum Outperform Bitcoin? The Structural Outlook](https://www.youtube.com/watch?v=jcobQN6VRzQ)**
+**[CRYPTO LIVE TRADING|| 15 JUNE | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=NsG41WU_oG8)**
 
-In this video I break down the current Ethereum price outlook and evaluate why the asset remains in a state of relative weakness ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 More Crypto Online
+📺 Aryan trader Live
 
-👁️ 9K • 👍 396 • 💬 25 • ⏱️ 14:06 • 2d ago
+👁️ 7K • ⏱️ 37:37 • 14m ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=w13F0IREc4s)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=BwmarSthpeY)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto Gyan
+📺 Profit First
 
-👁️ 2K • 👍 169 • ⏱️ 7:33 • 9h ago
-
----
-
-**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
-
-En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
-
-📺 Emir Şahin
-
-👁️ 14K • 👍 1K • 💬 271 • ⏱️ 34:45 • 1d ago
-
----
-
-**[BTC &amp; ETHEREUM, ich liebe es wenn ein Plan funktioniert! Wann kommt der Short!?](https://www.youtube.com/watch?v=n3oaC-JLUDk)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 597 • 💬 110 • ⏱️ 13:58 • 7h ago
+👁️ 720 • 👍 78 • 💬 1 • ⏱️ 7:59 • 4h ago
 
 ---
 
