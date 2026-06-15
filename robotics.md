@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-15T05:37:03.837016+00:00'
+updated: '2026-06-15T12:16:12.881048+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 15, 2026 at 05:37 UTC  
+**Last Updated:** June 15, 2026 at 12:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've always been interested in point clouds and spatial data, so I created my own LiDAR scanner! It runs off of an esp32 and TMC2209s on a custom PCB, which continuously rotate and sweep the LiDAR sensor. I learned a ton creating this project, as this was my first time creating a PCB and using NEMA motors (I have used other motors before). Github repo
 
-1d ago
+2d ago
 
 ---
 
@@ -44,7 +44,7 @@ I've always been interested in point clouds and spatial data, so I created my ow
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-2d ago
+3d ago
 
 ---
 
@@ -106,19 +106,27 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[ACE ROBOTICS' Kairos World Model Leads Multiple Global Embodied-Intelligence Benchmarks](https://finance.yahoo.com/sectors/technology/articles/ace-robotics-kairos-world-model-022100434.html)**
+**[Atlanta STEM camp uses robotics to inspire foster kids and at-risk youth](https://www.cbsnews.com/atlanta/video/atlanta-stem-camp-uses-robotics-to-inspire-foster-kids-and-at-risk-youth/)**
 
-SHANGHAI, CHINA / ACCESS Newswire / June 14, 2026 / ACE ROBOTICS today announced that its open-source Kairos world model has achieved leading results across four global embodied-intelligence benchmarks: RoboTwin 2.0, LIBERO-Plus, WorldModelBench Robot ...
+An Atlanta nonprofit is giving foster children and at-risk youth hands-on experience with robotics and STEM through a new summer camp partnership. Students are learning critical thinking, problem-solving and perseverance while exploring technology and building confidence for future careers.
 
-Yahoo Finance • 3h ago
+CBS News • 38m ago
 
 ---
 
-**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
+**[Meet the 22 Investors to Know in Robotics and Physical AI](https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6)**
 
-Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
+Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-CNBC • 1d ago
+Business Insider • 3h ago
+
+---
+
+**[Me and my exoskeletons: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
+
+Lighter and more affordable devices give users a battery-powered spring in their step
+
+Financial Times • 10m ago
 
 ---
 
@@ -126,7 +134,23 @@ CNBC • 1d ago
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
-The Guardian • 9h ago
+The Guardian • 16h ago
+
+---
+
+**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
+
+Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
+
+CNBC • 2d ago
+
+---
+
+**[Autonomous Robots Confirmed to Have Killed Human Soldiers](https://www.yahoo.com/news/world/articles/autonomous-robots-confirmed-killed-human-151500034.html)**
+
+"We just launch it and we know everything will be dead — everything that will be found there in this particular area will be dead."
+
+Yahoo • 1d ago
 
 ---
 
@@ -135,14 +159,6 @@ The Guardian • 9h ago
 Robots exploring the ocean floor today use pre-programmed movements, centralized processors, and rigid structures to do their work. But the sea is unpredictable, and that architecture struggles wherever currents shift, visibility drops, or terrain changes without warning. Now, researchers at the…
 
 New Atlas • 1d ago
-
----
-
-**[Why Robots Still Can’t Do Science](https://nautil.us/why-robots-still-cant-do-science-1281910)**
-
-Why Robots Still Can't Do Science: AI can read the literature in an afternoon and design molecules a chemist never would. So why can't a robot hold a pipette?
-
-Nautilus | Science • 2d ago
 
 ---
 
@@ -156,31 +172,13 @@ WSJ • 3d ago
 
 ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
 
-The Motley Fool • 16h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
+**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
 
-A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
-
-Futurism • 1d ago
-
----
-
-**[NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors](https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/)**
-
-A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
-
-NASA Science (.gov) • 3d ago
-
----
-
-**[The Latest Robot Lawn Mowers Are Finally Able to Handle Your Lawn, Even If It's Big and Complex](https://www.inc.com/natashaetzel/the-latest-robot-lawn-mowers-are-finally-able-to-handle-your-lawn-even-if-its-big-and-complex/91359896)**
-
-Some robot lawn mowers feature all-wheel drive and price tags as high as $5,000. But just think of the time you can save.
-
-inc.com • 14h ago
+Bloomberg • 3d ago
 
 ---
 
@@ -188,23 +186,33 @@ inc.com • 14h ago
 
 ## YouTube Videos: "robotics"
 
-**[Can This $125K Robot Be My Friend? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
-
-Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
-
-📺 Business Insider
-
-👁️ 40K • 👍 593 • 💬 163 • ⏱️ 17:26 • 16h ago
-
----
-
 **[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
 
 China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
 
 📺 Kalil 4.0
 
-👁️ 13K • 👍 258 • 💬 100 • ⏱️ 8:49 • 1d ago
+👁️ 14K • 👍 276 • 💬 103 • ⏱️ 8:49 • 2d ago
+
+---
+
+**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 339K • 👍 12K • 💬 1K • ⏱️ 15:10 • 19h ago
+
+---
+
+**[Can This $125K Robot Be My Friend? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
+
+Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
+
+📺 Business Insider
+
+👁️ 44K • 👍 629 • 💬 175 • ⏱️ 17:26 • 23h ago
 
 ---
 
@@ -214,17 +222,27 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 133K • 👍 2K • 💬 170 • ⏱️ 6:09 • 5d ago
+👁️ 137K • 👍 2K • 💬 176 • ⏱️ 6:09 • 5d ago
 
 ---
 
-**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
+**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
 
-I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
+MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
 
-📺 The Hook Up
+📺 Make Dream Come True 
 
-👁️ 85K • 👍 1K • 💬 346 • ⏱️ 33:19 • 2d ago
+👁️ 206K • 👍 1K • 💬 6 • ⏱️ 0:10 • 2d ago
+
+---
+
+**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
+
+ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
+
+📺 Back to Engineering
+
+👁️ 32K • 👍 273 • 💬 8 • ⏱️ 0:13 • 3d ago
 
 ---
 
@@ -232,37 +250,27 @@ I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which f
 
 📺 Zack D. Films
 
-👁️ 6.9M • 👍 249K • 💬 2K • ⏱️ 0:39 • 1d ago
+👁️ 7.2M • 👍 259K • 💬 2K • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[Watch: AI Humanoid Robots Perform Michael Jackson Moves In HK | Michael Jackson Moon Walk | N18G](https://www.youtube.com/watch?v=GMdGomL2jQ4)**
+**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
 
-Watch: AI Humanoid Robots Perform Michael Jackson Moves In HK | Michael Jackson Moon Walk | N18G Visitors at Hong Kong's ...
+At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
 
-📺 CNBC-TV18
+📺 Machines In Action
 
-👁️ 67K • 👍 149 • 💬 30 • ⏱️ 0:27 • 2d ago
-
----
-
-**[For a Moment, Everyone Thought It Went Rogue 🥶⚡](https://www.youtube.com/watch?v=5EnM_WYhIus)**
-
-This footage shows a Unitree H1 humanoid robot experiencing a malfunction during a demonstration. The robot began making ...
-
-📺 Unova
-
-👁️ 89K • 👍 814 • 💬 103 • ⏱️ 0:09 • 3d ago
+👁️ 21K • 👍 229 • 💬 14 • ⏱️ 0:15 • 22h ago
 
 ---
 
-**[My Soft Robot Had an Aneurysm #SoftRobotics #3DPrinting @formlabs](https://www.youtube.com/watch?v=noT1tCEL7lQ)**
+**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
 
-four stepper-driven pistons, one clear hydraulic manifold, a soft tentacle, and one gripper that did not survive the pressure.
+Shantak, Urhag & Voonith Giveaway Winners ...
 
-📺 It's on my MIND
+📺 PREDATOR WR
 
-👁️ 21K • 👍 1K • 💬 62 • ⏱️ 2:16 • 2d ago
+👁️ 11K • 👍 385 • 💬 76 • ⏱️ 15:34 • 2d ago
 
 ---
 
@@ -272,17 +280,7 @@ Unitree brought the future to the AGT 2026 stage with a performance that left th
 
 📺 Talent Replay
 
-👁️ 73K • 👍 771 • 💬 82 • ⏱️ 5:50 • 5d ago
-
----
-
-**[This surgical micro robot is only 4mm wide 👀 #trendingshorts #robot #tech #science](https://www.youtube.com/watch?v=kvH28K2L6rs)**
-
-Researchers at Nanyang Technological University have built a millimeter-scale magnetic soft robot that performs five functions ...
-
-📺 Rowan Cheung
-
-👁️ 46K • 👍 3K • 💬 37 • ⏱️ 0:58 • 4d ago
+👁️ 74K • 👍 784 • 💬 83 • ⏱️ 5:50 • 5d ago
 
 ---
 

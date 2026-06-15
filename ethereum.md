@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-15T05:37:03.833824+00:00'
+updated: '2026-06-15T12:16:12.878087+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 05:37 UTC  
+**Last Updated:** June 15, 2026 at 12:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,720.72
+### $1,765.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +4.9%  
-**30d:** -19.3%  
-**90d:** -22.0%  
-**1y:** -32.3%  
+**24h:** +6.0%  
+**7d:** +7.7%  
+**30d:** -17.2%  
+**90d:** -20.0%  
+**1y:** -30.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $207.47B
+**Market Cap:** $212.60B
 Rank #2
 
 **Circulating Supply:** 120,684,183 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.3%
+-64.3%
 
 **All-Time Low:** $0.43
-+396665.2%
++407159.9%
 
 ---
 
@@ -104,7 +104,7 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 Ethereum developers tackle Glamsterdam Devnet-5 stability issues, approve key API upgrades, advance QUIC networking, and evaluate early Hegota proposals including EIP-8243.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-180/) • 2d ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-180/) • 3d ago
 
 ---
 
@@ -128,7 +128,7 @@ I’ve read opinions that, in today’s market, ETH sellers are, by and large, i
 
 I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
 
-3d ago
+4d ago
 
 ---
 
@@ -160,19 +160,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Climb Trump Declares Iran Deal 'Complete': Analyst Predicts BTC Move Above Key Level To Fuel 'Risk-On Appetite'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-climb-025733688.html)**
+**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-falls-30-below-094215872.html)**
 
-Leading cryptocurrencies lifted alongside stock futures overnight on Sunday after President Donald Trump said that a framework agreement to end the conflict with Iran had been completed. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.84%$63,246.60Ethereum (CRYPTO: ETH) +1.33%$1,660.40XRP (CRYPTO: XRP) +2.72%$1.13Solana (CRYPTO: SOL) +3.60%$66.48Dogecoin (CRYPTO: DOGE) +2.12%$0.08570 Crypto Market Spikes Bitcoin jumped to $65,800 overnight as trading volu
+Ethereum is trading roughly 30% below its 200-week SMA for only the second time in history. Bankless co-founder David Hoffman questioned where the next major ...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[The Best Cryptocurrency to Buy With $135 Right Now](https://www.fool.com/investing/2026/06/15/the-best-cryptocurrency-to-buy-with-135-right-now/)**
+**[Bitcoin and ethereum prices today, Monday, June 15, 2026: Prices rising after U.S., Iran agree to ceasefire deal](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-15-2026-prices-rising-after-us-iran-agree-to-ceasefire-deal-114616600.html)**
 
-Ethereum has the potential to deliver out-of-this-world returns to patient crypto investors.
+Bitcoin opened at $65,710.09 on Monday, June 15, 2% higher than Sunday's opening price. As of 7:33 a.m. ET this morning, the price of bitcoin moved up to $66,157.11. Ethereum opened at $1,724.44, up 2.6% from Sunday's opening price. The price of ethereum moved higher this morning to $1,762.41 as of 7:33 a.m. ET.
 
-The Motley Fool • 43m ago
+Yahoo Finance • 29m ago
 
 ---
 
@@ -180,7 +180,15 @@ The Motley Fool • 43m ago
 
 Ethereum could begin adding post-quantum protections to accounts for as little as $0.07, without waiting for a hard fork, according to the Ethereum Foundation's Kohaku project lead Nicolas Consigny.In a Saturday X post, Consigny shared a paper proposing a cheaper way for Ethereum users to protect t…
 
-TradingView • 15h ago
+TradingView • 22h ago
+
+---
+
+**[Ant Intl manages corporate treasury using Amundi tokenized MMF on Ethereum](https://www.ledgerinsights.com/ant-intl-manages-corporate-treasury-using-amundi-tokenized-mmf-on-ethereum/)**
+
+Ant International, the owner of Alipay+ and other money management solutions, has been using blockchain for years for internal treasury management, using
+
+ledgerinsights.com • 2h ago
 
 ---
 
@@ -188,7 +196,23 @@ TradingView • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
 
-FXStreet • 2h ago
+FXStreet • 8h ago
+
+---
+
+**[BitMine Preferred Stock Lists Tuesday As ETH Nears Worst H1](https://stocktwits.com/news-articles/markets/equity/bitmine-preferred-stock-bmnp-nyse-ethereum/cZKBW7fR7dc)**
+
+BitMine Immersion Technologies' (BMNR) Class A perpetual preferred shares have been approved for listing on the New York Stock Exchange (NYSE) under the ticker “BMNP” and are expected to begin trading on Tuesday, June 16, carrying an annualized dividend y
+
+Stocktwits • 21h ago
+
+---
+
+**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+
+The prominent analyst expects Ether to replicate Bitcoin's historic run.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -198,31 +222,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check](https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value)**
+**[How Proposer-Builder Separation (PBS) Reshapes Ethereum Validator Economics](https://financefeeds.com/what-is-pbs-ethereum-validator-economics/)**
 
-Bloomberg.com • 2d ago
+PBS reshapes Ethereum validator economics, turning MEV into a builder auction while raising new builder centralization risks.
 
----
-
-**[Ethereum Nerves Resurface as Grayscale Mini Trust Sees Fresh Outflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-resurface-as-grayscale-mini-trust-sees-fresh-outflows)**
-
-Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
-
-TipRanks • 19h ago
-
----
-
-**[Ethereum Researcher: Quantum-Proof Accounts Possible for $0.07](https://blockchain.news/news/ethereum-quantum-proof-accounts-07-cents)**
-
-blockchain.news • 4h ago
-
----
-
-**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
-
-Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
-
-Yahoo Finance • 1d ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -236,17 +240,7 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 12K • 👍 448 • 💬 51 • ⏱️ 20:10 • 14h ago
-
----
-
-**[Joseph Chalom: Ethereum Is Extremely Oversold (2026 Bull Thesis)](https://www.youtube.com/watch?v=y6kQEthFc2I)**
-
-Joseph Chalom breaks down why ETH is winning by a large margin across stablecoins, tokenized assets, and high-value DeFi ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 119 • 💬 17 • ⏱️ 6:28 • 13h ago
+👁️ 15K • 👍 525 • 💬 62 • ⏱️ 20:10 • 21h ago
 
 ---
 
@@ -256,7 +250,37 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 20K • 👍 849 • 💬 150 • ⏱️ 10:36 • 1d ago
+👁️ 23K • 👍 918 • 💬 156 • ⏱️ 10:36 • 2d ago
+
+---
+
+**[Joseph Chalom: Ethereum Is Extremely Oversold (2026 Bull Thesis)](https://www.youtube.com/watch?v=y6kQEthFc2I)**
+
+Joseph Chalom breaks down why ETH is winning by a large margin across stablecoins, tokenized assets, and high-value DeFi ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 129 • 💬 33 • ⏱️ 6:28 • 19h ago
+
+---
+
+**[WHY ETH CAN PUMP HIGHER NOW! (Ethereum Update)](https://www.youtube.com/watch?v=8bYB1KA9QT0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 118 • 👍 12 • ⏱️ 4:21 • 2h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tcYa5oWc-7k)**
+
+BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+
+📺 Crypto World
+
+👁️ 140 • 👍 21 • 💬 5 • ⏱️ 26:14 • 6m ago
 
 ---
 
@@ -266,47 +290,7 @@ In this video I break down the latest Ethereum price action to determine if this
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 2 • ⏱️ 6:47 • 4h ago
-
----
-
-**[BTC &amp; ETHEREUM, ich liebe es wenn ein Plan funktioniert! Wann kommt der Short!?](https://www.youtube.com/watch?v=n3oaC-JLUDk)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 916 • 👍 229 • 💬 48 • ⏱️ 13:58 • 59m ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=w13F0IREc4s)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 690 • 👍 105 • ⏱️ 7:33 • 3h ago
-
----
-
-**[Is Michael Burry WRONG About the AI Crash?](https://www.youtube.com/watch?v=3PiY_66oaMA)**
-
-Michael Burry is shorting the AI boom, but today's market tells a different story. Discover why the Big Short legend might ...
-
-📺 Lark Davis
-
-👁️ 226 • 👍 3 • ⏱️ 0:38 • 1h ago
-
----
-
-**[Tom Lee :“This Changes Everything for Bitcoin and Crypto&quot; (New 2026 Bitcoin and Crypto Prediction)](https://www.youtube.com/watch?v=O1ykJ45zQJo)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 185 • 💬 27 • ⏱️ 19:47 • 1d ago
+👁️ 3K • 👍 198 • 💬 4 • ⏱️ 6:47 • 11h ago
 
 ---
 
@@ -316,17 +300,37 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 395 • 💬 25 • ⏱️ 14:06 • 1d ago
+👁️ 9K • 👍 396 • 💬 25 • ⏱️ 14:06 • 2d ago
 
 ---
 
-**[BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B1Tvs2edKwo)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=w13F0IREc4s)**
 
-BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto World
+📺 Crypto Gyan
 
-👁️ 10K • 👍 406 • 💬 156 • ⏱️ 23:03 • 17h ago
+👁️ 2K • 👍 169 • ⏱️ 7:33 • 9h ago
+
+---
+
+**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
+
+En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
+
+📺 Emir Şahin
+
+👁️ 14K • 👍 1K • 💬 271 • ⏱️ 34:45 • 1d ago
+
+---
+
+**[BTC &amp; ETHEREUM, ich liebe es wenn ein Plan funktioniert! Wann kommt der Short!?](https://www.youtube.com/watch?v=n3oaC-JLUDk)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 597 • 💬 110 • ⏱️ 13:58 • 7h ago
 
 ---
 
