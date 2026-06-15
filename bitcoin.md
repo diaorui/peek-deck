@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-15T00:10:44.636844+00:00'
+updated: '2026-06-15T05:37:03.827726+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 00:10 UTC  
+**Last Updated:** June 15, 2026 at 05:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,738.12
+### $65,788.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +6.6%  
-**30d:** -15.1%  
-**90d:** -7.7%  
+**24h:** +2.5%  
+**7d:** +6.7%  
+**30d:** -15.0%  
+**90d:** -7.6%  
 **1y:** -38.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1316.27B
+**Market Cap:** $1318.31B
 Rank #1
 
-**Circulating Supply:** 20,042,809 BTC
+**Circulating Supply:** 20,042,909 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -47.9%
 
 **All-Time Low:** $67.81
-+96783.9%
++96848.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 18
+### 20
 **EXTREME FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[When everyone's telling me to "go all in" while it's cheap, but I went all in months ago.](https://www.reddit.com/r/Bitcoin/comments/1u5j1cq/when_everyones_telling_me_to_go_all_in_while_its/)**
 
-12h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-7h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ Happy to share that I’ve just added a new NerdQX to my home mining setup. My t
 
 People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
-8h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
 Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
 
-10h ago
+15h ago
 
 ---
 
@@ -139,7 +139,7 @@ Right now is very good time to make order in your UTXOs and withdraw your BTC fr
 
 Buy Bitcoin
 
-8h ago
+13h ago
 
 ---
 
@@ -155,35 +155,41 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 ## Google News: "bitcoin"
 
-**[Is Bitcoin the Safest Crypto to Own Right Now?](https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/)**
+**[Bitcoin (BTC) Rallies to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
 
-The world's top cryptocurrency is still safer than the smaller altcoins.
-
-The Motley Fool • 5h ago
+Bloomberg.com • 30m ago
 
 ---
 
-**[Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse](https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse)**
+**[Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding](https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding)**
 
-The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.
+A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets.
 
-The Block • 1d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Can AI Call the Bitcoin Bottom? ChatGPT Sees $54,500 While Claude Targets $52,000 by Q4 2026](https://finance.yahoo.com/markets/crypto/articles/ai-call-bitcoin-bottom-chatgpt-140215005.html)**
+**[Donald Trump: Deal With Iran is Complete – Bitcoin, Gold and Oil React](https://finance.yahoo.com/markets/commodities/articles/donald-trump-deal-iran-complete-212746066.html)**
 
-ChatGPT and Claude independently projected a Bitcoin bottom in the low-$50,000 range, with estimates of $54,500 and $52,000, respectively. Both models identified ETF outflows and ...
+Pakistani Prime Minister Shehbaz Sharif announced that the US and Iran have reached a peace agreement: Bitcoin, Gold and Oil React.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026](https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026)**
+
+The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices.
+
+The Block • 8h ago
+
+---
+
+**[New MicroStrategy Bitcoin Metrics: Innovation or Goalpost Moving by Michael Saylor?](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-metrics-innovation-goalpost-191925557.html)**
+
+Michael Saylor unveils new Bitcoin metrics for MicroStrategy as critics warn the KPIs mask leverage and dilution risk.
 
 Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin could crash to $48,000, if this historical pattern is triggered](https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered)**
-
-Bitcoin has never escaped a particular Fibonacci pattern since it started trading in 2010. Here is what it suggests about where prices could go next.
-
-CoinDesk • 4h ago
 
 ---
 
@@ -195,6 +201,14 @@ The Globe and Mail • 1d ago
 
 ---
 
+**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
+
+---
+
 **[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
@@ -203,33 +217,19 @@ CNBC • 2d ago
 
 ---
 
+**[Is Bitcoin the Safest Crypto to Own Right Now?](https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/)**
+
+The world's top cryptocurrency is still safer than the smaller altcoins.
+
+The Motley Fool • 11h ago
+
+---
+
 **[Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve](https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve)**
 
 The largest company on public markets now holds bitcoin as a treasury reserve, not as a business model. Its first earnings cycles will test which version of corporate crypto survives a bear market.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[The SpaceX IPO Is Finally Here. What Does It Mean for Bitcoin Investors?](https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-finally-does-mean-124700431.html)**
-
-At the moment, crypto is bracing for impact.
-
-Yahoo Finance • 11h ago
-
----
-
-**[Donald Trump: Deal With Iran is Complete – Bitcoin, Gold and Oil React](https://finance.yahoo.com/markets/commodities/articles/donald-trump-deal-iran-complete-212746066.html)**
-
-Pakistani Prime Minister Shehbaz Sharif announced that the US and Iran have reached a peace agreement: Bitcoin, Gold and Oil React.
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -253,6 +253,14 @@ Yahoo Finance • 2h ago
 
 ---
 
+**[Turned Claude's 'discombobulating' into a Bitcoin faucet](https://news.ycombinator.com/item?id=48530823)**
+
+Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
+
+⬆️ 4 • 💬 0 • 11h ago • [kicksats.com](https://kicksats.com/)
+
+---
+
 **[Bitcoin pump to $63,700 triggers the most short liquidations since late April](https://news.ycombinator.com/item?id=48442539)**
 
 Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday.
@@ -261,11 +269,11 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 ---
 
-**[Turned Claude's 'discombobulating' into a Bitcoin faucet](https://news.ycombinator.com/item?id=48530823)**
+**[Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum](https://news.ycombinator.com/item?id=48536643)**
 
-Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
+Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 2 • 💬 0 • 5h ago • [kicksats.com](https://kicksats.com/)
+⬆️ 2 • 💬 0 • 1h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
 
 ---
 
@@ -303,13 +311,23 @@ A near-future startup novel by Milo C. Kingston. Read sample chapters for free. 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Investors...The War is Finally Over](https://www.youtube.com/watch?v=_Owt9X5i_Qw)**
+
+AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 734 • 💬 67 • ⏱️ 9:43 • 4h ago
+
+---
+
 **[Elon Musk’s SpaceX Is Coming For Your Bitcoin. Here&#39;s the Mechanism.](https://www.youtube.com/watch?v=buiJPqv7TZc)**
 
 Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 97 • ⏱️ 8:42 • 2d ago
+👁️ 43K • 👍 2K • 💬 97 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -319,7 +337,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 706 • 💬 181 • ⏱️ 11:00 • 1d ago
+👁️ 14K • 👍 722 • 💬 184 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -329,47 +347,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 395 • 💬 29 • ⏱️ 19:27 • 2d ago
-
----
-
-**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
-
-"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
-
-📺 What Bitcoin Did
-
-👁️ 32K • 👍 1K • 💬 473 • ⏱️ 1:04:38 • 2d ago
-
----
-
-**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 14K • 👍 672 • 💬 249 • ⏱️ 17:52 • 1d ago
-
----
-
-**[Bitcoin Dynamic DCA: How I Navigate Crypto](https://www.youtube.com/watch?v=hx_neha7BVQ)**
-
-This chart shows the risk metric for Bitcoin, the Total Market Cap, Ethereum and various other altcoins. The purpose of the Risk ...
-
-📺 Benjamin Cowen
-
-👁️ 69K • 👍 5K • 💬 329 • ⏱️ 39:11 • 22h ago
-
----
-
-**[Saylor FORGOT He Said This 💀 #bitcoin](https://www.youtube.com/watch?v=AXCcwvlsjqk)**
-
-50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/welcome-event?vipCode=oz5p&qrType=activity ...
-
-📺 Altcoin Daily
-
-👁️ 18K • 👍 314 • 💬 52 • ⏱️ 0:53 • 1d ago
+👁️ 13K • 👍 408 • 💬 29 • ⏱️ 19:27 • 2d ago
 
 ---
 
@@ -379,27 +357,57 @@ Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Mich
 
 📺 Crypto Insider
 
-👁️ 36K • 👍 2K • 💬 65 • ⏱️ 55:10 • 1d ago
+👁️ 38K • 👍 2K • 💬 68 • ⏱️ 55:10 • 1d ago
 
 ---
 
-**[Bitcoin: Time-Based Capitulation](https://www.youtube.com/watch?v=psz9FwqWGns)**
+**[$10M Bitcoin Soon - They Finally Said It](https://www.youtube.com/watch?v=DARb35g0_aw)**
 
-Let's talk about Bitcoin and how time-based capitulation is important, but can sometimes be ignored if price-based capitulation ...
+Subscribe. Before $10 million stops sounding crazy. Senator Cynthia Lummis just said the quiet part out loud: Bitcoin is headed to ...
+
+📺 Bitcoin News Alerts
+
+👁️ 2K • 👍 215 • 💬 51 • ⏱️ 15:19 • 7h ago
+
+---
+
+**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 14K • 👍 695 • 💬 256 • ⏱️ 17:52 • 1d ago
+
+---
+
+**[Bitcoin Dynamic DCA: How I Navigate Crypto](https://www.youtube.com/watch?v=hx_neha7BVQ)**
+
+This chart shows the risk metric for Bitcoin, the Total Market Cap, Ethereum and various other altcoins. The purpose of the Risk ...
 
 📺 Benjamin Cowen
 
-👁️ 2K • 👍 1K • 💬 64 • ⏱️ 18:49 • 1h ago
+👁️ 73K • 👍 5K • 💬 344 • ⏱️ 39:11 • 1d ago
 
 ---
 
-**[Why hasn’t Bitcoin replaced the dollar?](https://www.youtube.com/watch?v=dbJVJiTUpBY)**
+**[Saylor FORGOT He Said This 💀 #bitcoin](https://www.youtube.com/watch?v=AXCcwvlsjqk)**
 
-Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/welcome-event?vipCode=oz5p&qrType=activity ...
 
-📺 NPR's Planet Money
+📺 Altcoin Daily
 
-👁️ 49K • 👍 5K • 💬 135 • ⏱️ 1:24 • 2d ago
+👁️ 18K • 👍 322 • 💬 58 • ⏱️ 0:53 • 1d ago
+
+---
+
+**[Is Bitcoin actually failing at its own game?](https://www.youtube.com/watch?v=14RB07Nv04E)**
+
+While many view cryptocurrency as the future of finance, the reality of its scalability remains a major hurdle. Even with its massive ...
+
+📺 CryptoHarbor
+
+👁️ 9K • 👍 35 • 💬 10 • ⏱️ 0:32 • 2d ago
 
 ---
 

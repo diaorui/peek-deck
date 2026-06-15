@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-15T00:10:44.642208+00:00'
+updated: '2026-06-15T05:37:03.833824+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 00:10 UTC  
+**Last Updated:** June 15, 2026 at 05:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,660.00
+### $1,720.72
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +2.6%  
-**7d:** +5.4%  
-**30d:** -18.9%  
-**90d:** -21.6%  
-**1y:** -31.9%  
+**7d:** +4.9%  
+**30d:** -19.3%  
+**90d:** -22.0%  
+**1y:** -32.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $208.30B
+**Market Cap:** $207.47B
 Rank #2
 
-**Circulating Supply:** 120,684,209 ETH
+**Circulating Supply:** 120,684,183 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.1%
+-65.3%
 
 **All-Time Low:** $0.43
-+398672.2%
++396665.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Ethereum developers tackle Glamsterdam Devnet-5 stability issues, approve key AP
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -160,39 +160,35 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Climb Trump Declares Iran Deal 'Complete': Analyst Predicts BTC Move Above Key Level To Fuel 'Risk-On Appetite'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-climb-025733688.html)**
 
-Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
+Leading cryptocurrencies lifted alongside stock futures overnight on Sunday after President Donald Trump said that a framework agreement to end the conflict with Iran had been completed. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.84%$63,246.60Ethereum (CRYPTO: ETH) +1.33%$1,660.40XRP (CRYPTO: XRP) +2.72%$1.13Solana (CRYPTO: SOL) +3.60%$66.48Dogecoin (CRYPTO: DOGE) +2.12%$0.08570 Crypto Market Spikes Bitcoin jumped to $65,800 overnight as trading volu
 
-Yahoo Finance • 1d ago
-
----
-
-**[BitMine's Preferred Stock Begins Trading This Week As Ethereum Heads For Its Worst First Half Since 2022](https://www.tradingview.com/news/stocktwits:098faa06b094b:0-bitmine-s-preferred-stock-begins-trading-this-week-as-ethereum-heads-for-its-worst-first-half-since-2022/)**
-
-BitMine Immersion Technologies' (BMNR) Class A perpetual preferred shares have been approved for listing on the New York Stock Exchange (NYSE) under the ticker “BMNP” and are expected to begin trading on Tuesday, June 16, carrying an annualized dividend yield of 9.50%.On Sunday, Bitmine’s Board of…
-
-TradingView • 9h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[1 Unstoppable Crypto to Buy Before It Soars 14,870%, According to Wall Street's Tom Lee](https://www.fool.com/investing/2026/06/12/x-unstoppable-crypto-to-buy-before-it-soars-x-acco/)**
+**[The Best Cryptocurrency to Buy With $135 Right Now](https://www.fool.com/investing/2026/06/15/the-best-cryptocurrency-to-buy-with-135-right-now/)**
 
-The prominent analyst expects Ether to replicate Bitcoin's historic run.
+Ethereum has the potential to deliver out-of-this-world returns to patient crypto investors.
 
-The Motley Fool • 2d ago
+The Motley Fool • 43m ago
 
 ---
 
-**[Ethereum Crypto 100](https://fortune.com/ranking/crypto/2026/ethereum/)**
+**[Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead](https://www.tradingview.com/news/cointelegraph:db398f07c094b:0-ethereum-can-quantum-proof-accounts-for-just-7-cents-says-ethereum-s-kohaku-lead/)**
 
-In 2013, a precocious teenager named Vitalik Buterin saw the rise of Bitcoin and decided to expand on the cryptocurrency's vision of decentralization. While Bitcoin was a decentralized ledger for sending and receiving currency, Buterin thought of Ethereum as a decentralized computer to run software. 
+Ethereum could begin adding post-quantum protections to accounts for as little as $0.07, without waiting for a hard fork, according to the Ethereum Foundation's Kohaku project lead Nicolas Consigny.In a Saturday X post, Consigny shared a paper proposing a cheaper way for Ethereum users to protect t…
 
-One year later, Buterin and a team of cofounders raised $18 million for Ethereum in an initial coin offering, or ICO, setting off a wave of ICOs for new cryptocurrencies. (None would fare as well as Ethereum.) Ethereum's token is currently the second-largest worldwide, behind only Bitcoin.
+TradingView • 15h ago
 
-More than a decade later, Buterin's vision for a "world computer" has arguably come to pass. Ethereum houses several financial applications, and a network of layer-2 blockchains built atop Ethereum hold billions of dollars in value. Still, not all investors are thrilled with the protocol. As Ethereum faces competition from a slew of upstart crypto networks, the Ethereum token has yet to substantially surpass its price from 2021.
+---
 
-Fortune • 3d ago
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates gains, ETH defends support, XRP nears breakout trigger](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-gains-eth-defends-support-xrp-nears-breakout-trigger-202606150319)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
+
+FXStreet • 2h ago
 
 ---
 
@@ -212,23 +208,21 @@ Bloomberg.com • 2d ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as the ETH vehicle recorded a $3.99 million withdrawal on June 12, 2026. The move trims assets und...
 
-TipRanks • 13h ago
+TipRanks • 19h ago
 
 ---
 
-**[The AP Mechanisms That Crashed Bitcoin And Ethereum ETFs Are Now Set Up To Reverse](https://seekingalpha.com/article/4914189-the-ap-mechanisms-that-crashed-bitcoin-and-ethereum-etfs-are-now-set-up-to-reverse)**
+**[Ethereum Researcher: Quantum-Proof Accounts Possible for $0.07](https://blockchain.news/news/ethereum-quantum-proof-accounts-07-cents)**
 
-Bitcoin & Ethereum ETF outflows hit records—driven by deleveraging, not abandonment. Click here to read more about my analysis.
-
-Seeking Alpha • 3d ago
+blockchain.news • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Jump After Trump Sparks Optimism On Iran Deal: Analyst Says SpaceX IPO W](https://www.benzinga.com/crypto/cryptocurrency/26/06/53158839/bitcoin-ethereum-xrp-dogecoin-jump-on-iran-deal-optimism-spacex-ipo-tricky-for-markets)**
+**[Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?](https://finance.yahoo.com/markets/crypto/articles/why-institutional-money-pouring-xrp-221603053.html)**
 
-Leading cryptocurrencies climbed alongside stocks on Thursday after President Donald Trump called off &#8220;scheduled&#8221; strikes on Iran amid hopes for a peace deal.
+Something strange has been happening in the crypto ETF market over the past several weeks. Investors pulled billions of dollars out of Bitcoin and Ethereum funds, day after day, in one of the heaviest stretches of selling these funds have ever seen. At the same time, money kept flowing into XRP’s ETFs, week after week. ... Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?
 
-Benzinga • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -242,17 +236,7 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 8K • 👍 344 • 💬 43 • ⏱️ 20:10 • 9h ago
-
----
-
-**[If You Own Ethereum - Watch This](https://www.youtube.com/watch?v=8Zju1jzzb3Y)**
-
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE The burn is dead.
-
-📺 Lark Davis
-
-👁️ 18K • 👍 801 • 💬 148 • ⏱️ 10:36 • 1d ago
+👁️ 12K • 👍 448 • 💬 51 • ⏱️ 20:10 • 14h ago
 
 ---
 
@@ -262,7 +246,57 @@ Joseph Chalom breaks down why ETH is winning by a large margin across stablecoin
 
 📺 The Rollup
 
-👁️ 2K • 👍 92 • 💬 22 • ⏱️ 6:28 • 7h ago
+👁️ 4K • 👍 119 • 💬 17 • ⏱️ 6:28 • 13h ago
+
+---
+
+**[If You Own Ethereum - Watch This](https://www.youtube.com/watch?v=8Zju1jzzb3Y)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE The burn is dead.
+
+📺 Lark Davis
+
+👁️ 20K • 👍 849 • 💬 150 • ⏱️ 10:36 • 1d ago
+
+---
+
+**[Critical Resistance Levels for Ethereum This Week](https://www.youtube.com/watch?v=2VeNEQxjNuk)**
+
+In this video I break down the latest Ethereum price action to determine if this bounce is a sustainable move or just a temporary ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 127 • 💬 2 • ⏱️ 6:47 • 4h ago
+
+---
+
+**[BTC &amp; ETHEREUM, ich liebe es wenn ein Plan funktioniert! Wann kommt der Short!?](https://www.youtube.com/watch?v=n3oaC-JLUDk)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+
+📺 Krypto Trading & Investing
+
+👁️ 916 • 👍 229 • 💬 48 • ⏱️ 13:58 • 59m ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=w13F0IREc4s)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 690 • 👍 105 • ⏱️ 7:33 • 3h ago
+
+---
+
+**[Is Michael Burry WRONG About the AI Crash?](https://www.youtube.com/watch?v=3PiY_66oaMA)**
+
+Michael Burry is shorting the AI boom, but today's market tells a different story. Discover why the Big Short legend might ...
+
+📺 Lark Davis
+
+👁️ 226 • 👍 3 • ⏱️ 0:38 • 1h ago
 
 ---
 
@@ -272,27 +306,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 178 • 💬 25 • ⏱️ 19:47 • 1d ago
-
----
-
-**[BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B1Tvs2edKwo)**
-
-BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 378 • 💬 142 • ⏱️ 23:03 • 12h ago
-
----
-
-**[ETHEREUM WILL CRASH TO $100!](https://www.youtube.com/watch?v=TviGaAAOIN8)**
-
-This video is about the Ethereum cryptocurrency.
-
-📺 Crypto Wealth Transfer
-
-👁️ 2K • 👍 223 • 💬 52 • ⏱️ 22:47 • 1d ago
+👁️ 6K • 👍 185 • 💬 27 • ⏱️ 19:47 • 1d ago
 
 ---
 
@@ -302,37 +316,17 @@ In this video I break down the current Ethereum price outlook and evaluate why t
 
 📺 More Crypto Online
 
-👁️ 8K • 👍 392 • 💬 25 • ⏱️ 14:06 • 1d ago
+👁️ 9K • 👍 395 • 💬 25 • ⏱️ 14:06 • 1d ago
 
 ---
 
-**[Ethereum (ETH) Ölüyor Mu, Tarihi Fırsat Mı?](https://www.youtube.com/watch?v=P6ubNzf7wr4)**
+**[BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B1Tvs2edKwo)**
 
-En çok inananlar bile ETH konuşmayı bıraktıysa biz Ethereum'un derinliklerine inelim. Ethereum düşüş ne zaman bitecek, ...
+BITCOIN BREAKOUT CONFIRMED (My Trading Strategy)!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Emir Şahin
+📺 Crypto World
 
-👁️ 13K • 👍 1K • 💬 257 • ⏱️ 34:45 • 1d ago
-
----
-
-**[Has Ethereum finally Bottomed or Not?! Has BTC &amp; Stocks bottomed?! #BTC #crypto #trading #ethereum](https://www.youtube.com/watch?v=XpmxJiNvIts)**
-
-For folks who want a Non-KYC crypto exchange, Pablo uses Pionex and Bitunix, which has lots of great prizes and give aways, ...
-
-📺 Heman Pablo
-
-👁️ 540 • 👍 25 • 💬 35 • ⏱️ 19:57 • 16h ago
-
----
-
-**[Your Ethereum is in Danger](https://www.youtube.com/watch?v=O2fs5TB7Aig)**
-
-Ethereum's biggest problem may not be price. It may be its own economy. After a major upgrade cut fees, ETH became less ...
-
-📺 Coin Bureau Podcast
-
-👁️ 3K • 👍 41 • 💬 5 • ⏱️ 0:45 • 1d ago
+👁️ 10K • 👍 406 • 💬 156 • ⏱️ 23:03 • 17h ago
 
 ---
 

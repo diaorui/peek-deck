@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-15T00:10:44.645054+00:00'
+updated: '2026-06-15T05:37:03.837016+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 15, 2026 at 00:10 UTC  
+**Last Updated:** June 15, 2026 at 05:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,9 +106,11 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
+**[ACE ROBOTICS' Kairos World Model Leads Multiple Global Embodied-Intelligence Benchmarks](https://finance.yahoo.com/sectors/technology/articles/ace-robotics-kairos-world-model-022100434.html)**
 
-Barron's • 3d ago
+SHANGHAI, CHINA / ACCESS Newswire / June 14, 2026 / ACE ROBOTICS today announced that its open-source Kairos world model has achieved leading results across four global embodied-intelligence benchmarks: RoboTwin 2.0, LIBERO-Plus, WorldModelBench Robot ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -124,7 +126,15 @@ CNBC • 1d ago
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
-The Guardian • 3h ago
+The Guardian • 9h ago
+
+---
+
+**[Octopus-like robo-arm thinks with its suckers to explore the ocean floor](https://newatlas.com/robotics/iit-octopus-robot-arm-autonomous-ocean-floor-exploration/)**
+
+Robots exploring the ocean floor today use pre-programmed movements, centralized processors, and rigid structures to do their work. But the sea is unpredictable, and that architecture struggles wherever currents shift, visibility drops, or terrain changes without warning. Now, researchers at the…
+
+New Atlas • 1d ago
 
 ---
 
@@ -136,25 +146,25 @@ Nautilus | Science • 2d ago
 
 ---
 
-**[Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens](https://finance.yahoo.com/markets/stocks/articles/amazon-expands-satellite-cloud-robotics-200831338.html)**
-
-Amazon.com (NasdaqGS:AMZN) plans to acquire Apple’s 20% stake in satellite operator Globalstar as part of an $11.6b satellite communications agreement tied to its Project Leo plans. The company also announced a new multi billion dollar AWS partnership with Pinterest, expanding its cloud reach into a major social media platform. In Europe, Amazon is rolling out a new generation of AI powered warehouse robots aimed at improving fulfillment efficiency and logistics capabilities. Amazon.com,...
-
-Yahoo Finance • 1d ago
-
----
-
 **[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
 
 WSJ • 3d ago
 
 ---
 
-**[The Latest Robot Lawn Mowers Are Finally Able to Handle Your Lawn, Even If It's Big and Complex](https://www.inc.com/natashaetzel/the-latest-robot-lawn-mowers-are-finally-able-to-handle-your-lawn-even-if-its-big-and-complex/91359896)**
+**[OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?](https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/)**
 
-Some robot lawn mowers feature all-wheel drive and price tags as high as $5,000. But just think of the time you can save.
+ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
 
-inc.com • 9h ago
+The Motley Fool • 16h ago
+
+---
+
+**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
+
+A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
+
+Futurism • 1d ago
 
 ---
 
@@ -166,17 +176,11 @@ NASA Science (.gov) • 3d ago
 
 ---
 
-**[OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?](https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/)**
+**[The Latest Robot Lawn Mowers Are Finally Able to Handle Your Lawn, Even If It's Big and Complex](https://www.inc.com/natashaetzel/the-latest-robot-lawn-mowers-are-finally-able-to-handle-your-lawn-even-if-its-big-and-complex/91359896)**
 
-ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
+Some robot lawn mowers feature all-wheel drive and price tags as high as $5,000. But just think of the time you can save.
 
-The Motley Fool • 11h ago
-
----
-
-**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
-
-Bloomberg.com • 2d ago
+inc.com • 14h ago
 
 ---
 
@@ -184,23 +188,23 @@ Bloomberg.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
-
-China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
-
-📺 Kalil 4.0
-
-👁️ 11K • 👍 226 • 💬 96 • ⏱️ 8:49 • 1d ago
-
----
-
 **[Can This $125K Robot Be My Friend? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
 
 Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
 
 📺 Business Insider
 
-👁️ 32K • 👍 491 • 💬 149 • ⏱️ 17:26 • 11h ago
+👁️ 40K • 👍 593 • 💬 163 • ⏱️ 17:26 • 16h ago
+
+---
+
+**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
+
+China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
+
+📺 Kalil 4.0
+
+👁️ 13K • 👍 258 • 💬 100 • ⏱️ 8:49 • 1d ago
 
 ---
 
@@ -210,57 +214,17 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 129K • 👍 2K • 💬 168 • ⏱️ 6:09 • 5d ago
+👁️ 133K • 👍 2K • 💬 170 • ⏱️ 6:09 • 5d ago
 
 ---
 
-**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
+**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
 
-ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
+I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
 
-📺 Back to Engineering
+📺 The Hook Up
 
-👁️ 30K • 👍 270 • 💬 8 • ⏱️ 0:13 • 3d ago
-
----
-
-**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
-
-MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
-
-📺 Make Dream Come True 
-
-👁️ 202K • 👍 1K • 💬 6 • ⏱️ 0:10 • 2d ago
-
----
-
-**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
-
-At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
-
-📺 Machines In Action
-
-👁️ 12K • 👍 145 • 💬 10 • ⏱️ 0:15 • 10h ago
-
----
-
-**[Scientists Turned a Dead Spider into a Robot! 🕷️🤖](https://www.youtube.com/watch?v=jQbugXzN8LE)**
-
-Did you know scientists are using "necrobotics" to turn deceased spiders into tiny robotic grippers? Spiders naturally use hydraulic ...
-
-📺 Wealthy Capital
-
-👁️ 53K • 👍 230 • 💬 14 • ⏱️ 0:07 • 2d ago
-
----
-
-**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
-
-Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 38K • 👍 1K • 💬 114 • ⏱️ 0:30 • 1d ago
+👁️ 85K • 👍 1K • 💬 346 • ⏱️ 33:19 • 2d ago
 
 ---
 
@@ -268,17 +232,57 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Zack D. Films
 
-👁️ 6.6M • 👍 240K • 💬 2K • ⏱️ 0:39 • 1d ago
+👁️ 6.9M • 👍 249K • 💬 2K • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[Ophion Is Criminally Underrated Right Now… Ophion Actually Outperforming Meta | War Robots](https://www.youtube.com/watch?v=2SP9q1xJKgs)**
+**[Watch: AI Humanoid Robots Perform Michael Jackson Moves In HK | Michael Jackson Moon Walk | N18G](https://www.youtube.com/watch?v=GMdGomL2jQ4)**
 
-Shantak, Urhag & Voonith Giveaway Winners ...
+Watch: AI Humanoid Robots Perform Michael Jackson Moves In HK | Michael Jackson Moon Walk | N18G Visitors at Hong Kong's ...
 
-📺 PREDATOR WR
+📺 CNBC-TV18
 
-👁️ 10K • 👍 366 • 💬 70 • ⏱️ 15:34 • 1d ago
+👁️ 67K • 👍 149 • 💬 30 • ⏱️ 0:27 • 2d ago
+
+---
+
+**[For a Moment, Everyone Thought It Went Rogue 🥶⚡](https://www.youtube.com/watch?v=5EnM_WYhIus)**
+
+This footage shows a Unitree H1 humanoid robot experiencing a malfunction during a demonstration. The robot began making ...
+
+📺 Unova
+
+👁️ 89K • 👍 814 • 💬 103 • ⏱️ 0:09 • 3d ago
+
+---
+
+**[My Soft Robot Had an Aneurysm #SoftRobotics #3DPrinting @formlabs](https://www.youtube.com/watch?v=noT1tCEL7lQ)**
+
+four stepper-driven pistons, one clear hydraulic manifold, a soft tentacle, and one gripper that did not survive the pressure.
+
+📺 It's on my MIND
+
+👁️ 21K • 👍 1K • 💬 62 • ⏱️ 2:16 • 2d ago
+
+---
+
+**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
+
+Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
+
+📺 Talent Replay
+
+👁️ 73K • 👍 771 • 💬 82 • ⏱️ 5:50 • 5d ago
+
+---
+
+**[This surgical micro robot is only 4mm wide 👀 #trendingshorts #robot #tech #science](https://www.youtube.com/watch?v=kvH28K2L6rs)**
+
+Researchers at Nanyang Technological University have built a millimeter-scale magnetic soft robot that performs five functions ...
+
+📺 Rowan Cheung
+
+👁️ 46K • 👍 3K • 💬 37 • ⏱️ 0:58 • 4d ago
 
 ---
 
