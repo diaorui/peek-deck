@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-15T20:38:33.701764+00:00'
+updated: '2026-06-15T23:03:39.745459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 15, 2026 at 20:38 UTC  
+**Last Updated:** June 15, 2026 at 23:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,7 +110,7 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-Business Insider • 11h ago
+Business Insider • 14h ago
 
 ---
 
@@ -122,11 +122,33 @@ Futurism • 2d ago
 
 ---
 
-**[Meet the GOKO M6: The High-Performance 4WD AI Robotic Mower Built for Tough Lawns](https://www.usatoday.com/story/special/contributor-content/2026/06/15/meet-the-goko-m6-the-high-performance-4wd-ai-robotic-mower-built-for-tough-lawns/90562180007/)**
+**[AI robots can go rogue – a researcher on how easily it happens](https://theconversation.com/ai-robots-can-go-rogue-a-researcher-on-how-easily-it-happens-284766)**
 
-The GOKO M6 is the debut product from GOKO, the consumer robotics brand of Robot++, a company with over a decade of experience building robots for some of the most demanding environments on Earth, from high-rise facade cleaning to large-scale ship-hull maintenance.
+In tests, AI robot systems easily rejected directly malicious commands. But their safety filters collapsed when creative writing was used to instruct them.
 
-USA Today • 1h ago
+The Conversation • 7h ago
+
+---
+
+**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-06-14/)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+
+CBS News • 1d ago
+
+---
+
+**[Seres debuts humanoid as Chinese automakers pile into robotics](https://cnevpost.com/2026/06/15/seres-debuts-humanoid-robot/)**
+
+Seres showed off a humanoid robot called Xiaosai, saying more embodied intelligence products are in the pipeline.
+
+CnEVPost • 13h ago
+
+---
+
+**[Me and my exoskeleton: the rise of wearable robotics](https://news.google.com/rss/articles/CBMicEFVX3lxTE40QWhFZUdPMExkbkZZTDJIQmRwMl83MUpuelBaSTJlODZ3cHA1bk10a2wyYVFDaGJKLUN1a0tIOGNPQm00U1M4Z3d3eGxsWTc2VVQzaEdybEpHaTN4VXZDUF9GV2gza1NzdjZRd3E2NUg?oc=5)**
+
+Financial Times • 10h ago
 
 ---
 
@@ -138,14 +160,6 @@ CNBC • 2d ago
 
 ---
 
-**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
-
-Lighter and more affordable devices give users a battery-powered spring in their step
-
-Financial Times • 8h ago
-
----
-
 **[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
@@ -154,33 +168,17 @@ The Guardian • 1d ago
 
 ---
 
+**[Matic Reimagines the Robot Vacuum Through Vision-Based Home Robotics](https://stupiddope.com/2026/06/matic-reimagines-the-robot-vacuum-through-vision-based-home-robotics/)**
+
+stupidDOPE • 9h ago
+
+---
+
 **[Why robots are now sent to school in China—and what they’re learning will shock you](https://www.futura-sciences.com/en/why-robots-are-now-sent-to-school-in-china-and-what-theyre-learning-will-shock-you_33125/)**
 
 Not Your Typical School: Where Robots Sharpen Their Skills In China, humanoid robots now have a school of their own. In Shanghai, at an institute built around diversity, they’re busy perfecting their gestures to serve in a range of domestic and industrial sectors. But make no mistake, this school is...
 
-Futura, le média qui explore le monde • 7h ago
-
----
-
-**[Atlanta nonprofit's STEM summer camp inspires students to dream bigger through robotics](https://www.cbsnews.com/atlanta/news/atlanta-nonprofits-stem-summer-camp-inspires-students-to-dream-bigger-through-robotics/)**
-
-A a high-tech robotics camp is exposing metro Atlanta foster children and at-risk youth to hands-on STEM experiences designed to build confidence and creativity.
-
-CBS News • 2h ago
-
----
-
-**[Food Delivery Robots Coming To South Side After Alderman Approves Program's Expansion](https://blockclubchicago.org/2026/06/15/food-delivery-robots-coming-to-south-side-after-alderman-approves-programs-expansion/)**
-
-Block Club Chicago • 7h ago
-
----
-
-**[Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens](https://finance.yahoo.com/markets/stocks/articles/amazon-expands-satellite-cloud-robotics-200831338.html)**
-
-Amazon.com (NasdaqGS:AMZN) plans to acquire Apple’s 20% stake in satellite operator Globalstar as part of an $11.6b satellite communications agreement tied to its Project Leo plans. The company also announced a new multi billion dollar AWS partnership with Pinterest, expanding its cloud reach into a major social media platform. In Europe, Amazon is rolling out a new generation of AI powered warehouse robots aimed at improving fulfillment efficiency and logistics capabilities. Amazon.com,...
-
-Yahoo Finance • 2d ago
+Futura, le média qui explore le monde • 9h ago
 
 ---
 
@@ -194,7 +192,7 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 14K • 👍 289 • 💬 105 • ⏱️ 8:49 • 2d ago
+👁️ 15K • 👍 293 • 💬 105 • ⏱️ 8:49 • 2d ago
 
 ---
 
@@ -204,17 +202,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 87K • 👍 5K • 💬 493 • ⏱️ 2:57 • 2d ago
-
----
-
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
-
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
-
-📺 Over Engineer
-
-👁️ 21K • 👍 2K • 💬 147 • ⏱️ 6:05 • 2d ago
+👁️ 90K • 👍 5K • 💬 515 • ⏱️ 2:57 • 2d ago
 
 ---
 
@@ -224,17 +212,17 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 142K • 👍 2K • 💬 180 • ⏱️ 6:09 • 5d ago
+👁️ 144K • 👍 2K • 💬 182 • ⏱️ 6:09 • 6d ago
 
 ---
 
-**[Robot-as-a-Service: The Business Model That Could Put Humanoids in Every Factory](https://www.youtube.com/watch?v=KgtFHvsD5ck)**
+**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
 
-SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Schaeffler to Deploy Thousands of ...
+MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
 
-📺 Jason Lowe on AI
+📺 Make Dream Come True 
 
-👁️ 9K • 👍 796 • 💬 27 • ⏱️ 2:31 • 22h ago
+👁️ 211K • 👍 1K • 💬 6 • ⏱️ 0:10 • 3d ago
 
 ---
 
@@ -244,35 +232,37 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 📺 Back to Engineering
 
-👁️ 32K • 👍 278 • 💬 8 • ⏱️ 0:13 • 4d ago
+👁️ 32K • 👍 280 • 💬 9 • ⏱️ 0:13 • 4d ago
 
 ---
 
-**[Coffee Balloon Turns Into Robot Hand 😮](https://www.youtube.com/watch?v=NX_LsXlC7QQ)**
+**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
 
-📺 Zack D. Films
+This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
 
-👁️ 7.6M • 👍 274K • 💬 2K • ⏱️ 0:39 • 2d ago
+📺 Over Engineer
 
----
-
-**[The Closest Thing To Original War Robots... This Is Awesome | B.o.T. Is Back!](https://www.youtube.com/watch?v=yF24RQQz5cc)**
-
-This is awesome. The closest we might ever see to the original years of War Robots. Battle of titans was released back in 2016-17 ...
-
-📺 PREDATOR WR
-
-👁️ 16K • 👍 806 • 💬 175 • ⏱️ 13:36 • 1d ago
+👁️ 23K • 👍 2K • 💬 164 • ⏱️ 6:05 • 3d ago
 
 ---
 
-**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
+**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
 
-Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
+At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
 
-📺 Armourdesia Military Hardware
+📺 Machines In Action
 
-👁️ 41K • 👍 1K • 💬 120 • ⏱️ 0:30 • 2d ago
+👁️ 37K • 👍 343 • 💬 18 • ⏱️ 0:15 • 1d ago
+
+---
+
+**[Putin’s Reaction to a Dancing Humanoid Robot 🤖😲 #putin #humanoidrobot](https://www.youtube.com/watch?v=16jkjqO4oos)**
+
+When humanoid robot "Green" started dancing, all eyes turned to Vladimir Putin's reaction. The advanced robot showed off its ...
+
+📺 Putinify
+
+👁️ 43K • 👍 1K • 💬 54 • ⏱️ 0:32 • 5d ago
 
 ---
 
@@ -282,7 +272,17 @@ Unitree brought the future to the AGT 2026 stage with a performance that left th
 
 📺 Talent Replay
 
-👁️ 75K • 👍 815 • 💬 84 • ⏱️ 5:50 • 5d ago
+👁️ 76K • 👍 823 • 💬 84 • ⏱️ 5:50 • 6d ago
+
+---
+
+**[Robot-as-a-Service: The Business Model That Could Put Humanoids in Every Factory](https://www.youtube.com/watch?v=KgtFHvsD5ck)**
+
+SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Schaeffler to Deploy Thousands of ...
+
+📺 Jason Lowe on AI
+
+👁️ 10K • 👍 880 • 💬 32 • ⏱️ 2:31 • 1d ago
 
 ---
 
