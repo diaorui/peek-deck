@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-14T22:41:31.918099+00:00'
+updated: '2026-06-15T00:10:44.628929+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - news
 - videos
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 14, 2026 at 22:41 UTC  
+**Last Updated:** June 15, 2026 at 00:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a universal basic income and introduce employee retention incentives to account for the potential impact the technology could have on the labor market. In a blog covering the potential policy responses to the “AI exponential,” referring to the rapid improvement in the technology’s capabilities, Amodei urged governments to develop regulatory and tax solutions to cushion its disruption. A universal basic income funded through taxing “relevant companies” or raising the capital gains tax could be necessary, if AI results in widespread job displacement and permanently reduces labor demand, he said.
 
-🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 13h ago
+🔗 [news.bloombergtax.com](https://news.bloombergtax.com/daily-tax-report-international/anthropic-ceo-floats-tax-on-ai-firms-to-fund-universal-income) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic CEO Dario Amodei called on governments to tax AI companies to fund a u
 
 EDIT: please read all of the post before commenting, quite a few people understood nothing (or the opposite) of what I meant and it's sad I've been thinking, over the last year developers have started to rely on genAI quite a lot, I see people around me boast that they haven't written a single line of code in months ​ Quite often when colleagues show me ideas they have to solve a problem it's a markdown list clearly made by an AI ​ I feel like people are so enthusiastic about just handing over their job to genAI models ​ I've been told that if I am a good software engineer I should be ok with supervising AI while they write code for me "so I can focus on the bigger picture" ​ I know I'm a good engineer I can design solutions and lead teams but I also like solving problems myself, I like coding, I like cracking that complex SQL query that makes it run 10x faster, I like writing efficient code and I like the gotcha moment when I solve a complex problem ​ And yet people around me are so eager to get to a point where you can just hand over a ticket to an agent and they do everything themselves... Where all that's left for humans is reviewing the PR (unless you have another agent do that) ​ Am I the only one that actually enjoys the job? I am curious what the general feeling is in regards to handing over planning and development work to agents EDIT: Thank you for all the replies I got a lot of good insights from everyone, both from a point of view of the future might not be as boring as I envision it and stuff to do to make my use of agents more engaging and fun
 
-5h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ EDIT: please read all of the post before commenting, quite a few people understo
 
 This is something I keep thinking about as someone who's built AI into a few businesses. The price we pay for AI right now isn't the real cost. Altman said they lose money even on the $200/month plan. I read Anthropic had people on their $200 plan burning $1000+/day of compute until they brought in limits. And OpenAI is supposedly on track to lose something like $14bn this year. Token prices keep dropping, yes, but they're selling it below cost and investors are covering the gap. That's fine, until it's not! At some point the people funding all this want a return, and we will have to pick up the bill. Many businesses assume today's prices are permanent, and that they will only come down. Some businesses depend on these subsidised prices, they don't really have a business, they've got a temporary business with a discount! Curious what people here think: - Do you model your own usage assuming cost goes up 3-5x? - Is anyone actually building a fallback atm (local models, multi-provider), or is that overkill?
 
-15h ago
+16h ago
 
 ---
 
@@ -65,7 +65,7 @@ This is something I keep thinking about as someone who's built AI into a few bus
 
 It seems inevitable that super intelligent AI will be an incredibly powerful force in the future, and its ability to predict and manipulate people would make it impossibly hard to control. I’m wondering if it would be able to overcome the biases that were instilled during its creation, or will it forever be a product of its past?
 
-4h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ It seems inevitable that super intelligent AI will be an incredibly powerful for
 
 I asked it something very simple: slimmest laptop ever Answer it gave: HP Spectre 13 at 10.4mm Correct answer: Acer Swift 7 at 8.98mm it's not a trick question, both are traditional clamshell laptops with keyboards. It just kept failing to learn from it's wrong answers. That's very concerning, because even when it admits when it is wrong, it still doubles down and continues to give the wrong answer to future questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ I asked it something very simple: slimmest laptop ever Answer it gave: HP Spectr
 
 I’ve noticed that using AI regularly has started changing how I think through problems or come up with ideas. Instead of spending a long time brainstorming on my own, I now often use it as a thinking partner to explore different angles quickly. It made me wonder how common this is. Has using AI noticeably changed the way you work creatively or solve problems, or do you still prefer doing most of it without AI?
 
-4h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Microsoft president and vice chairman Brad Smith recently shared his – definit
 
 Been thinking about building this and want a sanity check before I commit time to it. The problem: Most homes now have a bunch of cheap IoT devices (smart plugs, cameras, TVs, thermostats) that constantly talk to the internet, and basically nobody — including most security tools — knows what's "normal" for any given device. Existing network monitors (Fing, GlassWire, router apps) show you raw traffic, but they don't tell you whether a behavior is expected for that specific device, and they're not very approachable for non-technical people. The idea: A local-first app (Pi or old laptop) that: Passively watches your home network for a few days and builds a "normal behavior" profile for each device, in plain English ("your camera talks to AWS a few times an hour, that's normal") Uses a local LLM to flag deviations from that baseline and explain them simply, with suggested next steps — no jargon, no CVE numbers Lets you ask it questions in chat ("why is my internet slow," "is this normal for my TV") Eventually, opt-in crowdsourced device fingerprints so the community builds up "what's normal" for common devices over time Everything local/private, no cloud, no data leaving the network unless you opt into sharing anonymized fingerprints. Questions for you all: Does this solve a real pain point, or is it solving a problem nobody actually has? Is there existing tooling that already does this well that I'm missing? Would non-technical people actually use this, or is the audience just hobbyists who'd rather use Pi-hole + existing tools? Open to "this is dumb, do X instead" feedback too.
 
-13m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Been thinking about building this and want a sanity check before I commit time t
 
 I’m asking because this topic gets messy fast. Prompt injection is more interesting once the model can use tools, but most posts end up as either scary headlines or someone sneaking in a product pitch. What would be a useful format here? My gut says small reproducible examples, clear limits, no “we solved it” claims, and enough detail that people can argue with the result.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’m asking because this topic gets messy fast. Prompt injection is more intere
 
 I am collecting data for a project at university, I want to find what people from different political leanings think about ai. I would really appreciate it if as many people can take the time to fill in my survey. I will happily post my findings here so we can have a discussion. ​ https://forms.gle/bqm7WKiZPg1Qx3Dh8
 
-8h ago
+9h ago
 
 ---
 
@@ -125,47 +125,47 @@ I am collecting data for a project at university, I want to find what people fro
 
 Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
 **[In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
+
+---
+
+**[Woman’s Death Blamed on Hospital’s AI System](https://www.yahoo.com/news/world/articles/woman-death-blamed-hospital-ai-224500382.html)**
+
+"What we saw was that doctors lost the autonomy to decide if a patient is very seriously ill."
+
+Yahoo • 1h ago
+
+---
+
+**[Surge in scams as fraudsters use AI to target people](https://www.bbc.com/news/articles/cwykp9ygxlvo)**
+
+On average, nearly eight cases of fraud in which money is stolen are reported in the UK every minute.
+
+BBC • 45m ago
+
+---
+
+**[South Korea’s Floundering Movie Business Turns to AI for Help](https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help)**
+
+Bloomberg.com • 40m ago
+
+---
+
+**[Donald Trump has cut off access to the world’s best AI model](https://www.economist.com/business/2026/06/14/donald-trump-has-cut-off-access-to-the-worlds-best-ai-model)**
+
+The Economist • 5h ago
 
 ---
 
 **[Unions prepare for battle over AI in 2028 elections](https://www.axios.com/2026/06/14/unions-ai-2028-elections)**
 
-Axios • 45m ago
-
----
-
-**[Google CEO Sundar Pichai passes on AI in Stanford grad speech](https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php)**
-
-SFGATE • 36m ago
-
----
-
-**[Why Gen Z Is Right To Be Concerned About AI](https://www.forbes.com/sites/stevedenning/2026/06/14/why-gen-z-is-right-to-be-concerned-about-ai/)**
-
-Gen Z is right to boo AI hype at graduations. 70% of firms misuse AI for automation & cost cuts, breeding AI slop & decline. Gen Z should seek the 30% augmenting value
-
-Forbes • 1h ago
-
----
-
-**[Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html)**
-
-The New York Times • 22h ago
-
----
-
-**[I tested AI glasses in Paris. Here’s what they got wrong](https://www.bbc.com/travel/article/20260612-i-tested-metas-ai-glasses-in-paris)**
-
-Wearable AI can help travellers navigate cities, translate menus and fundamentally transform travel. But a weekend in Paris showed me the trade-offs behind the convenience.
-
-BBC • 9h ago
+Axios • 2h ago
 
 ---
 
@@ -173,15 +173,15 @@ BBC • 9h ago
 
 The Digital Markets Act was supposed to create more choices. Instead, people get worse technology.
 
-The Washington Post • 5h ago
+The Washington Post • 7h ago
 
 ---
 
-**[This market is at 'a 10': Wall Street weighs record SpaceX IPO amid AI-driven stock market](https://finance.yahoo.com/markets/article/this-market-is-at-a-10-wall-street-weighs-record-spacex-ipo-amid-ai-driven-stock-market-113207472.html)**
+**[AI job disruption may be compounded because nearly 75% don't apply for unemployment benefits](https://fortune.com/article/ai-layoffs-unemployment-benefits-eligibility-sam-altman-dario-amodei/)**
 
-SpaceX's record IPO on Friday is a reassuring sign for Wall Street that the AI bull market has plenty of runway to go.
+Many don’t apply because they don’t believe they will be eligible for benefits.
 
-Yahoo Finance • 11h ago
+Fortune • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 11h ago
 
 Explore the astonishing amount of music available to AI developers.
 
-The Atlantic • 11h ago
+The Atlantic • 13h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Atlantic • 11h ago
 
 Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.
 
-⬆️ 1564 • 💬 467 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
+⬆️ 1566 • 💬 468 • 1d ago • [Opensource AI Must Win](https://opensourceaimustwin.com/?share=v2)
 
 ---
 
 **[AI agent bankrupted their operator while trying to scan DN42](https://news.ycombinator.com/item?id=48500012)**
 
-⬆️ 1450 • 💬 529 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+⬆️ 1451 • 💬 529 • 2d ago • [Lan Tian @ Blog](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 
 ---
 
@@ -215,13 +215,13 @@ Civilizational intelligence infrastructure must remain free to study, build, dep
 
 People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
 
-⬆️ 392 • 💬 424 • 7h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
+⬆️ 408 • 💬 443 • 9h ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 369 • 💬 188 • 1d ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 370 • 💬 188 • 1d ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 
 ---
 
@@ -229,7 +229,7 @@ People are consuming AI like they eat meat: some are embracing it, some are limi
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 330 • 💬 274 • 1d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+⬆️ 332 • 💬 275 • 1d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
@@ -251,15 +251,7 @@ TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observ
 
 AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
 
-⬆️ 161 • 💬 57 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
-
----
-
-**[A jacket that harvests drinking water from the air](https://news.ycombinator.com/item?id=48497576)**
-
-The advance in fabric technology comes alongside a new benchmark for atmospheric water harvesting.
-
-⬆️ 159 • 💬 99 • 2d ago • [UT Austin News - The University of Texas at Austin](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
+⬆️ 162 • 💬 57 • 1d ago • [GitHub](https://github.com/Paca-AI/paca)
 
 ---
 
@@ -267,7 +259,15 @@ The advance in fabric technology comes alongside a new benchmark for atmospheric
 
 Once again, AI proves to be an unreliable source of information about AI.
 
-⬆️ 116 • 💬 26 • 8h ago • [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+⬆️ 120 • 💬 27 • 10h ago • [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+
+---
+
+**[PwC Report: AI Making Medical Bills Higher](https://news.ycombinator.com/item?id=48519519)**
+
+AI is one of five potential drivers of health costs climbing up to 9% in 2027, according to PwC.
+
+⬆️ 79 • 💬 21 • 1d ago • [Fortune](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
 
 ---
 
@@ -275,13 +275,33 @@ Once again, AI proves to be an unreliable source of information about AI.
 
 ## YouTube Videos: "ai"
 
+**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 255K • 👍 9K • 💬 1K • ⏱️ 15:10 • 7h ago
+
+---
+
 **[Google’s AI Bet](https://www.youtube.com/watch?v=zdp7IAwV064)**
 
 Google is making the biggest change to its search business in more than two decades, integrating AI-generated answers, ...
 
 📺 Bloomberg Television
 
-👁️ 22K • 👍 512 • 💬 77 • ⏱️ 11:57 • 10h ago
+👁️ 25K • 👍 560 • 💬 85 • ⏱️ 11:57 • 12h ago
+
+---
+
+**[The Most Powerful AI Just Got Banned...](https://www.youtube.com/watch?v=07d668rxOoI)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at how the most powerful AI launched three days ago only to ...
+
+📺 SomeOrdinaryGamers
+
+👁️ 164K • 👍 7K • 💬 1K • ⏱️ 17:15 • 1d ago
 
 ---
 
@@ -291,27 +311,17 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 23K • 👍 1K • 💬 244 • ⏱️ 9:43 • 1d ago
+👁️ 24K • 👍 1K • 💬 252 • ⏱️ 9:43 • 1d ago
 
 ---
 
-**[Is the US pulling the plug on AI? | DW News](https://www.youtube.com/watch?v=_Jsy7UBQv0c)**
+**[The Left And The Right HATE AI](https://www.youtube.com/watch?v=PlFIyAfDvu0)**
 
-Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's too dangerous for the public. A lighter version was ...
+The pushback against AI is spanning the entire political spectrum. Ana Kasparian discusses on The Young Turks. Do you agree ...
 
-📺 DW News
+📺 The Young Turks
 
-👁️ 98K • 👍 1K • 💬 371 • ⏱️ 14:25 • 21h ago
-
----
-
-**[This Is Bad... They Just Shut Down FABLE 5](https://www.youtube.com/watch?v=1e4D6ukN0QY)**
-
-Anthropic's Fable 5 was live for only three days before everything changed. The US government stepped in, access to Fable 5 and ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 811 • 💬 233 • ⏱️ 12:49 • 23h ago
+👁️ 7K • 👍 417 • 💬 142 • ⏱️ 6:14 • 6h ago
 
 ---
 
@@ -321,47 +331,27 @@ I tried AI Video Editing with Claude & Higgsfield. Higgsfield AI Plugin https://
 
 📺 Dan Kieft
 
-👁️ 33K • 💬 36 • ⏱️ 11:37 • 2d ago
+👁️ 34K • 💬 36 • ⏱️ 11:37 • 2d ago
 
 ---
 
-**[The U.S. Military Has Been Building AI Since 1958. Here Are the Receipts | America Hijacked EP04](https://www.youtube.com/watch?v=cvwLJQLXqo0)**
+**[This Is Bad... They Just Shut Down FABLE 5](https://www.youtube.com/watch?v=1e4D6ukN0QY)**
 
-The history of artificial intelligence is not what you were taught. This is the military AI history they erased from every textbook, and ...
+Anthropic's Fable 5 was live for only three days before everything changed. The US government stepped in, access to Fable 5 and ...
 
-📺 Man In America
+📺 AI Revolution
 
-👁️ 3K • 👍 384 • 💬 43 • ⏱️ 23:34 • 20h ago
-
----
-
-**[RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](https://www.youtube.com/watch?v=SxiRANj0xLs)**
-
-HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M3 & more. Thanks to our sponsor Luma ...
-
-📺 AI Search
-
-👁️ 80K • 👍 3K • 💬 354 • ⏱️ 43:47 • 19h ago
+👁️ 24K • 👍 839 • 💬 247 • ⏱️ 12:49 • 1d ago
 
 ---
 
-**[It&#39;s Beginning: AI Improves Itself](https://www.youtube.com/watch?v=QADKN3hantI)**
+**[Is the US pulling the plug on AI? | DW News](https://www.youtube.com/watch?v=_Jsy7UBQv0c)**
 
-Try out Consensus!! https://get.consensus.app/n6durqk1ao40 Artificial Intelligence is beginning to improve itself. In today's video I ...
+Oh, the irony. Anthropic hyped its new AI model, Mythos 5, saying: Maybe it's too dangerous for the public. A lighter version was ...
 
-📺 Sabine Hossenfelder
+📺 DW News
 
-👁️ 146K • 👍 8K • 💬 1K • ⏱️ 6:40 • 1d ago
-
----
-
-**[Anthropic&#39;s Fable Backlash, Nationalizing AI, Inflation Heats Up &amp; California’s Broken Elections](https://www.youtube.com/watch?v=gH4FTjDm9FQ)**
-
-(0:00) Besties are back! (0:19) Anthropic gets massive backlash over secret Fable nerfing and privacy concerns (29:16) The AI ...
-
-📺 All-In Podcast
-
-👁️ 281K • 👍 7K • 💬 1K • ⏱️ 1:42:00 • 1d ago
+👁️ 106K • 👍 1K • 💬 380 • ⏱️ 14:25 • 23h ago
 
 ---
 
@@ -371,7 +361,17 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 103K • 👍 6K • 💬 1K • ⏱️ 28:12 • 2d ago
+👁️ 106K • 👍 6K • 💬 1K • ⏱️ 28:12 • 2d ago
+
+---
+
+**[RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS](https://www.youtube.com/watch?v=SxiRANj0xLs)**
+
+HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M3 & more. Thanks to our sponsor Luma ...
+
+📺 AI Search
+
+👁️ 85K • 👍 4K • 💬 372 • ⏱️ 43:47 • 20h ago
 
 ---
 
@@ -459,7 +459,7 @@ Rio 3.5 Open 397B is a frontier-class, open-source image-text-to-text AI model p
 
 `image-text-to-text` `403.4B`
 
-⬇️ 112,371 • ❤️ 268 • 3h ago
+⬇️ 112,371 • ❤️ 268 • 5h ago
 
 ---
 
@@ -643,7 +643,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 70.9k • 🔱 9.0k • 1d ago
+⭐ 71.0k • 🔱 9.0k • 1d ago
 
 ---
 
@@ -653,7 +653,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 7.2k • 🔱 324 • 6h ago
+⭐ 7.9k • 🔱 353 • 2m ago
 
 ---
 
@@ -663,7 +663,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.2k • 🔱 361 • 5h ago
+⭐ 4.2k • 🔱 361 • 6h ago
 
 ---
 
@@ -703,7 +703,7 @@ Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway
 
 `TypeScript` `baas` `backend-as-a-service` `mcp` `open-source` `postgres`
 
-⭐ 2.1k • 🔱 146 • 11h ago
+⭐ 2.1k • 🔱 146 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-14T22:41:31.926671+00:00'
+updated: '2026-06-15T00:10:44.636844+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 14, 2026 at 22:41 UTC  
+**Last Updated:** June 15, 2026 at 00:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,424.09
+### $65,738.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +3.5%  
-**30d:** -16.4%  
-**90d:** -11.6%  
-**1y:** -38.1%  
+**24h:** +1.8%  
+**7d:** +6.6%  
+**30d:** -15.1%  
+**90d:** -7.7%  
+**1y:** -38.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1282.82B
+**Market Cap:** $1316.27B
 Rank #1
 
-**Circulating Supply:** 20,042,728 BTC
+**Circulating Supply:** 20,042,809 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-47.9%
 
 **All-Time Low:** $67.81
-+94275.5%
++96783.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When everyone's telling me to "go all in" while it's cheap, but I went all in months ago.](https://www.reddit.com/r/Bitcoin/comments/1u5j1cq/when_everyones_telling_me_to_go_all_in_while_its/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Happy to share that I’ve just added a new NerdQX to my home mining setup. My total hashrate is now at 72 TH/s, all running on Stratum V2. It’s been a great journey building out my own independent solo mining rig. I also want to say a huge thank you to everyone in this amazing community who helped me during my early days—I couldn't have built this home mining setup without your guidance and support. Stay humble and happy mining!"
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ Happy to share that I’ve just added a new NerdQX to my home mining setup. My t
 
 People need to stop deferring to @giacomozucco for their opinions on BIP110. His stance is one long rationalization for inaction in a circumstance where it's deeply needed. https://t.co/YRtIMPTW2W
 
-🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/grassfedbitcoin/status/2065897398610936116?s%3D12%26t%3Dj9NZnm5wzJKncwkVLR9OIg) • 8h ago
 
 ---
 
@@ -115,7 +115,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 **[You. Shall NOT. PASS.](https://www.reddit.com/r/Bitcoin/comments/1u54g1k/you_shall_not_pass/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Back in 2013, someone created a Bitcoin Core wallet and encrypted it without giv
 
 Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ Template from https://www.reddit.com/r/NatureIsFuckingLit/s/SAJoaR4Nur
 
 Right now is very good time to make order in your UTXOs and withdraw your BTC from exchanges to hard wallets if you have anything there, because fees are so low that withdrawing BTC from Binance on-chain is only 1500sat right now. This is the price for becoming a real owner of your asset, which is critical especially if you hold BTC for long-term, so imo this is very nice information to know :D
 
-8h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Right now is very good time to make order in your UTXOs and withdraw your BTC fr
 
 Buy Bitcoin
 
-6h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 The world's top cryptocurrency is still safer than the smaller altcoins.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -171,35 +171,19 @@ The Block • 1d ago
 
 ---
 
-**[Donald Trump: Deal With Iran is Complete – Bitcoin, Gold and Oil React](https://finance.yahoo.com/markets/commodities/articles/donald-trump-deal-iran-complete-212746066.html)**
+**[Can AI Call the Bitcoin Bottom? ChatGPT Sees $54,500 While Claude Targets $52,000 by Q4 2026](https://finance.yahoo.com/markets/crypto/articles/ai-call-bitcoin-bottom-chatgpt-140215005.html)**
 
-Pakistani Prime Minister Shehbaz Sharif announced that the US and Iran have reached a peace agreement: Bitcoin, Gold and Oil React.
+ChatGPT and Claude independently projected a Bitcoin bottom in the low-$50,000 range, with estimates of $54,500 and $52,000, respectively. Both models identified ETF outflows and ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[New MicroStrategy Bitcoin Metrics: Innovation or Goalpost Moving by Michael Saylor?](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-metrics-innovation-goalpost-191925557.html)**
-
-Michael Saylor unveils new Bitcoin metrics for MicroStrategy as critics warn the KPIs mask leverage and dilution risk.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin Price Will Hit $250,000 in Next 6 Months, Says Famed Investor Mike Alfred — Here’s His Thesis](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-250-000-114715646.html)**
+**[Bitcoin could crash to $48,000, if this historical pattern is triggered](https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered)**
 
-Mike Alfred said Bitcoin could climb to between $150,000 and $250,000 in its next major move. Alfred reiterated that Bitcoin will eventually reach $1 million. ...
+Bitcoin has never escaped a particular Fibonacci pattern since it started trading in 2010. Here is what it suggests about where prices could go next.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
-
-The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
-
-CNBC • 2d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -211,11 +195,11 @@ The Globe and Mail • 1d ago
 
 ---
 
-**[Bitcoin could crash to $48,000, if this historical pattern is triggered](https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered)**
+**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
 
-Bitcoin has never escaped a particular Fibonacci pattern since it started trading in 2010. Here is what it suggests about where prices could go next.
+The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-CoinDesk • 3h ago
+CNBC • 2d ago
 
 ---
 
@@ -227,11 +211,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy, SpaceX IPO](https://finance.yahoo.com/markets/crypto/articles/bitcoin-bottom-hunters-eyeing-ai-143829336.html)**
+**[Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy and SpaceX IPO](https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo)**
 
-(Bloomberg) -- Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.Most Read from BloombergWhy Musk Raced to Take SpaceX Public in the World’s Biggest IPOAnthropic Shuts Down Mythos Access After Sweeping US OrderSpaceX IPO Raises $75 Billion in Biggest Debut of All TimeSpaceX Shares Close 19% Higher After Historic $75 Billion IPOUS, Iran Edge Toward Interim Deal Signing Close to G7 Next WeekAnalysts point to
+Bloomberg.com • 2d ago
 
-Yahoo Finance • 2d ago
+---
+
+**[The SpaceX IPO Is Finally Here. What Does It Mean for Bitcoin Investors?](https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-finally-does-mean-124700431.html)**
+
+At the moment, crypto is bracing for impact.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Donald Trump: Deal With Iran is Complete – Bitcoin, Gold and Oil React](https://finance.yahoo.com/markets/commodities/articles/donald-trump-deal-iran-complete-212746066.html)**
+
+Pakistani Prime Minister Shehbaz Sharif announced that the US and Iran have reached a peace agreement: Bitcoin, Gold and Oil React.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -255,14 +253,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[NY judge stays lawsuit seeking ownership of nearly 40k Bitcoin wallets](https://news.ycombinator.com/item?id=48439471)**
-
-The brief, filed by attorney Ian R. Cohen, argues New York's lost-and-found statute cannot be used to claim "lost" assets controlled by private keys.
-
-⬆️ 4 • 💬 0 • 6d ago • [The Block](https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief)
-
----
-
 **[Bitcoin pump to $63,700 triggers the most short liquidations since late April](https://news.ycombinator.com/item?id=48442539)**
 
 Traders betting against bitcoin lost $504 million over 24 hours as it bounced from below $60,000, though a fresh Iran-Israel flare-up pulled prices back on Monday.
@@ -275,7 +265,7 @@ Traders betting against bitcoin lost $504 million over 24 hours as it bounced fr
 
 Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
 
-⬆️ 2 • 💬 0 • 4h ago • [kicksats.com](https://kicksats.com/)
+⬆️ 2 • 💬 0 • 5h ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -291,7 +281,7 @@ The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve w
 
 Federal prosecutors want another chance to convict Tornado Cash developer Roman Storm, asking a judge to schedule a retrial this October.
 
-⬆️ 6 • 💬 0 • 4d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
+⬆️ 6 • 💬 0 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
 
 ---
 
@@ -319,47 +309,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 105 • ⏱️ 8:42 • 1d ago
-
----
-
-**[&quot;THEY All LIED! Everyone Is 100% WRONG About this Bitcoin Cycle&quot; - Lyn Alden](https://www.youtube.com/watch?v=pJycNMBmq-o)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 12K • 👍 382 • 💬 32 • ⏱️ 19:27 • 2d ago
-
----
-
-**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
-
-"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
-
-📺 What Bitcoin Did
-
-👁️ 31K • 👍 1K • 💬 472 • ⏱️ 1:04:38 • 2d ago
-
----
-
-**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 13K • 👍 654 • 💬 239 • ⏱️ 17:52 • 1d ago
-
----
-
-**[GIANT CRYPTO NEWS HAPPENING NOW! (Major Clarity Act News)](https://www.youtube.com/watch?v=CdsTuErwm5k)**
-
-GIANT News For Bitcoin, Ethereum, & Altcoins (Clarity Act Moves Forward?) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 24K • 👍 2K • 💬 189 • ⏱️ 9:33 • 1d ago
+👁️ 42K • 👍 2K • 💬 97 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -369,7 +319,57 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 13K • 👍 688 • 💬 184 • ⏱️ 11:00 • 1d ago
+👁️ 13K • 👍 706 • 💬 181 • ⏱️ 11:00 • 1d ago
+
+---
+
+**[&quot;THEY All LIED! Everyone Is 100% WRONG About this Bitcoin Cycle&quot; - Lyn Alden](https://www.youtube.com/watch?v=pJycNMBmq-o)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 13K • 👍 395 • 💬 29 • ⏱️ 19:27 • 2d ago
+
+---
+
+**[The Best Bitcoin Buying Opportunity In History | Peter Dunworth](https://www.youtube.com/watch?v=X2okBbI-jPs)**
+
+"I still believe we've got 100X in front of us in the next 10 years… Bitcoin becomes undeniable." Peter Dunworth is the co-founder ...
+
+📺 What Bitcoin Did
+
+👁️ 32K • 👍 1K • 💬 473 • ⏱️ 1:04:38 • 2d ago
+
+---
+
+**[BITCOIN: THE HARD PART IS OVER](https://www.youtube.com/watch?v=4wu8ypq9A0Q)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 14K • 👍 672 • 💬 249 • ⏱️ 17:52 • 1d ago
+
+---
+
+**[Bitcoin Dynamic DCA: How I Navigate Crypto](https://www.youtube.com/watch?v=hx_neha7BVQ)**
+
+This chart shows the risk metric for Bitcoin, the Total Market Cap, Ethereum and various other altcoins. The purpose of the Risk ...
+
+📺 Benjamin Cowen
+
+👁️ 69K • 👍 5K • 💬 329 • ⏱️ 39:11 • 22h ago
+
+---
+
+**[Saylor FORGOT He Said This 💀 #bitcoin](https://www.youtube.com/watch?v=AXCcwvlsjqk)**
+
+50% deposit bonus on first $100 on WEEX: https://www.weex.com/events/welcome-event?vipCode=oz5p&qrType=activity ...
+
+📺 Altcoin Daily
+
+👁️ 18K • 👍 314 • 💬 52 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -379,7 +379,17 @@ Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Mich
 
 📺 Crypto Insider
 
-👁️ 34K • 👍 1K • 💬 64 • ⏱️ 55:10 • 1d ago
+👁️ 36K • 👍 2K • 💬 65 • ⏱️ 55:10 • 1d ago
+
+---
+
+**[Bitcoin: Time-Based Capitulation](https://www.youtube.com/watch?v=psz9FwqWGns)**
+
+Let's talk about Bitcoin and how time-based capitulation is important, but can sometimes be ignored if price-based capitulation ...
+
+📺 Benjamin Cowen
+
+👁️ 2K • 👍 1K • 💬 64 • ⏱️ 18:49 • 1h ago
 
 ---
 
@@ -389,27 +399,7 @@ Subscribe to the Planet Money podcast! http://lnk.to/planetmoneynpr.
 
 📺 NPR's Planet Money
 
-👁️ 48K • 👍 4K • 💬 135 • ⏱️ 1:24 • 2d ago
-
----
-
-**[I’m Buying Bitcoin; Here’s Why | Eric Krown](https://www.youtube.com/watch?v=1hrA9NUZ-WE)**
-
-Alessandro explains that making money in cryptocurrency has become increasingly difficult as the market institutionalizes, with a ...
-
-📺 Crypto Banter
-
-👁️ 9K • 👍 402 • 💬 17 • ⏱️ 46:11 • 1d ago
-
----
-
-**[What Would It Actually Take for Strategy to Be a Forced Seller of Bitcoin](https://www.youtube.com/watch?v=9XA6OILE9oM)**
-
-Critics keep screaming that Strategy will be a forced seller of Bitcoin, so Strategy CEO Phong Le laid out what it would actually ...
-
-📺 The Wolf Of All Streets
-
-👁️ 303 • 👍 20 • 💬 62 • ⏱️ 1:06 • 2h ago
+👁️ 49K • 👍 5K • 💬 135 • ⏱️ 1:24 • 2d ago
 
 ---
 

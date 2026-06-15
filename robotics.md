@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-14T22:41:31.935859+00:00'
+updated: '2026-06-15T00:10:44.645054+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 14, 2026 at 22:41 UTC  
+**Last Updated:** June 15, 2026 at 00:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,44 +106,6 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
-
-As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
-
-The Guardian • 2h ago
-
----
-
-**[Why Robots Still Can’t Do Science](https://nautil.us/why-robots-still-cant-do-science-1281910)**
-
-Why Robots Still Can't Do Science: AI can read the literature in an afternoon and design molecules a chemist never would. So why can't a robot hold a pipette?
-
-Nautilus | Science • 2d ago
-
----
-
-**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
-
-WSJ • 2d ago
-
----
-
-**[I Lent My Apartment to an AI Company](https://www.thefp.com/p/ai-company-robot-cleaning-apartment)**
-
-“Two college kids showed up with Clorox, and cameras on their heads—and filmed themselves cleaning,” writes Suzy Weiss. “The footage will train robots. I feel awkward about it.”
-
-The Free Press • 2d ago
-
----
-
-**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
-
-A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
-
-Futurism • 1d ago
-
----
-
 **[Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?](https://www.barrons.com/articles/nvidia-stock-robot-ai-7d194b79)**
 
 Barron's • 3d ago
@@ -158,6 +120,22 @@ CNBC • 1d ago
 
 ---
 
+**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
+
+As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
+
+The Guardian • 3h ago
+
+---
+
+**[Why Robots Still Can’t Do Science](https://nautil.us/why-robots-still-cant-do-science-1281910)**
+
+Why Robots Still Can't Do Science: AI can read the literature in an afternoon and design molecules a chemist never would. So why can't a robot hold a pipette?
+
+Nautilus | Science • 2d ago
+
+---
+
 **[Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens](https://finance.yahoo.com/markets/stocks/articles/amazon-expands-satellite-cloud-robotics-200831338.html)**
 
 Amazon.com (NasdaqGS:AMZN) plans to acquire Apple’s 20% stake in satellite operator Globalstar as part of an $11.6b satellite communications agreement tied to its Project Leo plans. The company also announced a new multi billion dollar AWS partnership with Pinterest, expanding its cloud reach into a major social media platform. In Europe, Amazon is rolling out a new generation of AI powered warehouse robots aimed at improving fulfillment efficiency and logistics capabilities. Amazon.com,...
@@ -166,11 +144,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?](https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/)**
+**[House Robots Are Coming—and They Will Be Dangerously Cute](https://www.wsj.com/tech/robots-familiar-roomba-aibo-paro-6451be0d)**
 
-ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
+WSJ • 3d ago
 
-The Motley Fool • 9h ago
+---
+
+**[The Latest Robot Lawn Mowers Are Finally Able to Handle Your Lawn, Even If It's Big and Complex](https://www.inc.com/natashaetzel/the-latest-robot-lawn-mowers-are-finally-able-to-handle-your-lawn-even-if-its-big-and-complex/91359896)**
+
+Some robot lawn mowers feature all-wheel drive and price tags as high as $5,000. But just think of the time you can save.
+
+inc.com • 9h ago
 
 ---
 
@@ -179,6 +163,20 @@ The Motley Fool • 9h ago
 A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.
 
 NASA Science (.gov) • 3d ago
+
+---
+
+**[OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?](https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/)**
+
+ChatGPT's parent isn't an immediate threat. The fact that it's planning on entering the market at all, however, underscores the idea that Tesla isn't going to be in this business all by itself.
+
+The Motley Fool • 11h ago
+
+---
+
+**[Do Humanoid Robots Really Need Legs?](https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robotics-companies-debate-whether-wheels-make-more-sense-than-legs)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -192,17 +190,17 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 202 • 💬 93 • ⏱️ 8:49 • 1d ago
+👁️ 11K • 👍 226 • 💬 96 • ⏱️ 8:49 • 1d ago
 
 ---
 
-**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
+**[Can This $125K Robot Be My Friend? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
 
-I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
+Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
 
-📺 The Hook Up
+📺 Business Insider
 
-👁️ 70K • 👍 1K • 💬 338 • ⏱️ 33:19 • 2d ago
+👁️ 32K • 👍 491 • 💬 149 • ⏱️ 17:26 • 11h ago
 
 ---
 
@@ -212,7 +210,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 126K • 👍 2K • 💬 167 • ⏱️ 6:09 • 5d ago
+👁️ 129K • 👍 2K • 💬 168 • ⏱️ 6:09 • 5d ago
 
 ---
 
@@ -226,13 +224,33 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 ---
 
+**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
+
+MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
+
+📺 Make Dream Come True 
+
+👁️ 202K • 👍 1K • 💬 6 • ⏱️ 0:10 • 2d ago
+
+---
+
 **[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
 
 At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
 
 📺 Machines In Action
 
-👁️ 8K • 👍 111 • 💬 4 • ⏱️ 0:15 • 8h ago
+👁️ 12K • 👍 145 • 💬 10 • ⏱️ 0:15 • 10h ago
+
+---
+
+**[Scientists Turned a Dead Spider into a Robot! 🕷️🤖](https://www.youtube.com/watch?v=jQbugXzN8LE)**
+
+Did you know scientists are using "necrobotics" to turn deceased spiders into tiny robotic grippers? Spiders naturally use hydraulic ...
+
+📺 Wealthy Capital
+
+👁️ 53K • 👍 230 • 💬 14 • ⏱️ 0:07 • 2d ago
 
 ---
 
@@ -242,7 +260,7 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 37K • 👍 1K • 💬 114 • ⏱️ 0:30 • 1d ago
+👁️ 38K • 👍 1K • 💬 114 • ⏱️ 0:30 • 1d ago
 
 ---
 
@@ -250,27 +268,7 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Zack D. Films
 
-👁️ 6.3M • 👍 234K • 💬 2K • ⏱️ 0:39 • 1d ago
-
----
-
-**[For a Moment, Everyone Thought It Went Rogue 🥶⚡](https://www.youtube.com/watch?v=5EnM_WYhIus)**
-
-This footage shows a Unitree H1 humanoid robot experiencing a malfunction during a demonstration. The robot began making ...
-
-📺 Unova
-
-👁️ 88K • 👍 811 • 💬 103 • ⏱️ 0:09 • 2d ago
-
----
-
-**[This Wall-Climbing Robot Looks Like Something From the Future 🤖🧲 #Shorts](https://www.youtube.com/watch?v=OrbmYZ7RoZw)**
-
-What if a robot could climb walls effortlessly? This amazing wall-climbing robot uses advanced engineering to move vertically ...
-
-📺 VIDEOS YOUR CHOICE
-
-👁️ 5K • 👍 79 • ⏱️ 0:14 • 9h ago
+👁️ 6.6M • 👍 240K • 💬 2K • ⏱️ 0:39 • 1d ago
 
 ---
 
@@ -280,7 +278,7 @@ Shantak, Urhag & Voonith Giveaway Winners ...
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 360 • 💬 69 • ⏱️ 15:34 • 1d ago
+👁️ 10K • 👍 366 • 💬 70 • ⏱️ 15:34 • 1d ago
 
 ---
 
