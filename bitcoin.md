@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-15T17:30:53.458499+00:00'
+updated: '2026-06-15T20:38:33.693658+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 17:30 UTC  
+**Last Updated:** June 15, 2026 at 20:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,931.40
+### $66,617.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.8%  
-**7d:** +8.3%  
-**30d:** -13.7%  
-**90d:** -6.2%  
-**1y:** -37.4%  
+**24h:** +2.0%  
+**7d:** +8.0%  
+**30d:** -14.0%  
+**90d:** -6.5%  
+**1y:** -37.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1339.48B
+**Market Cap:** $1335.43B
 Rank #1
 
-**Circulating Supply:** 20,043,121 BTC
+**Circulating Supply:** 20,043,175 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--47.0%
+-47.2%
 
 **All-Time Low:** $67.81
-+98469.5%
++98156.9%
 
 ---
 
@@ -147,7 +147,7 @@ Buy Bitcoin
 
 I’ve talked to several people who didn’t buy at 16K because they thought it would go down to 12.5K A few more who never bought in Jan 2024 because they thought it would break below 30K I just talked to another friend who said it should come down to 55K, then I’ll buy. What if it doesn’t? If you’re one of these people, you want to invest but think you can wait till the bottom to go all in, you will miss out. This is a great level. Especially if you don’t already own any. Invest half now of whatever your maximum investment amount is. If it goes lower invest more. When it makes a new ATH you’re not going care if you got in at 65 or 55. You will just be happy you got in! Make the choice, don’t miss out
 
-1d ago
+2d ago
 
 ---
 
@@ -157,7 +157,7 @@ I’ve talked to several people who didn’t buy at 16K because they thought it 
 
 **[Bitcoin Rallies to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
 
-Bloomberg.com • 1h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -165,15 +165,15 @@ Bloomberg.com • 1h ago
 
 The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices.
 
-The Block • 20h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin, XRP surge as U.S.-Iran near peace deal](https://sg.finance.yahoo.com/news/bitcoin-xrp-surge-u-iran-165259539.html)**
+**[Bitcoin Holds Highs as Geopolitical Fear Eases](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-highs-geopolitical-fear-193042636.html)**
 
-Cryptocurrencies climbed across the board on June 15 after the United States and Iran agreed to a deal aimed at ending their conflict. The de-escalation comes after weeks of stalled conversations and renewed attacks in pockets. Pakistan's Prime Minister Shehbaz Sharif, whose government helped ...
+Crypto stocks rally after Hormuz deal eases tensions
 
-Yahoo Finance Singapore • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,43 +185,45 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin's latest plunge revives the debate over owning it—and whether it's just 'crypto being crypto'](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)**
+**[The Crypto Infrastructure Giant You’ve Never Heard Of Just Cracked The Fortune 500](https://bitcoinmagazine.com/business/bitgo-joins-fortune-500-with-16-2b-revenue-marking-milestone-for-regulated-bitcoin-custody)**
 
-The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
+With an OCC federal bank charter, Prime trading, staking from cold storage, and stablecoin services, BitGo is making digital assets feel as safe as traditional banking for funds, ETFs, and high-net-worth clients.
 
-CNBC • 3d ago
+Bitcoin Magazine • 4h ago
 
 ---
 
 **[Since 2010, This Signal Has Flagged Bitcoin Bottoms (Cryptocurrency:BTC-USD)](https://seekingalpha.com/article/4914956-since-2010-this-signal-has-flagged-bitcoin-bottoms)**
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 11h ago
 
 ---
 
-**[Did Bitcoin Find Its Bottom? Or Is This Rebound A Dead Cat Bounce?](https://www.investors.com/news/bitcoin-price-rebound-cryptocurrency-stocks-iran-us-oil-prices-bottom-dead-cat-bounce/)**
+**[Bitcoin on track for best day since March 4](https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-oil-prices-us-iran-peace-deal-strait-of-hormuz/card/bitcoin-on-track-for-best-day-since-march-4-JeRCdL0MtBY2A1exDBZ5)**
 
-Investor's Business Daily • 1h ago
+MarketWatch • 12h ago
 
 ---
 
-**[Current price of Bitcoin for June 12, 2026](https://fortune.com/article/price-of-bitcoin-06-12-2026/)**
+**[These Bitcoin charts show how BTC price could hit $100K before October](https://www.tradingview.com/news/cointelegraph:0fa519da4094b:0-these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin (BTC) chart technicals suggest that the BTC price rebound to $100,000 may still happen by September.BITSTAMP:BTCUSD daily chart. Source: TradingViewKey takeaways:Double-bottom hints at 60% BTC price upsideBTC rebounded 13.25% from its local low below $60,000, as a preliminary truce between…
 
-Fortune • 3d ago
+TradingView • 4h ago
 
 ---
 
 **[Bitcoin hits $66,380 resistance after W-bottom breakout: Live levels](https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-66380-resistance-after-wbottom-breakout-live-levels-93CH-4741296)**
 
-Investing.com • 10h ago
+Investing.com • 13h ago
 
 ---
 
-**[Bitcoin Just Topped a Key Level. Strategy, Coinbase Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-crypto-d2fcb517)**
+**[Is Bitcoin the Safest Crypto to Own Right Now?](https://www.fool.com/investing/2026/06/14/is-btc-the-safest-crypto-to-own-right-now/)**
 
-Barron's • 2h ago
+The world's top cryptocurrency is still safer than the smaller altcoins.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -241,7 +243,7 @@ Barron's • 2h ago
 
 Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
 
-⬆️ 4 • 💬 0 • 23h ago • [kicksats.com](https://kicksats.com/)
+⬆️ 4 • 💬 0 • 1d ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -249,7 +251,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 3 • 💬 0 • 12h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+⬆️ 3 • 💬 0 • 16h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
 
 ---
 
@@ -271,7 +273,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 **[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
 
-⬆️ 2 • 💬 0 • 3d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+⬆️ 2 • 💬 0 • 4d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
 
 ---
 
@@ -279,7 +281,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Queries own the reads the way commands own the writes, and a T::Struct is the only thing that crosses between them. Every read here ran against ActiveRecord 8.1 before it went in.
 
-⬆️ 3 • 💬 0 • 6h ago • [baweaver](https://baweaver.com/writing/2026/06/14/rails-sharp-parts-queries-read-models-and-batching/)
+⬆️ 3 • 💬 0 • 10h ago • [baweaver](https://baweaver.com/writing/2026/06/14/rails-sharp-parts-queries-read-models-and-batching/)
 
 ---
 
@@ -287,13 +289,23 @@ Queries own the reads the way commands own the writes, and a T::Struct is the on
 
 ## YouTube Videos: "bitcoin"
 
+**[$10M Bitcoin Soon - They Finally Said It](https://www.youtube.com/watch?v=DARb35g0_aw)**
+
+Subscribe. Before $10 million stops sounding crazy. Senator Cynthia Lummis just said the quiet part out loud: Bitcoin is headed to ...
+
+📺 Bitcoin News Alerts
+
+👁️ 4K • 👍 285 • 💬 102 • ⏱️ 15:19 • 22h ago
+
+---
+
 **[Bitcoin Investors...The War is Finally Over](https://www.youtube.com/watch?v=_Owt9X5i_Qw)**
 
 AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 993 • 💬 94 • ⏱️ 9:43 • 16h ago
+👁️ 17K • 👍 999 • 💬 153 • ⏱️ 9:43 • 19h ago
 
 ---
 
@@ -303,17 +315,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Ledn Bitco
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 269 • 💬 66 • ⏱️ 5:47 • 13h ago
-
----
-
-**[$10M Bitcoin Soon - They Finally Said It](https://www.youtube.com/watch?v=DARb35g0_aw)**
-
-Subscribe. Before $10 million stops sounding crazy. Senator Cynthia Lummis just said the quiet part out loud: Bitcoin is headed to ...
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 279 • 💬 80 • ⏱️ 15:19 • 19h ago
+👁️ 4K • 👍 282 • 💬 85 • ⏱️ 5:47 • 16h ago
 
 ---
 
@@ -323,17 +325,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 664 • 💬 11 • ⏱️ 54:21 • 2h ago
-
----
-
-**[Bitcoin Holders: It’s Over](https://www.youtube.com/watch?v=HpJNpDrOW1U)**
-
-Bitcoin, Trump, and the market bottom! Stocks pumping again BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 13K • 👍 584 • 💬 59 • ⏱️ 14:19 • 5h ago
+👁️ 12K • 👍 773 • 💬 156 • ⏱️ 54:21 • 6h ago
 
 ---
 
@@ -343,17 +335,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 99 • ⏱️ 8:42 • 2d ago
-
----
-
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
-
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
-
-📺 Gareth Soloway
-
-👁️ 36K • 👍 3K • 💬 198 • ⏱️ 13:52 • 6h ago
+👁️ 45K • 👍 2K • 💬 101 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -363,7 +345,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 538 • 💬 253 • ⏱️ 13:58 • 13h ago
+👁️ 8K • 👍 548 • 💬 235 • ⏱️ 13:58 • 16h ago
+
+---
+
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+
+📺 Gareth Soloway
+
+👁️ 47K • 👍 3K • 💬 228 • ⏱️ 13:52 • 9h ago
 
 ---
 
@@ -373,17 +365,27 @@ Bitcoin Breakout! BTC is showing strength, but the market isn't out of danger ye
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 395 • 💬 55 • ⏱️ 19:55 • 8h ago
+👁️ 6K • 👍 407 • 💬 55 • ⏱️ 19:55 • 11h ago
 
 ---
 
-**[are you seeing what bitcoin is doing right now.....](https://www.youtube.com/watch?v=ndbwgMVQqVY)**
+**[Bitcoin Holders: It’s Over](https://www.youtube.com/watch?v=HpJNpDrOW1U)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Bitcoin, Trump, and the market bottom! Stocks pumping again BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Tyler S
+📺 Lark Davis
 
-👁️ 15K • 👍 750 • 💬 188 • ⏱️ 11:00 • 2d ago
+👁️ 16K • 👍 666 • 💬 68 • ⏱️ 14:19 • 8h ago
+
+---
+
+**[Everyone’s Missing How Explosive This is For Bitcoin!](https://www.youtube.com/watch?v=V2HFjRTIT2Q)**
+
+Bitcoin finally made significant move thanks to the Ceasefire news. Ran breaks down why the U.S.-Iran ceasefire could be far ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 24 • ⏱️ 32:01 • 6h ago
 
 ---
 

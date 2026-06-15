@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-15T17:30:53.464483+00:00'
+updated: '2026-06-15T20:38:33.698912+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 17:30 UTC  
+**Last Updated:** June 15, 2026 at 20:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,809.08
+### $1,819.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +10.1%  
-**7d:** +11.6%  
-**30d:** -14.2%  
-**90d:** -17.1%  
-**1y:** -27.9%  
+**24h:** +5.9%  
+**7d:** +11.1%  
+**30d:** -14.6%  
+**90d:** -17.5%  
+**1y:** -28.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $220.81B
+**Market Cap:** $219.66B
 Rank #2
 
 **Circulating Supply:** 120,684,183 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.0%
+-63.2%
 
 **All-Time Low:** $0.43
-+422530.2%
++420266.8%
 
 ---
 
@@ -164,15 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin opened at $65,710.09 on Monday, June 15, 2% higher than Sunday's opening price. As of 7:33 a.m. ET this morning, the price of bitcoin moved up to $66,157.11. Ethereum opened at $1,724.44, up 2.6% from Sunday's opening price. The price of ethereum moved higher this morning to $1,762.41 as of 7:33 a.m. ET.
 
-Yahoo Finance • 5h ago
-
----
-
-**[BitMine Immersion (BMNR) Reports $9.6B Crypto and Cash Holdings, Led by Ethereum Treasury](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-reports-9-193428427.html)**
-
-BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion reported that its total crypto and cash holdings reached $9.6 billion, driven primarily by a large Ethereum/ETH treasury position. The company disclosed holdings of over 5.5 million ETH, alongside smaller Bitcoin positions, […]
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -180,35 +172,21 @@ Yahoo Finance • 1d ago
 
 Bitmine owns 4.66% of the total ETH coin supply of 120.7 million Bitmine is 93% of the way to the 'Alchemy of 5%' in just 11 months Bitmine named to Fortune...
 
-PR Newswire • 5h ago
+PR Newswire • 8h ago
+
+---
+
+**[Here's What to Do if Ethereum Drops Below $1,000](https://www.fool.com/investing/2026/06/15/heres-what-to-do-if-ethereum-drops-below-1000/)**
+
+It can often be smart to buy when it feels like the worst idea.
+
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitmine joins Ethereum rally with 76.9K ETH purchase; crypto holdings top $10.4B](https://seekingalpha.com/news/4603451-bitmine-joins-ethereum-rally-with-769k-eth-purchase-crypto-holdings-top-104b)**
 
-Seeking Alpha • 3h ago
-
----
-
-**[Current price of Ethereum for June 15, 2026](https://fortune.com/article/price-of-ethereum-06-15-2026/)**
-
-Fortune • 4h ago
-
----
-
-**[Ant Intl manages corporate treasury using Amundi tokenized MMF on Ethereum](https://www.ledgerinsights.com/ant-intl-manages-corporate-treasury-using-amundi-tokenized-mmf-on-ethereum/)**
-
-Ant International, the owner of Alipay+ and other money management solutions, has been using blockchain for years for internal treasury management, using
-
-ledgerinsights.com • 1h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates gains, ETH defends support, XRP nears breakout trigger](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-gains-eth-defends-support-xrp-nears-breakout-trigger-202606150319)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
-
-FXStreet • 14h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -220,11 +198,31 @@ TradingView • 1d ago
 
 ---
 
-**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://www.fool.com/investing/2026/06/13/why-id-buy-ethereum-over-bitcoin-right-now/)**
+**[Ant Intl manages corporate treasury using Amundi tokenized MMF on Ethereum](https://www.ledgerinsights.com/ant-intl-manages-corporate-treasury-using-amundi-tokenized-mmf-on-ethereum/)**
 
-The world's second-largest cryptocurrency is still a compelling investment.
+Ant International, the owner of Alipay+ and other money management solutions, has been using blockchain for years for internal treasury management, using
 
-The Motley Fool • 2d ago
+ledgerinsights.com • 4h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates gains, ETH defends support, XRP nears breakout trigger](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-gains-eth-defends-support-xrp-nears-breakout-trigger-202606150319)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
+
+FXStreet • 17h ago
+
+---
+
+**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
+
+CCN.com • 10h ago
+
+---
+
+**[Current price of Ethereum for June 15, 2026](https://fortune.com/article/price-of-ethereum-06-15-2026/)**
+
+Fortune • 7h ago
 
 ---
 
@@ -232,13 +230,23 @@ The Motley Fool • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+**[🚨 BTC &amp; ETH: HUGE URGENT WARNING!!!!!!!!](https://www.youtube.com/watch?v=LWfF9TzFN6c)**
 
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+bitcoin, ethereum and crypto in general have bounced on the iran war news. Here are the details that you can keep in mind going ...
 
-📺 Gareth Soloway
+📺 Thomas Kralow
 
-👁️ 36K • 👍 3K • 💬 198 • ⏱️ 13:52 • 6h ago
+👁️ 9K • 👍 2K • 💬 74 • ⏱️ 8:35 • 7h ago
+
+---
+
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 951 • 👍 76 • 💬 154 • ⏱️ 15:17 • 3h ago
 
 ---
 
@@ -248,7 +256,17 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 18K • 👍 599 • 💬 67 • ⏱️ 20:10 • 1d ago
+👁️ 19K • 👍 626 • 💬 71 • ⏱️ 20:10 • 1d ago
+
+---
+
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+
+📺 Gareth Soloway
+
+👁️ 47K • 👍 3K • 💬 228 • ⏱️ 13:52 • 9h ago
 
 ---
 
@@ -258,7 +276,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 24K • 👍 959 • 💬 157 • ⏱️ 10:36 • 2d ago
+👁️ 25K • 👍 979 • 💬 158 • ⏱️ 10:36 • 2d ago
 
 ---
 
@@ -268,37 +286,7 @@ Joseph Chalom breaks down why ETH is winning by a large margin across stablecoin
 
 📺 The Rollup
 
-👁️ 5K • 👍 134 • 💬 23 • ⏱️ 6:28 • 1d ago
-
----
-
-**[WHY ETH CAN PUMP HIGHER NOW! (Ethereum Update)](https://www.youtube.com/watch?v=8bYB1KA9QT0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 226 • 👍 14 • ⏱️ 4:21 • 7h ago
-
----
-
-**[The Real Reason Tom Lee Loves Ethereum #cryptotruth #ethereum #investing](https://www.youtube.com/watch?v=SBtLmdJr6rE)**
-
-USE YUBIT: 25% FEE DISCOUNT FOREVER + $50000 DEPOSIT BONUS https://www.yubit.com/en-US/register?
-
-📺 TMG Trades
-
-👁️ 766 • 👍 21 • 💬 10 • ⏱️ 0:18 • 7h ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tcYa5oWc-7k)**
-
-BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 290 • 💬 73 • ⏱️ 26:14 • 5h ago
+👁️ 5K • 👍 138 • 💬 32 • ⏱️ 6:28 • 1d ago
 
 ---
 
@@ -308,27 +296,37 @@ In this video I break down the latest Ethereum price action to determine if this
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 215 • 💬 4 • ⏱️ 6:47 • 16h ago
+👁️ 4K • 👍 222 • 💬 4 • ⏱️ 6:47 • 19h ago
 
 ---
 
-**[CRYPTO LIVE TRADING|| 15 JUNE | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=NsG41WU_oG8)**
+**[BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tcYa5oWc-7k)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
 
-📺 Aryan trader Live
+📺 Crypto World
 
-👁️ 7K • ⏱️ 37:37 • 14m ago
+👁️ 6K • 👍 340 • 💬 203 • ⏱️ 26:14 • 8h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=BwmarSthpeY)**
+**[WHY ETH CAN PUMP HIGHER NOW! (Ethereum Update)](https://www.youtube.com/watch?v=8bYB1KA9QT0)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Profit First
+📺 Cilinix Crypto
 
-👁️ 720 • 👍 78 • 💬 1 • ⏱️ 7:59 • 4h ago
+👁️ 323 • 👍 16 • ⏱️ 4:21 • 10h ago
+
+---
+
+**[The Real Reason Tom Lee Loves Ethereum #cryptotruth #ethereum #investing](https://www.youtube.com/watch?v=SBtLmdJr6rE)**
+
+USE YUBIT: 25% FEE DISCOUNT FOREVER + $50000 DEPOSIT BONUS https://www.yubit.com/en-US/register?
+
+📺 TMG Trades
+
+👁️ 1K • 👍 24 • 💬 22 • ⏱️ 0:18 • 10h ago
 
 ---
 
