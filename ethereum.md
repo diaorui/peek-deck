@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-15T23:03:39.743587+00:00'
+updated: '2026-06-16T02:07:15.630983+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 23:03 UTC  
+**Last Updated:** June 16, 2026 at 02:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,41 +36,85 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,819.02
+### $1,791.88
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +4.0%  
-**7d:** +9.2%  
-**30d:** -16.1%  
-**90d:** -18.9%  
-**1y:** -29.5%  
+**7d:** +10.6%  
+**30d:** -15.9%  
+**90d:** -16.2%  
+**1y:** -28.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.93B
+**Market Cap:** $216.04B
 Rank #2
 
-**Circulating Supply:** 120,684,183 ETH
+**Circulating Supply:** 120,684,109 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -63.8%
 
 **All-Time Low:** $0.43
-+413077.1%
++413728.4%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Made a toy website that turns chess positions into private keys. Thoughts?](https://www.reddit.com/r/ethereum/comments/1u6tdat/made_a_toy_website_that_turns_chess_positions/)**
+
+Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in your browser.
+
+🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 5h ago
+
+---
+
+**[Daily General Discussion June 15, 2026](https://www.reddit.com/r/ethereum/comments/1u66yey/daily_general_discussion_june_15_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+21h ago
+
+---
+
+**[Energy markets on Ethereum](https://www.reddit.com/r/ethereum/comments/1u6d4fy/energy_markets_on_ethereum/)**
+
+Most onchain derivatives today are still centered around crypto assets. There is a clear gap when it comes to commodities like oil, natural gas, power, and metals, which remain largely tied to traditional market structures. My team is working on bringing these markets onchain through instruments such as perpetuals, futures, and options. The current design uses offchain order matching with onchain settlement. The goal is not to recreate another crypto perp venue, but to expand the set of assets that can be traded within Ethereum-based markets. Before going further, here are some of the key questions we have been thinking about while building Sphinx Protocol, and we would really value input from people working on market design, oracle systems, and onchain trading infrastructure: How should commodity pricing be handled onchain at scale? What other type of market structure makes sense for assets that are not crypto-native? How does liquidity form around entirely new derivative categories? Which parts of commodity market infrastructure can realistically move onchain first? Would love to hear thoughts, especially from people exploring similar problems or adjacent areas.
+
+15h ago
+
+---
+
+**[How to get historical transactions from V2 on Ethereum Mainnet](https://www.reddit.com/r/ethereum/comments/1u6muse/how_to_get_historical_transactions_from_v2_on/)**
+
+8h ago
+
+---
+
+**[How EIP-8181 will affect in mixers like tornado cash, railgun?](https://www.reddit.com/r/ethereum/comments/1u6mulj/how_eip8181_will_affect_in_mixers_like_tornado/)**
+
+Will this EIP compete with or complement mixers? Thanks.
+
+8h ago
+
+---
+
 **[Daily General Discussion June 14, 2026](https://www.reddit.com/r/ethereum/comments/1u5c0uz/daily_general_discussion_june_14_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[How I learned to stop Worrying and Love the Wild West](https://www.reddit.com/r/ethereum/comments/1u5t2il/how_i_learned_to_stop_worrying_and_love_the_wild/)**
 
 1d ago
 
@@ -100,54 +144,6 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 ---
 
-**[Highlights from the All Core Developers Consensus (ACDC) Call #180](https://www.reddit.com/r/ethereum/comments/1u3ml5g/highlights_from_the_all_core_developers_consensus/)**
-
-Ethereum developers tackle Glamsterdam Devnet-5 stability issues, approve key API upgrades, advance QUIC networking, and evaluate early Hegota proposals including EIP-8243.
-
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-180/) • 3d ago
-
----
-
-**[Daily General Discussion June 11, 2026](https://www.reddit.com/r/ethereum/comments/1u2pk9u/daily_general_discussion_june_11_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[Who are the buyers? Seller’s](https://www.reddit.com/r/ethereum/comments/1u3bxet/who_are_the_buyers_sellers/)**
-
-I’ve read opinions that, in today’s market, ETH sellers are, by and large, individual/retail investors and buyers whales and institutions. Is this a valid observation? If so, what are the implications if it persists?
-
-4d ago
-
----
-
-**[Vattelum: an open-source decentralized legal system on Ethereum.](https://www.reddit.com/r/ethereum/comments/1u2t91y/vattelum_an_opensource_decentralized_legal_system/)**
-
-I've launched Vattelum, an open-source project building a new legal system on Ethereum. It includes three new ways of storing laws and policies on-chain, and a tool to turn them into signed agreements printable as a PDF. This brings many new use-cases to the blockchain: From simple voting for policies, to freelance and trade contracts, peer-to-peer economies, and communities self-governing across borders. The Vattelum project already has four basic applications: A Registry allowing any expert or institution to enact laws on-chain... The Blockchain Voting System allowing any organization to put their policies and decisions to a vote without legal complexity... Decentralized law-making through a new kind of association... A Smart Contract Block combining on-chain laws and smart contracts into a binding agreement printable as a PDF just like any regular contract... Still being perfected, suggestions welcome! TLDR: I created a new blockchain-based legal system allowing for the creation of private governing laws and legal context for smart contracts.
-
-4d ago
-
----
-
-**[How do you simply explain what ethereum is?](https://www.reddit.com/r/ethereum/comments/1u2hq56/how_do_you_simply_explain_what_ethereum_is/)**
-
-Like you know that feeling of knowing what something is and reading alot about it and knowing its significance but struggling to explain it simply to someone i feel like ethereum is exactly that. How do you explain ethereum to a child, as they say if you cant explain it to a child you dont understand it, how do you explain the greatness and future of ethereum to someone.
-
-5d ago
-
----
-
-**[Mascot needed for Glamsterdam upgrade 🐜🦫🐝🦩🐹🐙🐻‍❄️🐩 Vote for your favorite](https://www.reddit.com/r/ethereum/comments/1u2j8c5/mascot_needed_for_glamsterdam_upgrade_vote_for/)**
-
-A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterdam).  Vote for your favorite:  poll  https://eips.ethereum.org/EIPS/eip-8066 specifies mascot requirements and role of facilitator (Mascot Wrestler).  @EvilJordan proposed as Glamsterdam Mascot Wrestler  Recent upgrade names:   🦉 Shapella (Shanghai + Capella) 🐡 Dencun (Cancun + Deneb) 🦒 Pectra (Prague + Electra) 🦓 Fusaka (Fulu + Osaka) ❓ Glamsterdam (Gloas + Amsterdam)  See: Post-Me...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/mascot-needed-for-glamsterdam-upgrade/26008) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -157,14 +153,6 @@ A mascot is needed for Glamsterdam upgrade (EIP-7773: Hardfork Meta - Glamsterda
 In an interview with CoinDesk, Etherealize cofounder Vivek Raman said Ethereum is currently in a transitional phase where the infrastructure has largely been built, but the scale of adoption has yet to be fully reflected in ETH itself.
 
 CoinDesk • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Monday, June 15, 2026: Prices rising after U.S., Iran agree to ceasefire deal](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-15-2026-prices-rising-after-us-iran-agree-to-ceasefire-deal-114616600.html)**
-
-Bitcoin opened at $65,710.09 on Monday, June 15, 2% higher than Sunday's opening price. As of 7:33 a.m. ET this morning, the price of bitcoin moved up to $66,157.11. Ethereum opened at $1,724.44, up 2.6% from Sunday's opening price. The price of ethereum moved higher this morning to $1,762.41 as of 7:33 a.m. ET.
-
-Yahoo Finance • 11h ago
 
 ---
 
@@ -180,7 +168,7 @@ Yahoo Finance • 2d ago
 
 Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.
 
-CoinDesk • 9h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -188,7 +176,13 @@ CoinDesk • 9h ago
 
 Bitmine owns 4.66% of the total ETH coin supply of 120.7 million Bitmine is 93% of the way to the 'Alchemy of 5%' in just 11 months Bitmine named to Fortune...
 
-PR Newswire • 10h ago
+PR Newswire • 13h ago
+
+---
+
+**[Current price of Ethereum for June 15, 2026](https://fortune.com/article/price-of-ethereum-06-15-2026/)**
+
+Fortune • 11h ago
 
 ---
 
@@ -196,23 +190,7 @@ PR Newswire • 10h ago
 
 It can often be smart to buy when it feels like the worst idea.
 
-The Motley Fool • 4h ago
-
----
-
-**[Why I'd Buy Ethereum Over Bitcoin Right Now](https://finance.yahoo.com/markets/crypto/articles/why-id-buy-ethereum-over-153506993.html)**
-
-The world's second-largest cryptocurrency is still a compelling investment.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Price Rebound Gains Traction After Clearing Key Hurdles](https://www.tradingview.com/news/newsbtc:746ce8354094b:0-ethereum-price-rebound-gains-traction-after-clearing-key-hurdles/)**
-
-Ethereum price started a fresh increase and remained stable above $1,680. ETH is now correcting gains and might continue higher if it clears $1,750.Ethereum Price Aims for More UpsideEthereum price managed to stay above the $1,600 support and started a fresh increase, like Bitcoin. ETH price gained…
-
-TradingView • 19h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -220,7 +198,15 @@ TradingView • 19h ago
 
 Ant International, the owner of Alipay+ and other money management solutions, has been using blockchain for years for internal treasury management, using
 
-ledgerinsights.com • 9h ago
+ledgerinsights.com • 12h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates gains, ETH defends support, XRP nears breakout trigger](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-gains-eth-defends-support-xrp-nears-breakout-trigger-202606150319)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
+
+FXStreet • 22h ago
 
 ---
 
@@ -229,6 +215,12 @@ ledgerinsights.com • 9h ago
 Ethereum could begin adding post-quantum protections to accounts for as little as $0.07, without waiting for a hard fork, according to the Ethereum Foundation's Kohaku project lead Nicolas Consigny.In a Saturday X post, Consigny shared a paper proposing a cheaper way for Ethereum users to protect t…
 
 TradingView • 1d ago
+
+---
+
+**[Whales dump Bitcoin, Ethereum leaves exchanges: Crypto sees $186 mln liquidation](https://ambcrypto.com/whales-dump-bitcoin-ethereum-leaves-exchanges-crypto-sees-186-mln-liquidation/)**
+
+AMBCrypto • 2d ago
 
 ---
 
@@ -242,7 +234,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 112 • 💬 82 • ⏱️ 15:17 • 5h ago
+👁️ 3K • 👍 130 • 💬 64 • ⏱️ 15:17 • 8h ago
 
 ---
 
@@ -252,7 +244,7 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 110 • 👍 4 • 💬 129 • ⏱️ 4:33 • 3h ago
+👁️ 196 • 👍 7 • 💬 106 • ⏱️ 4:33 • 6h ago
 
 ---
 
@@ -262,17 +254,7 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 91 • ⏱️ 8:35 • 10h ago
-
----
-
-**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
-
-Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
-
-📺 CoinDesk
-
-👁️ 20K • 👍 649 • 💬 72 • ⏱️ 20:10 • 1d ago
+👁️ 11K • 👍 2K • 💬 136 • ⏱️ 8:35 • 13h ago
 
 ---
 
@@ -282,7 +264,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 25K • 👍 996 • 💬 160 • ⏱️ 10:36 • 2d ago
+👁️ 26K • 👍 1K • 💬 170 • ⏱️ 10:36 • 2d ago
+
+---
+
+**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
+
+Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
+
+📺 CoinDesk
+
+👁️ 22K • 👍 672 • 💬 75 • ⏱️ 20:10 • 1d ago
 
 ---
 
@@ -292,7 +284,37 @@ No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 52K • 👍 3K • 💬 311 • ⏱️ 13:52 • 11h ago
+👁️ 57K • 👍 4K • 💬 357 • ⏱️ 13:52 • 14h ago
+
+---
+
+**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
+
+ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
+
+📺 Dana Love, PhD
+
+👁️ 4K • 👍 324 • 💬 72 • ⏱️ 13:29 • 3h ago
+
+---
+
+**[Ethereum Y Altcoins: Analisis A Largo Plazo #3](https://www.youtube.com/watch?v=O2ENq0LQlnY)**
+
+Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+
+📺 CdeCripto
+
+👁️ 1K • 👍 238 • 💬 108 • ⏱️ 19:00 • 3h ago
+
+---
+
+**[Ethereum stuck at $1,700! 📉📈 #ethereum #eth #crypto #altcoins](https://www.youtube.com/watch?v=HlpAwrG9p8c)**
+
+Ethereum stuck at $1700! #ethereum #eth #crypto #altcoins.
+
+📺 Crypto AiMan
+
+👁️ 677 • 👍 3 • 💬 29 • ⏱️ 0:52 • 2h ago
 
 ---
 
@@ -302,37 +324,7 @@ Joseph Chalom breaks down why ETH is winning by a large margin across stablecoin
 
 📺 The Rollup
 
-👁️ 5K • 👍 141 • 💬 32 • ⏱️ 6:28 • 1d ago
-
----
-
-**[Critical Resistance Levels for Ethereum This Week](https://www.youtube.com/watch?v=2VeNEQxjNuk)**
-
-In this video I break down the latest Ethereum price action to determine if this bounce is a sustainable move or just a temporary ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 222 • 💬 4 • ⏱️ 6:47 • 22h ago
-
----
-
-**[Ethereum Price News: Bear Trap Could Push ETH Back to $2,400](https://www.youtube.com/watch?v=LvbtxLi_L0Y)**
-
-Today's geopolitical breakthrough has triggered a massive short squeeze for Ethereum (ETH), potentially putting a long-term ...
-
-📺 FXEmpire
-
-👁️ 71 • 👍 2 • ⏱️ 7:19 • 7h ago
-
----
-
-**[BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tcYa5oWc-7k)**
-
-BITCOIN SHORT SQUEEZE: Price Prediction Revealed!!! - Bitcoin News Today, Ethereum & Altcoins ⭐ *WEEX* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 363 • 💬 248 • ⏱️ 26:14 • 10h ago
+👁️ 5K • 👍 142 • 💬 33 • ⏱️ 6:28 • 1d ago
 
 ---
 

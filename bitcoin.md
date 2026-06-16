@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-15T23:03:39.739999+00:00'
+updated: '2026-06-16T02:07:15.624745+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 15, 2026 at 23:03 UTC  
+**Last Updated:** June 16, 2026 at 02:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,186.87
+### $66,387.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +7.3%  
-**30d:** -14.5%  
-**90d:** -7.1%  
-**1y:** -38.0%  
+**24h:** +0.6%  
+**7d:** +7.8%  
+**30d:** -13.9%  
+**90d:** -5.2%  
+**1y:** -36.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1326.30B
+**Market Cap:** $1328.63B
 Rank #1
 
-**Circulating Supply:** 20,043,237 BTC
+**Circulating Supply:** 20,043,318 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--47.5%
+-47.4%
 
 **All-Time Low:** $67.81
-+97483.0%
++97661.4%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislator presented a Bitcoin Policy Institute report advocating diversification of
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 3h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 6h ago
 
 ---
 
 **[Strategy Bought 1,587 BTC & Increases USD Reserve To $1.1 Billion.](https://www.reddit.com/r/Bitcoin/comments/1u6hxal/strategy_bought_1587_btc_increases_usd_reserve_to/)**
 
-8h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislato
 
 AI posts are getting a lot of traction on this sub: "Today I found 1 BTC" - guy claims he forgot his seed phrase but somehow remembered the order because "there was a method to my madness" lol. 3k upvotes Multiple "I built a website/app" - Both the posts and the websites are AI-generated. "Laid asphalt for ten years. Never got ahead. Then I started mining Bitcoin and figured out why." Somehow this guy got caught, but it was obvious from the fact that he got into bitcoin in 2022 and says he was mining with GPU's which was pointless.
 
-7h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ AI posts are getting a lot of traction on this sub: "Today I found 1 BTC" - guy 
 
 Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from peak. Every outlet has a crash headline. and f&g index is at 13 extreme fear ​ the data they are not showing you. ​ 2013 : Bitcoin dropped 86% from peak,people said it was over. ​ 2017 : Bitcoin dropped 83% from peak. People said it was over. ​ 2021 :Bitcoin dropped 77% from peak,guess what they said ​ 2026 : Down 50%. And we havent even matched the mildest correction in Bitcoin history yet. ​ I think either this cycle is genuinely shallower because institutional etf floors and government bitcoin reserves changed the structure permanently or peter brandt is right and we retest $60,000 in September before the next bull cycle begins. ​ Whats different this time that nobody talked about in 2018 or 2022 is that ETF inflows remained structurally positive through the entire correction and institutions are now holding Bitcoin as long term portfolio allocation.The US government holds it as a strategic reserve asset ​ The reason for the crash always sounds definitive in the moment It never is. ​ i have been DCAing through all of it on bitpanda because I hve seen this exact feeling before and I know how it ended
 
-20h ago
+23h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 1h ago
+🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/MHAKbtG9A2k) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/MHAKbtG9A2k) • 10h ago
 
 ---
 
@@ -135,13 +135,13 @@ Elon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX o
 
 Years ago when I first read The Richest Man in Babylon, a lot of my thinking about money, wealth, saving, and long-term value started to take shape. Looking back, I think many of the ideas that eventually led me to understand Bitcoin were planted by that book. I was talking about this with a friend recently—how strange it is that a book written nearly a century ago can still influence the way we think about money today. Then the algorithm recommended a video titled something like “The Richest Man in Babylon Never Heard of Bitcoin.” It made me wonder whether the connection is deeper than it first appears. The book repeatedly emphasizes saving, protecting purchasing power, and thinking in decades rather than months. Bitcoin obviously didn’t exist when it was written, but some of the underlying principles feel surprisingly compatible. Curious if anyone else sees a connection between The Richest Man in Babylon and Bitcoin.
 
-9h ago
+12h ago
 
 ---
 
 **[Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1u5zldd/study_bitcoin/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ Years ago when I first read The Richest Man in Babylon, a lot of my thinking abo
 
 Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
-5h ago
+8h ago
 
 ---
 
@@ -157,9 +157,9 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Climbs to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
+**[Bitcoin Rallies to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
 
-Bloomberg.com • 2h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -167,13 +167,15 @@ Bloomberg.com • 2h ago
 
 (Bloomberg) -- Bitcoin climbed to its highest level in nearly two weeks after the US and Iran said they had reached an agreement to end hostilities and reopen the Strait of Hormuz.Most Read from BloombergIran’s Deputy Foreign Minister Confirms Deal Reached With USUS and Iran Agree to Halt War, Restart Middle East Oil ShipmentsIran Signals No Deal Will Be Signed by Trump’s Sunday TimelineStocks Climb as US-Iran Deal Spurs Slide in Oil: Markets WrapWhy Musk Raced to Take SpaceX Public in the World
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin Jumps to Nearly $67,000 After U.S.-Iran Deal](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-15-2026/card/bitcoin-rises-to-nearly-66-000-after-u-s-iran-deal-7IPtBFXz1Wws0pkeCsik)**
+**[Live updates: Bitcoin traders don't expect BTC to cross $75,000 as U.S.-Iran threats remain](https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes)**
 
-WSJ • 8h ago
+Monetary policy may be back in focus, with Kevin Warsh's first policy meeting as Fed chairman coming this week.
+
+CoinDesk • 14h ago
 
 ---
 
@@ -181,15 +183,23 @@ WSJ • 8h ago
 
 With an OCC federal bank charter, Prime trading, staking from cold storage, and stablecoin services, BitGo is making digital assets feel as safe as traditional banking for funds, ETFs, and high-net-worth clients.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Why Bitcoin Was Bumping Higher on Monday](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-bumping-higher-monday-224826350.html)**
+**[Wall Street veteran sends blunt message on Bitcoin](https://sg.finance.yahoo.com/news/wall-street-veteran-sends-blunt-004301780.html)**
 
-The apparent U.S.-Iran framework document to end the war lit a fire under relatively high-risk investments.
+We are close to clocking eight months since we last saw Bitcoin (BTC) trade near its all-time high (ATH) of $126,000. Ever since the Oct. 10 slide last year, we have seen Bitcoin struggling to break past $70,000 and maintain the momentum. In fact, at the time of writing, Bitcoin was ...
 
-Yahoo Finance • 15m ago
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[Bitcoin Has Gained at Every FIFA World Cup: Will the 2030 Cycle Hold?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-gained-every-fifa-world-013000074.html)**
+
+Bitcoin has gained at every FIFA World Cup since 2010. With BTC near $65,700 in 2026, does the pattern hold through 2030?
+
+Yahoo Finance • 37m ago
 
 ---
 
@@ -201,33 +211,25 @@ Forbes • 1d ago
 
 ---
 
+**[Looking beyond bitcoin: The next frontier for crypto ETFs](https://www.cnbc.com/video/2026/06/15/looking-beyond-bitcoin-the-next-frontier-for-crypto-etfs.html)**
+
+If this latest bitcoin rally continues, experts say that could also give smaller crypto assets a boost. TMX VettaFi head of research and editorial Todd Rosenbluth and CoinDesk president of indices and data David LaValle join Dominic Chu on CNBC’s “ETF Edge” to discuss evolution in the industry.
+
+CNBC • 4h ago
+
+---
+
 **[Bitcoin vs. gold: What investors should consider](https://www.foxbusiness.com/video/6398485017112)**
 
 'The Claman Countdown' panelists Anthony Pompliano and Peter Schiff discuss what investors should focus on.
 
-Fox Business • 1h ago
+Fox Business • 4h ago
 
 ---
 
 **[Did Bitcoin Find Its Bottom? Or Is This Rebound A Dead Cat Bounce?](https://www.investors.com/news/bitcoin-price-rebound-cryptocurrency-stocks-iran-us-oil-prices-bottom-dead-cat-bounce/)**
 
-Investor's Business Daily • 2h ago
-
----
-
-**[Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-much-higher-2030-121215313.html)**
-
-Brian Armstrong remains strongly bullish on Bitcoin long-term. Many industry leaders see Bitcoin reaching $1 million or more. Analyst Benjamin Cowen warns that more downside ...
-
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin Bulls Get A Boost From Coinbase's Armstrong – But BOJ Move Could Test The Rally](https://www.tradingview.com/news/stocktwits:9f0bca5bb094b:0-bitcoin-bulls-get-a-boost-from-coinbase-s-armstrong-but-boj-move-could-test-the-rally/)**
-
-Bitcoin (BTC) has likely bottomed, said Coinbase Global Inc. (COIN) Chief Executive Officer Brian Armstrong, even as traders are bracing for a Bank of Japan (BOJ) rate decision that could affect crypto markets this week.Armstrong said in an interview on Friday that his "instinct is we probably have…
-
-TradingView • 13h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -255,7 +257,15 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 3 • 💬 0 • 18h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+⬆️ 3 • 💬 0 • 21h ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+
+---
+
+**[OrangeCheck, sybil resistance from a Bitcoin signature](https://news.ycombinator.com/item?id=48549300)**
+
+The Bitcoin address you already control is your account. Sign one message to prove it — BIP-322, never a transaction. Six open protocols, three products, one identity. No custody, no token, no issuer. Every artifact verifies offline, forever.
+
+⬆️ 1 • 💬 0 • 54m ago • [OrangeCheck](https://ochk.io/)
 
 ---
 
@@ -285,7 +295,7 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 Queries own the reads the way commands own the writes, and a T::Struct is the only thing that crosses between them. Every read here ran against ActiveRecord 8.1 before it went in.
 
-⬆️ 3 • 💬 0 • 12h ago • [baweaver](https://baweaver.com/writing/2026/06/14/rails-sharp-parts-queries-read-models-and-batching/)
+⬆️ 3 • 💬 0 • 15h ago • [baweaver](https://baweaver.com/writing/2026/06/14/rails-sharp-parts-queries-read-models-and-batching/)
 
 ---
 
@@ -293,23 +303,13 @@ Queries own the reads the way commands own the writes, and a T::Struct is the on
 
 ## YouTube Videos: "bitcoin"
 
-**[$10M Bitcoin Soon - They Finally Said It](https://www.youtube.com/watch?v=DARb35g0_aw)**
+**[Something BIG Is Happening With Bitcoin Right Now](https://www.youtube.com/watch?v=kM8Qv_eNNVA)**
 
-Subscribe. Before $10 million stops sounding crazy. Senator Cynthia Lummis just said the quiet part out loud: Bitcoin is headed to ...
+Crypto Investors Need To Watch IMMEDIATELY!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Bitcoin News Alerts
+📺 Altcoin Daily
 
-👁️ 5K • 👍 291 • 💬 101 • ⏱️ 15:19 • 1d ago
-
----
-
-**[Bitcoin Investors...The War is Finally Over](https://www.youtube.com/watch?v=_Owt9X5i_Qw)**
-
-AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 1K • 💬 158 • ⏱️ 9:43 • 22h ago
+👁️ 11K • 👍 1K • 💬 77 • ⏱️ 9:14 • 3h ago
 
 ---
 
@@ -319,7 +319,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 812 • 💬 172 • ⏱️ 54:21 • 8h ago
+👁️ 14K • 👍 835 • 💬 210 • ⏱️ 54:21 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 52K • 👍 3K • 💬 311 • ⏱️ 13:52 • 11h ago
+👁️ 57K • 👍 4K • 💬 357 • ⏱️ 13:52 • 14h ago
 
 ---
 
@@ -339,17 +339,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus Ledn Bitco
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 289 • 💬 101 • ⏱️ 5:47 • 18h ago
-
----
-
-**[Elon Musk’s SpaceX Is Coming For Your Bitcoin. Here&#39;s the Mechanism.](https://www.youtube.com/watch?v=buiJPqv7TZc)**
-
-Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 101 • ⏱️ 8:42 • 2d ago
+👁️ 5K • 👍 294 • 💬 148 • ⏱️ 5:47 • 21h ago
 
 ---
 
@@ -359,27 +349,27 @@ Bitcoin is up. But the most important Bitcoin story has nothing to do with price
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 301 • 💬 23 • ⏱️ 14:53 • 6h ago
+👁️ 6K • 👍 336 • 💬 38 • ⏱️ 14:53 • 9h ago
 
 ---
 
-**[Bitcoin BREAKOUT But We&#39;re Not Safe Yet (Watch This Level!)](https://www.youtube.com/watch?v=3n2YV8S3tqQ)**
+**[Bitcoin Investors...The War is Finally Over](https://www.youtube.com/watch?v=_Owt9X5i_Qw)**
 
-Bitcoin Breakout! BTC is showing strength, but the market isn't out of danger yet. In this video, Sheldon breaks down the key levels ...
+AskClash *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 7K • 👍 412 • 💬 55 • ⏱️ 19:55 • 13h ago
+👁️ 17K • 👍 1K • 💬 321 • ⏱️ 9:43 • 1d ago
 
 ---
 
-**[Bitcoin Holders: It’s Over](https://www.youtube.com/watch?v=HpJNpDrOW1U)**
+**[Bitcoin Is About To Make Everyone Look Stupid | Joe Consorti](https://www.youtube.com/watch?v=USS1sWjINUU)**
 
-Bitcoin, Trump, and the market bottom! Stocks pumping again BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Cryptomanran sits down with Joe Consorti to dissect the real reasons behind Michael Saylor's recent Bitcoin moves and why the ...
 
-📺 Lark Davis
+📺 Crypto Insider
 
-👁️ 17K • 👍 708 • 💬 71 • ⏱️ 14:19 • 11h ago
+👁️ 44K • 👍 2K • 💬 70 • ⏱️ 55:10 • 2d ago
 
 ---
 
@@ -389,7 +379,27 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 15K • 👍 754 • 💬 188 • ⏱️ 11:00 • 2d ago
+👁️ 15K • 👍 756 • 💬 188 • ⏱️ 11:00 • 2d ago
+
+---
+
+**[$10M Bitcoin Soon - They Finally Said It](https://www.youtube.com/watch?v=DARb35g0_aw)**
+
+Subscribe. Before $10 million stops sounding crazy. Senator Cynthia Lummis just said the quiet part out loud: Bitcoin is headed to ...
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 293 • 💬 94 • ⏱️ 15:19 • 1d ago
+
+---
+
+**[🚨 BITCOIN!!! RAISE THE ALARM!!!! IT’S TIME?!!!](https://www.youtube.com/watch?v=646PQ706T-k)**
+
+Bitcoin could be giving us a massive clue! Bear market ending soon? Or another #BTC trap?
+
+📺 Crypto Zombie
+
+👁️ 847 • 👍 40 • 💬 6 • ⏱️ 0:59 • 5h ago
 
 ---
 

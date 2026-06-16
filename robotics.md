@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-15T23:03:39.745459+00:00'
+updated: '2026-06-16T02:07:15.634370+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 15, 2026 at 23:03 UTC  
+**Last Updated:** June 16, 2026 at 02:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,15 +110,23 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-Business Insider • 14h ago
+Business Insider • 17h ago
 
 ---
 
-**[Autonomous Ukrainian Drone Secretly Slaughtered Russian Soldiers, Insider Says](https://futurism.com/robots-and-machines/autonomous-robot-killed-human-soldiers-ukraine)**
+**[Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/)**
 
-A senior Ukranian drone producer claims that the first fully-autonomous drone kill happened two years ago on the Ukranian frontlines.
+Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it to generate actions from visual…
 
-Futurism • 2d ago
+NVIDIA Developer • 13h ago
+
+---
+
+**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
+
+Lighter and more affordable devices give users a battery-powered spring in their step
+
+Financial Times • 14h ago
 
 ---
 
@@ -126,7 +134,7 @@ Futurism • 2d ago
 
 In tests, AI robot systems easily rejected directly malicious commands. But their safety filters collapsed when creative writing was used to instruct them.
 
-The Conversation • 7h ago
+The Conversation • 10h ago
 
 ---
 
@@ -142,13 +150,7 @@ CBS News • 1d ago
 
 Seres showed off a humanoid robot called Xiaosai, saying more embodied intelligence products are in the pipeline.
 
-CnEVPost • 13h ago
-
----
-
-**[Me and my exoskeleton: the rise of wearable robotics](https://news.google.com/rss/articles/CBMicEFVX3lxTE40QWhFZUdPMExkbkZZTDJIQmRwMl83MUpuelBaSTJlODZ3cHA1bk10a2wyYVFDaGJKLUN1a0tIOGNPQm00U1M4Z3d3eGxsWTc2VVQzaEdybEpHaTN4VXZDUF9GV2gza1NzdjZRd3E2NUg?oc=5)**
-
-Financial Times • 10h ago
+CnEVPost • 16h ago
 
 ---
 
@@ -160,6 +162,20 @@ CNBC • 2d ago
 
 ---
 
+**[Matic Reimagines the Robot Vacuum Through Vision-Based Home Robotics](https://stupiddope.com/2026/06/matic-reimagines-the-robot-vacuum-through-vision-based-home-robotics/)**
+
+stupidDOPE • 12h ago
+
+---
+
+**[Autonomous Robots Confirmed to Have Killed Human Soldiers](https://www.yahoo.com/news/world/articles/autonomous-robots-confirmed-killed-human-151500034.html)**
+
+"We just launch it and we know everything will be dead — everything that will be found there in this particular area will be dead."
+
+Yahoo • 2d ago
+
+---
+
 **[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
 
 As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
@@ -168,33 +184,9 @@ The Guardian • 1d ago
 
 ---
 
-**[Matic Reimagines the Robot Vacuum Through Vision-Based Home Robotics](https://stupiddope.com/2026/06/matic-reimagines-the-robot-vacuum-through-vision-based-home-robotics/)**
-
-stupidDOPE • 9h ago
-
----
-
-**[Why robots are now sent to school in China—and what they’re learning will shock you](https://www.futura-sciences.com/en/why-robots-are-now-sent-to-school-in-china-and-what-theyre-learning-will-shock-you_33125/)**
-
-Not Your Typical School: Where Robots Sharpen Their Skills In China, humanoid robots now have a school of their own. In Shanghai, at an institute built around diversity, they’re busy perfecting their gestures to serve in a range of domestic and industrial sectors. But make no mistake, this school is...
-
-Futura, le média qui explore le monde • 9h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
-
-China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
-
-📺 Kalil 4.0
-
-👁️ 15K • 👍 293 • 💬 105 • ⏱️ 8:49 • 2d ago
-
----
 
 **[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
 
@@ -202,27 +194,27 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 90K • 👍 5K • 💬 515 • ⏱️ 2:57 • 2d ago
+👁️ 95K • 👍 6K • 💬 547 • ⏱️ 2:57 • 2d ago
 
 ---
 
-**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
+**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
 
-What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
+China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
 
-📺 Top Talent
+📺 Kalil 4.0
 
-👁️ 144K • 👍 2K • 💬 182 • ⏱️ 6:09 • 6d ago
+👁️ 15K • 👍 297 • 💬 108 • ⏱️ 8:49 • 2d ago
 
 ---
 
-**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
+**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
 
-MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
+This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
 
-📺 Make Dream Come True 
+📺 Over Engineer
 
-👁️ 211K • 👍 1K • 💬 6 • ⏱️ 0:10 • 3d ago
+👁️ 26K • 👍 2K • 💬 169 • ⏱️ 6:05 • 3d ago
 
 ---
 
@@ -236,43 +228,13 @@ ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
 ---
 
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
+**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
 
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
+What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
 
-📺 Over Engineer
+📺 Top Talent
 
-👁️ 23K • 👍 2K • 💬 164 • ⏱️ 6:05 • 3d ago
-
----
-
-**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
-
-At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
-
-📺 Machines In Action
-
-👁️ 37K • 👍 343 • 💬 18 • ⏱️ 0:15 • 1d ago
-
----
-
-**[Putin’s Reaction to a Dancing Humanoid Robot 🤖😲 #putin #humanoidrobot](https://www.youtube.com/watch?v=16jkjqO4oos)**
-
-When humanoid robot "Green" started dancing, all eyes turned to Vladimir Putin's reaction. The advanced robot showed off its ...
-
-📺 Putinify
-
-👁️ 43K • 👍 1K • 💬 54 • ⏱️ 0:32 • 5d ago
-
----
-
-**[Sofia Vergara Couldn&#39;t Believe These Were Robots! | AGT 2026 [4K]](https://www.youtube.com/watch?v=5zf7eo7gfZ0)**
-
-Unitree brought the future to the AGT 2026 stage with a performance that left the judges stunned. What started as a robot ...
-
-📺 Talent Replay
-
-👁️ 76K • 👍 823 • 💬 84 • ⏱️ 5:50 • 6d ago
+👁️ 146K • 👍 2K • 💬 184 • ⏱️ 6:09 • 6d ago
 
 ---
 
@@ -282,7 +244,47 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 📺 Jason Lowe on AI
 
-👁️ 10K • 👍 880 • 💬 32 • ⏱️ 2:31 • 1d ago
+👁️ 11K • 👍 942 • 💬 32 • ⏱️ 2:31 • 1d ago
+
+---
+
+**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
+
+MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
+
+📺 Make Dream Come True 
+
+👁️ 212K • 👍 1K • 💬 6 • ⏱️ 0:10 • 3d ago
+
+---
+
+**[How to Get Pins off of the Ground #override #robot #robotics #vrc #vexrobotics #vexrobot #recf #vex](https://www.youtube.com/watch?v=-Xmg_XJFZLI)**
+
+Check out the full reveal video here: https://youtu.be/A1HNvKIgnXQ?si=03z-tdt5Sbmj8veo Check out the full explanation video ...
+
+📺 9MotorGang
+
+👁️ 479 • 👍 23 • ⏱️ 2:00 • 4h ago
+
+---
+
+**[The Robot More Precise Than Any Surgeon 🦾](https://www.youtube.com/watch?v=Nnjub0UQA4U)**
+
+A surgical robot operating on the human spine with sub-millimeter precision. FDA cleared. Already in use in real hospitals.
+
+📺 KF Labs
+
+👁️ 20K • 👍 480 • 💬 8 • ⏱️ 0:05 • 1d ago
+
+---
+
+**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
+
+At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
+
+📺 Machines In Action
+
+👁️ 38K • 👍 351 • 💬 18 • ⏱️ 0:15 • 1d ago
 
 ---
 
