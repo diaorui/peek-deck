@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-16T13:12:52.248114+00:00'
+updated: '2026-06-16T18:15:57.261067+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 16, 2026 at 13:12 UTC  
+**Last Updated:** June 16, 2026 at 18:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,794.24
+### $1,777.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** +10.7%  
-**30d:** -15.8%  
-**90d:** -16.1%  
-**1y:** -28.7%  
+**24h:** -0.9%  
+**7d:** +11.3%  
+**30d:** -15.3%  
+**90d:** -15.6%  
+**1y:** -28.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $218.06B
+**Market Cap:** $217.52B
 Rank #2
 
 **Circulating Supply:** 120,684,109 ETH
@@ -62,7 +62,7 @@ No max supply
 -63.6%
 
 **All-Time Low:** $0.43
-+415827.8%
++416146.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in your browser.
 
-🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 16h ago
+🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 21h ago
 
 ---
 
@@ -94,7 +94,7 @@ Most onchain derivatives today are still centered around crypto assets. There is
 
 **[How to get historical transactions from V2 on Ethereum Mainnet](https://www.reddit.com/r/ethereum/comments/1u6muse/how_to_get_historical_transactions_from_v2_on/)**
 
-19h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Most onchain derivatives today are still centered around crypto assets. There is
 
 Will this EIP compete with or complement mixers? Thanks.
 
-19h ago
+1d ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 LG Electronics built L2 for advertising, Aave risk framework proposed, history of account abstraction
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 4d ago
 
 ---
 
@@ -148,11 +148,11 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 ## Google News: "ethereum"
 
-**[Bitmine Buys Another $136 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-136-million-184200466.html)**
+**[BitMine Nears 5% Of All Ethereum As Tom Lee Keeps Buying — ETH Hits One-Week High](https://finance.yahoo.com/markets/crypto/articles/bitmine-nears-5-ethereum-tom-164133696.html)**
 
-Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) bought another $136 million U.S. of Ethereum (CRY...
+Bankless Co-founder David Hoffman questioned where the next major source of ETH buying would come from after Bitmine’s rapid buildup.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -164,23 +164,15 @@ Scott Melker discusses Bitmine's (BMNR) current ethereum (ETH-USD) strategy, Str
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, June 16, 2026: Highest opening values in two weeks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-june-16-2026-highest-opening-values-in-two-weeks-113313567.html)**
+**[Ethereum’s biggest protocol overhaul in years moves into its final development stage](https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage)**
 
-These are today's bitcoin and ethereum prices, Tuesday, June 16, 2026. Bitcoin opened at $66,287.48 and was trading at $66,433.15 at 7:30 a.m. ET. Ethereum opened at $1,794.94 and was trading at $1,791.95 at 7:30 a.m. ET.
+Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Exclusive: Sharplink CEO Says Ethereum's Quantum And Cultural Edge Over Bitcoin Is The Moat Rivals 'Cannot Fork'](https://finance.yahoo.com/markets/crypto/articles/exclusive-sharplink-ceo-says-ethereums-122153104.html)**
-
-Sharplink CEO Chalom explained that Ethereum's edge is cultural and can't be copied.
-
-Yahoo Finance • 50m ago
+CoinDesk • 3h ago
 
 ---
 
@@ -188,7 +180,15 @@ Yahoo Finance • 50m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 27m ago
+Fortune • 5h ago
+
+---
+
+**[Crypto Today: Bitcoin extends recovery above $66K as Ethereum and XRP lose momentum](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-extends-recovery-above-66k-as-ethereum-and-xrp-lose-momentum-202606161200)**
+
+Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
+
+FXStreet • 6h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 27m ago
 
 A new Ethereum Research proposal is putting post-quantum wallet security back in focus, outlining a practical way to verify quantum-resistant signatures on the EVM without requiring a full protocol-level upgrade.The proposal, published by Ethereum researcher nicocsgy, explores an EVM-optimized vers…
 
-TradingView • 11h ago
+TradingView • 16h ago
 
 ---
 
@@ -204,31 +204,29 @@ TradingView • 11h ago
 
 It can often be smart to buy when it feels like the worst idea.
 
-The Motley Fool • 17h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates gains, ETH defends support, XRP nears breakout trigger](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-gains-eth-defends-support-xrp-nears-breakout-trigger-202606150319)**
+**[Ethereum’s 33% Staking Ratio Strengthens the Bullish Supply Shock Thesis](https://www.investing.com/analysis/ethereums-33-staking-ratio-strengthens-the-bullish-supply-shock-thesis-200682258)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note as the top three cryptocurrencies attempt to extend rebounds after recovering nearly 4%, 2% and 2.6%, respectively.
-
-FXStreet • 1d ago
+Investing.com • 3h ago
 
 ---
 
-**[New Crypto: Pepeto Confirms DeFi Progress Following Shiba Inu Success While Tom Lee's Ethereum Price Prediction Targets $12,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-confirms-defi-progress-following-shiba-inu-success-while-tom-lee-s-ethereum-price-prediction-targets-12-000-1036251653)**
+**[Ethereum, Solana, XRP spot ETFs see inflows as Bitcoin ETFs face $64M outflows](https://cryptobriefing.com/ethereum-solana-xrp-spot-etfs-see-inflows-as-bitcoin-etfs-face-64m-outflows/)**
 
-DUBAI, United Arab Emirates, June  16, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms steady progress on its DeFi tools, buil...
+Ethereum, Solana, and XRP spot ETFs see inflows while Bitcoin ETFs face $64M outflows. Ethereum above $1100 on June 16, 2026 at 99.9% YES.
 
-markets.businessinsider.com • 8h ago
+Crypto Briefing • 4h ago
 
 ---
 
-**[Ethereum’s staking ratio reaches all-time high of 33%](https://cryptobriefing.com/ethereum-staking-ratio-all-time-high/)**
+**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
 
-Ethereum's staking ratio hits an all-time high of 32.7%, with roughly 39.5 million ETH locked up, squeezing circulating supply as validator rewards
+XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
 
-Crypto Briefing • 8h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -236,13 +234,23 @@ Crypto Briefing • 8h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
 
-📺 Savvy Finance
+📺 CoinDesk
 
-👁️ 4K • 👍 164 • 💬 46 • ⏱️ 15:17 • 19h ago
+👁️ 27K • 👍 763 • 💬 84 • ⏱️ 20:10 • 2d ago
+
+---
+
+**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 342 • 👍 42 • ⏱️ 19:50 • 1h ago
 
 ---
 
@@ -252,17 +260,7 @@ Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a
 
 📺 Lark Davis
 
-👁️ 2K • 👍 62 • 💬 18 • ⏱️ 0:44 • 9h ago
-
----
-
-**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
-
-Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
-
-📺 CoinDesk
-
-👁️ 26K • 👍 744 • 💬 80 • ⏱️ 20:10 • 1d ago
+👁️ 4K • 👍 82 • 💬 5 • ⏱️ 0:44 • 14h ago
 
 ---
 
@@ -272,17 +270,17 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 123 • ⏱️ 8:35 • 1d ago
+👁️ 14K • 👍 2K • 💬 124 • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
 
-ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Dana Love, PhD
+📺 Savvy Finance
 
-👁️ 9K • 👍 546 • 💬 143 • ⏱️ 13:29 • 15h ago
+👁️ 4K • 👍 170 • 💬 46 • ⏱️ 15:17 • 1d ago
 
 ---
 
@@ -292,27 +290,17 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 420 • 👍 13 • 💬 105 • ⏱️ 4:33 • 17h ago
+👁️ 561 • 👍 14 • 💬 105 • ⏱️ 4:33 • 22h ago
 
 ---
 
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
 
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
 
-📺 Gareth Soloway
+📺 Dana Love, PhD
 
-👁️ 66K • 👍 4K • 💬 344 • ⏱️ 13:52 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2Qn-16bGCOM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 156 • 👍 19 • ⏱️ 7:50 • 47m ago
+👁️ 11K • 👍 598 • 💬 152 • ⏱️ 13:29 • 20h ago
 
 ---
 
@@ -322,17 +310,27 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 181 • 💬 7 • ⏱️ 17:33 • 20h ago
+👁️ 6K • 👍 188 • 💬 9 • ⏱️ 17:33 • 1d ago
 
 ---
 
-**[Bitcoin Pumping Before FOMC… But Ethereum Could Explode Next. $6000  By EOY ? BTC/ETH/ALTS](https://www.youtube.com/watch?v=nimcfuYl9Kk)**
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
 
-Bitcoin Pumping Before FOMC… But Ethereum Could Be The Bigger Opportunity Join my VIP Crypto Trading Group ...
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
 
-📺 Andrea Cap  | FTA Crypto
+📺 Gareth Soloway
 
-👁️ 146 • 👍 15 • 💬 4 • ⏱️ 12:48 • 6h ago
+👁️ 68K • 👍 4K • 💬 344 • ⏱️ 13:52 • 1d ago
+
+---
+
+**[XRP Still Needs This While Bitcoin Price Chart, Ethereum &amp; Total Market Cap Hit Historic Bottom Mark](https://www.youtube.com/watch?v=Cw2rTKbeT2s)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 10K • 👍 2K • 💬 3 • ⏱️ 23:56 • 4h ago
 
 ---
 

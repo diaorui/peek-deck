@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-16T13:12:52.242119+00:00'
+updated: '2026-06-16T18:15:57.255762+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 16, 2026 at 13:12 UTC  
+**Last Updated:** June 16, 2026 at 18:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,141.21
+### $65,875.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +7.3%  
+**24h:** -0.7%  
+**7d:** +7.5%  
 **30d:** -14.2%  
-**90d:** -5.6%  
-**1y:** -36.9%  
+**90d:** -5.5%  
+**1y:** -36.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1328.63B
+**Market Cap:** $1321.21B
 Rank #1
 
-**Circulating Supply:** 20,043,537 BTC
+**Circulating Supply:** 20,043,646 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -47.6%
 
 **All-Time Low:** $67.81
-+97373.8%
++97304.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislator presented a Bitcoin Policy Institute report advocating diversification of
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 17h ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 22h ago
 
 ---
 
 **[Strategy Bought 1,587 BTC & Increases USD Reserve To $1.1 Billion.](https://www.reddit.com/r/Bitcoin/comments/1u6hxal/strategy_bought_1587_btc_increases_usd_reserve_to/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -95,7 +95,7 @@ Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislato
 
 AI posts are getting a lot of traction on this sub: "Today I found 1 BTC" - guy claims he forgot his seed phrase but somehow remembered the order because "there was a method to my madness" lol. 3k upvotes Multiple "I built a website/app" - Both the posts and the websites are AI-generated. "Laid asphalt for ten years. Never got ahead. Then I started mining Bitcoin and figured out why." Somehow this guy got caught, but it was obvious from the fact that he got into bitcoin in 2022 and says he was mining with GPU's which was pointless.
 
-21h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 15h ago
+🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/MHAKbtG9A2k) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/MHAKbtG9A2k) • 1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Elon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX o
 
 Years ago when I first read The Richest Man in Babylon, a lot of my thinking about money, wealth, saving, and long-term value started to take shape. Looking back, I think many of the ideas that eventually led me to understand Bitcoin were planted by that book. I was talking about this with a friend recently—how strange it is that a book written nearly a century ago can still influence the way we think about money today. Then the algorithm recommended a video titled something like “The Richest Man in Babylon Never Heard of Bitcoin.” It made me wonder whether the connection is deeper than it first appears. The book repeatedly emphasizes saving, protecting purchasing power, and thinking in decades rather than months. Bitcoin obviously didn’t exist when it was written, but some of the underlying principles feel surprisingly compatible. Curious if anyone else sees a connection between The Richest Man in Babylon and Bitcoin.
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ Years ago when I first read The Richest Man in Babylon, a lot of my thinking abo
 
 Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
-19h ago
+1d ago
 
 ---
 
@@ -157,31 +157,27 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin traders don't expect BTC to cross $75,000 as U.S.-Iran threats remain](https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes)**
+**[BlackRock launches new Bitcoin ETF that generates income using a covered call strategy](https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq)**
 
-Monetary policy may be back in focus, with Kevin Warsh's first policy meeting as Fed chairman coming this week.
+BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026](https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026)**
-
-The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices.
-
-The Block • 1d ago
+The Block • 6h ago
 
 ---
 
-**[How the bitcoin, ethereum playbook is evolving for Strategy and Bitmine](https://finance.yahoo.com/video/bitcoin-ethereum-playbook-evolving-strategy-120000578.html)**
+**[BlackRock launches bitcoin income fund as investors seek cash flow from crypto](https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure)**
 
-Scott Melker discusses Bitmine's (BMNR) current ethereum (ETH-USD) strategy, Strategy's (MSTR) bitcoin (BTC-USD) play, and more.
+After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+CoinDesk • 6h ago
 
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+---
 
-Yahoo Finance • 1h ago
+**[BlackRock's new Bitcoin ETF pays monthly income](https://finance.yahoo.com/video/blackrocks-bitcoin-etf-pays-monthly-173024318.html)**
+
+BlackRock's Bitcoin Premium Income Fund, ticker BITA, begins trading today, holding spot bitcoin and IBIT shares while selling call options to generate monthly income. CoinDesk's Uyen Truong hosts "CoinDesk Daily."
+
+Yahoo Finance • 45m ago
 
 ---
 
@@ -189,15 +185,23 @@ Yahoo Finance • 1h ago
 
 Glassnode data shows broad-based buying across retail and whale cohorts, with the Accumulation Trend Score reaching its strongest level of the current drawdown.
 
-CoinDesk • 2h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing](https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing)**
+**[Popular crypto firm reportedly makes big return to Bitcoin](https://sg.finance.yahoo.com/news/popular-crypto-firm-reportedly-makes-175115285.html)**
 
-Stellar’s XLM, Injective’s INJ and Uniswap’s UNI ranked among the best performers in the 100 biggest cryptocurrencies by market capitalization.
+MARA Holdings (Nasdaq: MARA) is one of the leading crypto companies and the world's largest publicly listed Bitcoin (BTC) miner. It is also one of the largest holders of Bitcoin. Bitcoin mining is the process of using specialized computing systems to solve cryptographic functions to ...
 
-CoinDesk • 2h ago
+Yahoo Finance Singapore • 24m ago
+
+---
+
+**[Binance Founder CZ Says Bitcoin 'Super Cycle' May Be Delayed, But 'Will Come'](https://finance.yahoo.com/markets/crypto/articles/binance-founder-cz-says-bitcoin-163035916.html)**
+
+Binance co-founder Changpeng "CZ" Zhao said on Sunday that the anticipated Bitcoin super cycle may be delayed, playfully admitting that he can't nail every prediction. ‘Super Cycle Will Come’ CZ posted on X a clip from his recent interview with...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,7 +209,7 @@ CoinDesk • 2h ago
 
 The trouble with seeing the future is that we often think it’s a lot closer than it really is. Bitcoin is proving my predictions spot on, but it’s taking its time.
 
-Forbes • 20h ago
+Forbes • 1d ago
 
 ---
 
@@ -213,27 +217,21 @@ Forbes • 20h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 14h ago
+Fortune • 23h ago
 
 ---
 
 **[Bitcoin Climbs to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Bitcoin Jumps to Nearly $67,000 After U.S.-Iran Deal](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-15-2026/card/bitcoin-rises-to-nearly-66-000-after-u-s-iran-deal-7IPtBFXz1Wws0pkeCsik)**
+**[Bitcoin is “caught between flow deterioration and macro relief”](https://sherwood.news/crypto/bitcoin-is-caught-between-flow-deterioration-and-macro-relief/)**
 
-WSJ • 1d ago
+Bitcoin is flat on Tuesday morning, hovering around $66,300, following a brief rally over the weekend on the news of a looming Iran deal. Yet,...
 
----
-
-**[Bitcoin Is Cheap, But BITU Isn't The Right Tool To Play The Rebound (NYSEARCA:BITU)](https://seekingalpha.com/article/4915290-bitcoin-is-cheap-but-bitu-isnt-the-right-tool-to-play-the-rebound)**
-
-The ProShares Ultra Bitcoin ETF is rated a Hold, given its leveraged structure and volatility decay. Click here to read this latest analysis of BITU.
-
-Seeking Alpha • 1h ago
+Sherwood News • 3h ago
 
 ---
 
@@ -245,7 +243,7 @@ Seeking Alpha • 1h ago
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 3 • 4d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+⬆️ 6 • 💬 3 • 5d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -253,7 +251,7 @@ Seeking Alpha • 1h ago
 
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
-⬆️ 6 • 💬 0 • 9h ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
+⬆️ 6 • 💬 0 • 14h ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
 
 ---
 
@@ -265,6 +263,22 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 ---
 
+**[Zitchain: Bitcoin has structural flaws. I designed an alternative](https://news.ycombinator.com/item?id=48557318)**
+
+Zitchain is the next generation cryptocurrency architecture. 100% secure, energy efficient, built for the world.
+
+⬆️ 3 • 💬 1 • 2h ago • [zitchain.com](https://zitchain.com)
+
+---
+
+**[Native Bitcoin Token Protocol](https://news.ycombinator.com/item?id=48553677)**
+
+Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
+
+⬆️ 3 • 💬 1 • 6h ago • [boltassociation.com](https://boltassociation.com/)
+
+---
+
 **[Quantum Horizon: Quantum Computing as a Threat to Bitcoin and Ethereum](https://news.ycombinator.com/item?id=48536643)**
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
@@ -273,11 +287,11 @@ Quantum computing poses a real, broad-based, but bounded and substantially mitig
 
 ---
 
-**[Native Bitcoin Token Protocol](https://news.ycombinator.com/item?id=48553677)**
+**[Show HN: Satd – a Bitcoin full node in Rust](https://news.ycombinator.com/item?id=48555262)**
 
-Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
+A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 1h ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/epochbtc/satd)
 
 ---
 
@@ -285,7 +299,15 @@ Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 nativ
 
 The Bitcoin address you already control is your account. Sign one message to prove it — BIP-322, never a transaction. Six open protocols, three products, one identity. No custody, no token, no issuer. Every artifact verifies offline, forever.
 
-⬆️ 2 • 💬 0 • 12h ago • [OrangeCheck](https://ochk.io/)
+⬆️ 2 • 💬 0 • 17h ago • [OrangeCheck](https://ochk.io/)
+
+---
+
+**[Show HN: CredScore – Deterministic wallet risk scoring, no model in the path](https://news.ycombinator.com/item?id=48558315)**
+
+CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
+
+⬆️ 1 • 💬 0 • 1h ago • [CredScore](https://www.credscore.us/)
 
 ---
 
@@ -297,25 +319,9 @@ Federal prosecutors want another chance to convict Tornado Cash developer Roman 
 
 ---
 
-**[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
-
-⬆️ 2 • 💬 0 • 4d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[Something BIG Is Happening With Bitcoin Right Now](https://www.youtube.com/watch?v=kM8Qv_eNNVA)**
-
-Crypto Investors Need To Watch IMMEDIATELY!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 132 • ⏱️ 9:14 • 14h ago
-
----
 
 **[Bitcoin Bubble Has BURST! Peter Schiff vs. Anthony Pompliano](https://www.youtube.com/watch?v=KLj05tByz5o)**
 
@@ -323,17 +329,27 @@ Peter Schiff battles Bitcoin bull Anthony Pompliano on Fox Business, arguing the
 
 📺 Peter Schiff
 
-👁️ 61K • 👍 2K • 💬 1K • ⏱️ 11:24 • 12h ago
+👁️ 74K • 👍 2K • 💬 1K • ⏱️ 11:24 • 18h ago
 
 ---
 
-**[Is Bitcoin About To Get Rejected Here?](https://www.youtube.com/watch?v=glKZ6CilVtQ)**
+**[Something BIG Is Happening With Bitcoin Right Now](https://www.youtube.com/watch?v=kM8Qv_eNNVA)**
 
-In today's video, Kyledoops outlines why the following hours will be critical for Bitcoin price. There are macro factors aligning with ...
+Crypto Investors Need To Watch IMMEDIATELY!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 9K • 👍 877 • 💬 10 • ⏱️ 33:32 • 5h ago
+👁️ 39K • 👍 2K • 💬 148 • ⏱️ 9:14 • 19h ago
+
+---
+
+**[THE NEXT BITCOIN MOVE IS OBVIOUS...](https://www.youtube.com/watch?v=URg2Qp1QDQY)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 11K • 👍 824 • 💬 64 • ⏱️ 10:09 • 12h ago
 
 ---
 
@@ -343,15 +359,17 @@ Subscribe. Before the floodgates fully open. BlackRock oversees roughly $14 tril
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 254 • 💬 273 • ⏱️ 17:40 • 14h ago
+👁️ 5K • 👍 262 • 💬 288 • ⏱️ 17:40 • 19h ago
 
 ---
 
-**[Record XRP Whale Accumulation BITCOIN Whales Return! Bull Run Starting? #xrp #crypto #bitcoin #ai](https://www.youtube.com/watch?v=45LS6Ivi1d8)**
+**[The Bull Case for Bitcoin Is Getting Stronger](https://www.youtube.com/watch?v=dN07502f6bY)**
 
-📺 CryptoWendyO
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-👁️ 7K • 👍 517 • 💬 38 • ⏱️ 2:16 • 12h ago
+📺 CryptosRUs
+
+👁️ 8K • 👍 590 • 💬 97 • ⏱️ 54:09 • 3h ago
 
 ---
 
@@ -361,15 +379,27 @@ No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 66K • 👍 4K • 💬 344 • ⏱️ 13:52 • 1d ago
+👁️ 68K • 👍 4K • 💬 344 • ⏱️ 13:52 • 1d ago
 
 ---
 
-**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=_SQIIkBcXG8)**
+**[Bitcoin The Trend Is Your Friend…](https://www.youtube.com/watch?v=PtF4vje3agQ)**
 
-📺 Khuncoin
+SpaceX, Bitcoin, Ethereum, and stocks updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-👁️ 11K • 👍 297 • 💬 11 • ⏱️ 0:27 • 1d ago
+📺 Lark Davis
+
+👁️ 7K • 👍 420 • 💬 39 • ⏱️ 15:23 • 6h ago
+
+---
+
+**[Bitcoin &amp; Altcoin Charts Look Terrible. Here&#39;s Why That&#39;s Bullish! (Wait For It...)](https://www.youtube.com/watch?v=JJtpQxfpsEw)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
+
+📺 Crypto Capital Venture
+
+👁️ 2K • 👍 242 • 💬 155 • ⏱️ 10:54 • 2h ago
 
 ---
 
@@ -379,15 +409,7 @@ Bitcoin finally made significant move thanks to the Ceasefire news. Ran breaks d
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 31 • ⏱️ 32:01 • 23h ago
-
----
-
-**[crypto futures trading #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=D5VHiV1B4ec)**
-
-📺 Khuncoin
-
-👁️ 30K • 👍 517 • 💬 9 • ⏱️ 0:23 • 1d ago
+👁️ 19K • 👍 1K • 💬 31 • ⏱️ 32:01 • 1d ago
 
 ---
 
@@ -397,7 +419,7 @@ AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askcla
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 849 • 💬 199 • ⏱️ 54:21 • 22h ago
+👁️ 15K • 👍 851 • 💬 245 • ⏱️ 54:21 • 1d ago
 
 ---
 
