@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-16T18:15:57.263916+00:00'
+updated: '2026-06-16T21:25:55.302913+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 16, 2026 at 18:15 UTC  
+**Last Updated:** June 16, 2026 at 21:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,14 +106,6 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Meet the 22 Investors to Know in Robotics and Physical AI](https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6)**
-
-Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
-
-Business Insider • 1d ago
-
----
-
 **[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
 
 Lighter and more affordable devices give users a battery-powered spring in their step
@@ -122,19 +114,11 @@ Financial Times • 1d ago
 
 ---
 
-**[News: ABB Robotics and PSYONIC to revolutionize grasping and dexterity](https://www.automate.org/robotics/news/abb-robotics-and-psyonic-use-human-generated-data-to-advance-robotic-dexterity)**
+**[Meet the 22 Investors to Know in Robotics and Physical AI](https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6)**
 
-ABB Robotics is collaborating with California bionics company, PSYONIC, to advance robotic gripping and dexterity using a new approach that utilizes real-world manipulation data from human prosthetic use.
+Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-A3 Association for Advancing Automation • 54m ago
-
----
-
-**[ABB Robotics LLC News](https://www.automate.org/robotics/news/abb-robotics-delivers-new-industry-ready-physical-ai-at-automate-2026-abb)**
-
-ABB Robotics is one of the world’s leading robotics companies, and the only company with a comprehensive and integrated AI-powered portfolio covering robots, cobots and Autonomous Mobile Robots (AMRs), designed and orchestrated by our value-creating softw
-
-A3 Association for Advancing Automation • 1h ago
+Business Insider • 1d ago
 
 ---
 
@@ -142,13 +126,7 @@ A3 Association for Advancing Automation • 1h ago
 
 Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
 
-Yahoo Finance • 8h ago
-
----
-
-**[French startup bets on non-humanoid design in crowded AI robot race](https://www.reuters.com/business/french-startup-bets-non-humanoid-design-crowded-ai-robot-race-2026-06-16/)**
-
-Reuters • 1h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -160,11 +138,15 @@ The Conversation • 1d ago
 
 ---
 
-**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-06-14/)**
+**[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+Reuters • 16h ago
 
-CBS News • 1d ago
+---
+
+**[French startup bets on non-humanoid design in crowded AI robot race](https://www.reuters.com/business/french-startup-bets-non-humanoid-design-crowded-ai-robot-race-2026-06-16/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -182,19 +164,25 @@ stupidDOPE • 1d ago
 
 ---
 
+**[A robotic hand ‘talks’ to deaf and blind people. Here’s how it works.](https://www.bostonglobe.com/2026/06/16/business/tatum-robot-asl-sign-language/)**
+
+Tatum1 uses gestures and touch to speak to people who can neither see nor hear.
+
+The Boston Globe • 13h ago
+
+---
+
+**[Robotic weld prep helps Laser Photonics enter data center supply chain](https://www.stocktitan.net/news/LASE/laser-photonics-enters-data-center-supply-chain-with-delivery-of-sds3h29ua9fx.html)**
+
+Programmable robotic laser cell valued at $0.8M automates pre-weld cleaning for Vander-Bend and marks Laser Photonics' entry into data center infrastructure.
+
+Stock Titan • 8h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China&#39;s New $1,000 AI Humanoid Robots Are Taking Over the US Market](https://www.youtube.com/watch?v=s_sqtVb4mB0)**
-
-China's new generation of AI humanoid robots highlights the country's rapid progress in robotics, automation, and artificial ...
-
-📺 Carros Show
-
-👁️ 3K • 👍 98 • 💬 13 • ⏱️ 21:46 • 21h ago
-
----
 
 **[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
 
@@ -202,7 +190,17 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 111K • 👍 6K • 💬 652 • ⏱️ 2:57 • 2d ago
+👁️ 115K • 👍 7K • 💬 674 • ⏱️ 2:57 • 3d ago
+
+---
+
+**[AI buys a robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 526K • 👍 18K • 💬 2K • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -212,7 +210,27 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 15K • 👍 305 • 💬 111 • ⏱️ 8:49 • 3d ago
+👁️ 15K • 👍 307 • 💬 111 • ⏱️ 8:49 • 3d ago
+
+---
+
+**[Crazy new humanoid robot details #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=d-_3ScjUrZM)**
+
+The newest humanoid robots are crazy for completely different reasons. The French startup Genesis AI just introduced its first ...
+
+📺 Kalil 4.0
+
+👁️ 550 • 👍 17 • 💬 2 • ⏱️ 1:46 • 2h ago
+
+---
+
+**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
+
+What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
+
+📺 Top Talent
+
+👁️ 156K • 👍 2K • 💬 188 • ⏱️ 6:09 • 6d ago
 
 ---
 
@@ -222,7 +240,7 @@ This video showcases some model successes and failures I've had in building a ro
 
 📺 Over Engineer
 
-👁️ 42K • 👍 3K • 💬 213 • ⏱️ 6:05 • 3d ago
+👁️ 44K • 👍 3K • 💬 224 • ⏱️ 6:05 • 4d ago
 
 ---
 
@@ -232,17 +250,7 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 📺 Jason Lowe on AI
 
-👁️ 15K • 👍 1K • 💬 46 • ⏱️ 2:31 • 1d ago
-
----
-
-**[China&#39;s Robotics IPO Wave #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=_qOveda71vU)**
-
-China's humanoid robot companies are rushing toward IPO in Shanghai and Hong Kong. This list will probably get a lot longer in ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 1:25 • 8h ago
+👁️ 16K • 👍 1K • 💬 49 • ⏱️ 2:31 • 1d ago
 
 ---
 
@@ -252,37 +260,27 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 43K • 👍 2K • 💬 128 • ⏱️ 0:30 • 3d ago
+👁️ 43K • 👍 2K • 💬 131 • ⏱️ 0:30 • 3d ago
 
 ---
 
-**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
+**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
 
-At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
+Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
 
-📺 Machines In Action
+📺 🚜🌾 Desi Farm Vibes
 
-👁️ 48K • 👍 427 • 💬 21 • ⏱️ 0:15 • 2d ago
-
----
-
-**[When a Robotics Engineer Modifies a Nerf Gun](https://www.youtube.com/watch?v=9wCo80vDLYc)**
-
-This is what happens when a robotics engineer gets a toy blaster for Christmas! A brilliant DIY creator just took backyard ...
-
-📺 A2Z
-
-👁️ 4K • 👍 86 • 💬 1 • ⏱️ 0:07 • 3h ago
+👁️ 871 • 👍 9 • ⏱️ 0:21 • 1h ago
 
 ---
 
-**[Scientists Built Robots That EAT Each Other to Grow &amp; Repair Themselves](https://www.youtube.com/watch?v=NE_VoYbUvb0)**
+**[China&#39;s Robotics IPO Wave #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=_qOveda71vU)**
 
-Columbia University researchers last year introduced 'Robot Metabolism' — a process where machines physically grow, heal, ...
+China's humanoid robot companies are rushing toward IPO in Shanghai and Hong Kong. This list will probably get a lot longer in ...
 
-📺 IE Explains
+📺 Kalil 4.0
 
-👁️ 372 • 👍 24 • ⏱️ 1:09 • 4h ago
+👁️ 1K • 👍 33 • 💬 3 • ⏱️ 1:25 • 11h ago
 
 ---
 

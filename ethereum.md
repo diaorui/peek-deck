@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-16T18:15:57.261067+00:00'
+updated: '2026-06-16T21:25:55.298757+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 16, 2026 at 18:15 UTC  
+**Last Updated:** June 16, 2026 at 21:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +11.3%  
-**30d:** -15.3%  
-**90d:** -15.6%  
-**1y:** -28.3%  
+**24h:** +0.3%  
+**7d:** +10.8%  
+**30d:** -15.7%  
+**90d:** -16.0%  
+**1y:** -28.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $217.52B
+**Market Cap:** $216.45B
 Rank #2
 
 **Circulating Supply:** 120,684,109 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.6%
+-63.7%
 
 **All-Time Low:** $0.43
-+416146.5%
++414118.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in your browser.
 
-🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 21h ago
+🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[How I learned to stop Worrying and Love the Wild West](https://www.reddit.com/r/ethereum/comments/1u5t2il/how_i_learned_to_stop_worrying_and_love_the_wild/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -148,9 +148,9 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 ## Google News: "ethereum"
 
-**[BitMine Nears 5% Of All Ethereum As Tom Lee Keeps Buying — ETH Hits One-Week High](https://finance.yahoo.com/markets/crypto/articles/bitmine-nears-5-ethereum-tom-164133696.html)**
+**[Bitmine Buys Another $136 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-136-million-184200466.html)**
 
-Bankless Co-founder David Hoffman questioned where the next major source of ETH buying would come from after Bitmine’s rapid buildup.
+Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) bought another $136 million U.S. of Ethereum (CRY...
 
 Yahoo Finance • 1d ago
 
@@ -164,7 +164,7 @@ Scott Melker discusses Bitmine's (BMNR) current ethereum (ETH-USD) strategy, Str
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 6h ago
 
 Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
 
-CoinDesk • 3h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 8h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 5h ago
 
 Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
 
-FXStreet • 6h ago
+FXStreet • 9h ago
 
 ---
 
@@ -196,7 +196,13 @@ FXStreet • 6h ago
 
 A new Ethereum Research proposal is putting post-quantum wallet security back in focus, outlining a practical way to verify quantum-resistant signatures on the EVM without requiring a full protocol-level upgrade.The proposal, published by Ethereum researcher nicocsgy, explores an EVM-optimized vers…
 
-TradingView • 16h ago
+TradingView • 19h ago
+
+---
+
+**[Ethereum to $5,000 if CLARITY Act Passes? Bullish Theories Fly as Senator Predicts Ten-Fold Crypto Increase](https://www.ccn.com/news/crypto/ethereum-bulls-5000-clarity-act-law-institutional-adoption/)**
+
+CCN.com • 7h ago
 
 ---
 
@@ -204,13 +210,13 @@ TradingView • 16h ago
 
 It can often be smart to buy when it feels like the worst idea.
 
-The Motley Fool • 22h ago
+The Motley Fool • 1d ago
 
 ---
 
 **[Ethereum’s 33% Staking Ratio Strengthens the Bullish Supply Shock Thesis](https://www.investing.com/analysis/ethereums-33-staking-ratio-strengthens-the-bullish-supply-shock-thesis-200682258)**
 
-Investing.com • 3h ago
+Investing.com • 6h ago
 
 ---
 
@@ -218,15 +224,7 @@ Investing.com • 3h ago
 
 Ethereum, Solana, and XRP spot ETFs see inflows while Bitcoin ETFs face $64M outflows. Ethereum above $1100 on June 16, 2026 at 99.9% YES.
 
-Crypto Briefing • 4h ago
-
----
-
-**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
-
-XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
-
-CryptoSlate • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -234,33 +232,23 @@ CryptoSlate • 6h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 172 • 💬 34 • ⏱️ 15:17 • 1d ago
+
+---
+
 **[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
 
 Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
 
 📺 CoinDesk
 
-👁️ 27K • 👍 763 • 💬 84 • ⏱️ 20:10 • 2d ago
-
----
-
-**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 342 • 👍 42 • ⏱️ 19:50 • 1h ago
-
----
-
-**[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
-
-Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 82 • 💬 5 • ⏱️ 0:44 • 14h ago
+👁️ 28K • 👍 770 • 💬 84 • ⏱️ 20:10 • 2d ago
 
 ---
 
@@ -270,27 +258,17 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 124 • ⏱️ 8:35 • 1d ago
+👁️ 15K • 👍 2K • 💬 124 • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+**[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
 
-📺 Savvy Finance
+📺 Lark Davis
 
-👁️ 4K • 👍 170 • 💬 46 • ⏱️ 15:17 • 1d ago
-
----
-
-**[Ethereum: Massive Move Incoming? (ETH Price Update)](https://www.youtube.com/watch?v=gaE74jpPNnA)**
-
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
-
-📺 Marzell Crypto
-
-👁️ 561 • 👍 14 • 💬 105 • ⏱️ 4:33 • 22h ago
+👁️ 4K • 👍 85 • 💬 3 • ⏱️ 0:44 • 17h ago
 
 ---
 
@@ -300,17 +278,17 @@ ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "a
 
 📺 Dana Love, PhD
 
-👁️ 11K • 👍 598 • 💬 152 • ⏱️ 13:29 • 20h ago
+👁️ 11K • 👍 625 • 💬 133 • ⏱️ 13:29 • 23h ago
 
 ---
 
-**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
+**[Ethereum: Massive Move Incoming? (ETH Price Update)](https://www.youtube.com/watch?v=gaE74jpPNnA)**
 
-Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
 
-📺 Crypto Nutshell
+📺 Marzell Crypto
 
-👁️ 6K • 👍 188 • 💬 9 • ⏱️ 17:33 • 1d ago
+👁️ 651 • 👍 15 • 💬 105 • ⏱️ 4:33 • 1d ago
 
 ---
 
@@ -320,7 +298,27 @@ No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 68K • 👍 4K • 💬 344 • ⏱️ 13:52 • 1d ago
+👁️ 69K • 👍 4K • 💬 335 • ⏱️ 13:52 • 1d ago
+
+---
+
+**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 19:50 • 4h ago
+
+---
+
+**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
+
+Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 191 • 💬 9 • ⏱️ 17:33 • 1d ago
 
 ---
 
@@ -330,7 +328,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 10K • 👍 2K • 💬 3 • ⏱️ 23:56 • 4h ago
+👁️ 17K • 👍 2K • 💬 3 • ⏱️ 23:56 • 7h ago
 
 ---
 
