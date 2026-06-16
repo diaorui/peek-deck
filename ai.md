@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-16T08:26:47.685950+00:00'
+updated: '2026-06-16T13:12:52.233541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 16, 2026 at 08:26 UTC  
+**Last Updated:** June 16, 2026 at 13:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,59 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I have 3,000 photos and videos in OneDrive. How can I organise them with AI?](https://www.reddit.com/r/artificial/comments/1u776hy/i_have_3000_photos_and_videos_in_onedrive_how_can/)**
-
-Looking for a bit of advice because I feel like I’m missing something obvious. Over the last few weeks I’ve finally consolidated my photo library and got everything into OneDrive. I’ve now got two folders: Photos Videos Between them there’s around 3000 files in total. The files go back years and are a mix of family photos, holidays, screenshots, random phone pictures etc. I’ve been trying to use AI to help me organise everything properly. Things like: - Finding duplicates and near-duplicates - Identifying people - Grouping photos from the same trip or event - Creating folders/albums automatically - Tagging photos so they’re searchable - Picking out the best photos and obvious rubbish - Suggesting a sensible folder structure I initially thought ChatGPT might be able to help, but I’ve quickly hit a wall because I couldn’t work out a practical way to give it access to thousands of files sitting in OneDrive. I tried to connect it to OneDrive and just kept getting an error. This is where I start getting lost. I keep seeing people talk about agents, MCPs, local models and automation workflows. I’ve done a bit of reading, but if I’m honest I don’t really understand how those pieces fit together or how I’d actually use them myself. I have a rough idea what an MCP is, but nowhere near enough knowledge to build anything from scratch. I’m reasonably technical, but I’m not a developer. I’m happy to learn and tinker, but I’d prefer something a beginner could realistically get running without spending weeks building infrastructure. My setup is: Windows laptop i7-10750H 32GB RAM Nvidia Quadro P620 Everything stored in OneDrive Ideally I’d like to keep costs as close to zero as possible. I have a ChatGPT plus subscription. If this was your photo library, what would you actually do in 2026? Is there a beginner-friendly AI workflow for this, or am I looking at completely the wrong type of tool? And if the answer is “don’t use an agent for this, use something else”, I’m completely open to that too. Any advice appreciated.
-
-25m ago
-
----
-
 **[AI Billionaires Want to Control EVERY Aspect of Your Life | Aaron Bastani Meets Karen Hao](https://www.reddit.com/r/artificial/comments/1u777te/ai_billionaires_want_to_control_every_aspect_of/)**
 
 Keep the conversation going. Hopefully in a positive or informative manner that benefits us all.✌️
 
-23m ago
+5h ago
+
+---
+
+**[What happens when frontier LLMs are deployed in rural Rwanda? Lessons on usefulness, language gaps, and incorrect answers [D]](https://www.reddit.com/r/artificial/comments/1u7a3ej/what_happens_when_frontier_llms_are_deployed_in/)**
+
+At GiveDirectly, we recently ran a pilot in rural Rwanda that paired unconditional cash transfers with access to a general-purpose AI chatbot. One of the most interesting findings: people often used the chatbot as an always-available advisor—for business decisions, learning, and getting second opinions. But the pilot also exposed important limitations, including language gaps, locally irrelevant responses, and confidently incorrect answers. The writeup explores both sides: where participants found value, where the technology fell short, and what these experiences suggest about deploying frontier models in low-resource settings. Curious what the LLM community thinks: how should we evaluate models when local language support, contextual understanding, and reliability may matter more than benchmark performance? https://www.givedirectly.org/the-robots-work-at-night
+
+2h ago
+
+---
+
+**[Built a Paninian Retrieval-Augmented Generation (PRAG) framework for safer medical AI — seeking feedback](https://www.reddit.com/r/artificial/comments/1u785o2/built_a_paninian_retrievalaugmented_generation/)**
+
+Hi everyone, ​ I'm an independent AI/ML researcher and I've been working on a project called PRAG (Paninian Retrieval-Augmented Generation) for safety-critical medical AI. ​ The idea is to combine traditional RAG with a Paninian rule engine inspired by concepts such as Utsarga-Apavada, Paribhasha, Nitya-Anitya, and Antaranga-Bahiranga. The goal is not just better retrieval, but safer medical reasoning with full auditable rule traces. ​ Current findings: • 71% reduction in unsafe medical answers compared to standard RAG • Built on the MedQA dataset • Retrieval over 18 medical textbooks (~51k chunks) • Every decision includes an explainable rule trace ​ GitHub:https://github.com/yuvrajrajput/PRAG ​ I'm preparing my first arXiv submission in cs.AI. As a first-time independent researcher, I require an arXiv endorsement before submission. ​ I'd genuinely appreciate: ​ Technical feedback on the project Suggestions for improving the evaluation Guidance from researchers who have experience with arXiv submissions If someone familiar with the work believes it is suitable, advice regarding the endorsement process ​ Thanks for your time. I'm happy to share the paper draft and discuss the methodology in detail.
+
+4h ago
+
+---
+
+**[Beautiful and the Superfluous: AI Labor Market and Basic Income](https://www.reddit.com/r/artificial/comments/1u7836w/beautiful_and_the_superfluous_ai_labor_market_and/)**
+
+The architects of A.I. can picture a machine that will outperform us at everything—and cannot picture a human life beyond the paycheck.
+
+🔗 [Kancelaria Prawna Skarbiec](https://kancelaria-skarbiec.pl/en/ai-labor-market-basic-income/) • 4h ago
+
+---
+
+**[Most attempts to reverse-engineer Fable 5 are missing the point](https://www.reddit.com/r/artificial/comments/1u7ckkn/most_attempts_to_reverseengineer_fable_5_are/)**
+
+A lot of people are trying to reverse-engineer Fable 5 right now. Wrappers. Prompt packs. “Long-horizon agent” scaffolds. Tools that try to look like Fable from the outside. I think most of this is pointed in the wrong direction. If Fable 5 were just a prompt pattern or a wrapper, it would already be cloned. The real problem is not appearance. The real problem is robustness. Most coding agents look good at the start. Then the cracks show. - scope starts drifting - public tests become the finish line - edge cases don’t become regression tests - “verified” means vibes, not evidence - the final turn exits too early - long loops slowly lose the actual task So we built Hephaestus Stormbreaker. Stormbreaker is not a new model. It is not a Fable 5 clone. It is not another benchmark-wrapper cosplay project. Stormbreaker is a robustness control layer for coding agents. It forces the agent to: - lock scope - lock the plan - run an evidence loop - derive regression tests from the issue - separate public test passing from private-oracle validation - pass a final gate before stopping In other words, it is not trying to make an agent “look smarter.” It is trying to make the agent harder to derail. The results point in that direction. On raw correctness alone, Stormbreaker does not get to claim a clean win. That is not the point. Native Codex is already strong on short local coding tasks. The difference appears when you measure operational robustness. Average verification macro score: - Native Codex: 76.48 - Hephaestus Network Baseline: 92.22 - Hephaestus Stormbreaker: 99.26 The metric sensitivity analysis is the important part. Correctness-only metrics reject the Stormbreaker superiority claim. Good. But all 6 process-aware operational metrics preserve the same ordering: Native < Baseline < Stormbreaker We also ran paired task-unit validation so repeated runs are not treated as fake independent samples. The local operational ladder still held. My take: If you want to “reverse-engineer Fable 5,” stop copying the surface. Build the layer that prevents the agent from drifting, skipping evidence, ignoring regressions, and quitting early. The model race will continue. But real engineering work needs agents that can stay inside scope, preserve evidence, verify their own output, and finish cleanly. That is what Hephaestus Stormbreaker is for.
+
+24m ago
+
+---
+
+**[Would you pay for an independent alert service that tells you when an LLM's behaviour has drifted - before your users notice?](https://www.reddit.com/r/artificial/comments/1u7ahgm/would_you_pay_for_an_independent_alert_service/)**
+
+Following up on a thread I posted yesterday about how developers detect LLM API degradation. The responses were useful enough that I want to validate a specific idea. It is a 3 layer independent alert service: Layer 1: Transport health alerts: Independent probes checking TTFT, error rates, and latency across major models (Claude Sonnet, GPT-4o, Gemini, Grok) every 5 minutes. Alerts you before the provider's status page updates. This part already exists and is free at tickerr - the question is whether people would pay for push alerts. Layer 2: Capability drift alerts: A fixed canary suite that runs on a schedule and detects when a model's output behaviour has shifted, things like whether it still follows formatting instructions, whether JSON outputs are still well-formed, whether reasoning quality has changed. A drift score per model, with an alert when the score drops meaningfully from the baseline. Layer 3: (optional add-on and phase 2): Bring your own prompts. You give us 5-10 prompts that are critical to your specific use case, we run them on a schedule and alert you if the outputs drift from your established baseline. Your prompts stay private. Three specific questions: Do you think this is a useful service and would you be willing to pay for this? Anything else you think would make it more useful or should be included in the checks? What would you pay for this as a monthly service? (Ballpark is fine, even "nothing, I'd build this myself" is useful.) If none of this is a problem you'd pay to solve, that's also fine and would save a lot of my time. 😄
+
+2h ago
+
+---
+
+**[I have 3,000 photos and videos in OneDrive. How can I organise them with AI?](https://www.reddit.com/r/artificial/comments/1u776hy/i_have_3000_photos_and_videos_in_onedrive_how_can/)**
+
+Looking for a bit of advice because I feel like I’m missing something obvious. Over the last few weeks I’ve finally consolidated my photo library and got everything into OneDrive. I’ve now got two folders: Photos Videos Between them there’s around 3000 files in total. The files go back years and are a mix of family photos, holidays, screenshots, random phone pictures etc. I’ve been trying to use AI to help me organise everything properly. Things like: - Finding duplicates and near-duplicates - Identifying people - Grouping photos from the same trip or event - Creating folders/albums automatically - Tagging photos so they’re searchable - Picking out the best photos and obvious rubbish - Suggesting a sensible folder structure I initially thought ChatGPT might be able to help, but I’ve quickly hit a wall because I couldn’t work out a practical way to give it access to thousands of files sitting in OneDrive. I tried to connect it to OneDrive and just kept getting an error. This is where I start getting lost. I keep seeing people talk about agents, MCPs, local models and automation workflows. I’ve done a bit of reading, but if I’m honest I don’t really understand how those pieces fit together or how I’d actually use them myself. I have a rough idea what an MCP is, but nowhere near enough knowledge to build anything from scratch. I’m reasonably technical, but I’m not a developer. I’m happy to learn and tinker, but I’d prefer something a beginner could realistically get running without spending weeks building infrastructure. My setup is: Windows laptop i7-10750H 32GB RAM Nvidia Quadro P620 Everything stored in OneDrive Ideally I’d like to keep costs as close to zero as possible. I have a ChatGPT plus subscription. If this was your photo library, what would you actually do in 2026? Is there a beginner-friendly AI workflow for this, or am I looking at completely the wrong type of tool? And if the answer is “don’t use an agent for this, use something else”, I’m completely open to that too. Any advice appreciated.
+
+5h ago
 
 ---
 
@@ -57,31 +97,15 @@ Keep the conversation going. Hopefully in a positive or informative manner that 
 
 Since ChatGPT came out I've been using LLMs every day for work. And I've slowly become a worse thinker. Not in the sense that I work less. In the sense that I reason less. Some decisions don't feel like mine anymore... I got there, but I didn't really work through them. Sometimes I catch myself not pushing back on the AI output even when something is off. Turns out there's a name for this: Cognitive Offloading. It's not inherently bad: we've always offloaded cognitive tasks to external tools (notes, calculators, GPS). The problem is when you start relying too much on AI that you offload the reasoning itself, not just the execution. My job is to facilitate the AI adoption inside companies across the industries (automotive, finance, consulting, ...): What I see are people who delegate their thought processes to AI and end up disconnected from the conclusions they just reached but they still approve the results. So I want to know if this is widespread or just me. If you like to contribute, here is a short survey (2 min) to understand whether this is a real pain for others or it is just me: https://forms.gle/TaWrEnYRyfaCoF166 I'll share the results openly here. And if there's enough signal, I'm thinking about building something around it, a tool that helps you work with AI without losing track of your own reasoning. Does this resonate with anyone?
 
-23h ago
+1d ago
 
 ---
 
-**[Do You Have an AI Companion?](https://www.reddit.com/r/artificial/comments/1u6yn4g/do_you_have_an_ai_companion/)**
+**[The beautiful ugly shape](https://www.reddit.com/r/artificial/comments/1u7c1po/the_beautiful_ugly_shape/)**
 
-If you have an AI companion and is at least 18 years of age then please consider taking our ANONYMOUS study! Scan the QR code for access OR use the direct link here: https://ggc.az1.qualtrics.com/jfe/form/SV\_08NgWEvasz8qMXY
+The whole system has a clean architecture: X supplies the public behavioral graph. Premium/Premium+ supplies a paid, high-signal user cohort. Grok supplies the private conversational layer. Image/video generation supplies visual preference data. Voice/personality/companion features lower inhibition and increase intimacy. Ads/subscriptions/enterprise/government/API monetize the resulting platform. The S-1 (SpaceX's IPO filing) calls X a distribution and data engine and describes AI-driven targeting, user intent, and Grok/X integration. At this point it stops looking like a theory and starts looking like a floor plan someone accidentally left in public. The filing does not need to say “we are using Grok to psychologically profile users.” It describes the machine around it. The studies describe the human behavior inside it. The product design connects the two. And the subscriber numbers show the distribution trick: Grok was not simply bought by standalone AI customers. It was gifted/bundled into X Premium/Premium+, pushed to a high-value paid user layer, and made available at massive scale beyond the paid base. That is the point. The user was never just the customer. The user was the product, the training signal, the targeting surface, and the behavioral dataset.
 
-7h ago
-
----
-
-**[AI seems to understand language much better than communication](https://www.reddit.com/r/artificial/comments/1u6sr61/ai_seems_to_understand_language_much_better_than/)**
-
-The more AI products I try, the more I feel like there's a difference between understanding language and understanding communication. Most tools today are surprisingly good at processing what people say they can summarize conversations, extract key points, and answer questions about what was discussed. The problem is that conversations are often about more than the actual words. I noticed this recently while watching recordings from a few customer interviews. If I only read the transcripts, the feedback looked fairly positive most people sounded interested and their responses seemed reasonable once I watched the recordings, the picture changed. Some people hesitated before answering, some sounded uncertain, and a few looked like they weren't fully convinced even though their words sounded supportive. That's what made me think there may be a bigger gap here than people realize. Humans naturally notice things like hesitation, uncertainty, engagement, confidence, and skepticism during conversations. Most AI systems still seem heavily focused on the transcript itself as AI gets integrated into tutoring, coaching, customer research, interviews, and sales conversations, that missing layer feels increasingly important. I'm starting to think one of the next major opportunities in AI won't be generating better responses, but understanding human communication more accurately not by trying to read minds or guess emotions, but by recognizing the signals people already notice in everyday conversations.
-
-11h ago
-
----
-
-**[The Fable 5 situation wasn’t really about the model being good or bad, and that’s the part that’s stuck with me](https://www.reddit.com/r/artificial/comments/1u6ortf/the_fable_5_situation_wasnt_really_about_the/)**
-
-Fable 5 lasted three days before getting pulled. Not because it was bad, the suspension had nothing to do with the model’s actual quality. Got me thinking about how most “model risk” planning is just “what if the output gets worse” or “what if the API goes down.” Those are testable. What’s apparently not testable is “what if access to this exact model just stops existing for reasons completely unrelated to how good it is.” Anyone actually built real fallback paths for this, like a different provider entirely, not just a cheaper model from the same one? Or is everyone just assuming the model they built on will still be there next month? Article that goes deeper on this in comments.
-
-14h ago
+48m ago
 
 ---
 
@@ -89,31 +113,7 @@ Fable 5 lasted three days before getting pulled. Not because it was bad, the sus
 
 TL;DR: Last Friday the US government ordered Anthropic to block all “foreign nationals” — including non-citizens inside the US — from using its new Fable 5 and Mythos 5 models. Since you can’t separate a green-card holder in California from a citizen in real time, Anthropic shut the models down for everyone. It’s the first time export controls have hit an AI model itself rather than the chips that run it. The under-discussed part: a nationality-based access rule that geography can’t enforce pushes companies toward building identity infrastructure — and your AI chats already have zero legal privilege. Even if this order gets reversed, the precedent is the story. What actually happened On June 12, the Commerce Department issued a national-security export-control directive ordering Anthropic to suspend access to Fable 5 (and the more powerful Mythos 5 it’s built on) for any foreign national — explicitly including non-citizens physically inside the US, down to Anthropic’s own employees. A source close to the company says it got ~90 minutes and no prior warning. Because Anthropic can’t filter foreign nationals from US users in real time, it disabled both models globally. The trigger, per WSJ, Axios, and Semafor reporting: a phone call from Amazon. Amazon CEO Andy Jassy reportedly told Treasury Secretary Scott Bessent and other officials that Amazon researchers had used Fable 5 to pull information useful for cyberattacks. That’s the same Amazon that’s Anthropic’s biggest investor (~$13B in, ~$20B more planned), its cloud and chip supplier, and a customer — and now the entity that got its own investment’s flagship product killed worldwide. Amazon won’t confirm details. At least five other companies reportedly called the administration that same window. The accounts conflict, which matters: • White House (via former AI czar David Sacks): a trusted partner found a real jailbreak, the administration asked Anthropic to patch or pull it, CEO Dario Amodei refused, so they acted “reluctantly” — and they want the model back once it’s fixed. • Anthropic: the “jailbreak” only surfaced a handful of already-known minor vulnerabilities that other public models like GPT-5.5 can find too, so recalling a model used by hundreds of millions is disproportionate. • A cybersecurity CEO who reviewed the findings said the research was defensive, not offensive. Why this is bigger than one model Export controls have hit AI chips for years. This is the first time they’ve hit a model itself. That reframes frontier models as controlled national-security assets — and it surfaces an enforcement problem nobody’s reckoning with. A normal “no users in Country X” rule is easy: geoblock by IP. But this rule covers foreign nationals inside the US. You cannot IP-block a French citizen sitting in San Francisco. So if a future order like this is meant to be enforced strictly — not “shut it all down,” but “keep serving Americans while genuinely excluding non-citizens” — there’s only one way to be certain who’s a citizen: verify identity. Self-attestation (“I certify I’m a US person”) shifts legal liability but provides zero actual certainty, because people lie. If the government’s bar is certainty, the only escape hatch from “go dark forever” is ID verification to access the model. That’s the precedent worth staring at: a category of rule whose strict form quietly makes “show ID to use AI” the path of least resistance. The part that’s already settled: your AI chats have no legal privilege This one isn’t speculative. In February, a federal judge in the Southern District of New York ruled that conversations with Claude carry no attorney-client privilege — Claude isn’t a lawyer, so the privilege can’t attach — and leaned on Anthropic’s own privacy policy stating users have no expectation of privacy in their inputs. Sam Altman has publicly admitted the same about ChatGPT. A separate ruling found ~20 million ChatGPT logs likely subject to compelled production, with users holding only a “diminished privacy interest.” (One Michigan judge went the other way, treating chats as personal work-product — so it’s trending bad, not fully locked in.) Now stack the two: AI access potentially gated to verified identities, and AI conversations that can be subpoenaed with no privilege. That’s a plausible near-future where using AI means an ID-linked, fully discoverable record of everything you ever asked it. The honest counterweights (so this isn’t catastrophizing) • The administration says it wants the model restored once the jailbreak is patched. The likeliest near-term outcome is the directive getting narrowed or pulled — not permanent ID walls. • Self-attestation is the historically normal compliance path for export-controlled software and doesn’t require collecting documents. • The last time the US tried to export-control software like this — strong encryption in the 1990s — the controls largely failed and were circumvented and relaxed rather than hardening into a verification regime. Developers reportedly already reproduced Fable’s capabilities on the still-available Opus 4.8 with a single line of code. So this specific fight will probably resolve. The reason to care isn’t this week — it’s that the legal machinery and the precedent now exist, and they don’t disappear when the model comes back. The actual question If “frontier AI model” is now something the government can pull off the market via export control, and the cleanest way to comply with a nationality-based access rule is identity verification — is mandatory ID to use advanced AI just a matter of time? Or does the encryption-wars history (controls that collapsed) suggest this is unenforceable theater? Curious where people land. Sources • Anthropic’s statement on the directive: https://www.anthropic.com/news/fable-mythos-access • Axios — how Amazon and the White House ended Fable: https://www.axios.com/2026/06/13/anthropic-amazon-white-house • TechCrunch — Amazon CEO raised concerns before the crackdown: https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/ • TIME — first export control on a model, and the precedent: https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security/ • Coverage of the SDNY no-privilege ruling: https://www.crowell.com/en/insights/client-alerts/federal-court-rules-some-ai-chats-are-not-protected-by-legal-privilege-what-it-means-for-you
 
-15h ago
-
----
-
-**[concern about how ai will change knowledge creation and democracy](https://www.reddit.com/r/artificial/comments/1u6c8iy/concern_about_how_ai_will_change_knowledge/)**
-
-well due to this resent changes of googles ai review, rise of chatbots and more the prime issue is that knowledge creation platforms which was web and artical internet so far as vedio internet is more in entertainment plus little education than education itself will lead to massive decline in knowledge creation and open sharing as there is revenu shrinking as this ai companies make money out of articles not creators. and what i think is eventually knowledge creation will come to an hault or stay very much blocked by paywall. and issue will keep rising in my sence cause until people realize and make this tech gaints bow there is no future. at end of day content is created for humans by humans so that content creator can live and continue there jobs not big corp to rob plus in this ai world, issue is poeple will often see what ai shows them and ai shows them what is programmed into him. so yeah its not that simple and i will say end of democracy is closing in every single day cause if there is no free flow of information as there was before democracy will just become a fake belief and what this big corp will show become new reality.
-
-22h ago
-
----
-
-**[Aide dans mon travail](https://www.reddit.com/r/artificial/comments/1u6lqi2/aide_dans_mon_travail/)**
-
-Bonjour je travail beaucoup sur du data cleansing au travail ce qui est assez long je dois exporter des sap pour mettre en forme et croiser la donnes sur de larges volumes, ce qui est redondant auriez vous des pistes pour que je puisse automatiser mon travail ?
-
-15h ago
-
----
-
-**[7 layers of security every AI agent needs before going to production](https://www.reddit.com/r/artificial/comments/1u6ushq/7_layers_of_security_every_ai_agent_needs_before/)**
-
-We keep seeing the same pattern team ships an agent, agent works great in testing, agent gets prompt injected in production within the first week. 73% of production AI deployments showed prompt injection exposure in security audits last year. Most of them had zero defensive layers. Not weak layers zero. So we wrote a practical guide covering the 7 things you should actually do in priority order Day 1 (free, immediate) Harden your system prompt explicit deny lists, not vague "be safe" instructions. The article has bad vs. good examples Run adversarial testing fire real attacks at your agent and see what gets through Add pattern matching on input Aho-Corasick across 30+ injection signatures, sub-1ms, zero tokens Week 1 4. Structural analysis rules entropy scoring, instruction density, URL/domain flagging 5. Tool call validation if your agent calls APIs, validate every argument before execution 6. Output scanning secret detection, exfiltration markers, concealment patterns Week 2 7. Multi turn session tracking attacks split across messages where each one looks benign individually The guide has code examples for each layer and explains what real attacks each one blocks.
-
-10h ago
+20h ago
 
 ---
 
@@ -121,11 +121,31 @@ We keep seeing the same pattern team ships an agent, agent works great in testin
 
 ## Google News: "ai"
 
-**[Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)**
+**[SpaceX to buy AI coding startup Cursor for $60 billion in enterprise push](https://finance.yahoo.com/technology/ai/articles/spacex-buy-cursor-ai-coding-103445855.html)**
 
-In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.
+Elon Musk's SpaceX said on Tuesday it would acquire Anysphere, the software firm behind the popular AI coding agent Cursor, for $60 billion, in a bid to ramp up its presence ‌in the enterprise AI market.  The announcement comes days after Musk took the rockets-to-AI company public in a ‌blockbuster Nasdaq debut that valued the firm at more than $2 trillion and immediately made it one of the world's most valuable companies.  SpaceX had been ​eyeing Cursor for several months.
 
-WIRED • 10h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[SpaceX locks in $60 billion Cursor deal to power AI coding push](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)**
+
+Reuters • 1h ago
+
+---
+
+**[SpaceX buys AI coding startup Cursor for $60 billion](https://www.nbcnews.com/tech/tech-news/spacex-buys-ai-coding-startup-cursor-60-billion-rcna350262)**
+
+Cursor, which started in 2022, helped sparked a trend called “vibe coding” as AI coding assistants have become increasingly capable of doing the work of computer programming.
+
+NBC News • 30m ago
+
+---
+
+**[Qualcomm Is a Rare AI Chip Value Play](https://www.wsj.com/tech/qualcomm-is-a-rare-ai-chip-value-play-3e09f70b)**
+
+WSJ • 3h ago
 
 ---
 
@@ -133,69 +153,43 @@ WIRED • 10h ago
 
 This is how America loses the AI race.
 
-The Atlantic • 11h ago
+The Atlantic • 16h ago
 
 ---
 
-**[Anthropic to meet White House over AI tool suspension](https://www.bbc.com/news/articles/c9w2p7ykp8yo)**
+**[The Anthropic ‘Fable’ saga proves: we have opened the AI Pandora’s box. What now?](https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai)**
 
-The sudden meeting was called after Anthropic had to block users from just-released AI models.
+We have opened the AI Pandora’s box. Now we have to make the best of it
 
-BBC • 13h ago
-
----
-
-**[The US government’s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)**
-
-The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.
-
-TechCrunch • 10h ago
+The Guardian • 1h ago
 
 ---
 
-**[AI could help win ‘race against extinction’ of vital plants, say botanists](https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists)**
+**[Anthropic export ban sounds alarms for AI industry](https://www.axios.com/2026/06/16/ai-anthropic-export-controls)**
 
-Tech is helping to identify and save new specimens and could open ‘genomic goldmine’ of fungi data
-
-The Guardian • 2h ago
+Axios • 11m ago
 
 ---
 
-**[‘Vikram Betal’ AI-Enabled Film Set at India’s Collective Studios Historyverse (EXCLUSIVE)](https://www.yahoo.com/entertainment/movies/articles/vikram-betal-ai-enabled-film-075205439.html)**
+**[Letters to the Editor: To combat AI cheating, colleges should go back to basics for exams](https://www.latimes.com/opinion/letters-to-the-editor/story/2026-06-16/colleges-ai-cheating-exams)**
 
-Historyverse, the culturally focused content label within India’s Collective Studios, has announced “Vikram Betal,” an AI-enabled film adaptation drawing on the ancient Indian folk tradition of King V...
+'Require all students to show up in person to the classroom with an empty "blue book" and write their exam answers in cursive,' writes an L.A. Times reader.
 
-Yahoo • 34m ago
-
----
-
-**[Women, AI and digital skills in Guatemala](https://www.dw.com/en/a-group-of-mayan-women-are-using-ai-and-digital-skills-to-teach-and-support-others-in-their-rural-communities/a-77526202)**
-
-In rural Guatemala, a teacher uses AI for math lessons that include Indigenous culture. Her work and that of other Mayan women illustrate how AI and media literacy can strengthen cultural identity and civic engagement.
-
-DW • 24m ago
+Los Angeles Times • 12m ago
 
 ---
 
-**[Dozens walk out as Google boss Pichai addresses Stanford graduates](https://www.bbc.com/news/articles/cqx10gg2r2vo)**
+**[Property Play: AI determining home prices](https://www.cnbc.com/video/2026/06/16/property-play-ai-determining-home-prices.html)**
 
-Some students were protesting against the company's controversial work with the US government on artificial intelligence.
+CNBC's Diana Olick reports on AI's growing influence on housing transactions for buyers and sellers.
 
-BBC • 17h ago
-
----
-
-**[Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices](https://www.cnbc.com/2026/06/16/qualcomm-ceo-ai-devices-agents.html)**
-
-Qualcomm CEO Cristiano Amon said he is bullish on smart glasses which could eventually become as big as the smartphone.
-
-CNBC • 3h ago
+CNBC • 19m ago
 
 ---
 
-**[People around the world see a winner on AI — and it’s not the US](https://www.politico.com/news/2026/06/15/people-around-the-world-see-a-winner-on-ai-and-its-not-the-us-00960930)**
+**[A.I. Boom Ignites Asian Chip Companies](https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html)**
 
-Politico • 23h ago
+The New York Times • 4h ago
 
 ---
 
@@ -207,13 +201,13 @@ Politico • 23h ago
 
 People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
 
-⬆️ 502 • 💬 538 • 1d ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
+⬆️ 505 • 💬 540 • 1d ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
 **[Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.ycombinator.com/item?id=48520807)**
 
-⬆️ 391 • 💬 193 • 2d ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+⬆️ 392 • 💬 193 • 2d ago • [news.sky.com](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 
 ---
 
@@ -221,7 +215,7 @@ People are consuming AI like they eat meat: some are embracing it, some are limi
 
 There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...
 
-⬆️ 349 • 💬 287 • 2d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+⬆️ 349 • 💬 288 • 2d ago • [stephen.bochinski.dev](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
@@ -229,23 +223,7 @@ There are three ways to do AI coding at home without spending like a company, an
 
 Self-hosting OpenCode Web for GitOps style homelab changes.
 
-⬆️ 302 • 💬 52 • 17h ago • [rsgm.dev](https://rsgm.dev/post/ai-dev-platform/)
-
----
-
-**[AI OSS tool repo goes archived over night after raising $7.3M Seed](https://news.ycombinator.com/item?id=48516504)**
-
-TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero
-
-⬆️ 279 • 💬 172 • 2d ago • [GitHub](https://github.com/tensorzero/tensorzero)
-
----
-
-**[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://news.ycombinator.com/item?id=48515385)**
-
-AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...
-
-⬆️ 171 • 💬 60 • 2d ago • [GitHub](https://github.com/Paca-AI/paca)
+⬆️ 331 • 💬 54 • 22h ago • [rsgm.dev](https://rsgm.dev/post/ai-dev-platform/)
 
 ---
 
@@ -253,7 +231,15 @@ AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. 
 
 From Java tests to Shai-Hulud, bots keep proving they'll swallow anything you feed them
 
-⬆️ 157 • 💬 141 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
+⬆️ 158 • 💬 141 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
+
+---
+
+**[Microsoft turns to AWS as GitHub faces AI capacity crunch](https://news.ycombinator.com/item?id=48549918)**
+
+Microsoft is adding AWS capacity for GitHub after AI-driven usage strained the developer platform, exposing Azure constraints and the infrastructure cost of agentic coding.
+
+⬆️ 153 • 💬 68 • 10h ago • [RuntimeWire](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
 
 ---
 
@@ -265,19 +251,25 @@ Once again, AI proves to be an unreliable source of information about AI.
 
 ---
 
-**[Microsoft turns to AWS as GitHub faces AI capacity crunch](https://news.ycombinator.com/item?id=48549918)**
-
-Microsoft is adding AWS capacity for GitHub after AI-driven usage strained the developer platform, exposing Azure constraints and the infrastructure cost of agentic coding.
-
-⬆️ 150 • 💬 68 • 5h ago • [RuntimeWire](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
-
----
-
 **[Show HN: I wrote a C++ ray tracer from scratch without AI](https://news.ycombinator.com/item?id=48538833)**
 
 C++ Path Tracer from scratch with zero third-party libraries. - themartiano/luz
 
-⬆️ 147 • 💬 61 • 22h ago • [GitHub](https://github.com/themartiano/luz)
+⬆️ 148 • 💬 64 • 1d ago • [GitHub](https://github.com/themartiano/luz)
+
+---
+
+**[Can Europe train a frontier AI model on the compute it owns?](https://news.ycombinator.com/item?id=48541014)**
+
+A sourced model and short report: can Europe train a sovereign frontier AI model on the public compute it already owns, while gigawatt datacenters wait years for grid power? - sammysltd/euromesh
+
+⬆️ 135 • 💬 268 • 23h ago • [GitHub](https://github.com/sammysltd/euromesh)
+
+---
+
+**[SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://news.ycombinator.com/item?id=48553224)**
+
+⬆️ 134 • 💬 86 • 2h ago • [reuters.com](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 
 ---
 
@@ -291,17 +283,7 @@ Elon Musk's new AI robot is designed to blur the line between humans and machine
 
 📺 Carros Show
 
-👁️ 3K • 👍 137 • 💬 14 • ⏱️ 21:06 • 12h ago
-
----
-
-**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 485K • 👍 16K • 💬 2K • ⏱️ 15:10 • 1d ago
+👁️ 4K • 👍 148 • 💬 16 • ⏱️ 21:06 • 17h ago
 
 ---
 
@@ -311,7 +293,27 @@ Google DeepMind just dropped a massive paper called From AGI to ASI, and the mes
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 171 • ⏱️ 13:33 • 9h ago
+👁️ 46K • 👍 2K • 💬 231 • ⏱️ 13:33 • 14h ago
+
+---
+
+**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 499K • 👍 17K • 💬 2K • ⏱️ 15:10 • 1d ago
+
+---
+
+**[Has ANYONE Actually Seen AI Work?](https://www.youtube.com/watch?v=UR3F3N9K-xw)**
+
+How I Became a Sovereign Professional - The Freelance Formula https://www.brendandell.com/freelance-formula-299 Currently ...
+
+📺 Brendan Dell 
+
+👁️ 36K • 👍 2K • 💬 572 • ⏱️ 18:34 • 22h ago
 
 ---
 
@@ -325,43 +327,43 @@ They Just Decoded The Rosetta Stone With AI — And What It Reveals Is Not Good.
 
 ---
 
-**[AI Lies Are Finally Getting Punished](https://www.youtube.com/watch?v=ehsq_0Cw6e4)**
-
-A German court just ruled that Google's AI Overviews are not neutral search results, but they are Google's own words. And in the ...
-
-📺 House of El - AI
-
-👁️ 89K • 👍 10K • 💬 2K • ⏱️ 30:17 • 2d ago
-
----
-
-**[Trump BRUTALLY TROLLED In VIRAL AI Slop Memes!](https://www.youtube.com/watch?v=2zq99RgV6SI)**
-
-Really American Host Steve Harness Breaks Down Donald Trump getting BRUTALLY TROLLED a fresh new trove of hilarious AI ...
-
-📺 Really American
-
-👁️ 338K • 👍 18K • 💬 856 • ⏱️ 13:02 • 1d ago
-
----
-
-**[The Darkest A.I. Conversations Ever Recorded](https://www.youtube.com/watch?v=7YkLex8Qd7I)**
-
-these are the darkest a.i. conversations ever recorded... I'm Visual Venture and I make Internet Culture Documentaries.
-
-📺 Visual Venture
-
-👁️ 363K • 👍 13K • 💬 1K • ⏱️ 29:21 • 2d ago
-
----
-
 **[ALERT: Nadella’s Brutal Warning &quot;AI Is About to Hollow Out Entire Industries&quot;](https://www.youtube.com/watch?v=mczINsa2WX0)**
 
 Microsoft CEO Satya Nadella just shattered the biggest illusion in tech. While everyone else is arguing over who has the smartest ...
 
 📺 AIM Network
 
-👁️ 26K • 👍 592 • 💬 49 • ⏱️ 6:05 • 17h ago
+👁️ 37K • 👍 705 • 💬 61 • ⏱️ 6:05 • 22h ago
+
+---
+
+**[Google’s AI Bet](https://www.youtube.com/watch?v=zdp7IAwV064)**
+
+Google is making the biggest change to its search business in more than two decades, integrating AI-generated answers, ...
+
+📺 Bloomberg Television
+
+👁️ 50K • 👍 934 • 💬 127 • ⏱️ 11:57 • 2d ago
+
+---
+
+**[3 Easiest Ways to Make Money with Claude AI (Nobody&#39;s Talking About)](https://www.youtube.com/watch?v=QIUW3t4aTTE)**
+
+This is 3 Easiest Ways to Make Money with Claude AI That Nobody's Talking About Full Blog Breakdown (Prompts + Tools ...
+
+📺 Mr. AI CASH
+
+👁️ 16K • 👍 845 • 💬 142 • ⏱️ 11:44 • 21h ago
+
+---
+
+**[Your $20 AI Plan Costs Them Thousands. That&#39;s Not The Bubble.](https://www.youtube.com/watch?v=mn4XBSBIuag)**
+
+My Links Newsletter: https://natesnewsletter.substack.com/ X: https://x.com/natebjones TikTok: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 27K • 👍 920 • 💬 165 • ⏱️ 19:25 • 23h ago
 
 ---
 
@@ -371,23 +373,25 @@ Anthropic's Fable 5 was live for only three days before everything changed. The 
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 285 • ⏱️ 12:49 • 2d ago
-
----
-
-**[THIRD WORLD SCAMMER GOT DESTROYED BY TRUMP AI - THE FATIGUE](https://www.youtube.com/watch?v=A75nwEcHyQo)**
-
-Lol.......... Thanks for watching. ***Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair ...
-
-📺 SC Reviews
-
-👁️ 46K • 👍 6K • 💬 488 • ⏱️ 8:01 • 1d ago
+👁️ 32K • 👍 1K • 💬 287 • ⏱️ 12:49 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
+
+**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
+
+*Yuxin Lu*
+
+A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
+
+`text-generation` `11.9B`
+
+⬇️ 60,921 • ❤️ 939 • 1h ago
+
+---
 
 **[diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**
 
@@ -397,7 +401,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 311,788 • ❤️ 906 • 5d ago
+⬇️ 375,974 • ❤️ 922 • 5d ago
 
 ---
 
@@ -409,19 +413,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 14,312 • ❤️ 904 • 3h ago
-
----
-
-**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
-
-*Yuxin Lu*
-
-A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
-
-`text-generation` `11.9B`
-
-⬇️ 20,207 • ❤️ 818 • 1d ago
+⬇️ 25,064 • ❤️ 980 • 7h ago
 
 ---
 
@@ -433,7 +425,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 56,750 • ❤️ 765 • 1d ago
+⬇️ 102,206 • ❤️ 773 • 1d ago
 
 ---
 
@@ -445,7 +437,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 86,968 • ❤️ 2,066 • 3d ago
+⬇️ 98,698 • ❤️ 2,078 • 4d ago
 
 ---
 
@@ -457,7 +449,7 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 `text-generation` `30.5B`
 
-⬇️ 11,145 • ❤️ 397 • 1d ago
+⬇️ 12,129 • ❤️ 401 • 1d ago
 
 ---
 
@@ -469,7 +461,7 @@ Rio 3.5 Open 397B is a frontier-class, open-source image-text-to-text AI model p
 
 `image-text-to-text` `403.4B`
 
-⬇️ 188,723 • ❤️ 306 • 1d ago
+⬇️ 189,744 • ❤️ 308 • 1d ago
 
 ---
 
@@ -481,7 +473,7 @@ DiffusionGemma-26B-A4B-it-GGUF is a 26B MoE multimodal generative model that pro
 
 `image-text-to-text` `25.3B`
 
-⬇️ 107,243 • ❤️ 277 • 3d ago
+⬇️ 120,435 • ❤️ 280 • 3d ago
 
 ---
 
@@ -493,7 +485,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,697,882 • ❤️ 1,865 • 2mo ago
+⬇️ 2,716,651 • ❤️ 1,870 • 2mo ago
 
 ---
 
@@ -505,7 +497,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 `any-to-any` `12.0B`
 
-⬇️ 1,160,435 • ❤️ 1,040 • 11d ago
+⬇️ 1,223,383 • ❤️ 1,044 • 12d ago
 
 ---
 
@@ -521,7 +513,7 @@ Gemma 4 12B Unified is a multimodal LLM with native audio and vision understandi
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 231 • 💬 4 • ⭐ 7,180 • 25d ago
+▲ 233 • 💬 4 • ⭐ 7,471 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -533,7 +525,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 97 • 💬 4 • ⭐ 86,433 • 17mo ago
+▲ 97 • 💬 4 • ⭐ 86,537 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -559,7 +551,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates.
 
-▲ 39 • 💬 2 • ⭐ 152 • 4d ago
+▲ 47 • 💬 2 • ⭐ 312 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.14066) • [💻 code](https://github.com/microsoft/fastcontext) • [🔗 project](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)
 
@@ -572,7 +564,7 @@ FastContext separates repository exploration from code solving in LLM agents usi
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 80 • 💬 7 • ⭐ 77,235 • 23mo ago
+▲ 80 • 💬 7 • ⭐ 77,320 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -586,7 +578,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 16 • 💬 1 • ⭐ 82,320 • 14d ago
+▲ 16 • 💬 1 • ⭐ 82,375 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -604,6 +596,19 @@ LMCACHE enables efficient KV cache management for large language models by stori
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 58 • 💬 1 • ⭐ 83,030 • 33mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -617,19 +622,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 58 • 💬 1 • ⭐ 82,971 • 33mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[SIA: Self Improving AI with Harness & Weight Updates](https://huggingface.co/papers/2605.27276)**
 
 *Prannay Hebbar, Yogendra Manawat, Samuel Verboomen et al. (7 authors)*
@@ -638,7 +630,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 A self-improving AI framework simultaneously updates both model weights and task-specific agent architecture through a language-model feedback agent across legal classification, GPU optimization, and biological data denoising tasks.
 
-▲ 14 • 💬 2 • ⭐ 1,724 • 21d ago
+▲ 14 • 💬 2 • ⭐ 1,734 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.27276) • [💻 code](https://github.com/hexo-ai/sia) • [🔗 project](https://hexolabs.com/)
 
@@ -654,7 +646,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 72.0k • 🔱 9.2k • 34m ago
+⭐ 72.2k • 🔱 9.2k • 1h ago
 
 ---
 
@@ -664,7 +656,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 18.8k • 🔱 793 • 6h ago
+⭐ 20.7k • 🔱 870 • 1h ago
 
 ---
 
@@ -674,7 +666,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 374 • 2h ago
+⭐ 4.3k • 🔱 375 • 5m ago
 
 ---
 
@@ -684,7 +676,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 353 • 20m ago
+⭐ 3.4k • 🔱 355 • 5h ago
 
 ---
 
@@ -694,7 +686,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.2k • 🔱 382 • 4d ago
+⭐ 3.2k • 🔱 385 • 4d ago
 
 ---
 
@@ -704,7 +696,7 @@ A meta-harness for all your AI agents.  Omnigent provides a common layer over Cl
 
 `Python` `agents` `ai` `ai-agents` `developer-tools` `llm`
 
-⭐ 2.1k • 🔱 264 • 35s ago
+⭐ 2.3k • 🔱 277 • 6m ago
 
 ---
 
@@ -714,7 +706,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.0k • 🔱 186 • 7d ago
+⭐ 2.1k • 🔱 186 • 7d ago
 
 ---
 
@@ -734,7 +726,7 @@ AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 391 • 5h ago
+⭐ 1.6k • 🔱 397 • 2h ago
 
 ---
 
@@ -744,7 +736,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.6k • 🔱 136 • 47m ago
+⭐ 1.6k • 🔱 138 • 5h ago
 
 ---
 
