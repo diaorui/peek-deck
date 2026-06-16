@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-16T21:25:55.302913+00:00'
+updated: '2026-06-16T23:04:51.636063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 16, 2026 at 21:25 UTC  
+**Last Updated:** June 16, 2026 at 23:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,11 +122,19 @@ Business Insider • 1d ago
 
 ---
 
+**[Why robotics will be the next great investment theme](https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html)**
+
+RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme. He discusses how advances in artificial intelligence are accelerating the adoption of autonomous machines and why the convergence of AI and robotics may create significant opportunities for investors.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
 
 Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -140,13 +148,13 @@ The Conversation • 1d ago
 
 **[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
 
-Reuters • 16h ago
+Reuters • 18h ago
 
 ---
 
 **[French startup bets on non-humanoid design in crowded AI robot race](https://www.reuters.com/business/french-startup-bets-non-humanoid-design-crowded-ai-robot-race-2026-06-16/)**
 
-Reuters • 4h ago
+Reuters • 6h ago
 
 ---
 
@@ -164,19 +172,11 @@ stupidDOPE • 1d ago
 
 ---
 
-**[A robotic hand ‘talks’ to deaf and blind people. Here’s how it works.](https://www.bostonglobe.com/2026/06/16/business/tatum-robot-asl-sign-language/)**
-
-Tatum1 uses gestures and touch to speak to people who can neither see nor hear.
-
-The Boston Globe • 13h ago
-
----
-
 **[Robotic weld prep helps Laser Photonics enter data center supply chain](https://www.stocktitan.net/news/LASE/laser-photonics-enters-data-center-supply-chain-with-delivery-of-sds3h29ua9fx.html)**
 
 Programmable robotic laser cell valued at $0.8M automates pre-weld cleaning for Vander-Bend and marks Laser Photonics' entry into data center infrastructure.
 
-Stock Titan • 8h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ The newest humanoid robots are crazy for completely different reasons. The Frenc
 
 📺 Kalil 4.0
 
-👁️ 550 • 👍 17 • 💬 2 • ⏱️ 1:46 • 2h ago
+👁️ 550 • 👍 17 • 💬 2 • ⏱️ 1:46 • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ What else can humanoid robots do? This was a glimpse into the future! Unitree tr
 
 📺 Top Talent
 
-👁️ 156K • 👍 2K • 💬 188 • ⏱️ 6:09 • 6d ago
+👁️ 156K • 👍 2K • 💬 188 • ⏱️ 6:09 • 7d ago
 
 ---
 
@@ -250,7 +250,7 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 📺 Jason Lowe on AI
 
-👁️ 16K • 👍 1K • 💬 49 • ⏱️ 2:31 • 1d ago
+👁️ 16K • 👍 1K • 💬 49 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ Witness the future of smart agriculture!** Watch this metallic cube undergo an i
 
 📺 🚜🌾 Desi Farm Vibes
 
-👁️ 871 • 👍 9 • ⏱️ 0:21 • 1h ago
+👁️ 871 • 👍 9 • ⏱️ 0:21 • 3h ago
 
 ---
 
@@ -280,7 +280,7 @@ China's humanoid robot companies are rushing toward IPO in Shanghai and Hong Kon
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 33 • 💬 3 • ⏱️ 1:25 • 11h ago
+👁️ 1K • 👍 33 • 💬 3 • ⏱️ 1:25 • 12h ago
 
 ---
 

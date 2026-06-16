@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-16T21:25:55.292146+00:00'
+updated: '2026-06-16T23:04:51.626931+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 16, 2026 at 21:25 UTC  
+**Last Updated:** June 16, 2026 at 23:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,751.80
+### $65,730.50
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.7%  
-**7d:** +6.9%  
+**7d:** +7.0%  
 **30d:** -14.6%  
 **90d:** -6.0%  
 **1y:** -37.1%  
@@ -111,7 +111,7 @@ Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 23h ago
+🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 1d ago
 
 ---
 
@@ -157,19 +157,27 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[Glassnode data shows aggressive bitcoin buying between $59,000 and $67,000](https://www.coindesk.com/markets/2026/06/16/bitcoin-buyers-add-over-250-000-btc-between-usd59-000-and-usd67-000-as-accumulation-returns)**
+**[Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck](https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck)**
 
-Glassnode data shows broad-based buying across retail and whale cohorts, with the Accumulation Trend Score reaching its strongest level of the current drawdown.
+VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.
 
-CoinDesk • 10h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin's rally and HYPE's record run mask a market still waiting for real conviction, analysts say](https://www.theblock.co/post/404920/bitcoin-rally-hype-record-run-market-waiting-real-conviction-analysts)**
+**[A Framework for Valuing Bitcoin Miners as AI Infrastructure](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/)**
 
-Bitcoin held above $66,000 after the Iran truce as HYPE hit a fresh ATH above $76, but Wintermute and Bitfinex flagged thin ETF conviction.
+How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
-The Block • 7h ago
+vaneck.com • 3h ago
+
+---
+
+**[Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026](https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026)**
+
+The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices.
+
+The Block • 2d ago
 
 ---
 
@@ -177,7 +185,7 @@ The Block • 7h ago
 
 BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
@@ -189,27 +197,21 @@ Scott Melker discusses BlackRock's BLK (BLK) new bitcoin (BTC-USD) ETF, which of
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Watch BlackRock Launches New Bitcoin Income ETF](https://www.bloomberg.com/news/videos/2026-06-16/blackrock-launches-new-bitcoin-income-etf-video)**
 
-Bloomberg • 21h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Watch Crypto Wrap: Strategy Buys More Bitcoin, Robinhood Cuts Jobs](https://www.bloomberg.com/news/videos/2026-06-16/crypto-wrap-strategy-buys-more-bitcoin-robinhood-cuts-video)**
+**[BlackRock unveils bold Bitcoin prediction](https://sg.finance.yahoo.com/news/blackrock-unveils-bold-bitcoin-prediction-223931085.html)**
 
-Bloomberg • 1h ago
+BlackRock (NYSE: BLK) global fixed income CIO Rick Rieder unveiled a bold price prediction for Bitcoin (BTC) even as the world's largest cryptocurrency is currently trading nearly 50% lower than its record high price. Rieder appeared in a Bloomberg interview on June 15 and said Bitcoin is ...
 
----
-
-**[A Michigan couple may be the first to use Bitcoin for a standard US mortgage — and they didn't have to sell their coins](https://finance.yahoo.com/markets/crypto/articles/michigan-couple-may-first-bitcoin-183000256.html)**
-
-A software engineer used 10 years of bitcoin holdings as collateral to buy a home without selling a single coin — or paying capital gains taxes.
-
-Yahoo Finance • 2h ago
+Yahoo Finance Singapore • 25m ago
 
 ---
 
@@ -225,7 +227,7 @@ Forbes • 1d ago
 
 Bitcoin is flat on Tuesday morning, hovering around $66,300, following a brief rally over the weekend on the news of a looming Iran deal. Yet,...
 
-Sherwood News • 6h ago
+Sherwood News • 8h ago
 
 ---
 
@@ -253,7 +255,7 @@ Fortune • 1d ago
 
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
-⬆️ 6 • 💬 0 • 17h ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
+⬆️ 6 • 💬 0 • 19h ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
 
 ---
 
@@ -269,7 +271,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Zitchain is the next generation cryptocurrency architecture. 100% secure, energy efficient, built for the world.
 
-⬆️ 3 • 💬 1 • 5h ago • [zitchain.com](https://zitchain.com)
+⬆️ 3 • 💬 1 • 7h ago • [zitchain.com](https://zitchain.com)
 
 ---
 
@@ -277,7 +279,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
 
-⬆️ 3 • 💬 1 • 9h ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 3 • 💬 1 • 11h ago • [boltassociation.com](https://boltassociation.com/)
 
 ---
 
@@ -293,7 +295,7 @@ Quantum computing poses a real, broad-based, but bounded and substantially mitig
 
 A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 7h ago • [GitHub](https://github.com/epochbtc/satd)
+⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/epochbtc/satd)
 
 ---
 
@@ -301,7 +303,7 @@ A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd develop
 
 The Bitcoin address you already control is your account. Sign one message to prove it — BIP-322, never a transaction. Six open protocols, three products, one identity. No custody, no token, no issuer. Every artifact verifies offline, forever.
 
-⬆️ 2 • 💬 0 • 20h ago • [OrangeCheck](https://ochk.io/)
+⬆️ 2 • 💬 0 • 21h ago • [OrangeCheck](https://ochk.io/)
 
 ---
 
@@ -309,15 +311,13 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
 
-⬆️ 1 • 💬 0 • 4h ago • [CredScore](https://www.credscore.us/)
+⬆️ 1 • 💬 0 • 6h ago • [CredScore](https://www.credscore.us/)
 
 ---
 
-**[Tornado Cash's Roman Storm Could Face 40 Years as Government Seeks New Trial](https://news.ycombinator.com/item?id=48468891)**
+**[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
 
-Federal prosecutors want another chance to convict Tornado Cash developer Roman Storm, asking a judge to schedule a retrial this October.
-
-⬆️ 6 • 💬 0 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/tornado-cashs-roman-storm-new-trial)
+⬆️ 2 • 💬 0 • 5d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
 
 ---
 
@@ -331,7 +331,7 @@ Peter Schiff battles Bitcoin bull Anthony Pompliano on Fox Business, arguing the
 
 📺 Peter Schiff
 
-👁️ 81K • 👍 2K • 💬 1K • ⏱️ 11:24 • 21h ago
+👁️ 81K • 👍 2K • 💬 1K • ⏱️ 11:24 • 22h ago
 
 ---
 
@@ -341,7 +341,7 @@ Crypto Investors Need To Watch IMMEDIATELY!! ⭐ Follow Altcoin Daily on X: http
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 156 • ⏱️ 9:14 • 22h ago
+👁️ 40K • 👍 2K • 💬 156 • ⏱️ 9:14 • 1d ago
 
 ---
 
@@ -351,7 +351,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 331 • 💬 259 • ⏱️ 10:54 • 6h ago
+👁️ 4K • 👍 331 • 💬 259 • ⏱️ 10:54 • 7h ago
 
 ---
 
@@ -361,7 +361,7 @@ Tomorrow's FOMC decision could deliver a twist that many crypto investors aren't
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 28 • ⏱️ 27:35 • 7h ago
+👁️ 17K • 👍 1K • 💬 28 • ⏱️ 27:35 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ SpaceX, Bitcoin, Ethereum, and stocks updates! BITUNIX TRADE THE TOP COINS (avai
 
 📺 Lark Davis
 
-👁️ 8K • 👍 465 • 💬 46 • ⏱️ 15:23 • 9h ago
+👁️ 8K • 👍 465 • 💬 46 • ⏱️ 15:23 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 12K • 👍 854 • 💬 64 • ⏱️ 10:09 • 15h ago
+👁️ 12K • 👍 854 • 💬 64 • ⏱️ 10:09 • 17h ago
 
 ---
 
@@ -391,7 +391,7 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 406 • 💬 26 • ⏱️ 19:51 • 3h ago
+👁️ 4K • 👍 406 • 💬 26 • ⏱️ 19:51 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ Subscribe. Before the floodgates fully open. BlackRock oversees roughly $14 tril
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 267 • 💬 289 • ⏱️ 17:40 • 23h ago
+👁️ 5K • 👍 267 • 💬 289 • ⏱️ 17:40 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 323 • 💬 17 • ⏱️ 9:06 • 1h ago
+👁️ 3K • 👍 323 • 💬 17 • ⏱️ 9:06 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-16T21:25:55.298757+00:00'
+updated: '2026-06-16T23:04:51.632919+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 16, 2026 at 21:25 UTC  
+**Last Updated:** June 16, 2026 at 23:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,777.33
+### $1,793.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +10.8%  
-**30d:** -15.7%  
-**90d:** -16.0%  
-**1y:** -28.7%  
+**24h:** +0.4%  
+**7d:** +10.9%  
+**30d:** -15.6%  
+**90d:** -15.9%  
+**1y:** -28.6%  
 
 ---
 
@@ -148,6 +148,14 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 ## Google News: "ethereum"
 
+**[Ethereum’s biggest protocol overhaul in years moves into its final development stage](https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage)**
+
+Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
+
+CoinDesk • 7h ago
+
+---
+
 **[Bitmine Buys Another $136 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-136-million-184200466.html)**
 
 Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) bought another $136 million U.S. of Ethereum (CRY...
@@ -156,23 +164,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[How the bitcoin, ethereum playbook is evolving for Strategy and Bitmine](https://finance.yahoo.com/video/bitcoin-ethereum-playbook-evolving-strategy-120000578.html)**
+**[Ethereum Exchange Reserves Hit a 10-Year Low—Is a Supply Shock Brewing?](https://coinpedia.org/price-analysis/ethereum-exchange-reserves-hit-a-10-year-low-is-a-supply-shock-brewing/)**
 
-Scott Melker discusses Bitmine's (BMNR) current ethereum (ETH-USD) strategy, Strategy's (MSTR) bitcoin (BTC-USD) play, and more.
+Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Ethereum’s biggest protocol overhaul in years moves into its final development stage](https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage)**
-
-Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
-
-CoinDesk • 6h ago
+Coinpedia • 9h ago
 
 ---
 
@@ -184,25 +180,25 @@ Fortune • 8h ago
 
 ---
 
-**[Crypto Today: Bitcoin extends recovery above $66K as Ethereum and XRP lose momentum](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-extends-recovery-above-66k-as-ethereum-and-xrp-lose-momentum-202606161200)**
-
-Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
-
-FXStreet • 9h ago
-
----
-
 **[Ethereum Research Proposal Targets Post-Quantum Wallet Security At Low Gas Cost](https://www.tradingview.com/news/newsbtc:d465c9b57094b:0-ethereum-research-proposal-targets-post-quantum-wallet-security-at-low-gas-cost/)**
 
 A new Ethereum Research proposal is putting post-quantum wallet security back in focus, outlining a practical way to verify quantum-resistant signatures on the EVM without requiring a full protocol-level upgrade.The proposal, published by Ethereum researcher nicocsgy, explores an EVM-optimized vers…
 
-TradingView • 19h ago
+TradingView • 21h ago
 
 ---
 
-**[Ethereum to $5,000 if CLARITY Act Passes? Bullish Theories Fly as Senator Predicts Ten-Fold Crypto Increase](https://www.ccn.com/news/crypto/ethereum-bulls-5000-clarity-act-law-institutional-adoption/)**
+**[Crypto Today: Bitcoin extends recovery above $66K as Ethereum and XRP lose momentum](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-extends-recovery-above-66k-as-ethereum-and-xrp-lose-momentum-202606161200)**
 
-CCN.com • 7h ago
+Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
+
+FXStreet • 11h ago
+
+---
+
+**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -214,17 +210,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum’s 33% Staking Ratio Strengthens the Bullish Supply Shock Thesis](https://www.investing.com/analysis/ethereums-33-staking-ratio-strengthens-the-bullish-supply-shock-thesis-200682258)**
-
-Investing.com • 6h ago
-
----
-
 **[Ethereum, Solana, XRP spot ETFs see inflows as Bitcoin ETFs face $64M outflows](https://cryptobriefing.com/ethereum-solana-xrp-spot-etfs-see-inflows-as-bitcoin-etfs-face-64m-outflows/)**
 
 Ethereum, Solana, and XRP spot ETFs see inflows while Bitcoin ETFs face $64M outflows. Ethereum above $1100 on June 16, 2026 at 99.9% YES.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 9h ago
+
+---
+
+**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
+
+XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
+
+CryptoSlate • 11h ago
 
 ---
 
@@ -268,7 +266,7 @@ Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a
 
 📺 Lark Davis
 
-👁️ 4K • 👍 85 • 💬 3 • ⏱️ 0:44 • 17h ago
+👁️ 4K • 👍 85 • 💬 3 • ⏱️ 0:44 • 19h ago
 
 ---
 
@@ -278,7 +276,7 @@ ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "a
 
 📺 Dana Love, PhD
 
-👁️ 11K • 👍 625 • 💬 133 • ⏱️ 13:29 • 23h ago
+👁️ 11K • 👍 625 • 💬 133 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -308,7 +306,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 19:50 • 4h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 19:50 • 6h ago
 
 ---
 
@@ -328,7 +326,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 17K • 👍 2K • 💬 3 • ⏱️ 23:56 • 7h ago
+👁️ 17K • 👍 2K • 💬 3 • ⏱️ 23:56 • 9h ago
 
 ---
 
