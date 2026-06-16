@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-16T02:07:15.634370+00:00'
+updated: '2026-06-16T08:26:47.701902+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 16, 2026 at 02:07 UTC  
+**Last Updated:** June 16, 2026 at 08:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've always been interested in point clouds and spatial data, so I created my own LiDAR scanner! It runs off of an esp32 and TMC2209s on a custom PCB, which continuously rotate and sweep the LiDAR sensor. I learned a ton creating this project, as this was my first time creating a PCB and using NEMA motors (I have used other motors before). Github repo
 
-2d ago
+3d ago
 
 ---
 
@@ -110,23 +110,7 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-Business Insider • 17h ago
-
----
-
-**[Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/)**
-
-Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it to generate actions from visual…
-
-NVIDIA Developer • 13h ago
-
----
-
-**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
-
-Lighter and more affordable devices give users a battery-powered spring in their step
-
-Financial Times • 14h ago
+Business Insider • 23h ago
 
 ---
 
@@ -134,23 +118,7 @@ Financial Times • 14h ago
 
 In tests, AI robot systems easily rejected directly malicious commands. But their safety filters collapsed when creative writing was used to instruct them.
 
-The Conversation • 10h ago
-
----
-
-**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-06-14/)**
-
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
-
-CBS News • 1d ago
-
----
-
-**[Seres debuts humanoid as Chinese automakers pile into robotics](https://cnevpost.com/2026/06/15/seres-debuts-humanoid-robot/)**
-
-Seres showed off a humanoid robot called Xiaosai, saying more embodied intelligence products are in the pipeline.
-
-CnEVPost • 16h ago
+The Conversation • 17h ago
 
 ---
 
@@ -162,9 +130,41 @@ CNBC • 2d ago
 
 ---
 
+**[Seres debuts humanoid as Chinese automakers pile into robotics](https://cnevpost.com/2026/06/15/seres-debuts-humanoid-robot/)**
+
+Seres showed off a humanoid robot called Xiaosai, saying more embodied intelligence products are in the pipeline.
+
+CnEVPost • 22h ago
+
+---
+
+**[Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models | NVIDIA Technical Blog](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/)**
+
+Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it to generate actions from visual…
+
+NVIDIA Developer • 20h ago
+
+---
+
+**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
+
+Lighter and more affordable devices give users a battery-powered spring in their step
+
+Financial Times • 20h ago
+
+---
+
 **[Matic Reimagines the Robot Vacuum Through Vision-Based Home Robotics](https://stupiddope.com/2026/06/matic-reimagines-the-robot-vacuum-through-vision-based-home-robotics/)**
 
-stupidDOPE • 12h ago
+stupidDOPE • 19h ago
+
+---
+
+**[Inside the start-up aiming for a giant leap in robot intelligence](https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/)**
+
+Physical Intelligence is drawing on the broad knowledge of large language models to help robots understand instructions and learn to carry out any task independently
+
+New Scientist • 18h ago
 
 ---
 
@@ -176,11 +176,11 @@ Yahoo • 2d ago
 
 ---
 
-**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
+**[Why robots are now sent to school in China—and what they’re learning will shock you](https://www.futura-sciences.com/en/why-robots-are-now-sent-to-school-in-china-and-what-theyre-learning-will-shock-you_33125/)**
 
-As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
+Not Your Typical School: Where Robots Sharpen Their Skills In China, humanoid robots now have a school of their own. In Shanghai, at an institute built around diversity, they’re busy perfecting their gestures to serve in a range of domestic and industrial sectors. But make no mistake, this school is...
 
-The Guardian • 1d ago
+Futura, le média qui explore le monde • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 95K • 👍 6K • 💬 547 • ⏱️ 2:57 • 2d ago
+👁️ 101K • 👍 6K • 💬 586 • ⏱️ 2:57 • 2d ago
 
 ---
 
@@ -204,7 +204,17 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 15K • 👍 297 • 💬 108 • ⏱️ 8:49 • 2d ago
+👁️ 15K • 👍 303 • 💬 111 • ⏱️ 8:49 • 2d ago
+
+---
+
+**[China&#39;s New $1,000 AI Humanoid Robots Are Taking Over the US Market](https://www.youtube.com/watch?v=s_sqtVb4mB0)**
+
+China's new generation of AI humanoid robots highlights the country's rapid progress in robotics, automation, and artificial ...
+
+📺 Carros Show
+
+👁️ 2K • 👍 78 • 💬 12 • ⏱️ 21:46 • 11h ago
 
 ---
 
@@ -214,27 +224,17 @@ This video showcases some model successes and failures I've had in building a ro
 
 📺 Over Engineer
 
-👁️ 26K • 👍 2K • 💬 169 • ⏱️ 6:05 • 3d ago
+👁️ 32K • 👍 2K • 💬 192 • ⏱️ 6:05 • 3d ago
 
 ---
 
-**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
+**[AI buys robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
-ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
+AI buys a Robot. Could AI become dangerous? Can we trust AI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
-📺 Back to Engineering
+📺 InsideAI
 
-👁️ 32K • 👍 280 • 💬 9 • ⏱️ 0:13 • 4d ago
-
----
-
-**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
-
-What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
-
-📺 Top Talent
-
-👁️ 146K • 👍 2K • 💬 184 • ⏱️ 6:09 • 6d ago
+👁️ 485K • 👍 16K • 💬 2K • ⏱️ 15:10 • 1d ago
 
 ---
 
@@ -244,37 +244,27 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 📺 Jason Lowe on AI
 
-👁️ 11K • 👍 942 • 💬 32 • ⏱️ 2:31 • 1d ago
+👁️ 13K • 👍 1K • 💬 38 • ⏱️ 2:31 • 1d ago
 
 ---
 
-**[🧠 MIT&#39;s tiny robot could save 🔬  Stroke Patients in minutes 🧑‍⚕️ | MDCT](https://www.youtube.com/watch?v=DEJdeUzBnkY)**
+**[This robot crawls, twists, and swirls 🤯😱 #physicalai #robotics #ICRA](https://www.youtube.com/watch?v=V3_GDVPO3kE)**
 
-MIT's Tiny Robot Could Save Stroke Patients in Minutes *A medical breakthrough that feels like science fiction is becoming ...
+ARU by Nio Robotics mesmerizing everyone on the ICRA 2026 expo floor.
 
-📺 Make Dream Come True 
+📺 Back to Engineering
 
-👁️ 212K • 👍 1K • 💬 6 • ⏱️ 0:10 • 3d ago
-
----
-
-**[How to Get Pins off of the Ground #override #robot #robotics #vrc #vexrobotics #vexrobot #recf #vex](https://www.youtube.com/watch?v=-Xmg_XJFZLI)**
-
-Check out the full reveal video here: https://youtu.be/A1HNvKIgnXQ?si=03z-tdt5Sbmj8veo Check out the full explanation video ...
-
-📺 9MotorGang
-
-👁️ 479 • 👍 23 • ⏱️ 2:00 • 4h ago
+👁️ 32K • 👍 281 • 💬 9 • ⏱️ 0:13 • 4d ago
 
 ---
 
-**[The Robot More Precise Than Any Surgeon 🦾](https://www.youtube.com/watch?v=Nnjub0UQA4U)**
+**[Scientists Turned a Dead Spider into a Robot! 🕷️🤖](https://www.youtube.com/watch?v=jQbugXzN8LE)**
 
-A surgical robot operating on the human spine with sub-millimeter precision. FDA cleared. Already in use in real hospitals.
+Did you know scientists are using "necrobotics" to turn deceased spiders into tiny robotic grippers? Spiders naturally use hydraulic ...
 
-📺 KF Labs
+📺 Wealthy Capital
 
-👁️ 20K • 👍 480 • 💬 8 • ⏱️ 0:05 • 1d ago
+👁️ 54K • 👍 232 • 💬 14 • ⏱️ 0:07 • 3d ago
 
 ---
 
@@ -284,7 +274,15 @@ At first glance this material looks like polished metal, yet it bends, twists an
 
 📺 Machines In Action
 
-👁️ 38K • 👍 351 • 💬 18 • ⏱️ 0:15 • 1d ago
+👁️ 43K • 👍 397 • 💬 20 • ⏱️ 0:15 • 1d ago
+
+---
+
+**[Strangers try robot legs](https://www.youtube.com/watch?v=PSEHMHIy58w)**
+
+📺 Voodies
+
+👁️ 10K • 👍 758 • 💬 7 • ⏱️ 1:28 • 1d ago
 
 ---
 
