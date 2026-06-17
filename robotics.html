@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-06-17T21:07:41.178434+00:00"
+          "dateModified": "2026-06-17T22:58:20.543316+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,23 +614,23 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u4j2lp/im_a_high_schooler_who_made_a_3d_lidar_scanner/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8cjkw/3dprinted_rovers_using_pointclouddepth_da3/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/ZTV0MXA3d3lxejZoMRKot22MtU7eClPnmMKEf5l7zv5gF8kiKZe1rxmHPjsX.png?width=640&crop=smart&auto=webp&s=2f41a2bf93f435575547544934b9dc427607c7ca" alt="I'm a high schooler who made a 3d LiDAR scanner!" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/dTQ2enIyYWJ3dTdoMXC-H_2gcubkNi6HM6-Fzi0QTlxeCrEbgzTQ_-qHFgQf.png?width=640&crop=smart&auto=webp&s=8b24ce96de6040bea710af1ef5070fcc4c8cbce2" alt="3D-printed rovers using pointcloud/depth (DA3) instead of LIDAR" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u4j2lp/im_a_high_schooler_who_made_a_3d_lidar_scanner/" target="_blank" onclick="event.stopPropagation();">I'm a high schooler who made a 3d LiDAR scanner!</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8cjkw/3dprinted_rovers_using_pointclouddepth_da3/" target="_blank" onclick="event.stopPropagation();">3D-printed rovers using pointcloud/depth (DA3) instead of LIDAR</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I've always been interested in point clouds and spatial data, so I created my own LiDAR scanner! It runs off of an esp32 and TMC2209s on a custom PCB, which continuously rotate and sweep the LiDAR sensor. I learned a ton creating this project, as this was my first time creating a PCB and using NEMA motors (I have used other motors before). Github repo
+                            Hey everybody! Hobbyist here with an update on my cheap rover swarm project. I've been trying out Depth Anything 3 and wanted to share, because the results of such minimal hardware surprised me. The setup: each rover is just a XIAO ESP32-S3 Sense (~$15 board with a tiny onboard camera) in a 3D printed body. The ESP32 is basically a sender, it streams the camera over WiFi and reports temperature/battery/telemetry. All the heavy lifting (DA3 inference, navigation) runs on a PC that acts as the brain. No lidar, no depth sensor, one cheap RGB camera. DA3 gives me a point cloud per frame and can merge multiple frames into a larger cloud. Seeing a $15 camera produce a usable 3D-ish image of the room is still kind of wild to me. Eventually I want to use it for navigation - a kind of "poor man's lidar". It estimates what's near at three heights (eye level, above, below) to give a rough obstacle sense without a dedicated sensor. Secondly for visualization at the moment, but the goal is to stitch frames into an environment map. Positioning is currently handled by ArUco markers around the room (solvePnP). Still early and held together with hope, but it's been fun pushing this hardware further than it wamts to go. :-)
                         </div>
                         
 
@@ -639,7 +639,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781330902.0"></span>
+                                    <span data-timestamp="1781708302.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -649,23 +649,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u3r9ot/sony_ais_ace_robot_defeats_pro_miyuu_kihara_under/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8e4xf/boston_dynamics_atlas_product_director_on/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/MHZvd20xcnZ0dDZoMXX3R2o-naznM4Nrjo5xj-IybanxuBg4QDpBlWZ0MA85.png?width=640&crop=smart&auto=webp&s=88097c145458b09a30c8120052f18c3ade3dc8ae" alt="Sony AI’s Ace robot defeats pro Miyuu Kihara under official ITTF rules (Nature paper)" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/NnNmMGM5cW00djdoMZ87EdNzaTdvhM3T9NECNdi_51H8eGKmCm_XlG5JjoMf.png?width=640&crop=smart&auto=webp&s=cff3ac287ebbaf4df637277b8feec56c6f452cb3" alt="Boston Dynamics Atlas Product Director on Humanoid ROI" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u3r9ot/sony_ais_ace_robot_defeats_pro_miyuu_kihara_under/" target="_blank" onclick="event.stopPropagation();">Sony AI’s Ace robot defeats pro Miyuu Kihara under official ITTF rules (Nature paper)</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8e4xf/boston_dynamics_atlas_product_director_on/" target="_blank" onclick="event.stopPropagation();">Boston Dynamics Atlas Product Director on Humanoid ROI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
+                            Aya Durbin says humanoid robots need to prove real customer value before they can scale. She says the goal for Atlas is not just to be impressive, but to deliver positive ROI for customers. Boston Dynamics is focusing on industrial environments first, especially work that is hard to hire for, physically demanding and difficult to automate with traditional systems. She also says customers need robots that are reliable, useful and able to become a trusted part of the workforce.
                         </div>
                         
 
@@ -674,7 +674,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781259369.0"></span>
+                                    <span data-timestamp="1781711766.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -684,83 +684,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u433ih/opening_fight_for_last_years_competition/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8kkjr/hand_project_posponed_to_september/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/a3dmNGVlc2w3dzZoMZZEgJWCSDWp4FEWDTx1_OqgBIc-02B63vha5U8ZyVzI.png?width=640&crop=smart&auto=webp&s=87518e54eb2bdb609bd06436abf75202b649ff8b" alt="Opening fight for last year’s competition" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://preview.redd.it/sfzssgk9dw7h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8fc6b8dd24cb5933fc7ad65adf1547feec5c5e8d" alt="Hand project posponed to September" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u433ih/opening_fight_for_last_years_competition/" target="_blank" onclick="event.stopPropagation();">Opening fight for last year’s competition</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781287949.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bXJlNjJ2Zm1hMjdoMc3Q3zXcgEMyHINTfBfNDRq8KOijwWg_BL0FNu4X9EMF.png?width=320&crop=smart&auto=webp&s=5154837e38b59acc122d97bcf3dfbb7c8d528d8c" alt="Depth cloud Test on SLAM Camera" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u4sp2t/depth_cloud_test_on_slam_camera/" target="_blank" onclick="event.stopPropagation();">Depth cloud Test on SLAM Camera</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781361645.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u4tidk/book_suggestions_for_learning_artificial/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u4tidk/book_suggestions_for_learning_artificial/" target="_blank" onclick="event.stopPropagation();">Book suggestions for learning Artificial intelligence for Robotics.</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8kkjr/hand_project_posponed_to_september/" target="_blank" onclick="event.stopPropagation();">Hand project posponed to September</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Curation of materials for robotics and Artificial Intelligence. Learn as your practice materials. Today we have some extensive knowledge available for building robotics. And there is a roadmap that everyone interested can easily build using the available resources.
+                            So this is my 2nd project and final project in high school, quite ambitious i gotta say. I was trying to make a anthropomorphic robotic hand . So i grabbed the palm and finger design from here. But i wanted to make my own thingys where the strings are attached , and add adduction ( fingers get clamped together). I learned how to use fusion and how to 3d print , i didnt know what was clearance. I learned that quickly . I dont have a 3d printer at home so i needed to pay for everything , i spent all my budget for this project , and i was so close to finishing everything but , my strings lacked tension and some 3d printed parts broke and i really dont want to spend more money. I finally decided to postpone the project until september because i got in an engineering school and i hope they have a 3d printer i can use freely. On top of that i think its better to try out some new stuff throughout the summer like i want to make those plasma ball thingys with the glass surrounding it and you can touch it. I am a little disappointed cause i was so close but let's see. I left you some pics too ​
                         </div>
                         
 
@@ -769,7 +709,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781363680.0"></span>
+                                    <span data-timestamp="1781725704.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -779,114 +719,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u41ugd/2dof_differential_joint/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8mcei/target_autonomous_robots_for_mapping/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/cmtnZ3drcmN6djZoMQPDoEVO1ihpLlSkdXiziXGRLk4Flo99hRcgGHOhVUDB.png?width=640&crop=smart&auto=webp&s=4e8ffeb6a890956656d20dcd2f15e209e62d52f1" alt="2Dof Differential Joint" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/cmJia2k4cWNvdzdoMTSCuvieT-TCcb7hHttM1gC5f90OblAw8ADiFDUNR_w3.png?width=640&crop=smart&auto=webp&s=955bf8848fe6b72cb7ede0c515529a9f28850a58" alt="Target : autonomous robots for mapping" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u41ugd/2dof_differential_joint/" target="_blank" onclick="event.stopPropagation();">2Dof Differential Joint</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781285230.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u4riu6/visual_integration_to_lio_sam/" target="_blank" onclick="event.stopPropagation();">Visual Integration to LIO SAM</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781358674.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/aTMxdW9iZ2lrdTZoMUMJQG3Szyn5o7Tw52dWODi2aQjr7uyXmJcPILcuJ338.png?width=320&crop=smart&auto=webp&s=d966c272c1937f1bfb14be72d4bc3ebbc858cfc5" alt="test the stereo depth, only-vision" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u3u663/test_the_stereo_depth_onlyvision/" target="_blank" onclick="event.stopPropagation();">test the stereo depth, only-vision</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1781268087.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u410ku/built_an_autonomous_apriltag_chaser_on_a_picarx/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cGZ4M3FpOWJ0djZoMcfFO-ZP3Qa_fGJfHWLR-1XAxmE4oo_-TBW47nQOedWq.png?width=320&crop=smart&auto=webp&s=8523cba80a4994f01b80b322f9d689274b89043c" alt="Built an autonomous AprilTag chaser on a PiCar-X — v1 in action" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u410ku/built_an_autonomous_apriltag_chaser_on_a_picarx/" target="_blank" onclick="event.stopPropagation();">Built an autonomous AprilTag chaser on a PiCar-X — v1 in action</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8mcei/target_autonomous_robots_for_mapping/" target="_blank" onclick="event.stopPropagation();">Target : autonomous robots for mapping</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Been working on a PiCar-X build on a Raspberry Pi 4B. v1 goal: detect an AprilTag (36h11 family, ID 0), steer toward it with a PID controller, drive forward, and stop at a configured distance threshold. Toggle it on from a browser dashboard, 3-second countdown, and it goes. I built this entirely with Claude Code. It’s been a massive productivity boost while balancing a full-time job, and the process of building agentically has been a great learning experience. WebSocket concurrent send corruption The broadcast coroutine and the sensor push loop were both calling send_json() concurrently. At await boundaries they interleaved, Starlette threw, and the client was silently dropped from the send set — meaning the toggle-off confirmation never arrived and the button stayed stuck in active state even after the car stopped. Fixed by replacing the shared client set with a per-connection asyncio.Queue and a single drain task per connection. Camera color inversion that didn't respond to the obvious fixes BGR888 didn't fix it. RGB888 + cvtColor didn't fix it either. Root cause: capture_array() on this Pi hardware returns RGB regardless of the format name, and this platform's libjpeg encodes from RGB input correctly without any conversion. One-line fix once the actual data layout was confirmed via a frame diagnostic log. Had to fully remove Vilib It uses a Picamera2 internal API (allocator) removed in 0.3.36 — crashes on any camera restart after a chase session. Server now owns Picamera2 directly for the full session lifetime. What's next v2 candidates on the list: distance-proportional speed, latching stop behavior, camera tilt tracking, and operator override during chase. Stack: Raspberry Pi 4B · PiCar-X v2.0 · Picamera2 · pupil-apriltags · FastAPI · Python 3.13
+                            Hi r/robotics ! I’m currently working on a robotic car project for mapping, and I’d like to share my progress and get some feedback from the community. So far, the main issues I’ve encountered (and resolved) are as follows: - Synchronizing the car’s position on the map (as indicated by the gyroscope) with the position of the digitized image based on the car’s position - Managing the motors’ power supply (complex wiring) However, there are still a few issues for which I could use some advice. - It seems that over time, a discrepancy is developing between the robot’s position on the map and its actual position as measured by the gyroscope. Is this an inaccuracy in the gyroscope that could be corrected through code? - The scanner works but remains fairly inaccurate; any recommendations are welcome - The robot’s path tends to veer off course, so I’m considering adding speed encoders to implement a path correction system (I assume the problem stems from the fact that the speed of each motor isn’t always precise) My goal is to build a fully autonomous car capable of mapping its surroundings (I'll add a webcam). Feel free to share any ideas you might have. my target is build a full self driving car able to mapping his environment ( i will adding webcam). Github : https://github.com/enzocolombat/EC-Hub/
                         </div>
                         
 
@@ -895,7 +744,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781283466.0"></span>
+                                    <span data-timestamp="1781729728.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -905,23 +754,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u4ub2u/they_built_a_real_fighting_robot_and_its/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8fvh8/foundry_humanoid_robotics/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/trJVqoJ39IwIO6CZCyCchsztIjafYMmvw35ZkLWA1Gw.jpeg?width=320&crop=smart&auto=webp&s=ce8cf92d03572f8268da72dd829eb577ad5e927b" alt="They Built A Real Fighting Robot... And It's Unstoppable! (Engine AI T800)" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/ARXk5a2JuPiJ9lVtG-Gq0b5uP_bcuuVieq-OhjYccTE.jpeg?width=640&crop=smart&auto=webp&s=edc01e3743c3d8c302c40f66a1f4ceccd3dc1652" alt="Foundry Humanoid robotics" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1u4ub2u/they_built_a_real_fighting_robot_and_its/" target="_blank" onclick="event.stopPropagation();">They Built A Real Fighting Robot... And It's Unstoppable! (Engine AI T800)</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8fvh8/foundry_humanoid_robotics/" target="_blank" onclick="event.stopPropagation();">Foundry Humanoid robotics</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Real Steel Fighting .. It says the robot are real autonomous fighting. That means it will be better than real steel movie which is tele operated.
+                            There is an ad going around about a humanoid robot to help around the house. Does anyone know about that? ​ It feels scammy mostly because there is a video on their site showing them folding a shirt that is obviously AI. (The shirt doesn't fold correctly) ​ I guess just curious if anyone knows anything about them. ​
                         </div>
                         
 
@@ -930,25 +779,194 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1781365632.0"></span>
+                                    <span data-timestamp="1781715506.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://youtu.be/YDyWU5-W7zQ?is=z8SirTGQbOB8qZSq" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://foundryhumanoid.com/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.youtube.com/s/desktop/43517217/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <img src="https://foundryhumanoid.com/cdn/shop/files/2857ab1582d0b7bdfba3c9a817b903b7.jpg?crop=center&height=32&v=1773544288&width=32" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
                                             <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>youtu.be</span>
+                                        <span>Foundry</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8pbqm/samplingbased_motion_planning_genetic_algorithms/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8pbqm/samplingbased_motion_planning_genetic_algorithms/" target="_blank" onclick="event.stopPropagation();">Sampling-based motion planning, genetic algorithms, and biological evolution might all be running the same underlying search algorithm</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I work in robotics, and have for almost a decade now. I keep noticing that a huge chunk of search-under-uncertainty problems, in robotics and outside it, converge on the same two-step architecture: generate variation indiscriminately first, then apply a scoring/selection pressure that keeps what works and discards what doesn't. No model of the problem is required upfront. Most the "intelligence" lives in the selection step, not the generation step. The clearest version of this in our own field is sampling-based motion planning. RRT and its relatives don't try to compute a path analytically. They expand randomly in many directions through the configuration space and then retain/extend the branches that make progress toward the goal, pruning the rest. Genetic algorithms and evolution strategies (CMA-ES, for instance) run an identical loop in parameter space instead of configuration space: generate a population of variants, score them against a fitness (cost) function, keep the survivors, repeat. Simulated annealing is a single-particle version of the same thing, generate a random perturbation, accept or reject it based on a score. Once I started paying attention to this pattern, I noticed it shows up well outside robotics too, in places that have nothing to do with computer science: Slime mold expanding in all directions through a maze of food sources, with the inefficient tendrils pruned back, and famously reconstructing something close to the Tokyo rail network when food sources are placed at the positions of major stations. Evolution itself: random mutation generates variation with zero regard for whether it's useful, and survival does the selecting after the fact. Neural development: neurons and synaptic connections proliferate in directions that aren't pre-planned, and dopamine-linked reinforcement selectively stabilizes the ones that turn out to matter. Once I started looking for more instances, I found two more that fit the same structure almost exactly: The immune system: B-cells mutate antibody variants somewhat randomly (somatic hypermutation) and the ones that bind the pathogen get clonally selected and expanded. Thought/creativity: you can't generate a genuinely novel idea by deduction from evidence that it's correct. The evidence only exists after the idea does. Novelty has to come first; judgment comes second. That last one turns out to have a surprisingly direct precedent. Henri Poincaré, describing how he worked out the theta-fuchsian functions, wrote that ideas rose in crowds and collided in his mind until pairs interlocked into stable combinations, almost like watching his own unconscious work made partially visible to consciousness, and that what got selected from that flood of combinations was governed by something close to an aesthetic sense of mathematical elegance. That's a generate-then-select loop running inside a human mind, described in 1908. The principle has been formalized more than once since then, from different directions: Richard Dawkins' Universal Darwinism: the claim that variation/selection/retention isn't a biology-specific mechanism but a substrate-independent algorithm that biology happens to be one instance of. Donald Campbell's blind variation and selective retention (BVSR), later developed extensively by Dean Keith Simonton, which applies the same two-step structure directly to creative cognition. Karl Popper's conjectures and refutations model of how knowledge grows: blind generation of new theories, followed by selective retention of the ones that survive criticism. Popper explicitly treated this as the same process as biological evolution, just running on ideas instead of organisms. Gerald Edelman's Neural Darwinism (Theory of Neuronal Group Selection), the formal version of the neuron/dopamine point above: synaptic overproduction followed by activity-dependent selective stabilization. Worth flagging here: I'm not claiming the expansion step is ever truly random. In every example above, the variation is guided. Slime mold follows chemoattractant gradients, not isotropic noise. Mutation isn't uniform across a genome, there are hotspots and repair biases. Axon growth follows chemical guidance cues, not random angles. Informed RRT* deliberately biases sampling toward the goal region instead of sampling uniformly. Even Poincaré's account isn't pure randomness, he describes an aesthetic sense that seems to steer which combinations even get generated, not just which ones survive afterward. Liane Gabora has made this exact critique of BVSR, that calling the variation "blind" overstates how random it actually is. But that's the part I find more interesting, not less. The expansion step across all of these systems is intelligently informed, biased toward promising regions by something the system already "knows," and yet it still needs the separate selection/scoring step on top of that guidance to actually converge. Neither half does the job alone: the guidance is too crude or too local to solve the problem outright (that's why expansion is still happening at all instead of direct computation), and the selection pressure has no foresight of its own, it only works because it's filtering output that the guided expansion already biased toward viable territory. Has anyone else found that this specific combination, intelligently biased expansion paired with a separate selection/scoring step, actually performs best in practice? I have personally found, that at least for my applications in autonomous vehicles and motion planning, this combination works the best. Curious whether other people doing sampling-based planning, evolutionary algorithms, or other search methods have found the same thing I have: that this architecture outperforms the alternatives, rather than just being one option among several that works comparably well. I will personally only ever use this type of algorithm after realizing this is how nature does it. Lastly, I am not proposing that analytical algorithms are better or worse than machine learning algorithms. I believe that HOW this is solved is irrespective of the fundamental search algorithm of the universe I have observed. I believe that it is the expand, then score mechanism that is important here, and does not exclude any method of expansion or scoring, as I have observed this in the above stated forms across nature. Thanks for the read if you're here, I've been thinking about this all year and needed to post it somewhere.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781736791.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u799px/universal_manipulation_exoskeleton_ume_a_lowcost/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/eDFqNm00Y29ibTdoMcqnb39hQjYZADtx6xHIwq_wCDM8cWe0YTjdCsqFx_aO.png?width=640&crop=smart&auto=webp&s=845df550c25836eada22dbfaf62a32b52d070895" alt="Universal Manipulation Exoskeleton (UME): a low-cost exoskeleton with real-time haptic torque feedback" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u799px/universal_manipulation_exoskeleton_ume_a_lowcost/" target="_blank" onclick="event.stopPropagation();">Universal Manipulation Exoskeleton (UME): a low-cost exoskeleton with real-time haptic torque feedback</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            From Litian Liang on 𝕏 (thread with multiple videos): https://x.com/litian_liang/status/2066541466286215570 This work is done in Inclusion AI lab at Ant Group, advised by James (Jingxi) Xu and Professor Mark Cutkosky from Stanford BDML lab. Website: https://ume-exo.github.io Paper: https://arxiv.org/abs/2606.14218
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781604288.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u844ka/icra27/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u844ka/icra27/" target="_blank" onclick="event.stopPropagation();">ICRA'27</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hello Everyone, I am preparing my manuscript for upcoming ICRA'27. But They have page limit of 8 pages, including references. As well, They don't accept any supplementary documents. So my question is how can I show more experiments and ablation studies? Because 8 page is not sufficient. Any tips? Much appreciated!!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781684054.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u8eia6/resume_review_for_automate_2026_robotics_software/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/hj3exaho9v7h1.png?width=320&crop=smart&auto=webp&s=559e5077c500412069c48a7526068decd0493d29" alt="Resume Review for Automate 2026 / Robotics Software Engineer (Master's Student)" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u8eia6/resume_review_for_automate_2026_robotics_software/" target="_blank" onclick="event.stopPropagation();">Resume Review for Automate 2026 / Robotics Software Engineer (Master's Student)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Title: Resume Review for Automate 2026 / Robotics Software Engineer (Master's Student) Hi everyone, I'm attending Automate 2026 in Chicago and would appreciate feedback on my resume. I'm a Master of Science in Computer Science at Bridgewater State University (graduating December 2025). I have 4+ years of software engineering experience and hands-on robotics experience with ROS2, TurtleBot4, SLAM, Nav2, OpenCV, computer vision, and autonomous navigation projects. I'm targeting these roles: Robotics Software Engineer Robotics Engineer Autonomous Systems Engineer Computer Vision Engineer Software Engineer (Robotics) I'd appreciate feedback on: Is my resume strong enough for robotics and automation companies? Are there any red flags? Should I emphasize my robotics projects more than my software engineering experience? Is the resume optimized for career fairs and recruiter screening? What skills or keywords are missing? Thanks in advance for any advice.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781712555.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1u88n66/halfwiredtv_were_at_76_members_in_4_days_on/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1u88n66/halfwiredtv_were_at_76_members_in_4_days_on/" target="_blank" onclick="event.stopPropagation();">Halfwiredtv: we're at 76+ members in 4 days on discord</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            HalfwiredTV is a community for people who want to learn robotics, build projects, and collaborate with others. Our long-term goal is simple: Get everyone to a level where they can confidently learn, build and collaborate on robotics projects together in livestreams. What You'll Find Here -- People learning together teaching each other on calls in dedicated channels for topics (created as per demand) Project teammates Livestream collaborations and study sessions (uhm.. with meme songs) , also whenever anyone has something interesting to talk and show regardless of their skill level. We recently had our first livestream on a member's lazer scanning workflow for their robocar Robotics discussions ranging from complete beginners to advanced builders Your skill level doesn't matter. If you're curious, willing to learn, and willing to build, you're in the right place. Come join us : https://discord.com/channels/1514229376152113172/1514973636258172949
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1781698852.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -978,7 +996,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-13T16:56:04.495618+00:00">Updated 2026-06-13T16:56:04.495618+00:00</small>
+        <small data-timestamp="2026-06-17T22:58:04.663710+00:00">Updated 2026-06-17T22:58:04.663710+00:00</small>
     </div>
 </div>
 
@@ -1164,20 +1182,20 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/videos/robots-replace-real-friends-212318842.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a2c3a6550aa6577af8721c2?width=1200&format=jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/3e7739af04b324543c7b9cfc03ab5c3b329061d0393ea900d0bfb656bab77232/lightyear_networkapi/resizefill_w720_h1280;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_vertical_videos_492%2F64c939ee57e1519ae0eb211f9a715116');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6" target="_blank" onclick="event.stopPropagation();">Meet the 22 Investors to Know in Robotics and Physical AI</a>
+                            <a href="https://www.yahoo.com/news/videos/robots-replace-real-friends-212318842.html" target="_blank" onclick="event.stopPropagation();">Can robots replace my real friends?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
+                            Can real #friends be replaced by robots? Business Insider visited the Realbotix #factory in #LasVegas to find out. #robotics #robots #AI
                         </div>
                         
 
@@ -1187,9 +1205,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
                                     
                                 </div>
                                 
@@ -1197,7 +1215,85 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781514000.0"></span>
+                                    <span data-timestamp="1781731398.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/" target="_blank" onclick="event.stopPropagation();">AI coding agents taught robots how to install GPUs and cut zip ties</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Ars Technica" class="news-favicon">
+                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781593200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/" target="_blank" onclick="event.stopPropagation();">Alibaba unveils AI models for robots, amid shift from chatbots to agents</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1781584620.0"></span>
                                 </div>
                                 
                             </div>
@@ -1287,98 +1383,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bizjournals.com/pittsburgh/news/2026/06/17/cmu-robotics-innovation-center-army-ai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/micropolis-robotics-expands-physical-ai-222700818.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/F6FDE82897149BE6DB1162193C04A4542E2D0A1E27A26210BDE26E2E57D88807/subgraphmysterio/resizefill_w1200_h670;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F52f36f0382d7eb0f8815e197ef9d75e7');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bizjournals.com/pittsburgh/news/2026/06/17/cmu-robotics-innovation-center-army-ai.html" target="_blank" onclick="event.stopPropagation();">Pittsburgh positions itself as defense tech hub at CMU robotics forum</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Business Journals" class="news-favicon">
-                                    <a href="https://www.bizjournals.com" target="_blank" onclick="event.stopPropagation();">The Business Journals</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781719680.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.40.06-PM-1152x648.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/" target="_blank" onclick="event.stopPropagation();">AI coding agents taught robots how to install GPUs and cut zip-ties</a>
+                            <a href="https://finance.yahoo.com/technology/ai/articles/micropolis-robotics-expands-physical-ai-222700818.html" target="_blank" onclick="event.stopPropagation();">Micropolis Robotics Expands Physical AI Portfolio with Five-Year Autonomous Sweeper Deployment Agreement with Abu Dhabi Government</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Nvidia's self-improvement program for robots enlists teams of AI coding agents.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1781593200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/23F024F452BF25C021008667BDADD204F13D5043F785DF4DEC28EAD09A26DD30/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fb3b7167d-c7e1-4d3c-a19b-a0c9de3dc721');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html" target="_blank" onclick="event.stopPropagation();">Why robotics will be the next great investment theme</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme. He discusses how advances in artificial intelligence are accelerating the adoption of autonomous machines and why the convergence of AI and robotics may create significant opportunities for investors.
+                            Long-term agreement with the Department of Municipalities and Transport advances the deployment of Physical AI and autonomous municipal services across Abu Dhabi Micropolis AI Robotics AI-powered autonomous sweeper Micropolis AI Robotics AI-powered, autonomous sweeper DUBAI, United Arab Emirates, June 16, 2026 (GLOBE NEWSWIRE) -- Micropolis AI Robotics (NYSE: MCRP) (“Micropolis” or the “Company”), a leading UAE-based developer of autonomous mobile robots and AI-enabled systems, today announced a
                         </div>
                         
 
@@ -1398,7 +1416,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781643210.0"></span>
+                                    <span data-timestamp="1781648820.0"></span>
                                 </div>
                                 
                             </div>
@@ -1406,17 +1424,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a2c3a6550aa6577af8721c2?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/" target="_blank" onclick="event.stopPropagation();">Alibaba unveils AI models for robots, amid shift from chatbots to agents</a>
+                            <a href="https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6" target="_blank" onclick="event.stopPropagation();">Meet the 22 Investors to Know in Robotics and Physical AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1425,9 +1447,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1435,7 +1457,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1781584620.0"></span>
+                                    <span data-timestamp="1781514000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1586,7 +1608,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-17T21:07:34.916230+00:00">Updated 2026-06-17T21:07:34.916230+00:00</small>
+        <small data-timestamp="2026-06-17T22:58:09.401406+00:00">Updated 2026-06-17T22:58:09.401406+00:00</small>
     </div>
 </div>
 

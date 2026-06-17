@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-17T21:07:41.561744+00:00'
+updated: '2026-06-17T22:58:20.838257+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 21:07 UTC  
+**Last Updated:** June 17, 2026 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,259.44
+### $64,409.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.1%  
+**24h:** -2.0%  
+**7d:** +1.2%  
 **30d:** -16.3%  
-**90d:** -8.8%  
+**90d:** -8.7%  
 **1y:** -38.7%  
 
 ---
@@ -111,7 +111,7 @@ Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 1d ago
+🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 2d ago
 
 ---
 
@@ -161,21 +161,29 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
 
-CoinDesk • 38m ago
+CoinDesk • 42m ago
 
 ---
 
-**[Bitcoin Edges Lower Ahead of Fed Decision](https://www.barrons.com/livecoverage/stock-market-news-today-061726/card/bitcoin-edges-lower-ahead-of-fed-decision-1snDzy3SDCioqwc4VHlB)**
-
-Barron's • 4h ago
-
----
-
-**[Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh](https://decrypt.co/371439/bitcoin-slides-fed-deliver-price-stability-under-kevin-warsh)**
+**[Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-fed-says-deliver-182047932.html)**
 
 The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the expected result, yet Bitcoin and other assets dipped.
 
-Decrypt • 2h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[FOMC News Update: Bitcoin Dips 1% to $65,417, Gold Falls $40, Dollar Surges as Hawkish Fed Dot Plot Rattles Markets](https://www.binance.com/en/square/post/335175634395457)**
+
+Binance • 4h ago
+
+---
+
+**[BlackRock unveils bold Bitcoin prediction](https://finance.yahoo.com/markets/crypto/articles/blackrock-unveils-bold-bitcoin-prediction-223931085.html)**
+
+BlackRock (NYSE: BLK) global fixed income CIO Rick Rieder unveiled a bold price prediction for Bitcoin (BTC) even as the world's largest cryptocurrency is currently trading nearly 50% lower than its record high price. Rieder appeared in a Bloomberg interview on June 15 and said Bitcoin is ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -187,31 +195,35 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock launches bitcoin income fund as investors seek cash flow from crypto](https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure)**
+**[It’s ‘Over’—Crypto Is Quietly Braced For A ‘Critical’ BlackRock Bitcoin Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/06/15/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
 
-After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.
+The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
 
-CoinDesk • 1d ago
-
----
-
-**[BlackRock is launching a bitcoin ETF that pays you](https://finance.yahoo.com/video/blackrock-launching-bitcoin-etf-pays-181500788.html)**
-
-Scott Melker discusses BlackRock's BLK (BLK) new bitcoin (BTC-USD) ETF, which offers yields of up to 15% per year. Melker breaks down how the fund works, the risks investors should understand, and the trade-offs behind the potential returns.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+Forbes • 2d ago
 
 ---
 
-**[Michael Saylor reveals key reason for Bitcoin's crash](https://sg.finance.yahoo.com/news/michael-saylor-reveals-key-reason-195247744.html)**
+**[Applied Digital’s $1.59B Raise, Illinois’s Bitcoin Transaction Tax, Why SaaS Bonds May Be in Trouble](https://finance.yahoo.com/video/applied-digital-1-59b-raise-205400564.html)**
 
-Michael Saylor used a high-profile appearance at BTC Prague to address two separate issues at once: criticism over Strategy's (Nasdaq: MSTR) recent Bitcoin sale, and his own theory for why Bitcoin has been lagging this year. Speaking with Natalie Brunell, the Strategy co-founder and executive ...
+Applied Digital closed a $1.59 billion senior secured note raise, and Illinois will now take a piece of every bitcoin exchange/broker transaction.
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[What Illinois’s bitcoin transaction tax actually means](https://finance.yahoo.com/video/illinois-bitcoin-transaction-tax-actually-212011106.html)**
+
+Illinois will now tax brokers and exchanges 0.2% for every bitcoin and crypto transaction.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Billionaire with 70% of portfolio in Bitcoin makes bold prediction](https://finance.yahoo.com/markets/crypto/articles/billionaire-70-portfolio-bitcoin-makes-220500912.html)**
+
+One of Latin America's wealthiest individuals, Mexican billionaire Ricardo Salinas Pliego has been bullish on Bitcoin (BTC) for years. In fact, the billionaire holds 70% of his investment portfolio in the cryptocurrency as he believes fiat currencies are going to lose purchasing power ...
+
+Yahoo Finance • 53m ago
 
 ---
 
@@ -219,23 +231,7 @@ Yahoo Finance Singapore • 1h ago
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-CNBC • 9h ago
-
----
-
-**[Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price](https://bitcoinmagazine.com/news/mexican-billionaire-ricardo-salinas-bets)**
-
-Mexican billionaire Ricardo Salinas says he has increased his bitcoin allocation from 10% in 2020 to 70% of his portfolio today and believes bitcoin will eventually reach $1 million.
-
-Bitcoin Magazine • 3h ago
-
----
-
-**[A Framework for Valuing Bitcoin Miners as AI Infrastructure](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/)**
-
-How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
-
-vaneck.com • 1d ago
+CNBC • 11h ago
 
 ---
 
@@ -271,7 +267,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 7h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 9h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -353,7 +349,7 @@ Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
 
 📺 100XClub
 
-👁️ 8K • 👍 850 • 💬 163 • ⏱️ 2:03 • 12h ago
+👁️ 8K • 👍 850 • 💬 163 • ⏱️ 2:03 • 14h ago
 
 ---
 
@@ -373,7 +369,7 @@ Dante talks about Why You Should Never Sell Your Bitcoin! Brought to you by Bitc
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 27 • 💬 147 • ⏱️ 0:26 • 8h ago
+👁️ 1K • 👍 27 • 💬 147 • ⏱️ 0:26 • 9h ago
 
 ---
 
@@ -393,7 +389,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 189 • 💬 36 • ⏱️ 43:02 • 6h ago
+👁️ 3K • 👍 189 • 💬 36 • ⏱️ 43:02 • 7h ago
 
 ---
 

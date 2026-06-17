@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-17T21:07:41.567806+00:00'
+updated: '2026-06-17T22:58:20.842394+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 21:07 UTC  
+**Last Updated:** June 17, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,743.98
+### $1,744.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +4.2%  
+**24h:** -2.7%  
+**7d:** +4.1%  
 **30d:** -17.4%  
-**90d:** -18.7%  
+**90d:** -18.8%  
 **1y:** -30.9%  
 
 ---
@@ -176,7 +176,7 @@ Yahoo Finance • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 7h ago
+fortune.com • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ fortune.com • 7h ago
 
 DUBAI, United Arab Emirates, June  17, 2026  (GLOBE NEWSWIRE) -- Little Pepe (LILPEPE), a blockchain project building a meme-focused Layer 2 netwo...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -193,14 +193,6 @@ markets.businessinsider.com • 1h ago
 Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
 
 TradingView • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC pauses recovery, ETH holds key support, XRP nears breakout zone](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-pauses-recovery-eth-holds-key-support-xrp-nears-breakout-zone-202606170321)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as assets struggle to build a unified direction after their recent recoveries. BTC paused its rebound near $66,000, while ETH holds above a key support zone, keeping bullish hopes alive.
-
-FXStreet • 17h ago
 
 ---
 
@@ -226,6 +218,14 @@ CCN.com • 2d ago
 
 ---
 
+**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
+
+XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
+
+CryptoSlate • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 536 • 👍 42 • 💬 88 • ⏱️ 38:25 • 2h ago
+👁️ 536 • 👍 42 • 💬 88 • ⏱️ 38:25 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 148 • 👍 11 • 💬 111 • ⏱️ 2:27 • 5h ago
+👁️ 148 • 👍 11 • 💬 111 • ⏱️ 2:27 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 321 • 👍 17 • 💬 3 • ⏱️ 5:04 • 11h ago
+👁️ 321 • 👍 17 • 💬 3 • ⏱️ 5:04 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 87 • 👍 4 • 💬 14 • ⏱️ 7:44 • 7h ago
+👁️ 87 • 👍 4 • 💬 14 • ⏱️ 7:44 • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "a
 
 📺 Dana Love, PhD
 
-👁️ 14K • 👍 705 • 💬 153 • ⏱️ 13:29 • 1d ago
+👁️ 14K • 👍 705 • 💬 153 • ⏱️ 13:29 • 2d ago
 
 ---
 
