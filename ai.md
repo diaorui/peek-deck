@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-16T23:04:51.618214+00:00'
+updated: '2026-06-17T02:01:41.272606+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 16, 2026 at 23:04 UTC  
+**Last Updated:** June 17, 2026 at 02:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Your company is probably spending more on coffee than AI](https://www.reddit.com/r/artificial/comments/1u7ta74/your_company_is_probably_spending_more_on_coffee/)**
+
+2h ago
+
+---
+
 **[SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI](https://www.reddit.com/r/artificial/comments/1u7gf4x/spacex_buys_ai_coding_startup_cursor_for_60/)**
 
 SpaceX will move forward with its $60 billion acquisition of artificial intelligence startup Cursor as Elon Musk's space exploration and AI company seeks a competitive edge against rivals Anthropic and OpenAI after its Wall Street debut last week.  SpaceX said in April that it had the rights to buy Cursor, or pay $10 billion to “work together” with the company.  In a regulatory filing Tuesday, SpaceX said that Cursor will become a wholly owned subsidiary when the deal closes in the third quarter.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/spacex-buys-ai-coding-startup-113132273.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/spacex-buys-ai-coding-startup-113132273.html) • 10h ago
 
 ---
 
@@ -49,13 +55,21 @@ SpaceX will move forward with its $60 billion acquisition of artificial intellig
 
 Pokémon Go location data captured by players is not being used to train military drones, Niantic Spatial has insisted.
 
-🔗 [IGN](https://www.ign.com/articles/no-pokmon-go-data-isnt-being-used-to-train-military-drones-niantic-spatial-insists) • 7h ago
+🔗 [IGN](https://www.ign.com/articles/no-pokmon-go-data-isnt-being-used-to-train-military-drones-niantic-spatial-insists) • 10h ago
 
 ---
 
 **[i've started asking AI to argue against me before i ask it to help me, and it changed everything](https://www.reddit.com/r/artificial/comments/1u7m56o/ive_started_asking_ai_to_argue_against_me_before/)**
 
 small habit shift that's been surprisingly useful. instead of asking a model "is this a good idea," which basically invites it to agree with me, i now open with "give me the strongest case that this is a bad idea." then i ask the normal question. the difference is night and day. leading with the question gets me a confident yes that mostly reflects how i phrased things. leading with the counter-case forces it to actually engage the weak points first, and then its eventual answer is way more balanced because it's already had to sit in the opposing seat. the bigger realization is that these tools mirror your framing more than people admit, so the only way to get signal is to deliberately frame against yourself. when i really want to stress-test something i'll do this across a couple different models and watch where they land differently. i got so obsessed with doing this that i even built something to automate exactly this. anyone else flip the framing like this? what's your version of forcing it to disagree with you?
+
+7h ago
+
+---
+
+**[Apple spent billions on Vision Pro and still couldn't figure out that what we want](https://www.reddit.com/r/artificial/comments/1u7qhju/apple_spent_billions_on_vision_pro_and_still/)**
+
+Honestly just a rant but I need to get this off my chest. Apple spent years and billions building the Vision Pro. A giant headset you strap to your face. Who is actually going out wearing that thing. It looks like something you put on before surgery. And shocker, nobody bought it. Meanwhile my phone already has a great chip, a great battery, great connectivity. Just let it do the heavy lifting. Build something small that pairs with it and handles the interface part. That is literally all I am asking for. The glasses form factor is so obvious. Small frame, connects to your phone, phone does the processing. Why did Apple go straight to helmet ?!! I genuinely do not understand the logic here. Is it a margin thing? An ego thing? Because from a user perspective it makes zero sense.
 
 4h ago
 
@@ -65,7 +79,7 @@ small habit shift that's been surprisingly useful. instead of asking a model "is
 
 I've been researching AI tools that can create interactive stories based on user input. I'm not looking for traditional RPG mechanics or complex game systems. What interests me is the storytelling side. I'd like to start with a character, world, or premise and have the AI build and adapt the narrative based on my choices. The biggest things I case about are story quality, character consistency, memory, and how well the experience holds up over longer sessions. Some tools seem great initially but start forgetting details or losing the plot after a while. I've heard good things about AI Dungeon, but I'm curious what other options people are using today. Are there any platforms that stand out for long-form interavtive storytelling, especially ones that balance quality, memory, and cost?
 
-52m ago
+3h ago
 
 ---
 
@@ -73,29 +87,21 @@ I've been researching AI tools that can create interactive stories based on user
 
 Keep the conversation going. Hopefully in a positive or informative manner that benefits us all.✌️
 
-15h ago
+17h ago
+
+---
+
+**[Petition To Change Youtube](https://www.reddit.com/r/artificial/comments/1u7u35e/petition_to_change_youtube/)**
+
+https://c.org/FRv5p4P4qG I started a petition to change Youtube. In the petition I detail the issues of non-communication and reliance on automated systems, the far-reaching effects, and the solutions I hope will be implemented. But that'll only happen if we make enough noise. If you have channels you value, help protect them by signing. Youtube has shown that it's only when people make a ruckus that they are forced to change anything. I'm hoping we can make the platform better for the millions of content creators and us the viewers.
+
+2h ago
 
 ---
 
 **[Update: DeepSeek AI and the Great Talent Competition](https://www.reddit.com/r/artificial/comments/1u7s8ze/update_deepseek_ai_and_the_great_talent/)**
 
-🔗 [hoover.org](https://www.hoover.org/research/update-deepseek-ai-and-the-great-talent-competition) • 38m ago
-
----
-
-**[Imperial Valley data center developer files lawsuit seeking access to Colorado River water](https://www.reddit.com/r/artificial/comments/1u7rycu/imperial_valley_data_center_developer_files/)**
-
-Imperial Valley Computer Manufacturing is suing the Imperial Irrigation District for access to 260 million gallons of water per year from the drought-stricken river.
-
-🔗 [KPBS Public Media](https://www.kpbs.org/news/environment/2026/06/15/imperial-valley-data-center-developer-files-lawsuit-seeking-access-to-colorado-river-water) • 50m ago
-
----
-
-**[Apple spent billions on Vision Pro and still couldn't figure out that what we want](https://www.reddit.com/r/artificial/comments/1u7qhju/apple_spent_billions_on_vision_pro_and_still/)**
-
-Honestly just a rant but I need to get this off my chest. Apple spent years and billions building the Vision Pro. A giant headset you strap to your face. Who is actually going out wearing that thing. It looks like something you put on before surgery. And shocker, nobody bought it. Meanwhile my phone already has a great chip, a great battery, great connectivity. Just let it do the heavy lifting. Build something small that pairs with it and handles the interface part. That is literally all I am asking for. The glasses form factor is so obvious. Small frame, connects to your phone, phone does the processing. Why did Apple go straight to helmet ?!! I genuinely do not understand the logic here. Is it a margin thing? An ego thing? Because from a user perspective it makes zero sense.
-
-1h ago
+🔗 [hoover.org](https://www.hoover.org/research/update-deepseek-ai-and-the-great-talent-competition) • 3h ago
 
 ---
 
@@ -103,15 +109,7 @@ Honestly just a rant but I need to get this off my chest. Apple spent years and 
 
 At GiveDirectly, we recently ran a pilot in rural Rwanda that paired unconditional cash transfers with access to a general-purpose AI chatbot. One of the most interesting findings: people often used the chatbot as an always-available advisor—for business decisions, learning, and getting second opinions. But the pilot also exposed important limitations, including language gaps, locally irrelevant responses, and confidently incorrect answers. The writeup explores both sides: where participants found value, where the technology fell short, and what these experiences suggest about deploying frontier models in low-resource settings. Curious what the LLM community thinks: how should we evaluate models when local language support, contextual understanding, and reliability may matter more than benchmark performance? https://www.givedirectly.org/the-robots-work-at-night
 
-12h ago
-
----
-
-**[board prep used to eat a full saturday for me, the gathering more than the writing](https://www.reddit.com/r/artificial/comments/1u7gj67/board_prep_used_to_eat_a_full_saturday_for_me_the/)**
-
-counted it once last quarter: roughly 3 hours just pulling inputs before i opened a single slide. Last month's metrics out of notion, the roadmap state from linear, founder check-in notes sitting in granola, the open investor threads in gmail. None of it is hard work, it's just scattered across five tabs and i'm the courier carrying it between them. The actual writing was never my bottleneck. a chat assistant drafts the narrative fine once everything is pasted in, but i'm still the one doing the gather step by hand first. what changed it for me was letting a desktop agent do the cross-app read in one pass, notion plus linear plus granola plus gmail, and hand back an assembled draft before i touch slides. The deck quality wasn't the surprise. Not spending the morning as a copy-paste machine was. The gathering is the tax nobody budgets for, and honestly it's the part i least want a human doing. written with ai
-
-7h ago
+15h ago
 
 ---
 
@@ -119,23 +117,25 @@ counted it once last quarter: roughly 3 hours just pulling inputs before i opene
 
 ## Google News: "ai"
 
-**[SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)**
+**[AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI](https://apnews.com/article/nvidea-huang-artificial-intelligence-8334abcbc6ed8d3d7889b640ec6fa05b)**
 
-Reuters • 8h ago
+Nvidia CEO Jensen Huang — whose work helped propel artificial intelligence — is stressing in an Associated Press interview that society has no choice but to change in the advent of AI.
 
----
-
-**[SpaceX to acquire the AI coding startup Cursor for $60 billion](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)**
-
-The deal will help to bolster the company's efforts to compete with rivals like Anthropic and OpenAI, which also offer popular coding tools.
-
-CNBC • 9h ago
+AP News • 3h ago
 
 ---
 
-**[SpaceX purchases Bay Area AI coding startup for $60 billion](https://www.sfgate.com/tech/article/spacex-cursor-acquisition-22307894.php)**
+**[A.I. Boom Ignites Asian Chip Companies](https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html)**
 
-SFGATE • 28m ago
+The New York Times • 17h ago
+
+---
+
+**[Nvidia's Jensen Huang discusses AI policy, manufacturing and Trump relationship](https://www.yahoo.com/news/videos/nvidias-jensen-huang-discusses-ai-011821352.html)**
+
+Nvidia CEO Jensen Huang stressed in an Associated Press interview Tuesday that society needs to change with the advent of AI, arguing that a fuller embrace of the technology would improve people's liv...
+
+Yahoo • 43m ago
 
 ---
 
@@ -143,51 +143,47 @@ SFGATE • 28m ago
 
 AI is enabling a deluge of cyberattacks the likes of which we’ve never seen before.
 
-The Atlantic • 5h ago
+The Atlantic • 8h ago
 
 ---
 
-**[Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents](https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html)**
+**[HSBC, Google AI Partnership Set to Add Over $100 Million Gains](https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains)**
 
-Databricks is seeing higher growth as AI agents assist with data analysis, but all that activity is significantly increasing costs.
-
-CNBC • 39m ago
+Bloomberg • 1h ago
 
 ---
 
-**[US asset managers file for first ETFs targeting Wall Street's new obsession, AI and the 'MANGOS'](https://www.reuters.com/legal/government/us-asset-managers-file-first-etfs-targeting-wall-streets-new-obsession-ai-mangos-2026-06-16/)**
+**[SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)**
 
-Reuters • 1h ago
+Reuters • 11h ago
 
 ---
 
-**[Motorists could be banned from using AI smart glasses while driving](https://www.cbsnews.com/chicago/video/motorists-could-be-banned-from-using-ai-smart-glasses-while-driving/)**
+**[Macron winds up G7 with AI, Trump dinner](https://www.yahoo.com/news/politics/articles/macron-winds-g7-ai-trump-013500817.html)**
 
-State lawmakers passed an updated bill that includes wearable technology like Meta glasses, saying the devices can take a driver's focus off the road.
+G7 leaders will discuss on Wednesday the security risks posed by AI and social media on the last day of a summit dominated by Donald Trump, before host French President Emmanuel Macron dines with his ...
 
-CBS News • 58m ago
+Yahoo • 26m ago
+
+---
+
+**[Iran posts AI-generated propaganda video ahead of World Cup match](https://www.cnn.com/2026/06/16/world/video/iran-ai-generated-propaganda-world-cup-video-vrtc)**
+
+An Iranian Foreign Ministry spokesperson posted an AI-generated propaganda video ahead of the country’s World Cup opener in Los Angeles, appearing to evoke the memory of schoolchildren killed in a likely US strike on a school in February.
+
+CNN • 14h ago
+
+---
+
+**[White House’s Anthropic move jolts Congress back into the AI debate](https://www.politico.com/news/2026/06/16/white-houses-anthropic-move-jolts-congress-back-into-the-ai-debate-00964614)**
+
+Politico • 1h ago
 
 ---
 
 **[How the Anthropic saga could threaten American AI dominance](https://www.axios.com/2026/06/16/anthropic-regulation-trump-china)**
 
-Axios • 13h ago
-
----
-
-**[Intel begins production of anticipated 18A-P chips, as AI continues to drive CPU demand](https://finance.yahoo.com/technology/article/intel-begins-production-of-anticipated-18a-p-chips-as-ai-continues-to-drive-cpu-demand-210000103.html)**
-
-Intel's says its latest process node, 18A-P, is entering initial production.
-
-Yahoo Finance • 2h ago
-
----
-
-**[France to ditch Palantir’s AI data tools in favour of domestic provider](https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision)**
-
-Move to ChapsVision is to avoid ‘strategic dependencies’, says PM amid concern about reliance on US-controlled tools
-
-The Guardian • 3h ago
+Axios • 15h ago
 
 ---
 
@@ -199,7 +195,7 @@ The Guardian • 3h ago
 
 People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.
 
-⬆️ 506 • 💬 543 • 2d ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
+⬆️ 508 • 💬 543 • 2d ago • [gabrielweinberg.com](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 
 ---
 
@@ -207,7 +203,13 @@ People are consuming AI like they eat meat: some are embracing it, some are limi
 
 Self-hosting OpenCode Web for GitOps style homelab changes.
 
-⬆️ 354 • 💬 56 • 1d ago • [rsgm.dev](https://rsgm.dev/post/ai-dev-platform/)
+⬆️ 357 • 💬 56 • 1d ago • [rsgm.dev](https://rsgm.dev/post/ai-dev-platform/)
+
+---
+
+**[Has AI already killed self-help nonfiction books?](https://news.ycombinator.com/item?id=48558489)**
+
+⬆️ 163 • 💬 173 • 8h ago • [tim.blog](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
 
 ---
 
@@ -223,7 +225,7 @@ From Java tests to Shai-Hulud, bots keep proving they'll swallow anything you fe
 
 Microsoft is adding AWS capacity for GitHub after AI-driven usage strained the developer platform, exposing Azure constraints and the infrastructure cost of agentic coding.
 
-⬆️ 154 • 💬 70 • 20h ago • [RuntimeWire](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
+⬆️ 154 • 💬 70 • 23h ago • [RuntimeWire](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
 
 ---
 
@@ -231,7 +233,7 @@ Microsoft is adding AWS capacity for GitHub after AI-driven usage strained the d
 
 Once again, AI proves to be an unreliable source of information about AI.
 
-⬆️ 153 • 💬 32 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+⬆️ 154 • 💬 33 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
 
 ---
 
@@ -239,7 +241,7 @@ Once again, AI proves to be an unreliable source of information about AI.
 
 C++ Path Tracer from scratch with zero third-party libraries. - themartiano/luz
 
-⬆️ 149 • 💬 64 • 1d ago • [GitHub](https://github.com/themartiano/luz)
+⬆️ 150 • 💬 64 • 1d ago • [GitHub](https://github.com/themartiano/luz)
 
 ---
 
@@ -257,12 +259,6 @@ A sourced model and short report: can Europe train a sovereign frontier AI model
 
 ---
 
-**[Has AI already killed self-help nonfiction books?](https://news.ycombinator.com/item?id=48558489)**
-
-⬆️ 100 • 💬 110 • 5h ago • [tim.blog](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
-
----
-
 **[Ponytail – make your AI agent think like the laziest senior dev in the room](https://news.ycombinator.com/item?id=48527946)**
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. - DietrichGebert/ponytail
@@ -275,43 +271,43 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ## YouTube Videos: "ai"
 
+**[I Think We&#39;re Losing Control Of AI](https://www.youtube.com/watch?v=zaTAtMBfMkw)**
+
+Claude 5 Fable feels like a step change in AI capability, and I cannot shake the feeling that something fundamental just shifted.
+
+📺 Asian Dad Energy
+
+👁️ 23K • 👍 1K • 💬 513 • ⏱️ 12:57 • 12h ago
+
+---
+
+**[NVIDIA Begs China to Buy Vera AI CPU&#39;s - USA Thinks China is Dumb](https://www.youtube.com/watch?v=6YKAFR_1nFs)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 2K • 👍 232 • 💬 65 • ⏱️ 17:20 • 2h ago
+
+---
+
+**[BREAKING: Trump&#39;s Anthropic Ban Backfired - Global Sovereign AI Race Accelerates](https://www.youtube.com/watch?v=7R3WYupkZFo)**
+
+Anthropic AI access restrictions are raising concerns about global research equity. Learn why nationality impacts AI model usage.
+
+📺 AIM Network
+
+👁️ 6K • 👍 133 • 💬 16 • ⏱️ 8:02 • 11h ago
+
+---
+
 **[Elon&#39;s SpaceX just signaled peak AI bubble](https://www.youtube.com/watch?v=LO9WGWxEZJA)**
 
 Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
 📺 Chris Norlund
 
-👁️ 59K • 👍 4K • 💬 850 • ⏱️ 12:45 • 10h ago
-
----
-
-**[They Looked Inside Claude’s AI&#39;s Mind. It Got Weird](https://www.youtube.com/watch?v=l72ufA-4SzE)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 21K • 👍 2K • 💬 82 • ⏱️ 6:57 • 7h ago
-
----
-
-**[How To Create Long AI Anime With Consistent Characters](https://www.youtube.com/watch?v=qNCeIxja7Ws)**
-
-How To Make Long AI Anime Videos (Full Workflow) Make your ai anime ...
-
-📺 Skai Generated
-
-👁️ 4K • ⏱️ 9:59 • 6h ago
-
----
-
-**[We Might Actually Need to Stop AI](https://www.youtube.com/watch?v=CvA8-aScqio)**
-
-My FREE AI OS Course: ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 17K • 👍 599 • 💬 158 • ⏱️ 12:28 • 9h ago
+👁️ 68K • 👍 4K • 💬 927 • ⏱️ 12:45 • 13h ago
 
 ---
 
@@ -321,17 +317,47 @@ Google DeepMind just dropped a massive paper called From AGI to ASI, and the mes
 
 📺 AI Revolution
 
-👁️ 60K • 👍 2K • 💬 319 • ⏱️ 13:33 • 1d ago
+👁️ 65K • 👍 2K • 💬 334 • ⏱️ 13:33 • 1d ago
 
 ---
 
-**[AI buys a robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+**[Fable 5 Replacement Just Dropped: Fusion (Fable Level AI)](https://www.youtube.com/watch?v=wzay-VWjoRM)**
+
+Fable 5 is gone, and now the big question is simple: what comes next? OpenRouter just introduced Fusion, a system that sends ...
+
+📺 AI Revolution
+
+👁️ 3K • 👍 212 • 💬 15 • ⏱️ 15:28 • 3h ago
+
+---
+
+**[The AI Skills Nobody is Teaching (And Everyone Needs) | AI Expert Ethan Mollick](https://www.youtube.com/watch?v=9YMYVb1ASCg)**
+
+Be honest: AI makes you a little nervous. Maybe you're afraid it'll take your job. Maybe you're overwhelmed by all the advice about ...
+
+📺 Simon Sinek
+
+👁️ 9K • 👍 402 • 💬 31 • ⏱️ 58:36 • 12h ago
+
+---
+
+**[They Looked Inside Claude’s AI&#39;s Mind. It Got Weird](https://www.youtube.com/watch?v=l72ufA-4SzE)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
+
+📺 Two Minute Papers
+
+👁️ 38K • 👍 2K • 💬 126 • ⏱️ 6:57 • 10h ago
+
+---
+
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
 AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
 📺 InsideAI
 
-👁️ 526K • 👍 18K • 💬 2K • ⏱️ 15:10 • 2d ago
+👁️ 545K • 👍 19K • 💬 2K • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -341,37 +367,7 @@ Follow me on IG for daily AI news OpenAI got a subpoena from 42 state attorneys 
 
 📺 Sabrina Ramonov 🍄
 
-👁️ 2K • 👍 146 • 💬 3 • ⏱️ 0:50 • 7h ago
-
----
-
-**[AI-First Playbook: Do a Team&#39;s Work With AI (2026) | Peter Yang](https://www.youtube.com/watch?v=Yu0z7-KMHpo)**
-
-Generate structured summaries with ...
-
-📺 Silicon Valley Girl
-
-👁️ 6K • 👍 280 • 💬 16 • ⏱️ 29:34 • 9h ago
-
----
-
-**[Claude Just REVEALED the #1 AI Niche for 2026](https://www.youtube.com/watch?v=XOr_TUvW5ss)**
-
-GET FREE ACCESS TO VIROSCOPE AI (My Viral Video Ideation Software): https://tryviroscopeai.com ⚠️Free access may ...
-
-📺 Geekbot AI
-
-👁️ 1K • 👍 297 • 💬 1 • ⏱️ 21:46 • 10h ago
-
----
-
-**[Google’s AI Bet](https://www.youtube.com/watch?v=zdp7IAwV064)**
-
-Google is making the biggest change to its search business in more than two decades, integrating AI-generated answers, ...
-
-📺 Bloomberg Television
-
-👁️ 54K • 👍 989 • 💬 130 • ⏱️ 11:57 • 2d ago
+👁️ 4K • 👍 222 • 💬 8 • ⏱️ 0:50 • 10h ago
 
 ---
 
@@ -387,7 +383,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 60,921 • ❤️ 1,120 • 11h ago
+⬇️ 60,921 • ❤️ 1,183 • 2h ago
 
 ---
 
@@ -399,7 +395,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 375,974 • ❤️ 939 • 6d ago
+⬇️ 375,974 • ❤️ 947 • 6d ago
 
 ---
 
@@ -411,7 +407,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 25,064 • ❤️ 1,004 • 17h ago
+⬇️ 25,064 • ❤️ 1,016 • 20h ago
 
 ---
 
@@ -423,7 +419,19 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 102,206 • ❤️ 794 • 1d ago
+⬇️ 102,206 • ❤️ 800 • 1d ago
+
+---
+
+**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
+
+*Z.ai*
+
+GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. It features advanced coding capabilities with flexible effort levels and an improved architecture for efficient processing, making it suitable for complex reasoning and coding applications.
+
+`text-generation` `753.3B`
+
+⬇️ 0 • ❤️ 383 • 8h ago
 
 ---
 
@@ -435,7 +443,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 98,698 • ❤️ 2,097 • 4d ago
+⬇️ 98,698 • ❤️ 2,104 • 4d ago
 
 ---
 
@@ -447,7 +455,7 @@ Rio 3.5 Open 397B is a frontier-class, open-source image-text-to-text AI model p
 
 `image-text-to-text` `403.4B`
 
-⬇️ 189,744 • ❤️ 313 • 2d ago
+⬇️ 189,744 • ❤️ 315 • 2d ago
 
 ---
 
@@ -471,7 +479,7 @@ North Mini Code 1.0 is a 30B-3B parameter research model optimized for code gene
 
 `text-generation` `30.5B`
 
-⬇️ 12,129 • ❤️ 410 • 1d ago
+⬇️ 12,129 • ❤️ 412 • 1d ago
 
 ---
 
@@ -483,19 +491,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 2,716,651 • ❤️ 1,883 • 2mo ago
-
----
-
-**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
-
-*Z.ai*
-
-GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. It features advanced coding capabilities with flexible effort levels and an improved architecture for efficient processing, making it suitable for complex reasoning and coding applications.
-
-`text-generation` `753.3B`
-
-⬇️ 0 • ❤️ 219 • 5h ago
+⬇️ 2,716,651 • ❤️ 1,889 • 2mo ago
 
 ---
 
@@ -541,20 +537,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://huggingface.co/papers/2606.14777)**
-
-*Dingyu Yao, Junhao Zhou, Chenxu Yang et al. (15 authors)*
-
-🏢 JD.com Open Source
-
-A vision-language model operates continuously in real-time, making autonomous decisions about when to respond or delegate, enabling interactive systems that perceive and act upon environmental changes without user prompting.
-
-▲ 157 • 💬 1 • ⭐ 209 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.14777) • [💻 code](https://github.com/jd-opensource/JoyAI-VL-Interaction) • [🔗 project](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/)
-
----
-
 **[FastContext: Training Efficient Repository Explorer for Coding Agents](https://huggingface.co/papers/2606.14066)**
 
 *Shaoqiu Zhang, Maoquan Wang, Yuling Shi et al. (8 authors)*
@@ -563,22 +545,23 @@ A vision-language model operates continuously in real-time, making autonomous de
 
 FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates.
 
-▲ 76 • 💬 2 • ⭐ 312 • 5d ago
+▲ 77 • 💬 3 • ⭐ 407 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.14066) • [💻 code](https://github.com/microsoft/fastcontext) • [🔗 project](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://huggingface.co/papers/2606.14777)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Dingyu Yao, Junhao Zhou, Chenxu Yang et al. (15 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+🏢 JD.com Open Source
 
-▲ 80 • 💬 7 • ⭐ 77,320 • 23mo ago
+A vision-language model operates continuously in real-time, making autonomous decisions about when to respond or delegate, enabling interactive systems that perceive and act upon environmental changes without user prompting.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+▲ 159 • 💬 2 • ⭐ 223 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.14777) • [💻 code](https://github.com/jd-opensource/JoyAI-VL-Interaction) • [🔗 project](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/)
 
 ---
 
@@ -590,9 +573,22 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 16 • 💬 1 • ⭐ 82,375 • 15d ago
+▲ 16 • 💬 1 • ⭐ 82,514 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 80 • 💬 7 • ⭐ 77,381 • 23mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -604,7 +600,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 DreamX-World 1.0 is a interactive text/image-to-video model that generates long-horizon content with camera control and scene persistence using specialized encoding, training techniques, and optimization methods.
 
-▲ 78 • 💬 6 • ⭐ 318 • 2d ago
+▲ 82 • 💬 7 • ⭐ 336 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.16993) • [💻 code](https://github.com/AMAP-ML/DreamX-World) • [🔗 project](https://amap-ml.github.io/DreamX_World/)
 
@@ -617,21 +613,22 @@ DreamX-World 1.0 is a interactive text/image-to-video model that generates long-
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 166 • 💬 2 • ⭐ 67,726 • 8mo ago
+▲ 166 • 💬 2 • ⭐ 67,762 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
-**[LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference](https://huggingface.co/papers/2510.09665)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Yuhan Liu, Yihua Cheng, Jiayi Yao et al. (11 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-LMCACHE enables efficient KV cache management for large language models by storing caches outside GPU memory, supporting cache reuse across queries and inference engines while achieving significant throughput improvements.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 5 • 💬 0 • ⭐ 9,167 • 8mo ago
+▲ 58 • 💬 1 • ⭐ 83,082 • 33mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2510.09665) • [💻 code](https://github.com/LMCache/LMCache)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -645,7 +642,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 72.4k • 🔱 9.3k • 8h ago
+⭐ 72.5k • 🔱 9.3k • 11h ago
 
 ---
 
@@ -655,7 +652,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 24.1k • 🔱 1.1k • 6h ago
+⭐ 25.4k • 🔱 1.1k • 5m ago
 
 ---
 
@@ -665,7 +662,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 375 • 9h ago
+⭐ 4.3k • 🔱 376 • 19m ago
 
 ---
 
@@ -675,7 +672,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 356 • 8h ago
+⭐ 3.4k • 🔱 356 • 11h ago
 
 ---
 
@@ -685,7 +682,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.2k • 🔱 386 • 5d ago
+⭐ 3.2k • 🔱 387 • 5d ago
 
 ---
 
@@ -695,7 +692,7 @@ A meta-harness for all your AI agents.  Omnigent provides a common layer over Cl
 
 `Python` `agents` `ai` `ai-agents` `developer-tools` `llm`
 
-⭐ 2.7k • 🔱 312 • 1h ago
+⭐ 2.8k • 🔱 330 • 40s ago
 
 ---
 
@@ -709,33 +706,33 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 ---
 
-**[Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)**
-
-AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
-
-`JavaScript`
-
-⭐ 1.9k • 🔱 140 • 12d ago
-
----
-
-**[basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)**
-
-面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
-
-`TypeScript`
-
-⭐ 1.7k • 🔱 405 • 12h ago
-
----
-
 **[jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)**
 
 JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.6k • 🔱 138 • 15h ago
+⭐ 1.6k • 🔱 138 • 18h ago
+
+---
+
+**[study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)**
+
+🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.
+
+`Vue` `ai-agents` `ai-coding` `ai-native` `architecture-decision-records` `architecture-patterns`
+
+⭐ 1.4k • 🔱 152 • 5d ago
+
+---
+
+**[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)**
+
+国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
+
+`Shell` `apple-intelligence`
+
+⭐ 1.3k • 🔱 73 • 3d ago
 
 ---
 

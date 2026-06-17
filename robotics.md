@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-16T23:04:51.636063+00:00'
+updated: '2026-06-17T02:01:41.289203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 16, 2026 at 23:04 UTC  
+**Last Updated:** June 17, 2026 at 02:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,19 +122,27 @@ Business Insider • 1d ago
 
 ---
 
+**[Could advanced prosthetic hands revolutionize robotics?](https://www.nbcnews.com/video/advanced-prosthetic-hands-could-revolutionize-robotics-265203269702)**
+
+A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity technology for humans and robots. NBC News’ Steve Patterson reports.
+
+NBC News • 1h ago
+
+---
+
+**[San Diego startup brings bionic hands to factory robots](https://www.nbcsandiego.com/news/local/san-diego-startup-brings-bionic-hands-to-factory-robots/4037661/)**
+
+PSYONIC, a Rancho Bernardo company known for its bionic prosthetic hands, is partnering with ABB Robotics to bring humanlike dexterity to factory robots.
+
+NBC 7 San Diego • 2h ago
+
+---
+
 **[Why robotics will be the next great investment theme](https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html)**
 
 RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme. He discusses how advances in artificial intelligence are accelerating the adoption of autonomous machines and why the convergence of AI and robotics may create significant opportunities for investors.
 
-Yahoo Finance • 2h ago
-
----
-
-**[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
-
-Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
-
-Yahoo Finance • 13h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -146,23 +154,25 @@ The Conversation • 1d ago
 
 ---
 
+**[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
+
+Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
+
+Yahoo Finance • 16h ago
+
+---
+
 **[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
 
-Reuters • 18h ago
+Reuters • 21h ago
 
 ---
 
-**[French startup bets on non-humanoid design in crowded AI robot race](https://www.reuters.com/business/french-startup-bets-non-humanoid-design-crowded-ai-robot-race-2026-06-16/)**
+**[Abu Dhabi to roll out AI street-sweeper fleet in 5-year Micropolis deal](https://www.stocktitan.net/news/MCRP/micropolis-robotics-expands-physical-ai-portfolio-with-five-year-k00bf1n17aqs.html)**
 
-Reuters • 6h ago
+Abu Dhabi’s municipalities authority signs a 5-year Physical AI cleaning project, starting with autonomous sweepers and R&D support from Khalifa University.
 
----
-
-**[Rivian CEO taking different approach than Elon Musk for humanoid robotics company](https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html)**
-
-Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.
-
-CNBC • 3d ago
+Stock Titan • 3h ago
 
 ---
 
@@ -172,37 +182,9 @@ stupidDOPE • 1d ago
 
 ---
 
-**[Robotic weld prep helps Laser Photonics enter data center supply chain](https://www.stocktitan.net/news/LASE/laser-photonics-enters-data-center-supply-chain-with-delivery-of-sds3h29ua9fx.html)**
-
-Programmable robotic laser cell valued at $0.8M automates pre-weld cleaning for Vander-Bend and marks Laser Photonics' entry into data center infrastructure.
-
-Stock Titan • 10h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
-
-Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
-
-📺 Jason Lowe on AI
-
-👁️ 115K • 👍 7K • 💬 674 • ⏱️ 2:57 • 3d ago
-
----
-
-**[AI buys a robot and car, does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 526K • 👍 18K • 💬 2K • ⏱️ 15:10 • 2d ago
-
----
 
 **[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
 
@@ -210,7 +192,17 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 15K • 👍 307 • 💬 111 • ⏱️ 8:49 • 3d ago
+👁️ 15K • 👍 307 • 💬 112 • ⏱️ 8:49 • 3d ago
+
+---
+
+**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
+
+Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
+
+📺 Jason Lowe on AI
+
+👁️ 119K • 👍 7K • 💬 696 • ⏱️ 2:57 • 3d ago
 
 ---
 
@@ -220,27 +212,15 @@ The newest humanoid robots are crazy for completely different reasons. The Frenc
 
 📺 Kalil 4.0
 
-👁️ 550 • 👍 17 • 💬 2 • ⏱️ 1:46 • 3h ago
+👁️ 1K • 👍 53 • 💬 3 • ⏱️ 1:46 • 6h ago
 
 ---
 
-**[He Danced With Humanoid Robots… And Blew Everyone Away on AGT 🤖](https://www.youtube.com/watch?v=3pOcqWWV7KU)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=VunUE9PiGOk)**
 
-What else can humanoid robots do? This was a glimpse into the future! Unitree travels from China to audition with his robots on ...
+📺 Robot Julie 
 
-📺 Top Talent
-
-👁️ 156K • 👍 2K • 💬 188 • ⏱️ 6:09 • 7d ago
-
----
-
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
-
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
-
-📺 Over Engineer
-
-👁️ 44K • 👍 3K • 💬 224 • ⏱️ 6:05 • 4d ago
+👁️ 748 • 👍 4 • ⏱️ 0:26 • 1h ago
 
 ---
 
@@ -250,7 +230,7 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 📺 Jason Lowe on AI
 
-👁️ 16K • 👍 1K • 💬 49 • ⏱️ 2:31 • 2d ago
+👁️ 17K • 👍 1K • 💬 51 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -260,7 +240,17 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 43K • 👍 2K • 💬 131 • ⏱️ 0:30 • 3d ago
+👁️ 44K • 👍 2K • 💬 132 • ⏱️ 0:30 • 3d ago
+
+---
+
+**[Humanoid robot football match showcases advances in embodied AI](https://www.youtube.com/watch?v=fajs4WznfpU)**
+
+As football fever sweeps the globe during the 2026 FIFA World Cup, a 3v3 fully autonomous robot football match took place on ...
+
+📺 CGTN
+
+👁️ 11K • 👍 31 • 💬 2 • ⏱️ 1:15 • 23h ago
 
 ---
 
@@ -270,17 +260,27 @@ Witness the future of smart agriculture!** Watch this metallic cube undergo an i
 
 📺 🚜🌾 Desi Farm Vibes
 
-👁️ 871 • 👍 9 • ⏱️ 0:21 • 3h ago
+👁️ 2K • 👍 16 • ⏱️ 0:21 • 6h ago
 
 ---
 
-**[China&#39;s Robotics IPO Wave #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=_qOveda71vU)**
+**[Robotic Sharpener Vs Dollar Store Knife](https://www.youtube.com/watch?v=vyf8IuXlb5E)**
 
-China's humanoid robot companies are rushing toward IPO in Shanghai and Hong Kong. This list will probably get a lot longer in ...
+https://wesn.com/collections/all.
 
-📺 Kalil 4.0
+📺 WESN
 
-👁️ 1K • 👍 33 • 💬 3 • ⏱️ 1:25 • 12h ago
+👁️ 32K • 👍 975 • 💬 15 • ⏱️ 0:43 • 7h ago
+
+---
+
+**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
+
+This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
+
+📺 Over Engineer
+
+👁️ 47K • 👍 3K • 💬 228 • ⏱️ 6:05 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-16T23:04:51.632919+00:00'
+updated: '2026-06-17T02:01:41.286297+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 16, 2026 at 23:04 UTC  
+**Last Updated:** June 17, 2026 at 02:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +10.9%  
-**30d:** -15.6%  
-**90d:** -15.9%  
-**1y:** -28.6%  
+**24h:** +1.1%  
+**7d:** +7.4%  
+**30d:** -14.9%  
+**90d:** -16.2%  
+**1y:** -28.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.45B
+**Market Cap:** $216.87B
 Rank #2
 
-**Circulating Supply:** 120,684,109 ETH
+**Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -63.7%
 
 **All-Time Low:** $0.43
-+414118.7%
++414749.2%
 
 ---
 
@@ -152,15 +152,23 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitmine Buys Another $136 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-136-million-184200466.html)**
+**[Ethereum news: Tom Lee's Bitmine (BMNR) buys 76,881 ETH as preferred equity sale fuels expansion](https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale)**
 
-Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) bought another $136 million U.S. of Ethereum (CRY...
+Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.
 
-Yahoo Finance • 1d ago
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum’s Strongest Moat May Be Impossible To ‘Fork’, Says Sharplink CEO](https://stocktwits.com/news-articles/markets/cryptocurrency/sharplink-ceo-on-ethereum-quantum-threat-moat/cZKWoq4R7Eu)**
+
+As concerns around quantum computing’s future impact on cryptocurrencies grow, Sharplink Inc (SBET) CEO Joseph Chalom believes that one asset is already preparing for this threat and doing what institutions will demand from every other blockchain: prepari
+
+Stocktwits • 13h ago
 
 ---
 
@@ -168,7 +176,15 @@ Yahoo Finance • 1d ago
 
 Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
 
-Coinpedia • 9h ago
+Coinpedia • 12h ago
+
+---
+
+**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
+
+Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
+
+TradingView • 13h ago
 
 ---
 
@@ -176,15 +192,7 @@ Coinpedia • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
-
----
-
-**[Ethereum Research Proposal Targets Post-Quantum Wallet Security At Low Gas Cost](https://www.tradingview.com/news/newsbtc:d465c9b57094b:0-ethereum-research-proposal-targets-post-quantum-wallet-security-at-low-gas-cost/)**
-
-A new Ethereum Research proposal is putting post-quantum wallet security back in focus, outlining a practical way to verify quantum-resistant signatures on the EVM without requiring a full protocol-level upgrade.The proposal, published by Ethereum researcher nicocsgy, explores an EVM-optimized vers…
-
-TradingView • 21h ago
+Fortune • 12h ago
 
 ---
 
@@ -192,7 +200,7 @@ TradingView • 21h ago
 
 Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
 
-FXStreet • 11h ago
+FXStreet • 14h ago
 
 ---
 
@@ -210,19 +218,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum, Solana, XRP spot ETFs see inflows as Bitcoin ETFs face $64M outflows](https://cryptobriefing.com/ethereum-solana-xrp-spot-etfs-see-inflows-as-bitcoin-etfs-face-64m-outflows/)**
+**[Strategy’s Saylor Takes Aim At Ethereum Yield Model](https://financefeeds.com/strategys-saylor-takes-aim-at-ethereum-yield/)**
 
-Ethereum, Solana, and XRP spot ETFs see inflows while Bitcoin ETFs face $64M outflows. Ethereum above $1100 on June 16, 2026 at 99.9% YES.
+Strategy chairman Michael Saylor argues Bitcoin generates returns through credit instruments like STRC, not staking, in a new five-layer capital framework
 
-Crypto Briefing • 9h ago
-
----
-
-**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
-
-XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
-
-CryptoSlate • 11h ago
+FinanceFeeds • 8h ago
 
 ---
 
@@ -230,33 +230,13 @@ CryptoSlate • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 172 • 💬 34 • ⏱️ 15:17 • 1d ago
-
----
-
 **[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
 
 Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
 
 📺 CoinDesk
 
-👁️ 28K • 👍 770 • 💬 84 • ⏱️ 20:10 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: HUGE URGENT WARNING!!!!!!!!](https://www.youtube.com/watch?v=LWfF9TzFN6c)**
-
-bitcoin, ethereum and crypto in general have bounced on the iran war news. Here are the details that you can keep in mind going ...
-
-📺 Thomas Kralow
-
-👁️ 15K • 👍 2K • 💬 124 • ⏱️ 8:35 • 1d ago
+👁️ 28K • 👍 779 • 💬 84 • ⏱️ 20:10 • 2d ago
 
 ---
 
@@ -266,37 +246,27 @@ Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a
 
 📺 Lark Davis
 
-👁️ 4K • 👍 85 • 💬 3 • ⏱️ 0:44 • 19h ago
+👁️ 5K • 👍 95 • 💬 4 • ⏱️ 0:44 • 22h ago
 
 ---
 
-**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
 
-ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Dana Love, PhD
+📺 Savvy Finance
 
-👁️ 11K • 👍 625 • 💬 133 • ⏱️ 13:29 • 1d ago
-
----
-
-**[Ethereum: Massive Move Incoming? (ETH Price Update)](https://www.youtube.com/watch?v=gaE74jpPNnA)**
-
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
-
-📺 Marzell Crypto
-
-👁️ 651 • 👍 15 • 💬 105 • ⏱️ 4:33 • 1d ago
+👁️ 5K • 👍 178 • 💬 34 • ⏱️ 15:17 • 1d ago
 
 ---
 
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+**[🚨 BTC &amp; ETH: HUGE URGENT WARNING!!!!!!!!](https://www.youtube.com/watch?v=LWfF9TzFN6c)**
 
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+bitcoin, ethereum and crypto in general have bounced on the iran war news. Here are the details that you can keep in mind going ...
 
-📺 Gareth Soloway
+📺 Thomas Kralow
 
-👁️ 69K • 👍 4K • 💬 335 • ⏱️ 13:52 • 1d ago
+👁️ 15K • 👍 2K • 💬 118 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -306,7 +276,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 19:50 • 6h ago
+👁️ 3K • 👍 154 • 💬 7 • ⏱️ 19:50 • 9h ago
+
+---
+
+**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
+
+ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
+
+📺 Dana Love, PhD
+
+👁️ 12K • 👍 647 • 💬 124 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -316,17 +296,37 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 191 • 💬 9 • ⏱️ 17:33 • 1d ago
+👁️ 7K • 👍 195 • 💬 13 • ⏱️ 17:33 • 1d ago
 
 ---
 
-**[XRP Still Needs This While Bitcoin Price Chart, Ethereum &amp; Total Market Cap Hit Historic Bottom Mark](https://www.youtube.com/watch?v=Cw2rTKbeT2s)**
+**[Bitcoin Pumping Before FOMC… But Ethereum Could Explode Next. $6000  By EOY ? BTC/ETH/ALTS](https://www.youtube.com/watch?v=nimcfuYl9Kk)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+Bitcoin Pumping Before FOMC… But Ethereum Could Be The Bigger Opportunity Join my VIP Crypto Trading Group ...
 
-📺 Blockchain Backer
+📺 Andrea Cap  | FTA Crypto
 
-👁️ 17K • 👍 2K • 💬 3 • ⏱️ 23:56 • 9h ago
+👁️ 369 • 👍 23 • 💬 34 • ⏱️ 12:48 • 19h ago
+
+---
+
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+
+📺 Gareth Soloway
+
+👁️ 70K • 👍 4K • 💬 327 • ⏱️ 13:52 • 1d ago
+
+---
+
+**[Ethereum’s $1B Crisis](https://www.youtube.com/watch?v=sCS-TPFNo3g)**
+
+Ethereum cut fees, but may have accidentally killed the scarcity that made ETH valuable, triggered inflation fears, and opened the ...
+
+📺 Coin Bureau Podcast
+
+👁️ 479 • 👍 17 • ⏱️ 0:37 • 10h ago
 
 ---
 
