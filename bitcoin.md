@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-17T12:17:18.310212+00:00'
+updated: '2026-06-17T16:11:50.322117+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 12:17 UTC  
+**Last Updated:** June 17, 2026 at 16:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,694.85
+### $65,825.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +1.9%  
-**30d:** -15.6%  
-**90d:** -8.0%  
-**1y:** -38.2%  
+**24h:** -0.3%  
+**7d:** +3.4%  
+**30d:** -14.4%  
+**90d:** -6.7%  
+**1y:** -37.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1316.39B
+**Market Cap:** $1318.06B
 Rank #1
 
-**Circulating Supply:** 20,043,737 BTC
+**Circulating Supply:** 20,044,078 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
 -47.9%
 
 **All-Time Low:** $67.81
-+96727.9%
++96850.3%
 
 ---
 
@@ -87,7 +87,7 @@ Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislato
 
 **[Strategy Bought 1,587 BTC & Increases USD Reserve To $1.1 Billion.](https://www.reddit.com/r/Bitcoin/comments/1u6hxal/strategy_bought_1587_btc_increases_usd_reserve_to/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -95,7 +95,7 @@ Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislato
 
 AI posts are getting a lot of traction on this sub: "Today I found 1 BTC" - guy claims he forgot his seed phrase but somehow remembered the order because "there was a method to my madness" lol. 3k upvotes Multiple "I built a website/app" - Both the posts and the websites are AI-generated. "Laid asphalt for ten years. Never got ahead. Then I started mining Bitcoin and figured out why." Somehow this guy got caught, but it was obvious from the fact that he got into bitcoin in 2022 and says he was mining with GPU's which was pointless.
 
-1d ago
+2d ago
 
 ---
 
@@ -119,7 +119,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/MHAKbtG9A2k) • 1d ago
+🔗 [youtube.com](https://www.youtube.com/shorts/MHAKbtG9A2k) • 2d ago
 
 ---
 
@@ -135,7 +135,7 @@ Elon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX o
 
 Years ago when I first read The Richest Man in Babylon, a lot of my thinking about money, wealth, saving, and long-term value started to take shape. Looking back, I think many of the ideas that eventually led me to understand Bitcoin were planted by that book. I was talking about this with a friend recently—how strange it is that a book written nearly a century ago can still influence the way we think about money today. Then the algorithm recommended a video titled something like “The Richest Man in Babylon Never Heard of Bitcoin.” It made me wonder whether the connection is deeper than it first appears. The book repeatedly emphasizes saving, protecting purchasing power, and thinking in decades rather than months. Bitcoin obviously didn’t exist when it was written, but some of the underlying principles feel surprisingly compatible. Curious if anyone else sees a connection between The Richest Man in Babylon and Bitcoin.
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
 
-CoinDesk • 1h ago
+CoinDesk • 32m ago
 
 ---
 
@@ -181,37 +181,39 @@ Scott Melker discusses BlackRock's BLK (BLK) new bitcoin (BTC-USD) ETF, which of
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[BlackRock launches bitcoin income fund as investors seek cash flow from crypto](https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure)**
+**[It’s ‘Over’—Crypto Is Quietly Braced For A ‘Critical’ BlackRock Bitcoin Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/06/15/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
 
-After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.
+The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
 
-CoinDesk • 1d ago
-
----
-
-**['Passive' investors who dodged bitcoin are now forced to own SpaceX shares three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
-
-Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
-
-CNBC • 22m ago
+Forbes • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday,June 17, 2026: Much higher this week compared to last](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesdayjune-17-2026-much-higher-this-week-compared-to-last-114326169.html)**
+**[Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud](https://www.yahoo.com/news/us/articles/florida-man-bitcoin-rodney-pleads-153741236.html)**
 
-These are today's bitcoin and ethereum prices, Wednesday, June 17, 2026. Bitcoin opened at $65,605.45 on Wednesday, down 1% from Tuesday's open but up 6.4% from this time last week. Ethereum opened at $1,790.68 on Wednesday, 0.2% lower than Tuesday's opening price but 9.3% higher than last week’s opening price.
+A Miami-based man who went by the name “Bitcoin Rodney” pleaded guilty for his role in what prosecutors said was a massive global fraud.
 
-Yahoo Finance • 33m ago
+Yahoo • 34m ago
 
 ---
 
-**[Bitcoin's June Downturn Leaves $8.6 Billion in Options Out of the Money](https://news.futunn.com/en/post/74729413/bitcoin-s-june-downturn-leaves-8-6-billion-in-options)**
+**[Should You Buy Bitcoin While It's Under $69,000?](https://finance.yahoo.com/markets/crypto/articles/buy-bitcoin-while-under-69-151100537.html)**
 
-富途牛牛 • 34m ago
+If history is any guide, Bitcoin won't trade below $69,000 for much longer.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Australians are Withdrawing Their Bitcoin Because of This Rule Change](https://finance.yahoo.com/markets/crypto/articles/australians-withdrawing-bitcoin-because-rule-145109240.html)**
+
+Australia's crypto Travel Rule starts July 1, tightening transfer checks and pushing Bitcoin holders toward self-custody.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,7 +221,15 @@ Yahoo Finance • 33m ago
 
 How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
-vaneck.com • 16h ago
+vaneck.com • 20h ago
+
+---
+
+**['Passive' investors who dodged bitcoin are now forced to own SpaceX shares three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
+
+Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
+
+CNBC • 4h ago
 
 ---
 
@@ -227,15 +237,7 @@ vaneck.com • 16h ago
 
 With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
 
-Forbes • 2d ago
-
----
-
-**[Bitcoin is “caught between flow deterioration and macro relief”](https://sherwood.news/crypto/bitcoin-is-caught-between-flow-deterioration-and-macro-relief/)**
-
-Bitcoin is flat on Tuesday morning, hovering around $66,300, following a brief rally over the weekend on the news of a looming Iran deal. Yet,...
-
-Sherwood News • 21h ago
+Forbes • 3d ago
 
 ---
 
@@ -247,7 +249,7 @@ Sherwood News • 21h ago
 
 5,071,264 BTC at quantum-exposed Bitcoin addresses today (25.3% of supply). Live breakdown by script type, balance, age, and concentration. Updated weekly.
 
-⬆️ 6 • 💬 3 • 5d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
+⬆️ 6 • 💬 3 • 6d ago • [ChainQuery.com](https://chainquery.com/reports/quantum-exposure)
 
 ---
 
@@ -271,7 +273,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Zitchain is the next generation cryptocurrency architecture. 100% secure, energy efficient, built for the world.
 
-⬆️ 3 • 💬 1 • 20h ago • [zitchain.com](https://zitchain.com)
+⬆️ 3 • 💬 1 • 1d ago • [zitchain.com](https://zitchain.com)
 
 ---
 
@@ -291,11 +293,19 @@ Quantum computing poses a real, broad-based, but bounded and substantially mitig
 
 ---
 
+**[Bitcoin and energy: the no-bullshit version, with sourced numbers](https://news.ycombinator.com/item?id=48570374)**
+
+Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
+
+⬆️ 2 • 💬 1 • 2h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+
+---
+
 **[Show HN: Satd – a Bitcoin full node in Rust](https://news.ycombinator.com/item?id=48555262)**
 
 A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/epochbtc/satd)
+⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/epochbtc/satd)
 
 ---
 
@@ -311,13 +321,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
 
-⬆️ 1 • 💬 0 • 19h ago • [CredScore](https://www.credscore.us/)
-
----
-
-**[Clarity Act Explained: Why Crypto Regulation Depends on the CFTC](https://news.ycombinator.com/item?id=48494480)**
-
-⬆️ 2 • 💬 0 • 5d ago • [catenaa.com](https://catenaa.com/clarity-act-crypto-regulation-bitcoin/)
+⬆️ 1 • 💬 0 • 23h ago • [CredScore](https://www.credscore.us/)
 
 ---
 
@@ -325,13 +329,23 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ## YouTube Videos: "bitcoin"
 
+**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
+
+Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
+
+📺 100XClub
+
+👁️ 6K • 👍 810 • 💬 118 • ⏱️ 2:03 • 7h ago
+
+---
+
 **[Bitcoin Is Already Telling You What Comes Next](https://www.youtube.com/watch?v=BYo_k2D8oi8)**
 
 The AI trade has absorbed nearly all available capital, but every bubble eventually reaches its limit. This breakdown explores why ...
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 65 • ⏱️ 15:41 • 15h ago
+👁️ 22K • 👍 1K • 💬 96 • ⏱️ 15:41 • 19h ago
 
 ---
 
@@ -341,17 +355,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 74 • ⏱️ 9:06 • 15h ago
-
----
-
-**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
-
-Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
-
-📺 100XClub
-
-👁️ 4K • 👍 642 • 💬 108 • ⏱️ 2:03 • 4h ago
+👁️ 34K • 👍 2K • 💬 104 • ⏱️ 9:06 • 19h ago
 
 ---
 
@@ -361,17 +365,57 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 799 • 💬 69 • ⏱️ 19:51 • 17h ago
+👁️ 14K • 👍 847 • 💬 88 • ⏱️ 19:51 • 21h ago
 
 ---
 
-**[Something BIG Is Happening With Bitcoin Right Now](https://www.youtube.com/watch?v=kM8Qv_eNNVA)**
+**[BAD NEWS: HUGE BITCOIN WARNING!](https://www.youtube.com/watch?v=6bBj5VldV9k)**
 
-Crypto Investors Need To Watch IMMEDIATELY!! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+Yubit: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 WEEX: https://themoon.co/WEEXwelcome ...
 
-📺 Altcoin Daily
+📺 The Moon Show
 
-👁️ 43K • 👍 2K • 💬 147 • ⏱️ 9:14 • 1d ago
+👁️ 2K • 👍 187 • 💬 16 • ⏱️ 18:19 • 1h ago
+
+---
+
+**[BITCOIN: HUGE WARNING FLASHING...](https://www.youtube.com/watch?v=bYJrs9erx94)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 10K • 👍 749 • 💬 52 • ⏱️ 9:29 • 9h ago
+
+---
+
+**[Why You Should Never Sell Your Bitcoin!](https://www.youtube.com/watch?v=q4Pty8riw9s)**
+
+Dante talks about Why You Should Never Sell Your Bitcoin! Brought to you by Bitcoinwell.com a bitcoin-only platform on a mission ...
+
+📺 Simply Bitcoin
+
+👁️ 619 • 👍 18 • 💬 99 • ⏱️ 0:26 • 3h ago
+
+---
+
+**[Michael Saylor Says Bitcoin Has Won!](https://www.youtube.com/watch?v=c6YfOPMErfM)**
+
+Hurley talks about Michael Saylor Says Bitcoin Has Won! Brought to you by Bitcoinwell.com a bitcoin-only platform on a mission to ...
+
+📺 Simply Bitcoin
+
+👁️ 332 • 👍 11 • 💬 76 • ⏱️ 0:21 • 1h ago
+
+---
+
+**[BITCOIN: Don’t Ignore This Warning! (please) - BTC Price Prediction Today](https://www.youtube.com/watch?v=Q1qTOMF_5pQ)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 4K • 👍 383 • 💬 38 • ⏱️ 14:12 • 6h ago
 
 ---
 
@@ -381,47 +425,7 @@ Tomorrow's FOMC decision could deliver a twist that many crypto investors aren't
 
 📺 Crypto Banter
 
-👁️ 25K • 👍 1K • 💬 42 • ⏱️ 27:35 • 22h ago
-
----
-
-**[Bitcoin &amp; Altcoin Charts Look Terrible. Here&#39;s Why That&#39;s Bullish! (Wait For It...)](https://www.youtube.com/watch?v=JJtpQxfpsEw)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 407 • 💬 322 • ⏱️ 10:54 • 20h ago
-
----
-
-**[Bitcoin Bubble Has BURST! Peter Schiff vs. Anthony Pompliano](https://www.youtube.com/watch?v=KLj05tByz5o)**
-
-Peter Schiff battles Bitcoin bull Anthony Pompliano on Fox Business, arguing the Bitcoin bubble has burst while gold stays in a ...
-
-📺 Peter Schiff
-
-👁️ 103K • 👍 2K • 💬 2K • ⏱️ 11:24 • 1d ago
-
----
-
-**[Bitcoin Liquidations Live! Live Trading Alerts](https://www.youtube.com/watch?v=L7P7g4tNbqk)**
-
-Welcome to the Zen Trading Zone with Zen Master JP. He narrates the market and does objective Technical Analysis of Bitcoin, ...
-
-📺 Sin City Crypto
-
-👁️ 6K • 👍 281 • ⏱️ 3:28:35 • 9h ago
-
----
-
-**[Bitcoin: Time-Based Capitulation](https://www.youtube.com/watch?v=psz9FwqWGns)**
-
-Let's talk about Bitcoin and how time-based capitulation is important, but can sometimes be ignored if price-based capitulation ...
-
-📺 Benjamin Cowen
-
-👁️ 105K • 👍 6K • 💬 234 • ⏱️ 18:49 • 2d ago
+👁️ 26K • 👍 1K • 💬 42 • ⏱️ 27:35 • 1d ago
 
 ---
 
