@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-17T18:41:45.489421+00:00'
+updated: '2026-06-17T21:07:41.567806+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 18:41 UTC  
+**Last Updated:** June 17, 2026 at 21:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,764.04
+### $1,743.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +5.9%  
-**30d:** -16.1%  
-**90d:** -17.4%  
-**1y:** -29.8%  
+**24h:** -2.9%  
+**7d:** +4.2%  
+**30d:** -17.4%  
+**90d:** -18.7%  
+**1y:** -30.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in your browser.
 
-🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 1d ago
+🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 2d ago
 
 ---
 
@@ -176,29 +176,15 @@ Yahoo Finance • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 4h ago
+fortune.com • 7h ago
 
 ---
 
-**[Zama, Morpho, and Steakhouse launch first confidential DeFi yield vault on Ethereum](https://cryptobriefing.com/confidential-defi-yield-vault-ethereum/)**
+**[Ethereum Crypto Little Pepe (LILPEPE) Set for Price Increase as Current Presale Stage Nears Sellout](https://markets.businessinsider.com/news/stocks/ethereum-crypto-little-pepe-lilpepe-set-for-price-increase-as-current-presale-stage-nears-sellout-1036257557)**
 
-Zama, Morpho, and Steakhouse Financial launch the first confidential DeFi yield vault on Ethereum, using fully homomorphic encryption to shield
+DUBAI, United Arab Emirates, June  17, 2026  (GLOBE NEWSWIRE) -- Little Pepe (LILPEPE), a blockchain project building a meme-focused Layer 2 netwo...
 
-Crypto Briefing • 8h ago
-
----
-
-**[Ethereum’s 1 Million Developer Mark Is More Than a Headline Number](https://www.investing.com/analysis/ethereums-1-million-developer-mark-is-more-than-a-headline-number-200682332)**
-
-Investing.com • 5h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC pauses recovery, ETH holds key support, XRP nears breakout zone](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-pauses-recovery-eth-holds-key-support-xrp-nears-breakout-zone-202606170321)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as assets struggle to build a unified direction after their recent recoveries. BTC paused its rebound near $66,000, while ETH holds above a key support zone, keeping bullish hopes alive.
-
-FXStreet • 15h ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -210,6 +196,14 @@ TradingView • 1d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC pauses recovery, ETH holds key support, XRP nears breakout zone](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-pauses-recovery-eth-holds-key-support-xrp-nears-breakout-zone-202606170321)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as assets struggle to build a unified direction after their recent recoveries. BTC paused its rebound near $66,000, while ETH holds above a key support zone, keeping bullish hopes alive.
+
+FXStreet • 17h ago
+
+---
+
 **[Ethereum Exchange Reserves Hit a 10-Year Low—Is a Supply Shock Brewing?](https://coinpedia.org/price-analysis/ethereum-exchange-reserves-hit-a-10-year-low-is-a-supply-shock-brewing/)**
 
 Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
@@ -218,11 +212,17 @@ Coinpedia • 1d ago
 
 ---
 
-**[Ethereum’s Strongest Moat May Be Impossible To ‘Fork’, Says Sharplink CEO](https://stocktwits.com/news-articles/markets/cryptocurrency/sharplink-ceo-on-ethereum-quantum-threat-moat/cZKWoq4R7Eu)**
+**[Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start](https://decrypt.co/371142/tom-lees-bitmine-139-million-ethereum-preferred-share-trading)**
 
-As concerns around quantum computing’s future impact on cryptocurrencies grow, Sharplink Inc (SBET) CEO Joseph Chalom believes that one asset is already preparing for this threat and doing what institutions will demand from every other blockchain: prepari
+BitMine Immersion Technologies expanded its leading Ethereum treasury to more than 5.6 million ETH valued at greater than $10 billion.
 
-Stocktwits • 1d ago
+Decrypt • 2d ago
+
+---
+
+**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -230,13 +230,23 @@ Stocktwits • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 536 • 👍 42 • 💬 88 • ⏱️ 38:25 • 2h ago
+
+---
+
 **[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
 
 CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
 
 📺 Marzell Crypto
 
-👁️ 104 • 👍 11 • 💬 95 • ⏱️ 2:27 • 3h ago
+👁️ 148 • 👍 11 • 💬 111 • ⏱️ 2:27 • 5h ago
 
 ---
 
@@ -246,7 +256,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 261 • 👍 15 • 💬 2 • ⏱️ 5:04 • 9h ago
+👁️ 321 • 👍 17 • 💬 3 • ⏱️ 5:04 • 11h ago
+
+---
+
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 202 • 💬 33 • ⏱️ 15:17 • 2d ago
 
 ---
 
@@ -260,33 +280,13 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 ---
 
-**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
-
-ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
-
-📺 Dana Love, PhD
-
-👁️ 14K • 👍 697 • 💬 148 • ⏱️ 13:29 • 1d ago
-
----
-
 **[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
 
 Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
 
 📺 Lark Davis
 
-👁️ 6K • 👍 115 • 💬 5 • ⏱️ 0:44 • 1d ago
-
----
-
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 200 • 💬 34 • ⏱️ 15:17 • 2d ago
+👁️ 6K • 👍 118 • 💬 5 • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -296,7 +296,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 60 • 👍 4 • 💬 12 • ⏱️ 7:44 • 4h ago
+👁️ 87 • 👍 4 • 💬 14 • ⏱️ 7:44 • 7h ago
+
+---
+
+**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
+
+ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
+
+📺 Dana Love, PhD
+
+👁️ 14K • 👍 705 • 💬 153 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -306,27 +316,17 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 851 • 👍 17 • 💬 94 • ⏱️ 4:33 • 1d ago
+👁️ 883 • 👍 18 • 💬 94 • ⏱️ 4:33 • 2d ago
 
 ---
 
-**[🔴 Israel will Pump ETHEREUM 🧃](https://www.youtube.com/watch?v=DRTHpup3XRs)**
+**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
 
-📺 🌟yourfriendsommi
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 256 • 💬 25 • ⏱️ 31:06 • 19h ago
-
----
-
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
-
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
-
-📺 Gareth Soloway
-
-👁️ 73K • 👍 4K • 💬 318 • ⏱️ 13:52 • 2d ago
+👁️ 8K • 👍 212 • 💬 112 • ⏱️ 17:33 • 2d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-17T18:41:45.492680+00:00'
+updated: '2026-06-17T21:07:41.570985+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 17, 2026 at 18:41 UTC  
+**Last Updated:** June 17, 2026 at 21:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,27 +114,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Estonia’s Milrem Robotics Wants Robots to Guard NATO’s 2,150-Mile Eastern Front](https://www.yahoo.com/news/world/articles/estonia-milrem-robotics-wants-robots-162153761.html)**
+**[Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.](https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/)**
 
-Milrem Robotics wants autonomous ground vehicles and drones to guard NATO's 3,500 km eastern flank - but a contract is far from certain.
+If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.
 
-Yahoo • 2h ago
-
----
-
-**[New Qwen Models Fuel BABA's Robotics Ambitions: Hold the Stock Now?](https://finance.yahoo.com/technology/ai/articles/qwen-models-fuel-babas-robotics-144700254.html)**
-
-Alibaba's new Qwen-Robot push deepens its AI-cloud strategy, but rising costs, valuation premium and volatility raise questions about near-term upside.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Can Software Revenues Help Serve Robotics Strengthen Margins?](https://sg.finance.yahoo.com/news/software-revenues-help-serve-robotics-142500644.html)**
-
-Can SERV's growing software revenues and positive margins help offset fleet investment costs and pave the way for a more scalable model?
-
-Yahoo Finance Singapore • 4h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -146,19 +130,25 @@ The Robot Report • 1d ago
 
 ---
 
-**[AI robots can go rogue – a researcher on how easily it happens](https://theconversation.com/ai-robots-can-go-rogue-a-researcher-on-how-easily-it-happens-284766)**
+**[Pittsburgh positions itself as defense tech hub at CMU robotics forum](https://www.bizjournals.com/pittsburgh/news/2026/06/17/cmu-robotics-innovation-center-army-ai.html)**
 
-In tests, AI robot systems easily rejected directly malicious commands. But their safety filters collapsed when creative writing was used to instruct them.
-
-The Conversation • 2d ago
+The Business Journals • 2h ago
 
 ---
 
-**[Micropolis Robotics Expands Physical AI Portfolio with Five-Year Autonomous Sweeper Deployment Agreement with Abu Dhabi Government](https://finance.yahoo.com/technology/ai/articles/micropolis-robotics-expands-physical-ai-222700818.html)**
+**[AI coding agents taught robots how to install GPUs and cut zip-ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
 
-Long-term agreement with the Department of Municipalities and Transport advances the deployment of Physical AI and autonomous municipal services across Abu Dhabi Micropolis AI Robotics AI-powered autonomous sweeper Micropolis AI Robotics AI-powered, autonomous sweeper DUBAI, United Arab Emirates, June 16, 2026 (GLOBE NEWSWIRE) -- Micropolis AI Robotics (NYSE: MCRP) (“Micropolis” or the “Company”), a leading UAE-based developer of autonomous mobile robots and AI-enabled systems, today announced a
+Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 
-Yahoo Finance • 20h ago
+Ars Technica • 1d ago
+
+---
+
+**[Why robotics will be the next great investment theme](https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html)**
+
+RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme. He discusses how advances in artificial intelligence are accelerating the adoption of autonomous machines and why the convergence of AI and robotics may create significant opportunities for investors.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -176,11 +166,19 @@ Financial Times • 2d ago
 
 ---
 
-**[No, NYT, It’s Not ‘Nearly Impossible’ To Build Robots Without China](https://www.forbes.com/sites/johnkoetsier/2026/06/17/no-nyt-its-not-nearly-impossible-to-build-robots-without-china/)**
+**[Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart](https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk)**
 
-The NYT recently said it's almost impossible to build robots without China. There are counter-examples very close to home, however ...
+As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs
 
-Forbes • 46m ago
+The Guardian • 3d ago
+
+---
+
+**[Robots with real muscles? The breakthrough that blurs the line with life](https://www.futura-sciences.com/en/robots-with-real-muscles-the-breakthrough-that-blurs-the-line-with-life_34099/)**
+
+The Muscle Mystery: Why Flexibility Isn’t (Yet) Robotic Bending, twisting, and bouncing back into shape—nature makes it look effortless. Our own bodies, apart from our bony skeletons, are supple machines designed for flexibility that humanoid robots still struggle to imitate. We’ve all seen spectacular videos of robots waving their arms,...
+
+Futura, le média qui explore le monde • 1d ago
 
 ---
 
@@ -198,63 +196,23 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 ---
 
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+**[First Robot Lawn Mower with a BUILT-IN String Trimmer - WORX Land Vision Cloud](https://www.youtube.com/watch?v=ggxTdCjKBjI)**
 
-AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
+The NEW Worx Landroid stands out In a sea of lawn mowing Robots. The only mower that can be setup anywhere in minutes ...
 
-📺 InsideAI
+📺 Silver Cymbal
 
-👁️ 618K • 👍 21K • 💬 2K • ⏱️ 15:10 • 3d ago
-
----
-
-**[Robot-as-a-Service: The Business Model That Could Put Humanoids in Every Factory](https://www.youtube.com/watch?v=KgtFHvsD5ck)**
-
-SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Schaeffler to Deploy Thousands of ...
-
-📺 Jason Lowe on AI
-
-👁️ 18K • 👍 1K • 💬 51 • ⏱️ 2:31 • 2d ago
+👁️ 30K • 👍 1K • 💬 120 • ⏱️ 10:53 • 2d ago
 
 ---
 
-**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
+**[The Robot That Solved a Rubik’s Cube in 0.103 Seconds](https://www.youtube.com/watch?v=Fj14TIdu3ug)**
 
-Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
+A robot built by Purdue students solved a Rubik's Cube in just 0.103 seconds, setting a world record and showing the incredible ...
 
-📺 🚜🌾 Desi Farm Vibes
+📺 Be Yourself.
 
-👁️ 9K • 👍 47 • ⏱️ 0:21 • 23h ago
-
----
-
-**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
-
-Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
-
-📺 Fox Business Clips
-
-👁️ 210 • 👍 15 • 💬 1 • ⏱️ 6:28 • 41m ago
-
----
-
-**[Bionic hand tech could revolutionize robotics](https://www.youtube.com/watch?v=AChTwVWgO7g)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 788 • 👍 8 • ⏱️ 2:07 • 6h ago
-
----
-
-**[Duck Animatron Kit At Home! Unboxing 🤖🦆 #robotics #openduck](https://www.youtube.com/watch?v=t02tYlOsRmA)**
-
-Biggest project I've taken on in a while! We'll be building this awesome open duck inspired by Disney animatrons from the ...
-
-📺 Back to Engineering
-
-👁️ 1K • 👍 66 • 💬 4 • ⏱️ 0:41 • 8h ago
+👁️ 4K • 👍 43 • 💬 1 • ⏱️ 0:16 • 5h ago
 
 ---
 
@@ -264,27 +222,67 @@ A robot dog named Aitidus became the star attraction at the "Made in Tatarstan" 
 
 📺 CRUX
 
-👁️ 1K • 👍 39 • 💬 1 • ⏱️ 0:26 • 4h ago
+👁️ 2K • 👍 55 • 💬 2 • ⏱️ 0:26 • 6h ago
 
 ---
 
-**[Is This The Material Of The Future 🧪](https://www.youtube.com/watch?v=XlAYE4UpNKc)**
+**[Anaconda Innovation! 🐍✨ Jinu Crafts a Robotic Companion for Rumi! #robot](https://www.youtube.com/watch?v=Ppx8Ilti4PY)**
 
-At first glance this material looks like polished metal, yet it bends, twists and returns to its original shape like rubber. While its exact ...
+Join Jinu as he takes on an exciting challenge to create a one-of-a-kind robotic anaconda for Rumi! Watch the transformation ...
 
-📺 Machines In Action
+📺 PopZap Shorts
 
-👁️ 49K • ⏱️ 0:15 • 3d ago
+👁️ 4K • 👍 56 • ⏱️ 0:25 • 1h ago
 
 ---
 
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
+**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
 
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
+Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
 
-📺 Over Engineer
+📺 🚜🌾 Desi Farm Vibes
 
-👁️ 55K • 👍 3K • 💬 256 • ⏱️ 6:05 • 4d ago
+👁️ 9K • 👍 47 • ⏱️ 0:21 • 1d ago
+
+---
+
+**[Tiny Medical Robots Navigate Deep Inside the Human Body With Magnetic Precision #robot #medical](https://www.youtube.com/watch?v=MRAJKYqmel4)**
+
+Tiny Medical Robots Navigate Deep Inside the Human Body With Magnetic Precision What if doctors could send microscopic ...
+
+📺 Future Lens Pi
+
+👁️ 35K • 💬 6 • ⏱️ 0:07 • 1d ago
+
+---
+
+**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+
+Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+
+📺 Fox Business Clips
+
+👁️ 1K • 👍 39 • 💬 25 • ⏱️ 6:28 • 3h ago
+
+---
+
+**[Robot-as-a-Service: The Business Model That Could Put Humanoids in Every Factory](https://www.youtube.com/watch?v=KgtFHvsD5ck)**
+
+SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Schaeffler to Deploy Thousands of ...
+
+📺 Jason Lowe on AI
+
+👁️ 18K • 👍 1K • 💬 52 • ⏱️ 2:31 • 2d ago
+
+---
+
+**[Humanoid robot football match showcases advances in embodied AI](https://www.youtube.com/watch?v=fajs4WznfpU)**
+
+As football fever sweeps the globe during the 2026 FIFA World Cup, a 3v3 fully autonomous robot football match took place on ...
+
+📺 CGTN
+
+👁️ 20K • 👍 45 • 💬 5 • ⏱️ 1:15 • 1d ago
 
 ---
 

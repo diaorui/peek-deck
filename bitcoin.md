@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-17T18:41:45.483422+00:00'
+updated: '2026-06-17T21:07:41.561744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 18:41 UTC  
+**Last Updated:** June 17, 2026 at 21:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,345.05
+### $64,259.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.1%  
-**30d:** -14.6%  
-**90d:** -6.9%  
-**1y:** -37.5%  
+**24h:** -2.2%  
+**7d:** +1.1%  
+**30d:** -16.3%  
+**90d:** -8.8%  
+**1y:** -38.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1311.46B
+**Market Cap:** $1288.49B
 Rank #1
 
-**Circulating Supply:** 20,044,112 BTC
+**Circulating Supply:** 20,044,156 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--48.0%
+-49.0%
 
 **All-Time Low:** $67.81
-+96567.2%
++94691.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislator presented a Bitcoin Policy Institute report advocating diversification of
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 1d ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 2d ago
 
 ---
 
@@ -127,7 +127,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Elon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX on Friday, officially joining the ranks of public Bitcoin treasury companies with 18,712 BTC worth roughly $1.29 billion, making it the eighth-largest corporate holder of bitcoin.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard) • 2d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard) • 3d ago
 
 ---
 
@@ -161,7 +161,21 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
 
-CoinDesk • 3h ago
+CoinDesk • 38m ago
+
+---
+
+**[Bitcoin Edges Lower Ahead of Fed Decision](https://www.barrons.com/livecoverage/stock-market-news-today-061726/card/bitcoin-edges-lower-ahead-of-fed-decision-1snDzy3SDCioqwc4VHlB)**
+
+Barron's • 4h ago
+
+---
+
+**[Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh](https://decrypt.co/371439/bitcoin-slides-fed-deliver-price-stability-under-kevin-warsh)**
+
+The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the expected result, yet Bitcoin and other assets dipped.
+
+Decrypt • 2h ago
 
 ---
 
@@ -193,19 +207,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud](https://www.yahoo.com/news/us/articles/florida-man-bitcoin-rodney-pleads-153741236.html)**
+**[Michael Saylor reveals key reason for Bitcoin's crash](https://sg.finance.yahoo.com/news/michael-saylor-reveals-key-reason-195247744.html)**
 
-A Miami-based man who went by the name “Bitcoin Rodney” pleaded guilty for his role in what prosecutors said was a massive global fraud.
+Michael Saylor used a high-profile appearance at BTC Prague to address two separate issues at once: criticism over Strategy's (Nasdaq: MSTR) recent Bitcoin sale, and his own theory for why Bitcoin has been lagging this year. Speaking with Natalie Brunell, the Strategy co-founder and executive ...
 
-Yahoo • 3h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
-**[AI’s Bitcoin Moment](https://www.brownstoneresearch.com/chain-of-thought/ais-bitcoin-moment/)**
+**['Passive' investors who dodged bitcoin are now forced to own SpaceX, which is three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
 
-We are now entering a world of permissioned AI use. And it’s fueling conversations around alternatives…
+Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-Brownstone Research • 2h ago
+CNBC • 9h ago
+
+---
+
+**[Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price](https://bitcoinmagazine.com/news/mexican-billionaire-ricardo-salinas-bets)**
+
+Mexican billionaire Ricardo Salinas says he has increased his bitcoin allocation from 10% in 2020 to 70% of his portfolio today and believes bitcoin will eventually reach $1 million.
+
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -213,29 +235,7 @@ Brownstone Research • 2h ago
 
 How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
-vaneck.com • 23h ago
-
----
-
-**[Bitcoin Is Totally Useless As Money, Not Because It’s Declining](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
-
-With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
-
-Forbes • 3d ago
-
----
-
-**['Passive' investors who dodged bitcoin are now forced to own SpaceX shares three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
-
-Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
-
-CNBC • 6h ago
-
----
-
-**[Michigan data center expansion would nix Bitcoin mining, launch AI computing](https://www.mlive.com/news/kalamazoo/2026/06/michigan-data-center-expansion-would-nix-bitcoin-mining-launch-ai-computing.html)**
-
-MLive.com • 1h ago
+vaneck.com • 1d ago
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 5h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 7h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -333,27 +333,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 99 • ⏱️ 9:06 • 22h ago
-
----
-
-**[Bitcoin Bull Market Starts HERE!](https://www.youtube.com/watch?v=rjociIEWWsc)**
-
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
-
-📺 Crypto Jebb
-
-👁️ 2K • 👍 167 • 💬 32 • ⏱️ 43:02 • 3h ago
-
----
-
-**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
-
-Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
-
-📺 100XClub
-
-👁️ 7K • 👍 842 • 💬 138 • ⏱️ 2:03 • 10h ago
+👁️ 37K • 👍 2K • 💬 175 • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -363,7 +343,17 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 124 • ⏱️ 15:41 • 21h ago
+👁️ 24K • 👍 2K • 💬 242 • ⏱️ 15:41 • 1d ago
+
+---
+
+**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
+
+Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
+
+📺 100XClub
+
+👁️ 8K • 👍 850 • 💬 163 • ⏱️ 2:03 • 12h ago
 
 ---
 
@@ -373,7 +363,7 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 875 • 💬 81 • ⏱️ 19:51 • 1d ago
+👁️ 15K • 👍 884 • 💬 84 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -383,27 +373,7 @@ Dante talks about Why You Should Never Sell Your Bitcoin! Brought to you by Bitc
 
 📺 Simply Bitcoin
 
-👁️ 934 • 👍 23 • 💬 119 • ⏱️ 0:26 • 5h ago
-
----
-
-**[&quot;Saylor Just Got Saved By The Bell&quot; — Doomberg Just Flipped On Bitcoin](https://www.youtube.com/watch?v=b8Sy-64lyrM)**
-
-Doomberg has spent considerable time skeptical of MicroStrategy's strategy — and something just happened that's making them ...
-
-📺 BTC Sessions
-
-👁️ 751 • 👍 51 • 💬 101 • ⏱️ 25:07 • 1h ago
-
----
-
-**[BAD NEWS: HUGE BITCOIN WARNING!](https://www.youtube.com/watch?v=6bBj5VldV9k)**
-
-Yubit: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 WEEX: https://themoon.co/WEEXwelcome ...
-
-📺 The Moon Show
-
-👁️ 3K • 👍 279 • 💬 24 • ⏱️ 18:19 • 4h ago
+👁️ 1K • 👍 27 • 💬 147 • ⏱️ 0:26 • 8h ago
 
 ---
 
@@ -413,17 +383,47 @@ It's always fun to spar with Peter Schiff about Bitcoin and gold. This time, we 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 440 • 💬 189 • ⏱️ 11:45 • 21h ago
+👁️ 8K • 👍 450 • 💬 190 • ⏱️ 11:45 • 1d ago
 
 ---
 
-**[BITCOIN: Don’t Ignore This Warning! (please) - BTC Price Prediction Today](https://www.youtube.com/watch?v=Q1qTOMF_5pQ)**
+**[Bitcoin Bull Market Starts HERE!](https://www.youtube.com/watch?v=rjociIEWWsc)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
 
-📺 BitcoinHyper
+📺 Crypto Jebb
 
-👁️ 5K • 👍 408 • 💬 40 • ⏱️ 14:12 • 8h ago
+👁️ 3K • 👍 189 • 💬 36 • ⏱️ 43:02 • 6h ago
+
+---
+
+**[Bitcoin Is Going To $7M – Saylor Says &quot;It&#39;s Inevitable&quot;](https://www.youtube.com/watch?v=5Ud-53eL2Ic)**
+
+Bitcoin #Crypto #Finance Bitcoin just SMASHED past $66000 — its highest level in over a week — as the Iran peace deal ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 579 • 💬 196 • ⏱️ 51:36 • 1d ago
+
+---
+
+**[Can You Trust Bitcoin Treasury Company Clowns?](https://www.youtube.com/watch?v=SaqagEd1XoE)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss whether or not you can trust Bitcoin ...
+
+📺 Bitcoin University
+
+👁️ 8K • 👍 888 • 💬 388 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[Is Bitcoin About To Get Rejected Here?](https://www.youtube.com/watch?v=glKZ6CilVtQ)**
+
+In today's video, Kyledoops outlines why the following hours will be critical for Bitcoin price. There are macro factors aligning with ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 14 • ⏱️ 33:32 • 1d ago
 
 ---
 
