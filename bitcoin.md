@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-17T07:33:39.517699+00:00'
+updated: '2026-06-17T12:17:18.310212+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 07:33 UTC  
+**Last Updated:** June 17, 2026 at 12:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,562.71
+### $64,694.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +3.1%  
-**30d:** -14.7%  
-**90d:** -7.0%  
-**1y:** -37.5%  
+**24h:** -1.9%  
+**7d:** +1.9%  
+**30d:** -15.6%  
+**90d:** -8.0%  
+**1y:** -38.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1312.49B
+**Market Cap:** $1316.39B
 Rank #1
 
-**Circulating Supply:** 20,043,900 BTC
+**Circulating Supply:** 20,043,737 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--48.1%
+-47.9%
 
 **All-Time Low:** $67.81
-+96480.2%
++96727.9%
 
 ---
 
@@ -157,19 +157,19 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
+**[Live updates: Bitcoin bottom signal flashes as holders absorbed 125,000 BTC in June](https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june)**
+
+Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
+
+CoinDesk • 1h ago
+
+---
+
 **[BlackRock launches new Bitcoin ETF that generates income using a covered call strategy](https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq)**
 
 BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
 
-The Block • 19h ago
-
----
-
-**[BlackRock launches bitcoin income fund as investors seek cash flow from crypto](https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure)**
-
-After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.
-
-CoinDesk • 19h ago
+The Block • 1d ago
 
 ---
 
@@ -181,45 +181,37 @@ Scott Melker discusses BlackRock's BLK (BLK) new bitcoin (BTC-USD) ETF, which of
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck](https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck)**
+**[BlackRock launches bitcoin income fund as investors seek cash flow from crypto](https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure)**
 
-VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.
+After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.
 
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin Climbs to Two-Week High After US-Iran Hormuz Deal](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rallies-two-week-high-050754772.html)**
-
-(Bloomberg) -- Bitcoin climbed to its highest level in nearly two weeks after the US and Iran said they had reached an agreement to end hostilities and reopen the Strait of Hormuz.Most Read from BloombergIran’s Deputy Foreign Minister Confirms Deal Reached With USUS and Iran Agree to Halt War, Restart Middle East Oil ShipmentsIran Signals No Deal Will Be Signed by Trump’s Sunday TimelineStocks Climb as US-Iran Deal Spurs Slide in Oil: Markets WrapWhy Musk Raced to Take SpaceX Public in the World
-
-Yahoo Finance • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Climbs to Two-Week High After US-Iran Hormuz Deal](https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal)**
+**['Passive' investors who dodged bitcoin are now forced to own SpaceX shares three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
 
-Bloomberg.com • 1d ago
+Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
----
-
-**[Trump’s Iran Deal Sends Stocks to Records, Then the Fed Speaks and Bitcoin Slides](https://finance.yahoo.com/markets/articles/trump-iran-deal-sends-stocks-064128873.html)**
-
-Oil fell below $80 on the Iran deal, the Dow hit a record, and Bitcoin touched $67K. Then the Fed wiped out rate cuts.
-
-Yahoo Finance • 52m ago
+CNBC • 22m ago
 
 ---
 
-**[Forget the price charts. Here's how bitcoin and S&P 500 look like when adjusted for the money printer](https://www.coindesk.com/markets/2026/06/17/forget-the-price-charts-here-s-how-bitcoin-and-s-and-p-500-look-like-when-adjusted-for-the-money-printer)**
+**[Bitcoin and ethereum prices today, Wednesday,June 17, 2026: Much higher this week compared to last](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesdayjune-17-2026-much-higher-this-week-compared-to-last-114326169.html)**
 
-Valuations shaped by M2 money supply growth paint reveal concerning trends for risk assets.
+These are today's bitcoin and ethereum prices, Wednesday, June 17, 2026. Bitcoin opened at $65,605.45 on Wednesday, down 1% from Tuesday's open but up 6.4% from this time last week. Ethereum opened at $1,790.68 on Wednesday, 0.2% lower than Tuesday's opening price but 9.3% higher than last week’s opening price.
 
-CoinDesk • 1h ago
+Yahoo Finance • 33m ago
+
+---
+
+**[Bitcoin's June Downturn Leaves $8.6 Billion in Options Out of the Money](https://news.futunn.com/en/post/74729413/bitcoin-s-june-downturn-leaves-8-6-billion-in-options)**
+
+富途牛牛 • 34m ago
 
 ---
 
@@ -227,15 +219,23 @@ CoinDesk • 1h ago
 
 How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
-vaneck.com • 12h ago
+vaneck.com • 16h ago
 
 ---
 
-**[Bitcoin, Near The Bottom: This Chart Tells All](https://www.forbes.com/sites/digital-assets/2026/06/15/bitcoin-near-the-bottom-this-chart-tells-all/)**
+**[Bitcoin Is Totally Useless As Money, Not Because It’s Declining](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
 
-The trouble with seeing the future is that we often think it’s a lot closer than it really is. Bitcoin is proving my predictions spot on, but it’s taking its time.
+With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
 
-Forbes • 1d ago
+Forbes • 2d ago
+
+---
+
+**[Bitcoin is “caught between flow deterioration and macro relief”](https://sherwood.news/crypto/bitcoin-is-caught-between-flow-deterioration-and-macro-relief/)**
+
+Bitcoin is flat on Tuesday morning, hovering around $66,300, following a brief rally over the weekend on the news of a looming Iran deal. Yet,...
+
+Sherwood News • 21h ago
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Zitchain is the next generation cryptocurrency architecture. 100% secure, energy efficient, built for the world.
 
-⬆️ 3 • 💬 1 • 15h ago • [zitchain.com](https://zitchain.com)
+⬆️ 3 • 💬 1 • 20h ago • [zitchain.com](https://zitchain.com)
 
 ---
 
@@ -279,7 +279,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
 
-⬆️ 3 • 💬 1 • 19h ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 3 • 💬 1 • 1d ago • [boltassociation.com](https://boltassociation.com/)
 
 ---
 
@@ -295,7 +295,7 @@ Quantum computing poses a real, broad-based, but bounded and substantially mitig
 
 A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/epochbtc/satd)
+⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/epochbtc/satd)
 
 ---
 
@@ -311,7 +311,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
 
-⬆️ 1 • 💬 0 • 14h ago • [CredScore](https://www.credscore.us/)
+⬆️ 1 • 💬 0 • 19h ago • [CredScore](https://www.credscore.us/)
 
 ---
 
@@ -331,7 +331,27 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 58 • ⏱️ 15:41 • 10h ago
+👁️ 21K • 👍 1K • 💬 65 • ⏱️ 15:41 • 15h ago
+
+---
+
+**[Why BlackRock Thinks Bitcoin Goes to $750k (XRP &amp; TAO news)](https://www.youtube.com/watch?v=at3WIe_ugrI)**
+
+Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 74 • ⏱️ 9:06 • 15h ago
+
+---
+
+**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
+
+Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
+
+📺 100XClub
+
+👁️ 4K • 👍 642 • 💬 108 • ⏱️ 2:03 • 4h ago
 
 ---
 
@@ -341,7 +361,7 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 744 • 💬 61 • ⏱️ 19:51 • 13h ago
+👁️ 13K • 👍 799 • 💬 69 • ⏱️ 19:51 • 17h ago
 
 ---
 
@@ -361,7 +381,7 @@ Tomorrow's FOMC decision could deliver a twist that many crypto investors aren't
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 1K • 💬 38 • ⏱️ 27:35 • 17h ago
+👁️ 25K • 👍 1K • 💬 42 • ⏱️ 27:35 • 22h ago
 
 ---
 
@@ -371,17 +391,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 402 • 💬 319 • ⏱️ 10:54 • 16h ago
-
----
-
-**[Bitcoin Bulls Are Waking Up](https://www.youtube.com/watch?v=Vvl2mmgR5Sk)**
-
-AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 853 • 💬 219 • ⏱️ 54:21 • 1d ago
+👁️ 7K • 👍 407 • 💬 322 • ⏱️ 10:54 • 20h ago
 
 ---
 
@@ -391,17 +401,7 @@ Peter Schiff battles Bitcoin bull Anthony Pompliano on Fox Business, arguing the
 
 📺 Peter Schiff
 
-👁️ 99K • 👍 2K • 💬 2K • ⏱️ 11:24 • 1d ago
-
----
-
-**[SpaceX&#39;s $1.3B in BTC is another sign that the Bitcoin has cemented itself as a legit macro asset.](https://www.youtube.com/watch?v=0GmXPrhnUco)**
-
-cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe to CoinDesk on YouTube: ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 19 • 💬 3 • ⏱️ 0:23 • 13h ago
+👁️ 103K • 👍 2K • 💬 2K • ⏱️ 11:24 • 1d ago
 
 ---
 
@@ -411,17 +411,17 @@ Welcome to the Zen Trading Zone with Zen Master JP. He narrates the market and d
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 280 • ⏱️ 3:28:35 • 5h ago
+👁️ 6K • 👍 281 • ⏱️ 3:28:35 • 9h ago
 
 ---
 
-**[Michael Saylor Fires Back After Strategy Sold Bitcoin](https://www.youtube.com/watch?v=NmYl4dsuXn4)**
+**[Bitcoin: Time-Based Capitulation](https://www.youtube.com/watch?v=psz9FwqWGns)**
 
-Michael Saylor responds to the backlash over Strategy selling Bitcoin — and explains why he believes the “never sell” debate is ...
+Let's talk about Bitcoin and how time-based capitulation is important, but can sometimes be ignored if price-based capitulation ...
 
-📺 Cointelegraph
+📺 Benjamin Cowen
 
-👁️ 20K • 👍 515 • 💬 132 • ⏱️ 28:49 • 1d ago
+👁️ 105K • 👍 6K • 💬 234 • ⏱️ 18:49 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-17T07:33:39.523079+00:00'
+updated: '2026-06-17T12:17:18.316805+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 07:33 UTC  
+**Last Updated:** June 17, 2026 at 12:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,794.43
+### $1,764.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +6.7%  
-**30d:** -15.4%  
-**90d:** -16.8%  
-**1y:** -29.2%  
+**24h:** -1.9%  
+**7d:** +5.3%  
+**30d:** -16.5%  
+**90d:** -17.8%  
+**1y:** -30.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $212.64B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-64.4%
 
 **All-Time Low:** $0.43
-+414030.9%
++406977.5%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most onchain derivatives today are still centered around crypto assets. There is a clear gap when it comes to commodities like oil, natural gas, power, and metals, which remain largely tied to traditional market structures. My team is working on bringing these markets onchain through instruments such as perpetuals, futures, and options. The current design uses offchain order matching with onchain settlement. The goal is not to recreate another crypto perp venue, but to expand the set of assets that can be traded within Ethereum-based markets. Before going further, here are some of the key questions we have been thinking about while building Sphinx Protocol, and we would really value input from people working on market design, oracle systems, and onchain trading infrastructure: How should commodity pricing be handled onchain at scale? What other type of market structure makes sense for assets that are not crypto-native? How does liquidity form around entirely new derivative categories? Which parts of commodity market infrastructure can realistically move onchain first? Would love to hear thoughts, especially from people exploring similar problems or adjacent areas.
 
-1d ago
+2d ago
 
 ---
 
@@ -152,15 +152,23 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
 
-CoinDesk • 16h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Ethereum to $5,000 if CLARITY Act Passes? Bullish Theories Fly as Senator Predicts Ten-Fold Crypto Increase](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-clarity-act-140529273.html)**
+**[Bitcoin and ethereum prices today, Wednesday,June 17, 2026: Much higher this week compared to last](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesdayjune-17-2026-much-higher-this-week-compared-to-last-114326169.html)**
 
-Ethereum bulls see a path to $5,000 if the CLARITY Act passes. Some analysts believe Wall Street's tokenization could drive valuations much higher. Institutional accumulation ...
+These are today's bitcoin and ethereum prices, Wednesday, June 17, 2026. Bitcoin opened at $65,605.45 on Wednesday, down 1% from Tuesday's open but up 6.4% from this time last week. Ethereum opened at $1,790.68 on Wednesday, 0.2% lower than Tuesday's opening price but 9.3% higher than last week’s opening price.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 33m ago
+
+---
+
+**[Bitmine Immersion: BMNP Preferred Capital And The Cost Of Ethereum Treasury Expansion](https://seekingalpha.com/article/4915591-bitmine-immersion-bmnp-preferred-capital-and-the-cost-of-ethereum-treasury-expansion)**
+
+Bitmine Immersion’s $9.65B Ethereum treasury and 2.99% staking yield analyzed. Click here to read more on BMNR.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -168,7 +176,7 @@ Yahoo Finance • 17h ago
 
 As concerns around quantum computing’s future impact on cryptocurrencies grow, Sharplink Inc (SBET) CEO Joseph Chalom believes that one asset is already preparing for this threat and doing what institutions will demand from every other blockchain: prepari
 
-Stocktwits • 19h ago
+Stocktwits • 23h ago
 
 ---
 
@@ -176,15 +184,37 @@ Stocktwits • 19h ago
 
 Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
 
-Coinpedia • 18h ago
+Coinpedia • 22h ago
 
 ---
 
-**[Current price of Ethereum for June 16, 2026](https://fortune.com/article/price-of-ethereum-06-16-2026/)**
+**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
 
-Fortune • 17h ago
+TradingView • 23h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC pauses recovery, ETH holds key support, XRP nears breakout zone](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-pauses-recovery-eth-holds-key-support-xrp-nears-breakout-zone-202606170321)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as assets struggle to build a unified direction after their recent recoveries. BTC paused its rebound near $66,000, while ETH holds above a key support zone, keeping bullish hopes alive.
+
+FXStreet • 8h ago
+
+---
+
+**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
+
+CCN.com • 2d ago
+
+---
+
+**[Bitcoin ETFs bleed $64M as Ethereum, Solana, and XRP funds absorb $28M in a single day](https://cryptobriefing.com/bitcoin-etf-outflows-altcoin-etf-inflows-2/)**
+
+Bitcoin spot ETFs lost $64M in outflows on June 15 while Ethereum, Solana, and XRP ETFs attracted $28M, signaling an institutional rotation into altcoins.
+
+Crypto Briefing • 4h ago
 
 ---
 
@@ -196,47 +226,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
-
-Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
-
-TradingView • 18h ago
-
----
-
-**[Crypto Today: Bitcoin extends recovery above $66K as Ethereum and XRP lose momentum](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-extends-recovery-above-66k-as-ethereum-and-xrp-lose-momentum-202606161200)**
-
-Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
-
-FXStreet • 19h ago
-
----
-
-**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
-
-CCN.com • 1d ago
-
----
-
-**[Bitmine acquires 20,000 Ethereum for $36M from FalconX in latest treasury expansion](https://cryptobriefing.com/bitmine-acquires-20000-ethereum-falconx/)**
-
-Bitmine Immersion Technologies bought 20,000 ETH for $35.85 million from FalconX, expanding its treasury past 5.5 million ETH as part of Tom Lee's Ethereum
-
-Crypto Briefing • 7h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
+**[ETH PULLBACK! Will It Rally Higher After? (Ethereum Update)](https://www.youtube.com/watch?v=90j3hyNmGvs)**
 
-Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 CoinDesk
+📺 Cilinix Crypto
 
-👁️ 29K • 👍 792 • 💬 82 • ⏱️ 20:10 • 2d ago
+👁️ 80 • 👍 8 • 💬 1 • ⏱️ 5:04 • 2h ago
 
 ---
 
@@ -246,7 +246,17 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 218 • 💬 23 • ⏱️ 31:06 • 8h ago
+👁️ 2K • 👍 244 • 💬 25 • ⏱️ 31:06 • 13h ago
+
+---
+
+**[Tom Lee&#39;s Case for $22,000 Ethereum](https://www.youtube.com/watch?v=kqpng6-WQE0)**
+
+Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: crypto winter is over and the bull market is just ...
+
+📺 CoinDesk
+
+👁️ 30K • 👍 806 • 💬 83 • ⏱️ 20:10 • 2d ago
 
 ---
 
@@ -256,7 +266,7 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 112 • ⏱️ 8:35 • 1d ago
+👁️ 16K • 👍 2K • 💬 112 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -266,17 +276,7 @@ ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "a
 
 📺 Dana Love, PhD
 
-👁️ 13K • 👍 665 • 💬 128 • ⏱️ 13:29 • 1d ago
-
----
-
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
-
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
-
-📺 Gareth Soloway
-
-👁️ 71K • 👍 4K • 💬 319 • ⏱️ 13:52 • 1d ago
+👁️ 13K • 👍 674 • 💬 130 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -286,17 +286,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 186 • 💬 33 • ⏱️ 15:17 • 1d ago
+👁️ 5K • 👍 189 • 💬 33 • ⏱️ 15:17 • 1d ago
 
 ---
 
-**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
 
-📺 Crypto Nutshell
+📺 Gareth Soloway
 
-👁️ 3K • 👍 178 • 💬 8 • ⏱️ 19:50 • 14h ago
+👁️ 72K • 👍 4K • 💬 318 • ⏱️ 13:52 • 2d ago
 
 ---
 
@@ -306,7 +306,17 @@ Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a
 
 📺 Lark Davis
 
-👁️ 5K • 👍 105 • 💬 4 • ⏱️ 0:44 • 1d ago
+👁️ 5K • 👍 109 • 💬 5 • ⏱️ 0:44 • 1d ago
+
+---
+
+**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 4K • 👍 191 • 💬 9 • ⏱️ 19:50 • 19h ago
 
 ---
 
@@ -316,17 +326,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 198 • 💬 13 • ⏱️ 17:33 • 1d ago
-
----
-
-**[Ethereum: Massive Move Incoming? (ETH Price Update)](https://www.youtube.com/watch?v=gaE74jpPNnA)**
-
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
-
-📺 Marzell Crypto
-
-👁️ 760 • 👍 16 • 💬 98 • ⏱️ 4:33 • 1d ago
+👁️ 7K • 👍 202 • 💬 13 • ⏱️ 17:33 • 1d ago
 
 ---
 

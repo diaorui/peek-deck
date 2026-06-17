@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-17T07:33:39.525958+00:00'
+updated: '2026-06-17T12:17:18.319728+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 17, 2026 at 07:33 UTC  
+**Last Updated:** June 17, 2026 at 12:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I've always been interested in point clouds and spatial data, so I created my ow
 
 Nature: Outplaying elite table tennis players with an autonomous robot (Published: 22 April 2026): https://www.nature.com/articles/s41586-026-10338-5 YouTube Sony AI: Ace vs. Kihara | Pro Match Highlights | Sony AI Table Tennis Robot: https://www.youtube.com/watch?v=TwkDm2H6ft8 From 链上小财女 on 𝕏: https://x.com/Zoozo2025/status/2064998917394374930
 
-4d ago
+5d ago
 
 ---
 
@@ -106,19 +106,19 @@ Real Steel Fighting .. It says the robot are real autonomous fighting. That mean
 
 ## Google News: "robotics"
 
-**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
-
-Lighter and more affordable devices give users a battery-powered spring in their step
-
-Financial Times • 1d ago
-
----
-
 **[Meet the 22 Investors to Know in Robotics and Physical AI](https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6)**
 
 Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
+
+---
+
+**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
+
+Lighter and more affordable devices give users a battery-powered spring in their step
+
+Financial Times • 2d ago
 
 ---
 
@@ -126,29 +126,23 @@ Business Insider • 1d ago
 
 RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme. He discusses how advances in artificial intelligence are accelerating the adoption of autonomous machines and why the convergence of AI and robotics may create significant opportunities for investors.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Abu Dhabi to roll out AI street-sweeper fleet in 5-year Micropolis deal](https://www.stocktitan.net/news/MCRP/micropolis-robotics-expands-physical-ai-portfolio-with-five-year-k00bf1n17aqs.html)**
+**[Built Robotics, Penn xLAB to develop physical AI for construction](https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/)**
 
-Abu Dhabi’s municipalities authority signs a 5-year Physical AI cleaning project, starting with autonomous sweepers and R&D support from Khalifa University.
+xLAB and Built Robotics partner to capture additional data, advancing AI models to improve construction site safety.
 
-Stock Titan • 9h ago
-
----
-
-**[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
-
-Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
-
-Yahoo Finance • 22h ago
+The Robot Report • 1d ago
 
 ---
 
-**[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
+**[Eno From Genesis AI: The iPhone Moment For Humanoid Robots?](https://www.forbes.com/sites/johnkoetsier/2026/06/16/is-eno-from-genesis-ai-the-iphone-moment-for-humanoid-robots/)**
 
-Reuters • 1d ago
+Eno is a startling new humanoid robot. It looks and feels different than anything else on the market, and it just might be the most humane robot you'll see.
+
+Forbes • 23h ago
 
 ---
 
@@ -160,11 +154,19 @@ The Conversation • 1d ago
 
 ---
 
-**[Could advanced prosthetic hands revolutionize robotics?](https://www.nbcnews.com/video/advanced-prosthetic-hands-could-revolutionize-robotics-265203269702)**
+**[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
 
-A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity technology for humans and robots. NBC News’ Steve Patterson reports.
+Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
 
-NBC News • 6h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Abu Dhabi to roll out AI street-sweeper fleet in 5-year Micropolis deal](https://www.stocktitan.net/news/MCRP/micropolis-robotics-expands-physical-ai-portfolio-with-five-year-k00bf1n17aqs.html)**
+
+Abu Dhabi’s municipalities authority signs a 5-year Physical AI cleaning project, starting with autonomous sweepers and R&D support from Khalifa University.
+
+Stock Titan • 13h ago
 
 ---
 
@@ -174,11 +176,11 @@ Block Club Chicago • 1d ago
 
 ---
 
-**[The Humanoid Robots You Can Actually Buy Right Now](https://www.forbes.com/sites/bernardmarr/2026/06/17/the-humanoid-robots-you-can-actually-buy-right-now/)**
+**[Elephant trunk skin’s dual-zone design offers blueprint for advanced robotic grippers](https://interestingengineering.com/ai-robotics/elephant-trunk-skin-robotics-biomechanics)**
 
-Humanoid robots are moving from science fiction into the real world, with several models now available for homes, research labs and industrial deployments.
+Coverage here spans industrial robots, cobots, humanoids, drones, and service robots, along with the hardware and software that enable them to operate at scale.
 
-Forbes • 2h ago
+Interesting Engineering • 48m ago
 
 ---
 
@@ -186,23 +188,13 @@ Forbes • 2h ago
 
 ## YouTube Videos: "robotics"
 
-**[Could advanced prosthetic hands revolutionize robotics?](https://www.youtube.com/watch?v=_0r2RZiJYBY)**
-
-A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity ...
-
-📺 NBC News
-
-👁️ 3K • 👍 37 • 💬 3 • ⏱️ 4:02 • 6h ago
-
----
-
 **[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
 
 China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
 
 📺 Kalil 4.0
 
-👁️ 15K • 👍 307 • 💬 112 • ⏱️ 8:49 • 3d ago
+👁️ 15K • 👍 309 • 💬 112 • ⏱️ 8:49 • 4d ago
 
 ---
 
@@ -212,17 +204,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 124K • 👍 7K • 💬 724 • ⏱️ 2:57 • 3d ago
-
----
-
-**[Crazy new humanoid robot details #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=d-_3ScjUrZM)**
-
-The newest humanoid robots are crazy for completely different reasons. The French startup Genesis AI just introduced its first ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 79 • 💬 4 • ⏱️ 1:46 • 12h ago
+👁️ 129K • 👍 7K • 💬 750 • ⏱️ 2:57 • 3d ago
 
 ---
 
@@ -232,7 +214,37 @@ AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.n
 
 📺 InsideAI
 
-👁️ 565K • 👍 19K • 💬 2K • ⏱️ 15:10 • 2d ago
+👁️ 579K • 👍 20K • 💬 2K • ⏱️ 15:10 • 2d ago
+
+---
+
+**[Could advanced prosthetic hands revolutionize robotics?](https://www.youtube.com/watch?v=_0r2RZiJYBY)**
+
+A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity ...
+
+📺 NBC News
+
+👁️ 3K • 👍 39 • 💬 4 • ⏱️ 4:02 • 11h ago
+
+---
+
+**[Crazy new humanoid robot details #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=d-_3ScjUrZM)**
+
+The newest humanoid robots are crazy for completely different reasons. The French startup Genesis AI just introduced its first ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 87 • 💬 5 • ⏱️ 1:46 • 16h ago
+
+---
+
+**[This Robot Packed a Backpack Fully Autonomously — TARS Dexhand &amp; SenseHub | ICRA 2026](https://www.youtube.com/watch?v=V4J6QudNtXc)**
+
+Join Robotics Builder Membership for Behind the Scene Videos: ...
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 624 • 👍 25 • ⏱️ 6:48 • 23h ago
 
 ---
 
@@ -246,13 +258,13 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 ---
 
-**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
+**[From humanoid helpers to factory floors: China&#39;s robotics pushーNHK WORLD-JAPAN NEWS](https://www.youtube.com/watch?v=5rp3aE2f96U)**
 
-Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
+Chinese robots are having their moment in the limelight. As their cheaper robotics enter the market, NHK World's Sekiya Satoshi ...
 
-📺 🚜🌾 Desi Farm Vibes
+📺 NHK WORLD-JAPAN
 
-👁️ 7K • 👍 42 • ⏱️ 0:21 • 12h ago
+👁️ 786 • ⏱️ 7:38 • 3h ago
 
 ---
 
@@ -262,27 +274,17 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 📺 Armourdesia Military Hardware
 
-👁️ 45K • 👍 2K • 💬 132 • ⏱️ 0:30 • 3d ago
+👁️ 46K • 👍 2K • 💬 132 • ⏱️ 0:30 • 4d ago
 
 ---
 
-**[Robotic Sharpener Vs Dollar Store Knife](https://www.youtube.com/watch?v=vyf8IuXlb5E)**
+**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
 
-https://wesn.com/collections/all.
+Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
 
-📺 WESN
+📺 🚜🌾 Desi Farm Vibes
 
-👁️ 71K • 👍 1K • 💬 22 • ⏱️ 0:43 • 12h ago
-
----
-
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
-
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
-
-📺 Over Engineer
-
-👁️ 49K • 👍 3K • 💬 236 • ⏱️ 6:05 • 4d ago
+👁️ 7K • 👍 45 • ⏱️ 0:21 • 16h ago
 
 ---
 
