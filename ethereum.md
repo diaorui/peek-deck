@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-17T16:11:50.328205+00:00'
+updated: '2026-06-17T18:41:45.489421+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 16:11 UTC  
+**Last Updated:** June 17, 2026 at 18:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -1.3%  
-**7d:** +5.8%  
+**7d:** +5.9%  
 **30d:** -16.1%  
 **90d:** -17.4%  
 **1y:** -29.8%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $213.97B
+**Market Cap:** $215.20B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.2%
+-63.9%
 
 **All-Time Low:** $0.43
-+409227.0%
++411779.1%
 
 ---
 
@@ -94,7 +94,7 @@ Most onchain derivatives today are still centered around crypto assets. There is
 
 **[How to get historical transactions from V2 on Ethereum Mainnet](https://www.reddit.com/r/ethereum/comments/1u6muse/how_to_get_historical_transactions_from_v2_on/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Most onchain derivatives today are still centered around crypto assets. There is
 
 Will this EIP compete with or complement mixers? Thanks.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[How I learned to stop Worrying and Love the Wild West](https://www.reddit.com/r/ethereum/comments/1u5t2il/how_i_learned_to_stop_worrying_and_love_the_wild/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -176,15 +176,7 @@ Yahoo Finance • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
-
----
-
-**[Bitmine Immersion: BMNP Preferred Capital And The Cost Of Ethereum Treasury Expansion](https://seekingalpha.com/article/4915591-bitmine-immersion-bmnp-preferred-capital-and-the-cost-of-ethereum-treasury-expansion)**
-
-Bitmine Immersion’s $9.65B Ethereum treasury and 2.99% staking yield analyzed. Click here to read more on BMNR.
-
-Seeking Alpha • 6h ago
+fortune.com • 4h ago
 
 ---
 
@@ -192,7 +184,13 @@ Seeking Alpha • 6h ago
 
 Zama, Morpho, and Steakhouse Financial launch the first confidential DeFi yield vault on Ethereum, using fully homomorphic encryption to shield
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 8h ago
+
+---
+
+**[Ethereum’s 1 Million Developer Mark Is More Than a Headline Number](https://www.investing.com/analysis/ethereums-1-million-developer-mark-is-more-than-a-headline-number-200682332)**
+
+Investing.com • 5h ago
 
 ---
 
@@ -200,7 +198,7 @@ Crypto Briefing • 5h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing mixed signals on Wednesday as assets struggle to build a unified direction after their recent recoveries. BTC paused its rebound near $66,000, while ETH holds above a key support zone, keeping bullish hopes alive.
 
-FXStreet • 12h ago
+FXStreet • 15h ago
 
 ---
 
@@ -212,14 +210,6 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum’s Strongest Moat May Be Impossible To ‘Fork’, Says Sharplink CEO](https://stocktwits.com/news-articles/markets/cryptocurrency/sharplink-ceo-on-ethereum-quantum-threat-moat/cZKWoq4R7Eu)**
-
-As concerns around quantum computing’s future impact on cryptocurrencies grow, Sharplink Inc (SBET) CEO Joseph Chalom believes that one asset is already preparing for this threat and doing what institutions will demand from every other blockchain: prepari
-
-Stocktwits • 1d ago
-
----
-
 **[Ethereum Exchange Reserves Hit a 10-Year Low—Is a Supply Shock Brewing?](https://coinpedia.org/price-analysis/ethereum-exchange-reserves-hit-a-10-year-low-is-a-supply-shock-brewing/)**
 
 Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
@@ -228,9 +218,27 @@ Coinpedia • 1d ago
 
 ---
 
+**[Ethereum’s Strongest Moat May Be Impossible To ‘Fork’, Says Sharplink CEO](https://stocktwits.com/news-articles/markets/cryptocurrency/sharplink-ceo-on-ethereum-quantum-threat-moat/cZKWoq4R7Eu)**
+
+As concerns around quantum computing’s future impact on cryptocurrencies grow, Sharplink Inc (SBET) CEO Joseph Chalom believes that one asset is already preparing for this threat and doing what institutions will demand from every other blockchain: prepari
+
+Stocktwits • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
+
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+
+📺 Marzell Crypto
+
+👁️ 104 • 👍 11 • 💬 95 • ⏱️ 2:27 • 3h ago
+
+---
 
 **[ETH PULLBACK! Will It Rally Higher After? (Ethereum Update)](https://www.youtube.com/watch?v=90j3hyNmGvs)**
 
@@ -238,17 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 191 • 👍 13 • 💬 2 • ⏱️ 5:04 • 6h ago
-
----
-
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 196 • 💬 33 • ⏱️ 15:17 • 1d ago
+👁️ 261 • 👍 15 • 💬 2 • ⏱️ 5:04 • 9h ago
 
 ---
 
@@ -268,7 +266,7 @@ ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "a
 
 📺 Dana Love, PhD
 
-👁️ 13K • 👍 689 • 💬 144 • ⏱️ 13:29 • 1d ago
+👁️ 14K • 👍 697 • 💬 148 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -278,37 +276,27 @@ Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a
 
 📺 Lark Davis
 
-👁️ 6K • 👍 113 • 💬 5 • ⏱️ 0:44 • 1d ago
+👁️ 6K • 👍 115 • 💬 5 • ⏱️ 0:44 • 1d ago
 
 ---
 
-**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
 
-No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Gareth Soloway
+📺 Savvy Finance
 
-👁️ 73K • 👍 4K • 💬 319 • ⏱️ 13:52 • 2d ago
-
----
-
-**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 4K • 👍 198 • 💬 9 • ⏱️ 19:50 • 23h ago
+👁️ 6K • 👍 200 • 💬 34 • ⏱️ 15:17 • 2d ago
 
 ---
 
-**[🔴 Israel will Pump ETHEREUM 🧃](https://www.youtube.com/watch?v=DRTHpup3XRs)**
+**[ETH Ethereum and SOL Solana Price Prediction Video](https://www.youtube.com/watch?v=zSxFiJc8ElA)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 🌟yourfriendsommi
+📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 251 • 💬 25 • ⏱️ 31:06 • 17h ago
+👁️ 60 • 👍 4 • 💬 12 • ⏱️ 7:44 • 4h ago
 
 ---
 
@@ -318,17 +306,27 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 819 • 👍 17 • 💬 98 • ⏱️ 4:33 • 1d ago
+👁️ 851 • 👍 17 • 💬 94 • ⏱️ 4:33 • 1d ago
 
 ---
 
-**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
+**[🔴 Israel will Pump ETHEREUM 🧃](https://www.youtube.com/watch?v=DRTHpup3XRs)**
 
-Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Crypto Nutshell
+📺 🌟yourfriendsommi
 
-👁️ 7K • 👍 206 • 💬 13 • ⏱️ 17:33 • 1d ago
+👁️ 2K • 👍 256 • 💬 25 • ⏱️ 31:06 • 19h ago
+
+---
+
+**[Bullish Breakout: BTC, ETH, SOL: Inside Bars Just Triggered — Watch These Levels (LINK, XRP, HYPE)](https://www.youtube.com/watch?v=YaOF9X2KbJs)**
+
+No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist Gareth Soloway discusses the latest crypto action!
+
+📺 Gareth Soloway
+
+👁️ 73K • 👍 4K • 💬 318 • ⏱️ 13:52 • 2d ago
 
 ---
 
