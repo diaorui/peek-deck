@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-17T02:01:41.286297+00:00'
+updated: '2026-06-17T07:33:39.523079+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 02:01 UTC  
+**Last Updated:** June 17, 2026 at 07:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,793.88
+### $1,794.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +7.4%  
-**30d:** -14.9%  
-**90d:** -16.2%  
-**1y:** -28.8%  
+**24h:** -1.0%  
+**7d:** +6.7%  
+**30d:** -15.4%  
+**90d:** -16.8%  
+**1y:** -29.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.87B
+**Market Cap:** $216.43B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
@@ -62,7 +62,7 @@ No max supply
 -63.7%
 
 **All-Time Low:** $0.43
-+414749.2%
++414030.9%
 
 ---
 
@@ -80,7 +80,7 @@ Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +110,7 @@ Will this EIP compete with or complement mixers? Thanks.
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -124,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,15 +152,15 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
 
-CoinDesk • 10h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Ethereum news: Tom Lee's Bitmine (BMNR) buys 76,881 ETH as preferred equity sale fuels expansion](https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale)**
+**[Ethereum to $5,000 if CLARITY Act Passes? Bullish Theories Fly as Senator Predicts Ten-Fold Crypto Increase](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-clarity-act-140529273.html)**
 
-Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.
+Ethereum bulls see a path to $5,000 if the CLARITY Act passes. Some analysts believe Wall Street's tokenization could drive valuations much higher. Institutional accumulation ...
 
-CoinDesk • 1d ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 As concerns around quantum computing’s future impact on cryptocurrencies grow, Sharplink Inc (SBET) CEO Joseph Chalom believes that one asset is already preparing for this threat and doing what institutions will demand from every other blockchain: prepari
 
-Stocktwits • 13h ago
+Stocktwits • 19h ago
 
 ---
 
@@ -176,15 +176,7 @@ Stocktwits • 13h ago
 
 Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
 
-Coinpedia • 12h ago
-
----
-
-**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
-
-Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
-
-TradingView • 13h ago
+Coinpedia • 18h ago
 
 ---
 
@@ -192,7 +184,23 @@ TradingView • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 17h ago
+
+---
+
+**[Bitmine Buys Another $136 Million Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-136-million-184200466.html)**
+
+Crypto treasury firm Bitmine Immersion Technologies (NYSE: $BMNR) bought another $136 million U.S. of Ethereum (CRY...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
+
+Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
+
+TradingView • 18h ago
 
 ---
 
@@ -200,7 +208,7 @@ Fortune • 12h ago
 
 Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
 
-FXStreet • 14h ago
+FXStreet • 19h ago
 
 ---
 
@@ -210,19 +218,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Here's What to Do if Ethereum Drops Below $1,000](https://www.fool.com/investing/2026/06/15/heres-what-to-do-if-ethereum-drops-below-1000/)**
+**[Bitmine acquires 20,000 Ethereum for $36M from FalconX in latest treasury expansion](https://cryptobriefing.com/bitmine-acquires-20000-ethereum-falconx/)**
 
-It can often be smart to buy when it feels like the worst idea.
+Bitmine Immersion Technologies bought 20,000 ETH for $35.85 million from FalconX, expanding its treasury past 5.5 million ETH as part of Tom Lee's Ethereum
 
-The Motley Fool • 1d ago
-
----
-
-**[Strategy’s Saylor Takes Aim At Ethereum Yield Model](https://financefeeds.com/strategys-saylor-takes-aim-at-ethereum-yield/)**
-
-Strategy chairman Michael Saylor argues Bitcoin generates returns through credit instruments like STRC, not staking, in a new five-layer capital framework
-
-FinanceFeeds • 8h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -236,27 +236,17 @@ Fundstrat's Tom Lee took the Consensus mainstage in Miami to make a bold call: c
 
 📺 CoinDesk
 
-👁️ 28K • 👍 779 • 💬 84 • ⏱️ 20:10 • 2d ago
+👁️ 29K • 👍 792 • 💬 82 • ⏱️ 20:10 • 2d ago
 
 ---
 
-**[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
+**[🔴 Israel will Pump ETHEREUM 🧃](https://www.youtube.com/watch?v=DRTHpup3XRs)**
 
-Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Lark Davis
+📺 🌟yourfriendsommi
 
-👁️ 5K • 👍 95 • 💬 4 • ⏱️ 0:44 • 22h ago
-
----
-
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 178 • 💬 34 • ⏱️ 15:17 • 1d ago
+👁️ 1K • 👍 218 • 💬 23 • ⏱️ 31:06 • 8h ago
 
 ---
 
@@ -266,17 +256,7 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 118 • ⏱️ 8:35 • 1d ago
-
----
-
-**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 3K • 👍 154 • 💬 7 • ⏱️ 19:50 • 9h ago
+👁️ 15K • 👍 2K • 💬 112 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -286,27 +266,7 @@ ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "a
 
 📺 Dana Love, PhD
 
-👁️ 12K • 👍 647 • 💬 124 • ⏱️ 13:29 • 1d ago
-
----
-
-**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
-
-Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 195 • 💬 13 • ⏱️ 17:33 • 1d ago
-
----
-
-**[Bitcoin Pumping Before FOMC… But Ethereum Could Explode Next. $6000  By EOY ? BTC/ETH/ALTS](https://www.youtube.com/watch?v=nimcfuYl9Kk)**
-
-Bitcoin Pumping Before FOMC… But Ethereum Could Be The Bigger Opportunity Join my VIP Crypto Trading Group ...
-
-📺 Andrea Cap  | FTA Crypto
-
-👁️ 369 • 👍 23 • 💬 34 • ⏱️ 12:48 • 19h ago
+👁️ 13K • 👍 665 • 💬 128 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -316,17 +276,57 @@ No B.S. Just Charts. --- The Verified Investing promise! Chief Market Strategist
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 4K • 💬 327 • ⏱️ 13:52 • 1d ago
+👁️ 71K • 👍 4K • 💬 319 • ⏱️ 13:52 • 1d ago
 
 ---
 
-**[Ethereum’s $1B Crisis](https://www.youtube.com/watch?v=sCS-TPFNo3g)**
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
 
-Ethereum cut fees, but may have accidentally killed the scarcity that made ETH valuable, triggered inflation fears, and opened the ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Coin Bureau Podcast
+📺 Savvy Finance
 
-👁️ 479 • 👍 17 • ⏱️ 0:37 • 10h ago
+👁️ 5K • 👍 186 • 💬 33 • ⏱️ 15:17 • 1d ago
+
+---
+
+**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 178 • 💬 8 • ⏱️ 19:50 • 14h ago
+
+---
+
+**[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
+
+Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 105 • 💬 4 • ⏱️ 0:44 • 1d ago
+
+---
+
+**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
+
+Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 198 • 💬 13 • ⏱️ 17:33 • 1d ago
+
+---
+
+**[Ethereum: Massive Move Incoming? (ETH Price Update)](https://www.youtube.com/watch?v=gaE74jpPNnA)**
+
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+
+📺 Marzell Crypto
+
+👁️ 760 • 👍 16 • 💬 98 • ⏱️ 4:33 • 1d ago
 
 ---
 

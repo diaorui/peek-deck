@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-17T02:01:41.289203+00:00'
+updated: '2026-06-17T07:33:39.525958+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 17, 2026 at 02:01 UTC  
+**Last Updated:** June 17, 2026 at 07:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I've always been interested in point clouds and spatial data, so I created my own LiDAR scanner! It runs off of an esp32 and TMC2209s on a custom PCB, which continuously rotate and sweep the LiDAR sensor. I learned a ton creating this project, as this was my first time creating a PCB and using NEMA motors (I have used other motors before). Github repo
 
-3d ago
+4d ago
 
 ---
 
@@ -122,27 +122,33 @@ Business Insider • 1d ago
 
 ---
 
-**[Could advanced prosthetic hands revolutionize robotics?](https://www.nbcnews.com/video/advanced-prosthetic-hands-could-revolutionize-robotics-265203269702)**
-
-A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity technology for humans and robots. NBC News’ Steve Patterson reports.
-
-NBC News • 1h ago
-
----
-
-**[San Diego startup brings bionic hands to factory robots](https://www.nbcsandiego.com/news/local/san-diego-startup-brings-bionic-hands-to-factory-robots/4037661/)**
-
-PSYONIC, a Rancho Bernardo company known for its bionic prosthetic hands, is partnering with ABB Robotics to bring humanlike dexterity to factory robots.
-
-NBC 7 San Diego • 2h ago
-
----
-
 **[Why robotics will be the next great investment theme](https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html)**
 
 RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme. He discusses how advances in artificial intelligence are accelerating the adoption of autonomous machines and why the convergence of AI and robotics may create significant opportunities for investors.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[Abu Dhabi to roll out AI street-sweeper fleet in 5-year Micropolis deal](https://www.stocktitan.net/news/MCRP/micropolis-robotics-expands-physical-ai-portfolio-with-five-year-k00bf1n17aqs.html)**
+
+Abu Dhabi’s municipalities authority signs a 5-year Physical AI cleaning project, starting with autonomous sweepers and R&D support from Khalifa University.
+
+Stock Titan • 9h ago
+
+---
+
+**[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
+
+Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -154,37 +160,41 @@ The Conversation • 1d ago
 
 ---
 
-**[BABA Stock Slides Premarket: Alibaba's New AI Push Into Robotics Fails To Lift Retail Mood](https://finance.yahoo.com/technology/ai/articles/baba-stock-slides-premarket-alibabas-092133670.html)**
+**[Could advanced prosthetic hands revolutionize robotics?](https://www.nbcnews.com/video/advanced-prosthetic-hands-could-revolutionize-robotics-265203269702)**
 
-Alibaba’s announcement places it among a growing list of companies seeking leadership positions in next-generation AI technologies.
+A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity technology for humans and robots. NBC News’ Steve Patterson reports.
 
-Yahoo Finance • 16h ago
-
----
-
-**[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
-
-Reuters • 21h ago
+NBC News • 6h ago
 
 ---
 
-**[Abu Dhabi to roll out AI street-sweeper fleet in 5-year Micropolis deal](https://www.stocktitan.net/news/MCRP/micropolis-robotics-expands-physical-ai-portfolio-with-five-year-k00bf1n17aqs.html)**
+**[Food Delivery Robots Coming To South Side After Alderman Approves Program's Expansion](https://blockclubchicago.org/2026/06/15/food-delivery-robots-coming-to-south-side-after-alderman-approves-programs-expansion/)**
 
-Abu Dhabi’s municipalities authority signs a 5-year Physical AI cleaning project, starting with autonomous sweepers and R&D support from Khalifa University.
-
-Stock Titan • 3h ago
+Block Club Chicago • 1d ago
 
 ---
 
-**[Matic Reimagines the Robot Vacuum Through Vision-Based Home Robotics](https://stupiddope.com/2026/06/matic-reimagines-the-robot-vacuum-through-vision-based-home-robotics/)**
+**[The Humanoid Robots You Can Actually Buy Right Now](https://www.forbes.com/sites/bernardmarr/2026/06/17/the-humanoid-robots-you-can-actually-buy-right-now/)**
 
-stupidDOPE • 1d ago
+Humanoid robots are moving from science fiction into the real world, with several models now available for homes, research labs and industrial deployments.
+
+Forbes • 2h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Could advanced prosthetic hands revolutionize robotics?](https://www.youtube.com/watch?v=_0r2RZiJYBY)**
+
+A company that creates technologically-advanced prosthetic hands is working to advance bionic hand grip and dexterity ...
+
+📺 NBC News
+
+👁️ 3K • 👍 37 • 💬 3 • ⏱️ 4:02 • 6h ago
+
+---
 
 **[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
 
@@ -202,7 +212,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 119K • 👍 7K • 💬 696 • ⏱️ 2:57 • 3d ago
+👁️ 124K • 👍 7K • 💬 724 • ⏱️ 2:57 • 3d ago
 
 ---
 
@@ -212,15 +222,17 @@ The newest humanoid robots are crazy for completely different reasons. The Frenc
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 53 • 💬 3 • ⏱️ 1:46 • 6h ago
+👁️ 2K • 👍 79 • 💬 4 • ⏱️ 1:46 • 12h ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=VunUE9PiGOk)**
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
-📺 Robot Julie 
+AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
-👁️ 748 • 👍 4 • ⏱️ 0:26 • 1h ago
+📺 InsideAI
+
+👁️ 565K • 👍 19K • 💬 2K • ⏱️ 15:10 • 2d ago
 
 ---
 
@@ -234,33 +246,23 @@ SOURCES Humanoid Official Press Release | Humanoid Secures Landmark Deal with Sc
 
 ---
 
-**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
-
-Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 44K • 👍 2K • 💬 132 • ⏱️ 0:30 • 3d ago
-
----
-
-**[Humanoid robot football match showcases advances in embodied AI](https://www.youtube.com/watch?v=fajs4WznfpU)**
-
-As football fever sweeps the globe during the 2026 FIFA World Cup, a 3v3 fully autonomous robot football match took place on ...
-
-📺 CGTN
-
-👁️ 11K • 👍 31 • 💬 2 • ⏱️ 1:15 • 23h ago
-
----
-
 **[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
 
 Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
 
 📺 🚜🌾 Desi Farm Vibes
 
-👁️ 2K • 👍 16 • ⏱️ 0:21 • 6h ago
+👁️ 7K • 👍 42 • ⏱️ 0:21 • 12h ago
+
+---
+
+**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
+
+Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
+
+📺 Armourdesia Military Hardware
+
+👁️ 45K • 👍 2K • 💬 132 • ⏱️ 0:30 • 3d ago
 
 ---
 
@@ -270,7 +272,7 @@ https://wesn.com/collections/all.
 
 📺 WESN
 
-👁️ 32K • 👍 975 • 💬 15 • ⏱️ 0:43 • 7h ago
+👁️ 71K • 👍 1K • 💬 22 • ⏱️ 0:43 • 12h ago
 
 ---
 
@@ -280,7 +282,7 @@ This video showcases some model successes and failures I've had in building a ro
 
 📺 Over Engineer
 
-👁️ 47K • 👍 3K • 💬 228 • ⏱️ 6:05 • 4d ago
+👁️ 49K • 👍 3K • 💬 236 • ⏱️ 6:05 • 4d ago
 
 ---
 
