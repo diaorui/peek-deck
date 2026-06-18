@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-18T09:54:07.074656+00:00'
+updated: '2026-06-18T12:54:12.647094+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 09:54 UTC  
+**Last Updated:** June 18, 2026 at 12:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,236.30
+### $64,147.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -1.5%  
 **7d:** +1.1%  
 **30d:** -17.1%  
 **90d:** -6.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.16B
+**Market Cap:** $1288.05B
 Rank #1
 
-**Circulating Supply:** 20,044,393 BTC
+**Circulating Supply:** 20,044,443 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.0%
 
 **All-Time Low:** $67.81
-+94576.3%
++94661.8%
 
 ---
 
@@ -157,11 +157,11 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin bottom signal flashes as holders absorbed 125,000 BTC in June](https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june)**
+**[Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says](https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says)**
 
-Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
+Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.
 
-CoinDesk • 3h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -173,27 +173,35 @@ vaneck.com • 1d ago
 
 ---
 
-**[Bitcoin Rodney Pleads Guilty in Connection With $1.8 Billion HyperFund Fraud](https://www.yahoo.com/news/us/articles/bitcoin-rodney-pleads-guilty-connection-081410864.html)**
+**[Quantum Blockchain's BlocKeeper targets Bitcoin treasury play via 'virtual mining' model](https://finance.yahoo.com/video/quantum-blockchains-blockeeper-targets-bitcoin-105549822.html)**
 
-Rodney Burton, known as Bitcoin Rodney, pleaded guilty for his role in the $1.8 billion HyperFund crypto fraud scheme.
+Quantum Blockchain Technologies (AIM:QBT) CEO Francesco Gardin joined Proactive's Stephen Gunnion to explain BlocKeeper, a new venture offering an alternative approach to Bitcoin mining.
 
-Yahoo • 1h ago
+After nearly six years in the sector, QBT identified a more capital-efficient route to Bitcoin exposure, acquiring and monetising hash power rather than investing in mining rigs and bearing heavy electricity costs. The model aims to generate Bitcoin through this mining-related strategy and hold it in treasury.
+
+Gardin highlighted an experienced management team spanning business incubation, treasury management, quantitative analysis, cybersecurity and cryptography. QBT's proprietary technologies are expected to help BlocKeeper secure more favourable terms with hash power providers, a structure Gardin described as "a win-win situation for both companies."
+
+The interview also covered BlocKeeper's competitive positioning and progress towards an Aquis admission, with presentation materials and documentation already drafted and investor meetings being arranged.
+
+For more interviews and market insights, visit Proactive's YouTube channel. Please like this video, subscribe to the channel and enable notifications so you never miss future content.
+
+#QuantumBlockchainTechnologies #QBT #BlocKeeper #BitcoinMining #Bitcoin #Cryptocurrency #DigitalAssets #HashPower #BlockchainTechnology #CryptoInvesting #VirtualMining #AquisStockExchange #Fintech #CryptoInnovation #ProactiveInvestors
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[The $1.2 Trillion Bitcoin Crash Is Really About 1 Dangerous Assumption](https://www.inc.com/soren-kaplan/the-1-2-trillion-bitcoin-crash-is-really-about-1-dangerous-assumption/91360457)**
+**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
 
-Every leader betting on AI, or any other transformative technology, faces the same test bitcoin is facing now.
-
-inc.com • 1h ago
+Barron's • 1h ago
 
 ---
 
-**[Quantum Blockchain Establishes BlocKeeper to Pursue Virtual Bitcoin Mining Strategy (QBT)](https://uk.finance.yahoo.com/news/quantum-blockchain-establishes-blockeeper-pursue-082140295.html)**
+**[Bitcoin and ethereum prices today, Thursday, June 18, 2026: Prices sliding despite Iran peace deal](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-18-2026-prices-sliding-despite-iran-peace-deal-115022443.html)**
 
-Quantum Blockchain Technologies (LSE:QBT) has launched a new Malta-based subsidiary, BlocKeeper Plc, as it seeks to develop a capital-light approach to Bitcoin mining centred on acquiring and managing hash rate rather than owning physical mining infrastructure. The new venture is designed to operate as a “virtual miner”, using purchased hashpower to participate in Bitcoin production while avoiding many of the operational and capital costs associated with traditional mining operations.
+Bitcoin opened at $64,450.44 on Thursday, June 18, 2026, down 1.8% from Wednesday's opening price. Ethereum opened at $1,748.91, down 2.3% from yesterday's opening price.
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,15 +209,13 @@ Yahoo Finance UK • 1h ago
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-CNBC • 21h ago
+CNBC • 1d ago
 
 ---
 
-**[BlackRock unveils bold Bitcoin prediction](https://finance.yahoo.com/markets/crypto/articles/blackrock-unveils-bold-bitcoin-prediction-223931085.html)**
+**[‘Getting louder’: Winfield residents frustrated by Bitcoin mine’s persistent noise](https://www.wate.com/news/scott-county-news/bitcoin-mine-noise-scott-county/)**
 
-BlackRock (NYSE: BLK) global fixed income CIO Rick Rieder unveiled a bold price prediction for Bitcoin (BTC) even as the world's largest cryptocurrency is currently trading nearly 50% lower than its record high price. Rieder appeared in a Bloomberg interview on June 15 and said Bitcoin is ...
-
-Yahoo Finance • 1d ago
+WATE 6 On Your Side • 12h ago
 
 ---
 
@@ -217,23 +223,23 @@ Yahoo Finance • 1d ago
 
 BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
-**[BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.](https://www.coindesk.com/daybook-us/2026/06/16/blackrock-s-new-bitcoin-etf-lets-institutions-earn-from-volatility-there-s-a-catch)**
+**[Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price](https://bitcoinmagazine.com/news/mexican-billionaire-ricardo-salinas-bets)**
 
-Your day-ahead look for June 16, 2026
+Mexican billionaire Ricardo Salinas says he has increased his bitcoin allocation from 10% in 2020 to 70% of his portfolio today and believes bitcoin will eventually reach $1 million.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[Gold, Bitcoin, And The New Safe-Haven Playbook](https://www.forbes.com/sites/jasonkirsch/2026/06/17/gold-bitcoin-and-the-new-safe-haven-playbook/)**
+**[Live: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died](https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died)**
 
-The Iran conflict that began on February 27, 2026, provided what analysts called a "real-time stress test" for the safe-haven claims of both gold and Bitcoin — and the results were not what the crypto community was hoping for. In the first 48 hours of the conflict, gold surged 5.2%. Bitcoin fell 12%. Over the following weeks, gold stabilized around $4,700 per ounce and held that level as central banks continued buying even as private investors took profits. Bitcoin declined to a low near $72,000 — a 35% drawdown from its 2025 highs — trading in lockstep with the Nasdaq and S&P 500 rather than as a safe haven. The 1-year rolling correlation between gold and Bitcoin dropped to -0.17 by February, implying genuine diversification rather than doubled exposure to the same thesis.
+Total crypto market value has held steady near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.
 
-Forbes • 5h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -269,7 +275,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 20h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 23h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -285,7 +291,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
 
-⬆️ 3 • 💬 1 • 1d ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 3 • 💬 1 • 2d ago • [boltassociation.com](https://boltassociation.com/)
 
 ---
 
@@ -331,7 +337,7 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 108 • ⏱️ 12:12 • 12h ago
+👁️ 37K • 👍 2K • 💬 210 • ⏱️ 12:12 • 15h ago
 
 ---
 
@@ -341,7 +347,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:06 • 1d ago
+👁️ 40K • 👍 2K • 💬 185 • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -351,27 +357,17 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 180 • ⏱️ 15:41 • 1d ago
+👁️ 26K • 👍 2K • 💬 202 • ⏱️ 15:41 • 1d ago
 
 ---
 
-**[Fed Warsh Just Flipped The Script on Bitcoin](https://www.youtube.com/watch?v=V3uhUQq9FeA)**
+**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
 
-📺 CryptosRUs
+📺 100XClub
 
-👁️ 14K • 👍 767 • 💬 87 • ⏱️ 8:56 • 8h ago
-
----
-
-**[The Firm Behind the Bitcoin Crash Just Warned You. I&#39;m Leaving X](https://www.youtube.com/watch?v=QSiXRNaQCd4)**
-
-WIntermute just gave us all a warning The same market maker tied to October 6th is now warning Bitcoin could fall into the ...
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 915 • 💬 90 • ⏱️ 19:51 • 1d ago
+👁️ 9K • 👍 875 • 💬 198 • ⏱️ 2:03 • 1d ago
 
 ---
 
@@ -381,7 +377,27 @@ In today's live crypto market update, Kyledoops breaks down exactly what to expe
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 573 • 💬 1 • ⏱️ 32:01 • 2h ago
+👁️ 7K • 👍 816 • 💬 3 • ⏱️ 32:01 • 5h ago
+
+---
+
+**[Fed Warsh Just Flipped The Script on Bitcoin](https://www.youtube.com/watch?v=V3uhUQq9FeA)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 15K • 👍 848 • 💬 103 • ⏱️ 8:56 • 11h ago
+
+---
+
+**[The Firm Behind the Bitcoin Crash Just Warned You. I&#39;m Leaving X](https://www.youtube.com/watch?v=QSiXRNaQCd4)**
+
+WIntermute just gave us all a warning The same market maker tied to October 6th is now warning Bitcoin could fall into the ...
+
+📺 Digital Asset News
+
+👁️ 16K • 👍 923 • 💬 89 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -391,37 +407,27 @@ AI is making intelligence abundant. Bitcoin is making scarcity absolute. In this
 
 📺 Swan Bitcoin
 
-👁️ 1K • 👍 94 • 💬 106 • ⏱️ 20:23 • 13h ago
+👁️ 1K • 👍 106 • 💬 107 • ⏱️ 20:23 • 16h ago
 
 ---
 
-**[This Is What Bitcoin Capitulation Looks Like](https://www.youtube.com/watch?v=gq7L085AJto)**
+**[THIS IS WHY BITCOIN DUMPED... *warning*](https://www.youtube.com/watch?v=hvTU65Uqb2M)**
 
-Try XAPO and get $500 in BTC for signing up https://cryptolark.co/XAPO Bitcoin just had its most extreme capitulation signal in ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Lark Davis
+📺 Crypto Rover
 
-👁️ 9K • 👍 458 • 💬 85 • ⏱️ 13:07 • 12h ago
-
----
-
-**[Bitcoin Bull Market Starts HERE!](https://www.youtube.com/watch?v=rjociIEWWsc)**
-
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 221 • 💬 36 • ⏱️ 43:02 • 18h ago
+👁️ 7K • 👍 630 • 💬 110 • ⏱️ 9:25 • 6h ago
 
 ---
 
-**[Has Crypto Bottomed, or Just Another Bounce?](https://www.youtube.com/watch?v=BYR8Adb-iCE)**
+**[Bitcoin Faces Major FED Decision - Should We Be Concerned?](https://www.youtube.com/watch?v=NnK_xqQVgOA)**
 
-Watch full June crypto update now: ...
+Bitcoin #Crypto #Finance Bitcoin's relief rally faces its first real test today as Warsh's first FOMC meeting lands — markets are ...
 
-📺 Fundstrat
+📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 38 • 💬 8 • ⏱️ 2:47 • 12h ago
+👁️ 8K • 👍 407 • 💬 186 • ⏱️ 28:46 • 23h ago
 
 ---
 

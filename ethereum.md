@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-18T09:54:07.079903+00:00'
+updated: '2026-06-18T12:54:12.653376+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 09:54 UTC  
+**Last Updated:** June 18, 2026 at 12:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +4.9%  
+**24h:** -0.8%  
+**7d:** +4.8%  
 **30d:** -17.9%  
-**90d:** -16.1%  
+**90d:** -16.2%  
 **1y:** -30.7%  
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most onchain derivatives today are still centered around crypto assets. There is a clear gap when it comes to commodities like oil, natural gas, power, and metals, which remain largely tied to traditional market structures. My team is working on bringing these markets onchain through instruments such as perpetuals, futures, and options. The current design uses offchain order matching with onchain settlement. The goal is not to recreate another crypto perp venue, but to expand the set of assets that can be traded within Ethereum-based markets. Before going further, here are some of the key questions we have been thinking about while building Sphinx Protocol, and we would really value input from people working on market design, oracle systems, and onchain trading infrastructure: How should commodity pricing be handled onchain at scale? What other type of market structure makes sense for assets that are not crypto-native? How does liquidity form around entirely new derivative categories? Which parts of commodity market infrastructure can realistically move onchain first? Would love to hear thoughts, especially from people exploring similar problems or adjacent areas.
 
-2d ago
+3d ago
 
 ---
 
@@ -148,6 +148,22 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 ## Google News: "ethereum"
 
+**[Bitcoin and ethereum prices today, Thursday, June 18, 2026: Prices sliding despite Iran peace deal](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-18-2026-prices-sliding-despite-iran-peace-deal-115022443.html)**
+
+Bitcoin opened at $64,450.44 on Thursday, June 18, 2026, down 1.8% from Wednesday's opening price. Ethereum opened at $1,748.91, down 2.3% from yesterday's opening price.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://finance.yahoo.com/markets/crypto/articles/worlds-biggest-ethereum-treasury-company-104500506.html)**
+
+When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Ethereum’s biggest protocol overhaul in years moves into its final development stage](https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage)**
 
 Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
@@ -156,11 +172,35 @@ CoinDesk • 1d ago
 
 ---
 
-**[Google’s 20x Quantum Leap Threatens Ethereum’s Code as ETH Price Drops](https://www.tipranks.com/news/googles-20x-quantum-leap-threatens-ethereums-code-as-eth-price-drops)**
+**[Pepeto Exchange Upgrade Reaches Binance Level While the Ethereum Price Prediction From Hayes Maps $10,000 and Solana Meme Coins Crash](https://markets.businessinsider.com/news/stocks/pepeto-exchange-upgrade-reaches-binance-level-while-the-ethereum-price-prediction-from-hayes-maps-10-000-and-solana-meme-coins-crash-1036258274)**
 
-A groundbreaking paper from Google’s ($GOOGL) Quantum AI team reveals that Google’s 20x quantum leap threatens Ethereum’s (ETH-USD) code. Researchers revealed that ...
+DUBAI, United Arab Emirates, June  18, 2026  (GLOBE NEWSWIRE) -- Pepeto just completed a major upgrade on its exchange in a week where every Ether...
 
-TipRanks • 2d ago
+markets.businessinsider.com • 10h ago
+
+---
+
+**[Current price of Ethereum for June 17, 2026](https://fortune.com/article/price-of-ethereum-06-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin In Red Even As Trump Signs Iran Peace Deal: Analyst Says BTC In 'Fragile](https://www.benzinga.com/crypto/cryptocurrency/26/06/53267211/bitcoin-ethereum-xrp-dogecoin-slip-despite-trumps-iran-peace-deal-analyst-calls-btc-recovery-fragile)**
+
+Leading cryptocurrencies were red, while stock futures rallied overnight on Wednesday after President Donald Trump signed a historic &quot;Memorandum of Understanding&quot; with Iran to end all hostilities.
+
+Benzinga • 10h ago
+
+---
+
+**[Ethereum Mini Trust Sees Subtle but Telling Outflow as ETH Slide Deepens](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-sees-subtle-but-telling-outflow-as-eth-slide-deepens)**
+
+Grayscale’s Ethereum bet just flinched. The Grayscale Ethereum Mini Trust (ETH) logged outflows of $2.05 million on June 17, 2026, a modest but telling 0.13% of its...
+
+TipRanks • 2h ago
 
 ---
 
@@ -172,57 +212,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Pepeto Exchange Upgrade Reaches Binance Level While the Ethereum Price Prediction From Hayes Maps $10,000 and Solana Meme Coins Crash](https://markets.businessinsider.com/news/stocks/pepeto-exchange-upgrade-reaches-binance-level-while-the-ethereum-price-prediction-from-hayes-maps-10-000-and-solana-meme-coins-crash-1036258274)**
+**[How the bitcoin, ethereum playbook is evolving for Strategy and Bitmine](https://finance.yahoo.com/video/bitcoin-ethereum-playbook-evolving-strategy-120000578.html)**
 
-DUBAI, United Arab Emirates, June  18, 2026  (GLOBE NEWSWIRE) -- Pepeto just completed a major upgrade on its exchange in a week where every Ether...
+Scott Melker discusses Bitmine's (BMNR) current ethereum (ETH-USD) strategy, Strategy's (MSTR) bitcoin (BTC-USD) play, and more.
 
-markets.businessinsider.com • 7h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
----
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-**[Current price of Ethereum for June 17, 2026](https://fortune.com/article/price-of-ethereum-06-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 13h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
+**[Exclusive: Sharplink CEO Says Ethereum's Quantum And Cultural Edge Over Bitcoin Is The Moat Rivals 'Cannot Fork'](https://finance.yahoo.com/markets/crypto/articles/exclusive-sharplink-ceo-says-ethereums-122153104.html)**
 
-Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
+Sharplink CEO Chalom explained that Ethereum's edge is cultural and can't be copied.
 
-TradingView • 1d ago
-
----
-
-**[Crypto Today: Bitcoin extends recovery above $66K as Ethereum and XRP lose momentum](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-extends-recovery-above-66k-as-ethereum-and-xrp-lose-momentum-202606161200)**
-
-Bitcoin (BTC) retains a near-term bullish bias, trading above $66,000 at the time of writing on Tuesday.
-
-FXStreet • 1d ago
-
----
-
-**[Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start](https://decrypt.co/371142/tom-lees-bitmine-139-million-ethereum-preferred-share-trading)**
-
-BitMine Immersion Technologies expanded its leading Ethereum treasury to more than 5.6 million ETH valued at greater than $10 billion.
-
-Decrypt • 2d ago
-
----
-
-**[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
-
-CCN.com • 3d ago
-
----
-
-**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
-
-XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
-
-CryptoSlate • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -236,17 +242,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 4K • 👍 186 • 💬 60 • ⏱️ 38:25 • 15h ago
-
----
-
-**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
-
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
-
-📺 Marzell Crypto
-
-👁️ 324 • 👍 17 • 💬 101 • ⏱️ 2:27 • 18h ago
+👁️ 4K • 👍 200 • 💬 74 • ⏱️ 38:25 • 18h ago
 
 ---
 
@@ -256,7 +252,17 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 187 • 💬 9 • ⏱️ 6:57 • 14h ago
+👁️ 4K • 👍 198 • 💬 11 • ⏱️ 6:57 • 17h ago
+
+---
+
+**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
+
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+
+📺 Marzell Crypto
+
+👁️ 327 • 👍 18 • 💬 101 • ⏱️ 2:27 • 21h ago
 
 ---
 
@@ -266,17 +272,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 113 • 💬 29 • ⏱️ 43:09 • 8h ago
-
----
-
-**[We saw this ETH signal only once before… in 2019 #eth #ethereum](https://www.youtube.com/watch?v=zUsdz2HB8tQ)**
-
-Ethereum signal we last saw in 2019 FREE trial is live. Test all indicators now - https://t.me/crypto4light/8711 DM for access ...
-
-📺 Crypto4light Market
-
-💬 1 • ⏱️ 0:30 • 2m ago
+👁️ 3K • 👍 127 • 💬 49 • ⏱️ 43:09 • 11h ago
 
 ---
 
@@ -290,23 +286,13 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 ---
 
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 204 • 💬 33 • ⏱️ 15:17 • 2d ago
-
----
-
 **[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 209 • 💬 14 • ⏱️ 19:50 • 1d ago
+👁️ 4K • 👍 213 • 💬 14 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -316,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 421 • 👍 17 • 💬 3 • ⏱️ 5:04 • 1d ago
+👁️ 437 • 👍 17 • 💬 3 • ⏱️ 5:04 • 1d ago
 
 ---
 
@@ -326,7 +312,27 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 360 • 👍 13 • 💬 1 • ⏱️ 6:20 • 13h ago
+👁️ 377 • 👍 14 • 💬 1 • ⏱️ 6:20 • 16h ago
+
+---
+
+**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
+
+Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
+
+📺 Crypto Nutshell
+
+👁️ 8K • 👍 221 • 💬 67 • ⏱️ 17:33 • 2d ago
+
+---
+
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 205 • 💬 33 • ⏱️ 15:17 • 2d ago
 
 ---
 

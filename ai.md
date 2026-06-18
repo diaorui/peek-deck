@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-18T09:54:07.066861+00:00'
+updated: '2026-06-18T12:54:12.638056+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 18, 2026 at 09:54 UTC  
+**Last Updated:** June 18, 2026 at 12:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 In a recent candid interview Anthropic CEO Dario Amodei did not hold back regarding his departure from OpenAI. He cited a fundamental breakdown of trust and "disturbing patterns of behavior" and "dishonesty" as the primary reasons it became impossible to stay. Considering the massive wave of high-profile safety researcher departures from OpenAI over the last year or two, Amodei’s comments add a lot of retroactive context to the cultural shift that happened right around the time ChatGPT was being spun up. What do you think? Does this align with everything we've seen play out with Sam Altman and the board over the past couple of years?
 
-2h ago
+5h ago
+
+---
+
+**[Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch](https://www.reddit.com/r/artificial/comments/1u93rnf/only_16_percent_of_americans_think_ai_will_have_a/)**
+
+Who will foot the AI bills? Despite the fact that AI increasingly dominates our economy (it’s a hot IPO summer and we’re all just along for the ride), most Americans are not particularly optimistic about the technology’s long-term impact on the country, a new study from Pew Research reveals. In fact, although a whole lot of Americans increasingly use AI in their daily lives, most of them have neutral to negative views about it, the research reveals.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ In a recent candid interview Anthropic CEO Dario Amodei did not hold back regard
 
 Pentagon AI chief confirmed under oath that Grok replaced Claude inside Project Maven and enabled 2,000+ munitions strikes in 96 hours during Operation Epic Fury.
 
-🔗 [News18](https://www.news18.com/world/elon-musks-grok-rained-bombs-on-iran-even-as-anthropic-pulled-out-pentagon-reveals-ws-l-10156416.html) • 20h ago
+🔗 [News18](https://www.news18.com/world/elon-musks-grok-rained-bombs-on-iran-even-as-anthropic-pulled-out-pentagon-reveals-ws-l-10156416.html) • 23h ago
 
 ---
 
@@ -57,7 +65,15 @@ Pentagon AI chief confirmed under oath that Grok replaced Claude inside Project 
 
 Leaked financial documents show OpenAI generated $13.07 billion in revenue in 2025 but posted a staggering $38.5 billion net loss amid soaring AI spending.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-38-5-billion-loss-13-billion-revenue-2025/) • 50m ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-38-5-billion-loss-13-billion-revenue-2025/) • 3h ago
+
+---
+
+**[AI datasets by their very nature are backward-looking. Creativity by its very nature is forward-looking.](https://www.reddit.com/r/artificial/comments/1u92czj/ai_datasets_by_their_very_nature_are/)**
+
+Strauss Zelnick (Take-Two CEO) was on David Senra's podcast, mostly a 40-year media career, but then he gave the clearest account of AI's actual limits I've come across. Strip the hype, he said, and AI is three things: large datasets, compute, and a model. You build the compute and the model. The data you collect, and you can only collect what already exists. So the model gets very good at reproducing the known, but it can't surprise you. Nothing in the data anticipated the thing that hasn't happened yet. He splits creative work into asset creation (making the competent parts) and hit creation (the rare thing that defines a category). AI is already good at the parts. But you can generate a convincing version of something that already worked, and those are clones. Clones don't sell. A breakthrough is by definition what the past didn't see coming, so nothing fully determined by existing data can be one. I'd push it one step further than he did. If the data is backward-looking, the value sits in the forward-looking call: deciding what to build and what the data is for. That call is human and it happens long before anything reaches a model. It's in how the problem gets framed, which examples are treated as ground truth, what counts as an edge case. Get it wrong and the model faithfully reproduces the mistake, bias included. Get it right and it has something worth learning from. So when a system produces something fluent and finished that still feels like everything else, that's the limit showing, not a tuning problem. The fluent part is what machines do well now. Deciding what's worth making is still ours.
+
+2h ago
 
 ---
 
@@ -65,7 +81,13 @@ Leaked financial documents show OpenAI generated $13.07 billion in revenue in 20
 
 This sneaky attack tricks Microsoft's AI assistant to hand over your data.
 
-🔗 [Mashable](https://mashable.com/tech/searchleak-microsoft-copilot-ai-assistant-vulnerability-report) • 4h ago
+🔗 [Mashable](https://mashable.com/tech/searchleak-microsoft-copilot-ai-assistant-vulnerability-report) • 7h ago
+
+---
+
+**[How to Tell a Good Speech Dataset for AI From a Bad One](https://www.reddit.com/r/artificial/comments/1u9283m/how_to_tell_a_good_speech_dataset_for_ai_from_a/)**
+
+🔗 [thestreet.com](https://www.thestreet.com/crypto/newsroom/how-to-tell-a-good-speech-dataset-for-ai-from-a-bad-one) • 2h ago
 
 ---
 
@@ -73,7 +95,13 @@ This sneaky attack tricks Microsoft's AI assistant to hand over your data.
 
 A small thing from this month's model releases stuck with me more than the usual flagship leaderboard race, because it points at where the interesting progress actually is. A 4 billion parameter open model reportedly beat every open source model in the 30 billion class on a couple of hard web research benchmarks. Not matched, beat. A model you could run on a laptop outperforming ones roughly eight times its size on the specific task of going out, reading sources, and answering a multi step question. The reason that is interesting is the why. For the last couple of years the implied formula was straightforward, more parameters, more capability, and the leaderboard mostly cooperated. A result like this says the relationship is a lot looser than that for some skills. The claim from the people who built it is that research ability came from careful construction of the training data and from teaching the model to check and revise its own work, rather than from raw scale. In other words how you train a small model for a task can matter more than how big a generic model you throw at it. This particular one comes from a family, apodex, that is built around the idea of a system verifying its own answers before committing to them, and the small open versions seem to inherit that habit even though the headline flagship is a much larger closed model. Why this matters if you are not training models yourself. The expensive, capable research assistants have mostly lived behind apis you pay per query for. If a small model that runs on ordinary hardware can do a real chunk of that work, the cost and access picture changes for students, small teams, anyone in a place where the paid services are pricey or just unavailable. It also means the gap between what a big lab can do and what a hobbyist can run locally is narrower on some tasks than the flagship marketing suggests, which is healthy for the field. The caveat is the obvious one, a benchmark win is not the same as being reliable on your actual question, and the small model is not going to match the big hosted system on the genuinely hard stuff. But the direction is the part worth watching. If the lever for capability on a given task is data quality and training method rather than parameter count, a lot more of this becomes reproducible by people who are not sitting on a giant compute budget. That is a more democratic trajectory than the last two years pointed at, and it is showing up in things you can actually download now. EDIT: A few people asked for the model and sources, so here they are. Model card: https://huggingface.co/apodex/Apodex-1.0-4B-SFT Technical blog: https://www.apodex.com/blog/apodex-1.0 Evaluation harness: https://github.com/ApodexAI/AgentHarness
 
-19h ago
+22h ago
+
+---
+
+**[Got Chinese AI to say Taiwan](https://www.reddit.com/r/artificial/comments/1u95dni/got_chinese_ai_to_say_taiwan/)**
+
+4m ago
 
 ---
 
@@ -81,39 +109,7 @@ A small thing from this month's model releases stuck with me more than the usual
 
 Disclosed upfront: I run [Tickerr dot ai], an independent external monitor for AI APIs. Today it tracks latency, TTFT, uptime, and error rates across major models. I’m trying to validate a more specific idea before building too much. Basic transport health is not the hard part. If Claude/OpenAI/Gemini gets slow, times out, or throws 5xx errors, most teams can catch that with APM, logs, Sentry, Langfuse, Helicone, Datadog, etc. The harder failure mode seems to be silent model behavior drift when API returns 200, latency is normal, no exception is thrown, output looks plausible, but JSON adherence, tool-calling, refusal behavior, reasoning quality, or instruction-following has quietly degraded. This gets worse with agentic systems. In a normal chat, drift may produce a bad answer but in an agentic workflow, the model can silently choose the wrong tool, stop early, mark a task as complete, or take a bad action while everything still looks successful at the API level. The system is running and confidently doing worse work. User complaints are still the primary detection mechanism currently for these. VIGIL (arXiv 2605.08747) found 65 to 88 percent of false-success reports happened at literally zero task progress. DeployBench (2606.05238) found most failures were the system stopping against a softer bar it set for itself and returning clean. Plausible-in-isolation is the failure mode itself, not a sign you are safe, which is why a single model's output never alerts on its own. That's what I'm thinking to build - an external drift detection probe on top LLM APIs, that stays out of your system and does continuous checks every hour, to find out these silent degradations, and sends proactive alerts. Rough idea: External canary suite: run private fixed prompts on a schedule against major models. Track schema adherence, instruction-following, refusal/over-refusal, output length, tool-call format, and simple deterministic correctness checks. Drift baseline: Do not judge a single output in isolation. Track whether today’s behavior has materially shifted versus that model’s own baseline. Cross-model comparison: For some task types, compare model behavior against peer models. Not to say which model is “right”, but to detect abnormal divergence. Example: “Sonnet and Gemini usually disagree 12% of the time on this task type; today disagreement is 28%.” Optional bring your own prompts: A paid tier where you provide some critical prompts from your own workload. Tickerr runs them on a schedule and alerts if behavior drifts from your baseline. Prompts would remain private and would not be public benchmark prompts. What I’m trying to learn: Is this technically sound enough to be useful, or are there are other failure modes that I am missing / are more valuable ? Which alerts would you actually care about? JSON/schema adherence drift tool-call format drift refusal/over-refusal drift output length drift cross-model disagreement spike bring-your-own-prompt regression alerts Would you pay for this, or would you just build it yourself? If you would pay, what pricing feels realistic? $19/month $99/month $299+/month for team/Slack/webhook/BYO prompts Brutal feedback welcome. If this is not a real pain, I’d rather know now, or which direction you feel makes more sense to take this.
 
-9m ago
-
----
-
-**[Anyone in research](https://www.reddit.com/r/artificial/comments/1u8ztub/anyone_in_research/)**
-
-if there's anyone here who is research area of AI like currently working in research for ai please drop a comment here i actually need some guidance and if you're are okay we can talk in dm as well. TL/DR: I'm a student learning ml so need some guidance
-
-2h ago
-
----
-
-**[Anyone else's coding agent just sit there for 30 minutes?](https://www.reddit.com/r/artificial/comments/1u8uvlk/anyone_elses_coding_agent_just_sit_there_for_30/)**
-
-Watched a coding agent spend 30 minutes "thinking" on what should've been a 10-minute task — barely touched any tokens, just… sat there. Not the first time I've seen it. How common is this for everyone else? When your AI coding agent stalls like that, what's usually the cause in your setup — context bloat, a tool call hanging, waiting on a confirmation, something else? And do you just kill + restart, or have you found a way to keep it moving? Trying to figure out if it's a me-problem or an everyone-problem.
-
-6h ago
-
----
-
-**[Do you think most people are using AI more as a tool or as a replacement for thinking?](https://www.reddit.com/r/artificial/comments/1u8iyrv/do_you_think_most_people_are_using_ai_more_as_a/)**
-
-I’ve noticed that some people use AI just to speed things up or get quick answers, while others seem to rely on it more and more for ideas, writing, decisions, and problem-solving. It made me wonder where most people actually stand. Do you think AI is mostly being used as a helpful tool, or has it started replacing a lot of people’s own thinking and creativity?
-
-15h ago
-
----
-
-**[Best AI for cartoon image generation](https://www.reddit.com/r/artificial/comments/1u8qlwu/best_ai_for_cartoon_image_generation/)**
-
-Ok so, I have been telling my kids a bedtime story over the past couple of weeks. I tried using the free version of chatgpt and gemini but they are very inconsistent with the characters and eventually runs out of time. I think I'd eventually want to turn the photos into a book for my kids. What would be the best AI option to help me create these story board style photos? I am willing to pay a small amount but nothing crazy.
-
-10h ago
+3h ago
 
 ---
 
@@ -125,33 +121,49 @@ Ok so, I have been telling my kids a bedtime story over the past couple of weeks
 
 Allbirds became NewBird AI in April and said it would trade shoes for AI compute infrastructure.
 
-CNBC • 18h ago
+CNBC • 21h ago
 
 ---
 
-**[AI will lead to labour shortages, Bezos says in optimistic talk](https://www.reuters.com/business/world-at-work/ai-will-lead-labour-shortages-jeff-bezos-says-vivatech-2026-06-17/)**
+**[State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’](https://www.wsj.com/finance/state-farms-ai-plan-for-sales-agents-sparks-uproar-a-real-slap-in-the-face-6453e2cb)**
 
-Reuters • 17h ago
+WSJ • 22m ago
 
 ---
 
-**[Trump's shadow AI policy](https://www.axios.com/2026/06/18/trump-shadow-ai-policy)**
+**[EXCLUSIVE: Republican blasts AI, endorses union agenda at Teamsters convention](https://www.axios.com/2026/06/18/josh-hawley-teamsters-ai-amazon)**
 
 Axios • 36m ago
 
 ---
 
-**[How A.I. Apps Teach Students How to Cheat](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html)**
+**[Lessons from Chinese AI Firms on Owning Customers’ Habits](https://hbr.org/2026/06/lessons-from-chinese-ai-firms-on-owning-customers-habits)**
 
-The New York Times • 53m ago
+As U.S. AI firms compete in an escalating race for superior models, bigger benchmarks, and more advanced features, Chinese companies are pursuing a fundamentally different strategy: embedding AI into users’ everyday habits. The authors argue that this “habit moat” approach may prove more durable than competing on raw capability alone. Whereas Western firms position AI as a destination consumers consciously visit, companies like Alibaba integrate AI into existing routines such as shopping, payments, food delivery, and travel booking, reducing friction until using AI becomes automatic behavior. Once AI capabilities become “good enough,” marginal technical improvements matter less than becoming the default path through recurring customer tasks.  The authors outline four strategic imperatives for Western leaders: focus on behavioral cues rather than feature gaps, subsidize customer behavior instead of subscriptions, embed AI invisibly into existing workflows, and optimize for repeat usage rather than first-time adoption. The central warning is stark: AI may not replace employees first—it may instead capture the critical customer moments businesses currently own.
+
+Harvard Business Review • 14m ago
 
 ---
 
-**[Why do AI models struggle with online hate speech detection?](https://www.aljazeera.com/news/2026/6/18/why-do-ai-models-struggle-with-online-hate-speech-detection)**
+**[Southwest Airlines partners with AWS for cloud AI transition by 2028](https://qz.com/southwest-airlines-aws-cloud-ai-partnership-2028-061826)**
 
-As the UN marks International Day for Countering Hate Speech, Al Jazeera examines how AI handles it - and falls short.
+The Dallas-based carrier will shift from a largely on-premises environment to an AI-enabled architecture on AWS, using agentic tools across operations and software development
 
-Al Jazeera • 1h ago
+qz.com • 37m ago
+
+---
+
+**[How New A.I. Apps Are Making Student Cheating Undetectable](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[The White House said Anthropic’s powerful AI was ‘jailbroken.’ Here’s what that means.](https://www.washingtonpost.com/technology/2026/06/18/surprisingly-simple-ways-ai-can-be-tricked-into-breaking-its-own-rules/)**
+
+It’s surprisingly simple to trick chatbots into breaking their own rules and spilling forbidden knowledge. Even poems and bedtime stories can work.
+
+The Washington Post • 6m ago
 
 ---
 
@@ -159,7 +171,7 @@ Al Jazeera • 1h ago
 
 The firm's outgoing boss Tim Cook did not say when prices will rise or which products will be affected.
 
-BBC • 2h ago
+BBC • 5h ago
 
 ---
 
@@ -167,29 +179,13 @@ BBC • 2h ago
 
 Scammers are using AI tools to impersonate the band Sons of Legion and scam their fans. Could your favorite band be next?
 
-Time Magazine • 14h ago
+Time Magazine • 17h ago
 
 ---
 
-**[State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’](https://www.wsj.com/finance/state-farms-ai-plan-for-sales-agents-sparks-uproar-a-real-slap-in-the-face-6453e2cb)**
+**[Trump's Anthropic restrictions may be illegal](https://www.politico.com/news/2026/06/18/trump-anthropic-ai-export-controls-00966118)**
 
-WSJ • 1d ago
-
----
-
-**[AI Is Taking Over Hospitals](https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/)**
-
-This is health care’s Uber moment.
-
-The Atlantic • 22h ago
-
----
-
-**[Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem)**
-
-Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem—with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude.
-
-Anthropic • 18h ago
+Politico • 3h ago
 
 ---
 
@@ -201,19 +197,19 @@ Anthropic • 18h ago
 
 Original research from 2,000 decision-makers and consumers on AI brand visibility, content trust, and what brands need to do as the web feels less human. 74% say the internet feels less human than it did 10 years ago.
 
-⬆️ 1042 • 💬 550 • 21h ago • [The Leading Enterprise Content Platform | WordPress VIP](https://wpvip.com/future-of-the-web-2026/)
+⬆️ 1048 • 💬 559 • 1d ago • [The Leading Enterprise Content Platform | WordPress VIP](https://wpvip.com/future-of-the-web-2026/)
 
 ---
 
 **[Has AI already killed self-help nonfiction books?](https://news.ycombinator.com/item?id=48558489)**
 
-⬆️ 401 • 💬 472 • 1d ago • [tim.blog](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
+⬆️ 402 • 💬 473 • 1d ago • [tim.blog](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
 
 ---
 
 **[AI demands more engineering discipline. Not less](https://news.ycombinator.com/item?id=48570948)**
 
-⬆️ 381 • 💬 189 • 19h ago • [charitydotwtf.substack.com](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
+⬆️ 388 • 💬 196 • 22h ago • [charitydotwtf.substack.com](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
 ---
 
@@ -221,7 +217,7 @@ Original research from 2,000 decision-makers and consumers on AI brand visibilit
 
 Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.
 
-⬆️ 380 • 💬 458 • 16h ago • [TechCrunch](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
+⬆️ 380 • 💬 462 • 19h ago • [TechCrunch](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
 
 ---
 
@@ -237,7 +233,7 @@ Self-hosting OpenCode Web for GitOps style homelab changes.
 
 We share how AI-native founders are using Claude at every stage of the startup journey, with practical exercises, frameworks, and prompts.
 
-⬆️ 230 • 💬 160 • 1d ago • [Claude](https://claude.com/blog/the-founders-playbook)
+⬆️ 233 • 💬 162 • 1d ago • [Claude](https://claude.com/blog/the-founders-playbook)
 
 ---
 
@@ -245,7 +241,7 @@ We share how AI-native founders are using Claude at every stage of the startup j
 
 CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM
 
-⬆️ 183 • 💬 86 • 17h ago • [GitHub](https://github.com/Adam-CAD/CADAM)
+⬆️ 192 • 💬 88 • 20h ago • [GitHub](https://github.com/Adam-CAD/CADAM)
 
 ---
 
@@ -269,7 +265,7 @@ A sourced model and short report: can Europe train a sovereign frontier AI model
 
 Portfolio and personal blog of Chris Hillman.
 
-⬆️ 136 • 💬 114 • 16h ago • [ghostinthedata.info](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
+⬆️ 137 • 💬 115 • 19h ago • [ghostinthedata.info](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 
 ---
 
@@ -277,13 +273,13 @@ Portfolio and personal blog of Chris Hillman.
 
 ## YouTube Videos: "ai"
 
-**[The US Government Just Killed The Most Powerful AI Ever Made](https://www.youtube.com/watch?v=7vz6T6TNIzo)**
+**[Why They Just Pulled the World&#39;s Most Powerful AI Offline](https://www.youtube.com/watch?v=7vz6T6TNIzo)**
 
 FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *The most powerful AI ever released to the ...
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 607 • 💬 87 • ⏱️ 10:09 • 7h ago
+👁️ 12K • 👍 733 • 💬 99 • ⏱️ 10:09 • 10h ago
 
 ---
 
@@ -293,17 +289,7 @@ Speaking at the VivaTech conference in Paris on June 17, the Jeff Bezos pushed b
 
 📺 New York Post
 
-👁️ 6K • 👍 129 • 💬 38 • ⏱️ 5:28 • 10h ago
-
----
-
-**[9 AI Agent Trends To Get Ahead of 99% of People](https://www.youtube.com/watch?v=vhyna9ur6Gc)**
-
-Become Agent Native: 9 Inevitable AI Agent Trends (Skills, Super Apps, Automations, Computer Control, and Cost) Learn ...
-
-📺 Riley Brown
-
-👁️ 7K • 👍 358 • 💬 25 • ⏱️ 33:39 • 7h ago
+👁️ 7K • 👍 147 • 💬 46 • ⏱️ 5:28 • 13h ago
 
 ---
 
@@ -313,7 +299,17 @@ My FREE AI OS Course: ...
 
 📺 Nate Herk | AI Automation
 
-👁️ 34K • 👍 962 • 💬 264 • ⏱️ 12:28 • 1d ago
+👁️ 34K • 👍 970 • 💬 265 • ⏱️ 12:28 • 1d ago
+
+---
+
+**[US limits AI access: What it means for Europe](https://www.youtube.com/watch?v=NlnzSPHTZsM)**
+
+As G7 leaders meet AI CEOs, Europe is confronting a harsh reality: it may not control the tech it depends on. Washington's ...
+
+📺 DW News
+
+👁️ 32K • 👍 661 • 💬 440 • ⏱️ 18:53 • 22h ago
 
 ---
 
@@ -323,17 +319,7 @@ Try Recraft V4.1 now and experience an image generation model with exceptional v
 
 📺 Matt Wolfe
 
-👁️ 25K • 👍 876 • 💬 104 • ⏱️ 31:47 • 17h ago
-
----
-
-**[Maths is Cooked: AI&#39;s Latest Breakthrough -- And What&#39;s Next](https://www.youtube.com/watch?v=k5dZmMa0OIA)**
-
-Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: ...
-
-📺 Sabine Hossenfelder
-
-👁️ 194K • 👍 10K • 💬 2K • ⏱️ 7:39 • 18h ago
+👁️ 27K • 👍 905 • 💬 111 • ⏱️ 31:47 • 20h ago
 
 ---
 
@@ -343,7 +329,17 @@ China just dropped two new open-weight coding models, Kimi K2.7 Code and GLM-5.2
 
 📺 AI Revolution
 
-👁️ 18K • 👍 603 • 💬 48 • ⏱️ 16:01 • 10h ago
+👁️ 21K • 👍 692 • 💬 56 • ⏱️ 16:01 • 13h ago
+
+---
+
+**[Maths is Cooked: AI&#39;s Latest Breakthrough -- And What&#39;s Next](https://www.youtube.com/watch?v=k5dZmMa0OIA)**
+
+Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: ...
+
+📺 Sabine Hossenfelder
+
+👁️ 206K • 👍 10K • 💬 2K • ⏱️ 7:39 • 21h ago
 
 ---
 
@@ -353,17 +349,7 @@ discord.gg/nickjones Source media: https://youtu.be/b1_7Pt0DJos?si=r1cZlHFuFNq6N
 
 📺 Nick Jones
 
-👁️ 21K • 👍 914 • 💬 179 • ⏱️ 27:00 • 1d ago
-
----
-
-**[AI Will Never Be The Same After This](https://www.youtube.com/watch?v=vHFIvXE7hcg)**
-
-LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
-
-📺 Limitless Podcast
-
-👁️ 10K • 👍 278 • 💬 44 • ⏱️ 29:26 • 1d ago
+👁️ 22K • 👍 941 • 💬 183 • ⏱️ 27:00 • 1d ago
 
 ---
 
@@ -373,7 +359,17 @@ GLM 5.2 review. New best open source AI model. #ai #aitools #llm #ainews #agi #s
 
 📺 AI Search
 
-👁️ 239K • 👍 8K • 💬 922 • ⏱️ 29:57 • 1d ago
+👁️ 253K • 👍 8K • 💬 956 • ⏱️ 29:57 • 1d ago
+
+---
+
+**[AI Will Never Be The Same After This](https://www.youtube.com/watch?v=vHFIvXE7hcg)**
+
+LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
+
+📺 Limitless Podcast
+
+👁️ 10K • 👍 282 • 💬 44 • ⏱️ 29:26 • 1d ago
 
 ---
 
@@ -389,7 +385,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 146,784 • ❤️ 1,567 • 7h ago
+⬇️ 211,424 • ❤️ 1,602 • 2h ago
 
 ---
 
@@ -401,7 +397,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 666 • ❤️ 1,155 • 1d ago
+⬇️ 4,307 • ❤️ 1,195 • 1d ago
 
 ---
 
@@ -413,7 +409,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 42,198 • ❤️ 1,077 • 2d ago
+⬇️ 56,162 • ❤️ 1,081 • 2d ago
 
 ---
 
@@ -425,7 +421,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 172,727 • ❤️ 859 • 3d ago
+⬇️ 229,156 • ❤️ 862 • 3d ago
 
 ---
 
@@ -437,7 +433,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 460,173 • ❤️ 986 • 7d ago
+⬇️ 527,080 • ❤️ 992 • 7d ago
 
 ---
 
@@ -449,7 +445,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 1,950 • ❤️ 347 • 1d ago
+⬇️ 6,589 • ❤️ 368 • 1d ago
 
 ---
 
@@ -461,7 +457,7 @@ Rio 3.5 Open 397B is a frontier-class, open-source image-text-to-text AI model p
 
 `image-text-to-text` `403.4B`
 
-⬇️ 189,986 • ❤️ 321 • 3d ago
+⬇️ 190,501 • ❤️ 322 • 3d ago
 
 ---
 
@@ -473,7 +469,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 183,093 • ❤️ 2,142 • 5d ago
+⬇️ 183,093 • ❤️ 2,146 • 6d ago
 
 ---
 
@@ -485,7 +481,7 @@ Qwopus-3.6-27B-Coder is a 27B parameter multimodal model fine-tuned for agentic 
 
 `image-text-to-text` `460.7M`
 
-⬇️ 99,909 • ❤️ 241 • 3d ago
+⬇️ 122,175 • ❤️ 243 • 3d ago
 
 ---
 
@@ -497,7 +493,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 3,420,052 • ❤️ 1,947 • 2mo ago
+⬇️ 3,420,052 • ❤️ 1,953 • 2mo ago
 
 ---
 
@@ -557,18 +553,6 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 42 • 💬 4 • ⭐ 30,608 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[FastContext: Training Efficient Repository Explorer for Coding Agents](https://huggingface.co/papers/2606.14066)**
 
 *Shaoqiu Zhang, Maoquan Wang, Yuling Shi et al. (8 authors)*
@@ -583,17 +567,15 @@ FastContext separates repository exploration from code solving in LLM agents usi
 
 ---
 
-**[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://huggingface.co/papers/2606.14777)**
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
-*Dingyu Yao, Junhao Zhou, Chenxu Yang et al. (15 authors)*
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
-🏢 JD.com Open Source
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-A vision-language model operates continuously in real-time, making autonomous decisions about when to respond or delegate, enabling interactive systems that perceive and act upon environmental changes without user prompting.
+▲ 42 • 💬 4 • ⭐ 30,661 • 10mo ago
 
-▲ 181 • 💬 2 • ⭐ 266 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.14777) • [💻 code](https://github.com/jd-opensource/JoyAI-VL-Interaction) • [🔗 project](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/)
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -607,6 +589,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 80 • 💬 7 • ⭐ 77,606 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
+**[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://huggingface.co/papers/2606.14777)**
+
+*Dingyu Yao, Junhao Zhou, Chenxu Yang et al. (15 authors)*
+
+🏢 JD.com Open Source
+
+A vision-language model operates continuously in real-time, making autonomous decisions about when to respond or delegate, enabling interactive systems that perceive and act upon environmental changes without user prompting.
+
+▲ 182 • 💬 2 • ⭐ 284 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.14777) • [💻 code](https://github.com/jd-opensource/JoyAI-VL-Interaction) • [🔗 project](https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/)
 
 ---
 
@@ -631,7 +627,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 VibeThinker-3B demonstrates that compact models can achieve state-of-the-art performance on verifiable reasoning tasks through specialized training techniques, challenging conventional scaling assumptions.
 
-▲ 90 • 💬 1 • ⭐ 903 • 3d ago
+▲ 91 • 💬 1 • ⭐ 970 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.16140) • [💻 code](https://github.com/WeiboAI/VibeThinker) • [🔗 project](https://github.com/WeiboAI/VibeThinker)
 
@@ -647,7 +643,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 73.3k • 🔱 9.4k • 1h ago
+⭐ 73.3k • 🔱 9.4k • 4h ago
 
 ---
 
@@ -657,7 +653,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 33.9k • 🔱 1.5k • 1d ago
+⭐ 34.5k • 🔱 1.6k • 1d ago
 
 ---
 
@@ -667,7 +663,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 9.7k • 🔱 878 • 6m ago
+⭐ 9.7k • 🔱 880 • 1h ago
 
 ---
 
@@ -677,7 +673,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 391 • 4h ago
+⭐ 4.4k • 🔱 392 • 1h ago
 
 ---
 
@@ -687,7 +683,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 3.7k • 🔱 410 • 1m ago
+⭐ 3.7k • 🔱 414 • 14m ago
 
 ---
 
@@ -697,7 +693,7 @@ Task-oriented AI Agent productivity platform
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 360 • 3h ago
+⭐ 3.5k • 🔱 360 • 1h ago
 
 ---
 
@@ -707,7 +703,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.3k • 🔱 395 • 23h ago
+⭐ 3.3k • 🔱 396 • 1d ago
 
 ---
 
