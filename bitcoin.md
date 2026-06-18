@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-18T19:29:21.628715+00:00'
+updated: '2026-06-18T21:35:00.910989+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 19:29 UTC  
+**Last Updated:** June 18, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,688.09
+### $62,982.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -1.2%  
-**30d:** -19.0%  
-**90d:** -8.6%  
-**1y:** -40.0%  
+**24h:** -2.1%  
+**7d:** -1.0%  
+**30d:** -18.8%  
+**90d:** -8.4%  
+**1y:** -39.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1256.87B
+**Market Cap:** $1260.68B
 Rank #1
 
-**Circulating Supply:** 20,044,609 BTC
+**Circulating Supply:** 20,044,675 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.3%
+-50.1%
 
 **All-Time Low:** $67.81
-+92395.2%
++92663.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Taiwan's central bank is discussing Bitcoin as a reserve asset after a legislator presented a Bitcoin Policy Institute report advocating diversification of
 
-🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 2d ago
+🔗 [Crypto Briefing](https://cryptobriefing.com/taiwan-central-bank-bitcoin-reserve-asset/) • 3d ago
 
 ---
 
@@ -127,7 +127,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Elon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX on Friday, officially joining the ranks of public Bitcoin treasury companies with 18,712 BTC worth roughly $1.29 billion, making it the eighth-largest corporate holder of bitcoin.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard) • 3d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard) • 4d ago
 
 ---
 
@@ -159,7 +159,7 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 **[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
 
-Barron's • 7h ago
+Barron's • 9h ago
 
 ---
 
@@ -167,15 +167,35 @@ Barron's • 7h ago
 
 Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
-**[JPMorgan flags a warning sign for Bitcoin](https://sg.finance.yahoo.com/news/jpmorgan-flags-warning-sign-bitcoin-185204188.html)**
+**[Michael Saylor’s Bitcoin Flywheel Has a Preferred Stock Problem](https://www.bloomberg.com/news/newsletters/2026-06-18/michael-saylor-s-bitcoin-flywheel-has-a-preferred-stock-problem)**
 
-Quantitative analysts at JPMorgan Chase (NYSE: JPM) have issued a sharp warning on Bitcoin (BTC) mining, Investing.com reported on June 18. Bitcoin is the world's first decentralized cryptocurrency, which means no centralized body creates or controls it and it runs on a peer-to-peer (P2P) network. ...
+Bloomberg.com • 34m ago
 
-Yahoo Finance Singapore • 37m ago
+---
+
+**[Why Bitcoin Titan Strategy's STRC Is Falling to New Lows](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-titan-strategys-strc-180142196.html)**
+
+Strategy’s flagship preferred stock is facing pressure, but analysts say that's not yet an existential threat for the Bitcoin treasury giant.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin Whale Pays Price For Borrowing Binge As Buying Power Flags](https://www.investors.com/news/bitcoin-price-strategy-faces-more-dilution-crypto-buying-power-flags/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Why Coinbase CEO Brian Armstrong believes bitcoin has bottomed](https://finance.yahoo.com/video/why-coinbase-ceo-brian-armstrong-believes-bitcoin-has-bottomed-132933738.html)**
+
+Coinbase CEO Brian Armstrong explains to Yahoo Finance Executive Editor Brian Sozzi his recent prediction that Bitcoin has bottomed out around $60k, and why he believes this will ignite its next growth phase.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -187,9 +207,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
+**[STRC Is Junk Credit In A Bitcoin Costume, And Retail Is Holding $8.8 Billion Of It](https://bitcoinmagazine.com/markets/strc-is-junk-credit-in-a-bitcoin-costume-and-retail-is-holding-8-8-billion-of-it)**
 
-Bloomberg.com • 1h ago
+There is now $15 billion sitting in three securities being marketed to bitcoin holders as the safer, smarter way to access bitcoin exposure: Strategy's
+
+Bitcoin Magazine • 18m ago
 
 ---
 
@@ -203,31 +225,7 @@ vaneck.com • 2d ago
 
 **[Bitcoin mining plan at vacant East Texas auto shop sparks backlash](https://www.chron.com/texas/article/tyler-texas-bitcoin-mining-vulcan-core-22309380.php)**
 
-Chron • 7h ago
-
----
-
-**[CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification](https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin)**
-
-CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank.
-
-Bitcoin Magazine • 5h ago
-
----
-
-**[‘Bigger Than 2008’—Serious $10 Trillion Fed Crash Warning Sparks Huge Bitcoin Price Prediction](https://www.forbes.com/sites/digital-assets/2026/06/18/bigger-than-2008-serious-10-trillion-fed-crash-warning-sparks-huge-bitcoin-price-prediction/)**
-
-Closely watched trader Arthur Hayes has predicted an AI "credit event" is about to crash the market and blow up the bitcoin price...
-
-Forbes • 6h ago
-
----
-
-**[BlackRock launches new Bitcoin ETF that generates income using a covered call strategy](https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq)**
-
-BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
-
-The Block • 2d ago
+Chron • 9h ago
 
 ---
 
@@ -325,7 +323,7 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 3K • 💬 135 • ⏱️ 12:12 • 21h ago
+👁️ 47K • 👍 3K • 💬 149 • ⏱️ 12:12 • 23h ago
 
 ---
 
@@ -335,7 +333,7 @@ Solana Policy Institute president & Blockchain Association Board Chair Kristin S
 
 📺 Fox Business
 
-👁️ 38K • 👍 1K • 💬 412 • ⏱️ 10:23 • 5h ago
+👁️ 84K • 👍 2K • 💬 526 • ⏱️ 10:23 • 7h ago
 
 ---
 
@@ -345,7 +343,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 897 • 💬 376 • ⏱️ 8:56 • 18h ago
+👁️ 18K • 👍 901 • 💬 388 • ⏱️ 8:56 • 20h ago
 
 ---
 
@@ -355,7 +353,7 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 181 • ⏱️ 15:41 • 1d ago
+👁️ 27K • 👍 2K • 💬 180 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -365,17 +363,17 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 3K • 💬 192 • ⏱️ 16:06 • 7h ago
+👁️ 38K • 👍 3K • 💬 212 • ⏱️ 16:06 • 10h ago
 
 ---
 
-**[Bitcoin Correcting HARD! Is $60k About To Break?](https://www.youtube.com/watch?v=hyhN0DVagkM)**
+**[A Smaller Rival Just Out-Engineered Saylor&#39;s Bitcoin Buying Machine](https://www.youtube.com/watch?v=3mcj2dwYZas)**
 
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+While everyone watches Saylor, a smaller rival might be quietly out-engineering him, Matt Cole's Strive launched a product called ...
 
-📺 Crypto Jebb
+📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 126 • 💬 111 • ⏱️ 33:03 • 2h ago
+👁️ 377 • 👍 16 • 💬 106 • ⏱️ 1:31 • 1h ago
 
 ---
 
@@ -385,17 +383,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 266 • ⏱️ 9:06 • 1d ago
-
----
-
-**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
-
-Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
-
-📺 100XClub
-
-👁️ 9K • 👍 876 • 💬 198 • ⏱️ 2:03 • 1d ago
+👁️ 42K • 👍 2K • 💬 274 • ⏱️ 9:06 • 2d ago
 
 ---
 
@@ -405,7 +393,7 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 937 • 💬 91 • ⏱️ 19:51 • 2d ago
+👁️ 16K • 👍 938 • 💬 91 • ⏱️ 19:51 • 2d ago
 
 ---
 
@@ -415,7 +403,17 @@ In today's live crypto market update, Kyledoops breaks down exactly what to expe
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 943 • 💬 3 • ⏱️ 32:01 • 11h ago
+👁️ 11K • 👍 954 • 💬 3 • ⏱️ 32:01 • 13h ago
+
+---
+
+**[Bitcoin Correcting HARD! Is $60k About To Break?](https://www.youtube.com/watch?v=hyhN0DVagkM)**
+
+Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 154 • 💬 116 • ⏱️ 33:03 • 5h ago
 
 ---
 
