@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-18T05:17:42.498201+00:00'
+updated: '2026-06-18T09:54:07.074656+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 05:17 UTC  
+**Last Updated:** June 18, 2026 at 09:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,764.91
+### $64,236.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +0.5%  
-**30d:** -17.6%  
-**90d:** -7.1%  
-**1y:** -39.0%  
+**24h:** -0.8%  
+**7d:** +1.1%  
+**30d:** -17.1%  
+**90d:** -6.5%  
+**1y:** -38.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1280.10B
+**Market Cap:** $1287.16B
 Rank #1
 
-**Circulating Supply:** 20,044,290 BTC
+**Circulating Supply:** 20,044,393 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.1%
 
 **All-Time Low:** $67.81
-+94101.4%
++94576.3%
 
 ---
 
@@ -161,7 +161,7 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
 
-CoinDesk • 6h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -173,33 +173,27 @@ vaneck.com • 1d ago
 
 ---
 
-**[Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck](https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck)**
+**[Bitcoin Rodney Pleads Guilty in Connection With $1.8 Billion HyperFund Fraud](https://www.yahoo.com/news/us/articles/bitcoin-rodney-pleads-guilty-connection-081410864.html)**
 
-VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.
+Rodney Burton, known as Bitcoin Rodney, pleaded guilty for his role in the $1.8 billion HyperFund crypto fraud scheme.
 
-CoinDesk • 1d ago
-
----
-
-**[AI stock jumps over 157% amid billion-dollar deal](https://www.thestreet.com/crypto/markets/ai-stock-jumps-over-157-amid-billion-dollar-deal)**
-
-thestreet.com • 10h ago
+Yahoo • 1h ago
 
 ---
 
-**[Gold, Bitcoin, And The New Safe-Haven Playbook](https://www.forbes.com/sites/jasonkirsch/2026/06/17/gold-bitcoin-and-the-new-safe-haven-playbook/)**
+**[The $1.2 Trillion Bitcoin Crash Is Really About 1 Dangerous Assumption](https://www.inc.com/soren-kaplan/the-1-2-trillion-bitcoin-crash-is-really-about-1-dangerous-assumption/91360457)**
 
-The Iran conflict that began on February 27, 2026, provided what analysts called a "real-time stress test" for the safe-haven claims of both gold and Bitcoin — and the results were not what the crypto community was hoping for. In the first 48 hours of the conflict, gold surged 5.2%. Bitcoin fell 12%. Over the following weeks, gold stabilized around $4,700 per ounce and held that level as central banks continued buying even as private investors took profits. Bitcoin declined to a low near $72,000 — a 35% drawdown from its 2025 highs — trading in lockstep with the Nasdaq and S&P 500 rather than as a safe haven. The 1-year rolling correlation between gold and Bitcoin dropped to -0.17 by February, implying genuine diversification rather than doubled exposure to the same thesis.
+Every leader betting on AI, or any other transformative technology, faces the same test bitcoin is facing now.
 
-Forbes • 48m ago
+inc.com • 1h ago
 
 ---
 
-**[Trump Signs the US-Iran Peace MoU, but the Fed Stops Bitcoin’s Recovery Cold](https://finance.yahoo.com/markets/crypto/articles/trump-signs-us-iran-peace-041010209.html)**
+**[Quantum Blockchain Establishes BlocKeeper to Pursue Virtual Bitcoin Mining Strategy (QBT)](https://uk.finance.yahoo.com/news/quantum-blockchain-establishes-blockeeper-pursue-082140295.html)**
 
-Trump signs the US-Iran peace MoU, but Bitcoin (BTC) fails to recover from the Fed's hawkish shock under chair Warsh.
+Quantum Blockchain Technologies (LSE:QBT) has launched a new Malta-based subsidiary, BlocKeeper Plc, as it seeks to develop a capital-light approach to Bitcoin mining centred on acquiring and managing hash rate rather than owning physical mining infrastructure. The new venture is designed to operate as a “virtual miner”, using purchased hashpower to participate in Bitcoin production while avoiding many of the operational and capital costs associated with traditional mining operations.
 
-Yahoo Finance • 1h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -207,7 +201,7 @@ Yahoo Finance • 1h ago
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-CNBC • 17h ago
+CNBC • 21h ago
 
 ---
 
@@ -227,11 +221,19 @@ The Block • 1d ago
 
 ---
 
-**[It’s ‘Over’—Crypto Is Quietly Braced For A ‘Critical’ BlackRock Bitcoin Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/06/15/its-over-crypto-is-quietly-braced-for-a-huge-blackrock-bitcoin-price-game-changer/)**
+**[BlackRock's new bitcoin ETF lets institutions earn from volatility. There's a catch.](https://www.coindesk.com/daybook-us/2026/06/16/blackrock-s-new-bitcoin-etf-lets-institutions-earn-from-volatility-there-s-a-catch)**
 
-The bitcoin price has dropped to 2026 lows of just under $60,000 per bitcoin, plunging by half from its October peak of $126,000...
+Your day-ahead look for June 16, 2026
 
-Forbes • 2d ago
+CoinDesk • 1d ago
+
+---
+
+**[Gold, Bitcoin, And The New Safe-Haven Playbook](https://www.forbes.com/sites/jasonkirsch/2026/06/17/gold-bitcoin-and-the-new-safe-haven-playbook/)**
+
+The Iran conflict that began on February 27, 2026, provided what analysts called a "real-time stress test" for the safe-haven claims of both gold and Bitcoin — and the results were not what the crypto community was hoping for. In the first 48 hours of the conflict, gold surged 5.2%. Bitcoin fell 12%. Over the following weeks, gold stabilized around $4,700 per ounce and held that level as central banks continued buying even as private investors took profits. Bitcoin declined to a low near $72,000 — a 35% drawdown from its 2025 highs — trading in lockstep with the Nasdaq and S&P 500 rather than as a safe haven. The 1-year rolling correlation between gold and Bitcoin dropped to -0.17 by February, implying genuine diversification rather than doubled exposure to the same thesis.
+
+Forbes • 5h ago
 
 ---
 
@@ -267,7 +269,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 15h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 20h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -329,7 +331,7 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 96 • ⏱️ 12:12 • 7h ago
+👁️ 34K • 👍 2K • 💬 108 • ⏱️ 12:12 • 12h ago
 
 ---
 
@@ -339,7 +341,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 214 • ⏱️ 9:06 • 1d ago
+👁️ 40K • 👍 2K • 💬 228 • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -349,17 +351,17 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 180 • ⏱️ 15:41 • 1d ago
+👁️ 26K • 👍 2K • 💬 180 • ⏱️ 15:41 • 1d ago
 
 ---
 
-**[A 2 MINUTE BITCOIN UPDATE YOU CAN&#39;T MISS TODAY (WATCH NOW!!!)](https://www.youtube.com/watch?v=h0O6_PZChdI)**
+**[Fed Warsh Just Flipped The Script on Bitcoin](https://www.youtube.com/watch?v=V3uhUQq9FeA)**
 
-Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 100XClub
+📺 CryptosRUs
 
-👁️ 8K • 👍 862 • 💬 196 • ⏱️ 2:03 • 21h ago
+👁️ 14K • 👍 767 • 💬 87 • ⏱️ 8:56 • 8h ago
 
 ---
 
@@ -369,7 +371,17 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 909 • 💬 89 • ⏱️ 19:51 • 1d ago
+👁️ 16K • 👍 915 • 💬 90 • ⏱️ 19:51 • 1d ago
+
+---
+
+**[REJECTED: This Bitcoin Analysis Will Save You!](https://www.youtube.com/watch?v=1FR-GnH8qzU)**
+
+In today's live crypto market update, Kyledoops breaks down exactly what to expect next for Bitcoin following what looks to be a ...
+
+📺 Crypto Banter
+
+👁️ 5K • 👍 573 • 💬 1 • ⏱️ 32:01 • 2h ago
 
 ---
 
@@ -379,7 +391,7 @@ AI is making intelligence abundant. Bitcoin is making scarcity absolute. In this
 
 📺 Swan Bitcoin
 
-👁️ 990 • 👍 86 • 💬 104 • ⏱️ 20:23 • 8h ago
+👁️ 1K • 👍 94 • 💬 106 • ⏱️ 20:23 • 13h ago
 
 ---
 
@@ -389,27 +401,7 @@ Try XAPO and get $500 in BTC for signing up https://cryptolark.co/XAPO Bitcoin j
 
 📺 Lark Davis
 
-👁️ 6K • 👍 378 • 💬 71 • ⏱️ 13:07 • 8h ago
-
----
-
-**[Has Crypto Bottomed, or Just Another Bounce?](https://www.youtube.com/watch?v=BYR8Adb-iCE)**
-
-Watch full June crypto update now: ...
-
-📺 Fundstrat
-
-👁️ 1K • 👍 35 • 💬 8 • ⏱️ 2:47 • 8h ago
-
----
-
-**[Bitcoin Bulls Are Waking Up](https://www.youtube.com/watch?v=Vvl2mmgR5Sk)**
-
-AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 856 • 💬 216 • ⏱️ 54:21 • 2d ago
+👁️ 9K • 👍 458 • 💬 85 • ⏱️ 13:07 • 12h ago
 
 ---
 
@@ -419,7 +411,17 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 216 • 💬 37 • ⏱️ 43:02 • 14h ago
+👁️ 4K • 👍 221 • 💬 36 • ⏱️ 43:02 • 18h ago
+
+---
+
+**[Has Crypto Bottomed, or Just Another Bounce?](https://www.youtube.com/watch?v=BYR8Adb-iCE)**
+
+Watch full June crypto update now: ...
+
+📺 Fundstrat
+
+👁️ 2K • 👍 38 • 💬 8 • ⏱️ 2:47 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-18T05:17:42.504228+00:00'
+updated: '2026-06-18T09:54:07.079903+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 05:17 UTC  
+**Last Updated:** June 18, 2026 at 09:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,734.25
+### $1,728.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** +3.7%  
-**30d:** -18.8%  
-**90d:** -17.1%  
-**1y:** -31.5%  
+**24h:** -1.1%  
+**7d:** +4.9%  
+**30d:** -17.9%  
+**90d:** -16.1%  
+**1y:** -30.7%  
 
 ---
 
@@ -164,19 +164,19 @@ TipRanks • 2d ago
 
 ---
 
+**[Ethereum to $5,000 if CLARITY Act Passes? Bullish Theories Fly as Senator Predicts Ten-Fold Crypto Increase](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-clarity-act-140529273.html)**
+
+Ethereum bulls see a path to $5,000 if the CLARITY Act passes. Some analysts believe Wall Street's tokenization could drive valuations much higher. Institutional accumulation ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Pepeto Exchange Upgrade Reaches Binance Level While the Ethereum Price Prediction From Hayes Maps $10,000 and Solana Meme Coins Crash](https://markets.businessinsider.com/news/stocks/pepeto-exchange-upgrade-reaches-binance-level-while-the-ethereum-price-prediction-from-hayes-maps-10-000-and-solana-meme-coins-crash-1036258274)**
 
 DUBAI, United Arab Emirates, June  18, 2026  (GLOBE NEWSWIRE) -- Pepeto just completed a major upgrade on its exchange in a week where every Ether...
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin In Red Even As Trump Signs Iran Peace Deal: Analyst Says BTC In 'Fragile Recovery Phase'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-red-020632642.html)**
-
-Leading cryptocurrencies were red, while stock futures rallied overnight on Wednesday after President Donald Trump signed a historic "Memorandum of Understanding" with Iran to end all hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.36%$64,604.40Ethereum (CRYPTO: ETH) -1.61%$1,755.43XRP (CRYPTO: XRP) -1.70%$1.18Solana (CRYPTO: SOL) -1.29%$72.35Dogecoin (CRYPTO: DOGE) -1.02%$0.08619 Crypto Market Fails To Rally Bitcoin retreated from $66,000 to
-
-Yahoo Finance • 3h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 13h ago
 
 ---
 
@@ -193,14 +193,6 @@ Fortune • 8h ago
 Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
 
 TradingView • 1d ago
-
----
-
-**[Ethereum Exchange Reserves Hit a 10-Year Low—Is a Supply Shock Brewing?](https://coinpedia.org/price-analysis/ethereum-exchange-reserves-hit-a-10-year-low-is-a-supply-shock-brewing/)**
-
-Ethereum exchange reserves have fallen to their lowest level in a decade, reducing the amount of ETH readily available for sale.
-
-Coinpedia • 1d ago
 
 ---
 
@@ -222,7 +214,15 @@ Decrypt • 2d ago
 
 **[Ethereum Price Falls 30% Below 200-Week SMA as Tom Lee's Bitmine Nears Possible Buying End](https://www.ccn.com/news/crypto/ethereum-price-below-200-week-sma-tom-lees-bitmine-buying/)**
 
-CCN.com • 2d ago
+CCN.com • 3d ago
+
+---
+
+**[XRP just beat Ethereum, Solana and others in 90-Day RWA flows as traders pile back into the token](https://cryptoslate.com/xrp-just-beat-ethereum-solana-and-others-in-90-day-rwa-flows-as-traders-pile-back-into-the-token/)**
+
+XRPL drew $1.9 billion in net tokenized-asset inflows as XRP futures activity hit its highest 30-day average in more than four months.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -230,23 +230,13 @@ CCN.com • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 1K • 👍 81 • 💬 24 • ⏱️ 43:09 • 4h ago
-
----
-
 **[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
 
 Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
 
 📺 Milk Road
 
-👁️ 3K • 👍 157 • 💬 105 • ⏱️ 38:25 • 10h ago
+👁️ 4K • 👍 186 • 💬 60 • ⏱️ 38:25 • 15h ago
 
 ---
 
@@ -256,7 +246,7 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 275 • 👍 15 • 💬 101 • ⏱️ 2:27 • 13h ago
+👁️ 324 • 👍 17 • 💬 101 • ⏱️ 2:27 • 18h ago
 
 ---
 
@@ -266,27 +256,27 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 160 • 💬 8 • ⏱️ 6:57 • 9h ago
+👁️ 3K • 👍 187 • 💬 9 • ⏱️ 6:57 • 14h ago
 
 ---
 
-**[Are Ethereum Whales Scaring Retail Before The Dump?](https://www.youtube.com/watch?v=vRux77if-e8)**
+**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
 
-📺 Trade Confident
+📺 MONEY GAME
 
-👁️ 301 • 👍 11 • 💬 1 • ⏱️ 6:20 • 9h ago
+👁️ 3K • 👍 113 • 💬 29 • ⏱️ 43:09 • 8h ago
 
 ---
 
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+**[We saw this ETH signal only once before… in 2019 #eth #ethereum](https://www.youtube.com/watch?v=zUsdz2HB8tQ)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Ethereum signal we last saw in 2019 FREE trial is live. Test all indicators now - https://t.me/crypto4light/8711 DM for access ...
 
-📺 Savvy Finance
+📺 Crypto4light Market
 
-👁️ 6K • 👍 203 • 💬 33 • ⏱️ 15:17 • 2d ago
+💬 1 • ⏱️ 0:30 • 2m ago
 
 ---
 
@@ -300,33 +290,43 @@ bitcoin, ethereum and crypto in general have bounced on the iran war news. Here 
 
 ---
 
-**[ETH Ethereum and SOL Solana Price Prediction Video](https://www.youtube.com/watch?v=zSxFiJc8ElA)**
+**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 C-Zar Gets Crypto 
+📺 Savvy Finance
 
-👁️ 139 • 👍 7 • 💬 12 • ⏱️ 7:44 • 15h ago
-
----
-
-**[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
-
-Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 121 • 💬 5 • ⏱️ 0:44 • 2d ago
+👁️ 6K • 👍 204 • 💬 33 • ⏱️ 15:17 • 2d ago
 
 ---
 
-**[TOM LEE SAYS ETHEREUM IS THE STORE OF THE FUTURE?! 🚀 NO SECOND BEST!!](https://www.youtube.com/watch?v=8wKtB3k-r6A)**
+**[Michael Saylor :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=50U3SJTbNpg)**
 
-Yo bros!! Straight from the source — confidence in Ethereum has NEVER been higher!! Tom Lee is loading up on ETH because ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 The Blockchain Brew
+📺 Crypto Nutshell
 
-👁️ 744 • 👍 9 • 💬 1 • ⏱️ 1:08 • 5h ago
+👁️ 4K • 👍 209 • 💬 14 • ⏱️ 19:50 • 1d ago
+
+---
+
+**[ETH PULLBACK! Will It Rally Higher After? (Ethereum Update)](https://www.youtube.com/watch?v=90j3hyNmGvs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 421 • 👍 17 • 💬 3 • ⏱️ 5:04 • 1d ago
+
+---
+
+**[Are Ethereum Whales Scaring Retail Before The Dump?](https://www.youtube.com/watch?v=vRux77if-e8)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 360 • 👍 13 • 💬 1 • ⏱️ 6:20 • 13h ago
 
 ---
 
