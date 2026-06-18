@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-18T16:33:24.094461+00:00'
+updated: '2026-06-18T19:29:21.638058+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 18, 2026 at 16:33 UTC  
+**Last Updated:** June 18, 2026 at 19:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Look at the little robot I build!](https://www.reddit.com/r/robotics/comments/1u95gwg/look_at_the_little_robot_i_build/)**
 
-3h ago
+6h ago
 
 ---
 
 **[(Mostly) 3D printed robot arm project](https://www.reddit.com/r/robotics/comments/1u99ot3/mostly_3d_printed_robot_arm_project/)**
 
-54m ago
+3h ago
 
 ---
 
 **[I use my hand to control Iron Man's helmet](https://www.reddit.com/r/robotics/comments/1u8xlm1/i_use_my_hand_to_control_iron_mans_helmet/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense-unveils-the-d585-pro-and-perception-studio/
 
-51m ago
+3h ago
 
 ---
 
@@ -62,7 +62,7 @@ Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense
 
 I've been working on an open-source pet companion robot called OpenPaw, and wanted to share the navigation system I built for it. The hardware is an ESP32-S3 running ESP-IDF with a camera, DRV8833 motor driver, VL53L0X distance sensor, and MLX90634 temp sensor. It hosts its own WiFi AP — no cloud, no internet needed. The navigation works like this: I created virtual portals in my home using the Auki posemesh network (like GPS waypoints indoors). Each portal has X, Y, Z coordinates. A phone app built with Flutter connects to a local bridge API and loads these portals. When you scan a portal QR code with the phone's camera, the app records your position AND compass heading using the phone's magnetometer. This gives the robot both location and orientation — the two things needed for autonomous movement. The robot runs a PWM-based odometry task that estimates its position from motor commands every 50ms. A /api/pose endpoint returns real-time X, Y, and heading. A /api/trajectory endpoint logs the full path. The app shows all this on a 2D map overlay with portal markers, the robot's position, heading arrow, and traveled path updating every 500ms. The portal dropdown on the control screen lets you select any destination. The app calculates direction and distance from the robot's current position to the target in real time. The entire stack — ESP-IDF firmware, Flutter app, Auki bridge API — is open source. Build guide and schematics are documented. What navigation approaches have you used for indoor robots without GPS? I'm planning to add wheel encoders next for better accuracy.
 
-4h ago
+6h ago
 
 ---
 
@@ -70,7 +70,7 @@ I've been working on an open-source pet companion robot called OpenPaw, and want
 
 I'm currently pursuing an M.Tech in Mechanical Engineering and have been considering a transition into Robotics. My exposure to robotics is limited to basic theoretical concepts like kinematics, and I don't have any hands-on robotics experience. For those already working in the field, is it worth making the switch at this stage? How challenging is it to break into robotics from a mechanical background, and what does the career growth look like? I'd appreciate any honest insights from people who have been through a similar journey.
 
-45m ago
+3h ago
 
 ---
 
@@ -78,7 +78,7 @@ I'm currently pursuing an M.Tech in Mechanical Engineering and have been conside
 
 Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS transfer review process? I submitted through the transfer option for IROS and was rejected, so I’m trying to better understand how the process works. What can reviewers see: the previous reviews, only the author response/revision summary, or something else? For those with experience, did the transfer process feel helpful, or could it bias reviewers since they know the paper was previously rejected? Any insights from the reviewer or author side would be appreciated.
 
-7h ago
+10h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS
 
 So we're using an ESP32S with a TJA1050 transceiver and basically we're using this setup to operate a rover using ROS2 Humble and MAVLink commands, so it has a lot of modules like actuators, PDB, mini-arm, and etc connected through a CAN bus network. Now the issue is that we will be using multiple BLDCs for our rover's arm and these motors continuously send out updates (or heartbeats or sth) so using these BLDCs in the same network seems like the MCU will lag or slow down and just be downright ineffective. So is there any way to isolate the motors to a different network or CAN line? I was thinking of adding another MCU on top of the ESP32 to only handle the motors but is there an alternative to this approach, preferably one without adding more hardware?
 
-2h ago
+5h ago
 
 ---
 
@@ -110,39 +110,33 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 ## Google News: "robotics"
 
-**[New Qwen Models Fuel BABA's Robotics Ambitions: Hold the Stock Now?](https://finance.yahoo.com/technology/ai/articles/qwen-models-fuel-babas-robotics-144700254.html)**
-
-Alibaba's new Qwen-Robot push deepens its AI-cloud strategy, but rising costs, valuation premium and volatility raise questions about near-term upside.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Alibaba unveils AI models for robots, amid shift from chatbots to agents](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)**
-
-Reuters • 2d ago
-
----
-
 **[Alibaba eyes physical world with its first suite of AI models for robots](https://www.scmp.com/tech/big-tech/article/3357260/alibaba-eyes-physical-world-its-first-suite-ai-models-robots)**
 
 South China Morning Post • 2d ago
 
 ---
 
-**[Vishay Precision Group (VPG) is Benefiting from the Manufacturing Rebound and Robotics Growth](https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-vpg-benefiting-141953105.html)**
+**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
 
-Prosper Stars & Stripes, a long/short equity fund, recently released its first-quarter 2026 investor letter. A copy of the letter is available to download here. In Q1 2026, the portfolio underperformed with a net return of (-5.6%) compared to the Russell 2000 Index’s +0.9% return and the HFRX Equity Hedge Index’s -1.5% return. Long book performance […]
+We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
 
-Yahoo Finance • 2h ago
+Anthropic • 3h ago
 
 ---
 
-**[Humanoid robots and smart homes put AI centre stage at VivaTech 2026 in Paris](https://sg.news.yahoo.com/humanoid-robots-smart-homes-put-161819657.html)**
+**[Robotic exoskeleton could redefine how stroke survivors relearn to walk](https://news.northwestern.edu/stories/2026/06/new-exoskeleton-therapy-could-redefine-how-stroke-survivors-relearn-to-walk)**
 
-France is putting artificial intelligence and robotics in the spotlight at VivaTech 2026, which opened on 17 June at Paris Expo Porte de Versailles.View on euronews
+First-of-its-kind intervention improved range of motion and muscle activation
 
-Yahoo News Singapore • 15m ago
+Northwestern Now News • 23h ago
+
+---
+
+**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-regulatory-approval-of-its-acquisition-of-covelya-group/)**
+
+Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
+
+Kraken Robotics • 8h ago
 
 ---
 
@@ -154,19 +148,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[The State of Industrial Robotics](https://www.thefai.org/posts/the-state-of-industrial-robotics)**
+**[New Qwen Models Fuel BABA's Robotics Ambitions: Hold the Stock Now?](https://finance.yahoo.com/technology/ai/articles/qwen-models-fuel-babas-robotics-144700254.html)**
 
-The Foundation for American Innovation.
+Alibaba's new Qwen-Robot push deepens its AI-cloud strategy, but rising costs, valuation premium and volatility raise questions about near-term upside.
 
-The Foundation for American Innovation • 1d ago
-
----
-
-**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-regulatory-approval-of-its-acquisition-of-covelya-group/)**
-
-Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
-
-Kraken Robotics • 6h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,7 +168,23 @@ Stock Titan • 1d ago
 
 Autonomous machines aren't as independent as we think.
 
-The Boston Globe • 6h ago
+The Boston Globe • 9h ago
+
+---
+
+**[Meet the 22 Investors to Know in Robotics and Physical AI](https://www.businessinsider.com/investors-to-know-in-robotics-and-physical-ai-2026-6)**
+
+Investors focus on robotics and physical AI, raising $23 billion this year, as technology evolves from software to real-world applications.
+
+Business Insider • 3d ago
+
+---
+
+**[Me and my exoskeleton: the rise of wearable robotics](https://www.ft.com/content/a71f4c56-685c-4341-9772-31e4e5c6418d)**
+
+Lighter and more affordable devices give users a battery-powered spring in their step
+
+Financial Times • 3d ago
 
 ---
 
@@ -196,7 +198,27 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 157K • 👍 8K • 💬 882 • ⏱️ 2:57 • 4d ago
+👁️ 159K • 👍 8K • 💬 888 • ⏱️ 2:57 • 4d ago
+
+---
+
+**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+
+అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+
+📺 Zee Telugu News
+
+👁️ 88K • 👍 343 • 💬 3 • ⏱️ 0:39 • 16h ago
+
+---
+
+**[Inside a Robotic Phone Farm: How Automated Robots Control Multiple Smartphones at Once 🤖📱](https://www.youtube.com/watch?v=bD08V-Kzupw)**
+
+How a Robotic Phone Farm Automates Dozens of Smartphones Simultaneously A robotic phone farm uses precision motors, ...
+
+📺 Techie Sapien
+
+👁️ 12K • 👍 133 • 💬 5 • ⏱️ 0:07 • 5h ago
 
 ---
 
@@ -206,17 +228,57 @@ AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.n
 
 📺 InsideAI
 
-👁️ 722K • 👍 24K • 💬 2K • ⏱️ 15:10 • 3d ago
+👁️ 737K • 👍 24K • 💬 2K • ⏱️ 15:10 • 4d ago
 
 ---
 
-**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
+**[Indian factory workers wear head cameras for AI robots #AI #ethics #robotics](https://www.youtube.com/watch?v=HVUFhOjHfHg)**
 
-I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
+Follow us on Instagram: https://www.instagram.com/fulldisclosure.ig/
 
-📺 The Hook Up
+📺 Full Disclosure
 
-👁️ 116K • 👍 2K • 💬 411 • ⏱️ 33:19 • 6d ago
+👁️ 4K • 👍 296 • 💬 8 • ⏱️ 1:08 • 2h ago
+
+---
+
+**[Simulating a Robot with ROS #ros2 #robot #robotics #robot #raspberrypi #engineering #maker #arduino](https://www.youtube.com/watch?v=VswFCQwzs9I)**
+
+We can use ROS and tools like RViz to visualize what the robot does before testing on the real hardware. This is even more useful ...
+
+📺 Kitajima
+
+👁️ 447 • 👍 9 • ⏱️ 0:29 • 3h ago
+
+---
+
+**[Automated Robotic System Loading Heavy Bags Efficiently Into A Shipping Container](https://www.youtube.com/watch?v=GfxR2QepHZw)**
+
+Automated Robotic System Loading Heavy Bags Efficiently Into A Shipping Container This automated robotic system is designed ...
+
+📺 Creative Mind Vibes
+
+👁️ 18K • 👍 18 • ⏱️ 0:05 • 16h ago
+
+---
+
+**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
+
+Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
+
+📺 🚜🌾 Desi Farm Vibes
+
+👁️ 18K • 👍 85 • ⏱️ 0:21 • 1d ago
+
+---
+
+**[Anaconda Innovation! 🐍✨ Jinu Crafts a Robotic Companion for Rumi! #robot](https://www.youtube.com/watch?v=Ppx8Ilti4PY)**
+
+Join Jinu as he takes on an exciting challenge to create a one-of-a-kind robotic anaconda for Rumi! Watch the transformation ...
+
+📺 PopZap Shorts
+
+👁️ 31K • 👍 176 • ⏱️ 0:25 • 23h ago
 
 ---
 
@@ -227,66 +289,6 @@ I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which f
 📺 Mistakes_Moll
 
 👁️ 23K • 💬 1 • ⏱️ 0:33 • 2d ago
-
----
-
-**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
-
-Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
-
-📺 Fox Business Clips
-
-👁️ 8K • 👍 98 • 💬 45 • ⏱️ 6:28 • 22h ago
-
----
-
-**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
-
-Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
-
-📺 🚜🌾 Desi Farm Vibes
-
-👁️ 17K • 👍 84 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Automated Robotic System Loading Heavy Bags Efficiently Into A Shipping Container](https://www.youtube.com/watch?v=GfxR2QepHZw)**
-
-Automated Robotic System Loading Heavy Bags Efficiently Into A Shipping Container This automated robotic system is designed ...
-
-📺 Creative Mind Vibes
-
-👁️ 16K • 👍 17 • ⏱️ 0:05 • 14h ago
-
----
-
-**[Inside a Robotic Phone Farm: How Automated Robots Control Multiple Smartphones at Once 🤖📱](https://www.youtube.com/watch?v=bD08V-Kzupw)**
-
-How a Robotic Phone Farm Automates Dozens of Smartphones Simultaneously A robotic phone farm uses precision motors, ...
-
-📺 Techie Sapien
-
-👁️ 5K • 👍 69 • 💬 2 • ⏱️ 0:07 • 2h ago
-
----
-
-**[Are we ready for flesh bots? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
-
-Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
-
-📺 Business Insider
-
-👁️ 112K • 👍 2K • 💬 485 • ⏱️ 17:26 • 4d ago
-
----
-
-**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
-
-అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
-
-📺 Zee Telugu News
-
-👁️ 80K • 👍 336 • 💬 3 • ⏱️ 0:39 • 13h ago
 
 ---
 

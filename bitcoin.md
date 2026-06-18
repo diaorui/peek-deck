@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-18T16:33:24.086333+00:00'
+updated: '2026-06-18T19:29:21.628715+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 16:33 UTC  
+**Last Updated:** June 18, 2026 at 19:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,584.85
+### $62,688.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -5.4%  
-**7d:** -1.7%  
-**30d:** -19.4%  
-**90d:** -9.1%  
-**1y:** -40.3%  
+**24h:** -2.6%  
+**7d:** -1.2%  
+**30d:** -19.0%  
+**90d:** -8.6%  
+**1y:** -40.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1254.10B
+**Market Cap:** $1256.87B
 Rank #1
 
-**Circulating Supply:** 20,044,543 BTC
+**Circulating Supply:** 20,044,609 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.4%
+-50.3%
 
 **All-Time Low:** $67.81
-+92118.0%
++92395.2%
 
 ---
 
@@ -149,7 +149,7 @@ Years ago when I first read The Richest Man in Babylon, a lot of my thinking abo
 
 Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
-2d ago
+3d ago
 
 ---
 
@@ -157,27 +157,25 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
+**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
+
+Barron's • 7h ago
+
+---
+
 **[Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says](https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says)**
 
 Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.
 
-CoinDesk • 11h ago
+CoinDesk • 14h ago
 
 ---
 
-**['Bitcoin Rodney' pleads guilty in $1.8 billion crypto fraud case](https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case)**
+**[JPMorgan flags a warning sign for Bitcoin](https://sg.finance.yahoo.com/news/jpmorgan-flags-warning-sign-bitcoin-185204188.html)**
 
-Rodney Burton pleaded guilty in federal court over his role in HyperFund, a $1.8 billion global cryptocurrency fraud scheme.
+Quantitative analysts at JPMorgan Chase (NYSE: JPM) have issued a sharp warning on Bitcoin (BTC) mining, Investing.com reported on June 18. Bitcoin is the world's first decentralized cryptocurrency, which means no centralized body creates or controls it and it runs on a peer-to-peer (P2P) network. ...
 
-The Block • 7h ago
-
----
-
-**[Which Cryptocurrency Fund is the better Bet? Fidelity Bitcoin Fund or iShares Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-fund-better-bet-fidelity-154851340.html)**
-
-Both ETFs launched in 2024 and offer regulated access to major cryptocurrencies for investors seeking exposure without using crypto exchanges.
-
-Yahoo Finance • 44m ago
+Yahoo Finance Singapore • 37m ago
 
 ---
 
@@ -189,9 +187,9 @@ CNBC • 1d ago
 
 ---
 
-**[‘Getting louder’: Winfield residents frustrated by Bitcoin mine’s persistent noise](https://www.wate.com/news/scott-county-news/bitcoin-mine-noise-scott-county/)**
+**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
 
-WATE 6 On Your Side • 15h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -199,7 +197,21 @@ WATE 6 On Your Side • 15h ago
 
 How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
-vaneck.com • 1d ago
+vaneck.com • 2d ago
+
+---
+
+**[Bitcoin mining plan at vacant East Texas auto shop sparks backlash](https://www.chron.com/texas/article/tyler-texas-bitcoin-mining-vulcan-core-22309380.php)**
+
+Chron • 7h ago
+
+---
+
+**[CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification](https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin)**
+
+CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank.
+
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -207,27 +219,15 @@ vaneck.com • 1d ago
 
 Closely watched trader Arthur Hayes has predicted an AI "credit event" is about to crash the market and blow up the bitcoin price...
 
-Forbes • 4h ago
+Forbes • 6h ago
 
 ---
 
-**[Bitcoin mining plan at vacant East Texas auto shop sparks backlash](https://www.chron.com/texas/article/tyler-texas-bitcoin-mining-vulcan-core-22309380.php)**
+**[BlackRock launches new Bitcoin ETF that generates income using a covered call strategy](https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq)**
 
-Chron • 4h ago
+BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.
 
----
-
-**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
-
-Barron's • 4h ago
-
----
-
-**[Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy](https://www.tradingview.com/news/cointelegraph:b3f0aa926094b:0-bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy/)**
-
-A viral 4chan Bitcoin prediction appears to have nailed past BTC prices, but edited targets and impossible supply claims weaken its $145,000 call.
-
-TradingView • 1h ago
+The Block • 2d ago
 
 ---
 
@@ -247,7 +247,7 @@ A silver lining to the statistic may be that it’s a level that has historicall
 
 Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
 
-⬆️ 4 • 💬 0 • 3d ago • [kicksats.com](https://kicksats.com/)
+⬆️ 4 • 💬 0 • 4d ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -303,7 +303,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
 
-⬆️ 1 • 💬 0 • 1d ago • [CredScore](https://www.credscore.us/)
+⬆️ 1 • 💬 0 • 2d ago • [CredScore](https://www.credscore.us/)
 
 ---
 
@@ -325,7 +325,17 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 3K • 💬 165 • ⏱️ 12:12 • 18h ago
+👁️ 45K • 👍 3K • 💬 135 • ⏱️ 12:12 • 21h ago
+
+---
+
+**[The Fed just shocked Bitcoin holders: What happens next?](https://www.youtube.com/watch?v=eJ_nllBoiYE)**
+
+Solana Policy Institute president & Blockchain Association Board Chair Kristin Smith joins 'Mornings with Maria' to discuss the ...
+
+📺 Fox Business
+
+👁️ 38K • 👍 1K • 💬 412 • ⏱️ 10:23 • 5h ago
 
 ---
 
@@ -335,7 +345,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 886 • 💬 190 • ⏱️ 8:56 • 15h ago
+👁️ 18K • 👍 897 • 💬 376 • ⏱️ 8:56 • 18h ago
 
 ---
 
@@ -345,7 +355,7 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 202 • ⏱️ 15:41 • 1d ago
+👁️ 27K • 👍 2K • 💬 181 • ⏱️ 15:41 • 1d ago
 
 ---
 
@@ -355,17 +365,17 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 24K • 👍 3K • 💬 161 • ⏱️ 16:06 • 5h ago
+👁️ 33K • 👍 3K • 💬 192 • ⏱️ 16:06 • 7h ago
 
 ---
 
-**[REJECTED: This Bitcoin Analysis Will Save You!](https://www.youtube.com/watch?v=1FR-GnH8qzU)**
+**[Bitcoin Correcting HARD! Is $60k About To Break?](https://www.youtube.com/watch?v=hyhN0DVagkM)**
 
-In today's live crypto market update, Kyledoops breaks down exactly what to expect next for Bitcoin following what looks to be a ...
+Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
 
-📺 Crypto Banter
+📺 Crypto Jebb
 
-👁️ 10K • 👍 914 • 💬 3 • ⏱️ 32:01 • 8h ago
+👁️ 2K • 👍 126 • 💬 111 • ⏱️ 33:03 • 2h ago
 
 ---
 
@@ -375,7 +385,7 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 254 • ⏱️ 9:06 • 1d ago
+👁️ 41K • 👍 2K • 💬 266 • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -385,7 +395,7 @@ Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
 
 📺 100XClub
 
-👁️ 9K • 👍 875 • 💬 198 • ⏱️ 2:03 • 1d ago
+👁️ 9K • 👍 876 • 💬 198 • ⏱️ 2:03 • 1d ago
 
 ---
 
@@ -395,27 +405,17 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 930 • 💬 91 • ⏱️ 19:51 • 1d ago
+👁️ 16K • 👍 937 • 💬 91 • ⏱️ 19:51 • 2d ago
 
 ---
 
-**[The Real Case for Bitcoin Over AI](https://www.youtube.com/watch?v=f3XoBNezLAc)**
+**[REJECTED: This Bitcoin Analysis Will Save You!](https://www.youtube.com/watch?v=1FR-GnH8qzU)**
 
-AI is making intelligence abundant. Bitcoin is making scarcity absolute. In this video, I break down why Bitcoin becomes even ...
+In today's live crypto market update, Kyledoops breaks down exactly what to expect next for Bitcoin following what looks to be a ...
 
-📺 Swan Bitcoin
+📺 Crypto Banter
 
-👁️ 2K • 👍 118 • 💬 121 • ⏱️ 20:23 • 19h ago
-
----
-
-**[THIS IS WHY BITCOIN DUMPED... *warning*](https://www.youtube.com/watch?v=hvTU65Uqb2M)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 8K • 👍 713 • 💬 73 • ⏱️ 9:25 • 10h ago
+👁️ 11K • 👍 943 • 💬 3 • ⏱️ 32:01 • 11h ago
 
 ---
 
