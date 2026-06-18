@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-18T21:35:00.910989+00:00'
+updated: '2026-06-18T23:46:04.398241+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 21:35 UTC  
+**Last Updated:** June 18, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,982.38
+### $62,900.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -1.0%  
-**30d:** -18.8%  
-**90d:** -8.4%  
+**24h:** -2.5%  
+**7d:** -1.1%  
+**30d:** -18.9%  
+**90d:** -8.5%  
 **1y:** -39.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1260.68B
+**Market Cap:** $1260.06B
 Rank #1
 
-**Circulating Supply:** 20,044,675 BTC
+**Circulating Supply:** 20,044,709 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.1%
 
 **All-Time Low:** $67.81
-+92663.6%
++92597.2%
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 2d ago
+🔗 [youtu.be](https://youtu.be/r2X04I6yGdY) • 3d ago
 
 ---
 
@@ -141,7 +141,7 @@ Years ago when I first read The Richest Man in Babylon, a lot of my thinking abo
 
 **[Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1u5zldd/study_bitcoin/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -157,23 +157,9 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
+**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
 
-Barron's • 9h ago
-
----
-
-**[Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says](https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says)**
-
-Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.
-
-CoinDesk • 16h ago
-
----
-
-**[Michael Saylor’s Bitcoin Flywheel Has a Preferred Stock Problem](https://www.bloomberg.com/news/newsletters/2026-06-18/michael-saylor-s-bitcoin-flywheel-has-a-preferred-stock-problem)**
-
-Bloomberg.com • 34m ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -181,21 +167,29 @@ Bloomberg.com • 34m ago
 
 Strategy’s flagship preferred stock is facing pressure, but analysts say that's not yet an existential threat for the Bitcoin treasury giant.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin Whale Pays Price For Borrowing Binge As Buying Power Flags](https://www.investors.com/news/bitcoin-price-strategy-faces-more-dilution-crypto-buying-power-flags/)**
+**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
 
-Investor's Business Daily • 1d ago
+Barron's • 12h ago
 
 ---
 
-**[Why Coinbase CEO Brian Armstrong believes bitcoin has bottomed](https://finance.yahoo.com/video/why-coinbase-ceo-brian-armstrong-believes-bitcoin-has-bottomed-132933738.html)**
+**[Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says](https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says)**
 
-Coinbase CEO Brian Armstrong explains to Yahoo Finance Executive Editor Brian Sozzi his recent prediction that Bitcoin has bottomed out around $60k, and why he believes this will ignite its next growth phase.
+Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.
 
-Yahoo Finance • 8h ago
+CoinDesk • 18h ago
+
+---
+
+**[Nobel-winning economist has stark Bitcoin warning for SpaceX bulls](https://finance.yahoo.com/markets/crypto/articles/nobel-winning-economist-stark-bitcoin-230000083.html)**
+
+When Elon Musk's spaceflight and artificial intelligence (AI) company SpaceX made its public debut on June 12, the first thing that caught the attention of the crypto community was the firm's large Bitcoin (BTC) holdings. With 18,712 Bitcoin on its balance sheet as of March 31, ...
+
+Yahoo Finance • 46m ago
 
 ---
 
@@ -207,11 +201,11 @@ CNBC • 1d ago
 
 ---
 
-**[STRC Is Junk Credit In A Bitcoin Costume, And Retail Is Holding $8.8 Billion Of It](https://bitcoinmagazine.com/markets/strc-is-junk-credit-in-a-bitcoin-costume-and-retail-is-holding-8-8-billion-of-it)**
+**[JPMorgan says bitcoin mining economics have 'worsened' as BTC trades below production cost](https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost)**
 
-There is now $15 billion sitting in three securities being marketed to bitcoin holders as the safer, smarter way to access bitcoin exposure: Strategy's
+JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.
 
-Bitcoin Magazine • 18m ago
+The Block • 5h ago
 
 ---
 
@@ -223,9 +217,19 @@ vaneck.com • 2d ago
 
 ---
 
-**[Bitcoin mining plan at vacant East Texas auto shop sparks backlash](https://www.chron.com/texas/article/tyler-texas-bitcoin-mining-vulcan-core-22309380.php)**
+**[STRC Is Junk Credit In A Bitcoin Costume, And Retail Is Holding $8.8 Billion Of It](https://bitcoinmagazine.com/markets/strc-is-junk-credit-in-a-bitcoin-costume-and-retail-is-holding-8-8-billion-of-it)**
 
-Chron • 9h ago
+There is now $15 billion sitting in three securities being marketed to bitcoin holders as the safer, smarter way to access bitcoin exposure: Strategy's
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[‘Bigger Than 2008’—Serious $10 Trillion Fed Crash Warning Sparks Huge Bitcoin Price Prediction](https://www.forbes.com/sites/digital-assets/2026/06/18/bigger-than-2008-serious-10-trillion-fed-crash-warning-sparks-huge-bitcoin-price-prediction/)**
+
+Closely watched trader Arthur Hayes has predicted an AI "credit event" is about to crash the market and blow up the bitcoin price...
+
+Forbes • 11h ago
 
 ---
 
@@ -317,23 +321,43 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 ## YouTube Videos: "bitcoin"
 
-**[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
-
-The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 149 • ⏱️ 12:12 • 23h ago
-
----
-
 **[The Fed just shocked Bitcoin holders: What happens next?](https://www.youtube.com/watch?v=eJ_nllBoiYE)**
 
 Solana Policy Institute president & Blockchain Association Board Chair Kristin Smith joins 'Mornings with Maria' to discuss the ...
 
 📺 Fox Business
 
-👁️ 84K • 👍 2K • 💬 526 • ⏱️ 10:23 • 7h ago
+👁️ 107K • 👍 2K • 💬 606 • ⏱️ 10:23 • 9h ago
+
+---
+
+**[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
+
+The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 3K • 💬 140 • ⏱️ 12:12 • 1d ago
+
+---
+
+**[Uh Oh! Michael Saylor Is About to Crash Bitcoin? (i&#39;m sorry)](https://www.youtube.com/watch?v=ea46IMwPLTE)**
+
+Trade Stocks & Crypto on Bitget: https://www.bitget.com/ Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 614 • 💬 71 • ⏱️ 13:44 • 2h ago
+
+---
+
+**[Will Bitcoin Get a Macro Relief Rally?](https://www.youtube.com/watch?v=cltI8IEZmvU)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 665 • 💬 224 • ⏱️ 55:00 • 9h ago
 
 ---
 
@@ -343,7 +367,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 901 • 💬 388 • ⏱️ 8:56 • 20h ago
+👁️ 18K • 👍 908 • 💬 422 • ⏱️ 8:56 • 22h ago
+
+---
+
+**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
+
+No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
+
+📺 Gareth Soloway
+
+👁️ 42K • 👍 4K • 💬 226 • ⏱️ 16:06 • 12h ago
 
 ---
 
@@ -357,53 +391,23 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 ---
 
-**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
+**[Strategy&#39;s STRC is Collapsing! Will Saylor Be Forced to Sell More Bitcoin?](https://www.youtube.com/watch?v=qFQogwagyUQ)**
 
-No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
+Strategy's STRC is breaking down, and the panic around Michael Saylor's Bitcoin strategy is getting louder. Is this the start of a ...
 
-📺 Gareth Soloway
+📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 212 • ⏱️ 16:06 • 10h ago
-
----
-
-**[A Smaller Rival Just Out-Engineered Saylor&#39;s Bitcoin Buying Machine](https://www.youtube.com/watch?v=3mcj2dwYZas)**
-
-While everyone watches Saylor, a smaller rival might be quietly out-engineering him, Matt Cole's Strive launched a product called ...
-
-📺 The Wolf Of All Streets
-
-👁️ 377 • 👍 16 • 💬 106 • ⏱️ 1:31 • 1h ago
+👁️ 6K • 👍 796 • 💬 165 • ⏱️ 17:03 • 2h ago
 
 ---
 
-**[Why BlackRock Thinks Bitcoin Goes to $750k (XRP &amp; TAO news)](https://www.youtube.com/watch?v=at3WIe_ugrI)**
+**[NFA Live! Bitcoin, AI, FOMC, SpaceX, World Cup](https://www.youtube.com/watch?v=xutthOFM_RA)**
 
-Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
+Let's talk about Bitcoin, AI, SpaceX, FOMC, and the world cup! 0:00 - NFA Live (6/18/26) 0:12 - Today's Program 0:37 - What's Up ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 42K • 👍 2K • 💬 274 • ⏱️ 9:06 • 2d ago
-
----
-
-**[The Firm Behind the Bitcoin Crash Just Warned You. I&#39;m Leaving X](https://www.youtube.com/watch?v=QSiXRNaQCd4)**
-
-WIntermute just gave us all a warning The same market maker tied to October 6th is now warning Bitcoin could fall into the ...
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 938 • 💬 91 • ⏱️ 19:51 • 2d ago
-
----
-
-**[REJECTED: This Bitcoin Analysis Will Save You!](https://www.youtube.com/watch?v=1FR-GnH8qzU)**
-
-In today's live crypto market update, Kyledoops breaks down exactly what to expect next for Bitcoin following what looks to be a ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 954 • 💬 3 • ⏱️ 32:01 • 13h ago
+👁️ 14K • 👍 888 • 💬 39 • ⏱️ 30:33 • 9h ago
 
 ---
 
@@ -413,7 +417,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 154 • 💬 116 • ⏱️ 33:03 • 5h ago
+👁️ 3K • 👍 176 • 💬 144 • ⏱️ 33:03 • 7h ago
 
 ---
 

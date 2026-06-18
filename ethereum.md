@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-18T21:35:00.916975+00:00'
+updated: '2026-06-18T23:46:04.404245+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 21:35 UTC  
+**Last Updated:** June 18, 2026 at 23:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +2.5%  
-**30d:** -19.8%  
-**90d:** -18.0%  
+**24h:** -2.5%  
+**7d:** +2.6%  
+**30d:** -19.7%  
+**90d:** -17.9%  
 **1y:** -32.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $206.24B
 Rank #2
 
-**Circulating Supply:** 120,684,073 ETH
+**Circulating Supply:** 120,684,032 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-65.5%
 
 **All-Time Low:** $0.43
-+414030.9%
++394445.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d034da533dbefeec0c1e172e5cc7fddd6d433 My latest article on Ethereum institutions (past, present, and future) and their political economy: Subtraction and Legitimacy The Funding Crisis Succession Planning Read/discuss/share here: Farcaster: https://farcaster.xyz/trent/0x9b4b522f Twitter https://x.com/trent_vanepps/status/206759312439898955 Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction I believe this is a critical time to establish institutions for our next decade, and beyond. I worked at the Ethereum Foundation for 5 years coordinating core development, Protocol Guild funding, and political economy research. Subtraction successfully signals reduced EF power yet legitimacy stubbornly pools at the Foundation via brand, Vitalik affiliation, treasury, and assets. Treasury constraints and CIP expiration risk a slow-burning funding crisis that threatens institutional capacity for protocol maintenance and upgrades. EF will not steward Ethereum's next decade; a reset of social, political, and economic contracts is needed for effective institutional succession. New mechanisms must enable scalable neutral funding, steward interdependent resources, and prioritize broad adoption for the World Computer.
 
-6h ago
+8h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
 
-CoinDesk • 5h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -172,31 +172,7 @@ TipRanks • 3d ago
 
 Leading cryptocurrencies were red, while stock futures rallied overnight on Wednesday after President Donald Trump signed a historic "Memorandum of Understanding" with Iran to end all hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)-1.36%$64,604.40Ethereum (CRYPTO: ETH) -1.61%$1,755.43XRP (CRYPTO: XRP) -1.70%$1.18Solana (CRYPTO: SOL) -1.29%$72.35Dogecoin (CRYPTO: DOGE) -1.02%$0.08619 Crypto Market Fails To Rally Bitcoin retreated from $66,000 to
 
-Yahoo Finance • 19h ago
-
----
-
-**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
-
-Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
-
-Benzinga • 4h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP slip as Fed rate hike bets rise](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-pare-losses-on-increasing-bets-of-fed-tighter-monetary-policy-202606181200)**
-
-Cryptocurrency prices are broadly moderating downwards on Thursday, as market participants assess the impact of the Federal Reserve’s (Fed) hawkish monetary policy stance. Bitcoin (BTC) edges lower, with support at $64,000 holding.
-
-FXStreet • 9h ago
-
----
-
-**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://www.fool.com/investing/2026/06/18/the-worlds-biggest-ethereum-treasury-company-just/)**
-
-When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
-
-The Motley Fool • 10h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -204,23 +180,7 @@ The Motley Fool • 10h ago
 
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
-Decrypt • 4h ago
-
----
-
-**[Pepeto Exchange Upgrade Reaches Binance Level While the Ethereum Price Prediction From Hayes Maps $10,000 and Solana Meme Coins Crash](https://markets.businessinsider.com/news/stocks/pepeto-exchange-upgrade-reaches-binance-level-while-the-ethereum-price-prediction-from-hayes-maps-10-000-and-solana-meme-coins-crash-1036258274)**
-
-DUBAI, United Arab Emirates, June  18, 2026  (GLOBE NEWSWIRE) -- Pepeto just completed a major upgrade on its exchange in a week where every Ether...
-
-markets.businessinsider.com • 18h ago
-
----
-
-**[Ethereum (ETH) Price Stalls Near Key Support, But On-Chain Data Tells a Different Story](https://coinpedia.org/price-analysis/ethereum-eth-price-stalls-near-key-support-but-on-chain-data-tells-a-different-story/)**
-
-Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
-
-Coinpedia • 8h ago
+Decrypt • 6h ago
 
 ---
 
@@ -228,7 +188,47 @@ Coinpedia • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
+
+---
+
+**[Pepeto Exchange Upgrade Reaches Binance Level While the Ethereum Price Prediction From Hayes Maps $10,000 and Solana Meme Coins Crash](https://markets.businessinsider.com/news/stocks/pepeto-exchange-upgrade-reaches-binance-level-while-the-ethereum-price-prediction-from-hayes-maps-10-000-and-solana-meme-coins-crash-1036258274)**
+
+DUBAI, United Arab Emirates, June  18, 2026  (GLOBE NEWSWIRE) -- Pepeto just completed a major upgrade on its exchange in a week where every Ether...
+
+markets.businessinsider.com • 20h ago
+
+---
+
+**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
+
+Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
+
+Benzinga • 6h ago
+
+---
+
+**[Ethereum (ETH) Price Stalls Near Key Support, But On-Chain Data Tells a Different Story](https://coinpedia.org/price-analysis/ethereum-eth-price-stalls-near-key-support-but-on-chain-data-tells-a-different-story/)**
+
+Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
+
+Coinpedia • 10h ago
+
+---
+
+**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://www.fool.com/investing/2026/06/18/the-worlds-biggest-ethereum-treasury-company-just/)**
+
+When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
+
+Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
+
+TradingView • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 139 • 💬 51 • ⏱️ 43:15 • 7h ago
+👁️ 5K • 👍 144 • 💬 51 • ⏱️ 43:15 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 6K • 👍 234 • 💬 30 • ⏱️ 38:25 • 1d ago
+👁️ 6K • 👍 237 • 💬 30 • ⏱️ 38:25 • 1d ago
 
 ---
 
@@ -262,17 +262,7 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 216 • 💬 15 • ⏱️ 6:57 • 1d ago
-
----
-
-**[BITCOIN WARNING CONFIRMED: Trading Strategy Update!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7tnPqKEsWmE)**
-
-BITCOIN WARNING CONFIRMED: Trading Strategy Update!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 322 • 💬 309 • ⏱️ 22:53 • 12h ago
+👁️ 5K • 👍 215 • 💬 15 • ⏱️ 6:57 • 1d ago
 
 ---
 
@@ -282,7 +272,27 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 402 • 💬 123 • ⏱️ 13:00 • 11h ago
+👁️ 6K • 👍 411 • 💬 229 • ⏱️ 13:00 • 13h ago
+
+---
+
+**[BITCOIN WARNING CONFIRMED: Trading Strategy Update!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7tnPqKEsWmE)**
+
+BITCOIN WARNING CONFIRMED: Trading Strategy Update!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 328 • 💬 336 • ⏱️ 22:53 • 14h ago
+
+---
+
+**[Pay Attention Now. Crypto, DeFi, Ethereum, PulseChain.](https://www.youtube.com/watch?v=w_AYH7KQGDI)**
+
+You have to believe in something!* This is not financial advice! Be ready for the bull run! Support me :) ETH/PLS address: ...
+
+📺 Khalid on Crypto
+
+👁️ 97 • 👍 20 • 💬 14 • ⏱️ 18:15 • 2h ago
 
 ---
 
@@ -292,17 +302,7 @@ CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/
 
 📺 Marzell Crypto
 
-👁️ 363 • 👍 18 • 💬 156 • ⏱️ 2:27 • 1d ago
-
----
-
-**[This Ethereum Upgrade Changes Everything](https://www.youtube.com/watch?v=D57-3dCumyw)**
-
-Crypto may have just solved one of its biggest problems. For years, bridge hacks have cost the industry billions. But new ...
-
-📺 Lamia web 3 crypto
-
-👁️ 313 • 👍 2 • ⏱️ 0:39 • 16h ago
+👁️ 369 • 👍 19 • 💬 156 • ⏱️ 2:27 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ While Bitcoin experiences $325 million in outflows and Ethereum sees millions, X
 
 📺 Working Money Channel
 
-👁️ 552 • 👍 10 • 💬 1 • ⏱️ 0:32 • 1d ago
+👁️ 575 • 👍 10 • 💬 1 • ⏱️ 0:32 • 1d ago
 
 ---
 
