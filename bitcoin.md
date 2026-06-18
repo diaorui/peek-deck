@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-17T22:58:20.838257+00:00'
+updated: '2026-06-18T00:21:24.334659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 17, 2026 at 22:58 UTC  
+**Last Updated:** June 18, 2026 at 00:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,409.93
+### $64,503.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +1.2%  
-**30d:** -16.3%  
-**90d:** -8.7%  
-**1y:** -38.7%  
+**24h:** -1.9%  
+**7d:** +1.7%  
+**30d:** -16.6%  
+**90d:** -5.9%  
+**1y:** -38.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.49B
+**Market Cap:** $1295.01B
 Rank #1
 
-**Circulating Supply:** 20,044,156 BTC
+**Circulating Supply:** 20,044,203 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-48.7%
 
 **All-Time Low:** $67.81
-+94691.3%
++95192.7%
 
 ---
 
@@ -141,7 +141,7 @@ Years ago when I first read The Richest Man in Babylon, a lot of my thinking abo
 
 **[Study Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1u5zldd/study_bitcoin/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -161,7 +161,7 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
 
-CoinDesk • 42m ago
+CoinDesk • 3h ago
 
 ---
 
@@ -169,13 +169,29 @@ CoinDesk • 42m ago
 
 The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the expected result, yet Bitcoin and other assets dipped.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[FOMC News Update: Bitcoin Dips 1% to $65,417, Gold Falls $40, Dollar Surges as Hawkish Fed Dot Plot Rattles Markets](https://www.binance.com/en/square/post/335175634395457)**
+**[Bitcoin little-changed at $65k with Fed meeting in focus; Uniswap surges](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-65k-with-fed-meeting-in-focus-uniswap-surges-4746500)**
 
-Binance • 4h ago
+Investing.com • 17h ago
+
+---
+
+**[Bitcoin Is Totally Useless As Money, Not Because It’s Declining](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
+
+With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
+
+Forbes • 3d ago
+
+---
+
+**['Passive' investors who dodged bitcoin are now forced to own SpaceX, which is three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
+
+Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
+
+CNBC • 12h ago
 
 ---
 
@@ -203,35 +219,17 @@ Forbes • 2d ago
 
 ---
 
-**[Applied Digital’s $1.59B Raise, Illinois’s Bitcoin Transaction Tax, Why SaaS Bonds May Be in Trouble](https://finance.yahoo.com/video/applied-digital-1-59b-raise-205400564.html)**
+**[Bitcoin Whale Pays Price For Borrowing Binge As Buying Power Flags](https://www.investors.com/news/bitcoin-price-strategy-faces-more-dilution-crypto-buying-power-flags/)**
 
-Applied Digital closed a $1.59 billion senior secured note raise, and Illinois will now take a piece of every bitcoin exchange/broker transaction.
-
-Yahoo Finance • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
-**[What Illinois’s bitcoin transaction tax actually means](https://finance.yahoo.com/video/illinois-bitcoin-transaction-tax-actually-212011106.html)**
+**[Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham](https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham)**
 
-Illinois will now tax brokers and exchanges 0.2% for every bitcoin and crypto transaction.
+Bhutan transferred 533 BTC worth $34.5 million to Binance, leaving state-linked wallets holding 1,749.96 BTC, Arkham data shows.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Billionaire with 70% of portfolio in Bitcoin makes bold prediction](https://finance.yahoo.com/markets/crypto/articles/billionaire-70-portfolio-bitcoin-makes-220500912.html)**
-
-One of Latin America's wealthiest individuals, Mexican billionaire Ricardo Salinas Pliego has been bullish on Bitcoin (BTC) for years. In fact, the billionaire holds 70% of his investment portfolio in the cryptocurrency as he believes fiat currencies are going to lose purchasing power ...
-
-Yahoo Finance • 53m ago
-
----
-
-**['Passive' investors who dodged bitcoin are now forced to own SpaceX, which is three times more volatile](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)**
-
-Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
-
-CNBC • 11h ago
+The Block • 9h ago
 
 ---
 
@@ -267,7 +265,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 9h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 10h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -329,7 +327,17 @@ Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 175 • ⏱️ 9:06 • 1d ago
+👁️ 39K • 👍 2K • 💬 211 • ⏱️ 9:06 • 1d ago
+
+---
+
+**[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
+
+The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 910 • 💬 70 • ⏱️ 12:12 • 2h ago
 
 ---
 
@@ -339,7 +347,7 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 242 • ⏱️ 15:41 • 1d ago
+👁️ 24K • 👍 2K • 💬 236 • ⏱️ 15:41 • 1d ago
 
 ---
 
@@ -349,7 +357,7 @@ Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
 
 📺 100XClub
 
-👁️ 8K • 👍 850 • 💬 163 • ⏱️ 2:03 • 14h ago
+👁️ 8K • 👍 855 • 💬 179 • ⏱️ 2:03 • 16h ago
 
 ---
 
@@ -359,27 +367,47 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 884 • 💬 84 • ⏱️ 19:51 • 1d ago
+👁️ 15K • 👍 894 • 💬 88 • ⏱️ 19:51 • 1d ago
 
 ---
 
-**[Why You Should Never Sell Your Bitcoin!](https://www.youtube.com/watch?v=q4Pty8riw9s)**
+**[Something VERY BIG Is Happening With Bitcoin Right Now - Jack Mallers &amp; James Lavish](https://www.youtube.com/watch?v=yEgy6kWabNQ)**
 
-Dante talks about Why You Should Never Sell Your Bitcoin! Brought to you by Bitcoinwell.com a bitcoin-only platform on a mission ...
+Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
 
-📺 Simply Bitcoin
+📺 Savvy Finance
 
-👁️ 1K • 👍 27 • 💬 147 • ⏱️ 0:26 • 9h ago
+👁️ 530 • 👍 41 • 💬 99 • ⏱️ 17:47 • 3h ago
 
 ---
 
-**[I BATTLED Peter Schiff Over Gold Vs. Bitcoin On National TV](https://www.youtube.com/watch?v=Zz0xa998K2Y)**
+**[The Real Case for Bitcoin Over AI](https://www.youtube.com/watch?v=f3XoBNezLAc)**
 
-It's always fun to spar with Peter Schiff about Bitcoin and gold. This time, we did it in front of a TV audience on Fox Business.
+AI is making intelligence abundant. Bitcoin is making scarcity absolute. In this video, I break down why Bitcoin becomes even ...
 
-📺 From The Desk Of Anthony Pompliano
+📺 Swan Bitcoin
 
-👁️ 8K • 👍 450 • 💬 190 • ⏱️ 11:45 • 1d ago
+👁️ 481 • 👍 54 • 💬 231 • ⏱️ 20:23 • 3h ago
+
+---
+
+**[Has Crypto Bottomed, or Just Another Bounce?](https://www.youtube.com/watch?v=BYR8Adb-iCE)**
+
+Watch full June crypto update now: ...
+
+📺 Fundstrat
+
+👁️ 756 • 👍 26 • 💬 22 • ⏱️ 2:47 • 3h ago
+
+---
+
+**[Bitcoin Faces Major FED Decision - Should We Be Concerned?](https://www.youtube.com/watch?v=NnK_xqQVgOA)**
+
+Bitcoin #Crypto #Finance Bitcoin's relief rally faces its first real test today as Warsh's first FOMC meeting lands — markets are ...
+
+📺 The Wolf Of All Streets
+
+👁️ 7K • 👍 389 • 💬 170 • ⏱️ 28:46 • 10h ago
 
 ---
 
@@ -389,37 +417,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 189 • 💬 36 • ⏱️ 43:02 • 7h ago
-
----
-
-**[Bitcoin Is Going To $7M – Saylor Says &quot;It&#39;s Inevitable&quot;](https://www.youtube.com/watch?v=5Ud-53eL2Ic)**
-
-Bitcoin #Crypto #Finance Bitcoin just SMASHED past $66000 — its highest level in over a week — as the Iran peace deal ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 579 • 💬 196 • ⏱️ 51:36 • 1d ago
-
----
-
-**[Can You Trust Bitcoin Treasury Company Clowns?](https://www.youtube.com/watch?v=SaqagEd1XoE)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss whether or not you can trust Bitcoin ...
-
-📺 Bitcoin University
-
-👁️ 8K • 👍 888 • 💬 388 • ⏱️ 11:51 • 1d ago
-
----
-
-**[Is Bitcoin About To Get Rejected Here?](https://www.youtube.com/watch?v=glKZ6CilVtQ)**
-
-In today's video, Kyledoops outlines why the following hours will be critical for Bitcoin price. There are macro factors aligning with ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 1K • 💬 14 • ⏱️ 33:32 • 1d ago
+👁️ 3K • 👍 204 • 💬 112 • ⏱️ 43:02 • 9h ago
 
 ---
 
