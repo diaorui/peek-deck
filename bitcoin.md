@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-18T00:21:24.334659+00:00'
+updated: '2026-06-18T05:17:42.498201+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - videos
 - cryptocurrency
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 00:21 UTC  
+**Last Updated:** June 18, 2026 at 05:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,503.41
+### $63,764.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +1.7%  
-**30d:** -16.6%  
-**90d:** -5.9%  
-**1y:** -38.2%  
+**24h:** -2.6%  
+**7d:** +0.5%  
+**30d:** -17.6%  
+**90d:** -7.1%  
+**1y:** -39.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1295.01B
+**Market Cap:** $1280.10B
 Rank #1
 
-**Circulating Supply:** 20,044,203 BTC
+**Circulating Supply:** 20,044,290 BTC
 95.4% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-49.3%
 
 **All-Time Low:** $67.81
-+95192.7%
++94101.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 22
+### 15
 **EXTREME FEAR**
 
 ---
@@ -103,7 +103,7 @@ AI posts are getting a lot of traction on this sub: "Today I found 1 BTC" - guy 
 
 Bitcoin hit $126,000 in Oct 2025 and today its at $63,800which is down 50% from peak. Every outlet has a crash headline. and f&g index is at 13 extreme fear ​ the data they are not showing you. ​ 2013 : Bitcoin dropped 86% from peak,people said it was over. ​ 2017 : Bitcoin dropped 83% from peak. People said it was over. ​ 2021 :Bitcoin dropped 77% from peak,guess what they said ​ 2026 : Down 50%. And we havent even matched the mildest correction in Bitcoin history yet. ​ I think either this cycle is genuinely shallower because institutional etf floors and government bitcoin reserves changed the structure permanently or peter brandt is right and we retest $60,000 in September before the next bull cycle begins. ​ Whats different this time that nobody talked about in 2018 or 2022 is that ETF inflows remained structurally positive through the entire correction and institutions are now holding Bitcoin as long term portfolio allocation.The US government holds it as a strategic reserve asset ​ The reason for the crash always sounds definitive in the moment It never is. ​ i have been DCAing through all of it on bitpanda because I hve seen this exact feeling before and I know how it ended
 
-2d ago
+3d ago
 
 ---
 
@@ -161,29 +161,45 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.
 
-CoinDesk • 3h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-fed-says-deliver-182047932.html)**
+**[A Framework for Valuing Bitcoin Miners as AI Infrastructure](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/)**
 
-The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the expected result, yet Bitcoin and other assets dipped.
+How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Bitcoin little-changed at $65k with Fed meeting in focus; Uniswap surges](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-65k-with-fed-meeting-in-focus-uniswap-surges-4746500)**
-
-Investing.com • 17h ago
+vaneck.com • 1d ago
 
 ---
 
-**[Bitcoin Is Totally Useless As Money, Not Because It’s Declining](https://www.forbes.com/sites/johntamny/2026/06/14/bitcoins-uselessness-as-money-well-predates-its-recent-decline/)**
+**[Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck](https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck)**
 
-With it’s fixed supply, the cryptocurrency indicts monetarist and Austrian theory like nothing else.
+VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.
 
-Forbes • 3d ago
+CoinDesk • 1d ago
+
+---
+
+**[AI stock jumps over 157% amid billion-dollar deal](https://www.thestreet.com/crypto/markets/ai-stock-jumps-over-157-amid-billion-dollar-deal)**
+
+thestreet.com • 10h ago
+
+---
+
+**[Gold, Bitcoin, And The New Safe-Haven Playbook](https://www.forbes.com/sites/jasonkirsch/2026/06/17/gold-bitcoin-and-the-new-safe-haven-playbook/)**
+
+The Iran conflict that began on February 27, 2026, provided what analysts called a "real-time stress test" for the safe-haven claims of both gold and Bitcoin — and the results were not what the crypto community was hoping for. In the first 48 hours of the conflict, gold surged 5.2%. Bitcoin fell 12%. Over the following weeks, gold stabilized around $4,700 per ounce and held that level as central banks continued buying even as private investors took profits. Bitcoin declined to a low near $72,000 — a 35% drawdown from its 2025 highs — trading in lockstep with the Nasdaq and S&P 500 rather than as a safe haven. The 1-year rolling correlation between gold and Bitcoin dropped to -0.17 by February, implying genuine diversification rather than doubled exposure to the same thesis.
+
+Forbes • 48m ago
+
+---
+
+**[Trump Signs the US-Iran Peace MoU, but the Fed Stops Bitcoin’s Recovery Cold](https://finance.yahoo.com/markets/crypto/articles/trump-signs-us-iran-peace-041010209.html)**
+
+Trump signs the US-Iran peace MoU, but Bitcoin (BTC) fails to recover from the Fed's hawkish shock under chair Warsh.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +207,7 @@ Forbes • 3d ago
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-CNBC • 12h ago
+CNBC • 17h ago
 
 ---
 
@@ -219,20 +235,6 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin Whale Pays Price For Borrowing Binge As Buying Power Flags](https://www.investors.com/news/bitcoin-price-strategy-faces-more-dilution-crypto-buying-power-flags/)**
-
-Investor's Business Daily • 3h ago
-
----
-
-**[Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham](https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham)**
-
-Bhutan transferred 533 BTC worth $34.5 million to Binance, leaving state-linked wallets holding 1,749.96 BTC, Arkham data shows.
-
-The Block • 9h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -249,7 +251,7 @@ The Block • 9h ago
 
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
-⬆️ 6 • 💬 0 • 1d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
+⬆️ 6 • 💬 0 • 2d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
 
 ---
 
@@ -265,7 +267,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 10h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 15h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -289,7 +291,7 @@ Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 nativ
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 3 • 💬 0 • 2d ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+⬆️ 3 • 💬 0 • 3d ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
 
 ---
 
@@ -305,7 +307,7 @@ A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd develop
 
 The Bitcoin address you already control is your account. Sign one message to prove it — BIP-322, never a transaction. Six open protocols, three products, one identity. No custody, no token, no issuer. Every artifact verifies offline, forever.
 
-⬆️ 2 • 💬 0 • 1d ago • [OrangeCheck](https://ochk.io/)
+⬆️ 2 • 💬 0 • 2d ago • [OrangeCheck](https://ochk.io/)
 
 ---
 
@@ -321,23 +323,23 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ## YouTube Videos: "bitcoin"
 
-**[Why BlackRock Thinks Bitcoin Goes to $750k (XRP &amp; TAO news)](https://www.youtube.com/watch?v=at3WIe_ugrI)**
-
-Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 211 • ⏱️ 9:06 • 1d ago
-
----
-
 **[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
 
 The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 910 • 💬 70 • ⏱️ 12:12 • 2h ago
+👁️ 23K • 👍 2K • 💬 96 • ⏱️ 12:12 • 7h ago
+
+---
+
+**[Why BlackRock Thinks Bitcoin Goes to $750k (XRP &amp; TAO news)](https://www.youtube.com/watch?v=at3WIe_ugrI)**
+
+Limited Time: Trade SpaceX w/ Zero Fees ($60000 reward pool): https://www.weex.com/events/promo/spacex-608?
+
+📺 Altcoin Daily
+
+👁️ 39K • 👍 2K • 💬 214 • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -347,7 +349,7 @@ The AI trade has absorbed nearly all available capital, but every bubble eventua
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 236 • ⏱️ 15:41 • 1d ago
+👁️ 25K • 👍 2K • 💬 180 • ⏱️ 15:41 • 1d ago
 
 ---
 
@@ -357,7 +359,7 @@ Join The Community: https://bit.ly/FefeCommunity CHECK OUT FEFE'S SOLANA ...
 
 📺 100XClub
 
-👁️ 8K • 👍 855 • 💬 179 • ⏱️ 2:03 • 16h ago
+👁️ 8K • 👍 862 • 💬 196 • ⏱️ 2:03 • 21h ago
 
 ---
 
@@ -367,17 +369,7 @@ WIntermute just gave us all a warning The same market maker tied to October 6th 
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 894 • 💬 88 • ⏱️ 19:51 • 1d ago
-
----
-
-**[Something VERY BIG Is Happening With Bitcoin Right Now - Jack Mallers &amp; James Lavish](https://www.youtube.com/watch?v=yEgy6kWabNQ)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 530 • 👍 41 • 💬 99 • ⏱️ 17:47 • 3h ago
+👁️ 15K • 👍 909 • 💬 89 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -387,7 +379,17 @@ AI is making intelligence abundant. Bitcoin is making scarcity absolute. In this
 
 📺 Swan Bitcoin
 
-👁️ 481 • 👍 54 • 💬 231 • ⏱️ 20:23 • 3h ago
+👁️ 990 • 👍 86 • 💬 104 • ⏱️ 20:23 • 8h ago
+
+---
+
+**[This Is What Bitcoin Capitulation Looks Like](https://www.youtube.com/watch?v=gq7L085AJto)**
+
+Try XAPO and get $500 in BTC for signing up https://cryptolark.co/XAPO Bitcoin just had its most extreme capitulation signal in ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 378 • 💬 71 • ⏱️ 13:07 • 8h ago
 
 ---
 
@@ -397,17 +399,17 @@ Watch full June crypto update now: ...
 
 📺 Fundstrat
 
-👁️ 756 • 👍 26 • 💬 22 • ⏱️ 2:47 • 3h ago
+👁️ 1K • 👍 35 • 💬 8 • ⏱️ 2:47 • 8h ago
 
 ---
 
-**[Bitcoin Faces Major FED Decision - Should We Be Concerned?](https://www.youtube.com/watch?v=NnK_xqQVgOA)**
+**[Bitcoin Bulls Are Waking Up](https://www.youtube.com/watch?v=Vvl2mmgR5Sk)**
 
-Bitcoin #Crypto #Finance Bitcoin's relief rally faces its first real test today as Warsh's first FOMC meeting lands — markets are ...
+AskClash - *AI Intelligence for Crypto, Markets and News* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix Exchange ...
 
-📺 The Wolf Of All Streets
+📺 CryptosRUs
 
-👁️ 7K • 👍 389 • 💬 170 • ⏱️ 28:46 • 10h ago
+👁️ 15K • 👍 856 • 💬 216 • ⏱️ 54:21 • 2d ago
 
 ---
 
@@ -417,7 +419,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 204 • 💬 112 • ⏱️ 43:02 • 9h ago
+👁️ 3K • 👍 216 • 💬 37 • ⏱️ 43:02 • 14h ago
 
 ---
 
