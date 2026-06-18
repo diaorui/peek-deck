@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-18T12:54:12.653376+00:00'
+updated: '2026-06-18T16:33:24.091600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 18, 2026 at 12:54 UTC  
+**Last Updated:** June 18, 2026 at 16:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,728.89
+### $1,740.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +4.8%  
-**30d:** -17.9%  
-**90d:** -16.2%  
-**1y:** -30.7%  
+**24h:** -5.7%  
+**7d:** +1.1%  
+**30d:** -20.9%  
+**90d:** -19.2%  
+**1y:** -33.2%  
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 LG Electronics built L2 for advertising, Aave risk framework proposed, history of account abstraction
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 5d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-27/) • 6d ago
 
 ---
 
@@ -148,11 +148,11 @@ LG Electronics built L2 for advertising, Aave risk framework proposed, history o
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Thursday, June 18, 2026: Prices sliding despite Iran peace deal](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-18-2026-prices-sliding-despite-iran-peace-deal-115022443.html)**
+**[Google’s 20x Quantum Leap Threatens Ethereum’s Code as ETH Price Drops](https://www.tipranks.com/news/googles-20x-quantum-leap-threatens-ethereums-code-as-eth-price-drops)**
 
-Bitcoin opened at $64,450.44 on Thursday, June 18, 2026, down 1.8% from Wednesday's opening price. Ethereum opened at $1,748.91, down 2.3% from yesterday's opening price.
+A groundbreaking paper from Google’s ($GOOGL) Quantum AI team reveals that Google’s 20x quantum leap threatens Ethereum’s (ETH-USD) code. Researchers revealed that ...
 
-Yahoo Finance • 1h ago
+TipRanks • 3d ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1h ago
 
 When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -168,7 +168,23 @@ Yahoo Finance • 2h ago
 
 Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
+
+---
+
+**[Current price of Ethereum for June 18, 2026](https://fortune.com/article/price-of-ethereum-06-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[Which Cryptocurrency Fund is the better Bet? Fidelity Bitcoin Fund or iShares Ethereum ETF](https://www.fool.com/coverage/etfs/2026/06/18/which-cryptocurrency-fund-is-the-better-bet-fidelity-bitcoin-fund-or-ishares-ethereum-etf/)**
+
+Both ETFs launched in 2024 and offer regulated access to major cryptocurrencies for investors seeking exposure without using crypto exchanges.
+
+The Motley Fool • 36m ago
 
 ---
 
@@ -176,59 +192,39 @@ CoinDesk • 1d ago
 
 DUBAI, United Arab Emirates, June  18, 2026  (GLOBE NEWSWIRE) -- Pepeto just completed a major upgrade on its exchange in a week where every Ether...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
-**[Current price of Ethereum for June 17, 2026](https://fortune.com/article/price-of-ethereum-06-17-2026/)**
+**[Ethereum (ETH) Price Stalls Near Key Support, But On-Chain Data Tells a Different Story](https://coinpedia.org/price-analysis/ethereum-eth-price-stalls-near-key-support-but-on-chain-data-tells-a-different-story/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
 
-Fortune • 15h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin In Red Even As Trump Signs Iran Peace Deal: Analyst Says BTC In 'Fragile](https://www.benzinga.com/crypto/cryptocurrency/26/06/53267211/bitcoin-ethereum-xrp-dogecoin-slip-despite-trumps-iran-peace-deal-analyst-calls-btc-recovery-fragile)**
-
-Leading cryptocurrencies were red, while stock futures rallied overnight on Wednesday after President Donald Trump signed a historic &quot;Memorandum of Understanding&quot; with Iran to end all hostilities.
-
-Benzinga • 10h ago
+Coinpedia • 3h ago
 
 ---
 
-**[Ethereum Mini Trust Sees Subtle but Telling Outflow as ETH Slide Deepens](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-sees-subtle-but-telling-outflow-as-eth-slide-deepens)**
+**[Crypto Today: Bitcoin, Ethereum, XRP slip as Fed rate hike bets rise](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-pare-losses-on-increasing-bets-of-fed-tighter-monetary-policy-202606181200)**
 
-Grayscale’s Ethereum bet just flinched. The Grayscale Ethereum Mini Trust (ETH) logged outflows of $2.05 million on June 17, 2026, a modest but telling 0.13% of its...
+Cryptocurrency prices are broadly moderating downwards on Thursday, as market participants assess the impact of the Federal Reserve’s (Fed) hawkish monetary policy stance. Bitcoin (BTC) edges lower, with support at $64,000 holding.
 
-TipRanks • 2h ago
-
----
-
-**[Ethereum to $5,000 if CLARITY Act Passes? Bullish Theories Fly as Senator Predicts Ten-Fold Crypto Increase](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-clarity-act-140529273.html)**
-
-Ethereum bulls see a path to $5,000 if the CLARITY Act passes. Some analysts believe Wall Street's tokenization could drive valuations much higher. Institutional accumulation ...
-
-Yahoo Finance • 1d ago
+FXStreet • 4h ago
 
 ---
 
-**[How the bitcoin, ethereum playbook is evolving for Strategy and Bitmine](https://finance.yahoo.com/video/bitcoin-ethereum-playbook-evolving-strategy-120000578.html)**
+**[Hsiao-Wei Wang resigns as co-executive director of Ethereum Foundation](https://cryptobriefing.com/hsiao-wei-wang-resigns-ethereum-foundation/)**
 
-Scott Melker discusses Bitmine's (BMNR) current ethereum (ETH-USD) strategy, Strategy's (MSTR) bitcoin (BTC-USD) play, and more.
+Hsiao-Wei Wang resigns as Ethereum Foundation co-executive director, marking the second top leadership departure in four month.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
+Crypto Briefing • 1h ago
 
 ---
 
-**[Exclusive: Sharplink CEO Says Ethereum's Quantum And Cultural Edge Over Bitcoin Is The Moat Rivals 'Cannot Fork'](https://finance.yahoo.com/markets/crypto/articles/exclusive-sharplink-ceo-says-ethereums-122153104.html)**
+**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
 
-Sharplink CEO Chalom explained that Ethereum's edge is cultural and can't be copied.
+Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
 
-Yahoo Finance • 2d ago
+TradingView • 2d ago
 
 ---
 
@@ -242,27 +238,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 4K • 👍 200 • 💬 74 • ⏱️ 38:25 • 18h ago
-
----
-
-**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
-
-Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 198 • 💬 11 • ⏱️ 6:57 • 17h ago
-
----
-
-**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
-
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
-
-📺 Marzell Crypto
-
-👁️ 327 • 👍 18 • 💬 101 • ⏱️ 2:27 • 21h ago
+👁️ 5K • 👍 224 • 💬 57 • ⏱️ 38:25 • 21h ago
 
 ---
 
@@ -272,17 +248,27 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 127 • 💬 49 • ⏱️ 43:09 • 11h ago
+👁️ 4K • 👍 136 • 💬 50 • ⏱️ 43:15 • 2h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: HUGE URGENT WARNING!!!!!!!!](https://www.youtube.com/watch?v=LWfF9TzFN6c)**
+**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
 
-bitcoin, ethereum and crypto in general have bounced on the iran war news. Here are the details that you can keep in mind going ...
+Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
 
-📺 Thomas Kralow
+📺 More Crypto Online
 
-👁️ 16K • 👍 2K • 💬 112 • ⏱️ 8:35 • 2d ago
+👁️ 4K • 👍 206 • 💬 15 • ⏱️ 6:57 • 21h ago
+
+---
+
+**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
+
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
+
+📺 Marzell Crypto
+
+👁️ 359 • 👍 18 • 💬 166 • ⏱️ 2:27 • 1d ago
 
 ---
 
@@ -292,17 +278,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 213 • 💬 14 • ⏱️ 19:50 • 1d ago
+👁️ 4K • 👍 217 • 💬 14 • ⏱️ 19:50 • 1d ago
 
 ---
 
-**[ETH PULLBACK! Will It Rally Higher After? (Ethereum Update)](https://www.youtube.com/watch?v=90j3hyNmGvs)**
+**[Tom Lee&#39;s $9 BILLION Ethereum Disaster?](https://www.youtube.com/watch?v=bZM-J9l9xIc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Fundstrat's Tom Lee is down billions on his Ethereum bag, but he isn't selling a single coin. Here is why the legendary bull still ...
 
-📺 Cilinix Crypto
+📺 Lark Davis
 
-👁️ 437 • 👍 17 • 💬 3 • ⏱️ 5:04 • 1d ago
+👁️ 6K • 👍 122 • 💬 5 • ⏱️ 0:44 • 2d ago
+
+---
+
+**[Ethereum Foundation Stepped Away From ETH. Down 63%. Now They&#39;re Doubling Down | Dana Love, PhD](https://www.youtube.com/watch?v=05dnvP883cM)**
+
+ETH was abandoned by the Ethereum Foundation. In 2025, the EF called Ethereum "an infinite garden." Vitalik Buterin and Aya ...
+
+📺 Dana Love, PhD
+
+👁️ 15K • 👍 733 • 💬 174 • ⏱️ 13:29 • 2d ago
 
 ---
 
@@ -312,27 +308,27 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 377 • 👍 14 • 💬 1 • ⏱️ 6:20 • 16h ago
+👁️ 389 • 👍 14 • 💬 1 • ⏱️ 6:20 • 20h ago
 
 ---
 
-**[Matt Hougan : “The Real Bull Run Hasn’t Even Started Yet” [2026 Bitcoin &amp; Crypto Prediction]](https://www.youtube.com/watch?v=vUgE83vCzV8)**
+**[Coinbase&#39;s System Update Just Triggered the Next Ethereum Supercycle](https://www.youtube.com/watch?v=LyKzH7e_PTU)**
 
-Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell My FREE Daily 5-Min Crypto ...
+Coinbase's System Update event just dropped around 15 products in a single keynote, and most people completely missed why ...
 
-📺 Crypto Nutshell
+📺 The Coin Zone | Base & Ethereum
 
-👁️ 8K • 👍 221 • 💬 67 • ⏱️ 17:33 • 2d ago
+👁️ 57 • 👍 5 • ⏱️ 8:14 • 16h ago
 
 ---
 
-**[Tom Lee&#39;s Bold Prediction: Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=hFbssT4rXuM)**
+**[XRP Still Needs This While Bitcoin Price Chart, Ethereum &amp; Total Market Cap Hit Historic Bottom Mark](https://www.youtube.com/watch?v=Cw2rTKbeT2s)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Savvy Finance
+📺 Blockchain Backer
 
-👁️ 6K • 👍 205 • 💬 33 • ⏱️ 15:17 • 2d ago
+👁️ 30K • 👍 3K • 💬 122 • ⏱️ 23:56 • 2d ago
 
 ---
 

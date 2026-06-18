@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-18T12:54:12.656660+00:00'
+updated: '2026-06-18T16:33:24.094461+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 18, 2026 at 12:54 UTC  
+**Last Updated:** June 18, 2026 at 16:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,61 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Boston Dynamics Atlas Product Director on Humanoid ROI](https://www.reddit.com/r/robotics/comments/1u8e4xf/boston_dynamics_atlas_product_director_on/)**
+**[Look at the little robot I build!](https://www.reddit.com/r/robotics/comments/1u95gwg/look_at_the_little_robot_i_build/)**
 
-Aya Durbin says humanoid robots need to prove real customer value before they can scale. She says the goal for Atlas is not just to be impressive, but to deliver positive ROI for customers. Boston Dynamics is focusing on industrial environments first, especially work that is hard to hire for, physically demanding and difficult to automate with traditional systems. She also says customers need robots that are reliable, useful and able to become a trusted part of the workforce.
+3h ago
 
-20h ago
+---
+
+**[(Mostly) 3D printed robot arm project](https://www.reddit.com/r/robotics/comments/1u99ot3/mostly_3d_printed_robot_arm_project/)**
+
+54m ago
+
+---
+
+**[I use my hand to control Iron Man's helmet](https://www.reddit.com/r/robotics/comments/1u8xlm1/i_use_my_hand_to_control_iron_mans_helmet/)**
+
+11h ago
+
+---
+
+**[RealSense Releases New D585 AI-Native Stereo Camera](https://www.reddit.com/r/robotics/comments/1u99qz3/realsense_releases_new_d585_ainative_stereo_camera/)**
+
+Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense-unveils-the-d585-pro-and-perception-studio/
+
+51m ago
+
+---
+
+**[OpenPaw — open-source pet robot with real-time spatial navigation using Auki portals](https://www.reddit.com/r/robotics/comments/1u9502l/openpaw_opensource_pet_robot_with_realtime/)**
+
+I've been working on an open-source pet companion robot called OpenPaw, and wanted to share the navigation system I built for it. The hardware is an ESP32-S3 running ESP-IDF with a camera, DRV8833 motor driver, VL53L0X distance sensor, and MLX90634 temp sensor. It hosts its own WiFi AP — no cloud, no internet needed. The navigation works like this: I created virtual portals in my home using the Auki posemesh network (like GPS waypoints indoors). Each portal has X, Y, Z coordinates. A phone app built with Flutter connects to a local bridge API and loads these portals. When you scan a portal QR code with the phone's camera, the app records your position AND compass heading using the phone's magnetometer. This gives the robot both location and orientation — the two things needed for autonomous movement. The robot runs a PWM-based odometry task that estimates its position from motor commands every 50ms. A /api/pose endpoint returns real-time X, Y, and heading. A /api/trajectory endpoint logs the full path. The app shows all this on a 2D map overlay with portal markers, the robot's position, heading arrow, and traveled path updating every 500ms. The portal dropdown on the control screen lets you select any destination. The app calculates direction and distance from the robot's current position to the target in real time. The entire stack — ESP-IDF firmware, Flutter app, Auki bridge API — is open source. Build guide and schematics are documented. What navigation approaches have you used for indoor robots without GPS? I'm planning to add wheel encoders next for better accuracy.
+
+4h ago
+
+---
+
+**[ME to Robotics?](https://www.reddit.com/r/robotics/comments/1u99wfd/me_to_robotics/)**
+
+I'm currently pursuing an M.Tech in Mechanical Engineering and have been considering a transition into Robotics. My exposure to robotics is limited to basic theoretical concepts like kinematics, and I don't have any hands-on robotics experience. For those already working in the field, is it worth making the switch at this stage? How challenging is it to break into robotics from a mechanical background, and what does the career growth look like? I'd appreciate any honest insights from people who have been through a similar journey.
+
+45m ago
+
+---
+
+**[ICRA/IROS transfer review process](https://www.reddit.com/r/robotics/comments/1u91k6s/icrairos_transfer_review_process/)**
+
+Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS transfer review process? I submitted through the transfer option for IROS and was rejected, so I’m trying to better understand how the process works. What can reviewers see: the previous reviews, only the author response/revision summary, or something else? For those with experience, did the transfer process feel helpful, or could it bias reviewers since they know the paper was previously rejected? Any insights from the reviewer or author side would be appreciated.
+
+7h ago
+
+---
+
+**[Isolating a device to a different CAN line](https://www.reddit.com/r/robotics/comments/1u96gqp/isolating_a_device_to_a_different_can_line/)**
+
+So we're using an ESP32S with a TJA1050 transceiver and basically we're using this setup to operate a rover using ROS2 Humble and MAVLink commands, so it has a lot of modules like actuators, PDB, mini-arm, and etc connected through a CAN bus network. Now the issue is that we will be using multiple BLDCs for our rover's arm and these motors continuously send out updates (or heartbeats or sth) so using these BLDCs in the same network seems like the MCU will lag or slow down and just be downright ineffective. So is there any way to isolate the motors to a different network or CAN line? I was thinking of adding another MCU on top of the ESP32 to only handle the motors but is there an alternative to this approach, preferably one without adding more hardware?
+
+2h ago
 
 ---
 
@@ -44,69 +94,13 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Hey everybody! Hobbyist here with an update on my cheap rover swarm project. I've been trying out Depth Anything 3 and wanted to share, because the results of such minimal hardware surprised me. The setup: each rover is just a XIAO ESP32-S3 Sense (~$15 board with a tiny onboard camera) in a 3D printed body. The ESP32 is basically a sender, it streams the camera over WiFi and reports temperature/battery/telemetry. All the heavy lifting (DA3 inference, navigation) runs on a PC that acts as the brain. No lidar, no depth sensor, one cheap RGB camera. DA3 gives me a point cloud per frame and can merge multiple frames into a larger cloud. Seeing a $15 camera produce a usable 3D-ish image of the room is still kind of wild to me. Eventually I want to use it for navigation - a kind of "poor man's lidar". It estimates what's near at three heights (eye level, above, below) to give a rough obstacle sense without a dedicated sensor. Secondly for visualization at the moment, but the goal is to stitch frames into an environment map. Positioning is currently handled by ArUco markers around the room (solvePnP). Still early and held together with hope, but it's been fun pushing this hardware further than it wamts to go. :-)
 
-21h ago
-
----
-
-**[Hand project posponed to September](https://www.reddit.com/r/robotics/comments/1u8kkjr/hand_project_posponed_to_september/)**
-
-So this is my 2nd project and final project in high school, quite ambitious i gotta say. I was trying to make a anthropomorphic robotic hand . So i grabbed the palm and finger design from here. But i wanted to make my own thingys where the strings are attached , and add adduction ( fingers get clamped together). I learned how to use fusion and how to 3d print , i didnt know what was clearance. I learned that quickly . I dont have a 3d printer at home so i needed to pay for everything , i spent all my budget for this project , and i was so close to finishing everything but , my strings lacked tension and some 3d printed parts broke and i really dont want to spend more money. I finally decided to postpone the project until september because i got in an engineering school and i hope they have a 3d printer i can use freely. On top of that i think its better to try out some new stuff throughout the summer like i want to make those plasma ball thingys with the glass surrounding it and you can touch it. I am a little disappointed cause i was so close but let's see. I left you some pics too ​
-
-17h ago
-
----
-
-**[Target : autonomous robots for mapping](https://www.reddit.com/r/robotics/comments/1u8mcei/target_autonomous_robots_for_mapping/)**
-
-Hi r/robotics ! I’m currently working on a robotic car project for mapping, and I’d like to share my progress and get some feedback from the community. So far, the main issues I’ve encountered (and resolved) are as follows: - Synchronizing the car’s position on the map (as indicated by the gyroscope) with the position of the digitized image based on the car’s position - Managing the motors’ power supply (complex wiring) However, there are still a few issues for which I could use some advice. - It seems that over time, a discrepancy is developing between the robot’s position on the map and its actual position as measured by the gyroscope. Is this an inaccuracy in the gyroscope that could be corrected through code? - The scanner works but remains fairly inaccurate; any recommendations are welcome - The robot’s path tends to veer off course, so I’m considering adding speed encoders to implement a path correction system (I assume the problem stems from the fact that the speed of each motor isn’t always precise) My goal is to build a fully autonomous car capable of mapping its surroundings (I'll add a webcam). Feel free to share any ideas you might have. my target is build a full self driving car able to mapping his environment ( i will adding webcam). Github : https://github.com/enzocolombat/EC-Hub/
-
-15h ago
-
----
-
-**[Foundry Humanoid robotics](https://www.reddit.com/r/robotics/comments/1u8fvh8/foundry_humanoid_robotics/)**
-
-There is an ad going around about a humanoid robot to help around the house. Does anyone know about that? ​ It feels scammy mostly because there is a video on their site showing them folding a shirt that is obviously AI. (The shirt doesn't fold correctly) ​ I guess just curious if anyone knows anything about them. ​
-
-🔗 [Foundry](https://foundryhumanoid.com/) • 19h ago
-
----
-
-**[Sampling-based motion planning, genetic algorithms, and biological evolution might all be running the same underlying search algorithm](https://www.reddit.com/r/robotics/comments/1u8pbqm/samplingbased_motion_planning_genetic_algorithms/)**
-
-I work in robotics, and have for almost a decade now. I keep noticing that a huge chunk of search-under-uncertainty problems, in robotics and outside it, converge on the same two-step architecture: generate variation indiscriminately first, then apply a scoring/selection pressure that keeps what works and discards what doesn't. No model of the problem is required upfront. Most the "intelligence" lives in the selection step, not the generation step. The clearest version of this in our own field is sampling-based motion planning. RRT and its relatives don't try to compute a path analytically. They expand randomly in many directions through the configuration space and then retain/extend the branches that make progress toward the goal, pruning the rest. Genetic algorithms and evolution strategies (CMA-ES, for instance) run an identical loop in parameter space instead of configuration space: generate a population of variants, score them against a fitness (cost) function, keep the survivors, repeat. Simulated annealing is a single-particle version of the same thing, generate a random perturbation, accept or reject it based on a score. Once I started paying attention to this pattern, I noticed it shows up well outside robotics too, in places that have nothing to do with computer science: Slime mold expanding in all directions through a maze of food sources, with the inefficient tendrils pruned back, and famously reconstructing something close to the Tokyo rail network when food sources are placed at the positions of major stations. Evolution itself: random mutation generates variation with zero regard for whether it's useful, and survival does the selecting after the fact. Neural development: neurons and synaptic connections proliferate in directions that aren't pre-planned, and dopamine-linked reinforcement selectively stabilizes the ones that turn out to matter. Once I started looking for more instances, I found two more that fit the same structure almost exactly: The immune system: B-cells mutate antibody variants somewhat randomly (somatic hypermutation) and the ones that bind the pathogen get clonally selected and expanded. Thought/creativity: you can't generate a genuinely novel idea by deduction from evidence that it's correct. The evidence only exists after the idea does. Novelty has to come first; judgment comes second. That last one turns out to have a surprisingly direct precedent. Henri Poincaré, describing how he worked out the theta-fuchsian functions, wrote that ideas rose in crowds and collided in his mind until pairs interlocked into stable combinations, almost like watching his own unconscious work made partially visible to consciousness, and that what got selected from that flood of combinations was governed by something close to an aesthetic sense of mathematical elegance. That's a generate-then-select loop running inside a human mind, described in 1908. The principle has been formalized more than once since then, from different directions: Richard Dawkins' Universal Darwinism: the claim that variation/selection/retention isn't a biology-specific mechanism but a substrate-independent algorithm that biology happens to be one instance of. Donald Campbell's blind variation and selective retention (BVSR), later developed extensively by Dean Keith Simonton, which applies the same two-step structure directly to creative cognition. Karl Popper's conjectures and refutations model of how knowledge grows: blind generation of new theories, followed by selective retention of the ones that survive criticism. Popper explicitly treated this as the same process as biological evolution, just running on ideas instead of organisms. Gerald Edelman's Neural Darwinism (Theory of Neuronal Group Selection), the formal version of the neuron/dopamine point above: synaptic overproduction followed by activity-dependent selective stabilization. Worth flagging here: I'm not claiming the expansion step is ever truly random. In every example above, the variation is guided. Slime mold follows chemoattractant gradients, not isotropic noise. Mutation isn't uniform across a genome, there are hotspots and repair biases. Axon growth follows chemical guidance cues, not random angles. Informed RRT* deliberately biases sampling toward the goal region instead of sampling uniformly. Even Poincaré's account isn't pure randomness, he describes an aesthetic sense that seems to steer which combinations even get generated, not just which ones survive afterward. Liane Gabora has made this exact critique of BVSR, that calling the variation "blind" overstates how random it actually is. But that's the part I find more interesting, not less. The expansion step across all of these systems is intelligently informed, biased toward promising regions by something the system already "knows," and yet it still needs the separate selection/scoring step on top of that guidance to actually converge. Neither half does the job alone: the guidance is too crude or too local to solve the problem outright (that's why expansion is still happening at all instead of direct computation), and the selection pressure has no foresight of its own, it only works because it's filtering output that the guided expansion already biased toward viable territory. Has anyone else found that this specific combination, intelligently biased expansion paired with a separate selection/scoring step, actually performs best in practice? I have personally found, that at least for my applications in autonomous vehicles and motion planning, this combination works the best. Curious whether other people doing sampling-based planning, evolutionary algorithms, or other search methods have found the same thing I have: that this architecture outperforms the alternatives, rather than just being one option among several that works comparably well. I will personally only ever use this type of algorithm after realizing this is how nature does it. Lastly, I am not proposing that analytical algorithms are better or worse than machine learning algorithms. I believe that HOW this is solved is irrespective of the fundamental search algorithm of the universe I have observed. I believe that it is the expand, then score mechanism that is important here, and does not exclude any method of expansion or scoring, as I have observed this in the above stated forms across nature. Thanks for the read if you're here, I've been thinking about this all year and needed to post it somewhere.
-
-14h ago
-
----
-
-**[Universal Manipulation Exoskeleton (UME): a low-cost exoskeleton with real-time haptic torque feedback](https://www.reddit.com/r/robotics/comments/1u799px/universal_manipulation_exoskeleton_ume_a_lowcost/)**
-
-From Litian Liang on 𝕏 (thread with multiple videos): https://x.com/litian_liang/status/2066541466286215570 This work is done in Inclusion AI lab at Ant Group, advised by James (Jingxi) Xu and Professor Mark Cutkosky from Stanford BDML lab. Website: https://ume-exo.github.io Paper: https://arxiv.org/abs/2606.14218
-
-2d ago
-
----
-
-**[ICRA'27](https://www.reddit.com/r/robotics/comments/1u844ka/icra27/)**
-
-Hello Everyone, I am preparing my manuscript for upcoming ICRA'27. But They have page limit of 8 pages, including references. As well, They don't accept any supplementary documents. So my question is how can I show more experiments and ablation studies? Because 8 page is not sufficient. Any tips? Much appreciated!!
-
 1d ago
 
 ---
 
-**[Resume Review for Automate 2026 / Robotics Software Engineer (Master's Student)](https://www.reddit.com/r/robotics/comments/1u8eia6/resume_review_for_automate_2026_robotics_software/)**
+**[Boston Dynamics Atlas Product Director on Humanoid ROI](https://www.reddit.com/r/robotics/comments/1u8e4xf/boston_dynamics_atlas_product_director_on/)**
 
-Title: Resume Review for Automate 2026 / Robotics Software Engineer (Master's Student) Hi everyone, I'm attending Automate 2026 in Chicago and would appreciate feedback on my resume. I'm a Master of Science in Computer Science at Bridgewater State University (graduating December 2025). I have 4+ years of software engineering experience and hands-on robotics experience with ROS2, TurtleBot4, SLAM, Nav2, OpenCV, computer vision, and autonomous navigation projects. I'm targeting these roles: Robotics Software Engineer Robotics Engineer Autonomous Systems Engineer Computer Vision Engineer Software Engineer (Robotics) I'd appreciate feedback on: Is my resume strong enough for robotics and automation companies? Are there any red flags? Should I emphasize my robotics projects more than my software engineering experience? Is the resume optimized for career fairs and recruiter screening? What skills or keywords are missing? Thanks in advance for any advice.
-
-20h ago
-
----
-
-**[Halfwiredtv: we're at 76+ members in 4 days on discord](https://www.reddit.com/r/robotics/comments/1u88n66/halfwiredtv_were_at_76_members_in_4_days_on/)**
-
-HalfwiredTV is a community for people who want to learn robotics, build projects, and collaborate with others. Our long-term goal is simple: Get everyone to a level where they can confidently learn, build and collaborate on robotics projects together in livestreams. What You'll Find Here -- People learning together teaching each other on calls in dedicated channels for topics (created as per demand) Project teammates Livestream collaborations and study sessions (uhm.. with meme songs) , also whenever anyone has something interesting to talk and show regardless of their skill level. We recently had our first livestream on a member's lazer scanning workflow for their robocar Robotics discussions ranging from complete beginners to advanced builders Your skill level doesn't matter. If you're curious, willing to learn, and willing to build, you're in the right place. Come join us : https://discord.com/channels/1514229376152113172/1514973636258172949
+Aya Durbin says humanoid robots need to prove real customer value before they can scale. She says the goal for Atlas is not just to be impressive, but to deliver positive ROI for customers. Boston Dynamics is focusing on industrial environments first, especially work that is hard to hire for, physically demanding and difficult to automate with traditional systems. She also says customers need robots that are reliable, useful and able to become a trusted part of the workforce.
 
 1d ago
 
@@ -120,7 +114,7 @@ HalfwiredTV is a community for people who want to learn robotics, build projects
 
 Alibaba's new Qwen-Robot push deepens its AI-cloud strategy, but rising costs, valuation premium and volatility raise questions about near-term upside.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -136,43 +130,19 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Tech Mahindra and Viam partner to scale advanced robotics and automation solutions](https://sg.finance.yahoo.com/news/tech-mahindra-viam-partner-scale-113700105.html)**
+**[Vishay Precision Group (VPG) is Benefiting from the Manufacturing Rebound and Robotics Growth](https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-vpg-benefiting-141953105.html)**
 
-Viam, the software platform for advanced robotics and automation, today announced a partnership with Tech Mahindra (NSE: TECHM), a leading global provider of technology consulting and digital solutions to enterprises across industries. As a core partner in physical AI, Viam will work with Tech Mahindra to provide their global enterprise clients with direct access to the Viam platform for managing and maintaining robotic fleets at scale.
+Prosper Stars & Stripes, a long/short equity fund, recently released its first-quarter 2026 investor letter. A copy of the letter is available to download here. In Q1 2026, the portfolio underperformed with a net return of (-5.6%) compared to the Russell 2000 Index’s +0.9% return and the HFRX Equity Hedge Index’s -1.5% return. Long book performance […]
 
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[Cloud-Connected vs. Air-Gapped Robotics: The Defense-Grade Divide](https://finance.yahoo.com/technology/ai/articles/cloud-connected-vs-air-gapped-110000768.html)**
-
-Air-gapped, edge-deployed robotics keep sensor data and telemetry on local hardwareEdge-deployed Physical AI systems learn and log on local computeData localization driven by regulatory and sovereignty requirements is a primary driver of edge adoption in manufacturingManufacturing is the most targeted industry for cyberattacks, accounting for 26% of all documented incidents in 2024 CARSON, CA, June 18, 2026 (GLOBE NEWSWIRE) -- The conversation around industrial AI has mostly focused on capabilit
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[INLIF LIMITED Announces Strategic Entry into Humanoid Robotics Market](https://ca.finance.yahoo.com/news/inlif-limited-announces-strategic-entry-120000243.html)**
+**[Humanoid robots and smart homes put AI centre stage at VivaTech 2026 in Paris](https://sg.news.yahoo.com/humanoid-robots-smart-homes-put-161819657.html)**
 
-Next-Generation Robot Demonstrates High-Dynamic Motion Capabilities in Experimental Testing QUANZHOU, China, June 18, 2026 (GLOBE NEWSWIRE) -- INLIF LIMITED (NASDAQ: INLF) (together with all its subsidiaries and consolidated entities, the “Company” or “INLIF”), a company engaged in the research, development, manufacturing, and sales of injection molding machine-dedicated manipulator arms, today announced its strategic entry into the humanoid robotics market. According to industry trends and mark
+France is putting artificial intelligence and robotics in the spotlight at VivaTech 2026, which opened on 17 June at Paris Expo Porte de Versailles.View on euronews
 
-Yahoo! Finance Canada • 54m ago
-
----
-
-**[Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.](https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/)**
-
-If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.
-
-TechCrunch • 21h ago
-
----
-
-**[The State of Industrial Robotics](https://www.thefai.org/posts/the-state-of-industrial-robotics)**
-
-The Foundation for American Innovation.
-
-The Foundation for American Innovation • 23h ago
+Yahoo News Singapore • 15m ago
 
 ---
 
@@ -184,11 +154,35 @@ Ars Technica • 2d ago
 
 ---
 
-**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
+**[The State of Industrial Robotics](https://www.thefai.org/posts/the-state-of-industrial-robotics)**
 
-AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
+The Foundation for American Innovation.
 
-inc.com • 1h ago
+The Foundation for American Innovation • 1d ago
+
+---
+
+**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-regulatory-approval-of-its-acquisition-of-covelya-group/)**
+
+Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
+
+Kraken Robotics • 6h ago
+
+---
+
+**[Abu Dhabi to roll out AI street-sweeper fleet in 5-year Micropolis deal](https://www.stocktitan.net/news/MCRP/micropolis-robotics-expands-physical-ai-portfolio-with-five-year-k00bf1n17aqs.html)**
+
+Abu Dhabi’s municipalities authority signs a 5-year Physical AI cleaning project, starting with autonomous sweepers and R&D support from Khalifa University.
+
+Stock Titan • 1d ago
+
+---
+
+**[Who’s actually running that robot?](https://www.bostonglobe.com/2026/06/18/opinion/demo-videos-robots-autonomous/)**
+
+Autonomous machines aren't as independent as we think.
+
+The Boston Globe • 6h ago
 
 ---
 
@@ -202,7 +196,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 155K • 👍 8K • 💬 874 • ⏱️ 2:57 • 4d ago
+👁️ 157K • 👍 8K • 💬 882 • ⏱️ 2:57 • 4d ago
 
 ---
 
@@ -212,27 +206,17 @@ AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.n
 
 📺 InsideAI
 
-👁️ 701K • 👍 23K • 💬 2K • ⏱️ 15:10 • 3d ago
+👁️ 722K • 👍 24K • 💬 2K • ⏱️ 15:10 • 3d ago
 
 ---
 
-**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
 
-అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
 
-📺 Zee Telugu News
+📺 The Hook Up
 
-👁️ 71K • 👍 310 • 💬 3 • ⏱️ 0:39 • 9h ago
-
----
-
-**[Chinese Robotic Wolf Fires While Running Across Rough Terrain!!](https://www.youtube.com/watch?v=43r6KdkjbtE)**
-
-Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization while running across rough terrain, combining ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 49K • 👍 2K • 💬 134 • ⏱️ 0:30 • 5d ago
+👁️ 116K • 👍 2K • 💬 411 • ⏱️ 33:19 • 6d ago
 
 ---
 
@@ -246,33 +230,23 @@ Witness the Chinese Robotic Wolf UGV demonstrate precise weapon stabilization wh
 
 ---
 
+**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+
+Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+
+📺 Fox Business Clips
+
+👁️ 8K • 👍 98 • 💬 45 • ⏱️ 6:28 • 22h ago
+
+---
+
 **[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
 
 Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
 
 📺 🚜🌾 Desi Farm Vibes
 
-👁️ 17K • 👍 81 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Anaconda Innovation! 🐍✨ Jinu Crafts a Robotic Companion for Rumi! #robot](https://www.youtube.com/watch?v=Ppx8Ilti4PY)**
-
-Join Jinu as he takes on an exciting challenge to create a one-of-a-kind robotic anaconda for Rumi! Watch the transformation ...
-
-📺 PopZap Shorts
-
-👁️ 28K • 👍 161 • ⏱️ 0:25 • 16h ago
-
----
-
-**[Are we ready for flesh bots? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
-
-Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
-
-📺 Business Insider
-
-👁️ 109K • 👍 2K • 💬 461 • ⏱️ 17:26 • 3d ago
+👁️ 17K • 👍 84 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -282,17 +256,37 @@ Automated Robotic System Loading Heavy Bags Efficiently Into A Shipping Containe
 
 📺 Creative Mind Vibes
 
-👁️ 15K • 👍 16 • ⏱️ 0:05 • 10h ago
+👁️ 16K • 👍 17 • ⏱️ 0:05 • 14h ago
 
 ---
 
-**[Better Than a Robot Arm? Why I Built a Crane Robot to clean my house](https://www.youtube.com/watch?v=vsL1EHt5iBY)**
+**[Inside a Robotic Phone Farm: How Automated Robots Control Multiple Smartphones at Once 🤖📱](https://www.youtube.com/watch?v=bD08V-Kzupw)**
 
-This video showcases some model successes and failures I've had in building a room-scale cable driven parallel robot to clean ...
+How a Robotic Phone Farm Automates Dozens of Smartphones Simultaneously A robotic phone farm uses precision motors, ...
 
-📺 Over Engineer
+📺 Techie Sapien
 
-👁️ 61K • 👍 3K • 💬 300 • ⏱️ 6:05 • 5d ago
+👁️ 5K • 👍 69 • 💬 2 • ⏱️ 0:07 • 2h ago
+
+---
+
+**[Are we ready for flesh bots? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
+
+Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
+
+📺 Business Insider
+
+👁️ 112K • 👍 2K • 💬 485 • ⏱️ 17:26 • 4d ago
+
+---
+
+**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+
+అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+
+📺 Zee Telugu News
+
+👁️ 80K • 👍 336 • 💬 3 • ⏱️ 0:39 • 13h ago
 
 ---
 
