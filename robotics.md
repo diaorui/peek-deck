@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-19T09:20:14.459678+00:00'
+updated: '2026-06-19T12:59:00.954454+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 19, 2026 at 09:20 UTC  
+**Last Updated:** June 19, 2026 at 12:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Look at the little robot I build!](https://www.reddit.com/r/robotics/comments/1u95gwg/look_at_the_little_robot_i_build/)**
 
-20h ago
+1d ago
 
 ---
 
 **[(Mostly) 3D printed robot arm project](https://www.reddit.com/r/robotics/comments/1u99ot3/mostly_3d_printed_robot_arm_project/)**
 
-17h ago
+21h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense-unveils-the-d585-pro-and-perception-studio/
 
-17h ago
+21h ago
 
 ---
 
@@ -62,7 +62,7 @@ Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense
 
 I've been working on an open-source pet companion robot called OpenPaw, and wanted to share the navigation system I built for it. The hardware is an ESP32-S3 running ESP-IDF with a camera, DRV8833 motor driver, VL53L0X distance sensor, and MLX90634 temp sensor. It hosts its own WiFi AP — no cloud, no internet needed. The navigation works like this: I created virtual portals in my home using the Auki posemesh network (like GPS waypoints indoors). Each portal has X, Y, Z coordinates. A phone app built with Flutter connects to a local bridge API and loads these portals. When you scan a portal QR code with the phone's camera, the app records your position AND compass heading using the phone's magnetometer. This gives the robot both location and orientation — the two things needed for autonomous movement. The robot runs a PWM-based odometry task that estimates its position from motor commands every 50ms. A /api/pose endpoint returns real-time X, Y, and heading. A /api/trajectory endpoint logs the full path. The app shows all this on a 2D map overlay with portal markers, the robot's position, heading arrow, and traveled path updating every 500ms. The portal dropdown on the control screen lets you select any destination. The app calculates direction and distance from the robot's current position to the target in real time. The entire stack — ESP-IDF firmware, Flutter app, Auki bridge API — is open source. Build guide and schematics are documented. What navigation approaches have you used for indoor robots without GPS? I'm planning to add wheel encoders next for better accuracy.
 
-20h ago
+1d ago
 
 ---
 
@@ -70,7 +70,7 @@ I've been working on an open-source pet companion robot called OpenPaw, and want
 
 I'm currently pursuing an M.Tech in Mechanical Engineering and have been considering a transition into Robotics. My exposure to robotics is limited to basic theoretical concepts like kinematics, and I don't have any hands-on robotics experience. For those already working in the field, is it worth making the switch at this stage? How challenging is it to break into robotics from a mechanical background, and what does the career growth look like? I'd appreciate any honest insights from people who have been through a similar journey.
 
-17h ago
+21h ago
 
 ---
 
@@ -78,7 +78,7 @@ I'm currently pursuing an M.Tech in Mechanical Engineering and have been conside
 
 Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS transfer review process? I submitted through the transfer option for IROS and was rejected, so I’m trying to better understand how the process works. What can reviewers see: the previous reviews, only the author response/revision summary, or something else? For those with experience, did the transfer process feel helpful, or could it bias reviewers since they know the paper was previously rejected? Any insights from the reviewer or author side would be appreciated.
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS
 
 So we're using an ESP32S with a TJA1050 transceiver and basically we're using this setup to operate a rover using ROS2 Humble and MAVLink commands, so it has a lot of modules like actuators, PDB, mini-arm, and etc connected through a CAN bus network. Now the issue is that we will be using multiple BLDCs for our rover's arm and these motors continuously send out updates (or heartbeats or sth) so using these BLDCs in the same network seems like the MCU will lag or slow down and just be downright ineffective. So is there any way to isolate the motors to a different network or CAN line? I was thinking of adding another MCU on top of the ESP32 to only handle the motors but is there an alternative to this approach, preferably one without adding more hardware?
 
-19h ago
+23h ago
 
 ---
 
@@ -110,11 +110,11 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 ## Google News: "robotics"
 
-**[Project Fetch: Phase two](https://www.anthropic.com/news/project-fetch-phase-two)**
+**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
 
 We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
 
-Anthropic • 16h ago
+Anthropic • 20h ago
 
 ---
 
@@ -122,7 +122,7 @@ Anthropic • 16h ago
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -130,7 +130,7 @@ Yahoo Finance • 6h ago
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
-Kraken Robotics • 22h ago
+Kraken Robotics • 1d ago
 
 ---
 
@@ -150,19 +150,19 @@ Ars Technica • 3d ago
 
 ---
 
-**[Karl Storz to fully integrate Asensus, discontinue Senhance, Luna robots](https://www.massdevice.com/karl-storz-realigns-asensus-luna-senhance/)**
-
-Karl Storz announced today that it aims to sharpen its strategic focus to create more value in the operating room (OR).
-
-MassDevice • 1d ago
-
----
-
 **[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
 
 AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
 
-inc.com • 22h ago
+inc.com • 1d ago
+
+---
+
+**[US Robot Industry Returns to Double Digit Growth](https://ifr.org/ifr-press-releases/news/us-robot-industry-returns-to-double-digit-growth)**
+
+The number of industrial robot installations in the United States rose by 11% year-on-year, to reach 38,000 units in 2025. This significant recovery is driven by robust growth in the food industry and other non-manufacturing sectors. However, the automotive industry remains the largest adopter and reached 13,500 units, just 1% below last year's result.
+
+IFR International Federation of Robotics • 1d ago
 
 ---
 
@@ -170,13 +170,13 @@ inc.com • 22h ago
 
 Next-Generation Robot Demonstrates High-Dynamic Motion Capabilities in Experimental Testing QUANZHOU, China, June 18, 2026 (GLOBE NEWSWIRE) -- INLIF LIMITED (NASDAQ: INLF) (together with all its subsidiaries and consolidated entities, the “Company” or “INLIF”), a company engaged in the research, development, manufacturing, and sales of injection molding machine-dedicated manipulator arms, today announced its strategic entry into the humanoid robotics market. According to industry trends and mark
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[European Robotics Start-ups Go Up Against Chinese Heavyweights](https://www.barrons.com/news/european-robotics-start-ups-go-up-against-chinese-heavyweights-a831d071)**
 
-Barron's • 13m ago
+Barron's • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 13m ago
 
 From Tesla and Boston Dynamics to Figure AI, Unitree, UBTech and 1X, these are the companies shaping one of the most exciting new frontiers in robotics.
 
-Forbes • 3h ago
+Forbes • 7h ago
 
 ---
 
@@ -192,33 +192,13 @@ Forbes • 3h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
+**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
 
-Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
+xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
 
-📺 Jason Lowe on AI
+📺 The Q
 
-👁️ 156K • 👍 7K • 💬 904 • ⏱️ 2:51 • 1d ago
-
----
-
-**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
-
-Read the full, in-depth analysis report here: ...
-
-📺 China Update
-
-👁️ 22K • 👍 3K • 💬 216 • ⏱️ 14:28 • 21h ago
-
----
-
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
-
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 6K • 👍 310 • 💬 53 • ⏱️ 13:40 • 19h ago
+👁️ 137K • 👍 4K • 💬 432 • ⏱️ 6:20 • 2d ago
 
 ---
 
@@ -228,17 +208,17 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 164K • 👍 8K • 💬 912 • ⏱️ 2:57 • 5d ago
+👁️ 164K • 👍 8K • 💬 916 • ⏱️ 2:57 • 5d ago
 
 ---
 
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
 
-AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
+War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 InsideAI
+📺 Manni-Gaming
 
-👁️ 796K • 👍 25K • 💬 3K • ⏱️ 15:10 • 4d ago
+👁️ 7K • 👍 319 • 💬 57 • ⏱️ 13:40 • 23h ago
 
 ---
 
@@ -248,45 +228,67 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 12K • 👍 45 • 💬 46 • ⏱️ 0:55 • 1d ago
+👁️ 13K • 👍 47 • 💬 48 • ⏱️ 0:55 • 1d ago
 
 ---
 
-**[Are #BostonDynamics &amp; #Tesla #robots vaporware? | #MilitaryTech #AI #tech #SteveFaktor #TheTrendaddy](https://www.youtube.com/watch?v=8j-0GmVG64s)**
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
-Iran Into a Robot Problem | Are those Boston Dynamics robots vaporware? If they are, what does it mean for your #Tesla robot?
+AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
-📺 Steve Faktor
+📺 InsideAI
 
-👁️ 759 • 💬 6 • ⏱️ 0:49 • 21h ago
-
----
-
-**[5 Big Mistakes In Robot Movie 🤯 #shorts #youtubeshorts](https://www.youtube.com/watch?v=Gbt9Z0XziUs)**
-
-5 Big Mistakes In Robot Movie #shorts #youtubeshorts COPYRIGHT DISCLAIMER Under section 107 of the copyright Act 1976, ...
-
-📺 Mistakes_Moll
-
-👁️ 23K • 💬 1 • ⏱️ 0:33 • 2d ago
+👁️ 808K • 👍 26K • 💬 3K • ⏱️ 15:10 • 4d ago
 
 ---
 
-**[Arpo the Robot | MUST KEEP THE BABY CLEAN!!!!!! | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=D7sH1LTsaDc)**
+**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
 
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
 
-📺 ARPO: The Robot
+📺 Perigee Tech
 
-👁️ 15K • 👍 20 • ⏱️ 1:13:01 • 1d ago
+👁️ 56K • 👍 301 • 💬 4 • ⏱️ 0:05 • 10h ago
 
 ---
 
-**[I Cooked Against a Robot #robot #ai](https://www.youtube.com/watch?v=cLFO-D9Nw6o)**
+**[Robotic Lawnmower Buyer&#39;s Guide 2026 - Don&#39;t Make This Mistake!](https://www.youtube.com/watch?v=D_78hM_1buM)**
 
-📺 Patrick Zeinali
+I tested 13 of the most popular robotic lawnmowers in 2026 to figure out which features are must haves, and which ones you can ...
 
-👁️ 187K • 👍 12K • 💬 221 • ⏱️ 0:49 • 1d ago
+📺 The Hook Up
+
+👁️ 121K • 👍 2K • 💬 420 • ⏱️ 33:19 • 6d ago
+
+---
+
+**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
+
+China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
+
+📺 Kalil 4.0
+
+👁️ 16K • 👍 319 • 💬 112 • ⏱️ 8:49 • 6d ago
+
+---
+
+**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+
+అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+
+📺 Zee Telugu News
+
+👁️ 94K • 👍 358 • 💬 4 • ⏱️ 0:39 • 1d ago
+
+---
+
+**[MIT Built a Robot That Folds Itself 😳🤖📄](https://www.youtube.com/watch?v=SfvTGYPmNjE)**
+
+This incredible invention is MIT's self-folding origami robot, a machine that transforms from a flat sheet into a functioning robot on ...
+
+📺 Unova
+
+👁️ 56K • 👍 374 • 💬 12 • ⏱️ 0:07 • 1d ago
 
 ---
 

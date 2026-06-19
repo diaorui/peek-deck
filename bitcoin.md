@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-19T09:20:14.450433+00:00'
+updated: '2026-06-19T12:59:00.945017+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 09:20 UTC  
+**Last Updated:** June 19, 2026 at 12:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,452.32
+### $62,746.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -3.3%  
-**30d:** -19.7%  
-**90d:** -8.1%  
-**1y:** -39.7%  
+**24h:** -1.9%  
+**7d:** -2.6%  
+**30d:** -19.1%  
+**90d:** -7.5%  
+**1y:** -39.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1249.32B
+**Market Cap:** $1257.98B
 Rank #1
 
-**Circulating Supply:** 20,044,915 BTC
+**Circulating Supply:** 20,044,959 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.5%
+-50.3%
 
 **All-Time Low:** $67.81
-+91907.1%
++92393.7%
 
 ---
 
@@ -157,11 +157,49 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin traders load up on bearish bets all the way down to $52,000](https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000)**
+**[Live updates: Bitcoin has traded below its mining cost for five months, squeezing miners](https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners)**
 
-Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.
+About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.
 
-CoinDesk • 4h ago
+CoinDesk • 22m ago
+
+---
+
+**[CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions](https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc)**
+
+Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said.
+
+The Block • 15h ago
+
+---
+
+**[The Dollar, Gold, and Bitcoin Are Taking Warsh’s Fed Shift Seriously. Stocks Don’t Care.](https://www.barrons.com/articles/bitcoin-price-gold-dollar-warsh-fed-stocks-742bb836)**
+
+Barron's • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 19, 2026: Prices keep falling post-Fed decision](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-19-2026-prices-keep-falling-post-fed-decision-123239380.html)**
+
+Bitcoin opened at $62,882.88 on Friday, June 19, 2026, down 2.4% from Thursday's opening price. Ethereum opened at $1,709.13 on Friday, down 2.2% from Thursday's opening price.
+
+Yahoo Finance • 26m ago
+
+---
+
+**[‘House Of Cards Collapsing ’—Serious Bitcoin Crash Warning Hits Price](https://www.forbes.com/sites/digital-assets/2026/06/19/bigger-than-2008-serious-10-trillion-fed-crash-warning-sparks-huge-bitcoin-price-prediction/)**
+
+Closely watched trader Arthur Hayes has predicted an AI "credit event" is about to crash the market and blow up the bitcoin price...
+
+Forbes • 38m ago
+
+---
+
+**[Why the 2 biggest billionaires in crypto think bitcoin has bottomed](https://finance.yahoo.com/markets/article/why-the-2-biggest-billionaires-in-crypto-think-bitcoin-has-bottomed-120000981.html)**
+
+Hot takes on bitcoin from two of the industry's heavyweights.
+
+Yahoo Finance • 59m ago
 
 ---
 
@@ -169,35 +207,19 @@ CoinDesk • 4h ago
 
 (Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealMukesh Ambani’s Promise to Investors on Jio IPO Will
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
 
-Bloomberg • 12h ago
+Bloomberg.com • 16h ago
 
 ---
 
 **[Bitcoin Whale Faces Gut Punch: Borrowing Rate May Hit 12%](https://www.investors.com/news/bitcoin-whale-strategy-faces-gut-punch-12-percent-borrowing-rate-mstr/)**
 
-Investor's Business Daily • 13h ago
-
----
-
-**[Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners](https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners)**
-
-About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.
-
-CoinDesk • 17m ago
-
----
-
-**[Coinbase CEO on bitcoin bottom, AI agents, and his war of words with JPMorgan CEO](https://finance.yahoo.com/markets/article/coinbase-ceo-on-bitcoin-bottom-ai-agents-and-his-war-of-words-with-jpmorgan-ceo-132234356.html)**
-
-One-on-one with Coinbase co-founder and CEO Brian Armstrong.
-
-Yahoo Finance • 19h ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -205,31 +227,7 @@ Yahoo Finance • 19h ago
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-CNBC • 1d ago
-
----
-
-**[JPMorgan says bitcoin mining economics have 'worsened' as BTC trades below production cost](https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost)**
-
-JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.
-
-The Block • 14h ago
-
----
-
-**[Bitcoin mining paln at empty East Texas auto shop sparks neighborhood fight](https://www.yahoo.com/news/us/articles/bitcoin-mining-paln-empty-east-131501147.html)**
-
-The proposed facility would sit just outside downtown in this East Texas city.
-
-Yahoo • 20h ago
-
----
-
-**[A Framework for Valuing Bitcoin Miners as AI Infrastructure](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/)**
-
-How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
-
-vaneck.com • 2d ago
+CNBC • 2d ago
 
 ---
 
@@ -242,6 +240,14 @@ vaneck.com • 2d ago
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
 ⬆️ 6 • 💬 0 • 3d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
+
+---
+
+**[Bitcoin Has Lost Nearly Half Its Value in 11 Months](https://news.ycombinator.com/item?id=48597423)**
+
+The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
+
+⬆️ 4 • 💬 5 • 1h ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
 
 ---
 
@@ -273,7 +279,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
 
-⬆️ 3 • 💬 1 • 2d ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 3 • 💬 1 • 3d ago • [boltassociation.com](https://boltassociation.com/)
 
 ---
 
@@ -303,15 +309,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 **[Applied AI Engineer/ Product Builder/ Data Science](https://news.ycombinator.com/item?id=48594452)**
 
-⬆️ 2 • 💬 0 • 6h ago
-
----
-
-**[Show HN: CredScore – Deterministic wallet risk scoring, no model in the path](https://news.ycombinator.com/item?id=48558315)**
-
-CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
-
-⬆️ 1 • 💬 0 • 2d ago • [CredScore](https://www.credscore.us/)
+⬆️ 2 • 💬 0 • 9h ago
 
 ---
 
@@ -319,23 +317,13 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ## YouTube Videos: "bitcoin"
 
-**[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
-
-The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 3K • 💬 142 • ⏱️ 12:12 • 1d ago
-
----
-
 **[The Fed just shocked Bitcoin holders: What happens next?](https://www.youtube.com/watch?v=eJ_nllBoiYE)**
 
 Solana Policy Institute president & Blockchain Association Board Chair Kristin Smith joins 'Mornings with Maria' to discuss the ...
 
 📺 Fox Business
 
-👁️ 152K • 👍 2K • 💬 776 • ⏱️ 10:23 • 19h ago
+👁️ 159K • 👍 2K • 💬 806 • ⏱️ 10:23 • 22h ago
 
 ---
 
@@ -345,17 +333,7 @@ Trade Stocks & Crypto on Bitget: https://www.bitget.com/ Altcoin Daily Merch: ht
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 203 • ⏱️ 13:44 • 12h ago
-
----
-
-**[Fed Warsh Just Flipped The Script on Bitcoin](https://www.youtube.com/watch?v=V3uhUQq9FeA)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 917 • 💬 500 • ⏱️ 8:56 • 1d ago
+👁️ 39K • 👍 2K • 💬 242 • ⏱️ 13:44 • 15h ago
 
 ---
 
@@ -365,7 +343,17 @@ Strategy's STRC is breaking down, and the panic around Michael Saylor's Bitcoin 
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 541 • ⏱️ 17:03 • 11h ago
+👁️ 35K • 👍 2K • 💬 545 • ⏱️ 17:03 • 15h ago
+
+---
+
+**[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
+
+The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 3K • 💬 143 • ⏱️ 12:12 • 1d ago
 
 ---
 
@@ -375,7 +363,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 741 • 💬 390 • ⏱️ 14:21 • 8h ago
+👁️ 15K • 👍 819 • 💬 325 • ⏱️ 14:21 • 12h ago
 
 ---
 
@@ -385,7 +373,17 @@ Let's discuss the Bitcoin social risk! Into The Cryptoverse Premium SALE (ENDS S
 
 📺 Benjamin Cowen
 
-👁️ 16K • 👍 1K • 💬 119 • ⏱️ 17:36 • 4h ago
+👁️ 29K • 👍 2K • 💬 161 • ⏱️ 17:36 • 7h ago
+
+---
+
+**[Bitcoin Holders: If This Actually Holds, It&#39;ll Be Huge](https://www.youtube.com/watch?v=sXORibqcC7A)**
+
+In this video, I'm going over the latest with Iran, Bitcoin news, Kevin Warsh's first meeting, and more. ✔️ https://fortisx.fi/kol/aaron ...
+
+📺 Aaron Bennett
+
+👁️ 2K • 👍 177 • 💬 52 • ⏱️ 8:15 • 4h ago
 
 ---
 
@@ -395,7 +393,7 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 52K • 👍 4K • 💬 248 • ⏱️ 16:06 • 21h ago
+👁️ 54K • 👍 4K • 💬 253 • ⏱️ 16:06 • 1d ago
 
 ---
 
@@ -405,17 +403,17 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 108 • 💬 97 • ⏱️ 17:47 • 1d ago
+👁️ 3K • 👍 112 • 💬 97 • ⏱️ 17:47 • 1d ago
 
 ---
 
-**[🚨 BITCOIN!!! WE HAVE A PROBLEM....? WHALES JUST PLAYED THEIR HAND!!! [buckle up]](https://www.youtube.com/watch?v=53TQVZrFEDk)**
+**[The Firm Behind the Bitcoin Crash Just Warned You. I&#39;m Leaving X](https://www.youtube.com/watch?v=QSiXRNaQCd4)**
 
-Bitcoin tumbles after FED meeting. Are we in for a worse #BTC bear or have the whales left us major clues? WEEX ...
+WIntermute just gave us all a warning The same market maker tied to October 6th is now warning Bitcoin could fall into the ...
 
-📺 Crypto Zombie
+📺 Digital Asset News
 
-👁️ 14K • 👍 1K • 💬 200 • ⏱️ 25:22 • 14h ago
+👁️ 17K • 👍 942 • 💬 91 • ⏱️ 19:51 • 2d ago
 
 ---
 
