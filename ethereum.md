@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-19T12:59:00.951054+00:00'
+updated: '2026-06-19T16:11:29.597809+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 12:59 UTC  
+**Last Updated:** June 19, 2026 at 16:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +0.7%  
-**30d:** -20.6%  
-**90d:** -17.5%  
-**1y:** -29.7%  
+**24h:** +1.5%  
+**7d:** +1.4%  
+**30d:** -20.1%  
+**90d:** -16.9%  
+**1y:** -29.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d034da533dbefeec0c1e172e5cc7fddd6d433 My latest article on Ethereum institutions (past, present, and future) and their political economy: Subtraction and Legitimacy The Funding Crisis Succession Planning Read/discuss/share here: Farcaster: https://farcaster.xyz/trent/0x9b4b522f Twitter https://x.com/trent_vanepps/status/206759312439898955 Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction I believe this is a critical time to establish institutions for our next decade, and beyond. I worked at the Ethereum Foundation for 5 years coordinating core development, Protocol Guild funding, and political economy research. Subtraction successfully signals reduced EF power yet legitimacy stubbornly pools at the Foundation via brand, Vitalik affiliation, treasury, and assets. Treasury constraints and CIP expiration risk a slow-burning funding crisis that threatens institutional capacity for protocol maintenance and upgrades. EF will not steward Ethereum's next decade; a reset of social, political, and economic contracts is needed for effective institutional succession. New mechanisms must enable scalable neutral funding, steward interdependent resources, and prioritize broad adoption for the World Computer.
 
-21h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR for anyone who doesn’t click: CoinGecko looked at which chains kept users active from Q1 2025 to Q1 2026. Ethereum had the highest retention rate at 26.2%. BNB Chain came second at 20.5%. But by actual users retained, BNB Chain led the whole report with 1.49M users still active a year later. Main takeaway: Ethereum had the best percentage retention, but BNB Chain retained the most users overall.
 
-🔗 [CoinGecko](https://www.coingecko.com/research/publications/blockchain-user-rention-rate-analysis-2026-q1) • 1d ago
+🔗 [CoinGecko](https://www.coingecko.com/research/publications/blockchain-user-rention-rate-analysis-2026-q1) • 2d ago
 
 ---
 
@@ -156,15 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)**
+**[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
 
-Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
+Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-Decrypt • 19h ago
+The Block • 6h ago
 
 ---
 
@@ -172,23 +172,7 @@ Decrypt • 19h ago
 
 Bitcoin opened at $62,882.88 on Friday, June 19, 2026, down 2.4% from Thursday's opening price. Ethereum opened at $1,709.13 on Friday, down 2.2% from Thursday's opening price.
 
-Yahoo Finance • 26m ago
-
----
-
-**[Ethereum Foundation Lost 2nd Co-Director in 4 Months As $30M Funding Crisis Looms](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-lost-2nd-co-103043222.html)**
-
-Hsiao-Wei Wang resigned as co-executive director and board member of the Ethereum Foundation on June 18, effective immediately, the second co-ED departure in roughly four months and the latest news signal that EF leadership is structurally unsettled heading into a critical upgrade cycle. The exit lands the same day former ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Foundation’s Leadership Exodus Claims Its Second Co-Director](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-leadership-exodus-claims-112030013.html)**
-
-Hsiao-Wei Wang steps down as Ethereum Foundation co-executive director, the second co-ED to leave in 2026 amid a broader leadership exodus.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,7 +180,23 @@ Yahoo Finance • 1h ago
 
 MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 15h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC weakens, ETH turns lower, XRP faces channel rejection](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-weakens-eth-turns-lower-xrp-faces-channel-rejection-202606190333)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading under pressure on Friday as risk-off continues to weigh on the broader cryptocurrency market. BTC has fallen more than 4% so far this week, and ETH is extending losses, trading around $1,700.
+
+FXStreet • 12h ago
+
+---
+
+**[Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)**
+
+Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
+
+Decrypt • 22h ago
 
 ---
 
@@ -212,23 +212,21 @@ The Motley Fool • 1d ago
 
 Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
 
-Coinpedia • 23h ago
+Coinpedia • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC weakens, ETH turns lower, XRP faces channel rejection](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-weakens-eth-turns-lower-xrp-faces-channel-rejection-202606190333)**
+**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading under pressure on Friday as risk-off continues to weigh on the broader cryptocurrency market. BTC has fallen more than 4% so far this week, and ETH is extending losses, trading around $1,700.
-
-FXStreet • 9h ago
+CCN.com • 1h ago
 
 ---
 
-**[Current price of Ethereum for June 18, 2026](https://fortune.com/article/price-of-ethereum-06-18-2026/)**
+**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
 
-Fortune • 14h ago
+TradingView • 3d ago
 
 ---
 
@@ -242,7 +240,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 144 • 👍 7 • 💬 30 • ⏱️ 4:21 • 3h ago
+👁️ 235 • 👍 11 • 💬 17 • ⏱️ 4:21 • 6h ago
+
+---
+
+**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
+
+El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
+
+📺 Healthy Pockets
+
+👁️ 738 • 👍 132 • 💬 15 • ⏱️ 13:38 • 1h ago
 
 ---
 
@@ -252,7 +260,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 260 • 💬 31 • ⏱️ 22:44 • 5h ago
+👁️ 6K • 👍 335 • 💬 64 • ⏱️ 22:44 • 8h ago
 
 ---
 
@@ -262,7 +270,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 157 • 💬 51 • ⏱️ 43:15 • 22h ago
+👁️ 6K • 👍 160 • 💬 51 • ⏱️ 43:15 • 1d ago
 
 ---
 
@@ -272,17 +280,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 7K • 👍 248 • 💬 31 • ⏱️ 38:25 • 1d ago
-
----
-
-**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
-
-Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 224 • 💬 15 • ⏱️ 6:57 • 1d ago
+👁️ 7K • 👍 252 • 💬 32 • ⏱️ 38:25 • 1d ago
 
 ---
 
@@ -292,7 +290,17 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 4K • 💬 253 • ⏱️ 16:06 • 1d ago
+👁️ 55K • 👍 4K • 💬 254 • ⏱️ 16:06 • 1d ago
+
+---
+
+**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
+
+Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 230 • 💬 15 • ⏱️ 6:57 • 1d ago
 
 ---
 
@@ -302,35 +310,27 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 516 • 💬 109 • ⏱️ 13:26 • 8h ago
+👁️ 3K • 👍 552 • 💬 125 • ⏱️ 13:26 • 11h ago
 
 ---
 
-**[BTC 62K, ETH com recorde no Staking e G7 alertando sobre Coreia do Norte  🚨](https://www.youtube.com/watch?v=FfSJoVaE0Z4)**
+**[This Ethereum Upgrade Changes Everything](https://www.youtube.com/watch?v=D57-3dCumyw)**
 
-Bitcoin segue em queda, com mercado morno. Ethereum batendo recorde de moedas em Staking. Já são quase 40 milhões de ...
+Crypto may have just solved one of its biggest problems. For years, bridge hacks have cost the industry billions. But new ...
 
-📺 BitNada
+📺 Lamia web 3 crypto
 
-👁️ 1K • 👍 233 • 2h ago
-
----
-
-**[Pay Attention Now. Crypto, DeFi, Ethereum, PulseChain.](https://www.youtube.com/watch?v=w_AYH7KQGDI)**
-
-You have to believe in something!* This is not financial advice! Be ready for the bull run! Support me :) ETH/PLS address: ...
-
-📺 Khalid on Crypto
-
-👁️ 319 • 👍 42 • 💬 17 • ⏱️ 18:15 • 16h ago
+👁️ 450 • 👍 2 • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[These coins suck #ethereum #bitcoin #cardano #crypto #cryptoinvesting](https://www.youtube.com/watch?v=iLaM6OjcftI)**
+**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
 
-📺 klay browning
+CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
 
-👁️ 1K • 👍 16 • ⏱️ 0:06 • 18h ago
+📺 Marzell Crypto
+
+👁️ 384 • 👍 19 • 💬 140 • ⏱️ 2:27 • 2d ago
 
 ---
 
