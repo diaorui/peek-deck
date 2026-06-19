@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-19T16:11:29.597809+00:00'
+updated: '2026-06-19T18:16:25.685876+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 16:11 UTC  
+**Last Updated:** June 19, 2026 at 18:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
+**24h:** -0.0%  
 **7d:** +1.4%  
 **30d:** -20.1%  
-**90d:** -16.9%  
+**90d:** -17.0%  
 **1y:** -29.2%  
 
 ---
@@ -112,7 +112,7 @@ WYRIWE introduces a verifiable input provenance standard for AI agents on Ethere
 
 Uncover the Ethereum Foundation's stance on asset responsibility and the significance of the 'EF Mandate' for crypto enthusiasts.
 
-🔗 [DailyCoin](https://dailycoin.com/stewardship-not-control-analyst-says-ethereum-foundation-has-walked-away-from-eths-price/) • 2d ago
+🔗 [DailyCoin](https://dailycoin.com/stewardship-not-control-analyst-says-ethereum-foundation-has-walked-away-from-eths-price/) • 3d ago
 
 ---
 
@@ -152,6 +152,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
+
+Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
+
+The Block • 8h ago
+
+---
+
 **[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
 
 Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
@@ -160,35 +168,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
+**[XRP, Bitcoin, and Ethereum Slip as Lebanon Strikes Threaten to Unravel the Iran Ceasefire](https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-slip-lebanon-163126277.html)**
 
-Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
+After months of war headlines weighing on crypto, the U.S. and Iran finally signed the peace deal everyone had been waiting for this week. Crypto prices popped at first, but the moves have reversed, with XRP (CRYPTO:XRP), Bitcoin (CRYPTO:BTC), and Ethereum (CRYPTO:ETH) down 3-4%. The trouble started in Lebanon, where fresh Israeli strikes have hit ... XRP, Bitcoin, and Ethereum Slip as Lebanon Strikes Threaten to Unravel the Iran Ceasefire
 
-The Block • 6h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, June 19, 2026: Prices keep falling post-Fed decision](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-19-2026-prices-keep-falling-post-fed-decision-123239380.html)**
-
-Bitcoin opened at $62,882.88 on Friday, June 19, 2026, down 2.4% from Thursday's opening price. Ethereum opened at $1,709.13 on Friday, down 2.2% from Thursday's opening price.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-plans-more-cex-reveals-after-azbit-as-ethereum-price-prediction-hits-4-000-1036261665)**
+**[Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit Roadmap](https://www.tradingview.com/news/newsbtc:d08da64d0094b:0-ethereum-glamsterdam-upgrade-moves-toward-200m-gas-limit-roadmap/)**
 
-MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
+Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
 
-markets.businessinsider.com • 15h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC weakens, ETH turns lower, XRP faces channel rejection](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-weakens-eth-turns-lower-xrp-faces-channel-rejection-202606190333)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading under pressure on Friday as risk-off continues to weigh on the broader cryptocurrency market. BTC has fallen more than 4% so far this week, and ETH is extending losses, trading around $1,700.
-
-FXStreet • 12h ago
+TradingView • 16h ago
 
 ---
 
@@ -196,15 +188,29 @@ FXStreet • 12h ago
 
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
 
 ---
 
-**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://www.fool.com/investing/2026/06/18/the-worlds-biggest-ethereum-treasury-company-just/)**
+**[Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-plans-more-cex-reveals-after-azbit-as-ethereum-price-prediction-hits-4-000-1036261665)**
 
-When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
+MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
 
-The Motley Fool • 1d ago
+markets.businessinsider.com • 17h ago
+
+---
+
+**[Ethereum Price Forecast: Tokenization and network activity skyrocket in Q1 despite DeFi contraction](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-tokenization-and-network-activity-skyrocket-in-q1-despite-defi-contraction-202606182308)**
+
+Following months of crashing prices and macro-driven fragility, Ethereum saw mixed performance across key metrics in the first quarter of 2026, according to Token Terminal.
+
+FXStreet • 19h ago
+
+---
+
+**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
+
+CCN.com • 3h ago
 
 ---
 
@@ -216,17 +222,11 @@ Coinpedia • 1d ago
 
 ---
 
-**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
+**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
 
-CCN.com • 1h ago
+Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
 
----
-
-**[Ethereum Clear Signing Push Aims To Make Wallet Approvals Safer](https://www.tradingview.com/news/newsbtc:7fce37c02094b:0-ethereum-clear-signing-push-aims-to-make-wallet-approvals-safer/)**
-
-Ethereum’s clear signing push is trying to solve one of crypto’s most stubborn user-safety problems: people approving transactions they cannot actually understand.TL;DRAnyone who has used DeFi long enough knows the problem. A wallet pops up, the user sees a string of contract data, and the approval…
-
-TradingView • 3d ago
+Benzinga • 1d ago
 
 ---
 
@@ -234,33 +234,13 @@ TradingView • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Last Chance For ETH To RALLY! (Ethereum Update)](https://www.youtube.com/watch?v=UhK8pyqfrkw)**
+**[Cathie Wood&#39;s Bold Prediction: Bitcoin &amp; Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=PuPs9I4k-kY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Cilinix Crypto
+📺 Crypto Nutshell
 
-👁️ 235 • 👍 11 • 💬 17 • ⏱️ 4:21 • 6h ago
-
----
-
-**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
-
-El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
-
-📺 Healthy Pockets
-
-👁️ 738 • 👍 132 • 💬 15 • ⏱️ 13:38 • 1h ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
-
-BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 335 • 💬 64 • ⏱️ 22:44 • 8h ago
+👁️ 356 • 👍 34 • 💬 62 • ⏱️ 17:32 • 53m ago
 
 ---
 
@@ -270,17 +250,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 160 • 💬 51 • ⏱️ 43:15 • 1d ago
-
----
-
-**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 7K • 👍 252 • 💬 32 • ⏱️ 38:25 • 1d ago
+👁️ 6K • 👍 162 • 💬 51 • ⏱️ 43:15 • 1d ago
 
 ---
 
@@ -290,7 +260,7 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 55K • 👍 4K • 💬 254 • ⏱️ 16:06 • 1d ago
+👁️ 56K • 👍 4K • 💬 258 • ⏱️ 16:06 • 1d ago
 
 ---
 
@@ -300,7 +270,37 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 230 • 💬 15 • ⏱️ 6:57 • 1d ago
+👁️ 5K • 👍 234 • 💬 15 • ⏱️ 6:57 • 1d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
+
+BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 353 • 💬 86 • ⏱️ 22:44 • 10h ago
+
+---
+
+**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 7K • 👍 256 • 💬 33 • ⏱️ 38:25 • 1d ago
+
+---
+
+**[Last Chance For ETH To RALLY! (Ethereum Update)](https://www.youtube.com/watch?v=UhK8pyqfrkw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 310 • 👍 12 • 💬 17 • ⏱️ 4:21 • 8h ago
 
 ---
 
@@ -310,7 +310,17 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 552 • 💬 125 • ⏱️ 13:26 • 11h ago
+👁️ 4K • 👍 559 • 💬 125 • ⏱️ 13:26 • 13h ago
+
+---
+
+**[Is Ethereum a Value Buy Right Now? | Value Buying Opportuntiy](https://www.youtube.com/watch?v=yzXBPHdIKLY)**
+
+Is Ethereum a Value Buy Right Now? | Value Buying Opportunity Take Control of Your Financial Future with Sarmaaya ...
+
+📺 Sarmaaya Financials
+
+👁️ 704 • 👍 26 • ⏱️ 1:33 • 11h ago
 
 ---
 
@@ -321,16 +331,6 @@ Crypto may have just solved one of its biggest problems. For years, bridge hacks
 📺 Lamia web 3 crypto
 
 👁️ 450 • 👍 2 • ⏱️ 0:39 • 1d ago
-
----
-
-**[🔴 Fed Day: ETH is coiled at $1,750 - here&#39;s the trade](https://www.youtube.com/watch?v=i9WEqrcc9B4)**
-
-CoinGPT AI - Find High-Probability Setups, Draft & Execute! https://marzell.org/CoinGPT BloFin - No KYC/No VPN needed ...
-
-📺 Marzell Crypto
-
-👁️ 384 • 👍 19 • 💬 140 • ⏱️ 2:27 • 2d ago
 
 ---
 

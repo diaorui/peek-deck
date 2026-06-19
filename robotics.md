@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-19T16:11:29.599999+00:00'
+updated: '2026-06-19T18:16:25.689117+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 19, 2026 at 16:11 UTC  
+**Last Updated:** June 19, 2026 at 18:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,11 +110,19 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 ## Google News: "robotics"
 
-**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
+**[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams](https://www.businessinsider.com/ukraine-turning-robots-mobile-weapons-hunt-russia-infiltration-groups-2026-6)**
 
-We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
+Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Anthropic • 23h ago
+Business Insider • 3h ago
+
+---
+
+**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
+
+St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
+
+KCRA • 36m ago
 
 ---
 
@@ -122,7 +130,15 @@ Anthropic • 23h ago
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
+
+We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
+
+Anthropic • 1d ago
 
 ---
 
@@ -134,11 +150,11 @@ Kraken Robotics • 1d ago
 
 ---
 
-**[Robotic exoskeleton could redefine how stroke survivors relearn to walk](https://news.northwestern.edu/stories/2026/06/new-exoskeleton-therapy-could-redefine-how-stroke-survivors-relearn-to-walk)**
+**[St. Francis Catholic High robotics team heads to world championship!](https://www.cbsnews.com/gooddaysacramento/video/st-francis-catholic-high-robotics-team-heads-to-world-championship/)**
 
-First-of-its-kind intervention improved range of motion and muscle activation
+A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
 
-Northwestern Now News • 1d ago
+CBS News • 1h ago
 
 ---
 
@@ -146,7 +162,7 @@ Northwestern Now News • 1d ago
 
 Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 
-Ars Technica • 3d ago
+Ars Technica • 1d ago
 
 ---
 
@@ -154,7 +170,15 @@ Ars Technica • 3d ago
 
 The companies offer key chips that power AI.
 
-The Motley Fool • 7h ago
+The Motley Fool • 9h ago
+
+---
+
+**[Hyundai takes full control of Boston Dynamics as SoftBank exits for $325 million](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)**
+
+Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics
+
+Startup Fortune • 13h ago
 
 ---
 
@@ -166,41 +190,9 @@ inc.com • 1d ago
 
 ---
 
-**[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams](https://www.businessinsider.com/ukraine-turning-robots-mobile-weapons-hunt-russia-infiltration-groups-2026-6)**
-
-Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
-
-Business Insider • 1h ago
-
----
-
-**[This Three-Armed Robot Can Slice-and-Dice Salmon Into Sashimi](https://www.zmescience.com/science/robotics/this-three-armed-robot-can-slice-and-dice-salmon-into-sashimi/)**
-
-Researchers built Sashimi-Bot to master one of robotics’ slipperiest challenges.
-
-ZME Science • 5m ago
-
----
-
-**[European robotics start-ups go up against Chinese heavyweights](https://techxplore.com/news/2026-06-european-robotics-ups-chinese-heavyweights.html)**
-
-Tech Xplore • 51m ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
-
-Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
-
-📺 Jason Lowe on AI
-
-👁️ 179K • 👍 8K • 💬 1K • ⏱️ 2:51 • 1d ago
-
----
 
 **[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
 
@@ -208,7 +200,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 165K • 👍 9K • 💬 920 • ⏱️ 2:57 • 5d ago
+👁️ 166K • 👍 9K • 💬 924 • ⏱️ 2:57 • 5d ago
 
 ---
 
@@ -222,43 +214,13 @@ xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tes
 
 ---
 
-**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
-
-Read the full, in-depth analysis report here: ...
-
-📺 China Update
-
-👁️ 23K • 👍 3K • 💬 226 • ⏱️ 14:28 • 1d ago
-
----
-
 **[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
 AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
 📺 InsideAI
 
-👁️ 824K • 👍 26K • 💬 3K • ⏱️ 15:10 • 4d ago
-
----
-
-**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
-
-The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
-
-📺 Perigee Tech
-
-👁️ 73K • 👍 385 • 💬 10 • ⏱️ 0:05 • 13h ago
-
----
-
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
-
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 327 • 💬 57 • ⏱️ 13:40 • 1d ago
+👁️ 833K • 👍 26K • 💬 3K • ⏱️ 15:10 • 5d ago
 
 ---
 
@@ -268,7 +230,47 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 14K • 👍 50 • 💬 51 • ⏱️ 0:55 • 1d ago
+👁️ 14K • 👍 54 • 💬 55 • ⏱️ 0:55 • 1d ago
+
+---
+
+**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
+
+War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 329 • 💬 58 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[It Comes When You Poop... Then Grinds &amp; Cleans Itself 😱 Meet Xiaoban Robot Toilet](https://www.youtube.com/watch?v=KZLeV9PyTZU)**
+
+car #electriccar #usa A Chinese company just flipped that around. Yueban has built the Xiaoban — an AI-powered robot toilet that ...
+
+📺 OTOFOOTAGE
+
+👁️ 1K • 👍 17 • 💬 7 • ⏱️ 2:04 • 1d ago
+
+---
+
+**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
+
+The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
+
+📺 Perigee Tech
+
+👁️ 84K • 👍 402 • 💬 10 • ⏱️ 0:05 • 15h ago
+
+---
+
+**[Robots and a Model Eiffel Tower Greet Macron, Modi at Paris Tech Conference](https://www.youtube.com/watch?v=GwSLouqzlpk)**
+
+French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured a major technology conference in Paris, ...
+
+📺 The Daily Guardian
+
+👁️ 26K • 👍 430 • 💬 15 • ⏱️ 0:57 • 1d ago
 
 ---
 
@@ -280,13 +282,13 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 ---
 
-**[Get Paid to Fold Laundry? Inside the $100M Robot Training Industry! 🤯](https://www.youtube.com/watch?v=7koacJYEEr4)**
+**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
 
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://join.switchit.app/YT ...
+అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
 
-📺 Vaibhav Sisinty
+📺 Zee Telugu News
 
-👁️ 63K • 👍 1K • 💬 19 • ⏱️ 1:27 • 2d ago
+👁️ 94K • 👍 360 • 💬 4 • ⏱️ 0:39 • 1d ago
 
 ---
 
