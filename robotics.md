@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-19T18:16:25.689117+00:00'
+updated: '2026-06-19T20:14:49.516623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 19, 2026 at 18:16 UTC  
+**Last Updated:** June 19, 2026 at 20:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,15 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 3h ago
-
----
-
-**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
-
-St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
-
-KCRA • 36m ago
+Business Insider • 5h ago
 
 ---
 
@@ -130,7 +122,7 @@ KCRA • 36m ago
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -154,7 +146,7 @@ Kraken Robotics • 1d ago
 
 A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
 
-CBS News • 1h ago
+CBS News • 3h ago
 
 ---
 
@@ -162,23 +154,23 @@ CBS News • 1h ago
 
 Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
 
 ---
 
-**[AMD vs. NVDA: Which Artificial Intelligence (AI) Semiconductor Stock Dominates the Next Phase of CPUs, GPUs, and Robotics?](https://www.fool.com/investing/2026/06/19/amd-vs-nvda-which-artificial-intelligence-ai-semic/)**
+**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
 
-The companies offer key chips that power AI.
+Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
 
-The Motley Fool • 9h ago
+The Detroit News • 16h ago
 
 ---
 
-**[Hyundai takes full control of Boston Dynamics as SoftBank exits for $325 million](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)**
+**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
 
-Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics
+Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-Startup Fortune • 13h ago
+olympics.com • 7h ago
 
 ---
 
@@ -187,6 +179,14 @@ Startup Fortune • 13h ago
 AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
 
 inc.com • 1d ago
+
+---
+
+**[Robotic exoskeleton could redefine how stroke survivors relearn to walk](https://news.northwestern.edu/stories/2026/06/new-exoskeleton-therapy-could-redefine-how-stroke-survivors-relearn-to-walk)**
+
+First-of-its-kind intervention improved range of motion and muscle activation
+
+Northwestern Now News • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 166K • 👍 9K • 💬 924 • ⏱️ 2:57 • 5d ago
+👁️ 166K • 👍 9K • 💬 924 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -230,7 +230,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 14K • 👍 54 • 💬 55 • ⏱️ 0:55 • 1d ago
+👁️ 14K • 👍 54 • 💬 55 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ The future of construction is already here. This video showcases the PavePal rob
 
 📺 Perigee Tech
 
-👁️ 84K • 👍 402 • 💬 10 • ⏱️ 0:05 • 15h ago
+👁️ 84K • 👍 402 • 💬 10 • ⏱️ 0:05 • 17h ago
 
 ---
 

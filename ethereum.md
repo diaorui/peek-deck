@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-19T18:16:25.685876+00:00'
+updated: '2026-06-19T20:14:49.513399+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 18:16 UTC  
+**Last Updated:** June 19, 2026 at 20:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,687.22
+### $1,703.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +1.4%  
-**30d:** -20.1%  
+**24h:** -0.3%  
+**7d:** +1.3%  
+**30d:** -20.2%  
 **90d:** -17.0%  
-**1y:** -29.2%  
+**1y:** -29.3%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 8h ago
+The Block • 10h ago
 
 ---
 
@@ -168,9 +168,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[XRP, Bitcoin, and Ethereum Slip as Lebanon Strikes Threaten to Unravel the Iran Ceasefire](https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-slip-lebanon-163126277.html)**
+**[Ethereum's New Tech Upgrade Is Coming Soon. Is It Time to Buy ETH?](https://finance.yahoo.com/markets/crypto/articles/ethereums-tech-upgrade-coming-soon-185300882.html)**
 
-After months of war headlines weighing on crypto, the U.S. and Iran finally signed the peace deal everyone had been waiting for this week. Crypto prices popped at first, but the moves have reversed, with XRP (CRYPTO:XRP), Bitcoin (CRYPTO:BTC), and Ethereum (CRYPTO:ETH) down 3-4%. The trouble started in Lebanon, where fresh Israeli strikes have hit ... XRP, Bitcoin, and Ethereum Slip as Lebanon Strikes Threaten to Unravel the Iran Ceasefire
+Ethereum will become faster, cheaper, and more secure in the second half of 2026.
 
 Yahoo Finance • 1h ago
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
 
-TradingView • 16h ago
+TradingView • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 1d ago
 
 MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -204,13 +204,21 @@ markets.businessinsider.com • 17h ago
 
 Following months of crashing prices and macro-driven fragility, Ethereum saw mixed performance across key metrics in the first quarter of 2026, according to Token Terminal.
 
-FXStreet • 19h ago
+FXStreet • 21h ago
+
+---
+
+**[Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees](https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/)**
+
+Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
+
+Crypto Briefing • 5h ago
 
 ---
 
 **[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
 
-CCN.com • 3h ago
+CCN.com • 5h ago
 
 ---
 
@@ -219,14 +227,6 @@ CCN.com • 3h ago
 Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
 
 Coinpedia • 1d ago
-
----
-
-**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
-
-Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
-
-Benzinga • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 356 • 👍 34 • 💬 62 • ⏱️ 17:32 • 53m ago
+👁️ 356 • 👍 34 • 💬 62 • ⏱️ 17:32 • 2h ago
 
 ---
 
@@ -270,7 +270,7 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 234 • 💬 15 • ⏱️ 6:57 • 1d ago
+👁️ 5K • 👍 234 • 💬 15 • ⏱️ 6:57 • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 353 • 💬 86 • ⏱️ 22:44 • 10h ago
+👁️ 7K • 👍 353 • 💬 86 • ⏱️ 22:44 • 12h ago
 
 ---
 
@@ -290,7 +290,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 7K • 👍 256 • 💬 33 • ⏱️ 38:25 • 1d ago
+👁️ 7K • 👍 256 • 💬 33 • ⏱️ 38:25 • 2d ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 310 • 👍 12 • 💬 17 • ⏱️ 4:21 • 8h ago
+👁️ 310 • 👍 12 • 💬 17 • ⏱️ 4:21 • 10h ago
 
 ---
 
@@ -310,7 +310,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 559 • 💬 125 • ⏱️ 13:26 • 13h ago
+👁️ 4K • 👍 559 • 💬 125 • ⏱️ 13:26 • 15h ago
 
 ---
 
@@ -320,7 +320,7 @@ Is Ethereum a Value Buy Right Now? | Value Buying Opportunity Take Control of Yo
 
 📺 Sarmaaya Financials
 
-👁️ 704 • 👍 26 • ⏱️ 1:33 • 11h ago
+👁️ 704 • 👍 26 • ⏱️ 1:33 • 13h ago
 
 ---
 
