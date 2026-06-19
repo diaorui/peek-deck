@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-19T04:22:47.432906+00:00'
+updated: '2026-06-19T09:20:14.450433+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 04:22 UTC  
+**Last Updated:** June 19, 2026 at 09:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,846.59
+### $62,452.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -2.7%  
-**30d:** -19.2%  
-**90d:** -7.6%  
-**1y:** -39.3%  
+**24h:** -2.8%  
+**7d:** -3.3%  
+**30d:** -19.7%  
+**90d:** -8.1%  
+**1y:** -39.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1259.12B
+**Market Cap:** $1249.32B
 Rank #1
 
-**Circulating Supply:** 20,044,787 BTC
+**Circulating Supply:** 20,044,915 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.3%
+-50.5%
 
 **All-Time Low:** $67.81
-+92396.7%
++91907.1%
 
 ---
 
@@ -157,47 +157,47 @@ Hello guys, anyone ever used btc atm in Swiss? Does they need kyc?
 
 ## Google News: "bitcoin"
 
-**[JPMorgan says bitcoin mining economics have 'worsened' as BTC trades below production cost](https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost)**
+**[Bitcoin traders load up on bearish bets all the way down to $52,000](https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000)**
 
-JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.
+Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.
 
-The Block • 9h ago
-
----
-
-**[Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says](https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says)**
-
-Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.
-
-CoinDesk • 23h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Nobel-winning economist has stark Bitcoin warning for SpaceX bulls](https://finance.yahoo.com/markets/crypto/articles/nobel-winning-economist-stark-bitcoin-230000083.html)**
+**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-back-toward-60-174630587.html)**
 
-When Elon Musk's spaceflight and artificial intelligence (AI) company SpaceX made its public debut on June 12, the first thing that caught the attention of the crypto community was the firm's large Bitcoin (BTC) holdings. With 18,712 Bitcoin on its balance sheet as of March 31, ...
+(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealMukesh Ambani’s Promise to Investors on Jio IPO Will
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
 
-Bloomberg.com • 10h ago
+Bloomberg • 12h ago
 
 ---
 
-**[Why Bitcoin Titan Strategy's STRC Is Falling to New Lows](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-titan-strategys-strc-180142196.html)**
+**[Bitcoin Whale Faces Gut Punch: Borrowing Rate May Hit 12%](https://www.investors.com/news/bitcoin-whale-strategy-faces-gut-punch-12-percent-borrowing-rate-mstr/)**
 
-Strategy’s flagship preferred stock is facing pressure, but analysts say that's not yet an existential threat for the Bitcoin treasury giant.
-
-Yahoo Finance • 10h ago
+Investor's Business Daily • 13h ago
 
 ---
 
-**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
+**[Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners](https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners)**
 
-Barron's • 16h ago
+About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.
+
+CoinDesk • 17m ago
+
+---
+
+**[Coinbase CEO on bitcoin bottom, AI agents, and his war of words with JPMorgan CEO](https://finance.yahoo.com/markets/article/coinbase-ceo-on-bitcoin-bottom-ai-agents-and-his-war-of-words-with-jpmorgan-ceo-132234356.html)**
+
+One-on-one with Coinbase co-founder and CEO Brian Armstrong.
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -209,27 +209,27 @@ CNBC • 1d ago
 
 ---
 
+**[JPMorgan says bitcoin mining economics have 'worsened' as BTC trades below production cost](https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost)**
+
+JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.
+
+The Block • 14h ago
+
+---
+
+**[Bitcoin mining paln at empty East Texas auto shop sparks neighborhood fight](https://www.yahoo.com/news/us/articles/bitcoin-mining-paln-empty-east-131501147.html)**
+
+The proposed facility would sit just outside downtown in this East Texas city.
+
+Yahoo • 20h ago
+
+---
+
 **[A Framework for Valuing Bitcoin Miners as AI Infrastructure](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-a-framework-for-valuing-bitcoin-miners-as-ai-infrastructure/)**
 
 How to value bitcoin miners pivoting to AI: energized power, delivery risk, tenant quality, and a ~$50B funding gap.
 
 vaneck.com • 2d ago
-
----
-
-**[BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF](https://bitcoinmagazine.com/news/blackrock-executive-calls-bitcoin-too-big)**
-
-BlackRock's new BITA ETF uses a covered-call strategy on its spot Bitcoin ETF holdings to generate monthly income.
-
-Bitcoin Magazine • 8h ago
-
----
-
-**[Why I'm Watching the Crypto Fear and Greed Index for My Next Buy Signal](https://www.fool.com/investing/2026/06/18/why-watch-crypto-fear-greed-index-for-buy-signals/)**
-
-Extreme fear can signal opportunity. Here's one way to spot it in the crypto market.
-
-The Motley Fool • 5h ago
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 nativ
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 3 • 💬 0 • 3d ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+⬆️ 3 • 💬 0 • 4d ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
 
 ---
 
@@ -303,7 +303,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 **[Applied AI Engineer/ Product Builder/ Data Science](https://news.ycombinator.com/item?id=48594452)**
 
-⬆️ 2 • 💬 0 • 1h ago
+⬆️ 2 • 💬 0 • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 141 • ⏱️ 12:12 • 1d ago
+👁️ 50K • 👍 3K • 💬 142 • ⏱️ 12:12 • 1d ago
 
 ---
 
@@ -335,17 +335,7 @@ Solana Policy Institute president & Blockchain Association Board Chair Kristin S
 
 📺 Fox Business
 
-👁️ 135K • 👍 2K • 💬 738 • ⏱️ 10:23 • 14h ago
-
----
-
-**[Bitcoin Is Already Telling You What Comes Next](https://www.youtube.com/watch?v=BYo_k2D8oi8)**
-
-The AI trade has absorbed nearly all available capital, but every bubble eventually reaches its limit. This breakdown explores why ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 176 • ⏱️ 15:41 • 2d ago
+👁️ 152K • 👍 2K • 💬 776 • ⏱️ 10:23 • 19h ago
 
 ---
 
@@ -355,7 +345,7 @@ Trade Stocks & Crypto on Bitget: https://www.bitget.com/ Altcoin Daily Merch: ht
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 124 • ⏱️ 13:44 • 7h ago
+👁️ 34K • 👍 2K • 💬 203 • ⏱️ 13:44 • 12h ago
 
 ---
 
@@ -365,17 +355,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 913 • 💬 417 • ⏱️ 8:56 • 1d ago
-
----
-
-**[Will Bitcoin Get a Macro Relief Rally?](https://www.youtube.com/watch?v=cltI8IEZmvU)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 690 • 💬 285 • ⏱️ 55:00 • 13h ago
+👁️ 19K • 👍 917 • 💬 500 • ⏱️ 8:56 • 1d ago
 
 ---
 
@@ -385,7 +365,27 @@ Strategy's STRC is breaking down, and the panic around Michael Saylor's Bitcoin 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 401 • ⏱️ 17:03 • 6h ago
+👁️ 32K • 👍 2K • 💬 541 • ⏱️ 17:03 • 11h ago
+
+---
+
+**[Are Bitcoin Investors Doomed?](https://www.youtube.com/watch?v=EYKY4jcj5eA)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 741 • 💬 390 • ⏱️ 14:21 • 8h ago
+
+---
+
+**[Bitcoin Social Risk](https://www.youtube.com/watch?v=gAf6tPzkcgg)**
+
+Let's discuss the Bitcoin social risk! Into The Cryptoverse Premium SALE (ENDS SOON!): https://intothecryptoverse.com Sign up to ...
+
+📺 Benjamin Cowen
+
+👁️ 16K • 👍 1K • 💬 119 • ⏱️ 17:36 • 4h ago
 
 ---
 
@@ -395,17 +395,7 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 48K • 👍 4K • 💬 240 • ⏱️ 16:06 • 16h ago
-
----
-
-**[A Smaller Rival Just Out-Engineered Saylor&#39;s Bitcoin Buying Machine](https://www.youtube.com/watch?v=3mcj2dwYZas)**
-
-While everyone watches Saylor, a smaller rival might be quietly out-engineering him, Matt Cole's Strive launched a product called ...
-
-📺 The Wolf Of All Streets
-
-👁️ 1K • 👍 51 • 💬 191 • ⏱️ 1:31 • 7h ago
+👁️ 52K • 👍 4K • 💬 248 • ⏱️ 16:06 • 21h ago
 
 ---
 
@@ -415,7 +405,17 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 107 • 💬 97 • ⏱️ 17:47 • 1d ago
+👁️ 3K • 👍 108 • 💬 97 • ⏱️ 17:47 • 1d ago
+
+---
+
+**[🚨 BITCOIN!!! WE HAVE A PROBLEM....? WHALES JUST PLAYED THEIR HAND!!! [buckle up]](https://www.youtube.com/watch?v=53TQVZrFEDk)**
+
+Bitcoin tumbles after FED meeting. Are we in for a worse #BTC bear or have the whales left us major clues? WEEX ...
+
+📺 Crypto Zombie
+
+👁️ 14K • 👍 1K • 💬 200 • ⏱️ 25:22 • 14h ago
 
 ---
 
