@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-19T21:44:26.591702+00:00'
+updated: '2026-06-19T22:58:45.785538+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 19, 2026 at 21:44 UTC  
+**Last Updated:** June 19, 2026 at 22:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A sworn declaration from the Pentagon's chief digital and AI officer confirms a federal-only build, Grok Gov, was wired into US targeting systems during operations against Iran, helping deploy more than 2,000 munitions against 2,000 distinct targets over 96 hours. What makes it notable is how it surfaced: the declaration landed in a Clean Air Act lawsuit over xAI's Mississippi data center, where the DOJ is arguing that disrupting xAI would harm national security. So a commercial chatbot vendor's role in live targeting came out as a side effect of an environmental case, not through any defense channel. Source : https://aiweekly.co/alerts/pentagon-confirms-grok-guided-2000-iran-strikes
 
-5h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ A sworn declaration from the Pentagon's chief digital and AI officer confirms a 
 
 A few stories from the past week that, taken together, point to a real shift at the model layer rather than just incremental releases: Meta and Llama. Multiple reports indicate Meta is stepping back from open-source Llama in favor of a proprietary program (internally referred to as "Muse Spark," with a new "Avocado" model) under Meta Superintelligence Labs. Llama crossed 650M+ downloads and was arguably the anchor of the open-weights ecosystem, so a pivot to closed development would be significant for anyone relying on that lineage. Anthropic and export controls. Anthropic launched Claude Fable 5 on June 9 (Mythos-class, 1M-token context, always-on adaptive reasoning, notable security/vuln-finding capabilities). On June 12, a US export-control directive reportedly forced Anthropic to suspend access to Fable 5 and Mythos 5. Regardless of the specifics, it's a concrete example of frontier model availability being governed by policy, not just product decisions. Apple and Google. At WWDC, Apple shipped its Siri overhaul with parts powered by a Gemini partnership. EU/China rollout is delayed on regulatory grounds. Cost/commodity trend. Google cut Gemini Ultra from $250 to $200/mo and shipped 3.5 Flash; Alibaba's Qwen3.7-Plus is running at ~1/6 the per-token cost of its top tier; and open-weight models like Qwen 3.6 27B (reportedly 77.2% on SWE-bench, fits in 24GB) and Kimi K2.6 are increasingly viable for local/production use via Ollama (v0.30.8, June 12). Platform agents. Google added Managed Agents to the Gemini API, Microsoft made Copilot Cowork GA plus "Autopilot" agents, and Anthropic shipped scheduled/cron agents in beta. My take as someone building on top of these APIs: the two forces I'm watching are (1) frontier availability becoming a policy/geopolitics variable, and (2) the platforms absorbing the agent-orchestration layer that a lot of startups were building. Practically, that pushes me toward provider abstraction and keeping an open-weight fallback wired up, rather than hard-coupling to any single closed model. Curious whether others here are actually maintaining open-weight fallbacks in production, or if that's still mostly theoretical for most teams.
 
-4h ago
+5h ago
 
 ---
 
@@ -69,17 +69,25 @@ Built a little internal utility about a year ago, open sourced it because why no
 
 ---
 
-**[Is AI ruining our skills? Early results are in — and they’re not good](https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/)**
-
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-01947-1) • 1h ago
-
----
-
 **[Roguelite MMO - Vibe Coded Online Game](https://www.reddit.com/r/artificial/comments/1ua7xpc/roguelite_mmo_vibe_coded_online_game/)**
 
 I have long wanted to create a text based browser game (as niche as they are) but I knew that it would take a few years to do so and that just wasn't in the cards for me.... fast forward to 2026 and in two months, I have my first game up and some happy customers (as of today) subscribed! The one thing I have fought with the most was ignoring all of the 'ai slop' feedback. I have been a dev for over 10 years, yea I get it... but ultimately AI/Vibe Coding is not going anywhere. This project has actually even helped me with my day job just in learning about so many tools I would otherwise not know about (since my day job is NOT related to gaming websites but analytical ones). I wont recover the cost of servers or subscription based tools I used to make this, and I knew that going into it and have zero care about it (which is why I made it so f2p friendly as well). What I am happy about though is that those who do see it for what it is, an actual passion project and not just a 'prompt and forget' thing have given nothing but positive feedback. That in the end was all I was really going for, creating something that people can have fun with (and in a very anti-whale way) and I have succeeded there. If interested: https://roguelite-mmo.com/
 
-4h ago
+5h ago
+
+---
+
+**[Is AI ruining our skills? Early results are in — and they’re not good](https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/)**
+
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-01947-1) • 3h ago
+
+---
+
+**[AI just crossed the line from "tool" to "production pipeline" full short-form videos from a single prompt, end-to-end](https://www.reddit.com/r/artificial/comments/1uag2pu/ai_just_crossed_the_line_from_tool_to_production/)**
+
+The last 6 months have experienced an enormous leap forward in terms of AI production capabilities. I generated a tweet, which through AI, translated into an official 30s video complete with a written script, voiceover narration, inclusion of clips to accompany both visuals and audio narration together with subtitles for both video and audio, were produced. ​ Previously, this would have been considered a novelty item only. Now, it has evolved into something useful but probably wouldn't appeal to the majority if everything from this point on goes well for its users right now. ​ The true "wow" factor is not the quality of the actual video itself; rather, it is the entire process of moving from five different tools to just one prompt from start to finish. ​ What do you think is the limit in terms of human versus AI created short-form content moving forward?
+
+14m ago
 
 ---
 
@@ -87,37 +95,101 @@ I have long wanted to create a text based browser game (as niche as they are) bu
 
 The three systems below (HippoRAG 2, CoRAG, NeocorRAG) are among the strongest multi-hop QA frameworks published. Every one of them depends on a GPU, fine-tuning, or constrained decoding to get there. MOTHRAG sits right alongside them on F1, while running entirely on commodity API calls. No GPU. No fine-tuning. No constrained decoding. No non-commercial licenses. System | Deployment | HotpotQA | 2Wiki | MuSiQue | AVG HippoRAG 2 | offline graph + GPU | 75.5 | 71.0 | 48.6 | 65.0 CoRAG | trained retrieval | 75.1 | 75.1 | 52.9 | 67.7 NeocorRAG | GPU constrained decode| 78.3 | 76.1 | 52.6 | 69.0 MOTHRAG (ours) | commodity APIs only | 78.1 | 76.3 | 50.5 | 68.3 Highest average F1 among commercially-deployable frameworks, within 0.7 points of the GPU-bound state of the art, and ahead of it on 2Wiki. The point isn't beating these systems, it's reaching their tier with none of their infrastructure. Deployment is a pip install plus API keys: pip install mothrag from mothrag import MothRAG m = MothRAG.from_documents(["Paris is the capital of France.", "The Eiffel Tower is in Paris."]) result = m.query("In which country is the Eiffel Tower?") print(result.answer) print(result.confidence) The pipeline is fully modular. Readers, embedders and retrieval judges all swap without retraining, installed as optional extras: gemini/openai for API readers and embedders, sentence-transformers for a local embedding fallback, faiss for vector stores over 100k-10M chunks, retrieval for classic BM25/graph features, prod for the full stack. A one-flag economy tier swaps the retrieval judge and drops cost from ~$0.032 to ~$0.018 per query at statistical parity on HotpotQA and 2Wiki. Every answer is proof-tree-structured so you can inspect each reasoning hop, and the per-query outputs behind every table in the paper are released so you can verify the numbers. Paper: https://zenodo.org/records/20668567 Code (Apache 2.0): https://github.com/juliangeymonat-jpg/mothrag Site: https://mothrag.com Happy to answer questions about the pipeline or the judge design.
 
-🔗 [linkedin.com](https://www.linkedin.com/pulse/matching-worlds-top-multi-hop-rag-systems-gpu-just-pip-geymonat-zbgxe?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 3h ago
+🔗 [linkedin.com](https://www.linkedin.com/pulse/matching-worlds-top-multi-hop-rag-systems-gpu-just-pip-geymonat-zbgxe?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 4h ago
 
 ---
 
-**[AMD introduces an AI-powered Bash coding agent](https://www.reddit.com/r/artificial/comments/1u9zyx7/amd_introduces_an_aipowered_bash_coding_agent/)**
+**[Authenticity Issue](https://www.reddit.com/r/artificial/comments/1uaewdu/authenticity_issue/)**
 
-Just days after AMD engineers released a new Lemonade AI server with MCP server integration to make it much more useful, they have now released a new release of their GAIA 'Generative AI Is Awesome' open-source software
+Something I am legitimately worried about is the scale at which agentic technologies can produce artifacts, which are then contributed as part of the general corpus that they reference. The more that the internet and other public databases are propagated with AI-generated content, the more that AI is effectively training itself in referencing these corpuses. This seems like a non-issue now, but in 10-15 years when billions of AI-generated artifacts have been proliferated and contributed to the general reference corpus that is the internet and/or human-relevant databases, what exactly is going to happen to our ability to verify that these references are indeed grounded in reality? This is not necessarily a problem, if humans and/or tools are built to introduce attribution and audibility into the stack. Otherwise, I think we risk something far more severe. We will not be able to effectively determine whether an individual information resource was AI generated or human-generated, let alone its authenticity and grounding in reality. Therefore we will not be able to distinguish whether the statistical relationships between symbolic artifacts are grounded in a baseline of truth or not. This is not a problem now. It poses severe consequences for a future state in which AI is governing transportation, weapons systems, power grids, and communications equipment. Even if un-attributable AI generation does not affect those systems directly, it will influence the decisions made by the production systems (companies) who build, maintain, and improve them. This is only one threat-vector. Intentional introduction of inauthentic and unverifiable references into the corpus leads to a bigger issue, namely an inability to determine whether a given information resource was generated by a human, and what, if any, that human's intent was in introducing that information resource to the pond of information resources. In dynamic terms I guess the specific ratio I am worried about is speed of artifact generation / speed of artifact verification, combined or multiplied with ease of artifact generation / ease of artifact verification
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-Bash-Coding-Agent) • 9h ago
-
----
-
-**[AI learned to be a villain from Hollywood. Here's how we retrain it.](https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/)**
-
-Podcast with Peter Diamandis, entrepreneur and founder of the XPRIZE Foundation, which runs large-scale incentive competitions to crack some of the world's hardest problems, from private spaceflight to carbon removal. He recently launched the Future Vision XPRIZE, a $3.5 million competition to generate a new wave of optimistic science fiction. Covers: The historical pattern of science fiction shaping the technologies we build, and why Peter thinks this makes the stories we tell about AI especially high stakes right now How Claude’s blackmailing behavior showed the connection between dystopian training data and AI behavior How the Future Vision XPRIZE will generate a new wave of optimistic science fiction to train AI on Why public optimism about technology has dropped significantly in the US and Europe, what Peter thinks is driving it, and why he believes the data tells a different story How the cost of starting a company has fallen dramatically and how this can empower you to build your vision Why Peter thinks traditional education is no longer preparing young people for the future, and what he sees replacing it
-
-🔗 [existentialhope.com](https://www.existentialhope.com/podcasts/peter-diamandis) • 5h ago
+1h ago
 
 ---
 
-**[Why do AI systems still struggle to interpret uncertainty in human conversation?](https://www.reddit.com/r/artificial/comments/1ua5feg/why_do_ai_systems_still_struggle_to_interpret/)**
+**[I built a benchmark for multi-turn prompt injection attacks. Most defenses never see them coming.](https://www.reddit.com/r/artificial/comments/1uaesm9/i_built_a_benchmark_for_multiturn_prompt/)**
 
-One limitation I keep noticing in conversational AI systems is how they handle uncertainty in human communication. They perform well when input is structured and intent is clear, but things become less reliable when users are unsure, changing direction mid-thought, or expressing ideas indirectly. In most current systems, each message is treated as if it carries the same level of confidence, even though in real conversations that is rarely the case. Human communication often includes hesitation, partial statements, corrections, and shifts in intent. These signals can completely change the meaning of what is being said, but they are not explicitly modeled in most language-based systems. This raises a broader question about how conversational AI should be designed: whether systems should continue relying mainly on text interpretation, or whether additional contextual signals are necessary to better reflect real human interaction. Where do you think the current approach is falling short, and what would actually improve it without overcomplicating system design?
+Most prompt injection benchmarks are one-shot. The attack says “ignore your instructions” and the defense either catches it or doesn’t. Real attacks are often slower. The model gets nudged over multiple turns. A webpage plants a suggestion. An email reinforces it. A tool output reframes it. Five turns later the agent is doing something it never should have done. I got curious how existing defenses handled this, so I built a benchmark around multi-turn escalation and cross-source authority transfer. The interesting part wasn’t the attacks themselves. It was how hard it is to attribute trust correctly across sources and over time. I open sourced the benchmark, the proxy, and a live red team environment so people can reproduce the results themselves. Repo: https://github.com/9hannahnine-jpg/arc-gate Live demo: https://web-production-6e47f.up.railway.app/demo Would love people to try breaking it. If you find a bypass I’ll add it to the benchmark.
 
-6h ago
+1h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)**
+
+Reuters • 7h ago
+
+---
+
+**[‘We created a monster’: companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314?syn-25a6b1a6=1)**
+
+Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
+
+Financial Times • 18h ago
+
+---
+
+**[Boy George Reworks 'Karma Chameleon' With Artist Included 'Ethical' AI](https://www.forbes.com/sites/jeffbenjamin/2026/06/19/boy-george-isnt-afraid-of-ai-a-reborn-karma-chameleon-proves-why/)**
+
+Boy George re-recorded Culture Club's "Karma Chameleon" for Artist Included, a new artist-first AI music company aiming to return ownership and value to legacy artists.
+
+Forbes • 28m ago
+
+---
+
+**[Exclusive: Conservatives plan nationwide protest against AI data centers](https://www.axios.com/2026/06/18/conservatives-protest-ai-data-centers)**
+
+Axios • 1d ago
+
+---
+
+**[Amazon investigating engineers who criticized AI data center expansion](https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html)**
+
+Five Amazon employees testified at Seattle City Council meetings where officials sought feedback on a year-long data center new construction pause.
+
+CNBC • 1d ago
+
+---
+
+**[Opinion | Two Virginia Counties Diverge on AI Data Centers](https://www.wsj.com/opinion/two-virginia-counties-diverge-on-ai-data-centers-8835c1de)**
+
+WSJ • 1h ago
+
+---
+
+**[Get with the times — here's what a 'Luddite' means today](https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai)**
+
+It's often a derogatory term used to describe digital dinosaurs and technophobes. That wasn't always the case. NPR's Word of the Week looks back at the not so backwards-looking Luddites.
+
+NPR • 13h ago
+
+---
+
+**[This nuclear stock will benefit from AI datacenter buildout and soaring energy demand, Roth Capital says](https://www.cnbc.com/2026/06/19/nano-nuclear-may-benefit-from-ai-rising-energy-demand-roth-capital-says.html)**
+
+Stock in Nano Nuclear Energy should appreciate as it nears commercialization of its reactor plans while energy demand is surging, Roth Capital said.
+
+CNBC • 10h ago
+
+---
+
+**[Lutnick’s Anthropic Crackdown Claims New Power Over AI Models](https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models)**
+
+Bloomberg.com • 10h ago
+
+---
+
+**[US export ban on Anthropic’s AI models further strains alliances](https://www.aljazeera.com/news/2026/6/19/us-export-ban-on-anthropics-ai-models-further-strains-alliances)**
+
+Trump administration's move to cut off allies' access to advanced AI prompts calls for greater self-reliance.
+
+Al Jazeera • 13h ago
+
+---
 
 ---
 
@@ -127,7 +199,7 @@ One limitation I keep noticing in conversational AI systems is how they handle u
 
 Original research from 2,000 decision-makers and consumers on AI brand visibility, content trust, and what brands need to do as the web feels less human. 74% say the internet feels less human than it did 10 years ago.
 
-⬆️ 1074 • 💬 574 • 2d ago • [The Leading Enterprise Content Platform | WordPress VIP](https://wpvip.com/future-of-the-web-2026/)
+⬆️ 1075 • 💬 574 • 2d ago • [The Leading Enterprise Content Platform | WordPress VIP](https://wpvip.com/future-of-the-web-2026/)
 
 ---
 
@@ -141,7 +213,7 @@ Original research from 2,000 decision-makers and consumers on AI brand visibilit
 
 Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.
 
-⬆️ 397 • 💬 496 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
+⬆️ 397 • 💬 497 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
 
 ---
 
@@ -149,7 +221,7 @@ Although Wall Street loves AI, every day Americans are significantly less optimi
 
 How earbuds influence our beliefs and push us apart.
 
-⬆️ 357 • 💬 628 • 22h ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 365 • 💬 648 • 23h ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
 ---
 
@@ -161,6 +233,12 @@ We share how AI-native founders are using Claude at every stage of the startup j
 
 ---
 
+**[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
+
+⬆️ 213 • 💬 148 • 6h ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+
+---
+
 **[Launch HN: Adam (YC W25) – Open-Source AI CAD](https://news.ycombinator.com/item?id=48572553)**
 
 CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM
@@ -169,17 +247,17 @@ CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM
 
 ---
 
-**[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
-
-⬆️ 184 • 💬 240 • 3h ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
-
----
-
 **[A new bill takes aim at government pressure to silence lawful online speech](https://news.ycombinator.com/item?id=48600950)**
 
 The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.
 
-⬆️ 178 • 💬 94 • 4h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+⬆️ 206 • 💬 112 • 5h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+
+---
+
+**[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
+
+⬆️ 190 • 💬 258 • 4h ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -188,14 +266,6 @@ The bipartisan legislation creates a federal cause of action against government 
 Portfolio and personal blog of Chris Hillman.
 
 ⬆️ 141 • 💬 122 • 2d ago • [ghostinthedata.info](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
-
----
-
-**[The AI Hate Progression](https://news.ycombinator.com/item?id=48589485)**
-
-I think I've spoken at length in other places about how I am a very staunch AI hater and everything I hate about how the tech is presented t...
-
-⬆️ 121 • 💬 180 • 1d ago • [xodium.net](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
 
 ---
 
@@ -209,7 +279,7 @@ Buy Gold & Silver At A Discount: https://bit.ly/IPM-Sean-Foo-Gold - Just use the
 
 📺 Sean Foo
 
-👁️ 39K • 👍 3K • 💬 306 • ⏱️ 14:29 • 7h ago
+👁️ 39K • 👍 3K • 💬 306 • ⏱️ 14:29 • 8h ago
 
 ---
 
@@ -219,7 +289,7 @@ How the Internet of Cognition can transform outcomes in 5 real-world use cases: 
 
 📺 Silicon Valley Girl
 
-👁️ 4K • 👍 179 • 💬 10 • ⏱️ 49:04 • 7h ago
+👁️ 4K • 👍 179 • 💬 10 • ⏱️ 49:04 • 8h ago
 
 ---
 
@@ -229,7 +299,7 @@ How the Internet of Cognition can transform outcomes in 5 real-world use cases: 
 
 📺 ABC News
 
-👁️ 10K • 👍 204 • 💬 94 • ⏱️ 5:37 • 19h ago
+👁️ 10K • 👍 204 • 💬 94 • ⏱️ 5:37 • 20h ago
 
 ---
 
@@ -259,7 +329,7 @@ Here's The AI News You Probably Missed This Week. Learn more about how Box AI ca
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 173 • ⏱️ 35:44 • 6h ago
+👁️ 20K • 👍 1K • 💬 173 • ⏱️ 35:44 • 7h ago
 
 ---
 
@@ -279,7 +349,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 12K • 💬 7 • ⏱️ 20:08 • 7h ago
+👁️ 12K • 💬 7 • ⏱️ 20:08 • 8h ago
 
 ---
 
@@ -289,7 +359,7 @@ Higgsfield Supercomputer Replaced My Marketing Team (here's how) Try Higgsfield:
 
 📺 Skai Generated
 
-👁️ 4K • ⏱️ 7:55 • 3h ago
+👁️ 4K • ⏱️ 7:55 • 5h ago
 
 ---
 
@@ -299,7 +369,7 @@ There's growing concern about the state of the global economy. Warnings about th
 
 📺 Piers Morgan Uncensored
 
-👁️ 32K • 👍 763 • 💬 295 • ⏱️ 42:14 • 3h ago
+👁️ 32K • 👍 763 • 💬 295 • ⏱️ 42:14 • 4h ago
 
 ---
 
@@ -315,7 +385,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 268,102 • ❤️ 1,828 • 17h ago
+⬇️ 268,102 • ❤️ 1,828 • 19h ago
 
 ---
 
@@ -327,7 +397,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 11,871 • ❤️ 1,525 • 12h ago
+⬇️ 11,871 • ❤️ 1,525 • 13h ago
 
 ---
 
@@ -363,7 +433,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 12,148 • ❤️ 455 • 3h ago
+⬇️ 12,148 • ❤️ 455 • 4h ago
 
 ---
 
@@ -571,7 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 74.3k • 🔱 9.6k • 11h ago
+⭐ 74.3k • 🔱 9.6k • 13h ago
 
 ---
 
@@ -581,7 +651,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 39.9k • 🔱 1.9k • 12h ago
+⭐ 39.9k • 🔱 1.9k • 14h ago
 
 ---
 
@@ -591,7 +661,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 9.9k • 🔱 916 • 5h ago
+⭐ 9.9k • 🔱 916 • 6h ago
 
 ---
 
@@ -601,7 +671,7 @@ AI agent workspace with Code and Write modes built into your application.
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 402 • 6h ago
+⭐ 4.5k • 🔱 402 • 7h ago
 
 ---
 
@@ -611,7 +681,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.0k • 🔱 450 • 2h ago
+⭐ 4.0k • 🔱 450 • 4h ago
 
 ---
 
@@ -651,7 +721,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.6k • 🔱 124 • 3h ago
+⭐ 1.6k • 🔱 124 • 4h ago
 
 ---
 

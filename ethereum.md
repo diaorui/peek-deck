@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-19T21:44:26.604746+00:00'
+updated: '2026-06-19T22:58:45.800352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 21:44 UTC  
+**Last Updated:** June 19, 2026 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,703.67
+### $1,702.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +1.4%  
-**30d:** -20.1%  
-**90d:** -17.0%  
-**1y:** -29.2%  
+**24h:** -0.1%  
+**7d:** +1.7%  
+**30d:** -19.9%  
+**90d:** -16.8%  
+**1y:** -29.0%  
 
 ---
 
@@ -156,15 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 11h ago
-
----
-
-**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
-
-Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
-
-unchainedcrypto.com • 10h ago
+The Block • 12h ago
 
 ---
 
@@ -176,19 +168,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs](https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs)**
+**[Arthur Hayes Sells Ethereum at a Loss as Whales Keep Buying Near Support](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-sells-ethereum-loss-223400621.html)**
 
-Another key figure at the Ethereum Foundation is stepping away from her post, continuing a recent leadership exodus.
+Ethereum (CRYPTO: $ETH) is back near a key technical level after Arthur Hayes appeared to cut a recent ETH pos...
 
-Decrypt • 1d ago
-
----
-
-**[Ethereum's New Tech Upgrade Is Coming Soon. Is It Time to Buy ETH?](https://finance.yahoo.com/markets/crypto/articles/ethereums-tech-upgrade-coming-soon-185300882.html)**
-
-Ethereum will become faster, cheaper, and more secure in the second half of 2026.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -196,7 +180,31 @@ Yahoo Finance • 2h ago
 
 Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
 
-TradingView • 20h ago
+TradingView • 21h ago
+
+---
+
+**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
+
+The coin's central issue is becoming harder to ignore.
+
+The Motley Fool • 17m ago
+
+---
+
+**[Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-plans-more-cex-reveals-after-azbit-as-ethereum-price-prediction-hits-4-000-1036261665)**
+
+MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
+
+markets.businessinsider.com • 21h ago
+
+---
+
+**[Ethereum Price Forecast: Tokenization and network activity skyrocket in Q1 despite DeFi contraction](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-tokenization-and-network-activity-skyrocket-in-q1-despite-defi-contraction-202606182308)**
+
+Following months of crashing prices and macro-driven fragility, Ethereum saw mixed performance across key metrics in the first quarter of 2026, according to Token Terminal.
+
+FXStreet • 23h ago
 
 ---
 
@@ -208,27 +216,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-plans-more-cex-reveals-after-azbit-as-ethereum-price-prediction-hits-4-000-1036261665)**
-
-MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
-
-markets.businessinsider.com • 20h ago
-
----
-
-**[Ethereum Price Forecast: Tokenization and network activity skyrocket in Q1 despite DeFi contraction](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-tokenization-and-network-activity-skyrocket-in-q1-despite-defi-contraction-202606182308)**
-
-Following months of crashing prices and macro-driven fragility, Ethereum saw mixed performance across key metrics in the first quarter of 2026, according to Token Terminal.
-
-FXStreet • 22h ago
-
----
-
 **[Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees](https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/)**
 
 Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 8h ago
+
+---
+
+**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -242,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 153 • 💬 17 • ⏱️ 17:32 • 4h ago
+👁️ 2K • 👍 153 • 💬 17 • ⏱️ 17:32 • 5h ago
 
 ---
 
@@ -252,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 438 • 👍 14 • 💬 13 • ⏱️ 4:21 • 12h ago
+👁️ 438 • 👍 14 • 💬 13 • ⏱️ 4:21 • 13h ago
 
 ---
 
@@ -262,7 +260,7 @@ El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de sali
 
 📺 Healthy Pockets
 
-👁️ 4K • 👍 375 • 💬 39 • ⏱️ 13:38 • 7h ago
+👁️ 4K • 👍 375 • 💬 39 • ⏱️ 13:38 • 8h ago
 
 ---
 
@@ -302,7 +300,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 368 • 💬 69 • ⏱️ 22:44 • 13h ago
+👁️ 8K • 👍 368 • 💬 69 • ⏱️ 22:44 • 15h ago
 
 ---
 
@@ -312,7 +310,7 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 144 • ⏱️ 12:12 • 1d ago
+👁️ 52K • 👍 3K • 💬 144 • ⏱️ 12:12 • 2d ago
 
 ---
 
@@ -330,7 +328,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 ማሜ የባህል ልብስ
 
-👁️ 1K • 👍 28 • ⏱️ 0:19 • 4h ago
+👁️ 1K • 👍 28 • ⏱️ 0:19 • 6h ago
 
 ---
 

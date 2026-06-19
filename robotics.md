@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-19T21:44:26.607576+00:00'
+updated: '2026-06-19T22:58:45.803525+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 19, 2026 at 21:44 UTC  
+**Last Updated:** June 19, 2026 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 6h ago
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -158,11 +158,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[St. Francis Catholic High robotics team heads to world championship!](https://www.cbsnews.com/gooddaysacramento/video/st-francis-catholic-high-robotics-team-heads-to-world-championship/)**
+**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
 
-A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
+Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
 
-CBS News • 5h ago
+The Detroit News • 18h ago
 
 ---
 
@@ -170,15 +170,15 @@ CBS News • 5h ago
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-olympics.com • 8h ago
+olympics.com • 9h ago
 
 ---
 
-**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
+**[St. Francis Catholic High robotics team heads to world championship!](https://www.cbsnews.com/gooddaysacramento/video/st-francis-catholic-high-robotics-team-heads-to-world-championship/)**
 
-Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
+A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
 
-The Detroit News • 17h ago
+CBS News • 6h ago
 
 ---
 
@@ -220,7 +220,7 @@ The future of construction is already here. This video showcases the PavePal rob
 
 📺 Perigee Tech
 
-👁️ 92K • 👍 415 • 💬 10 • ⏱️ 0:05 • 18h ago
+👁️ 92K • 👍 415 • 💬 10 • ⏱️ 0:05 • 20h ago
 
 ---
 
