@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-19T20:14:49.516623+00:00'
+updated: '2026-06-19T21:44:26.607576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 19, 2026 at 20:14 UTC  
+**Last Updated:** June 19, 2026 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 5h ago
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -134,19 +134,19 @@ Anthropic • 1d ago
 
 ---
 
+**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
+
+AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
+
+inc.com • 1d ago
+
+---
+
 **[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-regulatory-approval-of-its-acquisition-of-covelya-group/)**
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
 Kraken Robotics • 1d ago
-
----
-
-**[St. Francis Catholic High robotics team heads to world championship!](https://www.cbsnews.com/gooddaysacramento/video/st-francis-catholic-high-robotics-team-heads-to-world-championship/)**
-
-A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
-
-CBS News • 3h ago
 
 ---
 
@@ -158,11 +158,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
+**[St. Francis Catholic High robotics team heads to world championship!](https://www.cbsnews.com/gooddaysacramento/video/st-francis-catholic-high-robotics-team-heads-to-world-championship/)**
 
-Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
+A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
 
-The Detroit News • 16h ago
+CBS News • 5h ago
 
 ---
 
@@ -170,15 +170,15 @@ The Detroit News • 16h ago
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-olympics.com • 7h ago
+olympics.com • 8h ago
 
 ---
 
-**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
+**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
 
-AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
+Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
 
-inc.com • 1d ago
+The Detroit News • 17h ago
 
 ---
 
@@ -194,63 +194,23 @@ Northwestern Now News • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
-
-Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
-
-📺 Jason Lowe on AI
-
-👁️ 166K • 👍 9K • 💬 924 • ⏱️ 2:57 • 6d ago
-
----
-
-**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
-
-xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
-
-📺 The Q
-
-👁️ 199K • 👍 4K • 💬 433 • ⏱️ 6:20 • 2d ago
-
----
-
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 833K • 👍 26K • 💬 3K • ⏱️ 15:10 • 5d ago
-
----
-
 **[Meet Codey, a child-like robot ready for human connection](https://www.youtube.com/watch?v=CnzX7DkvYb0)**
 
 USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost just under $10000, about its functions and ...
 
 📺 USA TODAY
 
-👁️ 14K • 👍 54 • 💬 55 • ⏱️ 0:55 • 2d ago
+👁️ 16K • 👍 61 • 💬 56 • ⏱️ 0:55 • 2d ago
 
 ---
 
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
+**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
 
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
+Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
 
-📺 Manni-Gaming
+📺 Jason Lowe on AI
 
-👁️ 7K • 👍 329 • 💬 58 • ⏱️ 13:40 • 1d ago
-
----
-
-**[It Comes When You Poop... Then Grinds &amp; Cleans Itself 😱 Meet Xiaoban Robot Toilet](https://www.youtube.com/watch?v=KZLeV9PyTZU)**
-
-car #electriccar #usa A Chinese company just flipped that around. Yueban has built the Xiaoban — an AI-powered robot toilet that ...
-
-📺 OTOFOOTAGE
-
-👁️ 1K • 👍 17 • 💬 7 • ⏱️ 2:04 • 1d ago
+👁️ 167K • 👍 9K • 💬 930 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -260,7 +220,67 @@ The future of construction is already here. This video showcases the PavePal rob
 
 📺 Perigee Tech
 
-👁️ 84K • 👍 402 • 💬 10 • ⏱️ 0:05 • 17h ago
+👁️ 92K • 👍 415 • 💬 10 • ⏱️ 0:05 • 18h ago
+
+---
+
+**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
+
+xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
+
+📺 The Q
+
+👁️ 199K • 👍 4K • 💬 434 • ⏱️ 6:20 • 2d ago
+
+---
+
+**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+
+Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+
+📺 Fox Business Clips
+
+👁️ 12K • 👍 126 • 💬 41 • ⏱️ 6:28 • 2d ago
+
+---
+
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 845K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
+
+---
+
+**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
+
+War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 344 • 💬 60 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
+
+Read the full, in-depth analysis report here: ...
+
+📺 China Update
+
+👁️ 24K • 👍 3K • 💬 234 • ⏱️ 14:28 • 1d ago
+
+---
+
+**[It Comes When You Poop... Then Grinds &amp; Cleans Itself 😱 Meet Xiaoban Robot Toilet](https://www.youtube.com/watch?v=KZLeV9PyTZU)**
+
+car #electriccar #usa A Chinese company just flipped that around. Yueban has built the Xiaoban — an AI-powered robot toilet that ...
+
+📺 OTOFOOTAGE
+
+👁️ 2K • 👍 17 • 💬 7 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -270,25 +290,7 @@ French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured 
 
 📺 The Daily Guardian
 
-👁️ 26K • 👍 430 • 💬 15 • ⏱️ 0:57 • 1d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=VunUE9PiGOk)**
-
-📺 Robot Julie 
-
-👁️ 28K • 👍 90 • 💬 2 • ⏱️ 0:26 • 2d ago
-
----
-
-**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
-
-అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
-
-📺 Zee Telugu News
-
-👁️ 94K • 👍 360 • 💬 4 • ⏱️ 0:39 • 1d ago
+👁️ 28K • 👍 435 • 💬 15 • ⏱️ 0:57 • 1d ago
 
 ---
 

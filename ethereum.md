@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-19T20:14:49.513399+00:00'
+updated: '2026-06-19T21:44:26.604746+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 20:14 UTC  
+**Last Updated:** June 19, 2026 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,703.21
+### $1,703.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +1.3%  
-**30d:** -20.2%  
+**24h:** -0.2%  
+**7d:** +1.4%  
+**30d:** -20.1%  
 **90d:** -17.0%  
-**1y:** -29.3%  
+**1y:** -29.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $216.43B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-63.7%
 
 **All-Time Low:** $0.43
-+411779.1%
++414030.9%
 
 ---
 
@@ -136,7 +136,7 @@ I've been spending a lot of time learning the infrastructure side of Web3 (runni
 
 Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in your browser.
 
-🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 3d ago
+🔗 [chesseed.coseri.xyz](https://chesseed.coseri.xyz/) • 4d ago
 
 ---
 
@@ -156,7 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 10h ago
+The Block • 11h ago
+
+---
+
+**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
+
+Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
+
+unchainedcrypto.com • 10h ago
 
 ---
 
@@ -168,11 +176,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs](https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs)**
+
+Another key figure at the Ethereum Foundation is stepping away from her post, continuing a recent leadership exodus.
+
+Decrypt • 1d ago
+
+---
+
 **[Ethereum's New Tech Upgrade Is Coming Soon. Is It Time to Buy ETH?](https://finance.yahoo.com/markets/crypto/articles/ethereums-tech-upgrade-coming-soon-185300882.html)**
 
 Ethereum will become faster, cheaper, and more secure in the second half of 2026.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +196,7 @@ Yahoo Finance • 1h ago
 
 Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
 
-TradingView • 18h ago
+TradingView • 20h ago
 
 ---
 
@@ -196,7 +212,7 @@ Decrypt • 1d ago
 
 MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -204,7 +220,7 @@ markets.businessinsider.com • 19h ago
 
 Following months of crashing prices and macro-driven fragility, Ethereum saw mixed performance across key metrics in the first quarter of 2026, according to Token Terminal.
 
-FXStreet • 21h ago
+FXStreet • 22h ago
 
 ---
 
@@ -212,21 +228,7 @@ FXStreet • 21h ago
 
 Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
 
-Crypto Briefing • 5h ago
-
----
-
-**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
-
-CCN.com • 5h ago
-
----
-
-**[Ethereum (ETH) Price Stalls Near Key Support, But On-Chain Data Tells a Different Story](https://coinpedia.org/price-analysis/ethereum-eth-price-stalls-near-key-support-but-on-chain-data-tells-a-different-story/)**
-
-Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
-
-Coinpedia • 1d ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -240,57 +242,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 356 • 👍 34 • 💬 62 • ⏱️ 17:32 • 2h ago
-
----
-
-**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 6K • 👍 162 • 💬 51 • ⏱️ 43:15 • 1d ago
-
----
-
-**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
-
-No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
-
-📺 Gareth Soloway
-
-👁️ 56K • 👍 4K • 💬 258 • ⏱️ 16:06 • 1d ago
-
----
-
-**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
-
-Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 234 • 💬 15 • ⏱️ 6:57 • 2d ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
-
-BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 353 • 💬 86 • ⏱️ 22:44 • 12h ago
-
----
-
-**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 7K • 👍 256 • 💬 33 • ⏱️ 38:25 • 2d ago
+👁️ 2K • 👍 153 • 💬 17 • ⏱️ 17:32 • 4h ago
 
 ---
 
@@ -300,37 +252,85 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 310 • 👍 12 • 💬 17 • ⏱️ 4:21 • 10h ago
+👁️ 438 • 👍 14 • 💬 13 • ⏱️ 4:21 • 12h ago
 
 ---
 
-**[BTC &amp; ETHEREUM, DARAUF solltest du JETZT achten, mache nicht DIESEN Fehler!](https://www.youtube.com/watch?v=30CbC3vd4SE)**
+**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ ...
+El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
 
-📺 Krypto Trading & Investing
+📺 Healthy Pockets
 
-👁️ 4K • 👍 559 • 💬 125 • ⏱️ 13:26 • 15h ago
-
----
-
-**[Is Ethereum a Value Buy Right Now? | Value Buying Opportuntiy](https://www.youtube.com/watch?v=yzXBPHdIKLY)**
-
-Is Ethereum a Value Buy Right Now? | Value Buying Opportunity Take Control of Your Financial Future with Sarmaaya ...
-
-📺 Sarmaaya Financials
-
-👁️ 704 • 👍 26 • ⏱️ 1:33 • 13h ago
+👁️ 4K • 👍 375 • 💬 39 • ⏱️ 13:38 • 7h ago
 
 ---
 
-**[This Ethereum Upgrade Changes Everything](https://www.youtube.com/watch?v=D57-3dCumyw)**
+**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
 
-Crypto may have just solved one of its biggest problems. For years, bridge hacks have cost the industry billions. But new ...
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
 
-📺 Lamia web 3 crypto
+📺 Milk Road
 
-👁️ 450 • 👍 2 • ⏱️ 0:39 • 1d ago
+👁️ 7K • 👍 257 • 💬 33 • ⏱️ 38:25 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
+
+No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
+
+📺 Gareth Soloway
+
+👁️ 57K • 👍 4K • 💬 267 • ⏱️ 16:06 • 1d ago
+
+---
+
+**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
+
+Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 237 • 💬 15 • ⏱️ 6:57 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
+
+BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 368 • 💬 69 • ⏱️ 22:44 • 13h ago
+
+---
+
+**[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
+
+The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 3K • 💬 144 • ⏱️ 12:12 • 1d ago
+
+---
+
+**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 6K • 👍 165 • 💬 51 • ⏱️ 43:15 • 1d ago
+
+---
+
+**[+251964615165#amhara#eritrian #tigray#wedding#ethiopia #ethereum #gonder @YouTubeViewers](https://www.youtube.com/watch?v=1hd-fMmJ8VU)**
+
+📺 ማሜ የባህል ልብስ
+
+👁️ 1K • 👍 28 • ⏱️ 0:19 • 4h ago
 
 ---
 
