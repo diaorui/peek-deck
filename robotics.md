@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T20:15:28.130035+00:00'
+updated: '2026-06-20T21:47:18.886677+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 20:15 UTC  
+**Last Updated:** June 20, 2026 at 21:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,6 +126,14 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
+
+We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
+
+Anthropic • 2d ago
+
+---
+
 **[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
@@ -142,43 +150,19 @@ ALXnow • 1d ago
 
 ---
 
-**[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
-
-French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
-
-TechCrunch • 19h ago
-
----
-
-**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
-
-Nvidia's self-improvement program for robots enlists teams of AI coding agents.
-
-Ars Technica • 3d ago
-
----
-
-**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
-
-We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
-
-Anthropic • 2d ago
-
----
-
 **[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
 
 AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
 
-AP News • 20h ago
+AP News • 21h ago
 
 ---
 
-**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
+**[NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026](https://www.businesswire.com/news/home/20260619441783/en/NEURA-Robotics-Showcases-Full-Stack-Robotics-Platform-at-Automate-2026)**
 
-Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
+NEURA Robotics ("NEURA"), the pioneer in cognitive robotics and creator of the Neuraverse, will exhibit at Automate 2026, North America's largest automation ...
 
-Yahoo Finance • 1d ago
+Business Wire • 1d ago
 
 ---
 
@@ -190,29 +174,25 @@ inc.com • 2d ago
 
 ---
 
+**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
+
+Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
+
+Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+
+Ars Technica • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
-
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
-
-📺 Carros Show
-
-👁️ 3K • 👍 120 • 💬 12 • ⏱️ 21:44 • 1d ago
-
----
-
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 906K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
-
----
 
 **[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
 
@@ -220,17 +200,17 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 260K • 👍 11K • 💬 2K • ⏱️ 2:51 • 2d ago
+👁️ 267K • 👍 11K • 💬 2K • ⏱️ 2:51 • 3d ago
 
 ---
 
-**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
 
-Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
 
-📺 Jason Lowe on AI
+📺 Carros Show
 
-👁️ 175K • 👍 9K • 💬 996 • ⏱️ 2:57 • 7d ago
+👁️ 3K • 👍 126 • 💬 13 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -240,17 +220,17 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 21K • 👍 72 • 💬 79 • ⏱️ 0:55 • 3d ago
+👁️ 22K • 👍 73 • 💬 82 • ⏱️ 0:55 • 3d ago
 
 ---
 
-**[Are we ready for flesh bots? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
-Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
+Could AI become dangerous? Can we trust AI? AGI. Go to http://ground.news/InsideAI for a better way to stay informed. Subscribe ...
 
-📺 Business Insider
+📺 InsideAI
 
-👁️ 135K • 👍 3K • 💬 588 • ⏱️ 17:26 • 6d ago
+👁️ 918K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
 
 ---
 
@@ -264,23 +244,23 @@ xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tes
 
 ---
 
-**[China&#39;s New $1,000 AI Humanoid Robots Are Taking Over the US Market](https://www.youtube.com/watch?v=s_sqtVb4mB0)**
+**[Are we ready for flesh bots? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
 
-China's new generation of AI humanoid robots highlights the country's rapid progress in robotics, automation, and artificial ...
+Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
 
-📺 Carros Show
+📺 Business Insider
 
-👁️ 5K • 👍 162 • 💬 16 • ⏱️ 21:46 • 4d ago
+👁️ 136K • 👍 3K • 💬 595 • ⏱️ 17:26 • 6d ago
 
 ---
 
-**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
+**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
 
-Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
+War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 🚜🌾 Desi Farm Vibes
+📺 Manni-Gaming
 
-👁️ 18K • 👍 88 • ⏱️ 0:21 • 4d ago
+👁️ 9K • 👍 379 • 💬 67 • ⏱️ 13:40 • 2d ago
 
 ---
 
@@ -290,7 +270,27 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 25K • 👍 541 • 💬 77 • ⏱️ 0:32 • 1d ago
+👁️ 27K • 👍 561 • 💬 84 • ⏱️ 0:32 • 1d ago
+
+---
+
+**[The most portable 3D Printer #3dprinting #robot #robotics](https://www.youtube.com/watch?v=BZ32bbWK7aA)**
+
+I'm designing a portable 3D printer that folds down to the size that can fit in your backpack and still print things bigger than itself.
+
+📺 Ethan Gao
+
+👁️ 453K • 👍 10K • 💬 364 • ⏱️ 0:46 • 6d ago
+
+---
+
+**[China&#39;s New $1,000 AI Humanoid Robots Are Taking Over the US Market](https://www.youtube.com/watch?v=s_sqtVb4mB0)**
+
+China's new generation of AI humanoid robots highlights the country's rapid progress in robotics, automation, and artificial ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 163 • 💬 16 • ⏱️ 21:46 • 5d ago
 
 ---
 

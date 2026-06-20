@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T20:15:28.126860+00:00'
+updated: '2026-06-20T21:47:18.883491+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 20:15 UTC  
+**Last Updated:** June 20, 2026 at 21:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,737.57
+### $1,728.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +0.2%  
-**30d:** -16.3%  
-**90d:** -19.6%  
-**1y:** -24.8%  
+**24h:** +1.5%  
+**7d:** +0.5%  
+**30d:** -16.1%  
+**90d:** -19.4%  
+**1y:** -24.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $209.18B
 Rank #2
 
-**Circulating Supply:** 120,684,073 ETH
+**Circulating Supply:** 120,683,936 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-64.9%
 
 **All-Time Low:** $0.43
-+414030.9%
++400436.7%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[How do I unwrap ETH](https://www.reddit.com/r/ethereum/comments/1uat7fd/how_do_i_unwrap_eth/)**
-
-I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
-
-9h ago
-
----
-
 **[Daily General Discussion June 20, 2026](https://www.reddit.com/r/ethereum/comments/1uanp1j/daily_general_discussion_june_20_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
+
+---
+
+**[How do I unwrap ETH](https://www.reddit.com/r/ethereum/comments/1uat7fd/how_do_i_unwrap_eth/)**
+
+I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
+
+11h ago
 
 ---
 
@@ -150,11 +150,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
+
+zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
+
+Yahoo Finance • 12h ago
+
+---
+
 **[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
 The Block • 1d ago
+
+---
+
+**[Ethereum Price Forecast: Impending funding crisis could put Ethereum at risk](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-impending-funding-crisis-could-put-ethereum-at-risk-202606200256)**
+
+Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
+
+FXStreet • 18h ago
+
+---
+
+**[Ethereum faces core development funding crisis, former contributor warns](https://www.tradingview.com/news/cointelegraph:7aa1bfb4d094b:0-ethereum-faces-core-development-funding-crisis-former-contributor-warns/)**
+
+The warning comes as the Ethereum Foundation reduces spending, adjusts its treasury strategy and undergoes a wave of leadership departures.
+
+TradingView • 1d ago
 
 ---
 
@@ -166,19 +190,11 @@ unchainedcrypto.com • 1d ago
 
 ---
 
-**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://finance.yahoo.com/markets/crypto/articles/worlds-biggest-ethereum-treasury-company-104500506.html)**
-
-When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
 
 The coin's central issue is becoming harder to ignore.
 
-The Motley Fool • 20h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -198,11 +214,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Price Forecast: Impending funding crisis could put Ethereum at risk](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-impending-funding-crisis-could-put-ethereum-at-risk-202606200256)**
+**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026-2/)**
 
-Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
+Ethereum (ETH) could trade above $2,000 on July 1, 2026, according to a new price prediction generated by ChatGPT.
 
-FXStreet • 17h ago
+Finbold • 7h ago
 
 ---
 
@@ -210,23 +226,7 @@ FXStreet • 17h ago
 
 VanEck Ethereum ETF’s ETHV saw fresh pressure on June 18, 2026, as investors pulled $638,860 from the fund, marking a notable single-day outflow. With assets under ...
 
-TipRanks • 7h ago
-
----
-
-**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026/)**
-
-With 12 days remaining until July 1, 2026, Finbold has prompted Ethereum price prediction from Grok and ChatGPT.
-
-Finbold • 1d ago
-
----
-
-**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
-
-Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
-
-CoinDesk • 2d ago
+TipRanks • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 573 • 👍 59 • 💬 4 • ⏱️ 18:36 • 4h ago
+👁️ 1K • 👍 100 • 💬 9 • ⏱️ 18:36 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 390 • 💬 45 • ⏱️ 17:32 • 1d ago
+👁️ 9K • 👍 409 • 💬 42 • ⏱️ 17:32 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 938 • 👍 91 • 💬 93 • ⏱️ 20:39 • 2h ago
+👁️ 3K • 👍 195 • 💬 109 • ⏱️ 20:39 • 3h ago
 
 ---
 
@@ -268,37 +268,17 @@ BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Eth
 
 📺 Discover Crypto
 
-👁️ 656 • 👍 23 • 💬 14 • ⏱️ 0:24 • 2h ago
+👁️ 2K • 👍 44 • 💬 25 • ⏱️ 0:24 • 3h ago
 
 ---
 
-**[LIVE: BlackRock CEO Announces Major Crypto Move! This Speech Will Reshape the Crypto Industry!](https://www.youtube.com/watch?v=eMP3xNxr3BQ)**
+**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
 
-SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock CEO Larry Fink reveals the ...
+D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
 
-📺 FACE FAMILY
+📺 XRP Bags
 
-👁️ 3K • 👍 2K • 1h ago
-
----
-
-**[What Does Tom Lee See In Ethereum?](https://www.youtube.com/watch?v=r8n_VMG4F_U)**
-
-While Bitcoin traded mostly sideways this week, two separate institutional moves may point toward the same underlying shift.
-
-📺 Fast Launch Digital
-
-👁️ 67 • 👍 7 • 💬 2 • ⏱️ 8:56 • 1d ago
-
----
-
-**[Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk](https://www.youtube.com/watch?v=qGcD_25Ju-o)**
-
-Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk Kalshi opens early IPO talks following a ...
-
-📺 The Coin Daily
-
-👁️ 14K • 👍 4 • ⏱️ 6:58 • 1d ago
+👁️ 5K • 👍 448 • 💬 103 • ⏱️ 11:45 • 19h ago
 
 ---
 
@@ -312,23 +292,41 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
+**[Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk](https://www.youtube.com/watch?v=qGcD_25Ju-o)**
 
-BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk Kalshi opens early IPO talks following a ...
 
-📺 Crypto World
+📺 The Coin Daily
 
-👁️ 10K • 👍 409 • 💬 194 • ⏱️ 22:44 • 1d ago
+👁️ 22K • 👍 5 • ⏱️ 6:58 • 1d ago
 
 ---
 
-**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
+**[What Does Tom Lee See In Ethereum?](https://www.youtube.com/watch?v=r8n_VMG4F_U)**
 
-D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
+While Bitcoin traded mostly sideways this week, two separate institutional moves may point toward the same underlying shift.
 
-📺 XRP Bags
+📺 Fast Launch Digital
 
-👁️ 4K • 👍 427 • 💬 132 • ⏱️ 11:45 • 18h ago
+👁️ 95 • 👍 8 • 💬 2 • ⏱️ 8:56 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
+
+No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
+
+📺 Gareth Soloway
+
+👁️ 62K • 👍 4K • 💬 279 • ⏱️ 16:06 • 2d ago
+
+---
+
+**[+251964615165#tigray#eritrian #wedding#ethiopia#ethereum #amhara #gonder @Reyot @ZEMENTV](https://www.youtube.com/watch?v=xqe2xKkB9Ow)**
+
+📺 ማሜ የባህል ልብስ
+
+👁️ 922 • 👍 29 • ⏱️ 0:18 • 2h ago
 
 ---
 
