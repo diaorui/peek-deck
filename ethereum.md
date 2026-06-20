@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T12:54:05.553748+00:00'
+updated: '2026-06-20T15:03:05.637799+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 12:54 UTC  
+**Last Updated:** June 20, 2026 at 15:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -0.1%  
-**30d:** -16.6%  
-**90d:** -19.9%  
-**1y:** -25.0%  
+**24h:** +1.9%  
+**7d:** +0.2%  
+**30d:** -16.3%  
+**90d:** -19.6%  
+**1y:** -24.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $208.96B
 Rank #2
 
-**Circulating Supply:** 120,684,073 ETH
+**Circulating Supply:** 120,683,936 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-65.0%
 
 **All-Time Low:** $0.43
-+411779.1%
++399771.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d034da533dbefeec0c1e172e5cc7fddd6d433 My latest article on Ethereum institutions (past, present, and future) and their political economy: Subtraction and Legitimacy The Funding Crisis Succession Planning Read/discuss/share here: Farcaster: https://farcaster.xyz/trent/0x9b4b522f Twitter https://x.com/trent_vanepps/status/206759312439898955 Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction I believe this is a critical time to establish institutions for our next decade, and beyond. I worked at the Ethereum Foundation for 5 years coordinating core development, Protocol Guild funding, and political economy research. Subtraction successfully signals reduced EF power yet legitimacy stubbornly pools at the Foundation via brand, Vitalik affiliation, treasury, and assets. Treasury constraints and CIP expiration risk a slow-burning funding crisis that threatens institutional capacity for protocol maintenance and upgrades. EF will not steward Ethereum's next decade; a reset of social, political, and economic contracts is needed for effective institutional succession. New mechanisms must enable scalable neutral funding, steward interdependent resources, and prioritize broad adoption for the World Computer.
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR for anyone who doesn’t click: CoinGecko looked at which chains kept users active from Q1 2025 to Q1 2026. Ethereum had the highest retention rate at 26.2%. BNB Chain came second at 20.5%. But by actual users retained, BNB Chain led the whole report with 1.49M users still active a year later. Main takeaway: Ethereum had the best percentage retention, but BNB Chain retained the most users overall.
 
-🔗 [CoinGecko](https://www.coingecko.com/research/publications/blockchain-user-rention-rate-analysis-2026-q1) • 2d ago
+🔗 [CoinGecko](https://www.coingecko.com/research/publications/blockchain-user-rention-rate-analysis-2026-q1) • 3d ago
 
 ---
 
@@ -184,19 +184,11 @@ Decrypt • 1d ago
 
 ---
 
-**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
+**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://finance.yahoo.com/markets/crypto/articles/worlds-biggest-ethereum-treasury-company-104500506.html)**
 
-zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
+When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
-
-The coin's central issue is becoming harder to ignore.
-
-The Motley Fool • 13h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -208,6 +200,14 @@ TradingView • 1d ago
 
 ---
 
+**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
+
+The coin's central issue is becoming harder to ignore.
+
+The Motley Fool • 15h ago
+
+---
+
 **[Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)**
 
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
@@ -216,17 +216,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
+**[Ethereum (ETH) Price Stalls Near Key Support, But On-Chain Data Tells a Different Story](https://coinpedia.org/price-analysis/ethereum-eth-price-stalls-near-key-support-but-on-chain-data-tells-a-different-story/)**
 
-CCN.com • 22h ago
+Ethereum continues to hold the critical $1,500-$1,700 support zone, while weekly RSI near 33 suggests bearish momentum may be becoming exhausted.
+
+Coinpedia • 2d ago
 
 ---
 
-**[Investors Trim Exposure to VanEck’s ETHV as Ethereum Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/investors-trim-exposure-to-vanecks-ethv-as-ethereum-slump-deepens)**
+**[Ethereum Price Forecast: Impending funding crisis could put Ethereum at risk](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-impending-funding-crisis-could-put-ethereum-at-risk-202606200256)**
 
-VanEck Ethereum ETF’s ETHV saw fresh pressure on June 18, 2026, as investors pulled $638,860 from the fund, marking a notable single-day outflow. With assets under ...
+Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
 
-TipRanks • 25m ago
+FXStreet • 12h ago
 
 ---
 
@@ -240,7 +242,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 322 • 💬 37 • ⏱️ 17:32 • 19h ago
+👁️ 8K • 👍 361 • 💬 38 • ⏱️ 17:32 • 21h ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=X8Wpkjh41sU)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Join our Telegram for signals & updates: ...
+
+📺 Ashutosh Kumar
+
+👁️ 7K • 👍 691 • 2h ago
 
 ---
 
@@ -250,27 +262,17 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 60K • 👍 4K • 💬 271 • ⏱️ 16:06 • 2d ago
+👁️ 61K • 👍 4K • 💬 279 • ⏱️ 16:06 • 2d ago
 
 ---
 
-**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
+**[What Does Tom Lee See In Ethereum?](https://www.youtube.com/watch?v=r8n_VMG4F_U)**
 
-El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
+While Bitcoin traded mostly sideways this week, two separate institutional moves may point toward the same underlying shift.
 
-📺 Healthy Pockets
+📺 Fast Launch Digital
 
-👁️ 7K • 👍 517 • 💬 127 • ⏱️ 13:38 • 22h ago
-
----
-
-**[Will ETH dip to the $1,000 area before a rebound?](https://www.youtube.com/watch?v=kPJWEX8tdQw)**
-
-Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the next move. In this video I break down the daily ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 242 • 💬 15 • ⏱️ 6:57 • 2d ago
+👁️ 67 • 👍 7 • 💬 2 • ⏱️ 8:56 • 1d ago
 
 ---
 
@@ -284,13 +286,23 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 ---
 
+**[Bitcoin Bottom Prediction ! Bitcoin Ethereum Formula ](https://www.youtube.com/watch?v=nVsexcgKILc)**
+
+(JOINING LINK IN TELEGRAM CHANNEL) ▻ Telegram Channel Link:➜ https://t.me/ShamsTabraiz Contact Us : For collab ...
+
+📺 Tabraiz Shams
+
+👁️ 386 • 👍 53 • 💬 10 • ⏱️ 4:18 • 2h ago
+
+---
+
 **[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
 
 BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 10K • 👍 404 • 💬 173 • ⏱️ 22:44 • 1d ago
+👁️ 10K • 👍 404 • 💬 228 • ⏱️ 22:44 • 1d ago
 
 ---
 
@@ -300,27 +312,7 @@ D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a lim
 
 📺 XRP Bags
 
-👁️ 3K • 👍 342 • 💬 111 • ⏱️ 11:45 • 10h ago
-
----
-
-**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 6K • 👍 166 • 💬 50 • ⏱️ 43:15 • 1d ago
-
----
-
-**[What Does Tom Lee See In Ethereum?](https://www.youtube.com/watch?v=r8n_VMG4F_U)**
-
-While Bitcoin traded mostly sideways this week, two separate institutional moves may point toward the same underlying shift.
-
-📺 Fast Launch Digital
-
-👁️ 55 • 👍 6 • 💬 2 • ⏱️ 8:56 • 21h ago
+👁️ 4K • 👍 397 • 💬 131 • ⏱️ 11:45 • 12h ago
 
 ---
 
@@ -330,7 +322,17 @@ Equities keep trading near record highs, but Bitcoin is still down roughly 50% f
 
 📺 Fundstrat
 
-👁️ 5K • 👍 125 • 💬 3 • ⏱️ 3:15 • 2d ago
+👁️ 5K • 👍 125 • 💬 2 • ⏱️ 3:15 • 2d ago
+
+---
+
+**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 8K • 👍 268 • 💬 34 • ⏱️ 38:25 • 2d ago
 
 ---
 

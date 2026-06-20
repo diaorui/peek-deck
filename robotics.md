@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T12:54:05.556629+00:00'
+updated: '2026-06-20T15:03:05.639976+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 12:54 UTC  
+**Last Updated:** June 20, 2026 at 15:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Look at the little robot I build!](https://www.reddit.com/r/robotics/comments/1u95gwg/look_at_the_little_robot_i_build/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS
 
 So we're using an ESP32S with a TJA1050 transceiver and basically we're using this setup to operate a rover using ROS2 Humble and MAVLink commands, so it has a lot of modules like actuators, PDB, mini-arm, and etc connected through a CAN bus network. Now the issue is that we will be using multiple BLDCs for our rover's arm and these motors continuously send out updates (or heartbeats or sth) so using these BLDCs in the same network seems like the MCU will lag or slow down and just be downright ineffective. So is there any way to isolate the motors to a different network or CAN line? I was thinking of adding another MCU on top of the ESP32 to only handle the motors but is there an alternative to this approach, preferably one without adding more hardware?
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +94,7 @@ So we're using an ESP32S with a TJA1050 transceiver and basically we're using th
 
 Hey everybody! Hobbyist here with an update on my cheap rover swarm project. I've been trying out Depth Anything 3 and wanted to share, because the results of such minimal hardware surprised me. The setup: each rover is just a XIAO ESP32-S3 Sense (~$15 board with a tiny onboard camera) in a 3D printed body. The ESP32 is basically a sender, it streams the camera over WiFi and reports temperature/battery/telemetry. All the heavy lifting (DA3 inference, navigation) runs on a PC that acts as the brain. No lidar, no depth sensor, one cheap RGB camera. DA3 gives me a point cloud per frame and can merge multiple frames into a larger cloud. Seeing a $15 camera produce a usable 3D-ish image of the room is still kind of wild to me. Eventually I want to use it for navigation - a kind of "poor man's lidar". It estimates what's near at three heights (eye level, above, below) to give a rough obstacle sense without a dedicated sensor. Secondly for visualization at the moment, but the goal is to stitch frames into an environment map. Positioning is currently handled by ArUco markers around the room (solvePnP). Still early and held together with hope, but it's been fun pushing this hardware further than it wamts to go. :-)
 
-2d ago
+3d ago
 
 ---
 
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 21h ago
+Business Insider • 1d ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 21h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 23h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-olympics.com • 23h ago
+olympics.com • 1d ago
 
 ---
 
@@ -138,7 +138,7 @@ olympics.com • 23h ago
 
 AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
 
-AP News • 12h ago
+AP News • 14h ago
 
 ---
 
@@ -146,7 +146,7 @@ AP News • 12h ago
 
 French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
 
-TechCrunch • 12h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ Anthropic • 1d ago
 
 **[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -172,14 +172,6 @@ inc.com • 2d ago
 
 ---
 
-**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-regulatory-approval-of-its-acquisition-of-covelya-group/)**
-
-Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
-
-Kraken Robotics • 2d ago
-
----
-
 **[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
@@ -188,19 +180,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
+
+Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+
+Ars Technica • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
-
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
-
-📺 Carros Show
-
-👁️ 2K • 👍 102 • 💬 9 • ⏱️ 21:44 • 17h ago
-
----
 
 **[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
 
@@ -208,7 +198,17 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 234K • 👍 10K • 💬 2K • ⏱️ 2:51 • 2d ago
+👁️ 246K • 👍 11K • 💬 2K • ⏱️ 2:51 • 2d ago
+
+---
+
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+
+📺 Carros Show
+
+👁️ 3K • 👍 110 • 💬 10 • ⏱️ 21:44 • 19h ago
 
 ---
 
@@ -218,27 +218,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 171K • 👍 9K • 💬 961 • ⏱️ 2:57 • 6d ago
-
----
-
-**[Meet Codey, a child-like robot ready for human connection](https://www.youtube.com/watch?v=CnzX7DkvYb0)**
-
-USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost just under $10000, about its functions and ...
-
-📺 USA TODAY
-
-👁️ 19K • 👍 66 • 💬 68 • ⏱️ 0:55 • 2d ago
-
----
-
-**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
-
-xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
-
-📺 The Q
-
-👁️ 235K • 👍 4K • 💬 447 • ⏱️ 6:20 • 3d ago
+👁️ 173K • 👍 9K • 💬 975 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -248,37 +228,37 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://grou
 
 📺 InsideAI
 
-👁️ 877K • 👍 28K • 💬 3K • ⏱️ 15:10 • 5d ago
+👁️ 889K • 👍 28K • 💬 3K • ⏱️ 15:10 • 5d ago
 
 ---
 
-**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
+**[Meet Codey, a child-like robot ready for human connection](https://www.youtube.com/watch?v=CnzX7DkvYb0)**
 
-Read the full, in-depth analysis report here: ...
+USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost just under $10000, about its functions and ...
 
-📺 China Update
+📺 USA TODAY
 
-👁️ 26K • 👍 3K • 💬 246 • ⏱️ 14:28 • 2d ago
-
----
-
-**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
-
-China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
-
-📺 Kalil 4.0
-
-👁️ 16K • 👍 320 • 💬 113 • ⏱️ 8:49 • 7d ago
+👁️ 20K • 👍 69 • 💬 74 • ⏱️ 0:55 • 2d ago
 
 ---
 
-**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
 
-అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
 
-📺 Zee Telugu News
+📺 The Q
 
-👁️ 95K • 👍 364 • 💬 4 • ⏱️ 0:39 • 2d ago
+👁️ 245K • 👍 4K • 💬 447 • ⏱️ 6:20 • 3d ago
+
+---
+
+**[Are we ready for flesh bots? | Big Business](https://www.youtube.com/watch?v=EBO6z839sug)**
+
+Companies like 1X and Unitree are spending millions trying to build robot companions. But why aren't they in our homes yet?
+
+📺 Business Insider
+
+👁️ 133K • 👍 3K • 💬 580 • ⏱️ 17:26 • 6d ago
 
 ---
 
@@ -288,7 +268,27 @@ Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney &
 
 📺 Fox Business Clips
 
-👁️ 13K • 👍 129 • 💬 41 • ⏱️ 6:28 • 2d ago
+👁️ 13K • 👍 129 • 💬 40 • ⏱️ 6:28 • 2d ago
+
+---
+
+**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
+
+Read the full, in-depth analysis report here: ...
+
+📺 China Update
+
+👁️ 26K • 👍 3K • 💬 249 • ⏱️ 14:28 • 2d ago
+
+---
+
+**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+
+అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+
+📺 Zee Telugu News
+
+👁️ 95K • 👍 366 • 💬 4 • ⏱️ 0:39 • 2d ago
 
 ---
 
