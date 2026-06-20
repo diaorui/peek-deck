@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T15:03:05.639976+00:00'
+updated: '2026-06-20T17:01:18.670311+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 15:03 UTC  
+**Last Updated:** June 20, 2026 at 17:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[(Mostly) 3D printed robot arm project](https://www.reddit.com/r/robotics/comments/1u99ot3/mostly_3d_printed_robot_arm_project/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense-unveils-the-d585-pro-and-perception-studio/
 
-1d ago
+2d ago
 
 ---
 
@@ -70,7 +70,7 @@ I've been working on an open-source pet companion robot called OpenPaw, and want
 
 I'm currently pursuing an M.Tech in Mechanical Engineering and have been considering a transition into Robotics. My exposure to robotics is limited to basic theoretical concepts like kinematics, and I don't have any hands-on robotics experience. For those already working in the field, is it worth making the switch at this stage? How challenging is it to break into robotics from a mechanical background, and what does the career growth look like? I'd appreciate any honest insights from people who have been through a similar journey.
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everybody! Hobbyist here with an update on my cheap rover swarm project. I'v
 
 Aya Durbin says humanoid robots need to prove real customer value before they can scale. She says the goal for Atlas is not just to be impressive, but to deliver positive ROI for customers. Boston Dynamics is focusing on industrial environments first, especially work that is hard to hire for, physically demanding and difficult to automate with traditional systems. She also says customers need robots that are reliable, useful and able to become a trusted part of the workforce.
 
-2d ago
+3d ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 1d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 23h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -134,19 +134,19 @@ olympics.com • 1d ago
 
 ---
 
-**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
-
-AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
-
-AP News • 14h ago
-
----
-
 **[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
 
 French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
 
-TechCrunch • 14h ago
+TechCrunch • 16h ago
+
+---
+
+**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+
+AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+
+AP News • 16h ago
 
 ---
 
@@ -154,21 +154,13 @@ TechCrunch • 14h ago
 
 We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
 
-Anthropic • 1d ago
+Anthropic • 2d ago
 
 ---
 
-**[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
+**[Drones learn to squeeze through narrow gaps using onboard AI control](https://techxplore.com/news/2026-06-drones-narrow-gaps-onboard-ai.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
-
-AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
-
-inc.com • 2d ago
 
 ---
 
@@ -185,6 +177,14 @@ Yahoo Finance • 1d ago
 Nvidia's self-improvement program for robots enlists teams of AI coding agents.
 
 Ars Technica • 2d ago
+
+---
+
+**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
+
+AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
+
+inc.com • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 3K • 👍 110 • 💬 10 • ⏱️ 21:44 • 19h ago
+👁️ 3K • 👍 110 • 💬 10 • ⏱️ 21:44 • 21h ago
 
 ---
 
@@ -228,7 +228,7 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://grou
 
 📺 InsideAI
 
-👁️ 889K • 👍 28K • 💬 3K • ⏱️ 15:10 • 5d ago
+👁️ 889K • 👍 28K • 💬 3K • ⏱️ 15:10 • 6d ago
 
 ---
 

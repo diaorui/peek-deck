@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-20T15:03:05.627664+00:00'
+updated: '2026-06-20T17:01:18.654845+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 20, 2026 at 15:03 UTC  
+**Last Updated:** June 20, 2026 at 17:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,33 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[What's the best AI image generator with no restrictions?](https://www.reddit.com/r/artificial/comments/1uazz4r/whats_the_best_ai_image_generator_with_no/)**
+
+Just a simple question.
+
+1h ago
+
+---
+
 **[Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”](https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/)**
 
 Accenture plc (NYSE:ACN) was among Jim Cramer’s stock calls on Mad Money, as he highlighted worthy space players and reviewed several of this year’s IPOs. Cramer highlighted the company’s struggles, as he remarked: Finally, before the open Thursday, we have two companies that I think are struggling: Kroger and Accenture… Accenture, the consulting company, has […]
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-agrees-accenture-being-163819966.html) • 8h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-agrees-accenture-being-163819966.html) • 10h ago
+
+---
+
+**[A study on synthetic [AI] choreographies](https://www.reddit.com/r/artificial/comments/1ub0kjp/a_study_on_synthetic_ai_choreographies/)**
+
+A few experiments exploring how far generative video + fine-tuned orchestration layers can be pushed in rhythm, camera language, body transformation, and most of all, audiovisual synchronization. Breakdown: I used Uisato Studio’ Seedance 2.0 Video mode, with the "Intelligent" setup and the "Audioreactive Performance" prompt recipe. Inputs were: - the artist image [full-body recomended - I ended up using a mix of Midjourney + GPT Image + Image Studio] - a target audio excerpt not exceeding 14.9 seconds - a short director’s intent describing the look, tone, and what I wanted beyond the audioreactive performance From there, the system generated the prompts, direction, and optimal setup. I reviewed it, made small adjustments, generated the clips, and then assembled the final piece in editing. What other experiments would you like to see next? More experiments through Instagram, or YouTube.
+
+44m ago
+
+---
+
+**[Anthropic built its name on AI safety. Can those commitments survive a trillion-dollar IPO?](https://www.reddit.com/r/artificial/comments/1uayfk8/anthropic_built_its_name_on_ai_safety_can_those/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/itbb/p/the-trillion-dollar-pause?r=6u75wz&utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 2h ago
 
 ---
 
@@ -49,21 +71,29 @@ Accenture plc (NYSE:ACN) was among Jim Cramer’s stock calls on Mad Money, as h
 
 A sworn declaration from the Pentagon's chief digital and AI officer confirms a federal-only build, Grok Gov, was wired into US targeting systems during operations against Iran, helping deploy more than 2,000 munitions against 2,000 distinct targets over 96 hours. What makes it notable is how it surfaced: the declaration landed in a Clean Air Act lawsuit over xAI's Mississippi data center, where the DOJ is arguing that disrupting xAI would harm national security. So a commercial chatbot vendor's role in live targeting came out as a side effect of an environmental case, not through any defense channel. Source : https://aiweekly.co/alerts/pentagon-confirms-grok-guided-2000-iran-strikes
 
-23h ago
+1d ago
 
 ---
 
-**[Anthropic built its name on AI safety. Can those commitments survive a trillion-dollar IPO?](https://www.reddit.com/r/artificial/comments/1uayfk8/anthropic_built_its_name_on_ai_safety_can_those/)**
+**[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/itbb/p/the-trillion-dollar-pause?r=6u75wz&utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 15m ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 31m ago
 
 ---
 
-**[This week in AI: Meta reportedly closing Llama, Anthropic's new model pulled by export controls within a week, and Apple partners with Google for Siri](https://www.reddit.com/r/artificial/comments/1ua8kub/this_week_in_ai_meta_reportedly_closing_llama/)**
+**[A stateful deterministic substrate engine in native C.](https://www.reddit.com/r/artificial/comments/1uazoa8/a_stateful_deterministic_substrate_engine_in/)**
 
-A few stories from the past week that, taken together, point to a real shift at the model layer rather than just incremental releases: Meta and Llama. Multiple reports indicate Meta is stepping back from open-source Llama in favor of a proprietary program (internally referred to as "Muse Spark," with a new "Avocado" model) under Meta Superintelligence Labs. Llama crossed 650M+ downloads and was arguably the anchor of the open-weights ecosystem, so a pivot to closed development would be significant for anyone relying on that lineage. Anthropic and export controls. Anthropic launched Claude Fable 5 on June 9 (Mythos-class, 1M-token context, always-on adaptive reasoning, notable security/vuln-finding capabilities). On June 12, a US export-control directive reportedly forced Anthropic to suspend access to Fable 5 and Mythos 5. Regardless of the specifics, it's a concrete example of frontier model availability being governed by policy, not just product decisions. Apple and Google. At WWDC, Apple shipped its Siri overhaul with parts powered by a Gemini partnership. EU/China rollout is delayed on regulatory grounds. Cost/commodity trend. Google cut Gemini Ultra from $250 to $200/mo and shipped 3.5 Flash; Alibaba's Qwen3.7-Plus is running at ~1/6 the per-token cost of its top tier; and open-weight models like Qwen 3.6 27B (reportedly 77.2% on SWE-bench, fits in 24GB) and Kimi K2.6 are increasingly viable for local/production use via Ollama (v0.30.8, June 12). Platform agents. Google added Managed Agents to the Gemini API, Microsoft made Copilot Cowork GA plus "Autopilot" agents, and Anthropic shipped scheduled/cron agents in beta. My take as someone building on top of these APIs: the two forces I'm watching are (1) frontier availability becoming a policy/geopolitics variable, and (2) the platforms absorbing the agent-orchestration layer that a lot of startups were building. Practically, that pushes me toward provider abstraction and keeping an open-weight fallback wired up, rather than hard-coupling to any single closed model. Curious whether others here are actually maintaining open-weight fallbacks in production, or if that's still mostly theoretical for most teams.
+https://www.youtube.com/watch?v=X90A9ZFtg6g I built a native C substrate engine that runs locally and persists/restores state deterministically. This short demo shows: - clearing the live state - mounting a small knowledge pack - exporting state to disk - restarting the process - restoring the same state with a matching digest In the demo, the restored state is 106 nodes / 72 relations. The current demo path does not require cloud services or GPU inference. It also supports abstention instead of forcing an answer on missing evidence. I’d value technical feedback on the deterministic snapshot model and abstention behavior.
 
-21h ago
+1h ago
+
+---
+
+**[Most unique AI Use Case](https://www.reddit.com/r/artificial/comments/1uauarz/most_unique_ai_use_case/)**
+
+Super curious to know what's the most niche AI use case that you've made up for yourself.
+
+5h ago
 
 ---
 
@@ -71,47 +101,15 @@ A few stories from the past week that, taken together, point to a real shift at 
 
 As a 56-year old engineer/project manager, I am cognizant of my precarious position in the line of being displaced. The media, CEOs, and politicians spew lazy rhetoric of 'you need to upskill yourself in AI', 'winners will be those who can successfully navigate AI', as if all the problem lies with the workers themselves, and everyone is just rejecting AI and chooses to use hand chisels. Here is the truth - there is simply not enough roles for all the workers trained in AI. For every success story of a worker in the new age of AI, there could be a few or even a dozen of those who have learned, prepared but not hired. I want to ask them back: where is the "We choose to go to the Moon" moment in AI. Kennedy's space race sparked the golden age of innovation in the US and around the world, and we are still enjoying the benefits of space-related innovations today. And created thousands of high-paying jobs. What about the Hoover Dam? That created a useful utility that is still standing today, and many jobs during the Great Depression. So no more Kennedys and Hoovers around in this age? So maybe the media, CEOs and politicians should stop thinking it is the workers who are lazy and not upskilling in AI, but think of themselves - have you got an idea "We choose to go to the Moon" in AI to rally everyone together for something worthy of the trillion dollar investment in AI? Something that could result in employment and not displacement. And not simply sacrifice the workers in vain.
 
-14h ago
+16h ago
 
 ---
 
-**[Most AI features don't fail because of the model](https://www.reddit.com/r/artificial/comments/1uaot41/most_ai_features_dont_fail_because_of_the_model/)**
+**[This week in AI: Meta reportedly closing Llama, Anthropic's new model pulled by export controls within a week, and Apple partners with Google for Siri](https://www.reddit.com/r/artificial/comments/1ua8kub/this_week_in_ai_meta_reportedly_closing_llama/)**
 
-Been sitting on this for a bit after watching an AI feature at my last job basically die a slow death post-launch, and I think the model-failure explanation is usually a red herring tbh. Concrete version of what I mean. We had an agent doing first-pass triage on inbound support tickets, routing + drafting a suggested reply for a human to approve. Launched, looked great for like 6 weeks. Engineering was watching latency (fine, consistently under 2s) and error rate (also fine, sub 1%). Product was watching ticket resolution time, which actually improved initially. Meanwhile the support team itself started quietly noticing the suggested replies were getting weirdly generic for a specific category of tickets, nothing crashing, nothing erroring, just worse. They mentioned it in a slack channel a couple times. Nobody connected it to anything bc it wasnt anyone's job to connect it, support flagged quality, eng was looking at uptime, product was looking at a downstream metric that hadnt actually moved yet bc the degradation was gradual. By the time it showed up as an actual problem (resolution time metric finally dipped, maybe 2 months in) everyone's first assumption was "the model must have changed" or "we need a better prompt." Root cause when we actually dug in was a data source the agent pulled context from had silently started returning stale info after an unrelated pipeline change. Not a model problem at all. A "three teams had three different partial views of the same system and none of them overlapped" problem. Seen versions of this with teams running LangSmith, Langfuse, even fully custom setups someone built in-house. The specific tool wasnt really the variable. What was missing every time was something dumber than tooling, just a shared place where the trace, the quality complaint, and the downstream metric could actually sit next to each other and get looked at by someone who could act on all three at once. Could be pattern matching on too small a sample, genuinely not sure. But curious if this tracks for anyone else. What actually killed your AI feature after launch, was it actually the model, or was it more of a "nobody owned the full picture" thing dressed up as a model problem after the fact
+A few stories from the past week that, taken together, point to a real shift at the model layer rather than just incremental releases: Meta and Llama. Multiple reports indicate Meta is stepping back from open-source Llama in favor of a proprietary program (internally referred to as "Muse Spark," with a new "Avocado" model) under Meta Superintelligence Labs. Llama crossed 650M+ downloads and was arguably the anchor of the open-weights ecosystem, so a pivot to closed development would be significant for anyone relying on that lineage. Anthropic and export controls. Anthropic launched Claude Fable 5 on June 9 (Mythos-class, 1M-token context, always-on adaptive reasoning, notable security/vuln-finding capabilities). On June 12, a US export-control directive reportedly forced Anthropic to suspend access to Fable 5 and Mythos 5. Regardless of the specifics, it's a concrete example of frontier model availability being governed by policy, not just product decisions. Apple and Google. At WWDC, Apple shipped its Siri overhaul with parts powered by a Gemini partnership. EU/China rollout is delayed on regulatory grounds. Cost/commodity trend. Google cut Gemini Ultra from $250 to $200/mo and shipped 3.5 Flash; Alibaba's Qwen3.7-Plus is running at ~1/6 the per-token cost of its top tier; and open-weight models like Qwen 3.6 27B (reportedly 77.2% on SWE-bench, fits in 24GB) and Kimi K2.6 are increasingly viable for local/production use via Ollama (v0.30.8, June 12). Platform agents. Google added Managed Agents to the Gemini API, Microsoft made Copilot Cowork GA plus "Autopilot" agents, and Anthropic shipped scheduled/cron agents in beta. My take as someone building on top of these APIs: the two forces I'm watching are (1) frontier availability becoming a policy/geopolitics variable, and (2) the platforms absorbing the agent-orchestration layer that a lot of startups were building. Practically, that pushes me toward provider abstraction and keeping an open-weight fallback wired up, rather than hard-coupling to any single closed model. Curious whether others here are actually maintaining open-weight fallbacks in production, or if that's still mostly theoretical for most teams.
 
-9h ago
-
----
-
-**[Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense](https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/)**
-
-Saw this on Gizmodo today and it's been stuck in my head The argument is simple. AI learned from everyone's writing, art, code, conversations and companies are now worth trillions because of that. so why is none of it coming back to the people whose work built it The bill would create a $7 trillion fund, give the public a 50% stake in the biggest AI labs, $1000 a year per person to start, goes up as AI makes more Every time i use chatgpt i think about all the writers and coders and artists whose work it learned from who got nothing. This is at least someone trying to address that Is this actually doable or just a good idea that goes nowhere
-
-1d ago
-
----
-
-**[Roguelite MMO - Vibe Coded Online Game](https://www.reddit.com/r/artificial/comments/1ua7xpc/roguelite_mmo_vibe_coded_online_game/)**
-
-I have long wanted to create a text based browser game (as niche as they are) but I knew that it would take a few years to do so and that just wasn't in the cards for me.... fast forward to 2026 and in two months, I have my first game up and some happy customers (as of today) subscribed! The one thing I have fought with the most was ignoring all of the 'ai slop' feedback. I have been a dev for over 10 years, yea I get it... but ultimately AI/Vibe Coding is not going anywhere. This project has actually even helped me with my day job just in learning about so many tools I would otherwise not know about (since my day job is NOT related to gaming websites but analytical ones). I wont recover the cost of servers or subscription based tools I used to make this, and I knew that going into it and have zero care about it (which is why I made it so f2p friendly as well). What I am happy about though is that those who do see it for what it is, an actual passion project and not just a 'prompt and forget' thing have given nothing but positive feedback. That in the end was all I was really going for, creating something that people can have fun with (and in a very anti-whale way) and I have succeeded there. If interested: https://roguelite-mmo.com/
-
-21h ago
-
----
-
-**[Started maintaining a small library at work and now I genuinely understand why maintainers go quiet](https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/)**
-
-Built a little internal utility about a year ago, open sourced it because why not, figured maybe 10 people would find it useful. It slowly picked up a few hundred stars and then the issues started coming in. Not a flood or anything but enough and what surprised me was how much of it wasn't really bugs it was people wanting features that made sense for their use case but would've made zero sense for the original scope of the thing. Or issues that were basically "your README didn't account for my specific setup." I like helping people, I thought I would enjoy this and I did at first but somewhere around month 4 I noticed I was dreading opening GitHub notifications. The AI-generated PRs made it worse honestly. Not because the code was always bad but because they'd come in with confident descriptions, look reasonable on the surface and then you'd spend 30 minutes tracing through edge cases only to realize whoever sent it hadn't actually tested it against anything real. At human contribution pace that was manageable. At "someone hit generate and submit" pace it's just a different problem. I have immense respect for maintainers of anything with serious adoption now. The people keeping libraries that half the internet depends on running are doing it mostly for free, mostly in their spare time,and mostly while dealing with issue reporters who write like they're filing a complaint with customer support. If you use open source software and it's saved you hours of work, go sponsor someone. Even a few dollars a month means something and most of these folks have a GitHub sponsors page just sitting there.
-
-1d ago
-
----
-
-**[Matching the world's top multi-hop RAG systems, with no GPU, no fine-tuning, just pip install](https://www.reddit.com/r/artificial/comments/1ua9lvn/matching_the_worlds_top_multihop_rag_systems_with/)**
-
-The three systems below (HippoRAG 2, CoRAG, NeocorRAG) are among the strongest multi-hop QA frameworks published. Every one of them depends on a GPU, fine-tuning, or constrained decoding to get there. MOTHRAG sits right alongside them on F1, while running entirely on commodity API calls. No GPU. No fine-tuning. No constrained decoding. No non-commercial licenses. System | Deployment | HotpotQA | 2Wiki | MuSiQue | AVG HippoRAG 2 | offline graph + GPU | 75.5 | 71.0 | 48.6 | 65.0 CoRAG | trained retrieval | 75.1 | 75.1 | 52.9 | 67.7 NeocorRAG | GPU constrained decode| 78.3 | 76.1 | 52.6 | 69.0 MOTHRAG (ours) | commodity APIs only | 78.1 | 76.3 | 50.5 | 68.3 Highest average F1 among commercially-deployable frameworks, within 0.7 points of the GPU-bound state of the art, and ahead of it on 2Wiki. The point isn't beating these systems, it's reaching their tier with none of their infrastructure. Deployment is a pip install plus API keys: pip install mothrag from mothrag import MothRAG m = MothRAG.from_documents(["Paris is the capital of France.", "The Eiffel Tower is in Paris."]) result = m.query("In which country is the Eiffel Tower?") print(result.answer) print(result.confidence) The pipeline is fully modular. Readers, embedders and retrieval judges all swap without retraining, installed as optional extras: gemini/openai for API readers and embedders, sentence-transformers for a local embedding fallback, faiss for vector stores over 100k-10M chunks, retrieval for classic BM25/graph features, prod for the full stack. A one-flag economy tier swaps the retrieval judge and drops cost from ~$0.032 to ~$0.018 per query at statistical parity on HotpotQA and 2Wiki. Every answer is proof-tree-structured so you can inspect each reasoning hop, and the per-query outputs behind every table in the paper are released so you can verify the numbers. Paper: https://zenodo.org/records/20668567 Code (Apache 2.0): https://github.com/juliangeymonat-jpg/mothrag Site: https://mothrag.com Happy to answer questions about the pipeline or the judge design.
-
-🔗 [linkedin.com](https://www.linkedin.com/pulse/matching-worlds-top-multi-hop-rag-systems-gpu-just-pip-geymonat-zbgxe?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 20h ago
+23h ago
 
 ---
 
@@ -119,13 +117,83 @@ The three systems below (HippoRAG 2, CoRAG, NeocorRAG) are among the strongest m
 
 ## Google News: "ai"
 
+**[A viral doomsday scenario aims to shake Europe out of its AI complacency](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china)**
+
+A speculative thought-experiment warns the continent could pay a heavy price for lagging behind the US
+
+The Guardian • 5h ago
+
+---
+
+**[New global order: AI CEOs as heads of nation-states at G7](https://www.axios.com/2026/06/20/ai-tech-moguls-g7)**
+
+Axios • 3h ago
+
+---
+
+**[AI Is Breaking How Leaders Make Decisions. The Best Ones Are Slowing Down](https://www.inc.com/jerry-colonna/why-great-leaders-must-rethink-decision-making-in-the-age-of-ai/91356649)**
+
+Effective leadership in the age of AI requires slowing down, thinking critically, and prioritizing human judgment over automated decisions.
+
+inc.com • 53m ago
+
+---
+
+**[The Giant Test Kitchen Where Cooks Battle A.I. Slop](https://www.nytimes.com/2026/06/20/business/media/people-inc-ai-test-kitchen.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[AI buildout gives tech investors new reasons to watch bond market](https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html)**
+
+Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.
+
+CNBC • 5h ago
+
+---
+
+**[Opinion | Two Virginia Counties Diverge on AI Data Centers](https://www.wsj.com/opinion/two-virginia-counties-diverge-on-ai-data-centers-8835c1de)**
+
+WSJ • 19h ago
+
+---
+
+**[Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)**
+
+Reuters • 1d ago
+
+---
+
+**[Will the AI IPO boom make S.F. richer, or wipe out what’s left of its middle class?](https://www.sfchronicle.com/opinion/editorials/article/ai-stock-money-san-francisco-22307877.php)**
+
+San Francisco Chronicle • 5h ago
+
+---
+
+**[I Let Siri AI Show Me Around San Francisco](https://www.wired.com/story/siri-ai-hands-on-iphone/)**
+
+The new Siri AI is conversational, omnipresent, and actually helpful.
+
+WIRED • 7h ago
+
+---
+
+**[Apple's Tim Cook and many others say the AI boom is spiking costs — so their prices will spike, too.](https://www.businessinsider.com/ai-making-everything-more-expensive-inflation-apple-iphone-data-centers-2026-6)**
+
+The AI data-center boom means a spike in chip costs — but lots of products needs chips. You're going to pick up the tab.
+
+Business Insider • 7h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 749 • 💬 516 • 22h ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 761 • 💬 531 • 1d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -133,7 +201,7 @@ The three systems below (HippoRAG 2, CoRAG, NeocorRAG) are among the strongest m
 
 How earbuds influence our beliefs and push us apart.
 
-⬆️ 433 • 💬 746 • 1d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 437 • 💬 747 • 1d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
 ---
 
@@ -141,7 +209,7 @@ How earbuds influence our beliefs and push us apart.
 
 AI Engineer Claims to Have Cracked Linear A
 
-⬆️ 430 • 💬 168 • 22h ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
+⬆️ 431 • 💬 169 • 1d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
 
 ---
 
@@ -157,21 +225,13 @@ Although Wall Street loves AI, every day Americans are significantly less optimi
 
 The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.
 
-⬆️ 284 • 💬 132 • 21h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+⬆️ 284 • 💬 136 • 23h ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 
 ---
 
 **[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
 
-⬆️ 230 • 💬 304 • 21h ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
-
----
-
-**[Launch HN: Adam (YC W25) – Open-Source AI CAD](https://news.ycombinator.com/item?id=48572553)**
-
-CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM
-
-⬆️ 211 • 💬 97 • 2d ago • [GitHub](https://github.com/Adam-CAD/CADAM)
+⬆️ 231 • 💬 309 • 23h ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -195,7 +255,13 @@ I think I've spoken at length in other places about how I am a very staunch AI h
 
 Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
 
-⬆️ 116 • 💬 103 • 19h ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+⬆️ 117 • 💬 103 • 21h ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+
+---
+
+**[The hacker sent by Anthropic to calm the government's nerves about AI safety](https://news.ycombinator.com/item?id=48575451)**
+
+⬆️ 94 • 💬 115 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
 
 ---
 
@@ -219,7 +285,7 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 10K • 👍 324 • 💬 156 • ⏱️ 11:35 • 1d ago
+👁️ 10K • 👍 324 • 💬 156 • ⏱️ 11:35 • 2d ago
 
 ---
 
@@ -249,7 +315,7 @@ It is easy to forget how much data these models are trained on, and how much mor
 
 📺 Dwarkesh Patel
 
-👁️ 43K • 👍 2K • 💬 224 • ⏱️ 11:57 • 21h ago
+👁️ 43K • 👍 2K • 💬 224 • ⏱️ 11:57 • 23h ago
 
 ---
 
@@ -269,7 +335,7 @@ Young people were told artificial intelligence would make them sharper, faster, 
 
 📺 BBC News
 
-👁️ 5K • 👍 217 • 💬 91 • ⏱️ 26:12 • 3h ago
+👁️ 5K • 👍 217 • 💬 91 • ⏱️ 26:12 • 5h ago
 
 ---
 
@@ -351,7 +417,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 16,270 • ❤️ 487 • 20h ago
+⬇️ 16,270 • ❤️ 487 • 22h ago
 
 ---
 
@@ -568,7 +634,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 74.8k • 🔱 9.7k • 16h ago
+⭐ 74.8k • 🔱 9.7k • 18h ago
 
 ---
 
@@ -588,7 +654,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.0k • 🔱 925 • 22h ago
+⭐ 10.0k • 🔱 925 • 1d ago
 
 ---
 
@@ -598,7 +664,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.1k • 🔱 466 • 10m ago
+⭐ 4.1k • 🔱 466 • 2h ago
 
 ---
 
@@ -638,7 +704,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.7k • 🔱 126 • 20h ago
+⭐ 1.7k • 🔱 126 • 22h ago
 
 ---
 
@@ -658,7 +724,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.6k • 🔱 88 • 5h ago
+⭐ 1.6k • 🔱 88 • 7h ago
 
 ---
 
