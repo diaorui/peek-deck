@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T04:52:01.034399+00:00'
+updated: '2026-06-20T08:21:56.592798+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 04:52 UTC  
+**Last Updated:** June 20, 2026 at 08:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[I use my hand to control Iron Man's helmet](https://www.reddit.com/r/robotics/comments/1u8xlm1/i_use_my_hand_to_control_iron_mans_helmet/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 13h ago
+Business Insider • 17h ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 13h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -134,9 +134,9 @@ Anthropic • 1d ago
 
 ---
 
-**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
+**[Alibaba (BABA) Faces Pentagon Blacklist As It Pushes Deeper Into AI Robotics](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-faces-pentagon-blacklist-201559991.html)**
 
-Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
+Alibaba Group Holding (NYSE:BABA) was recently added to a new Pentagon blacklist that cites alleged ties to the Chinese military, which the company rejects and plans to contest. Analysts currently see limited direct business impact, but the move introduces fresh geopolitical and regulatory uncertainty for Alibaba. At the same time, Alibaba is accelerating its AI push, unveiling robotics models aimed at logistics, warehousing, and business operations. Ant Group has rolled out an AI overhaul...
 
 Yahoo Finance • 1d ago
 
@@ -160,7 +160,7 @@ Kraken Robotics • 1d ago
 
 **[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
 
-Tech Xplore • 14h ago
+Tech Xplore • 18h ago
 
 ---
 
@@ -172,19 +172,19 @@ Ars Technica • 2d ago
 
 ---
 
-**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
+**[Karl Storz to fully integrate Asensus, discontinue Senhance, Luna robots](https://www.massdevice.com/karl-storz-realigns-asensus-luna-senhance/)**
 
-Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
+Karl Storz announced today that it aims to sharpen its strategic focus to create more value in the operating room (OR).
 
-The Detroit News • 1d ago
+MassDevice • 2d ago
 
 ---
 
-**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
+**[New robot plugs moving wires with 99.5% accuracy in factory test](https://interestingengineering.com/ai-robotics/robot-plugs-wires-with-99-5-accuracy)**
 
-Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
+Sanctuary AI achieves 99.5 percent success on a wire-plugging task, matching factory production speed with Physical AI.
 
-olympics.com • 15h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -198,7 +198,17 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 2K • 👍 84 • 💬 7 • ⏱️ 21:44 • 9h ago
+👁️ 2K • 👍 95 • 💬 8 • ⏱️ 21:44 • 12h ago
+
+---
+
+**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
+
+Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
+
+📺 Jason Lowe on AI
+
+👁️ 229K • 👍 10K • 💬 2K • ⏱️ 2:51 • 2d ago
 
 ---
 
@@ -208,7 +218,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 169K • 👍 9K • 💬 949 • ⏱️ 2:57 • 6d ago
+👁️ 171K • 👍 9K • 💬 954 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -218,7 +228,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 17K • 👍 63 • 💬 63 • ⏱️ 0:55 • 2d ago
+👁️ 18K • 👍 65 • 💬 66 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -228,7 +238,7 @@ AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.n
 
 📺 InsideAI
 
-👁️ 868K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
+👁️ 873K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
 
 ---
 
@@ -238,7 +248,7 @@ Read the full, in-depth analysis report here: ...
 
 📺 China Update
 
-👁️ 25K • 👍 3K • 💬 239 • ⏱️ 14:28 • 1d ago
+👁️ 26K • 👍 3K • 💬 242 • ⏱️ 14:28 • 1d ago
 
 ---
 
@@ -248,17 +258,7 @@ xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tes
 
 📺 The Q
 
-👁️ 218K • 👍 4K • 💬 442 • ⏱️ 6:20 • 2d ago
-
----
-
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
-
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 358 • 💬 63 • ⏱️ 13:40 • 1d ago
+👁️ 220K • 👍 4K • 💬 446 • ⏱️ 6:20 • 3d ago
 
 ---
 
@@ -268,17 +268,7 @@ Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney &
 
 📺 Fox Business Clips
 
-👁️ 13K • 👍 127 • 💬 41 • ⏱️ 6:28 • 2d ago
-
----
-
-**[Robots and a Model Eiffel Tower Greet Macron, Modi at Paris Tech Conference](https://www.youtube.com/watch?v=GwSLouqzlpk)**
-
-French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured a major technology conference in Paris, ...
-
-📺 The Daily Guardian
-
-👁️ 28K • 👍 446 • 💬 17 • ⏱️ 0:57 • 1d ago
+👁️ 13K • 👍 128 • 💬 41 • ⏱️ 6:28 • 2d ago
 
 ---
 
@@ -288,7 +278,17 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 16K • 👍 319 • 💬 112 • ⏱️ 8:49 • 6d ago
+👁️ 16K • 👍 320 • 💬 113 • ⏱️ 8:49 • 6d ago
+
+---
+
+**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
+
+The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
+
+📺 Perigee Tech
+
+👁️ 110K • 👍 450 • 💬 11 • ⏱️ 0:05 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T04:52:01.030461+00:00'
+updated: '2026-06-20T08:21:56.589502+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 04:52 UTC  
+**Last Updated:** June 20, 2026 at 08:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -0.7%  
-**30d:** -17.1%  
-**90d:** -20.4%  
-**1y:** -25.5%  
+**24h:** +2.0%  
+**7d:** -0.2%  
+**30d:** -16.6%  
+**90d:** -19.9%  
+**1y:** -25.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ TL;DR for anyone who doesn’t click: CoinGecko looked at which chains kept user
 
 WYRIWE introduces a verifiable input provenance standard for AI agents on Ethereum, using triple-hash commitments and EIP-712 attestations to prove models execute the exact inputs users intended.
 
-🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-wyriwe-what-you-read-is-what-you-execute/) • 2d ago
+🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-wyriwe-what-you-read-is-what-you-execute/) • 3d ago
 
 ---
 
@@ -120,7 +120,7 @@ Uncover the Ethereum Foundation's stance on asset responsibility and the signifi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Turn a chess position into deterministic Ethereum and Bitcoin keys, entirely in 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 18h ago
+The Block • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 18h ago
 
 Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
 
-unchainedcrypto.com • 17h ago
+unchainedcrypto.com • 21h ago
 
 ---
 
@@ -188,15 +188,7 @@ TradingView • 1d ago
 
 The coin's central issue is becoming harder to ignore.
 
-The Motley Fool • 5h ago
-
----
-
-**[Crypto News: AlphaPepe Plans More CEX Reveals After Azbit as Ethereum Price Prediction Hits $4,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-plans-more-cex-reveals-after-azbit-as-ethereum-price-prediction-hits-4-000-1036261665)**
-
-MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
-
-markets.businessinsider.com • 1d ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -208,17 +200,9 @@ FXStreet • 1d ago
 
 ---
 
-**[Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees](https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/)**
-
-Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
-
-Crypto Briefing • 14h ago
-
----
-
 **[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
 
-CCN.com • 14h ago
+CCN.com • 17h ago
 
 ---
 
@@ -227,6 +211,20 @@ CCN.com • 14h ago
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
 Decrypt • 1d ago
+
+---
+
+**[Ethereum’s $1,695 Defense Faces a High-Stakes Moment](https://financefeeds.com/ethereums-1695-defense-faces-a-high-stakes-moment/)**
+
+FinanceFeeds • 10h ago
+
+---
+
+**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
+
+Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
+
+Benzinga • 1d ago
 
 ---
 
@@ -240,37 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 269 • 💬 57 • ⏱️ 17:32 • 11h ago
-
----
-
-**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
-
-D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
-
-📺 XRP Bags
-
-👁️ 1K • 👍 202 • 💬 85 • ⏱️ 11:45 • 2h ago
-
----
-
-**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
-
-No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
-
-📺 Gareth Soloway
-
-👁️ 59K • 👍 4K • 💬 269 • ⏱️ 16:06 • 1d ago
-
----
-
-**[Last Chance For ETH To RALLY! (Ethereum Update)](https://www.youtube.com/watch?v=UhK8pyqfrkw)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 577 • 👍 16 • 💬 14 • ⏱️ 4:21 • 19h ago
+👁️ 6K • 👍 304 • 💬 36 • ⏱️ 17:32 • 14h ago
 
 ---
 
@@ -280,17 +248,17 @@ El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de sali
 
 📺 Healthy Pockets
 
-👁️ 6K • 👍 461 • 💬 133 • ⏱️ 13:38 • 14h ago
+👁️ 7K • 👍 495 • 💬 124 • ⏱️ 13:38 • 17h ago
 
 ---
 
-**[BITCOIN &amp; ETH TRADE SETUP IS LIVE](https://www.youtube.com/watch?v=r-xsx3eSG2M)**
+**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
 
-Daily BTC, NVDA, GOOG, AAPL TSLA trades. Subscribe. Free Telegram, 9000+ traders ...
+No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
 
-📺 James Crypto Guru
+📺 Gareth Soloway
 
-👁️ 518 • 💬 3 • ⏱️ 7:35 • 4h ago
+👁️ 60K • 👍 4K • 💬 270 • ⏱️ 16:06 • 1d ago
 
 ---
 
@@ -300,27 +268,7 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 239 • 💬 15 • ⏱️ 6:57 • 2d ago
-
----
-
-**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 261 • 💬 33 • ⏱️ 38:25 • 2d ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
-
-BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 393 • 💬 202 • ⏱️ 22:44 • 21h ago
+👁️ 6K • 👍 241 • 💬 15 • ⏱️ 6:57 • 2d ago
 
 ---
 
@@ -331,6 +279,56 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 📺 Altcoin Daily
 
 👁️ 52K • 👍 3K • 💬 144 • ⏱️ 12:12 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
+
+BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 403 • 💬 172 • ⏱️ 22:44 • 1d ago
+
+---
+
+**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
+
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+
+📺 MONEY GAME
+
+👁️ 6K • 👍 166 • 💬 50 • ⏱️ 43:15 • 1d ago
+
+---
+
+**[What Does Tom Lee See In Ethereum?](https://www.youtube.com/watch?v=r8n_VMG4F_U)**
+
+While Bitcoin traded mostly sideways this week, two separate institutional moves may point toward the same underlying shift.
+
+📺 Fast Launch Digital
+
+👁️ 36 • 👍 4 • 💬 2 • ⏱️ 8:56 • 17h ago
+
+---
+
+**[Fundstrat: Stocks Are at Record Highs. Crypto Isn&#39;t.](https://www.youtube.com/watch?v=hyvx___QrLw)**
+
+Equities keep trading near record highs, but Bitcoin is still down roughly 50% from its October peak. In Fundstrat's monthly Crypto ...
+
+📺 Fundstrat
+
+👁️ 5K • 👍 125 • 💬 3 • ⏱️ 3:15 • 2d ago
+
+---
+
+**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 8K • 👍 262 • 💬 33 • ⏱️ 38:25 • 2d ago
 
 ---
 
