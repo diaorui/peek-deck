@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T08:21:56.589502+00:00'
+updated: '2026-06-20T10:58:15.206618+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 08:21 UTC  
+**Last Updated:** June 20, 2026 at 10:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.2%  
-**30d:** -16.6%  
-**90d:** -19.9%  
-**1y:** -25.0%  
+**24h:** +2.1%  
+**7d:** +0.1%  
+**30d:** -16.4%  
+**90d:** -19.7%  
+**1y:** -24.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $215.20B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.9%
 
 **All-Time Low:** $0.43
-+414030.9%
++411779.1%
 
 ---
 
@@ -156,7 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 22h ago
+The Block • 1d ago
+
+---
+
+**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
+
+Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -164,15 +172,31 @@ The Block • 22h ago
 
 Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
 
-unchainedcrypto.com • 21h ago
+unchainedcrypto.com • 23h ago
 
 ---
 
-**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://finance.yahoo.com/markets/crypto/articles/worlds-biggest-ethereum-treasury-company-104500506.html)**
+**[Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs](https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs)**
 
-When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
+Another key figure at the Ethereum Foundation is stepping away from her post, continuing a recent leadership exodus.
 
-Yahoo Finance • 1d ago
+Decrypt • 1d ago
+
+---
+
+**[Ethereum Crisis or Overblown FUD? Tom Lee Rejects Funding Fears](https://finance.yahoo.com/markets/crypto/articles/ethereum-crisis-overblown-fud-tom-075555413.html)**
+
+Tom Lee sees zero chance of an Ethereum funding crisis as senior Foundation staff exit and a contributor warns of a $30M gap.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
+
+The coin's central issue is becoming harder to ignore.
+
+The Motley Fool • 11h ago
 
 ---
 
@@ -184,28 +208,6 @@ TradingView • 1d ago
 
 ---
 
-**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
-
-The coin's central issue is becoming harder to ignore.
-
-The Motley Fool • 8h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC weakens, ETH turns lower, XRP faces channel rejection](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-weakens-eth-turns-lower-xrp-faces-channel-rejection-202606190333)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading under pressure on Friday as risk-off continues to weigh on the broader cryptocurrency market. BTC has fallen more than 4% so far this week, and ETH is extending losses, trading around $1,700.
-
-FXStreet • 1d ago
-
----
-
-**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
-
-CCN.com • 17h ago
-
----
-
 **[Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)**
 
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
@@ -214,17 +216,15 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum’s $1,695 Defense Faces a High-Stakes Moment](https://financefeeds.com/ethereums-1695-defense-faces-a-high-stakes-moment/)**
+**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
 
-FinanceFeeds • 10h ago
+CCN.com • 20h ago
 
 ---
 
-**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
+**[Ethereum’s $1,695 Defense Faces a High-Stakes Moment](https://financefeeds.com/ethereums-1695-defense-faces-a-high-stakes-moment/)**
 
-Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
-
-Benzinga • 1d ago
+FinanceFeeds • 13h ago
 
 ---
 
@@ -238,17 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 304 • 💬 36 • ⏱️ 17:32 • 14h ago
-
----
-
-**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
-
-El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
-
-📺 Healthy Pockets
-
-👁️ 7K • 👍 495 • 💬 124 • ⏱️ 13:38 • 17h ago
+👁️ 7K • 👍 322 • 💬 37 • ⏱️ 17:32 • 17h ago
 
 ---
 
@@ -258,7 +248,17 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 60K • 👍 4K • 💬 270 • ⏱️ 16:06 • 1d ago
+👁️ 60K • 👍 4K • 💬 271 • ⏱️ 16:06 • 1d ago
+
+---
+
+**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
+
+El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
+
+📺 Healthy Pockets
+
+👁️ 7K • 👍 517 • 💬 127 • ⏱️ 13:38 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 241 • 💬 15 • ⏱️ 6:57 • 2d ago
+👁️ 6K • 👍 242 • 💬 15 • ⏱️ 6:57 • 2d ago
 
 ---
 
@@ -278,7 +278,7 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 144 • ⏱️ 12:12 • 2d ago
+👁️ 53K • 👍 3K • 💬 144 • ⏱️ 12:12 • 2d ago
 
 ---
 
@@ -288,7 +288,17 @@ BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 403 • 💬 172 • ⏱️ 22:44 • 1d ago
+👁️ 10K • 👍 404 • 💬 173 • ⏱️ 22:44 • 1d ago
+
+---
+
+**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
+
+D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
+
+📺 XRP Bags
+
+👁️ 3K • 👍 342 • 💬 111 • ⏱️ 11:45 • 8h ago
 
 ---
 
@@ -308,7 +318,7 @@ While Bitcoin traded mostly sideways this week, two separate institutional moves
 
 📺 Fast Launch Digital
 
-👁️ 36 • 👍 4 • 💬 2 • ⏱️ 8:56 • 17h ago
+👁️ 55 • 👍 6 • 💬 2 • ⏱️ 8:56 • 19h ago
 
 ---
 
@@ -319,16 +329,6 @@ Equities keep trading near record highs, but Bitcoin is still down roughly 50% f
 📺 Fundstrat
 
 👁️ 5K • 👍 125 • 💬 3 • ⏱️ 3:15 • 2d ago
-
----
-
-**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 262 • 💬 33 • ⏱️ 38:25 • 2d ago
 
 ---
 

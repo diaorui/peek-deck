@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T08:21:56.592798+00:00'
+updated: '2026-06-20T10:58:15.209921+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 08:21 UTC  
+**Last Updated:** June 20, 2026 at 10:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,7 +78,7 @@ I'm currently pursuing an M.Tech in Mechanical Engineering and have been conside
 
 Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS transfer review process? I submitted through the transfer option for IROS and was rejected, so I’m trying to better understand how the process works. What can reviewers see: the previous reviews, only the author response/revision summary, or something else? For those with experience, did the transfer process feel helpful, or could it bias reviewers since they know the paper was previously rejected? Any insights from the reviewer or author side would be appreciated.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 17h ago
+Business Insider • 19h ago
 
 ---
 
@@ -126,6 +126,14 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
+
+St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
+
+KCRA • 17h ago
+
+---
+
 **[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
 
 We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
@@ -134,11 +142,11 @@ Anthropic • 1d ago
 
 ---
 
-**[Alibaba (BABA) Faces Pentagon Blacklist As It Pushes Deeper Into AI Robotics](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-faces-pentagon-blacklist-201559991.html)**
+**[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
 
-Alibaba Group Holding (NYSE:BABA) was recently added to a new Pentagon blacklist that cites alleged ties to the Chinese military, which the company rejects and plans to contest. Analysts currently see limited direct business impact, but the move introduces fresh geopolitical and regulatory uncertainty for Alibaba. At the same time, Alibaba is accelerating its AI push, unveiling robotics models aimed at logistics, warehousing, and business operations. Ant Group has rolled out an AI overhaul...
+French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
 
-Yahoo Finance • 1d ago
+TechCrunch • 10h ago
 
 ---
 
@@ -154,13 +162,13 @@ inc.com • 1d ago
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
-Kraken Robotics • 1d ago
+Kraken Robotics • 2d ago
 
 ---
 
 **[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -172,19 +180,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[Karl Storz to fully integrate Asensus, discontinue Senhance, Luna robots](https://www.massdevice.com/karl-storz-realigns-asensus-luna-senhance/)**
+**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
 
-Karl Storz announced today that it aims to sharpen its strategic focus to create more value in the operating room (OR).
+Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-MassDevice • 2d ago
-
----
-
-**[New robot plugs moving wires with 99.5% accuracy in factory test](https://interestingengineering.com/ai-robotics/robot-plugs-wires-with-99-5-accuracy)**
-
-Sanctuary AI achieves 99.5 percent success on a wire-plugging task, matching factory production speed with Physical AI.
-
-Interesting Engineering • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 2K • 👍 95 • 💬 8 • ⏱️ 21:44 • 12h ago
+👁️ 2K • 👍 102 • 💬 9 • ⏱️ 21:44 • 15h ago
 
 ---
 
@@ -208,7 +208,7 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 229K • 👍 10K • 💬 2K • ⏱️ 2:51 • 2d ago
+👁️ 234K • 👍 10K • 💬 2K • ⏱️ 2:51 • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 171K • 👍 9K • 💬 954 • ⏱️ 2:57 • 6d ago
+👁️ 171K • 👍 9K • 💬 961 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -228,27 +228,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 18K • 👍 65 • 💬 66 • ⏱️ 0:55 • 2d ago
-
----
-
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 873K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
-
----
-
-**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
-
-Read the full, in-depth analysis report here: ...
-
-📺 China Update
-
-👁️ 26K • 👍 3K • 💬 242 • ⏱️ 14:28 • 1d ago
+👁️ 19K • 👍 66 • 💬 68 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -258,17 +238,27 @@ xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tes
 
 📺 The Q
 
-👁️ 220K • 👍 4K • 💬 446 • ⏱️ 6:20 • 3d ago
+👁️ 235K • 👍 4K • 💬 447 • ⏱️ 6:20 • 3d ago
 
 ---
 
-**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
-Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
-📺 Fox Business Clips
+📺 InsideAI
 
-👁️ 13K • 👍 128 • 💬 41 • ⏱️ 6:28 • 2d ago
+👁️ 877K • 👍 28K • 💬 3K • ⏱️ 15:10 • 5d ago
+
+---
+
+**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
+
+Read the full, in-depth analysis report here: ...
+
+📺 China Update
+
+👁️ 26K • 👍 3K • 💬 246 • ⏱️ 14:28 • 1d ago
 
 ---
 
@@ -282,13 +272,23 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 ---
 
-**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
+**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
 
-The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
+అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
 
-📺 Perigee Tech
+📺 Zee Telugu News
 
-👁️ 110K • 👍 450 • 💬 11 • ⏱️ 0:05 • 1d ago
+👁️ 95K • 👍 364 • 💬 4 • ⏱️ 0:39 • 2d ago
+
+---
+
+**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+
+Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+
+📺 Fox Business Clips
+
+👁️ 13K • 👍 129 • 💬 41 • ⏱️ 6:28 • 2d ago
 
 ---
 
