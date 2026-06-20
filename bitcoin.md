@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-20T18:54:24.605293+00:00'
+updated: '2026-06-20T20:15:28.120902+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 18:54 UTC  
+**Last Updated:** June 20, 2026 at 20:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,002.42
+### $63,889.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -3.0%  
-**30d:** -15.6%  
-**90d:** -10.0%  
-**1y:** -37.4%  
+**24h:** +1.4%  
+**7d:** -2.7%  
+**30d:** -15.3%  
+**90d:** -9.8%  
+**1y:** -37.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im looking for a decentralized way to bridge BTC to another without relying on a centralized custodian What are you guys using? Any recommendations or experiences sharing would be great- thanks
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Im looking for a decentralized way to bridge BTC to another without relying on a
 
 I'm wondering, if we see a liquidation cascade, or a series of Black Swan events, would you still buy Bitcoin at $12k or do you guys think if that happens it's over for Bitcoin and we'll see 6k or 3k again?
 
-19h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm wondering, if we see a liquidation cascade, or a series of Black Swan events
 
 Yes, I firmly believe
 
-8h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Yes, I firmly believe
 
 Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named GameKyuubi logs onto BitcoinTalk to vent. He tries to type "I AM HOLDING" but fumbles the keyboard. "I AM HODLING" is born. He admits he’s a terrible trader who can't time the market, so he's just gonna sit on his stack. Fast forward a few hours, the typo goes viral. The absolute degen accidentally birthed the most iconic meme and investment strategy in crypto history. Zero coping, pure lore.
 
-11h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named Gam
 
 Was in a random town in the Dominican Republic and saw quite a few places accepted BTC as a method of payment. Decided to try the system out and purchased ice cream with BTC
 
-20h ago
+21h ago
 
 ---
 
@@ -121,7 +121,7 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 “In early 2013, Mahboob’s Italian business partner told her about bitcoin. He said it was a new kind of money that could be sent from phone to phone without a bank account. Unlike the local afghani currency, which was steered by the government, bitcoin floated on the open market. When Mahboob first learned about bitcoin, it was trading at around $13. By the early summer of 2013, it broke $70. “At first, I did not think the girls would trust Bitcoin,” Mahboob said. “It was too hard to understand.” But her business partner encouraged her and said: “Let’s try it — what do we have to lose?” A few of the women did keep their bitcoin from 2013. One of them was Laleh Farzan. Mahboob told me that Farzan worked for her as a network manager, and in her time at Citadel Software earned 2.5 BTC. At today’s exchange rate, Farzan’s earnings would now be worth more than 100 times the average Afghan annual income. In 2016, Farzan received threats from the Taliban and other conservatives in Afghanistan because of her work with computers. When they attacked her house, she decided to escape, leaving with her family and selling their home and assets to pay brokers to take them on the treacherous road to Europe. Like thousands of other Afghan refugees, Farzan and her family traveled by foot, car and train thousands of miles through Iran and Turkey, finally making it to Germany in 2017. Along the way, dishonest middlemen and common thieves stole everything they brought with them, including their jewelry and cash. At one point, their boat crashed, and more belongings sank to the bottom of the Mediterranean. It’s a tragic story familiar to so many refugees. But in this case, something was different. Through it all, Farzan was able to keep her bitcoin, because she hid the seed to her bitcoin wallet on a piece of tiny, innocuous-looking paper. Thieves could not take what they could not find.” Excerpt from “Broken Money” by Lyn Alden. They control your banks. They control your employer. They control your tax rate. Insiders trade your stocks and manipulate your IRAs. With dilution/QE they can tax your savings by devaluing it and you have no control over that. Bitcoin is like the second amendment for money. It’s about control. I see a lot of fear in this sub. If you’re afraid, you don’t understand how money works, or you’re over leveraged.
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+14h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
 
-6h ago
+7h ago
 
 ---
 
@@ -163,7 +163,7 @@ https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79
 
 CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-CNBC • 3h ago
+CNBC • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2d ago
 
 From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -189,11 +189,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Alabama homeowners reject bitcoin center near their homes, despite cash, free internet, and perks](https://www.yahoo.com/news/us/articles/alabama-homeowners-reject-bitcoin-center-183300102.html)**
+**[CZ Floats Freezing Satoshi’s Bitcoin Over Quantum Risk](https://finance.yahoo.com/markets/crypto/articles/cz-floats-freezing-satoshi-bitcoin-190000810.html)**
 
-Residents' refusal has become a major source of leverage.
+CZ floated freezing Satoshi's Bitcoin after a quantum fork but says it would be a community call, not a personal one.
 
-Yahoo • 21m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo • 21m ago
 
 Public records show gubernatorial candidate Toby Doeden’s ties to Aberdeen-area real estate, car dealerships, a TIF project and bitcoin mining.
 
-KOTA Territory News • 4h ago
+KOTA Territory News • 6h ago
 
 ---
 
@@ -209,7 +209,7 @@ KOTA Territory News • 4h ago
 
 Somerville residents have gathered hundreds of petition signatures against a proposed bitcoin mining center on Union Road.
 
-WAFF • 19h ago
+WAFF • 20h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bitcoin Magazine • 1d ago
 
 **[Bitcoin rebounds above $63,000 as traders assess regulatory developments](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-traders-assess-regulatory-developments-4751609)**
 
-Investing.com • 9h ago
+Investing.com • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 251 • ⏱️ 11:44 • 20h ago
+👁️ 38K • 👍 2K • 💬 251 • ⏱️ 11:44 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 206 • ⏱️ 17:05 • 21h ago
+👁️ 21K • 👍 2K • 💬 206 • ⏱️ 17:05 • 22h ago
 
 ---
 
@@ -369,7 +369,7 @@ The persistent fear that quantum computing will dismantle Bitcoin ignores a much
 
 📺 BlockDrift
 
-👁️ 686 • 👍 8 • ⏱️ 0:55 • 6h ago
+👁️ 686 • 👍 8 • ⏱️ 0:55 • 7h ago
 
 ---
 
@@ -389,7 +389,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 529 • 💬 75 • ⏱️ 12:27 • 1d ago
+👁️ 9K • 👍 529 • 💬 75 • ⏱️ 12:27 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Fox Business
 
-👁️ 2K • 👍 141 • 💬 59 • ⏱️ 11:24 • 54m ago
+👁️ 2K • 👍 141 • 💬 59 • ⏱️ 11:24 • 2h ago
 
 ---
 
@@ -417,7 +417,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 685 • 💬 112 • ⏱️ 11:41 • 11h ago
+👁️ 11K • 👍 685 • 💬 112 • ⏱️ 11:41 • 13h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T18:54:24.614370+00:00'
+updated: '2026-06-20T20:15:28.130035+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 18:54 UTC  
+**Last Updated:** June 20, 2026 at 20:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,6 +126,38 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
+
+Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
+
+olympics.com • 1d ago
+
+---
+
+**[Titans Robotics team members protest move to smaller space at Alexandria City High School](https://www.alxnow.com/2026/06/19/titans-robotics-team-members-protest-move-to-smaller-space-at-alexandria-city-high-school/)**
+
+Members of Alexandria City High School's award-winning Titan Robotics team are protesting a decision to move the team to a new, smaller dedicated classroom space at the King Street Campus. Last September, the award-winning Titan Robotics team was informed they would have to divide their 4,000-square-foot space next to the school gym with a new
+
+ALXnow • 1d ago
+
+---
+
+**[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
+
+French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
+
+TechCrunch • 19h ago
+
+---
+
+**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
+
+Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+
+Ars Technica • 3d ago
+
+---
+
 **[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
 
 We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
@@ -138,23 +170,7 @@ Anthropic • 2d ago
 
 AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
 
-AP News • 18h ago
-
----
-
-**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
-
-Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
-
-olympics.com • 1d ago
-
----
-
-**[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
-
-French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
-
-TechCrunch • 18h ago
+AP News • 20h ago
 
 ---
 
@@ -166,27 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
+**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
 
-Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
 
-Ars Technica • 2d ago
-
----
-
-**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
-
-St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
-
-KCRA • 1d ago
-
----
-
-**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
-
-Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
-
-The Detroit News • 1d ago
+inc.com • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 3K • 👍 120 • 💬 12 • ⏱️ 21:44 • 23h ago
+👁️ 3K • 👍 120 • 💬 12 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI 
 
 📺 Jason Lowe on AI
 
-👁️ 175K • 👍 9K • 💬 996 • ⏱️ 2:57 • 6d ago
+👁️ 175K • 👍 9K • 💬 996 • ⏱️ 2:57 • 7d ago
 
 ---
 
@@ -240,7 +240,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 21K • 👍 72 • 💬 79 • ⏱️ 0:55 • 2d ago
+👁️ 21K • 👍 72 • 💬 79 • ⏱️ 0:55 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ Witness the future of smart agriculture!** Watch this metallic cube undergo an i
 
 📺 🚜🌾 Desi Farm Vibes
 
-👁️ 18K • 👍 88 • ⏱️ 0:21 • 3d ago
+👁️ 18K • 👍 88 • ⏱️ 0:21 • 4d ago
 
 ---
 
@@ -290,7 +290,7 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 25K • 👍 541 • 💬 77 • ⏱️ 0:32 • 22h ago
+👁️ 25K • 👍 541 • 💬 77 • ⏱️ 0:32 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T18:54:24.611223+00:00'
+updated: '2026-06-20T20:15:28.126860+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 18:54 UTC  
+**Last Updated:** June 20, 2026 at 20:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +0.1%  
-**30d:** -16.4%  
-**90d:** -19.7%  
-**1y:** -24.9%  
+**24h:** +1.7%  
+**7d:** +0.2%  
+**30d:** -16.3%  
+**90d:** -19.6%  
+**1y:** -24.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ I wrapped some ETH a long time ago and completely forgot about it. I just notice
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 2d ago
 
 The coin's central issue is becoming harder to ignore.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 2d ago
 
 Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
 
-FXStreet • 15h ago
+FXStreet • 17h ago
 
 ---
 
@@ -210,7 +210,7 @@ FXStreet • 15h ago
 
 VanEck Ethereum ETF’s ETHV saw fresh pressure on June 18, 2026, as investors pulled $638,860 from the fund, marking a notable single-day outflow. With assets under ...
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 573 • 👍 59 • 💬 4 • ⏱️ 18:36 • 2h ago
+👁️ 573 • 👍 59 • 💬 4 • ⏱️ 18:36 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 938 • 👍 91 • 💬 93 • ⏱️ 20:39 • 1h ago
+👁️ 938 • 👍 91 • 💬 93 • ⏱️ 20:39 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Eth
 
 📺 Discover Crypto
 
-👁️ 656 • 👍 23 • 💬 14 • ⏱️ 0:24 • 54m ago
+👁️ 656 • 👍 23 • 💬 14 • ⏱️ 0:24 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock
 
 📺 FACE FAMILY
 
-👁️ 3K • 👍 2K • 34m ago
+👁️ 3K • 👍 2K • 1h ago
 
 ---
 
@@ -328,7 +328,7 @@ D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a lim
 
 📺 XRP Bags
 
-👁️ 4K • 👍 427 • 💬 132 • ⏱️ 11:45 • 16h ago
+👁️ 4K • 👍 427 • 💬 132 • ⏱️ 11:45 • 18h ago
 
 ---
 
