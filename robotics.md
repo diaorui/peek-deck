@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T00:16:46.466229+00:00'
+updated: '2026-06-20T04:52:01.034399+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 00:16 UTC  
+**Last Updated:** June 20, 2026 at 04:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,15 +114,15 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 9h ago
+Business Insider • 13h ago
 
 ---
 
-**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
+**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
 
-Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
+Your weekly selection of awesome robot videos
 
-Yahoo Finance • 20h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -131,6 +131,14 @@ Yahoo Finance • 20h ago
 We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
 
 Anthropic • 1d ago
+
+---
+
+**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
+
+Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -150,6 +158,12 @@ Kraken Robotics • 1d ago
 
 ---
 
+**[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
+
+Tech Xplore • 14h ago
+
+---
+
 **[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
 
 Nvidia's self-improvement program for robots enlists teams of AI coding agents.
@@ -158,11 +172,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
 
-AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
 
-AP News • 12m ago
+The Detroit News • 1d ago
 
 ---
 
@@ -170,23 +184,7 @@ AP News • 12m ago
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-olympics.com • 11h ago
-
----
-
-**[Certified robot safety tech lets humans work beside machines](https://interestingengineering.com/ai-robotics/sensory-robotics-fenceless-industrial-robot-safety-system)**
-
-New safety system uses 3D vision to let industrial robots work alongside humans without protective cages.
-
-Interesting Engineering • 46m ago
-
----
-
-**[St. Francis Catholic High robotics team heads to world championship!](https://www.cbsnews.com/gooddaysacramento/video/st-francis-catholic-high-robotics-team-heads-to-world-championship/)**
-
-A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
-
-CBS News • 7h ago
+olympics.com • 15h ago
 
 ---
 
@@ -194,13 +192,23 @@ CBS News • 7h ago
 
 ## YouTube Videos: "robotics"
 
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+
+📺 Carros Show
+
+👁️ 2K • 👍 84 • 💬 7 • ⏱️ 21:44 • 9h ago
+
+---
+
 **[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
 
 Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
 
 📺 Jason Lowe on AI
 
-👁️ 168K • 👍 9K • 💬 940 • ⏱️ 2:57 • 6d ago
+👁️ 169K • 👍 9K • 💬 949 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -210,37 +218,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 16K • 👍 60 • 💬 58 • ⏱️ 0:55 • 2d ago
-
----
-
-**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
-
-Read the full, in-depth analysis report here: ...
-
-📺 China Update
-
-👁️ 25K • 👍 3K • 💬 236 • ⏱️ 14:28 • 1d ago
-
----
-
-**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
-
-The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
-
-📺 Perigee Tech
-
-👁️ 96K • 👍 416 • 💬 10 • ⏱️ 0:05 • 21h ago
-
----
-
-**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
-
-xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
-
-📺 The Q
-
-👁️ 201K • 👍 4K • 💬 437 • ⏱️ 6:20 • 2d ago
+👁️ 17K • 👍 63 • 💬 63 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -250,7 +228,27 @@ AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.n
 
 📺 InsideAI
 
-👁️ 855K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
+👁️ 868K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
+
+---
+
+**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
+
+Read the full, in-depth analysis report here: ...
+
+📺 China Update
+
+👁️ 25K • 👍 3K • 💬 239 • ⏱️ 14:28 • 1d ago
+
+---
+
+**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
+
+xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
+
+📺 The Q
+
+👁️ 218K • 👍 4K • 💬 442 • ⏱️ 6:20 • 2d ago
 
 ---
 
@@ -260,7 +258,7 @@ War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 348 • 💬 60 • ⏱️ 13:40 • 1d ago
+👁️ 8K • 👍 358 • 💬 63 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -270,17 +268,7 @@ Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney &
 
 📺 Fox Business Clips
 
-👁️ 13K • 👍 126 • 💬 42 • ⏱️ 6:28 • 2d ago
-
----
-
-**[It Comes When You Poop... Then Grinds &amp; Cleans Itself 😱 Meet Xiaoban Robot Toilet](https://www.youtube.com/watch?v=KZLeV9PyTZU)**
-
-car #electriccar #usa A Chinese company just flipped that around. Yueban has built the Xiaoban — an AI-powered robot toilet that ...
-
-📺 OTOFOOTAGE
-
-👁️ 2K • 👍 17 • 💬 7 • ⏱️ 2:04 • 1d ago
+👁️ 13K • 👍 127 • 💬 41 • ⏱️ 6:28 • 2d ago
 
 ---
 
@@ -290,7 +278,17 @@ French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured 
 
 📺 The Daily Guardian
 
-👁️ 28K • 👍 437 • 💬 15 • ⏱️ 0:57 • 1d ago
+👁️ 28K • 👍 446 • 💬 17 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[China&#39;s Fighting Humanoid Robots Are Getting Scary! (EngineAI T800 vs Unitree H2)](https://www.youtube.com/watch?v=KQBVEFTcop8)**
+
+China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared footage of its Terminator-inspired T800 humanoid ...
+
+📺 Kalil 4.0
+
+👁️ 16K • 👍 319 • 💬 112 • ⏱️ 8:49 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T00:16:46.464002+00:00'
+updated: '2026-06-20T04:52:01.030461+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 00:16 UTC  
+**Last Updated:** June 20, 2026 at 04:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,702.52
+### $1,704.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.0%  
-**30d:** -17.3%  
-**90d:** -20.6%  
-**1y:** -25.7%  
+**24h:** +1.0%  
+**7d:** -0.7%  
+**30d:** -17.1%  
+**90d:** -20.4%  
+**1y:** -25.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $216.43B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-63.7%
 
 **All-Time Low:** $0.43
-+411779.1%
++414030.9%
 
 ---
 
@@ -156,31 +156,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 14h ago
+The Block • 18h ago
 
 ---
 
-**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
+**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
 
-Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
+Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
 
-CoinDesk • 1d ago
-
----
-
-**[Arthur Hayes Sells Ethereum at a Loss as Whales Keep Buying Near Support](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-sells-ethereum-loss-223400621.html)**
-
-Ethereum (CRYPTO: $ETH) is back near a key technical level after Arthur Hayes appeared to cut a recent ETH pos...
-
-Yahoo Finance • 1h ago
+unchainedcrypto.com • 17h ago
 
 ---
 
-**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
+**[The World's Biggest Ethereum Treasury Company Just Bought the Dip on Ethereum. Should You?](https://finance.yahoo.com/markets/crypto/articles/worlds-biggest-ethereum-treasury-company-104500506.html)**
 
-The coin's central issue is becoming harder to ignore.
+When big holders accumulate even more of an asset, it sends a signal of confidence about the asset to the market.
 
-The Motley Fool • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,7 +180,15 @@ The Motley Fool • 1h ago
 
 Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
 
-TradingView • 22h ago
+TradingView • 1d ago
+
+---
+
+**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
+
+The coin's central issue is becoming harder to ignore.
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 22h ago
 
 MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ markets.businessinsider.com • 23h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading under pressure on Friday as risk-off continues to weigh on the broader cryptocurrency market. BTC has fallen more than 4% so far this week, and ETH is extending losses, trading around $1,700.
 
-FXStreet • 20h ago
+FXStreet • 1d ago
 
 ---
 
@@ -212,7 +212,13 @@ FXStreet • 20h ago
 
 Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 14h ago
+
+---
+
+**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
+
+CCN.com • 14h ago
 
 ---
 
@@ -221,12 +227,6 @@ Crypto Briefing • 9h ago
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
-
-CCN.com • 9h ago
 
 ---
 
@@ -240,37 +240,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 207 • 💬 17 • ⏱️ 17:32 • 6h ago
+👁️ 5K • 👍 269 • 💬 57 • ⏱️ 17:32 • 11h ago
 
 ---
 
-**[Last Chance For ETH To RALLY! (Ethereum Update)](https://www.youtube.com/watch?v=UhK8pyqfrkw)**
+**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
 
-📺 Cilinix Crypto
+📺 XRP Bags
 
-👁️ 450 • 👍 14 • 💬 13 • ⏱️ 4:21 • 14h ago
-
----
-
-**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
-
-El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
-
-📺 Healthy Pockets
-
-👁️ 5K • 👍 420 • 💬 120 • ⏱️ 13:38 • 9h ago
-
----
-
-**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 258 • 💬 33 • ⏱️ 38:25 • 2d ago
+👁️ 1K • 👍 202 • 💬 85 • ⏱️ 11:45 • 2h ago
 
 ---
 
@@ -280,7 +260,37 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 58K • 👍 4K • 💬 267 • ⏱️ 16:06 • 1d ago
+👁️ 59K • 👍 4K • 💬 269 • ⏱️ 16:06 • 1d ago
+
+---
+
+**[Last Chance For ETH To RALLY! (Ethereum Update)](https://www.youtube.com/watch?v=UhK8pyqfrkw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 577 • 👍 16 • 💬 14 • ⏱️ 4:21 • 19h ago
+
+---
+
+**[¿ETHEREUM EN PROBLEMAS? | El Plan de 1000 Millones de Dólares para Salvar ETH...](https://www.youtube.com/watch?v=lKVGczihWl4)**
+
+El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de salir a la luz, y no te vas a creer lo que esto podría ...
+
+📺 Healthy Pockets
+
+👁️ 6K • 👍 461 • 💬 133 • ⏱️ 13:38 • 14h ago
+
+---
+
+**[BITCOIN &amp; ETH TRADE SETUP IS LIVE](https://www.youtube.com/watch?v=r-xsx3eSG2M)**
+
+Daily BTC, NVDA, GOOG, AAPL TSLA trades. Subscribe. Free Telegram, 9000+ traders ...
+
+📺 James Crypto Guru
+
+👁️ 518 • 💬 3 • ⏱️ 7:35 • 4h ago
 
 ---
 
@@ -290,7 +300,17 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 237 • 💬 15 • ⏱️ 6:57 • 2d ago
+👁️ 6K • 👍 239 • 💬 15 • ⏱️ 6:57 • 2d ago
+
+---
+
+**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
+
+Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 8K • 👍 261 • 💬 33 • ⏱️ 38:25 • 2d ago
 
 ---
 
@@ -300,7 +320,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 382 • 💬 259 • ⏱️ 22:44 • 16h ago
+👁️ 9K • 👍 393 • 💬 202 • ⏱️ 22:44 • 21h ago
 
 ---
 
@@ -311,24 +331,6 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 📺 Altcoin Daily
 
 👁️ 52K • 👍 3K • 💬 144 • ⏱️ 12:12 • 2d ago
-
----
-
-**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
-
-📺 MONEY GAME
-
-👁️ 6K • 👍 166 • 💬 51 • ⏱️ 43:15 • 1d ago
-
----
-
-**[These coins suck #ethereum #bitcoin #cardano #crypto #cryptoinvesting](https://www.youtube.com/watch?v=iLaM6OjcftI)**
-
-📺 klay browning
-
-👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:06 • 1d ago
 
 ---
 
