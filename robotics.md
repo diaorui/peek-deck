@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T10:58:15.209921+00:00'
+updated: '2026-06-20T12:54:05.556629+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 10:58 UTC  
+**Last Updated:** June 20, 2026 at 12:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense
 
 I've been working on an open-source pet companion robot called OpenPaw, and wanted to share the navigation system I built for it. The hardware is an ESP32-S3 running ESP-IDF with a camera, DRV8833 motor driver, VL53L0X distance sensor, and MLX90634 temp sensor. It hosts its own WiFi AP — no cloud, no internet needed. The navigation works like this: I created virtual portals in my home using the Auki posemesh network (like GPS waypoints indoors). Each portal has X, Y, Z coordinates. A phone app built with Flutter connects to a local bridge API and loads these portals. When you scan a portal QR code with the phone's camera, the app records your position AND compass heading using the phone's magnetometer. This gives the robot both location and orientation — the two things needed for autonomous movement. The robot runs a PWM-based odometry task that estimates its position from motor commands every 50ms. A /api/pose endpoint returns real-time X, Y, and heading. A /api/trajectory endpoint logs the full path. The app shows all this on a 2D map overlay with portal markers, the robot's position, heading arrow, and traveled path updating every 500ms. The portal dropdown on the control screen lets you select any destination. The app calculates direction and distance from the robot's current position to the target in real time. The entire stack — ESP-IDF firmware, Flutter app, Auki bridge API — is open source. Build guide and schematics are documented. What navigation approaches have you used for indoor robots without GPS? I'm planning to add wheel encoders next for better accuracy.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 19h ago
+Business Insider • 21h ago
 
 ---
 
@@ -126,11 +126,27 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
+**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
 
-St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
+Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-KCRA • 17h ago
+olympics.com • 23h ago
+
+---
+
+**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+
+AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+
+AP News • 12h ago
+
+---
+
+**[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
+
+French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
+
+TechCrunch • 12h ago
 
 ---
 
@@ -142,11 +158,9 @@ Anthropic • 1d ago
 
 ---
 
-**[He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)**
+**[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
 
-French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
-
-TechCrunch • 10h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -154,7 +168,7 @@ TechCrunch • 10h ago
 
 AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
 
-inc.com • 1d ago
+inc.com • 2d ago
 
 ---
 
@@ -163,20 +177,6 @@ inc.com • 1d ago
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
 Kraken Robotics • 2d ago
-
----
-
-**[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
-
-Tech Xplore • 20h ago
-
----
-
-**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
-
-Nvidia's self-improvement program for robots enlists teams of AI coding agents.
-
-Ars Technica • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 2K • 👍 102 • 💬 9 • ⏱️ 21:44 • 15h ago
+👁️ 2K • 👍 102 • 💬 9 • ⏱️ 21:44 • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ Read the full, in-depth analysis report here: ...
 
 📺 China Update
 
-👁️ 26K • 👍 3K • 💬 246 • ⏱️ 14:28 • 1d ago
+👁️ 26K • 👍 3K • 💬 246 • ⏱️ 14:28 • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ China's fighting humanoids are getting crazy. Shenzhen's EngineAI just shared fo
 
 📺 Kalil 4.0
 
-👁️ 16K • 👍 320 • 💬 113 • ⏱️ 8:49 • 6d ago
+👁️ 16K • 👍 320 • 💬 113 • ⏱️ 8:49 • 7d ago
 
 ---
 

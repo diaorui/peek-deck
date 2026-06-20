@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-20T10:58:15.200365+00:00'
+updated: '2026-06-20T12:54:05.548410+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 10:58 UTC  
+**Last Updated:** June 20, 2026 at 12:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,407.79
+### $63,680.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** -3.2%  
-**30d:** -15.7%  
-**90d:** -10.2%  
+**24h:** +0.6%  
+**7d:** -3.3%  
+**30d:** -15.8%  
+**90d:** -10.3%  
 **1y:** -37.6%  
 
 ---
@@ -77,81 +77,81 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Decentralized Bitcoin bridge ?](https://www.reddit.com/r/Bitcoin/comments/1uat998/decentralized_bitcoin_bridge/)**
+
+Im looking for a decentralized way to bridge BTC to another without relying on a centralized custodian What are you guys using? Any recommendations or experiences sharing would be great- thanks
+
+2h ago
+
+---
+
+**[If Bitcoin hit $12k would you still buy?](https://www.reddit.com/r/Bitcoin/comments/1uahfdh/if_bitcoin_hit_12k_would_you_still_buy/)**
+
+I'm wondering, if we see a liquidation cascade, or a series of Black Swan events, would you still buy Bitcoin at $12k or do you guys think if that happens it's over for Bitcoin and we'll see 6k or 3k again?
+
+13h ago
+
+---
+
+**[I'm waiting for Bitcoin to reach $300,000.](https://www.reddit.com/r/Bitcoin/comments/1uaspdp/im_waiting_for_bitcoin_to_reach_300000/)**
+
+Yes, I firmly believe
+
+2h ago
+
+---
+
+**[The first HODL](https://www.reddit.com/r/Bitcoin/comments/1uapsgu/the_first_hodl/)**
+
+Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named GameKyuubi logs onto BitcoinTalk to vent. He tries to type "I AM HOLDING" but fumbles the keyboard. "I AM HODLING" is born. He admits he’s a terrible trader who can't time the market, so he's just gonna sit on his stack. Fast forward a few hours, the typo goes viral. The absolute degen accidentally birthed the most iconic meme and investment strategy in crypto history. Zero coping, pure lore.
+
+5h ago
+
+---
+
+**[Saw “BTC accepted here” signs in the Caribbean](https://www.reddit.com/r/Bitcoin/comments/1uafo7o/saw_btc_accepted_here_signs_in_the_caribbean/)**
+
+Was in a random town in the Dominican Republic and saw quite a few places accepted BTC as a method of payment. Decided to try the system out and purchased ice cream with BTC
+
+14h ago
+
+---
+
+**[This argument, more than anything has me convinced. It’s not about going to the moon: it’s about freedom.](https://www.reddit.com/r/Bitcoin/comments/1uajk4t/this_argument_more_than_anything_has_me_convinced/)**
+
+“In early 2013, Mahboob’s Italian business partner told her about bitcoin. He said it was a new kind of money that could be sent from phone to phone without a bank account. Unlike the local afghani currency, which was steered by the government, bitcoin floated on the open market. When Mahboob first learned about bitcoin, it was trading at around $13. By the early summer of 2013, it broke $70. “At first, I did not think the girls would trust Bitcoin,” Mahboob said. “It was too hard to understand.” But her business partner encouraged her and said: “Let’s try it — what do we have to lose?” A few of the women did keep their bitcoin from 2013. One of them was Laleh Farzan. Mahboob told me that Farzan worked for her as a network manager, and in her time at Citadel Software earned 2.5 BTC. At today’s exchange rate, Farzan’s earnings would now be worth more than 100 times the average Afghan annual income. In 2016, Farzan received threats from the Taliban and other conservatives in Afghanistan because of her work with computers. When they attacked her house, she decided to escape, leaving with her family and selling their home and assets to pay brokers to take them on the treacherous road to Europe. Like thousands of other Afghan refugees, Farzan and her family traveled by foot, car and train thousands of miles through Iran and Turkey, finally making it to Germany in 2017. Along the way, dishonest middlemen and common thieves stole everything they brought with them, including their jewelry and cash. At one point, their boat crashed, and more belongings sank to the bottom of the Mediterranean. It’s a tragic story familiar to so many refugees. But in this case, something was different. Through it all, Farzan was able to keep her bitcoin, because she hid the seed to her bitcoin wallet on a piece of tiny, innocuous-looking paper. Thieves could not take what they could not find.” Excerpt from “Broken Money” by Lyn Alden. They control your banks. They control your employer. They control your tax rate. Insiders trade your stocks and manipulate your IRAs. With dilution/QE they can tax your savings by devaluing it and you have no control over that. Bitcoin is like the second amendment for money. It’s about control. I see a lot of fear in this sub. If you’re afraid, you don’t understand how money works, or you’re over leveraged.
+
+11h ago
+
+---
+
+**[BTC lightning network](https://www.reddit.com/r/Bitcoin/comments/1uav6ch/btc_lightning_network/)**
+
+JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
+
+37m ago
+
+---
+
 **[Chill Guys! HOLD](https://www.reddit.com/r/Bitcoin/comments/1u9vrhf/chill_guys_hold/)**
 
 1d ago
 
 ---
 
-**[The Man Who Turned Everything into Bitcoin and Disappeared - stacker news](https://www.reddit.com/r/Bitcoin/comments/1u9zxbb/the_man_who_turned_everything_into_bitcoin_and/)**
+**[Daily Discussion, June 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1uaoxnk/daily_discussion_june_20_2026/)**
 
-Daniel Fraga is one of two most sought-after men in Brazil, considered one of the greatest men in our country. With just a camera and a non-YouTube channel, it managed to make many BIG people uncomfortable and exposed, in fact, what happens under two steps of the system. Even though he is considered one of the most dangerous men in Brazil, Daniel Fraga is also considered a hero by many, due to his courage in expressing his ideas and opinions. There was a time when talking about Bitcoin in Brazil was synonymous with one thing: Daniel Fraga. I don't say this as an exaggeration. I say this because it was literally the first. The first Brazilian YouTuber to record a video recommending the cryptocurrency. The first to explain to his audience what it was, why it mattered, why the traditional financial system's days were numbered. And also, over time, he became something more difficult to describe: a symbol, a mystery, a legend that the internet itself built around him until it was no longer possible to separate the man from the story. Dâniel Alves Fraga was born on June 18, 1976, in the Bela Vista neighborhood of São Paulo. He was a Linux systems administrator. The most interesting thing is that this whole story began there in 2010, on the streets of São Paulo, with a super simple 43-second video. https://www.youtube.com/watch?v=3aHPDJvkLbM Daniel decided to film an abandoned lot and post it on YouTube. In the video, he appears very indignant, not at all that in the description he had placed or straightened the premises and a state law that showed the failure of the government with what should be fulfilled, second to the constitution. Of course he didn't stop there. I sell that other people also have the same problem, they started recording more and more videos. It didn't come, it didn't appear, it barely showed the falhas of the state in its city, with abandoned lands, left behind the streets and bumpy roads. At that time, all the videos followed the same objective: to show the failures of the state in its city and to criticize the role of politicians. This was April 2010, when Daniel decided, for the first time, to attack a politician publicly, and the chosen one was the mayor of São Paulo at the time, Gilberto Kassab. https://www.youtube.com/watch?v=WJADyWBRBi0 The title of the video was: “Kassab does not monitor television and more wood is discarded as lixo.” It didn't take long for Daniel to face up and appear in front of the camera for the first time. https://www.youtube.com/watch?v=iCCZlRkvdoE And guess what the critics are? Sim, he criticized Kassab again for the terrible administration in São Paulo. After he showed his face, he knew very well that here was a path without any problems and, even knowing this, he continued, for months, exposing the problems of the State. More than that, in fact, Daniel Fraga stood out among so many on the internet due to his ideology, propagating and teaching anarcho-capitalism to the public. As time went by, their videos, which previously only explained the state's faults, have now become an open revolt against the system. He was the first Brazilian to declare himself an anarcho-capitalist on YouTube, in 2012, attracting thousands of people to that political philosophy that until then was practically invisible in the country. https://www.youtube.com/watch?v=5-K60s27UkU His videos mixed Austrian economics, criticism of the government and a direct, unfiltered way of speaking, which made many people uncomfortable. That was exactly what he liked. https://www.youtube.com/watch?v=znwZ6M0jW-o\&t=116s In December 2012, when Bitcoin was worth approximately $13, he published what is considered the first YouTube video in Brazil recommending the cryptocurrency, titled "Bitcoin is better than the dollar." Thirteen dollars. Today that seems like a joke. At the time, it was a bet that almost no one in the country was willing to take. https://www.youtube.com/watch?v=zpCj748HOSc\&list=PL0AEDAD2F59F13232\&index=16 In the same year, 2012, a congresswoman named Cidinha Campos, from the PDT party, made several offensive remarks against Ricardo Gama, a blogger well-known for his criticism and denunciations of political figures, very similar to Fraga's criticisms. At that time, Ricardo, who had just suffered a near-fatal attack, also ended up facing a censorship process of his videos on YouTube, after responding to the criticisms and exposing a lot of the congresswoman's actions. And, of course, seeing a comrade in arms being bombarded by the State, Daniel Fraga went there and decided to support Ricardo, publishing two videos about the case, with many criticisms and insults against the PDT congresswoman. Congresswoman Cidinha Campos, right away, didn't like it, and immediately counterattacked Daniel. First, she threatened him by exposing his mother's private data on Twitter. Second, she sued Fraga for moral damages. If you think Daniel stopped there after this feud with Cidinha, you are totally mistaken. https://www.youtube.com/watch?v=YP9FRk\_Qxyk\&list=PL0AEDAD2F59F13232\&index=13 Around the same time, he harshly criticized Alexandre Blanco, the PSDB candidate for mayor of São José dos Campos. However, this time, the candidate managed to censor some memes about him on Facebook through a court decision. Fraga then made a video criticizing not only the candidate but also the judge who favored Blanco with the removal of the memes. This story didn't go unpunished. The judge filed a lawsuit against Fraga for slander and defamation, demanding the removal of that video. Fraga reacted by asking his subscribers to download and share the video on their channels to ensure he wouldn't be silenced. The judge, trying to intimidate Fraga, imposed a fine of 40,000 reais per day for non-compliance with the order to remove the video. But by this point, it was too late for the State. Fraga made a video claiming that the judge wouldn't get anything from him because he had already invested all his money in Bitcoin. In this scenario, efforts to remove Fraga's videos from the internet were in vain, and the judge ended up archiving the case. This made him something more than a controversial YouTuber. For many people within the Brazilian crypto ecosystem, Fraga became a living demonstration of what Bitcoin was for and beyond speculation. In 2013, I created the first tutorials on Bitcoin in Brazil, explaining blockchain, decentralization, anonymity and how to buy cryptocurrency, when you first arrived in the country you knew what it was. While others were looking at the price and wondering if it would go up or down, it explained why the system that was being replaced was broken since the foundations. At some point during that time, he wrote, responding to a critic who told him that Bitcoin was a passing fad: "In the future you will bitterly regret writing that. We'll see who laughs last." Bitcoin was worth around $100 at that time. Now, remember Cidinha Campos? Well, she threatened to fine him R$ 50,000 if he didn't remove a video in which he criticized her, at the end of 2014. This time, two Civil Police officers even went to his house to deliver a summons. https://www.youtube.com/watch?v=JQM2mgdgB04 After several lawsuits, he received another one, but from a different judge. What he didn't expect was that, this time, the fine was R$ 1 million, including the intention to arrest Daniel. The sentence classified Fraga as a threat to national security, something he considered absurd and proof of the State's attempt to control freedom of expression on the internet. Of all the lawsuits, this was the most insane, because it was because of this that the government decided to break bank secrecy and raid his account to seize all his money. What they didn't expect was that they would have a big surprise: as soon as they raided his bank account, they saw that he only had R$ 5.26, an amount that Fraga said he had left as charity, and they also found no assets in his name. https://www.youtube.com/watch?v=7A6PeKGUUcM&list=PL0AEDAD2F59F13232&index=2 The story could have ended there, as a curious anecdote about a digital activist who predicted his financial future before almost everyone else. Fraga also made a few more videos. But in 2017, Daniel Fraga simply disappeared. His last public appearance was on March 5, 2017, with a video about a supposed UFO that he even claimed was filmed. https://www.youtube.com/watch?v=7ed8H2\_I6OI After that, total silence. For 2018, the federal justice system blocked the passport, the electoral title and the driver's license. But it wasn't there, the least where no one could find it. Since then, its history has been filled with layers that I have never been able to verify at all. That he was in Switzerland. Who lived in the interior of São Paulo. That there was a millionaire return. That I lost everything when I bet for Bitcoin Cash during the 2017 blockade war. That the story was more beautiful on the internet than in reality, and that at the bottom was the State that won, because Fraga lost his civil rights, his passport, his career as a communicator. No one knows for sure which of those versions is true. They're probably all partly true. What did remain was his legacy. Whether that worked out well or badly is still unclear. But it happened. And the fact that no one else had done it before him is also undeniable. [12 comments]
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-🔗 [Stacker News](https://stacker.news/items/1510988) • 23h ago
-
----
-
-**[Just a friendly reminder to stay off the internet during bear markets](https://www.reddit.com/r/Bitcoin/comments/1u9vxl7/just_a_friendly_reminder_to_stay_off_the_internet/)**
-
-I've been in Crypto for 10 years. Whether you take these points to heart or shrug them off is up to you. Yes, i panic sold before. No, i wouldn't be on Reddit if i was rich from this. But i have experiences and regrets. If one person benefits from reading this, it would make my day. Words will not convince people that the current bear market is 'free money' opportunity. As long as paper hands exist, hard earned cash will be given out for free. It's just a cycle of life. During bear markets, take note that; Headlines are designed to terrorize You This happens every, single, time. Let me repeat that. Every bear market, people will go out of their way to terrorize you in exiting the market. Whether 'This time it's different' news, Mt. Gox collapse, ICO bust, FTX/Luna collapse, AI, Quantum fears, MEME jokes about prices. After all, Bitcoin died around 472 times. STAY OFF THE NEWS Dollar cost average is key Weekly or monthly, buy a small amount without looking at price. ESPECIALLY during bear markets, and where fear & greed index is 'extremely fearful' which is right NOW. BITCOIN is more hated than ever Simply put, it's human nature. Will not go into details, but it's more reason to stay off the internet (at least BTC topics). You have been told. Ignore the comments, don't read the headline, stick to DCA. Have a good day.
-
-1d ago
+6h ago
 
 ---
 
-**[Dear dumb governor, JBPritzker GovPritzker For real, how dumb can you this day and age!!!!!!!!!! You study Bitcoin bro ?!!!](https://www.reddit.com/r/Bitcoin/comments/1u9n5ne/dear_dumb_governor_jbpritzker_govpritzker_for/)**
+**[Don't be like Tom!](https://www.reddit.com/r/Bitcoin/comments/1uavqo5/dont_be_like_tom/)**
 
-https://x.com/GovPritzker https://x.com/JBPritzker
+https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
 
-1d ago
-
----
-
-**[Panic buying](https://www.reddit.com/r/Bitcoin/comments/1u9qp0c/panic_buying/)**
-
-Hi team, I'm getting that irresistible urge to buy. Should I wait and buy? or should i buy now and later? I'm new to panic buying but so far truly enjoying it. I appreciate your input. Sincerely, Your crypto bro
-
-1d ago
-
----
-
-**[Taking out a 25k loan to invest](https://www.reddit.com/r/Bitcoin/comments/1u9muk2/taking_out_a_25k_loan_to_invest/)**
-
-I've been seriously considering doing this, today I called a credit union and they estimated 8.9% apr. I did the math if I buy Bitcoin at around 65k ill need it to go to 85k to break even. I'm planning to hold onto it until 2029 or 2030 and then using the profit as a downpayment on a house- or I might use the Fannie mae loan and put it up as collateral and retain the Bitcoin. I've been looking at tons of estimates on where Bitcoin will be - bitbo, reddit, chat gpt, friends, anything I can find. My general conclusion is that it will be somewhere between 150 and 240k in 2029-2030. What are peoples thoughts on this plan? Where do people think Bitcoin will be at this time? Does anyone predict Bitcoin just flat out dies- if so how? I feel like worst case scenario it hovers around 70k for 4 or 5 years before spiking up in which case id just have to keep holding onto it. I truly believe that with enough time it will just eventually go up though. I currently own a out 0.3 Bitcoin but with this loan I'm looking at 0.75 and over the next few years I'll probably invest EVEN MORE into just to get to a whole coin. Edit: Credit score is 750-780 Annual income is 105-120k Living in a small apartment 750$ a month Car payment 460$ a month Student loans - PSLF program , variable payments because it's idr, between 200 and 400 a month (work pays 400$ of it otherwise it would be 800) No kids
-
-1d ago
-
----
-
-**[Market Behavior](https://www.reddit.com/r/Bitcoin/comments/1u9xqoh/market_behavior/)**
-
-Liquidity is flowing to AI investments (this is the answer to every other post in this sub). Bitcoin goes sideways. Expect this to hold for 2026.
-
-1d ago
-
----
-
-**[On the same day, Oman launched a mandatory national Bitcoin mining pool and El Salvador added more BTC to its reserves. Is something is shifting?](https://www.reddit.com/r/Bitcoin/comments/1u9xp0g/on_the_same_day_oman_launched_a_mandatory/)**
-
-Two sovereign moves worth paying attention to. Oman launched Omanhash on June 17, a state-backed mining pool that every licensed Bitcoin miner in the country is now required to use. This isn't just an energy play. It's regulatory architecture. The government now has direct oversight of the entire national hashrate; roughly 3% of the global Bitcoin network, backed by over $700M in mining infrastructure investment since 2022. El Salvador added more Bitcoin to its national reserves the same day as part of its ongoing one-BTC-a-day accumulation policy. Two different approaches: one building state infrastructure around Bitcoin, one treating it as a reserve asset. Both making deliberate sovereign decisions without the fanfare of an ETF launch or a corporate treasury announcement. Kazakhstan was the first to adopt the sovereign mining pool model. Oman just followed. At what point does this stop being an experiment and start being a pattern?
-
-1d ago
-
----
-
-**[I am enjoying all the way down and now I am out of powder.](https://www.reddit.com/r/Bitcoin/comments/1u9t0my/i_am_enjoying_all_the_way_down_and_now_i_am_out/)**
-
-It is a big challenge not to fall to temptation and to keep my finance strategies, balanced, no loans no leverage, never buy Bitcoin I with money I need in the short/mid term, hodl and never sell.
-
-1d ago
-
----
-
-**[How are you handling inheritance/succession for your Bitcoin if something happens to you?](https://www.reddit.com/r/Bitcoin/comments/1ua0w2m/how_are_you_handling_inheritancesuccession_for/)**
-
-Been thinking about this a lot lately and I'm surprised how little solid discussion there is on it here. Most of us have our seed phrase secured somehow: steel plate, multisig, hardware wallet... But that security works against us the moment we're not around anymore to use it. If something happens to me tomorrow, my wife has no idea how to access any of it, and honestly even if I wrote instructions down, that defeats the whole point of keeping the seed secure in the first place. The "traditional" answers people throw around don't really hold up: Telling a family member the seed = single point of failure, now they're a target, and you have to fully trust one person Lawyer/notary holding instructions = most have zero crypto literacy, and you're back to relying on a centralized party Multisig with a trusted contact = better, but still complex to set up correctly and most people don't bother Curious how people here have actually solved this in practice, not just in theory. Did you set up a multisig specifically for inheritance? Do your heirs know what to do? Did you involve a notary or lawyer, and if so how did that conversation even go since most of them know nothing about crypto? Feels like a real gap between how seriously we take security day-to-day and how little thought goes into what happens after.
-
-22h ago
+8m ago
 
 ---
 
@@ -167,33 +167,23 @@ The Block • 1d ago
 
 ---
 
-**[JPMorgan says bitcoin mining economics have 'worsened' as BTC trades below production cost](https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost)**
-
-JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.
-
-The Block • 1d ago
-
----
-
-**[Live updates: Bitcoin has traded below its mining cost for five months, squeezing miners](https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners)**
-
-About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.
-
-CoinDesk • 13h ago
-
----
-
 **[Franklin Templeton proposes new funds that turn dividends into BTC: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin)**
 
 Your day-ahead look for June 19, 2026
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin rebounds above $63,000 as traders assess regulatory developments](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-63-000-093153718.html)**
+**[Morgan Stanley Buys the Dip — Total Bitcoin Holdings Surpass 4,300 Coins](https://www.binance.com/en/square/post/336143886359810)**
 
-Investing.com -- Bitcoin rose above $63,000 on Saturday, recovering from recent losses as investors evaluated regulatory developments in major markets and signs of continued institutional interest in digital assets.
+Binance • 41m ago
+
+---
+
+**[Why the 2 biggest billionaires in crypto think bitcoin has bottomed](https://finance.yahoo.com/markets/article/why-the-2-biggest-billionaires-in-crypto-think-bitcoin-has-bottomed-120000981.html)**
+
+Hot takes on bitcoin from two of the industry's heavyweights.
 
 Yahoo Finance • 1h ago
 
@@ -202,20 +192,6 @@ Yahoo Finance • 1h ago
 **[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Michael Saylor reveals key reason for Bitcoin's crash](https://sg.finance.yahoo.com/news/michael-saylor-reveals-key-reason-195247744.html)**
-
-Michael Saylor used a high-profile appearance at BTC Prague to address two separate issues at once: criticism over Strategy's (Nasdaq: MSTR) recent Bitcoin sale, and his own theory for why Bitcoin has been lagging this year. Speaking with Natalie Brunell, the Strategy co-founder and executive ...
-
-Yahoo Finance Singapore • 2d ago
-
----
-
-**[Why Strategy, Coinbase Stocks Are Rising When Bitcoin Is Falling](https://www.barrons.com/articles/strategy-coinbase-stocks-bitcoin-xrp-a6c2ad87)**
-
-Barron's • 1d ago
 
 ---
 
@@ -231,7 +207,29 @@ Bitcoin Magazine • 1d ago
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-CNBC • 2d ago
+CNBC • 3d ago
+
+---
+
+**[‘Getting louder’: Winfield residents frustrated by Bitcoin mine’s persistent noise](https://www.wate.com/news/scott-county-news/bitcoin-mine-noise-scott-county/)**
+
+WATE 6 On Your Side • 2d ago
+
+---
+
+**[$13B Bitcoin options expiry looms: Will bulls endure more pain in June?](https://www.tradingview.com/news/cointelegraph:7f1efd2ac094b:0-13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june/)**
+
+Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.
+
+TradingView • 15h ago
+
+---
+
+**[Bitcoin Price Falls Below Key $63,000 Support — Here's Why It May Head Lower](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-falls-below-key-121215163.html)**
+
+Fed policy sparked Bitcoin's breakdown below key support. Some analysts warn the correction may not be over. Long-term bulls remain confident despite near-term weakness. On ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -243,7 +241,7 @@ CNBC • 2d ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-⬆️ 7 • 💬 8 • 23h ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
+⬆️ 7 • 💬 8 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
 
 ---
 
@@ -283,7 +281,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
 
-⬆️ 3 • 💬 1 • 3d ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 3 • 💬 1 • 4d ago • [boltassociation.com](https://boltassociation.com/)
 
 ---
 
@@ -329,7 +327,7 @@ They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 217 • ⏱️ 11:44 • 12h ago
+👁️ 29K • 👍 2K • 💬 217 • ⏱️ 11:44 • 14h ago
 
 ---
 
@@ -349,7 +347,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 24K • 👍 2K • 💬 236 • ⏱️ 14:27 • 18h ago
+👁️ 24K • 👍 2K • 💬 236 • ⏱️ 14:27 • 20h ago
 
 ---
 
@@ -359,7 +357,7 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 194 • ⏱️ 17:05 • 13h ago
+👁️ 18K • 👍 1K • 💬 194 • ⏱️ 17:05 • 15h ago
 
 ---
 
@@ -369,7 +367,7 @@ Bitcoin #Crypto #Finance Bitcoin just flashed one of its most reliable historica
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 733 • 💬 232 • ⏱️ 23:36 • 21h ago
+👁️ 12K • 👍 733 • 💬 232 • ⏱️ 23:36 • 23h ago
 
 ---
 
@@ -379,7 +377,7 @@ Microstrategy and their preffered stock seem to be imploding right before our ey
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 2K • 💬 118 • ⏱️ 9:54 • 21h ago
+👁️ 19K • 👍 2K • 💬 118 • ⏱️ 9:54 • 23h ago
 
 ---
 
@@ -409,7 +407,7 @@ Bitcoin volatility is not the enemy. Your nervous system is. In this video, we b
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 310 • 💬 98 • ⏱️ 16:51 • 13h ago
+👁️ 4K • 👍 310 • 💬 98 • ⏱️ 16:51 • 15h ago
 
 ---
 

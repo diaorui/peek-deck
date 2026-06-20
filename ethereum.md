@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T10:58:15.206618+00:00'
+updated: '2026-06-20T12:54:05.553748+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 10:58 UTC  
+**Last Updated:** June 20, 2026 at 12:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +0.1%  
-**30d:** -16.4%  
-**90d:** -19.7%  
-**1y:** -24.9%  
+**24h:** +1.3%  
+**7d:** -0.1%  
+**30d:** -16.6%  
+**90d:** -19.9%  
+**1y:** -25.0%  
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been spending a lot of time learning the infrastructure side of Web3 (running and managing EVM/Solana nodes, RPCs, etc.) and I'm trying to understand where existing providers fall short for actual power users. For those running trading bots, arbitrage systems, data pipelines, or doing heavy on-chain activity: What's your biggest frustration with your current RPC provider? How important is predictable pricing to you? Do compute-unit/request-based pricing models ever cause issues when usage spikes? Would you consider paying a flat monthly fee for a private, unmetered endpoint if reliability and performance were good? I'm not trying to sell anything at the moment, just trying to understand whether there's a genuine gap in the market and what problems people actually care about. Any feedback is appreciated.
 
-3d ago
+4d ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
 
-unchainedcrypto.com • 23h ago
+unchainedcrypto.com • 1d ago
 
 ---
 
@@ -184,9 +184,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Crisis or Overblown FUD? Tom Lee Rejects Funding Fears](https://finance.yahoo.com/markets/crypto/articles/ethereum-crisis-overblown-fud-tom-075555413.html)**
+**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
 
-Tom Lee sees zero chance of an Ethereum funding crisis as senior Foundation staff exit and a contributor warns of a $30M gap.
+zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
 
 Yahoo Finance • 3h ago
 
@@ -196,7 +196,7 @@ Yahoo Finance • 3h ago
 
 The coin's central issue is becoming harder to ignore.
 
-The Motley Fool • 11h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -218,13 +218,15 @@ Decrypt • 1d ago
 
 **[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
 
-CCN.com • 20h ago
+CCN.com • 22h ago
 
 ---
 
-**[Ethereum’s $1,695 Defense Faces a High-Stakes Moment](https://financefeeds.com/ethereums-1695-defense-faces-a-high-stakes-moment/)**
+**[Investors Trim Exposure to VanEck’s ETHV as Ethereum Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/investors-trim-exposure-to-vanecks-ethv-as-ethereum-slump-deepens)**
 
-FinanceFeeds • 13h ago
+VanEck Ethereum ETF’s ETHV saw fresh pressure on June 18, 2026, as investors pulled $638,860 from the fund, marking a notable single-day outflow. With assets under ...
+
+TipRanks • 25m ago
 
 ---
 
@@ -238,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 322 • 💬 37 • ⏱️ 17:32 • 17h ago
+👁️ 7K • 👍 322 • 💬 37 • ⏱️ 17:32 • 19h ago
 
 ---
 
@@ -248,7 +250,7 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 60K • 👍 4K • 💬 271 • ⏱️ 16:06 • 1d ago
+👁️ 60K • 👍 4K • 💬 271 • ⏱️ 16:06 • 2d ago
 
 ---
 
@@ -258,7 +260,7 @@ El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de sali
 
 📺 Healthy Pockets
 
-👁️ 7K • 👍 517 • 💬 127 • ⏱️ 13:38 • 20h ago
+👁️ 7K • 👍 517 • 💬 127 • ⏱️ 13:38 • 22h ago
 
 ---
 
@@ -298,7 +300,7 @@ D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a lim
 
 📺 XRP Bags
 
-👁️ 3K • 👍 342 • 💬 111 • ⏱️ 11:45 • 8h ago
+👁️ 3K • 👍 342 • 💬 111 • ⏱️ 11:45 • 10h ago
 
 ---
 
@@ -318,7 +320,7 @@ While Bitcoin traded mostly sideways this week, two separate institutional moves
 
 📺 Fast Launch Digital
 
-👁️ 55 • 👍 6 • 💬 2 • ⏱️ 8:56 • 19h ago
+👁️ 55 • 👍 6 • 💬 2 • ⏱️ 8:56 • 21h ago
 
 ---
 
