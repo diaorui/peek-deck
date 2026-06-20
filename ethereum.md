@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-20T17:01:18.667608+00:00'
+updated: '2026-06-20T18:54:24.611223+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 17:01 UTC  
+**Last Updated:** June 20, 2026 at 18:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +0.4%  
-**30d:** -16.1%  
-**90d:** -19.4%  
-**1y:** -24.6%  
+**24h:** +1.6%  
+**7d:** +0.1%  
+**30d:** -16.4%  
+**90d:** -19.7%  
+**1y:** -24.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $208.96B
+**Market Cap:** $216.43B
 Rank #2
 
-**Circulating Supply:** 120,683,936 ETH
+**Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.0%
+-63.7%
 
 **All-Time Low:** $0.43
-+399771.6%
++414030.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ I wrapped some ETH a long time ago and completely forgot about it. I just notice
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 earlier this year, i reconnected with my good friend, Jimmy Johnson, a 5 year Polkadot dev vet, fresh off leading his team's JAM client build. we travelled together to the east coast of Taiwan where we touched the surf and had many a conversations with which i had the privilege of recording. but what i managed to capture was less the technical discourse i was expecting in a conversation with a senior blockchain dev but a cultural one. <jackpot.> jimmy's worked across two huge dev ecosystems: Polkadot and Ethereum. he likes both. but the thing he misses most about Ethereum, is its penchance for client, and hence, thought diversity. no other ecosystem really do it quite the way ethereum does it, no? 9 different teams, all different languages, all different design philosophies, yet all building the same protocol. and the deeper point he made: that kind of diversity only happens when you treat protocol development as a community problem, not a technology problem. polkadot's architecture is technically impressive. jimmy would know. he spent years deep in the relay chain, Gossamer, JAM. but the gap he sees isn't engineering but the culture of how decisions get made, how clients coordinate, how weirdos (my words) are welcomed. he also questioned the "scale at all costs" framing that's been dominant in the crypto meta lately. his take: there's a path where crypto scales, institutions pile in, and we end up with "a little bit better of a tradfi system", but we lose 95% of what made crypto matter in the first place. vs. a path where we sacrifice some growth and keep the counterculture intact for the people who actually need it. he leans toward path two. i couldnt agree more. the video above is the 1 minute cold-open for my 13 minute cut of our interview over 3-4 days. you can watch the full version on my youtube channel at: https://youtu.be/rqsYKd3f8fc ------------ if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-22h ago
+1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 2d ago
 
 The coin's central issue is becoming harder to ignore.
 
-The Motley Fool • 17h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 1d ago
 
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 1d ago
 
 Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -210,7 +210,15 @@ FXStreet • 14h ago
 
 VanEck Ethereum ETF’s ETHV saw fresh pressure on June 18, 2026, as investors pulled $638,860 from the fund, marking a notable single-day outflow. With assets under ...
 
-TipRanks • 4h ago
+TipRanks • 6h ago
+
+---
+
+**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026/)**
+
+With 12 days remaining until July 1, 2026, Finbold has prompted Ethereum price prediction from Grok and ChatGPT.
+
+Finbold • 1d ago
 
 ---
 
@@ -222,17 +230,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
-
-Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
-
-Benzinga • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | Eth Price 2026](https://www.youtube.com/watch?v=DCxZzEvVBig)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 573 • 👍 59 • 💬 4 • ⏱️ 18:36 • 2h ago
+
+---
 
 **[Cathie Wood&#39;s Bold Prediction: Bitcoin &amp; Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=PuPs9I4k-kY)**
 
@@ -240,27 +250,35 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 361 • 💬 38 • ⏱️ 17:32 • 23h ago
+👁️ 9K • 👍 390 • 💬 45 • ⏱️ 17:32 • 1d ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=X8Wpkjh41sU)**
+**[BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E9s96evtBjA)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Join our Telegram for signals & updates: ...
+BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Ashutosh Kumar
+📺 Crypto World
 
-👁️ 7K • 👍 691 • 4h ago
+👁️ 938 • 👍 91 • 💬 93 • ⏱️ 20:39 • 1h ago
 
 ---
 
-**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
+**[ETH HOLDERS MUST WATCH](https://www.youtube.com/watch?v=-QMT5u_x8C4)**
 
-No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
+📺 Discover Crypto
 
-📺 Gareth Soloway
+👁️ 656 • 👍 23 • 💬 14 • ⏱️ 0:24 • 54m ago
 
-👁️ 61K • 👍 4K • 💬 279 • ⏱️ 16:06 • 2d ago
+---
+
+**[LIVE: BlackRock CEO Announces Major Crypto Move! This Speech Will Reshape the Crypto Industry!](https://www.youtube.com/watch?v=eMP3xNxr3BQ)**
+
+SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock CEO Larry Fink reveals the ...
+
+📺 FACE FAMILY
+
+👁️ 3K • 👍 2K • 34m ago
 
 ---
 
@@ -274,6 +292,16 @@ While Bitcoin traded mostly sideways this week, two separate institutional moves
 
 ---
 
+**[Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk](https://www.youtube.com/watch?v=qGcD_25Ju-o)**
+
+Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk Kalshi opens early IPO talks following a ...
+
+📺 The Coin Daily
+
+👁️ 14K • 👍 4 • ⏱️ 6:58 • 1d ago
+
+---
+
 **[The Fed is about to BLOW UP Bitcoin! Crypto Holders Are WRONG!](https://www.youtube.com/watch?v=poxOzmSvxzE)**
 
 The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
@@ -284,23 +312,13 @@ The Fed is about to BLOW UP Bitcoin! DON'T BE FOOLED! ⭐ Follow Altcoin Daily o
 
 ---
 
-**[Bitcoin Bottom Prediction ! Bitcoin Ethereum Formula ](https://www.youtube.com/watch?v=nVsexcgKILc)**
-
-(JOINING LINK IN TELEGRAM CHANNEL) ▻ Telegram Channel Link:➜ https://t.me/ShamsTabraiz Contact Us : For collab ...
-
-📺 Tabraiz Shams
-
-👁️ 386 • 👍 53 • 💬 10 • ⏱️ 4:18 • 4h ago
-
----
-
 **[BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QSLorFkDHTk)**
 
 BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 10K • 👍 404 • 💬 228 • ⏱️ 22:44 • 1d ago
+👁️ 10K • 👍 409 • 💬 194 • ⏱️ 22:44 • 1d ago
 
 ---
 
@@ -310,27 +328,7 @@ D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a lim
 
 📺 XRP Bags
 
-👁️ 4K • 👍 397 • 💬 131 • ⏱️ 11:45 • 14h ago
-
----
-
-**[Fundstrat: Stocks Are at Record Highs. Crypto Isn&#39;t.](https://www.youtube.com/watch?v=hyvx___QrLw)**
-
-Equities keep trading near record highs, but Bitcoin is still down roughly 50% from its October peak. In Fundstrat's monthly Crypto ...
-
-📺 Fundstrat
-
-👁️ 5K • 👍 125 • 💬 2 • ⏱️ 3:15 • 2d ago
-
----
-
-**[Why Smart Money Is Loading On Ethereum &amp; Hyperliquid Over Bitcoin](https://www.youtube.com/watch?v=yJgjqlGpIZ8)**
-
-Capitalize on this bull market by tracking our PRO analysts' portfolios and live trades - just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 8K • 👍 268 • 💬 34 • ⏱️ 38:25 • 2d ago
+👁️ 4K • 👍 427 • 💬 132 • ⏱️ 11:45 • 16h ago
 
 ---
 

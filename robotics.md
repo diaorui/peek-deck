@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T17:01:18.670311+00:00'
+updated: '2026-06-20T18:54:24.614370+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 17:01 UTC  
+**Last Updated:** June 20, 2026 at 18:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,6 +126,22 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
+
+We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
+
+Anthropic • 2d ago
+
+---
+
+**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+
+AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+
+AP News • 18h ago
+
+---
+
 **[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
@@ -138,29 +154,7 @@ olympics.com • 1d ago
 
 French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
 
-TechCrunch • 16h ago
-
----
-
-**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
-
-AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
-
-AP News • 16h ago
-
----
-
-**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
-
-We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
-
-Anthropic • 2d ago
-
----
-
-**[Drones learn to squeeze through narrow gaps using onboard AI control](https://techxplore.com/news/2026-06-drones-narrow-gaps-onboard-ai.html)**
-
-Tech Xplore • 1d ago
+TechCrunch • 18h ago
 
 ---
 
@@ -180,11 +174,19 @@ Ars Technica • 2d ago
 
 ---
 
-**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
+**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
 
-AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
+St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
 
-inc.com • 2d ago
+KCRA • 1d ago
+
+---
+
+**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
+
+Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
+
+The Detroit News • 1d ago
 
 ---
 
@@ -192,33 +194,13 @@ inc.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
-
-Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
-
-📺 Jason Lowe on AI
-
-👁️ 246K • 👍 11K • 💬 2K • ⏱️ 2:51 • 2d ago
-
----
-
 **[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
 
 Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
 
 📺 Carros Show
 
-👁️ 3K • 👍 110 • 💬 10 • ⏱️ 21:44 • 21h ago
-
----
-
-**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
-
-Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
-
-📺 Jason Lowe on AI
-
-👁️ 173K • 👍 9K • 💬 975 • ⏱️ 2:57 • 6d ago
+👁️ 3K • 👍 120 • 💬 12 • ⏱️ 21:44 • 23h ago
 
 ---
 
@@ -228,7 +210,27 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://grou
 
 📺 InsideAI
 
-👁️ 889K • 👍 28K • 💬 3K • ⏱️ 15:10 • 6d ago
+👁️ 906K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
+
+---
+
+**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
+
+Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
+
+📺 Jason Lowe on AI
+
+👁️ 260K • 👍 11K • 💬 2K • ⏱️ 2:51 • 2d ago
+
+---
+
+**[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
+
+Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
+
+📺 Jason Lowe on AI
+
+👁️ 175K • 👍 9K • 💬 996 • ⏱️ 2:57 • 6d ago
 
 ---
 
@@ -238,17 +240,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 20K • 👍 69 • 💬 74 • ⏱️ 0:55 • 2d ago
-
----
-
-**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
-
-xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
-
-📺 The Q
-
-👁️ 245K • 👍 4K • 💬 447 • ⏱️ 6:20 • 3d ago
+👁️ 21K • 👍 72 • 💬 79 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -258,37 +250,47 @@ Companies like 1X and Unitree are spending millions trying to build robot compan
 
 📺 Business Insider
 
-👁️ 133K • 👍 3K • 💬 580 • ⏱️ 17:26 • 6d ago
+👁️ 135K • 👍 3K • 💬 588 • ⏱️ 17:26 • 6d ago
 
 ---
 
-**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
 
-Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
 
-📺 Fox Business Clips
+📺 The Q
 
-👁️ 13K • 👍 129 • 💬 40 • ⏱️ 6:28 • 2d ago
-
----
-
-**[China’s 83 Trillion Crisis Is Exploding | China’s Economy | Robotics | Taiwan Tensions](https://www.youtube.com/watch?v=MZhJp6A_wUw)**
-
-Read the full, in-depth analysis report here: ...
-
-📺 China Update
-
-👁️ 26K • 👍 3K • 💬 249 • ⏱️ 14:28 • 2d ago
+👁️ 246K • 👍 5K • 💬 447 • ⏱️ 6:20 • 3d ago
 
 ---
 
-**[China&#39;s &#39;Begging Robot&#39; Goes Viral | అయ్యా  బాబు అంటూ అడుక్కుంటున్న రోబోలు | ZEE Telugu News](https://www.youtube.com/watch?v=oKOAElLSb7I)**
+**[China&#39;s New $1,000 AI Humanoid Robots Are Taking Over the US Market](https://www.youtube.com/watch?v=s_sqtVb4mB0)**
 
-అయ్యా బాబు అంటూ అడుక్కుంటున్న రోబోలు | China's 'Begging Robot' Goes Viral | ZEE Telugu ...
+China's new generation of AI humanoid robots highlights the country's rapid progress in robotics, automation, and artificial ...
 
-📺 Zee Telugu News
+📺 Carros Show
 
-👁️ 95K • 👍 366 • 💬 4 • ⏱️ 0:39 • 2d ago
+👁️ 5K • 👍 162 • 💬 16 • ⏱️ 21:46 • 4d ago
+
+---
+
+**[Cube transforms into a solar harvesting robot! 🍎🤖 #agritech  #robotics  #cgi #solarfarm](https://www.youtube.com/watch?v=mCUsnKFMTKw)**
+
+Witness the future of smart agriculture!** Watch this metallic cube undergo an incredible mechanical transformation into a ...
+
+📺 🚜🌾 Desi Farm Vibes
+
+👁️ 18K • 👍 88 • ⏱️ 0:21 • 3d ago
+
+---
+
+**[Robot cop FIRED after less than a year #shorts](https://www.youtube.com/watch?v=c_Fqevauls8)**
+
+Dublin, Ohio, is ending its police robot pilot program less than a year after launch. Officials said the program cost more than ...
+
+📺 Fox News
+
+👁️ 25K • 👍 541 • 💬 77 • ⏱️ 0:32 • 22h ago
 
 ---
 
