@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-20T21:47:18.877468+00:00'
+updated: '2026-06-20T23:09:41.600591+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 20, 2026 at 21:47 UTC  
+**Last Updated:** June 20, 2026 at 23:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.1%  
-**7d:** -2.6%  
-**30d:** -15.3%  
-**90d:** -9.7%  
-**1y:** -37.2%  
+**7d:** -2.2%  
+**30d:** -14.9%  
+**90d:** -9.3%  
+**1y:** -37.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im looking for a decentralized way to bridge BTC to another without relying on a centralized custodian What are you guys using? Any recommendations or experiences sharing would be great- thanks
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Im looking for a decentralized way to bridge BTC to another without relying on a
 
 I'm wondering, if we see a liquidation cascade, or a series of Black Swan events, would you still buy Bitcoin at $12k or do you guys think if that happens it's over for Bitcoin and we'll see 6k or 3k again?
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm wondering, if we see a liquidation cascade, or a series of Black Swan events
 
 Yes, I firmly believe
 
-11h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Yes, I firmly believe
 
 Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named GameKyuubi logs onto BitcoinTalk to vent. He tries to type "I AM HOLDING" but fumbles the keyboard. "I AM HODLING" is born. He admits he’s a terrible trader who can't time the market, so he's just gonna sit on his stack. Fast forward a few hours, the typo goes viral. The absolute degen accidentally birthed the most iconic meme and investment strategy in crypto history. Zero coping, pure lore.
 
-14h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named Gam
 
 Was in a random town in the Dominican Republic and saw quite a few places accepted BTC as a method of payment. Decided to try the system out and purchased ice cream with BTC
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 “In early 2013, Mahboob’s Italian business partner told her about bitcoin. He said it was a new kind of money that could be sent from phone to phone without a bank account. Unlike the local afghani currency, which was steered by the government, bitcoin floated on the open market. When Mahboob first learned about bitcoin, it was trading at around $13. By the early summer of 2013, it broke $70. “At first, I did not think the girls would trust Bitcoin,” Mahboob said. “It was too hard to understand.” But her business partner encouraged her and said: “Let’s try it — what do we have to lose?” A few of the women did keep their bitcoin from 2013. One of them was Laleh Farzan. Mahboob told me that Farzan worked for her as a network manager, and in her time at Citadel Software earned 2.5 BTC. At today’s exchange rate, Farzan’s earnings would now be worth more than 100 times the average Afghan annual income. In 2016, Farzan received threats from the Taliban and other conservatives in Afghanistan because of her work with computers. When they attacked her house, she decided to escape, leaving with her family and selling their home and assets to pay brokers to take them on the treacherous road to Europe. Like thousands of other Afghan refugees, Farzan and her family traveled by foot, car and train thousands of miles through Iran and Turkey, finally making it to Germany in 2017. Along the way, dishonest middlemen and common thieves stole everything they brought with them, including their jewelry and cash. At one point, their boat crashed, and more belongings sank to the bottom of the Mediterranean. It’s a tragic story familiar to so many refugees. But in this case, something was different. Through it all, Farzan was able to keep her bitcoin, because she hid the seed to her bitcoin wallet on a piece of tiny, innocuous-looking paper. Thieves could not take what they could not find.” Excerpt from “Broken Money” by Lyn Alden. They control your banks. They control your employer. They control your tax rate. Insiders trade your stocks and manipulate your IRAs. With dilution/QE they can tax your savings by devaluing it and you have no control over that. Bitcoin is like the second amendment for money. It’s about control. I see a lot of fear in this sub. If you’re afraid, you don’t understand how money works, or you’re over leveraged.
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+17h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
 
-9h ago
+10h ago
 
 ---
 
@@ -163,7 +163,7 @@ https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79
 
 CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-CNBC • 6h ago
+CNBC • 8h ago
 
 ---
 
@@ -179,21 +179,13 @@ Yahoo Finance • 2d ago
 
 From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
 
-Bloomberg • 2d ago
-
----
-
-**[Why the 2 biggest billionaires in crypto think bitcoin has bottomed](https://finance.yahoo.com/markets/article/why-the-2-biggest-billionaires-in-crypto-think-bitcoin-has-bottomed-120000981.html)**
-
-Hot takes on bitcoin from two of the industry's heavyweights.
-
-Yahoo Finance • 10h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -201,7 +193,7 @@ Yahoo Finance • 10h ago
 
 Public records show gubernatorial candidate Toby Doeden’s ties to Aberdeen-area real estate, car dealerships, a TIF project and bitcoin mining.
 
-KOTA Territory News • 7h ago
+KOTA Territory News • 9h ago
 
 ---
 
@@ -209,7 +201,7 @@ KOTA Territory News • 7h ago
 
 Somerville residents have gathered hundreds of petition signatures against a proposed bitcoin mining center on Union Road.
 
-WAFF • 21h ago
+WAFF • 23h ago
 
 ---
 
@@ -221,9 +213,9 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin rebounds above $63,000 as traders assess regulatory developments](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-traders-assess-regulatory-developments-4751609)**
+**[Bitcoin rises to near $64k, but Iran uncertainty limits broader recovery](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-traders-assess-regulatory-developments-4751609)**
 
-Investing.com • 12h ago
+Investing.com • 4h ago
 
 ---
 
@@ -231,7 +223,15 @@ Investing.com • 12h ago
 
 The crypto market moves fast. I checked the receipts from two years ago to see what's changed.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
+
+---
+
+**[What Happens When Bitcoin Reaches 21 Million Supply?](https://www.theblock.co/learn/405386/what-happens-when-bitcoin-reaches-21-million-supply)**
+
+The BTC supply is capped at 21 million. Learn about why that limit was set and what will happen when the very last coin is mined.
+
+The Block • 1d ago
 
 ---
 
@@ -329,7 +329,7 @@ They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 238 • ⏱️ 11:44 • 23h ago
+👁️ 40K • 👍 2K • 💬 238 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Fox Business
 
-👁️ 7K • 👍 357 • 💬 185 • ⏱️ 11:24 • 3h ago
+👁️ 7K • 👍 357 • 💬 185 • ⏱️ 11:24 • 5h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin's price journey mirrors every World Cup! From $0.20 in 2010 to $62700 to
 
 📺 Summitgroup
 
-👁️ 707 • 👍 6 • ⏱️ 0:41 • 8h ago
+👁️ 707 • 👍 6 • ⏱️ 0:41 • 10h ago
 
 ---
 

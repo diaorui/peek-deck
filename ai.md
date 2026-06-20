@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-20T21:47:18.868838+00:00'
+updated: '2026-06-20T23:09:41.592691+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 20, 2026 at 21:47 UTC  
+**Last Updated:** June 20, 2026 at 23:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What's the best AI image generator with no restrictions?](https://www.reddit.com/r/artificial/comments/1uazz4r/whats_the_best_ai_image_generator_with_no/)**
-
-Just a simple question.
-
-5h ago
-
----
-
 **[Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”](https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/)**
 
 Accenture plc (NYSE:ACN) was among Jim Cramer’s stock calls on Mad Money, as he highlighted worthy space players and reviewed several of this year’s IPOs. Cramer highlighted the company’s struggles, as he remarked: Finally, before the open Thursday, we have two companies that I think are struggling: Kroger and Accenture… Accenture, the consulting company, has […]
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-agrees-accenture-being-163819966.html) • 15h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-agrees-accenture-being-163819966.html) • 16h ago
 
 ---
 
@@ -57,19 +49,19 @@ Accenture plc (NYSE:ACN) was among Jim Cramer’s stock calls on Mad Money, as h
 
 A few experiments exploring how far generative video + fine-tuned orchestration layers can be pushed in rhythm, camera language, body transformation, and most of all, audiovisual synchronization. Breakdown: I used Uisato Studio’ Seedance 2.0 Video mode, with the "Intelligent" setup and the "Audioreactive Performance" prompt recipe. Inputs were: - the artist image [full-body recomended - I ended up using a mix of Midjourney + GPT Image + Image Studio] - a target audio excerpt not exceeding 14.9 seconds - a short director’s intent describing the look, tone, and what I wanted beyond the audioreactive performance From there, the system generated the prompts, direction, and optimal setup. I reviewed it, made small adjustments, generated the clips, and then assembled the final piece in editing. What other experiments would you like to see next? More experiments through Instagram, or YouTube.
 
-5h ago
+6h ago
 
 ---
 
 **[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 5h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 6h ago
 
 ---
 
 **[Anthropic built its name on AI safety. Can those commitments survive a trillion-dollar IPO?](https://www.reddit.com/r/artificial/comments/1uayfk8/anthropic_built_its_name_on_ai_safety_can_those/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/itbb/p/the-trillion-dollar-pause?r=6u75wz&utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 6h ago
+🔗 [open.substack.com](https://open.substack.com/pub/itbb/p/the-trillion-dollar-pause?r=6u75wz&utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 8h ago
 
 ---
 
@@ -77,7 +69,7 @@ A few experiments exploring how far generative video + fine-tuned orchestration 
 
 Quick background for people who don't track the chinese labs closely. zhipu is one of the bigger ones, glm is their main model line, and glm 5.2 dropped on June 13. The mit weights already on huggingface on June 17, and GLM 5.2 API went live on June 17. I'm not posting about the model itself, i'm posting because the launch is a clean example of something worth learning to read. There are two different sources of numbers going around and they are not the same thing. one set is from the official model card, the other from the launch blog framing. people quote them interchangeably, and that blend is where the "beats everything" reading comes from. From the model card, the stuff i'd actually plan around: terminal bench 2.1 at 81.0, and on swe-bench pro it sits at 62.1, which is second behind opus 4.8 rather than first. context window of 1m tokens, open weights under mit. those are defensible and you can check them against the hf page. From the launch material, the softer stuff: the headline leads with aime 2026 at 99.2, which puts glm 5.2 ahead of gpt 5.5 at 98.3 and well ahead of opus 4.8 at 95.7. that comparison is true on the single aime benchmark and silent on the ones where it loses. for example on gpqa-diamond glm 5.2 is 91.2, behind gemini 3.1 pro at 94.3 and tied with opus 4.8 at 93.6. on hmtt feb 2026 it is 92.5, third behind qwen3.7-max at 97.1 and both opus 4.8 and gpt 5.5 at 96.7. That's not lying, it's selection, and every lab does it now, openai and anthropic included. the thing that makes this one worth noting is that the weights are already live under mit, which makes the card data independently verifiable in a way that openai never is. The other launch claim worth separating from the numbers is the demo story. the blog mentions a single 1m context session completing a full project workflow, which sounds impressive and probably is, but it is also a cherry-picked demo. i've seen enough 1m-context demos fail on real messy codebases to know that "it can" and "it reliably will" are different claims. The thing i keep coming back to is that a permissive license plus api available today changes the playbook. you get the benchmark headline, the immediate goodwill of open weights, and a real ability for third parties to run independent evals instead of waiting for the lab to release them. whether the average community quant runs at the same quality as the api is the one thing nobody scores them on a month later.
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +85,7 @@ A sworn declaration from the Pentagon's chief digital and AI officer confirms a 
 
 I was looking at China's 2025 workforce data and one thing surprised me. The country's largest occupational group isn't professionals or factory workers. It's craft and related trades workers at 93.6 million people. Despite their size, they score only 2.5/10 on AI exposure. Meanwhile, clerical support workers score 8.5/10 and cover 33.6 million workers. Professionals score 6.5/10 and account for 81.8 million people. Another interesting finding is the split between AI and robotics. Plant and machine operators score 3.0/10 on AI exposure but 7.5/10 on robotics risk. China's weighted average AI exposure is 4.48/10. What stood out most to me is that scale changes everything. China's clerical workforce alone is larger than the entire workforce of many countries. The employment data comes from ILO ILOSTAT. AI exposure scores are modelled estimates based on occupation tasks and are not official government statistics. Curious how others think AI adoption and robotics deployment interact in manufacturing-heavy economies. Full analysis and interactive tool in comments.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +93,7 @@ I was looking at China's 2025 workforce data and one thing surprised me. The cou
 
 For instance, let’s say I have 4 friends (all of whom agreed to be used as models) and I plug in their faces, and I give a complex prompt with specificity. Which one can handle the prompt while not confusing the faces? thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +101,15 @@ For instance, let’s say I have 4 friends (all of whom agreed to be used as mod
 
 I was wondering what platforms or strategies everyone is using to gather genuine beta tester feedback. I am happy to offer AI credits to anyone willing to test it out and provide feedback, treating this incentive as part of my marketing spend. Any thoughts on where I should post or how best to get started? The product is GetOutr. Right now, outbound sales tends to be either painfully slow when done manually, or highly ineffective when blasting generic templates. I built Outr to fix that. The tool analyzes your website, identifies relevant target companies, pulls real-time contextual signals (like job postings or blogs), and writes deeply personalized emails for each prospect. You retain full control. You simply review and approve the drafts, as nothing sends automatically. The ultimate goal is to let you spend just 10 minutes sending a handful of outreach.
 
-4h ago
+5h ago
+
+---
+
+**[A stateful deterministic substrate engine in native C.](https://www.reddit.com/r/artificial/comments/1uazoa8/a_stateful_deterministic_substrate_engine_in/)**
+
+https://www.youtube.com/watch?v=X90A9ZFtg6g I built a native C substrate engine that runs locally and persists/restores state deterministically. This short demo shows: - clearing the live state - mounting a small knowledge pack - exporting state to disk - restarting the process - restoring the same state with a matching digest In the demo, the restored state is 106 nodes / 72 relations. The current demo path does not require cloud services or GPU inference. It also supports abstention instead of forcing an answer on missing evidence. I’d value technical feedback on the deterministic snapshot model and abstention behavior.
+
+7h ago
 
 ---
 
@@ -121,29 +121,21 @@ I was wondering what platforms or strategies everyone is using to gather genuine
 
 A speculative thought-experiment warns the continent could pay a heavy price for lagging behind the US
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
 **[New global order: AI CEOs as heads of nation-states at G7](https://www.axios.com/2026/06/20/ai-tech-moguls-g7)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
-**[Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)**
+**[Is Your Degree AI-Proof? 4 Career Moves To Make Amid Meta and Microsoft Layoffs](https://www.aol.com/finance/degree-ai-proof-4-career-163004533.html)**
 
-"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
+While no degree comes with a guarantee, experts say there are career moves that can help young workers stay competitive as AI reshapes the job market.
 
-TechCrunch • 1h ago
-
----
-
-**[This Company Could Become the Nvidia of AI Inference](https://finance.yahoo.com/technology/ai/articles/company-could-become-nvidia-ai-212000227.html)**
-
-ON Semiconductor's fast-growing revenue related to data centers is likely to become a key growth driver for many years to come.
-
-Yahoo Finance • 27m ago
+AOL.com • 1h ago
 
 ---
 
@@ -157,7 +149,7 @@ The Cloudflare Blog • 1d ago
 
 **[The Giant Test Kitchen Where Cooks Battle A.I. Slop](https://www.nytimes.com/2026/06/20/business/media/people-inc-ai-test-kitchen.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
@@ -165,13 +157,29 @@ The New York Times • 12h ago
 
 Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[Opinion | Two Virginia Counties Diverge on AI Data Centers](https://www.wsj.com/opinion/two-virginia-counties-diverge-on-ai-data-centers-8835c1de)**
+**[Google Is Using Nvidia’s Playbook to Build a Rival AI Chip Business](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9)**
 
 WSJ • 1d ago
+
+---
+
+**[Did Anthropic talk its way into an AI export ban?](https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb?syn-25a6b1a6=1)**
+
+FT analysis shows company warned about dangers of advanced AI far more than rival OpenAI this year
+
+Financial Times • 12h ago
+
+---
+
+**[How AI created an HOA controversy in Ahwatukee](https://www.azfamily.com/2026/06/20/how-ai-created-an-hoa-controversy-ahwatukee/)**
+
+An Ahwatukee HOA blamed AI after new parking rules sparked outrage and forced the board to rescind the policy.
+
+AZ Family • 18h ago
 
 ---
 
@@ -181,21 +189,13 @@ Reuters • 1d ago
 
 ---
 
-**[How AI created an HOA controversy in Ahwatukee](https://www.azfamily.com/2026/06/20/how-ai-created-an-hoa-controversy-ahwatukee/)**
-
-An Ahwatukee HOA blamed AI after new parking rules sparked outrage and forced the board to rescind the policy.
-
-AZ Family • 16h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 776 • 💬 561 • 1d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 777 • 💬 561 • 1d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -203,7 +203,7 @@ AZ Family • 16h ago
 
 How earbuds influence our beliefs and push us apart.
 
-⬆️ 440 • 💬 757 • 1d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 440 • 💬 757 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
 ---
 
@@ -211,7 +211,7 @@ How earbuds influence our beliefs and push us apart.
 
 AI Engineer Claims to Have Cracked Linear A
 
-⬆️ 434 • 💬 172 • 1d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
+⬆️ 435 • 💬 172 • 1d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
 
 ---
 
@@ -219,13 +219,13 @@ AI Engineer Claims to Have Cracked Linear A
 
 The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.
 
-⬆️ 294 • 💬 139 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+⬆️ 294 • 💬 140 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 
 ---
 
 **[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
 
-⬆️ 237 • 💬 312 • 1d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
+⬆️ 237 • 💬 313 • 1d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -233,7 +233,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 129 • 💬 80 • 10h ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 144 • 💬 87 • 11h ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -241,7 +241,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 I think I've spoken at length in other places about how I am a very staunch AI hater and everything I hate about how the tech is presented t...
 
-⬆️ 123 • 💬 186 • 2d ago • [xodium.net](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
+⬆️ 123 • 💬 187 • 2d ago • [xodium.net](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
 
 ---
 
@@ -249,7 +249,7 @@ I think I've spoken at length in other places about how I am a very staunch AI h
 
 Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
 
-⬆️ 118 • 💬 104 • 1d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+⬆️ 119 • 💬 104 • 1d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
 
 ---
 
@@ -279,7 +279,7 @@ Create Your Own AI Vlogs with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa
 
 📺 Isa does AI
 
-👁️ 10K • 💬 1 • ⏱️ 8:09 • 7h ago
+👁️ 10K • 💬 1 • ⏱️ 8:09 • 8h ago
 
 ---
 
@@ -339,7 +339,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 5K • 👍 275 • 💬 94 • ⏱️ 22:54 • 5h ago
+👁️ 5K • 👍 275 • 💬 94 • ⏱️ 22:54 • 7h ago
 
 ---
 
@@ -349,7 +349,7 @@ Research shows AI is measurably reducing how hard our brains work - an MIT study
 
 📺 House of El - AI
 
-👁️ 53K • 👍 6K • 💬 2K • ⏱️ 21:47 • 7h ago
+👁️ 53K • 👍 6K • 💬 2K • ⏱️ 21:47 • 8h ago
 
 ---
 
@@ -369,7 +369,7 @@ Streamline your entire business with Odoo! The all-in-one, easy-to-use ERP platf
 
 📺 Patrick Boyle
 
-👁️ 352K • 👍 17K • 💬 2K • ⏱️ 30:09 • 10h ago
+👁️ 352K • 👍 17K • 💬 2K • ⏱️ 30:09 • 11h ago
 
 ---
 
@@ -638,7 +638,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 75.0k • 🔱 9.7k • 22h ago
+⭐ 75.0k • 🔱 9.7k • 1d ago
 
 ---
 
@@ -668,7 +668,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.2k • 🔱 470 • 6h ago
+⭐ 4.2k • 🔱 470 • 7h ago
 
 ---
 
@@ -718,7 +718,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.6k • 🔱 92 • 11h ago
+⭐ 1.6k • 🔱 92 • 13h ago
 
 ---
 
