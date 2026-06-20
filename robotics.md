@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-19T22:58:45.803525+00:00'
+updated: '2026-06-20T00:16:46.466229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 19, 2026 at 22:58 UTC  
+**Last Updated:** June 20, 2026 at 00:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,7 +114,7 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
 
-Business Insider • 7h ago
+Business Insider • 9h ago
 
 ---
 
@@ -122,7 +122,7 @@ Business Insider • 7h ago
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -158,11 +158,11 @@ Ars Technica • 2d ago
 
 ---
 
-**[Automakers and workers face existential fight over robots, future](https://www.detroitnews.com/story/business/autos/2026/06/19/automakers-and-workers-face-existential-fight-over-robots-future/90610241007/)**
+**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
 
-Automakers and workers are teed up for what each side views as a fight for existence — with cobots in the middle and already operating in Detroit.
+AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
 
-The Detroit News • 18h ago
+AP News • 12m ago
 
 ---
 
@@ -170,7 +170,15 @@ The Detroit News • 18h ago
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-olympics.com • 9h ago
+olympics.com • 11h ago
+
+---
+
+**[Certified robot safety tech lets humans work beside machines](https://interestingengineering.com/ai-robotics/sensory-robotics-fenceless-industrial-robot-safety-system)**
+
+New safety system uses 3D vision to let industrial robots work alongside humans without protective cages.
+
+Interesting Engineering • 46m ago
 
 ---
 
@@ -178,15 +186,7 @@ olympics.com • 9h ago
 
 A high school robotics team's hard work has paid off —and now they're heading to the world championship in Canada. Ryan Nelson is live in Sacramento for the big send-off!
 
-CBS News • 6h ago
-
----
-
-**[Robotic exoskeleton could redefine how stroke survivors relearn to walk](https://news.northwestern.edu/stories/2026/06/new-exoskeleton-therapy-could-redefine-how-stroke-survivors-relearn-to-walk)**
-
-First-of-its-kind intervention improved range of motion and muscle activation
-
-Northwestern Now News • 2d ago
+CBS News • 7h ago
 
 ---
 
@@ -194,73 +194,23 @@ Northwestern Now News • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Meet Codey, a child-like robot ready for human connection](https://www.youtube.com/watch?v=CnzX7DkvYb0)**
-
-USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost just under $10000, about its functions and ...
-
-📺 USA TODAY
-
-👁️ 16K • 👍 61 • 💬 56 • ⏱️ 0:55 • 2d ago
-
----
-
 **[One Company Deployed 1 Million Warehouse Robots — Now Everyone Else Can Buy Them](https://www.youtube.com/watch?v=oxh3TcZXf00)**
 
 Sources CNBC | Amazon unveils latest warehouse robot as tech giants continue AI layoffs ...
 
 📺 Jason Lowe on AI
 
-👁️ 167K • 👍 9K • 💬 930 • ⏱️ 2:57 • 6d ago
+👁️ 168K • 👍 9K • 💬 940 • ⏱️ 2:57 • 6d ago
 
 ---
 
-**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
+**[Meet Codey, a child-like robot ready for human connection](https://www.youtube.com/watch?v=CnzX7DkvYb0)**
 
-The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
+USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost just under $10000, about its functions and ...
 
-📺 Perigee Tech
+📺 USA TODAY
 
-👁️ 92K • 👍 415 • 💬 10 • ⏱️ 0:05 • 20h ago
-
----
-
-**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
-
-xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
-
-📺 The Q
-
-👁️ 199K • 👍 4K • 💬 434 • ⏱️ 6:20 • 2d ago
-
----
-
-**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
-
-Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
-
-📺 Fox Business Clips
-
-👁️ 12K • 👍 126 • 💬 41 • ⏱️ 6:28 • 2d ago
-
----
-
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 845K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
-
----
-
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
-
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 344 • 💬 60 • ⏱️ 13:40 • 1d ago
+👁️ 16K • 👍 60 • 💬 58 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -270,7 +220,57 @@ Read the full, in-depth analysis report here: ...
 
 📺 China Update
 
-👁️ 24K • 👍 3K • 💬 234 • ⏱️ 14:28 • 1d ago
+👁️ 25K • 👍 3K • 💬 236 • ⏱️ 14:28 • 1d ago
+
+---
+
+**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
+
+The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
+
+📺 Perigee Tech
+
+👁️ 96K • 👍 416 • 💬 10 • ⏱️ 0:05 • 21h ago
+
+---
+
+**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
+
+xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
+
+📺 The Q
+
+👁️ 201K • 👍 4K • 💬 437 • ⏱️ 6:20 • 2d ago
+
+---
+
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI Robot. Could AI become dangerous? Can we trust AI. AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 855K • 👍 27K • 💬 3K • ⏱️ 15:10 • 5d ago
+
+---
+
+**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
+
+War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 8K • 👍 348 • 💬 60 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[INNOVATION: CEO highlights expanding robotics applications](https://www.youtube.com/watch?v=QOmB7crTFPo)**
+
+Robostore CEO Teddy Haggerty and Unitree G1 humanoid robot, Koid, join 'Varney & Co.' to discuss its capabilities, cost and ...
+
+📺 Fox Business Clips
+
+👁️ 13K • 👍 126 • 💬 42 • ⏱️ 6:28 • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured 
 
 📺 The Daily Guardian
 
-👁️ 28K • 👍 435 • 💬 15 • ⏱️ 0:57 • 1d ago
+👁️ 28K • 👍 437 • 💬 15 • ⏱️ 0:57 • 1d ago
 
 ---
 

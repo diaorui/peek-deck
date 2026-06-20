@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-19T22:58:45.800352+00:00'
+updated: '2026-06-20T00:16:46.464002+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 19, 2026 at 22:58 UTC  
+**Last Updated:** June 20, 2026 at 00:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +1.7%  
-**30d:** -19.9%  
-**90d:** -16.8%  
-**1y:** -29.0%  
+**24h:** -0.2%  
+**7d:** -1.0%  
+**30d:** -17.3%  
+**90d:** -20.6%  
+**1y:** -25.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $215.20B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.9%
 
 **All-Time Low:** $0.43
-+414030.9%
++411779.1%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
 
-The Block • 12h ago
+The Block • 14h ago
 
 ---
 
@@ -172,15 +172,7 @@ CoinDesk • 1d ago
 
 Ethereum (CRYPTO: $ETH) is back near a key technical level after Arthur Hayes appeared to cut a recent ETH pos...
 
-Yahoo Finance • 24m ago
-
----
-
-**[Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit Roadmap](https://www.tradingview.com/news/newsbtc:d08da64d0094b:0-ethereum-glamsterdam-upgrade-moves-toward-200m-gas-limit-roadmap/)**
-
-Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
-
-TradingView • 21h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +180,15 @@ TradingView • 21h ago
 
 The coin's central issue is becoming harder to ignore.
 
-The Motley Fool • 17m ago
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit Roadmap](https://www.tradingview.com/news/newsbtc:d08da64d0094b:0-ethereum-glamsterdam-upgrade-moves-toward-200m-gas-limit-roadmap/)**
+
+Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
+
+TradingView • 22h ago
 
 ---
 
@@ -196,15 +196,23 @@ The Motley Fool • 17m ago
 
 MONACO, June  18, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project confirmed its Azbit CEX partnership and anno...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
-**[Ethereum Price Forecast: Tokenization and network activity skyrocket in Q1 despite DeFi contraction](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-tokenization-and-network-activity-skyrocket-in-q1-despite-defi-contraction-202606182308)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC weakens, ETH turns lower, XRP faces channel rejection](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-weakens-eth-turns-lower-xrp-faces-channel-rejection-202606190333)**
 
-Following months of crashing prices and macro-driven fragility, Ethereum saw mixed performance across key metrics in the first quarter of 2026, according to Token Terminal.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading under pressure on Friday as risk-off continues to weigh on the broader cryptocurrency market. BTC has fallen more than 4% so far this week, and ETH is extending losses, trading around $1,700.
 
-FXStreet • 23h ago
+FXStreet • 20h ago
+
+---
+
+**[Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees](https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/)**
+
+Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
+
+Crypto Briefing • 9h ago
 
 ---
 
@@ -216,17 +224,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Morgan Stanley files amended applications for spot Ethereum and Solana ETFs with rock-bottom fees](https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-filings/)**
-
-Morgan Stanley filed amended S-1 applications for spot Ethereum and Solana ETFs with a 0.14% sponsor fee, the lowest in both categories, plus built-in
-
-Crypto Briefing • 8h ago
-
----
-
 **[Ethereum Price Risks Drop Below $1,500 as Critical $1,700 Support Comes Under Pressure](https://www.ccn.com/analysis/crypto/ethereum-price-risks-drop-below-key-support-breakdown/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 153 • 💬 17 • ⏱️ 17:32 • 5h ago
+👁️ 3K • 👍 207 • 💬 17 • ⏱️ 17:32 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 438 • 👍 14 • 💬 13 • ⏱️ 4:21 • 13h ago
+👁️ 450 • 👍 14 • 💬 13 • ⏱️ 4:21 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ El plan de más de 1.000 millones de dólares para salvar Ethereum acaba de sali
 
 📺 Healthy Pockets
 
-👁️ 4K • 👍 375 • 💬 39 • ⏱️ 13:38 • 8h ago
+👁️ 5K • 👍 420 • 💬 120 • ⏱️ 13:38 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ Capitalize on this bull market by tracking our PRO analysts' portfolios and live
 
 📺 Milk Road
 
-👁️ 7K • 👍 257 • 💬 33 • ⏱️ 38:25 • 2d ago
+👁️ 8K • 👍 258 • 💬 33 • ⏱️ 38:25 • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to
 
 📺 Gareth Soloway
 
-👁️ 57K • 👍 4K • 💬 267 • ⏱️ 16:06 • 1d ago
+👁️ 58K • 👍 4K • 💬 267 • ⏱️ 16:06 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum is battling a $1815-$2226 resistance while wave patterns hint at the ne
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 237 • 💬 15 • ⏱️ 6:57 • 2d ago
+👁️ 6K • 👍 237 • 💬 15 • ⏱️ 6:57 • 2d ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: New Price Target!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 368 • 💬 69 • ⏱️ 22:44 • 15h ago
+👁️ 8K • 👍 382 • 💬 259 • ⏱️ 22:44 • 16h ago
 
 ---
 
@@ -320,15 +320,15 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 6K • 👍 165 • 💬 51 • ⏱️ 43:15 • 1d ago
+👁️ 6K • 👍 166 • 💬 51 • ⏱️ 43:15 • 1d ago
 
 ---
 
-**[+251964615165#amhara#eritrian #tigray#wedding#ethiopia #ethereum #gonder @YouTubeViewers](https://www.youtube.com/watch?v=1hd-fMmJ8VU)**
+**[These coins suck #ethereum #bitcoin #cardano #crypto #cryptoinvesting](https://www.youtube.com/watch?v=iLaM6OjcftI)**
 
-📺 ማሜ የባህል ልብስ
+📺 klay browning
 
-👁️ 1K • 👍 28 • ⏱️ 0:19 • 6h ago
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:06 • 1d ago
 
 ---
 
