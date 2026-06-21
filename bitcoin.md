@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T13:06:35.520941+00:00'
+updated: '2026-06-21T15:25:56.077592+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 13:06 UTC  
+**Last Updated:** June 21, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,117.40
+### $64,094.77
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.3%  
-**7d:** -3.3%  
-**30d:** -16.5%  
-**90d:** -9.2%  
+**7d:** -3.2%  
+**30d:** -16.4%  
+**90d:** -9.1%  
 **1y:** -36.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1284.35B
+**Market Cap:** $1285.48B
 Rank #1
 
-**Circulating Supply:** 20,045,921 BTC
+**Circulating Supply:** 20,045,937 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.1%
 
 **All-Time Low:** $67.81
-+94377.2%
++94473.1%
 
 ---
 
@@ -163,7 +163,7 @@ https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79
 
 CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
@@ -171,47 +171,37 @@ CNBC • 22h ago
 
 Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin ETF Outflows Hit Record $6.35 Billion: Has Selling Peaked?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-hit-record-114002324.html)**
+**[Bitcoin rises to near $64k, but Iran uncertainty limits broader recovery](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-63-000-093153718.html)**
 
-US spot Bitcoin ETF outflows hit a record $6.35 billion over 30 days, though weekly redemptions have since cooled 87%.
+Investing.com -- Bitcoin rose above $63,000 on Saturday, recovering from recent losses as investors evaluated regulatory developments in major markets and signs of continued institutional interest in digital assets.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Franklin Resources (BEN) Files Bitcoin Dividend ETFs As AUM Reaches $1.78 Trillion](https://finance.yahoo.com/markets/crypto/articles/franklin-resources-ben-files-bitcoin-120709852.html)**
-
-Franklin Resources (NYSE:BEN) has filed with the SEC for U.S. equity ETFs that reinvest portfolio dividends into Bitcoin, described as a first of its kind structure. The company has introduced the Franklin BSP CLO ETF, adding a new product focused on collateralized loan obligations. Franklin Resources reports record assets under management of $1.78 trillion. Franklin Resources, the asset manager behind Franklin Templeton, is pushing further into both digital assets and credit products with...
-
-Yahoo Finance • 59m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[SpaceX Is Now Worth $2.4 Trillion, Making It Twice as Valuable as Bitcoin. But Here's Why I'm Still Buying Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/spacex-now-worth-2-4-112900646.html)**
+**[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
 
-SpaceX just went public at a sky-high valuation. Here's why I'm buying Bitcoin this month instead.
-
-Yahoo Finance • 1h ago
+Investing.com • 6h ago
 
 ---
 
-**[Somerville residents gather hundreds of signatures against bitcoin mining center](https://www.waff.com/2026/06/19/somerville-residents-gather-hundreds-signatures-against-bitcoin-mining-center/)**
+**[Michael Saylor Teases Next Bitcoin Buy After Urging Community Unity](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-next-bitcoin-143421585.html)**
 
-Somerville residents have gathered hundreds of petition signatures against a proposed bitcoin mining center on Union Road.
+Michael Saylor teased Strategy's next Bitcoin buy with a tracker post, days after the firm sold Bitcoin to fund dividends.
 
-WAFF • 1d ago
+Yahoo Finance • 51m ago
 
 ---
 
-**[Real estate, car dealerships, bitcoin and a TIF: A look into Toby Doeden’s empire](https://www.kotatv.com/2026/06/20/real-estate-car-dealerships-bitcoin-tif-look-into-toby-doedens-empire/)**
+**[The Trump Administration Wants the Clarity Act Passed By the End of Summer. 3 Cryptocurrencies to Buy Now.](https://www.fool.com/investing/2026/06/21/the-trump-administration-wants-the-clarity-act-pas/)**
 
-Public records show gubernatorial candidate Toby Doeden’s ties to Aberdeen-area real estate, car dealerships, a TIF project and bitcoin mining.
+Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
 
-KOTA Territory News • 23h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -223,11 +213,19 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-back-toward-60-174630587.html)**
+**[Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant](https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price)**
 
-(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealMukesh Ambani’s Promise to Investors on Jio IPO Will
+Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.
 
-Yahoo Finance • 2d ago
+Decrypt • 1d ago
+
+---
+
+**[Michael Saylor Touts $48 Billion Bitcoin Turnaround, But Can MicroStrategy’s STRC Survive 2026?](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-touts-48-billion-160303599.html)**
+
+Saylor says Strategy reserves top debt by $48 billion, but STRC trades below par as traders debate the funding model.
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -271,7 +269,7 @@ Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 3d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -303,7 +301,7 @@ Quantum computing poses a real, broad-based, but bounded and substantially mitig
 
 A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 4d ago • [GitHub](https://github.com/epochbtc/satd)
+⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/epochbtc/satd)
 
 ---
 
@@ -333,7 +331,27 @@ Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are ca
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 2K • 💬 133 • ⏱️ 23:31 • 13h ago
+👁️ 14K • 👍 2K • 💬 185 • ⏱️ 23:31 • 16h ago
+
+---
+
+**[$500B Bitcoin Rotation - The Bottom Is In](https://www.youtube.com/watch?v=tnokPcnCAE4)**
+
+Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is emerging. Strategy CEO Phong Le believes the ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 200 • 💬 147 • ⏱️ 19:02 • 17h ago
+
+---
+
+**[Worst Crypto News Ever - Deep State Trying To Destroy Bitcoin Rally](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
+
+Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 34K • 👍 2K • 💬 175 • ⏱️ 13:13 • 18h ago
 
 ---
 
@@ -343,7 +361,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 40K • 👍 2K • 💬 375 • ⏱️ 14:27 • 1d ago
+👁️ 41K • 👍 2K • 💬 403 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -354,16 +372,6 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 📺 Simply Bitcoin
 
 👁️ 25K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
-
----
-
-**[Worst Crypto News Ever - Deep State Trying To Destroy Bitcoin Rally](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
-
-Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 147 • ⏱️ 13:13 • 15h ago
 
 ---
 
@@ -383,7 +391,7 @@ A hawkish Federal Reserve, signaled by a rate hike instead of a cut, spells trou
 
 📺 Dana Love, PhD
 
-👁️ 160 • 👍 10 • 💬 2 • ⏱️ 0:46 • 55m ago
+👁️ 623 • 👍 24 • 💬 3 • ⏱️ 0:46 • 3h ago
 
 ---
 
@@ -393,17 +401,7 @@ Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 140 • ⏱️ 1:28 • 14h ago
-
----
-
-**[WARNING: They’re Going To Drop Bitcoin To Max Pain Price! [Buy At $#*,472]](https://www.youtube.com/watch?v=N8cOFmZ_vmE)**
-
-In today's video, Kyledoops discusses the max pain price with viewers and outlines at what price point you can expect support to ...
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 1K • 💬 24 • ⏱️ 21:49 • 2d ago
+👁️ 26K • 👍 1K • 💬 180 • ⏱️ 1:28 • 16h ago
 
 ---
 
@@ -413,17 +411,17 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 14K • 👍 771 • 💬 33 • ⏱️ 11:41 • 1d ago
+👁️ 15K • 👍 773 • 💬 33 • ⏱️ 11:41 • 1d ago
 
 ---
 
-**[Bitcoin Social Risk](https://www.youtube.com/watch?v=gAf6tPzkcgg)**
+**[WARNING: They’re Going To Drop Bitcoin To Max Pain Price! [Buy At $#*,472]](https://www.youtube.com/watch?v=N8cOFmZ_vmE)**
 
-Let's discuss the Bitcoin social risk! Into The Cryptoverse Premium SALE (ENDS SOON!): https://intothecryptoverse.com Sign up to ...
+In today's video, Kyledoops discusses the max pain price with viewers and outlines at what price point you can expect support to ...
 
-📺 Benjamin Cowen
+📺 Crypto Banter
 
-👁️ 71K • 👍 4K • 💬 261 • ⏱️ 17:36 • 2d ago
+👁️ 18K • 👍 1K • 💬 24 • ⏱️ 21:49 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T13:06:35.526919+00:00'
+updated: '2026-06-21T15:25:56.082879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 13:06 UTC  
+**Last Updated:** June 21, 2026 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -3.9%  
-**30d:** -18.6%  
-**90d:** -19.9%  
-**1y:** -22.4%  
+**24h:** -0.2%  
+**7d:** -3.7%  
+**30d:** -18.4%  
+**90d:** -19.8%  
+**1y:** -22.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $216.43B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-63.7%
 
 **All-Time Low:** $0.43
-+411779.1%
++414030.9%
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds separate builder deposit & exit contracts
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-28/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-28/) • 2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds se
 
 https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d034da533dbefeec0c1e172e5cc7fddd6d433 My latest article on Ethereum institutions (past, present, and future) and their political economy: Subtraction and Legitimacy The Funding Crisis Succession Planning Read/discuss/share here: Farcaster: https://farcaster.xyz/trent/0x9b4b522f Twitter https://x.com/trent_vanepps/status/2067593124398989551 Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction I believe this is a critical time to establish institutions for our next decade, and beyond. I worked at the Ethereum Foundation for 5 years coordinating core development, Protocol Guild funding, and political economy research. Subtraction successfully signals reduced EF power yet legitimacy stubbornly pools at the Foundation via brand, Vitalik affiliation, treasury, and assets. Treasury constraints and CIP expiration risk a slow-burning funding crisis that threatens institutional capacity for protocol maintenance and upgrades. EF will not steward Ethereum's next decade; a reset of social, political, and economic contracts is needed for effective institutional succession. New mechanisms must enable scalable neutral funding, steward interdependent resources, and prioritize broad adoption for the World Computer.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 5h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 5h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 9h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 9h ago
 
 Ethereum is down big in 2026, but two key catalysts could soon send it soaring in value.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -182,19 +182,19 @@ The Block • 2d ago
 
 ---
 
+**[Why Ethereum Underperforms Despite Wall Street Hype And Spot ETF Approvals](https://www.tradingview.com/news/newsbtc:678f7618a094b:0-why-ethereum-underperforms-despite-wall-street-hype-and-spot-etf-approvals/)**
+
+Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
+
+TradingView • 3h ago
+
+---
+
 **[New Crypto: Pepeto Confirms DeFi Progress Follow Dogecoin Success While the Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-confirms-defi-progress-follow-dogecoin-success-while-the-ethereum-price-prediction-targets-7-000-1036263670)**
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 12h ago
-
----
-
-**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
-
-Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
-
-CoinDesk • 2d ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -206,19 +206,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
+
+Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
+
+CoinDesk • 2d ago
+
+---
+
 **[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
 
 Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
 
 unchainedcrypto.com • 2d ago
-
----
-
-**[Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit Roadmap](https://www.tradingview.com/news/newsbtc:d08da64d0094b:0-ethereum-glamsterdam-upgrade-moves-toward-200m-gas-limit-roadmap/)**
-
-Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
-
-TradingView • 2d ago
 
 ---
 
@@ -234,13 +234,23 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Running Out Of Money For Development!? Iran: &#39;Strait Of Hormuz Is Closed&#39; ... US Responds](https://www.youtube.com/watch?v=T7uTKUsB8e8)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 1K • 👍 142 • 💬 141 • ⏱️ 10:44 • 1h ago
+
+---
+
 **[&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | Eth Price 2026](https://www.youtube.com/watch?v=DCxZzEvVBig)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 166 • 💬 121 • ⏱️ 18:36 • 20h ago
+👁️ 4K • 👍 172 • 💬 121 • ⏱️ 18:36 • 23h ago
 
 ---
 
@@ -250,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 109 • 👍 5 • 💬 2 • ⏱️ 4:19 • 2h ago
+👁️ 240 • 👍 10 • 💬 52 • ⏱️ 4:19 • 4h ago
 
 ---
 
@@ -260,27 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 519 • 💬 44 • ⏱️ 17:32 • 1d ago
-
----
-
-**[Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains](https://www.youtube.com/watch?v=eTh2O7zW0bI)**
-
-Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum continues to lead the blockchain space with ...
-
-📺 Crypto Meridian
-
-👁️ 1K • 👍 15 • 💬 38 • ⏱️ 2:03 • 17h ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=tjwugnHlNnU)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Join our Telegram for signals & updates: ...
-
-📺 Ashutosh Kumar
-
-👁️ 4K • 👍 285 • 1h ago
+👁️ 13K • 👍 528 • 💬 45 • ⏱️ 17:32 • 1d ago
 
 ---
 
@@ -290,17 +280,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 99 • ⏱️ 7:13 • 9h ago
+👁️ 1K • 👍 103 • ⏱️ 7:13 • 11h ago
 
 ---
 
-**[BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E9s96evtBjA)**
+**[Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains](https://www.youtube.com/watch?v=eTh2O7zW0bI)**
 
-BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum continues to lead the blockchain space with ...
 
-📺 Crypto World
+📺 Crypto Meridian
 
-👁️ 8K • 👍 354 • 💬 241 • ⏱️ 20:39 • 19h ago
+👁️ 1K • 👍 16 • 💬 38 • ⏱️ 2:03 • 19h ago
 
 ---
 
@@ -310,7 +300,17 @@ XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #cryp
 
 📺 MrNasdog
 
-👁️ 1K • 👍 38 • 💬 2 • ⏱️ 1:02 • 9h ago
+👁️ 2K • 👍 42 • 💬 2 • ⏱️ 1:02 • 12h ago
+
+---
+
+**[BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E9s96evtBjA)**
+
+BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 359 • 💬 314 • ⏱️ 20:39 • 21h ago
 
 ---
 
@@ -320,17 +320,17 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 908 • 👍 106 • 💬 15 • ⏱️ 13:31 • 22h ago
+👁️ 964 • 👍 111 • 💬 15 • ⏱️ 13:31 • 1d ago
 
 ---
 
-**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
+**[Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk](https://www.youtube.com/watch?v=qGcD_25Ju-o)**
 
-D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
+Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk Kalshi opens early IPO talks following a ...
 
-📺 XRP Bags
+📺 The Coin Daily
 
-👁️ 5K • 👍 473 • 💬 112 • ⏱️ 11:45 • 1d ago
+👁️ 23K • 👍 5 • ⏱️ 6:58 • 1d ago
 
 ---
 

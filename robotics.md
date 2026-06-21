@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-21T13:06:35.530081+00:00'
+updated: '2026-06-21T15:25:56.085703+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 21, 2026 at 13:06 UTC  
+**Last Updated:** June 21, 2026 at 15:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS
 
 So we're using an ESP32S with a TJA1050 transceiver and basically we're using this setup to operate a rover using ROS2 Humble and MAVLink commands, so it has a lot of modules like actuators, PDB, mini-arm, and etc connected through a CAN bus network. Now the issue is that we will be using multiple BLDCs for our rover's arm and these motors continuously send out updates (or heartbeats or sth) so using these BLDCs in the same network seems like the MCU will lag or slow down and just be downright ineffective. So is there any way to isolate the motors to a different network or CAN line? I was thinking of adding another MCU on top of the ESP32 to only handle the motors but is there an alternative to this approach, preferably one without adding more hardware?
 
-2d ago
+3d ago
 
 ---
 
@@ -94,7 +94,7 @@ So we're using an ESP32S with a TJA1050 transceiver and basically we're using th
 
 Hey everybody! Hobbyist here with an update on my cheap rover swarm project. I've been trying out Depth Anything 3 and wanted to share, because the results of such minimal hardware surprised me. The setup: each rover is just a XIAO ESP32-S3 Sense (~$15 board with a tiny onboard camera) in a 3D printed body. The ESP32 is basically a sender, it streams the camera over WiFi and reports temperature/battery/telemetry. All the heavy lifting (DA3 inference, navigation) runs on a PC that acts as the brain. No lidar, no depth sensor, one cheap RGB camera. DA3 gives me a point cloud per frame and can merge multiple frames into a larger cloud. Seeing a $15 camera produce a usable 3D-ish image of the room is still kind of wild to me. Eventually I want to use it for navigation - a kind of "poor man's lidar". It estimates what's near at three heights (eye level, above, below) to give a rough obstacle sense without a dedicated sensor. Secondly for visualization at the moment, but the goal is to stitch frames into an environment map. Positioning is currently handled by ArUco markers around the room (solvePnP). Still early and held together with hope, but it's been fun pushing this hardware further than it wamts to go. :-)
 
-3d ago
+4d ago
 
 ---
 
@@ -110,6 +110,14 @@ Aya Durbin says humanoid robots need to prove real customer value before they ca
 
 ## Google News: "robotics"
 
+**[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams](https://www.businessinsider.com/ukraine-turning-robots-mobile-weapons-hunt-russia-infiltration-groups-2026-6)**
+
+Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
+
+Business Insider • 2d ago
+
+---
+
 **[Army looks to small UGVs as Ukraine war reshapes battlefield robotics](https://smallwarsjournal.com/2026/06/19/army-small-ugvs-battlefield-robotics/)**
 
 WASHINGTON – James Crowell, the founder and CEO of unmanned ground vehicle manufacturer Crow Industries, did not go into business intending to build a machine of war. When Crowell started his company in Scottsdale, Arizona, he saw the vehicles commonly referred to as UGVs as a tool for exploring the cosmos. To make humanity’s interplanetary expansion possible, his team built … Read more
@@ -118,43 +126,11 @@ Small Wars Journal • 1d ago
 
 ---
 
-**[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams](https://www.businessinsider.com/ukraine-turning-robots-mobile-weapons-hunt-russia-infiltration-groups-2026-6)**
-
-Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
-
-Business Insider • 1d ago
-
----
-
-**['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo)**
-
-As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.
-
-BBC • 3d ago
-
----
-
-**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
-
-St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
-
-KCRA • 1d ago
-
----
-
-**[Alibaba (BABA) Faces Pentagon Blacklist As It Pushes Deeper Into AI Robotics](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-faces-pentagon-blacklist-201559991.html)**
-
-Alibaba Group Holding (NYSE:BABA) was recently added to a new Pentagon blacklist that cites alleged ties to the Chinese military, which the company rejects and plans to contest. Analysts currently see limited direct business impact, but the move introduces fresh geopolitical and regulatory uncertainty for Alibaba. At the same time, Alibaba is accelerating its AI push, unveiling robotics models aimed at logistics, warehousing, and business operations. Ant Group has rolled out an AI overhaul...
-
-Yahoo Finance • 2d ago
-
----
-
 **[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -163,6 +139,14 @@ IEEE Spectrum • 1d ago
 Members of Alexandria City High School's award-winning Titan Robotics team are protesting a decision to move the team to a new, smaller dedicated classroom space at the King Street Campus. Last September, the award-winning Titan Robotics team was informed they would have to divide their 4,000-square-foot space next to the school gym with a new
 
 ALXnow • 1d ago
+
+---
+
+**[Alibaba (BABA) Faces Pentagon Blacklist As It Pushes Deeper Into AI Robotics](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-faces-pentagon-blacklist-201559991.html)**
+
+Alibaba Group Holding (NYSE:BABA) was recently added to a new Pentagon blacklist that cites alleged ties to the Chinese military, which the company rejects and plans to contest. Analysts currently see limited direct business impact, but the move introduces fresh geopolitical and regulatory uncertainty for Alibaba. At the same time, Alibaba is accelerating its AI push, unveiling robotics models aimed at logistics, warehousing, and business operations. Ant Group has rolled out an AI overhaul...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -178,7 +162,15 @@ Business Wire • 2d ago
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-olympics.com • 1d ago
+olympics.com • 2d ago
+
+---
+
+**[Hyundai to take full ownership of Boston Dynamics in SoftBank buyout](https://www.kedglobal.com/robotics/newsView/ked202606210001)**
+
+Hyundai Motor Group, the world's third-largest carmaker, is poised to secure full ownership of US robotics company Boston Dynamics by acquiring the remaining 9
+
+KED Global • 2h ago
 
 ---
 
@@ -187,6 +179,12 @@ olympics.com • 1d ago
 AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
 
 AP News • 1d ago
+
+---
+
+**[Will China’s AI-powered agribots repeat its EV success story?](https://www.scmp.com/economy/article/3357363/will-chinas-ai-powered-agribots-repeat-its-ev-success-story)**
+
+South China Morning Post • 2h ago
 
 ---
 
@@ -200,17 +198,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 3K • 👍 143 • 💬 12 • ⏱️ 1:04:55 • 16h ago
-
----
-
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
-
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 153 • 💬 14 • ⏱️ 21:44 • 1d ago
+👁️ 3K • 👍 149 • 💬 14 • ⏱️ 1:04:55 • 18h ago
 
 ---
 
@@ -220,7 +208,17 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 290K • 👍 12K • 💬 2K • ⏱️ 2:51 • 3d ago
+👁️ 295K • 👍 13K • 💬 2K • ⏱️ 2:51 • 3d ago
+
+---
+
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+
+📺 Carros Show
+
+👁️ 4K • 👍 153 • 💬 15 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -240,7 +238,17 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://grou
 
 📺 InsideAI
 
-👁️ 948K • 👍 30K • 💬 3K • ⏱️ 15:10 • 6d ago
+👁️ 956K • 👍 30K • 💬 3K • ⏱️ 15:10 • 6d ago
+
+---
+
+**[The Future Workforce Is Already Here 😳🚀](https://www.youtube.com/watch?v=a7PIf2zgUAc)**
+
+In this incredible footage shared by Figure AI CEO Brett Adcock, hundreds of humanoid robots stand in organized rows inside a ...
+
+📺 Perigee Tech
+
+👁️ 15K • 💬 2 • ⏱️ 0:05 • 5h ago
 
 ---
 
@@ -250,17 +258,7 @@ Catie Cuan, Stanford Roboticist, Robot Choreographer, and founder of ART Lab (AI
 
 📺 EO
 
-👁️ 16K • 👍 526 • 💬 43 • ⏱️ 18:51 • 4d ago
-
----
-
-**[New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS](https://www.youtube.com/watch?v=kkLlzQqa7MY)**
-
-HUGE AI NEWS: Boogu Image, GLM 5.2, LTX2 Trainer, Midjourney Medical. Thanks to our sponsor Higgsfield. Unlock unlimited ...
-
-📺 AI Search
-
-👁️ 38K • 👍 2K • 💬 219 • ⏱️ 35:15 • 9h ago
+👁️ 16K • 👍 534 • 💬 44 • ⏱️ 18:51 • 5d ago
 
 ---
 
@@ -270,27 +268,27 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 32K • 👍 593 • 💬 92 • ⏱️ 0:32 • 1d ago
+👁️ 32K • 👍 597 • 💬 93 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
+**[🤯 She Built Her Own Humanoid Robot in a Secret Lab!](https://www.youtube.com/watch?v=ks6w6cLKT00)**
 
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
+What happens when human intelligence meets advanced robotics? ✨ This futuristic humanoid is being assembled piece by ...
 
-📺 Manni-Gaming
+📺 Future Updates
 
-👁️ 9K • 👍 385 • 💬 68 • ⏱️ 13:40 • 2d ago
+👁️ 35K • 👍 137 • 💬 1 • ⏱️ 0:17 • 3d ago
 
 ---
 
-**[How Fighting Humanoid Robots Happened #robotics #humanoidrobots #robots](https://www.youtube.com/watch?v=_S9x8DbTykE)**
+**[MIT Built a Robot That Folds Itself 😳🤖📄](https://www.youtube.com/watch?v=SfvTGYPmNjE)**
 
-It took 60 years, to go from Rock-Em-Sock-Em to real robots in the ring. The popular tabletop game arrived in 1964, shortly after ...
+This incredible invention is MIT's self-folding origami robot, a machine that transforms from a flat sheet into a functioning robot on ...
 
-📺 Kalil 4.0
+📺 Unova
 
-👁️ 1K • 👍 35 • ⏱️ 1:51 • 8h ago
+👁️ 62K • 👍 386 • 💬 13 • ⏱️ 0:07 • 3d ago
 
 ---
 
