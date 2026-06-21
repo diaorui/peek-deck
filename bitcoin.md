@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T17:05:12.939766+00:00'
+updated: '2026-06-21T19:01:16.190197+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 17:05 UTC  
+**Last Updated:** June 21, 2026 at 19:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,094.77
+### $63,995.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** -3.3%  
 **30d:** -16.4%  
 **90d:** -9.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.48B
+**Market Cap:** $1285.15B
 Rank #1
 
-**Circulating Supply:** 20,045,937 BTC
+**Circulating Supply:** 20,046,000 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.2%
 
 **All-Time Low:** $67.81
-+94473.1%
++94436.2%
 
 ---
 
@@ -171,23 +171,7 @@ CNBC • 1d ago
 
 Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
 
-CoinDesk • 8h ago
-
----
-
-**[Michael Saylor Teases Next Bitcoin Buy After Urging Community Unity](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-next-bitcoin-143421585.html)**
-
-Michael Saylor teased Strategy's next Bitcoin buy with a tracker post, days after the firm sold Bitcoin to fund dividends.
-
-Yahoo Finance • 2h ago
-
----
-
-**['SpaceX And Bitcoin Basically Mean The Same Thing,' Says Wall Street Veteran Jordi Visser — But Bitcoin 'Has No Energy' Right Now](https://finance.yahoo.com/markets/crypto/articles/spacex-bitcoin-basically-mean-same-150258575.html)**
-
-Wall Street veteran Visser's latest comments mark a shift from an earlier bullish stance, with the investor now saying Bitcoin may need the AI rally to cool before attracting fresh buyers.
-
-Yahoo Finance • 2h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -195,29 +179,29 @@ Yahoo Finance • 2h ago
 
 Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
 
-Aberdeen Insider • 6h ago
+Aberdeen Insider • 8h ago
+
+---
+
+**[Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Dogecoin — 'Let That Sink In,' Says Popular Analyst](https://finance.yahoo.com/markets/crypto/articles/elon-musk-worlds-first-trillionaire-173129397.html)**
+
+Popular cryptocurrency analyst Ali Martinez drew attention to the fact that Elon Musk, who became the world’s first trillionaire, owns Bitcoin and Dogecoin. Is Musk ‘Orange-Pilled’? In an X post, Martinez paired a line drawing of Musk with the Bitcoin logo, with the caption, “The world’s first TRILLIONAIRE owns Bitcoin. Let that sink in.” Both of Musk’s companies, Space Exploration Technologies Corp. and Tesla Inc., indeed hold BTC in their reserves. In fact, these two are the only companies in
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 13h ago
 
 ---
 
-**[Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains](https://www.tradingview.com/news/cointelegraph:04d1f8165094b:0-bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains/)**
+**[Bitcoin Analysts Split Between Buyer Demand And Resistance Ceiling Near $65,000](https://www.tradingview.com/news/newsbtc:2c7c6d22a094b:0-bitcoin-analysts-split-between-buyer-demand-and-resistance-ceiling-near-65-000/)**
 
-Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.
+Bitcoin’s short-term market structure is giving traders two very different stories at once: demand is appearing on dips, but resistance near the mid-$60,000s is still capping the recovery.TL;DRBuyers Are Showing Up, But The Ceiling RemainsTradingView analyst UnitedSignals described Bitcoin as a “ma…
 
 TradingView • 2h ago
-
----
-
-**[The Trump Administration Wants the Clarity Act Passed By the End of Summer. 3 Cryptocurrencies to Buy Now.](https://www.fool.com/investing/2026/06/21/the-trump-administration-wants-the-clarity-act-pas/)**
-
-Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
-
-The Motley Fool • 5h ago
 
 ---
 
@@ -225,13 +209,29 @@ The Motley Fool • 5h ago
 
 Analysts with JPMorgan have predicted bitcoin miners could be forced to sell more bitcoin...
 
-Forbes • 4h ago
+Forbes • 6h ago
+
+---
+
+**[The Trump Administration Wants the Clarity Act Passed By the End of Summer. 3 Cryptocurrencies to Buy Now.](https://www.fool.com/investing/2026/06/21/the-trump-administration-wants-the-clarity-act-pas/)**
+
+Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
+
+The Motley Fool • 6h ago
 
 ---
 
 **[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
 
-Investing.com • 8h ago
+Investing.com • 10h ago
+
+---
+
+**[Billionaire Says He'll 'Never Buy The AI Bubble', 80% Of His Portfolio Still Sits In Bitcoin](https://stocktwits.com/news-articles/markets/cryptocurrency/billionaire-salinas-bitcoin-80-percent-ai-bubble/cZKqVWGR7Jr)**
+
+Billionaire Ricardo Salinas said he has increased Bitcoin's (BTC) share of his liquid portfolio to 80% and has no interest in chasing the artificial intelligence boom.
+
+Stocktwits • 7h ago
 
 ---
 
@@ -252,14 +252,6 @@ The cryptocurrency's latest selloff is forcing investors to revisit what role, i
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
 ⬆️ 6 • 💬 0 • 5d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
-
----
-
-**[Turned Claude's 'discombobulating' into a Bitcoin faucet](https://news.ycombinator.com/item?id=48530823)**
-
-Bitcoin-native ads for AI coding agents. Advertisers pay Lightning sats, the dev running it keeps half, auto-paid to their wallet. No KYC, no accounts.
-
-⬆️ 4 • 💬 0 • 6d ago • [kicksats.com](https://kicksats.com/)
 
 ---
 
@@ -319,17 +311,25 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ---
 
+**['Passive' investors who dodged BTC, forced to own SPCX which is 3x more volatile](https://news.ycombinator.com/item?id=48570504)**
+
+Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
+
+⬆️ 6 • 💬 2 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[STRC Hits $82 | Is it Over for Michael Saylor and Bitcoin?!](https://www.youtube.com/watch?v=KUkNV9qe7b0)**
+**[Worst Crypto News Ever - Bitcoin Holders Just Got F**ked](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
 
-Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are calling for a full-blown death spiral. Michael Saylor ...
+Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 14K • 👍 2K • 💬 185 • ⏱️ 23:31 • 17h ago
+👁️ 37K • 👍 2K • 💬 181 • ⏱️ 13:13 • 21h ago
 
 ---
 
@@ -339,17 +339,17 @@ Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is em
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 200 • 💬 147 • ⏱️ 19:02 • 18h ago
+👁️ 3K • 👍 208 • 💬 147 • ⏱️ 19:02 • 20h ago
 
 ---
 
-**[Worst Crypto News Ever - Deep State Trying To Destroy Bitcoin Rally](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
+**[STRC Hits $82 | Is it Over for Michael Saylor and Bitcoin?!](https://www.youtube.com/watch?v=KUkNV9qe7b0)**
 
-Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
+Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are calling for a full-blown death spiral. Michael Saylor ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 175 • ⏱️ 13:13 • 19h ago
+👁️ 16K • 👍 2K • 💬 169 • ⏱️ 23:31 • 19h ago
 
 ---
 
@@ -359,7 +359,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 41K • 👍 2K • 💬 403 • ⏱️ 14:27 • 2d ago
+👁️ 43K • 👍 2K • 💬 404 • ⏱️ 14:27 • 2d ago
 
 ---
 
@@ -369,7 +369,17 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
+👁️ 26K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
+
+---
+
+**[Inside the debate over bitcoin vs gold](https://www.youtube.com/watch?v=8KIU8775W3c)**
+
+'The Claman Countdown' panelists Anthony Pompliano and Peter Schiff discuss what investors should focus on. #fox #media ...
+
+📺 Fox Business
+
+👁️ 18K • 👍 556 • 💬 403 • ⏱️ 11:24 • 1d ago
 
 ---
 
@@ -379,37 +389,17 @@ They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 256 • ⏱️ 11:44 • 1d ago
+👁️ 45K • 👍 2K • 💬 259 • ⏱️ 11:44 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Crab Walk: Fed Hike Crushes Saylor&#39;s Strategy #shorts](https://www.youtube.com/watch?v=iolbX2pQ6J0)**
+**[Jack Kruse Reveals How Fast The Bitcoin ATTACK is SPREADING...](https://www.youtube.com/watch?v=poCzB_D3VQA)**
 
-A hawkish Federal Reserve, signaled by a rate hike instead of a cut, spells trouble for Bitcoin. Preferred stock used by companies ...
+In his keynote speech at BTC Prague, Jack Kruse Reveals Why Bitcoin is Under ATTACK! 🗓️The 2027 edition of the BTC ...
 
-📺 Dana Love, PhD
+📺 BTCPrague
 
-👁️ 623 • 👍 24 • 💬 3 • ⏱️ 0:46 • 4h ago
-
----
-
-**[Crypto Holders Just Got F**ked](https://www.youtube.com/watch?v=wOICpvBip1Y)**
-
-Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features on Coinbase: ...
-
-📺 Altcoin Daily
-
-👁️ 26K • 👍 1K • 💬 180 • ⏱️ 1:28 • 18h ago
-
----
-
-**[BITCOIN HISTORY IS REPEATING!!!](https://www.youtube.com/watch?v=9skFETZCHiQ)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 15K • 👍 773 • 💬 33 • ⏱️ 11:41 • 1d ago
+👁️ 9K • 👍 577 • 💬 355 • ⏱️ 25:08 • 11h ago
 
 ---
 
@@ -420,6 +410,16 @@ In today's video, Kyledoops discusses the max pain price with viewers and outlin
 📺 Crypto Banter
 
 👁️ 18K • 👍 1K • 💬 24 • ⏱️ 21:49 • 2d ago
+
+---
+
+**[Grant Cardone Explains Why People Don&#39;t Just Buy Bitcoin](https://www.youtube.com/watch?v=xaCs6EkP79g)**
+
+He's been looking at it for 13 years and even he got turned off by the seed phrases and the complexity. He only got in because ...
+
+📺 The Wolf Of All Streets
+
+👁️ 543 • 👍 9 • 💬 2 • ⏱️ 0:59 • 3h ago
 
 ---
 

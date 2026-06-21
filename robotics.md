@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-21T17:05:12.949177+00:00'
+updated: '2026-06-21T19:01:16.199623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 21, 2026 at 17:05 UTC  
+**Last Updated:** June 21, 2026 at 19:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
-8h ago
+10h ago
 
 ---
 
@@ -44,19 +44,19 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
 Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal was to keep it under $250, so instead of buying an expensive LiDAR setup or dedicated depth cameras, I rigged up 4 cheap smartphones to stream video data. I’m running the streams through Depth Anything v3 (DA3) to estimate the depth maps, and honestly, for a "poor man's LiDAR," it’s going incredibly strong. The issue I'm running into: Since DA3 outputs relative/monocular depth maps, I’m struggling with absolute scale calibration. Right now, the robot thinks walls are further away than they actually are. It knows where the obstacles are, but the metric distance is skewed because DA3 doesn't have real-world depth data. I want to fix this by adding a hardware sensor to act as a "ground truth" anchor to correct and scale the DA3 depth data in real-time. Has anyone here tried using a ToF (Time-of-Flight) sensor or an Ultrasonic sensor to handle this kind of depth correction? Would a single-point distance reading be enough to dynamically scale the relative map, or is there a better way to do it? If anyone is curious about the hardware or wants to check out the setup, I put the specs and documentation here and the chassis CAD files here. Looking forward to hearing your thoughts on how to fix the depth scaling!
 
-5h ago
+7h ago
 
 ---
 
 **[When we fitted Éloi with a mouth👄](https://www.reddit.com/r/robotics/comments/1ubmw5z/when_we_fitted_éloi_with_a_mouth/)**
 
-6h ago
+8h ago
 
 ---
 
 **[🤖✨ From concept to reality! Proud to present my fully DIY 8-DOF Robotic Arm, designed, 3D printed, assembled, and programmed from scratch. Every servo, every wire, and every line of code brought this project to life. The journey of innovation never stops! 🚀](https://www.reddit.com/r/robotics/comments/1ubib0v/from_concept_to_reality_proud_to_present_my_fully/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -72,13 +72,13 @@ I've been experimenting with converting ordinary third-person videos into humano
 
 If you not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics, game NPCs and any agent that needs predictable, debuggable decision-making. We just introduced python bindings and a live view of the behavior tree. Also, we have added tons of new examples to get you going. For more, see: github: https://github.com/sollimann/bonsai pypi: https://pypi.org/project/bonsai-bt/
 
-10h ago
+12h ago
 
 ---
 
 **[Walking robot 3d printed, 4 servos and. Arduino](https://www.reddit.com/r/robotics/comments/1ubhagk/walking_robot_3d_printed_4_servos_and_arduino/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ If you not familiar with the library, its basically a Rust implementation of beh
 
 Disclosure: I work with a commercial robotics data collection team. This is not a sales post. I've been comparing different human-demonstration formats for robot manipulation, and I'm curious which configuration researchers find most useful for initial testing. The main options seem to be: • Egocentric video only • Egocentric + two wrist cameras • Task and step labels • Country and collection metadata Egocentric-only data is easier to scale, but hands often block the object. Wrist views improve grasp visibility, although synchronization and motion blur create extra problems. We're considering releasing a small free public evaluation sample from the US, UK and Australia. It would require no signup, email or contact details. Which format would be most useful for testing an existing manipulation or imitation-learning pipeline? Also, what minimum information should be included: camera calibration, FPS, task labels, timestamps, licensing documentation or failure examples? I can share the public sample in a follow-up only if the moderators confirm that it is appropriate.
 
-4h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ Disclosure: I work with a commercial robotics data collection team. This is not 
 
 Everything works fine, just for these maze of cables, I have run out of ideas, how do I actually get rid of the mess? I am using 2 16 channel servo drivers. all 18 (plus 2 for camera) are connected to those 2. I am using a buck converter on top and a 4200 MAH battery. The raspberry pi relays all info to my laptop and it control the motion additionally i also need space to put an imu sensor over it. Help !!
 
-19h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Everything works fine, just for these maze of cables, I have run out of ideas, h
 
 It seems that everyone around is building robots these days. Overcoming my laziness, I decided to also build my own small robodog, and I'm sharing the result of this project, which took me quite a bit of trials and errors during long evenings. All parts were designed from scratch. Everything that is plastic was 3D printed. Everything that isn't plastic was sourced from generic stores - there are no custom CNC orders here. The main SBC is a Radxa Zero 3W running Ubuntu 24.04 with ROS 2 Jazzy. The servos are powered by a Sunflower PCA9685 driver board. There are two separate power rails: 5V for the Radxa and 6-7V for the servos. The trotting gait is shown in the video. I'm currently using an inverse kinematics algorithm, but my long-term plans include Tensor Lite and trained neural networks for skills. The project is still ongoing - I have so many things to try and learn. But it is solid enough as a good foundation for future iterations.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 7h ago
 
 ---
 
@@ -122,37 +122,21 @@ Business Insider • 2d ago
 
 WASHINGTON – James Crowell, the founder and CEO of unmanned ground vehicle manufacturer Crow Industries, did not go into business intending to build a machine of war. When Crowell started his company in Scottsdale, Arizona, he saw the vehicles commonly referred to as UGVs as a tool for exploring the cosmos. To make humanity’s interplanetary expansion possible, his team built … Read more
 
-Small Wars Journal • 1d ago
+Small Wars Journal • 2d ago
+
+---
+
+**[The Global X Robotics & AI ETF (BOTZ): A Solid Way to Play Robotics](https://finance.yahoo.com/technology/ai/articles/global-x-robotics-ai-etf-160313764.html)**
+
+The Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) is the largest pure-play robotics fund in the U.S. market, holding roughly $3.54 billion in net assets across foreign-listed automation giants, U.S. AI chipmakers, and surgical robotics specialists that most retail investors would struggle to buy directly. That access is the real product. It is also ... The Global X Robotics & AI ETF (BOTZ): A Solid Way to Play Robotics
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
 
 Tech Xplore • 2d ago
-
----
-
-**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
-
-St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
-
-KCRA • 1d ago
-
----
-
-**[Rivian's CEO Is Taking On Elon Musk In Humanoid Robots](https://finance.yahoo.com/technology/ai/articles/rivians-ceo-taking-elon-musk-150019724.html)**
-
-Rivian Automotive Inc. CEO RJ Scaringe has a plan to put robots on factory floors. He also has $1 billion to back it up. Mind Robotics Mind Robotics was launched in late 2025 as a spin-out from the EV maker — growing from an internal initiative called “Project Synapse.” In less than six months, the company had raised over $1 billion across three rounds: a $115 million seed led by Eclipse, a $500 million Series A co-led by Accel and Andreessen Horowitz and a $400 million follow-on led by Kleiner
-
-Yahoo Finance • 2d ago
-
----
-
-**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
 
 ---
 
@@ -164,6 +148,14 @@ ALXnow • 1d ago
 
 ---
 
+**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 3h ago
+
+---
+
 **[NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026](https://www.businesswire.com/news/home/20260619441783/en/NEURA-Robotics-Showcases-Full-Stack-Robotics-Platform-at-Automate-2026)**
 
 NEURA Robotics ("NEURA"), the pioneer in cognitive robotics and creator of the Neuraverse, will exhibit at Automate 2026, North America's largest automation ...
@@ -172,11 +164,11 @@ Business Wire • 2d ago
 
 ---
 
-**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
+**[Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?](https://www.fool.com/investing/2026/06/21/archer-aviation-vs-kraken-robotics-with-geopolitic/)**
 
-Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
+These exciting companies offer different ways to invest in the next generation of defense.
 
-olympics.com • 2d ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -184,7 +176,15 @@ olympics.com • 2d ago
 
 Hyundai Motor Group, the world's third-largest carmaker, is poised to secure full ownership of US robotics company Boston Dynamics by acquiring the remaining 9
 
-KED Global • 3h ago
+KED Global • 5h ago
+
+---
+
+**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+
+AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+
+AP News • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 3K • 👍 149 • 💬 14 • ⏱️ 1:04:55 • 20h ago
+👁️ 4K • 👍 157 • 💬 16 • ⏱️ 1:04:55 • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 295K • 👍 13K • 💬 2K • ⏱️ 2:51 • 3d ago
+👁️ 303K • 👍 13K • 💬 2K • ⏱️ 2:51 • 3d ago
 
 ---
 
@@ -218,7 +218,7 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 4K • 👍 153 • 💬 15 • ⏱️ 21:44 • 1d ago
+👁️ 4K • 👍 155 • 💬 15 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -228,27 +228,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 22K • 👍 74 • 💬 83 • ⏱️ 0:55 • 3d ago
-
----
-
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 956K • 👍 30K • 💬 3K • ⏱️ 15:10 • 7d ago
-
----
-
-**[The Future Workforce Is Already Here 😳🚀](https://www.youtube.com/watch?v=a7PIf2zgUAc)**
-
-In this incredible footage shared by Figure AI CEO Brett Adcock, hundreds of humanoid robots stand in organized rows inside a ...
-
-📺 Perigee Tech
-
-👁️ 15K • 💬 2 • ⏱️ 0:05 • 7h ago
+👁️ 23K • 👍 74 • 💬 83 • ⏱️ 0:55 • 4d ago
 
 ---
 
@@ -258,7 +238,7 @@ Catie Cuan, Stanford Roboticist, Robot Choreographer, and founder of ART Lab (AI
 
 📺 EO
 
-👁️ 16K • 👍 534 • 💬 44 • ⏱️ 18:51 • 5d ago
+👁️ 16K • 👍 543 • 💬 46 • ⏱️ 18:51 • 5d ago
 
 ---
 
@@ -268,27 +248,45 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 32K • 👍 597 • 💬 93 • ⏱️ 0:32 • 1d ago
+👁️ 33K • 👍 600 • 💬 93 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[🤯 She Built Her Own Humanoid Robot in a Secret Lab!](https://www.youtube.com/watch?v=ks6w6cLKT00)**
+**[Get Paid to Fold Laundry? Inside the $100M Robot Training Industry! 🤯](https://www.youtube.com/watch?v=7koacJYEEr4)**
 
-What happens when human intelligence meets advanced robotics? ✨ This futuristic humanoid is being assembled piece by ...
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://join.switchit.app/YT ...
 
-📺 Future Updates
+📺 Vaibhav Sisinty
 
-👁️ 35K • 👍 137 • 💬 1 • ⏱️ 0:17 • 3d ago
+👁️ 74K • 👍 2K • 💬 24 • ⏱️ 1:27 • 4d ago
 
 ---
 
-**[MIT Built a Robot That Folds Itself 😳🤖📄](https://www.youtube.com/watch?v=SfvTGYPmNjE)**
+**[Robots and a Model Eiffel Tower Greet Macron, Modi at Paris Tech Conference](https://www.youtube.com/watch?v=GwSLouqzlpk)**
 
-This incredible invention is MIT's self-folding origami robot, a machine that transforms from a flat sheet into a functioning robot on ...
+French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured a major technology conference in Paris, ...
 
-📺 Unova
+📺 The Daily Guardian
 
-👁️ 62K • 👍 386 • 💬 13 • ⏱️ 0:07 • 3d ago
+👁️ 35K • 👍 530 • 💬 18 • ⏱️ 0:57 • 3d ago
+
+---
+
+**[I Got a BETTER Robot Lawnmower… 😅](https://www.youtube.com/watch?v=CwPhCFdl05U)**
+
+📺 Garett
+
+👁️ 355K • 👍 20K • 💬 412 • ⏱️ 0:38 • 1d ago
+
+---
+
+**[Ue Orkan MONSTER Lighting Up The Most Annoying Meta Bots - Lockdown &amp; Destroy | War Robots](https://www.youtube.com/watch?v=w4VRTC8m8sc)**
+
+Where have the Ue Orkans been? Im pretty sure these were one of the first ultimate weapons released with the Ue Spectre years ...
+
+📺 PREDATOR WR
+
+👁️ 11K • 👍 424 • 💬 40 • ⏱️ 16:15 • 1d ago
 
 ---
 

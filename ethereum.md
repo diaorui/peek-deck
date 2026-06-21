@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T17:05:12.945881+00:00'
+updated: '2026-06-21T19:01:16.196365+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 17:05 UTC  
+**Last Updated:** June 21, 2026 at 19:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,740.79
+### $1,732.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -3.8%  
-**30d:** -18.5%  
-**90d:** -19.8%  
-**1y:** -22.3%  
+**24h:** +0.3%  
+**7d:** -3.4%  
+**30d:** -18.1%  
+**90d:** -19.5%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $209.12B
 Rank #2
 
-**Circulating Supply:** 120,684,073 ETH
+**Circulating Supply:** 120,683,902 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-65.0%
 
 **All-Time Low:** $0.43
-+414030.9%
++400055.7%
 
 ---
 
@@ -88,7 +88,7 @@ I wrapped some ETH a long time ago and completely forgot about it. I just notice
 
 earlier this year, i reconnected with my good friend, Jimmy Johnson, a 5 year Polkadot dev vet, fresh off leading his team's JAM client build. we travelled together to the east coast of Taiwan where we touched the surf and had many a conversations with which i had the privilege of recording. but what i managed to capture was less the technical discourse i was expecting in a conversation with a senior blockchain dev but a cultural one. <jackpot.> jimmy's worked across two huge dev ecosystems: Polkadot and Ethereum. he likes both. but the thing he misses most about Ethereum, is its penchance for client, and hence, thought diversity. no other ecosystem really do it quite the way ethereum does it, no? 9 different teams, all different languages, all different design philosophies, yet all building the same protocol. and the deeper point he made: that kind of diversity only happens when you treat protocol development as a community problem, not a technology problem. polkadot's architecture is technically impressive. jimmy would know. he spent years deep in the relay chain, Gossamer, JAM. but the gap he sees isn't engineering but the culture of how decisions get made, how clients coordinate, how weirdos (my words) are welcomed. he also questioned the "scale at all costs" framing that's been dominant in the crypto meta lately. his take: there's a path where crypto scales, institutions pile in, and we end up with "a little bit better of a tradfi system", but we lose 95% of what made crypto matter in the first place. vs. a path where we sacrifice some growth and keep the counterculture intact for the people who actually need it. he leans toward path two. i couldnt agree more. the video above is the 1 minute cold-open for my 13 minute cut of our interview over 3-4 days. you can watch the full version on my youtube channel at: https://youtu.be/rqsYKd3f8fc ------------ if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 9h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 13h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
 
-TradingView • 4h ago
+TradingView • 6h ago
 
 ---
 
@@ -194,23 +194,7 @@ TradingView • 4h ago
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 16h ago
-
----
-
-**[Ethereum Foundation’s Leadership Exodus Claims Its Second Co-Director](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-leadership-exodus-claims-112030013.html)**
-
-Hsiao-Wei Wang steps down as Ethereum Foundation co-executive director, the second co-ED to leave in 2026 amid a broader leadership exodus.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
-
-Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
-
-CoinDesk • 3d ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -222,11 +206,27 @@ unchainedcrypto.com • 2d ago
 
 ---
 
+**[Bitwise’s ETH ETF Sees Fresh Outflows as Ethereum Slide Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/bitwises-eth-etf-sees-fresh-outflows-as-ethereum-slide-tests-investor-nerves)**
+
+Ethereum jitters deepened this week as Bitwise’s Bitwise Ethereum ETF, ETHW, logged outflows of $500,120 on June 18, 2026, a modest but telling 0.27% of its $185.9 ...
+
+TipRanks • 6h ago
+
+---
+
 **[Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)**
 
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
+
+---
+
+**[Ethereum’s Jaredfromsubway MEV bot drained after approving its own $7.5M theft](https://cryptoslate.com/jaredfromsubway-mev-bot-drained/)**
+
+Jaredfromsubway MEV bot lost $7.5M after attacker-built contracts turned trading approvals into an allowance drain.
+
+CryptoSlate • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 1K • 👍 142 • 💬 141 • ⏱️ 10:44 • 3h ago
+👁️ 3K • 👍 235 • 💬 150 • ⏱️ 10:44 • 5h ago
 
 ---
 
@@ -250,17 +250,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 172 • 💬 121 • ⏱️ 18:36 • 1d ago
+👁️ 5K • 👍 177 • 💬 123 • ⏱️ 18:36 • 1d ago
 
 ---
 
-**[Why ETH Could Rally Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=l5SvNN27xGs)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
 
-📺 Cilinix Crypto
+📺 Gareth Soloway
 
-👁️ 240 • 👍 10 • 💬 52 • ⏱️ 4:19 • 6h ago
+👁️ 6K • 👍 738 • 💬 48 • ⏱️ 15:20 • 1h ago
 
 ---
 
@@ -270,17 +270,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 528 • 💬 45 • ⏱️ 17:32 • 1d ago
+👁️ 14K • 👍 538 • 💬 45 • ⏱️ 17:32 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=wUISuDASZZY)**
+**[Why ETH Could Rally Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=l5SvNN27xGs)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto Gyan
+📺 Cilinix Crypto
 
-👁️ 1K • 👍 103 • ⏱️ 7:13 • 13h ago
+👁️ 294 • 👍 17 • 💬 55 • ⏱️ 4:19 • 8h ago
 
 ---
 
@@ -290,7 +290,27 @@ Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum conti
 
 📺 Crypto Meridian
 
-👁️ 1K • 👍 16 • 💬 38 • ⏱️ 2:03 • 21h ago
+👁️ 2K • 👍 16 • 💬 38 • ⏱️ 2:03 • 23h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=8_vtmQZxjIM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 631 • 👍 67 • ⏱️ 7:23 • 5h ago
+
+---
+
+**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
+
+D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
+
+📺 XRP Bags
+
+👁️ 5K • 👍 479 • 💬 112 • ⏱️ 11:45 • 1d ago
 
 ---
 
@@ -300,37 +320,17 @@ XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #cryp
 
 📺 MrNasdog
 
-👁️ 2K • 👍 42 • 💬 2 • ⏱️ 1:02 • 13h ago
+👁️ 2K • 👍 49 • 💬 3 • ⏱️ 1:02 • 15h ago
 
 ---
 
-**[BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E9s96evtBjA)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=wUISuDASZZY)**
 
-BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto World
+📺 Crypto Gyan
 
-👁️ 8K • 👍 359 • 💬 314 • ⏱️ 20:39 • 23h ago
-
----
-
-**[IS THERE VALUE IN ETHEREUM &amp; SOLANA STILL?!? BITCOIN MARKET UPDATE!](https://www.youtube.com/watch?v=9jg3KKOZYms)**
-
-ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter for Market Updates and Trading Tips: ...
-
-📺 EmperorBTC
-
-👁️ 964 • 👍 111 • 💬 15 • ⏱️ 13:31 • 1d ago
-
----
-
-**[Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk](https://www.youtube.com/watch?v=qGcD_25Ju-o)**
-
-Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk Kalshi opens early IPO talks following a ...
-
-📺 The Coin Daily
-
-👁️ 23K • 👍 5 • ⏱️ 6:58 • 2d ago
+👁️ 2K • 👍 106 • ⏱️ 7:13 • 14h ago
 
 ---
 
