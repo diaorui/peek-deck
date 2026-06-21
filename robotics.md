@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-20T23:09:41.608731+00:00'
+updated: '2026-06-21T01:58:36.398966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 20, 2026 at 23:09 UTC  
+**Last Updated:** June 21, 2026 at 01:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,11 +118,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
+**[Army looks to small UGVs as Ukraine war reshapes battlefield robotics](https://smallwarsjournal.com/2026/06/19/army-small-ugvs-battlefield-robotics/)**
 
-Your weekly selection of awesome robot videos
+WASHINGTON – James Crowell, the founder and CEO of unmanned ground vehicle manufacturer Crow Industries, did not go into business intending to build a machine of war. When Crowell started his company in Scottsdale, Arizona, he saw the vehicles commonly referred to as UGVs as a tool for exploring the cosmos. To make humanity’s interplanetary expansion possible, his team built … Read more
 
-IEEE Spectrum • 1d ago
+Small Wars Journal • 1d ago
 
 ---
 
@@ -134,35 +134,11 @@ Anthropic • 2d ago
 
 ---
 
-**[Titans Robotics team members protest move to smaller space at Alexandria City High School](https://www.alxnow.com/2026/06/19/titans-robotics-team-members-protest-move-to-smaller-space-at-alexandria-city-high-school/)**
-
-Members of Alexandria City High School's award-winning Titan Robotics team are protesting a decision to move the team to a new, smaller dedicated classroom space at the King Street Campus. Last September, the award-winning Titan Robotics team was informed they would have to divide their 4,000-square-foot space next to the school gym with a new
-
-ALXnow • 1d ago
-
----
-
-**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
-
-Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
-
-olympics.com • 1d ago
-
----
-
 **[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
 
 AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
 
-AP News • 23h ago
-
----
-
-**[NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026](https://www.businesswire.com/news/home/20260619441783/en/NEURA-Robotics-Showcases-Full-Stack-Robotics-Platform-at-Automate-2026)**
-
-NEURA Robotics ("NEURA"), the pioneer in cognitive robotics and creator of the Neuraverse, will exhibit at Automate 2026, North America's largest automation ...
-
-Business Wire • 1d ago
+AP News • 1d ago
 
 ---
 
@@ -174,6 +150,14 @@ inc.com • 2d ago
 
 ---
 
+**[Titans Robotics team members protest move to smaller space at Alexandria City High School](https://www.alxnow.com/2026/06/19/titans-robotics-team-members-protest-move-to-smaller-space-at-alexandria-city-high-school/)**
+
+Members of Alexandria City High School's award-winning Titan Robotics team are protesting a decision to move the team to a new, smaller dedicated classroom space at the King Street Campus. Last September, the award-winning Titan Robotics team was informed they would have to divide their 4,000-square-foot space next to the school gym with a new
+
+ALXnow • 1d ago
+
+---
+
 **[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
 
 Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
@@ -182,11 +166,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[AI coding agents taught robots how to install GPUs and cut zip ties](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)**
+**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
 
-Nvidia's self-improvement program for robots enlists teams of AI coding agents.
+Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
 
-Ars Technica • 3d ago
+olympics.com • 1d ago
+
+---
+
+**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026](https://www.businesswire.com/news/home/20260619441783/en/NEURA-Robotics-Showcases-Full-Stack-Robotics-Platform-at-Automate-2026)**
+
+NEURA Robotics ("NEURA"), the pioneer in cognitive robotics and creator of the Neuraverse, will exhibit at Automate 2026, North America's largest automation ...
+
+Business Wire • 1d ago
 
 ---
 
@@ -194,23 +194,23 @@ Ars Technica • 3d ago
 
 ## YouTube Videos: "robotics"
 
+**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
+
+Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
+
+📺 Carros Show
+
+👁️ 1K • 👍 90 • 💬 10 • ⏱️ 1:04:55 • 5h ago
+
+---
+
 **[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
 
 Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
 
 📺 Jason Lowe on AI
 
-👁️ 267K • 👍 11K • 💬 2K • ⏱️ 2:51 • 3d ago
-
----
-
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
-
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
-
-📺 Carros Show
-
-👁️ 3K • 👍 126 • 💬 13 • ⏱️ 21:44 • 1d ago
+👁️ 277K • 👍 12K • 💬 2K • ⏱️ 2:51 • 3d ago
 
 ---
 
@@ -220,17 +220,27 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 22K • 👍 73 • 💬 82 • ⏱️ 0:55 • 3d ago
+👁️ 22K • 👍 74 • 💬 83 • ⏱️ 0:55 • 3d ago
 
 ---
 
-**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
 
-Could AI become dangerous? Can we trust AI? AGI. Go to http://ground.news/InsideAI for a better way to stay informed. Subscribe ...
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+
+📺 Carros Show
+
+👁️ 3K • 👍 131 • 💬 13 • ⏱️ 21:44 • 1d ago
+
+---
+
+**[AI agent buys itself a robot and car, does exactly what experts warned](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
 📺 InsideAI
 
-👁️ 918K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
+👁️ 930K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
 
 ---
 
@@ -240,7 +250,7 @@ xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tes
 
 📺 The Q
 
-👁️ 246K • 👍 5K • 💬 447 • ⏱️ 6:20 • 3d ago
+👁️ 300K • 👍 5K • 💬 447 • ⏱️ 6:20 • 3d ago
 
 ---
 
@@ -250,17 +260,7 @@ Companies like 1X and Unitree are spending millions trying to build robot compan
 
 📺 Business Insider
 
-👁️ 136K • 👍 3K • 💬 595 • ⏱️ 17:26 • 6d ago
-
----
-
-**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
-
-War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 379 • 💬 67 • ⏱️ 13:40 • 2d ago
+👁️ 137K • 👍 3K • 💬 617 • ⏱️ 17:26 • 6d ago
 
 ---
 
@@ -270,17 +270,17 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 27K • 👍 561 • 💬 84 • ⏱️ 0:32 • 1d ago
+👁️ 30K • 👍 576 • 💬 91 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[The most portable 3D Printer #3dprinting #robot #robotics](https://www.youtube.com/watch?v=BZ32bbWK7aA)**
+**[is Ukraine&#39;s Robot Army Actually Working?](https://www.youtube.com/watch?v=Y5kE5XBYvyw)**
 
-I'm designing a portable 3D printer that folds down to the size that can fit in your backpack and still print things bigger than itself.
+Try Odoo's all-in-one business solution and see how it can make your life easier! Check it out at ▸ https://www.odoo.com/r/WAdk ...
 
-📺 Ethan Gao
+📺 HistoryLegends
 
-👁️ 453K • 👍 10K • 💬 364 • ⏱️ 0:46 • 6d ago
+👁️ 209K • 👍 10K • 💬 3K • ⏱️ 45:39 • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ China's new generation of AI humanoid robots highlights the country's rapid prog
 
 📺 Carros Show
 
-👁️ 5K • 👍 163 • 💬 16 • ⏱️ 21:46 • 5d ago
+👁️ 5K • 👍 164 • 💬 16 • ⏱️ 21:46 • 5d ago
 
 ---
 
