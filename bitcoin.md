@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T15:25:56.077592+00:00'
+updated: '2026-06-21T17:05:12.939766+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 15:25 UTC  
+**Last Updated:** June 21, 2026 at 17:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -3.2%  
+**24h:** +0.5%  
+**7d:** -3.3%  
 **30d:** -16.4%  
 **90d:** -9.1%  
 **1y:** -36.4%  
@@ -175,25 +175,41 @@ CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin rises to near $64k, but Iran uncertainty limits broader recovery](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rebounds-above-63-000-093153718.html)**
-
-Investing.com -- Bitcoin rose above $63,000 on Saturday, recovering from recent losses as investors evaluated regulatory developments in major markets and signs of continued institutional interest in digital assets.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
-
-Investing.com • 6h ago
-
----
-
 **[Michael Saylor Teases Next Bitcoin Buy After Urging Community Unity](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-next-bitcoin-143421585.html)**
 
 Michael Saylor teased Strategy's next Bitcoin buy with a tracker post, days after the firm sold Bitcoin to fund dividends.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 2h ago
+
+---
+
+**['SpaceX And Bitcoin Basically Mean The Same Thing,' Says Wall Street Veteran Jordi Visser — But Bitcoin 'Has No Energy' Right Now](https://finance.yahoo.com/markets/crypto/articles/spacex-bitcoin-basically-mean-same-150258575.html)**
+
+Wall Street veteran Visser's latest comments mark a shift from an earlier bullish stance, with the investor now saying Bitcoin may need the AI rally to cool before attracting fresh buyers.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Real Estate, Car Dealerships, Bitcoin And A TIF: A Look Into Toby Doeden's Businesses](https://aberdeeninsider.com/real-estate-car-dealerships-bitcoin-and-a-tif-a-look-into-toby-doedens-businesses/)**
+
+Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
+
+Aberdeen Insider • 6h ago
+
+---
+
+**[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
+
+Seeking Alpha • 11h ago
+
+---
+
+**[Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains](https://www.tradingview.com/news/cointelegraph:04d1f8165094b:0-bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains/)**
+
+Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.
+
+TradingView • 2h ago
 
 ---
 
@@ -201,39 +217,21 @@ Yahoo Finance • 51m ago
 
 Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
 
-The Motley Fool • 3h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost](https://bitcoinmagazine.com/news/jpmorgan-bitcoin-mining-costs-worsened)**
+**[JPMorgan Just Warned A Bitcoin Nightmare Is Suddenly Coming True As Price Crash Fears Surge](https://www.forbes.com/sites/digital-assets/2026/06/21/jpmorgan-just-warned-a-bitcoin-nightmare-is-suddenly-coming-true-as-price-crash-fears-surge/)**
 
-JPMorgan says Bitcoin mining economics have deteriorated as BTC trades about 19% below its estimated $78,000 production cost, forcing public miners into record coin sales and rendering roughly 20% of the industry unprofitable.
+Analysts with JPMorgan have predicted bitcoin miners could be forced to sell more bitcoin...
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant](https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price)**
-
-Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.
-
-Decrypt • 1d ago
+Forbes • 4h ago
 
 ---
 
-**[Michael Saylor Touts $48 Billion Bitcoin Turnaround, But Can MicroStrategy’s STRC Survive 2026?](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-touts-48-billion-160303599.html)**
+**[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
 
-Saylor says Strategy reserves top debt by $48 billion, but STRC trades below par as traders debate the funding model.
-
-Yahoo Finance • 23h ago
-
----
-
-**[A look at how falling Bitcoin prices, capital structure changes pushed STRC below $83 in just five weeks.](https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown)**
-
-From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
-
-CoinDesk • 1d ago
+Investing.com • 8h ago
 
 ---
 
@@ -277,7 +275,7 @@ Energy is the FUD claim that comes up most often, full stop. The honest version:
 
 Zitchain is the next generation cryptocurrency architecture. 100% secure, energy efficient, built for the world.
 
-⬆️ 3 • 💬 1 • 4d ago • [zitchain.com](https://zitchain.com)
+⬆️ 3 • 💬 1 • 5d ago • [zitchain.com](https://zitchain.com)
 
 ---
 
@@ -317,7 +315,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
 
-⬆️ 1 • 💬 0 • 4d ago • [CredScore](https://www.credscore.us/)
+⬆️ 1 • 💬 0 • 5d ago • [CredScore](https://www.credscore.us/)
 
 ---
 
@@ -331,7 +329,7 @@ Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are ca
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 2K • 💬 185 • ⏱️ 23:31 • 16h ago
+👁️ 14K • 👍 2K • 💬 185 • ⏱️ 23:31 • 17h ago
 
 ---
 
@@ -341,7 +339,7 @@ Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is em
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 200 • 💬 147 • ⏱️ 19:02 • 17h ago
+👁️ 3K • 👍 200 • 💬 147 • ⏱️ 19:02 • 18h ago
 
 ---
 
@@ -351,7 +349,7 @@ Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 175 • ⏱️ 13:13 • 18h ago
+👁️ 34K • 👍 2K • 💬 175 • ⏱️ 13:13 • 19h ago
 
 ---
 
@@ -361,7 +359,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 41K • 👍 2K • 💬 403 • ⏱️ 14:27 • 1d ago
+👁️ 41K • 👍 2K • 💬 403 • ⏱️ 14:27 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ A hawkish Federal Reserve, signaled by a rate hike instead of a cut, spells trou
 
 📺 Dana Love, PhD
 
-👁️ 623 • 👍 24 • 💬 3 • ⏱️ 0:46 • 3h ago
+👁️ 623 • 👍 24 • 💬 3 • ⏱️ 0:46 • 4h ago
 
 ---
 
@@ -401,7 +399,7 @@ Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 180 • ⏱️ 1:28 • 16h ago
+👁️ 26K • 👍 1K • 💬 180 • ⏱️ 1:28 • 18h ago
 
 ---
 

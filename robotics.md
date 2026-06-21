@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-21T15:25:56.085703+00:00'
+updated: '2026-06-21T17:05:12.949177+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 21, 2026 at 15:25 UTC  
+**Last Updated:** June 21, 2026 at 17:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,77 +32,77 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Look at the little robot I build!](https://www.reddit.com/r/robotics/comments/1u95gwg/look_at_the_little_robot_i_build/)**
+**[Demo of quadruped robot navigating low barrier with wall support](https://www.reddit.com/r/robotics/comments/1ubkv4u/demo_of_quadruped_robot_navigating_low_barrier/)**
 
-3d ago
+From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
----
-
-**[(Mostly) 3D printed robot arm project](https://www.reddit.com/r/robotics/comments/1u99ot3/mostly_3d_printed_robot_arm_project/)**
-
-2d ago
+8h ago
 
 ---
 
-**[I use my hand to control Iron Man's helmet](https://www.reddit.com/r/robotics/comments/1u8xlm1/i_use_my_hand_to_control_iron_mans_helmet/)**
+**[My $250 mobile robot uses 4 smartphones as a budget LiDAR alternative. Works surprisingly well, but I hit a depth scaling snag.](https://www.reddit.com/r/robotics/comments/1ubo4eb/my_250_mobile_robot_uses_4_smartphones_as_a/)**
 
-3d ago
+Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal was to keep it under $250, so instead of buying an expensive LiDAR setup or dedicated depth cameras, I rigged up 4 cheap smartphones to stream video data. I’m running the streams through Depth Anything v3 (DA3) to estimate the depth maps, and honestly, for a "poor man's LiDAR," it’s going incredibly strong. The issue I'm running into: Since DA3 outputs relative/monocular depth maps, I’m struggling with absolute scale calibration. Right now, the robot thinks walls are further away than they actually are. It knows where the obstacles are, but the metric distance is skewed because DA3 doesn't have real-world depth data. I want to fix this by adding a hardware sensor to act as a "ground truth" anchor to correct and scale the DA3 depth data in real-time. Has anyone here tried using a ToF (Time-of-Flight) sensor or an Ultrasonic sensor to handle this kind of depth correction? Would a single-point distance reading be enough to dynamically scale the relative map, or is there a better way to do it? If anyone is curious about the hardware or wants to check out the setup, I put the specs and documentation here and the chassis CAD files here. Looking forward to hearing your thoughts on how to fix the depth scaling!
 
----
-
-**[RealSense Releases New D585 AI-Native Stereo Camera](https://www.reddit.com/r/robotics/comments/1u99qz3/realsense_releases_new_d585_ainative_stereo_camera/)**
-
-Learn more: https://www.realsenseai.com/press-release/at-automate-2026-realsense-unveils-the-d585-pro-and-perception-studio/
-
-2d ago
+5h ago
 
 ---
 
-**[OpenPaw — open-source pet robot with real-time spatial navigation using Auki portals](https://www.reddit.com/r/robotics/comments/1u9502l/openpaw_opensource_pet_robot_with_realtime/)**
+**[When we fitted Éloi with a mouth👄](https://www.reddit.com/r/robotics/comments/1ubmw5z/when_we_fitted_éloi_with_a_mouth/)**
 
-I've been working on an open-source pet companion robot called OpenPaw, and wanted to share the navigation system I built for it. The hardware is an ESP32-S3 running ESP-IDF with a camera, DRV8833 motor driver, VL53L0X distance sensor, and MLX90634 temp sensor. It hosts its own WiFi AP — no cloud, no internet needed. The navigation works like this: I created virtual portals in my home using the Auki posemesh network (like GPS waypoints indoors). Each portal has X, Y, Z coordinates. A phone app built with Flutter connects to a local bridge API and loads these portals. When you scan a portal QR code with the phone's camera, the app records your position AND compass heading using the phone's magnetometer. This gives the robot both location and orientation — the two things needed for autonomous movement. The robot runs a PWM-based odometry task that estimates its position from motor commands every 50ms. A /api/pose endpoint returns real-time X, Y, and heading. A /api/trajectory endpoint logs the full path. The app shows all this on a 2D map overlay with portal markers, the robot's position, heading arrow, and traveled path updating every 500ms. The portal dropdown on the control screen lets you select any destination. The app calculates direction and distance from the robot's current position to the target in real time. The entire stack — ESP-IDF firmware, Flutter app, Auki bridge API — is open source. Build guide and schematics are documented. What navigation approaches have you used for indoor robots without GPS? I'm planning to add wheel encoders next for better accuracy.
-
-3d ago
+6h ago
 
 ---
 
-**[ME to Robotics?](https://www.reddit.com/r/robotics/comments/1u99wfd/me_to_robotics/)**
+**[🤖✨ From concept to reality! Proud to present my fully DIY 8-DOF Robotic Arm, designed, 3D printed, assembled, and programmed from scratch. Every servo, every wire, and every line of code brought this project to life. The journey of innovation never stops! 🚀](https://www.reddit.com/r/robotics/comments/1ubib0v/from_concept_to_reality_proud_to_present_my_fully/)**
 
-I'm currently pursuing an M.Tech in Mechanical Engineering and have been considering a transition into Robotics. My exposure to robotics is limited to basic theoretical concepts like kinematics, and I don't have any hands-on robotics experience. For those already working in the field, is it worth making the switch at this stage? How challenging is it to break into robotics from a mechanical background, and what does the career growth look like? I'd appreciate any honest insights from people who have been through a similar journey.
-
-2d ago
+10h ago
 
 ---
 
-**[ICRA/IROS transfer review process](https://www.reddit.com/r/robotics/comments/1u91k6s/icrairos_transfer_review_process/)**
+**[Can a Single Video Generate Humanoid Motion Data?](https://www.reddit.com/r/robotics/comments/1uayrgj/can_a_single_video_generate_humanoid_motion_data/)**
 
-Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS transfer review process? I submitted through the transfer option for IROS and was rejected, so I’m trying to better understand how the process works. What can reviewers see: the previous reviews, only the author response/revision summary, or something else? For those with experience, did the transfer process feel helpful, or could it bias reviewers since they know the paper was previously rejected? Any insights from the reviewer or author side would be appreciated.
+I've been experimenting with converting ordinary third-person videos into humanoid motion data. This demo includes several motion categories: • Acting • Sports • Combat • Dance The motivation is not animation alone. Recent humanoid robotics work increasingly relies on large-scale motion datasets and motion priors to improve movement quality, robustness, and generalization. Projects such as NVIDIA KIMODO also show the value of scaling high-quality motion data for downstream humanoid motion generation and control. This made me wonder whether ordinary videos could become a low-cost source of motion data for humanoid systems. There is already a massive amount of human motion available in online videos. If useful motion can be extracted reliably, it may help expand humanoid motion datasets beyond traditional mocap pipelines. For this experiment, I focused on: • Foot contact stability • Reduced foot sliding • Natural balance and movement dynamics • Consistency across different motion styles The long-term idea is: Video → Motion Data → Motion Models → Humanoid Control For anyone interested in testing their own clips, I made a public demo available here: huggingface demo I'd love to hear thoughts from people working on humanoid robotics, motion generation, imitation learning, or robot locomotion.
 
-3d ago
-
----
-
-**[Isolating a device to a different CAN line](https://www.reddit.com/r/robotics/comments/1u96gqp/isolating_a_device_to_a_different_can_line/)**
-
-So we're using an ESP32S with a TJA1050 transceiver and basically we're using this setup to operate a rover using ROS2 Humble and MAVLink commands, so it has a lot of modules like actuators, PDB, mini-arm, and etc connected through a CAN bus network. Now the issue is that we will be using multiple BLDCs for our rover's arm and these motors continuously send out updates (or heartbeats or sth) so using these BLDCs in the same network seems like the MCU will lag or slow down and just be downright ineffective. So is there any way to isolate the motors to a different network or CAN line? I was thinking of adding another MCU on top of the ESP32 to only handle the motors but is there an alternative to this approach, preferably one without adding more hardware?
-
-3d ago
+1d ago
 
 ---
 
-**[3D-printed rovers using pointcloud/depth (DA3) instead of LIDAR](https://www.reddit.com/r/robotics/comments/1u8cjkw/3dprinted_rovers_using_pointclouddepth_da3/)**
+**[Major release: bonsai-bt AI behavior trees now have python bindings and live visualisations](https://www.reddit.com/r/robotics/comments/1ubitmi/major_release_bonsaibt_ai_behavior_trees_now_have/)**
 
-Hey everybody! Hobbyist here with an update on my cheap rover swarm project. I've been trying out Depth Anything 3 and wanted to share, because the results of such minimal hardware surprised me. The setup: each rover is just a XIAO ESP32-S3 Sense (~$15 board with a tiny onboard camera) in a 3D printed body. The ESP32 is basically a sender, it streams the camera over WiFi and reports temperature/battery/telemetry. All the heavy lifting (DA3 inference, navigation) runs on a PC that acts as the brain. No lidar, no depth sensor, one cheap RGB camera. DA3 gives me a point cloud per frame and can merge multiple frames into a larger cloud. Seeing a $15 camera produce a usable 3D-ish image of the room is still kind of wild to me. Eventually I want to use it for navigation - a kind of "poor man's lidar". It estimates what's near at three heights (eye level, above, below) to give a rough obstacle sense without a dedicated sensor. Secondly for visualization at the moment, but the goal is to stitch frames into an environment map. Positioning is currently handled by ArUco markers around the room (solvePnP). Still early and held together with hope, but it's been fun pushing this hardware further than it wamts to go. :-)
+If you not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics, game NPCs and any agent that needs predictable, debuggable decision-making. We just introduced python bindings and a live view of the behavior tree. Also, we have added tons of new examples to get you going. For more, see: github: https://github.com/sollimann/bonsai pypi: https://pypi.org/project/bonsai-bt/
 
-4d ago
+10h ago
 
 ---
 
-**[Boston Dynamics Atlas Product Director on Humanoid ROI](https://www.reddit.com/r/robotics/comments/1u8e4xf/boston_dynamics_atlas_product_director_on/)**
+**[Walking robot 3d printed, 4 servos and. Arduino](https://www.reddit.com/r/robotics/comments/1ubhagk/walking_robot_3d_printed_4_servos_and_arduino/)**
 
-Aya Durbin says humanoid robots need to prove real customer value before they can scale. She says the goal for Atlas is not just to be impressive, but to deliver positive ROI for customers. Boston Dynamics is focusing on industrial environments first, especially work that is hard to hire for, physically demanding and difficult to automate with traditional systems. She also says customers need robots that are reliable, useful and able to become a trusted part of the workforce.
+11h ago
 
-3d ago
+---
+
+**[Would a small public egocentric robotics dataset be useful for testing pipelines?](https://www.reddit.com/r/robotics/comments/1ubpfzr/would_a_small_public_egocentric_robotics_dataset/)**
+
+Disclosure: I work with a commercial robotics data collection team. This is not a sales post. I've been comparing different human-demonstration formats for robot manipulation, and I'm curious which configuration researchers find most useful for initial testing. The main options seem to be: • Egocentric video only • Egocentric + two wrist cameras • Task and step labels • Country and collection metadata Egocentric-only data is easier to scale, but hands often block the object. Wrist views improve grasp visibility, although synchronization and motion blur create extra problems. We're considering releasing a small free public evaluation sample from the US, UK and Australia. It would require no signup, email or contact details. Which format would be most useful for testing an existing manipulation or imitation-learning pipeline? Also, what minimum information should be included: camera calibration, FPS, task labels, timestamps, licensing documentation or failure examples? I can share the public sample in a follow-up only if the moderators confirm that it is appropriate.
+
+4h ago
+
+---
+
+**[Help with cable management for my hexapod](https://www.reddit.com/r/robotics/comments/1ub7nao/help_with_cable_management_for_my_hexapod/)**
+
+Everything works fine, just for these maze of cables, I have run out of ideas, how do I actually get rid of the mess? I am using 2 16 channel servo drivers. all 18 (plus 2 for camera) are connected to those 2. I am using a buck converter on top and a 4200 MAH battery. The raspberry pi relays all info to my laptop and it control the motion additionally i also need space to put an imu sensor over it. Help !!
+
+19h ago
+
+---
+
+**[BRUNO MK-III: Third attempt to build a small robodog chassis](https://www.reddit.com/r/robotics/comments/1ubnw4z/bruno_mkiii_third_attempt_to_build_a_small/)**
+
+It seems that everyone around is building robots these days. Overcoming my laziness, I decided to also build my own small robodog, and I'm sharing the result of this project, which took me quite a bit of trials and errors during long evenings. All parts were designed from scratch. Everything that is plastic was 3D printed. Everything that isn't plastic was sourced from generic stores - there are no custom CNC orders here. The main SBC is a Radxa Zero 3W running Ubuntu 24.04 with ROS 2 Jazzy. The servos are powered by a Sunflower PCA9685 driver board. There are two separate power rails: 5V for the Radxa and 6-7V for the servos. The trotting gait is shown in the video. I'm currently using an inverse kinematics algorithm, but my long-term plans include Tensor Lite and trained neural networks for skills. The project is still ongoing - I have so many things to try and learn. But it is solid enough as a good foundation for future iterations.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 5h ago
 
 ---
 
@@ -126,6 +126,28 @@ Small Wars Journal • 1d ago
 
 ---
 
+**[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[St. Francis High School's robotics team heads to World Championships](https://www.kcra.com/article/saint-francis-robotics-team-world-championships-2026/71639376)**
+
+St. Francis High School's robotics team is preparing to compete at the World Championships in Canada, where the girls will showcase the underwater robot that they designed and built during the school year.
+
+KCRA • 1d ago
+
+---
+
+**[Rivian's CEO Is Taking On Elon Musk In Humanoid Robots](https://finance.yahoo.com/technology/ai/articles/rivians-ceo-taking-elon-musk-150019724.html)**
+
+Rivian Automotive Inc. CEO RJ Scaringe has a plan to put robots on factory floors. He also has $1 billion to back it up. Mind Robotics Mind Robotics was launched in late 2025 as a spin-out from the EV maker — growing from an internal initiative called “Project Synapse.” In less than six months, the company had raised over $1 billion across three rounds: a $115 million seed led by Eclipse, a $500 million Series A co-led by Accel and Andreessen Horowitz and a $400 million follow-on led by Kleiner
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
 
 Your weekly selection of awesome robot videos
@@ -139,14 +161,6 @@ IEEE Spectrum • 2d ago
 Members of Alexandria City High School's award-winning Titan Robotics team are protesting a decision to move the team to a new, smaller dedicated classroom space at the King Street Campus. Last September, the award-winning Titan Robotics team was informed they would have to divide their 4,000-square-foot space next to the school gym with a new
 
 ALXnow • 1d ago
-
----
-
-**[Alibaba (BABA) Faces Pentagon Blacklist As It Pushes Deeper Into AI Robotics](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-faces-pentagon-blacklist-201559991.html)**
-
-Alibaba Group Holding (NYSE:BABA) was recently added to a new Pentagon blacklist that cites alleged ties to the Chinese military, which the company rejects and plans to contest. Analysts currently see limited direct business impact, but the move introduces fresh geopolitical and regulatory uncertainty for Alibaba. At the same time, Alibaba is accelerating its AI push, unveiling robotics models aimed at logistics, warehousing, and business operations. Ant Group has rolled out an AI overhaul...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -170,21 +184,7 @@ olympics.com • 2d ago
 
 Hyundai Motor Group, the world's third-largest carmaker, is poised to secure full ownership of US robotics company Boston Dynamics by acquiring the remaining 9
 
-KED Global • 2h ago
-
----
-
-**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
-
-AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
-
-AP News • 1d ago
-
----
-
-**[Will China’s AI-powered agribots repeat its EV success story?](https://www.scmp.com/economy/article/3357363/will-chinas-ai-powered-agribots-repeat-its-ev-success-story)**
-
-South China Morning Post • 2h ago
+KED Global • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 3K • 👍 149 • 💬 14 • ⏱️ 1:04:55 • 18h ago
+👁️ 3K • 👍 149 • 💬 14 • ⏱️ 1:04:55 • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://grou
 
 📺 InsideAI
 
-👁️ 956K • 👍 30K • 💬 3K • ⏱️ 15:10 • 6d ago
+👁️ 956K • 👍 30K • 💬 3K • ⏱️ 15:10 • 7d ago
 
 ---
 
@@ -248,7 +248,7 @@ In this incredible footage shared by Figure AI CEO Brett Adcock, hundreds of hum
 
 📺 Perigee Tech
 
-👁️ 15K • 💬 2 • ⏱️ 0:05 • 5h ago
+👁️ 15K • 💬 2 • ⏱️ 0:05 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-21T15:25:56.069896+00:00'
+updated: '2026-06-21T17:05:12.931058+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 21, 2026 at 15:25 UTC  
+**Last Updated:** June 21, 2026 at 17:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
 
-5h ago
+7h ago
 
 ---
 
@@ -49,21 +49,7 @@ A data center was forced through government approval in Utah despite the citizen
 
 Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
 
-4h ago
-
----
-
-**[Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/)**
-
-Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 7h ago
-
----
-
-**[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 22h ago
+5h ago
 
 ---
 
@@ -71,15 +57,23 @@ Investigation finds AI content that purports to show genuine customers, promptin
 
 A few months ago, when I ran a deep research query, the Al would actually sit there and grind for 20 to 30 minutes. You could see it pulling from hundreds of different sources to build a massive, detailed report. ​ Now? The entire process wraps up in under 7 minutes. ​ I've recently switched from ChatGPT to Gemini and I taught it was a Gemini specific thing, switched to ChatGPT and it's even worse there. ​ What happened? Deep research in it's current form isn't very "deep"...
 
-10m ago
+1h ago
 
 ---
 
-**[AIs can do world-modeling now, as seen via the Anthropic Fable standoff](https://www.reddit.com/r/artificial/comments/1ubs2hj/ais_can_do_worldmodeling_now_as_seen_via_the/)**
+**[Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/)**
 
-Many have speculations on how the Anthropic saga with Fable will end. Prediction markets cover it too, giving a <50% chance of a re-release by July 1. This post isn't about my conclusion. Instead I want to share how AI can be used for world-modeling such situations, and gesture towards what the world will look like with autonomous AI systems get better at this than humans. I see three challenges with modeling the Anthropic situation: I can't rule out 4 different versions of what happened that caused the the June 12 order in the first place. There are many outcomes to forecast, from who gets access to when, to what new policies are enacted, to how Anthropic might change Fable There are informational updates almost every day, requiring a re-evaluation of almost everything. Claude generated the image here of the causal graph that models this all out, starting with (a) Scenarios for what happened so far, (b) Moves each side can make, and (c) Outcomes. (I did this mostly by hand, my choice of key scenarios and outcomes, but in the future it shouldn't be too hard for an LLM-agent system to do this part.) I ended up with a large combination of unconditional and conditional forecasting questions, in total 33 I consider critical, to get an answer. Then I had to forecast. LLM agents can shine here as AI forecasters are about as good as human crowds now (e.g. see ForecastBench). And anyway 33 forecasts at the quality of crowds of humans would take 100+ hours, so it's not an option for a fast-moving situation. I used FutureSearch for all of these. The forecasts have reasoning like: Conditional on the assumption that the security rationale is substantially pretextual and the but-for driver is White House political leverage tied to the Department of War feud and Anthropic's impending IPO (Scenario A3), this dispute must be analyzed as a power negotiation rather than a technical remediation problem... These are already very good forecasts, and will only get better. The final step was to reconcile everything. All the research done in all the forecasts were done independently by LLM agents, and were not consistent with each other. I did this by raising all the inconsistencies in Claude Code and addressing them manually, but again you can imagine a world-model-reconciliation module that uses a new set of LLM agents that fix up all the inconsistencies. More detail on the process, and all the results, are in https://www.lesswrong.com/posts/zhRe3tdBpsZbGCdDK/world-modeling-the-us-vs-anthropic-standoff-on-claude-fable https://preview.redd.it/4kpdghqmen8h1.png?width=1600&format=png&auto=webp&s=e2736b822a4c0117567a5821ac049aa542b8bb32
+Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-31m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 9h ago
+
+---
+
+**[How do you talk to your management about how to use ai for work management?](https://www.reddit.com/r/artificial/comments/1ubuaou/how_do_you_talk_to_your_management_about_how_to/)**
+
+We got given ai with no instructions. But all the tools are there to make a work structure rather easily. Where and how to put information so the ai can read it for all the people in the team. And although it's there and fairly seamlessly built in the pattern for how to use it isn't. So I went to talk to my boss about how to apply a structure to integrate AI into the work structure. How? How do you get management to understand where information needs to be put. How to get them to use the tools that make that happen easily. ​ I think some things are missing. Like an email client that knows the management prompt and knows the team emails and chat and helps answer questions before an email is sent. Hr policy for company down to the team. How to describe these kinds of things to management? ​
+
+39m ago
 
 ---
 
@@ -87,31 +81,37 @@ Many have speculations on how the Anthropic saga with Fable will end. Prediction
 
 motion_ctrl / experiment nº3 choreography: Sara Silkin dancers: Coco Williams & Joey Vice vfx: myself In collaboration with Sara, I transformed an iPhone recording of this beautiful performance, into this multi-angle audiovisual piece, with the help of Midjourney V8 Alpha, and Uisato Studio. I managed to do in using no ultra-expensive equipment, nor full-production budget. All in a single platform + editing software. [A few years ago, this would have costed several thousand bucks.] I've been uploading a few freely accessible detailed breakdown for you all on my Patreon page aswell, hope you guys enjoy them! More experiments, tutorials, and project files, through Instagram, YouTube, and the Studio.
 
-38m ago
-
----
-
-**[The data black hole at the center of AI](https://www.reddit.com/r/artificial/comments/1ubrbiu/the_data_black_hole_at_the_center_of_ai/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=4pG3SJQPAwk) • 1h ago
-
----
-
-**[My personal experience from last 4 years about AI](https://www.reddit.com/r/artificial/comments/1ubpzj7/my_personal_experience_from_last_4_years_about_ai/)**
-
-Hey everyone, i don't know it will approve or not btw Im Akash I’ve been building in the AI space for the last 4 years pretty much since ChatGPT first dropped and blew everything up. During that time, my team and we have built a ton of stuff: custom AI chatbots, SaaS platforms, automated customer support systems, and a lot of tailored products. ​ In the beginning, crafting the perfect prompt felt like finding a secret cheat code. If you didn't phrase things exactly right, the output was hot garbage. ​ But honestly? Looking at the landscape right now, using AI has become incredibly common and, frankly, pretty easy. The llms have gotten so smart that they understand terrible, poorly formatted prompts shockingly well. You don’t need to be a "prompt wizard" anymore to get a decent result. ​ So, if prompting isn't the competitive advantage anymore, what is? ​ From my experience building these products for actual business use cases, the real bottleneck and the real moat is your data. ​ AI doesn’t just need a clever question; it needs deep, accurate context. The businesses that are actually winning the AI transition right now aren’t the ones with a secret library of prompt templates. They’re the ones focusing on: ​ Data Volume Across Sectors: Collecting and organizing data from every single corner of the business (sales, support, logistics, ops). The more touchpoints you actually map out, the better the AI can understand the business ecosystem. ​ Clean Data & Context: If your data is messy, fragmented, or siloed, the AI is just going to spit out generic answers. Clean, rich data gives the model the exact context it needs to deliver hyper-tailored, actually useful outputs. ​ If you want your AI tools to actually drive ROI, stop spending weeks tweaking your system prompts. Go fix your data pipelines instead. Context is king, but data is the kingdom. ​ Curious to hear from other devs and founders building right now are you guys seeing the same shift? Are you spending more time on data ingestion or still tweaking prompts?
-
 2h ago
 
 ---
 
-**[What do you think is currently the biggest technical limitation in generative AI video?](https://www.reddit.com/r/artificial/comments/1ubne3w/what_do_you_think_is_currently_the_biggest/)**
+**[Open-source VS Code agent "Shofer" brings design-pattern-style repeatability to multi-agent coding workflows](https://www.reddit.com/r/artificial/comments/1ubv58o/opensource_vs_code_agent_shofer_brings/)**
 
-Generative video quality has improved a lot, but there are still some consistent challenges across different models.
+A new open-source AI coding assistant named Shofer has been released under the Apache 2.0 license. Built as a VS Code extension, the project's distinguishing feature is a deterministic, non-LLM-driven multi-agent workflow execution: making agent runs in a repeatable and inspectable manner, rather than ad-hoc. Think of it like "design patterns for multi-agent collaboration" that can be written once and shared with many. The project also ships with beautiful live in-editor visualizations to help you introspect the agent interactions. Other noteworthy features are: a persistent "Live Memory" companion that accumulates codebase knowledge across sessions; kernel-level command sandboxing; semantic search over both code and git history; and hard per-task and per-session USD cost caps that work across providers. Shofer supports dozens of LLM providers under a bring-your-own-model model and includes migration paths from Copilot, Claude Code, OpenCode, and Roo Code. The source is available at github.com/shofer-dev/shofer.
 
-4h ago
+5m ago
+
+---
+
+**[Where do you see prediction and decision-making separating in AI systems?](https://www.reddit.com/r/artificial/comments/1ubu3cy/where_do_you_see_prediction_and_decisionmaking/)**
+
+A lot of AI systems are used for prediction tasks like forecasting outcomes, generating outputs, or estimating probabilities based on data. One thing I keep thinking about is how these systems are used in practice once they are connected to real workflows. In some cases, they stay focused on prediction, while in others they seem to become part of how decisions are made using those predictions. I am trying to understand where people draw the line between a system that only produces predictions and one that becomes part of the decision process itself, especially as models become more responsive and update their outputs more frequently. Where do you personally see that line today, if it exists at all?
+
+47m ago
+
+---
+
+**[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 1d ago
+
+---
+
+**[Most AI security tools inspect messages. Arc Gate inspects sessions.](https://www.reddit.com/r/artificial/comments/1ubt8qj/most_ai_security_tools_inspect_messages_arc_gate/)**
+
+One thing that’s always felt weird to me about prompt injection defenses is that they usually evaluate one message at a time. But a lot of the attacks I’m seeing don’t really work that way. A webpage says something subtle. A tool result reinforces it. An email adds another nudge. Nothing looks obviously malicious on its own, but a few turns later the agent is heading somewhere it definitely shouldn’t. That was the motivation behind Arc Gate. Instead of looking at each message in isolation, it keeps track of what’s happening across the entire session. It also treats different sources differently. A system prompt, a user message, a webpage, and a tool output shouldn’t all have the same authority just because they ended up in the same context window. The goal isn’t just to catch bad prompts. It’s to stop agents from taking actions based on instructions hidden inside untrusted data. I’m curious whether other people building agents think this is the right direction, or if I’m overthinking a problem that existing approaches already solve. Repo: https://github.com/9hannahnine-jpg/arc-gate
+
+1h ago
 
 ---
 
@@ -123,47 +123,7 @@ Generative video quality has improved a lot, but there are still some consistent
 
 Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-The Guardian • 9h ago
-
----
-
-**[J. D. Vance’s AI Doctrine](https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/)**
-
-The vice president is making a case that is part Silicon Valley, part MAGA.
-
-The Atlantic • 4h ago
-
----
-
-**[Cardiff hospital park and ride could become AI data centre](https://www.bbc.com/news/articles/cy49eemj9jxo)**
-
-A free park and ride service for hospital staff, patients and visitors could be scrapped.
-
-BBC • 1h ago
-
----
-
-**[Tesla plans to sell modular AI data center hardware called ‘Megapod’](https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/)**
-
-Tesla wants to sell modular AI data center hardware, according to a new trademark application for a product called “Megapod.”...
-
-Electrek • 59m ago
-
----
-
-**[Opinion | AI backlash threatens to hold back kids](https://www.washingtonpost.com/opinions/2026/06/21/new-york-city-politicians-push-moratorium-ai-schools/)**
-
-Most of the New York City Council wants a moratorium on using artificial intelligence in schools.
-
-The Washington Post • 18m ago
-
----
-
-**[No one wants AI data centers on Earth. Do they make sense in space?](https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html)**
-
-Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
-
-CNBC • 1h ago
+The Guardian • 1h ago
 
 ---
 
@@ -171,31 +131,71 @@ CNBC • 1h ago
 
 The AI trade started with chips. Now it's running into the electric grid.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Employers want more AI-fluent workers. It’s testing young graduates’ loyalties.](https://www.bostonglobe.com/2026/06/21/business/gen-z-ai-commencement-speeches-backlash-job-fears/)**
+**[AI takes center stage at this year’s U.S. Open, helping fans follow the action and golfers navigate the rules](https://www.nbcnews.com/sports/golf/us-open-golf-artificial-intelligence-rcna350498)**
 
-While emerging as some of the most frequent and savvy users of generative artificial intelligence, Gen Z also remains its staunchest opponent, studies show.
+The U.S. Golf Association hopes the new tools will help fans enjoy the U.S. Open and equip recreational players to navigate the sport’s rulebook.
 
-The Boston Globe • 4h ago
-
----
-
-**[Nobel Laureate Daron Acemoglu on the 'brainless' AI discourse, the myth of capitalism and the Gen Z revolution risk](https://fortune.com/2026/06/21/nobel-laureate-daron-acemoglu-ai-productivity-capitalism-democracy/)**
-
-The MIT economist and Nobel Prize winner doesn't mince words: most of what you're reading about AI is wrong, and the stakes for getting it right are existential.
-
-Fortune • 6h ago
+NBC News • 13m ago
 
 ---
 
-**[Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)**
+**[The Next $1 Trillion AI Winner May Already Be Hiding Inside Nvidia's Supply Chain](https://finance.yahoo.com/technology/ai/articles/next-1-trillion-ai-winner-164907486.html)**
 
-The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
+Marvell Technology is becoming the market's next hot AI growth stock.
 
-The Cloudflare Blog • 2d ago
+Yahoo Finance • 16m ago
+
+---
+
+**[No one wants AI data centers on Earth. Do they make sense in space?](https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html)**
+
+Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
+
+CNBC • 3h ago
+
+---
+
+**[AI regulation is a mess, and Anthropic is caught in the crosshairs](https://www.cnn.com/2026/06/21/tech/anthropic-ai-regulation)**
+
+The latest spat between Anthropic and the government raises a broad concern among AI and safety researchers: There is no consistent framework for regulating AI.
+
+CNN • 1h ago
+
+---
+
+**[Did Anthropic talk its way into an AI export ban?](https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb?syn-25a6b1a6=1)**
+
+FT analysis shows company warned about dangers of advanced AI far more than rival OpenAI this year
+
+Financial Times • 1d ago
+
+---
+
+**[Will All New AI Models Be Classified As Military Grade?](https://www.forbes.com/sites/paulbaier/2026/06/21/will-all-new-ai-models-be-classified-as-military-grade/)**
+
+This article discuss if the US government will regulated the most advanced AI models.  It argues that we have hit a cap on the most advanced AI models
+
+Forbes • 2h ago
+
+---
+
+**[Why an AI company cleaned my New York City apartment for free](https://www.bbc.com/news/articles/cpwerjy20kyo)**
+
+An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
+
+BBC • 17h ago
+
+---
+
+**[I’d Rather Risk Cancer Than See AI Move This Fast](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)**
+
+I’d benefit if AI cured cancer. And I still want AI progress to slow down.
+
+The Atlantic • 5h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Cloudflare Blog • 2d ago
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 801 • 💬 575 • 1d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 802 • 💬 581 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -213,7 +213,7 @@ The Cloudflare Blog • 2d ago
 
 How earbuds influence our beliefs and push us apart.
 
-⬆️ 442 • 💬 769 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 442 • 💬 770 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
 ---
 
@@ -221,7 +221,7 @@ How earbuds influence our beliefs and push us apart.
 
 AI Engineer Claims to Have Cracked Linear A
 
-⬆️ 442 • 💬 173 • 1d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
+⬆️ 442 • 💬 173 • 2d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
 
 ---
 
@@ -243,7 +243,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 232 • 💬 131 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 232 • 💬 136 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -251,7 +251,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 208 • 💬 141 • 14h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 210 • 💬 145 • 16h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -259,13 +259,13 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 137 • 💬 34 • 10h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 159 • 💬 39 • 12h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
 **[The 100k Whys of AI](https://news.ycombinator.com/item?id=48616017)**
 
-⬆️ 126 • 💬 72 • 9h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+⬆️ 133 • 💬 77 • 11h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
 
 ---
 
@@ -287,7 +287,7 @@ these new Chinese AI Models are INSANE, so I put them up to the challenge today 
 
 📺 tef
 
-👁️ 24K • 👍 1K • 💬 258 • ⏱️ 10:34 • 12h ago
+👁️ 24K • 👍 1K • 💬 258 • ⏱️ 10:34 • 14h ago
 
 ---
 
@@ -297,7 +297,7 @@ AI is creating trillion-dollar opportunities... but most investors are looking i
 
 📺 Ross Givens
 
-👁️ 31K • 👍 2K • 💬 256 • ⏱️ 9:51 • 2d ago
+👁️ 31K • 👍 2K • 💬 256 • ⏱️ 9:51 • 3d ago
 
 ---
 
@@ -327,7 +327,7 @@ Once again, answering your questions! Don't forget to write any new ones in the 
 
 📺 Brian Hull
 
-👁️ 5K • 👍 504 • 💬 167 • ⏱️ 9:21 • 23h ago
+👁️ 5K • 👍 504 • 💬 167 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Use code TIS at https://incogni.com/tis to get an exclusive 60% off. Anthropic s
 
 📺 Tech Aakash Help
 
-👁️ 12K • 👍 694 • 💬 228 • ⏱️ 23:07 • 8h ago
+👁️ 12K • 👍 694 • 💬 228 • ⏱️ 23:07 • 10h ago
 
 ---
 
@@ -501,7 +501,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 32,260 • ❤️ 217 • 2d ago
+⬇️ 32,260 • ❤️ 217 • 3d ago
 
 ---
 
@@ -657,7 +657,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 45.1k • 🔱 2.2k • 15h ago
+⭐ 45.1k • 🔱 2.2k • 16h ago
 
 ---
 
@@ -667,7 +667,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.2k • 🔱 941 • 2h ago
+⭐ 10.2k • 🔱 941 • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.3k • 🔱 481 • 1h ago
+⭐ 4.3k • 🔱 481 • 3h ago
 
 ---
 
@@ -707,7 +707,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 2.0k • 🔱 173 • 21h ago
+⭐ 2.0k • 🔱 173 • 22h ago
 
 ---
 

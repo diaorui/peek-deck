@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T15:25:56.082879+00:00'
+updated: '2026-06-21T17:05:12.945881+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 15:25 UTC  
+**Last Updated:** June 21, 2026 at 17:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -3.7%  
-**30d:** -18.4%  
+**24h:** +0.0%  
+**7d:** -3.8%  
+**30d:** -18.5%  
 **90d:** -19.8%  
 **1y:** -22.3%  
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -162,15 +162,15 @@ CoinDesk • 8h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Is Ethereum a Buy After Falling 63% From Its All-Time High?](https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-falling-63-time-122800562.html)**
+**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
 
-Ethereum is down big in 2026, but two key catalysts could soon send it soaring in value.
+zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 3h ago
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -210,7 +210,7 @@ Yahoo Finance • 2d ago
 
 Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 1K • 👍 142 • 💬 141 • ⏱️ 10:44 • 1h ago
+👁️ 1K • 👍 142 • 💬 141 • ⏱️ 10:44 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 172 • 💬 121 • ⏱️ 18:36 • 23h ago
+👁️ 4K • 👍 172 • 💬 121 • ⏱️ 18:36 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 240 • 👍 10 • 💬 52 • ⏱️ 4:19 • 4h ago
+👁️ 240 • 👍 10 • 💬 52 • ⏱️ 4:19 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 103 • ⏱️ 7:13 • 11h ago
+👁️ 1K • 👍 103 • ⏱️ 7:13 • 13h ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum conti
 
 📺 Crypto Meridian
 
-👁️ 1K • 👍 16 • 💬 38 • ⏱️ 2:03 • 19h ago
+👁️ 1K • 👍 16 • 💬 38 • ⏱️ 2:03 • 21h ago
 
 ---
 
@@ -300,7 +300,7 @@ XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #cryp
 
 📺 MrNasdog
 
-👁️ 2K • 👍 42 • 💬 2 • ⏱️ 1:02 • 12h ago
+👁️ 2K • 👍 42 • 💬 2 • ⏱️ 1:02 • 13h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 359 • 💬 314 • ⏱️ 20:39 • 21h ago
+👁️ 8K • 👍 359 • 💬 314 • ⏱️ 20:39 • 23h ago
 
 ---
 
@@ -330,7 +330,7 @@ Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Say
 
 📺 The Coin Daily
 
-👁️ 23K • 👍 5 • ⏱️ 6:58 • 1d ago
+👁️ 23K • 👍 5 • ⏱️ 6:58 • 2d ago
 
 ---
 
