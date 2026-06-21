@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-21T01:58:36.398966+00:00'
+updated: '2026-06-21T06:58:59.817838+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 21, 2026 at 01:58 UTC  
+**Last Updated:** June 21, 2026 at 06:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[I use my hand to control Iron Man's helmet](https://www.reddit.com/r/robotics/comments/1u8xlm1/i_use_my_hand_to_control_iron_mans_helmet/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -134,19 +134,19 @@ Anthropic • 2d ago
 
 ---
 
-**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+**['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo)**
 
-AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.
 
-AP News • 1d ago
+BBC • 3d ago
 
 ---
 
-**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
+**[Alibaba (BABA) Faces Pentagon Blacklist As It Pushes Deeper Into AI Robotics](https://finance.yahoo.com/technology/ai/articles/alibaba-baba-faces-pentagon-blacklist-201559991.html)**
 
-AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
+Alibaba Group Holding (NYSE:BABA) was recently added to a new Pentagon blacklist that cites alleged ties to the Chinese military, which the company rejects and plans to contest. Analysts currently see limited direct business impact, but the move introduces fresh geopolitical and regulatory uncertainty for Alibaba. At the same time, Alibaba is accelerating its AI push, unveiling robotics models aimed at logistics, warehousing, and business operations. Ant Group has rolled out an AI overhaul...
 
-inc.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -158,14 +158,6 @@ ALXnow • 1d ago
 
 ---
 
-**[Is Hyperscale Data (GPUS) Quietly Rewriting Its AI Infrastructure Strategy With Robotics And Preferred Dividends?](https://finance.yahoo.com/technology/ai/articles/hyperscale-data-gpus-quietly-rewriting-031954574.html)**
-
-Hyperscale Data, Inc. recently disclosed that its Omnipresent Robotics subsidiary has begun production of the first 30 OPR-R2 humanoid robots for deployment at its Michigan AI data center campus, while the board declared monthly cash dividends on its 13.00% Series D and 10.00% Series E preferred stock payable on July 10, 2026. This combination of AI-focused infrastructure, embodied robotics for real-world data generation, and ongoing preferred dividends underscores Hyperscale Data’s shift...
-
-Yahoo Finance • 1d ago
-
----
-
 **[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
 
 Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
@@ -174,11 +166,19 @@ olympics.com • 1d ago
 
 ---
 
-**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
+**[What Amazon’s Astro Taught Me About Giving Robots a Soul](https://spectrum.ieee.org/amazon-astro-robot-sound)**
 
-Your weekly selection of awesome robot videos
+Character is the difference between a machine people tolerate and a product people trust
 
 IEEE Spectrum • 1d ago
+
+---
+
+**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
+
+AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
+
+AP News • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 1K • 👍 90 • 💬 10 • ⏱️ 1:04:55 • 5h ago
+👁️ 3K • 👍 124 • 💬 11 • ⏱️ 1:04:55 • 10h ago
 
 ---
 
@@ -210,7 +210,27 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 277K • 👍 12K • 💬 2K • ⏱️ 2:51 • 3d ago
+👁️ 284K • 👍 12K • 💬 2K • ⏱️ 2:51 • 3d ago
+
+---
+
+**[Making MINOS into the ULTIMATE BRAWLER [War Robots]](https://www.youtube.com/watch?v=2es0sSYZ87M)**
+
+War Robots Gameplay: MINOS as the Ultimate Brawler with Chasm My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 5K • 👍 289 • 💬 61 • ⏱️ 16:29 • 17h ago
+
+---
+
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+
+📺 Carros Show
+
+👁️ 4K • 👍 142 • 💬 13 • ⏱️ 21:44 • 1d ago
 
 ---
 
@@ -224,33 +244,23 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 ---
 
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
-
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
-
-📺 Carros Show
-
-👁️ 3K • 👍 131 • 💬 13 • ⏱️ 21:44 • 1d ago
-
----
-
 **[AI agent buys itself a robot and car, does exactly what experts warned](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
 
 AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
 
 📺 InsideAI
 
-👁️ 930K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
+👁️ 938K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
 
 ---
 
-**[You&#39;ve Never Seen a Robot Like This Before | xLean TR1 First Look](https://www.youtube.com/watch?v=61Q6YahmXNA)**
+**[&quot;ChatGPT Moment&quot; for Robotics Is Coming. The Real Problem Isn&#39;t Intelligence | Stanford, Catie Cuan](https://www.youtube.com/watch?v=9eHNYMuvQjA)**
 
-xLean-robotics The xLean TR1 is one of the most unusual cleaning robots I've tested. Instead of simply following a preset route, ...
+Catie Cuan, Stanford Roboticist, Robot Choreographer, and founder of ART Lab (AI Robot Technology), breaks down why the ...
 
-📺 The Q
+📺 EO
 
-👁️ 300K • 👍 5K • 💬 447 • ⏱️ 6:20 • 3d ago
+👁️ 15K • 👍 509 • 💬 43 • ⏱️ 18:51 • 4d ago
 
 ---
 
@@ -260,7 +270,7 @@ Companies like 1X and Unitree are spending millions trying to build robot compan
 
 📺 Business Insider
 
-👁️ 137K • 👍 3K • 💬 617 • ⏱️ 17:26 • 6d ago
+👁️ 143K • 👍 3K • 💬 648 • ⏱️ 17:26 • 6d ago
 
 ---
 
@@ -270,27 +280,17 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 30K • 👍 576 • 💬 91 • ⏱️ 0:32 • 1d ago
+👁️ 31K • 👍 587 • 💬 91 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[is Ukraine&#39;s Robot Army Actually Working?](https://www.youtube.com/watch?v=Y5kE5XBYvyw)**
+**[Are the NEW GUNS on SHOGGOTH too good? [War Robots]](https://www.youtube.com/watch?v=4wr5VgFJoBo)**
 
-Try Odoo's all-in-one business solution and see how it can make your life easier! Check it out at ▸ https://www.odoo.com/r/WAdk ...
+War Robots Gameplay: SHOGGOTH with the new Guns are too good? My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 HistoryLegends
+📺 Manni-Gaming
 
-👁️ 209K • 👍 10K • 💬 3K • ⏱️ 45:39 • 2d ago
-
----
-
-**[China&#39;s New $1,000 AI Humanoid Robots Are Taking Over the US Market](https://www.youtube.com/watch?v=s_sqtVb4mB0)**
-
-China's new generation of AI humanoid robots highlights the country's rapid progress in robotics, automation, and artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 164 • 💬 16 • ⏱️ 21:46 • 5d ago
+👁️ 9K • 👍 384 • 💬 68 • ⏱️ 13:40 • 2d ago
 
 ---
 

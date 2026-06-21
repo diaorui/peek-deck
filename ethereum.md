@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T01:58:36.395970+00:00'
+updated: '2026-06-21T06:58:59.815009+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 01:58 UTC  
+**Last Updated:** June 21, 2026 at 06:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -3.2%  
-**30d:** -18.0%  
-**90d:** -19.4%  
-**1y:** -21.9%  
+**24h:** +0.5%  
+**7d:** -3.3%  
+**30d:** -18.1%  
+**90d:** -19.5%  
+**1y:** -22.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
 
-15h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ earlier this year, i reconnected with my good friend, Jimmy Johnson, a 5 year Po
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -134,7 +134,7 @@ Picked up a portfolio of branded .eth domains, a few are real company names (air
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin](https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/)**
 
-zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
+If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-Yahoo Finance • 16h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -182,11 +182,19 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin](https://finance.yahoo.com/markets/crypto/articles/prediction-solana-replace-ethereum-no-023100249.html)**
 
-Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
+If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-unchainedcrypto.com • 1d ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
+
+Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -194,23 +202,7 @@ unchainedcrypto.com • 1d ago
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 1h ago
-
----
-
-**[Should You Add Ethereum to Your Portfolio Right Now?](https://www.fool.com/investing/2026/06/19/should-you-add-ethereum-to-your-portfolio-now/)**
-
-The coin's central issue is becoming harder to ignore.
-
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit Roadmap](https://www.tradingview.com/news/newsbtc:d08da64d0094b:0-ethereum-glamsterdam-upgrade-moves-toward-200m-gas-limit-roadmap/)**
-
-Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
-
-TradingView • 2d ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -222,11 +214,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Investors Trim Exposure to VanEck’s ETHV as Ethereum Slump Deepens](https://www.tipranks.com/news/cryptocurrencies/investors-trim-exposure-to-vanecks-ethv-as-ethereum-slump-deepens)**
+**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026-2/)**
 
-VanEck Ethereum ETF’s ETHV saw fresh pressure on June 18, 2026, as investors pulled $638,860 from the fund, marking a notable single-day outflow. With assets under ...
+Ethereum (ETH) could trade above $2,000 on July 1, 2026, according to a new price prediction generated by ChatGPT.
 
-TipRanks • 13h ago
+Finbold • 17h ago
+
+---
+
+**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
+
+Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
+
+Benzinga • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 130 • 💬 119 • ⏱️ 18:36 • 9h ago
+👁️ 3K • 👍 151 • 💬 120 • ⏱️ 18:36 • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 438 • 💬 43 • ⏱️ 17:32 • 1d ago
+👁️ 11K • 👍 472 • 💬 43 • ⏱️ 17:32 • 1d ago
 
 ---
 
@@ -260,45 +260,17 @@ While Bitcoin traded mostly sideways this week, two separate institutional moves
 
 📺 Fast Launch Digital
 
-👁️ 330 • 👍 22 • 💬 4 • ⏱️ 8:56 • 1d ago
+👁️ 993 • 👍 34 • 💬 4 • ⏱️ 8:56 • 1d ago
 
 ---
 
-**[BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E9s96evtBjA)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=wUISuDASZZY)**
 
-BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto World
+📺 Crypto Gyan
 
-👁️ 5K • 👍 274 • 💬 210 • ⏱️ 20:39 • 8h ago
-
----
-
-**[ETH HOLDERS MUST WATCH](https://www.youtube.com/watch?v=-QMT5u_x8C4)**
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 58 • 💬 79 • ⏱️ 0:24 • 7h ago
-
----
-
-**[Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk](https://www.youtube.com/watch?v=qGcD_25Ju-o)**
-
-Kalshi IPO talks, Ethereum Foundation exits, Fed impact, Iran volatility and Saylor risk Kalshi opens early IPO talks following a ...
-
-📺 The Coin Daily
-
-👁️ 23K • 👍 5 • ⏱️ 6:58 • 1d ago
-
----
-
-**[Jim Bianco: Why Crypto Still Matters Beyond Price](https://www.youtube.com/watch?v=yo9ju2TAwI8)**
-
-Jim Bianco explains why crypto is about more than Bitcoin and Ethereum price action. In this clip, we discuss Bitcoin trading under ...
-
-📺 AllinCrypto
-
-👁️ 316 • 👍 12 • 💬 59 • ⏱️ 1:00 • 5h ago
+👁️ 513 • 👍 64 • ⏱️ 7:13 • 2h ago
 
 ---
 
@@ -308,27 +280,55 @@ Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum conti
 
 📺 Crypto Meridian
 
-👁️ 1K • 👍 4 • ⏱️ 2:03 • 6h ago
+👁️ 1K • 👍 10 • 💬 37 • ⏱️ 2:03 • 11h ago
 
 ---
 
-**[Bitcoin&#39;s Line in the Sand: Hold or Head to $35K? (ETH, SOL, HYPE, ZEC, XMR)](https://www.youtube.com/watch?v=ixsWhinPagQ)**
+**[IS THERE VALUE IN ETHEREUM &amp; SOLANA STILL?!? BITCOIN MARKET UPDATE!](https://www.youtube.com/watch?v=9jg3KKOZYms)**
 
-No B.S. Just Charts. Bitcoin is at a make-or-break level right now — $63500 to $63700 — and whether it holds or breaks ...
+ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter for Market Updates and Trading Tips: ...
 
-📺 Gareth Soloway
+📺 EmperorBTC
 
-👁️ 62K • 👍 4K • 💬 280 • ⏱️ 16:06 • 2d ago
+👁️ 754 • 👍 92 • 💬 15 • ⏱️ 13:31 • 16h ago
 
 ---
 
-**[🚨 Why Tom Lee&#39;s Bitmine Just Bought 20,000 ETH — And What It Means For MSTR &amp; BMNR](https://www.youtube.com/watch?v=7gyT3taRms4)**
+**[BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=E9s96evtBjA)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 MONEY GAME
+📺 Crypto World
 
-👁️ 6K • 👍 167 • 💬 50 • ⏱️ 43:15 • 2d ago
+👁️ 7K • 👍 323 • 💬 217 • ⏱️ 20:39 • 13h ago
+
+---
+
+**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
+
+D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
+
+📺 XRP Bags
+
+👁️ 5K • 👍 472 • 💬 114 • ⏱️ 11:45 • 1d ago
+
+---
+
+**[ETH HOLDERS MUST WATCH](https://www.youtube.com/watch?v=-QMT5u_x8C4)**
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 72 • 💬 80 • ⏱️ 0:24 • 12h ago
+
+---
+
+**[Jim Bianco: Why Crypto Still Matters Beyond Price](https://www.youtube.com/watch?v=yo9ju2TAwI8)**
+
+Jim Bianco explains why crypto is about more than Bitcoin and Ethereum price action. In this clip, we discuss Bitcoin trading under ...
+
+📺 AllinCrypto
+
+👁️ 337 • 👍 15 • 💬 59 • ⏱️ 1:00 • 10h ago
 
 ---
 

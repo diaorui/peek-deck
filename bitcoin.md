@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T01:58:36.390447+00:00'
+updated: '2026-06-21T06:58:59.809741+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 01:58 UTC  
+**Last Updated:** June 21, 2026 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,255.48
+### $64,406.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
+**24h:** +0.9%  
 **7d:** -3.1%  
-**30d:** -16.3%  
-**90d:** -9.0%  
+**30d:** -16.2%  
+**90d:** -8.9%  
 **1y:** -36.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.85B
+**Market Cap:** $1287.42B
 Rank #1
 
-**Circulating Supply:** 20,045,678 BTC
+**Circulating Supply:** 20,045,787 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.1%
 
 **All-Time Low:** $67.81
-+94554.2%
++94613.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im looking for a decentralized way to bridge BTC to another without relying on a centralized custodian What are you guys using? Any recommendations or experiences sharing would be great- thanks
 
-15h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm wondering, if we see a liquidation cascade, or a series of Black Swan events
 
 Yes, I firmly believe
 
-15h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ Yes, I firmly believe
 
 Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named GameKyuubi logs onto BitcoinTalk to vent. He tries to type "I AM HOLDING" but fumbles the keyboard. "I AM HODLING" is born. He admits he’s a terrible trader who can't time the market, so he's just gonna sit on his stack. Fast forward a few hours, the typo goes viral. The absolute degen accidentally birthed the most iconic meme and investment strategy in crypto history. Zero coping, pure lore.
 
-18h ago
+23h ago
 
 ---
 
@@ -129,7 +129,7 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
 
-13h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWO
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-19h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
 
-13h ago
+18h ago
 
 ---
 
@@ -163,15 +163,7 @@ https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79
 
 CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-CNBC • 10h ago
-
----
-
-**[Strategy (MSTR) Buys $100 Million Of Bitcoin As Dilution Debate Gets Louder](https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-buys-100-million-111306013.html)**
-
-Strategy (NasdaqGS:MSTR) bought an additional 1,587 Bitcoin this week for $100 million, funded by new common stock issuance. The company revised its preferred dividend structure as preferred funding conditions tightened. These moves have prompted debate over shareholder dilution, including direct public responses from executive chair Michael Saylor. Strategy, trading at around $116.56, continues to lean heavily on its Bitcoin treasury as a core part of its identity. The stock is down 30.0%...
-
-Yahoo Finance • 2d ago
+CNBC • 15h ago
 
 ---
 
@@ -179,7 +171,15 @@ Yahoo Finance • 2d ago
 
 From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
+
+---
+
+**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-back-toward-60-174630587.html)**
+
+(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealMukesh Ambani’s Promise to Investors on Jio IPO Will
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -189,11 +189,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin mining data center trying to build near Somerville](https://www.decaturdaily.com/news/morgan_county/bitcoin-mining-data-center-trying-to-build-near-somerville/article_59757f8f-a8cb-496c-b551-43f037e8c3b8.html)**
+**[CZ Floats Freezing Satoshi’s Bitcoin Over Quantum Risk](https://finance.yahoo.com/markets/crypto/articles/cz-floats-freezing-satoshi-bitcoin-190000810.html)**
 
-A bitcoin mining data center is attempting to build on the outskirts of Somerville, but nearby residents are doing all they can to block it, including refusing to sell parcels
+CZ floated freezing Satoshi's Bitcoin after a quantum fork but says it would be a community call, not a personal one.
 
-Decatur Daily • 20h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Somerville residents gather hundreds of signatures against bitcoin mining center](https://www.waff.com/2026/06/19/somerville-residents-gather-hundreds-signatures-against-bitcoin-mining-center/)**
+
+Somerville residents have gathered hundreds of petition signatures against a proposed bitcoin mining center on Union Road.
+
+WAFF • 1d ago
 
 ---
 
@@ -201,21 +209,21 @@ Decatur Daily • 20h ago
 
 Public records show gubernatorial candidate Toby Doeden’s ties to Aberdeen-area real estate, car dealerships, a TIF project and bitcoin mining.
 
-KOTA Territory News • 11h ago
+KOTA Territory News • 16h ago
 
 ---
 
-**[Live updates: Bitcoin has traded below its mining cost for five months, squeezing miners](https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners)**
+**[JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost](https://bitcoinmagazine.com/news/jpmorgan-bitcoin-mining-costs-worsened)**
 
-About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.
+JPMorgan says Bitcoin mining economics have deteriorated as BTC trades about 19% below its estimated $78,000 production cost, forcing public miners into record coin sales and rendering roughly 20% of the industry unprofitable.
 
-CoinDesk • 10h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
 **[Bitcoin rises to near $64k, but Iran uncertainty limits broader recovery](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-traders-assess-regulatory-developments-4751609)**
 
-Investing.com • 6h ago
+Investing.com • 11h ago
 
 ---
 
@@ -223,15 +231,7 @@ Investing.com • 6h ago
 
 The crypto market moves fast. I checked the receipts from two years ago to see what's changed.
 
-The Motley Fool • 10h ago
-
----
-
-**[What Happens When Bitcoin Reaches 21 Million Supply?](https://www.theblock.co/learn/405386/what-happens-when-bitcoin-reaches-21-million-supply)**
-
-The BTC supply is capped at 21 million. Learn about why that limit was set and what will happen when the very last coin is mined.
-
-The Block • 1d ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -251,7 +251,7 @@ The cryptocurrency's latest selloff is forcing investors to revisit what role, i
 
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
-⬆️ 6 • 💬 0 • 4d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
+⬆️ 6 • 💬 0 • 5d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 nativ
 
 Quantum computing poses a real, broad-based, but bounded and substantially mitigable threat to Bitcoin and Ethereum. We separate the two quantum algorithms that public discussion routinely conflates: Shor's algorithm breaks the elliptic-curve signatures (ECDSA over secp256k1, BLS over BLS12-381) that authorize spending, whereas Grover's algorithm does not meaningfully threaten proof-of-work mining, which is protected by a merely quadratic speedup, fault-tolerant per-operation costs, a square-root parallelization wall, and difficulty adjustment. Folding hardware scaling, the falling resource requirement, a fault-tolerance readiness lag, and expert surveys into a single Monte-Carlo forecast yields a wide, bimodal arrival distribution for a cryptographically relevant quantum computer: about a one-in-six chance by 2035, near 30% by 2040, and about 60% by 2050. Exposure is concentrated and mostly migratable: of Bitcoin's roughly six million quantum-exposed coins only about 2.3 million are irreducibly at risk, while 50 to 65% of Ether sits at key-revealed accounts that can adopt post-quantum signatures. A timely migration beats even an optimistic 2035 machine, so the binding constraint is governance, not technology. A survey of the top twenty cryptocurrencies finds none fully post-quantum. Reproducible models accompany every quantitative claim.
 
-⬆️ 3 • 💬 0 • 5d ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
+⬆️ 3 • 💬 0 • 6d ago • [arXiv.org](https://arxiv.org/abs/2606.14484)
 
 ---
 
@@ -323,13 +323,23 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ## YouTube Videos: "bitcoin"
 
+**[Worst Crypto News Ever - Deep State Trying To Destroy Bitcoin Rally](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
+
+Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 1K • 💬 121 • ⏱️ 13:13 • 9h ago
+
+---
+
 **[Michael Saylor is about to BLOW UP Bitcoin! I Have To Show You This..](https://www.youtube.com/watch?v=KDjvXd8ilRU)**
 
 They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 258 • ⏱️ 11:44 • 1d ago
+👁️ 43K • 👍 2K • 💬 254 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -339,7 +349,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 35K • 👍 2K • 💬 311 • ⏱️ 14:27 • 1d ago
+👁️ 38K • 👍 2K • 💬 346 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -349,17 +359,17 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 147 • ⏱️ 17:05 • 1d ago
+👁️ 24K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Price Journey Through Every World Cup](https://www.youtube.com/watch?v=jfQI0PfMuqg)**
+**[Why Bitcoin Is Selling Off Right Now (Iran, the Fed &amp; Japan)](https://www.youtube.com/watch?v=9-1d-VZYtvY)**
 
-Bitcoin's price journey mirrors every World Cup! From $0.20 in 2010 to $62700 today, watch how crypto evolved alongside the ...
+In this video, I'm sharing why Bitcoin is selling off right now. This includes the Iran negotiation and MOU, the Fed & the Bank of ...
 
-📺 Summitgroup
+📺 Aaron Bennett
 
-👁️ 803 • 👍 8 • ⏱️ 0:41 • 12h ago
+👁️ 2K • 👍 121 • 💬 35 • ⏱️ 9:59 • 6h ago
 
 ---
 
@@ -369,27 +379,27 @@ Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 487 • 💬 68 • ⏱️ 1:28 • 3h ago
+👁️ 14K • 👍 891 • 💬 122 • ⏱️ 1:28 • 8h ago
 
 ---
 
-**[BITCOIN HISTORY IS REPEATING!!!](https://www.youtube.com/watch?v=9skFETZCHiQ)**
+**[Nobody Gives a Sh*t About Bitcoin (For Now) I Anthony Scaramucci](https://www.youtube.com/watch?v=pMXB7TU5q74)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Anthony Scaramucci is the founder and managing partner of SkyBridge, a global alternative investment firm, and founder and ...
 
-📺 Crypto Rover
+📺 Anthony Scaramucci
 
-👁️ 13K • 👍 741 • 💬 41 • ⏱️ 11:41 • 19h ago
+👁️ 36K • 👍 810 • 💬 21 • ⏱️ 0:41 • 2d ago
 
 ---
 
-**[Bitcoin Social Risk](https://www.youtube.com/watch?v=gAf6tPzkcgg)**
+**[Inside the debate over bitcoin vs gold](https://www.youtube.com/watch?v=8KIU8775W3c)**
 
-Let's discuss the Bitcoin social risk! Into The Cryptoverse Premium SALE (ENDS SOON!): https://intothecryptoverse.com Sign up to ...
+'The Claman Countdown' panelists Anthony Pompliano and Peter Schiff discuss what investors should focus on. #fox #media ...
 
-📺 Benjamin Cowen
+📺 Fox Business
 
-👁️ 68K • 👍 4K • 💬 260 • ⏱️ 17:36 • 1d ago
+👁️ 15K • 👍 491 • 💬 324 • ⏱️ 11:24 • 12h ago
 
 ---
 
@@ -403,23 +413,13 @@ In today's video, Kyledoops discusses the max pain price with viewers and outlin
 
 ---
 
-**[🚨 MICROSTRATEGY IS COLLAPSING!!! BITCOIN TO $5,000?!](https://www.youtube.com/watch?v=mbnTwOBlTJo)**
+**[Bitcoin Social Risk](https://www.youtube.com/watch?v=gAf6tPzkcgg)**
 
-Microstrategy and their preffered stock seem to be imploding right before our eyes. This could take bitcoin down to $5000 and ...
+Let's discuss the Bitcoin social risk! Into The Cryptoverse Premium SALE (ENDS SOON!): https://intothecryptoverse.com Sign up to ...
 
-📺 Thomas Kralow
+📺 Benjamin Cowen
 
-👁️ 22K • 👍 3K • 💬 134 • ⏱️ 9:54 • 1d ago
-
----
-
-**[STRC&#39;s Bitcoin Yield Just Crashed For The 4th Time, But Now It’s Different](https://www.youtube.com/watch?v=ZAZCkZ87aTU)**
-
-Bitcoin is digital capital, and built on top of it is a new type of yield paying 11.5%. They're calling it digital credit. Right now, it's ...
-
-📺 Mark Moss
-
-👁️ 106K • 👍 4K • 💬 1K • ⏱️ 24:26 • 2d ago
+👁️ 70K • 👍 4K • 💬 261 • ⏱️ 17:36 • 2d ago
 
 ---
 
