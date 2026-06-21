@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-21T06:58:59.817838+00:00'
+updated: '2026-06-21T10:37:33.410071+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 21, 2026 at 06:58 UTC  
+**Last Updated:** June 21, 2026 at 10:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,7 +78,7 @@ I'm currently pursuing an M.Tech in Mechanical Engineering and have been conside
 
 Hi everyone, Has anyone here reviewed or submitted a paper through the ICRA/IROS transfer review process? I submitted through the transfer option for IROS and was rejected, so I’m trying to better understand how the process works. What can reviewers see: the previous reviews, only the author response/revision summary, or something else? For those with experience, did the transfer process feel helpful, or could it bias reviewers since they know the paper was previously rejected? Any insights from the reviewer or author side would be appreciated.
 
-2d ago
+3d ago
 
 ---
 
@@ -126,14 +126,6 @@ Small Wars Journal • 1d ago
 
 ---
 
-**[Project Fetch: Phase two](https://www.anthropic.com/research/project-fetch-phase-two)**
-
-We report results from our latest test of whether Claude can help Anthropic employees perform sophisticated robotics tasks. We found that Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at all tasks completed by participants less than a year ago.
-
-Anthropic • 2d ago
-
----
-
 **['We had to get out of the way': The backlash over delivery robots](https://www.bbc.com/news/articles/c0rygp005wjo)**
 
 As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.
@@ -166,11 +158,19 @@ olympics.com • 1d ago
 
 ---
 
-**[What Amazon’s Astro Taught Me About Giving Robots a Soul](https://spectrum.ieee.org/amazon-astro-robot-sound)**
+**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
 
-Character is the difference between a machine people tolerate and a product people trust
+Your weekly selection of awesome robot videos
 
 IEEE Spectrum • 1d ago
+
+---
+
+**[NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026](https://www.businesswire.com/news/home/20260619441783/en/NEURA-Robotics-Showcases-Full-Stack-Robotics-Platform-at-Automate-2026)**
+
+NEURA Robotics ("NEURA"), the pioneer in cognitive robotics and creator of the Neuraverse, will exhibit at Automate 2026, North America's largest automation ...
+
+Business Wire • 1d ago
 
 ---
 
@@ -182,11 +182,11 @@ AP News • 1d ago
 
 ---
 
-**[NEURA Robotics Showcases Full-Stack Robotics Platform at Automate 2026](https://www.businesswire.com/news/home/20260619441783/en/NEURA-Robotics-Showcases-Full-Stack-Robotics-Platform-at-Automate-2026)**
+**[7 Robotics Startups to Watch Right Now 2026](https://www.inc.com/alison-stein/7-robotics-startups-to-watch-right-now-2026/91357463)**
 
-NEURA Robotics ("NEURA"), the pioneer in cognitive robotics and creator of the Neuraverse, will exhibit at Automate 2026, North America's largest automation ...
+AI is driving a boom in robotics startups. Leading venture capitalists and robotics experts identify the businesses that consumers, competitors, and investors need to track.
 
-Business Wire • 1d ago
+inc.com • 2d ago
 
 ---
 
@@ -200,27 +200,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 3K • 👍 124 • 💬 11 • ⏱️ 1:04:55 • 10h ago
-
----
-
-**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
-
-Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
-
-📺 Jason Lowe on AI
-
-👁️ 284K • 👍 12K • 💬 2K • ⏱️ 2:51 • 3d ago
-
----
-
-**[Making MINOS into the ULTIMATE BRAWLER [War Robots]](https://www.youtube.com/watch?v=2es0sSYZ87M)**
-
-War Robots Gameplay: MINOS as the Ultimate Brawler with Chasm My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 289 • 💬 61 • ⏱️ 16:29 • 17h ago
+👁️ 3K • 👍 137 • 💬 12 • ⏱️ 1:04:55 • 13h ago
 
 ---
 
@@ -230,7 +210,27 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 4K • 👍 142 • 💬 13 • ⏱️ 21:44 • 1d ago
+👁️ 4K • 👍 150 • 💬 13 • ⏱️ 21:44 • 1d ago
+
+---
+
+**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
+
+Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
+
+📺 Jason Lowe on AI
+
+👁️ 288K • 👍 12K • 💬 2K • ⏱️ 2:51 • 3d ago
+
+---
+
+**[We let AI buy a robot and a car, it does exactly what experts warned.](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
+
+AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
+
+📺 InsideAI
+
+👁️ 944K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
 
 ---
 
@@ -244,23 +244,13 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 ---
 
-**[AI agent buys itself a robot and car, does exactly what experts warned](https://www.youtube.com/watch?v=IPaMKTb5csQ)**
-
-AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI. Go to http://ground.news/InsideAI for a better way to stay informed.
-
-📺 InsideAI
-
-👁️ 938K • 👍 29K • 💬 3K • ⏱️ 15:10 • 6d ago
-
----
-
 **[&quot;ChatGPT Moment&quot; for Robotics Is Coming. The Real Problem Isn&#39;t Intelligence | Stanford, Catie Cuan](https://www.youtube.com/watch?v=9eHNYMuvQjA)**
 
 Catie Cuan, Stanford Roboticist, Robot Choreographer, and founder of ART Lab (AI Robot Technology), breaks down why the ...
 
 📺 EO
 
-👁️ 15K • 👍 509 • 💬 43 • ⏱️ 18:51 • 4d ago
+👁️ 16K • 👍 515 • 💬 43 • ⏱️ 18:51 • 4d ago
 
 ---
 
@@ -270,7 +260,17 @@ Companies like 1X and Unitree are spending millions trying to build robot compan
 
 📺 Business Insider
 
-👁️ 143K • 👍 3K • 💬 648 • ⏱️ 17:26 • 6d ago
+👁️ 146K • 👍 3K • 💬 651 • ⏱️ 17:26 • 6d ago
+
+---
+
+**[​Autonomous delivery robots sleeping in Jersey City?! #short #robotics #jerseycity](https://www.youtube.com/watch?v=9uFPO1aOh04)**
+
+Ever wonder what autonomous delivery robots do when they aren't bringing you dinner? Caught these tech couriers completely ...
+
+📺 Aussie lil world traveller
+
+👁️ 2K • 👍 10 • ⏱️ 0:06 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ Dublin, Ohio, is ending its police robot pilot program less than a year after la
 
 📺 Fox News
 
-👁️ 31K • 👍 587 • 💬 91 • ⏱️ 0:32 • 1d ago
+👁️ 32K • 👍 592 • 💬 92 • ⏱️ 0:32 • 1d ago
 
 ---
 

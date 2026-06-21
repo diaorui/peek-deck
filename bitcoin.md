@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T06:58:59.809741+00:00'
+updated: '2026-06-21T10:37:33.401991+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 06:58 UTC  
+**Last Updated:** June 21, 2026 at 10:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,406.53
+### $64,117.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -3.1%  
+**24h:** +1.0%  
+**7d:** -3.0%  
 **30d:** -16.2%  
 **90d:** -8.9%  
-**1y:** -36.3%  
+**1y:** -36.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.42B
+**Market Cap:** $1287.64B
 Rank #1
 
-**Circulating Supply:** 20,045,787 BTC
+**Circulating Supply:** 20,045,853 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.0%
 
 **All-Time Low:** $67.81
-+94613.2%
++94655.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im looking for a decentralized way to bridge BTC to another without relying on a centralized custodian What are you guys using? Any recommendations or experiences sharing would be great- thanks
 
-20h ago
+1d ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm wondering, if we see a liquidation cascade, or a series of Black Swan events
 
 Yes, I firmly believe
 
-20h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Yes, I firmly believe
 
 Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named GameKyuubi logs onto BitcoinTalk to vent. He tries to type "I AM HOLDING" but fumbles the keyboard. "I AM HODLING" is born. He admits he’s a terrible trader who can't time the market, so he's just gonna sit on his stack. Fast forward a few hours, the typo goes viral. The absolute degen accidentally birthed the most iconic meme and investment strategy in crypto history. Zero coping, pure lore.
 
-23h ago
+1d ago
 
 ---
 
@@ -129,13 +129,13 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
 
-18h ago
+22h ago
 
 ---
 
 **[Chill Guys! HOLD](https://www.reddit.com/r/Bitcoin/comments/1u9vrhf/chill_guys_hold/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
 
-18h ago
+21h ago
 
 ---
 
@@ -163,37 +163,23 @@ https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79
 
 CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-CNBC • 15h ago
+CNBC • 19h ago
 
 ---
 
-**[A look at how falling Bitcoin prices, capital structure changes pushed STRC below $83 in just five weeks.](https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown)**
+**[BTC, ETH, SOL price news: Bitcoin holds near $64,000 amid US-Iran ceasefire talks](https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks)**
 
-From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
+Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
 
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-back-toward-60-174630587.html)**
-
-(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealMukesh Ambani’s Promise to Investors on Jio IPO Will
-
-Yahoo Finance • 2d ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
+**[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-above-64-000-085651711.html)**
 
-Bloomberg.com • 2d ago
+Investing.com -- Bitcoin traded above $64,000 on Sunday, recovering from last week’s dip as investors monitored U.S.-Iran negotiations in Switzerland and signs of continued bullish positioning in crypto derivatives markets.
 
----
-
-**[CZ Floats Freezing Satoshi’s Bitcoin Over Quantum Risk](https://finance.yahoo.com/markets/crypto/articles/cz-floats-freezing-satoshi-bitcoin-190000810.html)**
-
-CZ floated freezing Satoshi's Bitcoin after a quantum fork but says it would be a community call, not a personal one.
-
-Yahoo Finance • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,7 +195,7 @@ WAFF • 1d ago
 
 Public records show gubernatorial candidate Toby Doeden’s ties to Aberdeen-area real estate, car dealerships, a TIF project and bitcoin mining.
 
-KOTA Territory News • 16h ago
+KOTA Territory News • 20h ago
 
 ---
 
@@ -221,17 +207,33 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin rises to near $64k, but Iran uncertainty limits broader recovery](https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-63000-as-traders-assess-regulatory-developments-4751609)**
-
-Investing.com • 11h ago
-
----
-
 **[What Happened to 2024's Top Cryptocurrencies? Here's Who Graduated and Who Got Held Back.](https://www.fool.com/investing/2026/06/20/what-happened-to-2024s-top-cryptocurrencies/)**
 
 The crypto market moves fast. I checked the receipts from two years ago to see what's changed.
 
-The Motley Fool • 15h ago
+The Motley Fool • 19h ago
+
+---
+
+**[Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill](https://www.tradingview.com/news/cointelegraph:3e85dc585094b:0-bitcoin-etfs-shed-a-record-6-4b-in-30-days-amid-crypto-winter-chill/)**
+
+US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflow since launching in 2024, coming as Bitcoin fell 17% over the past month.
+
+TradingView • 6h ago
+
+---
+
+**[A look at how falling Bitcoin prices, capital structure changes pushed STRC below $83 in just five weeks.](https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown)**
+
+From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
+
+CoinDesk • 21h ago
+
+---
+
+**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -329,17 +331,27 @@ Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 121 • ⏱️ 13:13 • 9h ago
+👁️ 29K • 👍 2K • 💬 137 • ⏱️ 13:13 • 13h ago
 
 ---
 
-**[Michael Saylor is about to BLOW UP Bitcoin! I Have To Show You This..](https://www.youtube.com/watch?v=KDjvXd8ilRU)**
+**[STRC Hits $82 | Is it Over for Michael Saylor and Bitcoin?!](https://www.youtube.com/watch?v=KUkNV9qe7b0)**
 
-They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are calling for a full-blown death spiral. Michael Saylor ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 43K • 👍 2K • 💬 254 • ⏱️ 11:44 • 1d ago
+👁️ 12K • 👍 1K • 💬 121 • ⏱️ 23:31 • 11h ago
+
+---
+
+**[$500B Bitcoin Rotation - The Bottom Is In](https://www.youtube.com/watch?v=tnokPcnCAE4)**
+
+Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is emerging. Strategy CEO Phong Le believes the ...
+
+📺 Bitcoin News Alerts
+
+👁️ 2K • 👍 179 • 💬 116 • ⏱️ 19:02 • 12h ago
 
 ---
 
@@ -349,7 +361,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 38K • 👍 2K • 💬 346 • ⏱️ 14:27 • 1d ago
+👁️ 39K • 👍 2K • 💬 350 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -359,17 +371,17 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
+👁️ 25K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
 
 ---
 
-**[Why Bitcoin Is Selling Off Right Now (Iran, the Fed &amp; Japan)](https://www.youtube.com/watch?v=9-1d-VZYtvY)**
+**[Michael Saylor is about to BLOW UP Bitcoin! I Have To Show You This..](https://www.youtube.com/watch?v=KDjvXd8ilRU)**
 
-In this video, I'm sharing why Bitcoin is selling off right now. This includes the Iran negotiation and MOU, the Fed & the Bank of ...
+They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
 
-📺 Aaron Bennett
+📺 Altcoin Daily
 
-👁️ 2K • 👍 121 • 💬 35 • ⏱️ 9:59 • 6h ago
+👁️ 44K • 👍 2K • 💬 256 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -379,27 +391,7 @@ Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 891 • 💬 122 • ⏱️ 1:28 • 8h ago
-
----
-
-**[Nobody Gives a Sh*t About Bitcoin (For Now) I Anthony Scaramucci](https://www.youtube.com/watch?v=pMXB7TU5q74)**
-
-Anthony Scaramucci is the founder and managing partner of SkyBridge, a global alternative investment firm, and founder and ...
-
-📺 Anthony Scaramucci
-
-👁️ 36K • 👍 810 • 💬 21 • ⏱️ 0:41 • 2d ago
-
----
-
-**[Inside the debate over bitcoin vs gold](https://www.youtube.com/watch?v=8KIU8775W3c)**
-
-'The Claman Countdown' panelists Anthony Pompliano and Peter Schiff discuss what investors should focus on. #fox #media ...
-
-📺 Fox Business
-
-👁️ 15K • 👍 491 • 💬 324 • ⏱️ 11:24 • 12h ago
+👁️ 20K • 👍 1K • 💬 144 • ⏱️ 1:28 • 11h ago
 
 ---
 
@@ -409,7 +401,17 @@ In today's video, Kyledoops discusses the max pain price with viewers and outlin
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 23 • ⏱️ 21:49 • 1d ago
+👁️ 17K • 👍 1K • 💬 24 • ⏱️ 21:49 • 2d ago
+
+---
+
+**[BITCOIN HISTORY IS REPEATING!!!](https://www.youtube.com/watch?v=9skFETZCHiQ)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 14K • 👍 770 • 💬 33 • ⏱️ 11:41 • 1d ago
 
 ---
 
