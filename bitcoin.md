@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T10:37:33.401991+00:00'
+updated: '2026-06-21T13:06:35.520941+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 10:37 UTC  
+**Last Updated:** June 21, 2026 at 13:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -3.0%  
-**30d:** -16.2%  
-**90d:** -8.9%  
-**1y:** -36.2%  
+**24h:** +0.3%  
+**7d:** -3.3%  
+**30d:** -16.5%  
+**90d:** -9.2%  
+**1y:** -36.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.64B
+**Market Cap:** $1284.35B
 Rank #1
 
-**Circulating Supply:** 20,045,853 BTC
+**Circulating Supply:** 20,045,921 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.2%
 
 **All-Time Low:** $67.81
-+94655.9%
++94377.2%
 
 ---
 
@@ -129,7 +129,7 @@ Was in a random town in the Dominican Republic and saw quite a few places accept
 
 JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
 
-22h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
 
-21h ago
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79
 
 CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
-CNBC • 19h ago
+CNBC • 22h ago
 
 ---
 
@@ -171,13 +171,29 @@ CNBC • 19h ago
 
 Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
 
-CoinDesk • 3h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-above-64-000-085651711.html)**
+**[Bitcoin ETF Outflows Hit Record $6.35 Billion: Has Selling Peaked?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-hit-record-114002324.html)**
 
-Investing.com -- Bitcoin traded above $64,000 on Sunday, recovering from last week’s dip as investors monitored U.S.-Iran negotiations in Switzerland and signs of continued bullish positioning in crypto derivatives markets.
+US spot Bitcoin ETF outflows hit a record $6.35 billion over 30 days, though weekly redemptions have since cooled 87%.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Franklin Resources (BEN) Files Bitcoin Dividend ETFs As AUM Reaches $1.78 Trillion](https://finance.yahoo.com/markets/crypto/articles/franklin-resources-ben-files-bitcoin-120709852.html)**
+
+Franklin Resources (NYSE:BEN) has filed with the SEC for U.S. equity ETFs that reinvest portfolio dividends into Bitcoin, described as a first of its kind structure. The company has introduced the Franklin BSP CLO ETF, adding a new product focused on collateralized loan obligations. Franklin Resources reports record assets under management of $1.78 trillion. Franklin Resources, the asset manager behind Franklin Templeton, is pushing further into both digital assets and credit products with...
+
+Yahoo Finance • 59m ago
+
+---
+
+**[SpaceX Is Now Worth $2.4 Trillion, Making It Twice as Valuable as Bitcoin. But Here's Why I'm Still Buying Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/spacex-now-worth-2-4-112900646.html)**
+
+SpaceX just went public at a sky-high valuation. Here's why I'm buying Bitcoin this month instead.
 
 Yahoo Finance • 1h ago
 
@@ -195,7 +211,7 @@ WAFF • 1d ago
 
 Public records show gubernatorial candidate Toby Doeden’s ties to Aberdeen-area real estate, car dealerships, a TIF project and bitcoin mining.
 
-KOTA Territory News • 20h ago
+KOTA Territory News • 23h ago
 
 ---
 
@@ -207,19 +223,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[What Happened to 2024's Top Cryptocurrencies? Here's Who Graduated and Who Got Held Back.](https://www.fool.com/investing/2026/06/20/what-happened-to-2024s-top-cryptocurrencies/)**
+**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-back-toward-60-174630587.html)**
 
-The crypto market moves fast. I checked the receipts from two years ago to see what's changed.
+(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blows Through His Iran Red Lines in Justifying Peace DealMukesh Ambani’s Promise to Investors on Jio IPO Will
 
-The Motley Fool • 19h ago
-
----
-
-**[Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill](https://www.tradingview.com/news/cointelegraph:3e85dc585094b:0-bitcoin-etfs-shed-a-record-6-4b-in-30-days-amid-crypto-winter-chill/)**
-
-US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflow since launching in 2024, coming as Bitcoin fell 17% over the past month.
-
-TradingView • 6h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -227,13 +235,7 @@ TradingView • 6h ago
 
 From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.
 
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears](https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels)**
-
-Bloomberg.com • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -245,7 +247,7 @@ Bloomberg.com • 2d ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-⬆️ 8 • 💬 8 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
+⬆️ 8 • 💬 8 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
 
 ---
 
@@ -285,7 +287,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
 
-⬆️ 3 • 💬 1 • 4d ago • [boltassociation.com](https://boltassociation.com/)
+⬆️ 3 • 💬 1 • 5d ago • [boltassociation.com](https://boltassociation.com/)
 
 ---
 
@@ -325,33 +327,13 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ## YouTube Videos: "bitcoin"
 
-**[Worst Crypto News Ever - Deep State Trying To Destroy Bitcoin Rally](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
-
-Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 29K • 👍 2K • 💬 137 • ⏱️ 13:13 • 13h ago
-
----
-
 **[STRC Hits $82 | Is it Over for Michael Saylor and Bitcoin?!](https://www.youtube.com/watch?v=KUkNV9qe7b0)**
 
 Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are calling for a full-blown death spiral. Michael Saylor ...
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 121 • ⏱️ 23:31 • 11h ago
-
----
-
-**[$500B Bitcoin Rotation - The Bottom Is In](https://www.youtube.com/watch?v=tnokPcnCAE4)**
-
-Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is emerging. Strategy CEO Phong Le believes the ...
-
-📺 Bitcoin News Alerts
-
-👁️ 2K • 👍 179 • 💬 116 • ⏱️ 19:02 • 12h ago
+👁️ 13K • 👍 2K • 💬 133 • ⏱️ 23:31 • 13h ago
 
 ---
 
@@ -361,7 +343,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 39K • 👍 2K • 💬 350 • ⏱️ 14:27 • 1d ago
+👁️ 40K • 👍 2K • 💬 375 • ⏱️ 14:27 • 1d ago
 
 ---
 
@@ -375,6 +357,16 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 ---
 
+**[Worst Crypto News Ever - Deep State Trying To Destroy Bitcoin Rally](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
+
+Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 2K • 💬 147 • ⏱️ 13:13 • 15h ago
+
+---
+
 **[Michael Saylor is about to BLOW UP Bitcoin! I Have To Show You This..](https://www.youtube.com/watch?v=KDjvXd8ilRU)**
 
 They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
@@ -385,13 +377,23 @@ They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Dail
 
 ---
 
+**[Bitcoin&#39;s Crab Walk: Fed Hike Crushes Saylor&#39;s Strategy #shorts](https://www.youtube.com/watch?v=iolbX2pQ6J0)**
+
+A hawkish Federal Reserve, signaled by a rate hike instead of a cut, spells trouble for Bitcoin. Preferred stock used by companies ...
+
+📺 Dana Love, PhD
+
+👁️ 160 • 👍 10 • 💬 2 • ⏱️ 0:46 • 55m ago
+
+---
+
 **[Crypto Holders Just Got F**ked](https://www.youtube.com/watch?v=wOICpvBip1Y)**
 
 Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features on Coinbase: ...
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 144 • ⏱️ 1:28 • 11h ago
+👁️ 22K • 👍 1K • 💬 140 • ⏱️ 1:28 • 14h ago
 
 ---
 
@@ -411,7 +413,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 14K • 👍 770 • 💬 33 • ⏱️ 11:41 • 1d ago
+👁️ 14K • 👍 771 • 💬 33 • ⏱️ 11:41 • 1d ago
 
 ---
 
@@ -421,7 +423,7 @@ Let's discuss the Bitcoin social risk! Into The Cryptoverse Premium SALE (ENDS S
 
 📺 Benjamin Cowen
 
-👁️ 70K • 👍 4K • 💬 261 • ⏱️ 17:36 • 2d ago
+👁️ 71K • 👍 4K • 💬 261 • ⏱️ 17:36 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T10:37:33.407236+00:00'
+updated: '2026-06-21T13:06:35.526919+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 10:37 UTC  
+**Last Updated:** June 21, 2026 at 13:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -3.5%  
-**30d:** -18.3%  
-**90d:** -19.6%  
-**1y:** -22.1%  
+**24h:** -0.4%  
+**7d:** -3.9%  
+**30d:** -18.6%  
+**90d:** -19.9%  
+**1y:** -22.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $215.20B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.9%
 
 **All-Time Low:** $0.43
-+414030.9%
++411779.1%
 
 ---
 
@@ -110,7 +110,7 @@ Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds se
 
 **[EU's MICA regulation taking action on July 1st.](https://www.reddit.com/r/ethereum/comments/1u9z59f/eus_mica_regulation_taking_action_on_july_1st/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -162,15 +162,15 @@ CoinDesk • 3h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 7h ago
+The Motley Fool • 9h ago
 
 ---
 
-**[Ethereum’s Most Notorious MEV Bot Loses $7.5 Million in On-Chain Honeypot Trap](https://finance.yahoo.com/markets/crypto/articles/ethereum-most-notorious-mev-bot-073811935.html)**
+**[Is Ethereum a Buy After Falling 63% From Its All-Time High?](https://finance.yahoo.com/markets/crypto/articles/ethereum-buy-falling-63-time-122800562.html)**
 
-An attacker tricked the JaredFromSubway MEV bot into approving spending, then drained about $7.5 million in tokens.
+Ethereum is down big in 2026, but two key catalysts could soon send it soaring in value.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -182,27 +182,27 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Price Forecast: Impending funding crisis could put Ethereum at risk](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-impending-funding-crisis-could-put-ethereum-at-risk-202606200256)**
-
-Ethereum developers could face a "slow-burning funding crisis" in the coming months following the depletion of the Ethereum Foundation (EF) treasury and the expiration of the Client Incentive Program (CIP), according to former EF contributor Trent VanEpps.
-
-FXStreet • 1d ago
-
----
-
-**[Ethereum faces core development funding crisis, former contributor warns](https://www.tradingview.com/news/cointelegraph:7aa1bfb4d094b:0-ethereum-faces-core-development-funding-crisis-former-contributor-warns/)**
-
-The warning comes as the Ethereum Foundation reduces spending, adjusts its treasury strategy and undergoes a wave of leadership departures.
-
-TradingView • 1d ago
-
----
-
 **[New Crypto: Pepeto Confirms DeFi Progress Follow Dogecoin Success While the Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-confirms-defi-progress-follow-dogecoin-success-while-the-ethereum-price-prediction-targets-7-000-1036263670)**
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 12h ago
+
+---
+
+**[Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns](https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns)**
+
+Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.
+
+CoinDesk • 2d ago
+
+---
+
+**[Ethereum Foundation’s Leadership Exodus Claims Its Second Co-Director](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-leadership-exodus-claims-112030013.html)**
+
+Hsiao-Wei Wang steps down as Ethereum Foundation co-executive director, the second co-ED to leave in 2026 amid a broader leadership exodus.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -210,7 +210,15 @@ markets.businessinsider.com • 10h ago
 
 Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
 
-unchainedcrypto.com • 1d ago
+unchainedcrypto.com • 2d ago
+
+---
+
+**[Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit Roadmap](https://www.tradingview.com/news/newsbtc:d08da64d0094b:0-ethereum-glamsterdam-upgrade-moves-toward-200m-gas-limit-roadmap/)**
+
+Ethereum Glamsterdam Upgrade Moves Toward 200M Gas Limit RoadmapTL;DRGlamsterdam Moves Into FocusEthereum’s next major upgrade cycle is now turning toward Glamsterdam, a protocol package expected to define the network’s post-Pectra scaling and block-production roadmap. The upgrade is being watched…
+
+TradingView • 2d ago
 
 ---
 
@@ -219,14 +227,6 @@ unchainedcrypto.com • 1d ago
 Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
 
 Decrypt • 2d ago
-
----
-
-**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026-2/)**
-
-Ethereum (ETH) could trade above $2,000 on July 1, 2026, according to a new price prediction generated by ChatGPT.
-
-Finbold • 20h ago
 
 ---
 
@@ -240,7 +240,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 157 • 💬 122 • ⏱️ 18:36 • 18h ago
+👁️ 4K • 👍 166 • 💬 121 • ⏱️ 18:36 • 20h ago
+
+---
+
+**[Why ETH Could Rally Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=l5SvNN27xGs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 109 • 👍 5 • 💬 2 • ⏱️ 4:19 • 2h ago
 
 ---
 
@@ -250,17 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 500 • 💬 43 • ⏱️ 17:32 • 1d ago
-
----
-
-**[What Does Tom Lee See In Ethereum?](https://www.youtube.com/watch?v=r8n_VMG4F_U)**
-
-While Bitcoin traded mostly sideways this week, two separate institutional moves may point toward the same underlying shift.
-
-📺 Fast Launch Digital
-
-👁️ 1K • 👍 38 • 💬 4 • ⏱️ 8:56 • 1d ago
+👁️ 13K • 👍 519 • 💬 44 • ⏱️ 17:32 • 1d ago
 
 ---
 
@@ -270,7 +270,17 @@ Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum conti
 
 📺 Crypto Meridian
 
-👁️ 1K • 👍 14 • 💬 38 • ⏱️ 2:03 • 14h ago
+👁️ 1K • 👍 15 • 💬 38 • ⏱️ 2:03 • 17h ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=tjwugnHlNnU)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Join our Telegram for signals & updates: ...
+
+📺 Ashutosh Kumar
+
+👁️ 4K • 👍 285 • 1h ago
 
 ---
 
@@ -280,7 +290,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 92 • ⏱️ 7:13 • 6h ago
+👁️ 1K • 👍 99 • ⏱️ 7:13 • 9h ago
 
 ---
 
@@ -290,17 +300,17 @@ BITCOIN HOLDERS: Time To Get SERIOUS (Liquidations)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 345 • 💬 242 • ⏱️ 20:39 • 16h ago
+👁️ 8K • 👍 354 • 💬 241 • ⏱️ 20:39 • 19h ago
 
 ---
 
-**[BTC &amp; ETHEREUM, Flagge gebrochen, jetzt Bullisch? Kurzfristig werden sich Chancen ergeben!](https://www.youtube.com/watch?v=hd0azmgAB7M)**
+**[XRP research:XRP vs Bitcoin vs Ethereum Why I give XRP a low score. #xrp #crypto #bitcoin #ethereum](https://www.youtube.com/watch?v=rn9WAg0VoV4)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
+XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #crypto #bitcoin #investing #ethereum.
 
-📺 Krypto Trading & Investing
+📺 MrNasdog
 
-👁️ 2K • 👍 332 • 💬 36 • ⏱️ 10:46 • 4h ago
+👁️ 1K • 👍 38 • 💬 2 • ⏱️ 1:02 • 9h ago
 
 ---
 
@@ -310,15 +320,7 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 855 • 👍 102 • 💬 15 • ⏱️ 13:31 • 20h ago
-
----
-
-**[ETH HOLDERS MUST WATCH](https://www.youtube.com/watch?v=-QMT5u_x8C4)**
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 80 • 💬 86 • ⏱️ 0:24 • 16h ago
+👁️ 908 • 👍 106 • 💬 15 • ⏱️ 13:31 • 22h ago
 
 ---
 
@@ -328,7 +330,7 @@ D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a lim
 
 📺 XRP Bags
 
-👁️ 5K • 👍 472 • 💬 113 • ⏱️ 11:45 • 1d ago
+👁️ 5K • 👍 473 • 💬 112 • ⏱️ 11:45 • 1d ago
 
 ---
 

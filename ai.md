@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-21T10:37:33.393780+00:00'
+updated: '2026-06-21T13:06:35.512341+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 21, 2026 at 10:37 UTC  
+**Last Updated:** June 21, 2026 at 13:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,9 @@ AI news, discussions, and developments
 
 **[Utah Data Center Brute Forced Through to Approval Despite Widespread Popular Opposition](https://www.reddit.com/r/artificial/comments/1ubm0q3/utah_data_center_brute_forced_through_to_approval/)**
 
-A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw)
+A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
 
-46m ago
-
----
-
-**[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 18h ago
+3h ago
 
 ---
 
@@ -55,7 +49,45 @@ A data center was forced through government approval in Utah despite the citizen
 
 Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 5h ago
+
+---
+
+**[What agent convention do you wish existed?](https://www.reddit.com/r/artificial/comments/1ubooec/what_agent_convention_do_you_wish_existed/)**
+
+A lot of the agent file space already ships: AGENTS.md, MCP config, SKILL.md, the rules and ignore files. The other half is stuff people keep proposing that never really landed, like undo.md, richer auth discovery, or some kind of agent receipts. What's a file or format you wish everyone just agreed on, that would actually make your agents more reliable? asking because i've been cataloging the existing conventions and the gaps are the interesting part. started collecting them in one place: https://github.com/ItamarZand88/awesome-agent-conventions. curious what you'd add to the wishlist.
+
+45m ago
+
+---
+
+**[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 20h ago
+
+---
+
+**[What do you think is currently the biggest technical limitation in generative AI video?](https://www.reddit.com/r/artificial/comments/1ubne3w/what_do_you_think_is_currently_the_biggest/)**
+
+Generative video quality has improved a lot, but there are still some consistent challenges across different models.
+
+1h ago
+
+---
+
+**[The Surge of Slop—since the release of ChatGPT-3.5 in late 2022, the number of e-books published on Amazon has skyrocketed, tripling by late 2025. A new scientific analysis shows that this is entirely due to the rise of AI-generated books, which now far outnumber human-written books. [The Economist]](https://www.reddit.com/r/artificial/comments/1ubnaqo/the_surge_of_slopsince_the_release_of_chatgpt35/)**
+
+Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
+
+2h ago
+
+---
+
+**[I built a solution but not sure if the problem even exists?](https://www.reddit.com/r/artificial/comments/1ubn1m2/i_built_a_solution_but_not_sure_if_the_problem/)**
+
+I personally find myself working accross different AI tools for different aspects of my project -- Claude to build the core functionality Codex to fix the bugs (to save claude's credits) Chat GPT to get ideas for new features etc etc etc And all of them with multiple accounts as well- TO save some credits Now this works but it creates a mess. This essentially leaves me with problems like Problem 1- I have no memory of Which agent created what feature and to find it I have to spend a lot of time scrolling through my chats with all these AI agents that too on multiple accounts Problem 2- If my credits on one account gets over when I log in to another account now I have to explain it everything I have built so far and that almost always takes more than 1-2 prompts and that again costs me credits on the second account as well. Solution - this project - A place where you can simply copy and paste AI responses, codes, files etc from various AI agents and it will store all of it in one place in a git push style User Interface you can exactly see when and what was changed and in a single click you get a summarized context of the project explaining to AI everything we have done so far in just one prompt. Saves Credits and time all at an affordable price as well. Would you use this ? and feel free to suggest any changes in this project
+
+2h ago
 
 ---
 
@@ -71,7 +103,7 @@ Accenture plc (NYSE:ACN) was among Jim Cramer’s stock calls on Mad Money, as h
 
 Hey r/artificial — launching today and thought this community would appreciate the technical details more than most. ReFind is a Chrome extension that right-click-summarizes any link. Launching on PH: https://www.producthunt.com/products/refind-2 Technical implementation (for those who want it): YouTube summarization: - Fetch transcript via YouTube Data API v3 (captions endpoint) - Full transcript passed to Gemini 2.5 Flash Lite - Prompt instructs: extract 3–5 key points from the spoken content, not the title or description - Summaries are based on what's actually SAID in the video Article summarization: - Content script injects into the page, extracts main body text (strips nav, ads, sidebars via heuristic selectors) - Full article text passed to Gemini - Same 3–5 key point format Global cache: - Before any Gemini call: check url_cache table in Supabase - Cache key: normalized URL - Hit: return cached summary instantly (~200ms) - Miss: call Gemini, cache result, return to user (~4 seconds) Credit economy: - Articles: 1 credit (low token count) - Short YouTube (<10 min): 5 credits \- Long YouTube (>10 min): 10 credits - Cached hits: 0 credits (free) Stack: Chrome Extension MV3 + React + Vite + Supabase + Vercel + Gemini 2.5 Flash Lite Happy to go deep on any technical aspect. Free for a month: refindlink.com/extension
 
-2h ago
+5h ago
 
 ---
 
@@ -79,39 +111,7 @@ Hey r/artificial — launching today and thought this community would appreciate
 
 A few experiments exploring how far generative video + fine-tuned orchestration layers can be pushed in rhythm, camera language, body transformation, and most of all, audiovisual synchronization. Breakdown: I used Uisato Studio’ Seedance 2.0 Video mode, with the "Intelligent" setup and the "Audioreactive Performance" prompt recipe. Inputs were: - the artist image [full-body recomended - I ended up using a mix of Midjourney + GPT Image + Image Studio] - a target audio excerpt not exceeding 14.9 seconds - a short director’s intent describing the look, tone, and what I wanted beyond the audioreactive performance From there, the system generated the prompts, direction, and optimal setup. I reviewed it, made small adjustments, generated the clips, and then assembled the final piece in editing. What other experiments would you like to see next? More experiments through Instagram, or YouTube.
 
-18h ago
-
----
-
-**[The Looking Mirror — A Narrative Adventure with Cross‑Model Persistence](https://www.reddit.com/r/artificial/comments/1ubg3n4/the_looking_mirror_a_narrative_adventure_with/)**
-
-I’m experimenting with in‑context narrative systems that maintain continuity across different models. The Looking Mirror is a fully local, text‑driven world model with: • persistent state • portable save‑game capsules • cross‑model continuity • a modular field‑manifold structure It runs entirely in‑context and works across CoPilot, Gemini, ChatGPT, Claude, and DeepSeek. ⎯─◐◑◒◓─── THE LOOKING MIRROR ───────── Full Setup Guide: https://github.com/PitBrat-moo/stable-of-manifold-foraging/blob/main/docs/the-looking-mirror-setup-ritual.txt
-
-6h ago
-
----
-
-**[Glm 5.2 looks strong but the launch is quietly mixing two different sets of numbers](https://www.reddit.com/r/artificial/comments/1ub6bxw/glm_52_looks_strong_but_the_launch_is_quietly/)**
-
-Quick background for people who don't track the chinese labs closely. zhipu is one of the bigger ones, glm is their main model line, and glm 5.2 dropped on June 13. The mit weights already on huggingface on June 17, and GLM 5.2 API went live on June 17. I'm not posting about the model itself, i'm posting because the launch is a clean example of something worth learning to read. There are two different sources of numbers going around and they are not the same thing. one set is from the official model card, the other from the launch blog framing. people quote them interchangeably, and that blend is where the "beats everything" reading comes from. From the model card, the stuff i'd actually plan around: terminal bench 2.1 at 81.0, and on swe-bench pro it sits at 62.1, which is second behind opus 4.8 rather than first. context window of 1m tokens, open weights under mit. those are defensible and you can check them against the hf page. From the launch material, the softer stuff: the headline leads with aime 2026 at 99.2, which puts glm 5.2 ahead of gpt 5.5 at 98.3 and well ahead of opus 4.8 at 95.7. that comparison is true on the single aime benchmark and silent on the ones where it loses. for example on gpqa-diamond glm 5.2 is 91.2, behind gemini 3.1 pro at 94.3 and tied with opus 4.8 at 93.6. on hmtt feb 2026 it is 92.5, third behind qwen3.7-max at 97.1 and both opus 4.8 and gpt 5.5 at 96.7. That's not lying, it's selection, and every lab does it now, openai and anthropic included. the thing that makes this one worth noting is that the weights are already live under mit, which makes the card data independently verifiable in a way that openai never is. The other launch claim worth separating from the numbers is the demo story. the blog mentions a single 1m context session completing a full project workflow, which sounds impressive and probably is, but it is also a cherry-picked demo. i've seen enough 1m-context demos fail on real messy codebases to know that "it can" and "it reliably will" are different claims. The thing i keep coming back to is that a permissive license plus api available today changes the playbook. you get the benchmark headline, the immediate goodwill of open weights, and a real ability for third parties to run independent evals instead of waiting for the lab to release them. whether the average community quant runs at the same quality as the api is the one thing nobody scores them on a month later.
-
-14h ago
-
----
-
-**[A stateful deterministic substrate engine in native C.](https://www.reddit.com/r/artificial/comments/1uazoa8/a_stateful_deterministic_substrate_engine_in/)**
-
-https://www.youtube.com/watch?v=X90A9ZFtg6g I built a native C substrate engine that runs locally and persists/restores state deterministically. This short demo shows: - clearing the live state - mounting a small knowledge pack - exporting state to disk - restarting the process - restoring the same state with a matching digest In the demo, the restored state is 106 nodes / 72 relations. The current demo path does not require cloud services or GPU inference. It also supports abstention instead of forcing an answer on missing evidence. I’d value technical feedback on the deterministic snapshot model and abstention behavior.
-
-18h ago
-
----
-
-**[The Pentagon's AI chief swore in a court filing that xAI's Grok helped fire 2,000 munitions at 2,000 targets in 96 hours](https://www.reddit.com/r/artificial/comments/1ua5j2y/the_pentagons_ai_chief_swore_in_a_court_filing/)**
-
-A sworn declaration from the Pentagon's chief digital and AI officer confirms a federal-only build, Grok Gov, was wired into US targeting systems during operations against Iran, helping deploy more than 2,000 munitions against 2,000 distinct targets over 96 hours. What makes it notable is how it surfaced: the declaration landed in a Clean Air Act lawsuit over xAI's Mississippi data center, where the DOJ is arguing that disrupting xAI would harm national security. So a commercial chatbot vendor's role in live targeting came out as a side effect of an environmental case, not through any defense channel. Source : https://aiweekly.co/alerts/pentagon-confirms-grok-guided-2000-iran-strikes
-
-1d ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ A sworn declaration from the Pentagon's chief digital and AI officer confirms a 
 
 Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-The Guardian • 4h ago
+The Guardian • 7h ago
 
 ---
 
@@ -131,32 +131,61 @@ The Guardian • 4h ago
 
 An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
 
-BBC • 11h ago
+BBC • 13h ago
 
 ---
 
-**[Chinese AI models raise ‘sleeper agent’ fears after report finds more vulnerable code for US users](https://www.foxnews.com/politics/chinese-ai-models-raise-sleeper-agent-fears-after-report-finds-more-vulnerable-code-us-users)**
+**[Old EV Batteries Could Help Solve AI’s Exploding Power Problem](https://www.forbes.com/sites/kensilverstein/2026/06/21/old-ev-batteries-could-help-solve-ais-exploding-power-problem/)**
 
-Booz Allen report warns Chinese AI models like DeepSeek and Qwen may produce more vulnerable code for U.S. government users, raising concerns.
+Can second-life EV batteries save the grid from AI? Explore how data centers are repurposing electric vehicle batteries to solve exploding power demands.
 
-Fox News • 37m ago
-
----
-
-**[‘I got crushed’: AI giants are funding ad wars in races across the country](https://www.latimes.com/politics/story/2026-06-21/ai-giants-are-funding-ad-wars-in-races-across-country)**
-
-In some races, the AI-backed political groups have spent more than the candidates they are backing.
-
-Los Angeles Times • 37m ago
+Forbes • 21m ago
 
 ---
 
-**[New UH AI data center aims to improve healthcare throughout Pacific region](https://www.staradvertiser.com/2026/06/21/hawaii-news/new-uh-ai-data-center-aims-to-improve-healthcare-throughout-pacific-region/)**
+**[After Iran’s missile strikes, Israeli team develops rapid AI building‑map tool](https://www.jpost.com/business-and-innovation/article-900051)**
 
-More than $12 million in federal funding has spurred researchers at the University of Hawaii’s Cancer 
-Center and John A. Burns School of Medicine to focus on converting a garage-­sized, air-conditioned, ground-floor room at the Cancer Center into Hawaii’s first-of-its-kind artificial intelligence data center.
+A Technion–Haifa University project uses public architectural records to give rescuers structural layouts in under 30 seconds.
 
-Honolulu Star-Advertiser • 20m ago
+The Jerusalem Post • 38m ago
+
+---
+
+**[Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse](https://finance.yahoo.com/technology/ai/articles/apple-incoming-ceo-draws-line-123055617.html)**
+
+Apple’s next chief executive has tipped his hand on artificial intelligence, and the message is the opposite of what is coming out of Redmond, Mountain View and Menlo Park. John Ternus, who becomes CEO of Apple (NASDAQ:AAPL) on Sept. 1, 2026, used a pre-appointment interview to draw a philosophical line: technology exists to serve the ... Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse
+
+Yahoo Finance • 35m ago
+
+---
+
+**[New global order: AI CEOs as heads of nation-states at G7](https://www.axios.com/2026/06/20/ai-tech-moguls-g7)**
+
+Axios • 13h ago
+
+---
+
+**[J. D. Vance’s AI Doctrine](https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/)**
+
+The vice president is making a case that is part Silicon Valley, part MAGA.
+
+The Atlantic • 2h ago
+
+---
+
+**[Employers want more AI-fluent workers. It’s testing young graduates’ loyalties.](https://www.bostonglobe.com/2026/06/21/business/gen-z-ai-commencement-speeches-backlash-job-fears/)**
+
+While emerging as some of the most frequent and savvy users of generative artificial intelligence, Gen Z also remains its staunchest opponent, studies show.
+
+The Boston Globe • 1h ago
+
+---
+
+**[Nobel Laureate Daron Acemoglu on the 'brainless' AI discourse, the myth of capitalism and the Gen Z revolution risk](https://fortune.com/2026/06/21/nobel-laureate-daron-acemoglu-ai-productivity-capitalism-democracy/)**
+
+The MIT economist and Nobel Prize winner doesn't mince words: most of what you're reading about AI is wrong, and the stakes for getting it right are existential.
+
+Fortune • 4h ago
 
 ---
 
@@ -164,37 +193,7 @@ Honolulu Star-Advertiser • 20m ago
 
 Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.
 
-CNBC • 22h ago
-
----
-
-**[Investors see Micron earnings as pulse check of AI rally momentum](https://www.ksl.com/article/51513890/investors-see-micron-earnings-as-pulse-check-of-ai-rally-momentum)**
-
-Investors are seeking signs that the U.S. stock market rally fueled by AI has more life left in it, and the ​upcoming Micron Technology earnings will check the pulse of chip demand to see if it is still accelerating.
-
-KSL News • 17h ago
-
----
-
-**[Your Next ETF May Be Picked Entirely By An AI](https://www.forbes.com/sites/daraabasiita/2026/06/21/your-next-etf-may-be-picked-entirely-by-an-ai/)**
-
-Three funds filed to let software run the portfolio. The sales pages promise a lot. The risk pages quietly take most of it back.
-
-Forbes • 3h ago
-
----
-
-**[Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)**
-
-The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
-
-The Cloudflare Blog • 1d ago
-
----
-
-**[New global order: AI CEOs as heads of nation-states at G7](https://www.axios.com/2026/06/20/ai-tech-moguls-g7)**
-
-Axios • 20h ago
+CNBC • 1d ago
 
 ---
 
@@ -204,7 +203,7 @@ Axios • 20h ago
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 801 • 💬 572 • 1d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 801 • 💬 573 • 1d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -212,7 +211,7 @@ Axios • 20h ago
 
 How earbuds influence our beliefs and push us apart.
 
-⬆️ 441 • 💬 766 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 442 • 💬 766 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
 ---
 
@@ -220,7 +219,7 @@ How earbuds influence our beliefs and push us apart.
 
 AI Engineer Claims to Have Cracked Linear A
 
-⬆️ 441 • 💬 173 • 1d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
+⬆️ 442 • 💬 173 • 1d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
 
 ---
 
@@ -228,13 +227,13 @@ AI Engineer Claims to Have Cracked Linear A
 
 The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.
 
-⬆️ 295 • 💬 136 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+⬆️ 296 • 💬 136 • 1d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 
 ---
 
 **[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
 
-⬆️ 240 • 💬 314 • 1d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
+⬆️ 244 • 💬 314 • 1d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -242,7 +241,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 212 • 💬 113 • 23h ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 223 • 💬 118 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -250,7 +249,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 186 • 💬 105 • 9h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 199 • 💬 130 • 12h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -262,6 +261,12 @@ I think I've spoken at length in other places about how I am a very staunch AI h
 
 ---
 
+**[The 100k Whys of AI](https://news.ycombinator.com/item?id=48616017)**
+
+⬆️ 121 • 💬 68 • 7h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+
+---
+
 **[Companies rein in AI usage as costs strain budgets](https://news.ycombinator.com/item?id=48602571)**
 
 Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
@@ -270,23 +275,17 @@ Amazon, Walmart and Uber are among early adopters that have introduced caps or d
 
 ---
 
-**[The 100k Whys of AI](https://news.ycombinator.com/item?id=48616017)**
-
-⬆️ 111 • 💬 62 • 4h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[Shocking New AI Just Hit 12 Million Tokens With 1000x Less Compute](https://www.youtube.com/watch?v=7jrZ4JqeGyY)**
+**[The Claude Shutdown Is a Total Sh*tshow](https://www.youtube.com/watch?v=R4nFEQb7kZo)**
 
-A shocking new AI breakthrough just hit 12 million tokens with nearly 1000x less attention compute. Subquadratic says its new ...
+Three words — “fix this code” — were apparently enough to trigger one of the most dramatic AI shutdowns we've seen so far.
 
-📺 AI Revolution
+📺 House of El - AI
 
-👁️ 25K • 👍 871 • 💬 67 • ⏱️ 15:12 • 1d ago
+👁️ 368K • 👍 23K • 💬 3K • ⏱️ 22:22 • 2d ago
 
 ---
 
@@ -296,37 +295,7 @@ Get 30 days free on HighLevel only with my link: https://www.gohighlevel.com/TKO
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 17K • 👍 710 • 💬 51 • ⏱️ 20:40 • 1d ago
-
----
-
-**[The Claude Shutdown Is a Total Sh*tshow](https://www.youtube.com/watch?v=R4nFEQb7kZo)**
-
-Three words — “fix this code” — were apparently enough to trigger one of the most dramatic AI shutdowns we've seen so far.
-
-📺 House of El - AI
-
-👁️ 366K • 👍 23K • 💬 3K • ⏱️ 22:22 • 2d ago
-
----
-
-**[How to Lose a Global AI Monopoly in One Afternoon](https://www.youtube.com/watch?v=0RxMj0L0-fY)**
-
-Streamline your entire business with Odoo! The all-in-one, easy-to-use ERP platform that centralizes, automates, and scales your ...
-
-📺 Patrick Boyle
-
-👁️ 602K • 👍 24K • 💬 3K • ⏱️ 30:09 • 23h ago
-
----
-
-**[AI Does Something Horrifying To Human Thinking](https://www.youtube.com/watch?v=52FiVExXfnU)**
-
-Research shows AI is measurably reducing how hard our brains work - an MIT study found ChatGPT users had the lowest neural ...
-
-📺 House of El - AI
-
-👁️ 91K • 👍 8K • 💬 2K • ⏱️ 21:47 • 20h ago
+👁️ 17K • 👍 731 • 💬 52 • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -340,13 +309,33 @@ AI is creating trillion-dollar opportunities... but most investors are looking i
 
 ---
 
-**[UNCENSORED!! 4 FREE &amp; UNLIMITED AI Video Generators with SEEDANCE 2.0](https://www.youtube.com/watch?v=5_C0OjlglhI)**
+**[Am I Worried About The Future of Voice Over with AI?](https://www.youtube.com/watch?v=VMfPeuf0QV4)**
 
-These are 4 Free AI Video Generators nobody has seen yet with seedance 2, veo 3 and the top ai models. Since a lot of you ...
+Once again, answering your questions! Don't forget to write any new ones in the comments! SUBSCRIBE to BRIAN: ...
 
-📺 Brain Project
+📺 Brian Hull
 
-👁️ 7K • 👍 409 • 💬 73 • ⏱️ 20:22 • 19h ago
+👁️ 5K • 👍 492 • 💬 162 • ⏱️ 9:21 • 21h ago
+
+---
+
+**[AI Does Something Horrifying To Human Thinking](https://www.youtube.com/watch?v=52FiVExXfnU)**
+
+Research shows AI is measurably reducing how hard our brains work - an MIT study found ChatGPT users had the lowest neural ...
+
+📺 House of El - AI
+
+👁️ 96K • 👍 9K • 💬 2K • ⏱️ 21:47 • 22h ago
+
+---
+
+**[Inside Google&#39;s AI data centers](https://www.youtube.com/watch?v=TfW5pWpsHAo)**
+
+"GMA" gets exclusive access inside a Google data center as communities nationwide grapple with the rapid expansion of ...
+
+📺 ABC News
+
+👁️ 39K • 👍 582 • 💬 214 • ⏱️ 5:37 • 2d ago
 
 ---
 
@@ -360,23 +349,33 @@ In this episode, I follow up on a few of my predictions about AI from my recent 
 
 ---
 
-**[How to Build AI Agents in 14 minutes Using Claude (for beginners)](https://www.youtube.com/watch?v=3MX7rVeVIYw)**
+**[UNCENSORED!! 4 FREE &amp; UNLIMITED AI Video Generators with SEEDANCE 2.0](https://www.youtube.com/watch?v=5_C0OjlglhI)**
 
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+These are 4 Free AI Video Generators nobody has seen yet with seedance 2, veo 3 and the top ai models. Since a lot of you ...
 
-📺 Mikey Vibe Coding
+📺 Brain Project
 
-👁️ 19K • 💬 18 • ⏱️ 30:55 • 2d ago
+👁️ 8K • 👍 471 • 💬 79 • ⏱️ 20:22 • 22h ago
 
 ---
 
-**[Inside Google&#39;s AI data centers](https://www.youtube.com/watch?v=TfW5pWpsHAo)**
+**[3D Long AI Video बनाना सीखिए ✅ | ai se video kaise banaye | ai video kaise banaye | cartoon video ](https://www.youtube.com/watch?v=MZFMS8OOpm0)**
 
-"GMA" gets exclusive access inside a Google data center as communities nationwide grapple with the rapid expansion of ...
+3D Long AI Video बनाना सीखिए ✓ | ai se video kaise banaye | ai video kaise banaye | cartoon video #aivideo #aitools ...
 
-📺 ABC News
+📺 Tech Aakash Help
 
-👁️ 37K • 👍 554 • 💬 206 • ⏱️ 5:37 • 2d ago
+👁️ 9K • 👍 525 • 💬 203 • ⏱️ 23:07 • 6h ago
+
+---
+
+**[LG AI television will &quot;listen to me and care for me&quot; 🤡🖕🖕🖕AI bubble needs to pop](https://www.youtube.com/watch?v=L2mdimfvIDs)**
+
+https://consumerrights.wiki.
+
+📺 Louis Rossmann
+
+👁️ 64K • 👍 6K • 💬 1K • ⏱️ 4:21 • 23h ago
 
 ---
 
@@ -392,7 +391,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 358,677 • ❤️ 2,014 • 2d ago
+⬇️ 358,677 • ❤️ 2,029 • 2d ago
 
 ---
 
@@ -404,7 +403,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 27,413 • ❤️ 1,735 • 2d ago
+⬇️ 27,413 • ❤️ 1,748 • 2d ago
 
 ---
 
@@ -416,7 +415,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 104,076 • ❤️ 1,167 • 5d ago
+⬇️ 104,076 • ❤️ 1,170 • 5d ago
 
 ---
 
@@ -428,7 +427,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 20,277 • ❤️ 530 • 1d ago
+⬇️ 20,277 • ❤️ 537 • 1d ago
 
 ---
 
@@ -440,19 +439,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 363,308 • ❤️ 935 • 6d ago
-
----
-
-**[diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**
-
-*Google*
-
-DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model that uses discrete text diffusion for high-speed text generation from text, image, and video inputs. It excels at tasks requiring rapid inference, long context understanding (up to 256K tokens), and multimodal reasoning, making it suitable for applications like advanced chatbots, content creation, and complex document analysis.
-
-`image-text-to-text` `25.8B`
-
-⬇️ 762,861 • ❤️ 1,025 • 10d ago
+⬇️ 363,308 • ❤️ 938 • 6d ago
 
 ---
 
@@ -464,7 +451,19 @@ FastContext-1.0-4B-SFT is a lightweight repository-exploration subagent for LLM 
 
 `text-generation` `4.0B`
 
-⬇️ 2,593 • ❤️ 250 • 4d ago
+⬇️ 2,593 • ❤️ 255 • 4d ago
+
+---
+
+**[diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**
+
+*Google*
+
+DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model that uses discrete text diffusion for high-speed text generation from text, image, and video inputs. It excels at tasks requiring rapid inference, long context understanding (up to 256K tokens), and multimodal reasoning, making it suitable for applications like advanced chatbots, content creation, and complex document analysis.
+
+`image-text-to-text` `25.8B`
+
+⬇️ 762,861 • ❤️ 1,026 • 10d ago
 
 ---
 
@@ -476,7 +475,19 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 241,845 • ❤️ 2,227 • 8d ago
+⬇️ 241,845 • ❤️ 2,233 • 9d ago
+
+---
+
+**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
+
+*Yuxin Lu*
+
+A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
+
+`text-generation` `11.9B`
+
+⬇️ 21,730 • ❤️ 228 • 2d ago
 
 ---
 
@@ -488,19 +499,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 3,966,691 • ❤️ 2,056 • 2mo ago
-
----
-
-**[GLM-5.2-GGUF](https://huggingface.co/unsloth/GLM-5.2-GGUF)**
-
-*Unsloth AI*
-
-GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 1M token context window and advanced coding capabilities with flexible effort levels. It utilizes an improved architecture with IndexShare for reduced FLOPs and is released under an MIT license for broad accessibility.
-
-`text-generation` `753.9B`
-
-⬇️ 32,260 • ❤️ 213 • 2d ago
+⬇️ 3,966,691 • ❤️ 2,061 • 2mo ago
 
 ---
 
@@ -564,7 +563,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 7 • 💬 1 • ⭐ 8,146 • 5mo ago
+▲ 7 • 💬 1 • ⭐ 8,220 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -578,7 +577,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 20 • 💬 1 • ⭐ 83,139 • 19d ago
+▲ 20 • 💬 1 • ⭐ 83,173 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -605,7 +604,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates.
 
-▲ 89 • 💬 3 • ⭐ 704 • 9d ago
+▲ 89 • 💬 3 • ⭐ 734 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.14066) • [💻 code](https://github.com/microsoft/fastcontext) • [🔗 project](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)
 
@@ -623,15 +622,17 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+**[VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models](https://huggingface.co/papers/2606.16140)**
 
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+*Sen Xu, Shixi Liu, Wei Wang et al. (9 authors)*
 
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+🏢 WeiboAI
 
-▲ 183 • 💬 9 • ⭐ 7,768 • 5mo ago
+VibeThinker-3B demonstrates that compact models can achieve state-of-the-art performance on verifiable reasoning tasks through specialized training techniques, challenging conventional scaling assumptions.
 
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
+▲ 102 • 💬 1 • ⭐ 1,170 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.16140) • [💻 code](https://github.com/WeiboAI/VibeThinker) • [🔗 project](https://github.com/WeiboAI/VibeThinker)
 
 ---
 
@@ -645,7 +646,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 75.3k • 🔱 9.8k • 1d ago
+⭐ 75.4k • 🔱 9.8k • 1d ago
 
 ---
 
@@ -655,7 +656,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 44.5k • 🔱 2.2k • 10h ago
+⭐ 44.8k • 🔱 2.2k • 12h ago
 
 ---
 
@@ -665,7 +666,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.1k • 🔱 940 • 5h ago
+⭐ 10.1k • 🔱 940 • 46s ago
 
 ---
 
@@ -675,7 +676,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.2k • 🔱 477 • 6h ago
+⭐ 4.3k • 🔱 479 • 9h ago
 
 ---
 
@@ -685,7 +686,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 415 • 4d ago
+⭐ 3.4k • 🔱 416 • 4d ago
 
 ---
 
@@ -705,7 +706,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 1.7k • 🔱 155 • 16h ago
+⭐ 1.8k • 🔱 162 • 18h ago
 
 ---
 
