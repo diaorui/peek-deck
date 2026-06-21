@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T20:52:48.136466+00:00'
+updated: '2026-06-21T22:15:27.384701+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 20:52 UTC  
+**Last Updated:** June 21, 2026 at 22:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -4.3%  
-**30d:** -18.9%  
-**90d:** -20.3%  
-**1y:** -22.8%  
+**24h:** -1.6%  
+**7d:** -4.6%  
+**30d:** -19.2%  
+**90d:** -20.5%  
+**1y:** -22.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.12B
+**Market Cap:** $213.92B
 Rank #2
 
-**Circulating Supply:** 120,683,902 ETH
+**Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.0%
+-64.1%
 
 **All-Time Low:** $0.43
-+400055.7%
++409996.1%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 13h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -162,15 +162,15 @@ CoinDesk • 13h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 17h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[Ethereum Foundation’s Leadership Exodus Claims Its Second Co-Director](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-leadership-exodus-claims-112030013.html)**
+**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
 
-Hsiao-Wei Wang steps down as Ethereum Foundation co-executive director, the second co-ED to leave in 2026 amid a broader leadership exodus.
+zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,15 @@ Yahoo Finance • 2d ago
 
 Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
 
-TradingView • 8h ago
+TradingView • 9h ago
+
+---
+
+**[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
+
+Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
+
+The Block • 2d ago
 
 ---
 
@@ -186,7 +194,15 @@ TradingView • 8h ago
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
+
+---
+
+**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
+
+Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
+
+unchainedcrypto.com • 2d ago
 
 ---
 
@@ -202,7 +218,7 @@ Decrypt • 3d ago
 
 Ethereum jitters deepened this week as Bitwise’s Bitwise Ethereum ETF, ETHW, logged outflows of $500,120 on June 18, 2026, a modest but telling 0.27% of its $185.9 ...
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -210,23 +226,7 @@ TipRanks • 8h ago
 
 Jaredfromsubway MEV bot lost $7.5M after attacker-built contracts turned trading approvals into an allowance drain.
 
-CryptoSlate • 8h ago
-
----
-
-**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
-
-Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
-
-Benzinga • 3d ago
-
----
-
-**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
-
-Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
-
-unchainedcrypto.com • 2d ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -234,13 +234,13 @@ unchainedcrypto.com • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Running Out Of Money For Development!? Iran: &#39;Strait Of Hormuz Is Closed&#39; ... US Responds](https://www.youtube.com/watch?v=T7uTKUsB8e8)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
 
-📺 AllinCrypto
+📺 Gareth Soloway
 
-👁️ 3K • 👍 235 • 💬 150 • ⏱️ 10:44 • 7h ago
+👁️ 22K • 👍 2K • 💬 137 • ⏱️ 15:20 • 4h ago
 
 ---
 
@@ -250,17 +250,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 177 • 💬 123 • ⏱️ 18:36 • 1d ago
+👁️ 5K • 👍 183 • 💬 123 • ⏱️ 18:36 • 1d ago
 
 ---
 
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
+**[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
 
-No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
+3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Gareth Soloway
+📺 Altcoin Daily
 
-👁️ 6K • 👍 738 • 💬 48 • ⏱️ 15:20 • 2h ago
+👁️ 269 • 👍 28 • 💬 9 • ⏱️ 13:42 • 5m ago
+
+---
+
+**[Ethereum Running Out Of Money For Development!? Iran: &#39;Strait Of Hormuz Is Closed&#39; ... US Responds](https://www.youtube.com/watch?v=T7uTKUsB8e8)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 4K • 👍 295 • 💬 157 • ⏱️ 10:44 • 8h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BX2fy9QPO38)**
+
+BITCOIN & CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 230 • 💬 45 • ⏱️ 20:26 • 4h ago
 
 ---
 
@@ -270,7 +290,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 538 • 💬 45 • ⏱️ 17:32 • 2d ago
+👁️ 14K • 👍 544 • 💬 45 • ⏱️ 17:32 • 2d ago
 
 ---
 
@@ -280,27 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 294 • 👍 17 • 💬 55 • ⏱️ 4:19 • 10h ago
-
----
-
-**[Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains](https://www.youtube.com/watch?v=eTh2O7zW0bI)**
-
-Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum continues to lead the blockchain space with ...
-
-📺 Crypto Meridian
-
-👁️ 2K • 👍 16 • 💬 38 • ⏱️ 2:03 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=8_vtmQZxjIM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 631 • 👍 67 • ⏱️ 7:23 • 7h ago
+👁️ 394 • 👍 17 • 💬 55 • ⏱️ 4:19 • 11h ago
 
 ---
 
@@ -310,7 +310,17 @@ D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a lim
 
 📺 XRP Bags
 
-👁️ 5K • 👍 479 • 💬 112 • ⏱️ 11:45 • 1d ago
+👁️ 5K • 👍 481 • 💬 111 • ⏱️ 11:45 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=8_vtmQZxjIM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 847 • 👍 71 • ⏱️ 7:23 • 8h ago
 
 ---
 
@@ -320,17 +330,7 @@ XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #cryp
 
 📺 MrNasdog
 
-👁️ 2K • 👍 49 • 💬 3 • ⏱️ 1:02 • 17h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=wUISuDASZZY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 2K • 👍 106 • ⏱️ 7:13 • 16h ago
+👁️ 2K • 👍 50 • 💬 3 • ⏱️ 1:02 • 18h ago
 
 ---
 

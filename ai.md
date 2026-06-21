@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-21T20:52:48.123109+00:00'
+updated: '2026-06-21T22:15:27.371083+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 21, 2026 at 20:52 UTC  
+**Last Updated:** June 21, 2026 at 22:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ I wrote an entire paper over the last few days for my college course. 7 pages wi
 
 Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
 
-9h ago
+11h ago
 
 ---
 
@@ -57,15 +57,7 @@ Source (The Economist): “Deezer, a streaming service, estimates that some 75,0
 
 A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. <-- (this is the money point) They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
 
-11h ago
-
----
-
-**[What AI development would have shocked you the most if you’d seen it in 2020?](https://www.reddit.com/r/artificial/comments/1ubysdt/what_ai_development_would_have_shocked_you_the/)**
-
-Back in 2020, I thought AI would improve gradually over the next decade. If someone had shown me today’s AI tools back then, I think I’d have been most shocked by how quickly AI became useful for coding, writing, research, image generation, and even voice conversations. Looking back, what AI development from the last few years would have seemed the most unbelievable to your 2020 self? And what do you think people in 2030 will look back on and say, “We should have seen that coming”?
-
-1h ago
+12h ago
 
 ---
 
@@ -73,7 +65,7 @@ Back in 2020, I thought AI would improve gradually over the next decade. If some
 
 First of all, I'd like to apologize if this post doesn't fit this community. Which AI assistant do you think is the best for guided learning? I'd like to learn subjects such as geography, astronomy, and physics purely out of personal interest—not for school—and I'm looking for a great learning experience: accurate information, clear explanations, and coverage of all the important concepts without leaving anything essential out. So far I've tried ChatGPT, Gemini, and DeepSeek. Out of the three, Gemini has impressed me the most because its explanations are very clear and easy to understand. ChatGPT tends to give rather brief answers, while DeepSeek is the opposite—it often gives very technical and complex answers with less explanation. I'm considering subscribing to Gemini Pro. What do you think? Do you know of any other AI assistants that are particularly good for guided learning? Thank you very much in advance!
 
-26m ago
+1h ago
 
 ---
 
@@ -81,7 +73,15 @@ First of all, I'd like to apologize if this post doesn't fit this community. Whi
 
 I've ended up using a few models for different things. One tends to write better, another reasons through problems better, another I just use for quick stuff. On paper that's great, in practice I spend a stupid amount of time getting each one up to speed Every time I switch I'm basically re-explaining the same background. Here's the project, here's what we already figured out, here's the docs that matter. The conversation in any single model is fine, it's the constant re-briefing across all of them that eats my time And it's not just pasting text. Each one remembers a slightly different version of the project depending on what I told it last, so I'll get answers that contradict each other because one model is working off context the other one never got I've tried keeping a master doc I paste in everywhere, but I forget to update it, and then I'm back to square one How people who run multiple models actually handle this. Do you keep one external source of truth and feed it into all of them? Pick one main model and only use the others for one-off tasks? Or just accept that context lives in silos and move on?
 
-39m ago
+2h ago
+
+---
+
+**[What AI development would have shocked you the most if you’d seen it in 2020?](https://www.reddit.com/r/artificial/comments/1ubysdt/what_ai_development_would_have_shocked_you_the/)**
+
+Back in 2020, I thought AI would improve gradually over the next decade. If someone had shown me today’s AI tools back then, I think I’d have been most shocked by how quickly AI became useful for coding, writing, research, image generation, and even voice conversations. Looking back, what AI development from the last few years would have seemed the most unbelievable to your 2020 self? And what do you think people in 2030 will look back on and say, “We should have seen that coming”?
+
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ I've ended up using a few models for different things. One tends to write better
 
 An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cpwerjy20kyo) • 2h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cpwerjy20kyo) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ An AI company is sending free cleaners door-to-door in a bid to train the robots
 
 Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 14h ago
 
 ---
 
@@ -105,7 +105,7 @@ Investigation finds AI content that purports to show genuine customers, promptin
 
 As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore) • 2h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore) • 4h ago
 
 ---
 
@@ -113,7 +113,7 @@ As AI-powered security tools become cheaper, faster and more widely available, r
 
 A few months ago, when I ran a deep research query, the Al would actually sit there and grind for 20 to 30 minutes. You could see it pulling from hundreds of different sources to build a massive, detailed report. ​ Now? The entire process wraps up in under 7 minutes. ​ I've recently switched from ChatGPT to Gemini and I taught it was a Gemini specific thing, switched to ChatGPT and it's even worse there. ​ What happened? Deep research in it's current form isn't very "deep"...
 
-5h ago
+7h ago
 
 ---
 
@@ -121,31 +121,55 @@ A few months ago, when I ran a deep research query, the Al would actually sit th
 
 ## Google News: "ai"
 
-**[Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)**
+**[All the Money Flooding Into AI Is a Giant Warning Sign](https://www.wsj.com/finance/stocks/all-the-money-flooding-into-ai-is-a-giant-warning-sign-6e08e3ea)**
 
-Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
-
-The Guardian • 2h ago
+WSJ • 12h ago
 
 ---
 
-**[What AI Can’t—or Shouldn’t—Do for You](https://www.wsj.com/tech/ai/when-ai-more-harm-than-good-519a83e7)**
+**[AI buildout gives tech investors new reasons to watch bond market](https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html)**
 
-WSJ • 5h ago
+Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.
 
----
-
-**[What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention.](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6)**
-
-GLM-5.2, a new open-source Chinese AI model for long-form coding tasks, is turning heads among Silicon Valley's AI elite.
-
-Business Insider • 59m ago
+CNBC • 1d ago
 
 ---
 
-**[Opinion | AI Is a Boon to Ambitious Recent Grads](https://www.wsj.com/opinion/ai-is-a-boon-to-ambitious-recent-grads-d4f983a1)**
+**[Why Settle for Nvidia When This AI Stock Has 1,000% Upside?](https://investorplace.com/2026/06/why-settle-nvidia-ai-stock-1000-upside/)**
 
-WSJ • 37m ago
+For this Sunday Digest, I’d like to leave it to Eric Fry to explain why he has his eye set on a new potential ten-bagger, and why this stock could belong in your portfolio.
+
+InvestorPlace • 7h ago
+
+---
+
+**[China is having another AI moment](https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment)**
+
+The Economist • 5h ago
+
+---
+
+**[Conjoined twins separated with help from AI](https://www.cnn.com/2026/06/21/health/video/conjoined-twins-separated-ai-surgery-digvid-vrtc)**
+
+Twins Mercy and Goodness were born with their skulls fused together. A charity involved in their care says AI helped plan the complex surgeries and design custom skull implants used in their separation.
+
+CNN • 1h ago
+
+---
+
+**[Inside college AI cheating wars: extreme surveillance, false accusations, jarring confusion](https://www.adn.com/nation-world/2026/06/21/inside-college-ai-cheating-wars-extreme-surveillance-false-accusations-jarring-confusion/)**
+
+At many campuses, AI policy is left to individual instructors seeking to encourage its ethical use while preserving academic integrity, as the technology evolves faster than university rules.
+
+Anchorage Daily News • 30m ago
+
+---
+
+**[New OpenAI Hire Warns Government Monopoly on AI Could Lead to ‘Very Scary Outcomes’](https://www.yahoo.com/news/politics/articles/openai-hire-warns-government-monopoly-212631042.html)**
+
+Dean Ball, formerly a White House Senior Policy Advisor and now working on frontier AI policy at OpenAI, delivered a pointed warning about where U.S. AI oversight may be heading on Nathan Labenz’s The...
+
+Yahoo • 48m ago
 
 ---
 
@@ -153,29 +177,7 @@ WSJ • 37m ago
 
 Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
 
-CNBC • 7h ago
-
----
-
-**[AI regulation is a mess, and Anthropic is caught in the crosshairs](https://www.cnn.com/2026/06/21/tech/anthropic-ai-regulation)**
-
-The latest spat between Anthropic and the government raises a broad concern among AI and safety researchers: There is no consistent framework for regulating AI.
-
-CNN • 4h ago
-
----
-
-**[Did Anthropic talk its way into an AI export ban?](https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb?syn-25a6b1a6=1)**
-
-FT analysis shows company warned about dangers of advanced AI far more than rival OpenAI this year
-
-Financial Times • 1d ago
-
----
-
-**[Opinion | Trust the Free Market on AI](https://www.wsj.com/opinion/trust-the-free-market-on-ai-5aa49ee0)**
-
-WSJ • 2h ago
+CNBC • 8h ago
 
 ---
 
@@ -183,13 +185,15 @@ WSJ • 2h ago
 
 I’d benefit if AI cured cancer. And I still want AI progress to slow down.
 
-The Atlantic • 8h ago
+The Atlantic • 10h ago
 
 ---
 
-**[The ‘Mass Affluent’ Are Losing Their Allure for Wealth Managers Navigating AI](https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai)**
+**[Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)**
 
-Bloomberg • 8h ago
+Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
+
+The Guardian • 4h ago
 
 ---
 
@@ -199,7 +203,7 @@ Bloomberg • 8h ago
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 805 • 💬 583 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 806 • 💬 583 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -237,7 +241,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 236 • 💬 138 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 239 • 💬 141 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -245,7 +249,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 216 • 💬 151 • 19h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 216 • 💬 151 • 21h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -253,13 +257,13 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 175 • 💬 43 • 16h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 177 • 💬 44 • 17h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
 **[The 100k whys of AI](https://news.ycombinator.com/item?id=48616017)**
 
-⬆️ 158 • 💬 94 • 15h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+⬆️ 162 • 💬 95 • 16h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
 
 ---
 
@@ -275,83 +279,33 @@ Amazon, Walmart and Uber are among early adopters that have introduced caps or d
 
 ## YouTube Videos: "ai"
 
+**[AI Situation Is Tragic](https://www.youtube.com/watch?v=rvItraUfokI)**
+
+Wow more great news about the future of creation, I Love AI! Search the AI watchdog dataset yourself: ...
+
+📺 Dolan Darkest
+
+👁️ 73K • 👍 7K • 💬 684 • ⏱️ 2:42 • 2h ago
+
+---
+
 **[Chinese AI Models are CRAZY.](https://www.youtube.com/watch?v=T-YyHx8kc9I)**
 
 these new Chinese AI Models are INSANE, so I put them up to the challenge today to make Mario kart from scratch. Best AI ...
 
 📺 tef
 
-👁️ 29K • 👍 2K • 💬 285 • ⏱️ 10:34 • 18h ago
+👁️ 32K • 👍 2K • 💬 305 • ⏱️ 10:34 • 19h ago
 
 ---
 
-**[How to Lose a Global AI Monopoly in One Afternoon](https://www.youtube.com/watch?v=0RxMj0L0-fY)**
+**[AI True Crime Is Here](https://www.youtube.com/watch?v=Yf79ZCFk5Us)**
 
-Streamline your entire business with Odoo! The all-in-one, easy-to-use ERP platform that centralizes, automates, and scales your ...
+Get exclusive videos & early access on my Patreon: http://patreon.com/RyanGeorge True crime channels have started using AI to ...
 
-📺 Patrick Boyle
+📺 Ryan George Extra Plus!
 
-👁️ 695K • 👍 26K • 💬 3K • ⏱️ 30:09 • 1d ago
-
----
-
-**[Inside Google&#39;s AI data centers](https://www.youtube.com/watch?v=TfW5pWpsHAo)**
-
-"GMA" gets exclusive access inside a Google data center as communities nationwide grapple with the rapid expansion of ...
-
-📺 ABC News
-
-👁️ 44K • 👍 629 • 💬 229 • ⏱️ 5:37 • 2d ago
-
----
-
-**[I Was Right About AI](https://www.youtube.com/watch?v=aXy8mQeuObk)**
-
-In this episode, I follow up on a few of my predictions about AI from my recent video: "How AI Will Fail Like The Music Industry" My ...
-
-📺 Rick Beato
-
-👁️ 1.1M • 👍 56K • 💬 8K • ⏱️ 7:47 • 2d ago
-
----
-
-**[Is Gen Z trapped by AI? | BBC News](https://www.youtube.com/watch?v=yrgzszEY4wI)**
-
-Young people were told artificial intelligence would make them sharper, faster, more creative — and more employable. But for ...
-
-📺 BBC News
-
-👁️ 36K • 👍 771 • 💬 179 • ⏱️ 26:12 • 1d ago
-
----
-
-**[3D Long AI Video बनाना सीखिए ✅ | ai se video kaise banaye | ai video kaise banaye | cartoon video ](https://www.youtube.com/watch?v=MZFMS8OOpm0)**
-
-3D Long AI Video बनाना सीखिए ✓ | ai se video kaise banaye | ai video kaise banaye | cartoon video #aivideo #aitools ...
-
-📺 Tech Aakash Help
-
-👁️ 19K • 👍 906 • 💬 262 • ⏱️ 23:07 • 14h ago
-
----
-
-**[Anthropic Wants AI to Stop](https://www.youtube.com/watch?v=vu_-NTR_Pr4)**
-
-Use code TIS at https://incogni.com/tis to get an exclusive 60% off. Anthropic says AI is becoming too powerful and may need to be ...
-
-📺 The Infographics Show
-
-👁️ 139K • 👍 4K • 💬 613 • ⏱️ 15:27 • 2d ago
-
----
-
-**[AI Movie Trailers 🔥 Movie Teasers with AI 🎬  Realistic AI Action Videos #ai #aivideo](https://www.youtube.com/watch?v=xUAcEKA-1SY)**
-
-Create CINEMATIC Bollywood Movie Teasers & Trailers Using AI AI Tool 1: ...
-
-📺 Raj Photo Editing and Much More
-
-👁️ 8K • 👍 562 • 💬 34 • ⏱️ 11:16 • 14h ago
+👁️ 215K • 👍 17K • 💬 1K • ⏱️ 10:28 • 2d ago
 
 ---
 
@@ -361,7 +315,57 @@ Are AI glasses ready for daily use? See how the MemoMind one handles real-time t
 
 📺 Matt Talks Tech
 
-👁️ 4K • 👍 481 • 💬 15 • ⏱️ 11:33 • 11h ago
+👁️ 4K • 👍 488 • 💬 16 • ⏱️ 11:33 • 12h ago
+
+---
+
+**[Stupid Ai Responses💔 #5](https://www.youtube.com/watch?v=xAD9kfKaKq8)**
+
+Wanna be friends? This video is just a joke, and satire, it's not meant to bully or target anyone. These are just funny Ai responses ...
+
+📺 MANDO
+
+👁️ 34K • 👍 4K • 💬 701 • ⏱️ 8:42 • 5h ago
+
+---
+
+**[5 Ways to Make Money From an AI the Government Fears](https://www.youtube.com/watch?v=q_FIJmSB0Ro)**
+
+Get 30 days free on HighLevel only with my link: https://www.gohighlevel.com/TKOPOD ━ Check out my newsletter at ...
+
+📺 Chris Koerner on The Koerner Office Podcast
+
+👁️ 21K • 👍 847 • 💬 60 • ⏱️ 20:40 • 1d ago
+
+---
+
+**[Inside Google&#39;s AI data centers](https://www.youtube.com/watch?v=TfW5pWpsHAo)**
+
+"GMA" gets exclusive access inside a Google data center as communities nationwide grapple with the rapid expansion of ...
+
+📺 ABC News
+
+👁️ 46K • 👍 659 • 💬 243 • ⏱️ 5:37 • 2d ago
+
+---
+
+**[Google&#39;s SECRET 8 AI Tools Just REPLACED Every Paid AI Tool (100% FREE Stack)](https://www.youtube.com/watch?v=RIPxwxqZhVI)**
+
+JOIN 2 Day FREE AI Mastermind here https://links.stayingahead.com/YT46 8 FREE Google AI tools that replace almost every ...
+
+📺 Vaibhav Sisinty
+
+👁️ 95K • 👍 4K • 💬 109 • ⏱️ 1:42:29 • 2d ago
+
+---
+
+**[Is Gen Z trapped by AI? | BBC News](https://www.youtube.com/watch?v=yrgzszEY4wI)**
+
+Young people were told artificial intelligence would make them sharper, faster, more creative — and more employable. But for ...
+
+📺 BBC News
+
+👁️ 38K • 👍 809 • 💬 191 • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -371,7 +375,7 @@ https://consumerrights.wiki.
 
 📺 Louis Rossmann
 
-👁️ 70K • 👍 7K • 💬 2K • ⏱️ 4:21 • 1d ago
+👁️ 72K • 👍 7K • 💬 2K • ⏱️ 4:21 • 1d ago
 
 ---
 
@@ -387,7 +391,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 358,677 • ❤️ 2,061 • 2d ago
+⬇️ 358,677 • ❤️ 2,075 • 2d ago
 
 ---
 
@@ -399,19 +403,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 27,413 • ❤️ 1,786 • 2d ago
-
----
-
-**[MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)**
-
-*MiniMax*
-
-MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text-to-text tasks. It features MiniMax Sparse Attention (MSA) for efficient long context processing and demonstrates frontier-level performance in coding and agentic benchmarks.
-
-`image-text-to-text` `427.0B`
-
-⬇️ 104,076 • ❤️ 1,175 • 5d ago
+⬇️ 27,413 • ❤️ 1,800 • 2d ago
 
 ---
 
@@ -423,7 +415,19 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 20,277 • ❤️ 550 • 2d ago
+⬇️ 20,277 • ❤️ 556 • 2d ago
+
+---
+
+**[MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)**
+
+*MiniMax*
+
+MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text-to-text tasks. It features MiniMax Sparse Attention (MSA) for efficient long context processing and demonstrates frontier-level performance in coding and agentic benchmarks.
+
+`image-text-to-text` `427.0B`
+
+⬇️ 104,076 • ❤️ 1,176 • 5d ago
 
 ---
 
@@ -435,7 +439,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 363,308 • ❤️ 943 • 6d ago
+⬇️ 363,308 • ❤️ 944 • 6d ago
 
 ---
 
@@ -459,7 +463,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 21,730 • ❤️ 257 • 2d ago
+⬇️ 21,730 • ❤️ 267 • 2d ago
 
 ---
 
@@ -471,7 +475,7 @@ DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model th
 
 `image-text-to-text` `25.8B`
 
-⬇️ 762,861 • ❤️ 1,031 • 11d ago
+⬇️ 762,861 • ❤️ 1,034 • 11d ago
 
 ---
 
@@ -483,7 +487,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 241,845 • ❤️ 2,239 • 9d ago
+⬇️ 241,845 • ❤️ 2,240 • 9d ago
 
 ---
 
@@ -495,7 +499,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 32,260 • ❤️ 220 • 3d ago
+⬇️ 32,260 • ❤️ 222 • 3d ago
 
 ---
 
@@ -533,7 +537,7 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 101 • 💬 4 • ⭐ 87,720 • 18mo ago
+▲ 101 • 💬 4 • ⭐ 87,808 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -547,7 +551,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 241 • 💬 4 • ⭐ 8,492 • 1mo ago
+▲ 241 • 💬 4 • ⭐ 8,580 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -641,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 75.6k • 🔱 9.8k • 1d ago
+⭐ 75.7k • 🔱 9.8k • 1d ago
 
 ---
 
@@ -651,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 45.5k • 🔱 2.2k • 20h ago
+⭐ 45.8k • 🔱 2.3k • 21h ago
 
 ---
 
@@ -661,7 +665,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.2k • 🔱 944 • 7h ago
+⭐ 10.2k • 🔱 947 • 8h ago
 
 ---
 
@@ -671,7 +675,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.3k • 🔱 483 • 6h ago
+⭐ 4.3k • 🔱 489 • 8h ago
 
 ---
 
@@ -681,7 +685,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 417 • 4h ago
+⭐ 3.4k • 🔱 418 • 5h ago
 
 ---
 
@@ -691,7 +695,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 2.2k • 🔱 193 • 1d ago
+⭐ 2.4k • 🔱 203 • 1d ago
 
 ---
 
@@ -721,7 +725,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.7k • 🔱 96 • 1d ago
+⭐ 1.7k • 🔱 95 • 1d ago
 
 ---
 

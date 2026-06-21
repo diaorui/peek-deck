@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T20:52:48.130981+00:00'
+updated: '2026-06-21T22:15:27.379139+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 20:52 UTC  
+**Last Updated:** June 21, 2026 at 22:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,067.20
+### $63,616.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -3.9%  
-**30d:** -16.9%  
-**90d:** -9.7%  
-**1y:** -36.8%  
+**24h:** -1.1%  
+**7d:** -4.1%  
+**30d:** -17.2%  
+**90d:** -9.9%  
+**1y:** -37.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.15B
+**Market Cap:** $1316.39B
 Rank #1
 
-**Circulating Supply:** 20,046,000 BTC
-95.5% of max
+**Circulating Supply:** 20,043,737 BTC
+95.4% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-47.9%
 
 **All-Time Low:** $67.81
-+94436.2%
++96727.9%
 
 ---
 
@@ -77,81 +77,83 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Decentralized Bitcoin bridge ?](https://www.reddit.com/r/Bitcoin/comments/1uat998/decentralized_bitcoin_bridge/)**
+**[Franklin Templeton Files For Two ETFs That Reinvest Stock Dividends Into Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ubsvdp/franklin_templeton_files_for_two_etfs_that/)**
 
-Im looking for a decentralized way to bridge BTC to another without relying on a centralized custodian What are you guys using? Any recommendations or experiences sharing would be great- thanks
+Franklin Templeton filed for two new ETFs that automatically reinvest stock dividends into Bitcoin exposure, blending traditional equity investing with a built-in Bitcoin accumulation strategy.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/franklin-templeton-files-two-etfs-bitcoin) • 6h ago
+
+---
+
+**[Timing](https://www.reddit.com/r/Bitcoin/comments/1uc0jst/timing/)**
+
+I see a lot of people saying they are too late to bitcoin, etc etc. That’s definitely not true. While there has definitely been more institutional adoption, the average person still views bitcoin as crazy. I was hanging out with my fiancee’s friend group yesterday comprised of 12 people all 25-32. I asked if anyone was into bitcoin and not a single person said yes and all of them looked at me like I was crazy. To me this makes me feel like I’m ahead of the game.
+
+1h ago
+
+---
+
+**[Why does everyone hate on Michael Saylor?](https://www.reddit.com/r/Bitcoin/comments/1ubw8i0/why_does_everyone_hate_on_michael_saylor/)**
+
+I stay fairly involved to Bitcoin and MSTR discussions, but I never understand the hate for Michael Saylor. I get the initial suspicion, as he was convicted for securities fraud in the early 2000’s, and that he has somewhat delusional takes, but he’s not really a short term bull. Most of his keynote speeches involve him saying that Bitcoin needs to take up 1% of global capital, but it may take the world 10+ years to get there. I find that a lot more bearish than most of what I read on the Bitcoin forums. What he says isn’t really too crazy. If Bitcoin can get adopted by the store of value category (Real Estate, Art, Gold, etc..) than I don’t think it’s far fetched to see Bitcoin become a $10 trillion asset within the next 10 years or so. I would honestly say that most of us that hold Bitcoin would agree with that. So what’s everyone’s problem with Micheal Saylor??
+
+4h ago
+
+---
+
+**[Bitcoin philosophy not valid anymore!?](https://www.reddit.com/r/Bitcoin/comments/1ubzyo5/bitcoin_philosophy_not_valid_anymore/)**
+
+I got into bitcoin because of its philosophy tha empowered people against governments. It allows people to genuinely have a piece of the Bitcoin that they could leverage at some point financially or in many other aspects. But: now Bitcoin is held by Blackrock and other ETFs. People are buing stocks of Bitcoin, not the asset itself. It starts to feel as useless as gold or Tesla shares. An ETF share is a claim. A hardware wallet with your own private keys is actual ownership. That difference still matters today just as much as it did when Bitcoin was created.
+
+2h ago
+
+---
+
+**[SatoshiTimeline.com Launched - A Chronological Map of Satoshi Nakamoto’s Known History - The Satoshi Times](https://www.reddit.com/r/Bitcoin/comments/1ubtoub/satoshitimelinecom_launched_a_chronological_map/)**
+
+The Satoshi Times introduces SatoshiTimeline.com, a searchable, deep-zoom chronological map of Satoshi Nakamoto’s historically documented activity.
+
+🔗 [satoshitimes.com](https://satoshitimes.com/timeline/) • 6h ago
+
+---
+
+**[OOGA BOOGA BTC](https://www.reddit.com/r/Bitcoin/comments/1uba2qu/ooga_booga_btc/)**
+
+Me see green candle. Me buy top. 📈 Price go down 30%. Me panic. Me sell bottom. Price instantly recover. Me angry. Me open 100x leverage short because "market rigged." Price pump 5%. Me get liquidated. Me open 100x leverage long cause "Ooga bull." Price dump 10%. Me get liquidated again. Me go Reddit. "Ooga Whales manipulating market." "Exchanges hunting me stop loss." "BTC scam." Meanwhile smart caveman: Buy low. Hold banana. 🍌 Ignore noise. Sleep good. 😴 Me? Buy top. Sell bottom. Leverage max. Account gone. OOGA BOOGA. CYCLE COMPLETE
+
+23h ago
+
+---
+
+**[Why do people say "usb/hard-drive" when mentioning BTC](https://www.reddit.com/r/Bitcoin/comments/1ubj4we/why_do_people_say_usbharddrive_when_mentioning_btc/)**
+
+"Oh he lost his hard-drive full of bitcoin" ,"Damn his usb had bitcoin he lost it years ago" I dont get it! Bitcoin are on the blockchain so I think they are saying hard-drive/usb as where the passphrase was located in maybe? i think im just dumb
+
+15h ago
+
+---
+
+**[Best resources to learn Crypto / Bitcoin from scratch? (A to Z guide)](https://www.reddit.com/r/Bitcoin/comments/1ubvhbf/best_resources_to_learn_crypto_bitcoin_from/)**
+
+I want to dive deep into crypto and Bitcoin, but honestly, the sheer amount of info out there is pretty overwhelming. Most of the stuff I run into online feels either way too technical to understand or just ends up being a sketchy sales pitch/shill for some random coin. Does anyone have a solid list of go-to resources, websites, or video series that cover everything from the absolute basics to the more advanced stuff? I'm just looking for unbiased, A-to-Z guides that actually break down how it all works without the fluff. Appreciate any links or recommendations you can throw my way!
+
+5h ago
+
+---
+
+**[i am all in in btc, all my life savings](https://www.reddit.com/r/Bitcoin/comments/1uaz7tf/i_am_all_in_in_btc_all_my_life_savings/)**
+
+$171k in btc, all my life savings. i know am stupid
 
 1d ago
 
 ---
 
-**[If Bitcoin hit $12k would you still buy?](https://www.reddit.com/r/Bitcoin/comments/1uahfdh/if_bitcoin_hit_12k_would_you_still_buy/)**
+**[Understand Btc](https://www.reddit.com/r/Bitcoin/comments/1ubxpyv/understand_btc/)**
 
-I'm wondering, if we see a liquidation cascade, or a series of Black Swan events, would you still buy Bitcoin at $12k or do you guys think if that happens it's over for Bitcoin and we'll see 6k or 3k again?
+Is there any single video that explains what btc is and how it is used. I don’t understand btc, if its purpose is to replace the regular currency why does it go up and down like a stock that’s supposed to give returns. I don’t understand what are the practical use cases and how is it being used right now apart for illegal activities. And who even takes care of the btc ecosystem and are they just random people, the concept of ledger everything is so confusing. Help me understand, thank you!
 
-1d ago
-
----
-
-**[I'm waiting for Bitcoin to reach $300,000.](https://www.reddit.com/r/Bitcoin/comments/1uaspdp/im_waiting_for_bitcoin_to_reach_300000/)**
-
-Yes, I firmly believe
-
-1d ago
-
----
-
-**[The first HODL](https://www.reddit.com/r/Bitcoin/comments/1uapsgu/the_first_hodl/)**
-
-Dec 18, 2013. BTC is crashing hard from $1100 to $550. A hammered user named GameKyuubi logs onto BitcoinTalk to vent. He tries to type "I AM HOLDING" but fumbles the keyboard. "I AM HODLING" is born. He admits he’s a terrible trader who can't time the market, so he's just gonna sit on his stack. Fast forward a few hours, the typo goes viral. The absolute degen accidentally birthed the most iconic meme and investment strategy in crypto history. Zero coping, pure lore.
-
-1d ago
-
----
-
-**[Saw “BTC accepted here” signs in the Caribbean](https://www.reddit.com/r/Bitcoin/comments/1uafo7o/saw_btc_accepted_here_signs_in_the_caribbean/)**
-
-Was in a random town in the Dominican Republic and saw quite a few places accepted BTC as a method of payment. Decided to try the system out and purchased ice cream with BTC
-
-1d ago
-
----
-
-**[This argument, more than anything has me convinced. It’s not about going to the moon: it’s about freedom.](https://www.reddit.com/r/Bitcoin/comments/1uajk4t/this_argument_more_than_anything_has_me_convinced/)**
-
-“In early 2013, Mahboob’s Italian business partner told her about bitcoin. He said it was a new kind of money that could be sent from phone to phone without a bank account. Unlike the local afghani currency, which was steered by the government, bitcoin floated on the open market. When Mahboob first learned about bitcoin, it was trading at around $13. By the early summer of 2013, it broke $70. “At first, I did not think the girls would trust Bitcoin,” Mahboob said. “It was too hard to understand.” But her business partner encouraged her and said: “Let’s try it — what do we have to lose?” A few of the women did keep their bitcoin from 2013. One of them was Laleh Farzan. Mahboob told me that Farzan worked for her as a network manager, and in her time at Citadel Software earned 2.5 BTC. At today’s exchange rate, Farzan’s earnings would now be worth more than 100 times the average Afghan annual income. In 2016, Farzan received threats from the Taliban and other conservatives in Afghanistan because of her work with computers. When they attacked her house, she decided to escape, leaving with her family and selling their home and assets to pay brokers to take them on the treacherous road to Europe. Like thousands of other Afghan refugees, Farzan and her family traveled by foot, car and train thousands of miles through Iran and Turkey, finally making it to Germany in 2017. Along the way, dishonest middlemen and common thieves stole everything they brought with them, including their jewelry and cash. At one point, their boat crashed, and more belongings sank to the bottom of the Mediterranean. It’s a tragic story familiar to so many refugees. But in this case, something was different. Through it all, Farzan was able to keep her bitcoin, because she hid the seed to her bitcoin wallet on a piece of tiny, innocuous-looking paper. Thieves could not take what they could not find.” Excerpt from “Broken Money” by Lyn Alden. They control your banks. They control your employer. They control your tax rate. Insiders trade your stocks and manipulate your IRAs. With dilution/QE they can tax your savings by devaluing it and you have no control over that. Bitcoin is like the second amendment for money. It’s about control. I see a lot of fear in this sub. If you’re afraid, you don’t understand how money works, or you’re over leveraged.
-
-1d ago
-
----
-
-**[BTC lightning network](https://www.reddit.com/r/Bitcoin/comments/1uav6ch/btc_lightning_network/)**
-
-JUST IN: YOU CAN NOW SEND MONEY TO CHINA INSTANTLY ON #BITCOIN'S LIGHTNING NETWORK VIA LIGHTSPARK A $1,000,000,000,000 MARKET OPENING TO BTC ABSOLUTELY GAME CHANGING 🔥
-
-1d ago
-
----
-
-**[Chill Guys! HOLD](https://www.reddit.com/r/Bitcoin/comments/1u9vrhf/chill_guys_hold/)**
-
-2d ago
-
----
-
-**[Daily Discussion, June 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1uaoxnk/daily_discussion_june_20_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1d ago
-
----
-
-**[Don't be like Tom!](https://www.reddit.com/r/Bitcoin/comments/1uavqo5/dont_be_like_tom/)**
-
-https://preview.redd.it/cozkztcdof8h1.jpg?width=1020&format=pjpg&auto=webp&s=c79e503dfacdb88f883c5af541d8812b93243a02 Never SELL!!!!!! HODL!
-
-1d ago
+3h ago
 
 ---
 
@@ -171,15 +173,7 @@ CNBC • 1d ago
 
 Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
 
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin and Oil Markets Brace for Possible Black Monday After US-Iran Talks Fracture in Switzerland](https://finance.yahoo.com/markets/crypto/articles/bitcoin-oil-markets-brace-possible-191346515.html)**
-
-US-Iran talks collapsed in Switzerland, reviving Black Monday fears as traders watch oil and crypto into Monday's open.
-
-Yahoo Finance • 1h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -187,7 +181,15 @@ Yahoo Finance • 1h ago
 
 Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
 
-Aberdeen Insider • 9h ago
+Aberdeen Insider • 11h ago
+
+---
+
+**[Anthony Scaramucci Sees Bitcoin Rallying In Q4 2026 And Admits To Owning 'A Lot Of It' — Michael Saylor 'Definitely Not In Trouble'](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-sees-bitcoin-rallying-223038628.html)**
+
+SkyBridge Capital founder Anthony Scaramucci threw his weight on Wednesday behind fellow Bitcoin bull Michael Saylor and his firm Strategy Inc., suggesting they’ll be “right” in the nick of time. Michael Saylor Not In Trouble, Scaramucci Says During an interview with CNBC, Scaramucci stated that Saylor is “definitely not in trouble,” pointing to a “very deep capital pool” at his disposal. “You have to really understand the mechanisms of the balance sheet to understand that Bitcoin can go a lot l
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -195,13 +197,13 @@ Aberdeen Insider • 9h ago
 
 Analysts with JPMorgan have predicted bitcoin miners could be forced to sell more bitcoin...
 
-Forbes • 7h ago
+Forbes • 9h ago
 
 ---
 
 **[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -209,21 +211,21 @@ Seeking Alpha • 15h ago
 
 Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
 
-The Motley Fool • 8h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains](https://www.tradingview.com/news/cointelegraph:04d1f8165094b:0-bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains/)**
+**[Bitcoin Analysts Split Between Buyer Demand And Resistance Ceiling Near $65,000](https://www.tradingview.com/news/newsbtc:2c7c6d22a094b:0-bitcoin-analysts-split-between-buyer-demand-and-resistance-ceiling-near-65-000/)**
 
-Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.
+Bitcoin’s short-term market structure is giving traders two very different stories at once: demand is appearing on dips, but resistance near the mid-$60,000s is still capping the recovery.TL;DRBuyers Are Showing Up, But The Ceiling RemainsTradingView analyst UnitedSignals described Bitcoin as a “ma…
 
-TradingView • 6h ago
+TradingView • 5h ago
 
 ---
 
 **[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
 
 ---
 
@@ -231,7 +233,7 @@ Investing.com • 12h ago
 
 Billionaire Ricardo Salinas said he has increased Bitcoin's (BTC) share of his liquid portfolio to 80% and has no interest in chasing the artificial intelligence boom.
 
-Stocktwits • 9h ago
+Stocktwits • 11h ago
 
 ---
 
@@ -307,7 +309,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 Conduit. Contribute to Jake1848/conduit development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 4m ago • [GitHub](https://github.com/Jake1848/conduit)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/Jake1848/conduit)
 
 ---
 
@@ -329,17 +331,17 @@ Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 181 • ⏱️ 13:13 • 23h ago
+👁️ 39K • 👍 2K • 💬 185 • ⏱️ 13:13 • 1d ago
 
 ---
 
-**[$500B Bitcoin Rotation - The Bottom Is In](https://www.youtube.com/watch?v=tnokPcnCAE4)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
 
-Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is emerging. Strategy CEO Phong Le believes the ...
+No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
 
-📺 Bitcoin News Alerts
+📺 Gareth Soloway
 
-👁️ 3K • 👍 208 • 💬 147 • ⏱️ 19:02 • 22h ago
+👁️ 22K • 👍 2K • 💬 137 • ⏱️ 15:20 • 4h ago
 
 ---
 
@@ -349,17 +351,7 @@ Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are ca
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 169 • ⏱️ 23:31 • 21h ago
-
----
-
-**[Bitcoin: This Is Where We Bottom](https://www.youtube.com/watch?v=K8FfpZ8ysdk)**
-
-Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON ...
-
-📺 100XClub
-
-👁️ 43K • 👍 2K • 💬 404 • ⏱️ 14:27 • 2d ago
+👁️ 17K • 👍 2K • 💬 172 • ⏱️ 23:31 • 22h ago
 
 ---
 
@@ -369,7 +361,7 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 149 • ⏱️ 17:05 • 1d ago
+👁️ 26K • 👍 2K • 💬 148 • ⏱️ 17:05 • 2d ago
 
 ---
 
@@ -379,27 +371,17 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Fox Business
 
-👁️ 18K • 👍 556 • 💬 403 • ⏱️ 11:24 • 1d ago
+👁️ 19K • 👍 573 • 💬 421 • ⏱️ 11:24 • 1d ago
 
 ---
 
-**[Michael Saylor is about to BLOW UP Bitcoin! I Have To Show You This..](https://www.youtube.com/watch?v=KDjvXd8ilRU)**
+**[Crypto Holders Just Got F**ked](https://www.youtube.com/watch?v=wOICpvBip1Y)**
 
-They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features on Coinbase: ...
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 259 • ⏱️ 11:44 • 1d ago
-
----
-
-**[Jack Kruse Reveals How Fast The Bitcoin ATTACK is SPREADING...](https://www.youtube.com/watch?v=poCzB_D3VQA)**
-
-In his keynote speech at BTC Prague, Jack Kruse Reveals Why Bitcoin is Under ATTACK! 🗓️The 2027 edition of the BTC ...
-
-📺 BTCPrague
-
-👁️ 9K • 👍 577 • 💬 355 • ⏱️ 25:08 • 12h ago
+👁️ 30K • 👍 1K • 💬 204 • ⏱️ 1:28 • 23h ago
 
 ---
 
@@ -419,7 +401,27 @@ He's been looking at it for 13 years and even he got turned off by the seed phra
 
 📺 The Wolf Of All Streets
 
-👁️ 543 • 👍 9 • 💬 2 • ⏱️ 0:59 • 5h ago
+👁️ 832 • 👍 12 • 💬 3 • ⏱️ 0:59 • 6h ago
+
+---
+
+**[Bitcoin&#39;s Crab Walk: Fed Hike Crushes Saylor&#39;s Strategy #shorts](https://www.youtube.com/watch?v=iolbX2pQ6J0)**
+
+A hawkish Federal Reserve, signaled by a rate hike instead of a cut, spells trouble for Bitcoin. Preferred stock used by companies ...
+
+📺 Dana Love, PhD
+
+👁️ 2K • 👍 37 • 💬 4 • ⏱️ 0:46 • 10h ago
+
+---
+
+**[Crypto&#39;s Public Market Disaster](https://www.youtube.com/watch?v=NL2OK5pTCSU)**
+
+Corporate Bitcoin treasuries were sold as permanent buyers, now they're bleeding value and dumping coins to cover debts.
+
+📺 Coin Bureau
+
+👁️ 21K • 👍 905 • 💬 159 • ⏱️ 12:06 • 9h ago
 
 ---
 
