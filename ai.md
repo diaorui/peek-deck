@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-21T22:15:27.371083+00:00'
+updated: '2026-06-21T23:51:17.664296+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 21, 2026 at 22:15 UTC  
+**Last Updated:** June 21, 2026 at 23:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
 
-2h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ I wrote an entire paper over the last few days for my college course. 7 pages wi
 
 Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
 
-11h ago
+12h ago
 
 ---
 
@@ -57,7 +57,15 @@ Source (The Economist): “Deezer, a streaming service, estimates that some 75,0
 
 A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. <-- (this is the money point) They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
 
-12h ago
+14h ago
+
+---
+
+**[Is it just me or is ChatGPT/OpenAI the Microsoft of AI?](https://www.reddit.com/r/artificial/comments/1uc4l3x/is_it_just_me_or_is_chatgptopenai_the_microsoft/)**
+
+Chatgpt seems to me like the microsoft of ai. First to the market, had it absolutly cornered for a while in the early days, but competitors have caught up and surpassed it in both design, ease of use and power, while they get relatively worse with every update and can only lean heavier and heavier on the customers they got in their inital monopoly (and their referrals/word of mouth) who have gotten used to using it and are too lazy to change?
+
+18m ago
 
 ---
 
@@ -65,15 +73,15 @@ A data center was forced through government approval in Utah despite the citizen
 
 First of all, I'd like to apologize if this post doesn't fit this community. Which AI assistant do you think is the best for guided learning? I'd like to learn subjects such as geography, astronomy, and physics purely out of personal interest—not for school—and I'm looking for a great learning experience: accurate information, clear explanations, and coverage of all the important concepts without leaving anything essential out. So far I've tried ChatGPT, Gemini, and DeepSeek. Out of the three, Gemini has impressed me the most because its explanations are very clear and easy to understand. ChatGPT tends to give rather brief answers, while DeepSeek is the opposite—it often gives very technical and complex answers with less explanation. I'm considering subscribing to Gemini Pro. What do you think? Do you know of any other AI assistants that are particularly good for guided learning? Thank you very much in advance!
 
-1h ago
+3h ago
 
 ---
 
-**[If you use more than one AI model, how do you keep your context straight across them?](https://www.reddit.com/r/artificial/comments/1ubzzi3/if_you_use_more_than_one_ai_model_how_do_you_keep/)**
+**[Local AI still limited?](https://www.reddit.com/r/artificial/comments/1uc44bf/local_ai_still_limited/)**
 
-I've ended up using a few models for different things. One tends to write better, another reasons through problems better, another I just use for quick stuff. On paper that's great, in practice I spend a stupid amount of time getting each one up to speed Every time I switch I'm basically re-explaining the same background. Here's the project, here's what we already figured out, here's the docs that matter. The conversation in any single model is fine, it's the constant re-briefing across all of them that eats my time And it's not just pasting text. Each one remembers a slightly different version of the project depending on what I told it last, so I'll get answers that contradict each other because one model is working off context the other one never got I've tried keeping a master doc I paste in everywhere, but I forget to update it, and then I'm back to square one How people who run multiple models actually handle this. Do you keep one external source of truth and feed it into all of them? Pick one main model and only use the others for one-off tasks? Or just accept that context lives in silos and move on?
+I recently tested local AI. And i found out they still have limits. For example: If you ask it for "how to create a keylogger" It will still say it cant help you with that request. The specific model i used was lamma3.1. My question is - is there any "unblocked" local ai models?
 
-2h ago
+39m ago
 
 ---
 
@@ -81,39 +89,31 @@ I've ended up using a few models for different things. One tends to write better
 
 Back in 2020, I thought AI would improve gradually over the next decade. If someone had shown me today’s AI tools back then, I think I’d have been most shocked by how quickly AI became useful for coding, writing, research, image generation, and even voice conversations. Looking back, what AI development from the last few years would have seemed the most unbelievable to your 2020 self? And what do you think people in 2030 will look back on and say, “We should have seen that coming”?
 
-2h ago
+4h ago
 
 ---
 
-**[Why an AI company cleaned my New York City apartment for free](https://www.reddit.com/r/artificial/comments/1ubxb6b/why_an_ai_company_cleaned_my_new_york_city/)**
+**[If you use more than one AI model, how do you keep your context straight across them?](https://www.reddit.com/r/artificial/comments/1ubzzi3/if_you_use_more_than_one_ai_model_how_do_you_keep/)**
 
-An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
+I've ended up using a few models for different things. One tends to write better, another reasons through problems better, another I just use for quick stuff. On paper that's great, in practice I spend a stupid amount of time getting each one up to speed Every time I switch I'm basically re-explaining the same background. Here's the project, here's what we already figured out, here's the docs that matter. The conversation in any single model is fine, it's the constant re-briefing across all of them that eats my time And it's not just pasting text. Each one remembers a slightly different version of the project depending on what I told it last, so I'll get answers that contradict each other because one model is working off context the other one never got I've tried keeping a master doc I paste in everywhere, but I forget to update it, and then I'm back to square one How people who run multiple models actually handle this. Do you keep one external source of truth and feed it into all of them? Pick one main model and only use the others for one-off tasks? Or just accept that context lives in silos and move on?
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cpwerjy20kyo) • 3h ago
-
----
-
-**[Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/)**
-
-Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 14h ago
+3h ago
 
 ---
 
-**[AI is making crypto security cheaper, faster and harder to ignore](https://www.reddit.com/r/artificial/comments/1ubwkd5/ai_is_making_crypto_security_cheaper_faster_and/)**
+**[Why self-reflection ReAct loops fail on long-horizon tasks, and the AgentOS verification architecture we built to fix it.](https://www.reddit.com/r/artificial/comments/1uc4ict/why_selfreflection_react_loops_fail_on/)**
 
-As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.
+Saw a great discussion earlier in this sub about the limits of self-reflection and whether a separate verifier agent is actually worth the compute overhead. It highlighted a huge flaw: Having an agent grade its own scratchpad almost guarantees rubber-stamping: it reflects on its work with the exact same blind spots that produced the error. Here's the architecture we built for the Apodex-1.0 Heavy-Duty Solver to get verification out of the reasoner's head entirely. The dominant approach right now is the ReAct paradigm—one agent in a think-act-observe loop inside a single context window. Empirically, these loops hit a hard ceiling after a few hundred steps: the context congests, parallel branches of inquiry contaminate one another, and self-reflection degrades. An agent reflecting on its own work has the same blind spots that caused the error in the first place. We call this "pseudo-correctness"—an answer that looks confident, passes basic checks, but is structurally flawed. Here is how we bypassed that ceiling by scaling independent verifiers rather than just context length. 1. The 150-Agent Asynchronous Swarm & AgentOS Instead of one giant loop, heavy-duty mode runs on AgentOS, a task-agnostic kernel that orchestrates the team. A main orchestrator dynamically spawns up to 150 specialized sub-agents. Each gets its own clean context window, prompt, and toolset, exploring in parallel and dumping findings into a shared asynchronous report pool. 2. Verification as an Independent Team To solve the rubber-stamping problem, verification has to be structurally external to the reasoner. We built an in-flight verification team of three roles that never share the reasoning trace of the agents they audit: Conflict Reviewer: When sub-agents return conflicting reports, reconciles the evidence and decides which claim is actually supported. Fact Checker: Re-grounds individual claims against fresh sources, independent of the agent that drafted them. Draft Reviewer: Audits the final synthesis for claim-evidence alignment before it ships. 3. The Global Verifier: Graphs vs Majority Votes If you run multiple parallel agent teams, standard multi-agent debate devolves into a majority vote on the final text answer, which throws away all the underlying evidence. Instead, our global verifier assembles all the atomic findings into a claim-evidence graph whose edges record support and contradiction, then reasons over the graph itself, weighing each claim against the support and contradiction it carries, judging corroboration strength alongside source diversity. Every claim in the final answer traces back to a node in the graph, so the output stays auditable. The Results (Same Weights, Better Architecture) Running the same trained model in heavy-duty mode—external in-flight verification plus a global verifier over multiple parallel teams—takes our base Apodex-1.0 from 75.5 to 90.3 on BrowseComp and from 28.3 to 46.7 on FrontierScience-Research, using the exact same weights. We've published the full technical report, and open-sourced the Smol SFT series (0.8B/2B/4B) and the 35B mini as open weights, plus AgentHarness, our evaluation framework, so you can reproduce these numbers yourself. Tell us where the verifier breaks down in your own loops.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore) • 4h ago
+22m ago
 
 ---
 
-**[Did AI Deep Research get lazy?](https://www.reddit.com/r/artificial/comments/1ubskzk/did_ai_deep_research_get_lazy/)**
+**[Most multi-hop RAG goes stale the moment your data changes, what about a training-free approach that skips the graph rebuild?](https://www.reddit.com/r/artificial/comments/1uc3q7e/most_multihop_rag_goes_stale_the_moment_your_data/)**
 
-A few months ago, when I ran a deep research query, the Al would actually sit there and grind for 20 to 30 minutes. You could see it pulling from hundreds of different sources to build a massive, detailed report. ​ Now? The entire process wraps up in under 7 minutes. ​ I've recently switched from ChatGPT to Gemini and I taught it was a Gemini specific thing, switched to ChatGPT and it's even worse there. ​ What happened? Deep research in it's current form isn't very "deep"...
+Most methods that get strong multi-hop answers (GraphRAG, HippoRAG, RAPTOR, trained retrievers) build a knowledge graph or fine-tune a retriever over the corpus. That's fine until the data changes — then you re-extract / rebuild / retrain before the new facts are usable. For a corpus that updates daily, that's a real cost. MOTHRAG does the multi-hop reasoning at query time over a plain dense index instead. An update is just embed + append (one embedding call) — no graph reconstruction, no retraining — so it stays current as the corpus changes. And dropping the graph doesn't cost accuracy. F1, Llama-3.3-70B reader, n=1000 each: System HotpotQA 2Wiki MuSiQue Avg Hardware MOTHRAG 78.1 76.3 50.5 68.3 commodity API, no GPU HippoRAG2 75.5 71.0 48.6 65.0 — GraphRAG 68.6 58.6 38.5 55.2 — RAPTOR 69.5 52.1 28.9 50.2 — Competitor rows reproduced from HippoRAG2 (ICML 2025), Table 2. MOTHRAG is within ~0.7 avg F1 of the GPU-bound research frontier (a fine-tuned, GPU-served stack — not shown). (Fair note: graph-RAG systems like GraphRAG shine on small curated / sensemaking corpora — this is multi-hop factoid QA over changing data, a different regime.) Deterministic by design: instead of a free-form agent loop it runs a small ensemble of reasoning arms (direct read, decomposition, an iterative grounding-driven arm) under a deterministic arbitrator, over a bridge retrieval substrate with multi-hop chain filtering. Every answer is proof-tree-structured, so you can audit why it answered. Measured ≈$0.018/query, ~44% cheaper at matched accuracy. Open source, ~1 week old — genuinely after feedback and failure cases: pip install mothrag Code: https://github.com/juliangeymonat-jpg/mothrag Paper: https://doi.org/10.5281/zenodo.20668567 Live demo (BYO free key): https://huggingface.co/spaces/JUBOX99/mothrag-demo
 
-7h ago
+57m ago
 
 ---
 
@@ -121,79 +121,77 @@ A few months ago, when I ran a deep research query, the Al would actually sit th
 
 ## Google News: "ai"
 
+**[No one wants AI data centers on Earth. Do they make sense in space?](https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html)**
+
+Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
+
+CNBC • 10h ago
+
+---
+
+**[Tesla plans to sell modular AI data center hardware called ‘Megapod’](https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/)**
+
+Tesla wants to sell modular AI data center hardware, according to a new trademark application for a product called “Megapod.”...
+
+Electrek • 9h ago
+
+---
+
+**[The Next Hot Quantum Stock Is an AI Data-Center Play, Too](https://www.barrons.com/articles/iqm-quantum-computing-ai-data-center-e9f90740)**
+
+Barron's • 17h ago
+
+---
+
 **[All the Money Flooding Into AI Is a Giant Warning Sign](https://www.wsj.com/finance/stocks/all-the-money-flooding-into-ai-is-a-giant-warning-sign-6e08e3ea)**
 
-WSJ • 12h ago
+WSJ • 14h ago
 
 ---
 
-**[AI buildout gives tech investors new reasons to watch bond market](https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html)**
+**[What Most Tech Workers Still Don’t Realize About AI and Job Security](https://www.inc.com/kevin-haynes/what-most-tech-workers-still-dont-realize-about-ai-and-job-security/91363551)**
 
-Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.
+A new Gallup poll revealed that employees who rarely use AI are three times more likely to get laid off than colleagues who use it often.
 
-CNBC • 1d ago
-
----
-
-**[Why Settle for Nvidia When This AI Stock Has 1,000% Upside?](https://investorplace.com/2026/06/why-settle-nvidia-ai-stock-1000-upside/)**
-
-For this Sunday Digest, I’d like to leave it to Eric Fry to explain why he has his eye set on a new potential ten-bagger, and why this stock could belong in your portfolio.
-
-InvestorPlace • 7h ago
+inc.com • 58m ago
 
 ---
 
 **[China is having another AI moment](https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment)**
 
-The Economist • 5h ago
+The Economist • 7h ago
 
 ---
 
-**[Conjoined twins separated with help from AI](https://www.cnn.com/2026/06/21/health/video/conjoined-twins-separated-ai-surgery-digvid-vrtc)**
+**[J. D. Vance’s AI Doctrine](https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/)**
 
-Twins Mercy and Goodness were born with their skulls fused together. A charity involved in their care says AI helped plan the complex surgeries and design custom skull implants used in their separation.
+The vice president is making a case that is part Silicon Valley, part MAGA.
 
-CNN • 1h ago
-
----
-
-**[Inside college AI cheating wars: extreme surveillance, false accusations, jarring confusion](https://www.adn.com/nation-world/2026/06/21/inside-college-ai-cheating-wars-extreme-surveillance-false-accusations-jarring-confusion/)**
-
-At many campuses, AI policy is left to individual instructors seeking to encourage its ethical use while preserving academic integrity, as the technology evolves faster than university rules.
-
-Anchorage Daily News • 30m ago
+The Atlantic • 12h ago
 
 ---
 
-**[New OpenAI Hire Warns Government Monopoly on AI Could Lead to ‘Very Scary Outcomes’](https://www.yahoo.com/news/politics/articles/openai-hire-warns-government-monopoly-212631042.html)**
+**[AI's next bottleneck is power: Chart of the Day](https://finance.yahoo.com/markets/article/ais-next-bottleneck-is-power-chart-of-the-day-114139935.html)**
 
-Dean Ball, formerly a White House Senior Policy Advisor and now working on frontier AI policy at OpenAI, delivered a pointed warning about where U.S. AI oversight may be heading on Nathan Labenz’s The...
+The AI trade started with chips. Now it's running into the electric grid.
 
-Yahoo • 48m ago
-
----
-
-**[No one wants AI data centers on Earth. Do they make sense in space?](https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html)**
-
-Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
-
-CNBC • 8h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[I’d Rather Risk Cancer Than See AI Move This Fast](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)**
+**[Why an AI company cleaned my New York City apartment for free](https://www.bbc.com/news/articles/cpwerjy20kyo)**
 
-I’d benefit if AI cured cancer. And I still want AI progress to slow down.
+An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
 
-The Atlantic • 10h ago
+BBC • 1d ago
 
 ---
 
-**[Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)**
+**[AI regulation is a mess, and Anthropic is caught in the crosshairs](https://www.cnn.com/2026/06/21/tech/anthropic-ai-regulation)**
 
-Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
+The latest spat between Anthropic and the government raises a broad concern among AI and safety researchers: There is no consistent framework for regulating AI.
 
-The Guardian • 4h ago
+CNN • 7h ago
 
 ---
 
@@ -203,15 +201,7 @@ The Guardian • 4h ago
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 806 • 💬 583 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
-
----
-
-**[The AirPods Effect](https://news.ycombinator.com/item?id=48592832)**
-
-How earbuds influence our beliefs and push us apart.
-
-⬆️ 442 • 💬 773 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 807 • 💬 584 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -227,13 +217,13 @@ AI Engineer Claims to Have Cracked Linear A
 
 The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.
 
-⬆️ 297 • 💬 136 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+⬆️ 297 • 💬 137 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 
 ---
 
 **[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
 
-⬆️ 244 • 💬 315 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
+⬆️ 245 • 💬 315 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -241,7 +231,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 239 • 💬 141 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 241 • 💬 141 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -249,7 +239,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 216 • 💬 151 • 21h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 217 • 💬 151 • 22h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -257,13 +247,21 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 177 • 💬 44 • 17h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 177 • 💬 46 • 19h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
 **[The 100k whys of AI](https://news.ycombinator.com/item?id=48616017)**
 
-⬆️ 162 • 💬 95 • 16h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+⬆️ 164 • 💬 97 • 18h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+
+---
+
+**[Apertus – Open Foundation Model for Sovereign AI](https://news.ycombinator.com/item?id=48622778)**
+
+Fully Open Foundation Model for Sovereign AI
+
+⬆️ 124 • 💬 35 • 2h ago • [apertvs.ai](https://apertvs.ai/)
 
 ---
 
@@ -285,7 +283,7 @@ Wow more great news about the future of creation, I Love AI! Search the AI watch
 
 📺 Dolan Darkest
 
-👁️ 73K • 👍 7K • 💬 684 • ⏱️ 2:42 • 2h ago
+👁️ 73K • 👍 7K • 💬 684 • ⏱️ 2:42 • 4h ago
 
 ---
 
@@ -295,7 +293,7 @@ these new Chinese AI Models are INSANE, so I put them up to the challenge today 
 
 📺 tef
 
-👁️ 32K • 👍 2K • 💬 305 • ⏱️ 10:34 • 19h ago
+👁️ 32K • 👍 2K • 💬 305 • ⏱️ 10:34 • 21h ago
 
 ---
 
@@ -315,7 +313,7 @@ Are AI glasses ready for daily use? See how the MemoMind one handles real-time t
 
 📺 Matt Talks Tech
 
-👁️ 4K • 👍 488 • 💬 16 • ⏱️ 11:33 • 12h ago
+👁️ 4K • 👍 488 • 💬 16 • ⏱️ 11:33 • 14h ago
 
 ---
 
@@ -325,7 +323,7 @@ Wanna be friends? This video is just a joke, and satire, it's not meant to bully
 
 📺 MANDO
 
-👁️ 34K • 👍 4K • 💬 701 • ⏱️ 8:42 • 5h ago
+👁️ 34K • 👍 4K • 💬 701 • ⏱️ 8:42 • 6h ago
 
 ---
 
@@ -645,7 +643,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 75.7k • 🔱 9.8k • 1d ago
+⭐ 75.7k • 🔱 9.8k • 2d ago
 
 ---
 
@@ -655,7 +653,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 45.8k • 🔱 2.3k • 21h ago
+⭐ 45.8k • 🔱 2.3k • 23h ago
 
 ---
 
@@ -665,7 +663,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.2k • 🔱 947 • 8h ago
+⭐ 10.2k • 🔱 947 • 10h ago
 
 ---
 
@@ -675,7 +673,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.3k • 🔱 489 • 8h ago
+⭐ 4.3k • 🔱 489 • 9h ago
 
 ---
 
@@ -685,7 +683,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 418 • 5h ago
+⭐ 3.4k • 🔱 418 • 7h ago
 
 ---
 

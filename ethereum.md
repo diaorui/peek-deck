@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T22:15:27.384701+00:00'
+updated: '2026-06-21T23:51:17.677445+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 22:15 UTC  
+**Last Updated:** June 21, 2026 at 23:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,732.94
+### $1,715.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -4.6%  
-**30d:** -19.2%  
-**90d:** -20.5%  
-**1y:** -22.9%  
+**24h:** -1.7%  
+**7d:** -5.0%  
+**30d:** -19.4%  
+**90d:** -20.7%  
+**1y:** -23.2%  
 
 ---
 
@@ -126,7 +126,7 @@ https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d
 
 Picked up a portfolio of branded .eth domains, a few are real company names (airlines, marketplaces) that haven't claimed their Web3 identity yet. Selling individually or in themed bundles. Anyone interested or know who to reach out to?
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 15h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
 
-TradingView • 9h ago
+TradingView • 11h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 2d ago
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -214,11 +214,11 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitwise’s ETH ETF Sees Fresh Outflows as Ethereum Slide Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/bitwises-eth-etf-sees-fresh-outflows-as-ethereum-slide-tests-investor-nerves)**
+**[Ethereum Nerves Show as VanEck’s ETH ETF Bleeds Cash Amid 3-Month Slide](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-show-as-vanecks-eth-etf-bleeds-cash-amid-3-month-slide)**
 
-Ethereum jitters deepened this week as Bitwise’s Bitwise Ethereum ETF, ETHW, logged outflows of $500,120 on June 18, 2026, a modest but telling 0.27% of its $185.9 ...
+Ethereum ETF Sees Outflow as Price Slump Deepens The VanEck Ethereum ETF, ETHV, recorded outflows of $638,860 on June 18, 2026, as investors continued to pare back ...
 
-TipRanks • 9h ago
+TipRanks • 11h ago
 
 ---
 
@@ -226,7 +226,7 @@ TipRanks • 9h ago
 
 Jaredfromsubway MEV bot lost $7.5M after attacker-built contracts turned trading approvals into an allowance drain.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 22K • 👍 2K • 💬 137 • ⏱️ 15:20 • 4h ago
+👁️ 22K • 👍 2K • 💬 137 • ⏱️ 15:20 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Altcoin Daily
 
-👁️ 269 • 👍 28 • 💬 9 • ⏱️ 13:42 • 5m ago
+👁️ 269 • 👍 28 • 💬 9 • ⏱️ 13:42 • 1h ago
 
 ---
 
@@ -270,7 +270,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 4K • 👍 295 • 💬 157 • ⏱️ 10:44 • 8h ago
+👁️ 4K • 👍 295 • 💬 157 • ⏱️ 10:44 • 10h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN & CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 3K • 👍 230 • 💬 45 • ⏱️ 20:26 • 4h ago
+👁️ 3K • 👍 230 • 💬 45 • ⏱️ 20:26 • 6h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 394 • 👍 17 • 💬 55 • ⏱️ 4:19 • 11h ago
+👁️ 394 • 👍 17 • 💬 55 • ⏱️ 4:19 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 847 • 👍 71 • ⏱️ 7:23 • 8h ago
+👁️ 847 • 👍 71 • ⏱️ 7:23 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #cryp
 
 📺 MrNasdog
 
-👁️ 2K • 👍 50 • 💬 3 • ⏱️ 1:02 • 18h ago
+👁️ 2K • 👍 50 • 💬 3 • ⏱️ 1:02 • 20h ago
 
 ---
 
