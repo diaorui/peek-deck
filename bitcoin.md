@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T19:01:16.190197+00:00'
+updated: '2026-06-21T20:52:48.130981+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 19:01 UTC  
+**Last Updated:** June 21, 2026 at 20:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,995.77
+### $64,067.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.3%  
-**30d:** -16.4%  
-**90d:** -9.1%  
-**1y:** -36.4%  
+**24h:** -0.4%  
+**7d:** -3.9%  
+**30d:** -16.9%  
+**90d:** -9.7%  
+**1y:** -36.8%  
 
 ---
 
@@ -171,7 +171,15 @@ CNBC • 1d ago
 
 Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin and Oil Markets Brace for Possible Black Monday After US-Iran Talks Fracture in Switzerland](https://finance.yahoo.com/markets/crypto/articles/bitcoin-oil-markets-brace-possible-191346515.html)**
+
+US-Iran talks collapsed in Switzerland, reviving Black Monday fears as traders watch oil and crypto into Monday's open.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,29 +187,7 @@ CoinDesk • 12h ago
 
 Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
 
-Aberdeen Insider • 8h ago
-
----
-
-**[Elon Musk, The World's First Trillionaire, Holds Bitcoin And 'Some' Dogecoin — 'Let That Sink In,' Says Popular Analyst](https://finance.yahoo.com/markets/crypto/articles/elon-musk-worlds-first-trillionaire-173129397.html)**
-
-Popular cryptocurrency analyst Ali Martinez drew attention to the fact that Elon Musk, who became the world’s first trillionaire, owns Bitcoin and Dogecoin. Is Musk ‘Orange-Pilled’? In an X post, Martinez paired a line drawing of Musk with the Bitcoin logo, with the caption, “The world’s first TRILLIONAIRE owns Bitcoin. Let that sink in.” Both of Musk’s companies, Space Exploration Technologies Corp. and Tesla Inc., indeed hold BTC in their reserves. In fact, these two are the only companies in
-
-Yahoo Finance • 1d ago
-
----
-
-**[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
-
-Seeking Alpha • 13h ago
-
----
-
-**[Bitcoin Analysts Split Between Buyer Demand And Resistance Ceiling Near $65,000](https://www.tradingview.com/news/newsbtc:2c7c6d22a094b:0-bitcoin-analysts-split-between-buyer-demand-and-resistance-ceiling-near-65-000/)**
-
-Bitcoin’s short-term market structure is giving traders two very different stories at once: demand is appearing on dips, but resistance near the mid-$60,000s is still capping the recovery.TL;DRBuyers Are Showing Up, But The Ceiling RemainsTradingView analyst UnitedSignals described Bitcoin as a “ma…
-
-TradingView • 2h ago
+Aberdeen Insider • 9h ago
 
 ---
 
@@ -209,7 +195,13 @@ TradingView • 2h ago
 
 Analysts with JPMorgan have predicted bitcoin miners could be forced to sell more bitcoin...
 
-Forbes • 6h ago
+Forbes • 7h ago
+
+---
+
+**[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
+
+Seeking Alpha • 15h ago
 
 ---
 
@@ -217,13 +209,21 @@ Forbes • 6h ago
 
 Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
 
-The Motley Fool • 6h ago
+The Motley Fool • 8h ago
+
+---
+
+**[Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains](https://www.tradingview.com/news/cointelegraph:04d1f8165094b:0-bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains/)**
+
+Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.
+
+TradingView • 6h ago
 
 ---
 
 **[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
 
-Investing.com • 10h ago
+Investing.com • 12h ago
 
 ---
 
@@ -231,7 +231,7 @@ Investing.com • 10h ago
 
 Billionaire Ricardo Salinas said he has increased Bitcoin's (BTC) share of his liquid portfolio to 80% and has no interest in chasing the artificial intelligence boom.
 
-Stocktwits • 7h ago
+Stocktwits • 9h ago
 
 ---
 
@@ -303,19 +303,19 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 ---
 
+**[Conduit – Self-hosted Bitcoin Lightning payments for AI agents](https://news.ycombinator.com/item?id=48622458)**
+
+Conduit. Contribute to Jake1848/conduit development by creating an account on GitHub.
+
+⬆️ 1 • 💬 0 • 4m ago • [GitHub](https://github.com/Jake1848/conduit)
+
+---
+
 **[Show HN: CredScore – Deterministic wallet risk scoring, no model in the path](https://news.ycombinator.com/item?id=48558315)**
 
 CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
 
 ⬆️ 1 • 💬 0 • 5d ago • [CredScore](https://www.credscore.us/)
-
----
-
-**['Passive' investors who dodged BTC, forced to own SPCX which is 3x more volatile](https://news.ycombinator.com/item?id=48570504)**
-
-Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
-
-⬆️ 6 • 💬 2 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)
 
 ---
 
@@ -329,7 +329,7 @@ Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 181 • ⏱️ 13:13 • 21h ago
+👁️ 37K • 👍 2K • 💬 181 • ⏱️ 13:13 • 23h ago
 
 ---
 
@@ -339,7 +339,7 @@ Subscribe. Before The Great Rotation becomes obvious. A new Bitcoin thesis is em
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 208 • 💬 147 • ⏱️ 19:02 • 20h ago
+👁️ 3K • 👍 208 • 💬 147 • ⏱️ 19:02 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are ca
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 169 • ⏱️ 23:31 • 19h ago
+👁️ 16K • 👍 2K • 💬 169 • ⏱️ 23:31 • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ In his keynote speech at BTC Prague, Jack Kruse Reveals Why Bitcoin is Under ATT
 
 📺 BTCPrague
 
-👁️ 9K • 👍 577 • 💬 355 • ⏱️ 25:08 • 11h ago
+👁️ 9K • 👍 577 • 💬 355 • ⏱️ 25:08 • 12h ago
 
 ---
 
@@ -419,7 +419,7 @@ He's been looking at it for 13 years and even he got turned off by the seed phra
 
 📺 The Wolf Of All Streets
 
-👁️ 543 • 👍 9 • 💬 2 • ⏱️ 0:59 • 3h ago
+👁️ 543 • 👍 9 • 💬 2 • ⏱️ 0:59 • 5h ago
 
 ---
 

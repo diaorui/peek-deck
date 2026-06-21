@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-21T19:01:16.196365+00:00'
+updated: '2026-06-21T20:52:48.136466+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 19:01 UTC  
+**Last Updated:** June 21, 2026 at 20:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -3.4%  
-**30d:** -18.1%  
-**90d:** -19.5%  
-**1y:** -22.0%  
+**24h:** -0.9%  
+**7d:** -4.3%  
+**30d:** -18.9%  
+**90d:** -20.3%  
+**1y:** -22.8%  
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
 
-CoinDesk • 11h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -162,23 +162,15 @@ CoinDesk • 11h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 15h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
+**[Ethereum Foundation’s Leadership Exodus Claims Its Second Co-Director](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-leadership-exodus-claims-112030013.html)**
 
-zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
+Hsiao-Wei Wang steps down as Ethereum Foundation co-executive director, the second co-ED to leave in 2026 amid a broader leadership exodus.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
-
-Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
-
-The Block • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -186,7 +178,7 @@ The Block • 2d ago
 
 Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
 
-TradingView • 6h ago
+TradingView • 8h ago
 
 ---
 
@@ -194,23 +186,7 @@ TradingView • 6h ago
 
 DUBAI, United Arab Emirates, June  20, 2026  (GLOBE NEWSWIRE) -- Ethereum-based new crypto Pepeto confirms progress on the DeFi tools designed to ...
 
-markets.businessinsider.com • 18h ago
-
----
-
-**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
-
-Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
-
-unchainedcrypto.com • 2d ago
-
----
-
-**[Bitwise’s ETH ETF Sees Fresh Outflows as Ethereum Slide Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/bitwises-eth-etf-sees-fresh-outflows-as-ethereum-slide-tests-investor-nerves)**
-
-Ethereum jitters deepened this week as Bitwise’s Bitwise Ethereum ETF, ETHW, logged outflows of $500,120 on June 18, 2026, a modest but telling 0.27% of its $185.9 ...
-
-TipRanks • 6h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -222,11 +198,35 @@ Decrypt • 3d ago
 
 ---
 
+**[Bitwise’s ETH ETF Sees Fresh Outflows as Ethereum Slide Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/bitwises-eth-etf-sees-fresh-outflows-as-ethereum-slide-tests-investor-nerves)**
+
+Ethereum jitters deepened this week as Bitwise’s Bitwise Ethereum ETF, ETHW, logged outflows of $500,120 on June 18, 2026, a modest but telling 0.27% of its $185.9 ...
+
+TipRanks • 8h ago
+
+---
+
 **[Ethereum’s Jaredfromsubway MEV bot drained after approving its own $7.5M theft](https://cryptoslate.com/jaredfromsubway-mev-bot-drained/)**
 
 Jaredfromsubway MEV bot lost $7.5M after attacker-built contracts turned trading approvals into an allowance drain.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
+
+---
+
+**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
+
+Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
+
+Benzinga • 3d ago
+
+---
+
+**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
+
+Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
+
+unchainedcrypto.com • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 3K • 👍 235 • 💬 150 • ⏱️ 10:44 • 5h ago
+👁️ 3K • 👍 235 • 💬 150 • ⏱️ 10:44 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 6K • 👍 738 • 💬 48 • ⏱️ 15:20 • 1h ago
+👁️ 6K • 👍 738 • 💬 48 • ⏱️ 15:20 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 294 • 👍 17 • 💬 55 • ⏱️ 4:19 • 8h ago
+👁️ 294 • 👍 17 • 💬 55 • ⏱️ 4:19 • 10h ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum vs Solana 2026: The Real Winner for Massive Crypto Gains Ethereum conti
 
 📺 Crypto Meridian
 
-👁️ 2K • 👍 16 • 💬 38 • ⏱️ 2:03 • 23h ago
+👁️ 2K • 👍 16 • 💬 38 • ⏱️ 2:03 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 631 • 👍 67 • ⏱️ 7:23 • 5h ago
+👁️ 631 • 👍 67 • ⏱️ 7:23 • 7h ago
 
 ---
 
@@ -320,7 +320,7 @@ XRP research: XRP vs Bitcoin vs Ethereum. Why I give XRP a low score. #xrp #cryp
 
 📺 MrNasdog
 
-👁️ 2K • 👍 49 • 💬 3 • ⏱️ 1:02 • 15h ago
+👁️ 2K • 👍 49 • 💬 3 • ⏱️ 1:02 • 17h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 106 • ⏱️ 7:13 • 14h ago
+👁️ 2K • 👍 106 • ⏱️ 7:13 • 16h ago
 
 ---
 

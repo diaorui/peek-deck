@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-21T19:01:16.181441+00:00'
+updated: '2026-06-21T20:52:48.123109+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 21, 2026 at 19:01 UTC  
+**Last Updated:** June 21, 2026 at 20:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,51 +37,51 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The Surge of Slop—since the release of ChatGPT-3.5 in late 2022, the number of e-books published on Amazon has skyrocketed, tripling by late 2025. A new scientific analysis shows that this is entirely due to the rise of AI-generated books, which now far outnumber human-written books. [The Economist]](https://www.reddit.com/r/artificial/comments/1ubnaqo/the_surge_of_slopsince_the_release_of_chatgpt35/)**
+**[AI might make me fail my class](https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/)**
 
-Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
+I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
 
-7h ago
+1h ago
 
 ---
 
-**[Utah Data Center Brute Forced Through to Approval Despite Widespread Popular Opposition](https://www.reddit.com/r/artificial/comments/1ubm0q3/utah_data_center_brute_forced_through_to_approval/)**
+**[The Surge of Slop—since the release of ChatGPT-3.5 in late 2022, the number of e-books published on Amazon has skyrocketed, tripling by late 2025. A new scientific analysis shows that this is entirely due to the rise of AI-generated books, which now far outnumber human-written books. [The Economist]](https://www.reddit.com/r/artificial/comments/1ubnaqo/the_surge_of_slopsince_the_release_of_chatgpt35/)**
 
-A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
+Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
 
 9h ago
 
 ---
 
-**[Did AI Deep Research get lazy?](https://www.reddit.com/r/artificial/comments/1ubskzk/did_ai_deep_research_get_lazy/)**
+**[Utah Data Center Brute Forced Through to Approval Despite Widespread Popular Opposition](https://www.reddit.com/r/artificial/comments/1ubm0q3/utah_data_center_brute_forced_through_to_approval/)**
 
-A few months ago, when I ran a deep research query, the Al would actually sit there and grind for 20 to 30 minutes. You could see it pulling from hundreds of different sources to build a massive, detailed report. ​ Now? The entire process wraps up in under 7 minutes. ​ I've recently switched from ChatGPT to Gemini and I taught it was a Gemini specific thing, switched to ChatGPT and it's even worse there. ​ What happened? Deep research in it's current form isn't very "deep"...
+A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. <-- (this is the money point) They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
 
-3h ago
-
----
-
-**[Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/)**
-
-Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 11h ago
+11h ago
 
 ---
 
-**[How do you talk to your management about how to use ai for work management?](https://www.reddit.com/r/artificial/comments/1ubuaou/how_do_you_talk_to_your_management_about_how_to/)**
+**[What AI development would have shocked you the most if you’d seen it in 2020?](https://www.reddit.com/r/artificial/comments/1ubysdt/what_ai_development_would_have_shocked_you_the/)**
 
-We got given ai with no instructions. But all the tools are there to make a work structure rather easily. Where and how to put information so the ai can read it for all the people in the team. And although it's there and fairly seamlessly built in the pattern for how to use it isn't. So I went to talk to my boss about how to apply a structure to integrate AI into the work structure. How? How do you get management to understand where information needs to be put. How to get them to use the tools that make that happen easily. ​ I think some things are missing. Like an email client that knows the management prompt and knows the team emails and chat and helps answer questions before an email is sent. Hr policy for company down to the team. How to describe these kinds of things to management? ​
+Back in 2020, I thought AI would improve gradually over the next decade. If someone had shown me today’s AI tools back then, I think I’d have been most shocked by how quickly AI became useful for coding, writing, research, image generation, and even voice conversations. Looking back, what AI development from the last few years would have seemed the most unbelievable to your 2020 self? And what do you think people in 2030 will look back on and say, “We should have seen that coming”?
 
-2h ago
+1h ago
 
 ---
 
-**[My personal experience from last 4 years about AI](https://www.reddit.com/r/artificial/comments/1ubpzj7/my_personal_experience_from_last_4_years_about_ai/)**
+**[Hello!](https://www.reddit.com/r/artificial/comments/1uc0ank/hello/)**
 
-Hey everyone, i don't know it will approve or not btw Im Akash I’ve been building in the AI space for the last 4 years pretty much since ChatGPT first dropped and blew everything up. During that time, my team and we have built a ton of stuff: custom AI chatbots, SaaS platforms, automated customer support systems, and a lot of tailored products. ​ In the beginning, crafting the perfect prompt felt like finding a secret cheat code. If you didn't phrase things exactly right, the output was hot garbage. ​ But honestly? Looking at the landscape right now, using AI has become incredibly common and, frankly, pretty easy. The llms have gotten so smart that they understand terrible, poorly formatted prompts shockingly well. You don’t need to be a "prompt wizard" anymore to get a decent result. ​ So, if prompting isn't the competitive advantage anymore, what is? ​ From my experience building these products for actual business use cases, the real bottleneck and the real moat is your data. ​ AI doesn’t just need a clever question; it needs deep, accurate context. The businesses that are actually winning the AI transition right now aren’t the ones with a secret library of prompt templates. They’re the ones focusing on: ​ Data Volume Across Sectors: Collecting and organizing data from every single corner of the business (sales, support, logistics, ops). The more touchpoints you actually map out, the better the AI can understand the business ecosystem. ​ Clean Data & Context: If your data is messy, fragmented, or siloed, the AI is just going to spit out generic answers. Clean, rich data gives the model the exact context it needs to deliver hyper-tailored, actually useful outputs. ​ If you want your AI tools to actually drive ROI, stop spending weeks tweaking your system prompts. Go fix your data pipelines instead. Context is king, but data is the kingdom. ​ Curious to hear from other devs and founders building right now are you guys seeing the same shift? Are you spending more time on data ingestion or still tweaking prompts?
+First of all, I'd like to apologize if this post doesn't fit this community. Which AI assistant do you think is the best for guided learning? I'd like to learn subjects such as geography, astronomy, and physics purely out of personal interest—not for school—and I'm looking for a great learning experience: accurate information, clear explanations, and coverage of all the important concepts without leaving anything essential out. So far I've tried ChatGPT, Gemini, and DeepSeek. Out of the three, Gemini has impressed me the most because its explanations are very clear and easy to understand. ChatGPT tends to give rather brief answers, while DeepSeek is the opposite—it often gives very technical and complex answers with less explanation. I'm considering subscribing to Gemini Pro. What do you think? Do you know of any other AI assistants that are particularly good for guided learning? Thank you very much in advance!
 
-5h ago
+26m ago
+
+---
+
+**[If you use more than one AI model, how do you keep your context straight across them?](https://www.reddit.com/r/artificial/comments/1ubzzi3/if_you_use_more_than_one_ai_model_how_do_you_keep/)**
+
+I've ended up using a few models for different things. One tends to write better, another reasons through problems better, another I just use for quick stuff. On paper that's great, in practice I spend a stupid amount of time getting each one up to speed Every time I switch I'm basically re-explaining the same background. Here's the project, here's what we already figured out, here's the docs that matter. The conversation in any single model is fine, it's the constant re-briefing across all of them that eats my time And it's not just pasting text. Each one remembers a slightly different version of the project depending on what I told it last, so I'll get answers that contradict each other because one model is working off context the other one never got I've tried keeping a master doc I paste in everywhere, but I forget to update it, and then I'm back to square one How people who run multiple models actually handle this. Do you keep one external source of truth and feed it into all of them? Pick one main model and only use the others for one-off tasks? Or just accept that context lives in silos and move on?
+
+39m ago
 
 ---
 
@@ -89,7 +89,15 @@ Hey everyone, i don't know it will approve or not btw Im Akash I’ve been build
 
 An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cpwerjy20kyo) • 35m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cpwerjy20kyo) • 2h ago
+
+---
+
+**[Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/)**
+
+Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media) • 13h ago
 
 ---
 
@@ -97,21 +105,15 @@ An AI company is sending free cleaners door-to-door in a bid to train the robots
 
 As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore) • 1h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore) • 2h ago
 
 ---
 
-**[Student cheating now impossible to detect](https://www.reddit.com/r/artificial/comments/1ub0w2t/student_cheating_now_impossible_to_detect/)**
+**[Did AI Deep Research get lazy?](https://www.reddit.com/r/artificial/comments/1ubskzk/did_ai_deep_research_get_lazy/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) • 1d ago
+A few months ago, when I ran a deep research query, the Al would actually sit there and grind for 20 to 30 minutes. You could see it pulling from hundreds of different sources to build a massive, detailed report. ​ Now? The entire process wraps up in under 7 minutes. ​ I've recently switched from ChatGPT to Gemini and I taught it was a Gemini specific thing, switched to ChatGPT and it's even worse there. ​ What happened? Deep research in it's current form isn't very "deep"...
 
----
-
-**[Where do you see prediction and decision-making separating in AI systems?](https://www.reddit.com/r/artificial/comments/1ubu3cy/where_do_you_see_prediction_and_decisionmaking/)**
-
-A lot of AI systems are used for prediction tasks like forecasting outcomes, generating outputs, or estimating probabilities based on data. One thing I keep thinking about is how these systems are used in practice once they are connected to real workflows. In some cases, they stay focused on prediction, while in others they seem to become part of how decisions are made using those predictions. I am trying to understand where people draw the line between a system that only produces predictions and one that becomes part of the decision process itself, especially as models become more responsive and update their outputs more frequently. Where do you personally see that line today, if it exists at all?
-
-2h ago
+5h ago
 
 ---
 
@@ -119,33 +121,39 @@ A lot of AI systems are used for prediction tasks like forecasting outcomes, gen
 
 ## Google News: "ai"
 
-**[What AI Can’t—or Shouldn’t—Do for You](https://www.wsj.com/tech/ai/when-ai-more-harm-than-good-519a83e7)**
-
-WSJ • 4h ago
-
----
-
 **[Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)**
 
 Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-The Guardian • 58m ago
+The Guardian • 2h ago
 
 ---
 
-**[The AI trade has left the hyperscalers in the dust. What will it take for that to change?](https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html)**
+**[What AI Can’t—or Shouldn’t—Do for You](https://www.wsj.com/tech/ai/when-ai-more-harm-than-good-519a83e7)**
 
-In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.
-
-CNBC • 26m ago
+WSJ • 5h ago
 
 ---
 
-**[The Dangerous Gap Between AI Speed and Governance](https://www.inc.com/louise-allen/the-dangerous-gap-between-ai-speed-and-governance/91360382)**
+**[What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention.](https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6)**
 
-As AI speeds up automation, effective governance is essential to ensure tools align with clear goals and don’t create costly errors at scale.
+GLM-5.2, a new open-source Chinese AI model for long-form coding tasks, is turning heads among Silicon Valley's AI elite.
 
-inc.com • 50m ago
+Business Insider • 59m ago
+
+---
+
+**[Opinion | AI Is a Boon to Ambitious Recent Grads](https://www.wsj.com/opinion/ai-is-a-boon-to-ambitious-recent-grads-d4f983a1)**
+
+WSJ • 37m ago
+
+---
+
+**[No one wants AI data centers on Earth. Do they make sense in space?](https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html)**
+
+Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
+
+CNBC • 7h ago
 
 ---
 
@@ -153,7 +161,7 @@ inc.com • 50m ago
 
 The latest spat between Anthropic and the government raises a broad concern among AI and safety researchers: There is no consistent framework for regulating AI.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -167,27 +175,21 @@ Financial Times • 1d ago
 
 **[Opinion | Trust the Free Market on AI](https://www.wsj.com/opinion/trust-the-free-market-on-ai-5aa49ee0)**
 
-WSJ • 15m ago
+WSJ • 2h ago
 
 ---
 
-**[Can China pop America’s AI bubble?](https://www.economist.com/china/2026/06/21/can-china-pop-americas-ai-bubble)**
+**[I’d Rather Risk Cancer Than See AI Move This Fast](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)**
 
-The Economist • 2h ago
-
----
-
-**[States are embracing AI to help manage safety-net programs](https://www.axios.com/2026/06/21/ai-snap-medicaid-unemployment-benefits)**
-
-Axios • 1h ago
-
----
-
-**[J. D. Vance’s AI Doctrine](https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/)**
-
-The vice president is making a case that is part Silicon Valley, part MAGA.
+I’d benefit if AI cured cancer. And I still want AI progress to slow down.
 
 The Atlantic • 8h ago
+
+---
+
+**[The ‘Mass Affluent’ Are Losing Their Allure for Wealth Managers Navigating AI](https://www.bloomberg.com/news/articles/2026-06-21/mass-affluent-lose-allure-for-wealth-managers-navigating-ai)**
+
+Bloomberg • 8h ago
 
 ---
 
@@ -197,7 +199,7 @@ The Atlantic • 8h ago
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 804 • 💬 583 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 805 • 💬 583 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -205,7 +207,7 @@ The Atlantic • 8h ago
 
 How earbuds influence our beliefs and push us apart.
 
-⬆️ 442 • 💬 771 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
+⬆️ 442 • 💬 773 • 2d ago • [theescapenewsletter.com](https://www.theescapenewsletter.com/p/the-airpods-effect)
 
 ---
 
@@ -213,7 +215,7 @@ How earbuds influence our beliefs and push us apart.
 
 AI Engineer Claims to Have Cracked Linear A
 
-⬆️ 442 • 💬 174 • 2d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
+⬆️ 442 • 💬 176 • 2d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
 
 ---
 
@@ -227,7 +229,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 **[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
 
-⬆️ 244 • 💬 314 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
+⬆️ 244 • 💬 315 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -235,7 +237,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 236 • 💬 137 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 236 • 💬 138 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -243,7 +245,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 212 • 💬 149 • 18h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 216 • 💬 151 • 19h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -251,13 +253,13 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 171 • 💬 40 • 14h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 175 • 💬 43 • 16h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
 **[The 100k whys of AI](https://news.ycombinator.com/item?id=48616017)**
 
-⬆️ 142 • 💬 86 • 13h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+⬆️ 158 • 💬 94 • 15h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
 
 ---
 
@@ -265,7 +267,7 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
 
-⬆️ 120 • 💬 104 • 1d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+⬆️ 120 • 💬 104 • 2d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
 
 ---
 
@@ -279,7 +281,7 @@ these new Chinese AI Models are INSANE, so I put them up to the challenge today 
 
 📺 tef
 
-👁️ 29K • 👍 2K • 💬 285 • ⏱️ 10:34 • 16h ago
+👁️ 29K • 👍 2K • 💬 285 • ⏱️ 10:34 • 18h ago
 
 ---
 
@@ -329,7 +331,7 @@ Young people were told artificial intelligence would make them sharper, faster, 
 
 📺 Tech Aakash Help
 
-👁️ 19K • 👍 906 • 💬 262 • ⏱️ 23:07 • 12h ago
+👁️ 19K • 👍 906 • 💬 262 • ⏱️ 23:07 • 14h ago
 
 ---
 
@@ -339,7 +341,7 @@ Use code TIS at https://incogni.com/tis to get an exclusive 60% off. Anthropic s
 
 📺 The Infographics Show
 
-👁️ 139K • 👍 4K • 💬 613 • ⏱️ 15:27 • 1d ago
+👁️ 139K • 👍 4K • 💬 613 • ⏱️ 15:27 • 2d ago
 
 ---
 
@@ -349,7 +351,7 @@ Create CINEMATIC Bollywood Movie Teasers & Trailers Using AI AI Tool 1: ...
 
 📺 Raj Photo Editing and Much More
 
-👁️ 8K • 👍 562 • 💬 34 • ⏱️ 11:16 • 12h ago
+👁️ 8K • 👍 562 • 💬 34 • ⏱️ 11:16 • 14h ago
 
 ---
 
@@ -359,7 +361,7 @@ Are AI glasses ready for daily use? See how the MemoMind one handles real-time t
 
 📺 Matt Talks Tech
 
-👁️ 4K • 👍 481 • 💬 15 • ⏱️ 11:33 • 9h ago
+👁️ 4K • 👍 481 • 💬 15 • ⏱️ 11:33 • 11h ago
 
 ---
 
@@ -571,7 +573,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 20 • 💬 1 • ⭐ 83,173 • 19d ago
+▲ 20 • 💬 1 • ⭐ 83,173 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -598,7 +600,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates.
 
-▲ 89 • 💬 3 • ⭐ 734 • 9d ago
+▲ 89 • 💬 3 • ⭐ 734 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.14066) • [💻 code](https://github.com/microsoft/fastcontext) • [🔗 project](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)
 
@@ -649,7 +651,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 45.5k • 🔱 2.2k • 18h ago
+⭐ 45.5k • 🔱 2.2k • 20h ago
 
 ---
 
@@ -659,7 +661,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.2k • 🔱 944 • 5h ago
+⭐ 10.2k • 🔱 944 • 7h ago
 
 ---
 
@@ -669,7 +671,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.3k • 🔱 483 • 4h ago
+⭐ 4.3k • 🔱 483 • 6h ago
 
 ---
 
@@ -679,7 +681,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 417 • 2h ago
+⭐ 3.4k • 🔱 417 • 4h ago
 
 ---
 
