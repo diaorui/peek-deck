@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-22T15:38:26.814265+00:00'
+updated: '2026-06-22T19:28:54.060665+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 22, 2026 at 15:38 UTC  
+**Last Updated:** June 22, 2026 at 19:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the development process so far: https://vt.tiktok.com/ZSCJJAqr6/
 
-1h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 In this python simulation: a robot spins a sensor and receives the distance. I made the distance more inaccurate the farther it is from a wall. The white lines are the actual walls The green dots are the raw, inaccurate data points the blue lines are my attempt at trying to interpret the data points into walls The algorithm works like this: For every green dot, if there are two close dots, it finds the best fit line, deletes the middle dot, and moves the other two onto the best fit line. This averages out the slopes between the green dots to allow for slope comparison. For every green dot, if the angle of the lines connected the green dot in front and behind are similar, then they are clipped into just two dots (similar to the first filter). However, as you can see, it is making walls even farther off from the green points, especially for vertical sections. I suspect this is because I'm using y=mx+b, and the slope for a vertical line is undefined, so I think the algorithm has a hard time approaching that. For context, I'm an incoming freshman trying to design an algorithm for a roomba without any prior knowledge on SLAM algorithms, so I would greatly appreciate any resources for a better implementation or just general feedback.
 
-48m ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal wa
 
 Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel grant on the IROS 2026 website this time, the only grant available is the IES-SYPA grant for upto 15 people. Is this not really less compared to any previous editions?
 
-11h ago
+15h ago
 
 ---
 
@@ -82,7 +82,7 @@ Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel gran
 
 I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visualize how deep the field gets. What would you move up, move down, or add? I'm curious to see what experienced roboticists think belongs at the deepest level.
 
-1h ago
+5h ago
 
 ---
 
@@ -102,13 +102,91 @@ I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visua
 
 I released MetriPlane v0.2.0 and am preparing a SoftwareX research-software paper while finishing my MSc thesis. 3-minute demo: https://www.youtube.com/watch?v=7U5nbBbGGbw Repo: https://github.com/Miko997/metriplane Zenodo DOI: https://doi.org/10.5281/zenodo.20736619 MetriPlane is an observe-only physical-observability tool for bounded workcells. The v0.2.0 demo shows a replayed missing-tool event becoming: - physical event log - Cell Truth Report - evidence bundle - local bundle verification - generated regression test The goal is not robot control or safety certification. The goal is replayable evidence: what physically happened, what proves it, and whether the incident can become a repeatable software check. I am looking for technical feedback from robotics, simulation, manufacturing, digital-twin, and research-software people. Public reproduction issue: https://github.com/Miko997/metriplane/issues/6 I am especially interested in: Does the camera-free reproduction path work on other machines? Is the evidence-bundle / regression-test loop useful? Are the limitations clear enough? What should be validated next? Scope: - observe-only - planar/tagged assets - no robot or machine control - no safety certification - no marker-free tracking claim - no production deployment claim Useful feedback format: OS: Python version: doctor: pass/fail deterministic replay: pass/fail Atlas run: pass/fail bundle verify: pass/fail generated regression test: pass/fail Technical relevance: 2–5 sentences Main limitation: 1–2 sentences Critical feedback is preferred.
 
-21h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI](https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai)**
+
+NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
+
+NVIDIA Newsroom • 6h ago
+
+---
+
+**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
+
+Axios • 4h ago
+
+---
+
+**[Humanoid robots just got a workplace safety system](https://www.foxnews.com/science/humanoid-robots-just-got-workplace-safety-system)**
+
+NVIDIA introduces Halos for Robotics, which it calls the industry's first full-stack safety system for physical AI and robots working near people.
+
+Fox News • 6h ago
+
+---
+
+**[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams](https://www.businessinsider.com/ukraine-turning-robots-mobile-weapons-hunt-russia-infiltration-groups-2026-6)**
+
+Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
+
+Business Insider • 3d ago
+
+---
+
+**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
+
+China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
+
+Financial Times • 12h ago
+
+---
+
+**[Tesla's Missing 10,000: Is Optimus Falling Behind The Robotics Pack?](https://finance.yahoo.com/technology/ai/articles/teslas-missing-10-000-optimus-130817893.html)**
+
+Tesla (TSLA) is valued at more than $1.2 trillion. The automotive business holding that number up is shrinking. Full-year 2025 revenue came in at $94.8 billion, down 3 percent, the company's first annual revenue decline ever. Auto revenue fell 10 percent to $69.5 billion, margins are tighter, and BYD and other Chinese automakers keep gaining global share.
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/)**
+
+Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
+
+The Robot Report • 6h ago
+
+---
+
+**[GM replaces more than 1,000 workers with 50 robots at flagship Detroit plant: ‘We’re disgusted’](https://nypost.com/2026/06/21/us-news/gm-replaces-more-than-1000-workers-with-50-robots-at-flagship-detroit-plant/)**
+
+“If AI continues to be used as an accessory to that crime, it has to be stopped.”
+
+New York Post • 23h ago
+
+---
+
+**[How Biology Inspired A Former Surgeon To Rethink Robotics](https://www.forbes.com/sites/jonathanreichental/2026/06/22/how-biology-inspired-a-former-surgeon-to-rethink-robotics/)**
+
+A former surgeon's biology-inspired startup is creating soft robotic cells that could transform how intelligent machines are built.
+
+Forbes • 2h ago
+
+---
+
+**[Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?](https://www.fool.com/investing/2026/06/21/archer-aviation-vs-kraken-robotics-with-geopolitic/)**
+
+These exciting companies offer different ways to invest in the next generation of defense.
+
+The Motley Fool • 1d ago
+
+---
 
 ---
 
@@ -120,17 +198,15 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 20K • 👍 626 • 💬 92 • ⏱️ 13:45 • 15h ago
+👁️ 24K • 👍 705 • 💬 103 • ⏱️ 13:45 • 19h ago
 
 ---
 
-**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
+**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
+📺 Army Clips
 
-📺 PRO ROBOTS
-
-👁️ 46K • 👍 793 • 💬 65 • ⏱️ 24:13 • 2d ago
+👁️ 187K • 👍 6K • 💬 110 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -140,15 +216,27 @@ At China's Dragon Boat Festival, everybody takes place – including the robots.
 
 📺 CGTN Europe
 
-👁️ 15K • 👍 81 • 💬 12 • ⏱️ 0:49 • 2d ago
+👁️ 16K • 👍 83 • 💬 12 • ⏱️ 0:49 • 2d ago
 
 ---
 
-**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
+**[Humanoid robots join Dragon Boat Festival traditions in China](https://www.youtube.com/watch?v=0F3FloemqP0)**
 
-📺 Army Clips
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
 
-👁️ 161K • 👍 6K • 💬 91 • ⏱️ 0:58 • 1d ago
+📺 NBC News
+
+👁️ 1K • 👍 10 • 💬 2 • ⏱️ 0:35 • 2h ago
+
+---
+
+**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
+
+📺 PRO ROBOTS
+
+👁️ 46K • 👍 800 • 💬 66 • ⏱️ 24:13 • 3d ago
 
 ---
 
@@ -158,15 +246,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 5K • 👍 191 • 💬 20 • ⏱️ 1:04:55 • 1d ago
-
----
-
-**[Build these three summer engineering projects ‼️#robotics #arduino song credit: punch deck](https://www.youtube.com/watch?v=EbC5JoVEGyU)**
-
-📺 Engineeringwithpalden
-
-👁️ 7K • 👍 398 • 💬 60 • ⏱️ 0:50 • 20h ago
+👁️ 5K • 👍 197 • 💬 20 • ⏱️ 1:04:55 • 1d ago
 
 ---
 
@@ -176,17 +256,17 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 330K • 👍 14K • 💬 3K • ⏱️ 2:51 • 4d ago
+👁️ 334K • 👍 14K • 💬 3K • ⏱️ 2:51 • 4d ago
 
 ---
 
-**[Robot bar tender: LeRobot arms used as they were meant to 🤩🤖🔥 #physicalai #robotics](https://www.youtube.com/watch?v=orwOOsSkpMQ)**
+**[Destroying Anaksors MID AIR... Gauss Crisis 1 Shot Cooking | War Robots](https://www.youtube.com/watch?v=lQUMd5ytgyg)**
 
-At a meetup this week with an awesome (pre-programmed) use case for the SO101 arms from #huggingface Not autonomous yet, ...
+Anaksor destroyer Crisis. We used the Scorpion to counter the Anaksor last week and it worked surprisingly well. But someone ...
 
-📺 Back to Engineering
+📺 PREDATOR WR
 
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 0:11 • 2h ago
+👁️ 5K • 👍 241 • 💬 41 • ⏱️ 13:36 • 7h ago
 
 ---
 
@@ -196,17 +276,17 @@ A female robot out of China is breaking the internet right now — and once you 
 
 📺 AI Exposed
 
-👁️ 24K • 👍 237 • 💬 27 • ⏱️ 12:32 • 2d ago
+👁️ 25K • 👍 244 • 💬 27 • ⏱️ 12:32 • 2d ago
 
 ---
 
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+**[Humanoid robot begging for battery by asking for digital donations](https://www.youtube.com/watch?v=z6oCo9e7BEI)**
 
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+A humanoid robot seen gesturing for digital donations on a Chengdu street has added a bizarre twist to China's robotics boom.
 
-📺 Carros Show
+📺 CGTN Europe
 
-👁️ 5K • 👍 164 • 💬 16 • ⏱️ 21:44 • 2d ago
+👁️ 18K • 👍 259 • 💬 17 • ⏱️ 0:21 • 1d ago
 
 ---
 

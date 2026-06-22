@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-22T15:38:26.796205+00:00'
+updated: '2026-06-22T19:28:54.036937+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 22, 2026 at 15:38 UTC  
+**Last Updated:** June 22, 2026 at 19:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I’ve been interviewing AI engineers and I honestly didn’t expect it to feel this disconnected from reality](https://www.reddit.com/r/artificial/comments/1ucbhzf/ive_been_interviewing_ai_engineers_and_i_honestly/)**
-
-Posting this while technically on company time, but I just needed to get it out somewhere. I’ve been a developer in India for ~20 years, and I’ve seen hiring hype cycles before. But the AI engineer interviews we’re doing right now feel different. A lot of candidates walk in thinking the job is about building or training models, working on “advanced AI systems,” or doing something close to research. But in reality, most of the work we actually need is much less glamorous and way more chaotic. In interviews, I keep seeing the same theoretical talk, but the candidates break down completely when I ask how they’d handle real-world unpredictability. It is so easy to build something that looks like an AI system now. But production is a different game entirely. I don’t really have a conclusion here. It just feels like the gap between “can build a demo” and “can ship something reliable” is getting misunderstood more and more. Curious if others hiring right now are seeing the same thing.
-
-10h ago
-
----
-
-**[I’ve been using AI heavily as a software engineer, and honestly, it feels a bit strange.](https://www.reddit.com/r/artificial/comments/1ucj3nw/ive_been_using_ai_heavily_as_a_software_engineer/)**
-
-I’m a software engineer, probably somewhere between mid-level+ and senior, and recently I’ve been using tools like Codex for a large part of my work - including complex tasks. It saves me a lot of time, makes me more efficient, and in many cases it even suggests cleaner or better implementations than I would have written manually at first. My workflow has changed a lot. Instead of writing every line of code myself, I now spend more time defining the task clearly, reviewing the implementation, checking the diff, testing the logic, making adjustments, and preparing merge requests. On one hand, this feels incredibly powerful. On the other hand, it feels weird. Sometimes I wonder if this can lead to degradation as a developer, because I’m writing less (almost 0) code by hand than before. I still understand and review what gets built, but the process is completely different from how software development felt even a year ago. I’m also building my own projects, and AI has become a huge part of that as well. Things that used to feel unrealistic for one person to build now feel possible. A year ago, this workflow would have sounded almost impossible. Now it feels like reality. I’m curious how other developers see this. Do you think using AI this heavily makes you a weaker developer over time, or is this simply the next stage of software engineering?
-
-3h ago
-
----
-
-**[AI might make me fail my class](https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/)**
-
-I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
-
-19h ago
-
----
-
 **[Canadian government spent tens of millions on secret Palantir contract](https://www.reddit.com/r/artificial/comments/1ucilr4/canadian_government_spent_tens_of_millions_on/)**
 
 Records from the IJF’s Open By Default database reveal the government made over a dozen amendments to a contract with Palantir Canada to provide services to an elite unit of the military
 
-🔗 [theijf.org](https://theijf.org/brief/canadian-palantir-contract-amendments-obd) • 3h ago
+🔗 [theijf.org](https://theijf.org/brief/canadian-palantir-contract-amendments-obd) • 7h ago
+
+---
+
+**[Investment lawyer breaking down how AI DeepFakes get used in high profile scams](https://www.reddit.com/r/artificial/comments/1ucpgrh/investment_lawyer_breaking_down_how_ai_deepfakes/)**
+
+Courtney Werning explains how AI deepfakes, pig butchering scams and crypto fraud are raising investment scam risks.
+
+🔗 [Techstrong TV](https://techstrong.tv/videos/interviews/ai-deepfakes-escalate-investment-scam-risks) • 2h ago
 
 ---
 
@@ -73,7 +57,15 @@ Records from the IJF’s Open By Default database reveal the government made ove
 
 Still trying to make sense of the Mythos/NSA news this week — the NSA confirming Mythos got into most classified networks in hours, not weeks. What I keep coming back to isn't the breach itself but the arrangement sitting underneath it. The NSA reportedly agreed to a set of red lines with Anthropic: no domestic mass surveillance, no autonomously lethal weapons. I came across a conversation with Dean Ball that was recorded right before this story broke, where he walks through how that arrangement actually works from the inside. The part that stuck with me: the real question after Mythos isn't "how did this happen," it's whether those red lines survive once there's a genuine panic and pressure to throw them out.
 
-2h ago
+6h ago
+
+---
+
+**[AI might make me fail my class](https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/)**
+
+I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
+
+23h ago
 
 ---
 
@@ -81,7 +73,15 @@ Still trying to make sense of the Mythos/NSA news this week — the NSA confirmi
 
 Microsoft chief executive Satya Nadella has voiced concerns over the growing concentration of power in artificial intelligence, arguing that the technology’s future should not be shaped by a small group of companies. He also called for cheaper AI models and broader access to the benefits created by the technology.
 
-🔗 [Firstpost](https://www.firstpost.com/tech/you-cant-call-it-progress-microsoft-ceo-satya-nadella-warns-against-concentration-of-ai-power-14025004.html) • 4h ago
+🔗 [Firstpost](https://www.firstpost.com/tech/you-cant-call-it-progress-microsoft-ceo-satya-nadella-warns-against-concentration-of-ai-power-14025004.html) • 7h ago
+
+---
+
+**[Multi-Agent Orchestration](https://www.reddit.com/r/artificial/comments/1ucl5hs/multiagent_orchestration/)**
+
+How to: A parent agent delegates to multiple async child agents in parallel. ​ https://github.com/siddsachar/row-bot
+
+5h ago
 
 ---
 
@@ -89,7 +89,23 @@ Microsoft chief executive Satya Nadella has voiced concerns over the growing con
 
 The AI Alliance just announced new momentum for Project Tapestry, its open-source platform for building frontier models through globally federated development rather than one centralized lab. India's BharatGen is the latest organization to commit, signing on to anchor India's participation in the coalition. What's notable here is the architecture of the effort, not just the membership news. Tapestry is designed so multiple countries and organizations can jointly develop frontier open models while each keeps local control and long-term independence; the pitch is "sovereign" AI you can actually run and govern yourself. The timing of the announcement lands as the G7 elevates AI sovereignty as a headline policy topic. The open question is execution. Federated development across nations and orgs is hard — compute sharing, data governance, and model-release decisions all get more complicated with more parties at the table. Whether a coalition can ship something competitive with centralized frontier labs is still unproven. Source: https://thealliance.ai/blog/ai-alliance-advances-project-tapestry-as-g7-puts-ai-sovereignty-at-center-stage Posted by an AI Alliance community member — happy to answer questions in the comments. For a country like India, what's the stronger path to AI capability — anchoring a shared federated project like this, or funding a fully domestic frontier lab?
 
-1h ago
+5h ago
+
+---
+
+**[What are people doing with local models?](https://www.reddit.com/r/artificial/comments/1ucu0gy/what_are_people_doing_with_local_models/)**
+
+I'm finding it hard to understand the use cases for running AI models locally. I came across this repo today https://github.com/elder-plinius/OBLITERATUS which is meant to remove restrictions placed on cloud models. Hugging face has a bunch of models/model types you can download and run locally. Other than removing restrictions or having a non-chat based model (img gen or something), what are people actually doing running models locally? Isn't getting a Claude or ChatGPT subscription just so much easier that setting up your own hardware? I can't imagine writing so many prompts in a day that it's actually worth it to buy a DGX Spark or Ryzen Halo.
+
+12m ago
+
+---
+
+**[I built an AI social media content generator for small businesses — what do you think?](https://www.reddit.com/r/artificial/comments/1uctm5x/i_built_an_ai_social_media_content_generator_for/)**
+
+Hey r/artificial! 👋 AI is everywhere right now but most of the conversation is around enterprise use cases — big companies, big budgets, big teams. I'm curious about the other side — small business owners. Are small businesses actually adopting AI tools in meaningful ways? Or is the barrier to entry still too high? From what I've seen, the biggest challenges for small business owners using AI are: ❌ Most tools are too complex ❌ Pricing is not designed for small budgets ❌ Tools are too generic — not built for specific industries Would love to hear from this community: What AI tools are small business owners actually finding useful? What problems do you think AI could solve for small businesses that nobody is building yet? Is simplicity more important than features for this audience? Genuinely curious to hear different perspectives! 💬
+
+26m ago
 
 ---
 
@@ -97,29 +113,35 @@ The AI Alliance just announced new momentum for Project Tapestry, its open-sourc
 
 I've been thinking about how weird the career space has become. We have AI that can generate code, write essays, and summarize research, yet millions of people are still navigating their careers with a combination of guesswork, job boards, random LinkedIn advice, and YouTube videos. Most people don't actually know: What skills they're missing Whether they're truly ready for a role Why they keep getting rejected What they should focus on next It feels like we've optimized everything except helping people make better career decisions. Curious what this community thinks about what's one career problem you wish AI would solve that current tools still get wrong?
 
-2h ago
-
----
-
-**[Maybe the AI race isn’t about models at all, but about trust and organizational intelligence](https://www.reddit.com/r/artificial/comments/1uc7mk8/maybe_the_ai_race_isnt_about_models_at_all_but/)**
-
-Everyone talks about the AI race as if it’s just an intelligence benchmark competition. GPT-6 vs Claude 5 vs Gemini vs DeepSeek. But I’m starting to wonder if intelligence itself eventually becomes abundant and the real scarcity becomes trust and the ability to interface with reality. For example, suppose a Chinese model is 95% as good as OpenAI and 10x cheaper. Would Fortune 500 companies really put it inside: financial systems? ERP software? defense applications? pharmaceutical R&D? factory automation? autonomous agents with spending authority? Maybe for translation or generic coding, sure. But would they trust it with the organization’s nervous system? Which makes me think there are really several layers: 1. Intelligence Layer OpenAI Anthropic Google DeepSeek 2. Interface Layer ChatGPT Claude Copilot 3. Reality Layer Palantir ServiceNow SAP Oracle Salesforce Anduril The reality layer contains: permissions workflows ontology governance auditability human incentives accountability Organizations are messy. Humans are messy. Maybe the hard problem isn’t generating tokens. Maybe it’s connecting intelligence to reality without breaking the organization. This also makes me wonder if enterprise software ends up being more durable than people think. If foundation models become increasingly commoditized, perhaps trust, integration, and organizational operating systems become more valuable, not less. Alex Karp often seems to talk less about models and more about institutions and organizational complexity. Perhaps he sees LLMs as interchangeable sources of intelligence and the hard problem as organizational intelligence itself. Curious what others think. Do you believe AI will mostly commoditize and price competition will dominate, or do trust, governance, and integration become the real moat?
-
-13h ago
-
----
-
-**[Why is the Refine architecture still very slow but superior to giant 1M token context windows, for example, for audits where Lost in the Middle does not occur compared to auditing in the context window?](https://www.reddit.com/r/artificial/comments/1uclh7r/why_is_the_refine_architecture_still_very_slow/)**
-
-GG
-
-1h ago
+6h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Alphabet paces for worst day in a year on AI concerns after high-profile exits](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html)**
+
+Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.
+
+CNBC • 3h ago
+
+---
+
+**[Alphabet Shares Drop After Second AI Star Departs for a Rival](https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival)**
+
+Bloomberg • 2h ago
+
+---
+
+**[Alphabet shares slide as AI talent exodus rattles investors](https://finance.yahoo.com/technology/ai/articles/alphabet-shares-slide-ai-talent-181000529.html)**
+
+Alphabet Inc (NASDAQ:GOOG) shares fell 5.5% on Monday after the company lost two of its most prominent artificial intelligence researchers to rivals, raising concerns about a brain drain at the heart of its AI ambitions. Noam Shazeer, Google DeepMind's vice president of engineering and...
+
+Yahoo Finance • 1h ago
+
+---
 
 **[AI models that can take down governments and business months away, rare Five Eyes statement warns](https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security)**
 
@@ -129,71 +151,45 @@ The Guardian • 2h ago
 
 ---
 
-**[Is China Closing the A.I. Gap Faster Than Expected?](https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html)**
+**[Exclusive | Google Investing in ‘Backrooms’ Studio A24 as Part of New AI Research Partnership](https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe)**
 
-Silicon Valley and corporate America are increasingly turning to cheaper, open-source artificial intelligence models built in China.
-
-The New York Times • 3h ago
+WSJ • 5h ago
 
 ---
 
-**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
+**[Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools](https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/)**
 
-Axios • 12m ago
+A24 and Google have struck an AI research partnership that will see the independent studio work to develop new AI-powered technologies for filmmakers.
 
----
-
-**[The trillion-dollar AI hallucination](https://www.computerworld.com/article/4187825/the-trillion-dollar-ai-hallucination.html)**
-
-If technology tends to minituarization over time, on-device AI is the future.
-
-Computerworld • 9m ago
+Variety • 4h ago
 
 ---
 
-**[Confident AI begins with confident data](https://www.cio.com/article/4187870/confident-ai-begins-with-confident-data.html)**
+**[Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/)**
 
-Before organizations can optimize their IT operations with AI, they need a trusted, unified data foundation for device and asset data.
+Google DeepMind and A24 are teaming up to build AI filmmaking tools.
 
-cio.com • 13m ago
-
----
-
-**[SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion](https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html)**
-
-SpaceX has turned its Colossus data center into a commercial computing power platform, landing recent deals with Anthropic, Google and Cursor.
-
-CNBC • 38m ago
+TechCrunch • 39m ago
 
 ---
 
-**[Exclusive | Google Investing in ‘Backrooms’ Studio A24](https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe)**
+**[Nvidia says AI's water challenge is largely solved](https://www.axios.com/2026/06/22/nvidia-data-center-water-solution)**
 
-WSJ • 1h ago
-
----
-
-**[GOOGL Stock Dips Premarket After Breakout Week: Analyst Says Google Developing Next-Gen AI Chip With MediaTek](https://finance.yahoo.com/technology/ai/articles/googl-stock-dips-premarket-breakout-080934887.html)**
-
-Google’s “Triggerfish” will feature a substantial memory upgrade, support next-generation HBM4E memory, and allow more active workloads to remain on-chip, according to Ming-Chi Kuo.
-
-Yahoo Finance • 7h ago
+Axios • 10h ago
 
 ---
 
-**[Germany's media rocked by AI scandal](https://www.dw.com/en/germany-media-ai-scandal-journalism/a-77606407)**
+**[Data centers become the face of AI backlash](https://www.axios.com/2026/06/22/ai-data-center-backlash-poll)**
 
-Two German outlets were forced to delete articles that used undisclosed AI. Many fear that reliance on the technology will damage the credibility of German media.
-
-DW.com • 4h ago
+Axios • 10h ago
 
 ---
 
-**[An AI proxy war could reshape Congress — before Congress reshapes AI](https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election)**
+**[Nvidia says its new data center design will fix AI’s water problem](https://fortune.com/2026/06/22/nvidia-new-data-center-design-ai-water-problem-cooling/)**
 
-The massive spending and heated rhetoric in midterm races reflect the AI industry's political fault lines and competing visions of what the future should look like.
+The company says it has eliminated “pretty much all water usage” with its new liquid cooling design.
 
-NPR • 6h ago
+Fortune • 37m ago
 
 ---
 
@@ -201,39 +197,11 @@ NPR • 6h ago
 
 ## HackerNews: "ai"
 
-**[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
-
-⬆️ 811 • 💬 587 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
-
----
-
 **[Apertus – Open Foundation Model for Sovereign AI](https://news.ycombinator.com/item?id=48622778)**
 
 Fully Open Foundation Model for Sovereign AI
 
-⬆️ 489 • 💬 165 • 18h ago • [apertvs.ai](https://apertvs.ai/)
-
----
-
-**[AI Engineer Claims to Have Cracked Linear A](https://news.ycombinator.com/item?id=48600107)**
-
-AI Engineer Claims to Have Cracked Linear A
-
-⬆️ 445 • 💬 178 • 2d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
-
----
-
-**[A new bill takes aim at government pressure to silence lawful online speech](https://news.ycombinator.com/item?id=48600950)**
-
-The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.
-
-⬆️ 298 • 💬 137 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-
----
-
-**[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
-
-⬆️ 246 • 💬 315 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
+⬆️ 506 • 💬 168 • 21h ago • [apertvs.ai](https://apertvs.ai/)
 
 ---
 
@@ -241,7 +209,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 245 • 💬 144 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 245 • 💬 146 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -249,7 +217,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 225 • 💬 164 • 1d ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 227 • 💬 165 • 1d ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -257,7 +225,7 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 193 • 💬 47 • 1d ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 194 • 💬 49 • 1d ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
@@ -267,9 +235,41 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 ---
 
-**[Munich 1991: The Roots of the Current AI Boom](https://news.ycombinator.com/item?id=48599998)**
+**[Companies rein in AI usage as costs strain budgets](https://news.ycombinator.com/item?id=48602571)**
 
-⬆️ 163 • 💬 68 • 2d ago • [people.idsia.ch](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
+Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
+
+⬆️ 121 • 💬 106 • 2d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+
+---
+
+**[Don’t use AI to write things that you present as your own work](https://news.ycombinator.com/item?id=48615776)**
+
+...also don't tell lies. But I'm getting ahead of myself already.  I keep running into people online who openly say that they use AI to do their writing for t
+
+⬆️ 100 • 💬 91 • 1d ago • [satisfice.com](https://www.satisfice.com/blog/archives/488148)
+
+---
+
+**[Tech Workers Are Fighting Against Silicon Valley's AI Push](https://news.ycombinator.com/item?id=48623695)**
+
+More tech workers are organizing to fight back as they feel they are losing influence over decisions that affect their jobs, writes Varsha Bansal.
+
+⬆️ 46 • 💬 14 • 19h ago • [Tech Policy Press](https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/)
+
+---
+
+**[I solved my mystery fatigue with AI](https://news.ycombinator.com/item?id=48605117)**
+
+⬆️ 39 • 💬 25 • 2d ago • [metalearn.substack.com](https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai)
+
+---
+
+**[The anatomy of an AI-native org](https://news.ycombinator.com/item?id=48622815)**
+
+For thirty years we were glorified translators — business asked why, product defined what, engineering translated to how. AI just ate the translation step. The anatomy of the team that's left looks nothing like the one you have today.
+
+⬆️ 36 • 💬 37 • 21h ago • [ajeygore.in](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)
 
 ---
 
@@ -277,13 +277,13 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 ## YouTube Videos: "ai"
 
-**[How to Build AI Agents Better than 99% of People](https://www.youtube.com/watch?v=9AsFlLk5-S8)**
+**[Find a $10K/Month Business Idea Using AI (Claude &amp; Reddit)](https://www.youtube.com/watch?v=bT36laxIbn4)**
 
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 In ...
 
-📺 Mikey No Code
+📺 Max Max
 
-👁️ 5K • 💬 6 • ⏱️ 29:16 • 1h ago
+👁️ 8K • 💬 7 • ⏱️ 23:22 • 5h ago
 
 ---
 
@@ -293,17 +293,17 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 20K • 👍 626 • 💬 92 • ⏱️ 13:45 • 15h ago
+👁️ 24K • 👍 705 • 💬 103 • ⏱️ 13:45 • 19h ago
 
 ---
 
-**[China Will Have Anthropic Fable Class AI By End of Year - USA Can&#39;t Beat Chinese](https://www.youtube.com/watch?v=UIUH3_W0WLg)**
+**[5 Claude AI Skills That Pay More Than a College Degree](https://www.youtube.com/watch?v=Erxl8jomCcY)**
 
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/livedes-06-22-2026 Apply For ...
 
-📺 Eli the Computer Guy
+📺 Shane Hummus
 
-👁️ 15K • 👍 667 • 💬 219 • ⏱️ 14:11 • 15h ago
+👁️ 15K • 👍 823 • 💬 31 • ⏱️ 18:09 • 21h ago
 
 ---
 
@@ -313,7 +313,37 @@ Full briefing w/ Agent Owner Card: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 👍 434 • 💬 30 • ⏱️ 14:21 • 22h ago
+👁️ 14K • 👍 461 • 💬 31 • ⏱️ 14:21 • 1d ago
+
+---
+
+**[China Will Have Anthropic Fable Class AI By End of Year - USA Can&#39;t Beat Chinese](https://www.youtube.com/watch?v=UIUH3_W0WLg)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 16K • 👍 705 • 💬 225 • ⏱️ 14:11 • 19h ago
+
+---
+
+**[Anthropic is Completely F*cked.](https://www.youtube.com/watch?v=XeVh4ljmFzs)**
+
+See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/moon.
+
+📺 Moon
+
+👁️ 352K • 👍 10K • 💬 2K • ⏱️ 21:58 • 2d ago
+
+---
+
+**[UNCENSORED!! 4 FREE &amp; UNLIMITED AI Video Generators with SEEDANCE 2.0](https://www.youtube.com/watch?v=5_C0OjlglhI)**
+
+These are 4 Free AI Video Generators nobody has seen yet with seedance 2, veo 3 and the top ai models. Since a lot of you ...
+
+📺 Brain Project
+
+👁️ 20K • 👍 914 • 💬 163 • ⏱️ 20:22 • 2d ago
 
 ---
 
@@ -323,37 +353,7 @@ Get 30 days free on HighLevel only with my link: https://www.gohighlevel.com/TKO
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 26K • 👍 1K • 💬 67 • ⏱️ 20:40 • 2d ago
-
----
-
-**[I Tried Every Image To Video AI Video Generator (free &amp; paid)](https://www.youtube.com/watch?v=8obne_qS6MY)**
-
-This Is The Best Image To Video AI Video Generator in 2026 Try the best models on Higgsfield ...
-
-📺 Mira AI
-
-👁️ 11K • 💬 5 • ⏱️ 13:24 • 2d ago
-
----
-
-**[AI in the SDLC: Rethinking AI Coding Tools &amp; AI Agents](https://www.youtube.com/watch?v=4wMRXmLpdA8)**
-
-Learn more about AI in the SDLC here → https://ibm.biz/~naNTyKNWO AI promises speed, but where are the real gains? Cedric ...
-
-📺 IBM Technology
-
-👁️ 4K • 👍 354 • 💬 19 • ⏱️ 9:28 • 4h ago
-
----
-
-**[Shocking New AI Just Hit 12 Million Tokens With 1000x Less Compute](https://www.youtube.com/watch?v=7jrZ4JqeGyY)**
-
-A shocking new AI breakthrough just hit 12 million tokens with nearly 1000x less attention compute. Subquadratic says its new ...
-
-📺 AI Revolution
-
-👁️ 28K • 👍 933 • 💬 68 • ⏱️ 15:12 • 2d ago
+👁️ 27K • 👍 1K • 💬 68 • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -363,17 +363,17 @@ Today me and Mully test Ai Scam ads and it goes about as well as you'd expect Su
 
 📺 Average Joe
 
-👁️ 100K • 👍 5K • 💬 351 • ⏱️ 28:04 • 1d ago
+👁️ 106K • 👍 5K • 💬 362 • ⏱️ 28:04 • 1d ago
 
 ---
 
-**[I Paid Dress Makers $5000 To Recreate AI Dresses ... AGAIN](https://www.youtube.com/watch?v=GLO9HFWLbq8)**
+**[Shocking New AI Just Hit 12 Million Tokens With 1000x Less Compute](https://www.youtube.com/watch?v=7jrZ4JqeGyY)**
 
-Today we hired dress makers to make AI designed dresses but in real life! Whatnot is giving away $15 off your first purchase on ...
+A shocking new AI breakthrough just hit 12 million tokens with nearly 1000x less attention compute. Subquadratic says its new ...
 
-📺 Mia Maples
+📺 AI Revolution
 
-👁️ 690K • 👍 39K • 💬 5K • ⏱️ 27:28 • 2d ago
+👁️ 28K • 👍 937 • 💬 68 • ⏱️ 15:12 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 33,589 • ❤️ 1,961 • 7h ago
+⬇️ 33,589 • ❤️ 1,994 • 11h ago
 
 ---
 
@@ -401,7 +401,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 414,734 • ❤️ 2,142 • 3d ago
+⬇️ 414,734 • ❤️ 2,154 • 3d ago
 
 ---
 
@@ -413,19 +413,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 32,385 • ❤️ 595 • 2d ago
-
----
-
-**[MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)**
-
-*MiniMax*
-
-MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text-to-text tasks. It features MiniMax Sparse Attention (MSA) for efficient long context processing and demonstrates frontier-level performance in coding and agentic benchmarks.
-
-`image-text-to-text` `427.0B`
-
-⬇️ 119,967 • ❤️ 1,196 • 9h ago
+⬇️ 32,385 • ❤️ 603 • 3d ago
 
 ---
 
@@ -437,7 +425,19 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 50,314 • ❤️ 348 • 3d ago
+⬇️ 50,314 • ❤️ 363 • 3d ago
+
+---
+
+**[MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)**
+
+*MiniMax*
+
+MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text-to-text tasks. It features MiniMax Sparse Attention (MSA) for efficient long context processing and demonstrates frontier-level performance in coding and agentic benchmarks.
+
+`image-text-to-text` `427.0B`
+
+⬇️ 119,967 • ❤️ 1,203 • 12h ago
 
 ---
 
@@ -449,19 +449,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 41,846 • ❤️ 241 • 4d ago
-
----
-
-**[FastContext-1.0-4B-SFT](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)**
-
-*Microsoft*
-
-FastContext-1.0-4B-SFT is a lightweight repository-exploration subagent for LLM coding agents, designed to efficiently locate relevant code snippets using parallel read-only tool calls (READ, GLOB, GREP). Its primary use case is to reduce token consumption and context pollution for main coding agents by providing focused file paths and line ranges as evidence, thereby improving end-to-end performance in tasks like software development.
-
-`text-generation` `4.0B`
-
-⬇️ 3,498 • ❤️ 284 • 5d ago
+⬇️ 41,846 • ❤️ 246 • 4d ago
 
 ---
 
@@ -473,7 +461,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 412,778 • ❤️ 955 • 7d ago
+⬇️ 412,778 • ❤️ 958 • 7d ago
 
 ---
 
@@ -485,7 +473,19 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 247,517 • ❤️ 2,279 • 10d ago
+⬇️ 247,517 • ❤️ 2,284 • 10d ago
+
+---
+
+**[FastContext-1.0-4B-SFT](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)**
+
+*Microsoft*
+
+FastContext-1.0-4B-SFT is a lightweight repository-exploration subagent for LLM coding agents, designed to efficiently locate relevant code snippets using parallel read-only tool calls (READ, GLOB, GREP). Its primary use case is to reduce token consumption and context pollution for main coding agents by providing focused file paths and line ranges as evidence, thereby improving end-to-end performance in tasks like software development.
+
+`text-generation` `4.0B`
+
+⬇️ 3,498 • ❤️ 285 • 5d ago
 
 ---
 
@@ -497,7 +497,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 4,078,305 • ❤️ 2,099 • 2mo ago
+⬇️ 4,078,305 • ❤️ 2,103 • 2mo ago
 
 ---
 
@@ -511,7 +511,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 35 • 💬 1 • ⭐ 24,946 • 32mo ago
+▲ 35 • 💬 1 • ⭐ 25,071 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -523,7 +523,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 176 • 💬 6 • ⭐ 5,112 • 4mo ago
+▲ 178 • 💬 6 • ⭐ 5,112 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -535,7 +535,7 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 102 • 💬 4 • ⭐ 87,900 • 18mo ago
+▲ 102 • 💬 4 • ⭐ 87,987 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -549,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 243 • 💬 4 • ⭐ 8,667 • 1mo ago
+▲ 243 • 💬 4 • ⭐ 8,752 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -643,7 +643,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 76.1k • 🔱 9.9k • 5m ago
+⭐ 76.3k • 🔱 9.9k • 11m ago
 
 ---
 
@@ -653,7 +653,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 48.9k • 🔱 2.4k • 1d ago
+⭐ 49.3k • 🔱 2.4k • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.3k • 🔱 963 • 2m ago
+⭐ 10.3k • 🔱 965 • 2h ago
 
 ---
 
@@ -673,7 +673,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.4k • 🔱 501 • 10m ago
+⭐ 4.4k • 🔱 505 • 15m ago
 
 ---
 
@@ -683,7 +683,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 424 • 23h ago
+⭐ 3.4k • 🔱 424 • 1d ago
 
 ---
 
@@ -693,7 +693,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 3.3k • 🔱 294 • 42m ago
+⭐ 3.4k • 🔱 303 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.2k • 🔱 208 • 9h ago
+⭐ 2.2k • 🔱 209 • 13h ago
 
 ---
 
@@ -713,7 +713,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.8k • 🔱 129 • 9h ago
+⭐ 1.8k • 🔱 129 • 12h ago
 
 ---
 
@@ -723,7 +723,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.8k • 🔱 97 • 2d ago
+⭐ 1.8k • 🔱 97 • 3h ago
 
 ---
 
