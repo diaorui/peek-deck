@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-22T10:21:33.165663+00:00'
+updated: '2026-06-22T15:38:26.811077+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 22, 2026 at 10:21 UTC  
+**Last Updated:** June 22, 2026 at 15:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,733.84
+### $1,757.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -2.4%  
-**30d:** -16.8%  
-**90d:** -19.4%  
-**1y:** -27.5%  
+**24h:** +1.5%  
+**7d:** -2.0%  
+**30d:** -16.4%  
+**90d:** -19.1%  
+**1y:** -27.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
 
-1d ago
+2d ago
 
 ---
 
@@ -104,13 +104,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds separate builder deposit & exit contracts
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-28/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-28/) • 3d ago
 
 ---
 
 **[EU's MICA regulation taking action on July 1st.](https://www.reddit.com/r/ethereum/comments/1u9z59f/eus_mica_regulation_taking_action_on_july_1st/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -118,7 +118,7 @@ Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds se
 
 https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d034da533dbefeec0c1e172e5cc7fddd6d433 My latest article on Ethereum institutions (past, present, and future) and their political economy: Subtraction and Legitimacy The Funding Crisis Succession Planning Read/discuss/share here: Farcaster: https://farcaster.xyz/trent/0x9b4b522f Twitter https://x.com/trent_vanepps/status/2067593124398989551 Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction I believe this is a critical time to establish institutions for our next decade, and beyond. I worked at the Ethereum Foundation for 5 years coordinating core development, Protocol Guild funding, and political economy research. Subtraction successfully signals reduced EF power yet legitimacy stubbornly pools at the Foundation via brand, Vitalik affiliation, treasury, and assets. Treasury constraints and CIP expiration risk a slow-burning funding crisis that threatens institutional capacity for protocol maintenance and upgrades. EF will not steward Ethereum's next decade; a reset of social, political, and economic contracts is needed for effective institutional succession. New mechanisms must enable scalable neutral funding, steward interdependent resources, and prioritize broad adoption for the World Computer.
 
-3d ago
+4d ago
 
 ---
 
@@ -166,19 +166,27 @@ CoinDesk • 1d ago
 
 ---
 
+**[Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-92-151830218.html)**
+
+The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.
+
+Yahoo Finance • 19m ago
+
+---
+
 **[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
 
 Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
 
-The Block • 5h ago
+The Block • 10h ago
 
 ---
 
-**[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
+**[Current price of Ethereum for June 22, 2026](https://fortune.com/article/price-of-ethereum-06-22-2026/)**
 
-zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 2d ago
+Fortune • 2h ago
 
 ---
 
@@ -186,47 +194,39 @@ Yahoo Finance • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
 
-FXStreet • 6h ago
+FXStreet • 11h ago
 
 ---
 
-**[Why Ethereum Underperforms Despite Wall Street Hype And Spot ETF Approvals](https://www.tradingview.com/news/newsbtc:678f7618a094b:0-why-ethereum-underperforms-despite-wall-street-hype-and-spot-etf-approvals/)**
+**[LefterisJP warns Ethereum validator funding plan could create cartel](https://cryptobriefing.com/ethereum-validator-funding-cartel-warning/)**
 
-Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
+Lefteris Karapetsas warns a new Ethereum proposal redirecting up to 10% of validator rewards via stake-weighted voting could enable cartel-like behavior.
 
-TradingView • 21h ago
-
----
-
-**[Ethereum Foundation Loses Another Key Leader as Co-Executive Director Hsiao-Wei Wang Resigns](https://unchainedcrypto.com/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns/)**
-
-Hsiao-Wei Wang stepped down as co-executive director and board member of the Ethereum Foundation, the latest of at least eight senior departures in five months, leaving board member Bastian Aue to steer the nonprofit amid scrutiny of its governance and rising competition.
-
-unchainedcrypto.com • 2d ago
+Crypto Briefing • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Flat Amid Trump's Threat On Hormuz Strait To Iran: Analyst Says BTC Brea](https://www.benzinga.com/crypto/cryptocurrency/26/06/60006240/bitcoin-ethereum-xrp-dogecoin-flat-as-trump-threatens-iran-over-hormuz-strait-analyst-sees-bull-market-trigger)**
+**[A Whale Just Opened $48 Million in Shorts Against Bitcoin, Solana and Ethereum](https://news.bitcoin.com/hyperliquid-whale-48-million-short-btc-sol-eth/)**
 
-Leading cryptocurrencies moved sideways on Sunday evening, while stock futures fell as President Donald Trump's latest threats weighed on peace negotiations with Iran.
+A new wallet deposited 6.68 million USDC into Hyperliquid and opened 20x shorts worth $48 million against bitcoin, solana and ether, Lookonchain reported.
 
-Benzinga • 8h ago
-
----
-
-**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026-2/)**
-
-Ethereum (ETH) could trade above $2,000 on July 1, 2026, according to a new price prediction generated by ChatGPT.
-
-Finbold • 1d ago
+Bitcoin News • 1h ago
 
 ---
 
-**[Ethereum MEV Bot JaredFromSubway Exploited for $7.5 Million](https://financefeeds.com/ethereum-mev-bot-jaredfromsubway-exploited-for-7-5-million/)**
+**[ETH stakers could see rewards cut as Ethereum fights to fund its future](https://cryptoslate.com/?p=543238)**
 
-Ethereum’s well-known MEV bot JaredFromSubway has been exploited for more than $7.5 million, marking an unusual reversal for one of the network’s most
+Ethereum staking rewards could be redirected to fund core development, raising concerns over who pays and who controls the money.
 
-FinanceFeeds • 2h ago
+CryptoSlate • 5h ago
+
+---
+
+**[Zcash Cofounder Shares Unfiltered Ethereum Take Amid Recent Concerns](https://u.today/zcash-cofounder-shares-unfiltered-ethereum-take-amid-recent-concerns)**
+
+Zcash co-inventor shares direct take on second largest cryptocurrency Ethereum (ETH) amid recent Ethereum Foundation concerns.
+
+U.Today • 23h ago
 
 ---
 
@@ -240,37 +240,7 @@ FinanceFeeds • 2h ago
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 107 • ⏱️ 13:42 • 12h ago
-
----
-
-**[&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | Eth Price 2026](https://www.youtube.com/watch?v=DCxZzEvVBig)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 205 • 💬 120 • ⏱️ 18:36 • 1d ago
-
----
-
-**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
-
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
-
-📺 Lark Davis
-
-👁️ 29K • 👍 946 • 💬 181 • ⏱️ 11:57 • 22h ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
-
-No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
-
-📺 Gareth Soloway
-
-👁️ 55K • 👍 3K • 💬 205 • ⏱️ 15:20 • 16h ago
+👁️ 30K • 👍 2K • 💬 177 • ⏱️ 13:42 • 17h ago
 
 ---
 
@@ -280,7 +250,37 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 268 • 👍 53 • 💬 3 • ⏱️ 13:39 • 1h ago
+👁️ 1K • 👍 166 • 💬 25 • ⏱️ 13:39 • 6h ago
+
+---
+
+**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
+
+📺 Lark Davis
+
+👁️ 34K • 👍 1K • 💬 189 • ⏱️ 11:57 • 1d ago
+
+---
+
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
+
+No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
+
+📺 Gareth Soloway
+
+👁️ 62K • 👍 4K • 💬 216 • ⏱️ 15:20 • 21h ago
+
+---
+
+**[🟢 Ethereum Will RISE](https://www.youtube.com/watch?v=YaYrwZ0t05w)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 564 • 👍 109 • 💬 10 • ⏱️ 10:46 • 3h ago
 
 ---
 
@@ -290,47 +290,47 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 364 • 💬 282 • ⏱️ 10:44 • 20h ago
+👁️ 6K • 👍 375 • 💬 379 • ⏱️ 10:44 • 1d ago
 
 ---
 
-**[Cathie Wood&#39;s Bold Prediction: Bitcoin &amp; Ethereum Could Explode 25X From Here](https://www.youtube.com/watch?v=PuPs9I4k-kY)**
+**[Ethereum: DAS ist die BESTE Kauf-Chance des gesamten Zyklus!](https://www.youtube.com/watch?v=POT9bSKDGns)**
+
+Unsere Kurs-Analysen: https://schulz-technical-analysis.com/   ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Bitcoin BTC, ...
+
+📺 STA Solutions
+
+👁️ 2K • 👍 535 • 💬 34 • ⏱️ 17:42 • 1h ago
+
+---
+
+**[Live Crypto &amp; Gold Psychological Trading 22 June ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=yrzL1mfbFTw)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 3K • 👍 381 • 1h ago
+
+---
+
+**[&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | Eth Price 2026](https://www.youtube.com/watch?v=DCxZzEvVBig)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 562 • 💬 50 • ⏱️ 17:32 • 2d ago
+👁️ 6K • 👍 206 • 💬 120 • ⏱️ 18:36 • 1d ago
 
 ---
 
-**[Why ETH Could Rally Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=l5SvNN27xGs)**
+**[BITCOIN &amp; CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BX2fy9QPO38)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN & CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 530 • 👍 18 • 💬 82 • ⏱️ 4:19 • 23h ago
-
----
-
-**[BTC &amp; ETHEREUM, Lage? UNKLAR! jetzt vorsichtig sein! Darauf achte ich JETZT](https://www.youtube.com/watch?v=bgEiBrvBGpk)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 417 • 💬 36 • ⏱️ 9:44 • 5h ago
-
----
-
-**[BitMine (BMNR) Just Revealed a MASSIVE $12B Ethereum Treasury Update!](https://www.youtube.com/watch?v=ZxlczeAzXJI)**
-
-BitMine (BMNR) has released one of its most important updates yet, revealing massive changes in its Ethereum treasury strategy, ...
-
-📺 BiGB Stcok
-
-👁️ 856 • 👍 26 • 💬 2 • ⏱️ 8:52 • 13h ago
+👁️ 8K • 👍 390 • 💬 82 • ⏱️ 20:26 • 21h ago
 
 ---
 
