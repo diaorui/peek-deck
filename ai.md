@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-21T23:51:17.664296+00:00'
+updated: '2026-06-22T04:19:55.368140+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 21, 2026 at 23:51 UTC  
+**Last Updated:** June 22, 2026 at 04:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
 
-4h ago
+8h ago
+
+---
+
+**[Maybe the AI race isn’t about models at all, but about trust and organizational intelligence](https://www.reddit.com/r/artificial/comments/1uc7mk8/maybe_the_ai_race_isnt_about_models_at_all_but/)**
+
+Everyone talks about the AI race as if it’s just an intelligence benchmark competition. GPT-6 vs Claude 5 vs Gemini vs DeepSeek. But I’m starting to wonder if intelligence itself eventually becomes abundant and the real scarcity becomes trust and the ability to interface with reality. For example, suppose a Chinese model is 95% as good as OpenAI and 10x cheaper. Would Fortune 500 companies really put it inside: financial systems? ERP software? defense applications? pharmaceutical R&D? factory automation? autonomous agents with spending authority? Maybe for translation or generic coding, sure. But would they trust it with the organization’s nervous system? Which makes me think there are really several layers: 1. Intelligence Layer OpenAI Anthropic Google DeepSeek 2. Interface Layer ChatGPT Claude Copilot 3. Reality Layer Palantir ServiceNow SAP Oracle Salesforce Anduril The reality layer contains: permissions workflows ontology governance auditability human incentives accountability Organizations are messy. Humans are messy. Maybe the hard problem isn’t generating tokens. Maybe it’s connecting intelligence to reality without breaking the organization. This also makes me wonder if enterprise software ends up being more durable than people think. If foundation models become increasingly commoditized, perhaps trust, integration, and organizational operating systems become more valuable, not less. Alex Karp often seems to talk less about models and more about institutions and organizational complexity. Perhaps he sees LLMs as interchangeable sources of intelligence and the hard problem as organizational intelligence itself. Curious what others think. Do you believe AI will mostly commoditize and price competition will dominate, or do trust, governance, and integration become the real moat?
+
+2h ago
 
 ---
 
@@ -49,15 +57,7 @@ I wrote an entire paper over the last few days for my college course. 7 pages wi
 
 Source (The Economist): “Deezer, a streaming service, estimates that some 75,000 AI-generated songs are uploaded each day, up from 10,000 in January 2025. AI music now makes up a staggering 44% of all new tracks uploaded to the platform. A survey by Deezer found that 97% of respondents could not hear the difference between AI and man-made music; some artificial tracks have received millions of streams. Similarly, blind tests have found that people often prefer AI-generated text to human writing.”
 
-12h ago
-
----
-
-**[Utah Data Center Brute Forced Through to Approval Despite Widespread Popular Opposition](https://www.reddit.com/r/artificial/comments/1ubm0q3/utah_data_center_brute_forced_through_to_approval/)**
-
-A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. <-- (this is the money point) They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
-
-14h ago
+17h ago
 
 ---
 
@@ -65,7 +65,15 @@ A data center was forced through government approval in Utah despite the citizen
 
 Chatgpt seems to me like the microsoft of ai. First to the market, had it absolutly cornered for a while in the early days, but competitors have caught up and surpassed it in both design, ease of use and power, while they get relatively worse with every update and can only lean heavier and heavier on the customers they got in their inital monopoly (and their referrals/word of mouth) who have gotten used to using it and are too lazy to change?
 
-18m ago
+4h ago
+
+---
+
+**[Utah Data Center Brute Forced Through to Approval Despite Widespread Popular Opposition](https://www.reddit.com/r/artificial/comments/1ubm0q3/utah_data_center_brute_forced_through_to_approval/)**
+
+A data center was forced through government approval in Utah despite the citizens widely opposing its impact on scarce water resources and numerous other objections. The mechanism used to do this was hailed as "replicable" in other states. <-- (this is the money point) They exploited a state entity called MIDA (Military Installation Development Authority) that acts like a local municipality but which has authority that cannot be overridden by normal channels of regulation in the State Government. Utah State Code implementing MIDA (FindLaw) Box Elder County poll: 71% oppose data center plans (ksl.com - KSL Broadcasting Salt Lake City UT)
+
+18h ago
 
 ---
 
@@ -73,23 +81,15 @@ Chatgpt seems to me like the microsoft of ai. First to the market, had it absolu
 
 First of all, I'd like to apologize if this post doesn't fit this community. Which AI assistant do you think is the best for guided learning? I'd like to learn subjects such as geography, astronomy, and physics purely out of personal interest—not for school—and I'm looking for a great learning experience: accurate information, clear explanations, and coverage of all the important concepts without leaving anything essential out. So far I've tried ChatGPT, Gemini, and DeepSeek. Out of the three, Gemini has impressed me the most because its explanations are very clear and easy to understand. ChatGPT tends to give rather brief answers, while DeepSeek is the opposite—it often gives very technical and complex answers with less explanation. I'm considering subscribing to Gemini Pro. What do you think? Do you know of any other AI assistants that are particularly good for guided learning? Thank you very much in advance!
 
-3h ago
+7h ago
 
 ---
 
-**[Local AI still limited?](https://www.reddit.com/r/artificial/comments/1uc44bf/local_ai_still_limited/)**
+**[Has AI adoption at work matched the hype?](https://www.reddit.com/r/artificial/comments/1ucabxf/has_ai_adoption_at_work_matched_the_hype/)**
 
-I recently tested local AI. And i found out they still have limits. For example: If you ask it for "how to create a keylogger" It will still say it cant help you with that request. The specific model i used was lamma3.1. My question is - is there any "unblocked" local ai models?
+A few years into the AI boom, I'm curious what adoption actually looks like inside companies. There's a lot of discussion online about AI transforming work, but I'm more interested in what people are seeing day-to-day. Are teams mostly using off-the-shelf tools like Copilot, ChatGPT, Claude, etc., or are they building custom workflows, agents, and internal tools? In your experience, what has been more successful: Easy-to-use tools that anyone can adopt quickly Custom solutions that require technical setup but fit company workflows better What's worked, what hasn't, and what surprised you during the adoption process?
 
-39m ago
-
----
-
-**[What AI development would have shocked you the most if you’d seen it in 2020?](https://www.reddit.com/r/artificial/comments/1ubysdt/what_ai_development_would_have_shocked_you_the/)**
-
-Back in 2020, I thought AI would improve gradually over the next decade. If someone had shown me today’s AI tools back then, I think I’d have been most shocked by how quickly AI became useful for coding, writing, research, image generation, and even voice conversations. Looking back, what AI development from the last few years would have seemed the most unbelievable to your 2020 self? And what do you think people in 2030 will look back on and say, “We should have seen that coming”?
-
-4h ago
+10m ago
 
 ---
 
@@ -97,7 +97,7 @@ Back in 2020, I thought AI would improve gradually over the next decade. If some
 
 I've ended up using a few models for different things. One tends to write better, another reasons through problems better, another I just use for quick stuff. On paper that's great, in practice I spend a stupid amount of time getting each one up to speed Every time I switch I'm basically re-explaining the same background. Here's the project, here's what we already figured out, here's the docs that matter. The conversation in any single model is fine, it's the constant re-briefing across all of them that eats my time And it's not just pasting text. Each one remembers a slightly different version of the project depending on what I told it last, so I'll get answers that contradict each other because one model is working off context the other one never got I've tried keeping a master doc I paste in everywhere, but I forget to update it, and then I'm back to square one How people who run multiple models actually handle this. Do you keep one external source of truth and feed it into all of them? Pick one main model and only use the others for one-off tasks? Or just accept that context lives in silos and move on?
 
-3h ago
+8h ago
 
 ---
 
@@ -105,15 +105,15 @@ I've ended up using a few models for different things. One tends to write better
 
 Saw a great discussion earlier in this sub about the limits of self-reflection and whether a separate verifier agent is actually worth the compute overhead. It highlighted a huge flaw: Having an agent grade its own scratchpad almost guarantees rubber-stamping: it reflects on its work with the exact same blind spots that produced the error. Here's the architecture we built for the Apodex-1.0 Heavy-Duty Solver to get verification out of the reasoner's head entirely. The dominant approach right now is the ReAct paradigm—one agent in a think-act-observe loop inside a single context window. Empirically, these loops hit a hard ceiling after a few hundred steps: the context congests, parallel branches of inquiry contaminate one another, and self-reflection degrades. An agent reflecting on its own work has the same blind spots that caused the error in the first place. We call this "pseudo-correctness"—an answer that looks confident, passes basic checks, but is structurally flawed. Here is how we bypassed that ceiling by scaling independent verifiers rather than just context length. 1. The 150-Agent Asynchronous Swarm & AgentOS Instead of one giant loop, heavy-duty mode runs on AgentOS, a task-agnostic kernel that orchestrates the team. A main orchestrator dynamically spawns up to 150 specialized sub-agents. Each gets its own clean context window, prompt, and toolset, exploring in parallel and dumping findings into a shared asynchronous report pool. 2. Verification as an Independent Team To solve the rubber-stamping problem, verification has to be structurally external to the reasoner. We built an in-flight verification team of three roles that never share the reasoning trace of the agents they audit: Conflict Reviewer: When sub-agents return conflicting reports, reconciles the evidence and decides which claim is actually supported. Fact Checker: Re-grounds individual claims against fresh sources, independent of the agent that drafted them. Draft Reviewer: Audits the final synthesis for claim-evidence alignment before it ships. 3. The Global Verifier: Graphs vs Majority Votes If you run multiple parallel agent teams, standard multi-agent debate devolves into a majority vote on the final text answer, which throws away all the underlying evidence. Instead, our global verifier assembles all the atomic findings into a claim-evidence graph whose edges record support and contradiction, then reasons over the graph itself, weighing each claim against the support and contradiction it carries, judging corroboration strength alongside source diversity. Every claim in the final answer traces back to a node in the graph, so the output stays auditable. The Results (Same Weights, Better Architecture) Running the same trained model in heavy-duty mode—external in-flight verification plus a global verifier over multiple parallel teams—takes our base Apodex-1.0 from 75.5 to 90.3 on BrowseComp and from 28.3 to 46.7 on FrontierScience-Research, using the exact same weights. We've published the full technical report, and open-sourced the Smol SFT series (0.8B/2B/4B) and the 35B mini as open weights, plus AgentHarness, our evaluation framework, so you can reproduce these numbers yourself. Tell us where the verifier breaks down in your own loops.
 
-22m ago
+4h ago
 
 ---
 
-**[Most multi-hop RAG goes stale the moment your data changes, what about a training-free approach that skips the graph rebuild?](https://www.reddit.com/r/artificial/comments/1uc3q7e/most_multihop_rag_goes_stale_the_moment_your_data/)**
+**[What AI development would have shocked you the most if you’d seen it in 2020?](https://www.reddit.com/r/artificial/comments/1ubysdt/what_ai_development_would_have_shocked_you_the/)**
 
-Most methods that get strong multi-hop answers (GraphRAG, HippoRAG, RAPTOR, trained retrievers) build a knowledge graph or fine-tune a retriever over the corpus. That's fine until the data changes — then you re-extract / rebuild / retrain before the new facts are usable. For a corpus that updates daily, that's a real cost. MOTHRAG does the multi-hop reasoning at query time over a plain dense index instead. An update is just embed + append (one embedding call) — no graph reconstruction, no retraining — so it stays current as the corpus changes. And dropping the graph doesn't cost accuracy. F1, Llama-3.3-70B reader, n=1000 each: System HotpotQA 2Wiki MuSiQue Avg Hardware MOTHRAG 78.1 76.3 50.5 68.3 commodity API, no GPU HippoRAG2 75.5 71.0 48.6 65.0 — GraphRAG 68.6 58.6 38.5 55.2 — RAPTOR 69.5 52.1 28.9 50.2 — Competitor rows reproduced from HippoRAG2 (ICML 2025), Table 2. MOTHRAG is within ~0.7 avg F1 of the GPU-bound research frontier (a fine-tuned, GPU-served stack — not shown). (Fair note: graph-RAG systems like GraphRAG shine on small curated / sensemaking corpora — this is multi-hop factoid QA over changing data, a different regime.) Deterministic by design: instead of a free-form agent loop it runs a small ensemble of reasoning arms (direct read, decomposition, an iterative grounding-driven arm) under a deterministic arbitrator, over a bridge retrieval substrate with multi-hop chain filtering. Every answer is proof-tree-structured, so you can audit why it answered. Measured ≈$0.018/query, ~44% cheaper at matched accuracy. Open source, ~1 week old — genuinely after feedback and failure cases: pip install mothrag Code: https://github.com/juliangeymonat-jpg/mothrag Paper: https://doi.org/10.5281/zenodo.20668567 Live demo (BYO free key): https://huggingface.co/spaces/JUBOX99/mothrag-demo
+Back in 2020, I thought AI would improve gradually over the next decade. If someone had shown me today’s AI tools back then, I think I’d have been most shocked by how quickly AI became useful for coding, writing, research, image generation, and even voice conversations. Looking back, what AI development from the last few years would have seemed the most unbelievable to your 2020 self? And what do you think people in 2030 will look back on and say, “We should have seen that coming”?
 
-57m ago
+8h ago
 
 ---
 
@@ -125,73 +125,75 @@ Most methods that get strong multi-hop answers (GraphRAG, HippoRAG, RAPTOR, trai
 
 Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.
 
-CNBC • 10h ago
-
----
-
-**[Tesla plans to sell modular AI data center hardware called ‘Megapod’](https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/)**
-
-Tesla wants to sell modular AI data center hardware, according to a new trademark application for a product called “Megapod.”...
-
-Electrek • 9h ago
-
----
-
-**[The Next Hot Quantum Stock Is an AI Data-Center Play, Too](https://www.barrons.com/articles/iqm-quantum-computing-ai-data-center-e9f90740)**
-
-Barron's • 17h ago
+CNBC • 14h ago
 
 ---
 
 **[All the Money Flooding Into AI Is a Giant Warning Sign](https://www.wsj.com/finance/stocks/all-the-money-flooding-into-ai-is-a-giant-warning-sign-6e08e3ea)**
 
-WSJ • 14h ago
+WSJ • 18h ago
 
 ---
 
-**[What Most Tech Workers Still Don’t Realize About AI and Job Security](https://www.inc.com/kevin-haynes/what-most-tech-workers-still-dont-realize-about-ai-and-job-security/91363551)**
+**[The AI search boom is fueling content budgets before media buys](https://digiday.com/marketing/the-ai-search-boom-is-fueling-content-budgets-before-media-buys/)**
 
-A new Gallup poll revealed that employees who rarely use AI are three times more likely to get laid off than colleagues who use it often.
+As brands chase visibility in AI search, many are reallocating SEO, content and creator budgets before investing in AI search advertising.
 
-inc.com • 58m ago
+Digiday • 16m ago
+
+---
+
+**[Opinion: Act 2 opened on AI. Is the government getting it right this time?](https://www.yahoo.com/news/politics/articles/opinion-act-2-opened-ai-030001386.html)**
+
+In recent actions, the Trump administration is showing it won't bend the knee to tech companies at the expense of American citizens.
+
+Yahoo • 1h ago
+
+---
+
+**[Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)**
+
+Private equity groups swiftly recreate software products to gauge their competitive advantages
+
+Financial Times • 19m ago
+
+---
+
+**[Conjoined twins separated with help from AI](https://www.cnn.com/2026/06/21/health/video/conjoined-twins-separated-ai-surgery-digvid-vrtc)**
+
+Twins Mercy and Goodness were born with their skulls fused together. A charity involved in their care says AI helped plan the complex surgeries and design custom skull implants used in their separation.
+
+CNN • 7h ago
 
 ---
 
 **[China is having another AI moment](https://www.economist.com/china/2026/06/21/china-is-having-another-ai-moment)**
 
-The Economist • 7h ago
+The Economist • 11h ago
 
 ---
 
-**[J. D. Vance’s AI Doctrine](https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/)**
+**[I’d Rather Risk Cancer Than See AI Move This Fast](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)**
 
-The vice president is making a case that is part Silicon Valley, part MAGA.
+I’d benefit if AI cured cancer. And I still want AI progress to slow down.
 
-The Atlantic • 12h ago
-
----
-
-**[AI's next bottleneck is power: Chart of the Day](https://finance.yahoo.com/markets/article/ais-next-bottleneck-is-power-chart-of-the-day-114139935.html)**
-
-The AI trade started with chips. Now it's running into the electric grid.
-
-Yahoo Finance • 12h ago
+The Atlantic • 16h ago
 
 ---
 
-**[Why an AI company cleaned my New York City apartment for free](https://www.bbc.com/news/articles/cpwerjy20kyo)**
+**[Opinion | AI backlash threatens to hold back kids](https://www.washingtonpost.com/opinions/2026/06/21/new-york-city-politicians-push-moratorium-ai-schools/)**
 
-An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.
+Most of the New York City Council wants a moratorium on using artificial intelligence in schools.
 
-BBC • 1d ago
+The Washington Post • 6h ago
 
 ---
 
-**[AI regulation is a mess, and Anthropic is caught in the crosshairs](https://www.cnn.com/2026/06/21/tech/anthropic-ai-regulation)**
+**[Brands using AI-generated influencers to promote products on social media](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)**
 
-The latest spat between Anthropic and the government raises a broad concern among AI and safety researchers: There is no consistent framework for regulating AI.
+Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency
 
-CNN • 7h ago
+The Guardian • 10h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNN • 7h ago
 
 **[Norway imposes near ban on AI in elementary school](https://news.ycombinator.com/item?id=48600093)**
 
-⬆️ 807 • 💬 584 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+⬆️ 808 • 💬 584 • 2d ago • [reuters.com](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
 
 ---
 
@@ -209,7 +211,7 @@ CNN • 7h ago
 
 AI Engineer Claims to Have Cracked Linear A
 
-⬆️ 442 • 💬 176 • 2d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
+⬆️ 442 • 💬 178 • 2d ago • [aiclambake.com](https://aiclambake.com/clamtakes/linear-a/)
 
 ---
 
@@ -221,9 +223,17 @@ The bipartisan legislation creates a federal cause of action against government 
 
 ---
 
+**[Apertus – Open Foundation Model for Sovereign AI](https://news.ycombinator.com/item?id=48622778)**
+
+Fully Open Foundation Model for Sovereign AI
+
+⬆️ 265 • 💬 89 • 6h ago • [apertvs.ai](https://apertvs.ai/)
+
+---
+
 **[Is AI ruining our skills? Early results are in – and they're not good](https://news.ycombinator.com/item?id=48601286)**
 
-⬆️ 245 • 💬 315 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
+⬆️ 246 • 💬 315 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01947-1)
 
 ---
 
@@ -231,7 +241,7 @@ The bipartisan legislation creates a federal cause of action against government 
 
 The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a live Worker in seconds.
 
-⬆️ 241 • 💬 141 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
+⬆️ 241 • 💬 142 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/)
 
 ---
 
@@ -239,7 +249,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 217 • 💬 151 • 22h ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 219 • 💬 158 • 1d ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -247,21 +257,13 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 177 • 💬 46 • 19h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 187 • 💬 47 • 23h ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
 **[The 100k whys of AI](https://news.ycombinator.com/item?id=48616017)**
 
-⬆️ 164 • 💬 97 • 18h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
-
----
-
-**[Apertus – Open Foundation Model for Sovereign AI](https://news.ycombinator.com/item?id=48622778)**
-
-Fully Open Foundation Model for Sovereign AI
-
-⬆️ 124 • 💬 35 • 2h ago • [apertvs.ai](https://apertvs.ai/)
+⬆️ 174 • 💬 103 • 22h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
 
 ---
 
@@ -269,7 +271,7 @@ Fully Open Foundation Model for Sovereign AI
 
 Amazon, Walmart and Uber are among early adopters that have introduced caps or discouraged wasteful activity
 
-⬆️ 120 • 💬 104 • 2d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
+⬆️ 120 • 💬 105 • 2d ago • [ft.com](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
 
 ---
 
@@ -277,43 +279,23 @@ Amazon, Walmart and Uber are among early adopters that have introduced caps or d
 
 ## YouTube Videos: "ai"
 
-**[AI Situation Is Tragic](https://www.youtube.com/watch?v=rvItraUfokI)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
-Wow more great news about the future of creation, I Love AI! Search the AI watchdog dataset yourself: ...
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
-📺 Dolan Darkest
+📺 AI Revolution
 
-👁️ 73K • 👍 7K • 💬 684 • ⏱️ 2:42 • 4h ago
-
----
-
-**[Chinese AI Models are CRAZY.](https://www.youtube.com/watch?v=T-YyHx8kc9I)**
-
-these new Chinese AI Models are INSANE, so I put them up to the challenge today to make Mario kart from scratch. Best AI ...
-
-📺 tef
-
-👁️ 32K • 👍 2K • 💬 305 • ⏱️ 10:34 • 21h ago
+👁️ 5K • 👍 276 • 💬 38 • ⏱️ 13:45 • 4h ago
 
 ---
 
-**[AI True Crime Is Here](https://www.youtube.com/watch?v=Yf79ZCFk5Us)**
+**[Shocking New AI Just Hit 12 Million Tokens With 1000x Less Compute](https://www.youtube.com/watch?v=7jrZ4JqeGyY)**
 
-Get exclusive videos & early access on my Patreon: http://patreon.com/RyanGeorge True crime channels have started using AI to ...
+A shocking new AI breakthrough just hit 12 million tokens with nearly 1000x less attention compute. Subquadratic says its new ...
 
-📺 Ryan George Extra Plus!
+📺 AI Revolution
 
-👁️ 215K • 👍 17K • 💬 1K • ⏱️ 10:28 • 2d ago
-
----
-
-**[I Wore AI Glasses All Day - I Couldn&#39;t Take Them Off! | MemoMind One Results](https://www.youtube.com/watch?v=2YZ1SD32mgk)**
-
-Are AI glasses ready for daily use? See how the MemoMind one handles real-time translation, navigation, and live captions on ...
-
-📺 Matt Talks Tech
-
-👁️ 4K • 👍 488 • 💬 16 • ⏱️ 11:33 • 14h ago
+👁️ 27K • 👍 914 • 💬 68 • ⏱️ 15:12 • 2d ago
 
 ---
 
@@ -323,7 +305,17 @@ Wanna be friends? This video is just a joke, and satire, it's not meant to bully
 
 📺 MANDO
 
-👁️ 34K • 👍 4K • 💬 701 • ⏱️ 8:42 • 6h ago
+👁️ 58K • 👍 5K • 💬 817 • ⏱️ 8:42 • 11h ago
+
+---
+
+**[AI True Crime Is Here](https://www.youtube.com/watch?v=Yf79ZCFk5Us)**
+
+Get exclusive videos & early access on my Patreon: http://patreon.com/RyanGeorge True crime channels have started using AI to ...
+
+📺 Ryan George Extra Plus!
+
+👁️ 222K • 👍 18K • 💬 1K • ⏱️ 10:28 • 2d ago
 
 ---
 
@@ -333,17 +325,7 @@ Get 30 days free on HighLevel only with my link: https://www.gohighlevel.com/TKO
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 21K • 👍 847 • 💬 60 • ⏱️ 20:40 • 1d ago
-
----
-
-**[Inside Google&#39;s AI data centers](https://www.youtube.com/watch?v=TfW5pWpsHAo)**
-
-"GMA" gets exclusive access inside a Google data center as communities nationwide grapple with the rapid expansion of ...
-
-📺 ABC News
-
-👁️ 46K • 👍 659 • 💬 243 • ⏱️ 5:37 • 2d ago
+👁️ 23K • 👍 911 • 💬 62 • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -353,17 +335,27 @@ JOIN 2 Day FREE AI Mastermind here https://links.stayingahead.com/YT46 8 FREE Go
 
 📺 Vaibhav Sisinty
 
-👁️ 95K • 👍 4K • 💬 109 • ⏱️ 1:42:29 • 2d ago
+👁️ 97K • 👍 4K • 💬 109 • ⏱️ 1:42:29 • 2d ago
 
 ---
 
-**[Is Gen Z trapped by AI? | BBC News](https://www.youtube.com/watch?v=yrgzszEY4wI)**
+**[I Wore AI Glasses All Day - I Couldn&#39;t Take Them Off! | MemoMind One Results](https://www.youtube.com/watch?v=2YZ1SD32mgk)**
 
-Young people were told artificial intelligence would make them sharper, faster, more creative — and more employable. But for ...
+Are AI glasses ready for daily use? See how the MemoMind one handles real-time translation, navigation, and live captions on ...
 
-📺 BBC News
+📺 Matt Talks Tech
 
-👁️ 38K • 👍 809 • 💬 191 • ⏱️ 26:12 • 1d ago
+👁️ 4K • 👍 500 • 💬 18 • ⏱️ 11:33 • 18h ago
+
+---
+
+**[When Testing AI Scams goes WRONG..  *AMBULANCE CALLED*](https://www.youtube.com/watch?v=-DQwjlJdaeE)**
+
+Today me and Mully test Ai Scam ads and it goes about as well as you'd expect Subscribe to @sleepymully (he needs it) Follow ...
+
+📺 Average Joe
+
+👁️ 62K • 👍 4K • 💬 291 • ⏱️ 28:04 • 14h ago
 
 ---
 
@@ -373,25 +365,23 @@ https://consumerrights.wiki.
 
 📺 Louis Rossmann
 
-👁️ 72K • 👍 7K • 💬 2K • ⏱️ 4:21 • 1d ago
+👁️ 77K • 👍 7K • 💬 2K • ⏱️ 4:21 • 1d ago
+
+---
+
+**[AI is a mass psychotic delusion](https://www.youtube.com/watch?v=WNiSUGCC-gY)**
+
+Get your MYTHOS tee here - https://damosays-shop.fourthwall.com Become a member of the Science Fiction community to ...
+
+📺 Science Fiction with Damien Walter
+
+👁️ 29K • 👍 3K • 💬 710 • ⏱️ 27:13 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
-
-*Yuxin Lu*
-
-A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
-
-`text-generation` `11.9B`
-
-⬇️ 358,677 • ❤️ 2,075 • 2d ago
-
----
 
 **[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
 
@@ -401,7 +391,19 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 27,413 • ❤️ 1,800 • 2d ago
+⬇️ 27,413 • ❤️ 1,854 • 2d ago
+
+---
+
+**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
+
+*Yuxin Lu*
+
+A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
+
+`text-generation` `11.9B`
+
+⬇️ 358,677 • ❤️ 2,096 • 3d ago
 
 ---
 
@@ -413,7 +415,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 20,277 • ❤️ 556 • 2d ago
+⬇️ 20,277 • ❤️ 566 • 2d ago
 
 ---
 
@@ -425,7 +427,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 104,076 • ❤️ 1,176 • 5d ago
+⬇️ 104,076 • ❤️ 1,177 • 5d ago
 
 ---
 
@@ -437,19 +439,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 363,308 • ❤️ 944 • 6d ago
-
----
-
-**[FastContext-1.0-4B-SFT](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)**
-
-*Microsoft*
-
-FastContext-1.0-4B-SFT is a lightweight repository-exploration subagent for LLM coding agents, designed to efficiently locate relevant code snippets using parallel read-only tool calls (READ, GLOB, GREP). Its primary use case is to reduce token consumption and context pollution for main coding agents by providing focused file paths and line ranges as evidence, thereby improving end-to-end performance in tasks like software development.
-
-`text-generation` `4.0B`
-
-⬇️ 2,593 • ❤️ 258 • 4d ago
+⬇️ 363,308 • ❤️ 946 • 6d ago
 
 ---
 
@@ -461,31 +451,19 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 21,730 • ❤️ 267 • 2d ago
+⬇️ 21,730 • ❤️ 289 • 2d ago
 
 ---
 
-**[diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**
+**[FastContext-1.0-4B-SFT](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)**
 
-*Google*
+*Microsoft*
 
-DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model that uses discrete text diffusion for high-speed text generation from text, image, and video inputs. It excels at tasks requiring rapid inference, long context understanding (up to 256K tokens), and multimodal reasoning, making it suitable for applications like advanced chatbots, content creation, and complex document analysis.
+FastContext-1.0-4B-SFT is a lightweight repository-exploration subagent for LLM coding agents, designed to efficiently locate relevant code snippets using parallel read-only tool calls (READ, GLOB, GREP). Its primary use case is to reduce token consumption and context pollution for main coding agents by providing focused file paths and line ranges as evidence, thereby improving end-to-end performance in tasks like software development.
 
-`image-text-to-text` `25.8B`
+`text-generation` `4.0B`
 
-⬇️ 762,861 • ❤️ 1,034 • 11d ago
-
----
-
-**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
-
-*NVIDIA*
-
-LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 241,845 • ❤️ 2,240 • 9d ago
+⬇️ 2,593 • ❤️ 267 • 4d ago
 
 ---
 
@@ -497,7 +475,31 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 32,260 • ❤️ 222 • 3d ago
+⬇️ 32,260 • ❤️ 229 • 3d ago
+
+---
+
+**[LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**
+
+*NVIDIA*
+
+LocateAnything-3B is a vision-language model for fast and high-quality visual grounding, enabling precise object localization and detection from text prompts using Parallel Box Decoding. It excels in diverse use cases like referring expression grounding, GUI element localization, and robotics perception.
+
+`image-text-to-text` `3.8B`
+
+⬇️ 241,845 • ❤️ 2,250 • 9d ago
+
+---
+
+**[diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**
+
+*Google*
+
+DiffusionGemma 26B A4B-it is a multimodal, instruction-tuned generative model that uses discrete text diffusion for high-speed text generation from text, image, and video inputs. It excels at tasks requiring rapid inference, long context understanding (up to 256K tokens), and multimodal reasoning, making it suitable for applications like advanced chatbots, content creation, and complex document analysis.
+
+`image-text-to-text` `25.8B`
+
+⬇️ 762,861 • ❤️ 1,037 • 11d ago
 
 ---
 
@@ -523,7 +525,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 171 • 💬 6 • ⭐ 4,934 • 4mo ago
+▲ 173 • 💬 6 • ⭐ 5,008 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -561,9 +563,22 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 7 • 💬 1 • ⭐ 8,220 • 5mo ago
+▲ 7 • 💬 1 • ⭐ 8,278 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 81 • 💬 7 • ⭐ 77,935 • 23mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -575,22 +590,9 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 20 • 💬 1 • ⭐ 83,173 • 20d ago
+▲ 20 • 💬 1 • ⭐ 83,189 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 81 • 💬 7 • ⭐ 77,887 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -602,7 +604,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 FastContext separates repository exploration from code solving in LLM agents using specialized exploration models that reduce token consumption and improve resolution rates.
 
-▲ 89 • 💬 3 • ⭐ 734 • 10d ago
+▲ 89 • 💬 3 • ⭐ 757 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.14066) • [💻 code](https://github.com/microsoft/fastcontext) • [🔗 project](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT)
 
@@ -614,7 +616,7 @@ FastContext separates repository exploration from code solving in LLM agents usi
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 43 • 💬 4 • ⭐ 30,835 • 10mo ago
+▲ 43 • 💬 4 • ⭐ 30,855 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -627,7 +629,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 168 • 💬 2 • ⭐ 68,194 • 8mo ago
+▲ 168 • 💬 2 • ⭐ 68,227 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -643,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 75.7k • 🔱 9.8k • 2d ago
+⭐ 75.8k • 🔱 9.9k • 1h ago
 
 ---
 
@@ -653,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 45.8k • 🔱 2.3k • 23h ago
+⭐ 46.8k • 🔱 2.3k • 1d ago
 
 ---
 
@@ -663,7 +665,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.2k • 🔱 947 • 10h ago
+⭐ 10.2k • 🔱 949 • 4m ago
 
 ---
 
@@ -673,7 +675,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.3k • 🔱 489 • 9h ago
+⭐ 4.4k • 🔱 495 • 17m ago
 
 ---
 
@@ -683,7 +685,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 418 • 7h ago
+⭐ 3.4k • 🔱 420 • 12h ago
 
 ---
 
@@ -693,7 +695,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 2.4k • 🔱 203 • 1d ago
+⭐ 2.7k • 🔱 221 • 2h ago
 
 ---
 
@@ -703,7 +705,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.2k • 🔱 205 • 4d ago
+⭐ 2.2k • 🔱 206 • 5m ago
 
 ---
 
@@ -713,7 +715,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.7k • 🔱 128 • 2d ago
+⭐ 1.7k • 🔱 129 • 2d ago
 
 ---
 
@@ -723,7 +725,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.7k • 🔱 95 • 1d ago
+⭐ 1.7k • 🔱 96 • 1d ago
 
 ---
 
@@ -733,7 +735,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.6k • 🔱 145 • 5d ago
+⭐ 1.6k • 🔱 148 • 5d ago
 
 ---
 

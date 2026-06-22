@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-21T23:51:17.680309+00:00'
+updated: '2026-06-22T04:19:55.383721+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 21, 2026 at 23:51 UTC  
+**Last Updated:** June 22, 2026 at 04:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
-15h ago
+19h ago
 
 ---
 
@@ -44,19 +44,19 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
 Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal was to keep it under $250, so instead of buying an expensive LiDAR setup or dedicated depth cameras, I rigged up 4 cheap smartphones to stream video data. I’m running the streams through Depth Anything v3 (DA3) to estimate the depth maps, and honestly, for a "poor man's LiDAR," it’s going incredibly strong. The issue I'm running into: Since DA3 outputs relative/monocular depth maps, I’m struggling with absolute scale calibration. Right now, the robot thinks walls are further away than they actually are. It knows where the obstacles are, but the metric distance is skewed because DA3 doesn't have real-world depth data. I want to fix this by adding a hardware sensor to act as a "ground truth" anchor to correct and scale the DA3 depth data in real-time. Has anyone here tried using a ToF (Time-of-Flight) sensor or an Ultrasonic sensor to handle this kind of depth correction? Would a single-point distance reading be enough to dynamically scale the relative map, or is there a better way to do it? If anyone is curious about the hardware or wants to check out the setup, I put the specs and documentation here and the chassis CAD files here. Looking forward to hearing your thoughts on how to fix the depth scaling!
 
-11h ago
+16h ago
 
 ---
 
 **[When we fitted Éloi with a mouth👄](https://www.reddit.com/r/robotics/comments/1ubmw5z/when_we_fitted_éloi_with_a_mouth/)**
 
-13h ago
+17h ago
 
 ---
 
 **[🤖✨ From concept to reality! Proud to present my fully DIY 8-DOF Robotic Arm, designed, 3D printed, assembled, and programmed from scratch. Every servo, every wire, and every line of code brought this project to life. The journey of innovation never stops! 🚀](https://www.reddit.com/r/robotics/comments/1ubib0v/from_concept_to_reality_proud_to_present_my_fully/)**
 
-17h ago
+22h ago
 
 ---
 
@@ -72,13 +72,13 @@ I've been experimenting with converting ordinary third-person videos into humano
 
 If you not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics, game NPCs and any agent that needs predictable, debuggable decision-making. We just introduced python bindings and a live view of the behavior tree. Also, we have added tons of new examples to get you going. For more, see: github: https://github.com/sollimann/bonsai pypi: https://pypi.org/project/bonsai-bt/
 
-17h ago
+21h ago
 
 ---
 
 **[Walking robot 3d printed, 4 servos and. Arduino](https://www.reddit.com/r/robotics/comments/1ubhagk/walking_robot_3d_printed_4_servos_and_arduino/)**
 
-18h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ If you not familiar with the library, its basically a Rust implementation of beh
 
 Disclosure: I work with a commercial robotics data collection team. This is not a sales post. I've been comparing different human-demonstration formats for robot manipulation, and I'm curious which configuration researchers find most useful for initial testing. The main options seem to be: • Egocentric video only • Egocentric + two wrist cameras • Task and step labels • Country and collection metadata Egocentric-only data is easier to scale, but hands often block the object. Wrist views improve grasp visibility, although synchronization and motion blur create extra problems. We're considering releasing a small free public evaluation sample from the US, UK and Australia. It would require no signup, email or contact details. Which format would be most useful for testing an existing manipulation or imitation-learning pipeline? Also, what minimum information should be included: camera calibration, FPS, task labels, timestamps, licensing documentation or failure examples? I can share the public sample in a follow-up only if the moderators confirm that it is appropriate.
 
-10h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Everything works fine, just for these maze of cables, I have run out of ideas, h
 
 It seems that everyone around is building robots these days. Overcoming my laziness, I decided to also build my own small robodog, and I'm sharing the result of this project, which took me quite a bit of trials and errors during long evenings. All parts were designed from scratch. Everything that is plastic was 3D printed. Everything that isn't plastic was sourced from generic stores - there are no custom CNC orders here. The main SBC is a Radxa Zero 3W running Ubuntu 24.04 with ROS 2 Jazzy. The servos are powered by a Sunflower PCA9685 driver board. There are two separate power rails: 5V for the Radxa and 6-7V for the servos. The trotting gait is shown in the video. I'm currently using an inverse kinematics algorithm, but my long-term plans include Tensor Lite and trained neural networks for skills. The project is still ongoing - I have so many things to try and learn. But it is solid enough as a good foundation for future iterations.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 16h ago
 
 ---
 
@@ -126,11 +126,19 @@ Small Wars Journal • 2d ago
 
 ---
 
+**[GM replaces more than 1,000 workers with 50 robots at flagship Detroit plant: ‘We’re disgusted’](https://nypost.com/2026/06/21/us-news/gm-replaces-more-than-1000-workers-with-50-robots-at-flagship-detroit-plant/)**
+
+“If AI continues to be used as an accessory to that crime, it has to be stopped.”
+
+New York Post • 8h ago
+
+---
+
 **[Hyundai to take full ownership of Boston Dynamics in SoftBank buyout](https://www.kedglobal.com/robotics/newsView/ked202606210001)**
 
 Hyundai Motor Group, the world's third-largest carmaker, is poised to secure full ownership of US robotics company Boston Dynamics by acquiring the remaining 9
 
-KED Global • 10h ago
+KED Global • 14h ago
 
 ---
 
@@ -142,9 +150,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Three-armed Sashimi-Bot learns to slice and serve fish like a pro](https://techxplore.com/news/2026-06-armed-sashimi-bot-slice-fish.html)**
+**[A New Store in Hong Kong Has No Human Employees, Just a Single Humanoid Robot](https://futurism.com/robots-and-machines/hong-store-no-employees-robot)**
 
-Tech Xplore • 2d ago
+A new 24 hour convenience store in Hong Kong will be run and managed entirely by a single and supposedly friendly humanoid robot.
+
+Futurism • 11h ago
 
 ---
 
@@ -152,7 +162,7 @@ Tech Xplore • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 12h ago
 
 ---
 
@@ -164,27 +174,17 @@ Business Wire • 2d ago
 
 ---
 
-**[Titans Robotics team members protest move to smaller space at Alexandria City High School](https://www.alxnow.com/2026/06/19/titans-robotics-team-members-protest-move-to-smaller-space-at-alexandria-city-high-school/)**
+**[Scientists develop wearable robotic system to restore hand function](https://www.news-medical.net/news/20260619/Scientists-develop-wearable-robotic-system-to-restore-hand-function.aspx)**
 
-Members of Alexandria City High School's award-winning Titan Robotics team are protesting a decision to move the team to a new, smaller dedicated classroom space at the King Street Campus. Last September, the award-winning Titan Robotics team was informed they would have to divide their 4,000-square-foot space next to the school gym with a new
+Researchers at the Medical University of Vienna, in collaboration with ETH Zurich, the Technical University of Munich and Medical Faculty Belgrade, have developed a wearable neurorobotic system that combines electrical neurostimulation with hand exoskeletons.
 
-ALXnow • 2d ago
-
----
-
-**[AI, robotics and quantum computing take centre stage at VivaTech 2026 in Paris](https://apnews.com/video/ai-robotics-and-quantum-computing-take-centre-stage-at-vivatech-2026-in-paris-a331fa238b2a425daa2e8f9564e0ec25)**
-
-AI, robotics and quantum computing are taking center stage at VivaTech 2026, as one of Europe’s largest technology events returns to Paris.
-
-AP News • 1d ago
+News-Medical • 2d ago
 
 ---
 
-**[FIFA World Cup 2026: Caleb Yirenkyi – the 20-year-old robotics champion rewiring Ghana’s ambitions](https://www.olympics.com/en/news/fifa-world-cup-2026-caleb-yirenkyi-robotics-champion-rewiring-ghanas-ambitions)**
+**[Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics](https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push)**
 
-Ghana's 20-year-old World Cup hero was building robots before he was bending defences — and the cerebral edge that once won him a national championship in Accra is the same quality rewriting the Black Stars' history books.
-
-olympics.com • 2d ago
+South China Morning Post • 3h ago
 
 ---
 
@@ -192,23 +192,23 @@ olympics.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 5K • 👍 276 • 💬 38 • ⏱️ 13:45 • 4h ago
+
+---
+
 **[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
 
 Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
 
 📺 Jason Lowe on AI
 
-👁️ 310K • 👍 13K • 💬 2K • ⏱️ 2:51 • 4d ago
-
----
-
-**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
-
-Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 163 • 💬 16 • ⏱️ 1:04:55 • 1d ago
+👁️ 318K • 👍 13K • 💬 2K • ⏱️ 2:51 • 4d ago
 
 ---
 
@@ -218,17 +218,25 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 32K • 👍 692 • 💬 53 • ⏱️ 24:13 • 2d ago
+👁️ 40K • 👍 756 • 💬 62 • ⏱️ 24:13 • 2d ago
 
 ---
 
-**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
 
-Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
+Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
 
 📺 Carros Show
 
-👁️ 4K • 👍 159 • 💬 16 • ⏱️ 21:44 • 2d ago
+👁️ 5K • 👍 176 • 💬 17 • ⏱️ 1:04:55 • 1d ago
+
+---
+
+**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
+
+📺 Army Clips
+
+👁️ 115K • 👍 4K • 💬 62 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -238,7 +246,7 @@ A new female AI robot just blurred the line between human and robot — and it's
 
 📺 The AI Nexus
 
-👁️ 23K • 👍 678 • 💬 68 • ⏱️ 21:33 • 3d ago
+👁️ 25K • 👍 744 • 💬 71 • ⏱️ 21:33 • 3d ago
 
 ---
 
@@ -252,43 +260,33 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 ---
 
-**[&quot;ChatGPT Moment&quot; for Robotics Is Coming. The Real Problem Isn&#39;t Intelligence | Stanford, Catie Cuan](https://www.youtube.com/watch?v=9eHNYMuvQjA)**
+**[The Day Robots Turned on Humanity 🤖 #shorts](https://www.youtube.com/watch?v=Zlu1jTBpkQs)**
 
-Catie Cuan, Stanford Roboticist, Robot Choreographer, and founder of ART Lab (AI Robot Technology), breaks down why the ...
+The Day Robots Turned on Humanity #shorts.
 
-📺 EO
+📺 Cine Memo
 
-👁️ 17K • 👍 546 • 💬 46 • ⏱️ 18:51 • 5d ago
-
----
-
-**[Robot cop FIRED after less than a year #shorts](https://www.youtube.com/watch?v=c_Fqevauls8)**
-
-Dublin, Ohio, is ending its police robot pilot program less than a year after launch. Officials said the program cost more than ...
-
-📺 Fox News
-
-👁️ 33K • 👍 603 • 💬 93 • ⏱️ 0:32 • 2d ago
+👁️ 118K • 👍 1K • 💬 8 • ⏱️ 0:55 • 4d ago
 
 ---
 
-**[Robots and a Model Eiffel Tower Greet Macron, Modi at Paris Tech Conference](https://www.youtube.com/watch?v=GwSLouqzlpk)**
+**[Indian factory workers wear head cameras for AI robots #AI #ethics #robotics](https://www.youtube.com/watch?v=HVUFhOjHfHg)**
 
-French President Emmanuel Macron and Indian Prime Minister Narendra Modi toured a major technology conference in Paris, ...
+Follow us on Instagram: https://www.instagram.com/fulldisclosure.ig/
 
-📺 The Daily Guardian
+📺 Full Disclosure
 
-👁️ 37K • 👍 542 • 💬 18 • ⏱️ 0:57 • 3d ago
+👁️ 40K • 👍 2K • 💬 50 • ⏱️ 1:08 • 3d ago
 
 ---
 
-**[Get Paid to Fold Laundry? Inside the $100M Robot Training Industry! 🤯](https://www.youtube.com/watch?v=7koacJYEEr4)**
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
 
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://join.switchit.app/YT ...
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
 
-📺 Vaibhav Sisinty
+📺 Carros Show
 
-👁️ 74K • 👍 2K • 💬 24 • ⏱️ 1:27 • 4d ago
+👁️ 5K • 👍 161 • 💬 16 • ⏱️ 21:44 • 2d ago
 
 ---
 

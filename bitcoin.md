@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-21T23:51:17.672015+00:00'
+updated: '2026-06-22T04:19:55.375677+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 21, 2026 at 23:51 UTC  
+**Last Updated:** June 22, 2026 at 04:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,438.92
+### $63,975.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -4.5%  
-**30d:** -17.5%  
-**90d:** -10.2%  
-**1y:** -37.2%  
+**24h:** -0.5%  
+**7d:** -2.6%  
+**30d:** -17.1%  
+**90d:** -10.4%  
+**1y:** -39.4%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 23
+### 20
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Franklin Templeton filed for two new ETFs that automatically reinvest stock dividends into Bitcoin exposure, blending traditional equity investing with a built-in Bitcoin accumulation strategy.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/franklin-templeton-files-two-etfs-bitcoin) • 8h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/franklin-templeton-files-two-etfs-bitcoin) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Franklin Templeton filed for two new ETFs that automatically reinvest stock divi
 
 I see a lot of people saying they are too late to bitcoin, etc etc. That’s definitely not true. While there has definitely been more institutional adoption, the average person still views bitcoin as crazy. I was hanging out with my fiancee’s friend group yesterday comprised of 12 people all 25-32. I asked if anyone was into bitcoin and not a single person said yes and all of them looked at me like I was crazy. To me this makes me feel like I’m ahead of the game.
 
-3h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I see a lot of people saying they are too late to bitcoin, etc etc. That’s def
 
 I stay fairly involved to Bitcoin and MSTR discussions, but I never understand the hate for Michael Saylor. I get the initial suspicion, as he was convicted for securities fraud in the early 2000’s, and that he has somewhat delusional takes, but he’s not really a short term bull. Most of his keynote speeches involve him saying that Bitcoin needs to take up 1% of global capital, but it may take the world 10+ years to get there. I find that a lot more bearish than most of what I read on the Bitcoin forums. What he says isn’t really too crazy. If Bitcoin can get adopted by the store of value category (Real Estate, Art, Gold, etc..) than I don’t think it’s far fetched to see Bitcoin become a $10 trillion asset within the next 10 years or so. I would honestly say that most of us that hold Bitcoin would agree with that. So what’s everyone’s problem with Micheal Saylor??
 
-6h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ I stay fairly involved to Bitcoin and MSTR discussions, but I never understand t
 
 I got into bitcoin because of its philosophy tha empowered people against governments. It allows people to genuinely have a piece of the Bitcoin that they could leverage at some point financially or in many other aspects. But: now Bitcoin is held by Blackrock and other ETFs. People are buing stocks of Bitcoin, not the asset itself. It starts to feel as useless as gold or Tesla shares. An ETF share is a claim. A hardware wallet with your own private keys is actual ownership. That difference still matters today just as much as it did when Bitcoin was created.
 
-3h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ I got into bitcoin because of its philosophy tha empowered people against govern
 
 The Satoshi Times introduces SatoshiTimeline.com, a searchable, deep-zoom chronological map of Satoshi Nakamoto’s historically documented activity.
 
-🔗 [satoshitimes.com](https://satoshitimes.com/timeline/) • 7h ago
+🔗 [satoshitimes.com](https://satoshitimes.com/timeline/) • 12h ago
 
 ---
 
@@ -129,7 +129,7 @@ Me see green candle. Me buy top. 📈 Price go down 30%. Me panic. Me sell botto
 
 "Oh he lost his hard-drive full of bitcoin" ,"Damn his usb had bitcoin he lost it years ago" I dont get it! Bitcoin are on the blockchain so I think they are saying hard-drive/usb as where the passphrase was located in maybe? i think im just dumb
 
-16h ago
+21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Me see green candle. Me buy top. 📈 Price go down 30%. Me panic. Me sell botto
 
 I want to dive deep into crypto and Bitcoin, but honestly, the sheer amount of info out there is pretty overwhelming. Most of the stuff I run into online feels either way too technical to understand or just ends up being a sketchy sales pitch/shill for some random coin. Does anyone have a solid list of go-to resources, websites, or video series that cover everything from the absolute basics to the more advanced stuff? I'm just looking for unbiased, A-to-Z guides that actually break down how it all works without the fluff. Appreciate any links or recommendations you can throw my way!
 
-6h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ I want to dive deep into crypto and Bitcoin, but honestly, the sheer amount of i
 
 I've been working on an open-source project called Conduit — a Lightning SDK that lets software agents send and receive sats programmatically, self-hosted and non-custodial. It's MIT licensed and live on PyPI and npm. Sharing it here mainly to get eyes from people who know Lightning well and can tell me what I'm missing. Repo: https://github.com/Jake1848/conduit Not selling anything — it's free and open source. Just looking for honest technical feedback.
 
-4h ago
+8h ago
 
 ---
 
@@ -160,6 +160,80 @@ $171k in btc, all my life savings. i know am stupid
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin's future as revolutionary as the smartphone, according to CoinDesk](https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html)**
+
+CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
+
+CNBC • 1d ago
+
+---
+
+**[BTC, ETH, SOL price news: Bitcoin holds near $64,000 amid US-Iran ceasefire talks](https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks)**
+
+Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.
+
+CoinDesk • 21h ago
+
+---
+
+**[Real Estate, Car Dealerships, Bitcoin And A TIF: A Look Into Toby Doeden's Businesses](https://aberdeeninsider.com/real-estate-car-dealerships-bitcoin-and-a-tif-a-look-into-toby-doedens-businesses/)**
+
+Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
+
+Aberdeen Insider • 17h ago
+
+---
+
+**[Michael Saylor Teases Next Bitcoin Buy After Urging Community Unity](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-teases-next-bitcoin-143421585.html)**
+
+Michael Saylor teased Strategy's next Bitcoin buy with a tracker post, days after the firm sold Bitcoin to fund dividends.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Bitcoin Bears Eye Lower Levels As TradingView Analysts Flag Failed Recovery](https://www.tradingview.com/news/newsbtc:bdeb97cc1094b:0-bitcoin-bears-eye-lower-levels-as-tradingview-analysts-flag-failed-recovery/)**
+
+Bitcoin’s weekend rebound is running into a familiar problem: several TradingView analysts are still treating the move as a retest rather than a confirmed reversal.TL;DRBitcoin Rebound Faces A Resistance TestThe common thread across the bearish TradingView setups is not that Bitcoin must immediatel…
+
+TradingView • 5h ago
+
+---
+
+**[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
+
+Seeking Alpha • 22h ago
+
+---
+
+**[The Trump Administration Wants the Clarity Act Passed By the End of Summer. 3 Cryptocurrencies to Buy Now.](https://www.fool.com/investing/2026/06/21/the-trump-administration-wants-the-clarity-act-pas/)**
+
+Bitcoin, Ethereum, and Solana have potential no matter what happens in Washington.
+
+The Motley Fool • 16h ago
+
+---
+
+**[Bitcoin rises above $64,000 as traders weigh Iran talks, bullish options bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-64000-as-traders-weigh-iran-talks-bullish-options-bets-4751659)**
+
+Investing.com • 19h ago
+
+---
+
+**[JPMorgan Just Warned A Bitcoin Nightmare Is Suddenly Coming True As Price Crash Fears Surge](https://www.forbes.com/sites/digital-assets/2026/06/21/jpmorgan-just-warned-a-bitcoin-nightmare-is-suddenly-coming-true-as-price-crash-fears-surge/)**
+
+Analysts with JPMorgan have predicted bitcoin miners could be forced to sell more bitcoin...
+
+Forbes • 15h ago
+
+---
+
+**[‘Rich Dad Poor Dad’ author reveals best time to buy Bitcoin, gold](https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-reveals-best-time-to-buy-bitcoin-gold)**
+
+thestreet.com • 20h ago
+
+---
 
 ---
 
@@ -177,7 +251,7 @@ The cryptocurrency's latest selloff is forcing investors to revisit what role, i
 
 A silver lining to the statistic may be that it’s a level that has historically aligned with cycle bottoms, and that some now view the asset...
 
-⬆️ 6 • 💬 0 • 5d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
+⬆️ 6 • 💬 0 • 6d ago • [Sherwood News](https://sherwood.news/crypto/half-of-the-bitcoin-supply-in-circulation-is-underwater-for-the-first-time-since-2022/)
 
 ---
 
@@ -225,7 +299,7 @@ A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd develop
 
 The Bitcoin address you already control is your account. Sign one message to prove it — BIP-322, never a transaction. Six open protocols, three products, one identity. No custody, no token, no issuer. Every artifact verifies offline, forever.
 
-⬆️ 2 • 💬 0 • 5d ago • [OrangeCheck](https://ochk.io/)
+⬆️ 2 • 💬 0 • 6d ago • [OrangeCheck](https://ochk.io/)
 
 ---
 
@@ -233,7 +307,7 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 Conduit. Contribute to Jake1848/conduit development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/Jake1848/conduit)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/Jake1848/conduit)
 
 ---
 
@@ -249,23 +323,13 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 ## YouTube Videos: "bitcoin"
 
-**[Worst Crypto News Ever - Bitcoin Holders Just Got F**ked](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
-
-Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 185 • ⏱️ 13:13 • 1d ago
-
----
-
 **[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
 
 No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
 
 📺 Gareth Soloway
 
-👁️ 22K • 👍 2K • 💬 137 • ⏱️ 15:20 • 5h ago
+👁️ 45K • 👍 3K • 💬 183 • ⏱️ 15:20 • 10h ago
 
 ---
 
@@ -275,7 +339,17 @@ Bitcoin sentiment is collapsing, MicroStrategy is under attack, and bears are ca
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 172 • ⏱️ 23:31 • 1d ago
+👁️ 19K • 👍 2K • 💬 199 • ⏱️ 23:31 • 1d ago
+
+---
+
+**[Worst Crypto News Ever - Bitcoin Holders Just Got F**ked](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
+
+Trade $50 get $25 - https://kalshi.com/sign-up/?referral=63464597-2f29-4e26-8250-d0824b4e576d Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 42K • 👍 2K • 💬 214 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -285,17 +359,7 @@ Markets expected a routine FOMC meeting. Instead, Kevin Warsh quietly dismantled
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 148 • ⏱️ 17:05 • 2d ago
-
----
-
-**[Inside the debate over bitcoin vs gold](https://www.youtube.com/watch?v=8KIU8775W3c)**
-
-'The Claman Countdown' panelists Anthony Pompliano and Peter Schiff discuss what investors should focus on. #fox #media ...
-
-📺 Fox Business
-
-👁️ 19K • 👍 573 • 💬 421 • ⏱️ 11:24 • 1d ago
+👁️ 26K • 👍 2K • 💬 169 • ⏱️ 17:05 • 2d ago
 
 ---
 
@@ -305,37 +369,7 @@ Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST features
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 1K • 💬 204 • ⏱️ 1:28 • 1d ago
-
----
-
-**[WARNING: They’re Going To Drop Bitcoin To Max Pain Price! [Buy At $#*,472]](https://www.youtube.com/watch?v=N8cOFmZ_vmE)**
-
-In today's video, Kyledoops discusses the max pain price with viewers and outlines at what price point you can expect support to ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 1K • 💬 24 • ⏱️ 21:49 • 2d ago
-
----
-
-**[Grant Cardone Explains Why People Don&#39;t Just Buy Bitcoin](https://www.youtube.com/watch?v=xaCs6EkP79g)**
-
-He's been looking at it for 13 years and even he got turned off by the seed phrases and the complexity. He only got in because ...
-
-📺 The Wolf Of All Streets
-
-👁️ 832 • 👍 12 • 💬 3 • ⏱️ 0:59 • 8h ago
-
----
-
-**[Bitcoin&#39;s Crab Walk: Fed Hike Crushes Saylor&#39;s Strategy #shorts](https://www.youtube.com/watch?v=iolbX2pQ6J0)**
-
-A hawkish Federal Reserve, signaled by a rate hike instead of a cut, spells trouble for Bitcoin. Preferred stock used by companies ...
-
-📺 Dana Love, PhD
-
-👁️ 2K • 👍 37 • 💬 4 • ⏱️ 0:46 • 11h ago
+👁️ 34K • 👍 2K • 💬 261 • ⏱️ 1:28 • 1d ago
 
 ---
 
@@ -345,7 +379,47 @@ Corporate Bitcoin treasuries were sold as permanent buyers, now they're bleeding
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 905 • 💬 159 • ⏱️ 12:06 • 11h ago
+👁️ 30K • 👍 1K • 💬 183 • ⏱️ 12:06 • 15h ago
+
+---
+
+**[WARNING: They’re Going To Drop Bitcoin To Max Pain Price! [Buy At $#*,472]](https://www.youtube.com/watch?v=N8cOFmZ_vmE)**
+
+In today's video, Kyledoops discusses the max pain price with viewers and outlines at what price point you can expect support to ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 1K • 💬 25 • ⏱️ 21:49 • 2d ago
+
+---
+
+**[Gary Cardone: Bitcoin Isn&#39;t Competing With Visa](https://www.youtube.com/watch?v=pn8yCIhQJYY)**
+
+Gary Cardone challenges one of the biggest misconceptions about Bitcoin: that it's competing with Visa and MasterCard.
+
+📺 The Honest Money Show
+
+👁️ 794 • 👍 9 • ⏱️ 0:55 • 2h ago
+
+---
+
+**[Bitcoin: MVRV Z-Score](https://www.youtube.com/watch?v=hXlR5xu0HK4)**
+
+The MVRV Z-Score is equal to (Market Cap - Realized Cap) / (Standard Deviation (Market cap)). It compares the market value and ...
+
+📺 Benjamin Cowen
+
+👁️ 46K • 👍 3K • 💬 132 • ⏱️ 5:09 • 23h ago
+
+---
+
+**[When Perma-BULLS Turn Bearish. Bitcoin &amp; Crypto Warning.](https://www.youtube.com/watch?v=VlkrieKcyy8)**
+
+When Tom Lee turns bearish....WATCH OUT!!! Bitcoin could either sink or swim next week as the CLARITY ACT gets its LAST ...
+
+📺 Digital Asset News
+
+👁️ 12K • 👍 793 • 💬 104 • ⏱️ 26:16 • 1d ago
 
 ---
 
