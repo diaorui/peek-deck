@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-22T21:39:26.863292+00:00'
+updated: '2026-06-22T23:20:29.010436+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 22, 2026 at 21:39 UTC  
+**Last Updated:** June 22, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the development process so far: https://vt.tiktok.com/ZSCJJAqr6/
 
-7h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 In this python simulation: a robot spins a sensor and receives the distance. I made the distance more inaccurate the farther it is from a wall. The white lines are the actual walls The green dots are the raw, inaccurate data points the blue lines are my attempt at trying to interpret the data points into walls The algorithm works like this: For every green dot, if there are two close dots, it finds the best fit line, deletes the middle dot, and moves the other two onto the best fit line. This averages out the slopes between the green dots to allow for slope comparison. For every green dot, if the angle of the lines connected the green dot in front and behind are similar, then they are clipped into just two dots (similar to the first filter). However, as you can see, it is making walls even farther off from the green points, especially for vertical sections. I suspect this is because I'm using y=mx+b, and the slope for a vertical line is undefined, so I think the algorithm has a hard time approaching that. For context, I'm an incoming freshman trying to design an algorithm for a roomba without any prior knowledge on SLAM algorithms, so I would greatly appreciate any resources for a better implementation or just general feedback.
 
-6h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal wa
 
 Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel grant on the IROS 2026 website this time, the only grant available is the IES-SYPA grant for upto 15 people. Is this not really less compared to any previous editions?
 
-17h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel gran
 
 I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visualize how deep the field gets. What would you move up, move down, or add? I'm curious to see what experienced roboticists think belongs at the deepest level.
 
-7h ago
+8h ago
 
 ---
 
@@ -114,7 +114,21 @@ I released MetriPlane v0.2.0 and am preparing a SoftwareX research-software pape
 
 NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
 
-NVIDIA Newsroom • 8h ago
+NVIDIA Newsroom • 10h ago
+
+---
+
+**[Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI | NVIDIA Technical Blog](https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/)**
+
+Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional safety which was built for structured…
+
+NVIDIA Developer • 10h ago
+
+---
+
+**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
+
+Axios • 7h ago
 
 ---
 
@@ -126,20 +140,20 @@ Business Insider • 3d ago
 
 ---
 
+**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
+
+Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
+
+Crunchbase News • 12h ago
+
+---
+
 **[Can robots and artificial intelligence solve the issue of a skilled generation nearing retirement?](https://www.post-gazette.com/business/tech-news/2026/06/22/gecko-robotics-artificial-intelligence-workforce/stories/202606100056)**
 
 Some see advancements in robotics and artificial intelligence as a threat to the workforce.
 Others see it as an indicator of who and what “got left...
 
-Pittsburgh Post-Gazette • 1h ago
-
----
-
-**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
-
-Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
-
-Crunchbase News • 10h ago
+Pittsburgh Post-Gazette • 15h ago
 
 ---
 
@@ -147,15 +161,7 @@ Crunchbase News • 10h ago
 
 Tesla (TSLA) is valued at more than $1.2 trillion. The automotive business holding that number up is shrinking. Full-year 2025 revenue came in at $94.8 billion, down 3 percent, the company's first annual revenue decline ever. Auto revenue fell 10 percent to $69.5 billion, margins are tighter, and BYD and other Chinese automakers keep gaining global share.
 
-Yahoo Finance • 8h ago
-
----
-
-**[Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/)**
-
-Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
-
-The Robot Report • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -163,29 +169,21 @@ The Robot Report • 8h ago
 
 China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
-**[Tennessee High robotics team earns world championship berth after regional runner-up finish](https://wcyb.com/news/local/tennessee-high-robotics-team-earns-world-championship-berth-after-regional-runner-up-finish)**
+**[Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/)**
 
-A Tennessee High robotics team is headed to the world stage after earning a top finish in a regional underwater robotics competition.The Tennessee High Robotics
+Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
 
-WCYB • 1h ago
+The Robot Report • 10h ago
 
 ---
 
 **[General Motors cuts 1,000 workers in Detroit, adds 50 robots](https://www.newsnationnow.com/business/tech/general-motors-cuts-workers-robots-ai-layoffs-detroit/)**
 
-NewsNation • 2h ago
-
----
-
-**[Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?](https://www.fool.com/investing/2026/06/21/archer-aviation-vs-kraken-robotics-with-geopolitic/)**
-
-These exciting companies offer different ways to invest in the next generation of defense.
-
-The Motley Fool • 1d ago
+NewsNation • 4h ago
 
 ---
 
@@ -199,7 +197,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 26K • 👍 756 • 💬 111 • ⏱️ 13:45 • 21h ago
+👁️ 26K • 👍 756 • 💬 111 • ⏱️ 13:45 • 23h ago
 
 ---
 
@@ -209,7 +207,7 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 1K • 👍 13 • 💬 2 • ⏱️ 0:35 • 4h ago
+👁️ 1K • 👍 13 • 💬 2 • ⏱️ 0:35 • 6h ago
 
 ---
 
@@ -239,7 +237,7 @@ War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 298 • 💬 50 • ⏱️ 10:03 • 8h ago
+👁️ 4K • 👍 298 • 💬 50 • ⏱️ 10:03 • 10h ago
 
 ---
 
@@ -247,7 +245,7 @@ War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Crea
 
 📺 Army Clips
 
-👁️ 201K • 👍 7K • 💬 115 • ⏱️ 0:58 • 1d ago
+👁️ 201K • 👍 7K • 💬 115 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -277,7 +275,7 @@ Anaksor destroyer Crisis. We used the Scorpion to counter the Anaksor last week 
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 268 • 💬 42 • ⏱️ 13:36 • 9h ago
+👁️ 6K • 👍 268 • 💬 42 • ⏱️ 13:36 • 11h ago
 
 ---
 

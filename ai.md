@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-22T21:39:26.845031+00:00'
+updated: '2026-06-22T23:20:28.994461+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 22, 2026 at 21:39 UTC  
+**Last Updated:** June 22, 2026 at 23:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Records from the IJF’s Open By Default database reveal the government made over a dozen amendments to a contract with Palantir Canada to provide services to an elite unit of the military
 
-🔗 [theijf.org](https://theijf.org/brief/canadian-palantir-contract-amendments-obd) • 9h ago
+🔗 [theijf.org](https://theijf.org/brief/canadian-palantir-contract-amendments-obd) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Records from the IJF’s Open By Default database reveal the government made ove
 
 All the benchmarks, the comparisons, the GPT vs Claude vs Gemini threads, you opened something, you decided to ask, you had a second to think. AI is already showing up in other places. Voice agents taking calls, cars making real time decisions, glasses like Ray-Ban Meta, Rokid, XRAI Glass running in the background. I genuinely don't know how to think about model capability in those environments. I'm not sure the benchmarks were built for it either.
 
-1h ago
+3h ago
 
 ---
 
@@ -57,31 +57,7 @@ All the benchmarks, the comparisons, the GPT vs Claude vs Gemini threads, you op
 
 Courtney Werning explains how AI deepfakes, pig butchering scams and crypto fraud are raising investment scam risks.
 
-🔗 [Techstrong TV](https://techstrong.tv/videos/interviews/ai-deepfakes-escalate-investment-scam-risks) • 5h ago
-
----
-
-**[The NSA reportedly agreed to Anthropic's "red lines" — no domestic mass surveillance, no autonomous lethal weapons. After the Mythos breach, do those actually hold?](https://www.reddit.com/r/artificial/comments/1uck8kn/the_nsa_reportedly_agreed_to_anthropics_red_lines/)**
-
-Still trying to make sense of the Mythos/NSA news this week — the NSA confirming Mythos got into most classified networks in hours, not weeks. What I keep coming back to isn't the breach itself but the arrangement sitting underneath it. The NSA reportedly agreed to a set of red lines with Anthropic: no domestic mass surveillance, no autonomously lethal weapons. I came across a conversation with Dean Ball that was recorded right before this story broke, where he walks through how that arrangement actually works from the inside. The part that stuck with me: the real question after Mythos isn't "how did this happen," it's whether those red lines survive once there's a genuine panic and pressure to throw them out.
-
-8h ago
-
----
-
-**[AI might make me fail my class](https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/)**
-
-I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
-
-1d ago
-
----
-
-**['You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power](https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/)**
-
-Microsoft chief executive Satya Nadella has voiced concerns over the growing concentration of power in artificial intelligence, arguing that the technology’s future should not be shaped by a small group of companies. He also called for cheaper AI models and broader access to the benefits created by the technology.
-
-🔗 [Firstpost](https://www.firstpost.com/tech/you-cant-call-it-progress-microsoft-ceo-satya-nadella-warns-against-concentration-of-ai-power-14025004.html) • 10h ago
+🔗 [Techstrong TV](https://techstrong.tv/videos/interviews/ai-deepfakes-escalate-investment-scam-risks) • 6h ago
 
 ---
 
@@ -97,15 +73,31 @@ That’s why we’re acting with urgency: by 2028, Autodesk will expand free acc
 
 AI is raising the floor for everyone, but it is human ingenuity that will vault the ceiling. We’ll continue investing in helping people thrive in the age of AI. 💪🏾 | 25 comments on LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/daratreseder_big-news-to-kick-off-your-monday-im-so-ugcPost-7474824235106951168-koZv?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 14m ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/daratreseder_big-news-to-kick-off-your-monday-im-so-ugcPost-7474824235106951168-koZv?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 1h ago
 
 ---
 
-**[Multi-Agent Orchestration](https://www.reddit.com/r/artificial/comments/1ucl5hs/multiagent_orchestration/)**
+**[The NSA reportedly agreed to Anthropic's "red lines" — no domestic mass surveillance, no autonomous lethal weapons. After the Mythos breach, do those actually hold?](https://www.reddit.com/r/artificial/comments/1uck8kn/the_nsa_reportedly_agreed_to_anthropics_red_lines/)**
 
-How to: A parent agent delegates to multiple async child agents in parallel. ​ https://github.com/siddsachar/row-bot
+Still trying to make sense of the Mythos/NSA news this week — the NSA confirming Mythos got into most classified networks in hours, not weeks. What I keep coming back to isn't the breach itself but the arrangement sitting underneath it. The NSA reportedly agreed to a set of red lines with Anthropic: no domestic mass surveillance, no autonomously lethal weapons. I came across a conversation with Dean Ball that was recorded right before this story broke, where he walks through how that arrangement actually works from the inside. The part that stuck with me: the real question after Mythos isn't "how did this happen," it's whether those red lines survive once there's a genuine panic and pressure to throw them out.
 
-7h ago
+10h ago
+
+---
+
+**[AI might make me fail my class](https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/)**
+
+I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
+
+1d ago
+
+---
+
+**['You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power](https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/)**
+
+Microsoft chief executive Satya Nadella has voiced concerns over the growing concentration of power in artificial intelligence, arguing that the technology’s future should not be shaped by a small group of companies. He also called for cheaper AI models and broader access to the benefits created by the technology.
+
+🔗 [Firstpost](https://www.firstpost.com/tech/you-cant-call-it-progress-microsoft-ceo-satya-nadella-warns-against-concentration-of-ai-power-14025004.html) • 11h ago
 
 ---
 
@@ -113,7 +105,7 @@ How to: A parent agent delegates to multiple async child agents in parallel. ​
 
 Hi everyone, I wanted to share an alternative architectural scaffold I’ve been researching and engineering over the past cycles. The project is called **SHD-CCP v2.0 (Scalable Hybrid Distributed Cognitive Pipeline)**, and it explores a complete departure from the traditional linear transformer block sequence. Instead of routing tokens through standard dense matrix multiplication layers, this engine maps linguistic structures directly onto **non-linear 3D spatial data point clouds**, utilizing topological cluster-routing. ### 🧠 Core Architectural Foundations **Grassmannian Manifold Fusion:** To handle state alignment across separate processing contexts or multi-expert channels, the architecture evaluates a geodesic midpoint calculation on a Grassmannian Manifold. By leveraging local Singular Value Decomposition (SVD), the pipeline maintains strict structural hygiene and side-steps standard weight-averaging degradation. **Zero-Copy Memory-Mapped Streaming (`mmap`):** To make massive multi-billion-parameter topologies viable on standard consumer local hardware, the runtime utilizes a background `PrefetchWorker`. Through OS-specific `mmap` rings (sequential cache policies on Linux via `madvise`, non-blocking read-access rings on Windows), matrix fragments are thrashed and streamed directly from high-speed SSDs on-demand. **Strict C-Contiguous Invariants:** To exploit hardware extensions (AVX/AVX-512) directly at the silicon layer, all token hypervectors are kept aligned in strict C-contiguous layouts, removing stride overhead during high-density operations. ### 📊 Performance & Validation (Empirical Benchmarks) The execution layer has been verified across a rigorous contract-compliance test harness (127/127 unit and integration tests passing green). Benchmarked on consumer-grade CPU infrastructure (AMD Ryzen), the engine achieves: * **512-Dimensional Semantic Vector Resolution:** < 2.0 ms per step. * **4096-Dimensional High-Density Forward-Pass:** < 10.0 ms per step. * **Memory Footprint:** Fully functional with <3GB active system RAM overhead, bypassing high-end enterprise VRAM dependencies. The background ingestion loops are governed by an isolated, non-blocking asynchronous *drop-oldest* backpressure telemetry engine to prevent primary inference thread stalls during network client fluctuations. The codebase is structured as a hybrid Python ASGI web-interface powered by a native Rust backend core (`shd-ccp-core`) to bypass runtime interpretation bottlenecks. ### 🛡️ Project Status & License The project is published as a **Source-Available** repository under the **Business Source License 1.1 (BSL)**, permitting full non-commercial evaluation, local research, and testing, converting to GNU GPLv3 after 3 years. I would love to get your thoughts on the geometric cluster-routing approach vs. typical attention-based token sequence mapping. **Repository Link:** https://github.com/loslos321-lab/UtoPiCorn_LM
 
-19m ago
+2h ago
 
 ---
 
@@ -121,7 +113,15 @@ Hi everyone, I wanted to share an alternative architectural scaffold I’ve been
 
 How the U.S. government can soften the blow of automation.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/united-states/when-workers-lose-ai?utm_campaign=re&utm_content=&utm_medium=social&utm_source=reddit_user) • 1h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/united-states/when-workers-lose-ai?utm_campaign=re&utm_content=&utm_medium=social&utm_source=reddit_user) • 2h ago
+
+---
+
+**[India's BharatGen commits to anchor India's role in the AI Alliance's open federated frontier-model project](https://www.reddit.com/r/artificial/comments/1uckw98/indias_bharatgen_commits_to_anchor_indias_role_in/)**
+
+The AI Alliance just announced new momentum for Project Tapestry, its open-source platform for building frontier models through globally federated development rather than one centralized lab. India's BharatGen is the latest organization to commit, signing on to anchor India's participation in the coalition. What's notable here is the architecture of the effort, not just the membership news. Tapestry is designed so multiple countries and organizations can jointly develop frontier open models while each keeps local control and long-term independence; the pitch is "sovereign" AI you can actually run and govern yourself. The timing of the announcement lands as the G7 elevates AI sovereignty as a headline policy topic. The open question is execution. Federated development across nations and orgs is hard — compute sharing, data governance, and model-release decisions all get more complicated with more parties at the table. Whether a coalition can ship something competitive with centralized frontier labs is still unproven. Source: https://thealliance.ai/blog/ai-alliance-advances-project-tapestry-as-g7-puts-ai-sovereignty-at-center-stage Posted by an AI Alliance community member — happy to answer questions in the comments. For a country like India, what's the stronger path to AI capability — anchoring a shared federated project like this, or funding a fully domestic frontier lab?
+
+9h ago
 
 ---
 
@@ -129,17 +129,17 @@ How the U.S. government can soften the blow of automation.
 
 ## Google News: "ai"
 
-**[Alphabet paces for worst day in a year on AI concerns after high-profile exits](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html)**
+**[Alphabet has its worst day in over a year on AI concerns after high-profile exits](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html)**
 
 Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
 **[Alphabet Shares Drop After Second AI Star Departs for a Rival](https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival)**
 
-Bloomberg • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg • 2h ago
 
 A dual-industry leader is the most common top-four holding for six of the savviest billionaire investors.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -155,47 +155,51 @@ Yahoo Finance • 10h ago
 
 Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model
 
-The Guardian • 4h ago
+The Guardian • 2h ago
 
 ---
 
-**[The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)**
+**[Tom Hanks Says AI Could Create Woody Voice for 'Toy Story 6'](https://variety.com/2026/film/news/tom-hanks-ai-woody-voice-toy-story-6-1236787237/)**
 
-The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.
+Tom Hanks says Disney could use AI to keep Woody going in 'Toy Story 6' and beyond without his participation.
 
-TechCrunch • 46m ago
-
----
-
-**[Opinion | China’s Ambitious AI Blueprint](https://www.wsj.com/opinion/chinas-ambitious-ai-blueprint-bba89ca2)**
-
-WSJ • 21m ago
+Variety • 1h ago
 
 ---
 
-**[Qualcomm Is Said to Near Deal for AI Chip Startup Modular](https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular)**
+**[Why Are AI Bills Exploding? What CEOs And CIOs Should Know](https://www.forbes.com/sites/nishatalagala/2026/06/22/why-are-ai-bills-exploding-what-ceos-and-cios-should-know/)**
 
-Bloomberg • 36m ago
+Why AI bills are exploding, and what CEOs and CIOs can do about it. The good, bad, and ugly of AI overuse, and steps to tie AI use to ROI and business outcome metrics.
+
+Forbes • 5m ago
+
+---
+
+**[‘I got crushed’: AI giants are funding ad wars in congressional races across the country](https://www.adn.com/nation-world/2026/06/22/i-got-crushed-ai-giants-are-funding-ad-wars-in-congressional-races-across-the-country/)**
+
+The AI political spending boom comes as emerging technology companies have become increasingly “comfortable with using their power to achieve a political goal,” said a former Google public policy executive.
+
+Anchorage Daily News • 22m ago
 
 ---
 
 **[Opinion | A.I. Doomaxxing Is Bad for Our Economy](https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
+
+---
+
+**[Micron stock surges to new high amid AI memory trade boom, Anthropic deal](https://finance.yahoo.com/markets/stocks/article/micron-stock-surges-to-new-high-amid-ai-memory-trade-boom-anthropic-deal-125205263.html)**
+
+Micron led the rest of the chip complex higher on Monday after signing a supply deal with Antrhopic and ahead of the memory chipmaker's earnings this week.
+
+Yahoo Finance • 3h ago
 
 ---
 
 **[Exclusive | Google Investing in ‘Backrooms’ Studio A24 as Part of New AI Research Partnership](https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe)**
 
-WSJ • 7h ago
-
----
-
-**[Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools](https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/)**
-
-A24 and Google have struck an AI research partnership that will see the independent studio work to develop new AI-powered technologies for filmmakers.
-
-Variety • 6h ago
+WSJ • 9h ago
 
 ---
 
@@ -207,7 +211,7 @@ Variety • 6h ago
 
 Fully Open Foundation Model for Sovereign AI
 
-⬆️ 516 • 💬 172 • 1d ago • [apertvs.ai](https://apertvs.ai/)
+⬆️ 519 • 💬 174 • 1d ago • [apertvs.ai](https://apertvs.ai/)
 
 ---
 
@@ -223,7 +227,7 @@ The moment an agent needs to deploy something, it slams face-first into a wall b
 
 AI can make implementation cheap while making review and judgment more expensive.
 
-⬆️ 228 • 💬 165 • 1d ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+⬆️ 229 • 💬 166 • 1d ago • [Vinicius Brasil](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 
 ---
 
@@ -245,7 +249,7 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 ...also don't tell lies. But I'm getting ahead of myself already.  I keep running into people online who openly say that they use AI to do their writing for t
 
-⬆️ 101 • 💬 96 • 1d ago • [satisfice.com](https://www.satisfice.com/blog/archives/488148)
+⬆️ 104 • 💬 98 • 1d ago • [satisfice.com](https://www.satisfice.com/blog/archives/488148)
 
 ---
 
@@ -253,7 +257,7 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 More tech workers are organizing to fight back as they feel they are losing influence over decisions that affect their jobs, writes Varsha Bansal.
 
-⬆️ 46 • 💬 14 • 22h ago • [Tech Policy Press](https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/)
+⬆️ 46 • 💬 14 • 23h ago • [Tech Policy Press](https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/)
 
 ---
 
@@ -289,7 +293,7 @@ Krystal and Saagar discuss reports that Mythos AI was able to hack into classifi
 
 📺 Breaking Points
 
-👁️ 83K • 👍 3K • 💬 708 • ⏱️ 16:49 • 4h ago
+👁️ 83K • 👍 3K • 💬 708 • ⏱️ 16:49 • 5h ago
 
 ---
 
@@ -299,7 +303,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Max Max
 
-👁️ 8K • 💬 7 • ⏱️ 23:22 • 7h ago
+👁️ 8K • 💬 7 • ⏱️ 23:22 • 9h ago
 
 ---
 
@@ -309,7 +313,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 26K • 👍 755 • 💬 111 • ⏱️ 13:45 • 21h ago
+👁️ 26K • 👍 755 • 💬 111 • ⏱️ 13:45 • 23h ago
 
 ---
 
@@ -319,7 +323,7 @@ ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/
 
 📺 Shane Hummus
 
-👁️ 16K • 👍 866 • 💬 35 • ⏱️ 18:09 • 23h ago
+👁️ 16K • 👍 866 • 💬 35 • ⏱️ 18:09 • 1d ago
 
 ---
 
@@ -329,7 +333,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 17K • 👍 712 • 💬 227 • ⏱️ 14:11 • 21h ago
+👁️ 17K • 👍 712 • 💬 227 • ⏱️ 14:11 • 23h ago
 
 ---
 
@@ -349,7 +353,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 52K • 👍 4K • 💬 336 • ⏱️ 5:50 • 5h ago
+👁️ 52K • 👍 4K • 💬 336 • ⏱️ 5:50 • 7h ago
 
 ---
 
@@ -359,7 +363,7 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 17K • 👍 1K • 💬 354 • ⏱️ 22:04 • 3h ago
+👁️ 17K • 👍 1K • 💬 354 • ⏱️ 22:04 • 5h ago
 
 ---
 
@@ -379,7 +383,7 @@ Download PolyBuzz App https://polybuzz.onelink.me/GQGs/cu1rayue and use my code 
 
 📺 ELEVENZ
 
-👁️ 27K • 👍 2K • 💬 371 • ⏱️ 23:03 • 7h ago
+👁️ 27K • 👍 2K • 💬 371 • ⏱️ 23:03 • 9h ago
 
 ---
 
@@ -395,7 +399,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 33,589 • ❤️ 2,011 • 13h ago
+⬇️ 33,589 • ❤️ 2,011 • 15h ago
 
 ---
 
@@ -443,7 +447,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 119,967 • ❤️ 1,206 • 15h ago
+⬇️ 119,967 • ❤️ 1,206 • 16h ago
 
 ---
 
@@ -648,7 +652,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 76.3k • 🔱 9.9k • 26m ago
+⭐ 76.3k • 🔱 9.9k • 2h ago
 
 ---
 
@@ -658,7 +662,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 49.5k • 🔱 2.4k • 9m ago
+⭐ 49.5k • 🔱 2.4k • 1h ago
 
 ---
 
@@ -668,7 +672,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.3k • 🔱 966 • 5h ago
+⭐ 10.3k • 🔱 966 • 6h ago
 
 ---
 
@@ -678,7 +682,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.5k • 🔱 507 • 2m ago
+⭐ 4.5k • 🔱 507 • 1h ago
 
 ---
 
@@ -698,7 +702,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 3.4k • 🔱 305 • 6h ago
+⭐ 3.4k • 🔱 305 • 8h ago
 
 ---
 
@@ -708,7 +712,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.2k • 🔱 209 • 15h ago
+⭐ 2.2k • 🔱 209 • 17h ago
 
 ---
 
@@ -718,7 +722,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.8k • 🔱 129 • 9m ago
+⭐ 1.8k • 🔱 129 • 1h ago
 
 ---
 
@@ -728,7 +732,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.8k • 🔱 97 • 5h ago
+⭐ 1.8k • 🔱 97 • 7h ago
 
 ---
 

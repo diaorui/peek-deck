@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-22T21:39:26.860019+00:00'
+updated: '2026-06-22T23:20:29.007619+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 22, 2026 at 21:39 UTC  
+**Last Updated:** June 22, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -3.3%  
-**30d:** -17.5%  
-**90d:** -20.2%  
-**1y:** -28.2%  
+**24h:** -0.2%  
+**7d:** -3.9%  
+**30d:** -18.0%  
+**90d:** -20.6%  
+**1y:** -28.6%  
 
 ---
 
@@ -126,7 +126,7 @@ https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d
 
 Picked up a portfolio of branded .eth domains, a few are real company names (airlines, marketplaces) that haven't claimed their Web3 identity yet. Selling individually or in themed bundles. Anyone interested or know who to reach out to?
 
-3d ago
+4d ago
 
 ---
 
@@ -162,31 +162,31 @@ The Motley Fool • 1d ago
 
 Ethereum staking rewards could be redirected to fund core development, raising concerns over who pays and who controls the money.
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
-**[BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab](https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-201231659.html)**
+**[Bitcoin and ethereum prices today, Monday, June 22, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-22-2026-prices-moving-higher-this-morning-133853515.html)**
 
-Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.
+Bitcoin opened at $63,242.26 on Monday, June 22, 2026, 1.6% lower than Sunday's opening price. Ethereum opened at $1,704.90 on Monday, down 2% from Sunday's opening price.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Tom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use](https://finance.yahoo.com/markets/crypto/articles/tom-lee-joe-lubin-push-202428832.html)**
-
-Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $92 million ETH as Tom Lee reaffirms 'crypto spring' call](https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring)**
+**[Sharplink backs Ethlabs to prep Ethereum for institutional adoption](https://www.stocktitan.net/news/SBET/ethlabs-founded-by-former-ethereum-foundation-contributors-and-uoe6q75njkrz.html)**
 
-The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
+Bitmine, Sharplink and Joe Lubin are funding an independent nonprofit lab led by former Ethereum Foundation researchers to support faster settlement and scaling.
 
-CoinDesk • 8h ago
+Stock Titan • 2h ago
+
+---
+
+**[TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY](https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny)**
+
+Baillie Gifford Enhanced Yield Fund (BAGEY) is denominated in dollars, and gives eligible investors access to an actively managed, short-duration portfolio of public corporate bonds.
+
+CoinDesk • 11h ago
 
 ---
 
@@ -194,15 +194,7 @@ CoinDesk • 8h ago
 
 Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
 
-The Block • 16h ago
-
----
-
-**[Current price of Ethereum for June 22, 2026](https://fortune.com/article/price-of-ethereum-06-22-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 15h ago
+The Block • 18h ago
 
 ---
 
@@ -210,19 +202,29 @@ Fortune • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
 
-FXStreet • 17h ago
+FXStreet • 19h ago
 
 ---
 
 **[Key facts: ETF Approvals Fail; 50k-ETH Short Raised; Japan Reclassifies](https://www.tradingview.com/news/tradingview:a7bb538cc4008:0-key-facts-etf-approvals-fail-50k-eth-short-raised-japan-reclassifies/)**
 
-TradingView • 9h ago
+TradingView • 11h ago
 
 ---
 
-**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.morningstar.com/news/pr-newswire/20260622ny89192/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle)**
+**[Current price of Ethereum for June 22, 2026](https://fortune.com/article/price-of-ethereum-06-22-2026/)**
 
-Morningstar • 3h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
+
+---
+
+**[Bitmine Approaches Giant Ethereum Supply Goal as Tom Lee Teases A New Crypto Spring](https://www.tipranks.com/news/bitmine-approaches-giant-ethereum-supply-goal-as-tom-lee-teases-a-new-crypto-spring)**
+
+Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
+
+TipRanks • 6h ago
 
 ---
 
@@ -236,7 +238,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 720 • 👍 30 • 💬 1 • ⏱️ 14:55 • 3h ago
+👁️ 720 • 👍 30 • 💬 1 • ⏱️ 14:55 • 5h ago
 
 ---
 
@@ -246,7 +248,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 191 • ⏱️ 13:42 • 23h ago
+👁️ 33K • 👍 2K • 💬 191 • ⏱️ 13:42 • 1d ago
 
 ---
 
@@ -256,7 +258,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 167 • 👍 13 • 💬 1 • ⏱️ 6:13 • 3h ago
+👁️ 167 • 👍 13 • 💬 1 • ⏱️ 6:13 • 5h ago
 
 ---
 
@@ -266,7 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 826 • 👍 35 • 💬 4 • ⏱️ 10:15 • 5h ago
+👁️ 826 • 👍 35 • 💬 4 • ⏱️ 10:15 • 7h ago
 
 ---
 
@@ -276,7 +278,7 @@ MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) 
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 208 • 💬 8 • ⏱️ 29:19 • 3h ago
+👁️ 2K • 👍 208 • 💬 8 • ⏱️ 29:19 • 5h ago
 
 ---
 
@@ -296,7 +298,7 @@ Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise 
 
 📺 Jake Gordon Crypto
 
-👁️ 321 • 👍 34 • 💬 10 • ⏱️ 14:40 • 4h ago
+👁️ 321 • 👍 34 • 💬 10 • ⏱️ 14:40 • 6h ago
 
 ---
 
@@ -306,7 +308,7 @@ DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of t
 
 📺 The Rollup
 
-👁️ 124 • 👍 9 • 💬 3 • ⏱️ 6:42 • 2h ago
+👁️ 124 • 👍 9 • 💬 3 • ⏱️ 6:42 • 3h ago
 
 ---
 
