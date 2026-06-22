@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-22T04:19:55.383721+00:00'
+updated: '2026-06-22T10:21:33.168824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 22, 2026 at 04:19 UTC  
+**Last Updated:** June 22, 2026 at 10:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
-19h ago
+1d ago
 
 ---
 
@@ -44,19 +44,19 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
 Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal was to keep it under $250, so instead of buying an expensive LiDAR setup or dedicated depth cameras, I rigged up 4 cheap smartphones to stream video data. I’m running the streams through Depth Anything v3 (DA3) to estimate the depth maps, and honestly, for a "poor man's LiDAR," it’s going incredibly strong. The issue I'm running into: Since DA3 outputs relative/monocular depth maps, I’m struggling with absolute scale calibration. Right now, the robot thinks walls are further away than they actually are. It knows where the obstacles are, but the metric distance is skewed because DA3 doesn't have real-world depth data. I want to fix this by adding a hardware sensor to act as a "ground truth" anchor to correct and scale the DA3 depth data in real-time. Has anyone here tried using a ToF (Time-of-Flight) sensor or an Ultrasonic sensor to handle this kind of depth correction? Would a single-point distance reading be enough to dynamically scale the relative map, or is there a better way to do it? If anyone is curious about the hardware or wants to check out the setup, I put the specs and documentation here and the chassis CAD files here. Looking forward to hearing your thoughts on how to fix the depth scaling!
 
-16h ago
+22h ago
 
 ---
 
 **[When we fitted Éloi with a mouth👄](https://www.reddit.com/r/robotics/comments/1ubmw5z/when_we_fitted_éloi_with_a_mouth/)**
 
-17h ago
+23h ago
 
 ---
 
 **[🤖✨ From concept to reality! Proud to present my fully DIY 8-DOF Robotic Arm, designed, 3D printed, assembled, and programmed from scratch. Every servo, every wire, and every line of code brought this project to life. The journey of innovation never stops! 🚀](https://www.reddit.com/r/robotics/comments/1ubib0v/from_concept_to_reality_proud_to_present_my_fully/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -72,13 +72,13 @@ I've been experimenting with converting ordinary third-person videos into humano
 
 If you not familiar with the library, its basically a Rust implementation of behavior trees which are a great way to build deterministic AI — they're widely used for things like robotics, game NPCs and any agent that needs predictable, debuggable decision-making. We just introduced python bindings and a live view of the behavior tree. Also, we have added tons of new examples to get you going. For more, see: github: https://github.com/sollimann/bonsai pypi: https://pypi.org/project/bonsai-bt/
 
-21h ago
+1d ago
 
 ---
 
 **[Walking robot 3d printed, 4 servos and. Arduino](https://www.reddit.com/r/robotics/comments/1ubhagk/walking_robot_3d_printed_4_servos_and_arduino/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ If you not familiar with the library, its basically a Rust implementation of beh
 
 Disclosure: I work with a commercial robotics data collection team. This is not a sales post. I've been comparing different human-demonstration formats for robot manipulation, and I'm curious which configuration researchers find most useful for initial testing. The main options seem to be: • Egocentric video only • Egocentric + two wrist cameras • Task and step labels • Country and collection metadata Egocentric-only data is easier to scale, but hands often block the object. Wrist views improve grasp visibility, although synchronization and motion blur create extra problems. We're considering releasing a small free public evaluation sample from the US, UK and Australia. It would require no signup, email or contact details. Which format would be most useful for testing an existing manipulation or imitation-learning pipeline? Also, what minimum information should be included: camera calibration, FPS, task labels, timestamps, licensing documentation or failure examples? I can share the public sample in a follow-up only if the moderators confirm that it is appropriate.
 
-15h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Everything works fine, just for these maze of cables, I have run out of ideas, h
 
 It seems that everyone around is building robots these days. Overcoming my laziness, I decided to also build my own small robodog, and I'm sharing the result of this project, which took me quite a bit of trials and errors during long evenings. All parts were designed from scratch. Everything that is plastic was 3D printed. Everything that isn't plastic was sourced from generic stores - there are no custom CNC orders here. The main SBC is a Radxa Zero 3W running Ubuntu 24.04 with ROS 2 Jazzy. The servos are powered by a Sunflower PCA9685 driver board. There are two separate power rails: 5V for the Radxa and 6-7V for the servos. The trotting gait is shown in the video. I'm currently using an inverse kinematics algorithm, but my long-term plans include Tensor Lite and trained neural networks for skills. The project is still ongoing - I have so many things to try and learn. But it is solid enough as a good foundation for future iterations.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=NeS2-dkah5o) • 22h ago
 
 ---
 
@@ -126,19 +126,20 @@ Small Wars Journal • 2d ago
 
 ---
 
-**[GM replaces more than 1,000 workers with 50 robots at flagship Detroit plant: ‘We’re disgusted’](https://nypost.com/2026/06/21/us-news/gm-replaces-more-than-1000-workers-with-50-robots-at-flagship-detroit-plant/)**
+**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
 
-“If AI continues to be used as an accessory to that crime, it has to be stopped.”
+China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
 
-New York Post • 8h ago
+Financial Times • 3h ago
 
 ---
 
-**[Hyundai to take full ownership of Boston Dynamics in SoftBank buyout](https://www.kedglobal.com/robotics/newsView/ked202606210001)**
+**[Can robots and artificial intelligence solve the issue of a skilled generation nearing retirement?](https://www.post-gazette.com/business/tech-news/2026/06/22/gecko-robotics-artificial-intelligence-workforce/stories/202606100056)**
 
-Hyundai Motor Group, the world's third-largest carmaker, is poised to secure full ownership of US robotics company Boston Dynamics by acquiring the remaining 9
+Some see advancements in robotics and artificial intelligence as a threat to the workforce.
+Others see it as an indicator of who and what “got left...
 
-KED Global • 14h ago
+Pittsburgh Post-Gazette • 52m ago
 
 ---
 
@@ -150,19 +151,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?](https://www.fool.com/investing/2026/06/21/archer-aviation-vs-kraken-robotics-with-geopolitic/)**
+
+These exciting companies offer different ways to invest in the next generation of defense.
+
+The Motley Fool • 16h ago
+
+---
+
 **[A New Store in Hong Kong Has No Human Employees, Just a Single Humanoid Robot](https://futurism.com/robots-and-machines/hong-store-no-employees-robot)**
 
 A new 24 hour convenience store in Hong Kong will be run and managed entirely by a single and supposedly friendly humanoid robot.
 
-Futurism • 11h ago
-
----
-
-**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 12h ago
+Futurism • 17h ago
 
 ---
 
@@ -182,9 +183,11 @@ News-Medical • 2d ago
 
 ---
 
-**[Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics](https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push)**
+**[Do Robots Need Legs? What If You Gave ChatGPT a Body?](https://spectrum.ieee.org/video-friday-agentic-ai-robot)**
 
-South China Morning Post • 3h ago
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -198,7 +201,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 5K • 👍 276 • 💬 38 • ⏱️ 13:45 • 4h ago
+👁️ 13K • 👍 500 • 💬 67 • ⏱️ 13:45 • 10h ago
 
 ---
 
@@ -208,7 +211,7 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 318K • 👍 13K • 💬 2K • ⏱️ 2:51 • 4d ago
+👁️ 323K • 👍 14K • 💬 2K • ⏱️ 2:51 • 4d ago
 
 ---
 
@@ -218,7 +221,15 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 40K • 👍 756 • 💬 62 • ⏱️ 24:13 • 2d ago
+👁️ 44K • 👍 785 • 💬 65 • ⏱️ 24:13 • 2d ago
+
+---
+
+**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
+
+📺 Army Clips
+
+👁️ 136K • 👍 5K • 💬 70 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -228,25 +239,7 @@ Elon Musk's new lineup of Tesla robots highlights the company's growing focus on
 
 📺 Carros Show
 
-👁️ 5K • 👍 176 • 💬 17 • ⏱️ 1:04:55 • 1d ago
-
----
-
-**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
-
-📺 Army Clips
-
-👁️ 115K • 👍 4K • 💬 62 • ⏱️ 0:58 • 1d ago
-
----
-
-**[New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird](https://www.youtube.com/watch?v=9e_O8GtFcgI)**
-
-A new female AI robot just blurred the line between human and robot — and it's getting weird fast. You're about to meet a new ...
-
-📺 The AI Nexus
-
-👁️ 25K • 👍 744 • 💬 71 • ⏱️ 21:33 • 3d ago
+👁️ 5K • 👍 184 • 💬 17 • ⏱️ 1:04:55 • 1d ago
 
 ---
 
@@ -256,7 +249,7 @@ USA TODAY's Michelle Del Ray spoke with Codey, a humanoid robot expected to cost
 
 📺 USA TODAY
 
-👁️ 23K • 👍 76 • 💬 83 • ⏱️ 0:55 • 4d ago
+👁️ 22K • 👍 76 • 💬 83 • ⏱️ 0:55 • 4d ago
 
 ---
 
@@ -266,17 +259,7 @@ The Day Robots Turned on Humanity #shorts.
 
 📺 Cine Memo
 
-👁️ 118K • 👍 1K • 💬 8 • ⏱️ 0:55 • 4d ago
-
----
-
-**[Indian factory workers wear head cameras for AI robots #AI #ethics #robotics](https://www.youtube.com/watch?v=HVUFhOjHfHg)**
-
-Follow us on Instagram: https://www.instagram.com/fulldisclosure.ig/
-
-📺 Full Disclosure
-
-👁️ 40K • 👍 2K • 💬 50 • ⏱️ 1:08 • 3d ago
+👁️ 119K • 👍 1K • 💬 8 • ⏱️ 0:55 • 4d ago
 
 ---
 
@@ -286,7 +269,27 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 5K • 👍 161 • 💬 16 • ⏱️ 21:44 • 2d ago
+👁️ 5K • 👍 163 • 💬 16 • ⏱️ 21:44 • 2d ago
+
+---
+
+**[New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird](https://www.youtube.com/watch?v=9e_O8GtFcgI)**
+
+A new female AI robot just blurred the line between human and robot — and it's getting weird fast. You're about to meet a new ...
+
+📺 The AI Nexus
+
+👁️ 28K • 👍 789 • 💬 75 • ⏱️ 21:33 • 3d ago
+
+---
+
+**[&quot;Would you keep a robotic pocket cheetah as a pet? 🤔&quot;#TechTrends #MechanicalArt](https://www.youtube.com/watch?v=h0-flgk0veg)**
+
+From a sleek golden capsule to a magnificent mechanical beast. ✨ Watch this pocket-sized gadget seamlessly unfold into an ...
+
+📺 TRANSFORM UNIVERSE
+
+👁️ 33K • 👍 119 • 💬 1 • ⏱️ 0:11 • 4d ago
 
 ---
 

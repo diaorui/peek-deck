@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-22T04:19:55.380959+00:00'
+updated: '2026-06-22T10:21:33.165663+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 22, 2026 at 04:19 UTC  
+**Last Updated:** June 22, 2026 at 10:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,732.21
+### $1,733.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -3.3%  
-**30d:** -17.5%  
-**90d:** -20.2%  
-**1y:** -28.2%  
+**24h:** +1.3%  
+**7d:** -2.4%  
+**30d:** -16.8%  
+**90d:** -19.4%  
+**1y:** -27.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $213.92B
+**Market Cap:** $216.43B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.1%
+-63.7%
 
 **All-Time Low:** $0.43
-+409996.1%
++414030.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ earlier this year, i reconnected with my good friend, Jimmy Johnson, a 5 year Po
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,7 +134,7 @@ Picked up a portfolio of branded .eth domains, a few are real company names (air
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -142,21 +142,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit](https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit)**
-
-Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
-
-CoinDesk • 21h ago
-
----
 
 **[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin](https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/)**
 
@@ -166,11 +158,35 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit](https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit)**
+
+Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
+
+Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
+
+The Block • 5h ago
+
+---
+
 **[BMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year](https://finance.yahoo.com/markets/crypto/articles/bmnr-tom-lee-rejects-ethereum-094250729.html)**
 
 zkSync founder Alex Gluchowski separately called Ethereum the "only option" for institutional settlement, citing competing chains from Stripe and JPMorgan.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers, Ethereum clings to support, XRP consolidates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-ethereum-clings-to-support-xrp-consolidates-202606220405)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
+
+FXStreet • 6h ago
 
 ---
 
@@ -178,15 +194,7 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) is facing a curious market dynamic. Despite significant Wall Street interest and the recent approvals of spot Ethereum ETFs, the digital asset has been underperforming expectations. This lag suggests a disconnect between institutional product launches and actual on-chain demand.ETF I…
 
-TradingView • 15h ago
-
----
-
-**[Ethereum could face core development 'funding crisis' within nine months, says former EF contributor](https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor)**
-
-Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.
-
-The Block • 2d ago
+TradingView • 21h ago
 
 ---
 
@@ -198,35 +206,27 @@ unchainedcrypto.com • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum Traders Grow Even More Bearish as Prices Fall After Fed Decision](https://decrypt.co/371555/bitcoin-ethereum-traders-grow-bearish-prices-fall-fed)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Flat Amid Trump's Threat On Hormuz Strait To Iran: Analyst Says BTC Brea](https://www.benzinga.com/crypto/cryptocurrency/26/06/60006240/bitcoin-ethereum-xrp-dogecoin-flat-as-trump-threatens-iran-over-hormuz-strait-analyst-sees-bull-market-trigger)**
 
-Prediction market traders don't see Bitcoin or Ethereum making their next big moves to higher price targets.
+Leading cryptocurrencies moved sideways on Sunday evening, while stock futures fell as President Donald Trump's latest threats weighed on peace negotiations with Iran.
 
-Decrypt • 3d ago
-
----
-
-**[Ethereum’s Jaredfromsubway MEV bot drained after approving its own $7.5M theft](https://cryptoslate.com/jaredfromsubway-mev-bot-drained/)**
-
-Jaredfromsubway MEV bot lost $7.5M after attacker-built contracts turned trading approvals into an allowance drain.
-
-CryptoSlate • 16h ago
+Benzinga • 8h ago
 
 ---
 
-**[Bitcoin Plunges To $62,500, Ethereum, XRP Lose 5%: What Is Going?](https://www.benzinga.com/crypto/cryptocurrency/26/06/53284954/bitcoin-plunges-to-62500-ethereum-xrp-lose-5-what-is-going)**
+**[AI predicts Ethereum price for July 1, 2026](https://finbold.com/ai-predicts-ethereum-price-for-july-1-2026-2/)**
 
-Bitcoin (CRYPTO: BTC) dropped back below $63,000 on Thursday as the broader crypto market shed 4%.
+Ethereum (ETH) could trade above $2,000 on July 1, 2026, according to a new price prediction generated by ChatGPT.
 
-Benzinga • 3d ago
+Finbold • 1d ago
 
 ---
 
-**[Is Ethereum a Buy After Falling 63% From Its All-Time High?](https://www.fool.com/investing/2026/06/21/is-ethereum-a-buy-after-falling-63-from-its-all-ti/)**
+**[Ethereum MEV Bot JaredFromSubway Exploited for $7.5 Million](https://financefeeds.com/ethereum-mev-bot-jaredfromsubway-exploited-for-7-5-million/)**
 
-Ethereum is down big in 2026, but two key catalysts could soon send it soaring in value.
+Ethereum’s well-known MEV bot JaredFromSubway has been exploited for more than $7.5 million, marking an unusual reversal for one of the network’s most
 
-The Motley Fool • 15h ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -240,17 +240,7 @@ The Motley Fool • 15h ago
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 974 • 💬 111 • ⏱️ 13:42 • 6h ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
-
-No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
-
-📺 Gareth Soloway
-
-👁️ 45K • 👍 3K • 💬 183 • ⏱️ 15:20 • 10h ago
+👁️ 25K • 👍 1K • 💬 107 • ⏱️ 13:42 • 12h ago
 
 ---
 
@@ -260,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 198 • 💬 120 • ⏱️ 18:36 • 1d ago
+👁️ 6K • 👍 205 • 💬 120 • ⏱️ 18:36 • 1d ago
 
 ---
 
@@ -270,7 +260,27 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 22K • 👍 826 • 💬 166 • ⏱️ 11:57 • 16h ago
+👁️ 29K • 👍 946 • 💬 181 • ⏱️ 11:57 • 22h ago
+
+---
+
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
+
+No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
+
+📺 Gareth Soloway
+
+👁️ 55K • 👍 3K • 💬 205 • ⏱️ 15:20 • 16h ago
+
+---
+
+**[🚨 She said ETHEREUM to ZERO!](https://www.youtube.com/watch?v=Mp7Y5yleYUg)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 268 • 👍 53 • 💬 3 • ⏱️ 13:39 • 1h ago
 
 ---
 
@@ -280,27 +290,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 5K • 👍 334 • 💬 283 • ⏱️ 10:44 • 14h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BX2fy9QPO38)**
-
-BITCOIN & CRYPTO: New Trade Setup Starting Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 321 • 💬 153 • ⏱️ 20:26 • 10h ago
-
----
-
-**[BitMine (BMNR) Just Revealed a MASSIVE $12B Ethereum Treasury Update!](https://www.youtube.com/watch?v=ZxlczeAzXJI)**
-
-BitMine (BMNR) has released one of its most important updates yet, revealing massive changes in its Ethereum treasury strategy, ...
-
-📺 BiGB Stcok
-
-👁️ 279 • 👍 19 • 💬 1 • ⏱️ 8:52 • 7h ago
+👁️ 6K • 👍 364 • 💬 282 • ⏱️ 10:44 • 20h ago
 
 ---
 
@@ -310,27 +300,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 556 • 💬 64 • ⏱️ 17:32 • 2d ago
+👁️ 15K • 👍 562 • 💬 50 • ⏱️ 17:32 • 2d ago
 
 ---
 
-**[The FLIPPENING Is Near $17 XRP… Ethereum&#39;s Time Is Running Out!?](https://www.youtube.com/watch?v=LyYx6IaS33w)**
+**[Why ETH Could Rally Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=l5SvNN27xGs)**
 
-D'CENT Referral - XRP Alliance You and your friend each get $20 in XRP — a limited-time double reward. The Top 20 referrers ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 XRP Bags
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 482 • 💬 111 • ⏱️ 11:45 • 2d ago
+👁️ 530 • 👍 18 • 💬 82 • ⏱️ 4:19 • 23h ago
 
 ---
 
-**[IS THERE VALUE IN ETHEREUM &amp; SOLANA STILL?!? BITCOIN MARKET UPDATE!](https://www.youtube.com/watch?v=9jg3KKOZYms)**
+**[BTC &amp; ETHEREUM, Lage? UNKLAR! jetzt vorsichtig sein! Darauf achte ich JETZT](https://www.youtube.com/watch?v=bgEiBrvBGpk)**
 
-ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter for Market Updates and Trading Tips: ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
 
-📺 EmperorBTC
+📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 130 • 💬 41 • ⏱️ 13:31 • 1d ago
+👁️ 2K • 👍 417 • 💬 36 • ⏱️ 9:44 • 5h ago
+
+---
+
+**[BitMine (BMNR) Just Revealed a MASSIVE $12B Ethereum Treasury Update!](https://www.youtube.com/watch?v=ZxlczeAzXJI)**
+
+BitMine (BMNR) has released one of its most important updates yet, revealing massive changes in its Ethereum treasury strategy, ...
+
+📺 BiGB Stcok
+
+👁️ 856 • 👍 26 • 💬 2 • ⏱️ 8:52 • 13h ago
 
 ---
 
