@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-22T19:28:54.055501+00:00'
+updated: '2026-06-22T21:39:26.860019+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 22, 2026 at 19:28 UTC  
+**Last Updated:** June 22, 2026 at 21:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -3.4%  
-**30d:** -17.6%  
+**24h:** +0.8%  
+**7d:** -3.3%  
+**30d:** -17.5%  
 **90d:** -20.2%  
 **1y:** -28.2%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $216.43B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-63.7%
 
 **All-Time Low:** $0.43
-+411779.1%
++414030.9%
 
 ---
 
@@ -150,29 +150,85 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin](https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/)**
+
+If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
+
+The Motley Fool • 1d ago
+
+---
+
+**[ETH stakers could see rewards cut as Ethereum fights to fund its future](https://cryptoslate.com/ethereum-staking-rewards-funding-proposal/)**
+
+Ethereum staking rewards could be redirected to fund core development, raising concerns over who pays and who controls the money.
+
+CryptoSlate • 11h ago
+
+---
+
+**[BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab](https://finance.yahoo.com/markets/crypto/articles/bitmine-sharplink-joe-lubin-back-201231659.html)**
+
+Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Tom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use](https://finance.yahoo.com/markets/crypto/articles/tom-lee-joe-lubin-push-202428832.html)**
+
+Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $92 million ETH as Tom Lee reaffirms 'crypto spring' call](https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring)**
+
+The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
+
+CoinDesk • 8h ago
+
+---
+
+**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
+
+Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
+
+The Block • 16h ago
+
+---
+
+**[Current price of Ethereum for June 22, 2026](https://fortune.com/article/price-of-ethereum-06-22-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers, Ethereum clings to support, XRP consolidates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-ethereum-clings-to-support-xrp-consolidates-202606220405)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
+
+FXStreet • 17h ago
+
+---
+
+**[Key facts: ETF Approvals Fail; 50k-ETH Short Raised; Japan Reclassifies](https://www.tradingview.com/news/tradingview:a7bb538cc4008:0-key-facts-etf-approvals-fail-50k-eth-short-raised-japan-reclassifies/)**
+
+TradingView • 9h ago
+
+---
+
+**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.morningstar.com/news/pr-newswire/20260622ny89192/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle)**
+
+Morningstar • 3h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
-
-3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 32K • 👍 2K • 💬 173 • ⏱️ 13:42 • 21h ago
-
----
-
-**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 560 • 👍 27 • 💬 4 • ⏱️ 10:15 • 3h ago
-
----
 
 **[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
 
@@ -180,17 +236,17 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 700 • 👍 19 • 💬 1 • ⏱️ 14:55 • 1h ago
+👁️ 720 • 👍 30 • 💬 1 • ⏱️ 14:55 • 3h ago
 
 ---
 
-**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
+**[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
 
-MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
+3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 CryptoWendyO
+📺 Altcoin Daily
 
-👁️ 1K • 👍 145 • 💬 2 • ⏱️ 29:19 • 1h ago
+👁️ 33K • 👍 2K • 💬 191 • ⏱️ 13:42 • 23h ago
 
 ---
 
@@ -200,7 +256,27 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 88 • 👍 8 • 💬 1 • ⏱️ 6:13 • 1h ago
+👁️ 167 • 👍 13 • 💬 1 • ⏱️ 6:13 • 3h ago
+
+---
+
+**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 826 • 👍 35 • 💬 4 • ⏱️ 10:15 • 5h ago
+
+---
+
+**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
+
+MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 208 • 💬 8 • ⏱️ 29:19 • 3h ago
 
 ---
 
@@ -210,7 +286,27 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 36K • 👍 1K • 💬 189 • ⏱️ 11:57 • 1d ago
+👁️ 37K • 👍 1K • 💬 231 • ⏱️ 11:57 • 1d ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 321 • 👍 34 • 💬 10 • ⏱️ 14:40 • 4h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)](https://www.youtube.com/watch?v=TibSwyw7JNQ)**
+
+DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of the entire DeFi economy, why Ethereum's ten-year ...
+
+📺 The Rollup
+
+👁️ 124 • 👍 9 • 💬 3 • ⏱️ 6:42 • 2h ago
 
 ---
 
@@ -220,37 +316,17 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 66K • 👍 4K • 💬 224 • ⏱️ 15:20 • 1d ago
+👁️ 67K • 👍 4K • 💬 227 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[Ethereum Running Out Of Money For Development!? Iran: &#39;Strait Of Hormuz Is Closed&#39; ... US Responds](https://www.youtube.com/watch?v=T7uTKUsB8e8)**
+**[&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | Eth Price 2026](https://www.youtube.com/watch?v=DCxZzEvVBig)**
 
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 AllinCrypto
+📺 Crypto Nutshell
 
-👁️ 6K • 👍 379 • 💬 379 • ⏱️ 10:44 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE OVER (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9IeqDNYmtL4)**
-
-BITCOIN SHORT SQUEEZE OVER (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 105 • 💬 31 • ⏱️ 18:59 • 1h ago
-
----
-
-**[🚨 She said ETHEREUM to ZERO!](https://www.youtube.com/watch?v=Mp7Y5yleYUg)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 192 • 💬 27 • ⏱️ 13:39 • 10h ago
+👁️ 6K • 👍 206 • 💬 120 • ⏱️ 18:36 • 2d ago
 
 ---
 

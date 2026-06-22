@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-22T19:28:54.045520+00:00'
+updated: '2026-06-22T21:39:26.853831+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 22, 2026 at 19:28 UTC  
+**Last Updated:** June 22, 2026 at 21:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,393.39
+### $64,312.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -2.0%  
-**30d:** -16.5%  
-**90d:** -9.8%  
-**1y:** -39.0%  
+**24h:** +0.7%  
+**7d:** -2.2%  
+**30d:** -16.7%  
+**90d:** -9.9%  
+**1y:** -39.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.71B
+**Market Cap:** $1287.73B
 Rank #1
 
-**Circulating Supply:** 20,046,456 BTC
+**Circulating Supply:** 20,046,493 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.0%
 
 **All-Time Low:** $67.81
-+94689.9%
++94639.7%
 
 ---
 
@@ -77,11 +77,67 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[the math nobody does when they say "crypto is dead"](https://www.reddit.com/r/Bitcoin/comments/1uckqae/the_math_nobody_does_when_they_say_crypto_is_dead/)**
+
+if you bought at every single all time high since 2013, the absolute worst possible timing every single time. You are still up. not a little. massively. the only way you actually lose is if you sell during the part that feels like this. that's it. that's the whole game. it was never more complicated than that.
+
+8h ago
+
+---
+
+**[I was one of the ~300 people who helped recover a 12-year-old Bitcoin wallet](https://www.reddit.com/r/Bitcoin/comments/1ucpsjr/i_was_one_of_the_300_people_who_helped_recover_a/)**
+
+Earlier this month I participated in a public Bitcoin wallet recovery challenge involving a wallet that had been untouched for around 12 years. What I found most interesting was that the challenge wasn't about breaking Bitcoin's cryptography. Instead, it showed how quickly a large group can search a reduced solution space once enough information is known. The wallet was recovered in about 11 minutes by roughly 300 participants working independently. A few takeaways: Bitcoin itself wasn't "hacked." Security depends on protecting all recovery-related information, not just private keys. Small reductions in uncertainty can have a huge impact on how difficult a recovery problem is. Crowdsourcing can dramatically accelerate search and recovery efforts. I wrote up a detailed breakdown of what happened, how the challenge worked, and why it was solved so quickly: https://blog.flipflow.app/blog/cracking-a-12-year-old-bitcoin-wallet Happy to answer questions about the challenge or my experience participating.
+
+4h ago
+
+---
+
+**[BlackRock, Fidelity, and now Franklin Templeton. Wall Street stopped fighting Bitcoin and just bought it.](https://www.reddit.com/r/Bitcoin/comments/1ucrtoc/blackrock_fidelity_and_now_franklin_templeton/)**
+
+In 2017, 2020, and 2023, institutions were supposedly coming. Then BlackRock and Fidelity launched a Bitcoin ETF. Now Franklin Templeton is launching a dedicated crypto investment division backed by $1.78 trillion in assets under management. At what point do we stop saying institutions are coming, and admit that institutions are already here?
+
+3h ago
+
+---
+
+**[Bitcoin Custom Power Law](https://www.reddit.com/r/Bitcoin/comments/1ucg5cb/bitcoin_custom_power_law/)**
+
+​Just made a interactive tool for Bitcoin Power Law model with custom power. ​ https://custompowerlaw.com/ ​ ​Please have a look and let me know what you think. Thanks! ​ ​
+
+11h ago
+
+---
+
 **[According to Historical Data, the Bottom is in.](https://www.reddit.com/r/Bitcoin/comments/1uccgyi/according_to_historical_data_the_bottom_is_in/)**
 
 Disclaimer: I am aware past performance does not guarantee future result, but decided to post this anyway because i find it interesting. The most violent, terrifying price drops usually happen in the first 3 to 6 months immediately following the cycle peak (Example, the 2011 bear market) https://preview.redd.it/6b58gby6fs8h1.png?width=737&format=png&auto=webp&s=1dafcba98f1eb58a9579aeae7066b84c175534ce Fast forward recently, https://preview.redd.it/8rfklykxwr8h1.png?width=325&format=png&auto=webp&s=e73f8b1ba20dba1fe2851af9db7e31437b348b9d Monday 6 October 2025 is when the drop from all time high began. 3 months after October of 2025 is January 31, 2026 6 months after October of 2025 is May 1, 2026 We are currently in June 2026. Hence, IF the cycle stays true to its name the worst has passed. 1 Week timeframe https://preview.redd.it/qu7ld1hwxr8h1.png?width=524&format=png&auto=webp&s=8ca63740205d207832d2c2e7a911adcb0f5dad97 It's worth noting this time, the bottom COULD have ended on June 5 2026 1 Day timeframe https://preview.redd.it/nr11vqg8yr8h1.png?width=964&format=png&auto=webp&s=ed99e24c0dae6121a6b62924590f6285ac23b5e2 Also Theoretically, the upcoming months after the bottom are usually boredom and exhaustion. But also the perfect accumulation zone. Make sure to share your thoughts. Edit; Thank you for the feedback. After being suggested to check history once again, it seems bottoms can still occur anywhere from 3 to 12 months. Examples for 2021 bottom happened 1 whole year later. https://preview.redd.it/egkdgx5t7s8h1.png?width=356&format=png&auto=webp&s=19f1ff48a5da6464adefae5f6e118492665a3aff So the theory of a true bottom until October 2026 is valid, but it's risky to try and time the market.
 
+15h ago
+
+---
+
+**[Unpopular opinion the bottom is not in](https://www.reddit.com/r/Bitcoin/comments/1ucewkz/unpopular_opinion_the_bottom_is_not_in/)**
+
+The bottom isn’t in. This place and other crypto communities is still too positive. The bottom is only in, only truly in when even the most bullish bulls are saying that it’s over. There has not been sufficient pain yet imo. Couple things I think could be major catalysts to push price down by EOY; Fed Rate Hikes. market is saying that a fed rate hike is almost guaranteed this year, and there’s a 40 percent chance of one happening in July. Kevin Warsh is a Hawk. Bitcoin has completely underperformed the smp500 for ages, all it takes is another tiny correction on the smp but for bitcoin it’ll be another big percentage down. Clarity act failing. Polymarket says that it has a 48 percent chance of passing. Just a few months ago it was 70%+. Few months ago I saw a lot of bulls saying that if it happens that it’ll make bitcoin spike massively we might even break the four year cycle and go to 100k plus this year. This was the consensus. The hype was there. But you can’t just act like it goes one way. If the clarity act fails due to primarily the ethics revolving trump and his family it seems, the crypto market will react negatively. This does not seem to be fully priced in if this does happen. MSTR selling more bitcoin. It looks like STRC is in really bad shape right now. Strategy needs more cash. The market crashed just a few weeks ago from saylor selling what 20, 30 bitcoin? What do you think will happen if he actually sells like a big amount. I’m not saying that this is the end of strategy and they’re going to be selling millions of coins or anything. But if the market reacted like that for just a couple of coins, let’s say saylor instead sells a couple hundred, or even a thousand coins. The market corrected so much on just a little, I’m worried what it’ll do if he sells a decent chunk. Too many people are positive in the space right now. The bottom only truly happens when the sentiment goes overwhelmingly negative. When the thought of buying any more is ridiculous. Curious what yall think?
+
 13h ago
+
+---
+
+**[Borrowing against your BTC sounds risky to me](https://www.reddit.com/r/Bitcoin/comments/1uck4vb/borrowing_against_your_btc_sounds_risky_to_me/)**
+
+I keep seeing people talk about using their Bitcoin as collateral to borrow cash instead of selling it, and I understand the idea in theory. You keep exposure to BTC, avoid selling, and get fiat liquidity. But I still don’t understand how this works safely in real life. If a lender gives you money against your BTC, they need some way to recover the collateral if you default. And the only way they can really do that is if they control the coins, either through custody, a smart contract, or some kind of multisig setup. But once someone else has control, isn’t that already the risk? If the platform freezes withdrawals, gets hacked, goes bankrupt, changes terms, or acts shady, you could lose your Bitcoin even if you did nothing wrong. That feels like the opposite of the whole point of Bitcoin. Not your keys, not your coins. Is there actually a way to borrow against BTC where you still keep control of your coins?
+
+8h ago
+
+---
+
+**[Chat_171 - Building Instant Fiat-to-Bitcoin Bridges with Gustavo Flores](https://www.reddit.com/r/Bitcoin/comments/1ucvnre/chat_171_building_instant_fiattobitcoin_bridges/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 1h ago
 
 ---
 
@@ -89,77 +145,27 @@ Disclaimer: I am aware past performance does not guarantee future result, but de
 
 I've been spending a lot of time looking at the structural shifts in BTC's correlation to traditional equities over the last few years. It feels like we are completely past the era where Bitcoin moved entirely independently. Wall Street treats it heavily like a high-beta tech proxy, and when the Nasdaq or S&P 500 takes a hit on macro days, BTC usually amplifies that move down. This got me thinking about a realistic doom-loop scenario: What happens if the AI hype cycle hits a wall, the bubble pops, and traditional equities enter a multi-year bear market? How do you think it plays out? Does BTC get dragged down into a multi-year crypto winter by a broader economic downturn, or do the internal mechanics allow it to break free once the initial crash is over? Curious to hear your thoughts, especially from anyone who has traded through both the 2020 liquidity shock and the 2022 tightening cycle.
 
-11h ago
-
----
-
-**[Franklin Templeton Files For Two ETFs That Reinvest Stock Dividends Into Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ubsvdp/franklin_templeton_files_for_two_etfs_that/)**
-
-Franklin Templeton filed for two new ETFs that automatically reinvest stock dividends into Bitcoin exposure, blending traditional equity investing with a built-in Bitcoin accumulation strategy.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/franklin-templeton-files-two-etfs-bitcoin) • 1d ago
-
----
-
-**[Timing](https://www.reddit.com/r/Bitcoin/comments/1uc0jst/timing/)**
-
-I see a lot of people saying they are too late to bitcoin, etc etc. That’s definitely not true. While there has definitely been more institutional adoption, the average person still views bitcoin as crazy. I was hanging out with my fiancee’s friend group yesterday comprised of 12 people all 25-32. I asked if anyone was into bitcoin and not a single person said yes and all of them looked at me like I was crazy. To me this makes me feel like I’m ahead of the game.
-
-22h ago
-
----
-
-**[Where to actually buy BTC NO KYC? (Not on mobile, desktop only)](https://www.reddit.com/r/Bitcoin/comments/1ucaxq5/where_to_actually_buy_btc_no_kyc_not_on_mobile/)**
-
-Every single video I find on youtube saying "no kyc" its a lie, same thing with crypto-news articles, If anyone could have any answers that would be absolutely fantastic. Thank you!
-
-14h ago
-
----
-
-**[Plans to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uccz8y/plans_to_buy_more_bitcoin/)**
-
-Currently, I have about 0.35 Bitcoin. Goal: accumulate at least 4 by the time 2030 rolls around. Why? Because I think that's the next peak. This is just my non-scientific opinion based on previous patterns. My plan: invest $500 of my monthly paycheck get a second job that pays me $10 an hour, and do that about 10 hours a week ($100 extra per week to btc) sell unused items on FB marketplace; acquire discarded items and sell them on FB marketplace (estimated extra $200 a month toward btc) buy cheap items from China and sell them on eBay and other platforms for about $10 each, intending to flip at least ten items a month. reduce wasteful spending; eliminate impulse purchases that cost me on average $300 a month Is there anything else you'd suggest for this plan? What can I add?
-
-12h ago
-
----
-
-**[Why does everyone hate on Michael Saylor?](https://www.reddit.com/r/Bitcoin/comments/1ubw8i0/why_does_everyone_hate_on_michael_saylor/)**
-
-I stay fairly involved to Bitcoin and MSTR discussions, but I never understand the hate for Michael Saylor. I get the initial suspicion, as he was convicted for securities fraud in the early 2000’s, and that he has somewhat delusional takes, but he’s not really a short term bull. Most of his keynote speeches involve him saying that Bitcoin needs to take up 1% of global capital, but it may take the world 10+ years to get there. I find that a lot more bearish than most of what I read on the Bitcoin forums. What he says isn’t really too crazy. If Bitcoin can get adopted by the store of value category (Real Estate, Art, Gold, etc..) than I don’t think it’s far fetched to see Bitcoin become a $10 trillion asset within the next 10 years or so. I would honestly say that most of us that hold Bitcoin would agree with that. So what’s everyone’s problem with Micheal Saylor??
-
-1d ago
-
----
-
-**[Crazy idea - Real estate vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ucbp5q/crazy_idea_real_estate_vs_bitcoin/)**
-
-I recently sold a home needing a ton of repairs with a non working HVAC and many other things needed. I technically could have found people on Craigslist to pay for space but it'd be one person in the extra bedroom and one in the oversized living room in a divided space, and with my job and debts I'd be breaking even or maybe a couple hundred extra a month for another four years (until 2030) when I'd start saving 400-600/month toward the 20-30k to finish it out. The home was worth 120-150k, a small townhome. I sold the home and broke even on the cost of repairs vs value pretty much and am renting a small apartment for a couple hundred less than the tenant scenario would cost. I've started hacking away at debt but I'm also DCAing into BTC every week. If we follow the four year cycles, maybe this idea will look great. On the other hand, I miss my old place and am also saving cash and stocks for a down payment and hopefully the RE market in the Sun Belt will continue to decline slowly so I can scoop up something in good condition. Have I gone totally insane or is this a decent plan? Any constructive suggestions welcome.
-
-14h ago
-
----
-
-**[I built a bitcoin lottery machine](https://www.reddit.com/r/Bitcoin/comments/1ucfwmp/i_built_a_bitcoin_lottery_machine/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/2UM4j1_xEs0?is=KYJbzUksTTWv8jWN) • 9h ago
-
----
-
-**[Daily Discussion, June 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1uccfo3/daily_discussion_june_22_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
 13h ago
+
+---
+
+**[Has any used coinflip ATM? I've recently bought from them and the transaction is taking a while.](https://www.reddit.com/r/Bitcoin/comments/1ucwtac/has_any_used_coinflip_atm_ive_recently_bought/)**
+
+I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for the past day. How long does it usually take for them to process and send me my bitcoin. I was just wondering what other people's experience with them is.
+
+40m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
+
+Barron's • 2h ago
+
+---
 
 **[BTC, ETH, SOL price news: Bitcoin holds near $64,000 amid US-Iran ceasefire talks](https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks)**
 
@@ -171,7 +177,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin ticks up to $65k, gains capped amid mixed signals on US-Iran talks](https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-64k-amid-mixed-signals-on-usiran-talks-4751794)**
 
-Investing.com • 4h ago
+Investing.com • 6h ago
 
 ---
 
@@ -183,17 +189,33 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin's future as revolutionary as the smartphone, according to CoinDesk](https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html)**
+**[Bitcoin or AI? BlackRock and JPMorgan Split Over Where Capital Flows Next](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ai-blackrock-jpmorgan-split-210832836.html)**
 
-CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
+Bitcoin or AI? BlackRock ties Bitcoin's next move to debt fears as JPMorgan's Dimon backs the AI bull market.
 
-CNBC • 2d ago
+Yahoo Finance • 30m ago
 
 ---
 
-**[Strategy Buys $39.4 Million Bitcoin as STRC Falls Below $90](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-39-4-million-184906419.html)**
+**[Google searches for 'Bitcoin' sink to yearly low amid investor fear](https://sg.finance.yahoo.com/news/google-searches-bitcoin-sink-yearly-210122249.html)**
 
-Yahoo Finance • 39m ago
+It has been more than eight months since the cryptocurrency market suffered a flash crash on Oct. 10, 2025. Bitcoin (BTC), which had hit the all-time high (ATH) of $126,080 only days before the crash, is currently trading nearly 50% lower. In fact, the leading cryptocurrency ...
+
+Yahoo Finance Singapore • 38m ago
+
+---
+
+**[Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says](https://finance.yahoo.com/markets/crypto/articles/comparing-bitcoin-giant-strategy-terra-204546326.html)**
+
+The analysts underscored that Strategy's Stretch (STRC) can't technically lose its “peg.”
+
+Yahoo Finance • 53m ago
+
+---
+
+**[Michael Saylor’s Strategy Buys $34.9 Million of Bitcoin Using Common Stock](https://www.bloomberg.com/news/articles/2026-06-22/michael-saylor-s-strategy-buys-34-9-million-of-bitcoin-using-common-stock)**
+
+Bloomberg • 9h ago
 
 ---
 
@@ -205,31 +227,11 @@ Aberdeen Insider • 1d ago
 
 ---
 
-**[Michael Saylor’s Strategy Buys $34.9 Million of Bitcoin Using Common Stock](https://www.bloomberg.com/news/articles/2026-06-22/michael-saylor-s-strategy-buys-34-9-million-of-bitcoin-using-common-stock)**
+**[Bitcoin's future as revolutionary as the smartphone, according to CoinDesk](https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html)**
 
-Bloomberg • 7h ago
+CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
 
----
-
-**[JPMorgan Just Warned A Bitcoin Nightmare Is Suddenly Coming True As Price Crash Fears Surge](https://www.forbes.com/sites/digital-assets/2026/06/21/jpmorgan-just-warned-a-bitcoin-nightmare-is-suddenly-coming-true-as-price-crash-fears-surge/)**
-
-Analysts with JPMorgan have predicted bitcoin miners could be forced to sell more bitcoin...
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin weekly close above $63K amid RSI divergence may be bottom signal: Data](https://www.tradingview.com/news/cointelegraph:02c5bac3f094b:0-bitcoin-weekly-close-above-63k-amid-rsi-divergence-may-be-bottom-signal-data/)**
-
-Bitcoin's repeated weekly candle close above $63,000 align with signals that may mark a market bottom.
-
-TradingView • 2h ago
-
----
-
-**[IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)](https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market)**
-
-Seeking Alpha • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -257,7 +259,7 @@ A silver lining to the statistic may be that it’s a level that has historicall
 
 Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
-⬆️ 3 • 💬 3 • 10h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/live-markets-bitcoin-is-stuck-near-64000-as-etf-outflows-reach-a-sixth-week-8e3a)
+⬆️ 4 • 💬 3 • 12h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/live-markets-bitcoin-is-stuck-near-64000-as-etf-outflows-reach-a-sixth-week-8e3a)
 
 ---
 
@@ -301,19 +303,17 @@ The Bitcoin address you already control is your account. Sign one message to pro
 
 ---
 
+**[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
+
+⬆️ 1 • 💬 0 • 45m ago
+
+---
+
 **[Conduit – Self-hosted Bitcoin Lightning payments for AI agents](https://news.ycombinator.com/item?id=48622458)**
 
 Conduit. Contribute to Jake1848/conduit development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/Jake1848/conduit)
-
----
-
-**[Show HN: CredScore – Deterministic wallet risk scoring, no model in the path](https://news.ycombinator.com/item?id=48558315)**
-
-CredScore turns raw wallet activity into a structured analyst briefing. Review risk tier, decision posture, key signals, and entity context in one place.
-
-⬆️ 1 • 💬 0 • 6d ago • [CredScore](https://www.credscore.us/)
+⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/Jake1848/conduit)
 
 ---
 
@@ -327,27 +327,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 759 • 💬 80 • ⏱️ 59:30 • 4h ago
-
----
-
-**[THIS BITCOIN PUMP WON&#39;T LAST - MY EXACT PLAN](https://www.youtube.com/watch?v=g8F0P7uqGq0)**
-
-PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
-
-📺 100XClub
-
-👁️ 7K • 👍 616 • 💬 101 • ⏱️ 10:11 • 7h ago
-
----
-
-**[How Much Bitcoin You Actually Need to Retire (Exact Math)](https://www.youtube.com/watch?v=GmgkgE9B8ew)**
-
-You've been told you need 15 Bitcoin to retire. The real number is closer to 4. The 4% rule was written in 1994 for stocks and ...
-
-📺 Trey Sellers
-
-👁️ 2K • 👍 102 • 💬 29 • ⏱️ 11:39 • 6h ago
+👁️ 14K • 👍 814 • 💬 43 • ⏱️ 59:30 • 6h ago
 
 ---
 
@@ -357,7 +337,17 @@ The US government is quietly turning AI into the next “too big to fail” indu
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 100 • ⏱️ 18:52 • 20h ago
+👁️ 17K • 👍 1K • 💬 122 • ⏱️ 18:52 • 22h ago
+
+---
+
+**[How Much Bitcoin You Actually Need to Retire (Exact Math)](https://www.youtube.com/watch?v=GmgkgE9B8ew)**
+
+You've been told you need 15 Bitcoin to retire. The real number is closer to 4. The 4% rule was written in 1994 for stocks and ...
+
+📺 Trey Sellers
+
+👁️ 3K • 👍 143 • 💬 91 • ⏱️ 11:39 • 8h ago
 
 ---
 
@@ -367,7 +357,35 @@ Let's provide an update to the Bitcoin bear market resistance band! Into The Cry
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 4K • 💬 83 • ⏱️ 7:22 • 14h ago
+👁️ 58K • 👍 4K • 💬 89 • ⏱️ 7:22 • 16h ago
+
+---
+
+**[Why Bitcoin Needs The Dollar To Die – Brent Johnson](https://www.youtube.com/watch?v=RTl7p7y8sHU)**
+
+Bitcoin #Crypto #Finance Bitcoin's brutal six-week ETF bleed is finally easing. Santiago Capital's blockbuster 84-page report from ...
+
+📺 The Wolf Of All Streets
+
+👁️ 13K • 👍 723 • 💬 187 • ⏱️ 1:01:36 • 7h ago
+
+---
+
+**[BITCOIN $100K NEXT? Michael Saylor&#39;s Shocking BTC Prediction](https://www.youtube.com/watch?v=33uSARGAavo)**
+
+Michael Saylor is back with another bold Bitcoin prediction, and this one could change the way investors think about BTC's future.
+
+📺 Toca do Rato
+
+👁️ 2K • 👍 3K • 10m ago
+
+---
+
+**[AI DESTROYING BITCOIN AND CRYPTO? #ai #bitcoin #finance](https://www.youtube.com/watch?v=4luxAeoemFQ)**
+
+📺 CryptoWendyO
+
+👁️ 337 • 👍 49 • 💬 1 • ⏱️ 1:56 • 39m ago
 
 ---
 
@@ -377,37 +395,17 @@ In this video I break down the latest Bitcoin price structure using Elliott Wave
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 219 • 💬 5 • ⏱️ 10:02 • 1h ago
+👁️ 3K • 👍 336 • 💬 12 • ⏱️ 10:02 • 3h ago
 
 ---
 
-**[Worst Crypto News Ever - Bitcoin Holders Just Got F**ked](https://www.youtube.com/watch?v=ZLy3Kz3r-3I)**
+**[THIS BITCOIN PUMP WON&#39;T LAST - MY EXACT PLAN](https://www.youtube.com/watch?v=g8F0P7uqGq0)**
 
-Trade $50 get $25 - http://kalshi.com/r/altcoin Altcoin Daily Merch: https://m046hz-bk.myshopify.com Get access to BEST ...
+PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
 
-📺 Altcoin Daily
+📺 100XClub
 
-👁️ 46K • 👍 2K • 💬 209 • ⏱️ 13:13 • 1d ago
-
----
-
-**[MicroStrategy Sells Bitcoin?! What It Means!](https://www.youtube.com/watch?v=BFR2hbeClHE)**
-
-Sophi talks about MicroStrategy Sells Bitcoin?! What It Means! Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
-
-📺 Simply Bitcoin
-
-👁️ 255 • 👍 10 • 💬 36 • ⏱️ 0:51 • 58m ago
-
----
-
-**[OMG.. They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump)](https://www.youtube.com/watch?v=KDjvXd8ilRU)**
-
-They Are About To BLOW UP Bitcoin!? (Saylor Warsh Trump) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 2K • 💬 260 • ⏱️ 11:44 • 2d ago
+👁️ 7K • 👍 647 • 💬 105 • ⏱️ 10:11 • 9h ago
 
 ---
 
@@ -417,7 +415,7 @@ Rustin talks about BTC To Hit $275K?! MicroStrategy's Secret Revealed! Brought t
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 325 • 💬 23 • ⏱️ 0:53 • 21h ago
+👁️ 7K • 👍 333 • 💬 42 • ⏱️ 0:53 • 23h ago
 
 ---
 

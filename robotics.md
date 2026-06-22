@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-22T19:28:54.060665+00:00'
+updated: '2026-06-22T21:39:26.863292+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 22, 2026 at 19:28 UTC  
+**Last Updated:** June 22, 2026 at 21:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the development process so far: https://vt.tiktok.com/ZSCJJAqr6/
 
-5h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 In this python simulation: a robot spins a sensor and receives the distance. I made the distance more inaccurate the farther it is from a wall. The white lines are the actual walls The green dots are the raw, inaccurate data points the blue lines are my attempt at trying to interpret the data points into walls The algorithm works like this: For every green dot, if there are two close dots, it finds the best fit line, deletes the middle dot, and moves the other two onto the best fit line. This averages out the slopes between the green dots to allow for slope comparison. For every green dot, if the angle of the lines connected the green dot in front and behind are similar, then they are clipped into just two dots (similar to the first filter). However, as you can see, it is making walls even farther off from the green points, especially for vertical sections. I suspect this is because I'm using y=mx+b, and the slope for a vertical line is undefined, so I think the algorithm has a hard time approaching that. For context, I'm an incoming freshman trying to design an algorithm for a roomba without any prior knowledge on SLAM algorithms, so I would greatly appreciate any resources for a better implementation or just general feedback.
 
-4h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal wa
 
 Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel grant on the IROS 2026 website this time, the only grant available is the IES-SYPA grant for upto 15 people. Is this not really less compared to any previous editions?
 
-15h ago
+17h ago
 
 ---
 
@@ -82,7 +82,7 @@ Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel gran
 
 I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visualize how deep the field gets. What would you move up, move down, or add? I'm curious to see what experienced roboticists think belongs at the deepest level.
 
-5h ago
+7h ago
 
 ---
 
@@ -114,21 +114,7 @@ I released MetriPlane v0.2.0 and am preparing a SoftwareX research-software pape
 
 NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
 
-NVIDIA Newsroom • 6h ago
-
----
-
-**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
-
-Axios • 4h ago
-
----
-
-**[Humanoid robots just got a workplace safety system](https://www.foxnews.com/science/humanoid-robots-just-got-workplace-safety-system)**
-
-NVIDIA introduces Halos for Robotics, which it calls the industry's first full-stack safety system for physical AI and robots working near people.
-
-Fox News • 6h ago
+NVIDIA Newsroom • 8h ago
 
 ---
 
@@ -140,11 +126,20 @@ Business Insider • 3d ago
 
 ---
 
-**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
+**[Can robots and artificial intelligence solve the issue of a skilled generation nearing retirement?](https://www.post-gazette.com/business/tech-news/2026/06/22/gecko-robotics-artificial-intelligence-workforce/stories/202606100056)**
 
-China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
+Some see advancements in robotics and artificial intelligence as a threat to the workforce.
+Others see it as an indicator of who and what “got left...
 
-Financial Times • 12h ago
+Pittsburgh Post-Gazette • 1h ago
+
+---
+
+**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
+
+Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
+
+Crunchbase News • 10h ago
 
 ---
 
@@ -152,7 +147,7 @@ Financial Times • 12h ago
 
 Tesla (TSLA) is valued at more than $1.2 trillion. The automotive business holding that number up is shrinking. Full-year 2025 revenue came in at $94.8 billion, down 3 percent, the company's first annual revenue decline ever. Auto revenue fell 10 percent to $69.5 billion, margins are tighter, and BYD and other Chinese automakers keep gaining global share.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -160,23 +155,29 @@ Yahoo Finance • 6h ago
 
 Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
 
-The Robot Report • 6h ago
+The Robot Report • 8h ago
 
 ---
 
-**[GM replaces more than 1,000 workers with 50 robots at flagship Detroit plant: ‘We’re disgusted’](https://nypost.com/2026/06/21/us-news/gm-replaces-more-than-1000-workers-with-50-robots-at-flagship-detroit-plant/)**
+**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
 
-“If AI continues to be used as an accessory to that crime, it has to be stopped.”
+China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
 
-New York Post • 23h ago
+Financial Times • 15h ago
 
 ---
 
-**[How Biology Inspired A Former Surgeon To Rethink Robotics](https://www.forbes.com/sites/jonathanreichental/2026/06/22/how-biology-inspired-a-former-surgeon-to-rethink-robotics/)**
+**[Tennessee High robotics team earns world championship berth after regional runner-up finish](https://wcyb.com/news/local/tennessee-high-robotics-team-earns-world-championship-berth-after-regional-runner-up-finish)**
 
-A former surgeon's biology-inspired startup is creating soft robotic cells that could transform how intelligent machines are built.
+A Tennessee High robotics team is headed to the world stage after earning a top finish in a regional underwater robotics competition.The Tennessee High Robotics
 
-Forbes • 2h ago
+WCYB • 1h ago
+
+---
+
+**[General Motors cuts 1,000 workers in Detroit, adds 50 robots](https://www.newsnationnow.com/business/tech/general-motors-cuts-workers-robots-ai-layoffs-detroit/)**
+
+NewsNation • 2h ago
 
 ---
 
@@ -198,25 +199,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 24K • 👍 705 • 💬 103 • ⏱️ 13:45 • 19h ago
-
----
-
-**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
-
-📺 Army Clips
-
-👁️ 187K • 👍 6K • 💬 110 • ⏱️ 0:58 • 1d ago
-
----
-
-**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
-
-At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
-
-📺 CGTN Europe
-
-👁️ 16K • 👍 83 • 💬 12 • ⏱️ 0:49 • 2d ago
+👁️ 26K • 👍 756 • 💬 111 • ⏱️ 13:45 • 21h ago
 
 ---
 
@@ -226,7 +209,17 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 1K • 👍 10 • 💬 2 • ⏱️ 0:35 • 2h ago
+👁️ 1K • 👍 13 • 💬 2 • ⏱️ 0:35 • 4h ago
+
+---
+
+**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
+
+At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
+
+📺 CGTN Europe
+
+👁️ 17K • 👍 84 • 💬 12 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -236,17 +229,35 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 46K • 👍 800 • 💬 66 • ⏱️ 24:13 • 3d ago
+👁️ 46K • 👍 808 • 💬 66 • ⏱️ 24:13 • 3d ago
 
 ---
 
-**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
+**[SCORPION Play LEVEL 999 – War Robots GOAT Gameplay](https://www.youtube.com/watch?v=80VRSmlY4Zs)**
 
-Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
+War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 4K • 👍 298 • 💬 50 • ⏱️ 10:03 • 8h ago
+
+---
+
+**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
+
+📺 Army Clips
+
+👁️ 201K • 👍 7K • 💬 115 • ⏱️ 0:58 • 1d ago
+
+---
+
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
+
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
 
 📺 Carros Show
 
-👁️ 5K • 👍 197 • 💬 20 • ⏱️ 1:04:55 • 1d ago
+👁️ 5K • 👍 168 • 💬 16 • ⏱️ 21:44 • 3d ago
 
 ---
 
@@ -256,7 +267,7 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 334K • 👍 14K • 💬 3K • ⏱️ 2:51 • 4d ago
+👁️ 336K • 👍 14K • 💬 3K • ⏱️ 2:51 • 5d ago
 
 ---
 
@@ -266,27 +277,17 @@ Anaksor destroyer Crisis. We used the Scorpion to counter the Anaksor last week 
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 241 • 💬 41 • ⏱️ 13:36 • 7h ago
+👁️ 6K • 👍 268 • 💬 42 • ⏱️ 13:36 • 9h ago
 
 ---
 
-**[China’s Most Human-Like Female Robot Is Going Viral Worldwide](https://www.youtube.com/watch?v=HnR1zquQb8Q)**
+**[This Robot Transforms Into ANYTHING! 😱🤖🔥](https://www.youtube.com/watch?v=myVpssHCBG0)**
 
-A female robot out of China is breaking the internet right now — and once you see why, you'll understand the reaction completely.
+A boy and a girl start fighting over an amazing robot... Suddenly, one of them takes the robot apart and challenges the other ...
 
-📺 AI Exposed
+📺 COTTON EXPLAINS
 
-👁️ 25K • 👍 244 • 💬 27 • ⏱️ 12:32 • 2d ago
-
----
-
-**[Humanoid robot begging for battery by asking for digital donations](https://www.youtube.com/watch?v=z6oCo9e7BEI)**
-
-A humanoid robot seen gesturing for digital donations on a Chengdu street has added a bizarre twist to China's robotics boom.
-
-📺 CGTN Europe
-
-👁️ 18K • 👍 259 • 💬 17 • ⏱️ 0:21 • 1d ago
+👁️ 36K • 💬 1 • ⏱️ 0:21 • 4d ago
 
 ---
 
