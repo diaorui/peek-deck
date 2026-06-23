@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-23T12:33:28.670245+00:00'
+updated: '2026-06-23T15:48:59.176895+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 12:33 UTC  
+**Last Updated:** June 23, 2026 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,443.75
+### $62,227.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.7%  
-**7d:** -3.1%  
-**30d:** -19.3%  
-**90d:** -9.2%  
-**1y:** -41.0%  
+**24h:** -3.9%  
+**7d:** -3.4%  
+**30d:** -19.5%  
+**90d:** -9.5%  
+**1y:** -41.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1249.44B
+**Market Cap:** $1247.67B
 Rank #1
 
-**Circulating Supply:** 20,046,831 BTC
+**Circulating Supply:** 20,046,884 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.5%
+-50.7%
 
 **All-Time Low:** $67.81
-+91876.1%
++91629.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 if you bought at every single all time high since 2013, the absolute worst possible timing every single time. You are still up. not a little. massively. the only way you actually lose is if you sell during the part that feels like this. that's it. that's the whole game. it was never more complicated than that.
 
-22h ago
+1d ago
 
 ---
 
@@ -89,7 +89,7 @@ if you bought at every single all time high since 2013, the absolute worst possi
 
 Earlier this month I participated in a public Bitcoin wallet recovery challenge involving a wallet that had been untouched for around 12 years. What I found most interesting was that the challenge wasn't about breaking Bitcoin's cryptography. Instead, it showed how quickly a large group can search a reduced solution space once enough information is known. The wallet was recovered in about 11 minutes by roughly 300 participants working independently. A few takeaways: Bitcoin itself wasn't "hacked." Security depends on protecting all recovery-related information, not just private keys. Small reductions in uncertainty can have a huge impact on how difficult a recovery problem is. Crowdsourcing can dramatically accelerate search and recovery efforts. I wrote up a detailed breakdown of what happened, how the challenge worked, and why it was solved so quickly: https://blog.flipflow.app/blog/cracking-a-12-year-old-bitcoin-wallet Happy to answer questions about the challenge or my experience participating.
 
-19h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Earlier this month I participated in a public Bitcoin wallet recovery challenge 
 
 In 2017, 2020, and 2023, institutions were supposedly coming. Then BlackRock and Fidelity launched a Bitcoin ETF. Now Franklin Templeton is launching a dedicated crypto investment division backed by $1.78 trillion in assets under management. At what point do we stop saying institutions are coming, and admit that institutions are already here?
 
-18h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ The bottom isn’t in. This place and other crypto communities is still too posi
 
 I keep seeing people talk about using their Bitcoin as collateral to borrow cash instead of selling it, and I understand the idea in theory. You keep exposure to BTC, avoid selling, and get fiat liquidity. But I still don’t understand how this works safely in real life. If a lender gives you money against your BTC, they need some way to recover the collateral if you default. And the only way they can really do that is if they control the coins, either through custody, a smart contract, or some kind of multisig setup. But once someone else has control, isn’t that already the risk? If the platform freezes withdrawals, gets hacked, goes bankrupt, changes terms, or acts shady, you could lose your Bitcoin even if you did nothing wrong. That feels like the opposite of the whole point of Bitcoin. Not your keys, not your coins. Is there actually a way to borrow against BTC where you still keep control of your coins?
 
-23h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ I keep seeing people talk about using their Bitcoin as collateral to borrow cash
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 19h ago
 
 ---
 
@@ -153,7 +153,7 @@ I've been spending a lot of time looking at the structural shifts in BTC's corre
 
 I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for the past day. How long does it usually take for them to process and send me my bitcoin. I was just wondering what other people's experience with them is.
 
-15h ago
+18h ago
 
 ---
 
@@ -161,47 +161,53 @@ I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for 
 
 ## Google News: "bitcoin"
 
-**[BTC analysis: SpaceX’s $600 billion plunge erased nearly half of bitcoin’s market cap in three days](https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days)**
+**[Live BTC markets: Bitcoin drop to $62,000 creates $700 million in liquidations](https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off)**
 
-The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.
+The fast decline in prices set off $700 million in forced liquidations across the market.
 
-CoinDesk • 6h ago
+CoinDesk • 7m ago
 
 ---
 
 **[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
 
-Barron's • 17h ago
+Barron's • 20h ago
 
 ---
 
-**[EXCLUSIVE: LM Funding Taps Bitcoin Mining Sites For New AI Infrastructure Push](https://finance.yahoo.com/technology/ai/articles/exclusive-lm-funding-taps-bitcoin-120102277.html)**
+**[These 3 Bitcoin Miner Stocks Are Riding the AI Data Center Boom](https://www.investing.com/analysis/these-3-bitcoin-miner-stocks-are-riding-the-ai-data-center-boom-200682639)**
 
-LM Funding America, Inc. (NASDAQ:LMFA) announced Tuesday it is expanding into high-performance computing and AI infrastructure with the purchase of its first AI GPU server hardware for deployment at its Oklahoma facility. The Bitcoin treasury and mining company said it is also marketing available power capacity at its Oklahoma and Mississippi facilities to qualified AI co-location and power hosting customers. AI Infrastructure Expansion LM Funding reports 26 megawatts of wholly owned operational
-
-Yahoo Finance • 32m ago
+Investing.com • 54m ago
 
 ---
 
-**[Live BTC markets: Bitcoin drop to $62,000 creates $700 million in liquidations](https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off)**
+**[Peter Schiff Challenges Billionaire Grant Cardone To Public Debate Over Bitcoin-Real Estate Model, Says It 'Solves Nothing'](https://finance.yahoo.com/real-estate/articles/peter-schiff-challenges-billionaire-grant-143103848.html)**
 
-The fast decline in prices set off $700 million in forced liquidations across the market.
+Renowned economist Peter Schiff critiqued on Sunday billionaire Grant Cardone‘s widely touted Bitcoin– real estate hybrid model and invited him to a public debate. Cardone’s Bitcoin + Real Estate Strategy Cardone has announced several similar Bitcoin purchases over the past year as part of the hybrid model fund he has pioneered. The investment architecture places both property assets and Bitcoin within a unified limited liability company structure. Cardone contends the vehicle is preferable to t
 
-CoinDesk • 48m ago
-
----
-
-**[Nakamoto Shuts Its Last Healthcare Clinics to Go All-In on Bitcoin](https://finance.yahoo.com/markets/crypto/articles/nakamoto-shuts-last-healthcare-clinics-121102771.html)**
-
-Nakamoto Inc. shut its legacy clinics on June 19, pivoting fully to Bitcoin media, asset management, and advisory.
-
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Hits Two-Week Low as Tech Selloff Sparks Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-06-23/bitcoin-hits-two-week-low-as-tech-selloff-sparks-risk-off-mood)**
+**[What Happens to Bitcoin and Crypto If the CLARITY Act Misses Its Deadline](https://finance.yahoo.com/markets/crypto/articles/happens-bitcoin-crypto-clarity-act-144215048.html)**
 
-Bloomberg • 1h ago
+If the CLARITY Act misses its pre-August recess window, the most likely outcome is not a crash but a slow bleed of the "passage ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor’s Strategy Buys $34.9 Million of Bitcoin Using Common Stock](https://www.bloomberg.com/news/articles/2026-06-22/michael-saylor-s-strategy-buys-34-9-million-of-bitcoin-using-common-stock)**
+
+Bloomberg • 19h ago
+
+---
+
+**[Hut 8 agrees to $2.35 million settlement in investor suit tied to US Bitcoin merger](https://www.theblock.co/post/405760/hut-8-agrees-to-2-35-million-settlement-in-investor-suit-tied-to-us-bitcoin-merger)**
+
+Hut 8 agreed to pay $2.35M to settle a securities class action over disclosure claims from its 2023 merger with U.S. Bitcoin Corp.
+
+The Block • 5h ago
 
 ---
 
@@ -209,15 +215,7 @@ Bloomberg • 1h ago
 
 One expert has seen no evidence that cryptocurrency will provide any protection against inflation for investors. What's behind the argument.
 
-Detroit Free Press • 1h ago
-
----
-
-**[Bitcoin's future as revolutionary as the smartphone, according to CoinDesk](https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html)**
-
-CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.
-
-CNBC • 2d ago
+Detroit Free Press • 4h ago
 
 ---
 
@@ -229,11 +227,11 @@ Aberdeen Insider • 2d ago
 
 ---
 
-**[Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?](https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders)**
+**[Trump’s White House Teases Quantum Push: Is Bitcoin’s Next Big Narrative Here?](https://finance.yahoo.com/markets/crypto/articles/trump-white-house-teases-quantum-191356598.html)**
 
-Trump’s recent executive orders will accelerate the U.S. quantum computing and post-quantum encryption timelines.
+A White House quantum push revives Bitcoin quantum risk as CZ debates freezing Satoshi's dormant coins after a fork.
 
-Bitcoin Magazine • 14h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -261,7 +259,7 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
 
-⬆️ 3 • 💬 1 • 5d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
+⬆️ 3 • 💬 1 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
 
 ---
 
@@ -275,15 +273,7 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 **[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
 
-⬆️ 2 • 💬 0 • 15h ago
-
----
-
-**[Show HN: Satd – a Bitcoin full node in Rust](https://news.ycombinator.com/item?id=48555262)**
-
-A Bitcoin Core-compatible full node in Rust. Contribute to epochbtc/satd development by creating an account on GitHub.
-
-⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/epochbtc/satd)
+⬆️ 2 • 💬 0 • 18h ago
 
 ---
 
@@ -307,7 +297,7 @@ CredScore turns raw wallet activity into a structured analyst briefing. Review r
 
 Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
 
-⬆️ 6 • 💬 2 • 5d ago • [CNBC](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)
+⬆️ 6 • 💬 2 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)
 
 ---
 
@@ -315,7 +305,7 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
 
-⬆️ 2 • 💬 0 • 7h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
+⬆️ 2 • 💬 0 • 10h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
 
 ---
 
@@ -323,13 +313,33 @@ Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is re
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Crashes as Global Markets Meltdown...](https://www.youtube.com/watch?v=reF-aXwPdDA)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 7K • 👍 580 • 💬 53 • ⏱️ 51:25 • 1h ago
+
+---
+
 **[When Will The Bitcoin Bear Market End?](https://www.youtube.com/watch?v=831S8BkI98Y)**
 
 Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how long it could last, and why the data suggests we ...
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 25 • ⏱️ 14:10 • 15h ago
+👁️ 31K • 👍 1K • 💬 25 • ⏱️ 14:10 • 18h ago
+
+---
+
+**[58K NEXT FOR BITCOIN!? VERY LIKELY...](https://www.youtube.com/watch?v=Ozau6nKZzE4)**
+
+PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
+
+📺 100XClub
+
+👁️ 5K • 👍 641 • 💬 142 • ⏱️ 5:56 • 5h ago
 
 ---
 
@@ -339,7 +349,7 @@ The US government is quietly turning AI into the next “too big to fail” indu
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 117 • ⏱️ 18:52 • 1d ago
+👁️ 18K • 👍 1K • 💬 126 • ⏱️ 18:52 • 1d ago
 
 ---
 
@@ -349,17 +359,35 @@ Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, t
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 92 • ⏱️ 15:35 • 15h ago
+👁️ 20K • 👍 2K • 💬 140 • ⏱️ 15:35 • 18h ago
 
 ---
 
-**[🚨 Bitcoin Is About to Surprise Everyone](https://www.youtube.com/watch?v=4Qe08nIYXnk)**
+**[What Binance Founder CZ Thinks About Bitcoin](https://www.youtube.com/watch?v=UKGaxkDcJXk)**
 
-Bitcoin price is pushing higher as traders assess the latest macro developments and shifting market sentiment. We cover Bitcoin ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 DataDash
+📺 CryptosRUs
 
-👁️ 3K • 👍 188 • 💬 20 • ⏱️ 16:57 • 20h ago
+👁️ 13K • 👍 700 • 💬 245 • ⏱️ 13:50 • 15h ago
+
+---
+
+**[BITCOIN: ACCUMULATION TIME](https://www.youtube.com/watch?v=M-N8kJyoxIY)**
+
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 6K • 👍 451 • 💬 193 • ⏱️ 16:05 • 15h ago
+
+---
+
+**[AI DESTROYING BITCOIN AND CRYPTO? #ai #bitcoin #finance](https://www.youtube.com/watch?v=4luxAeoemFQ)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 257 • 💬 8 • ⏱️ 1:56 • 18h ago
 
 ---
 
@@ -369,57 +397,17 @@ TIA WEEKLY REPORTS, GET ACCESS HERE → https://link.tiainvestor.com/jyt-reports
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 983 • 💬 51 • ⏱️ 31:13 • 10h ago
+👁️ 15K • 👍 1K • 💬 70 • ⏱️ 31:13 • 13h ago
 
 ---
 
-**[Bitcoin Bear Flag Confirmed, BUT THERE IS SOMETHING WORSE](https://www.youtube.com/watch?v=SR5gayuF4m0)**
+**[Bitcoin Holders: Stocks are Down But Bitcoin Is Up (Decoupling?)](https://www.youtube.com/watch?v=-ElSId6VIXo)**
 
-Bitcoin's bear flag has been fully validated after the price lost channel support and then wicked up to $65622 on Monday, ...
+In this video, I'm sharing about Saylor's companies, STRC's depeg, Iran updates and how they affect Bitcoin and the crypto market ...
 
-📺 Coin Bureau Trading
+📺 Aaron Bennett
 
-👁️ 4K • 👍 542 • 💬 40 • ⏱️ 22:24 • 6h ago
-
----
-
-**[BUYING BITCOIN HERE !!!! (NEW TRADE)](https://www.youtube.com/watch?v=lfNs6EuTTsE)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
-
-📺 Crypto Kid
-
-👁️ 2K • 👍 259 • 💬 122 • ⏱️ 6:50 • 6h ago
-
----
-
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=d71wYhwKpFY)**
-
-Let's provide an update to the Bitcoin bear market resistance band! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 70K • 👍 4K • 💬 112 • ⏱️ 7:22 • 1d ago
-
----
-
-**[BITCOIN.. let&#39;s just say it&#39;s B**](https://www.youtube.com/watch?v=2zXAhrPT-_4)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 10K • 👍 605 • 💬 365 • ⏱️ 10:17 • 16h ago
-
----
-
-**[This Crypto Opportunity Won&#39;t Stay Cheap For Long](https://www.youtube.com/watch?v=ZEg5WPm1OHk)**
-
-In today's live, Ran breaks down one of the most important investment narratives shaping 2026 and how it stacks up against ...
-
-📺 Crypto Banter
-
-👁️ 19K • 👍 1K • 💬 42 • ⏱️ 24:28 • 22h ago
+👁️ 2K • 👍 186 • 💬 40 • ⏱️ 11:18 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T12:33:28.675574+00:00'
+updated: '2026-06-23T15:48:59.182231+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 12:33 UTC  
+**Last Updated:** June 23, 2026 at 15:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.7%  
-**7d:** -5.2%  
-**30d:** -21.5%  
-**90d:** -19.5%  
-**1y:** -32.1%  
+**24h:** -5.1%  
+**7d:** -5.6%  
+**30d:** -21.8%  
+**90d:** -19.8%  
+**1y:** -32.4%  
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds separate builder deposit & exit contracts
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-28/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-28/) • 4d ago
 
 ---
 
@@ -118,7 +118,7 @@ Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds se
 
 https://preview.redd.it/hgewz657328h1.png?width=5235&format=png&auto=webp&s=1d9d034da533dbefeec0c1e172e5cc7fddd6d433 My latest article on Ethereum institutions (past, present, and future) and their political economy: Subtraction and Legitimacy The Funding Crisis Succession Planning Read/discuss/share here: Farcaster: https://farcaster.xyz/trent/0x9b4b522f Twitter https://x.com/trent_vanepps/status/2067593124398989551 Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction I believe this is a critical time to establish institutions for our next decade, and beyond. I worked at the Ethereum Foundation for 5 years coordinating core development, Protocol Guild funding, and political economy research. Subtraction successfully signals reduced EF power yet legitimacy stubbornly pools at the Foundation via brand, Vitalik affiliation, treasury, and assets. Treasury constraints and CIP expiration risk a slow-burning funding crisis that threatens institutional capacity for protocol maintenance and upgrades. EF will not steward Ethereum's next decade; a reset of social, political, and economic contracts is needed for effective institutional succession. New mechanisms must enable scalable neutral funding, steward interdependent resources, and prioritize broad adoption for the World Computer.
 
-4d ago
+5d ago
 
 ---
 
@@ -150,11 +150,33 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
+
+ethereum.org • 2h ago
+
+---
+
+**[Ethereum Foundation cuts 20% of staff amid leadership exodus](https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus)**
+
+The reduction follows a period of significant upheaval at the organization’s leadership level.
+
+CoinDesk • 2h ago
+
+---
+
+**[Robert Kiyosaki Says Bitcoin, Ethereum Remain On His Radar: 'I Think Our Global Leaders Are Incompetent'](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-says-bitcoin-ethereum-100109160.html)**
+
+"Rich Dad Poor Dad" author Robert Kiyosaki says he is closely watching Bitcoin, Ethereum, gold and silver for signs of a reversal, calling global leaders incompetent for making things worse. Falling Prices Do Not Determine Buying, Selling In an X post on June 20, Kiyosaki noted that falling prices alone do not determine whether he buys or sells an asset. "One mistake I have made (and I’ve made many) is letting price determine reasons to buy or sell any asset," he wrote. Don’t Miss: A single bad
+
+Yahoo Finance • 5h ago
+
+---
+
 **[Tom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use](https://finance.yahoo.com/markets/crypto/articles/tom-lee-joe-lubin-push-202428832.html)**
 
 Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -162,7 +184,7 @@ Yahoo Finance • 16h ago
 
 Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
 
-The Block • 16h ago
+The Block • 20h ago
 
 ---
 
@@ -170,31 +192,7 @@ The Block • 16h ago
 
 /PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
 
-PR Newswire • 18h ago
-
----
-
-**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin](https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/)**
-
-If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
-
-The Motley Fool • 2d ago
-
----
-
-**[Robert Kiyosaki Says Bitcoin, Ethereum Remain On His Radar: 'I Think Our Global Leaders Are Incompetent'](https://sg.finance.yahoo.com/news/robert-kiyosaki-says-bitcoin-ethereum-100109160.html)**
-
-"Rich Dad Poor Dad" author Robert Kiyosaki says he is closely watching Bitcoin, Ethereum, gold and silver for signs of a reversal, calling global leaders incompetent for making things worse. Falling Prices Do Not Determine Buying, Selling In an X post on June 20, Kiyosaki noted that falling prices alone do not determine whether he buys or sells an asset. "One mistake I have made (and I’ve made many) is letting price determine reasons to buy or sell any asset," he wrote. Don’t Miss: A single bad
-
-Yahoo Finance Singapore • 2h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $92 million ETH as Tom Lee reaffirms 'crypto spring' call](https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring)**
-
-The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
-
-CoinDesk • 23h ago
+PR Newswire • 21h ago
 
 ---
 
@@ -206,27 +204,27 @@ PR Newswire • 1d ago
 
 ---
 
+**[Current price of Ethereum for June 23, 2026](https://fortune.com/article/price-of-ethereum-06-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
 **[Are Ethereum Validators Vitalik Buterin’s New Cash Cow?](https://www.tradingview.com/news/99Bitcoins:b39a16b46094b:0-are-ethereum-validators-vitalik-buterin-s-new-cash-cow/)**
 
 In Ethereum news today, a new governance proposal would force Ethereum validators to redirect up to 10% of their ETH staking rewards toward ecosystem funding, and if a majority of validators signal support, every validator on the network gets swept in, whether they voted for it or not.At current st…
 
-TradingView • 21h ago
+TradingView • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 22, 2026](https://fortune.com/article/price-of-ethereum-06-22-2026/)**
+**[Ethereum Is the Cheapest It's Been in Years. Here's What History Says Happens Next.](https://www.fool.com/investing/2026/06/23/ethereum-is-the-cheapest-its-been-in-years/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Sometimes assets are in the bargain bin for a reason.
 
-Fortune • 22h ago
-
----
-
-**[Crypto News Today: AlphaPepe Nears Third CEX Partnership as Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-third-cex-partnership-as-ethereum-price-prediction-targets-7-000-1036267085)**
-
-MONACO, June  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as buyers watch speculation around a possible third CEX ...
-
-markets.businessinsider.com • 11h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -234,73 +232,23 @@ markets.businessinsider.com • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
-
-Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
-
-📺 Cointelegraph
-
-👁️ 2K • 👍 74 • 💬 7 • ⏱️ 14:55 • 18h ago
-
----
-
 **[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
 
 3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 159 • ⏱️ 13:42 • 1d ago
+👁️ 37K • 👍 2K • 💬 160 • ⏱️ 13:42 • 1d ago
 
 ---
 
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
 
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
 
-📺 Jake Gordon Crypto
+📺 Cointelegraph
 
-👁️ 981 • 👍 74 • 💬 23 • ⏱️ 14:40 • 19h ago
-
----
-
-**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
-
-No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
-
-📺 Gareth Soloway
-
-👁️ 70K • 👍 4K • 💬 226 • ⏱️ 15:20 • 1d ago
-
----
-
-**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
-
-MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
-
-📺 CryptoWendyO
-
-👁️ 4K • 👍 282 • 💬 19 • ⏱️ 29:19 • 18h ago
-
----
-
-**[🚨ЭФИРИУМ УМИРАЕТ..? | МАСК: «ПЕЧАТНЫЙ СТАНОК ЗАПУСТЯТ, КОГДА…»](https://www.youtube.com/watch?v=lZKoQ53k7xY)**
-
-Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
-
-📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
-
-👁️ 3K • 👍 676 • 💬 71 • ⏱️ 23:25 • 51m ago
-
----
-
-**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
-
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
-
-📺 Lark Davis
-
-👁️ 41K • 👍 1K • 💬 204 • ⏱️ 11:57 • 2d ago
+👁️ 2K • 👍 74 • 💬 7 • ⏱️ 14:55 • 21h ago
 
 ---
 
@@ -310,27 +258,77 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 115 • 👍 12 • ⏱️ 4:51 • 3h ago
+👁️ 178 • 👍 16 • 💬 24 • ⏱️ 4:51 • 7h ago
 
 ---
 
-**[🚨 BITCOIN PODRIA ESTAR CERCA de ESTE MOVIMIENTO!! 👉 ETHEREUM BITMINE NUEVA ESTRATEGIA](https://www.youtube.com/watch?v=Ib2lphSopfU)**
+**[Crypto Technical Analysis  Bitcoin  Ethereum  Solana And Alts](https://www.youtube.com/watch?v=IAwAeA4cnWo)**
 
-MIS EXCHANGES FAVORITOS: 1️⃣ 200 USDT GRATIS REGÍSTRATE AQUÍ: https://bit.ly/4uNp5km ...
+No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear gets situated, the bottom isn't in. In this video, Gareth ...
 
-📺 WhatsUpCripto
+📺 Gareth Soloway
 
-👁️ 1K • 👍 167 • 💬 34 • ⏱️ 10:32 • 15h ago
+👁️ 71K • 👍 4K • 💬 230 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[BTC &amp; ETHEREUM, Lage? Jetzt scheint sie klar zu sein, das wird in den nächsten Wochen passieren!](https://www.youtube.com/watch?v=1efLWJCLe74)**
+**[🚨ЭФИРИУМ УМИРАЕТ..? | МАСК: «ПЕЧАТНЫЙ СТАНОК ЗАПУСТЯТ, КОГДА…»](https://www.youtube.com/watch?v=lZKoQ53k7xY)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
+Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
 
-📺 Krypto Trading & Investing
+📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
 
-👁️ 3K • 👍 527 • 💬 61 • ⏱️ 10:15 • 8h ago
+👁️ 9K • 👍 2K • 💬 143 • ⏱️ 23:25 • 4h ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 1K • 👍 81 • 💬 48 • ⏱️ 14:40 • 22h ago
+
+---
+
+**[ETH Become the Next Bitcoin? Similarity Between BTC and ETH #cryptocurrency #cryptonews #BTC #ETH](https://www.youtube.com/watch?v=Nh2sggiXVtU)**
+
+Did Ethereum founder Vitalik Buterin just change the game for ETH investors? In a major public acknowledgment, Vitalik stated ...
+
+📺 SMC KAPIL DEV
+
+👁️ 2K • 👍 103 • 💬 75 • ⏱️ 6:17 • 13h ago
+
+---
+
+**[DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)](https://www.youtube.com/watch?v=TibSwyw7JNQ)**
+
+DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of the entire DeFi economy, why Ethereum's ten-year ...
+
+📺 The Rollup
+
+👁️ 1K • 👍 43 • 💬 9 • ⏱️ 6:42 • 20h ago
+
+---
+
+**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
+
+📺 Lark Davis
+
+👁️ 41K • 👍 1K • 💬 213 • ⏱️ 11:57 • 2d ago
+
+---
+
+**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
+
+MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 285 • 💬 19 • ⏱️ 29:19 • 21h ago
 
 ---
 
