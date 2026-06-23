@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-23T17:56:26.223772+00:00'
+updated: '2026-06-23T20:08:50.313443+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 17:56 UTC  
+**Last Updated:** June 23, 2026 at 20:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,356.20
+### $62,360.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** -3.3%  
-**30d:** -19.4%  
-**90d:** -9.4%  
-**1y:** -41.1%  
+**24h:** -2.8%  
+**7d:** -3.1%  
+**30d:** -19.2%  
+**90d:** -9.2%  
+**1y:** -41.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1251.26B
+**Market Cap:** $1251.14B
 Rank #1
 
-**Circulating Supply:** 20,046,943 BTC
+**Circulating Supply:** 20,046,987 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.5%
 
 **All-Time Low:** $67.81
-+91898.2%
++91914.5%
 
 ---
 
@@ -97,7 +97,7 @@ Earlier this month I participated in a public Bitcoin wallet recovery challenge 
 
 In 2017, 2020, and 2023, institutions were supposedly coming. Then BlackRock and Fidelity launched a Bitcoin ETF. Now Franklin Templeton is launching a dedicated crypto investment division backed by $1.78 trillion in assets under management. At what point do we stop saying institutions are coming, and admit that institutions are already here?
 
-23h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ I keep seeing people talk about using their Bitcoin as collateral to borrow cash
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 23h ago
 
 ---
 
@@ -153,7 +153,7 @@ I've been spending a lot of time looking at the structural shifts in BTC's corre
 
 I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for the past day. How long does it usually take for them to process and send me my bitcoin. I was just wondering what other people's experience with them is.
 
-20h ago
+23h ago
 
 ---
 
@@ -161,25 +161,39 @@ I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for 
 
 ## Google News: "bitcoin"
 
-**[Live BTC markets: Bitcoin drop to $62,000 creates $700 million in liquidations](https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off)**
+**[Bitcoin price analysis: BTC may be close to a bottom. Here's why.](https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests)**
 
-The fast decline in prices set off $700 million in forced liquidations across the market.
+BTC's long-term moving averages are set to flash a bearish signal soon. Yet, its good news for the bulls.
 
-CoinDesk • 2h ago
+CoinDesk • 11h ago
 
 ---
 
 **[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
 
-Barron's • 22h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin’s Famous Rainbow Chart May Be Breaking in Real Time](https://finance.yahoo.com/markets/crypto/articles/bitcoin-famous-rainbow-chart-may-173000436.html)**
+**[Bitcoin Hits $61,877 as Tech Selloff Pressures Crypto](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-61-877-tech-190330188.html)**
 
-Bitcoin fell below the rainbow chart's floor band as stock-to-flow collapses. Is the rainbow chart the next broken model?
+Bitcoin, Ether and crypto-linked stocks fell as risk assets weakened across global markets.
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Watch Strive Is Buying Bitcoin Hand-Over-Fist, CEO Says](https://www.bloomberg.com/news/videos/2026-06-23/strive-is-buying-bitcoin-hand-over-fist-ceo-says-video)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[Inflation run-up doesn't mean you should run toward cryptocurrency](https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/23/bitcoin-investment-buzzes-as-an-inflation-hedge-but-is-it/90606419007/)**
+
+One expert has seen no evidence that cryptocurrency will provide any protection against inflation for investors. What's behind the argument.
+
+Detroit Free Press • 9h ago
 
 ---
 
@@ -195,15 +209,15 @@ CNBC • 3d ago
 
 Hut 8 agreed to pay $2.35M to settle a securities class action over disclosure claims from its 2023 merger with U.S. Bitcoin Corp.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**['Bitcoin Is Gone In Four Years'—Gold CEO Warning: Goldman Eyes $5,400](https://www.forbes.com/sites/boazsobrado/2026/06/23/bitcoin-is-gone-in-four-years-gold-ceo-warning-goldman-eyes-5400/)**
+**[Gold, Silver, Bitcoin, or Dividend Stocks: What's the Best Safe-Haven Option Right Now?](https://www.fool.com/investing/2026/06/23/gold-silver-bitcoin-or-dividend-stocks-whats-the-b/)**
 
-Vaulted CEO David McAlvany says quantum computing could end Bitcoin within four years as central banks pile into gold. Olympian Lauryn Williams is now paid in metal.
+If you're worried about the S&P 500's high-tech exposure and its record levels, now may be a good time to consider safer investments.
 
-Forbes • 2h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -211,7 +225,7 @@ Forbes • 2h ago
 
 Trump accelerates US quantum ambitions. Bitcoin faces growing quantum concerns. The crypto industry is already preparing. President Donald Trump on Monday signed two executive orders ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -219,21 +233,7 @@ Yahoo Finance • 6h ago
 
 The White House issued twin executive orders to accelerate U.S. development of large-scale quantum computers while simultaneously hardening defenses against such machines.
 
-CoinDesk • 12h ago
-
----
-
-**[Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?](https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders)**
-
-Trump’s recent executive orders will accelerate the U.S. quantum computing and post-quantum encryption timelines.
-
-Bitcoin Magazine • 20h ago
-
----
-
-**[Bitcoin ticks up on positive U.S.-Iran talks, but gains capped by rate hike bets](https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-64k-amid-mixed-signals-on-usiran-talks-4751794)**
-
-Investing.com • 20h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -267,7 +267,7 @@ Energy is the FUD claim that comes up most often, full stop. The honest version:
 
 **[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
 
-⬆️ 2 • 💬 0 • 21h ago
+⬆️ 2 • 💬 0 • 23h ago
 
 ---
 
@@ -291,7 +291,7 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
 
-⬆️ 2 • 💬 0 • 12h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
+⬆️ 2 • 💬 0 • 14h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
 
 ---
 
@@ -299,13 +299,23 @@ Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is re
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Can&#39;t Find a Floor. Here&#39;s Where It Actually Stops.](https://www.youtube.com/watch?v=H8mv_XIzqVE)**
+
+Everybody's asking the same question: where's the bottom? But that's the wrong question, and it could cost you. There's a different ...
+
+📺 Mark Moss
+
+👁️ 3K • 👍 395 • 💬 24 • ⏱️ 17:22 • 1h ago
+
+---
+
 **[Bitcoin Crashes as Global Markets Meltdown...](https://www.youtube.com/watch?v=reF-aXwPdDA)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 737 • 💬 164 • ⏱️ 51:25 • 3h ago
+👁️ 13K • 👍 819 • 💬 71 • ⏱️ 51:25 • 5h ago
 
 ---
 
@@ -315,37 +325,7 @@ Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how
 
 📺 Anthony Pompliano
 
-👁️ 33K • 👍 1K • 💬 25 • ⏱️ 14:10 • 20h ago
-
----
-
-**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
-
-Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 611 • 💬 93 • ⏱️ 20:58 • 5h ago
-
----
-
-**[58K NEXT FOR BITCOIN!? VERY LIKELY...](https://www.youtube.com/watch?v=Ozau6nKZzE4)**
-
-PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
-
-📺 100XClub
-
-👁️ 6K • 👍 686 • 💬 206 • ⏱️ 5:56 • 7h ago
-
----
-
-**[Global Markets Melt Down as Bitcoin Weakens!](https://www.youtube.com/watch?v=mQ48H4dyk7M)**
-
-Markets are under pressure, and the warning signs are starting to pile up. In this video, Ran breaks down the key signals that ...
-
-📺 Crypto Banter
-
-👁️ 9K • 👍 898 • 💬 12 • ⏱️ 32:06 • 3h ago
+👁️ 36K • 👍 1K • 💬 25 • ⏱️ 14:10 • 23h ago
 
 ---
 
@@ -355,17 +335,7 @@ Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, t
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 211 • ⏱️ 15:35 • 20h ago
-
----
-
-**[A Home Bitcoin Miner That Actually Makes Sense?](https://www.youtube.com/watch?v=i9hnRm6focE)**
-
-805 Mining https://805mining.com/product/s21-slim/ Bitcoin Efficiency Sheet ...
-
-📺 Red Panda Mining
-
-👁️ 2K • 👍 117 • 💬 32 • ⏱️ 15:34 • 6h ago
+👁️ 21K • 👍 2K • 💬 80 • ⏱️ 15:35 • 22h ago
 
 ---
 
@@ -375,17 +345,37 @@ The US government is quietly turning AI into the next “too big to fail” indu
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 151 • ⏱️ 18:52 • 1d ago
+👁️ 18K • 👍 1K • 💬 88 • ⏱️ 18:52 • 1d ago
 
 ---
 
-**[BITCOIN: ACCUMULATION TIME](https://www.youtube.com/watch?v=M-N8kJyoxIY)**
+**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
 
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Jordan Camirand
+📺 Lark Davis
 
-👁️ 7K • 👍 469 • 💬 267 • ⏱️ 16:05 • 17h ago
+👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 7h ago
+
+---
+
+**[58K NEXT FOR BITCOIN!? VERY LIKELY...](https://www.youtube.com/watch?v=Ozau6nKZzE4)**
+
+PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
+
+📺 100XClub
+
+👁️ 6K • 👍 716 • 💬 207 • ⏱️ 5:56 • 10h ago
+
+---
+
+**[How Much Bitcoin You Actually Need to Retire (Exact Math)](https://www.youtube.com/watch?v=GmgkgE9B8ew)**
+
+You've been told you need 15 Bitcoin to retire. The real number is closer to 4. The 4% rule was written in 1994 for stocks and ...
+
+📺 Trey Sellers
+
+👁️ 8K • 👍 247 • 💬 128 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -395,7 +385,17 @@ Philippe Laffont, Coatue Management founder and portfolio manager, joins 'Squawk
 
 📺 CNBC Television
 
-👁️ 17K • 👍 302 • 💬 116 • ⏱️ 8:41 • 5h ago
+👁️ 22K • 👍 340 • 💬 139 • ⏱️ 8:41 • 7h ago
+
+---
+
+**[Bitcoin: This Is About to Reshape History](https://www.youtube.com/watch?v=2_VYpBDdxsM)**
+
+TIA WEEKLY REPORTS, GET ACCESS HERE → https://link.tiainvestor.com/jyt-reports TIA 18-YEAR CYCLE MINI-COURSE, ...
+
+📺 Jason Pizzino
+
+👁️ 17K • 👍 1K • 💬 64 • ⏱️ 31:13 • 17h ago
 
 ---
 

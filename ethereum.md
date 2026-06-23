@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T17:56:26.229037+00:00'
+updated: '2026-06-23T20:08:50.318989+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 17:56 UTC  
+**Last Updated:** June 23, 2026 at 20:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,652.59
+### $1,653.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** -5.5%  
-**30d:** -21.7%  
-**90d:** -19.7%  
-**1y:** -32.3%  
+**24h:** -3.7%  
+**7d:** -4.8%  
+**30d:** -21.1%  
+**90d:** -19.1%  
+**1y:** -31.8%  
 
 ---
 
@@ -88,7 +88,7 @@ I wrapped some ETH a long time ago and completely forgot about it. I just notice
 
 earlier this year, i reconnected with my good friend, Jimmy Johnson, a 5 year Polkadot dev vet, fresh off leading his team's JAM client build. we travelled together to the east coast of Taiwan where we touched the surf and had many a conversations with which i had the privilege of recording. but what i managed to capture was less the technical discourse i was expecting in a conversation with a senior blockchain dev but a cultural one. <jackpot.> jimmy's worked across two huge dev ecosystems: Polkadot and Ethereum. he likes both. but the thing he misses most about Ethereum, is its penchance for client, and hence, thought diversity. no other ecosystem really do it quite the way ethereum does it, no? 9 different teams, all different languages, all different design philosophies, yet all building the same protocol. and the deeper point he made: that kind of diversity only happens when you treat protocol development as a community problem, not a technology problem. polkadot's architecture is technically impressive. jimmy would know. he spent years deep in the relay chain, Gossamer, JAM. but the gap he sees isn't engineering but the culture of how decisions get made, how clients coordinate, how weirdos (my words) are welcomed. he also questioned the "scale at all costs" framing that's been dominant in the crypto meta lately. his take: there's a path where crypto scales, institutions pile in, and we end up with "a little bit better of a tradfi system", but we lose 95% of what made crypto matter in the first place. vs. a path where we sacrifice some growth and keep the counterculture intact for the people who actually need it. he leans toward path two. i couldnt agree more. the video above is the 1 minute cold-open for my 13 minute cut of our interview over 3-4 days. you can watch the full version on my youtube channel at: https://youtu.be/rqsYKd3f8fc ------------ if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-3d ago
+4d ago
 
 ---
 
@@ -150,33 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
-
-ethereum.org • 4h ago
-
----
-
 **[Ethereum Foundation cuts 20% of staff amid leadership exodus](https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus)**
 
 The reduction follows a period of significant upheaval at the organization’s leadership level.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Ethereum Foundation Cuts 20% of Staff in Restructuring](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-cuts-20-staff-172319275.html)**
+**[Pocket Network Foundation Co-Authors Ethereum Standard for Decentralized AI Agent Validation](https://markets.businessinsider.com/news/stocks/pocket-network-foundation-co-authors-ethereum-standard-for-decentralized-ai-agent-validation-1036269754)**
 
-The Ethereum Foundation cut 54 staff and reorganized around five clusters, one day after former EF researchers launched the independent lab Ethlabs.
+PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the tru...
 
-Yahoo Finance • 33m ago
+markets.businessinsider.com • 32m ago
 
 ---
 
-**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+**[Bitmine Immersion Technologies (BMNR) Stock Gets A Russell 1000 Angle And An Ethereum Backer Role](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-stock-191324065.html)**
 
-/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+Bitmine Immersion Technologies (NYSE:BMNR) has become eligible for potential inclusion in the Russell 1000 index, putting the stock on the radar of large passive index trackers. The company has also helped launch Ethlabs, a new Ethereum research nonprofit backed by Bitmine, Joe Lubin, and SharpLink, aimed at accelerating institutional adoption of Ethereum. Bitmine Immersion Technologies sits at the intersection of crypto infrastructure and traditional capital markets. NYSE:BMNR last closed...
 
-PR Newswire • 23h ago
+Yahoo Finance • 55m ago
 
 ---
 
@@ -184,21 +178,21 @@ PR Newswire • 23h ago
 
 Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+
+/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+
+PR Newswire • 1d ago
 
 ---
 
 **[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
 
 Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
-
-The Block • 22h ago
-
----
-
-**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
-
-Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
 
 The Block • 1d ago
 
@@ -208,15 +202,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
-
----
-
-**[Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-92-151830218.html)**
-
-The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.
-
-Yahoo Finance • 1d ago
+Fortune • 7h ago
 
 ---
 
@@ -225,6 +211,26 @@ Yahoo Finance • 1d ago
 Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine's Series A Preferred...
 
 PR Newswire • 1d ago
+
+---
+
+**[This company owns 5% of all ethereum—and it hits your 401(k) soon](https://finance.yahoo.com/video/company-owns-5-ethereum-hits-170250791.html)**
+
+Scott Melker discusses ethereum, BitMine Immersion Technologies, 401(k)s, Robinhood, and other big crypto headlines.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $92 million ETH as Tom Lee reaffirms 'crypto spring' call](https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring)**
+
+The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -238,7 +244,7 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 1K • 👍 109 • 💬 7 • ⏱️ 14:53 • 1h ago
+👁️ 3K • 👍 215 • 💬 50 • ⏱️ 14:53 • 3h ago
 
 ---
 
@@ -248,7 +254,17 @@ Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 12K • 👍 611 • 💬 93 • ⏱️ 20:58 • 5h ago
+👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 7h ago
+
+---
+
+**[BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=1f-UghrL7Ho)**
+
+BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 843 • 👍 85 • 💬 29 • ⏱️ 21:18 • 45m ago
 
 ---
 
@@ -268,7 +284,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 74 • 💬 7 • ⏱️ 14:55 • 23h ago
+👁️ 3K • 👍 77 • 💬 7 • ⏱️ 14:55 • 1d ago
 
 ---
 
@@ -278,7 +294,7 @@ Open an account at iTrust Capital and legally avoid taxes on your bitcoin and cr
 
 📺 Brian Harrington
 
-👁️ 339 • 👍 32 • 💬 9 • ⏱️ 9:26 • 2h ago
+👁️ 657 • 👍 56 • 💬 21 • ⏱️ 9:26 • 4h ago
 
 ---
 
@@ -288,7 +304,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 221 • 👍 17 • 💬 23 • ⏱️ 4:51 • 9h ago
+👁️ 251 • 👍 17 • ⏱️ 4:51 • 11h ago
+
+---
+
+**[📉 Ethereum Could Drop 30% More vs Bitcoin](https://www.youtube.com/watch?v=kMOaSswckiQ)**
+
+Ethereum has been quietly losing ground to Bitcoin, and the one buyer propping it up has stopped. A 30% further drop before it ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 64 • 👍 2 • 💬 1 • ⏱️ 0:53 • 2h ago
 
 ---
 
@@ -298,37 +324,17 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 71K • 👍 4K • 💬 231 • ⏱️ 15:20 • 1d ago
+👁️ 72K • 👍 4K • 💬 231 • ⏱️ 15:20 • 2d ago
 
 ---
 
-**[🚨ЭФИРИУМ УМИРАЕТ..? | МАСК: «ПЕЧАТНЫЙ СТАНОК ЗАПУСТЯТ, КОГДА…»](https://www.youtube.com/watch?v=lZKoQ53k7xY)**
+**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
 
-Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
 
-📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 12K • 👍 2K • 💬 165 • ⏱️ 23:25 • 6h ago
-
----
-
-**[DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)](https://www.youtube.com/watch?v=TibSwyw7JNQ)**
-
-DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of the entire DeFi economy, why Ethereum's ten-year ...
-
-📺 The Rollup
-
-👁️ 1K • 👍 45 • 💬 10 • ⏱️ 6:42 • 22h ago
-
----
-
-**[ETH Become the Next Bitcoin? Similarity Between BTC and ETH #cryptocurrency #cryptonews #BTC #ETH](https://www.youtube.com/watch?v=Nh2sggiXVtU)**
-
-Did Ethereum founder Vitalik Buterin just change the game for ETH investors? In a major public acknowledgment, Vitalik stated ...
-
-📺 SMC KAPIL DEV
-
-👁️ 2K • 👍 109 • 💬 98 • ⏱️ 6:17 • 15h ago
+👁️ 2K • 👍 64 • 💬 7 • ⏱️ 10:15 • 1d ago
 
 ---
 
