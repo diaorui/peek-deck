@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T01:30:42.826411+00:00'
+updated: '2026-06-23T05:49:19.508547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 01:30 UTC  
+**Last Updated:** June 23, 2026 at 05:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -1.0%  
-**30d:** -18.0%  
-**90d:** -15.9%  
-**1y:** -29.1%  
+**24h:** -1.2%  
+**7d:** -2.1%  
+**30d:** -18.9%  
+**90d:** -16.8%  
+**1y:** -29.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $209.74B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-64.9%
 
 **All-Time Low:** $0.43
-+411779.1%
++401164.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -96,7 +96,7 @@ earlier this year, i reconnected with my good friend, Jimmy Johnson, a 5 year Po
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -134,7 +134,7 @@ Picked up a portfolio of branded .eth domains, a few are real company names (air
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
 
-The Block • 15h ago
+The Block • 19h ago
 
 ---
 
@@ -162,7 +162,23 @@ The Block • 15h ago
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
+
+---
+
+**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+
+/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+
+PR Newswire • 11h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $92 million ETH as Tom Lee reaffirms 'crypto spring' call](https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring)**
+
+The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
+
+CoinDesk • 16h ago
 
 ---
 
@@ -170,31 +186,7 @@ The Motley Fool • 1d ago
 
 Bitcoin opened at $63,242.26 on Monday, June 22, 2026, 1.6% lower than Sunday's opening price. Ethereum opened at $1,704.90 on Monday, down 2% from Sunday's opening price.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Sharplink backs Ethlabs to prep Ethereum for institutional adoption](https://www.stocktitan.net/news/SBET/ethlabs-founded-by-former-ethereum-foundation-contributors-and-uoe6q75njkrz.html)**
-
-Bitmine, Sharplink and Joe Lubin are funding an independent nonprofit lab led by former Ethereum Foundation researchers to support faster settlement and scaling.
-
-Stock Titan • 4h ago
-
----
-
-**[TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY](https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny)**
-
-Baillie Gifford Enhanced Yield Fund (BAGEY) is denominated in dollars, and gives eligible investors access to an actively managed, short-duration portfolio of public corporate bonds.
-
-CoinDesk • 13h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers, Ethereum clings to support, XRP consolidates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-ethereum-clings-to-support-xrp-consolidates-202606220405)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
-
-FXStreet • 21h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -202,13 +194,29 @@ FXStreet • 21h ago
 
 MONACO, June  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as buyers watch speculation around a possible third CEX ...
 
-markets.businessinsider.com • 20m ago
+markets.businessinsider.com • 4h ago
+
+---
+
+**[Ethereum Foundation's strategy chief lays out plan to kill MEV and make privacy a protocol default](https://cryptobriefing.com/ethereum-foundation-mev-elimination-privacy-plan/)**
+
+Ethereum Foundation strategy chief Bastian Aue outlines a six-part plan to eliminate toxic MEV, make privacy a protocol default, and shift EF compensation
+
+Crypto Briefing • 10h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers, Ethereum clings to support, XRP consolidates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-ethereum-clings-to-support-xrp-consolidates-202606220405)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
+
+FXStreet • 1d ago
 
 ---
 
 **[Key facts: ETF Approvals Fail; 50k-ETH Short Raised; Japan Reclassifies](https://www.tradingview.com/news/tradingview:a7bb538cc4008:0-key-facts-etf-approvals-fail-50k-eth-short-raised-japan-reclassifies/)**
 
-TradingView • 13h ago
+TradingView • 17h ago
 
 ---
 
@@ -216,15 +224,7 @@ TradingView • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Bitmine Approaches Giant Ethereum Supply Goal as Tom Lee Teases A New Crypto Spring](https://www.tipranks.com/news/bitmine-approaches-giant-ethereum-supply-goal-as-tom-lee-teases-a-new-crypto-spring)**
-
-Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
-
-TipRanks • 8h ago
+Fortune • 16h ago
 
 ---
 
@@ -232,23 +232,23 @@ TipRanks • 8h ago
 
 ## YouTube Videos: "ethereum"
 
-**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
-
-Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
-
-📺 Cointelegraph
-
-👁️ 884 • 👍 48 • 💬 2 • ⏱️ 14:55 • 7h ago
-
----
-
 **[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
 
 3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 212 • ⏱️ 13:42 • 1d ago
+👁️ 36K • 👍 2K • 💬 177 • ⏱️ 13:42 • 1d ago
+
+---
+
+**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
+
+Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
+
+📺 Cointelegraph
+
+👁️ 1K • 👍 61 • 💬 2 • ⏱️ 14:55 • 11h ago
 
 ---
 
@@ -258,37 +258,7 @@ DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of t
 
 📺 The Rollup
 
-👁️ 531 • 👍 24 • 💬 3 • ⏱️ 6:42 • 6h ago
-
----
-
-**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 1K • 👍 44 • 💬 4 • ⏱️ 10:15 • 9h ago
-
----
-
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
-
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
-
-📺 Jake Gordon Crypto
-
-👁️ 607 • 👍 45 • 💬 19 • ⏱️ 14:40 • 8h ago
-
----
-
-**[Ethereum Resistance Could Trigger A Much Bigger Crash](https://www.youtube.com/watch?v=Dx9l8XLPRN4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 246 • 👍 14 • 💬 1 • ⏱️ 6:13 • 7h ago
+👁️ 860 • 👍 40 • 💬 4 • ⏱️ 6:42 • 10h ago
 
 ---
 
@@ -298,7 +268,17 @@ MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) 
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 256 • 💬 10 • ⏱️ 29:19 • 7h ago
+👁️ 3K • 👍 274 • 💬 11 • ⏱️ 29:19 • 11h ago
+
+---
+
+**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 1K • 👍 49 • 💬 5 • ⏱️ 10:15 • 14h ago
 
 ---
 
@@ -308,7 +288,7 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 38K • 👍 1K • 💬 216 • ⏱️ 11:57 • 1d ago
+👁️ 39K • 👍 1K • 💬 207 • ⏱️ 11:57 • 1d ago
 
 ---
 
@@ -318,17 +298,37 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 68K • 👍 4K • 💬 227 • ⏱️ 15:20 • 1d ago
+👁️ 69K • 👍 4K • 💬 226 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[&quot;This is Why ETH Is Going To $22,000 Per Coin, 1 ETH Will Be Huge!&quot;: Tom Lee | Eth Price 2026](https://www.youtube.com/watch?v=DCxZzEvVBig)**
+**[🚨 BITCOIN PODRIA ESTAR CERCA de ESTE MOVIMIENTO!! 👉 ETHEREUM BITMINE NUEVA ESTRATEGIA](https://www.youtube.com/watch?v=Ib2lphSopfU)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+MIS EXCHANGES FAVORITOS: 1️⃣ 200 USDT GRATIS REGÍSTRATE AQUÍ: https://bit.ly/4uNp5km ...
 
-📺 Crypto Nutshell
+📺 WhatsUpCripto
 
-👁️ 6K • 👍 206 • 💬 120 • ⏱️ 18:36 • 2d ago
+👁️ 1K • 👍 148 • 💬 37 • ⏱️ 10:32 • 8h ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 781 • 👍 56 • 💬 9 • ⏱️ 14:40 • 12h ago
+
+---
+
+**[Ethereum Resistance Could Trigger A Much Bigger Crash](https://www.youtube.com/watch?v=Dx9l8XLPRN4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 335 • 👍 15 • 💬 1 • ⏱️ 6:13 • 12h ago
 
 ---
 

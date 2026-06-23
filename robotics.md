@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-23T01:30:42.829636+00:00'
+updated: '2026-06-23T05:49:19.510802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 23, 2026 at 01:30 UTC  
+**Last Updated:** June 23, 2026 at 05:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the development process so far: https://vt.tiktok.com/ZSCJJAqr6/
 
-11h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 In this python simulation: a robot spins a sensor and receives the distance. I made the distance more inaccurate the farther it is from a wall. The white lines are the actual walls The green dots are the raw, inaccurate data points the blue lines are my attempt at trying to interpret the data points into walls The algorithm works like this: For every green dot, if there are two close dots, it finds the best fit line, deletes the middle dot, and moves the other two onto the best fit line. This averages out the slopes between the green dots to allow for slope comparison. For every green dot, if the angle of the lines connected the green dot in front and behind are similar, then they are clipped into just two dots (similar to the first filter). However, as you can see, it is making walls even farther off from the green points, especially for vertical sections. I suspect this is because I'm using y=mx+b, and the slope for a vertical line is undefined, so I think the algorithm has a hard time approaching that. For context, I'm an incoming freshman trying to design an algorithm for a roomba without any prior knowledge on SLAM algorithms, so I would greatly appreciate any resources for a better implementation or just general feedback.
 
-10h ago
+14h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal wa
 
 Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel grant on the IROS 2026 website this time, the only grant available is the IES-SYPA grant for upto 15 people. Is this not really less compared to any previous editions?
 
-21h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel gran
 
 I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visualize how deep the field gets. What would you move up, move down, or add? I'm curious to see what experienced roboticists think belongs at the deepest level.
 
-11h ago
+15h ago
 
 ---
 
@@ -94,7 +94,7 @@ I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visua
 
 **[Walking robot 3d printed, 4 servos and. Arduino](https://www.reddit.com/r/robotics/comments/1ubhagk/walking_robot_3d_printed_4_servos_and_arduino/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -114,39 +114,15 @@ I released MetriPlane v0.2.0 and am preparing a SoftwareX research-software pape
 
 NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
 
-NVIDIA Newsroom • 12h ago
+NVIDIA Newsroom • 16h ago
 
 ---
 
-**[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams](https://www.businessinsider.com/ukraine-turning-robots-mobile-weapons-hunt-russia-infiltration-groups-2026-6)**
+**[Oversonic Robotics: STMicroelectronics, Fondazione ENEA Tech Biomedical and SpotInvest acquire a stake in the Company](https://sg.finance.yahoo.com/news/oversonic-robotics-stmicroelectronics-fondazione-enea-053000362.html)**
 
-Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."
+Oversonic Robotics, the Italian cognitive robotics company creator of RoBee, the first certified cognitive humanoid robot designed to operate in complex environments, announces that STMicroelectronics, Fondazione ENEA Tech Biomedical and SpotInvest have entered the Company's share capital to accelerate its industrial, technological, and international development. The entry of the new shareholders is aimed at supporting Oversonic's industrial, technological and international growth and at strengt
 
-Business Insider • 3d ago
-
----
-
-**[Rocket Lab (RKLB) Just Added Motiv Robotics And Sent Another Synspective Satellite Up](https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-just-added-042857432.html)**
-
-Rocket Lab (NasdaqGS:RKLB) has completed its acquisition of Motiv Space Systems, adding Mars-proven robotic technology to its space systems offering. The company has begun integrating Motiv's robotics into its broader space infrastructure and exploration capabilities. Rocket Lab recently completed another dedicated Electron launch for Synspective, delivering a radar imaging satellite to orbit. These developments expand Rocket Lab's role as an end-to-end space systems provider across launch,...
-
-Yahoo Finance • 21h ago
-
----
-
-**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
-
-Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
-
-Crunchbase News • 14h ago
-
----
-
-**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
-
-China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
-
-Financial Times • 18h ago
+Yahoo Finance Singapore • 19m ago
 
 ---
 
@@ -154,7 +130,31 @@ Financial Times • 18h ago
 
 Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
 
-The Robot Report • 12h ago
+The Robot Report • 16h ago
+
+---
+
+**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
+
+China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
+
+Financial Times • 23h ago
+
+---
+
+**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
+
+Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
+
+Crunchbase News • 18h ago
+
+---
+
+**[Largest robotics, artificial intelligence show in North America, Automate, at McCormick Place in Chicago this week](https://abc7chicago.com/post/largest-robotics-artificial-intelligence-show-north-america-automate-mccormick-place-chicago-week/19357412/)**
+
+The largest robotics and artificial intelligence show in North America is currently in Chicago.
+
+ABC7 Chicago • 6h ago
 
 ---
 
@@ -162,7 +162,16 @@ The Robot Report • 12h ago
 
 Tesla (TSLA) is valued at more than $1.2 trillion. The automotive business holding that number up is shrinking. Full-year 2025 revenue came in at $94.8 billion, down 3 percent, the company's first annual revenue decline ever. Auto revenue fell 10 percent to $69.5 billion, margins are tighter, and BYD and other Chinese automakers keep gaining global share.
 
-Trefis • 12h ago
+Trefis • 16h ago
+
+---
+
+**[Can robots and artificial intelligence solve the issue of a skilled generation nearing retirement?](https://www.post-gazette.com/business/tech-news/2026/06/22/gecko-robotics-artificial-intelligence-workforce/stories/202606100056)**
+
+Some see advancements in robotics and artificial intelligence as a threat to the workforce.
+Others see it as an indicator of who and what “got left...
+
+Pittsburgh Post-Gazette • 21h ago
 
 ---
 
@@ -172,20 +181,11 @@ NewsNation • 6h ago
 
 ---
 
-**[Army looks to small UGVs as Ukraine war reshapes battlefield robotics](https://smallwarsjournal.com/2026/06/19/army-small-ugvs-battlefield-robotics/)**
+**[AI robots kick Denver's recycling into high gear](https://www.denver7.com/decodedc/technology/ai-robots-kick-denvers-recycling-into-high-gear)**
 
-WASHINGTON – James Crowell, the founder and CEO of unmanned ground vehicle manufacturer Crow Industries, did not go into business intending to build a machine of war. When Crowell started his company in Scottsdale, Arizona, he saw the vehicles commonly referred to as UGVs as a tool for exploring the cosmos. To make humanity’s interplanetary expansion possible, his team built … Read more
+Robots powered by artificial intelligence are making recycling more efficient at a facility taking in waste from all over the Denver metro.
 
-Small Wars Journal • 3d ago
-
----
-
-**[Can robots and artificial intelligence solve the issue of a skilled generation nearing retirement?](https://www.post-gazette.com/business/tech-news/2026/06/22/gecko-robotics-artificial-intelligence-workforce/stories/202606100056)**
-
-Some see advancements in robotics and artificial intelligence as a threat to the workforce.
-Others see it as an indicator of who and what “got left...
-
-Pittsburgh Post-Gazette • 17h ago
+Denver7 • 12h ago
 
 ---
 
@@ -199,7 +199,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 30K • 👍 825 • 💬 134 • ⏱️ 13:45 • 1d ago
+👁️ 33K • 👍 869 • 💬 143 • ⏱️ 13:45 • 1d ago
 
 ---
 
@@ -209,35 +209,7 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 341K • 👍 14K • 💬 3K • ⏱️ 2:51 • 5d ago
-
----
-
-**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
-
-At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
-
-📺 CGTN Europe
-
-👁️ 17K • 👍 85 • 💬 13 • ⏱️ 0:49 • 2d ago
-
----
-
-**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
-
-📺 Army Clips
-
-👁️ 225K • 👍 7K • 💬 141 • ⏱️ 0:58 • 2d ago
-
----
-
-**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
-
-Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
-
-📺 Carros Show
-
-👁️ 6K • 👍 204 • 💬 22 • ⏱️ 1:04:55 • 2d ago
+👁️ 345K • 👍 15K • 💬 3K • ⏱️ 2:51 • 5d ago
 
 ---
 
@@ -247,17 +219,35 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 46K • 👍 820 • 💬 66 • ⏱️ 24:13 • 3d ago
+👁️ 47K • 👍 836 • 💬 69 • ⏱️ 24:13 • 3d ago
 
 ---
 
-**[SCORPION Play LEVEL 999 – War Robots GOAT Gameplay](https://www.youtube.com/watch?v=80VRSmlY4Zs)**
+**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
 
-War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Creator Link: https://wr.my.games/manni ...
+At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
 
-📺 Manni-Gaming
+📺 CGTN Europe
 
-👁️ 5K • 👍 353 • 💬 53 • ⏱️ 10:03 • 12h ago
+👁️ 18K • 👍 87 • 💬 13 • ⏱️ 0:49 • 2d ago
+
+---
+
+**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
+
+Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
+
+📺 Carros Show
+
+👁️ 6K • 👍 208 • 💬 23 • ⏱️ 1:04:55 • 2d ago
+
+---
+
+**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
+
+📺 Army Clips
+
+👁️ 267K • 👍 8K • 💬 147 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -267,7 +257,7 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 5K • 👍 169 • 💬 17 • ⏱️ 21:44 • 3d ago
+👁️ 5K • 👍 171 • 💬 17 • ⏱️ 21:44 • 3d ago
 
 ---
 
@@ -277,17 +267,27 @@ I designed and built a 3D printed robotic arm forearm using three custom gearbox
 
 📺 Mishin Machine
 
-👁️ 24K • 👍 2K • 💬 99 • ⏱️ 14:45 • 3d ago
+👁️ 25K • 👍 2K • 💬 99 • ⏱️ 14:45 • 3d ago
 
 ---
 
-**[This Robot Transforms Into ANYTHING! 😱🤖🔥](https://www.youtube.com/watch?v=myVpssHCBG0)**
+**[SCORPION Play LEVEL 999 – War Robots GOAT Gameplay](https://www.youtube.com/watch?v=80VRSmlY4Zs)**
 
-A boy and a girl start fighting over an amazing robot... Suddenly, one of them takes the robot apart and challenges the other ...
+War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 COTTON EXPLAINS
+📺 Manni-Gaming
 
-👁️ 36K • 💬 1 • ⏱️ 0:21 • 4d ago
+👁️ 6K • 👍 391 • 💬 58 • ⏱️ 10:03 • 16h ago
+
+---
+
+**[Streamers Who Made Robots Uncomfortable 🤖💀](https://www.youtube.com/watch?v=f_j3vJrhHdI)**
+
+IShowSpeed, Kai Cenat, and Fanum somehow made robots question their own existence. These interactions got so ...
+
+📺 Expor
+
+👁️ 29K • 👍 131 • 💬 4 • ⏱️ 0:34 • 19h ago
 
 ---
 

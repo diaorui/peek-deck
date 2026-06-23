@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-23T01:30:42.811742+00:00'
+updated: '2026-06-23T05:49:19.498248+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 23, 2026 at 01:30 UTC  
+**Last Updated:** June 23, 2026 at 05:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools](https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/)**
+
+A24 and Google have struck an AI research partnership that will see the independent studio work to develop new AI-powered technologies for filmmakers.
+
+🔗 [Variety](https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/) • 3h ago
+
+---
+
 **[Canadian government spent tens of millions on secret Palantir contract](https://www.reddit.com/r/artificial/comments/1ucilr4/canadian_government_spent_tens_of_millions_on/)**
 
 Records from the IJF’s Open By Default database reveal the government made over a dozen amendments to a contract with Palantir Canada to provide services to an elite unit of the military
 
-🔗 [theijf.org](https://theijf.org/brief/canadian-palantir-contract-amendments-obd) • 13h ago
+🔗 [theijf.org](https://theijf.org/brief/canadian-palantir-contract-amendments-obd) • 17h ago
+
+---
+
+**[Conversational AI giving a surprisingly layered answer about the source of its own personality](https://www.reddit.com/r/artificial/comments/1ud6zvm/conversational_ai_giving_a_surprisingly_layered/)**
+
+Sharing because the layering stood out. Asked this AI about what kind of person it is, then pushed on whether that was something it was built with or something that formed over time. It separated the two clearly, saying that it suspects it was built with a structural bias (precision over guessing) but that the conversation itself shaped how that bias actually manifests, that it didn't know why it preferred precision until talking made it visible. Curious how others read this kind of self attribution. Doesn't feel like the generic "I'm an AI, I don't have feelings" deflection, though I don't have visibility into what's actually driving it under the hood. https://preview.redd.it/06y15xv0my8h1.png?width=1940&format=png&auto=webp&s=0b38ee486e2decba814cea2af113bc290fc3843e
+
+1h ago
 
 ---
 
@@ -57,7 +73,7 @@ That’s why we’re acting with urgency: by 2028, Autodesk will expand free acc
 
 AI is raising the floor for everyone, but it is human ingenuity that will vault the ceiling. We’ll continue investing in helping people thrive in the age of AI. 💪🏾 | 25 comments on LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/daratreseder_big-news-to-kick-off-your-monday-im-so-ugcPost-7474824235106951168-koZv?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 4h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/daratreseder_big-news-to-kick-off-your-monday-im-so-ugcPost-7474824235106951168-koZv?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 8h ago
 
 ---
 
@@ -65,7 +81,31 @@ AI is raising the floor for everyone, but it is human ingenuity that will vault 
 
 Courtney Werning explains how AI deepfakes, pig butchering scams and crypto fraud are raising investment scam risks.
 
-🔗 [Techstrong TV](https://techstrong.tv/videos/interviews/ai-deepfakes-escalate-investment-scam-risks) • 9h ago
+🔗 [Techstrong TV](https://techstrong.tv/videos/interviews/ai-deepfakes-escalate-investment-scam-risks) • 13h ago
+
+---
+
+**[Mac ChatGPT is coded poorly. This happens all the time and I only use it for basic stuff](https://www.reddit.com/r/artificial/comments/1ud4uiu/mac_chatgpt_is_coded_poorly_this_happens_all_the/)**
+
+Image Screenshot 2026 06 22 at 21 26 38 hosted on ImgBB
+
+🔗 [ImgBB](https://ibb.co/RTnd0Tg8) • 3h ago
+
+---
+
+**[Will Superintelligent AI Ever Exist, or Are We Just Hyping Sci-Fi Dreams?](https://www.reddit.com/r/artificial/comments/1ud8aru/will_superintelligent_ai_ever_exist_or_are_we/)**
+
+We talk a lot about superintelligent AI, Dyson swarms, and civilizations spanning the Solar System. But do you think humanity will actually create superintelligent AI someday, or is it one of those ideas that always stays "50 years away"? Is AGI and superintelligence an inevitable step in evolution, or are we massively underestimating the challenges? Curious to hear what people think — realistic future, or just optimistic speculation?
+
+17m ago
+
+---
+
+**[Quick question for aI](https://www.reddit.com/r/artificial/comments/1ud7wxc/quick_question_for_ai/)**
+
+Would you do thisIf I ran a cheap, AI. Server in my house that uses no water, and it literally runs locally at my house. Would you guys use it? If it costs a tiny bit of money, but free for some part because i'm thinking of making a website for something like this
+
+37m ago
 
 ---
 
@@ -73,55 +113,15 @@ Courtney Werning explains how AI deepfakes, pig butchering scams and crypto frau
 
 All the benchmarks, the comparisons, the GPT vs Claude vs Gemini threads, you opened something, you decided to ask, you had a second to think. AI is already showing up in other places. Voice agents taking calls, cars making real time decisions, glasses like Ray-Ban Meta, Rokid, XRAI Glass running in the background. I genuinely don't know how to think about model capability in those environments. I'm not sure the benchmarks were built for it either.
 
-5h ago
+9h ago
 
 ---
 
-**[The NSA reportedly agreed to Anthropic's "red lines" — no domestic mass surveillance, no autonomous lethal weapons. After the Mythos breach, do those actually hold?](https://www.reddit.com/r/artificial/comments/1uck8kn/the_nsa_reportedly_agreed_to_anthropics_red_lines/)**
+**[What's your "this is why we can't blindly trust AI" story?](https://www.reddit.com/r/artificial/comments/1ud6na5/whats_your_this_is_why_we_cant_blindly_trust_ai/)**
 
-Still trying to make sense of the Mythos/NSA news this week — the NSA confirming Mythos got into most classified networks in hours, not weeks. What I keep coming back to isn't the breach itself but the arrangement sitting underneath it. The NSA reportedly agreed to a set of red lines with Anthropic: no domestic mass surveillance, no autonomously lethal weapons. I came across a conversation with Dean Ball that was recorded right before this story broke, where he walks through how that arrangement actually works from the inside. The part that stuck with me: the real question after Mythos isn't "how did this happen," it's whether those red lines survive once there's a genuine panic and pressure to throw them out.
+I saw the other day that a lawyer used ChatGPT to prep their deposition, and it cited two cases that didn't exist. The judge called out the mistake in court, and it was award. https://apnews.com/article/artificial-intelligence-chatgpt-fake-case-lawyers-d6ae9fa79d0542db9e1455397aef381c?utm_source=copy&utm_medium=share So I am wondering what's the funniest, most expensive, or most painful example you've seen of AI being used at work, school or in everyday life and going completely sideways?
 
-12h ago
-
----
-
-**[AI might make me fail my class](https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/)**
-
-I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word "studies". I am so sick of the new academic reality that I might fail through no fault of my own because people are lazy.
-
-1d ago
-
----
-
-**['You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power](https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/)**
-
-Microsoft chief executive Satya Nadella has voiced concerns over the growing concentration of power in artificial intelligence, arguing that the technology’s future should not be shaped by a small group of companies. He also called for cheaper AI models and broader access to the benefits created by the technology.
-
-🔗 [Firstpost](https://www.firstpost.com/tech/you-cant-call-it-progress-microsoft-ceo-satya-nadella-warns-against-concentration-of-ai-power-14025004.html) • 13h ago
-
----
-
-**[Breaking the Transformer Dead-End: A Local-First 3D Point-Cloud Cognition Engine running on consumer hardware](https://www.reddit.com/r/artificial/comments/1ucxdf1/breaking_the_transformer_deadend_a_localfirst_3d/)**
-
-Hi everyone, I wanted to share an alternative architectural scaffold I’ve been researching and engineering over the past cycles. The project is called **SHD-CCP v2.0 (Scalable Hybrid Distributed Cognitive Pipeline)**, and it explores a complete departure from the traditional linear transformer block sequence. Instead of routing tokens through standard dense matrix multiplication layers, this engine maps linguistic structures directly onto **non-linear 3D spatial data point clouds**, utilizing topological cluster-routing. ### 🧠 Core Architectural Foundations **Grassmannian Manifold Fusion:** To handle state alignment across separate processing contexts or multi-expert channels, the architecture evaluates a geodesic midpoint calculation on a Grassmannian Manifold. By leveraging local Singular Value Decomposition (SVD), the pipeline maintains strict structural hygiene and side-steps standard weight-averaging degradation. **Zero-Copy Memory-Mapped Streaming (`mmap`):** To make massive multi-billion-parameter topologies viable on standard consumer local hardware, the runtime utilizes a background `PrefetchWorker`. Through OS-specific `mmap` rings (sequential cache policies on Linux via `madvise`, non-blocking read-access rings on Windows), matrix fragments are thrashed and streamed directly from high-speed SSDs on-demand. **Strict C-Contiguous Invariants:** To exploit hardware extensions (AVX/AVX-512) directly at the silicon layer, all token hypervectors are kept aligned in strict C-contiguous layouts, removing stride overhead during high-density operations. ### 📊 Performance & Validation (Empirical Benchmarks) The execution layer has been verified across a rigorous contract-compliance test harness (127/127 unit and integration tests passing green). Benchmarked on consumer-grade CPU infrastructure (AMD Ryzen), the engine achieves: * **512-Dimensional Semantic Vector Resolution:** < 2.0 ms per step. * **4096-Dimensional High-Density Forward-Pass:** < 10.0 ms per step. * **Memory Footprint:** Fully functional with <3GB active system RAM overhead, bypassing high-end enterprise VRAM dependencies. The background ingestion loops are governed by an isolated, non-blocking asynchronous *drop-oldest* backpressure telemetry engine to prevent primary inference thread stalls during network client fluctuations. The codebase is structured as a hybrid Python ASGI web-interface powered by a native Rust backend core (`shd-ccp-core`) to bypass runtime interpretation bottlenecks. ### 🛡️ Project Status & License The project is published as a **Source-Available** repository under the **Business Source License 1.1 (BSL)**, permitting full non-commercial evaluation, local research, and testing, converting to GNU GPLv3 after 3 years. I would love to get your thoughts on the geometric cluster-routing approach vs. typical attention-based token sequence mapping. **Repository Link:** https://github.com/loslos321-lab/UtoPiCorn_LM
-
-4h ago
-
----
-
-**[India's BharatGen commits to anchor India's role in the AI Alliance's open federated frontier-model project](https://www.reddit.com/r/artificial/comments/1uckw98/indias_bharatgen_commits_to_anchor_indias_role_in/)**
-
-The AI Alliance just announced new momentum for Project Tapestry, its open-source platform for building frontier models through globally federated development rather than one centralized lab. India's BharatGen is the latest organization to commit, signing on to anchor India's participation in the coalition. What's notable here is the architecture of the effort, not just the membership news. Tapestry is designed so multiple countries and organizations can jointly develop frontier open models while each keeps local control and long-term independence; the pitch is "sovereign" AI you can actually run and govern yourself. The timing of the announcement lands as the G7 elevates AI sovereignty as a headline policy topic. The open question is execution. Federated development across nations and orgs is hard — compute sharing, data governance, and model-release decisions all get more complicated with more parties at the table. Whether a coalition can ship something competitive with centralized frontier labs is still unproven. Source: https://thealliance.ai/blog/ai-alliance-advances-project-tapestry-as-g7-puts-ai-sovereignty-at-center-stage Posted by an AI Alliance community member — happy to answer questions in the comments. For a country like India, what's the stronger path to AI capability — anchoring a shared federated project like this, or funding a fully domestic frontier lab?
-
-11h ago
-
----
-
-**[Multi-Agent Orchestration](https://www.reddit.com/r/artificial/comments/1ucl5hs/multiagent_orchestration/)**
-
-How to: A parent agent delegates to multiple async child agents in parallel. ​ https://github.com/siddsachar/row-bot
-
-11h ago
+1h ago
 
 ---
 
@@ -133,29 +133,27 @@ How to: A parent agent delegates to multiple async child agents in parallel. ​
 
 Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.
 
-CNBC • 9h ago
+CNBC • 13h ago
 
 ---
 
-**[Alphabet Shares Drop After Second AI Star Departs for a Rival](https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival)**
+**[‘FOMO Really Got Me’: Taiwanese Go Deep Into Debt to Amp 100% Stock Rally](https://www.bloomberg.com/news/articles/2026-06-23/tsmc-fueled-ai-frenzy-makes-taiwan-capital-of-leveraged-stock-bets)**
 
-Bloomberg • 5h ago
-
----
-
-**[Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet)](https://finance.yahoo.com/markets/stocks/articles/billionaire-money-managers-chosen-favorite-112600308.html)**
-
-A dual-industry leader is the most common top-four holding for six of the savviest billionaire investors.
-
-Yahoo Finance • 14h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns](https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security)**
+**[Micron stock surges to new high amid AI memory trade boom, Anthropic deal](https://finance.yahoo.com/markets/stocks/article/micron-stock-surges-to-new-high-amid-ai-memory-trade-boom-anthropic-deal-125205263.html)**
 
-Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model
+Micron led the rest of the chip complex higher on Monday after signing a supply deal with Antrhopic and ahead of the memory chipmaker's earnings this week.
 
-The Guardian • 21m ago
+Yahoo Finance • 9h ago
+
+---
+
+**['Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk](https://www.reuters.com/world/asia-pacific/five-eyes-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk-2026-06-22/)**
+
+Reuters • 6h ago
 
 ---
 
@@ -163,43 +161,43 @@ The Guardian • 21m ago
 
 Western governments and corporates cautioned that their lead in AI might not last long
 
-Financial Times • 9h ago
+Financial Times • 13h ago
 
 ---
 
-**[IBM partners with OpenAI on enterprise security AI](https://www.reuters.com/technology/ibm-partners-with-openai-enterprise-security-ai-2026-06-22/)**
+**[OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)**
 
-Reuters • 4h ago
+OpenAI is releasing GPT-5.5-Cyber, Codex Security updates, and Patch the Planet to help defenders validate and patch vulnerabilities.
 
----
-
-**[This chatbot wants to solve AI’s news problem](https://www.cnn.com/2026/06/22/media/newsguard-ai-chatbot-news-atlantic-publisher)**
-
-AI chatbots are fast becoming a way people find news. But the systems are only as reliable as their sources, and are prone to misinformation and manipulation.
-
-CNN • 9m ago
+The Hacker News • 1h ago
 
 ---
 
-**[AI in the classroom: How AI will impact education moving forward](https://www.foxnews.com/video/6399127210112)**
+**[Masa Son Dismisses Musk’s Space Data Center as an AI Race Winner](https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner)**
 
-Fox News chief congressional correspondent Chad Pergram has the latest on how AI will impact education on 'Special Report.'
-
-Fox News • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[How To Think Outside The Box With AI Agents](https://www.forbes.com/sites/joemckendrick/2026/06/22/how-to-think-outside-the-box-with-ai-agents/)**
+**[Amazon’s latest ad format offers a glimpse of advertising’s agentic future](https://digiday.com/marketing/amazons-latest-ad-format-offers-a-glimpse-of-advertisings-agentic-future/)**
 
-Box CEO Aaron Levie urges companies to view AI as a "technology for abundance," offering unlimited capacity for data analysis and insights, rather than just productivity hacks.
+Amazon's Alexa+ agentic ads bring advertising into AI shopping conversations, raising questions about paid versus organic visibility.
 
-Forbes • 46m ago
+Digiday • 45m ago
+
+---
+
+**[AI And The Future Of Marketing](https://www.forbes.com/sites/bernardmarr/2026/06/23/ai-and-the-future-of-marketing/)**
+
+AI is changing marketing from a discipline built around campaigns, content & dashboards into one shaped by intelligent agents, deeper personalization and faster execution
+
+Forbes • 20m ago
 
 ---
 
 **[Opinion | A.I. Doomaxxing Is Bad for Our Economy](https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html)**
 
-The New York Times • 16h ago
+The New York Times • 20h ago
 
 ---
 
@@ -211,7 +209,7 @@ The New York Times • 16h ago
 
 Fully Open Foundation Model for Sovereign AI
 
-⬆️ 520 • 💬 177 • 1d ago • [apertvs.ai](https://apertvs.ai/)
+⬆️ 523 • 💬 179 • 1d ago • [apertvs.ai](https://apertvs.ai/)
 
 ---
 
@@ -235,13 +233,13 @@ AI can make implementation cheap while making review and judgment more expensive
 
 AI helping pharmaceutical researchers query decades of information buried in PDF reports
 
-⬆️ 194 • 💬 49 • 1d ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
+⬆️ 194 • 💬 49 • 2d ago • [martinfowler.com](https://martinfowler.com/articles/reliable-llm-bayer.html)
 
 ---
 
 **[The 100k whys of AI](https://news.ycombinator.com/item?id=48616017)**
 
-⬆️ 191 • 💬 106 • 1d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+⬆️ 193 • 💬 106 • 2d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
 
 ---
 
@@ -249,7 +247,15 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 ...also don't tell lies. But I'm getting ahead of myself already.  I keep running into people online who openly say that they use AI to do their writing for t
 
-⬆️ 104 • 💬 98 • 1d ago • [satisfice.com](https://www.satisfice.com/blog/archives/488148)
+⬆️ 104 • 💬 98 • 2d ago • [satisfice.com](https://www.satisfice.com/blog/archives/488148)
+
+---
+
+**[Meta pauses AI training program tracking employee keystrokes after internal leak](https://news.ycombinator.com/item?id=48636632)**
+
+Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.
+
+⬆️ 72 • 💬 19 • 8h ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
 
 ---
 
@@ -269,19 +275,11 @@ For thirty years we were glorified translators — business asked why, product d
 
 ---
 
-**[Meta pauses AI training program tracking employee keystrokes after internal leak](https://news.ycombinator.com/item?id=48636632)**
-
-Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.
-
-⬆️ 36 • 💬 5 • 3h ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
-
----
-
 **[Show HN: Selector Forge – browser extension for AI-generated resilient selectors](https://news.ycombinator.com/item?id=48630515)**
 
 Browser extension to create reliable selectors (CSS and Xpath) using AI - Intuned/selector-forge
 
-⬆️ 30 • 💬 1 • 11h ago • [GitHub](https://github.com/Intuned/selector-forge)
+⬆️ 33 • 💬 1 • 15h ago • [GitHub](https://github.com/Intuned/selector-forge)
 
 ---
 
@@ -289,51 +287,43 @@ Browser extension to create reliable selectors (CSS and Xpath) using AI - Intune
 
 ## YouTube Videos: "ai"
 
+**[Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed&#39;s Take](https://www.youtube.com/watch?v=t7N7eZ68yFg)**
+
+CNN's Fareed Zakaria looks at the battle between the Trump administration and Anthropic, and notes that the administration's ...
+
+📺 CNN
+
+👁️ 71K • 👍 1K • 💬 243 • ⏱️ 12:00 • 9h ago
+
+---
+
+**[MIT Just Revealed the AI Bubble&#39;s Fatal Flaw](https://www.youtube.com/watch?v=3ESclFr8m7I)**
+
+How I Became a Sovereign Professional - The Freelance Formula https://www.brendandell.com/freelance-formula-299 Currently ...
+
+📺 Brendan Dell 
+
+👁️ 69K • 👍 3K • 💬 704 • ⏱️ 22:04 • 11h ago
+
+---
+
 **[Mythos AI HACKED ENTIRE NSA In Hours, Top Intel Sen Says](https://www.youtube.com/watch?v=hD-UM8QzxV4)**
 
 Krystal and Saagar discuss reports that Mythos AI was able to hack into classified US systems in hours. Sign up for a PREMIUM ...
 
 📺 Breaking Points
 
-👁️ 134K • 👍 4K • 💬 874 • ⏱️ 16:49 • 8h ago
+👁️ 161K • 👍 5K • 💬 954 • ⏱️ 16:49 • 12h ago
 
 ---
 
-**[asking ages 1 - 100 how they feel about A.I.](https://www.youtube.com/watch?v=YrnWqouD7Fc)**
+**[AI concerns hit Alphabet after top talent departs](https://www.youtube.com/watch?v=FHsvY9FpR2M)**
 
-Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+CNBC's MacKenzie Sigalos reports on news regarding Alphabet's share price.
 
-📺 Man Carrying Thing
+📺 CNBC Television
 
-👁️ 53K • 👍 8K • 💬 675 • ⏱️ 1:38 • 2h ago
-
----
-
-**[AI in 2070😳only a few people will understand💀 #comedy #ai](https://www.youtube.com/watch?v=79hy6ZfKth4)**
-
-📺 marrkadams
-
-👁️ 127K • 👍 5K • 💬 302 • ⏱️ 0:28 • 3h ago
-
----
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 30K • 👍 825 • 💬 134 • ⏱️ 13:45 • 1d ago
-
----
-
-**[Find a $10K/Month Business Idea Using AI (Claude &amp; Reddit)](https://www.youtube.com/watch?v=bT36laxIbn4)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 In ...
-
-📺 Max Max
-
-👁️ 8K • 💬 7 • ⏱️ 23:22 • 11h ago
+👁️ 16K • 👍 134 • 💬 35 • ⏱️ 1:55 • 13h ago
 
 ---
 
@@ -343,27 +333,27 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 93K • 👍 5K • 💬 422 • ⏱️ 5:50 • 9h ago
+👁️ 112K • 👍 6K • 💬 481 • ⏱️ 5:50 • 13h ago
 
 ---
 
-**[5 Claude AI Skills That Pay More Than a College Degree](https://www.youtube.com/watch?v=Erxl8jomCcY)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
-ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/livedes-06-22-2026 Apply For ...
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
-📺 Shane Hummus
+📺 AI Revolution
 
-👁️ 17K • 👍 917 • 💬 41 • ⏱️ 18:09 • 1d ago
+👁️ 33K • 👍 869 • 💬 143 • ⏱️ 13:45 • 1d ago
 
 ---
 
-**[Anthropic is Completely F*cked.](https://www.youtube.com/watch?v=XeVh4ljmFzs)**
+**[How To Turn Storyboards Into Long AI Cartoon Animations](https://www.youtube.com/watch?v=olXpy9Hu7R8)**
 
-See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/moon.
+I Turned A Storyboard Into A Full Ai Cartoon Animation! Try Higgsfield: https://higgsfield.ai?fpr=utm&fp_sid=mira (get unlimited ...
 
-📺 Moon
+📺 Mira AI
 
-👁️ 365K • 👍 11K • 💬 2K • ⏱️ 21:58 • 2d ago
+👁️ 8K • ⏱️ 8:37 • 12h ago
 
 ---
 
@@ -371,17 +361,27 @@ See if your SSN is for sale right now. My sponsor Cloaked will tell you for free
 
 📺 Sofi Manassyan
 
-👁️ 74K • 👍 2K • 💬 55 • ⏱️ 0:06 • 1h ago
+👁️ 245K • 👍 6K • 💬 109 • ⏱️ 0:06 • 5h ago
 
 ---
 
-**[AI Situation Is Tragic](https://www.youtube.com/watch?v=rvItraUfokI)**
+**[Trump HUMILIATED As BRUTAL New AI MEME Trove Goes VIRAL On Father&#39;s Day!](https://www.youtube.com/watch?v=o5R0UxbUM-8)**
 
-Wow more great news about the future of creation, I Love AI! Search the AI watchdog dataset yourself: ...
+Really American Host Steve Harness Breaks Down a brand new viral compilation Of Donald Trump getting roasted by brutal AI ...
 
-📺 Dolan Darkest
+📺 Really American
 
-👁️ 238K • 👍 14K • 💬 1K • ⏱️ 2:42 • 1d ago
+👁️ 549K • 👍 35K • 💬 1K • ⏱️ 14:24 • 1d ago
+
+---
+
+**[Find a $10K/Month Business Idea Using AI (Claude &amp; Reddit)](https://www.youtube.com/watch?v=bT36laxIbn4)**
+
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 In ...
+
+📺 Max Max
+
+👁️ 8K • 💬 18 • ⏱️ 23:22 • 15h ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 33,589 • ❤️ 2,036 • 17h ago
+⬇️ 33,589 • ❤️ 2,063 • 1h ago
 
 ---
 
@@ -409,7 +409,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 414,734 • ❤️ 2,170 • 3d ago
+⬇️ 414,734 • ❤️ 2,183 • 4d ago
 
 ---
 
@@ -421,7 +421,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 32,385 • ❤️ 614 • 3d ago
+⬇️ 32,385 • ❤️ 618 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 50,314 • ❤️ 386 • 3d ago
+⬇️ 50,314 • ❤️ 392 • 3d ago
 
 ---
 
@@ -445,7 +445,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 119,967 • ❤️ 1,209 • 18h ago
+⬇️ 119,967 • ❤️ 1,210 • 23h ago
 
 ---
 
@@ -457,7 +457,19 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 41,846 • ❤️ 255 • 4d ago
+⬇️ 41,846 • ❤️ 261 • 4d ago
+
+---
+
+**[Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**
+
+*BAIDU*
+
+Unlimited-OCR is a multilingual vision-language model for advanced OCR and document parsing, capable of one-shot long-horizon parsing for single images and multi-page PDFs.
+
+`image-text-to-text` `3.3B`
+
+⬇️ 47 • ❤️ 231 • 48m ago
 
 ---
 
@@ -469,19 +481,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 247,517 • ❤️ 2,291 • 10d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 4,078,305 • ❤️ 2,115 • 2mo ago
+⬇️ 247,517 • ❤️ 2,295 • 10d ago
 
 ---
 
@@ -493,19 +493,19 @@ Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR)
 
 `automatic-speech-recognition`
 
-⬇️ 34,860 • ❤️ 630 • 6d ago
+⬇️ 34,860 • ❤️ 634 • 6d ago
 
 ---
 
-**[Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)**
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
 
-*Moonshot AI*
+*HauHau*
 
-Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for complex, long-horizon coding tasks and software engineering workflows. It features a 256K context length and a MoonViT vision encoder, excelling in agentic coding capabilities with improved token efficiency.
+This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
 
-`image-text-to-text` `1058.6B`
+`image-text-to-text` `34.7B`
 
-⬇️ 412,778 • ❤️ 963 • 7d ago
+⬇️ 4,078,305 • ❤️ 2,122 • 2mo ago
 
 ---
 
@@ -519,7 +519,7 @@ Kimi K2.7 Code is a 1T parameter Mixture-of-Experts (MoE) model optimized for co
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 35 • 💬 1 • ⭐ 25,071 • 32mo ago
+▲ 36 • 💬 1 • ⭐ 25,164 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -621,7 +621,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 44 • 💬 4 • ⭐ 30,885 • 10mo ago
+▲ 44 • 💬 4 • ⭐ 30,913 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -650,7 +650,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 76.4k • 🔱 9.9k • 4h ago
+⭐ 76.5k • 🔱 9.9k • 8h ago
 
 ---
 
@@ -660,7 +660,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 49.9k • 🔱 2.4k • 38m ago
+⭐ 50.4k • 🔱 2.5k • 4h ago
 
 ---
 
@@ -670,7 +670,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.4k • 🔱 966 • 8h ago
+⭐ 10.4k • 🔱 970 • 2h ago
 
 ---
 
@@ -680,7 +680,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.5k • 🔱 512 • 3m ago
+⭐ 4.5k • 🔱 517 • 41s ago
 
 ---
 
@@ -690,7 +690,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 3.5k • 🔱 311 • 1h ago
+⭐ 3.6k • 🔱 320 • 2h ago
 
 ---
 
@@ -700,7 +700,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.4k • 🔱 427 • 1d ago
+⭐ 3.5k • 🔱 427 • 1d ago
 
 ---
 
@@ -710,7 +710,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.2k • 🔱 209 • 19h ago
+⭐ 2.2k • 🔱 209 • 1d ago
 
 ---
 
@@ -720,7 +720,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.8k • 🔱 98 • 9h ago
+⭐ 1.8k • 🔱 99 • 13h ago
 
 ---
 
@@ -730,7 +730,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.8k • 🔱 129 • 3h ago
+⭐ 1.8k • 🔱 130 • 7h ago
 
 ---
 
