@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-23T09:40:20.202482+00:00'
+updated: '2026-06-23T12:33:28.670245+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 09:40 UTC  
+**Last Updated:** June 23, 2026 at 12:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,491.79
+### $62,443.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
+**24h:** -4.7%  
 **7d:** -3.1%  
-**30d:** -19.2%  
+**30d:** -19.3%  
 **90d:** -9.2%  
 **1y:** -41.0%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1251.14B
+**Market Cap:** $1249.44B
 Rank #1
 
-**Circulating Supply:** 20,046,787 BTC
+**Circulating Supply:** 20,046,831 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.5%
 
 **All-Time Low:** $67.81
-+91939.5%
++91876.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 if you bought at every single all time high since 2013, the absolute worst possible timing every single time. You are still up. not a little. massively. the only way you actually lose is if you sell during the part that feels like this. that's it. that's the whole game. it was never more complicated than that.
 
-20h ago
+22h ago
 
 ---
 
@@ -89,7 +89,7 @@ if you bought at every single all time high since 2013, the absolute worst possi
 
 Earlier this month I participated in a public Bitcoin wallet recovery challenge involving a wallet that had been untouched for around 12 years. What I found most interesting was that the challenge wasn't about breaking Bitcoin's cryptography. Instead, it showed how quickly a large group can search a reduced solution space once enough information is known. The wallet was recovered in about 11 minutes by roughly 300 participants working independently. A few takeaways: Bitcoin itself wasn't "hacked." Security depends on protecting all recovery-related information, not just private keys. Small reductions in uncertainty can have a huge impact on how difficult a recovery problem is. Crowdsourcing can dramatically accelerate search and recovery efforts. I wrote up a detailed breakdown of what happened, how the challenge worked, and why it was solved so quickly: https://blog.flipflow.app/blog/cracking-a-12-year-old-bitcoin-wallet Happy to answer questions about the challenge or my experience participating.
 
-16h ago
+19h ago
 
 ---
 
@@ -97,7 +97,7 @@ Earlier this month I participated in a public Bitcoin wallet recovery challenge 
 
 In 2017, 2020, and 2023, institutions were supposedly coming. Then BlackRock and Fidelity launched a Bitcoin ETF. Now Franklin Templeton is launching a dedicated crypto investment division backed by $1.78 trillion in assets under management. At what point do we stop saying institutions are coming, and admit that institutions are already here?
 
-15h ago
+18h ago
 
 ---
 
@@ -105,7 +105,7 @@ In 2017, 2020, and 2023, institutions were supposedly coming. Then BlackRock and
 
 ​Just made a interactive tool for Bitcoin Power Law model with custom power. ​ https://custompowerlaw.com/ ​ ​Please have a look and let me know what you think. Thanks! ​ ​
 
-23h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ The bottom isn’t in. This place and other crypto communities is still too posi
 
 I keep seeing people talk about using their Bitcoin as collateral to borrow cash instead of selling it, and I understand the idea in theory. You keep exposure to BTC, avoid selling, and get fiat liquidity. But I still don’t understand how this works safely in real life. If a lender gives you money against your BTC, they need some way to recover the collateral if you default. And the only way they can really do that is if they control the coins, either through custody, a smart contract, or some kind of multisig setup. But once someone else has control, isn’t that already the risk? If the platform freezes withdrawals, gets hacked, goes bankrupt, changes terms, or acts shady, you could lose your Bitcoin even if you did nothing wrong. That feels like the opposite of the whole point of Bitcoin. Not your keys, not your coins. Is there actually a way to borrow against BTC where you still keep control of your coins?
 
-20h ago
+23h ago
 
 ---
 
@@ -137,7 +137,7 @@ I keep seeing people talk about using their Bitcoin as collateral to borrow cash
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 16h ago
 
 ---
 
@@ -153,7 +153,7 @@ I've been spending a lot of time looking at the structural shifts in BTC's corre
 
 I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for the past day. How long does it usually take for them to process and send me my bitcoin. I was just wondering what other people's experience with them is.
 
-12h ago
+15h ago
 
 ---
 
@@ -165,51 +165,51 @@ I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for 
 
 The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.
 
-CoinDesk • 3h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
 
-Barron's • 14h ago
+Barron's • 17h ago
 
 ---
 
-**[BlackRock's Mitchnick Says Bitcoin Wins If Washington Cannot Fix Its Deficit Problem](https://finance.yahoo.com/markets/crypto/articles/blackrocks-mitchnick-says-bitcoin-wins-085215261.html)**
+**[EXCLUSIVE: LM Funding Taps Bitcoin Mining Sites For New AI Infrastructure Push](https://finance.yahoo.com/technology/ai/articles/exclusive-lm-funding-taps-bitcoin-120102277.html)**
 
-Robert Mitchnick believes growing concerns over US debt and budget deficits could drive the next major Bitcoin rally. Debates over government spending, borrowing, and fiscal ...
+LM Funding America, Inc. (NASDAQ:LMFA) announced Tuesday it is expanding into high-performance computing and AI infrastructure with the purchase of its first AI GPU server hardware for deployment at its Oklahoma facility. The Bitcoin treasury and mining company said it is also marketing available power capacity at its Oklahoma and Mississippi facilities to qualified AI co-location and power hosting customers. AI Infrastructure Expansion LM Funding reports 26 megawatts of wholly owned operational
 
-Yahoo Finance • 48m ago
-
----
-
-**[Bitcoin price analysis: BTC may be close to a bottom. Here's why.](https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests)**
-
-BTC's long-term moving averages are set to flash a bearish signal soon. Yet, its good news for the bulls.
-
-CoinDesk • 1h ago
+Yahoo Finance • 32m ago
 
 ---
 
-**[Michael Saylor’s Strategy Buys $34.9 Million of Bitcoin Using Common Stock](https://www.bloomberg.com/news/articles/2026-06-22/michael-saylor-s-strategy-buys-34-9-million-of-bitcoin-using-common-stock)**
+**[Live BTC markets: Bitcoin drop to $62,000 creates $700 million in liquidations](https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off)**
 
-Bloomberg • 13h ago
+The fast decline in prices set off $700 million in forced liquidations across the market.
 
----
-
-**[Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?](https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders)**
-
-Trump’s recent executive orders will accelerate the U.S. quantum computing and post-quantum encryption timelines.
-
-Bitcoin Magazine • 12h ago
+CoinDesk • 48m ago
 
 ---
 
-**[Real Estate, Car Dealerships, Bitcoin And A TIF: A Look Into Toby Doeden's Businesses](https://aberdeeninsider.com/real-estate-car-dealerships-bitcoin-and-a-tif-a-look-into-toby-doedens-businesses/)**
+**[Nakamoto Shuts Its Last Healthcare Clinics to Go All-In on Bitcoin](https://finance.yahoo.com/markets/crypto/articles/nakamoto-shuts-last-healthcare-clinics-121102771.html)**
 
-Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
+Nakamoto Inc. shut its legacy clinics on June 19, pivoting fully to Bitcoin media, asset management, and advisory.
 
-Aberdeen Insider • 1d ago
+Yahoo Finance • 22m ago
+
+---
+
+**[Bitcoin Hits Two-Week Low as Tech Selloff Sparks Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-06-23/bitcoin-hits-two-week-low-as-tech-selloff-sparks-risk-off-mood)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Inflation run-up doesn't mean you should run toward cryptocurrency](https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/23/bitcoin-investment-buzzes-as-an-inflation-hedge-but-is-it/90606419007/)**
+
+One expert has seen no evidence that cryptocurrency will provide any protection against inflation for investors. What's behind the argument.
+
+Detroit Free Press • 1h ago
 
 ---
 
@@ -221,19 +221,19 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin ETF outflow pain eases just as another headwind gathers strength](https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens)**
+**[Real Estate, Car Dealerships, Bitcoin And A TIF: A Look Into Toby Doeden's Businesses](https://aberdeeninsider.com/real-estate-car-dealerships-bitcoin-and-a-tif-a-look-into-toby-doedens-businesses/)**
 
-Your day-ahead look for June 22, 2026
+Aberdeen businessman Toby Doeden, whose campaign for governor has hinged largely on eliminating property taxes, has links to real estate investment companies
 
-CoinDesk • 22h ago
+Aberdeen Insider • 2d ago
 
 ---
 
-**[Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself](https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow)**
+**[Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?](https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders)**
 
-US spot bitcoin ETFs saw $227 million in net outflows last week, extending the negative flow streak to six consecutive weeks.
+Trump’s recent executive orders will accelerate the U.S. quantum computing and post-quantum encryption timelines.
 
-The Block • 23h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -245,7 +245,7 @@ The Block • 23h ago
 
 The cryptocurrency's latest selloff is forcing investors to revisit what role, if any, bitcoin should play in a portfolio.
 
-⬆️ 8 • 💬 8 • 3d ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
+⬆️ 8 • 💬 8 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html)
 
 ---
 
@@ -273,17 +273,9 @@ Zitchain is the next generation cryptocurrency architecture. 100% secure, energy
 
 ---
 
-**[Native Bitcoin Token Protocol](https://news.ycombinator.com/item?id=48553677)**
-
-Bitcoin Original Layer-1 Tokens — O(1) verifiable, SPV-friendly, Layer-1 native.
-
-⬆️ 3 • 💬 1 • 6d ago • [boltassociation.com](https://boltassociation.com/)
-
----
-
 **[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
 
-⬆️ 2 • 💬 0 • 12h ago
+⬆️ 2 • 💬 0 • 15h ago
 
 ---
 
@@ -319,6 +311,14 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 ---
 
+**[Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit](https://news.ycombinator.com/item?id=48640568)**
+
+Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
+
+⬆️ 2 • 💬 0 • 7h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -329,37 +329,7 @@ Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 1K • 💬 25 • ⏱️ 14:10 • 12h ago
-
----
-
-**[Warning: Bitcoin Is About To Face It’s Biggest Test Yet!](https://www.youtube.com/watch?v=tXZVKsC31p0)**
-
-In today's video, Kyledoops outlines why the Saylor playbook could be failing & how this may impact the spot price of Bitcoin.
-
-📺 Crypto Banter
-
-👁️ 4K • 👍 545 • 💬 4 • ⏱️ 38:34 • 1h ago
-
----
-
-**[What Binance Founder CZ Thinks About Bitcoin](https://www.youtube.com/watch?v=UKGaxkDcJXk)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 11K • 👍 624 • 💬 233 • ⏱️ 13:50 • 9h ago
-
----
-
-**[They Trapped Elon Musk&#39;s Trillion. Yours Is Next. Got Bitcoin?](https://www.youtube.com/watch?v=-tCJ8sCvpVU)**
-
-Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, the Fed's inflation games, and the SpaceX insider ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 1K • 💬 90 • ⏱️ 15:35 • 12h ago
+👁️ 25K • 👍 1K • 💬 25 • ⏱️ 14:10 • 15h ago
 
 ---
 
@@ -369,37 +339,17 @@ The US government is quietly turning AI into the next “too big to fail” indu
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 119 • ⏱️ 18:52 • 1d ago
+👁️ 18K • 👍 1K • 💬 117 • ⏱️ 18:52 • 1d ago
 
 ---
 
-**[Bitcoin: This Is About to Reshape History](https://www.youtube.com/watch?v=2_VYpBDdxsM)**
+**[They Trapped Elon Musk&#39;s Trillion. Yours Is Next. Got Bitcoin?](https://www.youtube.com/watch?v=-tCJ8sCvpVU)**
 
-TIA WEEKLY REPORTS, GET ACCESS HERE → https://link.tiainvestor.com/jyt-reports TIA 18-YEAR CYCLE MINI-COURSE, ...
+Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, the Fed's inflation games, and the SpaceX insider ...
 
-📺 Jason Pizzino
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 789 • 💬 48 • ⏱️ 31:13 • 7h ago
-
----
-
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=d71wYhwKpFY)**
-
-Let's provide an update to the Bitcoin bear market resistance band! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 69K • 👍 4K • 💬 103 • ⏱️ 7:22 • 1d ago
-
----
-
-**[BITCOIN: GET READY!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=zXCJSUYFoVU)**
-
-My Free Trading Course https://rt1m.com/free My Free Discord Community https://discord.com/invite/jRAnCV9CTB ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 194 • 💬 29 • ⏱️ 6:57 • 11h ago
+👁️ 18K • 👍 1K • 💬 92 • ⏱️ 15:35 • 15h ago
 
 ---
 
@@ -409,17 +359,67 @@ Bitcoin price is pushing higher as traders assess the latest macro developments 
 
 📺 DataDash
 
-👁️ 3K • 👍 182 • 💬 19 • ⏱️ 16:57 • 17h ago
+👁️ 3K • 👍 188 • 💬 20 • ⏱️ 16:57 • 20h ago
 
 ---
 
-**[Bitcoin Oversold?📉Crypto Market Update](https://www.youtube.com/watch?v=dKqpM6W6N14)**
+**[Bitcoin: This Is About to Reshape History](https://www.youtube.com/watch?v=2_VYpBDdxsM)**
 
-Bitcoin price climbed above $65000 Monday morning, caught between a sixth straight week of spot ETF outflows, a hawkish ...
+TIA WEEKLY REPORTS, GET ACCESS HERE → https://link.tiainvestor.com/jyt-reports TIA 18-YEAR CYCLE MINI-COURSE, ...
 
-📺 Paul Barron Network
+📺 Jason Pizzino
 
-👁️ 29K • 👍 1K • 💬 163 • ⏱️ 16:04 • 14h ago
+👁️ 13K • 👍 983 • 💬 51 • ⏱️ 31:13 • 10h ago
+
+---
+
+**[Bitcoin Bear Flag Confirmed, BUT THERE IS SOMETHING WORSE](https://www.youtube.com/watch?v=SR5gayuF4m0)**
+
+Bitcoin's bear flag has been fully validated after the price lost channel support and then wicked up to $65622 on Monday, ...
+
+📺 Coin Bureau Trading
+
+👁️ 4K • 👍 542 • 💬 40 • ⏱️ 22:24 • 6h ago
+
+---
+
+**[BUYING BITCOIN HERE !!!! (NEW TRADE)](https://www.youtube.com/watch?v=lfNs6EuTTsE)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 259 • 💬 122 • ⏱️ 6:50 • 6h ago
+
+---
+
+**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=d71wYhwKpFY)**
+
+Let's provide an update to the Bitcoin bear market resistance band! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 70K • 👍 4K • 💬 112 • ⏱️ 7:22 • 1d ago
+
+---
+
+**[BITCOIN.. let&#39;s just say it&#39;s B**](https://www.youtube.com/watch?v=2zXAhrPT-_4)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 10K • 👍 605 • 💬 365 • ⏱️ 10:17 • 16h ago
+
+---
+
+**[This Crypto Opportunity Won&#39;t Stay Cheap For Long](https://www.youtube.com/watch?v=ZEg5WPm1OHk)**
+
+In today's live, Ran breaks down one of the most important investment narratives shaping 2026 and how it stacks up against ...
+
+📺 Crypto Banter
+
+👁️ 19K • 👍 1K • 💬 42 • ⏱️ 24:28 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T09:40:20.207734+00:00'
+updated: '2026-06-23T12:33:28.675574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 09:40 UTC  
+**Last Updated:** June 23, 2026 at 12:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.5%  
-**7d:** -5.6%  
-**30d:** -21.8%  
-**90d:** -19.8%  
-**1y:** -32.4%  
+**24h:** -6.7%  
+**7d:** -5.2%  
+**30d:** -21.5%  
+**90d:** -19.5%  
+**1y:** -32.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.23B
+**Market Cap:** $216.43B
 Rank #2
 
-**Circulating Supply:** 120,683,836 ETH
+**Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.6%
+-63.7%
 
 **All-Time Low:** $0.43
-+381184.1%
++414030.9%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I wrapped some ETH a long time ago and completely forgot about it. I just noticed it sitting in my MetaMask wallet. Im wondering where I should be able to unwrap it since its located in Arbitrum network, direct step by step guide on how to go about this will be appropriated Thanks
 
-2d ago
+3d ago
 
 ---
 
@@ -110,7 +110,7 @@ Hsiao-Wei Wang stepped down, 1M lifetime developers, Glamsterdam upgrade adds se
 
 **[EU's MICA regulation taking action on July 1st.](https://www.reddit.com/r/ethereum/comments/1u9z59f/eus_mica_regulation_taking_action_on_july_1st/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -150,11 +150,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum 'tax' debate erupts over proposal to redirect portion of staking rewards to ecosystem funding](https://www.theblock.co/post/405525/ethereum-tax-debate)**
+**[Tom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use](https://finance.yahoo.com/markets/crypto/articles/tom-lee-joe-lubin-push-202428832.html)**
 
-A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
+Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
 
-The Block • 23h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
+
+Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+
+The Block • 16h ago
+
+---
+
+**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+
+/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+
+PR Newswire • 18h ago
 
 ---
 
@@ -166,19 +182,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Is the Cheapest It's Been in Years. Here's What History Says Happens Next.](https://finance.yahoo.com/markets/crypto/articles/ethereum-cheapest-years-heres-history-090000931.html)**
+**[Robert Kiyosaki Says Bitcoin, Ethereum Remain On His Radar: 'I Think Our Global Leaders Are Incompetent'](https://sg.finance.yahoo.com/news/robert-kiyosaki-says-bitcoin-ethereum-100109160.html)**
 
-Sometimes assets are in the bargain bin for a reason.
+"Rich Dad Poor Dad" author Robert Kiyosaki says he is closely watching Bitcoin, Ethereum, gold and silver for signs of a reversal, calling global leaders incompetent for making things worse. Falling Prices Do Not Determine Buying, Selling In an X post on June 20, Kiyosaki noted that falling prices alone do not determine whether he buys or sells an asset. "One mistake I have made (and I’ve made many) is letting price determine reasons to buy or sell any asset," he wrote. Don’t Miss: A single bad
 
-Yahoo Finance • 40m ago
-
----
-
-**[Ethereum’s Healthy Network Hides a Rotation Its 7-Week ETF Bleed Won’t Show](https://finance.yahoo.com/markets/crypto/articles/ethereum-healthy-network-hides-rotation-071857178.html)**
-
-Ethereum ETF outflows hit a 7th week, but a healthy network and a direct flow read reveal a quiet rotation into ETH the funds miss.
-
-Yahoo Finance • 2h ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
@@ -186,31 +194,23 @@ Yahoo Finance • 2h ago
 
 The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
 
-CoinDesk • 20h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.67 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-67-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302805995.html)**
 
-/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine's Series A Preferred...
 
-PR Newswire • 15h ago
-
----
-
-**[Ethereum news: Joe Lubin, Sharplink, Tom Lee's Bitmine back new Ethereum research lab](https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub)**
-
-Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation.
-
-CoinDesk • 14h ago
+PR Newswire • 1d ago
 
 ---
 
-**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
+**[Are Ethereum Validators Vitalik Buterin’s New Cash Cow?](https://www.tradingview.com/news/99Bitcoins:b39a16b46094b:0-are-ethereum-validators-vitalik-buterin-s-new-cash-cow/)**
 
-Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+In Ethereum news today, a new governance proposal would force Ethereum validators to redirect up to 10% of their ETH staking rewards toward ecosystem funding, and if a majority of validators signal support, every validator on the network gets swept in, whether they voted for it or not.At current st…
 
-The Block • 14h ago
+TradingView • 21h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Block • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 22h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 19h ago
 
 MONACO, June  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as buyers watch speculation around a possible third CEX ...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -234,43 +234,33 @@ markets.businessinsider.com • 8h ago
 
 ## YouTube Videos: "ethereum"
 
-**[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
-
-3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 158 • ⏱️ 13:42 • 1d ago
-
----
-
 **[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
 
 Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 68 • 💬 5 • ⏱️ 14:55 • 15h ago
+👁️ 2K • 👍 74 • 💬 7 • ⏱️ 14:55 • 18h ago
 
 ---
 
-**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
+**[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
 
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
+3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Lark Davis
+📺 Altcoin Daily
 
-👁️ 40K • 👍 1K • 💬 203 • ⏱️ 11:57 • 1d ago
+👁️ 36K • 👍 2K • 💬 159 • ⏱️ 13:42 • 1d ago
 
 ---
 
-**[BTC &amp; ETHEREUM, Lage? Jetzt scheint sie klar zu sein, das wird in den nächsten Wochen passieren!](https://www.youtube.com/watch?v=1efLWJCLe74)**
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
 
-📺 Krypto Trading & Investing
+📺 Jake Gordon Crypto
 
-👁️ 3K • 👍 485 • 💬 39 • ⏱️ 10:15 • 5h ago
+👁️ 981 • 👍 74 • 💬 23 • ⏱️ 14:40 • 19h ago
 
 ---
 
@@ -290,37 +280,37 @@ MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) 
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 278 • 💬 12 • ⏱️ 29:19 • 15h ago
+👁️ 4K • 👍 282 • 💬 19 • ⏱️ 29:19 • 18h ago
 
 ---
 
-**[DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)](https://www.youtube.com/watch?v=TibSwyw7JNQ)**
+**[🚨ЭФИРИУМ УМИРАЕТ..? | МАСК: «ПЕЧАТНЫЙ СТАНОК ЗАПУСТЯТ, КОГДА…»](https://www.youtube.com/watch?v=lZKoQ53k7xY)**
 
-DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of the entire DeFi economy, why Ethereum's ten-year ...
+Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
 
-📺 The Rollup
+📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
 
-👁️ 1K • 👍 42 • 💬 5 • ⏱️ 6:42 • 14h ago
-
----
-
-**[Ethereum Resistance Could Trigger A Much Bigger Crash](https://www.youtube.com/watch?v=Dx9l8XLPRN4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 349 • 👍 15 • 💬 1 • ⏱️ 6:13 • 15h ago
+👁️ 3K • 👍 676 • 💬 71 • ⏱️ 23:25 • 51m ago
 
 ---
 
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
 
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
 
-📺 Jake Gordon Crypto
+📺 Lark Davis
 
-👁️ 882 • 👍 67 • 💬 23 • ⏱️ 14:40 • 16h ago
+👁️ 41K • 👍 1K • 💬 204 • ⏱️ 11:57 • 2d ago
+
+---
+
+**[LAST CHANCE FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=UCXg7MVoAyU)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 115 • 👍 12 • ⏱️ 4:51 • 3h ago
 
 ---
 
@@ -330,7 +320,17 @@ MIS EXCHANGES FAVORITOS: 1️⃣ 200 USDT GRATIS REGÍSTRATE AQUÍ: https://bit.
 
 📺 WhatsUpCripto
 
-👁️ 1K • 👍 160 • 💬 34 • ⏱️ 10:32 • 12h ago
+👁️ 1K • 👍 167 • 💬 34 • ⏱️ 10:32 • 15h ago
+
+---
+
+**[BTC &amp; ETHEREUM, Lage? Jetzt scheint sie klar zu sein, das wird in den nächsten Wochen passieren!](https://www.youtube.com/watch?v=1efLWJCLe74)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 527 • 💬 61 • ⏱️ 10:15 • 8h ago
 
 ---
 
