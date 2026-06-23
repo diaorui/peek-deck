@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T15:48:59.182231+00:00'
+updated: '2026-06-23T17:56:26.229037+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 15:48 UTC  
+**Last Updated:** June 23, 2026 at 17:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** -5.6%  
-**30d:** -21.8%  
-**90d:** -19.8%  
-**1y:** -32.4%  
+**24h:** -4.6%  
+**7d:** -5.5%  
+**30d:** -21.7%  
+**90d:** -19.7%  
+**1y:** -32.3%  
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-ethereum.org • 2h ago
+ethereum.org • 4h ago
 
 ---
 
@@ -160,31 +160,15 @@ ethereum.org • 2h ago
 
 The reduction follows a period of significant upheaval at the organization’s leadership level.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Robert Kiyosaki Says Bitcoin, Ethereum Remain On His Radar: 'I Think Our Global Leaders Are Incompetent'](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-says-bitcoin-ethereum-100109160.html)**
+**[Ethereum Foundation Cuts 20% of Staff in Restructuring](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-cuts-20-staff-172319275.html)**
 
-"Rich Dad Poor Dad" author Robert Kiyosaki says he is closely watching Bitcoin, Ethereum, gold and silver for signs of a reversal, calling global leaders incompetent for making things worse. Falling Prices Do Not Determine Buying, Selling In an X post on June 20, Kiyosaki noted that falling prices alone do not determine whether he buys or sells an asset. "One mistake I have made (and I’ve made many) is letting price determine reasons to buy or sell any asset," he wrote. Don’t Miss: A single bad
+The Ethereum Foundation cut 54 staff and reorganized around five clusters, one day after former EF researchers launched the independent lab Ethlabs.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Tom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use](https://finance.yahoo.com/markets/crypto/articles/tom-lee-joe-lubin-push-202428832.html)**
-
-Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
-
-Yahoo Finance • 19h ago
-
----
-
-**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
-
-Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
-
-The Block • 20h ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -192,7 +176,47 @@ The Block • 20h ago
 
 /PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
 
-PR Newswire • 21h ago
+PR Newswire • 23h ago
+
+---
+
+**[Tom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use](https://finance.yahoo.com/markets/crypto/articles/tom-lee-joe-lubin-push-202428832.html)**
+
+Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
+
+Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+
+The Block • 22h ago
+
+---
+
+**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
+
+Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
+
+The Block • 1d ago
+
+---
+
+**[Current price of Ethereum for June 23, 2026](https://fortune.com/article/price-of-ethereum-06-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-adds-92-151830218.html)**
+
+The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -204,33 +228,29 @@ PR Newswire • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 23, 2026](https://fortune.com/article/price-of-ethereum-06-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
-
----
-
-**[Are Ethereum Validators Vitalik Buterin’s New Cash Cow?](https://www.tradingview.com/news/99Bitcoins:b39a16b46094b:0-are-ethereum-validators-vitalik-buterin-s-new-cash-cow/)**
-
-In Ethereum news today, a new governance proposal would force Ethereum validators to redirect up to 10% of their ETH staking rewards toward ecosystem funding, and if a majority of validators signal support, every validator on the network gets swept in, whether they voted for it or not.At current st…
-
-TradingView • 1d ago
-
----
-
-**[Ethereum Is the Cheapest It's Been in Years. Here's What History Says Happens Next.](https://www.fool.com/investing/2026/06/23/ethereum-is-the-cheapest-its-been-in-years/)**
-
-Sometimes assets are in the bargain bin for a reason.
-
-The Motley Fool • 6h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
+
+The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
+
+📺 Yahoo Finance
+
+👁️ 1K • 👍 109 • 💬 7 • ⏱️ 14:53 • 1h ago
+
+---
+
+**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
+
+Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 611 • 💬 93 • ⏱️ 20:58 • 5h ago
+
+---
 
 **[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
 
@@ -248,7 +268,17 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 74 • 💬 7 • ⏱️ 14:55 • 21h ago
+👁️ 3K • 👍 74 • 💬 7 • ⏱️ 14:55 • 23h ago
+
+---
+
+**[0.01 Ethereum is $16.58 (Good Deal?)](https://www.youtube.com/watch?v=19eYSfiEcYY)**
+
+Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing ...
+
+📺 Brian Harrington
+
+👁️ 339 • 👍 32 • 💬 9 • ⏱️ 9:26 • 2h ago
 
 ---
 
@@ -258,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 178 • 👍 16 • 💬 24 • ⏱️ 4:51 • 7h ago
+👁️ 221 • 👍 17 • 💬 23 • ⏱️ 4:51 • 9h ago
 
 ---
 
@@ -268,7 +298,7 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 71K • 👍 4K • 💬 230 • ⏱️ 15:20 • 1d ago
+👁️ 71K • 👍 4K • 💬 231 • ⏱️ 15:20 • 1d ago
 
 ---
 
@@ -278,27 +308,7 @@ Telegram (аналитика, точки входа, главные мысли):
 
 📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
 
-👁️ 9K • 👍 2K • 💬 143 • ⏱️ 23:25 • 4h ago
-
----
-
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
-
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
-
-📺 Jake Gordon Crypto
-
-👁️ 1K • 👍 81 • 💬 48 • ⏱️ 14:40 • 22h ago
-
----
-
-**[ETH Become the Next Bitcoin? Similarity Between BTC and ETH #cryptocurrency #cryptonews #BTC #ETH](https://www.youtube.com/watch?v=Nh2sggiXVtU)**
-
-Did Ethereum founder Vitalik Buterin just change the game for ETH investors? In a major public acknowledgment, Vitalik stated ...
-
-📺 SMC KAPIL DEV
-
-👁️ 2K • 👍 103 • 💬 75 • ⏱️ 6:17 • 13h ago
+👁️ 12K • 👍 2K • 💬 165 • ⏱️ 23:25 • 6h ago
 
 ---
 
@@ -308,27 +318,17 @@ DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of t
 
 📺 The Rollup
 
-👁️ 1K • 👍 43 • 💬 9 • ⏱️ 6:42 • 20h ago
+👁️ 1K • 👍 45 • 💬 10 • ⏱️ 6:42 • 22h ago
 
 ---
 
-**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
+**[ETH Become the Next Bitcoin? Similarity Between BTC and ETH #cryptocurrency #cryptonews #BTC #ETH](https://www.youtube.com/watch?v=Nh2sggiXVtU)**
 
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
+Did Ethereum founder Vitalik Buterin just change the game for ETH investors? In a major public acknowledgment, Vitalik stated ...
 
-📺 Lark Davis
+📺 SMC KAPIL DEV
 
-👁️ 41K • 👍 1K • 💬 213 • ⏱️ 11:57 • 2d ago
-
----
-
-**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
-
-MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
-
-📺 CryptoWendyO
-
-👁️ 4K • 👍 285 • 💬 19 • ⏱️ 29:19 • 21h ago
+👁️ 2K • 👍 109 • 💬 98 • ⏱️ 6:17 • 15h ago
 
 ---
 

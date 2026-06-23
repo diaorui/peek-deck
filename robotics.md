@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-23T15:48:59.185069+00:00'
+updated: '2026-06-23T17:56:26.231919+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 23, 2026 at 15:48 UTC  
+**Last Updated:** June 23, 2026 at 17:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[VLAs vs Nvidia world models vs all of that: where are we going?](https://www.reddit.com/r/robotics/comments/1udicvb/vlas_vs_nvidia_world_models_vs_all_of_that_where/)**
+
+I'm reading the papers of Cosmos3 and Dreamzero and they looks very promising (compared to memoryless VLAs). And I am wondering where the filed will evolve. Based on your practical experience with new models, what's your bet between VLAs, WM, Jepa-style, WAM, RL approaches, and all of that? I worked so far with VLAs (eg pi05), and I don't have any experience in using the nvidia stack so far, of and other world action models. I am thinking if I should invest time in changing the base policy, and I'd appreciate some feedback form who has tested them (ie: the open source/weights model available, and capable of inference without one thousand gb of vram) On my side I'm a fan of model working planning latent space; video action models (which have more temporal coherence wrt vla), but I also feel that semantic power of a VLM should be present aswell. Ps: suggested survey reading in this topic: "World Model for Robot Learning: A Comprehensive Survey" Happy to discuss with you
+
+3h ago
+
+---
+
 **[Building a Humanoid Robot From Scratch](https://www.reddit.com/r/robotics/comments/1ucl3or/building_a_humanoid_robot_from_scratch/)**
 
 I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the development process so far: https://vt.tiktok.com/ZSCJJAqr6/
@@ -40,11 +48,11 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 ---
 
-**[Visited a humanoid robotics incubator recently. Are we actually getting close to deployment this time?](https://www.reddit.com/r/robotics/comments/1uddpo0/visited_a_humanoid_robotics_incubator_recently/)**
+**[Help](https://www.reddit.com/r/robotics/comments/1udh5lm/help/)**
 
-I recently visited a robotics space that’s focused specifically on humanoid robots. Not industrial arms, warehouse AGVs, or general automation, but bipedal / human-form platforms. It’s part of an incubator-style setup for early-stage teams working in this niche. What surprised me most wasn’t actually the full robots. The complete humanoid demos were interesting, of course, but the component side stood out more: actuators, dexterous hands, sensing systems, and all the less visible hardware that makes these machines possible. It made me think that the real progress may be happening below the “cool demo video” layer. Another thing I noticed was the visitor mix. Over just a couple of weeks, there seemed to be people coming through from different parts of the world: corporate visitors, researchers, MBA / exec ed groups, and others trying to understand where the field really is. The common question seemed to be: are humanoids actually close to being useful in real-world environments, or is this still mostly future-facing R&D? The incubator model itself also felt notable. Instead of every startup trying to build everything alone, the space seems designed to put founders, suppliers, researchers, and component companies near each other. That kind of clustering has worked in other deep-tech sectors, so I’m curious whether humanoids need the same thing to move faster. A few questions I’m still thinking about: Are humanoid robots finally approaching real product-market fit, or are we still in the “ten years away” phase? Which use cases are most likely to come first: logistics, manufacturing, elder care, inspection, retail, or something else? Is the recent momentum mostly driven by hype and funding, or are there specific technical bottlenecks that have genuinely improved? Are components like actuators and robotic hands the real near-term market before full humanoids become practical? I’m interested in how people here read the current moment. For those working in robotics, automation, or related hardware: does this feel meaningfully different from previous humanoid waves?
+Hey i was working on a 6dof robot arm and completely new to this And just found out about inverse kinematics I'm having trouble trying to find the right material to learn it where can I find good material
 
-5h ago
+4h ago
 
 ---
 
@@ -52,7 +60,15 @@ I recently visited a robotics space that’s focused specifically on humanoid ro
 
 Weekend project, one weekend in — lots still half-built: a 6-DoF SO-101 arm (Feetech STS3215 / LeRobot) with a wrist camera, driven by an agent that plans camera moves, films them, and stitches the edit. Sharing v1 — rough, but the loop works. The demo is a side-by-side: left is an external phone shot (manual), right is the arm's own wrist camera. The choreography — wake → framed "hero" pose → dolly/roll/tilt beats → rest — runs through a safety layer (soft joint limits + velocity cap + stop sentinel). A few things I hit that others might find useful: 🔧 Dead elbow servo, diagnosed by feel. Stiff to backdrive, idle temp 53°C vs ~38°C on the others = shorted/lossy winding. Swapped it, re-set the ID, recalibrated the joint. 📐 The jerky motion wasn't the servo or the mount. Braced the table and it still jerked — turns out it's STS3215 gear backlash (~0.87° measured by others) plus low-speed stick-slip. Confirmed stick-slip is speed-dependent: ~51 backward micro-ticks at 12°/s vs ~0 at 50°/s. ✅ The fix: dropped P_Coefficient 32 → 16 (LeRobot's own recommended value). Slow-speed judder went from ~43 stutter events/sweep to ~0 in a controlled A/B. Plus: keep recorded moves single-direction and faster. 🎯 No IK yet, so "orbits" drift. Leaned on framing-safe moves — roll about the optical axis, dolly, tilt — to keep the subject centered. The goal is reusability: clone the repo, build/attach the SO-101, and you can direct Claude to film your own demos. Still manual for now (external camera + initial framing/hero pose). Next up: better camera, longer scripts, closed-loop framing. As always, it's all open source — control lib, safety layer, calibration, and the motion/stitch scripts. I will organise it better once the project is complete 👉 https://github.com/kamalkantsingh10/dummie Happy to go deeper on the motion-streaming / backlash tuning if useful.
 
-15h ago
+18h ago
+
+---
+
+**[Robotics MS/Phd cycle chances](https://www.reddit.com/r/robotics/comments/1udkqh2/robotics_msphd_cycle_chances/)**
+
+not sure if this is the right flair 😕 I had put this post up on r/gradadmissions but i feel like I'd get a better demographic that knows the field better here
+
+2h ago
 
 ---
 
@@ -60,7 +76,21 @@ Weekend project, one weekend in — lots still half-built: a 6-DoF SO-101 arm (F
 
 Trained in mjlab with a relatively simple reward function mainly rewarding torso height and end pose + some simple energy, self collision etc penalty.
 
-23h ago
+1d ago
+
+---
+
+**[Tag Chaser v2 — measuring AprilTag PnP noise before picking a filter](https://www.reddit.com/r/robotics/comments/1udkehh/tag_chaser_v2_measuring_apriltag_pnp_noise_before/)**
+
+Follow-up to my v2 trajectory post. The RViz trajectory had visible zig-zag jitter even when the robot was stationary. Before deciding what filter to apply, I wanted to actually measure the noise and understand what's driving it. The problem The v2 system uses a physically fixed AprilTag (tag1) as a world frame anchor. The Pi detects it each frame, inverts the camera→tag transform to get world→camera, and publishes that as a TF. The zig-zags in the trajectory come from frame-to-frame instability in that pose estimate. The root cause is AprilTag PnP pose ambiguity — the solver has two valid geometric solutions for a planar tag and flips between them. The flip shows up as a large swing on one axis, typically ±15cm, even with the camera stationary. On top of that, small angular errors get amplified into position noise through the matrix inversion: at ~74cm tag distance, a 5° rotation error becomes ~6.5cm of position noise in world frame. The question I wanted to answer before touching the filter: how much does tag size actually move the needle? Method Added a single_tag_world_mode flag to config so ManualTracker can run with just the world anchor tag in frame — no chase target needed. Camera held stationary, pointed directly at the tag, for ~2–3 minutes per condition. Raw camera-frame poses recorded automatically to JSON. Four conditions: 5cm and 20cm printed tags, each with room lights on and off. All four plots below share identical axis scales so the distributions are directly comparable. Results Condition σ X σ Y σ Z (depth) 5cm — lights off 3.4 cm 0.5 cm 4.5 cm 5cm — lights on 5.1 cm 1.7 cm 3.7 cm 20cm — lights on 2.7 cm 0.4 cm 1.4 cm 20cm — lights off 2.1 cm 1.0 cm 1.7 cm (Images: 5cm lights off → 5cm lights on → 20cm lights on → 20cm lights off) What the plots show Tag size dominates. Going from 5cm to 20cm cuts depth noise by roughly 3x. The distributions tighten and become more unimodal — the PnP flip signature (broad or bimodal histogram on X and Z) is clearly visible in the 5cm sessions and largely absent in the 20cm sessions. Lighting is secondary. For the 5cm tag, lights-on is actually worse on X (σ 5.1 vs 3.4cm), likely because uncontrolled ambient light causes glare that degrades corner localization on a small tag. For the 20cm tag the lighting effect is small enough that it's not the thing to optimize. Best condition across all three axes simultaneously: 20cm + lights on (σX=2.7cm, σY=0.4cm, σZ=1.4cm). What's next This experiment was groundwork, not a fix. The noise is reduced but still present — 2cm+ std dev on X and Z with a stationary camera is not acceptable for a usable world frame. The next step is a filter, but the right choice (EWMA, velocity gate, Kalman, or some combination) depends on understanding the noise characteristics, which is what this data was for. Still deciding. Open to suggestions from anyone who's dealt with PnP jitter on planar markers before. References Post history v2 trajectory post v1 tag chaser PiCar-X introduction Hardware / code PiCar-X on Amazon Git repo
+
+2h ago
+
+---
+
+**[create robot descriptor/URDF from STEP file](https://www.reddit.com/r/robotics/comments/1udj61t/create_robot_descriptorurdf_from_step_file/)**
+
+3h ago
 
 ---
 
@@ -76,39 +106,7 @@ In this python simulation: a robot spins a sensor and receives the distance. I m
 
 Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kinda think it could only problem would be power/batteries. If it would work what could it be used for? I mainly think security, patrolling important assets etc.
 
-19h ago
-
----
-
-**[University of Michigan researchers release AFUN for robot affordance understanding — RuntimeWire](https://www.reddit.com/r/robotics/comments/1ud7io1/university_of_michigan_researchers_release_afun/)**
-
-AFUN, a University of Michigan-led robotics model, predicts where robots should interact with objects and how they should move after contact.
-
-🔗 [RuntimeWire](https://runtimewire.com/article/university-of-michigan-researchers-release-afun-for-robot-affordance-understandi) • 10h ago
-
----
-
-**[Synthetic-Augmented RGB-D to 3D Object Localization pipeline](https://www.reddit.com/r/robotics/comments/1ucqzvs/syntheticaugmented_rgbd_to_3d_object_localization/)**
-
-This draw io diagram summarizes the perception pipeline I'm building for robotic object localization: - Capture real RGB-D data with an eye-in-hand camera setup. - Bootstrap a small labeled dataset - Fine-tune a YOLO-Seg model - Generate assisted labels for additional real captures - Compose synthetic RGB-D views using masks, depth, camera intrinsics and in-painted backgrounds. - Retrain the segmentation model with the expanded dataset - Input 2D masks, classes and confidences into 3D using depth and camera intrinsics - Extract 3D object localization outputs usable for robotic tasks -- Feedback is welcome!
-
-22h ago
-
----
-
-**[Are there any open-source quadrupeds that match the capabilities of the mini-cheetah?](https://www.reddit.com/r/robotics/comments/1ud1t78/are_there_any_opensource_quadrupeds_that_match/)**
-
-I've been considering a long-term quadruped project and have been poking around the builds that are out there. There's a ton of cool stuff, but so far I haven't seen anything open-source seems to match the dynamic motion capabilities of the mini-cheetah. "Dynamic motion capabilities" is pretty hard to pin down without benchmarks, but subjectively I mean the speed, rough-terrain capabilities, and performance jumping/falling. (Even more subjectively I mean the backflip). Given the seven year gap that really surprised me. My question for the community is two-fold: Is there an open-source quadruped build that does match the mini-cheetah that I just missed? If not, why?
-
-15h ago
-
----
-
-**[Demo of quadruped robot navigating low barrier with wall support](https://www.reddit.com/r/robotics/comments/1ubkv4u/demo_of_quadruped_robot_navigating_low_barrier/)**
-
-From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
-
-2d ago
+21h ago
 
 ---
 
@@ -134,23 +132,7 @@ NVIDIA Newsroom • 1d ago
 
 **[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
 
-Axios • 11h ago
-
----
-
-**[Vecna Robotics Appoints Cody Upp as Chief Commercial Officer As Demand for Case Flow Expands](https://finance.yahoo.com/technology/articles/vecna-robotics-appoints-cody-upp-130000492.html)**
-
-Former Zebra Technologies and 6 River Systems, Upp Brings Deep Supply Chain and Warehouse Automation Leadership ExpertiseWALTHAM, Mass., June 23, 2026 (GLOBE NEWSWIRE) -- Vecna Robotics, the leader in flexible material handling automation and warehouse orchestration solutions, today announced the appointment of Cody Upp as Chief Commercial Officer (CCO). Upp joins the company’s executive leadership team as Vecna Robotics scales to meet growing customer demand for its CaseFlow™ warehouse orchestr
-
-Yahoo Finance • 2h ago
-
----
-
-**[Safeguarding the 2026 FIFA World Cup: DEEP Robotics' Robot Dogs Forge a New Model for Security Patrols](https://finance.yahoo.com/technology/ai/articles/safeguarding-2026-fifa-world-cup-142700287.html)**
-
-MONTERREY, MEXICO / ACCESS Newswire / June 23, 2026 / The 2026 FIFA World Cup is in full swing, a "robot patrol team" consisting of advanced robot dogs has been making a strong impression at Monterrey Stadium in Mexico. This smart quadruped-robot ...
-
-Yahoo Finance • 1h ago
+Axios • 13h ago
 
 ---
 
@@ -158,7 +140,7 @@ Yahoo Finance • 1h ago
 
 US autoworkers union warns of robot automation as dark factory future looms.
 
-Ars Technica • 17h ago
+Ars Technica • 20h ago
 
 ---
 
@@ -166,7 +148,7 @@ Ars Technica • 17h ago
 
 Gleanmer is a new system that can construct detailed 3D maps of a robot’s environment at high speed while operating at extremely low power. The advance could enable tiny devices to avoid obstacles and safely navigate in the real world.
 
-MIT News • 11h ago
+MIT News • 13h ago
 
 ---
 
@@ -174,7 +156,7 @@ MIT News • 11h ago
 
 From robotic bulldozers to hybrid drone‑rovers, the IDF is rapidly expanding its autonomous ground fleet.
 
-The Jerusalem Post • 3h ago
+The Jerusalem Post • 5h ago
 
 ---
 
@@ -182,7 +164,7 @@ The Jerusalem Post • 3h ago
 
 The cuts come as Karl Storz plans to retire the Asensus brand and the Senhance robot as part of organizational changes.
 
-MedTech Dive • 19h ago
+MedTech Dive • 21h ago
 
 ---
 
@@ -191,7 +173,23 @@ MedTech Dive • 19h ago
 Some see advancements in robotics and artificial intelligence as a threat to the workforce.
 Others see it as an indicator of who and what “got left...
 
-Pittsburgh Post-Gazette • 19h ago
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
+**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
+
+Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
+
+Crunchbase News • 1d ago
+
+---
+
+**[Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/)**
+
+Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -205,17 +203,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 40K • 👍 972 • 💬 159 • ⏱️ 13:45 • 1d ago
-
----
-
-**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
-
-📺 PRO ROBOTS
-
-👁️ 48K • 👍 857 • 💬 69 • ⏱️ 24:13 • 3d ago
+👁️ 42K • 👍 1K • 💬 164 • ⏱️ 13:45 • 1d ago
 
 ---
 
@@ -229,33 +217,61 @@ At China's Dragon Boat Festival, everybody takes place – including the robots.
 
 ---
 
+**[War Robots - Secrets Revealed For Anaksor WR Anaksor Guide](https://www.youtube.com/watch?v=oXV6ctTQWxU)**
+
+War Robots - Secrets Revealed for the Anaksor robot. In this guide, I go over what Specialization track I typically use along with ...
+
+📺 Adrian Chong
+
+👁️ 2K • 👍 157 • 💬 39 • ⏱️ 22:16 • 4h ago
+
+---
+
 **[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
 
 Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
 
 📺 Jason Lowe on AI
 
-👁️ 354K • 👍 15K • 💬 3K • ⏱️ 2:51 • 5d ago
+👁️ 357K • 👍 15K • 💬 3K • ⏱️ 2:51 • 5d ago
 
 ---
 
-**[This Robot Transforms Into ANYTHING! 😱🤖🔥](https://www.youtube.com/watch?v=myVpssHCBG0)**
+**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
 
-A boy and a girl start fighting over an amazing robot... Suddenly, one of them takes the robot apart and challenges the other ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
 
-📺 COTTON EXPLAINS
+📺 PRO ROBOTS
 
-👁️ 36K • 💬 1 • ⏱️ 0:21 • 5d ago
+👁️ 48K • 👍 861 • 💬 70 • ⏱️ 24:13 • 4d ago
 
 ---
 
-**[China’s $173,000 Human-Like AI Robot Is Now for Sale… Moya SHOCKS The World](https://www.youtube.com/watch?v=Fz4_uDaBtxg)**
+**[#robot #borunte #spraying #welding #industrial](https://www.youtube.com/watch?v=mLdCtaG70W4)**
 
-A $173000 human-like robot is now for sale… and Moya might be the most lifelike humanoid robot you have ever seen. China's ...
+📺 BORUNTE-Robot-Messi
+
+👁️ 31K • 👍 60 • ⏱️ 0:12 • 2d ago
+
+---
+
+**[New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird](https://www.youtube.com/watch?v=9e_O8GtFcgI)**
+
+A new female AI robot just blurred the line between human and robot — and it's getting weird fast. You're about to meet a new ...
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 126 • 💬 15 • ⏱️ 23:32 • 1d ago
+👁️ 37K • 👍 1K • 💬 86 • ⏱️ 21:33 • 4d ago
+
+---
+
+**[War Robots - Does The Shoggoth With Hel And Skadi Work? WR Shoggoth Gameplay](https://www.youtube.com/watch?v=cnpqCmLsvKI)**
+
+War Robots - Does the Shoggoth with Hel and Skadi work? In this episode of “Does It Work?”, we explore whether the Shoggoth ...
+
+📺 Adrian Chong
+
+👁️ 3K • 👍 164 • 💬 34 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -263,37 +279,17 @@ A $173000 human-like robot is now for sale… and Moya might be the most lifelik
 
 📺 Army Clips
 
-👁️ 365K • 👍 11K • 💬 207 • ⏱️ 0:58 • 2d ago
+👁️ 393K • 👍 12K • 💬 225 • ⏱️ 0:58 • 2d ago
 
 ---
 
-**[She Gets ₹250/Hour To Train Robots!!](https://www.youtube.com/watch?v=zYHeSN_vX1Y)**
+**[Elon Musk SHOCKED Everyone With Tesla’s Most Human-Like Optimus Robot](https://www.youtube.com/watch?v=Ej7AuwZDJpA)**
 
-Follow us on Instagram here: https://www.instagram.com/aevytvdaily/ https://www.instagram.com/aevyvideoschool/ ...
+Tesla's most human-like Optimus robot showcases how rapidly artificial intelligence and humanoid robotics are advancing toward ...
 
-📺 Aevy TV
+📺 Carros Show
 
-👁️ 41K • 👍 3K • 💬 61 • ⏱️ 1:30 • 8h ago
-
----
-
-**[SCORPION Play LEVEL 999 – War Robots GOAT Gameplay](https://www.youtube.com/watch?v=80VRSmlY4Zs)**
-
-War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 8K • 👍 455 • 💬 67 • ⏱️ 10:03 • 1d ago
-
----
-
-**[China’s AI Robot Can Lay Tiles Faster Than Humans 😳🤖](https://www.youtube.com/watch?v=yp3Fr26tksE)**
-
-The future of construction is already here. This video showcases the PavePal robotic arm, an advanced AI-powered construction ...
-
-📺 Perigee Tech
-
-👁️ 121K • 👍 479 • 💬 11 • ⏱️ 0:05 • 4d ago
+👁️ 5K • 👍 175 • 💬 17 • ⏱️ 21:44 • 3d ago
 
 ---
 
