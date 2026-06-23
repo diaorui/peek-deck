@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-22T23:20:29.007619+00:00'
+updated: '2026-06-23T01:30:42.826411+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 22, 2026 at 23:20 UTC  
+**Last Updated:** June 23, 2026 at 01:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,740.54
+### $1,725.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -3.9%  
+**24h:** -0.3%  
+**7d:** -1.0%  
 **30d:** -18.0%  
-**90d:** -20.6%  
-**1y:** -28.6%  
+**90d:** -15.9%  
+**1y:** -29.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.43B
+**Market Cap:** $215.20B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.7%
+-63.9%
 
 **All-Time Low:** $0.43
-+414030.9%
++411779.1%
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum 'tax' debate erupts over proposal to redirect portion of staking rewards to ecosystem funding](https://www.theblock.co/post/405525/ethereum-tax-debate)**
+
+A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
+
+The Block • 15h ago
+
+---
+
 **[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin](https://www.fool.com/investing/2026/06/20/prediction-solana-will-replace-ethereum/)**
 
 If Solana's rate of growth continues, it could pass Ethereum in market cap sometime in 2030.
@@ -158,19 +166,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[ETH stakers could see rewards cut as Ethereum fights to fund its future](https://cryptoslate.com/ethereum-staking-rewards-funding-proposal/)**
-
-Ethereum staking rewards could be redirected to fund core development, raising concerns over who pays and who controls the money.
-
-CryptoSlate • 12h ago
-
----
-
 **[Bitcoin and ethereum prices today, Monday, June 22, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-22-2026-prices-moving-higher-this-morning-133853515.html)**
 
 Bitcoin opened at $63,242.26 on Monday, June 22, 2026, 1.6% lower than Sunday's opening price. Ethereum opened at $1,704.90 on Monday, down 2% from Sunday's opening price.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 9h ago
 
 Bitmine, Sharplink and Joe Lubin are funding an independent nonprofit lab led by former Ethereum Foundation researchers to support faster settlement and scaling.
 
-Stock Titan • 2h ago
+Stock Titan • 4h ago
 
 ---
 
@@ -186,15 +186,7 @@ Stock Titan • 2h ago
 
 Baillie Gifford Enhanced Yield Fund (BAGEY) is denominated in dollars, and gives eligible investors access to an actively managed, short-duration portfolio of public corporate bonds.
 
-CoinDesk • 11h ago
-
----
-
-**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
-
-Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
-
-The Block • 18h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -202,13 +194,21 @@ The Block • 18h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
 
-FXStreet • 19h ago
+FXStreet • 21h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Nears Third CEX Partnership as Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-third-cex-partnership-as-ethereum-price-prediction-targets-7-000-1036267085)**
+
+MONACO, June  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as buyers watch speculation around a possible third CEX ...
+
+markets.businessinsider.com • 20m ago
 
 ---
 
 **[Key facts: ETF Approvals Fail; 50k-ETH Short Raised; Japan Reclassifies](https://www.tradingview.com/news/tradingview:a7bb538cc4008:0-key-facts-etf-approvals-fail-50k-eth-short-raised-japan-reclassifies/)**
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 12h ago
 
 ---
 
@@ -224,7 +224,7 @@ Fortune • 10h ago
 
 Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
 
-TipRanks • 6h ago
+TipRanks • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 720 • 👍 30 • 💬 1 • ⏱️ 14:55 • 5h ago
+👁️ 884 • 👍 48 • 💬 2 • ⏱️ 14:55 • 7h ago
 
 ---
 
@@ -248,57 +248,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 191 • ⏱️ 13:42 • 1d ago
-
----
-
-**[Ethereum Resistance Could Trigger A Much Bigger Crash](https://www.youtube.com/watch?v=Dx9l8XLPRN4)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 167 • 👍 13 • 💬 1 • ⏱️ 6:13 • 5h ago
-
----
-
-**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 826 • 👍 35 • 💬 4 • ⏱️ 10:15 • 7h ago
-
----
-
-**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
-
-MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
-
-📺 CryptoWendyO
-
-👁️ 2K • 👍 208 • 💬 8 • ⏱️ 29:19 • 5h ago
-
----
-
-**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
-
-Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
-
-📺 Lark Davis
-
-👁️ 37K • 👍 1K • 💬 231 • ⏱️ 11:57 • 1d ago
-
----
-
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
-
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
-
-📺 Jake Gordon Crypto
-
-👁️ 321 • 👍 34 • 💬 10 • ⏱️ 14:40 • 6h ago
+👁️ 35K • 👍 2K • 💬 212 • ⏱️ 13:42 • 1d ago
 
 ---
 
@@ -308,7 +258,57 @@ DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of t
 
 📺 The Rollup
 
-👁️ 124 • 👍 9 • 💬 3 • ⏱️ 6:42 • 3h ago
+👁️ 531 • 👍 24 • 💬 3 • ⏱️ 6:42 • 6h ago
+
+---
+
+**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
+
+Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 1K • 👍 44 • 💬 4 • ⏱️ 10:15 • 9h ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 607 • 👍 45 • 💬 19 • ⏱️ 14:40 • 8h ago
+
+---
+
+**[Ethereum Resistance Could Trigger A Much Bigger Crash](https://www.youtube.com/watch?v=Dx9l8XLPRN4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 246 • 👍 14 • 💬 1 • ⏱️ 6:13 • 7h ago
+
+---
+
+**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
+
+MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 256 • 💬 10 • ⏱️ 29:19 • 7h ago
+
+---
+
+**[Tom Lee F*cked Up Bad… Or Did He?](https://www.youtube.com/watch?v=6plC6fXxBAA)**
+
+Join the Inner Circle and Stop Missing Out On Life Changing Trades https://cryptolark.co/THEINNERCIRCLE Tom Lee called ...
+
+📺 Lark Davis
+
+👁️ 38K • 👍 1K • 💬 216 • ⏱️ 11:57 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 67K • 👍 4K • 💬 227 • ⏱️ 15:20 • 1d ago
+👁️ 68K • 👍 4K • 💬 227 • ⏱️ 15:20 • 1d ago
 
 ---
 
