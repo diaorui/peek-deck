@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-23T20:08:50.305294+00:00'
+updated: '2026-06-23T21:57:05.936270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 23, 2026 at 20:08 UTC  
+**Last Updated:** June 23, 2026 at 21:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools](https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/)**
-
-A24 and Google have struck an AI research partnership that will see the independent studio work to develop new AI-powered technologies for filmmakers.
-
-🔗 [Variety](https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/) • 18h ago
-
----
-
 **[What has surprised you about how AI has been playing out so far?](https://www.reddit.com/r/artificial/comments/1udlnth/what_has_surprised_you_about_how_ai_has_been/)**
 
 Mine is that video generation and image generation hasn't been as groundbreaking as I thought. I don't know what I expected , but when Sora was first shown it felt like a whole new world was upon us. Even when the Studio Ghibli generations were going viral. Now it feels like coding is the real purpose of AI and the video and images are just kind of for slop and bot accounts.
 
-3h ago
+5h ago
+
+---
+
+**[Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools](https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/)**
+
+A24 and Google have struck an AI research partnership that will see the independent studio work to develop new AI-powered technologies for filmmakers.
+
+🔗 [Variety](https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/) • 19h ago
 
 ---
 
@@ -57,55 +57,15 @@ Mine is that video generation and image generation hasn't been as groundbreaking
 
 I started using Claude seriously because it felt like the first AI that really clicked with how I think. It was thoughtful, good with long writing projects, good at tone, and good at helping me turn half-formed thoughts into something coherent. For a while it felt less like using a tool and more like having a really sharp writing/thinking partner. But over time I started feeling more and more stressed about usage. Every prompt felt like I had to decide whether it was “worth” spending premium model time on. That changed how I used it. Instead of freely exploring ideas, I was rationing curiosity. The worst part was when the model would get stuck arguing from bad assumptions, lose track of context, or push back in a way that felt less like useful criticism and more like burning limited usage trying to convince it to check reality. I don’t mind disagreement. In fact, I want a model that can challenge me. But it gets frustrating when you are paying for a premium model and spending your limited window arguing it back into the task. I did get some great work out of it. I finished a big Mad Men writing project very quickly by using Claude as the lead writer and then feeding it criticism from other models. That workflow was powerful. But it also made the usage-limit problem obvious. One “go” prompt could set off a chain reaction that burned through a whole window. Recently I switched more of my daily use to ChatGPT/GPT-5.5, and honestly I’m enjoying it in the same way I enjoyed Claude when I first signed up — except I’m not constantly stressed about usage. That matters more than I expected. A model doesn’t just need to be smart. It needs to be available enough that you can use it casually, messily, and often. For my purposes — writing, political analysis, local news, screenshots, Reddit threads, random questions, practical daily use — this model feels more useful right now. Claude may still have a certain elegance or “taste” when it’s working well, but ChatGPT feels more like an everyday machine I can actually live with. I’m curious if other non-coding users have had the same experience. Not developers, not benchmark people — just regular heavy users who use AI for thinking, writing, reading, research, and making sense of the world. Did usage limits and reliability change which model you preferred?
 
-47m ago
+2h ago
 
 ---
 
-**[China's AI chip independence is mostly theatre, according to former White House AI advisor Dean Ball.](https://www.reddit.com/r/artificial/comments/1udmvuc/chinas_ai_chip_independence_is_mostly_theatre/)**
+**[AI tools that actually improve productivity?](https://www.reddit.com/r/artificial/comments/1udt7jy/ai_tools_that_actually_improve_productivity/)**
 
-Dean Ball — who just joined OpenAI as head of Strategic Futures after advising on AI policy in the Trump White House — makes a pointed argument about China's chip narrative: The public posture is "we don't need American chips." The private reality, he argues, is that DeepSeek, Alibaba, and China's other leading AI labs are lobbying Beijing hard for access to exactly those chips. His take: China banning its own AI companies from using American chips isn't strength — it's national pride getting in the way of competitiveness. And it might end up being a significant own goal in the long-term AI race.
-
-3h ago
-
----
-
-**[Is AI app development becoming easier or just more crowded?](https://www.reddit.com/r/artificial/comments/1udhifp/is_ai_app_development_becoming_easier_or_just/)**
-
-I've noticed that AI app development seems more accessible than ever. Between open-source models, APIs, and no-code tools, it feels like almost anyone can launch an AI-powered product today. At the same time, the competition is intense. Every week there's a new AI assistant, chatbot, or productivity tool entering the market. It makes me wonder whether the challenge has shifted from building the technology to actually creating something people want to use. A friend of mine works at a startup and mentioned how teams like thedreamers often spend more time discussing user workflows than model selection. That perspective surprised me because I always assumed the AI component was the hardest part. For those actively building products, where do you spend most of your time?
-
-6h ago
-
----
-
-**[Gemini kinda sucks... I wanted to find out why...](https://www.reddit.com/r/artificial/comments/1udp0kd/gemini_kinda_sucks_i_wanted_to_find_out_why/)**
-
-On vacation you sometimes drive more than you ever normally would. The more I drive with Gemini running Android Auto the more I hated using Android Auto for anything. And since some of my best work is done out of spite — here we are. This is a long one… but I actually paid the money to do some real research not to just say that Gemini sucks… but specifically HOW it sucks… and how even when it is winning it is still losing when compared to GPT-5.5… because even when GPT-5.5 failed, it at least had the decency to fail with style. (GitHub repo is in the article if you want to replicate the results.) https://matthewbradford.com/writing/gemini-sucks-i-wanted-to-find-out-why I'm not making money off this... In fact I spent my own money to figure out HOW Gemini sucks so you don't have to.
+Everyone talks about ChatGPT and Claude, but I need some AI tools which are more suited for productivity or investing. Has anyone used anything for the above stuff?
 
 1h ago
-
----
-
-**[Gemini and AI Hallucination](https://www.reddit.com/r/artificial/comments/1udlckb/gemini_and_ai_hallucination/)**
-
-This just happened while prompting. It this common because it's disturbing. If I didn't know the answer generally before asking I might believe the answers.
-
-4h ago
-
----
-
-**[AutoFlow Research Initiative — Looking for Deep Technical Thinkers](https://www.reddit.com/r/artificial/comments/1udfam2/autoflow_research_initiative_looking_for_deep/)**
-
-AutoFlow Research Initiative — Looking for Deep Technical Thinkers Over the last several months, I've been exploring a question that sits at the intersection of AI, verification, trust, and decision systems: Can we build systems that independently verify claims produced by AI rather than simply generating answers? The original idea began with financial analysis. Consider a statement such as: "Company revenue grew 25% year-over-year." Today, most AI systems generate this claim, but they do not formally verify it. Our approach is different: Extract claims from documents, reports, or AI outputs. Gather supporting evidence. Apply mathematical and logical verification where possible. Identify inconsistencies and contradictions. Produce transparent reasoning rather than black-box conclusions. The first prototype is focused on finance because financial claims are structured, measurable, and often objectively verifiable. Examples include: Revenue growth calculations Financial ratio validation Cross-document consistency checks Balance sheet reconciliation Earnings statement verification As research progressed, we encountered deeper questions involving computability, trust, governance, formal verification, and adjudication. One realization is that not every claim can be mathematically proven. This raises a larger challenge: Where is the boundary between: Proven facts Verifiable claims Evidence-supported conclusions Human-style adjudication That question is becoming the foundation of our long-term research vision. Recent Milestones Accepted into NVIDIA Inception Access to NVIDIA startup resources and technical programs Building the architecture for our first verification-focused prototype Engaging with researchers and experienced engineers on verification and governance concepts Initial outreach to pre-seed investors and startup ecosystems Who I'm Looking For I'm interested in meeting people who enjoy difficult problems and are willing to challenge assumptions. Particularly: AI/ML researchers and engineers Formal verification and theorem-proving enthusiasts Distributed systems and orchestration experts C++ systems engineers Applied mathematicians Trust, governance, and decision-system researchers What You'll Receive For the right long-term collaborators: Significant technical ownership Direct influence on architecture and research direction Equity participation based on contribution and commitment Access to NVIDIA Inception resources available to the team Opportunity to help define a new category around AI trust and verification I'm not looking for people who simply agree with the vision. I'm looking for people who can find the flaws in it. If concepts such as verification, computability, trust, formal reasoning, governance, theorem proving, symbolic systems, or AI reliability interest you, I'd love to connect and exchange ideas. Feel free to comment or send a message.
-
-8h ago
-
----
-
-**[How to efficiently fact-check AI?](https://www.reddit.com/r/artificial/comments/1udkum0/how_to_efficiently_factcheck_ai/)**
-
-I really appreciate how fast AI can deliver me answers. But I'm concerned about AI's accuracy and, therefore, efficacy. I really don't want to inject a bunch of erroneous information into my knowledge base. But I also want to benefit from the increased efficiency and make myself more knowledgable, faster. Because of this, I am interested in exploring ways to automate fact-checking for AI. I mean, I could do it myself, but that ruins the efficiency gains. If I have to fact check everything myself, it basically makes AI useless... It is equally efficient for me to just read all the material and sus everything out for myself... Does anyone have any suggestions for how I can increasy my confidence in the the information being supplied by AI, while protecting the efficiency gains?
-
-4h ago
 
 ---
 
@@ -113,7 +73,47 @@ I really appreciate how fast AI can deliver me answers. But I'm concerned about 
 
 The AI buildout is bottlenecked by energy. But this doesn't mean there is an energy shortage. Instead, the constraint is connecting the flood of new data centers and the plants to power them to the electric grid. Before any new piece of infrastructure can be connected, grid operators must study how it will change power flows around the grid and determine whether upgrades to the system are required. That process is significantly backlogged. Though the median power plant in 2005 waited less than 20 months for interconnection, this had jumped to 55 months by 2023. Developers face a trilemma: data centers can be large, they can come online quickly, or they can receive firm grid service, but not all three. If large data centers want to come online quickly, they'll have to be flexible. Read the full piece here.
 
-🔗 [worksinprogress.co](https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/) • 57m ago
+🔗 [worksinprogress.co](https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/) • 2h ago
+
+---
+
+**[Most "AI memory" tools ship zero benchmarks. I come at it from the other side: I wrote a paper on training-free multi-hop retrieval (at ItalySoft) https://zenodo.org/records/20668567, and WikiMoth is that engine packaged small.](https://www.reddit.com/r/artificial/comments/1udug5f/most_ai_memory_tools_ship_zero_benchmarks_i_come/)**
+
+on a real 356-note vault: - ~5k tokens to answer a question vs ~482k to paste the whole vault. -99%! - recall@8 = 1.00 on simple lookups: easy. - multi-hop (answer 2-3 links deep): keyword and vector score 0%, link-walking gets 100%! - same query, 5 runs, 1 result. Deterministic. it means that is code not a LLM! `wikimoth install` wires it into Claude Code, and from then on it's hands-off: each session you finish gets saved as one linked markdown note, and your recent notes load back into context at the start of the next session. Claude boots with your memory automatically, no manual step.
+
+15m ago
+
+---
+
+**[Is AI app development becoming easier or just more crowded?](https://www.reddit.com/r/artificial/comments/1udhifp/is_ai_app_development_becoming_easier_or_just/)**
+
+I've noticed that AI app development seems more accessible than ever. Between open-source models, APIs, and no-code tools, it feels like almost anyone can launch an AI-powered product today. At the same time, the competition is intense. Every week there's a new AI assistant, chatbot, or productivity tool entering the market. It makes me wonder whether the challenge has shifted from building the technology to actually creating something people want to use. A friend of mine works at a startup and mentioned how teams like thedreamers often spend more time discussing user workflows than model selection. That perspective surprised me because I always assumed the AI component was the hardest part. For those actively building products, where do you spend most of your time?
+
+8h ago
+
+---
+
+**[What's one task you no longer do manually because of AI?](https://www.reddit.com/r/artificial/comments/1udeb7i/whats_one_task_you_no_longer_do_manually_because/)**
+
+For me, AI has mostly taken over repetitive research and drafting tasks. What's something you used to spend a lot of time on that AI now handles?
+
+10h ago
+
+---
+
+**[AutoFlow Research Initiative — Looking for Deep Technical Thinkers](https://www.reddit.com/r/artificial/comments/1udfam2/autoflow_research_initiative_looking_for_deep/)**
+
+AutoFlow Research Initiative — Looking for Deep Technical Thinkers Over the last several months, I've been exploring a question that sits at the intersection of AI, verification, trust, and decision systems: Can we build systems that independently verify claims produced by AI rather than simply generating answers? The original idea began with financial analysis. Consider a statement such as: "Company revenue grew 25% year-over-year." Today, most AI systems generate this claim, but they do not formally verify it. Our approach is different: Extract claims from documents, reports, or AI outputs. Gather supporting evidence. Apply mathematical and logical verification where possible. Identify inconsistencies and contradictions. Produce transparent reasoning rather than black-box conclusions. The first prototype is focused on finance because financial claims are structured, measurable, and often objectively verifiable. Examples include: Revenue growth calculations Financial ratio validation Cross-document consistency checks Balance sheet reconciliation Earnings statement verification As research progressed, we encountered deeper questions involving computability, trust, governance, formal verification, and adjudication. One realization is that not every claim can be mathematically proven. This raises a larger challenge: Where is the boundary between: Proven facts Verifiable claims Evidence-supported conclusions Human-style adjudication That question is becoming the foundation of our long-term research vision. Recent Milestones Accepted into NVIDIA Inception Access to NVIDIA startup resources and technical programs Building the architecture for our first verification-focused prototype Engaging with researchers and experienced engineers on verification and governance concepts Initial outreach to pre-seed investors and startup ecosystems Who I'm Looking For I'm interested in meeting people who enjoy difficult problems and are willing to challenge assumptions. Particularly: AI/ML researchers and engineers Formal verification and theorem-proving enthusiasts Distributed systems and orchestration experts C++ systems engineers Applied mathematicians Trust, governance, and decision-system researchers What You'll Receive For the right long-term collaborators: Significant technical ownership Direct influence on architecture and research direction Equity participation based on contribution and commitment Access to NVIDIA Inception resources available to the team Opportunity to help define a new category around AI trust and verification I'm not looking for people who simply agree with the vision. I'm looking for people who can find the flaws in it. If concepts such as verification, computability, trust, formal reasoning, governance, theorem proving, symbolic systems, or AI reliability interest you, I'd love to connect and exchange ideas. Feel free to comment or send a message.
+
+9h ago
+
+---
+
+**[With AI, testing, decision-making, learning, coding, and many other tasks have become much easier. If AI makes so many things easier, then why do people still struggle despite having access to AI?](https://www.reddit.com/r/artificial/comments/1ud9yvs/with_ai_testing_decisionmaking_learning_coding/)**
+
+I’ve been thinking about something lately and would love to hear different perspectives. AI has made many things significantly easier. We can learn faster, write code faster, get explanations instantly, brainstorm ideas, make decisions with more information, and even automate parts of our work. So my question is: If AI helps everyone move faster, learn faster, and raises the baseline level of performance, why do I still see so many people struggling with it and fearing it? What makes AI feel threatening to people despite all the benefits it provides? I’m especially interested in hearing from experienced professionals, founders, researchers, and people who have worked through multiple technology shifts.
+
+14h ago
 
 ---
 
@@ -121,31 +121,23 @@ The AI buildout is bottlenecked by energy. But this doesn't mean there is an ene
 
 ## Google News: "ai"
 
-**[Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.](https://www.nytimes.com/2026/06/22/health/artificial-intelligence-heart-damage.html)**
+**[N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)**
 
-The New York Times • 23h ago
-
----
-
-**[Meta debuts AI-powered Meta Glasses, starting at $299](https://finance.yahoo.com/technology/article/meta-debuts-ai-powered-meta-glasses-starting-at-299-130000232.html)**
-
-Meta is launching a new line of AI-powered smart glasses called Meta Glasses.
-
-Yahoo Finance • 7h ago
+The New York Times • 41m ago
 
 ---
 
-**[Meta is now designing its own, cheaper AI smart glasses](https://www.cnn.com/2026/06/23/tech/meta-glasses-price)**
+**[U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise](https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html)**
 
-Meta on Tuesday announced a new line of AI glasses designed in-house, signaling a deeper push into the wearable technology that’s become a new front in the artificial intelligence race.
-
-CNN • 7h ago
+The New York Times • 28m ago
 
 ---
 
-**[Meta launches cheaper range of AI smart glasses starting at $299](https://www.reuters.com/technology/meta-announces-new-range-smart-glasses-starting-299-2026-06-23/)**
+**[US presses Meta to agree to AI reviews as security concerns rise, NYT reports](https://www.yahoo.com/news/politics/articles/us-presses-meta-agree-ai-213859691.html)**
 
-Reuters • 3h ago
+June 23 (Reuters) - The Trump administration is pressing Meta to submit its AI models for voluntary review, which would allow the government to evaluate its abilities and vulnerabilities, the New York
+
+Yahoo • 18m ago
 
 ---
 
@@ -153,41 +145,53 @@ Reuters • 3h ago
 
 Volatility has returned to the stock market, and AI is once again the culprit.
 
-CNN • 7h ago
+CNN • 9h ago
 
 ---
 
-**[Warton grad who used to pressure wash homes raises $40M to help plumbers, electricians run businesses with AI](https://www.foxbusiness.com/technology/warton-grad-who-used-pressure-wash-homes-raises-40m-help-plumbers-electricians-run-businesses-ai)**
+**[Top Energy Fund Likes Japan Stocks That Power AI Efficiently](https://www.bloomberg.com/news/articles/2026-06-23/top-energy-fund-likes-japan-stocks-that-power-ai-efficiently)**
 
-George Eliadis, 24, raised venture capital funds from Andreessen Horowitz and Sequoia Capital for Probook, his AI platform for home service businesses.
-
-Fox Business • 1h ago
+Bloomberg.com • 57m ago
 
 ---
 
-**[SPONSORED Advancing pediatric health care with AI](https://www.axios.com/local/washington-dc/sponsored/advancing-pediatric-health-care-with-ai)**
+**[Meta debuts AI-powered Meta Glasses, starting at $299](https://finance.yahoo.com/technology/article/meta-debuts-ai-powered-meta-glasses-starting-at-299-130000232.html)**
 
-Axios • 54m ago
+Meta is launching a new line of AI-powered smart glasses called Meta Glasses.
 
----
-
-**[Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles](https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000)**
-
-Bloomberg.com • 22h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Tech giant Oracle cuts 21,000 jobs as it embraces AI](https://www.bbc.com/news/articles/c4gy0x0j5deo)**
+**[Meta is now designing its own, cheaper AI smart glasses](https://edition.cnn.com/2026/06/23/tech/meta-glasses-price)**
 
-The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.
+Meta on Tuesday announced a new line of AI glasses designed in-house, signaling a deeper push into the wearable technology that’s become a new front in the artificial intelligence race.
 
-BBC • 9h ago
+CNN • 8h ago
 
 ---
 
-**[Oracle cuts 21,000 workers as part of its massive AI push](https://www.sfchronicle.com/tech/article/oracle-ai-workforce-cuts-22317134.php)**
+**[Meta announces new line of AI glasses](https://www.cbsnews.com/texas/video/meta-announces-new-line-of-ai-glasses/)**
 
-San Francisco Chronicle • 1h ago
+The new "Muse Spark" glasses come in three styles.
+
+CBS News • 30m ago
+
+---
+
+**[AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns](https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security)**
+
+Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model
+
+The Guardian • 20h ago
+
+---
+
+**[AI could breach government and business defenses in months, US and its intelligence partners warn](https://www.cnn.com/2026/06/23/world/ai-five-eyes-warning-cyber-threat-intl-hnk)**
+
+AI models capable of launching major cyberattacks that could overwhelm the defenses of governments and businesses are months – not years – away, an international alliance of intelligence agencies warned in a joint statement.
+
+CNN • 15h ago
 
 ---
 
@@ -199,7 +203,7 @@ San Francisco Chronicle • 1h ago
 
 Fully Open Foundation Model for Sovereign AI
 
-⬆️ 529 • 💬 181 • 1d ago • [apertvs.ai](https://apertvs.ai/)
+⬆️ 530 • 💬 181 • 2d ago • [apertvs.ai](https://apertvs.ai/)
 
 ---
 
@@ -229,7 +233,15 @@ AI helping pharmaceutical researchers query decades of information buried in PDF
 
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
-⬆️ 181 • 💬 234 • 4h ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+⬆️ 189 • 💬 247 • 6h ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+
+---
+
+**[Meta pauses AI training program tracking employee keystrokes after internal leak](https://news.ycombinator.com/item?id=48636632)**
+
+Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.
+
+⬆️ 106 • 💬 25 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
 
 ---
 
@@ -241,11 +253,11 @@ A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms w
 
 ---
 
-**[Meta pauses AI training program tracking employee keystrokes after internal leak](https://news.ycombinator.com/item?id=48636632)**
+**[AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://news.ycombinator.com/item?id=48649673)**
 
-Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.
+The first large-scale study of hiring algorithms in the wild finds concerning patterns to how systems reject candidates.
 
-⬆️ 105 • 💬 25 • 22h ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
+⬆️ 105 • 💬 85 • 3h ago • [hai.stanford.edu](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 
 ---
 
@@ -253,21 +265,13 @@ Meta pauses an AI training program after sensitive employee data leaks, sparking
 
 Either AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.
 
-⬆️ 86 • 💬 93 • 11h ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+⬆️ 86 • 💬 93 • 13h ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 
 ---
 
 **[The Low-Tech AI of Elden Ring](https://news.ycombinator.com/item?id=48643489)**
 
-⬆️ 66 • 💬 37 • 8h ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
-
----
-
-**[Tech Workers Are Fighting Against Silicon Valley's AI Push](https://news.ycombinator.com/item?id=48623695)**
-
-More tech workers are organizing to fight back as they feel they are losing influence over decisions that affect their jobs, writes Varsha Bansal.
-
-⬆️ 46 • 💬 14 • 1d ago • [Tech Policy Press](https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/)
+⬆️ 82 • 💬 48 • 10h ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 
 ---
 
@@ -341,7 +345,7 @@ Ultimate AI Video Generator for FREE | No Watermark Best FREE AI Video Tools | A
 
 📺 Ai For You Hindi
 
-👁️ 3K • 👍 190 • 💬 22 • ⏱️ 10:55 • 7h ago
+👁️ 3K • 👍 190 • 💬 22 • ⏱️ 10:55 • 9h ago
 
 ---
 
@@ -361,7 +365,7 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 149K • 👍 14K • 💬 1K • ⏱️ 1:26 • 4h ago
+👁️ 149K • 👍 14K • 💬 1K • ⏱️ 1:26 • 6h ago
 
 ---
 
@@ -387,7 +391,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 40,127 • ❤️ 2,173 • 16h ago
+⬇️ 40,127 • ❤️ 2,173 • 18h ago
 
 ---
 
@@ -423,7 +427,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 8,396 • ❤️ 434 • 13h ago
+⬇️ 8,396 • ❤️ 434 • 14h ago
 
 ---
 
@@ -447,7 +451,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 55,820 • ❤️ 292 • 4h ago
+⬇️ 55,820 • ❤️ 292 • 6h ago
 
 ---
 
@@ -495,7 +499,7 @@ MiniMax-M3 is a native multimodal model with 1M context, excelling in image-text
 
 `image-text-to-text` `427.0B`
 
-⬇️ 131,057 • ❤️ 1,219 • 8h ago
+⬇️ 131,057 • ❤️ 1,219 • 10h ago
 
 ---
 
@@ -641,7 +645,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 76.8k • 🔱 10.0k • 1h ago
+⭐ 76.8k • 🔱 10.0k • 3h ago
 
 ---
 
@@ -651,7 +655,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 52.2k • 🔱 2.6k • 2h ago
+⭐ 52.2k • 🔱 2.6k • 3h ago
 
 ---
 
@@ -661,7 +665,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.5k • 🔱 985 • 4h ago
+⭐ 10.5k • 🔱 985 • 6h ago
 
 ---
 
@@ -671,7 +675,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.6k • 🔱 533 • 2m ago
+⭐ 4.6k • 🔱 533 • 1h ago
 
 ---
 
@@ -681,7 +685,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 4.3k • 🔱 359 • 7h ago
+⭐ 4.3k • 🔱 359 • 8h ago
 
 ---
 
@@ -711,7 +715,7 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 `TypeScript` `ai` `ai-agents` `claude` `claude-code` `cli`
 
-⭐ 1.8k • 🔱 102 • 5h ago
+⭐ 1.8k • 🔱 102 • 6h ago
 
 ---
 
@@ -721,7 +725,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.8k • 🔱 131 • 21h ago
+⭐ 1.8k • 🔱 131 • 23h ago
 
 ---
 

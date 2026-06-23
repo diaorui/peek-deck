@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T20:08:50.318989+00:00'
+updated: '2026-06-23T21:57:05.951022+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 20:08 UTC  
+**Last Updated:** June 23, 2026 at 21:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
+**24h:** -3.4%  
 **7d:** -4.8%  
 **30d:** -21.1%  
 **90d:** -19.1%  
@@ -150,27 +150,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation cuts 20% of staff amid leadership exodus](https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus)**
+**[Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset](https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset)**
 
-The reduction follows a period of significant upheaval at the organization’s leadership level.
+The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
 
 CoinDesk • 6h ago
 
 ---
 
-**[Pocket Network Foundation Co-Authors Ethereum Standard for Decentralized AI Agent Validation](https://markets.businessinsider.com/news/stocks/pocket-network-foundation-co-authors-ethereum-standard-for-decentralized-ai-agent-validation-1036269754)**
+**[Ethereum Foundation cuts 20% of staff amid leadership exodus](https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus)**
 
-PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the tru...
+The reduction follows a period of significant upheaval at the organization’s leadership level.
 
-markets.businessinsider.com • 32m ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Stock Gets A Russell 1000 Angle And An Ethereum Backer Role](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-stock-191324065.html)**
+**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-Bitmine Immersion Technologies (NYSE:BMNR) has become eligible for potential inclusion in the Russell 1000 index, putting the stock on the radar of large passive index trackers. The company has also helped launch Ethlabs, a new Ethereum research nonprofit backed by Bitmine, Joe Lubin, and SharpLink, aimed at accelerating institutional adoption of Ethereum. Bitmine Immersion Technologies sits at the intersection of crypto infrastructure and traditional capital markets. NYSE:BMNR last closed...
+ethereum.org • 8h ago
 
-Yahoo Finance • 55m ago
+---
+
+**[This company owns 5% of all ethereum—and it hits your 401(k) soon](https://finance.yahoo.com/video/company-owns-5-ethereum-hits-170250791.html)**
+
+Scott Melker discusses ethereum, BitMine Immersion Technologies, 401(k)s, Robinhood, and other big crypto headlines.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -178,7 +188,7 @@ Yahoo Finance • 55m ago
 
 Ethlabs launches as a nonprofit backed by Tom Lee and Joe Lubin to ready Ethereum for institutional adoption at scale.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,39 +208,27 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
+
+Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
+
+The Block • 1d ago
+
+---
+
+**[Ethereum Foundation Executive Says MEV Is Becoming Crypto’s Next Cypherpunk Fight](https://www.tradingview.com/news/newsbtc:6a4fa3368094b:0-ethereum-foundation-executive-says-mev-is-becoming-crypto-s-next-cypherpunk-fight/)**
+
+TL;DRView original post on XThis article is based on public commentary by Bastian Aue, available at XEthereum’s internal debate over maximal extractable value has moved back into the spotlight after Ethereum Foundation executive Bastian Aue framed toxic MEV as a core protocol challenge rather than…
+
+TradingView • 6h ago
+
+---
+
 **[Current price of Ethereum for June 23, 2026](https://fortune.com/article/price-of-ethereum-06-23-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.67 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-67-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302805995.html)**
-
-Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine's Series A Preferred...
-
-PR Newswire • 1d ago
-
----
-
-**[This company owns 5% of all ethereum—and it hits your 401(k) soon](https://finance.yahoo.com/video/company-owns-5-ethereum-hits-170250791.html)**
-
-Scott Melker discusses ethereum, BitMine Immersion Technologies, 401(k)s, Robinhood, and other big crypto headlines.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $92 million ETH as Tom Lee reaffirms 'crypto spring' call](https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring)**
-
-The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
-
-CoinDesk • 1d ago
+Fortune • 8h ago
 
 ---
 
@@ -244,7 +242,7 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 215 • 💬 50 • ⏱️ 14:53 • 3h ago
+👁️ 3K • 👍 215 • 💬 50 • ⏱️ 14:53 • 5h ago
 
 ---
 
@@ -254,7 +252,7 @@ Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 7h ago
+👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 9h ago
 
 ---
 
@@ -264,7 +262,7 @@ BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 843 • 👍 85 • 💬 29 • ⏱️ 21:18 • 45m ago
+👁️ 843 • 👍 85 • 💬 29 • ⏱️ 21:18 • 2h ago
 
 ---
 
@@ -294,7 +292,7 @@ Open an account at iTrust Capital and legally avoid taxes on your bitcoin and cr
 
 📺 Brian Harrington
 
-👁️ 657 • 👍 56 • 💬 21 • ⏱️ 9:26 • 4h ago
+👁️ 657 • 👍 56 • 💬 21 • ⏱️ 9:26 • 6h ago
 
 ---
 
@@ -304,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 251 • 👍 17 • ⏱️ 4:51 • 11h ago
+👁️ 251 • 👍 17 • ⏱️ 4:51 • 13h ago
 
 ---
 
@@ -314,7 +312,7 @@ Ethereum has been quietly losing ground to Bitcoin, and the one buyer propping i
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 64 • 👍 2 • 💬 1 • ⏱️ 0:53 • 2h ago
+👁️ 64 • 👍 2 • 💬 1 • ⏱️ 0:53 • 3h ago
 
 ---
 

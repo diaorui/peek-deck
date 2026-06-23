@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-23T20:08:50.313443+00:00'
+updated: '2026-06-23T21:57:05.944986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 20:08 UTC  
+**Last Updated:** June 23, 2026 at 21:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,360.64
+### $62,559.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -3.1%  
-**30d:** -19.2%  
-**90d:** -9.2%  
-**1y:** -41.0%  
+**24h:** -2.1%  
+**7d:** -2.9%  
+**30d:** -19.1%  
+**90d:** -9.0%  
+**1y:** -40.9%  
 
 ---
 
@@ -137,7 +137,7 @@ I keep seeing people talk about using their Bitcoin as collateral to borrow cash
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=61ekemjtoh4) • 1d ago
 
 ---
 
@@ -153,7 +153,7 @@ I've been spending a lot of time looking at the structural shifts in BTC's corre
 
 I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for the past day. How long does it usually take for them to process and send me my bitcoin. I was just wondering what other people's experience with them is.
 
-23h ago
+1d ago
 
 ---
 
@@ -161,11 +161,11 @@ I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price analysis: BTC may be close to a bottom. Here's why.](https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests)**
+**[BTC analysis: SpaceX’s $600 billion plunge erased nearly half of bitcoin’s market cap in three days](https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days)**
 
-BTC's long-term moving averages are set to flash a bearish signal soon. Yet, its good news for the bulls.
+The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.
 
-CoinDesk • 11h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -175,17 +175,33 @@ Barron's • 1d ago
 
 ---
 
-**[Bitcoin Hits $61,877 as Tech Selloff Pressures Crypto](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-61-877-tech-190330188.html)**
+**[Morgan County residents fill commission meeting to fight proposed Bitcoin mining facility](https://www.rocketcitynow.com/article/news/local/morgan-county-residents-fill-commission-meeting-to-fight-proposed-bitcoin-mining-facility/525-9c485128-2495-4e81-ad50-b31fee22afd1)**
 
-Bitcoin, Ether and crypto-linked stocks fell as risk assets weakened across global markets.
+rocketcitynow.com • 1h ago
+
+---
+
+**[Arthur Hayes Sees $40,000 Bitcoin Bottom Within the Next Six Months](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-sees-40-000-205501682.html)**
+
+Arthur Hayes expects Bitcoin to bottom near $40,000 in six months as a hawkish Fed and macro catalysts test the range.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Watch Strive Is Buying Bitcoin Hand-Over-Fist, CEO Says](https://www.bloomberg.com/news/videos/2026-06-23/strive-is-buying-bitcoin-hand-over-fist-ceo-says-video)**
+**[Wall Street giant delivers blunt verdict on Bitcoin's sell-off](https://au.finance.yahoo.com/news/wall-street-giant-delivers-blunt-211316035.html)**
 
-Bloomberg.com • 20h ago
+Cryptocurrencies were red across the board on June 22. As per Decibel, Bitcoin (BTC) led the downward momentum with a 4.2% over 24 hours and 5.5% for the week. At press time, it was changing hands around $62,205. If we widen the lens, it remains more than 50% below its ...
+
+Yahoo Finance Australia • 43m ago
+
+---
+
+**[Bitcoin price analysis: BTC may be close to a bottom. Here's why.](https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests)**
+
+BTC's long-term moving averages are set to flash a bearish signal soon. Yet, its good news for the bulls.
+
+CoinDesk • 13h ago
 
 ---
 
@@ -193,7 +209,7 @@ Bloomberg.com • 20h ago
 
 One expert has seen no evidence that cryptocurrency will provide any protection against inflation for investors. What's behind the argument.
 
-Detroit Free Press • 9h ago
+Detroit Free Press • 37m ago
 
 ---
 
@@ -205,35 +221,19 @@ CNBC • 3d ago
 
 ---
 
-**[Hut 8 agrees to $2.35 million settlement in investor suit tied to US Bitcoin merger](https://www.theblock.co/post/405760/hut-8-agrees-to-2-35-million-settlement-in-investor-suit-tied-to-us-bitcoin-merger)**
+**['Bitcoin Is Gone In Four Years'—Gold CEO Warning: Goldman Eyes $5,400](https://www.forbes.com/sites/boazsobrado/2026/06/23/bitcoin-is-gone-in-four-years-gold-ceo-warning-goldman-eyes-5400/)**
 
-Hut 8 agreed to pay $2.35M to settle a securities class action over disclosure claims from its 2023 merger with U.S. Bitcoin Corp.
+Vaulted CEO David McAlvany says quantum computing could end Bitcoin within four years as central banks pile into gold. Olympian Lauryn Williams is now paid in metal.
 
-The Block • 9h ago
-
----
-
-**[Gold, Silver, Bitcoin, or Dividend Stocks: What's the Best Safe-Haven Option Right Now?](https://www.fool.com/investing/2026/06/23/gold-silver-bitcoin-or-dividend-stocks-whats-the-b/)**
-
-If you're worried about the S&P 500's high-tech exposure and its record levels, now may be a good time to consider safer investments.
-
-The Motley Fool • 1h ago
+Forbes • 6h ago
 
 ---
 
-**[Donald Trump Signs Quantum Computing Orders — What Could It Mean for Bitcoin and XRP?](https://finance.yahoo.com/markets/crypto/articles/donald-trump-signs-quantum-computing-110155832.html)**
+**[David Bailey's Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion](https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion)**
 
-Trump accelerates US quantum ambitions. Bitcoin faces growing quantum concerns. The crypto industry is already preparing. President Donald Trump on Monday signed two executive orders ...
+Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Quantum computing is often seen as a risk to bitcoin. Now Trump wants to develop it.](https://www.coindesk.com/tech/2026/06/23/trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-could-break-encryption)**
-
-The White House issued twin executive orders to accelerate U.S. development of large-scale quantum computers while simultaneously hardening defenses against such machines.
-
-CoinDesk • 14h ago
+The Block • 11h ago
 
 ---
 
@@ -267,7 +267,7 @@ Energy is the FUD claim that comes up most often, full stop. The honest version:
 
 **[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
 
-⬆️ 2 • 💬 0 • 23h ago
+⬆️ 2 • 💬 0 • 1d ago
 
 ---
 
@@ -275,7 +275,7 @@ Energy is the FUD claim that comes up most often, full stop. The honest version:
 
 Conduit. Contribute to Jake1848/conduit development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/Jake1848/conduit)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/Jake1848/conduit)
 
 ---
 
@@ -291,7 +291,7 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
 
-⬆️ 2 • 💬 0 • 14h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
+⬆️ 2 • 💬 0 • 16h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
 
 ---
 
@@ -305,7 +305,7 @@ Everybody's asking the same question: where's the bottom? But that's the wrong q
 
 📺 Mark Moss
 
-👁️ 3K • 👍 395 • 💬 24 • ⏱️ 17:22 • 1h ago
+👁️ 3K • 👍 395 • 💬 24 • ⏱️ 17:22 • 2h ago
 
 ---
 
@@ -315,7 +315,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 819 • 💬 71 • ⏱️ 51:25 • 5h ago
+👁️ 13K • 👍 819 • 💬 71 • ⏱️ 51:25 • 7h ago
 
 ---
 
@@ -325,7 +325,7 @@ Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 1K • 💬 25 • ⏱️ 14:10 • 23h ago
+👁️ 36K • 👍 1K • 💬 25 • ⏱️ 14:10 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, t
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 80 • ⏱️ 15:35 • 22h ago
+👁️ 21K • 👍 2K • 💬 80 • ⏱️ 15:35 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 7h ago
+👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
 
 📺 100XClub
 
-👁️ 6K • 👍 716 • 💬 207 • ⏱️ 5:56 • 10h ago
+👁️ 6K • 👍 716 • 💬 207 • ⏱️ 5:56 • 11h ago
 
 ---
 
@@ -385,7 +385,7 @@ Philippe Laffont, Coatue Management founder and portfolio manager, joins 'Squawk
 
 📺 CNBC Television
 
-👁️ 22K • 👍 340 • 💬 139 • ⏱️ 8:41 • 7h ago
+👁️ 22K • 👍 340 • 💬 139 • ⏱️ 8:41 • 9h ago
 
 ---
 
@@ -395,7 +395,7 @@ TIA WEEKLY REPORTS, GET ACCESS HERE → https://link.tiainvestor.com/jyt-reports
 
 📺 Jason Pizzino
 
-👁️ 17K • 👍 1K • 💬 64 • ⏱️ 31:13 • 17h ago
+👁️ 17K • 👍 1K • 💬 64 • ⏱️ 31:13 • 19h ago
 
 ---
 

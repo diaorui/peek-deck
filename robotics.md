@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-23T20:08:50.321994+00:00'
+updated: '2026-06-23T21:57:05.954232+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 23, 2026 at 20:08 UTC  
+**Last Updated:** June 23, 2026 at 21:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I'm reading the papers of Cosmos3 and Dreamzero and they looks very promising (compared to memoryless VLAs). And I am wondering where the filed will evolve. Based on your practical experience with new models, what's your bet between VLAs, WM, Jepa-style, WAM, RL approaches, and all of that? I worked so far with VLAs (eg pi05), and I don't have any experience in using the nvidia stack so far, of and other world action models. I am thinking if I should invest time in changing the base policy, and I'd appreciate some feedback form who has tested them (ie: the open source/weights model available, and capable of inference without one thousand gb of vram) On my side I'm a fan of model working planning latent space; video action models (which have more temporal coherence wrt vla), but I also feel that semantic power of a VLM should be present aswell. Ps: suggested survey reading in this topic: "World Model for Robot Learning: A Comprehensive Survey" Happy to discuss with you
 
-5h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 Hey i was working on a 6dof robot arm and completely new to this And just found out about inverse kinematics I'm having trouble trying to find the right material to learn it where can I find good material
 
-6h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey i was working on a 6dof robot arm and completely new to this And just found 
 
 Weekend project, one weekend in — lots still half-built: a 6-DoF SO-101 arm (Feetech STS3215 / LeRobot) with a wrist camera, driven by an agent that plans camera moves, films them, and stitches the edit. Sharing v1 — rough, but the loop works. The demo is a side-by-side: left is an external phone shot (manual), right is the arm's own wrist camera. The choreography — wake → framed "hero" pose → dolly/roll/tilt beats → rest — runs through a safety layer (soft joint limits + velocity cap + stop sentinel). A few things I hit that others might find useful: 🔧 Dead elbow servo, diagnosed by feel. Stiff to backdrive, idle temp 53°C vs ~38°C on the others = shorted/lossy winding. Swapped it, re-set the ID, recalibrated the joint. 📐 The jerky motion wasn't the servo or the mount. Braced the table and it still jerked — turns out it's STS3215 gear backlash (~0.87° measured by others) plus low-speed stick-slip. Confirmed stick-slip is speed-dependent: ~51 backward micro-ticks at 12°/s vs ~0 at 50°/s. ✅ The fix: dropped P_Coefficient 32 → 16 (LeRobot's own recommended value). Slow-speed judder went from ~43 stutter events/sweep to ~0 in a controlled A/B. Plus: keep recorded moves single-direction and faster. 🎯 No IK yet, so "orbits" drift. Leaned on framing-safe moves — roll about the optical axis, dolly, tilt — to keep the subject centered. The goal is reusability: clone the repo, build/attach the SO-101, and you can direct Claude to film your own demos. Still manual for now (external camera + initial framing/hero pose). Next up: better camera, longer scripts, closed-loop framing. As always, it's all open source — control lib, safety layer, calibration, and the motion/stitch scripts. I will organise it better once the project is complete 👉 https://github.com/kamalkantsingh10/dummie Happy to go deeper on the motion-streaming / backlash tuning if useful.
 
-20h ago
+22h ago
 
 ---
 
@@ -68,7 +68,7 @@ Weekend project, one weekend in — lots still half-built: a 6-DoF SO-101 arm (F
 
 not sure if this is the right flair 😕 I had put this post up on r/gradadmissions but i feel like I'd get a better demographic that knows the field better here
 
-4h ago
+6h ago
 
 ---
 
@@ -84,13 +84,13 @@ Trained in mjlab with a relatively simple reward function mainly rewarding torso
 
 Follow-up to my v2 trajectory post. The RViz trajectory had visible zig-zag jitter even when the robot was stationary. Before deciding what filter to apply, I wanted to actually measure the noise and understand what's driving it. The problem The v2 system uses a physically fixed AprilTag (tag1) as a world frame anchor. The Pi detects it each frame, inverts the camera→tag transform to get world→camera, and publishes that as a TF. The zig-zags in the trajectory come from frame-to-frame instability in that pose estimate. The root cause is AprilTag PnP pose ambiguity — the solver has two valid geometric solutions for a planar tag and flips between them. The flip shows up as a large swing on one axis, typically ±15cm, even with the camera stationary. On top of that, small angular errors get amplified into position noise through the matrix inversion: at ~74cm tag distance, a 5° rotation error becomes ~6.5cm of position noise in world frame. The question I wanted to answer before touching the filter: how much does tag size actually move the needle? Method Added a single_tag_world_mode flag to config so ManualTracker can run with just the world anchor tag in frame — no chase target needed. Camera held stationary, pointed directly at the tag, for ~2–3 minutes per condition. Raw camera-frame poses recorded automatically to JSON. Four conditions: 5cm and 20cm printed tags, each with room lights on and off. All four plots below share identical axis scales so the distributions are directly comparable. Results Condition σ X σ Y σ Z (depth) 5cm — lights off 3.4 cm 0.5 cm 4.5 cm 5cm — lights on 5.1 cm 1.7 cm 3.7 cm 20cm — lights on 2.7 cm 0.4 cm 1.4 cm 20cm — lights off 2.1 cm 1.0 cm 1.7 cm (Images: 5cm lights off → 5cm lights on → 20cm lights on → 20cm lights off) What the plots show Tag size dominates. Going from 5cm to 20cm cuts depth noise by roughly 3x. The distributions tighten and become more unimodal — the PnP flip signature (broad or bimodal histogram on X and Z) is clearly visible in the 5cm sessions and largely absent in the 20cm sessions. Lighting is secondary. For the 5cm tag, lights-on is actually worse on X (σ 5.1 vs 3.4cm), likely because uncontrolled ambient light causes glare that degrades corner localization on a small tag. For the 20cm tag the lighting effect is small enough that it's not the thing to optimize. Best condition across all three axes simultaneously: 20cm + lights on (σX=2.7cm, σY=0.4cm, σZ=1.4cm). What's next This experiment was groundwork, not a fix. The noise is reduced but still present — 2cm+ std dev on X and Z with a stationary camera is not acceptable for a usable world frame. The next step is a filter, but the right choice (EWMA, velocity gate, Kalman, or some combination) depends on understanding the noise characteristics, which is what this data was for. Still deciding. Open to suggestions from anyone who's dealt with PnP jitter on planar markers before. References Post history v2 trajectory post v1 tag chaser PiCar-X introduction Hardware / code PiCar-X on Amazon Git repo
 
-4h ago
+6h ago
 
 ---
 
 **[create robot descriptor/URDF from STEP file](https://www.reddit.com/r/robotics/comments/1udj61t/create_robot_descriptorurdf_from_step_file/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -106,7 +106,7 @@ In this python simulation: a robot spins a sensor and receives the distance. I m
 
 Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kinda think it could only problem would be power/batteries. If it would work what could it be used for? I mainly think security, patrolling important assets etc.
 
-23h ago
+1d ago
 
 ---
 
@@ -114,9 +114,9 @@ Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kin
 
 ## Google News: "robotics"
 
-**[Lutnick signals possible action on Chinese robots after Commerce review](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
+**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
 
-Politico • 58m ago
+Politico • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ NVIDIA Newsroom • 1d ago
 
 **[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -146,7 +146,15 @@ Axios • 12h ago
 
 US autoworkers union warns of robot automation as dark factory future looms.
 
-Ars Technica • 22h ago
+Ars Technica • 1d ago
+
+---
+
+**[Largest robotics, artificial intelligence show in North America, Automate, at McCormick Place in Chicago this week](https://abc7chicago.com/post/largest-robotics-artificial-intelligence-show-north-america-automate-mccormick-place-chicago-week/19357412/)**
+
+The largest robotics and artificial intelligence show in North America is currently in Chicago.
+
+ABC7 Chicago • 22h ago
 
 ---
 
@@ -154,16 +162,7 @@ Ars Technica • 22h ago
 
 Gleanmer is a new system that can construct detailed 3D maps of a robot’s environment at high speed while operating at extremely low power. The advance could enable tiny devices to avoid obstacles and safely navigate in the real world.
 
-MIT News • 16h ago
-
----
-
-**[Can robots and artificial intelligence solve the issue of a skilled generation nearing retirement?](https://www.post-gazette.com/business/tech-news/2026/06/22/gecko-robotics-artificial-intelligence-workforce/stories/202606100056)**
-
-Some see advancements in robotics and artificial intelligence as a threat to the workforce.
-Others see it as an indicator of who and what “got left...
-
-Pittsburgh Post-Gazette • 1d ago
+MIT News • 17h ago
 
 ---
 
@@ -171,7 +170,7 @@ Pittsburgh Post-Gazette • 1d ago
 
 From robotic bulldozers to hybrid drone‑rovers, the IDF is rapidly expanding its autonomous ground fleet.
 
-The Jerusalem Post • 8h ago
+The Jerusalem Post • 9h ago
 
 ---
 
@@ -179,7 +178,7 @@ The Jerusalem Post • 8h ago
 
 The cuts come as Karl Storz plans to retire the Asensus brand and the Senhance robot as part of organizational changes.
 
-MedTech Dive • 23h ago
+MedTech Dive • 1d ago
 
 ---
 
@@ -221,7 +220,7 @@ Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.fig
 
 📺 Jason Lowe on AI
 
-👁️ 359K • 👍 15K • 💬 3K • ⏱️ 2:51 • 5d ago
+👁️ 359K • 👍 15K • 💬 3K • ⏱️ 2:51 • 6d ago
 
 ---
 
@@ -267,7 +266,7 @@ A new female AI robot just blurred the line between human and robot — and it's
 
 📺 The AI Nexus
 
-👁️ 37K • 👍 1K • 💬 88 • ⏱️ 21:33 • 4d ago
+👁️ 37K • 👍 1K • 💬 88 • ⏱️ 21:33 • 5d ago
 
 ---
 
