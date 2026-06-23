@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-23T21:57:05.944986+00:00'
+updated: '2026-06-23T23:11:23.259551+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 21:57 UTC  
+**Last Updated:** June 23, 2026 at 23:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,559.72
+### $62,562.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -2.9%  
-**30d:** -19.1%  
-**90d:** -9.0%  
-**1y:** -40.9%  
+**24h:** -2.5%  
+**7d:** -3.0%  
+**30d:** -19.2%  
+**90d:** -9.1%  
+**1y:** -41.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1251.14B
+**Market Cap:** $1252.03B
 Rank #1
 
-**Circulating Supply:** 20,046,987 BTC
+**Circulating Supply:** 20,047,075 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.5%
 
 **All-Time Low:** $67.81
-+91914.5%
++92010.3%
 
 ---
 
@@ -161,11 +161,11 @@ I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for 
 
 ## Google News: "bitcoin"
 
-**[BTC analysis: SpaceX’s $600 billion plunge erased nearly half of bitcoin’s market cap in three days](https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days)**
+**[Bitcoin 'vulnerable to further weakness' as token tumbles amid tech rout](https://finance.yahoo.com/markets/article/bitcoin-vulnerable-to-further-weakness-as-token-tumbles-amid-tech-rout-123504444.html)**
 
-The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.
+Bitcoin tumbled with the rest of the market on Tuesday.
 
-CoinDesk • 15h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -175,41 +175,31 @@ Barron's • 1d ago
 
 ---
 
-**[Morgan County residents fill commission meeting to fight proposed Bitcoin mining facility](https://www.rocketcitynow.com/article/news/local/morgan-county-residents-fill-commission-meeting-to-fight-proposed-bitcoin-mining-facility/525-9c485128-2495-4e81-ad50-b31fee22afd1)**
+**[Could Adam Back's bitcoin treasury group go public via SPAC this week?](https://finance.yahoo.com/video/could-adam-backs-bitcoin-treasury-220000155.html)**
 
-rocketcitynow.com • 1h ago
+Scott Melker discusses the possibility of Bitcoin Standard Treasury Company (BSTR) — a big-time bitcoin (BTC-USD) buyer headed by Adam Back  — going public via a SPAC merger as soon as this Friday, June 23.
 
----
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
-**[Arthur Hayes Sees $40,000 Bitcoin Bottom Within the Next Six Months](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-sees-40-000-205501682.html)**
-
-Arthur Hayes expects Bitcoin to bottom near $40,000 in six months as a hawkish Fed and macro catalysts test the range.
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Wall Street giant delivers blunt verdict on Bitcoin's sell-off](https://au.finance.yahoo.com/news/wall-street-giant-delivers-blunt-211316035.html)**
+**[Save 60% on this desktop Bitcoin miner that’s smaller than a deck of cards](https://mashable.com/tech/june-23-bitcoin-ticket-miner)**
 
-Cryptocurrencies were red across the board on June 22. As per Decibel, Bitcoin (BTC) led the downward momentum with a 4.2% over 24 hours and 5.5% for the week. At press time, it was changing hands around $62,205. If we widen the lens, it remains more than 50% below its ...
+A low-power way to try Bitcoin mining.
 
-Yahoo Finance Australia • 43m ago
-
----
-
-**[Bitcoin price analysis: BTC may be close to a bottom. Here's why.](https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests)**
-
-BTC's long-term moving averages are set to flash a bearish signal soon. Yet, its good news for the bulls.
-
-CoinDesk • 13h ago
+Mashable • 1h ago
 
 ---
 
-**[Inflation run-up doesn't mean you should run toward cryptocurrency](https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/23/bitcoin-investment-buzzes-as-an-inflation-hedge-but-is-it/90606419007/)**
+**[BITO’s 0.95% Fee Is Only Half the Problem. Here’s Why Bitcoin Futures Cost You 2.9% Annually](https://finance.yahoo.com/markets/crypto/articles/bito-0-95-fee-only-224129632.html)**
 
-One expert has seen no evidence that cryptocurrency will provide any protection against inflation for investors. What's behind the argument.
+Bitcoin is up 84.59% over the past five years. ProShares Bitcoin Strategy ETF (NYSEARCA:BITO), the fund millions of investors bought to ride that exact wave, is down 24.26% over the same window. That gap is the hidden cost. What You’re Actually Paying Start with the sticker price. BITO charges a 0.95% net expense ratio, per ... BITO’s 0.95% Fee Is Only Half the Problem. Here’s Why Bitcoin Futures Cost You 2.9% Annually
 
-Detroit Free Press • 37m ago
+Yahoo Finance • 29m ago
 
 ---
 
@@ -225,7 +215,7 @@ CNBC • 3d ago
 
 Vaulted CEO David McAlvany says quantum computing could end Bitcoin within four years as central banks pile into gold. Olympian Lauryn Williams is now paid in metal.
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -233,7 +223,23 @@ Forbes • 6h ago
 
 Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.
 
-The Block • 11h ago
+The Block • 13h ago
+
+---
+
+**[Quantum computing is often seen as a risk to bitcoin. Now Trump wants to develop it.](https://www.coindesk.com/tech/2026/06/23/trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-could-break-encryption)**
+
+The White House issued twin executive orders to accelerate U.S. development of large-scale quantum computers while simultaneously hardening defenses against such machines.
+
+CoinDesk • 17h ago
+
+---
+
+**[Trump’s White House Teases Quantum Push: Is Bitcoin’s Next Big Narrative Here?](https://finance.yahoo.com/markets/crypto/articles/trump-white-house-teases-quantum-191356598.html)**
+
+A White House quantum push revives Bitcoin quantum risk as CZ debates freezing Satoshi's dormant coins after a fork.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -291,7 +297,7 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
 
-⬆️ 2 • 💬 0 • 16h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
+⬆️ 2 • 💬 0 • 18h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
 
 ---
 
@@ -305,7 +311,7 @@ Everybody's asking the same question: where's the bottom? But that's the wrong q
 
 📺 Mark Moss
 
-👁️ 3K • 👍 395 • 💬 24 • ⏱️ 17:22 • 2h ago
+👁️ 15K • 👍 1K • 💬 160 • ⏱️ 17:22 • 4h ago
 
 ---
 
@@ -315,7 +321,17 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 819 • 💬 71 • ⏱️ 51:25 • 7h ago
+👁️ 17K • 👍 889 • 💬 79 • ⏱️ 51:25 • 8h ago
+
+---
+
+**[Everything Crashing!?🔥A.I. Bubble vs Crypto💥Market Update](https://www.youtube.com/watch?v=8B0Pjja7nqw)**
+
+Another wave of panic has hit the crypto market. Bitcoin is falling, Ethereum is bleeding, and altcoins are rapidly losing momentum ...
+
+📺 Paul Barron Network
+
+👁️ 12K • 👍 1K • 💬 105 • ⏱️ 17:52 • 4h ago
 
 ---
 
@@ -325,17 +341,7 @@ Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 1K • 💬 25 • ⏱️ 14:10 • 1d ago
-
----
-
-**[They Trapped Elon Musk&#39;s Trillion. Yours Is Next. Got Bitcoin?](https://www.youtube.com/watch?v=-tCJ8sCvpVU)**
-
-Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, the Fed's inflation games, and the SpaceX insider ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 2K • 💬 80 • ⏱️ 15:35 • 1d ago
+👁️ 38K • 👍 1K • 💬 25 • ⏱️ 14:10 • 1d ago
 
 ---
 
@@ -345,7 +351,27 @@ The US government is quietly turning AI into the next “too big to fail” indu
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 88 • ⏱️ 18:52 • 1d ago
+👁️ 18K • 👍 1K • 💬 118 • ⏱️ 18:52 • 2d ago
+
+---
+
+**[BITCOIN: HISTORY IS ABOUT TO REPEAT!!! *urgent*](https://www.youtube.com/watch?v=k0u1uAAtfsc)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 351 • 💬 23 • ⏱️ 24:48 • 6h ago
+
+---
+
+**[They Trapped Elon Musk&#39;s Trillion. Yours Is Next. Got Bitcoin?](https://www.youtube.com/watch?v=-tCJ8sCvpVU)**
+
+Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, the Fed's inflation games, and the SpaceX insider ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 112 • ⏱️ 15:35 • 1d ago
 
 ---
 
@@ -355,27 +381,7 @@ Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 14K • 👍 675 • 💬 104 • ⏱️ 20:58 • 9h ago
-
----
-
-**[58K NEXT FOR BITCOIN!? VERY LIKELY...](https://www.youtube.com/watch?v=Ozau6nKZzE4)**
-
-PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
-
-📺 100XClub
-
-👁️ 6K • 👍 716 • 💬 207 • ⏱️ 5:56 • 11h ago
-
----
-
-**[How Much Bitcoin You Actually Need to Retire (Exact Math)](https://www.youtube.com/watch?v=GmgkgE9B8ew)**
-
-You've been told you need 15 Bitcoin to retire. The real number is closer to 4. The 4% rule was written in 1994 for stocks and ...
-
-📺 Trey Sellers
-
-👁️ 8K • 👍 247 • 💬 128 • ⏱️ 11:39 • 1d ago
+👁️ 17K • 👍 718 • 💬 110 • ⏱️ 20:58 • 10h ago
 
 ---
 
@@ -385,17 +391,17 @@ Philippe Laffont, Coatue Management founder and portfolio manager, joins 'Squawk
 
 📺 CNBC Television
 
-👁️ 22K • 👍 340 • 💬 139 • ⏱️ 8:41 • 9h ago
+👁️ 29K • 👍 396 • 💬 163 • ⏱️ 8:41 • 10h ago
 
 ---
 
-**[Bitcoin: This Is About to Reshape History](https://www.youtube.com/watch?v=2_VYpBDdxsM)**
+**[BITCOIN: ACCUMULATION TIME](https://www.youtube.com/watch?v=M-N8kJyoxIY)**
 
-TIA WEEKLY REPORTS, GET ACCESS HERE → https://link.tiainvestor.com/jyt-reports TIA 18-YEAR CYCLE MINI-COURSE, ...
+The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
-📺 Jason Pizzino
+📺 Jordan Camirand
 
-👁️ 17K • 👍 1K • 💬 64 • ⏱️ 31:13 • 19h ago
+👁️ 7K • 👍 491 • 💬 113 • ⏱️ 16:05 • 23h ago
 
 ---
 
