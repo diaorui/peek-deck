@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-23T05:49:19.508547+00:00'
+updated: '2026-06-23T09:40:20.207734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 05:49 UTC  
+**Last Updated:** June 23, 2026 at 09:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,725.97
+### $1,652.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -2.1%  
-**30d:** -18.9%  
-**90d:** -16.8%  
-**1y:** -29.9%  
+**24h:** -5.5%  
+**7d:** -5.6%  
+**30d:** -21.8%  
+**90d:** -19.8%  
+**1y:** -32.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.74B
+**Market Cap:** $199.23B
 Rank #2
 
-**Circulating Supply:** 120,684,073 ETH
+**Circulating Supply:** 120,683,836 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.9%
+-66.6%
 
 **All-Time Low:** $0.43
-+401164.3%
++381184.1%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
 
-The Block • 19h ago
+The Block • 23h ago
 
 ---
 
@@ -166,11 +166,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+**[Ethereum Is the Cheapest It's Been in Years. Here's What History Says Happens Next.](https://finance.yahoo.com/markets/crypto/articles/ethereum-cheapest-years-heres-history-090000931.html)**
 
-/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+Sometimes assets are in the bargain bin for a reason.
 
-PR Newswire • 11h ago
+Yahoo Finance • 40m ago
+
+---
+
+**[Ethereum’s Healthy Network Hides a Rotation Its 7-Week ETF Bleed Won’t Show](https://finance.yahoo.com/markets/crypto/articles/ethereum-healthy-network-hides-rotation-071857178.html)**
+
+Ethereum ETF outflows hit a 7th week, but a healthy network and a direct flow read reveal a quiet rotation into ETH the funds miss.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,45 +186,31 @@ PR Newswire • 11h ago
 
 The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.
 
-CoinDesk • 16h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, June 22, 2026: Prices moving higher this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-22-2026-prices-moving-higher-this-morning-133853515.html)**
+**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
 
-Bitcoin opened at $63,242.26 on Monday, June 22, 2026, 1.6% lower than Sunday's opening price. Ethereum opened at $1,704.90 on Monday, down 2% from Sunday's opening price.
+/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Crypto News Today: AlphaPepe Nears Third CEX Partnership as Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-third-cex-partnership-as-ethereum-price-prediction-targets-7-000-1036267085)**
-
-MONACO, June  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as buyers watch speculation around a possible third CEX ...
-
-markets.businessinsider.com • 4h ago
+PR Newswire • 15h ago
 
 ---
 
-**[Ethereum Foundation's strategy chief lays out plan to kill MEV and make privacy a protocol default](https://cryptobriefing.com/ethereum-foundation-mev-elimination-privacy-plan/)**
+**[Ethereum news: Joe Lubin, Sharplink, Tom Lee's Bitmine back new Ethereum research lab](https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub)**
 
-Ethereum Foundation strategy chief Bastian Aue outlines a six-part plan to eliminate toxic MEV, make privacy a protocol default, and shift EF compensation
+Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation.
 
-Crypto Briefing • 10h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers, Ethereum clings to support, XRP consolidates](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-ethereum-clings-to-support-xrp-consolidates-202606220405)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a steadier footing after correcting by nearly 4%, 2% and 6%, respectively, in the previous week. BTC is attempting a modest recovery, trading above $64,500 on Monday, while ETH continues to defend the crucial $1,700 support level.
-
-FXStreet • 1d ago
+CoinDesk • 14h ago
 
 ---
 
-**[Key facts: ETF Approvals Fail; 50k-ETH Short Raised; Japan Reclassifies](https://www.tradingview.com/news/tradingview:a7bb538cc4008:0-key-facts-etf-approvals-fail-50k-eth-short-raised-japan-reclassifies/)**
+**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
 
-TradingView • 17h ago
+Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+
+The Block • 14h ago
 
 ---
 
@@ -224,7 +218,15 @@ TradingView • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 19h ago
+
+---
+
+**[Crypto News Today: AlphaPepe Nears Third CEX Partnership as Ethereum Price Prediction Targets $7,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-nears-third-cex-partnership-as-ethereum-price-prediction-targets-7-000-1036267085)**
+
+MONACO, June  22, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as buyers watch speculation around a possible third CEX ...
+
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -238,7 +240,7 @@ Fortune • 16h ago
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 177 • ⏱️ 13:42 • 1d ago
+👁️ 36K • 👍 2K • 💬 158 • ⏱️ 13:42 • 1d ago
 
 ---
 
@@ -248,37 +250,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 1K • 👍 61 • 💬 2 • ⏱️ 14:55 • 11h ago
-
----
-
-**[DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)](https://www.youtube.com/watch?v=TibSwyw7JNQ)**
-
-DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of the entire DeFi economy, why Ethereum's ten-year ...
-
-📺 The Rollup
-
-👁️ 860 • 👍 40 • 💬 4 • ⏱️ 6:42 • 10h ago
-
----
-
-**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
-
-MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 274 • 💬 11 • ⏱️ 29:19 • 11h ago
-
----
-
-**[⚠️ Ethereum Faces Critical Level - ETH Crypto Analysis](https://www.youtube.com/watch?v=0tJLOpYkGOo)**
-
-Join Premium: https://the-bitcoin-strategy.com Instagram: https://www.instagram.com/gerhard_bitcoin_strategy/ My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 1K • 👍 49 • 💬 5 • ⏱️ 10:15 • 14h ago
+👁️ 2K • 👍 68 • 💬 5 • ⏱️ 14:55 • 15h ago
 
 ---
 
@@ -288,7 +260,17 @@ Join the Inner Circle and Stop Missing Out On Life Changing Trades https://crypt
 
 📺 Lark Davis
 
-👁️ 39K • 👍 1K • 💬 207 • ⏱️ 11:57 • 1d ago
+👁️ 40K • 👍 1K • 💬 203 • ⏱️ 11:57 • 1d ago
+
+---
+
+**[BTC &amp; ETHEREUM, Lage? Jetzt scheint sie klar zu sein, das wird in den nächsten Wochen passieren!](https://www.youtube.com/watch?v=1efLWJCLe74)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 300€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 485 • 💬 39 • ⏱️ 10:15 • 5h ago
 
 ---
 
@@ -298,27 +280,27 @@ No B.S. Just Charts. Bitcoin is missing its final leg down, and until that fear 
 
 📺 Gareth Soloway
 
-👁️ 69K • 👍 4K • 💬 226 • ⏱️ 15:20 • 1d ago
+👁️ 70K • 👍 4K • 💬 226 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[🚨 BITCOIN PODRIA ESTAR CERCA de ESTE MOVIMIENTO!! 👉 ETHEREUM BITMINE NUEVA ESTRATEGIA](https://www.youtube.com/watch?v=Ib2lphSopfU)**
+**[MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble!](https://www.youtube.com/watch?v=qqG7EFwZIrw)**
 
-MIS EXCHANGES FAVORITOS: 1️⃣ 200 USDT GRATIS REGÍSTRATE AQUÍ: https://bit.ly/4uNp5km ...
+MASSIVE $200B SOLANA PARTNERSHIP! Ethereum in Serious Trouble! Rumble (Partner) http://wallet.rumble.com/cryptowendy ...
 
-📺 WhatsUpCripto
+📺 CryptoWendyO
 
-👁️ 1K • 👍 148 • 💬 37 • ⏱️ 10:32 • 8h ago
+👁️ 4K • 👍 278 • 💬 12 • ⏱️ 29:19 • 15h ago
 
 ---
 
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+**[DeFi Dad: Why Ethereum Is The Future Of Finance (Issuance Thesis)](https://www.youtube.com/watch?v=TibSwyw7JNQ)**
 
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+DeFi Dad makes the case that ETH's staking yield is the native T-bills rate of the entire DeFi economy, why Ethereum's ten-year ...
 
-📺 Jake Gordon Crypto
+📺 The Rollup
 
-👁️ 781 • 👍 56 • 💬 9 • ⏱️ 14:40 • 12h ago
+👁️ 1K • 👍 42 • 💬 5 • ⏱️ 6:42 • 14h ago
 
 ---
 
@@ -328,7 +310,27 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 335 • 👍 15 • 💬 1 • ⏱️ 6:13 • 12h ago
+👁️ 349 • 👍 15 • 💬 1 • ⏱️ 6:13 • 15h ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 882 • 👍 67 • 💬 23 • ⏱️ 14:40 • 16h ago
+
+---
+
+**[🚨 BITCOIN PODRIA ESTAR CERCA de ESTE MOVIMIENTO!! 👉 ETHEREUM BITMINE NUEVA ESTRATEGIA](https://www.youtube.com/watch?v=Ib2lphSopfU)**
+
+MIS EXCHANGES FAVORITOS: 1️⃣ 200 USDT GRATIS REGÍSTRATE AQUÍ: https://bit.ly/4uNp5km ...
+
+📺 WhatsUpCripto
+
+👁️ 1K • 👍 160 • 💬 34 • ⏱️ 10:32 • 12h ago
 
 ---
 

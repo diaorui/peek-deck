@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-23T05:49:19.510802+00:00'
+updated: '2026-06-23T09:40:20.210529+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 23, 2026 at 05:49 UTC  
+**Last Updated:** June 23, 2026 at 09:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the development process so far: https://vt.tiktok.com/ZSCJJAqr6/
 
-16h ago
+19h ago
+
+---
+
+**[RL standup without human reference](https://www.reddit.com/r/robotics/comments/1ucpb86/rl_standup_without_human_reference/)**
+
+Trained in mjlab with a relatively simple reward function mainly rewarding torso height and end pose + some simple energy, self collision etc penalty.
+
+17h ago
 
 ---
 
@@ -44,7 +52,47 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 In this python simulation: a robot spins a sensor and receives the distance. I made the distance more inaccurate the farther it is from a wall. The white lines are the actual walls The green dots are the raw, inaccurate data points the blue lines are my attempt at trying to interpret the data points into walls The algorithm works like this: For every green dot, if there are two close dots, it finds the best fit line, deletes the middle dot, and moves the other two onto the best fit line. This averages out the slopes between the green dots to allow for slope comparison. For every green dot, if the angle of the lines connected the green dot in front and behind are similar, then they are clipped into just two dots (similar to the first filter). However, as you can see, it is making walls even farther off from the green points, especially for vertical sections. I suspect this is because I'm using y=mx+b, and the slope for a vertical line is undefined, so I think the algorithm has a hard time approaching that. For context, I'm an incoming freshman trying to design an algorithm for a roomba without any prior knowledge on SLAM algorithms, so I would greatly appreciate any resources for a better implementation or just general feedback.
 
-14h ago
+18h ago
+
+---
+
+**[Any expert i have a question](https://www.reddit.com/r/robotics/comments/1ucwbxz/any_expert_i_have_a_question/)**
+
+Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kinda think it could only problem would be power/batteries. If it would work what could it be used for? I mainly think security, patrolling important assets etc.
+
+12h ago
+
+---
+
+**[University of Michigan researchers release AFUN for robot affordance understanding — RuntimeWire](https://www.reddit.com/r/robotics/comments/1ud7io1/university_of_michigan_researchers_release_afun/)**
+
+AFUN, a University of Michigan-led robotics model, predicts where robots should interact with objects and how they should move after contact.
+
+🔗 [RuntimeWire](https://runtimewire.com/article/university-of-michigan-researchers-release-afun-for-robot-affordance-understandi) • 4h ago
+
+---
+
+**[One weekend in: an autonomous "robot videographer" on an SO-101 (LeRobot) — it films and edits its own demo](https://www.reddit.com/r/robotics/comments/1ud1910/one_weekend_in_an_autonomous_robot_videographer/)**
+
+Weekend project, one weekend in — lots still half-built: a 6-DoF SO-101 arm (Feetech STS3215 / LeRobot) with a wrist camera, driven by an agent that plans camera moves, films them, and stitches the edit. Sharing v1 — rough, but the loop works. The demo is a side-by-side: left is an external phone shot (manual), right is the arm's own wrist camera. The choreography — wake → framed "hero" pose → dolly/roll/tilt beats → rest — runs through a safety layer (soft joint limits + velocity cap + stop sentinel). A few things I hit that others might find useful: 🔧 Dead elbow servo, diagnosed by feel. Stiff to backdrive, idle temp 53°C vs ~38°C on the others = shorted/lossy winding. Swapped it, re-set the ID, recalibrated the joint. 📐 The jerky motion wasn't the servo or the mount. Braced the table and it still jerked — turns out it's STS3215 gear backlash (~0.87° measured by others) plus low-speed stick-slip. Confirmed stick-slip is speed-dependent: ~51 backward micro-ticks at 12°/s vs ~0 at 50°/s. ✅ The fix: dropped P_Coefficient 32 → 16 (LeRobot's own recommended value). Slow-speed judder went from ~43 stutter events/sweep to ~0 in a controlled A/B. Plus: keep recorded moves single-direction and faster. 🎯 No IK yet, so "orbits" drift. Leaned on framing-safe moves — roll about the optical axis, dolly, tilt — to keep the subject centered. The goal is reusability: clone the repo, build/attach the SO-101, and you can direct Claude to film your own demos. Still manual for now (external camera + initial framing/hero pose). Next up: better camera, longer scripts, closed-loop framing. As always, it's all open source — control lib, safety layer, calibration, and the motion/stitch scripts. I will organise it better once the project is complete 👉 https://github.com/kamalkantsingh10/dummie Happy to go deeper on the motion-streaming / backlash tuning if useful.
+
+9h ago
+
+---
+
+**[Synthetic-Augmented RGB-D to 3D Object Localization pipeline](https://www.reddit.com/r/robotics/comments/1ucqzvs/syntheticaugmented_rgbd_to_3d_object_localization/)**
+
+This draw io diagram summarizes the perception pipeline I'm building for robotic object localization: - Capture real RGB-D data with an eye-in-hand camera setup. - Bootstrap a small labeled dataset - Fine-tune a YOLO-Seg model - Generate assisted labels for additional real captures - Compose synthetic RGB-D views using masks, depth, camera intrinsics and in-painted backgrounds. - Retrain the segmentation model with the expanded dataset - Input 2D masks, classes and confidences into 3D using depth and camera intrinsics - Extract 3D object localization outputs usable for robotic tasks -- Feedback is welcome!
+
+16h ago
+
+---
+
+**[Are there any open-source quadrupeds that match the capabilities of the mini-cheetah?](https://www.reddit.com/r/robotics/comments/1ud1t78/are_there_any_opensource_quadrupeds_that_match/)**
+
+I've been considering a long-term quadruped project and have been poking around the builds that are out there. There's a ton of cool stuff, but so far I haven't seen anything open-source seems to match the dynamic motion capabilities of the mini-cheetah. "Dynamic motion capabilities" is pretty hard to pin down without benchmarks, but subjectively I mean the speed, rough-terrain capabilities, and performance jumping/falling. (Even more subjectively I mean the backflip). Given the seven year gap that really surprised me. My question for the community is two-fold: Is there an open-source quadruped build that does match the mini-cheetah that I just missed? If not, why?
+
+9h ago
 
 ---
 
@@ -52,7 +100,7 @@ In this python simulation: a robot spins a sensor and receives the distance. I m
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691
 
-1d ago
+2d ago
 
 ---
 
@@ -64,89 +112,37 @@ Hey r/robotics, Wanted to share my latest budget mobile robot build. The goal wa
 
 ---
 
-**[IROS 2026 Travel Grants](https://www.reddit.com/r/robotics/comments/1uc9xlt/iros_2026_travel_grants/)**
-
-Unlike previous editions of IROS/ICRA, there seems to be no IEEE RAS travel grant on the IROS 2026 website this time, the only grant available is the IES-SYPA grant for upto 15 people. Is this not really less compared to any previous editions?
-
-1d ago
-
----
-
-**[When we fitted Éloi with a mouth👄](https://www.reddit.com/r/robotics/comments/1ubmw5z/when_we_fitted_éloi_with_a_mouth/)**
-
-1d ago
-
----
-
-**[How deep you are into the robotics iceberg?](https://www.reddit.com/r/robotics/comments/1uclz8l/how_deep_you_are_into_the_robotics_iceberg/)**
-
-I know this isn't a perfect robotics iceberg, but I thought it'd be fun to visualize how deep the field gets. What would you move up, move down, or add? I'm curious to see what experienced roboticists think belongs at the deepest level.
-
-15h ago
-
----
-
-**[🤖✨ From concept to reality! Proud to present my fully DIY 8-DOF Robotic Arm, designed, 3D printed, assembled, and programmed from scratch. Every servo, every wire, and every line of code brought this project to life. The journey of innovation never stops! 🚀](https://www.reddit.com/r/robotics/comments/1ubib0v/from_concept_to_reality_proud_to_present_my_fully/)**
-
-1d ago
-
----
-
-**[Walking robot 3d printed, 4 servos and. Arduino](https://www.reddit.com/r/robotics/comments/1ubhagk/walking_robot_3d_printed_4_servos_and_arduino/)**
-
-2d ago
-
----
-
-**[[Project] Open-source workcell evidence tool: physical event to regression test](https://www.reddit.com/r/robotics/comments/1ubx98h/project_opensource_workcell_evidence_tool/)**
-
-I released MetriPlane v0.2.0 and am preparing a SoftwareX research-software paper while finishing my MSc thesis. 3-minute demo: https://www.youtube.com/watch?v=7U5nbBbGGbw Repo: https://github.com/Miko997/metriplane Zenodo DOI: https://doi.org/10.5281/zenodo.20736619 MetriPlane is an observe-only physical-observability tool for bounded workcells. The v0.2.0 demo shows a replayed missing-tool event becoming: - physical event log - Cell Truth Report - evidence bundle - local bundle verification - generated regression test The goal is not robot control or safety certification. The goal is replayable evidence: what physically happened, what proves it, and whether the incident can become a repeatable software check. I am looking for technical feedback from robotics, simulation, manufacturing, digital-twin, and research-software people. Public reproduction issue: https://github.com/Miko997/metriplane/issues/6 I am especially interested in: Does the camera-free reproduction path work on other machines? Is the evidence-bundle / regression-test loop useful? Are the limitations clear enough? What should be validated next? Scope: - observe-only - planar/tagged assets - no robot or machine control - no safety certification - no marker-free tracking claim - no production deployment claim Useful feedback format: OS: Python version: doctor: pass/fail deterministic replay: pass/fail Atlas run: pass/fail bundle verify: pass/fail generated regression test: pass/fail Technical relevance: 2–5 sentences Main limitation: 1–2 sentences Critical feedback is preferred.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI | NVIDIA Technical Blog](https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/)**
+
+Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional safety which was built for structured…
+
+NVIDIA Developer • 20h ago
+
+---
 
 **[NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI](https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai)**
 
 NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
 
-NVIDIA Newsroom • 16h ago
+NVIDIA Newsroom • 20h ago
 
 ---
 
-**[Oversonic Robotics: STMicroelectronics, Fondazione ENEA Tech Biomedical and SpotInvest acquire a stake in the Company](https://sg.finance.yahoo.com/news/oversonic-robotics-stmicroelectronics-fondazione-enea-053000362.html)**
+**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
 
-Oversonic Robotics, the Italian cognitive robotics company creator of RoBee, the first certified cognitive humanoid robot designed to operate in complex environments, announces that STMicroelectronics, Fondazione ENEA Tech Biomedical and SpotInvest have entered the Company's share capital to accelerate its industrial, technological, and international development. The entry of the new shareholders is aimed at supporting Oversonic's industrial, technological and international growth and at strengt
-
-Yahoo Finance Singapore • 19m ago
+Axios • 18h ago
 
 ---
 
-**[Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/)**
+**[AGIBOT Showcases Embodied AI Robots at VivaTech 2026 in Paris](https://sg.finance.yahoo.com/news/agibot-showcases-embodied-ai-robots-075500494.html)**
 
-Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
+PARIS, June 23, 2026--AGIBOT, a global leader in embodied AI and robotics, presented its embodied AI robotics portfolio at VivaTech 2026 in Paris. The company conducted live demonstrations across interaction, locomotion, manipulation, and multi-robot coordination.
 
-The Robot Report • 16h ago
-
----
-
-**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
-
-China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
-
-Financial Times • 23h ago
-
----
-
-**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
-
-Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
-
-Crunchbase News • 18h ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -154,15 +150,31 @@ Crunchbase News • 18h ago
 
 The largest robotics and artificial intelligence show in North America is currently in Chicago.
 
-ABC7 Chicago • 6h ago
+ABC7 Chicago • 10h ago
 
 ---
 
-**[Tesla’s Missing 10,000: Is Optimus Falling Behind The Robotics Pack?](https://www.trefis.com/stock/tsla/articles/603549/teslas-missing-10000-is-optimus-falling-behind-the-robotics-pack/2026-06-22)**
+**[Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation](https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/)**
 
-Tesla (TSLA) is valued at more than $1.2 trillion. The automotive business holding that number up is shrinking. Full-year 2025 revenue came in at $94.8 billion, down 3 percent, the company's first annual revenue decline ever. Auto revenue fell 10 percent to $69.5 billion, margins are tighter, and BYD and other Chinese automakers keep gaining global share.
+Collaborative Robotics unveiled its Proxie Gen 2 mobile robot, adding autonomous task identification and two-armed manipulation.
 
-Trefis • 16h ago
+The Robot Report • 20h ago
+
+---
+
+**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
+
+China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
+
+Financial Times • 1d ago
+
+---
+
+**[Sector Snapshot: Robotics Startups On Fire As Venture Funding Surges To Record Numbers In 2026](https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)**
+
+Globally, robotics startups have so far raised $18.8 billion in 2026, compared to $15 billion in the full year of 2025. The figure also handily surpasses the $14.1 billion raised in the peak venture funding year of 2021, and we still have more than six months of fundraising left. We use Crunchbase data to see where the funding went.
+
+Crunchbase News • 22h ago
 
 ---
 
@@ -171,21 +183,13 @@ Trefis • 16h ago
 Some see advancements in robotics and artificial intelligence as a threat to the workforce.
 Others see it as an indicator of who and what “got left...
 
-Pittsburgh Post-Gazette • 21h ago
+Pittsburgh Post-Gazette • 13h ago
 
 ---
 
 **[General Motors cuts 1,000 workers in Detroit, adds 50 robots](https://www.newsnationnow.com/business/tech/general-motors-cuts-workers-robots-ai-layoffs-detroit/)**
 
-NewsNation • 6h ago
-
----
-
-**[AI robots kick Denver's recycling into high gear](https://www.denver7.com/decodedc/technology/ai-robots-kick-denvers-recycling-into-high-gear)**
-
-Robots powered by artificial intelligence are making recycling more efficient at a facility taking in waste from all over the Denver metro.
-
-Denver7 • 12h ago
+NewsNation • 10h ago
 
 ---
 
@@ -199,17 +203,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 33K • 👍 869 • 💬 143 • ⏱️ 13:45 • 1d ago
-
----
-
-**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
-
-Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
-
-📺 Jason Lowe on AI
-
-👁️ 345K • 👍 15K • 💬 3K • ⏱️ 2:51 • 5d ago
+👁️ 36K • 👍 903 • 💬 145 • ⏱️ 13:45 • 1d ago
 
 ---
 
@@ -219,7 +213,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 47K • 👍 836 • 💬 69 • ⏱️ 24:13 • 3d ago
+👁️ 47K • 👍 839 • 💬 70 • ⏱️ 24:13 • 3d ago
 
 ---
 
@@ -229,25 +223,17 @@ At China's Dragon Boat Festival, everybody takes place – including the robots.
 
 📺 CGTN Europe
 
-👁️ 18K • 👍 87 • 💬 13 • ⏱️ 0:49 • 2d ago
+👁️ 18K • 👍 88 • 💬 13 • ⏱️ 0:49 • 2d ago
 
 ---
 
-**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
+**[China’s $173,000 Human-Like AI Robot Is Now for Sale… Moya SHOCKS The World](https://www.youtube.com/watch?v=Fz4_uDaBtxg)**
 
-Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
+A $173000 human-like robot is now for sale… and Moya might be the most lifelike humanoid robot you have ever seen. China's ...
 
-📺 Carros Show
+📺 The AI Nexus
 
-👁️ 6K • 👍 208 • 💬 23 • ⏱️ 1:04:55 • 2d ago
-
----
-
-**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
-
-📺 Army Clips
-
-👁️ 267K • 👍 8K • 💬 147 • ⏱️ 0:58 • 2d ago
+👁️ 6K • 👍 126 • 💬 15 • ⏱️ 23:32 • 1d ago
 
 ---
 
@@ -257,17 +243,45 @@ Tesla's most human-like Optimus robot showcases how rapidly artificial intellige
 
 📺 Carros Show
 
-👁️ 5K • 👍 171 • 💬 17 • ⏱️ 21:44 • 3d ago
+👁️ 5K • 👍 172 • 💬 17 • ⏱️ 21:44 • 3d ago
 
 ---
 
-**[CAD to Reality: I built this robotic arm part | ROAR forearm](https://www.youtube.com/watch?v=qJvvW9VOMgw)**
+**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
 
-I designed and built a 3D printed robotic arm forearm using three custom gearbox designs: a three-ring cycloidal drive, an angular ...
+Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
 
-📺 Mishin Machine
+📺 Carros Show
 
-👁️ 25K • 👍 2K • 💬 99 • ⏱️ 14:45 • 3d ago
+👁️ 6K • 👍 214 • 💬 23 • ⏱️ 1:04:55 • 2d ago
+
+---
+
+**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
+
+Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
+
+📺 Jason Lowe on AI
+
+👁️ 348K • 👍 15K • 💬 3K • ⏱️ 2:51 • 5d ago
+
+---
+
+**[US Marines BEAT 2100 Military Robot](https://www.youtube.com/watch?v=bQaGKISmt4s)**
+
+📺 Army Clips
+
+👁️ 290K • 👍 9K • 💬 160 • ⏱️ 0:58 • 2d ago
+
+---
+
+**[This Robot Transforms Into ANYTHING! 😱🤖🔥](https://www.youtube.com/watch?v=myVpssHCBG0)**
+
+A boy and a girl start fighting over an amazing robot... Suddenly, one of them takes the robot apart and challenges the other ...
+
+📺 COTTON EXPLAINS
+
+👁️ 36K • 💬 1 • ⏱️ 0:21 • 4d ago
 
 ---
 
@@ -277,17 +291,7 @@ War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Crea
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 391 • 💬 58 • ⏱️ 10:03 • 16h ago
-
----
-
-**[Streamers Who Made Robots Uncomfortable 🤖💀](https://www.youtube.com/watch?v=f_j3vJrhHdI)**
-
-IShowSpeed, Kai Cenat, and Fanum somehow made robots question their own existence. These interactions got so ...
-
-📺 Expor
-
-👁️ 29K • 👍 131 • 💬 4 • ⏱️ 0:34 • 19h ago
+👁️ 7K • 👍 424 • 💬 64 • ⏱️ 10:03 • 20h ago
 
 ---
 
