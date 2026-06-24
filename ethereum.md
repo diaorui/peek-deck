@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T12:19:41.296936+00:00'
+updated: '2026-06-24T15:18:50.727041+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 12:19 UTC  
+**Last Updated:** June 24, 2026 at 15:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,653.11
+### $1,638.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -1.9%  
-**30d:** -19.0%  
-**90d:** -15.8%  
-**1y:** -30.6%  
+**24h:** -1.1%  
+**7d:** -4.0%  
+**30d:** -20.8%  
+**90d:** -17.6%  
+**1y:** -32.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $202.34B
+**Market Cap:** $209.74B
 Rank #2
 
-**Circulating Supply:** 120,683,784 ETH
+**Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.1%
+-64.9%
 
 **All-Time Low:** $0.43
-+387182.1%
++401164.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 18h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 21h ago
 
 ---
 
@@ -80,7 +80,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Don't get me wrong. I understand why people enjoy trading, but I've always found the practical side of crypto more interesting. Being able to actually use it for something feels more satisfying than watching numbers move up and down all day. Not every company accepts crypto, but if you can use crypto to buy something you were already planning to buy anyway, that's still pretty interesting. As I see, utility has become way more interesting to me than speculation lately.
 
-14h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-ethereum.org • 23h ago
+ethereum.org • 1d ago
 
 ---
 
@@ -162,19 +162,31 @@ ethereum.org • 23h ago
 
 The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
-**[This company owns 5% of all ethereum—and it hits your 401(k) soon](https://finance.yahoo.com/video/company-owns-5-ethereum-hits-170250791.html)**
+**[Bitcoin and ethereum prices today, Wednesday, June 24, 2026: Opened at lowest levels in about two weeks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-june-24-2026-opened-at-lowest-levels-in-about-two-weeks-125349040.html)**
 
-Scott Melker discusses ethereum, BitMine Immersion Technologies, 401(k)s, Robinhood, and other big crypto headlines.
+These are today's bitcoin and ethereum prices, Wednesday, June 24, 2026. Bitcoin opened at $62,660.11 on Wednesday, down 2% from Tuesday's open. Ethereum opened at $1,665.13 on Wednesday, flat compared to Tuesday's opening price.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+Yahoo Finance • 2h ago
 
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+---
 
-Yahoo Finance • 19h ago
+**[Current price of Ethereum for June 24, 2026](https://fortune.com/article/price-of-ethereum-06-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
+
+Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+
+The Block • 1d ago
 
 ---
 
@@ -194,33 +206,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum news: Joe Lubin, Sharplink, Tom Lee's Bitmine back new Ethereum research lab](https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.67 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-67-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302805995.html)**
 
-Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation.
+Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine's Series A Preferred...
 
-CoinDesk • 1d ago
-
----
-
-**[Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape](https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape)**
-
-Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.
-
-The Block • 22h ago
-
----
-
-**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
-
-ETF.com • 1h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Drop Further Amid Global Chip Sell-Off: Analyst Flags 'The Most Importan](https://www.benzinga.com/crypto/cryptocurrency/26/06/60061465/bitcoin-ethereum-xrp-dogecoin-drop-amid-chip-sell-off-analyst-flags-key-btc-level)**
-
-Leading cryptocurrencies cracked alongside stocks on Tuesday, June 23, after a sharp decline in chip-related stocks cast doubts on the sustainability of the AI rally.
-
-Benzinga • 10h ago
+PR Newswire • 2d ago
 
 ---
 
@@ -228,7 +218,13 @@ Benzinga • 10h ago
 
 PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the tru...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 19h ago
+
+---
+
+**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
+
+ETF.com • 4h ago
 
 ---
 
@@ -236,23 +232,33 @@ markets.businessinsider.com • 16h ago
 
 ## YouTube Videos: "ethereum"
 
+**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 5K • 👍 573 • 💬 168 • ⏱️ 12:14 • 3h ago
+
+---
+
 **[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
 
 The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 424 • 💬 239 • ⏱️ 14:53 • 20h ago
+👁️ 13K • 👍 436 • 💬 240 • ⏱️ 14:53 • 22h ago
 
 ---
 
-**[BITCOIN: A Liquidation Cascade Is Loading! (watch) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=lsIgMBTNwHM)**
+**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
 
-📺 BitcoinHyper
+📺 More Crypto Online
 
-👁️ 2K • 👍 205 • 💬 30 • ⏱️ 13:33 • 2h ago
+👁️ 427 • 👍 41 • 💬 3 • ⏱️ 9:05 • 32m ago
 
 ---
 
@@ -262,45 +268,17 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 95 • 💬 18 • ⏱️ 16:03 • 19h ago
+👁️ 3K • 👍 106 • 💬 17 • ⏱️ 16:03 • 21h ago
 
 ---
 
-**[0.01 Ethereum is $16.58 (Good Deal?)](https://www.youtube.com/watch?v=19eYSfiEcYY)**
+**[BITCOIN: A Liquidation Cascade Is Loading! (watch) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=lsIgMBTNwHM)**
 
-Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Brian Harrington
+📺 BitcoinHyper
 
-👁️ 2K • 👍 95 • 💬 37 • ⏱️ 9:26 • 20h ago
-
----
-
-**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
-
-Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 793 • 💬 126 • ⏱️ 20:58 • 23h ago
-
----
-
-**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 507 • 💬 29 • ⏱️ 2:17 • 11h ago
-
----
-
-**[BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=1f-UghrL7Ho)**
-
-BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 354 • 💬 463 • ⏱️ 21:18 • 16h ago
+👁️ 3K • 👍 323 • 💬 34 • ⏱️ 13:33 • 5h ago
 
 ---
 
@@ -310,27 +288,45 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 80 • 💬 7 • ⏱️ 14:55 • 1d ago
+👁️ 3K • 👍 80 • 💬 8 • ⏱️ 14:55 • 1d ago
 
 ---
 
-**[Ethereum până în 2028](https://www.youtube.com/watch?v=aYzP9fsd5WM)**
+**[BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=1f-UghrL7Ho)**
 
-Dacă vrei să vezi cum îmi fac eu investițiile, folosește link-ul de mai jos și înregistrează-te: Jocul de Lichiditate ...
+BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cristian Chifoi
+📺 Crypto World
 
-👁️ 3K • 👍 390 • 💬 41 • ⏱️ 16:17 • 5h ago
+👁️ 8K • 👍 367 • 💬 462 • ⏱️ 21:18 • 19h ago
 
 ---
 
-**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=whutyyBYi5g)**
+**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
 
-BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+📺 CryptoWendyO
 
-📺 Crypto Gyan
+👁️ 8K • 👍 580 • 💬 29 • ⏱️ 2:17 • 14h ago
 
-👁️ 968 • 👍 101 • ⏱️ 6:38 • 8h ago
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 2K • 👍 101 • 💬 47 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
+
+Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 20K • 👍 799 • 💬 127 • ⏱️ 20:58 • 1d ago
 
 ---
 

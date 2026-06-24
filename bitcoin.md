@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-24T12:19:41.290552+00:00'
+updated: '2026-06-24T15:18:50.721787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 12:19 UTC  
+**Last Updated:** June 24, 2026 at 15:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,903.82
+### $61,247.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.2%  
-**30d:** -17.2%  
-**90d:** -5.4%  
-**1y:** -41.3%  
+**24h:** -2.5%  
+**7d:** -3.2%  
+**30d:** -19.7%  
+**90d:** -8.2%  
+**1y:** -43.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1258.40B
+**Market Cap:** $1219.18B
 Rank #1
 
-**Circulating Supply:** 20,047,356 BTC
+**Circulating Supply:** 20,047,381 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-51.7%
 
 **All-Time Low:** $67.81
-+92477.8%
++89625.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 And I will add more if it goes down. Thanks guys.
 
-15h ago
+18h ago
 
 ---
 
@@ -89,13 +89,13 @@ And I will add more if it goes down. Thanks guys.
 
 I bought a year ago at 112 and have been holding ever since. Put most of my life savings. Now I wake up in panic thinking it's down to 30k and check my phone. My anxiety is so bad I have eczema and dandruff again, how can I relax?
 
-11h ago
+14h ago
 
 ---
 
 **[Breaking News: MSTR Pivots to Food Service](https://www.reddit.com/r/Bitcoin/comments/1udhtop/breaking_news_mstr_pivots_to_food_service/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ I bought a year ago at 112 and have been holding ever since. Put most of my life
 
 Great quote from his yesterday´s podcast. Timestamped video to that part: https://youtu.be/MYOLVDQYRYQ?t=2185
 
-22h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Great quote from his yesterday´s podcast. Timestamped video to that part: https
 
 The deeper question is: How can societies benefit from credit and investment without allowing debt to become a permanent burden? History repeatedly shows that banking systems can finance homes, businesses, and innovation ...but critics have also warned that unchecked financial power can concentrate wealth and deepen inequality. And perhaps the lasting lesson is this: The strength of an economy is not measured by how much debt people can accumulate ...but by whether financial systems create opportunity without trapping people in endless dependence. Because money should be a tool that expands freedom... ...not a burden that quietly consumes it.
 
-18h ago
+21h ago
 
 ---
 
@@ -119,7 +119,7 @@ The deeper question is: How can societies benefit from credit and investment wit
 
 I finally crossed 100 miles on Uber Eats. Every delivery goes toward one goal: stacking Bitcoin, one mile at a time. Spoiler: the progress bar is humbling. But the views along the way — sunsets, big open skies, and some rainbows make it all worth it. I slacked a little on the editing so this week there will be two episodes with one coming on Thursday to catch us up. Keep DCAing bois its primetime real estate time.
 
-🔗 [youtu.be](https://youtu.be/dc991MV3LcQ?si=1XfDATiJtY6EVkg8) • 10h ago
+🔗 [youtu.be](https://youtu.be/dc991MV3LcQ?si=1XfDATiJtY6EVkg8) • 13h ago
 
 ---
 
@@ -127,7 +127,7 @@ I finally crossed 100 miles on Uber Eats. Every delivery goes toward one goal: s
 
 Hon. John Ruddick delivers a speech on bitcoin and the impending transformation to the digital economy
 
-14h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ everyone loves saying they're bullish on BTC when the candles are green, but the
 
 2013: “We’re early” 2017: “We’re early” 2021: “We’re early” 2026: “We’re still early!!” Reality: Maybe… we’re just always early and late at the same time
 
-19h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ everyone loves saying they're bullish on BTC when the candles are green, but the
 
 The biggest enemy in Bitcoin isn’t the market. It’s YOU. Your fear Your impatience Your need for quick profit Bitcoin doesn’t shake weak hands accidentally. That’s the system working exactly as intended.
 
-19h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ The biggest enemy in Bitcoin isn’t the market. It’s YOU. Your fear Your impa
 
 Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 range for Tuesday, with correlation rising across tokens and no fresh ETF bid in sight.
 
-CoinDesk • 30m ago
+CoinDesk • 17m ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 30m ago
 
 Michael Saylor's Strategy should pause bitcoin purchases and focus on rebuilding its cash reserves, said CryptoQuant.
 
-The Block • 15h ago
+The Block • 18h ago
 
 ---
 
@@ -179,31 +179,31 @@ The Block • 15h ago
 
 Bitcoin has a track record of bouncing back from steep market declines. This time will be no different.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[After Warning of a Potential Collapse, Cardano's Founder Now Says Cardano Can Beat Bitcoin. Is He Right?](https://finance.yahoo.com/markets/crypto/articles/warning-potential-collapse-cardanos-founder-115300802.html)**
+**[Bitcoin’s Retreating Retail Army Exposes Fresh Market Fragility](https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility)**
 
-The chain's founder is trying to bring more attention to what he perceives as its unique strengths.
-
-Yahoo Finance • 26m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[MARA, CLSK, BTDR Draw Bullish Calls: Bitcoin Miners Are Becoming AI Landlords, And This Analyst Believes Market Hasn’t Priced It In Yet](https://finance.yahoo.com/markets/stocks/articles/mara-clsk-btdr-draw-bullish-112744841.html)**
+**[Nancy Guthrie report suggests FBI made $152 crypto mistake](https://www.newsnationnow.com/missing/fbi-bitcoin-crypto-nancy-guthrie-kidnapper/)**
 
-The bullish call comes as all three remained unprofitable due to non-cash Bitcoin writedowns, and investors question AI data center demand.
-
-Yahoo Finance • 51m ago
+NewsNation • 1h ago
 
 ---
 
-**[Morgan Co. approves moratorium on proposed bitcoin mining data center](https://www.waff.com/2026/06/23/morgan-co-approves-moratorium-proposed-bitcoin-mining-data-center/)**
+**[When Strategy Will Need To Sell Bitcoin; MSTR Stock's Scary Math](https://www.investors.com/news/mstr-stock-scary-math-when-strategy-will-need-to-sell-bitcoin/)**
 
-Morgan County commissioners voted Tuesday to approve a one-year moratorium on a proposed bitcoin mining data center in Somerville.
+Investor's Business Daily • 2h ago
 
-WAFF • 13h ago
+---
+
+**[Small north Alabama town fights back against Bitcoin mining center: ‘Crushed so many hopes’](https://www.al.com/news/2026/06/small-north-alabama-town-fights-back-against-bitcoin-mining-center-crushed-so-many-hopes.html)**
+
+AL.com • 2h ago
 
 ---
 
@@ -211,15 +211,15 @@ WAFF • 13h ago
 
 H100 shareholders approved a deal to acquire two Norwegian bitcoin treasury firms, a move that would boost the company's holdings to 3,500 BTC.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[Bitcoin 'vulnerable to further weakness' as token tumbles amid tech rout](https://finance.yahoo.com/markets/article/bitcoin-vulnerable-to-further-weakness-as-token-tumbles-amid-tech-rout-123504444.html)**
+**[The Julian Assange Film Streamers Wouldn’t Touch Turns To Bitcoin](https://www.forbes.com/sites/digital-assets/2026/06/24/the-julian-assange-film-streamers-wouldnt-touch-turns-to-bitcoin/)**
 
-Bitcoin tumbled with the rest of the market on Tuesday.
+A politically explosive Julian Assange documentary turns to Bitcoin and decentralized platforms in a fight over censorship, control and media gatekeepers.
 
-Yahoo Finance • 15h ago
+Forbes • 1h ago
 
 ---
 
@@ -227,13 +227,7 @@ Yahoo Finance • 15h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 23h ago
-
----
-
-**[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
-
-Barron's • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -257,14 +251,6 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 ---
 
-**[Bitcoin and energy: the no-bullshit version, with sourced numbers](https://news.ycombinator.com/item?id=48570374)**
-
-Energy is the FUD claim that comes up most often, full stop. The honest version: the consumption is real, the comparisons are rhetorical, the demand profile is unique, and the fix for what is actually broken is already profitable.
-
-⬆️ 3 • 💬 1 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/energy)
-
----
-
 **[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
 
 ⬆️ 2 • 💬 0 • 1d ago
@@ -275,7 +261,7 @@ Energy is the FUD claim that comes up most often, full stop. The honest version:
 
 Read this crypto post from greatHydra_997 posted on 2026/06/24 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 2h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377227237/)
+⬆️ 1 • 💬 0 • 5h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377227237/)
 
 ---
 
@@ -287,14 +273,6 @@ Conduit. Contribute to Jake1848/conduit development by creating an account on Gi
 
 ---
 
-**['Passive' investors who dodged BTC, forced to own SPCX which is 3x more volatile](https://news.ycombinator.com/item?id=48570504)**
-
-Many advisors and money-managers invested in index funds who will soon be owners of Elon Musk's astronomic ambitions
-
-⬆️ 6 • 💬 2 • 6d ago • [CNBC](https://www.cnbc.com/2026/06/17/passive-investors-who-dodged-bitcoin-are-now-forced-to-own-spacex-shares-three-times-more-volatile.html)
-
----
-
 **[Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit](https://news.ycombinator.com/item?id=48640568)**
 
 Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
@@ -303,9 +281,27 @@ Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is re
 
 ---
 
+**[Show HN: Proxy Block-CAGE, a new sparse block attention](https://news.ycombinator.com/item?id=48659271)**
+
+A list of AI/LLM R&D Projects where AI helps me with ideas and research - iqbal1980/ai_research_assistant_rnd_projects
+
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/iqbal1980/ai_research_assistant_rnd_projects/blob/main/proxy_block_cage_attention_introduction.md)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Date Just Leaked [Bitcoin Holders Get Ready]](https://www.youtube.com/watch?v=_vSZ-zDR69s)**
+
+Clarity act, Bitcoin, Ethereum, Solana, and stock updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 499 • 💬 48 • ⏱️ 15:15 • 2h ago
+
+---
 
 **[The Truth Behind Bitcoin&#39;s Crash, And What Comes Next!](https://www.youtube.com/watch?v=3bgffQEzsQ0)**
 
@@ -313,7 +309,7 @@ Bitcoin has lost its momentum, but the real story may have nothing to do with pr
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 288 • ⏱️ 16:50 • 13h ago
+👁️ 15K • 👍 1K • 💬 289 • ⏱️ 16:50 • 16h ago
 
 ---
 
@@ -323,27 +319,7 @@ Everybody's asking the same question: where's the bottom? But that's the wrong q
 
 📺 Mark Moss
 
-👁️ 55K • 👍 3K • 💬 447 • ⏱️ 17:22 • 17h ago
-
----
-
-**[1 Trillion Gone. Bitcoin Survives.](https://www.youtube.com/watch?v=EH9zMRLEckc)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 850 • 💬 261 • ⏱️ 8:31 • 11h ago
-
----
-
-**[Bitcoin Holders!! Most People Have No Idea What’s Coming!](https://www.youtube.com/watch?v=_R_p-0rtacw)**
-
-Crypto Fear Is Exploding.. But Most People Are Missing What Comes Next ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 27K • 👍 2K • 💬 201 • ⏱️ 10:48 • 13h ago
+👁️ 60K • 👍 3K • 💬 468 • ⏱️ 17:22 • 20h ago
 
 ---
 
@@ -353,27 +329,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 205 • 💬 30 • ⏱️ 13:33 • 2h ago
+👁️ 3K • 👍 323 • 💬 34 • ⏱️ 13:33 • 5h ago
 
 ---
 
-**[The Canadian Government Is Bailing Out The Rich | Is The US Next?](https://www.youtube.com/watch?v=jinAqtEd7mo)**
+**[Bitcoin Holders!! Most People Have No Idea What’s Coming!](https://www.youtube.com/watch?v=_R_p-0rtacw)**
 
-The US government is quietly turning AI into the next “too big to fail” industry, and the consequences could be massive. From AI ...
+Crypto Fear Is Exploding.. But Most People Are Missing What Comes Next ⭐ Follow Altcoin Daily on X: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 157 • ⏱️ 18:52 • 2d ago
-
----
-
-**[7 Million Bitcoin at Risk?](https://www.youtube.com/watch?v=-CDkZRgKw18)**
-
-Trump just accelerated America's quantum timeline — and Coinbase's own council says roughly 7 MILLION Bitcoin could ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 471 • 💬 57 • ⏱️ 19:39 • 17h ago
+👁️ 31K • 👍 2K • 💬 207 • ⏱️ 10:48 • 16h ago
 
 ---
 
@@ -383,27 +349,47 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 283 • 💬 202 • ⏱️ 11:26 • 9h ago
+👁️ 4K • 👍 319 • 💬 207 • ⏱️ 11:26 • 12h ago
 
 ---
 
-**[$14T Bitcoin Move - BlackRock Just Did This](https://www.youtube.com/watch?v=U8_1mjZDOK4)**
+**[LETZTE Warnung vor dem ENDE der Deadline – die EU macht ERNST!](https://www.youtube.com/watch?v=24mW7OBAJi0)**
 
-Subscribe. Before the panic turns into hindsight. Bitcoin is down. Stocks are down. Crypto is bleeding. More than $500 million in ...
+300€ & 8% OKX Bonus ➟ https://my.okx.com/de/campaigns/robyn-hd?channelId=41818443 * ByBit Exklusiv-Bonus ...
 
-📺 Bitcoin News Alerts
+📺 RobynHD
 
-👁️ 3K • 👍 207 • 💬 142 • ⏱️ 18:06 • 13h ago
+👁️ 2K • 👍 530 • 💬 36 • ⏱️ 12:38 • 1h ago
 
 ---
 
-**[BITCOIN MORREU: E AGORA?](https://www.youtube.com/watch?v=e4a_PGXMypQ)**
+**[THIS IS BAD! THIS Is Why Bitcoin Is Still Crashing!](https://www.youtube.com/watch?v=0cHyW0UUILc)**
 
-Crie sua conta com meu CÓDIGO de INDICAÇÃO: https://www.coinex.com/register?rc=vgzgy VÍDEO sobre COMO COMPRAR ...
+BTCC l $30000 Bonus + 10% Deposit Bonus: https://bit.ly/amcrbtcc ⚡️ WEEX ($30000 Bonus): https://bit.ly/amcweex26 Free ...
 
-📺 ANCAPSU
+📺 AMCrypto
 
-👁️ 58K • 👍 9K • 💬 348 • ⏱️ 15:19 • 11h ago
+👁️ 143 • 👍 23 • 💬 1 • ⏱️ 14:18 • 51m ago
+
+---
+
+**[1 Trillion Gone. Bitcoin Survives.](https://www.youtube.com/watch?v=EH9zMRLEckc)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 882 • 💬 262 • ⏱️ 8:31 • 14h ago
+
+---
+
+**[Cardano Hack (Bitcoin Dumping!)](https://www.youtube.com/watch?v=uejbUaNFcpg)**
+
+Today we cover the latest crypto news as rumors of a Cardano hack shake the altcoin market. Is this the start of a bigger crypto ...
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 137 • 1h ago
 
 ---
 
