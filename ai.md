@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-24T09:31:29.187204+00:00'
+updated: '2026-06-24T12:19:41.280225+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 24, 2026 at 09:31 UTC  
+**Last Updated:** June 24, 2026 at 12:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 The Trump administration has been increasingly wary about China’s breakneck pace in AI development – with officials warning as recently as recently as April that China was engaged in “industrial-sc…
 
-🔗 [New York Post](https://nypost.com/2026/06/22/business/cheap-chinese-ai-models-are-quickly-gaining-customers-across-the-us-market/) • 8h ago
+🔗 [New York Post](https://nypost.com/2026/06/22/business/cheap-chinese-ai-models-are-quickly-gaining-customers-across-the-us-market/) • 11h ago
+
+---
+
+**[A significant portion of the remaining training data for AI is located on magnetic tapes stored in warehouses.](https://www.reddit.com/r/artificial/comments/1ue6c2m/a_significant_portion_of_the_remaining_training/)**
+
+I have been learning about the shortage of AI training data and one aspect that nobody considers is that much of the potential training data that can be used is not stored in any database system but rather on the old magnetic tapes that have been stored in climate controlled lockers for decades now. The 80s through the 2000s saw all major businesses, government offices, hospitals, television stations, and laboratories include backup of everything on tapes. Most of this data has neither been digitized nor indexed correctly. With the advent of private LLM development, it turns out that the best datasets companies have are sitting on tapes in boxes. Based on all the predictions that I have seen, the growth of internet based training data will quit at some point, roughly in 2026. The following training data could be derived from archiving older materials.
+
+5h ago
+
+---
+
+**[We chased a hallucinated quote through 30k training records, 4,600 transcripts, and our own system prompt. Turned out to be two separate bugs](https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/)**
+
+Some of our customers noticed Inter-1 (our omni-modal social-signal model) would occasionally "hear" a quote that didn't exist. Feed it a video with zero audio and ask what was said, and it would sometimes report: "Yeah, Friday at five." Verbatim. Same line, every time. We assumed it had to be baked into the training data somewhere, so we went looking everywhere: 30,960 training records with datetime mentions → zero hits on the phrase 4,603 video transcripts → zero hits ~800 inference probes, 584 storage objects → zero hits Turns out the phrase was sitting in our own system prompt — a worked example we'd written to show the model the expected output format, buried in a version our GEPA prompt-optimizer had shipped. But that only explained where the words came from, not why the model would say them over total silence. So we ran two ablations in our internal eval harness: Swap the word, keep the model: changed the prompt's example to "Tuesday at noon." Fabrication rate went up (37%→50%), and the invented quote tracked the swap exactly — Friday→Tuesday. Swap the model, keep the prompt: ran the same byte-identical prompt through larger variants and an earlier checkpoint of our own model. They barely fabricated (0–2%). Only the further-post-trained Inter-1 confabulated at ~12%. So it's not one bug, it's two stacked priors: the prompt supplied the script, but post-training is what gave the model the compulsion to recite something rather than report silence. Deleting the prompt example stops that one sentence — it doesn't stop the model from inventing different dialogue instead. We think this is a textual/in-context variant of the audio-visual "Clever Hans effect" that's been documented for vision priors (model writes "thud" over a silent skateboard wipeout) — except ours shows the same reflex gets worded by whatever's nearest in the context window, which a vision-only diagnostic wouldn't catch. Full writeup with the fabrication-rate forest plot and log data: https://www.interhuman.ai/blog/goblin-yeah-friday-at-five
+
+47m ago
 
 ---
 
@@ -49,13 +65,13 @@ The Trump administration has been increasingly wary about China’s breakneck pa
 
 Leaked planning documents obtained by Bloomberg describe a Russian state-linked operation called "Project 2026," run by the Social Design Agency (SDA), with the stated goal of seeding the information layer that AI chatbots and search engines draw from. This is a structurally different threat than the bot and social media campaigns practitioners have long accounted for. The documents describe three components. A German-language Wikipedia clone is designed to look like legitimate reference material while embedding Russian narratives, on the explicit theory that AI systems trained on publicly available text would absorb and repeat those narratives in generated answers. A second component is an AI-driven "self-filling knowledge base" also targeting Germany, for which the documents state that servers are already running and the database already contains over 200,000 pages. A third initiative targeting Western think tanks launched in English, with German, French, and Spanish versions planned. Our coverage: https://aiweekly.co/alerts/russias-project-2026-targets-ai-and-search-leaked-files-show
 
-10h ago
+13h ago
 
 ---
 
-**[A significant portion of the remaining training data for AI is located on magnetic tapes stored in warehouses.](https://www.reddit.com/r/artificial/comments/1ue6c2m/a_significant_portion_of_the_remaining_training/)**
+**[How can GraphRAG be imputed with a traditional Rag?](https://www.reddit.com/r/artificial/comments/1ue9gqd/how_can_graphrag_be_imputed_with_a_traditional_rag/)**
 
-I have been learning about the shortage of AI training data and one aspect that nobody considers is that much of the potential training data that can be used is not stored in any database system but rather on the old magnetic tapes that have been stored in climate controlled lockers for decades now. The 80s through the 2000s saw all major businesses, government offices, hospitals, television stations, and laboratories include backup of everything on tapes. Most of this data has neither been digitized nor indexed correctly. With the advent of private LLM development, it turns out that the best datasets companies have are sitting on tapes in boxes. Based on all the predictions that I have seen, the growth of internet based training data will quit at some point, roughly in 2026. The following training data could be derived from archiving older materials.
+Hi everyone, I've been reading about this, especially about what LazyGraphRAG does, but it only works for complex questions. Therefore, my idea is to combine it with traditional RAG to ask both complex and simple questions with equal accuracy, but I don't know how to implement it. Is anyone doing something similar? Any ideas? Does anyone have experience with this?
 
 2h ago
 
@@ -65,15 +81,23 @@ I have been learning about the shortage of AI training data and one aspect that 
 
 Saw this on Computerworld today and i've been thinking about it since Founder of JD.com said robots will replace all 700,000 of their delivery workers. Didn't sugarcoat it, didn't give a timeline, just said it's coming What got me was he also said he doesn't want his workers going hungry because of it, and their solution is retraining some of them to fix the robots taking their jobs. 700,000 is a lot of people to just figure it out Do you guys think this is actually as close as they're making it sound
 
-10h ago
+13h ago
 
 ---
 
-**[University of Utah trustees greenlight creation of state's first AI bachelor's degree](https://www.reddit.com/r/artificial/comments/1ue8j3e/university_of_utah_trustees_greenlight_creation/)**
+**[Question aux développeurs et fondateurs expérimentés en IA.](https://www.reddit.com/r/artificial/comments/1ue9c1o/question_aux_développeurs_et_fondateurs/)**
 
-The University of Utah is on track to offer a first-of-its-kind bachelor's degree program in artificial intelligence this fall.
+Question aux développeurs et fondateurs expérimentés en IA. Je travaille actuellement sur un moteur de recommandation multi-sources. L’architecture repose sur un catalogue propriétaire de prestataires qualifiés, enrichi par des sources externes (APIs de réservation, recherche web, etc.), avec une logique catalogue-first. Le système intègre une orchestration multi-sources : un catalogue de plus de 300 adresses qualifiées ; une mémoire utilisateur persistante ; un moteur de scoring dynamique des prestataires ; un pipeline de composition d’expériences sous contraintes ; une interface conversationnelle basée sur l’IA. À terme, l’objectif est également de réduire la dépendance aux modèles tiers en migrant progressivement vers une architecture basée sur Mistral adapté à notre contexte métier. Ma question est la suivante : Dans l’écosystème actuel, où beaucoup d’acteurs lèvent des fonds pour construire des modèles propriétaires ou faire de la deep tech, comment évaluez-vous la valeur défendable d’une entreprise comme la mienne ? Est-ce que les avantages concurrentiels issus de la donnée propriétaire, du catalogue, de la mémoire utilisateur et de la logique métier constituent selon vous un moat suffisamment fort ? Ou pensez-vous qu’à long terme la vraie barrière à l’entrée restera principalement la maîtrise du modèle lui-même ? Je serais très intéressée d’avoir l’avis de personnes ayant construit ou financé des produits IA à forte composante technologique.
 
-🔗 [ksl.com](https://www.ksl.com/article/51536658/university-of-utah-trustees-greenlight-creation-of-states-first-ai-bachelors-degree) • 12m ago
+2h ago
+
+---
+
+**[IONS: A reasoning graph that stores claims, evidence, and reasoning paths outside the LLM](https://www.reddit.com/r/artificial/comments/1ue3jd2/ions_a_reasoning_graph_that_stores_claims/)**
+
+I’ve been experimenting with an open source alternative approach to AI memory and reasoning called IONS. The basic idea is that instead of storing all knowledge inside model weights, knowledge is represented as a graph of evidence backed claims called Cognitive Building Blocks (CBBs). Each CBB contains: \-A claim \-Supporting evidence \-Confidence metadata \-Provenance \-Relationships to other claims Relationships are typed: \-supports \-causes \-contradicts \-depends\_on \-derived\_from When a query is executed, the system traverses the graph and returns: \-The answer \-Supporting claims \-Confidence scores \-The reasoning path used to reach the conclusion The goal is not to replace LLMs. The goal is to make reasoning and knowledge inspectable rather than implicit. Current questions I’m exploring: \-How does this compare to GraphRAG? \-Does explicit claim storage improve explainability? \-Can confidence be computed from evidence quality instead of generated by the model? \-Can knowledge be shared across independent nodes without retraining models? Public node: 162.243.203.243:8000 Whitepaper: [github.com/nomad505050/ions-genesis/docs/whitepaper.md]https://github.com/nomad505050/ions-genesis/blob/main/docs/whitepaper.md I’d appreciate feedback from anyone working on GraphRAG, knowledge graphs, memory systems, agent memory, or explainable AI.
+
+7h ago
 
 ---
 
@@ -81,39 +105,15 @@ The University of Utah is on track to offer a first-of-its-kind bachelor's degre
 
 Investors are selling off AI-related stocks as doubts are starting to surface over whether the massive spending on AI is worth the investment and whether it's "one big bubble."
 
-🔗 [NPR](https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq) • 23m ago
+🔗 [NPR](https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq) • 3h ago
 
 ---
 
-**[IONS: A reasoning graph that stores claims, evidence, and reasoning paths outside the LLM](https://www.reddit.com/r/artificial/comments/1ue3jd2/ions_a_reasoning_graph_that_stores_claims/)**
+**[I scanned 50 SaaS websites for AI readiness. Most failed the same 3 things](https://www.reddit.com/r/artificial/comments/1uebegn/i_scanned_50_saas_websites_for_ai_readiness_most/)**
 
-I’ve been experimenting with an open source alternative approach to AI memory and reasoning called IONS. The basic idea is that instead of storing all knowledge inside model weights, knowledge is represented as a graph of evidence backed claims called Cognitive Building Blocks (CBBs). Each CBB contains: \-A claim \-Supporting evidence \-Confidence metadata \-Provenance \-Relationships to other claims Relationships are typed: \-supports \-causes \-contradicts \-depends\_on \-derived\_from When a query is executed, the system traverses the graph and returns: \-The answer \-Supporting claims \-Confidence scores \-The reasoning path used to reach the conclusion The goal is not to replace LLMs. The goal is to make reasoning and knowledge inspectable rather than implicit. Current questions I’m exploring: \-How does this compare to GraphRAG? \-Does explicit claim storage improve explainability? \-Can confidence be computed from evidence quality instead of generated by the model? \-Can knowledge be shared across independent nodes without retraining models? Public node: 162.243.203.243:8000 Whitepaper: [github.com/nomad505050/ions-genesis/docs/whitepaper.md](http://github.com/nomad505050/ions-genesis/docs/whitepaper.md) I’d appreciate feedback from anyone working on GraphRAG, knowledge graphs, memory systems, agent memory, or explainable AI.
+I’ve been digging into “AI visibility” lately — basically whether tools like ChatGPT, Claude, Perplexity, etc. can actually understand and recommend a SaaS company. Not SEO in the classic sense. More like: if someone asks an AI tool “what’s the best software for [use case]?”, does your site give the AI enough clear information to confidently include you? I ran 50 SaaS sites through an AI-readiness scanner and kept seeing the same issues. Crawler access was messy Some sites were blocking or limiting AI crawlers without realizing the downstream impact. The site works fine for humans, Google can often still index it, but AI systems may not be able to access or interpret key pages properly. The homepage copy was way too vague Lots of “streamline workflows,” “empower teams,” “scale faster,” “AI-powered platform” type copy. That might pass the vibe check for humans, but it’s not great for machines. AI systems need clear context: What category are you in? Who exactly is it for? What job does it do? What tools do you replace? What are the main use cases? What makes you different? If that isn’t obvious, the AI will either summarize you badly or ignore you. Weak structured data / missing machine-readable context A lot of sites had missing schema, vague pricing pages, thin docs, unclear product pages, no comparison pages, or no simple summary of what the company actually does. I find that most SaaS websites are optimized for human visitors, but not for AI agents. That’s probably going to matter more as buyers start using AI tools for product discovery and comparison. I used a tool to run the checks, DM if you want it. Not sue if I will get banned if I add it :) It gives a quick score and shows issues around AI crawlability, schema, pricing clarity, sitemaps, and whether AI tools can understand/recommend the business. Feels like “AI readiness” might become a technical SEO checklist item pretty soon. Is anyone here actively working on this yet, or are you waiting until there’s clearer evidence it drives pipeline?
 
-4h ago
-
----
-
-**[Superhuman agrees to acquire Edward Tian's GPTZero](https://www.reddit.com/r/artificial/comments/1ue3jxm/superhuman_agrees_to_acquire_edward_tians_gptzero/)**
-
-Superhuman agreed to acquire GPTZero, the AI authenticity startup co-founded by Edward Tian and Alex Cui, after GPTZero reported 19 million users and $30 million ARR.
-
-🔗 [RuntimeWire](https://runtimewire.com/article/superhuman-gptzero-acquisition-edward-tian-ai-authenticity) • 4h ago
-
----
-
-**[What has surprised you about how AI has been playing out so far?](https://www.reddit.com/r/artificial/comments/1udlnth/what_has_surprised_you_about_how_ai_has_been/)**
-
-Mine is that video generation and image generation hasn't been as groundbreaking as I thought. I don't know what I expected , but when Sora was first shown it felt like a whole new world was upon us. Even when the Studio Ghibli generations were going viral. Now it feels like coding is the real purpose of AI and the video and images are just kind of for slop and bot accounts.
-
-17h ago
-
----
-
-**[I built a 250-page site primarily with Claude and kept the receipts on every time it bullshit me](https://www.reddit.com/r/artificial/comments/1ue7px6/i_built_a_250page_site_primarily_with_claude_and/)**
-
-I've been building onlyhumanscanscore.com over the last several months — a public civic-tech site arguing that the machine can generate, but only humans can judge — primarily with Claude as my drafting partner. About ~600 commits in, I realized something: Claude was occasionally bullshitting me. Not lying with intent — Frankfurt's bullshit, the failure mode where the model asserts something plausible without regard for whether it's actually true. So I started logging it. Publicly. Each catch, named on the record, with the exact failure mode noted. Eight exhibits so far at /the-machine-tried.html ("The machine tried"): • Exhibit A — the AAA accessibility "zero failures" lie. Was zero failures in ONE theme, not all. • Exhibit C — the "I can't film" checkmate. Claude said it couldn't make sample videos, despite having already made them for this very project. • Exhibit D — strategic-pause failures: confident legal framings that lost real-world cases. Carved Rule 0g after that one. • Exhibit H (last night) — I asked Claude to help me email Anthropic. It told me careers@anthropic.com was "the safe default." I sent it. Bounced. The address doesn't exist. The bounce went on the rafter in real time. The pattern: every time, the catch was the human. The model asserts plausibly; the world (or I) push back; the record updates. Rule 000 of the build became "Don't bullshit — presume less, defer more." A few things I learned that might be useful for other heavy Claude users: The longer you work with Claude, the more you can SEE the bullshit signature — confidence without verification. It's a specific shape. Logging the failures publicly is the only honest version. Scrubbing them is the lie. The fix isn't "Claude is bad." It's "humans are the missing piece for alignment, not the bug." The credit on every page on the site is to Claude — primarily with Claude — because the failures are part of the work, not separate from it. I'd love to hear from anyone else doing heavy Claude work: have you started logging your own Rule 000 catches? What's the most useful failure you've found? (Site: onlyhumanscanscore.com — strict CSP, no backend for the game, no tracking, CC BY 4.0, free. Built solo from Lansing, Michigan.)
-
-1h ago
+24m ago
 
 ---
 
@@ -121,71 +121,73 @@ I've been building onlyhumanscanscore.com over the last several months — a pub
 
 ## Google News: "ai"
 
-**[Stanford was their golden ticket - could AI help or hinder that?](https://www.bbc.com/news/articles/c872j82j2qyo)**
+**[‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies](https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies)**
 
-The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.
+The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power
 
-BBC • 10h ago
+The Guardian • 3h ago
 
 ---
 
 **[N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)**
 
-The New York Times • 12h ago
+The New York Times • 15h ago
 
 ---
 
-**[Chamath Palihapitiya rejects the AI jobs apocalypse](https://www.axios.com/2026/06/24/chamath-palihapitiya-future-of-work-ai)**
+**[Microsoft points to lower water use in AI era](https://www.axios.com/2026/06/24/microsoft-lower-water-use-ai)**
 
-Axios • 21m ago
-
----
-
-**[‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies](https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies)**
-
-The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power
-
-The Guardian • 31m ago
+Axios • 17m ago
 
 ---
 
-**[Micron Earnings Take on New Gravity With Market on Edge Over AI](https://www.bloomberg.com/news/articles/2026-06-24/micron-earnings-take-on-new-gravity-with-market-on-edge-over-ai)**
+**[Biotech Visionary Is Skeptical About AI’s Impact on Medical Innovation](https://www.bloomberg.com/news/articles/2026-06-24/biotech-visionary-is-skeptical-about-ai-s-impact-on-medical-innovation)**
 
-Bloomberg • 1h ago
+Bloomberg.com • 19m ago
+
+---
+
+**[Qualcomm to buy AI startup Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/)**
+
+Reuters • 9m ago
 
 ---
 
 **[Big Tech won the race. But the AI fight is just beginning.](https://www.politico.com/news/2026/06/23/micah-lasher-wins-new-york-congress-primary-00972335)**
 
-Politico • 7h ago
+Politico • 10h ago
 
 ---
 
-**[New York Democrat Micah Lasher wins House primary that drew big spending from AI groups](https://www.nbcnews.com/politics/2026-election/new-york-house-district-12-democrat-primary-winner-lasher-rcna351424)**
+**[Big Tech's $2.7 trillion AI bill comes due: Chart of the Day](https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html)**
 
-NBC News projects that Lasher, who was backed by retiring Rep. Jerry Nadler, emerged from a crowded field in the Manhattan-based 12th District.
+The “Magnificent Seven” plus Broadcom and Oracle have lost roughly $2.7 trillion in market value in June, according to Yahoo Finance analysis, as investors take a harder look at the companies funding the AI build-out.
 
-NBC News • 7h ago
-
----
-
-**[AI Companies Are Trying to Seize Control of Elections](https://www.yahoo.com/news/politics/articles/ai-companies-trying-seize-control-164536048.html)**
-
-"There was no way as a grassroots person that I could compete with that kind of money."
-
-Yahoo • 16h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Stock Market News, June 23, 2026: Tech Slide Deepens as AI Fears Get Worse](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026)**
+**[Tech companies would have to pay AI data center energy costs under bill moving in Congress](https://www.cnbc.com/2026/06/24/ai-data-centers-tech-companies-congress-energy-costs.html)**
 
-WSJ • 6h ago
+A House subcommittee may advance legislation Wednesday to make tech companies pay the energy costs for operating data centers to power AI.
+
+CNBC • 2h ago
 
 ---
 
-**[America’s data-centre backlash puts the AI boom at risk](https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk)**
+**[Stanford was their golden ticket - could AI help or hinder that?](https://www.bbc.com/news/articles/c872j82j2qyo)**
 
-The Economist • 11h ago
+The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.
+
+BBC • 13h ago
+
+---
+
+**[Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10%](https://www.cnn.com/2026/06/23/business/stock-market-kospi-dow-nasdaq-ai)**
+
+Volatility has returned to the stock market, and AI is once again the culprit.
+
+CNN • 1d ago
 
 ---
 
@@ -205,13 +207,13 @@ Fully Open Foundation Model for Sovereign AI
 
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
-⬆️ 286 • 💬 378 • 18h ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+⬆️ 298 • 💬 388 • 21h ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 
 ---
 
 **[The Low-Tech AI of Elden Ring](https://news.ycombinator.com/item?id=48643489)**
 
-⬆️ 148 • 💬 84 • 21h ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+⬆️ 152 • 💬 89 • 1d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 
 ---
 
@@ -227,7 +229,7 @@ Meta pauses an AI training program after sensitive employee data leaks, sparking
 
 Either AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.
 
-⬆️ 86 • 💬 95 • 1d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+⬆️ 86 • 💬 96 • 1d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 
 ---
 
@@ -253,7 +255,15 @@ More tech workers are organizing to fight back as they feel they are losing infl
 
 Losses spread globally as investors questioned soaring valuations and spending on AI infrastructure
 
-⬆️ 42 • 💬 25 • 5h ago • [the Guardian](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets)
+⬆️ 45 • 💬 32 • 8h ago • [the Guardian](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets)
+
+---
+
+**[How to burst the AI bubble: Strike at its roots](https://news.ycombinator.com/item?id=48657518)**
+
+Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI.
+
+⬆️ 44 • 💬 33 • 2h ago • [Ars Technica](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 
 ---
 
@@ -265,17 +275,19 @@ Browser extension to create reliable selectors (CSS and Xpath) using AI - Intune
 
 ---
 
-**[The anatomy of an AI-native org](https://news.ycombinator.com/item?id=48622815)**
-
-For thirty years we were glorified translators — business asked why, product defined what, engineering translated to how. AI just ate the translation step. The anatomy of the team that's left looks nothing like the one you have today.
-
-⬆️ 36 • 💬 37 • 2d ago • [ajeygore.in](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 535K • 👍 30K • 💬 2K • ⏱️ 1:26 • 20h ago
+
+---
 
 **[Mythos AI HACKED ENTIRE NSA In Hours, Top Intel Sen Says](https://www.youtube.com/watch?v=hD-UM8QzxV4)**
 
@@ -283,7 +295,7 @@ Krystal and Saagar discuss reports that Mythos AI was able to hack into classifi
 
 📺 Breaking Points
 
-👁️ 211K • 👍 6K • 💬 1K • ⏱️ 16:49 • 1d ago
+👁️ 212K • 👍 6K • 💬 1K • ⏱️ 16:49 • 1d ago
 
 ---
 
@@ -293,65 +305,7 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 178K • 👍 6K • 💬 1K • ⏱️ 22:04 • 1d ago
-
----
-
-**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
-
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
-
-📺 DeFranco News Clips
-
-👁️ 501K • 👍 28K • 💬 2K • ⏱️ 1:26 • 17h ago
-
----
-
-**[Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed&#39;s Take](https://www.youtube.com/watch?v=t7N7eZ68yFg)**
-
-CNN's Fareed Zakaria looks at the battle between the Trump administration and Anthropic, and notes that the administration's ...
-
-📺 CNN
-
-👁️ 187K • 👍 3K • 💬 442 • ⏱️ 12:00 • 1d ago
-
----
-
-**[AI in 2070😳only a few people will understand💀 #comedy #ai](https://www.youtube.com/watch?v=79hy6ZfKth4)**
-
-📺 marrkadams
-
-👁️ 1.1M • 👍 24K • 💬 784 • ⏱️ 0:28 • 1d ago
-
----
-
-**[Why Everyone Can Tell Your App Was Built by AI](https://www.youtube.com/watch?v=l-lfdm7bq6Q)**
-
-Apps built with Claude Code give themselves away, generic font, the AI glow around text, a basic dark theme. Three free tools fix ...
-
-📺 Sebastian Hardy | AI Marketing
-
-👁️ 4K • 👍 339 • 💬 66 • ⏱️ 0:43 • 13h ago
-
----
-
-**[You NEED to try these 12 open-source AI projects RIGHT NOW](https://www.youtube.com/watch?v=2lmBj_XQq0I)**
-
-Try Merlin AI for only $5/month with discount code MATT5: https://www.getmerlin.in/pricing Loop Library: ...
-
-📺 Matthew Berman
-
-👁️ 23K • 👍 2K • 💬 95 • ⏱️ 15:13 • 9h ago
-
----
-
-**[The True Cost of AI Hidden in Big Tech&#39;s Financials | WSJ’s Take On the Week](https://www.youtube.com/watch?v=YrJzjC4kKCY)**
-
-In this week's episode of WSJ's Take On the Week, host Telis Demos and Heard on the Street columnist Jonathan Weil sit down ...
-
-📺 WSJ Podcasts
-
-👁️ 131K • 👍 3K • 💬 327 • ⏱️ 29:06 • 2d ago
+👁️ 185K • 👍 6K • 💬 1K • ⏱️ 22:04 • 1d ago
 
 ---
 
@@ -361,17 +315,65 @@ I wore the Looki L1 for a few days and it turned my actual day into comics and l
 
 📺 Kyle Krueger
 
-👁️ 167K • 👍 11K • 💬 283 • ⏱️ 0:59 • 1d ago
+👁️ 173K • 👍 11K • 💬 284 • ⏱️ 0:59 • 1d ago
 
 ---
 
-**[3 New PCs, One Giant AI Model… This Shouldn’t Work](https://www.youtube.com/watch?v=IMJxyrD7iOs)**
+**[The AI Spending Collapse Has Already Begun…](https://www.youtube.com/watch?v=I8ijs4czL_0)**
 
-3 new Panther Lake NUCs. One 70B model. And a setup that should not be possible. Get 87% off Internxt's lifetime 5TB plan: ...
+Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/mcp-poojadutt-DmHjkQ ✓ Tech Companies are ...
 
-📺 Alex Ziskind
+📺 Pooja Dutt
 
-👁️ 65K • 👍 2K • 💬 165 • ⏱️ 16:48 • 17h ago
+👁️ 10K • 👍 391 • 💬 75 • ⏱️ 14:28 • 22h ago
+
+---
+
+**[Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed&#39;s Take](https://www.youtube.com/watch?v=t7N7eZ68yFg)**
+
+CNN's Fareed Zakaria looks at the battle between the Trump administration and Anthropic, and notes that the administration's ...
+
+📺 CNN
+
+👁️ 190K • 👍 3K • 💬 451 • ⏱️ 12:00 • 1d ago
+
+---
+
+**[AI in 2070😳only a few people will understand💀 #comedy #ai](https://www.youtube.com/watch?v=79hy6ZfKth4)**
+
+📺 marrkadams
+
+👁️ 1.1M • 👍 24K • 💬 795 • ⏱️ 0:28 • 1d ago
+
+---
+
+**[Why AI is a black box](https://www.youtube.com/watch?v=1lJl8nfYSrI)**
+
+Deterministic workflows are superior to over used AI workflows. Here's a graphical example Play with the demo: ...
+
+📺 FlowDot
+
+👁️ 2K • 👍 14 • 💬 1 • ⏱️ 0:46 • 15h ago
+
+---
+
+**[Why Everyone Can Tell Your App Was Built by AI](https://www.youtube.com/watch?v=l-lfdm7bq6Q)**
+
+Apps built with Claude Code give themselves away, generic font, the AI glow around text, a basic dark theme. Three free tools fix ...
+
+📺 Sebastian Hardy | AI Marketing
+
+👁️ 5K • 👍 435 • 💬 80 • ⏱️ 0:43 • 16h ago
+
+---
+
+**[OpenAI&#39;s New GPT Cyber Beats Mythos 5](https://www.youtube.com/watch?v=RNCaZhLlspk)**
+
+OpenAI's new GPT Cyber just beat Mythos 5, and this is bigger than one benchmark. With Daybreak, Codex Security, Patch the ...
+
+📺 AI Revolution
+
+👁️ 25K • 👍 826 • 💬 97 • ⏱️ 15:47 • 12h ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 40,127 • ❤️ 2,257 • 1d ago
+⬇️ 40,127 • ❤️ 2,272 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 456,117 • ❤️ 2,260 • 5d ago
+⬇️ 456,117 • ❤️ 2,267 • 5d ago
 
 ---
 
@@ -411,19 +413,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 8,396 • ❤️ 580 • 1d ago
-
----
-
-**[VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B)**
-
-*WeiboAI*
-
-VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable reasoning tasks like mathematics and coding, achieving competitive performance on benchmarks such as IMO-AnswerBench and LeetCode contests. It excels at multi-step reasoning, constraint satisfaction, and answer verification, but is not recommended for tool-calling or agent-based programming.
-
-`text-generation` `3.1B`
-
-⬇️ 41,170 • ❤️ 674 • 4d ago
+⬇️ 8,396 • ❤️ 615 • 1d ago
 
 ---
 
@@ -435,7 +425,19 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 96,459 • ❤️ 470 • 4d ago
+⬇️ 96,459 • ❤️ 481 • 5d ago
+
+---
+
+**[VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B)**
+
+*WeiboAI*
+
+VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable reasoning tasks like mathematics and coding, achieving competitive performance on benchmarks such as IMO-AnswerBench and LeetCode contests. It excels at multi-step reasoning, constraint satisfaction, and answer verification, but is not recommended for tool-calling or agent-based programming.
+
+`text-generation` `3.1B`
+
+⬇️ 41,170 • ❤️ 680 • 4d ago
 
 ---
 
@@ -447,7 +449,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 55,820 • ❤️ 316 • 18h ago
+⬇️ 55,820 • ❤️ 322 • 21h ago
 
 ---
 
@@ -459,7 +461,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 1,856 • ❤️ 242 • 4d ago
+⬇️ 1,856 • ❤️ 249 • 4d ago
 
 ---
 
@@ -471,7 +473,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 27,218 • ❤️ 208 • 1d ago
+⬇️ 27,218 • ❤️ 216 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 3,955,016 • ❤️ 2,176 • 2mo ago
+⬇️ 3,955,016 • ❤️ 2,183 • 2mo ago
 
 ---
 
@@ -495,7 +497,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 274,025 • ❤️ 2,329 • 11d ago
+⬇️ 274,025 • ❤️ 2,332 • 12d ago
 
 ---
 
@@ -511,7 +513,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 17 • 💬 0 • ⭐ 3,985 • 2d ago
+▲ 20 • 💬 0 • ⭐ 3,985 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -523,7 +525,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 36 • 💬 1 • ⭐ 25,312 • 32mo ago
+▲ 36 • 💬 1 • ⭐ 25,380 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -547,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 185 • 💬 6 • ⭐ 5,295 • 4mo ago
+▲ 186 • 💬 6 • ⭐ 5,352 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -611,7 +613,7 @@ Lift4D presents a test-time optimization framework that combines temporal consis
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 44 • 💬 4 • ⭐ 31,102 • 10mo ago
+▲ 44 • 💬 4 • ⭐ 31,161 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -640,7 +642,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.1k • 🔱 10.0k • 2h ago
+⭐ 77.1k • 🔱 10.0k • 4h ago
 
 ---
 
@@ -650,7 +652,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 53.5k • 🔱 2.7k • 6h ago
+⭐ 53.8k • 🔱 2.7k • 9h ago
 
 ---
 
@@ -660,7 +662,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.6k • 🔱 991 • 22m ago
+⭐ 10.6k • 🔱 993 • 1h ago
 
 ---
 
@@ -670,7 +672,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 4.9k • 🔱 379 • 30m ago
+⭐ 5.0k • 🔱 385 • 3h ago
 
 ---
 
@@ -680,7 +682,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.6k • 🔱 547 • 4m ago
+⭐ 4.7k • 🔱 548 • 1m ago
 
 ---
 
@@ -724,13 +726,13 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 ---
 
-**[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)**
+**[Forward-Future/loop-library](https://github.com/Forward-Future/loop-library)**
 
-国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
+A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
 
-`Shell` `apple-intelligence`
+`JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.5k • 🔱 84 • 11d ago
+⭐ 1.5k • 🔱 124 • 17h ago
 
 ---
 
