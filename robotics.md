@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-24T01:25:57.049454+00:00'
+updated: '2026-06-24T05:39:04.674432+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 24, 2026 at 01:25 UTC  
+**Last Updated:** June 24, 2026 at 05:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I'm reading the papers of Cosmos3 and Dreamzero and they looks very promising (compared to memoryless VLAs). And I am wondering where the filed will evolve. Based on your practical experience with new models, what's your bet between VLAs, WM, Jepa-style, WAM, RL approaches, and all of that? I worked so far with VLAs (eg pi05), and I don't have any experience in using the nvidia stack so far, of and other world action models. I am thinking if I should invest time in changing the base policy, and I'd appreciate some feedback form who has tested them (ie: the open source/weights model available, and capable of inference without one thousand gb of vram) On my side I'm a fan of model working planning latent space; video action models (which have more temporal coherence wrt vla), but I also feel that semantic power of a VLM should be present aswell. Ps: suggested survey reading in this topic: "World Model for Robot Learning: A Comprehensive Survey" Happy to discuss with you
 
-11h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed and built this 16-DOF humanoid robot using low-cost servos and fully 
 
 Hey i was working on a 6dof robot arm and completely new to this And just found out about inverse kinematics I'm having trouble trying to find the right material to learn it where can I find good material
 
-11h ago
+16h ago
 
 ---
 
@@ -68,7 +68,7 @@ Weekend project, one weekend in — lots still half-built: a 6-DoF SO-101 arm (F
 
 not sure if this is the right flair 😕 I had put this post up on r/gradadmissions but i feel like I'd get a better demographic that knows the field better here
 
-9h ago
+13h ago
 
 ---
 
@@ -84,13 +84,13 @@ Trained in mjlab with a relatively simple reward function mainly rewarding torso
 
 Follow-up to my v2 trajectory post. The RViz trajectory had visible zig-zag jitter even when the robot was stationary. Before deciding what filter to apply, I wanted to actually measure the noise and understand what's driving it. The problem The v2 system uses a physically fixed AprilTag (tag1) as a world frame anchor. The Pi detects it each frame, inverts the camera→tag transform to get world→camera, and publishes that as a TF. The zig-zags in the trajectory come from frame-to-frame instability in that pose estimate. The root cause is AprilTag PnP pose ambiguity — the solver has two valid geometric solutions for a planar tag and flips between them. The flip shows up as a large swing on one axis, typically ±15cm, even with the camera stationary. On top of that, small angular errors get amplified into position noise through the matrix inversion: at ~74cm tag distance, a 5° rotation error becomes ~6.5cm of position noise in world frame. The question I wanted to answer before touching the filter: how much does tag size actually move the needle? Method Added a single_tag_world_mode flag to config so ManualTracker can run with just the world anchor tag in frame — no chase target needed. Camera held stationary, pointed directly at the tag, for ~2–3 minutes per condition. Raw camera-frame poses recorded automatically to JSON. Four conditions: 5cm and 20cm printed tags, each with room lights on and off. All four plots below share identical axis scales so the distributions are directly comparable. Results Condition σ X σ Y σ Z (depth) 5cm — lights off 3.4 cm 0.5 cm 4.5 cm 5cm — lights on 5.1 cm 1.7 cm 3.7 cm 20cm — lights on 2.7 cm 0.4 cm 1.4 cm 20cm — lights off 2.1 cm 1.0 cm 1.7 cm (Images: 5cm lights off → 5cm lights on → 20cm lights on → 20cm lights off) What the plots show Tag size dominates. Going from 5cm to 20cm cuts depth noise by roughly 3x. The distributions tighten and become more unimodal — the PnP flip signature (broad or bimodal histogram on X and Z) is clearly visible in the 5cm sessions and largely absent in the 20cm sessions. Lighting is secondary. For the 5cm tag, lights-on is actually worse on X (σ 5.1 vs 3.4cm), likely because uncontrolled ambient light causes glare that degrades corner localization on a small tag. For the 20cm tag the lighting effect is small enough that it's not the thing to optimize. Best condition across all three axes simultaneously: 20cm + lights on (σX=2.7cm, σY=0.4cm, σZ=1.4cm). What's next This experiment was groundwork, not a fix. The noise is reduced but still present — 2cm+ std dev on X and Z with a stationary camera is not acceptable for a usable world frame. The next step is a filter, but the right choice (EWMA, velocity gate, Kalman, or some combination) depends on understanding the noise characteristics, which is what this data was for. Still deciding. Open to suggestions from anyone who's dealt with PnP jitter on planar markers before. References Post history v2 trajectory post v1 tag chaser PiCar-X introduction Hardware / code PiCar-X on Amazon Git repo
 
-9h ago
+14h ago
 
 ---
 
 **[create robot descriptor/URDF from STEP file](https://www.reddit.com/r/robotics/comments/1udj61t/create_robot_descriptorurdf_from_step_file/)**
 
-10h ago
+14h ago
 
 ---
 
@@ -116,21 +116,7 @@ Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kin
 
 **[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
 
-Politico • 6h ago
-
----
-
-**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
-
-Axios • 11h ago
-
----
-
-**[How Nvidia aims to make humanoid robots safe for the workplace](https://www.businessreport.com/article/how-nvidia-aims-to-make-humanoid-robots-safe-for-the-workplace)**
-
-Nvidia is working on new safety and reliability systems aimed at making humanoid robots capable of safely operating in close proximity to people in real-world environments like warehouses, factories and eventually homes, Bloomberg reports. The central challenge the company is addressing is that humanoid robots will need to act autonomously in dynamic, unpredictable settings where […]
-
-Baton Rouge Business Report • 1d ago
+Politico • 10h ago
 
 ---
 
@@ -142,11 +128,47 @@ NVIDIA Developer • 1d ago
 
 ---
 
+**[NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI](https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai)**
+
+NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
+
+NVIDIA Newsroom • 1d ago
+
+---
+
+**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
+
+Axios • 15h ago
+
+---
+
+**[Oregon robotics company Agility will go public in deal valuing it at $2.5 billion](https://www.oregonlive.com/silicon-forest/2026/06/oregon-robotics-company-agility-will-go-public-in-deal-valuing-it-at-25-billion.html)**
+
+OregonLive.com • 27m ago
+
+---
+
+**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
+
+When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
+
+The Guardian • 39m ago
+
+---
+
 **[New chip could help tiny robots traverse complex environments](https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623)**
 
 Gleanmer is a new system that can construct detailed 3D maps of a robot’s environment at high speed while operating at extremely low power. The advance could enable tiny devices to avoid obstacles and safely navigate in the real world.
 
-MIT News • 21h ago
+MIT News • 1d ago
+
+---
+
+**[Largest robotics, artificial intelligence show in North America, Automate, at McCormick Place in Chicago this week](https://abc7chicago.com/post/largest-robotics-artificial-intelligence-show-north-america-automate-mccormick-place-chicago-week/19357412/)**
+
+The largest robotics and artificial intelligence show in North America is currently in Chicago.
+
+ABC7 Chicago • 1d ago
 
 ---
 
@@ -154,23 +176,7 @@ MIT News • 21h ago
 
 Spacewalk preparations filled the schedule aboard the International Space Station on Tuesday as a pair of astronauts gear up for next week’s external robotics repair job. CubeSat maintenance and eye checks rounded out the day for the Expedition 74 crew.
 
-NASA (.gov) • 5h ago
-
----
-
-**[Karl Storz laying off employees in North Carolina amid robotics strategy shift](https://www.medtechdive.com/news/karl-storz-laying-off-employees-in-north-carolina-amid-robotics-strategy-sh/823428/)**
-
-The cuts come as Karl Storz plans to retire the Asensus brand and the Senhance robot as part of organizational changes.
-
-MedTech Dive • 1d ago
-
----
-
-**[Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240?syn-25a6b1a6=1)**
-
-China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
-
-Financial Times • 1d ago
+NASA (.gov) • 9h ago
 
 ---
 
@@ -182,43 +188,47 @@ Ars Technica • 1d ago
 
 ---
 
-**[Tesla's Missing 10,000: Is Optimus Falling Behind The Robotics Pack?](https://finance.yahoo.com/technology/ai/articles/teslas-missing-10-000-optimus-130817893.html)**
-
-Tesla (TSLA) is valued at more than $1.2 trillion. The automotive business holding that number up is shrinking. Full-year 2025 revenue came in at $94.8 billion, down 3 percent, the company's first annual revenue decline ever. Auto revenue fell 10 percent to $69.5 billion, margins are tighter, and BYD and other Chinese automakers keep gaining global share.
-
-Yahoo Finance • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[#robot #borunte #spraying #welding #industrial](https://www.youtube.com/watch?v=mLdCtaG70W4)**
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
 
-📺 BORUNTE-Robot-Messi
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
 
-👁️ 31K • 👍 60 • ⏱️ 0:12 • 2d ago
+📺 NewsNation
+
+👁️ 6K • 👍 106 • 💬 123 • ⏱️ 2:04 • 12h ago
 
 ---
 
-**[Best Robot Vacuum Deals Right Now | Amazon Prime 2026](https://www.youtube.com/watch?v=F9m4Shls9-A)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 50K • 👍 1K • 💬 183 • ⏱️ 13:45 • 2d ago
+
+---
+
+**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
+
+📺 PRO ROBOTS
+
+👁️ 50K • 👍 897 • 💬 73 • ⏱️ 24:13 • 4d ago
+
+---
+
+**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
 
 2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
 
 📺 Just A Dad Approved
 
-👁️ 4K • 👍 128 • 💬 91 • ⏱️ 18:57 • 10h ago
-
----
-
-**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
-
-Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
-
-📺 Wealthy Capital
-
-👁️ 2K • 👍 19 • 💬 2 • ⏱️ 0:09 • 2h ago
+👁️ 6K • 👍 152 • 💬 96 • ⏱️ 18:57 • 15h ago
 
 ---
 
@@ -232,13 +242,33 @@ At China's Dragon Boat Festival, everybody takes place – including the robots.
 
 ---
 
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
 
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
 
-📺 AI Revolution
+📺 Jason Lowe on AI
 
-👁️ 47K • 👍 1K • 💬 176 • ⏱️ 13:45 • 2d ago
+👁️ 369K • 👍 16K • 💬 3K • ⏱️ 2:51 • 6d ago
+
+---
+
+**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
+
+Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
+
+📺 Wealthy Capital
+
+👁️ 8K • 👍 98 • 💬 5 • ⏱️ 0:09 • 6h ago
+
+---
+
+**[Cheapest Amazon Prime Day Deals - Robot Vacuums, Cordless, Uprights](https://www.youtube.com/watch?v=t0WSPKycSao)**
+
+Amazon Our recommended vacuums on sale during Amazon Summer Prime Days. See our vacuum lists on our Amazon ...
+
+📺 Vacuum Nerds
+
+👁️ 4K • 👍 71 • 💬 13 • ⏱️ 22:59 • 22h ago
 
 ---
 
@@ -246,47 +276,17 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 Army Clips
 
-👁️ 497K • 👍 15K • 💬 292 • ⏱️ 0:58 • 3d ago
+👁️ 552K • 👍 16K • 💬 307 • ⏱️ 0:58 • 3d ago
 
 ---
 
-**[DEEP Robotics LYNX M20S Takes on the World&#39;s Toughest Terrain](https://www.youtube.com/watch?v=uktlKSvNvA0)**
+**[THE FIERY CORE — War Robots 12.2 Overview](https://www.youtube.com/watch?v=KdinUv5Fbw8)**
 
-The DEEP Robotics LYNX M20S is pushing the limits of robotic mobility with tests across 5177-meter snow covered peaks, ...
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
 
-📺 DPCcars
+📺 War Robots [WR]
 
-👁️ 904 • 👍 16 • 💬 1 • ⏱️ 1:53 • 5h ago
-
----
-
-**[This Jiu-Jitsu Robot Is Insane😳(@rollbotbjj)](https://www.youtube.com/watch?v=iN4xoCnzXkU)**
-
-This is a highly advanced jiu-jitsu robot that simulates real human reactions, even showing pain and breaking movements during ...
-
-📺 Sigma Gainz X
-
-👁️ 1.2M • 👍 16K • 💬 173 • ⏱️ 0:22 • 2d ago
-
----
-
-**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
-
-📺 PRO ROBOTS
-
-👁️ 49K • 👍 882 • 💬 72 • ⏱️ 24:13 • 4d ago
-
----
-
-**[IShowSpeed Just Bought a Robot Dog and Instantly Regretted It😂](https://www.youtube.com/watch?v=ctOiovSJSfM)**
-
-IShowSpeed Just Bought a Robot Dog and Instantly Regretted It Credits: IShowSpeed No one was harm in the making of the ...
-
-📺 Revz Edits
-
-👁️ 35K • 👍 220 • 💬 1 • ⏱️ 0:24 • 1d ago
+👁️ 24K • 👍 1K • 💬 225 • ⏱️ 4:29 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T01:25:57.046225+00:00'
+updated: '2026-06-24T05:39:04.671574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 01:25 UTC  
+**Last Updated:** June 24, 2026 at 05:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -2.3%  
-**30d:** -19.4%  
-**90d:** -16.1%  
-**1y:** -30.9%  
+**24h:** -0.8%  
+**7d:** -1.9%  
+**30d:** -19.1%  
+**90d:** -15.8%  
+**1y:** -30.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $215.20B
+**Market Cap:** $209.74B
 Rank #2
 
 **Circulating Supply:** 120,684,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-64.9%
 
 **All-Time Low:** $0.43
-+411779.1%
++401164.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 7h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 11h ago
 
 ---
 
@@ -80,7 +80,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Don't get me wrong. I understand why people enjoy trading, but I've always found the practical side of crypto more interesting. Being able to actually use it for something feels more satisfying than watching numbers move up and down all day. Not every company accepts crypto, but if you can use crypto to buy something you were already planning to buy anyway, that's still pretty interesting. As I see, utility has become way more interesting to me than speculation lately.
 
-4h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Don't get me wrong. I understand why people enjoy trading, but I've always found
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +128,7 @@ I’ve just returned from Dappcon 2026 in Berlin, where the "Ethereum Economic Z
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-ethereum.org • 12h ago
+ethereum.org • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ ethereum.org • 12h ago
 
 The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
 
-CoinDesk • 10h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -174,7 +174,7 @@ Scott Melker discusses how BitMine Immersion Technologies (BMNR) — which contr
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -206,15 +206,7 @@ The Block • 1d ago
 
 Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
 
-The Block • 1d ago
-
----
-
-**[Ethereum Foundation Executive Says MEV Is Becoming Crypto’s Next Cypherpunk Fight](https://www.tradingview.com/news/newsbtc:6a4fa3368094b:0-ethereum-foundation-executive-says-mev-is-becoming-crypto-s-next-cypherpunk-fight/)**
-
-TL;DRView original post on XThis article is based on public commentary by Bastian Aue, available at XEthereum’s internal debate over maximal extractable value has moved back into the spotlight after Ethereum Foundation executive Bastian Aue framed toxic MEV as a core protocol challenge rather than…
-
-TradingView • 9h ago
+The Block • 2d ago
 
 ---
 
@@ -222,7 +214,7 @@ TradingView • 9h ago
 
 PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the tru...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -230,7 +222,15 @@ markets.businessinsider.com • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 16h ago
+
+---
+
+**[Ethereum Foundation Executive Says MEV Is Becoming Crypto’s Next Cypherpunk Fight](https://www.tradingview.com/news/newsbtc:6a4fa3368094b:0-ethereum-foundation-executive-says-mev-is-becoming-crypto-s-next-cypherpunk-fight/)**
+
+TL;DRView original post on XThis article is based on public commentary by Bastian Aue, available at XEthereum’s internal debate over maximal extractable value has moved back into the spotlight after Ethereum Foundation executive Bastian Aue framed toxic MEV as a core protocol challenge rather than…
+
+TradingView • 14h ago
 
 ---
 
@@ -244,25 +244,7 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 329 • 💬 146 • ⏱️ 14:53 • 9h ago
-
----
-
-**[0.01 Ethereum is $16.58 (Good Deal?)](https://www.youtube.com/watch?v=19eYSfiEcYY)**
-
-Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing ...
-
-📺 Brian Harrington
-
-👁️ 2K • 👍 81 • 💬 31 • ⏱️ 9:26 • 9h ago
-
----
-
-**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
-
-📺 CryptoWendyO
-
-👁️ 589 • 👍 66 • 💬 3 • ⏱️ 2:17 • 25m ago
+👁️ 10K • 👍 382 • 💬 182 • ⏱️ 14:53 • 13h ago
 
 ---
 
@@ -272,17 +254,27 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 62 • 💬 26 • ⏱️ 16:03 • 8h ago
+👁️ 2K • 👍 83 • 💬 14 • ⏱️ 16:03 • 12h ago
 
 ---
 
-**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
+**[0.01 Ethereum is $16.58 (Good Deal?)](https://www.youtube.com/watch?v=19eYSfiEcYY)**
 
-Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing ...
 
-📺 Lark Davis
+📺 Brian Harrington
 
-👁️ 18K • 👍 735 • 💬 142 • ⏱️ 20:58 • 13h ago
+👁️ 2K • 👍 89 • 💬 34 • ⏱️ 9:26 • 13h ago
+
+---
+
+**[🚨 Tom Lee bought MORE ETHEREUM!](https://www.youtube.com/watch?v=u8fRO-YBnC0)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 477 • 👍 90 • 💬 7 • ⏱️ 11:20 • 3h ago
 
 ---
 
@@ -292,25 +284,45 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 77 • 💬 7 • ⏱️ 14:55 • 1d ago
+👁️ 3K • 👍 79 • 💬 7 • ⏱️ 14:55 • 1d ago
 
 ---
 
-**[🚨ЭФИРИУМ УМИРАЕТ..? | МАСК: «ПЕЧАТНЫЙ СТАНОК ЗАПУСТЯТ, КОГДА…»](https://www.youtube.com/watch?v=lZKoQ53k7xY)**
+**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
 
-Telegram (аналитика, точки входа, главные мысли): https://t.me/+10iGTM2wT3hkOGVi Бесплатный ТГ ...
+📺 CryptoWendyO
 
-📺 КРИПТО ИЛЬЯ | ОБЗОРЫ 🍋
-
-👁️ 17K • 👍 2K • 💬 246 • ⏱️ 23:25 • 13h ago
+👁️ 3K • 👍 353 • 💬 5 • ⏱️ 2:17 • 4h ago
 
 ---
 
-**[Ethereum LAYOFFS! (This is BAD)](https://www.youtube.com/watch?v=BGbeWDqesxY)**
+**[BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=1f-UghrL7Ho)**
 
-📺 Discover Crypto
+BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-👁️ 651 • 👍 15 • 💬 173 • ⏱️ 0:37 • 1h ago
+📺 Crypto World
+
+👁️ 6K • 👍 321 • 💬 385 • ⏱️ 21:18 • 10h ago
+
+---
+
+**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
+
+Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 18K • 👍 761 • 💬 121 • ⏱️ 20:58 • 17h ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 1K • 👍 92 • 💬 21 • ⏱️ 14:40 • 1d ago
 
 ---
 
@@ -320,17 +332,7 @@ Telegram (аналитика, точки входа, главные мысли):
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 162 • ⏱️ 13:42 • 2d ago
-
----
-
-**[LAST CHANCE FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=UCXg7MVoAyU)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 352 • 👍 17 • 💬 135 • ⏱️ 4:51 • 16h ago
+👁️ 38K • 👍 2K • 💬 161 • ⏱️ 13:42 • 2d ago
 
 ---
 
