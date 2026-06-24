@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T19:13:32.580627+00:00'
+updated: '2026-06-24T21:10:33.679680+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 19:13 UTC  
+**Last Updated:** June 24, 2026 at 21:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,575.35
+### $1,613.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.6%  
-**7d:** -8.3%  
-**30d:** -24.3%  
-**90d:** -21.3%  
-**1y:** -35.2%  
+**24h:** -3.2%  
+**7d:** -5.9%  
+**30d:** -22.3%  
+**90d:** -19.2%  
+**1y:** -33.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.49B
+**Market Cap:** $193.88B
 Rank #2
 
 **Circulating Supply:** 120,683,784 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.2%
+-67.5%
 
 **All-Time Low:** $0.43
-+362647.4%
++370945.7%
 
 ---
 
@@ -80,7 +80,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Don't get me wrong. I understand why people enjoy trading, but I've always found the practical side of crypto more interesting. Being able to actually use it for something feels more satisfying than watching numbers move up and down all day. Not every company accepts crypto, but if you can use crypto to buy something you were already planning to buy anyway, that's still pretty interesting. As I see, utility has become way more interesting to me than speculation lately.
 
-21h ago
+23h ago
 
 ---
 
@@ -120,7 +120,7 @@ A post on the Ethereum Research forum proposes letting validators vote to redire
 
 I’ve just returned from Dappcon 2026 in Berlin, where the "Ethereum Economic Zone" (EEZ) was a major topic of discussion—including talks by Vitalik. As I understand it, this concept involves a tighter integration of sidechains (such as Gnosis) with the Ethereum mainnet. The idea is for the mainnet to serve as a neutral security layer in the future, while actual activity takes place on EEZ chains that have their transaction data validated even more directly on the mainnet. What do you think of this idea, and can you envision this vision of the relationship between the mainnet and L2s/sidechains representing the future? (Feel free to correct me if I’ve misunderstood anything about the EEZ.)
 
-2d ago
+3d ago
 
 ---
 
@@ -158,19 +158,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Ethereum Slumps As ETF Outflows Continue](https://finance.yahoo.com/markets/crypto/articles/ethereum-slumps-etf-outflows-continue-161600360.html)**
+**['Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive](https://finance.yahoo.com/markets/crypto/articles/painful-bitcoin-sell-off-drags-205014642.html)**
 
-Ethereum’s (CRYPTO: $ETH) price remains weak as outflows from exchange-traded funds (ETFs) continue.
+Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
 
-Yahoo Finance • 2h ago
-
----
-
-**[UBS and Nethermind Bridge Compliance Gap with Successful Ethereum Proofs of Concept](https://ffnews.com/news/ubs-and-nethermind-bridge-compliance-gap-with-successful-ethereum-proofs-of-concept)**
-
-FF News — the fintech news network covering payments, retail, insurtech and capital markets news from FF News.
-
-FF News • 3h ago
+Yahoo Finance • 20m ago
 
 ---
 
@@ -178,7 +170,7 @@ FF News • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 8h ago
 
 ---
 
@@ -186,13 +178,13 @@ Fortune • 6h ago
 
 Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.
 
-TradingView • 19h ago
+TradingView • 21h ago
 
 ---
 
 **[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
 
-ETF.com • 8h ago
+ETF.com • 10h ago
 
 ---
 
@@ -200,7 +192,13 @@ ETF.com • 8h ago
 
 Some of Ethereum's largest holders are coming together to fund Ethlabs, a new R&D lab aimed at boosting the network and ETH.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
+
+---
+
+**[Bitmine Immersion 9.5% Preferred: The ETH Treasury Preferred With No Safety Net](https://seekingalpha.com/article/4917455-bitmine-immersion-9-5-percent-preferred-the-eth-treasury-preferred-with-no-safety-net)**
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -208,15 +206,7 @@ Decrypt • 1d ago
 
 Aave v4 deposits on Ethereum hit $200M, doubling in a month since launch. Active loans reach $60M, but utilization rates lag behind v3 levels.
 
-Crypto Briefing • 2h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide As 'Smart Money' Sentiment Weakens: Analyst Says BTC Could Rise In](https://www.benzinga.com/crypto/cryptocurrency/26/06/60033652/bitcoin-ethereum-xrp-dogecoin-slide-as-smart-money-sentiment-weakens-analyst-sees-july-upside-for-btc)**
-
-Leading cryptocurrencies extended losses on a volatile Monday, June 2022, despite the U.S. and Iran signing key agreements as part of a peace deal.
-
-Benzinga • 1d ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -224,7 +214,15 @@ Benzinga • 1d ago
 
 The cryptocurrency market is currently witnessing a period of profound transition for its second-largest asset, Ethereum. As investors seek an accurate
 
-FinanceFeeds • 3h ago
+FinanceFeeds • 5h ago
+
+---
+
+**[Bitmine Approaches Giant Ethereum Supply Goal as Tom Lee Teases A New Crypto Spring](https://www.tipranks.com/news/bitmine-approaches-giant-ethereum-supply-goal-as-tom-lee-teases-a-new-crypto-spring)**
+
+Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
+
+TipRanks • 2d ago
 
 ---
 
@@ -232,23 +230,23 @@ FinanceFeeds • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
-
-In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 144 • 💬 7 • ⏱️ 9:05 • 4h ago
-
----
-
 **[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
 
 Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 748 • 💬 214 • ⏱️ 12:14 • 7h ago
+👁️ 16K • 👍 877 • 💬 224 • ⏱️ 12:14 • 9h ago
+
+---
+
+**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
+
+In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 197 • 💬 8 • ⏱️ 9:05 • 6h ago
 
 ---
 
@@ -258,7 +256,37 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 443 • 💬 245 • ⏱️ 14:53 • 1d ago
+👁️ 14K • 👍 461 • 💬 228 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[URGENT: Ethereum To Crash -10% From Here?](https://www.youtube.com/watch?v=nRje-vkezes)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 160 • 👍 12 • 💬 1 • ⏱️ 6:27 • 3h ago
+
+---
+
+**[BITCOIN: A Liquidation Cascade Is Loading! (watch) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=lsIgMBTNwHM)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 6K • 👍 372 • 💬 70 • ⏱️ 13:33 • 11h ago
+
+---
+
+**[Crypto Crash: Is This Just the Beginning?](https://www.youtube.com/watch?v=xXGsi_SOGjc)**
+
+Crypto is under pressure. Join me live as we break down the latest moves in Bitcoin, Ethereum, Solana, and the wider crypto ...
+
+📺 Traders Reality
+
+👁️ 973 • 👍 121 • 41m ago
 
 ---
 
@@ -268,55 +296,7 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 110 • 💬 17 • ⏱️ 16:03 • 1d ago
-
----
-
-**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
-
-Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
-
-📺 Cointelegraph
-
-👁️ 3K • 👍 81 • 💬 8 • ⏱️ 14:55 • 2d ago
-
----
-
-**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
-
-Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 20K • 👍 803 • 💬 127 • ⏱️ 20:58 • 1d ago
-
----
-
-**[BITCOIN WARNING: This Will Get UGLY (Crash Coming)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=1f-UghrL7Ho)**
-
-BITCOIN WARNING: This Will Get UGLY (Crash Coming)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 372 • 💬 462 • ⏱️ 21:18 • 23h ago
-
----
-
-**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 631 • 💬 29 • ⏱️ 2:17 • 18h ago
-
----
-
-**[3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions](https://www.youtube.com/watch?v=2Tl4bniOcLI)**
-
-3 Crypto Experts Just Made MASSIVE Ethereum Price Predictions ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 167 • ⏱️ 13:42 • 2d ago
+👁️ 3K • 👍 116 • 💬 23 • ⏱️ 16:03 • 1d ago
 
 ---
 
@@ -326,7 +306,27 @@ Open an account at iTrust Capital and legally avoid taxes on your bitcoin and cr
 
 📺 Brian Harrington
 
-👁️ 3K • 👍 101 • 💬 37 • ⏱️ 9:26 • 1d ago
+👁️ 3K • 👍 102 • 💬 38 • ⏱️ 9:26 • 1d ago
+
+---
+
+**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
+
+Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
+
+📺 Cointelegraph
+
+👁️ 3K • 👍 82 • 💬 8 • ⏱️ 14:55 • 2d ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 2K • 👍 103 • 💬 36 • ⏱️ 14:40 • 2d ago
 
 ---
 

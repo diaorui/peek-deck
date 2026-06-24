@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-24T19:13:32.583492+00:00'
+updated: '2026-06-24T21:10:33.682893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 24, 2026 at 19:13 UTC  
+**Last Updated:** June 24, 2026 at 21:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ In this python simulation: a robot spins a sensor and receives the distance. I m
 
 Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kinda think it could only problem would be power/batteries. If it would work what could it be used for? I mainly think security, patrolling important assets etc.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kin
 
 **[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
 
-WSJ • 8h ago
+WSJ • 10h ago
 
 ---
 
@@ -126,19 +126,11 @@ Politico • 1d ago
 
 ---
 
-**[Robots used by Amazon keep packages moving quickly](https://www.yahoo.com/news/videos/robots-used-amazon-keep-packages-180748742.html)**
+**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
 
-Look inside Amazon's robotics lab in Massachusetts, where a fleet of robots keeps packages moving swiftly. (AP video: Sydney Roth)
+When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
 
-Yahoo • 1h ago
-
----
-
-**[Suppliers eye $5 trillion humanoid robot market despite value-capture concerns](https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/)**
-
-Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
-
-Automotive News • 10h ago
+The Guardian • 16h ago
 
 ---
 
@@ -146,15 +138,23 @@ Automotive News • 10h ago
 
 Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
 
-CBS News • 3h ago
+CBS News • 5h ago
 
 ---
 
-**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
+**[Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates](https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html)**
 
-When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
+Morgan Stanley has sharply raised its outlook for China's humanoid robotics market, as early commercial deployment in real-world scenarios accelerated.
 
-The Guardian • 14h ago
+CNBC • 14h ago
+
+---
+
+**[Suppliers eye $5 trillion humanoid robot market despite value-capture concerns](https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/)**
+
+Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
+
+Automotive News • 12h ago
 
 ---
 
@@ -162,7 +162,15 @@ The Guardian • 14h ago
 
 Spacewalk preparations filled the schedule aboard the International Space Station on Tuesday as a pair of astronauts gear up for next week’s external robotics repair job. CubeSat maintenance and eye checks rounded out the day for the Expedition 74 crew.
 
-NASA (.gov) • 23h ago
+NASA (.gov) • 1d ago
+
+---
+
+**[Karl Storz laying off employees in North Carolina amid robotics strategy shift](https://www.medtechdive.com/news/karl-storz-laying-off-employees-in-north-carolina-amid-robotics-strategy-sh/823428/)**
+
+The cuts come as Karl Storz plans to retire the Asensus brand and the Senhance robot as part of organizational changes.
+
+MedTech Dive • 2d ago
 
 ---
 
@@ -180,14 +188,6 @@ Axios • 1d ago
 
 ---
 
-**[Humanoid robots just got a workplace safety system](https://www.foxnews.com/science/humanoid-robots-just-got-workplace-safety-system)**
-
-NVIDIA introduces Halos for Robotics, which it calls the industry's first full-stack safety system for physical AI and robots working near people.
-
-Fox News • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,27 +198,7 @@ General Motors has cut 1000 jobs at its Detroit facility, and it later installed
 
 📺 NewsNation
 
-👁️ 17K • 👍 248 • 💬 272 • ⏱️ 2:04 • 1d ago
-
----
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 54K • 👍 1K • 💬 201 • ⏱️ 13:45 • 2d ago
-
----
-
-**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
-
-Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
-
-📺 Wealthy Capital
-
-👁️ 40K • 👍 267 • 💬 18 • ⏱️ 0:09 • 20h ago
+👁️ 19K • 👍 273 • 💬 311 • ⏱️ 2:04 • 1d ago
 
 ---
 
@@ -228,7 +208,27 @@ Welcome to the future of logistics. This fully automated warehouse in China oper
 
 📺 Just A Dad Approved
 
-👁️ 8K • 👍 173 • 💬 120 • ⏱️ 18:57 • 1d ago
+👁️ 9K • 👍 190 • 💬 125 • ⏱️ 18:57 • 1d ago
+
+---
+
+**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
+
+Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
+
+📺 Wealthy Capital
+
+👁️ 66K • 👍 361 • 💬 29 • ⏱️ 0:09 • 22h ago
+
+---
+
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 55K • 👍 1K • 💬 205 • ⏱️ 13:45 • 2d ago
 
 ---
 
@@ -238,27 +238,27 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 52K • 👍 940 • 💬 75 • ⏱️ 24:13 • 5d ago
+👁️ 52K • 👍 943 • 💬 75 • ⏱️ 24:13 • 5d ago
 
 ---
 
-**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
+**[I LET A ROBOT CLEAN MY WINDOWS…HERE IS WHAT HAPPENED | WINBOT W3 OMNI](https://www.youtube.com/watch?v=ijGIrawGhtk)**
 
-At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
+Nesting has me noticing every fingerprint and water stain in this house, so I finally decided to do something about it. In between ...
 
-📺 CGTN Europe
+📺 Preetyomahs World
 
-👁️ 19K • 👍 92 • 💬 13 • ⏱️ 0:49 • 4d ago
+👁️ 33K • 👍 1K • 💬 139 • ⏱️ 7:10 • 1d ago
 
 ---
 
-**[Humanoid Robot Factories Now Build One Per Hour — Here Are The Production Numbers](https://www.youtube.com/watch?v=Nkiyuo-z3Vc)**
+**[She Let a Hair Robot Make Her Bun… 😳🤖](https://www.youtube.com/watch?v=eY9meGAoO1s)**
 
-Sources Figure AI Official Blog | Ramping Figure 03 Production | https://www.figure.ai/news/ramping-figure-03-production ...
+This salon machine pulled her hair into a perfect bun in seconds Would you trust it with your hair? #Shorts #BeautyTech ...
 
-📺 Jason Lowe on AI
+📺 Prototype Leaked
 
-👁️ 380K • 👍 17K • 💬 3K • ⏱️ 2:51 • 6d ago
+👁️ 32K • 👍 163 • 💬 4 • ⏱️ 0:11 • 22h ago
 
 ---
 
@@ -268,27 +268,27 @@ Follow us on Instagram here: https://www.instagram.com/aevytvdaily/ https://www.
 
 📺 Aevy TV
 
-👁️ 97K • 👍 5K • 💬 101 • ⏱️ 1:30 • 1d ago
+👁️ 100K • 👍 5K • 💬 101 • ⏱️ 1:30 • 1d ago
 
 ---
 
-**[SCORPION Play LEVEL 999 – War Robots GOAT Gameplay](https://www.youtube.com/watch?v=80VRSmlY4Zs)**
+**[Unitree R1  Affordable Humanoid Robot Does Backflips!](https://www.youtube.com/watch?v=O4aKWgQY1j8)**
 
-War Robots Gameplay: SCORPION Level GOAT - playing with skill My War Robots Creator Link: https://wr.my.games/manni ...
+The Unitree R1 humanoid robot is making headlines with a starting price of just $4900. Watch this robot show off impressive ...
 
-📺 Manni-Gaming
+📺 DPCcars
 
-👁️ 9K • 👍 512 • 💬 75 • ⏱️ 10:03 • 2d ago
+👁️ 418 • 👍 30 • 💬 1 • ⏱️ 1:43 • 6h ago
 
 ---
 
-**[Tesla&#39;s Optimus Factory Just Hit 4 Floors — 27,000 Robots/Day by 2027](https://www.youtube.com/watch?v=2WIWdEQpO5s)**
+**[I Gave My Robotic Arm an AI Brain (OpenClaw + RDK S100)](https://www.youtube.com/watch?v=BDjmQBQjuLo)**
 
-Tesla Optimus Factory just hit 4 floors—and Tesla's bold plan for 27000 robots a day is becoming real. See the $10B factory that ...
+In this project, I built an AI-powered robotic arm using the RDK S100 and OpenClaw AI. The robot can detect colored cubes, ...
 
-📺 Tech Revolution
+📺 Pro Know
 
-👁️ 76K • 👍 1K • 💬 169 • ⏱️ 21:01 • 4d ago
+👁️ 544 • 👍 54 • 💬 6 • ⏱️ 10:15 • 9h ago
 
 ---
 
