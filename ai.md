@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-24T15:18:50.714172+00:00'
+updated: '2026-06-24T17:27:42.766960+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 24, 2026 at 15:18 UTC  
+**Last Updated:** June 24, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Some of our customers noticed Inter-1 (our omni-modal social-signal model) would occasionally "hear" a quote that didn't exist. Feed it a video with zero audio and ask what was said, and it would sometimes report: "Yeah, Friday at five." Verbatim. Same line, every time. We assumed it had to be baked into the training data somewhere, so we went looking everywhere: 30,960 training records with datetime mentions → zero hits on the phrase 4,603 video transcripts → zero hits ~800 inference probes, 584 storage objects → zero hits Turns out the phrase was sitting in our own system prompt — a worked example we'd written to show the model the expected output format, buried in a version our GEPA prompt-optimizer had shipped. But that only explained where the words came from, not why the model would say them over total silence. So we ran two ablations in our internal eval harness: Swap the word, keep the model: changed the prompt's example to "Tuesday at noon." Fabrication rate went up (37%→50%), and the invented quote tracked the swap exactly — Friday→Tuesday. Swap the model, keep the prompt: ran the same byte-identical prompt through larger variants and an earlier checkpoint of our own model. They barely fabricated (0–2%). Only the further-post-trained Inter-1 confabulated at ~12%. So it's not one bug, it's two stacked priors: the prompt supplied the script, but post-training is what gave the model the compulsion to recite something rather than report silence. Deleting the prompt example stops that one sentence — it doesn't stop the model from inventing different dialogue instead. We think this is a textual/in-context variant of the audio-visual "Clever Hans effect" that's been documented for vision priors (model writes "thud" over a silent skateboard wipeout) — except ours shows the same reflex gets worded by whatever's nearest in the context window, which a vision-only diagnostic wouldn't catch. Full writeup with the fabrication-rate forest plot and log data: https://www.interhuman.ai/blog/goblin-yeah-friday-at-five
 
-3h ago
+5h ago
+
+---
+
+**[Is AI making expertise scalable?](https://www.reddit.com/r/artificial/comments/1ueh19x/is_ai_making_expertise_scalable/)**
+
+The more AI use cases I see, the more I think we've been asking the wrong question. Everyone asks what jobs can AI replace , a more interesting question might be what bottlenecks can AI remove? Every growing company eventually runs into the same problem. The best people become the limiting factor and the best manager can only coach so many people. The best salesperson can only take so many meetings. The best founder can only make so many decisions. What's interesting is that a lot of successful AI products seem to be attacking that problem. Tools like Perplexity, GitHub Copilot, Rilla and Perplexity aren't necessarily replacing experts. They're helping expertise spread further across an organization. Maybe the biggest impact of AI won't be reducing headcount. Maybe it'll be making exceptional people less of a bottleneck. Curious if anyone else is seeing this trend.
+
+1h ago
 
 ---
 
@@ -49,7 +57,15 @@ Some of our customers noticed Inter-1 (our omni-modal social-signal model) would
 
 The Trump administration has been increasingly wary about China’s breakneck pace in AI development – with officials warning as recently as recently as April that China was engaged in “industrial-sc…
 
-🔗 [New York Post](https://nypost.com/2026/06/22/business/cheap-chinese-ai-models-are-quickly-gaining-customers-across-the-us-market/) • 14h ago
+🔗 [New York Post](https://nypost.com/2026/06/22/business/cheap-chinese-ai-models-are-quickly-gaining-customers-across-the-us-market/) • 16h ago
+
+---
+
+**[$42M grant for Open Source AI Builders by Sentient Foundation](https://www.reddit.com/r/artificial/comments/1uefv8p/42m_grant_for_open_source_ai_builders_by_sentient/)**
+
+Hi everyone, we at Sentient Foundation are launching an Open Source AGI Grant and Investment Program, a $42M commitment for developers, researchers, open-source maintainers, public-goods builders, and startups building or leveraging AI in the open. Our thesis is simple: the most important technology being built right now should not end up controlled by a handful of closed platforms. A few companies are moving toward metered, revocable access to intelligence. We want to help make sure open builders have the resources to compete. The program has two tracks: 1. Grants for public goods For open-source maintainers, independent researchers, developers, and public-goods projects. No equity. No lockups. No claim on your work. You keep what you build. 2. Investments for companies built to scale For startups and teams building commercial companies around open AI technologies, using founder-friendly structures. We’re especially interested in projects that make AI genuinely useful and accessible to people who are often skipped by the market. Examples include: Local and privacy focused AI tools built for phones, laptops, and other low-cost personal devices Medical, education, agriculture, elder-care, and anti-scam tools for underserved communities Trust infrastructure for open models, agents, identity, verification, privacy, and decentralized compute Products that are private by default and empowering rather than extractive Projects do not need to open-source every part of their stack to qualify. What matters is that at least one essential component is open and meaningfully contributes to the project’s value and adoption. Applications are reviewed on a rolling basis, with no cohorts and no fixed deadline. We’re launching alongside ecosystem partners including Alibaba Cloud and Princeton University. More details: https://sentient.foundation/grants Apply here: https://form.typeform.com/to/IRj7WaKH Happy to answer questions here. We’d especially love to hear from builders working on open models, local AI, agent infrastructure, privacy-preserving AI, evaluation, multilingual tools, and applications for communities that are usually overlooked.
+
+2h ago
 
 ---
 
@@ -57,15 +73,7 @@ The Trump administration has been increasingly wary about China’s breakneck pa
 
 I have been learning about the shortage of AI training data and one aspect that nobody considers is that much of the potential training data that can be used is not stored in any database system but rather on the old magnetic tapes that have been stored in climate controlled lockers for decades now. The 80s through the 2000s saw all major businesses, government offices, hospitals, television stations, and laboratories include backup of everything on tapes. Most of this data has neither been digitized nor indexed correctly. With the advent of private LLM development, it turns out that the best datasets companies have are sitting on tapes in boxes. Based on all the predictions that I have seen, the growth of internet based training data will quit at some point, roughly in 2026. The following training data could be derived from archiving older materials.
 
-8h ago
-
----
-
-**[$42M grant for Open Source AI Builders by Sentient Foundation](https://www.reddit.com/r/artificial/comments/1uefv8p/42m_grant_for_open_source_ai_builders_by_sentient/)**
-
-Hi everyone, we at Sentient Foundation are launching an Open Source AGI Grant and Investment Program, a $42M commitment for developers, researchers, open-source maintainers, public-goods builders, and startups building or leveraging AI in the open. Our thesis is simple: the most important technology being built right now should not end up controlled by a handful of closed platforms. A few companies are moving toward metered, revocable access to intelligence. We want to help make sure open builders have the resources to compete. The program has two tracks: 1. Grants for public goods For open-source maintainers, independent researchers, developers, and public-goods projects. No equity. No lockups. No claim on your work. You keep what you build. 2. Investments for companies built to scale For startups and teams building commercial companies around open AI technologies, using founder-friendly structures. We’re especially interested in projects that make AI genuinely useful and accessible to people who are often skipped by the market. Examples include: Local and privacy focused AI tools built for phones, laptops, and other low-cost personal devices Medical, education, agriculture, elder-care, and anti-scam tools for underserved communities Trust infrastructure for open models, agents, identity, verification, privacy, and decentralized compute Products that are private by default and empowering rather than extractive Projects do not need to open-source every part of their stack to qualify. What matters is that at least one essential component is open and meaningfully contributes to the project’s value and adoption. Applications are reviewed on a rolling basis, with no cohorts and no fixed deadline. We’re launching alongside ecosystem partners including Alibaba Cloud, Franklin Templeton, Princeton University, and the Indian Institute of Science. More details: https://sentient.foundation/grants Apply here: https://form.typeform.com/to/IRj7WaKH Happy to answer questions here. We’d especially love to hear from builders working on open models, local AI, agent infrastructure, privacy-preserving AI, evaluation, multilingual tools, and applications for communities that are usually overlooked.
-
-20m ago
+10h ago
 
 ---
 
@@ -73,15 +81,7 @@ Hi everyone, we at Sentient Foundation are launching an Open Source AGI Grant an
 
 Leaked planning documents obtained by Bloomberg describe a Russian state-linked operation called "Project 2026," run by the Social Design Agency (SDA), with the stated goal of seeding the information layer that AI chatbots and search engines draw from. This is a structurally different threat than the bot and social media campaigns practitioners have long accounted for. The documents describe three components. A German-language Wikipedia clone is designed to look like legitimate reference material while embedding Russian narratives, on the explicit theory that AI systems trained on publicly available text would absorb and repeat those narratives in generated answers. A second component is an AI-driven "self-filling knowledge base" also targeting Germany, for which the documents state that servers are already running and the database already contains over 200,000 pages. A third initiative targeting Western think tanks launched in English, with German, French, and Spanish versions planned. Our coverage: https://aiweekly.co/alerts/russias-project-2026-targets-ai-and-search-leaked-files-show
 
-16h ago
-
----
-
-**[🚀 Open AI Unveils More Advanced AI Models Capable of Longer Reasoning and Better Task Execution](https://www.reddit.com/r/artificial/comments/1uecd4f/open_ai_unveils_more_advanced_ai_models_capable/)**
-
-AI development seems to be accelerating faster than ever. OpenAI recently introduced new AI models with improved reasoning, coding, and research capabilities, allowing them to handle more complex tasks while maintaining better accuracy. Many experts believe these advances could significantly impact industries like software development, market research, customer support, education, and content creation. At the same time, discussions around job displacement, AI regulation, and responsible deployment continue to grow. What do you think? Will AI become a productivity tool or a job replacement? Which industries do you think will be affected the most over the next 5 years? Interested to hear everyone's thoughts.
-
-2h ago
+18h ago
 
 ---
 
@@ -89,7 +89,15 @@ AI development seems to be accelerating faster than ever. OpenAI recently introd
 
 Saw the Reuters piece from earlier this month and it stuck with me. A US appeals court sanctioned two lawyers for filing briefs full of cases that do not exist, the kind that came out of a chatbot. The court called it a lack of candor, which is the polite version. What gets me is this is not the first time and clearly not the last. There is a whole database tracking these now, over a thousand entries. The pattern is always the same. The model writes something that reads like a real citation, the lawyer does not check it, the filing goes in, and somewhere downstream a judge or opposing counsel actually looks it up and the whole thing collapses. By then the damage to the lawyer is done. What people keep missing is that asking the model to double check itself does not help. The same blind spot that invented the case is the one doing the review. It will confidently confirm its own fiction. I have been poking at this from the research side and the only setup that actually catches it is when the verification is done by something that did not write the answer in the first place, a separate pass with fresh sources. There are a couple of systems built around that idea now, apodex is the one I keep seeing cited because it makes the verifier a different agent team from the one that reasoned, but the principle matters more than the brand. If the checker shares context with the writer you are back to self grading. For anyone in a regulated field the practical lesson is boring. Treat every citation a model hands you as unverified until a human or an independent check confirms it exists and says what the model claims. The sanctions are not going to slow down, the tools are getting faster and the courts are getting less patient.
 
-2h ago
+4h ago
+
+---
+
+**[OpenAI Unveils Custom Chip It Designed With Broadcom to Boost Its AI Infrastructure](https://www.reddit.com/r/artificial/comments/1uegmmx/openai_unveils_custom_chip_it_designed_with/)**
+
+OpenAI's engineers designed the chip, called Jalapeño, together with Broadcom to perform a specific AI task known as inference, during which data is crunched in order to answer a user's query to a chatbot like ChatGPT.
+
+🔗 [money.usnews.com](https://money.usnews.com/investing/news/articles/2026-06-24/openai-unveils-custom-chip-it-designed-with-broadcom-to-boost-its-ai-infrastructure) • 2h ago
 
 ---
 
@@ -97,7 +105,7 @@ Saw the Reuters piece from earlier this month and it stuck with me. A US appeals
 
 Hi everyone, I've been reading about this, especially about what LazyGraphRAG does, but it only works for complex questions. Therefore, my idea is to combine it with traditional RAG to ask both complex and simple questions with equal accuracy, but I don't know how to implement it. Is anyone doing something similar? Any ideas? Does anyone have experience with this?
 
-5h ago
+7h ago
 
 ---
 
@@ -105,15 +113,7 @@ Hi everyone, I've been reading about this, especially about what LazyGraphRAG do
 
 Saw this on Computerworld today and i've been thinking about it since Founder of JD.com said robots will replace all 700,000 of their delivery workers. Didn't sugarcoat it, didn't give a timeline, just said it's coming What got me was he also said he doesn't want his workers going hungry because of it, and their solution is retraining some of them to fix the robots taking their jobs. 700,000 is a lot of people to just figure it out Do you guys think this is actually as close as they're making it sound
 
-16h ago
-
----
-
-**[Looking for a technical co-founder [R]](https://www.reddit.com/r/artificial/comments/1uegdp2/looking_for_a_technical_cofounder_r/)**
-
-I'm building VentureLync, an AI operating system for venture capital funds. Three agents: Analyst, Associate, Operations. Running on a persistent memory layer. Doing the actual work that junior VC staff do today: sourcing, diligence, portfolio monitoring, LP reporting. Where we are: design partners already signed, more funds in active conversations looking to come on board. The product exists, funds are using it, and we're closing more. What I need on the technical side is someone who thinks seriously about agentic systems. Not wrappers. Real orchestration: multi-agent memory, reliable tool use, context that doesn't break across handoffs. The hard problem underneath the product is making agents actually trustworthy at the task level, not just impressive in demos. That's the problem I want a co-founder to own. One thing I care about specifically: the AI space is shifting fast. New models, new paradigms, new capabilities dropping every few months. I need someone who stays on top of it instinctively, not as a hobby, but because they can't help it. Someone who sees a new architecture paper or a new model release and immediately thinks about what it means for what we're building. What I'm not looking for: Someone who wants to "explore AI." Someone who's juggling this alongside other work. No moonlighters, no freelancers treating this as a side project. And not someone who wants the co-founder title for the resume. If you're not ready to go all in, this isn't for you. Preferably based in Bangalore. In-person matters. If you've built something real with agentic systems, have opinions about what's broken, and want to work on a problem with a clear wedge in a market that's just starting to move, let's talk. DM me or drop a comment. I respond to everyone who has something real to say.
-
-2m ago
+18h ago
 
 ---
 
@@ -121,63 +121,49 @@ I'm building VentureLync, an AI operating system for venture capital funds. Thre
 
 ## Google News: "ai"
 
+**[A Solution to A.I.’s Growing Power Demand: Homes](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[AI helps read papyrus scroll burnt to crisp during Vesuvius eruption](https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption)**
+
+Previously hidden text revealed without unrolling scroll discusses stoic philosophy on ethics, art and human behaviour
+
+The Guardian • 1h ago
+
+---
+
+**[Facebook rolls out an AI companion app for creators](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/)**
+
+The new app, which is currently being tested with select creators, will have Facebook's recently-launched AI creator assistant built into it.
+
+TechCrunch • 11m ago
+
+---
+
+**[Micron And 4 AI Stocks For Data Center Growth](https://seekingalpha.com/article/4917408-micron-and-4-ai-stocks-for-data-center-growth)**
+
+AI data center demand is expected to surge, benefitting providers of chips, storage, and networking technology. Discover 5 top AI stocks for H2 data center growth.
+
+Seeking Alpha • 22m ago
+
+---
+
+**[Syndio bets on agentic AI with first acquisition in Seattle pay equity startup’s history](https://www.geekwire.com/2026/syndio-bets-on-agentic-ai-with-first-acquisition-in-seattle-pay-equity-startups-history/)**
+
+Syndio announced Tuesday that it acquired Embrace.ai, an agentic AI startup whose founders and technology will help Syndio build out its AI-powered compensation platform.
+
+GeekWire • 8m ago
+
+---
+
 **[Stanford was their golden ticket - could AI help or hinder that?](https://www.bbc.com/news/articles/c872j82j2qyo)**
 
 The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.
 
-BBC • 16h ago
-
----
-
-**[‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies](https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies)**
-
-The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power
-
-The Guardian • 6h ago
-
----
-
-**[Axios House: The one thing AI can't make – something real](https://www.axios.com/2026/06/24/axios-house-the-one-thing-ai-cant-make-something-real)**
-
-Axios • 14m ago
-
----
-
-**[Intelligence agencies warn AI will soon overcome current defenses](https://www.cnn.com/2026/06/24/business/video/ai-warning-duffy-live-ctw-062409aseg2-cnni-technology-fast?cid=external-feeds_iluminar_google)**
-
-International intelligence agencies are warning AI models are advancing so quickly, they could overwhelm government and business defenses in just months. Clare Duffy tells us who is most at risk.
-
-CNN • 36m ago
-
----
-
-**[OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno)**
-
-OpenAI’s first chip could help decrease its reliance on Nvidia.
-
-The Verge • 42m ago
-
----
-
-**[Big Tech's $2.7 trillion AI bill comes due: Chart of the Day](https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html)**
-
-The “Magnificent Seven” plus Broadcom and Oracle have lost roughly $2.7 trillion in market value in June, according to Yahoo Finance analysis, as investors take a harder look at the companies funding the AI build-out.
-
-Yahoo Finance • 5h ago
-
----
-
-**[A Solution to A.I.’s Growing Power Demand: Homes](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html)**
-
-The New York Times • 6h ago
-
----
-
-**[Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)**
-
-The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk's AI ambitions.
-
-Fortune • 6h ago
+BBC • 18h ago
 
 ---
 
@@ -185,13 +171,31 @@ Fortune • 6h ago
 
 The Post tested ChatGPT, Gemini and other chatbots with political questions, and the results show that the AI tools have different political leanings.
 
-The Washington Post • 16m ago
+The Washington Post • 1h ago
 
 ---
 
-**[As AI Companies Race for Power, Amazon and Google Have the Lead](https://www.wsj.com/business/energy-oil/as-ai-companies-race-for-power-amazon-and-google-have-the-lead-1d97af9a)**
+**[OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)**
 
-WSJ • 5h ago
+OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.
+
+OpenAI • 4h ago
+
+---
+
+**[The A.I.-Design Aesthetic That’s Taking Over the Internet](https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet)**
+
+How Anthropic’s new tool, Claude Design, is creating overnight web-design clichés.
+
+The New Yorker • 7h ago
+
+---
+
+**[Big Tech's $2.7 trillion AI bill comes due: Chart of the Day](https://finance.yahoo.com/markets/article/big-techs-27-trillion-ai-bill-comes-due-chart-of-the-day-100000100.html)**
+
+The “Magnificent Seven” plus Broadcom and Oracle have lost roughly $2.7 trillion in market value in June, according to Yahoo Finance analysis, as investors take a harder look at the companies funding the AI build-out.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -211,7 +215,7 @@ Fully Open Foundation Model for Sovereign AI
 
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
-⬆️ 307 • 💬 399 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+⬆️ 312 • 💬 400 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 
 ---
 
@@ -219,13 +223,21 @@ A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms w
 
 The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk's AI ambitions.
 
-⬆️ 164 • 💬 179 • 2h ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+⬆️ 205 • 💬 232 • 5h ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+
+---
+
+**[RubyLLM: A Ruby framework for all major AI providers](https://news.ycombinator.com/item?id=48660711)**
+
+A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
+
+⬆️ 185 • 💬 23 • 2h ago • [RubyLLM](https://rubyllm.com/)
 
 ---
 
 **[The Low-Tech AI of Elden Ring](https://news.ycombinator.com/item?id=48643489)**
 
-⬆️ 155 • 💬 93 • 1d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+⬆️ 156 • 💬 95 • 1d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 
 ---
 
@@ -241,7 +253,7 @@ Meta pauses an AI training program after sensitive employee data leaks, sparking
 
 Either AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.
 
-⬆️ 87 • 💬 96 • 1d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+⬆️ 88 • 💬 96 • 1d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 
 ---
 
@@ -251,7 +263,15 @@ No AI was used in writing this post.
 
 If academia was a game, I've won it. Tenure, an endowed research chair, awards, leadership positions, an international journal I helped to found and now serve as the Editor-in-Chief, students I have supervised to their own successes, a good
 
-⬆️ 69 • 💬 51 • 1d ago • [Truths and Loves](https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/)
+⬆️ 69 • 💬 52 • 1d ago • [Truths and Loves](https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/)
+
+---
+
+**[Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://news.ycombinator.com/item?id=48658095)**
+
+Create agentic, context engineered AI systems using Haystack’s modular and customizable building blocks, built for real-world, production-ready applications.
+
+⬆️ 63 • 💬 19 • 6h ago • [Haystack](https://haystack.deepset.ai/)
 
 ---
 
@@ -259,23 +279,7 @@ If academia was a game, I've won it. Tenure, an endowed research chair, awards, 
 
 Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI.
 
-⬆️ 55 • 💬 44 • 5h ago • [Ars Technica](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
-
----
-
-**[US AI stock sell-off shakes markets from Wall Street to Asia](https://news.ycombinator.com/item?id=48654795)**
-
-Losses spread globally as investors questioned soaring valuations and spending on AI infrastructure
-
-⬆️ 49 • 💬 37 • 11h ago • [the Guardian](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets)
-
----
-
-**[Tech Workers Are Fighting Against Silicon Valley's AI Push](https://news.ycombinator.com/item?id=48623695)**
-
-More tech workers are organizing to fight back as they feel they are losing influence over decisions that affect their jobs, writes Varsha Bansal.
-
-⬆️ 46 • 💬 14 • 2d ago • [Tech Policy Press](https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/)
+⬆️ 57 • 💬 46 • 7h ago • [Ars Technica](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 
 ---
 
@@ -289,7 +293,17 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 35K • 👍 2K • 💬 660 • ⏱️ 15:38 • 12h ago
+👁️ 37K • 👍 3K • 💬 684 • ⏱️ 15:38 • 14h ago
+
+---
+
+**[The AI Future No One Wants to Talk About](https://www.youtube.com/watch?v=zWQe2Fn--Eg)**
+
+Go to https://ground.news/sabine to get 40% off the Vantage plan and see through sensationalized reporting. Stay fully informed ...
+
+📺 Sabine Hossenfelder
+
+👁️ 31K • 👍 4K • 💬 878 • ⏱️ 12:14 • 2h ago
 
 ---
 
@@ -299,7 +313,7 @@ CNN's Fareed Zakaria looks at the battle between the Trump administration and An
 
 📺 CNN
 
-👁️ 196K • 👍 3K • 💬 484 • ⏱️ 12:00 • 1d ago
+👁️ 204K • 👍 3K • 💬 504 • ⏱️ 12:00 • 1d ago
 
 ---
 
@@ -309,7 +323,7 @@ Oracle just axed 21000 jobs. Why? Start your FREE Intro Course with CourseCareer
 
 📺 Mark Savant
 
-👁️ 6K • 👍 271 • 💬 113 • ⏱️ 11:58 • 19h ago
+👁️ 6K • 👍 274 • 💬 117 • ⏱️ 11:58 • 21h ago
 
 ---
 
@@ -319,7 +333,17 @@ Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/m
 
 📺 Pooja Dutt
 
-👁️ 12K • 👍 440 • 💬 80 • ⏱️ 14:28 • 1d ago
+👁️ 13K • 👍 455 • 💬 80 • ⏱️ 14:28 • 1d ago
+
+---
+
+**[Tech stocks tumble over AI cost concerns](https://www.youtube.com/watch?v=Cjnppupu6gk)**
+
+A massive tech stock sell-off dragged down the S&P 500 and Nasdaq on Tuesday. CBS News senior business and technology ...
+
+📺 CBS News
+
+👁️ 14K • 👍 131 • 💬 38 • ⏱️ 3:15 • 20h ago
 
 ---
 
@@ -329,17 +353,7 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 197K • 👍 7K • 💬 1K • ⏱️ 22:04 • 1d ago
-
----
-
-**[Mythos AI HACKED ENTIRE NSA In Hours, Top Intel Sen Says](https://www.youtube.com/watch?v=hD-UM8QzxV4)**
-
-Krystal and Saagar discuss reports that Mythos AI was able to hack into classified US systems in hours. Sign up for a PREMIUM ...
-
-📺 Breaking Points
-
-👁️ 215K • 👍 6K • 💬 1K • ⏱️ 16:49 • 1d ago
+👁️ 206K • 👍 7K • 💬 1K • ⏱️ 22:04 • 1d ago
 
 ---
 
@@ -349,37 +363,27 @@ Empower your critical thinking and get the full picture on every story. Subscrib
 
 📺 After Skool
 
-👁️ 61K • 👍 3K • 💬 579 • ⏱️ 11:11 • 23h ago
+👁️ 65K • 👍 4K • 💬 625 • ⏱️ 11:11 • 1d ago
 
 ---
 
-**[DeepSeek Just Solved AI&#39;s Billion Dollar Problem](https://www.youtube.com/watch?v=mG4SmhWyeFA)**
+**[We Asked AI To Simulate If The U.S. Had A Second Civil War](https://www.youtube.com/watch?v=OdxH1KZbjOY)**
 
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
+What would happen if Civil War broke out in the United States again in 2026? Thankfully, with modern AI technology, we no ...
 
-📺 Two Minute Papers
+📺 The Babylon Bee
 
-👁️ 181K • 👍 9K • 💬 633 • ⏱️ 5:50 • 1d ago
-
----
-
-**[Open AI Is In Deep Trouble](https://www.youtube.com/watch?v=MNO8i68HWe4)**
-
-Live-streamed on June 16, 2026. Ed Zitron, publisher of the Where's Your Ed At? newsletter and host of the Better Offline podcast, ...
-
-📺 The Majority Report w/ Sam Seder
-
-👁️ 189K • 👍 6K • 💬 979 • ⏱️ 19:30 • 2d ago
+👁️ 88K • 👍 12K • 💬 1K • ⏱️ 2:31 • 21h ago
 
 ---
 
-**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
+**[New top local AI image generator is here! Already uncensored](https://www.youtube.com/watch?v=1U8dJ94QFNc)**
 
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+Krea 2 review and installation tutorial. Best open-source AI image generator. Free & uncensored. How to use Krea 2 in ComfyUI.
 
-📺 DeFranco News Clips
+📺 AI Search
 
-👁️ 580K • 👍 32K • 💬 2K • ⏱️ 1:26 • 23h ago
+👁️ 61K • 👍 4K • 💬 492 • ⏱️ 19:10 • 14h ago
 
 ---
 
@@ -395,7 +399,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 57,186 • ❤️ 2,297 • 1d ago
+⬇️ 57,186 • ❤️ 2,317 • 1d ago
 
 ---
 
@@ -407,7 +411,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 483,139 • ❤️ 2,275 • 5d ago
+⬇️ 483,139 • ❤️ 2,280 • 5d ago
 
 ---
 
@@ -419,7 +423,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 45,687 • ❤️ 657 • 2h ago
+⬇️ 45,687 • ❤️ 679 • 4h ago
 
 ---
 
@@ -431,7 +435,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 138,704 • ❤️ 494 • 5d ago
+⬇️ 138,704 • ❤️ 503 • 5d ago
 
 ---
 
@@ -455,7 +459,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 76,971 • ❤️ 333 • 1d ago
+⬇️ 76,971 • ❤️ 335 • 1d ago
 
 ---
 
@@ -467,7 +471,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 63,637 • ❤️ 277 • 2d ago
+⬇️ 63,637 • ❤️ 308 • 2d ago
 
 ---
 
@@ -479,7 +483,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 5,123 • ❤️ 274 • 5d ago
+⬇️ 5,123 • ❤️ 285 • 1h ago
 
 ---
 
@@ -491,7 +495,7 @@ This is an uncensored, aggressive multimodal (text, image, video) language model
 
 `image-text-to-text` `34.7B`
 
-⬇️ 3,769,369 • ❤️ 2,190 • 2mo ago
+⬇️ 3,769,369 • ❤️ 2,193 • 2mo ago
 
 ---
 
@@ -503,7 +507,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 359,498 • ❤️ 2,333 • 12d ago
+⬇️ 359,498 • ❤️ 2,337 • 12d ago
 
 ---
 
@@ -519,7 +523,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 22 • 💬 0 • ⭐ 5,572 • 2d ago
+▲ 23 • 💬 0 • ⭐ 5,572 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -595,9 +599,22 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 22 • 💬 1 • ⭐ 83,577 • 22d ago
+▲ 22 • 💬 1 • ⭐ 83,669 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 60 • 💬 1 • ⭐ 83,866 • 33mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -625,20 +642,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management](https://huggingface.co/papers/2606.19926)**
-
-*Guangyi Liu, Gao Wu, Congxiao Liu et al. (10 authors)*
-
-🏢 kwai
-
-MemGUI-Agent addresses long-horizon mobile GUI task limitations through proactive context management using Context-as-Action (ConAct) to maintain critical information across extended sequences.
-
-▲ 31 • 💬 1 • ⭐ 53 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.19926) • [💻 code](https://github.com/kwai/MemGUI-Agent) • [🔗 project](https://memgui-agent.github.io/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -649,7 +652,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.2k • 🔱 10.0k • 28m ago
+⭐ 77.3k • 🔱 10.0k • 22m ago
 
 ---
 
@@ -659,7 +662,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 54.3k • 🔱 2.7k • 1h ago
+⭐ 54.6k • 🔱 2.7k • 3h ago
 
 ---
 
@@ -669,7 +672,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.6k • 🔱 995 • 8m ago
+⭐ 10.6k • 🔱 996 • 2h ago
 
 ---
 
@@ -679,7 +682,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.1k • 🔱 388 • 6h ago
+⭐ 5.1k • 🔱 392 • 8h ago
 
 ---
 
@@ -689,7 +692,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.7k • 🔱 550 • 3m ago
+⭐ 4.7k • 🔱 552 • 54m ago
 
 ---
 
@@ -699,7 +702,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.5k • 🔱 435 • 2d ago
+⭐ 3.5k • 🔱 437 • 3d ago
 
 ---
 
@@ -719,7 +722,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.9k • 🔱 135 • 1d ago
+⭐ 1.9k • 🔱 136 • 1d ago
 
 ---
 
@@ -739,7 +742,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.6k • 🔱 127 • 20h ago
+⭐ 1.6k • 🔱 129 • 22h ago
 
 ---
 

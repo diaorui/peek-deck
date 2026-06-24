@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-24T15:18:50.721787+00:00'
+updated: '2026-06-24T17:27:42.774784+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 15:18 UTC  
+**Last Updated:** June 24, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,247.06
+### $59,399.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -3.2%  
-**30d:** -19.7%  
-**90d:** -8.2%  
-**1y:** -43.1%  
+**24h:** -4.2%  
+**7d:** -5.3%  
+**30d:** -21.5%  
+**90d:** -10.2%  
+**1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1219.18B
+**Market Cap:** $1190.83B
 Rank #1
 
-**Circulating Supply:** 20,047,381 BTC
+**Circulating Supply:** 20,047,456 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--51.7%
+-52.9%
 
 **All-Time Low:** $67.81
-+89625.7%
++87530.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 And I will add more if it goes down. Thanks guys.
 
-18h ago
+20h ago
 
 ---
 
@@ -89,7 +89,7 @@ And I will add more if it goes down. Thanks guys.
 
 I bought a year ago at 112 and have been holding ever since. Put most of my life savings. Now I wake up in panic thinking it's down to 30k and check my phone. My anxiety is so bad I have eczema and dandruff again, how can I relax?
 
-14h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Great quote from his yesterday´s podcast. Timestamped video to that part: https
 
 The deeper question is: How can societies benefit from credit and investment without allowing debt to become a permanent burden? History repeatedly shows that banking systems can finance homes, businesses, and innovation ...but critics have also warned that unchecked financial power can concentrate wealth and deepen inequality. And perhaps the lasting lesson is this: The strength of an economy is not measured by how much debt people can accumulate ...but by whether financial systems create opportunity without trapping people in endless dependence. Because money should be a tool that expands freedom... ...not a burden that quietly consumes it.
 
-21h ago
+23h ago
 
 ---
 
@@ -119,7 +119,7 @@ The deeper question is: How can societies benefit from credit and investment wit
 
 I finally crossed 100 miles on Uber Eats. Every delivery goes toward one goal: stacking Bitcoin, one mile at a time. Spoiler: the progress bar is humbling. But the views along the way — sunsets, big open skies, and some rainbows make it all worth it. I slacked a little on the editing so this week there will be two episodes with one coming on Thursday to catch us up. Keep DCAing bois its primetime real estate time.
 
-🔗 [youtu.be](https://youtu.be/dc991MV3LcQ?si=1XfDATiJtY6EVkg8) • 13h ago
+🔗 [youtu.be](https://youtu.be/dc991MV3LcQ?si=1XfDATiJtY6EVkg8) • 15h ago
 
 ---
 
@@ -127,7 +127,7 @@ I finally crossed 100 miles on Uber Eats. Every delivery goes toward one goal: s
 
 Hon. John Ruddick delivers a speech on bitcoin and the impending transformation to the digital economy
 
-17h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ everyone loves saying they're bullish on BTC when the candles are green, but the
 
 2013: “We’re early” 2017: “We’re early” 2021: “We’re early” 2026: “We’re still early!!” Reality: Maybe… we’re just always early and late at the same time
 
-22h ago
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ everyone loves saying they're bullish on BTC when the candles are green, but the
 
 The biggest enemy in Bitcoin isn’t the market. It’s YOU. Your fear Your impatience Your need for quick profit Bitcoin doesn’t shake weak hands accidentally. That’s the system working exactly as intended.
 
-22h ago
+1d ago
 
 ---
 
@@ -163,35 +163,7 @@ The biggest enemy in Bitcoin isn’t the market. It’s YOU. Your fear Your impa
 
 Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 range for Tuesday, with correlation rising across tokens and no fresh ETF bid in sight.
 
-CoinDesk • 17m ago
-
----
-
-**[CryptoQuant says Strategy should pause bitcoin purchases and rebuild cash reserves](https://www.theblock.co/post/405885/cryptoquant-strategy-should-pause-bitcoin-purchases-rebuild-cash-reserves)**
-
-Michael Saylor's Strategy should pause bitcoin purchases and focus on rebuilding its cash reserves, said CryptoQuant.
-
-The Block • 18h ago
-
----
-
-**[Bitcoin Is Down 48% From Its All-Time High. Here's What History Says Happens Next](https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-48-time-high-095800799.html)**
-
-Bitcoin has a track record of bouncing back from steep market declines. This time will be no different.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin’s Retreating Retail Army Exposes Fresh Market Fragility](https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Nancy Guthrie report suggests FBI made $152 crypto mistake](https://www.newsnationnow.com/missing/fbi-bitcoin-crypto-nancy-guthrie-kidnapper/)**
-
-NewsNation • 1h ago
+CoinDesk • 50m ago
 
 ---
 
@@ -201,33 +173,61 @@ Investor's Business Daily • 2h ago
 
 ---
 
+**[Bitcoin Hasn't Broken the 4-Year Cycle Yet, Says 21Shares as BTC Dives Below $60K](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hasnt-broken-4-cycle-165923681.html)**
+
+As Bitcoin falls below the $60,000 mark, 21Shares said that its prediction that BTC breaks the historical four-year cycle hasn't come true.
+
+Yahoo Finance • 28m ago
+
+---
+
+**[Saylor’s Best Bet May Be to Halt Strategy’s Bitcoin Buying Spree](https://www.bloomberg.com/news/articles/2026-06-24/saylor-s-best-bet-may-be-to-halt-strategy-s-bitcoin-btc-buying-spree)**
+
+Bloomberg.com • 4h ago
+
+---
+
 **[Small north Alabama town fights back against Bitcoin mining center: ‘Crushed so many hopes’](https://www.al.com/news/2026/06/small-north-alabama-town-fights-back-against-bitcoin-mining-center-crushed-so-many-hopes.html)**
 
-AL.com • 2h ago
+AL.com • 4h ago
 
 ---
 
-**[H100 Shareholders Approve Bitcoin Deal That Would Make It Europe's No. 2 Listed Treasury](https://bitcoinmagazine.com/news/h100-shareholders-approve-bitcoin-deal)**
+**[Bitcoin ETFs bleed record $6.4B in 30 days as flows turn deeply negative](https://seekingalpha.com/news/4606840-bitcoin-etfs-bleed-record-64b-in-30-days-as-flows-turn-deeply-negative)**
 
-H100 shareholders approved a deal to acquire two Norwegian bitcoin treasury firms, a move that would boost the company's holdings to 3,500 BTC.
+Crypto fund flows have turned increasingly negative, with bitcoin (BTC-USD) ETFs leading a broad pullback across digital asset investment products.
 
-Bitcoin Magazine • 22h ago
-
----
-
-**[The Julian Assange Film Streamers Wouldn’t Touch Turns To Bitcoin](https://www.forbes.com/sites/digital-assets/2026/06/24/the-julian-assange-film-streamers-wouldnt-touch-turns-to-bitcoin/)**
-
-A politically explosive Julian Assange documentary turns to Bitcoin and decentralized platforms in a fight over censorship, control and media gatekeepers.
-
-Forbes • 1h ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Current price of Bitcoin for June 23, 2026](https://fortune.com/article/price-of-bitcoin-06-23-2026/)**
+**[21Shares says bitcoin's post-halving price action 'still looks familiar,' but sees recovery toward $100,000 by year-end](https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin sits roughly 50% below its $126,000 peak in October 2025 as 21Shares points to a $100,000 base-case recovery by year-end.
 
-Fortune • 1d ago
+The Block • 5h ago
+
+---
+
+**[After Warning of a Potential Collapse, Cardano's Founder Now Says Cardano Can Beat Bitcoin. Is He Right?](https://www.fool.com/investing/2026/06/24/after-warning-of-a-potential-collapse-cardanos-fou/)**
+
+The chain's founder is trying to bring more attention to what he perceives as its unique strengths.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
+
+Barron's • 1d ago
+
+---
+
+**[Bitcoin Price Outlook: Why BTC Is Struggling Under The New Fed Regime](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-outlook-why-btc-112033912.html)**
+
+A hawkish hold from new Fed Chair Kevin Warsh has left Bitcoin trailing stocks and gold in freefall. Wall Street is split on whether the largest cryptocurrency will rebound or bleed further.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -261,7 +261,7 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 Read this crypto post from greatHydra_997 posted on 2026/06/24 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 1 • 💬 0 • 5h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377227237/)
+⬆️ 1 • 💬 0 • 7h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/377227237/)
 
 ---
 
@@ -285,7 +285,7 @@ Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is re
 
 A list of AI/LLM R&D Projects where AI helps me with ideas and research - iqbal1980/ai_research_assistant_rnd_projects
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/iqbal1980/ai_research_assistant_rnd_projects/blob/main/proxy_block_cage_attention_introduction.md)
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/iqbal1980/ai_research_assistant_rnd_projects/blob/main/proxy_block_cage_attention_introduction.md)
 
 ---
 
@@ -299,7 +299,7 @@ Clarity act, Bitcoin, Ethereum, Solana, and stock updates! BITUNIX TRADE THE TOP
 
 📺 Lark Davis
 
-👁️ 6K • 👍 499 • 💬 48 • ⏱️ 15:15 • 2h ago
+👁️ 10K • 👍 641 • 💬 78 • ⏱️ 15:15 • 4h ago
 
 ---
 
@@ -309,7 +309,37 @@ Bitcoin has lost its momentum, but the real story may have nothing to do with pr
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 289 • ⏱️ 16:50 • 16h ago
+👁️ 16K • 👍 1K • 💬 292 • ⏱️ 16:50 • 18h ago
+
+---
+
+**[BITCOIN CRASHING AS PREDICTED!!! THIS IS NEXT...](https://www.youtube.com/watch?v=-kdPRjdfGT8)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 876 • 👍 148 • 💬 14 • ⏱️ 9:37 • 49m ago
+
+---
+
+**[Is It Too Late to Buy Bitcoin?](https://www.youtube.com/watch?v=8j3DotIC0ss)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 4K • 👍 331 • 💬 52 • ⏱️ 14:53 • 3h ago
+
+---
+
+**[BITCOIN: THE 2 MOST IMPORTANT LEVELS IM LOOKING AT!](https://www.youtube.com/watch?v=0fc2AIWqzaY)**
+
+PROVE YOUR TRADING SKILLS — COMPETE FOR A SHARE OF THE $10,000 PRIZE ...
+
+📺 100XClub
+
+👁️ 5K • 👍 627 • 💬 91 • ⏱️ 6:25 • 7h ago
 
 ---
 
@@ -319,47 +349,7 @@ Everybody's asking the same question: where's the bottom? But that's the wrong q
 
 📺 Mark Moss
 
-👁️ 60K • 👍 3K • 💬 468 • ⏱️ 17:22 • 20h ago
-
----
-
-**[BITCOIN: A Liquidation Cascade Is Loading! (watch) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=lsIgMBTNwHM)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 3K • 👍 323 • 💬 34 • ⏱️ 13:33 • 5h ago
-
----
-
-**[Bitcoin Holders!! Most People Have No Idea What’s Coming!](https://www.youtube.com/watch?v=_R_p-0rtacw)**
-
-Crypto Fear Is Exploding.. But Most People Are Missing What Comes Next ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 207 • ⏱️ 10:48 • 16h ago
-
----
-
-**[DO NOT LET BITCOIN FOOL YOU! [DUMP INCOMING.......]](https://www.youtube.com/watch?v=3_gETIMkmF4)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
-
-📺 Crypto Kid
-
-👁️ 4K • 👍 319 • 💬 207 • ⏱️ 11:26 • 12h ago
-
----
-
-**[LETZTE Warnung vor dem ENDE der Deadline – die EU macht ERNST!](https://www.youtube.com/watch?v=24mW7OBAJi0)**
-
-300€ & 8% OKX Bonus ➟ https://my.okx.com/de/campaigns/robyn-hd?channelId=41818443 * ByBit Exklusiv-Bonus ...
-
-📺 RobynHD
-
-👁️ 2K • 👍 530 • 💬 36 • ⏱️ 12:38 • 1h ago
+👁️ 64K • 👍 3K • 💬 471 • ⏱️ 17:22 • 22h ago
 
 ---
 
@@ -369,27 +359,37 @@ BTCC l $30000 Bonus + 10% Deposit Bonus: https://bit.ly/amcrbtcc ⚡️ WEEX ($3
 
 📺 AMCrypto
 
-👁️ 143 • 👍 23 • 💬 1 • ⏱️ 14:18 • 51m ago
+👁️ 438 • 👍 52 • 💬 2 • ⏱️ 14:18 • 3h ago
 
 ---
 
-**[1 Trillion Gone. Bitcoin Survives.](https://www.youtube.com/watch?v=EH9zMRLEckc)**
+**[Bitcoin Holders!! Most People Have No Idea What’s Coming!](https://www.youtube.com/watch?v=_R_p-0rtacw)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Crypto Fear Is Exploding.. But Most People Are Missing What Comes Next ⭐ Follow Altcoin Daily on X: ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 16K • 👍 882 • 💬 262 • ⏱️ 8:31 • 14h ago
+👁️ 33K • 👍 2K • 💬 217 • ⏱️ 10:48 • 18h ago
 
 ---
 
-**[Cardano Hack (Bitcoin Dumping!)](https://www.youtube.com/watch?v=uejbUaNFcpg)**
+**[Bitcoin CRASHES: Will 60k Hold?!?!](https://www.youtube.com/watch?v=xEt5EQgIh9Q)**
 
-Today we cover the latest crypto news as rumors of a Cardano hack shake the altcoin market. Is this the start of a bigger crypto ...
+David, JP, and Rob discuss whether Bitcoin can stay above 60k, or if there is an Armageddon coming! Trade and get rewarded on ...
 
-📺 Discover Crypto
+📺 Sin City Crypto
 
-👁️ 1K • 👍 137 • 1h ago
+👁️ 2K • 👍 170 • 1h ago
+
+---
+
+**[FAÇA ISTO AGORA!!! O BITCOIN ainda NÃO FEZ FUNDO E O mercado americano em queda](https://www.youtube.com/watch?v=K-NUpCiumIw)**
+
+PARA TER ACESSO AO PRÉ LANÇAMENTO DO INSTITUTO by SANDRO CABRALES Acesse o link do grupo exclusivo do ...
+
+📺 Sandro Cabrales
+
+👁️ 1K • 👍 295 • 💬 53 • ⏱️ 21:15 • 3h ago
 
 ---
 
