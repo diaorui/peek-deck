@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-24T17:27:42.782849+00:00'
+updated: '2026-06-24T19:13:32.583492+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 24, 2026 at 17:27 UTC  
+**Last Updated:** June 24, 2026 at 19:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,57 +116,21 @@ Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kin
 
 **[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
 **[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
 
-Politico • 22h ago
+Politico • 1d ago
 
 ---
 
-**[Exoskeleton and robotic arm reduce factory lifting strain by up to 65%](https://techxplore.com/news/2026-06-exoskeleton-robotic-arm-factory-strain.html)**
+**[Robots used by Amazon keep packages moving quickly](https://www.yahoo.com/news/videos/robots-used-amazon-keep-packages-180748742.html)**
 
-Tech Xplore • 7m ago
+Look inside Amazon's robotics lab in Massachusetts, where a fleet of robots keeps packages moving swiftly. (AP video: Sydney Roth)
 
----
-
-**[Agility Robotics heads to Wall Street in a $2.5B bet on staffing warehouses with humanoids](https://www.wral.com/news/ap/39f23-agility-robotics-heads-to-wall-street-in-a-2-5b-bet-on-staffing-warehouses-with-humanoids/)**
-
-A maker of humanlike robots that carry totes around warehouses is going public on Wall Street in a test of whether there's a market for putting AI-powered humanoid machines to work.
-
-WRAL • 32m ago
-
----
-
-**[Nvidia-Backed Robotics Company Goes Public Via SPAC. Shares Briefly Jump Nearly 30%.](https://www.investors.com/news/nvidia-backed-robotics-company-goes-public-via-spac-shares-briefly-jump-nearly-30/)**
-
-Investor's Business Daily • 19m ago
-
----
-
-**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
-
-Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
-
-CBS News • 1h ago
-
----
-
-**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
-
-When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
-
-The Guardian • 12h ago
-
----
-
-**[Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates](https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html)**
-
-Morgan Stanley has sharply raised its outlook for China's humanoid robotics market, as early commercial deployment in real-world scenarios accelerated.
-
-CNBC • 10h ago
+Yahoo • 1h ago
 
 ---
 
@@ -174,7 +138,23 @@ CNBC • 10h ago
 
 Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
 
-Automotive News • 8h ago
+Automotive News • 10h ago
+
+---
+
+**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
+
+Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
+
+CBS News • 3h ago
+
+---
+
+**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
+
+When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
+
+The Guardian • 14h ago
 
 ---
 
@@ -182,7 +162,29 @@ Automotive News • 8h ago
 
 Spacewalk preparations filled the schedule aboard the International Space Station on Tuesday as a pair of astronauts gear up for next week’s external robotics repair job. CubeSat maintenance and eye checks rounded out the day for the Expedition 74 crew.
 
-NASA (.gov) • 21h ago
+NASA (.gov) • 23h ago
+
+---
+
+**[NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI](https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai)**
+
+NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
+
+NVIDIA Newsroom • 2d ago
+
+---
+
+**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
+
+Axios • 1d ago
+
+---
+
+**[Humanoid robots just got a workplace safety system](https://www.foxnews.com/science/humanoid-robots-just-got-workplace-safety-system)**
+
+NVIDIA introduces Halos for Robotics, which it calls the industry's first full-stack safety system for physical AI and robots working near people.
+
+Fox News • 2d ago
 
 ---
 
@@ -216,7 +218,7 @@ Welcome to the future of logistics. This fully automated warehouse in China oper
 
 📺 Wealthy Capital
 
-👁️ 40K • 👍 267 • 💬 18 • ⏱️ 0:09 • 18h ago
+👁️ 40K • 👍 267 • 💬 18 • ⏱️ 0:09 • 20h ago
 
 ---
 

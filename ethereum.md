@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T17:27:42.780034+00:00'
+updated: '2026-06-24T19:13:32.580627+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 17:27 UTC  
+**Last Updated:** June 24, 2026 at 19:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,593.31
+### $1,575.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -8.0%  
-**30d:** -24.1%  
-**90d:** -21.1%  
-**1y:** -35.0%  
+**24h:** -5.6%  
+**7d:** -8.3%  
+**30d:** -24.3%  
+**90d:** -21.3%  
+**1y:** -35.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 23h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 1d ago
 
 ---
 
@@ -80,7 +80,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Don't get me wrong. I understand why people enjoy trading, but I've always found the practical side of crypto more interesting. Being able to actually use it for something feels more satisfying than watching numbers move up and down all day. Not every company accepts crypto, but if you can use crypto to buy something you were already planning to buy anyway, that's still pretty interesting. As I see, utility has become way more interesting to me than speculation lately.
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 150 - Nico Gallardo - Octant V2 WITH Demo!
 
-1d ago
+2d ago
 
 ---
 
@@ -158,19 +158,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset](https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset)**
-
-The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
-
-CoinDesk • 1d ago
-
----
-
 **[Ethereum Slumps As ETF Outflows Continue](https://finance.yahoo.com/markets/crypto/articles/ethereum-slumps-etf-outflows-continue-161600360.html)**
 
 Ethereum’s (CRYPTO: $ETH) price remains weak as outflows from exchange-traded funds (ETFs) continue.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,31 +170,7 @@ Yahoo Finance • 1h ago
 
 FF News — the fintech news network covering payments, retail, insurtech and capital markets news from FF News.
 
-FF News • 1h ago
-
----
-
-**[Ethereum Foundation to cut budget by 40% and slash 20% of workforce](https://finance.yahoo.com/video/ethereum-foundation-cut-budget-40-154610461.html)**
-
-The Ethereum Foundation will slash its budget by roughly 40% this year as part of a shift toward a leaner, endowment-style operating model. This comes on the same day the EF confirmed a 20% reduction in headcount. CoinDesk's Uyen Truong hosts "CoinDesk Daily."
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
-
-/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
-
-PR Newswire • 1d ago
-
----
-
-**[Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape](https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape)**
-
-Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.
-
-The Block • 1d ago
+FF News • 3h ago
 
 ---
 
@@ -210,7 +178,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
 
 ---
 
@@ -218,13 +186,45 @@ Fortune • 4h ago
 
 Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
 **[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
 
-ETF.com • 6h ago
+ETF.com • 8h ago
+
+---
+
+**[BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab](https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs)**
+
+Some of Ethereum's largest holders are coming together to fund Ethlabs, a new R&D lab aimed at boosting the network and ETH.
+
+Decrypt • 1d ago
+
+---
+
+**[AAVE v4 deposits on Ethereum reach $200M, doubling in a month](https://cryptobriefing.com/aave-v4-deposits-200m-ethereum/)**
+
+Aave v4 deposits on Ethereum hit $200M, doubling in a month since launch. Active loans reach $60M, but utilization rates lag behind v3 levels.
+
+Crypto Briefing • 2h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide As 'Smart Money' Sentiment Weakens: Analyst Says BTC Could Rise In](https://www.benzinga.com/crypto/cryptocurrency/26/06/60033652/bitcoin-ethereum-xrp-dogecoin-slide-as-smart-money-sentiment-weakens-analyst-sees-july-upside-for-btc)**
+
+Leading cryptocurrencies extended losses on a volatile Monday, June 2022, despite the U.S. and Iran signing key agreements as part of a peace deal.
+
+Benzinga • 1d ago
+
+---
+
+**[Ethereum Price Prediction: Why ETH is Struggling Following the Foundation’s Restructuring](https://financefeeds.com/ethereum-price-prediction-why-eth-is-struggling-following-the-foundations-restructuring/)**
+
+The cryptocurrency market is currently witnessing a period of profound transition for its second-largest asset, Ethereum. As investors seek an accurate
+
+FinanceFeeds • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this video I break down the current Ethereum price action and analyze the pot
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 144 • 💬 7 • ⏱️ 9:05 • 2h ago
+👁️ 1K • 👍 144 • 💬 7 • ⏱️ 9:05 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 748 • 💬 214 • ⏱️ 12:14 • 5h ago
+👁️ 9K • 👍 748 • 💬 214 • ⏱️ 12:14 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 81 • 💬 8 • ⏱️ 14:55 • 1d ago
+👁️ 3K • 👍 81 • 💬 8 • ⏱️ 14:55 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN WARNING: This Will Get UGLY (Crash Coming)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 372 • 💬 462 • ⏱️ 21:18 • 22h ago
+👁️ 8K • 👍 372 • 💬 462 • ⏱️ 21:18 • 23h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN WARNING: This Will Get UGLY (Crash Coming)!!! - Bitcoin News Today, Ethe
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 631 • 💬 29 • ⏱️ 2:17 • 16h ago
+👁️ 9K • 👍 631 • 💬 29 • ⏱️ 2:17 • 18h ago
 
 ---
 
