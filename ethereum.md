@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T21:10:33.679680+00:00'
+updated: '2026-06-24T22:47:34.746151+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 21:10 UTC  
+**Last Updated:** June 24, 2026 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,613.82
+### $1,621.10
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -5.9%  
-**30d:** -22.3%  
-**90d:** -19.2%  
-**1y:** -33.4%  
+**24h:** -3.1%  
+**7d:** -5.6%  
+**30d:** -22.1%  
+**90d:** -19.0%  
+**1y:** -33.2%  
 
 ---
 
@@ -80,7 +80,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Don't get me wrong. I understand why people enjoy trading, but I've always found the practical side of crypto more interesting. Being able to actually use it for something feels more satisfying than watching numbers move up and down all day. Not every company accepts crypto, but if you can use crypto to buy something you were already planning to buy anyway, that's still pretty interesting. As I see, utility has become way more interesting to me than speculation lately.
 
-23h ago
+1d ago
 
 ---
 
@@ -158,19 +158,65 @@ ethereum.org • 1d ago
 
 ---
 
-**['Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive](https://finance.yahoo.com/markets/crypto/articles/painful-bitcoin-sell-off-drags-205014642.html)**
+**[Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset](https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset)**
 
-Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
+The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
 
-Yahoo Finance • 20m ago
+CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 24, 2026](https://fortune.com/article/price-of-ethereum-06-24-2026/)**
+**[Bitcoin and ethereum prices today, Wednesday, June 24, 2026: Opened at lowest levels in about two weeks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-june-24-2026-opened-at-lowest-levels-in-about-two-weeks-125349040.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+These are today's bitcoin and ethereum prices, Wednesday, June 24, 2026. Bitcoin opened at $62,660.11 on Wednesday, down 2% from Tuesday's open. Ethereum opened at $1,665.13 on Wednesday, flat compared to Tuesday's opening price.
 
-Fortune • 8h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Ethlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle](https://www.prnewswire.com/news-releases/ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereums-institutional-supercycle-302806705.html)**
+
+/PRNewswire/ -- A coordinated group of Ethereum ecosystem stewards today announced the launch of Ethlabs, an independent, nonprofit research and development...
+
+PR Newswire • 2d ago
+
+---
+
+**['Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive](https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive)**
+
+Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
+
+Decrypt • 1h ago
+
+---
+
+**[Ethereum Doesn’t Know What It’s Supposed to Be Anymore](https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/)**
+
+Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin
+
+PYMNTS.com • 1h ago
+
+---
+
+**[Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape](https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape)**
+
+Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.
+
+The Block • 1d ago
+
+---
+
+**[Official $HODL Coin Goes Multi-Chain: LayerZero-Powered Ethereum Bridge Now Live at hodl2013.com](https://markets.businessinsider.com/news/stocks/official-hodl-coin-goes-multi-chain-layerzero-powered-ethereum-bridge-now-live-at-hodl2013-com-1036273793)**
+
+Tokyo, Japan, June  24, 2026  (GLOBE NEWSWIRE) -- $HODL  has officially expanded to Ethereum. The project-led by GameKyuubi, the original author o...
+
+markets.businessinsider.com • 55m ago
+
+---
+
+**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
+
+ETF.com • 11h ago
 
 ---
 
@@ -178,51 +224,7 @@ Fortune • 8h ago
 
 Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.
 
-TradingView • 21h ago
-
----
-
-**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
-
-ETF.com • 10h ago
-
----
-
-**[BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab](https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs)**
-
-Some of Ethereum's largest holders are coming together to fund Ethlabs, a new R&D lab aimed at boosting the network and ETH.
-
-Decrypt • 2d ago
-
----
-
-**[Bitmine Immersion 9.5% Preferred: The ETH Treasury Preferred With No Safety Net](https://seekingalpha.com/article/4917455-bitmine-immersion-9-5-percent-preferred-the-eth-treasury-preferred-with-no-safety-net)**
-
-Seeking Alpha • 1h ago
-
----
-
-**[AAVE v4 deposits on Ethereum reach $200M, doubling in a month](https://cryptobriefing.com/aave-v4-deposits-200m-ethereum/)**
-
-Aave v4 deposits on Ethereum hit $200M, doubling in a month since launch. Active loans reach $60M, but utilization rates lag behind v3 levels.
-
-Crypto Briefing • 4h ago
-
----
-
-**[Ethereum Price Prediction: Why ETH is Struggling Following the Foundation’s Restructuring](https://financefeeds.com/ethereum-price-prediction-why-eth-is-struggling-following-the-foundations-restructuring/)**
-
-The cryptocurrency market is currently witnessing a period of profound transition for its second-largest asset, Ethereum. As investors seek an accurate
-
-FinanceFeeds • 5h ago
-
----
-
-**[Bitmine Approaches Giant Ethereum Supply Goal as Tom Lee Teases A New Crypto Spring](https://www.tipranks.com/news/bitmine-approaches-giant-ethereum-supply-goal-as-tom-lee-teases-a-new-crypto-spring)**
-
-Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
-
-TipRanks • 2d ago
+TradingView • 23h ago
 
 ---
 
@@ -236,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 16K • 👍 877 • 💬 224 • ⏱️ 12:14 • 9h ago
+👁️ 16K • 👍 877 • 💬 224 • ⏱️ 12:14 • 10h ago
 
 ---
 
@@ -246,7 +248,7 @@ In this video I break down the current Ethereum price action and analyze the pot
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 197 • 💬 8 • ⏱️ 9:05 • 6h ago
+👁️ 3K • 👍 197 • 💬 8 • ⏱️ 9:05 • 8h ago
 
 ---
 
@@ -266,7 +268,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 160 • 👍 12 • 💬 1 • ⏱️ 6:27 • 3h ago
+👁️ 160 • 👍 12 • 💬 1 • ⏱️ 6:27 • 4h ago
 
 ---
 
@@ -276,7 +278,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 372 • 💬 70 • ⏱️ 13:33 • 11h ago
+👁️ 6K • 👍 372 • 💬 70 • ⏱️ 13:33 • 12h ago
 
 ---
 
@@ -286,7 +288,7 @@ Crypto is under pressure. Join me live as we break down the latest moves in Bitc
 
 📺 Traders Reality
 
-👁️ 973 • 👍 121 • 41m ago
+👁️ 973 • 👍 121 • 2h ago
 
 ---
 

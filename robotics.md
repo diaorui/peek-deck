@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-24T21:10:33.682893+00:00'
+updated: '2026-06-24T22:47:34.748952+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 24, 2026 at 21:10 UTC  
+**Last Updated:** June 24, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ Would a ASL-ML from BO3 work in real life as a Autonomous Quadruped Robot. I kin
 
 **[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
 
-WSJ • 10h ago
+WSJ • 12h ago
 
 ---
 
@@ -126,11 +126,27 @@ Politico • 1d ago
 
 ---
 
+**[GM installs robots at flagship EV factory after laying off 1,300 workers](https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/)**
+
+US autoworkers union warns of robot automation as dark factory future looms.
+
+Ars Technica • 2d ago
+
+---
+
 **[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
 
 When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
 
-The Guardian • 16h ago
+The Guardian • 17h ago
+
+---
+
+**[Robots will replace 700K delivery workers, warns head of e-commerce giant](https://www.computerworld.com/article/4188535/robots-will-replace-700000-delivery-workers-warns-head-of-e-commerce-giant.html)**
+
+The founder of JD.com expects it to happen 'sooner or later.'
+
+Computerworld • 1d ago
 
 ---
 
@@ -138,7 +154,7 @@ The Guardian • 16h ago
 
 Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
 
-CBS News • 5h ago
+CBS News • 6h ago
 
 ---
 
@@ -146,15 +162,7 @@ CBS News • 5h ago
 
 Morgan Stanley has sharply raised its outlook for China's humanoid robotics market, as early commercial deployment in real-world scenarios accelerated.
 
-CNBC • 14h ago
-
----
-
-**[Suppliers eye $5 trillion humanoid robot market despite value-capture concerns](https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/)**
-
-Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
-
-Automotive News • 12h ago
+CNBC • 16h ago
 
 ---
 
@@ -166,25 +174,19 @@ NASA (.gov) • 1d ago
 
 ---
 
+**[Suppliers eye $5 trillion humanoid robot market despite value-capture concerns](https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/)**
+
+Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
+
+Automotive News • 13h ago
+
+---
+
 **[Karl Storz laying off employees in North Carolina amid robotics strategy shift](https://www.medtechdive.com/news/karl-storz-laying-off-employees-in-north-carolina-amid-robotics-strategy-sh/823428/)**
 
 The cuts come as Karl Storz plans to retire the Asensus brand and the Senhance robot as part of organizational changes.
 
 MedTech Dive • 2d ago
-
----
-
-**[NVIDIA Announces Halos for Robotics, the Industry’s First Full-Stack Safety System for Physical AI](https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai)**
-
-NVIDIA today announced NVIDIA Halos for Robotics, the industry’s first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
-
-NVIDIA Newsroom • 2d ago
-
----
-
-**[Nvidia debuts AI humanoid software to advance robotics safety](https://www.axios.com/2026/06/22/nvidia-humanoid-ai-robotics)**
-
-Axios • 1d ago
 
 ---
 
@@ -218,7 +220,7 @@ Welcome to the future of logistics. This fully automated warehouse in China oper
 
 📺 Wealthy Capital
 
-👁️ 66K • 👍 361 • 💬 29 • ⏱️ 0:09 • 22h ago
+👁️ 66K • 👍 361 • 💬 29 • ⏱️ 0:09 • 23h ago
 
 ---
 
@@ -258,7 +260,7 @@ This salon machine pulled her hair into a perfect bun in seconds Would you trust
 
 📺 Prototype Leaked
 
-👁️ 32K • 👍 163 • 💬 4 • ⏱️ 0:11 • 22h ago
+👁️ 32K • 👍 163 • 💬 4 • ⏱️ 0:11 • 23h ago
 
 ---
 
@@ -278,7 +280,7 @@ The Unitree R1 humanoid robot is making headlines with a starting price of just 
 
 📺 DPCcars
 
-👁️ 418 • 👍 30 • 💬 1 • ⏱️ 1:43 • 6h ago
+👁️ 418 • 👍 30 • 💬 1 • ⏱️ 1:43 • 7h ago
 
 ---
 
@@ -288,7 +290,7 @@ In this project, I built an AI-powered robotic arm using the RDK S100 and OpenCl
 
 📺 Pro Know
 
-👁️ 544 • 👍 54 • 💬 6 • ⏱️ 10:15 • 9h ago
+👁️ 544 • 👍 54 • 💬 6 • ⏱️ 10:15 • 11h ago
 
 ---
 
