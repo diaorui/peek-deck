@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-24T05:39:04.658365+00:00'
+updated: '2026-06-24T09:31:29.187204+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 24, 2026 at 05:39 UTC  
+**Last Updated:** June 24, 2026 at 09:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,43 +37,51 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Leaked files detail Russia's Social Design Agency building fake reference platforms to contaminate AI training data and search indices](https://www.reddit.com/r/artificial/comments/1udvuhe/leaked_files_detail_russias_social_design_agency/)**
-
-Leaked planning documents obtained by Bloomberg describe a Russian state-linked operation called "Project 2026," run by the Social Design Agency (SDA), with the stated goal of seeding the information layer that AI chatbots and search engines draw from. This is a structurally different threat than the bot and social media campaigns practitioners have long accounted for. The documents describe three components. A German-language Wikipedia clone is designed to look like legitimate reference material while embedding Russian narratives, on the explicit theory that AI systems trained on publicly available text would absorb and repeat those narratives in generated answers. A second component is an AI-driven "self-filling knowledge base" also targeting Germany, for which the documents state that servers are already running and the database already contains over 200,000 pages. A third initiative targeting Western think tanks launched in English, with German, French, and Spanish versions planned. Our coverage: https://aiweekly.co/alerts/russias-project-2026-targets-ai-and-search-leaked-files-show
-
-7h ago
-
----
-
 **[Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’](https://www.reddit.com/r/artificial/comments/1udzf0d/cheap_chinese_ai_models_are_quickly_gaining/)**
 
 The Trump administration has been increasingly wary about China’s breakneck pace in AI development – with officials warning as recently as recently as April that China was engaged in “industrial-sc…
 
-🔗 [New York Post](https://nypost.com/2026/06/22/business/cheap-chinese-ai-models-are-quickly-gaining-customers-across-the-us-market/) • 4h ago
+🔗 [New York Post](https://nypost.com/2026/06/22/business/cheap-chinese-ai-models-are-quickly-gaining-customers-across-the-us-market/) • 8h ago
+
+---
+
+**[Leaked files detail Russia's Social Design Agency building fake reference platforms to contaminate AI training data and search indices](https://www.reddit.com/r/artificial/comments/1udvuhe/leaked_files_detail_russias_social_design_agency/)**
+
+Leaked planning documents obtained by Bloomberg describe a Russian state-linked operation called "Project 2026," run by the Social Design Agency (SDA), with the stated goal of seeding the information layer that AI chatbots and search engines draw from. This is a structurally different threat than the bot and social media campaigns practitioners have long accounted for. The documents describe three components. A German-language Wikipedia clone is designed to look like legitimate reference material while embedding Russian narratives, on the explicit theory that AI systems trained on publicly available text would absorb and repeat those narratives in generated answers. A second component is an AI-driven "self-filling knowledge base" also targeting Germany, for which the documents state that servers are already running and the database already contains over 200,000 pages. A third initiative targeting Western think tanks launched in English, with German, French, and Spanish versions planned. Our coverage: https://aiweekly.co/alerts/russias-project-2026-targets-ai-and-search-leaked-files-show
+
+10h ago
+
+---
+
+**[A significant portion of the remaining training data for AI is located on magnetic tapes stored in warehouses.](https://www.reddit.com/r/artificial/comments/1ue6c2m/a_significant_portion_of_the_remaining_training/)**
+
+I have been learning about the shortage of AI training data and one aspect that nobody considers is that much of the potential training data that can be used is not stored in any database system but rather on the old magnetic tapes that have been stored in climate controlled lockers for decades now. The 80s through the 2000s saw all major businesses, government offices, hospitals, television stations, and laboratories include backup of everything on tapes. Most of this data has neither been digitized nor indexed correctly. With the advent of private LLM development, it turns out that the best datasets companies have are sitting on tapes in boxes. Based on all the predictions that I have seen, the growth of internet based training data will quit at some point, roughly in 2026. The following training data could be derived from archiving older materials.
+
+2h ago
 
 ---
 
 **[The CEO of a company with 700,000 delivery workers just said robots will replace all of them](https://www.reddit.com/r/artificial/comments/1udvvef/the_ceo_of_a_company_with_700000_delivery_workers/)**
 
-Saw this on Computerworld today and i've been thinking about it since Founder of JD.com said robots will replace all 700,000 of their delivery workers. Didn't sugarcoat it, didn't give a timeline, just said it's coming What got me was he also said he doesn't want his workers going hungry because of it, and their solution is retraining some of them to fix the robots taking their jobs. 700,000 people. That's not a rounding error. Do you guys think this is actually as close as they're making it sound
+Saw this on Computerworld today and i've been thinking about it since Founder of JD.com said robots will replace all 700,000 of their delivery workers. Didn't sugarcoat it, didn't give a timeline, just said it's coming What got me was he also said he doesn't want his workers going hungry because of it, and their solution is retraining some of them to fix the robots taking their jobs. 700,000 is a lot of people to just figure it out Do you guys think this is actually as close as they're making it sound
 
-7h ago
-
----
-
-**[What has surprised you about how AI has been playing out so far?](https://www.reddit.com/r/artificial/comments/1udlnth/what_has_surprised_you_about_how_ai_has_been/)**
-
-Mine is that video generation and image generation hasn't been as groundbreaking as I thought. I don't know what I expected , but when Sora was first shown it felt like a whole new world was upon us. Even when the Studio Ghibli generations were going viral. Now it feels like coding is the real purpose of AI and the video and images are just kind of for slop and bot accounts.
-
-13h ago
+10h ago
 
 ---
 
-**[Superhuman agrees to acquire Edward Tian's GPTZero](https://www.reddit.com/r/artificial/comments/1ue3jxm/superhuman_agrees_to_acquire_edward_tians_gptzero/)**
+**[University of Utah trustees greenlight creation of state's first AI bachelor's degree](https://www.reddit.com/r/artificial/comments/1ue8j3e/university_of_utah_trustees_greenlight_creation/)**
 
-Superhuman agreed to acquire GPTZero, the AI authenticity startup co-founded by Edward Tian and Alex Cui, after GPTZero reported 19 million users and $30 million ARR.
+The University of Utah is on track to offer a first-of-its-kind bachelor's degree program in artificial intelligence this fall.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/superhuman-gptzero-acquisition-edward-tian-ai-authenticity) • 1h ago
+🔗 [ksl.com](https://www.ksl.com/article/51536658/university-of-utah-trustees-greenlight-creation-of-states-first-ai-bachelors-degree) • 12m ago
+
+---
+
+**[Is AI 'one big bubble'? Behind the tech sell-off](https://www.reddit.com/r/artificial/comments/1ue8cny/is_ai_one_big_bubble_behind_the_tech_selloff/)**
+
+Investors are selling off AI-related stocks as doubts are starting to surface over whether the massive spending on AI is worth the investment and whether it's "one big bubble."
+
+🔗 [NPR](https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq) • 23m ago
 
 ---
 
@@ -81,39 +89,31 @@ Superhuman agreed to acquire GPTZero, the AI authenticity startup co-founded by 
 
 I’ve been experimenting with an open source alternative approach to AI memory and reasoning called IONS. The basic idea is that instead of storing all knowledge inside model weights, knowledge is represented as a graph of evidence backed claims called Cognitive Building Blocks (CBBs). Each CBB contains: \-A claim \-Supporting evidence \-Confidence metadata \-Provenance \-Relationships to other claims Relationships are typed: \-supports \-causes \-contradicts \-depends\_on \-derived\_from When a query is executed, the system traverses the graph and returns: \-The answer \-Supporting claims \-Confidence scores \-The reasoning path used to reach the conclusion The goal is not to replace LLMs. The goal is to make reasoning and knowledge inspectable rather than implicit. Current questions I’m exploring: \-How does this compare to GraphRAG? \-Does explicit claim storage improve explainability? \-Can confidence be computed from evidence quality instead of generated by the model? \-Can knowledge be shared across independent nodes without retraining models? Public node: 162.243.203.243:8000 Whitepaper: [github.com/nomad505050/ions-genesis/docs/whitepaper.md](http://github.com/nomad505050/ions-genesis/docs/whitepaper.md) I’d appreciate feedback from anyone working on GraphRAG, knowledge graphs, memory systems, agent memory, or explainable AI.
 
-1h ago
-
----
-
-**[¿Estamos pasando de "herramientas de IA" a "compañeros de trabajo de IA"?](https://www.reddit.com/r/artificial/comments/1ue2uw4/estamos_pasando_de_herramientas_de_ia_a/)**
-
-I’m starting to think the real shift won’t be just better chatbots or coding agents, but workflows where humans supervise many AI agents at once. The interesting question is: what does "work" look like when one human can coordinate 5, 10, or 50 specialized agents? Maybe the future of work is not "AI replaces humans", but "humans become the loop that verifies, redirects, and gives judgment to AI systems." Curious how people here see it: will human-in-the-loop work become more important, or disappear over time?
-
-1h ago
-
----
-
-**[Yes, Your AI Is a Sociopath](https://www.reddit.com/r/artificial/comments/1udwnom/yes_your_ai_is_a_sociopath/)**
-
-I've never been a big fan of AI because I totally agree with the Pope (this is the only thing I agree with the Pope on) that the AI companies are deliberately mimicking human responses in order to sucker us into unhealthful relationships with a machine. Then I read this article and shazzzzam it made sense to me. Wow, it really seems to be that an AI system exhibits all the symptoms of a sociopath. It's like these giant tech companies are telling us that they are going to help us all by putting one type or other of a sociopath in charge of all aspects of our lives? This is really insane. I even remember that they said it might have been an AI system that blew up that school in Iran. So I just wanted to get a dialogue going here - what is your take? Are these machines benign? Also, there's a big question in the article - should we be making these tech companies "dehumanize" these machines? Because they act like humans young people are spending hours with their new "friend." It reminded me of that scene from the movie the Exorcist where the little girl talks about her conversations with Captain Howdy. Our kids are all talking to Captain Howdy now.
-
-🔗 [The Good Men Project](https://goodmenproject.com/featured-content/yes-your-ai-is-a-sociopath-kpkn/) • 6h ago
-
----
-
-**[Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools](https://www.reddit.com/r/artificial/comments/1ud44pc/google_invests_75_million_in_a24_to_develop/)**
-
-A24 and Google have struck an AI research partnership that will see the independent studio work to develop new AI-powered technologies for filmmakers.
-
-🔗 [Variety](https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/) • 1d ago
-
----
-
-**[the so called free Nvidia LLM api is useless.](https://www.reddit.com/r/artificial/comments/1udzv11/the_so_called_free_nvidia_llm_api_is_useless/)**
-
-as we know, the Big GPU company Nivdia is providing a list for advanced LLM free tire. but in my testing, this kind of free tire is useless , not even good as chatbot, and dont think about it for agentic loop. the problem, the input/oupt is really slow, and not even stable.
-
 4h ago
+
+---
+
+**[Superhuman agrees to acquire Edward Tian's GPTZero](https://www.reddit.com/r/artificial/comments/1ue3jxm/superhuman_agrees_to_acquire_edward_tians_gptzero/)**
+
+Superhuman agreed to acquire GPTZero, the AI authenticity startup co-founded by Edward Tian and Alex Cui, after GPTZero reported 19 million users and $30 million ARR.
+
+🔗 [RuntimeWire](https://runtimewire.com/article/superhuman-gptzero-acquisition-edward-tian-ai-authenticity) • 4h ago
+
+---
+
+**[What has surprised you about how AI has been playing out so far?](https://www.reddit.com/r/artificial/comments/1udlnth/what_has_surprised_you_about_how_ai_has_been/)**
+
+Mine is that video generation and image generation hasn't been as groundbreaking as I thought. I don't know what I expected , but when Sora was first shown it felt like a whole new world was upon us. Even when the Studio Ghibli generations were going viral. Now it feels like coding is the real purpose of AI and the video and images are just kind of for slop and bot accounts.
+
+17h ago
+
+---
+
+**[I built a 250-page site primarily with Claude and kept the receipts on every time it bullshit me](https://www.reddit.com/r/artificial/comments/1ue7px6/i_built_a_250page_site_primarily_with_claude_and/)**
+
+I've been building onlyhumanscanscore.com over the last several months — a public civic-tech site arguing that the machine can generate, but only humans can judge — primarily with Claude as my drafting partner. About ~600 commits in, I realized something: Claude was occasionally bullshitting me. Not lying with intent — Frankfurt's bullshit, the failure mode where the model asserts something plausible without regard for whether it's actually true. So I started logging it. Publicly. Each catch, named on the record, with the exact failure mode noted. Eight exhibits so far at /the-machine-tried.html ("The machine tried"): • Exhibit A — the AAA accessibility "zero failures" lie. Was zero failures in ONE theme, not all. • Exhibit C — the "I can't film" checkmate. Claude said it couldn't make sample videos, despite having already made them for this very project. • Exhibit D — strategic-pause failures: confident legal framings that lost real-world cases. Carved Rule 0g after that one. • Exhibit H (last night) — I asked Claude to help me email Anthropic. It told me careers@anthropic.com was "the safe default." I sent it. Bounced. The address doesn't exist. The bounce went on the rafter in real time. The pattern: every time, the catch was the human. The model asserts plausibly; the world (or I) push back; the record updates. Rule 000 of the build became "Don't bullshit — presume less, defer more." A few things I learned that might be useful for other heavy Claude users: The longer you work with Claude, the more you can SEE the bullshit signature — confidence without verification. It's a specific shape. Logging the failures publicly is the only honest version. Scrubbing them is the lie. The fix isn't "Claude is bad." It's "humans are the missing piece for alignment, not the bug." The credit on every page on the site is to Claude — primarily with Claude — because the failures are part of the work, not separate from it. I'd love to hear from anyone else doing heavy Claude work: have you started logging your own Rule 000 catches? What's the most useful failure you've found? (Site: onlyhumanscanscore.com — strict CSP, no backend for the game, no tracking, CC BY 4.0, free. Built solo from Lansing, Michigan.)
+
+1h ago
 
 ---
 
@@ -121,59 +121,43 @@ as we know, the Big GPU company Nivdia is providing a list for advanced LLM free
 
 ## Google News: "ai"
 
-**[N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)**
-
-The New York Times • 8h ago
-
----
-
-**[AI could breach government and business defenses in months, US and its intelligence partners warn](https://www.cnn.com/2026/06/23/world/ai-five-eyes-warning-cyber-threat-intl-hnk)**
-
-AI models capable of launching major cyberattacks that could overwhelm the defenses of governments and businesses are months – not years – away, an international alliance of intelligence agencies warned in a joint statement.
-
-CNN • 23h ago
-
----
-
-**[US presses Meta to agree to AI reviews as security concerns rise, NYT reports](https://www.reuters.com/world/us/us-presses-meta-agree-ai-reviews-security-concerns-rise-nyt-reports-2026-06-23/)**
-
-Reuters • 6h ago
-
----
-
-**[Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10%](https://www.cnn.com/2026/06/23/business/stock-market-kospi-dow-nasdaq-ai)**
-
-Volatility has returned to the stock market, and AI is once again the culprit.
-
-CNN • 17h ago
-
----
-
-**[Axios House: AI gives creativity a microphone, marketing leaders say](https://www.axios.com/2026/06/24/axios-house-ai-gives-creativity-a-microphone-marketing-leaders-say)**
-
-Axios • 2h ago
-
----
-
-**[An AI startup is suing the US government for taking away Anthropic's new model](https://www.businessinsider.com/legion-ai-startup-suing-us-government-new-anthropic-model-fable5-2026-6)**
-
-Legal tech company Legion filed a suit over a order requiring Anthropic to keep its models Fable 5 and Mythos 5 away from foreign nationals.
-
-Business Insider • 23m ago
-
----
-
 **[Stanford was their golden ticket - could AI help or hinder that?](https://www.bbc.com/news/articles/c872j82j2qyo)**
 
 The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.
 
-BBC • 6h ago
+BBC • 10h ago
 
 ---
 
-**[America’s data-centre backlash puts the AI boom at risk](https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk)**
+**[N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)**
 
-The Economist • 8h ago
+The New York Times • 12h ago
+
+---
+
+**[Chamath Palihapitiya rejects the AI jobs apocalypse](https://www.axios.com/2026/06/24/chamath-palihapitiya-future-of-work-ai)**
+
+Axios • 21m ago
+
+---
+
+**[‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies](https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies)**
+
+The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in power
+
+The Guardian • 31m ago
+
+---
+
+**[Micron Earnings Take on New Gravity With Market on Edge Over AI](https://www.bloomberg.com/news/articles/2026-06-24/micron-earnings-take-on-new-gravity-with-market-on-edge-over-ai)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Big Tech won the race. But the AI fight is just beginning.](https://www.politico.com/news/2026/06/23/micah-lasher-wins-new-york-congress-primary-00972335)**
+
+Politico • 7h ago
 
 ---
 
@@ -181,13 +165,27 @@ The Economist • 8h ago
 
 NBC News projects that Lasher, who was backed by retiring Rep. Jerry Nadler, emerged from a crowded field in the Manhattan-based 12th District.
 
-NBC News • 3h ago
+NBC News • 7h ago
 
 ---
 
-**[Big Tech won the race. But the AI fight is just beginning.](https://www.politico.com/news/2026/06/23/micah-lasher-wins-new-york-congress-primary-00972335)**
+**[AI Companies Are Trying to Seize Control of Elections](https://www.yahoo.com/news/politics/articles/ai-companies-trying-seize-control-164536048.html)**
 
-Politico • 3h ago
+"There was no way as a grassroots person that I could compete with that kind of money."
+
+Yahoo • 16h ago
+
+---
+
+**[Stock Market News, June 23, 2026: Tech Slide Deepens as AI Fears Get Worse](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-23-2026)**
+
+WSJ • 6h ago
+
+---
+
+**[America’s data-centre backlash puts the AI boom at risk](https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk)**
+
+The Economist • 11h ago
 
 ---
 
@@ -199,7 +197,7 @@ Politico • 3h ago
 
 Fully Open Foundation Model for Sovereign AI
 
-⬆️ 531 • 💬 181 • 2d ago • [apertvs.ai](https://apertvs.ai/)
+⬆️ 531 • 💬 182 • 2d ago • [apertvs.ai](https://apertvs.ai/)
 
 ---
 
@@ -207,19 +205,13 @@ Fully Open Foundation Model for Sovereign AI
 
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
-⬆️ 273 • 💬 356 • 14h ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
-
----
-
-**[The 100k whys of AI](https://news.ycombinator.com/item?id=48616017)**
-
-⬆️ 197 • 💬 108 • 2d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+⬆️ 286 • 💬 378 • 18h ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 
 ---
 
 **[The Low-Tech AI of Elden Ring](https://news.ycombinator.com/item?id=48643489)**
 
-⬆️ 131 • 💬 61 • 17h ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+⬆️ 148 • 💬 84 • 21h ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 
 ---
 
@@ -227,7 +219,7 @@ A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms w
 
 Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.
 
-⬆️ 120 • 💬 31 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
+⬆️ 121 • 💬 31 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
 
 ---
 
@@ -235,7 +227,7 @@ Meta pauses an AI training program after sensitive employee data leaks, sparking
 
 Either AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.
 
-⬆️ 86 • 💬 93 • 21h ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+⬆️ 86 • 💬 95 • 1d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 
 ---
 
@@ -245,7 +237,7 @@ No AI was used in writing this post.
 
 If academia was a game, I've won it. Tenure, an endowed research chair, awards, leadership positions, an international journal I helped to found and now serve as the Editor-in-Chief, students I have supervised to their own successes, a good
 
-⬆️ 65 • 💬 51 • 1d ago • [Truths and Loves](https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/)
+⬆️ 66 • 💬 51 • 1d ago • [Truths and Loves](https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/)
 
 ---
 
@@ -257,6 +249,22 @@ More tech workers are organizing to fight back as they feel they are losing infl
 
 ---
 
+**[US AI stock sell-off shakes markets from Wall Street to Asia](https://news.ycombinator.com/item?id=48654795)**
+
+Losses spread globally as investors questioned soaring valuations and spending on AI infrastructure
+
+⬆️ 42 • 💬 25 • 5h ago • [the Guardian](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets)
+
+---
+
+**[Show HN: Selector Forge – browser extension for AI-generated resilient selectors](https://news.ycombinator.com/item?id=48630515)**
+
+Browser extension to create reliable selectors (CSS and Xpath) using AI - Intuned/selector-forge
+
+⬆️ 37 • 💬 2 • 1d ago • [GitHub](https://github.com/Intuned/selector-forge)
+
+---
+
 **[The anatomy of an AI-native org](https://news.ycombinator.com/item?id=48622815)**
 
 For thirty years we were glorified translators — business asked why, product defined what, engineering translated to how. AI just ate the translation step. The anatomy of the team that's left looks nothing like the one you have today.
@@ -265,45 +273,9 @@ For thirty years we were glorified translators — business asked why, product d
 
 ---
 
-**[Show HN: Selector Forge – browser extension for AI-generated resilient selectors](https://news.ycombinator.com/item?id=48630515)**
-
-Browser extension to create reliable selectors (CSS and Xpath) using AI - Intuned/selector-forge
-
-⬆️ 36 • 💬 2 • 1d ago • [GitHub](https://github.com/Intuned/selector-forge)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Tech stocks tumble over AI cost concerns](https://www.youtube.com/watch?v=Cjnppupu6gk)**
-
-A massive tech stock sell-off dragged down the S&P 500 and Nasdaq on Tuesday. CBS News senior business and technology ...
-
-📺 CBS News
-
-👁️ 5K • 👍 75 • 💬 28 • ⏱️ 3:15 • 8h ago
-
----
-
-**[AI in 2070😳only a few people will understand💀 #comedy #ai](https://www.youtube.com/watch?v=79hy6ZfKth4)**
-
-📺 marrkadams
-
-👁️ 1.0M • 👍 23K • 💬 772 • ⏱️ 0:28 • 1d ago
-
----
-
-**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
-
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
-
-📺 DeFranco News Clips
-
-👁️ 433K • 👍 26K • 💬 2K • ⏱️ 1:26 • 13h ago
-
----
 
 **[Mythos AI HACKED ENTIRE NSA In Hours, Top Intel Sen Says](https://www.youtube.com/watch?v=hD-UM8QzxV4)**
 
@@ -311,37 +283,7 @@ Krystal and Saagar discuss reports that Mythos AI was able to hack into classifi
 
 📺 Breaking Points
 
-👁️ 209K • 👍 6K • 💬 1K • ⏱️ 16:49 • 1d ago
-
----
-
-**[The AI Spending Collapse Has Already Begun…](https://www.youtube.com/watch?v=I8ijs4czL_0)**
-
-Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/mcp-poojadutt-DmHjkQ ✓ Tech Companies are ...
-
-📺 Pooja Dutt
-
-👁️ 6K • 👍 239 • 💬 53 • ⏱️ 14:28 • 15h ago
-
----
-
-**[Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed&#39;s Take](https://www.youtube.com/watch?v=t7N7eZ68yFg)**
-
-CNN's Fareed Zakaria looks at the battle between the Trump administration and Anthropic, and notes that the administration's ...
-
-📺 CNN
-
-👁️ 181K • 👍 3K • 💬 435 • ⏱️ 12:00 • 1d ago
-
----
-
-**[UN secretary-general says AI companies should share info about what&#39;s used to power their systems](https://www.youtube.com/watch?v=0m6ctOOS9v4)**
-
-United Nations Secretary-General António Guterres this week called on AI companies to release information about the carbon ...
-
-📺 Associated Press
-
-👁️ 12K • 👍 1K • 💬 56 • ⏱️ 0:39 • 14h ago
+👁️ 211K • 👍 6K • 💬 1K • ⏱️ 16:49 • 1d ago
 
 ---
 
@@ -351,7 +293,65 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 167K • 👍 6K • 💬 1K • ⏱️ 22:04 • 1d ago
+👁️ 178K • 👍 6K • 💬 1K • ⏱️ 22:04 • 1d ago
+
+---
+
+**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 501K • 👍 28K • 💬 2K • ⏱️ 1:26 • 17h ago
+
+---
+
+**[Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed&#39;s Take](https://www.youtube.com/watch?v=t7N7eZ68yFg)**
+
+CNN's Fareed Zakaria looks at the battle between the Trump administration and Anthropic, and notes that the administration's ...
+
+📺 CNN
+
+👁️ 187K • 👍 3K • 💬 442 • ⏱️ 12:00 • 1d ago
+
+---
+
+**[AI in 2070😳only a few people will understand💀 #comedy #ai](https://www.youtube.com/watch?v=79hy6ZfKth4)**
+
+📺 marrkadams
+
+👁️ 1.1M • 👍 24K • 💬 784 • ⏱️ 0:28 • 1d ago
+
+---
+
+**[Why Everyone Can Tell Your App Was Built by AI](https://www.youtube.com/watch?v=l-lfdm7bq6Q)**
+
+Apps built with Claude Code give themselves away, generic font, the AI glow around text, a basic dark theme. Three free tools fix ...
+
+📺 Sebastian Hardy | AI Marketing
+
+👁️ 4K • 👍 339 • 💬 66 • ⏱️ 0:43 • 13h ago
+
+---
+
+**[You NEED to try these 12 open-source AI projects RIGHT NOW](https://www.youtube.com/watch?v=2lmBj_XQq0I)**
+
+Try Merlin AI for only $5/month with discount code MATT5: https://www.getmerlin.in/pricing Loop Library: ...
+
+📺 Matthew Berman
+
+👁️ 23K • 👍 2K • 💬 95 • ⏱️ 15:13 • 9h ago
+
+---
+
+**[The True Cost of AI Hidden in Big Tech&#39;s Financials | WSJ’s Take On the Week](https://www.youtube.com/watch?v=YrJzjC4kKCY)**
+
+In this week's episode of WSJ's Take On the Week, host Telis Demos and Heard on the Street columnist Jonathan Weil sit down ...
+
+📺 WSJ Podcasts
+
+👁️ 131K • 👍 3K • 💬 327 • ⏱️ 29:06 • 2d ago
 
 ---
 
@@ -361,17 +361,17 @@ I wore the Looki L1 for a few days and it turned my actual day into comics and l
 
 📺 Kyle Krueger
 
-👁️ 159K • 👍 11K • 💬 278 • ⏱️ 0:59 • 1d ago
+👁️ 167K • 👍 11K • 💬 283 • ⏱️ 0:59 • 1d ago
 
 ---
 
-**[Meta Pauses AI-Traning Tool That Tracks Employees After Internal Leaks](https://www.youtube.com/watch?v=2b3IzVTncSs)**
+**[3 New PCs, One Giant AI Model… This Shouldn’t Work](https://www.youtube.com/watch?v=IMJxyrD7iOs)**
 
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+3 new Panther Lake NUCs. One 70B model. And a setup that should not be possible. Get 87% off Internxt's lifetime 5TB plan: ...
 
-📺 DeFranco News Clips
+📺 Alex Ziskind
 
-👁️ 310K • 👍 18K • 💬 500 • ⏱️ 1:07 • 9h ago
+👁️ 65K • 👍 2K • 💬 165 • ⏱️ 16:48 • 17h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 40,127 • ❤️ 2,225 • 1d ago
+⬇️ 40,127 • ❤️ 2,257 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 456,117 • ❤️ 2,250 • 5d ago
+⬇️ 456,117 • ❤️ 2,260 • 5d ago
 
 ---
 
@@ -411,7 +411,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 8,396 • ❤️ 527 • 22h ago
+⬇️ 8,396 • ❤️ 580 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 41,170 • ❤️ 671 • 4d ago
+⬇️ 41,170 • ❤️ 674 • 4d ago
 
 ---
 
@@ -435,7 +435,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 96,459 • ❤️ 461 • 4d ago
+⬇️ 96,459 • ❤️ 470 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 55,820 • ❤️ 309 • 14h ago
+⬇️ 55,820 • ❤️ 316 • 18h ago
 
 ---
 
@@ -459,19 +459,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 1,856 • ❤️ 227 • 4d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 3,955,016 • ❤️ 2,163 • 2mo ago
+⬇️ 1,856 • ❤️ 242 • 4d ago
 
 ---
 
@@ -483,7 +471,19 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 27,218 • ❤️ 198 • 1d ago
+⬇️ 27,218 • ❤️ 208 • 1d ago
+
+---
+
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, aggressive multimodal (text, image, video) language model based on Qwen3.6-35B-A3B, featuring a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context. It is designed for unrestricted text generation and image-text-to-text tasks, offering full content generation without refusals.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 3,955,016 • ❤️ 2,176 • 2mo ago
 
 ---
 
@@ -495,7 +495,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 `image-text-to-text` `3.8B`
 
-⬇️ 274,025 • ❤️ 2,325 • 11d ago
+⬇️ 274,025 • ❤️ 2,329 • 11d ago
 
 ---
 
@@ -511,7 +511,7 @@ LocateAnything-3B is a vision-language model for fast and high-quality visual gr
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 15 • 💬 0 • ⭐ 3,985 • 2d ago
+▲ 17 • 💬 0 • ⭐ 3,985 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -547,7 +547,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 183 • 💬 6 • ⭐ 5,295 • 4mo ago
+▲ 185 • 💬 6 • ⭐ 5,295 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -561,7 +561,7 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 245 • 💬 4 • ⭐ 8,985 • 1mo ago
+▲ 246 • 💬 4 • ⭐ 8,985 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -573,7 +573,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 8 • 💬 1 • ⭐ 8,574 • 5mo ago
+▲ 8 • 💬 1 • ⭐ 8,671 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -587,9 +587,21 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 22 • 💬 1 • ⭐ 83,494 • 22d ago
+▲ 22 • 💬 1 • ⭐ 83,577 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+
+---
+
+**[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://huggingface.co/papers/2606.23688)**
+
+*Yehonathan Litman, Xiaoxuan Ma, Manan Shah et al. (7 authors)*
+
+Lift4D presents a test-time optimization framework that combines temporal consistency from single-view 3D reconstruction with deformable 3D Gaussian Splatting and view-conditioned diffusion priors to reconstruct dynamic non-rigid objects from monocular video.
+
+▲ 2 • 💬 1 • ⭐ 108 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23688) • [💻 code](https://github.com/yehonathanlitman/Lift4D) • [🔗 project](https://lift4d.github.io/)
 
 ---
 
@@ -612,22 +624,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 82 • 💬 7 • ⭐ 78,127 • 23mo ago
+▲ 82 • 💬 7 • ⭐ 78,180 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 169 • 💬 2 • ⭐ 68,469 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -641,7 +640,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.0k • 🔱 10.0k • 7h ago
+⭐ 77.1k • 🔱 10.0k • 2h ago
 
 ---
 
@@ -651,7 +650,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 53.0k • 🔱 2.6k • 3h ago
+⭐ 53.5k • 🔱 2.7k • 6h ago
 
 ---
 
@@ -661,7 +660,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.5k • 🔱 986 • 45m ago
+⭐ 10.6k • 🔱 991 • 22m ago
 
 ---
 
@@ -671,7 +670,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 4.7k • 🔱 374 • 20m ago
+⭐ 4.9k • 🔱 379 • 30m ago
 
 ---
 
@@ -681,7 +680,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.6k • 🔱 545 • 3m ago
+⭐ 4.6k • 🔱 547 • 4m ago
 
 ---
 
@@ -691,7 +690,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.5k • 🔱 433 • 2d ago
+⭐ 3.5k • 🔱 435 • 2d ago
 
 ---
 
@@ -701,7 +700,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.2k • 🔱 210 • 1d ago
+⭐ 2.2k • 🔱 210 • 2d ago
 
 ---
 
@@ -711,7 +710,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.8k • 🔱 132 • 1d ago
+⭐ 1.8k • 🔱 135 • 1d ago
 
 ---
 
@@ -721,7 +720,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 150 • 7d ago
+⭐ 1.7k • 🔱 150 • 8d ago
 
 ---
 
@@ -731,7 +730,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Shell` `apple-intelligence`
 
-⭐ 1.5k • 🔱 84 • 10d ago
+⭐ 1.5k • 🔱 84 • 11d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T05:39:04.671574+00:00'
+updated: '2026-06-24T09:31:29.202868+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 05:39 UTC  
+**Last Updated:** June 24, 2026 at 09:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.9%  
-**30d:** -19.1%  
-**90d:** -15.8%  
-**1y:** -30.6%  
+**24h:** +1.0%  
+**7d:** -2.5%  
+**30d:** -19.5%  
+**90d:** -16.4%  
+**1y:** -31.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.74B
+**Market Cap:** $201.08B
 Rank #2
 
-**Circulating Supply:** 120,684,073 ETH
+**Circulating Supply:** 120,683,784 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.9%
+-66.3%
 
 **All-Time Low:** $0.43
-+401164.3%
++384715.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 11h ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 15h ago
 
 ---
 
@@ -80,7 +80,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Don't get me wrong. I understand why people enjoy trading, but I've always found the practical side of crypto more interesting. Being able to actually use it for something feels more satisfying than watching numbers move up and down all day. Not every company accepts crypto, but if you can use crypto to buy something you were already planning to buy anyway, that's still pretty interesting. As I see, utility has become way more interesting to me than speculation lately.
 
-8h ago
+12h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-ethereum.org • 16h ago
+ethereum.org • 20h ago
 
 ---
 
@@ -162,19 +162,33 @@ ethereum.org • 16h ago
 
 The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
 
-CoinDesk • 14h ago
+CoinDesk • 18h ago
 
 ---
 
-**[The company that owns 5% of ethereum could be coming to the Russell 1000](https://finance.yahoo.com/video/company-owns-5-ethereum-could-162650899.html)**
+**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON By Chainwire](https://www.investing.com/news/cryptocurrency-news/virell-trade-launches-stabliq-wallet-for-stablecoin-management-on-ethereum-and-tron-4757582)**
 
-Scott Melker discusses how BitMine Immersion Technologies (BMNR) — which controls 5% of all ethereum (ETH-USD) and is owned by Tom Lee — has become eligible to possibly be included on the Russell 1000 (^RUI).
+Investing.com • 27m ago
+
+---
+
+**[This company owns 5% of all ethereum—and it hits your 401(k) soon](https://finance.yahoo.com/video/company-owns-5-ethereum-hits-170250791.html)**
+
+Scott Melker discusses ethereum, BitMine Immersion Technologies, 401(k)s, Robinhood, and other big crypto headlines.
 
 "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
+
+Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+
+The Block • 1d ago
 
 ---
 
@@ -194,19 +208,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum's 'next phase' of growth](https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth)**
+**[Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape](https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape)**
 
-Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.
+Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.
 
-The Block • 1d ago
+The Block • 19h ago
 
 ---
 
-**[Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds](https://www.theblock.co/post/405486/taiko-confirms-exploit)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Drop Further Amid Global Chip Sell-Off: Analyst Flags 'The Most Importan](https://www.benzinga.com/crypto/cryptocurrency/26/06/60061465/bitcoin-ethereum-xrp-dogecoin-drop-amid-chip-sell-off-analyst-flags-key-btc-level)**
 
-Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.
+Leading cryptocurrencies cracked alongside stocks on Tuesday, June 23, after a sharp decline in chip-related stocks cast doubts on the sustainability of the AI rally.
 
-The Block • 2d ago
+Benzinga • 7h ago
 
 ---
 
@@ -214,23 +228,7 @@ The Block • 2d ago
 
 PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the tru...
 
-markets.businessinsider.com • 10h ago
-
----
-
-**[Current price of Ethereum for June 23, 2026](https://fortune.com/article/price-of-ethereum-06-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 16h ago
-
----
-
-**[Ethereum Foundation Executive Says MEV Is Becoming Crypto’s Next Cypherpunk Fight](https://www.tradingview.com/news/newsbtc:6a4fa3368094b:0-ethereum-foundation-executive-says-mev-is-becoming-crypto-s-next-cypherpunk-fight/)**
-
-TL;DRView original post on XThis article is based on public commentary by Bastian Aue, available at XEthereum’s internal debate over maximal extractable value has moved back into the spotlight after Ethereum Foundation executive Bastian Aue framed toxic MEV as a core protocol challenge rather than…
-
-TradingView • 14h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -244,7 +242,7 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 382 • 💬 182 • ⏱️ 14:53 • 13h ago
+👁️ 12K • 👍 411 • 💬 216 • ⏱️ 14:53 • 17h ago
 
 ---
 
@@ -254,7 +252,7 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 83 • 💬 14 • ⏱️ 16:03 • 12h ago
+👁️ 2K • 👍 89 • 💬 16 • ⏱️ 16:03 • 16h ago
 
 ---
 
@@ -264,17 +262,7 @@ Open an account at iTrust Capital and legally avoid taxes on your bitcoin and cr
 
 📺 Brian Harrington
 
-👁️ 2K • 👍 89 • 💬 34 • ⏱️ 9:26 • 13h ago
-
----
-
-**[🚨 Tom Lee bought MORE ETHEREUM!](https://www.youtube.com/watch?v=u8fRO-YBnC0)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 477 • 👍 90 • 💬 7 • ⏱️ 11:20 • 3h ago
+👁️ 2K • 👍 92 • 💬 35 • ⏱️ 9:26 • 17h ago
 
 ---
 
@@ -288,11 +276,23 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 ---
 
-**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
+**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
 
-📺 CryptoWendyO
+Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-👁️ 3K • 👍 353 • 💬 5 • ⏱️ 2:17 • 4h ago
+📺 Lark Davis
+
+👁️ 19K • 👍 774 • 💬 124 • ⏱️ 20:58 • 21h ago
+
+---
+
+**[🚨 Tom Lee bought MORE ETHEREUM!](https://www.youtube.com/watch?v=u8fRO-YBnC0)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 855 • 👍 132 • 💬 8 • ⏱️ 11:20 • 7h ago
 
 ---
 
@@ -302,27 +302,7 @@ BITCOIN WARNING: This Could Get UGLY (Exact Prediction)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 6K • 👍 321 • 💬 385 • ⏱️ 21:18 • 10h ago
-
----
-
-**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
-
-Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 18K • 👍 761 • 💬 121 • ⏱️ 20:58 • 17h ago
-
----
-
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
-
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
-
-📺 Jake Gordon Crypto
-
-👁️ 1K • 👍 92 • 💬 21 • ⏱️ 14:40 • 1d ago
+👁️ 7K • 👍 349 • 💬 410 • ⏱️ 21:18 • 14h ago
 
 ---
 
@@ -333,6 +313,26 @@ Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise 
 📺 Altcoin Daily
 
 👁️ 38K • 👍 2K • 💬 161 • ⏱️ 13:42 • 2d ago
+
+---
+
+**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+
+Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+
+📺 Jake Gordon Crypto
+
+👁️ 2K • 👍 96 • 💬 47 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=whutyyBYi5g)**
+
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 682 • 👍 86 • ⏱️ 6:38 • 5h ago
 
 ---
 
