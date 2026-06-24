@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-23T23:11:23.259551+00:00'
+updated: '2026-06-24T01:25:57.040173+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 23, 2026 at 23:11 UTC  
+**Last Updated:** June 24, 2026 at 01:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,562.85
+### $62,941.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -3.0%  
-**30d:** -19.2%  
-**90d:** -9.1%  
-**1y:** -41.0%  
+**24h:** -2.0%  
+**7d:** -0.1%  
+**30d:** -17.1%  
+**90d:** -5.3%  
+**1y:** -41.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1252.03B
+**Market Cap:** $1258.67B
 Rank #1
 
-**Circulating Supply:** 20,047,075 BTC
+**Circulating Supply:** 20,047,125 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.5%
+-50.2%
 
 **All-Time Low:** $67.81
-+92010.3%
++92507.3%
 
 ---
 
@@ -165,7 +165,23 @@ I've bought bitcoin about 24 hrs ago using coinflip and its been on pending for 
 
 Bitcoin tumbled with the rest of the market on Tuesday.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin price analysis: BTC may be close to a bottom. Here's why.](https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests)**
+
+BTC's long-term moving averages are set to flash a bearish signal soon. Yet, its good news for the bulls.
+
+CoinDesk • 17h ago
+
+---
+
+**['Quarter-end catalyst or consolidation?': Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry](https://www.theblock.co/post/405831/quarter-end-catalyst-consolidation-bitcoin-below-63000-etf-outflows-10-6-billion-options-expiry)**
+
+Bitcoin trades under $63,000 ahead of PCE data Thursday on, which analysts say is the market's next key test.
+
+The Block • 7h ago
 
 ---
 
@@ -175,31 +191,19 @@ Barron's • 1d ago
 
 ---
 
-**[Could Adam Back's bitcoin treasury group go public via SPAC this week?](https://finance.yahoo.com/video/could-adam-backs-bitcoin-treasury-220000155.html)**
+**[Current price of Bitcoin for June 23, 2026](https://fortune.com/article/price-of-bitcoin-06-23-2026/)**
 
-Scott Melker discusses the possibility of Bitcoin Standard Treasury Company (BSTR) — a big-time bitcoin (BTC-USD) buyer headed by Adam Back  — going public via a SPAC merger as soon as this Friday, June 23.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1h ago
+Fortune • 12h ago
 
 ---
 
-**[Save 60% on this desktop Bitcoin miner that’s smaller than a deck of cards](https://mashable.com/tech/june-23-bitcoin-ticket-miner)**
+**[Inflation run-up doesn't mean you should run toward cryptocurrency](https://www.freep.com/story/money/personal-finance/susan-tompor/2026/06/23/bitcoin-investment-buzzes-as-an-inflation-hedge-but-is-it/90606419007/)**
 
-A low-power way to try Bitcoin mining.
+One expert has seen no evidence that cryptocurrency will provide any protection against inflation for investors. What's behind the argument.
 
-Mashable • 1h ago
-
----
-
-**[BITO’s 0.95% Fee Is Only Half the Problem. Here’s Why Bitcoin Futures Cost You 2.9% Annually](https://finance.yahoo.com/markets/crypto/articles/bito-0-95-fee-only-224129632.html)**
-
-Bitcoin is up 84.59% over the past five years. ProShares Bitcoin Strategy ETF (NYSEARCA:BITO), the fund millions of investors bought to ride that exact wave, is down 24.26% over the same window. That gap is the hidden cost. What You’re Actually Paying Start with the sticker price. BITO charges a 0.95% net expense ratio, per ... BITO’s 0.95% Fee Is Only Half the Problem. Here’s Why Bitcoin Futures Cost You 2.9% Annually
-
-Yahoo Finance • 29m ago
+Detroit Free Press • 4h ago
 
 ---
 
@@ -215,31 +219,23 @@ CNBC • 3d ago
 
 Vaulted CEO David McAlvany says quantum computing could end Bitcoin within four years as central banks pile into gold. Olympian Lauryn Williams is now paid in metal.
 
-Forbes • 7h ago
+Forbes • 9h ago
 
 ---
 
-**[David Bailey's Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion](https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion)**
+**[MiCA Deadline Looms: One Bitcoin Firm Keeps Privacy Tools And Wallet Control Fully Intact](https://bitcoinmagazine.com/business/bull-bitcoin-secures-mica-license-in-france-preserving-full-self-custody-and-privacy-features)**
 
-Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.
+Self-funded, sovereign, and now EU-passported — this Montreal-founded Bitcoin company is rewriting the compliance playbook for the entire industry.
 
-The Block • 13h ago
-
----
-
-**[Quantum computing is often seen as a risk to bitcoin. Now Trump wants to develop it.](https://www.coindesk.com/tech/2026/06/23/trump-signs-orders-to-build-a-quantum-computer-and-protect-against-the-one-that-could-break-encryption)**
-
-The White House issued twin executive orders to accelerate U.S. development of large-scale quantum computers while simultaneously hardening defenses against such machines.
-
-CoinDesk • 17h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Trump’s White House Teases Quantum Push: Is Bitcoin’s Next Big Narrative Here?](https://finance.yahoo.com/markets/crypto/articles/trump-white-house-teases-quantum-191356598.html)**
+**[If You Had Invested $10,000 in Bitcoin 10 Years Ago, Here's How Much You Would Have Today](https://www.fool.com/investing/2026/06/22/you-invested-10000-bitcoin-10-years-ago-how-much/)**
 
-A White House quantum push revives Bitcoin quantum risk as CZ debates freezing Satoshi's dormant coins after a fork.
+When it comes to the leading cryptocurrency, patience has always been rewarded.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -297,7 +293,7 @@ Many advisors and money-managers invested in index funds who will soon be owners
 
 Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that institutions will place on it with stablecoins, tokenization and AI.
 
-⬆️ 2 • 💬 0 • 18h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
+⬆️ 2 • 💬 0 • 20h ago • [Tech Sentiments](https://www.techsentiments.com/article/2026/06/22/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit-d0cf)
 
 ---
 
@@ -311,37 +307,27 @@ Everybody's asking the same question: where's the bottom? But that's the wrong q
 
 📺 Mark Moss
 
-👁️ 15K • 👍 1K • 💬 160 • ⏱️ 17:22 • 4h ago
+👁️ 26K • 👍 2K • 💬 362 • ⏱️ 17:22 • 6h ago
 
 ---
 
-**[Bitcoin Crashes as Global Markets Meltdown...](https://www.youtube.com/watch?v=reF-aXwPdDA)**
+**[The Truth Behind Bitcoin&#39;s Crash, And What Comes Next!](https://www.youtube.com/watch?v=3bgffQEzsQ0)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Bitcoin has lost its momentum, but the real story may have nothing to do with price. From AI stock mania and retail speculation to ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 889 • 💬 79 • ⏱️ 51:25 • 8h ago
-
----
-
-**[Everything Crashing!?🔥A.I. Bubble vs Crypto💥Market Update](https://www.youtube.com/watch?v=8B0Pjja7nqw)**
-
-Another wave of panic has hit the crypto market. Bitcoin is falling, Ethereum is bleeding, and altcoins are rapidly losing momentum ...
-
-📺 Paul Barron Network
-
-👁️ 12K • 👍 1K • 💬 105 • ⏱️ 17:52 • 4h ago
+👁️ 4K • 👍 517 • 💬 214 • ⏱️ 16:50 • 2h ago
 
 ---
 
-**[When Will The Bitcoin Bear Market End?](https://www.youtube.com/watch?v=831S8BkI98Y)**
+**[Bitcoin Holders!! Most People Have No Idea What’s Coming!](https://www.youtube.com/watch?v=_R_p-0rtacw)**
 
-Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how long it could last, and why the data suggests we ...
+Crypto Fear Is Exploding.. But Most People Are Missing What Comes Next ⭐ Follow Altcoin Daily on X: ...
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 38K • 👍 1K • 💬 25 • ⏱️ 14:10 • 1d ago
+👁️ 5K • 👍 815 • 💬 120 • ⏱️ 10:48 • 2h ago
 
 ---
 
@@ -351,7 +337,45 @@ The US government is quietly turning AI into the next “too big to fail” indu
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 118 • ⏱️ 18:52 • 2d ago
+👁️ 18K • 👍 1K • 💬 138 • ⏱️ 18:52 • 2d ago
+
+---
+
+**[When Will The Bitcoin Bear Market End?](https://www.youtube.com/watch?v=831S8BkI98Y)**
+
+Anthony Pompliano breaks down the bitcoin bear market — what's driving it, how long it could last, and why the data suggests we ...
+
+📺 Anthony Pompliano
+
+👁️ 40K • 👍 2K • 💬 25 • ⏱️ 14:10 • 1d ago
+
+---
+
+**[LOOK The Real Reason XRP Is Separating From Bitcoin &amp; Ethereum Right Now #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=D3v-WVejs2A)**
+
+📺 CryptoWendyO
+
+👁️ 589 • 👍 66 • 💬 3 • ⏱️ 2:17 • 25m ago
+
+---
+
+**[$14T Bitcoin Move - BlackRock Just Did This](https://www.youtube.com/watch?v=U8_1mjZDOK4)**
+
+Subscribe. Before the panic turns into hindsight. Bitcoin is down. Stocks are down. Crypto is bleeding. More than $500 million in ...
+
+📺 Bitcoin News Alerts
+
+👁️ 763 • 👍 95 • 💬 75 • ⏱️ 18:06 • 3h ago
+
+---
+
+**[Bitcoin Crashes as Global Markets Meltdown...](https://www.youtube.com/watch?v=reF-aXwPdDA)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 914 • 💬 292 • ⏱️ 51:25 • 10h ago
 
 ---
 
@@ -361,7 +385,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BT
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 351 • 💬 23 • ⏱️ 24:48 • 6h ago
+👁️ 3K • 👍 380 • 💬 189 • ⏱️ 24:48 • 8h ago
 
 ---
 
@@ -371,37 +395,7 @@ Elon Musk's trillion-dollar fortune, JD Vance's warning about AI surveillance, t
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 112 • ⏱️ 15:35 • 1d ago
-
----
-
-**[WTF Just Happened? [CRASH ALERT]](https://www.youtube.com/watch?v=AKykGbjjKso)**
-
-Bitcoin, Ethereum, SpaceX, stocks dropping hard and fast BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 17K • 👍 718 • 💬 110 • ⏱️ 20:58 • 10h ago
-
----
-
-**[Billionaire investor Philippe Laffont: There will be a $10 trillion company in the future](https://www.youtube.com/watch?v=xCrvqmWCpHA)**
-
-Philippe Laffont, Coatue Management founder and portfolio manager, joins 'Squawk Box' to discuss the state of the AI boom, ...
-
-📺 CNBC Television
-
-👁️ 29K • 👍 396 • 💬 163 • ⏱️ 8:41 • 10h ago
-
----
-
-**[BITCOIN: ACCUMULATION TIME](https://www.youtube.com/watch?v=M-N8kJyoxIY)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 7K • 👍 491 • 💬 113 • ⏱️ 16:05 • 23h ago
+👁️ 22K • 👍 2K • 💬 110 • ⏱️ 15:35 • 1d ago
 
 ---
 
