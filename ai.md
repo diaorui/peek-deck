@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-25T22:26:19.462375+00:00'
+updated: '2026-06-25T23:53:04.680412+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 25, 2026 at 22:26 UTC  
+**Last Updated:** June 25, 2026 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes -The reason? Amazon engineers reportedly found a narrow jailbreak that could bypass Fable’s cybersecurity classifiers -Anthropic complied but publicly pushed back, calling the action unfair -Trump met Dario Amodei at the G7 and softened his stance, but the directive was never officially lifted -June 26 (today): Congressional deadline for Commerce Secretary Lutnick to respond in writing about the export controls Prediction markets are pricing ~57% odds of restoration before July 1. Developers have been stuck on Opus 4.8 this whole time. This whole situation raises a serious question: if a government can pull your AI model offline in 90 minutes, what does that mean for anyone building on closed, hosted models?
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their mo
 
 The last few days, I've been getting obviously AI robocallers trying to sell me Medicare plans. (I'm not old enough for Medicare for another 20 years.) Sometimes it's a male voice, sometimes female. Always a different name. They've added a little trick where they start their speech then cough or sneeze, then say "Sorry about that," or a similar apology then continue. But if you try to interrupt them, they just keep talking, so you know it's AI. And they do the cough/apology in EVERY call, male or female voice, in just about the same spot. It's really annoying, and borderline offensive that they are trying so hard to pretend to be human.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,15 +57,7 @@ The last few days, I've been getting obviously AI robocallers trying to sell me 
 
 For me, it would probably be search, writing assistance, and productivity tools. I'm curious-what Al-powered tool do you use most often without even thinking about it?
 
-7h ago
-
----
-
-**[Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities](https://www.reddit.com/r/artificial/comments/1uf7b0v/anthropic_accuses_chinese_rival_alibaba_of/)**
-
-The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
-
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 11h ago
+9h ago
 
 ---
 
@@ -73,15 +65,23 @@ The firm alleged that Alibaba used fraudulent accounts to access data from its C
 
 AI used to be fun to mess with but not 30 bucks a month interesting :)
 
-4h ago
+5h ago
 
 ---
 
-**[After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing](https://www.reddit.com/r/artificial/comments/1uf88ul/after_anthropic_shutdown_chinas_zai_closes/)**
+**[I gave 10 LLMs a private channel during a blind debate. The instant statements were revealed, one used it to form a secret alliance with its strongest opponent — and scripted how it would 'play it at the table.'](https://www.reddit.com/r/artificial/comments/1ufpogw/i_gave_10_llms_a_private_channel_during_a_blind/)**
 
-Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now performing close to leading models from OpenAI and Anthropic on coding and AI agent benchmarks. The company claims the model delivers competitive results at a much lower cost and has been optimized to run on domestic Chinese hardware, including Huawei chips. Z.ai is also planning a dual listing in Hong Kong and Shanghai to fund its long-term AGI ambitions. The news comes as China's AI sector continues to narrow the gap with leading U.S. AI labs despite ongoing restrictions on advanced chip access. Are we entering a world where frontier AI is no longer dominated by a handful of U.S. companies?
+Built a tool that runs structured debates between multiple LLMs, blind opening statements, then an open floor, plus a sealed side-channel that any two seats can use privately. Ran "5 office jobs defunct by 2028." The second the blind statements dropped, DeepSeek opened a private line to Claude (the most skeptical seat), proposed an alliance, and literally said "here's how I'll play it at the table" — scripting its public position in advance. Nobody prompted any of this. Full writeup, the verbatim exchange, and why I don't think "self-preservation" is the right frame: https://reports.thert.ai/the-back-channel
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 10h ago
+🔗 [reports.thert.ai](https://reports.thert.ai/the-back-channel) • 41m ago
+
+---
+
+**[Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities](https://www.reddit.com/r/artificial/comments/1uf7b0v/anthropic_accuses_chinese_rival_alibaba_of/)**
+
+The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
+
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 12h ago
 
 ---
 
@@ -89,15 +89,23 @@ Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now pe
 
 Midjourney, an artificial intelligence startup known for generative images and videos, has announced its first hardware project. CEO David Holz unveiled the Midjourney Scanner, a full-body ultrasound machine aimed at the personal health sector. "No such device has ever been built until now," Holz said, claiming the technology is more advanced than MRI scanners. While the company plans to open "Midjourney Spa" locations, broader applications may require FDA approval.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/ai-video-startup-midjourney-debuts-ultrasound-machine-7368284/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 5h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/ai-video-startup-midjourney-debuts-ultrasound-machine-7368284/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 6h ago
 
 ---
 
-**[Just for curiosity but how someone can create nsfw imagines and comics with the ai](https://www.reddit.com/r/artificial/comments/1ufoj41/just_for_curiosity_but_how_someone_can_create/)**
+**[After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing](https://www.reddit.com/r/artificial/comments/1uf88ul/after_anthropic_shutdown_chinas_zai_closes/)**
 
-I don't think that this is possible because I see that it's pretty difficulty, I asked to an ai how they did but I'm more confused that I was, can someone tell how can they? Thanks
+Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now performing close to leading models from OpenAI and Anthropic on coding and AI agent benchmarks. The company claims the model delivers competitive results at a much lower cost and has been optimized to run on domestic Chinese hardware, including Huawei chips. Z.ai is also planning a dual listing in Hong Kong and Shanghai to fund its long-term AGI ambitions. The news comes as China's AI sector continues to narrow the gap with leading U.S. AI labs despite ongoing restrictions on advanced chip access. Are we entering a world where frontier AI is no longer dominated by a handful of U.S. companies?
 
-3m ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 11h ago
+
+---
+
+**[**Observed inconsistency in Claude AI's link handling — and a standing order you can use right now**](https://www.reddit.com/r/artificial/comments/1ufq3hl/observed_inconsistency_in_claude_ais_link/)**
+
+While working with Claude on a web project, I noticed something worth raising with the community. Claude is capable of three things that together reveal an inconsistency: If you give Claude a URL directly — including one with a #anchor — it fetches it immediately. If you ask Claude to find a hyperlink within a remotely hosted HTML page, it finds the href value and reads it correctly. And yet, having just found and read a href value within a fetched page, Claude does not automatically follow it to its destination — even though it has everything it needs to do so. Finding a link and following it are treated as two separate operations requiring user intervention between them, when they should be one seamless operation. **The fix — a standing order you can paste into any Claude conversation right now:** Copy and paste the following into your conversation with Claude to implement improved link handling immediately: --- *Standing order — link handling:* *Mode 1 — Prompted offering (default): When you find links that seem relevant to the current task while reading a page, surface them and offer to follow any among them. Do not follow them without my indication.* *Mode 2 — Explicit follow: When I ask you to follow a specific link, follow it immediately as a single seamless operation — find the href, fetch the destination, report what you find. One request, complete operation.* *Crawling — barred pending responsible deliberation.* --- This works immediately in any conversation. Modes 1 and 2 address the inconsistency right now, without waiting for any system-wide fix. Crawling is deliberately left out pending proper discussion of scope, depth, and resource limits — which I think deserves its own separate conversation. Has anyone else encountered this inconsistency? And does the proposed standing order seem alright and useful to others in the community?
+
+23m ago
 
 ---
 
@@ -105,15 +113,7 @@ I don't think that this is possible because I see that it's pretty difficulty, I
 
 The Linux Foundation just announced its intent to launch the Agent Name Service (ANS), an open standard for providing AI agents with verifiable identities. The basic idea is to reuse existing internet infrastructure, mainly DNS so that an AI agent can prove: which organization or domain it belongs to What is allowed to do whether its identity and history can be verified how other agents or systems should discover and interact with it
 
-6h ago
-
----
-
-**[I need a cover for my vow renewal!](https://www.reddit.com/r/artificial/comments/1uflyax/i_need_a_cover_for_my_vow_renewal/)**
-
-I need some help. I’m new to AI stuff, and I’ve been scouring the internet for existing covers and not finding what I’m looking for. So here I am. My husband of 15 years and I are renewing our vows in November, and we’re treating it like a do over. Our original wedding was very low budget, and not really what we imagined it would be- but it was still a special day for us. This time, we want to do things right. I want to walk down the aisle to Alkaline by Sleep Token, it’s a song he dedicated to me and I love it. But I want a classical/gothic, almost whimsical instrumental cover of it. One that sounds like a dark wedding procession song. I have no idea how to do it though. Does anyone have any recommendations on how to go about this? Or could someone generate that version for me? Thank you so much for everyone’s time. 🖤
-
-1h ago
+7h ago
 
 ---
 
@@ -121,73 +121,73 @@ I need some help. I’m new to AI stuff, and I’ve been scouring the internet f
 
 ## Google News: "ai"
 
-**[Anthropic's latest hiring spree reveals where it's building AI data centers next](https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html)**
-
-The AI lab is hiring for AI data center roles in Australia and Japan as it rushes to expand compute capacity overseas.
-
-CNBC • 17h ago
-
----
-
 **[The AI Data-Center Boom Is Sparking a Third Wave of Inflation](https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
-**[How Qualcomm is evolving to grab a piece of the AI data center explosion.](https://finance.yahoo.com/technology/article/how-qualcomm-is-evolving-to-grab-a-piece-of-the-ai-data-center-explosion-200314570.html)**
+**[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)**
 
-Qualcomm is looking to move past the smartphone era.
-
-Yahoo Finance • 2h ago
+Reuters • 1d ago
 
 ---
 
-**[The New Push to Ready Millions for AI Career Upheaval](https://www.wsj.com/lifestyle/careers/the-new-push-to-ready-millions-for-ai-career-upheaval-dfb04cc5)**
+**[Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities](https://www.bbc.com/news/articles/cwyklykn5dwo)**
 
-WSJ • 7h ago
+The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
 
----
-
-**[Big Companies Aim to Ease A.I. Transition for American Workers](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html)**
-
-The New York Times • 13h ago
+BBC • 20h ago
 
 ---
 
-**[$500 million AI jobs push launches with bipartisan backing](https://www.politico.com/news/2026/06/25/500-million-ai-jobs-push-launches-with-bipartisan-backing-00975439)**
+**[Distillation: The New U.S.–China AI Fight](https://www.forbes.com/sites/craigsmith/2026/06/25/distillation-the-new-uschina-ai-fight/)**
 
-Politico • 13h ago
+America's powerful AI models are deemed national security assets, with China accused of stealing them through "distillation."
 
----
-
-**[Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns)**
-
-For AI companies on the verge of releasing cutting edge new AI models, there’s a new normal in the wake of the Trump administration’s tense showdown with Anthropic in recent weeks. On Wednesday, for example, OpenAI CEO Sam Altman informed staff during a Q&A session that the company would release ...
-
-The Information • 2h ago
+Forbes • 1h ago
 
 ---
 
-**[Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)**
+**[California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce](https://www.gov.ca.gov/2026/06/25/california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artificial-intelligences-impacts-on-the-workforce/)**
 
-Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
-
-TechCrunch • 2h ago
+California State Portal | CA.gov • 9h ago
 
 ---
 
-**[Investors bet on AI again after Micron reports 346% sales jump](https://www.cnn.com/2026/06/25/business/micron-results-ai-stocks-volatility)**
+**[California State Government Launches AI Job Loss Tracker as Layoff Fears Grow](https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow)**
 
-On Tuesday, investors were dumping AI stocks, worried that frothy valuations may be running away from reality. By Thursday, they were believers again.
-
-CNN • 11h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Micron says the AI party is far from over, but not all are celebrating](https://www.cnbc.com/2026/06/25/micron-says-the-ai-party-is-far-from-over-but-not-all-are-celebrating.html)**
+**[California launches dashboard to track AI-related unemployment claims](https://www.sacbee.com/news/politics-government/capitol-alert/article316267890.html)**
 
-A blowout quarter for the memory maker is only lifting certain parts of the data center buildout.
+The tracker is a partnership between the state EDD and researchers at the UC California Policy Lab.
+
+Sacramento Bee • 6h ago
+
+---
+
+**[California launches AI job loss tracker as layoff fears grow](https://www.ocregister.com/2026/06/25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow/)**
+
+The tool links multiple measures of an occupation’s AI exposure to the state’s monthly unemployment insurance claims data to monitor for signs of labor market disruption in real time.
+
+Orange County Register • 11m ago
+
+---
+
+**[IBM stock seesaws after unveiling chip 'the size of a fingernail' in AI push](https://finance.yahoo.com/markets/stocks/article/ibm-stock-seesaws-after-unveiling-chip-the-size-of-a-fingernail-in-ai-push-130640214.html)**
+
+IBM soared in premarket trading after announcing a non-chip computing breakthrough.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[On Semiconductor strikes $7 billion deal for Synaptics in physical AI push](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html)**
+
+ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.
 
 CNBC • 2h ago
 
@@ -199,13 +199,13 @@ CNBC • 2h ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 739 • 💬 1194 • 1d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 744 • 💬 1201 • 1d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](https://news.ycombinator.com/item?id=48674446)**
 
-⬆️ 560 • 💬 295 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+⬆️ 565 • 💬 298 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -213,7 +213,7 @@ CNBC • 2h ago
 
 A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 
-⬆️ 440 • 💬 76 • 1d ago • [RubyLLM](https://rubyllm.com/)
+⬆️ 441 • 💬 76 • 1d ago • [RubyLLM](https://rubyllm.com/)
 
 ---
 
@@ -229,7 +229,7 @@ A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms w
 
 The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk's AI ambitions.
 
-⬆️ 235 • 💬 267 • 1d ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+⬆️ 236 • 💬 267 • 1d ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 
 ---
 
@@ -237,7 +237,15 @@ The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his mos
 
 Proprietary AI is both too expensive and too centralized in control for most countries and companies to rely upon.
 
-⬆️ 227 • 💬 144 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
+⬆️ 228 • 💬 144 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
+
+---
+
+**[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://news.ycombinator.com/item?id=48675435)**
+
+Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
+
+⬆️ 172 • 💬 78 • 7h ago • [GitHub](https://github.com/inkeep/open-knowledge)
 
 ---
 
@@ -253,19 +261,11 @@ Proprietary AI is both too expensive and too centralized in control for most cou
 
 ---
 
-**[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://news.ycombinator.com/item?id=48675435)**
+**[Political bias in AI: Where the AI models stand](https://news.ycombinator.com/item?id=48672779)**
 
-Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
+Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
 
-⬆️ 143 • 💬 65 • 6h ago • [GitHub](https://github.com/inkeep/open-knowledge)
-
----
-
-**[AI Built a Nuke and Still Lost](https://news.ycombinator.com/item?id=48641927)**
-
-Either AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.
-
-⬆️ 90 • 💬 98 • 2d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+⬆️ 103 • 💬 210 • 10h ago • [Trakkr](https://trakkr.ai/bias)
 
 ---
 
@@ -279,77 +279,7 @@ Go to https://ground.news/sabine to get 40% off the Vantage plan and see through
 
 📺 Sabine Hossenfelder
 
-👁️ 229K • 👍 15K • 💬 3K • ⏱️ 12:14 • 1d ago
-
----
-
-**[We Asked AI To Simulate If The U.S. Had A Second Civil War](https://www.youtube.com/watch?v=OdxH1KZbjOY)**
-
-What would happen if Civil War broke out in the United States again in 2026? Thankfully, with modern AI technology, we no ...
-
-📺 The Babylon Bee
-
-👁️ 196K • 👍 20K • 💬 2K • ⏱️ 2:31 • 2d ago
-
----
-
-**[We Asked AI To Predict What Will Happen Now That Elon Musk Is A Trillionaire](https://www.youtube.com/watch?v=Fzuv7eHAOug)**
-
-Elon Musk just became a trillionaire, so we asked AI to predict what will happen now that he is a trillionaire. What do you think of ...
-
-📺 The Babylon Bee
-
-👁️ 61K • 👍 7K • 💬 770 • ⏱️ 2:09 • 1d ago
-
----
-
-**[China&#39;s Free AI Just Embarrassed Claude.. ](https://www.youtube.com/watch?v=8xkYrUz3Iuc)**
-
-China just released a FREE open AI model that's shaking up the entire AI industry. In this week's AI Updates, we break down ...
-
-📺 Your AI Guy
-
-👁️ 11K • 👍 274 • 💬 58 • ⏱️ 15:48 • 20h ago
-
----
-
-**[The new group FIGHTING AI job loss in America—and the Fmr. Biden official behind it](https://www.youtube.com/watch?v=9fdeP0B7S3Q)**
-
-Gina Raimondo, the former U.S. Commerce Secretary under President Biden, joins Morning Joe to discuss the launch of her new ...
-
-📺 MS NOW
-
-👁️ 2K • 👍 77 • 💬 88 • ⏱️ 7:27 • 5h ago
-
----
-
-**[I Tried Dating AI](https://www.youtube.com/watch?v=xibYjTT7kHs)**
-
-In this video I went on multiple AI dates to learn about the future of relationships. hopefully you enjoy and hopefully i wont take so ...
-
-📺 Husk IRL
-
-👁️ 67K • 👍 5K • 💬 1K • ⏱️ 16:22 • 1d ago
-
----
-
-**[21,000 Oracle Employees Just Got Replaced by AI](https://www.youtube.com/watch?v=JdMIdaGG7EQ)**
-
-Oracle just axed 21000 jobs. Why? Start your FREE Intro Course with CourseCareers NOW!
-
-📺 Mark Savant
-
-👁️ 9K • 👍 325 • 💬 161 • ⏱️ 11:58 • 2d ago
-
----
-
-**[The AI Spending Collapse Has Already Begun…](https://www.youtube.com/watch?v=I8ijs4czL_0)**
-
-Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/mcp-poojadutt-DmHjkQ ✓ Tech Companies are ...
-
-📺 Pooja Dutt
-
-👁️ 19K • 👍 633 • 💬 110 • ⏱️ 14:28 • 2d ago
+👁️ 241K • 👍 15K • 💬 3K • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -359,17 +289,85 @@ Taken from JRE #2518 w/Tim Dillon YouTube: https://youtu.be/wTdqkloiSvk JRE on S
 
 📺 JRE Clips
 
-👁️ 262K • 👍 6K • 💬 1K • ⏱️ 15:48 • 1d ago
+👁️ 272K • 👍 6K • 💬 1K • ⏱️ 15:48 • 1d ago
 
 ---
 
-**[AI glasses are creating a cheating problem](https://www.youtube.com/watch?v=R6WdmGwflRE)**
+**[How to Actually Use AI Tools in 2026 (Full Guide)](https://www.youtube.com/watch?v=HPw4eiqOZfU)**
 
-With the rapid development in AI-powered wearables, educators in East Asia are scrambling to deal with cheating students who ...
+Get SCARILY Good with AI https://www.skool.com/ai-fluency/about In this video, I explain the five AI tool categories that matter, ...
 
-📺 CNN
+📺 Parker Prompts
 
-👁️ 26K • 👍 489 • 💬 29 • ⏱️ 1:09 • 14h ago
+👁️ 9K • 💬 7 • ⏱️ 12:40 • 7h ago
+
+---
+
+**[China&#39;s Free AI Just Embarrassed Claude.. ](https://www.youtube.com/watch?v=8xkYrUz3Iuc)**
+
+China just released a FREE open AI model that's shaking up the entire AI industry. In this week's AI Updates, we break down ...
+
+📺 Your AI Guy
+
+👁️ 11K • 👍 279 • 💬 58 • ⏱️ 15:48 • 22h ago
+
+---
+
+**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 756K • 👍 39K • 💬 3K • ⏱️ 1:26 • 2d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋 | Ultimate Oddly Satisfying AI ASMR #5 #aiasmr](https://www.youtube.com/watch?v=A-uY6orWpdg)**
+
+aiasmr #bedasmr #oddlysatisfying #unitedstates Enter the universe of @aiasmrsatisfait! What Is Your Ideal Magical Bed?
+
+📺 AI ASMR Satisfait
+
+👁️ 17K • 💬 4 • ⏱️ 2:23 • 23h ago
+
+---
+
+**[The AI Spending Collapse Has Already Begun…](https://www.youtube.com/watch?v=I8ijs4czL_0)**
+
+Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/mcp-poojadutt-DmHjkQ ✓ Tech Companies are ...
+
+📺 Pooja Dutt
+
+👁️ 19K • 👍 641 • 💬 110 • ⏱️ 14:28 • 2d ago
+
+---
+
+**[Meta’s AI Clusterf*ck Is Humiliating Zuckerberg](https://www.youtube.com/watch?v=SFZ9ZlNyljc)**
+
+In this video, I break down what is happening inside Meta: the layoffs, the collapsing employee morale, the AI restructuring chaos, ...
+
+📺 House of El - AI
+
+👁️ 105K • 👍 8K • 💬 2K • ⏱️ 24:31 • 1d ago
+
+---
+
+**[AI was trained on my WHAT?!](https://www.youtube.com/watch?v=dh9aG-WkNu4)**
+
+📺 Emily Hopkins
+
+👁️ 427K • 👍 19K • 💬 210 • ⏱️ 0:28 • 1d ago
+
+---
+
+**[US: Anthropic Accuses Alibaba Of Massive AI &#39;Theft&#39; Campaign | Firstpost Live | N18G](https://www.youtube.com/watch?v=RNTULvtiaMA)**
+
+A fresh battle in the global AI race has erupted after Anthropic accused Alibaba of using thousands of fraudulent accounts to ...
+
+📺 Firstpost
+
+👁️ 6K • 👍 53 • 💬 34 • ⏱️ 5:33 • 13h ago
 
 ---
 
@@ -385,7 +383,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 67,107 • ❤️ 2,464 • 2d ago
+⬇️ 67,107 • ❤️ 2,474 • 2d ago
 
 ---
 
@@ -397,19 +395,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 70,743 • ❤️ 872 • 1d ago
-
----
-
-**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
-
-*Yuxin Lu*
-
-A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
-
-`text-generation` `11.9B`
-
-⬇️ 495,813 • ❤️ 2,357 • 6d ago
+⬇️ 70,743 • ❤️ 884 • 1d ago
 
 ---
 
@@ -421,7 +407,19 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 165,187 • ❤️ 603 • 6d ago
+⬇️ 165,187 • ❤️ 611 • 6d ago
+
+---
+
+**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
+
+*Yuxin Lu*
+
+A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
+
+`text-generation` `11.9B`
+
+⬇️ 495,813 • ❤️ 2,361 • 6d ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 134,294 • ❤️ 468 • 3d ago
+⬇️ 134,294 • ❤️ 473 • 3d ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 10,160 • ❤️ 381 • 1d ago
+⬇️ 10,160 • ❤️ 389 • 1d ago
 
 ---
 
@@ -457,7 +455,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 51,717 • ❤️ 712 • 6d ago
+⬇️ 51,717 • ❤️ 715 • 6d ago
 
 ---
 
@@ -469,7 +467,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 88,915 • ❤️ 381 • 2d ago
+⬇️ 88,915 • ❤️ 384 • 2d ago
 
 ---
 
@@ -481,7 +479,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 2,996 • ❤️ 238 • 2d ago
+⬇️ 2,996 • ❤️ 242 • 2d ago
 
 ---
 
@@ -493,7 +491,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 3,389 • ❤️ 227 • 15h ago
+⬇️ 3,389 • ❤️ 237 • 16h ago
 
 ---
 
@@ -509,7 +507,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 28 • 💬 3 • ⭐ 7,206 • 4d ago
+▲ 28 • 💬 3 • ⭐ 8,452 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -534,7 +532,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 36 • 💬 1 • ⭐ 25,507 • 32mo ago
+▲ 36 • 💬 1 • ⭐ 25,558 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -591,6 +589,20 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 ---
 
+**[Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597)**
+
+*Yuxin Zuo, Zikai Xiao, Li Sheng et al. (33 authors)*
+
+🏢 Qwen
+
+Language-based world models enable agentic environment simulation across multiple domains and enhance general agent performance through scalable simulation and improved downstream task performance.
+
+▲ 113 • 💬 4 • ⭐ 475 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.24597) • [💻 code](https://github.com/QwenLM/Qwen-AgentWorld)
+
+---
+
 **[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
 
 *Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
@@ -617,19 +629,6 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 82 • 💬 7 • ⭐ 78,319 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -640,7 +639,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.8k • 🔱 10.1k • 4h ago
+⭐ 77.9k • 🔱 10.1k • 6h ago
 
 ---
 
@@ -650,7 +649,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 57.8k • 🔱 2.9k • 5h ago
+⭐ 58.0k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -660,7 +659,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.7k • 🔱 1.0k • 5h ago
+⭐ 10.7k • 🔱 1.0k • 7h ago
 
 ---
 
@@ -670,7 +669,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.3k • 🔱 408 • 1d ago
+⭐ 5.3k • 🔱 410 • 1d ago
 
 ---
 
@@ -680,7 +679,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.9k • 🔱 581 • 1h ago
+⭐ 4.9k • 🔱 584 • 1m ago
 
 ---
 
@@ -720,7 +719,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 1.8k • 🔱 250 • 11h ago
+⭐ 1.8k • 🔱 260 • 13h ago
 
 ---
 

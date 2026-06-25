@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-25T22:26:19.475650+00:00'
+updated: '2026-06-25T23:53:04.695000+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 25, 2026 at 22:26 UTC  
+**Last Updated:** June 25, 2026 at 23:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,561.74
+### $1,575.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -8.5%  
+**24h:** -3.1%  
+**7d:** -8.4%  
 **30d:** -22.6%  
-**90d:** -21.5%  
+**90d:** -21.4%  
 **1y:** -35.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $187.73B
+**Market Cap:** $189.04B
 Rank #2
 
 **Circulating Supply:** 120,683,707 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.5%
+-68.3%
 
 **All-Time Low:** $0.43
-+359217.7%
++361464.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to understand how they could reduce MEV, strengthen censorship resistance, and reshape Ethereum's transaction pipeline.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to unders
 
 Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereum validators to redirect staking rewards toward sustainable public goods funding while balancing decentralization, governance, and long-term ecosystem growth.
 
-🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 17h ago
 
 ---
 
@@ -152,31 +152,41 @@ A post on the Ethereum Research forum proposes letting validators vote to redire
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation cut 20% of staff. What does it mean for the asset?](https://finance.yahoo.com/video/ethereum-foundation-cut-20-staff-120000329.html)**
+**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
 
-The Ethereum Foundation cut 20% of its staff and 40% of its budget. Scott Melker outlines the details in the video above.
+Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 10h ago
+Decrypt • 4h ago
 
 ---
 
-**['Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive](https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive)**
+**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
-
-Decrypt • 1d ago
+ethereum.org • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin hits its lowest levels in years](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-hits-its-lowest-levels-in-years-125308371.html)**
+**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
 
 Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
+
+Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
+
+Coinpedia • 5h ago
+
+---
+
+**[XRP and Ethereum Share This 1 Critical Problem. Should You Sell Them?](https://www.fool.com/investing/2026/06/25/xrp-and-ethereum-share-this-1-critical-problem-sho/)**
+
+Investors holding these coins and waiting for cryptocurrency to go mainstream may be in for a shock.
+
+The Motley Fool • 8h ago
 
 ---
 
@@ -188,17 +198,17 @@ markets.businessinsider.com • 1d ago
 
 ---
 
+**[Crypto Today: Bitcoin, Ethereum, and Ripple defend their last line of defenses](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-ripple-defend-their-last-line-of-defenses-202606251206)**
+
+FXStreet • 11h ago
+
+---
+
 **[Current price of Ethereum for June 25, 2026](https://fortune.com/article/price-of-ethereum-06-25-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Key facts: Ethereum $1.9k/$1.6k liquidation clusters; ETF outflows, $7.5M](https://www.tradingview.com/news/tradingview:20515a214a4b6:0-key-facts-ethereum-1-9k-1-6k-liquidation-clusters-etf-outflows-7-5m/)**
-
-TradingView • 1d ago
+Fortune • 8h ago
 
 ---
 
@@ -210,27 +220,11 @@ PYMNTS.com • 1d ago
 
 ---
 
-**[Bitmine Approaches Giant Ethereum Supply Goal as Tom Lee Teases A New Crypto Spring](https://www.tipranks.com/news/bitmine-approaches-giant-ethereum-supply-goal-as-tom-lee-teases-a-new-crypto-spring)**
+**[Ethereum’s much-hated staking 'tax' may already be obsolete](https://www.tradingview.com/news/cointelegraph:c792d0001094b:0-ethereum-s-much-hated-staking-tax-may-already-be-obsolete/)**
 
-Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
+Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.
 
-TipRanks • 3d ago
-
----
-
-**[ETH stakers could see rewards cut as Ethereum fights to fund its future](https://cryptoslate.com/ethereum-staking-rewards-funding-proposal/)**
-
-Ethereum staking rewards could be redirected to fund core development, raising concerns over who pays and who controls the money.
-
-CryptoSlate • 3d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide As 'Smart Money' Sentiment Weakens: Analyst Says BTC Could Rise In](https://www.benzinga.com/crypto/cryptocurrency/26/06/60033652/bitcoin-ethereum-xrp-dogecoin-slide-as-smart-money-sentiment-weakens-analyst-sees-july-upside-for-btc)**
-
-Leading cryptocurrencies extended losses on a volatile Monday, June 2022, despite the U.S. and Iran signing key agreements as part of a peace deal.
-
-Benzinga • 2d ago
+TradingView • 2d ago
 
 ---
 
@@ -238,23 +232,13 @@ Benzinga • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
-
-The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
-
-📺 Yahoo Finance
-
-👁️ 17K • 👍 524 • 💬 214 • ⏱️ 14:53 • 2d ago
-
----
-
 **[Ethereum Is Facing A Critical Funding Gap, Says Ex-EF Member](https://www.youtube.com/watch?v=F2UTzETWkxU)**
 
 On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDesk's Jennifer Sanasie why the Ethereum ...
 
 📺 CoinDesk
 
-👁️ 298 • 👍 10 • 💬 3 • ⏱️ 18:21 • 4h ago
+👁️ 620 • 👍 18 • 💬 3 • ⏱️ 18:21 • 6h ago
 
 ---
 
@@ -264,7 +248,37 @@ In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum'
 
 📺 Cointelegraph
 
-👁️ 779 • 👍 18 • 💬 2 • ⏱️ 11:21 • 6h ago
+👁️ 779 • 👍 42 • 💬 24 • ⏱️ 11:21 • 7h ago
+
+---
+
+**[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
+
+The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
+
+📺 Yahoo Finance
+
+👁️ 18K • 👍 532 • 💬 214 • ⏱️ 14:53 • 2d ago
+
+---
+
+**[BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-b9R3biu4gk)**
+
+BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 174 • 💬 127 • ⏱️ 21:41 • 2h ago
+
+---
+
+**[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
+
+The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
+
+📺 Dana Love, PhD
+
+👁️ 4K • 👍 401 • 💬 100 • ⏱️ 13:22 • 4h ago
 
 ---
 
@@ -274,7 +288,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 22K • 👍 1K • 💬 297 • ⏱️ 12:14 • 1d ago
+👁️ 22K • 👍 1K • 💬 299 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -284,7 +298,7 @@ The crew debates whether Saylor's STRC preferred shares are "Luna for suits," un
 
 📺 Unchained
 
-👁️ 916 • 👍 44 • 💬 10 • ⏱️ 1:04:01 • 6h ago
+👁️ 1K • 👍 49 • 💬 13 • ⏱️ 1:04:01 • 7h ago
 
 ---
 
@@ -294,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 217 • 👍 15 • 💬 1 • ⏱️ 4:32 • 12h ago
+👁️ 234 • 👍 15 • 💬 2 • ⏱️ 4:32 • 13h ago
 
 ---
 
@@ -308,33 +322,13 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 ---
 
-**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
-
-In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 237 • 💬 8 • ⏱️ 9:05 • 1d ago
-
----
-
-**[This Crypto Shift Just Changed Everything #crypto #ethereum #hyperliquid](https://www.youtube.com/watch?v=FWNofHryT68)**
-
-USE YUBIT: 25% FEE DISCOUNT FOREVER + $50000 DEPOSIT BONUS https://www.yubit.com/en-US/register?
-
-📺 TMG Trades
-
-👁️ 2K • 👍 47 • 💬 57 • ⏱️ 0:56 • 13h ago
-
----
-
 **[Ethereum&#39;s Biggest Tradeoff: Optimism Co-Founder Explains](https://www.youtube.com/watch?v=gZTsFW0lwKE)**
 
 Why doesn't Ethereum prioritize rapid institutional adoption? Optimism Co-Founder Karl Floersch explains why Ethereum's ...
 
 📺 Cointelegraph
 
-👁️ 388 • 👍 7 • ⏱️ 0:54 • 6h ago
+👁️ 583 • 👍 8 • ⏱️ 0:54 • 7h ago
 
 ---
 
