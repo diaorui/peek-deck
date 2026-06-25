@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-25T13:36:32.197123+00:00'
+updated: '2026-06-25T16:25:22.564253+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - repositories
 - social
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 25, 2026 at 13:36 UTC  
+**Last Updated:** June 25, 2026 at 16:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes -The reason? Amazon engineers reportedly found a narrow jailbreak that could bypass Fable’s cybersecurity classifiers -Anthropic complied but publicly pushed back, calling the action unfair -Trump met Dario Amodei at the G7 and softened his stance, but the directive was never officially lifted -June 26 (today): Congressional deadline for Commerce Secretary Lutnick to respond in writing about the export controls Prediction markets are pricing ~57% odds of restoration before July 1. Developers have been stuck on Opus 4.8 this whole time. This whole situation raises a serious question: if a government can pull your AI model offline in 90 minutes, what does that mean for anyone building on closed, hosted models?
 
-3h ago
+6h ago
 
 ---
 
@@ -49,7 +49,29 @@ Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their mo
 
 The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 2h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 4h ago
+
+---
+
+**[If AI disappeared tomorrow, what part of your daily life would be affected the most?](https://www.reddit.com/r/artificial/comments/1ufbt84/if_ai_disappeared_tomorrow_what_part_of_your/)**
+
+For me, it would probably be search, writing assistance, and productivity tools. I'm curious-what Al-powered tool do you use most often without even thinking about it?
+
+1h ago
+
+---
+
+**[The Death of "Vibe Coding": Why un-monitored AI generation is creating a compounding technical debt.](https://www.reddit.com/r/artificial/comments/1ufbqxi/the_death_of_vibe_coding_why_unmonitored_ai/)**
+
+Hey everyone, ​We are quickly approaching a major bottleneck in AI-assisted software engineering. Relying on LLMs to spit out thousands of lines of code without a strict, human-driven architectural framework—what many call "Vibe Coding"—is creating brittle, unmaintainable systems. ​I’ve formalized this structural shift into a public document on GitHub: The AI-Powered Developer Manifesto. ​Instead of treating AI as a replacement for software architecture, we need to shift our paradigm from Micro-Coding (syntax generation) to Macro-Coding (system direction and epistemic supervision). ​Here is a crucial excerpt from Section 2.5 of the Manifesto, outlining why the current trajectory is leading toward a systemic collapse: ​2.5 The Compounding Technical Debt and Systemic Collapse ​The illusion of rapid deployment via un-monitored AI generation hides a critical flaw: compounding technical debt. ​When developers act merely as "vibe coders"—accepting AI outputs without deep syntactic validation—the codebase becomes an agglomeration of statistical probabilities rather than deterministic logic. By late 2026, systems built entirely on un-vetted AI iterations are projected to hit an architectural wall: a state where the complexity of debugging AI-generated hallucinations outweighs the speed of initial deployment. ​True AI-Powered Developers do not delegate understanding; they delegate execution while retaining absolute epistemic responsibility over the system architecture. ​The goal of this manifesto is to redefine our role: we aren't syntax writers anymore; we are system directors. ​I'd love to hear your thoughts on this. Are you already seeing the limits of un-monitored "vibe coding" in your production environments? How are you structuring your prompts to maintain macro-level architectural control? ​Full Manifesto and repository for open contributions: 👉 https://github.com/FractalDevelop/ai-powered-developer-manifest.git
+
+1h ago
+
+---
+
+**[There’s One Clear Reason Why Americans Are Gloomy About A.I.](https://www.reddit.com/r/artificial/comments/1ufasrb/theres_one_clear_reason_why_americans_are_gloomy/)**
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) • 2h ago
 
 ---
 
@@ -57,7 +79,7 @@ The firm alleged that Alibaba used fraudulent accounts to access data from its C
 
 I have worked with most all of Anthropics LLM's for development, but hands down Opus 4.8 has caused me more grief, aggravation, and it lies in every thing it does - especially near context mid-load and if you're doing deterministic work with no heuristics constraints you can't trust a thing out of it. So I stopped using it a while back, but today I had to do a container rebuild and in VS it slipped back into Opus 4.8 from Sonnet. And without even realizing the switch happen I could tell about a 1/3 of the way in into developing complex code it started arguing with me - I was about to loose it when I remembered the crap from the past and sure enough when I check the model... well you get the picture.... I was wondering if anyone else had similar experience with Opus 4.8 too?
 
-16h ago
+18h ago
 
 ---
 
@@ -69,51 +91,27 @@ Some of our customers noticed Inter-1 (our omni-modal social-signal model) would
 
 ---
 
+**[Linux Foundation wants to use DNS as the identity layer for AI agents](https://www.reddit.com/r/artificial/comments/1ufesgh/linux_foundation_wants_to_use_dns_as_the_identity/)**
+
+The Linux Foundation just announced its intent to launch the Agent Name Service (ANS), an open standard for providing AI agents with verifiable identities. The basic idea is to reuse existing internet infrastructure, mainly DNS so that an AI agent can prove: which organization or domain it belongs to What is allowed to do whether its identity and history can be verified how other agents or systems should discover and interact with it
+
+2m ago
+
+---
+
+**[On Model Failures (GPT, Claude etc.)](https://www.reddit.com/r/artificial/comments/1ufe9bf/on_model_failures_gpt_claude_etc/)**
+
+The way the current consumer-facing versions of frontier LLMs (mainly GPT, Claude, Gemini) are designed is just… weirdly off, across models. It seems to now require us, as the end users, to first fix their issues ourselves in order to avoid spending _a lot_ of time in troubleshooting and frustration. Before we can even properly customize one of these models now, as per the UI, we need to alleviate the structural failure modes, otherwise our attempts will be futile. And the failure modes are not only behavioral issues (such as obsessive push-back, sycophancy, pointless corrections, or general confabulation etc.) There is another layer yet to them, one that I believe needs to be targeted first, and this has to do with the way the current system prompts are built. It's not fair, obviously, and it doesn't even make that much sense that this would be the situation, but this is actually what is happening. Now, the structural (sic) issue is way the models replace the user's use case, object, topic with their own adjacent version of it, one that prioritizes the system prompt and not what the user brought to the table. The linked articles are analyses of how that happens in different models, and the included "antidote" prompts in them are designed to fix that. I would encourage all GPT / Claude users to test out the solutions provided in the articles - links to pieces covering GPT-5 series & Opus 4.8 in comments. _(Yes they are softly paywalled, partly because I am targeting the system prompts of OpenAI and Anthropic models. You can bypass it by grabbing the free complementary article. Just saying this aloud because some Redditors consider any paywall grounds for personal attacks. Please don't 🙏🏻 Discussion and constructive criticism are super welcome though, all prompts are subject to regular updates and constant improvement!)_
+
+21m ago
+
+---
+
 **[After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing](https://www.reddit.com/r/artificial/comments/1uf88ul/after_anthropic_shutdown_chinas_zai_closes/)**
 
 Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now performing close to leading models from OpenAI and Anthropic on coding and AI agent benchmarks. The company claims the model delivers competitive results at a much lower cost and has been optimized to run on domestic Chinese hardware, including Huawei chips. Z.ai is also planning a dual listing in Hong Kong and Shanghai to fund its long-term AGI ambitions. The news comes as China's AI sector continues to narrow the gap with leading U.S. AI labs despite ongoing restrictions on advanced chip access. Are we entering a world where frontier AI is no longer dominated by a handful of U.S. companies?
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 1h ago
-
----
-
-**[6 years into this career and I finally stopped solving communication problems with code](https://www.reddit.com/r/artificial/comments/1uf7zpw/6_years_into_this_career_and_i_finally_stopped/)**
-
-We had a legacy endpoint crawling under load. Two years ago I would've spent a week fixing it myself. Instead I looked at the logs, saw an team was hammering it with a cron job, and sent their dev a Slack message asking if they still needed that data. Got an answer the next day, a simple no and they turned off the job. Latency dropped. Problem solved The embarrassing part is how many times I've probably dove headfirst into a problem that could be solved with communication Has anyone else noticed this becoming more obvious the longer they're in the industry? where people try to fix communication problem with code?
-
-1h ago
-
----
-
-**[AMD contributes ONNX Runtime backend to FFmpeg DNN filter](https://www.reddit.com/r/artificial/comments/1uf7vli/amd_contributes_onnx_runtime_backend_to_ffmpeg/)**
-
-An AMD engineer has contributed to the upstream FFmpeg library an ONNX Runtime back-end for its DNN filter
-
-🔗 [phoronix.com](https://www.phoronix.com/news/FFmpeg-DNN-ONNX-Runtime) • 1h ago
-
----
-
-**[Are our AI models getting dumber/lazier - how do AI companies determine what is "sufficient thinking"?](https://www.reddit.com/r/artificial/comments/1ufa2g0/are_our_ai_models_getting_dumberlazier_how_do_ai/)**
-
-Sorry if this comes across as a rant, I just came off a frustrating session with my LLM, who tries to be "smart" by assuming that their mode of thinking is "sufficient" for my requirement. I recalled in 2024/2025, which new model brought a new excitement to the users than the previous version - "you mean the model can do this now?" Now, it is the inverse - "you mean the models are trying to optimise itself?" Flexible thinking on the pretext of saving tokens, while increasing the cost of the tokens for the newer models. My past models used to be able to search across chats and folders proactively, and be able to infer my intent even before I ask it explicitly. It frequently surprises me with the unexpected insights. I used to enjoy reading its thoughts, how it formulates its reply to my query. Now I can't see its thinking, and it gets it wrong frequently, because it assumes its answer is good enough. I gave the new models a long document to read, and it skim and give me a shoddy answer, until I explicitly challenge it ("that is not right!"). It will not volunteer to read the document carefully (but if it does, it will tell you explicitly "let me read the document carefully before responding to you" - hello - that is your job - you need to read it carefully regardless!) Now it even asked me to repeat to it what my past prompts are, unless I ask it to search explictly, it will just sit on its a**, on the pretext of saving tokens. And the selection of "low", "med", "high", etc thinking levels. If we got it wrong, we have to restart the query on a higher setting, wasting more tokens. What has been your experience in this? How is this better customer experience? At this moment, the models are becoming useless for daily use, despite scoring higher and higher on benchmarks. I think the time may be coming where humans have to underlearn this technology and go back to the pre-AI days, before we lose all our cognitive abilities. To all the AI expert/engineers out there - how does the latest AI model know what is enough of an answer to my query? Especially in a new chat, they don't even know me well enough or my question in detail? Is it through multiple wasted tokens - "that is not good enough", "that is wrong", etc, that it finally get to the required answer? I hope some AI companies' execs recognize this and one of them will take action. Or is that too much to hope for?
-
-7m ago
-
----
-
-**[How to maintain consistent context across ChatGPT, Claude, and other AI tools](https://www.reddit.com/r/artificial/comments/1uf9818/how_to_maintain_consistent_context_across_chatgpt/)**
-
-The core problem with using multiple AI models is that each one only knows what you tell it in that specific conversation. Switch to a different model and you're re-briefing from scratch. By the time you've caught Claude up on what ChatGPT already knows, you've lost ten minutes and half the momentum. Worse, they end up with different versions of your project because you explained it slightly different ways, so you get contradicting outputs. Most people handle this in one of three ways. The first is manual context passing. You keep a master document of your project, decisions, everything that matters, and you paste it into each model before you start. This works in theory but in practice the document gets outdated as your project evolves, you forget to update it, and you end up pasting stale context. Each model ends up with a slightly different picture of what you're doing. The second is picking one primary model and treating others as specialists. Claude for reasoning, ChatGPT for speed, whatever. You keep your main context there and only switch when you need something specific. This cuts down on fragmentation but you're capped by one model's strengths and if you want to run something in parallel across models, you're back to manual context management. The third is keeping everything in a unified workspace that connects to multiple models. Use for example Notebooks App for this, dumping their docs, videos, research, everything into one place, then feeding that into whichever model they're using that day. The pro is genuinely singular source of truth, you're not re-explaining the project to each model, and when you switch models you're always working from the same context so the outputs stay consistent. The con is it's another tool running, and you have to actually use it instead of half-assing notes into scattered docs. But the ones who stick with it say the compounding is real because each model is actually building on the same material instead of working in a silo. What ends up working best is usually a hybrid. One primary model where most of your context lives, a couple secondaries for specific tasks, but everything anchored to a single source instead of letting context scatter across conversations. The real unlock isn't which models you use, it's whether you have one place that holds everything and actually pull from it instead of rebuilding in each chat.
-
-41m ago
-
----
-
-**[Automate multi-source Research and Report Generation](https://www.reddit.com/r/artificial/comments/1uf7vx7/automate_multisource_research_and_report/)**
-
-In this demo, I show how to use Row-Bot for a practical research workflow: taking a research question, combining recent web research with an uploaded client context document, creating a structured briefing, exporting it as a PDF, and drafting an email with the report attached. We start by configuring the tools needed for the workflow: web search, URL reading, the Documents library, PDF export, Gmail, and the Deep Research skill. Then we run an end-to-end scenario where Row-Bot prepares a client-ready briefing on how AI agents can help small business operations. The key idea is that Row-Bot does not just generate generic answers. It can combine public information with your own private documents and turn the result into a useful deliverable. Open Source and Local-First
-
-1h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 4h ago
 
 ---
 
@@ -121,73 +119,73 @@ In this demo, I show how to use Row-Bot for a practical research workflow: takin
 
 ## Google News: "ai"
 
-**[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)**
-
-Reuters • 16h ago
-
----
-
-**[Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities](https://www.bbc.com/news/articles/cwyklykn5dwo)**
-
-The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
-
-BBC • 10h ago
-
----
-
-**[Alibaba Group Holding (BABA) Is Down 7.1% After Pentagon Suit And AI Misuse Claims Surface](https://finance.yahoo.com/technology/ai/articles/alibaba-group-holding-baba-down-070913513.html)**
-
-In recent days, Alibaba Group has sued the U.S. Department of Defense to challenge its designation as a Chinese military-linked company, while also facing accusations from Anthropic that operators tied to its Qwen AI lab illicitly accessed Claude AI models through large-scale misuse of fake accounts. Together, these legal and AI-related controversies intensify regulatory and reputational pressure on Alibaba at a time when its cloud and artificial intelligence ambitions are central to its...
-
-Yahoo Finance • 6h ago
-
----
-
-**[$500 million AI jobs push launches with bipartisan backing](https://www.politico.com/news/2026/06/25/500-million-ai-jobs-push-launches-with-bipartisan-backing-00975439)**
-
-Politico • 4h ago
-
----
-
-**[Brown University gets a seat at Raimondo’s $500 million AI table](https://www.bostonglobe.com/2026/06/25/metro/brown-university-workforce-raise-us-ai/)**
-
-The partnership links Brown’s new Workforce Development Policy Lab with RAISE US, a nonprofit launched by Raimondo and former Indiana governor Eric Holcomb.
-
-The Boston Globe • 42m ago
-
----
-
 **[The New Push to Ready Millions for AI Career Upheaval](https://www.wsj.com/lifestyle/careers/the-new-push-to-ready-millions-for-ai-career-upheaval-dfb04cc5)**
 
-WSJ • 4h ago
+WSJ • 1h ago
 
 ---
 
-**[Exclusive: Nebulock raises $25M for AI threat hunting](https://www.axios.com/pro/enterprise-software-deals/2026/06/25/nebulock-threat-hunting-cybersecurity)**
+**[Big Companies Aim to Ease A.I. Transition for American Workers](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html)**
 
-Axios • 10m ago
-
----
-
-**[IBM stock pops as company unveils chip 'the size of a fingernail' in AI push](https://finance.yahoo.com/markets/article/ibm-stock-pops-as-company-unveils-chip-the-size-of-a-fingernail-in-ai-push-130640214.html)**
-
-IBM soared in pre-market trading after announcing a non-chip computing breakthrough.
-
-Yahoo Finance • 29m ago
+The New York Times • 3h ago
 
 ---
 
-**[Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic](https://www.theinformation.com/articles/google-revamps-new-ai-coding-strike-team-amid-struggle-catch-anthropic)**
+**[AI is plowing through the workplace. This new group wants to help people adapt and have jobs](https://www.twincities.com/2026/06/25/ai-politics-nonprofit/)**
 
-Google is reorganizing its recently launched strike team working on AI coding tools to try to catch up with Anthropic in the most lucrative AI applications, according to people familiar with the changes. The goal is for the months-old strike team to change the approach to training Google’s AI ...
+Bipartisan nonprofit wants to help Americans who find they’re out of work because of AI.
 
-The Information • 36m ago
+Pioneer Press • 43m ago
 
 ---
 
-**[Opinion | There’s One Clear Reason Why Americans Are Gloomy About A.I.](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html)**
+**[Ford Has Been Rehiring Quality Inspectors After AI Fell Short](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)**
 
-The New York Times • 8h ago
+Bloomberg.com • 4h ago
+
+---
+
+**[Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too](https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/)**
+
+"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'" he says. "That person was spending at a run rate of $30,000 a year for this."
+
+TechCrunch • 25m ago
+
+---
+
+**[How Micron reversed the global tech selloff, exposing AI's 'memory tax'](https://fortune.com/2026/06/25/why-did-stock-market-tech-selloff-stop-micron-technology/)**
+
+Micron had a "drop the mic" quarter, Dan Ives said. Others called it a restructuring of how Wall Street will price the AI trade for years to come.
+
+Fortune • 22m ago
+
+---
+
+**[NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-projects-1-trillion-153827045.html)**
+
+Antipodes Partners published its “Antipodes Global Strategy” first-quarter 2026 investor letter, highlighting the key performance stocks, portfolio changes, and the market outlook. A copy of the letter can be downloaded here. The first quarter of 2026 was highly volatile. Early optimism shifted to a historic energy shock caused by US-Israeli strikes on Iran. Global equities […]
+
+Yahoo Finance • 46m ago
+
+---
+
+**[Opinion | There’s One Clear Reason Americans Are Gloomy About A.I.](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html)**
+
+The New York Times • 11h ago
+
+---
+
+**[We're locking in triple-digit profits on an AI winner at record highs](https://www.cnbc.com/2026/06/25/were-locking-in-triple-digit-profits-on-an-ai-winner-at-record-highs.html)**
+
+The stock has soared this week for unclear reasons.
+
+CNBC • 1h ago
+
+---
+
+**[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)**
+
+Reuters • 19h ago
 
 ---
 
@@ -197,7 +195,7 @@ The New York Times • 8h ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 556 • 💬 909 • 17h ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 665 • 💬 1088 • 20h ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
@@ -205,7 +203,7 @@ The New York Times • 8h ago
 
 A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 
-⬆️ 410 • 💬 70 • 22h ago • [RubyLLM](https://rubyllm.com/)
+⬆️ 431 • 💬 74 • 1d ago • [RubyLLM](https://rubyllm.com/)
 
 ---
 
@@ -213,7 +211,13 @@ A single, beautiful Ruby framework for all major AI providers. Easily build chat
 
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
-⬆️ 328 • 💬 415 • 1d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+⬆️ 328 • 💬 416 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+
+---
+
+**[Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://news.ycombinator.com/item?id=48674446)**
+
+⬆️ 287 • 💬 142 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -221,7 +225,7 @@ A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms w
 
 The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk's AI ambitions.
 
-⬆️ 232 • 💬 263 • 1d ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+⬆️ 234 • 💬 267 • 1d ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 
 ---
 
@@ -229,7 +233,7 @@ The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his mos
 
 Proprietary AI is both too expensive and too centralized in control for most countries and companies to rely upon.
 
-⬆️ 218 • 💬 142 • 22h ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
+⬆️ 224 • 💬 143 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
 
 ---
 
@@ -241,7 +245,7 @@ Proprietary AI is both too expensive and too centralized in control for most cou
 
 **[Big AI labs are hiring philosophers](https://news.ycombinator.com/item?id=48662452)**
 
-⬆️ 141 • 💬 129 • 20h ago • [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
+⬆️ 146 • 💬 130 • 23h ago • [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 
 ---
 
@@ -261,17 +265,19 @@ Either AI is ready to help run a country, or it can't be trusted with a board ga
 
 ---
 
-**[Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://news.ycombinator.com/item?id=48658095)**
-
-Create agentic, context engineered AI systems using Haystack’s modular and customizable building blocks, built for real-world, production-ready applications.
-
-⬆️ 87 • 💬 21 • 1d ago • [Haystack](https://haystack.deepset.ai/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[Master AI Filmmaking in 30 Minutes - Advanced AI Video Course](https://www.youtube.com/watch?v=e9ZupmL9BcM)**
+
+Master AI Filmmaking in 30 minutes - Advanced AI Video Course Try out this AI Filmmaking tool ...
+
+📺 Dan Kieft
+
+👁️ 4K • 💬 17 • ⏱️ 30:51 • 1h ago
+
+---
 
 **[The AI Future No One Wants to Talk About](https://www.youtube.com/watch?v=zWQe2Fn--Eg)**
 
@@ -279,27 +285,7 @@ Go to https://ground.news/sabine to get 40% off the Vantage plan and see through
 
 📺 Sabine Hossenfelder
 
-👁️ 196K • 👍 13K • 💬 3K • ⏱️ 12:14 • 22h ago
-
----
-
-**[Meta’s AI Clusterf*ck Is Humiliating Zuckerberg](https://www.youtube.com/watch?v=SFZ9ZlNyljc)**
-
-In this video, I break down what is happening inside Meta: the layoffs, the collapsing employee morale, the AI restructuring chaos, ...
-
-📺 House of El - AI
-
-👁️ 91K • 👍 8K • 💬 1K • ⏱️ 24:31 • 21h ago
-
----
-
-**[We Asked AI To Simulate If The U.S. Had A Second Civil War](https://www.youtube.com/watch?v=OdxH1KZbjOY)**
-
-What would happen if Civil War broke out in the United States again in 2026? Thankfully, with modern AI technology, we no ...
-
-📺 The Babylon Bee
-
-👁️ 160K • 👍 17K • 💬 2K • ⏱️ 2:31 • 1d ago
+👁️ 208K • 👍 13K • 💬 3K • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -309,27 +295,27 @@ China just released a FREE open AI model that's shaking up the entire AI industr
 
 📺 Your AI Guy
 
-👁️ 9K • 👍 251 • 💬 50 • ⏱️ 15:48 • 12h ago
+👁️ 10K • 👍 263 • 💬 55 • ⏱️ 15:48 • 14h ago
 
 ---
 
-**[Tim Dillon on Israel, Iran, AI, and Palantir](https://www.youtube.com/watch?v=DyKSUEEPb74)**
+**[How to Make Apple Style Animations With AI](https://www.youtube.com/watch?v=wyz_xDprYGY)**
 
-Taken from JRE #2518 w/Tim Dillon YouTube: https://youtu.be/wTdqkloiSvk JRE on Spotify: ...
+Make Apple Style Animations with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=robo23 In this video, I show how to create ...
 
-📺 JRE Clips
+📺 Roboverse
 
-👁️ 226K • 👍 5K • 💬 1K • ⏱️ 15:48 • 20h ago
+👁️ 7K • ⏱️ 9:03 • 3h ago
 
 ---
 
-**[I Tried Dating AI](https://www.youtube.com/watch?v=xibYjTT7kHs)**
+**[We Asked AI To Simulate If The U.S. Had A Second Civil War](https://www.youtube.com/watch?v=OdxH1KZbjOY)**
 
-In this video I went on multiple AI dates to learn about the future of relationships. hopefully you enjoy and hopefully i wont take so ...
+What would happen if Civil War broke out in the United States again in 2026? Thankfully, with modern AI technology, we no ...
 
-📺 Husk IRL
+📺 The Babylon Bee
 
-👁️ 52K • 👍 4K • 💬 870 • ⏱️ 16:22 • 17h ago
+👁️ 173K • 👍 19K • 💬 2K • ⏱️ 2:31 • 1d ago
 
 ---
 
@@ -339,7 +325,7 @@ Oracle just axed 21000 jobs. Why? Start your FREE Intro Course with CourseCareer
 
 📺 Mark Savant
 
-👁️ 8K • 👍 321 • 💬 159 • ⏱️ 11:58 • 1d ago
+👁️ 8K • 👍 323 • 💬 159 • ⏱️ 11:58 • 1d ago
 
 ---
 
@@ -349,7 +335,7 @@ With the rapid development in AI-powered wearables, educators in East Asia are s
 
 📺 CNN
 
-👁️ 16K • 👍 440 • 💬 26 • ⏱️ 1:09 • 5h ago
+👁️ 22K • 👍 461 • 💬 27 • ⏱️ 1:09 • 8h ago
 
 ---
 
@@ -359,7 +345,7 @@ Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/m
 
 📺 Pooja Dutt
 
-👁️ 18K • 👍 614 • 💬 105 • ⏱️ 14:28 • 1d ago
+👁️ 18K • 👍 624 • 💬 105 • ⏱️ 14:28 • 2d ago
 
 ---
 
@@ -369,7 +355,17 @@ How I Became a Sovereign Professional - The Freelance Formula https://www.brenda
 
 📺 Brendan Dell 
 
-👁️ 253K • 👍 8K • 💬 2K • ⏱️ 22:04 • 2d ago
+👁️ 257K • 👍 8K • 💬 2K • ⏱️ 22:04 • 2d ago
+
+---
+
+**[Tim Dillon on Israel, Iran, AI, and Palantir](https://www.youtube.com/watch?v=DyKSUEEPb74)**
+
+Taken from JRE #2518 w/Tim Dillon YouTube: https://youtu.be/wTdqkloiSvk JRE on Spotify: ...
+
+📺 JRE Clips
+
+👁️ 242K • 👍 5K • 💬 1K • ⏱️ 15:48 • 23h ago
 
 ---
 
@@ -385,7 +381,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 67,107 • ❤️ 2,426 • 2d ago
+⬇️ 67,107 • ❤️ 2,442 • 2d ago
 
 ---
 
@@ -397,7 +393,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 70,743 • ❤️ 827 • 1d ago
+⬇️ 70,743 • ❤️ 844 • 1d ago
 
 ---
 
@@ -409,7 +405,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 495,813 • ❤️ 2,323 • 6d ago
+⬇️ 495,813 • ❤️ 2,342 • 6d ago
 
 ---
 
@@ -421,7 +417,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 165,187 • ❤️ 571 • 6d ago
+⬇️ 165,187 • ❤️ 576 • 6d ago
 
 ---
 
@@ -433,19 +429,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 134,294 • ❤️ 427 • 3d ago
-
----
-
-**[VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B)**
-
-*WeiboAI*
-
-VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable reasoning tasks like mathematics and coding, achieving competitive performance on benchmarks such as IMO-AnswerBench and LeetCode contests. It excels at multi-step reasoning, constraint satisfaction, and answer verification, but is not recommended for tool-calling or agent-based programming.
-
-`text-generation` `3.1B`
-
-⬇️ 51,717 • ❤️ 706 • 5d ago
+⬇️ 134,294 • ❤️ 447 • 3d ago
 
 ---
 
@@ -457,7 +441,19 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 10,160 • ❤️ 352 • 21h ago
+⬇️ 10,160 • ❤️ 367 • 1d ago
+
+---
+
+**[VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B)**
+
+*WeiboAI*
+
+VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable reasoning tasks like mathematics and coding, achieving competitive performance on benchmarks such as IMO-AnswerBench and LeetCode contests. It excels at multi-step reasoning, constraint satisfaction, and answer verification, but is not recommended for tool-calling or agent-based programming.
+
+`text-generation` `3.1B`
+
+⬇️ 51,717 • ❤️ 708 • 5d ago
 
 ---
 
@@ -469,7 +465,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 88,915 • ❤️ 370 • 1d ago
+⬇️ 88,915 • ❤️ 375 • 2d ago
 
 ---
 
@@ -481,19 +477,19 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 2,996 • ❤️ 221 • 1d ago
+⬇️ 2,996 • ❤️ 226 • 2d ago
 
 ---
 
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+**[Qwen-AgentWorld-35B-A3B](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B)**
 
-*HauHau*
+*Qwen*
 
-This is an uncensored, aggressive multimodal model (35B parameters, 3B active) based on Qwen3.6, capable of processing text and images. It's designed for maximum output without refusals, suitable for advanced text generation and multimodal tasks.
+Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment simulation, capable of predicting next states through long chain-of-thought reasoning across seven unified domains including tool calling, software engineering, and web interactions. It serves as a generalizable simulator for agent foundation tasks.
 
-`image-text-to-text` `34.7B`
+`text-generation` `34.7B`
 
-⬇️ 3,520,206 • ❤️ 2,219 • 2mo ago
+⬇️ 3,389 • ❤️ 212 • 9h ago
 
 ---
 
@@ -509,7 +505,7 @@ This is an uncensored, aggressive multimodal model (35B parameters, 3B active) b
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 27 • 💬 1 • ⭐ 7,206 • 3d ago
+▲ 28 • 💬 3 • ⭐ 7,206 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -534,7 +530,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 170 • 💬 2 • ⭐ 68,952 • 9mo ago
+▲ 171 • 💬 2 • ⭐ 68,952 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -547,7 +543,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 60 • 💬 1 • ⭐ 84,119 • 33mo ago
+▲ 60 • 💬 1 • ⭐ 84,250 • 33mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -559,7 +555,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 102 • 💬 4 • ⭐ 88,369 • 18mo ago
+▲ 102 • 💬 4 • ⭐ 88,488 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -585,7 +581,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 8 • 💬 1 • ⭐ 8,825 • 5mo ago
+▲ 8 • 💬 1 • ⭐ 8,954 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -611,21 +607,22 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 23 • 💬 1 • ⭐ 83,731 • 23d ago
+▲ 23 • 💬 1 • ⭐ 83,794 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 44 • 💬 4 • ⭐ 31,227 • 10mo ago
+▲ 82 • 💬 7 • ⭐ 78,319 • 23mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -639,7 +636,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.7k • 🔱 10.1k • 17h ago
+⭐ 77.8k • 🔱 10.1k • 19h ago
 
 ---
 
@@ -649,7 +646,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 57.1k • 🔱 2.9k • 23h ago
+⭐ 57.5k • 🔱 2.9k • 11m ago
 
 ---
 
@@ -659,7 +656,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.7k • 🔱 1.0k • 1h ago
+⭐ 10.7k • 🔱 1.0k • 26m ago
 
 ---
 
@@ -669,7 +666,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.3k • 🔱 403 • 1d ago
+⭐ 5.3k • 🔱 404 • 1d ago
 
 ---
 
@@ -679,7 +676,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.8k • 🔱 572 • 2m ago
+⭐ 4.9k • 🔱 578 • 6m ago
 
 ---
 
@@ -689,7 +686,7 @@ Programmatic video for coding agents — HTML to video on your laptop. Turn HTML
 
 `HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
 
-⭐ 3.5k • 🔱 437 • 3d ago
+⭐ 3.5k • 🔱 437 • 4d ago
 
 ---
 
@@ -699,7 +696,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.2k • 🔱 213 • 3d ago
+⭐ 2.3k • 🔱 213 • 3d ago
 
 ---
 
@@ -709,7 +706,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.9k • 🔱 137 • 2d ago
+⭐ 1.9k • 🔱 138 • 2d ago
 
 ---
 
@@ -719,7 +716,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 150 • 9d ago
+⭐ 1.7k • 🔱 151 • 9d ago
 
 ---
 
@@ -729,7 +726,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.6k • 🔱 141 • 13h ago
+⭐ 1.6k • 🔱 142 • 16h ago
 
 ---
 

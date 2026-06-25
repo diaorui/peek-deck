@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-25T13:36:32.205842+00:00'
+updated: '2026-06-25T16:25:22.572722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 25, 2026 at 13:36 UTC  
+**Last Updated:** June 25, 2026 at 16:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,022.84
+### $59,773.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -4.0%  
-**30d:** -18.0%  
-**90d:** -8.0%  
-**1y:** -42.9%  
+**24h:** +0.5%  
+**7d:** -6.0%  
+**30d:** -19.8%  
+**90d:** -10.0%  
+**1y:** -44.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1220.25B
+**Market Cap:** $1196.84B
 Rank #1
 
-**Circulating Supply:** 20,047,912 BTC
+**Circulating Supply:** 20,047,943 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--51.6%
+-52.7%
 
 **All-Time Low:** $67.81
-+89808.6%
++87935.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 BTC goes below 60k
 
-20h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ H100 shareholders approved a deal to acquire two Norwegian bitcoin treasury firm
 
 I missed the last one and I'll be darn it, I won't miss it again. BTC is at this support level right now & ETF inflows are gonna be rolling in and the price will be back to near 70k within a week or so. Good luck all
 
-19h ago
+22h ago
 
 ---
 
@@ -113,7 +113,7 @@ Why are you still buying Bitcoin even though there isn’t really the chance any
 
 I'm a Bitcoiner from South Korea. One of Bitcoin's most unique characteristics is its 4-year cycle. Since Bitcoin's launch, each market cycle has been closely tied to the halving event, which occurs approximately every four years. Bull markets, bear markets, accumulation phases, and new all-time highs have repeatedly appeared around this cycle. Of course, Bitcoin's price never follows the exact same path twice. The prices are different. The market environment is different. The participants are different. But the timing and overall structure of the cycle have shown remarkable similarities throughout Bitcoin's history. To visualize this idea, I created a circular chart that maps Bitcoin's entire price history around each halving cycle. The goal isn't to predict the future with certainty. It's simply a different way to observe Bitcoin's long-term cyclical behavior and compare past market structures side by side. I'd love to hear your thoughts. Do you think the 4-year cycle is still relevant?
 
-20h ago
+23h ago
 
 ---
 
@@ -121,13 +121,13 @@ I'm a Bitcoiner from South Korea. One of Bitcoin's most unique characteristics i
 
 Hey all! It's Brian from the Bitcoin Conference again 👋 i was just thinking about this post Jack Mallers posted earlier this month: https://x.com/jackmallers/status/2062172971678990577?s=20 on days like today, I feel it's very important to come back to this and remind ourselves why we're all here, why i'm here, and why this space and community are so amazing. maybe you'll find this useful as well, but i just had to share it :) "We’re living through the greatest wealth transfer in human history." 🫡 personally, i'm staying humble and stacking sats through the highs and lows. anyway, i definitely want to think about this more in terms of utility. i think bitcoin's fundamentals, no matter the price, are strong, concrete and transcend conversations around price tbh how do you usually think of bitcoin on days like today and what are your words of wisdom to new bitcoiners?
 
-18h ago
+21h ago
 
 ---
 
 **[Forensic Analysis: Hal Finney Actually Missed the Bitcoin Launch](https://www.reddit.com/r/Bitcoin/comments/1uehc71/forensic_analysis_hal_finney_actually_missed_the/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Hey all! It's Brian from the Bitcoin Conference again 👋 i was just thinking a
 
 I think most people understand Bitcoin’s limited supply and the growth in fiat money supply as key drivers of value. But demand still needs to be there. Last cycle, a lot of stars aligned. You had an administration that was viewed very favorably by the crypto market, growing optimism around a potential federal Bitcoin reserve, and a broader sense that crypto was becoming mainstream. That created a rush of capital into Bitcoin. Looking ahead, is there anything on the horizon that could drive a new wave of demand? These catalysts often emerge quickly and are hard to predict in advance, but it feels like some level of excitement or a compelling narrative is needed for capital to rotate back into the space. What sort of foundation is currently being put into place?
 
-22h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ I think most people understand Bitcoin’s limited supply and the growth in fiat
 
 I can buy 24k bullion with my bitcoin. Cheaper rate than using wire or card. I can take out a mortgage with my bitcoin. I can take out 4-10% fiat loans with my bitcoin, completely bypassing credit inquiries and avoiding tanking my excellent score. I can pay my friends and family back with bitcoin where electronic apps like zelle, cashapp fail to provide. I can access liquidity almost instantly by selling my bitcoin. The local business doesnt have credit card processors? Doesnt make enough to take a 3% loss on fees and doesnt want to hike prices to adjust? Accepts only fiat cash, but is missing out on electronically paying customers? Guess what... bitcoin. Unbanked? Bitcoin. Banking crisis wont allow withdrawals because they have 0% cash reserves? Good thing I have Bitcoin. Need to send value anywhere in the world? Have the infrastructure needed for bitcoin? Use bitcoin. There is a fucking car dealership in my state that accepts bitcoin lmao. The list can continue. For now Ive done enough. There will always be demand for something outside the fiat system because the system is broken. Bitcoin may not fix it entirely, but its the damned best, most modern, most secured, least confiscatable attempt in a long time. To the haters I say: instead of criticizing... how about you invent your own method? You wont. You spend your time hating on anything that intrudes into your comfort zone that you've been fed to, and forced to bow down to, way before your existence was even thought about. Good luck with that bullshit mindset. Have a good one and keep bitcoining!!
 
-23h ago
+1d ago
 
 ---
 
@@ -159,19 +159,41 @@ And I will add more if it goes down. Thanks guys.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls back under $60,000, hitting its lowest level since October 2024](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)**
+**[Live markets: Bitcoin, ether lead $1 billion liquidation losses as AI trade keeps going](https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going)**
 
-Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
+A liquidation flush took bitcoin to its lowest since early June before Micron's blowout earnings and SK Hynix's U.S. listing plans steadied the AI trade that crypto had been sliding alongside.
 
-CNBC • 18h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin is having a tough year. Traders are betting it's going to get worse](https://www.cnbc.com/2026/06/25/bitcoin-is-having-a-tough-year-traders-are-betting-its-going-to-get-worse.html)**
+**[Bitcoin Price Forecast Suggests More Downside May Be on the Horizon](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-forecast-suggests-more-173700374.html)**
 
-Options traders are treating this break like it could be the tip of an iceberg.
+Bitcoin (CRYPTO: $BTC) has been facing significant headwinds recently, leaving investors wondering where the bottom...
 
-CNBC • 1h ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin ETFs see record investor flight as the cryptocurrency hits new 2024 lows](https://www.cnbc.com/2026/06/25/bitcoin-etfs-see-record-investor-flight-as-the-cryptocurrency-hits-new-2024-lows.html)**
+
+Investors have pulled $651 million from bitcoin ETFs so far this week, per SoSoValue.
+
+CNBC • 24m ago
+
+---
+
+**[Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'](https://www.tradingview.com/news/cointelegraph:d59543e0a094b:0-bitcoin-drops-to-58k-on-high-us-pce-inflation-as-trader-sees-manipulation/)**
+
+Bitcoin fell to 21-month lows as stock market volatility accompanied three-year highs in US PCE inflation, leading to $600 million in hourly crypto liquidations.
+
+TradingView • 50m ago
+
+---
+
+**[Nancy Guthrie kidnapping: Expert says $152 Bitcoin tactic unlikely to have worked](https://www.newsnationnow.com/missing/nancy-guthrie-kidnapping-bitcoin-cybercrime/)**
+
+NewsNation • 9h ago
 
 ---
 
@@ -179,19 +201,7 @@ CNBC • 1h ago
 
 China's best-known miner sees a $42,000 Bitcoin bottom by late 2026, echoing Arthur Hayes' call for a $40,000 floor.
 
-Yahoo Finance • 48m ago
-
----
-
-**[Nancy Guthrie kidnapping: Expert says $152 Bitcoin tactic unlikely to have worked](https://www.newsnationnow.com/missing/nancy-guthrie-kidnapping-bitcoin-cybercrime/)**
-
-NewsNation • 6h ago
-
----
-
-**[Small north Alabama town fights back against Bitcoin mining center: ‘Crushed so many hopes’](https://www.al.com/news/2026/06/small-north-alabama-town-fights-back-against-bitcoin-mining-center-crushed-so-many-hopes.html)**
-
-AL.com • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -199,35 +209,29 @@ AL.com • 1d ago
 
 Bitcoin fell to a two-week low price Wednesday as Strategy shares dove below the $100 mark for the first time since March 2024.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Is Buying Bitcoin Again but Its STRC Financing Engine Is the Real Worry](https://www.barrons.com/articles/strategy-stock-bitcoin-strc-preferred-2ec3487c)**
+**[Bitcoin Plummets Lower as Strategy's STRC Dives Further From $100 Mark](https://decrypt.co/372074/bitcoin-plummets-strategy-strc-dives-further-100)**
 
-Barron's • 2d ago
+The price of Bitcoin rapidly fell to nearly $58,000 after Strategy's STRC preferred shares notched a new low and MSTR fell alongside.
 
----
-
-**[Saylor’s Best Bet May Be to Halt Strategy’s Bitcoin Buying Spree](https://www.bloomberg.com/news/articles/2026-06-24/saylor-s-best-bet-may-be-to-halt-strategy-s-bitcoin-btc-buying-spree)**
-
-Bloomberg • 17h ago
+Decrypt • 2h ago
 
 ---
 
-**[Hyperscale Data says cash, Bitcoin and silver equal 100.42% of market cap](https://www.stocktitan.net/news/GPUS/hyperscale-data-cash-restricted-cash-bitcoin-and-silver-assets-of-366v6nxn0qx0.html)**
+**[Strategy should halt bitcoin buys and bolster cash reserves, CryptoQuant says](https://www.cnbc.com/2026/06/25/strategy-should-halt-bitcoin-buys-and-bolster-cash-reserves-cryptoquant-says.html)**
 
-As of June 24, the company held $94.8M in cash, restricted cash, Bitcoin and silver. It said that equals 100.42% of its class A market cap.
+Michael Saylor's Strategy should pause its bitcoin purchases and rebuild its cash reserves, according to a CryptoQuant report.
 
-Stock Titan • 5h ago
+CNBC • 1h ago
 
 ---
 
-**[Eugene Jarecki Knew Streamers ‘Were Never Going to Touch’ His Julian Assange Documentary. So He’s Releasing It Through Bitcoin With the Help of Jack Dorsey](https://variety.com/2026/film/global/eugene-jarecki-releasing-julian-assange-doc-bitcoin-1236789108/)**
+**[Coinbase vs. Strategy: Which Bitcoin-Related Stock is Worth the Risk?](https://www.zacks.com/commentary/2942402/coinbase-vs-strategy-which-bitcoin-related-stock-is-worth-the-risk)**
 
-Eugene Jarecki discusses releasing his Julian Assange documentary in tandem with Jack Dorsey using a Bitcoin-supported business model.
-
-Variety • 22h ago
+Zacks Investment Research • 21h ago
 
 ---
 
@@ -239,7 +243,7 @@ Variety • 22h ago
 
 Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
 
-⬆️ 36 • 💬 10 • 11h ago • [ft.com](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
+⬆️ 37 • 💬 10 • 14h ago • [ft.com](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
 
 ---
 
@@ -251,6 +255,14 @@ The cryptocurrency's latest selloff is forcing investors to revisit what role, i
 
 ---
 
+**[Bitcoin falls back under $60k, hitting its lowest level since October 2024](https://news.ycombinator.com/item?id=48673336)**
+
+Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
+
+⬆️ 6 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
+
+---
+
 **[Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week](https://news.ycombinator.com/item?id=48627706)**
 
 Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
@@ -259,12 +271,20 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 ---
 
+**[What happens when Bitcoin miners take over your town (2018)](https://news.ycombinator.com/item?id=48668919)**
+
+Eastern Washington had cheap power and tons of space. Then the suitcases of cash started arriving.
+
+⬆️ 2 • 💬 1 • 11h ago • [POLITICO](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
+
+---
+
 **[Forensic Analysis: Hal Finney Missed the Bitcoin Launch](https://news.ycombinator.com/item?id=48663540)**
 
 What everyone knows about Bitcoin's Launch is wrong.
 (full research 1st comment) https://t.co/44OTcmakQ4
 
-⬆️ 2 • 💬 1 • 19h ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2069786136998785412)
+⬆️ 2 • 💬 1 • 22h ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2069786136998785412)
 
 ---
 
@@ -272,21 +292,13 @@ What everyone knows about Bitcoin's Launch is wrong.
 
 Create an independent digital timestamp without uploading the original file.
 
-⬆️ 2 • 💬 0 • 17h ago • [svartnod.com](https://svartnod.com)
+⬆️ 2 • 💬 0 • 20h ago • [svartnod.com](https://svartnod.com)
 
 ---
 
 **[Ask HN: What is today's "Bitcoin in 2010"?](https://news.ycombinator.com/item?id=48636039)**
 
 ⬆️ 2 • 💬 0 • 2d ago
-
----
-
-**[What happens when Bitcoin miners take over your town (2018)](https://news.ycombinator.com/item?id=48668919)**
-
-Eastern Washington had cheap power and tons of space. Then the suitcases of cash started arriving.
-
-⬆️ 1 • 💬 1 • 9h ago • [POLITICO](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
 
 ---
 
@@ -316,7 +328,17 @@ Trade Stocks on Bitget: https://www.bitget.com/kol-register?channelCode=AltcoinD
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 259 • ⏱️ 14:14 • 15h ago
+👁️ 39K • 👍 2K • 💬 279 • ⏱️ 14:14 • 17h ago
+
+---
+
+**[Bitcoin Survived ANOTHER $1 Billion Liquidation Flush](https://www.youtube.com/watch?v=sJEhhjpCbmM)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 669 • 💬 82 • ⏱️ 1:04:50 • 1h ago
 
 ---
 
@@ -326,7 +348,17 @@ I disappeared for a while after suffering massive financial losses. This is wher
 
 📺 TechLead
 
-👁️ 88K • 👍 5K • 💬 2K • ⏱️ 11:23 • 18h ago
+👁️ 96K • 👍 6K • 💬 2K • ⏱️ 11:23 • 21h ago
+
+---
+
+**[Bitcoin Just Flashed A Major Bottom Signal Last Seen In 2022](https://www.youtube.com/watch?v=A5uTjCmQPuc)**
+
+Bitcoin #Crypto #Finance Bitcoin just set an all-time pain record - 10.83 MILLION BTC are now held at a loss per Glassnode, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 5K • 👍 371 • 💬 201 • ⏱️ 28:40 • 2h ago
 
 ---
 
@@ -336,17 +368,27 @@ Bitcoin, Ethereum, Solana, Micron, and crypto sentiment BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 3K • 👍 246 • 💬 39 • ⏱️ 19:15 • 1h ago
+👁️ 7K • 👍 413 • 💬 83 • ⏱️ 19:15 • 4h ago
 
 ---
 
-**[How Much of the Bitcoin Bear Market Do We Have Left?!?](https://www.youtube.com/watch?v=avvEYemegAE)**
+**[CRYPTO Crash Continues MASSIVE Liquidations! (WILL IT END?)](https://www.youtube.com/watch?v=Z1x0_WfgLPQ)**
 
-Bitcoin just crashed over 5% today to $59200! Price pain is being felt everywhere... but time pain is starting to set in. When we look ...
+Crypto continues to crash and the question really is...how much longer and what is the best approach here? My Links: ▻ Get ...
 
-📺 Swan Bitcoin
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 358 • 💬 108 • ⏱️ 15:21 • 15h ago
+👁️ 2K • 👍 266 • 💬 48 • ⏱️ 43:11 • 37m ago
+
+---
+
+**[BITCOIN &amp; CRYPTO BLOODBATH. [THIS IS VERY BAD]](https://www.youtube.com/watch?v=0r66lb_3U6U)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 BTCC: https://cryptokid.io/BTCC 10% DEPOSIT BONUS ...
+
+📺 Crypto Kid
+
+👁️ 1K • 👍 202 • 💬 50 • ⏱️ 11:29 • 1h ago
 
 ---
 
@@ -360,53 +402,23 @@ Bitcoin has lost its momentum, but the real story may have nothing to do with pr
 
 ---
 
+**[How Much of the Bitcoin Bear Market Do We Have Left?!?](https://www.youtube.com/watch?v=avvEYemegAE)**
+
+Bitcoin just crashed over 5% today to $59200! Price pain is being felt everywhere... but time pain is starting to set in. When we look ...
+
+📺 Swan Bitcoin
+
+👁️ 6K • 👍 385 • 💬 112 • ⏱️ 15:21 • 18h ago
+
+---
+
 **[Bitcoin ALMOST Lost $60k Support...](https://www.youtube.com/watch?v=o9RJCPMKpac)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 698 • 💬 272 • ⏱️ 8:17 • 13h ago
-
----
-
-**[Class Action Lawsuit Against MicroStrategy | What Happens to Their Bitcoin?](https://www.youtube.com/watch?v=AnbQil2FDzU)**
-
-A class action lawsuit against MicroStrategy is now official. We analyze if Michael Saylor must sell Bitcoin holdings due to this.
-
-📺 Ricky Gutierrez
-
-👁️ 8K • 👍 519 • 💬 106 • ⏱️ 11:57 • 9h ago
-
----
-
-**[Bitcoin Can&#39;t Find a Floor. Here&#39;s Where It Actually Stops.](https://www.youtube.com/watch?v=H8mv_XIzqVE)**
-
-Everybody's asking the same question: where's the bottom? But that's the wrong question, and it could cost you. There's a different ...
-
-📺 Mark Moss
-
-👁️ 82K • 👍 3K • 💬 431 • ⏱️ 17:22 • 1d ago
-
----
-
-**[THE BITCOIN MOVE NOBODY IS EXPECTING!](https://www.youtube.com/watch?v=BfvSs450kys)**
-
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 7K • 👍 747 • 💬 56 • ⏱️ 24:25 • 9h ago
-
----
-
-**[Saylor&#39;s Problem Isn&#39;t Bitcoin&#39;s Problem. Big PullBack.](https://www.youtube.com/watch?v=ejeW51t589E)**
-
-Michael Saylor's Strategy is staring down a $1.2 BILLION dividend bill with its cash reserves down 38% — and analysts are now ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 475 • 💬 75 • ⏱️ 19:47 • 18h ago
+👁️ 12K • 👍 706 • 💬 304 • ⏱️ 8:17 • 16h ago
 
 ---
 
