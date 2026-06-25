@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-25T20:57:53.194627+00:00'
+updated: '2026-06-25T22:26:19.470327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 25, 2026 at 20:57 UTC  
+**Last Updated:** June 25, 2026 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,494.05
+### $59,890.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -6.5%  
-**30d:** -20.3%  
-**90d:** -10.6%  
-**1y:** -44.5%  
+**24h:** -2.0%  
+**7d:** -5.9%  
+**30d:** -19.7%  
+**90d:** -9.9%  
+**1y:** -44.1%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[That’s all you got?!?](https://www.reddit.com/r/Bitcoin/comments/1ufaxnn/thats_all_you_got/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Bitcoin explained](https://www.reddit.com/r/Bitcoin/comments/1uf2n5s/bitcoin_explained/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin is down so bad Bloomberg removed it from their homepage](https://www.reddit.com/r/Bitcoin/comments/1ufer4g/bitcoin_is_down_so_bad_bloomberg_removed_it_from/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Bitcoin opened deep in the red today, and I already know what's happening somewhere in my circle. There's someone who has never owned Bitcoin, (one of my best friends) never wanted to, who gets noticeably happier every time the price drops. Not because they're finally planning to buy the dip. Not because they suddenly think it's undervalued. Just because I'm losing money.There's actually a word for this: Schadenfreude. The pleasure people feel when someone else suffers. Psychologists have studied it for decades, and what they found is a little uncomfortable. The closer someone is to you, and the more they quietly see you as competition, the more rewarding your failure can feel. It's usually not conscious cruelty. It's something much older than that: status, comparison, and the instinct to measure ourselves against the people around us. Bitcoin makes this even stronger because it's one of the few investments people build an identity around. We don't just buy it. We defend it. We explain it to friends. We argue about it over dinner. We become emotionally invested long before we see a financial return. And when you've made your conviction that public, everyone around you gets a front-row seat to see whether you were right or wrong. The irony is that schadenfreude becomes even stronger when the person losing was genuinely convinced they were right. It's not just about the money. It's about watching confidence collide with reality. So yeah... someone in your life might be enjoying today's price action. Not the chart, but your face when you check the chsrt. Does realizing that change my conviction? Not at all.......It just makes me much more careful about who I talk to about Bitcoin. Have you ever noticed this with friends or family?
 
-6h ago
+7h ago
 
 ---
 
@@ -107,13 +107,13 @@ Bitcoin opened deep in the red today, and I already know what's happening somewh
 
 BTC finally dips and of course I already went all in before this move. Now I’m just sitting here staring at charts wondering if I should: A. chill B. panic C. or uninstall every crypto app People who survived previous cycles what do you actually do mentally when you’re fully allocated and the market keeps dropping?
 
-4h ago
+6h ago
 
 ---
 
 **[Ignore the noise, appreciate the facts!](https://www.reddit.com/r/Bitcoin/comments/1ueqks4/ignore_the_noise_appreciate_the_facts/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ BTC finally dips and of course I already went all in before this move. Now I’m
 
 Question for the people here who hold a BTC position and aren't day-trading it: how do you handle the urge to check the chart constantly when structure starts feeling fragile? When things get shaky I'm refreshing way too often - morning, work, before bed - not because I'm going to trade it, just because I don't want to be the last to know if something's actually breaking down. It's draining, and I'm not sure it even helps. Do you have an actual rule or system for this, or do you just sit through it? Do price alerts help, or do they make you check more? And honestly - does watching more closely make you feel better, or worse?
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Question for the people here who hold a BTC position and aren't day-trading it: 
 
 Thoughts on the bitcoin power law chart? I understand it is just a chart so it only reads data but, its been true so far through bitcoins history. There appears to be a large support at 59k, so how could bitcoin make a new YTD Low or hit 45k or whatever yall are saying the cycle is predicting. Lemme know your thoughts. Bitbo Long Term Power Law Chart - https://charts.bitbo.io/long-term-power-law/
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Thoughts on the bitcoin power law chart? I understand it is just a chart so it o
 
 His argument isn't really about phones but about a broader trend toward mandatory identification everywhere. Once anonymous access disappears, every data breach becomes a target list, every privacy-conscious person becomes suspicious, and using Bitcoin itself can become a red flag. The people hurt most are ordinary users, journalists, activists, and anyone who values privacy. Meanwhile, criminals simply adapt using stolen identities and compromised accounts. Privacy isn't about having something to hide. It's about reducing attack surfaces and protecting personal sovereignty. Worth the read: https://nt4tn.net/FCC-17-59-gmaxwell.pdf
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ His argument isn't really about phones but about a broader trend toward mandator
 
 Shoutout to GameKyuubi
 
-5h ago
+7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Shoutout to GameKyuubi
 
 **[Bitcoin Whale Makes Dash For Cash As Preferred Stock Crashes](https://www.investors.com/news/mstr-stock-bitcoin-whale-strategy-cash-reserve-strc-preferred-stock/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -185,13 +185,13 @@ Yahoo Finance • 1d ago
 
 Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.
 
-TradingView • 47m ago
+TradingView • 2h ago
 
 ---
 
 **[Nancy Guthrie kidnapping: Expert says $152 Bitcoin tactic unlikely to have worked](https://www.newsnationnow.com/missing/nancy-guthrie-kidnapping-bitcoin-cybercrime/)**
 
-NewsNation • 13h ago
+NewsNation • 15h ago
 
 ---
 
@@ -205,7 +205,7 @@ AL.com • 1d ago
 
 Bitplanet signed an MOU with Antalpha to enter the Bitcoin mining space.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -219,7 +219,7 @@ Barron's • 3d ago
 
 The world's largest cryptocurrency fell to fresh lows, driving Strategy's stock to levels it hasn't seen in years.
 
-Investopedia • 1h ago
+Investopedia • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Investopedia • 1h ago
 
 Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
 
-⬆️ 38 • 💬 10 • 19h ago • [ft.com](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
+⬆️ 39 • 💬 10 • 20h ago • [ft.com](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
 
 ---
 
@@ -247,7 +247,7 @@ The cryptocurrency's latest selloff is forcing investors to revisit what role, i
 
 Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
 
-⬆️ 6 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
+⬆️ 6 • 💬 0 • 8h ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
 
 ---
 
@@ -263,7 +263,7 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 Eastern Washington had cheap power and tons of space. Then the suitcases of cash started arriving.
 
-⬆️ 2 • 💬 1 • 16h ago • [POLITICO](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
+⬆️ 2 • 💬 1 • 17h ago • [POLITICO](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
 
 ---
 
@@ -316,7 +316,7 @@ The price of Bitcoin continued to turn lower on Thursday as Strategy's flagship 
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 707 • 💬 136 • ⏱️ 20:25 • 1h ago
+👁️ 7K • 👍 707 • 💬 136 • ⏱️ 20:25 • 2h ago
 
 ---
 
@@ -336,7 +336,7 @@ Trade Stocks on Bitget: https://www.bitget.com/kol-register?channelCode=AltcoinD
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 225 • ⏱️ 14:14 • 22h ago
+👁️ 43K • 👍 2K • 💬 225 • ⏱️ 14:14 • 23h ago
 
 ---
 
@@ -346,7 +346,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 858 • 💬 100 • ⏱️ 1:04:50 • 5h ago
+👁️ 16K • 👍 858 • 💬 100 • ⏱️ 1:04:50 • 7h ago
 
 ---
 
@@ -356,7 +356,7 @@ Bitcoin has officially been declared dead again. History suggests that may be ex
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 338 • 💬 86 • ⏱️ 14:55 • 4h ago
+👁️ 5K • 👍 338 • 💬 86 • ⏱️ 14:55 • 6h ago
 
 ---
 
@@ -366,7 +366,7 @@ Bitcoin #Crypto #Finance Bitcoin just set an all-time pain record - 10.83 MILLIO
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 559 • 💬 257 • ⏱️ 28:40 • 7h ago
+👁️ 12K • 👍 559 • 💬 257 • ⏱️ 28:40 • 8h ago
 
 ---
 
@@ -376,7 +376,7 @@ Exchanges I used for trading: BLOFIN: https://partner.blofin.com/d/TeamUndergrou
 
 📺 Team Underground
 
-👁️ 401 • 👍 35 • 💬 17 • ⏱️ 5:30 • 2h ago
+👁️ 401 • 👍 35 • 💬 17 • ⏱️ 5:30 • 4h ago
 
 ---
 
@@ -396,7 +396,7 @@ Bitcoin draws down AGAIN as $60k price gets tested ... WHAT COMES NEXT?
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 378 • 💬 72 • ⏱️ 1:17:04 • 2h ago
+👁️ 6K • 👍 378 • 💬 72 • ⏱️ 1:17:04 • 3h ago
 
 ---
 
@@ -406,7 +406,7 @@ Bitcoin is impossible to predict over short time horizons, but historical data c
 
 📺 Joe Burnett
 
-👁️ 1K • 👍 86 • 💬 9 • ⏱️ 6:29 • 7h ago
+👁️ 1K • 👍 86 • 💬 9 • ⏱️ 6:29 • 9h ago
 
 ---
 

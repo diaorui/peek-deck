@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-25T20:57:53.186832+00:00'
+updated: '2026-06-25T22:26:19.462375+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 25, 2026 at 20:57 UTC  
+**Last Updated:** June 25, 2026 at 22:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes -The reason? Amazon engineers reportedly found a narrow jailbreak that could bypass Fable’s cybersecurity classifiers -Anthropic complied but publicly pushed back, calling the action unfair -Trump met Dario Amodei at the G7 and softened his stance, but the directive was never officially lifted -June 26 (today): Congressional deadline for Commerce Secretary Lutnick to respond in writing about the export controls Prediction markets are pricing ~57% odds of restoration before July 1. Developers have been stuck on Opus 4.8 this whole time. This whole situation raises a serious question: if a government can pull your AI model offline in 90 minutes, what does that mean for anyone building on closed, hosted models?
 
-10h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their mo
 
 The last few days, I've been getting obviously AI robocallers trying to sell me Medicare plans. (I'm not old enough for Medicare for another 20 years.) Sometimes it's a male voice, sometimes female. Always a different name. They've added a little trick where they start their speech then cough or sneeze, then say "Sorry about that," or a similar apology then continue. But if you try to interrupt them, they just keep talking, so you know it's AI. And they do the cough/apology in EVERY call, male or female voice, in just about the same spot. It's really annoying, and borderline offensive that they are trying so hard to pretend to be human.
 
-3h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ The last few days, I've been getting obviously AI robocallers trying to sell me 
 
 For me, it would probably be search, writing assistance, and productivity tools. I'm curious-what Al-powered tool do you use most often without even thinking about it?
 
-6h ago
+7h ago
 
 ---
 
@@ -65,15 +65,15 @@ For me, it would probably be search, writing assistance, and productivity tools.
 
 The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 9h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 11h ago
 
 ---
 
-**[AI-video startup Midjourney debuts ultrasound machine](https://www.reddit.com/r/artificial/comments/1ufgdkl/aivideo_startup_midjourney_debuts_ultrasound/)**
+**[Look I am cheap only reason I used you was because it was free.](https://www.reddit.com/r/artificial/comments/1ufhcsg/look_i_am_cheap_only_reason_i_used_you_was/)**
 
-Midjourney, an artificial intelligence startup known for generative images and videos, has announced its first hardware project. CEO David Holz unveiled the Midjourney Scanner, a full-body ultrasound machine aimed at the personal health sector. "No such device has ever been built until now," Holz said, claiming the technology is more advanced than MRI scanners. While the company plans to open "Midjourney Spa" locations, broader applications may require FDA approval.
+AI used to be fun to mess with but not 30 bucks a month interesting :)
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/ai-video-startup-midjourney-debuts-ultrasound-machine-7368284/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 3h ago
+4h ago
 
 ---
 
@@ -81,13 +81,31 @@ Midjourney, an artificial intelligence startup known for generative images and v
 
 Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now performing close to leading models from OpenAI and Anthropic on coding and AI agent benchmarks. The company claims the model delivers competitive results at a much lower cost and has been optimized to run on domestic Chinese hardware, including Huawei chips. Z.ai is also planning a dual listing in Hong Kong and Shanghai to fund its long-term AGI ambitions. The news comes as China's AI sector continues to narrow the gap with leading U.S. AI labs despite ongoing restrictions on advanced chip access. Are we entering a world where frontier AI is no longer dominated by a handful of U.S. companies?
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 10h ago
 
 ---
 
-**[There’s One Clear Reason Why Americans Are Gloomy About A.I.](https://www.reddit.com/r/artificial/comments/1ufasrb/theres_one_clear_reason_why_americans_are_gloomy/)**
+**[AI-video startup Midjourney debuts ultrasound machine](https://www.reddit.com/r/artificial/comments/1ufgdkl/aivideo_startup_midjourney_debuts_ultrasound/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) • 7h ago
+Midjourney, an artificial intelligence startup known for generative images and videos, has announced its first hardware project. CEO David Holz unveiled the Midjourney Scanner, a full-body ultrasound machine aimed at the personal health sector. "No such device has ever been built until now," Holz said, claiming the technology is more advanced than MRI scanners. While the company plans to open "Midjourney Spa" locations, broader applications may require FDA approval.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/ai-video-startup-midjourney-debuts-ultrasound-machine-7368284/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 5h ago
+
+---
+
+**[Just for curiosity but how someone can create nsfw imagines and comics with the ai](https://www.reddit.com/r/artificial/comments/1ufoj41/just_for_curiosity_but_how_someone_can_create/)**
+
+I don't think that this is possible because I see that it's pretty difficulty, I asked to an ai how they did but I'm more confused that I was, can someone tell how can they? Thanks
+
+3m ago
+
+---
+
+**[Linux Foundation wants to use DNS as the identity layer for AI agents](https://www.reddit.com/r/artificial/comments/1ufesgh/linux_foundation_wants_to_use_dns_as_the_identity/)**
+
+The Linux Foundation just announced its intent to launch the Agent Name Service (ANS), an open standard for providing AI agents with verifiable identities. The basic idea is to reuse existing internet infrastructure, mainly DNS so that an AI agent can prove: which organization or domain it belongs to What is allowed to do whether its identity and history can be verified how other agents or systems should discover and interact with it
+
+6h ago
 
 ---
 
@@ -95,23 +113,7 @@ Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now pe
 
 I need some help. I’m new to AI stuff, and I’ve been scouring the internet for existing covers and not finding what I’m looking for. So here I am. My husband of 15 years and I are renewing our vows in November, and we’re treating it like a do over. Our original wedding was very low budget, and not really what we imagined it would be- but it was still a special day for us. This time, we want to do things right. I want to walk down the aisle to Alkaline by Sleep Token, it’s a song he dedicated to me and I love it. But I want a classical/gothic, almost whimsical instrumental cover of it. One that sounds like a dark wedding procession song. I have no idea how to do it though. Does anyone have any recommendations on how to go about this? Or could someone generate that version for me? Thank you so much for everyone’s time. 🖤
 
-15m ago
-
----
-
-**[What's the most annoying thing about using AI as a tool for revision in education, in your opinion?](https://www.reddit.com/r/artificial/comments/1uffaow/whats_the_most_annoying_thing_about_using_ai_as_a/)**
-
-Anything from not being able to follow mark schemes, question structures, the lot.
-
-4h ago
-
----
-
-**[Discussing how apps aren't asking you anything. A dev wrote a strategy that picks questions to farm your time.](https://www.reddit.com/r/artificial/comments/1uflgds/discussing_how_apps_arent_asking_you_anything_a/)**
-
-my notes app asked me for introspection using AI features, I tried to break down as much as possible ways to see/show how users will interact with code, but I still don't know if I landed. I ask at the end for their thinking on why do people think that AIs talk to them and know them personally? Why do they think the computer personally wrote something to them? (For real this is unironically trying to figure out this)
-
-🔗 [open.substack.com](https://open.substack.com/pub/botsdaughter/p/what-does-creativity-mean-to-you) • 33m ago
+1h ago
 
 ---
 
@@ -123,13 +125,13 @@ my notes app asked me for introspection using AI features, I tried to break down
 
 The AI lab is hiring for AI data center roles in Australia and Japan as it rushes to expand compute capacity overseas.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
 **[The AI Data-Center Boom Is Sparking a Third Wave of Inflation](https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e)**
 
-WSJ • 19h ago
+WSJ • 21h ago
 
 ---
 
@@ -137,25 +139,25 @@ WSJ • 19h ago
 
 Qualcomm is looking to move past the smartphone era.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[The New Push to Ready Millions for AI Career Upheaval](https://www.wsj.com/lifestyle/careers/the-new-push-to-ready-millions-for-ai-career-upheaval-dfb04cc5)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
 **[Big Companies Aim to Ease A.I. Transition for American Workers](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
 **[$500 million AI jobs push launches with bipartisan backing](https://www.politico.com/news/2026/06/25/500-million-ai-jobs-push-launches-with-bipartisan-backing-00975439)**
 
-Politico • 11h ago
+Politico • 13h ago
 
 ---
 
@@ -163,7 +165,7 @@ Politico • 11h ago
 
 For AI companies on the verge of releasing cutting edge new AI models, there’s a new normal in the wake of the Trump administration’s tense showdown with Anthropic in recent weeks. On Wednesday, for example, OpenAI CEO Sam Altman informed staff during a Q&A session that the company would release ...
 
-The Information • 41m ago
+The Information • 2h ago
 
 ---
 
@@ -171,7 +173,7 @@ The Information • 41m ago
 
 Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.
 
-TechCrunch • 38m ago
+TechCrunch • 2h ago
 
 ---
 
@@ -179,7 +181,7 @@ TechCrunch • 38m ago
 
 On Tuesday, investors were dumping AI stocks, worried that frothy valuations may be running away from reality. By Thursday, they were believers again.
 
-CNN • 9h ago
+CNN • 11h ago
 
 ---
 
@@ -187,7 +189,7 @@ CNN • 9h ago
 
 A blowout quarter for the memory maker is only lifting certain parts of the data center buildout.
 
-CNBC • 55m ago
+CNBC • 2h ago
 
 ---
 
@@ -197,13 +199,13 @@ CNBC • 55m ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 735 • 💬 1185 • 1d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 739 • 💬 1194 • 1d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](https://news.ycombinator.com/item?id=48674446)**
 
-⬆️ 545 • 💬 289 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+⬆️ 560 • 💬 295 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -251,11 +253,11 @@ Proprietary AI is both too expensive and too centralized in control for most cou
 
 ---
 
-**[Meta pauses AI training program tracking employee keystrokes after internal leak](https://news.ycombinator.com/item?id=48636632)**
+**[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://news.ycombinator.com/item?id=48675435)**
 
-Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.
+Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
 
-⬆️ 123 • 💬 31 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)
+⬆️ 143 • 💬 65 • 6h ago • [GitHub](https://github.com/inkeep/open-knowledge)
 
 ---
 
@@ -307,7 +309,7 @@ China just released a FREE open AI model that's shaking up the entire AI industr
 
 📺 Your AI Guy
 
-👁️ 11K • 👍 274 • 💬 58 • ⏱️ 15:48 • 19h ago
+👁️ 11K • 👍 274 • 💬 58 • ⏱️ 15:48 • 20h ago
 
 ---
 
@@ -317,7 +319,7 @@ Gina Raimondo, the former U.S. Commerce Secretary under President Biden, joins M
 
 📺 MS NOW
 
-👁️ 2K • 👍 77 • 💬 88 • ⏱️ 7:27 • 3h ago
+👁️ 2K • 👍 77 • 💬 88 • ⏱️ 7:27 • 5h ago
 
 ---
 
@@ -367,7 +369,7 @@ With the rapid development in AI-powered wearables, educators in East Asia are s
 
 📺 CNN
 
-👁️ 26K • 👍 489 • 💬 29 • ⏱️ 1:09 • 12h ago
+👁️ 26K • 👍 489 • 💬 29 • ⏱️ 1:09 • 14h ago
 
 ---
 
@@ -491,7 +493,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 3,389 • ❤️ 227 • 13h ago
+⬇️ 3,389 • ❤️ 227 • 15h ago
 
 ---
 
@@ -638,7 +640,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.8k • 🔱 10.1k • 3h ago
+⭐ 77.8k • 🔱 10.1k • 4h ago
 
 ---
 
@@ -648,7 +650,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 57.8k • 🔱 2.9k • 3h ago
+⭐ 57.8k • 🔱 2.9k • 5h ago
 
 ---
 
@@ -658,7 +660,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.7k • 🔱 1.0k • 4h ago
+⭐ 10.7k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -678,7 +680,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.9k • 🔱 581 • 2m ago
+⭐ 4.9k • 🔱 581 • 1h ago
 
 ---
 
@@ -708,7 +710,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 1.9k • 🔱 138 • 2d ago
+⭐ 1.9k • 🔱 138 • 3d ago
 
 ---
 
@@ -718,7 +720,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 1.8k • 🔱 250 • 10h ago
+⭐ 1.8k • 🔱 250 • 11h ago
 
 ---
 

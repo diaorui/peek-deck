@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-25T20:57:53.202809+00:00'
+updated: '2026-06-25T22:26:19.478576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 25, 2026 at 20:57 UTC  
+**Last Updated:** June 25, 2026 at 22:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to show what it looks like to rethink human-robot collaboration, using AI so a shrinking pool of experts can meet the increasing demands of future infrastructure. The obvious thing to automate is the rote physical work that consumes an expert's attention without needing critical judgment. Cabling tasks are the most common example of this. They're necessary when setting up any rack, but usually one-off, and labor is readily available to address this need. We think this is a good place to start, but the least interesting place to change how people work. Standard operating procedures (SOPs) are how critical infrastructure stays stable, and they're the work that scales worst. The video shows one common procedure: clearing the cables a technician leaves behind after testing, and reconciling the rack to a stable state for the next test. A robot that runs SOPs the same way every time, never skipping a step, keeps the system in a known, predictable state. This reduces the cognitive overhead on experts so they can solve harder problems. What most excites us is robots guiding where an expert's attention should go. In the video, the robot checks the switches with a thermal camera, then makes a judgment on whether the increase in temperature is a real problem or a spurious reading. This instinct requires an expert to synthesize all available background context and accumulated lessons from past failures. This is where we want to double down, and show how human-robot collaboration places scarce expert attention exactly where it matters. More to come.
 
-22h ago
+1d ago
 
 ---
 
 **[Robotica arm 3d printed](https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
 
-12h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a university project. It's so hard to iterate because as soon as I get close to making progress, I have to power the whole thing off and replace the battery. Now I know you should run heavy processing offline and communicate with the robot over a network, but what I am doing is basically ROS2 troubleshooting for which I need the setup exactly as it will be during deployment. Exactly how is this "robotics revolution" powered by vision-language-action models supposed to work, when the most popular quadruped cannot even power a jetson for more than 15 minutes standing still??? I always thought VLA was an impractical idea, but now I am even less convinced.
 
-20h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a universi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 13h ago
+🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 **[I mean chat only helped a little 🫪](https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 Is this the Move-37 moment for flooring? I know, this machine is engineered for this job and probably needs close to perfect conditions to work, hence lacking the "creativity" of AlphaGo. But still, don't look where we are today, but 2 more machines down the line. Seems frightening for flooring installers at least.
 
-12h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is this the Move-37 moment for flooring? I know, this machine is engineered for 
 
 （Translating this interesting Japanese post into English for the community! [Repost/Translation] Original link provided at the end.） We are diving right into microcontroller-based control today to explore some new IMU sensors for the Mini Pupper. Here is the breakdown: Table of contents BNO055 Integrating the BNO055 into Mini Pupper Key Notes Party Trick Time! Conclusion BNO055 Previously, I used the ATOM Matrix for control and had fun experimenting with attitude control using its built-in MPU6886 IMU sensor. My goal was to track the Yaw angle (rotation around the gravity axis) so the robot could keep facing the same direction even when the floor beneath it rotated. However, the MPU6886 suffered from significant Yaw drift, forcing me to abandon that approach. In this post, I’m switching to a different IMU sensor to finally achieve accurate Yaw control. To be fair, it's no surprise that a 6-axis IMU like the MPU6886 struggles with Yaw. That said, even with another 6-axis sensor like the MPU6050, you can actually get a relatively low-drift Yaw angle after a proper offset calibration. I could have gone with the MPU6050, but I decided to try out the BNO055 9-axis IMU sensor instead. Honestly, while the internal processing of the BNO055 is a bit of a black box, it delivers highly accurate attitude angles. You can get precise orientation data right out of the box without any tedious calibration or manual compensation using this sample code. Integrating the BNO055 into Mini Pupper I could have simply added the BNO055 to my previous ATOM Matrix setup. However, adding an extra IMU to a board that already integrates an MPU6886 felt way too redundant, and I just couldn't accept it. So, I opted for the ATOM Lite as the controller instead. BNO055 Circuit Board Key Notes While the BNO055 communicates via I2C, I ran into an issue where using M5Atom.h from the M5Stack Arduino library prevented me from mapping custom I2C pins for the Adafruit_BNO055 library. https://preview.redd.it/obc4fr764r8h1.png?width=1196&format=png&auto=webp&s=72d581213069e44203c269b73a8353f036312c93 To bypass this, I skipped the M5Stack library entirely and programmed the ATOM Lite using the standard ESP32 Arduino framework instead. This allowed me to freely specify the I2C pins, and communication with the BNO055 worked flawlessly. In this setup, I assigned Wire.begin(25, 21) for the BNO055 and Wire1.begin(22, 19) for the PCA9685 servo driver. I can confirm that everything runs perfectly without any issues! Reading attitude data with the BNO055, controlling the servos with the PCA9685, and lighting up the NeoPixels —— I've finally built my ideal board! Party trick Time! Thanks to the BNO055, I can now get highly accurate orientation angles. No Kalman filtering or complex algorithms needed—I just used the raw angle data straight from the sensor. The BNO055 is a beast and made this incredibly easy. I tested out the Yaw-based turn control to keep the robot locked onto a single heading while rotating. The longed-for Mini Pupper party trick Looks great! The walking gaits I programmed earlier are also working perfectly. ATOM Lite version Mini Pupper is also doing very well Even when the floor is tilted, parallel control based on foot height is smoothly achieved using only the attitude angle P control of BNO055. Conclusion I had a blast using the BNO055 9-axis IMU sensor to control the Mini Pupper. The BNO055 is honestly a game-changer—it finally allowed me to bring my dream Mini Pupper party trick to life! It's incredibly rewarding to watch this little robot get smarter and smarter. I'll definitely keep learning and experimenting! Original Japanese Post Original X Post #1 (Media) Original X Post #2 (Media) Original X Post #3 (Media) Original X Post #4 (Media)
 
-17h ago
+19h ago
 
 ---
 
@@ -128,7 +128,7 @@ CBS News • 1d ago
 
 **[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-OregonLive.com • 12m ago
+OregonLive.com • 1h ago
 
 ---
 
@@ -136,7 +136,7 @@ OregonLive.com • 12m ago
 
 The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -150,7 +150,7 @@ Politico • 2d ago
 
 Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
 
-CNBC • 20h ago
+CNBC • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Guardian • 1d ago
 
 High school students from Trafalgar Castle School in Whitby say their qualification shows women can thrive in STEM fields
 
-The Globe and Mail • 22h ago
+The Globe and Mail • 23h ago
 
 ---
 
@@ -182,7 +182,7 @@ NVIDIA Developer • 3d ago
 
 BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) �
 
 📺 Solving The Money Problem
 
-👁️ 29K • 👍 2K • 💬 154 • ⏱️ 10:31 • 15h ago
+👁️ 29K • 👍 2K • 💬 154 • ⏱️ 10:31 • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ Check out the UniTree Go 2 from JoyBuy Here: https://geni.us/Go2ProJoyBuy £200 
 
 📺 FauxHammer
 
-👁️ 1K • 👍 94 • 💬 41 • ⏱️ 22:08 • 4h ago
+👁️ 1K • 👍 94 • 💬 41 • ⏱️ 22:08 • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ Tesla Optimus Factory just hit 4 floors—and Tesla's bold plan for 27000 robots
 
 📺 Tech Revolution
 
-👁️ 76K • 👍 1K • 💬 170 • ⏱️ 21:01 • 5d ago
+👁️ 76K • 👍 1K • 💬 170 • ⏱️ 21:01 • 6d ago
 
 ---
 

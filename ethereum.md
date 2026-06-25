@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-25T20:57:53.199909+00:00'
+updated: '2026-06-25T22:26:19.475650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 25, 2026 at 20:57 UTC  
+**Last Updated:** June 25, 2026 at 22:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** -9.0%  
-**30d:** -23.1%  
-**90d:** -21.9%  
-**1y:** -35.5%  
+**24h:** -3.4%  
+**7d:** -8.5%  
+**30d:** -22.6%  
+**90d:** -21.5%  
+**1y:** -35.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to understand how they could reduce MEV, strengthen censorship resistance, and reshape Ethereum's transaction pipeline.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 11h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to unders
 
 Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereum validators to redirect staking rewards toward sustainable public goods funding while balancing decentralization, governance, and long-term ecosystem growth.
 
-🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 15h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Ethereum Foundation cut 20% of its staff and 40% of its budget. Scott Melker
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ Decrypt • 1d ago
 
 Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 8h ago
 
 Tokyo, Japan, June  24, 2026  (GLOBE NEWSWIRE) -- $HODL  has officially expanded to Ethereum. The project-led by GameKyuubi, the original author o...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ markets.businessinsider.com • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView • 1d ago
 
 Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin
 
-PYMNTS.com • 23h ago
+PYMNTS.com • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDe
 
 📺 CoinDesk
 
-👁️ 298 • 👍 10 • 💬 3 • ⏱️ 18:21 • 3h ago
+👁️ 298 • 👍 10 • 💬 3 • ⏱️ 18:21 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum'
 
 📺 Cointelegraph
 
-👁️ 779 • 👍 18 • 💬 2 • ⏱️ 11:21 • 4h ago
+👁️ 779 • 👍 18 • 💬 2 • ⏱️ 11:21 • 6h ago
 
 ---
 
@@ -284,7 +284,7 @@ The crew debates whether Saylor's STRC preferred shares are "Luna for suits," un
 
 📺 Unchained
 
-👁️ 916 • 👍 44 • 💬 10 • ⏱️ 1:04:01 • 4h ago
+👁️ 916 • 👍 44 • 💬 10 • ⏱️ 1:04:01 • 6h ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 217 • 👍 15 • 💬 1 • ⏱️ 4:32 • 11h ago
+👁️ 217 • 👍 15 • 💬 1 • ⏱️ 4:32 • 12h ago
 
 ---
 
@@ -324,7 +324,7 @@ USE YUBIT: 25% FEE DISCOUNT FOREVER + $50000 DEPOSIT BONUS https://www.yubit.com
 
 📺 TMG Trades
 
-👁️ 2K • 👍 47 • 💬 57 • ⏱️ 0:56 • 11h ago
+👁️ 2K • 👍 47 • 💬 57 • ⏱️ 0:56 • 13h ago
 
 ---
 
@@ -334,7 +334,7 @@ Why doesn't Ethereum prioritize rapid institutional adoption? Optimism Co-Founde
 
 📺 Cointelegraph
 
-👁️ 388 • 👍 7 • ⏱️ 0:54 • 4h ago
+👁️ 388 • 👍 7 • ⏱️ 0:54 • 6h ago
 
 ---
 
