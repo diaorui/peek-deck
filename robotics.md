@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-25T18:33:29.887058+00:00'
+updated: '2026-06-25T20:57:53.202809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 25, 2026 at 18:33 UTC  
+**Last Updated:** June 25, 2026 at 20:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to show what it looks like to rethink human-robot collaboration, using AI so a shrinking pool of experts can meet the increasing demands of future infrastructure. The obvious thing to automate is the rote physical work that consumes an expert's attention without needing critical judgment. Cabling tasks are the most common example of this. They're necessary when setting up any rack, but usually one-off, and labor is readily available to address this need. We think this is a good place to start, but the least interesting place to change how people work. Standard operating procedures (SOPs) are how critical infrastructure stays stable, and they're the work that scales worst. The video shows one common procedure: clearing the cables a technician leaves behind after testing, and reconciling the rack to a stable state for the next test. A robot that runs SOPs the same way every time, never skipping a step, keeps the system in a known, predictable state. This reduces the cognitive overhead on experts so they can solve harder problems. What most excites us is robots guiding where an expert's attention should go. In the video, the robot checks the switches with a thermal camera, then makes a judgment on whether the increase in temperature is a real problem or a spurious reading. This instinct requires an expert to synthesize all available background context and accumulated lessons from past failures. This is where we want to double down, and show how human-robot collaboration places scarce expert attention exactly where it matters. More to come.
 
-20h ago
+22h ago
 
 ---
 
 **[Robotica arm 3d printed](https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
 
-10h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a university project. It's so hard to iterate because as soon as I get close to making progress, I have to power the whole thing off and replace the battery. Now I know you should run heavy processing offline and communicate with the robot over a network, but what I am doing is basically ROS2 troubleshooting for which I need the setup exactly as it will be during deployment. Exactly how is this "robotics revolution" powered by vision-language-action models supposed to work, when the most popular quadruped cannot even power a jetson for more than 15 minutes standing still??? I always thought VLA was an impractical idea, but now I am even less convinced.
 
-18h ago
+20h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a universi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 11h ago
+🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 **[I mean chat only helped a little 🫪](https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 Is this the Move-37 moment for flooring? I know, this machine is engineered for this job and probably needs close to perfect conditions to work, hence lacking the "creativity" of AlphaGo. But still, don't look where we are today, but 2 more machines down the line. Seems frightening for flooring installers at least.
 
-10h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is this the Move-37 moment for flooring? I know, this machine is engineered for 
 
 （Translating this interesting Japanese post into English for the community! [Repost/Translation] Original link provided at the end.） We are diving right into microcontroller-based control today to explore some new IMU sensors for the Mini Pupper. Here is the breakdown: Table of contents BNO055 Integrating the BNO055 into Mini Pupper Key Notes Party Trick Time! Conclusion BNO055 Previously, I used the ATOM Matrix for control and had fun experimenting with attitude control using its built-in MPU6886 IMU sensor. My goal was to track the Yaw angle (rotation around the gravity axis) so the robot could keep facing the same direction even when the floor beneath it rotated. However, the MPU6886 suffered from significant Yaw drift, forcing me to abandon that approach. In this post, I’m switching to a different IMU sensor to finally achieve accurate Yaw control. To be fair, it's no surprise that a 6-axis IMU like the MPU6886 struggles with Yaw. That said, even with another 6-axis sensor like the MPU6050, you can actually get a relatively low-drift Yaw angle after a proper offset calibration. I could have gone with the MPU6050, but I decided to try out the BNO055 9-axis IMU sensor instead. Honestly, while the internal processing of the BNO055 is a bit of a black box, it delivers highly accurate attitude angles. You can get precise orientation data right out of the box without any tedious calibration or manual compensation using this sample code. Integrating the BNO055 into Mini Pupper I could have simply added the BNO055 to my previous ATOM Matrix setup. However, adding an extra IMU to a board that already integrates an MPU6886 felt way too redundant, and I just couldn't accept it. So, I opted for the ATOM Lite as the controller instead. BNO055 Circuit Board Key Notes While the BNO055 communicates via I2C, I ran into an issue where using M5Atom.h from the M5Stack Arduino library prevented me from mapping custom I2C pins for the Adafruit_BNO055 library. https://preview.redd.it/obc4fr764r8h1.png?width=1196&format=png&auto=webp&s=72d581213069e44203c269b73a8353f036312c93 To bypass this, I skipped the M5Stack library entirely and programmed the ATOM Lite using the standard ESP32 Arduino framework instead. This allowed me to freely specify the I2C pins, and communication with the BNO055 worked flawlessly. In this setup, I assigned Wire.begin(25, 21) for the BNO055 and Wire1.begin(22, 19) for the PCA9685 servo driver. I can confirm that everything runs perfectly without any issues! Reading attitude data with the BNO055, controlling the servos with the PCA9685, and lighting up the NeoPixels —— I've finally built my ideal board! Party trick Time! Thanks to the BNO055, I can now get highly accurate orientation angles. No Kalman filtering or complex algorithms needed—I just used the raw angle data straight from the sensor. The BNO055 is a beast and made this incredibly easy. I tested out the Yaw-based turn control to keep the robot locked onto a single heading while rotating. The longed-for Mini Pupper party trick Looks great! The walking gaits I programmed earlier are also working perfectly. ATOM Lite version Mini Pupper is also doing very well Even when the floor is tilted, parallel control based on foot height is smoothly achieved using only the attitude angle P control of BNO055. Conclusion I had a blast using the BNO055 9-axis IMU sensor to control the Mini Pupper. The BNO055 is honestly a game-changer—it finally allowed me to bring my dream Mini Pupper party trick to life! It's incredibly rewarding to watch this little robot get smarter and smarter. I'll definitely keep learning and experimenting! Original Japanese Post Original X Post #1 (Media) Original X Post #2 (Media) Original X Post #3 (Media) Original X Post #4 (Media)
 
-15h ago
+17h ago
 
 ---
 
@@ -112,31 +112,9 @@ Is this the Move-37 moment for flooring? I know, this machine is engineered for 
 
 ## Google News: "robotics"
 
-**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
+**[Agility Robotics to go public in $2.5 billion deal with Michael Klein-backed SPAC](https://www.reuters.com/legal/transactional/agility-robotics-go-public-25-billion-spac-deal-wsj-reports-2026-06-24/)**
 
-WSJ • 1d ago
-
----
-
-**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
-
-The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
-
-Financial Times • 17h ago
-
----
-
-**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
-
-Politico • 1d ago
-
----
-
-**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
-
-When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
-
-The Guardian • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -148,11 +126,47 @@ CBS News • 1d ago
 
 ---
 
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+
+OregonLive.com • 12m ago
+
+---
+
+**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
+
+The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
+
+Financial Times • 20h ago
+
+---
+
+**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
+
+Politico • 2d ago
+
+---
+
+**[Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race](https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html)**
+
+Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
+
+CNBC • 20h ago
+
+---
+
+**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
+
+When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
+
+The Guardian • 1d ago
+
+---
+
 **[All-girl robotics team from Ontario takes its skills to world championship](https://www.theglobeandmail.com/canada/article-brilliant-minds-unite-all-girls-robotics-team-from-ontario-takes-its/)**
 
 High school students from Trafalgar Castle School in Whitby say their qualification shows women can thrive in STEM fields
 
-The Globe and Mail • 19h ago
+The Globe and Mail • 22h ago
 
 ---
 
@@ -164,27 +178,11 @@ NVIDIA Developer • 3d ago
 
 ---
 
-**[NHS ShoreBots celebrate historic Robotics season](https://shoredailynews.com/headlines/nhs-shorebots-celebrate-historic-robotics-season/)**
+**[BlackBerry is making a massive comeback. Just not the way you would think](https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics)**
 
-Pictured:Left to Right, Back row: Coach Stephanie Zodun, Brycen Joseph, Bear McCormick, Co-Captain Grayson Brown, Reid Travis, Coach Mike Zodun, Mentor Kate Lantham. Left to Right, Front row: Co-Captain Abigail Zodun, Temperance Stamer   Northampton High School’s robotics team, The ShoreBots, Team 1908, capped off the most successful season in program history this year with an appearance at the FIRST World ... Read More
+BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.
 
-Shore Daily News • 9h ago
-
----
-
-**[After Successfully Selling Over 15 Cars, Faraday Future Would Now Like You To Buy Its Robots](https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/)**
-
-Faraday Future recently showed off a lineup of robots as part of the electric car maker's latest pivot.
-
-Engadget • 19h ago
-
----
-
-**[Robot Memory Is The Next Big Robotics Frontier](https://www.forbes.com/sites/ronschmelzer/2026/06/23/robot-memory-is-the-next-big-robotics-frontier/)**
-
-MIT's DAAAM research gives robots a memory of what it seen, letting it build a detailed map of a space with descriptions that it ca attach descriptions to objects in that map, and answer plain English questions later.
-
-Forbes • 1d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -198,7 +196,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 53K • 👍 960 • 💬 80 • ⏱️ 24:13 • 6d ago
+👁️ 54K • 👍 965 • 💬 80 • ⏱️ 24:13 • 6d ago
 
 ---
 
@@ -208,27 +206,7 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 📺 FOX 5 New York
 
-👁️ 3K • 👍 10 • 💬 7 • ⏱️ 2:07 • 1d ago
-
----
-
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
-
-Your Smart Robot Companion.
-
-📺 Unitree Robotics
-
-👁️ 545K • 👍 1K • 💬 412 • ⏱️ 0:31 • 1d ago
-
----
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 61K • 👍 1K • 💬 217 • ⏱️ 13:45 • 3d ago
+👁️ 4K • 👍 10 • 💬 7 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -238,17 +216,47 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 Just A Dad Approved
 
-👁️ 13K • 👍 240 • 💬 149 • ⏱️ 18:57 • 2d ago
+👁️ 13K • 👍 244 • 💬 153 • ⏱️ 18:57 • 2d ago
 
 ---
 
-**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
 
-At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
+Your Smart Robot Companion.
 
-📺 CGTN Europe
+📺 Unitree Robotics
 
-👁️ 19K • 👍 93 • 💬 13 • ⏱️ 0:49 • 5d ago
+👁️ 596K • 👍 1K • 💬 434 • ⏱️ 0:31 • 1d ago
+
+---
+
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 61K • 👍 1K • 💬 220 • ⏱️ 13:45 • 3d ago
+
+---
+
+**[Can They Really Pull It Off? Big Sign For Optimus Robot.](https://www.youtube.com/watch?v=kBZUNAfZ9Sw)**
+
+AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ▻ Join Patreon: ...
+
+📺 Solving The Money Problem
+
+👁️ 29K • 👍 2K • 💬 154 • ⏱️ 10:31 • 15h ago
+
+---
+
+**[THE TRUTH ABOUT CONSUMER ROBOT DOGS - Unitree Go 2 Pro Review](https://www.youtube.com/watch?v=0SHz3aT8fV8)**
+
+Check out the UniTree Go 2 from JoyBuy Here: https://geni.us/Go2ProJoyBuy £200 with code "FAUXHAMMER" Check out ...
+
+📺 FauxHammer
+
+👁️ 1K • 👍 94 • 💬 41 • ⏱️ 22:08 • 4h ago
 
 ---
 
@@ -258,17 +266,7 @@ In this video I go over the 10 worst T4 robots in the game. https://wr.my.games/
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 228 • 💬 118 • ⏱️ 11:52 • 1d ago
-
----
-
-**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
-
-Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
-
-📺 Wealthy Capital
-
-👁️ 131K • 👍 471 • 💬 50 • ⏱️ 0:09 • 1d ago
+👁️ 5K • 👍 236 • 💬 118 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -282,13 +280,13 @@ Tesla Optimus Factory just hit 4 floors—and Tesla's bold plan for 27000 robots
 
 ---
 
-**[This is NOT a Real Shark! 🤯 China’s New Robotic Police Drone](https://www.youtube.com/watch?v=lLu8rZoKW1A)**
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
 
-Is it a real shark or a robot?! Watch as a Chinese police officer demonstrates this incredible new high-tech bionic shark drone ...
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
 
-📺 VIDEOS YOUR CHOICE
+📺 Tom Scott
 
-👁️ 15K • 👍 171 • 💬 6 • ⏱️ 0:12 • 2d ago
+👁️ 802K • 👍 45K • 💬 2K • ⏱️ 21:33 • 3d ago
 
 ---
 
