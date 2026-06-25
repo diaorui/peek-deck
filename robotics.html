@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-06-25T04:45:59.512000+00:00"
+          "dateModified": "2026-06-25T08:23:20.185915+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/YWZ6Y2VxNGcyZDloMfz6y9Fxd2RWsJwKEU8-_DqB_Xm8K8E1l83QVdQ7mwFN.png?width=320&crop=smart&auto=webp&s=a0e88eb7127dad8858bf8c5ae080748e8cb354b1" alt="Robotica arm 3d printed" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/" target="_blank" onclick="event.stopPropagation();">Robotica arm 3d printed</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1782363850.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ueauex/beni_daily_durability_test/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -684,23 +715,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uel4j5/mujoco_derived_simulator_for_high_fidelity_vision/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uf3qd2/humanoid_robot_walking_on_its_own_across_the_room/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/OHdxYnRpd3N0OTloMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=1d59f38e2aa02a9b06f1c211a6a7e344a217ca91" alt="MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/Mmoyd2V1ejB5ZDloMfLEvi8qaiZOA_HTWkqiJSBj-NcKO71APYmQVHxAYCqW.png?width=640&crop=smart&auto=webp&s=e3e72375e6454c0baaf9d63f5ea8c5ff2475173b" alt="Humanoid robot walking on its own across the room in sim." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1uel4j5/mujoco_derived_simulator_for_high_fidelity_vision/" target="_blank" onclick="event.stopPropagation();">MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1uf3qd2/humanoid_robot_walking_on_its_own_across_the_room/" target="_blank" onclick="event.stopPropagation();">Humanoid robot walking on its own across the room in sim.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hi everyone, For the past couple of weeks I have been working on a simulator project considering the shortcomings of MuJoCo. There are things that people like and also don't like about MuJoCo, like the CPU dependency on MuJoCo which makes the simulation not parallelizable beyond a certain limit (depending on the hardware). I know there exists MJX which is GPU accelerated, however, it is not really made for vision based RL pipelines and training. There is also NVIDIA Isaac ecosystem, but that requires a powerful GPU, thus making it limited in terms of accessibility, let alone it requires license. This is why I worked out this new simulator (still working on it, so there will be significant bugs which require fixing). I call it MuJoFil => MuJoCo + Google's Filament Render Engine. Basically I used Nvidia's Newton Physics Engine (which itself is based on MuJoCo's physics engine but is GPU native), clubbed it with Google's Filament render engine (both of these are open-source), modified Filament significantly to support working natively on GPU to render multiple simulations in parallel, and worked on optimizing it for performance. So what is MuJoFil? It is supposed to be an open-source high visual fidelity simulator optimised for a highly parallelized RL training pipeline so that users can use it to train Vision based Policies. Besides, it offers PBR textures support and also a simple to use plug and play functionality, where you can use any environments available online and support formats such as GLB, OpenUSD, etc. for setting environments for your robots. Basically, now you aren't just limited to environments native to MuJoCo, but rather you can use any environments available online from sketchfab, polyhaven, etc. and use it as a practical robot simulation environment. Check it out for yourself in the video. I would really appreciate it if you guys could tell how you feel about it and suggest ideas for what all things I can incorporate into it as this is going to be a fully open-source and free to use simulator that I have been working on for weeks. PS: While I have a couple of published research papers at top RL and AI/ML venues in the field of RL, I still consider myself a learner in this field who is continuously trying, learning, and building stuff, so there will be things in this hugely ambitious project which I might have missed to work on, and that is where I want help from you people who understand this field well. Sorry for this lengthy post and thanks if you read it till here🙇🙇🙏, I would really appreciate if you could share your thoughts on it. Also, I will make its code repo public on GitHub, but till then you can definitely check it out on PyPI. There are 2 separate packages, one can be installed using: "pip install mujofil" This is the CPU based variant, whereas there is a CUDA supporting GPU native variant about which I mentioned above, you can currently install it using: "pip install mujofil-warp" I am planning on changing its name to mujofil-cuda instead of mujofil-warp as that apparently sounds more intuitive to my direct peers but you can suggest this name as well. Thank you for the support❤️.
+                            - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
                         </div>
                         
 
@@ -709,73 +740,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1782324520.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ue7axb/simulation_of_a_smartphone_assembly_line/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/MGVsNmRoM2d0NjloMUvHPGh0Px3SecFaruzXIn7OJ-Deqkn6dsNHnKmF3UD3.png?width=640&crop=smart&auto=webp&s=9e1bd8ba0d1a704071cca7d247aec0ffa9ef0895" alt="Simulation of a smartphone assembly line" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ue7axb/simulation_of_a_smartphone_assembly_line/" target="_blank" onclick="event.stopPropagation();">Simulation of a smartphone assembly line</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Simulation of a smartphone assembly line that I recently made. Everything is physics-driven. All axes, including robots, are driven using PD-controllers. Parts collide using precise collision geometry with submillimeter tolerances. Disclaimer: I work for ProtoTwin.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1782288333.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uepmdt/the_llvm_for_robot_descriptions_a_programmable_ir/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/cz4v34ybla9h1.jpeg?width=640&crop=smart&auto=webp&s=39928fd758a33259b28a7014984d3639c7a45a0b" alt="The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1uepmdt/the_llvm_for_robot_descriptions_a_programmable_ir/" target="_blank" onclick="event.stopPropagation();">The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1782334369.0"></span>
+                                    <span data-timestamp="1782374396.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -818,23 +783,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ue0w6n/using_uwb_for_realtime_race_car_tracking_in_an/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uf363x/sorting_bolts_and_screws_the_location_and_size_of/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/6ji4jwqv359h1.png?width=140&height=46&auto=webp&s=3a6a73e2fa4005bff73d0ff3b99bb77af9297205" alt="Using UWB for Real-Time Race Car Tracking in an Indoor Racing Arena" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/dZoQ8ixVVNpoch8xdIEAxEtvNtYM483kpV-iVdMhMpM.jpeg?width=320&crop=smart&auto=webp&s=cd82e99046942b538898614d7bc40e916b445fdd" alt="Sorting bolts and screws. The location and size of screws is detected with a camera. A robotic gripper picks them up and puts them in a drop-off cart." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ue0w6n/using_uwb_for_realtime_race_car_tracking_in_an/" target="_blank" onclick="event.stopPropagation();">Using UWB for Real-Time Race Car Tracking in an Indoor Racing Arena</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1uf363x/sorting_bolts_and_screws_the_location_and_size_of/" target="_blank" onclick="event.stopPropagation();">Sorting bolts and screws. The location and size of screws is detected with a camera. A robotic gripper picks them up and puts them in a drop-off cart.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Recently, we worked on an indoor racing track project. We had to deploy a real-time tracking system for a fleet of miniature racing cars on an indoor track at an entertainment park. The goal was to display each car's position, trajectory, and race ranking on a large screen while maintaining smooth updates and reliable tracking performance. As we know, Ultra-wideband (UWB) is a technology that enables secure, reliable ranging and precision sensing, through wireless communication, but the main problem of UWB is the signal mutual conflicts/interference, that when multiple anchors&tags exists. That is why MaUWB, which is based on STM32 controller and DW3000, solves the signal mutual conflicts with TDMA, widely used in different positioning and tracking projects. (picture 1) The Hardware Deployment Anchors (Fixed Nodes):8 fixed Anchors installed around the racing track (picture 2) Tags (Mobile Nodes): A custom UWB Tag installed on each race car (picture 3) One of the key challenges was maintaining stable operation with multiple moving Tags within the same positioning area. To reduce signal conflicts and ranging interference, the system uses a TDMA-based scheduling mechanism. This approach significantly improves stability and eliminates signal mutual conflicts when the cars move together. Result By combining software and hardware architecture, Position data is updated in real time and rendered on a large display screen. (picture 4) · Real-time vehicle positions · Driving trajectories · Dynamic race rankings The deployment of the MaUWB project not only greatly improved the gaming experience and visual effects but also reduced the difficulty of using UWB technology, which provides great convenience and a solid foundation for project software development. I'd be interested to hear how you handle multi-tag UWB deployments, especially when scaling multiple moving devices. Let's discuss in the comments!
+                            Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
                         </div>
                         
 
@@ -843,7 +808,57 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1782267768.0"></span>
+                                    <span data-timestamp="1782372379.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://youtu.be/XQdOJ0K_NJU" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.youtube.com/s/desktop/395dc19a/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>youtu.be</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uel4j5/mujoco_derived_simulator_for_high_fidelity_vision/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/OHdxYnRpd3N0OTloMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=1d59f38e2aa02a9b06f1c211a6a7e344a217ca91" alt="MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1uel4j5/mujoco_derived_simulator_for_high_fidelity_vision/" target="_blank" onclick="event.stopPropagation();">MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, For the past couple of weeks I have been working on a simulator project considering the shortcomings of MuJoCo. There are things that people like and also don't like about MuJoCo, like the CPU dependency on MuJoCo which makes the simulation not parallelizable beyond a certain limit (depending on the hardware). I know there exists MJX which is GPU accelerated, however, it is not really made for vision based RL pipelines and training. There is also NVIDIA Isaac ecosystem, but that requires a powerful GPU, thus making it limited in terms of accessibility, let alone it requires license. This is why I worked out this new simulator (still working on it, so there will be significant bugs which require fixing). I call it MuJoFil => MuJoCo + Google's Filament Render Engine. Basically I used Nvidia's Newton Physics Engine (which itself is based on MuJoCo's physics engine but is GPU native), clubbed it with Google's Filament render engine (both of these are open-source), modified Filament significantly to support working natively on GPU to render multiple simulations in parallel, and worked on optimizing it for performance. So what is MuJoFil? It is supposed to be an open-source high visual fidelity simulator optimised for a highly parallelized RL training pipeline so that users can use it to train Vision based Policies. Besides, it offers PBR textures support and also a simple to use plug and play functionality, where you can use any environments available online and support formats such as GLB, OpenUSD, etc. for setting environments for your robots. Basically, now you aren't just limited to environments native to MuJoCo, but rather you can use any environments available online from sketchfab, polyhaven, etc. and use it as a practical robot simulation environment. Check it out for yourself in the video. I would really appreciate it if you guys could tell how you feel about it and suggest ideas for what all things I can incorporate into it as this is going to be a fully open-source and free to use simulator that I have been working on for weeks. PS: While I have a couple of published research papers at top RL and AI/ML venues in the field of RL, I still consider myself a learner in this field who is continuously trying, learning, and building stuff, so there will be things in this hugely ambitious project which I might have missed to work on, and that is where I want help from you people who understand this field well. Sorry for this lengthy post and thanks if you read it till here🙇🙇🙏, I would really appreciate if you could share your thoughts on it. Also, I will make its code repo public on GitHub, but till then you can definitely check it out on PyPI. There are 2 separate packages, one can be installed using: "pip install mujofil" This is the CPU based variant, whereas there is a CUDA supporting GPU native variant about which I mentioned above, you can currently install it using: "pip install mujofil-warp" I am planning on changing its name to mujofil-cuda instead of mujofil-warp as that apparently sounds more intuitive to my direct peers but you can suggest this name as well. Thank you for the support❤️.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1782324520.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -853,24 +868,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ue7orv/mister_mischief_the_esp32_pet_robot_project_using/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/1awiee39y69h1.jpg?width=140&height=78&auto=webp&s=2068be0d699a728d63750a220c1927b0b1aa9b85" alt="Mister Mischief: The esp32 pet robot project using FREERTOS" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/YjZwOHNlYnhjZDloMTImelqFDNdvXBF8XCOzGn4NkcIUlhc-IrGFOxSd7a44.png?width=640&crop=smart&auto=webp&s=51e75175321094fa6fde08cd2745c7ba3ae14634" alt="I mean chat only helped a little 🫪" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ue7orv/mister_mischief_the_esp32_pet_robot_project_using/" target="_blank" onclick="event.stopPropagation();">Mister Mischief: The esp32 pet robot project using FREERTOS</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/" target="_blank" onclick="event.stopPropagation();">I mean chat only helped a little 🫪</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hello r/robotics. Greetings, this is my first post here. I Live alone. I get lonely sometimes. I cant own a dog. Then I thought, let me build one for myself (i've always been a tinkerer at heart) But then, reality hit like a freight train. I am not a good coder and I dont even work in the field of IT. So I looked at it as a passion project which I work on in my free time. Then I started searching the net for good quality hardware and settled with the esp32 s3 (n16r8) devkit-c1. Its a clone and not an official espressif board. But atleast it has USB-C. Then I thought of doing this the right way. I wanted to use Ardurover but its complicated with the esp32. So I resorted to FreeRTOS and code myself. Im using VSCode with the Platformio extension. Here are the details: Project: Mister Mischief the Robot 1. Hardware MCU: Esp32 s3 (n16r8) devkit-c1 working of a Mini560 buck converter (3.3v) soldered on a perfboard Sensors: GY-91 (clone, unfortunately) with an MPU6500 imu and a BMP280 barometer, HC-SR04 Sonar. Actuators: Dual GB-33 520 motors (350rpm, no encoders, yet!) paired to an XY-160D motor driver Battery: 2s Molicel P50B 21700 Li-ion cells 2. Architecture A central nervous system (GlobalDataBus) which holds all the data from sensors, actuators and tasks, event latches. All this happens inside FreeRTOS spinlocks (critical sections) to avoid memory tearing and random crashes. Tasks use this bus to process events and switch moods and modes (I have many of them currently) and set Event Latches (examples: "isLowering", "isTeasing", "hasExperiencedLift", etc.) 3. Features A fully fleshed out Bluetooth LE control and telemetry stream. Also, an Android App (working on Android Studio for this) which can read the realtime telemetry and display it in the dashboard. It can also control the robot in Manual Override mode (Yes! Remote control). Im not doing this with json but with raw bytes (both the telemetry and the control commands) so that its light weight on the BT LE. PID enabled drive, it holds its heading really well. Autotuning mode( Ardupilot style) which to my surprise perfectly tuned the robot in one attempt. A full fledged terminal which can take commands like "get <variable-name>", "set <variable-name>", "reset <variable-name>", "reset ALL", "reboot> (I am saving configurations in the non volatile storage of the esp32). This currently works over the serial terminal and I'm yet to flesh this out in the Android app. 4. Further additions Four bottom facing IR distance sensors mounted at the the four corners so that it can detect cliffs and dangerous situations. I need to get a lidar (its expensive!) so that I can enable true localization. Since the chassis lifts off when i place it with its "backside" on the floor, I think I can enable "self-balance" mode. Since the sonar will now be facing towards the ceiling, we can use it to interface with the robot in this mode. The event latches are not firing properly and the state (the Behaviour Engine) machine is inconsistent in switching modes. The Wifi keeps crashing and crashing. I've kept it off with the command "set WIFI_ACTIVE off". You can try and see by setting your wifi details by doing: set "WIFI_SSID "<your-ssid>" then set WIFI_PASSWORD "<your-wifi-password>" then connect WIFI (but it will crash I think). You need to enclose the SSID and Password in double quotes in the terminal. Tuning, Autotuning and mode triggers from the android app. Basically, I want it to be a mischiveous little companion that greets me when I get back from work, wanders around the house, topples things over, had mood swings, the lot. Whatever we can imagine! You might ask, Why did'nt you use ROS? Heres Why: Im not sure that I can incorporate these Moods and Modes that I have and MicroRos just doesnt cut it! I dont want to drag along a bulky SBC like a raspberry pi. There is networking feature but I want it to function entirely self-contained and standalone even when there's no internet or any connection of any sort. Battery Backup. I want it to have a good battery backup (another reason why I ditched JSON) I wouldnt have gotten to learn so much. I did extensively use AI (sorry in advance if its not allowed here, sincerely!) to build this much. I got to learn so much from this. But its getting out of my hand now and its hard to track the progress of my own work as I Have to work on both the Robot side and the Android App side. But I have tried to keep the code as modular as possible to the best of my abilities. Please feel free to have a look at my repository for both the robot side code and the Android App side code. If anyone is interested to work on this and wants a companion during those times of loneliness, Im inviting them to work on this like me, in their free time. So please feel free to notify me. But I dont even know how to allow anyone else to work on the same project on Github. You'll have to guide me I guess. P.s. I had also posted this over in r/esp32 but since I couldnt add images here, im posting it afresh here so that I can add images. Link to Mister Mischief Robot side repository: Mister Mischiev V1 Link to Mister Mischief Android App: Mister Mischief Android App
-                        </div>
                         
 
                         <!-- Metadata -->
@@ -878,7 +889,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1782289710.0"></span>
+                                    <span data-timestamp="1782367275.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -888,7 +899,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ueb725/gmphd_in_c/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1uf40aa/i_never_thought_a_robot_would_replace_me_one/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -896,13 +907,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ueb725/gmphd_in_c/" target="_blank" onclick="event.stopPropagation();">GM-PHD in C++</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1uf40aa/i_never_thought_a_robot_would_replace_me_one/" target="_blank" onclick="event.stopPropagation();">I never thought a robot would replace me one day..what’s my purpose then.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I just wanted to share my C++ implementation of GM-PHD filter: https://github.com/borodziejciesla/gm-phd For now only point objects implementation is working, but I am working on extended objects implementation.
+                            Is this the Move-37 moment for flooring? I know, this machine is engineered for this job and probably needs close to perfect conditions to work, hence lacking the "creativity" of AlphaGo. But still, don't look where we are today, but 2 more machines down the line. Seems frightening for flooring installers at least.
                         </div>
                         
 
@@ -911,7 +922,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1782301466.0"></span>
+                                    <span data-timestamp="1782375376.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -921,21 +932,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1udicvb/vlas_vs_nvidia_world_models_vs_all_of_that_where/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ueygi9/controlling_the_posture_of_the_robot_dog_mini/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ZvVRCfm0B0VlmphkCjIACLPyvkKu5_5pmPxGADkwibU.png?width=140&height=70&auto=webp&s=3304f212934e86a7bff58f2f590582df40383ad2" alt="Controlling the posture of the robot dog 'Mini Pupper' with BNO055" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1udicvb/vlas_vs_nvidia_world_models_vs_all_of_that_where/" target="_blank" onclick="event.stopPropagation();">VLAs vs Nvidia world models vs all of that: where are we going?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1ueygi9/controlling_the_posture_of_the_robot_dog_mini/" target="_blank" onclick="event.stopPropagation();">Controlling the posture of the robot dog 'Mini Pupper' with BNO055</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I'm reading the papers of Cosmos3 and Dreamzero and they looks very promising (compared to memoryless VLAs). And I am wondering where the filed will evolve. Based on your practical experience with new models, what's your bet between VLAs, WM, Jepa-style, WAM, RL approaches, and all of that? I worked so far with VLAs (eg pi05), and I don't have any experience in using the nvidia stack so far, of and other world action models. I am thinking if I should invest time in changing the base policy, and I'd appreciate some feedback form who has tested them (ie: the open source/weights model available, and capable of inference without one thousand gb of vram) On my side I'm a fan of model working planning latent space; video action models (which have more temporal coherence wrt vla), but I also feel that semantic power of a VLM should be present aswell. Ps: suggested survey reading in this topic: "World Model for Robot Learning: A Comprehensive Survey" Happy to discuss with you
+                            （Translating this interesting Japanese post into English for the community! [Repost/Translation] Original link provided at the end.） We are diving right into microcontroller-based control today to explore some new IMU sensors for the Mini Pupper. Here is the breakdown: Table of contents BNO055 Integrating the BNO055 into Mini Pupper Key Notes Party Trick Time! Conclusion BNO055 Previously, I used the ATOM Matrix for control and had fun experimenting with attitude control using its built-in MPU6886 IMU sensor. My goal was to track the Yaw angle (rotation around the gravity axis) so the robot could keep facing the same direction even when the floor beneath it rotated. However, the MPU6886 suffered from significant Yaw drift, forcing me to abandon that approach. In this post, I’m switching to a different IMU sensor to finally achieve accurate Yaw control. To be fair, it's no surprise that a 6-axis IMU like the MPU6886 struggles with Yaw. That said, even with another 6-axis sensor like the MPU6050, you can actually get a relatively low-drift Yaw angle after a proper offset calibration. I could have gone with the MPU6050, but I decided to try out the BNO055 9-axis IMU sensor instead. Honestly, while the internal processing of the BNO055 is a bit of a black box, it delivers highly accurate attitude angles. You can get precise orientation data right out of the box without any tedious calibration or manual compensation using this sample code. Integrating the BNO055 into Mini Pupper I could have simply added the BNO055 to my previous ATOM Matrix setup. However, adding an extra IMU to a board that already integrates an MPU6886 felt way too redundant, and I just couldn't accept it. So, I opted for the ATOM Lite as the controller instead. BNO055 Circuit Board Key Notes While the BNO055 communicates via I2C, I ran into an issue where using M5Atom.h from the M5Stack Arduino library prevented me from mapping custom I2C pins for the Adafruit_BNO055 library. https://preview.redd.it/obc4fr764r8h1.png?width=1196&format=png&auto=webp&s=72d581213069e44203c269b73a8353f036312c93 To bypass this, I skipped the M5Stack library entirely and programmed the ATOM Lite using the standard ESP32 Arduino framework instead. This allowed me to freely specify the I2C pins, and communication with the BNO055 worked flawlessly. In this setup, I assigned Wire.begin(25, 21) for the BNO055 and Wire1.begin(22, 19) for the PCA9685 servo driver. I can confirm that everything runs perfectly without any issues! Reading attitude data with the BNO055, controlling the servos with the PCA9685, and lighting up the NeoPixels —— I've finally built my ideal board! Party trick Time! Thanks to the BNO055, I can now get highly accurate orientation angles. No Kalman filtering or complex algorithms needed—I just used the raw angle data straight from the sensor. The BNO055 is a beast and made this incredibly easy. I tested out the Yaw-based turn control to keep the robot locked onto a single heading while rotating. The longed-for Mini Pupper party trick Looks great! The walking gaits I programmed earlier are also working perfectly. ATOM Lite version Mini Pupper is also doing very well Even when the floor is tilted, parallel control based on foot height is smoothly achieved using only the attitude angle P control of BNO055. Conclusion I had a blast using the BNO055 9-axis IMU sensor to control the Mini Pupper. The BNO055 is honestly a game-changer—it finally allowed me to bring my dream Mini Pupper party trick to life! It's incredibly rewarding to watch this little robot get smarter and smarter. I'll definitely keep learning and experimenting! Original Japanese Post Original X Post #1 (Media) Original X Post #2 (Media) Original X Post #3 (Media) Original X Post #4 (Media)
                         </div>
                         
 
@@ -944,7 +957,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1782224125.0"></span>
+                                    <span data-timestamp="1782357293.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -977,7 +990,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-25T00:14:02.239951+00:00">Updated 2026-06-25T00:14:02.239951+00:00</small>
+        <small data-timestamp="2026-06-25T08:23:04.494503+00:00">Updated 2026-06-25T08:23:04.494503+00:00</small>
     </div>
 </div>
 
@@ -1278,47 +1291,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6fbdc48b-95bf-4932-b180-d4b85df9921b.jpg?source=next-barrier-page');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Robot nation: China’s bid to beat its demographic decline</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1782348882.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/4982d46ec93c00c6c92f7cefbb31878a97b6ced9/936_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31159eac5eb47f5bc0109d100efccd9c');"></div>
@@ -1360,20 +1332,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.engadget.com/img/gallery/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/l-intro-1782343149.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.autonews.com/resizer/v2/M5ZDJ5TN7FEE5K5UTQGL7KM6JU.png?auth=4cc6e2cfd90a529235c90378e0cf40cabd62d47458e1dd986441671bf96837fd&width=1200#.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/" target="_blank" onclick="event.stopPropagation();">After Successfully Selling Over 15 Cars, Faraday Future Would Now Like You To Buy Its Robots</a>
+                            <a href="https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/" target="_blank" onclick="event.stopPropagation();">Suppliers eye $5 trillion humanoid robot market despite value-capture concerns</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Faraday Future recently showed off a lineup of robots as part of the electric car maker's latest pivot.
+                            Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
                         </div>
                         
 
@@ -1383,9 +1355,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Engadget" class="news-favicon">
-                                    <a href="https://www.engadget.com" target="_blank" onclick="event.stopPropagation();">Engadget</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Automotive News" class="news-favicon">
+                                    <a href="https://www.autonews.com" target="_blank" onclick="event.stopPropagation();">Automotive News</a>
                                     
                                 </div>
                                 
@@ -1393,7 +1365,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1782343364.0"></span>
+                                    <span data-timestamp="1782291840.0"></span>
                                 </div>
                                 
                             </div>
@@ -1483,20 +1455,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/e5f2892a-d3b1-4779-88db-8d3b034b078a?syn-25a6b1a6=1', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.autonews.com/resizer/v2/M5ZDJ5TN7FEE5K5UTQGL7KM6JU.png?auth=4cc6e2cfd90a529235c90378e0cf40cabd62d47458e1dd986441671bf96837fd&width=1200#.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d28a1c5-c3c1-47c7-b0a1-0c915adbc8e4.jpg?source=next-barrier-page');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.autonews.com/manufacturing/suppliers/ane-supplier-target-humanoid-robot-market-0624/" target="_blank" onclick="event.stopPropagation();">Suppliers eye $5 trillion humanoid robot market despite value-capture concerns</a>
+                            <a href="https://www.ft.com/content/e5f2892a-d3b1-4779-88db-8d3b034b078a?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Hyundai workers in South Korea vote to strike over fears of robots replacing them</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Suppliers such as Bosch and Schaeffler are joining the humanoid robotics market with manufacturing expertise from electric vehicles and high-volume production.
+                            Union at country’s largest carmaker wants greater say over how AI and automation are introduced
                         </div>
                         
 
@@ -1506,9 +1478,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Automotive News" class="news-favicon">
-                                    <a href="https://www.autonews.com" target="_blank" onclick="event.stopPropagation();">Automotive News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
                                     
                                 </div>
                                 
@@ -1516,7 +1488,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1782291935.0"></span>
+                                    <span data-timestamp="1782293143.0"></span>
                                 </div>
                                 
                             </div>
@@ -1565,6 +1537,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.engadget.com/img/gallery/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/l-intro-1782343149.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/" target="_blank" onclick="event.stopPropagation();">After Successfully Selling Over 15 Cars, Faraday Future Would Now Like You To Buy Its Robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Faraday Future recently showed off a lineup of robots as part of the electric car maker's latest pivot.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Engadget" class="news-favicon">
+                                    <a href="https://www.engadget.com" target="_blank" onclick="event.stopPropagation();">Engadget</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1782343364.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1585,7 +1598,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-25T04:45:53.778826+00:00">Updated 2026-06-25T04:45:53.778826+00:00</small>
+        <small data-timestamp="2026-06-25T08:23:16.544338+00:00">Updated 2026-06-25T08:23:16.544338+00:00</small>
     </div>
 </div>
 
@@ -1778,72 +1791,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=mTMYfVD4zCw', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/mTMYfVD4zCw/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:31</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=mTMYfVD4zCw" target="_blank" onclick="event.stopPropagation();">Unitree R1 | Price from $4,900, Ready Stock</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Your Smart Robot Companion.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/koyzMXdJtsHPLoM991cPhB70s8w4x7NsRq8mp5-PtHhAX8c8i4KNdUcDKLVIDgOmvQ-cByGkTzQ=s88-c-k-c0x00ffffff-no-rj" alt="Unitree Robotics" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw" target="_blank" onclick="event.stopPropagation();">Unitree Robotics</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 321K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 807</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 256</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1782302003.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=pn69HUvg8_M', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/pn69HUvg8_M/hqdefault.jpg');">
@@ -1887,7 +1834,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 952</span>
+                                    <span style="color: #9ca3af;">👍 954</span>
                                 </div>
                                 
                                 
@@ -1910,24 +1857,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=KdeO-D0tZD0', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=mTMYfVD4zCw', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/KdeO-D0tZD0/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/mTMYfVD4zCw/hqdefault.jpg');">
                         
-                        <span class="duration-badge">13:45</span>
+                        <span class="duration-badge">0:31</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=KdeO-D0tZD0" target="_blank" onclick="event.stopPropagation();">China&#39;s New AI Robot MOYA Feels Too Real (92% Human)</a>
+                            <a href="https://www.youtube.com/watch?v=mTMYfVD4zCw" target="_blank" onclick="event.stopPropagation();">Unitree R1 | Price from $4,900, Ready Stock</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+                            Your Smart Robot Companion.
                         </div>
                         
 
@@ -1938,9 +1885,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/koyzMXdJtsHPLoM991cPhB70s8w4x7NsRq8mp5-PtHhAX8c8i4KNdUcDKLVIDgOmvQ-cByGkTzQ=s88-c-k-c0x00ffffff-no-rj" alt="Unitree Robotics" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                    <a href="https://www.youtube.com/channel/UCsMbp4V8oxzHCMdOUP-3oWw" target="_blank" onclick="event.stopPropagation();">Unitree Robotics</a>
                                 </div>
                                 
                             </div>
@@ -1949,16 +1896,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 58K</span>
+                                    <span style="color: #9ca3af;">👁️ 326K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
+                                    <span style="color: #9ca3af;">👍 920</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 214</span>
+                                    <span style="color: #9ca3af;">💬 269</span>
                                 </div>
                                 
                             </div>
@@ -1968,7 +1915,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1782085802.0"></span>
+                                    <span data-timestamp="1782302003.0"></span>
                                 </div>
                                 
                             </div>
@@ -2015,16 +1962,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 11K</span>
+                                    <span style="color: #9ca3af;">👁️ 12K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 216</span>
+                                    <span style="color: #9ca3af;">👍 224</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 129</span>
+                                    <span style="color: #9ca3af;">💬 132</span>
                                 </div>
                                 
                             </div>
@@ -2035,6 +1982,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1782224961.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=KdeO-D0tZD0', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/KdeO-D0tZD0/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">13:45</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=KdeO-D0tZD0" target="_blank" onclick="event.stopPropagation();">China&#39;s New AI Robot MOYA Feels Too Real (92% Human)</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 59K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 214</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1782085802.0"></span>
                                 </div>
                                 
                             </div>
@@ -2108,6 +2121,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=7AQHBuj30LQ', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7AQHBuj30LQ/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">21:28</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=7AQHBuj30LQ" target="_blank" onclick="event.stopPropagation();">Kawasaki’s New Hydrogen-Powered Robot Horse Will Blow Your Mind!</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Kawasaki's New Hydrogen-Powered Robot Horse Will Blow Your Mind! #kawasaki #corleo #transport #hydrogen.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Cxc-mp0MuwROYe4UV_cuR6bJyc3s-O5TbzH4C-jPbEb0BC57nGJ_Xo0VtPiYtvXBKVAJlqzWmw=s88-c-k-c0x00ffffff-no-rj" alt="Nova Discovery" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCUsYqncetFw0NmdvHJHS3Kg" target="_blank" onclick="event.stopPropagation();">Nova Discovery</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 29K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 924</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 92</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1781971223.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=vJYUmPVph0I', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/vJYUmPVph0I/hqdefault.jpg');">
@@ -2147,16 +2226,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 126K</span>
+                                    <span style="color: #9ca3af;">👁️ 128K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 462</span>
+                                    <span style="color: #9ca3af;">👍 465</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 47</span>
+                                    <span style="color: #9ca3af;">💬 48</span>
                                 </div>
                                 
                             </div>
@@ -2167,6 +2246,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1782255605.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=r98fdSJ9lfw', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/r98fdSJ9lfw/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:23</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=r98fdSJ9lfw" target="_blank" onclick="event.stopPropagation();">Inside look at Amazon&#39;s robotics lab in Massachusetts</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Look inside Amazon's robotics lab in Massachusetts, where a fleet of robots keeps packages moving swiftly. (AP video: Sydney ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj" alt="Associated Press" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC52X5wxOL_s5yw0dQk7NtgA" target="_blank" onclick="event.stopPropagation();">Associated Press</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 1K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 30</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 10</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1782327657.0"></span>
                                 </div>
                                 
                             </div>
@@ -2213,16 +2358,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 45K</span>
+                                    <span style="color: #9ca3af;">👁️ 54K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 399</span>
+                                    <span style="color: #9ca3af;">👍 460</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
+                                    <span style="color: #9ca3af;">💬 5</span>
                                 </div>
                                 
                             </div>
@@ -2279,16 +2424,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 495K</span>
+                                    <span style="color: #9ca3af;">👁️ 514K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 22K</span>
+                                    <span style="color: #9ca3af;">👍 23K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 864</span>
+                                    <span style="color: #9ca3af;">💬 879</span>
                                 </div>
                                 
                             </div>
@@ -2299,138 +2444,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1782261937.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=YxCQkKKGhbk', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/YxCQkKKGhbk/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:06</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=YxCQkKKGhbk" target="_blank" onclick="event.stopPropagation();">This New Wearable Robot Technology Lets Robots Feel Like Humans #robot #shorts #technology</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            HapMorph: The Wearable Technology That Lets Robots Recreate Realistic Touch Scientists have developed a new haptic ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/KA3trqPWGJLi7yxiT_PXcOoF2AwXBbj1tJGB4gF-NEfokkyBMAzAaGM42GLozBL9G5skd_W1=s88-c-k-c0x00ffffff-no-rj" alt="uncover reality" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCBeZEJAJ2AvUpIUKl-fTnMQ" target="_blank" onclick="event.stopPropagation();">uncover reality</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 289K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 57</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1782211059.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=YqzfpxXIoZ8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/YqzfpxXIoZ8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:07</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=YqzfpxXIoZ8" target="_blank" onclick="event.stopPropagation();">When $16,000 Humanoid Robots Accidentally Smash TVs Live</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            A live humanoid robot dance performance just took a chaotic, unexpected turn on a global stage. What was meant to be a ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/WSLxF1Y-TDEe0s0iUIJwkT8HEELl2h2IjXIqlEE65_T5pJSPq7Aadg-c9zzzmDlvg7wBqisbwQ=s88-c-k-c0x00ffffff-no-rj" alt="A2Z" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCWhIdjTJ4EHndJGXdpycYWg" target="_blank" onclick="event.stopPropagation();">A2Z</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 16K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 126</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 7</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1782311414.0"></span>
                                 </div>
                                 
                             </div>
@@ -2458,7 +2471,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-06-25T04:45:42.675606+00:00">Updated 2026-06-25T04:45:42.675606+00:00</small>
+        <small data-timestamp="2026-06-25T08:23:07.470962+00:00">Updated 2026-06-25T08:23:07.470962+00:00</small>
     </div>
 </div>
 

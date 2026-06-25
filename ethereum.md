@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-25T04:45:59.900860+00:00'
+updated: '2026-06-25T08:23:20.564428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 25, 2026 at 04:45 UTC  
+**Last Updated:** June 25, 2026 at 08:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,621.10
+### $1,640.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -5.4%  
-**30d:** -20.0%  
-**90d:** -18.8%  
-**1y:** -32.9%  
+**24h:** -0.9%  
+**7d:** -3.5%  
+**30d:** -18.4%  
+**90d:** -17.2%  
+**1y:** -31.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.30B
+**Market Cap:** $199.12B
 Rank #2
 
 **Circulating Supply:** 120,683,707 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.3%
+-66.6%
 
 **All-Time Low:** $0.43
-+373774.9%
++380937.0%
 
 ---
 
@@ -88,7 +88,7 @@ Don't get me wrong. I understand why people enjoy trading, but I've always found
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +128,7 @@ I’ve just returned from Dappcon 2026 in Berlin, where the "Ethereum Economic Z
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,17 +152,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
+**[Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish](https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish)**
 
-ethereum.org • 1d ago
+In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.
+
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, June 24, 2026: Opened at lowest levels in about two weeks](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-june-24-2026-opened-at-lowest-levels-in-about-two-weeks-125349040.html)**
+**['Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive](https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive)**
 
-These are today's bitcoin and ethereum prices, Wednesday, June 24, 2026. Bitcoin opened at $62,660.11 on Wednesday, down 2% from Tuesday's open. Ethereum opened at $1,665.13 on Wednesday, flat compared to Tuesday's opening price.
+Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
 
-Yahoo Finance • 15h ago
+Decrypt • 11h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Stock Gets A Russell 1000 Angle And An Ethereum Backer Role](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-stock-191324065.html)**
+
+Bitmine Immersion Technologies (NYSE:BMNR) has become eligible for potential inclusion in the Russell 1000 index, putting the stock on the radar of large passive index trackers. The company has also helped launch Ethlabs, a new Ethereum research nonprofit backed by Bitmine, Joe Lubin, and SharpLink, aimed at accelerating institutional adoption of Ethereum. Bitmine Immersion Technologies sits at the intersection of crypto infrastructure and traditional capital markets. NYSE:BMNR last closed...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -170,29 +180,7 @@ Yahoo Finance • 15h ago
 
 $6 billion just left BTC ETFs
 
-Coinbase • 7h ago
-
----
-
-**[Official $HODL Coin Goes Multi-Chain: LayerZero-Powered Ethereum Bridge Now Live at hodl2013.com](https://markets.businessinsider.com/news/stocks/official-hodl-coin-goes-multi-chain-layerzero-powered-ethereum-bridge-now-live-at-hodl2013-com-1036273793)**
-
-Tokyo, Japan, June  24, 2026  (GLOBE NEWSWIRE) -- $HODL  has officially expanded to Ethereum. The project-led by GameKyuubi, the original author o...
-
-markets.businessinsider.com • 6h ago
-
----
-
-**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
-
-ETF.com • 17h ago
-
----
-
-**[Ethereum’s much-hated staking 'tax' may already be obsolete](https://www.tradingview.com/news/cointelegraph:c792d0001094b:0-ethereum-s-much-hated-staking-tax-may-already-be-obsolete/)**
-
-Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.
-
-TradingView • 1d ago
+Coinbase • 11h ago
 
 ---
 
@@ -200,13 +188,35 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 19h ago
 
 ---
 
-**[Bitmine Immersion 9.5% Preferred: The ETH Treasury Preferred With No Safety Net](https://seekingalpha.com/article/4917455-bitmine-immersion-9-5-percent-preferred-the-eth-treasury-preferred-with-no-safety-net)**
+**[Official $HODL Coin Goes Multi-Chain: LayerZero-Powered Ethereum Bridge Now Live at hodl2013.com](https://markets.businessinsider.com/news/stocks/official-hodl-coin-goes-multi-chain-layerzero-powered-ethereum-bridge-now-live-at-hodl2013-com-1036273793)**
 
-Seeking Alpha • 9h ago
+Tokyo, Japan, June  24, 2026  (GLOBE NEWSWIRE) -- $HODL  has officially expanded to Ethereum. The project-led by GameKyuubi, the original author o...
+
+markets.businessinsider.com • 10h ago
+
+---
+
+**[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
+
+ETF.com • 21h ago
+
+---
+
+**[Key facts: Ethereum $1.9k/$1.6k liquidation clusters; ETF outflows, $7.5M](https://www.tradingview.com/news/tradingview:20515a214a4b6:0-key-facts-ethereum-1-9k-1-6k-liquidation-clusters-etf-outflows-7-5m/)**
+
+TradingView • 20h ago
+
+---
+
+**[Ethereum Doesn’t Know What It’s Supposed to Be Anymore](https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/)**
+
+Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin
+
+PYMNTS.com • 10h ago
 
 ---
 
@@ -214,15 +224,7 @@ Seeking Alpha • 9h ago
 
 The market's recovery is might turn into yet another correction, which is the last thing market would need here.
 
-U.Today • 4h ago
-
----
-
-**[Bitmine Approaches Giant Ethereum Supply Goal as Tom Lee Teases A New Crypto Spring](https://www.tipranks.com/news/bitmine-approaches-giant-ethereum-supply-goal-as-tom-lee-teases-a-new-crypto-spring)**
-
-Bitmine Immersion Technologies ($BMNR) just added 92 million dollars of Ether (ETH-USD) to its vault, moving closer to its ultimate Ethereum supply goal. This purch...
-
-TipRanks • 2d ago
+U.Today • 8h ago
 
 ---
 
@@ -236,7 +238,7 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 16K • 👍 480 • 💬 213 • ⏱️ 14:53 • 1d ago
+👁️ 16K • 👍 487 • 💬 213 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 942 • 💬 310 • ⏱️ 12:14 • 16h ago
+👁️ 20K • 👍 961 • 💬 314 • ⏱️ 12:14 • 20h ago
 
 ---
 
@@ -256,7 +258,7 @@ In this video I break down the current Ethereum price action and analyze the pot
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 212 • 💬 8 • ⏱️ 9:05 • 13h ago
+👁️ 4K • 👍 223 • 💬 8 • ⏱️ 9:05 • 17h ago
 
 ---
 
@@ -266,37 +268,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 338 • 👍 15 • 💬 1 • ⏱️ 6:27 • 10h ago
-
----
-
-**[BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ItLdGdxfPMg)**
-
-BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 347 • 💬 208 • ⏱️ 30:09 • 7h ago
-
----
-
-**[0.01 Ethereum is $16.58 (Good Deal?)](https://www.youtube.com/watch?v=19eYSfiEcYY)**
-
-Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing ...
-
-📺 Brian Harrington
-
-👁️ 3K • 👍 102 • 💬 39 • ⏱️ 9:26 • 1d ago
-
----
-
-**[How to Claim 0.35 ETH | Get Free Ethereum | Claim ETH + Withdraw](https://www.youtube.com/watch?v=_lIXABRNXEo)**
-
-What's up, it's Ethan — in this video I show you a new ETH drop that's giving out 0.35 ETH to eligible wallets. I went through the full ...
-
-📺 Ethan Pierce IT
-
-👁️ 6K • 💬 210 • ⏱️ 5:35 • 8h ago
+👁️ 415 • 👍 17 • 💬 1 • ⏱️ 6:27 • 14h ago
 
 ---
 
@@ -306,17 +278,17 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 84 • 💬 8 • ⏱️ 14:55 • 2d ago
+👁️ 4K • 👍 85 • 💬 8 • ⏱️ 14:55 • 2d ago
 
 ---
 
-**[Ethereum Foundation to Cut Budget by 40% and Slash 20% of Workforce](https://www.youtube.com/watch?v=DHnxq7Lh2DU)**
+**[Is Ethereum Ready to Reconnect With the Nasdaq?](https://www.youtube.com/watch?v=Gw5kbrO8Ryw)**
 
-The Ethereum Foundation will slash its budget by roughly 40% this year as part of a shift toward a leaner, endowment-style ...
+Ethereum has plunged nearly 70% from its 2025 peak, completely decoupling from the Nasdaq's historic run to 31000. Jim Iuorio ...
 
-📺 CoinDesk
+📺 CME Group
 
-👁️ 793 • 👍 15 • 💬 24 • ⏱️ 1:23 • 12h ago
+👁️ 157 • 👍 4 • ⏱️ 2:43 • 10h ago
 
 ---
 
@@ -326,7 +298,37 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 4K • 👍 122 • 💬 25 • ⏱️ 16:03 • 1d ago
+👁️ 4K • 👍 123 • 💬 25 • ⏱️ 16:03 • 1d ago
+
+---
+
+**[How to Claim 0.35 ETH | Get Free Ethereum | Claim ETH + Withdraw](https://www.youtube.com/watch?v=_lIXABRNXEo)**
+
+What's up, it's Ethan — in this video I show you a new ETH drop that's giving out 0.35 ETH to eligible wallets. I went through the full ...
+
+📺 Ethan Pierce IT
+
+👁️ 6K • 💬 210 • ⏱️ 5:35 • 11h ago
+
+---
+
+**[BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ItLdGdxfPMg)**
+
+BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 385 • 💬 177 • ⏱️ 30:09 • 11h ago
+
+---
+
+**[Bitcoin ETH Solana is selling off XRP price is being manipulated down XRP utility hasn’t changed ](https://www.youtube.com/watch?v=66E3kVxDwh0)**
+
+People are panicking because XRP price is being manipulated down the big dogs and the whales are buying up XRP at theses ...
+
+📺 Donnahue  George Stocks Real Estate Health
+
+👁️ 932 • 👍 111 • 💬 18 • ⏱️ 4:28 • 11h ago
 
 ---
 
