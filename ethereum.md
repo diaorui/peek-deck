@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-25T08:23:20.564428+00:00'
+updated: '2026-06-25T11:15:52.536515+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 25, 2026 at 08:23 UTC  
+**Last Updated:** June 25, 2026 at 11:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -3.5%  
-**30d:** -18.4%  
-**90d:** -17.2%  
-**1y:** -31.6%  
+**24h:** -2.2%  
+**7d:** -4.5%  
+**30d:** -19.2%  
+**90d:** -18.0%  
+**1y:** -32.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $199.12B
+**Market Cap:** $196.66B
 Rank #2
 
 **Circulating Supply:** 120,683,707 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.6%
+-67.0%
 
 **All-Time Low:** $0.43
-+380937.0%
++376336.3%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.
 
-🔗 [The Block](https://www.theblock.co/post/405525/ethereum-tax-debate) • 2d ago
+🔗 [The Block](https://www.theblock.co/post/405525/ethereum-tax-debate) • 3d ago
 
 ---
 
@@ -152,11 +152,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish](https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish)**
+**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.
-
-CoinDesk • 12h ago
+ethereum.org • 1d ago
 
 ---
 
@@ -164,7 +162,7 @@ CoinDesk • 12h ago
 
 Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
 
-Decrypt • 11h ago
+Decrypt • 14h ago
 
 ---
 
@@ -180,7 +178,7 @@ Yahoo Finance • 1d ago
 
 $6 billion just left BTC ETFs
 
-Coinbase • 11h ago
+Coinbase • 14h ago
 
 ---
 
@@ -188,7 +186,7 @@ Coinbase • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 22h ago
 
 ---
 
@@ -196,19 +194,27 @@ Fortune • 19h ago
 
 Tokyo, Japan, June  24, 2026  (GLOBE NEWSWIRE) -- $HODL  has officially expanded to Ethereum. The project-led by GameKyuubi, the original author o...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
 **[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
 
-ETF.com • 21h ago
+ETF.com • 1d ago
+
+---
+
+**[Ethereum leads blockchain user retention at 26% in Q1 2026 study](https://cryptobriefing.com/ethereum-leads-blockchain-user-retention-q1-2026/)**
+
+CoinGecko finds Ethereum has the highest blockchain user retention rate at 26.2%, but BNB Chain and Solana retain more users in absolute terms.
+
+Crypto Briefing • 2h ago
 
 ---
 
 **[Key facts: Ethereum $1.9k/$1.6k liquidation clusters; ETF outflows, $7.5M](https://www.tradingview.com/news/tradingview:20515a214a4b6:0-key-facts-ethereum-1-9k-1-6k-liquidation-clusters-etf-outflows-7-5m/)**
 
-TradingView • 20h ago
+TradingView • 23h ago
 
 ---
 
@@ -216,15 +222,7 @@ TradingView • 20h ago
 
 Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin
 
-PYMNTS.com • 10h ago
-
----
-
-**[XRP Recovery Hopes Are Alive, Is Bitcoin (BTC) Next Breakout Around the Corner? Ethereum (ETH) Stabilizes Near $1,700: Crypto Market Review](https://u.today/xrp-recovery-hopes-are-alive-is-bitcoin-btc-next-breakout-around-the-corner-ethereum-eth-stabilizes)**
-
-The market's recovery is might turn into yet another correction, which is the last thing market would need here.
-
-U.Today • 8h ago
+PYMNTS.com • 13h ago
 
 ---
 
@@ -232,23 +230,23 @@ U.Today • 8h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
-
-The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
-
-📺 Yahoo Finance
-
-👁️ 16K • 👍 487 • 💬 213 • ⏱️ 14:53 • 1d ago
-
----
-
 **[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
 
 Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
 📺 AllinCrypto
 
-👁️ 20K • 👍 961 • 💬 314 • ⏱️ 12:14 • 20h ago
+👁️ 21K • 👍 970 • 💬 389 • ⏱️ 12:14 • 23h ago
+
+---
+
+**[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
+
+The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
+
+📺 Yahoo Finance
+
+👁️ 16K • 👍 497 • 💬 213 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -258,37 +256,7 @@ In this video I break down the current Ethereum price action and analyze the pot
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 223 • 💬 8 • ⏱️ 9:05 • 17h ago
-
----
-
-**[URGENT: Ethereum To Crash -10% From Here?](https://www.youtube.com/watch?v=nRje-vkezes)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 415 • 👍 17 • 💬 1 • ⏱️ 6:27 • 14h ago
-
----
-
-**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
-
-Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
-
-📺 Cointelegraph
-
-👁️ 4K • 👍 85 • 💬 8 • ⏱️ 14:55 • 2d ago
-
----
-
-**[Is Ethereum Ready to Reconnect With the Nasdaq?](https://www.youtube.com/watch?v=Gw5kbrO8Ryw)**
-
-Ethereum has plunged nearly 70% from its 2025 peak, completely decoupling from the Nasdaq's historic run to 31000. Jim Iuorio ...
-
-📺 CME Group
-
-👁️ 157 • 👍 4 • ⏱️ 2:43 • 10h ago
+👁️ 5K • 👍 230 • 💬 8 • ⏱️ 9:05 • 20h ago
 
 ---
 
@@ -298,17 +266,37 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 4K • 👍 123 • 💬 25 • ⏱️ 16:03 • 1d ago
+👁️ 4K • 👍 124 • 💬 25 • ⏱️ 16:03 • 1d ago
 
 ---
 
-**[How to Claim 0.35 ETH | Get Free Ethereum | Claim ETH + Withdraw](https://www.youtube.com/watch?v=_lIXABRNXEo)**
+**[URGENT: Ethereum To Crash -10% From Here?](https://www.youtube.com/watch?v=nRje-vkezes)**
 
-What's up, it's Ethan — in this video I show you a new ETH drop that's giving out 0.35 ETH to eligible wallets. I went through the full ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Ethan Pierce IT
+📺 Trade Confident
 
-👁️ 6K • 💬 210 • ⏱️ 5:35 • 11h ago
+👁️ 441 • 👍 17 • 💬 1 • ⏱️ 6:27 • 17h ago
+
+---
+
+**[How To Measure Ethereum&#39;s REAL Price](https://www.youtube.com/watch?v=HGVDM0vc8-g)**
+
+Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this interview, Sharplink CIO Matthew Sheffield ...
+
+📺 Cointelegraph
+
+👁️ 4K • 👍 86 • 💬 8 • ⏱️ 14:55 • 2d ago
+
+---
+
+**[Is Ethereum Ready to Reconnect With the Nasdaq?](https://www.youtube.com/watch?v=Gw5kbrO8Ryw)**
+
+Ethereum has plunged nearly 70% from its 2025 peak, completely decoupling from the Nasdaq's historic run to 31000. Jim Iuorio ...
+
+📺 CME Group
+
+👁️ 199 • 👍 4 • ⏱️ 2:43 • 13h ago
 
 ---
 
@@ -318,7 +306,17 @@ BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 385 • 💬 177 • ⏱️ 30:09 • 11h ago
+👁️ 8K • 👍 404 • 💬 190 • ⏱️ 30:09 • 14h ago
+
+---
+
+**[How to Claim 0.35 ETH | Get Free Ethereum | Claim ETH + Withdraw](https://www.youtube.com/watch?v=_lIXABRNXEo)**
+
+What's up, it's Ethan — in this video I show you a new ETH drop that's giving out 0.35 ETH to eligible wallets. I went through the full ...
+
+📺 Ethan Pierce IT
+
+👁️ 6K • 💬 210 • ⏱️ 5:35 • 14h ago
 
 ---
 
@@ -328,7 +326,7 @@ People are panicking because XRP price is being manipulated down the big dogs an
 
 📺 Donnahue  George Stocks Real Estate Health
 
-👁️ 932 • 👍 111 • 💬 18 • ⏱️ 4:28 • 11h ago
+👁️ 983 • 👍 118 • 💬 18 • ⏱️ 4:28 • 14h ago
 
 ---
 
