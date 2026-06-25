@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-24T22:47:34.746151+00:00'
+updated: '2026-06-25T00:14:21.822173+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 24, 2026 at 22:47 UTC  
+**Last Updated:** June 25, 2026 at 00:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -5.6%  
-**30d:** -22.1%  
-**90d:** -19.0%  
-**1y:** -33.2%  
+**24h:** -3.0%  
+**7d:** -5.2%  
+**30d:** -19.8%  
+**90d:** -18.6%  
+**1y:** -32.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $193.88B
+**Market Cap:** $195.75B
 Rank #2
 
 **Circulating Supply:** 120,683,784 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.5%
+-67.2%
 
 **All-Time Low:** $0.43
-+370945.7%
++374516.3%
 
 ---
 
@@ -170,7 +170,15 @@ CoinDesk • 1d ago
 
 These are today's bitcoin and ethereum prices, Wednesday, June 24, 2026. Bitcoin opened at $62,660.11 on Wednesday, down 2% from Tuesday's open. Ethereum opened at $1,665.13 on Wednesday, flat compared to Tuesday's opening price.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
+
+$6 billion just left BTC ETFs
+
+Coinbase • 3h ago
 
 ---
 
@@ -186,7 +194,7 @@ PR Newswire • 2d ago
 
 Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.
 
-Decrypt • 1h ago
+Decrypt • 3h ago
 
 ---
 
@@ -194,7 +202,7 @@ Decrypt • 1h ago
 
 Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin
 
-PYMNTS.com • 1h ago
+PYMNTS.com • 2h ago
 
 ---
 
@@ -210,21 +218,13 @@ The Block • 1d ago
 
 Tokyo, Japan, June  24, 2026  (GLOBE NEWSWIRE) -- $HODL  has officially expanded to Ethereum. The project-led by GameKyuubi, the original author o...
 
-markets.businessinsider.com • 55m ago
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[Virell Trade Launches Stabliq Wallet for Stablecoin Management on Ethereum and TRON](https://www.etf.com/sections/news/virell-trade-launches-stabliq-wallet-stablecoin-management-ethereum-and-tron)**
 
-ETF.com • 11h ago
-
----
-
-**[Ethereum’s much-hated staking 'tax' may already be obsolete](https://www.tradingview.com/news/cointelegraph:c792d0001094b:0-ethereum-s-much-hated-staking-tax-may-already-be-obsolete/)**
-
-Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.
-
-TradingView • 23h ago
+ETF.com • 13h ago
 
 ---
 
@@ -232,33 +232,23 @@ TradingView • 23h ago
 
 ## YouTube Videos: "ethereum"
 
-**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 16K • 👍 877 • 💬 224 • ⏱️ 12:14 • 10h ago
-
----
-
-**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
-
-In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 197 • 💬 8 • ⏱️ 9:05 • 8h ago
-
----
-
 **[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
 
 The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 461 • 💬 228 • ⏱️ 14:53 • 1d ago
+👁️ 15K • 👍 463 • 💬 228 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 18K • 👍 918 • 💬 226 • ⏱️ 12:14 • 12h ago
 
 ---
 
@@ -268,27 +258,27 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 160 • 👍 12 • 💬 1 • ⏱️ 6:27 • 4h ago
+👁️ 235 • 👍 14 • 💬 1 • ⏱️ 6:27 • 6h ago
 
 ---
 
-**[BITCOIN: A Liquidation Cascade Is Loading! (watch) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=lsIgMBTNwHM)**
+**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
 
-📺 BitcoinHyper
+📺 More Crypto Online
 
-👁️ 6K • 👍 372 • 💬 70 • ⏱️ 13:33 • 12h ago
+👁️ 4K • 👍 205 • 💬 8 • ⏱️ 9:05 • 9h ago
 
 ---
 
-**[Crypto Crash: Is This Just the Beginning?](https://www.youtube.com/watch?v=xXGsi_SOGjc)**
+**[BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ItLdGdxfPMg)**
 
-Crypto is under pressure. Join me live as we break down the latest moves in Bitcoin, Ethereum, Solana, and the wider crypto ...
+BITCOIN CRASH TODAY: New Price Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Traders Reality
+📺 Crypto World
 
-👁️ 973 • 👍 121 • 2h ago
+👁️ 3K • 👍 234 • 💬 149 • ⏱️ 30:09 • 3h ago
 
 ---
 
@@ -298,7 +288,7 @@ Why Ethereum Should Be Worth Trillions MaxFi: https://www.maxfi.tech/ Discord: h
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 116 • 💬 23 • ⏱️ 16:03 • 1d ago
+👁️ 3K • 👍 117 • 💬 25 • ⏱️ 16:03 • 1d ago
 
 ---
 
@@ -308,7 +298,7 @@ Open an account at iTrust Capital and legally avoid taxes on your bitcoin and cr
 
 📺 Brian Harrington
 
-👁️ 3K • 👍 102 • 💬 38 • ⏱️ 9:26 • 1d ago
+👁️ 3K • 👍 102 • 💬 39 • ⏱️ 9:26 • 1d ago
 
 ---
 
@@ -322,13 +312,23 @@ Sharplink owns 875000 ETH and believes Ethereum is still underpriced. In this in
 
 ---
 
-**[How to get rich with just Ethereum](https://www.youtube.com/watch?v=3YTr9e6AMvs)**
+**[How to Claim 0.35 ETH | Get Free Ethereum | Claim ETH + Withdraw](https://www.youtube.com/watch?v=_lIXABRNXEo)**
 
-Work With Me - https://jakegordon.lpages.co/jake-10k-fast-track/ How I monetise my assets - https://vfat.io?ref=jake DISCLAIMER ...
+What's up, it's Ethan — in this video I show you a new ETH drop that's giving out 0.35 ETH to eligible wallets. I went through the full ...
 
-📺 Jake Gordon Crypto
+📺 Ethan Pierce IT
 
-👁️ 2K • 👍 103 • 💬 36 • ⏱️ 14:40 • 2d ago
+👁️ 5K • 💬 99 • ⏱️ 5:35 • 3h ago
+
+---
+
+**[Ethereum Foundation to Cut Budget by 40% and Slash 20% of Workforce](https://www.youtube.com/watch?v=DHnxq7Lh2DU)**
+
+The Ethereum Foundation will slash its budget by roughly 40% this year as part of a shift toward a leaner, endowment-style ...
+
+📺 CoinDesk
+
+👁️ 628 • 👍 15 • 💬 24 • ⏱️ 1:23 • 8h ago
 
 ---
 
