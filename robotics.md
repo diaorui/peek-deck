@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-25T16:25:22.581924+00:00'
+updated: '2026-06-25T18:33:29.887058+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 25, 2026 at 16:25 UTC  
+**Last Updated:** June 25, 2026 at 18:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to show what it looks like to rethink human-robot collaboration, using AI so a shrinking pool of experts can meet the increasing demands of future infrastructure. The obvious thing to automate is the rote physical work that consumes an expert's attention without needing critical judgment. Cabling tasks are the most common example of this. They're necessary when setting up any rack, but usually one-off, and labor is readily available to address this need. We think this is a good place to start, but the least interesting place to change how people work. Standard operating procedures (SOPs) are how critical infrastructure stays stable, and they're the work that scales worst. The video shows one common procedure: clearing the cables a technician leaves behind after testing, and reconciling the rack to a stable state for the next test. A robot that runs SOPs the same way every time, never skipping a step, keeps the system in a known, predictable state. This reduces the cognitive overhead on experts so they can solve harder problems. What most excites us is robots guiding where an expert's attention should go. In the video, the robot checks the switches with a thermal camera, then makes a judgment on whether the increase in temperature is a real problem or a spurious reading. This instinct requires an expert to synthesize all available background context and accumulated lessons from past failures. This is where we want to double down, and show how human-robot collaboration places scarce expert attention exactly where it matters. More to come.
 
-18h ago
+20h ago
 
 ---
 
 **[Robotica arm 3d printed](https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
 
-8h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a university project. It's so hard to iterate because as soon as I get close to making progress, I have to power the whole thing off and replace the battery. Now I know you should run heavy processing offline and communicate with the robot over a network, but what I am doing is basically ROS2 troubleshooting for which I need the setup exactly as it will be during deployment. Exactly how is this "robotics revolution" powered by vision-language-action models supposed to work, when the most popular quadruped cannot even power a jetson for more than 15 minutes standing still??? I always thought VLA was an impractical idea, but now I am even less convinced.
 
-16h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a universi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 8h ago
+🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 11h ago
 
 ---
 
@@ -82,13 +82,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi everyone, For the past couple of weeks I have been working on a simulator project considering the shortcomings of MuJoCo. There are things that people like and also don't like about MuJoCo, like the CPU dependency on MuJoCo which makes the simulation not parallelizable beyond a certain limit (depending on the hardware). I know there exists MJX which is GPU accelerated, however, it is not really made for vision based RL pipelines and training. There is also NVIDIA Isaac ecosystem, but that requires a powerful GPU, thus making it limited in terms of accessibility, let alone it requires license. This is why I worked out this new simulator (still working on it, so there will be significant bugs which require fixing). I call it MuJoFil => MuJoCo + Google's Filament Render Engine. Basically I used Nvidia's Newton Physics Engine (which itself is based on MuJoCo's physics engine but is GPU native), clubbed it with Google's Filament render engine (both of these are open-source), modified Filament significantly to support working natively on GPU to render multiple simulations in parallel, and worked on optimizing it for performance. So what is MuJoFil? It is supposed to be an open-source high visual fidelity simulator optimised for a highly parallelized RL training pipeline so that users can use it to train Vision based Policies. Besides, it offers PBR textures support and also a simple to use plug and play functionality, where you can use any environments available online and support formats such as GLB, OpenUSD, etc. for setting environments for your robots. Basically, now you aren't just limited to environments native to MuJoCo, but rather you can use any environments available online from sketchfab, polyhaven, etc. and use it as a practical robot simulation environment. Check it out for yourself in the video. I would really appreciate it if you guys could tell how you feel about it and suggest ideas for what all things I can incorporate into it as this is going to be a fully open-source and free to use simulator that I have been working on for weeks. PS: While I have a couple of published research papers at top RL and AI/ML venues in the field of RL, I still consider myself a learner in this field who is continuously trying, learning, and building stuff, so there will be things in this hugely ambitious project which I might have missed to work on, and that is where I want help from you people who understand this field well. Sorry for this lengthy post and thanks if you read it till here🙇🙇🙏, I would really appreciate if you could share your thoughts on it. Also, I will make its code repo public on GitHub, but till then you can definitely check it out on PyPI. There are 2 separate packages, one can be installed using: "pip install mujofil" This is the CPU based variant, whereas there is a CUDA supporting GPU native variant about which I mentioned above, you can currently install it using: "pip install mujofil-warp" I am planning on changing its name to mujofil-cuda instead of mujofil-warp as that apparently sounds more intuitive to my direct peers but you can suggest this name as well. Thank you for the support❤️.
 
-22h ago
+1d ago
 
 ---
 
 **[I mean chat only helped a little 🫪](https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 Is this the Move-37 moment for flooring? I know, this machine is engineered for this job and probably needs close to perfect conditions to work, hence lacking the "creativity" of AlphaGo. But still, don't look where we are today, but 2 more machines down the line. Seems frightening for flooring installers at least.
 
-8h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is this the Move-37 moment for flooring? I know, this machine is engineered for 
 
 （Translating this interesting Japanese post into English for the community! [Repost/Translation] Original link provided at the end.） We are diving right into microcontroller-based control today to explore some new IMU sensors for the Mini Pupper. Here is the breakdown: Table of contents BNO055 Integrating the BNO055 into Mini Pupper Key Notes Party Trick Time! Conclusion BNO055 Previously, I used the ATOM Matrix for control and had fun experimenting with attitude control using its built-in MPU6886 IMU sensor. My goal was to track the Yaw angle (rotation around the gravity axis) so the robot could keep facing the same direction even when the floor beneath it rotated. However, the MPU6886 suffered from significant Yaw drift, forcing me to abandon that approach. In this post, I’m switching to a different IMU sensor to finally achieve accurate Yaw control. To be fair, it's no surprise that a 6-axis IMU like the MPU6886 struggles with Yaw. That said, even with another 6-axis sensor like the MPU6050, you can actually get a relatively low-drift Yaw angle after a proper offset calibration. I could have gone with the MPU6050, but I decided to try out the BNO055 9-axis IMU sensor instead. Honestly, while the internal processing of the BNO055 is a bit of a black box, it delivers highly accurate attitude angles. You can get precise orientation data right out of the box without any tedious calibration or manual compensation using this sample code. Integrating the BNO055 into Mini Pupper I could have simply added the BNO055 to my previous ATOM Matrix setup. However, adding an extra IMU to a board that already integrates an MPU6886 felt way too redundant, and I just couldn't accept it. So, I opted for the ATOM Lite as the controller instead. BNO055 Circuit Board Key Notes While the BNO055 communicates via I2C, I ran into an issue where using M5Atom.h from the M5Stack Arduino library prevented me from mapping custom I2C pins for the Adafruit_BNO055 library. https://preview.redd.it/obc4fr764r8h1.png?width=1196&format=png&auto=webp&s=72d581213069e44203c269b73a8353f036312c93 To bypass this, I skipped the M5Stack library entirely and programmed the ATOM Lite using the standard ESP32 Arduino framework instead. This allowed me to freely specify the I2C pins, and communication with the BNO055 worked flawlessly. In this setup, I assigned Wire.begin(25, 21) for the BNO055 and Wire1.begin(22, 19) for the PCA9685 servo driver. I can confirm that everything runs perfectly without any issues! Reading attitude data with the BNO055, controlling the servos with the PCA9685, and lighting up the NeoPixels —— I've finally built my ideal board! Party trick Time! Thanks to the BNO055, I can now get highly accurate orientation angles. No Kalman filtering or complex algorithms needed—I just used the raw angle data straight from the sensor. The BNO055 is a beast and made this incredibly easy. I tested out the Yaw-based turn control to keep the robot locked onto a single heading while rotating. The longed-for Mini Pupper party trick Looks great! The walking gaits I programmed earlier are also working perfectly. ATOM Lite version Mini Pupper is also doing very well Even when the floor is tilted, parallel control based on foot height is smoothly achieved using only the attitude angle P control of BNO055. Conclusion I had a blast using the BNO055 9-axis IMU sensor to control the Mini Pupper. The BNO055 is honestly a game-changer—it finally allowed me to bring my dream Mini Pupper party trick to life! It's incredibly rewarding to watch this little robot get smarter and smarter. I'll definitely keep learning and experimenting! Original Japanese Post Original X Post #1 (Media) Original X Post #2 (Media) Original X Post #3 (Media) Original X Post #4 (Media)
 
-13h ago
+15h ago
 
 ---
 
@@ -118,11 +118,17 @@ WSJ • 1d ago
 
 ---
 
-**[Robot Memory Is The Next Big Robotics Frontier](https://www.forbes.com/sites/ronschmelzer/2026/06/23/robot-memory-is-the-next-big-robotics-frontier/)**
+**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
 
-MIT's DAAAM research gives robots a memory of what it seen, letting it build a detailed map of a space with descriptions that it ca attach descriptions to objects in that map, and answer plain English questions later.
+The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
 
-Forbes • 1d ago
+Financial Times • 17h ago
+
+---
+
+**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
+
+Politico • 1d ago
 
 ---
 
@@ -134,20 +140,6 @@ The Guardian • 1d ago
 
 ---
 
-**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
-
-The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
-
-Financial Times • 15h ago
-
----
-
-**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
-
-Politico • 1d ago
-
----
-
 **[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
 
 Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
@@ -156,19 +148,11 @@ CBS News • 1d ago
 
 ---
 
-**[Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race](https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html)**
-
-Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
-
-CNBC • 16h ago
-
----
-
-**[Brilliant minds unite: All-girl robotics team from Ontario takes its skills to world championship](https://www.theglobeandmail.com/canada/article-brilliant-minds-unite-all-girls-robotics-team-from-ontario-takes-its/)**
+**[All-girl robotics team from Ontario takes its skills to world championship](https://www.theglobeandmail.com/canada/article-brilliant-minds-unite-all-girls-robotics-team-from-ontario-takes-its/)**
 
 High school students from Trafalgar Castle School in Whitby say their qualification shows women can thrive in STEM fields
 
-The Globe and Mail • 17h ago
+The Globe and Mail • 19h ago
 
 ---
 
@@ -180,11 +164,27 @@ NVIDIA Developer • 3d ago
 
 ---
 
-**[Mint and YAS launch Hong Kong joint venture for robot insurance](https://www.stocktitan.net/news/MIMI/yas-digital-group-ltd-and-mint-incorporation-ltd-form-strategic-ghy6aagy0gsr.html)**
+**[NHS ShoreBots celebrate historic Robotics season](https://shoredailynews.com/headlines/nhs-shorebots-celebrate-historic-robotics-season/)**
 
-YAS Robotics will hold a 75% YAS stake and 25% Mint stake, targeting robotics and AI insurance products across Hong Kong and Southeast Asia.
+Pictured:Left to Right, Back row: Coach Stephanie Zodun, Brycen Joseph, Bear McCormick, Co-Captain Grayson Brown, Reid Travis, Coach Mike Zodun, Mentor Kate Lantham. Left to Right, Front row: Co-Captain Abigail Zodun, Temperance Stamer   Northampton High School’s robotics team, The ShoreBots, Team 1908, capped off the most successful season in program history this year with an appearance at the FIRST World ... Read More
 
-Stock Titan • 4h ago
+Shore Daily News • 9h ago
+
+---
+
+**[After Successfully Selling Over 15 Cars, Faraday Future Would Now Like You To Buy Its Robots](https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/)**
+
+Faraday Future recently showed off a lineup of robots as part of the electric car maker's latest pivot.
+
+Engadget • 19h ago
+
+---
+
+**[Robot Memory Is The Next Big Robotics Frontier](https://www.forbes.com/sites/ronschmelzer/2026/06/23/robot-memory-is-the-next-big-robotics-frontier/)**
+
+MIT's DAAAM research gives robots a memory of what it seen, letting it build a detailed map of a space with descriptions that it ca attach descriptions to objects in that map, and answer plain English questions later.
+
+Forbes • 1d ago
 
 ---
 
@@ -192,23 +192,23 @@ Stock Titan • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
-
-Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
-
-📺 FOX 5 New York
-
-👁️ 3K • 👍 10 • 💬 6 • ⏱️ 2:07 • 1d ago
-
----
-
 **[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
 
 For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
 
 📺 PRO ROBOTS
 
-👁️ 53K • 👍 958 • 💬 80 • ⏱️ 24:13 • 6d ago
+👁️ 53K • 👍 960 • 💬 80 • ⏱️ 24:13 • 6d ago
+
+---
+
+**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+
+Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+
+📺 FOX 5 New York
+
+👁️ 3K • 👍 10 • 💬 7 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 488K • 👍 1K • 💬 385 • ⏱️ 0:31 • 1d ago
+👁️ 545K • 👍 1K • 💬 412 • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 60K • 👍 1K • 💬 217 • ⏱️ 13:45 • 3d ago
+👁️ 61K • 👍 1K • 💬 217 • ⏱️ 13:45 • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 Just A Dad Approved
 
-👁️ 13K • 👍 236 • 💬 148 • ⏱️ 18:57 • 2d ago
+👁️ 13K • 👍 240 • 💬 149 • ⏱️ 18:57 • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video I go over the 10 worst T4 robots in the game. https://wr.my.games/
 
 📺 Wolfblood7
 
-👁️ 5K • 👍 223 • 💬 116 • ⏱️ 11:52 • 1d ago
+👁️ 5K • 👍 228 • 💬 118 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -272,13 +272,13 @@ Welcome to the future of logistics. This fully automated warehouse in China oper
 
 ---
 
-**[State Of War Robots In 2026...](https://www.youtube.com/watch?v=psHxy1tQha4)**
+**[Tesla&#39;s Optimus Factory Just Hit 4 Floors — 27,000 Robots/Day by 2027](https://www.youtube.com/watch?v=2WIWdEQpO5s)**
 
-The State of WR in 2026. It's been awhile since we went over the State of the game. Now we're mid 2026. And I think it's worth ...
+Tesla Optimus Factory just hit 4 floors—and Tesla's bold plan for 27000 robots a day is becoming real. See the $10B factory that ...
 
-📺 PREDATOR WR
+📺 Tech Revolution
 
-👁️ 9K • 👍 471 • 💬 159 • ⏱️ 14:19 • 1d ago
+👁️ 76K • 👍 1K • 💬 170 • ⏱️ 21:01 • 5d ago
 
 ---
 

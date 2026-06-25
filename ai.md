@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-25T16:25:22.564253+00:00'
+updated: '2026-06-25T18:33:29.869435+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 25, 2026 at 16:25 UTC  
+**Last Updated:** June 25, 2026 at 18:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Has ChatGPT quietly become your default tool for thinking through problems?](https://www.reddit.com/r/artificial/comments/1uff0w9/has_chatgpt_quietly_become_your_default_tool_for/)**
+
+A year ago I mostly used ChatGPT to answer questions or rewrite text. Now I've noticed something different. A few nights ago I was on my laptop trying to figure out a project and without even thinking I opened ChatGPT before opening Google. Not because I expected it to have the perfect answer but because it's become the fastest way for me to organize my thoughts, compare ideas and figure out what to do next. It's kind of strange how naturally that habit developed. I'm curious if anyone else has experienced the same shift. Do you still think of ChatGPT as a search tool or has it become more of a thinking partner for you?
+
+2h ago
+
+---
+
 **[Claude Fable 5 may return today after 13-day government-forced suspension](https://www.reddit.com/r/artificial/comments/1uf5pzu/claude_fable_5_may_return_today_after_13day/)**
 
 Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes -The reason? Amazon engineers reportedly found a narrow jailbreak that could bypass Fable’s cybersecurity classifiers -Anthropic complied but publicly pushed back, calling the action unfair -Trump met Dario Amodei at the G7 and softened his stance, but the directive was never officially lifted -June 26 (today): Congressional deadline for Commerce Secretary Lutnick to respond in writing about the export controls Prediction markets are pricing ~57% odds of restoration before July 1. Developers have been stuck on Opus 4.8 this whole time. This whole situation raises a serious question: if a government can pull your AI model offline in 90 minutes, what does that mean for anyone building on closed, hosted models?
 
-6h ago
+8h ago
+
+---
+
+**[Coughing Robocallers](https://www.reddit.com/r/artificial/comments/1ufg4jk/coughing_robocallers/)**
+
+The last few days, I've been getting obviously AI robocallers trying to sell me Medicare plans. (I'm not old enough for Medicare for another 20 years.) Sometimes it's a male voice, sometimes female. Always a different name. They've added a little trick where they start their speech then cough or sneeze, then say "Sorry about that," or a similar apology then continue. But if you try to interrupt them, they just keep talking, so you know it's AI. And they do the cough/apology in EVERY call, male or female voice, in just about the same spot. It's really annoying, and borderline offensive that they are trying so hard to pretend to be human.
+
+1h ago
 
 ---
 
@@ -49,7 +65,7 @@ Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their mo
 
 The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 4h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 7h ago
 
 ---
 
@@ -57,37 +73,21 @@ The firm alleged that Alibaba used fraudulent accounts to access data from its C
 
 For me, it would probably be search, writing assistance, and productivity tools. I'm curious-what Al-powered tool do you use most often without even thinking about it?
 
-1h ago
-
----
-
-**[The Death of "Vibe Coding": Why un-monitored AI generation is creating a compounding technical debt.](https://www.reddit.com/r/artificial/comments/1ufbqxi/the_death_of_vibe_coding_why_unmonitored_ai/)**
-
-Hey everyone, ​We are quickly approaching a major bottleneck in AI-assisted software engineering. Relying on LLMs to spit out thousands of lines of code without a strict, human-driven architectural framework—what many call "Vibe Coding"—is creating brittle, unmaintainable systems. ​I’ve formalized this structural shift into a public document on GitHub: The AI-Powered Developer Manifesto. ​Instead of treating AI as a replacement for software architecture, we need to shift our paradigm from Micro-Coding (syntax generation) to Macro-Coding (system direction and epistemic supervision). ​Here is a crucial excerpt from Section 2.5 of the Manifesto, outlining why the current trajectory is leading toward a systemic collapse: ​2.5 The Compounding Technical Debt and Systemic Collapse ​The illusion of rapid deployment via un-monitored AI generation hides a critical flaw: compounding technical debt. ​When developers act merely as "vibe coders"—accepting AI outputs without deep syntactic validation—the codebase becomes an agglomeration of statistical probabilities rather than deterministic logic. By late 2026, systems built entirely on un-vetted AI iterations are projected to hit an architectural wall: a state where the complexity of debugging AI-generated hallucinations outweighs the speed of initial deployment. ​True AI-Powered Developers do not delegate understanding; they delegate execution while retaining absolute epistemic responsibility over the system architecture. ​The goal of this manifesto is to redefine our role: we aren't syntax writers anymore; we are system directors. ​I'd love to hear your thoughts on this. Are you already seeing the limits of un-monitored "vibe coding" in your production environments? How are you structuring your prompts to maintain macro-level architectural control? ​Full Manifesto and repository for open contributions: 👉 https://github.com/FractalDevelop/ai-powered-developer-manifest.git
-
-1h ago
+3h ago
 
 ---
 
 **[There’s One Clear Reason Why Americans Are Gloomy About A.I.](https://www.reddit.com/r/artificial/comments/1ufasrb/theres_one_clear_reason_why_americans_are_gloomy/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) • 2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) • 4h ago
 
 ---
 
-**[Opus 4.8 The Worst Claude Ever](https://www.reddit.com/r/artificial/comments/1ueqjvq/opus_48_the_worst_claude_ever/)**
+**[What's the most annoying thing about using AI as a tool for revision in education, in your opinion?](https://www.reddit.com/r/artificial/comments/1uffaow/whats_the_most_annoying_thing_about_using_ai_as_a/)**
 
-I have worked with most all of Anthropics LLM's for development, but hands down Opus 4.8 has caused me more grief, aggravation, and it lies in every thing it does - especially near context mid-load and if you're doing deterministic work with no heuristics constraints you can't trust a thing out of it. So I stopped using it a while back, but today I had to do a container rebuild and in VS it slipped back into Opus 4.8 from Sonnet. And without even realizing the switch happen I could tell about a 1/3 of the way in into developing complex code it started arguing with me - I was about to loose it when I remembered the crap from the past and sure enough when I check the model... well you get the picture.... I was wondering if anyone else had similar experience with Opus 4.8 too?
+Anything from not being able to follow mark schemes, question structures, the lot.
 
-18h ago
-
----
-
-**[We chased a hallucinated quote through 30k training records, 4,600 transcripts, and our own system prompt. Turned out to be two separate bugs](https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/)**
-
-Some of our customers noticed Inter-1 (our omni-modal social-signal model) would occasionally "hear" a quote that didn't exist. Feed it a video with zero audio and ask what was said, and it would sometimes report: "Yeah, Friday at five." Verbatim. Same line, every time. We assumed it had to be baked into the training data somewhere, so we went looking everywhere: 30,960 training records with datetime mentions → zero hits on the phrase 4,603 video transcripts → zero hits ~800 inference probes, 584 storage objects → zero hits Turns out the phrase was sitting in our own system prompt — a worked example we'd written to show the model the expected output format, buried in a version our GEPA prompt-optimizer had shipped. But that only explained where the words came from, not why the model would say them over total silence. So we ran two ablations in our internal eval harness: Swap the word, keep the model: changed the prompt's example to "Tuesday at noon." Fabrication rate went up (37%→50%), and the invented quote tracked the swap exactly — Friday→Tuesday. Swap the model, keep the prompt: ran the same byte-identical prompt through larger variants and an earlier checkpoint of our own model. They barely fabricated (0–2%). Only the further-post-trained Inter-1 confabulated at ~12%. So it's not one bug, it's two stacked priors: the prompt supplied the script, but post-training is what gave the model the compulsion to recite something rather than report silence. Deleting the prompt example stops that one sentence — it doesn't stop the model from inventing different dialogue instead. We think this is a textual/in-context variant of the audio-visual "Clever Hans effect" that's been documented for vision priors (model writes "thud" over a silent skateboard wipeout) — except ours shows the same reflex gets worded by whatever's nearest in the context window, which a vision-only diagnostic wouldn't catch. Full writeup with the fabrication-rate forest plot and log data: https://www.interhuman.ai/blog/goblin-yeah-friday-at-five
-
-1d ago
+1h ago
 
 ---
 
@@ -95,15 +95,7 @@ Some of our customers noticed Inter-1 (our omni-modal social-signal model) would
 
 The Linux Foundation just announced its intent to launch the Agent Name Service (ANS), an open standard for providing AI agents with verifiable identities. The basic idea is to reuse existing internet infrastructure, mainly DNS so that an AI agent can prove: which organization or domain it belongs to What is allowed to do whether its identity and history can be verified how other agents or systems should discover and interact with it
 
-2m ago
-
----
-
-**[On Model Failures (GPT, Claude etc.)](https://www.reddit.com/r/artificial/comments/1ufe9bf/on_model_failures_gpt_claude_etc/)**
-
-The way the current consumer-facing versions of frontier LLMs (mainly GPT, Claude, Gemini) are designed is just… weirdly off, across models. It seems to now require us, as the end users, to first fix their issues ourselves in order to avoid spending _a lot_ of time in troubleshooting and frustration. Before we can even properly customize one of these models now, as per the UI, we need to alleviate the structural failure modes, otherwise our attempts will be futile. And the failure modes are not only behavioral issues (such as obsessive push-back, sycophancy, pointless corrections, or general confabulation etc.) There is another layer yet to them, one that I believe needs to be targeted first, and this has to do with the way the current system prompts are built. It's not fair, obviously, and it doesn't even make that much sense that this would be the situation, but this is actually what is happening. Now, the structural (sic) issue is way the models replace the user's use case, object, topic with their own adjacent version of it, one that prioritizes the system prompt and not what the user brought to the table. The linked articles are analyses of how that happens in different models, and the included "antidote" prompts in them are designed to fix that. I would encourage all GPT / Claude users to test out the solutions provided in the articles - links to pieces covering GPT-5 series & Opus 4.8 in comments. _(Yes they are softly paywalled, partly because I am targeting the system prompts of OpenAI and Anthropic models. You can bypass it by grabbing the free complementary article. Just saying this aloud because some Redditors consider any paywall grounds for personal attacks. Please don't 🙏🏻 Discussion and constructive criticism are super welcome though, all prompts are subject to regular updates and constant improvement!)_
-
-21m ago
+2h ago
 
 ---
 
@@ -111,7 +103,15 @@ The way the current consumer-facing versions of frontier LLMs (mainly GPT, Claud
 
 Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now performing close to leading models from OpenAI and Anthropic on coding and AI agent benchmarks. The company claims the model delivers competitive results at a much lower cost and has been optimized to run on domestic Chinese hardware, including Huawei chips. Z.ai is also planning a dual listing in Hong Kong and Shanghai to fund its long-term AGI ambitions. The news comes as China's AI sector continues to narrow the gap with leading U.S. AI labs despite ongoing restrictions on advanced chip access. Are we entering a world where frontier AI is no longer dominated by a handful of U.S. companies?
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 6h ago
+
+---
+
+**[The Death of "Vibe Coding": Why un-monitored AI generation is creating a compounding technical debt.](https://www.reddit.com/r/artificial/comments/1ufbqxi/the_death_of_vibe_coding_why_unmonitored_ai/)**
+
+Hey everyone, ​We are quickly approaching a major bottleneck in AI-assisted software engineering. Relying on LLMs to spit out thousands of lines of code without a strict, human-driven architectural framework—what many call "Vibe Coding"—is creating brittle, unmaintainable systems. ​I’ve formalized this structural shift into a public document on GitHub: The AI-Powered Developer Manifesto. ​Instead of treating AI as a replacement for software architecture, we need to shift our paradigm from Micro-Coding (syntax generation) to Macro-Coding (system direction and epistemic supervision). ​Here is a crucial excerpt from Section 2.5 of the Manifesto, outlining why the current trajectory is leading toward a systemic collapse: ​2.5 The Compounding Technical Debt and Systemic Collapse ​The illusion of rapid deployment via un-monitored AI generation hides a critical flaw: compounding technical debt. ​When developers act merely as "vibe coders"—accepting AI outputs without deep syntactic validation—the codebase becomes an agglomeration of statistical probabilities rather than deterministic logic. By late 2026, systems built entirely on un-vetted AI iterations are projected to hit an architectural wall: a state where the complexity of debugging AI-generated hallucinations outweighs the speed of initial deployment. ​True AI-Powered Developers do not delegate understanding; they delegate execution while retaining absolute epistemic responsibility over the system architecture. ​The goal of this manifesto is to redefine our role: we aren't syntax writers anymore; we are system directors. ​I'd love to hear your thoughts on this. Are you already seeing the limits of un-monitored "vibe coding" in your production environments? How are you structuring your prompts to maintain macro-level architectural control? ​Full Manifesto and repository for open contributions: 👉 https://github.com/FractalDevelop/ai-powered-developer-manifest.git
+
+4h ago
 
 ---
 
@@ -119,73 +119,71 @@ Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now pe
 
 ## Google News: "ai"
 
+**[Chinese A.I. Models Gain Ground on Anthropic and OpenAI](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html)**
+
+The New York Times • 2h ago
+
+---
+
 **[The New Push to Ready Millions for AI Career Upheaval](https://www.wsj.com/lifestyle/careers/the-new-push-to-ready-millions-for-ai-career-upheaval-dfb04cc5)**
 
-WSJ • 1h ago
+WSJ • 3h ago
 
 ---
 
 **[Big Companies Aim to Ease A.I. Transition for American Workers](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html)**
 
-The New York Times • 3h ago
+The New York Times • 5h ago
 
 ---
 
-**[AI is plowing through the workplace. This new group wants to help people adapt and have jobs](https://www.twincities.com/2026/06/25/ai-politics-nonprofit/)**
+**[CT among first states in group trying to preserve jobs amid AI boom](https://ctmirror.org/2026/06/25/ct-among-first-states-in-group-trying-to-preserve-jobs-amid-ai-boom/)**
 
-Bipartisan nonprofit wants to help Americans who find they’re out of work because of AI.
+CT Mirror • 31m ago
 
-Pioneer Press • 43m ago
+---
+
+**[Texas AI Data CentersPower, Policy, and Progress](https://www.datacenterknowledge.com/regulations/texas-ai-data-centers-coverage-hub-power-policy-and-progress)**
+
+How ERCOT policy, power-first models, and new networks are driving AI-scale data centers in Texas. This coverage hub is updated as new stories publish.
+
+Data Center Knowledge • 34m ago
+
+---
+
+**[More Data Won’t Save Your AI: Why Nuance And Judgement Are Needed For An AI Resilient Enterprise](https://www.forbes.com/sites/anjanasusarla/2026/06/25/more-data-wont-save-your-ai-why-nuance-and-judgement-are--needed-for-an-ai-resilient-enterprise/)**
+
+Nuance and Judgement are Needed for an AI Resilient Enterprise. While multi-modal AI can ingest vast amounts of data, it lacks inherent judgment and nuance.
+
+Forbes • 46m ago
+
+---
+
+**[Investors bet on AI again after Micron reports 346% sales jump](https://www.cnn.com/2026/06/25/business/micron-results-ai-stocks-volatility)**
+
+On Tuesday, investors were dumping AI stocks, worried that frothy valuations may be running away from reality. By Thursday, they were believers again.
+
+CNN • 7h ago
 
 ---
 
 **[Ford Has Been Rehiring Quality Inspectors After AI Fell Short](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)**
 
-Bloomberg.com • 4h ago
+Bloomberg • 6h ago
 
 ---
 
-**[Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too](https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/)**
+**[The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)**
 
-"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'" he says. "That person was spending at a run rate of $30,000 a year for this."
-
-TechCrunch • 25m ago
+The Economist • 9h ago
 
 ---
 
-**[How Micron reversed the global tech selloff, exposing AI's 'memory tax'](https://fortune.com/2026/06/25/why-did-stock-market-tech-selloff-stop-micron-technology/)**
+**[A trading opportunity is emerging in this AI infrastructure play, charts show](https://www.cnbc.com/2026/06/25/a-trading-opportunity-is-emerging-in-this-ai-infrastructure-play-charts-show.html)**
 
-Micron had a "drop the mic" quarter, Dan Ives said. Others called it a restructuring of how Wall Street will price the AI trade for years to come.
-
-Fortune • 22m ago
-
----
-
-**[NVIDIA (NVDA) Projects $1 Trillion in AI Infrastructure Demand By 2027](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-projects-1-trillion-153827045.html)**
-
-Antipodes Partners published its “Antipodes Global Strategy” first-quarter 2026 investor letter, highlighting the key performance stocks, portfolio changes, and the market outlook. A copy of the letter can be downloaded here. The first quarter of 2026 was highly volatile. Early optimism shifted to a historic energy shock caused by US-Israeli strikes on Iran. Global equities […]
-
-Yahoo Finance • 46m ago
-
----
-
-**[Opinion | There’s One Clear Reason Americans Are Gloomy About A.I.](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html)**
-
-The New York Times • 11h ago
-
----
-
-**[We're locking in triple-digit profits on an AI winner at record highs](https://www.cnbc.com/2026/06/25/were-locking-in-triple-digit-profits-on-an-ai-winner-at-record-highs.html)**
-
-The stock has soared this week for unclear reasons.
+Data centers demand massive amounts of electricity, and MasTec is a key player that can support the buildout.
 
 CNBC • 1h ago
-
----
-
-**[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)**
-
-Reuters • 19h ago
 
 ---
 
@@ -195,7 +193,13 @@ Reuters • 19h ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 665 • 💬 1088 • 20h ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 715 • 💬 1157 • 22h ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+
+---
+
+**[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](https://news.ycombinator.com/item?id=48674446)**
+
+⬆️ 532 • 💬 268 • 3h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -203,7 +207,7 @@ Reuters • 19h ago
 
 A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 
-⬆️ 431 • 💬 74 • 1d ago • [RubyLLM](https://rubyllm.com/)
+⬆️ 439 • 💬 75 • 1d ago • [RubyLLM](https://rubyllm.com/)
 
 ---
 
@@ -212,12 +216,6 @@ A single, beautiful Ruby framework for all major AI providers. Easily build chat
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
 ⬆️ 328 • 💬 416 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
-
----
-
-**[Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://news.ycombinator.com/item?id=48674446)**
-
-⬆️ 287 • 💬 142 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -233,19 +231,19 @@ The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his mos
 
 Proprietary AI is both too expensive and too centralized in control for most countries and companies to rely upon.
 
-⬆️ 224 • 💬 143 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
+⬆️ 226 • 💬 144 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
 
 ---
 
 **[The Low-Tech AI of Elden Ring](https://news.ycombinator.com/item?id=48643489)**
 
-⬆️ 162 • 💬 96 • 2d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+⬆️ 163 • 💬 96 • 2d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 
 ---
 
 **[Big AI labs are hiring philosophers](https://news.ycombinator.com/item?id=48662452)**
 
-⬆️ 146 • 💬 130 • 23h ago • [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
+⬆️ 147 • 💬 131 • 1d ago • [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 
 ---
 
@@ -261,7 +259,7 @@ Meta pauses an AI training program after sensitive employee data leaks, sparking
 
 Either AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.
 
-⬆️ 89 • 💬 98 • 2d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+⬆️ 90 • 💬 98 • 2d ago • [lwilko.com](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 
 ---
 
@@ -269,13 +267,13 @@ Either AI is ready to help run a country, or it can't be trusted with a board ga
 
 ## YouTube Videos: "ai"
 
-**[Master AI Filmmaking in 30 Minutes - Advanced AI Video Course](https://www.youtube.com/watch?v=e9ZupmL9BcM)**
+**[This AI Brain Will Make You So Smart It’s Almost Unfair](https://www.youtube.com/watch?v=b4d32pBa3UY)**
 
-Master AI Filmmaking in 30 minutes - Advanced AI Video Course Try out this AI Filmmaking tool ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4amP5uh Are you building an AI software ...
 
-📺 Dan Kieft
+📺 Dan Martell
 
-👁️ 4K • 💬 17 • ⏱️ 30:51 • 1h ago
+👁️ 12K • 👍 1K • 💬 46 • ⏱️ 12:02 • 5h ago
 
 ---
 
@@ -285,27 +283,7 @@ Go to https://ground.news/sabine to get 40% off the Vantage plan and see through
 
 📺 Sabine Hossenfelder
 
-👁️ 208K • 👍 13K • 💬 3K • ⏱️ 12:14 • 1d ago
-
----
-
-**[China&#39;s Free AI Just Embarrassed Claude.. ](https://www.youtube.com/watch?v=8xkYrUz3Iuc)**
-
-China just released a FREE open AI model that's shaking up the entire AI industry. In this week's AI Updates, we break down ...
-
-📺 Your AI Guy
-
-👁️ 10K • 👍 263 • 💬 55 • ⏱️ 15:48 • 14h ago
-
----
-
-**[How to Make Apple Style Animations With AI](https://www.youtube.com/watch?v=wyz_xDprYGY)**
-
-Make Apple Style Animations with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=robo23 In this video, I show how to create ...
-
-📺 Roboverse
-
-👁️ 7K • ⏱️ 9:03 • 3h ago
+👁️ 217K • 👍 14K • 💬 3K • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -315,7 +293,17 @@ What would happen if Civil War broke out in the United States again in 2026? Tha
 
 📺 The Babylon Bee
 
-👁️ 173K • 👍 19K • 💬 2K • ⏱️ 2:31 • 1d ago
+👁️ 183K • 👍 19K • 💬 2K • ⏱️ 2:31 • 1d ago
+
+---
+
+**[China&#39;s Free AI Just Embarrassed Claude.. ](https://www.youtube.com/watch?v=8xkYrUz3Iuc)**
+
+China just released a FREE open AI model that's shaking up the entire AI industry. In this week's AI Updates, we break down ...
+
+📺 Your AI Guy
+
+👁️ 11K • 👍 272 • 💬 57 • ⏱️ 15:48 • 17h ago
 
 ---
 
@@ -325,7 +313,27 @@ Oracle just axed 21000 jobs. Why? Start your FREE Intro Course with CourseCareer
 
 📺 Mark Savant
 
-👁️ 8K • 👍 323 • 💬 159 • ⏱️ 11:58 • 1d ago
+👁️ 8K • 👍 324 • 💬 161 • ⏱️ 11:58 • 1d ago
+
+---
+
+**[Black Reporter Catches Republican Using AI](https://www.youtube.com/watch?v=zSZZeSEbBb8)**
+
+Black Reporter Catches Republican Using AI #shorts #TYT #News #Government #Politics #Progressives #CenkUyger ...
+
+📺 Indisputable with Dr. Rashad Richey
+
+👁️ 551 • 👍 39 • 💬 2 • ⏱️ 0:57 • 1h ago
+
+---
+
+**[US: Anthropic Accuses Alibaba Of Massive AI &#39;Theft&#39; Campaign | Firstpost Live | N18G](https://www.youtube.com/watch?v=RNTULvtiaMA)**
+
+A fresh battle in the global AI race has erupted after Anthropic accused Alibaba of using thousands of fraudulent accounts to ...
+
+📺 Firstpost
+
+👁️ 4K • 👍 49 • 💬 29 • ⏱️ 5:33 • 7h ago
 
 ---
 
@@ -335,7 +343,7 @@ With the rapid development in AI-powered wearables, educators in East Asia are s
 
 📺 CNN
 
-👁️ 22K • 👍 461 • 💬 27 • ⏱️ 1:09 • 8h ago
+👁️ 24K • 👍 479 • 💬 29 • ⏱️ 1:09 • 10h ago
 
 ---
 
@@ -349,23 +357,13 @@ Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/m
 
 ---
 
-**[MIT Just Revealed the AI Bubble&#39;s Fatal Flaw](https://www.youtube.com/watch?v=3ESclFr8m7I)**
-
-How I Became a Sovereign Professional - The Freelance Formula https://www.brendandell.com/freelance-formula-299 Currently ...
-
-📺 Brendan Dell 
-
-👁️ 257K • 👍 8K • 💬 2K • ⏱️ 22:04 • 2d ago
-
----
-
 **[Tim Dillon on Israel, Iran, AI, and Palantir](https://www.youtube.com/watch?v=DyKSUEEPb74)**
 
 Taken from JRE #2518 w/Tim Dillon YouTube: https://youtu.be/wTdqkloiSvk JRE on Spotify: ...
 
 📺 JRE Clips
 
-👁️ 242K • 👍 5K • 💬 1K • ⏱️ 15:48 • 23h ago
+👁️ 251K • 👍 6K • 💬 1K • ⏱️ 15:48 • 1d ago
 
 ---
 
@@ -381,7 +379,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 67,107 • ❤️ 2,442 • 2d ago
+⬇️ 67,107 • ❤️ 2,453 • 2d ago
 
 ---
 
@@ -393,7 +391,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 70,743 • ❤️ 844 • 1d ago
+⬇️ 70,743 • ❤️ 863 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 495,813 • ❤️ 2,342 • 6d ago
+⬇️ 495,813 • ❤️ 2,345 • 6d ago
 
 ---
 
@@ -417,7 +415,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 165,187 • ❤️ 576 • 6d ago
+⬇️ 165,187 • ❤️ 591 • 6d ago
 
 ---
 
@@ -429,7 +427,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 134,294 • ❤️ 447 • 3d ago
+⬇️ 134,294 • ❤️ 455 • 3d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 10,160 • ❤️ 367 • 1d ago
+⬇️ 10,160 • ❤️ 373 • 1d ago
 
 ---
 
@@ -453,7 +451,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 51,717 • ❤️ 708 • 5d ago
+⬇️ 51,717 • ❤️ 711 • 6d ago
 
 ---
 
@@ -465,7 +463,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 88,915 • ❤️ 375 • 2d ago
+⬇️ 88,915 • ❤️ 379 • 2d ago
 
 ---
 
@@ -477,7 +475,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 2,996 • ❤️ 226 • 2d ago
+⬇️ 2,996 • ❤️ 235 • 2d ago
 
 ---
 
@@ -489,7 +487,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 3,389 • ❤️ 212 • 9h ago
+⬇️ 3,389 • ❤️ 222 • 11h ago
 
 ---
 
@@ -511,6 +509,19 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 171 • 💬 2 • ⭐ 69,324 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
@@ -520,19 +531,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 36 • 💬 1 • ⭐ 25,507 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 171 • 💬 2 • ⭐ 68,952 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -636,7 +634,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.8k • 🔱 10.1k • 19h ago
+⭐ 77.8k • 🔱 10.1k • 57m ago
 
 ---
 
@@ -646,7 +644,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 57.5k • 🔱 2.9k • 11m ago
+⭐ 57.7k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -656,7 +654,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.7k • 🔱 1.0k • 26m ago
+⭐ 10.7k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -666,7 +664,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.3k • 🔱 404 • 1d ago
+⭐ 5.3k • 🔱 407 • 1d ago
 
 ---
 
@@ -676,7 +674,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.9k • 🔱 578 • 6m ago
+⭐ 4.9k • 🔱 578 • 5m ago
 
 ---
 
@@ -696,7 +694,7 @@ AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-des
 
 `Python`
 
-⭐ 2.3k • 🔱 213 • 3d ago
+⭐ 2.3k • 🔱 215 • 3d ago
 
 ---
 
@@ -720,13 +718,13 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 ---
 
-**[Forward-Future/loop-library](https://github.com/Forward-Future/loop-library)**
+**[cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)**
 
-A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
+Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 
-`JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
+`JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 1.6k • 🔱 142 • 16h ago
+⭐ 1.7k • 🔱 237 • 8h ago
 
 ---
 
