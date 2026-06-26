@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T15:39:05.422556+00:00'
+updated: '2026-06-26T17:48:56.246887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 15:39 UTC  
+**Last Updated:** June 26, 2026 at 17:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-10h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-18h ago
+20h ago
 
 ---
 
@@ -98,7 +98,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 Not trying to advertise, but I’m sharing what we build because I genuinely believe it’s incredibly cool. Currently, we’re using it as a skin for robotics, primarily for tactile data collection. However, our long-term goal is to make it the skin layer for robots.
 
-22h ago
+1d ago
 
 ---
 
@@ -114,17 +114,25 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
-**['Digit' maker Agility Robotics to go public in $2.5B deal — here's what the filings say about its finances](https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/)**
+**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
 
-Salem, Ore.-based Agility Robotics, whose two-legged Digit robots have been tested inside Amazon warehouses, is set to become the first publicly traded U.S. company dedicated solely to humanoid robots, beating its Silicon Valley and East Coast rivals to Wall Street.
-
-GeekWire • 2d ago
+WSJ • 2d ago
 
 ---
 
-**[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
+**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
 
-National Science Foundation (.gov) • 2d ago
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1h ago
+
+---
+
+**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
+
+The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
+
+New Atlas • 10h ago
 
 ---
 
@@ -136,51 +144,17 @@ Financial Times • 1d ago
 
 ---
 
-**[BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg](https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en)**
+**[Watch Nvidia Wants to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video)**
 
-+++ Figure AI demonstrates Figure 03 humanoid robots in new use case at BMW Group Plant Spartanburg +++ Robot development runs in parallel at BMW Group Plant Spartanburg and at Figure AI +++  Assembly Hall in Spartanburg features BMW iFACTORY applications in artificial intelligence and virtualization +++
-
-BMW Group • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Teradyne Drives Robotics Growth With AI: A Sign for More Upside?](https://finance.yahoo.com/technology/ai/articles/teradyne-drives-robotics-growth-ai-161600901.html)**
+**[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
 
-TER's AI-driven robotics revenues are climbing fast, with strong growth, new partnerships, and a key e-commerce customer set to scale in 2026.
+Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
 
-Yahoo Finance • 23h ago
-
----
-
-**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
-
-The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
-
-New Atlas • 8h ago
-
----
-
-**[Bionic hands are now teaching robots to feel](https://www.foxnews.com/tech/bionic-hands-teaching-robots-feel)**
-
-ABB Robotics and PSYONIC explore using real human prosthetic touch data to train industrial robots for delicate gripping tasks in factories.
-
-Fox News • 22h ago
-
----
-
-**[Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race](https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html)**
-
-Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
-
-CNBC • 1d ago
-
----
-
-**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
-
-Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
-
-CBS News • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -192,19 +166,31 @@ The Guardian • 2d ago
 
 ---
 
+**[BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg](https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en)**
+
++++ Figure AI demonstrates Figure 03 humanoid robots in new use case at BMW Group Plant Spartanburg +++ Robot development runs in parallel at BMW Group Plant Spartanburg and at Figure AI +++  Assembly Hall in Spartanburg features BMW iFACTORY applications in artificial intelligence and virtualization +++
+
+BMW Group • 1d ago
+
+---
+
+**[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
+
+National Science Foundation (.gov) • 3d ago
+
+---
+
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+
+Business Insider • 7h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The International Conference on Robotics and ...
-
-📺 PRO ROBOTS
-
-👁️ 54K • 👍 968 • 💬 82 • ⏱️ 24:13 • 6d ago
-
----
 
 **[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
 
@@ -222,7 +208,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 229 • ⏱️ 13:45 • 4d ago
+👁️ 64K • 👍 1K • 💬 230 • ⏱️ 13:45 • 4d ago
 
 ---
 
@@ -234,23 +220,23 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 ---
 
-**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
+**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
 
-In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
+Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
 
-📺 Tom Scott
+📺 PREDATOR WR
 
-👁️ 874K • 👍 47K • 💬 2K • ⏱️ 21:33 • 4d ago
+👁️ 4K • 👍 224 • 💬 53 • ⏱️ 14:36 • 5h ago
 
 ---
 
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
+**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
 
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
+2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
 
-📺 NewsNation
+📺 Just A Dad Approved
 
-👁️ 65K • 👍 1K • 💬 1K • ⏱️ 2:04 • 2d ago
+👁️ 16K • 👍 277 • 💬 162 • ⏱️ 18:57 • 3d ago
 
 ---
 
@@ -260,37 +246,47 @@ AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) �
 
 📺 Solving The Money Problem
 
-👁️ 35K • 👍 2K • 💬 174 • ⏱️ 10:31 • 1d ago
+👁️ 36K • 👍 2K • 💬 174 • ⏱️ 10:31 • 1d ago
 
 ---
 
-**[4,000 People Pre-Ordered UBTech U1 in Just 10 Days!](https://www.youtube.com/watch?v=d3Zenhov6X8)**
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
 
-A Chinese robotics company called UBTech just hit $1.4 million in pre-orders for a humanoid robot designed to live with you.
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
 
-📺 Manav
+📺 NewsNation
 
-👁️ 74K • 👍 2K • 💬 214 • ⏱️ 0:37 • 6d ago
-
----
-
-**[This New Wearable Robot Technology Lets Robots Feel Like Humans #robot #shorts #technology](https://www.youtube.com/watch?v=YxCQkKKGhbk)**
-
-HapMorph: The Wearable Technology That Lets Robots Recreate Realistic Touch Scientists have developed a new haptic ...
-
-📺 uncover reality
-
-👁️ 407K • 👍 2K • 💬 78 • ⏱️ 0:06 • 3d ago
+👁️ 66K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
 
 ---
 
-**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
+**[How... Eiffel Might Be The #1 F2p Titan Right Now | Absolute Meta CRUSHER | War Robots](https://www.youtube.com/watch?v=Qwn5XUCiMK0)**
 
-Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
+Eiffel is a monster right now. Titan rankings seem like they are constantly moving around but this might be the #1 f2p titan.
 
-📺 PRO ROBOTS
+📺 PREDATOR WR
 
-👁️ 7K • 👍 229 • 💬 8 • ⏱️ 11:29 • 3d ago
+👁️ 13K • 👍 450 • 💬 70 • ⏱️ 14:02 • 1d ago
+
+---
+
+**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
+
+Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
+
+📺 Carros Show
+
+👁️ 9K • 👍 309 • 💬 35 • ⏱️ 1:04:55 • 5d ago
+
+---
+
+**[Scientists Create 5-in-1 Surgical Micro-robot](https://www.youtube.com/watch?v=0TushliM9Pk)**
+
+Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
+
+📺 Dr Ben Miles
+
+👁️ 52K • 👍 7K • 💬 132 • ⏱️ 1:44 • 2h ago
 
 ---
 

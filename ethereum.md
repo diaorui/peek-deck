@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-26T15:39:05.419314+00:00'
+updated: '2026-06-26T17:48:56.244007+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 26, 2026 at 15:39 UTC  
+**Last Updated:** June 26, 2026 at 17:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,582.19
+### $1,591.01
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
+**24h:** +1.2%  
 **7d:** -9.0%  
-**30d:** -21.2%  
-**90d:** -20.2%  
-**1y:** -34.6%  
+**30d:** -21.1%  
+**90d:** -20.1%  
+**1y:** -34.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $190.80B
+**Market Cap:** $190.95B
 Rank #2
 
 **Circulating Supply:** 120,683,589 ETH
@@ -62,7 +62,7 @@ No max supply
 -68.0%
 
 **All-Time Low:** $0.43
-+365192.5%
++365365.8%
 
 ---
 
@@ -112,7 +112,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Ethereum’s new research venture seems like a two-sided sword as the globe’s largest altcoin plummets below $1.7K.
 
-🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 1d ago
+🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ A post on the Ethereum Research forum proposes letting validators vote to redire
 
 The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -164,15 +164,23 @@ CoinDesk • 5h ago
 
 Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
-**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://finance.yahoo.com/markets/options/articles/10-63-billion-bitcoin-ethereum-082102564.html)**
+**[Sharplink Resumes Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html)**
 
-Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
+For the first time in eight months, crypto treasury firm Sharplink (NASDAQ: $SBET) has bought Ethereum (CRYPTO: $ET...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts](https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts)**
+
+Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.
+
+The Block • 4h ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
@@ -198,19 +206,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
-
-$6 billion just left BTC ETFs
-
-Coinbase • 6h ago
-
----
-
 **[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
 
 Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ Seeking Alpha • 2h ago
 
 BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-CryptoSlate • 7h ago
+CryptoSlate • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ CryptoSlate • 7h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
 
-FXStreet • 3h ago
+FXStreet • 5h ago
 
 ---
 
@@ -234,13 +234,23 @@ FXStreet • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🔴 LIVE Crypto and Stock Analysis | BTC, ETH, &amp; Altcoins](https://www.youtube.com/watch?v=QXZS5Hjmw0U)**
+
+Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum and altcoins using market structure, ...
+
+📺 Chart Champions
+
+👁️ 1K • 👍 148 • 💬 1 • ⏱️ 1:00:10 • 40m ago
+
+---
+
 **[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
 
 The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
 
 📺 Dana Love, PhD
 
-👁️ 12K • 👍 754 • 💬 188 • ⏱️ 13:22 • 19h ago
+👁️ 13K • 👍 772 • 💬 181 • ⏱️ 13:22 • 22h ago
 
 ---
 
@@ -250,37 +260,15 @@ In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum'
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 79 • 💬 24 • ⏱️ 11:21 • 23h ago
+👁️ 3K • 👍 82 • 💬 41 • ⏱️ 11:21 • 1d ago
 
 ---
 
-**[Bitcoin Sub $23K &amp; ETH Sub $600? P&amp;F Downside Targets + ADA DEVASTATION &amp; MSTR Pain Ahead!](https://www.youtube.com/watch?v=hldggcxAK80)**
+**[XRP Overtakes Ethereum #xrp #crypto @digitalassetinvestor](https://www.youtube.com/watch?v=r3KEVrVaBIU)**
 
-Book a free virtual call with us here: http://marketsniper.me/2OJbM4Y https://themarketsniper.com Join our Free trading course ...
+📺 Digital Asset Investor
 
-📺 The Crypto Sniper
-
-👁️ 2K • 👍 287 • 💬 82 • ⏱️ 32:05 • 5h ago
-
----
-
-**[Ethereum Is Facing A Critical Funding Gap, Says Ex-EF Member](https://www.youtube.com/watch?v=F2UTzETWkxU)**
-
-On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDesk's Jennifer Sanasie why the Ethereum ...
-
-📺 CoinDesk
-
-👁️ 2K • 👍 46 • 💬 5 • ⏱️ 18:21 • 21h ago
-
----
-
-**[MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50,000 SOON?](https://www.youtube.com/watch?v=9sN71TeilV4)**
-
-MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapital (Partner) ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 342 • 💬 39 • ⏱️ 31:39 • 21h ago
+👁️ 4K • 👍 288 • ⏱️ 0:27 • 4h ago
 
 ---
 
@@ -290,17 +278,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 333 • 💬 102 • ⏱️ 19:47 • 22h ago
+👁️ 11K • 👍 350 • 💬 122 • ⏱️ 19:47 • 1d ago
 
 ---
 
-**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
+**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
 
-In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 More Crypto Online
+📺 AllinCrypto
 
-👁️ 6K • 👍 245 • 💬 10 • ⏱️ 9:05 • 2d ago
+👁️ 22K • 👍 1K • 💬 299 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[Ethereum Is Facing A Critical Funding Gap, Says Ex-EF Member](https://www.youtube.com/watch?v=F2UTzETWkxU)**
+
+On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDesk's Jennifer Sanasie why the Ethereum ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 49 • 💬 23 • ⏱️ 18:21 • 1d ago
 
 ---
 
@@ -310,27 +308,27 @@ BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 398 • 💬 206 • ⏱️ 21:41 • 18h ago
+👁️ 9K • 👍 401 • 💬 226 • ⏱️ 21:41 • 20h ago
 
 ---
 
-**[Millions of investors may soon own Ethereum](https://www.youtube.com/watch?v=xGf9eHklvi0)**
+**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
 
-The biggest Ethereum story isn't the price. It's who's buying. In this episode of The Daily Wolf, Scott Melker breaks down why an ...
+In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
 
-📺 Yahoo Finance
+📺 More Crypto Online
 
-👁️ 19K • 👍 556 • 💬 250 • ⏱️ 14:53 • 2d ago
+👁️ 6K • 👍 246 • 💬 10 • ⏱️ 9:05 • 2d ago
 
 ---
 
-**[The Ethereum Foundation Is Splitting Up - The Chopping Block](https://www.youtube.com/watch?v=KwrpeTkMAWc)**
+**[MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50,000 SOON?](https://www.youtube.com/watch?v=9sN71TeilV4)**
 
-The crew debates whether Saylor's STRC preferred shares are "Luna for suits," unpacks the ETH Labs spin-out and Ethereum ...
+MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapital (Partner) ...
 
-📺 Unchained
+📺 CryptoWendyO
 
-👁️ 3K • 👍 80 • 💬 24 • ⏱️ 1:04:01 • 23h ago
+👁️ 6K • 👍 346 • 💬 54 • ⏱️ 31:39 • 23h ago
 
 ---
 
