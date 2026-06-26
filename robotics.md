@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T03:47:01.448737+00:00'
+updated: '2026-06-26T07:54:29.059013+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 03:47 UTC  
+**Last Updated:** June 26, 2026 at 07:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 **[Robotica arm 3d printed](https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
 
-19h ago
+23h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a universi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 20h ago
+🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 **[I mean chat only helped a little 🫪](https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 Is this the Move-37 moment for flooring? I know, this machine is engineered for this job and probably needs close to perfect conditions to work, hence lacking the "creativity" of AlphaGo. But still, don't look where we are today, but 2 more machines down the line. Seems frightening for flooring installers at least.
 
-19h ago
+23h ago
 
 ---
 
@@ -118,17 +118,25 @@ WSJ • 1d ago
 
 ---
 
-**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
+**[Robot Memory Is The Next Big Robotics Frontier](https://www.forbes.com/sites/ronschmelzer/2026/06/23/robot-memory-is-the-next-big-robotics-frontier/)**
 
-Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
+MIT's DAAAM research gives robots a memory of what it seen, letting it build a detailed map of a space with descriptions that it ca attach descriptions to objects in that map, and answer plain English questions later.
 
-CBS News • 1d ago
+Forbes • 2d ago
 
 ---
 
 **[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
 
 National Science Foundation (.gov) • 2d ago
+
+---
+
+**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
+
+The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
+
+Financial Times • 1d ago
 
 ---
 
@@ -140,23 +148,23 @@ CNBC • 1d ago
 
 ---
 
-**[Teradyne Drives Robotics Growth With AI: A Sign for More Upside?](https://finance.yahoo.com/technology/ai/articles/teradyne-drives-robotics-growth-ai-161600901.html)**
-
-TER's AI-driven robotics revenues are climbing fast, with strong growth, new partnerships, and a key e-commerce customer set to scale in 2026.
-
-Yahoo Finance • 11h ago
-
----
-
 **[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
 
 Politico • 2d ago
 
 ---
 
+**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
+
+Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
+
+CBS News • 1d ago
+
+---
+
 **[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-OregonLive.com • 7h ago
+OregonLive.com • 11h ago
 
 ---
 
@@ -164,7 +172,7 @@ OregonLive.com • 7h ago
 
 When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
 
-The Guardian • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -172,15 +180,7 @@ The Guardian • 1d ago
 
 ABB Robotics and PSYONIC explore using real human prosthetic touch data to train industrial robots for delicate gripping tasks in factories.
 
-Fox News • 11h ago
-
----
-
-**[Robots are coming to the oil patch](https://www.ft.com/content/01a72e2e-8620-44a3-85ce-7aa3b22495b3?syn-25a6b1a6=1)**
-
-Also in today’s newsletter, Russia receives an oil windfall amid Iran war
-
-Financial Times • 16h ago
+Fox News • 15h ago
 
 ---
 
@@ -204,7 +204,15 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 54K • 👍 966 • 💬 80 • ⏱️ 24:13 • 6d ago
+👁️ 54K • 👍 966 • 💬 81 • ⏱️ 24:13 • 6d ago
+
+---
+
+**[#robot #industrial #borunte #spraying #welding #welding](https://www.youtube.com/watch?v=c1Q9_5ExVTc)**
+
+📺 BORUNTE-Robot-Messi
+
+👁️ 29K • 👍 73 • ⏱️ 0:14 • 2d ago
 
 ---
 
@@ -214,17 +222,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 62K • 👍 1K • 💬 224 • ⏱️ 13:45 • 4d ago
-
----
-
-**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
-
-2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
-
-📺 Just A Dad Approved
-
-👁️ 14K • 👍 256 • 💬 156 • ⏱️ 18:57 • 2d ago
+👁️ 63K • 👍 1K • 💬 225 • ⏱️ 13:45 • 4d ago
 
 ---
 
@@ -234,27 +232,47 @@ AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) �
 
 📺 Solving The Money Problem
 
-👁️ 33K • 👍 2K • 💬 166 • ⏱️ 10:31 • 22h ago
+👁️ 34K • 👍 2K • 💬 168 • ⏱️ 10:31 • 1d ago
 
 ---
 
-**[TOP 10 WORST T4 ROBOTS YOU SHOULDN&#39;T INVEST IN! MY LIST! (War Robots)](https://www.youtube.com/watch?v=UdODLBnBObU)**
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
 
-In this video I go over the 10 worst T4 robots in the game. https://wr.my.games/Wolfblood7.
+Your Smart Robot Companion.
 
-📺 Wolfblood7
+📺 Unitree Robotics
 
-👁️ 5K • 👍 241 • 💬 122 • ⏱️ 11:52 • 1d ago
+👁️ 793K • 👍 1K • 💬 425 • ⏱️ 0:31 • 1d ago
 
 ---
 
-**[Ready, set, row: Humanoid robots partake in Dragon Boat Festival!](https://www.youtube.com/watch?v=IsLt7IdtcNo)**
+**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
 
-At China's Dragon Boat Festival, everybody takes place – including the robots. In southwest China's Sichuan Province, ...
+Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
 
-📺 CGTN Europe
+📺 ARPO: The Robot
 
-👁️ 19K • 👍 93 • 💬 13 • ⏱️ 0:49 • 5d ago
+👁️ 14K • 👍 30 • ⏱️ 59:56 • 18h ago
+
+---
+
+**[This New Wearable Robot Technology Lets Robots Feel Like Humans #robot #shorts #technology](https://www.youtube.com/watch?v=YxCQkKKGhbk)**
+
+HapMorph: The Wearable Technology That Lets Robots Recreate Realistic Touch Scientists have developed a new haptic ...
+
+📺 uncover reality
+
+👁️ 404K • 👍 2K • 💬 78 • ⏱️ 0:06 • 2d ago
+
+---
+
+**[4,000 People Pre-Ordered UBTech U1 in Just 10 Days!](https://www.youtube.com/watch?v=d3Zenhov6X8)**
+
+A Chinese robotics company called UBTech just hit $1.4 million in pre-orders for a humanoid robot designed to live with you.
+
+📺 Manav
+
+👁️ 70K • 👍 2K • 💬 205 • ⏱️ 0:37 • 5d ago
 
 ---
 
@@ -264,27 +282,7 @@ In Derbyshire, at the National Ferret School, I say "hello" to some smelly thiev
 
 📺 Tom Scott
 
-👁️ 836K • 👍 46K • 💬 2K • ⏱️ 21:33 • 3d ago
-
----
-
-**[WHAT IS THE POINT!? - Unitree Go 2 Pro Review](https://www.youtube.com/watch?v=0SHz3aT8fV8)**
-
-Check out the UniTree Go 2 from JoyBuy Here: https://geni.us/Go2ProJoyBuy £200 with code "FAUXHAMMER" Check out ...
-
-📺 FauxHammer
-
-👁️ 2K • 👍 130 • 💬 61 • ⏱️ 22:08 • 11h ago
-
----
-
-**[This is NOT a Real Shark! 🤯 China’s New Robotic Police Drone](https://www.youtube.com/watch?v=lLu8rZoKW1A)**
-
-Is it a real shark or a robot?! Watch as a Chinese police officer demonstrates this incredible new high-tech bionic shark drone ...
-
-📺 VIDEOS YOUR CHOICE
-
-👁️ 16K • 👍 175 • 💬 6 • ⏱️ 0:12 • 2d ago
+👁️ 850K • 👍 46K • 💬 2K • ⏱️ 21:33 • 3d ago
 
 ---
 
