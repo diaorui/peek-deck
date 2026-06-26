@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-26T19:49:23.740177+00:00'
+updated: '2026-06-26T21:19:18.388472+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 26, 2026 at 19:49 UTC  
+**Last Updated:** June 26, 2026 at 21:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -9.3%  
-**30d:** -21.5%  
-**90d:** -20.4%  
-**1y:** -34.8%  
+**24h:** +0.1%  
+**7d:** -9.7%  
+**30d:** -21.8%  
+**90d:** -20.7%  
+**1y:** -35.1%  
 
 ---
 
@@ -156,23 +156,29 @@ A post on the Ethereum Research forum proposes letting validators vote to redire
 
 The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
+**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
 
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
-
-Decrypt • 1d ago
+ethereum.org • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slump As Fed's Favourite Inflation Barometer Hits 3-Year High: Analyst Weighs If July Will Bring Relief To BTC Investors](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slump-021556998.html)**
+**[Former Ethereum Foundation leader warns of funding gap as governance shifts](https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts)**
 
-The cryptocurrency market meltdown continued on Thursday as fears of rising inflation and potential rate hikes weighed on investor sentiment Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:35 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.45%$59,273.96Ethereum (CRYPTO: ETH) -3.68%$1,558.39XRP (CRYPTO: XRP) -4.04%$1.02Solana (CRYPTO: SOL) -0.71%$67.16Dogecoin (CRYPTO: DOGE) -3.11%$0.07384 Crypto Market Turns Bloody Red Bitcoin’s descent showed no signs of slowing down, as the apex cryptocurrency fell below
+A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-Yahoo Finance • 17h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
+
+Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,13 +186,15 @@ Yahoo Finance • 17h ago
 
 Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
+**[Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position](https://www.tradingview.com/news/cointelegraph:019ea6896094b:0-ethereum-whale-who-shorted-october-2025-crash-opens-19-7m-eth-short-position/)**
 
-ethereum.org • 3d ago
+An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
+
+TradingView • 4h ago
 
 ---
 
@@ -198,11 +206,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 26, 2026](https://fortune.com/article/price-of-ethereum-06-26-2026/)**
+**[UK bond fund ownership records move onto Ethereum and Solana accessible 24/7](https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-Fortune • 6h ago
+CryptoSlate • 13h ago
+
+---
+
+**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
+
+Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
+
+Decrypt • 1d ago
 
 ---
 
@@ -210,23 +226,7 @@ Fortune • 6h ago
 
 $6 billion just left BTC ETFs
 
-Coinbase • 10h ago
-
----
-
-**[UK bond fund ownership records move onto Ethereum and Solana accessible 24/7](https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana/)**
-
-BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
-
-CryptoSlate • 11h ago
-
----
-
-**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
-
-Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
-
-Seeking Alpha • 6h ago
+Coinbase • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 760 • 👍 74 • 💬 5 • ⏱️ 9:04 • 2h ago
+👁️ 760 • 👍 74 • 💬 5 • ⏱️ 9:04 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ Live crypto market analysis with Severin. Join the stream as we break down Bitco
 
 📺 Chart Champions
 
-👁️ 2K • 👍 177 • 💬 4 • ⏱️ 1:00:10 • 2h ago
+👁️ 2K • 👍 177 • 💬 4 • ⏱️ 1:00:10 • 4h ago
 
 ---
 
@@ -280,7 +280,7 @@ OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are 
 
 📺 Bankless
 
-👁️ 4K • 👍 168 • 💬 125 • ⏱️ 1:04:00 • 8h ago
+👁️ 4K • 👍 168 • 💬 125 • ⏱️ 1:04:00 • 10h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 403 • 💬 344 • ⏱️ 21:41 • 22h ago
+👁️ 9K • 👍 403 • 💬 344 • ⏱️ 21:41 • 1d ago
 
 ---
 

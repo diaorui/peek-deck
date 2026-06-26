@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T19:49:23.744549+00:00'
+updated: '2026-06-26T21:19:18.391670+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 19:49 UTC  
+**Last Updated:** June 26, 2026 at 21:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-14h ago
+15h ago
 
 ---
 
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-22h ago
+23h ago
 
 ---
 
@@ -120,17 +120,29 @@ WSJ • 2d ago
 
 ---
 
-**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
+**['Digit' maker Agility Robotics to go public in $2.5B deal — here's what the filings say about its finances](https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/)**
 
-The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
+Salem, Ore.-based Agility Robotics, whose two-legged Digit robots have been tested inside Amazon warehouses, is set to become the first publicly traded U.S. company dedicated solely to humanoid robots, beating its Silicon Valley and East Coast rivals to Wall Street.
 
-New Atlas • 12h ago
+GeekWire • 2d ago
 
 ---
 
-**[Watch Nvidia Wants to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video)**
+**[Meet Digit, Agility Robotics' humanoid robot that's a ROI 'from day one'](https://finance.yahoo.com/video/meet-digit-agility-robotics-humanoid-201516624.html)**
 
-Bloomberg • 1d ago
+Agility Robotics (AGRO.PVT) is the developer behind the "Digit", a bipedal humanoid robot designed to take on repetitive tasks in human spaces like factories.
+
+Agility Robotics CEO Peggy Johnson dives into the types of labor roles her company's robots could take on.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
+
+Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -139,6 +151,20 @@ Bloomberg • 1d ago
 The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
 
 Financial Times • 1d ago
+
+---
+
+**[Watch Nvidia Wants to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
+
+The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
+
+New Atlas • 14h ago
 
 ---
 
@@ -152,29 +178,7 @@ National Science Foundation (.gov) • 3d ago
 
 FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
-Business Insider • 9h ago
-
----
-
-**[Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics)**
-
-The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
-
-The Block • 6h ago
-
----
-
-**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
-
-When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
-
-The Guardian • 2d ago
-
----
-
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 23h ago
+Business Insider • 11h ago
 
 ---
 
@@ -254,7 +258,7 @@ Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designe
 
 📺 Rowan Cheung
 
-👁️ 7K • 👍 790 • 💬 15 • ⏱️ 1:08 • 3h ago
+👁️ 7K • 👍 790 • 💬 15 • ⏱️ 1:08 • 4h ago
 
 ---
 
