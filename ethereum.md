@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-26T10:52:21.563049+00:00'
+updated: '2026-06-26T13:11:54.994068+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 26, 2026 at 10:52 UTC  
+**Last Updated:** June 26, 2026 at 13:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,568.72
+### $1,547.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** -11.0%  
-**30d:** -22.9%  
-**90d:** -21.9%  
-**1y:** -36.0%  
+**24h:** -2.3%  
+**7d:** -12.0%  
+**30d:** -23.8%  
+**90d:** -22.7%  
+**1y:** -36.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $186.72B
-Rank #2
+**Market Cap:** $184.90B
+Rank #3
 
 **Circulating Supply:** 120,683,589 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.7%
+-69.1%
 
 **All-Time Low:** $0.43
-+357236.0%
++353339.8%
 
 ---
 
@@ -152,25 +152,11 @@ A post on the Ethereum Research forum proposes letting validators vote to redire
 
 ## Google News: "ethereum"
 
-**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
+**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
 
-Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
+Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
 
-Decrypt • 15h ago
-
----
-
-**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
-
-ethereum.org • 2d ago
-
----
-
-**[Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset](https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset)**
-
-The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
-
-CoinDesk • 2d ago
+Decrypt • 20h ago
 
 ---
 
@@ -182,15 +168,29 @@ The Ethereum Foundation cut 20% of its staff and 40% of its budget. Scott Melker
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
+**[Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset](https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset)**
 
-Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
+The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.
 
-Yahoo Finance • 18h ago
+CoinDesk • 2d ago
+
+---
+
+**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
+
+ethereum.org • 3d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html)**
+
+Bitcoin opened at $59,706.75 on Friday, June 26, 2026, down 2.1% from Thursday's opening price. Ethereum opened at $1,564.86 on Friday, down 3.4% from Thursday's opening price.
+
+Yahoo Finance • 42m ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 18h ago
 
 The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -206,7 +206,7 @@ CoinDesk • 1h ago
 
 Investors holding these coins and waiting for cryptocurrency to go mainstream may be in for a shock.
 
-The Motley Fool • 19h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -222,7 +222,7 @@ Coinbase • 1d ago
 
 Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
 
-MarketForces Africa • 13h ago
+MarketForces Africa • 16h ago
 
 ---
 
@@ -230,7 +230,7 @@ MarketForces Africa • 13h ago
 
 BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-CryptoSlate • 2h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ The Ethereum Foundation is cratering. What does that mean for Ethereum price? Wh
 
 📺 Dana Love, PhD
 
-👁️ 11K • 👍 665 • 💬 159 • ⏱️ 13:22 • 15h ago
+👁️ 11K • 👍 703 • 💬 162 • ⏱️ 13:22 • 17h ago
 
 ---
 
@@ -254,17 +254,17 @@ MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapita
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 338 • 💬 24 • ⏱️ 31:39 • 16h ago
+👁️ 6K • 👍 338 • 💬 39 • ⏱️ 31:39 • 18h ago
 
 ---
 
-**[Ethereum Is Facing A Critical Funding Gap, Says Ex-EF Member](https://www.youtube.com/watch?v=F2UTzETWkxU)**
+**[Tom Lee :“I’ve Never Seen A Setup Like This Before” [Realistic Bitcoin Prediction 2026]](https://www.youtube.com/watch?v=V-Nhts6M48U)**
 
-On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDesk's Jennifer Sanasie why the Ethereum ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 CoinDesk
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 33 • 💬 4 • ⏱️ 18:21 • 17h ago
+👁️ 10K • 👍 317 • 💬 81 • ⏱️ 19:47 • 20h ago
 
 ---
 
@@ -274,7 +274,17 @@ In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum'
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 70 • 💬 23 • ⏱️ 11:21 • 18h ago
+👁️ 2K • 👍 73 • 💬 24 • ⏱️ 11:21 • 21h ago
+
+---
+
+**[Ethereum Is Facing A Critical Funding Gap, Says Ex-EF Member](https://www.youtube.com/watch?v=F2UTzETWkxU)**
+
+On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDesk's Jennifer Sanasie why the Ethereum ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 40 • 💬 4 • ⏱️ 18:21 • 19h ago
 
 ---
 
@@ -284,27 +294,7 @@ The biggest Ethereum story isn't the price. It's who's buying. In this episode o
 
 📺 Yahoo Finance
 
-👁️ 19K • 👍 546 • 💬 249 • ⏱️ 14:53 • 2d ago
-
----
-
-**[BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-b9R3biu4gk)**
-
-BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 362 • 💬 200 • ⏱️ 21:41 • 13h ago
-
----
-
-**[The Ethereum Foundation Is Splitting Up - The Chopping Block](https://www.youtube.com/watch?v=KwrpeTkMAWc)**
-
-The crew debates whether Saylor's STRC preferred shares are "Luna for suits," unpacks the ETH Labs spin-out and Ethereum ...
-
-📺 Unchained
-
-👁️ 2K • 👍 68 • 💬 22 • ⏱️ 1:04:01 • 18h ago
+👁️ 19K • 👍 555 • 💬 250 • ⏱️ 14:53 • 2d ago
 
 ---
 
@@ -314,7 +304,27 @@ In this video I break down the current Ethereum price action and analyze the pot
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 240 • 💬 10 • ⏱️ 9:05 • 1d ago
+👁️ 6K • 👍 241 • 💬 10 • ⏱️ 9:05 • 1d ago
+
+---
+
+**[BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-b9R3biu4gk)**
+
+BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 386 • 💬 203 • ⏱️ 21:41 • 16h ago
+
+---
+
+**[The Ethereum Foundation Is Splitting Up - The Chopping Block](https://www.youtube.com/watch?v=KwrpeTkMAWc)**
+
+The crew debates whether Saylor's STRC preferred shares are "Luna for suits," unpacks the ETH Labs spin-out and Ethereum ...
+
+📺 Unchained
+
+👁️ 3K • 👍 77 • 💬 23 • ⏱️ 1:04:01 • 21h ago
 
 ---
 
@@ -324,17 +334,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 22K • 👍 1K • 💬 299 • ⏱️ 12:14 • 1d ago
-
----
-
-**[How I make $1000 per day with ai crypto trading bot - ethereum arbitrage bot](https://www.youtube.com/watch?v=AqSLthYA738)**
-
-Step-by-step guide for setting up the bot: https://telegra.ph/Steps-Guide-03-31 ai crypto bot,trading bot, ethereum trading bot, ...
-
-📺 AveryCrypto
-
-👁️ 6K • 👍 2K • 💬 26 • ⏱️ 4:48 • 1d ago
+👁️ 22K • 👍 1K • 💬 299 • ⏱️ 12:14 • 2d ago
 
 ---
 

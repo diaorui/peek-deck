@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T10:52:21.566253+00:00'
+updated: '2026-06-26T13:11:54.997245+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 10:52 UTC  
+**Last Updated:** June 26, 2026 at 13:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-5h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ If it does not exist in real life and instead of the humanoids does it mean it d
 
 I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was to keep all the servos hidden inside the structure, giving the arm a cleaner and more professional look. It also features a TPU-printed gripper actuated by a servo. I’m currently working on the kinematics and a custom PCB for the electronics. Still a work in progress, but I’m happy with how it’s coming along so far. More updates soon!
 
-20h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was t
 
 How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at navigation for tight indoor/underground spaces (tunnels, under bridges) where GPS just drops and there's nothing to fall back on. The annoying part is optical flow basically dies in there: bare concrete, repeating geometry, almost nothing to lock onto. Ends up being mostly lidar plus an illuminated camera doing the work. Testing it in sim first for obvious reasons (not keen on flying real hardware into a concrete wall to find the failure modes). Running it on UE5 with PX4/ArduPilot in the loop. For those who've flown GPS-denied in feature-poor spaces: do you just lean harder on lidar, or is there a VIO setup that actually holds up when the visual texture is that poor? Curious what's worked.
 
-19h ago
+21h ago
 
 ---
 
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-13h ago
+15h ago
 
 ---
 
@@ -76,7 +76,7 @@ Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — Nort
 
 I am designing a robotic arm, and am wondering how can I determine if a certain part is strong enough and how could i determine if I have enough torque, also really any feedback would be appreciated. I took inspiration for cycloidal drives on joints 2 and 3 from arctos robotics arm. those cycloidal drives have a reduction of 25 to 1 but with pulley joint 2 will either have a reduction of 100-125. The arm is not yet finished but as i said my biggest concern is will joint two have enough torque and will the parts be strong enough when 3d printed. is uses 3Nm NEMA 23 motors and DM566TE drivers. I know it is generally recommended to start by designing from top to bottom but i really could not do it, felt weird.
 
-21h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 Not trying to advertise, but I’m sharing what we build because I genuinely believe it’s incredibly cool. Currently, we’re using it as a skin for robotics, primarily for tactile data collection. However, our long-term goal is to make it the skin layer for robots.
 
-17h ago
+20h ago
 
 ---
 
@@ -106,7 +106,7 @@ Not trying to advertise, but I’m sharing what we build because I genuinely bel
 
 I haven't revealed her name in this video because I'd like to keep that private for now. XDXD As a first test, I successfully integrated an LLM, TTS, and ASR pipeline to enable voice conversations on the robotic car, even the response latency(LLM) is still slower. As a first test, I integrated a complete voice pipeline: → Microphone → Whisper Base (Speech-to-Text) → Ollama (LLM) → Kokoro TTS (Text-to-Speech) → Speaker The system runs locally on the Jetson AGX Xavier. Response latency is still slower... However, it is already capable of holding voice conversations while moving around autonomously. Current Stack(24 June 2025) Jetson AGX Xavier Ollama(LLM) Kokoro TTS Camera system orbbec camera Microphone and speakers(whisper base) Robotic car platform Until today, I am still improving the system. Future plans may include: Live2D avatar integration (will add later) Added VLM (Vision-Language Model) Shorter-latency LLM and VLM responses Improved voice interaction Update: The platform was later upgraded to a Jetson AGX Orin.
 
-21h ago
+23h ago
 
 ---
 
@@ -114,23 +114,17 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
-**[Agility Robotics to go public in $2.5 billion deal with Michael Klein-backed SPAC](https://www.reuters.com/legal/transactional/agility-robotics-go-public-25-billion-spac-deal-wsj-reports-2026-06-24/)**
+**['Digit' maker Agility Robotics to go public in $2.5B deal — here's what the filings say about its finances](https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/)**
 
-Reuters • 1d ago
+Salem, Ore.-based Agility Robotics, whose two-legged Digit robots have been tested inside Amazon warehouses, is set to become the first publicly traded U.S. company dedicated solely to humanoid robots, beating its Silicon Valley and East Coast rivals to Wall Street.
+
+GeekWire • 1d ago
 
 ---
 
 **[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
 
 National Science Foundation (.gov) • 2d ago
-
----
-
-**[BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg](https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en)**
-
-+++ Figure AI demonstrates Figure 03 humanoid robots in new use case at BMW Group Plant Spartanburg +++ Robot development runs in parallel at BMW Group Plant Spartanburg and at Figure AI +++  Assembly Hall in Spartanburg features BMW iFACTORY applications in artificial intelligence and virtualization +++
-
-BMW Group • 21h ago
 
 ---
 
@@ -146,7 +140,7 @@ Financial Times • 1d ago
 
 TER's AI-driven robotics revenues are climbing fast, with strong growth, new partnerships, and a key e-commerce customer set to scale in 2026.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -155,6 +149,14 @@ Yahoo Finance • 18h ago
 Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
 
 CNBC • 1d ago
+
+---
+
+**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
+
+The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
+
+New Atlas • 6h ago
 
 ---
 
@@ -168,7 +170,7 @@ CBS News • 1d ago
 
 **[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-OregonLive.com • 14h ago
+OregonLive.com • 16h ago
 
 ---
 
@@ -220,11 +222,43 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 ---
 
-**[#robot #industrial #borunte #spraying #welding #welding](https://www.youtube.com/watch?v=c1Q9_5ExVTc)**
+**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
 
-📺 BORUNTE-Robot-Messi
+2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
 
-👁️ 30K • 👍 73 • ⏱️ 0:14 • 2d ago
+📺 Just A Dad Approved
+
+👁️ 15K • 👍 270 • 💬 162 • ⏱️ 18:57 • 2d ago
+
+---
+
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
+
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
+
+📺 NewsNation
+
+👁️ 63K • 👍 1K • 💬 1K • ⏱️ 2:04 • 2d ago
+
+---
+
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
+
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
+
+📺 Tom Scott
+
+👁️ 865K • 👍 47K • 💬 2K • ⏱️ 21:33 • 3d ago
+
+---
+
+**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
+
+Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+
+📺 ARPO: The Robot
+
+👁️ 19K • 👍 40 • ⏱️ 59:56 • 23h ago
 
 ---
 
@@ -238,53 +272,23 @@ AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) �
 
 ---
 
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
-
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
-
-📺 NewsNation
-
-👁️ 62K • 👍 1K • 💬 988 • ⏱️ 2:04 • 2d ago
-
----
-
 **[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
 
 Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 862K • 👍 1K • 💬 444 • ⏱️ 0:31 • 1d ago
+👁️ 958K • 👍 2K • 💬 455 • ⏱️ 0:31 • 2d ago
 
 ---
 
-**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
+**[Tesla&#39;s Optimus Factory Just Hit 4 Floors — 27,000 Robots/Day by 2027](https://www.youtube.com/watch?v=2WIWdEQpO5s)**
 
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+Tesla Optimus Factory just hit 4 floors—and Tesla's bold plan for 27000 robots a day is becoming real. See the $10B factory that ...
 
-📺 ARPO: The Robot
+📺 Tech Revolution
 
-👁️ 16K • 👍 38 • ⏱️ 59:56 • 21h ago
-
----
-
-**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
-
-In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
-
-📺 Tom Scott
-
-👁️ 858K • 👍 47K • 💬 2K • ⏱️ 21:33 • 3d ago
-
----
-
-**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
-
-2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
-
-📺 Just A Dad Approved
-
-👁️ 15K • 👍 265 • 💬 157 • ⏱️ 18:57 • 2d ago
+👁️ 76K • 👍 1K • 💬 170 • ⏱️ 21:01 • 6d ago
 
 ---
 
