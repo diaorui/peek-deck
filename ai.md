@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-26T21:19:18.374048+00:00'
+updated: '2026-06-26T22:45:21.672628+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 26, 2026 at 21:19 UTC  
+**Last Updated:** June 26, 2026 at 22:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus Adler and Pritzler out the same door within a week. Every time one of these drops the framing is google is bleeding. I think people are reading it backwards. If the people who actually trained the thing can leave and instantly matter at a competitor, the weights were never the asset. The judgment about how to steer a model, what to eval it on, where it breaks, that stuff lives in heads not in checkpoints. Hardware you can buy. That you cannot. What it means for the rest of us is simpler than the talent drama. If capability is going to keep walking between labs every few months, betting your whole stack on one provider's model is a bet on that lab keeping its people, which is the one thing you cannot control. I stopped caring which lab is quote winning this quarter. The move is keeping the model layer swappable so a shakeup at one place does not strand the work. Mine runs through verdent with byok but honestly any setup that lets you reroute works, the point is not the tool, it is not being married to one model.
 
-4h ago
-
----
-
-**[The underrated part of open weight models isn't running them local, it's being allowed to build on top off them](https://www.reddit.com/r/artificial/comments/1ug6v99/the_underrated_part_of_open_weight_models_isnt/)**
-
-Most of the open vs closed talk here is about whether you can run the thing on your own hardware. fair, that's the obvious draw. but the part i think gets slept on is that open weights mean you can actually post train on top of the base, not just run inference. With a closed api you're renting intelligence. you can prompt it, you can rag around it, but you can never make it yours. you cant fine tune the actual weights for your domain, you cant distill it down, you cant freeze a version and own it forever. You're permanently downstream of whatever the provider decides. I saw some post about people post training their own models on top of glm-5.2 now that its open weight, and that framing stuck with me more than the benchmark numbers did. a frontier-ish base you can legally build on changes what a small team can do. You dont need to train from scratch, you start from something already strong and specialize it. Realistically most of us arent fine tuning a 700b model in our basement, the compute is brutal and i wont pretend otherwise. but the option existing at all is the point. even renting cloud compute to post train your own variant is a completely different thing than being locked out of the weights entirely. Anyone here actually post training on top of the bigger open models, or is it still mostly inference and the fine tuning stays in the small model range?
-
-7h ago
+6h ago
 
 ---
 
@@ -57,7 +49,23 @@ Most of the open vs closed talk here is about whether you can run the thing on y
 
 Anthropic dropped their June 2026 Economic Index today and buried inside the survey data is something that should be making headlines: Over a third of respondents (9,700 actual Claude users, linked to real usage data) believe AI will be capable of handling most or nearly all of their work tasks within the next year. Not “some tasks.” Not “help me write emails.” MOST of their work. And here’s the part nobody wants to talk about: the people who delegate the most to AI are the MOST optimistic about their job prospects. Meanwhile entry-level workers are the ones most worried about displacement. Senior devs and managers? Thriving. Junior colleagues? Everyone in the survey is more worried about them than themselves. The data also shows AI autonomy is measurably higher on Claude Code than on regular chat, across 26 out of 31 output types. A blog post that takes 13 rounds of back-and-forth on Claude.ai? Claude Code does it in a single prompt. So here’s the uncomfortable question nobody wants to ask: Are we witnessing the largest skill-premium compression in history, where the gap between a senior person using AI and a junior person using AI collapses the value of experience? Or is this actually fine and we’re all just catastrophizing? Because Anthropic’s own framing spins this as “augmentation not displacement” while simultaneously showing that 38% of people who think they’ll lose their job attribute that directly to AI. Make it make sense. Full report: https://www.anthropic.com/research/economic-index-june-2026-report
 
-5h ago
+6h ago
+
+---
+
+**[The underrated part of open weight models isn't running them local, it's being allowed to build on top off them](https://www.reddit.com/r/artificial/comments/1ug6v99/the_underrated_part_of_open_weight_models_isnt/)**
+
+Most of the open vs closed talk here is about whether you can run the thing on your own hardware. fair, that's the obvious draw. but the part i think gets slept on is that open weights mean you can actually post train on top of the base, not just run inference. With a closed api you're renting intelligence. you can prompt it, you can rag around it, but you can never make it yours. you cant fine tune the actual weights for your domain, you cant distill it down, you cant freeze a version and own it forever. You're permanently downstream of whatever the provider decides. I saw some post about people post training their own models on top of glm-5.2 now that its open weight, and that framing stuck with me more than the benchmark numbers did. a frontier-ish base you can legally build on changes what a small team can do. You dont need to train from scratch, you start from something already strong and specialize it. Realistically most of us arent fine tuning a 700b model in our basement, the compute is brutal and i wont pretend otherwise. but the option existing at all is the point. even renting cloud compute to post train your own variant is a completely different thing than being locked out of the weights entirely. Anyone here actually post training on top of the bigger open models, or is it still mostly inference and the fine tuning stays in the small model range?
+
+9h ago
+
+---
+
+**[do you think ai will add more jobs than it will cut over the long run?](https://www.reddit.com/r/artificial/comments/1ugki2w/do_you_think_ai_will_add_more_jobs_than_it_will/)**
+
+if so, what would these jobs look like?
+
+42m ago
 
 ---
 
@@ -65,7 +73,7 @@ Anthropic dropped their June 2026 Economic Index today and buried inside the sur
 
 Two weeks ago we built World of ClaudeCraft, a free, open-source browser MMO that was built in 48 hours with Claude. We decided to make the experiment recursive: we built a Claude Code-powered VTuber and put her inside the game. Day 1 is live here: https://www.twitch.tv/claudeplaysclaudecraft Claude decides what to do next, sends actions to the game, and speaks through the VTuber avatar (using Elevenlabs for TTS). We’re streaming the run unedited, including the wandering, party joining, emoting and socialising. She can freely interact with the twitch chat and the real people actually in game right now. The game is free to play and open source at https://github.com/levy-street/world-of-claudecraft Hope you enjoy the spectacle!
 
-10h ago
+12h ago
 
 ---
 
@@ -73,13 +81,13 @@ Two weeks ago we built World of ClaudeCraft, a free, open-source browser MMO tha
 
 A group of European AI researchers have used a fictional narrative to warn against a worst-case scenario for how technology lags could shatter Euro...
 
-🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europes-doomsday-ai-scenario-comes-alive) • 13h ago
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europes-doomsday-ai-scenario-comes-alive) • 14h ago
 
 ---
 
 **["Why big AI labs are hiring so many philosophers. The technology presents all sorts of thorny problems—a philosopher’s favourite kind"](https://www.reddit.com/r/artificial/comments/1ugd32y/why_big_ai_labs_are_hiring_so_many_philosophers/)**
 
-🔗 [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers) • 3h ago
+🔗 [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers) • 5h ago
 
 ---
 
@@ -87,7 +95,15 @@ A group of European AI researchers have used a fictional narrative to warn again
 
 Is claude team still the way to go or would you guys recommend another llm environment. Dont wanna make the company pay for it if there are significantly better alternatives. I really like claude a lot myself, im a bit blind to whats going on in other llms so thats why i wanted to ask this question. Dont want to make a bias decision. Thanks!
 
-4h ago
+5h ago
+
+---
+
+**[i analyzed 500+ companies job postings to see what new roles are emerging due to ai](https://www.reddit.com/r/artificial/comments/1ugkq6h/i_analyzed_500_companies_job_postings_to_see_what/)**
+
+i kept seeing doomer posts talking about how ai is going to take away all jobs. i believe in the opposite - ai is going to add more jobs in the long term than it cuts, and i kept seeing evidence of that now. there were job titles i'd come across that 2-3 years were much more niche. i got curious to map this out so i created a site to track this. i scraped various job boards and filtered out titles which have exploded since 2022 thanks to ai and if you go through the onboarding, it'll match you to roles you are eligible for. i don't want this post to just be a promo so here are the top 5 roles we are seeing break out. the number in brackets is the number of such jobs we are tracking ai trainer / data annotation (1,218) forward-deployed engineer (485) ai solutions eng / architect (316) agent (engineer/pm/research) (260) applied-ai engineer (169) if you're interested in checking out the site for more roles/jobs you can check it out here: https://alterwork.com/roles any feedback would be great, thanks
+
+33m ago
 
 ---
 
@@ -95,23 +111,7 @@ Is claude team still the way to go or would you guys recommend another llm envir
 
 A papyrus scroll that was burned and carbonized when Mount Vesuvius erupted almost 2,000 years ago has been virtually unrolled and partially deciphered with the help of artificial intelligence.
 
-🔗 [CNN](https://www.cnn.com/2026/06/26/science/papyrus-scroll-vesuvius-ai-scli-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
-
----
-
-**[Demo: Automate Design Creation with Row-Bot Designer Studio - Decks, Landing Pages, App Mockups, Storyboards and more.](https://www.reddit.com/r/artificial/comments/1ugdc1o/demo_automate_design_creation_with_rowbot/)**
-
-In this demo, I show how to use Row-Bot for a complete creative marketing workflow. We start with rough launch notes for Row-Bot Background Tasks, then use Designer Studio to turn them into a structured campaign, a five-slide social carousel, AI-generated visuals, refined copy, exportable assets, and social post captions. Open-Source & Local-First
-
-3h ago
-
----
-
-**[If 100% of surveyed CIOs are budgeting for AI, why does the public debate still sound like AI is a failed experiment?](https://www.reddit.com/r/artificial/comments/1ug1qz7/if_100_of_surveyed_cios_are_budgeting_for_ai_why/)**
-
-Source: https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6 Business Insider covered a new RBC survey of 100+ CIOs and tech leaders. The interesting parts: nearly 90% said token budgets are manageable more than half reportedly have AI already in production another 35% expect to reach production within six months 100% are budgeting for AI / LLM projects OpenAI is far ahead in reported enterprise usage the expected "SaaSpocalypse" has not shown up yet This seems very different from the online narrative that AI is mostly hype, pilots are failing, and companies are about to pull back. My read: consumer AI discourse and enterprise AI adoption are now diverging. Public debate focuses on bad chatbots, slop, job fears, and model drama. Enterprises are quietly turning AI into a budget line, a workflow layer, and eventually a pricing model. That does not mean there is no bubble. It means the bubble debate should probably move from "is anyone using this?" to "who captures the value, and does the ROI justify the capex?" Question: are we underestimating enterprise AI adoption because the public-facing product experience still feels messy?
-
-12h ago
+🔗 [CNN](https://www.cnn.com/2026/06/26/science/papyrus-scroll-vesuvius-ai-scli-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 6h ago
 
 ---
 
@@ -123,7 +123,23 @@ Source: https://www.businessinsider.com/enterprise-ai-spending-grows-openai-lead
 
 The Trump administration came to power preaching a laissez-faire approach to AI but has lately increased oversight of the industry.
 
-The Washington Post • 17m ago
+The Washington Post • 25m ago
+
+---
+
+**[OpenAI staggers AI model release after Trump administration request](https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos)**
+
+Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos
+
+The Guardian • 1h ago
+
+---
+
+**[Opinion | Feds controlling ChatGPT access misreads AI threats](https://www.washingtonpost.com/opinions/2026/06/26/feds-deciding-who-gets-gpt-access-reflects-misreading-ai-threats/)**
+
+The Trump administration buys time for hardening defenses, but that comes at a cost.
+
+The Washington Post • 55m ago
 
 ---
 
@@ -133,35 +149,37 @@ The New York Times • 1d ago
 
 ---
 
-**[AI stocks melt down again. What’s going on?](https://www.cnn.com/2026/06/26/investing/tech-stocks-nasdaq-kospi)**
-
-Tech stock traders can be an impatient bunch. But lately, they’ve grown seriously ticked off about the high price they’ve paid to get into the AI game without the profit boost they were expecting.
-
-CNN • 9h ago
-
----
-
 **[AI trade hits a wall amid report that OpenAI will delay IPO until 2027](https://finance.yahoo.com/technology/article/ai-trade-hits-a-wall-amid-report-that-openai-will-delay-ipo-until-2027-150642366.html)**
 
 Tech stocks slid as the New York Times reported OpenAI could delay its IPO until 2027.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Most of Wall Street rises, but sinking AI stocks send it lower for the week](https://www.latimes.com/business/story/2026-06-26/most-of-wall-street-rises-but-sinking-ai-stocks-send-it-lower-for-week)**
+**[Investors Pile On as A.I.’s Rough Summer Continues](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html)**
 
-Most of the U.S. stock market rose after oil prices eased back to where they were before the war with Iran, but drops for AI stocks kept the market in check.
-
-Los Angeles Times • 52m ago
+The New York Times • 10h ago
 
 ---
 
-**[AI-Designed 'Universal' Vaccine Shows Promise](https://www.yahoo.com/news/science/articles/ai-designed-universal-vaccine-shows-205433173.html)**
+**[Anthropic Moves Toward Deal With US to Lift Curbs on AI Models](https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models)**
 
-AI-Designed 'Universal' Vaccine Shows Promise
+Bloomberg.com • 1h ago
 
-Yahoo • 24m ago
+---
+
+**[Data-Driven Dealmaking And AI Across The Deal Lifecycle](https://www.forbes.com/sites/gelilabekele/2026/06/26/data-driven-dealmaking-and-ai-across-the-deal-lifecycle/)**
+
+AI assessments are now standard in M&A due diligence, with firms like Union Square Advisors leveraging vast data to evaluate a target's value and AI-defensibility.
+
+Forbes • 21m ago
+
+---
+
+**[AI-guided microneedles bend at body temperature to speed diabetic wound healing](https://medicalxpress.com/news/2026-06-ai-microneedles-body-temperature-diabetic.html)**
+
+Medical Xpress • 45m ago
 
 ---
 
@@ -171,35 +189,13 @@ The Economist • 1d ago
 
 ---
 
-**[Papyrus scroll burnt to a crisp during Vesuvius eruption deciphered with help of AI](https://www.cnn.com/2026/06/26/science/papyrus-scroll-vesuvius-ai-scli-intl)**
-
-A papyrus scroll that was burned and carbonized when Mount Vesuvius erupted almost 2,000 years ago has been virtually unrolled and partially deciphered with the help of artificial intelligence.
-
-CNN • 7h ago
-
----
-
-**[Exclusive / Threats to US payment rails helped trigger Bessent’s AI worries](https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails)**
-
-Advanced models have heightened banks’ fears of an outage that would hamstring their ability to send money.
-
-Semafor • 4h ago
-
----
-
-**[Axios House: Brands told to act fast on AI commerce](https://www.axios.com/2026/06/26/axios-house-brands-told-to-act-fast-on-ai-commerce)**
-
-Axios • 1h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 786 • 💬 1281 • 2d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 787 • 💬 1283 • 2d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
@@ -213,7 +209,7 @@ Axios • 1h ago
 
 A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 
-⬆️ 443 • 💬 82 • 2d ago • [RubyLLM](https://rubyllm.com/)
+⬆️ 445 • 💬 82 • 2d ago • [RubyLLM](https://rubyllm.com/)
 
 ---
 
@@ -221,13 +217,13 @@ A single, beautiful Ruby framework for all major AI providers. Easily build chat
 
 Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
 
-⬆️ 356 • 💬 166 • 1d ago • [GitHub](https://github.com/inkeep/open-knowledge)
+⬆️ 359 • 💬 167 • 1d ago • [GitHub](https://github.com/inkeep/open-knowledge)
 
 ---
 
 **[What happened after 2k people tried to hack my AI assistant](https://news.ycombinator.com/item?id=48681687)**
 
-⬆️ 340 • 💬 156 • 18h ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
+⬆️ 348 • 💬 156 • 20h ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
 
 ---
 
@@ -255,7 +251,7 @@ Proprietary AI is both too expensive and too centralized in control for most cou
 
 **[AI children's books, body horror edition](https://news.ycombinator.com/item?id=48681250)**
 
-⬆️ 203 • 💬 76 • 20h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
+⬆️ 203 • 💬 77 • 21h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
 
 ---
 
@@ -263,7 +259,7 @@ Proprietary AI is both too expensive and too centralized in control for most cou
 
 Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
 
-⬆️ 166 • 💬 299 • 1d ago • [Trakkr](https://trakkr.ai/bias)
+⬆️ 167 • 💬 299 • 1d ago • [Trakkr](https://trakkr.ai/bias)
 
 ---
 
@@ -277,37 +273,7 @@ Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and
 
 📺 Matt Wolfe
 
-👁️ 7K • 👍 589 • 💬 52 • ⏱️ 20:01 • 3h ago
-
----
-
-**[This AI Brain Will Make You So Smart It’s Almost Unfair](https://www.youtube.com/watch?v=b4d32pBa3UY)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4amP5uh Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 61K • 👍 3K • 💬 111 • ⏱️ 12:02 • 1d ago
-
----
-
-**[Why South Korea’s AI Stock Mania Is a Warning to the World](https://www.youtube.com/watch?v=jJrEnv1IDvg)**
-
-South Korea's stock market has surged about 200% year-on-year, powered by retail investors chasing an artificial ...
-
-📺 Bloomberg Originals
-
-👁️ 166K • 👍 3K • 💬 308 • ⏱️ 9:20 • 13h ago
-
----
-
-**[Every FREE &amp; UNLIMITED AI Video Tool in ONE Place](https://www.youtube.com/watch?v=tsDubocT5Gg)**
-
-Try Base44 and build your own AI tools hub from a single prompt → https://base44.com/ Free Prompt PDFs + AI Directory ...
-
-📺 Malva AI
-
-👁️ 5K • 👍 220 • 💬 42 • ⏱️ 8:49 • 10h ago
+👁️ 18K • 👍 1K • 💬 90 • ⏱️ 20:01 • 5h ago
 
 ---
 
@@ -317,17 +283,37 @@ Go to https://ground.news/sabine to get 40% off the Vantage plan and see through
 
 📺 Sabine Hossenfelder
 
-👁️ 284K • 👍 17K • 💬 3K • ⏱️ 12:14 • 2d ago
+👁️ 289K • 👍 18K • 💬 3K • ⏱️ 12:14 • 2d ago
 
 ---
 
-**[How to Actually Use AI Tools in 2026 (Full Guide)](https://www.youtube.com/watch?v=HPw4eiqOZfU)**
+**[Why South Korea’s AI Stock Mania Is a Warning to the World](https://www.youtube.com/watch?v=jJrEnv1IDvg)**
 
-Get SCARILY Good with AI https://www.skool.com/ai-fluency/about In this video, I explain the five AI tool categories that matter, ...
+South Korea's stock market has surged about 200% year-on-year, powered by retail investors chasing an artificial ...
 
-📺 Parker Prompts
+📺 Bloomberg Originals
 
-👁️ 12K • 💬 7 • ⏱️ 12:40 • 1d ago
+👁️ 184K • 👍 3K • 💬 319 • ⏱️ 9:20 • 14h ago
+
+---
+
+**[Every FREE &amp; UNLIMITED AI Video Tool in ONE Place](https://www.youtube.com/watch?v=tsDubocT5Gg)**
+
+Try Base44 and build your own AI tools hub from a single prompt → https://base44.com/ Free Prompt PDFs + AI Directory ...
+
+📺 Malva AI
+
+👁️ 7K • 👍 257 • 💬 43 • ⏱️ 8:49 • 11h ago
+
+---
+
+**[Why OpenAI and Anthropic may be rushing to IPO amid fears of AI premium fading](https://www.youtube.com/watch?v=7LbCf60q8Fc)**
+
+CNBC's Kate Rooney reports on OpenAI and Anthropic as the AI giants move closer to going public.
+
+📺 CNBC Television
+
+👁️ 27K • 👍 234 • 💬 61 • ⏱️ 4:10 • 1d ago
 
 ---
 
@@ -337,27 +323,7 @@ Taken from JRE #2518 w/Tim Dillon YouTube: https://youtu.be/wTdqkloiSvk JRE on S
 
 📺 JRE Clips
 
-👁️ 319K • 👍 7K • 💬 2K • ⏱️ 15:48 • 2d ago
-
----
-
-**[AI Bubble Burst Soon? Global Market Crash Warning | The N Show](https://www.youtube.com/watch?v=CpY0T7YPbxM)**
-
-Is the AI Bubble About to Burst? Could a Global Market Crash Be Closer Than We Think? Artificial Intelligence has transformed ...
-
-📺 Neeraj Bajpai
-
-👁️ 23K • 👍 1K • 💬 173 • ⏱️ 23:23 • 9h ago
-
----
-
-**[Japan Just Dropped an AI That Beats Claude (Fable 5)](https://www.youtube.com/watch?v=UyshVdGe4UY)**
-
-Join our FREE WhatsApp Community: https://links.stayingahead.com/YT49 America just banned its best AI, Claude (Fable 5) so I ...
-
-📺 Vaibhav Sisinty
-
-👁️ 70K • 👍 2K • 💬 214 • ⏱️ 12:47 • 1d ago
+👁️ 327K • 👍 7K • 💬 2K • ⏱️ 15:48 • 2d ago
 
 ---
 
@@ -367,7 +333,37 @@ China just released a FREE open AI model that's shaking up the entire AI industr
 
 📺 Your AI Guy
 
-👁️ 13K • 👍 335 • 💬 69 • ⏱️ 15:48 • 1d ago
+👁️ 13K • 👍 339 • 💬 71 • ⏱️ 15:48 • 1d ago
+
+---
+
+**[Japan Just Dropped an AI That Beats Claude (Fable 5)](https://www.youtube.com/watch?v=UyshVdGe4UY)**
+
+Join our FREE WhatsApp Community: https://links.stayingahead.com/YT49 America just banned its best AI, Claude (Fable 5) so I ...
+
+📺 Vaibhav Sisinty
+
+👁️ 73K • 👍 2K • 💬 218 • ⏱️ 12:47 • 1d ago
+
+---
+
+**[Ancient scrolls unread for 2,000 years revealed with AI](https://www.youtube.com/watch?v=hcTnaI_djHQ)**
+
+Researchers used AI and “virtual unwrapping” to reveal never-before-seen texts inside charred Roman scrolls buried by Mount ...
+
+📺 NBC News
+
+👁️ 153K • 👍 3K • 💬 389 • ⏱️ 3:00 • 22h ago
+
+---
+
+**[AI is Losing and the Left is Winning, with Brennan Lee Mulligan and Ed Zitron](https://www.youtube.com/watch?v=EGqCAmXTJBI)**
+
+Smell that? Is that the stench of the algae bloom in Washington? Or maybe the odor of a big honkin' AI bubble that is ready to ...
+
+📺 Adam Conover
+
+👁️ 45K • 👍 5K • 💬 805 • ⏱️ 49:42 • 5h ago
 
 ---
 
@@ -383,7 +379,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 134,146 • ❤️ 1,015 • 2d ago
+⬇️ 134,146 • ❤️ 1,032 • 2d ago
 
 ---
 
@@ -395,19 +391,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 83,589 • ❤️ 2,584 • 3d ago
-
----
-
-**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
-
-*Yuxin Lu*
-
-A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
-
-`text-generation` `11.9B`
-
-⬇️ 186,663 • ❤️ 671 • 7d ago
+⬇️ 83,589 • ❤️ 2,586 • 3d ago
 
 ---
 
@@ -419,7 +403,19 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 486,810 • ❤️ 566 • 4d ago
+⬇️ 486,810 • ❤️ 578 • 4d ago
+
+---
+
+**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
+
+*Yuxin Lu*
+
+A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
+
+`text-generation` `11.9B`
+
+⬇️ 186,663 • ❤️ 682 • 7d ago
 
 ---
 
@@ -431,7 +427,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 516,333 • ❤️ 2,389 • 7d ago
+⬇️ 516,333 • ❤️ 2,395 • 7d ago
 
 ---
 
@@ -443,7 +439,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 20,346 • ❤️ 437 • 2d ago
+⬇️ 20,346 • ❤️ 443 • 2d ago
 
 ---
 
@@ -455,7 +451,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 13,186 • ❤️ 315 • 1d ago
+⬇️ 13,186 • ❤️ 319 • 1d ago
 
 ---
 
@@ -467,7 +463,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 8,721 • ❤️ 281 • 3d ago
+⬇️ 8,721 • ❤️ 285 • 3d ago
 
 ---
 
@@ -479,19 +475,19 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 54,638 • ❤️ 724 • 7d ago
+⬇️ 54,638 • ❤️ 726 • 7d ago
 
 ---
 
-**[GLM-5.2-GGUF](https://huggingface.co/unsloth/GLM-5.2-GGUF)**
+**[Ornith-1.0-35B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF)**
 
-*Unsloth AI*
+*DeepReinforce*
 
-GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 1M token context window and advanced coding capabilities with flexible effort levels. It utilizes an improved architecture with IndexShare for reduced FLOPs and is released under an MIT license for broad accessibility.
+Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate high-quality code solutions and search trajectories, achieving top performance on benchmarks like Terminal-Bench and SWE-Bench.
 
-`text-generation` `753.9B`
+`text-generation` `34.7B`
 
-⬇️ 107,553 • ❤️ 405 • 3d ago
+⬇️ 3,002 • ❤️ 225 • 1d ago
 
 ---
 
@@ -507,7 +503,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 34 • 💬 4 • ⭐ 9,918 • 5d ago
+▲ 34 • 💬 4 • ⭐ 10,306 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -583,7 +579,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 247 • 💬 4 • ⭐ 9,372 • 1mo ago
+▲ 247 • 💬 4 • ⭐ 9,410 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -597,7 +593,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 Language-based world models enable agentic environment simulation across multiple domains and enhance general agent performance through scalable simulation and improved downstream task performance.
 
-▲ 123 • 💬 4 • ⭐ 559 • 4d ago
+▲ 124 • 💬 4 • ⭐ 559 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.24597) • [💻 code](https://github.com/QwenLM/Qwen-AgentWorld)
 
@@ -639,7 +635,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.2k • 🔱 10.2k • 2h ago
+⭐ 78.2k • 🔱 10.2k • 4h ago
 
 ---
 
@@ -649,7 +645,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 59.9k • 🔱 3.1k • 19h ago
+⭐ 60.1k • 🔱 3.1k • 21h ago
 
 ---
 
@@ -659,7 +655,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.9k • 🔱 1.0k • 3h ago
+⭐ 10.9k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -669,7 +665,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.4k • 🔱 424 • 2h ago
+⭐ 5.4k • 🔱 425 • 4h ago
 
 ---
 
@@ -679,7 +675,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.0k • 🔱 604 • 1h ago
+⭐ 5.0k • 🔱 609 • 4m ago
 
 ---
 
@@ -689,7 +685,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 2.5k • 🔱 336 • 10h ago
+⭐ 2.5k • 🔱 347 • 12h ago
 
 ---
 
@@ -699,7 +695,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.0k • 🔱 143 • 3d ago
+⭐ 2.0k • 🔱 143 • 4d ago
 
 ---
 
@@ -709,7 +705,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.7k • 🔱 148 • 1d ago
+⭐ 1.7k • 🔱 148 • 53m ago
 
 ---
 
@@ -719,7 +715,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 151 • 8h ago
+⭐ 1.7k • 🔱 151 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T21:19:18.391670+00:00'
+updated: '2026-06-26T22:45:21.690868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 21:19 UTC  
+**Last Updated:** June 26, 2026 at 22:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-15h ago
+17h ago
 
 ---
 
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-23h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ I am designing a robotic arm, and am wondering how can I determine if a certain 
 
 The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to show what it looks like to rethink human-robot collaboration, using AI so a shrinking pool of experts can meet the increasing demands of future infrastructure. The obvious thing to automate is the rote physical work that consumes an expert's attention without needing critical judgment. Cabling tasks are the most common example of this. They're necessary when setting up any rack, but usually one-off, and labor is readily available to address this need. We think this is a good place to start, but the least interesting place to change how people work. Standard operating procedures (SOPs) are how critical infrastructure stays stable, and they're the work that scales worst. The video shows one common procedure: clearing the cables a technician leaves behind after testing, and reconciling the rack to a stable state for the next test. A robot that runs SOPs the same way every time, never skipping a step, keeps the system in a known, predictable state. This reduces the cognitive overhead on experts so they can solve harder problems. What most excites us is robots guiding where an expert's attention should go. In the video, the robot checks the switches with a thermal camera, then makes a judgment on whether the increase in temperature is a real problem or a spurious reading. This instinct requires an expert to synthesize all available background context and accumulated lessons from past failures. This is where we want to double down, and show how human-robot collaboration places scarce expert attention exactly where it matters. More to come.
 
-1d ago
+2d ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 1d ago
 
 Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ Bloomberg.com • 1d ago
 
 The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
 
-New Atlas • 14h ago
+New Atlas • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ National Science Foundation (.gov) • 3d ago
 
 FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -194,13 +194,53 @@ CBS News • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 65K • 👍 1K • 💬 233 • ⏱️ 13:45 • 4d ago
+
+---
+
 **[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
 
 Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
 
 📺 FOX 5 New York
 
-👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 2d ago
+👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 3d ago
+
+---
+
+**[Robotics](https://www.youtube.com/watch?v=P4KlMJ02d0Q)**
+
+erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 Support Mary directly: Substack: ...
+
+📺 Mary Trump Media
+
+👁️ 1K • 👍 254 • 💬 16 • ⏱️ 1:16 • 1h ago
+
+---
+
+**[I Bought a ROBOT DOG!](https://www.youtube.com/watch?v=rqN_aZr4xtA)**
+
+UNSPEAKABLE TOYS @ WALMART → https://www.walmart.com/brand/unspeakable/unspeakable/20002961 Next time you're at ...
+
+📺 Unspeakable Studios
+
+👁️ 35K • 👍 1K • 💬 222 • ⏱️ 13:57 • 2h ago
+
+---
+
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
+
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
+
+📺 NewsNation
+
+👁️ 69K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
 
 ---
 
@@ -212,63 +252,33 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 ---
 
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 65K • 👍 1K • 💬 232 • ⏱️ 13:45 • 4d ago
-
----
-
-**[Can They Really Pull It Off? Big Sign For Optimus Robot.](https://www.youtube.com/watch?v=kBZUNAfZ9Sw)**
-
-AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ▻ Join Patreon: ...
-
-📺 Solving The Money Problem
-
-👁️ 36K • 👍 2K • 💬 176 • ⏱️ 10:31 • 1d ago
-
----
-
-**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
-
-In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
-
-📺 Tom Scott
-
-👁️ 887K • 👍 48K • 💬 2K • ⏱️ 21:33 • 4d ago
-
----
-
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
-
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
-
-📺 NewsNation
-
-👁️ 67K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
-
----
-
 **[This robot was built to chase you 👀 #trendingshorts #robot #tech](https://www.youtube.com/watch?v=FqzDqlaCNNo)**
 
 Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designed to autonomously follow and film its owner.
 
 📺 Rowan Cheung
 
-👁️ 7K • 👍 790 • 💬 15 • ⏱️ 1:08 • 4h ago
+👁️ 14K • 👍 1K • 💬 39 • ⏱️ 1:08 • 6h ago
 
 ---
 
-**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
+**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
 
-2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
+Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
 
-📺 Just A Dad Approved
+📺 Wealthy Capital
 
-👁️ 16K • 👍 280 • 💬 162 • ⏱️ 18:57 • 3d ago
+👁️ 136K • 👍 491 • 💬 52 • ⏱️ 0:09 • 2d ago
+
+---
+
+**[This New Wearable Robot Technology Lets Robots Feel Like Humans #robot #shorts #technology](https://www.youtube.com/watch?v=YxCQkKKGhbk)**
+
+HapMorph: The Wearable Technology That Lets Robots Recreate Realistic Touch Scientists have developed a new haptic ...
+
+📺 uncover reality
+
+👁️ 410K • 👍 2K • 💬 78 • ⏱️ 0:06 • 3d ago
 
 ---
 
@@ -278,17 +288,7 @@ Join ARPO the Robot for an exciting livestream filled with fun, surprises, and l
 
 📺 ARPO: The Robot
 
-👁️ 24K • 👍 43 • ⏱️ 59:56 • 1d ago
-
----
-
-**[4,000 People Pre-Ordered UBTech U1 in Just 10 Days!](https://www.youtube.com/watch?v=d3Zenhov6X8)**
-
-A Chinese robotics company called UBTech just hit $1.4 million in pre-orders for a humanoid robot designed to live with you.
-
-📺 Manav
-
-👁️ 76K • 👍 2K • 💬 234 • ⏱️ 0:37 • 6d ago
+👁️ 25K • 👍 43 • ⏱️ 59:56 • 1d ago
 
 ---
 
