@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-26T13:11:54.988119+00:00'
+updated: '2026-06-26T15:39:05.413273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 26, 2026 at 13:11 UTC  
+**Last Updated:** June 26, 2026 at 15:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $58,980.00
+### $60,377.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -8.3%  
-**30d:** -19.9%  
-**90d:** -10.7%  
-**1y:** -44.9%  
+**24h:** +1.8%  
+**7d:** -6.1%  
+**30d:** -18.0%  
+**90d:** -8.6%  
+**1y:** -43.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1183.57B
+**Market Cap:** $1206.58B
 Rank #1
 
-**Circulating Supply:** 20,048,362 BTC
+**Circulating Supply:** 20,048,396 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--53.2%
+-52.3%
 
 **All-Time Low:** $67.81
-+86949.1%
++88662.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Finally made it to 1 BTC 💎
 
-18h ago
+21h ago
 
 ---
 
 **[That’s all you got?!?](https://www.reddit.com/r/Bitcoin/comments/1ufaxnn/thats_all_you_got/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -95,13 +95,13 @@ Finally made it to 1 BTC 💎
 
 When we blew past $80k back in early May, I took the exit and sold my whole stack. Honestly, it feels like everyone has completely taken their eye off the ball lately. The whole space is obsessed with MSTR, STRC and panicking over a supposed leveraged death spiral. Let them sweat it out. While they're busy losing their minds, I'm sitting comfortably in cash. You could see this correction coming from a mile away. Did we forget about the 4 year cycle? Now I'm just waiting for the absolute bottom. My limit orders are locked in at $45k, ready and waiting for the paper hands to capitulate and sell me their coins at a discount.
 
-8h ago
+11h ago
 
 ---
 
 **[Bitcoin is down so bad Bloomberg removed it from their homepage](https://www.reddit.com/r/Bitcoin/comments/1ufer4g/bitcoin_is_down_so_bad_bloomberg_removed_it_from/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ When we blew past $80k back in early May, I took the exit and sold my whole stac
 
 Bitcoin opened deep in the red today, and I already know what's happening somewhere in my circle. There's someone who has never owned Bitcoin, (one of my best friends) never wanted to, who gets noticeably happier every time the price drops. Not because they're finally planning to buy the dip. Not because they suddenly think it's undervalued. Just because I'm losing money.There's actually a word for this: Schadenfreude. The pleasure people feel when someone else suffers. Psychologists have studied it for decades, and what they found is a little uncomfortable. The closer someone is to you, and the more they quietly see you as competition, the more rewarding your failure can feel. It's usually not conscious cruelty. It's something much older than that: status, comparison, and the instinct to measure ourselves against the people around us. Bitcoin makes this even stronger because it's one of the few investments people build an identity around. We don't just buy it. We defend it. We explain it to friends. We argue about it over dinner. We become emotionally invested long before we see a financial return. And when you've made your conviction that public, everyone around you gets a front-row seat to see whether you were right or wrong. The irony is that schadenfreude becomes even stronger when the person losing was genuinely convinced they were right. It's not just about the money. It's about watching confidence collide with reality. So yeah... someone in your life might be enjoying today's price action. Not the chart, but your face when you check the chsrt. Does realizing that change my conviction? Not at all.......It just makes me much more careful about who I talk to about Bitcoin. Have you ever noticed this with friends or family?
 
-22h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ Bitcoin opened deep in the red today, and I already know what's happening somewh
 
 BTC finally dips and of course I already went all in before this move. Now I’m just sitting here staring at charts wondering if I should: A. chill B. panic C. or uninstall every crypto app People who survived previous cycles what do you actually do mentally when you’re fully allocated and the market keeps dropping?
 
-20h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ BTC finally dips and of course I already went all in before this move. Now I’m
 
 Bitcoin mining pool DMND has mined the first known Bitcoin block produced using the Stratum V2 protocol, a technical milestone that shifts control over block construction from pools to individual miners. The block — number 955,318 — was mined through DMND’s pool for GoMining*, which became the first miner to use Stratum V2’s Job Declaration feature to select its own transactions and build its own block template, according to a note shared with Bitcoin Magazine. Note: *this is in no way an endorsement of GoMining, I personally this it is a scammy company, fleecing their own customers** but the achievement is IMHO still Bitcoin history books worthy.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines) • 19h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines) • 21h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin mining pool DMND has mined the first known Bitcoin block produced using 
 
 it's the same exact mental gymnastics people did years ago. the headlines change but the human panic is identical. the only people who actually lose are the ones trying to over-analyze every single local bottom and ending up selling at the worst time. if the long term thesis hasn't changed, why is everyone trying to trade the noise instead of just leaving their phone alone? are we actually expecting it to just go up in a straight line forever without shaking people out first?
 
-15h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ it's the same exact mental gymnastics people did years ago. the headlines change
 
 If bitcoin was originally intended to be a decentralized digital currency, why are people treating it like an investment? Isn’t the point of currency to be used as an instrument for money or a medium to exchange goods/services? Just to spitball an example, if a small government printed money for its population and the majority decided to hold on to their money instead of using it as it was intended, consequently the government would have to print more money so the population can function and this would lead to the value of the printed money going down. I think bitcoin is going down because people are not utilizing it the way it was intended and it’s driving the demand for its use down. Welcome to hear your perspective on this.
 
-17h ago
+19h ago
 
 ---
 
@@ -159,7 +159,7 @@ If bitcoin was originally intended to be a decentralized digital currency, why a
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1h ago
 
 Investors have pulled $651 million from bitcoin ETFs so far this week, per SoSoValue.
 
-CNBC • 21h ago
+CNBC • 23h ago
 
 ---
 
@@ -175,25 +175,29 @@ CNBC • 21h ago
 
 Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Bottom Hunters Fear Fresh Pain After $1.3 Trillion Rout](https://www.bloomberg.com/news/articles/2026-06-26/bitcoin-bottom-hunters-fear-fresh-pain-after-1-3-trillion-rout)**
+**[Bitcoin Is Paying the Price for the End of the Dollar Debasement Trade](https://www.barrons.com/articles/bitcoin-price-selloff-debasement-trade-3c3efb3f)**
 
-Bloomberg • 1h ago
-
----
-
-**[Bitcoin News Today: Bitcoin Bounces From $58,100 But the Derivatives Market Is Not Convinced the Worst Is Over](https://www.binance.com/en/square/post/338264364330513)**
-
-Binance • 1h ago
+Barron's • 23h ago
 
 ---
 
-**[Nancy Guthrie kidnapping: Expert says $152 Bitcoin tactic unlikely to have worked](https://www.newsnationnow.com/missing/nancy-guthrie-kidnapping-bitcoin-cybercrime/)**
+**[Billionaire investor Jeremy Grantham says bitcoin will 'dwindle away with a whimper'](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)**
 
-NewsNation • 1d ago
+Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
+
+CNBC • 1h ago
+
+---
+
+**[Trezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations](https://bitcoinmagazine.com/news/trezor-academy-releases-documentary)**
+
+Trezor Academy released a documentary highlighting Bitcoin adoption across Africa and launched a donation program to fund Bitcoin education initiatives in the Global South.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -203,27 +207,23 @@ AL.com • 2d ago
 
 ---
 
-**[Bitplanet Signs Agreement With Antalpha To Launch Bitcoin Mining Operations](https://bitcoinmagazine.com/news/bitplanet-signs-agreement-with-antalpha)**
+**[Bitcoin Won’t Bottom Until This Happens](https://pro.thestreet.com/trade-ideas/bitcoin-wont-bottom-until-this-happens)**
 
-Bitplanet signed an MOU with Antalpha to enter the Bitcoin mining space.
+Before I get serious about a bottom, I want to see real capitulation. That may mean even the most committed buyer finally cries uncle.
 
-Bitcoin Magazine • 21h ago
-
----
-
-**[BTC/USD: Bitcoin Slides Back to Key Support at $60,000. Can Saylor Stay Afloat?](https://www.tradingview.com/news/tradingview:865ef1ce4094b:0-btc-usd-bitcoin-slides-back-to-key-support-at-60-000-can-saylor-stay-afloat/)**
-
-Up or down, it’s 50/50. Or is it?🟠 Bitcoin's $60K Line Holds🏦 Saylor's Strategy Under Fire⚖️ Is This the Breaking Point?
-
-TradingView • 4h ago
+TheStreet Pro • 2h ago
 
 ---
 
-**[Current price of Bitcoin for June 23, 2026](https://fortune.com/article/price-of-bitcoin-06-23-2026/)**
+**[Bitcoin And MSTR Are Reeling, But Polymarket Continues To Onboard Users To Crypto](https://www.benzinga.com/markets/prediction-markets/26/06/60129757/bitcoin-and-mstr-are-reeling-but-polymarket-continues-to-onboard-users-to-crypto)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Benzinga • 35m ago
 
-Fortune • 3d ago
+---
+
+**[Bitcoin & the Risk-Off Rotation: What Advisors Should Watch](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-risk-off-rotation/)**
+
+ETF Database • 1h ago
 
 ---
 
@@ -243,7 +243,7 @@ Price of world’s most actively traded digital asset falls below $60,000 amid s
 
 Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
 
-⬆️ 6 • 💬 0 • 23h ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
+⬆️ 6 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
 
 ---
 
@@ -312,7 +312,7 @@ I disappeared for a while after suffering massive financial losses. This is wher
 
 📺 TechLead
 
-👁️ 134K • 👍 7K • 💬 3K • ⏱️ 11:23 • 1d ago
+👁️ 137K • 👍 8K • 💬 3K • ⏱️ 11:23 • 1d ago
 
 ---
 
@@ -322,57 +322,7 @@ Bitcoin just broke below its 200-week moving average, Strategy's STRC is crackin
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 438 • ⏱️ 20:52 • 15h ago
-
----
-
-**[Why Did Bitcoin &amp; Markets Crash?](https://www.youtube.com/watch?v=_5rasFlFDSc)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 843 • 💬 278 • ⏱️ 11:16 • 12h ago
-
----
-
-**[Michael Saylor BOMBSHELL! All Hell Just Hit Bitcoin &amp; Crypto!!](https://www.youtube.com/watch?v=NHI3HGNmkUw)**
-
-BOMBSHELL: Everyone is watching Saylor like a ticking time bomb.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 19K • 👍 1K • 💬 181 • ⏱️ 11:42 • 14h ago
-
----
-
-**[Michael Saylor in a Doomloop?🔥Strategy $STRC Collapse Crashing Bitcoin!?🚨](https://www.youtube.com/watch?v=nl9qdbyZc5k)**
-
-The price of Bitcoin continued to turn lower on Thursday as Strategy's flagship preferred stock notched another record low after ...
-
-📺 Paul Barron Network
-
-👁️ 54K • 👍 2K • 💬 360 • ⏱️ 20:25 • 17h ago
-
----
-
-**[Bitcoin Survived ANOTHER $1 Billion Liquidation Flush](https://www.youtube.com/watch?v=sJEhhjpCbmM)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 927 • 💬 239 • ⏱️ 1:04:50 • 22h ago
-
----
-
-**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
-
-Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 6K • 👍 253 • 💬 46 • ⏱️ 1:35 • 4h ago
+👁️ 41K • 👍 3K • 💬 486 • ⏱️ 20:52 • 18h ago
 
 ---
 
@@ -382,17 +332,57 @@ Katie Stockton, Fairlead Strategies founder and managing partner, joins 'Squawk 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 61 • 💬 27 • ⏱️ 8:42 • 1h ago
+👁️ 8K • 👍 124 • 💬 70 • ⏱️ 8:42 • 3h ago
 
 ---
 
-**[Bitcoin is DUMPING - You Won&#39;t Believe Who is SILENTLY BUYING?! | EP 1534](https://www.youtube.com/watch?v=b-n7QdvHlWE)**
+**[Michael Saylor BOMBSHELL! All Hell Just Hit Bitcoin &amp; Crypto!!](https://www.youtube.com/watch?v=NHI3HGNmkUw)**
 
-Bitcoin draws down AGAIN as $60k price gets tested ... WHAT COMES NEXT?
+BOMBSHELL: Everyone is watching Saylor like a ticking time bomb.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 12K • 👍 508 • 💬 278 • ⏱️ 1:17:04 • 18h ago
+👁️ 21K • 👍 1K • 💬 237 • ⏱️ 11:42 • 16h ago
+
+---
+
+**[Why Did Bitcoin &amp; Markets Crash?](https://www.youtube.com/watch?v=_5rasFlFDSc)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 862 • 💬 308 • ⏱️ 11:16 • 15h ago
+
+---
+
+**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
+
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 316 • 💬 52 • ⏱️ 1:35 • 7h ago
+
+---
+
+**[Michael Saylor in a Doomloop?🔥Strategy $STRC Collapse Crashing Bitcoin!?🚨](https://www.youtube.com/watch?v=nl9qdbyZc5k)**
+
+The price of Bitcoin continued to turn lower on Thursday as Strategy's flagship preferred stock notched another record low after ...
+
+📺 Paul Barron Network
+
+👁️ 57K • 👍 2K • 💬 374 • ⏱️ 20:25 • 20h ago
+
+---
+
+**[Bitcoin Survived ANOTHER $1 Billion Liquidation Flush](https://www.youtube.com/watch?v=sJEhhjpCbmM)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 931 • 💬 237 • ⏱️ 1:04:50 • 1d ago
 
 ---
 
@@ -402,7 +392,17 @@ Trade Stocks on Bitget: https://www.bitget.com/kol-register?channelCode=AltcoinD
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 327 • ⏱️ 14:14 • 1d ago
+👁️ 50K • 👍 2K • 💬 327 • ⏱️ 14:14 • 1d ago
+
+---
+
+**[Bitcoin is DUMPING - You Won&#39;t Believe Who is SILENTLY BUYING?! | EP 1534](https://www.youtube.com/watch?v=b-n7QdvHlWE)**
+
+Bitcoin draws down AGAIN as $60k price gets tested ... WHAT COMES NEXT?
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 521 • 💬 297 • ⏱️ 1:17:04 • 21h ago
 
 ---
 

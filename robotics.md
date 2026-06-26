@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T13:11:54.997245+00:00'
+updated: '2026-06-26T15:39:05.422556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 13:11 UTC  
+**Last Updated:** June 26, 2026 at 15:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-7h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ If it does not exist in real life and instead of the humanoids does it mean it d
 
 I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was to keep all the servos hidden inside the structure, giving the arm a cleaner and more professional look. It also features a TPU-printed gripper actuated by a servo. I’m currently working on the kinematics and a custom PCB for the electronics. Still a work in progress, but I’m happy with how it’s coming along so far. More updates soon!
 
-22h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was t
 
 How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at navigation for tight indoor/underground spaces (tunnels, under bridges) where GPS just drops and there's nothing to fall back on. The annoying part is optical flow basically dies in there: bare concrete, repeating geometry, almost nothing to lock onto. Ends up being mostly lidar plus an illuminated camera doing the work. Testing it in sim first for obvious reasons (not keen on flying real hardware into a concrete wall to find the failure modes). Running it on UE5 with PX4/ArduPilot in the loop. For those who've flown GPS-denied in feature-poor spaces: do you just lean harder on lidar, or is there a VIO setup that actually holds up when the visual texture is that poor? Curious what's worked.
 
-21h ago
+1d ago
 
 ---
 
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-15h ago
+18h ago
 
 ---
 
@@ -76,7 +76,7 @@ Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — Nort
 
 I am designing a robotic arm, and am wondering how can I determine if a certain part is strong enough and how could i determine if I have enough torque, also really any feedback would be appreciated. I took inspiration for cycloidal drives on joints 2 and 3 from arctos robotics arm. those cycloidal drives have a reduction of 25 to 1 but with pulley joint 2 will either have a reduction of 100-125. The arm is not yet finished but as i said my biggest concern is will joint two have enough torque and will the parts be strong enough when 3d printed. is uses 3Nm NEMA 23 motors and DM566TE drivers. I know it is generally recommended to start by designing from top to bottom but i really could not do it, felt weird.
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 Not trying to advertise, but I’m sharing what we build because I genuinely believe it’s incredibly cool. Currently, we’re using it as a skin for robotics, primarily for tactile data collection. However, our long-term goal is to make it the skin layer for robots.
 
-20h ago
+22h ago
 
 ---
 
@@ -106,7 +106,7 @@ Not trying to advertise, but I’m sharing what we build because I genuinely bel
 
 I haven't revealed her name in this video because I'd like to keep that private for now. XDXD As a first test, I successfully integrated an LLM, TTS, and ASR pipeline to enable voice conversations on the robotic car, even the response latency(LLM) is still slower. As a first test, I integrated a complete voice pipeline: → Microphone → Whisper Base (Speech-to-Text) → Ollama (LLM) → Kokoro TTS (Text-to-Speech) → Speaker The system runs locally on the Jetson AGX Xavier. Response latency is still slower... However, it is already capable of holding voice conversations while moving around autonomously. Current Stack(24 June 2025) Jetson AGX Xavier Ollama(LLM) Kokoro TTS Camera system orbbec camera Microphone and speakers(whisper base) Robotic car platform Until today, I am still improving the system. Future plans may include: Live2D avatar integration (will add later) Added VLM (Vision-Language Model) Shorter-latency LLM and VLM responses Improved voice interaction Update: The platform was later upgraded to a Jetson AGX Orin.
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 Salem, Ore.-based Agility Robotics, whose two-legged Digit robots have been tested inside Amazon warehouses, is set to become the first publicly traded U.S. company dedicated solely to humanoid robots, beating its Silicon Valley and East Coast rivals to Wall Street.
 
-GeekWire • 1d ago
+GeekWire • 2d ago
 
 ---
 
@@ -136,11 +136,35 @@ Financial Times • 1d ago
 
 ---
 
+**[BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg](https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en)**
+
++++ Figure AI demonstrates Figure 03 humanoid robots in new use case at BMW Group Plant Spartanburg +++ Robot development runs in parallel at BMW Group Plant Spartanburg and at Figure AI +++  Assembly Hall in Spartanburg features BMW iFACTORY applications in artificial intelligence and virtualization +++
+
+BMW Group • 1d ago
+
+---
+
 **[Teradyne Drives Robotics Growth With AI: A Sign for More Upside?](https://finance.yahoo.com/technology/ai/articles/teradyne-drives-robotics-growth-ai-161600901.html)**
 
 TER's AI-driven robotics revenues are climbing fast, with strong growth, new partnerships, and a key e-commerce customer set to scale in 2026.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
+
+The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
+
+New Atlas • 8h ago
+
+---
+
+**[Bionic hands are now teaching robots to feel](https://www.foxnews.com/tech/bionic-hands-teaching-robots-feel)**
+
+ABB Robotics and PSYONIC explore using real human prosthetic touch data to train industrial robots for delicate gripping tasks in factories.
+
+Fox News • 22h ago
 
 ---
 
@@ -152,25 +176,11 @@ CNBC • 1d ago
 
 ---
 
-**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
-
-The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
-
-New Atlas • 6h ago
-
----
-
 **[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
 
 Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
 
 CBS News • 1d ago
-
----
-
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 16h ago
 
 ---
 
@@ -182,25 +192,9 @@ The Guardian • 2d ago
 
 ---
 
-**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
-
-Politico • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
-
-Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
-
-📺 FOX 5 New York
-
-👁️ 5K • 👍 12 • 💬 7 • ⏱️ 2:07 • 2d ago
-
----
 
 **[New Chinese Humanoid Robots at ICRA 2026](https://www.youtube.com/watch?v=pn69HUvg8_M)**
 
@@ -212,33 +206,31 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 ---
 
+**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+
+Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+
+📺 FOX 5 New York
+
+👁️ 5K • 👍 12 • 💬 7 • ⏱️ 2:07 • 2d ago
+
+---
+
 **[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
 China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
 📺 AI Revolution
 
-👁️ 63K • 👍 1K • 💬 229 • ⏱️ 13:45 • 4d ago
+👁️ 64K • 👍 1K • 💬 229 • ⏱️ 13:45 • 4d ago
 
 ---
 
-**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
+**[#robot #industrial #borunte #spraying #welding #welding](https://www.youtube.com/watch?v=c1Q9_5ExVTc)**
 
-2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
+📺 BORUNTE-Robot-Messi
 
-📺 Just A Dad Approved
-
-👁️ 15K • 👍 270 • 💬 162 • ⏱️ 18:57 • 2d ago
-
----
-
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
-
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
-
-📺 NewsNation
-
-👁️ 63K • 👍 1K • 💬 1K • ⏱️ 2:04 • 2d ago
+👁️ 30K • 👍 73 • ⏱️ 0:14 • 2d ago
 
 ---
 
@@ -248,17 +240,17 @@ In Derbyshire, at the National Ferret School, I say "hello" to some smelly thiev
 
 📺 Tom Scott
 
-👁️ 865K • 👍 47K • 💬 2K • ⏱️ 21:33 • 3d ago
+👁️ 874K • 👍 47K • 💬 2K • ⏱️ 21:33 • 4d ago
 
 ---
 
-**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
 
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
 
-📺 ARPO: The Robot
+📺 NewsNation
 
-👁️ 19K • 👍 40 • ⏱️ 59:56 • 23h ago
+👁️ 65K • 👍 1K • 💬 1K • ⏱️ 2:04 • 2d ago
 
 ---
 
@@ -272,23 +264,33 @@ AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) �
 
 ---
 
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+**[4,000 People Pre-Ordered UBTech U1 in Just 10 Days!](https://www.youtube.com/watch?v=d3Zenhov6X8)**
 
-Your Smart Robot Companion.
+A Chinese robotics company called UBTech just hit $1.4 million in pre-orders for a humanoid robot designed to live with you.
 
-📺 Unitree Robotics
+📺 Manav
 
-👁️ 958K • 👍 2K • 💬 455 • ⏱️ 0:31 • 2d ago
+👁️ 74K • 👍 2K • 💬 214 • ⏱️ 0:37 • 6d ago
 
 ---
 
-**[Tesla&#39;s Optimus Factory Just Hit 4 Floors — 27,000 Robots/Day by 2027](https://www.youtube.com/watch?v=2WIWdEQpO5s)**
+**[This New Wearable Robot Technology Lets Robots Feel Like Humans #robot #shorts #technology](https://www.youtube.com/watch?v=YxCQkKKGhbk)**
 
-Tesla Optimus Factory just hit 4 floors—and Tesla's bold plan for 27000 robots a day is becoming real. See the $10B factory that ...
+HapMorph: The Wearable Technology That Lets Robots Recreate Realistic Touch Scientists have developed a new haptic ...
 
-📺 Tech Revolution
+📺 uncover reality
 
-👁️ 76K • 👍 1K • 💬 170 • ⏱️ 21:01 • 6d ago
+👁️ 407K • 👍 2K • 💬 78 • ⏱️ 0:06 • 3d ago
+
+---
+
+**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
+
+Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
+
+📺 PRO ROBOTS
+
+👁️ 7K • 👍 229 • 💬 8 • ⏱️ 11:29 • 3d ago
 
 ---
 
