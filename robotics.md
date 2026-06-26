@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T17:48:56.246887+00:00'
+updated: '2026-06-26T19:49:23.744549+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 17:48 UTC  
+**Last Updated:** June 26, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-12h ago
+14h ago
 
 ---
 
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-20h ago
+22h ago
 
 ---
 
@@ -120,27 +120,11 @@ WSJ • 2d ago
 
 ---
 
-**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1h ago
-
----
-
 **[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
 
 The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
 
-New Atlas • 10h ago
-
----
-
-**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
-
-The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
-
-Financial Times • 1d ago
+New Atlas • 12h ago
 
 ---
 
@@ -150,27 +134,11 @@ Bloomberg • 1d ago
 
 ---
 
-**[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
+**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
 
-Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
+The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
 
-Yahoo Finance • 4h ago
-
----
-
-**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
-
-When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
-
-The Guardian • 2d ago
-
----
-
-**[BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg](https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en)**
-
-+++ Figure AI demonstrates Figure 03 humanoid robots in new use case at BMW Group Plant Spartanburg +++ Robot development runs in parallel at BMW Group Plant Spartanburg and at Figure AI +++  Assembly Hall in Spartanburg features BMW iFACTORY applications in artificial intelligence and virtualization +++
-
-BMW Group • 1d ago
+Financial Times • 1d ago
 
 ---
 
@@ -184,7 +152,37 @@ National Science Foundation (.gov) • 3d ago
 
 FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
-Business Insider • 7h ago
+Business Insider • 9h ago
+
+---
+
+**[Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics)**
+
+The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
+
+The Block • 6h ago
+
+---
+
+**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
+
+When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
+
+The Guardian • 2d ago
+
+---
+
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+
+OregonLive.com • 23h ago
+
+---
+
+**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
+
+Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
+
+CBS News • 2d ago
 
 ---
 
@@ -198,17 +196,7 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 📺 FOX 5 New York
 
-👁️ 5K • 👍 12 • 💬 7 • ⏱️ 2:07 • 2d ago
-
----
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 64K • 👍 1K • 💬 230 • ⏱️ 13:45 • 4d ago
+👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -220,23 +208,13 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 ---
 
-**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
-Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
-📺 PREDATOR WR
+📺 AI Revolution
 
-👁️ 4K • 👍 224 • 💬 53 • ⏱️ 14:36 • 5h ago
-
----
-
-**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
-
-2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
-
-📺 Just A Dad Approved
-
-👁️ 16K • 👍 277 • 💬 162 • ⏱️ 18:57 • 3d ago
+👁️ 65K • 👍 1K • 💬 232 • ⏱️ 13:45 • 4d ago
 
 ---
 
@@ -246,7 +224,17 @@ AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) �
 
 📺 Solving The Money Problem
 
-👁️ 36K • 👍 2K • 💬 174 • ⏱️ 10:31 • 1d ago
+👁️ 36K • 👍 2K • 💬 176 • ⏱️ 10:31 • 1d ago
+
+---
+
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
+
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
+
+📺 Tom Scott
+
+👁️ 887K • 👍 48K • 💬 2K • ⏱️ 21:33 • 4d ago
 
 ---
 
@@ -256,37 +244,47 @@ General Motors has cut 1000 jobs at its Detroit facility, and it later installed
 
 📺 NewsNation
 
-👁️ 66K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
+👁️ 67K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
 
 ---
 
-**[How... Eiffel Might Be The #1 F2p Titan Right Now | Absolute Meta CRUSHER | War Robots](https://www.youtube.com/watch?v=Qwn5XUCiMK0)**
+**[This robot was built to chase you 👀 #trendingshorts #robot #tech](https://www.youtube.com/watch?v=FqzDqlaCNNo)**
 
-Eiffel is a monster right now. Titan rankings seem like they are constantly moving around but this might be the #1 f2p titan.
+Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designed to autonomously follow and film its owner.
 
-📺 PREDATOR WR
+📺 Rowan Cheung
 
-👁️ 13K • 👍 450 • 💬 70 • ⏱️ 14:02 • 1d ago
-
----
-
-**[Elon Musk Revealed All New Tesla Robot Models Coming in 2026](https://www.youtube.com/watch?v=9A-PizbVovo)**
-
-Elon Musk's new lineup of Tesla robots highlights the company's growing focus on humanoid robotics, artificial intelligence, and ...
-
-📺 Carros Show
-
-👁️ 9K • 👍 309 • 💬 35 • ⏱️ 1:04:55 • 5d ago
+👁️ 7K • 👍 790 • 💬 15 • ⏱️ 1:08 • 3h ago
 
 ---
 
-**[Scientists Create 5-in-1 Surgical Micro-robot](https://www.youtube.com/watch?v=0TushliM9Pk)**
+**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
 
-Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
+2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
 
-📺 Dr Ben Miles
+📺 Just A Dad Approved
 
-👁️ 52K • 👍 7K • 💬 132 • ⏱️ 1:44 • 2h ago
+👁️ 16K • 👍 280 • 💬 162 • ⏱️ 18:57 • 3d ago
+
+---
+
+**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
+
+Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+
+📺 ARPO: The Robot
+
+👁️ 24K • 👍 43 • ⏱️ 59:56 • 1d ago
+
+---
+
+**[4,000 People Pre-Ordered UBTech U1 in Just 10 Days!](https://www.youtube.com/watch?v=d3Zenhov6X8)**
+
+A Chinese robotics company called UBTech just hit $1.4 million in pre-orders for a humanoid robot designed to live with you.
+
+📺 Manav
+
+👁️ 76K • 👍 2K • 💬 234 • ⏱️ 0:37 • 6d ago
 
 ---
 
