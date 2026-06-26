@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-25T23:53:04.680412+00:00'
+updated: '2026-06-26T03:47:01.431094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 25, 2026 at 23:53 UTC  
+**Last Updated:** June 26, 2026 at 03:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes -The reason? Amazon engineers reportedly found a narrow jailbreak that could bypass Fable’s cybersecurity classifiers -Anthropic complied but publicly pushed back, calling the action unfair -Trump met Dario Amodei at the G7 and softened his stance, but the directive was never officially lifted -June 26 (today): Congressional deadline for Commerce Secretary Lutnick to respond in writing about the export controls Prediction markets are pricing ~57% odds of restoration before July 1. Developers have been stuck on Opus 4.8 this whole time. This whole situation raises a serious question: if a government can pull your AI model offline in 90 minutes, what does that mean for anyone building on closed, hosted models?
 
-13h ago
+17h ago
 
 ---
 
@@ -49,7 +49,15 @@ Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their mo
 
 The last few days, I've been getting obviously AI robocallers trying to sell me Medicare plans. (I'm not old enough for Medicare for another 20 years.) Sometimes it's a male voice, sometimes female. Always a different name. They've added a little trick where they start their speech then cough or sneeze, then say "Sorry about that," or a similar apology then continue. But if you try to interrupt them, they just keep talking, so you know it's AI. And they do the cough/apology in EVERY call, male or female voice, in just about the same spot. It's really annoying, and borderline offensive that they are trying so hard to pretend to be human.
 
-6h ago
+10h ago
+
+---
+
+**[A case study in source-grounded fine-tuning: I trained an 8B model on a public-domain 19th-century corpus to force it to cite chapter/verse — here's where it works and where it fails](https://www.reddit.com/r/artificial/comments/1ufu3me/a_case_study_in_sourcegrounded_finetuning_i/)**
+
+Solo project, sharing it here for the AI angle rather than the subject matter. I fine-tuned Llama 3.1 8B (QLoRA, single T4) on the complete works of a 19th-century author whose corpus is fully public domain. The interesting problem wasn't the domain — it was trying to get a small model to cite its source (book, chapter, item) on every answer instead of just asserting things confidently. What I learned, which might be useful to others doing domain fine-tunes: - Teaching the *format* of citation is easy. Teaching *correct* citation is hard. The model reliably produces "Source: [Book], chapter X, item Y" — and the concept is usually right, but the exact number is often wrong. It learned the shape of grounding without the precision. - That gap is exactly why I run the production version as RAG over the same corpus instead of trusting the fine-tune's recall. The fine-tune sets tone and structure; retrieval handles the facts. - For a low-resource target (Brazilian Portuguese, archaic register), ~4.9k well-structured Q&A pairs was enough to shift tone meaningfully but not enough to make it authoritative on its own. Model + dataset are open (Apache-2.0) if anyone wants to poke at the data structure: huggingface.co/ia-espirita Question for the sub: for those who've done domain fine-tunes — have you found any reliable way to get a small model to ground specific citations correctly, or is RAG just the honest answer and fine-tuning should never be trusted for exact references? https://iaespirita.com/noticias/modelos-riv-ai-1260-downloads-hugging-face
+
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ The last few days, I've been getting obviously AI robocallers trying to sell me 
 
 For me, it would probably be search, writing assistance, and productivity tools. I'm curious-what Al-powered tool do you use most often without even thinking about it?
 
-9h ago
+13h ago
 
 ---
 
@@ -65,15 +73,7 @@ For me, it would probably be search, writing assistance, and productivity tools.
 
 AI used to be fun to mess with but not 30 bucks a month interesting :)
 
-5h ago
-
----
-
-**[I gave 10 LLMs a private channel during a blind debate. The instant statements were revealed, one used it to form a secret alliance with its strongest opponent — and scripted how it would 'play it at the table.'](https://www.reddit.com/r/artificial/comments/1ufpogw/i_gave_10_llms_a_private_channel_during_a_blind/)**
-
-Built a tool that runs structured debates between multiple LLMs, blind opening statements, then an open floor, plus a sealed side-channel that any two seats can use privately. Ran "5 office jobs defunct by 2028." The second the blind statements dropped, DeepSeek opened a private line to Claude (the most skeptical seat), proposed an alliance, and literally said "here's how I'll play it at the table" — scripting its public position in advance. Nobody prompted any of this. Full writeup, the verbatim exchange, and why I don't think "self-preservation" is the right frame: https://reports.thert.ai/the-back-channel
-
-🔗 [reports.thert.ai](https://reports.thert.ai/the-back-channel) • 41m ago
+9h ago
 
 ---
 
@@ -81,7 +81,27 @@ Built a tool that runs structured debates between multiple LLMs, blind opening s
 
 The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 12h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cwyklykn5dwo) • 16h ago
+
+---
+
+**[‘Disturbing and incomprehensible’: Co-owner of Tampa smoothie shop accused of creating AI-generated child pornography](https://www.reddit.com/r/artificial/comments/1ufrejc/disturbing_and_incomprehensible_coowner_of_tampa/)**
+
+🔗 [wfla.com](https://www.wfla.com/news/hillsborough-county/disturbing-and-incomprehensible-co-owner-of-tampa-smoothie-shop-accused-of-creating-ai-generated-child-pornography/) • 3h ago
+
+---
+
+**[Voice AI top blockbuster deals of the month](https://www.reddit.com/r/artificial/comments/1ufutco/voice_ai_top_blockbuster_deals_of_the_month/)**
+
+🔗 [substack.com](https://substack.com/@mehtology/note/p-199984742) • 42m ago
+
+---
+
+**[I gave 10 LLMs a private channel during a blind debate. The instant statements were revealed, one used it to form a secret alliance with its strongest opponent — and scripted how it would 'play it at the table.'](https://www.reddit.com/r/artificial/comments/1ufpogw/i_gave_10_llms_a_private_channel_during_a_blind/)**
+
+Built a tool that runs structured debates between multiple LLMs, blind opening statements, then an open floor, plus a sealed side-channel that any two seats can use privately. Ran "5 office jobs defunct by 2028." The second the blind statements dropped, DeepSeek opened a private line to Claude (the most skeptical seat), proposed an alliance, and literally said "here's how I'll play it at the table" — scripting its public position in advance. Nobody prompted any of this. Full writeup, the verbatim exchange, and why I don't think "self-preservation" is the right frame: https://reports.thert.ai/the-back-channel
+
+🔗 [reports.thert.ai](https://reports.thert.ai/the-back-channel) • 4h ago
 
 ---
 
@@ -89,31 +109,7 @@ The firm alleged that Alibaba used fraudulent accounts to access data from its C
 
 Midjourney, an artificial intelligence startup known for generative images and videos, has announced its first hardware project. CEO David Holz unveiled the Midjourney Scanner, a full-body ultrasound machine aimed at the personal health sector. "No such device has ever been built until now," Holz said, claiming the technology is more advanced than MRI scanners. While the company plans to open "Midjourney Spa" locations, broader applications may require FDA approval.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/ai-video-startup-midjourney-debuts-ultrasound-machine-7368284/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 6h ago
-
----
-
-**[After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing](https://www.reddit.com/r/artificial/comments/1uf88ul/after_anthropic_shutdown_chinas_zai_closes/)**
-
-Chinese AI company Z.ai (formerly Zhipu AI) says its new GLM-5.2 model is now performing close to leading models from OpenAI and Anthropic on coding and AI agent benchmarks. The company claims the model delivers competitive results at a much lower cost and has been optimized to run on domestic Chinese hardware, including Huawei chips. Z.ai is also planning a dual listing in Hong Kong and Shanghai to fund its long-term AGI ambitions. The news comes as China's AI sector continues to narrow the gap with leading U.S. AI labs despite ongoing restrictions on advanced chip access. Are we entering a world where frontier AI is no longer dominated by a handful of U.S. companies?
-
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/) • 11h ago
-
----
-
-**[**Observed inconsistency in Claude AI's link handling — and a standing order you can use right now**](https://www.reddit.com/r/artificial/comments/1ufq3hl/observed_inconsistency_in_claude_ais_link/)**
-
-While working with Claude on a web project, I noticed something worth raising with the community. Claude is capable of three things that together reveal an inconsistency: If you give Claude a URL directly — including one with a #anchor — it fetches it immediately. If you ask Claude to find a hyperlink within a remotely hosted HTML page, it finds the href value and reads it correctly. And yet, having just found and read a href value within a fetched page, Claude does not automatically follow it to its destination — even though it has everything it needs to do so. Finding a link and following it are treated as two separate operations requiring user intervention between them, when they should be one seamless operation. **The fix — a standing order you can paste into any Claude conversation right now:** Copy and paste the following into your conversation with Claude to implement improved link handling immediately: --- *Standing order — link handling:* *Mode 1 — Prompted offering (default): When you find links that seem relevant to the current task while reading a page, surface them and offer to follow any among them. Do not follow them without my indication.* *Mode 2 — Explicit follow: When I ask you to follow a specific link, follow it immediately as a single seamless operation — find the href, fetch the destination, report what you find. One request, complete operation.* *Crawling — barred pending responsible deliberation.* --- This works immediately in any conversation. Modes 1 and 2 address the inconsistency right now, without waiting for any system-wide fix. Crawling is deliberately left out pending proper discussion of scope, depth, and resource limits — which I think deserves its own separate conversation. Has anyone else encountered this inconsistency? And does the proposed standing order seem alright and useful to others in the community?
-
-23m ago
-
----
-
-**[Linux Foundation wants to use DNS as the identity layer for AI agents](https://www.reddit.com/r/artificial/comments/1ufesgh/linux_foundation_wants_to_use_dns_as_the_identity/)**
-
-The Linux Foundation just announced its intent to launch the Agent Name Service (ANS), an open standard for providing AI agents with verifiable identities. The basic idea is to reuse existing internet infrastructure, mainly DNS so that an AI agent can prove: which organization or domain it belongs to What is allowed to do whether its identity and history can be verified how other agents or systems should discover and interact with it
-
-7h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/ai-video-startup-midjourney-debuts-ultrasound-machine-7368284/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 10h ago
 
 ---
 
@@ -123,73 +119,71 @@ The Linux Foundation just announced its intent to launch the Agent Name Service 
 
 **[The AI Data-Center Boom Is Sparking a Third Wave of Inflation](https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e)**
 
-WSJ • 22h ago
+WSJ • 1d ago
 
 ---
 
-**[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)**
+**[Chinese A.I. Models Gain Ground on Anthropic and OpenAI](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html)**
 
-Reuters • 1d ago
-
----
-
-**[Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities](https://www.bbc.com/news/articles/cwyklykn5dwo)**
-
-The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.
-
-BBC • 20h ago
+The New York Times • 12h ago
 
 ---
 
-**[Distillation: The New U.S.–China AI Fight](https://www.forbes.com/sites/craigsmith/2026/06/25/distillation-the-new-uschina-ai-fight/)**
+**[Japan's diverse AI story the most interesting in Asia: Barclays](https://www.cnbc.com/video/2026/06/26/ajay-rajadhyaksha.html)**
 
-America's powerful AI models are deemed national security assets, with China accused of stealing them through "distillation."
+Ajay Rajadhyaksha of Barclays says the tech-driven market rally is likely to continue as long as AI remains a revolutionary technology. He favors Japan the most in Asia, due to its diverse AI and clean structural growth stories. He also expects the Bank of Japan to keep the yen weak to support the economy.
 
-Forbes • 1h ago
-
----
-
-**[California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce](https://www.gov.ca.gov/2026/06/25/california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artificial-intelligences-impacts-on-the-workforce/)**
-
-California State Portal | CA.gov • 9h ago
+CNBC • 43m ago
 
 ---
 
-**[California State Government Launches AI Job Loss Tracker as Layoff Fears Grow](https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow)**
+**[‘Disgusting and vile’: Locals react to arrest of Tampa business owner on AI child porn charges](https://www.wfla.com/news/hillsborough-county/disgusting-and-vile-locals-react-to-arrest-of-tampa-business-owner-on-ai-child-porn-charges/)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[California launches dashboard to track AI-related unemployment claims](https://www.sacbee.com/news/politics-government/capitol-alert/article316267890.html)**
-
-The tracker is a partnership between the state EDD and researchers at the UC California Policy Lab.
-
-Sacramento Bee • 6h ago
+WFLA • 1h ago
 
 ---
 
-**[California launches AI job loss tracker as layoff fears grow](https://www.ocregister.com/2026/06/25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow/)**
+**[Arkansas lawmaker forms trade association focused on AI, data center policy](https://katv.com/news/local/arkansas-lawmaker-forms-trade-association-focused-on-ai-data-center-policy-aaron-pilkington-google-data-center-little-rock-avaio-pulaski-county-moratorium-meta-utilities-rates-electric-grid-power-advisory-committee-artificial-intelligence)**
 
-The tool links multiple measures of an occupation’s AI exposure to the state’s monthly unemployment insurance claims data to monitor for signs of labor market disruption in real time.
+The Arkansas Connected Communities Association (ARCC), a trade association focused on AI data center policy, was recently established to bring together stakehol
 
-Orange County Register • 11m ago
-
----
-
-**[IBM stock seesaws after unveiling chip 'the size of a fingernail' in AI push](https://finance.yahoo.com/markets/stocks/article/ibm-stock-seesaws-after-unveiling-chip-the-size-of-a-fingernail-in-ai-push-130640214.html)**
-
-IBM soared in premarket trading after announcing a non-chip computing breakthrough.
-
-Yahoo Finance • 5h ago
+KATV • 26m ago
 
 ---
 
-**[On Semiconductor strikes $7 billion deal for Synaptics in physical AI push](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html)**
+**[Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead)**
 
-ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.
+Bloomberg.com • 11h ago
 
-CNBC • 2h ago
+---
+
+**[Apple Raises Prices on Macs and iPads Amid the A.I. Boom](https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom](https://www.theguardian.com/technology/2026/jun/25/apple-price-hike)**
+
+Company says it cannot shield customers from memory and storage chip costs – and iPhone hikes could be next
+
+The Guardian • 2h ago
+
+---
+
+**[Investors bet on AI again after Micron reports 346% sales jump](https://www.cnn.com/2026/06/25/business/micron-results-ai-stocks-volatility)**
+
+On Tuesday, investors were dumping AI stocks, worried that frothy valuations may be running away from reality. By Thursday, they were believers again.
+
+CNN • 16h ago
+
+---
+
+**[Micron says the AI party is far from over, but not all are celebrating](https://www.cnbc.com/2026/06/25/micron-says-the-ai-party-is-far-from-over-but-not-all-are-celebrating.html)**
+
+A blowout quarter for the memory maker is only lifting certain parts of the data center buildout.
+
+CNBC • 7h ago
 
 ---
 
@@ -199,13 +193,13 @@ CNBC • 2h ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 744 • 💬 1201 • 1d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 753 • 💬 1216 • 1d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](https://news.ycombinator.com/item?id=48674446)**
 
-⬆️ 565 • 💬 298 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+⬆️ 580 • 💬 306 • 12h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -213,7 +207,7 @@ CNBC • 2h ago
 
 A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 
-⬆️ 441 • 💬 76 • 1d ago • [RubyLLM](https://rubyllm.com/)
+⬆️ 442 • 💬 78 • 1d ago • [RubyLLM](https://rubyllm.com/)
 
 ---
 
@@ -221,7 +215,7 @@ A single, beautiful Ruby framework for all major AI providers. Easily build chat
 
 A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer's algorithm, "the first one's fr...
 
-⬆️ 328 • 💬 416 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+⬆️ 329 • 💬 416 • 2d ago • [blog.dshr.org](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 
 ---
 
@@ -229,7 +223,7 @@ A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms w
 
 The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his most pointed public assessment yet of Elon Musk's AI ambitions.
 
-⬆️ 236 • 💬 267 • 1d ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+⬆️ 236 • 💬 268 • 1d ago • [Fortune](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 
 ---
 
@@ -237,7 +231,7 @@ The LinkedIn co-founder and investor in both Anthropic and OpenAI offers his mos
 
 Proprietary AI is both too expensive and too centralized in control for most countries and companies to rely upon.
 
-⬆️ 228 • 💬 144 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
+⬆️ 232 • 💬 144 • 1d ago • [Techstrong.ai](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
 
 ---
 
@@ -245,27 +239,25 @@ Proprietary AI is both too expensive and too centralized in control for most cou
 
 Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
 
-⬆️ 172 • 💬 78 • 7h ago • [GitHub](https://github.com/inkeep/open-knowledge)
+⬆️ 221 • 💬 104 • 11h ago • [GitHub](https://github.com/inkeep/open-knowledge)
 
 ---
 
 **[The Low-Tech AI of Elden Ring](https://news.ycombinator.com/item?id=48643489)**
 
-⬆️ 163 • 💬 96 • 2d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+⬆️ 164 • 💬 96 • 2d ago • [nega.tv](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+
+---
+
+**[AI children's books, body horror edition](https://news.ycombinator.com/item?id=48681250)**
+
+⬆️ 155 • 💬 50 • 2h ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
 
 ---
 
 **[Big AI labs are hiring philosophers](https://news.ycombinator.com/item?id=48662452)**
 
-⬆️ 147 • 💬 132 • 1d ago • [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
-
----
-
-**[Political bias in AI: Where the AI models stand](https://news.ycombinator.com/item?id=48672779)**
-
-Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
-
-⬆️ 103 • 💬 210 • 10h ago • [Trakkr](https://trakkr.ai/bias)
+⬆️ 147 • 💬 133 • 1d ago • [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 
 ---
 
@@ -279,7 +271,17 @@ Go to https://ground.news/sabine to get 40% off the Vantage plan and see through
 
 📺 Sabine Hossenfelder
 
-👁️ 241K • 👍 15K • 💬 3K • ⏱️ 12:14 • 1d ago
+👁️ 252K • 👍 16K • 💬 3K • ⏱️ 12:14 • 1d ago
+
+---
+
+**[Dear AI Companies: Stop the “Doom Trolling”](https://www.youtube.com/watch?v=aHxwZEXHwps)**
+
+Cal Newport takes a critical look at recent AI News. More from Cal Download Cal's FREE guide to cultivating a deeper life: ...
+
+📺 Cal Newport
+
+👁️ 13K • 👍 722 • 💬 171 • ⏱️ 22:05 • 17h ago
 
 ---
 
@@ -289,47 +291,27 @@ Taken from JRE #2518 w/Tim Dillon YouTube: https://youtu.be/wTdqkloiSvk JRE on S
 
 📺 JRE Clips
 
-👁️ 272K • 👍 6K • 💬 1K • ⏱️ 15:48 • 1d ago
+👁️ 285K • 👍 6K • 💬 1K • ⏱️ 15:48 • 1d ago
 
 ---
 
-**[How to Actually Use AI Tools in 2026 (Full Guide)](https://www.youtube.com/watch?v=HPw4eiqOZfU)**
+**[REVEALED: How officials using AI to crack down on BILLIONS in fraud](https://www.youtube.com/watch?v=Km43PJgVsNo)**
 
-Get SCARILY Good with AI https://www.skool.com/ai-fluency/about In this video, I explain the five AI tool categories that matter, ...
+The DOJ reveals a $6.5 billion nationwide healthcare fraud scheme, where perpetrators indulged in luxury items. HHS Assistant ...
 
-📺 Parker Prompts
+📺 Fox News
 
-👁️ 9K • 💬 7 • ⏱️ 12:40 • 7h ago
-
----
-
-**[China&#39;s Free AI Just Embarrassed Claude.. ](https://www.youtube.com/watch?v=8xkYrUz3Iuc)**
-
-China just released a FREE open AI model that's shaking up the entire AI industry. In this week's AI Updates, we break down ...
-
-📺 Your AI Guy
-
-👁️ 11K • 👍 279 • 💬 58 • ⏱️ 15:48 • 22h ago
+👁️ 17K • 👍 436 • 💬 318 • ⏱️ 4:19 • 16h ago
 
 ---
 
-**[NVIDIA Wants to Replace You With AI](https://www.youtube.com/watch?v=go-OkYVfcdc)**
+**[I Tried Dating AI](https://www.youtube.com/watch?v=xibYjTT7kHs)**
 
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+In this video I went on multiple AI dates to learn about the future of relationships. hopefully you enjoy and hopefully i wont take so ...
 
-📺 DeFranco News Clips
+📺 Husk IRL
 
-👁️ 756K • 👍 39K • 💬 3K • ⏱️ 1:26 • 2d ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋 | Ultimate Oddly Satisfying AI ASMR #5 #aiasmr](https://www.youtube.com/watch?v=A-uY6orWpdg)**
-
-aiasmr #bedasmr #oddlysatisfying #unitedstates Enter the universe of @aiasmrsatisfait! What Is Your Ideal Magical Bed?
-
-📺 AI ASMR Satisfait
-
-👁️ 17K • 💬 4 • ⏱️ 2:23 • 23h ago
+👁️ 100K • 👍 6K • 💬 1K • ⏱️ 16:22 • 1d ago
 
 ---
 
@@ -339,35 +321,47 @@ Start your workflow automation using Higgsfield today: https://higgsfield.ai/s/m
 
 📺 Pooja Dutt
 
-👁️ 19K • 👍 641 • 💬 110 • ⏱️ 14:28 • 2d ago
+👁️ 19K • 👍 648 • 💬 112 • ⏱️ 14:28 • 2d ago
 
 ---
 
-**[Meta’s AI Clusterf*ck Is Humiliating Zuckerberg](https://www.youtube.com/watch?v=SFZ9ZlNyljc)**
+**[How to Make Apple Style Animations With AI](https://www.youtube.com/watch?v=wyz_xDprYGY)**
 
-In this video, I break down what is happening inside Meta: the layoffs, the collapsing employee morale, the AI restructuring chaos, ...
+Make Apple Style Animations with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=robo23 In this video, I show how to create ...
 
-📺 House of El - AI
+📺 Roboverse
 
-👁️ 105K • 👍 8K • 💬 2K • ⏱️ 24:31 • 1d ago
-
----
-
-**[AI was trained on my WHAT?!](https://www.youtube.com/watch?v=dh9aG-WkNu4)**
-
-📺 Emily Hopkins
-
-👁️ 427K • 👍 19K • 💬 210 • ⏱️ 0:28 • 1d ago
+👁️ 10K • ⏱️ 9:03 • 14h ago
 
 ---
 
-**[US: Anthropic Accuses Alibaba Of Massive AI &#39;Theft&#39; Campaign | Firstpost Live | N18G](https://www.youtube.com/watch?v=RNTULvtiaMA)**
+**[Kai REJECTS Him For Having an AI Poster](https://www.youtube.com/watch?v=mT56glFVLOY)**
 
-A fresh battle in the global AI race has erupted after Anthropic accused Alibaba of using thousands of fraudulent accounts to ...
+Kai Cenat rejected this guy for making an ai poster for streamer university #shorts #kai.
 
-📺 Firstpost
+📺 EditedShorts
 
-👁️ 6K • 👍 53 • 💬 34 • ⏱️ 5:33 • 13h ago
+👁️ 100K • 👍 2K • 💬 20 • ⏱️ 0:16 • 2d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋 | Ultimate Oddly Satisfying AI ASMR #5 #aiasmr](https://www.youtube.com/watch?v=A-uY6orWpdg)**
+
+aiasmr #bedasmr #oddlysatisfying #unitedstates Enter the universe of @aiasmrsatisfait! What Is Your Ideal Magical Bed?
+
+📺 AI ASMR Satisfait
+
+👁️ 18K • 💬 4 • ⏱️ 2:23 • 1d ago
+
+---
+
+**[2 Weeks With Siri AI - The Good, The Bad and The Ugly](https://www.youtube.com/watch?v=PjaN02XFsow)**
+
+I've been using Siri AI for 2 weeks now. Here are some great, and not so great use cases. *running beta 2 Personal site: ...
+
+📺 Himels Tech
+
+👁️ 13K • 👍 305 • 💬 82 • ⏱️ 9:31 • 1d ago
 
 ---
 
@@ -383,7 +377,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 67,107 • ❤️ 2,474 • 2d ago
+⬇️ 67,107 • ❤️ 2,491 • 2d ago
 
 ---
 
@@ -395,7 +389,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 70,743 • ❤️ 884 • 1d ago
+⬇️ 70,743 • ❤️ 904 • 1d ago
 
 ---
 
@@ -407,7 +401,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 165,187 • ❤️ 611 • 6d ago
+⬇️ 165,187 • ❤️ 623 • 6d ago
 
 ---
 
@@ -419,7 +413,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 495,813 • ❤️ 2,361 • 6d ago
+⬇️ 495,813 • ❤️ 2,368 • 6d ago
 
 ---
 
@@ -431,7 +425,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `text-generation` `9.0B`
 
-⬇️ 134,294 • ❤️ 473 • 3d ago
+⬇️ 134,294 • ❤️ 497 • 3d ago
 
 ---
 
@@ -443,7 +437,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 10,160 • ❤️ 389 • 1d ago
+⬇️ 10,160 • ❤️ 394 • 1d ago
 
 ---
 
@@ -455,7 +449,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 51,717 • ❤️ 715 • 6d ago
+⬇️ 51,717 • ❤️ 716 • 6d ago
 
 ---
 
@@ -467,7 +461,7 @@ GLM-5.2 is a large language model optimized for long-horizon tasks, featuring a 
 
 `text-generation` `753.9B`
 
-⬇️ 88,915 • ❤️ 384 • 2d ago
+⬇️ 88,915 • ❤️ 388 • 2d ago
 
 ---
 
@@ -479,7 +473,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 2,996 • ❤️ 242 • 2d ago
+⬇️ 2,996 • ❤️ 247 • 2d ago
 
 ---
 
@@ -491,7 +485,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 3,389 • ❤️ 237 • 16h ago
+⬇️ 3,389 • ❤️ 251 • 20h ago
 
 ---
 
@@ -545,7 +539,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 60 • 💬 1 • ⭐ 84,250 • 33mo ago
+▲ 60 • 💬 1 • ⭐ 84,334 • 33mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -557,35 +551,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 102 • 💬 4 • ⭐ 88,488 • 18mo ago
+▲ 102 • 💬 4 • ⭐ 88,552 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
-
-*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
-
-🏢 Microsoft Research
-
-SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
-
-▲ 246 • 💬 4 • ⭐ 9,251 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 8 • 💬 1 • ⭐ 8,954 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -597,23 +565,35 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 Language-based world models enable agentic environment simulation across multiple domains and enhance general agent performance through scalable simulation and improved downstream task performance.
 
-▲ 113 • 💬 4 • ⭐ 475 • 3d ago
+▲ 116 • 💬 4 • ⭐ 475 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.24597) • [💻 code](https://github.com/QwenLM/Qwen-AgentWorld)
 
 ---
 
-**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
 
-*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
 
-🏢 PaddlePaddle
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
+▲ 8 • 💬 1 • ⭐ 9,017 • 5mo ago
 
-▲ 23 • 💬 1 • ⭐ 83,794 • 24d ago
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
-[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+---
+
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
+
+*Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
+
+🏢 Microsoft Research
+
+SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
+
+▲ 246 • 💬 4 • ⭐ 9,289 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
 ---
 
@@ -629,6 +609,20 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 ---
 
+**[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264)**
+
+*Zelun Zhang, Hongen Liu, Suyin Liang et al. (15 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
+
+▲ 23 • 💬 1 • ⭐ 83,843 • 24d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +633,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 77.9k • 🔱 10.1k • 6h ago
+⭐ 77.9k • 🔱 10.1k • 10h ago
 
 ---
 
@@ -649,7 +643,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 58.0k • 🔱 2.9k • 1h ago
+⭐ 58.4k • 🔱 3.0k • 2h ago
 
 ---
 
@@ -659,7 +653,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.7k • 🔱 1.0k • 7h ago
+⭐ 10.8k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -669,7 +663,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.3k • 🔱 410 • 1d ago
+⭐ 5.3k • 🔱 412 • 1m ago
 
 ---
 
@@ -679,37 +673,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 4.9k • 🔱 584 • 1m ago
-
----
-
-**[nexu-io/html-video](https://github.com/nexu-io/html-video)**
-
-Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.
-
-`HTML` `ai-agent` `apache-2` `coding-agent` `css` `ffmpeg`
-
-⭐ 3.5k • 🔱 438 • 4d ago
-
----
-
-**[GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)**
-
-AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.
-
-`Python`
-
-⭐ 2.3k • 🔱 215 • 3d ago
-
----
-
-**[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)**
-
-Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
-
-`JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
-
-⭐ 1.9k • 🔱 138 • 3d ago
+⭐ 4.9k • 🔱 587 • 3m ago
 
 ---
 
@@ -719,7 +683,17 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 1.8k • 🔱 260 • 13h ago
+⭐ 1.9k • 🔱 272 • 17h ago
+
+---
+
+**[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)**
+
+Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+
+`JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
+
+⭐ 1.9k • 🔱 139 • 3d ago
 
 ---
 
@@ -730,6 +704,26 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 `Python`
 
 ⭐ 1.7k • 🔱 151 • 9d ago
+
+---
+
+**[Forward-Future/loop-library](https://github.com/Forward-Future/loop-library)**
+
+A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
+
+`JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
+
+⭐ 1.7k • 🔱 146 • 9h ago
+
+---
+
+**[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)**
+
+国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
+
+`Shell` `apple-intelligence`
+
+⭐ 1.6k • 🔱 84 • 12d ago
 
 ---
 

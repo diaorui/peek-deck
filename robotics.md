@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-25T23:53:04.698802+00:00'
+updated: '2026-06-26T03:47:01.448737+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 25, 2026 at 23:53 UTC  
+**Last Updated:** June 26, 2026 at 03:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 **[Robotica arm 3d printed](https://www.reddit.com/r/robotics/comments/1uf0mf1/robotica_arm_3d_printed/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
 
-15h ago
+19h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Mondo Robotics on 𝕏: https://x.com/mondorobotics/status/2059305305553723
 
 I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a university project. It's so hard to iterate because as soon as I get close to making progress, I have to power the whole thing off and replace the battery. Now I know you should run heavy processing offline and communicate with the robot over a network, but what I am doing is basically ROS2 troubleshooting for which I need the setup exactly as it will be during deployment. Exactly how is this "robotics revolution" powered by vision-language-action models supposed to work, when the most popular quadruped cannot even power a jetson for more than 15 minutes standing still??? I always thought VLA was an impractical idea, but now I am even less convinced.
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I have to use a Unitree Go1 with a jetson AGX orin strapped to it for a universi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 16h ago
+🔗 [youtu.be](https://youtu.be/XQdOJ0K_NJU) • 20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 **[I mean chat only helped a little 🫪](https://www.reddit.com/r/robotics/comments/1uf1o8e/i_mean_chat_only_helped_a_little/)**
 
-17h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, For the past couple of weeks I have been working on a simulator pro
 
 Is this the Move-37 moment for flooring? I know, this machine is engineered for this job and probably needs close to perfect conditions to work, hence lacking the "creativity" of AlphaGo. But still, don't look where we are today, but 2 more machines down the line. Seems frightening for flooring installers at least.
 
-15h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is this the Move-37 moment for flooring? I know, this machine is engineered for 
 
 （Translating this interesting Japanese post into English for the community! [Repost/Translation] Original link provided at the end.） We are diving right into microcontroller-based control today to explore some new IMU sensors for the Mini Pupper. Here is the breakdown: Table of contents BNO055 Integrating the BNO055 into Mini Pupper Key Notes Party Trick Time! Conclusion BNO055 Previously, I used the ATOM Matrix for control and had fun experimenting with attitude control using its built-in MPU6886 IMU sensor. My goal was to track the Yaw angle (rotation around the gravity axis) so the robot could keep facing the same direction even when the floor beneath it rotated. However, the MPU6886 suffered from significant Yaw drift, forcing me to abandon that approach. In this post, I’m switching to a different IMU sensor to finally achieve accurate Yaw control. To be fair, it's no surprise that a 6-axis IMU like the MPU6886 struggles with Yaw. That said, even with another 6-axis sensor like the MPU6050, you can actually get a relatively low-drift Yaw angle after a proper offset calibration. I could have gone with the MPU6050, but I decided to try out the BNO055 9-axis IMU sensor instead. Honestly, while the internal processing of the BNO055 is a bit of a black box, it delivers highly accurate attitude angles. You can get precise orientation data right out of the box without any tedious calibration or manual compensation using this sample code. Integrating the BNO055 into Mini Pupper I could have simply added the BNO055 to my previous ATOM Matrix setup. However, adding an extra IMU to a board that already integrates an MPU6886 felt way too redundant, and I just couldn't accept it. So, I opted for the ATOM Lite as the controller instead. BNO055 Circuit Board Key Notes While the BNO055 communicates via I2C, I ran into an issue where using M5Atom.h from the M5Stack Arduino library prevented me from mapping custom I2C pins for the Adafruit_BNO055 library. https://preview.redd.it/obc4fr764r8h1.png?width=1196&format=png&auto=webp&s=72d581213069e44203c269b73a8353f036312c93 To bypass this, I skipped the M5Stack library entirely and programmed the ATOM Lite using the standard ESP32 Arduino framework instead. This allowed me to freely specify the I2C pins, and communication with the BNO055 worked flawlessly. In this setup, I assigned Wire.begin(25, 21) for the BNO055 and Wire1.begin(22, 19) for the PCA9685 servo driver. I can confirm that everything runs perfectly without any issues! Reading attitude data with the BNO055, controlling the servos with the PCA9685, and lighting up the NeoPixels —— I've finally built my ideal board! Party trick Time! Thanks to the BNO055, I can now get highly accurate orientation angles. No Kalman filtering or complex algorithms needed—I just used the raw angle data straight from the sensor. The BNO055 is a beast and made this incredibly easy. I tested out the Yaw-based turn control to keep the robot locked onto a single heading while rotating. The longed-for Mini Pupper party trick Looks great! The walking gaits I programmed earlier are also working perfectly. ATOM Lite version Mini Pupper is also doing very well Even when the floor is tilted, parallel control based on foot height is smoothly achieved using only the attitude angle P control of BNO055. Conclusion I had a blast using the BNO055 9-axis IMU sensor to control the Mini Pupper. The BNO055 is honestly a game-changer—it finally allowed me to bring my dream Mini Pupper party trick to life! It's incredibly rewarding to watch this little robot get smarter and smarter. I'll definitely keep learning and experimenting! Original Japanese Post Original X Post #1 (Media) Original X Post #2 (Media) Original X Post #3 (Media) Original X Post #4 (Media)
 
-20h ago
+1d ago
 
 ---
 
@@ -126,25 +126,25 @@ CBS News • 1d ago
 
 ---
 
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+**[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
 
-OregonLive.com • 3h ago
-
----
-
-**[Pasco teen's robotics program inspires next generation of STEM students](https://ca.news.yahoo.com/pasco-teens-robotics-program-inspires-232623712.html)**
-
-A Pasco County high school student is sharing her passion for robotics with younger students, hoping to inspire the next generation of engineers through a free community program.
-
-Yahoo News Canada • 26m ago
+National Science Foundation (.gov) • 2d ago
 
 ---
 
-**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
+**[Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race](https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html)**
 
-The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
+Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
 
-Financial Times • 22h ago
+CNBC • 1d ago
+
+---
+
+**[Teradyne Drives Robotics Growth With AI: A Sign for More Upside?](https://finance.yahoo.com/technology/ai/articles/teradyne-drives-robotics-growth-ai-161600901.html)**
+
+TER's AI-driven robotics revenues are climbing fast, with strong growth, new partnerships, and a key e-commerce customer set to scale in 2026.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -154,11 +154,9 @@ Politico • 2d ago
 
 ---
 
-**[Inside India newsletter: Meet the humans teaching robots to perform routine tasks, as India finds a way to enter the AI race](https://www.cnbc.com/2026/06/25/inside-india-newsletter-humans-are-teaching-robots-to-do-ai.html)**
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-Several companies have cropped up in India providing video training data made by humans that is being used to teach robots in the U.S. and China.
-
-CNBC • 23h ago
+OregonLive.com • 7h ago
 
 ---
 
@@ -170,19 +168,19 @@ The Guardian • 1d ago
 
 ---
 
-**[Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI | NVIDIA Technical Blog](https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/)**
-
-Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional safety which was built for structured…
-
-NVIDIA Developer • 3d ago
-
----
-
 **[Bionic hands are now teaching robots to feel](https://www.foxnews.com/tech/bionic-hands-teaching-robots-feel)**
 
 ABB Robotics and PSYONIC explore using real human prosthetic touch data to train industrial robots for delicate gripping tasks in factories.
 
-Fox News • 7h ago
+Fox News • 11h ago
+
+---
+
+**[Robots are coming to the oil patch](https://www.ft.com/content/01a72e2e-8620-44a3-85ce-7aa3b22495b3?syn-25a6b1a6=1)**
+
+Also in today’s newsletter, Russia receives an oil windfall amid Iran war
+
+Financial Times • 16h ago
 
 ---
 
@@ -196,7 +194,7 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 📺 FOX 5 New York
 
-👁️ 4K • 👍 10 • 💬 7 • ⏱️ 2:07 • 2d ago
+👁️ 5K • 👍 12 • 💬 7 • ⏱️ 2:07 • 2d ago
 
 ---
 
@@ -206,7 +204,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: pro_robots The I
 
 📺 PRO ROBOTS
 
-👁️ 54K • 👍 965 • 💬 80 • ⏱️ 24:13 • 6d ago
+👁️ 54K • 👍 966 • 💬 80 • ⏱️ 24:13 • 6d ago
 
 ---
 
@@ -216,17 +214,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 220 • ⏱️ 13:45 • 4d ago
-
----
-
-**[How... Eiffel Might Be The #1 F2p Titan Right Now | Absolute Meta CRUSHER | War Robots](https://www.youtube.com/watch?v=Qwn5XUCiMK0)**
-
-Eiffel is a monster right now. Titan rankings seem like they are constantly moving around but this might be the #1 f2p titan.
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 357 • 💬 62 • ⏱️ 14:02 • 11h ago
+👁️ 62K • 👍 1K • 💬 224 • ⏱️ 13:45 • 4d ago
 
 ---
 
@@ -236,7 +224,27 @@ Eiffel is a monster right now. Titan rankings seem like they are constantly movi
 
 📺 Just A Dad Approved
 
-👁️ 14K • 👍 249 • 💬 154 • ⏱️ 18:57 • 2d ago
+👁️ 14K • 👍 256 • 💬 156 • ⏱️ 18:57 • 2d ago
+
+---
+
+**[Can They Really Pull It Off? Big Sign For Optimus Robot.](https://www.youtube.com/watch?v=kBZUNAfZ9Sw)**
+
+AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ▻ Join Patreon: ...
+
+📺 Solving The Money Problem
+
+👁️ 33K • 👍 2K • 💬 166 • ⏱️ 10:31 • 22h ago
+
+---
+
+**[TOP 10 WORST T4 ROBOTS YOU SHOULDN&#39;T INVEST IN! MY LIST! (War Robots)](https://www.youtube.com/watch?v=UdODLBnBObU)**
+
+In this video I go over the 10 worst T4 robots in the game. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 5K • 👍 241 • 💬 122 • ⏱️ 11:52 • 1d ago
 
 ---
 
@@ -250,43 +258,33 @@ At China's Dragon Boat Festival, everybody takes place – including the robots.
 
 ---
 
-**[This AI Robot Works So Well It’s Kind of Creepy - Navimow](https://www.youtube.com/watch?v=E6b9GUA7Syw)**
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
 
-Thanks to Segway Navimow for sponsoring this video. Check out the Navimow X4 and the Navimow i2 LiDAR below. X4 now ...
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
 
-📺 Kim Java
+📺 Tom Scott
 
-👁️ 20K • 👍 460 • 💬 19 • ⏱️ 8:52 • 2d ago
-
----
-
-**[Can They Really Pull It Off? Big Sign For Optimus Robot.](https://www.youtube.com/watch?v=kBZUNAfZ9Sw)**
-
-AG1 https://drinkAG1.com/SMR (FREE Welcome Kit: Vitamin D3+K2 & Travel Packs) ▻ Join Patreon: ...
-
-📺 Solving The Money Problem
-
-👁️ 31K • 👍 2K • 💬 161 • ⏱️ 10:31 • 18h ago
+👁️ 836K • 👍 46K • 💬 2K • ⏱️ 21:33 • 3d ago
 
 ---
 
-**[TOP 10 WORST T4 ROBOTS YOU SHOULDN&#39;T INVEST IN! MY LIST! (War Robots)](https://www.youtube.com/watch?v=UdODLBnBObU)**
+**[WHAT IS THE POINT!? - Unitree Go 2 Pro Review](https://www.youtube.com/watch?v=0SHz3aT8fV8)**
 
-In this video I go over the 10 worst T4 robots in the game. https://wr.my.games/Wolfblood7.
+Check out the UniTree Go 2 from JoyBuy Here: https://geni.us/Go2ProJoyBuy £200 with code "FAUXHAMMER" Check out ...
 
-📺 Wolfblood7
+📺 FauxHammer
 
-👁️ 5K • 👍 238 • 💬 118 • ⏱️ 11:52 • 1d ago
+👁️ 2K • 👍 130 • 💬 61 • ⏱️ 22:08 • 11h ago
 
 ---
 
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+**[This is NOT a Real Shark! 🤯 China’s New Robotic Police Drone](https://www.youtube.com/watch?v=lLu8rZoKW1A)**
 
-Your Smart Robot Companion.
+Is it a real shark or a robot?! Watch as a Chinese police officer demonstrates this incredible new high-tech bionic shark drone ...
 
-📺 Unitree Robotics
+📺 VIDEOS YOUR CHOICE
 
-👁️ 613K • 👍 1K • 💬 447 • ⏱️ 0:31 • 1d ago
+👁️ 16K • 👍 175 • 💬 6 • ⏱️ 0:12 • 2d ago
 
 ---
 
