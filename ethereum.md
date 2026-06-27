@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T07:50:06.745654+00:00'
+updated: '2026-06-27T10:09:30.707223+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 07:50 UTC  
+**Last Updated:** June 27, 2026 at 10:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,582.18
+### $1,583.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -7.2%  
+**24h:** +2.4%  
+**7d:** -7.3%  
 **30d:** -21.4%  
-**90d:** -21.8%  
+**90d:** -21.9%  
 **1y:** -35.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $190.94B
+**Market Cap:** $190.75B
 Rank #2
 
 **Circulating Supply:** 120,683,513 ETH
@@ -62,7 +62,7 @@ No max supply
 -68.0%
 
 **All-Time Low:** $0.43
-+365278.0%
++364984.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to understand how they could reduce MEV, strengthen censorship resistance, and reshape Ethereum's transaction pipeline.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 1d ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 2d ago
 
 ---
 
@@ -156,21 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 13h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
+**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
 
-The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
+Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
 
-The Block • 1d ago
-
----
-
-**[Sweeping up 10,000 ETH in 48 hours: Why is this listed company betting on Ethereum?](https://www.moomoo.com/news/post/72132964/sweeping-up-10000-eth-in-48-hours-why-is-this)**
-
-Moomoo • 3h ago
+Decrypt • 1d ago
 
 ---
 
@@ -182,27 +176,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
+
+The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
+
+The Block • 1d ago
+
+---
+
 **[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-The Motley Fool • 3h ago
-
----
-
-**[Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position](https://www.tradingview.com/news/cointelegraph:019ea6896094b:0-ethereum-whale-who-shorted-october-2025-crash-opens-19-7m-eth-short-position/)**
-
-An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
-
-TradingView • 14h ago
-
----
-
-**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
-
-$6 billion just left BTC ETFs
-
-Coinbase • 22h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -210,23 +196,39 @@ Coinbase • 22h ago
 
 BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
+**[Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position](https://www.tradingview.com/news/cointelegraph:019ea6896094b:0-ethereum-whale-who-shorted-october-2025-crash-opens-19-7m-eth-short-position/)**
 
-Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
+An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
 
-Decrypt • 1d ago
+TradingView • 17h ago
 
 ---
 
-**[Ethereum Price Slips 4% As Investors Liquidate Positions](https://dmarketforces.com/ethereum-price-slips-4-as-investors-liquidate-positions/)**
+**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
 
-Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
+$6 billion just left BTC ETFs
 
-MarketForces Africa • 1d ago
+Coinbase • 1d ago
+
+---
+
+**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
+
+Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
+
+Seeking Alpha • 20h ago
+
+---
+
+**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
+
+FXStreet • 21h ago
 
 ---
 
@@ -240,7 +242,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 92 • 💬 38 • ⏱️ 27:53 • 11h ago
+👁️ 2K • 👍 100 • 💬 38 • ⏱️ 27:53 • 13h ago
 
 ---
 
@@ -250,7 +252,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 173 • 💬 9 • ⏱️ 9:04 • 14h ago
+👁️ 4K • 👍 178 • 💬 10 • ⏱️ 9:04 • 16h ago
 
 ---
 
@@ -264,13 +266,23 @@ In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum'
 
 ---
 
+**[Tom Lee :“I’ve Never Seen A Setup Like This Before” [Realistic Bitcoin Prediction 2026]](https://www.youtube.com/watch?v=V-Nhts6M48U)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 14K • 👍 413 • 💬 84 • ⏱️ 19:47 • 1d ago
+
+---
+
 **[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
 
 The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
 
 📺 Dana Love, PhD
 
-👁️ 15K • 👍 848 • 💬 143 • ⏱️ 13:22 • 1d ago
+👁️ 15K • 👍 859 • 💬 144 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -280,27 +292,7 @@ BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 306 • 💬 100 • ⏱️ 19:11 • 12h ago
-
----
-
-**[Tom Lee :“I’ve Never Seen A Setup Like This Before” [Realistic Bitcoin Prediction 2026]](https://www.youtube.com/watch?v=V-Nhts6M48U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 407 • 💬 86 • ⏱️ 19:47 • 1d ago
-
----
-
-**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 23K • 👍 1K • 💬 283 • ⏱️ 12:14 • 2d ago
+👁️ 8K • 👍 323 • 💬 93 • ⏱️ 19:11 • 15h ago
 
 ---
 
@@ -310,17 +302,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 595 • 💬 60 • ⏱️ 1:35 • 23h ago
-
----
-
-**[Bitcoin Below $60K: Michael Saylor Is Running Out of Moves](https://www.youtube.com/watch?v=BbOvbGQSb_A)**
-
-OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are bleeding as Bitcoin breaks below ...
-
-📺 Bankless
-
-👁️ 7K • 👍 211 • 💬 76 • ⏱️ 1:04:00 • 20h ago
+👁️ 26K • 👍 606 • 💬 60 • ⏱️ 1:35 • 1d ago
 
 ---
 
@@ -331,6 +313,26 @@ On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDe
 📺 CoinDesk
 
 👁️ 3K • 👍 56 • 💬 23 • ⏱️ 18:21 • 1d ago
+
+---
+
+**[MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50,000 SOON?](https://www.youtube.com/watch?v=9sN71TeilV4)**
+
+MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapital (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 356 • 💬 37 • ⏱️ 31:39 • 1d ago
+
+---
+
+**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 23K • 👍 1K • 💬 283 • ⏱️ 12:14 • 2d ago
 
 ---
 

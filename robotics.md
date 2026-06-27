@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T07:50:06.748383+00:00'
+updated: '2026-06-27T10:09:30.710367+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 07:50 UTC  
+**Last Updated:** June 27, 2026 at 10:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 - chase: third-person view of the humanoid walking to the goal - POV cam: the robot's onboard RGB, with the planner overlay (🟢 global A* path, 🔴 immediate move) - metric depth: Depth-Anything 2's per-pixel depth - occupancy map: top-down log-odds grid being built live-> white=free, red=obstacle+inflation, green dot=robot, blue=goal, green line=A* path The robot starts with no map. It draws one as it walks, steering around furniture to reach a goal in the next room. This is a monocular-vision stack for perception, mapping, and navigation: Depth-Anything-V2 turns each RGB frame into metric depth, visual-inertial odometry (VIO) fuses that depth with the IMU for pose, the two build a live occupancy map, and an A*/DWA planner walks the robot to the goal. What would make this more close to reality? Curious to know what tends to break first when a stack like this moves onto hardware.
 
-1d ago
+2d ago
 
 ---
 
@@ -90,7 +90,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 **[Sorting bolts and screws. The location and size of screws is detected with a camera. A robotic gripper picks them up and puts them in a drop-off cart.](https://www.reddit.com/r/robotics/comments/1uf464c/sorting_bolts_and_screws_the_location_and_size_of/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -122,43 +122,11 @@ GeekWire • 2d ago
 
 ---
 
-**[Agility Robotics heads to Wall Street in a $2.5B bet on staffing warehouses with humanoids](https://apnews.com/article/agility-humanoid-robots-ipo-churchill-ai-39f2356b9c1e167d0985b821f70079c5)**
-
-Agility Robotics, a maker of humanlike robots, is planning to go public on Wall Street. The Oregon-based company announced a planned merger with an investment firm, valuing it at $2.5 billion.
-
-AP News • 2d ago
-
----
-
-**[Meet Digit, Agility Robotics' humanoid robot that's a ROI 'from day one'](https://finance.yahoo.com/video/meet-digit-agility-robotics-humanoid-201516624.html)**
-
-Agility Robotics (AGRO.PVT) is the developer behind the "Digit", a bipedal humanoid robot designed to take on repetitive tasks in human spaces like factories.
-
-Agility Robotics CEO Peggy Johnson dives into the types of labor roles her company's robots could take on.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 15h ago
-
----
-
-**[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
-
-Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
-
-Yahoo Finance • 18h ago
-
----
-
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
-
-San Francisco Chronicle • 7h ago
+IEEE Spectrum • 17h ago
 
 ---
 
@@ -172,37 +140,57 @@ Financial Times • 2d ago
 
 **[Watch Nvidia Wants to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video)**
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
+**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
-Politico • 3d ago
+Tech Xplore • 18h ago
 
 ---
 
-**[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
+OregonLive.com • 1d ago
 
-New Atlas • 1d ago
+---
+
+**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
+
+When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
+
+The Guardian • 3d ago
+
+---
+
+**[Robot Seen on Street Begging for Change](https://futurism.com/robots-and-machines/robot-begging-china-humanoid-unitree-g1)**
+
+A
+
+Futurism • 21h ago
+
+---
+
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+
+Business Insider • 1d ago
+
+---
+
+**[Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics)**
+
+The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
+
+The Block • 21h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Meet A3 from AGIBOT,  a full-sized humanoid ... PhysicalAI, Robotics](https://www.youtube.com/watch?v=UHjk5oR1Djk)**
-
-Meet A3 from AGIBOT, a full-sized #humanoid ... with an wide range of motion at speed ... the tech under the covers enabling all of ...
-
-📺 Kevin O'Donovan
-
-👁️ 1K • 👍 17 • 💬 2 • ⏱️ 0:34 • 7h ago
-
----
 
 **[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
@@ -230,7 +218,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 4K • 👍 606 • 💬 30 • ⏱️ 1:16 • 10h ago
+👁️ 4K • 👍 633 • 💬 33 • ⏱️ 1:16 • 12h ago
 
 ---
 
@@ -240,47 +228,7 @@ Robot tried to perform a cartwheel when gravity intervened. Media: techniahq on 
 
 📺 Cybernews
 
-👁️ 2K • 👍 27 • 💬 3 • ⏱️ 0:06 • 2h ago
-
----
-
-**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
-
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
-
-📺 ARPO: The Robot
-
-👁️ 29K • 👍 47 • ⏱️ 59:56 • 1d ago
-
----
-
-**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 370 • 💬 66 • ⏱️ 14:36 • 19h ago
-
----
-
-**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
-
-In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
-
-📺 Tom Scott
-
-👁️ 919K • 👍 49K • 💬 2K • ⏱️ 21:33 • 4d ago
-
----
-
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
-
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
-
-📺 NewsNation
-
-👁️ 74K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
+👁️ 3K • 👍 38 • 💬 3 • ⏱️ 0:06 • 5h ago
 
 ---
 
@@ -291,6 +239,56 @@ Trained on 20000 hours of human motion data — the largest-scale dataset to dat
 📺 Galbot
 
 👁️ 2.8M • 👍 541 • 💬 2 • ⏱️ 3:06 • 4d ago
+
+---
+
+**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
+
+📺 PREDATOR WR
+
+👁️ 9K • 👍 376 • 💬 67 • ⏱️ 14:36 • 22h ago
+
+---
+
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
+
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
+
+📺 Tom Scott
+
+👁️ 924K • 👍 49K • 💬 2K • ⏱️ 21:33 • 4d ago
+
+---
+
+**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
+
+Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
+
+📺 Wealthy Capital
+
+👁️ 136K • 👍 496 • 💬 53 • ⏱️ 0:09 • 3d ago
+
+---
+
+**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
+
+2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
+
+📺 Just A Dad Approved
+
+👁️ 17K • 👍 293 • 💬 166 • ⏱️ 18:57 • 3d ago
+
+---
+
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
+
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
+
+📺 NewsNation
+
+👁️ 75K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
 
 ---
 
