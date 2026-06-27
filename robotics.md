@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T19:52:59.614446+00:00'
+updated: '2026-06-27T21:04:34.172216+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 19:52 UTC  
+**Last Updated:** June 27, 2026 at 21:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,31 +114,23 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
+**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
 
-San Francisco Chronicle • 19h ago
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
 
 ---
 
-**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
+**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
-
-Silicon Canals • 21h ago
+San Francisco Chronicle • 20h ago
 
 ---
 
 **[The Next Normal – The future of robotics: Intelligent, adaptable, and on your team](https://www.mckinsey.com/featured-insights/the-next-normal/robotics)**
 
 McKinsey & Company • 2d ago
-
----
-
-**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1d ago
 
 ---
 
@@ -150,17 +142,19 @@ MotorTrend • 1d ago
 
 ---
 
-**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
+**[Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public](https://finance.yahoo.com/technology/ai/articles/humanoid-robotics-ceo-first-pure-220721680.html)**
 
-WSJ • 3d ago
+Peggy Johnson, a former Microsoft and Magic Leap executive who is now the CEO of Agility Robotics, used a CNBC segment to announce that her company is going public through a SPAC merger with Churchill Capital Corp., a deal she describes as the first pure-play humanoid robotics company to tap public markets. The company, a ... Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public
+
+Yahoo Finance • 2d ago
 
 ---
 
-**[San Francisco storefront opened by REK will allow customers to train, showcase, repair and develop giant humanoid robots](https://abc7news.com/post/san-francisco-storefront-opened-rek-will-allow-customers-train-showcase-repair-develop-giant-humanoid-robots/19377134/)**
+**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
 
-A 6-foot fighting robot was unveiled in San Francisco by REK at an empty warehouse that will soon be transformed into a humanoid robot one-stop shop.
+Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
 
-ABC7 Bay Area • 2d ago
+Silicon Canals • 23h ago
 
 ---
 
@@ -172,17 +166,23 @@ Financial Times • 2d ago
 
 ---
 
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 1d ago
+OregonLive.com • 2d ago
 
 ---
 
 **[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
+
+WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
+
+Jamaica Gleaner • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 338 • 💬 89 • ⏱️ 19:38 • 8h ago
+👁️ 7K • 👍 338 • 💬 89 • ⏱️ 19:38 • 9h ago
 
 ---
 
@@ -234,7 +234,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 5K • 👍 761 • 💬 41 • ⏱️ 1:16 • 22h ago
+👁️ 5K • 👍 761 • 💬 41 • ⏱️ 1:16 • 23h ago
 
 ---
 

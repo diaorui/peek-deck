@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-27T19:52:59.602161+00:00'
+updated: '2026-06-27T21:04:34.154238+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 27, 2026 at 19:52 UTC  
+**Last Updated:** June 27, 2026 at 21:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Oh .... the irony!
 
-12h ago
+13h ago
 
 ---
 
 **[I have it on good authority that Google are going to be hit with export controls soon.](https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ Oh .... the irony!
 
 We hear a lot about AI generating text, images, and code, but I feel some of its most useful capabilities don't get much attention. For me, AI has been surprisingly helpful for breaking down complex topics, organizing messy information, and speeding up research. Those aren't the flashy features that make headlines, but they've had the biggest impact on my day-to-day work. What's one AI capability or use case that you think deserves more recognition? I'm interested in hearing about practical examples rather than the usual "AI can do everything" answers.
 
-3h ago
+5h ago
 
 ---
 
@@ -63,7 +63,7 @@ We hear a lot about AI generating text, images, and code, but I feel some of its
 
 Something happened in the last two weeks that didn’t get nearly enough attention outside of tech circles. Anthropic released what are reportedly their most capable models yet, Fable 5 and Mythos 5. The Trump administration then ordered Anthropic to ban all foreign nationals from accessing them, citing cybersecurity concerns. Anthropic’s response? They shut down access entirely, saying they couldn’t reliably enforce a “foreign nationals only” restriction. The reason these models are so sensitive: they apparently have an unprecedented ability to identify software vulnerabilities. Not just theoretically, but at a level that genuinely alarmed the US government. Yesterday, OpenAI released GPT-5.6, a three-model family (Sol, Terra, and Luna). But it’s not available to you. Or me. Or probably anyone reading this. It’s limited to a small group of “trusted partners” whose identities have been shared with the US government, at the administration’s explicit request. OpenAI themselves said they’re uncomfortable with this arrangement: “We don’t believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.” So let’s be clear about where we are: the most powerful AI models in existence are now effectively state-controlled assets. They’re not products you can access, they’re capabilities being rationed by a government. For those of us building outside the US, the message is pretty direct: the frontier is no longer public. What’s your read on this? Is this legitimate national security caution or the beginning of something more permanent?
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Something happened in the last two weeks that didn’t get nearly enough attenti
 
 I have noticed that from the last time I checked up on AI discourse a few months ago, everyone has seemingly shifted to thinking that AGI and shortly after ASI are foregone conclusions. I don't know much about the internals of the actual field and was wondering if any actual AI experts here could walk me through what is actually going on. From what I have been reading, we are guaranteed to reach AGI in a decade at most, and after that, the AGIs can make the ASI (like in the paper google recently put out). The ASI then never really stops self-improving, and that is a terrifying prospect. And with something so smart, alignment is essentially impossible. Is this actually the general consensus for what's going to happen? If so, why? Are there any better ways to research what is going on? Because I have just been google "will/when will ASI happen." The results I've been getting all skew completely towards "yes, and soon." Claude and Gemini also both say ASI is happening soon. Are the chances of it happening increasing? or decreasing? I'm also somewhat scared of agentic AI. How does that play into everything? If this is true, how am I supposed to live my life and prepare for a future that at best, my entire life's work has been made pointless, and at worst, everyone is killed? I am mostly looking for experts to answer my question. If you are not an expert, feel free to leave a comment, but please specify that you aren't.
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,31 @@ I have noticed that from the last time I checked up on AI discourse a few months
 
 I have been working in the AI training and data annotation space for a while now, and it is easily one of the strangest industries I have ever been a part of. On one hand, the perks are real. The flexibility is unmatched, you can work in your sweatpants, and sometimes you get genuinely fascinating prompts that actually challenge your brain, whether you are grading complex code, checking historical facts, or analyzing legal logic. But on the other hand, the complete and total isolation is starting to get pretty bizarre. We are helping build the future of technology, yet we do it in total silos. If you have ever been in an official platform Slack or forum, you know the vibe. You are constantly walking on eggshells. You cannot openly ask about sudden dry spells, you cannot critique confusing or contradictory guidelines without worrying about a random shadowban, and the second a project ends, you are instantly booted from the channel. Any temporary "coworkers" you had just vanish overnight. It feels like the platforms go out of their way to keep us from actually talking to one another without a moderator watching over our shoulders. It is a weird mix of having total freedom but zero community. I am curious what everyone else’s experience has been like lately. What are your personal pros and cons of the gig right now? How do you deal with the isolation, or do you actually prefer the ghost lifestyle? Also, out of pure curiosity, how do you even explain what you do for a living to your friends and family without their eyes glazing over?
 
-7h ago
+8h ago
+
+---
+
+**[Do we still need to study algorithms now that AI writes most of our code?](https://www.reddit.com/r/artificial/comments/1uhdwpk/do_we_still_need_to_study_algorithms_now_that_ai/)**
+
+I've been thinking about this for a while. AI can now write functions, explain code, refactor projects, generate tests, and even solve many programming problems better than many junior developers. I've also noticed that Stack Overflow seems far less active than it used to be because many developers now ask AI instead. This made me wonder: Is learning algorithms still as important as it used to be? I'm not talking about memorizing LeetCode solutions for interviews. I mean actually spending months studying data structures and algorithms. If AI can generate efficient implementations, explain the complexity, and even optimize code, where is the real value in deeply learning algorithms today? Do experienced engineers still think it's essential, or is understanding the concepts enough while letting AI handle the implementation? I'm curious to hear opinions from people working in the industry.
+
+just now
+
+---
+
+**[Do you think AI is making people worse at writing and thinking clearly?](https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/)**
+
+Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.
+
+55m ago
+
+---
+
+**[I built an AI macro intelligence engine that maps how shocks move through the economy](https://www.reddit.com/r/artificial/comments/1uhcjbn/i_built_an_ai_macro_intelligence_engine_that_maps/)**
+
+I’ve been building ORBIS, an AI intelligence engine for reading the economy as a connected system instead of a pile of disconnected headlines. The core idea is simple: Most market tools tell you what moved. ORBIS tries to answer: What caused it? What does it affect next? What are the second-order consequences? For example, if there’s an AI demand shock, ORBIS doesn’t just say “tech bullish.” It traces the dependency chain: AI → data centers → power demand → natural gas → copper → utilities → credit markets → rates → capex That matters because the real trade often isn’t the obvious one. Sometimes the constraint is power. Sometimes it’s credit. Sometimes it’s permitting, labour, insurance, grid interconnects, or commodity supply. The product is still early, but the direction is clear: a macro intelligence layer that turns public information into structured, causal briefings. Current ORBIS lenses include: Markets — macro shocks, sector impact, capital flow Oil — crude, energy infrastructure, royalties, resource economics Dwell — real estate truth reports and property intelligence Price Truth — quote/bid/price analysis Capitalist Daily — daily briefing format for operators and investors This is not financial advice and it is not trying to be a magic stock picker. The goal is better situational awareness: fewer blind spots, cleaner reasoning, and a clearer map of how capital actually moves. I’m looking for blunt feedback from people who follow markets, commodities, infrastructure, real estate, or economic systems. What would make this useful enough that you’d actually check it every morning? orbis.aurochthryx.com
+
+57m ago
 
 ---
 
@@ -87,31 +111,7 @@ I have been working in the AI training and data annotation space for a while now
 
 What all the "AI Layoffs" are telling us is that companies would rather compete by being cheaper than by being better. There are really two main competitive pathways for businesses: Do the same thing as your competition, but for a lower cost. Do something better than your competition at a reasonable cost. No one who has experience using AI for anything should say they feel comfortable letting it run free without any human supervision, but many businesses now are doing just that...and oftentimes it's apparent they are using AI tools with no oversight (just look at my LinkedIn DMs). So, it seems that the value equation for most of these businesses weighs more heavily for cost-cutting than on the "lesser" expense of AI, resulting in costly miscalculations. If anything, it seems more logical to keep your employees and EMPOWER/AUGMENT THEM with AI tools than to reduce headcount and try to completely replace an employee with an AI tool.
 
-9h ago
-
----
-
-**[the metric that flipped for me wasn't benchmark scores, it was how many apps one answer has to touch](https://www.reddit.com/r/artificial/comments/1uh5f1i/the_metric_that_flipped_for_me_wasnt_benchmark/)**
-
-For most of my real tasks the answer lives across three or four apps. A single 'what do i tell this customer' pulls from gmail, a drive doc, and a slack thread, and not one of those is the chat window i'm typing the question into. i asked chatgpt and slack ai the same thing and both gave the architectural shrug: no access to your computer, no access to the other app. fair, that's just where they run. but it leaves me as the courier carrying context between tabs. the thing that actually moved the needle was a desktop app (Runner) that sits on the mac and reads gmail, drive, and slack inside the same task instead of waiting for me to paste. It asks before anything goes out, which is the only reason i let it near a live thread. the chat window keeps winning the benchmark and losing the actual job.
-
-4h ago
-
----
-
-**[Should I switch from Claude to ChatGPT 5.6? Here's how I'm thinking about it.](https://www.reddit.com/r/artificial/comments/1uhaawl/should_i_switch_from_claude_to_chatgpt_56_heres/)**
-
-OpenAI dropped the 5.6 announcement and I've been going through what we actually know so far. Three models: Sol, Terra, Luna. None are public yet so we're working off what OpenAI put out. From what they've shared, Terra is supposed to match 5.5 capability at about half the cost, Luna cheaper and faster but less capable. OpenAI is genuinely winning on the cost side right now. Anthropic keeps shipping smarter models but without the pricing coming down, and that gap is getting harder to ignore if you're doing high-volume API work. The Sol vs. Mythos question is where I'm more skeptical. OpenAI is positioning Sol as a Mythos competitor, but the benchmark situation is not convincing. They're only showing a handful, they picked the ones where their model does well (which every model maker does), and when they do include Mythos in the comparison, it's Mythos Preview, which is over two months old. If Sol were actually in that territory it seems like it would be easier to demonstrate. 5.5 is already a capable model and 5.6 Sol looks like a real upgrade. But "comparable to Fable or Mythos" is a high bar and I don't think they've cleared it yet. One thing worth remembering if you're on a subscription: you're already paying somewhere between 4% and 12% of actual API usage cost. So the raw cost comparison between the platforms matters a lot less if your work fits in a subscription tier. At that point you're mostly comparing model quality, and for anything ambitious, I still think Claude is the better call right now. Fable 5 is supposed to be coming back soon too.
-
-1h ago
-
----
-
-**[Google keeps losing top ai researchers, the moat was never the weights](https://www.reddit.com/r/artificial/comments/1ugbwol/google_keeps_losing_top_ai_researchers_the_moat/)**
-
-Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus Adler and Pritzler out the same door within a week. Every time one of these drops the framing is google is bleeding. I think people are reading it backwards. If the people who actually trained the thing can leave and instantly matter at a competitor, the weights were never the asset. The judgment about how to steer a model, what to eval it on, where it breaks, that stuff lives in heads not in checkpoints. Hardware you can buy. That you cannot. What it means for the rest of us is simpler than the talent drama. If capability is going to keep walking between labs every few months, betting your whole stack on one provider's model is a bet on that lab keeping its people, which is the one thing you cannot control. I stopped caring which lab is quote winning this quarter. The move is keeping the model layer swappable so a shakeup at one place does not strand the work. Mine runs through verdent with byok but honestly any setup that lets you reroute works, the point is not the tool, it is not being married to one model.
-
-1d ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus
 
 The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -131,53 +131,49 @@ CNN • 19h ago
 
 Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing "national security authorities."
 
-CNBC • 20h ago
+CNBC • 22h ago
 
 ---
 
 **[Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use](https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
 **[Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?](https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
 
 ---
 
-**[Tech Equity Sales Renew AI Debt-Binge Worries](https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly)**
+**[AI Played A Big Role In Prime Day Sales, With 40% Better Conversion](https://www.forbes.com/sites/joanverdon/2026/06/27/ai-played-a-big-role-in-prime-day-sales-with-40-better-conversion/)**
 
-Bloomberg.com • 52m ago
+Online sales during the Prime Day event were up 9.3% over last year, and AI-generated traffic made significant gains in driving sales.
 
----
-
-**[Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)**
-
-The Handmaid’s Tale author tried Claude exactly once, and wasn’t impressed.
-
-The Verge • 1h ago
+Forbes • 23m ago
 
 ---
 
-**[AI is creating America’s next underclass](https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/)**
+**[AI actors are hiding in plain sight (and audiences can't tell)](https://www.yahoo.com/news/videos/ai-actors-hiding-plain-sight-200000642.html)**
 
-The Hill • 52m ago
+An AI-generated 'actress' named Tilly Norwood had Hollywood in a panic — but maybe for the wrong reason. Media exec Janice Min says the real threat isn't that AI looks human. It's that audiences don't...
+
+Yahoo • 1h ago
+
+---
+
+**[AI Is Helping Small Businesses Get More Done, But It’s Far From The Only Productivity-Booster Helping Them Expand](https://www.forbes.com/sites/elainepofeldt/2026/06/27/ai-is-helping-small-businesses-get-more-done-but-its-far-from-the-only-productivity-booster-helping-them-expand/)**
+
+Getting more done in less time is easier than ever for solopreneurs and small business owners, thanks to the ease of hiring contractors, using QR codes, touchless technology and other affordable methods.
+
+Forbes • 31m ago
 
 ---
 
 **[Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision](https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2)**
 
-WSJ • 10h ago
-
----
-
-**[The AI bubble has further to run despite the looming crash](https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets)**
-
-As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning
-
-The Guardian • 42m ago
+WSJ • 11h ago
 
 ---
 
@@ -185,7 +181,15 @@ The Guardian • 42m ago
 
 Jacob Andreou has had a rapid ascent at the 51-year-old tech giant. He is leading the charge to retool its pivotal AI product.
 
-Fortune • 10h ago
+Fortune • 11h ago
+
+---
+
+**[The AI bubble has further to run despite the looming crash](https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets)**
+
+As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning
+
+The Guardian • 1h ago
 
 ---
 
@@ -203,7 +207,7 @@ Fortune • 10h ago
 
 The move comes the same day as a new OpenAI model sees a limited release.
 
-⬆️ 529 • 💬 725 • 21h ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+⬆️ 534 • 💬 728 • 22h ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -217,19 +221,19 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 **[What happened after 2k people tried to hack my AI assistant](https://news.ycombinator.com/item?id=48681687)**
 
-⬆️ 367 • 💬 160 • 1d ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
+⬆️ 368 • 💬 160 • 1d ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
 
 ---
 
 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://news.ycombinator.com/item?id=48676795)**
 
-⬆️ 312 • 💬 370 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
+⬆️ 312 • 💬 373 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 
 ---
 
 **[AI children's books, body horror edition](https://news.ycombinator.com/item?id=48681250)**
 
-⬆️ 208 • 💬 77 • 1d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
+⬆️ 210 • 💬 77 • 1d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
 
 ---
 
@@ -237,7 +241,7 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 Researchers debate motivation, purpose, and the field’s future
 
-⬆️ 186 • 💬 162 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
+⬆️ 190 • 💬 163 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
 
 ---
 
@@ -273,7 +277,7 @@ Leaders of some of the world's biggest AI companies have warned of potentially c
 
 📺 Amanpour and Company
 
-👁️ 7K • 👍 297 • 💬 47 • ⏱️ 18:30 • 23h ago
+👁️ 7K • 👍 297 • 💬 47 • ⏱️ 18:30 • 1d ago
 
 ---
 
@@ -283,7 +287,7 @@ https://openmonoagent.ai/?v=2v2MQdZYvWU Frontier models are running into problem
 
 📺 STARTUP HAKK
 
-👁️ 2K • 👍 47 • 💬 12 • ⏱️ 9:41 • 21h ago
+👁️ 2K • 👍 47 • 💬 12 • ⏱️ 9:41 • 22h ago
 
 ---
 
@@ -303,7 +307,7 @@ CNBC's Seema Mody got an exclusive look inside GE Vernova's largest gas turbine 
 
 📺 CNBC
 
-👁️ 4K • 👍 226 • 💬 28 • ⏱️ 3:45 • 1h ago
+👁️ 4K • 👍 226 • 💬 28 • ⏱️ 3:45 • 3h ago
 
 ---
 
@@ -323,7 +327,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 2K • 👍 129 • 💬 42 • ⏱️ 12:23 • 3h ago
+👁️ 2K • 👍 129 • 💬 42 • ⏱️ 12:23 • 5h ago
 
 ---
 
@@ -353,7 +357,7 @@ How to Make Long AI Video using FREE AI Video Generator ✨AI Video Kaise Banaye
 
 📺 Learn AI with Ritika
 
-👁️ 7K • 👍 394 • 💬 333 • ⏱️ 9:58 • 8h ago
+👁️ 7K • 👍 394 • 💬 333 • ⏱️ 9:58 • 9h ago
 
 ---
 
@@ -403,7 +407,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 712,627 • ❤️ 662 • 11h ago
+⬇️ 712,627 • ❤️ 662 • 12h ago
 
 ---
 
@@ -503,7 +507,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 37 • 💬 4 • ⭐ 11,011 • 5d ago
+▲ 37 • 💬 4 • ⭐ 11,011 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -593,7 +597,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 23 • 💬 1 • ⭐ 84,033 • 25d ago
+▲ 23 • 💬 1 • ⭐ 84,033 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -607,7 +611,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Language-based world models enable agentic environment simulation across multiple domains and enhance general agent performance through scalable simulation and improved downstream task performance.
 
-▲ 133 • 💬 4 • ⭐ 585 • 4d ago
+▲ 133 • 💬 4 • ⭐ 585 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.24597) • [💻 code](https://github.com/QwenLM/Qwen-AgentWorld)
 
@@ -635,7 +639,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.5k • 🔱 10.2k • 1h ago
+⭐ 78.5k • 🔱 10.2k • 2h ago
 
 ---
 
@@ -655,7 +659,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.9k • 🔱 1.0k • 2h ago
+⭐ 10.9k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -665,7 +669,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.5k • 🔱 430 • 6h ago
+⭐ 5.5k • 🔱 430 • 7h ago
 
 ---
 
@@ -675,7 +679,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.1k • 🔱 632 • 19m ago
+⭐ 5.1k • 🔱 632 • 1h ago
 
 ---
 
@@ -685,7 +689,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 3.2k • 🔱 424 • 3h ago
+⭐ 3.2k • 🔱 424 • 5h ago
 
 ---
 
@@ -705,7 +709,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.8k • 🔱 155 • 4h ago
+⭐ 1.8k • 🔱 155 • 5h ago
 
 ---
 

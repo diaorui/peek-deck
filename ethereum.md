@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T19:52:59.612220+00:00'
+updated: '2026-06-27T21:04:34.168973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 19:52 UTC  
+**Last Updated:** June 27, 2026 at 21:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,582.67
+### $1,582.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -7.5%  
-**30d:** -21.6%  
-**90d:** -22.1%  
-**1y:** -35.2%  
+**24h:** +0.4%  
+**7d:** -7.3%  
+**30d:** -21.4%  
+**90d:** -21.8%  
+**1y:** -35.0%  
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 2d ago
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 1d ago
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 2K • 👍 160 • 💬 191 • ⏱️ 18:14 • 1h ago
+👁️ 2K • 👍 160 • 💬 191 • ⏱️ 18:14 • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 120 • 💬 59 • ⏱️ 27:53 • 23h ago
+👁️ 3K • 👍 120 • 💬 59 • ⏱️ 27:53 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 148 • 👍 15 • 💬 40 • ⏱️ 5:07 • 7h ago
+👁️ 148 • 👍 15 • 💬 40 • ⏱️ 5:07 • 9h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 762 • 👍 77 • ⏱️ 6:33 • 7h ago
+👁️ 762 • 👍 77 • ⏱️ 6:33 • 8h ago
 
 ---
 
