@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T18:04:32.965655+00:00'
+updated: '2026-06-27T19:52:59.614446+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 18:04 UTC  
+**Last Updated:** June 27, 2026 at 19:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,15 +114,17 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
-**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
+**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-WSJ • 3d ago
+San Francisco Chronicle • 19h ago
 
 ---
 
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
+**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
 
-San Francisco Chronicle • 17h ago
+Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
+
+Silicon Canals • 21h ago
 
 ---
 
@@ -132,19 +134,33 @@ McKinsey & Company • 2d ago
 
 ---
 
+**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[Inside the $17,900 Robot That Could Change the Auto Industry](https://www.motortrend.com/news/first-humanoid-robot-teardown-analysis)**
 
 The Unitree G1 is the first relatively affordable humanoid robot. We break down its price, teardown, limitations, and why Tesla, BMW, Mercedes-Benz, XPeng, and other automakers are investing heavily in the technology.
 
-MotorTrend • 22h ago
+MotorTrend • 1d ago
 
 ---
 
-**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
+**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
 
-WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
+WSJ • 3d ago
 
-Jamaica Gleaner • 13h ago
+---
+
+**[San Francisco storefront opened by REK will allow customers to train, showcase, repair and develop giant humanoid robots](https://abc7news.com/post/san-francisco-storefront-opened-rek-will-allow-customers-train-showcase-repair-develop-giant-humanoid-robots/19377134/)**
+
+A 6-foot fighting robot was unveiled in San Francisco by REK at an empty warehouse that will soon be transformed into a humanoid robot one-stop shop.
+
+ABC7 Bay Area • 2d ago
 
 ---
 
@@ -153,12 +169,6 @@ Jamaica Gleaner • 13h ago
 The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
 
 Financial Times • 2d ago
-
----
-
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 1d ago
 
 ---
 
@@ -176,14 +186,6 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Chinese robot dog uses pulse technology for high-risk firefighting](https://interestingengineering.com/ai-robotics/video-robot-dog-delivers-pulse-powered-firefighting-for-safer-emergency-operations)**
-
-DEEP Robotics demostrates a pulse firefighting robot dog that suppresses fires remotely, protecting crews in hazardous environments.
-
-Interesting Engineering • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +196,7 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 265 • 💬 63 • ⏱️ 19:38 • 6h ago
+👁️ 7K • 👍 338 • 💬 89 • ⏱️ 19:38 • 8h ago
 
 ---
 
@@ -204,7 +206,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 69K • 👍 1K • 💬 236 • ⏱️ 13:45 • 5d ago
+👁️ 70K • 👍 2K • 💬 241 • ⏱️ 13:45 • 5d ago
 
 ---
 
@@ -214,7 +216,15 @@ Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 1.7M • 👍 2K • 💬 525 • ⏱️ 0:31 • 3d ago
+👁️ 1.8M • 👍 2K • 💬 528 • ⏱️ 0:31 • 3d ago
+
+---
+
+**[#robot #industrial #borunte #spraying #welding #welding](https://www.youtube.com/watch?v=c1Q9_5ExVTc)**
+
+📺 BORUNTE-Robot-Messi
+
+👁️ 30K • 👍 73 • ⏱️ 0:14 • 3d ago
 
 ---
 
@@ -224,7 +234,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 5K • 👍 726 • 💬 38 • ⏱️ 1:16 • 20h ago
+👁️ 5K • 👍 761 • 💬 41 • ⏱️ 1:16 • 22h ago
 
 ---
 
@@ -234,37 +244,17 @@ In Derbyshire, at the National Ferret School, I say "hello" to some smelly thiev
 
 📺 Tom Scott
 
-👁️ 938K • 👍 49K • 💬 2K • ⏱️ 21:33 • 5d ago
+👁️ 948K • 👍 50K • 💬 2K • ⏱️ 21:33 • 5d ago
 
 ---
 
-**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+**[Scientists Create 5-in-1 Surgical Micro-robot](https://www.youtube.com/watch?v=0TushliM9Pk)**
 
-Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
 
-📺 FOX 5 New York
+📺 Dr Ben Miles
 
-👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 3d ago
-
----
-
-**[World’s First General-Purpose Cerebellum GPT Foundation Model for Humanoid Robots: AstraBrain-WBC0.5](https://www.youtube.com/watch?v=iNBvCLjOmVw)**
-
-Trained on 20000 hours of human motion data — the largest-scale dataset to date — AstraBrain-WBC 0.5 marks the first ...
-
-📺 Galbot
-
-👁️ 2.8M • 👍 541 • 💬 2 • ⏱️ 3:06 • 4d ago
-
----
-
-**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
-
-Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
-
-📺 PRO ROBOTS
-
-👁️ 26K • 👍 239 • 💬 8 • ⏱️ 11:29 • 4d ago
+👁️ 428K • 👍 31K • 💬 487 • ⏱️ 1:44 • 1d ago
 
 ---
 
@@ -274,17 +264,27 @@ General Motors has cut 1000 jobs at its Detroit facility, and it later installed
 
 📺 NewsNation
 
-👁️ 77K • 👍 1K • 💬 1K • ⏱️ 2:04 • 4d ago
+👁️ 78K • 👍 1K • 💬 1K • ⏱️ 2:04 • 4d ago
 
 ---
 
-**[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
+**[$70K Robot Nanny Knows KUNG FU?! 😱🥋#shorts #funny #robot](https://www.youtube.com/watch?v=zv0PuRKDIWA)**
 
-2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
+shorts #anime #fyp #recap #foryou 【Updated daily,welcome to subscribe!】
 
-📺 Just A Dad Approved
+📺 RECAP Animation
 
-👁️ 17K • 👍 293 • 💬 167 • ⏱️ 18:57 • 4d ago
+👁️ 390K • 👍 2K • 💬 11 • ⏱️ 1:43 • 3d ago
+
+---
+
+**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
+
+Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
+
+📺 PRO ROBOTS
+
+👁️ 31K • 👍 239 • 💬 8 • ⏱️ 11:29 • 4d ago
 
 ---
 

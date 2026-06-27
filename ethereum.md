@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T18:04:32.962228+00:00'
+updated: '2026-06-27T19:52:59.612220+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 18:04 UTC  
+**Last Updated:** June 27, 2026 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,591.00
+### $1,582.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -6.9%  
-**30d:** -21.1%  
-**90d:** -21.5%  
-**1y:** -34.8%  
+**24h:** +0.5%  
+**7d:** -7.5%  
+**30d:** -21.6%  
+**90d:** -22.1%  
+**1y:** -35.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $193.13B
+**Market Cap:** $190.27B
 Rank #2
 
 **Circulating Supply:** 120,683,513 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.6%
+-68.1%
 
 **All-Time Low:** $0.43
-+369511.5%
++364019.3%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -168,11 +168,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://finance.yahoo.com/markets/crypto/articles/traders-predict-more-pain-bitcoin-162403797.html)**
+**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
 
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
+BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 1d ago
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -200,27 +200,11 @@ Coinbase • 1d ago
 
 ---
 
-**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
+**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
 
-BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
+Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
 
-The Motley Fool • 12h ago
-
----
-
-**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
-
-Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
-
-FXStreet • 1d ago
+Coinpedia • 2d ago
 
 ---
 
@@ -232,9 +216,35 @@ BeInCrypto • 1d ago
 
 ---
 
+**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
+
+FXStreet • 1d ago
+
+---
+
+**[Ethereum Price Slips 4% As Investors Liquidate Positions](https://dmarketforces.com/ethereum-price-slips-4-as-investors-liquidate-positions/)**
+
+Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
+
+MarketForces Africa • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[BITCOIN &amp; ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vqTo4LX11Ls)**
+
+BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 160 • 💬 191 • ⏱️ 18:14 • 1h ago
+
+---
 
 **[🚨 BMNR &amp; ETH: WHAT EVERYONE IS MISSING | SBET UPDATE](https://www.youtube.com/watch?v=UoLddx14ytU)**
 
@@ -242,17 +252,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 113 • 💬 40 • ⏱️ 27:53 • 21h ago
-
----
-
-**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 100 • 👍 15 • 💬 175 • ⏱️ 5:07 • 6h ago
+👁️ 3K • 👍 120 • 💬 59 • ⏱️ 27:53 • 23h ago
 
 ---
 
@@ -262,7 +262,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 441 • 💬 84 • ⏱️ 19:47 • 2d ago
+👁️ 16K • 👍 448 • 💬 77 • ⏱️ 19:47 • 2d ago
 
 ---
 
@@ -272,17 +272,17 @@ The Ethereum Foundation is cratering. What does that mean for Ethereum price? Wh
 
 📺 Dana Love, PhD
 
-👁️ 16K • 👍 897 • 💬 152 • ⏱️ 13:22 • 1d ago
+👁️ 17K • 👍 905 • 💬 138 • ⏱️ 13:22 • 2d ago
 
 ---
 
-**[Why Ethereum Could Be Primed for a Major Correction](https://www.youtube.com/watch?v=ZuaXtjh6-t8)**
+**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
 
-In this video I break down the latest Elliott Wave analysis for Ethereum and evaluate the potential for a deeper correction toward ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 198 • 💬 12 • ⏱️ 9:04 • 1d ago
+👁️ 148 • 👍 15 • 💬 40 • ⏱️ 5:07 • 7h ago
 
 ---
 
@@ -292,27 +292,7 @@ Book a free virtual call with us here: http://marketsniper.me/2OJbM4Y https://th
 
 📺 The Crypto Sniper
 
-👁️ 7K • 👍 490 • 💬 175 • ⏱️ 32:05 • 1d ago
-
----
-
-**[Bitcoin Below $60K: Michael Saylor Is Running Out of Moves](https://www.youtube.com/watch?v=BbOvbGQSb_A)**
-
-OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are bleeding as Bitcoin breaks below ...
-
-📺 Bankless
-
-👁️ 8K • 👍 229 • 💬 57 • ⏱️ 1:04:00 • 1d ago
-
----
-
-**[Why Ethereum’s Potential Hasn’t Come True Yet](https://www.youtube.com/watch?v=u1eyGeuN2aI)**
-
-In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum's earliest builders, explains why AI agents could ...
-
-📺 Cointelegraph
-
-👁️ 3K • 👍 91 • 💬 21 • ⏱️ 11:21 • 2d ago
+👁️ 8K • 👍 503 • 💬 119 • ⏱️ 32:05 • 1d ago
 
 ---
 
@@ -322,17 +302,37 @@ MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapita
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 356 • 💬 37 • ⏱️ 31:39 • 1d ago
+👁️ 6K • 👍 356 • 💬 37 • ⏱️ 31:39 • 2d ago
 
 ---
 
-**[BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pvOelddW0JA)**
+**[Why Ethereum’s Potential Hasn’t Come True Yet](https://www.youtube.com/watch?v=u1eyGeuN2aI)**
 
-BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum's earliest builders, explains why AI agents could ...
 
-📺 Crypto World
+📺 Cointelegraph
 
-👁️ 9K • 👍 348 • 💬 115 • ⏱️ 19:11 • 23h ago
+👁️ 3K • 👍 91 • 💬 5 • ⏱️ 11:21 • 2d ago
+
+---
+
+**[Why Ethereum Could Be Primed for a Major Correction](https://www.youtube.com/watch?v=ZuaXtjh6-t8)**
+
+In this video I break down the latest Elliott Wave analysis for Ethereum and evaluate the potential for a deeper correction toward ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 200 • 💬 12 • ⏱️ 9:04 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=nzUa_gC14Zk)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 762 • 👍 77 • ⏱️ 6:33 • 7h ago
 
 ---
 
