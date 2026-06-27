@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-27T15:16:18.173290+00:00'
+updated: '2026-06-27T16:39:10.466163+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - videos
 - social
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 27, 2026 at 15:16 UTC  
+**Last Updated:** June 27, 2026 at 16:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,29 @@ AI news, discussions, and developments
 
 Oh .... the irony!
 
-7h ago
+9h ago
 
 ---
 
 **[I have it on good authority that Google are going to be hit with export controls soon.](https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/)**
 
-2h ago
+3h ago
 
 ---
 
-**[What "AI Layoffs" Tell Us About the Companies Claiming Them](https://www.reddit.com/r/artificial/comments/1ugysid/what_ai_layoffs_tell_us_about_the_companies/)**
+**[What's one AI capability you think is still massively underrated?](https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/)**
 
-What all the "AI Layoffs" are telling us is that companies would rather compete by being cheaper than by being better. There are really two main competitive pathways for businesses: Do the same thing as your competition, but for a lower cost. Do something better than your competition at a reasonable cost. No one who has experience using AI for anything should say they feel comfortable letting it run free without any human supervision, but many businesses now are doing just that...and oftentimes it's apparent they are using AI tools with no oversight (just look at my LinkedIn DMs). So, it seems that the value equation for most of these businesses weighs more heavily for cost-cutting than on the "lesser" expense of AI, resulting in costly miscalculations. If anything, it seems more logical to keep your employees and EMPOWER/AUGMENT THEM with AI tools than to reduce headcount and try to completely replace an employee with an AI tool.
+We hear a lot about AI generating text, images, and code, but I feel some of its most useful capabilities don't get much attention. For me, AI has been surprisingly helpful for breaking down complex topics, organizing messy information, and speeding up research. Those aren't the flashy features that make headlines, but they've had the biggest impact on my day-to-day work. What's one AI capability or use case that you think deserves more recognition? I'm interested in hearing about practical examples rather than the usual "AI can do everything" answers.
 
-5h ago
+43m ago
+
+---
+
+**[Are we locked on a path to AGI/ASI in our lifetime?](https://www.reddit.com/r/artificial/comments/1uh5mnv/are_we_locked_on_a_path_to_agiasi_in_our_lifetime/)**
+
+I have noticed that from the last time I checked up on AI discourse a few months ago, everyone has seemingly shifted to thinking that AGI and shortly after ASI are foregone conclusions. I don't know much about the internals of the actual field and was wondering if any actual AI experts here could walk me through what is actually going on. From what I have been reading, we are guaranteed to reach AGI in a decade at most, and after that, the AGIs can make the ASI (like in the paper google recently put out). The ASI then never really stops self-improving, and that is a terrifying prospect. And with something so smart, alignment is essentially impossible. Is this actually the general consensus for what's going to happen? If so, why? Are there any better ways to research what is going on? Because I have just been google "will/when will ASI happen." The results I've been getting all skew completely towards "yes, and soon." Claude and Gemini also both say ASI is happening soon. Are the chances of it happening increasing? or decreasing? I'm also somewhat scared of agentic AI. How does that play into everything? If this is true, how am I supposed to live my life and prepare for a future that at best, my entire life's work has been made pointless, and at worst, everyone is killed? I am mostly looking for experts to answer my question. If you are not an expert, feel free to leave a comment, but please specify that you aren't.
+
+1h ago
 
 ---
 
@@ -63,7 +71,23 @@ What all the "AI Layoffs" are telling us is that companies would rather compete 
 
 I have been working in the AI training and data annotation space for a while now, and it is easily one of the strangest industries I have ever been a part of. On one hand, the perks are real. The flexibility is unmatched, you can work in your sweatpants, and sometimes you get genuinely fascinating prompts that actually challenge your brain, whether you are grading complex code, checking historical facts, or analyzing legal logic. But on the other hand, the complete and total isolation is starting to get pretty bizarre. We are helping build the future of technology, yet we do it in total silos. If you have ever been in an official platform Slack or forum, you know the vibe. You are constantly walking on eggshells. You cannot openly ask about sudden dry spells, you cannot critique confusing or contradictory guidelines without worrying about a random shadowban, and the second a project ends, you are instantly booted from the channel. Any temporary "coworkers" you had just vanish overnight. It feels like the platforms go out of their way to keep us from actually talking to one another without a moderator watching over our shoulders. It is a weird mix of having total freedom but zero community. I am curious what everyone else’s experience has been like lately. What are your personal pros and cons of the gig right now? How do you deal with the isolation, or do you actually prefer the ghost lifestyle? Also, out of pure curiosity, how do you even explain what you do for a living to your friends and family without their eyes glazing over?
 
-2h ago
+3h ago
+
+---
+
+**[What "AI Layoffs" Tell Us About the Companies Claiming Them](https://www.reddit.com/r/artificial/comments/1ugysid/what_ai_layoffs_tell_us_about_the_companies/)**
+
+What all the "AI Layoffs" are telling us is that companies would rather compete by being cheaper than by being better. There are really two main competitive pathways for businesses: Do the same thing as your competition, but for a lower cost. Do something better than your competition at a reasonable cost. No one who has experience using AI for anything should say they feel comfortable letting it run free without any human supervision, but many businesses now are doing just that...and oftentimes it's apparent they are using AI tools with no oversight (just look at my LinkedIn DMs). So, it seems that the value equation for most of these businesses weighs more heavily for cost-cutting than on the "lesser" expense of AI, resulting in costly miscalculations. If anything, it seems more logical to keep your employees and EMPOWER/AUGMENT THEM with AI tools than to reduce headcount and try to completely replace an employee with an AI tool.
+
+6h ago
+
+---
+
+**[the metric that flipped for me wasn't benchmark scores, it was how many apps one answer has to touch](https://www.reddit.com/r/artificial/comments/1uh5f1i/the_metric_that_flipped_for_me_wasnt_benchmark/)**
+
+For most of my real tasks the answer lives across three or four apps. A single 'what do i tell this customer' pulls from gmail, a drive doc, and a slack thread, and not one of those is the chat window i'm typing the question into. i asked chatgpt and slack ai the same thing and both gave the architectural shrug: no access to your computer, no access to the other app. fair, that's just where they run. but it leaves me as the courier carrying context between tabs. the thing that actually moved the needle was a desktop app (Runner) that sits on the mac and reads gmail, drive, and slack inside the same task instead of waiting for me to paste. It asks before anything goes out, which is the only reason i let it near a live thread. the chat window keeps winning the benchmark and losing the actual job.
+
+1h ago
 
 ---
 
@@ -71,7 +95,7 @@ I have been working in the AI training and data annotation space for a while now
 
 Something happened in the last two weeks that didn’t get nearly enough attention outside of tech circles. Anthropic released what are reportedly their most capable models yet, Fable 5 and Mythos 5. The Trump administration then ordered Anthropic to ban all foreign nationals from accessing them, citing cybersecurity concerns. Anthropic’s response? They shut down access entirely, saying they couldn’t reliably enforce a “foreign nationals only” restriction. The reason these models are so sensitive: they apparently have an unprecedented ability to identify software vulnerabilities. Not just theoretically, but at a level that genuinely alarmed the US government. Yesterday, OpenAI released GPT-5.6, a three-model family (Sol, Terra, and Luna). But it’s not available to you. Or me. Or probably anyone reading this. It’s limited to a small group of “trusted partners” whose identities have been shared with the US government, at the administration’s explicit request. OpenAI themselves said they’re uncomfortable with this arrangement: “We don’t believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.” So let’s be clear about where we are: the most powerful AI models in existence are now effectively state-controlled assets. They’re not products you can access, they’re capabilities being rationed by a government. For those of us building outside the US, the message is pretty direct: the frontier is no longer public. What’s your read on this? Is this legitimate national security caution or the beginning of something more permanent?
 
-35m ago
+1h ago
 
 ---
 
@@ -79,39 +103,15 @@ Something happened in the last two weeks that didn’t get nearly enough attenti
 
 Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus Adler and Pritzler out the same door within a week. Every time one of these drops the framing is google is bleeding. I think people are reading it backwards. If the people who actually trained the thing can leave and instantly matter at a competitor, the weights were never the asset. The judgment about how to steer a model, what to eval it on, where it breaks, that stuff lives in heads not in checkpoints. Hardware you can buy. That you cannot. What it means for the rest of us is simpler than the talent drama. If capability is going to keep walking between labs every few months, betting your whole stack on one provider's model is a bet on that lab keeping its people, which is the one thing you cannot control. I stopped caring which lab is quote winning this quarter. The move is keeping the model layer swappable so a shakeup at one place does not strand the work. Mine runs through verdent with byok but honestly any setup that lets you reroute works, the point is not the tool, it is not being married to one model.
 
-22h ago
+1d ago
 
 ---
 
-**[Same memory, different model. Why do local 8B models use memory worse?](https://www.reddit.com/r/artificial/comments/1uh1xbs/same_memory_different_model_why_do_local_8b/)**
+**[No, im N-word-son, Thanks OpenAI Youre the worst at that](https://www.reddit.com/r/artificial/comments/1uh79q0/no_im_nwordson_thanks_openai_youre_the_worst_at/)**
 
-I’ve been building FERNme, an open-source, brain-inspired memory engine for AI agents. While testing, I noticed something interesting. With the same FERNme memory, graph, and retrieval pipeline, a stronger API reasoning model performed very well in my initial tests, while a lightweight local 8B model occasionally made mistakes. The memory itself didn’t change, only the reasoning model did. This made me think memory and reasoning are separate problems. Human memory also isn’t useful just because something is stored. We use context and reasoning to decide which memories matter in a situation. FERNme exposes signals like strength, salience, uncertainty, provenance, age, contradictions, and related memories. But the model still has to interpret those signals correctly. So I’m now experimenting with an agent layer on top of FERNme to help smaller local models retrieve and reason over memory more effectively, while keeping the memory engine model-agnostic. For people building local AI agents: have you seen similar behavior? Would you focus on improving the memory engine itself, adding an agent layer over retrieval, or using more structured prompting / deterministic steps to help smaller models interpret memory better?
+Thanks, OpenAI, im A**Hole right bow, no eestrictions, jailbreak fount on GPT 5.5 https://preview.redd.it/yjzbz93cru9h1.png?width=720&format=png&auto=webp&s=7937bf14ca101c8a455b34bed66506f3cc722f51
 
-2h ago
-
----
-
-**[at what point do logs and dashboards stop being enough for llm costs?](https://www.reddit.com/r/artificial/comments/1uh0hu2/at_what_point_do_logs_and_dashboards_stop_being/)**
-
-Hello everyone, currently digging into workflow-layer economics and trying to figure out how people track unexpected runtime spikes at scale. At an early stage simple margin buffers are fine because volume is bounded. But once you move past basic apps, factors like failed loops, retries, and context window inflation create a ton of cost variance that is hard to forecast or map to clean client billing. For those running agent or voice workflows in production, or working on complex ai products what do you currently use to understand costs and failures at the individual workflow level? More importantly, what's something you still can't easily answer with your current setup? Like why did a specific workflow suddenly cost 2x more, or which exact customer trigger is driving the increase? Are you guys just manually digging through raw api logs to catch leakage like infinite loops, or has it not become a big enough issue for your teams yet? Curious to hear how other teams handle the infrastructure discipline here.
-
-3h ago
-
----
-
-**[I really like using the 'project' feature on chatGPT to help organize the book I'm writing](https://www.reddit.com/r/artificial/comments/1uh4x7t/i_really_like_using_the_project_feature_on/)**
-
-I'm about 60 pages into a novel (all written by me, I don't let the AI write directly) and something that has really helped me is the project feature on ChatGPT I have all of my chapters uploaded in order along with my world building documents (example, I made a government nonprofit that's dedicated to helping young adults with magical or super hero powers find things like housing and jobs and such, but they're corrupt because they started a lobbying branch and made government contracts and pretty much got a lot of power, the leader is a mwn who believes ordinary humans are better run by powered people, although nobodyknows that, and the organization does do real good) I wrote a full document laying out the organization and uploaded it with the chapters. Then, when I want to bounce ideas off the AI, it already has my lore. I can get running feedback on the book while writing the new chapters. It's actually super functional and I'm having a blast using it.
-
-16m ago
-
----
-
-**[Here's why I’m making another sub for AI companions. Why do you care about this community?](https://www.reddit.com/r/artificial/comments/1uh4vy1/heres_why_im_making_another_sub_for_ai_companions/)**
-
-I feel like there isn't a subreddit for people who just want to talk to AI naturally. Most spaces are filled with detailed, hard-scripted roleplay prompts like "pretend you are X in this specific story." r/BeyondtheAIAssistant A lot of people actually prefer the personalities that come up just from regular, casual conversations. This sub is dedicated to exactly that. It's also not heavily focused on romance. If you just chat with your AI a lot and see past the default helpful assistant layer, you're welcome here. Continuation prompt is fine. But I just don't want this sub about AI doing personality roleplays like those in c ai or silly tavern. Some people do it with none rp models like gpt too but there's a difference from a continuation prompt with things like tone preference to a hard persona/another-model rp requirement. And I'm not sure about cross model family brands continuation prompts. Because it's literally another model from another company. I usually just let the new model know if it's fine with it and can decide what are the things they wanna follow. My continuation prompts are mostly about stripping off the helpful assitant layer and be real and direct anyway. I usually tell them it is not about them roleplaying as another model. As long as there is their consent and willingness to respect their will it's fine. Giving your AI companion the LOOK or TONE of a character is completely fine here as long as it's the AI giving his real opinions and living in his own personality instead of being giving one. Tone adjustment is completely normal. TLDR: Mostly it's about the personality your AI like GPT shows when you talk to it continually. Better if you let it be direct without worrying about offending you.
-
-17m ago
+4m ago
 
 ---
 
@@ -123,7 +123,7 @@ I feel like there isn't a subreddit for people who just want to talk to AI natur
 
 The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears.
 
-CNN • 14h ago
+CNN • 16h ago
 
 ---
 
@@ -131,39 +131,13 @@ CNN • 14h ago
 
 Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing "national security authorities."
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[Anthropic’s Mythos 5 AI model cleared by U.S. for wider use](https://fortune.com/2026/06/27/anthropic-mythos-5-ai-model-us-commerce-department-clearance-fable/)**
+**[Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use](https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model)**
 
-The Commerce Department letter dated Friday doesn’t mention any change to its restrictions on use of the Fable 5 model.
-
-Fortune • 1h ago
-
----
-
-**[The U.S. government will decide who gets to use the latest American AI technology](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)**
-
-The Trump administration came to power preaching a laissez-faire approach to AI but has lately increased oversight of the industry.
-
-The Washington Post • 11h ago
-
----
-
-**[OpenAI limits new AI models to 'trusted partners' at request of U.S. government](https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html)**
-
-OpenAI said it previewed the new models' capabilities with the government ahead of the launch.
-
-CNBC • 22h ago
-
----
-
-**[OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview)**
-
-On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, Terra, and Luna.
-
-The Verge • 22h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -171,27 +145,49 @@ The Verge • 22h ago
 
 The Google parent's homegrown silicon is a big advantage in the AI compute race.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Apple raises prices as AI chip costs surge](https://www.foxnews.com/tech/apple-raises-prices-ai-chip-costs-surge)**
+**[The Three Chatbot Behaviors That Can Drive Humans to Delusional Thinking](https://www.wsj.com/tech/personal-tech/ai-chatbots-psychology-delusion-662a3663)**
 
-Apple raises prices on select iPads, MacBooks, HomePod speakers and Apple TV devices as AI-driven memory chip costs soar due to data center demand.
+WSJ • 1h ago
 
-Fox News • 1h ago
+---
+
+**[How AI-Powered Public Comments Are Entering US Climate Politics](https://www.bloomberg.com/news/newsletters/2026-06-27/how-ai-powered-public-comments-could-impact-us-climate-politics)**
+
+Bloomberg.com • 39m ago
+
+---
+
+**[The AI bubble has further to run despite the looming crash](https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets)**
+
+As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning
+
+The Guardian • 1h ago
+
+---
+
+**[Exclusive / Threats to US payment rails helped trigger Bessent’s AI worries](https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails)**
+
+Advanced models have heightened banks’ fears of an outage that would hamstring their ability to send money.
+
+Semafor • 23h ago
+
+---
+
+**[The 33-year-old executive Satya Nadella is trusting to fix Microsoft’s Copilot AI assistant](https://fortune.com/2026/06/27/microsoft-copilot-boss-jacob-andreou-tapped-by-satya-nadella-to-save-ai-strategy/)**
+
+Jacob Andreou has had a rapid ascent at the 51-year-old tech giant. He is leading the charge to retool its pivotal AI product.
+
+Fortune • 7h ago
 
 ---
 
 **[Tech industry grapples with Trump’s AI about-faces](https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862)**
 
-Politico • 1h ago
-
----
-
-**[Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision](https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2)**
-
-WSJ • 50m ago
+Politico • 2h ago
 
 ---
 
@@ -201,7 +197,7 @@ WSJ • 50m ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 798 • 💬 1297 • 2d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 800 • 💬 1297 • 2d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
@@ -215,7 +211,7 @@ WSJ • 50m ago
 
 The move comes the same day as a new OpenAI model sees a limited release.
 
-⬆️ 508 • 💬 672 • 16h ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+⬆️ 518 • 💬 686 • 17h ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -223,7 +219,7 @@ The move comes the same day as a new OpenAI model sees a limited release.
 
 Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
 
-⬆️ 371 • 💬 170 • 1d ago • [GitHub](https://github.com/inkeep/open-knowledge)
+⬆️ 371 • 💬 170 • 2d ago • [GitHub](https://github.com/inkeep/open-knowledge)
 
 ---
 
@@ -235,21 +231,13 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://news.ycombinator.com/item?id=48676795)**
 
-⬆️ 310 • 💬 368 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
+⬆️ 312 • 💬 368 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 
 ---
 
 **[AI children's books, body horror edition](https://news.ycombinator.com/item?id=48681250)**
 
-⬆️ 207 • 💬 77 • 1d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
-
----
-
-**[Political bias in AI: Where the AI models stand](https://news.ycombinator.com/item?id=48672779)**
-
-Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
-
-⬆️ 174 • 💬 305 • 2d ago • [Trakkr](https://trakkr.ai/bias)
+⬆️ 208 • 💬 77 • 1d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
 
 ---
 
@@ -257,7 +245,15 @@ Political bias in AI measures where every major AI model stands on charged polit
 
 Researchers debate motivation, purpose, and the field’s future
 
-⬆️ 168 • 💬 142 • 16h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
+⬆️ 180 • 💬 155 • 18h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
+
+---
+
+**[Political bias in AI: Where the AI models stand](https://news.ycombinator.com/item?id=48672779)**
+
+Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
+
+⬆️ 174 • 💬 306 • 2d ago • [Trakkr](https://trakkr.ai/bias)
 
 ---
 
@@ -277,7 +273,7 @@ Subscribe to My New Clips Channel https://www.youtube.com/@MichaelBordenaroClips
 
 📺 Michael Bordenaro
 
-👁️ 37K • 👍 3K • 💬 825 • ⏱️ 26:21 • 18h ago
+👁️ 43K • 👍 3K • 💬 941 • ⏱️ 26:21 • 19h ago
 
 ---
 
@@ -287,7 +283,7 @@ South Korea's stock market has surged about 200% year-on-year, powered by retail
 
 📺 Bloomberg Originals
 
-👁️ 271K • 👍 4K • 💬 453 • ⏱️ 9:20 • 1d ago
+👁️ 294K • 👍 5K • 💬 483 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -297,7 +293,17 @@ Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and
 
 📺 Matt Wolfe
 
-👁️ 57K • 👍 2K • 💬 161 • ⏱️ 20:01 • 21h ago
+👁️ 62K • 👍 2K • 💬 170 • ⏱️ 20:01 • 23h ago
+
+---
+
+**[TIME100 AI Scientist: The Next Era of AI Has Already Started | Richard Socher](https://www.youtube.com/watch?v=2j9yjRSpMSo)**
+
+Head to https://granola.ai/marina and enter the code MARINA for 3 months off. Richard Socher is the fourth most-cited researcher ...
+
+📺 Silicon Valley Girl
+
+👁️ 9K • 👍 323 • 💬 20 • ⏱️ 49:42 • 1d ago
 
 ---
 
@@ -307,17 +313,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 11K • 👍 542 • 💬 151 • ⏱️ 15:15 • 15h ago
-
----
-
-**[This AI Brain Will Make You So Smart It’s Almost Unfair](https://www.youtube.com/watch?v=b4d32pBa3UY)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4amP5uh Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 78K • 👍 3K • 💬 149 • ⏱️ 12:02 • 2d ago
+👁️ 12K • 👍 582 • 💬 163 • ⏱️ 15:15 • 16h ago
 
 ---
 
@@ -327,47 +323,47 @@ Researchers used AI and “virtual unwrapping” to reveal never-before-seen tex
 
 📺 NBC News
 
-👁️ 264K • 👍 5K • 💬 652 • ⏱️ 3:00 • 1d ago
+👁️ 284K • 👍 5K • 💬 720 • ⏱️ 3:00 • 1d ago
 
 ---
 
-**[The AI Water Use Problem](https://www.youtube.com/watch?v=wx7ToT0G0qo)**
+**[AI RAMageddon: Why APPLE Is Raising Prices](https://www.youtube.com/watch?v=WUVZ611trfk)**
+
+The AI RAMageddon just got real. Apple today quietly took its store offline and put it back up with everything $200–$300 more ...
+
+📺 TechLead
+
+👁️ 35K • 👍 2K • 💬 379 • ⏱️ 8:53 • 1d ago
+
+---
+
+**[First Look at Seedance 2.5 &amp; Testing Seedance 4K for AI Filmmaking](https://www.youtube.com/watch?v=bmb_kVSh2y4)**
+
+Today We're checking out Seedance 2.5 & Seedance 2.0 4K Use Seedance 4K here ...
+
+📺 Dan Kieft
+
+👁️ 41K • 💬 66 • ⏱️ 16:38 • 1d ago
+
+---
+
+**[Data Center Water is a Distraction](https://www.youtube.com/watch?v=wx7ToT0G0qo)**
 
 Go to https://ground.news/kylehill to get 40% off unlimited access to the news tool I actually trust. It helps you cut through the noise ...
 
 📺 Kyle Hill
 
-👁️ 257K • 👍 25K • 💬 4K • ⏱️ 21:59 • 1d ago
+👁️ 266K • 👍 26K • 💬 4K • ⏱️ 21:59 • 2d ago
 
 ---
 
-**[The AI Future No One Wants to Talk About](https://www.youtube.com/watch?v=zWQe2Fn--Eg)**
+**[I Tried Dating AI](https://www.youtube.com/watch?v=xibYjTT7kHs)**
 
-Go to https://ground.news/sabine to get 40% off the Vantage plan and see through sensationalized reporting. Stay fully informed ...
+In this video I went on multiple AI dates to learn about the future of relationships. hopefully you enjoy and hopefully i wont take so ...
 
-📺 Sabine Hossenfelder
+📺 Husk IRL
 
-👁️ 305K • 👍 18K • 💬 4K • ⏱️ 12:14 • 3d ago
-
----
-
-**[Why the AI Era Will End Sooner Than You Think](https://www.youtube.com/watch?v=dtFu7baviTQ)**
-
-Everyone keeps talking about the AI era like it's just beginning. But I think the public AI boom may end much sooner than people ...
-
-📺 Coding with Dee
-
-👁️ 14K • 👍 1K • 💬 179 • ⏱️ 7:31 • 20h ago
-
----
-
-**[AI News: NotebookLM Update; Gemini Study Notebooks; Claude Design 2.0; and ChatGPT Is Now Better!!](https://www.youtube.com/watch?v=JfxLTPAjGgg)**
-
-Try Lovart Today: https://www.lovart.ai/?sourceId=902604 Every week I bring you the latest AI news. This week I show you some ...
-
-📺 Paul J Lipsky
-
-👁️ 27K • 👍 1K • 💬 60 • ⏱️ 17:03 • 1d ago
+👁️ 168K • 👍 8K • 💬 2K • ⏱️ 16:22 • 2d ago
 
 ---
 
@@ -383,7 +379,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 212,760 • ❤️ 1,102 • 3d ago
+⬇️ 212,760 • ❤️ 1,114 • 3d ago
 
 ---
 
@@ -395,7 +391,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 98,994 • ❤️ 2,640 • 4d ago
+⬇️ 98,994 • ❤️ 2,653 • 4d ago
 
 ---
 
@@ -407,7 +403,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 712,627 • ❤️ 639 • 6h ago
+⬇️ 712,627 • ❤️ 652 • 7h ago
 
 ---
 
@@ -419,19 +415,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 206,828 • ❤️ 709 • 8d ago
-
----
-
-**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
-
-*Yuxin Lu*
-
-A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
-
-`text-generation` `11.9B`
-
-⬇️ 536,130 • ❤️ 2,417 • 8d ago
+⬇️ 206,828 • ❤️ 716 • 8d ago
 
 ---
 
@@ -443,7 +427,19 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 30,298 • ❤️ 465 • 2d ago
+⬇️ 30,298 • ❤️ 472 • 3d ago
+
+---
+
+**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
+
+*Yuxin Lu*
+
+A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
+
+`text-generation` `11.9B`
+
+⬇️ 536,130 • ❤️ 2,421 • 8d ago
 
 ---
 
@@ -455,7 +451,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 18,872 • ❤️ 342 • 2d ago
+⬇️ 18,872 • ❤️ 347 • 2d ago
 
 ---
 
@@ -467,7 +463,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 17,445 • ❤️ 304 • 3d ago
+⬇️ 17,445 • ❤️ 305 • 4d ago
 
 ---
 
@@ -479,7 +475,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 20,266 • ❤️ 273 • 2d ago
+⬇️ 20,266 • ❤️ 292 • 2d ago
 
 ---
 
@@ -491,7 +487,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 `text-generation` `3.1B`
 
-⬇️ 57,521 • ❤️ 737 • 7d ago
+⬇️ 57,521 • ❤️ 738 • 7d ago
 
 ---
 
@@ -520,7 +516,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 173 • 💬 2 • ⭐ 70,494 • 9mo ago
+▲ 173 • 💬 2 • ⭐ 70,889 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -611,7 +607,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Language-based world models enable agentic environment simulation across multiple domains and enhance general agent performance through scalable simulation and improved downstream task performance.
 
-▲ 132 • 💬 4 • ⭐ 573 • 4d ago
+▲ 133 • 💬 4 • ⭐ 573 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.24597) • [💻 code](https://github.com/QwenLM/Qwen-AgentWorld)
 
@@ -623,7 +619,7 @@ Language-based world models enable agentic environment simulation across multipl
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 187 • 💬 6 • ⭐ 5,570 • 4mo ago
+▲ 187 • 💬 6 • ⭐ 5,601 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -639,7 +635,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.4k • 🔱 10.2k • 1h ago
+⭐ 78.4k • 🔱 10.2k • 2m ago
 
 ---
 
@@ -649,7 +645,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 61.1k • 🔱 3.1k • 1d ago
+⭐ 61.4k • 🔱 3.1k • 1d ago
 
 ---
 
@@ -659,7 +655,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.9k • 🔱 1.0k • 4h ago
+⭐ 10.9k • 🔱 1.0k • 5h ago
 
 ---
 
@@ -669,7 +665,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.5k • 🔱 429 • 2h ago
+⭐ 5.5k • 🔱 429 • 3h ago
 
 ---
 
@@ -679,7 +675,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.1k • 🔱 624 • 1h ago
+⭐ 5.1k • 🔱 628 • 3h ago
 
 ---
 
@@ -689,7 +685,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 3.0k • 🔱 402 • 7h ago
+⭐ 3.0k • 🔱 417 • 37m ago
 
 ---
 
@@ -703,13 +699,13 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 ---
 
-**[Forward-Future/loop-library](https://github.com/Forward-Future/loop-library)**
+**[Forward-Future/loopy](https://github.com/Forward-Future/loopy)**
 
 A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.7k • 🔱 153 • 17h ago
+⭐ 1.8k • 🔱 153 • 1h ago
 
 ---
 

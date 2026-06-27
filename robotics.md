@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T15:16:18.190873+00:00'
+updated: '2026-06-27T16:39:10.485070+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 15:16 UTC  
+**Last Updated:** June 27, 2026 at 16:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 15h ago
+San Francisco Chronicle • 16h ago
 
 ---
 
@@ -124,7 +124,7 @@ San Francisco Chronicle • 15h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 22h ago
+IEEE Spectrum • 23h ago
 
 ---
 
@@ -132,15 +132,13 @@ IEEE Spectrum • 22h ago
 
 Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
-**[How compact cobot integration enhances autonomous mobile robot applications](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/)**
+**[The Next Normal – The future of robotics: Intelligent, adaptable, and on your team](https://www.mckinsey.com/featured-insights/the-next-normal/robotics)**
 
-Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said.
-
-The Robot Report • 2h ago
+McKinsey & Company • 2d ago
 
 ---
 
@@ -154,15 +152,7 @@ WSJ • 3d ago
 
 The Unitree G1 is the first relatively affordable humanoid robot. We break down its price, teardown, limitations, and why Tesla, BMW, Mercedes-Benz, XPeng, and other automakers are investing heavily in the technology.
 
-MotorTrend • 19h ago
-
----
-
-**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
-
-WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
-
-Jamaica Gleaner • 10h ago
+MotorTrend • 21h ago
 
 ---
 
@@ -182,9 +172,17 @@ Financial Times • 2d ago
 
 ---
 
-**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
+**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
 
-Tech Xplore • 23h ago
+WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
+
+Jamaica Gleaner • 11h ago
+
+---
+
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+
+OregonLive.com • 1d ago
 
 ---
 
@@ -192,23 +190,33 @@ Tech Xplore • 23h ago
 
 ## YouTube Videos: "robotics"
 
-**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+**[Manni FINALLY tries the NEW ROBOT: VULCAN in War Robts](https://www.youtube.com/watch?v=dCeAs-Abbx0)**
 
-Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now and get 5 days of Captain's Seal (+40% XP/Gold) ...
 
-📺 FOX 5 New York
+📺 Manni-Gaming
 
-👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 3d ago
+👁️ 4K • 👍 265 • 💬 63 • ⏱️ 19:38 • 4h ago
 
 ---
 
-**[Hospital Robot, Biological Computing &amp; Soft Robotics | Tech It Out: Ep 265 | Full Show](https://www.youtube.com/watch?v=Wu9CAB2shiQ)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
-This week on Tech It Out, we look at how a humanoid is supporting patients and healthcare workers at a hospital in Italy; explore ...
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
-📺 WION
+📺 AI Revolution
 
-👁️ 62 • 👍 2 • 💬 1 • ⏱️ 19:46 • 3h ago
+👁️ 69K • 👍 1K • 💬 236 • ⏱️ 13:45 • 5d ago
+
+---
+
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+
+Your Smart Robot Companion.
+
+📺 Unitree Robotics
+
+👁️ 1.7M • 👍 2K • 💬 525 • ⏱️ 0:31 • 3d ago
 
 ---
 
@@ -218,17 +226,27 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 5K • 👍 681 • 💬 34 • ⏱️ 1:16 • 17h ago
+👁️ 5K • 👍 726 • 💬 38 • ⏱️ 1:16 • 19h ago
 
 ---
 
-**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
 
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
 
-📺 ARPO: The Robot
+📺 Tom Scott
 
-👁️ 33K • 👍 50 • ⏱️ 59:56 • 2d ago
+👁️ 938K • 👍 49K • 💬 2K • ⏱️ 21:33 • 5d ago
+
+---
+
+**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+
+Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+
+📺 FOX 5 New York
+
+👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 3d ago
 
 ---
 
@@ -242,53 +260,33 @@ Trained on 20000 hours of human motion data — the largest-scale dataset to dat
 
 ---
 
+**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
+
+Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
+
+📺 PRO ROBOTS
+
+👁️ 26K • 👍 239 • 💬 8 • ⏱️ 11:29 • 4d ago
+
+---
+
+**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
+
+General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
+
+📺 NewsNation
+
+👁️ 77K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
+
+---
+
 **[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
 
 2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
 
 📺 Just A Dad Approved
 
-👁️ 17K • 👍 292 • 💬 166 • ⏱️ 18:57 • 4d ago
-
----
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 68K • 👍 1K • 💬 235 • ⏱️ 13:45 • 5d ago
-
----
-
-**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
-
-📺 PREDATOR WR
-
-👁️ 10K • 👍 378 • 💬 68 • ⏱️ 14:36 • 1d ago
-
----
-
-**[This robot was built to chase you 👀 #trendingshorts #robot #tech](https://www.youtube.com/watch?v=FqzDqlaCNNo)**
-
-Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designed to autonomously follow and film its owner.
-
-📺 Rowan Cheung
-
-👁️ 40K • 👍 2K • 💬 58 • ⏱️ 1:08 • 22h ago
-
----
-
-**[Scientists Create 5-in-1 Surgical Micro-robot](https://www.youtube.com/watch?v=0TushliM9Pk)**
-
-Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
-
-📺 Dr Ben Miles
-
-👁️ 370K • 👍 28K • 💬 450 • ⏱️ 1:44 • 1d ago
+👁️ 17K • 👍 293 • 💬 167 • ⏱️ 18:57 • 4d ago
 
 ---
 
