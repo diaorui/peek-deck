@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T21:04:34.172216+00:00'
+updated: '2026-06-27T22:35:58.523709+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 21:04 UTC  
+**Last Updated:** June 27, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at nav
 
 Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — North America's largest robotics show.
 
-1d ago
+2d ago
 
 ---
 
@@ -84,7 +84,7 @@ I am designing a robotic arm, and am wondering how can I determine if a certain 
 
 The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to show what it looks like to rethink human-robot collaboration, using AI so a shrinking pool of experts can meet the increasing demands of future infrastructure. The obvious thing to automate is the rote physical work that consumes an expert's attention without needing critical judgment. Cabling tasks are the most common example of this. They're necessary when setting up any rack, but usually one-off, and labor is readily available to address this need. We think this is a good place to start, but the least interesting place to change how people work. Standard operating procedures (SOPs) are how critical infrastructure stays stable, and they're the work that scales worst. The video shows one common procedure: clearing the cables a technician leaves behind after testing, and reconciling the rack to a stable state for the next test. A robot that runs SOPs the same way every time, never skipping a step, keeps the system in a known, predictable state. This reduces the cognitive overhead on experts so they can solve harder problems. What most excites us is robots guiding where an expert's attention should go. In the video, the robot checks the switches with a thermal camera, then makes a judgment on whether the increase in temperature is a real problem or a spurious reading. This instinct requires an expert to synthesize all available background context and accumulated lessons from past failures. This is where we want to double down, and show how human-robot collaboration places scarce expert attention exactly where it matters. More to come.
 
-2d ago
+3d ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 1d ago
 
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 20h ago
+San Francisco Chronicle • 22h ago
 
 ---
 
@@ -134,19 +134,11 @@ McKinsey & Company • 2d ago
 
 ---
 
-**[Inside the $17,900 Robot That Could Change the Auto Industry](https://www.motortrend.com/news/first-humanoid-robot-teardown-analysis)**
-
-The Unitree G1 is the first relatively affordable humanoid robot. We break down its price, teardown, limitations, and why Tesla, BMW, Mercedes-Benz, XPeng, and other automakers are investing heavily in the technology.
-
-MotorTrend • 1d ago
-
----
-
 **[Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public](https://finance.yahoo.com/technology/ai/articles/humanoid-robotics-ceo-first-pure-220721680.html)**
 
 Peggy Johnson, a former Microsoft and Magic Leap executive who is now the CEO of Agility Robotics, used a CNBC segment to announce that her company is going public through a SPAC merger with Churchill Capital Corp., a deal she describes as the first pure-play humanoid robotics company to tap public markets. The company, a ... Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -154,7 +146,13 @@ Yahoo Finance • 2d ago
 
 Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
 
-Silicon Canals • 23h ago
+Silicon Canals • 1d ago
+
+---
+
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+
+OregonLive.com • 2d ago
 
 ---
 
@@ -166,15 +164,17 @@ Financial Times • 2d ago
 
 ---
 
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 2d ago
-
----
-
 **[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+
+Business Insider • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Tech Xplore • 1d ago
 
 WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
 
-Jamaica Gleaner • 16h ago
+Jamaica Gleaner • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 338 • 💬 89 • ⏱️ 19:38 • 9h ago
+👁️ 8K • 👍 388 • 💬 96 • ⏱️ 19:38 • 10h ago
 
 ---
 
@@ -206,7 +206,17 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 70K • 👍 2K • 💬 241 • ⏱️ 13:45 • 5d ago
+👁️ 71K • 👍 2K • 💬 242 • ⏱️ 13:45 • 5d ago
+
+---
+
+**[Six-armed robot does six jobs at once! #robotics #airobot #industrialautomation](https://www.youtube.com/watch?v=YQzj4PfWeB8)**
+
+Shanghai-based iSAGEBOT teasing what it calls the world's first “spatial heterogenous” six-armed humanoid robot. The Hexa-Arm ...
+
+📺 Kalil 4.0
+
+👁️ 755 • 👍 23 • ⏱️ 0:27 • 5h ago
 
 ---
 
@@ -216,25 +226,15 @@ Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 1.8M • 👍 2K • 💬 528 • ⏱️ 0:31 • 3d ago
+👁️ 1.9M • 👍 2K • 💬 530 • ⏱️ 0:31 • 3d ago
 
 ---
 
-**[#robot #industrial #borunte #spraying #welding #welding](https://www.youtube.com/watch?v=c1Q9_5ExVTc)**
+**[Spraying robot #robot #machine #industrialrobots #automation #spray](https://www.youtube.com/watch?v=dZJecPxUAw0)**
 
-📺 BORUNTE-Robot-Messi
+📺 Borunte julie 
 
-👁️ 30K • 👍 73 • ⏱️ 0:14 • 3d ago
-
----
-
-**[Robotics](https://www.youtube.com/watch?v=P4KlMJ02d0Q)**
-
-erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 Support Mary directly: Substack: ...
-
-📺 Mary Trump Media
-
-👁️ 5K • 👍 761 • 💬 41 • ⏱️ 1:16 • 23h ago
+👁️ 29K • 👍 64 • ⏱️ 0:12 • 1d ago
 
 ---
 
@@ -244,37 +244,7 @@ In Derbyshire, at the National Ferret School, I say "hello" to some smelly thiev
 
 📺 Tom Scott
 
-👁️ 948K • 👍 50K • 💬 2K • ⏱️ 21:33 • 5d ago
-
----
-
-**[Scientists Create 5-in-1 Surgical Micro-robot](https://www.youtube.com/watch?v=0TushliM9Pk)**
-
-Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
-
-📺 Dr Ben Miles
-
-👁️ 428K • 👍 31K • 💬 487 • ⏱️ 1:44 • 1d ago
-
----
-
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
-
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
-
-📺 NewsNation
-
-👁️ 78K • 👍 1K • 💬 1K • ⏱️ 2:04 • 4d ago
-
----
-
-**[$70K Robot Nanny Knows KUNG FU?! 😱🥋#shorts #funny #robot](https://www.youtube.com/watch?v=zv0PuRKDIWA)**
-
-shorts #anime #fyp #recap #foryou 【Updated daily,welcome to subscribe!】
-
-📺 RECAP Animation
-
-👁️ 390K • 👍 2K • 💬 11 • ⏱️ 1:43 • 3d ago
+👁️ 956K • 👍 50K • 💬 2K • ⏱️ 21:33 • 5d ago
 
 ---
 
@@ -284,7 +254,37 @@ Threading a soft, flexible wire thinner than a millimeter into a tiny connector,
 
 📺 PRO ROBOTS
 
-👁️ 31K • 👍 239 • 💬 8 • ⏱️ 11:29 • 4d ago
+👁️ 33K • 👍 240 • 💬 8 • ⏱️ 11:29 • 4d ago
+
+---
+
+**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+
+Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+
+📺 FOX 5 New York
+
+👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 3d ago
+
+---
+
+**[World’s First General-Purpose Cerebellum GPT Foundation Model for Humanoid Robots: AstraBrain-WBC0.5](https://www.youtube.com/watch?v=iNBvCLjOmVw)**
+
+Trained on 20000 hours of human motion data — the largest-scale dataset to date — AstraBrain-WBC 0.5 marks the first ...
+
+📺 Galbot
+
+👁️ 2.8M • 👍 542 • 💬 2 • ⏱️ 3:06 • 4d ago
+
+---
+
+**[Robotics](https://www.youtube.com/watch?v=P4KlMJ02d0Q)**
+
+erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 Support Mary directly: Substack: ...
+
+📺 Mary Trump Media
+
+👁️ 6K • 👍 786 • 💬 47 • ⏱️ 1:16 • 1d ago
 
 ---
 
