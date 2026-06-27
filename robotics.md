@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T04:35:11.032218+00:00'
+updated: '2026-06-27T07:50:06.748383+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 04:35 UTC  
+**Last Updated:** June 27, 2026 at 07:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-23h ago
+1d ago
 
 ---
 
@@ -140,17 +140,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 15h ago
+
+---
+
 **[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
 
 Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 4h ago
+San Francisco Chronicle • 7h ago
 
 ---
 
@@ -168,25 +176,17 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Lutnick privately warned top executives of possible action against imported Chinese robots](https://www.politico.com/news/2026/06/23/lutnick-china-robots-commerce-00972576)**
+
+Politico • 3d ago
+
+---
+
 **[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
 
 The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
 
-New Atlas • 21h ago
-
----
-
-**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
-
-Tech Xplore • 12h ago
-
----
-
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
-
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 18h ago
+New Atlas • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Meet A3 from AGIBOT, a full-sized #humanoid ... with an wide range of motion at 
 
 📺 Kevin O'Donovan
 
-👁️ 810 • 👍 17 • 💬 2 • ⏱️ 0:34 • 3h ago
+👁️ 1K • 👍 17 • 💬 2 • ⏱️ 0:34 • 7h ago
 
 ---
 
@@ -210,7 +210,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 66K • 👍 1K • 💬 235 • ⏱️ 13:45 • 5d ago
+👁️ 67K • 👍 1K • 💬 234 • ⏱️ 13:45 • 5d ago
 
 ---
 
@@ -230,7 +230,27 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 3K • 👍 557 • 💬 28 • ⏱️ 1:16 • 7h ago
+👁️ 4K • 👍 606 • 💬 30 • ⏱️ 1:16 • 10h ago
+
+---
+
+**[We give it a 10 for confidence... #robotfail #robotics #TechHumor](https://www.youtube.com/watch?v=xDpit8vD5z8)**
+
+Robot tried to perform a cartwheel when gravity intervened. Media: techniahq on X.
+
+📺 Cybernews
+
+👁️ 2K • 👍 27 • 💬 3 • ⏱️ 0:06 • 2h ago
+
+---
+
+**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
+
+Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
+
+📺 ARPO: The Robot
+
+👁️ 29K • 👍 47 • ⏱️ 59:56 • 1d ago
 
 ---
 
@@ -240,7 +260,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 344 • 💬 64 • ⏱️ 14:36 • 16h ago
+👁️ 9K • 👍 370 • 💬 66 • ⏱️ 14:36 • 19h ago
 
 ---
 
@@ -250,7 +270,7 @@ In Derbyshire, at the National Ferret School, I say "hello" to some smelly thiev
 
 📺 Tom Scott
 
-👁️ 914K • 👍 49K • 💬 2K • ⏱️ 21:33 • 4d ago
+👁️ 919K • 👍 49K • 💬 2K • ⏱️ 21:33 • 4d ago
 
 ---
 
@@ -260,7 +280,7 @@ General Motors has cut 1000 jobs at its Detroit facility, and it later installed
 
 📺 NewsNation
 
-👁️ 73K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
+👁️ 74K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
 
 ---
 
@@ -271,26 +291,6 @@ Trained on 20000 hours of human motion data — the largest-scale dataset to dat
 📺 Galbot
 
 👁️ 2.8M • 👍 541 • 💬 2 • ⏱️ 3:06 • 4d ago
-
----
-
-**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
-
-Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
-
-📺 ARPO: The Robot
-
-👁️ 27K • 👍 45 • ⏱️ 59:56 • 1d ago
-
----
-
-**[This robot was built to chase you 👀 #trendingshorts #robot #tech](https://www.youtube.com/watch?v=FqzDqlaCNNo)**
-
-Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designed to autonomously follow and film its owner.
-
-📺 Rowan Cheung
-
-👁️ 24K • 👍 2K • 💬 44 • ⏱️ 1:08 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T04:35:11.028980+00:00'
+updated: '2026-06-27T07:50:06.745654+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 04:35 UTC  
+**Last Updated:** June 27, 2026 at 07:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,583.99
+### $1,582.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -7.3%  
+**24h:** +1.3%  
+**7d:** -7.2%  
 **30d:** -21.4%  
 **90d:** -21.8%  
 **1y:** -35.0%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $190.76B
+**Market Cap:** $190.94B
 Rank #2
 
 **Circulating Supply:** 120,683,513 ETH
@@ -62,7 +62,7 @@ No max supply
 -68.0%
 
 **All-Time Low:** $0.43
-+364943.1%
++365278.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 16h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 19h ago
 
 ---
 
@@ -88,7 +88,7 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to unders
 
 Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereum validators to redirect staking rewards toward sustainable public goods funding while balancing decentralization, governance, and long-term ecosystem growth.
 
-🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 1d ago
+🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 2d ago
 
 ---
 
@@ -112,7 +112,7 @@ Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,7 +136,7 @@ Ethereum’s new research venture seems like a two-sided sword as the globe’s 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -156,31 +156,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 9h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
+**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
 
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
+The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
 
-Decrypt • 1d ago
-
----
-
-**[Sharplink Resumes Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html)**
-
-For the first time in eight months, crypto treasury firm Sharplink (NASDAQ: $SBET) has bought Ethereum (CRYPTO: $ET...
-
-Yahoo Finance • 12h ago
+The Block • 1d ago
 
 ---
 
-**[Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts](https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts)**
+**[Sweeping up 10,000 ETH in 48 hours: Why is this listed company betting on Ethereum?](https://www.moomoo.com/news/post/72132964/sweeping-up-10000-eth-in-48-hours-why-is-this)**
 
-Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.
+Moomoo • 3h ago
 
-The Block • 15h ago
+---
+
+**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
+
+Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,15 +186,7 @@ The Block • 15h ago
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-The Motley Fool • 13m ago
-
----
-
-**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
-
-$6 billion just left BTC ETFs
-
-Coinbase • 19h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -204,7 +194,15 @@ Coinbase • 19h ago
 
 An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
 
-TradingView • 11h ago
+TradingView • 14h ago
+
+---
+
+**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
+
+$6 billion just left BTC ETFs
+
+Coinbase • 22h ago
 
 ---
 
@@ -212,23 +210,23 @@ TradingView • 11h ago
 
 BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-CryptoSlate • 20h ago
+CryptoSlate • 23h ago
 
 ---
 
-**[Current price of Ethereum for June 26, 2026](https://fortune.com/article/price-of-ethereum-06-26-2026/)**
+**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
 
-Fortune • 15h ago
+Decrypt • 1d ago
 
 ---
 
-**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
+**[Ethereum Price Slips 4% As Investors Liquidate Positions](https://dmarketforces.com/ethereum-price-slips-4-as-investors-liquidate-positions/)**
 
-Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
+Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
 
-Seeking Alpha • 15h ago
+MarketForces Africa • 1d ago
 
 ---
 
@@ -242,7 +240,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 85 • 💬 36 • ⏱️ 27:53 • 7h ago
+👁️ 2K • 👍 92 • 💬 38 • ⏱️ 27:53 • 11h ago
 
 ---
 
@@ -252,27 +250,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 151 • 💬 9 • ⏱️ 9:04 • 10h ago
-
----
-
-**[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
-
-The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
-
-📺 Dana Love, PhD
-
-👁️ 14K • 👍 829 • 💬 142 • ⏱️ 13:22 • 1d ago
-
----
-
-**[BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pvOelddW0JA)**
-
-BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 284 • 💬 117 • ⏱️ 19:11 • 9h ago
+👁️ 3K • 👍 173 • 💬 9 • ⏱️ 9:04 • 14h ago
 
 ---
 
@@ -282,17 +260,27 @@ In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum'
 
 📺 Cointelegraph
 
-👁️ 3K • 👍 86 • 💬 21 • ⏱️ 11:21 • 1d ago
+👁️ 3K • 👍 89 • 💬 21 • ⏱️ 11:21 • 1d ago
 
 ---
 
-**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=cT-Xkewekl4)**
+**[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
 
-BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
+The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
 
-📺 Crypto Gyan
+📺 Dana Love, PhD
 
-👁️ 285 • 👍 51 • ⏱️ 7:01 • 1h ago
+👁️ 15K • 👍 848 • 💬 143 • ⏱️ 13:22 • 1d ago
+
+---
+
+**[BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pvOelddW0JA)**
+
+BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 306 • 💬 100 • ⏱️ 19:11 • 12h ago
 
 ---
 
@@ -302,17 +290,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 397 • 💬 108 • ⏱️ 19:47 • 1d ago
-
----
-
-**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
-
-Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 23K • 👍 567 • 💬 60 • ⏱️ 1:35 • 20h ago
+👁️ 14K • 👍 407 • 💬 86 • ⏱️ 19:47 • 1d ago
 
 ---
 
@@ -322,7 +300,27 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 23K • 👍 1K • 💬 272 • ⏱️ 12:14 • 2d ago
+👁️ 23K • 👍 1K • 💬 283 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
+
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 25K • 👍 595 • 💬 60 • ⏱️ 1:35 • 23h ago
+
+---
+
+**[Bitcoin Below $60K: Michael Saylor Is Running Out of Moves](https://www.youtube.com/watch?v=BbOvbGQSb_A)**
+
+OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are bleeding as Bitcoin breaks below ...
+
+📺 Bankless
+
+👁️ 7K • 👍 211 • 💬 76 • ⏱️ 1:04:00 • 20h ago
 
 ---
 
@@ -332,7 +330,7 @@ On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDe
 
 📺 CoinDesk
 
-👁️ 2K • 👍 53 • 💬 23 • ⏱️ 18:21 • 1d ago
+👁️ 3K • 👍 56 • 💬 23 • ⏱️ 18:21 • 1d ago
 
 ---
 
