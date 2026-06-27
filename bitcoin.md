@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-27T13:44:33.962467+00:00'
+updated: '2026-06-27T15:16:18.181733+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 13:44 UTC  
+**Last Updated:** June 27, 2026 at 15:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,327.30
+### $60,856.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -4.2%  
-**30d:** -17.5%  
-**90d:** -9.2%  
-**1y:** -43.5%  
+**24h:** +1.4%  
+**7d:** -3.9%  
+**30d:** -17.2%  
+**90d:** -8.9%  
+**1y:** -43.3%  
 
 ---
 
@@ -77,27 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Chill Out](https://www.reddit.com/r/Bitcoin/comments/1ugg6qx/chill_out/)**
+**[BTC Goes Below $60k and Everyone Says It’s Dead? 🤣](https://www.reddit.com/r/Bitcoin/comments/1ugtb3b/btc_goes_below_60k_and_everyone_says_its_dead/)**
 
-Many of you need to calm down. Go engage in your hobbies, spend time with loved ones, have fun in someway. Stop stressing so much over bitcoin. I invested a large amount of my small networth in March 2022. Not until January 2024 did I have a single day where my investment was profitable. I’d have KMS if I was staring at the price everyday. Either sell your stack or shut up, please. You’ll be fine no matter what happens.
+Remember when they said the same thing at $500, and then $15k 😭
 
-18h ago
-
----
-
-**[No, bitcoin is not dead](https://www.reddit.com/r/Bitcoin/comments/1uganaj/no_bitcoin_is_not_dead/)**
-
-It’s funny, when bitcoin goes down, it’s the only asset they claim has died and it’s over. Farther from the truth. 80% of bitcoin hasn’t even moved the last 6 months. 20% of bitcoin(mainly leveraged trading) is dictating the price. MAG7 largest drawdowns Nvidia -89% now largest company in the world Amazon -95% Meta -77% Tesla -73% Microsoft -70% Google -70% Apple -65% They’ve all had multiple drawdowns 50%+ Thank you for coming to my TED talk
-
-21h ago
+10h ago
 
 ---
 
-**[New dynamic Bitcoin Rainbow Chart with R²=94,3%](https://www.reddit.com/r/Bitcoin/comments/1ug6kvg/new_dynamic_bitcoin_rainbow_chart_with_r²943/)**
+**[Bitcoin Obituary Calls Are Always So Funny](https://www.reddit.com/r/Bitcoin/comments/1uh03oj/bitcoin_obituary_calls_are_always_so_funny/)**
 
-So, I am the author of the original Bitcoin Rainbow Chart. As you may now, it fell > 10% below the lowest band (that was also added later). I don't want to let it die. Instead of blindly adding new colors to the bottom (ultraviolet anyone?), I created a new one. This one is calculating a dynamic power law regression. with all available data and will update the chart if we make lower lower or higher highs... The R² which measures how the curve fit the price chart is at 94,3%, which is quite good. Check it out. Don't want to post the link so this post does not get flagged but you know how to find the "Bitcoin Rainbow Chart on blockchaincenter.net
+Saw this post and immediately recalled how it’s been in the past: • 2010: early critics said it couldn’t become real money - btc was worth about 0.11 • 2013: after the 1st major crash, they called it “finished” - within 4yrs, it crossed 19k • 2017: Jamie Dimon called bitcoin “a fraud.” • 2018: Warren Buffett called it “rat poison squared.” - traded below 10k, It didn’t disappear • 2022: after exchange collapses, people said crypto was over - it survived another cycle. Same pattern every time: Price falls → confidence drops → people write the ending People keep underestimating its ability to recover. From history, the next chapter will be even brighter than today’s headlines suggest
 
-1d ago
+4h ago
+
+---
+
+**[Your Bitcoin is being watched — how chain analysis works and the full privacy stack to defeat it (2026 guide)](https://www.reddit.com/r/Bitcoin/comments/1uh1qbe/your_bitcoin_is_being_watched_how_chain_analysis/)**
+
+Most people think Bitcoin is anonymous. It isn't. Every transaction is permanently on a public ledger. Companies like Chainalysis earn $100M+ per year mapping Bitcoin addresses to real identities — paid for almost entirely by governments. The techniques they use: Common Input Ownership Heuristic (CIOH) — if multiple inputs are in the same transaction, they assume one owner Change output detection — round numbers, address type mismatches, transaction graph analysis Address reuse — every reuse permanently links your history Network surveillance — your IP before the tx even hits the blockchain The defense is a layered stack: → Never reuse addresses (free, takes 0 effort) → Run your own node (no third party sees your addresses) → Tor on your node (strips IP from broadcasts) → CoinJoin — Wasabi 2.x or JoinMarket-NG (breaks UTXO history) → PayJoin BIP77/78 (invisible on-chain, breaks CIOH) → Silent Payments BIP352 (public address, zero linkable history) → Lightning for daily spending (zero on-chain footprint) Full guide with practical setup for each layer: 👉 https://open.substack.com/pub/davidebtc186/p/your-bitcoin-is-being-watched-how?utm\_source=share&utm\_medium=android&r=4gald6 Questions welcome in the comments.
+
+2h ago
+
+---
+
+**[Realistically, how low do you think we go from here?](https://www.reddit.com/r/Bitcoin/comments/1ugtysc/realistically_how_low_do_you_think_we_go_from_here/)**
+
+Ok so we tapped under 60k and bounced, and I genuinely can't tell if that was the flush or just the appetizer. I've been around long enough to know nobody actually knows, but I'm curious where people's heads are at. The takes I keep seeing are basically two camps. One says this is normal bear chop and ~55-58k holds, we grind sideways and it's fine. The other is throwing out 42-44k as the "real" bottom and pointing at the ETF outflows + everything just bleeding into AI stocks instead. My gut says we're not done. Doesn't feel capitulation-y yet? Like everyone's scared but nobody's actually given up, which is usually when the real bottom isn't in. But I've also been wrong every single time I've tried to call a bottom so take that for what it's worth lol. The thing that messes with me is this cycle doesn't rhyme with the old ones. Fear and greed is basically pinned to the floor but price isn't doing the violent puke we usually get down there. Slower, grindier. Almost worse psychologically tbh. Not selling, not really buying either, just kind of sitting on my hands waiting for something to break one way or the other. Where's everyone else at — you got a number you're watching, or just vibing through it?
+
+9h ago
 
 ---
 
@@ -105,53 +113,47 @@ So, I am the author of the original Bitcoin Rainbow Chart. As you may now, it fe
 
 Title.
 
-18h ago
+19h ago
 
 ---
 
-**[I made everyone richer](https://www.reddit.com/r/Bitcoin/comments/1ug62xi/i_made_everyone_richer/)**
+**[Tando Is Unlocking Spending Bitcoin For 40 Million Kenyans](https://www.reddit.com/r/Bitcoin/comments/1ugvh21/tando_is_unlocking_spending_bitcoin_for_40/)**
 
-I bought and made everyones holdings a tiny tiny tiny tiny bit more worth.
+Last month, Tando, the Kenya-based Bitcoin payments company, announced it had created a service that allows 40 million Kenyans to send and receive Bitcoin using the existing M-Pesa infrastructure. To pull this off, they strung together numerous pieces of technology, including in-house solutions, to make bitcoin’s Lightning Network act as a translation layer for millions. Launched in 2024, Tando, the Kenyan payments company founded by Jason and Sabina Waithira Gitau, began as an attempt to solve a very specific problem: how do Kenyans spend Bitcoin like they do Kenyan Shillings (KES)? They quickly realized the best way to do that was to leverage the ubiquitous M-Pesa mobile money payment rail to provide a seamless experience. They built an app that allows anyone with bitcoin to pay an M-Pesa invoice without needing local currency. Once a user enters their M-Pesa phone number and amount, they receive a lightning invoice to pay, and the recipient receives Kenyan shillings (KES). The app soon grew in virality and reach among the growing base of Kenyan bitcoin users. As Gitau underscored in her panel at this year’s Oslo Freedom Forum, people can test out Tando using less than a dollar, without paying fees, or KYC, making it quick to validate and easy to adopt. However, as Jason put it in an interview for this article, though the app resonated with many, “they still need a separate bitcoin wallet to use Tando.” To curb that, they again went back to the tried-and-true formula: combining and building on existing infrastructure. In this case, M-Pesa phone numbers and what are known as lightning addresses—a payment spec that lets users to receive bitcoin payments via email addresses. They unveiled their novel approach last May, in which any bitcoin wallet that supports lightning addresses can instantly send bitcoin to a Kenyan phone number via M-Pesa. To achieve this, users claim their phone-number-prepended lightning addresses. This new service also gives the recipient, once they claim their address and pay a fee, a way to set up a non-custodial bitcoin wallet, enabling them to send and receive bitcoin. Tando’s technique is reminiscent of a cousin project in South Africa called Machankura, which enables users to send and receive bitcoin offline over the Lightning network using Unstructured Supplementary Service Data (USSD) codes. While there are privacy implications to linking phone numbers to payment infrastructure, the Tando team plans to continue iterating to strike a better trade-off and provide a more balanced experience. Over the last few years, Africa has become home to projects looking to cement Bitcoin’s use as money, from circular economies and solutions like Machankura and Tando to infrastructure-led companies like MavaPay. The focus is not on price action but on utility and freedom money. This has fueled the ‘spend not sell’ movement, in which builders seek to familiarize users with earning and spending their bitcoin rather than trading and falling for get-rich-quick schemes. More importantly for the Tando team, bitcoin is for everyone, so there should be no gatekeeping; from the president and office workers to the farmers, the bitcoin network treats them all equally. Tando makes it possible to live entirely on Bitcoin in Kenya, an idea now promoted as the African way to use bitcoin. In the past few weeks, as bitcoin builders and leaders from Africa and beyond met for the first Bitcoin++ Nairobi conference, many on social media expressed surprise at seeing this in action, how easy the experience was, and how groundbreaking the idea of living on Bitcoin really is. As Tando has shown, the combination of mobile money and freedom money is growing evidence that where there is a need, Africans will build, and where there is technology, they will pioneer and adopt. African bitcoin builders continue to demonstrate that you do not need mass adoption or permission to live in the future.
 
-1d ago
-
----
-
-**[Blocking out the noise and buying it all back at the absolute bottom](https://www.reddit.com/r/Bitcoin/comments/1ufw9rw/blocking_out_the_noise_and_buying_it_all_back_at/)**
-
-When we blew past $80k back in early May, I took the exit and sold my whole stack. Honestly, it feels like everyone has completely taken their eye off the ball lately. The whole space is obsessed with MSTR, STRC and panicking over a supposed leveraged death spiral. Let them sweat it out. While they're busy losing their minds, I'm sitting comfortably in cash. You could see this correction coming from a mile away. Did we forget about the 4 year cycle? Now I'm just waiting for the absolute bottom. My limit orders are locked in at $45k, ready and waiting for the paper hands to capitulate and sell me their coins at a discount.
-
-1d ago
+🔗 [Forbes](https://www.forbes.com/sites/digital-assets/2026/06/26/tando-is-unlocking-spending-bitcoin-for-40-million-kenyans/) • 8h ago
 
 ---
 
-**[Finally Wholecoiner 💎](https://www.reddit.com/r/Bitcoin/comments/1ufhwgb/finally_wholecoiner/)**
+**[Chill Out](https://www.reddit.com/r/Bitcoin/comments/1ugg6qx/chill_out/)**
 
-Finally made it to 1 BTC 💎
+Many of you need to calm down. Go engage in your hobbies, spend time with loved ones, have fun in someway. Stop stressing so much over bitcoin. I invested a large amount of my small networth in March 2022. Not until January 2024 did I have a single day where my investment was profitable. I’d have KMS if I was staring at the price everyday. Either sell your stack or shut up, please. You’ll be fine no matter what happens.
 
-1d ago
+19h ago
 
 ---
 
-**[My BTC is not even nearly close to an alarming number.](https://www.reddit.com/r/Bitcoin/comments/1ug7vby/my_btc_is_not_even_nearly_close_to_an_alarming/)**
+**[Daily Discussion, June 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1uguqq4/daily_discussion_june_27_2026/)**
 
-I am mentally prepared to see a very low number - and its not even close to that yet. But thankfully Ive seen all this before. I was really happy when we hit our new ATH and now it does feel shit, but Ive kind of expected it. The only thing is I just never really know and any time I have tried to predict things and trade I have been even more miserable so I hust HODL.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
+
+---
+
+**[The biggest money printing wave is still coming. (hint: youll want to be holding bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1ugjhax/the_biggest_money_printing_wave_is_still_coming/)**
+
+Here's why the AI story may ultimately end the same way no matter what happens: more money printing, more liquidity, and a world where owning scarce assets matters more than ever. And proof that Bitcoin is the one asset that moves most when the time comes
+
+🔗 [youtu.be](https://youtu.be/Ckl5hTQ3IRA) • 17h ago
+
+---
+
+**[No, bitcoin is not dead](https://www.reddit.com/r/Bitcoin/comments/1uganaj/no_bitcoin_is_not_dead/)**
+
+It’s funny, when bitcoin goes down, it’s the only asset they claim has died and it’s over. Farther from the truth. 80% of bitcoin hasn’t even moved the last 6 months. 20% of bitcoin(mainly leveraged trading) is dictating the price. MAG7 largest drawdowns Nvidia -89% now largest company in the world Amazon -95% Meta -77% Tesla -73% Microsoft -70% Google -70% Apple -65% They’ve all had multiple drawdowns 50%+ Thank you for coming to my TED talk
 
 23h ago
-
----
-
-**[Just wondering](https://www.reddit.com/r/Bitcoin/comments/1ughexu/just_wondering/)**
-
-Full disclosure: I have about $1000 (as of this AM) in Bitcoin. Needless to say, I am not a big holder nor do I know shit about crypto. That being said, help me understand all this talk about 4 year cycles, etc. virtually every post I see references this mechanism and how it’s a valid predictor. What is this magical elixir you speak of?
-
-17h ago
-
----
-
-**[That’s all you got?!?](https://www.reddit.com/r/Bitcoin/comments/1ufaxnn/thats_all_you_got/)**
-
-1d ago
 
 ---
 
@@ -163,7 +165,7 @@ Full disclosure: I have about $1000 (as of this AM) in Bitcoin. Needless to say,
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -175,9 +177,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin News: Every Major Bitcoin Bottom for a Decade Has Come Near the 200-Week SMA — History Says the Window Is Open Right Now](https://www.binance.com/en/square/post/338601025496305)**
+**[MSTR's BTC premium has vanished as enterprise mNAV falls below 1](https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings)**
 
-Binance • 2h ago
+For years, investors had valued the firm well above its bitcoin holdings, giving Strategy massive flexibility to raise capital as needed — a situation Michael Saylor and team took full advantage of.
+
+CoinDesk • 3h ago
 
 ---
 
@@ -185,7 +189,7 @@ Binance • 2h ago
 
 Worries over Strategy and interest rates have pressured crypto, but Bitwise’s Matt Hougan argues the shakeout is setting up a new rally.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -193,21 +197,21 @@ Fortune • 19h ago
 
 Armstrong cut Coinbase AI spending in half as token usage surges and called Bitcoin's bear market a cool breeze.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Report: Person claims to have video of Nancy Guthrie with kidnappers, demands Bitcoin to release it](https://www.wral.com/news/ap/report-person-claims-to-know-who-took-nancy-guthrie-claims-video-june-2026/)**
+
+TMZ said they received an email from a person who claimed to know who took the mother of TODAY Show host Savannah Guthrie, and that they had video of the "main guy" and Nancy from the day she died.
+
+WRAL • 17h ago
 
 ---
 
 **[Bitcoin’s Woes Could Be Compounded by $10 Billion Options Expiry](https://www.bloomberg.com/news/articles/2026-06-25/bitcoin-s-woes-could-be-compounded-by-10-billion-options-expiry)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000](https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000)**
-
-Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.
-
-CoinDesk • 17h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -217,19 +221,17 @@ Barron's • 1d ago
 
 ---
 
-**[Strategy loses its bitcoin premium as enterprise mNAV dips below 1](https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1)**
-
-Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% below par.
-
-The Block • 16h ago
-
----
-
 **[Bitcoin Stumbles To 21-Month Low—Here’s Why](https://www.forbes.com/sites/tylerroush/2026/06/25/bitcoin-hits-21-month-low-as-expiring-crypto-bets-threaten-more-selling/)**
 
 The world’s leading cryptocurrency has lost more than half its value since peaking last fall.
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin holds above $60,000 as Strategy’s funding model faces growing scrutiny](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-strategys-funding-model-faces-growing-scrutiny-4763957)**
+
+Investing.com • 6h ago
 
 ---
 
@@ -249,7 +251,7 @@ Price of world’s most actively traded digital asset falls below $60,000 amid s
 
 Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
 
-⬆️ 6 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
+⬆️ 6 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
 
 ---
 
@@ -265,7 +267,7 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-⬆️ 2 • 💬 1 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+⬆️ 2 • 💬 1 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 220 • ⏱️ 16:08 • 15h ago
+👁️ 20K • 👍 2K • 💬 220 • ⏱️ 16:08 • 16h ago
 
 ---
 
@@ -336,7 +338,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 331 • 💬 206 • ⏱️ 16:15 • 23h ago
+👁️ 9K • 👍 331 • 💬 206 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -396,7 +398,7 @@ Ran is joined by Peter Schiff for a wide ranging discussion on the biggest risks
 
 📺 Crypto Insider
 
-👁️ 17K • 👍 658 • 💬 37 • ⏱️ 50:56 • 20h ago
+👁️ 17K • 👍 658 • 💬 37 • ⏱️ 50:56 • 22h ago
 
 ---
 
@@ -406,7 +408,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com F
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 384 • 💬 11 • ⏱️ 0:51 • 16h ago
+👁️ 12K • 👍 384 • 💬 11 • ⏱️ 0:51 • 18h ago
 
 ---
 

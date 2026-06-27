@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T13:44:33.968352+00:00'
+updated: '2026-06-27T15:16:18.187687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 13:44 UTC  
+**Last Updated:** June 27, 2026 at 15:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,591.00
+### $1,607.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -6.9%  
-**30d:** -21.1%  
-**90d:** -21.5%  
-**1y:** -34.8%  
+**24h:** +1.8%  
+**7d:** -5.9%  
+**30d:** -20.2%  
+**90d:** -20.6%  
+**1y:** -34.0%  
 
 ---
 
@@ -156,7 +156,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
+
+---
+
+**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
+
+Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
+
+Decrypt • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
+
+Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -168,27 +184,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slump As Fed's Favourite Inflation Barometer Hits 3-Year High: Analyst Weighs If July Will Bring Relief To BTC Investors](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slump-021556998.html)**
-
-The cryptocurrency market meltdown continued on Thursday as fears of rising inflation and potential rate hikes weighed on investor sentiment Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:35 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.45%$59,273.96Ethereum (CRYPTO: ETH) -3.68%$1,558.39XRP (CRYPTO: XRP) -4.04%$1.02Solana (CRYPTO: SOL) -0.71%$67.16Dogecoin (CRYPTO: DOGE) -3.11%$0.07384 Crypto Market Turns Bloody Red Bitcoin’s descent showed no signs of slowing down, as the apex cryptocurrency fell below
-
-Yahoo Finance • 1d ago
-
----
-
-**[Current price of Ethereum for June 26, 2026](https://fortune.com/article/price-of-ethereum-06-26-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
-
----
-
 **[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-The Motley Fool • 8h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -196,23 +196,7 @@ The Motley Fool • 8h ago
 
 An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
 
-TradingView • 20h ago
-
----
-
-**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
-
-FXStreet • 1d ago
-
----
-
-**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
-
-Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
-
-Decrypt • 1d ago
+TradingView • 22h ago
 
 ---
 
@@ -224,11 +208,27 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
+
+Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
+
+BeInCrypto • 1d ago
+
+---
+
 **[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
 
 $6 billion just left BTC ETFs
 
 Coinbase • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
+
+FXStreet • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 104 • 💬 38 • ⏱️ 27:53 • 16h ago
+👁️ 2K • 👍 104 • 💬 38 • ⏱️ 27:53 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 194 • 💬 10 • ⏱️ 9:04 • 20h ago
+👁️ 4K • 👍 194 • 💬 10 • ⏱️ 9:04 • 21h ago
 
 ---
 
@@ -302,7 +302,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 180 • 👍 35 • ⏱️ 6:33 • 1h ago
+👁️ 180 • 👍 35 • ⏱️ 6:33 • 2h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 341 • 💬 152 • ⏱️ 19:11 • 18h ago
+👁️ 8K • 👍 341 • 💬 152 • ⏱️ 19:11 • 20h ago
 
 ---
 

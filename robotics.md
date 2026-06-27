@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T13:44:33.972048+00:00'
+updated: '2026-06-27T15:16:18.190873+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 13:44 UTC  
+**Last Updated:** June 27, 2026 at 15:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ If it does not exist in real life and instead of the humanoids does it mean it d
 
 I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was to keep all the servos hidden inside the structure, giving the arm a cleaner and more professional look. It also features a TPU-printed gripper actuated by a servo. I’m currently working on the kinematics and a custom PCB for the electronics. Still a work in progress, but I’m happy with how it’s coming along so far. More updates soon!
 
-1d ago
+2d ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was t
 
 How do you handle optical-flow dropout in GPS-denied tunnels? Been poking at navigation for tight indoor/underground spaces (tunnels, under bridges) where GPS just drops and there's nothing to fall back on. The annoying part is optical flow basically dies in there: bare concrete, repeating geometry, almost nothing to lock onto. Ends up being mostly lidar plus an illuminated camera doing the work. Testing it in sim first for obvious reasons (not keen on flying real hardware into a concrete wall to find the failure modes). Running it on UE5 with PX4/ArduPilot in the loop. For those who've flown GPS-denied in feature-poor spaces: do you just lean harder on lidar, or is there a VIO setup that actually holds up when the visual texture is that poor? Curious what's worked.
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ Check the FF (Nasdaq: $FFAI)'s EAI robot "super group" at Automate 2026 — Nort
 
 I am designing a robotic arm, and am wondering how can I determine if a certain part is strong enough and how could i determine if I have enough torque, also really any feedback would be appreciated. I took inspiration for cycloidal drives on joints 2 and 3 from arctos robotics arm. those cycloidal drives have a reduction of 25 to 1 but with pulley joint 2 will either have a reduction of 100-125. The arm is not yet finished but as i said my biggest concern is will joint two have enough torque and will the parts be strong enough when 3d printed. is uses 3Nm NEMA 23 motors and DM566TE drivers. I know it is generally recommended to start by designing from top to bottom but i really could not do it, felt weird.
 
-1d ago
+2d ago
 
 ---
 
@@ -116,31 +116,7 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 13h ago
-
----
-
-**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
-
-Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
-
-Silicon Canals • 15h ago
-
----
-
-**[We know how to build smarter robots. Now, we need to learn smarter ways to test them](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/)**
-
-Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.
-
-The Robot Report • 37m ago
-
----
-
-**[How compact cobot integration enhances autonomous mobile robot applications](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/)**
-
-Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said.
-
-The Robot Report • 57m ago
+San Francisco Chronicle • 15h ago
 
 ---
 
@@ -148,13 +124,45 @@ The Robot Report • 57m ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 20h ago
+IEEE Spectrum • 22h ago
+
+---
+
+**[We know how to build smarter robots. Now, we need to learn smarter ways to test them](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/)**
+
+Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.
+
+The Robot Report • 2h ago
+
+---
+
+**[How compact cobot integration enhances autonomous mobile robot applications](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/)**
+
+Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said.
+
+The Robot Report • 2h ago
 
 ---
 
 **[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
 
 WSJ • 3d ago
+
+---
+
+**[Inside the $17,900 Robot That Could Change the Auto Industry](https://www.motortrend.com/news/first-humanoid-robot-teardown-analysis)**
+
+The Unitree G1 is the first relatively affordable humanoid robot. We break down its price, teardown, limitations, and why Tesla, BMW, Mercedes-Benz, XPeng, and other automakers are investing heavily in the technology.
+
+MotorTrend • 19h ago
+
+---
+
+**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
+
+WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
+
+Jamaica Gleaner • 10h ago
 
 ---
 
@@ -174,15 +182,9 @@ Financial Times • 2d ago
 
 ---
 
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 1d ago
-
----
-
 **[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -206,7 +208,7 @@ This week on Tech It Out, we look at how a humanoid is supporting patients and h
 
 📺 WION
 
-👁️ 62 • 👍 2 • 💬 1 • ⏱️ 19:46 • 1h ago
+👁️ 62 • 👍 2 • 💬 1 • ⏱️ 19:46 • 3h ago
 
 ---
 
@@ -216,7 +218,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 5K • 👍 681 • 💬 34 • ⏱️ 1:16 • 16h ago
+👁️ 5K • 👍 681 • 💬 34 • ⏱️ 1:16 • 17h ago
 
 ---
 
@@ -246,7 +248,7 @@ Trained on 20000 hours of human motion data — the largest-scale dataset to dat
 
 📺 Just A Dad Approved
 
-👁️ 17K • 👍 292 • 💬 166 • ⏱️ 18:57 • 3d ago
+👁️ 17K • 👍 292 • 💬 166 • ⏱️ 18:57 • 4d ago
 
 ---
 
@@ -276,7 +278,7 @@ Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designe
 
 📺 Rowan Cheung
 
-👁️ 40K • 👍 2K • 💬 58 • ⏱️ 1:08 • 21h ago
+👁️ 40K • 👍 2K • 💬 58 • ⏱️ 1:08 • 22h ago
 
 ---
 
@@ -286,7 +288,7 @@ Researchers have developed a 4.4 mm long micro-robot capable of performing five 
 
 📺 Dr Ben Miles
 
-👁️ 370K • 👍 28K • 💬 450 • ⏱️ 1:44 • 22h ago
+👁️ 370K • 👍 28K • 💬 450 • ⏱️ 1:44 • 1d ago
 
 ---
 
