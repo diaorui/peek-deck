@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-27T10:09:30.692793+00:00'
+updated: '2026-06-27T11:54:58.788996+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 27, 2026 at 10:09 UTC  
+**Last Updated:** June 27, 2026 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Oh .... the irony!
 
-2h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Oh .... the irony!
 
 Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus Adler and Pritzler out the same door within a week. Every time one of these drops the framing is google is bleeding. I think people are reading it backwards. If the people who actually trained the thing can leave and instantly matter at a competitor, the weights were never the asset. The judgment about how to steer a model, what to eval it on, where it breaks, that stuff lives in heads not in checkpoints. Hardware you can buy. That you cannot. What it means for the rest of us is simpler than the talent drama. If capability is going to keep walking between labs every few months, betting your whole stack on one provider's model is a bet on that lab keeping its people, which is the one thing you cannot control. I stopped caring which lab is quote winning this quarter. The move is keeping the model layer swappable so a shakeup at one place does not strand the work. Mine runs through verdent with byok but honestly any setup that lets you reroute works, the point is not the tool, it is not being married to one model.
 
-17h ago
+19h ago
 
 ---
 
@@ -57,15 +57,31 @@ Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus
 
 What all the "AI Layoffs" are telling us is that companies would rather compete by being cheaper than by being better. There are really two main competitive pathways for businesses: Do the same thing as your competition, but for a lower cost. Do something better than your competition at a reasonable cost. No one who has experience using AI for anything should say they feel comfortable letting it run free without any human supervision, but many businesses now are doing just that...and oftentimes it's apparent they are using AI tools with no oversight (just look at my LinkedIn DMs). So, it seems that the value equation for most of these businesses weighs more heavily for cost-cutting than on the "lesser" expense of AI, resulting in costly miscalculations. If anything, it seems more logical to keep your employees and EMPOWER/AUGMENT THEM with AI tools than to reduce headcount and try to completely replace an employee with an AI tool.
 
-6m ago
+1h ago
 
 ---
 
 **[dead RNG theory](https://www.reddit.com/r/artificial/comments/1ugys0c/dead_rng_theory/)**
 
-I play video games for many hours a day/week, mostly Diablo and WoW. In my essentially professional opinion, considering I am a 3dcg guy and video games are literally my industry, RNG in video games has undoubtedly stopped being anything resembling pure RNG and now creates intentional statistical events on an extremely consistent basis. The complexity of these events are too complex to attribute it to simple game parameters, and behaves similar to the way you would expect AI to behave. Examples: -the game decides you've been playing too long and bricks your RNG, there are already game mechanics similar to this openly introduced in WoW -consistently strange streaks of luck that go far beyond just RNG to the point where the only way things become beneficial is because of these streaks of luck. Meaning something has a 30% chance to multicraft and it will not multicraft for 10 crafts and then you'll get jackpot RNG on the last few crafts -jackpot RNG on the first boss kill or immediately after login -strange loot table generation I played games like Diablo 10 years ago when youd fish around for a good RNG rift or whatever. Now it's like, a good rift has 0% chance to spawn in your first 45 minutes of play then around an hour in it will spawn a god rift and there will also be a bunch of coinciding parallel RNG systems that pop on that rift as well right near 90% completion. That is the kind of thing that would be a tall tale from battle back in 2015, now it's the norm. Basically it feels like RNG for idiots. Instead of just normal RNG and people get to experience the subtle nature of a big or crazy hand every once in a while, RNG has been compressed into these insane events that seem to also coincide with it's estimation of your biometrics. Like did you just start playing, and is your playstyle indicating fatigue etc. If you start stacking the deck against a pro poker or jackpot player they will eventually catch wind. They have an intuitive grasp of what fairly falling cards look like. I have a similar intuition with video games.
+I play video games for many hours a day/week, mostly Diablo and WoW. In my essentially professional opinion, considering I am a 3dcg guy and video games are literally my industry, RNG in video games has undoubtedly stopped being anything resembling pure RNG and now creates intentional statistical events on an extremely consistent basis. The complexity of these events are too complex to attribute it to simple game parameters, and behaves similar to the way you would expect AI to behave. Examples: -the game decides you've been playing too long and bricks your RNG, there are already game mechanics similar to this openly introduced in WoW -consistently strange streaks of luck that go far beyond just RNG to the point where the only way things become beneficial is because of these streaks of luck. Meaning something has a 30% chance to multicraft and it will not multicraft for 10 crafts and then you'll get jackpot RNG on the last few crafts -jackpot RNG on the first boss kill or immediately after login -strange loot table generation I played games like Diablo 10 years ago when youd fish around for a good RNG rift or whatever. Now it's like, a good rift has 0% chance to spawn in your first 45 minutes of play then around an hour in it will spawn a god rift and there will also be a bunch of coinciding parallel RNG systems that pop on that rift as well right near 90% completion. That is the kind of thing that would be a tall tale from battle back in 2015, now it's the norm. Basically it feels like RNG for idiots. Instead of just normal RNG and people get to experience the subtle nature of a big or crazy hand every once in a while, RNG has been compressed into these insane events that seem to also coincide with it's estimation of your biometrics. Like did you just start playing, and is your playstyle indicating fatigue etc. If you start stacking the deck against a pro poker or jackpot player they will eventually catch wind. They have an intuitive grasp of what fairly falling cards look like. I have a similar intuition with video games. EXAMPLE: I asked chatGPT- "give me a natural coin flip sequence heads/tails for 25 flips then create one with the same total heads tails but weird RNG that is suspect as synthetic" H T H H T T H T H T H H T H T T H H T H T T H H T vs H H H H H H T T T T T T H H H H T T T H H T H T H
 
-7m ago
+1h ago
+
+---
+
+**[at what point do logs and dashboards stop being enough for llm costs?](https://www.reddit.com/r/artificial/comments/1uh0hu2/at_what_point_do_logs_and_dashboards_stop_being/)**
+
+Hello everyone, currently digging into workflow-layer economics and trying to figure out how people track unexpected runtime spikes at scale. At an early stage simple margin buffers are fine because volume is bounded. But once you move past basic apps, factors like failed loops, retries, and context window inflation create a ton of cost variance that is hard to forecast or map to clean client billing. For those running agent or voice workflows in production, or working on complex ai products what do you currently use to understand costs and failures at the individual workflow level? More importantly, what's something you still can't easily answer with your current setup? Like why did a specific workflow suddenly cost 2x more, or which exact customer trigger is driving the increase? Are you guys just manually digging through raw api logs to catch leakage like infinite loops, or has it not become a big enough issue for your teams yet? Curious to hear how other teams handle the infrastructure discipline here.
+
+18m ago
+
+---
+
+**[GNOME AI assistant adds image generation support](https://www.reddit.com/r/artificial/comments/1ugzpi1/gnome_ai_assistant_adds_image_generation_support/)**
+
+In development over the past three years has been Newelle as a GNOME-aligned AI virtual assistant
+
+🔗 [phoronix.com](https://www.phoronix.com/news/GNOME-Newelle-Image-Gen) • 59m ago
 
 ---
 
@@ -73,7 +89,7 @@ I play video games for many hours a day/week, mostly Diablo and WoW. In my essen
 
 Anthropic dropped their June 2026 Economic Index today and buried inside the survey data is something that should be making headlines: Over a third of respondents (9,700 actual Claude users, linked to real usage data) believe AI will be capable of handling most or nearly all of their work tasks within the next year. Not “some tasks.” Not “help me write emails.” MOST of their work. And here’s the part nobody wants to talk about: the people who delegate the most to AI are the MOST optimistic about their job prospects. Meanwhile entry-level workers are the ones most worried about displacement. Senior devs and managers? Thriving. Junior colleagues? Everyone in the survey is more worried about them than themselves. The data also shows AI autonomy is measurably higher on Claude Code than on regular chat, across 26 out of 31 output types. A blog post that takes 13 rounds of back-and-forth on Claude.ai? Claude Code does it in a single prompt. So here’s the uncomfortable question nobody wants to ask: Are we witnessing the largest skill-premium compression in history, where the gap between a senior person using AI and a junior person using AI collapses the value of experience? Or is this actually fine and we’re all just catastrophizing? Because Anthropic’s own framing spins this as “augmentation not displacement” while simultaneously showing that 38% of people who think they’ll lose their job attribute that directly to AI. Make it make sense. Full report: https://www.anthropic.com/research/economic-index-june-2026-report
 
-18h ago
+19h ago
 
 ---
 
@@ -81,7 +97,13 @@ Anthropic dropped their June 2026 Economic Index today and buried inside the sur
 
 if so, what would these jobs look like?
 
-12h ago
+13h ago
+
+---
+
+**["Why big AI labs are hiring so many philosophers. The technology presents all sorts of thorny problems—a philosopher’s favourite kind"](https://www.reddit.com/r/artificial/comments/1ugd32y/why_big_ai_labs_are_hiring_so_many_philosophers/)**
+
+🔗 [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers) • 18h ago
 
 ---
 
@@ -89,29 +111,7 @@ if so, what would these jobs look like?
 
 Most of the open vs closed talk here is about whether you can run the thing on your own hardware. fair, that's the obvious draw. but the part i think gets slept on is that open weights mean you can actually post train on top of the base, not just run inference. With a closed api you're renting intelligence. you can prompt it, you can rag around it, but you can never make it yours. you cant fine tune the actual weights for your domain, you cant distill it down, you cant freeze a version and own it forever. You're permanently downstream of whatever the provider decides. I saw some post about people post training their own models on top of glm-5.2 now that its open weight, and that framing stuck with me more than the benchmark numbers did. a frontier-ish base you can legally build on changes what a small team can do. You dont need to train from scratch, you start from something already strong and specialize it. Realistically most of us arent fine tuning a 700b model in our basement, the compute is brutal and i wont pretend otherwise. but the option existing at all is the point. even renting cloud compute to post train your own variant is a completely different thing than being locked out of the weights entirely. Anyone here actually post training on top of the bigger open models, or is it still mostly inference and the fine tuning stays in the small model range?
 
-20h ago
-
----
-
-**["Why big AI labs are hiring so many philosophers. The technology presents all sorts of thorny problems—a philosopher’s favourite kind"](https://www.reddit.com/r/artificial/comments/1ugd32y/why_big_ai_labs_are_hiring_so_many_philosophers/)**
-
-🔗 [economist.com](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers) • 16h ago
-
----
-
-**[i analyzed 500+ companies job postings to see what new roles are emerging due to ai](https://www.reddit.com/r/artificial/comments/1ugkq6h/i_analyzed_500_companies_job_postings_to_see_what/)**
-
-i kept seeing doomer posts talking about how ai is going to take away all jobs. i believe in the opposite - ai is going to add more jobs in the long term than it cuts, and i kept seeing evidence of that now. there were job titles i'd come across that 2-3 years were much more niche. i got curious to map this out so i created a site to track this. i scraped various job boards and filtered out titles which have exploded since 2022 thanks to ai and if you go through the onboarding, it'll match you to roles you are eligible for. i don't want this post to just be a promo so here are the top 5 roles we are seeing break out. the number in brackets is the number of such jobs we are tracking ai trainer / data annotation (1,218) forward-deployed engineer (485) ai solutions eng / architect (316) agent (engineer/pm/research) (260) applied-ai engineer (169) if you're interested in checking out the site for more roles/jobs you can check it out here: https://alterwork.com/roles any feedback would be great, thanks
-
-11h ago
-
----
-
-**[Claude Plays World of ClaudeCraft](https://www.reddit.com/r/artificial/comments/1ug2wc9/claude_plays_world_of_claudecraft/)**
-
-Two weeks ago we built World of ClaudeCraft, a free, open-source browser MMO that was built in 48 hours with Claude. We decided to make the experiment recursive: we built a Claude Code-powered VTuber and put her inside the game. Day 1 is live here: https://www.twitch.tv/claudeplaysclaudecraft Claude decides what to do next, sends actions to the game, and speaks through the VTuber avatar (using Elevenlabs for TTS). We’re streaming the run unedited, including the wandering, party joining, emoting and socialising. She can freely interact with the twitch chat and the real people actually in game right now. The game is free to play and open source at https://github.com/levy-street/world-of-claudecraft Hope you enjoy the spectacle!
-
-23h ago
+22h ago
 
 ---
 
@@ -119,25 +119,25 @@ Two weeks ago we built World of ClaudeCraft, a free, open-source browser MMO tha
 
 ## Google News: "ai"
 
+**[Exclusive / US releases powerful Anthropic model Mythos to some US companies](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)**
+
+The move comes the same day as a new OpenAI model sees a limited release.
+
+Semafor • 13h ago
+
+---
+
 **[US government allows Anthropic limited release of AI model that sparked cybersecurity concerns](https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release)**
 
 The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears.
 
-CNN • 9h ago
+CNN • 11h ago
 
 ---
 
-**[Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies](https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html)**
+**[US allows Anthropic to release Mythos AI to 'trusted' US organizations](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)**
 
-Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing "national security authorities."
-
-CNBC • 11h ago
-
----
-
-**[Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use](https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model)**
-
-Bloomberg.com • 9h ago
+Reuters • 13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 9h ago
 
 The Trump administration came to power preaching a laissez-faire approach to AI but has lately increased oversight of the industry.
 
-The Washington Post • 6h ago
+The Washington Post • 7h ago
 
 ---
 
@@ -153,15 +153,15 @@ The Washington Post • 6h ago
 
 Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
-**[OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review](https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa)**
+**[AI trade hits a wall amid report that OpenAI will delay IPO until 2027](https://finance.yahoo.com/technology/article/ai-trade-hits-a-wall-amid-report-that-openai-will-delay-ipo-until-2027-150642366.html)**
 
-OpenAI has restricted the release of its new AI model at the request of President Donald Trump's administration.
+Tech stocks slid as the New York Times reported OpenAI could delay its IPO until 2027.
 
-AP News • 9h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -171,27 +171,25 @@ The Economist • 2d ago
 
 ---
 
-**[Longtime Bruins announcer Jack Edwards starting to find his voice again with help from AI](https://www.bostonglobe.com/2026/06/27/sports/sports-media-jack-edwards-bruins-voice-speech-app/)**
+**[Trump administration imposes restrictions for Anthropic to halt access to 2 AI models](https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models)**
 
-Edwards suffers from a medical condition called apraxia, which causes halting and slower speech and the occasional slurring of words.
+Anthropic pulled two new AI models offline after the Trump administration said they were too dangerous for foreigners to use. Rival OpenAI agreed to let the administration vet users of its newest model.
 
-The Boston Globe • 1h ago
-
----
-
-**[Big Short legend Steve Eisman says everyone is buying the wrong AI stocks](https://fortune.com/2026/06/27/big-short-hero-steve-eisman-spacex-ai-investing-what-to-buy-now/)**
-
-Eisman famously called the housing bubble. Now he sees investors miscalculating the AI trade.
-
-Fortune • 2h ago
+NPR • 14m ago
 
 ---
 
-**[I tried DoorDash's new AI search. As a home cook, this feature won me over.](https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6)**
+**[Denver's AI recycling robots pick faster than humans, and keep 25 tons a day out of landfills](https://www.yahoo.com/news/science/articles/denvers-ai-recycling-robots-pick-103500847.html)**
 
-DoorDash's AI tool "Ask DoorDash" aims to simplify grocery shopping by allowing users to order ingredients from recipes.
+Robotic arms use suction to grab items from the moving belt and drop them into chutes.
 
-Business Insider • 21m ago
+Yahoo • 1h ago
+
+---
+
+**[Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision](https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2)**
+
+WSJ • 2h ago
 
 ---
 
@@ -201,13 +199,21 @@ Business Insider • 21m ago
 
 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://news.ycombinator.com/item?id=48664814)**
 
-⬆️ 795 • 💬 1295 • 2d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+⬆️ 796 • 💬 1296 • 2d ago • [reuters.com](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ---
 
 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](https://news.ycombinator.com/item?id=48674446)**
 
-⬆️ 600 • 💬 320 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+⬆️ 600 • 💬 321 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+
+---
+
+**[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://news.ycombinator.com/item?id=48692995)**
+
+The move comes the same day as a new OpenAI model sees a limited release.
+
+⬆️ 467 • 💬 577 • 13h ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -219,31 +225,23 @@ A single, beautiful Ruby framework for all major AI providers. Easily build chat
 
 ---
 
-**[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://news.ycombinator.com/item?id=48692995)**
-
-The move comes the same day as a new OpenAI model sees a limited release.
-
-⬆️ 439 • 💬 505 • 11h ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
-
----
-
 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://news.ycombinator.com/item?id=48675435)**
 
 Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.
 
-⬆️ 366 • 💬 170 • 1d ago • [GitHub](https://github.com/inkeep/open-knowledge)
+⬆️ 369 • 💬 170 • 1d ago • [GitHub](https://github.com/inkeep/open-knowledge)
 
 ---
 
 **[What happened after 2k people tried to hack my AI assistant](https://news.ycombinator.com/item?id=48681687)**
 
-⬆️ 363 • 💬 160 • 1d ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
+⬆️ 364 • 💬 160 • 1d ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
 
 ---
 
 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://news.ycombinator.com/item?id=48676795)**
 
-⬆️ 308 • 💬 364 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
+⬆️ 310 • 💬 367 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 
 ---
 
@@ -279,7 +277,7 @@ Subscribe to My New Clips Channel https://www.youtube.com/@MichaelBordenaroClips
 
 📺 Michael Bordenaro
 
-👁️ 32K • 👍 3K • 💬 677 • ⏱️ 26:21 • 13h ago
+👁️ 32K • 👍 3K • 💬 677 • ⏱️ 26:21 • 15h ago
 
 ---
 
@@ -289,7 +287,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 9K • 👍 501 • 💬 132 • ⏱️ 15:15 • 10h ago
+👁️ 9K • 👍 501 • 💬 132 • ⏱️ 15:15 • 11h ago
 
 ---
 
@@ -319,7 +317,7 @@ Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and
 
 📺 Matt Wolfe
 
-👁️ 50K • 👍 2K • 💬 157 • ⏱️ 20:01 • 16h ago
+👁️ 50K • 👍 2K • 💬 157 • ⏱️ 20:01 • 18h ago
 
 ---
 
@@ -339,7 +337,7 @@ Leaders of some of the world's biggest AI companies have warned of potentially c
 
 📺 Amanpour and Company
 
-👁️ 4K • 👍 190 • 💬 39 • ⏱️ 18:30 • 13h ago
+👁️ 4K • 👍 190 • 💬 39 • ⏱️ 18:30 • 15h ago
 
 ---
 
@@ -369,7 +367,7 @@ Want to save time, get more leverage, and stop figuring this AI stuff out from s
 
 📺 The AI Advantage
 
-👁️ 5K • 👍 222 • 💬 11 • ⏱️ 9:41 • 16h ago
+👁️ 5K • 👍 222 • 💬 11 • ⏱️ 9:41 • 18h ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 712,627 • ❤️ 627 • 1h ago
+⬇️ 712,627 • ❤️ 627 • 3h ago
 
 ---
 
@@ -641,7 +639,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.3k • 🔱 10.2k • 6h ago
+⭐ 78.3k • 🔱 10.2k • 8h ago
 
 ---
 
@@ -661,7 +659,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.9k • 🔱 1.0k • 7h ago
+⭐ 10.9k • 🔱 1.0k • 9h ago
 
 ---
 
@@ -671,7 +669,7 @@ The end of web parsing. The beginning of scalable pixel-native search.
 
 `Python` `agent` `ai` `memory` `multimodal` `rag`
 
-⭐ 5.4k • 🔱 426 • 2h ago
+⭐ 5.4k • 🔱 426 • 3h ago
 
 ---
 
@@ -681,7 +679,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.0k • 🔱 620 • 4h ago
+⭐ 5.0k • 🔱 620 • 6h ago
 
 ---
 
@@ -691,7 +689,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 2.8k • 🔱 388 • 2h ago
+⭐ 2.8k • 🔱 388 • 4h ago
 
 ---
 
@@ -711,7 +709,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.7k • 🔱 153 • 12h ago
+⭐ 1.7k • 🔱 153 • 14h ago
 
 ---
 
@@ -721,7 +719,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 150 • 21h ago
+⭐ 1.7k • 🔱 150 • 22h ago
 
 ---
 

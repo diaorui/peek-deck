@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T10:09:30.707223+00:00'
+updated: '2026-06-27T11:54:58.802007+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 10:09 UTC  
+**Last Updated:** June 27, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** -7.3%  
+**24h:** +3.0%  
+**7d:** -7.2%  
 **30d:** -21.4%  
-**90d:** -21.9%  
+**90d:** -21.8%  
 **1y:** -35.0%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 23h ago
 
 ---
 
@@ -156,23 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 15h ago
-
----
-
-**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
-
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
-
-Decrypt • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
-
-Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
-
-Yahoo Finance • 1d ago
+CoinDesk • 17h ago
 
 ---
 
@@ -184,19 +168,19 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
+
+Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-The Motley Fool • 5h ago
-
----
-
-**[UK bond fund ownership records move onto Ethereum and Solana accessible 24/7](https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana/)**
-
-BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
-
-CryptoSlate • 1d ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -204,15 +188,15 @@ CryptoSlate • 1d ago
 
 An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
-**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
+**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
 
-$6 billion just left BTC ETFs
+Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
 
-Coinbase • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -220,15 +204,31 @@ Coinbase • 1d ago
 
 Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 22h ago
 
 ---
 
-**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
+**['There's An Execution Crisis In Ethereum': Is ETH Losing To Hotter Tech Trades Like MU And NVDA?](https://www.benzinga.com/markets/prediction-markets/26/06/60128408/theres-an-execution-crisis-in-ethereum-is-eth-losing-to-hotter-tech-trades-like-mu-and-nvda)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
+Bankless co-founder Ryan Adams says Ethereum has an execution crisis, not a funding crisis, as the Foundation cuts its 2026 budget 40%.
 
-FXStreet • 21h ago
+Benzinga • 21h ago
+
+---
+
+**[Current price of Ethereum for June 26, 2026](https://fortune.com/article/price-of-ethereum-06-26-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
+
+---
+
+**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
+
+Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
+
+Coinpedia • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 100 • 💬 38 • ⏱️ 27:53 • 13h ago
+👁️ 2K • 👍 100 • 💬 38 • ⏱️ 27:53 • 15h ago
 
 ---
 
@@ -252,7 +252,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 178 • 💬 10 • ⏱️ 9:04 • 16h ago
+👁️ 4K • 👍 178 • 💬 10 • ⏱️ 9:04 • 18h ago
 
 ---
 
@@ -292,7 +292,7 @@ BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 323 • 💬 93 • ⏱️ 19:11 • 15h ago
+👁️ 8K • 👍 323 • 💬 93 • ⏱️ 19:11 • 16h ago
 
 ---
 

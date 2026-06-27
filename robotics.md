@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T10:09:30.710367+00:00'
+updated: '2026-06-27T11:54:58.804819+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 10:09 UTC  
+**Last Updated:** June 27, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,11 +114,9 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
-**['Digit' maker Agility Robotics to go public in $2.5B deal — here's what the filings say about its finances](https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/)**
+**[Oregon robotics company Agility will go public in deal valuing it at $2.5 billion](https://www.oregonlive.com/silicon-forest/2026/06/oregon-robotics-company-agility-will-go-public-in-deal-valuing-it-at-25-billion.html)**
 
-Salem, Ore.-based Agility Robotics, whose two-legged Digit robots have been tested inside Amazon warehouses, is set to become the first publicly traded U.S. company dedicated solely to humanoid robots, beating its Silicon Valley and East Coast rivals to Wall Street.
-
-GeekWire • 2d ago
+OregonLive.com • 2d ago
 
 ---
 
@@ -126,7 +124,7 @@ GeekWire • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 19h ago
 
 ---
 
@@ -146,13 +144,7 @@ Bloomberg.com • 1d ago
 
 **[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
-Tech Xplore • 18h ago
-
----
-
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 1d ago
+Tech Xplore • 19h ago
 
 ---
 
@@ -168,7 +160,7 @@ The Guardian • 3d ago
 
 A
 
-Futurism • 21h ago
+Futurism • 23h ago
 
 ---
 
@@ -184,7 +176,13 @@ Business Insider • 1d ago
 
 The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
 
-The Block • 21h ago
+The Block • 23h ago
+
+---
+
+**[UT Robotics team heads to Korea for soccer tournament](https://www.kxan.com/news/education/ut-robotics-team-heads-to-korea-for-soccer-tournament/)**
+
+KXAN Austin • 1d ago
 
 ---
 
@@ -218,7 +216,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 4K • 👍 633 • 💬 33 • ⏱️ 1:16 • 12h ago
+👁️ 4K • 👍 633 • 💬 33 • ⏱️ 1:16 • 14h ago
 
 ---
 
@@ -228,7 +226,7 @@ Robot tried to perform a cartwheel when gravity intervened. Media: techniahq on 
 
 📺 Cybernews
 
-👁️ 3K • 👍 38 • 💬 3 • ⏱️ 0:06 • 5h ago
+👁️ 3K • 👍 38 • 💬 3 • ⏱️ 0:06 • 6h ago
 
 ---
 
@@ -248,7 +246,7 @@ Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 376 • 💬 67 • ⏱️ 14:36 • 22h ago
+👁️ 9K • 👍 376 • 💬 67 • ⏱️ 14:36 • 23h ago
 
 ---
 
