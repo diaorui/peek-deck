@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T00:08:37.445150+00:00'
+updated: '2026-06-27T04:35:11.028980+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 00:08 UTC  
+**Last Updated:** June 27, 2026 at 04:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,577.95
+### $1,583.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -7.4%  
-**30d:** -21.6%  
-**90d:** -22.0%  
-**1y:** -35.2%  
+**24h:** +1.8%  
+**7d:** -7.3%  
+**30d:** -21.4%  
+**90d:** -21.8%  
+**1y:** -35.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.92B
+**Market Cap:** $190.76B
 Rank #2
 
-**Circulating Supply:** 120,683,589 ETH
+**Circulating Supply:** 120,683,513 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.2%
+-68.0%
 
 **All-Time Low:** $0.43
-+363386.5%
++364943.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 12h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 16h ago
 
 ---
 
@@ -156,29 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 5h ago
-
----
-
-**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
-
-The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
-
-The Block • 20h ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, June 25, 2026: Bitcoin tumbles further below $60,000](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-25-2026-bitcoin-tumbles-further-below-60000-125308371.html)**
-
-Bitcoin opened at $60,983.43 on Thursday, June 25, 2026, down 2.7% from Wednesday's opening price. The value of bitcoin rose this morning to $61,244.29 by 8:50 a.m. ET.  Ethereum opened at $1,619.51, down 2.8% from yesterday's opening price. The price of ethereum edged higher this morning as well, moving to $1,636.26 by 8:50 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
-**[The EF’s new structure](https://blog.ethereum.org/2026/06/23/ef-structure)**
-
-ethereum.org • 3d ago
+CoinDesk • 9h ago
 
 ---
 
@@ -190,19 +168,43 @@ Decrypt • 1d ago
 
 ---
 
+**[Sharplink Resumes Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html)**
+
+For the first time in eight months, crypto treasury firm Sharplink (NASDAQ: $SBET) has bought Ethereum (CRYPTO: $ET...
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts](https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts)**
+
+Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.
+
+The Block • 15h ago
+
+---
+
+**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
+
+BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
+
+The Motley Fool • 13m ago
+
+---
+
+**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
+
+$6 billion just left BTC ETFs
+
+Coinbase • 19h ago
+
+---
+
 **[Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position](https://www.tradingview.com/news/cointelegraph:019ea6896094b:0-ethereum-whale-who-shorted-october-2025-crash-opens-19-7m-eth-short-position/)**
 
 An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
 
-TradingView • 7h ago
-
----
-
-**[XRP and Ethereum Share This 1 Critical Problem. Should You Sell Them?](https://www.fool.com/investing/2026/06/25/xrp-and-ethereum-share-this-1-critical-problem-sho/)**
-
-Investors holding these coins and waiting for cryptocurrency to go mainstream may be in for a shock.
-
-The Motley Fool • 1d ago
+TradingView • 11h ago
 
 ---
 
@@ -210,7 +212,15 @@ The Motley Fool • 1d ago
 
 BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-CryptoSlate • 16h ago
+CryptoSlate • 20h ago
+
+---
+
+**[Current price of Ethereum for June 26, 2026](https://fortune.com/article/price-of-ethereum-06-26-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 15h ago
 
 ---
 
@@ -218,15 +228,7 @@ CryptoSlate • 16h ago
 
 Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
 
-Seeking Alpha • 10h ago
-
----
-
-**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
-
-Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
-
-BeInCrypto • 15h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -240,7 +242,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 311 • 👍 32 • 💬 8 • ⏱️ 27:53 • 3h ago
+👁️ 1K • 👍 85 • 💬 36 • ⏱️ 27:53 • 7h ago
 
 ---
 
@@ -250,7 +252,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 8 • ⏱️ 9:04 • 6h ago
+👁️ 3K • 👍 151 • 💬 9 • ⏱️ 9:04 • 10h ago
 
 ---
 
@@ -260,7 +262,7 @@ The Ethereum Foundation is cratering. What does that mean for Ethereum price? Wh
 
 📺 Dana Love, PhD
 
-👁️ 14K • 👍 805 • 💬 139 • ⏱️ 13:22 • 1d ago
+👁️ 14K • 👍 829 • 💬 142 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -270,27 +272,27 @@ BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 192 • 💬 145 • ⏱️ 19:11 • 5h ago
+👁️ 6K • 👍 284 • 💬 117 • ⏱️ 19:11 • 9h ago
 
 ---
 
-**[🔴 LIVE Crypto and Stock Analysis | BTC, ETH, &amp; Altcoins](https://www.youtube.com/watch?v=QXZS5Hjmw0U)**
+**[Why Ethereum’s Potential Hasn’t Come True Yet](https://www.youtube.com/watch?v=u1eyGeuN2aI)**
 
-Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum and altcoins using market structure, ...
+In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum's earliest builders, explains why AI agents could ...
 
-📺 Chart Champions
+📺 Cointelegraph
 
-👁️ 3K • 👍 193 • 💬 28 • ⏱️ 1:00:10 • 7h ago
+👁️ 3K • 👍 86 • 💬 21 • ⏱️ 11:21 • 1d ago
 
 ---
 
-**[Bitcoin Below $60K: Michael Saylor Is Running Out of Moves](https://www.youtube.com/watch?v=BbOvbGQSb_A)**
+**[Crypto Market Crash or Correction | BTC &amp; ETH Price Prediction Today | क्या होगा आगे?](https://www.youtube.com/watch?v=cT-Xkewekl4)**
 
-OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are bleeding as Bitcoin breaks below ...
+BTC & ETH Price Prediction Today | Will Crypto Market Go Up or Down? | Hindi Analysis Premium on Telegram ...
 
-📺 Bankless
+📺 Crypto Gyan
 
-👁️ 5K • 👍 185 • 💬 72 • ⏱️ 1:04:00 • 13h ago
+👁️ 285 • 👍 51 • ⏱️ 7:01 • 1h ago
 
 ---
 
@@ -300,37 +302,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 379 • 💬 104 • ⏱️ 19:47 • 1d ago
+👁️ 13K • 👍 397 • 💬 108 • ⏱️ 19:47 • 1d ago
 
 ---
 
-**[The Ethereum Foundation Is Splitting Up - The Chopping Block](https://www.youtube.com/watch?v=KwrpeTkMAWc)**
+**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
 
-The crew debates whether Saylor's STRC preferred shares are "Luna for suits," unpacks the ETH Labs spin-out and Ethereum ...
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
 
-📺 Unchained
+📺 Altcoin Daily
 
-👁️ 3K • 👍 91 • 💬 47 • ⏱️ 1:04:01 • 1d ago
-
----
-
-**[BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=-b9R3biu4gk)**
-
-BITCOIN CRASH OVER: Price Target Hit (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 404 • 💬 276 • ⏱️ 21:41 • 1d ago
+👁️ 23K • 👍 567 • 💬 60 • ⏱️ 1:35 • 20h ago
 
 ---
 
-**[Is the Ethereum Bear Market Resuming Now?](https://www.youtube.com/watch?v=gMcXO1ePqDE)**
+**[What The FED And BiS Just Said About Crypto Is SHOCKING!!! Clarity News, ETH &amp; ADA News! BTC TA!?](https://www.youtube.com/watch?v=fDYkHi9qb5c)**
 
-In this video I break down the current Ethereum price action and analyze the potential for a deeper move to the downside.
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 More Crypto Online
+📺 AllinCrypto
 
-👁️ 6K • 👍 246 • 💬 8 • ⏱️ 9:05 • 2d ago
+👁️ 23K • 👍 1K • 💬 272 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[Ethereum Is Facing A Critical Funding Gap, Says Ex-EF Member](https://www.youtube.com/watch?v=F2UTzETWkxU)**
+
+On today's Markets Outlook, Protocol Guild Organizer Trent Van Epps tells CoinDesk's Jennifer Sanasie why the Ethereum ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 53 • 💬 23 • ⏱️ 18:21 • 1d ago
 
 ---
 
