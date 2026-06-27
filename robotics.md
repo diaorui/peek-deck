@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-26T22:45:21.690868+00:00'
+updated: '2026-06-27T00:08:37.447921+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 26, 2026 at 22:45 UTC  
+**Last Updated:** June 27, 2026 at 00:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 If it does not exist in real life and instead of the humanoids does it mean it didn't had the actual physics or it was just fiction?
 
-17h ago
+18h ago
 
 ---
 
@@ -120,29 +120,29 @@ WSJ • 2d ago
 
 ---
 
-**['Digit' maker Agility Robotics to go public in $2.5B deal — here's what the filings say about its finances](https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/)**
+**[Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public](https://finance.yahoo.com/technology/ai/articles/humanoid-robotics-ceo-first-pure-220721680.html)**
 
-Salem, Ore.-based Agility Robotics, whose two-legged Digit robots have been tested inside Amazon warehouses, is set to become the first publicly traded U.S. company dedicated solely to humanoid robots, beating its Silicon Valley and East Coast rivals to Wall Street.
+Peggy Johnson, a former Microsoft and Magic Leap executive who is now the CEO of Agility Robotics, used a CNBC segment to announce that her company is going public through a SPAC merger with Churchill Capital Corp., a deal she describes as the first pure-play humanoid robotics company to tap public markets. The company, a ... Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public
 
-GeekWire • 2d ago
-
----
-
-**[Meet Digit, Agility Robotics' humanoid robot that's a ROI 'from day one'](https://finance.yahoo.com/video/meet-digit-agility-robotics-humanoid-201516624.html)**
-
-Agility Robotics (AGRO.PVT) is the developer behind the "Digit", a bipedal humanoid robot designed to take on repetitive tasks in human spaces like factories.
-
-Agility Robotics CEO Peggy Johnson dives into the types of labor roles her company's robots could take on.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
+**[Agility Robotics: The First Listed U.S. Pure-Play Humanoid Company (NASDAQ:CCXI)](https://seekingalpha.com/article/4917861-agility-robotics-the-first-listed-us-pure-play-humanoid-company)**
 
-Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
+Seeking Alpha • 1d ago
 
-Yahoo Finance • 9h ago
+---
+
+**[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
+
+National Science Foundation (.gov) • 3d ago
+
+---
+
+**[UT robot soccer team heads to South Korea to compete against world's top autonomous robots](https://www.kvue.com/article/news/education/university-of-texas/ut-robot-soccer-team-south-korea-compete-robocup/269-3aab3a54-5cdd-4d83-86fb-01c92cbd971f)**
+
+KVUE • 12h ago
 
 ---
 
@@ -154,23 +154,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Watch Nvidia Wants to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[World's first hotel entirely staffed by robots to open in 2027](https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/)**
 
 The first hotel run by robots will open its doors to the public next year. It comes as no surprise that it's happening in China – on the artificial island built for the Shenzhen-Zhongshan Link, the cross-sea megaproject in the Pearl River Delta.
 
-New Atlas • 15h ago
-
----
-
-**[Robotics: Engineering the future of intelligent machines](https://www.nsf.gov/science-matters/robotics-engineering-future-intelligent-machines)**
-
-National Science Foundation (.gov) • 3d ago
+New Atlas • 16h ago
 
 ---
 
@@ -178,15 +166,23 @@ National Science Foundation (.gov) • 3d ago
 
 FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
-Business Insider • 12h ago
+Business Insider • 14h ago
 
 ---
 
-**[Boston Dynamics to build "advanced robotics and AI center" in Massachusetts, add over 1,000 jobs](https://www.cbsnews.com/boston/news/boston-dynamics-expansion-waltham-ai-center-jobs/)**
+**[BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work](https://interestingengineering.com/ai-robotics/bmw-figure-03-humanoid-robot-smart-factory-us)**
 
-Boston Dynamics is expanding with a new robotics and AI center in Waltham, Massachusetts.
+BMW deploys Figure 03 humanoid robot in US production, expanding Physical AI with advanced logistics automation and smart factories.
 
-CBS News • 2d ago
+Interesting Engineering • 15h ago
+
+---
+
+**[Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics)**
+
+The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
+
+The Block • 11h ago
 
 ---
 
@@ -200,7 +196,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 233 • ⏱️ 13:45 • 4d ago
+👁️ 65K • 👍 1K • 💬 233 • ⏱️ 13:45 • 5d ago
 
 ---
 
@@ -220,7 +216,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 1K • 👍 254 • 💬 16 • ⏱️ 1:16 • 1h ago
+👁️ 1K • 👍 254 • 💬 16 • ⏱️ 1:16 • 2h ago
 
 ---
 
@@ -230,7 +226,7 @@ UNSPEAKABLE TOYS @ WALMART → https://www.walmart.com/brand/unspeakable/unspeak
 
 📺 Unspeakable Studios
 
-👁️ 35K • 👍 1K • 💬 222 • ⏱️ 13:57 • 2h ago
+👁️ 35K • 👍 1K • 💬 222 • ⏱️ 13:57 • 4h ago
 
 ---
 
@@ -258,7 +254,7 @@ Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designe
 
 📺 Rowan Cheung
 
-👁️ 14K • 👍 1K • 💬 39 • ⏱️ 1:08 • 6h ago
+👁️ 14K • 👍 1K • 💬 39 • ⏱️ 1:08 • 7h ago
 
 ---
 
@@ -268,7 +264,7 @@ Welcome to the future of logistics. This fully automated warehouse in China oper
 
 📺 Wealthy Capital
 
-👁️ 136K • 👍 491 • 💬 52 • ⏱️ 0:09 • 2d ago
+👁️ 136K • 👍 491 • 💬 52 • ⏱️ 0:09 • 3d ago
 
 ---
 

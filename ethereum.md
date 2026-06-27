@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-26T22:45:21.687402+00:00'
+updated: '2026-06-27T00:08:37.445150+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 26, 2026 at 22:45 UTC  
+**Last Updated:** June 27, 2026 at 00:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,576.48
+### $1,577.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -9.5%  
+**24h:** +1.3%  
+**7d:** -7.4%  
 **30d:** -21.6%  
-**90d:** -20.5%  
-**1y:** -34.9%  
+**90d:** -22.0%  
+**1y:** -35.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 4h ago
 
 The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
 
-The Block • 18h ago
+The Block • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 1d ago
 
 An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
 
-TradingView • 5h ago
+TradingView • 7h ago
 
 ---
 
@@ -210,23 +210,23 @@ The Motley Fool • 1d ago
 
 BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.
 
-CryptoSlate • 14h ago
+CryptoSlate • 16h ago
 
 ---
 
-**[Coinbase Bytes newsletter](https://www.coinbase.com/bytes/archive/6-billion-just-left-btc-etfs)**
+**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
 
-$6 billion just left BTC ETFs
+Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
 
-Coinbase • 13h ago
+Seeking Alpha • 10h ago
 
 ---
 
-**[New Crypto: Ethereum Based Crypto Pepeto Approaches Binance Debut While Cardano Price Target Is Bullish](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-approaches-binance-debut-while-cardano-price-target-is-bullish-1036277603)**
+**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
 
-DUBAI, United Arab Emirates, June  25, 2026  (GLOBE NEWSWIRE) -- The new Ethereum based crypto Pepeto is days away from a Binance listing, the kin...
+Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
 
-markets.businessinsider.com • 1d ago
+BeInCrypto • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 311 • 👍 32 • 💬 8 • ⏱️ 27:53 • 2h ago
+👁️ 311 • 👍 32 • 💬 8 • ⏱️ 27:53 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 8 • ⏱️ 9:04 • 5h ago
+👁️ 2K • 👍 119 • 💬 8 • ⏱️ 9:04 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 192 • 💬 145 • ⏱️ 19:11 • 3h ago
+👁️ 3K • 👍 192 • 💬 145 • ⏱️ 19:11 • 5h ago
 
 ---
 
@@ -280,7 +280,7 @@ Live crypto market analysis with Severin. Join the stream as we break down Bitco
 
 📺 Chart Champions
 
-👁️ 3K • 👍 193 • 💬 28 • ⏱️ 1:00:10 • 5h ago
+👁️ 3K • 👍 193 • 💬 28 • ⏱️ 1:00:10 • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are 
 
 📺 Bankless
 
-👁️ 5K • 👍 185 • 💬 72 • ⏱️ 1:04:00 • 11h ago
+👁️ 5K • 👍 185 • 💬 72 • ⏱️ 1:04:00 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-26T22:45:21.681264+00:00'
+updated: '2026-06-27T00:08:37.439908+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 26, 2026 at 22:45 UTC  
+**Last Updated:** June 27, 2026 at 00:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,727.36
+### $60,032.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -6.8%  
-**30d:** -18.6%  
-**90d:** -9.3%  
+**24h:** +1.2%  
+**7d:** -5.0%  
+**30d:** -18.2%  
+**90d:** -10.0%  
 **1y:** -44.0%  
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 13
+### 15
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Many of you need to calm down. Go engage in your hobbies, spend time with loved ones, have fun in someway. Stop stressing so much over bitcoin. I invested a large amount of my small networth in March 2022. Not until January 2024 did I have a single day where my investment was profitable. I’d have KMS if I was staring at the price everyday. Either sell your stack or shut up, please. You’ll be fine no matter what happens.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Many of you need to calm down. Go engage in your hobbies, spend time with loved 
 
 It’s funny, when bitcoin goes down, it’s the only asset they claim has died and it’s over. Farther from the truth. 80% of bitcoin hasn’t even moved the last 6 months. 20% of bitcoin(mainly leveraged trading) is dictating the price. MAG7 largest drawdowns Nvidia -89% now largest company in the world Amazon -95% Meta -77% Tesla -73% Microsoft -70% Google -70% Apple -65% They’ve all had multiple drawdowns 50%+ Thank you for coming to my TED talk
 
-6h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ It’s funny, when bitcoin goes down, it’s the only asset they claim has died 
 
 So, I am the author of the original Bitcoin Rainbow Chart. As you may now, it fell > 10% below the lowest band (that was also added later). I don't want to let it die. Instead of blindly adding new colors to the bottom (ultraviolet anyone?), I created a new one. This one is calculating a dynamic power law regression. with all available data and will update the chart if we make lower lower or higher highs... The R² which measures how the curve fit the price chart is at 94,3%, which is quite good. Check it out. Don't want to post the link so this post does not get flagged but you know how to find the "Bitcoin Rainbow Chart on blockchaincenter.net
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ So, I am the author of the original Bitcoin Rainbow Chart. As you may now, it fe
 
 Title.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Title.
 
 I bought and made everyones holdings a tiny tiny tiny tiny bit more worth.
 
-9h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ I bought and made everyones holdings a tiny tiny tiny tiny bit more worth.
 
 When we blew past $80k back in early May, I took the exit and sold my whole stack. Honestly, it feels like everyone has completely taken their eye off the ball lately. The whole space is obsessed with MSTR, STRC and panicking over a supposed leveraged death spiral. Let them sweat it out. While they're busy losing their minds, I'm sitting comfortably in cash. You could see this correction coming from a mile away. Did we forget about the 4 year cycle? Now I'm just waiting for the absolute bottom. My limit orders are locked in at $45k, ready and waiting for the paper hands to capitulate and sell me their coins at a discount.
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Finally made it to 1 BTC 💎
 
 I am mentally prepared to see a very low number - and its not even close to that yet. But thankfully Ive seen all this before. I was really happy when we hit our new ATH and now it does feel shit, but Ive kind of expected it. The only thing is I just never really know and any time I have tried to predict things and trade I have been even more miserable so I hust HODL.
 
-8h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am mentally prepared to see a very low number - and its not even close to that
 
 Full disclosure: I have about $1000 (as of this AM) in Bitcoin. Needless to say, I am not a big holder nor do I know shit about crypto. That being said, help me understand all this talk about 4 year cycles, etc. virtually every post I see references this mechanism and how it’s a valid predictor. What is this magical elixir you speak of?
 
-2h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ Full disclosure: I have about $1000 (as of this AM) in Bitcoin. Needless to say,
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -171,43 +171,51 @@ CNBC • 8h ago
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Report: Person claims to have video of Nancy Guthrie with kidnappers, demands Bitcoin to release it](https://www.wral.com/news/ap/report-person-claims-to-know-who-took-nancy-guthrie-claims-video-june-2026/)**
+**[Bitcoin longs worth $700M liquidated as price dips below $60K amid weak demand and ongoing losses.](https://pluang.com/en/news-feed/permintaan-bitcoin-negatif-berbulan-bulan-dampak-btc)**
 
-TMZ said they received an email from a person who claimed to know who took the mother of TODAY Show host Savannah Guthrie, and that they had video of the "main guy" and Nancy from the day she died.
+On June 24, $700 million in long Bitcoin positions were liquidated following a sell-off that pushed BTC below $60,000. This drop reflected weak demand, with Bitcoin's spot demand negative for over 200 days, indicating selling pressure outweighs buying interest. Additional data showed sustained losses and increased miner selling, signaling continued bearish market conditions. The average realized price of $53,888 is now seen as a key support level, suggesting further price testing ahead.
 
-WRAL • 1h ago
-
----
-
-**[Crypto Market Today, June 26: Risk-Off Sentiment Weighs on Bitcoin with $1.3 Billion in ETF Outflows This Week](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-june-26-220808082.html)**
-
-Traders navigated renewed volatility as Strategy concerns and ETF outflows shaped crypto sentiment, today, June 26, 2026.
-
-Yahoo Finance • 37m ago
+Pluang • 24m ago
 
 ---
 
-**[Bitcoin Stumbles To 21-Month Low—Here’s Why](https://www.forbes.com/sites/tylerroush/2026/06/25/bitcoin-hits-21-month-low-as-expiring-crypto-bets-threaten-more-selling/)**
+**[Bitcoin trades near $60K amid debate if its historic 4-year cycle still governs price or if institutions changed the game.](https://pluang.com/en/news-feed/prediksi-harga-bitcoin-siklus-4-tahun-masih-berlaku)**
 
-The world’s leading cryptocurrency has lost more than half its value since peaking last fall.
+Bitcoin is trading near $60,000, down about 52% from its October 2025 peak of $126,000, resting on a key long-term support line with market sentiment in extreme fear. The main question is whether Bitcoin's traditional four-year halving cycle, which has historically driven its price patterns, still applies or if institutional investors have altered this dynamic. If the cycle holds, Bitcoin may face a deeper correction before recovering; if not, steady institutional demand could stabilize prices and prevent a severe bear market. The next few months are critical, with key price levels and institutional flows expected to reveal which scenario will unfold.
 
-Forbes • 1d ago
+Pluang • 57m ago
+
+---
+
+**[Weekly Wrap: Bitcoin Nears Two-Year Low](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-nears-two-235200130.html)**
+
+Leading cryptocurrencies such as Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) reached their lowest levels of ...
+
+Yahoo Finance • 16m ago
 
 ---
 
 **[Bitcoin’s Woes Could Be Compounded by $10 Billion Options Expiry](https://www.bloomberg.com/news/articles/2026-06-25/bitcoin-s-woes-could-be-compounded-by-10-billion-options-expiry)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin Is Paying the Price for the End of the Dollar Debasement Trade](https://www.barrons.com/articles/bitcoin-price-selloff-debasement-trade-3c3efb3f)**
+**[Strategy Stock Mired In Worst Losing Streak Since Late 2022 as Bitcoin Under $60,000](https://www.barrons.com/articles/strategy-stock-losing-streak-bitcoin-cf524664)**
 
-Barron's • 1d ago
+Barron's • 7h ago
+
+---
+
+**[Bitcoin down 20% since May as Strategy fallout spooks investors](https://fortune.com/2026/06/26/bitcoin-down-20-since-may-strategy-fallout-investors/)**
+
+Worries over Strategy and interest rates have pressured crypto, but Bitwise’s Matt Hougan argues the shakeout is setting up a new rally.
+
+Fortune • 5h ago
 
 ---
 
@@ -217,19 +225,11 @@ NewsNation • 1d ago
 
 ---
 
-**[Is MSTR Stock’s 40% Bitcoin Discount A Generational Buy Or An Optical Illusion?](https://www.trefis.com/stock/mstr/articles/604725/is-mstr-stocks-40-bitcoin-discount-a-generational-buy-or-an-optical-illusion/2026-06-26)**
+**[Bitcoin Stumbles To 21-Month Low—Here’s Why](https://www.forbes.com/sites/tylerroush/2026/06/25/bitcoin-hits-21-month-low-as-expiring-crypto-bets-threaten-more-selling/)**
 
-Strategy’s (MSTR) collapse to $85, marking a severe 76% slide over the past year, reflects a sharp narrative repricing. The market’s premier corporate Bitcoin proxy faced institutional derisking after management demonstrated a willingness to utilize core treasury assets for liquidity, shifting Wall Street perception from an untouchable cold-storage vault into an act...
+The world’s leading cryptocurrency has lost more than half its value since peaking last fall.
 
-Trefis • 9h ago
-
----
-
-**[Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000](https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000)**
-
-Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.
-
-CoinDesk • 2h ago
+Forbes • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Katie Stockton, Fairlead Strategies founder and managing partner, joins 'Squawk 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 214 • 💬 123 • ⏱️ 8:42 • 10h ago
+👁️ 21K • 👍 214 • 💬 123 • ⏱️ 8:42 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 281 • 💬 231 • ⏱️ 16:15 • 8h ago
+👁️ 6K • 👍 281 • 💬 231 • ⏱️ 16:15 • 10h ago
 
 ---
 
@@ -348,7 +348,7 @@ BOMBSHELL: Everyone is watching Saylor like a ticking time bomb.. ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 486 • ⏱️ 11:42 • 23h ago
+👁️ 25K • 👍 2K • 💬 486 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -358,7 +358,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 489 • 💬 99 • ⏱️ 1:35 • 14h ago
+👁️ 18K • 👍 489 • 💬 99 • ⏱️ 1:35 • 15h ago
 
 ---
 
@@ -388,7 +388,7 @@ Bitcoin #Crypto #Finance Bitcoin just hit its lowest level since October 2024 �
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 783 • 💬 392 • ⏱️ 26:35 • 9h ago
+👁️ 15K • 👍 783 • 💬 392 • ⏱️ 26:35 • 10h ago
 
 ---
 
@@ -408,7 +408,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 721 • 💬 157 • ⏱️ 53:53 • 8h ago
+👁️ 13K • 👍 721 • 💬 157 • ⏱️ 53:53 • 9h ago
 
 ---
 
