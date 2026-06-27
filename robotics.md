@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T11:54:58.804819+00:00'
+updated: '2026-06-27T13:44:33.972048+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 11:54 UTC  
+**Last Updated:** June 27, 2026 at 13:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ Not trying to advertise, but I’m sharing what we build because I genuinely bel
 
 I haven't revealed her name in this video because I'd like to keep that private for now. XDXD As a first test, I successfully integrated an LLM, TTS, and ASR pipeline to enable voice conversations on the robotic car, even the response latency(LLM) is still slower. As a first test, I integrated a complete voice pipeline: → Microphone → Whisper Base (Speech-to-Text) → Ollama (LLM) → Kokoro TTS (Text-to-Speech) → Speaker The system runs locally on the Jetson AGX Xavier. Response latency is still slower... However, it is already capable of holding voice conversations while moving around autonomously. Current Stack(24 June 2025) Jetson AGX Xavier Ollama(LLM) Kokoro TTS Camera system orbbec camera Microphone and speakers(whisper base) Robotic car platform Until today, I am still improving the system. Future plans may include: Live2D avatar integration (will add later) Added VLM (Vision-Language Model) Shorter-latency LLM and VLM responses Improved voice interaction Update: The platform was later upgraded to a Jetson AGX Orin.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,9 +114,33 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
-**[Oregon robotics company Agility will go public in deal valuing it at $2.5 billion](https://www.oregonlive.com/silicon-forest/2026/06/oregon-robotics-company-agility-will-go-public-in-deal-valuing-it-at-25-billion.html)**
+**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-OregonLive.com • 2d ago
+San Francisco Chronicle • 13h ago
+
+---
+
+**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
+
+Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
+
+Silicon Canals • 15h ago
+
+---
+
+**[We know how to build smarter robots. Now, we need to learn smarter ways to test them](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/)**
+
+Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.
+
+The Robot Report • 37m ago
+
+---
+
+**[How compact cobot integration enhances autonomous mobile robot applications](https://www.therobotreport.com/how-compact-cobot-integration-enhances-autonomous-mobile-robot-applications/)**
+
+Cobots are quickly shaping the future of warehousing, with their use rising 10-fold from 2018 to 2025, Kassow said.
+
+The Robot Report • 57m ago
 
 ---
 
@@ -124,7 +148,21 @@ OregonLive.com • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 19h ago
+IEEE Spectrum • 20h ago
+
+---
+
+**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
+
+WSJ • 3d ago
+
+---
+
+**[San Francisco storefront opened by REK will allow customers to train, showcase, repair and develop giant humanoid robots](https://abc7news.com/post/san-francisco-storefront-opened-rek-will-allow-customers-train-showcase-repair-develop-giant-humanoid-robots/19377134/)**
+
+A 6-foot fighting robot was unveiled in San Francisco by REK at an empty warehouse that will soon be transformed into a humanoid robot one-stop shop.
+
+ABC7 Bay Area • 1d ago
 
 ---
 
@@ -136,69 +174,21 @@ Financial Times • 2d ago
 
 ---
 
-**[Watch Nvidia Wants to Make Humanoid AI Robots Safer Around Humans](https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video)**
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-Bloomberg.com • 1d ago
+OregonLive.com • 1d ago
 
 ---
 
 **[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
-Tech Xplore • 19h ago
-
----
-
-**[‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)**
-
-When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concern
-
-The Guardian • 3d ago
-
----
-
-**[Robot Seen on Street Begging for Change](https://futurism.com/robots-and-machines/robot-begging-china-humanoid-unitree-g1)**
-
-A
-
-Futurism • 23h ago
-
----
-
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
-
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 1d ago
-
----
-
-**[Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics)**
-
-The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
-
-The Block • 23h ago
-
----
-
-**[UT Robotics team heads to Korea for soccer tournament](https://www.kxan.com/news/education/ut-robotics-team-heads-to-korea-for-soccer-tournament/)**
-
-KXAN Austin • 1d ago
+Tech Xplore • 21h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 67K • 👍 1K • 💬 234 • ⏱️ 13:45 • 5d ago
-
----
 
 **[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
 
@@ -210,23 +200,33 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 ---
 
+**[Hospital Robot, Biological Computing &amp; Soft Robotics | Tech It Out: Ep 265 | Full Show](https://www.youtube.com/watch?v=Wu9CAB2shiQ)**
+
+This week on Tech It Out, we look at how a humanoid is supporting patients and healthcare workers at a hospital in Italy; explore ...
+
+📺 WION
+
+👁️ 62 • 👍 2 • 💬 1 • ⏱️ 19:46 • 1h ago
+
+---
+
 **[Robotics](https://www.youtube.com/watch?v=P4KlMJ02d0Q)**
 
 erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 Support Mary directly: Substack: ...
 
 📺 Mary Trump Media
 
-👁️ 4K • 👍 633 • 💬 33 • ⏱️ 1:16 • 14h ago
+👁️ 5K • 👍 681 • 💬 34 • ⏱️ 1:16 • 16h ago
 
 ---
 
-**[We give it a 10 for confidence... #robotfail #robotics #TechHumor](https://www.youtube.com/watch?v=xDpit8vD5z8)**
+**[Arpo the Robot | DISHWASHING ROBOT | Funny Cartoons for Kids | Arpo and Daniel](https://www.youtube.com/watch?v=N8aRclfE7g8)**
 
-Robot tried to perform a cartwheel when gravity intervened. Media: techniahq on X.
+Join ARPO the Robot for an exciting livestream filled with fun, surprises, and laugh-out-loud moments! Whether he's on a ...
 
-📺 Cybernews
+📺 ARPO: The Robot
 
-👁️ 3K • 👍 38 • 💬 3 • ⏱️ 0:06 • 6h ago
+👁️ 33K • 👍 50 • ⏱️ 59:56 • 2d ago
 
 ---
 
@@ -240,53 +240,53 @@ Trained on 20000 hours of human motion data — the largest-scale dataset to dat
 
 ---
 
-**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
-
-📺 PREDATOR WR
-
-👁️ 9K • 👍 376 • 💬 67 • ⏱️ 14:36 • 23h ago
-
----
-
-**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
-
-In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
-
-📺 Tom Scott
-
-👁️ 924K • 👍 49K • 💬 2K • ⏱️ 21:33 • 4d ago
-
----
-
-**[Inside the Warehouse Where Jobs Got DELETED 🤖📦](https://www.youtube.com/watch?v=vJYUmPVph0I)**
-
-Welcome to the future of logistics. This fully automated warehouse in China operates 24/7 in complete darkness. Relying entirely ...
-
-📺 Wealthy Capital
-
-👁️ 136K • 👍 496 • 💬 53 • ⏱️ 0:09 • 3d ago
-
----
-
 **[Prime Day Robot Vacuum Deals 2026 — What&#39;s Worth It and What to Skip](https://www.youtube.com/watch?v=F9m4Shls9-A)**
 
 2026 Best Amazon Prime Sales on Robot Vacuums and Mop combo See Full Amazon Prime Robot Vacuum sales ...
 
 📺 Just A Dad Approved
 
-👁️ 17K • 👍 293 • 💬 166 • ⏱️ 18:57 • 3d ago
+👁️ 17K • 👍 292 • 💬 166 • ⏱️ 18:57 • 3d ago
 
 ---
 
-**[GM lays off 1,000 workers and adds robots to its assembly line](https://www.youtube.com/watch?v=QPGQOivUt-g)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
-General Motors has cut 1000 jobs at its Detroit facility, and it later installed about 50 robots on the assembly line. GM has faced ...
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
-📺 NewsNation
+📺 AI Revolution
 
-👁️ 75K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
+👁️ 68K • 👍 1K • 💬 235 • ⏱️ 13:45 • 5d ago
+
+---
+
+**[I&#39;ve Gone Insane... FULL 5x Hellburner Hangar, Actually WORKS | War Robots](https://www.youtube.com/watch?v=5Mnx9ntcrnk)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR Well this is real. I'm using a 5x Hellburner hangar. I cant even ...
+
+📺 PREDATOR WR
+
+👁️ 10K • 👍 378 • 💬 68 • ⏱️ 14:36 • 1d ago
+
+---
+
+**[This robot was built to chase you 👀 #trendingshorts #robot #tech](https://www.youtube.com/watch?v=FqzDqlaCNNo)**
+
+Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designed to autonomously follow and film its owner.
+
+📺 Rowan Cheung
+
+👁️ 40K • 👍 2K • 💬 58 • ⏱️ 1:08 • 21h ago
+
+---
+
+**[Scientists Create 5-in-1 Surgical Micro-robot](https://www.youtube.com/watch?v=0TushliM9Pk)**
+
+Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
+
+📺 Dr Ben Miles
+
+👁️ 370K • 👍 28K • 💬 450 • ⏱️ 1:44 • 22h ago
 
 ---
 

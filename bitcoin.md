@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-27T11:54:58.796700+00:00'
+updated: '2026-06-27T13:44:33.962467+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 11:54 UTC  
+**Last Updated:** June 27, 2026 at 13:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,326.74
+### $60,327.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -4.7%  
-**30d:** -17.9%  
-**90d:** -9.6%  
-**1y:** -43.8%  
+**24h:** +1.6%  
+**7d:** -4.2%  
+**30d:** -17.5%  
+**90d:** -9.2%  
+**1y:** -43.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1209.71B
+**Market Cap:** $1212.99B
 Rank #1
 
-**Circulating Supply:** 20,048,840 BTC
+**Circulating Supply:** 20,048,900 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--52.1%
+-52.0%
 
 **All-Time Low:** $67.81
-+88881.0%
++89121.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Many of you need to calm down. Go engage in your hobbies, spend time with loved ones, have fun in someway. Stop stressing so much over bitcoin. I invested a large amount of my small networth in March 2022. Not until January 2024 did I have a single day where my investment was profitable. I’d have KMS if I was staring at the price everyday. Either sell your stack or shut up, please. You’ll be fine no matter what happens.
 
-16h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Many of you need to calm down. Go engage in your hobbies, spend time with loved 
 
 It’s funny, when bitcoin goes down, it’s the only asset they claim has died and it’s over. Farther from the truth. 80% of bitcoin hasn’t even moved the last 6 months. 20% of bitcoin(mainly leveraged trading) is dictating the price. MAG7 largest drawdowns Nvidia -89% now largest company in the world Amazon -95% Meta -77% Tesla -73% Microsoft -70% Google -70% Apple -65% They’ve all had multiple drawdowns 50%+ Thank you for coming to my TED talk
 
-20h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ It’s funny, when bitcoin goes down, it’s the only asset they claim has died 
 
 So, I am the author of the original Bitcoin Rainbow Chart. As you may now, it fell > 10% below the lowest band (that was also added later). I don't want to let it die. Instead of blindly adding new colors to the bottom (ultraviolet anyone?), I created a new one. This one is calculating a dynamic power law regression. with all available data and will update the chart if we make lower lower or higher highs... The R² which measures how the curve fit the price chart is at 94,3%, which is quite good. Check it out. Don't want to post the link so this post does not get flagged but you know how to find the "Bitcoin Rainbow Chart on blockchaincenter.net
 
-22h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ So, I am the author of the original Bitcoin Rainbow Chart. As you may now, it fe
 
 Title.
 
-16h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Title.
 
 I bought and made everyones holdings a tiny tiny tiny tiny bit more worth.
 
-22h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ Finally made it to 1 BTC 💎
 
 I am mentally prepared to see a very low number - and its not even close to that yet. But thankfully Ive seen all this before. I was really happy when we hit our new ATH and now it does feel shit, but Ive kind of expected it. The only thing is I just never really know and any time I have tried to predict things and trade I have been even more miserable so I hust HODL.
 
-21h ago
+23h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am mentally prepared to see a very low number - and its not even close to that
 
 Full disclosure: I have about $1000 (as of this AM) in Bitcoin. Needless to say, I am not a big holder nor do I know shit about crypto. That being said, help me understand all this talk about 4 year cycles, etc. virtually every post I see references this mechanism and how it’s a valid predictor. What is this magical elixir you speak of?
 
-15h ago
+17h ago
 
 ---
 
@@ -163,7 +163,7 @@ Full disclosure: I have about $1000 (as of this AM) in Bitcoin. Needless to say,
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-CNBC • 21h ago
+CNBC • 23h ago
 
 ---
 
@@ -175,41 +175,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[DOL proposal sparks debate on including Bitcoin and alternatives in 401(k) plans amid political and investor concerns.](https://pluang.com/en/news-feed/mengapa-uang-401k-menjadi-pertempuran-politik-bitcoin)**
-
-The U.S. Department of Labor's proposed rule on fiduciary duties for 401(k) investment selections has ignited a heated debate over allowing alternative assets like Bitcoin and private funds in retirement plans. Lawmakers including Senators Sanders and Warren oppose the proposal, fearing it exposes savers to risky investments without sufficient protections. Asset managers like Vanguard call for clearer guidelines focused on participant interests. The rule does not mandate crypto but could open the door for elective Bitcoin ETFs in 401(k)s, prompting plan sponsors to prepare with updated policies and cautious communication as the regulatory process unfolds.
-
-Pluang • 3h ago
-
----
-
 **[Bitcoin News: Every Major Bitcoin Bottom for a Decade Has Come Near the 200-Week SMA — History Says the Window Is Open Right Now](https://www.binance.com/en/square/post/338601025496305)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
-**[Bitcoin holds above $60,000 as Strategy’s funding model faces growing scrutiny](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-60-000-090357524.html)**
+**[Bitcoin down 20% since May as Strategy fallout spooks investors](https://fortune.com/2026/06/26/bitcoin-down-20-since-may-strategy-fallout-investors/)**
 
-Investing.com -- Bitcoin traded above $60,000 on Saturday as investors weighed mounting concerns over Strategy Inc (NASDAQ:MSTR) Bitcoin accumulation strategy ahead of a key dividend reset, while the cryptocurrency remained under pressure after falling sharply from recent highs.
+Worries over Strategy and interest rates have pressured crypto, but Bitwise’s Matt Hougan argues the shakeout is setting up a new rally.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Report: Person claims to have video of Nancy Guthrie with kidnappers, demands Bitcoin to release it](https://www.wral.com/news/ap/report-person-claims-to-know-who-took-nancy-guthrie-claims-video-june-2026/)**
-
-TMZ said they received an email from a person who claimed to know who took the mother of TODAY Show host Savannah Guthrie, and that they had video of the "main guy" and Nancy from the day she died.
-
-WRAL • 14h ago
+Fortune • 19h ago
 
 ---
 
-**[Bitcoin falls back under $60,000, hitting its lowest level since October 2024](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)**
+**[Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-halved-ai-costs-130000536.html)**
 
-Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
+Armstrong cut Coinbase AI spending in half as token usage surges and called Bitcoin's bear market a cool breeze.
 
-CNBC • 2d ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -219,11 +203,25 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto](https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto)**
+**[Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000](https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000)**
 
-Ripple's Brad Garlinghouse called Strategy's preferred-stock funding model "financial engineering" that distracted the market, pointing to STRC's slide to a record low as the evidence. He runs the company behind XRP, a bitcoin rival.
+Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.
 
-CoinDesk • 3h ago
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin Is Paying the Price for the End of the Dollar Debasement Trade](https://www.barrons.com/articles/bitcoin-price-selloff-debasement-trade-3c3efb3f)**
+
+Barron's • 1d ago
+
+---
+
+**[Strategy loses its bitcoin premium as enterprise mNAV dips below 1](https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1)**
+
+Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% below par.
+
+The Block • 16h ago
 
 ---
 
@@ -263,6 +261,14 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 ---
 
+**[Michael Saylor's Strategy has no easy way out as Bitcoin prices continue to drop](https://news.ycombinator.com/item?id=48697440)**
+
+Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
+
+⬆️ 2 • 💬 1 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+
+---
+
 **[What happens when Bitcoin miners take over your town (2018)](https://news.ycombinator.com/item?id=48668919)**
 
 Eastern Washington had cheap power and tons of space. Then the suitcases of cash started arriving.
@@ -294,14 +300,6 @@ Create an independent digital timestamp without uploading the original file.
 
 ---
 
-**[Michael Saylor's Strategy has no easy way out as Bitcoin prices continue to drop](https://news.ycombinator.com/item?id=48697440)**
-
-Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
-
-⬆️ 1 • 💬 0 • 4m ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
-
----
-
 **[Has Strategy's Bitcoin Sale Backfired? What Prediction Markets Reveal](https://news.ycombinator.com/item?id=48657551)**
 
 Read this crypto post from greatHydra_997 posted on 2026/06/24 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
@@ -328,17 +326,7 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 175 • ⏱️ 16:08 • 13h ago
-
----
-
-**[I&#39;m a bitcoin bull from a &#39;very, very long-term&#39; perspective, says Fairlead&#39;s Katie Stockton](https://www.youtube.com/watch?v=gKzDU7IMGp0)**
-
-Katie Stockton, Fairlead Strategies founder and managing partner, joins 'Squawk Box' to discuss the latest market trends, bitcoin ...
-
-📺 CNBC Television
-
-👁️ 28K • 👍 262 • 💬 149 • ⏱️ 8:42 • 23h ago
+👁️ 20K • 👍 2K • 💬 220 • ⏱️ 16:08 • 15h ago
 
 ---
 
@@ -348,17 +336,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 324 • 💬 168 • ⏱️ 16:15 • 22h ago
-
----
-
-**[Why Bitcoin &amp; Stocks Face a 2008-Style Crash | Peter Schiff](https://www.youtube.com/watch?v=4dMgBe5xl7Q)**
-
-Ran is joined by Peter Schiff for a wide ranging discussion on the biggest risks facing the global economy, financial markets, and ...
-
-📺 Crypto Insider
-
-👁️ 15K • 👍 605 • 💬 33 • ⏱️ 50:56 • 19h ago
+👁️ 9K • 👍 331 • 💬 206 • ⏱️ 16:15 • 23h ago
 
 ---
 
@@ -368,17 +346,17 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 606 • 💬 60 • ⏱️ 1:35 • 1d ago
+👁️ 27K • 👍 619 • 💬 63 • ⏱️ 1:35 • 1d ago
 
 ---
 
-**[Is Michael Saylor About to Trigger a Bitcoin Death Spiral?](https://www.youtube.com/watch?v=nAY11qRBGcI)**
+**[I&#39;m a bitcoin bull from a &#39;very, very long-term&#39; perspective, says Fairlead&#39;s Katie Stockton](https://www.youtube.com/watch?v=gKzDU7IMGp0)**
 
-Bitcoin just broke below its 200-week moving average, Strategy's STRC is cracking, MSTR is under pressure, and the rumor ...
+Katie Stockton, Fairlead Strategies founder and managing partner, joins 'Squawk Box' to discuss the latest market trends, bitcoin ...
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 53K • 👍 3K • 💬 547 • ⏱️ 20:52 • 1d ago
+👁️ 29K • 👍 295 • 💬 191 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -388,7 +366,7 @@ BOMBSHELL: Everyone is watching Saylor like a ticking time bomb.. ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 451 • ⏱️ 11:42 • 1d ago
+👁️ 28K • 👍 2K • 💬 449 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -398,7 +376,37 @@ I disappeared for a while after suffering massive financial losses. This is wher
 
 📺 TechLead
 
-👁️ 169K • 👍 9K • 💬 3K • ⏱️ 11:23 • 2d ago
+👁️ 172K • 👍 9K • 💬 3K • ⏱️ 11:23 • 2d ago
+
+---
+
+**[Is Michael Saylor About to Trigger a Bitcoin Death Spiral?](https://www.youtube.com/watch?v=nAY11qRBGcI)**
+
+Bitcoin just broke below its 200-week moving average, Strategy's STRC is cracking, MSTR is under pressure, and the rumor ...
+
+📺 Simply Bitcoin
+
+👁️ 54K • 👍 3K • 💬 596 • ⏱️ 20:52 • 1d ago
+
+---
+
+**[Why Bitcoin &amp; Stocks Face a 2008-Style Crash | Peter Schiff](https://www.youtube.com/watch?v=4dMgBe5xl7Q)**
+
+Ran is joined by Peter Schiff for a wide ranging discussion on the biggest risks facing the global economy, financial markets, and ...
+
+📺 Crypto Insider
+
+👁️ 17K • 👍 658 • 💬 37 • ⏱️ 50:56 • 20h ago
+
+---
+
+**[What Would Indicate Full Blown Bitcoin Price Capitulation, Ignoring Price-Based?](https://www.youtube.com/watch?v=WrYTIBG10vI)**
+
+Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
+
+📺 Benjamin Cowen
+
+👁️ 12K • 👍 384 • 💬 11 • ⏱️ 0:51 • 16h ago
 
 ---
 
@@ -408,17 +416,7 @@ Bitcoin draws down AGAIN as $60k price gets tested ... WHAT COMES NEXT?
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 531 • 💬 157 • ⏱️ 1:17:04 • 1d ago
-
----
-
-**[“IT&#39;S OVER?! This Is EXACTLY Why Bitcoin Is CRASHING TERRIBLY&quot; - Raoul Pal](https://www.youtube.com/watch?v=-sGcl3PilhM)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 142 • 💬 19 • ⏱️ 16:14 • 16h ago
+👁️ 13K • 👍 534 • 💬 158 • ⏱️ 1:17:04 • 1d ago
 
 ---
 
