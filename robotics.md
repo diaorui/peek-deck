@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T16:39:10.485070+00:00'
+updated: '2026-06-27T18:04:32.965655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 16:39 UTC  
+**Last Updated:** June 27, 2026 at 18:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ The scarce thing in a data center is not manpower, but instinct that only comes 
 
 Not trying to advertise, but I’m sharing what we build because I genuinely believe it’s incredibly cool. Currently, we’re using it as a skin for robotics, primarily for tactile data collection. However, our long-term goal is to make it the skin layer for robots.
 
-1d ago
+2d ago
 
 ---
 
@@ -114,25 +114,15 @@ I haven't revealed her name in this video because I'd like to keep that private 
 
 ## Google News: "robotics"
 
+**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
+
+WSJ • 3d ago
+
+---
+
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 16h ago
-
----
-
-**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 23h ago
-
----
-
-**[We know how to build smarter robots. Now, we need to learn smarter ways to test them](https://www.therobotreport.com/we-know-how-to-build-smarter-robots-now-we-need-to-learn-smarter-ways-to-test-them/)**
-
-Atharv Kolhar, a staff test automation engineer at Figure AI, says the robotics industry needs a testing philosophy that scales alongside autonomy.
-
-The Robot Report • 3h ago
+San Francisco Chronicle • 17h ago
 
 ---
 
@@ -142,25 +132,19 @@ McKinsey & Company • 2d ago
 
 ---
 
-**[Exclusive | Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal](https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32)**
-
-WSJ • 3d ago
-
----
-
 **[Inside the $17,900 Robot That Could Change the Auto Industry](https://www.motortrend.com/news/first-humanoid-robot-teardown-analysis)**
 
 The Unitree G1 is the first relatively affordable humanoid robot. We break down its price, teardown, limitations, and why Tesla, BMW, Mercedes-Benz, XPeng, and other automakers are investing heavily in the technology.
 
-MotorTrend • 21h ago
+MotorTrend • 22h ago
 
 ---
 
-**[San Francisco storefront opened by REK will allow customers to train, showcase, repair and develop giant humanoid robots](https://abc7news.com/post/san-francisco-storefront-opened-rek-will-allow-customers-train-showcase-repair-develop-giant-humanoid-robots/19377134/)**
+**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
 
-A 6-foot fighting robot was unveiled in San Francisco by REK at an empty warehouse that will soon be transformed into a humanoid robot one-stop shop.
+WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
 
-ABC7 Bay Area • 1d ago
+Jamaica Gleaner • 13h ago
 
 ---
 
@@ -172,17 +156,31 @@ Financial Times • 2d ago
 
 ---
 
-**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
-
-WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
-
-Jamaica Gleaner • 11h ago
-
----
-
 **[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
 OregonLive.com • 1d ago
+
+---
+
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+
+Business Insider • 1d ago
+
+---
+
+**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Chinese robot dog uses pulse technology for high-risk firefighting](https://interestingengineering.com/ai-robotics/video-robot-dog-delivers-pulse-powered-firefighting-for-safer-emergency-operations)**
+
+DEEP Robotics demostrates a pulse firefighting robot dog that suppresses fires remotely, protecting crews in hazardous environments.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -196,7 +194,7 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 265 • 💬 63 • ⏱️ 19:38 • 4h ago
+👁️ 4K • 👍 265 • 💬 63 • ⏱️ 19:38 • 6h ago
 
 ---
 
@@ -226,7 +224,7 @@ erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 
 
 📺 Mary Trump Media
 
-👁️ 5K • 👍 726 • 💬 38 • ⏱️ 1:16 • 19h ago
+👁️ 5K • 👍 726 • 💬 38 • ⏱️ 1:16 • 20h ago
 
 ---
 
@@ -276,7 +274,7 @@ General Motors has cut 1000 jobs at its Detroit facility, and it later installed
 
 📺 NewsNation
 
-👁️ 77K • 👍 1K • 💬 1K • ⏱️ 2:04 • 3d ago
+👁️ 77K • 👍 1K • 💬 1K • ⏱️ 2:04 • 4d ago
 
 ---
 

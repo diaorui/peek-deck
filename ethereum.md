@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T16:39:10.481713+00:00'
+updated: '2026-06-27T18:04:32.962228+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 16:39 UTC  
+**Last Updated:** June 27, 2026 at 18:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,605.67
+### $1,591.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -6.1%  
-**30d:** -20.5%  
-**90d:** -20.9%  
-**1y:** -34.2%  
+**24h:** +0.9%  
+**7d:** -6.9%  
+**30d:** -21.1%  
+**90d:** -21.5%  
+**1y:** -34.8%  
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 3d ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 4d ago
 
 ---
 
@@ -128,7 +128,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Ethereum’s new research venture seems like a two-sided sword as the globe’s largest altcoin plummets below $1.7K.
 
-🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 2d ago
+🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 3d ago
 
 ---
 
@@ -156,39 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 21h ago
-
----
-
-**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
-
-The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
-
-The Block • 1d ago
-
----
-
-**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://finance.yahoo.com/markets/crypto/articles/traders-predict-more-pain-bitcoin-162403797.html)**
-
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
-
-Yahoo Finance • 2d ago
-
----
-
-**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
-
-BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
-
-The Motley Fool • 11h ago
-
----
-
-**[Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position](https://www.tradingview.com/news/cointelegraph:019ea6896094b:0-ethereum-whale-who-shorted-october-2025-crash-opens-19-7m-eth-short-position/)**
-
-An Ethereum whale who shorted Ether (ETH) during the October 2025 crypto crash has returned after eight months of silence.Key takeaways:Ethereum whale opens 20x short after eight-month hiatusOn Friday, wallet '0xf83f...6728' opened a 20x-leveraged ETH short worth $19.72 million as Ether reached the…
-
-TradingView • 23h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -200,11 +168,27 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
+**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://finance.yahoo.com/markets/crypto/articles/traders-predict-more-pain-bitcoin-162403797.html)**
 
-Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
+Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
 
-Seeking Alpha • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
+
+The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
+
+The Block • 1d ago
+
+---
+
+**[Whale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum](https://www.tradingview.com/news/newsbtc:bef72199b094b:0-whale-activity-shows-high-leverage-short-positions-re-opened-on-bitcoin-and-ethereum/)**
+
+TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
+
+TradingView • 1h ago
 
 ---
 
@@ -213,6 +197,22 @@ Seeking Alpha • 1d ago
 $6 billion just left BTC ETFs
 
 Coinbase • 1d ago
+
+---
+
+**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://www.fool.com/investing/2026/06/27/1-company-now-holds-nearly-5-of-all-ethereum-thats/)**
+
+BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Ethereum (ETH-USD) Risks Another Selloff Below Key Support](https://seekingalpha.com/article/4918073-ethereum-risks-another-selloff-below-key-support)**
+
+Ethereum (ETH-USD) is showing more resilience than Bitcoin. But it has decisively broken below the key support level of $1,650 and moved toward the psychological $1500 level. Read more here.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 113 • 💬 40 • ⏱️ 27:53 • 19h ago
+👁️ 2K • 👍 113 • 💬 40 • ⏱️ 27:53 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 100 • 👍 15 • 💬 175 • ⏱️ 5:07 • 4h ago
+👁️ 100 • 👍 15 • 💬 175 • ⏱️ 5:07 • 6h ago
 
 ---
 
@@ -262,7 +262,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 441 • 💬 84 • ⏱️ 19:47 • 1d ago
+👁️ 15K • 👍 441 • 💬 84 • ⏱️ 19:47 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 198 • 💬 12 • ⏱️ 9:04 • 23h ago
+👁️ 5K • 👍 198 • 💬 12 • ⏱️ 9:04 • 1d ago
 
 ---
 
@@ -332,7 +332,7 @@ BITCOIN FLIPPED: Everyone is WRONG (Price Target)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 9K • 👍 348 • 💬 115 • ⏱️ 19:11 • 21h ago
+👁️ 9K • 👍 348 • 💬 115 • ⏱️ 19:11 • 23h ago
 
 ---
 
