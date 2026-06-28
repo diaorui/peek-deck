@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T16:11:21.294796+00:00'
+updated: '2026-06-28T17:44:24.541596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 16:11 UTC  
+**Last Updated:** June 28, 2026 at 17:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-15h ago
+17h ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -50,19 +50,19 @@ Hello all, I am trying to recreate this mechanism as a personal project - and I 
 
 I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and there was no ROS 2 support for it, so I created one and put it on GitHub: 👉 https://github.com/rqtqp/ros2_borunte_0707A It's a ROS 2 (Humble) workspace that talks to the controller over its JSON-over-TCP interface (port 9760) — no vendor SDK needed. What works today: Telemetry — live joint state on /joint_states, plus controller status/health. MoveIt 2 motion — Plan + Execute in RViz actually moves the real arm (the bridge turns the planned trajectory into the controller's AddRCC motion command). Safety — dry-run by default, live precondition gate (mode/alarm/limits), soft limits, and a /stop abort service. Model (URDF + meshes) and a MoveIt config included, plus a documented mechanical-zero (groove/blade) home calibration. Sharing it in case it's useful to anyone working with these arms. If you have questions about this piece of equipment (the arm, the HC1 controller, or its remote-command protocol), feel free to ask 🙂
 
-23h ago
+1d ago
 
 ---
 
 **[3D Model Gallery for 3D ROV Exploring Game](https://www.reddit.com/r/robotics/comments/1uhchq7/3d_model_gallery_for_3d_rov_exploring_game/)**
 
-20h ago
+21h ago
 
 ---
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -78,7 +78,7 @@ Ever since the post from last time: https://www.reddit.com/r/robotics/comments/1
 
 Has anyone used one of these yet? They have been out a few months but I can't find much on YouTube or here about real world experience. I want to use one to pick individual bicycle spokes from a container and place into a V shaped trough. Spokes are 2mm diameter and about 300mm long. Any comments about the practicality of this? I'm most familiar with Python and assume I need a camera and AI / vision to pickup objects. The arm would need to trigger other equipment from a gpio. Does this mean the Jetson Nano option is the best option?
 
-21h ago
+23h ago
 
 ---
 
@@ -86,13 +86,13 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-12h ago
+14h ago
 
 ---
 
 **[Go2 repair help.](https://www.reddit.com/r/robotics/comments/1uhed0o/go2_repair_help/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -100,7 +100,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 13h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 15h ago
 
 ---
 
@@ -112,29 +112,15 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 5h ago
 
 ---
 
-**[Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners](https://finance.yahoo.com/technology/ai/articles/forget-betting-everything-tesla-robot-132947426.html)**
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
 
-Owning Tesla (NASDAQ:TSLA) for the robotics story is now the dominant retail thesis: bulls argue Optimus and the Cybercab are option value the market has not paid for, and that the auto business is almost a free call on humanoid robots. The case has logic. Tesla is installing first-generation Optimus production lines at Fremont and ... Forget Betting Everything on Tesla’s Robot. This Fund Already Owns the Robotics Winners
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Schools In US To Introduce AI-Powered Humanoid Robots As Teaching Partners](https://www.ndtv.com/world-news/schools-in-us-to-introduce-ai-powered-humanoid-robots-as-teaching-partners-11695879)**
-
-While school officials have described the initiative as a step toward the future of learning.
-
-NDTV • 1d ago
-
----
-
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
-
-San Francisco Chronicle • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -142,7 +128,15 @@ San Francisco Chronicle • 1d ago
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 5h ago
+Financial Times • 6h ago
+
+---
+
+**[Tokenization is becoming the financing layer for AI and robotics, Framework bets with $400 million fund](https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says)**
+
+Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -160,7 +154,7 @@ Yahoo Finance • 2d ago
 
 An experiment rolling out robots to keep the elderly company is showing surprising results.
 
-The Boston Globe • 13h ago
+The Boston Globe • 14h ago
 
 ---
 
@@ -172,19 +166,25 @@ Silicon Canals • 1d ago
 
 ---
 
-**[Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics](https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics)**
+**[Schools In US To Introduce AI-Powered Humanoid Robots As Teaching Partners](https://www.ndtv.com/world-news/schools-in-us-to-introduce-ai-powered-humanoid-robots-as-teaching-partners-11695879)**
 
-The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.
+While school officials have described the initiative as a step toward the future of learning.
 
-The Block • 2d ago
+NDTV • 1d ago
 
 ---
 
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+**[Korean Workers Vote to Go On Strike, Fearing Robots Could Replace Them](https://futurism.com/robots-and-machines/korean-workers-strike-robots-replace)**
 
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+Hyundia workers in South Korea voted to go on strike over fears that they could be replaced by humanoid robots.
 
-Business Insider • 2d ago
+Futurism • 1d ago
+
+---
+
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+
+OregonLive.com • 2d ago
 
 ---
 
@@ -198,17 +198,35 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 14K • 👍 2K • 💬 673 • ⏱️ 13:18 • 4h ago
+👁️ 33K • 👍 3K • 💬 1K • ⏱️ 13:18 • 5h ago
 
 ---
 
-**[HUMANOID ROBOT PREDICTS THE WORLD CUP](https://www.youtube.com/watch?v=iwDhFC8kcn4)**
+**[China&#39;s New Female Robot Just Hit The Market And It Is 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
-We sat down with Sophia the Robot to get her official FIFA World Cup predictions… and things did NOT go how we planned.
+China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
 
-📺 Habibi Squad
+📺 Prime Insights
 
-👁️ 18K • 👍 876 • 💬 204 • ⏱️ 19:16 • 1d ago
+👁️ 304K • 👍 9K • 💬 791 • ⏱️ 24:13 • 1d ago
+
+---
+
+**[Ideas recolección de objetos #legorobotics #first #legoleague #legorobotics #stem #shorts #robotics](https://www.youtube.com/watch?v=_IhQ6OL6les)**
+
+📺 Bloque a Bloque con Luz
+
+👁️ 590 • 👍 2 • ⏱️ 0:21 • 4h ago
+
+---
+
+**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+
+Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+
+📺 FOX 5 New York
+
+👁️ 6K • 👍 16 • 💬 7 • ⏱️ 2:07 • 4d ago
 
 ---
 
@@ -218,7 +236,27 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 496 • 💬 131 • ⏱️ 19:38 • 1d ago
+👁️ 13K • 👍 507 • 💬 134 • ⏱️ 19:38 • 1d ago
+
+---
+
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 75K • 👍 2K • 💬 253 • ⏱️ 13:45 • 6d ago
+
+---
+
+**[The world&#39;s first three-in-one EAI robotics education ecosystem from Faraday Future at Automate 2026](https://www.youtube.com/watch?v=cvLz0-SN6I8)**
+
+Automate2026 #Robotics #EmbodiedAI Learn more here: https://www.ff.com/?creator_id=Terrence Your AI Robots are available ...
+
+📺 DaPoets
+
+👁️ 361 • 👍 23 • 💬 9 • ⏱️ 1:49 • 2h ago
 
 ---
 
@@ -228,27 +266,7 @@ Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma
 
 📺 Google for Developers
 
-👁️ 13K • 👍 458 • 💬 22 • ⏱️ 2:53 • 1d ago
-
----
-
-**[Delivery Robot Goes Crazy #shorts #police](https://www.youtube.com/watch?v=JzfTCElAvyY)**
-
-Delivery Robot Goes Crazy.
-
-📺 Bodycam Hidden Files
-
-👁️ 19K • 👍 22 • 💬 5 • ⏱️ 0:12 • 1d ago
-
----
-
-**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
-
-This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
-
-📺 Talent Replay
-
-👁️ 32K • 👍 305 • 💬 15 • ⏱️ 39:57 • 1d ago
+👁️ 15K • 👍 488 • 💬 22 • ⏱️ 2:53 • 1d ago
 
 ---
 
@@ -258,35 +276,17 @@ The DEEP Robotics DR02 keeps getting smarter, faster, and more agile. Watch its 
 
 📺 DPCcars
 
-👁️ 5K • 👍 52 • 💬 11 • ⏱️ 1:46 • 1d ago
+👁️ 6K • 👍 60 • 💬 11 • ⏱️ 1:46 • 1d ago
 
 ---
 
-**[Scientists Create Tiny 5-in-1 Surgical Microbot](https://www.youtube.com/watch?v=0TushliM9Pk)**
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
 
-Researchers have developed a 4.4 mm long micro-robot capable of performing five distinct surgical tasks using external magnetic ...
+Your Smart Robot Companion.
 
-📺 Dr Ben Miles
+📺 Unitree Robotics
 
-👁️ 476K • 👍 34K • 💬 517 • ⏱️ 1:44 • 2d ago
-
----
-
-**[This CRAZY Robot Films Your Tennis 🤖🎾](https://www.youtube.com/watch?v=k8rA0kszvVQ)**
-
-📺 The Tennis Mentor
-
-👁️ 3K • 👍 119 • 💬 3 • ⏱️ 0:53 • 8h ago
-
----
-
-**[Unboxing Dancing BOT ROBOT &amp; Testing with asmr #toys #robot #remotecontrol](https://www.youtube.com/watch?v=uTrsAr2oPAY)**
-
-toys #unboxing #remotecontrol #robot.
-
-📺 PIHU TOYS
-
-👁️ 20K • 👍 153 • 💬 2 • ⏱️ 0:31 • 1d ago
+👁️ 2.4M • 👍 2K • 💬 537 • ⏱️ 0:31 • 4d ago
 
 ---
 
