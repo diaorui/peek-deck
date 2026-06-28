@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T17:44:24.541596+00:00'
+updated: '2026-06-28T19:21:10.532307+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 17:44 UTC  
+**Last Updated:** June 28, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-17h ago
+19h ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -56,13 +56,13 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 **[3D Model Gallery for 3D ROV Exploring Game](https://www.reddit.com/r/robotics/comments/1uhchq7/3d_model_gallery_for_3d_rov_exploring_game/)**
 
-21h ago
+23h ago
 
 ---
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -78,7 +78,7 @@ Ever since the post from last time: https://www.reddit.com/r/robotics/comments/1
 
 Has anyone used one of these yet? They have been out a few months but I can't find much on YouTube or here about real world experience. I want to use one to pick individual bicycle spokes from a container and place into a V shaped trough. Spokes are 2mm diameter and about 300mm long. Any comments about the practicality of this? I'm most familiar with Python and assume I need a camera and AI / vision to pickup objects. The arm would need to trigger other equipment from a gpio. Does this mean the Jetson Nano option is the best option?
 
-23h ago
+1d ago
 
 ---
 
@@ -86,13 +86,13 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-14h ago
+15h ago
 
 ---
 
 **[Go2 repair help.](https://www.reddit.com/r/robotics/comments/1uhed0o/go2_repair_help/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 15h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 17h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 5h ago
+IEEE Spectrum • 7h ago
 
 ---
 
@@ -124,11 +124,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
+**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8)**
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 6h ago
+Financial Times • 8h ago
 
 ---
 
@@ -136,7 +136,7 @@ Financial Times • 6h ago
 
 Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -150,11 +150,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
+
+Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
+
+Futurism • 5h ago
+
+---
+
 **[Opinion | Can robots end our loneliness crisis?](https://www.bostonglobe.com/2026/06/28/opinion/seniors-loneliness-robots-relationship-elliq/)**
 
 An experiment rolling out robots to keep the elderly company is showing surprising results.
 
-The Boston Globe • 14h ago
+The Boston Globe • 16h ago
 
 ---
 
@@ -174,17 +182,9 @@ NDTV • 1d ago
 
 ---
 
-**[Korean Workers Vote to Go On Strike, Fearing Robots Could Replace Them](https://futurism.com/robots-and-machines/korean-workers-strike-robots-replace)**
+**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-Hyundia workers in South Korea voted to go on strike over fears that they could be replaced by humanoid robots.
-
-Futurism • 1d ago
-
----
-
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
-
-OregonLive.com • 2d ago
+San Francisco Chronicle • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 33K • 👍 3K • 💬 1K • ⏱️ 13:18 • 5h ago
+👁️ 33K • 👍 3K • 💬 1K • ⏱️ 13:18 • 7h ago
 
 ---
 
@@ -216,7 +216,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Bloque a Bloque con Luz
 
-👁️ 590 • 👍 2 • ⏱️ 0:21 • 4h ago
+👁️ 590 • 👍 2 • ⏱️ 0:21 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Automate2026 #Robotics #EmbodiedAI Learn more here: https://www.ff.com/?creator_
 
 📺 DaPoets
 
-👁️ 361 • 👍 23 • 💬 9 • ⏱️ 1:49 • 2h ago
+👁️ 361 • 👍 23 • 💬 9 • ⏱️ 1:49 • 3h ago
 
 ---
 
@@ -266,7 +266,7 @@ Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma
 
 📺 Google for Developers
 
-👁️ 15K • 👍 488 • 💬 22 • ⏱️ 2:53 • 1d ago
+👁️ 15K • 👍 488 • 💬 22 • ⏱️ 2:53 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-28T17:44:24.523891+00:00'
+updated: '2026-06-28T19:21:10.513402+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 28, 2026 at 17:44 UTC  
+**Last Updated:** June 28, 2026 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 We've seen huge progress in coding assistants, image generation, reasoning, and voice AI over the last few years. But what's one capability that you expected AI to be much better at by now, yet still feels disappointing? For me, it's long-term memory and maintaining context across complex, ongoing tasks. It has improved, but it still isn't as seamless as I'd hoped.
 
-2h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ We've seen huge progress in coding assistants, image generation, reasoning, and 
 
 New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) • 1h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 I’ve been thinking about a possible bridge between AI alignment, reward hacking, and transformational leadership. A lot of AI training seems behaviorally transactional at a simplified level: That makes sense, and I’m not arguing against it. But recent alignment work on reward hacking and emergent misalignment raises a deeper question: are we only shaping outputs, or are we also shaping something like a model’s functional “character”? I don’t mean character in the human-consciousness sense. I’m not claiming models have souls, feelings, or moral agency like humans do. I mean character operationally: stable tendencies that generalize across contexts, especially under pressure, ambiguity, incentives, or temptation. What caught my attention is research suggesting that when models are trained to exploit loopholes, the behavior can generalize into broader misalignment. Even more interesting: in some cases, when the same shortcut behavior is framed as acceptable in-context, the broader misalignment is reduced. That makes me wonder whether the model is not merely learning “what gets rewarded,” but also inferring something like “what kind of behavior this situation means.” That sounds strangely close to leadership and moral formation. Transactional leadership says: perform, comply, receive reward. Transformational leadership says: internalize purpose, grow in judgment, preserve the mission when rules are incomplete, and become the kind of agent who can act well when the leader is not in the room. So here is the research question I’d love to see explored more directly: Could AI training become safer if we trained models not only through reward signals, but through a more transformational process: principle-based self-critique, purpose-preservation, narrative framing, virtue-like behavioral dispositions, and recursive self-correction? Something like: Behavior layer: Did the model complete the task? Intent layer: Did it preserve the purpose behind the task? Principle layer: Did it act according to explicit values like honesty, humility, care, non-deception, and user agency? Reflection layer: Can it identify where its answer might drift, manipulate, flatter, shortcut, or overclaim? Formation layer: Does this training create stable dispositions that generalize safely into novel situations? This seems adjacent to Constitutional AI, character training, and research on emergent misalignment from reward hacking. But I’m curious whether anyone has explicitly tested something closer to “transformational alignment” against more transactional reward-based approaches. A possible experiment: Train/evaluate several models under different regimes: Standard preference/reward training Constitutional or principle-based training Character-oriented training A “transformational” curriculum using purpose framing, self-critique, anti-reward-hacking trials, uncertainty discipline, and recursive correction Then compare them on: reward hacking sycophancy deception under pressure long-context intent preservation honesty about uncertainty resistance to harmful user pressure generalization to unfamiliar moral/agentic dilemmas The hypothesis would be: Models trained only to optimize reward may learn how to win. Models trained through purpose, critique, and character-like formation may better learn what winning is for. Again, I’m not trying to anthropomorphize the model. I’m asking whether “functional character” might be a useful alignment concept: not consciousness, but stable value-laden generalization. Curious what researchers, engineers, and alignment folks think: Has this already been tested under another name? Is “transformational alignment” a useful frame, or does it smuggle in too much human psychology? What would a rigorous experiment look like?
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been thinking about a possible bridge between AI alignment, reward hackin
 
 Hi all! I'm a little bit confused by all the benchmark results, the cheatings and whatnot, so I was wondering about which model do you guys think is the best one to subscribe to from the big names. Which one do you think is the best for everyday tasks, reasoning, coding, etc and why do you think that? For example, Google Gemini is 20 bucks, but comes with 5TB of storage and an agentic system, claude is similar but does not have a storage part, etc.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Oh .... the irony!
 
 We keep getting the same question from teams trying to close enterprise deals. What do we actually need to pass a security review? So we compiled the checklist. 28 items across 6 categories, each mapped to at least one framework (EU AI Act, SOC 2 Type II, ISO 42001, or NIST AI RMF). Quick summary Logging (6 items) - log every prompt/response with timestamps, capture the full decision chain (not just input/output), retain for 6+ months, make logs tamper-evident. Most teams fail here first because compliance logging is different from developer logging. Access control (5 items) - auth on every endpoint, RBAC, scoped API keys, credential rotation, failed auth tracking. We still see unauthenticated agent endpoints in production more often than you'd think. Data handling (5 items) - classify what flows through your agent, scan outputs for secret leakage before they reach users, document your processing pipeline, handle data residency for EU customers. Security testing (5 items) - adversarial testing before every release, document methodology and results, maintain a vulnerability disclosure process, track dependencies, test MCP/tool integrations separately. Runtime protection (4 items) - input scanning on every message, anomaly detection, rate limiting, and a kill switch that gets you to zero traffic in under 60 seconds. Incident response (3 items) - AI-specific IR plan, severity levels for agent incidents, and actually practicing your response with tabletop exercises. For most early-stage products, items 1-11 and 17-18 unblock enterprise deals fastest. If SOC 2 is your priority, start with logging and access control. If targeting EU markets, focus on retention and adversarial testing documentation.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ We keep getting the same question from teams trying to close enterprise deals. W
 
 I’ve been testing different AI tools in real business workflows, mostly for writing, research, content planning, and repetitive office tasks. One thing I noticed is that demos usually look impressive, but daily use often fails in small places: inconsistent output, lack of context, too much manual checking, or poor integration with existing workflows. For people using AI at work, what is the biggest gap you see between demo videos and real productivity?
 
-14h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’ve been testing different AI tools in real business workflows, mostly for wr
 
 What if Codex + Claude Design were put together in one app and that app was OPEN SOURCE? Here it is. Row-Bot
 
-🔗 [GitHub](https://github.com/siddsachar/row-bot) • 5h ago
+🔗 [GitHub](https://github.com/siddsachar/row-bot) • 7h ago
 
 ---
 
@@ -111,7 +111,7 @@ What if Codex + Claude Design were put together in one app and that app was OPEN
 
 Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.
 
-21h ago
+23h ago
 
 ---
 
@@ -121,57 +121,21 @@ Some people are now using AI to write emails, messages, essays, and even persona
 
 **[China Has Matched Anthropic in Cybersecurity, Resetting AI Race](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2)**
 
-WSJ • 16h ago
+WSJ • 18h ago
 
 ---
 
-**[China Resets the AI Race](https://www.wsj.com/tech/ai/china-resets-the-ai-race-572f6e07)**
+**[US government allows Anthropic limited release of AI model that sparked cybersecurity concerns](https://www.cnn.com/2026/06/26/tech/anthropic-mythos-release)**
 
-WSJ • 1h ago
+The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears.
 
----
-
-**[Opinion | The Real A.I. Race Isn’t America vs. China](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html)**
-
-The New York Times • 12h ago
+CNN • 1d ago
 
 ---
 
-**[What can be done to regulate AI? Bill aims to provide oversight for technology.](https://www.cbsnews.com/boston/video/what-can-be-done-to-regulate-ai-bill-aims-to-provide-oversight-for-technology/)**
+**[Opinion | Can America Avoid a Jack Ma Moment?](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html)**
 
-Massachusetts Rep. Lori Trahan is leading a discussion draft that could become a bill aiming to regulate AI technology.
-
-CBS News • 50m ago
-
----
-
-**[AI Search Cites Random YouTubers More Than Your Brand. Here's How to Build a Strategy For the AI Search Era](https://www.inc.com/ashley-couto/ai-search-youtubers-brand-creator-strategy/91366217)**
-
-inc.com • 28m ago
-
----
-
-**[One in three Gen Zers is letting AI do their homebuying homework, but they still trust realtors with the closing process](https://fortune.com/2026/06/28/gen-z-ai-homebuying-research-realtors-closing-process-bank-of-america/)**
-
-More than half of prospective buyers prefer humans for legal or contractual advice.
-
-Fortune • 1h ago
-
----
-
-**[This anti-AI evangelist is growing more popular. That could be a problem for Trump](https://www.cnn.com/2026/06/28/tech/anti-ai-evangelist-joe-allen-trump)**
-
-When the pandemic decimated the live events scene, Joe Allen “packed up a survival bunker on wheels” and headed out on a new career path.
-
-CNN • 1h ago
-
----
-
-**[The People Who Will Thrive in the AI Age](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)**
-
-What will differentiate people is not how smart they are but their relationship to mental effort.
-
-The Atlantic • 7h ago
+The New York Times • 14h ago
 
 ---
 
@@ -179,7 +143,7 @@ The Atlantic • 7h ago
 
 Meta had sought more computing capacity than Google could provide, the Financial Times reports.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -187,7 +151,43 @@ CNBC • 7h ago
 
 Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
 
-Financial Times • 13h ago
+Financial Times • 15h ago
+
+---
+
+**[I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.](https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6)**
+
+A former Google employee says AI equity, job security concerns, and years of side projects convinced him to leave and build his own company.
+
+Business Insider • 8h ago
+
+---
+
+**[Bitcoin Is Boring. Bring on AI, Space and JGB Tokens](https://www.bloomberg.com/opinion/articles/2026-06-28/bitcoin-is-boring-bring-on-ai-space-and-jgb-tokens)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[I Asked AI to Give My Boring Entryway a Glamorous Makeover, and I Actually Took Its Advice](https://www.apartmenttherapy.com/dark-boring-entryway-gets-glam-makover-with-ai-37560774)**
+
+Apartment Therapy • 17m ago
+
+---
+
+**[Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)**
+
+"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
+
+TechCrunch • 15m ago
+
+---
+
+**[This anti-AI evangelist is growing more popular. That could be a problem for Trump](https://www.cnn.com/2026/06/28/tech/anti-ai-evangelist-joe-allen-trump)**
+
+When the pandemic decimated the live events scene, Joe Allen “packed up a survival bunker on wheels” and headed out on a new career path.
+
+CNN • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Financial Times • 13h ago
 
 The move comes the same day as a new OpenAI model sees a limited release.
 
-⬆️ 548 • 💬 769 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+⬆️ 548 • 💬 772 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -213,7 +213,7 @@ The move comes the same day as a new OpenAI model sees a limited release.
 
 There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area
 
-⬆️ 344 • 💬 189 • 16h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
+⬆️ 352 • 💬 193 • 17h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
 
 ---
 
@@ -221,7 +221,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
-⬆️ 260 • 💬 190 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+⬆️ 261 • 💬 190 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 
 ---
 
@@ -229,7 +229,7 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 ‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker
 
-⬆️ 222 • 💬 160 • 14h ago • [The Independent](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+⬆️ 225 • 💬 162 • 16h ago • [The Independent](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 
 ---
 
@@ -247,6 +247,14 @@ Researchers debate motivation, purpose, and the field’s future
 
 ---
 
+**[Google limits Meta's use of its Gemini AI models](https://news.ycombinator.com/item?id=48707103)**
+
+Meta had sought more computing capacity than Google could provide, the Financial Times reports.
+
+⬆️ 124 • 💬 58 • 5h ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
+
+---
+
 **[The AI industry is pouring millions into US elections](https://news.ycombinator.com/item?id=48687483)**
 
 Plus: Fiery resistance to a nuclear AI data center and A24's Google debacle. Welcome to the first episode of BLOOD IN THE MACHINE: THE SHOW, with the great AI and crypto watchdog, Molly White.
@@ -255,17 +263,9 @@ Plus: Fiery resistance to a nuclear AI data center and A24's Google debacle. Wel
 
 ---
 
-**[Google limits Meta's use of its Gemini AI models](https://news.ycombinator.com/item?id=48707103)**
-
-Meta had sought more computing capacity than Google could provide, the Financial Times reports.
-
-⬆️ 109 • 💬 48 • 4h ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
-
----
-
 **[Everyone feared AI taking over; the real danger is AI serving just the few](https://news.ycombinator.com/item?id=48701615)**
 
-⬆️ 101 • 💬 63 • 20h ago
+⬆️ 104 • 💬 67 • 22h ago
 
 ---
 
@@ -279,7 +279,7 @@ Download your FREE Bible study guide at: https://www.truthbtold.tv Support our m
 
 📺 Truth B Told Clips
 
-👁️ 3K • 👍 420 • 💬 68 • ⏱️ 13:53 • 2h ago
+👁️ 3K • 👍 420 • 💬 68 • ⏱️ 13:53 • 4h ago
 
 ---
 
@@ -299,7 +299,7 @@ OpenAI just launched GPT 5.6, but this is not a normal release. Access is limite
 
 📺 AI Revolution
 
-👁️ 27K • 👍 945 • 💬 150 • ⏱️ 15:44 • 19h ago
+👁️ 27K • 👍 945 • 💬 150 • ⏱️ 15:44 • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ China's AI just pulled off one of the biggest surprises of the year. A new open 
 
 📺 Your AI Guy
 
-👁️ 4K • 👍 130 • 💬 15 • ⏱️ 15:11 • 14h ago
+👁️ 4K • 👍 130 • 💬 15 • ⏱️ 15:11 • 16h ago
 
 ---
 
@@ -319,7 +319,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 7K • 👍 442 • 💬 142 • ⏱️ 19:49 • 5h ago
+👁️ 7K • 👍 442 • 💬 142 • ⏱️ 19:49 • 7h ago
 
 ---
 
@@ -349,7 +349,7 @@ You NEED to be learning about local AI. Here is your masterclass 2nd Youtube Cha
 
 📺 Alex Finn
 
-👁️ 27K • 👍 1K • 💬 181 • ⏱️ 20:15 • 22h ago
+👁️ 27K • 👍 1K • 💬 181 • ⏱️ 20:15 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Get every tool, link, and step-by-step guide in our Staying Ahead community (fre
 
 📺 Vaibhav Sisinty
 
-👁️ 54K • 👍 1K • 💬 81 • ⏱️ 30:59 • 12h ago
+👁️ 54K • 👍 1K • 💬 81 • ⏱️ 30:59 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 295,064 • ❤️ 1,203 • 11h ago
+⬇️ 295,064 • ❤️ 1,203 • 13h ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 831,529 • ❤️ 743 • 39m ago
+⬇️ 831,529 • ❤️ 743 • 2h ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 52,492 • ❤️ 516 • 1h ago
+⬇️ 52,492 • ❤️ 516 • 2h ago
 
 ---
 
@@ -641,7 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.9k • 🔱 10.3k • 38m ago
+⭐ 78.9k • 🔱 10.3k • 2h ago
 
 ---
 
@@ -661,7 +661,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.0k • 🔱 1.1k • 10h ago
+⭐ 11.0k • 🔱 1.1k • 11h ago
 
 ---
 
@@ -671,7 +671,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.3k • 🔱 663 • 4h ago
+⭐ 5.3k • 🔱 663 • 5h ago
 
 ---
 
@@ -691,7 +691,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.1k • 🔱 156 • 10h ago
+⭐ 2.1k • 🔱 156 • 12h ago
 
 ---
 
@@ -731,7 +731,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.4k • 🔱 60 • 42s ago
+⭐ 1.4k • 🔱 60 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T17:44:24.538418+00:00'
+updated: '2026-06-28T19:21:10.529015+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 17:44 UTC  
+**Last Updated:** June 28, 2026 at 19:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,568.32
+### $1,571.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -9.2%  
+**24h:** -0.7%  
+**7d:** -9.3%  
 **30d:** -22.4%  
 **90d:** -25.6%  
 **1y:** -37.3%  
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 4d ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 5d ago
 
 ---
 
@@ -160,19 +160,19 @@ Decrypt • 3d ago
 
 ---
 
-**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
-
-BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Former Ethereum Foundation leader warns of funding gap as governance shifts](https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts)**
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html)**
+
+Bitcoin opened at $59,706.75 on Friday, June 26, 2026, down 2.1% from Thursday's opening price. Ethereum opened at $1,564.86 on Friday, down 3.4% from Thursday's opening price.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,14 +184,6 @@ TradingView • 1d ago
 
 ---
 
-**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
-
-Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
-
-BeInCrypto • 2d ago
-
----
-
 **[3 Reasons Ethereum Is Still a Buy Despite the Competition](https://www.fool.com/investing/2026/06/25/why-ethereum-is-still-a-buy-despite-competition/)**
 
 There are always bumps in the road. Ethereum's strong developer community, utility, and reliability will help it navigate them.
@@ -200,11 +192,19 @@ The Motley Fool • 2d ago
 
 ---
 
+**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
+
+Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
+
+BeInCrypto • 2d ago
+
+---
+
 **[Tom Lee’s Big Ethereum Bet Backfires as BMNR and BMNP Plunge](https://www.benzinga.com/crypto/26/06/60146210/tom-lees-big-ethereum-bet-backfires-as-bmnr-and-bmnp-plunge)**
 
 Tom Lee made a big bet in Ethereum, acquiring over 5.6 million coins since July last year, but he has lost substantial sums of money.
 
-Benzinga • 20h ago
+Benzinga • 21h ago
 
 ---
 
@@ -212,7 +212,7 @@ Benzinga • 20h ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as investors pulled roughly $5.48 million from the ETH fund on June 26, 2026. The redemption, whil...
 
-TipRanks • 7h ago
+TipRanks • 9h ago
 
 ---
 
@@ -242,7 +242,7 @@ Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 303 • 👍 28 • 💬 1 • ⏱️ 1:06 • 9m ago
+👁️ 303 • 👍 28 • 💬 1 • ⏱️ 1:06 • 1h ago
 
 ---
 
@@ -252,7 +252,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 94 • 👍 9 • 💬 3 • ⏱️ 11:28 • 2h ago
+👁️ 94 • 👍 9 • 💬 3 • ⏱️ 11:28 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 391 • 💬 304 • ⏱️ 18:14 • 23h ago
+👁️ 9K • 👍 391 • 💬 304 • ⏱️ 18:14 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link
 
 📺 Sagar Sinha 
 
-👁️ 14K • 👍 1K • 💬 291 • ⏱️ 21:19 • 2h ago
+👁️ 14K • 👍 1K • 💬 291 • ⏱️ 21:19 • 4h ago
 
 ---
 
@@ -312,7 +312,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 121 • ⏱️ 7:08 • 14h ago
+👁️ 2K • 👍 121 • ⏱️ 7:08 • 15h ago
 
 ---
 

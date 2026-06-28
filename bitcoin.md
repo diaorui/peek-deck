@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-28T17:44:24.532402+00:00'
+updated: '2026-06-28T19:21:10.522782+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 17:44 UTC  
+**Last Updated:** June 28, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,500.00
+### $59,659.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -7.0%  
-**30d:** -19.4%  
-**90d:** -12.8%  
-**1y:** -45.0%  
+**24h:** -1.3%  
+**7d:** -7.1%  
+**30d:** -19.5%  
+**90d:** -12.9%  
+**1y:** -45.1%  
 
 ---
 
@@ -81,13 +81,27 @@ Rank #1
 
 Until a few days ago, there were 26 reachable Bitcoin nodes in Caracas, Venezuela. After the earthquake, only one remained :( . Source: BitRef.
 
-7h ago
+8h ago
+
+---
+
+**[True or false?!](https://www.reddit.com/r/Bitcoin/comments/1ui1bjm/true_or_false/)**
+
+3h ago
 
 ---
 
 **[Time flies](https://www.reddit.com/r/Bitcoin/comments/1uh8smq/time_flies/)**
 
 1d ago
+
+---
+
+**[Over 60 Forgotten Satoshi Nakamoto Emails Discovered with Nicholas Bohm, A Unsung Bitcoin Hero - The Satoshi Times](https://www.reddit.com/r/Bitcoin/comments/1ui1whq/over_60_forgotten_satoshi_nakamoto_emails/)**
+
+The Satoshi Times explores Nicholas Bohm’s forgotten emails with Satoshi Nakamoto, early Bitcoin debugging, and Bohm’s role in Bitcoin history.
+
+🔗 [satoshitimes.com](https://satoshitimes.com/bohm/) • 2h ago
 
 ---
 
@@ -99,33 +113,17 @@ I think the crazy part about Bitcoin is that we’re probably 20–30 years ahea
 
 ---
 
-**[In a perfect world, what would be the next catalyst in the next 6 months?](https://www.reddit.com/r/Bitcoin/comments/1uhv8b9/in_a_perfect_world_what_would_be_the_next/)**
+**[Deep Dive: The Unified Harmonic Time Model – Mapping Bitcoin’s Macro Cycles and Post-ETF Ranges Through Pure Time Geometry (2012–2030)](https://www.reddit.com/r/Bitcoin/comments/1uhxloq/deep_dive_the_unified_harmonic_time_model_mapping/)**
 
-What event would turn the market from bearish to bullish before the end of the year. What world event, technology, natural disaster, etc?
+Hi everyone, I wanted to present a detailed breakdown of a cyclical framework I’ve been researching: The Unified Harmonic Time Model. Instead of relying on lagging indicators, sentiment, or traditional moving averages, this model approaches Bitcoin's price discovery through the lens of absolute day-counts and linear arithmetic time geometry. By analyzing the structural boundaries of the past three cycles, we can observe a strict mathematical rhythm that has persisted despite major macro shifts, including the recent post-ETF institutional era. Here is how the framework breaks down the past, present, and future of Bitcoin’s macroeconomic timeline. 1. Methodology: The Harmony of Time and Halvings The core thesis is that Bitcoin’s programmatic scarcity doesn’t just affect supply; it dictates a geometric timeline. The model measures the market into two distinct, alternating macro phases: Macro Expansion Phases (Bull Markets): Green intervals driven by post-halving supply shocks and expansionary liquidity cycles. Macro Retraction Phases (Bear Markets): Red intervals representing structural corrections, capitulation, and time-exhaustion. Rather than viewing cycles as random, the model highlights that the duration (in days) of both expansions and retractions follows a bounded, mathematical progression. 2. Historical Baseline: Deconstructing Cycles 1 to 3 If we look at the historical day-counts, the rhythm becomes clear: Cycle 1: Saw an initial expansion of 366 days leading to Peak 1 ($1,163), followed by a retraction phase of 411 days to Trough 1 ($152). Cycle 2: Expanded for 542 days after Halving 2, peaking at $19,666 (Peak 2), followed by a 363-day structural bear market hitting bottom at $3,122. Cycle 3: Showed a 526-day expansion into the $69,000 peak (Peak 3), followed by a 376-day correction down to the macro floor of $15,476 (Trough 3). Notice the tight clustering of bear markets: 411, 363, and 376 days. The market requires a highly specific amount of time to exhaust sellers and reset the macro architecture. 3. The Current Reality: Cycle 4 and the Post-ETF Era Following Halving 4 in April 2024, the market entered a massive 544-day expansion phase, culminating in Peak 4 (Actual) at $126,000 in October 2025. Right now, the market is undergoing a textbook Macro Retraction Phase. The Projected Bottom: Historically, these retractions average around one year. The model targets a Theoretical Trough around October 2026 (±45 days). The Floor Range: Based on the arithmetic scale of previous cycle retracements, the structural support range sits firmly between $35,000 and $45,000. While this target might seem low to short-term sentiment, it aligns perfectly with historical multi-cycle geometry. 4. Looking Ahead: Cycle 5 and the 2030 Horizon If the linear sequence holds true post-2026, the model projects a clear path for the next epoch: Halving 5: Estimated around April 2028. Cycle 5 Expansion: A projected 550-day upward matrix. Theoretical Peak: Target window centers around October 2029 (±45 days), with a mathematical Target Peak Range of $120,000 to $180,000. Conclusion & Community Debate The model suggests that despite massive institutional inflows and changing order book dynamics, the absolute mathematical pulse of the halving cycles remains undefeated. The duration of market cycles appears to be structurally hardcoded into investor psychology and time-bound liquidity flows. Questions for discussion: Do you think institutional capital (like ETFs and corporate reserves) will fundamentally extend or break these historical day-counts in the future, or will the programmatic 4-year halving rhythm always force the market into this geometric schedule? Is a $35k–$45k macro bottom for Cycle 4 realistic under current macroeconomic conditions, or has the institutional floor shifted higher? Would love to hear your technical perspectives and critiques on this time-based framework. Full paper for reference: https://github.com/RomeroQuant/bitcoin-harmonic-time-model/blob/main/Bitcoin_Harmonic_Time_Model_Paper.pdf https://preview.redd.it/54zeoubo11ah1.png?width=1924&format=png&auto=webp&s=d919a730d05979d34abda3c63d4320fb84f3cc03 https://preview.redd.it/7svq5mxx11ah1.png?width=1100&format=png&auto=webp&s=dbe6e23efbfcbe3c00dd2b89fbcf808c5b6da684 https://preview.redd.it/gy78gov021ah1.png?width=1000&format=png&auto=webp&s=e5fb061343c1b6ab66996e7dde60f730d412d0e5
 
 5h ago
 
 ---
 
-**[Deep Dive: The Unified Harmonic Time Model – Mapping Bitcoin’s Macro Cycles and Post-ETF Ranges Through Pure Time Geometry (2012–2030)](https://www.reddit.com/r/Bitcoin/comments/1uhxloq/deep_dive_the_unified_harmonic_time_model_mapping/)**
-
-Hi everyone, I wanted to present a detailed breakdown of a cyclical framework I’ve been researching: The Unified Harmonic Time Model. Instead of relying on lagging indicators, sentiment, or traditional moving averages, this model approaches Bitcoin's price discovery through the lens of absolute day-counts and linear arithmetic time geometry. By analyzing the structural boundaries of the past three cycles, we can observe a strict mathematical rhythm that has persisted despite major macro shifts, including the recent post-ETF institutional era. Here is how the framework breaks down the past, present, and future of Bitcoin’s macroeconomic timeline. 1. Methodology: The Harmony of Time and Halvings The core thesis is that Bitcoin’s programmatic scarcity doesn’t just affect supply; it dictates a geometric timeline. The model measures the market into two distinct, alternating macro phases: Macro Expansion Phases (Bull Markets): Green intervals driven by post-halving supply shocks and expansionary liquidity cycles. Macro Retraction Phases (Bear Markets): Red intervals representing structural corrections, capitulation, and time-exhaustion. Rather than viewing cycles as random, the model highlights that the duration (in days) of both expansions and retractions follows a bounded, mathematical progression. 2. Historical Baseline: Deconstructing Cycles 1 to 3 If we look at the historical day-counts, the rhythm becomes clear: Cycle 1: Saw an initial expansion of 366 days leading to Peak 1 ($1,163), followed by a retraction phase of 411 days to Trough 1 ($152). Cycle 2: Expanded for 542 days after Halving 2, peaking at $19,666 (Peak 2), followed by a 363-day structural bear market hitting bottom at $3,122. Cycle 3: Showed a 526-day expansion into the $69,000 peak (Peak 3), followed by a 376-day correction down to the macro floor of $15,476 (Trough 3). Notice the tight clustering of bear markets: 411, 363, and 376 days. The market requires a highly specific amount of time to exhaust sellers and reset the macro architecture. 3. The Current Reality: Cycle 4 and the Post-ETF Era Following Halving 4 in April 2024, the market entered a massive 544-day expansion phase, culminating in Peak 4 (Actual) at $126,000 in October 2025. Right now, the market is undergoing a textbook Macro Retraction Phase. The Projected Bottom: Historically, these retractions average around one year. The model targets a Theoretical Trough around October 2026 (±45 days). The Floor Range: Based on the arithmetic scale of previous cycle retracements, the structural support range sits firmly between $35,000 and $45,000. While this target might seem low to short-term sentiment, it aligns perfectly with historical multi-cycle geometry. 4. Looking Ahead: Cycle 5 and the 2030 Horizon If the linear sequence holds true post-2026, the model projects a clear path for the next epoch: Halving 5: Estimated around April 2028. Cycle 5 Expansion: A projected 550-day upward matrix. Theoretical Peak: Target window centers around October 2029 (±45 days), with a mathematical Target Peak Range of $120,000 to $180,000. Conclusion & Community Debate The model suggests that despite massive institutional inflows and changing order book dynamics, the absolute mathematical pulse of the halving cycles remains undefeated. The duration of market cycles appears to be structurally hardcoded into investor psychology and time-bound liquidity flows. Questions for discussion: Do you think institutional capital (like ETFs and corporate reserves) will fundamentally extend or break these historical day-counts in the future, or will the programmatic 4-year halving rhythm always force the market into this geometric schedule? Is a $35k–$45k macro bottom for Cycle 4 realistic under current macroeconomic conditions, or has the institutional floor shifted higher? Would love to hear your technical perspectives and critiques on this time-based framework. Full paper for reference: https://github.com/RomeroQuant/bitcoin-harmonic-time-model/blob/main/Bitcoin_Harmonic_Time_Model_Paper.pdf https://preview.redd.it/54zeoubo11ah1.png?width=1924&format=png&auto=webp&s=d919a730d05979d34abda3c63d4320fb84f3cc03 https://preview.redd.it/7svq5mxx11ah1.png?width=1100&format=png&auto=webp&s=dbe6e23efbfcbe3c00dd2b89fbcf808c5b6da684 https://preview.redd.it/gy78gov021ah1.png?width=1000&format=png&auto=webp&s=e5fb061343c1b6ab66996e7dde60f730d412d0e5
-
-4h ago
-
----
-
 **[Calculating how many sats I can buy and still keep some money for ramen before another paycheck](https://www.reddit.com/r/Bitcoin/comments/1uhex3t/calculating_how_many_sats_i_can_buy_and_still/)**
 
-19h ago
-
----
-
-**[bought more](https://www.reddit.com/r/Bitcoin/comments/1uhqoyu/bought_more/)**
-
-that's it, that's the post
-
-10h ago
+21h ago
 
 ---
 
@@ -133,7 +131,15 @@ that's it, that's the post
 
 Been seeing a lot of talk online about this
 
-2h ago
+4h ago
+
+---
+
+**[bought more](https://www.reddit.com/r/Bitcoin/comments/1uhqoyu/bought_more/)**
+
+that's it, that's the post
+
+11h ago
 
 ---
 
@@ -141,15 +147,7 @@ Been seeing a lot of talk online about this
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
-
----
-
-**[Sell now or wait a month?](https://www.reddit.com/r/Bitcoin/comments/1uhahfu/sell_now_or_wait_a_month/)**
-
-Hi all, my spouse and I just put an offer on our first home. I’m currently holding about 1 bitcoin, and have been saving it for our down payment. Of course, at one time I was hoping it would make a more sizable dent in the payment, but I am aware and comfortable with the swings in the market. My question to you all is should I begin selling off now at around 60k, or should I wait a few more weeks while we iron out the offer and hope the price goes up? I know no one can know for sure, but I would love to hear some opinions. Much appreciated
-
-23h ago
+13h ago
 
 ---
 
@@ -161,7 +159,7 @@ Hi all, my spouse and I just put an offer on our first home. I’m currently hol
 
 The bitcoin advocate said his crypto bottom claim is based on the fact that the traditional four-year halving cycle has changed, although several analysts continue to expect further downside.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -177,7 +175,7 @@ CNBC • 2d ago
 
 Jeremy Grantham says Bitcoin is 'proof of unnecessary work' and predicts crypto will dwindle over decades.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -189,9 +187,9 @@ Forbes • 1d ago
 
 ---
 
-**[Nancy Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
+**[Bitcoin Is Boring. Bring on AI, Space and JGB Tokens](https://www.bloomberg.com/opinion/articles/2026-06-28/bitcoin-is-boring-bring-on-ai-space-and-jgb-tokens)**
 
-NewsNation • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -199,41 +197,37 @@ NewsNation • 4h ago
 
 Bitcoin (CRYPTO:BTC) transformed from a niche digital asset into a mainstream investment over the past decade, and few people did more to accelerate that shift than Michael Saylor. By turning Strategy (NASDAQ:MSTR) (formerly MicroStrategy) into what he called a “bitcoin treasury company,” he created a blueprint that dozens of others rushed to copy. During bitcoin’s ... Michael Saylor’s Bitcoin Treasury Strategy Has Finally Hit Its Breaking Point
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
+**[Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall](https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall)**
 
-The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
+The crypto bull shrugged off market skepticism by sharing a chart of the company's $50 billion stash and teasing that they are going to need more data points.
 
-The Motley Fool • 17h ago
-
----
-
-**[BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down](https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down)**
-
-Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.
-
-CoinDesk • 23h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more](https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html)**
+**[Bitcoin’s Biggest Corporate Buyer Reels as Funding Edge Vanishes](https://www.bloomberg.com/news/articles/2026-06-26/bitcoin-s-biggest-corporate-buyer-reels-as-funding-edge-vanishes)**
 
-Scott Melker reviews the week crypto just had, including bitcoin (BTC-USD) prices plummeting, Bitmine (BMNR) joining the Russell 1000 (^RUI), and more.
+Michael Saylor’s great crypto experiment is fast running out of believers.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin falls below $60,000 as ETF outflows, Fed outlook weigh on sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-etf-outflows-fed-outlook-weigh-on-sentiment-4764074)**
+**[Nancy Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
 
-Investing.com • 2h ago
+NewsNation • 6h ago
+
+---
+
+**[Bitcoin Has Had a Terrible 2026. What Can Make the Second Half of the Year Better?](https://www.investopedia.com/what-to-expect-from-bitcoin-crypto-in-the-second-half-2026-11990861)**
+
+The price of the world's largest cryptocurrency has been in slow decline through the first half of 2026,
+
+Investopedia • 6h ago
 
 ---
 
@@ -286,7 +280,7 @@ Eastern Washington had cheap power and tons of space. Then the suitcases of cash
 What everyone knows about Bitcoin's Launch is wrong.
 (full research 1st comment) https://t.co/44OTcmakQ4
 
-⬆️ 2 • 💬 1 • 3d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2069786136998785412)
+⬆️ 2 • 💬 1 • 4d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2069786136998785412)
 
 ---
 
@@ -330,7 +324,7 @@ Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: http
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 196 • ⏱️ 10:53 • 18h ago
+👁️ 31K • 👍 2K • 💬 196 • ⏱️ 10:53 • 20h ago
 
 ---
 
@@ -340,7 +334,7 @@ Get Your Xapo Account Now ($500 FREE BITCOIN) https://cryptolark.co/XAPO Three f
 
 📺 Lark Davis
 
-👁️ 9K • 👍 483 • 💬 38 • ⏱️ 12:08 • 5h ago
+👁️ 9K • 👍 483 • 💬 38 • ⏱️ 12:08 • 7h ago
 
 ---
 
@@ -350,7 +344,7 @@ Welcome back! In this video, I'm sharing why bitcoin is hovering around $60K & p
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 347 • 💬 152 • ⏱️ 8:33 • 15h ago
+👁️ 6K • 👍 347 • 💬 152 • ⏱️ 8:33 • 17h ago
 
 ---
 
@@ -370,7 +364,7 @@ Well, this is going to shock the living daylights out of a lot of people in the 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 727 • 💬 181 • ⏱️ 16:09 • 7h ago
+👁️ 5K • 👍 727 • 💬 181 • ⏱️ 16:09 • 8h ago
 
 ---
 
@@ -380,7 +374,7 @@ Bitcoin just broke down again — falling below $60k to levels we haven't seen i
 
 📺 Eurodollar University
 
-👁️ 33K • 👍 1K • 💬 140 • ⏱️ 22:54 • 19h ago
+👁️ 33K • 👍 1K • 💬 140 • ⏱️ 22:54 • 20h ago
 
 ---
 
@@ -400,7 +394,7 @@ A major crypto market rally is on its way, and Sheldon wants his community to be
 
 📺 Crypto Banter
 
-👁️ 3K • 👍 342 • 💬 22 • ⏱️ 12:29 • 3h ago
+👁️ 3K • 👍 342 • 💬 22 • ⏱️ 12:29 • 5h ago
 
 ---
 
@@ -410,7 +404,7 @@ Is Michael Saylor an institutional savior — or a narcissist front-running the 
 
 📺 Crypto Insider
 
-👁️ 340 • 👍 14 • ⏱️ 1:09 • 2h ago
+👁️ 340 • 👍 14 • ⏱️ 1:09 • 4h ago
 
 ---
 
