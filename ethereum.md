@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T20:41:41.326037+00:00'
+updated: '2026-06-28T22:02:44.981487+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 20:41 UTC  
+**Last Updated:** June 28, 2026 at 22:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.1%  
-**7d:** -8.9%  
+**7d:** -9.0%  
 **30d:** -22.2%  
-**90d:** -25.3%  
+**90d:** -25.4%  
 **1y:** -37.1%  
 
 ---
@@ -152,6 +152,22 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
+
+Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
+
+Decrypt • 3d ago
+
+---
+
+**[XRP vs Ethereum: Which Is the Better Dip to Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/xrp-vs-ethereum-better-dip-202110280.html)**
+
+The crypto market has slipped again over the past month, and two of the most-watched coins have fallen with it. XRP (CRYPTO:XRP) is down about 20%, and Ethereum (CRYPTO:ETH) has dropped by roughly the same. So, if you’ve got cash waiting for a pullback, both are on sale right now. But the coins being cheaper ... XRP vs Ethereum: Which Is the Better Dip to Buy Right Now?
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Former Ethereum Foundation leader warns of funding gap as governance shifts](https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts)**
 
 A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.
@@ -160,11 +176,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
+**[Whale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum](https://www.tradingview.com/news/newsbtc:bef72199b094b:0-whale-activity-shows-high-leverage-short-positions-re-opened-on-bitcoin-and-ethereum/)**
 
-BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
+TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-Yahoo Finance • 1d ago
+TradingView • 1d ago
+
+---
+
+**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
+
+Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
+
+BeInCrypto • 2d ago
 
 ---
 
@@ -176,19 +200,27 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Tom Lee’s Big Ethereum Bet Backfires as BMNR and BMNP Plunge](https://www.benzinga.com/crypto/26/06/60146210/tom-lees-big-ethereum-bet-backfires-as-bmnr-and-bmnp-plunge)**
-
-Tom Lee made a big bet in Ethereum, acquiring over 5.6 million coins since July last year, but he has lost substantial sums of money.
-
-Benzinga • 23h ago
-
----
-
 **[Ethereum ETF Sees Investor Chill as Outflows Hit Nearly $63 Million](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investor-chill-as-outflows-hit-nearly-63-million)**
 
 Ethereum ETF Sees Investor Chill as Outflows Hit Nearly $63 Million The iShares Ethereum Trust ETF, ETHA, recorded a sharp daily outflow of $62.99 million on June 2...
 
-TipRanks • 9h ago
+TipRanks • 10h ago
+
+---
+
+**[Ethereum Price Slips 4% As Investors Liquidate Positions](https://dmarketforces.com/ethereum-price-slips-4-as-investors-liquidate-positions/)**
+
+Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
+
+MarketForces Africa • 3d ago
+
+---
+
+**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
+
+BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -197,38 +229,6 @@ TipRanks • 9h ago
 Bitcoin opened at $59,706.75 on Friday, June 26, 2026, down 2.1% from Thursday's opening price. Ethereum opened at $1,564.86 on Friday, down 3.4% from Thursday's opening price.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Sharplink Resumes Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html)**
-
-For the first time in eight months, crypto treasury firm Sharplink (NASDAQ: $SBET) has bought Ethereum (CRYPTO: $ET...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slump As Fed's Favourite Inflation Barometer Hits 3-Year High: Analyst Weighs If July Will Bring Relief To BTC Investors](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slump-021556998.html)**
-
-The cryptocurrency market meltdown continued on Thursday as fears of rising inflation and potential rate hikes weighed on investor sentiment Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:35 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.45%$59,273.96Ethereum (CRYPTO: ETH) -3.68%$1,558.39XRP (CRYPTO: XRP) -4.04%$1.02Solana (CRYPTO: SOL) -0.71%$67.16Dogecoin (CRYPTO: DOGE) -3.11%$0.07384 Crypto Market Turns Bloody Red Bitcoin’s descent showed no signs of slowing down, as the apex cryptocurrency fell below
-
-Yahoo Finance • 2d ago
-
----
-
-**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://finance.yahoo.com/markets/crypto/articles/traders-predict-more-pain-bitcoin-162403797.html)**
-
-Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Ethereum treasury firm Sharplink takes in ether for the first time in eight months](https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months)**
-
-The second-largest corporate ether holder received 5,000 ETH worth about $7.85 million on Thursday, its first inflow since October, even as it sits on a paper loss of roughly $1.8 billion.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 2K • 👍 159 • 💬 4 • ⏱️ 1:06 • 3h ago
+👁️ 2K • 👍 159 • 💬 4 • ⏱️ 1:06 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 164 • 👍 11 • 💬 24 • ⏱️ 11:28 • 5h ago
+👁️ 164 • 👍 11 • 💬 24 • ⏱️ 11:28 • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 136 • 💬 45 • ⏱️ 27:53 • 1d ago
+👁️ 3K • 👍 136 • 💬 45 • ⏱️ 27:53 • 2d ago
 
 ---
 
@@ -302,7 +302,7 @@ CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link
 
 📺 Sagar Sinha 
 
-👁️ 32K • 👍 2K • 💬 363 • ⏱️ 21:19 • 5h ago
+👁️ 32K • 👍 2K • 💬 363 • ⏱️ 21:19 • 7h ago
 
 ---
 
@@ -322,7 +322,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 127 • ⏱️ 7:08 • 17h ago
+👁️ 2K • 👍 127 • ⏱️ 7:08 • 18h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T20:41:41.329217+00:00'
+updated: '2026-06-28T22:02:44.984698+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 20:41 UTC  
+**Last Updated:** June 28, 2026 at 22:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-20h ago
+21h ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -62,7 +62,7 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -86,13 +86,13 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-17h ago
+18h ago
 
 ---
 
 **[Go2 repair help.](https://www.reddit.com/r/robotics/comments/1uhed0o/go2_repair_help/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 18h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 19h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 8h ago
+IEEE Spectrum • 9h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 2d ago
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 9h ago
+Financial Times • 11h ago
 
 ---
 
@@ -136,7 +136,15 @@ Financial Times • 9h ago
 
 Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
+
+---
+
+**[SA Asks: What's the most attractive robotics stock right now? (TER:NASDAQ)](https://seekingalpha.com/news/4607906-sa-asks-whats-the-most-attractive-robotics-stock-right-now)**
+
+What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -150,19 +158,19 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Opinion | Can robots end our loneliness crisis?](https://www.bostonglobe.com/2026/06/28/opinion/seniors-loneliness-robots-relationship-elliq/)**
-
-An experiment rolling out robots to keep the elderly company is showing surprising results.
-
-The Boston Globe • 17h ago
-
----
-
 **[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
 
 Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
 
-Futurism • 6h ago
+Futurism • 8h ago
+
+---
+
+**[Opinion | Can robots end our loneliness crisis?](https://www.bostonglobe.com/2026/06/28/opinion/seniors-loneliness-robots-relationship-elliq/)**
+
+An experiment rolling out robots to keep the elderly company is showing surprising results.
+
+The Boston Globe • 19h ago
 
 ---
 
@@ -180,12 +188,6 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
-
-San Francisco Chronicle • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +198,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 46K • 👍 3K • 💬 1K • ⏱️ 13:18 • 8h ago
+👁️ 46K • 👍 3K • 💬 1K • ⏱️ 13:18 • 10h ago
 
 ---
 
@@ -206,7 +208,7 @@ China's Terminator has entered the US. The San Francisco startup REK, short for 
 
 📺 Kalil 4.0
 
-👁️ 668 • 👍 36 • 💬 3 • ⏱️ 1:01 • 2h ago
+👁️ 668 • 👍 36 • 💬 3 • ⏱️ 1:01 • 3h ago
 
 ---
 
@@ -234,7 +236,7 @@ FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facili
 
 📺 Bloque a Bloque con Luz
 
-👁️ 825 • 👍 2 • ⏱️ 0:21 • 7h ago
+👁️ 825 • 👍 2 • ⏱️ 0:21 • 8h ago
 
 ---
 
@@ -274,7 +276,7 @@ Automate2026 #Robotics #EmbodiedAI Learn more here: https://www.ff.com/?creator_
 
 📺 DaPoets
 
-👁️ 562 • 👍 47 • 💬 13 • ⏱️ 1:49 • 5h ago
+👁️ 562 • 👍 47 • 💬 13 • ⏱️ 1:49 • 6h ago
 
 ---
 
