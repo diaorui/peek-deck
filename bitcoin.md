@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-28T00:03:05.212125+00:00'
+updated: '2026-06-28T05:02:15.526715+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 00:03 UTC  
+**Last Updated:** June 28, 2026 at 05:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,047.93
+### $60,134.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -6.2%  
-**30d:** -18.7%  
-**90d:** -12.1%  
+**24h:** -0.4%  
+**7d:** -6.1%  
+**30d:** -18.6%  
+**90d:** -11.9%  
 **1y:** -44.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1204.17B
+**Market Cap:** $1203.75B
 Rank #1
 
-**Circulating Supply:** 20,049,103 BTC
+**Circulating Supply:** 20,049,221 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -52.4%
 
 **All-Time Low:** $67.81
-+88472.5%
++88447.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 15
+### 18
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Remember when they said the same thing at $500, and then $15k 😭
 
-19h ago
+1d ago
 
 ---
 
@@ -89,7 +89,7 @@ Remember when they said the same thing at $500, and then $15k 😭
 
 Saw this post and immediately recalled how it’s been in the past: • 2010: early critics said it couldn’t become real money - btc was worth about 0.11 • 2013: after the 1st major crash, they called it “finished” - within 4yrs, it crossed 19k • 2017: Jamie Dimon called bitcoin “a fraud.” • 2018: Warren Buffett called it “rat poison squared.” - traded below 10k, It didn’t disappear • 2022: after exchange collapses, people said crypto was over - it survived another cycle. Same pattern every time: Price falls → confidence drops → people write the ending People keep underestimating its ability to recover. From history, the next chapter will be even brighter than today’s headlines suggest
 
-12h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Saw this post and immediately recalled how it’s been in the past: • 2010: ea
 
 Most people think Bitcoin is anonymous. It isn't. Every transaction is permanently on a public ledger. Companies like Chainalysis earn $100M+ per year mapping Bitcoin addresses to real identities — paid for almost entirely by governments. The techniques they use: Common Input Ownership Heuristic (CIOH) — if multiple inputs are in the same transaction, they assume one owner Change output detection — round numbers, address type mismatches, transaction graph analysis Address reuse — every reuse permanently links your history Network surveillance — your IP before the tx even hits the blockchain The defense is a layered stack: → Never reuse addresses (free, takes 0 effort) → Run your own node (no third party sees your addresses) → Tor on your node (strips IP from broadcasts) → CoinJoin — Wasabi 2.x or JoinMarket-NG (breaks UTXO history) → PayJoin BIP77/78 (invisible on-chain, breaks CIOH) → Silent Payments BIP352 (public address, zero linkable history) → Lightning for daily spending (zero on-chain footprint) Full guide with practical setup for each layer: 👉 https://open.substack.com/pub/davidebtc186/p/your-bitcoin-is-being-watched-how?utm\_source=share&utm\_medium=android&r=4gald6 Questions welcome in the comments.
 
-11h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Most people think Bitcoin is anonymous. It isn't. Every transaction is permanent
 
 Ok so we tapped under 60k and bounced, and I genuinely can't tell if that was the flush or just the appetizer. I've been around long enough to know nobody actually knows, but I'm curious where people's heads are at. The takes I keep seeing are basically two camps. One says this is normal bear chop and ~55-58k holds, we grind sideways and it's fine. The other is throwing out 42-44k as the "real" bottom and pointing at the ETF outflows + everything just bleeding into AI stocks instead. My gut says we're not done. Doesn't feel capitulation-y yet? Like everyone's scared but nobody's actually given up, which is usually when the real bottom isn't in. But I've also been wrong every single time I've tried to call a bottom so take that for what it's worth lol. The thing that messes with me is this cycle doesn't rhyme with the old ones. Fear and greed is basically pinned to the floor but price isn't doing the violent puke we usually get down there. Slower, grindier. Almost worse psychologically tbh. Not selling, not really buying either, just kind of sitting on my hands waiting for something to break one way or the other. Where's everyone else at — you got a number you're watching, or just vibing through it?
 
-18h ago
+23h ago
 
 ---
 
@@ -121,7 +121,7 @@ Title.
 
 Last month, Tando, the Kenya-based Bitcoin payments company, announced it had created a service that allows 40 million Kenyans to send and receive Bitcoin using the existing M-Pesa infrastructure. To pull this off, they strung together numerous pieces of technology, including in-house solutions, to make bitcoin’s Lightning Network act as a translation layer for millions. Launched in 2024, Tando, the Kenyan payments company founded by Jason and Sabina Waithira Gitau, began as an attempt to solve a very specific problem: how do Kenyans spend Bitcoin like they do Kenyan Shillings (KES)? They quickly realized the best way to do that was to leverage the ubiquitous M-Pesa mobile money payment rail to provide a seamless experience. They built an app that allows anyone with bitcoin to pay an M-Pesa invoice without needing local currency. Once a user enters their M-Pesa phone number and amount, they receive a lightning invoice to pay, and the recipient receives Kenyan shillings (KES). The app soon grew in virality and reach among the growing base of Kenyan bitcoin users. As Gitau underscored in her panel at this year’s Oslo Freedom Forum, people can test out Tando using less than a dollar, without paying fees, or KYC, making it quick to validate and easy to adopt. However, as Jason put it in an interview for this article, though the app resonated with many, “they still need a separate bitcoin wallet to use Tando.” To curb that, they again went back to the tried-and-true formula: combining and building on existing infrastructure. In this case, M-Pesa phone numbers and what are known as lightning addresses—a payment spec that lets users to receive bitcoin payments via email addresses. They unveiled their novel approach last May, in which any bitcoin wallet that supports lightning addresses can instantly send bitcoin to a Kenyan phone number via M-Pesa. To achieve this, users claim their phone-number-prepended lightning addresses. This new service also gives the recipient, once they claim their address and pay a fee, a way to set up a non-custodial bitcoin wallet, enabling them to send and receive bitcoin. Tando’s technique is reminiscent of a cousin project in South Africa called Machankura, which enables users to send and receive bitcoin offline over the Lightning network using Unstructured Supplementary Service Data (USSD) codes. While there are privacy implications to linking phone numbers to payment infrastructure, the Tando team plans to continue iterating to strike a better trade-off and provide a more balanced experience. Over the last few years, Africa has become home to projects looking to cement Bitcoin’s use as money, from circular economies and solutions like Machankura and Tando to infrastructure-led companies like MavaPay. The focus is not on price action but on utility and freedom money. This has fueled the ‘spend not sell’ movement, in which builders seek to familiarize users with earning and spending their bitcoin rather than trading and falling for get-rich-quick schemes. More importantly for the Tando team, bitcoin is for everyone, so there should be no gatekeeping; from the president and office workers to the farmers, the bitcoin network treats them all equally. Tando makes it possible to live entirely on Bitcoin in Kenya, an idea now promoted as the African way to use bitcoin. In the past few weeks, as bitcoin builders and leaders from Africa and beyond met for the first Bitcoin++ Nairobi conference, many on social media expressed surprise at seeing this in action, how easy the experience was, and how groundbreaking the idea of living on Bitcoin really is. As Tando has shown, the combination of mobile money and freedom money is growing evidence that where there is a need, Africans will build, and where there is technology, they will pioneer and adopt. African bitcoin builders continue to demonstrate that you do not need mass adoption or permission to live in the future.
 
-🔗 [Forbes](https://www.forbes.com/sites/digital-assets/2026/06/26/tando-is-unlocking-spending-bitcoin-for-40-million-kenyans/) • 17h ago
+🔗 [Forbes](https://www.forbes.com/sites/digital-assets/2026/06/26/tando-is-unlocking-spending-bitcoin-for-40-million-kenyans/) • 22h ago
 
 ---
 
@@ -137,7 +137,7 @@ Many of you need to calm down. Go engage in your hobbies, spend time with loved 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-17h ago
+22h ago
 
 ---
 
@@ -161,6 +161,14 @@ It’s funny, when bitcoin goes down, it’s the only asset they claim has died 
 
 ## Google News: "bitcoin"
 
+**[BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down](https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down)**
+
+Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.
+
+CoinDesk • 10h ago
+
+---
+
 **[Billionaire investor Jeremy Grantham says bitcoin will 'dwindle away with a whimper'](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)**
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
@@ -173,7 +181,7 @@ CNBC • 1d ago
 
 The seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -181,31 +189,37 @@ Yahoo Finance • 9h ago
 
 Jeremy Grantham says Bitcoin will fade away, but a prediction without a timeframe, catalyst or risk framework offers investors little practical value.
 
-Forbes • 6h ago
+Forbes • 11h ago
 
 ---
 
-**[BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down](https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down)**
+**[Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
 
-Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.
-
-CoinDesk • 5h ago
+NewsNation • 28m ago
 
 ---
 
-**[XRP Origins Debate Reignites as Ripple’s EX CTO Says Concept Came Before Bitcoin](https://finance.yahoo.com/markets/crypto/articles/xrp-origins-debate-reignites-ripple-223000723.html)**
+**[Strategy's Saylor Acknowledges 'Volatility Test' as STRC Hits New Low on Bitcoin Weakness](https://finance.yahoo.com/markets/crypto/articles/strategys-saylor-acknowledges-volatility-test-153349040.html)**
 
-Ripple's former CTO clarifies XRP origins, separating Fugger's 2004 payment concept from the XRP Ledger's 2012 launch.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Michael Saylor's Strategy faces no easy way out as bitcoin prices continue to drop](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)**
-
-Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
+Strategy’s flagship preferred stock tumbled again when U.S. markets opened, setting another record low as Bitcoin lingered below $60,000.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[This $50 Gadget Mines Bitcoin 24/7 With Almost No Overhead](https://www.entrepreneur.com/money-finance/this-50-gadget-mines-bitcoin-247-with-almost-no-overhead/504788)**
+
+A low-cost shot at a full Bitcoin block reward.
+
+entrepreneur.com • 11h ago
+
+---
+
+**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
+
+The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -217,27 +231,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Gets A 50% Buzz Cut](https://seekingalpha.com/article/4918204-bitcoin-gets-a-50-percent-buzz-cut)**
-
-Bitcoin is making new multiyear lows on Friday as prices break back below $60K to the lowest level since September 2024.
-
-Seeking Alpha • 19h ago
-
----
-
 **[Bitcoin hits 20-month low as market sentiment sours](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c?syn-25a6b1a6=1)**
 
 Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
 
 Financial Times • 3d ago
-
----
-
-**[The Latest Crypto Tumble Has Bitcoin Under $60,000—And It's Pressuring Strategy Stock](https://www.investopedia.com/the-latest-crypto-tumble-has-bitcoin-under-usd60-000-and-it-s-pressuring-strategy-stock-mstr-12006602)**
-
-The world's largest cryptocurrency fell to fresh lows, driving Strategy's stock to levels it hasn't seen in years.
-
-Investopedia • 2d ago
 
 ---
 
@@ -249,7 +247,7 @@ Investopedia • 2d ago
 
 Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
 
-⬆️ 40 • 💬 10 • 2d ago • [ft.com](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
+⬆️ 40 • 💬 10 • 3d ago • [ft.com](https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c)
 
 ---
 
@@ -273,7 +271,7 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-⬆️ 2 • 💬 1 • 12h ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+⬆️ 3 • 💬 1 • 17h ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
 
 ---
 
@@ -281,7 +279,7 @@ Michael Saylor's Strategy is experiencing pains as a result of its financial eng
 
 Eastern Washington had cheap power and tons of space. Then the suitcases of cash started arriving.
 
-⬆️ 2 • 💬 1 • 2d ago • [POLITICO](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
+⬆️ 2 • 💬 1 • 3d ago • [POLITICO](https://www.politico.eu/article/this-is-what-happens-when-bitcoin-miners-take-over-your-town/)
 
 ---
 
@@ -328,13 +326,33 @@ Conduit. Contribute to Jake1848/conduit development by creating an account on Gi
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin And BlackRock Just Did Something VERY Strange](https://www.youtube.com/watch?v=biyCX7UYAfQ)**
+
+Bitcoin just broke down again — falling below $60k to levels we haven't seen in nearly two years. But here's the strange part: this ...
+
+📺 Eurodollar University
+
+👁️ 13K • 👍 676 • 💬 71 • ⏱️ 22:54 • 6h ago
+
+---
+
+**[“Bitcoin&#39;s 4-year cycle is FAKE!” Why Smart Money Is Getting Bullish On Crypto](https://www.youtube.com/watch?v=oZPwYevfCMA)**
+
+Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 960 • 💬 76 • ⏱️ 10:53 • 5h ago
+
+---
+
 **[Why Are Bitcoin &amp; AI Stocks CRASHING?!](https://www.youtube.com/watch?v=LkU3fhWnfxU)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 61 • ⏱️ 45:39 • 11h ago
+👁️ 43K • 👍 2K • 💬 91 • ⏱️ 45:39 • 16h ago
 
 ---
 
@@ -344,37 +362,7 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 221 • ⏱️ 16:08 • 1d ago
-
----
-
-**[I&#39;m a bitcoin bull from a &#39;very, very long-term&#39; perspective, says Fairlead&#39;s Katie Stockton](https://www.youtube.com/watch?v=gKzDU7IMGp0)**
-
-Katie Stockton, Fairlead Strategies founder and managing partner, joins 'Squawk Box' to discuss the latest market trends, bitcoin ...
-
-📺 CNBC Television
-
-👁️ 37K • 👍 366 • 💬 176 • ⏱️ 8:42 • 1d ago
-
----
-
-**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
-
-Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 30K • 👍 679 • 💬 75 • ⏱️ 1:35 • 1d ago
-
----
-
-**[Michael Saylor BOMBSHELL! All Hell Just Hit Bitcoin &amp; Crypto!!](https://www.youtube.com/watch?v=NHI3HGNmkUw)**
-
-BOMBSHELL: Everyone is watching Saylor like a ticking time bomb.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 30K • 👍 2K • 💬 357 • ⏱️ 11:42 • 2d ago
+👁️ 25K • 👍 2K • 💬 207 • ⏱️ 16:08 • 1d ago
 
 ---
 
@@ -384,47 +372,57 @@ Bitcoin just broke below its 200-week moving average, Strategy's STRC is crackin
 
 📺 Simply Bitcoin
 
-👁️ 58K • 👍 3K • 💬 513 • ⏱️ 20:52 • 2d ago
+👁️ 59K • 👍 3K • 💬 518 • ⏱️ 20:52 • 2d ago
 
 ---
 
-**[What Would Indicate Full Blown Bitcoin Price Capitulation, Ignoring Price-Based?](https://www.youtube.com/watch?v=WrYTIBG10vI)**
+**[You Are Being Lied To About Crypto on CNBC (insane fail)](https://www.youtube.com/watch?v=k0szdDp3xGA)**
 
-Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 15K • 👍 448 • 💬 15 • ⏱️ 0:51 • 1d ago
-
----
-
-**[Bitcoin is DUMPING - You Won&#39;t Believe Who is SILENTLY BUYING?! | EP 1534](https://www.youtube.com/watch?v=b-n7QdvHlWE)**
-
-Bitcoin draws down AGAIN as $60k price gets tested ... WHAT COMES NEXT?
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 537 • 💬 138 • ⏱️ 1:17:04 • 2d ago
+👁️ 38K • 👍 2K • 💬 233 • ⏱️ 9:39 • 1d ago
 
 ---
 
-**[CZ says he expects crypto to grow significantly under the current U.S. administration](https://www.youtube.com/watch?v=Fng8nNnlHpQ)**
+**[Massive Bitcoin Short Squeeze Incoming! (Don&#39;t Miss This Pump)](https://www.youtube.com/watch?v=QlglEZmcRnk)**
 
-DESCRIPTION #cryptocurrency #digitalfinance #finance #bitcoin #crypto Subscribe to CoinDesk on YouTube: ...
+Sheldon is warning that a massive Bitcoin short squeeze is officially loading. We are sitting right at the critical $60000 support ...
 
-📺 CoinDesk
+📺 Crypto Banter
 
-👁️ 1K • 👍 7 • 💬 1 • ⏱️ 0:29 • 7h ago
+👁️ 6K • 👍 413 • 💬 38 • ⏱️ 15:47 • 13h ago
 
 ---
 
-**[Why Bitcoin &amp; Stocks Face a 2008-Style Crash | Peter Schiff](https://www.youtube.com/watch?v=4dMgBe5xl7Q)**
+**[BITCOIN: WATCH BEFORE MONDAY (SUMMER RALLY?)](https://www.youtube.com/watch?v=Cm3Y9B9g6xY)**
 
-Ran is joined by Peter Schiff for a wide ranging discussion on the biggest risks facing the global economy, financial markets, and ...
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu - 25% OFF TRADING FEES AND ...
 
-📺 Crypto Insider
+📺 Mathieu - C₿M
 
-👁️ 20K • 👍 735 • 💬 45 • ⏱️ 50:56 • 1d ago
+👁️ 4K • 👍 357 • 💬 52 • ⏱️ 8:17 • 16h ago
+
+---
+
+**[Michael Saylor is going down alongside bitcoin](https://www.youtube.com/watch?v=P3IpAnVD4xw)**
+
+Michael Saylor is going down alongside bitcoin #bitcoin #crypto #stockmarket #business #finance.
+
+📺 RealJonahBlake
+
+👁️ 988 • 👍 11 • 💬 1 • ⏱️ 0:38 • 7h ago
+
+---
+
+**[I am wrecked. #crypto](https://www.youtube.com/watch?v=7TO3EW0ECA8)**
+
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 701 • 💬 79 • ⏱️ 1:35 • 1d ago
 
 ---
 

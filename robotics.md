@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T00:03:05.220131+00:00'
+updated: '2026-06-28T05:02:15.534827+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 00:03 UTC  
+**Last Updated:** June 28, 2026 at 05:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,13 +124,7 @@ IEEE Spectrum • 1d ago
 
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 23h ago
-
----
-
-**[The Next Normal – The future of robotics: Intelligent, adaptable, and on your team](https://www.mckinsey.com/featured-insights/the-next-normal/robotics)**
-
-McKinsey & Company • 2d ago
+San Francisco Chronicle • 1d ago
 
 ---
 
@@ -142,6 +136,20 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
+
+The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
+
+Financial Times • 3d ago
+
+---
+
+**[The Next Normal – The future of robotics: Intelligent, adaptable, and on your team](https://www.mckinsey.com/featured-insights/the-next-normal/robotics)**
+
+McKinsey & Company • 3d ago
+
+---
+
 **[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
 
 Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
@@ -150,19 +158,23 @@ Silicon Canals • 1d ago
 
 ---
 
-**[Robot Seen on Street Begging for Change](https://futurism.com/robots-and-machines/robot-begging-china-humanoid-unitree-g1)**
+**[Schools In US To Introduce AI-Powered Humanoid Robots As Teaching Partners](https://www.ndtv.com/world-news/schools-in-us-to-introduce-ai-powered-humanoid-robots-as-teaching-partners-11695879)**
 
-A
+While school officials have described the initiative as a step toward the future of learning.
 
-Futurism • 1d ago
+NDTV • 14h ago
 
 ---
 
-**[Robot nation: China’s bid to beat its demographic decline](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?syn-25a6b1a6=1)**
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
+OregonLive.com • 2d ago
 
-Financial Times • 2d ago
+---
+
+**[Watch Inside Disney’s Push to Upgrade Its Theme Parks With Robots](https://www.bloomberg.com/news/videos/2026-06-26/inside-disney-s-push-to-upgrade-its-theme-parks-with-robots)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -171,20 +183,6 @@ Financial Times • 2d ago
 FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
 Business Insider • 1d ago
-
----
-
-**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
-
-WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
-
-Jamaica Gleaner • 19h ago
 
 ---
 
@@ -198,65 +196,17 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 388 • 💬 96 • ⏱️ 19:38 • 12h ago
+👁️ 10K • 👍 449 • 💬 106 • ⏱️ 19:38 • 17h ago
 
 ---
 
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+**[DEEP Robotics DR02 Just Got Even Better](https://www.youtube.com/watch?v=KV6kaOIcShg)**
 
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+DEEP Robotics has unveiled another major evolution of its DR02 humanoid robot, showcasing smoother movement, better ...
 
-📺 AI Revolution
+📺 DPCcars
 
-👁️ 71K • 👍 2K • 💬 242 • ⏱️ 13:45 • 6d ago
-
----
-
-**[Six-armed robot does six jobs at once! #robotics #airobot #industrialautomation](https://www.youtube.com/watch?v=YQzj4PfWeB8)**
-
-Shanghai-based iSAGEBOT teasing what it calls the world's first “spatial heterogenous” six-armed humanoid robot. The Hexa-Arm ...
-
-📺 Kalil 4.0
-
-👁️ 755 • 👍 23 • ⏱️ 0:27 • 6h ago
-
----
-
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
-
-Your Smart Robot Companion.
-
-📺 Unitree Robotics
-
-👁️ 1.9M • 👍 2K • 💬 530 • ⏱️ 0:31 • 3d ago
-
----
-
-**[Spraying robot #robot #machine #industrialrobots #automation #spray](https://www.youtube.com/watch?v=dZJecPxUAw0)**
-
-📺 Borunte julie 
-
-👁️ 29K • 👍 64 • ⏱️ 0:12 • 1d ago
-
----
-
-**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
-
-In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
-
-📺 Tom Scott
-
-👁️ 956K • 👍 50K • 💬 2K • ⏱️ 21:33 • 5d ago
-
----
-
-**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
-
-Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
-
-📺 PRO ROBOTS
-
-👁️ 33K • 👍 240 • 💬 8 • ⏱️ 11:29 • 4d ago
+👁️ 498 • 👍 24 • 💬 3 • ⏱️ 1:50 • 14h ago
 
 ---
 
@@ -266,27 +216,77 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 📺 FOX 5 New York
 
-👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 4d ago
+👁️ 6K • 👍 13 • 💬 7 • ⏱️ 2:07 • 4d ago
 
 ---
 
-**[World’s First General-Purpose Cerebellum GPT Foundation Model for Humanoid Robots: AstraBrain-WBC0.5](https://www.youtube.com/watch?v=iNBvCLjOmVw)**
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
 
-Trained on 20000 hours of human motion data — the largest-scale dataset to date — AstraBrain-WBC 0.5 marks the first ...
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
 
-📺 Galbot
+📺 AI Revolution
 
-👁️ 2.8M • 👍 542 • 💬 2 • ⏱️ 3:06 • 4d ago
+👁️ 72K • 👍 2K • 💬 248 • ⏱️ 13:45 • 6d ago
 
 ---
 
-**[Robotics](https://www.youtube.com/watch?v=P4KlMJ02d0Q)**
+**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
 
-erictrump Subscribe: https://www.youtube.com/@MaryTrumpMedia?sub_confirmation=1 Support Mary directly: Substack: ...
+This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
 
-📺 Mary Trump Media
+📺 Talent Replay
 
-👁️ 6K • 👍 786 • 💬 47 • ⏱️ 1:16 • 1d ago
+👁️ 20K • 👍 231 • 💬 9 • ⏱️ 39:57 • 14h ago
+
+---
+
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+
+Your Smart Robot Companion.
+
+📺 Unitree Robotics
+
+👁️ 2.0M • 👍 2K • 💬 530 • ⏱️ 0:31 • 3d ago
+
+---
+
+**[Unboxing Dancing BOT ROBOT &amp; Testing with asmr #toys #robot #remotecontrol](https://www.youtube.com/watch?v=uTrsAr2oPAY)**
+
+toys #unboxing #remotecontrol #robot.
+
+📺 PIHU TOYS
+
+👁️ 16K • 👍 120 • 💬 2 • ⏱️ 0:31 • 21h ago
+
+---
+
+**[$70K Robot Nanny Knows KUNG FU?! 😱🥋#shorts #funny #robot](https://www.youtube.com/watch?v=zv0PuRKDIWA)**
+
+shorts #anime #fyp #recap #foryou 【Updated daily,welcome to subscribe!】
+
+📺 RECAP Animation
+
+👁️ 416K • 👍 3K • 💬 12 • ⏱️ 1:43 • 3d ago
+
+---
+
+**[We can&#39;t invent a robot better than these ferrets](https://www.youtube.com/watch?v=Mi_fYfpycT0)**
+
+In Derbyshire, at the National Ferret School, I say "hello" to some smelly thieves, and go on a surprisingly Biblical tangent.
+
+📺 Tom Scott
+
+👁️ 971K • 👍 50K • 💬 2K • ⏱️ 21:33 • 5d ago
+
+---
+
+**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
+
+Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
+
+📺 PRO ROBOTS
+
+👁️ 33K • 👍 241 • 💬 8 • ⏱️ 11:29 • 4d ago
 
 ---
 

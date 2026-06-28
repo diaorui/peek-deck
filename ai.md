@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-28T00:03:05.204636+00:00'
+updated: '2026-06-28T05:02:15.518851+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 28, 2026 at 00:03 UTC  
+**Last Updated:** June 28, 2026 at 05:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,13 @@ AI news, discussions, and developments
 
 Oh .... the irony!
 
-16h ago
+21h ago
 
 ---
 
 **[I have it on good authority that Google are going to be hit with export controls soon.](https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/)**
 
-10h ago
-
----
-
-**[Do you think AI is making people worse at writing and thinking clearly?](https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/)**
-
-Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.
-
-3h ago
-
----
-
-**[What's one AI capability you think is still massively underrated?](https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/)**
-
-We hear a lot about AI generating text, images, and code, but I feel some of its most useful capabilities don't get much attention. For me, AI has been surprisingly helpful for breaking down complex topics, organizing messy information, and speeding up research. Those aren't the flashy features that make headlines, but they've had the biggest impact on my day-to-day work. What's one AI capability or use case that you think deserves more recognition? I'm interested in hearing about practical examples rather than the usual "AI can do everything" answers.
-
-8h ago
+15h ago
 
 ---
 
@@ -71,7 +55,44 @@ We hear a lot about AI generating text, images, and code, but I feel some of its
 
 Something happened in the last two weeks that didn’t get nearly enough attention outside of tech circles. Anthropic released what are reportedly their most capable models yet, Fable 5 and Mythos 5. The Trump administration then ordered Anthropic to ban all foreign nationals from accessing them, citing cybersecurity concerns. Anthropic’s response? They shut down access entirely, saying they couldn’t reliably enforce a “foreign nationals only” restriction. The reason these models are so sensitive: they apparently have an unprecedented ability to identify software vulnerabilities. Not just theoretically, but at a level that genuinely alarmed the US government. Yesterday, OpenAI released GPT-5.6, a three-model family (Sol, Terra, and Luna). But it’s not available to you. Or me. Or probably anyone reading this. It’s limited to a small group of “trusted partners” whose identities have been shared with the US government, at the administration’s explicit request. OpenAI themselves said they’re uncomfortable with this arrangement: “We don’t believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.” So let’s be clear about where we are: the most powerful AI models in existence are now effectively state-controlled assets. They’re not products you can access, they’re capabilities being rationed by a government. For those of us building outside the US, the message is pretty direct: the frontier is no longer public. What’s your read on this? Is this legitimate national security caution or the beginning of something more permanent?
 
-9h ago
+14h ago
+
+---
+
+**[What's one AI capability you think is still massively underrated?](https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/)**
+
+We hear a lot about AI generating text, images, and code, but I feel some of its most useful capabilities don't get much attention. For me, AI has been surprisingly helpful for breaking down complex topics, organizing messy information, and speeding up research. Those aren't the flashy features that make headlines, but they've had the biggest impact on my day-to-day work. What's one AI capability or use case that you think deserves more recognition? I'm interested in hearing about practical examples rather than the usual "AI can do everything" answers.
+
+13h ago
+
+---
+
+**[Do you think AI is making people worse at writing and thinking clearly?](https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/)**
+
+Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.
+
+8h ago
+
+---
+
+**[What’s the biggest gap between AI tool demos and actual daily use?](https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/)**
+
+I’ve been testing different AI tools in real business workflows, mostly for writing, research, content planning, and repetitive office tasks. One thing I noticed is that demos usually look impressive, but daily use often fails in small places: inconsistent output, lack of context, too much manual checking, or poor integration with existing workflows. For people using AI at work, what is the biggest gap you see between demo videos and real productivity?
+
+1h ago
+
+---
+
+**[Koboldcpp v1.116 released](https://www.reddit.com/r/artificial/comments/1uhix4f/koboldcpp_v1116_released/)**
+
+koboldcpp-1.116
+
+
+NEW: Added Krea 2 Turbo support (Recommended). This is an extremely powerful image generation model with incredible knowledge.
+
+Grab and load the Krea 2 Turbo template containing ...
+
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.116) • 4h ago
 
 ---
 
@@ -79,7 +100,7 @@ Something happened in the last two weeks that didn’t get nearly enough attenti
 
 I have noticed that from the last time I checked up on AI discourse a few months ago, everyone has seemingly shifted to thinking that AGI and shortly after ASI are foregone conclusions. I don't know much about the internals of the actual field and was wondering if any actual AI experts here could walk me through what is actually going on. From what I have been reading, we are guaranteed to reach AGI in a decade at most, and after that, the AGIs can make the ASI (like in the paper google recently put out). The ASI then never really stops self-improving, and that is a terrifying prospect. And with something so smart, alignment is essentially impossible. Is this actually the general consensus for what's going to happen? If so, why? Are there any better ways to research what is going on? Because I have just been google "will/when will ASI happen." The results I've been getting all skew completely towards "yes, and soon." Claude and Gemini also both say ASI is happening soon. Are the chances of it happening increasing? or decreasing? I'm also somewhat scared of agentic AI. How does that play into everything? If this is true, how am I supposed to live my life and prepare for a future that at best, my entire life's work has been made pointless, and at worst, everyone is killed? I am mostly looking for experts to answer my question. If you are not an expert, feel free to leave a comment, but please specify that you aren't.
 
-8h ago
+13h ago
 
 ---
 
@@ -87,15 +108,7 @@ I have noticed that from the last time I checked up on AI discourse a few months
 
 I have been working in the AI training and data annotation space for a while now, and it is easily one of the strangest industries I have ever been a part of. On one hand, the perks are real. The flexibility is unmatched, you can work in your sweatpants, and sometimes you get genuinely fascinating prompts that actually challenge your brain, whether you are grading complex code, checking historical facts, or analyzing legal logic. But on the other hand, the complete and total isolation is starting to get pretty bizarre. We are helping build the future of technology, yet we do it in total silos. If you have ever been in an official platform Slack or forum, you know the vibe. You are constantly walking on eggshells. You cannot openly ask about sudden dry spells, you cannot critique confusing or contradictory guidelines without worrying about a random shadowban, and the second a project ends, you are instantly booted from the channel. Any temporary "coworkers" you had just vanish overnight. It feels like the platforms go out of their way to keep us from actually talking to one another without a moderator watching over our shoulders. It is a weird mix of having total freedom but zero community. I am curious what everyone else’s experience has been like lately. What are your personal pros and cons of the gig right now? How do you deal with the isolation, or do you actually prefer the ghost lifestyle? Also, out of pure curiosity, how do you even explain what you do for a living to your friends and family without their eyes glazing over?
 
-11h ago
-
----
-
-**[Dwell](https://www.reddit.com/r/artificial/comments/1uhe2rs/dwell/)**
-
-A while back I almost bought a house I was in love with. The listing was gorgeous. What it didn't tell me: the "updated" roof was at end-of-life, the comps it was priced against weren't really comps, and the repair list I eventually got was going to eat my entire reno budget. I found all of that out the slow, expensive way — one surprise at a time. So I built Dwell — basically the tool I wish I'd had standing in that driveway. You paste in an address and it gives you a free read on the property: value, the obvious flags, and where the listing is being optimistic. If you want the deep version, it generates a Truth File — a single verdict (CLEAR / REVIEW / HIGH-RISK) with numbered, cited findings, not vibes. It also estimates condition and cost-to-cure (what it'll actually cost to fix), shows you real comps, and flags where you have negotiating leverage. Two side pieces I added because they kept biting me personally: Reno Intel — where the renovation upside actually is on a place vs. where you'd just be lighting money on fire. QuoteCheck — paste a contractor's quote and it x-rays it: inflated line items, vague scope, missing scope. It even gives you a negotiation script. (This one alone has saved me more than I want to admit.) The address read is free. The deep intelligence is a paid membership ($29/mo) — I'm not going to pretend it isn't, this sub hates that. But I genuinely want feedback more than signups right now. It's live at dwell.aurochthryx.com if you want to throw an address at it. And if you're mid-purchase right now and don't want to pay — drop an address in the comments and I'll run the Truth File and post back what it finds. That's the fastest way for me to learn what's actually useful vs. noise. What would make you trust (or not trust) a tool like this with a six-figure decision? That's the part I most want to get right. Dwell.AurochThryx.com
-
-2h ago
+16h ago
 
 ---
 
@@ -103,15 +116,7 @@ A while back I almost bought a house I was in love with. The listing was gorgeou
 
 I’ve been building ORBIS, an AI intelligence engine for reading the economy as a connected system instead of a pile of disconnected headlines. The core idea is simple: Most market tools tell you what moved. ORBIS tries to answer: What caused it? What does it affect next? What are the second-order consequences? For example, if there’s an AI demand shock, ORBIS doesn’t just say “tech bullish.” It traces the dependency chain: AI → data centers → power demand → natural gas → copper → utilities → credit markets → rates → capex That matters because the real trade often isn’t the obvious one. Sometimes the constraint is power. Sometimes it’s credit. Sometimes it’s permitting, labour, insurance, grid interconnects, or commodity supply. The product is still early, but the direction is clear: a macro intelligence layer that turns public information into structured, causal briefings. Current ORBIS lenses include: Markets — macro shocks, sector impact, capital flow Oil — crude, energy infrastructure, royalties, resource economics Dwell — real estate truth reports and property intelligence Price Truth — quote/bid/price analysis Capitalist Daily — daily briefing format for operators and investors This is not financial advice and it is not trying to be a magic stock picker. The goal is better situational awareness: fewer blind spots, cleaner reasoning, and a clearer map of how capital actually moves. I’m looking for blunt feedback from people who follow markets, commodities, infrastructure, real estate, or economic systems. What would make this useful enough that you’d actually check it every morning? orbis.aurochthryx.com
 
-3h ago
-
----
-
-**[What "AI Layoffs" Tell Us About the Companies Claiming Them](https://www.reddit.com/r/artificial/comments/1ugysid/what_ai_layoffs_tell_us_about_the_companies/)**
-
-What all the "AI Layoffs" are telling us is that companies would rather compete by being cheaper than by being better. There are really two main competitive pathways for businesses: Do the same thing as your competition, but for a lower cost. Do something better than your competition at a reasonable cost. No one who has experience using AI for anything should say they feel comfortable letting it run free without any human supervision, but many businesses now are doing just that...and oftentimes it's apparent they are using AI tools with no oversight (just look at my LinkedIn DMs). So, it seems that the value equation for most of these businesses weighs more heavily for cost-cutting than on the "lesser" expense of AI, resulting in costly miscalculations. If anything, it seems more logical to keep your employees and EMPOWER/AUGMENT THEM with AI tools than to reduce headcount and try to completely replace an employee with an AI tool.
-
-13h ago
+8h ago
 
 ---
 
@@ -123,13 +128,7 @@ What all the "AI Layoffs" are telling us is that companies would rather compete 
 
 The US government has allowed Anthropic to release its powerful Mythos AI model to select companies and organizations, revising license requirements after ordering an export block earlier this month in the wake of national security fears.
 
-CNN • 23h ago
-
----
-
-**[Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use](https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model)**
-
-Bloomberg.com • 1d ago
+CNN • 1d ago
 
 ---
 
@@ -141,9 +140,39 @@ CNBC • 1d ago
 
 ---
 
-**[Tech industry grapples with Trump’s AI about-faces](https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862)**
+**[US allows partial release of Anthropic's Mythos AI model](https://www.dw.com/en/us-allows-partial-release-of-anthropics-mythos-ai-model/a-77732252)**
 
-Politico • 10h ago
+Only a small group of American firms will get access to Anthropic's AI Model Mythos 5, however, it is unclear which companies will be selected.
+
+dw.com • 16h ago
+
+---
+
+**[AI is creating America’s next underclass](https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/)**
+
+The Hill • 10h ago
+
+---
+
+**[Opinion | The Real A.I. Race Isn’t America vs. China](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html)**
+
+The New York Times • 2m ago
+
+---
+
+**[California hits pause on what could be its biggest AI data center as developer sues for river water](https://www.yahoo.com/news/us/articles/california-hits-pause-could-biggest-031900686.html)**
+
+"They can't just come in and claim that they're exempt and have a right to build the biggest data center in the state without any oversight."
+
+Yahoo • 1h ago
+
+---
+
+**[Google caps Meta’s Gemini use as AI demand strains capacity](https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378)**
+
+Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
+
+Financial Times • 1h ago
 
 ---
 
@@ -151,37 +180,13 @@ Politico • 10h ago
 
 Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.
 
-BBC • 52m ago
-
----
-
-**[Texas Stargate AI site saw 14 emergency calls, broken legs, and water called 'a luxury'](https://www.yahoo.com/news/us/articles/texas-stargate-ai-saw-14-231800269.html)**
-
-"While they're breaking records, they're harming a lot of people, physically and mentally."
-
-Yahoo • 45m ago
-
----
-
-**[New Jersey moves to slash AI data center tax breaks and reroute money to power relief](https://www.yahoo.com/news/politics/articles/jersey-moves-slash-ai-data-230700316.html)**
-
-Supporters say taxpayer dollars would be better spent elsewhere than on subsidizing giant facilities with heavy power needs.
-
-Yahoo • 56m ago
+BBC • 5h ago
 
 ---
 
 **[Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision](https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2)**
 
-WSJ • 14h ago
-
----
-
-**[The AI bubble has further to run despite the looming crash](https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets)**
-
-As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning
-
-The Guardian • 4h ago
+WSJ • 19h ago
 
 ---
 
@@ -189,7 +194,7 @@ The Guardian • 4h ago
 
 Jacob Andreou has had a rapid ascent at the 51-year-old tech giant. He is leading the charge to retool its pivotal AI product.
 
-Fortune • 14h ago
+Fortune • 19h ago
 
 ---
 
@@ -199,7 +204,7 @@ Fortune • 14h ago
 
 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](https://news.ycombinator.com/item?id=48674446)**
 
-⬆️ 601 • 💬 321 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+⬆️ 604 • 💬 321 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 
 ---
 
@@ -207,7 +212,7 @@ Fortune • 14h ago
 
 The move comes the same day as a new OpenAI model sees a limited release.
 
-⬆️ 540 • 💬 741 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+⬆️ 544 • 💬 755 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -221,19 +226,19 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 **[What happened after 2k people tried to hack my AI assistant](https://news.ycombinator.com/item?id=48681687)**
 
-⬆️ 369 • 💬 160 • 1d ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
+⬆️ 369 • 💬 160 • 2d ago • [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/)
 
 ---
 
 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://news.ycombinator.com/item?id=48676795)**
 
-⬆️ 313 • 💬 373 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
+⬆️ 313 • 💬 374 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 
 ---
 
 **[AI children's books, body horror edition](https://news.ycombinator.com/item?id=48681250)**
 
-⬆️ 211 • 💬 77 • 1d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
+⬆️ 212 • 💬 77 • 2d ago • [lcamtuf.substack.com](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
 
 ---
 
@@ -241,23 +246,7 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 Researchers debate motivation, purpose, and the field’s future
 
-⬆️ 197 • 💬 169 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
-
----
-
-**[Political bias in AI: Where the AI models stand](https://news.ycombinator.com/item?id=48672779)**
-
-Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
-
-⬆️ 175 • 💬 306 • 2d ago • [Trakkr](https://trakkr.ai/bias)
-
----
-
-**[The AI industry is pouring millions into US elections](https://news.ycombinator.com/item?id=48687483)**
-
-Plus: Fiery resistance to a nuclear AI data center and A24's Google debacle. Welcome to the first episode of BLOOD IN THE MACHINE: THE SHOW, with the great AI and crypto watchdog, Molly White.
-
-⬆️ 120 • 💬 82 • 1d ago • [bloodinthemachine.com](https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds)
+⬆️ 201 • 💬 169 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
 
 ---
 
@@ -265,7 +254,23 @@ Plus: Fiery resistance to a nuclear AI data center and A24's Google debacle. Wel
 
 New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
-⬆️ 111 • 💬 107 • 10h ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+⬆️ 189 • 💬 145 • 15h ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+
+---
+
+**[Political bias in AI: Where the AI models stand](https://news.ycombinator.com/item?id=48672779)**
+
+Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...
+
+⬆️ 176 • 💬 306 • 2d ago • [Trakkr](https://trakkr.ai/bias)
+
+---
+
+**[Response to AI slop is from Robin Williams](https://news.ycombinator.com/item?id=48703452)**
+
+There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area
+
+⬆️ 125 • 💬 72 • 3h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
 
 ---
 
@@ -273,23 +278,13 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 ## YouTube Videos: "ai"
 
-**[&quot;Doom Trolling:&quot; Why AI Leaders Are Stoking Fear About Their On Tech | Amanpour and Company](https://www.youtube.com/watch?v=w1VkPn1fhKE)**
+**[Elon, AI, And The Beast System—One Doctor Connects The Dots… ](https://www.youtube.com/watch?v=RAb0Q95HmRI)**
 
-Leaders of some of the world's biggest AI companies have warned of potentially catastrophic consequences from the technology ...
+In this discussion, I'm reflecting on the powerful warnings shared by Dr. Stella Immanuel during her appearance on the We Need ...
 
-📺 Amanpour and Company
+📺 Aaron Page 
 
-👁️ 8K • 👍 327 • 💬 50 • ⏱️ 18:30 • 1d ago
-
----
-
-**[Frontier Models are in Trouble - AI Power Users Have a Different Way](https://www.youtube.com/watch?v=2v2MQdZYvWU)**
-
-https://openmonoagent.ai/?v=2v2MQdZYvWU Frontier models are running into problems that companies can no longer ignore.
-
-📺 STARTUP HAKK
-
-👁️ 2K • 👍 47 • 💬 14 • ⏱️ 9:41 • 1d ago
+👁️ 54K • 👍 3K • 💬 814 • ⏱️ 21:59 • 9h ago
 
 ---
 
@@ -299,47 +294,17 @@ Everyone keeps talking about the AI era like it's just beginning. But I think th
 
 📺 Coding with Dee
 
-👁️ 21K • 👍 1K • 💬 271 • ⏱️ 7:31 • 1d ago
+👁️ 23K • 👍 2K • 💬 297 • ⏱️ 7:31 • 1d ago
 
 ---
 
-**[Why South Korea’s AI Stock Mania Is a Warning to the World](https://www.youtube.com/watch?v=jJrEnv1IDvg)**
+**[First Look at Seedance 2.5 &amp; Testing Seedance 4K for AI Filmmaking](https://www.youtube.com/watch?v=bmb_kVSh2y4)**
 
-South Korea's stock market has surged about 200% year-on-year, powered by retail investors chasing an artificial ...
+Today We're checking out Seedance 2.5 & Seedance 2.0 4K Use Seedance 4K here ...
 
-📺 Bloomberg Originals
+📺 Dan Kieft
 
-👁️ 330K • 👍 5K • 💬 515 • ⏱️ 9:20 • 1d ago
-
----
-
-**[This AI Robot Thinks It Lives With Me Now](https://www.youtube.com/watch?v=IwACmAON68M)**
-
-What happens when an Apple humanoid robot appears in your living room uninvited? Watch this comedic encounter to see how ...
-
-📺 Josiah Schneider
-
-👁️ 17K • 👍 2K • 💬 194 • ⏱️ 1:57 • 9h ago
-
----
-
-**[This AI Brain Will Make You So Smart It’s Almost Unfair](https://www.youtube.com/watch?v=b4d32pBa3UY)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4amP5uh Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 87K • 👍 4K • 💬 135 • ⏱️ 12:02 • 2d ago
-
----
-
-**[This NEW AI AGENT is INSANE! 🤯](https://www.youtube.com/watch?v=KRt05kAklys)**
-
-Get the Omith AI Masterclass https://www.skool.com/ai-profit-lab-7462/about Get the Agent OS ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 64 • 💬 9 • ⏱️ 8:16 • 8h ago
+👁️ 48K • 💬 66 • ⏱️ 16:38 • 1d ago
 
 ---
 
@@ -349,7 +314,17 @@ Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and
 
 📺 Matt Wolfe
 
-👁️ 70K • 👍 2K • 💬 180 • ⏱️ 20:01 • 1d ago
+👁️ 74K • 👍 2K • 💬 185 • ⏱️ 20:01 • 1d ago
+
+---
+
+**[The AI Bible Apocalypse...](https://www.youtube.com/watch?v=zbpsj6Y9_B4)**
+
+According to many, it's the ends times. Thankfully, AI has the answers we need! These slop movies will teach us everything we ...
+
+📺 Microwave Society
+
+👁️ 36K • 👍 3K • 💬 485 • ⏱️ 11:53 • 11h ago
 
 ---
 
@@ -359,17 +334,47 @@ It's back and it's weirder then ever! TigerMan: @XSEIDET Get your Plushies here:
 
 📺 TheGamingBeaver
 
-👁️ 43K • 👍 4K • 💬 546 • ⏱️ 14:53 • 10h ago
+👁️ 59K • 👍 5K • 💬 587 • ⏱️ 14:53 • 15h ago
 
 ---
 
-**[Z.ai Chinese AI Comparable to OpenAI and Anthropic - China Tech Beating USA Sanctions](https://www.youtube.com/watch?v=B2N5DC6qkI0)**
+**[People Are Finally Waking Up About AI - And They’re Sick of It](https://www.youtube.com/watch?v=BDfTt2yUu4E)**
 
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+Subscribe to My New Clips Channel https://www.youtube.com/@MichaelBordenaroClips ======= Need a Real Estate Agent You ...
 
-📺 Eli the Computer Guy
+📺 Michael Bordenaro
 
-👁️ 13K • 👍 630 • 💬 166 • ⏱️ 15:15 • 1d ago
+👁️ 55K • 👍 4K • 💬 1K • ⏱️ 26:21 • 1d ago
+
+---
+
+**[Ancient scrolls unread for 2,000 years revealed with AI](https://www.youtube.com/watch?v=hcTnaI_djHQ)**
+
+Researchers used AI and “virtual unwrapping” to reveal never-before-seen texts inside charred Roman scrolls buried by Mount ...
+
+📺 NBC News
+
+👁️ 378K • 👍 6K • 💬 898 • ⏱️ 3:00 • 2d ago
+
+---
+
+**[Grok AI Finally Reveals Who Really Built the Pyramids — The Proof Is Shocking!](https://www.youtube.com/watch?v=h2woqiXtdVc)**
+
+Discover the latest discussion surrounding one of history's greatest mysteries: who really built the pyramids? In this video, we ...
+
+📺 The Ultimate Finding
+
+👁️ 5K • 👍 178 • 💬 12 • ⏱️ 25:28 • 1d ago
+
+---
+
+**[AI News: NotebookLM Update; Gemini Study Notebooks; Claude Design 2.0; and ChatGPT Is Now Better!!](https://www.youtube.com/watch?v=JfxLTPAjGgg)**
+
+Try Lovart Today: https://www.lovart.ai/?sourceId=902604 Every week I bring you the latest AI news. This week I show you some ...
+
+📺 Paul J Lipsky
+
+👁️ 35K • 👍 1K • 💬 75 • ⏱️ 17:03 • 1d ago
 
 ---
 
@@ -385,7 +390,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 212,760 • ❤️ 1,134 • 3d ago
+⬇️ 212,760 • ❤️ 1,149 • 3d ago
 
 ---
 
@@ -397,7 +402,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 98,994 • ❤️ 2,670 • 4d ago
+⬇️ 98,994 • ❤️ 2,691 • 5d ago
 
 ---
 
@@ -409,7 +414,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 712,627 • ❤️ 670 • 15h ago
+⬇️ 712,627 • ❤️ 681 • 20h ago
 
 ---
 
@@ -421,7 +426,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 206,828 • ❤️ 728 • 8d ago
+⬇️ 206,828 • ❤️ 738 • 8d ago
 
 ---
 
@@ -433,7 +438,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 30,298 • ❤️ 485 • 3d ago
+⬇️ 30,298 • ❤️ 492 • 3d ago
 
 ---
 
@@ -445,7 +450,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 536,130 • ❤️ 2,424 • 8d ago
+⬇️ 536,130 • ❤️ 2,431 • 9d ago
 
 ---
 
@@ -457,7 +462,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 18,872 • ❤️ 356 • 2d ago
+⬇️ 18,872 • ❤️ 364 • 2d ago
 
 ---
 
@@ -469,7 +474,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 20,266 • ❤️ 314 • 2d ago
+⬇️ 20,266 • ❤️ 335 • 2d ago
 
 ---
 
@@ -481,19 +486,19 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 17,445 • ❤️ 309 • 4d ago
+⬇️ 17,445 • ❤️ 314 • 4d ago
 
 ---
 
-**[VibeThinker-3B](https://huggingface.co/WeiboAI/VibeThinker-3B)**
+**[Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF)**
 
-*WeiboAI*
+*DeepReinforce*
 
-VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable reasoning tasks like mathematics and coding, achieving competitive performance on benchmarks such as IMO-AnswerBench and LeetCode contests. It excels at multi-step reasoning, constraint satisfaction, and answer verification, but is not recommended for tool-calling or agent-based programming.
+Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for agentic coding tasks, excelling in benchmarks like Terminal-Bench and SWE-Bench. It utilizes a self-improving RL framework to generate high-quality code solutions and search trajectories, making it suitable for efficient single-GPU deployment.
 
-`text-generation` `3.1B`
+`text-generation` `9.0B`
 
-⬇️ 57,521 • ❤️ 742 • 8d ago
+⬇️ 11,034 • ❤️ 225 • 2d ago
 
 ---
 
@@ -509,7 +514,7 @@ VibeThinker-3B is a 3B-parameter text-generation model optimized for verifiable 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 37 • 💬 4 • ⭐ 11,011 • 6d ago
+▲ 38 • 💬 4 • ⭐ 11,011 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -522,7 +527,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 174 • 💬 2 • ⭐ 70,889 • 9mo ago
+▲ 174 • 💬 2 • ⭐ 71,034 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -546,7 +551,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 8 • 💬 1 • ⭐ 9,308 • 5mo ago
+▲ 8 • 💬 1 • ⭐ 9,406 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -558,7 +563,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 37 • 💬 1 • ⭐ 25,747 • 32mo ago
+▲ 37 • 💬 1 • ⭐ 25,833 • 32mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -574,6 +579,20 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 60 • 💬 1 • ⭐ 84,571 • 33mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 21 • 💬 2 • ⭐ 7,834 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -599,7 +618,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 23 • 💬 1 • ⭐ 84,033 • 26d ago
+▲ 23 • 💬 1 • ⭐ 84,067 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
@@ -613,21 +632,9 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 Language-based world models enable agentic environment simulation across multiple domains and enhance general agent performance through scalable simulation and improved downstream task performance.
 
-▲ 135 • 💬 4 • ⭐ 585 • 5d ago
+▲ 136 • 💬 4 • ⭐ 599 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.24597) • [💻 code](https://github.com/QwenLM/Qwen-AgentWorld)
-
----
-
-**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
-
-*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
-
-GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
-
-▲ 188 • 💬 6 • ⭐ 5,601 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
 ---
 
@@ -641,7 +648,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.6k • 🔱 10.2k • 2h ago
+⭐ 78.7k • 🔱 10.3k • 4h ago
 
 ---
 
@@ -651,7 +658,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 61.7k • 🔱 3.2k • 1d ago
+⭐ 62.0k • 🔱 3.2k • 2d ago
 
 ---
 
@@ -661,17 +668,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 10.9k • 🔱 1.0k • 6h ago
-
----
-
-**[StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)**
-
-The end of web parsing. The beginning of scalable pixel-native search.
-
-`Python` `agent` `ai` `memory` `multimodal` `rag`
-
-⭐ 5.5k • 🔱 432 • 10h ago
+⭐ 10.9k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -681,7 +678,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.1k • 🔱 636 • 3h ago
+⭐ 5.1k • 🔱 640 • 31m ago
 
 ---
 
@@ -691,7 +688,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 3.2k • 🔱 430 • 8h ago
+⭐ 3.3k • 🔱 437 • 13h ago
 
 ---
 
@@ -701,7 +698,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.1k • 🔱 147 • 5d ago
+⭐ 2.1k • 🔱 151 • 5d ago
 
 ---
 
@@ -711,7 +708,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.8k • 🔱 159 • 8h ago
+⭐ 1.9k • 🔱 162 • 13h ago
 
 ---
 
@@ -732,6 +729,16 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 `Shell` `apple-intelligence`
 
 ⭐ 1.6k • 🔱 86 • 14d ago
+
+---
+
+**[inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)**
+
+Beautiful, AI-native markdown editor and LLM Wiki
+
+`TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
+
+⭐ 1.4k • 🔱 56 • 2h ago
 
 ---
 

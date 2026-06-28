@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T00:03:05.217342+00:00'
+updated: '2026-06-28T05:02:15.531948+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 00:03 UTC  
+**Last Updated:** June 28, 2026 at 05:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -8.9%  
-**30d:** -22.2%  
-**90d:** -25.3%  
-**1y:** -37.1%  
+**24h:** -0.5%  
+**7d:** -8.8%  
+**30d:** -22.1%  
+**90d:** -25.2%  
+**1y:** -37.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.98B
+**Market Cap:** $189.70B
 Rank #2
 
-**Circulating Supply:** 120,683,513 ETH
+**Circulating Supply:** 120,683,492 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -68.2%
 
 **All-Time Low:** $0.43
-+363432.6%
++362961.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -136,7 +136,7 @@ Ethereum’s new research venture seems like a two-sided sword as the globe’s 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 2d ago
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 19h ago
 
 The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -188,15 +188,7 @@ The Block • 1d ago
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 7h ago
-
----
-
-**[AMLBot Puts Polymarket Phishing Toll at $3.1M Across 11 Wallets, Funds Traced to Ethereum](https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum)**
-
-AMLBot confirms the Polymarket phishing breach reached $3.1M in PUSD stolen from 11 wallets, with funds bridged from Polygon to Ethereum and converted to roughly 1,893 ETH. Polymarket has pledged full refunds.
-
-thedefiant.io • 5h ago
+TradingView • 12h ago
 
 ---
 
@@ -208,11 +200,11 @@ Coinbase • 1d ago
 
 ---
 
-**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
+**[3 Reasons Ethereum Is Still a Buy Despite the Competition](https://www.fool.com/investing/2026/06/25/why-ethereum-is-still-a-buy-despite-competition/)**
 
-Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
+There are always bumps in the road. Ethereum's strong developer community, utility, and reliability will help it navigate them.
 
-Coinpedia • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -224,11 +216,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slides to a fresh yearly low, ETH breaks down, XRP signals more losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slides-to-a-fresh-yearly-low-eth-breaks-down-xrp-signals-more-losses-202606260415)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under heavy selling pressure on Friday, falling over 7%, 9% and 8%, respectively, so far this week. BTC has fallen to a fresh yearly low, ETH slipped below key support, while XRP continues to lose momentum.
 
-FXStreet • 1d ago
+FXStreet • 2d ago
+
+---
+
+**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
+
+Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
+
+Coinpedia • 2d ago
 
 ---
 
@@ -236,13 +236,13 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bullish Alert: The Bitcoin Signal Nobody Is Talking About (BTC, ETH, XRP, ADA, HYPE, LINK)](https://www.youtube.com/watch?v=rfZdAb0OHDg)**
+**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
 
-No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is the alarm bell. In this video I walk through why the ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Gareth Soloway
+📺 Cilinix Crypto
 
-👁️ 48K • 👍 4K • 💬 339 • ⏱️ 13:19 • 10h ago
+👁️ 252 • 👍 17 • 💬 5 • ⏱️ 5:07 • 17h ago
 
 ---
 
@@ -252,27 +252,7 @@ BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 121 • 💬 52 • ⏱️ 27:53 • 1d ago
-
----
-
-**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 188 • 👍 15 • 💬 25 • ⏱️ 5:07 • 12h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vqTo4LX11Ls)**
-
-BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 238 • 💬 172 • ⏱️ 18:14 • 6h ago
+👁️ 3K • 👍 126 • 💬 43 • ⏱️ 27:53 • 1d ago
 
 ---
 
@@ -282,7 +262,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 451 • 💬 60 • ⏱️ 19:47 • 2d ago
+👁️ 17K • 👍 458 • 💬 36 • ⏱️ 19:47 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vqTo4LX11Ls)**
+
+BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 332 • 💬 140 • ⏱️ 18:14 • 11h ago
 
 ---
 
@@ -292,17 +282,7 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 203 • 💬 12 • ⏱️ 9:04 • 1d ago
-
----
-
-**[Bitcoin Sub $23K &amp; ETH Sub $600? P&amp;F Downside Targets + ADA DEVASTATION &amp; MSTR Pain Ahead!](https://www.youtube.com/watch?v=hldggcxAK80)**
-
-Book a free virtual call with us here: http://marketsniper.me/2OJbM4Y https://themarketsniper.com Join our Free trading course ...
-
-📺 The Crypto Sniper
-
-👁️ 8K • 👍 504 • 💬 121 • ⏱️ 32:05 • 1d ago
+👁️ 5K • 👍 209 • 💬 14 • ⏱️ 9:04 • 1d ago
 
 ---
 
@@ -312,7 +292,7 @@ The Ethereum Foundation is cratering. What does that mean for Ethereum price? Wh
 
 📺 Dana Love, PhD
 
-👁️ 17K • 👍 909 • 💬 139 • ⏱️ 13:22 • 2d ago
+👁️ 18K • 👍 920 • 💬 140 • ⏱️ 13:22 • 2d ago
 
 ---
 
@@ -322,15 +302,37 @@ OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are 
 
 📺 Bankless
 
-👁️ 8K • 👍 241 • 💬 40 • ⏱️ 1:04:00 • 1d ago
+👁️ 8K • 👍 245 • 💬 40 • ⏱️ 1:04:00 • 1d ago
 
 ---
 
-**[XRP Overtakes Ethereum #xrp #crypto @digitalassetinvestor](https://www.youtube.com/watch?v=r3KEVrVaBIU)**
+**[Why Ethereum’s Potential Hasn’t Come True Yet](https://www.youtube.com/watch?v=u1eyGeuN2aI)**
 
-📺 Digital Asset Investor
+In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum's earliest builders, explains why AI agents could ...
 
-👁️ 16K • 👍 826 • ⏱️ 0:27 • 1d ago
+📺 Cointelegraph
+
+👁️ 3K • 👍 92 • 💬 5 • ⏱️ 11:21 • 2d ago
+
+---
+
+**[MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50,000 SOON?](https://www.youtube.com/watch?v=9sN71TeilV4)**
+
+MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapital (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 357 • 💬 37 • ⏱️ 31:39 • 2d ago
+
+---
+
+**[Bitcoin Sub $23K &amp; ETH Sub $600? P&amp;F Downside Targets + ADA DEVASTATION &amp; MSTR Pain Ahead!](https://www.youtube.com/watch?v=hldggcxAK80)**
+
+Book a free virtual call with us here: http://marketsniper.me/2OJbM4Y https://themarketsniper.com Join our Free trading course ...
+
+📺 The Crypto Sniper
+
+👁️ 8K • 👍 513 • 💬 124 • ⏱️ 32:05 • 1d ago
 
 ---
 
