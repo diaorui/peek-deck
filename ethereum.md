@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T22:02:44.981487+00:00'
+updated: '2026-06-28T23:38:25.009475+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 22:02 UTC  
+**Last Updated:** June 28, 2026 at 23:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -9.0%  
-**30d:** -22.2%  
-**90d:** -25.4%  
-**1y:** -37.1%  
+**24h:** +0.1%  
+**7d:** -8.8%  
+**30d:** -22.0%  
+**90d:** -25.2%  
+**1y:** -37.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.63B
+**Market Cap:** $189.90B
 Rank #2
 
 **Circulating Supply:** 120,683,492 ETH
@@ -62,7 +62,7 @@ No max supply
 -68.2%
 
 **All-Time Low:** $0.43
-+362813.7%
++363333.3%
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 3d ago
 
 The crypto market has slipped again over the past month, and two of the most-watched coins have fallen with it. XRP (CRYPTO:XRP) is down about 20%, and Ethereum (CRYPTO:ETH) has dropped by roughly the same. So, if you’ve got cash waiting for a pullback, both are on sale right now. But the coins being cheaper ... XRP vs Ethereum: Which Is the Better Dip to Buy Right Now?
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -200,19 +200,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum ETF Sees Investor Chill as Outflows Hit Nearly $63 Million](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-sees-investor-chill-as-outflows-hit-nearly-63-million)**
-
-Ethereum ETF Sees Investor Chill as Outflows Hit Nearly $63 Million The iShares Ethereum Trust ETF, ETHA, recorded a sharp daily outflow of $62.99 million on June 2...
-
-TipRanks • 10h ago
-
----
-
 **[Ethereum Price Slips 4% As Investors Liquidate Positions](https://dmarketforces.com/ethereum-price-slips-4-as-investors-liquidate-positions/)**
 
 Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
 
 MarketForces Africa • 3d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html)**
+
+Bitcoin opened at $59,706.75 on Friday, June 26, 2026, down 2.1% from Thursday's opening price. Ethereum opened at $1,564.86 on Friday, down 3.4% from Thursday's opening price.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -224,9 +224,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html)**
+**[Sharplink Resumes Ethereum Purchases](https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html)**
 
-Bitcoin opened at $59,706.75 on Friday, June 26, 2026, down 2.1% from Thursday's opening price. Ethereum opened at $1,564.86 on Friday, down 3.4% from Thursday's opening price.
+For the first time in eight months, crypto treasury firm Sharplink (NASDAQ: $SBET) has bought Ethereum (CRYPTO: $ET...
 
 Yahoo Finance • 2d ago
 
@@ -242,7 +242,17 @@ Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 2K • 👍 159 • 💬 4 • ⏱️ 1:06 • 4h ago
+👁️ 4K • 👍 223 • 💬 9 • ⏱️ 1:06 • 6h ago
+
+---
+
+**[XRP SURPASSES ETHEREUM BECAUSE OF THE USA! THIS WILL BLOW YOUR MIND!!](https://www.youtube.com/watch?v=ZYJUr-E24ZU)**
+
+Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC document and what it means for your crypto holdings.
+
+📺 Crypto Sensei
+
+👁️ 5K • 👍 503 • 💬 58 • ⏱️ 21:39 • 2h ago
 
 ---
 
@@ -252,47 +262,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 164 • 👍 11 • 💬 24 • ⏱️ 11:28 • 7h ago
+👁️ 205 • 👍 11 • 💬 18 • ⏱️ 11:28 • 8h ago
 
 ---
 
-**[🚨 BMNR &amp; ETH: WHAT EVERYONE IS MISSING | SBET UPDATE](https://www.youtube.com/watch?v=UoLddx14ytU)**
+**[BITCOIN: This Is Why I’m BUYING! (exact plan) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=xCUWgufJSzo)**
 
-BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech/ Discord: ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Big Time Trades
+📺 BitcoinHyper
 
-👁️ 3K • 👍 136 • 💬 45 • ⏱️ 27:53 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN HOLDERS: PREPARE NOW (Bullish Divergence)!!! - Bitcoin News, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vqTo4LX11Ls)**
-
-BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish Divergence)!!! - Bitcoin News, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 397 • 💬 226 • ⏱️ 18:14 • 1d ago
-
----
-
-**[Bitcoin Below $60K: Michael Saylor Is Running Out of Moves](https://www.youtube.com/watch?v=BbOvbGQSb_A)**
-
-OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are bleeding as Bitcoin breaks below ...
-
-📺 Bankless
-
-👁️ 10K • 👍 264 • 💬 58 • ⏱️ 1:04:00 • 2d ago
-
----
-
-**[Bullish Alert: The Bitcoin Signal Nobody Is Talking About (BTC, ETH, XRP, ADA, HYPE, LINK)](https://www.youtube.com/watch?v=rfZdAb0OHDg)**
-
-No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is the alarm bell. In this video I walk through why the ...
-
-📺 Gareth Soloway
-
-👁️ 80K • 👍 5K • 💬 556 • ⏱️ 13:19 • 1d ago
+👁️ 3K • 👍 235 • 💬 23 • ⏱️ 51:41 • 3h ago
 
 ---
 
@@ -302,27 +282,27 @@ CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link
 
 📺 Sagar Sinha 
 
-👁️ 32K • 👍 2K • 💬 363 • ⏱️ 21:19 • 7h ago
+👁️ 37K • 👍 2K • 💬 374 • ⏱️ 21:19 • 8h ago
 
 ---
 
-**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
+**[🚨 BMNR &amp; ETH: WHAT EVERYONE IS MISSING | SBET UPDATE](https://www.youtube.com/watch?v=UoLddx14ytU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech/ Discord: ...
 
-📺 Cilinix Crypto
+📺 Big Time Trades
 
-👁️ 352 • 👍 20 • 💬 34 • ⏱️ 5:07 • 1d ago
+👁️ 3K • 👍 137 • 💬 45 • ⏱️ 27:53 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=CRHOw54PQLA)**
+**[Bullish Alert: The Bitcoin Signal Nobody Is Talking About (BTC, ETH, XRP, ADA, HYPE, LINK)](https://www.youtube.com/watch?v=rfZdAb0OHDg)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is the alarm bell. In this video I walk through why the ...
 
-📺 Crypto Gyan
+📺 Gareth Soloway
 
-👁️ 2K • 👍 127 • ⏱️ 7:08 • 18h ago
+👁️ 81K • 👍 5K • 💬 538 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -333,6 +313,26 @@ In this video I break down the latest Elliott Wave analysis for Ethereum and eva
 📺 More Crypto Online
 
 👁️ 5K • 👍 214 • 💬 16 • ⏱️ 9:04 • 2d ago
+
+---
+
+**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 357 • 👍 20 • 💬 23 • ⏱️ 5:07 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=CRHOw54PQLA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 2K • 👍 127 • ⏱️ 7:08 • 20h ago
 
 ---
 

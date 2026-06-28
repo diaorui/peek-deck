@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T22:02:44.984698+00:00'
+updated: '2026-06-28T23:38:25.012277+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 22:02 UTC  
+**Last Updated:** June 28, 2026 at 23:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-21h ago
+23h ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -62,7 +62,7 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-18h ago
+19h ago
 
 ---
 
@@ -100,7 +100,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 19h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 21h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 2d ago
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -136,7 +136,7 @@ Financial Times • 11h ago
 
 Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -144,7 +144,7 @@ CoinDesk • 9h ago
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 3d ago
 
 Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
 
-Futurism • 8h ago
+Futurism • 9h ago
 
 ---
 
@@ -170,15 +170,15 @@ Futurism • 8h ago
 
 An experiment rolling out robots to keep the elderly company is showing surprising results.
 
-The Boston Globe • 19h ago
+The Boston Globe • 16h ago
 
 ---
 
-**[Schools In US To Introduce AI-Powered Humanoid Robots As Teaching Partners](https://www.ndtv.com/world-news/schools-in-us-to-introduce-ai-powered-humanoid-robots-as-teaching-partners-11695879)**
+**[AI, robots push South Korean plant near 100% on-time delivery](https://www.upi.com/Top_News/World-News/2026/06/28/ai-robots-factory-on-time-delivery/2421782688673/)**
 
-While school officials have described the initiative as a step toward the future of learning.
+HD Hyundai Electric uses AI planning and robots to achieve near-perfect delivery rates while expanding circuit-breaker output in South Korea.
 
-NDTV • 1d ago
+upi.com • 16m ago
 
 ---
 
@@ -198,17 +198,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 46K • 👍 3K • 💬 1K • ⏱️ 13:18 • 10h ago
-
----
-
-**[China&#39;s T800 (Terminator) Has Entered the US #robotics #robot #engineai](https://www.youtube.com/watch?v=b10WaBjDMDQ)**
-
-China's Terminator has entered the US. The San Francisco startup REK, short for Robot Entertainment Kombat, says it has the ...
-
-📺 Kalil 4.0
-
-👁️ 668 • 👍 36 • 💬 3 • ⏱️ 1:01 • 3h ago
+👁️ 53K • 👍 4K • 💬 1K • ⏱️ 13:18 • 11h ago
 
 ---
 
@@ -218,7 +208,17 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 331K • 👍 10K • 💬 872 • ⏱️ 24:13 • 1d ago
+👁️ 361K • 👍 11K • 💬 964 • ⏱️ 24:13 • 1d ago
+
+---
+
+**[China&#39;s T800 (Terminator) Has Entered the US #robotics #robot #engineai](https://www.youtube.com/watch?v=b10WaBjDMDQ)**
+
+China's Terminator has entered the US. The San Francisco startup REK, short for Robot Entertainment Kombat, says it has the ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 61 • 💬 5 • ⏱️ 1:01 • 5h ago
 
 ---
 
@@ -228,15 +228,7 @@ FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facili
 
 📺 Fox Business
 
-👁️ 6K • 👍 197 • 💬 78 • ⏱️ 3:03 • 1d ago
-
----
-
-**[Ideas recolección de objetos #legorobotics #first #legoleague #legorobotics #stem #shorts #robotics](https://www.youtube.com/watch?v=_IhQ6OL6les)**
-
-📺 Bloque a Bloque con Luz
-
-👁️ 825 • 👍 2 • ⏱️ 0:21 • 8h ago
+👁️ 6K • 👍 200 • 💬 82 • ⏱️ 3:03 • 1d ago
 
 ---
 
@@ -256,37 +248,45 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 📺 FOX 5 New York
 
-👁️ 6K • 👍 16 • 💬 7 • ⏱️ 2:07 • 4d ago
+👁️ 6K • 👍 16 • 💬 7 • ⏱️ 2:07 • 5d ago
 
 ---
 
-**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
+**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
 
-Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
+This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
 
-📺 PRO ROBOTS
+📺 Talent Replay
 
-👁️ 37K • 👍 244 • 💬 8 • ⏱️ 11:29 • 5d ago
-
----
-
-**[The world&#39;s first three-in-one EAI robotics education ecosystem from Faraday Future at Automate 2026](https://www.youtube.com/watch?v=cvLz0-SN6I8)**
-
-Automate2026 #Robotics #EmbodiedAI Learn more here: https://www.ff.com/?creator_id=Terrence Your AI Robots are available ...
-
-📺 DaPoets
-
-👁️ 562 • 👍 47 • 💬 13 • ⏱️ 1:49 • 6h ago
+👁️ 42K • 👍 406 • 💬 18 • ⏱️ 39:57 • 1d ago
 
 ---
 
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+**[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)**
 
-Your Smart Robot Companion.
+Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma runs on hardware like Raspberry Pi, ...
 
-📺 Unitree Robotics
+📺 Google for Developers
 
-👁️ 2.5M • 👍 2K • 💬 539 • ⏱️ 0:31 • 4d ago
+👁️ 16K • 👍 508 • 💬 22 • ⏱️ 2:53 • 2d ago
+
+---
+
+**[HUMANOID ROBOT PREDICTS THE WORLD CUP](https://www.youtube.com/watch?v=iwDhFC8kcn4)**
+
+We sat down with Sophia the Robot to get her official FIFA World Cup predictions… and things did NOT go how we planned.
+
+📺 Habibi Squad
+
+👁️ 24K • 👍 1K • 💬 231 • ⏱️ 19:16 • 1d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=VUBpdYykKrk)**
+
+📺 Borunte julie 
+
+👁️ 22K • 👍 49 • 💬 1 • ⏱️ 0:23 • 22h ago
 
 ---
 
