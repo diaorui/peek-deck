@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-28T12:55:46.062973+00:00'
+updated: '2026-06-28T14:49:21.874937+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 12:55 UTC  
+**Last Updated:** June 28, 2026 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,966.09
+### $60,096.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -5.9%  
-**30d:** -18.4%  
-**90d:** -11.8%  
-**1y:** -44.3%  
+**24h:** -1.2%  
+**7d:** -6.1%  
+**30d:** -18.6%  
+**90d:** -12.0%  
+**1y:** -44.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1205.64B
+**Market Cap:** $1202.98B
 Rank #1
 
-**Circulating Supply:** 20,049,340 BTC
+**Circulating Supply:** 20,049,378 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--52.3%
+-52.4%
 
 **All-Time Low:** $67.81
-+88577.2%
++88388.4%
 
 ---
 
@@ -161,31 +161,11 @@ It’s funny, when bitcoin goes down, it’s the only asset they claim has died 
 
 ## Google News: "bitcoin"
 
-**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
+**[Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss](https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss)**
 
-The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
+The token is down nearly 7% on the week with the altcoins falling harder. Bitcoin and ether are both ending the second quarter in the red, a back-to-back losing first half that runs against the usual pattern.
 
-The Motley Fool • 12h ago
-
----
-
-**[BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down](https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down)**
-
-Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.
-
-CoinDesk • 18h ago
-
----
-
-**[Bitcoin has crashed 99% before in 2011. But, it's still here.](https://finance.yahoo.com/video/bitcoin-crashed-99-2011-still-120000298.html)**
-
-As bitcoin (BTC-USD) continues to hover around $60,000 per token, Scott Melker discusses the digital asset's prior crashes — including falling by as much as 99% in 2011 — and why crypto traders shouldn't be discouraged now.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 55m ago
+CoinDesk • 7h ago
 
 ---
 
@@ -193,7 +173,7 @@ Yahoo Finance • 55m ago
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -201,7 +181,7 @@ CNBC • 1d ago
 
 Jeremy Grantham says Bitcoin is 'proof of unnecessary work' and predicts crypto will dwindle over decades.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -209,37 +189,47 @@ Yahoo Finance • 19h ago
 
 Jeremy Grantham says Bitcoin will fade away, but a prediction without a timeframe, catalyst or risk framework offers investors little practical value.
 
-Forbes • 19h ago
+Forbes • 21h ago
 
 ---
 
-**[Wall Street Veteran Calls Bitcoin, Gold And Silver Selloff A 'Debasement Capitulation' As Home Prices Stall](https://finance.yahoo.com/markets/crypto/articles/wall-street-veteran-calls-bitcoin-111455154.html)**
+**[Bitcoin Has Had a Terrible 2026. What Can Make the Second Half of the Year Better?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-had-terrible-2026-second-124000363.html)**
 
-Jordi Visser remains bullish on crypto, saying AI agents and tokenization could unlock a new growth phase.
+The price of the world's largest cryptocurrency has been in slow decline through the first half of 2026,
 
-Yahoo Finance • 1h ago
-
----
-
-**[Michael Saylor’s Bitcoin Treasury Strategy Has Finally Hit Its Breaking Point](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-bitcoin-treasury-strategy-121716177.html)**
-
-Bitcoin (CRYPTO:BTC) transformed from a niche digital asset into a mainstream investment over the past decade, and few people did more to accelerate that shift than Michael Saylor. By turning Strategy (NASDAQ:MSTR) (formerly MicroStrategy) into what he called a “bitcoin treasury company,” he created a blueprint that dozens of others rushed to copy. During bitcoin’s ... Michael Saylor’s Bitcoin Treasury Strategy Has Finally Hit Its Breaking Point
-
-Yahoo Finance • 38m ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
 
-NewsNation • 8h ago
+NewsNation • 10h ago
 
 ---
 
-**[Michael Saylor's Strategy faces no easy way out as bitcoin prices continue to drop](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)**
+**[Bitcoin’s Biggest Corporate Buyer Reels as Funding Edge Vanishes](https://www.bloomberg.com/news/articles/2026-06-26/bitcoin-s-biggest-corporate-buyer-reels-as-funding-edge-vanishes)**
 
-Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
+Michael Saylor’s great crypto experiment is fast running out of believers.
 
-Yahoo Finance • 2d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin holds above $60,000 as Strategy’s funding model faces growing scrutiny](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-strategys-funding-model-faces-growing-scrutiny-4763957)**
+
+Investing.com • 1d ago
+
+---
+
+**[Strategy Stock Mired In Worst Losing Streak Since Late 2022 as Bitcoin Under $60,000](https://www.barrons.com/articles/strategy-stock-losing-streak-bitcoin-cf524664)**
+
+Barron's • 1d ago
+
+---
+
+**[Bitcoin holds above $60,000 as ETF outflows, Fed outlook weigh on sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-etf-outflows-fed-outlook-weigh-on-sentiment-4764074)**
+
+Investing.com • 5h ago
 
 ---
 
@@ -259,7 +249,7 @@ Price of world’s most actively traded digital asset falls below $60,000 amid s
 
 Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
 
-⬆️ 6 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
+⬆️ 6 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
 
 ---
 
@@ -336,7 +326,17 @@ Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: http
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 115 • ⏱️ 10:53 • 13h ago
+👁️ 28K • 👍 2K • 💬 128 • ⏱️ 10:53 • 15h ago
+
+---
+
+**[I Just Longed Bitcoin &amp; 6 Altcoins (FULL SET UPS)](https://www.youtube.com/watch?v=q7ji96LZHmM)**
+
+A major crypto market rally is on its way, and Sheldon wants his community to be prepared. Right now, Bitcoin is building the ...
+
+📺 Crypto Banter
+
+👁️ 1K • 👍 157 • 💬 8 • ⏱️ 12:29 • 49m ago
 
 ---
 
@@ -346,7 +346,7 @@ Bitcoin just broke down again — falling below $60k to levels we haven't seen i
 
 📺 Eurodollar University
 
-👁️ 23K • 👍 906 • 💬 119 • ⏱️ 22:54 • 14h ago
+👁️ 29K • 👍 1K • 💬 136 • ⏱️ 22:54 • 16h ago
 
 ---
 
@@ -356,7 +356,7 @@ Welcome back! In this video, I'm sharing why bitcoin is hovering around $60K & p
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 251 • 💬 116 • ⏱️ 8:33 • 10h ago
+👁️ 5K • 👍 324 • 💬 127 • ⏱️ 8:33 • 12h ago
 
 ---
 
@@ -366,7 +366,27 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 306 • ⏱️ 16:08 • 1d ago
+👁️ 26K • 👍 2K • 💬 301 • ⏱️ 16:08 • 1d ago
+
+---
+
+**[How BlackRock Is Quietly Taking Over Bitcoin](https://www.youtube.com/watch?v=ndt2OukXjZ4)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 4K • 👍 358 • 💬 53 • ⏱️ 19:24 • 2h ago
+
+---
+
+**[Saylor Was Installed To Steal Your Bitcoin [And It&#39;s Working] | Simon Dixon](https://www.youtube.com/watch?v=ytlzrOg7NOA)**
+
+FULL EPISODE: youtu.be/Aza4GAjQffw Simon Dixon is making his most explosive claim yet — that Michael Saylor wasn't just a ...
+
+📺 BTC Sessions
+
+👁️ 10K • 👍 613 • 💬 280 • ⏱️ 15:48 • 22h ago
 
 ---
 
@@ -376,17 +396,17 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 298 • ⏱️ 15:20 • 20h ago
+👁️ 19K • 👍 1K • 💬 305 • ⏱️ 15:20 • 22h ago
 
 ---
 
-**[Why Are Bitcoin &amp; AI Stocks CRASHING?!](https://www.youtube.com/watch?v=LkU3fhWnfxU)**
+**[Bitcoin Is About To Surprise Everyone](https://www.youtube.com/watch?v=avT570csad4)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Bitcoin Is About To Surprise Everyone Want access to the Platinum Group? Join here: ...
 
-📺 Anthony Pompliano
+📺 Mister Crypto
 
-👁️ 48K • 👍 3K • 💬 91 • ⏱️ 45:39 • 23h ago
+👁️ 2K • 👍 138 • 💬 20 • ⏱️ 15:37 • 5h ago
 
 ---
 
@@ -396,37 +416,7 @@ Bitcoin just broke below its 200-week moving average, Strategy's STRC is crackin
 
 📺 Simply Bitcoin
 
-👁️ 60K • 👍 4K • 💬 518 • ⏱️ 20:52 • 2d ago
-
----
-
-**[Michael Saylor BOMBSHELL! All Hell Just Hit Bitcoin &amp; Crypto!!](https://www.youtube.com/watch?v=NHI3HGNmkUw)**
-
-BOMBSHELL: Everyone is watching Saylor like a ticking time bomb.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 361 • ⏱️ 11:42 • 2d ago
-
----
-
-**[Bullish Alert: The Bitcoin Signal Nobody Is Talking About (BTC, ETH, XRP, ADA, HYPE, LINK)](https://www.youtube.com/watch?v=rfZdAb0OHDg)**
-
-No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is the alarm bell. In this video I walk through why the ...
-
-📺 Gareth Soloway
-
-👁️ 70K • 👍 5K • 💬 593 • ⏱️ 13:19 • 22h ago
-
----
-
-**[Michael Saylor is going down alongside bitcoin](https://www.youtube.com/watch?v=P3IpAnVD4xw)**
-
-Michael Saylor is going down alongside bitcoin #bitcoin #crypto #stockmarket #business #finance.
-
-📺 RealJonahBlake
-
-👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:38 • 15h ago
+👁️ 60K • 👍 4K • 💬 543 • ⏱️ 20:52 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-28T12:55:46.054271+00:00'
+updated: '2026-06-28T14:49:21.868878+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 28, 2026 at 12:55 UTC  
+**Last Updated:** June 28, 2026 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What does AI do when no-one's watching?](https://www.reddit.com/r/artificial/comments/1uhuwp8/what_does_ai_do_when_noones_watching/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/Grc8n0suMGU?si=YegwWJQ35Y1yZxzc) • 1h ago
-
----
-
 **[So now scraping data without permission is bad for AI training all of sudden?](https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/)**
 
 Oh .... the irony!
@@ -53,9 +45,25 @@ Oh .... the irony!
 
 ---
 
+**[What AI capability do you think is still surprisingly underdeveloped?](https://www.reddit.com/r/artificial/comments/1uhz5h0/what_ai_capability_do_you_think_is_still/)**
+
+We've seen huge progress in coding assistants, image generation, reasoning, and voice AI over the last few years. But what's one capability that you expected AI to be much better at by now, yet still feels disappointing? For me, it's long-term memory and maintaining context across complex, ongoing tasks. It has improved, but it still isn't as seamless as I'd hoped.
+
+3m ago
+
+---
+
+**[Which model is the most worthy of the big names?](https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/)**
+
+Hi all! I'm a little bit confused by all the benchmark results, the cheatings and whatnot, so I was wondering about which model do you guys think is the best one to subscribe to from the big names. Which one do you think is the best for everyday tasks, reasoning, coding, etc and why do you think that? For example, Google Gemini is 20 bucks, but comes with 5TB of storage and an agentic system, claude is similar but does not have a storage part, etc.
+
+22m ago
+
+---
+
 **[I have it on good authority that Google are going to be hit with export controls soon.](https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -63,7 +71,7 @@ Oh .... the irony!
 
 I’ve been testing different AI tools in real business workflows, mostly for writing, research, content planning, and repetitive office tasks. One thing I noticed is that demos usually look impressive, but daily use often fails in small places: inconsistent output, lack of context, too much manual checking, or poor integration with existing workflows. For people using AI at work, what is the biggest gap you see between demo videos and real productivity?
 
-9h ago
+11h ago
 
 ---
 
@@ -71,7 +79,7 @@ I’ve been testing different AI tools in real business workflows, mostly for wr
 
 What if Codex + Claude Design were put together in one app and that app was OPEN SOURCE? Here it is. Row-Bot
 
-🔗 [GitHub](https://github.com/siddsachar/row-bot) • 40m ago
+🔗 [GitHub](https://github.com/siddsachar/row-bot) • 2h ago
 
 ---
 
@@ -79,7 +87,15 @@ What if Codex + Claude Design were put together in one app and that app was OPEN
 
 Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.
 
-16h ago
+18h ago
+
+---
+
+**[What does AI do when no-one's watching?](https://www.reddit.com/r/artificial/comments/1uhuwp8/what_does_ai_do_when_noones_watching/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/Grc8n0suMGU?si=YegwWJQ35Y1yZxzc) • 3h ago
 
 ---
 
@@ -87,7 +103,7 @@ Some people are now using AI to write emails, messages, essays, and even persona
 
 Well I guess we are stuck with 8 hours per day 5 days per week job forever and ever. And when I say 8 hours I´m not counting 1 of lunch our and the trips to the company. In that case would be 11 hours per day out of home.....Well at least when we gona have 75 years we can be free and live life. We might not have energy but well....
 
-1h ago
+3h ago
 
 ---
 
@@ -95,23 +111,7 @@ Well I guess we are stuck with 8 hours per day 5 days per week job forever and e
 
 hos gusta? no tengo feedback y no se cuan dificil es hacer algo asi, no he estudiado ni tengo conocimientos tecnicos al uso, solo curiosidad y ganas heheheh
 
-2h ago
-
----
-
-**[The AI frontier just got locked behind government approval, and most of us aren’t on the list](https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/)**
-
-Something happened in the last two weeks that didn’t get nearly enough attention outside of tech circles. Anthropic released what are reportedly their most capable models yet, Fable 5 and Mythos 5. The Trump administration then ordered Anthropic to ban all foreign nationals from accessing them, citing cybersecurity concerns. Anthropic’s response? They shut down access entirely, saying they couldn’t reliably enforce a “foreign nationals only” restriction. The reason these models are so sensitive: they apparently have an unprecedented ability to identify software vulnerabilities. Not just theoretically, but at a level that genuinely alarmed the US government. Yesterday, OpenAI released GPT-5.6, a three-model family (Sol, Terra, and Luna). But it’s not available to you. Or me. Or probably anyone reading this. It’s limited to a small group of “trusted partners” whose identities have been shared with the US government, at the administration’s explicit request. OpenAI themselves said they’re uncomfortable with this arrangement: “We don’t believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.” So let’s be clear about where we are: the most powerful AI models in existence are now effectively state-controlled assets. They’re not products you can access, they’re capabilities being rationed by a government. For those of us building outside the US, the message is pretty direct: the frontier is no longer public. What’s your read on this? Is this legitimate national security caution or the beginning of something more permanent?
-
-22h ago
-
----
-
-**[I spent a weekend going deep on AI video tools and now I can't stop thinking about what entertainment looks like in 5 years](https://www.reddit.com/r/artificial/comments/1uht8sf/i_spent_a_weekend_going_deep_on_ai_video_tools/)**
-
-I'm not a filmmaker. I'm just someone who pays close attention to AI and last weekend I ended up spending about 14 hours going down a rabbit hole of AI video generation tools, specifically Seedance. What started as curiosity turned into one of those 2am moments where you're staring at the ceiling thinking about something you can't turn off. I started running some rough math. Game of Thrones cost somewhere between $6 and $15 million per episode at its peak. The production crew alone was enormous, hundreds of VFX artists, 170 named cast members, location shoots across six countries. The revenue that show generated across HBO subscriptions, merchandise, licensing deals, and syndication rights has been estimated at over $10 billion over its lifetime. That $10 billion was distributed across thousands of people. Unions, studios, distributors, residuals, network deals. Now I'm watching Seedance generate 10-second cinematic clips from text prompts. It's not perfect. The motion artifacts are visible if you're looking for them and the consistency over longer sequences still breaks down. But here's the thing, that's where it is today. These models don't plateau. They iterate every few months. Two or three generations from now, what does this look like? A team of 10 to 20 people with a good story, a strong visual direction, and a few hundred thousand dollars instead of a few hundred million. The rights stay with them. The royalties stay with them. Every dollar the IP earns compounds back to the same small group. Everyone building in AI right now is either making SaaS tools or foundation models. The opportunity that almost nobody is talking about is IP. Building the next Disney or the next MAPPA with a fraction of the infrastructure. I don't know if I'm early or just wrong. But I genuinely cannot stop thinking about it. Has anyone else been looking at where AI video generation goes for entertainment specifically?
-
-2h ago
+4h ago
 
 ---
 
@@ -119,51 +119,59 @@ I'm not a filmmaker. I'm just someone who pays close attention to AI and last we
 
 ## Google News: "ai"
 
+**[China Has Matched Anthropic in Cybersecurity, Resetting AI Race](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2)**
+
+WSJ • 13h ago
+
+---
+
 **[Opinion | Can America Avoid a Jack Ma Moment?](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
 
 ---
 
-**[AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns](https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4?syn-25a6b1a6=1)**
+**[Apple’s Sweeping Price Increases Bring Home the Costs of the AI Era](https://www.bloomberg.com/news/newsletters/2026-06-28/apple-s-sweeping-price-hikes-bring-the-ai-era-home-m6-m7-touch-macbook-pro)**
 
-Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy
+The latest on the smart glasses competition.
 
-Financial Times • 3h ago
-
----
-
-**[BIS says debt, AI boom and fragilities raise global risks](https://www.reuters.com/business/finance/global-markets-bis-pix-2026-06-28/)**
-
-Reuters • 3h ago
+Bloomberg.com • 49m ago
 
 ---
 
-**[AI Bust Risks Ripple Effects From Growth to Credit, BIS Says](https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says)**
+**[I don't hide my use of AI. I want my kids to see how I use it to make life easier.](https://www.yahoo.com/lifestyle/articles/dont-hide-ai-want-kids-140202135.html)**
 
-Bloomberg.com • 3h ago
+I use AI at baseball games, on family trips, and for work. My kids are learning how to think critically about it.
 
----
-
-**[How AI helped the FBI investigate the White House Correspondents' Dinner attack](https://www.axios.com/2026/06/28/ai-fbi-whcd-attack-investigation)**
-
-Axios • 55m ago
+Yahoo • 47m ago
 
 ---
 
-**[AI-Generated Fake Receipts Are Changing Expense Fraud](https://www.forbes.com/sites/jamesbroughel/2026/06/28/ai-generated-fake-receipts-are-changing-expense-fraud/)**
+**[WA lawmakers should regulate AI data center development](https://www.seattletimes.com/opinion/editorials/wa-lawmakers-should-regulate-ai-data-center-development/)**
 
-AI-generated fake receipts are making expense fraud cheaper, easier, and harder to detect, forcing companies to rethink how they verify employee claims.
-
-Forbes • 59m ago
+The Seattle Times • 49m ago
 
 ---
 
-**[This CEO became 3x more productive with AI. Then she read what her daughter wrote about it at Dartmouth](https://fortune.com/2026/06/28/ai-productivity-ceo-syndio-colacurcio-daughter-dartmouth-cognitive-surrender/)**
+**[Google limits Meta’s use of its Gemini AI models, FT reports](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)**
 
-As Maria Colacurcio embraced AI to transform how she works, her daughter Sofia Frei began questioning what society might lose in the process.
+Meta had sought more computing capacity than Google could provide, the Financial Times reports.
 
-Fortune • 25m ago
+CNBC • 4h ago
+
+---
+
+**[Google caps Meta’s Gemini use as AI demand strains capacity](https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378?syn-25a6b1a6=1)**
+
+Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
+
+Financial Times • 10h ago
+
+---
+
+**[Google rations AI capacity to Meta as infrastructure crunch intensifies: FT (GOOG:NASDAQ)](https://seekingalpha.com/news/4607892-google-rations-ai-capacity-to-meta-as-infrastructure-crunch-intensifies-ft)**
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -171,7 +179,7 @@ Fortune • 25m ago
 
 What will differentiate people is not how smart they are but their relationship to mental effort.
 
-The Atlantic • 2h ago
+The Atlantic • 4h ago
 
 ---
 
@@ -179,15 +187,7 @@ The Atlantic • 2h ago
 
 A papyrus scroll that was burned and carbonized when Mount Vesuvius erupted almost 2,000 years ago has been virtually unrolled and partially deciphered with the help of artificial intelligence.
 
-CNN • 1d ago
-
----
-
-**[Why tech firms are raising PC and console prices - and blaming AI for chip costs](https://www.bbc.com/news/articles/cd95k584pzqo)**
-
-Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.
-
-BBC • 13h ago
+CNN • 2d ago
 
 ---
 
@@ -205,7 +205,7 @@ BBC • 13h ago
 
 The move comes the same day as a new OpenAI model sees a limited release.
 
-⬆️ 546 • 💬 766 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+⬆️ 547 • 💬 769 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -223,17 +223,17 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 ---
 
-**[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://news.ycombinator.com/item?id=48676795)**
-
-⬆️ 313 • 💬 375 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
-
----
-
 **[The best response to AI slop and online noise is from Robin Williams](https://news.ycombinator.com/item?id=48703452)**
 
 There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area
 
-⬆️ 289 • 💬 154 • 11h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
+⬆️ 323 • 💬 174 • 13h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
+
+---
+
+**[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://news.ycombinator.com/item?id=48676795)**
+
+⬆️ 313 • 💬 375 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 
 ---
 
@@ -241,7 +241,15 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
-⬆️ 251 • 💬 183 • 23h ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+⬆️ 256 • 💬 186 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+
+---
+
+**[Ford hired AI and sacked humans. It backfired badly](https://news.ycombinator.com/item?id=48703968)**
+
+‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker
+
+⬆️ 213 • 💬 155 • 11h ago • [The Independent](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 
 ---
 
@@ -251,19 +259,11 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 ---
 
-**[Ford hired AI and sacked humans. It backfired badly](https://news.ycombinator.com/item?id=48703968)**
-
-‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker
-
-⬆️ 210 • 💬 150 • 9h ago • [The Independent](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
-
----
-
 **[AI in mathematics is forcing big questions](https://news.ycombinator.com/item?id=48692883)**
 
 Researchers debate motivation, purpose, and the field’s future
 
-⬆️ 202 • 💬 173 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
+⬆️ 202 • 💬 174 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
 
 ---
 
@@ -271,23 +271,23 @@ Researchers debate motivation, purpose, and the field’s future
 
 ## YouTube Videos: "ai"
 
-**[The Wealth Backlash Is Coming + The Political Tsunami Coming For AI](https://www.youtube.com/watch?v=l24O1Wvlb8M)**
-
-Mike Novogratz is sounding the alarm this week. If the ultra-wealthy don't figure out a way to share the gains from AI, the pitchforks ...
-
-📺 Anthony Scaramucci
-
-👁️ 92K • 👍 3K • 💬 1K • ⏱️ 37:01 • 20h ago
-
----
-
 **[GPT 5.6 Sol Just Blew Up The AI World](https://www.youtube.com/watch?v=_AoyQcIoquA)**
 
 OpenAI just launched GPT 5.6, but this is not a normal release. Access is limited to trusted partners after U.S. government ...
 
 📺 AI Revolution
 
-👁️ 19K • 👍 772 • 💬 123 • ⏱️ 15:44 • 14h ago
+👁️ 24K • 👍 871 • 💬 136 • ⏱️ 15:44 • 16h ago
+
+---
+
+**[GPT 5.6, Mythos ban lifted, realtime avatars, Seedance 2.5, brain ultrasound: AI NEWS](https://www.youtube.com/watch?v=7c_ieWfAbrw)**
+
+HUGE AI news: Seedance 2.5, Happyhorse 1.1, GPT5.6, Seed 2.1, Krea 2 & more. Thanks to our sponsor Higgsfield.
+
+📺 AI Search
+
+👁️ 83K • 👍 3K • 💬 420 • ⏱️ 42:43 • 11h ago
 
 ---
 
@@ -297,27 +297,17 @@ Generate AI Videos & Images with ZERO RESTRICTIONS In this video we look 4 new a
 
 📺 Brain Project
 
-👁️ 7K • 👍 488 • 💬 124 • ⏱️ 19:40 • 21h ago
+👁️ 9K • 👍 579 • 💬 162 • ⏱️ 19:40 • 23h ago
 
 ---
 
-**[Google&#39;s New Release Just Fixed AI Systems ](https://www.youtube.com/watch?v=k4sMSsMzX2g)**
+**[The Wealth Backlash Is Coming + The Political Tsunami Coming For AI](https://www.youtube.com/watch?v=l24O1Wvlb8M)**
 
-Your second brain breaks down at scale, and running it like a Claude OS doesn't fix it. In this video we break down Google's Open ...
+Mike Novogratz is sounding the alarm this week. If the ultra-wealthy don't figure out a way to share the gains from AI, the pitchforks ...
 
-📺 AI LABS
+📺 Anthony Scaramucci
 
-👁️ 25K • 👍 801 • 💬 24 • ⏱️ 11:54 • 1d ago
-
----
-
-**[Why the AI Era Will End Sooner Than You Think](https://www.youtube.com/watch?v=dtFu7baviTQ)**
-
-Everyone keeps talking about the AI era like it's just beginning. But I think the public AI boom may end much sooner than people ...
-
-📺 Coding with Dee
-
-👁️ 26K • 👍 2K • 💬 339 • ⏱️ 7:31 • 1d ago
+👁️ 99K • 👍 3K • 💬 1K • ⏱️ 37:01 • 22h ago
 
 ---
 
@@ -327,27 +317,47 @@ Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and
 
 📺 Matt Wolfe
 
-👁️ 78K • 👍 3K • 💬 188 • ⏱️ 20:01 • 1d ago
+👁️ 80K • 👍 3K • 💬 189 • ⏱️ 20:01 • 1d ago
 
 ---
 
-**[How the “AI Dollar” Replaced the Petrodollar](https://www.youtube.com/watch?v=Fv2kRW9v1xo)**
+**[Google&#39;s New Release Just Fixed AI Systems ](https://www.youtube.com/watch?v=k4sMSsMzX2g)**
 
-Order a copy of our magazine Too Long: https://toolong.news/TL008 A new class of economies is enjoying bumper surpluses: ...
+Your second brain breaks down at scale, and running it like a Claude OS doesn't fix it. In this video we break down Google's Open ...
 
-📺 TLDR News Global
+📺 AI LABS
 
-👁️ 91K • 👍 3K • 💬 337 • ⏱️ 8:23 • 1d ago
+👁️ 27K • 👍 860 • 💬 25 • ⏱️ 11:54 • 2d ago
 
 ---
 
-**[They’re Creating a God With AI 😳](https://www.youtube.com/watch?v=5zhMOkvDdTY)**
+**[Claude&#39;s New Update Is Scarier Than You Think (+18 AI Updates)](https://www.youtube.com/watch?v=65RvB3Xta0E)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
+Get every tool, link, and step-by-step guide in our Staying Ahead community (free): https://links.stayingahead.com/YT51 OpenAI's ...
 
-📺 Shawn Ryan Show
+📺 Vaibhav Sisinty
 
-👁️ 85K • 👍 3K • 💬 219 • ⏱️ 0:57 • 1d ago
+👁️ 41K • 👍 1K • 💬 74 • ⏱️ 30:59 • 9h ago
+
+---
+
+**[The Dinosaur Ai Slop has returned!](https://www.youtube.com/watch?v=UMGk2w0gx2A)**
+
+It's back and it's weirder then ever! TigerMan: @XSEIDET Get your Plushies here: https://thegamingbeaver.store/ Join The ...
+
+📺 TheGamingBeaver
+
+👁️ 73K • 👍 6K • 💬 639 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[Atheist vs AI Jesus](https://www.youtube.com/watch?v=vLxyXDOGPgs)**
+
+Go to groundnews.com/emmathorne for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide ...
+
+📺 Emma Thorne
+
+👁️ 45K • 👍 4K • 💬 2K • ⏱️ 48:15 • 21h ago
 
 ---
 
@@ -357,17 +367,7 @@ Zhipu's GLM 5.2 dropped last week and Silicon Valley noticed immediately. The Ch
 
 📺 CNBC
 
-👁️ 75K • 👍 1K • 💬 402 • ⏱️ 52:20 • 1d ago
-
----
-
-**[Z.ai Chinese AI Comparable to OpenAI and Anthropic - China Tech Beating USA Sanctions](https://www.youtube.com/watch?v=B2N5DC6qkI0)**
-
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
-
-📺 Eli the Computer Guy
-
-👁️ 14K • 👍 655 • 💬 172 • ⏱️ 15:15 • 1d ago
+👁️ 82K • 👍 2K • 💬 433 • ⏱️ 52:20 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 295,064 • ❤️ 1,172 • 6h ago
+⬇️ 295,064 • ❤️ 1,191 • 8h ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 118,651 • ❤️ 2,724 • 5d ago
+⬇️ 118,651 • ❤️ 2,749 • 5d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 831,529 • ❤️ 702 • 1d ago
+⬇️ 831,529 • ❤️ 720 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 225,822 • ❤️ 749 • 9d ago
+⬇️ 225,822 • ❤️ 767 • 9d ago
 
 ---
 
@@ -431,7 +431,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 52,492 • ❤️ 506 • 3d ago
+⬇️ 52,492 • ❤️ 511 • 3d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 23,697 • ❤️ 376 • 3d ago
+⬇️ 23,697 • ❤️ 381 • 3d ago
 
 ---
 
@@ -455,7 +455,7 @@ A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chai
 
 `text-generation` `11.9B`
 
-⬇️ 549,926 • ❤️ 2,442 • 9d ago
+⬇️ 549,926 • ❤️ 2,457 • 9d ago
 
 ---
 
@@ -467,7 +467,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 79,630 • ❤️ 352 • 2d ago
+⬇️ 79,630 • ❤️ 367 • 3d ago
 
 ---
 
@@ -479,7 +479,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 27,631 • ❤️ 331 • 4d ago
+⬇️ 27,631 • ❤️ 337 • 4d ago
 
 ---
 
@@ -491,7 +491,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 36,846 • ❤️ 237 • 2d ago
+⬇️ 36,846 • ❤️ 251 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 38 • 💬 4 • ⭐ 11,174 • 6d ago
+▲ 38 • 💬 5 • ⭐ 11,174 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -520,7 +520,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 174 • 💬 2 • ⭐ 71,034 • 9mo ago
+▲ 174 • 💬 2 • ⭐ 71,214 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -562,6 +562,20 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 21 • 💬 2 • ⭐ 7,972 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -572,20 +586,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 60 • 💬 1 • ⭐ 84,621 • 34mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 21 • 💬 2 • ⭐ 7,834 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -641,7 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.8k • 🔱 10.3k • 2h ago
+⭐ 78.8k • 🔱 10.3k • 19m ago
 
 ---
 
@@ -651,7 +651,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 62.6k • 🔱 3.2k • 2d ago
+⭐ 63.1k • 🔱 3.2k • 2d ago
 
 ---
 
@@ -661,7 +661,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.0k • 🔱 1.1k • 5h ago
+⭐ 11.0k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -671,7 +671,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.2k • 🔱 650 • 5h ago
+⭐ 5.2k • 🔱 652 • 1h ago
 
 ---
 
@@ -681,7 +681,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 3.5k • 🔱 458 • 20h ago
+⭐ 3.5k • 🔱 467 • 22h ago
 
 ---
 
@@ -691,7 +691,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.1k • 🔱 156 • 5h ago
+⭐ 2.1k • 🔱 156 • 7h ago
 
 ---
 
@@ -701,7 +701,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.9k • 🔱 166 • 21h ago
+⭐ 1.9k • 🔱 168 • 23h ago
 
 ---
 
@@ -711,7 +711,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 150 • 1d ago
+⭐ 1.7k • 🔱 150 • 2d ago
 
 ---
 
@@ -731,7 +731,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.4k • 🔱 57 • 4h ago
+⭐ 1.4k • 🔱 60 • 6h ago
 
 ---
 

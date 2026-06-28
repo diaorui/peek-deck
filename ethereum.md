@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T12:55:46.069326+00:00'
+updated: '2026-06-28T14:49:21.879052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 12:55 UTC  
+**Last Updated:** June 28, 2026 at 14:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -8.4%  
-**30d:** -21.7%  
-**90d:** -24.9%  
-**1y:** -36.7%  
+**24h:** -1.2%  
+**7d:** -8.3%  
+**30d:** -21.6%  
+**90d:** -24.8%  
+**1y:** -36.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $190.31B
+**Market Cap:** $190.76B
 Rank #2
 
 **Circulating Supply:** 120,683,492 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.1%
+-68.0%
 
 **All-Time Low:** $0.43
-+364028.5%
++364996.2%
 
 ---
 
@@ -160,6 +160,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%](https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum)**
+
+Bitcoin touched its lowest price in 21 months early Thursday—and prediction market users don't see the crypto carnage ceasing imminently.
+
+Decrypt • 2d ago
+
+---
+
 **[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
@@ -168,19 +176,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
-
-The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
-
-The Block • 2d ago
-
----
-
 **[Whale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum](https://www.tradingview.com/news/newsbtc:bef72199b094b:0-whale-activity-shows-high-leverage-short-positions-re-opened-on-bitcoin-and-ethereum/)**
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 19h ago
+TradingView • 21h ago
 
 ---
 
@@ -192,6 +192,14 @@ BeInCrypto • 2d ago
 
 ---
 
+**[Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst](https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months)**
+
+The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.
+
+The Block • 2d ago
+
+---
+
 **[3 Reasons Ethereum Is Still a Buy Despite the Competition](https://www.fool.com/investing/2026/06/25/why-ethereum-is-still-a-buy-despite-competition/)**
 
 There are always bumps in the road. Ethereum's strong developer community, utility, and reliability will help it navigate them.
@@ -200,19 +208,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue](https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue)**
+**[Tom Lee’s Big Ethereum Bet Backfires as BMNR and BMNP Plunge](https://www.benzinga.com/crypto/26/06/60146210/tom-lees-big-ethereum-bet-backfires-as-bmnr-and-bmnp-plunge)**
 
-Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.
+Tom Lee made a big bet in Ethereum, acquiring over 5.6 million coins since July last year, but he has lost substantial sums of money.
 
-Decrypt • 2d ago
-
----
-
-**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
-
-Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
-
-Coinpedia • 2d ago
+Benzinga • 17h ago
 
 ---
 
@@ -220,15 +220,15 @@ Coinpedia • 2d ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as investors pulled roughly $5.48 million from the ETH fund on June 26, 2026. The redemption, whil...
 
-TipRanks • 2h ago
+TipRanks • 4h ago
 
 ---
 
-**[Ethereum Price Slips 4% As Investors Liquidate Positions](https://dmarketforces.com/ethereum-price-slips-4-as-investors-liquidate-positions/)**
+**[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
 
-Ethereum (ETH) price declined by 4% to $1,556 on Thursday, underperforming a broadly weaker crypto market and primarily driven by a risk-off rota
+Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
 
-MarketForces Africa • 2d ago
+Coinpedia • 3d ago
 
 ---
 
@@ -236,23 +236,13 @@ MarketForces Africa • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee :“I’ve Never Seen A Setup Like This Before” [Realistic Bitcoin Prediction 2026]](https://www.youtube.com/watch?v=V-Nhts6M48U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 467 • 💬 59 • ⏱️ 19:47 • 2d ago
-
----
-
 **[🚨 BMNR &amp; ETH: WHAT EVERYONE IS MISSING | SBET UPDATE](https://www.youtube.com/watch?v=UoLddx14ytU)**
 
 BMNR & ETH: WHAT EVERYONE IS MISSING | SBET UPDATE MaxFi: https://www.maxfi.tech/ Discord: ...
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 130 • 💬 44 • ⏱️ 27:53 • 1d ago
+👁️ 3K • 👍 131 • 💬 45 • ⏱️ 27:53 • 1d ago
 
 ---
 
@@ -262,7 +252,7 @@ OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS --- Markets are 
 
 📺 Bankless
 
-👁️ 9K • 👍 253 • 💬 42 • ⏱️ 1:04:00 • 2d ago
+👁️ 9K • 👍 259 • 💬 44 • ⏱️ 1:04:00 • 2d ago
 
 ---
 
@@ -272,47 +262,7 @@ No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 5K • 💬 593 • ⏱️ 13:19 • 22h ago
-
----
-
-**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 311 • 👍 18 • 💬 136 • ⏱️ 5:07 • 1d ago
-
----
-
-**[MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50,000 SOON?](https://www.youtube.com/watch?v=9sN71TeilV4)**
-
-MEGA XRP FLIPS ETHEREUM IN 2026! Bitcoin Crashes Below $50000 SOON? iTrustCapital (Partner) ...
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 360 • 💬 37 • ⏱️ 31:39 • 2d ago
-
----
-
-**[Why Ethereum’s Potential Hasn’t Come True Yet](https://www.youtube.com/watch?v=u1eyGeuN2aI)**
-
-In this conversation, Karl Floersch, co-founder of Optimism and one of Ethereum's earliest builders, explains why AI agents could ...
-
-📺 Cointelegraph
-
-👁️ 4K • 👍 93 • 💬 5 • ⏱️ 11:21 • 2d ago
-
----
-
-**[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
-
-The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
-
-📺 Dana Love, PhD
-
-👁️ 18K • 👍 930 • 💬 140 • ⏱️ 13:22 • 2d ago
+👁️ 74K • 👍 5K • 💬 600 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -322,17 +272,67 @@ BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 365 • 💬 290 • ⏱️ 18:14 • 18h ago
+👁️ 9K • 👍 382 • 💬 289 • ⏱️ 18:14 • 20h ago
 
 ---
 
-**[Bitcoin Sub $23K &amp; ETH Sub $600? P&amp;F Downside Targets + ADA DEVASTATION &amp; MSTR Pain Ahead!](https://www.youtube.com/watch?v=hldggcxAK80)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=CRHOw54PQLA)**
 
-Book a free virtual call with us here: http://marketsniper.me/2OJbM4Y https://themarketsniper.com Join our Free trading course ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 The Crypto Sniper
+📺 Crypto Gyan
 
-👁️ 9K • 👍 527 • 💬 165 • ⏱️ 32:05 • 2d ago
+👁️ 2K • 👍 111 • ⏱️ 7:08 • 11h ago
+
+---
+
+**[Tom Lee :“I’ve Never Seen A Setup Like This Before” [Realistic Bitcoin Prediction 2026]](https://www.youtube.com/watch?v=V-Nhts6M48U)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 471 • 💬 59 • ⏱️ 19:47 • 2d ago
+
+---
+
+**[Will ETH Recover Next Week? (Ethereum Update)](https://www.youtube.com/watch?v=tmMp1xarI0Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 338 • 👍 19 • 💬 130 • ⏱️ 5:07 • 1d ago
+
+---
+
+**[Ethereum Foundation Craters, Reveals Huge Opportunity | Dana Love, PhD](https://www.youtube.com/watch?v=4l8D3VJF428)**
+
+The Ethereum Foundation is cratering. What does that mean for Ethereum price? What does that mean for the future of the ...
+
+📺 Dana Love, PhD
+
+👁️ 18K • 👍 938 • 💬 103 • ⏱️ 13:22 • 2d ago
+
+---
+
+**[Ethereum&#39;s NEW Strategy: Price Alignment &amp; Real Demand #shorts](https://www.youtube.com/watch?v=vCV6DkXh2w8)**
+
+The Ethereum Foundation's approach to ETH pricing wasn't accidental; it was a deliberate design. Budget cuts now force a shift ...
+
+📺 Dana Love, PhD
+
+👁️ 152 • 👍 8 • 💬 1 • ⏱️ 1:13 • 36m ago
+
+---
+
+**[Why Ethereum Could Be Primed for a Major Correction](https://www.youtube.com/watch?v=ZuaXtjh6-t8)**
+
+In this video I break down the latest Elliott Wave analysis for Ethereum and evaluate the potential for a deeper correction toward ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 211 • 💬 16 • ⏱️ 9:04 • 1d ago
 
 ---
 
