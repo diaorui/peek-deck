@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T19:21:10.532307+00:00'
+updated: '2026-06-28T20:41:41.329217+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 19:21 UTC  
+**Last Updated:** June 28, 2026 at 20:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-19h ago
+20h ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -56,13 +56,13 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 **[3D Model Gallery for 3D ROV Exploring Game](https://www.reddit.com/r/robotics/comments/1uhchq7/3d_model_gallery_for_3d_rov_exploring_game/)**
 
-23h ago
+1d ago
 
 ---
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -86,13 +86,13 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-15h ago
+17h ago
 
 ---
 
 **[Go2 repair help.](https://www.reddit.com/r/robotics/comments/1uhed0o/go2_repair_help/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -100,7 +100,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 17h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 18h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -124,11 +124,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8)**
+**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -136,7 +136,7 @@ Financial Times • 8h ago
 
 Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -146,15 +146,7 @@ Agility Robotics (AGRO.PVT) is the developer behind the "Digit", a bipedal human
 
 Agility Robotics CEO Peggy Johnson dives into the types of labor roles her company's robots could take on.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
-
-Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
-
-Futurism • 5h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -162,15 +154,15 @@ Futurism • 5h ago
 
 An experiment rolling out robots to keep the elderly company is showing surprising results.
 
-The Boston Globe • 16h ago
+The Boston Globe • 17h ago
 
 ---
 
-**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
+**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
 
-Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
+Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
 
-Silicon Canals • 1d ago
+Futurism • 6h ago
 
 ---
 
@@ -179,6 +171,12 @@ Silicon Canals • 1d ago
 While school officials have described the initiative as a step toward the future of learning.
 
 NDTV • 1d ago
+
+---
+
+**[Watch Inside Disney’s Push to Upgrade Its Theme Parks With Robots](https://www.bloomberg.com/news/videos/2026-06-26/inside-disney-s-push-to-upgrade-its-theme-parks-with-robots)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -198,7 +196,17 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 33K • 👍 3K • 💬 1K • ⏱️ 13:18 • 7h ago
+👁️ 46K • 👍 3K • 💬 1K • ⏱️ 13:18 • 8h ago
+
+---
+
+**[China&#39;s T800 (Terminator) Has Entered the US #robotics #robot #engineai](https://www.youtube.com/watch?v=b10WaBjDMDQ)**
+
+China's Terminator has entered the US. The San Francisco startup REK, short for Robot Entertainment Kombat, says it has the ...
+
+📺 Kalil 4.0
+
+👁️ 668 • 👍 36 • 💬 3 • ⏱️ 1:01 • 2h ago
 
 ---
 
@@ -208,7 +216,17 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 304K • 👍 9K • 💬 791 • ⏱️ 24:13 • 1d ago
+👁️ 331K • 👍 10K • 💬 872 • ⏱️ 24:13 • 1d ago
+
+---
+
+**[Amazon’s $1 BILLION bet on robots is changing lives](https://www.youtube.com/watch?v=4xVeuLfCdj8)**
+
+FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facility, showcasing the Proteus robot. Subscribe to ...
+
+📺 Fox Business
+
+👁️ 6K • 👍 197 • 💬 78 • ⏱️ 3:03 • 1d ago
 
 ---
 
@@ -216,7 +234,17 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Bloque a Bloque con Luz
 
-👁️ 590 • 👍 2 • ⏱️ 0:21 • 6h ago
+👁️ 825 • 👍 2 • ⏱️ 0:21 • 7h ago
+
+---
+
+**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+
+China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+
+📺 AI Revolution
+
+👁️ 76K • 👍 2K • 💬 254 • ⏱️ 13:45 • 6d ago
 
 ---
 
@@ -230,23 +258,13 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 ---
 
-**[Manni FINALLY tries the NEW ROBOT: VULCAN in War Robts](https://www.youtube.com/watch?v=dCeAs-Abbx0)**
+**[The Most Advanced Robot Hand in the World - TARS DexHand](https://www.youtube.com/watch?v=oKKcazQ260Q)**
 
-Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now and get 5 days of Captain's Seal (+40% XP/Gold) ...
+Threading a soft, flexible wire thinner than a millimeter into a tiny connector, For over forty years, this precision task remained the ...
 
-📺 Manni-Gaming
+📺 PRO ROBOTS
 
-👁️ 13K • 👍 507 • 💬 134 • ⏱️ 19:38 • 1d ago
-
----
-
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
-
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
-
-📺 AI Revolution
-
-👁️ 75K • 👍 2K • 💬 253 • ⏱️ 13:45 • 6d ago
+👁️ 37K • 👍 244 • 💬 8 • ⏱️ 11:29 • 5d ago
 
 ---
 
@@ -256,27 +274,7 @@ Automate2026 #Robotics #EmbodiedAI Learn more here: https://www.ff.com/?creator_
 
 📺 DaPoets
 
-👁️ 361 • 👍 23 • 💬 9 • ⏱️ 1:49 • 3h ago
-
----
-
-**[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)**
-
-Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma runs on hardware like Raspberry Pi, ...
-
-📺 Google for Developers
-
-👁️ 15K • 👍 488 • 💬 22 • ⏱️ 2:53 • 2d ago
-
----
-
-**[Deep Robotics&#39; DR02  Humanoid Robot Gets More Agile!](https://www.youtube.com/watch?v=-9gp1eSVVgw)**
-
-The DEEP Robotics DR02 keeps getting smarter, faster, and more agile. Watch its latest evolution as it demonstrates smoother ...
-
-📺 DPCcars
-
-👁️ 6K • 👍 60 • 💬 11 • ⏱️ 1:46 • 1d ago
+👁️ 562 • 👍 47 • 💬 13 • ⏱️ 1:49 • 5h ago
 
 ---
 
@@ -286,7 +284,7 @@ Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 2.4M • 👍 2K • 💬 537 • ⏱️ 0:31 • 4d ago
+👁️ 2.5M • 👍 2K • 💬 539 • ⏱️ 0:31 • 4d ago
 
 ---
 
