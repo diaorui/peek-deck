@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-28T11:08:08.095129+00:00'
+updated: '2026-06-28T12:55:46.054271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 28, 2026 at 11:08 UTC  
+**Last Updated:** June 28, 2026 at 12:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[What does AI do when no-one's watching?](https://www.reddit.com/r/artificial/comments/1uhuwp8/what_does_ai_do_when_noones_watching/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/Grc8n0suMGU?si=YegwWJQ35Y1yZxzc) • 1h ago
+
+---
+
 **[So now scraping data without permission is bad for AI training all of sudden?](https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/)**
 
 Oh .... the irony!
@@ -45,17 +53,25 @@ Oh .... the irony!
 
 ---
 
+**[I have it on good authority that Google are going to be hit with export controls soon.](https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/)**
+
+23h ago
+
+---
+
 **[What’s the biggest gap between AI tool demos and actual daily use?](https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/)**
 
 I’ve been testing different AI tools in real business workflows, mostly for writing, research, content planning, and repetitive office tasks. One thing I noticed is that demos usually look impressive, but daily use often fails in small places: inconsistent output, lack of context, too much manual checking, or poor integration with existing workflows. For people using AI at work, what is the biggest gap you see between demo videos and real productivity?
 
-7h ago
+9h ago
 
 ---
 
-**[I have it on good authority that Google are going to be hit with export controls soon.](https://www.reddit.com/r/artificial/comments/1uh2fc5/i_have_it_on_good_authority_that_google_are_going/)**
+**[Open-Source Local-first Codex + Claude Design](https://www.reddit.com/r/artificial/comments/1uhvsf1/opensource_localfirst_codex_claude_design/)**
 
-21h ago
+What if Codex + Claude Design were put together in one app and that app was OPEN SOURCE? Here it is. Row-Bot
+
+🔗 [GitHub](https://github.com/siddsachar/row-bot) • 40m ago
 
 ---
 
@@ -63,7 +79,15 @@ I’ve been testing different AI tools in real business workflows, mostly for wr
 
 Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.
 
-14h ago
+16h ago
+
+---
+
+**[I wish job hours would be reworked or updated with AI. But for the image below I guess not?](https://www.reddit.com/r/artificial/comments/1uhuosp/i_wish_job_hours_would_be_reworked_or_updated/)**
+
+Well I guess we are stuck with 8 hours per day 5 days per week job forever and ever. And when I say 8 hours I´m not counting 1 of lunch our and the trips to the company. In that case would be 11 hours per day out of home.....Well at least when we gona have 75 years we can be free and live life. We might not have energy but well....
+
+1h ago
 
 ---
 
@@ -71,7 +95,7 @@ Some people are now using AI to write emails, messages, essays, and even persona
 
 hos gusta? no tengo feedback y no se cuan dificil es hacer algo asi, no he estudiado ni tengo conocimientos tecnicos al uso, solo curiosidad y ganas heheheh
 
-29m ago
+2h ago
 
 ---
 
@@ -79,7 +103,7 @@ hos gusta? no tengo feedback y no se cuan dificil es hacer algo asi, no he estud
 
 Something happened in the last two weeks that didn’t get nearly enough attention outside of tech circles. Anthropic released what are reportedly their most capable models yet, Fable 5 and Mythos 5. The Trump administration then ordered Anthropic to ban all foreign nationals from accessing them, citing cybersecurity concerns. Anthropic’s response? They shut down access entirely, saying they couldn’t reliably enforce a “foreign nationals only” restriction. The reason these models are so sensitive: they apparently have an unprecedented ability to identify software vulnerabilities. Not just theoretically, but at a level that genuinely alarmed the US government. Yesterday, OpenAI released GPT-5.6, a three-model family (Sol, Terra, and Luna). But it’s not available to you. Or me. Or probably anyone reading this. It’s limited to a small group of “trusted partners” whose identities have been shared with the US government, at the administration’s explicit request. OpenAI themselves said they’re uncomfortable with this arrangement: “We don’t believe this kind of government access process should become the long-term default. It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.” So let’s be clear about where we are: the most powerful AI models in existence are now effectively state-controlled assets. They’re not products you can access, they’re capabilities being rationed by a government. For those of us building outside the US, the message is pretty direct: the frontier is no longer public. What’s your read on this? Is this legitimate national security caution or the beginning of something more permanent?
 
-20h ago
+22h ago
 
 ---
 
@@ -87,36 +111,7 @@ Something happened in the last two weeks that didn’t get nearly enough attenti
 
 I'm not a filmmaker. I'm just someone who pays close attention to AI and last weekend I ended up spending about 14 hours going down a rabbit hole of AI video generation tools, specifically Seedance. What started as curiosity turned into one of those 2am moments where you're staring at the ceiling thinking about something you can't turn off. I started running some rough math. Game of Thrones cost somewhere between $6 and $15 million per episode at its peak. The production crew alone was enormous, hundreds of VFX artists, 170 named cast members, location shoots across six countries. The revenue that show generated across HBO subscriptions, merchandise, licensing deals, and syndication rights has been estimated at over $10 billion over its lifetime. That $10 billion was distributed across thousands of people. Unions, studios, distributors, residuals, network deals. Now I'm watching Seedance generate 10-second cinematic clips from text prompts. It's not perfect. The motion artifacts are visible if you're looking for them and the consistency over longer sequences still breaks down. But here's the thing, that's where it is today. These models don't plateau. They iterate every few months. Two or three generations from now, what does this look like? A team of 10 to 20 people with a good story, a strong visual direction, and a few hundred thousand dollars instead of a few hundred million. The rights stay with them. The royalties stay with them. Every dollar the IP earns compounds back to the same small group. Everyone building in AI right now is either making SaaS tools or foundation models. The opportunity that almost nobody is talking about is IP. Building the next Disney or the next MAPPA with a fraction of the infrastructure. I don't know if I'm early or just wrong. But I genuinely cannot stop thinking about it. Has anyone else been looking at where AI video generation goes for entertainment specifically?
 
-1h ago
-
----
-
-**[What's one AI capability you think is still massively underrated?](https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/)**
-
-We hear a lot about AI generating text, images, and code, but I feel some of its most useful capabilities don't get much attention. For me, AI has been surprisingly helpful for breaking down complex topics, organizing messy information, and speeding up research. Those aren't the flashy features that make headlines, but they've had the biggest impact on my day-to-day work. What's one AI capability or use case that you think deserves more recognition? I'm interested in hearing about practical examples rather than the usual "AI can do everything" answers.
-
-19h ago
-
----
-
-**[Koboldcpp v1.116 released](https://www.reddit.com/r/artificial/comments/1uhix4f/koboldcpp_v1116_released/)**
-
-koboldcpp-1.116
-
-
-NEW: Added Krea 2 Turbo support (Recommended). This is an extremely powerful image generation model with incredible knowledge.
-
-Grab and load the Krea 2 Turbo template containing ...
-
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.116) • 10h ago
-
----
-
-**[Are we locked on a path to AGI/ASI in our lifetime?](https://www.reddit.com/r/artificial/comments/1uh5mnv/are_we_locked_on_a_path_to_agiasi_in_our_lifetime/)**
-
-I have noticed that from the last time I checked up on AI discourse a few months ago, everyone has seemingly shifted to thinking that AGI and shortly after ASI are foregone conclusions. I don't know much about the internals of the actual field and was wondering if any actual AI experts here could walk me through what is actually going on. From what I have been reading, we are guaranteed to reach AGI in a decade at most, and after that, the AGIs can make the ASI (like in the paper google recently put out). The ASI then never really stops self-improving, and that is a terrifying prospect. And with something so smart, alignment is essentially impossible. Is this actually the general consensus for what's going to happen? If so, why? Are there any better ways to research what is going on? Because I have just been google "will/when will ASI happen." The results I've been getting all skew completely towards "yes, and soon." Claude and Gemini also both say ASI is happening soon. Are the chances of it happening increasing? or decreasing? I'm also somewhat scared of agentic AI. How does that play into everything? If this is true, how am I supposed to live my life and prepare for a future that at best, my entire life's work has been made pointless, and at worst, everyone is killed? I am mostly looking for experts to answer my question. If you are not an expert, feel free to leave a comment, but please specify that you aren't.
-
-19h ago
+2h ago
 
 ---
 
@@ -126,23 +121,49 @@ I have noticed that from the last time I checked up on AI discourse a few months
 
 **[Opinion | Can America Avoid a Jack Ma Moment?](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
-**[The AI bubble has further to run despite the looming crash](https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets)**
+**[AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns](https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4?syn-25a6b1a6=1)**
 
-As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning
+Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy
 
-The Guardian • 15h ago
+Financial Times • 3h ago
 
 ---
 
-**[Swipeless online dating? How AI is reshaping the search for love](https://www.latimes.com/business/story/2026-06-28/swipeless-online-dating-how-ai-is-reshaping-search-for-love)**
+**[BIS says debt, AI boom and fragilities raise global risks](https://www.reuters.com/business/finance/global-markets-bis-pix-2026-06-28/)**
 
-Traditional dating apps including Tinder, Grindr and Bumble and California startups are experimenting with how AI could reshape how people find love online.
+Reuters • 3h ago
 
-Los Angeles Times • 1h ago
+---
+
+**[AI Bust Risks Ripple Effects From Growth to Credit, BIS Says](https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[How AI helped the FBI investigate the White House Correspondents' Dinner attack](https://www.axios.com/2026/06/28/ai-fbi-whcd-attack-investigation)**
+
+Axios • 55m ago
+
+---
+
+**[AI-Generated Fake Receipts Are Changing Expense Fraud](https://www.forbes.com/sites/jamesbroughel/2026/06/28/ai-generated-fake-receipts-are-changing-expense-fraud/)**
+
+AI-generated fake receipts are making expense fraud cheaper, easier, and harder to detect, forcing companies to rethink how they verify employee claims.
+
+Forbes • 59m ago
+
+---
+
+**[This CEO became 3x more productive with AI. Then she read what her daughter wrote about it at Dartmouth](https://fortune.com/2026/06/28/ai-productivity-ceo-syndio-colacurcio-daughter-dartmouth-cognitive-surrender/)**
+
+As Maria Colacurcio embraced AI to transform how she works, her daughter Sofia Frei began questioning what society might lose in the process.
+
+Fortune • 25m ago
 
 ---
 
@@ -150,37 +171,7 @@ Los Angeles Times • 1h ago
 
 What will differentiate people is not how smart they are but their relationship to mental effort.
 
-The Atlantic • 1h ago
-
----
-
-**[Google caps Meta’s Gemini use as AI demand strains capacity](https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378?syn-25a6b1a6=1)**
-
-Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
-
-Financial Times • 7h ago
-
----
-
-**[Google Caps Meta’s Use of Gemini AI, Financial Times Reports](https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Google Says AI Visibility Hinges On Content People Actually Want To Read](https://www.searchenginejournal.com/google-says-make-content-people-want-to-read/580642/)**
-
-Google's VP of Search says publishers losing traffic to AI need only write content people actually want to read.
-
-Search Engine Journal • 7m ago
-
----
-
-**[Why tech firms are raising PC and console prices - and blaming AI for chip costs](https://www.bbc.com/news/articles/cd95k584pzqo)**
-
-Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.
-
-BBC • 11h ago
+The Atlantic • 2h ago
 
 ---
 
@@ -192,11 +183,11 @@ CNN • 1d ago
 
 ---
 
-**[The 33-year-old executive Satya Nadella is trusting to fix Microsoft’s Copilot AI assistant](https://fortune.com/2026/06/27/microsoft-copilot-boss-jacob-andreou-tapped-by-satya-nadella-to-save-ai-strategy/)**
+**[Why tech firms are raising PC and console prices - and blaming AI for chip costs](https://www.bbc.com/news/articles/cd95k584pzqo)**
 
-Jacob Andreou has had a rapid ascent at the 51-year-old tech giant. He is leading the charge to retool its pivotal AI product.
+Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.
 
-Fortune • 1d ago
+BBC • 13h ago
 
 ---
 
@@ -214,7 +205,7 @@ Fortune • 1d ago
 
 The move comes the same day as a new OpenAI model sees a limited release.
 
-⬆️ 546 • 💬 765 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+⬆️ 546 • 💬 766 • 1d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 
 ---
 
@@ -242,7 +233,7 @@ Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-kno
 
 There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area
 
-⬆️ 245 • 💬 140 • 9h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
+⬆️ 289 • 💬 154 • 11h ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
 
 ---
 
@@ -250,7 +241,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
-⬆️ 238 • 💬 178 • 21h ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+⬆️ 251 • 💬 183 • 23h ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 
 ---
 
@@ -264,7 +255,7 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 ‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker
 
-⬆️ 206 • 💬 145 • 7h ago • [The Independent](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+⬆️ 210 • 💬 150 • 9h ago • [The Independent](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 
 ---
 
@@ -272,7 +263,7 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 Researchers debate motivation, purpose, and the field’s future
 
-⬆️ 202 • 💬 170 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
+⬆️ 202 • 💬 173 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
 
 ---
 
@@ -286,7 +277,7 @@ Mike Novogratz is sounding the alarm this week. If the ultra-wealthy don't figur
 
 📺 Anthony Scaramucci
 
-👁️ 92K • 👍 3K • 💬 1K • ⏱️ 37:01 • 19h ago
+👁️ 92K • 👍 3K • 💬 1K • ⏱️ 37:01 • 20h ago
 
 ---
 
@@ -296,7 +287,7 @@ OpenAI just launched GPT 5.6, but this is not a normal release. Access is limite
 
 📺 AI Revolution
 
-👁️ 19K • 👍 772 • 💬 123 • ⏱️ 15:44 • 12h ago
+👁️ 19K • 👍 772 • 💬 123 • ⏱️ 15:44 • 14h ago
 
 ---
 
@@ -306,7 +297,7 @@ Generate AI Videos & Images with ZERO RESTRICTIONS In this video we look 4 new a
 
 📺 Brain Project
 
-👁️ 7K • 👍 488 • 💬 124 • ⏱️ 19:40 • 20h ago
+👁️ 7K • 👍 488 • 💬 124 • ⏱️ 19:40 • 21h ago
 
 ---
 
@@ -392,7 +383,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 295,064 • ❤️ 1,172 • 4h ago
+⬇️ 295,064 • ❤️ 1,172 • 6h ago
 
 ---
 
@@ -650,7 +641,7 @@ Self-hosted AI workspace.
 
 `Python`
 
-⭐ 78.8k • 🔱 10.3k • 25m ago
+⭐ 78.8k • 🔱 10.3k • 2h ago
 
 ---
 
@@ -670,7 +661,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.0k • 🔱 1.1k • 3h ago
+⭐ 11.0k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -680,7 +671,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.2k • 🔱 650 • 3h ago
+⭐ 5.2k • 🔱 650 • 5h ago
 
 ---
 
@@ -690,7 +681,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 3.5k • 🔱 458 • 19h ago
+⭐ 3.5k • 🔱 458 • 20h ago
 
 ---
 
@@ -700,7 +691,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.1k • 🔱 156 • 3h ago
+⭐ 2.1k • 🔱 156 • 5h ago
 
 ---
 
@@ -710,7 +701,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 1.9k • 🔱 166 • 19h ago
+⭐ 1.9k • 🔱 166 • 21h ago
 
 ---
 
@@ -740,7 +731,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.4k • 🔱 57 • 2h ago
+⭐ 1.4k • 🔱 57 • 4h ago
 
 ---
 

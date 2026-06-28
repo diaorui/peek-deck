@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T11:08:08.108666+00:00'
+updated: '2026-06-28T12:55:46.069326+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 11:08 UTC  
+**Last Updated:** June 28, 2026 at 12:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -8.6%  
-**30d:** -21.9%  
-**90d:** -25.0%  
-**1y:** -36.8%  
+**24h:** -0.6%  
+**7d:** -8.4%  
+**30d:** -21.7%  
+**90d:** -24.9%  
+**1y:** -36.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ The Block • 2d ago
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -220,7 +220,7 @@ Coinpedia • 2d ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as investors pulled roughly $5.48 million from the ETH fund on June 26, 2026. The redemption, whil...
 
-TipRanks • 54m ago
+TipRanks • 2h ago
 
 ---
 
@@ -272,7 +272,7 @@ No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 5K • 💬 593 • ⏱️ 13:19 • 21h ago
+👁️ 70K • 👍 5K • 💬 593 • ⏱️ 13:19 • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 311 • 👍 18 • 💬 136 • ⏱️ 5:07 • 23h ago
+👁️ 311 • 👍 18 • 💬 136 • ⏱️ 5:07 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 365 • 💬 290 • ⏱️ 18:14 • 17h ago
+👁️ 8K • 👍 365 • 💬 290 • ⏱️ 18:14 • 18h ago
 
 ---
 

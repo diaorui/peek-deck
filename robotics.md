@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T11:08:08.111643+00:00'
+updated: '2026-06-28T12:55:46.072614+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 11:08 UTC  
+**Last Updated:** June 28, 2026 at 12:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-10h ago
+12h ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,19 +50,19 @@ Hello all, I am trying to recreate this mechanism as a personal project - and I 
 
 I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and there was no ROS 2 support for it, so I created one and put it on GitHub: 👉 https://github.com/rqtqp/ros2_borunte_0707A It's a ROS 2 (Humble) workspace that talks to the controller over its JSON-over-TCP interface (port 9760) — no vendor SDK needed. What works today: Telemetry — live joint state on /joint_states, plus controller status/health. MoveIt 2 motion — Plan + Execute in RViz actually moves the real arm (the bridge turns the planned trajectory into the controller's AddRCC motion command). Safety — dry-run by default, live precondition gate (mode/alarm/limits), soft limits, and a /stop abort service. Model (URDF + meshes) and a MoveIt config included, plus a documented mechanical-zero (groove/blade) home calibration. Sharing it in case it's useful to anyone working with these arms. If you have questions about this piece of equipment (the arm, the HC1 controller, or its remote-command protocol), feel free to ask 🙂
 
-18h ago
+20h ago
 
 ---
 
 **[3D Model Gallery for 3D ROV Exploring Game](https://www.reddit.com/r/robotics/comments/1uhchq7/3d_model_gallery_for_3d_rov_exploring_game/)**
 
-15h ago
+16h ago
 
 ---
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ Ever since the post from last time: https://www.reddit.com/r/robotics/comments/1
 
 Has anyone used one of these yet? They have been out a few months but I can't find much on YouTube or here about real world experience. I want to use one to pick individual bicycle spokes from a container and place into a V shaped trough. Spokes are 2mm diameter and about 300mm long. Any comments about the practicality of this? I'm most familiar with Python and assume I need a camera and AI / vision to pickup objects. The arm would need to trigger other equipment from a gpio. Does this mean the Jetson Nano option is the best option?
 
-16h ago
+18h ago
 
 ---
 
@@ -86,13 +86,13 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-7h ago
+9h ago
 
 ---
 
 **[Go2 repair help.](https://www.reddit.com/r/robotics/comments/1uhed0o/go2_repair_help/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -100,13 +100,19 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 8h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 10h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
+
+San Francisco Chronicle • 1d ago
+
+---
 
 **[Meet Digit, Agility Robotics' humanoid robot that's a ROI 'from day one'](https://finance.yahoo.com/video/meet-digit-agility-robotics-humanoid-201516624.html)**
 
@@ -122,21 +128,15 @@ Yahoo Finance • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 4h ago
 
 ---
 
-**[Schools In US To Introduce AI-Powered Humanoid Robots As Teaching Partners](https://www.ndtv.com/world-news/schools-in-us-to-introduce-ai-powered-humanoid-robots-as-teaching-partners-11695879)**
+**[San Francisco storefront opened by REK will allow customers to train, showcase, repair and develop giant humanoid robots](https://abc7news.com/post/san-francisco-storefront-opened-rek-will-allow-customers-train-showcase-repair-develop-giant-humanoid-robots/19377134/)**
 
-While school officials have described the initiative as a step toward the future of learning.
+A 6-foot fighting robot was unveiled in San Francisco by REK at an empty warehouse that will soon be transformed into a humanoid robot one-stop shop.
 
-NDTV • 20h ago
-
----
-
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
-
-San Francisco Chronicle • 1d ago
+ABC7 Bay Area • 2d ago
 
 ---
 
@@ -144,13 +144,7 @@ San Francisco Chronicle • 1d ago
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 7m ago
-
----
-
-**[The Next Normal – The future of robotics: Intelligent, adaptable, and on your team](https://www.mckinsey.com/featured-insights/the-next-normal/robotics)**
-
-McKinsey & Company • 3d ago
+Financial Times • 1h ago
 
 ---
 
@@ -162,23 +156,29 @@ Silicon Canals • 1d ago
 
 ---
 
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
 
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 2d ago
+OregonLive.com • 2d ago
 
 ---
 
-**[Watch Inside Disney’s Push to Upgrade Its Theme Parks With Robots](https://www.bloomberg.com/news/videos/2026-06-26/inside-disney-s-push-to-upgrade-its-theme-parks-with-robots)**
+**[The Next Normal – The future of robotics: Intelligent, adaptable, and on your team](https://www.mckinsey.com/featured-insights/the-next-normal/robotics)**
 
-Bloomberg.com • 1d ago
+McKinsey & Company • 3d ago
 
 ---
 
 **[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+
+Business Insider • 2d ago
 
 ---
 
@@ -192,7 +192,7 @@ This compilation showcases some of the most unbelievable robot-style and animati
 
 📺 Talent Replay
 
-👁️ 27K • 👍 264 • 💬 10 • ⏱️ 39:57 • 20h ago
+👁️ 27K • 👍 264 • 💬 10 • ⏱️ 39:57 • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ The DEEP Robotics DR02 keeps getting smarter, faster, and more agile. Watch its 
 
 📺 DPCcars
 
-👁️ 4K • 👍 43 • 💬 11 • ⏱️ 1:46 • 21h ago
+👁️ 4K • 👍 43 • 💬 11 • ⏱️ 1:46 • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ toys #unboxing #remotecontrol #robot.
 
 📺 The Tennis Mentor
 
-👁️ 1K • 👍 56 • 💬 2 • ⏱️ 0:53 • 3h ago
+👁️ 1K • 👍 56 • 💬 2 • ⏱️ 0:53 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ This is the next prototype in the full lineup. The complete braiding, cornrow, a
 
 📺 Prototype Leaked
 
-👁️ 60K • 👍 276 • 💬 2 • ⏱️ 0:11 • 15h ago
+👁️ 60K • 👍 276 • 💬 2 • ⏱️ 0:11 • 17h ago
 
 ---
 
@@ -280,7 +280,7 @@ The next prototype in the full lineup, tested live at a Seattle demo. A sealed s
 
 📺 Prototype Leaked
 
-👁️ 7K • 👍 99 • ⏱️ 0:11 • 11h ago
+👁️ 7K • 👍 99 • ⏱️ 0:11 • 13h ago
 
 ---
 

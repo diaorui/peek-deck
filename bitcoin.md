@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-28T11:08:08.103189+00:00'
+updated: '2026-06-28T12:55:46.062973+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 11:08 UTC  
+**Last Updated:** June 28, 2026 at 12:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.5%  
 **7d:** -5.9%  
-**30d:** -18.5%  
+**30d:** -18.4%  
 **90d:** -11.8%  
-**1y:** -44.4%  
+**1y:** -44.3%  
 
 ---
 
@@ -89,7 +89,7 @@ Remember when they said the same thing at $500, and then $15k 😭
 
 Saw this post and immediately recalled how it’s been in the past: • 2010: early critics said it couldn’t become real money - btc was worth about 0.11 • 2013: after the 1st major crash, they called it “finished” - within 4yrs, it crossed 19k • 2017: Jamie Dimon called bitcoin “a fraud.” • 2018: Warren Buffett called it “rat poison squared.” - traded below 10k, It didn’t disappear • 2022: after exchange collapses, people said crypto was over - it survived another cycle. Same pattern every time: Price falls → confidence drops → people write the ending People keep underestimating its ability to recover. From history, the next chapter will be even brighter than today’s headlines suggest
 
-23h ago
+1d ago
 
 ---
 
@@ -97,7 +97,7 @@ Saw this post and immediately recalled how it’s been in the past: • 2010: ea
 
 Most people think Bitcoin is anonymous. It isn't. Every transaction is permanently on a public ledger. Companies like Chainalysis earn $100M+ per year mapping Bitcoin addresses to real identities — paid for almost entirely by governments. The techniques they use: Common Input Ownership Heuristic (CIOH) — if multiple inputs are in the same transaction, they assume one owner Change output detection — round numbers, address type mismatches, transaction graph analysis Address reuse — every reuse permanently links your history Network surveillance — your IP before the tx even hits the blockchain The defense is a layered stack: → Never reuse addresses (free, takes 0 effort) → Run your own node (no third party sees your addresses) → Tor on your node (strips IP from broadcasts) → CoinJoin — Wasabi 2.x or JoinMarket-NG (breaks UTXO history) → PayJoin BIP77/78 (invisible on-chain, breaks CIOH) → Silent Payments BIP352 (public address, zero linkable history) → Lightning for daily spending (zero on-chain footprint) Full guide with practical setup for each layer: 👉 https://open.substack.com/pub/davidebtc186/p/your-bitcoin-is-being-watched-how?utm\_source=share&utm\_medium=android&r=4gald6 Questions welcome in the comments.
 
-22h ago
+1d ago
 
 ---
 
@@ -161,11 +161,11 @@ It’s funny, when bitcoin goes down, it’s the only asset they claim has died 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Just Dropped Below $60,000. History Says This Is What Happens Next.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-dropped-below-60-053700179.html)**
+**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
 
-When it comes to the world's most valuable digital asset, the market continues to express just how bearish it has become.
+The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
 
-Yahoo Finance • 5h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -173,15 +173,19 @@ Yahoo Finance • 5h ago
 
 Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.
 
-CoinDesk • 16h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
+**[Bitcoin has crashed 99% before in 2011. But, it's still here.](https://finance.yahoo.com/video/bitcoin-crashed-99-2011-still-120000298.html)**
 
-The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
+As bitcoin (BTC-USD) continues to hover around $60,000 per token, Scott Melker discusses the digital asset's prior crashes — including falling by as much as 99% in 2011 — and why crypto traders shouldn't be discouraged now.
 
-The Motley Fool • 10h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 55m ago
 
 ---
 
@@ -197,7 +201,7 @@ CNBC • 1d ago
 
 Jeremy Grantham says Bitcoin is 'proof of unnecessary work' and predicts crypto will dwindle over decades.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -205,37 +209,37 @@ Yahoo Finance • 17h ago
 
 Jeremy Grantham says Bitcoin will fade away, but a prediction without a timeframe, catalyst or risk framework offers investors little practical value.
 
-Forbes • 17h ago
+Forbes • 19h ago
 
 ---
 
-**[Bitcoin holds above $60,000 as ETF outflows, Fed outlook weigh on sentiment](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-60-000-090929697.html)**
+**[Wall Street Veteran Calls Bitcoin, Gold And Silver Selloff A 'Debasement Capitulation' As Home Prices Stall](https://finance.yahoo.com/markets/crypto/articles/wall-street-veteran-calls-bitcoin-111455154.html)**
 
-Investing.com -- Bitcoin traded back above the $60,000 mark on Sunday after briefly falling below the key level earlier in the weekend, as persistent ETF outflows, a stronger U.S. dollar, and expectations for tighter monetary policy continued to weigh on market sentiment.
+Jordi Visser remains bullish on crypto, saying AI agents and tokenization could unlock a new growth phase.
 
 Yahoo Finance • 1h ago
 
 ---
 
+**[Michael Saylor’s Bitcoin Treasury Strategy Has Finally Hit Its Breaking Point](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-bitcoin-treasury-strategy-121716177.html)**
+
+Bitcoin (CRYPTO:BTC) transformed from a niche digital asset into a mainstream investment over the past decade, and few people did more to accelerate that shift than Michael Saylor. By turning Strategy (NASDAQ:MSTR) (formerly MicroStrategy) into what he called a “bitcoin treasury company,” he created a blueprint that dozens of others rushed to copy. During bitcoin’s ... Michael Saylor’s Bitcoin Treasury Strategy Has Finally Hit Its Breaking Point
+
+Yahoo Finance • 38m ago
+
+---
+
 **[Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
 
-NewsNation • 6h ago
+NewsNation • 8h ago
 
 ---
 
-**[Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record](https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record)**
+**[Michael Saylor's Strategy faces no easy way out as bitcoin prices continue to drop](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)**
 
-Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category.
+Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-The Block • 18h ago
-
----
-
-**[Bitcoin ETFs Continue to See Significant Outflows as Cryptocurrency Struggles](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-continue-see-significant-203700125.html)**
-
-The cryptocurrency market is once again testing the resolve of investors, as Bitcoin (CRYPTO: $BTC) recently fell t...
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -271,7 +275,7 @@ Live markets: Bitcoin is stuck near $64,000 as ETF outflows reach a sixth week
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-⬆️ 3 • 💬 1 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+⬆️ 3 • 💬 1 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
 
 ---
 
@@ -332,7 +336,7 @@ Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: http
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 115 • ⏱️ 10:53 • 11h ago
+👁️ 24K • 👍 1K • 💬 115 • ⏱️ 10:53 • 13h ago
 
 ---
 
@@ -342,7 +346,7 @@ Bitcoin just broke down again — falling below $60k to levels we haven't seen i
 
 📺 Eurodollar University
 
-👁️ 23K • 👍 906 • 💬 119 • ⏱️ 22:54 • 12h ago
+👁️ 23K • 👍 906 • 💬 119 • ⏱️ 22:54 • 14h ago
 
 ---
 
@@ -352,7 +356,7 @@ Welcome back! In this video, I'm sharing why bitcoin is hovering around $60K & p
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 251 • 💬 116 • ⏱️ 8:33 • 8h ago
+👁️ 3K • 👍 251 • 💬 116 • ⏱️ 8:33 • 10h ago
 
 ---
 
@@ -372,7 +376,7 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 298 • ⏱️ 15:20 • 19h ago
+👁️ 17K • 👍 1K • 💬 298 • ⏱️ 15:20 • 20h ago
 
 ---
 
@@ -382,7 +386,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 3K • 💬 91 • ⏱️ 45:39 • 22h ago
+👁️ 48K • 👍 3K • 💬 91 • ⏱️ 45:39 • 23h ago
 
 ---
 
@@ -412,7 +416,7 @@ No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is
 
 📺 Gareth Soloway
 
-👁️ 70K • 👍 5K • 💬 593 • ⏱️ 13:19 • 21h ago
+👁️ 70K • 👍 5K • 💬 593 • ⏱️ 13:19 • 22h ago
 
 ---
 
@@ -422,7 +426,7 @@ Michael Saylor is going down alongside bitcoin #bitcoin #crypto #stockmarket #bu
 
 📺 RealJonahBlake
 
-👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:38 • 14h ago
+👁️ 1K • 👍 13 • 💬 1 • ⏱️ 0:38 • 15h ago
 
 ---
 
