@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-28T14:49:21.879052+00:00'
+updated: '2026-06-28T16:11:21.291578+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 14:49 UTC  
+**Last Updated:** June 28, 2026 at 16:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -8.3%  
-**30d:** -21.6%  
-**90d:** -24.8%  
-**1y:** -36.6%  
+**24h:** -0.8%  
+**7d:** -8.6%  
+**30d:** -21.9%  
+**90d:** -25.1%  
+**1y:** -36.8%  
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 21h ago
+TradingView • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Motley Fool • 2d ago
 
 Tom Lee made a big bet in Ethereum, acquiring over 5.6 million coins since July last year, but he has lost substantial sums of money.
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
@@ -220,7 +220,7 @@ Benzinga • 17h ago
 
 Grayscale Ethereum Mini Trust (ETH) saw fresh outflows this week, as investors pulled roughly $5.48 million from the ETH fund on June 26, 2026. The redemption, whil...
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 382 • 💬 289 • ⏱️ 18:14 • 20h ago
+👁️ 9K • 👍 382 • 💬 289 • ⏱️ 18:14 • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 111 • ⏱️ 7:08 • 11h ago
+👁️ 2K • 👍 111 • ⏱️ 7:08 • 12h ago
 
 ---
 
@@ -322,7 +322,7 @@ The Ethereum Foundation's approach to ETH pricing wasn't accidental; it was a de
 
 📺 Dana Love, PhD
 
-👁️ 152 • 👍 8 • 💬 1 • ⏱️ 1:13 • 36m ago
+👁️ 152 • 👍 8 • 💬 1 • ⏱️ 1:13 • 1h ago
 
 ---
 

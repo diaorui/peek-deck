@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-28T14:49:21.874937+00:00'
+updated: '2026-06-28T16:11:21.285588+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 28, 2026 at 14:49 UTC  
+**Last Updated:** June 28, 2026 at 16:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,096.24
+### $59,934.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -6.1%  
-**30d:** -18.6%  
-**90d:** -12.0%  
-**1y:** -44.5%  
+**24h:** -1.1%  
+**7d:** -6.5%  
+**30d:** -18.9%  
+**90d:** -12.4%  
+**1y:** -44.7%  
 
 ---
 
@@ -77,83 +77,79 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC Goes Below $60k and Everyone Says It’s Dead? 🤣](https://www.reddit.com/r/Bitcoin/comments/1ugtb3b/btc_goes_below_60k_and_everyone_says_its_dead/)**
+**[Only One Remaining Bitcoin Node in Caracas, Venezuela](https://www.reddit.com/r/Bitcoin/comments/1uhtuxo/only_one_remaining_bitcoin_node_in_caracas/)**
 
-Remember when they said the same thing at $500, and then $15k 😭
+Until a few days ago, there were 26 reachable Bitcoin nodes in Caracas, Venezuela. After the earthquake, only one remained :( . Source: BitRef.
 
-1d ago
-
----
-
-**[Bitcoin Obituary Calls Are Always So Funny](https://www.reddit.com/r/Bitcoin/comments/1uh03oj/bitcoin_obituary_calls_are_always_so_funny/)**
-
-Saw this post and immediately recalled how it’s been in the past: • 2010: early critics said it couldn’t become real money - btc was worth about 0.11 • 2013: after the 1st major crash, they called it “finished” - within 4yrs, it crossed 19k • 2017: Jamie Dimon called bitcoin “a fraud.” • 2018: Warren Buffett called it “rat poison squared.” - traded below 10k, It didn’t disappear • 2022: after exchange collapses, people said crypto was over - it survived another cycle. Same pattern every time: Price falls → confidence drops → people write the ending People keep underestimating its ability to recover. From history, the next chapter will be even brighter than today’s headlines suggest
-
-1d ago
+5h ago
 
 ---
 
-**[Your Bitcoin is being watched — how chain analysis works and the full privacy stack to defeat it (2026 guide)](https://www.reddit.com/r/Bitcoin/comments/1uh1qbe/your_bitcoin_is_being_watched_how_chain_analysis/)**
+**[Time flies](https://www.reddit.com/r/Bitcoin/comments/1uh8smq/time_flies/)**
 
-Most people think Bitcoin is anonymous. It isn't. Every transaction is permanently on a public ledger. Companies like Chainalysis earn $100M+ per year mapping Bitcoin addresses to real identities — paid for almost entirely by governments. The techniques they use: Common Input Ownership Heuristic (CIOH) — if multiple inputs are in the same transaction, they assume one owner Change output detection — round numbers, address type mismatches, transaction graph analysis Address reuse — every reuse permanently links your history Network surveillance — your IP before the tx even hits the blockchain The defense is a layered stack: → Never reuse addresses (free, takes 0 effort) → Run your own node (no third party sees your addresses) → Tor on your node (strips IP from broadcasts) → CoinJoin — Wasabi 2.x or JoinMarket-NG (breaks UTXO history) → PayJoin BIP77/78 (invisible on-chain, breaks CIOH) → Silent Payments BIP352 (public address, zero linkable history) → Lightning for daily spending (zero on-chain footprint) Full guide with practical setup for each layer: 👉 https://open.substack.com/pub/davidebtc186/p/your-bitcoin-is-being-watched-how?utm\_source=share&utm\_medium=android&r=4gald6 Questions welcome in the comments.
-
-1d ago
+22h ago
 
 ---
 
-**[Realistically, how low do you think we go from here?](https://www.reddit.com/r/Bitcoin/comments/1ugtysc/realistically_how_low_do_you_think_we_go_from_here/)**
+**[Why The World Isn’t Quite Ready For Bitcoin…](https://www.reddit.com/r/Bitcoin/comments/1uh7cyj/why_the_world_isnt_quite_ready_for_bitcoin/)**
 
-Ok so we tapped under 60k and bounced, and I genuinely can't tell if that was the flush or just the appetizer. I've been around long enough to know nobody actually knows, but I'm curious where people's heads are at. The takes I keep seeing are basically two camps. One says this is normal bear chop and ~55-58k holds, we grind sideways and it's fine. The other is throwing out 42-44k as the "real" bottom and pointing at the ETF outflows + everything just bleeding into AI stocks instead. My gut says we're not done. Doesn't feel capitulation-y yet? Like everyone's scared but nobody's actually given up, which is usually when the real bottom isn't in. But I've also been wrong every single time I've tried to call a bottom so take that for what it's worth lol. The thing that messes with me is this cycle doesn't rhyme with the old ones. Fear and greed is basically pinned to the floor but price isn't doing the violent puke we usually get down there. Slower, grindier. Almost worse psychologically tbh. Not selling, not really buying either, just kind of sitting on my hands waiting for something to break one way or the other. Where's everyone else at — you got a number you're watching, or just vibing through it?
+I think the crazy part about Bitcoin is that we’re probably 20–30 years ahead of most people’s readiness to truly adopt it. Even though it’s grown faster than almost any asset in history, real adoption is still tiny — less than 1% of the world owns any Bitcoin. Most people simply aren’t mad enough yet in my opinion. I don’t think people are frustrated enough with inflation, not angry enough about their purchasing power disappearing, not fed up enough with the system to make the effort to understand something this different. Bitcoin requires you to rethink what money actually is. Most people aren’t ready to do that mental work while they’re still comfortable. But here’s what’s wild: the moment enough people do get mad enough — the moment they feel enough pain — the shift could happen incredibly fast. Because once they finally understand what Bitcoin is, there’s a real possibility they all start running toward it at once. That’s why it feels both incredibly early and like it could explode at any moment. The pressure is building, but most people just aren’t uncomfortable enough yet to look for the solution.
 
-1d ago
-
----
-
-**[Bitcoin failed to 2x its ATH from peak-to-peak between 2021 and 2025, despite all the bullish predictions it would go much higher. If it does return to a bull market, how high will it reasonably go by 2029?](https://www.reddit.com/r/Bitcoin/comments/1uggqwp/bitcoin_failed_to_2x_its_ath_from_peaktopeak/)**
-
-Title.
-
-1d ago
+23h ago
 
 ---
 
-**[Tando Is Unlocking Spending Bitcoin For 40 Million Kenyans](https://www.reddit.com/r/Bitcoin/comments/1ugvh21/tando_is_unlocking_spending_bitcoin_for_40/)**
+**[In a perfect world, what would be the next catalyst in the next 6 months?](https://www.reddit.com/r/Bitcoin/comments/1uhv8b9/in_a_perfect_world_what_would_be_the_next/)**
 
-Last month, Tando, the Kenya-based Bitcoin payments company, announced it had created a service that allows 40 million Kenyans to send and receive Bitcoin using the existing M-Pesa infrastructure. To pull this off, they strung together numerous pieces of technology, including in-house solutions, to make bitcoin’s Lightning Network act as a translation layer for millions. Launched in 2024, Tando, the Kenyan payments company founded by Jason and Sabina Waithira Gitau, began as an attempt to solve a very specific problem: how do Kenyans spend Bitcoin like they do Kenyan Shillings (KES)? They quickly realized the best way to do that was to leverage the ubiquitous M-Pesa mobile money payment rail to provide a seamless experience. They built an app that allows anyone with bitcoin to pay an M-Pesa invoice without needing local currency. Once a user enters their M-Pesa phone number and amount, they receive a lightning invoice to pay, and the recipient receives Kenyan shillings (KES). The app soon grew in virality and reach among the growing base of Kenyan bitcoin users. As Gitau underscored in her panel at this year’s Oslo Freedom Forum, people can test out Tando using less than a dollar, without paying fees, or KYC, making it quick to validate and easy to adopt. However, as Jason put it in an interview for this article, though the app resonated with many, “they still need a separate bitcoin wallet to use Tando.” To curb that, they again went back to the tried-and-true formula: combining and building on existing infrastructure. In this case, M-Pesa phone numbers and what are known as lightning addresses—a payment spec that lets users to receive bitcoin payments via email addresses. They unveiled their novel approach last May, in which any bitcoin wallet that supports lightning addresses can instantly send bitcoin to a Kenyan phone number via M-Pesa. To achieve this, users claim their phone-number-prepended lightning addresses. This new service also gives the recipient, once they claim their address and pay a fee, a way to set up a non-custodial bitcoin wallet, enabling them to send and receive bitcoin. Tando’s technique is reminiscent of a cousin project in South Africa called Machankura, which enables users to send and receive bitcoin offline over the Lightning network using Unstructured Supplementary Service Data (USSD) codes. While there are privacy implications to linking phone numbers to payment infrastructure, the Tando team plans to continue iterating to strike a better trade-off and provide a more balanced experience. Over the last few years, Africa has become home to projects looking to cement Bitcoin’s use as money, from circular economies and solutions like Machankura and Tando to infrastructure-led companies like MavaPay. The focus is not on price action but on utility and freedom money. This has fueled the ‘spend not sell’ movement, in which builders seek to familiarize users with earning and spending their bitcoin rather than trading and falling for get-rich-quick schemes. More importantly for the Tando team, bitcoin is for everyone, so there should be no gatekeeping; from the president and office workers to the farmers, the bitcoin network treats them all equally. Tando makes it possible to live entirely on Bitcoin in Kenya, an idea now promoted as the African way to use bitcoin. In the past few weeks, as bitcoin builders and leaders from Africa and beyond met for the first Bitcoin++ Nairobi conference, many on social media expressed surprise at seeing this in action, how easy the experience was, and how groundbreaking the idea of living on Bitcoin really is. As Tando has shown, the combination of mobile money and freedom money is growing evidence that where there is a need, Africans will build, and where there is technology, they will pioneer and adopt. African bitcoin builders continue to demonstrate that you do not need mass adoption or permission to live in the future.
+What event would turn the market from bearish to bullish before the end of the year. What world event, technology, natural disaster, etc?
 
-🔗 [Forbes](https://www.forbes.com/sites/digital-assets/2026/06/26/tando-is-unlocking-spending-bitcoin-for-40-million-kenyans/) • 1d ago
-
----
-
-**[Chill Out](https://www.reddit.com/r/Bitcoin/comments/1ugg6qx/chill_out/)**
-
-Many of you need to calm down. Go engage in your hobbies, spend time with loved ones, have fun in someway. Stop stressing so much over bitcoin. I invested a large amount of my small networth in March 2022. Not until January 2024 did I have a single day where my investment was profitable. I’d have KMS if I was staring at the price everyday. Either sell your stack or shut up, please. You’ll be fine no matter what happens.
-
-1d ago
+4h ago
 
 ---
 
-**[Daily Discussion, June 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1uguqq4/daily_discussion_june_27_2026/)**
+**[Deep Dive: The Unified Harmonic Time Model – Mapping Bitcoin’s Macro Cycles and Post-ETF Ranges Through Pure Time Geometry (2012–2030)](https://www.reddit.com/r/Bitcoin/comments/1uhxloq/deep_dive_the_unified_harmonic_time_model_mapping/)**
+
+Hi everyone, I wanted to present a detailed breakdown of a cyclical framework I’ve been researching: The Unified Harmonic Time Model. Instead of relying on lagging indicators, sentiment, or traditional moving averages, this model approaches Bitcoin's price discovery through the lens of absolute day-counts and linear arithmetic time geometry. By analyzing the structural boundaries of the past three cycles, we can observe a strict mathematical rhythm that has persisted despite major macro shifts, including the recent post-ETF institutional era. Here is how the framework breaks down the past, present, and future of Bitcoin’s macroeconomic timeline. 1. Methodology: The Harmony of Time and Halvings The core thesis is that Bitcoin’s programmatic scarcity doesn’t just affect supply; it dictates a geometric timeline. The model measures the market into two distinct, alternating macro phases: Macro Expansion Phases (Bull Markets): Green intervals driven by post-halving supply shocks and expansionary liquidity cycles. Macro Retraction Phases (Bear Markets): Red intervals representing structural corrections, capitulation, and time-exhaustion. Rather than viewing cycles as random, the model highlights that the duration (in days) of both expansions and retractions follows a bounded, mathematical progression. 2. Historical Baseline: Deconstructing Cycles 1 to 3 If we look at the historical day-counts, the rhythm becomes clear: Cycle 1: Saw an initial expansion of 366 days leading to Peak 1 ($1,163), followed by a retraction phase of 411 days to Trough 1 ($152). Cycle 2: Expanded for 542 days after Halving 2, peaking at $19,666 (Peak 2), followed by a 363-day structural bear market hitting bottom at $3,122. Cycle 3: Showed a 526-day expansion into the $69,000 peak (Peak 3), followed by a 376-day correction down to the macro floor of $15,476 (Trough 3). Notice the tight clustering of bear markets: 411, 363, and 376 days. The market requires a highly specific amount of time to exhaust sellers and reset the macro architecture. 3. The Current Reality: Cycle 4 and the Post-ETF Era Following Halving 4 in April 2024, the market entered a massive 544-day expansion phase, culminating in Peak 4 (Actual) at $126,000 in October 2025. Right now, the market is undergoing a textbook Macro Retraction Phase. The Projected Bottom: Historically, these retractions average around one year. The model targets a Theoretical Trough around October 2026 (±45 days). The Floor Range: Based on the arithmetic scale of previous cycle retracements, the structural support range sits firmly between $35,000 and $45,000. While this target might seem low to short-term sentiment, it aligns perfectly with historical multi-cycle geometry. 4. Looking Ahead: Cycle 5 and the 2030 Horizon If the linear sequence holds true post-2026, the model projects a clear path for the next epoch: Halving 5: Estimated around April 2028. Cycle 5 Expansion: A projected 550-day upward matrix. Theoretical Peak: Target window centers around October 2029 (±45 days), with a mathematical Target Peak Range of $120,000 to $180,000. Conclusion & Community Debate The model suggests that despite massive institutional inflows and changing order book dynamics, the absolute mathematical pulse of the halving cycles remains undefeated. The duration of market cycles appears to be structurally hardcoded into investor psychology and time-bound liquidity flows. Questions for discussion: Do you think institutional capital (like ETFs and corporate reserves) will fundamentally extend or break these historical day-counts in the future, or will the programmatic 4-year halving rhythm always force the market into this geometric schedule? Is a $35k–$45k macro bottom for Cycle 4 realistic under current macroeconomic conditions, or has the institutional floor shifted higher? Would love to hear your technical perspectives and critiques on this time-based framework. Full paper for reference: https://github.com/RomeroQuant/bitcoin-harmonic-time-model/blob/main/Bitcoin_Harmonic_Time_Model_Paper.pdf https://preview.redd.it/54zeoubo11ah1.png?width=1924&format=png&auto=webp&s=d919a730d05979d34abda3c63d4320fb84f3cc03 https://preview.redd.it/7svq5mxx11ah1.png?width=1100&format=png&auto=webp&s=dbe6e23efbfcbe3c00dd2b89fbcf808c5b6da684 https://preview.redd.it/gy78gov021ah1.png?width=1000&format=png&auto=webp&s=e5fb061343c1b6ab66996e7dde60f730d412d0e5
+
+2h ago
+
+---
+
+**[Calculating how many sats I can buy and still keep some money for ramen before another paycheck](https://www.reddit.com/r/Bitcoin/comments/1uhex3t/calculating_how_many_sats_i_can_buy_and_still/)**
+
+18h ago
+
+---
+
+**[bought more](https://www.reddit.com/r/Bitcoin/comments/1uhqoyu/bought_more/)**
+
+that's it, that's the post
+
+8h ago
+
+---
+
+**[Bip 110 thoughts?](https://www.reddit.com/r/Bitcoin/comments/1uhzk8o/bip_110_thoughts/)**
+
+Been seeing a lot of talk online about this
+
+1h ago
+
+---
+
+**[Daily Discussion, June 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1uhp9lu/daily_discussion_june_28_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1d ago
+10h ago
 
 ---
 
-**[The biggest money printing wave is still coming. (hint: youll want to be holding bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1ugjhax/the_biggest_money_printing_wave_is_still_coming/)**
+**[Sell now or wait a month?](https://www.reddit.com/r/Bitcoin/comments/1uhahfu/sell_now_or_wait_a_month/)**
 
-Here's why the AI story may ultimately end the same way no matter what happens: more money printing, more liquidity, and a world where owning scarce assets matters more than ever. And proof that Bitcoin is the one asset that moves most when the time comes
+Hi all, my spouse and I just put an offer on our first home. I’m currently holding about 1 bitcoin, and have been saving it for our down payment. Of course, at one time I was hoping it would make a more sizable dent in the payment, but I am aware and comfortable with the swings in the market. My question to you all is should I begin selling off now at around 60k, or should I wait a few more weeks while we iron out the offer and hope the price goes up? I know no one can know for sure, but I would love to hear some opinions. Much appreciated
 
-🔗 [youtu.be](https://youtu.be/Ckl5hTQ3IRA) • 1d ago
-
----
-
-**[No, bitcoin is not dead](https://www.reddit.com/r/Bitcoin/comments/1uganaj/no_bitcoin_is_not_dead/)**
-
-It’s funny, when bitcoin goes down, it’s the only asset they claim has died and it’s over. Farther from the truth. 80% of bitcoin hasn’t even moved the last 6 months. 20% of bitcoin(mainly leveraged trading) is dictating the price. MAG7 largest drawdowns Nvidia -89% now largest company in the world Amazon -95% Meta -77% Tesla -73% Microsoft -70% Google -70% Apple -65% They’ve all had multiple drawdowns 50%+ Thank you for coming to my TED talk
-
-1d ago
+21h ago
 
 ---
 
@@ -161,11 +157,27 @@ It’s funny, when bitcoin goes down, it’s the only asset they claim has died 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss](https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss)**
+**[Bitcoin Just Dropped Below $60,000. History Says This Is What Happens Next.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-dropped-below-60-053700179.html)**
 
-The token is down nearly 7% on the week with the altcoins falling harder. Bitcoin and ether are both ending the second quarter in the red, a back-to-back losing first half that runs against the usual pattern.
+When it comes to the world's most valuable digital asset, the market continues to express just how bearish it has become.
 
-CoinDesk • 7h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down](https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down)**
+
+Bitcoin has long been lumped in with precious metals as a hedge against a weakening dollar. That trade is unwinding on a hawkish Fed, and bitcoin is falling alongside the metals it was supposed to rival.
+
+CoinDesk • 21h ago
+
+---
+
+**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
+
+The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
+
+The Motley Fool • 15h ago
 
 ---
 
@@ -181,7 +193,7 @@ CNBC • 2d ago
 
 Jeremy Grantham says Bitcoin is 'proof of unnecessary work' and predicts crypto will dwindle over decades.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -189,35 +201,21 @@ Yahoo Finance • 21h ago
 
 Jeremy Grantham says Bitcoin will fade away, but a prediction without a timeframe, catalyst or risk framework offers investors little practical value.
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
-**[Bitcoin Has Had a Terrible 2026. What Can Make the Second Half of the Year Better?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-had-terrible-2026-second-124000363.html)**
+**[Samson Mow says bitcoin bottom is in despite skepticism from analysts](https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided)**
 
-The price of the world's largest cryptocurrency has been in slow decline through the first half of 2026,
+The bitcoin advocate said his crypto bottom claim is based on the fact that the traditional four-year halving cycle has changed, although several analysts continue to expect further downside.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
-
-NewsNation • 10h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin’s Biggest Corporate Buyer Reels as Funding Edge Vanishes](https://www.bloomberg.com/news/articles/2026-06-26/bitcoin-s-biggest-corporate-buyer-reels-as-funding-edge-vanishes)**
+**[Nancy Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
 
-Michael Saylor’s great crypto experiment is fast running out of believers.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin holds above $60,000 as Strategy’s funding model faces growing scrutiny](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-strategys-funding-model-faces-growing-scrutiny-4763957)**
-
-Investing.com • 1d ago
+NewsNation • 3h ago
 
 ---
 
@@ -227,9 +225,11 @@ Barron's • 1d ago
 
 ---
 
-**[Bitcoin holds above $60,000 as ETF outflows, Fed outlook weigh on sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-60000-as-etf-outflows-fed-outlook-weigh-on-sentiment-4764074)**
+**[Michael Saylor's Strategy faces no easy way out as bitcoin prices continue to drop](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)**
 
-Investing.com • 5h ago
+Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -326,7 +326,7 @@ Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: http
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 128 • ⏱️ 10:53 • 15h ago
+👁️ 28K • 👍 2K • 💬 128 • ⏱️ 10:53 • 16h ago
 
 ---
 
@@ -336,7 +336,7 @@ A major crypto market rally is on its way, and Sheldon wants his community to be
 
 📺 Crypto Banter
 
-👁️ 1K • 👍 157 • 💬 8 • ⏱️ 12:29 • 49m ago
+👁️ 1K • 👍 157 • 💬 8 • ⏱️ 12:29 • 2h ago
 
 ---
 
@@ -346,7 +346,7 @@ Bitcoin just broke down again — falling below $60k to levels we haven't seen i
 
 📺 Eurodollar University
 
-👁️ 29K • 👍 1K • 💬 136 • ⏱️ 22:54 • 16h ago
+👁️ 29K • 👍 1K • 💬 136 • ⏱️ 22:54 • 17h ago
 
 ---
 
@@ -356,7 +356,7 @@ Welcome back! In this video, I'm sharing why bitcoin is hovering around $60K & p
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 324 • 💬 127 • ⏱️ 8:33 • 12h ago
+👁️ 5K • 👍 324 • 💬 127 • ⏱️ 8:33 • 13h ago
 
 ---
 
@@ -376,7 +376,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 4K • 👍 358 • 💬 53 • ⏱️ 19:24 • 2h ago
+👁️ 4K • 👍 358 • 💬 53 • ⏱️ 19:24 • 3h ago
 
 ---
 
@@ -386,7 +386,7 @@ FULL EPISODE: youtu.be/Aza4GAjQffw Simon Dixon is making his most explosive clai
 
 📺 BTC Sessions
 
-👁️ 10K • 👍 613 • 💬 280 • ⏱️ 15:48 • 22h ago
+👁️ 10K • 👍 613 • 💬 280 • ⏱️ 15:48 • 1d ago
 
 ---
 
@@ -396,7 +396,7 @@ Bitcoin just broke below 60K, the bears are celebrating, and the loudest skeptic
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 305 • ⏱️ 15:20 • 22h ago
+👁️ 19K • 👍 1K • 💬 305 • ⏱️ 15:20 • 1d ago
 
 ---
 
@@ -406,7 +406,7 @@ Bitcoin Is About To Surprise Everyone Want access to the Platinum Group? Join he
 
 📺 Mister Crypto
 
-👁️ 2K • 👍 138 • 💬 20 • ⏱️ 15:37 • 5h ago
+👁️ 2K • 👍 138 • 💬 20 • ⏱️ 15:37 • 6h ago
 
 ---
 
