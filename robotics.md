@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-27T22:35:58.523709+00:00'
+updated: '2026-06-28T00:03:05.220131+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 27, 2026 at 22:35 UTC  
+**Last Updated:** June 28, 2026 at 00:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,7 +124,7 @@ IEEE Spectrum • 1d ago
 
 **[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
 
-San Francisco Chronicle • 22h ago
+San Francisco Chronicle • 23h ago
 
 ---
 
@@ -150,9 +150,11 @@ Silicon Canals • 1d ago
 
 ---
 
-**[World Cup + robot squad = viral magic for Oregon teens](https://www.oregonlive.com/education/2026/06/world-cup-robot-squad-viral-magic-for-oregon-teens.html)**
+**[Robot Seen on Street Begging for Change](https://futurism.com/robots-and-machines/robot-begging-china-humanoid-unitree-g1)**
 
-OregonLive.com • 2d ago
+A
+
+Futurism • 1d ago
 
 ---
 
@@ -164,12 +166,6 @@ Financial Times • 2d ago
 
 ---
 
-**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
-
-Tech Xplore • 1d ago
-
----
-
 **[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
 
 FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
@@ -178,11 +174,17 @@ Business Insider • 1d ago
 
 ---
 
+**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[STETHS to get Jamaica's first high school mechatronics and robotics lab](http://jamaica-gleaner.com/article/news/20260627/steths-get-jamaicas-first-high-school-mechatronics-and-robotics-lab)**
 
 WESTERN BUREAU:In addition to its traditional offerings, come September, St Elizabeth Technical High School (STETHS) will expand its technical and vocational curriculum to include robotics, music production, and television and radio production at the sixth-form level.Speaking at STETHS' recent 2026 graduation ceremony, Education Minister Dr Dana Morris Dixon said the expansion of the school's curriculum is part of a J$400 million investment to transform technical education in secondary schools.
 
-Jamaica Gleaner • 17h ago
+Jamaica Gleaner • 19h ago
 
 ---
 
@@ -196,7 +198,7 @@ Get World of Sea Battle for FREE here ✓: https://bit.ly/4xCHYI5! Jump in now a
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 388 • 💬 96 • ⏱️ 19:38 • 10h ago
+👁️ 8K • 👍 388 • 💬 96 • ⏱️ 19:38 • 12h ago
 
 ---
 
@@ -206,7 +208,7 @@ China's new AI robot MOYA just shocked the internet with warm skin, camera eyes,
 
 📺 AI Revolution
 
-👁️ 71K • 👍 2K • 💬 242 • ⏱️ 13:45 • 5d ago
+👁️ 71K • 👍 2K • 💬 242 • ⏱️ 13:45 • 6d ago
 
 ---
 
@@ -216,7 +218,7 @@ Shanghai-based iSAGEBOT teasing what it calls the world's first “spatial heter
 
 📺 Kalil 4.0
 
-👁️ 755 • 👍 23 • ⏱️ 0:27 • 5h ago
+👁️ 755 • 👍 23 • ⏱️ 0:27 • 6h ago
 
 ---
 
@@ -264,7 +266,7 @@ Amazon Prime Day is here, and the company is using robots to help sort and move 
 
 📺 FOX 5 New York
 
-👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 3d ago
+👁️ 6K • 👍 12 • 💬 7 • ⏱️ 2:07 • 4d ago
 
 ---
 

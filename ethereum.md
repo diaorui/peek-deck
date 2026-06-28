@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-27T22:35:58.520370+00:00'
+updated: '2026-06-28T00:03:05.217342+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 27, 2026 at 22:35 UTC  
+**Last Updated:** June 28, 2026 at 00:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,574.35
+### $1,575.25
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -0.1%  
-**7d:** -7.6%  
-**30d:** -21.8%  
-**90d:** -22.2%  
-**1y:** -35.3%  
+**7d:** -8.9%  
+**30d:** -22.2%  
+**90d:** -25.3%  
+**1y:** -37.1%  
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 2d ago
 
 BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -188,7 +188,15 @@ The Block • 1d ago
 
 TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
 
-TradingView • 5h ago
+TradingView • 7h ago
+
+---
+
+**[AMLBot Puts Polymarket Phishing Toll at $3.1M Across 11 Wallets, Funds Traced to Ethereum](https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum)**
+
+AMLBot confirms the Polymarket phishing breach reached $3.1M in PUSD stolen from 11 wallets, with funds bridged from Polygon to Ethereum and converted to roughly 1,893 ETH. Polymarket has pledged full refunds.
+
+thedefiant.io • 5h ago
 
 ---
 
@@ -200,22 +208,6 @@ Coinbase • 1d ago
 
 ---
 
-**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
-
-Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
-
-BeInCrypto • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC slides to a fresh yearly low, ETH breaks down, XRP signals more losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-slides-to-a-fresh-yearly-low-eth-breaks-down-xrp-signals-more-losses-202606260415)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under heavy selling pressure on Friday, falling over 7%, 9% and 8%, respectively, so far this week. BTC has fallen to a fresh yearly low, ETH slipped below key support, while XRP continues to lose momentum.
-
-FXStreet • 1d ago
-
----
-
 **[Ethereum Price Preparing for a Strong Breakout—Here’s Why a Rise Above $2000 is Imminent](https://coinpedia.org/price-analysis/ethereum-price-preparing-for-a-strong-breakout-heres-why-a-rise-above-2000-is-imminent/)**
 
 Ethereum’s rebound from the $1,530 support zone hints at a short-term liquidity hunt, with $1,670–$1,720 as the next target.
@@ -224,11 +216,19 @@ Coinpedia • 2d ago
 
 ---
 
-**[Ethereum’s oldest wallets are selling into the $1,500 demand line buyers cannot dodge](https://cryptoslate.com/ethereums-oldest-wallets-are-selling-into-the-one-price-test-buyers-cannot-dodge/)**
+**[$10.63 Billion Bitcoin and Ethereum Options Expire as Markets Search for a Bottom](https://beincrypto.com/bitcoin-ethereum-options-expiry-june-2026/)**
 
-Four long-dormant ETH wallets sold most of a 37,602 ETH stash near $1,560, turning Ethereum's drawdown into a test of whether fresh demand can absorb old-ho
+Roughly $10.63 billion in Bitcoin and Ethereum options expire as both trade below max pain and traders hunt for a bottom.
 
-CryptoSlate • 7h ago
+BeInCrypto • 1d ago
+
+---
+
+**[Crypto Today: Bitcoin at $60,000, Ethereum at $1,500, and XRP at $1 face a make-or-break test](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-at-60-000-ethereum-at-1-500-and-xrp-at-1-face-a-make-or-break-test-202606261232)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are trading in the red on Friday after three consecutive days of losses, testing their respective make-or-break support levels. The prevailing bearish pressure weighs on the prospects of a rebound despite potential bullish RSI divergences.
+
+FXStreet • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ No B.S. Just Charts. Everyone is bearish on Bitcoin right now, and that alone is
 
 📺 Gareth Soloway
 
-👁️ 48K • 👍 4K • 💬 339 • ⏱️ 13:19 • 8h ago
+👁️ 48K • 👍 4K • 💬 339 • ⏱️ 13:19 • 10h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 188 • 👍 15 • 💬 25 • ⏱️ 5:07 • 10h ago
+👁️ 188 • 👍 15 • 💬 25 • ⏱️ 5:07 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & ALTCOIN HOLDERS: PREPARE NOW (Bullish)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 238 • 💬 172 • ⏱️ 18:14 • 4h ago
+👁️ 4K • 👍 238 • 💬 172 • ⏱️ 18:14 • 6h ago
 
 ---
 
