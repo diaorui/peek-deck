@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-29T09:04:52.824089+00:00'
+updated: '2026-06-29T13:51:14.636997+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 29, 2026 at 09:04 UTC  
+**Last Updated:** June 29, 2026 at 13:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 22h ago
+Financial Times • 1d ago
 
 ---
 
@@ -120,7 +120,23 @@ Financial Times • 22h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 5h ago
+IEEE Spectrum • 10h ago
+
+---
+
+**[MicroVision sends lidar sensors to AI giant for robotics tests](https://www.stocktitan.net/news/MVIS/micro-vision-delivers-movia-tm-sensors-to-leading-artificial-m61apwubu5vz.html)**
+
+MOVIA S sensors will support evaluation of robotics, machine perception and spatial intelligence as AI firms test physical-world applications.
+
+Stock Titan • 31m ago
+
+---
+
+**[Are Humanoid Robots Ready to Be Deployed?](https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed)**
+
+Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
+
+The New Yorker • 3h ago
 
 ---
 
@@ -128,7 +144,21 @@ IEEE Spectrum • 5h ago
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 17h ago
+
+---
+
+**[How AI and robotics will transform auto manufacturing](https://www.autonews.com/technology/an-ai-robotics-auto-manufacturing-0628/)**
+
+Automakers are testing AI for workflow management, supply chains and humanoid robots. But the technology's biggest near-term effect may come in vehicle maintenance and financing instead of factory production.
+
+Automotive News • 1d ago
+
+---
+
+**[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -136,7 +166,15 @@ Seeking Alpha • 12h ago
 
 Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
 
-CoinDesk • 20h ago
+CoinDesk • 1d ago
+
+---
+
+**[LLMs help robots understand vague instructions and focus on key details](https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626)**
+
+MIT CSAIL&#039;s “Masked IRL” algorithm helps a robot understand ambiguous instructions so it does chores safely. An LLM first elaborates on users&#039; prompts based on demonstration data, then another narrows down which details an algorithm should incorporate into a motion plan.
+
+MIT News • 3d ago
 
 ---
 
@@ -144,43 +182,7 @@ CoinDesk • 20h ago
 
 Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
 
-Futurism • 19h ago
-
----
-
-**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
-
-Tech Xplore • 2d ago
-
----
-
-**[Opinion | Can robots end our loneliness crisis?](https://www.bostonglobe.com/2026/06/28/opinion/seniors-loneliness-robots-relationship-elliq/)**
-
-An experiment rolling out robots to keep the elderly company is showing surprising results.
-
-The Boston Globe • 1d ago
-
----
-
-**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
-
-Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
-
-Silicon Canals • 2d ago
-
----
-
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
-
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 2d ago
-
----
-
-**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
-
-San Francisco Chronicle • 2d ago
+Futurism • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 423K • 👍 12K • 💬 1K • ⏱️ 24:13 • 1d ago
+👁️ 427K • 👍 12K • 💬 1K • ⏱️ 24:13 • 1d ago
 
 ---
 
@@ -204,17 +206,17 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 64K • 👍 4K • 💬 2K • ⏱️ 13:18 • 21h ago
+👁️ 68K • 👍 4K • 💬 2K • ⏱️ 13:18 • 1d ago
 
 ---
 
-**[Amazon’s $1 BILLION bet on robots is changing lives](https://www.youtube.com/watch?v=4xVeuLfCdj8)**
+**[The Robotics Giant Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cgwuLcXXUf8)**
 
-FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facility, showcasing the Proteus robot. Subscribe to ...
+Robotics is a booming business, but it's not all about upstarts. There's a $150 billion business with a presence in nearly every ...
 
-📺 Fox Business
+📺 The Motley Fool
 
-👁️ 6K • 👍 208 • 💬 88 • ⏱️ 3:03 • 1d ago
+👁️ 2K • 👍 92 • 💬 2 • ⏱️ 11:26 • 18h ago
 
 ---
 
@@ -224,7 +226,7 @@ China's Terminator has entered the US. The San Francisco startup REK, short for 
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:01 • 14h ago
+👁️ 3K • 👍 102 • 💬 11 • ⏱️ 1:01 • 19h ago
 
 ---
 
@@ -232,37 +234,17 @@ China's Terminator has entered the US. The San Francisco startup REK, short for 
 
 📺 Robot Julie 
 
-👁️ 8K • 👍 31 • 💬 1 • ⏱️ 0:21 • 1d ago
+👁️ 12K • 👍 36 • 💬 1 • ⏱️ 0:21 • 1d ago
 
 ---
 
-**[DEEP Robotics DR02 Just Got Even Better](https://www.youtube.com/watch?v=KV6kaOIcShg)**
+**[Amazon’s $1 BILLION bet on robots is changing lives](https://www.youtube.com/watch?v=4xVeuLfCdj8)**
 
-DEEP Robotics has unveiled another major evolution of its DR02 humanoid robot, showcasing smoother movement, better ...
+FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facility, showcasing the Proteus robot. Subscribe to ...
 
-📺 DPCcars
+📺 Fox Business
 
-👁️ 945 • 👍 32 • 💬 3 • ⏱️ 1:50 • 1d ago
-
----
-
-**[Beni: The Robot That Films You in 4K on Wheels](https://www.youtube.com/watch?v=ulyXAHHds1k)**
-
-This two-wheeled robot drives behind you and films you in 4K on its own. It's called Beni, from @mondorobotics . It auto-tracks you ...
-
-📺 Yury AI
-
-👁️ 1K • 👍 26 • ⏱️ 0:36 • 8h ago
-
----
-
-**[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)**
-
-Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma runs on hardware like Raspberry Pi, ...
-
-📺 Google for Developers
-
-👁️ 17K • 👍 537 • 💬 24 • ⏱️ 2:53 • 2d ago
+👁️ 6K • 👍 212 • 💬 90 • ⏱️ 3:03 • 1d ago
 
 ---
 
@@ -276,13 +258,33 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 ---
 
-**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
+**[HUMANOID ROBOT PREDICTS THE WORLD CUP](https://www.youtube.com/watch?v=iwDhFC8kcn4)**
 
-This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
+We sat down with Sophia the Robot to get her official FIFA World Cup predictions… and things did NOT go how we planned.
 
-📺 Talent Replay
+📺 Habibi Squad
 
-👁️ 50K • 👍 492 • 💬 20 • ⏱️ 39:57 • 1d ago
+👁️ 28K • 👍 1K • 💬 243 • ⏱️ 19:16 • 2d ago
+
+---
+
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
+
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
+
+📺 brenpoly
+
+👁️ 33K • 👍 2K • 💬 141 • ⏱️ 23:57 • 1d ago
+
+---
+
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+
+Your Smart Robot Companion.
+
+📺 Unitree Robotics
+
+👁️ 2.8M • 👍 2K • 💬 544 • ⏱️ 0:31 • 5d ago
 
 ---
 
