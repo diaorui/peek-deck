@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-29T13:51:14.636997+00:00'
+updated: '2026-06-29T16:53:26.183254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 29, 2026 at 13:51 UTC  
+**Last Updated:** June 29, 2026 at 16:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hello all, I am trying to recreate this mechanism as a personal project - and I 
 
 I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and there was no ROS 2 support for it, so I created one and put it on GitHub: 👉 https://github.com/rqtqp/ros2_borunte_0707A It's a ROS 2 (Humble) workspace that talks to the controller over its JSON-over-TCP interface (port 9760) — no vendor SDK needed. What works today: Telemetry — live joint state on /joint_states, plus controller status/health. MoveIt 2 motion — Plan + Execute in RViz actually moves the real arm (the bridge turns the planned trajectory into the controller's AddRCC motion command). Safety — dry-run by default, live precondition gate (mode/alarm/limits), soft limits, and a /stop abort service. Model (URDF + meshes) and a MoveIt config included, plus a documented mechanical-zero (groove/blade) home calibration. Sharing it in case it's useful to anyone working with these arms. If you have questions about this piece of equipment (the arm, the HC1 controller, or its remote-command protocol), feel free to ask 🙂
 
-1d ago
+2d ago
 
 ---
 
@@ -108,14 +108,6 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 ## Google News: "robotics"
 
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
-
-Factory-floor applications of the technology could significantly enhance rich-world economies
-
-Financial Times • 1d ago
-
----
-
 **[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
 
 Your weekly selection of awesome robot videos
@@ -124,11 +116,19 @@ IEEE Spectrum • 10h ago
 
 ---
 
-**[MicroVision sends lidar sensors to AI giant for robotics tests](https://www.stocktitan.net/news/MVIS/micro-vision-delivers-movia-tm-sensors-to-leading-artificial-m61apwubu5vz.html)**
+**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
 
-MOVIA S sensors will support evaluation of robotics, machine perception and spatial intelligence as AI firms test physical-world applications.
+Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
 
-Stock Titan • 31m ago
+Silicon Canals • 2d ago
+
+---
+
+**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
+
+The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
+
+Baton Rouge Business Report • 2h ago
 
 ---
 
@@ -136,15 +136,7 @@ Stock Titan • 31m ago
 
 Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
 
-The New Yorker • 3h ago
-
----
-
-**[SA Asks: What's the most attractive robotics stock right now? (TER:NASDAQ)](https://seekingalpha.com/news/4607906-sa-asks-whats-the-most-attractive-robotics-stock-right-now)**
-
-What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
-
-Seeking Alpha • 17h ago
+The New Yorker • 6h ago
 
 ---
 
@@ -158,31 +150,41 @@ Automotive News • 1d ago
 
 **[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Tokenization is becoming the financing layer for AI and robotics, Framework bets with $400 million fund](https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says)**
+**[SA Asks: What's the most attractive robotics stock right now? (TER:NASDAQ)](https://seekingalpha.com/news/4607906-sa-asks-whats-the-most-attractive-robotics-stock-right-now)**
 
-Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
+What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
-CoinDesk • 1d ago
-
----
-
-**[LLMs help robots understand vague instructions and focus on key details](https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626)**
-
-MIT CSAIL&#039;s “Masked IRL” algorithm helps a robot understand ambiguous instructions so it does chores safely. An LLM first elaborates on users&#039; prompts based on demonstration data, then another narrows down which details an algorithm should incorporate into a motion plan.
-
-MIT News • 3d ago
+Seeking Alpha • 20h ago
 
 ---
 
-**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
+**[South Korea to Invest $880 Billion Into Chips, Robotics and AI Over 10 Years](https://www.theinformation.com/briefings/south-korea-invest-880-billion-chips-robotics-ai-10-years)**
 
-Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
+South Korea’s government on Monday announced an 1,350 trillion won ($880 billion) investment plan into semiconductors, robotics and AI over the next decade, in response to the surging demand for memory chips and the AI infrastructure boom. 
 
-Futurism • 1d ago
+ Samsung Group and SK Group, parent companies of Samsung Electronics and SK Hynix, respectively, two of the world’s leading memory chipmakers, will invest
+
+The Information • 6h ago
+
+---
+
+**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
+
+Factory-floor applications of the technology could significantly enhance rich-world economies
+
+Financial Times • 1d ago
+
+---
+
+**[Exclusive: Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/)**
+
+The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.
+
+TechCrunch • 2h ago
 
 ---
 
@@ -196,7 +198,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 427K • 👍 12K • 💬 1K • ⏱️ 24:13 • 1d ago
+👁️ 428K • 👍 12K • 💬 1K • ⏱️ 24:13 • 2d ago
 
 ---
 
@@ -206,35 +208,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 68K • 👍 4K • 💬 2K • ⏱️ 13:18 • 1d ago
-
----
-
-**[The Robotics Giant Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cgwuLcXXUf8)**
-
-Robotics is a booming business, but it's not all about upstarts. There's a $150 billion business with a presence in nearly every ...
-
-📺 The Motley Fool
-
-👁️ 2K • 👍 92 • 💬 2 • ⏱️ 11:26 • 18h ago
-
----
-
-**[China&#39;s T800 (Terminator) Has Entered the US #robotics #robot #engineai](https://www.youtube.com/watch?v=b10WaBjDMDQ)**
-
-China's Terminator has entered the US. The San Francisco startup REK, short for Robot Entertainment Kombat, says it has the ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 102 • 💬 11 • ⏱️ 1:01 • 19h ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
-
-📺 Robot Julie 
-
-👁️ 12K • 👍 36 • 💬 1 • ⏱️ 0:21 • 1d ago
+👁️ 71K • 👍 4K • 💬 2K • ⏱️ 13:18 • 1d ago
 
 ---
 
@@ -244,7 +218,27 @@ FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facili
 
 📺 Fox Business
 
-👁️ 6K • 👍 212 • 💬 90 • ⏱️ 3:03 • 1d ago
+👁️ 6K • 👍 211 • 💬 91 • ⏱️ 3:03 • 1d ago
+
+---
+
+**[The Robotics Giant Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cgwuLcXXUf8)**
+
+Robotics is a booming business, but it's not all about upstarts. There's a $150 billion business with a presence in nearly every ...
+
+📺 The Motley Fool
+
+👁️ 3K • 👍 106 • 💬 2 • ⏱️ 11:26 • 21h ago
+
+---
+
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+
+📺 Got Talent Global
+
+👁️ 13K • 👍 256 • 💬 17 • ⏱️ 5:08 • 1d ago
 
 ---
 
@@ -258,23 +252,13 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 ---
 
-**[HUMANOID ROBOT PREDICTS THE WORLD CUP](https://www.youtube.com/watch?v=iwDhFC8kcn4)**
+**[Her Hair Disappeared Into the Machine 🌀 Then This Happened 🤖](https://www.youtube.com/watch?v=mTZ5yixwwyk)**
 
-We sat down with Sophia the Robot to get her official FIFA World Cup predictions… and things did NOT go how we planned.
+A hair machine turning loose hair into perfect braids in one pass is wild ⚙️ The crank, the steam, the reveal… this is exactly ...
 
-📺 Habibi Squad
+📺 Prototype Leaked
 
-👁️ 28K • 👍 1K • 💬 243 • ⏱️ 19:16 • 2d ago
-
----
-
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
-
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
-
-📺 brenpoly
-
-👁️ 33K • 👍 2K • 💬 141 • ⏱️ 23:57 • 1d ago
+👁️ 13K • 👍 128 • 💬 2 • ⏱️ 0:11 • 23h ago
 
 ---
 
@@ -284,7 +268,25 @@ Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 2.8M • 👍 2K • 💬 544 • ⏱️ 0:31 • 5d ago
+👁️ 2.9M • 👍 2K • 💬 544 • ⏱️ 0:31 • 5d ago
+
+---
+
+**[DEEP Robotics DR02 Just Got Even Better](https://www.youtube.com/watch?v=KV6kaOIcShg)**
+
+DEEP Robotics has unveiled another major evolution of its DR02 humanoid robot, showcasing smoother movement, better ...
+
+📺 DPCcars
+
+👁️ 1K • 👍 34 • 💬 3 • ⏱️ 1:50 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
+
+📺 Robot Julie 
+
+👁️ 13K • 👍 38 • 💬 1 • ⏱️ 0:21 • 1d ago
 
 ---
 
