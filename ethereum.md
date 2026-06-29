@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-29T19:04:52.800954+00:00'
+updated: '2026-06-29T21:08:24.446941+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 29, 2026 at 19:04 UTC  
+**Last Updated:** June 29, 2026 at 21:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,624.52
+### $1,624.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** -3.0%  
-**30d:** -19.4%  
-**90d:** -24.4%  
-**1y:** -35.0%  
+**24h:** +3.7%  
+**7d:** -3.2%  
+**30d:** -19.6%  
+**90d:** -24.6%  
+**1y:** -35.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.05B
+**Market Cap:** $194.57B
 Rank #2
 
-**Circulating Supply:** 120,683,477 ETH
+**Circulating Supply:** 120,683,707 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.3%
+-67.4%
 
 **All-Time Low:** $0.43
-+373114.4%
++372246.0%
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-43-151316356.html)**
+**[Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys](https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys)**
 
 BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
 
-Yahoo Finance • 3h ago
+Decrypt • 5h ago
+
+---
+
+**[Ethereum Price to $95K? Bullish Robert Kiyosaki Call Resurfaces as SharpLink Buys More ETH](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-95k-bullish-robert-114215214.html)**
+
+SharpLink keeps buying despite huge losses. Robert Kiyosaki's March forecast that Ethereum could reach $95,000 after the next global financial crisis has gone viral again. ...
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -164,7 +172,15 @@ Yahoo Finance • 3h ago
 
 Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
 
-The Block • 11h ago
+The Block • 13h ago
+
+---
+
+**[Vitalik Buterin says crypto’s most powerful idea is still nowhere near ready](https://www.coindesk.com/tech/2026/06/29/vitalik-buterin-says-crypto-s-most-powerful-idea-is-still-nowhere-near-ready)**
+
+The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
+
+CoinDesk • 8h ago
 
 ---
 
@@ -172,15 +188,7 @@ The Block • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
-
-Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
-
-CoinDesk • 6h ago
+Fortune • 8h ago
 
 ---
 
@@ -188,7 +196,7 @@ CoinDesk • 6h ago
 
 About 60% of World Cup bettors on Polymarket are first-time crypto usersAbout 60% of users who placed their first World Cup bets on Polymarket had never interacted with blockchain protocols before, suggesting prediction markets are becoming an entry point into crypto. The finding is based on a 90-d…
 
-TradingView • 20h ago
+TradingView • 22h ago
 
 ---
 
@@ -196,7 +204,23 @@ TradingView • 20h ago
 
 AI and Big Tech stocks sold off, and Strategy’s $16 billion unrealized loss added to investors’ concern that Bitcoin could sink lower next week.
 
-CoinMarketCap • 11h ago
+CoinMarketCap • 13h ago
+
+---
+
+**[Bitcoin Reclaims $60,000 As Ethereum, XRP, Dogecoin Rise After Strategy Unveils BTC Monetization Plan](https://www.benzinga.com/crypto/cryptocurrency/26/06/60171180/bitcoin-reclaims-60000-as-ethereum-xrp-dogecoin-rise-after-strategy-unveils-btc-monetization-plan)**
+
+Bitcoin rebounded above $60,000 alongside gains in Ethereum, XRP and Dogecoin after Strategy unveiled its Bitcoin monetization and capital restructuring plan, easing immediate market concerns.
+
+Benzinga • 1h ago
+
+---
+
+**[Bitmine reaches 94% of ETH target as it joins Russell 1000](https://cryptobriefing.com/bitmine-reaches-94-of-eth-target-as-it-joins-russell-1000/)**
+
+Bitmine joins the Russell 1000 as it reaches 94% of its 5% Ethereum target, with $9.8B in crypto, cash and other holdings.
+
+Crypto Briefing • 8h ago
 
 ---
 
@@ -204,31 +228,7 @@ CoinMarketCap • 11h ago
 
 Bitcoin and Ethereum ETF outflows dwarfed XRP’s weekly inflow, while selective demand for XRP and HYPE wrappers showed institutions separating broad crypto
 
-CryptoSlate • 8h ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Slide, XRP Flat As US-Iran Tensions Escalate Over The Weekend: Analyst Notes](https://www.benzinga.com/crypto/cryptocurrency/26/06/60147856/bitcoin-ethereum-and-dogecoin-slide-as-us-iran-tensions-escalate-analyst-spots-interesting-bitcoin-signal)**
-
-Leading cryptocurrencies traded in the red overnight on Sunday, June 28, as renewed U.S.–Iran confrontations threatened a fragile ceasefire.
-
-Benzinga • 17h ago
-
----
-
-**[BitMine Expands Ethereum Treasury and Joins Russell 1000](https://www.tipranks.com/news/company-announcements/bitmine-expands-ethereum-treasury-and-joins-russell-1000)**
-
-An update from BitMine Immersion Technologies ( ($BMNR) ) is now available. On June 29, 2026, Bitmine reported that as of June 28 it held 5.70 million ETH, represen...
-
-TipRanks • 5h ago
-
----
-
-**[BitMine acquires 27,084 Ethereum for $43M as Tom Lee's firm pushes toward 5% supply target](https://cryptobriefing.com/bitmine-acquires-ethereum-43m-tom-lee/)**
-
-BitMine Immersion Technologies bought 27,084 ETH for $43M, bringing total holdings past 5.7 million tokens as Tom Lee targets 5% of Ethereum supply.
-
-Crypto Briefing • 5h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -236,13 +236,23 @@ Crypto Briefing • 5h ago
 
 ## YouTube Videos: "ethereum"
 
+**[The Secret War That Could Make Ethereum Explode w/ John Gillen](https://www.youtube.com/watch?v=b0hzBtXhk3Q)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 499 • 👍 42 • 💬 13 • ⏱️ 41:52 • 2h ago
+
+---
+
 **[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
 
 Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 1K • 💬 156 • ⏱️ 9:18 • 8h ago
+👁️ 13K • 👍 1K • 💬 26 • ⏱️ 9:18 • 10h ago
 
 ---
 
@@ -252,17 +262,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 165 • 💬 58 • ⏱️ 1:01:02 • 8h ago
+👁️ 5K • 👍 177 • 💬 41 • ⏱️ 1:01:02 • 10h ago
 
 ---
 
-**[🚩 Ethereum Will Crash Another 22%! - ETH Crypto Analysis](https://www.youtube.com/watch?v=wI_r52MOrZY)**
+**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
 
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Trade Confident
 
-👁️ 573 • 👍 36 • 💬 7 • ⏱️ 11:33 • 3h ago
+👁️ 112 • 👍 9 • 💬 6 • ⏱️ 5:31 • 2h ago
 
 ---
 
@@ -272,7 +282,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 249 • ⏱️ 9:55 • 22h ago
+👁️ 51K • 👍 2K • 💬 156 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -282,7 +292,7 @@ Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC docum
 
 📺 Crypto Sensei
 
-👁️ 15K • 👍 795 • 💬 90 • ⏱️ 21:39 • 22h ago
+👁️ 15K • 👍 803 • 💬 90 • ⏱️ 21:39 • 1d ago
 
 ---
 
@@ -292,37 +302,7 @@ Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 8K • 👍 351 • 💬 11 • ⏱️ 1:06 • 1d ago
-
----
-
-**[ETHEREUM : LA FIN ? CE QUI SE PRÉPARE EST FOU ! 🚨](https://www.youtube.com/watch?v=MtSoRbyja2Q)**
-
-Le prix d'Ethereum baisse — et pourtant BlackRock intensifie ses produits institutionnels avec des ETF staking qui génèrent des ...
-
-📺 Crypto Le Trone
-
-👁️ 6K • 👍 612 • 💬 33 • ⏱️ 16:13 • 5h ago
-
----
-
-**[Ethereum बनेगा Bitcoin का बाप? | Ethereum Vs Bitcoin | SAGAR SINHA](https://www.youtube.com/watch?v=wyt5heRVQGM)**
-
-CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
-
-📺 Sagar Sinha 
-
-👁️ 67K • 👍 3K • 💬 600 • ⏱️ 21:19 • 1d ago
-
----
-
-**[BITCOIN: This Is Why I’m BUYING! (exact plan) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=xCUWgufJSzo)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 5K • 👍 302 • 💬 17 • ⏱️ 51:41 • 23h ago
+👁️ 8K • 👍 351 • 💬 12 • ⏱️ 1:06 • 1d ago
 
 ---
 
@@ -332,7 +312,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 123 • 👍 8 • 💬 160 • ⏱️ 5:18 • 8h ago
+👁️ 157 • 👍 10 • 💬 5 • ⏱️ 5:18 • 10h ago
+
+---
+
+**[ETHEREUM : LA FIN ? CE QUI SE PRÉPARE EST FOU ! 🚨](https://www.youtube.com/watch?v=MtSoRbyja2Q)**
+
+Le prix d'Ethereum baisse — et pourtant BlackRock intensifie ses produits institutionnels avec des ETF staking qui génèrent des ...
+
+📺 Crypto Le Trone
+
+👁️ 8K • 👍 730 • 💬 33 • ⏱️ 16:13 • 7h ago
+
+---
+
+**[Ethereum बनेगा Bitcoin का बाप? | Ethereum Vs Bitcoin | SAGAR SINHA](https://www.youtube.com/watch?v=wyt5heRVQGM)**
+
+CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
+
+📺 Sagar Sinha 
+
+👁️ 70K • 👍 3K • 💬 602 • ⏱️ 21:19 • 1d ago
 
 ---
 

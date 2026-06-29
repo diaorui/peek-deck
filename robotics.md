@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-29T19:04:52.804224+00:00'
+updated: '2026-06-29T21:08:24.449667+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 29, 2026 at 19:04 UTC  
+**Last Updated:** June 29, 2026 at 21:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 **[3D Model Gallery for 3D ROV Exploring Game](https://www.reddit.com/r/robotics/comments/1uhchq7/3d_model_gallery_for_3d_rov_exploring_game/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -112,15 +112,15 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 12h ago
+IEEE Spectrum • 17h ago
 
 ---
 
-**[Nvidia vs. Qualcomm: Bernstein Chooses the Top Robotics AI Stock to Buy](https://www.tipranks.com/news/nvidia-vs-qualcomm-bernstein-chooses-the-top-robotics-ai-stock-to-buy)**
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
 
-Humanoid robotics is expected to become one of the fastest-growing technology markets over the next decade. As companies race to build smarter robots, demand is als...
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
 
-TipRanks • 5h ago
+Business Insider • 3d ago
 
 ---
 
@@ -128,7 +128,7 @@ TipRanks • 5h ago
 
 Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
 
-The New Yorker • 9h ago
+The New Yorker • 11h ago
 
 ---
 
@@ -140,19 +140,27 @@ Automotive News • 1d ago
 
 ---
 
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
-
-Factory-floor applications of the technology could significantly enhance rich-world economies
-
-Financial Times • 1d ago
-
----
-
 **[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
 
 The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
 
-Baton Rouge Business Report • 4h ago
+Baton Rouge Business Report • 6h ago
+
+---
+
+**[Astronauts Ready for Tuesday Spacewalk to Repair Canadarm2 Robotic Arm](https://www.nasa.gov/blogs/spacestation/2026/06/29/astronauts-ready-for-tuesday-spacewalk-to-repair-canadarm2-robotic-arm/)**
+
+The Expedition 74 astronauts are ready for a spacewalk on Tuesday following the completion of spacesuit configurations and procedure reviews on Monday. The International Space Station’s three cosmonauts kept busy throughout the day servicing Roscosmos scientific, electronics, and life support systems.
+
+NASA (.gov) • 3h ago
+
+---
+
+**[OUST Stock Soars To 54-Month Highs — Retail Points To Physical AI, Robotics Opportunity](https://finance.yahoo.com/markets/stocks/articles/oust-stock-soars-54-month-152337893.html)**
+
+Ouster announced a string of partnerships and product launches this month that expand the use of its Rev8 digital lidar platform.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -160,13 +168,7 @@ Baton Rouge Business Report • 4h ago
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
-Seeking Alpha • 22h ago
-
----
-
-**[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
-
-Bloomberg.com • 9h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -176,15 +178,13 @@ South Korea’s government on Monday announced an 1,350 trillion won ($880 billi
 
  Samsung Group and SK Group, parent companies of Samsung Electronics and SK Hynix, respectively, two of the world’s leading memory chipmakers, will invest
 
-The Information • 8h ago
+The Information • 10h ago
 
 ---
 
-**[OUST Stock Soars To 54-Month Highs — Retail Points To Physical AI, Robotics Opportunity](https://finance.yahoo.com/markets/stocks/articles/oust-stock-soars-54-month-152337893.html)**
+**[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
 
-Ouster announced a string of partnerships and product launches this month that expand the use of its Rev8 digital lidar platform.
-
-Yahoo Finance • 3h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 429K • 👍 12K • 💬 1K • ⏱️ 24:13 • 2d ago
+👁️ 431K • 👍 12K • 💬 1K • ⏱️ 24:13 • 2d ago
 
 ---
 
@@ -208,17 +208,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 74K • 👍 5K • 💬 2K • ⏱️ 13:18 • 1d ago
-
----
-
-**[Amazon’s $1 BILLION bet on robots is changing lives](https://www.youtube.com/watch?v=4xVeuLfCdj8)**
-
-FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facility, showcasing the Proteus robot. Subscribe to ...
-
-📺 Fox Business
-
-👁️ 6K • 👍 211 • 💬 91 • ⏱️ 3:03 • 1d ago
+👁️ 77K • 👍 5K • 💬 2K • ⏱️ 13:18 • 1d ago
 
 ---
 
@@ -228,7 +218,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 14K • 👍 266 • 💬 18 • ⏱️ 5:08 • 1d ago
+👁️ 15K • 👍 278 • 💬 18 • ⏱️ 5:08 • 1d ago
 
 ---
 
@@ -238,7 +228,17 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 📺 Tech Revolution
 
-👁️ 39K • 👍 813 • 💬 67 • ⏱️ 21:30 • 4d ago
+👁️ 39K • 👍 814 • 💬 67 • ⏱️ 21:30 • 4d ago
+
+---
+
+**[Tesla Bot Gen 3 Will Replace Nurses Forever?](https://www.youtube.com/watch?v=DwZRH9zy6UE)**
+
+Tesla Optimus Gen 3 is no longer just a robot demo—it's a social revolution. Elon Musk is shifting Tesla's focus toward a ...
+
+📺 Tesla Insider News
+
+👁️ 8K • 👍 159 • 💬 14 • ⏱️ 24:55 • 1d ago
 
 ---
 
@@ -248,17 +248,7 @@ Robotics is a booming business, but it's not all about upstarts. There's a $150 
 
 📺 The Motley Fool
 
-👁️ 3K • 👍 113 • 💬 2 • ⏱️ 11:26 • 23h ago
-
----
-
-**[Her Hair Disappeared Into the Machine 🌀 Then This Happened 🤖](https://www.youtube.com/watch?v=mTZ5yixwwyk)**
-
-A hair machine turning loose hair into perfect braids in one pass is wild ⚙️ The crank, the steam, the reveal… this is exactly ...
-
-📺 Prototype Leaked
-
-👁️ 14K • 👍 132 • 💬 2 • ⏱️ 0:11 • 1d ago
+👁️ 3K • 👍 116 • 💬 2 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -268,7 +258,17 @@ Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degr
 
 📺 Rocket Lab
 
-👁️ 25K • 👍 2K • 💬 92 • ⏱️ 3:09 • 1d ago
+👁️ 26K • 👍 2K • 💬 93 • ⏱️ 3:09 • 1d ago
+
+---
+
+**[Her Hair Disappeared Into the Machine 🌀 Then This Happened 🤖](https://www.youtube.com/watch?v=mTZ5yixwwyk)**
+
+A hair machine turning loose hair into perfect braids in one pass is wild ⚙️ The crank, the steam, the reveal… this is exactly ...
+
+📺 Prototype Leaked
+
+👁️ 14K • 👍 136 • 💬 2 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Your Smart Robot Companion.
 
 📺 Unitree Robotics
 
-👁️ 2.9M • 👍 2K • 💬 545 • ⏱️ 0:31 • 5d ago
+👁️ 3.0M • 👍 2K • 💬 545 • ⏱️ 0:31 • 5d ago
 
 ---
 
