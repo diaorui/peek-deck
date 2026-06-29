@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-29T04:00:26.232612+00:00'
+updated: '2026-06-29T09:04:52.824089+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 29, 2026 at 04:00 UTC  
+**Last Updated:** June 29, 2026 at 09:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hello all, I am trying to recreate this mechanism as a personal project - and I 
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -108,27 +108,19 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 ## Google News: "robotics"
 
-**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 15h ago
-
----
-
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
-
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 2d ago
-
----
-
 **[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 17h ago
+Financial Times • 22h ago
+
+---
+
+**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 5h ago
 
 ---
 
@@ -136,7 +128,7 @@ Financial Times • 17h ago
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -144,17 +136,21 @@ Seeking Alpha • 7h ago
 
 Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
 
-CoinDesk • 14h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Meet Digit, Agility Robotics' humanoid robot that's a ROI 'from day one'](https://finance.yahoo.com/video/meet-digit-agility-robotics-humanoid-201516624.html)**
+**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
 
-Agility Robotics (AGRO.PVT) is the developer behind the "Digit", a bipedal humanoid robot designed to take on repetitive tasks in human spaces like factories.
+Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
 
-Agility Robotics CEO Peggy Johnson dives into the types of labor roles her company's robots could take on.
+Futurism • 19h ago
 
-Yahoo Finance • 3d ago
+---
+
+**[Artificial skin enables robots to simultaneously sense temperature and pressure like humans](https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -166,19 +162,19 @@ The Boston Globe • 1d ago
 
 ---
 
-**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
-
-Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
-
-Futurism • 14h ago
-
----
-
 **[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
 
 Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
 
 Silicon Canals • 2d ago
+
+---
+
+**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
+
+FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
+
+Business Insider • 2d ago
 
 ---
 
@@ -198,7 +194,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 405K • 👍 12K • 💬 1K • ⏱️ 24:13 • 1d ago
+👁️ 423K • 👍 12K • 💬 1K • ⏱️ 24:13 • 1d ago
 
 ---
 
@@ -208,17 +204,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 59K • 👍 4K • 💬 1K • ⏱️ 13:18 • 15h ago
-
----
-
-**[China&#39;s T800 (Terminator) Has Entered the US #robotics #robot #engineai](https://www.youtube.com/watch?v=b10WaBjDMDQ)**
-
-China's Terminator has entered the US. The San Francisco startup REK, short for Robot Entertainment Kombat, says it has the ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 83 • 💬 8 • ⏱️ 1:01 • 9h ago
+👁️ 64K • 👍 4K • 💬 2K • ⏱️ 13:18 • 21h ago
 
 ---
 
@@ -228,7 +214,25 @@ FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facili
 
 📺 Fox Business
 
-👁️ 6K • 👍 205 • 💬 83 • ⏱️ 3:03 • 1d ago
+👁️ 6K • 👍 208 • 💬 88 • ⏱️ 3:03 • 1d ago
+
+---
+
+**[China&#39;s T800 (Terminator) Has Entered the US #robotics #robot #engineai](https://www.youtube.com/watch?v=b10WaBjDMDQ)**
+
+China's Terminator has entered the US. The San Francisco startup REK, short for Robot Entertainment Kombat, says it has the ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:01 • 14h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
+
+📺 Robot Julie 
+
+👁️ 8K • 👍 31 • 💬 1 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -238,7 +242,7 @@ DEEP Robotics has unveiled another major evolution of its DR02 humanoid robot, s
 
 📺 DPCcars
 
-👁️ 890 • 👍 31 • 💬 3 • ⏱️ 1:50 • 1d ago
+👁️ 945 • 👍 32 • 💬 3 • ⏱️ 1:50 • 1d ago
 
 ---
 
@@ -248,35 +252,17 @@ This two-wheeled robot drives behind you and films you in 4K on its own. It's ca
 
 📺 Yury AI
 
-👁️ 624 • 👍 18 • ⏱️ 0:36 • 2h ago
+👁️ 1K • 👍 26 • ⏱️ 0:36 • 8h ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
+**[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)**
 
-📺 Robot Julie 
+Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma runs on hardware like Raspberry Pi, ...
 
-👁️ 6K • 👍 28 • ⏱️ 0:21 • 1d ago
+📺 Google for Developers
 
----
-
-**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
-
-This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
-
-📺 Talent Replay
-
-👁️ 46K • 👍 455 • 💬 18 • ⏱️ 39:57 • 1d ago
-
----
-
-**[Rocket Lab Robotics](https://www.youtube.com/watch?v=1RF8EylqISc)**
-
-Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degree of freedom robotic arms, actuators, and ...
-
-📺 Rocket Lab
-
-👁️ 21K • 👍 2K • 💬 86 • ⏱️ 3:09 • 1d ago
+👁️ 17K • 👍 537 • 💬 24 • ⏱️ 2:53 • 2d ago
 
 ---
 
@@ -287,6 +273,16 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 📺 Tech Revolution
 
 👁️ 39K • 👍 813 • 💬 67 • ⏱️ 21:30 • 4d ago
+
+---
+
+**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
+
+This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
+
+📺 Talent Replay
+
+👁️ 50K • 👍 492 • 💬 20 • ⏱️ 39:57 • 1d ago
 
 ---
 
