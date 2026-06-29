@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-29T21:08:24.441704+00:00'
+updated: '2026-06-29T22:37:02.957724+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 29, 2026 at 21:08 UTC  
+**Last Updated:** June 29, 2026 at 22:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,298.86
+### $60,419.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** -3.9%  
+**24h:** +1.4%  
+**7d:** -3.8%  
 **30d:** -18.1%  
-**90d:** -11.5%  
-**1y:** -43.8%  
+**90d:** -11.4%  
+**1y:** -43.7%  
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[Strategy prepares to sell up to $1.25 billion of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uixh9s/strategy_prepares_to_sell_up_to_125_billion_of/)**
 
-🔗 [thestreet.com](https://www.thestreet.com/crypto/markets/strategy-prepares-to-sell-up-to-1-25-billion-of-bitcoin) • 4h ago
-
----
-
-**[Should we go all in Bitcoin now ?](https://www.reddit.com/r/Bitcoin/comments/1uinahi/should_we_go_all_in_bitcoin_now/)**
-
-bitcoin is already 55 to 60% down from here should we do DCA till Oct 2026 ? I think from here bitcoin cant go below 52 50k ! I think the bottom is almost in and we can easily make 100 - 120% return in just 2 years !
-
-12h ago
+🔗 [thestreet.com](https://www.thestreet.com/crypto/markets/strategy-prepares-to-sell-up-to-1-25-billion-of-bitcoin) • 6h ago
 
 ---
 
@@ -95,21 +87,7 @@ bitcoin is already 55 to 60% down from here should we do DCA till Oct 2026 ? I t
 
 So I bought Bitcoin back in 2017. Fast forward sold 10x of my initial investment got my sister married and got my self married. Plus have more then that sitting in my wallet. Hurts seeing price go down and panic selling but it did make my life good. Thank you Bitcoin and everyone who believes in it.
 
-1h ago
-
----
-
-**[Bitcoin is dead. Long live Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1uizgyy/bitcoin_is_dead_long_live_bitcoin/)**
-
-Hi everyone, Is it just me, or are people in non-crypto subreddits saying much more often during this bear market that Bitcoin is dead and will never recover compared to the last one? As someone who likes to invest counter-cyclically, I actually find that incredibly bullish. Or is my impression wrong, and the overall sentiment really is just like the last times?
-
-3h ago
-
----
-
-**[Mom, what did you do 😭](https://www.reddit.com/r/Bitcoin/comments/1uijye0/mom_what_did_you_do/)**
-
-15h ago
+2h ago
 
 ---
 
@@ -117,7 +95,29 @@ Hi everyone, Is it just me, or are people in non-crypto subreddits saying much m
 
 Also got a few meals for the family, but didn’t see this shake posted before. Bonus: was very delicious!
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin is dead. Long live Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1uizgyy/bitcoin_is_dead_long_live_bitcoin/)**
+
+Hi everyone, Is it just me, or are people in non-crypto subreddits saying much more often during this bear market that Bitcoin is dead and will never recover compared to the last one? As someone who likes to invest counter-cyclically, I actually find that incredibly bullish. Or is my impression wrong, and the overall sentiment really is just like the last times?
+
+4h ago
+
+---
+
+**[Should we go all in Bitcoin now ?](https://www.reddit.com/r/Bitcoin/comments/1uinahi/should_we_go_all_in_bitcoin_now/)**
+
+bitcoin is already 55 to 60% down from here should we do DCA till Oct 2026 ? I think from here bitcoin cant go below 52 50k ! I think the bottom is almost in and we can easily make 100 - 120% return in just 2 years !
+
+13h ago
+
+---
+
+**[Mom, what did you do 😭](https://www.reddit.com/r/Bitcoin/comments/1uijye0/mom_what_did_you_do/)**
+
+16h ago
 
 ---
 
@@ -125,7 +125,7 @@ Also got a few meals for the family, but didn’t see this shake posted before. 
 
 Had to do it, guys. It's been 5+ years, and the price just keeps getting down near my average purchase price when I DCA'd back in the day. And I can't be left holding a loss after all these years of hodling. Sorry...had to. It may well be the future of finance, and may one day be world reserve currency....but I'm in my middle ages now, and if that day doesn't come for 30+ years...it doesn't do me much good. This is a little scary for me, as when I start down the road of selling, I usually keep going. But...will keep an eye on it for now, my plan is each $1k price drop, I'm selling 10 million sats. And then if it gets into the $40s, I'll start buying back and just pocket the leftover $. Edit: I sold at $59.3k, and Bitcoin is already back up above $60k, so all you naysayers may be right, that I sold the absolute bottom here. If so, then yes I feel dumb. I didn't sell my whole stack - just a good little chunk, and yes I feel dumb about it. It's hard to time the market perfectly, I've never been good at that. Thank you.
 
-18h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ Had to do it, guys. It's been 5+ years, and the price just keeps getting down ne
 
 To be honest, I often watch Bitcoin-related videos on YouTube, but I absolutely avoid channels whose names or themes are solely about Bitcoin. These channels are often just gimmicks or flashy, superficial content. I prefer to carefully search for channels from different fields (like a doctor's vlog where they indirectly discuss Bitcoin, or similar content from people in unrelated areas). For example, in this video, they might indirectly discuss Bitcoin (but mainly talk about things outside of Bitcoin). This allows me to see the attitudes and underlying philosophies of people from various sectors of society towards Bitcoin, which is what I find interesting. Videos where people constantly hold up Bitcoin price charts, commenting on even the smallest daily price changes, and using selfies with wide-eyed, open-mouthed expressions as cover images are just ridiculous. Another crucial point is that you can search by date on YouTube videos about Bitcoin in different years to gauge the overall sentiment. Based on the sentiment expressed in these videos, you can roughly estimate the potential price level. 2026/6/29
 
-8h ago
+10h ago
 
 ---
 
@@ -141,15 +141,15 @@ To be honest, I often watch Bitcoin-related videos on YouTube, but I absolutely 
 
 It will always go lower than you expect. It will never go as high as you expect A bear market will last longer than you think. 4 A bull run will start sooner than your ready for. Because of these rules you will find many bitcoiners will say just DCA. We're not trying to be obnoxious. If you hold for more than 4 years you will likely see an increase in overall value at some point. Cold storage is important because it reduces the ability for market manipulation and provides the best protection for your bitcoin. I hope this helps reduce panic in the current market condition.
 
-7h ago
+9h ago
 
 ---
 
-**[Bitcoin is for the children](https://www.reddit.com/r/Bitcoin/comments/1uj468b/bitcoin_is_for_the_children/)**
+**[Found what looked like seed phrase storage... Actually not a wallet at all!](https://www.reddit.com/r/Bitcoin/comments/1uj4903/found_what_looked_like_seed_phrase_storage/)**
 
-just in case yall forgot. Bitcoinis the shit. the big biddies. My chance to leave my energy and time perserved in an asset that my kids kids can benefit from. Ninja im about to live forever through satoshis. MY grandfather fucked up holding land in N.C that was my Great Aunt T's, and my Great Grandma Burt's. Acres of farm land and a suburban home. My stepfather sold his mothers house in 2009. idiot. i know that im not fucking this up for my kid. i stack sats for her. i stack because its my only hope like luke skywalker. for real for real. its my comstock load. Its my chance to stake a claim on land out West. This opportunity lives forever through your kids if they hold it right and understand what they have. Bitcoin is for the children. stack sats and save on the blockchain its the boycott of all boycotts. SATYAGRAHA! bitcoin is for the children.
+Wow. I had to do a double take. I was in my basement getting ready to make a Safu Ninja wallet. When suddenly I came across these three stacks. Would you believe that they **didn't** contain any seed words, at all! At one point, I don't know how long ago, I just thought this would be a good way to organize some extra washers that I had available. Of course, I'm disappointed that I didn't discover a forgotten stash. But I'm also relieved that my early onset dementia isn't bad enough that I completely forgot about creating and, subsequently misplacing, a wallet!
 
-31m ago
+1h ago
 
 ---
 
@@ -157,17 +157,15 @@ just in case yall forgot. Bitcoinis the shit. the big biddies. My chance to leav
 
 ## Google News: "bitcoin"
 
-**[Strategy Says It May Sell Up to $1.25 Billion of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-says-may-sell-1-130414153.html)**
+**[Strategy’s Turnaround Plan Includes Stock Buyback, Bitcoin Sales and More Reserves](https://www.wsj.com/finance/currencies/strategys-turnaround-plan-includes-stock-buyback-bitcoin-sales-and-more-reserves-4c61c8b6)**
 
-(Bloomberg) -- Michael Saylor’s Strategy Inc. unveiled a sweeping overhaul of the financing model underpinning its Bitcoin strategy, giving itself broader powers to sell the cryptocurrency, buy back securities and preserve liquidity as it adapts to mounting pressure on the structure that fueled years of aggressive accumulation.Most Read from BloombergTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsUS and Iran Agree to Halt Attacking Each Other Ahead of TalksOil Trades Near Four-Mo
-
-Yahoo Finance • 8h ago
+WSJ • 1h ago
 
 ---
 
-**[Analyst warns Bitcoin's rare decline could mirror 2022 collapse](https://finance.yahoo.com/markets/crypto/articles/analyst-warns-bitcoins-rare-decline-195751075.html)**
+**[Strategy Snaps 9-Day Losing Streak as Bitcoin Giant Adopts 'Robust' Capital Framework](https://finance.yahoo.com/markets/crypto/articles/strategy-snaps-9-day-losing-212654092.html)**
 
-Bitcoin (BTC) is testing the $60,000 mark another time, and traders are split on whether the largest cryptocurrency has further to fall. The retest comes as Bitcoin tracks toward a rare three-straight quarterly decline. While some traders point to Bitcoin's recent resilience and flag ...
+Strategy's shares remained 42% down from its market-rattling Bitcoin sale nearly a month ago.
 
 Yahoo Finance • 1h ago
 
@@ -177,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin's $60,000 level will be critical to watch in the coming months, one strategist says. Another sees downside to $40,000.
 
-CNBC • 18h ago
+CNBC • 20h ago
 
 ---
 
@@ -185,35 +183,15 @@ CNBC • 18h ago
 
 The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin (BTC) price steadies as analysts warn more downside lies ahead](https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week)**
+**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
 
-BTC edged up 0.6% to $59,800 to start the week while SOL rose 2%, though derivatives data and chart formations point to continued downside risk.
-
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin Just Dropped Below $60,000. History Says This Is What Happens Next.](https://www.fool.com/investing/2026/06/28/bitcoin-below-60000-history-says-this-happens-next/)**
-
-When it comes to the world's most valuable digital asset, the market continues to express just how bearish it has become.
+The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
 
 The Motley Fool • 1d ago
-
----
-
-**[Bitcoin has crashed 99% before in 2011. But, it's still here.](https://finance.yahoo.com/video/bitcoin-crashed-99-2011-still-120000298.html)**
-
-As bitcoin (BTC-USD) continues to hover around $60,000 per token, Scott Melker discusses the digital asset's prior crashes — including falling by as much as 99% in 2011 — and why crypto traders shouldn't be discouraged now.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -221,7 +199,7 @@ Yahoo Finance • 1d ago
 
 An excerpt from Bitcoin: The Honest Money explains how the 2007–2009 financial crisis exposed the fragility of the fiat system and set the stage for Bitcoin’s creation.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -231,9 +209,23 @@ NewsNation • 1d ago
 
 ---
 
+**[Bitcoin ETFs Suffer Worst Month Ever](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-suffer-worst-month-135200570.html)**
+
+Exchange-traded funds (ETFs) that track the spot price of Bitcoin (CRYPTO: $BTC) are on track for their worst month...
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitcoin ETFs Set for Worst Month With $4 Billion in Outflows](https://www.bloomberg.com/news/articles/2026-06-29/bitcoin-btc-etfs-face-record-4-billion-in-june-outflows-worst-since-launch)**
+
+Bloomberg.com • 4h ago
+
+---
+
 **[Bitcoin muted near $60k, heads for quarterly loss as ETF outflows persist](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-60k-heads-for-qtrly-loss-as-etf-outflows-persist-4764220)**
 
-Investing.com • 6h ago
+Investing.com • 8h ago
 
 ---
 
@@ -253,7 +245,7 @@ Price of world’s most actively traded digital asset falls below $60,000 amid s
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-⬆️ 11 • 💬 2 • 18h ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
+⬆️ 11 • 💬 2 • 19h ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
 
 ---
 
@@ -267,7 +259,7 @@ Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 
 
 **[Strategy Says It May Sell Up to $1.25B of Bitcoin](https://news.ycombinator.com/item?id=48718522)**
 
-⬆️ 5 • 💬 2 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
+⬆️ 5 • 💬 2 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
 
 ---
 
@@ -283,7 +275,7 @@ Michael Saylor's Strategy is experiencing pains as a result of its financial eng
 
 Tell us your Bitcoin stack. We'll email you the day you're a millionaire — then go live your life.
 
-⬆️ 2 • 💬 8 • 21h ago • [Am I a Millionaire?](https://amimillionaire.com/)
+⬆️ 2 • 💬 8 • 22h ago • [Am I a Millionaire?](https://amimillionaire.com/)
 
 ---
 
@@ -316,7 +308,7 @@ Create an independent digital timestamp without uploading the original file.
 
 Strategy continues its shift away from aggressive Bitcoin accumulation as market conditions deteriorate.
 
-⬆️ 1 • 💬 0 • 3h ago • [Fortune](https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/)
+⬆️ 1 • 💬 0 • 4h ago • [Fortune](https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/)
 
 ---
 
@@ -340,7 +332,7 @@ Is Bitcoin finally beginning to build a bottom, or is there still one last leg l
 
 📺 Crypto Banter
 
-👁️ 39K • 👍 2K • 💬 129 • ⏱️ 23:31 • 7h ago
+👁️ 39K • 👍 2K • 💬 129 • ⏱️ 23:31 • 8h ago
 
 ---
 
@@ -350,7 +342,7 @@ A heated CNBC showdown over Bitcoin sparked one of the biggest debates in financ
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 444 • ⏱️ 16:14 • 22h ago
+👁️ 30K • 👍 2K • 💬 444 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -360,7 +352,7 @@ The price of Bitcoin just fell below the 200W moving average. Let's discuss! Che
 
 📺 Benjamin Cowen
 
-👁️ 110K • 👍 6K • 💬 309 • ⏱️ 7:06 • 19h ago
+👁️ 110K • 👍 6K • 💬 309 • ⏱️ 7:06 • 20h ago
 
 ---
 
@@ -380,7 +372,7 @@ Bitcoin just broke down again — falling below $60k to levels we haven't seen i
 
 📺 Eurodollar University
 
-👁️ 45K • 👍 1K • 💬 148 • ⏱️ 22:54 • 1d ago
+👁️ 45K • 👍 1K • 💬 148 • ⏱️ 22:54 • 2d ago
 
 ---
 
@@ -390,7 +382,7 @@ Bitcoin is Close to a Bottom - MUST SEE Sentiment not quite bearish enough MSTR 
 
 📺 Camel Finance
 
-👁️ 10K • 👍 729 • 💬 88 • ⏱️ 16:14 • 9h ago
+👁️ 10K • 👍 729 • 💬 88 • ⏱️ 16:14 • 11h ago
 
 ---
 
@@ -400,7 +392,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 266 • ⏱️ 13:36 • 19h ago
+👁️ 18K • 👍 1K • 💬 266 • ⏱️ 13:36 • 21h ago
 
 ---
 

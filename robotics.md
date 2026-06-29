@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-29T21:08:24.449667+00:00'
+updated: '2026-06-29T22:37:02.967022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 29, 2026 at 21:08 UTC  
+**Last Updated:** June 29, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 **[Go2 repair help.](https://www.reddit.com/r/robotics/comments/1uhed0o/go2_repair_help/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -108,19 +108,19 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 ## Google News: "robotics"
 
+**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
+
+Factory-floor applications of the technology could significantly enhance rich-world economies
+
+Financial Times • 1d ago
+
+---
+
 **[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 17h ago
-
----
-
-**[Robotics startup FieldAI has hit a $100 million milestone](https://www.businessinsider.com/robot-startup-fieldai-achieves-100-m-milestone-in-revenue-contracts-2026-6)**
-
-FieldAI says it has crossed $100 million in revenue and contracts by building software for robots to work in mines, construction sites, and factories.
-
-Business Insider • 3d ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -128,7 +128,47 @@ Business Insider • 3d ago
 
 Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
 
-The New Yorker • 11h ago
+The New Yorker • 12h ago
+
+---
+
+**[China: Agibot robots hit 99 percent success during six-day live factory demo](https://interestingengineering.com/ai-robotics/china-agibot-robots-hit-99-percent-success-during-six-day-live-factory-demo)**
+
+AGIBOT's G2 humanoids completed a live factory trial as the company rolled out its 15,000th robot, marking rapid growth.
+
+Interesting Engineering • 7h ago
+
+---
+
+**[Korean Workers Vote to Go On Strike, Fearing Robots Could Replace Them](https://futurism.com/robots-and-machines/korean-workers-strike-robots-replace)**
+
+Hyundia workers in South Korea voted to go on strike over fears that they could be replaced by humanoid robots.
+
+Futurism • 2d ago
+
+---
+
+**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
+
+The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
+
+Baton Rouge Business Report • 8h ago
+
+---
+
+**[Astronauts Ready for Tuesday Spacewalk to Repair Canadarm2 Robotic Arm](https://www.nasa.gov/blogs/spacestation/2026/06/29/astronauts-ready-for-tuesday-spacewalk-to-repair-canadarm2-robotic-arm/)**
+
+The Expedition 74 astronauts are ready for a spacewalk on Tuesday following the completion of spacesuit configurations and procedure reviews on Monday. The International Space Station’s three cosmonauts kept busy throughout the day servicing Roscosmos scientific, electronics, and life support systems.
+
+NASA (.gov) • 5h ago
+
+---
+
+**[OUST Stock Soars To 54-Month Highs — Retail Points To Physical AI, Robotics Opportunity](https://finance.yahoo.com/markets/stocks/articles/oust-stock-soars-54-month-152337893.html)**
+
+Ouster announced a string of partnerships and product launches this month that expand the use of its Rev8 digital lidar platform.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -140,51 +180,11 @@ Automotive News • 1d ago
 
 ---
 
-**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
-
-The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
-
-Baton Rouge Business Report • 6h ago
-
----
-
-**[Astronauts Ready for Tuesday Spacewalk to Repair Canadarm2 Robotic Arm](https://www.nasa.gov/blogs/spacestation/2026/06/29/astronauts-ready-for-tuesday-spacewalk-to-repair-canadarm2-robotic-arm/)**
-
-The Expedition 74 astronauts are ready for a spacewalk on Tuesday following the completion of spacesuit configurations and procedure reviews on Monday. The International Space Station’s three cosmonauts kept busy throughout the day servicing Roscosmos scientific, electronics, and life support systems.
-
-NASA (.gov) • 3h ago
-
----
-
-**[OUST Stock Soars To 54-Month Highs — Retail Points To Physical AI, Robotics Opportunity](https://finance.yahoo.com/markets/stocks/articles/oust-stock-soars-54-month-152337893.html)**
-
-Ouster announced a string of partnerships and product launches this month that expand the use of its Rev8 digital lidar platform.
-
-Yahoo Finance • 5h ago
-
----
-
 **[SA Asks: What's the most attractive robotics stock right now? (TER:NASDAQ)](https://seekingalpha.com/news/4607906-sa-asks-whats-the-most-attractive-robotics-stock-right-now)**
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[South Korea to Invest $880 Billion Into Chips, Robotics and AI Over 10 Years](https://www.theinformation.com/briefings/south-korea-invest-880-billion-chips-robotics-ai-10-years)**
-
-South Korea’s government on Monday announced an 1,350 trillion won ($880 billion) investment plan into semiconductors, robotics and AI over the next decade, in response to the surging demand for memory chips and the AI infrastructure boom. 
-
- Samsung Group and SK Group, parent companies of Samsung Electronics and SK Hynix, respectively, two of the world’s leading memory chipmakers, will invest
-
-The Information • 10h ago
-
----
-
-**[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
-
-Bloomberg.com • 11h ago
 
 ---
 
@@ -228,7 +228,7 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 📺 Tech Revolution
 
-👁️ 39K • 👍 814 • 💬 67 • ⏱️ 21:30 • 4d ago
+👁️ 39K • 👍 814 • 💬 67 • ⏱️ 21:30 • 5d ago
 
 ---
 

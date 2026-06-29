@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-29T21:08:24.446941+00:00'
+updated: '2026-06-29T22:37:02.963148+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 29, 2026 at 21:08 UTC  
+**Last Updated:** June 29, 2026 at 22:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,624.29
+### $1,614.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.7%  
-**7d:** -3.2%  
-**30d:** -19.6%  
-**90d:** -24.6%  
+**24h:** +2.7%  
+**7d:** -3.1%  
+**30d:** -19.5%  
+**90d:** -24.5%  
 **1y:** -35.1%  
 
 ---
@@ -156,13 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
 
-Decrypt • 5h ago
+Decrypt • 7h ago
 
 ---
 
-**[Ethereum Price to $95K? Bullish Robert Kiyosaki Call Resurfaces as SharpLink Buys More ETH](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-95k-bullish-robert-114215214.html)**
+**[Bitcoin and ethereum prices today, Monday, June 29, 2026: Prices continue to move lower](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-29-2026-prices-continue-to-move-lower-132348850.html)**
 
-SharpLink keeps buying despite huge losses. Robert Kiyosaki's March forecast that Ethereum could reach $95,000 after the next global financial crisis has gone viral again. ...
+Bitcoin opened at $59,496.48 on Monday, June 29, 2026, 0.7% lower than Sunday's opening price. As of 8:50 a.m. ET, the price of bitcoin moved up to $59,813.02. Ethereum opened at $1,569.67 on Monday, June 29, 2026, down 0.1% from Sunday's opening price. Ethereum moved slightly higher this morning to $1,572.89 as of 8:50 a.m. ET.
 
 Yahoo Finance • 9h ago
 
@@ -172,7 +172,7 @@ Yahoo Finance • 9h ago
 
 Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -180,7 +180,15 @@ The Block • 13h ago
 
 The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
+
+---
+
+**[Institutions Cut Bitcoin And Ethereum ETF Exposure But Keep Buying XRP And HYPE](https://www.tradingview.com/news/newsbtc:2d5cb5d7a094b:0-institutions-cut-bitcoin-and-ethereum-etf-exposure-but-keep-buying-xrp-and-hype/)**
+
+For more details, visit the official Cryptoslate platform.TL;DRInstitutions Are Not Just Buying Or Selling Crypto As One TradeInstitutional investors reportedly reduced exposure to Bitcoin and Ethereum ETF products while still adding to XRP and HYPE-linked wrappers.That is a more interesting story…
+
+TradingView • 5h ago
 
 ---
 
@@ -188,15 +196,7 @@ CoinDesk • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
-
----
-
-**[Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28](https://www.tradingview.com/news/cointelegraph:c4478efef094b:0-binance-booted-from-eu-ethlabs-rises-up-to-save-ethereum-hodler-s-digest-june-14-28/)**
-
-About 60% of World Cup bettors on Polymarket are first-time crypto usersAbout 60% of users who placed their first World Cup bets on Polymarket had never interacted with blockchain protocols before, suggesting prediction markets are becoming an entry point into crypto. The finding is based on a 90-d…
-
-TradingView • 22h ago
+Fortune • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView • 22h ago
 
 AI and Big Tech stocks sold off, and Strategy’s $16 billion unrealized loss added to investors’ concern that Bitcoin could sink lower next week.
 
-CoinMarketCap • 13h ago
+CoinMarketCap • 15h ago
 
 ---
 
@@ -212,23 +212,23 @@ CoinMarketCap • 13h ago
 
 Bitcoin rebounded above $60,000 alongside gains in Ethereum, XRP and Dogecoin after Strategy unveiled its Bitcoin monetization and capital restructuring plan, easing immediate market concerns.
 
-Benzinga • 1h ago
+Benzinga • 3h ago
 
 ---
 
-**[Bitmine reaches 94% of ETH target as it joins Russell 1000](https://cryptobriefing.com/bitmine-reaches-94-of-eth-target-as-it-joins-russell-1000/)**
+**[BitMine Expands Ethereum Treasury and Joins Russell 1000](https://www.tipranks.com/news/company-announcements/bitmine-expands-ethereum-treasury-and-joins-russell-1000)**
 
-Bitmine joins the Russell 1000 as it reaches 94% of its 5% Ethereum target, with $9.8B in crypto, cash and other holdings.
+An update from BitMine Immersion Technologies ( ($BMNR) ) is now available. On June 29, 2026, Bitmine reported that as of June 28 it held 5.70 million ETH, represen...
 
-Crypto Briefing • 8h ago
+TipRanks • 9h ago
 
 ---
 
-**[Institutions dumped Bitcoin and Ethereum ETFs but still bought XRP and HYPE again](https://cryptoslate.com/institutions-dumped-bitcoin-and-ethereum-etfs-but-still-bought-xrp-and-hype-again/)**
+**[Loopring shuts down DEX – What went wrong for Ethereum’s L2 pioneer?](https://ambcrypto.com/loopring-shuts-down-dex-what-went-wrong-for-ethereums-l2-pioneer/)**
 
-Bitcoin and Ethereum ETF outflows dwarfed XRP’s weekly inflow, while selective demand for XRP and HYPE wrappers showed institutions separating broad crypto
+Loopring faces a turning point as zkEVM adoption reshapes Layer-2 competition.
 
-CryptoSlate • 10h ago
+AMBCrypto • 1h ago
 
 ---
 
@@ -242,7 +242,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 499 • 👍 42 • 💬 13 • ⏱️ 41:52 • 2h ago
+👁️ 499 • 👍 42 • 💬 13 • ⏱️ 41:52 • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin, ethereum and general markets are showing us clear patterns now! Here is
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 1K • 💬 26 • ⏱️ 9:18 • 10h ago
+👁️ 13K • 👍 1K • 💬 26 • ⏱️ 9:18 • 12h ago
 
 ---
 
@@ -262,7 +262,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 177 • 💬 41 • ⏱️ 1:01:02 • 10h ago
+👁️ 5K • 👍 177 • 💬 41 • ⏱️ 1:01:02 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/in
 
 📺 Trade Confident
 
-👁️ 112 • 👍 9 • 💬 6 • ⏱️ 5:31 • 2h ago
+👁️ 112 • 👍 9 • 💬 6 • ⏱️ 5:31 • 3h ago
 
 ---
 
@@ -312,7 +312,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 157 • 👍 10 • 💬 5 • ⏱️ 5:18 • 10h ago
+👁️ 157 • 👍 10 • 💬 5 • ⏱️ 5:18 • 11h ago
 
 ---
 
@@ -322,7 +322,7 @@ Le prix d'Ethereum baisse — et pourtant BlackRock intensifie ses produits inst
 
 📺 Crypto Le Trone
 
-👁️ 8K • 👍 730 • 💬 33 • ⏱️ 16:13 • 7h ago
+👁️ 8K • 👍 730 • 💬 33 • ⏱️ 16:13 • 8h ago
 
 ---
 
