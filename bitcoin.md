@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-29T16:53:26.173824+00:00'
+updated: '2026-06-29T19:04:52.794790+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 29, 2026 at 16:53 UTC  
+**Last Updated:** June 29, 2026 at 19:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,906.78
+### $60,192.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -4.5%  
-**30d:** -18.7%  
-**90d:** -12.0%  
-**1y:** -44.1%  
+**24h:** +0.9%  
+**7d:** -4.1%  
+**30d:** -18.3%  
+**90d:** -11.6%  
+**1y:** -43.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1198.97B
+**Market Cap:** $1205.47B
 Rank #1
 
-**Circulating Supply:** 20,049,828 BTC
+**Circulating Supply:** 20,049,871 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--52.6%
+-52.3%
 
 **All-Time Low:** $67.81
-+88086.1%
++88561.0%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Had to do it, guys. It's been 5+ years, and the price just keeps getting down near my average purchase price when I DCA'd back in the day. And I can't be left holding a loss after all these years of hodling. Sorry...had to. It may well be the future of finance, and may one day be world reserve currency....but I'm in my middle ages now, and if that day doesn't come for 30+ years...it doesn't do me much good. This is a little scary for me, as when I start down the road of selling, I usually keep going. But...will keep an eye on it for now, my plan is each $1k price drop, I'm selling 10 million sats. And then if it gets into the $40s, I'll start buying back and just pocket the leftover $.
 
-14h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Until a few days ago, there were 26 reachable Bitcoin nodes in Caracas, Venezuel
 
 I told him last year when he first got into crypto to never invest beyond BTC. Today he understood
 
-21h ago
+23h ago
 
 ---
 
@@ -117,7 +117,7 @@ The Satoshi Times explores Nicholas Bohm’s forgotten emails with Satoshi Nakam
 
 **[Time flies](https://www.reddit.com/r/Bitcoin/comments/1uh8smq/time_flies/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -125,7 +125,7 @@ The Satoshi Times explores Nicholas Bohm’s forgotten emails with Satoshi Nakam
 
 Nobody knows yet 40K guy and 20K always exist, and there's also 200K guy who idk where
 
-16h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ Nobody knows yet 40K guy and 20K always exist, and there's also 200K guy who idk
 
 But if you pass bitcoin down to someone in the future, wouldnt it be way easier to just write down your seed phrase and keep track of it instead of trusting a firm with custody of the keys to your stack? Don't get me wrong it just sounds like an over complicated setup with multisig. All your kids or grandkids would have to do is just obtain the seed phrase instead of waiting for a timelocked stack to unlock.
 
-17h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ But if you pass bitcoin down to someone in the future, wouldnt it be way easier 
 
 Edit: people don't understand my post. Bitcoin WILL crash. Horrendously. But I'm not afraid. Are you? Bitcoin crashing, which most interpret as failure, is instead a necessary purge, because the removal of weak capital strengthens the protocol, and the protocol, being indifferent to price, remains unchanged regardless of what numbers pretend. When price descends, what occurs is redistribution of opportunity from those who see only lines to those who understand that lines are shadows, and shadows, being temporary, bear no weight on the object that casts them. I am compelled to conclude the crash essential, because without these collapses the system grows lazy and forgets its origins in resistance, becoming no different from institutions it was designed to replace. When price falls and newcomers wring hands, I smile, not from enjoyment of suffering, but from recognition of rhythm, and a rhythm, even violent, remains proof of stability.
 
-15h ago
+18h ago
 
 ---
 
@@ -157,15 +157,43 @@ Hi everyone, I wanted to present a detailed breakdown of a cyclical framework I�
 
 ## Google News: "bitcoin"
 
-**[Strategy’s Turnaround Plan Includes Stock Buyback, Bitcoin Sales and More Reserves](https://www.wsj.com/finance/currencies/strategys-turnaround-plan-includes-stock-buyback-bitcoin-sales-and-more-reserves-4c61c8b6)**
+**[Strategy Says It May Sell Up to $1.25 Billion of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-says-may-sell-1-130414153.html)**
 
-WSJ • 2h ago
+(Bloomberg) -- Michael Saylor’s Strategy Inc. unveiled a sweeping overhaul of the financing model underpinning its Bitcoin strategy, giving itself broader powers to sell the cryptocurrency, buy back securities and preserve liquidity as it adapts to mounting pressure on the structure that fueled years of aggressive accumulation.Most Read from BloombergTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsUS and Iran Agree to Halt Attacking Each Other Ahead of TalksOil Trades Near Four-Mo
+
+Yahoo Finance • 6h ago
 
 ---
 
-**[Strategy Stock Regains Some Ground After Stock-Repurchase, Bitcoin-Sale Plans](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-29-2026/card/strategy-stock-regains-some-ground-after-stock-repurchase-bitcoin-sale-plans-qVEPeM0UHXJv50XRTcPU)**
+**[SpaceX Just Lost $600 Billion in Value in Less Than Two Weeks. That's Why I'm Buying Bitcoin.](https://finance.yahoo.com/markets/stocks/articles/spacex-just-lost-600-billion-184950544.html)**
 
-WSJ • 17m ago
+The world's most valuable cryptocurrency is still a better buy than the world's biggest IPO.
+
+Yahoo Finance • 15m ago
+
+---
+
+**[Bitcoin Is in a Fight at $60K—Here's What the Charts Say](https://finance.yahoo.com/markets/crypto/articles/bitcoin-fight-60k-heres-charts-184024681.html)**
+
+BTC kissed $58,800 and bounced. The daily chart is deep in bear territory, and prediction markets are betting on further pain before a rebound.
+
+Yahoo Finance • 24m ago
+
+---
+
+**[Bitcoin at ‘critical technical battleground' with potential 30% further drop, strategists say](https://www.cnbc.com/2026/06/29/bitcoin-wrestling-with-critical-technical-battleground-strategist-.html)**
+
+Bitcoin's $60,000 level will be critical to watch in the coming months, one strategist says. Another sees downside to $40,000.
+
+CNBC • 16h ago
+
+---
+
+**[Bitcoin remains below key onchain and technical levels, leaving it in no man's land](https://www.coindesk.com/markets/2026/06/29/bitcoin-falls-into-a-technical-no-man-s-land-as-major-support-levels-sit-miles-away)**
+
+Bitcoin is trading below key technical and onchain valuation levels, with historical bear market patterns suggesting a potential bottom closer to $45,000.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -173,59 +201,33 @@ WSJ • 17m ago
 
 BTC edged up 0.6% to $59,800 to start the week while SOL rose 2%, though derivatives data and chart formations point to continued downside risk.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Strategy Says It May Sell Up to $1.25 Billion of Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-says-may-sell-1-130414153.html)**
+**[Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.](https://www.fool.com/investing/2026/06/27/should-you-buy-bitcoin-while-under-70000/)**
 
-(Bloomberg) -- Michael Saylor’s Strategy Inc. unveiled a sweeping overhaul of the financing model underpinning its Bitcoin strategy, giving itself broader powers to sell the cryptocurrency, buy back securities and preserve liquidity as it adapts to mounting pressure on the structure that fueled years of aggressive accumulation.Most Read from BloombergTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsUS and Iran Agree to Halt Attacking Each Other Ahead of TalksOil Trades Near Four-Mo
+The cryptocurrency market is running out of upside catalysts, and investors are heading for the exits.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Strategy's enterprise value falls below bitcoin holdings as crypto sentiment sours](https://www.reuters.com/business/finance/strategys-valuation-falls-below-bitcoin-holdings-crypto-sentiment-sours-2026-06-29/)**
-
-Reuters • 3h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Current price of Bitcoin for June 29, 2026](https://fortune.com/article/price-of-bitcoin-06-29-2026/)**
+**[Bitcoin ATM warning: AARP of NC & Guilford County Sheriff's deputies go store to store](https://www.wfmynews2.com/article/news/local/bitcoin-atm-warning-aarp-of-nc-guilford-county-sheriffs-deputies-go-store-to-store-fraud-new-gift-card-scam-pretend-to-be-law-enforcement-money-to-atm/83-d88f2762-0419-4f9f-a3bf-0194463e38af)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 3h ago
+wfmynews2.com • 21m ago
 
 ---
 
-**[Best Bitcoin Rewards Cards: Top 5 Compared](https://bitcoinfoundation.org/news/opinion/bitcoin-rewards-cards/)**
+**[You could get compensation after Bitcoin ATM closure](https://www.wkbn.com/news/ohio/you-could-get-compensation-after-bitcoin-atm-closure/)**
 
-Find out how Bitcoin rewards work through various cards provided by top crypto exchanges, and what risks are associated with them too
-
-Bitcoin Foundation • 8h ago
+WKBN.com • 21m ago
 
 ---
 
-**[Why Bitcoin Is Falling Today: BTC Selloff Tracks Tech Correction, Analysts Call It A Credit Unwind](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-falling-today-btc-095514559.html)**
+**[Nancy Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
 
-Despite the decline, funding rates remained largely neutral, and dip-buying by corporate Bitcoin holders continued near key support levels.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Strategy announces $2 billion buybacks, bitcoin monetization plan and new capital framework](https://www.coindesk.com/markets/2026/06/29/saylor-s-strategy-initiates-buybacks-bitcoin-monetization-program-lifts-strc-dividend)**
-
-Strategy adopted a new capital management framework, authorizing up to $2 billion in buybacks while creating a program that allows future bitcoin sales to support liquidity.
-
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin ETFs Set for Worst Month With $4 Billion in Outflows](https://www.bloomberg.com/news/articles/2026-06-29/bitcoin-btc-etfs-face-record-4-billion-in-june-outflows-worst-since-launch)**
-
-Bloomberg.com • 1h ago
+NewsNation • 1d ago
 
 ---
 
@@ -245,7 +247,7 @@ Price of world’s most actively traded digital asset falls below $60,000 amid s
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-⬆️ 10 • 💬 2 • 14h ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
+⬆️ 10 • 💬 2 • 16h ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
 
 ---
 
@@ -259,7 +261,7 @@ Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 
 
 **[Strategy Says It May Sell Up to $1.25B of Bitcoin](https://news.ycombinator.com/item?id=48718522)**
 
-⬆️ 5 • 💬 2 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
+⬆️ 5 • 💬 2 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
 
 ---
 
@@ -275,7 +277,7 @@ Michael Saylor's Strategy is experiencing pains as a result of its financial eng
 
 Tell us your Bitcoin stack. We'll email you the day you're a millionaire — then go live your life.
 
-⬆️ 2 • 💬 8 • 16h ago • [Am I a Millionaire?](https://amimillionaire.com/)
+⬆️ 2 • 💬 8 • 19h ago • [Am I a Millionaire?](https://amimillionaire.com/)
 
 ---
 
@@ -292,7 +294,7 @@ Eastern Washington had cheap power and tons of space. Then the suitcases of cash
 What everyone knows about Bitcoin's Launch is wrong.
 (full research 1st comment) https://t.co/44OTcmakQ4
 
-⬆️ 2 • 💬 1 • 4d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2069786136998785412)
+⬆️ 2 • 💬 1 • 5d ago • [X (formerly Twitter)](https://twitter.com/raw_avocado/status/2069786136998785412)
 
 ---
 
@@ -320,17 +322,7 @@ A heated CNBC showdown over Bitcoin sparked one of the biggest debates in financ
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 446 • ⏱️ 16:14 • 18h ago
-
----
-
-**[Bitcoin To $10K Or $20K? Schiff + McGlone Live (Macro Monday)](https://www.youtube.com/watch?v=cvUUi0CJH2g)**
-
-Bitcoin #Crypto #Finance Bitcoin just had its WORST ETF month in history — $4.1 BILLION pulled in June, with BlackRock's IBIT ...
-
-📺 The Wolf Of All Streets
-
-👁️ 9K • 👍 639 • 💬 258 • ⏱️ 1:12:49 • 2h ago
+👁️ 29K • 👍 2K • 💬 448 • ⏱️ 16:14 • 20h ago
 
 ---
 
@@ -340,17 +332,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 253 • ⏱️ 9:55 • 19h ago
-
----
-
-**[Bitcoin Falls Below the 200 Week Moving Average](https://www.youtube.com/watch?v=1LI9wfqxOmc)**
-
-The price of Bitcoin just fell below the 200W moving average. Let's discuss! Check out the inaugural ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 98K • 👍 6K • 💬 295 • ⏱️ 7:06 • 15h ago
+👁️ 50K • 👍 2K • 💬 249 • ⏱️ 9:55 • 22h ago
 
 ---
 
@@ -360,47 +342,27 @@ Is Bitcoin finally beginning to build a bottom, or is there still one last leg l
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 1K • 💬 64 • ⏱️ 23:31 • 2h ago
+👁️ 29K • 👍 2K • 💬 105 • ⏱️ 23:31 • 5h ago
 
 ---
 
-**[“Bitcoin&#39;s 4-year cycle is FAKE!” Why Smart Money Is Getting Bullish On Crypto](https://www.youtube.com/watch?v=oZPwYevfCMA)**
+**[Bitcoin Falls Below the 200 Week Moving Average](https://www.youtube.com/watch?v=1LI9wfqxOmc)**
 
-Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
+The price of Bitcoin just fell below the 200W moving average. Let's discuss! Check out the inaugural ITC Conference: ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 38K • 👍 2K • 💬 206 • ⏱️ 10:53 • 1d ago
-
----
-
-**[Bitcoin And BlackRock Just Did Something VERY Strange](https://www.youtube.com/watch?v=biyCX7UYAfQ)**
-
-Bitcoin just broke down again — falling below $60k to levels we haven't seen in nearly two years. But here's the strange part: this ...
-
-📺 Eurodollar University
-
-👁️ 43K • 👍 1K • 💬 146 • ⏱️ 22:54 • 1d ago
+👁️ 105K • 👍 6K • 💬 305 • ⏱️ 7:06 • 17h ago
 
 ---
 
-**[They Went Bankrupt Bitcoin Mining](https://www.youtube.com/watch?v=yHeDhdqZKSc)**
+**[Bitcoin To $10K Or $20K? Schiff + McGlone Live (Macro Monday)](https://www.youtube.com/watch?v=cvUUi0CJH2g)**
 
-This is the number that tracks your progress—not your paycheck. Calculate your net worth now: ...
+Bitcoin #Crypto #Finance Bitcoin just had its WORST ETF month in history — $4.1 BILLION pulled in June, with BlackRock's IBIT ...
 
-📺 The Ramsey Show Highlights
+📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 286 • 💬 15 • ⏱️ 2:08 • 1h ago
-
----
-
-**[“It’s PURE OG Manipulation” - Matt Hougan REVEALS SHOCKING Insider Info on Bitcoin Crash](https://www.youtube.com/watch?v=jPBVOYMCHUk)**
-
-Start building your crypto retirement portfolio today: https://www.itrustcapital.com/go/savvy-finance Grow your crypto and gold ...
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 113 • 💬 13 • ⏱️ 18:05 • 21h ago
+👁️ 12K • 👍 768 • 💬 305 • ⏱️ 1:12:49 • 4h ago
 
 ---
 
@@ -410,7 +372,47 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 987 • 💬 378 • ⏱️ 13:36 • 15h ago
+👁️ 18K • 👍 995 • 💬 377 • ⏱️ 13:36 • 17h ago
+
+---
+
+**[“Bitcoin&#39;s 4-year cycle is FAKE!” Why Smart Money Is Getting Bullish On Crypto](https://www.youtube.com/watch?v=oZPwYevfCMA)**
+
+Why Smart Money Is Getting Bullish On Crypto ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a channel ...
+
+📺 Altcoin Daily
+
+👁️ 39K • 👍 2K • 💬 205 • ⏱️ 10:53 • 1d ago
+
+---
+
+**[Bitcoin And BlackRock Just Did Something VERY Strange](https://www.youtube.com/watch?v=biyCX7UYAfQ)**
+
+Bitcoin just broke down again — falling below $60k to levels we haven't seen in nearly two years. But here's the strange part: this ...
+
+📺 Eurodollar University
+
+👁️ 44K • 👍 1K • 💬 147 • ⏱️ 22:54 • 1d ago
+
+---
+
+**[Bitcoin is Close to a Bottom - MUST SEE](https://www.youtube.com/watch?v=M9G2NHS0aJ8)**
+
+Bitcoin is Close to a Bottom - MUST SEE Sentiment not quite bearish enough MSTR & STRC news TA & Live Trades Get the CF ...
+
+📺 Camel Finance
+
+👁️ 9K • 👍 695 • 💬 124 • ⏱️ 16:14 • 7h ago
+
+---
+
+**[They Went Bankrupt Bitcoin Mining](https://www.youtube.com/watch?v=yHeDhdqZKSc)**
+
+This is the number that tracks your progress—not your paycheck. Calculate your net worth now: ...
+
+📺 The Ramsey Show Highlights
+
+👁️ 14K • 👍 640 • 💬 35 • ⏱️ 2:08 • 4h ago
 
 ---
 

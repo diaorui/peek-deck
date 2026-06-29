@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-29T16:53:26.179956+00:00'
+updated: '2026-06-29T19:04:52.800954+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 29, 2026 at 16:53 UTC  
+**Last Updated:** June 29, 2026 at 19:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,574.47
+### $1,624.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -4.9%  
-**30d:** -21.0%  
-**90d:** -25.9%  
-**1y:** -36.2%  
+**24h:** +2.8%  
+**7d:** -3.0%  
+**30d:** -19.4%  
+**90d:** -24.4%  
+**1y:** -35.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $191.11B
+**Market Cap:** $195.05B
 Rank #2
 
 **Circulating Supply:** 120,683,477 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.0%
+-67.3%
 
 **All-Time Low:** $0.43
-+365589.8%
++373114.4%
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
 
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 5d ago
+🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 6d ago
 
 ---
 
@@ -128,7 +128,7 @@ The overhaul, described by the Foundation as the conclusion of a process tied to
 
 Ethereum’s new research venture seems like a two-sided sword as the globe’s largest altcoin plummets below $1.7K.
 
-🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 4d ago
+🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -164,15 +164,7 @@ Yahoo Finance • 1h ago
 
 Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
 
-The Block • 9h ago
-
----
-
-**[Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
-
-Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
-
-CoinDesk • 4h ago
+The Block • 11h ago
 
 ---
 
@@ -180,21 +172,23 @@ CoinDesk • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 6h ago
 
 ---
 
-**[Whale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum](https://www.tradingview.com/news/newsbtc:bef72199b094b:0-whale-activity-shows-high-leverage-short-positions-re-opened-on-bitcoin-and-ethereum/)**
+**[Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
 
-TL;DRhttps://x.com/EyeOnChain/status/2070519940533350461View original post on XHigh-net-worth derivatives positioning as a sign of ongoing defensive sentimentWhale Activity Shows High-Leverage Short Positions Re-Opened on Bitcoin and Ethereum is one of the market setups traders are watching as cryp…
+Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
 
-TradingView • 1d ago
+CoinDesk • 6h ago
 
 ---
 
-**[Ethereum’s Industrial Moment: When Crypto Starts Behaving Like a Commodity](https://www.investing.com/analysis/ethereums-industrial-moment-when-crypto-starts-behaving-like-a-commodity-200682956)**
+**[Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28](https://www.tradingview.com/news/cointelegraph:c4478efef094b:0-binance-booted-from-eu-ethlabs-rises-up-to-save-ethereum-hodler-s-digest-june-14-28/)**
 
-Investing.com • 6h ago
+About 60% of World Cup bettors on Polymarket are first-time crypto usersAbout 60% of users who placed their first World Cup bets on Polymarket had never interacted with blockchain protocols before, suggesting prediction markets are becoming an entry point into crypto. The finding is based on a 90-d…
+
+TradingView • 20h ago
 
 ---
 
@@ -202,7 +196,7 @@ Investing.com • 6h ago
 
 AI and Big Tech stocks sold off, and Strategy’s $16 billion unrealized loss added to investors’ concern that Bitcoin could sink lower next week.
 
-CoinMarketCap • 22h ago
+CoinMarketCap • 11h ago
 
 ---
 
@@ -210,7 +204,7 @@ CoinMarketCap • 22h ago
 
 Bitcoin and Ethereum ETF outflows dwarfed XRP’s weekly inflow, while selective demand for XRP and HYPE wrappers showed institutions separating broad crypto
 
-CryptoSlate • 6h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -218,7 +212,7 @@ CryptoSlate • 6h ago
 
 Leading cryptocurrencies traded in the red overnight on Sunday, June 28, as renewed U.S.–Iran confrontations threatened a fragile ceasefire.
 
-Benzinga • 14h ago
+Benzinga • 17h ago
 
 ---
 
@@ -226,7 +220,15 @@ Benzinga • 14h ago
 
 An update from BitMine Immersion Technologies ( ($BMNR) ) is now available. On June 29, 2026, Bitmine reported that as of June 28 it held 5.70 million ETH, represen...
 
-TipRanks • 3h ago
+TipRanks • 5h ago
+
+---
+
+**[BitMine acquires 27,084 Ethereum for $43M as Tom Lee's firm pushes toward 5% supply target](https://cryptobriefing.com/bitmine-acquires-ethereum-43m-tom-lee/)**
+
+BitMine Immersion Technologies bought 27,084 ETH for $43M, bringing total holdings past 5.7 million tokens as Tom Lee targets 5% of Ethereum supply.
+
+Crypto Briefing • 5h ago
 
 ---
 
@@ -234,33 +236,33 @@ TipRanks • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[The New Plan to Make Ethereum Win](https://www.youtube.com/watch?v=9rYyZaO0-EI)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum has a new R&D lab, ...
-
-📺 Bankless
-
-👁️ 3K • 👍 139 • 💬 55 • ⏱️ 1:01:02 • 6h ago
-
----
-
 **[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
 
 Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 1K • 💬 157 • ⏱️ 9:18 • 6h ago
+👁️ 12K • 👍 1K • 💬 156 • ⏱️ 9:18 • 8h ago
 
 ---
 
-**[XRP SURPASSES ETHEREUM BECAUSE OF THE USA! THIS WILL BLOW YOUR MIND!!](https://www.youtube.com/watch?v=ZYJUr-E24ZU)**
+**[The New Plan to Make Ethereum Win](https://www.youtube.com/watch?v=9rYyZaO0-EI)**
 
-Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC document and what it means for your crypto holdings.
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum has a new R&D lab, ...
 
-📺 Crypto Sensei
+📺 Bankless
 
-👁️ 14K • 👍 791 • 💬 90 • ⏱️ 21:39 • 19h ago
+👁️ 4K • 👍 165 • 💬 58 • ⏱️ 1:01:02 • 8h ago
+
+---
+
+**[🚩 Ethereum Will Crash Another 22%! - ETH Crypto Analysis](https://www.youtube.com/watch?v=wI_r52MOrZY)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 573 • 👍 36 • 💬 7 • ⏱️ 11:33 • 3h ago
 
 ---
 
@@ -270,17 +272,17 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 253 • ⏱️ 9:55 • 19h ago
+👁️ 50K • 👍 2K • 💬 249 • ⏱️ 9:55 • 22h ago
 
 ---
 
-**[ETHEREUM : LA FIN ? CE QUI SE PRÉPARE EST FOU ! 🚨](https://www.youtube.com/watch?v=MtSoRbyja2Q)**
+**[XRP SURPASSES ETHEREUM BECAUSE OF THE USA! THIS WILL BLOW YOUR MIND!!](https://www.youtube.com/watch?v=ZYJUr-E24ZU)**
 
-Le prix d'Ethereum baisse — et pourtant BlackRock intensifie ses produits institutionnels avec des ETF staking qui génèrent des ...
+Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC document and what it means for your crypto holdings.
 
-📺 Crypto Le Trone
+📺 Crypto Sensei
 
-👁️ 3K • 👍 457 • 💬 1 • ⏱️ 16:13 • 2h ago
+👁️ 15K • 👍 795 • 💬 90 • ⏱️ 21:39 • 22h ago
 
 ---
 
@@ -290,37 +292,27 @@ Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 8K • 👍 344 • 💬 11 • ⏱️ 1:06 • 23h ago
+👁️ 8K • 👍 351 • 💬 11 • ⏱️ 1:06 • 1d ago
 
 ---
 
-**[WHY ETH CAN RALLY THIS WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=BMkEGkSxEao)**
+**[ETHEREUM : LA FIN ? CE QUI SE PRÉPARE EST FOU ! 🚨](https://www.youtube.com/watch?v=MtSoRbyja2Q)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Le prix d'Ethereum baisse — et pourtant BlackRock intensifie ses produits institutionnels avec des ETF staking qui génèrent des ...
 
-📺 Cilinix Crypto
+📺 Crypto Le Trone
 
-👁️ 96 • 👍 8 • 💬 168 • ⏱️ 5:18 • 6h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=WlKzW1-Jq4Y)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 88 • ⏱️ 7:33 • 13h ago
+👁️ 6K • 👍 612 • 💬 33 • ⏱️ 16:13 • 5h ago
 
 ---
 
-**[BITCOIN WARNING: It&#39;s NOT What You Think (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=94fn1HpEzGQ)**
+**[Ethereum बनेगा Bitcoin का बाप? | Ethereum Vs Bitcoin | SAGAR SINHA](https://www.youtube.com/watch?v=wyt5heRVQGM)**
 
-BITCOIN WARNING: It's NOT What You Think (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
 
-📺 Crypto World
+📺 Sagar Sinha 
 
-👁️ 9K • 👍 368 • 💬 53 • ⏱️ 18:51 • 22h ago
+👁️ 67K • 👍 3K • 💬 600 • ⏱️ 21:19 • 1d ago
 
 ---
 
@@ -330,7 +322,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 302 • 💬 17 • ⏱️ 51:41 • 20h ago
+👁️ 5K • 👍 302 • 💬 17 • ⏱️ 51:41 • 23h ago
+
+---
+
+**[WHY ETH CAN RALLY THIS WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=BMkEGkSxEao)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 123 • 👍 8 • 💬 160 • ⏱️ 5:18 • 8h ago
 
 ---
 
