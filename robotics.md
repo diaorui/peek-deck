@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-28T23:38:25.012277+00:00'
+updated: '2026-06-29T04:00:26.232612+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** June 28, 2026 at 23:38 UTC  
+**Last Updated:** June 29, 2026 at 04:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how does the rest of the hip fit in with that purpose? I hope this question makes sense. Here is a research paper showing another angle and a more mechanical breakdown. https://arxiv.org/html/2512.16705v1#S4.F3 Also Nvidia GTC 2026 is where the original clip is from (2:11:36) further in the video it shows a side view: https://www.nvidia.com/gtc/keynote/
 
-23h ago
+1d ago
 
 ---
 
 **[Wall-E 3d printed RC](https://www.reddit.com/r/robotics/comments/1uhp9tb/walle_3d_printed_rc/)**
 
-17h ago
+21h ago
 
 ---
 
@@ -62,7 +62,7 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 **[We've been collecting egocentric human activity data for humanoid robot training..](https://www.reddit.com/r/robotics/comments/1uhl2yt/weve_been_collecting_egocentric_human_activity/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -70,7 +70,7 @@ I have a Borunte BRTIRUS0707A 6-axis arm (HC1 controller, F5.2.1 firmware) and t
 
 Ever since the post from last time: https://www.reddit.com/r/robotics/comments/1u1iql9/cubic_doggo_update_wobbly_imu/ I have tried to implement all the suggestions from the previous posts (thank you guys :)), and then spent way too much time tuning the PID, hoping it could perfectly balance the robot without wobbling. And the first video is showing my best full PID result so far: it can achieve perfect balance, BUT with randomly occurring spasms. A bubble level is added on its head. After standing+leveling, the platform is put on a slope. The bubble shifts, and the robot is trying to adjust it back Still cannot figure out the reason after quite some updates, though, but 50Hz reading rate with ~10ms lag, and legs lifting the whole body weight while changing tiny position probably are the culprit. So maybe it really doesn't need perfect leveling; it just needs some corrections on a slope. The second video is with P-only, fast reacting and no oscillation. Maybe this is showing the limitation of PID as compared to reinforcement learning? I am not at all sure. For now, though, I still want to see how P-only leveling performs during a walk gait. Link to the previous walking post without IMU: https://www.reddit.com/r/robotics/comments/1tghftd/cubic_doggo_full_github_record_it_can_now_walk/
 
-1d ago
+2d ago
 
 ---
 
@@ -86,7 +86,7 @@ Has anyone used one of these yet? They have been out a few months but I can't fi
 
 We just wrapped collecting 10,000+ hours of on-demand egocentric human activity data for a major robotics company. Are there any specific tools that you can recommend to data annotation, we've been using the generic YOLO models, however for these mass amounts of data, we were looking for a more efficient tool. Happy to share our sample dataset with anyone working on manipulation or foundation models!
 
-19h ago
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ We just wrapped collecting 10,000+ hours of on-demand egocentric human activity 
 
 I’ve been talking to people building robots and keep hearing the same things: sim-to-real issues, hardware availability, debugging deployment failures, and testing taking way longer than expected. I’m doing a Cornell Master’s project to understand where robotics teams actually spend their time and what slows them down. The survey covers things like: - simulation tools (Isaac, Gazebo, MuJoCo, etc.) - ROS/ROS2 and middleware - RL, VLA, and classical stacks - testing and validation - deployment failures - world modeling and sim-to-real It takes about 4 minutes. If you’re working on real robots, your responses would be especially helpful. There’s also an optional follow-up interview with a $25 Amazon gift card :)
 
-🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 21h ago
+🔗 [Google Docs](https://forms.gle/btFrmBAQLtvzHRS46) • 1d ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 15h ago
 
 ---
 
@@ -128,15 +128,7 @@ Business Insider • 2d ago
 
 Factory-floor applications of the technology could significantly enhance rich-world economies
 
-Financial Times • 12h ago
-
----
-
-**[Tokenization is becoming the financing layer for AI and robotics, Framework bets with $400 million fund](https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says)**
-
-Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
-
-CoinDesk • 10h ago
+Financial Times • 17h ago
 
 ---
 
@@ -144,7 +136,15 @@ CoinDesk • 10h ago
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 7h ago
+
+---
+
+**[Tokenization is becoming the financing layer for AI and robotics, Framework bets with $400 million fund](https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says)**
+
+Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder said.
+
+CoinDesk • 14h ago
 
 ---
 
@@ -158,33 +158,33 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
-
-Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
-
-Futurism • 9h ago
-
----
-
 **[Opinion | Can robots end our loneliness crisis?](https://www.bostonglobe.com/2026/06/28/opinion/seniors-loneliness-robots-relationship-elliq/)**
 
 An experiment rolling out robots to keep the elderly company is showing surprising results.
 
-The Boston Globe • 16h ago
+The Boston Globe • 1d ago
 
 ---
 
-**[AI, robots push South Korean plant near 100% on-time delivery](https://www.upi.com/Top_News/World-News/2026/06/28/ai-robots-factory-on-time-delivery/2421782688673/)**
+**[Company Pulls Delivery Robots From All College Campuses](https://futurism.com/robots-and-machines/delivery-robots-leave-college)**
 
-HD Hyundai Electric uses AI planning and robots to achieve near-perfect delivery rates while expanding circuit-breaker output in South Korea.
+Starship Technologies says it's pulling out all over its over 1,200 delivery robots from college campuses and redploying them to cities.
 
-upi.com • 16m ago
+Futurism • 14h ago
 
 ---
 
-**[Watch Inside Disney’s Push to Upgrade Its Theme Parks With Robots](https://www.bloomberg.com/news/videos/2026-06-26/inside-disney-s-push-to-upgrade-its-theme-parks-with-robots)**
+**[A two-year-old robotics startup with about thirty million dollars in revenue was just valued at more than fourteen billion, which is the clearest sign yet that the AI money has decided robots are next and that reliability can come later](https://siliconcanals.com/k-a-two-year-old-robotics-startup-with-about-thirty-million-dollars-in-revenue-was-just-valued-at-more-than-fourteen-billion-which-is-the-clearest-sign-yet-that-the-ai-money-has-decided-robots-are-nex/)**
 
-Bloomberg.com • 2d ago
+Here is the rewritten reliability is a hardware problem, when in fact the unsolved part is autonomy in a world the engineers do not control. The Skild AI
+
+Silicon Canals • 2d ago
+
+---
+
+**[Exclusive: Amazon Robotics nears 250,000-square-foot S.F. lease in city’s new AI enclave](https://www.sfchronicle.com/realestate/article/amazon-sf-lease-22322675.php)**
+
+San Francisco Chronicle • 2d ago
 
 ---
 
@@ -192,23 +192,23 @@ Bloomberg.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
-
-Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
-
-📺 Vanessa Wingårdh
-
-👁️ 53K • 👍 4K • 💬 1K • ⏱️ 13:18 • 11h ago
-
----
-
 **[China&#39;s New Female Robot Just Hit The Market And It Is 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
 China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
 
 📺 Prime Insights
 
-👁️ 361K • 👍 11K • 💬 964 • ⏱️ 24:13 • 1d ago
+👁️ 405K • 👍 12K • 💬 1K • ⏱️ 24:13 • 1d ago
+
+---
+
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+
+📺 Vanessa Wingårdh
+
+👁️ 59K • 👍 4K • 💬 1K • ⏱️ 13:18 • 15h ago
 
 ---
 
@@ -218,7 +218,7 @@ China's Terminator has entered the US. The San Francisco startup REK, short for 
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 61 • 💬 5 • ⏱️ 1:01 • 5h ago
+👁️ 2K • 👍 83 • 💬 8 • ⏱️ 1:01 • 9h ago
 
 ---
 
@@ -228,27 +228,35 @@ FOX Business' Lauren Simonetti reports live from Amazon's Westborough, MA facili
 
 📺 Fox Business
 
-👁️ 6K • 👍 200 • 💬 82 • ⏱️ 3:03 • 1d ago
+👁️ 6K • 👍 205 • 💬 83 • ⏱️ 3:03 • 1d ago
 
 ---
 
-**[China&#39;s New AI Robot MOYA Feels Too Real (92% Human)](https://www.youtube.com/watch?v=KdeO-D0tZD0)**
+**[DEEP Robotics DR02 Just Got Even Better](https://www.youtube.com/watch?v=KV6kaOIcShg)**
 
-China's new AI robot MOYA just shocked the internet with warm skin, camera eyes, human-like reactions, and a walking claim that ...
+DEEP Robotics has unveiled another major evolution of its DR02 humanoid robot, showcasing smoother movement, better ...
 
-📺 AI Revolution
+📺 DPCcars
 
-👁️ 76K • 👍 2K • 💬 254 • ⏱️ 13:45 • 6d ago
+👁️ 890 • 👍 31 • 💬 3 • ⏱️ 1:50 • 1d ago
 
 ---
 
-**[Amazon&#39;s robotics lab ready for Prime Day](https://www.youtube.com/watch?v=3A7dVK-C0AI)**
+**[Beni: The Robot That Films You in 4K on Wheels](https://www.youtube.com/watch?v=ulyXAHHds1k)**
 
-Amazon Prime Day is here, and the company is using robots to help sort and move packages. FOX Business got a look inside ...
+This two-wheeled robot drives behind you and films you in 4K on its own. It's called Beni, from @mondorobotics . It auto-tracks you ...
 
-📺 FOX 5 New York
+📺 Yury AI
 
-👁️ 6K • 👍 16 • 💬 7 • ⏱️ 2:07 • 5d ago
+👁️ 624 • 👍 18 • ⏱️ 0:36 • 2h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
+
+📺 Robot Julie 
+
+👁️ 6K • 👍 28 • ⏱️ 0:21 • 1d ago
 
 ---
 
@@ -258,35 +266,27 @@ This compilation showcases some of the most unbelievable robot-style and animati
 
 📺 Talent Replay
 
-👁️ 42K • 👍 406 • 💬 18 • ⏱️ 39:57 • 1d ago
+👁️ 46K • 👍 455 • 💬 18 • ⏱️ 39:57 • 1d ago
 
 ---
 
-**[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)**
+**[Rocket Lab Robotics](https://www.youtube.com/watch?v=1RF8EylqISc)**
 
-Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma runs on hardware like Raspberry Pi, ...
+Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degree of freedom robotic arms, actuators, and ...
 
-📺 Google for Developers
+📺 Rocket Lab
 
-👁️ 16K • 👍 508 • 💬 22 • ⏱️ 2:53 • 2d ago
-
----
-
-**[HUMANOID ROBOT PREDICTS THE WORLD CUP](https://www.youtube.com/watch?v=iwDhFC8kcn4)**
-
-We sat down with Sophia the Robot to get her official FIFA World Cup predictions… and things did NOT go how we planned.
-
-📺 Habibi Squad
-
-👁️ 24K • 👍 1K • 💬 231 • ⏱️ 19:16 • 1d ago
+👁️ 21K • 👍 2K • 💬 86 • ⏱️ 3:09 • 1d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=VUBpdYykKrk)**
+**[Tesla Optimus Gen 3: 1,000 Robots Dominate Giga Texas — 10M Coming](https://www.youtube.com/watch?v=rg0ib2xilGY)**
 
-📺 Borunte julie 
+Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock 10M robots by 2027. ✓ All Breaking NEWS: ...
 
-👁️ 22K • 👍 49 • 💬 1 • ⏱️ 0:23 • 22h ago
+📺 Tech Revolution
+
+👁️ 39K • 👍 813 • 💬 67 • ⏱️ 21:30 • 4d ago
 
 ---
 
