@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T22:18:24.825968+00:00'
+updated: '2026-06-30T23:44:29.890170+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 22:18 UTC  
+**Last Updated:** June 30, 2026 at 23:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,572.62
+### $1,569.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** -3.1%  
-**30d:** -21.5%  
-**90d:** -23.5%  
-**1y:** -34.5%  
+**24h:** -1.5%  
+**7d:** -3.2%  
+**30d:** -21.6%  
+**90d:** -23.6%  
+**1y:** -34.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.86B
+**Market Cap:** $189.16B
 Rank #2
 
 **Circulating Supply:** 120,683,443 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.2%
+-68.3%
 
 **All-Time Low:** $0.43
-+363287.1%
++361961.4%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[What is the Ethereum Glamsterdam Upgrade? Everything You Need to Know](https://www.reddit.com/r/ethereum/comments/1ujo1lo/what_is_the_ethereum_glamsterdam_upgrade/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I frequently experience this when traveling. The transaction is rejected, the card is flagged, and the bank must be contacted from a different time zone. truly draining. began storing cryptocurrency as a backup just for this purpose. discovered a crypto platform, which offers travel and mobility gift cards that can be purchased using cryptocurrency and sent instantaneously to Hotels.com, Uber, and airline platforms. Thus, in the event that my card is blocked, I can obtain a Bitcoin or Ethereum gift card and complete the reservation without having to deal with the bank. Does anyone else use this as a backup plan when traveling? I want to know if this is a frequent workaround or if there are better choices.
 
-9h ago
+10h ago
 
 ---
 
@@ -154,15 +154,7 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 SharpLink added 10,000 ETH and repurchased stock as Tom Lee said crypto sentiment is worse than after the FTX collapse.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
-
-TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
-
-TradingView • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -198,6 +190,14 @@ The Block • 1d ago
 
 ---
 
+**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
+
+TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
+
+TradingView • 6h ago
+
+---
+
 **[Vitalik Buterin says crypto’s most powerful idea is still nowhere near ready](https://www.coindesk.com/tech/2026/06/29/vitalik-buterin-says-crypto-s-most-powerful-idea-is-still-nowhere-near-ready)**
 
 The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
@@ -210,7 +210,7 @@ CoinDesk • 1d ago
 
 Tom Lee points to quarter-end window dressing amid Ethereum's 8% drop as Bitmine and SharpLink buy ETH into weakness.
 
-BeInCrypto • 17h ago
+BeInCrypto • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ BeInCrypto • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ Fortune • 9h ago
 
 Sentiment about the coin is in the dumps, and it's no surprise why.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -240,7 +240,17 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 131 • ⏱️ 11:49 • 23h ago
+👁️ 44K • 👍 2K • 💬 137 • ⏱️ 11:49 • 1d ago
+
+---
+
+**[Fox Business: The Real Reason Bitcoin, Ethereum, Altcoins are Crashing (big news)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 286 • 💬 18 • ⏱️ 11:44 • 50m ago
 
 ---
 
@@ -250,7 +260,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 145 • 💬 62 • ⏱️ 41:52 • 1d ago
+👁️ 5K • 👍 151 • 💬 64 • ⏱️ 41:52 • 1d ago
 
 ---
 
@@ -260,37 +270,7 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 4K • 👍 100 • 💬 19 • ⏱️ 5:59 • 1d ago
-
----
-
-**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum &amp; AI](https://www.youtube.com/watch?v=heyjP_yj3DI)**
-
-The first generation of crypto treasury companies was all about accumulating digital assets. But according to Bit Digital CEO Sam ...
-
-📺 Coinage
-
-👁️ 91 • 👍 2 • 💬 1 • ⏱️ 17:46 • 6h ago
-
----
-
-**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
-
-BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
-
-📺 Big Time Trades
-
-👁️ 527 • 👍 55 • 💬 62 • ⏱️ 29:00 • 3h ago
-
----
-
-**[BMNR CANNOT raise money to buy Ethereum! (What happens NEXT?!)](https://www.youtube.com/watch?v=FvqnsKdwgWc)**
-
-BMNR has been trading below a 1x mNAV, making it extremely difficult for them to continue raising money by issuing ...
-
-📺 Elijah Cheng
-
-👁️ 672 • 👍 46 • 💬 8 • ⏱️ 26:46 • 4h ago
+👁️ 5K • 👍 106 • 💬 21 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -300,7 +280,37 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 9K • 👍 276 • 💬 52 • ⏱️ 1:01:02 • 1d ago
+👁️ 9K • 👍 280 • 💬 52 • ⏱️ 1:01:02 • 1d ago
+
+---
+
+**[BMNR CANNOT raise money to buy Ethereum! (What happens NEXT?!)](https://www.youtube.com/watch?v=FvqnsKdwgWc)**
+
+BMNR has been trading below a 1x mNAV, making it extremely difficult for them to continue raising money by issuing ...
+
+📺 Elijah Cheng
+
+👁️ 1K • 👍 74 • 💬 18 • ⏱️ 26:46 • 6h ago
+
+---
+
+**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
+
+BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
+
+📺 Big Time Trades
+
+👁️ 1K • 👍 105 • 💬 31 • ⏱️ 29:00 • 5h ago
+
+---
+
+**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum &amp; AI](https://www.youtube.com/watch?v=heyjP_yj3DI)**
+
+The first generation of crypto treasury companies was all about accumulating digital assets. But according to Bit Digital CEO Sam ...
+
+📺 Coinage
+
+👁️ 235 • 👍 5 • 💬 21 • ⏱️ 17:46 • 7h ago
 
 ---
 
@@ -310,17 +320,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 124 • ⏱️ 9:55 • 2d ago
-
----
-
-**[🚩 Ethereum Will Crash Another 22%! - ETH Crypto Analysis](https://www.youtube.com/watch?v=wI_r52MOrZY)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 96 • 💬 13 • ⏱️ 11:33 • 1d ago
+👁️ 58K • 👍 2K • 💬 127 • ⏱️ 9:55 • 2d ago
 
 ---
 
@@ -330,7 +330,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ether
 
 📺 HKCM
 
-👁️ 12K • 👍 1K • 💬 81 • ⏱️ 17:42 • 6h ago
+👁️ 19K • 👍 2K • 💬 90 • ⏱️ 17:42 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-30T22:18:24.811572+00:00'
+updated: '2026-06-30T23:44:29.875564+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 30, 2026 at 22:18 UTC  
+**Last Updated:** June 30, 2026 at 23:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Best NSFW AI Image Generators 2026](https://www.reddit.com/r/artificial/comments/1uk2pd1/best_nsfw_ai_image_generators_2026/)**
+
+Firstly, do no listen to posts that have links, those are almost always affiliates or brands. Im a true user, that spends a little too much time exploring this rabbit hole. Anyways, please tell me if im missing any or if you think my list is inaccurate. Secrets AI - You may be thinking that this looks a little different then the rest, and you would be right. However, they have an entire generations page / dashboard that is dedicated for content creation, and it is extremely impressive (tech stack wise). They are always the first ones with the newest models, their backend is fast, theres no queues, and my favourite part is they allow to use the big expensive models. Most sites only offer the cheap ones as those have the highest margin, but Secrets does give you access, prcing varies on what models you use. ZenCreator - Used to be my go to before Secrets, simplistic UI/UX, their generators work well and are consistent, i just wish they always were adding new models for us to try. I feel like there in a position "dont fix whats not broken" but this caused them to fall behind. It still has great prompt adherence, but I would still put Secrets ahead Promptchan AI - One word, OG, haha! - This was the site that I first found that began this journey, so they will always be in my top 5. Would put this one close behind Zen, its a solid site, and it does what it needs to. Which for some is all that they want. I am more interested in pushing the limits and boundaries of the Image models, hence why I put this at 3. But still has great prompt adhearence, easy to use, and it works great. Virtuavixen - Small site, came across it recently. Small selection, but it does work decently. I am including this mainly for the variety, and to show love to a smaller site as it for sure has great potential, and great things take time. This is where I would add the Image models, stuff like nano, Stable diffusion, pony, ideagram, qwen, etc. You need to really know how to raw prompt, the reason I like platforms like Secrets is they've built systems that takes your prompt and turn it into a much better prompt that is structured exactly how the model should be prompted. Thanks for reading, would love to hear feedback in comments. I've spent a decent chunk of change on all of these sites, and I will NOT be posting undress or deepfakes, i do not agree with that industry & will not share it with people.
+
+1h ago
+
+---
+
 **[Are Redditors influencing AI the most?](https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 One thing I didn't expect from using AI regularly is that it's changed how I think. Instead of searching for quick answers, I spend more time figuring out how to ask better questions. Even when I'm researching something without AI, I notice I'm breaking problems into smaller steps instead of just looking for one perfect answer. Has anyone else experienced this, or has AI changed a different habit for you?
 
-6h ago
+8h ago
 
 ---
 
@@ -59,19 +67,19 @@ Saw this article today and it genuinely surprised me Meta has been using Gemini 
 
 ---
 
-**[We went from "AI says something embarrassing" to "$25M deepfake fraud" in about two years](https://www.reddit.com/r/artificial/comments/1uk2sbm/we_went_from_ai_says_something_embarrassing_to/)**
-
-​ The Arup case wasn't a hack in the traditional sense — it was a deepfake convincing someone to authorize a transfer. No exploit code, no malware, just sufficiently good synthetic media plus normal human trust. Feels like the conversation around AI risk is still stuck on hallucinations and bias while the actual money being lost is going through social engineering supercharged by generation quality. Are we just behind on naming the real threat model here?
-
-27m ago
-
----
-
 **[Will You Need AI for Your AI?](https://www.reddit.com/r/artificial/comments/1ujwwj2/will_you_need_ai_for_your_ai/)**
 
 I wrote this article because I assume many people are having running multiple AIs and getting their minds blown. Welcome any feedback
 
-🔗 [Citizen Octopus™](https://journal.citizenoctopus.com/will-you-need-ai-for-your-ai/) • 4h ago
+🔗 [Citizen Octopus™](https://journal.citizenoctopus.com/will-you-need-ai-for-your-ai/) • 5h ago
+
+---
+
+**[We went from "AI says something embarrassing" to "$25M deepfake fraud" in about two years](https://www.reddit.com/r/artificial/comments/1uk2sbm/we_went_from_ai_says_something_embarrassing_to/)**
+
+​ The Arup case wasn't a hack in the traditional sense — it was a deepfake convincing someone to authorize a transfer. No exploit code, no malware, just sufficiently good synthetic media plus normal human trust. Feels like the conversation around AI risk is still stuck on hallucinations and bias while the actual money being lost is going through social engineering supercharged by generation quality. Are we just behind on naming the real threat model here?
+
+1h ago
 
 ---
 
@@ -79,7 +87,7 @@ I wrote this article because I assume many people are having running multiple AI
 
 just wondering, if AI becomes as reliable as a human what task would you automate completely?
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +95,7 @@ just wondering, if AI becomes as reliable as a human what task would you automat
 
 I’m interested in hearing from people who’ve used multiple LLMs (ChatGPT, Gemini, Claude, Grok, DeepSeek, etc.) extensively over the past few months. I’m less interested in benchmark scores and more interested in real-world experience. Which models do you trust most for reasoning, coding, writing, research, or brainstorming? What strengths and weaknesses only became obvious after long-term use? Have your preferences changed over time, and if so, why?
 
-59m ago
+2h ago
 
 ---
 
@@ -95,7 +103,7 @@ I’m interested in hearing from people who’ve used multiple LLMs (ChatGPT, Ge
 
 Imagine today's models are as good as they'll ever get—no better reasoning, no larger context windows, no new breakthroughs. Which existing AI capability do you think would still reshape industries the most over the next decade?
 
-13h ago
+14h ago
 
 ---
 
@@ -103,15 +111,7 @@ Imagine today's models are as good as they'll ever get—no better reasoning, no
 
 im very young, and sometimes i still get desceived by ai videos, images or etc. before it was veo3, then it was sora2, seedance 2.0, now its seedance 2.5 pro max whats gonna be the new video model? then it was chatgpt, then deepseek, now its claude fable 5, whats gonna be the new language model? for images it was midjourney, chatgpt, midjourney, gemini, and now its chatgpt image 2, whats gonna be the new image model? (the orders of the best may vary tbh) if we get together the next video model and the next image model what are we going to be able to create? ai slop on my opinion also depends not only on the technologies available but of individual fertility, i dont believe in ai artists, i believe in ai creators, they are either good or bad. imo, if you use some third party tech like specific vectorization to an ai art image it can get either better, worse or almost the same, but still it could remove the metadata and seeds on it. for example. whats your thoughts in this midjourney 8.1 image with vectorization?(the image is not the main topic) https://preview.redd.it/6b7or174vhah1.png?width=4712&format=png&auto=webp&s=6f5856326bfc57be3b185873916f53206bbc246f
 
-1m ago
-
----
-
-**[Best NSFW AI Image Generators 2026](https://www.reddit.com/r/artificial/comments/1uk2pd1/best_nsfw_ai_image_generators_2026/)**
-
-Firstly, do no listen to posts that have links, those are almost always affiliates or brands. Im a true user, that spends a little too much time exploring this rabbit hole. Anyways, please tell me if im missing any or if you think my list is inaccurate. Secrets AI - You may be thinking that this looks a little different then the rest, and you would be right. However, they have an entire generations page / dashboard that is dedicated for content creation, and it is extremely impressive (tech stack wise). They are always the first ones with the newest models, their backend is fast, theres no queues, and my favourite part is they allow to use the big expensive models. Most sites only offer the cheap ones as those have the highest margin, but Secrets does give you access, prcing varies on what models you use. ZenCreator - Used to be my go to before Secrets, simplistic UI/UX, their generators work well and are consistent, i just wish they always were adding new models for us to try. I feel like there in a position "dont fix whats not broken" but this caused them to fall behind. It still has great prompt adherence, but I would still put Secrets ahead Promptchan AI - One word, OG, haha! - This was the site that I first found that began this journey, so they will always be in my top 5. Would put this one close behind Zen, its a solid site, and it does what it needs to. Which for some is all that they want. I am more interested in pushing the limits and boundaries of the Image models, hence why I put this at 3. But still has great prompt adhearence, easy to use, and it works great. Virtuavixen - Small site, came across it recently. Small selection, but it does work decently. I am including this mainly for the variety, and to show love to a smaller site as it for sure has great potential, and great things take time. This is where I would add the Image models, stuff like nano, Stable diffusion, pony, ideagram, qwen, etc. You need to really know how to raw prompt, the reason I like platforms like Secrets is they've built systems that takes your prompt and turn it into a much better prompt that is structured exactly how the model should be prompted. Thanks for reading, would love to hear feedback in comments. I've spent a decent chunk of change on all of these sites, and I will NOT be posting undress or deepfakes, i do not agree with that industry & will not share it with people.
-
-30m ago
+1h ago
 
 ---
 
@@ -119,73 +119,75 @@ Firstly, do no listen to posts that have links, those are almost always affiliat
 
 ## Google News: "ai"
 
-**[AWS invests $1 billion to embed AI forward deployed engineers with customers](https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers)**
-
-A new AWS Forward Deployed Engineering organization will embed thousands of experts with customers to co-develop and deploy agentic AI solutions in days.
-
-About Amazon • 7h ago
-
----
-
-**[AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave](https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html)**
-
-AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.
-
-CNBC • 7h ago
-
----
-
-**[Amazon is laying out $1 billion to follow Palantir’s AI playbook](https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4)**
-
-MarketWatch • 4h ago
-
----
-
 **[How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’](https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html)**
 
-The New York Times • 45m ago
+The New York Times • 2h ago
 
 ---
 
-**[Bloom Energy Is Soaring Late. Here's Why.](https://www.investors.com/news/bloom-energy-stock-soaring-ai-infrastructure-brookfield/)**
+**[The People Who Will Thrive in the AI Age](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)**
 
-Investor's Business Daily • 53m ago
+What will differentiate people is not how smart they are but their relationship to mental effort.
 
----
-
-**[Brookfield and Bloom Energy Expand AI Infrastructure Partnership to $25 Billion; Fivefold Increase to Build and Finance Rapid Power for AI Infrastructure](https://finance.yahoo.com/technology/ai/articles/brookfield-bloom-energy-expand-ai-200500617.html)**
-
-NEW YORK & SAN JOSE, Calif., June 30, 2026--Bloom Energy (NYSE: BE), a global leader in power solutions, and Brookfield today announced the expansion of their strategic partnership as Brookfield increases its framework to finance power projects for AI infrastructure – from previously announced $5 billion to $25 billion – a fivefold expansion since October 2025. The increased funding will help grow the fuel cell partnership globally.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bloom Energy, Brookfield expand AI infrastructure power partnership to $25 billion](https://www.reuters.com/business/energy/bloom-energy-brookfield-expand-ai-infrastructure-power-partnership-25-billion-2026-06-30/)**
-
-Reuters • 2h ago
+The Atlantic • 2d ago
 
 ---
 
 **[Donald Trump’s AI regime is opaque, unpredictable—and unsustainable](https://www.economist.com/business/2026/06/30/donald-trumps-ai-regime-is-opaque-unpredictable-and-unsustainable)**
 
-The Economist • 7h ago
+The Economist • 9h ago
 
 ---
 
-**[Trump administration's AI crackdown opens door for China to close gap](https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html)**
+**[White House upends AI model release](https://thehill.com/newsletters/technology/5948632-white-house-upends-ai-model-release/)**
 
-The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.
-
-CNBC • 10h ago
+The Hill • 49m ago
 
 ---
 
-**[Fact Check: Trump Posted AI-Generated Photo Of Golden Eagle 'Gifted' To White House For 250th Birthday](https://www.yahoo.com/news/politics/articles/fact-check-trump-posted-ai-220354179.html)**
+**[The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models](https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/)**
 
-Did a real photo posted by President Trump show a golden eagle gifted to the White House for its 250th birthday, hanging from the columns in front of the balcony? No, that's not true: The image is AI-...
+The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.
 
-Yahoo • 14m ago
+WIRED • 21m ago
+
+---
+
+**[China-linked actors target more than technology as AI competition with U.S. intensifies](https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html)**
+
+Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.
+
+CNBC • 16m ago
+
+---
+
+**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
+
+Anthropic • 6h ago
+
+---
+
+**[Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare](https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html)**
+
+Anthropic will start an internal drug discovery program, part of a new push to sell artificial intelligence tools to drugmakers.
+
+CNBC • 3h ago
+
+---
+
+**[Anthropic launches cheaper Claude Sonnet 5 model, as tech searches for AI savings](https://finance.yahoo.com/technology/article/anthropic-launches-cheaper-claude-sonnet-5-model-as-tech-searches-for-ai-savings-180000821.html)**
+
+Anthropic has debuted its Sonnet 5 model saying it provides a cost savings compared to its Opus 4.8 model.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[AWS invests $1 billion to embed AI forward deployed engineers with customers](https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers)**
+
+A new AWS Forward Deployed Engineering organization will embed thousands of experts with customers to co-develop and deploy agentic AI solutions in days.
+
+About Amazon • 8h ago
 
 ---
 
@@ -197,7 +199,7 @@ Yahoo • 14m ago
 
 The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education
 
-⬆️ 545 • 💬 716 • 2d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
+⬆️ 546 • 💬 717 • 2d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
 
 ---
 
@@ -235,7 +237,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.
 
-⬆️ 184 • 💬 64 • 1d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
+⬆️ 185 • 💬 64 • 1d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
 
 ---
 
@@ -279,7 +281,7 @@ AI #Congress #OpenAI They saw the demo behind closed doors. They walked out shak
 
 📺 Rod Miller
 
-👁️ 7K • 👍 800 • 💬 205 • ⏱️ 28:59 • 19h ago
+👁️ 7K • 👍 816 • 💬 209 • ⏱️ 28:59 • 20h ago
 
 ---
 
@@ -289,57 +291,17 @@ Self-improving AI is starting to look real. Anthropic's Jack Clark put a 2028 ti
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 144 • ⏱️ 13:32 • 1d ago
+👁️ 48K • 👍 1K • 💬 148 • ⏱️ 13:32 • 1d ago
 
 ---
 
-**[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
+**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
 
-We told a generation to "learn to code," and then AI rugpulled everyone. Welcome to the AI singularity. [NEW] Official TechLead ...
+Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
 
-📺 TechLead
+📺 Curious Explorer
 
-👁️ 53K • 👍 3K • 💬 555 • ⏱️ 13:10 • 1d ago
-
----
-
-**[Viral Speech Connects The Holy Grail, AI, and the Beast System](https://www.youtube.com/watch?v=tw3PIVyJxCo)**
-
-Jonathan Pageau's viral speech at ARC 2026 connects an ancient story about the Holy Grail to one of the biggest questions of our ...
-
-📺 Truth B Told
-
-👁️ 45K • 👍 3K • 💬 457 • ⏱️ 40:51 • 1d ago
-
----
-
-**[Your OS Changes Everything for Local AI](https://www.youtube.com/watch?v=QeAHC1jGxck)**
-
-One benchmark made me double-check my numbers. The rest tell a different story. Try out ChatLLM - http://chatllm.abacus.ai/ltf ...
-
-📺 Alex Ziskind
-
-👁️ 26K • 👍 1K • 💬 107 • ⏱️ 14:13 • 8h ago
-
----
-
-**[Limiting access to top AI models in the U.S. could hand China an opening as capability gap narrows](https://www.youtube.com/watch?v=Jgmiy1tUjxI)**
-
-CNBC's Deirdre Bosa reports on China's AI availability.
-
-📺 CNBC Television
-
-👁️ 21K • 👍 267 • 💬 253 • ⏱️ 3:30 • 1d ago
-
----
-
-**[Siri AI: How To Make It (Really) Useful](https://www.youtube.com/watch?v=pJlxAR0fiuI)**
-
-Get the TORRAS Coolify 2S Pro Here: https://amzn.to/4gcv5OQ & https://bit.ly/4f7t8SK Siri AI is finally here, and in this video I test ...
-
-📺 Nikias Molina
-
-👁️ 3K • 👍 284 • 💬 47 • ⏱️ 29:14 • 6h ago
+👁️ 831K • 👍 3K • 💬 512 • ⏱️ 28:24 • 2d ago
 
 ---
 
@@ -349,27 +311,67 @@ Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risk
 
 📺 Breaking Points
 
-👁️ 41K • 👍 2K • 💬 571 • ⏱️ 18:18 • 4h ago
+👁️ 78K • 👍 3K • 💬 769 • ⏱️ 18:18 • 5h ago
 
 ---
 
-**[The AI Bubble Just Ended - Without Popping](https://www.youtube.com/watch?v=0Pdd2__OHVQ)**
+**[Claude Sonnet 5 just dropped. I&#39;m changing how I use AI...](https://www.youtube.com/watch?v=uU0RFxGv-Ks)**
 
-Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The AI Bubble ...
+A complete walkthrough of the new Claude Sonnet 5 release FULL Claude Code bootcamp in the Vibe Coding Academy coming ...
 
-📺 Heresy Financial
+📺 Alex Finn
 
-👁️ 27K • 👍 1K • 💬 143 • ⏱️ 6:52 • 1d ago
+👁️ 12K • 👍 581 • 💬 93 • ⏱️ 11:56 • 4h ago
 
 ---
 
-**[U.S. eases restrictions on Anthropic&#39;s Mythos AI model](https://www.youtube.com/watch?v=RkN8TmQPPs4)**
+**[Your OS Changes Everything for Local AI](https://www.youtube.com/watch?v=QeAHC1jGxck)**
 
-The Trump administration is allowing Anthropic to restore access to its Mythos 5 AI model for a select group of U.S. companies ...
+One benchmark made me double-check my numbers. The rest tell a different story. Try out ChatLLM - http://chatllm.abacus.ai/ltf ...
 
-📺 CBS News
+📺 Alex Ziskind
 
-👁️ 5K • 👍 43 • 💬 16 • ⏱️ 3:06 • 1d ago
+👁️ 36K • 👍 1K • 💬 112 • ⏱️ 14:13 • 10h ago
+
+---
+
+**[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
+
+We told a generation to "learn to code," and then AI rugpulled everyone. Welcome to the AI singularity. [NEW] Official TechLead ...
+
+📺 TechLead
+
+👁️ 54K • 👍 3K • 💬 563 • ⏱️ 13:10 • 1d ago
+
+---
+
+**[AI Situation Is Out of Control](https://www.youtube.com/watch?v=LsGpfxLfHVY)**
+
+AI pride flags? What's next, people marrying AI? I think my AI pride flag is superior Pokemon Channel ...
+
+📺 Dolan Darkest
+
+👁️ 85K • 👍 7K • 💬 2K • ⏱️ 2:28 • 5h ago
+
+---
+
+**[Viral Speech Connects The Holy Grail, AI, and the Beast System](https://www.youtube.com/watch?v=tw3PIVyJxCo)**
+
+Jonathan Pageau's viral speech at ARC 2026 connects an ancient story about the Holy Grail to one of the biggest questions of our ...
+
+📺 Truth B Told
+
+👁️ 46K • 👍 3K • 💬 464 • ⏱️ 40:51 • 1d ago
+
+---
+
+**[I&#39;M OUT: The $11 Trillion AI Bubble is Breaking!](https://www.youtube.com/watch?v=RdHnOK4uJMw)**
+
+The $11 trillion AI bubble is reaching its breaking point. In this video, I'm showing you the institutional data from Goldman Sachs ...
+
+📺 Steven Van Metre
+
+👁️ 46K • 👍 2K • 💬 189 • ⏱️ 16:05 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 429,056 • ❤️ 1,479 • 2d ago
+⬇️ 429,056 • ❤️ 1,486 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 970,663 • ❤️ 1,042 • 2d ago
+⬇️ 970,663 • ❤️ 1,055 • 2d ago
 
 ---
 
@@ -409,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 142,547 • ❤️ 3,032 • 7d ago
+⬇️ 142,547 • ❤️ 3,042 • 7d ago
 
 ---
 
@@ -421,7 +423,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 157,418 • ❤️ 537 • 5d ago
+⬇️ 157,418 • ❤️ 544 • 5d ago
 
 ---
 
@@ -433,7 +435,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 28,480 • ❤️ 462 • 5d ago
+⬇️ 28,480 • ❤️ 465 • 5d ago
 
 ---
 
@@ -445,19 +447,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 257,216 • ❤️ 879 • 11d ago
-
----
-
-**[Krea-2-Turbo](https://huggingface.co/krea/Krea-2-Turbo)**
-
-*KREA*
-
-Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse artistic styles, including halftone, pixelated, impressionist, thermal imaging, and black and white photography. It is primarily used for creative image generation and artistic exploration.
-
-`text-to-image`
-
-⬇️ 45,668 • ❤️ 419 • 7d ago
+⬇️ 257,216 • ❤️ 885 • 11d ago
 
 ---
 
@@ -469,7 +459,19 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 99,359 • ❤️ 588 • 2d ago
+⬇️ 99,359 • ❤️ 593 • 2d ago
+
+---
+
+**[Krea-2-Turbo](https://huggingface.co/krea/Krea-2-Turbo)**
+
+*KREA*
+
+Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse artistic styles, including halftone, pixelated, impressionist, thermal imaging, and black and white photography. It is primarily used for creative image generation and artistic exploration.
+
+`text-to-image`
+
+⬇️ 45,668 • ❤️ 420 • 7d ago
 
 ---
 
@@ -481,7 +483,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 98,750 • ❤️ 340 • 5d ago
+⬇️ 98,750 • ❤️ 343 • 5d ago
 
 ---
 
@@ -568,18 +570,6 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 37 • 💬 1 • ⭐ 26,224 • 33mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
 
 *Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
@@ -589,6 +579,18 @@ EverMemOS presents a self-organizing memory system for large language models tha
 ▲ 12 • 💬 1 • ⭐ 9,858 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 37 • 💬 1 • ⭐ 26,261 • 33mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -602,6 +604,21 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 61 • 💬 1 • ⭐ 84,914 • 34mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
+  Models](https://huggingface.co/papers/2502.18443)**
+
+*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
+
+🏢 Ai2
+
+olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
+
+▲ 12 • 💬 2 • ⭐ 17,924 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
 
 ---
 
@@ -619,19 +636,6 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 82 • 💬 7 • ⭐ 78,828 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -642,7 +646,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 69.0k • 🔱 3.5k • 22h ago
+⭐ 69.0k • 🔱 3.6k • 23h ago
 
 ---
 
@@ -652,7 +656,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.1k • 🔱 1.1k • 7h ago
+⭐ 11.1k • 🔱 1.1k • 8h ago
 
 ---
 
@@ -662,7 +666,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.7k • 🔱 725 • 1h ago
+⭐ 5.8k • 🔱 728 • 51m ago
 
 ---
 
@@ -672,7 +676,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.4k • 🔱 567 • 1h ago
+⭐ 4.4k • 🔱 568 • 3h ago
 
 ---
 
@@ -682,7 +686,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.2k • 🔱 193 • 3d ago
+⭐ 2.2k • 🔱 195 • 3d ago
 
 ---
 
@@ -712,7 +716,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.6k • 🔱 78 • 1h ago
+⭐ 1.6k • 🔱 79 • 14m ago
 
 ---
 
@@ -732,7 +736,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.4k • 🔱 54 • 20h ago
+⭐ 1.4k • 🔱 54 • 2h ago
 
 ---
 

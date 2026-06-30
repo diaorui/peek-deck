@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-30T22:18:24.820034+00:00'
+updated: '2026-06-30T23:44:29.884139+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 22:18 UTC  
+**Last Updated:** June 30, 2026 at 23:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $58,636.08
+### $58,601.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -3.8%  
-**30d:** -17.8%  
-**90d:** -12.2%  
-**1y:** -44.4%  
+**24h:** -2.1%  
+**7d:** -4.0%  
+**30d:** -18.0%  
+**90d:** -12.4%  
+**1y:** -44.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1175.52B
+**Market Cap:** $1172.73B
 Rank #1
 
-**Circulating Supply:** 20,050,312 BTC
+**Circulating Supply:** 20,050,365 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--53.5%
+-53.6%
 
 **All-Time Low:** $67.81
-+86375.4%
++86164.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Don't Buy Bitcoin. It's Going To Crash!!!](https://www.reddit.com/r/Bitcoin/comments/1ujheay/dont_buy_bitcoin_its_going_to_crash/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 the bitcoin price has fallen from about $90k at the start of the year to $59k right now. as an officially certified pro trader, here is my very serious and not a joke technical analysis (TA) of where we are headed: with bitcoin on a downtrend, it is important to identify some support levels that it might bounce from. i have identified 3 critical support levels in the $50k-60k range firstly, i have identified 58008 as a critical support level. this is because if you type 58008 into a calculator and turn it upside down, it spells BOOBS. and boobs are bouncy, so the market should do a bounce off that level secondly, if that fails to hold, i have identified 53180.08 as another critical support level. this is because 53180.08 typed into a calculator and turned upside down spells BOOBIES. and boobies are bouncy, so the market should do a bounce off that level finally, if that fails to hold, the last remaining support level is 50135. this is because 50135 typed into a calculator and turned upside down spells SEIOS, which means boobs in Portuguese. this represents international diversification of support levels, a critical skill in becoming a pro crypto trader this cluster of levels in the 50k range shows that bitcoin has firm support bras in this price range with well-adjusted straps and no sagging however, we can't stay bullish forever. if it bounces off any of those levels, i'm looking to take profits in the upper 70k range. in particular, i'll be looking to exit my position by selling at 77735. this is because if you type 77735 into a calculator and turn it upside down it spells SELLL
 
-8h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ the bitcoin price has fallen from about $90k at the start of the year to $59k ri
 
 I don't really care if the price goes down after I buy. I believe one day it will be at least 3x than it is now. And if I lose this money... it's still better than wasting it on stupid things!
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ I don't really care if the price goes down after I buy. I believe one day it wil
 
 A $24 million leveraged long position has just been liquidated sending BTC down from 59.5 to 58.5 in an hour. Stop using leverage people...
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ A $24 million leveraged long position has just been liquidated sending BTC down 
 
 In terms of recent months (or year, have lost track since I last read a quality post on this sub) of low quality posts, degen investing and crying about the price of bitcoin going one way or another - I highly recommend reading Broken Money. The way Alden is able to connect history, statistics, math and politics while explaining ’money’ in its most fundamental essence really opened my own eyes. I almost guarantee you will look at a lot of things in life differently after reading it, not just bitcoin or fiat currency. Also, to further emphasize, I’m not a bitcoin maxi. I don’t have a fortune in it, but the amount I have is meant as an ultra-long term hedge against inflation, fiat in general and all the shit that has been going on the past decade.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ In terms of recent months (or year, have lost track since I last read a quality 
 
 I’m in Bitcoin from 2015, I know many holders and I know that no one is selling, some are keep buying… it’s all synthetic ETF BS.
 
-17h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ Wow. I had to do a double take. I was in my basement getting ready to make a Saf
 
 **[I built a Bitcoin-mining air purifier — then sealed myself in a box of smoke to test it](https://www.reddit.com/r/Bitcoin/comments/1ujpf7z/i_built_a_bitcoinmining_air_purifier_then_sealed/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -155,9 +155,25 @@ Wow. I had to do a double take. I was in my basement getting ready to make a Saf
 
 ## Google News: "bitcoin"
 
-**[Strategy’s Turnaround Plan Includes Stock Buyback, Bitcoin Sales and More Reserves](https://www.wsj.com/finance/currencies/strategys-turnaround-plan-includes-stock-buyback-bitcoin-sales-and-more-reserves-4c61c8b6)**
+**[Strategy May Sell More Bitcoin in Financing Model Overhaul](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)**
 
-WSJ • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin price holds near $60,000, but analyst warns break lower could target $40,000](https://www.coindesk.com/markets/2026/06/30/bitcoin-s-quiet-usd59-000-usd60-000-range-is-starting-to-look-dangerous)**
+
+The token has traded in a tight band near $59,000 to $60,000 all week. Here's what could happen now.
+
+CoinDesk • 11h ago
+
+---
+
+**[Bitcoin and ether test the price floor as U.S. equities, dollar hold steady](https://www.coindesk.com/markets/2026/06/30/bitcoin-nears-2024-lows-as-options-traders-pay-up-for-downside-protection)**
+
+Bitcoin and ether slide toward key support as DeFi tokens get hit hardest, even as XLM and LIT buck the broader market weakness.
+
+CoinDesk • 12h ago
 
 ---
 
@@ -165,43 +181,13 @@ WSJ • 1d ago
 
 Bitcoin was on track to close out its worst month since 2022.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.](https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6)**
 
-MarketWatch • 21m ago
-
----
-
-**[Bitcoin ETFs Face Record $4.1 Billion June Outflow](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-face-record-4-191400556.html)**
-
-US Bitcoin funds see their largest monthly withdrawals since launching, as Bitcoin falls more than 18% in June.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Watch Bitcoin ETFs on Track for Record Monthly Outflow](https://www.bloomberg.com/news/videos/2026-06-30/bitcoin-etfs-on-track-for-record-monthly-outflow-video)**
-
-Bloomberg.com • 22h ago
-
----
-
-**[Strategy Just Announced a Major Revamp to Its Bitcoin Strategy. Here's What Investors Should Know](https://finance.yahoo.com/markets/crypto/articles/strategy-just-announced-major-revamp-211701294.html)**
-
-The Bitcoin-treasury company is making changes as the crypto winter endures.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Is Not Freedom: The Delusion of Digital Escape](https://mises.org/mises-wire/bitcoin-not-freedom-delusion-digital-escape)**
-
-While Bitcoin in its early days promised freedom from the tyranny of fiat currency, those days are gone. Instead, Bitcoin owners are now satisfied if its value
-
-Mises Institute • 6h ago
+MarketWatch • 1h ago
 
 ---
 
@@ -213,15 +199,33 @@ CNBC • 1d ago
 
 ---
 
-**[Nancy Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
+**[Bitcoin Is Not Freedom: The Delusion of Digital Escape](https://mises.org/mises-wire/bitcoin-not-freedom-delusion-digital-escape)**
 
-NewsNation • 2d ago
+While Bitcoin in its early days promised freedom from the tyranny of fiat currency, those days are gone. Instead, Bitcoin owners are now satisfied if its value
+
+Mises Institute • 7h ago
 
 ---
 
 **[Bitcoin miner and AI firm Ionic Digital files for Nasdaq direct listing](https://www.reuters.com/legal/government/bitcoin-miner-ai-firm-ionic-digital-files-nasdaq-direct-listing-2026-06-29/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
+
+---
+
+**[Forgot Your Hardware Wallet Again? This Coldcard Q Feature Has Bitcoiners Covered Securely (Review)](https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries)**
+
+From video call QR scans to separate PINs, this Coldcard Q review shows how the $249 device brings Snowden-level security to everyday Bitcoiners with surprising ease.
+
+Bitcoin Magazine • 6h ago
+
+---
+
+**[Current price of Bitcoin for June 29, 2026](https://fortune.com/article/price-of-bitcoin-06-29-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
@@ -318,7 +322,37 @@ To get 50% off your first order of CookUnity meals, go to http://www.cookunity.c
 
 📺 Graham Stephan
 
-👁️ 344K • 👍 8K • 💬 2K • ⏱️ 16:44 • 1d ago
+👁️ 354K • 👍 8K • 💬 2K • ⏱️ 16:44 • 1d ago
+
+---
+
+**[National TV Hosts FREAK OUT About Bitcoin&#39;s Price. Here&#39;s What They Still Don&#39;t Get](https://www.youtube.com/watch?v=w4dnU8n1AU4)**
+
+I joined Fox Business News this morning to calm them down about Bitcoin's recent dip below $60k. Even after 15+ years, they still ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 2K • 👍 123 • 💬 9 • ⏱️ 3:22 • 2h ago
+
+---
+
+**[&quot;It&#39;s Worth NOTHING&quot; | Bitcoin Fight EXPLODES on Live TV](https://www.youtube.com/watch?v=XUbDsoD9T7Q)**
+
+A heated CNBC showdown over Bitcoin sparked one of the biggest debates in finance. This breaks down Jeremy Grantham's ...
+
+📺 Simply Bitcoin
+
+👁️ 33K • 👍 2K • 💬 453 • ⏱️ 16:14 • 2d ago
+
+---
+
+**[The Bitcoin Cycle Bottom Isn&#39;t What It Looks Like (Altcoins Hiding In Plain Sight)](https://www.youtube.com/watch?v=pdz0gPzNa7o)**
+
+Is Bitcoin repeating 2022... or is the market missing the biggest difference? In this video I break down the Bitcoin weekly chart, the ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 468 • 💬 318 • ⏱️ 12:43 • 8h ago
 
 ---
 
@@ -328,7 +362,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 730 • 💬 65 • ⏱️ 1:04:03 • 6h ago
+👁️ 15K • 👍 776 • 💬 92 • ⏱️ 1:04:03 • 8h ago
 
 ---
 
@@ -338,17 +372,7 @@ Bitcoin is under pressure, Strategy is being accused of triggering a death spira
 
 📺 Simply Bitcoin
 
-👁️ 63K • 👍 4K • 💬 446 • ⏱️ 20:04 • 1d ago
-
----
-
-**[NOTHING CAN SAVE BITCOIN FROM THIS... (URGENT!!)](https://www.youtube.com/watch?v=rPxrhfyosek)**
-
-TOOBIT — DEPOSIT MORE, EARN MORE! UP TO 100 USDT BONUS ...
-
-📺 100XClub
-
-👁️ 9K • 👍 858 • 💬 149 • ⏱️ 8:49 • 13h ago
+👁️ 65K • 👍 4K • 💬 489 • ⏱️ 20:04 • 1d ago
 
 ---
 
@@ -358,17 +382,7 @@ Is Bitcoin finally beginning to build a bottom, or is there still one last leg l
 
 📺 Crypto Banter
 
-👁️ 61K • 👍 2K • 💬 196 • ⏱️ 23:31 • 1d ago
-
----
-
-**[Joe Kernen defends Bitcoin by telling Jeremy Grantham he’s been wrong about everything since 2010](https://www.youtube.com/watch?v=Clf2uGwJNCY)**
-
-Jemima Kelly, columnist at the Financial Times, reacts to Joe Kernen defending Bitcoin by telling Jeremy Grantham he's been ...
-
-📺 Prof G Markets
-
-👁️ 2K • 👍 65 • 💬 24 • ⏱️ 1:16 • 3h ago
+👁️ 62K • 👍 2K • 💬 197 • ⏱️ 23:31 • 1d ago
 
 ---
 
@@ -378,7 +392,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 355 • 💬 12 • ⏱️ 16:14 • 1d ago
+👁️ 8K • 👍 372 • 💬 12 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -388,27 +402,17 @@ Bitcoin ETFs were supposed to be the ultimate unlock. Instead, they opened the d
 
 📺 Taylor Sohns MBA, CIMA, CFP
 
-👁️ 356 • 👍 2 • ⏱️ 0:53 • 4h ago
+👁️ 673 • 👍 6 • 💬 1 • ⏱️ 0:53 • 5h ago
 
 ---
 
-**[Bitcoin And BlackRock Just Did Something VERY Strange](https://www.youtube.com/watch?v=biyCX7UYAfQ)**
+**[NOTHING CAN SAVE BITCOIN FROM THIS... (URGENT!!)](https://www.youtube.com/watch?v=rPxrhfyosek)**
 
-Bitcoin just broke down again — falling below $60k to levels we haven't seen in nearly two years. But here's the strange part: this ...
+TOOBIT — DEPOSIT MORE, EARN MORE! UP TO 100 USDT BONUS ...
 
-📺 Eurodollar University
+📺 100XClub
 
-👁️ 48K • 👍 2K • 💬 153 • ⏱️ 22:54 • 2d ago
-
----
-
-**[Bitcoin Holds as Saylor Announces More Selling](https://www.youtube.com/watch?v=-kMneTiEhzM)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 13K • 👍 701 • 💬 199 • ⏱️ 9:48 • 21h ago
+👁️ 9K • 👍 875 • 💬 166 • ⏱️ 8:49 • 14h ago
 
 ---
 
