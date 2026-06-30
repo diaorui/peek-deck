@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-29T22:37:02.967022+00:00'
+updated: '2026-06-30T00:04:57.738333+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 29, 2026 at 22:37 UTC  
+**Last Updated:** June 30, 2026 at 00:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,19 +108,9 @@ I’ve been talking to people building robots and keep hearing the same things: 
 
 ## Google News: "robotics"
 
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
+**[China's robot quest triggers system overload](https://www.reuters.com/markets/asia/chinas-robot-quest-triggers-system-overload-2026-06-29/)**
 
-Factory-floor applications of the technology could significantly enhance rich-world economies
-
-Financial Times • 1d ago
-
----
-
-**[Weirdly Fascinating: Robotic Arm Crawls Using Its Three Fingers.](https://spectrum.ieee.org/video-friday-robot-grippers)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 18h ago
+Reuters • 2h ago
 
 ---
 
@@ -128,47 +118,15 @@ IEEE Spectrum • 18h ago
 
 Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
 
-The New Yorker • 12h ago
+The New Yorker • 14h ago
 
 ---
 
-**[China: Agibot robots hit 99 percent success during six-day live factory demo](https://interestingengineering.com/ai-robotics/china-agibot-robots-hit-99-percent-success-during-six-day-live-factory-demo)**
+**[South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)**
 
-AGIBOT's G2 humanoids completed a live factory trial as the company rolled out its 15,000th robot, marking rapid growth.
+South Korea targets physical AI lead and commercial humanoid robots by 2028.
 
-Interesting Engineering • 7h ago
-
----
-
-**[Korean Workers Vote to Go On Strike, Fearing Robots Could Replace Them](https://futurism.com/robots-and-machines/korean-workers-strike-robots-replace)**
-
-Hyundia workers in South Korea voted to go on strike over fears that they could be replaced by humanoid robots.
-
-Futurism • 2d ago
-
----
-
-**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
-
-The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
-
-Baton Rouge Business Report • 8h ago
-
----
-
-**[Astronauts Ready for Tuesday Spacewalk to Repair Canadarm2 Robotic Arm](https://www.nasa.gov/blogs/spacestation/2026/06/29/astronauts-ready-for-tuesday-spacewalk-to-repair-canadarm2-robotic-arm/)**
-
-The Expedition 74 astronauts are ready for a spacewalk on Tuesday following the completion of spacesuit configurations and procedure reviews on Monday. The International Space Station’s three cosmonauts kept busy throughout the day servicing Roscosmos scientific, electronics, and life support systems.
-
-NASA (.gov) • 5h ago
-
----
-
-**[OUST Stock Soars To 54-Month Highs — Retail Points To Physical AI, Robotics Opportunity](https://finance.yahoo.com/markets/stocks/articles/oust-stock-soars-54-month-152337893.html)**
-
-Ouster announced a string of partnerships and product launches this month that expand the use of its Rev8 digital lidar platform.
-
-Yahoo Finance • 7h ago
+Ars Technica • 2h ago
 
 ---
 
@@ -180,11 +138,49 @@ Automotive News • 1d ago
 
 ---
 
+**[OUST Stock Soars To 54-Month Highs — Retail Points To Physical AI, Robotics Opportunity](https://finance.yahoo.com/markets/stocks/articles/oust-stock-soars-54-month-152337893.html)**
+
+Ouster announced a string of partnerships and product launches this month that expand the use of its Rev8 digital lidar platform.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
+
+The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
+
+Baton Rouge Business Report • 9h ago
+
+---
+
+**[Astronauts Ready for Tuesday Spacewalk to Repair Canadarm2 Robotic Arm](https://www.nasa.gov/blogs/spacestation/2026/06/29/astronauts-ready-for-tuesday-spacewalk-to-repair-canadarm2-robotic-arm/)**
+
+The Expedition 74 astronauts are ready for a spacewalk on Tuesday following the completion of spacesuit configurations and procedure reviews on Monday. The International Space Station’s three cosmonauts kept busy throughout the day servicing Roscosmos scientific, electronics, and life support systems.
+
+NASA (.gov) • 6h ago
+
+---
+
+**[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
+
+Bloomberg • 14h ago
+
+---
+
 **[SA Asks: What's the most attractive robotics stock right now? (TER:NASDAQ)](https://seekingalpha.com/news/4607906-sa-asks-whats-the-most-attractive-robotics-stock-right-now)**
 
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
+
+Factory-floor applications of the technology could significantly enhance rich-world economies
+
+Financial Times • 1d ago
 
 ---
 
@@ -198,7 +194,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 431K • 👍 12K • 💬 1K • ⏱️ 24:13 • 2d ago
+👁️ 432K • 👍 13K • 💬 1K • ⏱️ 24:13 • 2d ago
 
 ---
 
@@ -208,7 +204,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 77K • 👍 5K • 💬 2K • ⏱️ 13:18 • 1d ago
+👁️ 79K • 👍 5K • 💬 2K • ⏱️ 13:18 • 1d ago
 
 ---
 
@@ -218,17 +214,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 15K • 👍 278 • 💬 18 • ⏱️ 5:08 • 1d ago
-
----
-
-**[Tesla Optimus Gen 3: 1,000 Robots Dominate Giga Texas — 10M Coming](https://www.youtube.com/watch?v=rg0ib2xilGY)**
-
-Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock 10M robots by 2027. ✓ All Breaking NEWS: ...
-
-📺 Tech Revolution
-
-👁️ 39K • 👍 814 • 💬 67 • ⏱️ 21:30 • 5d ago
+👁️ 17K • 👍 289 • 💬 19 • ⏱️ 5:08 • 1d ago
 
 ---
 
@@ -238,7 +224,7 @@ Tesla Optimus Gen 3 is no longer just a robot demo—it's a social revolution. E
 
 📺 Tesla Insider News
 
-👁️ 8K • 👍 159 • 💬 14 • ⏱️ 24:55 • 1d ago
+👁️ 9K • 👍 161 • 💬 14 • ⏱️ 24:55 • 1d ago
 
 ---
 
@@ -248,7 +234,17 @@ Robotics is a booming business, but it's not all about upstarts. There's a $150 
 
 📺 The Motley Fool
 
-👁️ 3K • 👍 116 • 💬 2 • ⏱️ 11:26 • 1d ago
+👁️ 3K • 👍 119 • 💬 2 • ⏱️ 11:26 • 1d ago
+
+---
+
+**[Her Hair Disappeared Into the Machine 🌀 Then This Happened 🤖](https://www.youtube.com/watch?v=mTZ5yixwwyk)**
+
+A hair machine turning loose hair into perfect braids in one pass is wild ⚙️ The crank, the steam, the reveal… this is exactly ...
+
+📺 Prototype Leaked
+
+👁️ 14K • 👍 141 • 💬 2 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -262,33 +258,29 @@ Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degr
 
 ---
 
-**[Her Hair Disappeared Into the Machine 🌀 Then This Happened 🤖](https://www.youtube.com/watch?v=mTZ5yixwwyk)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
 
-A hair machine turning loose hair into perfect braids in one pass is wild ⚙️ The crank, the steam, the reveal… this is exactly ...
+📺 Robot Julie 
 
-📺 Prototype Leaked
-
-👁️ 14K • 👍 136 • 💬 2 • ⏱️ 0:11 • 1d ago
+👁️ 17K • 👍 41 • 💬 1 • ⏱️ 0:21 • 1d ago
 
 ---
 
-**[DEEP Robotics DR02 Just Got Even Better](https://www.youtube.com/watch?v=KV6kaOIcShg)**
+**[This robot was built to chase you 👀 #trendingshorts #robot #tech](https://www.youtube.com/watch?v=FqzDqlaCNNo)**
 
-DEEP Robotics has unveiled another major evolution of its DR02 humanoid robot, showcasing smoother movement, better ...
+Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designed to autonomously follow and film its owner.
 
-📺 DPCcars
+📺 Rowan Cheung
 
-👁️ 1K • 👍 34 • 💬 3 • ⏱️ 1:50 • 2d ago
+👁️ 92K • 👍 4K • 💬 116 • ⏱️ 1:08 • 3d ago
 
 ---
 
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+**[Robotic lower arm. My latest video covers full build #robotics #3dprinting #engineering #design #cad](https://www.youtube.com/watch?v=0b4-FS1CiT8)**
 
-Your Smart Robot Companion.
+📺 Mishin Machine
 
-📺 Unitree Robotics
-
-👁️ 3.0M • 👍 2K • 💬 545 • ⏱️ 0:31 • 5d ago
+👁️ 3K • 👍 121 • 💬 9 • ⏱️ 0:35 • 7h ago
 
 ---
 

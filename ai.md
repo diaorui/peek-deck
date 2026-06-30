@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-29T22:37:02.949645+00:00'
+updated: '2026-06-30T00:04:57.721572+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 29, 2026 at 22:37 UTC  
+**Last Updated:** June 30, 2026 at 00:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much](https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/)**
+
+Saw this article today and it genuinely surprised me Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity. Now employees are being told to watch their token usage. This is the same company that was pushing staff to use more AI just a few months ago. Idk man, of all the companies to run out of AI capacity
+
+3h ago
+
+---
+
 **[Ford rehires veteran engineers after AI fails to meet quality standards](https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/)**
 
 Ford said it had hired, promoted or brought back around 350 veteran engineers after discovering that AI alone could not match experienced staff.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ford-rehires-veteran-engineers-after-ai-fails-to-meet-quality-standards-3380736/) • 6h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ford-rehires-veteran-engineers-after-ai-fails-to-meet-quality-standards-3380736/) • 8h ago
 
 ---
 
@@ -49,21 +57,13 @@ Ford said it had hired, promoted or brought back around 350 veteran engineers af
 
 Palantir & Nvidia's partnership has expanded to support US government AI initiatives as countries like South Korea ramp up AI investment.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/palantir-nvidia-partnership-us-government-ai/) • 9h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/palantir-nvidia-partnership-us-government-ai/) • 10h ago
 
 ---
 
 **[Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content](https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/openai-newspaper-lawsuit-22322605.php) • 7h ago
-
----
-
-**[I recorded every Claude Code session for 3 months and let agents write it up for me](https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/)**
-
-I kept losing track of my own work, so I started saving every Claude Code session and built a few agents to make sense of it. Each night, an agent turns the day's raw sessions into one clear note covering what I built, what I decided, and what's still open. Each week, another agent rolls those notes into a profile of my skills and projects. A third drafts my LinkedIn and X posts from the week. It all runs as cloud routines, so it keeps working even when my machine is off. I open-sourced the capture and the nightly daily-note agent as Pulse, and the weekly profile and post-writer are coming next. It's early, and I'd genuinely love feedback from anyone using Claude Code daily: https://github.com/muhammademanaftab/pulse
-
-9h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/openai-newspaper-lawsuit-22322605.php) • 8h ago
 
 ---
 
@@ -71,15 +71,15 @@ I kept losing track of my own work, so I started saving every Claude Code sessio
 
 Hey everyone. The usual AI debate swings between "the systems are amazing" and "the systems are dangerous." I find a third frame more useful: what if our misuse of AI reveals something about us? The speed of adoption may say less about machine intelligence than about our appetite for quick answers, easy confirmation, and tools that remove the effort of thinking. I just recorded a conversation with Allister Lee about AI as a "negative tool," and at around 33:47, he argues that AI develops a picture of our epistemic vices. We are cognitive misers, we like fast answers, we prefer being pleased to being corrected, and current systems are excellent at serving those preferences. In that sense, the failure is diagnostic. It shows us the habits we need to repair if we want to use the technology well. AI critique should look at users and systems together. Is the main problem bad design that exploits us, or bad epistemic habits that the design reveals? I lean toward both, but slightly toward design because incentives shape behavior at scale. At the same time, blaming design alone lets users avoid responsibility. Which emphasis seems right?
 
-5h ago
+6h ago
 
 ---
 
-**[What's the real point of smart glasses?](https://www.reddit.com/r/artificial/comments/1uiigu2/whats_the_real_point_of_smart_glasses/)**
+**[I recorded every Claude Code session for 3 months and let agents write it up for me](https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/)**
 
-I've been looking at smart glasses and genuinely confused about what they're solving. Camera glasses (Rayban Meta, Xreal, etc.) - Why not just use a GoPro? Better specs, cheaper, longer battery. Display glasses (Vision Pro, Quest) - Heavy, expensive, motion sickness. Why not just use VR at home or check your phone? AI-only glasses (Dymesty, translation glasses, etc.) - My phone already has plenty of AI assistants. Does it just make things more convenient? When would I actually need glasses instead of my phone? Every category seems to have a better alternative. So if you actually use smart glasses, what's the real reason? Is there a specific use case that actually works? Genuinely curious what I'm missing.
+I kept losing track of my own work, so I started saving every Claude Code session and built a few agents to make sense of it. Each night, an agent turns the day's raw sessions into one clear note covering what I built, what I decided, and what's still open. Each week, another agent rolls those notes into a profile of my skills and projects. A third drafts my LinkedIn and X posts from the week. It all runs as cloud routines, so it keeps working even when my machine is off. I open-sourced the capture and the nightly daily-note agent as Pulse, and the weekly profile and post-writer are coming next. It's early, and I'd genuinely love feedback from anyone using Claude Code daily: https://github.com/muhammademanaftab/pulse
 
-18h ago
+11h ago
 
 ---
 
@@ -87,31 +87,31 @@ I've been looking at smart glasses and genuinely confused about what they're sol
 
 While building AI agents I noticed something that really surprised me. When I started out, I thought that using a model would make a huge difference in reducing mistakes and wrong tool usage... That wasn't the case. What actually made the biggest difference was giving the agent information from the start. Some things that helped were: Clearly defining what the agent's job is and what its supposed to do. Specifying where the agent works and what rules it has to follow. Stating what actions, the agent can take and what tools it has. Limiting the tools. Only giving the agent relevant information. Once I had those things in place the agent seemed better at understanding what I wanted it to do. It was less likely to think I was asking it to do something or choose the wrong tool. I'm curious if other people building AI agents have seen the thing. Have you found that giving the agent information and guidance makes a bigger difference than just using a bigger model? Or did switching to a model make a bigger difference for you? I'm especially interested, in hearing from people who are already using AI agents in real-world situations or have workflows set up.
 
-5h ago
+7h ago
 
 ---
 
-**[Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much](https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/)**
+**[Has AI changed the way you think, not just the way you work?](https://www.reddit.com/r/artificial/comments/1uix8gk/has_ai_changed_the_way_you_think_not_just_the_way/)**
 
-Saw this article today and it genuinely surprised me Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity. Now employees are being told to watch their token usage. This is the same company that was pushing staff to use more AI just a few months ago. Idk man, of all the companies to run out of AI capacity
+I expected AI to save me time, but I didn't expect it to change how I approach problems. I find myself breaking ideas into smaller steps, asking better questions, and thinking through solutions differently—even when I'm not using AI. Has anyone else noticed this, or is it just me? I'm curious whether AI has actually changed your thinking process, not just your productivity.
+
+7h ago
+
+---
+
+**[What's the real point of smart glasses?](https://www.reddit.com/r/artificial/comments/1uiigu2/whats_the_real_point_of_smart_glasses/)**
+
+I've been looking at smart glasses and genuinely confused about what they're solving. Camera glasses (Rayban Meta, Xreal, etc.) - Why not just use a GoPro? Better specs, cheaper, longer battery. Display glasses (Vision Pro, Quest) - Heavy, expensive, motion sickness. Why not just use VR at home or check your phone? AI-only glasses (Dymesty, translation glasses, etc.) - My phone already has plenty of AI assistants. Does it just make things more convenient? When would I actually need glasses instead of my phone? Every category seems to have a better alternative. So if you actually use smart glasses, what's the real reason? Is there a specific use case that actually works? Genuinely curious what I'm missing.
+
+19h ago
+
+---
+
+**[ORBIS](https://www.reddit.com/r/artificial/comments/1uj5dqr/orbis/)**
+
+The edge was never one data point — it's assembling a hundred small public ones into a picture nobody else has bothered to draw. That's the mosaic. The problem is you can't reassemble it by hand every time the world moves. ORBIS does. Macro (FRED), live tape, global news, supply shocks — all fragments feeding one 26-node causal graph. A shock lands, the mosaic recomposes, and the assets actually exposed surface ranked by pressure and mispricing. Every read ships a cited ThesisCard, so you can audit which fragments built the conclusion. The mosaic, recomputed in real time. $49/mo. orbis.aurochthryx.com
 
 2h ago
-
----
-
-**[Question ?](https://www.reddit.com/r/artificial/comments/1uiwxz5/question/)**
-
-People who don’t use AI , how come ? Tell me why.
-
-6h ago
-
----
-
-**[CrowdStrike's latest threat report calls prompts "the new malware". Here's what that actually means in plain English, and why it makes hacking far easier than it used to be.](https://www.reddit.com/r/artificial/comments/1uiop55/crowdstrikes_latest_threat_report_calls_prompts/)**
-
-There's a line in CrowdStrike's 2026 Global Threat Report that's been quoted everywhere this week: "prompts are the new malware." It isn't marketing fluff. The report documents attackers injecting malicious prompts into legitimate AI tools at more than ninety organisations last year, then using those injections to steal credentials and cryptocurrency. AI-assisted attack volume was up 89% year on year. If you're not steeped in this, the phrase probably doesn't land properly, so it's worth explaining what prompt injection actually is and why it's such a shift. What it is, in plain terms Traditional hacking is hard. You need to find a flaw in how a piece of software was written, then craft something technical to exploit it. Buffer overflows, SQL injection, dodgy memory handling. It takes real expertise, and the barrier to entry keeps most people out. AI systems broke that barrier, because you don't attack them with code. You attack them with English. An AI assistant works by following instructions written in plain language. The company that built it gives it a set of rules ("you are a support bot, never reveal account details, never reset a password without verification"). The user then types their own message. The trouble is that both the rules and the user's message are just text, and the model isn't very good at telling which is which. So if a user writes something cleverly worded, the model can end up treating the user's words as though they were instructions from its creator. That's prompt injection. Convincing the AI, in ordinary language, to ignore or rewrite the rules it was given. No code. No technical exploit. Just a conversation. Why this makes hacking so much more accessible Here's the part that should worry people. The skill required has collapsed. To exploit a normal software vulnerability you need to understand the software. To exploit an AI, you need to be persuasive. Those are very different talent pools, and the second one is enormous. Anybody who can talk their way around a customer service rep has the raw skill to manipulate a chatbot, and now the chatbot is wired into real systems. The attacks doing the most damage aren't even sophisticated. The Slack AI incident from 2024 is the cleanest example. A researcher showed you could pull data out of private Slack channels you had no access to, including API keys in private developer channels, by planting an instruction in a public channel or hiding it in an uploaded document. The AI read the planted instruction and acted on it, because to the model it looked like a perfectly reasonable request. The model did exactly what it was built to do. It just couldn't tell the difference between a genuine instruction and a trap. And because the attack instructions are just sentences, they spread the way recipes do. With the Meta support bot takeovers last month, the step-by-step method was being passed around on Telegram. Around twenty thousand Instagram accounts were hijacked. You didn't need to be a hacker. You needed to copy what someone else typed. One of the security architects writing about the CrowdStrike report put the underlying problem well: until organisations treat their AI models as untrusted interpreters rather than trusted decision-makers, this isn't going away. The model should be assumed to be gullible, because it is. Why I'm posting I've spent the last several months collecting real prompt injection attacks, because the public datasets felt thin and mostly synthetic. The way I've been gathering them is a small game. Players try to talk an AI guard into giving up a password it's been told to protect, across levels that get progressively harder. Every successful attack gets logged, studied, and added to an open dataset anyone can use. It has surfaced things I'd never have thought to write myself. Attacks that build slowly across several messages, where no single line looks suspicious. Attacks that redefine the guard's job rather than asking it to break a rule. Different people independently landing on the same handful of shapes, which suggests these aren't random tricks but real grooves in how the models behave. The game is free, there's nothing to install, and the main thing I want from it is for more people to understand this threat by actually poking at it rather than reading about it. It's at castle.bordair.io if you fancy trying to break a guard or two. Anything you find that works becomes a real attack pattern in an open dataset that researchers and builders can train against. I do run a detection layer off the back of all this, but that genuinely isn't the point of this post and I'd rather not make it one. What I'm after is two things. More people taking this seriously, because the CrowdStrike numbers suggest most organisations are well behind. And the collective creativity of a community like this one, which will find gaps I never could alone. A genuine question For anyone building with LLMs in something like production, what are you actually doing about this? Treating the model as an untrusted interpreter is the right principle, but in practice it's fiddly. I'd like to hear how people are drawing the line between what their model is allowed to read and what it's allowed to act on, and whether anyone has found an approach that holds up under real adversarial pressure. And if you do throw some attacks at the game, tell me where it's too easy. That feedback is worth more to me right now than almost anything else.
-
-12h ago
 
 ---
 
@@ -121,7 +121,7 @@ There's a line in CrowdStrike's 2026 Global Threat Report that's been quoted eve
 
 **[We’re Only Starting to Grasp the Pitfalls of Using A.I. at Work](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 13h ago
 
 The car-maker found AI quality checks failed to match the skill of veteran technicians.
 
-BBC • 10h ago
+BBC • 12h ago
 
 ---
 
@@ -137,35 +137,35 @@ BBC • 10h ago
 
 Ford rehired about 300 veteran engineers after AI tools failed to match human expertise, helping the automaker top the JD Power 2026 Initial Quality Study.
 
-Fox Business • 5h ago
+Fox Business • 7h ago
 
 ---
 
-**[Ford rehires engineers after A.I. backfires](https://ktla.com/news/nationworld/ford-rehires-engineers-after-ai-backfires/)**
+**[Ford rehires veteran engineers after AI quality control fails](https://finance.yahoo.com/technology/ai/articles/ford-rehires-veteran-engineers-ai-144332497.html)**
 
-KTLA • 56m ago
+The automaker hired 350 experienced specialists over three years to fix quality problems its automated systems couldn't solve
 
----
-
-**[A.I. takes center stage in health topics discussed at the Aspen Ideas festival](https://www.nbcnews.com/now/video/a-i-takes-center-stage-in-health-topics-discussed-at-the-aspen-ideas-festival-265906757762)**
-
-Right now, some of the world's brightest leaders, scholars and artists are in Colorado for the Aspen Ideas festival. NBC News’ Kate Snow went to discuss how A.I. Is reshaping the classroom and how we manage our health.
-
-NBC News • 14m ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Top tobacco company to cut thousands of jobs](https://www.foxbusiness.com/markets/top-tobacco-company-cut-thousands-jobs)**
+**[China Misses Out on AI Boom as Stocks Trail by Most Since 2001](https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001)**
 
-British American Tobacco plans to cut 5,500 jobs and outsource 3,500 roles as it uses AI to reshape operations amid declining traditional tobacco sales.
-
-Fox Business • 1h ago
+Bloomberg • 1h ago
 
 ---
 
-**[Trump's AI controls spark free speech debate](https://www.politico.com/news/2026/06/29/trumps-ai-controls-free-speech-debate-00980751)**
+**[Madonna Issues Explosive Take on AI](https://www.yahoo.com/entertainment/music/articles/madonna-issues-explosive-ai-224000006.html)**
 
-Politico • 1h ago
+Sorry, AI "artists."
+
+Yahoo • 1h ago
+
+---
+
+**[Readers Write: Tom Emmer’s comments on Somali Minnesotans, the state flag, AI, screens](https://www.startribune.com/readers-write-tom-emmers-comments-on-somali-minnesotans-the-state-flag-ai-screens/601861999)**
+
+Star Tribune • 1h ago
 
 ---
 
@@ -179,15 +179,15 @@ The Atlantic • 1d ago
 
 **[From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/)**
 
-AI at Meta • 9h ago
+AI at Meta • 11h ago
 
 ---
 
-**[These 7 Stocks Will Solve AI’s Most Important Bottleneck](https://finance.yahoo.com/technology/ai/articles/7-stocks-solve-ai-most-135808617.html)**
+**[Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions](https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html)**
 
-Artificial intelligence has no shortage of obstacles. The industry is scrambling to secure enough electricity to power new data centers, enough land to build them, and enough high-bandwidth memory (HBM) to keep next-generation chips fed with data. Yet another constraint is emerging that could prove just as important: moving information between those chips fast enough ... These 7 Stocks Will Solve AI’s Most Important Bottleneck
+Alphabet shares rose Monday as the company joined the Dow, but the blue-chip milestone comes as the stock remains under pressure.
 
-Yahoo Finance • 8h ago
+CNBC • 8h ago
 
 ---
 
@@ -195,19 +195,11 @@ Yahoo Finance • 8h ago
 
 ## HackerNews: "ai"
 
-**[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://news.ycombinator.com/item?id=48692995)**
-
-The move comes the same day as a new OpenAI model sees a limited release.
-
-⬆️ 551 • 💬 798 • 2d ago • [semafor.com](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
-
----
-
 **[Professor denounces mass AI fraud on an exam at Brown](https://news.ycombinator.com/item?id=48708991)**
 
 The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education
 
-⬆️ 524 • 💬 687 • 1d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
+⬆️ 525 • 💬 688 • 1d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
 
 ---
 
@@ -215,7 +207,7 @@ The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his 
 
 AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.
 
-⬆️ 474 • 💬 174 • 1d ago • [GitHub](https://github.com/librepods-org/librepods)
+⬆️ 476 • 💬 174 • 1d ago • [GitHub](https://github.com/librepods-org/librepods)
 
 ---
 
@@ -229,7 +221,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 **[Tidal AI Policy](https://news.ycombinator.com/item?id=48718840)**
 
-⬆️ 287 • 💬 312 • 9h ago • [tidal.com](https://tidal.com/ai-policy)
+⬆️ 290 • 💬 313 • 10h ago • [tidal.com](https://tidal.com/ai-policy)
 
 ---
 
@@ -249,14 +241,6 @@ New models are launching in Asia that promise Mythos-like capabilities without f
 
 ---
 
-**[AI in mathematics is forcing big questions](https://news.ycombinator.com/item?id=48692883)**
-
-Researchers debate motivation, purpose, and the field’s future
-
-⬆️ 210 • 💬 177 • 3d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-in-mathematics)
-
----
-
 **[Google limits Meta's use of its Gemini AI models](https://news.ycombinator.com/item?id=48707103)**
 
 Meta had sought more computing capacity than Google could provide, the Financial Times reports.
@@ -269,7 +253,21 @@ Meta had sought more computing capacity than Google could provide, the Financial
 
 Reversal of ‘excessive’ tech investments could have serious economic consequences, report finds
 
-⬆️ 155 • 💬 197 • 21h ago • [The Telegraph](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
+⬆️ 155 • 💬 199 • 22h ago • [The Telegraph](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
+
+---
+
+**[Ford rehires 'gray beard' engineers after AI falls short](https://news.ycombinator.com/item?id=48710749)**
+
+"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
+
+⬆️ 133 • 💬 3 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+
+---
+
+**[We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)**
+
+⬆️ 131 • 💬 80 • 1d ago
 
 ---
 
@@ -277,33 +275,33 @@ Reversal of ‘excessive’ tech investments could have serious economic consequ
 
 ## YouTube Videos: "ai"
 
-**[Anthropic Just Confirmed It: The 2028 AI Warning Is Real](https://www.youtube.com/watch?v=j1xcsDxSb_Y)**
-
-Self-improving AI is starting to look real. Anthropic's Jack Clark put a 2028 timeline on recursive self-improvement, Google ...
-
-📺 AI Revolution
-
-👁️ 38K • 👍 1K • 💬 116 • ⏱️ 13:32 • 20h ago
-
----
-
 **[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
 
 Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
 
 📺 Curious Explorer
 
-👁️ 611K • 👍 2K • 💬 450 • ⏱️ 28:24 • 1d ago
+👁️ 716K • 👍 2K • 💬 476 • ⏱️ 28:24 • 1d ago
 
 ---
 
-**[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
+**[I&#39;M OUT: The $11 Trillion AI Bubble is Breaking!](https://www.youtube.com/watch?v=RdHnOK4uJMw)**
 
-We told a generation to "learn to code," and then AI rugpulled everyone. Welcome to the AI singularity. [NEW] Official TechLead ...
+The $11 trillion AI bubble is reaching its breaking point. In this video, I'm showing you the institutional data from Goldman Sachs ...
 
-📺 TechLead
+📺 Steven Van Metre
 
-👁️ 16K • 👍 1K • 💬 307 • ⏱️ 13:10 • 5h ago
+👁️ 6K • 👍 749 • 💬 128 • ⏱️ 16:05 • 2h ago
+
+---
+
+**[Anthropic Just Confirmed It: The 2028 AI Warning Is Real](https://www.youtube.com/watch?v=j1xcsDxSb_Y)**
+
+Self-improving AI is starting to look real. Anthropic's Jack Clark put a 2028 timeline on recursive self-improvement, Google ...
+
+📺 AI Revolution
+
+👁️ 40K • 👍 1K • 💬 123 • ⏱️ 13:32 • 22h ago
 
 ---
 
@@ -313,17 +311,37 @@ Connect Higgsfield to Claude http://higgsfield.ai/mcp?fpr=ai&fp_sid=parker15 In 
 
 📺 Parker Prompts
 
-👁️ 9K • 💬 1 • ⏱️ 9:16 • 7h ago
+👁️ 10K • 💬 1 • ⏱️ 9:16 • 8h ago
 
 ---
 
-**[How to Build &amp; Sell AI Websites: START HERE (2026)](https://www.youtube.com/watch?v=kdev1F8o5y8)**
+**[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
+
+We told a generation to "learn to code," and then AI rugpulled everyone. Welcome to the AI singularity. [NEW] Official TechLead ...
+
+📺 TechLead
+
+👁️ 29K • 👍 2K • 💬 397 • ⏱️ 13:10 • 6h ago
+
+---
+
+**[How To Create Cinematic AI Ads - Full AI Video Course](https://www.youtube.com/watch?v=sMNjQ2Gks_4)**
+
+Learn how to make cinematic ai video ads using seedance 2.0 Try Higgsfield AI - https://higgsfield.ai?fpr=dankieft&fp_sid=ads So ...
+
+📺 Dan Kieft
+
+👁️ 11K • 💬 10 • ⏱️ 16:19 • 6h ago
+
+---
+
+**[Best FREE AI App Builders That Actually Work in 2026 (I Tried All)](https://www.youtube.com/watch?v=PR-FxwFfuUk)**
 
 Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
 
-📺 Max Max
+📺 Mikey No Code
 
-👁️ 8K • 💬 6 • ⏱️ 39:35 • 8h ago
+👁️ 9K • 💬 7 • ⏱️ 35:18 • 9h ago
 
 ---
 
@@ -333,17 +351,7 @@ Get my free newsletter Letters From a Heretic: https://go.heresy.financial/lette
 
 📺 Heresy Financial
 
-👁️ 16K • 👍 829 • 💬 92 • ⏱️ 6:52 • 9h ago
-
----
-
-**[Trump HUMILIATED As BRUTAL New AI MEMES Go VIRAL!](https://www.youtube.com/watch?v=eH1U5LGyhIw)**
-
-Really American host Steve Harness breaks down everyone's favorite time of the week: new Trump AI-slop memes! And these ...
-
-📺 Really American
-
-👁️ 53K • 👍 7K • 💬 341 • ⏱️ 12:26 • 1d ago
+👁️ 19K • 👍 932 • 💬 114 • ⏱️ 6:52 • 10h ago
 
 ---
 
@@ -353,27 +361,17 @@ OpenAI just launched GPT 5.6, but this is not a normal release. Access is limite
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 194 • ⏱️ 15:44 • 2d ago
+👁️ 41K • 👍 1K • 💬 196 • ⏱️ 15:44 • 2d ago
 
 ---
 
-**[He Wrote HER Book Idea With AI... And It BACKFIRED! | BookTok&#39;s Latest AI Controversy](https://www.youtube.com/watch?v=R0TMtY_xdgU)**
+**[I Added Insane AI VFX to Real Footage in 4K(Seedance 2.0)](https://www.youtube.com/watch?v=Yte-UGhYkPQ)**
 
-BookTok is FUMING after an author used AI to generate another aspiring author's story and emailed it to her as a "gift." We're ...
+I shot real footage, then used Seedance 2.0 in 4K inside Higgsfield AI to create the craziest VFX. Try Seedance 2.0 in 4K: ...
 
-📺 Susannah Friesen
+📺 Higgsfield AI
 
-👁️ 34K • 👍 2K • 💬 727 • ⏱️ 35:30 • 9h ago
-
----
-
-**[$333,080.07 From One YouTube Channel Using Claude AI — Just Copy Me](https://www.youtube.com/watch?v=YtpQSmu794k)**
-
-ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/yt1livedes-06-29-2026 Apply For ...
-
-📺 Shane Hummus
-
-👁️ 25K • 👍 1K • 💬 57 • ⏱️ 36:33 • 1d ago
+👁️ 25K • 👍 1K • 💬 55 • ⏱️ 11:06 • 8h ago
 
 ---
 
@@ -389,7 +387,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 362,945 • ❤️ 1,357 • 1d ago
+⬇️ 362,945 • ❤️ 1,365 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 133,350 • ❤️ 2,922 • 6d ago
+⬇️ 133,350 • ❤️ 2,931 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 907,682 • ❤️ 925 • 1d ago
+⬇️ 907,682 • ❤️ 940 • 1d ago
 
 ---
 
@@ -425,19 +423,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 123,598 • ❤️ 468 • 4d ago
-
----
-
-**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
-
-*Yuxin Lu*
-
-A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
-
-`text-generation` `11.9B`
-
-⬇️ 241,409 • ❤️ 840 • 10d ago
+⬇️ 123,598 • ❤️ 481 • 4d ago
 
 ---
 
@@ -449,7 +435,19 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 26,223 • ❤️ 429 • 4d ago
+⬇️ 26,223 • ❤️ 434 • 4d ago
+
+---
+
+**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
+
+*Yuxin Lu*
+
+A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
+
+`text-generation` `11.9B`
+
+⬇️ 241,409 • ❤️ 842 • 10d ago
 
 ---
 
@@ -461,7 +459,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 79,540 • ❤️ 556 • 1d ago
+⬇️ 79,540 • ❤️ 557 • 1d ago
 
 ---
 
@@ -477,18 +475,6 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 ---
 
-**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
-
-*Yuxin Lu*
-
-A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
-
-`text-generation` `11.9B`
-
-⬇️ 561,577 • ❤️ 2,498 • 10d ago
-
----
-
 **[Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF)**
 
 *DeepReinforce*
@@ -497,7 +483,19 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 68,667 • ❤️ 301 • 4d ago
+⬇️ 68,667 • ❤️ 305 • 4d ago
+
+---
+
+**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
+
+*Yuxin Lu*
+
+A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
+
+`text-generation` `11.9B`
+
+⬇️ 561,577 • ❤️ 2,501 • 10d ago
 
 ---
 
@@ -526,7 +524,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 174 • 💬 2 • ⭐ 72,105 • 9mo ago
+▲ 174 • 💬 2 • ⭐ 72,276 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -552,7 +550,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 21 • 💬 2 • ⭐ 8,471 • 2mo ago
+▲ 21 • 💬 2 • ⭐ 8,563 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -629,7 +627,7 @@ PaddleOCR-VL-1.6 enhances document parsing performance through targeted data opt
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 192 • 💬 6 • ⭐ 5,778 • 4mo ago
+▲ 192 • 💬 6 • ⭐ 5,826 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -639,23 +637,13 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 ## GitHub Repositories: "ai"
 
-**[pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)**
-
-Self-hosted AI workspace. 
-
-`Python`
-
-⭐ 79.3k • 🔱 10.4k • 3h ago
-
----
-
 **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)**
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 67.1k • 🔱 3.4k • 17h ago
+⭐ 67.2k • 🔱 3.5k • 1h ago
 
 ---
 
@@ -665,7 +653,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.1k • 🔱 1.1k • 9h ago
+⭐ 11.1k • 🔱 1.1k • 10h ago
 
 ---
 
@@ -675,7 +663,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.5k • 🔱 698 • 1h ago
+⭐ 5.5k • 🔱 701 • 8m ago
 
 ---
 
@@ -685,7 +673,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.0k • 🔱 523 • 7h ago
+⭐ 4.1k • 🔱 527 • 8h ago
 
 ---
 
@@ -695,7 +683,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 163 • 1d ago
+⭐ 2.2k • 🔱 164 • 1d ago
 
 ---
 
@@ -705,7 +693,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.1k • 🔱 189 • 2d ago
+⭐ 2.2k • 🔱 189 • 2d ago
 
 ---
 
@@ -735,7 +723,17 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.5k • 🔱 70 • 1h ago
+⭐ 1.5k • 🔱 72 • 14m ago
+
+---
+
+**[TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli)**
+
+Official TestSprite CLI — AI-powered automated testing from your terminal
+
+`TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
+
+⭐ 1.3k • 🔱 54 • 4d ago
 
 ---
 

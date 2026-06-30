@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-29T22:37:02.963148+00:00'
+updated: '2026-06-30T00:04:57.735318+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 29, 2026 at 22:37 UTC  
+**Last Updated:** June 30, 2026 at 00:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,614.25
+### $1,614.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** -3.1%  
+**24h:** +2.5%  
+**7d:** -0.6%  
 **30d:** -19.5%  
-**90d:** -24.5%  
-**1y:** -35.1%  
+**90d:** -21.6%  
+**1y:** -32.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $194.57B
+**Market Cap:** $194.32B
 Rank #2
 
-**Circulating Supply:** 120,683,707 ETH
+**Circulating Supply:** 120,683,477 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -67.4%
 
 **All-Time Low:** $0.43
-+372246.0%
++371788.7%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 7h ago
 
 Bitcoin opened at $59,496.48 on Monday, June 29, 2026, 0.7% lower than Sunday's opening price. As of 8:50 a.m. ET, the price of bitcoin moved up to $59,813.02. Ethereum opened at $1,569.67 on Monday, June 29, 2026, down 0.1% from Sunday's opening price. Ethereum moved slightly higher this morning to $1,572.89 as of 8:50 a.m. ET.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 9h ago
 
 Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -180,7 +180,15 @@ The Block • 15h ago
 
 The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
+
+---
+
+**[Ethereum Built Stablecoins. Its Price Drop Reveals Their Biggest Shift Yet](https://www.pymnts.com/cryptocurrency/2026/ethereum-built-stablecoins-its-price-drop-reveals-their-biggest-shift-yet/)**
+
+Ethereum, the second-largest blockchain by market capitalization, fell roughly 25% in June amid a corporate restructuring. The correction stands out less
+
+PYMNTS.com • 50m ago
 
 ---
 
@@ -188,7 +196,7 @@ CoinDesk • 10h ago
 
 For more details, visit the official Cryptoslate platform.TL;DRInstitutions Are Not Just Buying Or Selling Crypto As One TradeInstitutional investors reportedly reduced exposure to Bitcoin and Ethereum ETF products while still adding to XRP and HYPE-linked wrappers.That is a more interesting story…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -196,7 +204,15 @@ TradingView • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 11h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rebounds, ETH and XRP defend key support following recent correction](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rebounds-eth-and-xrp-defend-key-support-following-recent-correction-202606290345)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Monday after a correction of nearly 6%, 8% and 7%, respectively, over the previous week.
+
+FXStreet • 20h ago
 
 ---
 
@@ -204,15 +220,7 @@ Fortune • 9h ago
 
 AI and Big Tech stocks sold off, and Strategy’s $16 billion unrealized loss added to investors’ concern that Bitcoin could sink lower next week.
 
-CoinMarketCap • 15h ago
-
----
-
-**[Bitcoin Reclaims $60,000 As Ethereum, XRP, Dogecoin Rise After Strategy Unveils BTC Monetization Plan](https://www.benzinga.com/crypto/cryptocurrency/26/06/60171180/bitcoin-reclaims-60000-as-ethereum-xrp-dogecoin-rise-after-strategy-unveils-btc-monetization-plan)**
-
-Bitcoin rebounded above $60,000 alongside gains in Ethereum, XRP and Dogecoin after Strategy unveiled its Bitcoin monetization and capital restructuring plan, easing immediate market concerns.
-
-Benzinga • 3h ago
+CoinMarketCap • 16h ago
 
 ---
 
@@ -220,15 +228,7 @@ Benzinga • 3h ago
 
 An update from BitMine Immersion Technologies ( ($BMNR) ) is now available. On June 29, 2026, Bitmine reported that as of June 28 it held 5.70 million ETH, represen...
 
-TipRanks • 9h ago
-
----
-
-**[Loopring shuts down DEX – What went wrong for Ethereum’s L2 pioneer?](https://ambcrypto.com/loopring-shuts-down-dex-what-went-wrong-for-ethereums-l2-pioneer/)**
-
-Loopring faces a turning point as zkEVM adoption reshapes Layer-2 competition.
-
-AMBCrypto • 1h ago
+TipRanks • 10h ago
 
 ---
 
@@ -242,17 +242,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 499 • 👍 42 • 💬 13 • ⏱️ 41:52 • 3h ago
+👁️ 1K • 👍 68 • 💬 41 • ⏱️ 41:52 • 5h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
+**[BIGGEST CRYPTO NEWS HAPPENING NOW (JPMorgan, Clarity, Saylor, Ethereum)](https://www.youtube.com/watch?v=qS34CLtPpOo)**
 
-Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
+JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum ⭐ Follow Altcoin Daily on X: ...
 
-📺 Thomas Kralow
+📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 26 • ⏱️ 9:18 • 12h ago
+👁️ 4K • 👍 407 • 💬 23 • ⏱️ 11:49 • 1h ago
 
 ---
 
@@ -262,7 +262,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 177 • 💬 41 • ⏱️ 1:01:02 • 12h ago
+👁️ 6K • 👍 201 • 💬 42 • ⏱️ 1:01:02 • 13h ago
+
+---
+
+**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
+
+Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
+
+📺 Thomas Kralow
+
+👁️ 13K • 👍 1K • 💬 22 • ⏱️ 9:18 • 13h ago
+
+---
+
+**[Joseph Chalom: Ethereum Is Extremely Oversold Here (New Catalysts)](https://www.youtube.com/watch?v=rLd9qCWOAO8)**
+
+Joseph Chalom makes the case that this is one of the best ETH entry points we've seen, why step-function demand from ...
+
+📺 The Rollup
+
+👁️ 471 • 👍 24 • 💬 1 • ⏱️ 5:59 • 3h ago
 
 ---
 
@@ -272,7 +292,7 @@ JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/in
 
 📺 Trade Confident
 
-👁️ 112 • 👍 9 • 💬 6 • ⏱️ 5:31 • 3h ago
+👁️ 158 • 👍 11 • 💬 5 • ⏱️ 5:31 • 5h ago
 
 ---
 
@@ -282,7 +302,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 156 • ⏱️ 9:55 • 1d ago
+👁️ 53K • 👍 2K • 💬 123 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -292,17 +312,15 @@ Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC docum
 
 📺 Crypto Sensei
 
-👁️ 15K • 👍 803 • 💬 90 • ⏱️ 21:39 • 1d ago
+👁️ 15K • 👍 806 • 💬 91 • ⏱️ 21:39 • 1d ago
 
 ---
 
-**[Ethereum Just Gave A Bullish Signal 🚀](https://www.youtube.com/watch?v=SoQCYfmbE3k)**
+**[$52,000 BITCOIN INCOMING $0.99 XRP $1300 ETH #bitcoin #memecoin #solana #crypto #xrp](https://www.youtube.com/watch?v=HV-RwdCv2ZQ)**
 
-Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+📺 CryptoWendyO
 
-📺 Stocks with Josh
-
-👁️ 8K • 👍 351 • 💬 12 • ⏱️ 1:06 • 1d ago
+👁️ 11K • 👍 375 • 💬 26 • ⏱️ 1:00 • 23h ago
 
 ---
 
@@ -312,27 +330,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 157 • 👍 10 • 💬 5 • ⏱️ 5:18 • 11h ago
-
----
-
-**[ETHEREUM : LA FIN ? CE QUI SE PRÉPARE EST FOU ! 🚨](https://www.youtube.com/watch?v=MtSoRbyja2Q)**
-
-Le prix d'Ethereum baisse — et pourtant BlackRock intensifie ses produits institutionnels avec des ETF staking qui génèrent des ...
-
-📺 Crypto Le Trone
-
-👁️ 8K • 👍 730 • 💬 33 • ⏱️ 16:13 • 8h ago
-
----
-
-**[Ethereum बनेगा Bitcoin का बाप? | Ethereum Vs Bitcoin | SAGAR SINHA](https://www.youtube.com/watch?v=wyt5heRVQGM)**
-
-CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
-
-📺 Sagar Sinha 
-
-👁️ 70K • 👍 3K • 💬 602 • ⏱️ 21:19 • 1d ago
+👁️ 212 • 👍 11 • 💬 3 • ⏱️ 5:18 • 13h ago
 
 ---
 
