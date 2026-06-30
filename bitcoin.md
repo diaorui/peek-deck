@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-06-30T11:31:09.026110+00:00'
+updated: '2026-06-30T14:20:32.217838+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 11:31 UTC  
+**Last Updated:** June 30, 2026 at 14:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $59,241.23
+### $58,987.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -3.0%  
-**30d:** -17.1%  
-**90d:** -11.5%  
-**1y:** -43.9%  
+**24h:** -1.6%  
+**7d:** -3.5%  
+**30d:** -17.5%  
+**90d:** -11.9%  
+**1y:** -44.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1185.82B
+**Market Cap:** $1180.26B
 Rank #1
 
-**Circulating Supply:** 20,050,153 BTC
+**Circulating Supply:** 20,050,228 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--53.1%
+-53.3%
 
 **All-Time Low:** $67.81
-+87105.4%
++86707.3%
 
 ---
 
@@ -77,15 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Strategy prepares to sell up to $1.25 billion of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uixh9s/strategy_prepares_to_sell_up_to_125_billion_of/)**
+**[Don't Buy Bitcoin. It's Going To Crash!!!](https://www.reddit.com/r/Bitcoin/comments/1ujheay/dont_buy_bitcoin_its_going_to_crash/)**
 
-🔗 [thestreet.com](https://www.thestreet.com/crypto/markets/strategy-prepares-to-sell-up-to-1-25-billion-of-bitcoin) • 18h ago
+7h ago
 
 ---
 
-**[Don't Buy Bitcoin. It's Going To Crash!!!](https://www.reddit.com/r/Bitcoin/comments/1ujheay/dont_buy_bitcoin_its_going_to_crash/)**
+**[extremely serious, non-jokey bitcoin technical analysis from a real actual pro trader](https://www.reddit.com/r/Bitcoin/comments/1ujp6su/extremely_serious_nonjokey_bitcoin_technical/)**
 
-4h ago
+the bitcoin price has fallen from about $90k at the start of the year to $59k right now. as an officially certified pro trader, here is my very serious and not a joke technical analysis (TA) of where we are headed: with bitcoin on a downtrend, it is important to identify some support levels that it might bounce from. i have identified 3 critical support levels in the $50k-60k range firstly, i have identified 58008 as a critical support level. this is because if you type 58008 into a calculator and turn it upside down, it spells BOOBS. and boobs are bouncy, so the market should do a bounce off that level secondly, if that fails to hold, i have identified 53180.08 as another critical support level. this is because 53180.08 typed into a calculator and turned upside down spells BOOBIES. and boobies are bouncy, so the market should do a bounce off that level finally, if that fails to hold, the last remaining support level is 50135. this is because 50135 typed into a calculator and turned upside down spells SEIOS, which means boobs in Portuguese. this represents international diversification of support levels, a critical skill in becoming a pro crypto trader this cluster of levels in the 50k range shows that bitcoin has firm support bras in this price range with well-adjusted straps and no sagging however, we can't stay bullish forever. if it bounces off any of those levels, i'm looking to take profits in the upper 70k range. in particular, i'll be looking to exit my position by selling at 77735. this is because if you type 77735 into a calculator and turn it upside down it spells SELLL
+
+55m ago
 
 ---
 
@@ -93,15 +95,29 @@ Rank #1
 
 I don't really care if the price goes down after I buy. I believe one day it will be at least 3x than it is now. And if I lose this money... it's still better than wasting it on stupid things!
 
-3h ago
+6h ago
 
 ---
 
-**[Bitcoin Shake at Steak & Shake](https://www.reddit.com/r/Bitcoin/comments/1uizgz2/bitcoin_shake_at_steak_shake/)**
+**[Massive liquidation](https://www.reddit.com/r/Bitcoin/comments/1ujooy0/massive_liquidation/)**
 
-Also got a few meals for the family, but didn’t see this shake posted before. Bonus: was very delicious!
+A $24 million leveraged long position has just been liquidated sending BTC down from 59.5 to 58.5 in an hour. Stop using leverage people...
 
-17h ago
+1h ago
+
+---
+
+**[Strategy prepares to sell up to $1.25 billion of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uixh9s/strategy_prepares_to_sell_up_to_125_billion_of/)**
+
+🔗 [thestreet.com](https://www.thestreet.com/crypto/markets/strategy-prepares-to-sell-up-to-1-25-billion-of-bitcoin) • 21h ago
+
+---
+
+**[Everyone in this sub should be required to read Broken Money by Lyn Alden](https://www.reddit.com/r/Bitcoin/comments/1ujof8q/everyone_in_this_sub_should_be_required_to_read/)**
+
+In terms of recent months (or year, have lost track since I last read a quality post on this sub) of low quality posts, degen investing and crying about the price of bitcoin going one way or another - I highly recommend reading Broken Money. The way Alden is able to connect history, statistics, math and politics while explaining ’money’ in its most fundamental essence really opened my own eyes. I almost guarantee you will look at a lot of things in life differently after reading it, not just bitcoin or fiat currency. Also, to further emphasize, I’m not a bitcoin maxi. I don’t have a fortune in it, but the amount I have is meant as an ultra-long term hedge against inflation, fiat in general and all the shit that has been going on the past decade.
+
+1h ago
 
 ---
 
@@ -109,7 +125,15 @@ Also got a few meals for the family, but didn’t see this shake posted before. 
 
 I’m in Bitcoin from 2015, I know many holders and I know that no one is selling, some are keep buying… it’s all synthetic ETF BS.
 
-7h ago
+9h ago
+
+---
+
+**[Bitcoin Shake at Steak & Shake](https://www.reddit.com/r/Bitcoin/comments/1uizgz2/bitcoin_shake_at_steak_shake/)**
+
+Also got a few meals for the family, but didn’t see this shake posted before. Bonus: was very delicious!
+
+20h ago
 
 ---
 
@@ -117,39 +141,13 @@ I’m in Bitcoin from 2015, I know many holders and I know that no one is sellin
 
 Wow. I had to do a double take. I was in my basement getting ready to make a Safu Ninja wallet. When suddenly I came across these three stacks. Would you believe that they **didn't** contain any seed words, at all! At one point, I don't know how long ago, I just thought this would be a good way to organize some extra washers that I had available. Of course, I'm disappointed that I didn't discover a forgotten stash. But I'm also relieved that my early onset dementia isn't bad enough that I completely forgot about creating and, subsequently misplacing, a wallet!
 
-14h ago
-
----
-
-**[Thank you Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1uj3d9g/thank_you_bitcoin/)**
-
-So I bought Bitcoin back in 2017. Fast forward sold 10x of my initial investment got my sister married and got my self married. Plus have more then that sitting in my wallet. Hurts seeing price go down and panic selling but it did make my life good. Thank you Bitcoin and everyone who believes in it.
-
-15h ago
-
----
-
-**[Bitcoin is dead. Long live Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1uizgyy/bitcoin_is_dead_long_live_bitcoin/)**
-
-Hi everyone, Is it just me, or are people in non-crypto subreddits saying much more often during this bear market that Bitcoin is dead and will never recover compared to the last one? As someone who likes to invest counter-cyclically, I actually find that incredibly bullish. Or is my impression wrong, and the overall sentiment really is just like the last times?
-
 17h ago
 
 ---
 
-**[Bitcoin’s Hidden Clock](https://www.reddit.com/r/Bitcoin/comments/1ujbpec/bitcoins_hidden_clock/)**
+**[I built a Bitcoin-mining air purifier — then sealed myself in a box of smoke to test it](https://www.reddit.com/r/Bitcoin/comments/1ujpf7z/i_built_a_bitcoinmining_air_purifier_then_sealed/)**
 
-Bitcoin’s Hidden Clock: The Pattern Almost Nobody Talks About Most Bitcoin investors spend their time trying to predict price. Will Bitcoin reach a new all time high? Will it crash? Will this cycle be different? I decided to ignore price for a moment and focus on something else: time. After examining every completed Bitcoin market cycle, I found one of the most consistent patterns in financial markets. Starting with the 2015 bear market, Bitcoin took 1,068 days to climb from its lowest point to a new all time high in December 2017. The next cycle was almost identical. From the December 2018 bear market bottom to the November 2021 all time high, Bitcoin took 1,061 days. The most recent completed cycle followed the same rhythm once again, taking 1,050 days from the November 2022 low to its next all time high. Across three complete market cycles, Bitcoin has averaged 1,060 days from a major bear market bottom to a new all time high. What’s even more remarkable is that the difference between the longest and shortest cycle is just 18 days. For one of the world’s most volatile assets, that level of consistency is extraordinary. I then looked at another metric. How long does Bitcoin typically take to fall from its all time high to the next major bear market bottom? Following the 2017 peak, Bitcoin reached its bear market low 363 days later. Following the 2021 peak, the next bear market bottom arrived 376 days later. That gives an average of approximately 370 days. If the current cycle continues to follow the same historical rhythm, and if the latest all time high ultimately proves to be the cycle peak, history would suggest that the next major Bitcoin bear market bottom could occur around October 2026. This is not a prediction. Markets are influenced by global liquidity, interest rates, regulation, geopolitics, institutional participation, and countless other variables. Spot Bitcoin ETFs and increasing institutional adoption could easily change the timing of future cycles. But the historical consistency is difficult to ignore. Bitcoin’s fixed supply schedule creates predictable changes in issuance, while investor psychology tends to repeat itself. Fear eventually gives way to optimism, optimism becomes euphoria, and euphoria is eventually replaced by another period of capitulation. Perhaps that’s why Bitcoin’s market rhythm has remained so consistent for more than a decade. Instead of asking, “Where will Bitcoin be next week?” Maybe the better question is: “Where are we in the cycle?” No one can consistently predict short term price movements. But understanding Bitcoin’s long term rhythm may be one of the most valuable tools an investor can have. History doesn’t predict the future. But it often provides a remarkably useful framework for understanding it. So.. Has institutional adoption permanently changed Bitcoin’s cycle, or is the market still following the same long term rhythm that has defined the past decade? Time will tell.
-
-9h ago
-
----
-
-**[A genuine question](https://www.reddit.com/r/Bitcoin/comments/1ujg5pc/a_genuine_question/)**
-
-https://preview.redd.it/5g3640lsucah1.jpg?width=533&format=pjpg&auto=webp&s=d014def4775beaa664fc6081a7f848c9b2b24c7d In the event of a global disaster where electrical grids and the internet were completely lost, how would Bitcoin remain valid?
-
-6h ago
+45m ago
 
 ---
 
@@ -159,51 +157,65 @@ https://preview.redd.it/5g3640lsucah1.jpg?width=533&format=pjpg&auto=webp&s=d014
 
 **[Strategy’s Turnaround Plan Includes Stock Buyback, Bitcoin Sales and More Reserves](https://www.wsj.com/finance/currencies/strategys-turnaround-plan-includes-stock-buyback-bitcoin-sales-and-more-reserves-4c61c8b6)**
 
-WSJ • 14h ago
+WSJ • 17h ago
+
+---
+
+**[Bitcoin price holds near $60,000, but analyst warns break lower could target $40,000](https://www.coindesk.com/markets/2026/06/30/bitcoin-s-quiet-usd59-000-usd60-000-range-is-starting-to-look-dangerous)**
+
+The token has traded in a tight band near $59,000 to $60,000 all week. Here's what could happen now.
+
+CoinDesk • 2h ago
+
+---
+
+**[Cathie Wood Makes Fresh Bullish Bitcoin Call — Just Months After $1.5M Prediction](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-makes-fresh-bullish-132653752.html)**
+
+ARK Invest bought $43.5 million in crypto-related stocks. Cathie Wood argued AI and global capital flight will strengthen Bitcoin. Wood continues to stand by ARK's ...
+
+Yahoo Finance • 53m ago
+
+---
+
+**[Current price of Bitcoin for June 30, 2026](https://fortune.com/article/price-of-bitcoin-06-30-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1h ago
+
+---
+
+**[Goldman Lampe Private Bank Purchases €120 Million Bitcoin During Market Dip, Reinforcing Crypto Leadership](https://markets.businessinsider.com/news/stocks/goldman-lampe-private-bank-purchases-120-million-bitcoin-during-market-dip-reinforcing-crypto-leadership-1036285781)**
+
+RAS AL KHAIMAH, United Arab Emirates, June  30, 2026  (GLOBE NEWSWIRE) -- Goldman Lampe Private Bank, the world’s first bank to introduce cryptocu...
+
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[Bitcoin ETFs Set for Worst Month With $4 Billion in Outflows](https://www.bloomberg.com/news/articles/2026-06-29/bitcoin-btc-etfs-face-record-4-billion-in-june-outflows-worst-since-launch)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 20h ago
 
 ---
 
-**[Billionaire Investor Who Called The Dot-Com Bubble Says Bitcoin Will 'Certainly' Go To Zero—Crypto Analyst Calls Remark 'Stupid'](https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-called-dot-com-101516379.html)**
+**[Bitcoin ETFs Set for Worst Month With $4 Billion in Outflows](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-set-worst-month-082429391.html)**
 
-Cryptocurrency analyst Michaël van de Poppe slammed on Monday billionaire investor Jeremy Grantham’s prediction that Bitcoin (CRYPTO: BTC) will “certainly” go to zero. ‘Ridiculous’ Statement Van De Poppe deemed the remark as “stupid,” noting it was unexpected from a “great” investor. The analyst rued that many great men have failed to grasp Bitcoin’s fundamentals and purpose. and they sound “ridiculous” making such statements. This is just a stupid post from a great investor.So many great old ma
+(Bloomberg) -- US-listed Bitcoin exchange-traded funds are on pace for their worst month of withdrawals since launching two years ago.Most Read from BloombergTrump’s U-Turn on Iran Sanctions Would Unravel Decades of CurbsAramco Helicopter Crash in Ras Tanura Kills All 14 on BoardOil Pares Early Gains as US, Iran Halt Attacks After Flare-UpUS and Iran Agree to Halt Attacking Each Other Ahead of TalksAn Analyst’s Missed Remark Surfaced in Deadly Iran School Strike ProbeInvestors have pulled more t
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Better Crypto Blue Chip: Bitcoin vs. Ripple (XRP)](https://finance.yahoo.com/markets/crypto/articles/better-crypto-blue-chip-bitcoin-082000324.html)**
+**[Bitcoin pinned below $60k as rate jitters, ETF outflows persist](https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-60k-as-rate-jitters-etf-outflows-persist-4766872)**
 
-These are two of the oldest and most valuable digital assets, each with a distinct variable worth noting.
-
-Yahoo Finance • 3h ago
+Investing.com • 8h ago
 
 ---
 
 **[Bitcoin miner and AI firm Ionic Digital files for Nasdaq direct listing](https://www.reuters.com/legal/government/bitcoin-miner-ai-firm-ionic-digital-files-nasdaq-direct-listing-2026-06-29/)**
 
-Reuters • 12h ago
-
----
-
-**[Current price of Bitcoin for June 29, 2026](https://fortune.com/article/price-of-bitcoin-06-29-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 22h ago
-
----
-
-**[Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market](https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market)**
-
-Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain demand stayed quiet through the week's losses, and Strategy's plan to possibly sell bitcoin added to the caution.
-
-CoinDesk • 6h ago
+Reuters • 15h ago
 
 ---
 
@@ -212,20 +224,6 @@ CoinDesk • 6h ago
 Bitcoin's $60,000 level will be critical to watch in the coming months, one strategist says. Another sees downside to $40,000.
 
 CNBC • 1d ago
-
----
-
-**[Nancy Guthrie demand letter for single bitcoin, not millions, is perplexing: Geragos](https://www.newsnationnow.com/missing/nancy-guthrie-demand-letter-mark-geragos/)**
-
-NewsNation • 1d ago
-
----
-
-**[Bitcoin (BTC) news: Saylor kicks the can down the road and yen hits 40-year low. what next?](https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar)**
-
-BTC fell in Asia as the Japanese yen tanked to four-decade lows, lifting the dollar higher across the board.
-
-CoinDesk • 7h ago
 
 ---
 
@@ -253,13 +251,13 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.
 
-⬆️ 6 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
+⬆️ 6 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html)
 
 ---
 
 **[Strategy Says It May Sell Up to $1.25B of Bitcoin](https://news.ycombinator.com/item?id=48718522)**
 
-⬆️ 5 • 💬 2 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
+⬆️ 5 • 💬 2 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
 
 ---
 
@@ -267,7 +265,7 @@ Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-⬆️ 3 • 💬 1 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+⬆️ 3 • 💬 1 • 3d ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
 
 ---
 
@@ -308,7 +306,7 @@ Create an independent digital timestamp without uploading the original file.
 
 Strategy continues its shift away from aggressive Bitcoin accumulation as market conditions deteriorate.
 
-⬆️ 1 • 💬 0 • 17h ago • [Fortune](https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/)
+⬆️ 1 • 💬 0 • 20h ago • [Fortune](https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/)
 
 ---
 
@@ -322,17 +320,7 @@ To get 50% off your first order of CookUnity meals, go to http://www.cookunity.c
 
 📺 Graham Stephan
 
-👁️ 267K • 👍 6K • 💬 1K • ⏱️ 16:44 • 14h ago
-
----
-
-**[Michael Saylor Did It &amp; Bitcoin’s about to Pump! (Here&#39;s Why)](https://www.youtube.com/watch?v=LgzDVsONr9M)**
-
-Is Bitcoin finally beginning to build a bottom, or is there still one last leg lower to come? Today, Ran breaks down the key on-chain, ...
-
-📺 Crypto Banter
-
-👁️ 57K • 👍 2K • 💬 166 • ⏱️ 23:31 • 21h ago
+👁️ 297K • 👍 7K • 💬 1K • ⏱️ 16:44 • 17h ago
 
 ---
 
@@ -342,7 +330,17 @@ Bitcoin is under pressure, Strategy is being accused of triggering a death spira
 
 📺 Simply Bitcoin
 
-👁️ 50K • 👍 3K • 💬 312 • ⏱️ 20:04 • 14h ago
+👁️ 55K • 👍 4K • 💬 364 • ⏱️ 20:04 • 17h ago
+
+---
+
+**[Michael Saylor Did It &amp; Bitcoin’s about to Pump! (Here&#39;s Why)](https://www.youtube.com/watch?v=LgzDVsONr9M)**
+
+Is Bitcoin finally beginning to build a bottom, or is there still one last leg lower to come? Today, Ran breaks down the key on-chain, ...
+
+📺 Crypto Banter
+
+👁️ 59K • 👍 2K • 💬 180 • ⏱️ 23:31 • 1d ago
 
 ---
 
@@ -352,17 +350,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 640 • 💬 102 • ⏱️ 9:48 • 10h ago
-
----
-
-**[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
-
-Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 2K • 💬 111 • ⏱️ 9:55 • 1d ago
+👁️ 12K • 👍 679 • 💬 139 • ⏱️ 9:48 • 13h ago
 
 ---
 
@@ -372,17 +360,17 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 254 • 💬 9 • ⏱️ 16:14 • 13h ago
+👁️ 5K • 👍 296 • 💬 9 • ⏱️ 16:14 • 16h ago
 
 ---
 
-**[Bitcoin And BlackRock Just Did Something VERY Strange](https://www.youtube.com/watch?v=biyCX7UYAfQ)**
+**[Bitcoin Faces A Liquidity Shock...](https://www.youtube.com/watch?v=veCyFipgKSY)**
 
-Bitcoin just broke down again — falling below $60k to levels we haven't seen in nearly two years. But here's the strange part: this ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Eurodollar University
+📺 CryptosRUs
 
-👁️ 47K • 👍 1K • 💬 146 • ⏱️ 22:54 • 2d ago
+👁️ 4K • 👍 313 • 1h ago
 
 ---
 
@@ -392,7 +380,17 @@ The price of Bitcoin just fell below the 200W moving average. Let's discuss! Che
 
 📺 Benjamin Cowen
 
-👁️ 125K • 👍 7K • 💬 330 • ⏱️ 7:06 • 1d ago
+👁️ 128K • 👍 7K • 💬 332 • ⏱️ 7:06 • 1d ago
+
+---
+
+**[Bitcoin And BlackRock Just Did Something VERY Strange](https://www.youtube.com/watch?v=biyCX7UYAfQ)**
+
+Bitcoin just broke down again — falling below $60k to levels we haven't seen in nearly two years. But here's the strange part: this ...
+
+📺 Eurodollar University
+
+👁️ 47K • 👍 2K • 💬 149 • ⏱️ 22:54 • 2d ago
 
 ---
 
@@ -402,17 +400,17 @@ This is the number that tracks your progress—not your paycheck. Calculate your
 
 📺 The Ramsey Show Highlights
 
-👁️ 69K • 👍 2K • 💬 77 • ⏱️ 2:08 • 20h ago
+👁️ 78K • 👍 2K • 💬 100 • ⏱️ 2:08 • 23h ago
 
 ---
 
-**[BREAKING: Michael Saylor is ABOUT to SELL 21,000 Bitcoin?! (it&#39;s happening) | EP 1536](https://www.youtube.com/watch?v=C9GjLJ1PlGw)**
+**[The Brutally Honest Truth About Retiring on 0.1 Bitcoin](https://www.youtube.com/watch?v=POtiWGxtv6s)**
 
-Michael Saylor makes waves again with a NEW "Btc monetization program" ... codifying Strategy's ability to sell bitcoin at will ...
+Can you actually retire on 0.1 Bitcoin? Every financial advisor will tell you it's a rounding error, a fun speculative play, not a real ...
 
-📺 Simply Bitcoin
+📺 Trey Sellers
 
-👁️ 9K • 👍 354 • 💬 39 • ⏱️ 1:27:35 • 16h ago
+👁️ 4K • 👍 133 • 💬 41 • ⏱️ 5:37 • 1d ago
 
 ---
 

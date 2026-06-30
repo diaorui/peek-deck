@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T11:31:09.032294+00:00'
+updated: '2026-06-30T14:20:32.223929+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 11:31 UTC  
+**Last Updated:** June 30, 2026 at 14:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,589.74
+### $1,574.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -2.6%  
-**30d:** -21.1%  
-**90d:** -23.1%  
-**1y:** -34.2%  
+**24h:** -0.5%  
+**7d:** -3.1%  
+**30d:** -21.6%  
+**90d:** -23.6%  
+**1y:** -34.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $190.30B
+**Market Cap:** $189.32B
 Rank #2
 
 **Circulating Supply:** 120,683,443 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.1%
+-68.3%
 
 **All-Time Low:** $0.43
-+364005.4%
++362157.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sentiment about the coin is in the dumps, and it's no surprise why.
 
-The Motley Fool • 7h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 7h ago
 
 BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 20h ago
 
 Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
 
-The Block • 20h ago
+The Block • 23h ago
 
 ---
 
@@ -180,15 +180,23 @@ The Block • 20h ago
 
 Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine was added to the...
 
-PR Newswire • 23h ago
+PR Newswire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Gain, XRP, Dogecoin Flat As Trump Announces Next Round Of US-Iran Talks: Analyst Flags Signal Marking 'Generational Buying Opportunities'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-gain-xrp-dogecoin-020434418.html)**
+**[Bitcoin and ethereum prices today, Tuesday, June 30: Prices sliding, down about 40% from last year](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-june-30-prices-sliding-down-about-40-from-last-year-124424056.html)**
 
-Leading cryptocurrencies pared losses Monday, while stocks closed higher as investors priced in a further easing of tensions between the U.S. and Iran following weekend hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.00%$59,872.36Ethereum (CRYPTO: ETH) +1.99%$1,594.33XRP (CRYPTO: XRP) +0.75%$1.04Solana (CRYPTO: SOL) +4.42%$74.24Dogecoin (CRYPTO: DOGE) -0.25%$0.07242 Crypto Market Recoups Losses Bitcoin rose in the early trading hours, but fail
+Bitcoin opened at $60,148.50, up 1.1% from yesterday's opening price. Ethereum opened at $1,610.48, up 2.6% from yesterday's opening price.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for June 30, 2026](https://fortune.com/article/price-of-ethereum-06-30-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -196,31 +204,23 @@ Yahoo Finance • 9h ago
 
 The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for June 29, 2026](https://fortune.com/article/price-of-ethereum-06-29-2026/)**
+**[Bitcoin And Ethereum ETFs Extend Outflow Streak As Funds Shed $261 Million](https://www.tradingview.com/news/newsbtc:5a7eea7e1094b:0-bitcoin-and-ethereum-etfs-extend-outflow-streak-as-funds-shed-261-million/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+TL;DRU.S. crypto ETFs are still under pressure, with fresh data showing another day of redemptions across both Bitcoin and Ethereum products. Spot Bitcoin ETFs saw roughly $231 million in net outflows, while spot Ethereum ETFs recorded about $30 million in outflows during the same session.The figur…
 
-Fortune • 22h ago
-
----
-
-**[Loopring shuts down DEX – What went wrong for Ethereum’s L2 pioneer?](https://ambcrypto.com/loopring-shuts-down-dex-what-went-wrong-for-ethereums-l2-pioneer/)**
-
-Loopring faces a turning point as zkEVM adoption reshapes Layer-2 competition.
-
-AMBCrypto • 14h ago
+TradingView • 1h ago
 
 ---
 
-**[Institutions Cut Bitcoin And Ethereum ETF Exposure But Keep Buying XRP And HYPE](https://www.tradingview.com/news/newsbtc:2d5cb5d7a094b:0-institutions-cut-bitcoin-and-ethereum-etf-exposure-but-keep-buying-xrp-and-hype/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rebounds, ETH and XRP defend key support following recent correction](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rebounds-eth-and-xrp-defend-key-support-following-recent-correction-202606290345)**
 
-For more details, visit the official Cryptoslate platform.TL;DRInstitutions Are Not Just Buying Or Selling Crypto As One TradeInstitutional investors reportedly reduced exposure to Bitcoin and Ethereum ETF products while still adding to XRP and HYPE-linked wrappers.That is a more interesting story…
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Monday after a correction of nearly 6%, 8% and 7%, respectively, over the previous week.
 
-TradingView • 18h ago
+FXStreet • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ TradingView • 18h ago
 
 Ethereum, the second-largest blockchain by market capitalization, fell roughly 25% in June amid a corporate restructuring. The correction stands out less
 
-PYMNTS.com • 12h ago
+PYMNTS.com • 15h ago
 
 ---
 
@@ -242,7 +242,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 93 • ⏱️ 11:49 • 12h ago
+👁️ 36K • 👍 2K • 💬 134 • ⏱️ 11:49 • 15h ago
 
 ---
 
@@ -252,17 +252,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 118 • 💬 56 • ⏱️ 41:52 • 16h ago
-
----
-
-**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
-
-Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
-
-📺 Thomas Kralow
-
-👁️ 14K • 👍 1K • 💬 45 • ⏱️ 9:18 • 1d ago
+👁️ 4K • 👍 131 • 💬 64 • ⏱️ 41:52 • 19h ago
 
 ---
 
@@ -272,7 +262,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 245 • 💬 49 • ⏱️ 1:01:02 • 1d ago
+👁️ 8K • 👍 256 • 💬 53 • ⏱️ 1:01:02 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
+
+Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
+
+📺 Thomas Kralow
+
+👁️ 14K • 👍 1K • 💬 27 • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -282,27 +282,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 111 • ⏱️ 9:55 • 1d ago
-
----
-
-**[BTC &amp; ETHEREUM, Geduld zahlt sich aus! Wir warten jetzt auf unseren Short Einstieg!](https://www.youtube.com/watch?v=7OeQKWp_za8)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 533 • 💬 73 • ⏱️ 11:19 • 6h ago
-
----
-
-**[⚠️ Alerta Cripto: Institucionales reducen posiciones en Bitcoin y Ethereum](https://www.youtube.com/watch?v=2IvgvjlMsJ8)**
-
-Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino ¿Estamos ante la **última gran oportunidad para ...
-
-📺 Jaime Merino | TradingLatino
-
-👁️ 12K • 👍 1K • 💬 42 • ⏱️ 20:08 • 7h ago
+👁️ 56K • 👍 2K • 💬 117 • ⏱️ 9:55 • 1d ago
 
 ---
 
@@ -312,7 +292,35 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 3K • 👍 76 • 💬 73 • ⏱️ 5:59 • 15h ago
+👁️ 4K • 👍 85 • 💬 43 • ⏱️ 5:59 • 17h ago
+
+---
+
+**[BTC &amp; ETHEREUM, Geduld zahlt sich aus! Wir warten jetzt auf unseren Short Einstieg!](https://www.youtube.com/watch?v=7OeQKWp_za8)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 561 • 💬 82 • ⏱️ 11:19 • 9h ago
+
+---
+
+**[⚠️ Alerta Cripto: Institucionales reducen posiciones en Bitcoin y Ethereum](https://www.youtube.com/watch?v=2IvgvjlMsJ8)**
+
+Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino ¿Estamos ante la **última gran oportunidad para ...
+
+📺 Jaime Merino | TradingLatino
+
+👁️ 14K • 👍 1K • 💬 56 • ⏱️ 20:08 • 10h ago
+
+---
+
+**[$52,000 BITCOIN INCOMING $0.99 XRP $1300 ETH #bitcoin #memecoin #solana #crypto #xrp](https://www.youtube.com/watch?v=HV-RwdCv2ZQ)**
+
+📺 CryptoWendyO
+
+👁️ 12K • 👍 405 • 💬 31 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -322,17 +330,7 @@ CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link
 
 📺 Sagar Sinha 
 
-👁️ 77K • 👍 3K • 💬 637 • ⏱️ 21:19 • 1d ago
-
----
-
-**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
-
-JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
-
-📺 Trade Confident
-
-👁️ 241 • 👍 13 • 💬 5 • ⏱️ 5:31 • 16h ago
+👁️ 79K • 👍 3K • 💬 646 • ⏱️ 21:19 • 1d ago
 
 ---
 
