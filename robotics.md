@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-30T08:30:25.863731+00:00'
+updated: '2026-06-30T11:31:09.035613+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 30, 2026 at 08:30 UTC  
+**Last Updated:** June 30, 2026 at 11:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Sorry for the spam but he is such a good boy](https://www.reddit.com/r/robotics/comments/1uj16o3/sorry_for_the_spam_but_he_is_such_a_good_boy/)**
 
-13h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 servos (50kg torque) and 3x STS3215 servos (30kg torque).
 
-6h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 In LLMs, Attention Is All You Need is one of those papers everyone agrees is worth studying. What would be the equivalent in robotic manipulation or computer vision applied to robotics? (Besides Transformers, since that would basically take us back to AIAYN) Not necessarily SOTA with 200 GPUs lol I’m looking for a paper worth reproducing to really learn from it. Which one would you pick, and why?
 
-11h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ In LLMs, Attention Is All You Need is one of those papers everyone agrees is wor
 
 So I want to perform a material characterization study on a material where I need to put it under pressure. I’m in high school and don’t have a mentor or time to ask for access to university labs so I want to make something that can help me get data for cheap. I’m trying to make a linear actuator design and physically build all the parts myself (except for the motor and leadscrew system obviously) but I don’t extensively know how these types of things work. If I was to build something like this (pictures) would there be any significant issues? The cylinder (of which I don’t know what material to make out of) protruding out from the side would be directly connected to the sliding block part of my linear actuator so it pushes that down onto my material. I’m going to be pushing with 50lbs ish max so I’m making the majority of this out of wood. Any tips on making sure it doesn’t get worn out by some slight imperfection over the thousands of trials I’m going to need it for? And also any tips to make it work if something is seriously wrong 😭 And lastly any other tips about doing research studies like this without lab access or a significant mentor would be greatly appreciated.
 
-4h ago
+7h ago
 
 ---
 
@@ -66,13 +66,13 @@ So I want to perform a material characterization study on a material where I nee
 
 Hello everyone, today we are opening Lucy to the r/robotics community. Lucy is an open-source robotics platform built on ROS 2 with a simple goal: One platform to rule them all. We've spent months building the foundation, and now we need your feedback to help shape what comes next. What is Lucy? Lucy provides a unified control layer for robotic systems, making it easier to configure, monitor, and control robots through a common ecosystem. The current beta includes: RViz and Gazebo integration URDF support 3D robot visualization Real-time joint control powered by ros2_control Animation creation and playback tools Webcam-based hand teleoperation Extensible ROS 2 architecture for custom interfaces and applications Try out our demo online ! 🌐 Lucy Control Panel Demo Help us with beta testing Follow the guide to install the full beta: 📋 Beta Test Guidelines And the most important for improving the project, give us your honest feedback please 🐞 Submit Feedback 📦 GitHub Repository 💬 Join our discord server to stay updated and discuss about the project We'd love to hear your thoughts, this is only the beginning ! Welcome to Lucy ! The Lucy Team ❤️
 
-17h ago
+20h ago
 
 ---
 
 **[People being paid to record everyday tasks to build the datasets needed to train robots](https://www.reddit.com/r/robotics/comments/1uipvs3/people_being_paid_to_record_everyday_tasks_to/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello everyone, today we are opening Lucy to the r/robotics community. Lucy is a
 
 We have spent the past few weeks carefully annotating videos and experimenting with VLMs for subtask annotation. This type of annotation is incredibly important for long-horizon tasks, since robots need a more granular learning signal than high-level instructions like “clean your room.” We ran 50+ experiments, created a new diverse benchmark for this type of annotation, and built a pipeline that is 19x cheaper than humans. It works well as a first pass for labeling, speeding up human annotation and making it substantially cheaper. Blogpost about it is here: https://macrodata.co/blog/annotating-robot-video-subtasks
 
-11h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ We have spent the past few weeks carefully annotating videos and experimenting w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=T8thjPohz5g) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=T8thjPohz5g) • 10h ago
 
 ---
 
@@ -114,7 +114,31 @@ Follow-up to the v2 trajectory post and the noise characterization experiment. v
 
 The three-person Canadian AI startup is joining the majority-Canadian Mecka team.
 
-BetaKit • 21h ago
+BetaKit • 1d ago
+
+---
+
+**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
+
+Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
+
+Fox News • 11m ago
+
+---
+
+**[Industry Insights: Agility's Pras Velagapudi on Humanoid Generalization, Safety, and SPACs](https://www.automate.org/robotics/industry-insights/agility-takes-on-ai-generalization-and-humanoid-safety-as-it-looks-to-go-public)**
+
+Agility's CTO breaks down the humanoid company's strategy ahead of its SPAC.
+
+A3 Association for Advancing Automation • 46m ago
+
+---
+
+**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
+
+When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
+
+CNN • 5h ago
 
 ---
 
@@ -122,7 +146,7 @@ BetaKit • 21h ago
 
 Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
 
-The New Yorker • 22h ago
+The New Yorker • 1d ago
 
 ---
 
@@ -130,21 +154,15 @@ The New Yorker • 22h ago
 
 South Korea targets physical AI lead and commercial humanoid robots by 2028.
 
-Ars Technica • 11h ago
+Ars Technica • 14h ago
 
 ---
 
-**[Breakingviews - China's robot quest triggers system overload](https://www.reuters.com/commentary/breakingviews/chinas-robot-quest-triggers-system-overload-2026-06-29/)**
+**[NVIDIA (NVDA) Among The Most Promising Robotics Stocks; Here’s Why](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-among-most-promising-020417236.html)**
 
-Reuters • 10h ago
+Given its significant hedge fund backing and attractive upside potential, NVIDIA Corporation (NASDAQ:NVDA) is one of the most promising robotics stocks. NVIDIA Corporation (NASDAQ:NVDA) is extending its physical AI ambitions on two fronts simultaneously, pushing deeper into industrial robotics safety while advancing its push into agentic life sciences. On June 23, 2026, NVIDIA Corporation (NASDAQ:NVDA) […]
 
----
-
-**[TSLA Q2 Deliveries May Miss Estimates, But Cantor Says AI, Robotics, Chips Could Drive 'Transformational' 2026](https://finance.yahoo.com/markets/stocks/articles/tsla-q2-deliveries-may-miss-050046840.html)**
-
-The firm expects 397,414 Q2 deliveries, below Tesla’s company-compiled consensus of 408,609.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -152,7 +170,15 @@ Yahoo Finance • 3h ago
 
 The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
 
-Baton Rouge Business Report • 18h ago
+Baton Rouge Business Report • 21h ago
+
+---
+
+**[Boston Dynamics CEO: America's next 250 years will be built by robots. Here's what's standing in the way](https://fortune.com/2026/06/30/boston-dynamics-ceo-robots-america-national-strategy-amanda-mcmaster/)**
+
+The U.S. has always led the world's great industrial leaps. Robotics is next — but only if Washington, industry, and workers move together.
+
+Fortune • 1h ago
 
 ---
 
@@ -161,30 +187,6 @@ Baton Rouge Business Report • 18h ago
 What's the most attractive robotics stock right now for investors? Seeking Alpha analysts weigh in. Read more here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
-
-Factory-floor applications of the technology could significantly enhance rich-world economies
-
-Financial Times • 1d ago
-
----
-
-**[China Births Two Robot Unicorns as Sector Funding Stays Strong](https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong)**
-
-Bloomberg.com • 23h ago
-
----
-
-**[South Korea to Invest $880 Billion Into Chips, Robotics and AI Over 10 Years](https://www.theinformation.com/briefings/south-korea-invest-880-billion-chips-robotics-ai-10-years)**
-
-South Korea’s government on Monday announced an 1,350 trillion won ($880 billion) investment plan into semiconductors, robotics and AI over the next decade, in response to the surging demand for memory chips and the AI infrastructure boom. 
-
- Samsung Group and SK Group, parent companies of Samsung Electronics and SK Hynix, respectively, two of the world’s leading memory chipmakers, will invest
-
-The Information • 21h ago
 
 ---
 
@@ -198,7 +200,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 438K • 👍 13K • 💬 1K • ⏱️ 24:13 • 2d ago
+👁️ 440K • 👍 13K • 💬 1K • ⏱️ 24:13 • 2d ago
 
 ---
 
@@ -208,7 +210,7 @@ Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark 
 
 📺 The Daily Show
 
-👁️ 85K • 👍 3K • 💬 105 • ⏱️ 28:40 • 19h ago
+👁️ 95K • 👍 3K • 💬 108 • ⏱️ 28:40 • 22h ago
 
 ---
 
@@ -218,7 +220,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 83K • 👍 5K • 💬 2K • ⏱️ 13:18 • 1d ago
+👁️ 84K • 👍 5K • 💬 2K • ⏱️ 13:18 • 1d ago
 
 ---
 
@@ -238,17 +240,7 @@ Robotics is a booming business, but it's not all about upstarts. There's a $150 
 
 📺 The Motley Fool
 
-👁️ 4K • 👍 130 • 💬 2 • ⏱️ 11:26 • 1d ago
-
----
-
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
-
-Your Smart Robot Companion.
-
-📺 Unitree Robotics
-
-👁️ 3.2M • 👍 2K • 💬 552 • ⏱️ 0:31 • 5d ago
+👁️ 4K • 👍 136 • 💬 2 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -258,7 +250,25 @@ A hair machine turning loose hair into perfect braids in one pass is wild ⚙️
 
 📺 Prototype Leaked
 
-👁️ 15K • 👍 146 • 💬 2 • ⏱️ 0:11 • 1d ago
+👁️ 15K • 👍 150 • 💬 2 • ⏱️ 0:11 • 1d ago
+
+---
+
+**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+
+Your Smart Robot Companion.
+
+📺 Unitree Robotics
+
+👁️ 3.3M • 👍 2K • 💬 553 • ⏱️ 0:31 • 5d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NPcTOAuV_sQ)**
+
+📺 Robot Julie 
+
+👁️ 18K • 👍 44 • 💬 1 • ⏱️ 0:21 • 2d ago
 
 ---
 
@@ -268,17 +278,7 @@ Mondo Robotics has unveiled Beni, a two-wheeled all-terrain camera robot designe
 
 📺 Rowan Cheung
 
-👁️ 94K • 👍 4K • 💬 119 • ⏱️ 1:08 • 3d ago
-
----
-
-**[Run Gemma on Reachy Mini, an open source robot](https://www.youtube.com/watch?v=KPx3nRwbldE)**
-
-Ian Ballantyne, Developer Relations Engineer at Google DeepMind, shows how Gemma runs on hardware like Raspberry Pi, ...
-
-📺 Google for Developers
-
-👁️ 21K • 👍 616 • 💬 29 • ⏱️ 2:53 • 3d ago
+👁️ 95K • 👍 4K • 💬 120 • ⏱️ 1:08 • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ TITLE (SEO + VIRAL) This AI Robot Levels Concrete Floors 10X Faster Than Humans!
 
 📺 RashaProject
 
-👁️ 15K • 👍 116 • ⏱️ 0:04 • 7h ago
+👁️ 27K • 👍 155 • ⏱️ 0:04 • 10h ago
 
 ---
 
