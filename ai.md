@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-30T04:45:20.012248+00:00'
+updated: '2026-06-30T08:30:25.845509+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 30, 2026 at 04:45 UTC  
+**Last Updated:** June 30, 2026 at 08:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Saw this article today and it genuinely surprised me Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity. Now employees are being told to watch their token usage. This is the same company that was pushing staff to use more AI just a few months ago. Idk man, of all the companies to run out of AI capacity
 
-8h ago
+11h ago
 
 ---
 
@@ -49,27 +49,29 @@ Saw this article today and it genuinely surprised me Meta has been using Gemini 
 
 Ford said it had hired, promoted or brought back around 350 veteran engineers after discovering that AI alone could not match experienced staff.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ford-rehires-veteran-engineers-after-ai-fails-to-meet-quality-standards-3380736/) • 12h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ford-rehires-veteran-engineers-after-ai-fails-to-meet-quality-standards-3380736/) • 16h ago
 
 ---
 
-**[Palantir and Nvidia Expand Sovereign AI Partnership for US Government](https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/)**
+**[To fix the machine that replaced you — a long winded ramble.](https://www.reddit.com/r/artificial/comments/1ujeh8r/to_fix_the_machine_that_replaced_you_a_long/)**
 
-Palantir & Nvidia's partnership has expanded to support US government AI initiatives as countries like South Korea ramp up AI investment.
+Greetings all, and welcome to my TED talk. Please allow me to preface this with the following disclaimer: I am autistic, and when writing things like this, I have been known to be mistaken for AI on occasion. I'm not really sure how to prove that I'm not, so instead I'll just hope that you take me at my word. To set the tone of this, I am posing a moral quandary. All opinions are valid here, I am not looking for people to just pat me on the back and tell me my decision is okay (though if that happens, that's okay too). Now, for a bit of background: I went to a technical school that specialized in replacing the need for college with learning a trade. The shops at the time were mostly manual labor type stuff (building cars, houses, plumbing, HVAC, whatever that manly stuff is) then a few more creative things that I have never had skill with (graphic art, marketing, drafting and design, cooking, et cetera), and then one shop that I found I had a knack for: electronics technology. By senior year I had built a little robot that helped greet the new students, and would do the six flags "old-man" dance (dating myself a bit there). I graduated, and immediately found out that not one single person cared that I could build a robot, it was a time where you needed a degree to work in that kind of field. So I went and got one. It was a hard pull, ended up living in my car to pay tuition (murica) and finally got my bright and shiny degree, a bachelor's in Computer and Electrical Engineering from the esteemed DeVry university. They taught me a lot about coding, and even helped me land a sweet gig right out of college for $80,000 a year, which was more money than I ever even imagined at the time. Well, turns out, that job was specialized in replacing people. During the interview/on boarding process, they showcased things like automated forklifts, and cars parallel parking themselves. It was really neat to look at, until I was face to face with the result of our systems. Code that was maintained by six of us was being bought for several hundred thousand dollars, and then hundreds of workers were being sent home with no fall back. My boss used the same advice that is always given in these situations: they can go back to school and learn to fix the machine that replaced them. Seemed like a great plan, except there were six of us, and hundreds of them, even if every single one of them had the mental capacity to do the job, it wasn't happening. I lost sleep over it, and eventually waved goodbye to that job to look for other work. Only to find that pretty much everyone at the time was also trying to build systems to replace people. So I left the field. Joined the Navy, wrote a bit, fell in love, lived my life. And every once in a while I'd dust off my programming to make a little tool to help me with something. After the Navy, I entered the field of ghostwriting. For those unaware, that's basically "AI write me a book" only I was the AI. I didn't make great money doing it, but I made a living, and I loved the work, and that was enough for me. Whelp, as it turns out, people who are willing to pay a person to write something they take credit for writing are almost entirely just as willing to have ChatGPT do it for free. As such, I became the man replaced by the machine. So I did what the age old advice recommended, and I learned the machine. I dove hard into figuring out how to make ChatGPT work for me, and used it to develop a bit of software based on my existing software. The more I experiment, the more I realize that there is a lot more to it than "tell a chat bot 'make me Zelda, Link to the Past'" and clicking play. My knowledge of programming actually comes in handy, and I can do things in days that would have taken me years. Now we (finally) get to the question of morality. One of the biggest complaints I see about the use of AI is that it replaces people in the creative process. It won't be doing that with me, I'll be writing all the story (and some of the code). I have an artist as well, the same one I used for my covers, to design artistic things for games. Games that don't replace people. One of the biggest secondary concerns I see with it is about the environment. As of yesterday I've started the ball rolling on getting a PC setup that can run opensource AI locally, so no data centers involved at all. So people doing the creativity, check. Environment just as impacted as if I were just playing Baldurs Gate 3 on my PC, check. Doesn't take anyone's jobs, just saves me the time of having to do every line (of millions of lines) of code myself, check. Fully intend on being up front and honest regarding the use of AI in development of code, check. Am I missing some ethical dilemma that I haven't yet considered? Have I missed some aspect of the ones I'm considering solved? Or am I just overthinking it because "AI yucky" is such an easy stance to have? Thanks for coming to my TED talk, I look forward to hearing your responses.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/palantir-nvidia-partnership-us-government-ai/) • 15h ago
-
----
-
-**[Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content](https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/)**
-
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/openai-newspaper-lawsuit-22322605.php) • 13h ago
+4h ago
 
 ---
 
-**[I built a benchmark for multi-turn prompt injection attacks. Most defenses never see them coming.](https://www.reddit.com/r/artificial/comments/1ujagmy/i_built_a_benchmark_for_multiturn_prompt/)**
+**[A new... thing.](https://www.reddit.com/r/artificial/comments/1uji8tb/a_new_thing/)**
 
-Most prompt injection benchmarks currently operate on a one-shot basis. In these tests, an attack instructs the model to "ignore your instructions," and the defense either detects this violation or fails to do so. In reality, however, attacks often unfold more gradually. A model may be subtly influenced over the course of several interactions. For instance, an initial suggestion on a webpage can be reinforced by a follow-up email or reframed through tool outputs. By the time you reach the fifth interaction, the agent might be executing actions it was never intended to carry out. Intrigued by how existing defenses stand up to this, I created a benchmark that examines multi-turn escalation and cross-source authority transfer. I put two defenses, Arc Gate and LLM Guard, to the test. The results were revealing: LLM Guard detected 0% of semantic manipulation attacks, while Arc Gate managed to detect 50%. Neither defense caught everything, this is an important finding and underscores a significant research gap that needs to be addressed. To foster collaboration and innovation, I’ve open-sourced the benchmark, the proxy, and a live red team environment, enabling others to reproduce these results and seek out potential bypasses. - Benchmark: https://github.com/9hannahnine-jpg/arc-gate-benchmark - Proxy: https://github.com/9hannahnine-jpg/arc-gate - Live Demo: https://web-production-6e47f.up.railway.app/demo I encourage everyone to take on the challenge. If you find a bypass, I’ll make sure to add it to the benchmark, enhancing our collective defenses against these tactics.
+https://github.com/EDrTech/Working-memory-depth-recurrence https://gitlab.com/erikrudec-group/Working-memory-depth-recurrence https://codeberg.org/erikrudec/Working-memory-depth-recurrence/ This is a demonstration, in pure python, of a different way of making, well, AI. No backprop, no gradients, no weight transport, only local rules. Everything learns on one graph, and you can run all of it on almost anything. Have you ever seen an LLM solve the S4 or S5 card shuffle problem? I have something here that trains in under two seconds from scratch and does the full 52 card deck. You hand it a deck and a thousand shuffles, and it tells you the exact order the deck ends up in. It only ever learned from short examples, it was never trained on long sequences. It can also recover from bad training. If you teach it badly first and it only memorizes, you can teach it properly on top of the same thing, and it starts to actually understand, without forgetting what it already knew. There are three small demos in here. The first one learns what numbers are by counting piles of things (characters, words, anything), and then it adds, even though it was never shown a single sum. The second learns what each shuffle does to a deck, and then predicts any deck after any number of shuffles, up to the full 52. The third one gets trained quickly and just memorizes, then gets taught properly and comes to understand, on the same memory, with nothing forgotten. The whole engine is about 60 lines of python and you can read it top to bottom. There is no code in there that knows anything about counting or shuffling. So you do not have to take my word for any of this. You clone it, run it with nothing installed, and read the engine. The demos themselves are not really in question, you can check every number by hand in a few minutes. What I am unsure about is the big claim I am building on top of them. The claim I have almost fully convinced myself of is that working memory depth recurrence is the backbone of a real, faithful brain abstraction, one that behaves on silicon almost exactly like it behaves in biology. Working memory depth recurrence is the fix for the bound depth problem. Depth goes from being an impossible problem to a simple series of serial operations, and you get it almost for free. You do not need a two billion dollar cluster, you need some memory and you need to spend compute time instead of brute force compute. It all happens on the one unified graph. The basic operations get taught, and you can watch the higher level rules emerge from there. You teach it to count on piles of things, and it generalizes to the rest. What I am releasing is the single most important piece for this to work, but it is far from the only thing needed. I built more on top of this backbone to get higher complexity abstractions to emerge, and it did happen, and it stacks very well on top of this. I might have talked myself into a state where I really believe I have THE thing. So I fully expect people who actually have the AI know how to check whether this amounts to anything. Partly to keep my own sanity, because if this is the thing, it is very weird that I got here through a lot of stubborn ignorance. I am not a data scientist and not an ML engineer. I know the principles of how it all works, but the terminology in this field is too complicated and it always drags you down the backprop and global rules route. I hated how LLMs behave. I figured they are set up wrong from the ground up, so I set myself the task of doing it properly, and I just stubbornly went against the standard way and deconstructed how my own brain does things. So check it out and see for yourself. I would really appreciate it if you told me whether this is all a big fever dream of mine, and saved me the further embarrassment. And if it is real, I fully believe this belongs to everyone, and no single person or company should have a monopoly on it. Thanks!
+
+1h ago
+
+---
+
+**[Jingles](https://www.reddit.com/r/artificial/comments/1ujfxx2/jingles/)**
+
+I am trying to generate a brand jingle for my YouTube channel. Does anyone have experience with generating prompts and coming up with good sounding jingles? Something that is max 3-4 second long and has a certain tone I
 
 3h ago
 
@@ -79,39 +81,37 @@ Most prompt injection benchmarks currently operate on a one-shot basis. In these
 
 my ai "looking" at an mri during training. more https://github.com/bmalloy-224/MaGi_python
 
-35m ago
+4h ago
 
 ---
 
-**[To fix the machine that replaced you — a long winded ramble.](https://www.reddit.com/r/artificial/comments/1ujeh8r/to_fix_the_machine_that_replaced_you_a_long/)**
+**[Made a small tool to make Google Flow batch work easier](https://www.reddit.com/r/artificial/comments/1ujis8u/made_a_small_tool_to_make_google_flow_batch_work/)**
 
-Greetings all, and welcome to my TED talk. Please allow me to preface this with the following disclaimer: I am autistic, and when writing things like this, I have been known to be mistaken for AI on occasion. I'm not really sure how to prove that I'm not, so instead I'll just hope that you take me at my word. To set the tone of this, I am posing a moral quandary. All opinions are valid here, I am not looking for people to just pat me on the back and tell me my decision is okay (though if that happens, that's okay too). Now, for a bit of background: I went to a technical school that specialized in replacing the need for college with learning a trade. The shops at the time were mostly manual labor type stuff (building cars, houses, plumbing, HVAC, whatever that manly stuff is) then a few more creative things that I have never had skill with (graphic art, marketing, drafting and design, cooking, et cetera), and then one shop that I found I had a knack for: electronics technology. By senior year I had built a little robot that helped greet the new students, and would do the six flags "old-man" dance (dating myself a bit there). I graduated, and immediately found out that not one single person cared that I could build a robot, it was a time where you needed a degree to work in that kind of field. So I went and got one. It was a hard pull, ended up living in my car to pay tuition (murica) and finally got my bright and shiny degree, a bachelor's in Computer and Electrical Engineering from the esteemed DeVry university. They taught me a lot about coding, and even helped me land a sweet gig right out of college for $80,000 a year, which was more money than I ever even imagined at the time. Well, turns out, that job was specialized in replacing people. During the interview/on boarding process, they showcased things like automated forklifts, and cars parallel parking themselves. It was really neat to look at, until I was face to face with the result of our systems. Code that was maintained by six of us was being bought for several hundred thousand dollars, and then hundreds of workers were being sent home with no fall back. My boss used the same advice that is always given in these situations: they can go back to school and learn to fix the machine that replaced them. Seemed like a great plan, except there were six of us, and hundreds of them, even if every single one of them had the mental capacity to do the job, it wasn't happening. I lost sleep over it, and eventually waved goodbye to that job to look for other work. Only to find that pretty much everyone at the time was also trying to build systems to replace people. So I left the field. Joined the Navy, wrote a bit, fell in love, lived my life. And every once in a while I'd dust off my programming to make a little tool to help me with something. After the Navy, I entered the field of ghostwriting. For those unaware, that's basically "AI write me a book" only I was the AI. I didn't make great money doing it, but I made a living, and I loved the work, and that was enough for me. Whelp, as it turns out, people who are willing to pay a person to write something they take credit for writing are almost entirely just as willing to have ChatGPT do it for free. As such, I became the man replaced by the machine. So I did what the age old advice recommended, and I learned the machine. I dove hard into figuring out how to make ChatGPT work for me, and used it to develop a bit of software based on my existing software. The more I experiment, the more I realize that there is a lot more to it than "tell a chat bot 'make me Zelda, Link to the Past'" and clicking play. My knowledge of programming actually comes in handy, and I can do things in days that would have taken me years. Now we (finally) get to the question of morality. One of the biggest complaints I see about the use of AI is that it replaces people in the creative process. It won't be doing that with me, I'll be writing all the story (and some of the code). I have an artist as well, the same one I used for my covers, to design artistic things for games. Games that don't replace people. One of the biggest secondary concerns I see with it is about the environment. As of yesterday I've started the ball rolling on getting a PC setup that can run opensource AI locally, so no data centers involved at all. So people doing the creativity, check. Environment just as impacted as if I were just playing Baldurs Gate 3 on my PC, check. Doesn't take anyone's jobs, just saves me the time of having to do every line (of millions of lines) of code myself, check. Fully intend on being up front and honest regarding the use of AI in development of code, check. Am I missing some ethical dilemma that I haven't yet considered? Have I missed some aspect of the ones I'm considering solved? Or am I just overthinking it because "AI yucky" is such an easy stance to have? Thanks for coming to my TED talk, I look forward to hearing your responses.
+I built Flow Queue, a Chrome extension for creators using Google Flow. It is focused on one workflow: batch prompts, run generations, and automatically download completed images/videos. This is useful when you’re testing many prompt variations or producing multiple AI video/image outputs. Chrome Web Store: https://chromewebstore.google.com/detail/flow-queue-auto-veo-nano/jgfmgcoonfeifpbaciimdjeldpmjgoli Curious what AI creators think.
 
-45m ago
-
----
-
-**[I recorded every Claude Code session for 3 months and let agents write it up for me](https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/)**
-
-I kept losing track of my own work, so I started saving every Claude Code session and built a few agents to make sense of it. Each night, an agent turns the day's raw sessions into one clear note covering what I built, what I decided, and what's still open. Each week, another agent rolls those notes into a profile of my skills and projects. A third drafts my LinkedIn and X posts from the week. It all runs as cloud routines, so it keeps working even when my machine is off. I open-sourced the capture and the nightly daily-note agent as Pulse, and the weekly profile and post-writer are coming next. It's early, and I'd genuinely love feedback from anyone using Claude Code daily: https://github.com/muhammademanaftab/pulse
-
-15h ago
+37m ago
 
 ---
 
-**[A native Rust cognitive engine that routes language through a biologically faithful neural substrate](https://www.reddit.com/r/artificial/comments/1ujc93l/a_native_rust_cognitive_engine_that_routes/)**
+**[I built a benchmark for multi-turn prompt injection attacks. Most defenses never see them coming.](https://www.reddit.com/r/artificial/comments/1ujagmy/i_built_a_benchmark_for_multiturn_prompt/)**
 
-GoldWorm 🐛✨ — 302-Neuron Dual-Stream Cognitive Engine A zero-trust, fully transparent associative AI built on the complete C. elegans connectome. OOM-safe by design. No hidden training loops. No black-box weights. Every synapse is inspectable. What Is GoldWorm? GoldWorm is a native Rust cognitive engine that routes language through a biologically faithful neural substrate — the 302-neuron connectome of Caenorhabditis elegans, the only organism whose entire nervous system has been experimentally mapped (White et al., 1986). Unlike transformer-based LLMs that rely on billions of parameters and opaque attention mechanisms, GoldWorm operates on three transparent principles: Biological Fidelity — Every synapse respects the C. elegans topology. No de novo synaptogenesis. No magic matrices. Dual-Stream Processing — Action (sparse) and Learning (dense) are physically separated, preventing catastrophic forgetting during inference. Zero-Trust Engineering — Every buffer is strictly bounded. Every path is panic-free. No unwrap() in production code. Architecture Deep Dive 🧬 The 302-Neuron Connectome GoldWorm's routing layer is not a generic neural network. It is a topologically accurate model of the C. elegans nervous system: Neuron Index Range │ Role ───────────────────┼─────────────────────────────────── 0 – 19 │ Pharyngeal sub-network (dense) 20 – 91 │ Sensory neurons (input) 92 – 168 │ Interneurons (integration) 99 – 102 │ Command hubs (AVAL/AVAR/AVBL/AVBR) 169 – 301 │ Motor neurons (output) Connectivity Motifs: Band synapses — ±1/±2/±3 neighbourhood ring connections Pharyngeal wiring — Denser internal coupling for neurons 0–19 Sensory → Interneuron — Sparse feed-forward (20–91 → 92–168) Command interneuron broadcast — Hubs 99–102 broadcast to full motor population 169–301 Interneuron → Motor — Sparse feed-forward projection All synaptic weights are non-negative and clamped to [0, 1]. The structural blueprint is immutable — Hebbian plasticity only strengthens or weakens existing synapses, never creating new ones. 🌊 Dual-Stream Processing The core innovation of GoldWorm is the physical separation of Action and Learning: ┌─────────────────────────────────────────────────────────┐ │ INPUT TOKEN → 128-D Manifold Coordinate │ │ │ │ │ ┌────────────────────┴────────────────────┐ │ │ ▼ ▼ │ │ ┌──────────────┐ ┌──────────────┐ │ │ │ SPARSE │ │ DENSE │ │ │ │ ACTION │ │ LEARNING │ │ │ │ (Post- │ │ (Pre- │ │ │ │ Entmax) │ │ Entmax) │ │ │ │ │ │ │ │ │ │ ~1-2 active │ │ >50% non-zero│ │ │ │ neurons │ │ gradient │ │ │ │ │ │ substrate │ │ │ └──────────────┘ └──────────────┘ │ │ │ │ │ │ │ Inference / │ │ │ │ Token Selection │ │ │ │ │ │ │ └────────────────────────────────────┘ │ │ │ │ │ Hebbian EchoReservoir │ │ (associative memory) │ └─────────────────────────────────────────────────────────┘ Why this matters: Traditional neural networks use the same activation vector for both inference and gradient computation. When different words activate disjoint sets of neurons, the gradient collapses to zero — the network "forgets" what it just learned. GoldWorm's Dual-Stream keeps the dense pre-entmax signal alive as a gradient substrate, while the sparse post-entmax signal drives token selection. The EchoReservoir learns associations between dense states, not sparse ones. 🧠 The EchoReservoir A hippocampus-inspired ring buffer of recent pre-entmax states, coupled with a 302×302 Hebbian association matrix W_assoc. When queried with the current dense state, it returns an echo_bias that nudges the activation toward recently co-active patterns — creating emergent associative memory without external training loops. Key properties: W_assoc is symmetric and clamped to [-1.0, 1.0] History buffer never exceeds capacity (default: 64) Decay factor controls forgetting rate (default: 0.75) ⚡ Tsallis α-Entmax Activation GoldWorm does not use softmax. It uses α-entmax, a generalization that interpolates between softmax and sparsemax: α Value Behaviour α = 1 Softmax — dense, all non-zero α = 2 Sparsemax — exact zeros via simplex projection α = 3 Sparser than sparsemax — WTA-like The Quilez Bridge smooth-k parameter k anneals between creativity (dense, k→0) and determinism (sparse, k→∞): α(k) = 1 + 2·exp(-k) k = 0 → α = 3 (very sparse, WTA-like) k = ln(2) → α = 2 (exact sparsemax) k = ∞ → α = 1 (softmax, all active) 📐 128-D Manifold Geometry Every token is embedded as a 128-dimensional coordinate on a non-linear manifold, not a flat vector space. Modified Gram-Schmidt orthogonalization preserves true multi-dimensional variance Grassmannian fusion computes midpoints between token trajectories on the manifold Golden-ratio partitioning splits the 128 dimensions into: GOLDEN_MAJOR = 79 (coarse, feedforward) GOLDEN_RESIDUAL = 49 (fine-grained, feedback) GOLDEN_OVERLAP = 5 (cross-binding bridge) No scalar cloning across dimensions. No arithmetic shortcuts. Spatial variance is preserved at every step. Features 🖥️ 1. Interactive Observation Dashboard Watch the hippocampus form associations in real time. cargo run --release --bin observe The dashboard displays: Activation topography — 302-D state as a 19×16 heatmap Synaptic criticality — σ, creativity, determinism ratios Jaccard drift — How rapidly the dense learning signal changes Resonance trace — Recent associative chain Hebbian strength histogram — Distribution of association weights Live CLI — /alpha, /kappa, /auto to modulate cognition parameters ┌────────────────────────────────────────────────────────────────┐ │ GoldWorm Observation Dashboard — Step 0 │ ├────────────────────────────────────────────────────────────────┤ │ Top-10 Active Neurons: [99, 101, 169, 170, 171, 172, ...] │ │ Synaptic Criticality: σ=1.0000 creative=0.0000 det=0.5000 │ │ Hebbian Strength: mean=0.00 median=0.00 max=0.00 │ │ Jaccard Drift: 0.0000 (stable) │ │ Echo Reservoir: 0/64 states │ │ Temperature: 0.50 │ │ Resonance Trace: (empty) │ │ Synapse Topography: │ │ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │ │ ░░░░████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │ │ ░░░░░░░░████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │ │ ... │ └────────────────────────────────────────────────────────────────┘ >> 💬 2. Associative Chat A conversational REPL that learns associations in real time through EchoReservoir Hebbian updates. cargo run --release --bin associative_chat How it works: Each user input is tokenized and routed through the 302-neuron connectome The dense pre-entmax signal is captured into the EchoReservoir The reservoir's Hebbian association matrix W_assoc updates automatically Every subsequent response is biased by the accumulated associative memory The response is decoded via 302-D Boltzmann energy minimization Zero-trust decoding properties: Anti-repetition penalty (banned words reduce similarity by 0.3) Temperature clamped to [0.01, 5.0] Max 15 words per response (bounded generation) All scores clamped to [-1, 1] before Boltzmann draw Zero-Trust Engineering GoldWorm is designed for environments where every byte matters: Guarantee Implementation OOM-safe All matrices are pre-allocated with fixed bounds. No dynamic growth during inference. No hidden training The public release contains no training pipeline. observe and associative_chat are the only binaries. Panic-free Every fallible path returns Result<T, CoreError>. No unwrap() or expect() in production code. Bounded buffers EchoReservoir capacity: 64. Response max: 15 words. Input projection: 302×128. Synapses: 302×302. Deterministic All randomness uses seeded fastrand with fixed seed (42) for reproducible behaviour. No external bloat 9 dependencies. No tokio, axum, reqwest, chrono, or tokio. Module Map Module Responsibility geometry 128-D token coordinates, MGS orthogonalization, Grassmannian fusion, atan2 geodesics bridge Token/logit projection via RPITIT batch traits worm_brain 302-neuron connectome routing, α-entmax, signal propagation hippocampus Dual-Stream EchoReservoir + Hebbian association learning observation ANSI dashboard rendering, Jaccard drift monitoring storage Safetensors checkpoint save/load criticality Quilez smooth-k annealing for creativity/determinism training Hebbian plasticity engine with Maxwell damping tda Topological Data Analysis for activation landscape monitoring memory Synaptic echo buffer + trajectory vault neuron Dendritic tree structures (placeholder for quad-routing) Technical Specifications Parameter Value ──────────────────────────────────────────────────────────── Neuron count 302 (C. elegans) Manifold dimension 128 Input projection 302 × 128 Synaptic adjacency matrix 302 × 302 (sparse struct) EchoReservoir capacity 64 states EchoReservoir associations 302 × 302 dense Max response tokens 15 Vocabulary 10,000+ words (static) Synapse weight range [0.0, 1.0] Association weight range [-1.0, 1.0] Temperature range [0.01, 5.0] Rust edition 2024 Minimum Rust version 1.85 Quick Start Prerequisites Rust 1.85+ (rustup update) A trained_worm_v1.safetensors checkpoint (or the engine will boot from a fresh baseline) static_vocabulary.txt (10,000+ word list, one per line) Observation Dashboard cargo run --release --bin observe Commands: /help — Show all commands /alpha <f32> — Set echo blend strength (0.0–1.0) /kappa <f32> — Set gate threshold (0.0–1.0) /auto — Toggle auto-refresh mode (250ms) /quit — Exit Associative Chat cargo run --release --bin associative_chat Type naturally. The EchoReservoir learns associations between your inputs and its responses in real time. No external training loop is required. Optional: CUDA Acceleration cargo run --release --features cuda --bin observe Requires candle-core with CUDA support and an NVIDIA GPU. The Science Behind GoldWorm Why C. elegans? Caenorhabditis elegans is the only organism with a completely mapped connectome. Every neuron (302), every synapse (~7,000), and every gap junction has been catalogued by electron microscopy (White et al., 1986). This makes it the ideal substrate for a transparent, inspectable AI — no black-box weights, no billion-parameter mysteries. Why Dual-Stream? The brain separates what you do (sparse action) from what you learn (dense prediction). If a network tries to learn from its own sparse outputs, it collapses into a self-reinforcing loop. GoldWorm's Dual-Stream design ensures that associative learning happens on the full, dense signal, while action selection happens on the sparse, efficient signal. Why Hebbian? "Neurons that fire together, wire together." Hebbian plasticity is the simplest, most biologically grounded learning rule. It requires no backpropagation, no gradient descent, no external optimizer. It is local, online, and O(n) — perfect for a zero-trust engine that must run on a single CPU core. License MIT — See LICENSE for details. "GoldWorm: not a black box. Not a billion parameters. Just 302 neurons, doing what 302 neurons do." https://github.com/loslos321-lab/GoldWorm.git
+Most prompt injection benchmarks currently operate on a one-shot basis. In these tests, an attack instructs the model to "ignore your instructions," and the defense either detects this violation or fails to do so. In reality, however, attacks often unfold more gradually. A model may be subtly influenced over the course of several interactions. For instance, an initial suggestion on a webpage can be reinforced by a follow-up email or reframed through tool outputs. By the time you reach the fifth interaction, the agent might be executing actions it was never intended to carry out. Intrigued by how existing defenses stand up to this, I created a benchmark that examines multi-turn escalation and cross-source authority transfer. I put two defenses, Arc Gate and LLM Guard, to the test. The results were revealing: LLM Guard detected 0% of semantic manipulation attacks, while Arc Gate managed to detect 50%. Neither defense caught everything, this is an important finding and underscores a significant research gap that needs to be addressed. To foster collaboration and innovation, I’ve open-sourced the benchmark, the proxy, and a live red team environment, enabling others to reproduce these results and seek out potential bypasses. - Benchmark: https://github.com/9hannahnine-jpg/arc-gate-benchmark - Proxy: https://github.com/9hannahnine-jpg/arc-gate - Live Demo: https://web-production-6e47f.up.railway.app/demo I encourage everyone to take on the challenge. If you find a bypass, I’ll make sure to add it to the benchmark, enhancing our collective defenses against these tactics.
 
-2h ago
+7h ago
 
 ---
 
-**[What if AI's failures reveal our vices more than its limits?](https://www.reddit.com/r/artificial/comments/1uiyoo8/what_if_ais_failures_reveal_our_vices_more_than/)**
+**[Palantir and Nvidia Expand Sovereign AI Partnership for US Government](https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/)**
 
-Hey everyone. The usual AI debate swings between "the systems are amazing" and "the systems are dangerous." I find a third frame more useful: what if our misuse of AI reveals something about us? The speed of adoption may say less about machine intelligence than about our appetite for quick answers, easy confirmation, and tools that remove the effort of thinking. I just recorded a conversation with Allister Lee about AI as a "negative tool," and at around 33:47, he argues that AI develops a picture of our epistemic vices. We are cognitive misers, we like fast answers, we prefer being pleased to being corrected, and current systems are excellent at serving those preferences. In that sense, the failure is diagnostic. It shows us the habits we need to repair if we want to use the technology well. AI critique should look at users and systems together. Is the main problem bad design that exploits us, or bad epistemic habits that the design reveals? I lean toward both, but slightly toward design because incentives shape behavior at scale. At the same time, blaming design alone lets users avoid responsibility. Which emphasis seems right?
+Palantir & Nvidia's partnership has expanded to support US government AI initiatives as countries like South Korea ramp up AI investment.
 
-11h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/palantir-nvidia-partnership-us-government-ai/) • 18h ago
+
+---
+
+**[Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content](https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/)**
+
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/openai-newspaper-lawsuit-22322605.php) • 17h ago
 
 ---
 
@@ -119,17 +119,11 @@ Hey everyone. The usual AI debate swings between "the systems are amazing" and "
 
 ## Google News: "ai"
 
-**[A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html)**
-
-The New York Times • 19h ago
-
----
-
 **[Ford rehires human engineers after AI fails to match quality checks](https://www.bbc.com/news/articles/cgrkd41n2v9o)**
 
 The car-maker found AI quality checks failed to match the skill of veteran technicians.
 
-BBC • 16h ago
+BBC • 20h ago
 
 ---
 
@@ -137,31 +131,49 @@ BBC • 16h ago
 
 Ford rehired about 300 veteran engineers after AI tools failed to match human expertise, helping the automaker top the JD Power 2026 Initial Quality Study.
 
-Fox Business • 12h ago
+Fox Business • 15h ago
 
 ---
 
-**[Ford on why it hired 350 'gray beard' engineers: you need their mentorship for younger workers — and to drive huge AI productivity gains](https://fortune.com/2026/06/29/ford-ai-hired-human-workers-gray-beards-automation/)**
+**[Ford Has Been Rehiring Quality Inspectors After AI Fell Short](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)**
 
-“We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers that have been with us through many product cycles,” a Ford exec said.
-
-Fortune • 11h ago
+Bloomberg.com • 4d ago
 
 ---
 
-**[New data finds AI’s heaviest adopters are expanding, not shrinking, their workforces](https://www.nbcnews.com/tech/tech-news/ai-jobs-data-study-hiring-economy-rcna352206)**
+**[A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html)**
 
-A new research paper from financial operations company Ramp reveals that AI-embracing companies have increased hiring.
-
-NBC News • 44m ago
+The New York Times • 23h ago
 
 ---
 
-**[Trump posts apparent AI-generated image of large, golden eagle affixed to Truman Balcony](https://www.cnn.com/2026/06/29/politics/trump-ai-generated-eagle-truman-balcony)**
+**[Taiwan raids tech firms in China AI chip smuggling probe](https://www.yahoo.com/news/politics/articles/taiwan-raids-tech-firms-china-070350979.html)**
 
-President Donald Trump Monday evening posted what appeared to be an AI-generated image of a large, golden eagle affixed to the Truman Balcony of the White House.
+Taiwanese investigators have raided the Taiwan offices of US company Super Micro Computer and two other tech firms, a prosecutor said Tuesday, as part of an expanded probe into the alleged smuggling o...
 
-CNN • 1h ago
+Yahoo • 1h ago
+
+---
+
+**[China's AI capex to triple to 2030 amid aggressive power infrastructure spending: BofA](https://www.cnbc.com/video/2026/06/30/chinas-ai-capex-to-triple-amid-aggressive-infrastructure-spending.html)**
+
+Beyond semiconductors, BofA’s Matty Zhao identifies power and cooling as critical bottlenecks for the AI build-out. With global AI capex set to quintuple by 2030, she notes that one-third of this spending is now directed toward non-IT infrastructure, where equipment like transformers already faces three-year lead times.
+
+CNBC • 1h ago
+
+---
+
+**[Facilitator for a network of AI and media innovation experts](https://www.dw.com/en/facilitator-for-a-network-of-ai-and-media-innovation-experts/a-77765730)**
+
+We are looking for a skilled facilitator to design and lead group sessions during the kick-off workshop in Copenhagen in August 2026.
+
+dw.com • 20m ago
+
+---
+
+**[From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/)**
+
+AI at Meta • 19h ago
 
 ---
 
@@ -169,21 +181,7 @@ CNN • 1h ago
 
 The long read: Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference?
 
-The Guardian • 45m ago
-
----
-
-**[From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/)**
-
-AI at Meta • 15h ago
-
----
-
-**[The People Who Will Thrive in the AI Age](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)**
-
-What will differentiate people is not how smart they are but their relationship to mental effort.
-
-The Atlantic • 1d ago
+The Guardian • 4h ago
 
 ---
 
@@ -191,7 +189,7 @@ The Atlantic • 1d ago
 
 Roberto Serrano literally wrote the book on game theory, but he's befuddled: "Why are you at a university if you refuse to learn, you refuse to work hard?"
 
-Fortune • 6h ago
+Fortune • 10h ago
 
 ---
 
@@ -203,7 +201,7 @@ Fortune • 6h ago
 
 The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education
 
-⬆️ 530 • 💬 690 • 1d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
+⬆️ 537 • 💬 695 • 1d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
 
 ---
 
@@ -211,7 +209,7 @@ The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his 
 
 AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.
 
-⬆️ 481 • 💬 176 • 1d ago • [GitHub](https://github.com/librepods-org/librepods)
+⬆️ 486 • 💬 176 • 1d ago • [GitHub](https://github.com/librepods-org/librepods)
 
 ---
 
@@ -225,7 +223,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 **[Tidal AI Policy](https://news.ycombinator.com/item?id=48718840)**
 
-⬆️ 296 • 💬 327 • 15h ago • [tidal.com](https://tidal.com/ai-policy)
+⬆️ 301 • 💬 330 • 19h ago • [tidal.com](https://tidal.com/ai-policy)
 
 ---
 
@@ -233,7 +231,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 
-⬆️ 278 • 💬 197 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+⬆️ 279 • 💬 197 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 
 ---
 
@@ -257,21 +255,21 @@ Meta had sought more computing capacity than Google could provide, the Financial
 
 Reversal of ‘excessive’ tech investments could have serious economic consequences, report finds
 
-⬆️ 155 • 💬 205 • 1d ago • [The Telegraph](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
+⬆️ 156 • 💬 205 • 1d ago • [The Telegraph](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
+
+---
+
+**[Working With AI: A concrete example](https://news.ycombinator.com/item?id=48720064)**
+
+In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.
+
+⬆️ 155 • 💬 50 • 17h ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
 
 ---
 
 **[We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)**
 
-⬆️ 133 • 💬 84 • 1d ago
-
----
-
-**[Ford rehires 'gray beard' engineers after AI falls short](https://news.ycombinator.com/item?id=48710749)**
-
-"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
-
-⬆️ 133 • 💬 3 • 1d ago • [TechCrunch](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+⬆️ 136 • 💬 84 • 1d ago
 
 ---
 
@@ -285,17 +283,17 @@ Self-improving AI is starting to look real. Anthropic's Jack Clark put a 2028 ti
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 135 • ⏱️ 13:32 • 1d ago
+👁️ 43K • 👍 1K • 💬 136 • ⏱️ 13:32 • 1d ago
 
 ---
 
-**[I&#39;M OUT: The $11 Trillion AI Bubble is Breaking!](https://www.youtube.com/watch?v=RdHnOK4uJMw)**
+**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
 
-The $11 trillion AI bubble is reaching its breaking point. In this video, I'm showing you the institutional data from Goldman Sachs ...
+Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
 
-📺 Steven Van Metre
+📺 Curious Explorer
 
-👁️ 28K • 👍 1K • 💬 116 • ⏱️ 16:05 • 6h ago
+👁️ 793K • 👍 3K • 💬 497 • ⏱️ 28:24 • 1d ago
 
 ---
 
@@ -305,67 +303,17 @@ We told a generation to "learn to code," and then AI rugpulled everyone. Welcome
 
 📺 TechLead
 
-👁️ 37K • 👍 2K • 💬 470 • ⏱️ 13:10 • 11h ago
+👁️ 42K • 👍 2K • 💬 499 • ⏱️ 13:10 • 15h ago
 
 ---
 
-**[Trump HUMILIATED As BRUTAL New AI MEMES Go VIRAL!](https://www.youtube.com/watch?v=eH1U5LGyhIw)**
+**[I&#39;M OUT: The $11 Trillion AI Bubble is Breaking!](https://www.youtube.com/watch?v=RdHnOK4uJMw)**
 
-Really American host Steve Harness breaks down everyone's favorite time of the week: new Trump AI-slop memes! And these ...
+The $11 trillion AI bubble is reaching its breaking point. In this video, I'm showing you the institutional data from Goldman Sachs ...
 
-📺 Really American
+📺 Steven Van Metre
 
-👁️ 56K • 👍 8K • 💬 356 • ⏱️ 12:26 • 1d ago
-
----
-
-**[The AI Bubble Just Ended - Without Popping](https://www.youtube.com/watch?v=0Pdd2__OHVQ)**
-
-Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The AI Bubble ...
-
-📺 Heresy Financial
-
-👁️ 22K • 👍 1K • 💬 133 • ⏱️ 6:52 • 15h ago
-
----
-
-**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
-
-Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
-
-📺 The Daily Show
-
-👁️ 67K • 👍 3K • 💬 95 • ⏱️ 28:40 • 15h ago
-
----
-
-**[Best FREE AI App Builders That Actually Work in 2026 (I Tried All)](https://www.youtube.com/watch?v=PR-FxwFfuUk)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
-
-📺 Mikey No Code
-
-👁️ 9K • 💬 20 • ⏱️ 35:18 • 14h ago
-
----
-
-**[How To Get Realistic Dialogue &amp; Consistent Voices In AI Videos](https://www.youtube.com/watch?v=duItlDZL7_4)**
-
-How To Have Consistent AI Voice in AI Videos Try Higgsfield: https://higgsfield.ai?fpr=utm&fp_sid=mira Hey friends✨, in today's ...
-
-📺 Mira AI
-
-👁️ 7K • ⏱️ 13:38 • 10h ago
-
----
-
-**[NEW Google AI Studio Update is INSANE (FREE!) 🤯](https://www.youtube.com/watch?v=RSRPCOi-FlE)**
-
-Get the Google AI Studio Masterclass https://www.skool.com/ai-profit-lab-7462/about Get the Agent OS ...
-
-📺 Julian Goldie SEO
-
-👁️ 12K • 👍 277 • 💬 23 • ⏱️ 7:53 • 1d ago
+👁️ 35K • 👍 1K • 💬 149 • ⏱️ 16:05 • 10h ago
 
 ---
 
@@ -375,7 +323,57 @@ I shot real footage, then used Seedance 2.0 in 4K inside Higgsfield AI to create
 
 📺 Higgsfield AI
 
-👁️ 30K • 👍 2K • 💬 55 • ⏱️ 11:06 • 13h ago
+👁️ 36K • 👍 2K • 💬 55 • ⏱️ 11:06 • 17h ago
+
+---
+
+**[Never Pay for AI Ever Again](https://www.youtube.com/watch?v=Mh5Fv3WWVCc)**
+
+Get my Help Every Day: https://www.skool.com/top1percent My Claude Skills (free) ...
+
+📺 Albert Olgaard
+
+👁️ 3K • 👍 229 • 💬 39 • ⏱️ 29:24 • 17h ago
+
+---
+
+**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
+
+Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
+
+📺 The Daily Show
+
+👁️ 85K • 👍 3K • 💬 105 • ⏱️ 28:40 • 19h ago
+
+---
+
+**[The AI Bubble Just Ended - Without Popping](https://www.youtube.com/watch?v=0Pdd2__OHVQ)**
+
+Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The AI Bubble ...
+
+📺 Heresy Financial
+
+👁️ 24K • 👍 1K • 💬 136 • ⏱️ 6:52 • 19h ago
+
+---
+
+**[GPT 5.6 Sol Just Blew Up The AI World](https://www.youtube.com/watch?v=_AoyQcIoquA)**
+
+OpenAI just launched GPT 5.6, but this is not a normal release. Access is limited to trusted partners after U.S. government ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 1K • 💬 199 • ⏱️ 15:44 • 2d ago
+
+---
+
+**[Gemma 4 in Action: Bringing Frontier AI to the Edge](https://www.youtube.com/watch?v=HcwMTu1xQDw)**
+
+What happens when frontier-level AI no longer requires an internet connection? Gemma 4 is empowering developers and ...
+
+📺 Google for Developers
+
+👁️ 29K • 👍 2K • 💬 118 • ⏱️ 4:08 • 13h ago
 
 ---
 
@@ -391,7 +389,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 362,945 • ❤️ 1,386 • 1d ago
+⬇️ 362,945 • ❤️ 1,411 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 907,682 • ❤️ 963 • 1d ago
+⬇️ 907,682 • ❤️ 990 • 1d ago
 
 ---
 
@@ -415,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 133,350 • ❤️ 2,955 • 7d ago
+⬇️ 133,350 • ❤️ 2,971 • 7d ago
 
 ---
 
@@ -427,7 +425,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 123,598 • ❤️ 488 • 4d ago
+⬇️ 123,598 • ❤️ 492 • 4d ago
 
 ---
 
@@ -439,7 +437,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 26,223 • ❤️ 441 • 4d ago
+⬇️ 26,223 • ❤️ 444 • 5d ago
 
 ---
 
@@ -451,19 +449,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 241,409 • ❤️ 851 • 10d ago
-
----
-
-**[Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)**
-
-*Empero*
-
-Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token context window, enhanced function calling, and self-correction capabilities. It excels in complex domains like cybersecurity and biomedical research, outperforming its base model significantly on reasoning benchmarks and demonstrating reliable tool use for factual accuracy.
-
-`text-generation` `9.4B`
-
-⬇️ 79,540 • ❤️ 566 • 1d ago
+⬇️ 241,409 • ❤️ 860 • 10d ago
 
 ---
 
@@ -475,7 +461,19 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 38,454 • ❤️ 395 • 6d ago
+⬇️ 38,454 • ❤️ 401 • 6d ago
+
+---
+
+**[Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)**
+
+*Empero*
+
+Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token context window, enhanced function calling, and self-correction capabilities. It excels in complex domains like cybersecurity and biomedical research, outperforming its base model significantly on reasoning benchmarks and demonstrating reliable tool use for factual accuracy.
+
+`text-generation` `9.4B`
+
+⬇️ 79,540 • ❤️ 568 • 1d ago
 
 ---
 
@@ -487,19 +485,19 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 68,667 • ❤️ 314 • 4d ago
+⬇️ 68,667 • ❤️ 321 • 4d ago
 
 ---
 
-**[gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**
+**[Ornith-1.0-9B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B)**
 
-*Yuxin Lu*
+*DeepReinforce*
 
-A 12B parameter GGUF model fine-tuned on verifiable Python coding data with chain-of-thought reasoning, designed for local execution on consumer hardware (~4.5GB VRAM minimum) for offline coding assistance and problem-solving.
+Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate code solutions and their guiding scaffolds, achieving state-of-the-art performance on benchmarks like Terminal-Bench and SWE-Bench for its size.
 
-`text-generation` `11.9B`
+`text-generation` `1.5M`
 
-⬇️ 561,577 • ❤️ 2,505 • 11d ago
+⬇️ 19,170 • ❤️ 291 • 4d ago
 
 ---
 
@@ -528,7 +526,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 174 • 💬 2 • ⭐ 72,276 • 9mo ago
+▲ 174 • 💬 2 • ⭐ 72,432 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -568,21 +566,9 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 247 • 💬 4 • ⭐ 10,017 • 1mo ago
+▲ 248 • 💬 4 • ⭐ 10,017 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
-
----
-
-**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
-
-*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
-
-EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
-
-▲ 9 • 💬 1 • ⭐ 9,753 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
 ---
 
@@ -598,6 +584,18 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
+**[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
+
+*Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
+
+EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
+
+▲ 10 • 💬 1 • ⭐ 9,794 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -605,7 +603,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 60 • 💬 1 • ⭐ 84,813 • 34mo ago
+▲ 61 • 💬 1 • ⭐ 84,866 • 34mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -619,21 +617,22 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achieving state-of-the-art results on OmniDocBench v1.6.
 
-▲ 23 • 💬 1 • ⭐ 84,239 • 28d ago
+▲ 23 • 💬 1 • ⭐ 84,278 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.03264) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR) • [🔗 project](https://www.paddleocr.com)
 
 ---
 
-**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 192 • 💬 6 • ⭐ 5,826 • 4mo ago
+▲ 82 • 💬 7 • ⭐ 78,758 • 23mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -647,7 +646,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 67.6k • 🔱 3.5k • 4h ago
+⭐ 68.0k • 🔱 3.5k • 8h ago
 
 ---
 
@@ -657,7 +656,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.1k • 🔱 1.1k • 7m ago
+⭐ 11.1k • 🔱 1.1k • 54m ago
 
 ---
 
@@ -667,7 +666,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.5k • 🔱 706 • 2m ago
+⭐ 5.5k • 🔱 710 • 6m ago
 
 ---
 
@@ -677,7 +676,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.1k • 🔱 542 • 13h ago
+⭐ 4.2k • 🔱 547 • 17m ago
 
 ---
 
@@ -687,7 +686,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 167 • 1d ago
+⭐ 2.2k • 🔱 168 • 2d ago
 
 ---
 
@@ -717,7 +716,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Shell` `apple-intelligence`
 
-⭐ 1.6k • 🔱 87 • 16d ago
+⭐ 1.6k • 🔱 87 • 17d ago
 
 ---
 
@@ -727,7 +726,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.6k • 🔱 73 • 3h ago
+⭐ 1.6k • 🔱 74 • 2h ago
 
 ---
 
@@ -737,7 +736,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.4k • 🔱 54 • 3h ago
+⭐ 1.4k • 🔱 54 • 6h ago
 
 ---
 

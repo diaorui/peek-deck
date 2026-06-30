@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T04:45:20.026628+00:00'
+updated: '2026-06-30T08:30:25.860408+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 04:45 UTC  
+**Last Updated:** June 30, 2026 at 08:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,592.69
+### $1,589.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -2.1%  
+**24h:** +0.9%  
+**7d:** -2.0%  
 **30d:** -20.7%  
-**90d:** -22.8%  
-**1y:** -33.9%  
+**90d:** -22.7%  
+**1y:** -33.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $191.42B
+**Market Cap:** $191.57B
 Rank #2
 
 **Circulating Supply:** 120,683,443 ETH
@@ -62,7 +62,7 @@ No max supply
 -67.9%
 
 **All-Time Low:** $0.43
-+366146.4%
++366439.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -88,7 +88,7 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to unders
 
 Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereum validators to redirect staking rewards toward sustainable public goods funding while balancing decentralization, governance, and long-term ecosystem growth.
 
-🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 4d ago
+🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 5d ago
 
 ---
 
@@ -112,7 +112,7 @@ Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -136,7 +136,7 @@ Ethereum’s new research venture seems like a two-sided sword as the globe’s 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-43-151316356.html)**
+
+BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
+
+Yahoo Finance • 17h ago
+
+---
+
 **[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
 
 Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
 
-The Block • 13h ago
+The Block • 17h ago
 
 ---
 
@@ -164,47 +172,15 @@ The Block • 13h ago
 
 Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine was added to the...
 
-PR Newswire • 16h ago
+PR Newswire • 20h ago
 
 ---
 
-**[Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
+**[Bitcoin and ethereum prices today, Monday, June 29, 2026: Prices continue to move lower](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-29-2026-prices-continue-to-move-lower-132348850.html)**
 
-Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
+Bitcoin opened at $59,496.48 on Monday, June 29, 2026, 0.7% lower than Sunday's opening price. As of 8:50 a.m. ET, the price of bitcoin moved up to $59,813.02. Ethereum opened at $1,569.67 on Monday, June 29, 2026, down 0.1% from Sunday's opening price. Ethereum moved slightly higher this morning to $1,572.89 as of 8:50 a.m. ET.
 
-CoinDesk • 9h ago
-
----
-
-**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
-
-BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Bitmine Acquires $43 Million Of Ethereum As Price Slides](https://finance.yahoo.com/markets/crypto/articles/bitmine-acquires-43-million-ethereum-134200182.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) bought another 27,084 of Ethereum (CRYPTO: $ETH) over the past week as...
-
-Yahoo Finance • 15h ago
-
----
-
-**[Is Ethereum's Golden Goose Finally Cooked?](https://finance.yahoo.com/markets/crypto/articles/ethereums-golden-goose-finally-cooked-032100112.html)**
-
-Sentiment about the coin is in the dumps, and it's no surprise why.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin, Ethereum Gain, XRP, Dogecoin Flat As Trump Announces Next Round Of US-Iran Talks: Analyst Flags Signal Marking 'Generational Buying Opportunities'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-gain-xrp-dogecoin-020434418.html)**
-
-Leading cryptocurrencies pared losses Monday, while stocks closed higher as investors priced in a further easing of tensions between the U.S. and Iran following weekend hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.00%$59,872.36Ethereum (CRYPTO: ETH) +1.99%$1,594.33XRP (CRYPTO: XRP) +0.75%$1.04Solana (CRYPTO: SOL) +4.42%$74.24Dogecoin (CRYPTO: DOGE) -0.25%$0.07242 Crypto Market Recoups Losses Bitcoin rose in the early trading hours, but fail
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -212,7 +188,23 @@ Yahoo Finance • 2h ago
 
 The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
 
-CoinDesk • 16h ago
+CoinDesk • 20h ago
+
+---
+
+**[Is Ethereum's Golden Goose Finally Cooked?](https://www.fool.com/investing/2026/06/29/is-ethereums-golden-goose-finally-cooked/)**
+
+Sentiment about the coin is in the dumps, and it's no surprise why.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Institutions Cut Bitcoin And Ethereum ETF Exposure But Keep Buying XRP And HYPE](https://www.tradingview.com/news/newsbtc:2d5cb5d7a094b:0-institutions-cut-bitcoin-and-ethereum-etf-exposure-but-keep-buying-xrp-and-hype/)**
+
+For more details, visit the official Cryptoslate platform.TL;DRInstitutions Are Not Just Buying Or Selling Crypto As One TradeInstitutional investors reportedly reduced exposure to Bitcoin and Ethereum ETF products while still adding to XRP and HYPE-linked wrappers.That is a more interesting story…
+
+TradingView • 15h ago
 
 ---
 
@@ -220,15 +212,23 @@ CoinDesk • 16h ago
 
 Ethereum, the second-largest blockchain by market capitalization, fell roughly 25% in June amid a corporate restructuring. The correction stands out less
 
-PYMNTS.com • 5h ago
+PYMNTS.com • 9h ago
 
 ---
 
-**[Current price of Ethereum for June 29, 2026](https://fortune.com/article/price-of-ethereum-06-29-2026/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rebounds, ETH and XRP defend key support following recent correction](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rebounds-eth-and-xrp-defend-key-support-following-recent-correction-202606290345)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Monday after a correction of nearly 6%, 8% and 7%, respectively, over the previous week.
 
-Fortune • 15h ago
+FXStreet • 1d ago
+
+---
+
+**[Circle burns $250M USDC on Ethereum, issues $910M on Solana](https://cryptobriefing.com/circle-burns-usdc-ethereum-issues-solana/)**
+
+Circle burned $250M USDC on Ethereum and minted $910M on Solana, signaling a major liquidity shift as institutional stablecoin demand favors faster chains.
+
+Crypto Briefing • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 72 • ⏱️ 11:49 • 5h ago
+👁️ 26K • 👍 2K • 💬 84 • ⏱️ 11:49 • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 97 • 💬 54 • ⏱️ 41:52 • 10h ago
+👁️ 3K • 👍 108 • 💬 56 • ⏱️ 41:52 • 13h ago
 
 ---
 
@@ -262,7 +262,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 221 • 💬 46 • ⏱️ 1:01:02 • 18h ago
+👁️ 7K • 👍 235 • 💬 48 • ⏱️ 1:01:02 • 22h ago
 
 ---
 
@@ -272,47 +272,7 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 2K • 👍 58 • 💬 43 • ⏱️ 5:59 • 8h ago
-
----
-
-**[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
-
-Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 2K • 💬 112 • ⏱️ 9:55 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=iTfXiORo_2w)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 259 • 👍 48 • ⏱️ 7:28 • 1h ago
-
----
-
-**[XRP SURPASSES ETHEREUM BECAUSE OF THE USA! THIS WILL BLOW YOUR MIND!!](https://www.youtube.com/watch?v=ZYJUr-E24ZU)**
-
-Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC document and what it means for your crypto holdings.
-
-📺 Crypto Sensei
-
-👁️ 15K • 👍 808 • 💬 85 • ⏱️ 21:39 • 1d ago
-
----
-
-**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
-
-JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
-
-📺 Trade Confident
-
-👁️ 210 • 👍 13 • 💬 5 • ⏱️ 5:31 • 9h ago
+👁️ 3K • 👍 69 • 💬 41 • ⏱️ 5:59 • 11h ago
 
 ---
 
@@ -322,17 +282,57 @@ Bitcoin, ethereum and general markets are showing us clear patterns now! Here is
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 1K • 💬 22 • ⏱️ 9:18 • 18h ago
+👁️ 14K • 👍 1K • 💬 23 • ⏱️ 9:18 • 21h ago
 
 ---
 
-**[Ethereum Just Gave A Bullish Signal 🚀](https://www.youtube.com/watch?v=SoQCYfmbE3k)**
+**[BITCOIN HOLDERS: TIME IS RUNNING OUT (Price Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pOrFWTrBiTY)**
 
-Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+BITCOIN HOLDERS: TIME IS RUNNING OUT (Price Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Stocks with Josh
+📺 Crypto World
 
-👁️ 9K • 👍 357 • 💬 12 • ⏱️ 1:06 • 1d ago
+👁️ 5K • 👍 276 • 💬 50 • ⏱️ 18:40 • 10h ago
+
+---
+
+**[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
+
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 55K • 👍 2K • 💬 111 • ⏱️ 9:55 • 1d ago
+
+---
+
+**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
+
+JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
+
+📺 Trade Confident
+
+👁️ 240 • 👍 13 • 💬 5 • ⏱️ 5:31 • 13h ago
+
+---
+
+**[BTC &amp; ETHEREUM, Geduld zahlt sich aus! Wir warten jetzt auf unseren Short Einstieg!](https://www.youtube.com/watch?v=7OeQKWp_za8)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 467 • 💬 68 • ⏱️ 11:19 • 3h ago
+
+---
+
+**[🚩 Ethereum Will Crash Another 22%! - ETH Crypto Analysis](https://www.youtube.com/watch?v=wI_r52MOrZY)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 85 • 💬 13 • ⏱️ 11:33 • 16h ago
 
 ---
 
