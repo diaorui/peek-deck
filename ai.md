@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-30T20:57:30.332571+00:00'
+updated: '2026-06-30T22:18:24.811572+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** June 30, 2026 at 20:57 UTC  
+**Last Updated:** June 30, 2026 at 22:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Are Redditors influencing AI the most?](https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 One thing I didn't expect from using AI regularly is that it's changed how I think. Instead of searching for quick answers, I spend more time figuring out how to ask better questions. Even when I'm researching something without AI, I notice I'm breaking problems into smaller steps instead of just looking for one perfect answer. Has anyone else experienced this, or has AI changed a different habit for you?
 
-5h ago
+6h ago
 
 ---
 
@@ -59,19 +59,11 @@ Saw this article today and it genuinely surprised me Meta has been using Gemini 
 
 ---
 
-**[If AI stopped improving tomorrow, what would still have the biggest impact over the next 10 years?](https://www.reddit.com/r/artificial/comments/1ujjprk/if_ai_stopped_improving_tomorrow_what_would_still/)**
+**[We went from "AI says something embarrassing" to "$25M deepfake fraud" in about two years](https://www.reddit.com/r/artificial/comments/1uk2sbm/we_went_from_ai_says_something_embarrassing_to/)**
 
-Imagine today's models are as good as they'll ever get—no better reasoning, no larger context windows, no new breakthroughs. Which existing AI capability do you think would still reshape industries the most over the next decade?
+​ The Arup case wasn't a hack in the traditional sense — it was a deepfake convincing someone to authorize a transfer. No exploit code, no malware, just sufficiently good synthetic media plus normal human trust. Feels like the conversation around AI risk is still stuck on hallucinations and bias while the actual money being lost is going through social engineering supercharged by generation quality. Are we just behind on naming the real threat model here?
 
-12h ago
-
----
-
-**[if AI became 100% reliable tomorrow, what task would save you the most time by automating completely?](https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/)**
-
-just wondering, if AI becomes as reliable as a human what task would you automate completely?
-
-5h ago
+27m ago
 
 ---
 
@@ -79,39 +71,47 @@ just wondering, if AI becomes as reliable as a human what task would you automat
 
 I wrote this article because I assume many people are having running multiple AIs and getting their minds blown. Welcome any feedback
 
-🔗 [Citizen Octopus™](https://journal.citizenoctopus.com/will-you-need-ai-for-your-ai/) • 2h ago
+🔗 [Citizen Octopus™](https://journal.citizenoctopus.com/will-you-need-ai-for-your-ai/) • 4h ago
 
 ---
 
-**[Open vs Closed AI Models: How the Gap Collapsed in 2025-2026 and Where It's Heading](https://www.reddit.com/r/artificial/comments/1ujokka/open_vs_closed_ai_models_how_the_gap_collapsed_in/)**
+**[if AI became 100% reliable tomorrow, what task would save you the most time by automating completely?](https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/)**
 
-In January 2025, a Chinese lab most people had never heard of released an open model that wiped roughly seventeen percent off the value of the most valuable chipmaker on earth in a single day. Eighteen months later, the question is no longer whether open models can compete with the closed systems fr
+just wondering, if AI becomes as reliable as a human what task would you automate completely?
 
-🔗 [abZ Global](https://abzglobal.net/technology/open-vs-closed-ai-models-gap-2025-2026) • 7h ago
-
----
-
-**[Dwell](https://www.reddit.com/r/artificial/comments/1ujxv7p/dwell/)**
-
-The house, told straight. Every claim a listing makes — roof, foundation, reno costs, contractor quotes — checked against the record before you sign. Not another listing site. The verdict on the one you're about to buy. https://dwell.aurochthryx.com
-
-2h ago
+7h ago
 
 ---
 
-**[Veritas Clinic](https://www.reddit.com/r/artificial/comments/1ujxt2a/veritas_clinic/)**
+**[How has your AI workflow changed over the past year?](https://www.reddit.com/r/artificial/comments/1uk1z77/how_has_your_ai_workflow_changed_over_the_past/)**
 
-The chart, as of now. Every fact traced to its source — and the moment it was true. Veritas Clinical flags what's stale, superseded, or unverified before you walk in. You sign off; the model never decides. https://clinic.aurochthryx.com · $49/mo
+I’m interested in hearing from people who’ve used multiple LLMs (ChatGPT, Gemini, Claude, Grok, DeepSeek, etc.) extensively over the past few months. I’m less interested in benchmark scores and more interested in real-world experience. Which models do you trust most for reasoning, coding, writing, research, or brainstorming? What strengths and weaknesses only became obvious after long-term use? Have your preferences changed over time, and if so, why?
 
-2h ago
+59m ago
 
 ---
 
-**[What's the best AI for AI retranscription based on an audio file](https://www.reddit.com/r/artificial/comments/1ujwr0f/whats_the_best_ai_for_ai_retranscription_based_on/)**
+**[If AI stopped improving tomorrow, what would still have the biggest impact over the next 10 years?](https://www.reddit.com/r/artificial/comments/1ujjprk/if_ai_stopped_improving_tomorrow_what_would_still/)**
 
-I need 100 % of what was said in a meeting. It's a native audio Teams recording. What's the best AI for this ? I used AI Sembly a few months back and it worked quite well but I guess there's been some progress since. Any recommendations ? Many thanks
+Imagine today's models are as good as they'll ever get—no better reasoning, no larger context windows, no new breakthroughs. Which existing AI capability do you think would still reshape industries the most over the next decade?
 
-2h ago
+13h ago
+
+---
+
+**[how do most of you view the ai world & landscape in 2030?](https://www.reddit.com/r/artificial/comments/1uk3fr8/how_do_most_of_you_view_the_ai_world_landscape_in/)**
+
+im very young, and sometimes i still get desceived by ai videos, images or etc. before it was veo3, then it was sora2, seedance 2.0, now its seedance 2.5 pro max whats gonna be the new video model? then it was chatgpt, then deepseek, now its claude fable 5, whats gonna be the new language model? for images it was midjourney, chatgpt, midjourney, gemini, and now its chatgpt image 2, whats gonna be the new image model? (the orders of the best may vary tbh) if we get together the next video model and the next image model what are we going to be able to create? ai slop on my opinion also depends not only on the technologies available but of individual fertility, i dont believe in ai artists, i believe in ai creators, they are either good or bad. imo, if you use some third party tech like specific vectorization to an ai art image it can get either better, worse or almost the same, but still it could remove the metadata and seeds on it. for example. whats your thoughts in this midjourney 8.1 image with vectorization?(the image is not the main topic) https://preview.redd.it/6b7or174vhah1.png?width=4712&format=png&auto=webp&s=6f5856326bfc57be3b185873916f53206bbc246f
+
+1m ago
+
+---
+
+**[Best NSFW AI Image Generators 2026](https://www.reddit.com/r/artificial/comments/1uk2pd1/best_nsfw_ai_image_generators_2026/)**
+
+Firstly, do no listen to posts that have links, those are almost always affiliates or brands. Im a true user, that spends a little too much time exploring this rabbit hole. Anyways, please tell me if im missing any or if you think my list is inaccurate. Secrets AI - You may be thinking that this looks a little different then the rest, and you would be right. However, they have an entire generations page / dashboard that is dedicated for content creation, and it is extremely impressive (tech stack wise). They are always the first ones with the newest models, their backend is fast, theres no queues, and my favourite part is they allow to use the big expensive models. Most sites only offer the cheap ones as those have the highest margin, but Secrets does give you access, prcing varies on what models you use. ZenCreator - Used to be my go to before Secrets, simplistic UI/UX, their generators work well and are consistent, i just wish they always were adding new models for us to try. I feel like there in a position "dont fix whats not broken" but this caused them to fall behind. It still has great prompt adherence, but I would still put Secrets ahead Promptchan AI - One word, OG, haha! - This was the site that I first found that began this journey, so they will always be in my top 5. Would put this one close behind Zen, its a solid site, and it does what it needs to. Which for some is all that they want. I am more interested in pushing the limits and boundaries of the Image models, hence why I put this at 3. But still has great prompt adhearence, easy to use, and it works great. Virtuavixen - Small site, came across it recently. Small selection, but it does work decently. I am including this mainly for the variety, and to show love to a smaller site as it for sure has great potential, and great things take time. This is where I would add the Image models, stuff like nano, Stable diffusion, pony, ideagram, qwen, etc. You need to really know how to raw prompt, the reason I like platforms like Secrets is they've built systems that takes your prompt and turn it into a much better prompt that is structured exactly how the model should be prompted. Thanks for reading, would love to hear feedback in comments. I've spent a decent chunk of change on all of these sites, and I will NOT be posting undress or deepfakes, i do not agree with that industry & will not share it with people.
+
+30m ago
 
 ---
 
@@ -119,31 +119,37 @@ I need 100 % of what was said in a meeting. It's a native audio Teams recording.
 
 ## Google News: "ai"
 
-**[AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave](https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html)**
-
-AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.
-
-CNBC • 5h ago
-
----
-
 **[AWS invests $1 billion to embed AI forward deployed engineers with customers](https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers)**
 
 A new AWS Forward Deployed Engineering organization will embed thousands of experts with customers to co-develop and deploy agentic AI solutions in days.
 
-About Amazon • 5h ago
+About Amazon • 7h ago
 
 ---
 
-**[Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers](https://www.reuters.com/business/retail-consumer/amazons-aws-commits-1-billion-toward-new-unit-embedded-ai-engineers-2026-06-30/)**
+**[AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave](https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html)**
 
-Reuters • 5h ago
+AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.
+
+CNBC • 7h ago
+
+---
+
+**[Amazon is laying out $1 billion to follow Palantir’s AI playbook](https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4)**
+
+MarketWatch • 4h ago
 
 ---
 
 **[How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’](https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html)**
 
-The New York Times • 11h ago
+The New York Times • 45m ago
+
+---
+
+**[Bloom Energy Is Soaring Late. Here's Why.](https://www.investors.com/news/bloom-energy-stock-soaring-ai-infrastructure-brookfield/)**
+
+Investor's Business Daily • 53m ago
 
 ---
 
@@ -151,45 +157,35 @@ The New York Times • 11h ago
 
 NEW YORK & SAN JOSE, Calif., June 30, 2026--Bloom Energy (NYSE: BE), a global leader in power solutions, and Brookfield today announced the expansion of their strategic partnership as Brookfield increases its framework to finance power projects for AI infrastructure – from previously announced $5 billion to $25 billion – a fivefold expansion since October 2025. The increased funding will help grow the fuel cell partnership globally.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[The DeepMind trio who built a poker AI, are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)**
+**[Bloom Energy, Brookfield expand AI infrastructure power partnership to $25 billion](https://www.reuters.com/business/energy/bloom-energy-brookfield-expand-ai-infrastructure-power-partnership-25-billion-2026-06-30/)**
 
-EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.
-
-TechCrunch • 23m ago
+Reuters • 2h ago
 
 ---
 
-**[In an AI world, taste is a competitive advantage for brands](https://www.businessinsider.com/ai-adoption-shifts-towards-long-term-strategies-leaders-reveal-2026-6)**
+**[Donald Trump’s AI regime is opaque, unpredictable—and unsustainable](https://www.economist.com/business/2026/06/30/donald-trumps-ai-regime-is-opaque-unpredictable-and-unsustainable)**
 
-Marketing and AI converge at the BI AI Marketer roundtable, where leaders stress creativity and strategic adoption for long-term brand success.
-
-Business Insider • 38m ago
+The Economist • 7h ago
 
 ---
 
-**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
+**[Trump administration's AI crackdown opens door for China to close gap](https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html)**
 
-Anthropic • 3h ago
+The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.
 
----
-
-**[Four days to make victims fall in love: How global scammers use US tech to fleece people](https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986)**
-
-Technology from American companies is being used to power a revolution in the scam industry, playing a key role in the industrialization and globalization of fraud in ways that have not been clear until now, an AP/“FRONTLINE” investigation has found.
-
-AP News • 16h ago
+CNBC • 10h ago
 
 ---
 
-**[Ford rehires human engineers after AI fails to match quality checks](https://www.bbc.com/news/articles/cgrkd41n2v9o)**
+**[Fact Check: Trump Posted AI-Generated Photo Of Golden Eagle 'Gifted' To White House For 250th Birthday](https://www.yahoo.com/news/politics/articles/fact-check-trump-posted-ai-220354179.html)**
 
-The car-maker found AI quality checks failed to match the skill of veteran technicians.
+Did a real photo posted by President Trump show a golden eagle gifted to the White House for its 250th birthday, hanging from the columns in front of the balcony? No, that's not true: The image is AI-...
 
-BBC • 1d ago
+Yahoo • 14m ago
 
 ---
 
@@ -247,7 +243,7 @@ In this essay, Carson Gross walks through a concrete bug fix in hyperscript to s
 
 Meta had sought more computing capacity than Google could provide, the Financial Times reports.
 
-⬆️ 160 • 💬 72 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
+⬆️ 161 • 💬 72 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
 
 ---
 
@@ -283,7 +279,7 @@ AI #Congress #OpenAI They saw the demo behind closed doors. They walked out shak
 
 📺 Rod Miller
 
-👁️ 7K • 👍 800 • 💬 205 • ⏱️ 28:59 • 17h ago
+👁️ 7K • 👍 800 • 💬 205 • ⏱️ 28:59 • 19h ago
 
 ---
 
@@ -323,7 +319,7 @@ One benchmark made me double-check my numbers. The rest tell a different story. 
 
 📺 Alex Ziskind
 
-👁️ 26K • 👍 1K • 💬 107 • ⏱️ 14:13 • 7h ago
+👁️ 26K • 👍 1K • 💬 107 • ⏱️ 14:13 • 8h ago
 
 ---
 
@@ -343,7 +339,7 @@ Get the TORRAS Coolify 2S Pro Here: https://amzn.to/4gcv5OQ & https://bit.ly/4f7
 
 📺 Nikias Molina
 
-👁️ 3K • 👍 284 • 💬 47 • ⏱️ 29:14 • 4h ago
+👁️ 3K • 👍 284 • 💬 47 • ⏱️ 29:14 • 6h ago
 
 ---
 
@@ -353,7 +349,7 @@ Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risk
 
 📺 Breaking Points
 
-👁️ 41K • 👍 2K • 💬 571 • ⏱️ 18:18 • 2h ago
+👁️ 41K • 👍 2K • 💬 571 • ⏱️ 18:18 • 4h ago
 
 ---
 
@@ -373,7 +369,7 @@ The Trump administration is allowing Anthropic to restore access to its Mythos 5
 
 📺 CBS News
 
-👁️ 5K • 👍 43 • 💬 16 • ⏱️ 3:06 • 23h ago
+👁️ 5K • 👍 43 • 💬 16 • ⏱️ 3:06 • 1d ago
 
 ---
 
@@ -646,7 +642,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 69.0k • 🔱 3.5k • 20h ago
+⭐ 69.0k • 🔱 3.5k • 22h ago
 
 ---
 
@@ -656,7 +652,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.1k • 🔱 1.1k • 6h ago
+⭐ 11.1k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -666,7 +662,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.7k • 🔱 725 • 9m ago
+⭐ 5.7k • 🔱 725 • 1h ago
 
 ---
 
@@ -676,7 +672,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.4k • 🔱 567 • 19m ago
+⭐ 4.4k • 🔱 567 • 1h ago
 
 ---
 
@@ -716,7 +712,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.6k • 🔱 78 • 31s ago
+⭐ 1.6k • 🔱 78 • 1h ago
 
 ---
 
@@ -736,7 +732,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.4k • 🔱 54 • 19h ago
+⭐ 1.4k • 🔱 54 • 20h ago
 
 ---
 
