@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T14:20:32.223929+00:00'
+updated: '2026-06-30T16:36:14.784572+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 14:20 UTC  
+**Last Updated:** June 30, 2026 at 16:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,574.47
+### $1,565.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -3.1%  
-**30d:** -21.6%  
-**90d:** -23.6%  
-**1y:** -34.6%  
+**24h:** -4.0%  
+**7d:** -3.6%  
+**30d:** -22.0%  
+**90d:** -23.9%  
+**1y:** -34.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.32B
+**Market Cap:** $188.32B
 Rank #2
 
 **Circulating Supply:** 120,683,443 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.3%
+-68.5%
 
 **All-Time Low:** $0.43
-+362157.8%
++360289.3%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sentiment about the coin is in the dumps, and it's no surprise why.
 
-The Motley Fool • 10h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -164,15 +164,7 @@ The Motley Fool • 10h ago
 
 BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
-
-Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
-
-The Block • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -184,11 +176,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, June 30: Prices sliding, down about 40% from last year](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-june-30-prices-sliding-down-about-40-from-last-year-124424056.html)**
+**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
 
-Bitcoin opened at $60,148.50, up 1.1% from yesterday's opening price. Ethereum opened at $1,610.48, up 2.6% from yesterday's opening price.
+Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
 
-Yahoo Finance • 1h ago
+The Block • 1d ago
+
+---
+
+**[What to Expect From Ethereum (ETH) in July 2026](https://finance.yahoo.com/markets/crypto/articles/expect-ethereum-eth-july-2026-160000417.html)**
+
+ETH holds near $1,570 as whale buying clashes with a bearish trend. Here is what could decide ETH in July 2026.
+
+Yahoo Finance • 36m ago
 
 ---
 
@@ -196,7 +196,15 @@ Yahoo Finance • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
+
+---
+
+**[Solana Looks More Alive and Well Than Ethereum: Here’s Why](https://finance.yahoo.com/markets/crypto/articles/solana-looks-more-alive-well-135502119.html)**
+
+Solana outperforms Bitcoin and Ethereum as tokenized stock and meme coin trading activity climb across the network.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -208,27 +216,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Tom Lee Ties Ethereum Selloff to Quarter-End Window Dressing](https://beincrypto.com/tom-lee-ethereum-window-dressing-selloff/)**
+
+Tom Lee points to quarter-end window dressing amid Ethereum's 8% drop as Bitmine and SharpLink buy ETH into weakness.
+
+BeInCrypto • 12h ago
+
+---
+
 **[Bitcoin And Ethereum ETFs Extend Outflow Streak As Funds Shed $261 Million](https://www.tradingview.com/news/newsbtc:5a7eea7e1094b:0-bitcoin-and-ethereum-etfs-extend-outflow-streak-as-funds-shed-261-million/)**
 
 TL;DRU.S. crypto ETFs are still under pressure, with fresh data showing another day of redemptions across both Bitcoin and Ethereum products. Spot Bitcoin ETFs saw roughly $231 million in net outflows, while spot Ethereum ETFs recorded about $30 million in outflows during the same session.The figur…
 
-TradingView • 1h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rebounds, ETH and XRP defend key support following recent correction](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rebounds-eth-and-xrp-defend-key-support-following-recent-correction-202606290345)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Monday after a correction of nearly 6%, 8% and 7%, respectively, over the previous week.
-
-FXStreet • 1d ago
-
----
-
-**[Ethereum Built Stablecoins. Its Price Drop Reveals Their Biggest Shift Yet](https://www.pymnts.com/cryptocurrency/2026/ethereum-built-stablecoins-its-price-drop-reveals-their-biggest-shift-yet/)**
-
-Ethereum, the second-largest blockchain by market capitalization, fell roughly 25% in June amid a corporate restructuring. The correction stands out less
-
-PYMNTS.com • 15h ago
+TradingView • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 134 • ⏱️ 11:49 • 15h ago
+👁️ 38K • 👍 2K • 💬 112 • ⏱️ 11:49 • 17h ago
 
 ---
 
@@ -252,7 +252,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 131 • 💬 64 • ⏱️ 41:52 • 19h ago
+👁️ 4K • 👍 137 • 💬 61 • ⏱️ 41:52 • 21h ago
 
 ---
 
@@ -262,27 +262,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 8K • 👍 256 • 💬 53 • ⏱️ 1:01:02 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
-
-Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
-
-📺 Thomas Kralow
-
-👁️ 14K • 👍 1K • 💬 27 • ⏱️ 9:18 • 1d ago
-
----
-
-**[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
-
-Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 2K • 💬 117 • ⏱️ 9:55 • 1d ago
+👁️ 8K • 👍 262 • 💬 51 • ⏱️ 1:01:02 • 1d ago
 
 ---
 
@@ -292,27 +272,57 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 4K • 👍 85 • 💬 43 • ⏱️ 5:59 • 17h ago
+👁️ 4K • 👍 91 • 💬 19 • ⏱️ 5:59 • 20h ago
 
 ---
 
-**[BTC &amp; ETHEREUM, Geduld zahlt sich aus! Wir warten jetzt auf unseren Short Einstieg!](https://www.youtube.com/watch?v=7OeQKWp_za8)**
+**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
+Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
 
-📺 Krypto Trading & Investing
+📺 Thomas Kralow
 
-👁️ 3K • 👍 561 • 💬 82 • ⏱️ 11:19 • 9h ago
+👁️ 15K • 👍 1K • 💬 24 • ⏱️ 9:18 • 1d ago
 
 ---
 
-**[⚠️ Alerta Cripto: Institucionales reducen posiciones en Bitcoin y Ethereum](https://www.youtube.com/watch?v=2IvgvjlMsJ8)**
+**[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
 
-Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino ¿Estamos ante la **última gran oportunidad para ...
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
 
-📺 Jaime Merino | TradingLatino
+📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 56 • ⏱️ 20:08 • 10h ago
+👁️ 57K • 👍 2K • 💬 117 • ⏱️ 9:55 • 1d ago
+
+---
+
+**[ETH: Diese Indikatoren sprechen klar für neue Abverkäufe!](https://www.youtube.com/watch?v=-UwQWxngHkU)**
+
+In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ethereum sowie die wichtigsten Unterstützungen, ...
+
+📺 HKCM
+
+👁️ 2K • 👍 237 • 💬 13 • ⏱️ 17:42 • 35m ago
+
+---
+
+**[Ethereum Just Gave A Bullish Signal 🚀](https://www.youtube.com/watch?v=SoQCYfmbE3k)**
+
+Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 9K • 👍 360 • 💬 12 • ⏱️ 1:06 • 1d ago
+
+---
+
+**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
+
+JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
+
+📺 Trade Confident
+
+👁️ 262 • 👍 13 • 💬 9 • ⏱️ 5:31 • 21h ago
 
 ---
 
@@ -320,17 +330,7 @@ Tu cuenta #BingX aquí: https://bingx.com/es/partner/TradingLatino Jaime Merino 
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 405 • 💬 31 • ⏱️ 1:00 • 1d ago
-
----
-
-**[Ethereum बनेगा Bitcoin का बाप? | Ethereum Vs Bitcoin | SAGAR SINHA](https://www.youtube.com/watch?v=wyt5heRVQGM)**
-
-CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
-
-📺 Sagar Sinha 
-
-👁️ 79K • 👍 3K • 💬 646 • ⏱️ 21:19 • 1d ago
+👁️ 12K • 👍 406 • 💬 31 • ⏱️ 1:00 • 1d ago
 
 ---
 

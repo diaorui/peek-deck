@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-06-30T14:20:32.209109+00:00'
+updated: '2026-06-30T16:36:14.771156+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** June 30, 2026 at 14:20 UTC  
+**Last Updated:** June 30, 2026 at 16:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI has made me ask better questions than search engines ever did. Anyone else?](https://www.reddit.com/r/artificial/comments/1ujs6wp/ai_has_made_me_ask_better_questions_than_search/)**
+
+One thing I didn't expect from using AI regularly is that it's changed how I think. Instead of searching for quick answers, I spend more time figuring out how to ask better questions. Even when I'm researching something without AI, I notice I'm breaking problems into smaller steps instead of just looking for one perfect answer. Has anyone else experienced this, or has AI changed a different habit for you?
+
+1h ago
+
+---
+
 **[Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much](https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/)**
 
 Saw this article today and it genuinely surprised me Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity. Now employees are being told to watch their token usage. This is the same company that was pushing staff to use more AI just a few months ago. Idk man, of all the companies to run out of AI capacity
 
-17h ago
+19h ago
 
 ---
 
@@ -49,45 +57,13 @@ Saw this article today and it genuinely surprised me Meta has been using Gemini 
 
 Imagine today's models are as good as they'll ever get—no better reasoning, no larger context windows, no new breakthroughs. Which existing AI capability do you think would still reshape industries the most over the next decade?
 
-5h ago
+7h ago
 
 ---
 
-**[A new... thing.](https://www.reddit.com/r/artificial/comments/1uji8tb/a_new_thing/)**
+**[if AI became 100% reliable tomorrow, what task would save you the most time by automating completely?](https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/)**
 
-https://github.com/EDrTech/Working-memory-depth-recurrence https://gitlab.com/erikrudec-group/Working-memory-depth-recurrence https://codeberg.org/erikrudec/Working-memory-depth-recurrence/ This is a demonstration, in pure python, of a different way of making, well, AI. No backprop, no gradients, no weight transport, only local rules. Everything learns on one graph, and you can run all of it on almost anything. Have you ever seen an LLM solve the S4 or S5 card shuffle problem? I have something here that trains in under two seconds from scratch and does the full 52 card deck. You hand it a deck and a thousand shuffles, and it tells you the exact order the deck ends up in. It only ever learned from short examples, it was never trained on long sequences. It can also recover from bad training. If you teach it badly first and it only memorizes, you can teach it properly on top of the same thing, and it starts to actually understand, without forgetting what it already knew. There are three small demos in here. The first one learns what numbers are by counting piles of things (characters, words, anything), and then it adds, even though it was never shown a single sum. The second learns what each shuffle does to a deck, and then predicts any deck after any number of shuffles, up to the full 52. The third one gets trained quickly and just memorizes, then gets taught properly and comes to understand, on the same memory, with nothing forgotten. The whole engine is about 60 lines of python and you can read it top to bottom. There is no code in there that knows anything about counting or shuffling. So you do not have to take my word for any of this. You clone it, run it with nothing installed, and read the engine. The demos themselves are not really in question, you can check every number by hand in a few minutes. What I am unsure about is the big claim I am building on top of them. The claim I have almost fully convinced myself of is that working memory depth recurrence is the backbone of a real, faithful brain abstraction, one that behaves on silicon almost exactly like it behaves in biology. Working memory depth recurrence is the fix for the bound depth problem. Depth goes from being an impossible problem to a simple series of serial operations, and you get it almost for free. You do not need a two billion dollar cluster, you need some memory and you need to spend compute time instead of brute force compute. It all happens on the one unified graph. The basic operations get taught, and you can watch the higher level rules emerge from there. You teach it to count on piles of things, and it generalizes to the rest. What I am releasing is the single most important piece for this to work, but it is far from the only thing needed. I built more on top of this backbone to get higher complexity abstractions to emerge, and it did happen, and it stacks very well on top of this. I might have talked myself into a state where I really believe I have THE thing. So I fully expect people who actually have the AI know how to check whether this amounts to anything. Partly to keep my own sanity, because if this is the thing, it is very weird that I got here through a lot of stubborn ignorance. I am not a data scientist and not an ML engineer. I know the principles of how it all works, but the terminology in this field is too complicated and it always drags you down the backprop and global rules route. I hated how LLMs behave. I figured they are set up wrong from the ground up, so I set myself the task of doing it properly, and I just stubbornly went against the standard way and deconstructed how my own brain does things. So check it out and see for yourself. I would really appreciate it if you told me whether this is all a big fever dream of mine, and saved me the further embarrassment. And if it is real, I fully believe this belongs to everyone, and no single person or company should have a monopoly on it. Thanks! EDIT: added demo on huggingface: https://huggingface.co/spaces/ErikRudec/Working-memory-depth-recurrence
-
-6h ago
-
----
-
-**[Ford rehires veteran engineers after AI fails to meet quality standards](https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/)**
-
-Ford said it had hired, promoted or brought back around 350 veteran engineers after discovering that AI alone could not match experienced staff.
-
-🔗 [Dexerto](https://www.dexerto.com/entertainment/ford-rehires-veteran-engineers-after-ai-fails-to-meet-quality-standards-3380736/) • 22h ago
-
----
-
-**[An audiovisual technique I've been working on - [and made it open-source]](https://www.reddit.com/r/artificial/comments/1ujqb6y/an_audiovisual_technique_ive_been_working_on_and/)**
-
-A new output example from the updated version of my experimental multi-source video player for TouchDesigner, designed for frame-accurate video switching, playback manipulation, and display/render interventions. [And now, by popular demand, allowing even more video sources!] Want access to the updated system + a detailed breakdown of exactly how I achieved the continuous motion effect on this piece? You can freely access the system from the Store, and the detailed breakdown from my Patreon. Plus, many more experiments through my Instagram profile.
-
-10m ago
-
----
-
-**[How Do You Automate Getting Web Design Clients?](https://www.reddit.com/r/artificial/comments/1ujp086/how_do_you_automate_getting_web_design_clients/)**
-
-So I've seen a lot of people on Reddit asking how to get web design clients, so I figured I'd make a post about what's been working for me. If you don't run a web agency, this probably isn't for you. One of the biggest lessons I've learned in my 4 years running a web agency is that the best businesses to target are the ones that already have a website. There are 3 simple reasons for that. First, the number of businesses with outdated websites is way higher than most people think. I'm talking about websites with outdated designs, poor mobile optimization, slow loading speeds, weak SEO, and confusing layouts. Second, the fact that they already have a website proves one important thing. They understand the value of having one. You don't have to convince them that a website is important because they've already invested in it before. Third, selling becomes much easier because they're already familiar with paying for a website. In many cases they're still paying monthly for hosting or maintenance, so paying to improve it isn't a completely new idea to them. Now that we know who to target, how do we actually reach them? Personally, I recommend email outreach. The problem is that manually reviewing websites and writing personalized emails for every business takes forever. Instead, I'd automate the whole process. I use a tool called Swokei. You upload a list of businesses with websites, it automatically analyzes each one, then turns issues with design, layout, speed, mobile optimization, and SEO into personalized outreach emails. Not generic reports that business owners don't care about. Actual emails explaining what's wrong with their website, why it matters, and how it could be affecting their business. That allows you to send outreach at scale while still keeping every email relevant. In my experience, this leads to much higher reply rates because you're pointing out something specific that's potentially hurting their business. That naturally creates urgency while also giving you the opportunity to offer a solution. This is the approach I've been using for a while now, and it consistently brings me an interested reply rate of around 5–9%. I'm curious how everyone else is getting web design clients these days.
-
-1h ago
-
----
-
-**[Before I needed it, no one told me that "legacy tape management" was an entire industry.](https://www.reddit.com/r/artificial/comments/1ujoosc/before_i_needed_it_no_one_told_me_that_legacy/)**
-
-We inherited roughly 6,000 LTO tapes from a business we bought last year. There was no documentation, no drives that could read half of them, multiple generations and different formats. spent three weeks attempting to come up with an internal solution before someone recommended outsourcing the entire process. didn't know there were services like that, businesses that specialize in large-scale tape to cloud migration, evaluate what you have, read the formats and transfer everything.
+just wondering, if AI becomes as reliable as a human what task would you automate completely?
 
 1h ago
 
@@ -97,23 +73,45 @@ We inherited roughly 6,000 LTO tapes from a business we bought last year. There 
 
 In January 2025, a Chinese lab most people had never heard of released an open model that wiped roughly seventeen percent off the value of the most valuable chipmaker on earth in a single day. Eighteen months later, the question is no longer whether open models can compete with the closed systems fr
 
-🔗 [abZ Global](https://abzglobal.net/technology/open-vs-closed-ai-models-gap-2025-2026) • 1h ago
+🔗 [abZ Global](https://abzglobal.net/technology/open-vs-closed-ai-models-gap-2025-2026) • 3h ago
 
 ---
 
-**[Copilot agents can take actions. But who verifies the results?](https://www.reddit.com/r/artificial/comments/1ujo832/copilot_agents_can_take_actions_but_who_verifies/)**
+**[A new... thing.](https://www.reddit.com/r/artificial/comments/1uji8tb/a_new_thing/)**
 
-As Copilot agents become more autonomous, validation seems just as important as automation. How are you handling it?
+https://github.com/EDrTech/Working-memory-depth-recurrence https://gitlab.com/erikrudec-group/Working-memory-depth-recurrence https://codeberg.org/erikrudec/Working-memory-depth-recurrence/ This is a demonstration, in pure python, of a different way of making, well, AI. No backprop, no gradients, no weight transport, only local rules. Everything learns on one graph, and you can run all of it on almost anything. Have you ever seen an LLM solve the S4 or S5 card shuffle problem? I have something here that trains in under two seconds from scratch and does the full 52 card deck. You hand it a deck and a thousand shuffles, and it tells you the exact order the deck ends up in. It only ever learned from short examples, it was never trained on long sequences. It can also recover from bad training. If you teach it badly first and it only memorizes, you can teach it properly on top of the same thing, and it starts to actually understand, without forgetting what it already knew. There are three small demos in here. The first one learns what numbers are by counting piles of things (characters, words, anything), and then it adds, even though it was never shown a single sum. The second learns what each shuffle does to a deck, and then predicts any deck after any number of shuffles, up to the full 52. The third one gets trained quickly and just memorizes, then gets taught properly and comes to understand, on the same memory, with nothing forgotten. The whole engine is about 60 lines of python and you can read it top to bottom. There is no code in there that knows anything about counting or shuffling. So you do not have to take my word for any of this. You clone it, run it with nothing installed, and read the engine. The demos themselves are not really in question, you can check every number by hand in a few minutes. What I am unsure about is the big claim I am building on top of them. The claim I have almost fully convinced myself of is that working memory depth recurrence is the backbone of a real, faithful brain abstraction, one that behaves on silicon almost exactly like it behaves in biology. Working memory depth recurrence is the fix for the bound depth problem. Depth goes from being an impossible problem to a simple series of serial operations, and you get it almost for free. You do not need a two billion dollar cluster, you need some memory and you need to spend compute time instead of brute force compute. It all happens on the one unified graph. The basic operations get taught, and you can watch the higher level rules emerge from there. You teach it to count on piles of things, and it generalizes to the rest. What I am releasing is the single most important piece for this to work, but it is far from the only thing needed. I built more on top of this backbone to get higher complexity abstractions to emerge, and it did happen, and it stacks very well on top of this. I might have talked myself into a state where I really believe I have THE thing. So I fully expect people who actually have the AI know how to check whether this amounts to anything. Partly to keep my own sanity, because if this is the thing, it is very weird that I got here through a lot of stubborn ignorance. I am not a data scientist and not an ML engineer. I know the principles of how it all works, but the terminology in this field is too complicated and it always drags you down the backprop and global rules route. I hated how LLMs behave. I figured they are set up wrong from the ground up, so I set myself the task of doing it properly, and I just stubbornly went against the standard way and deconstructed how my own brain does things. So check it out and see for yourself. I would really appreciate it if you told me whether this is all a big fever dream of mine, and saved me the further embarrassment. And if it is real, I fully believe this belongs to everyone, and no single person or company should have a monopoly on it. Thanks! EDIT: added demo on huggingface: https://huggingface.co/spaces/ErikRudec/Working-memory-depth-recurrence
+
+9h ago
+
+---
+
+**[ORBIS](https://www.reddit.com/r/artificial/comments/1uju32b/orbis/)**
+
+5m ago
+
+---
+
+**[Stopped switching models every time output got worse, fixed my prompts instead](https://www.reddit.com/r/artificial/comments/1ujsehp/stopped_switching_models_every_time_output_got/)**
+
+been using ai daily for about a year now and kept falling into the trap of blaming the model when output got mediocre. switched between three or four different tools chasing better results before realizing the actual problem was almost always on my end. few things that made a bigger difference than any model upgrade ever did: keeping a running doc of context for ongoing projects instead of re-explaining everything each session. sounds obvious but most people don't do it and it's the single biggest lever for consistency on anything that spans multiple days. asking for the counterargument before committing to a decision. "give me the steelman case against this" catches more bad calls than any amount of brainstorming does. being specific about output format upfront instead of fixing it after the fact. defining structure, length, and tone in the first prompt saves three or four rounds of "actually can you make it shorter" later. not accepting the first response as the ceiling. the first answer is usually the average answer pulled from the most common pattern. pushing for a second or third pass with "go deeper" or "argue from a different angle" tends to surface the actually useful version. none of this is groundbreaking but it took me way longer than it should have to realize the model was rarely the bottleneck. curious if others have found similar stuff, or if there's a model-specific case where switching actually was the right call
 
 1h ago
 
 ---
 
-**[To fix the machine that replaced you — a long winded ramble.](https://www.reddit.com/r/artificial/comments/1ujeh8r/to_fix_the_machine_that_replaced_you_a_long/)**
+**[Ford rehires veteran engineers after AI fails to meet quality standards](https://www.reddit.com/r/artificial/comments/1uiwmnm/ford_rehires_veteran_engineers_after_ai_fails_to/)**
 
-Greetings all, and welcome to my TED talk. Please allow me to preface this with the following disclaimer: I am autistic, and when writing things like this, I have been known to be mistaken for AI on occasion. I'm not really sure how to prove that I'm not, so instead I'll just hope that you take me at my word. To set the tone of this, I am posing a moral quandary. All opinions are valid here, I am not looking for people to just pat me on the back and tell me my decision is okay (though if that happens, that's okay too). Now, for a bit of background: I went to a technical school that specialized in replacing the need for college with learning a trade. The shops at the time were mostly manual labor type stuff (building cars, houses, plumbing, HVAC, whatever that manly stuff is) then a few more creative things that I have never had skill with (graphic art, marketing, drafting and design, cooking, et cetera), and then one shop that I found I had a knack for: electronics technology. By senior year I had built a little robot that helped greet the new students, and would do the six flags "old-man" dance (dating myself a bit there). I graduated, and immediately found out that not one single person cared that I could build a robot, it was a time where you needed a degree to work in that kind of field. So I went and got one. It was a hard pull, ended up living in my car to pay tuition (murica) and finally got my bright and shiny degree, a bachelor's in Computer and Electrical Engineering from the esteemed DeVry university. They taught me a lot about coding, and even helped me land a sweet gig right out of college for $80,000 a year, which was more money than I ever even imagined at the time. Well, turns out, that job was specialized in replacing people. During the interview/on boarding process, they showcased things like automated forklifts, and cars parallel parking themselves. It was really neat to look at, until I was face to face with the result of our systems. Code that was maintained by six of us was being bought for several hundred thousand dollars, and then hundreds of workers were being sent home with no fall back. My boss used the same advice that is always given in these situations: they can go back to school and learn to fix the machine that replaced them. Seemed like a great plan, except there were six of us, and hundreds of them, even if every single one of them had the mental capacity to do the job, it wasn't happening. I lost sleep over it, and eventually waved goodbye to that job to look for other work. Only to find that pretty much everyone at the time was also trying to build systems to replace people. So I left the field. Joined the Navy, wrote a bit, fell in love, lived my life. And every once in a while I'd dust off my programming to make a little tool to help me with something. After the Navy, I entered the field of ghostwriting. For those unaware, that's basically "AI write me a book" only I was the AI. I didn't make great money doing it, but I made a living, and I loved the work, and that was enough for me. Whelp, as it turns out, people who are willing to pay a person to write something they take credit for writing are almost entirely just as willing to have ChatGPT do it for free. As such, I became the man replaced by the machine. So I did what the age old advice recommended, and I learned the machine. I dove hard into figuring out how to make ChatGPT work for me, and used it to develop a bit of software based on my existing software. The more I experiment, the more I realize that there is a lot more to it than "tell a chat bot 'make me Zelda, Link to the Past'" and clicking play. My knowledge of programming actually comes in handy, and I can do things in days that would have taken me years. Now we (finally) get to the question of morality. One of the biggest complaints I see about the use of AI is that it replaces people in the creative process. It won't be doing that with me, I'll be writing all the story (and some of the code). I have an artist as well, the same one I used for my covers, to design artistic things for games. Games that don't replace people. One of the biggest secondary concerns I see with it is about the environment. As of yesterday I've started the ball rolling on getting a PC setup that can run opensource AI locally, so no data centers involved at all. So people doing the creativity, check. Environment just as impacted as if I were just playing Baldurs Gate 3 on my PC, check. Doesn't take anyone's jobs, just saves me the time of having to do every line (of millions of lines) of code myself, check. Fully intend on being up front and honest regarding the use of AI in development of code, check. Am I missing some ethical dilemma that I haven't yet considered? Have I missed some aspect of the ones I'm considering solved? Or am I just overthinking it because "AI yucky" is such an easy stance to have? Thanks for coming to my TED talk, I look forward to hearing your responses.
+Ford said it had hired, promoted or brought back around 350 veteran engineers after discovering that AI alone could not match experienced staff.
 
-10h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/ford-rehires-veteran-engineers-after-ai-fails-to-meet-quality-standards-3380736/) • 1d ago
+
+---
+
+**[I taught myself to code 5 months ago and built an autonomous AI red-team tester — testyourllm.com](https://www.reddit.com/r/artificial/comments/1ujqzb1/i_taught_myself_to_code_5_months_ago_and_built_an/)**
+
+Piano teacher. Zero coding background. 5 months ago I started building. Just launched testyourllm.com — point it at any OpenAI-compatible LLM endpoint and an autonomous AI tries to break it. The attack AI (Tron) broke Llama 3.3 70B on the first throw in live testing. Built on a 7-layer defense stack running on live infrastructure processing real attacker traffic.
+
+2h ago
 
 ---
 
@@ -129,53 +127,63 @@ BBC • 1d ago
 
 ---
 
+**[Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans](https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers)**
+
+The US motor company found that the hundreds of AI cameras being used for design and manufacturing checks were prone to pitfalls
+
+The Guardian • 1h ago
+
+---
+
+**[Ford rehires experienced engineers after AI misses the mark](https://www.foxbusiness.com/technology/ford-rehires-experienced-engineers-after-ai-misses-mark)**
+
+Ford rehired about 300 veteran engineers after AI tools failed to match human expertise, helping the automaker top the JD Power 2026 Initial Quality Study.
+
+Fox Business • 23h ago
+
+---
+
 **[Opinion | The One Very Simple Reason A.I. Won’t Steal All Our Jobs](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html)**
 
-The New York Times • 5h ago
+The New York Times • 7h ago
 
 ---
 
-**[AI Chip Startup Etched Says Jane Street, TSMC-Linked VC Invested](https://www.bloomberg.com/news/articles/2026-06-30/ai-chip-startup-etched-says-jane-street-tsmc-linked-vc-invested)**
+**[‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI](https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind)**
 
-Bloomberg.com • 20m ago
+The long read: Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference?
 
----
-
-**[Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs](https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/)**
-
-A senior OpenAI employee has contributed code to the project, simply called 'caveman.'
-
-404 Media • 45m ago
+The Guardian • 7h ago
 
 ---
 
-**[Silicon Valley’s go-to fixer on AI’s unfixable problem](https://www.yahoo.com/news/politics/articles/silicon-valley-fixer-ai-unfixable-140011141.html)**
+**[Google's AI boom sends emissions, power use soaring](https://www.axios.com/2026/06/30/google-ai-boom-emissions-power-use)**
 
-Bradley Tusk says consumers won’t rally behind the technology.
-
-Yahoo • 20m ago
+Axios • 34m ago
 
 ---
 
-**[Mag 7 value shrinks by $2.3 trillion amid AI spending jitters — but investors are still backing chipmakers](https://www.cnbc.com/2026/06/30/magnificent-7-stocks-sell-off-investors-grow-jittery-on-ai-spending.html)**
+**[Gemini’s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)**
 
-Investors are growing jittery about massive AI spending by the Mag 7 and when these companies will produce a return on that investment.
+Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
 
-CNBC • 4h ago
-
----
-
-**[The AI boom's historical warning](https://www.axios.com/2026/06/30/ai-boom-bis-warning)**
-
-Axios • 5h ago
+TechCrunch • 20h ago
 
 ---
 
-**['Humanity has chosen to become idiots': This Brown professor switched to take-home exams after a mass shooting and discovered mass cheating](https://fortune.com/2026/06/29/roberto-serrano-brown-university-massacre-ai-cheating/)**
+**[Willy Wonka Competition Show at Netflix Uses AI to Re-Create Gene Wilder’s Voice](https://www.hollywoodreporter.com/tv/tv-news/netflix-willy-wonka-reality-show-ai-gene-wilder-voice-1236633800/)**
 
-Roberto Serrano literally wrote the book on game theory, but he's befuddled: "Why are you at a university if you refuse to learn, you refuse to work hard?"
+The streamer had the permission of the late actor's estate to generate the voiceover.
 
-Fortune • 16h ago
+The Hollywood Reporter • 30m ago
+
+---
+
+**[Cleveland Fed President Hammack sees AI fueling inflation, says rate hikes may be necessary](https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html)**
+
+"We've got inflation that's too high, and it's been too high for the past five years," Beth Hammack told CNBC's Sara Eisen.
+
+CNBC • 1h ago
 
 ---
 
@@ -183,15 +191,7 @@ Fortune • 16h ago
 
 Technology from American companies is being used to power a revolution in the scam industry, playing a key role in the industrialization and globalization of fraud in ways that have not been clear until now, an AP/“FRONTLINE” investigation has found.
 
-AP News • 9h ago
-
----
-
-**[How Microsoft became the black sheep of the AI trade](https://www.businessinsider.com/microsoft-stock-price-outlook-ai-trade-oracle-parallels-black-sheep-2026-6)**
-
-Shares are on pace to lose 18% in June, which would be Microsoft's worst month since 2000.
-
-Business Insider • 4h ago
+AP News • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Business Insider • 4h ago
 
 The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education
 
-⬆️ 543 • 💬 713 • 1d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
+⬆️ 544 • 💬 715 • 1d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
 
 ---
 
@@ -211,7 +211,7 @@ The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his 
 
 AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.
 
-⬆️ 491 • 💬 179 • 1d ago • [GitHub](https://github.com/librepods-org/librepods)
+⬆️ 493 • 💬 180 • 1d ago • [GitHub](https://github.com/librepods-org/librepods)
 
 ---
 
@@ -219,13 +219,13 @@ AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods 
 
 There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area
 
-⬆️ 399 • 💬 219 • 2d ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
+⬆️ 400 • 💬 220 • 2d ago • [Jay Acunzo](https://jayacunzo.com/blog/your-move-chief)
 
 ---
 
 **[Tidal AI Policy](https://news.ycombinator.com/item?id=48718840)**
 
-⬆️ 302 • 💬 342 • 1d ago • [tidal.com](https://tidal.com/ai-policy)
+⬆️ 302 • 💬 343 • 1d ago • [tidal.com](https://tidal.com/ai-policy)
 
 ---
 
@@ -241,7 +241,7 @@ There's a moment in the movie  Good Will Hunting  which perfectly summarizes all
 
 In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.
 
-⬆️ 173 • 💬 62 • 23h ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
+⬆️ 181 • 💬 64 • 1d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
 
 ---
 
@@ -249,7 +249,7 @@ In this essay, Carson Gross walks through a concrete bug fix in hyperscript to s
 
 Meta had sought more computing capacity than Google could provide, the Financial Times reports.
 
-⬆️ 159 • 💬 72 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
+⬆️ 160 • 💬 72 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
 
 ---
 
@@ -263,7 +263,7 @@ Reversal of ‘excessive’ tech investments could have serious economic consequ
 
 **[We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)**
 
-⬆️ 137 • 💬 84 • 1d ago
+⬆️ 138 • 💬 84 • 1d ago
 
 ---
 
@@ -279,33 +279,33 @@ Reversal of ‘excessive’ tech investments could have serious economic consequ
 
 ## YouTube Videos: "ai"
 
+**[Congress Got a Private Look at AI. The Reaction Was Chilling.](https://www.youtube.com/watch?v=z9zqqsS7848)**
+
+AI #Congress #OpenAI They saw the demo behind closed doors. They walked out shaken. Nobody will tell you what was in that ...
+
+📺 Rod Miller
+
+👁️ 5K • 👍 739 • 💬 184 • ⏱️ 28:59 • 13h ago
+
+---
+
+**[Your OS Changes Everything for Local AI](https://www.youtube.com/watch?v=QeAHC1jGxck)**
+
+One benchmark made me double-check my numbers. The rest tell a different story. Try out ChatLLM - http://chatllm.abacus.ai/ltf ...
+
+📺 Alex Ziskind
+
+👁️ 10K • 👍 678 • 💬 69 • ⏱️ 14:13 • 3h ago
+
+---
+
 **[Anthropic Just Confirmed It: The 2028 AI Warning Is Real](https://www.youtube.com/watch?v=j1xcsDxSb_Y)**
 
 Self-improving AI is starting to look real. Anthropic's Jack Clark put a 2028 timeline on recursive self-improvement, Google ...
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 141 • ⏱️ 13:32 • 1d ago
-
----
-
-**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
-
-Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
-
-📺 Curious Explorer
-
-👁️ 807K • 👍 3K • 💬 501 • ⏱️ 28:24 • 1d ago
-
----
-
-**[China’s AI Has Apple PANICKING, DeepSeek&#39;s Billions, and the Californication of Food | China Decode](https://www.youtube.com/watch?v=F2NefjHkHnE)**
-
-Alice Han and James Kynge dig into why Apple is lobbying the Trump administration for permission to buy memory chips from a ...
-
-📺 The Prof G Pod – Scott Galloway
-
-👁️ 9K • 👍 388 • 💬 66 • ⏱️ 50:13 • 6h ago
+👁️ 46K • 👍 1K • 💬 141 • ⏱️ 13:32 • 1d ago
 
 ---
 
@@ -315,7 +315,7 @@ We told a generation to "learn to code," and then AI rugpulled everyone. Welcome
 
 📺 TechLead
 
-👁️ 48K • 👍 2K • 💬 567 • ⏱️ 13:10 • 21h ago
+👁️ 50K • 👍 3K • 💬 580 • ⏱️ 13:10 • 23h ago
 
 ---
 
@@ -325,17 +325,7 @@ The $11 trillion AI bubble is reaching its breaking point. In this video, I'm sh
 
 📺 Steven Van Metre
 
-👁️ 42K • 👍 2K • 💬 178 • ⏱️ 16:05 • 16h ago
-
----
-
-**[U.S. eases restrictions on Anthropic&#39;s Mythos AI model](https://www.youtube.com/watch?v=RkN8TmQPPs4)**
-
-The Trump administration is allowing Anthropic to restore access to its Mythos 5 AI model for a select group of U.S. companies ...
-
-📺 CBS News
-
-👁️ 4K • 👍 36 • 💬 13 • ⏱️ 3:06 • 17h ago
+👁️ 43K • 👍 2K • 💬 183 • ⏱️ 16:05 • 18h ago
 
 ---
 
@@ -345,17 +335,17 @@ This episode is mainly about the U.S. government putting frontier AI behind a ga
 
 📺 Peter H. Diamandis
 
-👁️ 71K • 👍 2K • 💬 580 • ⏱️ 2:17:59 • 18h ago
+👁️ 78K • 👍 2K • 💬 561 • ⏱️ 2:17:59 • 20h ago
 
 ---
 
-**[The AI Bubble Just Ended - Without Popping](https://www.youtube.com/watch?v=0Pdd2__OHVQ)**
+**[Limiting access to top AI models in the U.S. could hand China an opening as capability gap narrows](https://www.youtube.com/watch?v=Jgmiy1tUjxI)**
 
-Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The AI Bubble ...
+CNBC's Deirdre Bosa reports on China's AI availability.
 
-📺 Heresy Financial
+📺 CNBC Television
 
-👁️ 26K • 👍 1K • 💬 138 • ⏱️ 6:52 • 1d ago
+👁️ 19K • 👍 255 • 💬 239 • ⏱️ 3:30 • 22h ago
 
 ---
 
@@ -365,17 +355,27 @@ Really American host Steve Harness breaks down everyone's favorite time of the w
 
 📺 Really American
 
-👁️ 58K • 👍 8K • 💬 364 • ⏱️ 12:26 • 1d ago
+👁️ 58K • 👍 8K • 💬 365 • ⏱️ 12:26 • 1d ago
 
 ---
 
-**[GPT 5.6 Sol Just Blew Up The AI World](https://www.youtube.com/watch?v=_AoyQcIoquA)**
+**[China’s AI Has Apple PANICKING, DeepSeek&#39;s Billions, and the Californication of Food | China Decode](https://www.youtube.com/watch?v=F2NefjHkHnE)**
 
-OpenAI just launched GPT 5.6, but this is not a normal release. Access is limited to trusted partners after U.S. government ...
+Alice Han and James Kynge dig into why Apple is lobbying the Trump administration for permission to buy memory chips from a ...
 
-📺 AI Revolution
+📺 The Prof G Pod – Scott Galloway
 
-👁️ 44K • 👍 1K • 💬 200 • ⏱️ 15:44 • 2d ago
+👁️ 14K • 👍 503 • 💬 78 • ⏱️ 50:13 • 8h ago
+
+---
+
+**[The AI Bubble Just Ended - Without Popping](https://www.youtube.com/watch?v=0Pdd2__OHVQ)**
+
+Get my free newsletter Letters From a Heretic: https://go.heresy.financial/letters-from-a-heretic TIMECODES 00:00 The AI Bubble ...
+
+📺 Heresy Financial
+
+👁️ 26K • 👍 1K • 💬 178 • ⏱️ 6:52 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 429,056 • ❤️ 1,442 • 2d ago
+⬇️ 429,056 • ❤️ 1,460 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 970,663 • ❤️ 1,015 • 1d ago
+⬇️ 970,663 • ❤️ 1,021 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 142,547 • ❤️ 2,998 • 7d ago
+⬇️ 142,547 • ❤️ 3,007 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 157,418 • ❤️ 509 • 4d ago
+⬇️ 157,418 • ❤️ 518 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 28,480 • ❤️ 454 • 5d ago
+⬇️ 28,480 • ❤️ 456 • 5d ago
 
 ---
 
@@ -451,7 +451,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 257,216 • ❤️ 870 • 11d ago
+⬇️ 257,216 • ❤️ 875 • 11d ago
 
 ---
 
@@ -463,7 +463,7 @@ Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse ar
 
 `text-to-image`
 
-⬇️ 45,668 • ❤️ 411 • 6d ago
+⬇️ 45,668 • ❤️ 415 • 7d ago
 
 ---
 
@@ -475,7 +475,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 99,359 • ❤️ 578 • 1d ago
+⬇️ 99,359 • ❤️ 581 • 2d ago
 
 ---
 
@@ -487,7 +487,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 98,750 • ❤️ 329 • 5d ago
+⬇️ 98,750 • ❤️ 330 • 5d ago
 
 ---
 
@@ -499,7 +499,7 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 26,151 • ❤️ 295 • 5d ago
+⬇️ 26,151 • ❤️ 298 • 5d ago
 
 ---
 
@@ -540,7 +540,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 102 • 💬 4 • ⭐ 89,799 • 18mo ago
+▲ 102 • 💬 4 • ⭐ 89,983 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -580,7 +580,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 11 • 💬 1 • ⭐ 9,794 • 5mo ago
+▲ 12 • 💬 1 • ⭐ 9,794 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -648,7 +648,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 68.6k • 🔱 3.5k • 14h ago
+⭐ 68.7k • 🔱 3.5k • 16h ago
 
 ---
 
@@ -658,7 +658,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.1k • 🔱 1.1k • 7m ago
+⭐ 11.1k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.7k • 🔱 716 • 3m ago
+⭐ 5.7k • 🔱 720 • 22m ago
 
 ---
 
@@ -678,7 +678,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.3k • 🔱 558 • 3h ago
+⭐ 4.4k • 🔱 565 • 5h ago
 
 ---
 
@@ -688,7 +688,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.2k • 🔱 191 • 2d ago
+⭐ 2.2k • 🔱 191 • 3d ago
 
 ---
 
@@ -708,7 +708,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 152 • 4d ago
+⭐ 1.7k • 🔱 153 • 4d ago
 
 ---
 
@@ -718,7 +718,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.6k • 🔱 77 • 8h ago
+⭐ 1.6k • 🔱 78 • 10m ago
 
 ---
 
@@ -738,7 +738,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.4k • 🔱 55 • 12h ago
+⭐ 1.4k • 🔱 54 • 15h ago
 
 ---
 
