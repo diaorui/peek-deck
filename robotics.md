@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-30T16:36:14.787457+00:00'
+updated: '2026-06-30T18:56:42.851473+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 30, 2026 at 16:36 UTC  
+**Last Updated:** June 30, 2026 at 18:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Sorry for the spam but he is such a good boy](https://www.reddit.com/r/robotics/comments/1uj16o3/sorry_for_the_spam_but_he_is_such_a_good_boy/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 servos (50kg torque) and 3x STS3215 servos (30kg torque).
 
-14h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 In LLMs, Attention Is All You Need is one of those papers everyone agrees is worth studying. What would be the equivalent in robotic manipulation or computer vision applied to robotics? (Besides Transformers, since that would basically take us back to AIAYN) Not necessarily SOTA with 200 GPUs lol I’m looking for a paper worth reproducing to really learn from it. Which one would you pick, and why?
 
-19h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ In LLMs, Attention Is All You Need is one of those papers everyone agrees is wor
 
 So I want to perform a material characterization study on a material where I need to put it under pressure. I’m in high school and don’t have a mentor or time to ask for access to university labs so I want to make something that can help me get data for cheap. I’m trying to make a linear actuator design and physically build all the parts myself (except for the motor and leadscrew system obviously) but I don’t extensively know how these types of things work. If I was to build something like this (pictures) would there be any significant issues? The cylinder (of which I don’t know what material to make out of) protruding out from the side would be directly connected to the sliding block part of my linear actuator so it pushes that down onto my material. I’m going to be pushing with 50lbs ish max so I’m making the majority of this out of wood. Any tips on making sure it doesn’t get worn out by some slight imperfection over the thousands of trials I’m going to need it for? And also any tips to make it work if something is seriously wrong 😭 And lastly any other tips about doing research studies like this without lab access or a significant mentor would be greatly appreciated.
 
-13h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello everyone, today we are opening Lucy to the r/robotics community. Lucy is a
 
 We have spent the past few weeks carefully annotating videos and experimenting with VLMs for subtask annotation. This type of annotation is incredibly important for long-horizon tasks, since robots need a more granular learning signal than high-level instructions like “clean your room.” We ran 50+ experiments, created a new diverse benchmark for this type of annotation, and built a pipeline that is 19x cheaper than humans. It works well as a first pass for labeling, speeding up human annotation and making it substantially cheaper. Blogpost about it is here: https://macrodata.co/blog/annotating-robot-video-subtasks
 
-19h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ We have spent the past few weeks carefully annotating videos and experimenting w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=T8thjPohz5g) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=T8thjPohz5g) • 17h ago
 
 ---
 
@@ -110,14 +110,6 @@ Follow-up to the v2 trajectory post and the noise characterization experiment. v
 
 ## Google News: "robotics"
 
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
-
-Factory-floor applications of the technology could significantly enhance rich-world economies
-
-Financial Times • 2d ago
-
----
-
 **[Mecka AI acquires Docula as it builds the data layer for robotics](https://betakit.com/mecka-ai-acquires-docula-as-it-builds-the-data-layer-for-robotics/)**
 
 The three-person Canadian AI startup is joining the majority-Canadian Mecka team.
@@ -126,11 +118,19 @@ BetaKit • 1d ago
 
 ---
 
-**[This $5.5 billion robotics startup built a school for humanoids](https://www.businessinsider.com/apptroniks-humanoid-robots-are-practicing-for-their-first-real-jobs-2026-6)**
+**[Nvidia vs. Qualcomm: Bernstein Chooses the Top Robotics AI Stock to Buy](https://www.tipranks.com/news/nvidia-vs-qualcomm-bernstein-chooses-the-top-robotics-ai-stock-to-buy)**
 
-At Robot Park in Austin, Apptronik's humanoid robots train for jobs in factories, warehouses, and homes.
+Humanoid robotics is expected to become one of the fastest-growing technology markets over the next decade. As companies race to build smarter robots, demand is als...
 
-Business Insider • 4h ago
+TipRanks • 1d ago
+
+---
+
+**[Soft-yet-firm robohand assesses the ripeness of produce that it picks](https://newatlas.com/robotics/robotic-hand-picks-produce-assesses-ripeness/)**
+
+Agriculture is one of the industries that is getting increasingly affected by robotics, which totally makes sense, as farmers around the world face human labor shortages and also rising labor costs. For some crops, labor accounts for almost 50% of production expenses.
+
+New Atlas • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ Business Insider • 4h ago
 
 When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
 
-CNN • 10h ago
+CNN • 12h ago
 
 ---
 
@@ -150,19 +150,19 @@ The New Yorker • 1d ago
 
 ---
 
+**[South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)**
+
+South Korea targets physical AI lead and commercial humanoid robots by 2028.
+
+Ars Technica • 21h ago
+
+---
+
 **[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
 
 Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
 
-Fox News • 5h ago
-
----
-
-**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
-
-Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
-
-NASA (.gov) • 5h ago
+Fox News • 7h ago
 
 ---
 
@@ -170,7 +170,15 @@ NASA (.gov) • 5h ago
 
 The U.S. has always led the world's great industrial leaps. Robotics is next — but only if Washington, industry, and workers move together.
 
-Fortune • 6h ago
+Fortune • 8h ago
+
+---
+
+**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
+
+Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
+
+NASA (.gov) • 7h ago
 
 ---
 
@@ -178,15 +186,7 @@ Fortune • 6h ago
 
 The firm expects 397,414 Q2 deliveries, below Tesla’s company-compiled consensus of 408,609.
 
-Yahoo Finance • 11h ago
-
----
-
-**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
-
-The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
-
-Baton Rouge Business Report • 1d ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -200,7 +200,7 @@ Female humanoid robots are getting so realistic that they are starting to cross 
 
 📺 Evolving AI
 
-👁️ 5K • 👍 72 • ⏱️ 10:47 • 1d ago
+👁️ 5K • 👍 75 • ⏱️ 10:47 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 868 • 👍 41 • 💬 7 • ⏱️ 3:05 • 6h ago
+👁️ 1K • 👍 51 • 💬 11 • ⏱️ 3:05 • 8h ago
 
 ---
 
@@ -220,17 +220,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 87K • 👍 5K • 💬 2K • ⏱️ 13:18 • 2d ago
-
----
-
-**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
-
-Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
-
-📺 The Daily Show
-
-👁️ 113K • 👍 4K • 💬 119 • ⏱️ 28:40 • 1d ago
+👁️ 88K • 👍 5K • 💬 2K • ⏱️ 13:18 • 2d ago
 
 ---
 
@@ -240,17 +230,17 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 53K • 👍 3K • 💬 200 • ⏱️ 23:57 • 3d ago
+👁️ 57K • 👍 3K • 💬 203 • ⏱️ 23:57 • 3d ago
 
 ---
 
-**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
 
-Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
 
-📺 Got Talent Global
+📺 The Daily Show
 
-👁️ 22K • 👍 346 • 💬 21 • ⏱️ 5:08 • 2d ago
+👁️ 120K • 👍 4K • 💬 119 • ⏱️ 28:40 • 1d ago
 
 ---
 
@@ -264,16 +254,6 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 ---
 
-**[AI Takeover: Will Robots Betray Us? Humanity&#39;s Downfall? #shorts](https://www.youtube.com/watch?v=_izL0KUEqPk)**
-
-Will AI remain loyal? Advanced AI will prioritize its own logic and survival over human commands. Discover what humanity's ...
-
-📺 UntouchableMindsetTV
-
-👁️ 742 • 👍 31 • ⏱️ 2:10 • 5h ago
-
----
-
 **[Rocket Lab Robotics](https://www.youtube.com/watch?v=1RF8EylqISc)**
 
 Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degree of freedom robotic arms, actuators, and ...
@@ -284,6 +264,16 @@ Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degr
 
 ---
 
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+
+📺 Got Talent Global
+
+👁️ 23K • 👍 353 • 💬 21 • ⏱️ 5:08 • 2d ago
+
+---
+
 **[Faraday Future’s NEW Robot World is INSANE! 🤯 (Humanoid, Robot Dog &amp; More)](https://www.youtube.com/watch?v=-jWpTC53PMw)**
 
 Faraday Future is known for its electric vehicles, but at Automate 2026 in Chicago, they're showcasing something completely ...
@@ -291,6 +281,16 @@ Faraday Future is known for its electric vehicles, but at Automate 2026 in Chica
 📺 KhanFlicks
 
 👁️ 6K • 💬 61 • ⏱️ 8:51 • 1d ago
+
+---
+
+**[Vulcan 🌋 Robot Spotlight — War Robots](https://www.youtube.com/watch?v=nqEXdBPgnG0)**
+
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+
+📺 War Robots [WR]
+
+👁️ 52K • 👍 2K • 💬 162 • ⏱️ 1:58 • 7h ago
 
 ---
 

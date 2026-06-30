@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T16:36:14.784572+00:00'
+updated: '2026-06-30T18:56:42.848195+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 16:36 UTC  
+**Last Updated:** June 30, 2026 at 18:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,99 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,565.80
+### $1,568.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -3.6%  
-**30d:** -22.0%  
-**90d:** -23.9%  
-**1y:** -34.9%  
+**24h:** -2.9%  
+**7d:** -2.7%  
+**30d:** -21.2%  
+**90d:** -23.2%  
+**1y:** -34.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $188.32B
+**Market Cap:** $190.31B
 Rank #2
 
 **Circulating Supply:** 120,683,443 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.5%
+-68.1%
 
 **All-Time Low:** $0.43
-+360289.3%
++364111.7%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion June 30, 2026](https://www.reddit.com/r/ethereum/comments/1ujfphl/daily_general_discussion_june_30_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+13h ago
+
+---
+
+**[What is the Ethereum Glamsterdam Upgrade? Everything You Need to Know](https://www.reddit.com/r/ethereum/comments/1ujo1lo/what_is_the_ethereum_glamsterdam_upgrade/)**
+
+6h ago
+
+---
+
+**[When your home bank card continues getting denied, what is the simplest way to pay for hotels or Uber overseas?](https://www.reddit.com/r/ethereum/comments/1ujobxe/when_your_home_bank_card_continues_getting_denied/)**
+
+I frequently experience this when traveling. The transaction is rejected, the card is flagged, and the bank must be contacted from a different time zone. truly draining. began storing cryptocurrency as a backup just for this purpose. discovered a crypto platform, which offers travel and mobility gift cards that can be purchased using cryptocurrency and sent instantaneously to Hotels.com, Uber, and airline platforms. Thus, in the event that my card is blocked, I can obtain a Bitcoin or Ethereum gift card and complete the reservation without having to deal with the bank. Does anyone else use this as a backup plan when traveling? I want to know if this is a frequent workaround or if there are better choices.
+
+6h ago
+
+---
+
+**[Daily General Discussion June 29, 2026](https://www.reddit.com/r/ethereum/comments/1uiixw7/daily_general_discussion_june_29_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[Daily General Discussion June 28, 2026](https://www.reddit.com/r/ethereum/comments/1uho4u1/daily_general_discussion_june_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
+**[Dappnode Home i764 For Sale (Unopened)](https://www.reddit.com/r/ethereum/comments/1uhljd0/dappnode_home_i764_for_sale_unopened/)**
+
+Hi all, I have an unopened Dappnode Home that I purchased in August of 2023 that I ended up not setting up because of internet and power reliability issues in my housing unit. I'm looking to rehome it for a reasonable price, basically just parts without Dappnode premium so it gets put to use. The specs are: CPU: Intel NUC i7 RAM: 64 GB DDR4 Storage: 4 TB NVMe SSD I also posted in Ethstaker and Dappnode Discords. Happy to send pictures, order confirmation, and whatever else you'd like to see. I'm @pompeyplottin on Discord and Twitter as well, thanks.
+
+2d ago
+
+---
+
+**[I built a ZK + BLS-based customs clearance prototype on L2 — looking for feedback on the on-chain verification architecture.](https://www.reddit.com/r/ethereum/comments/1uh8lq7/i_built_a_zk_blsbased_customs_clearance_prototype/)**
+
+The problem: Single-authority customs approval is a rational bribery target. One official, one decision, predictable cost. The incentive structure is broken by design. Game theory layer: UBLP changes the incentive structure before any cryptography kicks in: - 2/3 committee threshold required (Byzantine fault tolerant) - Committee members have conflicting interests by design - Any anomalous signing pattern is visible on-chain Corrupting the system is no longer a cost-benefit calculation — it becomes a coordination problem that defeats itself. On-chain verification: L2 smart contract verifies two independent proofs at settlement: BLS12-381 aggregate signature — 2/3 committee threshold SP1 Groth16 ZK proof — document validity + holder privacy Neither alone is sufficient for settlement. The contract independently verifies both before writing the immutable record. L2 → Ethereum mainnet anchoring: Settlement records are written to L2. L2 periodically commits a batch proof to Ethereum mainnet — inheriting Ethereum's security guarantees without paying mainnet gas per document. Each customs clearance is ultimately anchored to Ethereum's consensus. Tampering with a settled record requires breaking both the L2 and Ethereum mainnet — economically infeasible. This is the finality layer: L2 handles throughput, Ethereum handles trust. ZK circuit (SP1 zkVM): Private inputs (never leave the circuit): - ministry_signature — P-256 ECDSA, 64 byte - holder_signature — P-256 ECDSA, 64 byte - holder_pub_key_raw — uncompressed SEC1, 65 byte - document_hash — SHA256("ublp-doc-v1:" + canonicalJson), 32 byte - ministry_pub_key_raw — uncompressed SEC1, 65 byte - document_id_hash — 32 byte Public outputs (verified on L2): - document_hash — document fingerprint - ministry_pub_key_hash — ministry key commitment - document_id_hash — replay protection - holder_pub_key_hash — holder identity proof without identity exposure Architecture: - Ministry signs document (EC P-256 ECDSA) → issues Verifiable Credential - Agent generates ZK proof via SP1 zkVM (Groth16/PLONK) - Independent committee verifies ZK proof, then BLS12-381 threshold signs (2/3) - L2 smart contract verifies both → immutable settlement Open questions I'd love feedback on: Is verifying both BLS + ZK on L2 the right approach, or should BLS verification move inside the ZK circuit? BLS 2/3 threshold — right model for this trust setup? Agent-first flow: committee never sees raw document, only the ZK proof — any attack vectors I'm missing? Domain-separated document hash `SHA256("ublp-doc-v1:" + canonicalJson)` — idiomatic for this use case? Security model — if you spot any attack vectors, trust assumption violations, or cryptographic weaknesses I haven't considered, please flag them. This is a prototype and I'd rather find the holes here than later. This is a prototype — mock ZK in dev mode, real SP1 in prod mode. GitHub: github.com/ekacin/UBLP
+
+3d ago
+
+---
+
+**[Daily General Discussion June 27, 2026](https://www.reddit.com/r/ethereum/comments/1ugtj0j/daily_general_discussion_june_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
 
 **[Daily General Discussion June 26, 2026](https://www.reddit.com/r/ethereum/comments/1ufx7b9/daily_general_discussion_june_26_2026/)**
 
@@ -84,85 +146,13 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 ---
 
-**[Daily General Discussion June 25, 2026](https://www.reddit.com/r/ethereum/comments/1uf0kf5/daily_general_discussion_june_25_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[Ethereum Encrypted Mempool: Progress, Challenges &amp; the Road to Hegota](https://www.reddit.com/r/ethereum/comments/1uf5pgw/ethereum_encrypted_mempool_progress_challenges/)**
-
-Explore Ethereum's encrypted mempool, LUCID, FOCIL, and Hegota upgrade to understand how they could reduce MEV, strengthen censorship resistance, and reshape Ethereum's transaction pipeline.
-
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-encrypted-mempool-progress-challenges-the-road-to-hegota/) • 5d ago
-
----
-
-**[An Overview of Validator Redirected Revenue](https://www.reddit.com/r/ethereum/comments/1uf2gy6/an_overview_of_validator_redirected_revenue/)**
-
-Explore Validator Redirected Revenue (VRR), a proposal that could enable Ethereum validators to redirect staking rewards toward sustainable public goods funding while balancing decentralization, governance, and long-term ecosystem growth.
-
-🔗 [EtherWorld.co](https://etherworld.co/an-overview-of-validator-redirected-revenue/) • 5d ago
-
----
-
-**[Daily General Discussion June 24, 2026](https://www.reddit.com/r/ethereum/comments/1ue43io/daily_general_discussion_june_24_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-6d ago
-
----
-
-**[Ethereum Foundation cuts 20% of staff in sweeping restructure](https://www.reddit.com/r/ethereum/comments/1udobkh/ethereum_foundation_cuts_20_of_staff_in_sweeping/)**
-
-The overhaul, described by the Foundation as the conclusion of a process tied to its updated mandate and treasury policy, reorganises the organisation into protocol, access, user, community, and institutional layers, alongside operations and management clusters.
-
-🔗 [Yahoo Finance](https://uk.finance.yahoo.com/news/ethereum-foundation-cuts-20-staff-162610102.html) • 6d ago
-
----
-
-**[Ethereum’s New Research Non-Profit Sparks a Funding Feud](https://www.reddit.com/r/ethereum/comments/1uek383/ethereums_new_research_nonprofit_sparks_a_funding/)**
-
-Ethereum’s new research venture seems like a two-sided sword as the globe’s largest altcoin plummets below $1.7K.
-
-🔗 [DailyCoin](https://dailycoin.com/ethereums-new-research-non-profit-sparks-a-funding-feud/) • 5d ago
-
----
-
-**[Daily General Discussion June 23, 2026](https://www.reddit.com/r/ethereum/comments/1ud7pyz/daily_general_discussion_june_23_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-7d ago
-
----
-
-**[Daily General Discussion June 22, 2026](https://www.reddit.com/r/ethereum/comments/1ucbawr/daily_general_discussion_june_22_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-8d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Is Ethereum's Golden Goose Finally Cooked?](https://www.fool.com/investing/2026/06/29/is-ethereums-golden-goose-finally-cooked/)**
+**[Bitmine Acquires $43 Million Of Ethereum As Price Slides](https://finance.yahoo.com/markets/crypto/articles/bitmine-acquires-43-million-ethereum-134200182.html)**
 
-Sentiment about the coin is in the dumps, and it's no surprise why.
-
-The Motley Fool • 12h ago
-
----
-
-**[Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-43-151316356.html)**
-
-BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
+Bitmine Immersion Technologies (NYSE: $BMNR) bought another 27,084 of Ethereum (CRYPTO: $ETH) over the past week as...
 
 Yahoo Finance • 1d ago
 
@@ -184,27 +174,43 @@ The Block • 1d ago
 
 ---
 
+**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum and AI](https://finance.yahoo.com/video/why-bit-digital-sold-bitcoin-161700292.html)**
+
+Bit Digital CEO Sam Tabar explains why now is the time for Ethereum DATs to evolve
+
+Yahoo Finance • 2h ago
+
+---
+
 **[What to Expect From Ethereum (ETH) in July 2026](https://finance.yahoo.com/markets/crypto/articles/expect-ethereum-eth-july-2026-160000417.html)**
 
 ETH holds near $1,570 as whale buying clashes with a bearish trend. Here is what could decide ETH in July 2026.
 
-Yahoo Finance • 36m ago
-
----
-
-**[Current price of Ethereum for June 30, 2026](https://fortune.com/article/price-of-ethereum-06-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
-
----
-
-**[Solana Looks More Alive and Well Than Ethereum: Here’s Why](https://finance.yahoo.com/markets/crypto/articles/solana-looks-more-alive-well-135502119.html)**
-
-Solana outperforms Bitcoin and Ethereum as tokenized stock and meme coin trading activity climb across the network.
-
 Yahoo Finance • 2h ago
+
+---
+
+**[Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak](https://finance.yahoo.com/markets/crypto/articles/sharplink-buys-ethereum-first-time-155401841.html)**
+
+Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
+
+TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
+
+TradingView • 1h ago
+
+---
+
+**[Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption](https://www.theblock.co/post/406492/loopring-sunsets-dex)**
+
+Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
+
+The Block • 1d ago
 
 ---
 
@@ -220,15 +226,7 @@ CoinDesk • 1d ago
 
 Tom Lee points to quarter-end window dressing amid Ethereum's 8% drop as Bitmine and SharpLink buy ETH into weakness.
 
-BeInCrypto • 12h ago
-
----
-
-**[Bitcoin And Ethereum ETFs Extend Outflow Streak As Funds Shed $261 Million](https://www.tradingview.com/news/newsbtc:5a7eea7e1094b:0-bitcoin-and-ethereum-etfs-extend-outflow-streak-as-funds-shed-261-million/)**
-
-TL;DRU.S. crypto ETFs are still under pressure, with fresh data showing another day of redemptions across both Bitcoin and Ethereum products. Spot Bitcoin ETFs saw roughly $231 million in net outflows, while spot Ethereum ETFs recorded about $30 million in outflows during the same session.The figur…
-
-TradingView • 3h ago
+BeInCrypto • 14h ago
 
 ---
 
@@ -242,7 +240,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 112 • ⏱️ 11:49 • 17h ago
+👁️ 41K • 👍 2K • 💬 127 • ⏱️ 11:49 • 20h ago
 
 ---
 
@@ -252,17 +250,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 137 • 💬 61 • ⏱️ 41:52 • 21h ago
-
----
-
-**[The New Plan to Make Ethereum Win](https://www.youtube.com/watch?v=9rYyZaO0-EI)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum has a new R&D lab, ...
-
-📺 Bankless
-
-👁️ 8K • 👍 262 • 💬 51 • ⏱️ 1:01:02 • 1d ago
+👁️ 5K • 👍 144 • 💬 62 • ⏱️ 41:52 • 1d ago
 
 ---
 
@@ -272,17 +260,17 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 4K • 👍 91 • 💬 19 • ⏱️ 5:59 • 20h ago
+👁️ 4K • 👍 96 • 💬 19 • ⏱️ 5:59 • 22h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
+**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum &amp; AI](https://www.youtube.com/watch?v=heyjP_yj3DI)**
 
-Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
+The first generation of crypto treasury companies was all about accumulating digital assets. But according to Bit Digital CEO Sam ...
 
-📺 Thomas Kralow
+📺 Coinage
 
-👁️ 15K • 👍 1K • 💬 24 • ⏱️ 9:18 • 1d ago
+👁️ 60 • 👍 1 • 💬 1 • ⏱️ 17:46 • 2h ago
 
 ---
 
@@ -292,7 +280,27 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 117 • ⏱️ 9:55 • 1d ago
+👁️ 57K • 👍 2K • 💬 118 • ⏱️ 9:55 • 1d ago
+
+---
+
+**[The New Plan to Make Ethereum Win](https://www.youtube.com/watch?v=9rYyZaO0-EI)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum has a new R&D lab, ...
+
+📺 Bankless
+
+👁️ 8K • 👍 271 • 💬 52 • ⏱️ 1:01:02 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
+
+Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
+
+📺 Thomas Kralow
+
+👁️ 15K • 👍 1K • 💬 33 • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -302,7 +310,7 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ether
 
 📺 HKCM
 
-👁️ 2K • 👍 237 • 💬 13 • ⏱️ 17:42 • 35m ago
+👁️ 7K • 👍 922 • 💬 47 • ⏱️ 17:42 • 2h ago
 
 ---
 
@@ -312,25 +320,17 @@ Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 9K • 👍 360 • 💬 12 • ⏱️ 1:06 • 1d ago
+👁️ 9K • 👍 361 • 💬 12 • ⏱️ 1:06 • 2d ago
 
 ---
 
-**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
+**[Ethereum बनेगा Bitcoin का बाप? | Ethereum Vs Bitcoin | SAGAR SINHA](https://www.youtube.com/watch?v=wyt5heRVQGM)**
 
-JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
+CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...
 
-📺 Trade Confident
+📺 Sagar Sinha 
 
-👁️ 262 • 👍 13 • 💬 9 • ⏱️ 5:31 • 21h ago
-
----
-
-**[$52,000 BITCOIN INCOMING $0.99 XRP $1300 ETH #bitcoin #memecoin #solana #crypto #xrp](https://www.youtube.com/watch?v=HV-RwdCv2ZQ)**
-
-📺 CryptoWendyO
-
-👁️ 12K • 👍 406 • 💬 31 • ⏱️ 1:00 • 1d ago
+👁️ 82K • 👍 3K • 💬 662 • ⏱️ 21:19 • 2d ago
 
 ---
 
