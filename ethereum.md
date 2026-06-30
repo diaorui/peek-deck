@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T00:04:57.735318+00:00'
+updated: '2026-06-30T04:45:20.026628+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 00:04 UTC  
+**Last Updated:** June 30, 2026 at 04:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,614.79
+### $1,592.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** -0.6%  
-**30d:** -19.5%  
-**90d:** -21.6%  
-**1y:** -32.9%  
+**24h:** +0.4%  
+**7d:** -2.1%  
+**30d:** -20.7%  
+**90d:** -22.8%  
+**1y:** -33.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $194.32B
+**Market Cap:** $191.42B
 Rank #2
 
-**Circulating Supply:** 120,683,477 ETH
+**Circulating Supply:** 120,683,443 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.4%
+-67.9%
 
 **All-Time Low:** $0.43
-+371788.7%
++366146.4%
 
 ---
 
@@ -152,27 +152,59 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys](https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys)**
+**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
 
-BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.
+Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
 
-Decrypt • 8h ago
-
----
-
-**[Bitcoin and ethereum prices today, Monday, June 29, 2026: Prices continue to move lower](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-june-29-2026-prices-continue-to-move-lower-132348850.html)**
-
-Bitcoin opened at $59,496.48 on Monday, June 29, 2026, 0.7% lower than Sunday's opening price. As of 8:50 a.m. ET, the price of bitcoin moved up to $59,813.02. Ethereum opened at $1,569.67 on Monday, June 29, 2026, down 0.1% from Sunday's opening price. Ethereum moved slightly higher this morning to $1,572.89 as of 8:50 a.m. ET.
-
-Yahoo Finance • 10h ago
+The Block • 13h ago
 
 ---
 
-**[Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption](https://www.theblock.co/post/406492/loopring-sunsets-dex)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.70 Million Tokens, and Total Crypto and Total Cash Holdings of $9.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-70-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-8-billion-302812787.html)**
 
-Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.
+Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine was added to the...
 
-The Block • 16h ago
+PR Newswire • 16h ago
+
+---
+
+**[Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
+
+Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
+
+CoinDesk • 9h ago
+
+---
+
+**[1 Company Now Holds Nearly 5% of All Ethereum. That's An Obvious Sell Signal](https://finance.yahoo.com/markets/crypto/articles/1-company-now-holds-nearly-043500204.html)**
+
+BitMine has, as planned, amassed a large position in Ethereum, a high-risk bet on a single cryptocurrency.
+
+Yahoo Finance • 3d ago
+
+---
+
+**[Bitmine Acquires $43 Million Of Ethereum As Price Slides](https://finance.yahoo.com/markets/crypto/articles/bitmine-acquires-43-million-ethereum-134200182.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) bought another 27,084 of Ethereum (CRYPTO: $ETH) over the past week as...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Is Ethereum's Golden Goose Finally Cooked?](https://finance.yahoo.com/markets/crypto/articles/ethereums-golden-goose-finally-cooked-032100112.html)**
+
+Sentiment about the coin is in the dumps, and it's no surprise why.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, Ethereum Gain, XRP, Dogecoin Flat As Trump Announces Next Round Of US-Iran Talks: Analyst Flags Signal Marking 'Generational Buying Opportunities'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-gain-xrp-dogecoin-020434418.html)**
+
+Leading cryptocurrencies pared losses Monday, while stocks closed higher as investors priced in a further easing of tensions between the U.S. and Iran following weekend hostilities. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:30 p.m. EDT)Bitcoin (CRYPTO: BTC)+1.00%$59,872.36Ethereum (CRYPTO: ETH) +1.99%$1,594.33XRP (CRYPTO: XRP) +0.75%$1.04Solana (CRYPTO: SOL) +4.42%$74.24Dogecoin (CRYPTO: DOGE) -0.25%$0.07242 Crypto Market Recoups Losses Bitcoin rose in the early trading hours, but fail
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +212,7 @@ The Block • 16h ago
 
 The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
 
-CoinDesk • 11h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -188,15 +220,7 @@ CoinDesk • 11h ago
 
 Ethereum, the second-largest blockchain by market capitalization, fell roughly 25% in June amid a corporate restructuring. The correction stands out less
 
-PYMNTS.com • 50m ago
-
----
-
-**[Institutions Cut Bitcoin And Ethereum ETF Exposure But Keep Buying XRP And HYPE](https://www.tradingview.com/news/newsbtc:2d5cb5d7a094b:0-institutions-cut-bitcoin-and-ethereum-etf-exposure-but-keep-buying-xrp-and-hype/)**
-
-For more details, visit the official Cryptoslate platform.TL;DRInstitutions Are Not Just Buying Or Selling Crypto As One TradeInstitutional investors reportedly reduced exposure to Bitcoin and Ethereum ETF products while still adding to XRP and HYPE-linked wrappers.That is a more interesting story…
-
-TradingView • 6h ago
+PYMNTS.com • 5h ago
 
 ---
 
@@ -204,31 +228,7 @@ TradingView • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC rebounds, ETH and XRP defend key support following recent correction](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-rebounds-eth-and-xrp-defend-key-support-following-recent-correction-202606290345)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Monday after a correction of nearly 6%, 8% and 7%, respectively, over the previous week.
-
-FXStreet • 20h ago
-
----
-
-**[Bitcoin, Ethereum Price Hit New 2026 Lows as Big Tech, AI Sell-Off](https://coinmarketcap.com/academy/article/btc-eth-big-tech-ai-sell-off-new-2026-lows)**
-
-AI and Big Tech stocks sold off, and Strategy’s $16 billion unrealized loss added to investors’ concern that Bitcoin could sink lower next week.
-
-CoinMarketCap • 16h ago
-
----
-
-**[BitMine Expands Ethereum Treasury and Joins Russell 1000](https://www.tipranks.com/news/company-announcements/bitmine-expands-ethereum-treasury-and-joins-russell-1000)**
-
-An update from BitMine Immersion Technologies ( ($BMNR) ) is now available. On June 29, 2026, Bitmine reported that as of June 28 it held 5.70 million ETH, represen...
-
-TipRanks • 10h ago
+Fortune • 15h ago
 
 ---
 
@@ -236,23 +236,23 @@ TipRanks • 10h ago
 
 ## YouTube Videos: "ethereum"
 
-**[The Secret War That Could Make Ethereum Explode w/ John Gillen](https://www.youtube.com/watch?v=b0hzBtXhk3Q)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 68 • 💬 41 • ⏱️ 41:52 • 5h ago
-
----
-
 **[BIGGEST CRYPTO NEWS HAPPENING NOW (JPMorgan, Clarity, Saylor, Ethereum)](https://www.youtube.com/watch?v=qS34CLtPpOo)**
 
 JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 407 • 💬 23 • ⏱️ 11:49 • 1h ago
+👁️ 16K • 👍 1K • 💬 72 • ⏱️ 11:49 • 5h ago
+
+---
+
+**[The Secret War That Could Make Ethereum Explode w/ John Gillen](https://www.youtube.com/watch?v=b0hzBtXhk3Q)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 97 • 💬 54 • ⏱️ 41:52 • 10h ago
 
 ---
 
@@ -262,17 +262,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 201 • 💬 42 • ⏱️ 1:01:02 • 13h ago
-
----
-
-**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
-
-Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
-
-📺 Thomas Kralow
-
-👁️ 13K • 👍 1K • 💬 22 • ⏱️ 9:18 • 13h ago
+👁️ 6K • 👍 221 • 💬 46 • ⏱️ 1:01:02 • 18h ago
 
 ---
 
@@ -282,17 +272,7 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 471 • 👍 24 • 💬 1 • ⏱️ 5:59 • 3h ago
-
----
-
-**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
-
-JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
-
-📺 Trade Confident
-
-👁️ 158 • 👍 11 • 💬 5 • ⏱️ 5:31 • 5h ago
+👁️ 2K • 👍 58 • 💬 43 • ⏱️ 5:59 • 8h ago
 
 ---
 
@@ -302,7 +282,17 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 123 • ⏱️ 9:55 • 1d ago
+👁️ 55K • 👍 2K • 💬 112 • ⏱️ 9:55 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=iTfXiORo_2w)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 259 • 👍 48 • ⏱️ 7:28 • 1h ago
 
 ---
 
@@ -312,25 +302,37 @@ Is XRP valuation set to overtake Ethereum? Get the facts on the latest SEC docum
 
 📺 Crypto Sensei
 
-👁️ 15K • 👍 806 • 💬 91 • ⏱️ 21:39 • 1d ago
+👁️ 15K • 👍 808 • 💬 85 • ⏱️ 21:39 • 1d ago
 
 ---
 
-**[$52,000 BITCOIN INCOMING $0.99 XRP $1300 ETH #bitcoin #memecoin #solana #crypto #xrp](https://www.youtube.com/watch?v=HV-RwdCv2ZQ)**
+**[Ethereum Bull Trap Before The Real Bottom Hits?](https://www.youtube.com/watch?v=fcm_82uhlGQ)**
 
-📺 CryptoWendyO
+JULY 4TH SALE: UP TO $800 Off Our Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off ...
 
-👁️ 11K • 👍 375 • 💬 26 • ⏱️ 1:00 • 23h ago
+📺 Trade Confident
+
+👁️ 210 • 👍 13 • 💬 5 • ⏱️ 5:31 • 9h ago
 
 ---
 
-**[WHY ETH CAN RALLY THIS WEEK! (Ethereum Update)](https://www.youtube.com/watch?v=BMkEGkSxEao)**
+**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
 
-📺 Cilinix Crypto
+📺 Thomas Kralow
 
-👁️ 212 • 👍 11 • 💬 3 • ⏱️ 5:18 • 13h ago
+👁️ 14K • 👍 1K • 💬 22 • ⏱️ 9:18 • 18h ago
+
+---
+
+**[Ethereum Just Gave A Bullish Signal 🚀](https://www.youtube.com/watch?v=SoQCYfmbE3k)**
+
+Ethereum Just Gave A Bullish Signal ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+
+📺 Stocks with Josh
+
+👁️ 9K • 👍 357 • 💬 12 • ⏱️ 1:06 • 1d ago
 
 ---
 
