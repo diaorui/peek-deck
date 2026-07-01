@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-01T03:58:55.885713+00:00'
+updated: '2026-07-01T08:19:03.409295+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 01, 2026 at 03:58 UTC  
+**Last Updated:** July 01, 2026 at 08:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the back-drivability is wild. Just for context: we were getting super annoyed with stripping the 3D-printed plastic gears on open-source rigs like the Berkeley Lite and ALOHA. They are awesome projects, but the plastic joints are fragile and a nightmare to maintain. So we designed this as a drop-in replacement (calling it the Starfruit Actuator). Instead of printing two different plastic joint types, we wanted a single unified metal design to simplify the BOM and actually survive dynamic loads. Specs we're rolling with for the final drop: 30:1 ratio (30 teeth, 31 pins) Dual absolute encoders (supports FOC & MIT modes) Fully ODrive-compatible Target price: ~$149 Next up is integrating the motor and driver board, then throwing it on the test bench to see if it survives a 76 Nm torque test without exploding. Fingers crossed lol. Let me know what you think of the machining! All the STEP files, ROS2 nodes, and configs are going to be 100% open source. I'll drop the project link in the comments if anyone wants to track the testing or grab the files when they go live.
 
-16h ago
+21h ago
 
 ---
 
 **[SLAM Camera Depth Test](https://www.reddit.com/r/robotics/comments/1ujhz0o/slam_camera_depth_test/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Hey guys. A couple months back I asked this sub for some reality checks on using
 
 This is my project, Mighty Camera. It is essentially a monocular SLAM camera running entirely on tiny onboard compute. See my past posts for details. Mighty also supports combining multiple cameras and synchronizing them to produce frame-level synced streams. In this setup, I’m using that hardware synchronization to generate depth with SGBM, while it also produces VIO pose.
 
-11h ago
+16h ago
 
 ---
 
@@ -58,13 +58,13 @@ This is my project, Mighty Camera. It is essentially a monocular SLAM camera run
 
 Some of you asked for the full pipeline code, so here it is. https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place
 
-10h ago
+14h ago
 
 ---
 
 **[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
 
-6h ago
+10h ago
 
 ---
 
@@ -78,7 +78,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 **[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
 
-7h ago
+11h ago
 
 ---
 
@@ -108,19 +108,9 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[Richtech Robotics (RR) Launches Live, 24/7 Interactive Streaming Platform Built Around ADAM, The Company’s AI-Powered Humanoid Robot](https://finance.yahoo.com/technology/ai/articles/richtech-robotics-rr-launches-live-020406700.html)**
+**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-Given its significant hedge fund backing and attractive upside potential, Richtech Robotics Inc. (NASDAQ:RR) is one of the most promising robotics stocks. Richtech Robotics Inc. (NASDAQ:RR) is advancing on two fronts at once, putting its humanoid robot in front of a global audience while laying down the physical infrastructure to scale its AI and robotics […]
-
-Yahoo Finance • 1d ago
-
----
-
-**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
-
-When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
-
-CNN • 21h ago
+South China Morning Post • 6h ago
 
 ---
 
@@ -128,15 +118,23 @@ CNN • 21h ago
 
 Robotics maker bets on realism to answer demand for companionship, counseling
 
-Nikkei Asia • 9h ago
+Nikkei Asia • 13h ago
 
 ---
 
-**[Ambi Robotics and Pickle Robot Deliver Integrated Physical AI Solution to Fully Automate Inbound Logistics](https://www.businesswire.com/news/home/20260630502727/en/Ambi-Robotics-and-Pickle-Robot-Deliver-Integrated-Physical-AI-Solution-to-Fully-Automate-Inbound-Logistics)**
+**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
 
-Ambi Robotics and Pickle Robot Deliver Integrated Physical AI Solution to Fully Automate Inbound Logistics
+When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
 
-Business Wire • 16h ago
+CNN • 1d ago
+
+---
+
+**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
+
+Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
+
+Fox News • 20h ago
 
 ---
 
@@ -144,15 +142,7 @@ Business Wire • 16h ago
 
 Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
 
-NASA (.gov) • 16h ago
-
----
-
-**[Boston Dynamics CEO: America's next 250 years will be built by robots. Here's what's standing in the way](https://fortune.com/2026/06/30/boston-dynamics-ceo-robots-america-national-strategy-amanda-mcmaster/)**
-
-The U.S. has always led the world's great industrial leaps. Robotics is next — but only if Washington, industry, and workers move together.
-
-Fortune • 12h ago
+NASA (.gov) • 21h ago
 
 ---
 
@@ -160,7 +150,15 @@ Fortune • 12h ago
 
 Japan's industry ministry says it aims to introduce about 10 million AI-equipped robots across 18 sectors by 2040 amid the country's growing labor shortage.
 
-nhk.or.jp • 11h ago
+nhk.or.jp • 20h ago
+
+---
+
+**[Boston Dynamics CEO: America's next 250 years will be built by robots. Here's what's standing in the way](https://fortune.com/2026/06/30/boston-dynamics-ceo-robots-america-national-strategy-amanda-mcmaster/)**
+
+The U.S. has always led the world's great industrial leaps. Robotics is next — but only if Washington, industry, and workers move together.
+
+Fortune • 17h ago
 
 ---
 
@@ -176,15 +174,15 @@ Baton Rouge Business Report • 1d ago
 
 When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]
 
-NVIDIA Blog • 12h ago
+NVIDIA Blog • 17h ago
 
 ---
 
-**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
+**[Better to use (and lose) robots than soldiers: Ukraine’s UGV drive](https://www.aspistrategist.org.au/better-to-use-and-lose-robots-than-soldiers-ukraines-ugv-drive/)**
 
-Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
+In fighting an asymmetric war against a much larger adversary, Ukraine has sought to leverage technology wherever possible. First came the proliferation of first-person-view (FPV) drones across the battlefield. Now, uncrewed ground vehicles (UGVs) are ...
 
-Fox News • 16h ago
+The Strategist | ASPI's analysis and commentary site • 1d ago
 
 ---
 
@@ -192,23 +190,13 @@ Fox News • 16h ago
 
 ## YouTube Videos: "robotics"
 
-**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
-
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
-
-📺 OTOFOOTAGE
-
-👁️ 4K • 👍 80 • 💬 26 • ⏱️ 3:05 • 17h ago
-
----
-
 **[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
 China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
 
 📺 Prime Insights
 
-👁️ 449K • 👍 13K • 💬 1K • ⏱️ 24:13 • 3d ago
+👁️ 450K • 👍 13K • 💬 1K • ⏱️ 24:13 • 3d ago
 
 ---
 
@@ -218,7 +206,27 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 📺 Tech Revolution
 
-👁️ 39K • 👍 816 • 💬 67 • ⏱️ 21:30 • 6d ago
+👁️ 39K • 👍 817 • 💬 67 • ⏱️ 21:30 • 6d ago
+
+---
+
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+
+📺 South China Morning Post
+
+👁️ 5K • 👍 240 • 💬 83 • ⏱️ 3:59 • 6h ago
+
+---
+
+**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
+
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+
+📺 OTOFOOTAGE
+
+👁️ 5K • 👍 106 • 💬 43 • ⏱️ 3:05 • 22h ago
 
 ---
 
@@ -238,17 +246,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 26K • 👍 379 • 💬 22 • ⏱️ 5:08 • 2d ago
-
----
-
-**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
-
-Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
-
-📺 The Daily Show
-
-👁️ 141K • 👍 4K • 💬 135 • ⏱️ 28:40 • 1d ago
+👁️ 27K • 👍 385 • 💬 22 • ⏱️ 5:08 • 2d ago
 
 ---
 
@@ -258,7 +256,7 @@ Female humanoid robots are getting so realistic that they are starting to cross 
 
 📺 Evolving AI
 
-👁️ 5K • 👍 90 • ⏱️ 10:47 • 2d ago
+👁️ 5K • 👍 93 • ⏱️ 10:47 • 2d ago
 
 ---
 
@@ -268,25 +266,27 @@ Robotics is a booming business, but it's not all about upstarts. There's a $150 
 
 📺 The Motley Fool
 
-👁️ 5K • 👍 161 • 💬 3 • ⏱️ 11:26 • 2d ago
+👁️ 5K • 👍 166 • 💬 3 • ⏱️ 11:26 • 2d ago
 
 ---
 
-**[My new robot just mastered the hexagon wall!😱#robot #robotics #robotdance #ruko #outdoors](https://www.youtube.com/watch?v=X_9KmKtiPZY)**
+**[🔴 War Robots: ¡VULCAN is the new Best  META ROBOT! 😱 [Lumen] Gameplay](https://www.youtube.com/watch?v=SYJK8-nUIG4)**
 
-📺 Smarttoy Ruko
+warrobots #robotgame #warrobotsgameplay War Robots: ¡VULCAN is the new Best META ROBOT! [Lumen] Gameplay.
 
-👁️ 2K • 👍 23 • 💬 1 • ⏱️ 0:25 • 14h ago
+📺 Skilled Gaming WR
+
+👁️ 4K • 👍 131 • 💬 18 • ⏱️ 22:05 • 15h ago
 
 ---
 
-**[China’s IRON Humanoid Robot. #shorts](https://www.youtube.com/watch?v=ECKNqW7eeFg)**
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
 
-China's XPENG IRON humanoid robot is incredibly lifelike. But at India's AI Summit, a university showcased a Chinese robot dog ...
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
 
-📺 Nothing But Karan
+📺 brenpoly
 
-👁️ 24K • 💬 24 • ⏱️ 0:51 • 1d ago
+👁️ 73K • 👍 4K • 💬 239 • ⏱️ 23:57 • 3d ago
 
 ---
 
