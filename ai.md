@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-01T11:38:28.923402+00:00'
+updated: '2026-07-01T14:37:39.176217+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 01, 2026 at 11:38 UTC  
+**Last Updated:** July 01, 2026 at 14:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,29 @@ AI news, discussions, and developments
 
 Hi, I have been working on this for many months now and I'd really be happy for people to try it out. It is a Chrome extension called "PopUpFactCheck". It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. It's free, and you don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFact Check - Chrome Web Store PopUpFactCheck - Homepage
 
-10h ago
+13h ago
 
 ---
 
 **[Are Redditors influencing AI the most?](https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/)**
 
-18h ago
+21h ago
+
+---
+
+**[What's the best Amharic text to speech today?](https://www.reddit.com/r/artificial/comments/1ukmher/whats_the_best_amharic_text_to_speech_today/)**
+
+I'm looking for an Amharic text-to-speech service that sounds natural enough for YouTube narration. ​I've tried a few options like elevenlabs,speechify but non of them support amharic. ​If you've used one for videos, which service gave you the best results? ​I'm fine with both paid and free recommendations.
+
+38m ago
+
+---
+
+**[What's one AI feature that quietly became part of your daily routine?](https://www.reddit.com/r/artificial/comments/1ukld2m/whats_one_ai_feature_that_quietly_became_part_of/)**
+
+Not the flashy stuff like generating images or writing essays. I'm talking about the feature you barely think about anymore because it's just become useful. For me, it's summarizing long articles and emails. I didn't expect to rely on it this much a year ago. What's yours?
+
+1h ago
 
 ---
 
@@ -55,15 +71,7 @@ Hi, I have been working on this for many months now and I'd really be happy for 
 
 While building agent-based systems with LLM tool use, I kept running into the same failure mode: External content (webpages, files, API responses) would eventually influence agent behavior in unintended ways. Prompt injection isn’t just a “filtering problem” it’s an architectural one. So I built Sentinel Gateway, a middleware layer that sits between agents and tools and enforces a strict separation: Instruction channel (trusted, signed, runtime-issued only) Data channel (untrusted, never executable) Any action an agent takes must be backed by a signed, scoped runtime token, which means: external content cannot escalate into instructions tool calls cannot be influenced by injected payloads agent actions are constrained to explicit permissions It’s designed around the idea that: What it currently supports FastAPI-based agent gateway Streamlit UI for inspection and control Claude sessions + external agent integration Runtime-signed tool execution tokens Audit logging of all agent actions Scheduled tasks + memory tiers Local (SQLite) or Postgres deployment
 
-2h ago
-
----
-
-**[Why do we trust AI answers simply because they sound confident?](https://www.reddit.com/r/artificial/comments/1ukicm7/why_do_we_trust_ai_answers_simply_because_they/)**
-
-Over the last few months, I've been thinking about one question: Why do we trust AI answers simply because they sound confident? In many domains, that confidence is harmless. But in finance, a single incorrect number can influence lending decisions, covenant monitoring, portfolio reviews, or risk assessments. The problem isn't that AI makes mistakes. Humans do too. The problem is that today's AI systems rarely show why a financial claim should be trusted. That realization led me to start building AutoFlow. We're not building another chatbot or AI wrapper. We're building a Credit Evidence Engine that verifies eligible financial claims against source evidence, calculation rules, and document consistency. Our first prototype is intentionally narrow. It focuses on credit packages, borrower financial statements, covenant calculations, and exception detection. If two documents report different EBITDA values, the system shouldn't silently choose one. It should expose the contradiction. If a leverage ratio is calculated, it should be traceable back to the covenant definition and supporting evidence. I'm sharing this journey in public because I believe trust is earned through transparent decisions, honest limitations, and continuous learning—not confident marketing. I'm still in the prototype stage, and I expect many assumptions to be challenged. That's exactly why I'm building in public. Question for other founders: When you're building trust before you have customers or production case studies, what has mattered most in your experience—clear scope, technical proof, transparent progress, or something else? I'd genuinely like to learn from your experience.
-
-42m ago
+5h ago
 
 ---
 
@@ -71,7 +79,31 @@ Over the last few months, I've been thinking about one question: Why do we trust
 
 I've been thinking a lot lately about how I personally use AI tools in creative and professional work, and I'm genuinely curious where others draw the line. There's a real difference between using AI to brainstorm, get unstuck, or pressuretest ideas versus just outsourcing the thinking entirely. But in practice that line gets blurry fast. You start by asking for a rough outline, then you're editing its draft, then you're mostly just accepting suggestions, and somewhere in there you've lost the thread of your own voice. What I find interesting is that the most satisfying results I've had come when I treat the AI like a sparring partner rather than a ghostwriter. Push back on it, argue with it, use its output as a foil. That seems to produce something that still feels like mine. But I also wonder if that's just me rationalizing a comfort zone. Maybe the resistance to full AI collaboration is just ego, or maybe it's something worth protecting. For people who use AI regularly in creative or knowledge work, how do you think about this? Do you have explicit rules for yourself, or does it just depend on the task? Has your approach shifted over time as the models have gotten better? Curious whether others feel like the better the AI gets, the harder this question becomes.
 
-5h ago
+8h ago
+
+---
+
+**[What evidence should AI coding agents leave before saying “done”?](https://www.reddit.com/r/artificial/comments/1ukn9k1/what_evidence_should_ai_coding_agents_leave/)**
+
+I’m the maker of Superloopy, a small MIT-licensed workflow layer for Codex and Claude Code. I built it around a problem I kept running into with coding agents: after a long task, the final answer often sounds confident, but the human still has to reconstruct what was actually checked. The pattern I’m trying is an evidence gate before the agent can call work done: - define acceptance criteria up front - route specialized work through skills/subagents when useful - run command-backed checks where possible - save logs, screenshots, review notes, research notes, or other artifacts under `.superloopy/evidence/` - separate deterministic checks from manual/visual judgment - finish with a report that points to the actual evidence The strongest part is the command-backed gate: if a criterion has a command, Superloopy re-runs it in-process at completion, so a stale or fabricated “passed” claim should not reach the final report. Manual/visual checks still need human review, but they are called out separately instead of being mixed into a blanket “done.” Repo: https://github.com/beefiker/superloopy For people using AI coding agents: what proof do you actually want before trusting “done”? Tests/lint are obvious, but I’m curious about screenshots, visual diffs, browser traces, security scans, design checklists, or explicit “manual judgment required” sections.
+
+8m ago
+
+---
+
+**[Reliability is becoming the actual axis the serious AI releases compete on, not how smart they sound](https://www.reddit.com/r/artificial/comments/1ukmtz5/reliability_is_becoming_the_actual_axis_the/)**
+
+Stepping back from the week to week model drops, there is a shift in what the serious AI releases are even trying to sell, and it is worth understanding if you follow this space casually rather than building on it. The first wave of the generative boom competed on capability and fluency. Whose model sounds smarter, writes better, scores higher on the trivia style tests. The newer wave, especially the deep research systems aimed at real knowledge work, is competing on something less flashy and arguably more important. Can you trust the answer. The framing across several of these recent launches is that the failure that actually hurts in practice is not the model obviously making something up. It is the confident answer that looks completely right and is wrong anyway. There are public cases of that already, a law firm filing a brief with fabricated citations, a consulting report going out with invented references, all produced by systems that read as competent and stayed internally consistent. A few of the recent releases are converging on the same idea but from different angles. One approach is to grade the model's output against a rubric it never saw during generation, essentially a second pass that only knows the problem and the answer, not how the answer was reached. Another is to run multiple independent searches and flag when the sources disagree instead of blending them into one smooth paragraph. A third is to split the job entirely, a separate system that did not produce the work checks the claims against fresh sources. These are all variations on the same bet, that the check has to be a different act than the generation. Some of the newer launches are calling this failure mode pseudo correctness, an answer that passes every check the system can run on itself and is still false, and the name is useful because it points at the right fix. If you call it hallucination, you reach for "ask it to check again," which is exactly the move that does not work because the same blind spot that produced the error is doing the checking. Apodex is one of the launches articulating this most clearly, they built a separate verification team that never touches the original reasoning, and the same model goes from around 75 to around 90 on a hard web research benchmark with the independent verifier turned on, no change in weights. Other labs are doing related work, this is just one of the clearer single articulations of the shift. For a general audience the practical takeaways are pretty simple. The next competitive axis in AI is reliability, not just raw intelligence, which is good news for anyone who wants to use these tools for real decisions instead of toy questions. Be most suspicious of the answers that look polished and certain, because that is exactly the category these systems are now being built to catch. And when you evaluate any deep research tool, the question is not how good the answer reads, it is what checked it. None of this means the reliability problem is solved, benchmarks are still benchmarks and the marketing always runs ahead of reality. But the direction is healthier than the last two years of just make it bigger, and it is showing up in shipped products this year, not in white papers. Worth tracking which labs end up treating verification as the core of the system rather than a feature bolted on at the end, because that distinction is going to matter.
+
+25m ago
+
+---
+
+**[We built a model that scores pitch delivery, not just the script](https://www.reddit.com/r/artificial/comments/1ukkg82/we_built_a_model_that_scores_pitch_delivery_not/)**
+
+Transcript-based pitch scoring can't tell the difference between a confident claim and a hedged one, because the words on the page can be identical. "We're growing 40% month over month" reads the same whether you believe it or not. We built a demo that streams video to Inter-1 in real time and scores delivery signals (confidence, hesitation, energy) alongside a content score, each signal tied to the exact moment it happened. Tested it on my own pitch. Content scored 87. Delivery caught a hesitation landing right on the traction number, confidence at 50, overall dropped to 80. The technical side: video streams over WebSocket in short chunks, Inter-1 returns a typed event stream, client folds it into a live timeline while you're still talking. Read more here: https://www.interhuman.ai/blog/pitch-practice-demo
+
+2h ago
 
 ---
 
@@ -79,39 +111,7 @@ I've been thinking a lot lately about how I personally use AI tools in creative 
 
 His wife has given her full support towards the series
 
-🔗 [Reality Shrine](https://thetab.com/realityshrine/2026/07/01/netflix-has-used-ai-to-recreate-gene-wilders-voice-for-new-willy-wonka-show-and-its-cursed/) • 3h ago
-
----
-
-**[Agentic AI for people that don’t need agentic AI?](https://www.reddit.com/r/artificial/comments/1uk7ffb/agentic_ai_for_people_that_dont_need_agentic_ai/)**
-
-I work in the highly regulated finance industry in a non-engineering role. As a result, I don’t really have the ability to try building agents for work, but I want to build out my toolkit/personal knowledge in regards to AI. What are some feasible quality of life/personal agent building exercises that I could explore?
-
-10h ago
-
----
-
-**[which of this month's ai releases changed your actual workflow, not just your feed](https://www.reddit.com/r/artificial/comments/1ukecei/which_of_this_months_ai_releases_changed_your/)**
-
-feels like every week this month theres a new model or a new robot demo and the feed just resets. sonnet 5, geminis video editing thing, the ubtech robots, whatever fable ends up being once its back. curious which of these actually changed something in your day to day versus which ones you watched a demo of once and moved on from.
-
-4h ago
-
----
-
-**[Anthropic Teams Up With Amazon, Microsoft, and Google on AI Jailbreak Framework](https://www.reddit.com/r/artificial/comments/1uki43w/anthropic_teams_up_with_amazon_microsoft_and/)**
-
-Anthropic restored Claude Fable 5 after US export restrictions lifted & unveiled a new AI jailbreak framework with Amazon, Microsoft & Google.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/anthropic-ai-jailbreak-framework-fable-5/) • 55m ago
-
----
-
-**[What is Google ai on about](https://www.reddit.com/r/artificial/comments/1uk6brc/what_is_google_ai_on_about/)**
-
-They really like everything I do I do it for you
-
-11h ago
+🔗 [Reality Shrine](https://thetab.com/realityshrine/2026/07/01/netflix-has-used-ai-to-recreate-gene-wilders-voice-for-new-willy-wonka-show-and-its-cursed/) • 6h ago
 
 ---
 
@@ -123,73 +123,71 @@ They really like everything I do I do it for you
 
 Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
 
-CNBC • 7h ago
+CNBC • 10h ago
 
 ---
 
-**[Connect Education To Jobs And Create An AI Workforce Transition Plan](https://www.forbes.com/sites/paulocarvao/2026/07/01/connect-education-to-jobs-and-create-an-ai-workforce-transition-system/)**
+**[Meta Is Building a Cloud Business to Sell Excess AI Compute](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
 
-An AI workforce transition needs more than retraining. P-TECH shows how education, employers and credentials can connect workers to jobs reshaped by AI.
-
-Forbes • 8m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Opinion | Why A.I. Won’t Steal All Our Jobs](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html)**
+**[Meta pops 8% as company makes cloud push to sell excess AI compute power capacity](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html)**
 
-The New York Times • 1d ago
+The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.
+
+CNBC • 22m ago
+
+---
+
+**[Meta’s reported cloud push weighs on AI compute and data-center stocks](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rally-warsh-ecb-forum/card/meta-s-reported-cloud-push-weighs-on-ai-compute-and-data-center-stocks-nLzSaO49iLgvChVjZeBJ?mod=mw_FV)**
+
+MarketWatch • 16m ago
+
+---
+
+**[No console-flation: how the thirst for AI chips is sending games console prices soaring](https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox)**
+
+AI data centres, memory scarcity and factory capacity are costing consumers –and console makers
+
+The Guardian • 35m ago
+
+---
+
+**[What's next for AI and Big Tech in the second half of 2026?](https://finance.yahoo.com/video/whats-next-for-ai-and-big-tech-in-the-second-half-of-2026-141912104.html)**
+
+Yahoo Finance Executive Editor Brian Sozzi discusses the current state of the AI "bubble" and tech trade with Slatestone Wealth Chief Market Strategist Kenny Polcari and Bianco Research President Jim Bianco.
+
+Yahoo Finance • 18m ago
+
+---
+
+**[Whom is AI replacing? We deserve to know.](https://thehill.com/opinion/technology/5947906-ai-workforce-reduction-transparency/)**
+
+Firms should be required to publicly disclose which jobs are being eliminated as soon as it happens.
+
+The Hill • 7m ago
+
+---
+
+**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
+
+Anthropic • 21h ago
 
 ---
 
 **[US removes curbs on Anthropic's latest Fable and Mythos AI models](https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/)**
 
-Reuters • 12h ago
+Reuters • 15h ago
 
 ---
 
-**[Fable and Mythos: Anthropic says US lifts export ban on its advanced AI tools](https://www.bbc.com/news/articles/cdr42623e1do)**
+**[Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears](https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted)**
 
-Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.
+AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals
 
-BBC • 7h ago
-
----
-
-**[US ends ban on exports of Anthropic’s advanced AI](https://www.yahoo.com/news/politics/articles/us-ends-ban-exports-anthropic-110207094.html)**
-
-The White House blocked foreign nationals from using the models last month, prompting Anthropic to suspend access to the two models altogether.
-
-Yahoo • 36m ago
-
----
-
-**[Cathie Wood Argues AI Cannot Replace Bitcoin As 'Insurance Policy' Protecting Wealth, Says 'Less Stable' Countries Will 'Light Another Fire' Under BTC](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-argues-ai-cannot-094614293.html)**
-
-Renowned investor Cathie Wood positioned Bitcoin as a “wealth insurance policy” on Saturday that AI-driven growth investments cannot provide. Wood Says AI Investments Can’t Compete With Bitcoin On This Front In an X post, Wood argued that capital outflows from...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Jim Cramer says the AI trade has shifted — and these stocks are leading now](https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html)**
-
-CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.
-
-CNBC • 13h ago
-
----
-
-**[Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026](https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html)**
-
-"Caterpillar jumped out at me," Burry said. "I have never shorted Caterpillar. It has always done great for me on the long side in the past."
-
-CNBC • 14h ago
-
----
-
-**[Wall Street’s AI Race Is Fueling New Fears of Crowded Trading](https://www.bloomberg.com/news/articles/2026-07-01/wall-street-s-ai-race-is-fueling-new-fears-of-crowded-trading)**
-
-Bloomberg.com • 1h ago
+The Guardian • 12h ago
 
 ---
 
@@ -209,13 +207,7 @@ The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his 
 
 AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.
 
-⬆️ 496 • 💬 181 • 2d ago • [GitHub](https://github.com/librepods-org/librepods)
-
----
-
-**[Tidal AI Policy](https://news.ycombinator.com/item?id=48718840)**
-
-⬆️ 307 • 💬 343 • 1d ago • [tidal.com](https://tidal.com/ai-policy)
+⬆️ 498 • 💬 183 • 2d ago • [GitHub](https://github.com/librepods-org/librepods)
 
 ---
 
@@ -223,7 +215,13 @@ AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods 
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 232 • 💬 146 • 3h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+⬆️ 419 • 💬 265 • 6h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+
+---
+
+**[Tidal AI Policy](https://news.ycombinator.com/item?id=48718840)**
+
+⬆️ 308 • 💬 345 • 2d ago • [tidal.com](https://tidal.com/ai-policy)
 
 ---
 
@@ -231,15 +229,7 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.
 
-⬆️ 190 • 💬 67 • 1d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
-
----
-
-**[Google limits Meta's use of its Gemini AI models](https://news.ycombinator.com/item?id=48707103)**
-
-Meta had sought more computing capacity than Google could provide, the Financial Times reports.
-
-⬆️ 161 • 💬 72 • 2d ago • [CNBC](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
+⬆️ 191 • 💬 69 • 1d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
 
 ---
 
@@ -261,7 +251,7 @@ Reversal of ‘excessive’ tech investments could have serious economic consequ
 
 As Brussels bakes, the Berlaymont building’s AC stops working.
 
-⬆️ 135 • 💬 138 • 19h ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+⬆️ 136 • 💬 142 • 22h ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
 
 ---
 
@@ -273,19 +263,17 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 ---
 
+**[Reflections on software engineering in the age of AI](https://news.ycombinator.com/item?id=48708721)**
+
+For those of you who don’t know, when I’m not writing novels, I spend my days as a software engineer, writing code. The software industry these days relies heavily on artificial intelligence. Because it has studied trillions of lines of publicly accessible source code, because code solves problems with testable right and wrong solutions, and because code is structured specifically to be understood by computers, AI has gotten very good at writing code.
+
+⬆️ 106 • 💬 101 • 2d ago • [Andrew Diamond](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
-
-**[Why is AI expensive all of a sudden?](https://www.youtube.com/watch?v=DDj30VWCbbY)**
-
-ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow.
-
-📺 Alberta Tech
-
-👁️ 83K • 👍 5K • 💬 472 • ⏱️ 9:43 • 18h ago
-
----
 
 **[Congress Got a Private Look at AI. The Reaction Was Chilling.](https://www.youtube.com/watch?v=z9zqqsS7848)**
 
@@ -293,17 +281,7 @@ AI #Congress #OpenAI They saw the demo behind closed doors. They walked out shak
 
 📺 Rod Miller
 
-👁️ 8K • 👍 903 • 💬 216 • ⏱️ 28:59 • 1d ago
-
----
-
-**[Anthropic Just Confirmed It: The 2028 AI Warning Is Real](https://www.youtube.com/watch?v=j1xcsDxSb_Y)**
-
-Self-improving AI is starting to look real. Anthropic's Jack Clark put a 2028 timeline on recursive self-improvement, Google ...
-
-📺 AI Revolution
-
-👁️ 51K • 👍 1K • 💬 152 • ⏱️ 13:32 • 2d ago
+👁️ 8K • 👍 919 • 💬 218 • ⏱️ 28:59 • 1d ago
 
 ---
 
@@ -313,37 +291,7 @@ The AI Bubble Will Is MUCH Worse Than We Thought. Contact your representative to
 
 📺 Damon Cassidy
 
-👁️ 33K • 👍 2K • 💬 408 • ⏱️ 22:06 • 11h ago
-
----
-
-**[3 REAL Ways To Make Money With Claude AI in 2026](https://www.youtube.com/watch?v=Zvnt4S3aFJk)**
-
-Get started with FreshBooks free 30-day trial: https://partner.freshbooks.com/KimberlyMitchell The job market is rough right now ...
-
-📺 Kimberly Mitchell
-
-👁️ 5K • 👍 224 • 💬 17 • ⏱️ 16:21 • 21h ago
-
----
-
-**[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
-
-We told a generation to "learn to code," and then AI rugpulled everyone. Welcome to the AI singularity. [NEW] Official TechLead ...
-
-📺 TechLead
-
-👁️ 59K • 👍 3K • 💬 615 • ⏱️ 13:10 • 1d ago
-
----
-
-**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
-
-Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
-
-📺 Yuval Noah Harari 
-
-👁️ 81K • 👍 4K • 💬 407 • ⏱️ 46:52 • 20h ago
+👁️ 44K • 👍 3K • 💬 511 • ⏱️ 22:06 • 14h ago
 
 ---
 
@@ -353,17 +301,27 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 22K • 👍 1K • 💬 160 • ⏱️ 7:27 • 6h ago
+👁️ 32K • 👍 2K • 💬 210 • ⏱️ 7:27 • 9h ago
 
 ---
 
-**[Limiting access to top AI models in the U.S. could hand China an opening as capability gap narrows](https://www.youtube.com/watch?v=Jgmiy1tUjxI)**
+**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
 
-CNBC's Deirdre Bosa reports on China's AI availability.
+Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
 
-📺 CNBC Television
+📺 Curious Explorer
 
-👁️ 24K • 👍 307 • 💬 280 • ⏱️ 3:30 • 1d ago
+👁️ 893K • 👍 3K • 💬 529 • ⏱️ 28:24 • 2d ago
+
+---
+
+**[Why is AI expensive all of a sudden?](https://www.youtube.com/watch?v=DDj30VWCbbY)**
+
+ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow.
+
+📺 Alberta Tech
+
+👁️ 92K • 👍 6K • 💬 517 • ⏱️ 9:43 • 21h ago
 
 ---
 
@@ -373,7 +331,47 @@ President Trump is once again sparking a massive online reaction after posting a
 
 📺 Lisa Haven
 
-👁️ 8K • 👍 716 • 💬 87 • ⏱️ 8:27 • 1d ago
+👁️ 8K • 👍 718 • 💬 88 • ⏱️ 8:27 • 1d ago
+
+---
+
+**[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
+
+We told a generation to "learn to code," and then AI rugpulled everyone. Welcome to the AI singularity. [NEW] Official TechLead ...
+
+📺 TechLead
+
+👁️ 60K • 👍 3K • 💬 618 • ⏱️ 13:10 • 1d ago
+
+---
+
+**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
+
+Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
+
+📺 Yuval Noah Harari 
+
+👁️ 97K • 👍 5K • 💬 495 • ⏱️ 46:52 • 23h ago
+
+---
+
+**[3 REAL Ways To Make Money With Claude AI in 2026](https://www.youtube.com/watch?v=Zvnt4S3aFJk)**
+
+Get started with FreshBooks free 30-day trial: https://partner.freshbooks.com/KimberlyMitchell The job market is rough right now ...
+
+📺 Kimberly Mitchell
+
+👁️ 5K • 👍 236 • 💬 22 • ⏱️ 16:21 • 1d ago
+
+---
+
+**[Break ANY AI Scam Phone Call (in 30 seconds)](https://www.youtube.com/watch?v=lk3jCuITwcE)**
+
+How to break any AI scam phone call in just a few easy steps :) ▻Try Cape: https://cape.co/kitboga 0:00 AI Scam Calls 1:29 Odd ...
+
+📺 Kitboga
+
+👁️ 207K • 👍 18K • 💬 2K • ⏱️ 16:56 • 15h ago
 
 ---
 
@@ -389,7 +387,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 630,246 • ❤️ 1,534 • 3d ago
+⬇️ 630,246 • ❤️ 1,549 • 3d ago
 
 ---
 
@@ -401,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,113,871 • ❤️ 1,102 • 2d ago
+⬇️ 1,113,871 • ❤️ 1,111 • 2d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 159,967 • ❤️ 3,108 • 8d ago
+⬇️ 159,967 • ❤️ 3,123 • 8d ago
 
 ---
 
@@ -425,7 +423,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 233,701 • ❤️ 576 • 5d ago
+⬇️ 233,701 • ❤️ 579 • 6d ago
 
 ---
 
@@ -437,7 +435,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 34,371 • ❤️ 482 • 6d ago
+⬇️ 34,371 • ❤️ 484 • 6d ago
 
 ---
 
@@ -449,7 +447,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 288,741 • ❤️ 902 • 12d ago
+⬇️ 288,741 • ❤️ 908 • 12d ago
 
 ---
 
@@ -461,7 +459,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 191,409 • ❤️ 356 • 5d ago
+⬇️ 191,409 • ❤️ 358 • 6d ago
 
 ---
 
@@ -473,7 +471,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 114,499 • ❤️ 603 • 2d ago
+⬇️ 114,499 • ❤️ 606 • 2d ago
 
 ---
 
@@ -485,19 +483,19 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 46,677 • ❤️ 318 • 5d ago
+⬇️ 46,677 • ❤️ 321 • 6d ago
 
 ---
 
-**[Krea-2-Turbo](https://huggingface.co/krea/Krea-2-Turbo)**
+**[Ornith-1.0-35B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B)**
 
-*KREA*
+*DeepReinforce*
 
-Krea-2-Turbo is a text-to-image diffusion model capable of generating diverse artistic styles, including halftone, pixelated, impressionist, thermal imaging, and black and white photography. It is primarily used for creative image generation and artistic exploration.
+Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic coding, excelling in benchmarks like Terminal-Bench and SWE-Bench. It utilizes a self-improving training framework to generate high-quality code solutions and is optimized for single-GPU deployment.
 
-`text-to-image`
+`text-generation` `664,944`
 
-⬇️ 56,953 • ❤️ 431 • 7d ago
+⬇️ 135,452 • ❤️ 278 • 6d ago
 
 ---
 
@@ -552,7 +550,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 102 • 💬 4 • ⭐ 90,031 • 18mo ago
+▲ 102 • 💬 4 • ⭐ 90,145 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -566,7 +564,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 249 • 💬 4 • ⭐ 10,209 • 1mo ago
+▲ 249 • 💬 4 • ⭐ 10,286 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -647,7 +645,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 69.9k • 🔱 3.6k • 1d ago
+⭐ 70.1k • 🔱 3.6k • 1d ago
 
 ---
 
@@ -657,7 +655,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.2k • 🔱 1.1k • 1m ago
+⭐ 11.2k • 🔱 1.1k • 2m ago
 
 ---
 
@@ -667,7 +665,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.9k • 🔱 742 • 29m ago
+⭐ 5.9k • 🔱 748 • 1m ago
 
 ---
 
@@ -677,7 +675,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.6k • 🔱 584 • 39m ago
+⭐ 4.6k • 🔱 588 • 3h ago
 
 ---
 
@@ -687,7 +685,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.2k • 🔱 198 • 3d ago
+⭐ 2.2k • 🔱 199 • 3d ago
 
 ---
 
@@ -697,7 +695,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 172 • 3d ago
+⭐ 2.2k • 🔱 173 • 3d ago
 
 ---
 
@@ -707,7 +705,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 155 • 4d ago
+⭐ 1.7k • 🔱 155 • 5d ago
 
 ---
 
@@ -737,7 +735,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.4k • 🔱 60 • 14h ago
+⭐ 1.5k • 🔱 62 • 17h ago
 
 ---
 
