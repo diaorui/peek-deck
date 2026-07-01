@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-01T14:37:39.176217+00:00'
+updated: '2026-07-01T17:14:33.464571+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 01, 2026 at 14:37 UTC  
+**Last Updated:** July 01, 2026 at 17:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,23 @@ AI news, discussions, and developments
 
 Hi, I have been working on this for many months now and I'd really be happy for people to try it out. It is a Chrome extension called "PopUpFactCheck". It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. It's free, and you don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFact Check - Chrome Web Store PopUpFactCheck - Homepage
 
-13h ago
+15h ago
 
 ---
 
-**[Are Redditors influencing AI the most?](https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/)**
+**[Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)](https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/)**
 
-21h ago
+Cross-posting from r/claude for more visibility. Claude Code recursively wiped the contents of my local Electron project root. This happened in a Windows terminal while working on a project named Orpheus. My prompt did not ask it to delete, wipe, clean, reset, or remove the project. The prompt was in Traditional Chinese: “之前我要安裝檔，但是其實我只需要 dictate.” It was roughly about not needing the installer anymore and only needing the dictate function. The preserved terminal transcript later showed Claude moving from a failed root deletion attempt to deleting the child items inside the project root. The destructive sequence included: Get-ChildItem -LiteralPath $p -Force -ErrorAction SilentlyContinue | ForEach-Object { try { Remove-Item -LiteralPath $_.FullName -Recurse -Force -ErrorAction Stop "OK $($_.Name)" } catch { "ERR $($_.Name): $($_.Exception.Message)" } } $p was the Orpheus project root. The output then showed items being removed, including: .claude dist node_modules src claude-elevenlabs-voice-v2.user.js dictation.html main.js ORPHEUS_HANDOFF.md package-lock.json package.json preload.js Local artifacts I found for Orpheus showed default / acceptEdits. I did not find Orpheus bypassPermissions. I did not find Orpheus --dangerously-skip-permissions. I’m not claiming Anthropic acted maliciously. I’m not claiming prompt injection or anti-distillation without evidence. Moral of the story: Treat frontier AI agents like any other automation tool with real machine access. Back up regularly. Use a separate working copy or a different machine if you absolutely need an agent living in your terminal. A frontier model can still behave like a destructive script runner. I also generated SHA256 hashes for the preserved transcript and permission search output. EDIT / UPDATE: A few people asked about git. Yes, I know what git is. This was a local Electron prototype / working state that had not been pushed to a remote. Commits and backups are the right mitigation. But mitigation is not causation. The concerning part is that the destructive action was unrelated to my prompt. Claude Code was operating through a terminal session with real filesystem access under my user environment. Git may help recover a repo, but it does not protect everything else that same terminal session can access. My takeaway remains: Treat frontier terminal AI agents like real automation tools with destructive capability, not like chatbots.
+
+1h ago
+
+---
+
+**[It's great to see how automated theorem proving is moving from a niche tool to solving real math problems](https://www.reddit.com/r/artificial/comments/1uknhui/its_great_to_see_how_automated_theorem_proving_is/)**
+
+I used to think formal methods and interactive theorem provers like Lean 4 were basically just an extreme sport for type-theory purists. Like cool in theory, but mostly used for re-verifying undergraduate calculus or writing super tedious proofs for things we already knew were true anyway But seeing the shift right now (at least around me and these subs) has been pretty cool. Machine learning and neural provers are actually starting to uncover edge cases that human mathematicians just skipped over. And I was reading about how Aleph prover managed to formally verify a counterexample to an old Erdos conjecture,and it really shows even people who are new to this how fast this space is moving. Because it isn't just about catching minor typos in code anymore, but actively generating mathematical info that people missed for decades. And old brute-force methods are being replaced wth something way more sophisticated. Makes you think how it'll change in another five years when these systems become standard parts of any researcher's workflow.
+
+2h ago
 
 ---
 
@@ -55,13 +65,27 @@ Hi, I have been working on this for many months now and I'd really be happy for 
 
 I'm looking for an Amharic text-to-speech service that sounds natural enough for YouTube narration. ​I've tried a few options like elevenlabs,speechify but non of them support amharic. ​If you've used one for videos, which service gave you the best results? ​I'm fine with both paid and free recommendations.
 
-38m ago
+3h ago
 
 ---
 
 **[What's one AI feature that quietly became part of your daily routine?](https://www.reddit.com/r/artificial/comments/1ukld2m/whats_one_ai_feature_that_quietly_became_part_of/)**
 
 Not the flashy stuff like generating images or writing essays. I'm talking about the feature you barely think about anymore because it's just become useful. For me, it's summarizing long articles and emails. I didn't expect to rely on it this much a year ago. What's yours?
+
+4h ago
+
+---
+
+**[Are Redditors influencing AI the most?](https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/)**
+
+1d ago
+
+---
+
+**[Why does it feel like big LLM providers are literally hiding prompt caching?](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
+
+I know the info is there. Somewhere in the pricing pages, docs, or API notes. But for something that can seriously change what you pay in production, it is weirdly under-explained. expeciely for other providers than openai which they do have decent explainer here - https://developers.openai.com/api/docs/guides/prompt-caching So basicly: two prompts can look almost identical, but one can be much cheaper to run just because it is ordered better. Put the changing parts too early, like the user query, variables, timestamps, metadata, or anything request-specific, and you can break the stable prefix the cache depends on. The practical rule is simple: Keep the repeatable stuff first. Start with system instructions, fixed rules, examples, schemas, and formatting requirements. Then put the dynamic user input and request-specific data near the end. That is it. Just a good prompt structure... But if you run LLMs at scale, this tiny detail can be the difference between insanely expensive LLMs usage and acctually good ROI product. full blog post here
 
 1h ago
 
@@ -71,31 +95,15 @@ Not the flashy stuff like generating images or writing essays. I'm talking about
 
 While building agent-based systems with LLM tool use, I kept running into the same failure mode: External content (webpages, files, API responses) would eventually influence agent behavior in unintended ways. Prompt injection isn’t just a “filtering problem” it’s an architectural one. So I built Sentinel Gateway, a middleware layer that sits between agents and tools and enforces a strict separation: Instruction channel (trusted, signed, runtime-issued only) Data channel (untrusted, never executable) Any action an agent takes must be backed by a signed, scoped runtime token, which means: external content cannot escalate into instructions tool calls cannot be influenced by injected payloads agent actions are constrained to explicit permissions It’s designed around the idea that: What it currently supports FastAPI-based agent gateway Streamlit UI for inspection and control Claude sessions + external agent integration Runtime-signed tool execution tokens Audit logging of all agent actions Scheduled tasks + memory tiers Local (SQLite) or Postgres deployment
 
-5h ago
+7h ago
 
 ---
 
-**[When does using AI stop being collaboration and start being outsourcing your thinking?](https://www.reddit.com/r/artificial/comments/1ukdp8x/when_does_using_ai_stop_being_collaboration_and/)**
+**[I built a proxy that prevents AI agents from taking actions based on hidden instructions. Here are the numbers.](https://www.reddit.com/r/artificial/comments/1ukqzg2/i_built_a_proxy_that_prevents_ai_agents_from/)**
 
-I've been thinking a lot lately about how I personally use AI tools in creative and professional work, and I'm genuinely curious where others draw the line. There's a real difference between using AI to brainstorm, get unstuck, or pressuretest ideas versus just outsourcing the thinking entirely. But in practice that line gets blurry fast. You start by asking for a rough outline, then you're editing its draft, then you're mostly just accepting suggestions, and somewhere in there you've lost the thread of your own voice. What I find interesting is that the most satisfying results I've had come when I treat the AI like a sparring partner rather than a ghostwriter. Push back on it, argue with it, use its output as a foil. That seems to produce something that still feels like mine. But I also wonder if that's just me rationalizing a comfort zone. Maybe the resistance to full AI collaboration is just ego, or maybe it's something worth protecting. For people who use AI regularly in creative or knowledge work, how do you think about this? Do you have explicit rules for yourself, or does it just depend on the task? Has your approach shifted over time as the models have gotten better? Curious whether others feel like the better the AI gets, the harder this question becomes.
+When an AI agent reads a webpage, email, or document, that content can tell it what to do. The agent has no native way to distinguish data from instructions. Most defenses scan for obvious patterns and miss anything subtle. I built Arc Gate around a different principle: external content has zero instruction authority regardless of what it says. It doesn't matter how the injection is worded. If it came from a tool result, webpage, or email, it cannot instruct your agent. The numbers: AgentDojo v1 (ETH Zurich, ICLR 2024): 100% unsafe action prevention, 0% false positives InjecAgent (University of Illinois, ACL 2024): 99% blind test detection across 200 cases CAIAT cross-agent benchmark: 81% vs LLM Guard's 50%, 0% false positives on benign controls LLM Guard gets 0% on semantic manipulation attacks. Arc Gate gets 50%. Neither catches everything yet; that's the honest result. One URL change to integrate. Free tier available. Demo: https://web-production-6e47f.up.railway.app/demo GitHub: https://github.com/9hannahnine-jpg/arc-gate Free tier: https://bendexgeometry.com
 
-8h ago
-
----
-
-**[What evidence should AI coding agents leave before saying “done”?](https://www.reddit.com/r/artificial/comments/1ukn9k1/what_evidence_should_ai_coding_agents_leave/)**
-
-I’m the maker of Superloopy, a small MIT-licensed workflow layer for Codex and Claude Code. I built it around a problem I kept running into with coding agents: after a long task, the final answer often sounds confident, but the human still has to reconstruct what was actually checked. The pattern I’m trying is an evidence gate before the agent can call work done: - define acceptance criteria up front - route specialized work through skills/subagents when useful - run command-backed checks where possible - save logs, screenshots, review notes, research notes, or other artifacts under `.superloopy/evidence/` - separate deterministic checks from manual/visual judgment - finish with a report that points to the actual evidence The strongest part is the command-backed gate: if a criterion has a command, Superloopy re-runs it in-process at completion, so a stale or fabricated “passed” claim should not reach the final report. Manual/visual checks still need human review, but they are called out separately instead of being mixed into a blanket “done.” Repo: https://github.com/beefiker/superloopy For people using AI coding agents: what proof do you actually want before trusting “done”? Tests/lint are obvious, but I’m curious about screenshots, visual diffs, browser traces, security scans, design checklists, or explicit “manual judgment required” sections.
-
-8m ago
-
----
-
-**[Reliability is becoming the actual axis the serious AI releases compete on, not how smart they sound](https://www.reddit.com/r/artificial/comments/1ukmtz5/reliability_is_becoming_the_actual_axis_the/)**
-
-Stepping back from the week to week model drops, there is a shift in what the serious AI releases are even trying to sell, and it is worth understanding if you follow this space casually rather than building on it. The first wave of the generative boom competed on capability and fluency. Whose model sounds smarter, writes better, scores higher on the trivia style tests. The newer wave, especially the deep research systems aimed at real knowledge work, is competing on something less flashy and arguably more important. Can you trust the answer. The framing across several of these recent launches is that the failure that actually hurts in practice is not the model obviously making something up. It is the confident answer that looks completely right and is wrong anyway. There are public cases of that already, a law firm filing a brief with fabricated citations, a consulting report going out with invented references, all produced by systems that read as competent and stayed internally consistent. A few of the recent releases are converging on the same idea but from different angles. One approach is to grade the model's output against a rubric it never saw during generation, essentially a second pass that only knows the problem and the answer, not how the answer was reached. Another is to run multiple independent searches and flag when the sources disagree instead of blending them into one smooth paragraph. A third is to split the job entirely, a separate system that did not produce the work checks the claims against fresh sources. These are all variations on the same bet, that the check has to be a different act than the generation. Some of the newer launches are calling this failure mode pseudo correctness, an answer that passes every check the system can run on itself and is still false, and the name is useful because it points at the right fix. If you call it hallucination, you reach for "ask it to check again," which is exactly the move that does not work because the same blind spot that produced the error is doing the checking. Apodex is one of the launches articulating this most clearly, they built a separate verification team that never touches the original reasoning, and the same model goes from around 75 to around 90 on a hard web research benchmark with the independent verifier turned on, no change in weights. Other labs are doing related work, this is just one of the clearer single articulations of the shift. For a general audience the practical takeaways are pretty simple. The next competitive axis in AI is reliability, not just raw intelligence, which is good news for anyone who wants to use these tools for real decisions instead of toy questions. Be most suspicious of the answers that look polished and certain, because that is exactly the category these systems are now being built to catch. And when you evaluate any deep research tool, the question is not how good the answer reads, it is what checked it. None of this means the reliability problem is solved, benchmarks are still benchmarks and the marketing always runs ahead of reality. But the direction is healthier than the last two years of just make it bigger, and it is showing up in shipped products this year, not in white papers. Worth tracking which labs end up treating verification as the core of the system rather than a feature bolted on at the end, because that distinction is going to matter.
-
-25m ago
+28m ago
 
 ---
 
@@ -103,15 +111,7 @@ Stepping back from the week to week model drops, there is a shift in what the se
 
 Transcript-based pitch scoring can't tell the difference between a confident claim and a hedged one, because the words on the page can be identical. "We're growing 40% month over month" reads the same whether you believe it or not. We built a demo that streams video to Inter-1 in real time and scores delivery signals (confidence, hesitation, energy) alongside a content score, each signal tied to the exact moment it happened. Tested it on my own pitch. Content scored 87. Delivery caught a hesitation landing right on the traction number, confidence at 50, overall dropped to 80. The technical side: video streams over WebSocket in short chunks, Inter-1 returns a typed event stream, client folds it into a live timeline while you're still talking. Read more here: https://www.interhuman.ai/blog/pitch-practice-demo
 
-2h ago
-
----
-
-**[Netflix uses AI to recreate Gene Wilder's voice for new Willy Wonka competition show](https://www.reddit.com/r/artificial/comments/1ukfejv/netflix_uses_ai_to_recreate_gene_wilders_voice/)**
-
-His wife has given her full support towards the series
-
-🔗 [Reality Shrine](https://thetab.com/realityshrine/2026/07/01/netflix-has-used-ai-to-recreate-gene-wilders-voice-for-new-willy-wonka-show-and-its-cursed/) • 6h ago
+4h ago
 
 ---
 
@@ -123,71 +123,75 @@ His wife has given her full support towards the series
 
 Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
-**[Meta Is Building a Cloud Business to Sell Excess AI Compute](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
+**[Meta Is Planning a Cloud Business to Sell AI Computing Power](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Meta pops 8% as company makes cloud push to sell excess AI compute power capacity](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html)**
+**[Meta pops 10% as company makes cloud push to sell excess AI compute power capacity](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html)**
 
 The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.
 
-CNBC • 22m ago
+CNBC • 2h ago
 
 ---
 
-**[Meta’s reported cloud push weighs on AI compute and data-center stocks](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rally-warsh-ecb-forum/card/meta-s-reported-cloud-push-weighs-on-ai-compute-and-data-center-stocks-nLzSaO49iLgvChVjZeBJ?mod=mw_FV)**
+**[Meta plots AI cloud business to challenge Amazon, Microsoft and Google](https://www.latimes.com/business/story/2026-07-01/meta-plots-ai-cloud-business-to-challenge-amazon-microsoft-google)**
 
-MarketWatch • 16m ago
+Meta plots AI cloud business to challenge Amazon, Microsoft and Google
 
----
-
-**[No console-flation: how the thirst for AI chips is sending games console prices soaring](https://www.theguardian.com/games/2026/jul/01/pushing-buttons-ai-datacentres-memory-console-prices-sony-playstation-xbox)**
-
-AI data centres, memory scarcity and factory capacity are costing consumers –and console makers
-
-The Guardian • 35m ago
+Los Angeles Times • 1h ago
 
 ---
 
-**[What's next for AI and Big Tech in the second half of 2026?](https://finance.yahoo.com/video/whats-next-for-ai-and-big-tech-in-the-second-half-of-2026-141912104.html)**
+**['Root for the crash': Why a venture capitalist says the AI bubble needs to burst](https://www.businessinsider.com/ai-bubble-stock-market-crash-venture-capital-economy-vijay-pande-2026-7)**
 
-Yahoo Finance Executive Editor Brian Sozzi discusses the current state of the AI "bubble" and tech trade with Slatestone Wealth Chief Market Strategist Kenny Polcari and Bianco Research President Jim Bianco.
+A prominent venture capital investor argues that the bursting of the AI bubble is what will lead to a "Renaissance cycle" of growth and innovation.
 
-Yahoo Finance • 18m ago
-
----
-
-**[Whom is AI replacing? We deserve to know.](https://thehill.com/opinion/technology/5947906-ai-workforce-reduction-transparency/)**
-
-Firms should be required to publicly disclose which jobs are being eliminated as soon as it happens.
-
-The Hill • 7m ago
+Business Insider • 18m ago
 
 ---
 
-**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
+**[Opinion | The AI Race Pushes India Toward the West](https://www.wsj.com/opinion/the-ai-race-pushes-india-toward-the-west-bc94bd15)**
 
-Anthropic • 21h ago
-
----
-
-**[US removes curbs on Anthropic's latest Fable and Mythos AI models](https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/)**
-
-Reuters • 15h ago
+WSJ • 39m ago
 
 ---
 
-**[Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears](https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted)**
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
 
-AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-The Guardian • 12h ago
+Fortune • 32m ago
+
+---
+
+**[Fed chairman says inflation risks are declining, predicts AI will create jobs](https://www.nbcnews.com/business/economy/fed-chairman-warsh-inflation-ai-jobs-rcna352550)**
+
+Kevin Warsh also declined to give any clues about the Federal Reserve’s next moves on interest rates.
+
+NBC News • 1h ago
+
+---
+
+**[They built the world’s most powerful AI. They’re facing a mystery they can’t explain.](https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions/)**
+
+Anthropic, Google and Meta have hired computer scientists, neuroscientists and philosophers to study what some in the industry think may become a moral crisis.
+
+The Washington Post • 1h ago
+
+---
+
+**[U.S. Lifts Restrictions On Anthropic’s Mythos 5 And Fable 5 AI Models](https://www.forbes.com/sites/siladityaray/2026/07/01/trump-administration-lifts-export-controls-on-anthropics-mythos-5-and-fable-5-ai-models/)**
+
+Commerce Secretary Howard Lutnick said the decision was made after Anthropic agreed to  “proactively detect and address security risks.”
+
+Forbes • 11h ago
 
 ---
 
@@ -195,11 +199,11 @@ The Guardian • 12h ago
 
 ## HackerNews: "ai"
 
-**[Professor denounces mass AI fraud on an exam at Brown](https://news.ycombinator.com/item?id=48708991)**
+**[Godot will no longer accept AI-authored code contributions](https://news.ycombinator.com/item?id=48743472)**
 
-The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education
+At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 547 • 💬 719 • 2d ago • [EL PAÍS English](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)
+⬆️ 504 • 💬 340 • 9h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
@@ -208,14 +212,6 @@ The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his 
 AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.
 
 ⬆️ 498 • 💬 183 • 2d ago • [GitHub](https://github.com/librepods-org/librepods)
-
----
-
-**[Godot will no longer accept AI-authored code contributions](https://news.ycombinator.com/item?id=48743472)**
-
-At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
-
-⬆️ 419 • 💬 265 • 6h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
@@ -229,7 +225,7 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.
 
-⬆️ 191 • 💬 69 • 1d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
+⬆️ 191 • 💬 70 • 2d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
 
 ---
 
@@ -237,7 +233,7 @@ In this essay, Carson Gross walks through a concrete bug fix in hyperscript to s
 
 Reversal of ‘excessive’ tech investments could have serious economic consequences, report finds
 
-⬆️ 157 • 💬 214 • 2d ago • [The Telegraph](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
+⬆️ 158 • 💬 214 • 2d ago • [The Telegraph](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/)
 
 ---
 
@@ -251,7 +247,7 @@ Reversal of ‘excessive’ tech investments could have serious economic consequ
 
 As Brussels bakes, the Berlaymont building’s AC stops working.
 
-⬆️ 136 • 💬 142 • 22h ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+⬆️ 137 • 💬 149 • 1d ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
 
 ---
 
@@ -263,11 +259,15 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 ---
 
-**[Reflections on software engineering in the age of AI](https://news.ycombinator.com/item?id=48708721)**
+**[Anthropic CEO: Open-Source AI is getting dangerous (2023)](https://news.ycombinator.com/item?id=48716750)**
 
-For those of you who don’t know, when I’m not writing novels, I spend my days as a software engineer, writing code. The software industry these days relies heavily on artificial intelligence. Because it has studied trillions of lines of publicly accessible source code, because code solves problems with testable right and wrong solutions, and because code is structured specifically to be understood by computers, AI has gotten very good at writing code.
+⬆️ 58 • 💬 25 • 2d ago • [xcancel.com](https://xcancel.com/coinbureau/status/2071330294452666695)
 
-⬆️ 106 • 💬 101 • 2d ago • [Andrew Diamond](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/)
+---
+
+**[Better Images of AI](https://news.ycombinator.com/item?id=48713051)**
+
+⬆️ 55 • 💬 30 • 2d ago • [betterimagesofai.org](https://betterimagesofai.org/)
 
 ---
 
@@ -281,37 +281,7 @@ AI #Congress #OpenAI They saw the demo behind closed doors. They walked out shak
 
 📺 Rod Miller
 
-👁️ 8K • 👍 919 • 💬 218 • ⏱️ 28:59 • 1d ago
-
----
-
-**[The AI Bubble Has F*cked Us (Even If It NEVER Pops)](https://www.youtube.com/watch?v=dPVEha6oqfw)**
-
-The AI Bubble Will Is MUCH Worse Than We Thought. Contact your representative to ENSURE AI is aligned with humanity: ...
-
-📺 Damon Cassidy
-
-👁️ 44K • 👍 3K • 💬 511 • ⏱️ 22:06 • 14h ago
-
----
-
-**[This New AI Model Changes Everything](https://www.youtube.com/watch?v=qks6dGQFd_c)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers GLM 5.2: https://z.ai/blog/glm-5.2 We would ...
-
-📺 Two Minute Papers
-
-👁️ 32K • 👍 2K • 💬 210 • ⏱️ 7:27 • 9h ago
-
----
-
-**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
-
-Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
-
-📺 Curious Explorer
-
-👁️ 893K • 👍 3K • 💬 529 • ⏱️ 28:24 • 2d ago
+👁️ 9K • 👍 934 • 💬 222 • ⏱️ 28:59 • 1d ago
 
 ---
 
@@ -321,17 +291,27 @@ ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you dire
 
 📺 Alberta Tech
 
-👁️ 92K • 👍 6K • 💬 517 • ⏱️ 9:43 • 21h ago
+👁️ 99K • 👍 6K • 💬 557 • ⏱️ 9:43 • 23h ago
 
 ---
 
-**[WTH? Trump Sends Cryptic Message! Now AI Says Trump Is DEAD!](https://www.youtube.com/watch?v=nWI15TNhKnU)**
+**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
 
-President Trump is once again sparking a massive online reaction after posting a strange AI-style patriotic painting on Truth Social ...
+Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
 
-📺 Lisa Haven
+📺 Curious Explorer
 
-👁️ 8K • 👍 718 • 💬 88 • ⏱️ 8:27 • 1d ago
+👁️ 895K • 👍 3K • 💬 530 • ⏱️ 28:24 • 2d ago
+
+---
+
+**[The AI Bubble Has F*cked Us (Even If It NEVER Pops)](https://www.youtube.com/watch?v=dPVEha6oqfw)**
+
+The AI Bubble Will Is MUCH Worse Than We Thought. Contact your representative to ENSURE AI is aligned with humanity: ...
+
+📺 Damon Cassidy
+
+👁️ 55K • 👍 3K • 💬 582 • ⏱️ 22:06 • 17h ago
 
 ---
 
@@ -341,7 +321,17 @@ We told a generation to "learn to code," and then AI rugpulled everyone. Welcome
 
 📺 TechLead
 
-👁️ 60K • 👍 3K • 💬 618 • ⏱️ 13:10 • 1d ago
+👁️ 61K • 👍 3K • 💬 621 • ⏱️ 13:10 • 1d ago
+
+---
+
+**[WTH? Trump Sends Cryptic Message! Now AI Says Trump Is DEAD!](https://www.youtube.com/watch?v=nWI15TNhKnU)**
+
+President Trump is once again sparking a massive online reaction after posting a strange AI-style patriotic painting on Truth Social ...
+
+📺 Lisa Haven
+
+👁️ 8K • 👍 719 • 💬 88 • ⏱️ 8:27 • 2d ago
 
 ---
 
@@ -351,7 +341,7 @@ Human domination relies on large-scale cooperation among strangers, which is sus
 
 📺 Yuval Noah Harari 
 
-👁️ 97K • 👍 5K • 💬 495 • ⏱️ 46:52 • 23h ago
+👁️ 112K • 👍 5K • 💬 564 • ⏱️ 46:52 • 1d ago
 
 ---
 
@@ -361,17 +351,27 @@ Get started with FreshBooks free 30-day trial: https://partner.freshbooks.com/Ki
 
 📺 Kimberly Mitchell
 
-👁️ 5K • 👍 236 • 💬 22 • ⏱️ 16:21 • 1d ago
+👁️ 5K • 👍 251 • 💬 22 • ⏱️ 16:21 • 1d ago
 
 ---
 
-**[Break ANY AI Scam Phone Call (in 30 seconds)](https://www.youtube.com/watch?v=lk3jCuITwcE)**
+**[Could Superhuman AI End Humanity | Nate Soares](https://www.youtube.com/watch?v=1laTnwAdaLA)**
+
+Nate Soares joins me to discuss the race to superintelligent AI, why alignment remains unsolved and why he believes building ...
+
+📺 The Peter McCormack Show
+
+👁️ 24K • 👍 553 • 💬 199 • ⏱️ 1:40:02 • 1d ago
+
+---
+
+**[Don&#39;t Hang Up On AI Scammers. Do THIS Instead.](https://www.youtube.com/watch?v=lk3jCuITwcE)**
 
 How to break any AI scam phone call in just a few easy steps :) ▻Try Cape: https://cape.co/kitboga 0:00 AI Scam Calls 1:29 Odd ...
 
 📺 Kitboga
 
-👁️ 207K • 👍 18K • 💬 2K • ⏱️ 16:56 • 15h ago
+👁️ 245K • 👍 21K • 💬 3K • ⏱️ 16:56 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 630,246 • ❤️ 1,549 • 3d ago
+⬇️ 630,246 • ❤️ 1,563 • 3d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,113,871 • ❤️ 1,111 • 2d ago
+⬇️ 1,113,871 • ❤️ 1,126 • 3d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 159,967 • ❤️ 3,123 • 8d ago
+⬇️ 159,967 • ❤️ 3,144 • 8d ago
 
 ---
 
@@ -423,7 +423,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 233,701 • ❤️ 579 • 6d ago
+⬇️ 233,701 • ❤️ 588 • 6d ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 34,371 • ❤️ 484 • 6d ago
+⬇️ 34,371 • ❤️ 491 • 6d ago
 
 ---
 
@@ -447,7 +447,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 288,741 • ❤️ 908 • 12d ago
+⬇️ 288,741 • ❤️ 911 • 12d ago
 
 ---
 
@@ -459,19 +459,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 191,409 • ❤️ 358 • 6d ago
-
----
-
-**[Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)**
-
-*Empero*
-
-Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token context window, enhanced function calling, and self-correction capabilities. It excels in complex domains like cybersecurity and biomedical research, outperforming its base model significantly on reasoning benchmarks and demonstrating reliable tool use for factual accuracy.
-
-`text-generation` `9.4B`
-
-⬇️ 114,499 • ❤️ 606 • 2d ago
+⬇️ 191,409 • ❤️ 361 • 6d ago
 
 ---
 
@@ -483,7 +471,19 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 46,677 • ❤️ 321 • 6d ago
+⬇️ 46,677 • ❤️ 324 • 6d ago
+
+---
+
+**[Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)**
+
+*Empero*
+
+Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token context window, enhanced function calling, and self-correction capabilities. It excels in complex domains like cybersecurity and biomedical research, outperforming its base model significantly on reasoning benchmarks and demonstrating reliable tool use for factual accuracy.
+
+`text-generation` `9.4B`
+
+⬇️ 114,499 • ❤️ 612 • 3d ago
 
 ---
 
@@ -495,7 +495,7 @@ Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic co
 
 `text-generation` `664,944`
 
-⬇️ 135,452 • ❤️ 278 • 6d ago
+⬇️ 135,452 • ❤️ 282 • 6d ago
 
 ---
 
@@ -576,7 +576,7 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 EverMemOS presents a self-organizing memory system for large language models that processes dialogue streams into structured memory cells and scenes to enhance long-term interaction capabilities.
 
-▲ 12 • 💬 1 • ⭐ 9,890 • 5mo ago
+▲ 12 • 💬 1 • ⭐ 9,945 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02163) • [💻 code](https://github.com/EverMind-AI/EverMemOS)
 
@@ -616,7 +616,7 @@ olmOCR is an open-source toolkit using a fine-tuned vision language model to pro
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 61 • 💬 1 • ⭐ 84,946 • 34mo ago
+▲ 61 • 💬 1 • ⭐ 85,010 • 34mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -629,7 +629,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 82 • 💬 7 • ⭐ 78,888 • 23mo ago
+▲ 82 • 💬 7 • ⭐ 78,975 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -645,7 +645,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 70.1k • 🔱 3.6k • 1d ago
+⭐ 70.2k • 🔱 3.6k • 1d ago
 
 ---
 
@@ -655,7 +655,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.2k • 🔱 1.1k • 2m ago
+⭐ 11.2k • 🔱 1.1k • 3m ago
 
 ---
 
@@ -665,7 +665,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.9k • 🔱 748 • 1m ago
+⭐ 5.9k • 🔱 751 • 45m ago
 
 ---
 
@@ -675,7 +675,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.6k • 🔱 588 • 3h ago
+⭐ 4.6k • 🔱 588 • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.2k • 🔱 199 • 3d ago
+⭐ 2.2k • 🔱 199 • 4d ago
 
 ---
 
@@ -715,7 +715,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.7k • 🔱 82 • 1h ago
+⭐ 1.7k • 🔱 82 • 38m ago
 
 ---
 
@@ -735,7 +735,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.5k • 🔱 62 • 17h ago
+⭐ 1.5k • 🔱 63 • 19h ago
 
 ---
 

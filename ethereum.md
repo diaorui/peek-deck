@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-01T14:37:39.190710+00:00'
+updated: '2026-07-01T17:14:33.479689+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 01, 2026 at 14:37 UTC  
+**Last Updated:** July 01, 2026 at 17:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +2.1%  
-**7d:** +2.1%  
-**30d:** -14.0%  
-**90d:** -22.1%  
-**1y:** -37.7%  
+**7d:** +2.8%  
+**30d:** -13.4%  
+**90d:** -21.5%  
+**1y:** -37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $192.93B
+**Market Cap:** $194.30B
 Rank #2
 
 **Circulating Supply:** 120,683,397 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.7%
+-67.4%
 
 **All-Time Low:** $0.43
-+369125.8%
++371885.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've noticed something funny. A lot of people talk about crypto adoption, but most crypto holders I know barely spend any of it. Recently, I started exploring ways people use crypto outside of exchanges. It made me realize that most of us probably don't spend crypto simply because we don't think about it. Not because there aren't options. I'm just curious where people stand on this. Do you actively spend crypto or is it mostly something you hold long-term?
 
-3h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've noticed something funny. A lot of people talk about crypto adoption, but mo
 
 Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a DeFi protocol that's been around for a long time; Ethereum oldheads might remember the name from as far back as 2019. The protocol works by users depositing their yield-bearing tokens, then their pool of yield being randomly awarded as prizes among the depositors. It incentivizes responsible saving by giving it some of the excitement of gambling, but without any of the degen risktaking--users never lose what they deposited and can withdraw at any time. Right now we're gearing up to have a giveaway of free chances to win on Base, where the total prize pool is currently 3.9 WETH. All you have to do to be eligible is join our Discord server and subscribe to our notification bot, Tooly. The winner of this giveaway will be selected this Thursday, July 2nd.
 
-18h ago
+21h ago
 
 ---
 
@@ -154,67 +154,27 @@ The problem: Single-authority customs approval is a rational bribery target. One
 
 Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, July 1: Bitcoin's worst month since June '22](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-1-bitcoins-worst-month-since-june-22-123840769.html)**
+**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
-Bitcoin opened at $58,549.86 on Wednesday, down 2.6% from Tuesday's open. The price of bitcoin was $58,439.99 as of 8:27 a.m. ET this morning. Ethereum opened at $1,569.74 on Wednesday, down 2.5% compared to Tuesday's opening price. Ethereum prices this morning shifted to $1,568.26 as of 8:27 a.m. ET.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Cantor Fitzgerald cuts Bitmine Immersion stock price target on Ethereum focus](https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-bitmine-immersion-stock-price-target-on-ethereum-focus-93CH-4770287)**
-
-Investing.com • 2h ago
+ethereum.org • 1h ago
 
 ---
 
 **[EthLabs Launches as Ethereum Undergoes Its Biggest Leadership Transition in Years](https://news.futunn.com/en/post/75398088/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in)**
 
-富途牛牛 • 20m ago
+富途牛牛 • 2h ago
 
 ---
 
-**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4608880-citi-cuts-bitcoin-ethereum-price-targets-on-negative-etf-flows)**
+**[Is Bitmine Immersion Technologies’ (BMNR) Russell Debut Reshaping Its Ethereum-Heavy Investment Narrative?](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-russell-071743433.html)**
 
-Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
+In late June 2026, Bitmine Immersion Technologies, Inc. was added to multiple Russell equity indexes, including the Russell 1000, 2500, 3000 and related value and completeness benchmarks, while also declaring a cash dividend on its 9.50% Series A Perpetual Preferred Stock listed as BMNP. These moves highlight Bitmine’s emergence as a large-cap index constituent with one of the largest Ethereum treasuries and staking operations in the market, underscoring its growing presence at the...
 
-Seeking Alpha • 2h ago
-
----
-
-**[Bitmine Acquires $43 Million Of Ethereum As Price Slides](https://finance.yahoo.com/markets/crypto/articles/bitmine-acquires-43-million-ethereum-134200182.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) bought another 27,084 of Ethereum (CRYPTO: $ETH) over the past week as...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Tom Lee blames bitcoin, ether weakness on quarter-end rebalancing as Bitmine (BMNR) buys $43M ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
-
-Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
-
-Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
-
-The Block • 1d ago
-
----
-
-**[Current price of Ethereum for July 1, 2026](https://fortune.com/article/price-of-ethereum-07-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -222,7 +182,47 @@ Fortune • 1h ago
 
 The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
 
-CoinDesk • 55m ago
+CoinDesk • 3h ago
+
+---
+
+**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4608880-citi-cuts-bitcoin-ethereum-price-targets-on-negative-etf-flows)**
+
+Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
+
+Seeking Alpha • 5h ago
+
+---
+
+**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
+
+TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
+
+TradingView • 23h ago
+
+---
+
+**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
+
+Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
+
+The Block • 2d ago
+
+---
+
+**[Current price of Ethereum for July 1, 2026](https://fortune.com/article/price-of-ethereum-07-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?](https://www.fool.com/investing/2026/07/01/bitcoin-vs-ethereum-which-is-the-better-long-term/)**
+
+The top two cryptocurrencies are only superficially similar.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 208 • ⏱️ 11:44 • 15h ago
+👁️ 44K • 👍 2K • 💬 245 • ⏱️ 11:44 • 18h ago
 
 ---
 
@@ -246,7 +246,17 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 124 • ⏱️ 11:49 • 1d ago
+👁️ 47K • 👍 2K • 💬 126 • ⏱️ 11:49 • 1d ago
+
+---
+
+**[Claude AI trading bot + 22 Hours = 0.858 Ethereum (Actual results)](https://www.youtube.com/watch?v=DMqPLd8NtRg)**
+
+Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources & Guide : https://tr.ee/mlf9pB Tired of ...
+
+📺 Ryan Walker
+
+👁️ 4K • 👍 139 • 💬 9 • ⏱️ 5:58 • 1h ago
 
 ---
 
@@ -256,7 +266,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 10K • 👍 303 • 💬 58 • ⏱️ 1:01:02 • 2d ago
+👁️ 10K • 👍 307 • 💬 58 • ⏱️ 1:01:02 • 2d ago
 
 ---
 
@@ -266,47 +276,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 169 • 💬 70 • ⏱️ 41:52 • 1d ago
-
----
-
-**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum &amp; AI](https://www.youtube.com/watch?v=heyjP_yj3DI)**
-
-The first generation of crypto treasury companies was all about accumulating digital assets. But according to Bit Digital CEO Sam ...
-
-📺 Coinage
-
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 17:46 • 22h ago
-
----
-
-**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
-
-BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
-
-📺 Big Time Trades
-
-👁️ 4K • 👍 154 • 💬 39 • ⏱️ 29:00 • 19h ago
-
----
-
-**[BITCOIN, Ethereum, MiCA, Stablecoins y lo que Pasará con los EXCHANGES en EUROPA](https://www.youtube.com/watch?v=hLQ1US4OO8Y)**
-
-Consigue 20% de rentabilidad extra en Criptan desde aquí: https://criptan.com/inversion-racional/ Notas del episodio y ...
-
-📺 Inversión Racional Podcast
-
-👁️ 1K • 👍 146 • 💬 10 • ⏱️ 2:16:37 • 2h ago
-
----
-
-**[BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ux_u_EKbT78)**
-
-BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 304 • 💬 139 • ⏱️ 20:44 • 16h ago
+👁️ 6K • 👍 171 • 💬 71 • ⏱️ 41:52 • 1d ago
 
 ---
 
@@ -316,7 +286,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 660 • 💬 91 • ⏱️ 18:35 • 22h ago
+👁️ 17K • 👍 677 • 💬 93 • ⏱️ 18:35 • 1d ago
+
+---
+
+**[BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ux_u_EKbT78)**
+
+BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 313 • 💬 180 • ⏱️ 20:44 • 19h ago
+
+---
+
+**[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
+
+Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 60K • 👍 2K • 💬 118 • ⏱️ 9:55 • 2d ago
+
+---
+
+**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
+
+BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
+
+📺 Big Time Trades
+
+👁️ 4K • 👍 159 • 💬 39 • ⏱️ 29:00 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 109 • 👍 17 • ⏱️ 4:50 • 5h ago
+👁️ 127 • 👍 18 • ⏱️ 4:50 • 8h ago
 
 ---
 
