@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-01T08:19:03.409295+00:00'
+updated: '2026-07-01T11:38:28.941060+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 01, 2026 at 08:19 UTC  
+**Last Updated:** July 01, 2026 at 11:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the back-drivability is wild. Just for context: we were getting super annoyed with stripping the 3D-printed plastic gears on open-source rigs like the Berkeley Lite and ALOHA. They are awesome projects, but the plastic joints are fragile and a nightmare to maintain. So we designed this as a drop-in replacement (calling it the Starfruit Actuator). Instead of printing two different plastic joint types, we wanted a single unified metal design to simplify the BOM and actually survive dynamic loads. Specs we're rolling with for the final drop: 30:1 ratio (30 teeth, 31 pins) Dual absolute encoders (supports FOC & MIT modes) Fully ODrive-compatible Target price: ~$149 Next up is integrating the motor and driver board, then throwing it on the test bench to see if it survives a 76 Nm torque test without exploding. Fingers crossed lol. Let me know what you think of the machining! All the STEP files, ROS2 nodes, and configs are going to be 100% open source. I'll drop the project link in the comments if anyone wants to track the testing or grab the files when they go live.
 
-21h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Hey guys. A couple months back I asked this sub for some reality checks on using
 
 This is my project, Mighty Camera. It is essentially a monocular SLAM camera running entirely on tiny onboard compute. See my past posts for details. Mighty also supports combining multiple cameras and synchronizing them to produce frame-level synced streams. In this setup, I’m using that hardware synchronization to generate depth with SGBM, while it also produces VIO pose.
 
-16h ago
+19h ago
 
 ---
 
@@ -58,13 +58,13 @@ This is my project, Mighty Camera. It is essentially a monocular SLAM camera run
 
 Some of you asked for the full pipeline code, so here it is. https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place
 
-14h ago
+18h ago
 
 ---
 
 **[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
 
-10h ago
+14h ago
 
 ---
 
@@ -78,7 +78,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 **[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -110,15 +110,15 @@ So I want to perform a material characterization study on a material where I nee
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 6h ago
+South China Morning Post • 9h ago
 
 ---
 
-**[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
+**[This $5.5 billion robotics startup built a school for humanoids](https://www.businessinsider.com/apptroniks-humanoid-robots-are-practicing-for-their-first-real-jobs-2026-6)**
 
-Robotics maker bets on realism to answer demand for companionship, counseling
+At Robot Park in Austin, Apptronik's humanoid robots train for jobs in factories, warehouses, and homes.
 
-Nikkei Asia • 13h ago
+Business Insider • 23h ago
 
 ---
 
@@ -130,59 +130,55 @@ CNN • 1d ago
 
 ---
 
-**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
+**[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
 
-Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
+Robotics maker bets on realism to answer demand for companionship, counseling
 
-Fox News • 20h ago
-
----
-
-**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
-
-Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
-
-NASA (.gov) • 21h ago
+Nikkei Asia • 16h ago
 
 ---
 
-**[Japan aims to deploy 10 million AI robots by 2040](https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/)**
+**[Figure AI’s F.03 returns to BMW’s factory floor](https://interestingengineering.com/videos/figure-ais-f-03-returns-to-bmws-factory-floor)**
 
-Japan's industry ministry says it aims to introduce about 10 million AI-equipped robots across 18 sectors by 2040 amid the country's growing labor shortage.
+Figure AI's next-gen humanoid, Figure 03, has arrived at BMW Group Plant Spartanburg — taking over from Figure 02, which helped build over 30,000 BMW X3s in 2025. This time, the robot isn't just loading sheet metal. It's tackling sequencing: sorting unordered parts and pulling loaded carts using whole-body AI control from Figure's Helix 02 system.
 
-nhk.or.jp • 20h ago
-
----
-
-**[Boston Dynamics CEO: America's next 250 years will be built by robots. Here's what's standing in the way](https://fortune.com/2026/06/30/boston-dynamics-ceo-robots-america-national-strategy-amanda-mcmaster/)**
-
-The U.S. has always led the world's great industrial leaps. Robotics is next — but only if Washington, industry, and workers move together.
-
-Fortune • 17h ago
+Interesting Engineering • 43m ago
 
 ---
 
-**[LSU researchers are bringing medical-inspired robotics to industrial inspections](https://www.businessreport.com/business/lsu-researchers-are-bringing-medical-inspired-robotics-to-industrial-inspections)**
+**[Xpeng loses another robotics veteran as production push nears](https://cnevpost.com/2026/06/30/xpeng-loses-another-robotics-veteran/)**
 
-The device could enable industrial operators to examine hard-to-reach areas inside equipment without having to dismantle it.
+Mi Liangchuan, head of Xpeng's robotics business, has departed recently, becoming the second key executive to leave its robotics team within a month.
 
-Baton Rouge Business Report • 1d ago
-
----
-
-**[How Jaiveer Singh Is Helping Robots — and Developers — Move Faster](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/)**
-
-When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]
-
-NVIDIA Blog • 17h ago
+CnEVPost • 22h ago
 
 ---
 
-**[Better to use (and lose) robots than soldiers: Ukraine’s UGV drive](https://www.aspistrategist.org.au/better-to-use-and-lose-robots-than-soldiers-ukraines-ugv-drive/)**
+**[China opens doors to first robotics school for humanoids](https://www.independent.co.uk/bulletin/news/china-robot-school-hangzhou-video-b3006595.html)**
 
-In fighting an asymmetric war against a much larger adversary, Ukraine has sought to leverage technology wherever possible. First came the proliferation of first-person-view (FPV) drones across the battlefield. Now, uncrewed ground vehicles (UGVs) are ...
+The Independent • 15m ago
 
-The Strategist | ASPI's analysis and commentary site • 1d ago
+---
+
+**[The 2 Hidden Winners in the $9 Trillion Humanoid Robotics Opportunity](https://247wallst.com/investing/2026/06/30/the-2-hidden-winners-in-the-9-trillion-humanoid-robotics-opportunity/)**
+
+The race to build humanoid robots is accelerating from science fiction to industrial reality. RBC Capital Markets expect the market to grow into a $9 trillion opportunity by 2050, once software, services, and maintenance are included. Most investor attention has centered on companies building the robots themselves. Yet history suggests the biggest long-term winners are ... The 2 Hidden Winners in the $9 Trillion Humanoid Robotics Opportunity
+
+24/7 Wall St. • 23h ago
+
+---
+
+**[Chinese Firm Sells Hyper-real, 'Always Loyal' Humanoid Robots](https://www.barrons.com/news/chinese-firm-sells-hyper-real-always-loyal-humanoid-robots-0d4612e6)**
+
+Barron's • 1h ago
+
+---
+
+**[Engineering a New Era of Robotics](https://time.com/branded-content/global-kigyo/engineering-a-new-era-of-robotics/)**
+
+Engineering a New Era of Robotics
+
+Time Magazine • 58m ago
 
 ---
 
@@ -190,23 +186,13 @@ The Strategist | ASPI's analysis and commentary site • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
+**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
 
-China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
 
-📺 Prime Insights
+📺 OTOFOOTAGE
 
-👁️ 450K • 👍 13K • 💬 1K • ⏱️ 24:13 • 3d ago
-
----
-
-**[Tesla Optimus Gen 3: 1,000 Robots Dominate Giga Texas — 10M Coming](https://www.youtube.com/watch?v=rg0ib2xilGY)**
-
-Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock 10M robots by 2027. ✓ All Breaking NEWS: ...
-
-📺 Tech Revolution
-
-👁️ 39K • 👍 817 • 💬 67 • ⏱️ 21:30 • 6d ago
+👁️ 7K • 👍 117 • 💬 46 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -216,17 +202,27 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 5K • 👍 240 • 💬 83 • ⏱️ 3:59 • 6h ago
+👁️ 9K • 👍 317 • 💬 111 • ⏱️ 3:59 • 9h ago
 
 ---
 
-**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
+**[Tesla Optimus Gen 3: 1,000 Robots Dominate Giga Texas — 10M Coming](https://www.youtube.com/watch?v=rg0ib2xilGY)**
 
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock 10M robots by 2027. ✓ All Breaking NEWS: ...
 
-📺 OTOFOOTAGE
+📺 Tech Revolution
 
-👁️ 5K • 👍 106 • 💬 43 • ⏱️ 3:05 • 22h ago
+👁️ 40K • 👍 818 • 💬 67 • ⏱️ 21:30 • 6d ago
+
+---
+
+**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
+
+China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
+
+📺 Prime Insights
+
+👁️ 451K • 👍 14K • 💬 1K • ⏱️ 24:13 • 3d ago
 
 ---
 
@@ -236,7 +232,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 91K • 👍 5K • 💬 2K • ⏱️ 13:18 • 2d ago
+👁️ 92K • 👍 5K • 💬 2K • ⏱️ 13:18 • 2d ago
 
 ---
 
@@ -246,7 +242,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 27K • 👍 385 • 💬 22 • ⏱️ 5:08 • 2d ago
+👁️ 28K • 👍 389 • 💬 22 • ⏱️ 5:08 • 2d ago
 
 ---
 
@@ -256,7 +252,15 @@ Female humanoid robots are getting so realistic that they are starting to cross 
 
 📺 Evolving AI
 
-👁️ 5K • 👍 93 • ⏱️ 10:47 • 2d ago
+👁️ 6K • 👍 94 • ⏱️ 10:47 • 2d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=VRmn9bNmG-4)**
+
+📺 Robot Julie 
+
+👁️ 2K • 👍 4 • ⏱️ 0:17 • 10h ago
 
 ---
 
@@ -266,27 +270,15 @@ Robotics is a booming business, but it's not all about upstarts. There's a $150 
 
 📺 The Motley Fool
 
-👁️ 5K • 👍 166 • 💬 3 • ⏱️ 11:26 • 2d ago
+👁️ 5K • 👍 170 • 💬 3 • ⏱️ 11:26 • 2d ago
 
 ---
 
-**[🔴 War Robots: ¡VULCAN is the new Best  META ROBOT! 😱 [Lumen] Gameplay](https://www.youtube.com/watch?v=SYJK8-nUIG4)**
+**[Found a secret robot dancer at the theme park!#robot #robotics #smartrobot #ruko #outdoors](https://www.youtube.com/watch?v=g8-ON_Cfj78)**
 
-warrobots #robotgame #warrobotsgameplay War Robots: ¡VULCAN is the new Best META ROBOT! [Lumen] Gameplay.
+📺 Smarttoy Ruko
 
-📺 Skilled Gaming WR
-
-👁️ 4K • 👍 131 • 💬 18 • ⏱️ 22:05 • 15h ago
-
----
-
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
-
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
-
-📺 brenpoly
-
-👁️ 73K • 👍 4K • 💬 239 • ⏱️ 23:57 • 3d ago
+👁️ 643 • 👍 2 • ⏱️ 0:23 • 1h ago
 
 ---
 

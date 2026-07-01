@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-01T08:19:03.406415+00:00'
+updated: '2026-07-01T11:38:28.937869+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 01, 2026 at 08:19 UTC  
+**Last Updated:** July 01, 2026 at 11:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,576.02
+### $1,581.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +0.4%  
-**30d:** -15.4%  
-**90d:** -23.3%  
-**1y:** -38.7%  
+**24h:** +1.2%  
+**7d:** +0.2%  
+**30d:** -15.5%  
+**90d:** -23.5%  
+**1y:** -38.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.86B
+**Market Cap:** $189.46B
 Rank #2
 
 **Circulating Supply:** 120,683,397 ETH
@@ -62,11 +62,35 @@ No max supply
 -68.2%
 
 **All-Time Low:** $0.43
-+363130.1%
++362592.0%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion July 01, 2026](https://www.reddit.com/r/ethereum/comments/1ukc641/daily_general_discussion_july_01_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+6h ago
+
+---
+
+**[Does anyone else hold crypto but rarely spend it?](https://www.reddit.com/r/ethereum/comments/1ukiooc/does_anyone_else_hold_crypto_but_rarely_spend_it/)**
+
+I've noticed something funny. A lot of people talk about crypto adoption, but most crypto holders I know barely spend any of it. Recently, I started exploring ways people use crypto outside of exchanges. It made me realize that most of us probably don't spend crypto simply because we don't think about it. Not because there aren't options. I'm just curious where people stand on this. Do you actively spend crypto or is it mostly something you hold long-term?
+
+25m ago
+
+---
+
+**[PoolTogether is looking for more community members](https://www.reddit.com/r/ethereum/comments/1ujzzz6/pooltogether_is_looking_for_more_community_members/)**
+
+Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a DeFi protocol that's been around for a long time; Ethereum oldheads might remember the name from as far back as 2019. The protocol works by users depositing their yield-bearing tokens, then their pool of yield being randomly awarded as prizes among the depositors. It incentivizes responsible saving by giving it some of the excitement of gambling, but without any of the degen risktaking--users never lose what they deposited and can withdraw at any time. Right now we're gearing up to have a giveaway of free chances to win on Base, where the total prize pool is currently 3.9 WETH. All you have to do to be eligible is join our Discord server and subscribe to our notification bot, Tooly. The winner of this giveaway will be selected this Thursday, July 2nd.
+
+15h ago
+
+---
 
 **[Daily General Discussion June 30, 2026](https://www.reddit.com/r/ethereum/comments/1ujfphl/daily_general_discussion_june_30_2026/)**
 
@@ -78,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[What is the Ethereum Glamsterdam Upgrade? Everything You Need to Know](https://www.reddit.com/r/ethereum/comments/1ujo1lo/what_is_the_ethereum_glamsterdam_upgrade/)**
 
-19h ago
+23h ago
 
 ---
 
@@ -86,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I frequently experience this when traveling. The transaction is rejected, the card is flagged, and the bank must be contacted from a different time zone. truly draining. began storing cryptocurrency as a backup just for this purpose. discovered a crypto platform, which offers travel and mobility gift cards that can be purchased using cryptocurrency and sent instantaneously to Hotels.com, Uber, and airline platforms. Thus, in the event that my card is blocked, I can obtain a Bitcoin or Ethereum gift card and complete the reservation without having to deal with the bank. Does anyone else use this as a backup plan when traveling? I want to know if this is a frequent workaround or if there are better choices.
 
-19h ago
+22h ago
 
 ---
 
@@ -122,30 +146,6 @@ The problem: Single-authority customs approval is a rational bribery target. One
 
 ---
 
-**[Daily General Discussion June 27, 2026](https://www.reddit.com/r/ethereum/comments/1ugtj0j/daily_general_discussion_june_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[Daily General Discussion June 26, 2026](https://www.reddit.com/r/ethereum/comments/1ufx7b9/daily_general_discussion_june_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[Ethereal news weekly #29 | Strawmap updated, Ethereum Foundation restructure, Ethlabs launched](https://www.reddit.com/r/ethereum/comments/1ug4xsj/ethereal_news_weekly_29_strawmap_updated_ethereum/)**
-
-Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-29/) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +154,21 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.
 
-Decrypt • 16h ago
+Decrypt • 19h ago
 
 ---
 
-**[Is Bitmine Immersion Technologies’ (BMNR) Russell Debut Reshaping Its Ethereum-Heavy Investment Narrative?](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-russell-071743433.html)**
+**[Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-better-long-095000325.html)**
 
-In late June 2026, Bitmine Immersion Technologies, Inc. was added to multiple Russell equity indexes, including the Russell 1000, 2500, 3000 and related value and completeness benchmarks, while also declaring a cash dividend on its 9.50% Series A Perpetual Preferred Stock listed as BMNP. These moves highlight Bitmine’s emergence as a large-cap index constituent with one of the largest Ethereum treasuries and staking operations in the market, underscoring its growing presence at the...
+The top two cryptocurrencies are only superficially similar.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Citi downgrades Bitcoin and Ethereum outlook: Bitcoin target price at USD 82,000, Ethereum target price at USD 2,240](https://news.futunn.com/en/post/75379867/citi-downgrades-bitcoin-and-ethereum-outlook-bitcoin-target-price-at)**
+
+富途牛牛 • 3h ago
 
 ---
 
@@ -202,7 +208,7 @@ The Block • 2d ago
 
 TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
 
-TradingView • 15h ago
+TradingView • 18h ago
 
 ---
 
@@ -210,15 +216,7 @@ TradingView • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Wednesday after a recent correction.
 
-FXStreet • 4h ago
-
----
-
-**[Is Ethereum's Golden Goose Finally Cooked?](https://www.fool.com/investing/2026/06/29/is-ethereums-golden-goose-finally-cooked/)**
-
-Sentiment about the coin is in the dumps, and it's no surprise why.
-
-The Motley Fool • 1d ago
+FXStreet • 8h ago
 
 ---
 
@@ -226,7 +224,7 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 22h ago
 
 ---
 
@@ -240,7 +238,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 90 • ⏱️ 11:44 • 9h ago
+👁️ 36K • 👍 2K • 💬 120 • ⏱️ 11:44 • 12h ago
 
 ---
 
@@ -250,7 +248,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 138 • ⏱️ 11:49 • 1d ago
+👁️ 47K • 👍 2K • 💬 132 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -260,7 +258,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 165 • 💬 67 • ⏱️ 41:52 • 1d ago
+👁️ 6K • 👍 166 • 💬 67 • ⏱️ 41:52 • 1d ago
+
+---
+
+**[HUGE ETH BREAKOUT SOON! (Ethereum Update)](https://www.youtube.com/watch?v=yq6E3Ye_kRA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 60 • 👍 7 • ⏱️ 4:50 • 2h ago
 
 ---
 
@@ -270,7 +278,7 @@ Joseph Chalom makes the case that this is one of the best ETH entry points we've
 
 📺 The Rollup
 
-👁️ 6K • 👍 116 • 💬 22 • ⏱️ 5:59 • 1d ago
+👁️ 6K • 👍 121 • 💬 23 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -280,17 +288,7 @@ BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Mark
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 144 • 💬 41 • ⏱️ 29:00 • 13h ago
-
----
-
-**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum &amp; AI](https://www.youtube.com/watch?v=heyjP_yj3DI)**
-
-The first generation of crypto treasury companies was all about accumulating digital assets. But according to Bit Digital CEO Sam ...
-
-📺 Coinage
-
-👁️ 1K • 👍 27 • 💬 12 • ⏱️ 17:46 • 16h ago
+👁️ 4K • 👍 147 • 💬 38 • ⏱️ 29:00 • 16h ago
 
 ---
 
@@ -300,27 +298,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 10K • 👍 295 • 💬 58 • ⏱️ 1:01:02 • 1d ago
+👁️ 10K • 👍 298 • 💬 58 • ⏱️ 1:01:02 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0D8Fyz3CZXg)**
+**[Why Bit Digital Sold Its Bitcoin to Bet on Ethereum &amp; AI](https://www.youtube.com/watch?v=heyjP_yj3DI)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+The first generation of crypto treasury companies was all about accumulating digital assets. But according to Bit Digital CEO Sam ...
 
-📺 Crypto Gyan
+📺 Coinage
 
-👁️ 522 • 👍 59 • ⏱️ 6:30 • 4h ago
+👁️ 1K • 👍 31 • 💬 2 • ⏱️ 17:46 • 19h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: AHHH… JESUS CHRIST HELP US NOW!!!!!](https://www.youtube.com/watch?v=D1DmwkPwiyc)**
+**[“The Bottom Is IN! Prepare for a Massive Bull Run Before this Date”: Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=4HFz5GhMU0U)**
 
-Bitcoin, ethereum and general markets are showing us clear patterns now! Here is what I am doing!!!! ---------- Join My FREE ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Thomas Kralow
+📺 Crypto Nutshell
 
-👁️ 15K • 👍 1K • 💬 32 • ⏱️ 9:18 • 1d ago
+👁️ 15K • 👍 615 • 💬 116 • ⏱️ 18:36 • 19h ago
 
 ---
 
@@ -330,7 +328,7 @@ BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 258 • 💬 267 • ⏱️ 20:44 • 10h ago
+👁️ 6K • 👍 293 • 💬 95 • ⏱️ 20:44 • 13h ago
 
 ---
 
