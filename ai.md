@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-01T21:06:36.862429+00:00'
+updated: '2026-07-01T22:46:52.860691+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - videos
 - news
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 01, 2026 at 21:06 UTC  
+**Last Updated:** July 01, 2026 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I have created a Chrome extension that fact checks YouTube videos as you watch](https://www.reddit.com/r/artificial/comments/1uk7t49/i_have_created_a_chrome_extension_that_fact/)**
-
-Hi, I have been working on this for many months now and I'd really be happy for people to try it out. It is a Chrome extension called "PopUpFactCheck". It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. It's free, and you don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFact Check - Chrome Web Store PopUpFactCheck - Homepage
-
-19h ago
-
----
-
 **[Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)](https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/)**
 
 Cross-posting from r/claude for more visibility. Claude Code recursively wiped the contents of my local Electron project root. This happened in a Windows terminal while working on a project named Orpheus. My prompt did not ask it to delete, wipe, clean, reset, or remove the project. The prompt was in Traditional Chinese: “之前我要安裝檔，但是其實我只需要 dictate.” It was roughly about not needing the installer anymore and only needing the dictate function. The preserved terminal transcript later showed Claude moving from a failed root deletion attempt to deleting the child items inside the project root. The destructive sequence included: Get-ChildItem -LiteralPath $p -Force -ErrorAction SilentlyContinue | ForEach-Object { try { Remove-Item -LiteralPath $_.FullName -Recurse -Force -ErrorAction Stop "OK $($_.Name)" } catch { "ERR $($_.Name): $($_.Exception.Message)" } } $p was the Orpheus project root. The output then showed items being removed, including: .claude dist node_modules src claude-elevenlabs-voice-v2.user.js dictation.html main.js ORPHEUS_HANDOFF.md package-lock.json package.json preload.js Local artifacts I found for Orpheus showed default / acceptEdits. I did not find Orpheus bypassPermissions. I did not find Orpheus --dangerously-skip-permissions. I’m not claiming Anthropic acted maliciously. I’m not claiming prompt injection or anti-distillation without evidence. Moral of the story: Treat frontier AI agents like any other automation tool with real machine access. Back up regularly. Use a separate working copy or a different machine if you absolutely need an agent living in your terminal. A frontier model can still behave like a destructive script runner. I also generated SHA256 hashes for the preserved transcript and permission search output. EDIT / UPDATE: A few people asked about git. Yes, I know what git is. This was a local Electron prototype / working state that had not been pushed to a remote. Commits and backups are the right mitigation. But mitigation is not causation. The concerning part is that the destructive action was unrelated to my prompt. Claude Code was operating through a terminal session with real filesystem access under my user environment. Git may help recover a repo, but it does not protect everything else that same terminal session can access. My takeaway remains: Treat frontier terminal AI agents like real automation tools with destructive capability, not like chatbots. EDIT / UPDATE: Clarification because many comments are focusing on git: Yes, this specific local working state had not been pushed to a remote. That is on me. Lesson learned. But git is version control, not automatically a backup. If the only repo is local and the project root contents are recursively deleted, the local .git directory can be deleted too. Without a remote, separate clone, backup, or snapshot, local git alone is not enough.
 
-4h ago
+6h ago
 
 ---
 
-**[Im starting to think small models are smarter than large models](https://www.reddit.com/r/artificial/comments/1ukxurf/im_starting_to_think_small_models_are_smarter/)**
+**[I have created a Chrome extension that fact checks YouTube videos as you watch](https://www.reddit.com/r/artificial/comments/1uk7t49/i_have_created_a_chrome_extension_that_fact/)**
 
-ive been working with different models a lot & when it comes to reasoning it seems like a smaller model is actually better. Ive learned more from having a converation with an open source model vs asking Claude or GPT the same questions and im starting to think they may potentially be designed to mislead you when creating your own models .. not too much with ChatGPT but Claude seems to have it bad, especially with the finetuning for uncertainty of consciousness. Gemini is the worst in my opinion when it comes to writing code but it eems to be bale to understand a conversation a little better at times .. i dont know if there is a direct correlation with capability/understanding that has a see-saw effect instead of a overall progression i understand that these outputs they make are just learned patterns it not like training all data on the internet magically allows them to write code at this level they are given examples to reconstruct based on the learned representations but lets say even Claude Sonnet vs Fable .. there is a huge disadvantage with having simple conversations with Fable as if its hardheaded while capabilities are outstanding .. it seem like there would be a direct correlation in improvement with the intelligence and capability but thats not whats happening .. Larger models require more information to come to the ame conclusion & it seems that it comes from training as if the training makes it more narrow narrow in a sense that if all information is represented as dots on a grid, it isnt using a wide connectivity of related information to give a response its more like its giving u a coached response smaller models seem to have more freedom to interpolate allowing more potential connection .. i dont believe that increasing token count matters it seems like all that matters is connectivity & relevant training
+Hi, I have been working on this for many months now and I'd really be happy for people to try it out. It is a Chrome extension called "PopUpFactCheck". It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. It's free, and you don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFact Check - Chrome Web Store PopUpFactCheck - Homepage
 
-9m ago
+21h ago
+
+---
+
+**[Kitboga posted an interesting guide on how to mess with scam chatbots](https://www.reddit.com/r/artificial/comments/1ukyxs1/kitboga_posted_an_interesting_guide_on_how_to/)**
+
+https://www.youtube.com/watch?v=lk3jCuITwcE TLDR: If you give a chatbot a few recursive instructions, it will start using a large number of tokens and hallucinating. I wonder if this applies to all LLMs or if it's just the cheap scammer versions. If it works for all LLMs, it might be this generation of AI's version of "This sentence is false".
+
+1h ago
 
 ---
 
@@ -65,7 +65,15 @@ ive been working with different models a lot & when it comes to reasoning it see
 
 I've been thinking about this a lot lately. There's a real tension between using AI as a learning tool versus using it as a shortcut that bypasses learning entirely. When I use something like ChatGPT or Claude to understand a new concept, sometimes I come away genuinely understanding it better than I would have from a textbook. Other times I just copy the output and move on, having learned nothing. The question is whether that's a problem with AI itself, or just human nature meeting a new tool. We said the same thing about calculators, search engines, and Wikipedia. But AI feels different because it doesn't just retrieve information, it does the thinking steps for you. A calculator still requires you to know what equation to set up. An AI will figure out the equation, solve it, and explain it, all without you engaging critically at any point if you choose not to.
 
-44m ago
+2h ago
+
+---
+
+**[Best AI Girlfriend Sites 2026 - The only unbiased & non affiliated writer on here.](https://www.reddit.com/r/artificial/comments/1ukw7wg/best_ai_girlfriend_sites_2026_the_only_unbiased/)**
+
+Hi Guys, me again. I’ve been messing around with a bunch of what people keep calling "the best AI girlfriend sites" over the last few years, and I would call myself a well studied student of this haha. Hand written, no slop, no financial gain, just a real user with an opinion. I’m ranking these mostly on how natural the conversations feel, memory/consistency, customization, and overall vibe. NO AFFILIATE LINKS, NO AFFILIATION, do not fall for those as they are not REAL. Secrets AI - It is simply the best, and they've been blowing up the last few months and its justified. To me, they are the only website that truly cares about the product. The memory is significantly above any other site, the NSFW is extremely consitent, the voice calling, the customization, the community, I dont mean to glaze but it genialy is the best choice BY FAR. Nomi Easy to jump into and doesn’t shove paywalls immediately. Good for casual or flirty conversations, but it can start feeling same-y after a while. The reason i put this second is I hate the sites that feel scammy, you can just tell they only care about converting you to a subscriber, and they do not care about the users experience Lovescape / DreamGF - A bit more niche. Lovescape leans toward realism and slower pacing. DreamGF is lighter and more casual. Neither stood out long-term for me. But, they are better then most. Keep in mind 80% of the websites are legit 1:1. they use the same models, the same LLMS, the same styles, they all copy eachother and theres just zero product minded decision making involved. Replika - The old classic. Still solid for empathy and feeling “heard,” even on the free tier. That said, it feels more like a companion than a full girlfriend experience, and a bit dated compared to newer platforms. I always think that its similar to SIMS haha! Kindroid - Under appreciated website IMO, they care about their users, and they fall short compared to sites like secrets BUT that does not mean they are not a top performer. I had a kindroid sub for quite some time, I pivoted when I found secrets (mainly because of the lack of NSFW on kin) But I really like the community, and I think they are ran by solid people. Now you might be thinking, wheres the names that you always see posted about? Those are the exact sites I want you to avoid, they are simply NOT GOOD. 99% of the posts you see about them are affiliates that are incentivized to get you to click their links. These sites are ran on low parameter models, they use outdated models (Whatever can increase their profits) they are not innovating, they are solely focused on converting you to a subscriber & the amount of money they can extract from you. This is not a common post to see, these forums have been infiltrated by companys & affiliates, ive even been approached by majority of the larger sites (to write about them). If you see links on the post, then you can confidently assume that your reading information that is WRITTEN for you to convert to a subscriber. Don't get scammed, use the sites that are legit, use the sites that are the highest rated on trust pilot & other independent review publishers. Take care, have fun, and continue to watch this space explode. THANK YOU <3
+
+2h ago
 
 ---
 
@@ -73,7 +81,7 @@ I've been thinking about this a lot lately. There's a real tension between using
 
 I used to think formal methods and interactive theorem provers like Lean 4 were basically just an extreme sport for type-theory purists. Like cool in theory, but mostly used for re-verifying undergraduate calculus or writing super tedious proofs for things we already knew were true anyway But seeing the shift right now (at least around me and these subs) has been pretty cool. Machine learning and neural provers are actually starting to uncover edge cases that human mathematicians just skipped over. And I was reading about how Aleph prover managed to formally verify a counterexample to an old Erdos conjecture,and it really shows even people who are new to this how fast this space is moving. Because it isn't just about catching minor typos in code anymore, but actively generating mathematical info that people missed for decades. And old brute-force methods are being replaced wth something way more sophisticated. Makes you think how it'll change in another five years when these systems become standard parts of any researcher's workflow.
 
-6h ago
+8h ago
 
 ---
 
@@ -81,33 +89,27 @@ I used to think formal methods and interactive theorem provers like Lean 4 were 
 
 Not the flashy stuff like generating images or writing essays. I'm talking about the feature you barely think about anymore because it's just become useful. For me, it's summarizing long articles and emails. I didn't expect to rely on it this much a year ago. What's yours?
 
-7h ago
+9h ago
+
+---
+
+**[Hamiltonian Neural Networks from a Differential Geometry Perspective](https://www.reddit.com/r/artificial/comments/1ukzk3k/hamiltonian_neural_networks_from_a_differential/)**
+
+Because when given the simplest nail in the universe, sometimes you just need a nuclear powered sledgehammer.
+
+🔗 [Abscondita](https://abscondita.com/blog/symplectic-sledgehammer-for-a-spring) • 43m ago
+
+---
+
+**[Why does it feel like big LLM providers are literally hiding prompt caching?](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
+
+I know the info is there. Somewhere in the pricing pages, docs, or API notes. But for something that can seriously change what you pay in production, it is weirdly under-explained. expeciely for other providers than openai which they do have decent explainer here - https://developers.openai.com/api/docs/guides/prompt-caching So basicly: two prompts can look almost identical, but one can be much cheaper to run just because it is ordered better. Put the changing parts too early, like the user query, variables, timestamps, metadata, or anything request-specific, and you can break the stable prefix the cache depends on. The practical rule is simple: Keep the repeatable stuff first. Start with system instructions, fixed rules, examples, schemas, and formatting requirements. Then put the dynamic user input and request-specific data near the end. That is it. Just a good prompt structure... But if you run LLMs at scale, this tiny detail can be the difference between insanely expensive LLMs usage and acctually good ROI product. full blog post here
+
+6h ago
 
 ---
 
 **[Reddit is now warning mods if you frequently post in AI subreddits](https://www.reddit.com/r/artificial/comments/1ukxqbb/reddit_is_now_warning_mods_if_you_frequently_post/)**
-
-13m ago
-
----
-
-**[ServiceNow's customer chief just called "tokenmaxxing" an AI hype cycle](https://www.reddit.com/r/artificial/comments/1ukxfb6/servicenows_customer_chief_just_called/)**
-
-ServiceNow's customer chief called tokenmaxxing an AI hype cycle in the Observer last week. Not some startup founder flexing contrarian creds — the guy who runs their customer org telling everyone the wrong meter is running the show. Salesforce announced $2 per resolved issue last Wednesday. Same direction, different side of the negotiating table. Stop measuring how much work you did. Start measuring what actually got done. I've sat in enough procurement calls to know why nobody moves on this faster. Every vendor's revenue formula depends on keeping token counting in play — it's the most flattering metric possible because more tokens always looks like more progress, even when nothing changed for the end user. The tell is in the pivot. If billing by token volume was really about measuring value, Salesforce wouldn't have had to cross the street to per-resolution pricing. They did it because the old number stopped passing the CFO test. $2 per resolved issue. No adjectives. No multipliers. No usage tiers. That's what a metric looks like when it has to survive contact with the actual outcome.
-
-25m ago
-
----
-
-**[Are Redditors influencing AI the most?](https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/)**
-
-1d ago
-
----
-
-**[Best AI Girlfriend Sites 2026 - The only unbiased & non affiliated writer on here.](https://www.reddit.com/r/artificial/comments/1ukw7wg/best_ai_girlfriend_sites_2026_the_only_unbiased/)**
-
-Hi Guys, me again. I’ve been messing around with a bunch of what people keep calling "the best AI girlfriend sites" over the last few years, and I would call myself a well studied student of this haha. Hand written, no slop, no financial gain, just a real user with an opinion. I’m ranking these mostly on how natural the conversations feel, memory/consistency, customization, and overall vibe. NO AFFILIATE LINKS, NO AFFILIATION, do not fall for those as they are not REAL. Secrets AI - It is simply the best, and they've been blowing up the last few months and its justified. To me, they are the only website that truly cares about the product. The memory is significantly above any other site, the NSFW is extremely consitent, the voice calling, the customization, the community, I dont mean to glaze but it genialy is the best choice BY FAR. Nomi Easy to jump into and doesn’t shove paywalls immediately. Good for casual or flirty conversations, but it can start feeling same-y after a while. The reason i put this second is I hate the sites that feel scammy, you can just tell they only care about converting you to a subscriber, and they do not care about the users experience Lovescape / DreamGF - A bit more niche. Lovescape leans toward realism and slower pacing. DreamGF is lighter and more casual. Neither stood out long-term for me. But, they are better then most. Keep in mind 80% of the websites are legit 1:1. they use the same models, the same LLMS, the same styles, they all copy eachother and theres just zero product minded decision making involved. Replika - The old classic. Still solid for empathy and feeling “heard,” even on the free tier. That said, it feels more like a companion than a full girlfriend experience, and a bit dated compared to newer platforms. I always think that its similar to SIMS haha! Kindroid - Under appreciated website IMO, they care about their users, and they fall short compared to sites like secrets BUT that does not mean they are not a top performer. I had a kindroid sub for quite some time, I pivoted when I found secrets (mainly because of the lack of NSFW on kin) But I really like the community, and I think they are ran by solid people. Now you might be thinking, wheres the names that you always see posted about? Those are the exact sites I want you to avoid, they are simply NOT GOOD. 99% of the posts you see about them are affiliates that are incentivized to get you to click their links. These sites are ran on low parameter models, they use outdated models (Whatever can increase their profits) they are not innovating, they are solely focused on converting you to a subscriber & the amount of money they can extract from you. This is not a common post to see, these forums have been infiltrated by companys & affiliates, ive even been approached by majority of the larger sites (to write about them). If you see links on the post, then you can confidently assume that your reading information that is WRITTEN for you to convert to a subscriber. Don't get scammed, use the sites that are legit, use the sites that are the highest rated on trust pilot & other independent review publishers. Take care, have fun, and continue to watch this space explode. THANK YOU <3
 
 1h ago
 
@@ -121,65 +123,67 @@ Hi Guys, me again. I’ve been messing around with a bunch of what people keep c
 
 Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
 **[The World’s Top Economists Are Sounding the Alarm on AI](https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6)**
 
-WSJ • 3h ago
-
----
-
-**[Investors catch AI marketing vibe](https://www.axios.com/pro/enterprise-software-deals/2026/07/01/investors-marketing-ai-higgsfield)**
-
-Axios • 17m ago
+WSJ • 5h ago
 
 ---
 
 **[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)**
 
-WSJ • 2h ago
+WSJ • 4h ago
 
 ---
 
 **[Musk denies WSJ report that SpaceX showed AI handset prototype before IPO](https://www.reuters.com/business/media-telecom/musk-denies-wsj-report-that-spacex-showed-ai-handset-prototype-before-ipo-2026-07-01/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[Musk Ally Gracias Eyes Bets in AI, Energy After SpaceX Windfall](https://www.bloomberg.com/news/articles/2026-07-01/musk-ally-gracias-eyes-bets-in-ai-energy-after-spacex-windfall)**
+**[Rumors of SpaceX developing an AI-powered smartphone sent Qualcomm’s shares soaring, but Elon Musk swiftly denied the claim, dampening market enthusiasm.](https://www.moomoo.com/news/post/72354113/rumors-of-spacex-developing-an-ai-powered-smartphone-sent-qualcomm)**
 
-Bloomberg.com • 41m ago
-
----
-
-**[Ai Weiwei: Button Up! review – skeleton chandeliers, a real-life temple – and too much silly Lego](https://www.theguardian.com/artanddesign/2026/jul/01/ai-weiwei-button-up-review-manchester)**
-
-The artist’s latest show is a staggering takedown of colonial history, warfare and the migrant crisis, featuring buttons by the tonne and richly perfumed tea
-
-The Guardian • 1h ago
+Moomoo • 51m ago
 
 ---
 
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
+**[Trump talks to AI Teddy Roosevelt during presidential library visit](https://thehill.com/homenews/administration/5950575-trump-ai-teddy-roosevelt-chat/)**
 
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 4h ago
+The Hill • 44m ago
 
 ---
 
-**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
+**[AI-Powered Theodore Roosevelt Is Ready To Answer Your Questions](https://www.forbes.com/sites/lesliekatz/2026/07/01/ai-powered-theodore-roosevelt-is-ready-to-answer-your-questions/)**
 
-Anthropic • 1d ago
+The Theodore Roosevelt Presidential Library opens in North Dakota on July 4 featuring multiple interactive elements, including a chatty, lifelike avatar of the president.
+
+Forbes • 5h ago
 
 ---
 
-**[Opinion | Why A.I. Won’t Steal All Our Jobs](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html)**
+**[Trump honors 'freakin' wild life' of Teddy Roosevelt, interacts with AI-powered ex-prez in North Dakota visit](https://nypost.com/2026/07/01/us-news/trump-honors-freakin-wild-life-of-teddy-roosevelt-interacts-with-ai-powered-ex-prez-in-north-dakota-visit/)**
 
-The New York Times • 1d ago
+MEDORA, ND — President Trump paid tribute to Theodore Roosevelt as a “great man” while cutting the ribbon to his new presidential library in the Dakota Badlands — after interacting with an ar…
+
+New York Post • 1h ago
+
+---
+
+**[AI Spending Is Boosting Bank Stocks, Not Hurting Bond Markets](https://www.forbes.com/sites/brandonkochkodin/2026/07/01/why-the-ai-credit-rush-isnt-hurting-the-bond-market-but-is-boosting-bank-stocks/)**
+
+AI borrowing is surging, but investors say it's not disrupting the bond market. Instead, banks are benefiting from the financing boom.
+
+Forbes • 55m ago
+
+---
+
+**[Meta Is Planning a Cloud Business to Sell AI Computing Power](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
+
+Bloomberg.com • 10h ago
 
 ---
 
@@ -191,7 +195,7 @@ The New York Times • 1d ago
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 518 • 💬 367 • 13h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+⬆️ 522 • 💬 372 • 15h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
@@ -239,7 +243,7 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 **[Better Images of AI](https://news.ycombinator.com/item?id=48713051)**
 
-⬆️ 55 • 💬 30 • 2d ago • [betterimagesofai.org](https://betterimagesofai.org/)
+⬆️ 55 • 💬 29 • 2d ago • [betterimagesofai.org](https://betterimagesofai.org/)
 
 ---
 
@@ -255,7 +259,7 @@ Buy your novel-like, image-free, hallucinated guide to Alien: Isolation 2 today!
 
 Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.
 
-⬆️ 51 • 💬 42 • 16h ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
+⬆️ 52 • 💬 45 • 18h ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
 
 ---
 
@@ -263,43 +267,13 @@ Firm-level evidence on how employment changes when companies adopt AI, using Ram
 
 ## YouTube Videos: "ai"
 
-**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
+**[Claude Sonnet 5 just dropped. I&#39;m changing how I use AI...](https://www.youtube.com/watch?v=uU0RFxGv-Ks)**
 
-Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
+A complete walkthrough of the new Claude Sonnet 5 release FULL Claude Code bootcamp in the Vibe Coding Academy coming ...
 
-📺 Yuval Noah Harari 
+📺 Alex Finn
 
-👁️ 125K • 👍 6K • 💬 604 • ⏱️ 46:52 • 1d ago
-
----
-
-**[AI Shocks Again: Google Post-AGI , New Claude, Microsoft 7 AI, 92% Human Robot, Fable 5 Backlash](https://www.youtube.com/watch?v=u-CNOC_yK4k)**
-
-This month in AI has been one of the busiest we've seen in a long time. Google revealed what could come after AGI, and the idea ...
-
-📺 AI Revolution
-
-👁️ 16K • 👍 509 • 💬 37 • ⏱️ 1:36:04 • 22h ago
-
----
-
-**[Why is AI expensive all of a sudden?](https://www.youtube.com/watch?v=DDj30VWCbbY)**
-
-ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow.
-
-📺 Alberta Tech
-
-👁️ 105K • 👍 6K • 💬 576 • ⏱️ 9:43 • 1d ago
-
----
-
-**[CNBC Panel EXPLODES Over AI Bubble Debate](https://www.youtube.com/watch?v=UMaOH0Ih9_0)**
-
-Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risks. Sign up for a PREMIUM Breaking Points ...
-
-📺 Breaking Points
-
-👁️ 177K • 👍 4K • 💬 1K • ⏱️ 18:18 • 1d ago
+👁️ 46K • 👍 1K • 💬 145 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -309,7 +283,47 @@ We told a generation to "learn to code," and then AI rugpulled everyone. Welcome
 
 📺 TechLead
 
-👁️ 61K • 👍 3K • 💬 623 • ⏱️ 13:10 • 2d ago
+👁️ 62K • 👍 3K • 💬 631 • ⏱️ 13:10 • 2d ago
+
+---
+
+**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
+
+Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
+
+📺 Yuval Noah Harari 
+
+👁️ 149K • 👍 7K • 💬 682 • ⏱️ 46:52 • 1d ago
+
+---
+
+**[AI Shocks Again: Google Post-AGI , New Claude, Microsoft 7 AI, 92% Human Robot, Fable 5 Backlash](https://www.youtube.com/watch?v=u-CNOC_yK4k)**
+
+This month in AI has been one of the busiest we've seen in a long time. Google revealed what could come after AGI, and the idea ...
+
+📺 AI Revolution
+
+👁️ 17K • 👍 526 • 💬 40 • ⏱️ 1:36:04 • 23h ago
+
+---
+
+**[CNBC Panel EXPLODES Over AI Bubble Debate](https://www.youtube.com/watch?v=UMaOH0Ih9_0)**
+
+Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risks. Sign up for a PREMIUM Breaking Points ...
+
+📺 Breaking Points
+
+👁️ 182K • 👍 5K • 💬 1K • ⏱️ 18:18 • 1d ago
+
+---
+
+**[Anthropic Just Confirmed It: The 2028 Ai Warning Is Real.. ](https://www.youtube.com/watch?v=GQGr4sXlWb0)**
+
+Anthropic has just released one of its most important AI warnings yet—and it could change how we think about the future of ...
+
+📺 Your AI Guy
+
+👁️ 3K • 👍 58 • 💬 11 • ⏱️ 18:23 • 19h ago
 
 ---
 
@@ -319,47 +333,37 @@ Today's FULL PDS here: Watch The Full Philip DeFranco Show: https://www.youtube.
 
 📺 DeFranco News Clips
 
-👁️ 1.3M • 👍 75K • 💬 4K • ⏱️ 1:16 • 1d ago
+👁️ 1.4M • 👍 76K • 💬 4K • ⏱️ 1:16 • 2d ago
 
 ---
 
-**[Your OS Changes Everything for Local AI](https://www.youtube.com/watch?v=QeAHC1jGxck)**
+**[How Big is the AI Economy](https://www.youtube.com/watch?v=gP8A3x2mFRM)**
 
-One benchmark made me double-check my numbers. The rest tell a different story. Try out ChatLLM - http://chatllm.abacus.ai/ltf ...
+Alleged credit-based, identity-verified access for Anthropic Fable sparks privacy and policy debate. Senate draft targets agent ...
 
-📺 Alex Ziskind
+📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 62K • 👍 2K • 💬 158 • ⏱️ 14:13 • 1d ago
-
----
-
-**[Meta to build cloud infrastructure business to sell AI compute](https://www.youtube.com/watch?v=tyl5SUN0ua4)**
-
-CNBC's Julia Boorstin reports on news regarding Meta.
-
-📺 CNBC Television
-
-👁️ 3K • 👍 47 • 💬 15 • ⏱️ 1:47 • 5h ago
+👁️ 4K • 👍 124 • 💬 9 • ⏱️ 23:59 • 1d ago
 
 ---
 
-**[Dan Ives on the Tech Rally, Growth of AI, Data Centers](https://www.youtube.com/watch?v=ec1WAGENfK8)**
+**[25 Terrifying Things AI Can Already Do Right Now](https://www.youtube.com/watch?v=s6xPmx118ik)**
 
-Dan Ives, Wedbush Securities global head of tech research, argued that massive AI-related capital expenditures by hyperscalers ...
+Most conversations about AI danger are about the future. What it might do someday, what could go wrong eventually, what we ...
 
-📺 Bloomberg Television
+📺 List 25
 
-👁️ 9K • 👍 196 • 💬 26 • ⏱️ 6:55 • 7h ago
+👁️ 13K • 👍 808 • 💬 65 • ⏱️ 18:53 • 1d ago
 
 ---
 
-**[New findings reveal AI bubble worries are justified](https://www.youtube.com/watch?v=xCzCyPoI-eA)**
+**[AI is already Sentient...](https://www.youtube.com/watch?v=DczS3EyGGDc)**
 
-New data reveals bubble worries are justified: "If you are worried that we're in an Al bubble, well, I have some news for you that ...
+If you hate AI, hit follow! #sketchcomedy #comedyskits #comedysketch #comedy #comedyreels #cryptid #creepypasta #scp ...
 
-📺 Prof G Markets
+📺 It's Just Bits
 
-👁️ 86K • 👍 3K • 💬 119 • ⏱️ 1:08 • 1d ago
+👁️ 350K • 👍 28K • 💬 478 • ⏱️ 1:09 • 1d ago
 
 ---
 
@@ -375,7 +379,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 630,246 • ❤️ 1,568 • 3d ago
+⬇️ 630,246 • ❤️ 1,573 • 3d ago
 
 ---
 
@@ -387,7 +391,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,113,871 • ❤️ 1,133 • 3d ago
+⬇️ 1,113,871 • ❤️ 1,143 • 3d ago
 
 ---
 
@@ -399,7 +403,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 159,967 • ❤️ 3,157 • 8d ago
+⬇️ 159,967 • ❤️ 3,166 • 8d ago
 
 ---
 
@@ -411,7 +415,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 233,701 • ❤️ 596 • 6d ago
+⬇️ 233,701 • ❤️ 607 • 6d ago
 
 ---
 
@@ -423,19 +427,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 34,371 • ❤️ 492 • 6d ago
-
----
-
-**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
-
-*Yuxin Lu*
-
-A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
-
-`text-generation` `11.9B`
-
-⬇️ 288,741 • ❤️ 915 • 12d ago
+⬇️ 34,371 • ❤️ 496 • 6d ago
 
 ---
 
@@ -447,7 +439,19 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 191,409 • ❤️ 364 • 6d ago
+⬇️ 191,409 • ❤️ 365 • 6d ago
+
+---
+
+**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
+
+*Yuxin Lu*
+
+A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
+
+`text-generation` `11.9B`
+
+⬇️ 288,741 • ❤️ 917 • 12d ago
 
 ---
 
@@ -459,7 +463,7 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 46,677 • ❤️ 326 • 6d ago
+⬇️ 46,677 • ❤️ 332 • 6d ago
 
 ---
 
@@ -471,7 +475,7 @@ Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token 
 
 `text-generation` `9.4B`
 
-⬇️ 114,499 • ❤️ 612 • 3d ago
+⬇️ 114,499 • ❤️ 614 • 3d ago
 
 ---
 
@@ -483,7 +487,7 @@ Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic co
 
 `text-generation` `664,944`
 
-⬇️ 135,452 • ❤️ 284 • 6d ago
+⬇️ 135,452 • ❤️ 287 • 6d ago
 
 ---
 
@@ -558,6 +562,21 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 
 ---
 
+**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
+  Models](https://huggingface.co/papers/2502.18443)**
+
+*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
+
+🏢 Ai2
+
+olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
+
+▲ 12 • 💬 2 • ⭐ 18,209 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
+
+---
+
 **[EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning](https://huggingface.co/papers/2601.02163)**
 
 *Chuanrui Hu, Xingze Gao, Zuyi Zhou et al. (11 authors)*
@@ -576,24 +595,9 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 37 • 💬 1 • ⭐ 26,296 • 33mo ago
+▲ 37 • 💬 1 • ⭐ 26,336 • 33mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
-  Models](https://huggingface.co/papers/2502.18443)**
-
-*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
-
-🏢 Ai2
-
-olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
-
-▲ 12 • 💬 2 • ⭐ 18,026 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
 
 ---
 
@@ -633,7 +637,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 70.3k • 🔱 3.6k • 1d ago
+⭐ 70.4k • 🔱 3.6k • 7m ago
 
 ---
 
@@ -643,7 +647,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.2k • 🔱 1.1k • 3h ago
+⭐ 11.2k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -653,7 +657,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.9k • 🔱 752 • 1h ago
+⭐ 5.9k • 🔱 753 • 17m ago
 
 ---
 
@@ -663,7 +667,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.7k • 🔱 589 • 5h ago
+⭐ 4.7k • 🔱 593 • 7h ago
 
 ---
 
@@ -703,7 +707,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.7k • 🔱 82 • 1h ago
+⭐ 1.7k • 🔱 83 • 22m ago
 
 ---
 
@@ -723,7 +727,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.5k • 🔱 63 • 23h ago
+⭐ 1.5k • 🔱 64 • 1d ago
 
 ---
 

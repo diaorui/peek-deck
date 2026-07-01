@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-01T21:06:36.880724+00:00'
+updated: '2026-07-01T22:46:52.876660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 01, 2026 at 21:06 UTC  
+**Last Updated:** July 01, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Some of you asked for the full pipeline code, so here it is. https://github.com/
 
 **[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -108,12 +108,6 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
-
-South China Morning Post • 19h ago
-
----
-
 **[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
 
 Robotics maker bets on realism to answer demand for companionship, counseling
@@ -122,51 +116,17 @@ Nikkei Asia • 1d ago
 
 ---
 
+**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
+
+South China Morning Post • 20h ago
+
+---
+
 **[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://sg.finance.yahoo.com/news/chinese-firm-sells-hyper-real-094451069.html)**
 
 Their metallic frames covered in supple, lifelike skin, a posse of new Chinese robots meant for companionship can offer users AI-generated conversation or a hand to hold, complete with manicured nails.In South Korea, cuddly ChatGPT-powered dolls are used in some care homes, while a lamp-like AI device called ElliQ offers similar companionship and safety-monitoring services.
 
-Yahoo Finance Singapore • 11h ago
-
----
-
-**[This $5.5 billion robotics startup built a school for humanoids](https://www.businessinsider.com/apptroniks-humanoid-robots-are-practicing-for-their-first-real-jobs-2026-6)**
-
-At Robot Park in Austin, Apptronik's humanoid robots train for jobs in factories, warehouses, and homes.
-
-Business Insider • 1d ago
-
----
-
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
-
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 4h ago
-
----
-
-**[New soft robotic heart accurately mimics the complex movements of human valves](https://www.news-medical.net/news/20260701/New-soft-robotic-heart-accurately-mimics-the-complex-movements-of-human-valves.aspx)**
-
-Researchers at UNSW Sydney have developed a fully synthetic soft robotic heart that reproduces the complex movements and internal structures of the human heart, opening the door to better treatments, safer medical devices and more personalized care.
-
-News-Medical • 14h ago
-
----
-
-**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
-
-When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
-
-CNN • 1d ago
-
----
-
-**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
-
-Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
-
-Fox News • 1d ago
+Yahoo Finance Singapore • 13h ago
 
 ---
 
@@ -178,11 +138,51 @@ The New Yorker • 2d ago
 
 ---
 
-**[Churchill Capital Stock Surges On $2.5B Merger With Agility Robotics: What Investors Need To Know](https://finance.yahoo.com/markets/stocks/articles/churchill-capital-stock-surges-2-100013748.html)**
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
 
-Shares of Churchill Capital Corp XI are trading higher Monday morning following last week’s announcement of a definitive business combination agreement with Agility Robotics. The transaction values the humanoid robotics and physical AI company at a pre-money equity value of...
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Yahoo Finance • 1d ago
+Fortune • 6h ago
+
+---
+
+**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus-rep/)**
+
+Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
+
+ZME Science • 3h ago
+
+---
+
+**[Seven lessons from founders building robotics businesses set to scale](https://www.bvp.com/atlas/seven-lessons-from-founders-building-robotics-businesses-set-to-scale)**
+
+Three founders at share lessons from building and deploying robotics businesses set to scale in the real world.
+
+Bessemer Venture Partners • 2d ago
+
+---
+
+**[New soft robotic heart accurately mimics the complex movements of human valves](https://www.news-medical.net/news/20260701/New-soft-robotic-heart-accurately-mimics-the-complex-movements-of-human-valves.aspx)**
+
+Researchers at UNSW Sydney have developed a fully synthetic soft robotic heart that reproduces the complex movements and internal structures of the human heart, opening the door to better treatments, safer medical devices and more personalized care.
+
+News-Medical • 15h ago
+
+---
+
+**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
+
+When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
+
+CNN • 1d ago
+
+---
+
+**[Autonomous construction bots are building solar infrastructure behind Meta's massive Hyperion data center](https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7)**
+
+Built Robotics wants to use autonomous machines to build out utility-scale solar infrastructure amid the AI boom.
+
+Business Insider • 7h ago
 
 ---
 
@@ -196,17 +196,27 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 18K • 👍 419 • 💬 144 • ⏱️ 3:59 • 19h ago
+👁️ 21K • 👍 459 • 💬 156 • ⏱️ 3:59 • 20h ago
 
 ---
 
-**[Tesla Optimus Gen 3: 1,000 Robots Dominate Giga Texas — 10M Coming](https://www.youtube.com/watch?v=rg0ib2xilGY)**
+**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
 
-Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock 10M robots by 2027. ✓ All Breaking NEWS: ...
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
 
-📺 Tech Revolution
+📺 OTOFOOTAGE
 
-👁️ 40K • 👍 820 • 💬 67 • ⏱️ 21:30 • 6d ago
+👁️ 16K • 👍 155 • 💬 73 • ⏱️ 3:05 • 1d ago
+
+---
+
+**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
+
+Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
+
+📺 The Daily Show
+
+👁️ 167K • 👍 5K • 💬 154 • ⏱️ 28:40 • 2d ago
 
 ---
 
@@ -220,13 +230,21 @@ China has built female robots so realistic that people who meet them in person g
 
 ---
 
-**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
 
-📺 OTOFOOTAGE
+📺 51 Drones
 
-👁️ 13K • 👍 145 • 💬 68 • ⏱️ 3:05 • 1d ago
+👁️ 895 • 👍 107 • 💬 18 • ⏱️ 12:50 • 5h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=VRmn9bNmG-4)**
+
+📺 Robot Julie 
+
+👁️ 6K • 👍 11 • ⏱️ 0:17 • 21h ago
 
 ---
 
@@ -236,17 +254,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 30K • 👍 412 • 💬 22 • ⏱️ 5:08 • 3d ago
-
----
-
-**[My Robot broke 1 Day before Graduation (bruh)](https://www.youtube.com/watch?v=gqnW9qBCHnM)**
-
-Try Brilliant's tutor for free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay ...
-
-📺 Tazer
-
-👁️ 16K • 👍 2K • 💬 172 • ⏱️ 29:03 • 8h ago
+👁️ 31K • 👍 419 • 💬 22 • ⏱️ 5:08 • 3d ago
 
 ---
 
@@ -256,37 +264,25 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 85K • 👍 5K • 💬 276 • ⏱️ 23:57 • 4d ago
+👁️ 91K • 👍 5K • 💬 280 • ⏱️ 23:57 • 4d ago
 
 ---
 
-**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+**[My new robot just mastered the hexagon wall!😱#robot #robotics #robotdance #ruko #outdoors](https://www.youtube.com/watch?v=X_9KmKtiPZY)**
 
-Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+📺 Smarttoy Ruko
 
-📺 Vanessa Wingårdh
-
-👁️ 93K • 👍 5K • 💬 2K • ⏱️ 13:18 • 3d ago
+👁️ 9K • 👍 59 • 💬 1 • ⏱️ 0:25 • 1d ago
 
 ---
 
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+**[China&#39;s AI Snake Robot Detects Power Line Damage Before Blackouts! 🤯⚡](https://www.youtube.com/watch?v=iNYXgjrYn_U)**
 
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+China's Autonomous Snake Robot Inspects Live High-Voltage Power Lines Without Shutting Off Electricity! ⚡     What if power ...
 
-📺 51 Drones
+📺 Techie Sapien
 
-👁️ 305 • 👍 51 • 💬 9 • ⏱️ 12:50 • 3h ago
-
----
-
-**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
-
-Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
-
-📺 Evolving AI
-
-👁️ 6K • 👍 98 • ⏱️ 10:47 • 2d ago
+👁️ 30K • 💬 10 • ⏱️ 0:11 • 8h ago
 
 ---
 
