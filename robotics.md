@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-01T19:18:13.230971+00:00'
+updated: '2026-07-01T21:06:36.880724+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 01, 2026 at 19:18 UTC  
+**Last Updated:** July 01, 2026 at 21:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Some of you asked for the full pipeline code, so here it is. https://github.com/
 
 **[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -78,7 +78,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 **[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -92,7 +92,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 In LLMs, Attention Is All You Need is one of those papers everyone agrees is worth studying. What would be the equivalent in robotic manipulation or computer vision applied to robotics? (Besides Transformers, since that would basically take us back to AIAYN) Not necessarily SOTA with 200 GPUs lol I’m looking for a paper worth reproducing to really learn from it. Which one would you pick, and why?
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +110,7 @@ So I want to perform a material characterization study on a material where I nee
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 17h ago
+South China Morning Post • 19h ago
 
 ---
 
@@ -122,11 +122,11 @@ Nikkei Asia • 1d ago
 
 ---
 
-**[New humanoid robot built for companionship with 90% accuracy in recognizing emotions](https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robot-companionship)**
+**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://sg.finance.yahoo.com/news/chinese-firm-sells-hyper-real-094451069.html)**
 
-UBTech unveils the mass-produced UWORLD U1 humanoid, combining biomimetic AI and emotion-aware LLMs for real-world deployment.
+Their metallic frames covered in supple, lifelike skin, a posse of new Chinese robots meant for companionship can offer users AI-generated conversation or a hand to hold, complete with manicured nails.In South Korea, cuddly ChatGPT-powered dolls are used in some care homes, while a lamp-like AI device called ElliQ offers similar companionship and safety-monitoring services.
 
-Interesting Engineering • 10h ago
+Yahoo Finance Singapore • 11h ago
 
 ---
 
@@ -142,21 +142,23 @@ Business Insider • 1d ago
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
-**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://futurism.com/robots-and-machines/factory-attaches-cameras-workers-labor-robots)**
+**[New soft robotic heart accurately mimics the complex movements of human valves](https://www.news-medical.net/news/20260701/New-soft-robotic-heart-accurately-mimics-the-complex-movements-of-human-valves.aspx)**
 
-Factories in India are increasingly tethering GoPro cameras to their workers in order to train their robotic replacements.
+Researchers at UNSW Sydney have developed a fully synthetic soft robotic heart that reproduces the complex movements and internal structures of the human heart, opening the door to better treatments, safer medical devices and more personalized care.
 
-Futurism • 5h ago
+News-Medical • 14h ago
 
 ---
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
 
-MarketWatch • 3h ago
+When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
+
+CNN • 1d ago
 
 ---
 
@@ -168,19 +170,19 @@ Fox News • 1d ago
 
 ---
 
-**['Delivery robots are in the way - you're the one who has to move'](https://www.bbc.com/news/articles/ckg0z1je5e1o)**
+**[Are Humanoid Robots Ready to Be Deployed?](https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed)**
 
-People in Leeds have their say about delivery robots as a charity questions the devices' legality.
+Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
 
-BBC • 14h ago
+The New Yorker • 2d ago
 
 ---
 
-**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
+**[Churchill Capital Stock Surges On $2.5B Merger With Agility Robotics: What Investors Need To Know](https://finance.yahoo.com/markets/stocks/articles/churchill-capital-stock-surges-2-100013748.html)**
 
-Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
+Shares of Churchill Capital Corp XI are trading higher Monday morning following last week’s announcement of a definitive business combination agreement with Agility Robotics. The transaction values the humanoid robotics and physical AI company at a pre-money equity value of...
 
-NASA (.gov) • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 18K • 👍 419 • 💬 144 • ⏱️ 3:59 • 17h ago
+👁️ 18K • 👍 419 • 💬 144 • ⏱️ 3:59 • 19h ago
 
 ---
 
@@ -244,7 +246,7 @@ Try Brilliant's tutor for free: https://brilliant.org/Tazer/ and get 20% off an 
 
 📺 Tazer
 
-👁️ 16K • 👍 2K • 💬 172 • ⏱️ 29:03 • 6h ago
+👁️ 16K • 👍 2K • 💬 172 • ⏱️ 29:03 • 8h ago
 
 ---
 
@@ -274,7 +276,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 305 • 👍 51 • 💬 9 • ⏱️ 12:50 • 1h ago
+👁️ 305 • 👍 51 • 💬 9 • ⏱️ 12:50 • 3h ago
 
 ---
 

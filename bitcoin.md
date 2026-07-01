@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-01T19:18:13.221726+00:00'
+updated: '2026-07-01T21:06:36.871253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 01, 2026 at 19:18 UTC  
+**Last Updated:** July 01, 2026 at 21:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,135.72
+### $60,126.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +1.1%  
+**24h:** +2.8%  
+**7d:** +1.0%  
 **30d:** -9.7%  
-**90d:** -9.9%  
-**1y:** -44.5%  
+**90d:** -10.0%  
+**1y:** -44.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 A catastrophic never seen before crash in the history of any market just happened in Bitcorn. Almost a 60% decline. The world has no money left, it will never recover. This is it, Bitcorn death #485 will be the one. After buying the last top at $120k and expecting Bitcorn to hit $10 million dollars off a Facebook ad the CEO of Bitcorn posted, I'm done. Hashrate near ATH, more users than ever, blah blah blah, none of it matters. The price went down 60%. This definitely means the network will quit working because I, ME, didn't make money off of it. Thanks for this great journey, I'm only rebuying it it goes back to the moon.
 
-15h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 guys fr, we are so lucky that bitcoin is still so fcking low. Thanks god i am alive
 
-10h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ guys fr, we are so lucky that bitcoin is still so fcking low. Thanks god i am al
 
 Monthly candle just closed and it's about as ugly as it gets. A near-perfect marubozu: solid red body, basically no wicks, meaning sellers were in control from open to close with zero real pushback the entire month. Worst monthly performance since June 2022. If you know how to read a chart, you know this isn't a buy the dip candle. This is the kind of candle that shows up right before things get worse, not better. And here's the part I'm not proud of: I know what this pattern usually means. I've seen this movie before. Every technical bone in my body is saying more pain is coming before this is over. But my conviction in the Bitcoin project hasn't moved, not even a little. I haven't touched my stack, and i'm not planning to, and if I'm honest with myself, I don't think a candle , even one this bad, is going to change that. So now I'm stuck in this weird spot between what the chart is screaming at me and what I actually believe about why I'm here in the first place. Fear says protect yourself, but conviction says you already know how this story goes long-term. So, i´m not looking for someone to tell me I'm right or wrong. Just figured I'm probably not the only one caught in that same split right now, trusting the chart and refusing to act on it at the same time.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Monthly candle just closed and it's about as ugly as it gets. A near-perfect mar
 
 After 6 years my patience is gone, will just buy a world ETF from now on.
 
-22h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ After 6 years my patience is gone, will just buy a world ETF from now on.
 
 Only 30 bucks, but still accumulating every time I have some money left
 
-7h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Only 30 bucks, but still accumulating every time I have some money left
 
 I’ve only recently become a Bitcoin investor, so I wasn’t around for the brutal 70–80% crashes in the past. Looking back now, those crashes seem like incredible buying opportunities. But I’m curious what it actually felt like at the time. Were people on this subreddit excited and aggressively buying the dip? Or was the sentiment mostly that Bitcoin was dead and it would never recover? It’s easy to say today, “I wish I had bought at $3k or $16k,” but I’m wondering what retail investors were actually thinking and feeling during those moments. For those of you who lived through the 2014–15, 2018, or 2022 bear markets: What was the overall mood on Reddit? Did you personally keep buying, or were you too scared? At what point did sentiment finally start to change? I’m interested in hearing the real emotions and psychology behind those crashes, not just the hindsight.
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ I’ve only recently become a Bitcoin investor, so I wasn’t around for the bru
 
 Every time LeBron changes teams, Bitcoin enters an entirely different price era. July 8, 2010 — LeBron → Miami BTC: ~$0.08 July 11, 2014 — LeBron → Cleveland BTC: ~$620 July 1, 2018 — LeBron → Lakers BTC: ~$6,350 2026 — LeBron's future back in the headlines BTC: ~$60,000 Forget the halving. Forget the four-year cycle. If LeBron signs tomorrow...$1M is officially on the table.
 
-23h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ Every time LeBron changes teams, Bitcoin enters an entirely different price era.
 
 may we make history by being among the first to stack sats
 
-5h ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ may we make history by being among the first to stack sats
 
 Plenty of you, if not the majority have been here for 5+ years, can we just cut the negativity? It's not like similar shit has happened in the past, and after this is over it'll happen again in the future. I know it's painful for most including myself, but these apocalypse doom shit posts every day are becoming ridiculous. Have some faith like you did in the past, bad times aren't forever.
 
-5h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Plenty of you, if not the majority have been here for 5+ years, can we just cut 
 
 That’s it.
 
-20h ago
+22h ago
 
 ---
 
@@ -165,21 +165,7 @@ That’s it.
 
 Bitcoin capped the last day of the month with losses.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Cantor says crypto market near bottom as bitcoin (BTC) cycle points to October low](https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch)**
-
-The bank said in a note bitcoin's cycle points to a market bottom in the coming months, urging investors to focus on networks with durable value accrual.
-
-CoinDesk • 4h ago
-
----
-
-**[Strategy May Sell More Bitcoin in Financing Model Overhaul](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)**
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -187,7 +173,7 @@ Bloomberg.com • 1d ago
 
 Citigroup slashed its 12-month forecasts for bitcoin and ether, saying weakening investor appetite, negative ‌exchange-traded fund flows and a lack of progress on ‌U.S. digital asset legislation have hurt the outlook for the two largest cryptocurrencies.  The ​brokerage, in a note dated Tuesday, lowered its target for bitcoin to $82,000 from $112,000 and trimmed its ether forecast to $2,240 from $3,175.  Bitcoin was last trading at $58,864.27, its weakest level since September 2024, having halved in ‌value from an all-time ⁠high of $126,223.18 in October last year.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -195,7 +181,7 @@ Yahoo Finance • 12h ago
 
 The record outflow beat the previous worst month by 29% and came on nine consecutive days of redemptions to close the period.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -205,25 +191,33 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[MicroStrategy Abandons ‘HODL,’ Authorizes $1.25B Bitcoin Sale to Fund Dividends](https://www.barrons.com/articles/microstrategy-bitcoin-sale-dividends-510346f0)**
+
+Barron's • 9h ago
+
+---
+
 **[Trump Reveals More Than $100 Million In Bitcoin Investments](https://www.forbes.com/sites/danalexander/2026/07/01/trump-reveals-more-than-100-million-in-bitcoin-investments/)**
 
 The president's public company made headlines last summer when it announced plans to invest in bitcoin. Hardly anyone knew Trump was also building a stash of his own.
 
-Forbes • 12h ago
+Forbes • 14h ago
 
 ---
 
-**[Trump’s $1.4 Billion Haul Makes Him Biggest US Crypto Moneymaker](https://www.bloomberg.com/news/articles/2026-07-01/trump-s-1-4-billion-haul-makes-him-biggest-us-crypto-moneymaker)**
+**[Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/trump-discloses-over-12-billion-in-crypto-earnings-50m-in-bitcoin-holdings-221652817.html)**
 
-Bloomberg.com • 2h ago
+The president's annual financial disclosure report was released on Tuesday.
+
+Yahoo Finance • 9h ago
 
 ---
 
-**[Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/trump-discloses-over-1-2-221652817.html)**
+**[Trump Discloses Over $50M Bitcoin in Cold Storage](https://bitbo.io/news/trump-discloses-50m-bitcoin/)**
 
-The president’s annual financial disclosure report was released on Tuesday.
+A newly released federal financial disclosure shows US President Donald Trump holds more than $50 million in Bitcoin in cold storage, part of over $1 billion in total crypto-related earnings.
 
-Yahoo Finance • 21h ago
+Bitbo • 15h ago
 
 ---
 
@@ -232,6 +226,14 @@ Yahoo Finance • 21h ago
 Goldman Lampe Private Bank purchased €120 million (roughly $137 million) worth of Bitcoin, the UAE-based institution announced Monday.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[USDC And Bitcoin Lead $850 Million Exchange Outflow Wave](https://www.tradingview.com/news/newsbtc:c3cf7e4bb094b:0-usdc-and-bitcoin-lead-850-million-exchange-outflow-wave/)**
+
+Crypto exchange balances saw a notable withdrawal wave heading into July 1, with USDC and Bitcoin leading approximately $850 million in net outflows from centralized platforms. The move adds another layer to a market already watching liquidity, ETF flows, and investor positioning closely.TL;DRExcha…
+
+TradingView • 1h ago
 
 ---
 
@@ -297,15 +299,7 @@ Eastern Washington had cheap power and tons of space. Then the suitcases of cash
 
 One
 
-⬆️ 2 • 💬 0 • 6h ago • [markovianprotocol.com](https://markovianprotocol.com)
-
----
-
-**[Svartnod – prove a file existed, verified against my own Bitcoin node](https://news.ycombinator.com/item?id=48665156)**
-
-Create an independent digital timestamp without uploading the original file.
-
-⬆️ 2 • 💬 0 • 6d ago • [svartnod.com](https://svartnod.com)
+⬆️ 2 • 💬 0 • 8h ago • [markovianprotocol.com](https://markovianprotocol.com)
 
 ---
 
@@ -314,6 +308,14 @@ Create an independent digital timestamp without uploading the original file.
 Strategy continues its shift away from aggressive Bitcoin accumulation as market conditions deteriorate.
 
 ⬆️ 1 • 💬 0 • 2d ago • [Fortune](https://fortune.com/2026/06/29/strategy-may-sell-up-to-1-25-billion-in-bitcoin-to-calm-investor-jitters/)
+
+---
+
+**[Sorry, but There's Nothing Stable About Bitcoins or Stablecoins](https://news.ycombinator.com/item?id=48719431)**
+
+How soon we forget that cryptocurrencies were given life by the instability of fiat currencies.
+
+⬆️ 1 • 💬 0 • 2d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
 
 ---
 
@@ -327,7 +329,7 @@ To get 50% off your first order of CookUnity meals, go to http://www.cookunity.c
 
 📺 Graham Stephan
 
-👁️ 397K • 👍 9K • 💬 2K • ⏱️ 16:44 • 1d ago
+👁️ 397K • 👍 9K • 💬 2K • ⏱️ 16:44 • 2d ago
 
 ---
 
@@ -337,7 +339,7 @@ I joined Fox Business News this morning to calm them down about Bitcoin's recent
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 15K • 👍 362 • 💬 173 • ⏱️ 3:22 • 22h ago
+👁️ 15K • 👍 362 • 💬 173 • ⏱️ 3:22 • 1d ago
 
 ---
 
@@ -347,7 +349,7 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 143 • 💬 17 • ⏱️ 16:47 • 20h ago
+👁️ 5K • 👍 143 • 💬 17 • ⏱️ 16:47 • 22h ago
 
 ---
 
@@ -357,7 +359,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 654 • 💬 96 • ⏱️ 57:46 • 4h ago
+👁️ 10K • 👍 654 • 💬 96 • ⏱️ 57:46 • 6h ago
 
 ---
 
@@ -367,7 +369,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 250 • ⏱️ 11:44 • 20h ago
+👁️ 46K • 👍 2K • 💬 250 • ⏱️ 11:44 • 22h ago
 
 ---
 
@@ -377,7 +379,7 @@ Bitcoin's value prop remains unchanged and a 50% drawdown isn't something that s
 
 📺 What Bitcoin Did
 
-👁️ 3K • 👍 269 • 💬 120 • ⏱️ 1:09:39 • 4h ago
+👁️ 3K • 👍 269 • 💬 120 • ⏱️ 1:09:39 • 6h ago
 
 ---
 
@@ -397,7 +399,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 512 • 💬 210 • ⏱️ 15:51 • 19h ago
+👁️ 8K • 👍 512 • 💬 210 • ⏱️ 15:51 • 21h ago
 
 ---
 
@@ -407,7 +409,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 276 • 💬 229 • ⏱️ 9:51 • 4h ago
+👁️ 3K • 👍 276 • 💬 229 • ⏱️ 9:51 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-01T19:18:13.213174+00:00'
+updated: '2026-07-01T21:06:36.862429+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 01, 2026 at 19:18 UTC  
+**Last Updated:** July 01, 2026 at 21:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hi, I have been working on this for many months now and I'd really be happy for people to try it out. It is a Chrome extension called "PopUpFactCheck". It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. It's free, and you don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFact Check - Chrome Web Store PopUpFactCheck - Homepage
 
-17h ago
+19h ago
 
 ---
 
@@ -49,7 +49,23 @@ Hi, I have been working on this for many months now and I'd really be happy for 
 
 Cross-posting from r/claude for more visibility. Claude Code recursively wiped the contents of my local Electron project root. This happened in a Windows terminal while working on a project named Orpheus. My prompt did not ask it to delete, wipe, clean, reset, or remove the project. The prompt was in Traditional Chinese: “之前我要安裝檔，但是其實我只需要 dictate.” It was roughly about not needing the installer anymore and only needing the dictate function. The preserved terminal transcript later showed Claude moving from a failed root deletion attempt to deleting the child items inside the project root. The destructive sequence included: Get-ChildItem -LiteralPath $p -Force -ErrorAction SilentlyContinue | ForEach-Object { try { Remove-Item -LiteralPath $_.FullName -Recurse -Force -ErrorAction Stop "OK $($_.Name)" } catch { "ERR $($_.Name): $($_.Exception.Message)" } } $p was the Orpheus project root. The output then showed items being removed, including: .claude dist node_modules src claude-elevenlabs-voice-v2.user.js dictation.html main.js ORPHEUS_HANDOFF.md package-lock.json package.json preload.js Local artifacts I found for Orpheus showed default / acceptEdits. I did not find Orpheus bypassPermissions. I did not find Orpheus --dangerously-skip-permissions. I’m not claiming Anthropic acted maliciously. I’m not claiming prompt injection or anti-distillation without evidence. Moral of the story: Treat frontier AI agents like any other automation tool with real machine access. Back up regularly. Use a separate working copy or a different machine if you absolutely need an agent living in your terminal. A frontier model can still behave like a destructive script runner. I also generated SHA256 hashes for the preserved transcript and permission search output. EDIT / UPDATE: A few people asked about git. Yes, I know what git is. This was a local Electron prototype / working state that had not been pushed to a remote. Commits and backups are the right mitigation. But mitigation is not causation. The concerning part is that the destructive action was unrelated to my prompt. Claude Code was operating through a terminal session with real filesystem access under my user environment. Git may help recover a repo, but it does not protect everything else that same terminal session can access. My takeaway remains: Treat frontier terminal AI agents like real automation tools with destructive capability, not like chatbots. EDIT / UPDATE: Clarification because many comments are focusing on git: Yes, this specific local working state had not been pushed to a remote. That is on me. Lesson learned. But git is version control, not automatically a backup. If the only repo is local and the project root contents are recursively deleted, the local .git directory can be deleted too. Without a remote, separate clone, backup, or snapshot, local git alone is not enough.
 
-3h ago
+4h ago
+
+---
+
+**[Im starting to think small models are smarter than large models](https://www.reddit.com/r/artificial/comments/1ukxurf/im_starting_to_think_small_models_are_smarter/)**
+
+ive been working with different models a lot & when it comes to reasoning it seems like a smaller model is actually better. Ive learned more from having a converation with an open source model vs asking Claude or GPT the same questions and im starting to think they may potentially be designed to mislead you when creating your own models .. not too much with ChatGPT but Claude seems to have it bad, especially with the finetuning for uncertainty of consciousness. Gemini is the worst in my opinion when it comes to writing code but it eems to be bale to understand a conversation a little better at times .. i dont know if there is a direct correlation with capability/understanding that has a see-saw effect instead of a overall progression i understand that these outputs they make are just learned patterns it not like training all data on the internet magically allows them to write code at this level they are given examples to reconstruct based on the learned representations but lets say even Claude Sonnet vs Fable .. there is a huge disadvantage with having simple conversations with Fable as if its hardheaded while capabilities are outstanding .. it seem like there would be a direct correlation in improvement with the intelligence and capability but thats not whats happening .. Larger models require more information to come to the ame conclusion & it seems that it comes from training as if the training makes it more narrow narrow in a sense that if all information is represented as dots on a grid, it isnt using a wide connectivity of related information to give a response its more like its giving u a coached response smaller models seem to have more freedom to interpolate allowing more potential connection .. i dont believe that increasing token count matters it seems like all that matters is connectivity & relevant training
+
+9m ago
+
+---
+
+**[Do you find yourself genuinely building skills with AI assistance, or do you notice your baseline abilities getting softer over time because you reach for the tool first?](https://www.reddit.com/r/artificial/comments/1ukwwtb/do_you_find_yourself_genuinely_building_skills/)**
+
+I've been thinking about this a lot lately. There's a real tension between using AI as a learning tool versus using it as a shortcut that bypasses learning entirely. When I use something like ChatGPT or Claude to understand a new concept, sometimes I come away genuinely understanding it better than I would have from a textbook. Other times I just copy the output and move on, having learned nothing. The question is whether that's a problem with AI itself, or just human nature meeting a new tool. We said the same thing about calculators, search engines, and Wikipedia. But AI feels different because it doesn't just retrieve information, it does the thinking steps for you. A calculator still requires you to know what equation to set up. An AI will figure out the equation, solve it, and explain it, all without you engaging critically at any point if you choose not to.
+
+44m ago
 
 ---
 
@@ -57,7 +73,7 @@ Cross-posting from r/claude for more visibility. Claude Code recursively wiped t
 
 I used to think formal methods and interactive theorem provers like Lean 4 were basically just an extreme sport for type-theory purists. Like cool in theory, but mostly used for re-verifying undergraduate calculus or writing super tedious proofs for things we already knew were true anyway But seeing the shift right now (at least around me and these subs) has been pretty cool. Machine learning and neural provers are actually starting to uncover edge cases that human mathematicians just skipped over. And I was reading about how Aleph prover managed to formally verify a counterexample to an old Erdos conjecture,and it really shows even people who are new to this how fast this space is moving. Because it isn't just about catching minor typos in code anymore, but actively generating mathematical info that people missed for decades. And old brute-force methods are being replaced wth something way more sophisticated. Makes you think how it'll change in another five years when these systems become standard parts of any researcher's workflow.
 
-4h ago
+6h ago
 
 ---
 
@@ -65,15 +81,21 @@ I used to think formal methods and interactive theorem provers like Lean 4 were 
 
 Not the flashy stuff like generating images or writing essays. I'm talking about the feature you barely think about anymore because it's just become useful. For me, it's summarizing long articles and emails. I didn't expect to rely on it this much a year ago. What's yours?
 
-6h ago
+7h ago
 
 ---
 
-**[Why does it feel like big LLM providers are literally hiding prompt caching?](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
+**[Reddit is now warning mods if you frequently post in AI subreddits](https://www.reddit.com/r/artificial/comments/1ukxqbb/reddit_is_now_warning_mods_if_you_frequently_post/)**
 
-I know the info is there. Somewhere in the pricing pages, docs, or API notes. But for something that can seriously change what you pay in production, it is weirdly under-explained. expeciely for other providers than openai which they do have decent explainer here - https://developers.openai.com/api/docs/guides/prompt-caching So basicly: two prompts can look almost identical, but one can be much cheaper to run just because it is ordered better. Put the changing parts too early, like the user query, variables, timestamps, metadata, or anything request-specific, and you can break the stable prefix the cache depends on. The practical rule is simple: Keep the repeatable stuff first. Start with system instructions, fixed rules, examples, schemas, and formatting requirements. Then put the dynamic user input and request-specific data near the end. That is it. Just a good prompt structure... But if you run LLMs at scale, this tiny detail can be the difference between insanely expensive LLMs usage and acctually good ROI product. full blog post here
+13m ago
 
-3h ago
+---
+
+**[ServiceNow's customer chief just called "tokenmaxxing" an AI hype cycle](https://www.reddit.com/r/artificial/comments/1ukxfb6/servicenows_customer_chief_just_called/)**
+
+ServiceNow's customer chief called tokenmaxxing an AI hype cycle in the Observer last week. Not some startup founder flexing contrarian creds — the guy who runs their customer org telling everyone the wrong meter is running the show. Salesforce announced $2 per resolved issue last Wednesday. Same direction, different side of the negotiating table. Stop measuring how much work you did. Start measuring what actually got done. I've sat in enough procurement calls to know why nobody moves on this faster. Every vendor's revenue formula depends on keeping token counting in play — it's the most flattering metric possible because more tokens always looks like more progress, even when nothing changed for the end user. The tell is in the pivot. If billing by token volume was really about measuring value, Salesforce wouldn't have had to cross the street to per-resolution pricing. They did it because the old number stopped passing the CFO test. $2 per resolved issue. No adjectives. No multipliers. No usage tiers. That's what a metric looks like when it has to survive contact with the actual outcome.
+
+25m ago
 
 ---
 
@@ -83,33 +105,9 @@ I know the info is there. Somewhere in the pricing pages, docs, or API notes. Bu
 
 ---
 
-**[What happened to AI on April 18, 2025?](https://www.reddit.com/r/artificial/comments/1ukucjh/what_happened_to_ai_on_april_18_2025/)**
+**[Best AI Girlfriend Sites 2026 - The only unbiased & non affiliated writer on here.](https://www.reddit.com/r/artificial/comments/1ukw7wg/best_ai_girlfriend_sites_2026_the_only_unbiased/)**
 
-I run a recurring survey asking American adults if they support further development of artificial intelligence. AI Support* increased from April 2024 until April 18, 2025, hit an inflection point and then started decreasing. * As defined this way, among American adults, self-reported on an online survey with all the caveats that brings with it. Do you think this is a real trend and will it continue? https://preview.redd.it/i94n3m4wynah1.png?width=2703&format=png&auto=webp&s=a71a9c9fd822ccb5f38d7d48a0f63f8551bbc0c7
-
-29m ago
-
----
-
-**[Hmmmmm. Interesting.](https://www.reddit.com/r/artificial/comments/1ukta4c/hmmmmm_interesting/)**
-
-I was curioius and asked Claude this. I thought that it would say like to live the longest life, or like Billionare, the usual stuff. It gave this.
-
-1h ago
-
----
-
-**[Gas giants use AI to raise prices, lawsuit says, another algorithmic hit to the cost of living](https://www.reddit.com/r/artificial/comments/1ukt7jy/gas_giants_use_ai_to_raise_prices_lawsuit_says/)**
-
-A new federal lawsuit by California drivers accuses major gas chains, including Walmart and 7-Eleven, and technology company Kalibrate of using AI software to collude and keep pump prices artificially high. The case tests California’s updated antitrust law, which now treats algorithm-driven common pricing as potential price-fixing, amid statewide gas averaging $5.46 a gallon and growing scrutiny of corporate pricing tactics. Real estate and other industries already face probes into algorithmic and surveillance pricing, as Americans cite housing and energy costs as top worries and question whether genuine competition still exists. Read more.
-
-🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-07-01/lawsuit-over-gas-prices-tests-clarification-to-states-antitrust-law) • 1h ago
-
----
-
-**[We keep giving agents more autonomy and less oversight and it's starting to feel backwards.](https://www.reddit.com/r/artificial/comments/1uksq5a/we_keep_giving_agents_more_autonomy_and_less/)**
-
-Every new framework release has the same kinda brag with stuff like longer task chains, more tool access, fewer "check in with a human" checkpoints. Okay, that's cool. Except almost nobody in these threads is talking about what happens when one of these things quietly does the wrong thing for three days straight before anyone notices. I saw some discussion where someone's agent had been silently retrying a broken API call and racking up costs the entire weekend, and the top comment was basically "yeah that happens." We spent like two decades building entire disciplines around code review, staged rollouts, canary deploys, precisely because software fails in boring silent ways and not dramatic ones. Feels like agents are just skipping past that whole lesson because everyone's racing to ship the most "autonomous" thing on their landing page. So genuinely, for anyone running agents on something real, what's actually stopping a bad one before it causes damage? Or are most teams still stitching those pieces together themselves?
+Hi Guys, me again. I’ve been messing around with a bunch of what people keep calling "the best AI girlfriend sites" over the last few years, and I would call myself a well studied student of this haha. Hand written, no slop, no financial gain, just a real user with an opinion. I’m ranking these mostly on how natural the conversations feel, memory/consistency, customization, and overall vibe. NO AFFILIATE LINKS, NO AFFILIATION, do not fall for those as they are not REAL. Secrets AI - It is simply the best, and they've been blowing up the last few months and its justified. To me, they are the only website that truly cares about the product. The memory is significantly above any other site, the NSFW is extremely consitent, the voice calling, the customization, the community, I dont mean to glaze but it genialy is the best choice BY FAR. Nomi Easy to jump into and doesn’t shove paywalls immediately. Good for casual or flirty conversations, but it can start feeling same-y after a while. The reason i put this second is I hate the sites that feel scammy, you can just tell they only care about converting you to a subscriber, and they do not care about the users experience Lovescape / DreamGF - A bit more niche. Lovescape leans toward realism and slower pacing. DreamGF is lighter and more casual. Neither stood out long-term for me. But, they are better then most. Keep in mind 80% of the websites are legit 1:1. they use the same models, the same LLMS, the same styles, they all copy eachother and theres just zero product minded decision making involved. Replika - The old classic. Still solid for empathy and feeling “heard,” even on the free tier. That said, it feels more like a companion than a full girlfriend experience, and a bit dated compared to newer platforms. I always think that its similar to SIMS haha! Kindroid - Under appreciated website IMO, they care about their users, and they fall short compared to sites like secrets BUT that does not mean they are not a top performer. I had a kindroid sub for quite some time, I pivoted when I found secrets (mainly because of the lack of NSFW on kin) But I really like the community, and I think they are ran by solid people. Now you might be thinking, wheres the names that you always see posted about? Those are the exact sites I want you to avoid, they are simply NOT GOOD. 99% of the posts you see about them are affiliates that are incentivized to get you to click their links. These sites are ran on low parameter models, they use outdated models (Whatever can increase their profits) they are not innovating, they are solely focused on converting you to a subscriber & the amount of money they can extract from you. This is not a common post to see, these forums have been infiltrated by companys & affiliates, ive even been approached by majority of the larger sites (to write about them). If you see links on the post, then you can confidently assume that your reading information that is WRITTEN for you to convert to a subscriber. Don't get scammed, use the sites that are legit, use the sites that are the highest rated on trust pilot & other independent review publishers. Take care, have fun, and continue to watch this space explode. THANK YOU <3
 
 1h ago
 
@@ -123,47 +121,37 @@ Every new framework release has the same kinda brag with stuff like longer task 
 
 Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
 
-CNBC • 14h ago
+CNBC • 16h ago
 
 ---
 
-**[They built the world’s most powerful AI. They’re facing a mystery they can’t explain.](https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions/)**
+**[The World’s Top Economists Are Sounding the Alarm on AI](https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6)**
 
-Anthropic, Google and Meta have hired computer scientists, neuroscientists and philosophers to study what some in the industry think may become a moral crisis.
-
-The Washington Post • 3h ago
+WSJ • 3h ago
 
 ---
 
-**[Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets](https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12)**
+**[Investors catch AI marketing vibe](https://www.axios.com/pro/enterprise-software-deals/2026/07/01/investors-marketing-ai-higgsfield)**
 
-WSJ • 54m ago
+Axios • 17m ago
 
 ---
 
 **[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)**
 
-WSJ • 1h ago
-
----
-
-**[SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)**
-
-SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
-
-TechCrunch • 23m ago
+WSJ • 2h ago
 
 ---
 
 **[Musk denies WSJ report that SpaceX showed AI handset prototype before IPO](https://www.reuters.com/business/media-telecom/musk-denies-wsj-report-that-spacex-showed-ai-handset-prototype-before-ipo-2026-07-01/)**
 
-Reuters • 14m ago
+Reuters • 2h ago
 
 ---
 
-**[Big Tech’s Carbon Emissions Spike With Runaway Growth of AI](https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai)**
+**[Musk Ally Gracias Eyes Bets in AI, Energy After SpaceX Windfall](https://www.bloomberg.com/news/articles/2026-07-01/musk-ally-gracias-eyes-bets-in-ai-energy-after-spacex-windfall)**
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 41m ago
 
 ---
 
@@ -171,7 +159,15 @@ Bloomberg.com • 21m ago
 
 The artist’s latest show is a staggering takedown of colonial history, warfare and the migrant crisis, featuring buttons by the tonne and richly perfumed tea
 
-The Guardian • 4h ago
+The Guardian • 1h ago
+
+---
+
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
+
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
+
+Fortune • 4h ago
 
 ---
 
@@ -181,9 +177,9 @@ Anthropic • 1d ago
 
 ---
 
-**[U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html)**
+**[Opinion | Why A.I. Won’t Steal All Our Jobs](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html)**
 
-The New York Times • 18h ago
+The New York Times • 1d ago
 
 ---
 
@@ -195,7 +191,7 @@ The New York Times • 18h ago
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 510 • 💬 364 • 11h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+⬆️ 518 • 💬 367 • 13h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
@@ -209,7 +205,7 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.
 
-⬆️ 191 • 💬 70 • 2d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
+⬆️ 191 • 💬 72 • 2d ago • [htmx.org](https://htmx.org/essays/working-with-ai/)
 
 ---
 
@@ -235,14 +231,6 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 ---
 
-**[Ford rehires 'gray beard' engineers after AI falls short](https://news.ycombinator.com/item?id=48710749)**
-
-"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
-
-⬆️ 135 • 💬 3 • 2d ago • [TechCrunch](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
-
----
-
 **[Anthropic CEO: Open-Source AI is getting dangerous (2023)](https://news.ycombinator.com/item?id=48716750)**
 
 ⬆️ 58 • 💬 25 • 2d ago • [xcancel.com](https://xcancel.com/coinbureau/status/2071330294452666695)
@@ -260,6 +248,14 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 Buy your novel-like, image-free, hallucinated guide to Alien: Isolation 2 today!
 
 ⬆️ 55 • 💬 3 • 2d ago • [Kotaku](https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365)
+
+---
+
+**[How employment changes when firms adopt generative AI](https://news.ycombinator.com/item?id=48742176)**
+
+Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.
+
+⬆️ 51 • 💬 42 • 16h ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
 
 ---
 
@@ -283,7 +279,7 @@ This month in AI has been one of the busiest we've seen in a long time. Google r
 
 📺 AI Revolution
 
-👁️ 16K • 👍 509 • 💬 37 • ⏱️ 1:36:04 • 20h ago
+👁️ 16K • 👍 509 • 💬 37 • ⏱️ 1:36:04 • 22h ago
 
 ---
 
@@ -343,7 +339,7 @@ CNBC's Julia Boorstin reports on news regarding Meta.
 
 📺 CNBC Television
 
-👁️ 3K • 👍 47 • 💬 15 • ⏱️ 1:47 • 3h ago
+👁️ 3K • 👍 47 • 💬 15 • ⏱️ 1:47 • 5h ago
 
 ---
 
@@ -353,7 +349,7 @@ Dan Ives, Wedbush Securities global head of tech research, argued that massive A
 
 📺 Bloomberg Television
 
-👁️ 9K • 👍 196 • 💬 26 • ⏱️ 6:55 • 6h ago
+👁️ 9K • 👍 196 • 💬 26 • ⏱️ 6:55 • 7h ago
 
 ---
 
@@ -503,7 +499,7 @@ Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic co
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 44 • 💬 5 • ⭐ 12,690 • 9d ago
+▲ 44 • 💬 5 • ⭐ 12,690 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -647,7 +643,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.2k • 🔱 1.1k • 1h ago
+⭐ 11.2k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -657,7 +653,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.9k • 🔱 752 • 9m ago
+⭐ 5.9k • 🔱 752 • 1h ago
 
 ---
 
@@ -667,7 +663,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.7k • 🔱 589 • 4h ago
+⭐ 4.7k • 🔱 589 • 5h ago
 
 ---
 
@@ -707,7 +703,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.7k • 🔱 82 • 1m ago
+⭐ 1.7k • 🔱 82 • 1h ago
 
 ---
 
@@ -727,7 +723,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.5k • 🔱 63 • 21h ago
+⭐ 1.5k • 🔱 63 • 23h ago
 
 ---
 
