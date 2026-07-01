@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-01T17:14:33.479689+00:00'
+updated: '2026-07-01T19:18:13.227756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 01, 2026 at 17:14 UTC  
+**Last Updated:** July 01, 2026 at 19:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,607.71
+### $1,617.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +2.8%  
-**30d:** -13.4%  
-**90d:** -21.5%  
-**1y:** -37.2%  
+**24h:** +3.0%  
+**7d:** +3.5%  
+**30d:** -12.8%  
+**90d:** -21.0%  
+**1y:** -36.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $194.30B
+**Market Cap:** $195.59B
 Rank #2
 
 **Circulating Supply:** 120,683,397 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.4%
+-67.2%
 
 **All-Time Low:** $0.43
-+371885.7%
++374223.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've noticed something funny. A lot of people talk about crypto adoption, but most crypto holders I know barely spend any of it. Recently, I started exploring ways people use crypto outside of exchanges. It made me realize that most of us probably don't spend crypto simply because we don't think about it. Not because there aren't options. I'm just curious where people stand on this. Do you actively spend crypto or is it mostly something you hold long-term?
 
-6h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've noticed something funny. A lot of people talk about crypto adoption, but mo
 
 Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a DeFi protocol that's been around for a long time; Ethereum oldheads might remember the name from as far back as 2019. The protocol works by users depositing their yield-bearing tokens, then their pool of yield being randomly awarded as prizes among the depositors. It incentivizes responsible saving by giving it some of the excitement of gambling, but without any of the degen risktaking--users never lose what they deposited and can withdraw at any time. Right now we're gearing up to have a giveaway of free chances to win on Base, where the total prize pool is currently 3.9 WETH. All you have to do to be eligible is join our Discord server and subscribe to our notification bot, Tooly. The winner of this giveaway will be selected this Thursday, July 2nd.
 
-21h ago
+23h ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi all, I have an unopened Dappnode Home that I purchased in August of 2023 that
 
 The problem: Single-authority customs approval is a rational bribery target. One official, one decision, predictable cost. The incentive structure is broken by design. Game theory layer: UBLP changes the incentive structure before any cryptography kicks in: - 2/3 committee threshold required (Byzantine fault tolerant) - Committee members have conflicting interests by design - Any anomalous signing pattern is visible on-chain Corrupting the system is no longer a cost-benefit calculation — it becomes a coordination problem that defeats itself. On-chain verification: L2 smart contract verifies two independent proofs at settlement: BLS12-381 aggregate signature — 2/3 committee threshold SP1 Groth16 ZK proof — document validity + holder privacy Neither alone is sufficient for settlement. The contract independently verifies both before writing the immutable record. L2 → Ethereum mainnet anchoring: Settlement records are written to L2. L2 periodically commits a batch proof to Ethereum mainnet — inheriting Ethereum's security guarantees without paying mainnet gas per document. Each customs clearance is ultimately anchored to Ethereum's consensus. Tampering with a settled record requires breaking both the L2 and Ethereum mainnet — economically infeasible. This is the finality layer: L2 handles throughput, Ethereum handles trust. ZK circuit (SP1 zkVM): Private inputs (never leave the circuit): - ministry_signature — P-256 ECDSA, 64 byte - holder_signature — P-256 ECDSA, 64 byte - holder_pub_key_raw — uncompressed SEC1, 65 byte - document_hash — SHA256("ublp-doc-v1:" + canonicalJson), 32 byte - ministry_pub_key_raw — uncompressed SEC1, 65 byte - document_id_hash — 32 byte Public outputs (verified on L2): - document_hash — document fingerprint - ministry_pub_key_hash — ministry key commitment - document_id_hash — replay protection - holder_pub_key_hash — holder identity proof without identity exposure Architecture: - Ministry signs document (EC P-256 ECDSA) → issues Verifiable Credential - Agent generates ZK proof via SP1 zkVM (Groth16/PLONK) - Independent committee verifies ZK proof, then BLS12-381 threshold signs (2/3) - L2 smart contract verifies both → immutable settlement Open questions I'd love feedback on: Is verifying both BLS + ZK on L2 the right approach, or should BLS verification move inside the ZK circuit? BLS 2/3 threshold — right model for this trust setup? Agent-first flow: committee never sees raw document, only the ZK proof — any attack vectors I'm missing? Domain-separated document hash `SHA256("ublp-doc-v1:" + canonicalJson)` — idiomatic for this use case? Security model — if you spot any attack vectors, trust assumption violations, or cryptographic weaknesses I haven't considered, please flag them. This is a prototype and I'd rather find the holes here than later. This is a prototype — mock ZK in dev mode, real SP1 in prod mode. GitHub: github.com/ekacin/UBLP
 
-3d ago
+4d ago
 
 ---
 
@@ -158,31 +158,31 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum Price: Kiyosaki Forecats $95K as Ethereum Battles $1.5K](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-kiyosaki-forecats-95k-170952370.html)**
+
+Ethereum price is holding a precarious line. ETH trades around $1,617, up roughly 3% over the past 24 hours, and the $1,500 support directly below is the number every desk is watching right now. Robert Kiyosaki’s March forecast projecting ETH at $95,000 by mid-2027 has resurfaced across crypto social media, ...
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
-ethereum.org • 1h ago
+ethereum.org • 3h ago
 
 ---
 
-**[EthLabs Launches as Ethereum Undergoes Its Biggest Leadership Transition in Years](https://news.futunn.com/en/post/75398088/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in)**
+**[Ethereum Foundation Lays Out Use Cases for Governments, Institutions in New Policy Guide](https://news.futunn.com/en/post/75405705/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in)**
 
-富途牛牛 • 2h ago
-
----
-
-**[Is Bitmine Immersion Technologies’ (BMNR) Russell Debut Reshaping Its Ethereum-Heavy Investment Narrative?](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-russell-071743433.html)**
-
-In late June 2026, Bitmine Immersion Technologies, Inc. was added to multiple Russell equity indexes, including the Russell 1000, 2500, 3000 and related value and completeness benchmarks, while also declaring a cash dividend on its 9.50% Series A Perpetual Preferred Stock listed as BMNP. These moves highlight Bitmine’s emergence as a large-cap index constituent with one of the largest Ethereum treasuries and staking operations in the market, underscoring its growing presence at the...
-
-Yahoo Finance • 9h ago
+富途牛牛 • 1h ago
 
 ---
 
-**[Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)**
+**[EthLabs launches as Ethereum undergoes its biggest leadership transition in years](https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years)**
 
-The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
+In this week's edition of The Protocol Newsletter, we’re diving into the creation of EthLabs, and why it was launched during a period of transition for the ecosystem.
 
-CoinDesk • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -190,15 +190,15 @@ CoinDesk • 3h ago
 
 Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 7h ago
 
 ---
 
-**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
+**[Bitmine (BMNR) Stock Looks Undervalued As Ethereum Treasury Grows Toward 5%](https://finance.yahoo.com/markets/stocks/articles/bitmine-bmnr-stock-looks-undervalued-020913384.html)**
 
-TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
+Bitmine Immersion Technologies stock sits between a long term gain and steep recent declines, with a mixed valuation read that does not clearly flag it as either a bargain or a bubble at its latest close of US$13.31. Bitmine Immersion Technologies has returned 121.9% over the past 5 years, which puts the current pullback in the context of a longer term gain for investors who have held through the cycle. The push to build one of the largest corporate Ethereum treasuries and staking operations...
 
-TradingView • 23h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -210,19 +210,19 @@ The Block • 2d ago
 
 ---
 
-**[Current price of Ethereum for July 1, 2026](https://fortune.com/article/price-of-ethereum-07-01-2026/)**
+**[Tom Lee blames bitcoin, ether weakness on quarter-end rebalancing as Bitmine (BMNR) buys $43M ETH](https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine made its smallest purchase since early May as Lee pointed to investors cutting losses before the start of the second half of the year.
 
-Fortune • 4h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?](https://www.fool.com/investing/2026/07/01/bitcoin-vs-ethereum-which-is-the-better-long-term/)**
+**[Tom Lee Explains Why Ethereum’s Price Crash Is Not a Bearish Signal](https://www.tradingview.com/news/coinpedia:5ecca9645094b:0-tom-lee-explains-why-ethereum-s-price-crash-is-not-a-bearish-signal/)**
 
-The top two cryptocurrencies are only superficially similar.
+Ethereum has fallen another 7% this week, extending its monthly losses to nearly 22%, now trading at around $1587. But while the price continues to struggle, Bitmine Chairman Tom Lee believes the recent decline has nothing to do with the ETH Price drop. Here’s why!Despite this, Bitmine has continue…
 
-The Motley Fool • 6h ago
+TradingView • 1d ago
 
 ---
 
@@ -236,7 +236,37 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 245 • ⏱️ 11:44 • 18h ago
+👁️ 46K • 👍 2K • 💬 250 • ⏱️ 11:44 • 20h ago
+
+---
+
+**[Why the ETH Price Has Been Stuck for Five Years](https://www.youtube.com/watch?v=bFwBR6z5HVU)**
+
+Only two crypto-native assets are worth more than $100 billion, and ETH has been parked in that tier for five years. Ansgar ...
+
+📺 Unchained
+
+👁️ 139 • 👍 1 • ⏱️ 10:18 • 3h ago
+
+---
+
+**[Institutional Ethereum Launches!🚀Private Yields Incoming!💰Zama CEO INTERVIEW](https://www.youtube.com/watch?v=amMBpwhI4mI)**
+
+Ethereum Institutional has launched as an independent nonprofit focused on accelerating adoption of Ethereum, its layer-2 ...
+
+📺 Paul Barron Network
+
+👁️ 611 • 👍 69 • 💬 5 • ⏱️ 30:21 • 13m ago
+
+---
+
+**[BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PSOCiXUE4PQ)**
+
+BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 312 • 👍 33 • 💬 5 • ⏱️ 19:50 • 13m ago
 
 ---
 
@@ -256,7 +286,17 @@ Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources
 
 📺 Ryan Walker
 
-👁️ 4K • 👍 139 • 💬 9 • ⏱️ 5:58 • 1h ago
+👁️ 5K • 👍 272 • 💬 21 • ⏱️ 5:58 • 3h ago
+
+---
+
+**[The Secret War That Could Make Ethereum Explode w/ John Gillen](https://www.youtube.com/watch?v=b0hzBtXhk3Q)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 6K • 👍 172 • 💬 71 • ⏱️ 41:52 • 2d ago
 
 ---
 
@@ -270,36 +310,6 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 ---
 
-**[The Secret War That Could Make Ethereum Explode w/ John Gillen](https://www.youtube.com/watch?v=b0hzBtXhk3Q)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 171 • 💬 71 • ⏱️ 41:52 • 1d ago
-
----
-
-**[“The Bottom Is IN! Prepare for a Massive Bull Run Before this Date”: Raoul Pal &amp; Tom Lee](https://www.youtube.com/watch?v=4HFz5GhMU0U)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 677 • 💬 93 • ⏱️ 18:35 • 1d ago
-
----
-
-**[BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ux_u_EKbT78)**
-
-BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 313 • 💬 180 • ⏱️ 20:44 • 19h ago
-
----
-
 **[40-Year Trading Veteran Reveals MASSIVE Crypto Prediction](https://www.youtube.com/watch?v=3O3ySBPSJHE)**
 
 Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.com/events/welcome-event?vipCode=oz5p ...
@@ -310,23 +320,13 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 ---
 
-**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
+**[🚩 Ethereum Will Crash Another 22%! - ETH Crypto Analysis](https://www.youtube.com/watch?v=wI_r52MOrZY)**
 
-BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 Big Time Trades
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 159 • 💬 39 • ⏱️ 29:00 • 22h ago
-
----
-
-**[HUGE ETH BREAKOUT SOON! (Ethereum Update)](https://www.youtube.com/watch?v=yq6E3Ye_kRA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 127 • 👍 18 • ⏱️ 4:50 • 8h ago
+👁️ 3K • 👍 104 • 💬 13 • ⏱️ 11:33 • 2d ago
 
 ---
 

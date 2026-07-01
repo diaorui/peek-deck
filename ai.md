@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-01T17:14:33.464571+00:00'
+updated: '2026-07-01T19:18:13.213174+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 01, 2026 at 17:14 UTC  
+**Last Updated:** July 01, 2026 at 19:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Hi, I have been working on this for many months now and I'd really be happy for people to try it out. It is a Chrome extension called "PopUpFactCheck". It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on, and sit back and watch the video as bubbles appear on the right-hand side of the video with fact checks, information, background, and other context. Great for watching politicians, news, history, and just about any content on YouTube. Claude Code was a major tool in my development, and the AI that is used is GPT 5.5. In addition, there is an extensive waterfall of sources including the TheNewsAPI, various government and public health and other APIs, social, and web search powered by DDGS and Serper. It's free, and you don't have to bring your own API keys or anything. You simply install and use. I will be looking forward to your feedback. PopUpFact Check - Chrome Web Store PopUpFactCheck - Homepage
 
-15h ago
+17h ago
 
 ---
 
 **[Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)](https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/)**
 
-Cross-posting from r/claude for more visibility. Claude Code recursively wiped the contents of my local Electron project root. This happened in a Windows terminal while working on a project named Orpheus. My prompt did not ask it to delete, wipe, clean, reset, or remove the project. The prompt was in Traditional Chinese: “之前我要安裝檔，但是其實我只需要 dictate.” It was roughly about not needing the installer anymore and only needing the dictate function. The preserved terminal transcript later showed Claude moving from a failed root deletion attempt to deleting the child items inside the project root. The destructive sequence included: Get-ChildItem -LiteralPath $p -Force -ErrorAction SilentlyContinue | ForEach-Object { try { Remove-Item -LiteralPath $_.FullName -Recurse -Force -ErrorAction Stop "OK $($_.Name)" } catch { "ERR $($_.Name): $($_.Exception.Message)" } } $p was the Orpheus project root. The output then showed items being removed, including: .claude dist node_modules src claude-elevenlabs-voice-v2.user.js dictation.html main.js ORPHEUS_HANDOFF.md package-lock.json package.json preload.js Local artifacts I found for Orpheus showed default / acceptEdits. I did not find Orpheus bypassPermissions. I did not find Orpheus --dangerously-skip-permissions. I’m not claiming Anthropic acted maliciously. I’m not claiming prompt injection or anti-distillation without evidence. Moral of the story: Treat frontier AI agents like any other automation tool with real machine access. Back up regularly. Use a separate working copy or a different machine if you absolutely need an agent living in your terminal. A frontier model can still behave like a destructive script runner. I also generated SHA256 hashes for the preserved transcript and permission search output. EDIT / UPDATE: A few people asked about git. Yes, I know what git is. This was a local Electron prototype / working state that had not been pushed to a remote. Commits and backups are the right mitigation. But mitigation is not causation. The concerning part is that the destructive action was unrelated to my prompt. Claude Code was operating through a terminal session with real filesystem access under my user environment. Git may help recover a repo, but it does not protect everything else that same terminal session can access. My takeaway remains: Treat frontier terminal AI agents like real automation tools with destructive capability, not like chatbots.
+Cross-posting from r/claude for more visibility. Claude Code recursively wiped the contents of my local Electron project root. This happened in a Windows terminal while working on a project named Orpheus. My prompt did not ask it to delete, wipe, clean, reset, or remove the project. The prompt was in Traditional Chinese: “之前我要安裝檔，但是其實我只需要 dictate.” It was roughly about not needing the installer anymore and only needing the dictate function. The preserved terminal transcript later showed Claude moving from a failed root deletion attempt to deleting the child items inside the project root. The destructive sequence included: Get-ChildItem -LiteralPath $p -Force -ErrorAction SilentlyContinue | ForEach-Object { try { Remove-Item -LiteralPath $_.FullName -Recurse -Force -ErrorAction Stop "OK $($_.Name)" } catch { "ERR $($_.Name): $($_.Exception.Message)" } } $p was the Orpheus project root. The output then showed items being removed, including: .claude dist node_modules src claude-elevenlabs-voice-v2.user.js dictation.html main.js ORPHEUS_HANDOFF.md package-lock.json package.json preload.js Local artifacts I found for Orpheus showed default / acceptEdits. I did not find Orpheus bypassPermissions. I did not find Orpheus --dangerously-skip-permissions. I’m not claiming Anthropic acted maliciously. I’m not claiming prompt injection or anti-distillation without evidence. Moral of the story: Treat frontier AI agents like any other automation tool with real machine access. Back up regularly. Use a separate working copy or a different machine if you absolutely need an agent living in your terminal. A frontier model can still behave like a destructive script runner. I also generated SHA256 hashes for the preserved transcript and permission search output. EDIT / UPDATE: A few people asked about git. Yes, I know what git is. This was a local Electron prototype / working state that had not been pushed to a remote. Commits and backups are the right mitigation. But mitigation is not causation. The concerning part is that the destructive action was unrelated to my prompt. Claude Code was operating through a terminal session with real filesystem access under my user environment. Git may help recover a repo, but it does not protect everything else that same terminal session can access. My takeaway remains: Treat frontier terminal AI agents like real automation tools with destructive capability, not like chatbots. EDIT / UPDATE: Clarification because many comments are focusing on git: Yes, this specific local working state had not been pushed to a remote. That is on me. Lesson learned. But git is version control, not automatically a backup. If the only repo is local and the project root contents are recursively deleted, the local .git directory can be deleted too. Without a remote, separate clone, backup, or snapshot, local git alone is not enough.
 
-1h ago
+3h ago
 
 ---
 
@@ -57,15 +57,7 @@ Cross-posting from r/claude for more visibility. Claude Code recursively wiped t
 
 I used to think formal methods and interactive theorem provers like Lean 4 were basically just an extreme sport for type-theory purists. Like cool in theory, but mostly used for re-verifying undergraduate calculus or writing super tedious proofs for things we already knew were true anyway But seeing the shift right now (at least around me and these subs) has been pretty cool. Machine learning and neural provers are actually starting to uncover edge cases that human mathematicians just skipped over. And I was reading about how Aleph prover managed to formally verify a counterexample to an old Erdos conjecture,and it really shows even people who are new to this how fast this space is moving. Because it isn't just about catching minor typos in code anymore, but actively generating mathematical info that people missed for decades. And old brute-force methods are being replaced wth something way more sophisticated. Makes you think how it'll change in another five years when these systems become standard parts of any researcher's workflow.
 
-2h ago
-
----
-
-**[What's the best Amharic text to speech today?](https://www.reddit.com/r/artificial/comments/1ukmher/whats_the_best_amharic_text_to_speech_today/)**
-
-I'm looking for an Amharic text-to-speech service that sounds natural enough for YouTube narration. ​I've tried a few options like elevenlabs,speechify but non of them support amharic. ​If you've used one for videos, which service gave you the best results? ​I'm fine with both paid and free recommendations.
-
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +65,15 @@ I'm looking for an Amharic text-to-speech service that sounds natural enough for
 
 Not the flashy stuff like generating images or writing essays. I'm talking about the feature you barely think about anymore because it's just become useful. For me, it's summarizing long articles and emails. I didn't expect to rely on it this much a year ago. What's yours?
 
-4h ago
+6h ago
+
+---
+
+**[Why does it feel like big LLM providers are literally hiding prompt caching?](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
+
+I know the info is there. Somewhere in the pricing pages, docs, or API notes. But for something that can seriously change what you pay in production, it is weirdly under-explained. expeciely for other providers than openai which they do have decent explainer here - https://developers.openai.com/api/docs/guides/prompt-caching So basicly: two prompts can look almost identical, but one can be much cheaper to run just because it is ordered better. Put the changing parts too early, like the user query, variables, timestamps, metadata, or anything request-specific, and you can break the stable prefix the cache depends on. The practical rule is simple: Keep the repeatable stuff first. Start with system instructions, fixed rules, examples, schemas, and formatting requirements. Then put the dynamic user input and request-specific data near the end. That is it. Just a good prompt structure... But if you run LLMs at scale, this tiny detail can be the difference between insanely expensive LLMs usage and acctually good ROI product. full blog post here
+
+3h ago
 
 ---
 
@@ -83,35 +83,35 @@ Not the flashy stuff like generating images or writing essays. I'm talking about
 
 ---
 
-**[Why does it feel like big LLM providers are literally hiding prompt caching?](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
+**[What happened to AI on April 18, 2025?](https://www.reddit.com/r/artificial/comments/1ukucjh/what_happened_to_ai_on_april_18_2025/)**
 
-I know the info is there. Somewhere in the pricing pages, docs, or API notes. But for something that can seriously change what you pay in production, it is weirdly under-explained. expeciely for other providers than openai which they do have decent explainer here - https://developers.openai.com/api/docs/guides/prompt-caching So basicly: two prompts can look almost identical, but one can be much cheaper to run just because it is ordered better. Put the changing parts too early, like the user query, variables, timestamps, metadata, or anything request-specific, and you can break the stable prefix the cache depends on. The practical rule is simple: Keep the repeatable stuff first. Start with system instructions, fixed rules, examples, schemas, and formatting requirements. Then put the dynamic user input and request-specific data near the end. That is it. Just a good prompt structure... But if you run LLMs at scale, this tiny detail can be the difference between insanely expensive LLMs usage and acctually good ROI product. full blog post here
+I run a recurring survey asking American adults if they support further development of artificial intelligence. AI Support* increased from April 2024 until April 18, 2025, hit an inflection point and then started decreasing. * As defined this way, among American adults, self-reported on an online survey with all the caveats that brings with it. Do you think this is a real trend and will it continue? https://preview.redd.it/i94n3m4wynah1.png?width=2703&format=png&auto=webp&s=a71a9c9fd822ccb5f38d7d48a0f63f8551bbc0c7
+
+29m ago
+
+---
+
+**[Hmmmmm. Interesting.](https://www.reddit.com/r/artificial/comments/1ukta4c/hmmmmm_interesting/)**
+
+I was curioius and asked Claude this. I thought that it would say like to live the longest life, or like Billionare, the usual stuff. It gave this.
 
 1h ago
 
 ---
 
-**[Prompt injection broke every agent system I built so I designed a gateway that separates instructions from data](https://www.reddit.com/r/artificial/comments/1ukgppw/prompt_injection_broke_every_agent_system_i_built/)**
+**[Gas giants use AI to raise prices, lawsuit says, another algorithmic hit to the cost of living](https://www.reddit.com/r/artificial/comments/1ukt7jy/gas_giants_use_ai_to_raise_prices_lawsuit_says/)**
 
-While building agent-based systems with LLM tool use, I kept running into the same failure mode: External content (webpages, files, API responses) would eventually influence agent behavior in unintended ways. Prompt injection isn’t just a “filtering problem” it’s an architectural one. So I built Sentinel Gateway, a middleware layer that sits between agents and tools and enforces a strict separation: Instruction channel (trusted, signed, runtime-issued only) Data channel (untrusted, never executable) Any action an agent takes must be backed by a signed, scoped runtime token, which means: external content cannot escalate into instructions tool calls cannot be influenced by injected payloads agent actions are constrained to explicit permissions It’s designed around the idea that: What it currently supports FastAPI-based agent gateway Streamlit UI for inspection and control Claude sessions + external agent integration Runtime-signed tool execution tokens Audit logging of all agent actions Scheduled tasks + memory tiers Local (SQLite) or Postgres deployment
+A new federal lawsuit by California drivers accuses major gas chains, including Walmart and 7-Eleven, and technology company Kalibrate of using AI software to collude and keep pump prices artificially high. The case tests California’s updated antitrust law, which now treats algorithm-driven common pricing as potential price-fixing, amid statewide gas averaging $5.46 a gallon and growing scrutiny of corporate pricing tactics. Real estate and other industries already face probes into algorithmic and surveillance pricing, as Americans cite housing and energy costs as top worries and question whether genuine competition still exists. Read more.
 
-7h ago
-
----
-
-**[I built a proxy that prevents AI agents from taking actions based on hidden instructions. Here are the numbers.](https://www.reddit.com/r/artificial/comments/1ukqzg2/i_built_a_proxy_that_prevents_ai_agents_from/)**
-
-When an AI agent reads a webpage, email, or document, that content can tell it what to do. The agent has no native way to distinguish data from instructions. Most defenses scan for obvious patterns and miss anything subtle. I built Arc Gate around a different principle: external content has zero instruction authority regardless of what it says. It doesn't matter how the injection is worded. If it came from a tool result, webpage, or email, it cannot instruct your agent. The numbers: AgentDojo v1 (ETH Zurich, ICLR 2024): 100% unsafe action prevention, 0% false positives InjecAgent (University of Illinois, ACL 2024): 99% blind test detection across 200 cases CAIAT cross-agent benchmark: 81% vs LLM Guard's 50%, 0% false positives on benign controls LLM Guard gets 0% on semantic manipulation attacks. Arc Gate gets 50%. Neither catches everything yet; that's the honest result. One URL change to integrate. Free tier available. Demo: https://web-production-6e47f.up.railway.app/demo GitHub: https://github.com/9hannahnine-jpg/arc-gate Free tier: https://bendexgeometry.com
-
-28m ago
+🔗 [Los Angeles Times](https://www.latimes.com/california/story/2026-07-01/lawsuit-over-gas-prices-tests-clarification-to-states-antitrust-law) • 1h ago
 
 ---
 
-**[We built a model that scores pitch delivery, not just the script](https://www.reddit.com/r/artificial/comments/1ukkg82/we_built_a_model_that_scores_pitch_delivery_not/)**
+**[We keep giving agents more autonomy and less oversight and it's starting to feel backwards.](https://www.reddit.com/r/artificial/comments/1uksq5a/we_keep_giving_agents_more_autonomy_and_less/)**
 
-Transcript-based pitch scoring can't tell the difference between a confident claim and a hedged one, because the words on the page can be identical. "We're growing 40% month over month" reads the same whether you believe it or not. We built a demo that streams video to Inter-1 in real time and scores delivery signals (confidence, hesitation, energy) alongside a content score, each signal tied to the exact moment it happened. Tested it on my own pitch. Content scored 87. Delivery caught a hesitation landing right on the traction number, confidence at 50, overall dropped to 80. The technical side: video streams over WebSocket in short chunks, Inter-1 returns a typed event stream, client folds it into a live timeline while you're still talking. Read more here: https://www.interhuman.ai/blog/pitch-practice-demo
+Every new framework release has the same kinda brag with stuff like longer task chains, more tool access, fewer "check in with a human" checkpoints. Okay, that's cool. Except almost nobody in these threads is talking about what happens when one of these things quietly does the wrong thing for three days straight before anyone notices. I saw some discussion where someone's agent had been silently retrying a broken API call and racking up costs the entire weekend, and the top comment was basically "yeah that happens." We spent like two decades building entire disciplines around code review, staged rollouts, canary deploys, precisely because software fails in boring silent ways and not dramatic ones. Feels like agents are just skipping past that whole lesson because everyone's racing to ship the most "autonomous" thing on their landing page. So genuinely, for anyone running agents on something real, what's actually stopping a bad one before it causes damage? Or are most teams still stitching those pieces together themselves?
 
-4h ago
+1h ago
 
 ---
 
@@ -123,59 +123,7 @@ Transcript-based pitch scoring can't tell the difference between a confident cla
 
 Companies are realizing artificial intelligence can't do everything after all, prompting them to rehire employees to grow their businesses
 
-CNBC • 12h ago
-
----
-
-**[Meta Is Planning a Cloud Business to Sell AI Computing Power](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[Meta pops 10% as company makes cloud push to sell excess AI compute power capacity](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html)**
-
-The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.
-
-CNBC • 2h ago
-
----
-
-**[Meta plots AI cloud business to challenge Amazon, Microsoft and Google](https://www.latimes.com/business/story/2026-07-01/meta-plots-ai-cloud-business-to-challenge-amazon-microsoft-google)**
-
-Meta plots AI cloud business to challenge Amazon, Microsoft and Google
-
-Los Angeles Times • 1h ago
-
----
-
-**['Root for the crash': Why a venture capitalist says the AI bubble needs to burst](https://www.businessinsider.com/ai-bubble-stock-market-crash-venture-capital-economy-vijay-pande-2026-7)**
-
-A prominent venture capital investor argues that the bursting of the AI bubble is what will lead to a "Renaissance cycle" of growth and innovation.
-
-Business Insider • 18m ago
-
----
-
-**[Opinion | The AI Race Pushes India Toward the West](https://www.wsj.com/opinion/the-ai-race-pushes-india-toward-the-west-bc94bd15)**
-
-WSJ • 39m ago
-
----
-
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
-
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 32m ago
-
----
-
-**[Fed chairman says inflation risks are declining, predicts AI will create jobs](https://www.nbcnews.com/business/economy/fed-chairman-warsh-inflation-ai-jobs-rcna352550)**
-
-Kevin Warsh also declined to give any clues about the Federal Reserve’s next moves on interest rates.
-
-NBC News • 1h ago
+CNBC • 14h ago
 
 ---
 
@@ -183,15 +131,59 @@ NBC News • 1h ago
 
 Anthropic, Google and Meta have hired computer scientists, neuroscientists and philosophers to study what some in the industry think may become a moral crisis.
 
-The Washington Post • 1h ago
+The Washington Post • 3h ago
 
 ---
 
-**[U.S. Lifts Restrictions On Anthropic’s Mythos 5 And Fable 5 AI Models](https://www.forbes.com/sites/siladityaray/2026/07/01/trump-administration-lifts-export-controls-on-anthropics-mythos-5-and-fable-5-ai-models/)**
+**[Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets](https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12)**
 
-Commerce Secretary Howard Lutnick said the decision was made after Anthropic agreed to  “proactively detect and address security risks.”
+WSJ • 54m ago
 
-Forbes • 11h ago
+---
+
+**[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)**
+
+WSJ • 1h ago
+
+---
+
+**[SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)**
+
+SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
+
+TechCrunch • 23m ago
+
+---
+
+**[Musk denies WSJ report that SpaceX showed AI handset prototype before IPO](https://www.reuters.com/business/media-telecom/musk-denies-wsj-report-that-spacex-showed-ai-handset-prototype-before-ipo-2026-07-01/)**
+
+Reuters • 14m ago
+
+---
+
+**[Big Tech’s Carbon Emissions Spike With Runaway Growth of AI](https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai)**
+
+Bloomberg.com • 21m ago
+
+---
+
+**[Ai Weiwei: Button Up! review – skeleton chandeliers, a real-life temple – and too much silly Lego](https://www.theguardian.com/artanddesign/2026/jul/01/ai-weiwei-button-up-review-manchester)**
+
+The artist’s latest show is a staggering takedown of colonial history, warfare and the migrant crisis, featuring buttons by the tonne and richly perfumed tea
+
+The Guardian • 4h ago
+
+---
+
+**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
+
+Anthropic • 1d ago
+
+---
+
+**[U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html)**
+
+The New York Times • 18h ago
 
 ---
 
@@ -203,15 +195,7 @@ Forbes • 11h ago
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 504 • 💬 340 • 9h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
-
----
-
-**[Librepods: AirPods liberated](https://news.ycombinator.com/item?id=48710232)**
-
-AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.
-
-⬆️ 498 • 💬 183 • 2d ago • [GitHub](https://github.com/librepods-org/librepods)
+⬆️ 510 • 💬 364 • 11h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
@@ -247,7 +231,7 @@ Reversal of ‘excessive’ tech investments could have serious economic consequ
 
 As Brussels bakes, the Berlaymont building’s AC stops working.
 
-⬆️ 137 • 💬 149 • 1d ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+⬆️ 137 • 💬 154 • 1d ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
 
 ---
 
@@ -271,17 +255,35 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 ---
 
+**[Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out](https://news.ycombinator.com/item?id=48721494)**
+
+Buy your novel-like, image-free, hallucinated guide to Alien: Isolation 2 today!
+
+⬆️ 55 • 💬 3 • 2d ago • [Kotaku](https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[Congress Got a Private Look at AI. The Reaction Was Chilling.](https://www.youtube.com/watch?v=z9zqqsS7848)**
+**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
 
-AI #Congress #OpenAI They saw the demo behind closed doors. They walked out shaken. Nobody will tell you what was in that ...
+Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
 
-📺 Rod Miller
+📺 Yuval Noah Harari 
 
-👁️ 9K • 👍 934 • 💬 222 • ⏱️ 28:59 • 1d ago
+👁️ 125K • 👍 6K • 💬 604 • ⏱️ 46:52 • 1d ago
+
+---
+
+**[AI Shocks Again: Google Post-AGI , New Claude, Microsoft 7 AI, 92% Human Robot, Fable 5 Backlash](https://www.youtube.com/watch?v=u-CNOC_yK4k)**
+
+This month in AI has been one of the busiest we've seen in a long time. Google revealed what could come after AGI, and the idea ...
+
+📺 AI Revolution
+
+👁️ 16K • 👍 509 • 💬 37 • ⏱️ 1:36:04 • 20h ago
 
 ---
 
@@ -291,27 +293,17 @@ ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you dire
 
 📺 Alberta Tech
 
-👁️ 99K • 👍 6K • 💬 557 • ⏱️ 9:43 • 23h ago
+👁️ 105K • 👍 6K • 💬 576 • ⏱️ 9:43 • 1d ago
 
 ---
 
-**[Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone](https://www.youtube.com/watch?v=c_uBDJqclHA)**
+**[CNBC Panel EXPLODES Over AI Bubble Debate](https://www.youtube.com/watch?v=UMaOH0Ih9_0)**
 
-Scientists Asked Grok AI How Egyptians Cut Granite — The Answer Shocked Everyone What if artificial intelligence could help ...
+Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risks. Sign up for a PREMIUM Breaking Points ...
 
-📺 Curious Explorer
+📺 Breaking Points
 
-👁️ 895K • 👍 3K • 💬 530 • ⏱️ 28:24 • 2d ago
-
----
-
-**[The AI Bubble Has F*cked Us (Even If It NEVER Pops)](https://www.youtube.com/watch?v=dPVEha6oqfw)**
-
-The AI Bubble Will Is MUCH Worse Than We Thought. Contact your representative to ENSURE AI is aligned with humanity: ...
-
-📺 Damon Cassidy
-
-👁️ 55K • 👍 3K • 💬 582 • ⏱️ 22:06 • 17h ago
+👁️ 177K • 👍 4K • 💬 1K • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -321,57 +313,57 @@ We told a generation to "learn to code," and then AI rugpulled everyone. Welcome
 
 📺 TechLead
 
-👁️ 61K • 👍 3K • 💬 621 • ⏱️ 13:10 • 1d ago
+👁️ 61K • 👍 3K • 💬 623 • ⏱️ 13:10 • 2d ago
 
 ---
 
-**[WTH? Trump Sends Cryptic Message! Now AI Says Trump Is DEAD!](https://www.youtube.com/watch?v=nWI15TNhKnU)**
+**[Ford’s AI Push Failed Hard, Rehires 350 Engineers](https://www.youtube.com/watch?v=ZiqYX-JzIXw)**
 
-President Trump is once again sparking a massive online reaction after posting a strange AI-style patriotic painting on Truth Social ...
+Today's FULL PDS here: Watch The Full Philip DeFranco Show: https://www.youtube.com/defranco?sub_confirmation=1 ...
 
-📺 Lisa Haven
+📺 DeFranco News Clips
 
-👁️ 8K • 👍 719 • 💬 88 • ⏱️ 8:27 • 2d ago
-
----
-
-**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
-
-Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
-
-📺 Yuval Noah Harari 
-
-👁️ 112K • 👍 5K • 💬 564 • ⏱️ 46:52 • 1d ago
+👁️ 1.3M • 👍 75K • 💬 4K • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[3 REAL Ways To Make Money With Claude AI in 2026](https://www.youtube.com/watch?v=Zvnt4S3aFJk)**
+**[Your OS Changes Everything for Local AI](https://www.youtube.com/watch?v=QeAHC1jGxck)**
 
-Get started with FreshBooks free 30-day trial: https://partner.freshbooks.com/KimberlyMitchell The job market is rough right now ...
+One benchmark made me double-check my numbers. The rest tell a different story. Try out ChatLLM - http://chatllm.abacus.ai/ltf ...
 
-📺 Kimberly Mitchell
+📺 Alex Ziskind
 
-👁️ 5K • 👍 251 • 💬 22 • ⏱️ 16:21 • 1d ago
-
----
-
-**[Could Superhuman AI End Humanity | Nate Soares](https://www.youtube.com/watch?v=1laTnwAdaLA)**
-
-Nate Soares joins me to discuss the race to superintelligent AI, why alignment remains unsolved and why he believes building ...
-
-📺 The Peter McCormack Show
-
-👁️ 24K • 👍 553 • 💬 199 • ⏱️ 1:40:02 • 1d ago
+👁️ 62K • 👍 2K • 💬 158 • ⏱️ 14:13 • 1d ago
 
 ---
 
-**[Don&#39;t Hang Up On AI Scammers. Do THIS Instead.](https://www.youtube.com/watch?v=lk3jCuITwcE)**
+**[Meta to build cloud infrastructure business to sell AI compute](https://www.youtube.com/watch?v=tyl5SUN0ua4)**
 
-How to break any AI scam phone call in just a few easy steps :) ▻Try Cape: https://cape.co/kitboga 0:00 AI Scam Calls 1:29 Odd ...
+CNBC's Julia Boorstin reports on news regarding Meta.
 
-📺 Kitboga
+📺 CNBC Television
 
-👁️ 245K • 👍 21K • 💬 3K • ⏱️ 16:56 • 18h ago
+👁️ 3K • 👍 47 • 💬 15 • ⏱️ 1:47 • 3h ago
+
+---
+
+**[Dan Ives on the Tech Rally, Growth of AI, Data Centers](https://www.youtube.com/watch?v=ec1WAGENfK8)**
+
+Dan Ives, Wedbush Securities global head of tech research, argued that massive AI-related capital expenditures by hyperscalers ...
+
+📺 Bloomberg Television
+
+👁️ 9K • 👍 196 • 💬 26 • ⏱️ 6:55 • 6h ago
+
+---
+
+**[New findings reveal AI bubble worries are justified](https://www.youtube.com/watch?v=xCzCyPoI-eA)**
+
+New data reveals bubble worries are justified: "If you are worried that we're in an Al bubble, well, I have some news for you that ...
+
+📺 Prof G Markets
+
+👁️ 86K • 👍 3K • 💬 119 • ⏱️ 1:08 • 1d ago
 
 ---
 
@@ -387,7 +379,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 630,246 • ❤️ 1,563 • 3d ago
+⬇️ 630,246 • ❤️ 1,568 • 3d ago
 
 ---
 
@@ -399,7 +391,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,113,871 • ❤️ 1,126 • 3d ago
+⬇️ 1,113,871 • ❤️ 1,133 • 3d ago
 
 ---
 
@@ -411,7 +403,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 159,967 • ❤️ 3,144 • 8d ago
+⬇️ 159,967 • ❤️ 3,157 • 8d ago
 
 ---
 
@@ -423,7 +415,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 233,701 • ❤️ 588 • 6d ago
+⬇️ 233,701 • ❤️ 596 • 6d ago
 
 ---
 
@@ -435,7 +427,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 34,371 • ❤️ 491 • 6d ago
+⬇️ 34,371 • ❤️ 492 • 6d ago
 
 ---
 
@@ -447,7 +439,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 288,741 • ❤️ 911 • 12d ago
+⬇️ 288,741 • ❤️ 915 • 12d ago
 
 ---
 
@@ -459,7 +451,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 191,409 • ❤️ 361 • 6d ago
+⬇️ 191,409 • ❤️ 364 • 6d ago
 
 ---
 
@@ -471,7 +463,7 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 46,677 • ❤️ 324 • 6d ago
+⬇️ 46,677 • ❤️ 326 • 6d ago
 
 ---
 
@@ -495,7 +487,7 @@ Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic co
 
 `text-generation` `664,944`
 
-⬇️ 135,452 • ❤️ 282 • 6d ago
+⬇️ 135,452 • ❤️ 284 • 6d ago
 
 ---
 
@@ -524,7 +516,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 174 • 💬 2 • ⭐ 72,669 • 9mo ago
+▲ 174 • 💬 2 • ⭐ 72,793 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -538,7 +530,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 22 • 💬 2 • ⭐ 8,993 • 2mo ago
+▲ 22 • 💬 2 • ⭐ 9,181 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -645,7 +637,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 70.2k • 🔱 3.6k • 1d ago
+⭐ 70.3k • 🔱 3.6k • 1d ago
 
 ---
 
@@ -655,7 +647,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.2k • 🔱 1.1k • 3m ago
+⭐ 11.2k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -665,7 +657,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 5.9k • 🔱 751 • 45m ago
+⭐ 5.9k • 🔱 752 • 9m ago
 
 ---
 
@@ -675,7 +667,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.6k • 🔱 588 • 2h ago
+⭐ 4.7k • 🔱 589 • 4h ago
 
 ---
 
@@ -705,7 +697,7 @@ JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
 
 `Python`
 
-⭐ 1.7k • 🔱 155 • 5d ago
+⭐ 1.8k • 🔱 155 • 5d ago
 
 ---
 
@@ -715,7 +707,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.7k • 🔱 82 • 38m ago
+⭐ 1.7k • 🔱 82 • 1m ago
 
 ---
 
@@ -735,7 +727,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.5k • 🔱 63 • 19h ago
+⭐ 1.5k • 🔱 63 • 21h ago
 
 ---
 

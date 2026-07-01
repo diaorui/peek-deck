@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-01T17:14:33.482912+00:00'
+updated: '2026-07-01T19:18:13.230971+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 01, 2026 at 17:14 UTC  
+**Last Updated:** July 01, 2026 at 19:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ This is my project, Mighty Camera. It is essentially a monocular SLAM camera run
 
 Some of you asked for the full pipeline code, so here it is. https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place
 
-23h ago
+1d ago
 
 ---
 
 **[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -78,13 +78,13 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 **[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
 
-20h ago
+22h ago
 
 ---
 
 **[Sorry for the spam but he is such a good boy](https://www.reddit.com/r/robotics/comments/1uj16o3/sorry_for_the_spam_but_he_is_such_a_good_boy/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +110,7 @@ So I want to perform a material characterization study on a material where I nee
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 15h ago
+South China Morning Post • 17h ago
 
 ---
 
@@ -118,7 +118,7 @@ South China Morning Post • 15h ago
 
 Robotics maker bets on realism to answer demand for companionship, counseling
 
-Nikkei Asia • 22h ago
+Nikkei Asia • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Nikkei Asia • 22h ago
 
 UBTech unveils the mass-produced UWORLD U1 humanoid, combining biomimetic AI and emotion-aware LLMs for real-world deployment.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -138,6 +138,28 @@ Business Insider • 1d ago
 
 ---
 
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
+
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
+
+Fortune • 2h ago
+
+---
+
+**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://futurism.com/robots-and-machines/factory-attaches-cameras-workers-labor-robots)**
+
+Factories in India are increasingly tethering GoPro cameras to their workers in order to train their robotic replacements.
+
+Futurism • 5h ago
+
+---
+
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 3h ago
+
+---
+
 **[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
 
 Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
@@ -146,41 +168,19 @@ Fox News • 1d ago
 
 ---
 
-**[Factories Attaches Cameras to Workers, in Hopes of Replacing Them With Robots](https://futurism.com/robots-and-machines/factory-attaches-cameras-workers-labor-robots)**
-
-Factories in India are increasingly tethering GoPro cameras to their workers in order to train their robotic replacements.
-
-Futurism • 3h ago
-
----
-
 **['Delivery robots are in the way - you're the one who has to move'](https://www.bbc.com/news/articles/ckg0z1je5e1o)**
 
 People in Leeds have their say about delivery robots as a charity questions the devices' legality.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
-**[Churchill Capital Stock Surges On $2.5B Merger With Agility Robotics: What Investors Need To Know](https://finance.yahoo.com/markets/stocks/articles/churchill-capital-stock-surges-2-100013748.html)**
+**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
 
-Shares of Churchill Capital Corp XI are trading higher Monday morning following last week’s announcement of a definitive business combination agreement with Agility Robotics. The transaction values the humanoid robotics and physical AI company at a pre-money equity value of...
+Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
-
-MarketWatch • 1h ago
-
----
-
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
-
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 32m ago
+NASA (.gov) • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 16K • 👍 398 • 💬 133 • ⏱️ 3:59 • 15h ago
+👁️ 18K • 👍 419 • 💬 144 • ⏱️ 3:59 • 17h ago
 
 ---
 
@@ -208,33 +208,23 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 ---
 
-**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
-
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
-
-📺 OTOFOOTAGE
-
-👁️ 11K • 👍 137 • 💬 66 • ⏱️ 3:05 • 1d ago
-
----
-
 **[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
 China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
 
 📺 Prime Insights
 
-👁️ 453K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
+👁️ 454K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
 
 ---
 
-**[My Robot broke 1 Day before Graduation (bruh)](https://www.youtube.com/watch?v=gqnW9qBCHnM)**
+**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
 
-Try Brilliant's tutor for free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay ...
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
 
-📺 Tazer
+📺 OTOFOOTAGE
 
-👁️ 8K • 👍 2K • 💬 110 • ⏱️ 29:03 • 4h ago
+👁️ 13K • 👍 145 • 💬 68 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -244,17 +234,17 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 29K • 👍 407 • 💬 22 • ⏱️ 5:08 • 3d ago
+👁️ 30K • 👍 412 • 💬 22 • ⏱️ 5:08 • 3d ago
 
 ---
 
-**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
+**[My Robot broke 1 Day before Graduation (bruh)](https://www.youtube.com/watch?v=gqnW9qBCHnM)**
 
-Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
+Try Brilliant's tutor for free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay ...
 
-📺 Evolving AI
+📺 Tazer
 
-👁️ 6K • 👍 98 • ⏱️ 10:47 • 2d ago
+👁️ 16K • 👍 2K • 💬 172 • ⏱️ 29:03 • 6h ago
 
 ---
 
@@ -264,7 +254,7 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 81K • 👍 4K • 💬 268 • ⏱️ 23:57 • 4d ago
+👁️ 85K • 👍 5K • 💬 276 • ⏱️ 23:57 • 4d ago
 
 ---
 
@@ -278,13 +268,23 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 ---
 
-**[China&#39;s AI Snake Robot Detects Power Line Damage Before Blackouts! 🤯⚡](https://www.youtube.com/watch?v=iNYXgjrYn_U)**
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
-China's Autonomous Snake Robot Inspects Live High-Voltage Power Lines Without Shutting Off Electricity! ⚡     What if power ...
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
 
-📺 Techie Sapien
+📺 51 Drones
 
-👁️ 9K • 💬 7 • ⏱️ 0:11 • 3h ago
+👁️ 305 • 👍 51 • 💬 9 • ⏱️ 12:50 • 1h ago
+
+---
+
+**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
+
+Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
+
+📺 Evolving AI
+
+👁️ 6K • 👍 98 • ⏱️ 10:47 • 2d ago
 
 ---
 
