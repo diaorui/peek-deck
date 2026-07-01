@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-06-30T23:44:29.893434+00:00'
+updated: '2026-07-01T03:58:55.885713+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** June 30, 2026 at 23:44 UTC  
+**Last Updated:** July 01, 2026 at 03:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the back-drivability is wild. Just for context: we were getting super annoyed with stripping the 3D-printed plastic gears on open-source rigs like the Berkeley Lite and ALOHA. They are awesome projects, but the plastic joints are fragile and a nightmare to maintain. So we designed this as a drop-in replacement (calling it the Starfruit Actuator). Instead of printing two different plastic joint types, we wanted a single unified metal design to simplify the BOM and actually survive dynamic loads. Specs we're rolling with for the final drop: 30:1 ratio (30 teeth, 31 pins) Dual absolute encoders (supports FOC & MIT modes) Fully ODrive-compatible Target price: ~$149 Next up is integrating the motor and driver board, then throwing it on the test bench to see if it survives a 76 Nm torque test without exploding. Fingers crossed lol. Let me know what you think of the machining! All the STEP files, ROS2 nodes, and configs are going to be 100% open source. I'll drop the project link in the comments if anyone wants to track the testing or grab the files when they go live.
 
-12h ago
+16h ago
 
 ---
 
 **[SLAM Camera Depth Test](https://www.reddit.com/r/robotics/comments/1ujhz0o/slam_camera_depth_test/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hey guys. A couple months back I asked this sub for some reality checks on using
 
 This is my project, Mighty Camera. It is essentially a monocular SLAM camera running entirely on tiny onboard compute. See my past posts for details. Mighty also supports combining multiple cameras and synchronizing them to produce frame-level synced streams. In this setup, I’m using that hardware synchronization to generate depth with SGBM, while it also produces VIO pose.
 
-7h ago
+11h ago
 
 ---
 
@@ -58,13 +58,13 @@ This is my project, Mighty Camera. It is essentially a monocular SLAM camera run
 
 Some of you asked for the full pipeline code, so here it is. https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place
 
-6h ago
+10h ago
 
 ---
 
 **[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
 
-2h ago
+6h ago
 
 ---
 
@@ -72,13 +72,13 @@ Some of you asked for the full pipeline code, so here it is. https://github.com/
 
 Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 servos (50kg torque) and 3x STS3215 servos (30kg torque).
 
-21h ago
+1d ago
 
 ---
 
 **[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
 
-3h ago
+7h ago
 
 ---
 
@@ -100,7 +100,7 @@ In LLMs, Attention Is All You Need is one of those papers everyone agrees is wor
 
 So I want to perform a material characterization study on a material where I need to put it under pressure. I’m in high school and don’t have a mentor or time to ask for access to university labs so I want to make something that can help me get data for cheap. I’m trying to make a linear actuator design and physically build all the parts myself (except for the motor and leadscrew system obviously) but I don’t extensively know how these types of things work. If I was to build something like this (pictures) would there be any significant issues? The cylinder (of which I don’t know what material to make out of) protruding out from the side would be directly connected to the sliding block part of my linear actuator so it pushes that down onto my material. I’m going to be pushing with 50lbs ish max so I’m making the majority of this out of wood. Any tips on making sure it doesn’t get worn out by some slight imperfection over the thousands of trials I’m going to need it for? And also any tips to make it work if something is seriously wrong 😭 And lastly any other tips about doing research studies like this without lab access or a significant mentor would be greatly appreciated.
 
-20h ago
+1d ago
 
 ---
 
@@ -108,35 +108,11 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[Ambi Robotics and Pickle Robot Deliver Integrated Physical AI Solution to Fully Automate Inbound Logistics](https://www.businesswire.com/news/home/20260630502727/en/Ambi-Robotics-and-Pickle-Robot-Deliver-Integrated-Physical-AI-Solution-to-Fully-Automate-Inbound-Logistics)**
+**[Richtech Robotics (RR) Launches Live, 24/7 Interactive Streaming Platform Built Around ADAM, The Company’s AI-Powered Humanoid Robot](https://finance.yahoo.com/technology/ai/articles/richtech-robotics-rr-launches-live-020406700.html)**
 
-Ambi Robotics and Pickle Robot Deliver Integrated Physical AI Solution to Fully Automate Inbound Logistics
+Given its significant hedge fund backing and attractive upside potential, Richtech Robotics Inc. (NASDAQ:RR) is one of the most promising robotics stocks. Richtech Robotics Inc. (NASDAQ:RR) is advancing on two fronts at once, putting its humanoid robot in front of a global audience while laying down the physical infrastructure to scale its AI and robotics […]
 
-Business Wire • 12h ago
-
----
-
-**[Mecka AI acquires Docula as it builds the data layer for robotics](https://betakit.com/mecka-ai-acquires-docula-as-it-builds-the-data-layer-for-robotics/)**
-
-The three-person Canadian AI startup is joining the majority-Canadian Mecka team.
-
-BetaKit • 1d ago
-
----
-
-**[Are Humanoid Robots Ready to Be Deployed?](https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed)**
-
-Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
-
-The New Yorker • 1d ago
-
----
-
-**[How AI and robotics will transform auto manufacturing](https://www.autonews.com/technology/an-ai-robotics-auto-manufacturing-0628/)**
-
-Automakers are testing AI for workflow management, supply chains and humanoid robots. But the technology's biggest near-term effect may come in vehicle maintenance and financing instead of factory production.
-
-Automotive News • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -144,7 +120,23 @@ Automotive News • 2d ago
 
 When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
 
-CNN • 17h ago
+CNN • 21h ago
+
+---
+
+**[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
+
+Robotics maker bets on realism to answer demand for companionship, counseling
+
+Nikkei Asia • 9h ago
+
+---
+
+**[Ambi Robotics and Pickle Robot Deliver Integrated Physical AI Solution to Fully Automate Inbound Logistics](https://www.businesswire.com/news/home/20260630502727/en/Ambi-Robotics-and-Pickle-Robot-Deliver-Integrated-Physical-AI-Solution-to-Fully-Automate-Inbound-Logistics)**
+
+Ambi Robotics and Pickle Robot Deliver Integrated Physical AI Solution to Fully Automate Inbound Logistics
+
+Business Wire • 16h ago
 
 ---
 
@@ -152,7 +144,7 @@ CNN • 17h ago
 
 Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
 
-NASA (.gov) • 12h ago
+NASA (.gov) • 16h ago
 
 ---
 
@@ -160,7 +152,15 @@ NASA (.gov) • 12h ago
 
 The U.S. has always led the world's great industrial leaps. Robotics is next — but only if Washington, industry, and workers move together.
 
-Fortune • 11h ago
+Fortune • 12h ago
+
+---
+
+**[Japan aims to deploy 10 million AI robots by 2040](https://www3.nhk.or.jp/nhkworld/en/news/20260630_21/)**
+
+Japan's industry ministry says it aims to introduce about 10 million AI-equipped robots across 18 sectors by 2040 amid the country's growing labor shortage.
+
+nhk.or.jp • 11h ago
 
 ---
 
@@ -172,19 +172,19 @@ Baton Rouge Business Report • 1d ago
 
 ---
 
+**[How Jaiveer Singh Is Helping Robots — and Developers — Move Faster](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/)**
+
+When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]
+
+NVIDIA Blog • 12h ago
+
+---
+
 **[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
 
 Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
 
-Fox News • 12h ago
-
----
-
-**[Robots, not chatbots, will realise AI’s potential](https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8?syn-25a6b1a6=1)**
-
-Factory-floor applications of the technology could significantly enhance rich-world economies
-
-Financial Times • 2d ago
+Fox News • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 3K • 👍 63 • 💬 19 • ⏱️ 3:05 • 13h ago
+👁️ 4K • 👍 80 • 💬 26 • ⏱️ 3:05 • 17h ago
 
 ---
 
@@ -208,67 +208,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 447K • 👍 13K • 💬 1K • ⏱️ 24:13 • 3d ago
-
----
-
-**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
-
-Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
-
-📺 Got Talent Global
-
-👁️ 25K • 👍 374 • 💬 21 • ⏱️ 5:08 • 2d ago
-
----
-
-**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
-
-Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
-
-📺 The Daily Show
-
-👁️ 131K • 👍 4K • 💬 130 • ⏱️ 28:40 • 1d ago
-
----
-
-**[The Robotics Giant Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cgwuLcXXUf8)**
-
-Robotics is a booming business, but it's not all about upstarts. There's a $150 billion business with a presence in nearly every ...
-
-📺 The Motley Fool
-
-👁️ 5K • 👍 156 • 💬 3 • ⏱️ 11:26 • 2d ago
-
----
-
-**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
-
-Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
-
-📺 Evolving AI
-
-👁️ 5K • 👍 87 • ⏱️ 10:47 • 1d ago
-
----
-
-**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
-
-Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
-
-📺 Vanessa Wingårdh
-
-👁️ 90K • 👍 5K • 💬 2K • ⏱️ 13:18 • 2d ago
-
----
-
-**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
-
-This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
-
-📺 Talent Replay
-
-👁️ 76K • 👍 752 • 💬 27 • ⏱️ 39:57 • 3d ago
+👁️ 449K • 👍 13K • 💬 1K • ⏱️ 24:13 • 3d ago
 
 ---
 
@@ -278,17 +218,75 @@ Optimus Gen 3: 1000 robots learn in secret—discover how 168 hours could unlock
 
 📺 Tech Revolution
 
-👁️ 39K • 👍 815 • 💬 67 • ⏱️ 21:30 • 6d ago
+👁️ 39K • 👍 816 • 💬 67 • ⏱️ 21:30 • 6d ago
 
 ---
 
-**[Unitree R1 | Price from $4,900, Ready Stock](https://www.youtube.com/watch?v=mTMYfVD4zCw)**
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
 
-Your Smart Robot Companion.
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
 
-📺 Unitree Robotics
+📺 Vanessa Wingårdh
 
-👁️ 3.6M • 👍 2K • 💬 553 • ⏱️ 0:31 • 6d ago
+👁️ 91K • 👍 5K • 💬 2K • ⏱️ 13:18 • 2d ago
+
+---
+
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+
+📺 Got Talent Global
+
+👁️ 26K • 👍 379 • 💬 22 • ⏱️ 5:08 • 2d ago
+
+---
+
+**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
+
+Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
+
+📺 The Daily Show
+
+👁️ 141K • 👍 4K • 💬 135 • ⏱️ 28:40 • 1d ago
+
+---
+
+**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
+
+Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
+
+📺 Evolving AI
+
+👁️ 5K • 👍 90 • ⏱️ 10:47 • 2d ago
+
+---
+
+**[The Robotics Giant Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cgwuLcXXUf8)**
+
+Robotics is a booming business, but it's not all about upstarts. There's a $150 billion business with a presence in nearly every ...
+
+📺 The Motley Fool
+
+👁️ 5K • 👍 161 • 💬 3 • ⏱️ 11:26 • 2d ago
+
+---
+
+**[My new robot just mastered the hexagon wall!😱#robot #robotics #robotdance #ruko #outdoors](https://www.youtube.com/watch?v=X_9KmKtiPZY)**
+
+📺 Smarttoy Ruko
+
+👁️ 2K • 👍 23 • 💬 1 • ⏱️ 0:25 • 14h ago
+
+---
+
+**[China’s IRON Humanoid Robot. #shorts](https://www.youtube.com/watch?v=ECKNqW7eeFg)**
+
+China's XPENG IRON humanoid robot is incredibly lifelike. But at India's AI Summit, a university showcased a Chinese robot dog ...
+
+📺 Nothing But Karan
+
+👁️ 24K • 💬 24 • ⏱️ 0:51 • 1d ago
 
 ---
 

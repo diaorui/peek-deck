@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-06-30T23:44:29.890170+00:00'
+updated: '2026-07-01T03:58:55.882983+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** June 30, 2026 at 23:44 UTC  
+**Last Updated:** July 01, 2026 at 03:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,569.69
+### $1,591.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -3.2%  
-**30d:** -21.6%  
-**90d:** -23.6%  
-**1y:** -34.6%  
+**24h:** +0.6%  
+**7d:** +1.8%  
+**30d:** -14.2%  
+**90d:** -22.3%  
+**1y:** -37.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $189.16B
+**Market Cap:** $192.37B
 Rank #2
 
-**Circulating Supply:** 120,683,443 ETH
+**Circulating Supply:** 120,683,397 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--68.3%
+-67.8%
 
 **All-Time Low:** $0.43
-+361961.4%
++367966.3%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
 **[What is the Ethereum Glamsterdam Upgrade? Everything You Need to Know](https://www.reddit.com/r/ethereum/comments/1ujo1lo/what_is_the_ethereum_glamsterdam_upgrade/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I frequently experience this when traveling. The transaction is rejected, the card is flagged, and the bank must be contacted from a different time zone. truly draining. began storing cryptocurrency as a backup just for this purpose. discovered a crypto platform, which offers travel and mobility gift cards that can be purchased using cryptocurrency and sent instantaneously to Hotels.com, Uber, and airline platforms. Thus, in the event that my card is blocked, I can obtain a Bitcoin or Ethereum gift card and complete the reservation without having to deal with the bank. Does anyone else use this as a backup plan when traveling? I want to know if this is a frequent workaround or if there are better choices.
 
-10h ago
+15h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi all, I have an unopened Dappnode Home that I purchased in August of 2023 that I ended up not setting up because of internet and power reliability issues in my housing unit. I'm looking to rehome it for a reasonable price, basically just parts without Dappnode premium so it gets put to use. The specs are: CPU: Intel NUC i7 RAM: 64 GB DDR4 Storage: 4 TB NVMe SSD I also posted in Ethstaker and Dappnode Discords. Happy to send pictures, order confirmation, and whatever else you'd like to see. I'm @pompeyplottin on Discord and Twitter as well, thanks.
 
-2d ago
+3d ago
 
 ---
 
@@ -150,11 +150,51 @@ Strawmap updated, Ethereum Foundation restructure, Ethlabs launched
 
 ## Google News: "ethereum"
 
-**[Ethereum Whale Tom Lee Flags Peak Market Fear as SharpLink Buys 10,000 ETH](https://finance.yahoo.com/markets/crypto/articles/ethereum-whale-tom-lee-flags-170103058.html)**
+**[Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak](https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down)**
 
-SharpLink added 10,000 ETH and repurchased stock as Tom Lee said crypto sentiment is worse than after the FTX collapse.
+Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.
 
-Yahoo Finance • 6h ago
+Decrypt • 12h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide as 'Extreme Fear' Persists: Analyst Notes Half of BTC Circulating Network Now Sitting 'Underwater'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-slide-014634065.html)**
+
+Leading cryptocurrencies reversed course on Tuesday amid negative sentiment in the market, but analysts believe the sell-off may have carved out a bottom. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:10 p.m. EDT)Bitcoin (CRYPTO: BTC)-2.52%$58,223.10Ethereum (CRYPTO: ETH) -1.54%$1,566.30XRP (CRYPTO: XRP) -1.43%$1.03Solana (CRYPTO: SOL) -1.34%$73.20Dogecoin (CRYPTO: DOGE) -1.38%$0.07144 Crypto Market Retreats Bitcoin pulled back to about $58,000 after Monday’s surge, while 24‑hour trading v
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers from fresh yearly low, ETH and XRP consolidate at key levels](https://www.mitrade.com/au/insights/news/live-news/article-3-1859972-20260701)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Wednesday after a recent correction.
+
+Mitrade • 12m ago
+
+---
+
+**[What to Expect From Ethereum (ETH) in July 2026](https://www.mitrade.com/au/insights/crypto/ethereum/beincrypto-ETHUSD-202607010957)**
+
+Ethereum (ETH) enters July 2026 trading near $1,570, close to multi-month lows, after recording its first run of three consecutive red quarterly candles in its history.On-chain data and price charts n
+
+Mitrade • 1h ago
+
+---
+
+**[Vitalik Buterin says crypto’s most powerful idea is still nowhere near ready](https://www.coindesk.com/tech/2026/06/29/vitalik-buterin-says-crypto-s-most-powerful-idea-is-still-nowhere-near-ready)**
+
+The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
+
+CoinDesk • 1d ago
+
+---
+
+**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
+
+TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
+
+TradingView • 10h ago
 
 ---
 
@@ -190,49 +230,19 @@ The Block • 1d ago
 
 ---
 
-**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
-
-TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
-
-TradingView • 6h ago
-
----
-
-**[Vitalik Buterin says crypto’s most powerful idea is still nowhere near ready](https://www.coindesk.com/tech/2026/06/29/vitalik-buterin-says-crypto-s-most-powerful-idea-is-still-nowhere-near-ready)**
-
-The Ethereum co-founder says indistinguishability obfuscation could one day act like a “trustless trusted third party,” but today’s versions remain far too slow for real use.
-
-CoinDesk • 1d ago
-
----
-
-**[Tom Lee Ties Ethereum Selloff to Quarter-End Window Dressing](https://beincrypto.com/tom-lee-ethereum-window-dressing-selloff/)**
-
-Tom Lee points to quarter-end window dressing amid Ethereum's 8% drop as Bitmine and SharpLink buy ETH into weakness.
-
-BeInCrypto • 19h ago
-
----
-
-**[Current price of Ethereum for June 30, 2026](https://fortune.com/article/price-of-ethereum-06-30-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
-
----
-
-**[Is Ethereum's Golden Goose Finally Cooked?](https://www.fool.com/investing/2026/06/29/is-ethereums-golden-goose-finally-cooked/)**
-
-Sentiment about the coin is in the dumps, and it's no surprise why.
-
-The Motley Fool • 19h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 18K • 👍 1K • 💬 75 • ⏱️ 11:44 • 5h ago
+
+---
 
 **[BIGGEST CRYPTO NEWS HAPPENING NOW (JPMorgan, Clarity, Saylor, Ethereum)](https://www.youtube.com/watch?v=qS34CLtPpOo)**
 
@@ -240,17 +250,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 137 • ⏱️ 11:49 • 1d ago
-
----
-
-**[Fox Business: The Real Reason Bitcoin, Ethereum, Altcoins are Crashing (big news)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
-
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 3K • 👍 286 • 💬 18 • ⏱️ 11:44 • 50m ago
+👁️ 46K • 👍 2K • 💬 138 • ⏱️ 11:49 • 1d ago
 
 ---
 
@@ -260,37 +260,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 151 • 💬 64 • ⏱️ 41:52 • 1d ago
-
----
-
-**[Joseph Chalom: Ethereum Is Extremely Oversold Here (New Catalysts)](https://www.youtube.com/watch?v=rLd9qCWOAO8)**
-
-Joseph Chalom makes the case that this is one of the best ETH entry points we've seen, why step-function demand from ...
-
-📺 The Rollup
-
-👁️ 5K • 👍 106 • 💬 21 • ⏱️ 5:59 • 1d ago
-
----
-
-**[The New Plan to Make Ethereum Win](https://www.youtube.com/watch?v=9rYyZaO0-EI)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum has a new R&D lab, ...
-
-📺 Bankless
-
-👁️ 9K • 👍 280 • 💬 52 • ⏱️ 1:01:02 • 1d ago
-
----
-
-**[BMNR CANNOT raise money to buy Ethereum! (What happens NEXT?!)](https://www.youtube.com/watch?v=FvqnsKdwgWc)**
-
-BMNR has been trading below a 1x mNAV, making it extremely difficult for them to continue raising money by issuing ...
-
-📺 Elijah Cheng
-
-👁️ 1K • 👍 74 • 💬 18 • ⏱️ 26:46 • 6h ago
+👁️ 5K • 👍 156 • 💬 66 • ⏱️ 41:52 • 1d ago
 
 ---
 
@@ -300,7 +270,7 @@ BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Mark
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 105 • 💬 31 • ⏱️ 29:00 • 5h ago
+👁️ 3K • 👍 135 • 💬 42 • ⏱️ 29:00 • 9h ago
 
 ---
 
@@ -310,7 +280,27 @@ The first generation of crypto treasury companies was all about accumulating dig
 
 📺 Coinage
 
-👁️ 235 • 👍 5 • 💬 21 • ⏱️ 17:46 • 7h ago
+👁️ 762 • 👍 20 • 💬 21 • ⏱️ 17:46 • 11h ago
+
+---
+
+**[Joseph Chalom: Ethereum Is Extremely Oversold Here (New Catalysts)](https://www.youtube.com/watch?v=rLd9qCWOAO8)**
+
+Joseph Chalom makes the case that this is one of the best ETH entry points we've seen, why step-function demand from ...
+
+📺 The Rollup
+
+👁️ 5K • 👍 112 • 💬 21 • ⏱️ 5:59 • 1d ago
+
+---
+
+**[BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ux_u_EKbT78)**
+
+BITCOIN JUST REJECTED: New Signal Flashing Now!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 203 • 💬 319 • ⏱️ 20:44 • 5h ago
 
 ---
 
@@ -320,7 +310,7 @@ Buy, Sell, Trade Crypto: Claim $100 on WEEX (w/ first trade): https://www.weex.c
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 2K • 💬 127 • ⏱️ 9:55 • 2d ago
+👁️ 59K • 👍 2K • 💬 127 • ⏱️ 9:55 • 2d ago
 
 ---
 
@@ -330,7 +320,17 @@ In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ether
 
 📺 HKCM
 
-👁️ 19K • 👍 2K • 💬 90 • ⏱️ 17:42 • 7h ago
+👁️ 23K • 👍 2K • 💬 90 • ⏱️ 17:42 • 11h ago
+
+---
+
+**[The New Plan to Make Ethereum Win](https://www.youtube.com/watch?v=9rYyZaO0-EI)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum has a new R&D lab, ...
+
+📺 Bankless
+
+👁️ 9K • 👍 287 • 💬 52 • ⏱️ 1:01:02 • 1d ago
 
 ---
 
