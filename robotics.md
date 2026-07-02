@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T04:39:56.630598+00:00'
+updated: '2026-07-02T08:11:54.314997+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 04:39 UTC  
+**Last Updated:** July 02, 2026 at 08:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hey guys. A couple months back I asked this sub for some reality checks on using
 
 **[SLAM Camera Depth Test](https://www.reddit.com/r/robotics/comments/1ujhz0o/slam_camera_depth_test/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -108,79 +108,63 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
-
-Robotics maker bets on realism to answer demand for companionship, counseling
+**[China's UBTech launches lifelike humanoid robots for consumers](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ25VZzZzZ1VxSktpM3ZTd1NpTlA4dE5NY1NSbGJYdW1Tc1BCaVJUT3U0VDVFWThVYTlsdHRXQVB3ODNpd2wtOVd3R2QyTzlSS2V6MEhPSERoazBYNjRNOFp6RV9vT04ya2YzckFwbk9vazhqcGtmSHRqWVlEQU5YZVdJcGlMOTVlaW1YZVA1MDdsQThBMmJfX0RpZk1oTnVXZlFwdzJIbFU?oc=5)**
 
 Nikkei Asia • 1d ago
 
 ---
 
-**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
+**[UBTech launches lifelike humanoid robots built for companionship in China](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNW1Fc2stLWE0ejBMOVBxNlhVMjZoR2J0ZHYxemhkbmVVcXl5UktsNXFRMjRaQkc2bC1ONFBxcFBJa3B4VGctbF9jUi1RUmF2WFRPUktwX2tyNUdyaWR5MWhoWUFydUJGMlo4Y2R3UlRybXBWMmxUMGxKUjhYcWZsSmpaX2cyTzRva2RBS2FJNnlfc0ZfWWpOZFJQTVQ5bU1sdldDTFRuanEwVy1FVEs2LUkzd1lqM3RyWXp0MnJtMHZCRzZkbkNEVE9yanhSV2vSAc8BQVVfeXFMTmdRdXBaUzlMOTJOLVJrYVI4UHh3b0VZN0RpSlhVVzBEMWFYRnA3MV9PTERvRF9Ib3FkdFY3aUhhdG9Jcm1iaE9RdmgwOU05NFpmZktUWDFpc1VkNUxwRkZGdjJmRmZISGRvQWlXUlNTb1NUVzhNdjFUQXZXWUN4YWxCczFrLXQydHBxbmJPOC14X3g3Wk9sZWdzaUFIOHRYUEpxZ0NfTElVSXZVMF9BOFA4RTVQUFBUVGwxNzVCVHdjMEg4aXdzZEdYdXBmaDJF?oc=5)**
 
 South China Morning Post • 1d ago
 
 ---
 
-**[Humanoid robots for AI companionship](https://www.straitstimes.com/asia/east-asia/chinese-firm-sells-hyper-real-always-loyal-humanoid-robots)**
+**[Humanoid robots for AI companionship](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTFnaDkwVWJSOE4wRFhQSE9BVC15b01HMldUVEZIQ05HcnhOS3R6SnN0QndJbklCQW5mS2h6X0x5STQtTHUwTnJ5WHJuRWJnelJfcndoSlVqZmlrLVJtWndEb09kTmhyZExfTU9fREQ5bmgzd01ianFPTTNfMm1OMmpLTVZSaWllbTBGNnBBTmxWTnZLUlZpNkJ5WDlySktOSy1qWA?oc=5)**
 
-Discover hyper-real humanoid robots designed for unconditional loyalty and AI-driven companionship, targeting loneliness in China. Read more at straitstimes.com. Read more at straitstimes.com.
-
-The Straits Times • 17h ago
+The Straits Times • 20h ago
 
 ---
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlhQSDQ5cnJhdlY1UnFqNEFTV2plVEtsbFp1Nm5YYzRGSFh0LUJlZTJjbG1uVkZYc2JlaEowTHFDMktSQUFhWHZ5UTVfcDhoekdzbG9aTHY5YXhGaFBDUkJEWk1NWndMMm9naEpyNFVVLS1Ob2ZIaFE4bHIzZGJyYnNkRkNuX2ZTZENFZWFwWUJ6ZFlfR200bEZ4SE9PamEwb05odDJqaTlEbXJzSk1WQnNReXBRZVh4bjZuMHBSMWI2d3YxZU9YWHl3?oc=5)**
 
-MarketWatch • 5h ago
-
----
-
-**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
-
-Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
-
-CNBC • 3h ago
+MarketWatch • 9h ago
 
 ---
 
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://news.google.com/rss/articles/CBMid0FVX3lxTE5nNHB5c2tjeGFhQUxfSmtzb1lsclhQay1CUERvekFDcjNWQk9nS0ZFdU41SS02T3hOVWdRcW9WbUlGMlFaUDZZUGZpV3FlR0VkZ1FnVUc4cnhDU3A5VkEyWUEwRElMWXVOampMSU1GWkVybkRpOXJz?oc=5)**
 
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 11h ago
+Fortune • 15h ago
 
 ---
 
-**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://www.zmescience.com/science/news-science/20-legged-robot-argus-rep/)**
+**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0s5VEVGRjVXR2J1S2h5T2o2WHBqNTliaWtCZ1R1b2ZKaE5qTkhoVG1SSXN6eEI1MTJQamdJMjlLSzVDdGhqVWtIa2lkNl9aUFFyWGpRc1kxaTBfWGFkQmxldjBULVYySnNuZlRNYnFYMG9BbkVlZGR3Q0hyRklqUjVsSUp5eXduYmhPbG95U2pNMmxrZUxPZllGRFdrM1cyVF9rVWc3UWJXaVBQUkZZcdIBtgFBVV95cUxPN3ZDRmE2NUdua1hySjA5WTNJZ0dJMFZEUUNWcnRPV1dwT2dlU3ZpVUphUjc4cHpqbjIyUWROaUlRWklLQ3lXTnpXeXMxVzZEVHZ1RjZGMFNJU1hyTlNicEVGRXNNajZZYVVlYTFCSGp5TVpUSjlCTGV0QmJDMHFrVENvMm9IblFWYlNueXZuN0RBNXZMd2l2UmFNNVBtQ0pxd1ZpMlo0bEhXMW55M0xMOTJPVFhrQQ?oc=5)**
 
-Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
-
-ZME Science • 9h ago
+CNBC • 7h ago
 
 ---
 
-**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
+**[This Weird 20-Legged Robot Moves Like Nothing Else on Earth and It Could Change How We Build Machines](https://news.google.com/rss/articles/CBMif0FVX3lxTE9hdmhmU3JoNTlxel9jSUhudEdTZEQ0VGFySFRWVEZqRWpoelpwcG1QekgyQWJkOGtUdGViMVlGazdKcDJjMkRMeFRwTnJhVkdWYmx2NTdtWFFfZlhVTExodDU1Q1JiVEd3VkZNUHliMVdBLU5uQnJ0MlRfbmYwUUk?oc=5)**
 
-"The way people mount a CCTV camera on a wall, they mounted one on us."
-
-yahoo.com • 14h ago
+ZME Science • 12h ago
 
 ---
 
-**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
+**[Serve Robotics Stock Falls 37% YTD: Should Investors Buy the Dip?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTy1PMldyVUxBV0hyTXRKazlXRGh2NGRxQUxURFhDb1B6TXRvbkw1dWFWMmVLRkFvVnFiazNCZVV1X0dnMHN2cUpFQ1B2MTdRQkJRRWhpMndsZVA5U2twMlZhZGRxclY1LUxXb2RaNk94eWQ1RjBNWmtSUlRmLVpuYUk3R2QzVGxsLTlveGtUQ0tPOE02bjkwUzNR?oc=5)**
 
-Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
+Yahoo Finance • 18h ago
+
+---
+
+**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm15c1ZNcEl1QnM5YTdVajhHbUxFWklrdFNIQW5DbWdETVZQVU9GclVYT2loOFdTU0Fqb0tTMElpdXhrSzB5SVhITUxxUEp0U0dDRDBNdWJEWl9IS2prWW8wQ2ZJUExWd3kzQm42UmJKTEtfQkdtS3lpaEZQY0xzVllRWm5TVkFGVTc3TkI0T3VDR19yYi1lXzAwNlBuR3puUjlVR280a1I2UzBWWWFXWVNXaTJsUEk?oc=5)**
 
 NASA (.gov) • 1d ago
 
 ---
 
-**[Building robotics businesses set to scale](https://www.bvp.com/atlas/seven-lessons-from-founders-building-robotics-businesses-set-to-scale)**
+**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVlZRlFKOERXb0hkNDM3em5VRnBYZHlIZm1ob1Y1TEwxdjhPQS1WMUtuYi1iT1JGYnhnTWtraHNLRU9SaENVMTF0LXpzYnV2bmk4OWxQZlJYR09zQUhLcTFQaWpLd0IyTmg0RWlYWjlTNEdFVEVETHNmLU8zTXFDeHJSc3FJQQ?oc=5)**
 
-Three founders at share lessons from building and deploying robotics businesses set to scale in the real world.
-
-Bessemer Venture Partners • 2d ago
+CNN • 2d ago
 
 ---
 
@@ -188,13 +172,13 @@ Bessemer Venture Partners • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
+**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
 
-📺 South China Morning Post
+📺 Prime Insights
 
-👁️ 30K • 👍 675 • 💬 254 • ⏱️ 3:59 • 1d ago
+👁️ 456K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
 
 ---
 
@@ -204,27 +188,27 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 2K • 👍 163 • 💬 28 • ⏱️ 12:50 • 10h ago
+👁️ 2K • 👍 177 • 💬 29 • ⏱️ 12:50 • 14h ago
 
 ---
 
-**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
-📺 OTOFOOTAGE
+📺 South China Morning Post
 
-👁️ 21K • 👍 173 • 💬 86 • ⏱️ 3:05 • 1d ago
+👁️ 41K • 👍 891 • 💬 339 • ⏱️ 3:59 • 1d ago
 
 ---
 
-**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
 
-Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
 
-📺 Evolving AI
+📺 Got Talent Global
 
-👁️ 6K • 👍 103 • 💬 1 • ⏱️ 10:47 • 3d ago
+👁️ 32K • 👍 431 • 💬 22 • ⏱️ 5:08 • 3d ago
 
 ---
 
@@ -234,7 +218,37 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 95K • 👍 5K • 💬 296 • ⏱️ 23:57 • 4d ago
+👁️ 99K • 👍 5K • 💬 304 • ⏱️ 23:57 • 4d ago
+
+---
+
+**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
+
+Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
+
+📺 Evolving AI
+
+👁️ 6K • 👍 106 • 💬 1 • ⏱️ 10:47 • 3d ago
+
+---
+
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+
+📺 Vanessa Wingårdh
+
+👁️ 95K • 👍 5K • 💬 2K • ⏱️ 13:18 • 3d ago
+
+---
+
+**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
+
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+
+📺 OTOFOOTAGE
+
+👁️ 24K • 👍 186 • 💬 99 • ⏱️ 3:05 • 1d ago
 
 ---
 
@@ -244,17 +258,7 @@ Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark 
 
 📺 The Daily Show
 
-👁️ 170K • 👍 5K • 💬 155 • ⏱️ 28:40 • 2d ago
-
----
-
-**[China&#39;s U1 Fake Humans Shock the World #robot #humanoid #robotics](https://www.youtube.com/watch?v=tGzUTmzzrN8)**
-
-China's latest lifelike humanoid robot is built for slow dancing. Shenzhen-based UBTECH Robotics just launched its U1 line of ...
-
-📺 Kalil 4.0
-
-👁️ 956 • 👍 50 • 💬 8 • ⏱️ 0:56 • 6h ago
+👁️ 172K • 👍 5K • 💬 156 • ⏱️ 28:40 • 2d ago
 
 ---
 
@@ -264,27 +268,7 @@ The UBTECH U1 series robots are not just a demonstration of engineering capabili
 
 📺 История с Зёзом
 
-👁️ 254 • 👍 7 • ⏱️ 4:28 • 14h ago
-
----
-
-**[Rocket Lab Robotics](https://www.youtube.com/watch?v=1RF8EylqISc)**
-
-Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degree of freedom robotic arms, actuators, and ...
-
-📺 Rocket Lab
-
-👁️ 30K • 👍 2K • 💬 96 • ⏱️ 3:09 • 4d ago
-
----
-
-**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
-
-China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
-
-📺 Prime Insights
-
-👁️ 456K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
+👁️ 408 • 👍 8 • ⏱️ 4:28 • 17h ago
 
 ---
 

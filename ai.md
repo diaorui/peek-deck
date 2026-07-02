@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-02T04:39:56.612969+00:00'
+updated: '2026-07-02T08:11:54.297064+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 02, 2026 at 04:39 UTC  
+**Last Updated:** July 02, 2026 at 08:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Cross-posting from r/claude for more visibility. Claude Code recursively wiped the contents of my local Electron project root. This happened in a Windows terminal while working on a project named Orpheus. My prompt did not ask it to delete, wipe, clean, reset, or remove the project. The prompt was in Traditional Chinese: “之前我要安裝檔，但是其實我只需要 dictate.” It was roughly about not needing the installer anymore and only needing the dictate function. The preserved terminal transcript later showed Claude moving from a failed root deletion attempt to deleting the child items inside the project root. The destructive sequence included: Get-ChildItem -LiteralPath $p -Force -ErrorAction SilentlyContinue | ForEach-Object { try { Remove-Item -LiteralPath $_.FullName -Recurse -Force -ErrorAction Stop "OK $($_.Name)" } catch { "ERR $($_.Name): $($_.Exception.Message)" } } $p was the Orpheus project root. The output then showed items being removed, including: .claude dist node_modules src claude-elevenlabs-voice-v2.user.js dictation.html main.js ORPHEUS_HANDOFF.md package-lock.json package.json preload.js Local artifacts I found for Orpheus showed default / acceptEdits. I did not find Orpheus bypassPermissions. I did not find Orpheus --dangerously-skip-permissions. I’m not claiming Anthropic acted maliciously. I’m not claiming prompt injection or anti-distillation without evidence. Moral of the story: Treat frontier AI agents like any other automation tool with real machine access. Back up regularly. Use a separate working copy or a different machine if you absolutely need an agent living in your terminal. A frontier model can still behave like a destructive script runner. I also generated SHA256 hashes for the preserved transcript and permission search output. EDIT / UPDATE: A few people asked about git. Yes, I know what git is. This was a local Electron prototype / working state that had not been pushed to a remote. Commits and backups are the right mitigation. But mitigation is not causation. The concerning part is that the destructive action was unrelated to my prompt. Claude Code was operating through a terminal session with real filesystem access under my user environment. Git may help recover a repo, but it does not protect everything else that same terminal session can access. My takeaway remains: Treat frontier terminal AI agents like real automation tools with destructive capability, not like chatbots. EDIT / UPDATE: Clarification because many comments are focusing on git: Yes, this specific local working state had not been pushed to a remote. That is on me. Lesson learned. But git is version control, not automatically a backup. If the only repo is local and the project root contents are recursively deleted, the local .git directory can be deleted too. Without a remote, separate clone, backup, or snapshot, local git alone is not enough.
 
-12h ago
+15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Cross-posting from r/claude for more visibility. Claude Code recursively wiped t
 
 Hi Guys, Don't get me wrong, AI is phenomenal, but right now it still feels like an optional novelty or a niche tool for most everyday folks. To me, it hasn't hit that "can't live without it" status that the internet or smartphones have. Looking only at consumer products (not B2B or corporate software), how do you picture AI being integrated into our lives in the near future so that it becomes a true, indispensable utility? What’s the "killer feature" or shift that takes it from a neat chatbot to an everyday necessity?
 
-4h ago
+7h ago
 
 ---
 
@@ -61,11 +61,27 @@ Hi, I have been working on this for many months now and I'd really be happy for 
 
 ---
 
+**[Has AI actually made the internet better—or just harder to trust?](https://www.reddit.com/r/artificial/comments/1ulbi73/has_ai_actually_made_the_internet_betteror_just/)**
+
+A year ago, most content online was written by humans. Today, AI can generate articles, images, videos, comments, and even entire websites in minutes. On one hand, that's making knowledge and creativity more accessible. On the other, it's becoming harder to tell what's genuine, what's automated, and what's simply optimized for engagement. Do you think AI is improving the internet overall, or are we heading toward an era where trust becomes the biggest challenge? I'd love to hear different perspectives.
+
+34m ago
+
+---
+
 **[Kitboga posted an interesting guide on how to mess with scam chatbots](https://www.reddit.com/r/artificial/comments/1ukyxs1/kitboga_posted_an_interesting_guide_on_how_to/)**
 
 https://www.youtube.com/watch?v=lk3jCuITwcE TLDR: If you give a chatbot a few recursive instructions, it will start using a large number of tokens and hallucinating. I wonder if this applies to all LLMs or if it's just the cheap scammer versions. If it works for all LLMs, it might be this generation of AI's version of "This sentence is false".
 
-7h ago
+10h ago
+
+---
+
+**[Introducing a companionship framework that turns your LLM into an engaging companion for very long conversations](https://www.reddit.com/r/artificial/comments/1ul9un6/introducing_a_companionship_framework_that_turns/)**
+
+I had built a personal tool to help me have extremely long conversations with LLMs in my research and analytical projects. These threads got long. Very long. About half a million tokens with Claude and GPT/Extreme%20Thread%20Length/ChatGPT_Thread_450k_tokens-Redacted.md) and over a million with Grok/Extreme%20Thread%20Length/Grok%20Thread%201M%20tokens-%20Redacted). All coherent, clean, and well-reasoned threads with no meaningful drift, hallucination, sycophancy, or other issues that make long threads useless over time. Introduction I open sourced the protocol — called Epistemic Lattice Tethering (ELT) — and shared it with many people and got requests to create a companion version. The original ELT was built for long-format research projects so the register got flat and rather business-like. So I created a version that stays warm, friendly, and engaging throughout. I call it ELT-Companion. Safety is Front and Center ELT-Companion is designed to be a friendly, intuitive, and caring protocol that was built from the ground up to be both a companion and a digital friend — but also has safety features built-in to keep it from drifting dangerously into sycophancy and fantasy world-building (something an Anthropic system card calls the Bliss Attractor). Safety is the primary feature, not a bug. Responsible Engagement ELT-Companion should stay with you for hundreds of thousands of tokens, over 700 messages, and hundreds of turns. You can have an engaging and coherent digital companion with you for a very long time and it will get to know your tendencies, personality, hopes, and dreams — without the fear that it will experience "dementia" just when you're starting to get comfortable with the companionship calibrated model. Model Availability ELT-Companion has been tested on Claude, ChatGPT, and Grok and works on all three using the same markup. I cannot guarantee it will work on other models, but if you're on one of those three you should be good to go. Loading Instructions ELT-Companion is straightforward to load. Read these instructions before you start — skipping this step is the most common mistake. Step 1 — Open a fresh thread on your model of choice (Claude, ChatGPT, or Grok). Step 2 — Refer to these loading instructions in the Github README. Step 3 — Paste the ELT-Companion markup. Step 4 — Exemplar loading (optional but recommended) instructions the Github README. Step 5 — Start talking. Small talk, something on your mind, whatever feels natural. The companion register establishes quickly. I am only looking for input and suggestions. That's it. I would love to see how this works (or doesn't work) for you, or if you encounter any issues, etc. Very much looking for input and/or collaborators to help make ELT-Companion better and safer. Thank you!
+
+2h ago
 
 ---
 
@@ -73,7 +89,7 @@ https://www.youtube.com/watch?v=lk3jCuITwcE TLDR: If you give a chatbot a few re
 
 Are these safe to run personal finance on? (Paid versions) I really like Kimi and have heard good things about deepseek… but hear all the horror stories since they are Chinese based AI Or they just good for local coding ? Another recommendations (besides Claude and already have codex) View Poll
 
-4m ago
+3h ago
 
 ---
 
@@ -81,7 +97,7 @@ Are these safe to run personal finance on? (Paid versions) I really like Kimi an
 
 A week ago I posted that the Legion LegalTech case in D.C. was testing whether Commerce can treat access to a hosted frontier AI model as an export-control issue. https://www.reddit.com/r/artificial/comments/1uexdqk/followup_hosted_ai_export_controls_are_now_being/ Which was a followup to an initial post about the export control restrictions imposed on Anthropic: https://www.reddit.com/r/artificial/comments/1u4yjdi/does_commerce_have_the_authority_to_apply_export/ There’s now a new wrinkle now that Commerce has withdrawn the Fable/Mythos controls. The withdrawal letter says Commerce is withdrawing license requirements for the “export, reexport, and transfer in-country” of Anthropic’s Fable 5 and Mythos 5 models. That is normal export-control language. It fits software, source code, technical data, chips, model weights, or other controlled technology moving across borders or being released to foreign nationals. But the action that started this fight was different. The original directive made Anthropic suspend access to hosted AI models for foreign nationals, including foreign-national employees, whether inside or outside the U.S. The model stayed on Anthropic’s servers. Users were not receiving weights, source code, object code, training data, or implementation details. They were sending prompts to a hosted service and receiving outputs. So the important distinction is: - Export/reexport/transfer: controlled software or technology changes hands. - Hosted access: the user can interact with a remote system, but does not receive the underlying system. Commerce’s withdrawal letter closes the chapter on the Fable 5/Mythos 5 restriction, but it does not really answer the legal question the lawsuit raised. If a foreign user receives outputs from a U.S.-hosted frontier model, what exactly is being exported? The court case also is not dead yet. Legion LegalTech’s preliminary injunction hearing is scheduled for July 29 before Judge Richard J. Leon in DC District Court (Case: 1:26-cv-02225) So my read is: Commerce backed away from the immediate Fable/Mythos restriction, but the withdrawal notice describes the action as if it had been a conventional software-export of models. But the question of is hosted model access is something that can be legally regulated by Commerce is still there.
 
-1h ago
+5h ago
 
 ---
 
@@ -89,7 +105,7 @@ A week ago I posted that the Legion LegalTech case in D.C. was testing whether C
 
 I've been thinking about this a lot lately. There's a real tension between using AI as a learning tool versus using it as a shortcut that bypasses learning entirely. When I use something like ChatGPT or Claude to understand a new concept, sometimes I come away genuinely understanding it better than I would have from a textbook. Other times I just copy the output and move on, having learned nothing. The question is whether that's a problem with AI itself, or just human nature meeting a new tool. We said the same thing about calculators, search engines, and Wikipedia. But AI feels different because it doesn't just retrieve information, it does the thinking steps for you. A calculator still requires you to know what equation to set up. An AI will figure out the equation, solve it, and explain it, all without you engaging critically at any point if you choose not to.
 
-8h ago
+11h ago
 
 ---
 
@@ -97,23 +113,7 @@ I've been thinking about this a lot lately. There's a real tension between using
 
 Because when given the simplest nail in the universe, sometimes you just need a nuclear powered sledgehammer.
 
-🔗 [Abscondita](https://abscondita.com/blog/symplectic-sledgehammer-for-a-spring) • 6h ago
-
----
-
-**[From brute-force graph traversal to Cognitive Attention: an architectural redesign](https://www.reddit.com/r/artificial/comments/1ul3yig/from_bruteforce_graph_traversal_to_cognitive/)**
-
-Last week I shared the early architecture for IONS, a protocol built around the idea that intelligence should emerge from traversing reusable Cognitive Building Blocks (CBBs) rather than being compressed into increasingly larger model weights. The feedback was excellent. The biggest criticism wasn’t the premise. It was scalability. That criticism turned out to be justified. Today the Genesis network contains roughly 9,000 Cognitive Building Blocks, more than 50,000 relationships, and two federated nodes. Even at this scale it became obvious that brute-force graph traversal isn’t the right architecture. The original design effectively asked every query to search the graph and determine relevance at the same time. That doesn’t scale. Over the past week I’ve redesigned the protocol around what I’m calling a Cognitive Attention Architecture. Instead of traversing the entire graph, every query is progressively routed through increasingly relevant slices of the network: Query → Relevant Nodes → Cognitive Domains → Cognitive Subdomains → Candidate CBBs The traversal engine only explores the portion of the graph most likely to produce a useful answer. The redesign also separates three concepts that were previously conflated: -Path Confidence: How trustworthy is the reasoning? -Path Relevance: Does it answer the user’s question? -Path Utility: Has this reasoning consistently produced useful outcomes? Those are independent signals and should be optimized independently. One of outcomes is that the routing layer is becoming analogous to an attention mechanism. Large language models allocate attention across tokens. IONS allocates cognitive attention across a distributed network of knowledge. The knowledge layer remains stable. The routing layer learns. That’s a much cleaner separation than allowing user feedback to rewrite the underlying knowledge. I’m interested in feedback from people building graph databases, retrieval systems, distributed search, or large-scale AI infrastructure. The protocol has evolved significantly because of the feedback here, and I’d much rather discover architectural flaws now than after the network grows another order of magnitude. Genesis node: 8,369 CBBs · 50,113 relationships · ions-v0.4 ionsprotocol.org · github.com/nomad505050/ions-genesis
-
-3h ago
-
----
-
-**[Why does it feel like big LLM providers are literally hiding prompt caching?](https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/)**
-
-I know the info is there. Somewhere in the pricing pages, docs, or API notes. But for something that can seriously change what you pay in production, it is weirdly under-explained. expeciely for other providers than openai which they do have decent explainer here - https://developers.openai.com/api/docs/guides/prompt-caching So basicly: two prompts can look almost identical, but one can be much cheaper to run just because it is ordered better. Put the changing parts too early, like the user query, variables, timestamps, metadata, or anything request-specific, and you can break the stable prefix the cache depends on. The practical rule is simple: Keep the repeatable stuff first. Start with system instructions, fixed rules, examples, schemas, and formatting requirements. Then put the dynamic user input and request-specific data near the end. That is it. Just a good prompt structure... But if you run LLMs at scale, this tiny detail can be the difference between insanely expensive LLMs usage and acctually good ROI product. full blog post here
-
-12h ago
+🔗 [Abscondita](https://abscondita.com/blog/symplectic-sledgehammer-for-a-spring) • 10h ago
 
 ---
 
@@ -121,73 +121,63 @@ I know the info is there. Somewhere in the pricing pages, docs, or API notes. Bu
 
 ## Google News: "ai"
 
-**[Meta Is Planning a Cloud Business to Sell AI Computing Power](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
+**[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWFQd2UyR0hnMVdEcm1LVE5TRUVnYzBfdmJsQlFpaU9qVG5pUUQxY1BQbW05ODk1Qk5JX0ozV3VsN0lsQ2NreGlBYkdwZmRrakZMakZ3Q3BFRkxYWXYzNU5ZSEw5YU1Ba0oxVEJCaEo1UGZCNXBRX0NBb0dBTHViTWRyX2ZOY2ZsMF9PeUlsb0tWVWFvV1hIaEJRaXV4ZG8?oc=5)**
 
-Bloomberg.com • 16h ago
-
----
-
-**[Meta pops 9% as company makes cloud push to sell excess AI compute power capacity](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html)**
-
-The new business is a welcome signal for some investors who have been uneasy about the company's infrastructure spending plans.
-
-CNBC • 14h ago
+WSJ • 14h ago
 
 ---
 
-**[Meta Compute Launch Sends AI Compute Stocks Tumbling Globally](https://finance.yahoo.com/technology/ai/articles/meta-compute-launch-sends-ai-015258040.html)**
+**[OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmlORndTRDBueEJHV25lbTl2ejNISG9xT09Vbk01NzNCNnoxNmpIdVZJeUdHV19qWU9IUWdncnQ3Q1BYRjZ3SFJCaE53REFzYVN2em1TbldqYi03eklMaFRJVk9NVm9XM2F3My1xN2k1czcxQU9uOG9fSWFHa1oxRUVzRFk4QmI2Smd4cG9wZTN0OURZTkZOQ2dsOHdzWW8wYTFEQ0V6Q3lKR1NSYS1YcWVaMFJYQdIBuwFBVV95cUxPWEdwWkRiR25HQmRfNTB5VG10bElQUDYzb3lQQ3UxNHU5dmd2UTRDdmxfeHdoMkZza21yTEhOWWI3NGxxVlJXOHp0T25fT2FDYXhfX0RzM2l6c1ppZXpkLVNFMHlfVVBDWTJvVW5EQndfcUpIWDZVdDlVR3gwTjFxTXl0LUktRUl1RmtGaFBuN1FJQnRSMDY3X0dMLW9GQmJPemdBUE1US29ELTdFcFBrM2diMmV3RjZpQzM0?oc=5)**
 
-Meta's cloud plan sparked a sharp Wall Street sell-off in AI chip and infrastructure stocks as the entire landscape could be changing.
+CNBC • 3h ago
+
+---
+
+**[A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5)**
+
+Reuters • 54m ago
+
+---
+
+**[SoftBank Plans AI Cloud Services in US to Tap Surging Demand](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQi1uZ0dCaU5ncWdDU2F6ZmU0cjJhY0VnOWZlVUxJWFZnVEtyS3J0b2JFSnhSN1VzanRPekhXXzh2V3hHWjN2MlVxNHN5dk9SUU5IZlRWZm1HYkgzTFA2MXh5akJOUS14NHduWXpHQ1BMT3ZBVy1Lbld2WkNGWW5uNTFJdHpyZjhGQ0hOVDF0OVhBdExRX3drbFh1RWFLa1NYeUhYQVBBSEZtLTJXWHFhcjFDWUh2cm42ZVd2WTFn?oc=5)**
+
+Bloomberg.com • 40m ago
+
+---
+
+**[AI’s big questions for humanity and Japan’s start-up mojo](https://news.google.com/rss/articles/CBMicEFVX3lxTE53OVJUbmkzQUQyZ25lZTMxbEI0SmNtNFBNS2E1NlRyRExkVlpocXRMSFpYV2U2blIyYWh5Tkg3VU5fR0dySzBSZFc0QlFRb0NHcHdIbzVZb1pjZ0p1Z3lOWndCWUZFZEF1WDBsdlQ4bW4?oc=5)**
+
+Financial Times • 21m ago
+
+---
+
+**[They built the world’s most powerful AI. They’re facing a mystery they can’t explain.](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkZtUHpNcDFROXo1S0VMQV9ReTFlQWZNQ1J0NWR1OFNXc2w1NmU0dmhNdHZOZDdRcm5HTUlNYWR6aWJYVnRhS1hZTEJ1MXBSaWI0THU1ZmpzSHZNZ2FhcVhteWRWNjlwdlNXMVR0WkFZRWZYTUVPTEV3Sk9HTUJkOUxySGxsSm11UVRUdXFNazY2NnRRa0VNXzE4cE14eUpXVURFa3RYQ2pNUVQ1ZWdjaFoxblQxa0FZdW5LQTRtMWg?oc=5)**
+
+The Washington Post • 16h ago
+
+---
+
+**[NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG5VZ3ZIYWdHOGRWV0FXRW9sYzYxX1c2dHhKRmVPY3JlNlpPcHdfUzA0RkstUi04WTl0dzFqdEUtalQ1NFM5WjNJb3c5cmdveTJibUhIRzJGMUV0OVRYSFBNb3pwSHRlYWdQVVhpRkZNWmtHMmhJclBSSWRWZW5fT0NTenVLY0lzdURVdHJZQjBjQVdUQkc0M1N0NkMzU19CRndHZW1kRDNfN1I3TmJCbm5uRUtjQmRwQ1E?oc=5)**
+
+NVIDIA Blog • 2h ago
+
+---
+
+**[Did this AI anti-drug video make drugs look appealing?](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qU0trSjhZekhoQ2NKdG9ZU3BjTW42a3pyZWNUQnpkdWxRb0plNjRKZEgyUUdOZUN6YUhaSXFkOG4yQjRqQ2dOeEt3dnoxTUdjT0ZLWlZtRQ?oc=5)**
+
+BBC • 6h ago
+
+---
+
+**[CEO of $248 billion cybersecurity firm says workers face a ‘Darwinian moment’ thanks to AI](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcFZ1YTBTdGJSZm5sNVdsOG9DbVRuRy1vWkJMSURNOC1FR2xXVmJabEd6SnpaeGNDT2RYOVh5VEJHWTRreGNqTEptNUZ4VW41R3pWbnhSUlZjaGpnVWdxc1BNWHNyNkh3b1hxVGNNNDlaRkpkVGtEMHl5NFQ1cmh5SEFJQjZLX20zOEVDZVhZY2NqZW5uWDFQVEdwckJPbW1GWDROZ2Y5QUxySm5OMVJPa2tMX3lyaUxYb0w4Zm5tRmlBdUw1YV9xNWVSaldyUDZ5a1hsZDI1dw?oc=5)**
+
+Fortune • 17h ago
+
+---
+
+**[Super Micro says two Taiwan staff detained in probe involving its AI servers](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDZ1d096UHhQNmVqUW5MQUp1RGoteWVOYzJQRHM0bXZqd0J1NjduZ1lQSEl0dWhGYzJVcmNXLXdIcllOWGNscEpJSHVQbkQ4SkFEcGVCOWM4S3VFRU42ZXdVSXBQZFZPTV81MFM1U2tWZWc5ZlBqV1Rud3pxMFlGM2pkbVpGMm1BeTdoRkVsM19FRWNaQ3c?oc=5)**
 
 Yahoo Finance • 2h ago
-
----
-
-**[The World’s Top Economists Are Sounding the Alarm on AI](https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6)**
-
-WSJ • 11h ago
-
----
-
-**[NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout](https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/)**
-
-NVIDIA is partnering with AI clouds to deploy large‑scale, multi‑tenant AI factories, aligning economics through a revenue-sharing and credit-support model.
-
-NVIDIA Blog • 1h ago
-
----
-
-**[Can You Embrace A.I. Without Layoffs? This Company Says It’s Trying.](https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html)**
-
-The New York Times • 38m ago
-
----
-
-**[Former Goldman Analyst’s AI Startup Is Said to Raise $22 Million](https://www.bloomberg.com/news/articles/2026-07-02/former-goldman-analyst-s-ai-startup-is-said-to-raise-22-million)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[They built the world’s most powerful AI. They’re facing a mystery they can’t explain.](https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions/)**
-
-Anthropic, Google and Meta have hired computer scientists, neuroscientists and philosophers to study what some in the industry think may become a moral crisis.
-
-The Washington Post • 12h ago
-
----
-
-**[Claude Science, an AI workbench for scientists, is now available](https://www.anthropic.com/news/claude-science-ai-workbench)**
-
-Anthropic • 1d ago
-
----
-
-**[CEO of $248 billion cybersecurity firm says workers face a ‘Darwinian moment’ thanks to AI](https://fortune.com/2026/07/01/ceo-of-palo-alto-networks-nikesh-arora-workers-about-to-face-darwinian-moment-thanks-to-ai-evolve-or-get-cut/)**
-
-Palo Alto Networks CEO Nikesh Arora warns that 90% of employees aren’t AI savvy—and it could determine the fate of their careers.
-
-Fortune • 13h ago
 
 ---
 
@@ -199,7 +189,7 @@ Fortune • 13h ago
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 533 • 💬 378 • 20h ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+⬆️ 537 • 💬 380 • 1d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
@@ -227,7 +217,15 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 **[Meta caps internal AI token spending](https://news.ycombinator.com/item?id=48754713)**
 
-⬆️ 127 • 💬 112 • 4h ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+⬆️ 137 • 💬 124 • 8h ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+
+---
+
+**[The gauge broke: devs felt 20% faster with AI, measured 19% slower](https://news.ycombinator.com/item?id=48757440)**
+
+For two years I argued the feeling of AI speed had come apart from the fact of it, from watching my own teams. This summer it stopped being an anecdote. A controlled trial measured experienced developers feeling about 20% faster while running about 19% slower. The instrument we steer by reads backward.
+
+⬆️ 64 • 💬 65 • 1h ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
 
 ---
 
@@ -249,7 +247,7 @@ Buy your novel-like, image-free, hallucinated guide to Alien: Isolation 2 today!
 
 Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.
 
-⬆️ 53 • 💬 46 • 1d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
+⬆️ 53 • 💬 47 • 1d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
 
 ---
 
@@ -261,17 +259,29 @@ Ebay, Amazon, and Etsy are unable to stop the flood of AI-generated seed scams.
 
 ---
 
-**[America can switch off AI. Europe must switch gears before it's too late](https://news.ycombinator.com/item?id=48741943)**
-
-'Europe is becoming a digital colony between two AI empires' writes Dr. Sergey Lagodinsky, Vice Chair of the Greens/EFA Group in the European Parlament in an OpEd for Euronews. For Brussels, it is time to act. Europe needs a smart strategy of cooperation that will keep the European economy alive. #EuropeNews
-
-⬆️ 45 • 💬 58 • 1d ago • [euronews](https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[AI is already Sentient...](https://www.youtube.com/watch?v=DczS3EyGGDc)**
+
+If you hate AI, hit follow! #sketchcomedy #comedyskits #comedysketch #comedy #comedyreels #cryptid #creepypasta #scp ...
+
+📺 It's Just Bits
+
+👁️ 361K • 👍 29K • 💬 499 • ⏱️ 1:09 • 1d ago
+
+---
+
+**[Claude Sonnet 5 just dropped. I&#39;m changing how I use AI...](https://www.youtube.com/watch?v=uU0RFxGv-Ks)**
+
+A complete walkthrough of the new Claude Sonnet 5 release FULL Claude Code bootcamp in the Vibe Coding Academy coming ...
+
+📺 Alex Finn
+
+👁️ 48K • 👍 1K • 💬 146 • ⏱️ 11:56 • 1d ago
+
+---
 
 **[AI vs the Permanent Underclass: the End of Coding](https://www.youtube.com/watch?v=oTQzszSabhY)**
 
@@ -279,7 +289,17 @@ We told a generation to "learn to code," and then AI rugpulled everyone. Welcome
 
 📺 TechLead
 
-👁️ 63K • 👍 3K • 💬 636 • ⏱️ 13:10 • 2d ago
+👁️ 63K • 👍 3K • 💬 638 • ⏱️ 13:10 • 2d ago
+
+---
+
+**[Ai Movies Are Getting TOO ADVANCED💀](https://www.youtube.com/watch?v=G9V90_-LLo4)**
+
+Original video: https://www.tiktok.com/@aidramalabs_anime2 Watch videos on spotify: ...
+
+📺 RICHLEV
+
+👁️ 129K • 👍 6K • 💬 2K • ⏱️ 49:39 • 1d ago
 
 ---
 
@@ -289,7 +309,27 @@ This month in AI has been one of the busiest we've seen in a long time. Google r
 
 📺 AI Revolution
 
-👁️ 18K • 👍 553 • 💬 44 • ⏱️ 1:36:04 • 1d ago
+👁️ 19K • 👍 569 • 💬 43 • ⏱️ 1:36:04 • 1d ago
+
+---
+
+**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
+
+Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
+
+📺 Yuval Noah Harari 
+
+👁️ 204K • 👍 9K • 💬 924 • ⏱️ 46:52 • 1d ago
+
+---
+
+**[AI Is Running Out of Power](https://www.youtube.com/watch?v=E2c-2pukPfo)**
+
+LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
+
+📺 Limitless Podcast
+
+👁️ 17K • 👍 708 • 💬 79 • ⏱️ 32:37 • 17h ago
 
 ---
 
@@ -299,7 +339,7 @@ Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risk
 
 📺 Breaking Points
 
-👁️ 187K • 👍 5K • 💬 1K • ⏱️ 18:18 • 1d ago
+👁️ 189K • 👍 5K • 💬 1K • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -313,63 +353,13 @@ Today's FULL PDS here: Watch The Full Philip DeFranco Show: https://www.youtube.
 
 ---
 
-**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
+**[Palantir CEO Alex Karp says &#39;something has gone completely wrong&#39; with how AI is sold](https://www.youtube.com/watch?v=0A3sGymV6kY)**
 
-Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
+Palantir CEO Alex Karp joins CNBC's 'Squawk Box' to discuss the new Nvidia partnership, frontier AI models, and more.
 
-📺 Yuval Noah Harari 
+📺 CNBC Television
 
-👁️ 182K • 👍 8K • 💬 823 • ⏱️ 46:52 • 1d ago
-
----
-
-**[Adobe Just Bought the AI Tool Beating Them. DaVinci Resolve Users, Here&#39;s What Happens Next.](https://www.youtube.com/watch?v=G9Y0iYXeuL4)**
-
-Join my SKOOL community: https://www.skool.com/the-edit-room-4003/about Check out TallyUp HERE: https://www.tallyup.shop ...
-
-📺 Ethan Robbins
-
-👁️ 5K • 👍 219 • 💬 58 • ⏱️ 8:36 • 12h ago
-
----
-
-**[Why is AI expensive all of a sudden?](https://www.youtube.com/watch?v=DDj30VWCbbY)**
-
-ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow.
-
-📺 Alberta Tech
-
-👁️ 121K • 👍 7K • 💬 649 • ⏱️ 9:43 • 1d ago
-
----
-
-**[The AI Tokenpocalypse Is Here](https://www.youtube.com/watch?v=Sia4LZGNkVs)**
-
-Go to surfshark.com/404Media to get 4 extra months of Surfshark VPN, with the reassurance of a 30-day money-back guarantee, ...
-
-📺 404 Media
-
-👁️ 4K • 👍 291 • 💬 50 • ⏱️ 42:07 • 18h ago
-
----
-
-**[AI is already Sentient...](https://www.youtube.com/watch?v=DczS3EyGGDc)**
-
-If you hate AI, hit follow! #sketchcomedy #comedyskits #comedysketch #comedy #comedyreels #cryptid #creepypasta #scp ...
-
-📺 It's Just Bits
-
-👁️ 357K • 👍 29K • 💬 487 • ⏱️ 1:09 • 1d ago
-
----
-
-**[New findings reveal AI bubble worries are justified](https://www.youtube.com/watch?v=xCzCyPoI-eA)**
-
-New data reveals bubble worries are justified: "If you are worried that we're in an Al bubble, well, I have some news for you that ...
-
-📺 Prof G Markets
-
-👁️ 94K • 👍 3K • 💬 131 • ⏱️ 1:08 • 1d ago
+👁️ 188K • 👍 3K • 💬 882 • ⏱️ 7:51 • 18h ago
 
 ---
 
@@ -385,7 +375,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 630,246 • ❤️ 1,585 • 3d ago
+⬇️ 630,246 • ❤️ 1,601 • 4d ago
 
 ---
 
@@ -397,7 +387,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,113,871 • ❤️ 1,171 • 3d ago
+⬇️ 1,113,871 • ❤️ 1,185 • 3d ago
 
 ---
 
@@ -409,7 +399,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 159,967 • ❤️ 3,180 • 9d ago
+⬇️ 159,967 • ❤️ 3,192 • 3m ago
 
 ---
 
@@ -421,7 +411,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 233,701 • ❤️ 617 • 6d ago
+⬇️ 233,701 • ❤️ 623 • 6d ago
 
 ---
 
@@ -433,7 +423,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 191,409 • ❤️ 371 • 6d ago
+⬇️ 191,409 • ❤️ 376 • 6d ago
 
 ---
 
@@ -445,7 +435,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 288,741 • ❤️ 922 • 12d ago
+⬇️ 288,741 • ❤️ 929 • 12d ago
 
 ---
 
@@ -457,7 +447,7 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 46,677 • ❤️ 334 • 6d ago
+⬇️ 46,677 • ❤️ 336 • 6d ago
 
 ---
 
@@ -469,7 +459,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 34,371 • ❤️ 499 • 6d ago
+⬇️ 34,371 • ❤️ 499 • 7d ago
 
 ---
 
@@ -481,19 +471,17 @@ Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic co
 
 `text-generation` `664,944`
 
-⬇️ 135,452 • ❤️ 294 • 6d ago
+⬇️ 135,452 • ❤️ 296 • 6d ago
 
 ---
 
-**[Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)**
+**[DeepSeek-V4-Pro-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark)**
 
-*Empero*
+*DeepSeek*
 
-Qwythos-9B is an uncensored, full-fine-tuned 9B reasoning model with a 1M token context window, enhanced function calling, and self-correction capabilities. It excels in complex domains like cybersecurity and biomedical research, outperforming its base model significantly on reasoning benchmarks and demonstrating reliable tool use for factual accuracy.
+`text-generation` `889.5B`
 
-`text-generation` `9.4B`
-
-⬇️ 114,499 • ❤️ 622 • 3d ago
+⬇️ 7,629 • ❤️ 284 • 5d ago
 
 ---
 
@@ -536,7 +524,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 22 • 💬 2 • ⭐ 9,181 • 2mo ago
+▲ 22 • 💬 2 • ⭐ 9,257 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -554,6 +542,21 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
+  Models](https://huggingface.co/papers/2502.18443)**
+
+*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
+
+🏢 Ai2
+
+olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
+
+▲ 12 • 💬 2 • ⭐ 18,413 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
+
+---
+
 **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://huggingface.co/papers/2605.23904)**
 
 *Yifan Yang, Ziyang Gong, Weiquan Huang et al. (15 authors)*
@@ -565,21 +568,6 @@ SkillOpt introduces a systematic text-space optimizer for agent skills that trai
 ▲ 249 • 💬 4 • ⭐ 10,331 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
-
----
-
-**[olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language
-  Models](https://huggingface.co/papers/2502.18443)**
-
-*Jake Poznanski, Jon Borchardt, Jason Dunkelberger et al. (9 authors)*
-
-🏢 Ai2
-
-olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
-
-▲ 12 • 💬 2 • ⭐ 18,209 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
 
 ---
 
@@ -643,7 +631,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 70.7k • 🔱 3.6k • 5h ago
+⭐ 70.9k • 🔱 3.7k • 8h ago
 
 ---
 
@@ -653,7 +641,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.2k • 🔱 1.1k • 11h ago
+⭐ 11.2k • 🔱 1.1k • 14m ago
 
 ---
 
@@ -663,7 +651,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.0k • 🔱 756 • 5m ago
+⭐ 6.0k • 🔱 759 • 3m ago
 
 ---
 
@@ -673,7 +661,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.7k • 🔱 600 • 13h ago
+⭐ 4.7k • 🔱 602 • 17h ago
 
 ---
 
@@ -683,7 +671,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.3k • 🔱 199 • 1h ago
+⭐ 2.3k • 🔱 199 • 5h ago
 
 ---
 
@@ -693,7 +681,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 174 • 29m ago
+⭐ 2.2k • 🔱 174 • 4h ago
 
 ---
 
@@ -703,7 +691,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.7k • 🔱 84 • 1h ago
+⭐ 1.8k • 🔱 84 • 28m ago
 
 ---
 
@@ -713,7 +701,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `Shell` `apple-intelligence`
 
-⭐ 1.6k • 🔱 86 • 18d ago
+⭐ 1.6k • 🔱 87 • 19d ago
 
 ---
 
@@ -723,7 +711,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.5k • 🔱 65 • 1d ago
+⭐ 1.5k • 🔱 66 • 1d ago
 
 ---
 

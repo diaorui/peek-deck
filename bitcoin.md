@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-02T04:39:56.621447+00:00'
+updated: '2026-07-02T08:11:54.305643+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 04:39 UTC  
+**Last Updated:** July 02, 2026 at 08:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $60,923.10
+### $60,552.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +1.2%  
-**30d:** -5.2%  
-**90d:** -9.7%  
-**1y:** -44.5%  
+**24h:** +2.3%  
+**7d:** +0.4%  
+**30d:** -6.0%  
+**90d:** -10.4%  
+**1y:** -45.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1216.82B
+**Market Cap:** $1208.32B
 Rank #1
 
-**Circulating Supply:** 20,050,925 BTC
+**Circulating Supply:** 20,050,975 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--51.9%
+-52.2%
 
 **All-Time Low:** $67.81
-+89394.2%
++88770.4%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Sovereign-level accumulation is no longer a theory. It is happening right now. They're buying bitcoin not because they love it. They're accumulating because they're scared of not owning any. All of them against a hard cap of 21,000,000 coins. They know that the countries buying first, win the most.
 
-12h ago
+16h ago
 
 ---
 
 **[Feeling the Signal Bottom is in....](https://www.reddit.com/r/Bitcoin/comments/1ukpbvp/feeling_the_signal_bottom_is_in/)**
 
-12h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ Sovereign-level accumulation is no longer a theory. It is happening right now. T
 
 Stack sats amd stay humble, bitcoin will rise from the hashes eventually.
 
-12h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 **[Where we're at...](https://www.reddit.com/r/Bitcoin/comments/1uktn8v/where_were_at/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 I don't see the BTC bear cycle as complete, so I won't be fooled by a potential relief rally, but the market loves to send regrets to bottom sellers and "sure-footed" short positions. --- Wall Street Bets Against Bitcoin As Price Nears Two-Year Low Bets against Bitcoin are piling up on Wall Street as the cryptocurrency’s price sinks near a two-year low. Options traded on the iShares Bitcoin Trust ETF IBIT, the largest BTC exchange-traded fund, totaled 1.1 million contracts on June 25, double the average of the past 30 days. Put options more than doubled call options as traders on Wall Street continue to bet that Bitcoin’s price has further to fall. Traders are also betting that the leading Bitcoin ETF will decline another 10% by July 31. https://www.tradingview.com/news/cryptoprowl:d4dfc5a2a094b:0-wall-street-bets-against-bitcoin-as-price-nears-two-year-low/
 
-13h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ I don't see the BTC bear cycle as complete, so I won't be fooled by a potential 
 
 guys fr, we are so lucky that bitcoin is still so fcking low. Thanks god i am alive
 
-19h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ guys fr, we are so lucky that bitcoin is still so fcking low. Thanks god i am al
 
 Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Three models built on completely different logic, the halving cycle timing, the Mayer Multiple, and a power-law regression, overlap on the same bottom: roughly $45K to $55K in a Sep to Dec 2026 window. By this read it's cheap but not the cheapest, with 2 of 4 bottom signals lit.
 
-🔗 [X (formerly Twitter)](https://x.com/kognosia/status/2072334860484804822) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/kognosia/status/2072334860484804822) • 10h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Thr
 
 Monthly candle just closed and it's about as ugly as it gets. A near-perfect marubozu: solid red body, basically no wicks, meaning sellers were in control from open to close with zero real pushback the entire month. Worst monthly performance since June 2022. If you know how to read a chart, you know this isn't a buy the dip candle. This is the kind of candle that shows up right before things get worse, not better. And here's the part I'm not proud of: I know what this pattern usually means. I've seen this movie before. Every technical bone in my body is saying more pain is coming before this is over. But my conviction in the Bitcoin project hasn't moved, not even a little. I haven't touched my stack, and i'm not planning to, and if I'm honest with myself, I don't think a candle , even one this bad, is going to change that. So now I'm stuck in this weird spot between what the chart is screaming at me and what I actually believe about why I'm here in the first place. Fear says protect yourself, but conviction says you already know how this story goes long-term. So, i´m not looking for someone to tell me I'm right or wrong. Just figured I'm probably not the only one caught in that same split right now, trusting the chart and refusing to act on it at the same time.
 
-16h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ Monthly candle just closed and it's about as ugly as it gets. A near-perfect mar
 
 Plenty of you, if not the majority have been here for 5+ years, can we just cut the negativity? It's not like similar shit has happened in the past, and after this is over it'll happen again in the future. I know it's painful for most including myself, but these apocalypse doom shit posts every day are becoming ridiculous. Have some faith like you did in the past, bad times aren't forever.
 
-14h ago
+18h ago
 
 ---
 
@@ -157,79 +157,63 @@ Plenty of you, if not the majority have been here for 5+ years, can we just cut 
 
 ## Google News: "bitcoin"
 
-**[Strategy Abandons ‘Never Sell Bitcoin’ Mantra in Bid to Outlast Crypto Winter](https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f)**
+**[Bitcoin posts worst month since June 2022 as one strategist says token could drop to $40,000](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdUtlNzJNVmVlQUhXSTZwaDdMUjNLSDI1UERWTVF6TUlvWUxheUJDNGVCTDEzTGxQOHFzaEZwSGNzTks0SEZaSllNVWhpMC1rWWVEVFlRRlVvVFFnWnVKTFFpVkplcjVKSDNaMHRyYWFzRElqQUVtRGp6d3dybjVxak5MUGwwUS1JMVdYN1lFZzB2RUJrOWZ3RmxYLWZsNnhEa2pPY1NhcktGRFZGY1hPSkdoSTRia29TU0E1NnZZNUVfUHY4M3FuSUp6ZFlQS2hmRmxRRWU0Sm5kRVIzRGNycXJKellZRi1FU2c?oc=5)**
 
-Left with few good options, Michael Saylor’s company “kicked the can down the road” with plans for stock buybacks and bitcoin sales.
+Yahoo Finance • 23h ago
+
+---
+
+**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://news.google.com/rss/articles/CBMingFBVV95cUxQemw3VFFKYVVTVjdwOFlLWTk0VGJIQVRRU2hPU0NZUEt0am4tUG1jeDNLbWJ5aGVYOWZzVjk5cEZVam9jdEZYSWxjWWF3cjE1Z1JnU2JHNUhCbmhoUWJQazg1VTdINFU1dEJ6RlVnSTdDc3dveTluVWpRMGd0MXFsNG9yZFVhWTdESWF5S19rbHd1N1BnRXhnWXEyT0dBUQ?oc=5)**
+
+Fortune • 11h ago
+
+---
+
+**[Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTFLdmt5SVkyWVp0bEp3OTRtUFNuZDRCR01mYlJ5MFJuR09jTGNFcl9zcVhOT1NueFpoWXdLWjZFV0tVMko5LWxWV2EwY1l3SkFWb3I5X2s2eGFsZVBSVVRub3BwVW5ZWmFwbjB6eHFqR3JTa0hBN1Nsajl5NVZWcnRoNF9aUm5FdzBXMmYxdFNIYnptbFQ3c3Y3SlZmbU91?oc=5)**
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Trump Reveals More Than $100 Million In Bitcoin Investments](https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2o0aVN3N0tmbWFHdGQ3Qlh0cmFSVVJyazJPWU9ZWnRON1paQ0ZMOWZfeE4yRXVpVXBvNkR1eE1kb2lDbzlFRXZBUjJzQUtFNHQ3UlV2bS1nSnp5MTNKcXFvOWVnVTRqT05Kc0lyQndmNG5jS3ItUGdwaE1JYTJVQ2RpS2EtMmIxVzJraWVlZnlBWnNYMlJKODNaQlNsUU1NTVVLR2N1VlhEaDE5Z1dFTEZR?oc=5)**
+
+Forbes • 1d ago
+
+---
+
+**[Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFN0d3ZLUWNvNVBDMksxeUFNTzVLTUNZWEx5N0RpMDJoWTlWQnp1S0JTZXdEUUhXc245Y1BtWkFTaU1GN241YTJWX0JIeklNT2pRQlVlX2x5OVZJZWF4NGVvR0xOOHV5Zkt0cVJIcUtHSi16a1RwdG0wSmxmNUJ2VjN5aUozOG4xU2owOFVMUnhLRWdIZUNzUXc5a3hSWF9DN0hEdDJ0aEtJNTYzTkFrWnRTM2luZmxMMVQyQnRvZ0hpUXJHR1BR?oc=5)**
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin long-term holders have returned to accumulation, Glassnode says](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlJ5WjdUS2syYnZLSUF1bDFEakl2WEZLVUlfYThiN3pDZThxV1otU0FQZlg2dnpuZUt1c1JpUDM1b1pTdjA0c0FzZzdPQXl6OU9nNk82MkthZG03UXFSUDZIUEtFYzFpbG1RU1U5UzRHaG1GTlE5alQxekgzektmR0dhd005eElWaVpyUzR2aWI4cW1vYnU1dWhycHh5cFFl?oc=5)**
+
+CoinDesk • 1h ago
+
+---
+
+**[Strategy Abandons ‘Never Sell Bitcoin’ Mantra in Bid to Outlast Crypto Winter](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2QyTjhHd1FhMzVmVFpQXzVzb3Bndk9EN2QwaVZVTlBrNWdMNWZfVnNMVWt5R21VbUtWeDluaVRPdm8yalVueTB4bFBuV0l5S1FxVkFoVGVkREt5ZGl2bC1zZDdJdVBaSmhyb2RFQXpXWWJxUG55UHhibFRIdUdTbHhuQmtJeWx2cURGRVUxek1SajhZSHI1a3JTX2Q4ekt0NE1DQmNjc2pIeDdmbEZ4aTV6bk9xSW1VbGdvNHlpU0c?oc=5)**
 
 WSJ • 2d ago
 
 ---
 
-**[Cantor says crypto market near bottom as bitcoin (BTC) cycle points to October low](https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch)**
+**[Bitcoin Slides Below $60,000 as Strategy Selloff Refuels Anxiety](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEdkcWRHQ2NCdVBfRF9DRFhkc1pFMnVRbjExc0xHc1ViY194ZGpkZXdxUXZpYlY0clAzNGlzWFJpdXh5SDk1RmRLNWRqdUxnNkFBeXF3WHZYR2tGeG9HdjJXUnBiYnhFNXdrczVFcUNDbkJiSDhDUFZRZ3ZIWmRHM1ZRN3R2eE16d0lLenowaW95Tkxtd1dFQkhCbG84R1hJcUpHM2JfN183QWJkV0RQcUJCZW4?oc=5)**
 
-The bank said in a note bitcoin's cycle points to a market bottom in the coming months, urging investors to focus on networks with durable value accrual.
-
-CoinDesk • 13h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin posts worst month since June 2022 as one strategist says token could drop to $40,000](https://finance.yahoo.com/markets/crypto/article/bitcoin-posts-worst-month-since-june-2022-as-one-strategist-says-token-could-drop-to-40000-141926609.html)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmh0LTFjd29MLTdyUnVXZDFwNXNaQnNlUGVZdVBuQURqQ0RBdTJmdTV0a3VMOUYxVnNQVThqTU4ySEpzNzdnZHdTMERtTVJnRTJRRGg1WGYycEsyeWx1QXp4RGROMGFpSFdJSm5UemRmOHpmUXZpMVZUT01QNERHd0VyZTV4ZWlKOWRZbktqdkMtUQ?oc=5)**
 
-Bitcoin capped the last day of the month with losses.
-
-Yahoo Finance • 19h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
+**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzZZdVB4OUtOTk1mSU1oRkJqMUFWNkp1VjhlbGVrQ25wLVRmUnMyLXN6T3VPcndzMzZLMlhsdlp4Z09HMFpaNE9TYS1yZ2VBZGxuRzZJRi1Gb0VMUXJweEJFQ0ZmUTdOeVNhVEJrdlhUMzVlcHg1TWRlZ2U4Z01FR0Q3OW1pdnZ4SWh3VGhqam1KNmktNW5SUjV3SWowNTg?oc=5)**
 
-The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
-
-Fortune • 7h ago
-
----
-
-**[Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/trump-discloses-over-12-billion-in-crypto-earnings-50m-in-bitcoin-holdings-221652817.html)**
-
-The president's annual financial disclosure report was released on Tuesday.
-
-Yahoo Finance • 16h ago
-
----
-
-**[Trump Reveals More Than $100 Million In Bitcoin Investments](https://www.forbes.com/sites/danalexander/2026/07/01/trump-reveals-more-than-100-million-in-bitcoin-investments/)**
-
-The president's public company made headlines last summer when it announced plans to invest in bitcoin. Hardly anyone knew Trump was also building a stash of his own.
-
-Forbes • 21h ago
-
----
-
-**[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analyst Says 'Market Bottom Is Here'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-spikes-kevin-warsh-flags-015910365.html)**
-
-Leading cryptocurrencies ticked higher on Wednesday, while stocks retreated, as Federal Reserve Chair Kevin Warsh called inflation “too high.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.91%$59,898.38Ethereum (CRYPTO: ETH) +2.86%$1,609.75XRP (CRYPTO: XRP) +2.12%$1.05Solana (CRYPTO: SOL) +6.46%$71.61Dogecoin (CRYPTO: DOGE) +1.75%$0.07221 Crypto Market Lifts Bitcoin broke past $61,000 in the evening, only to get rejected and drop back to $59,000. With tr
-
-Yahoo Finance • 2h ago
-
----
-
-**[MicroStrategy Abandons ‘HODL,’ Authorizes $1.25B Bitcoin Sale to Fund Dividends](https://www.barrons.com/articles/microstrategy-bitcoin-sale-dividends-510346f0)**
-
-Barron's • 16h ago
-
----
-
-**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
-
-Reuters • 21h ago
-
----
-
-**[Dead-end bitcoin mining wastes as much energy as Switzerland's entire hydropower generation capacity](https://www.livescience.com/technology/computing/dead-end-bitcoin-mining-wastes-as-much-energy-as-switzerlands-entire-hydropower-generation-capacity)**
-
-Researchers reveal that we waste a huge amount of energy on redundant bitcoin mining operations — where different miners try to grab the same bitcoin.
-
-Live Science • 17h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -279,7 +263,7 @@ Tell us your Bitcoin stack. We'll email you the day you're a millionaire — the
 
 One
 
-⬆️ 2 • 💬 0 • 16h ago • [markovianprotocol.com](https://markovianprotocol.com)
+⬆️ 2 • 💬 0 • 19h ago • [markovianprotocol.com](https://markovianprotocol.com)
 
 ---
 
@@ -311,7 +295,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Contribute to SuLab/ECAA-workflow development by creating an account on GitHub.
 
-⬆️ 5 • 💬 1 • 15h ago • [GitHub](https://github.com/SuLab/ECAA-workflow)
+⬆️ 5 • 💬 1 • 18h ago • [GitHub](https://github.com/SuLab/ECAA-workflow)
 
 ---
 
@@ -325,7 +309,7 @@ To get 50% off your first order of CookUnity meals, go to http://www.cookunity.c
 
 📺 Graham Stephan
 
-👁️ 406K • 👍 9K • 💬 2K • ⏱️ 16:44 • 2d ago
+👁️ 409K • 👍 9K • 💬 2K • ⏱️ 16:44 • 2d ago
 
 ---
 
@@ -335,7 +319,7 @@ I joined Fox Business News this morning to calm them down about Bitcoin's recent
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 16K • 👍 388 • 💬 186 • ⏱️ 3:22 • 1d ago
+👁️ 17K • 👍 394 • 💬 186 • ⏱️ 3:22 • 1d ago
 
 ---
 
@@ -345,7 +329,27 @@ Bitcoin's value prop remains unchanged and a 50% drawdown isn't something that s
 
 📺 What Bitcoin Did
 
-👁️ 11K • 👍 526 • 💬 304 • ⏱️ 1:09:39 • 13h ago
+👁️ 12K • 👍 566 • 💬 331 • ⏱️ 1:09:39 • 17h ago
+
+---
+
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=8TmOvGK235I)**
+
+Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 75K • 👍 5K • 💬 293 • ⏱️ 22:49 • 12h ago
+
+---
+
+**[Were We Wrong About Michael Saylor?](https://www.youtube.com/watch?v=2nojwPLc8T0)**
+
+Michael Saylor built his reputation on one message: never sell your Bitcoin. Now Strategy has authorized a Bitcoin monetization ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 2K • 💬 232 • ⏱️ 19:40 • 9h ago
 
 ---
 
@@ -355,7 +359,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 331 • ⏱️ 11:44 • 1d ago
+👁️ 51K • 👍 2K • 💬 329 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -369,33 +373,23 @@ Start building your crypto retirement portfolio today: https://www.itrustcapital
 
 ---
 
-**[Why Bitcoin Could Enter Another Parabolic Cycle!](https://www.youtube.com/watch?v=gUjMDs45IVA)**
-
-President Trump campaigned as the "Crypto President," but has the promise lived up to reality? Today, Ran unpacks Trump's ...
-
-📺 Crypto Banter
-
-👁️ 21K • 👍 1K • 💬 61 • ⏱️ 30:10 • 14h ago
-
----
-
 **[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 755 • 💬 202 • ⏱️ 57:46 • 13h ago
+👁️ 14K • 👍 776 • 💬 193 • ⏱️ 57:46 • 17h ago
 
 ---
 
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=8TmOvGK235I)**
+**[🚨 BITCOIN: DO YOU REALIZE WHAT JUST HAPPENED?!! IT CHANGES EVERYTHING!!!!](https://www.youtube.com/watch?v=g1Uitg7Hv9Y)**
 
-Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Conference: ...
+Bitcoin has two red six month candles as whales begin to accumulate #BTC. This could be the beginning of something huge!
 
-📺 Benjamin Cowen
+📺 Crypto Zombie
 
-👁️ 59K • 👍 4K • 💬 276 • ⏱️ 22:49 • 9h ago
+👁️ 14K • 👍 1K • 💬 125 • ⏱️ 17:30 • 14h ago
 
 ---
 
@@ -406,16 +400,6 @@ Bitcoin is under pressure, Strategy is being accused of triggering a death spira
 📺 Simply Bitcoin
 
 👁️ 76K • 👍 4K • 💬 522 • ⏱️ 20:04 • 2d ago
-
----
-
-**[BITCOIN: THESE TIMES ARE VERY RARE](https://www.youtube.com/watch?v=8chUwQM-5fk)**
-
-The outlook on Bitcoin and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 8K • 👍 551 • 💬 261 • ⏱️ 15:51 • 1d ago
 
 ---
 
