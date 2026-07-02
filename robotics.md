@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T11:07:44.014600+00:00'
+updated: '2026-07-02T13:16:48.611527+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 11:07 UTC  
+**Last Updated:** July 02, 2026 at 13:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the back-drivability is wild. Just for context: we were getting super annoyed with stripping the 3D-printed plastic gears on open-source rigs like the Berkeley Lite and ALOHA. They are awesome projects, but the plastic joints are fragile and a nightmare to maintain. So we designed this as a drop-in replacement (calling it the Starfruit Actuator). Instead of printing two different plastic joint types, we wanted a single unified metal design to simplify the BOM and actually survive dynamic loads. Specs we're rolling with for the final drop: 30:1 ratio (30 teeth, 31 pins) Dual absolute encoders (supports FOC & MIT modes) Fully ODrive-compatible Target price: ~$149 Next up is integrating the motor and driver board, then throwing it on the test bench to see if it survives a 76 Nm torque test without exploding. Fingers crossed lol. Let me know what you think of the machining! All the STEP files, ROS2 nodes, and configs are going to be 100% open source. I'll drop the project link in the comments if anyone wants to track the testing or grab the files when they go live.
 
-1d ago
+2d ago
 
 ---
 
@@ -108,14 +108,6 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[Humanoid robots for AI companionship](https://www.straitstimes.com/asia/east-asia/chinese-firm-sells-hyper-real-always-loyal-humanoid-robots)**
-
-Discover hyper-real humanoid robots designed for unconditional loyalty and AI-driven companionship, targeting loneliness in China. Read more at straitstimes.com. Read more at straitstimes.com.
-
-The Straits Times • 23h ago
-
----
-
 **[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
 
 Robotics maker bets on realism to answer demand for companionship, counseling
@@ -124,31 +116,45 @@ Nikkei Asia • 1d ago
 
 ---
 
-**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
+**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-South China Morning Post • 1d ago
+Reuters • 3h ago
+
+---
+
+**[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
+
+The Register • 10h ago
 
 ---
 
 **[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-MarketWatch • 11h ago
+MarketWatch • 2m ago
 
 ---
 
-**[Are AI-powered robots German carmaker BMW's future?](https://www.dw.com/en/are-ai-powered-robots-german-carmaker-bmws-future/video-77789578)**
+**[Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand](https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/)**
 
-A BMW pilot project has tested two humanoid robots at its factory in Leipzig. Are they part of a new industrial revolution — or will they end up as scrap metal?
+Blattner has expanded its partnership with Built Robotics to scale autonomous systems for solar construction.
 
-DW.com • 27m ago
+The Robot Report • 1h ago
 
 ---
 
-**[From grief support to robot cafes & marriage prospects: How AI is transforming daily life in South Korea](https://timesofindia.indiatimes.com/world/rest-of-world/from-grief-support-to-robot-cafes-how-ai-robots-are-transforming-daily-life-in-south-korea/articleshow/132133753.cms)**
+**[AGIBOT debuts A3 humanoid robot in Europe and launches UK Robot-as-a-Service model](https://roboticsandautomationnews.com/2026/07/02/agibot-debuts-a3-humanoid-robot-in-europe-and-launches-uk-robot-as-a-service-model/103018/)**
 
-Artificial intelligence and robots in South Korea is becoming part of everyday life. Families are using AI to recreate deceased loved ones, robot baristas are serving coffee without human staff, semiconductor engineers have become some of the country's most sought-after professionals, and students are reshaping their career choices around AI.
+AGIBOT, a developer of embodied AI and robotics, hosted the UK AGIBOT Partner Conference (APC) 2026 in London, marking a key step in the company’s European growth strategy and its continued effort …
 
-The Times of India • 1h ago
+Robotics & Automation News • 18m ago
+
+---
+
+**[Why you should combine robot dexterity with mechanical positioning for complex assembly operations](https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/)**
+
+Experts are recognizing the importance of mechanical positioning and its impact on the machine’s mobility, range and speed.
+
+The Robot Report • 30m ago
 
 ---
 
@@ -156,7 +162,7 @@ The Times of India • 1h ago
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Fortune • 18h ago
+Fortune • 20h ago
 
 ---
 
@@ -164,39 +170,21 @@ Fortune • 18h ago
 
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
-**[Serve Robotics Stock Falls 37% YTD: Should Investors Buy the Dip?](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-stock-falls-37-135700499.html)**
+**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
 
-Can SERV turn AI, healthcare robotics and recurring revenues into lasting growth as it scales fleet productivity and expands the autonomous platform?
+"The way people mount a CCTV camera on a wall, they mounted one on us."
 
-Yahoo Finance • 21h ago
-
----
-
-**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
-
-Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
-
-NASA (.gov) • 2d ago
+Yahoo • 23h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 2K • 👍 184 • 💬 29 • ⏱️ 12:50 • 17h ago
-
----
 
 **[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
@@ -208,13 +196,23 @@ China has built female robots so realistic that people who meet them in person g
 
 ---
 
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 2K • 👍 189 • 💬 33 • ⏱️ 12:50 • 19h ago
+
+---
+
 **[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
 📺 South China Morning Post
 
-👁️ 49K • 👍 1K • 💬 380 • ⏱️ 3:59 • 1d ago
+👁️ 53K • 👍 1K • 💬 438 • ⏱️ 3:59 • 1d ago
 
 ---
 
@@ -224,7 +222,17 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 33K • 👍 438 • 💬 22 • ⏱️ 5:08 • 3d ago
+👁️ 33K • 👍 441 • 💬 22 • ⏱️ 5:08 • 3d ago
+
+---
+
+**[This $8000 Robot Just Killed House Chores Forever – Weave Isaac 1 Full Demo](https://www.youtube.com/watch?v=57oW8RTSYMg)**
+
+ai #robot #usa Isaac 1 is a mobile home service robot that travels on a wheeled base while using two robotic arms to interact with ...
+
+📺 OTOFOOTAGE
+
+👁️ 462 • 👍 24 • 💬 6 • ⏱️ 2:03 • 9h ago
 
 ---
 
@@ -234,17 +242,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 95K • 👍 5K • 💬 2K • ⏱️ 13:18 • 3d ago
-
----
-
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
-
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
-
-📺 brenpoly
-
-👁️ 103K • 👍 6K • 💬 321 • ⏱️ 23:57 • 4d ago
+👁️ 95K • 👍 5K • 💬 2K • ⏱️ 13:18 • 4d ago
 
 ---
 
@@ -254,7 +252,25 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 27K • 👍 193 • 💬 101 • ⏱️ 3:05 • 2d ago
+👁️ 29K • 👍 204 • 💬 102 • ⏱️ 3:05 • 2d ago
+
+---
+
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
+
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
+
+📺 brenpoly
+
+👁️ 106K • 👍 6K • 💬 330 • ⏱️ 23:57 • 4d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=uk0wMiiAqTo)**
+
+📺 Borunte julie 
+
+👁️ 2K • 👍 8 • ⏱️ 0:24 • 10h ago
 
 ---
 
@@ -264,27 +280,7 @@ Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark 
 
 📺 The Daily Show
 
-👁️ 173K • 👍 5K • 💬 156 • ⏱️ 28:40 • 2d ago
-
----
-
-**[My Robot broke 1 Day before Graduation (bruh)](https://www.youtube.com/watch?v=gqnW9qBCHnM)**
-
-Try Brilliant's tutor for free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay ...
-
-📺 Tazer
-
-👁️ 50K • 👍 4K • 💬 280 • ⏱️ 29:03 • 22h ago
-
----
-
-**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
-
-This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
-
-📺 Talent Replay
-
-👁️ 100K • 👍 1K • 💬 35 • ⏱️ 39:57 • 4d ago
+👁️ 174K • 👍 5K • 💬 156 • ⏱️ 28:40 • 3d ago
 
 ---
 
