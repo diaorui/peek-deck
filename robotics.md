@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T22:06:45.814504+00:00'
+updated: '2026-07-02T23:37:36.583249+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 22:06 UTC  
+**Last Updated:** July 02, 2026 at 23:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,11 +108,9 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
+**[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
-
-New Atlas • 3h ago
+The Register • 21h ago
 
 ---
 
@@ -122,29 +120,23 @@ South China Morning Post • 1d ago
 
 ---
 
-**[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
-
-The Register • 19h ago
-
----
-
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 12h ago
+Reuters • 14h ago
 
 ---
 
-**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
+**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
 
-Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
+Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
 
-TribLIVE.com • 1h ago
+New Atlas • 4h ago
 
 ---
 
 **[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
 
-WSJ • 9h ago
+WSJ • 11h ago
 
 ---
 
@@ -152,7 +144,7 @@ WSJ • 9h ago
 
 The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -166,7 +158,7 @@ Fortune • 1d ago
 
 **[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-MarketWatch • 8h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -174,13 +166,41 @@ MarketWatch • 8h ago
 
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
-CNBC • 21h ago
+CNBC • 22h ago
+
+---
+
+**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
+
+Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
+
+Kraken Robotics • 9h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+
+📺 South China Morning Post
+
+👁️ 78K • 👍 2K • 💬 705 • ⏱️ 3:59 • 1d ago
+
+---
+
+**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
+
+The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
+
+📺 DPCcars
+
+👁️ 4K • 👍 56 • 💬 32 • ⏱️ 2:50 • 8h ago
+
+---
 
 **[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
@@ -192,13 +212,13 @@ China has built female robots so realistic that people who meet them in person g
 
 ---
 
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
 
-📺 South China Morning Post
+📺 51 Drones
 
-👁️ 72K • 👍 2K • 💬 623 • ⏱️ 3:59 • 1d ago
+👁️ 3K • 👍 212 • 💬 41 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -208,27 +228,37 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 35K • 👍 465 • 💬 22 • ⏱️ 5:08 • 4d ago
+👁️ 36K • 👍 474 • 💬 23 • ⏱️ 5:08 • 4d ago
 
 ---
 
-**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
+**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
 
-The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
 
-📺 DPCcars
+📺 OTOFOOTAGE
 
-👁️ 2K • 👍 44 • 💬 16 • ⏱️ 2:50 • 7h ago
+👁️ 39K • 👍 232 • 💬 116 • ⏱️ 3:05 • 2d ago
 
 ---
 
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
 
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
 
-📺 51 Drones
+📺 brenpoly
 
-👁️ 3K • 👍 208 • 💬 40 • ⏱️ 12:50 • 1d ago
+👁️ 121K • 👍 7K • 💬 385 • ⏱️ 23:57 • 5d ago
+
+---
+
+**[Robot Hair Machine Wasn’t Done… It Built Her Friend a Pink Bun 🤖 #Shorts](https://www.youtube.com/watch?v=Olc-w3fH9jU)**
+
+Prototype concept sequel: after the first robot bun test, her friend sits in the same chair and the machine builds a pink spiral bun in ...
+
+📺 Prototype Leaked
+
+👁️ 383 • 👍 14 • ⏱️ 0:16 • 1h ago
 
 ---
 
@@ -242,43 +272,13 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 ---
 
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
+**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
 
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
+This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
 
-📺 brenpoly
+📺 Armourdesia Military Hardware
 
-👁️ 117K • 👍 7K • 💬 367 • ⏱️ 23:57 • 5d ago
-
----
-
-**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
-
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
-
-📺 OTOFOOTAGE
-
-👁️ 37K • 👍 224 • 💬 114 • ⏱️ 3:05 • 2d ago
-
----
-
-**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
-
-Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
-
-📺 The Daily Show
-
-👁️ 177K • 👍 5K • 💬 160 • ⏱️ 28:40 • 3d ago
-
----
-
-**[China&#39;s New $12,140 Female Robot Just Hit The Market](https://www.youtube.com/watch?v=SA8zcLRuBGw)**
-
-China's humanoid robot industry just crossed a line most people thought was still decades away. From Gia Jia's viral social reflex ...
-
-📺 Tech In Check
-
-👁️ 9K • 👍 319 • 💬 11 • ⏱️ 25:05 • 4d ago
+👁️ 52K • 👍 2K • 💬 276 • ⏱️ 0:31 • 15h ago
 
 ---
 
