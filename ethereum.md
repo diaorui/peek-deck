@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-02T20:41:46.405339+00:00'
+updated: '2026-07-02T22:06:45.811326+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 20:41 UTC  
+**Last Updated:** July 02, 2026 at 22:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
-**7d:** +7.5%  
-**30d:** -6.4%  
-**90d:** -17.8%  
-**1y:** -34.5%  
+**24h:** +5.6%  
+**7d:** +7.6%  
+**30d:** -6.3%  
+**90d:** -17.7%  
+**1y:** -34.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-4h ago
+5h ago
 
 ---
 
@@ -80,19 +80,19 @@ Just wanted to say thanks to the bear market 🙏 arigato
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+17h ago
 
 ---
 
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://www.reddit.com/r/ethereum/comments/1ul30a2/ethereum_for_governments_and_institutions_why/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 20h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 21h ago
 
 ---
 
 **[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This blog post recaps the Argot Collective’s work from the first half of 2026 and provides a detailed outline of priorities and upcoming milestones for the second half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2) • 20h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2) • 21h ago
 
 ---
 
@@ -124,7 +124,7 @@ https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=7829
 
 **TL;DR**: Argot Collective five year funding, Ethereum Foundation new structure, Ethlabs launched.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-june-2026-update) • 21h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-june-2026-update) • 22h ago
 
 ---
 
@@ -146,37 +146,25 @@ Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a
 
 ## Google News: "ethereum"
 
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+The Motley Fool • 21h ago
+
+---
+
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
 ethereum.org • 1d ago
 
 ---
 
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
+**[Bitcoin and ethereum prices today, Thursday, July 2: Prices move up following June jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-2-prices-move-up-following-june-jobs-report-125118367.html)**
 
-Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
+Bitcoin opened at $59,961.80 on Thursday, July 2, 2026. The value of bitcoin rose to $61,270.44 by 8:42 a.m. ET. Ethereum opened at $1,607.88. The price of ethereum moved to $1,656.11 by 8:42 a.m. ET.
 
-Decrypt • 23h ago
-
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
-
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
-
-The Motley Fool • 20h ago
-
----
-
-**[2 reasons Citi slashed its bitcoin & ethereum price targets](https://finance.yahoo.com/video/2-reasons-citi-slashed-bitcoin-120000465.html)**
-
-Citi (C) cut its 12-month bitcoin (BTC-USD) and ether (ETH-USD) price targets, citing demand and the delayed CLARITY Act.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -188,6 +176,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
+
+Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
 
 /PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
@@ -196,33 +192,33 @@ PR Newswire • 1d ago
 
 ---
 
+**[Ethereum Institutional wins backing from Standard Chartered and top Ethereum leaders](https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem)**
+
+Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem.
+
+CoinDesk • 1d ago
+
+---
+
 **[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
 
 Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
 
-TradingView • 7h ago
+TradingView • 8h ago
+
+---
+
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)**
+
+Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
+
+Decrypt • 4h ago
 
 ---
 
 **[Ethereum Nears Major Low as Elliott Wave Count Points to Reversal Potential](https://www.investing.com/analysis/ethereum-nears-major-low-as-elliott-wave-count-points-to-reversal-potential-200683249)**
 
-Investing.com • 32m ago
-
----
-
-**[Current price of Ethereum for July 2, 2026](https://fortune.com/article/price-of-ethereum-07-02-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
-**['An honest, neutral counterpart:' Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit](https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit)**
-
-Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.
-
-The Block • 1d ago
+Investing.com • 1h ago
 
 ---
 
@@ -236,7 +232,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 3K • 👍 304 • 💬 27 • ⏱️ 25:16 • 1h ago
+👁️ 3K • 👍 304 • 💬 27 • ⏱️ 25:16 • 2h ago
 
 ---
 
@@ -246,7 +242,7 @@ In this video I break down the latest Ethereum price analysis and explain why th
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 6 • ⏱️ 11:42 • 6h ago
+👁️ 3K • 👍 191 • 💬 6 • ⏱️ 11:42 • 8h ago
 
 ---
 
@@ -256,7 +252,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 8K • 👍 509 • 💬 27 • ⏱️ 8:38 • 12h ago
+👁️ 8K • 👍 509 • 💬 27 • ⏱️ 8:38 • 14h ago
 
 ---
 
@@ -276,7 +272,7 @@ JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradec
 
 📺 Trade Confident
 
-👁️ 112 • 👍 3 • 💬 3 • ⏱️ 8:59 • 2h ago
+👁️ 112 • 👍 3 • 💬 3 • ⏱️ 8:59 • 3h ago
 
 ---
 
@@ -296,7 +292,7 @@ BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MST
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 109 • 💬 24 • ⏱️ 20:15 • 23h ago
+👁️ 2K • 👍 109 • 💬 24 • ⏱️ 20:15 • 1d ago
 
 ---
 
