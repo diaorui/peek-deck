@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-01T22:46:52.873730+00:00'
+updated: '2026-07-02T00:07:45.057776+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 01, 2026 at 22:46 UTC  
+**Last Updated:** July 02, 2026 at 00:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,624.59
+### $1,607.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** +3.6%  
-**30d:** -12.7%  
-**90d:** -20.9%  
-**1y:** -36.7%  
+**24h:** +1.7%  
+**7d:** +1.7%  
+**30d:** -11.5%  
+**90d:** -22.2%  
+**1y:** -38.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've noticed something funny. A lot of people talk about crypto adoption, but most crypto holders I know barely spend any of it. Recently, I started exploring ways people use crypto outside of exchanges. It made me realize that most of us probably don't spend crypto simply because we don't think about it. Not because there aren't options. I'm just curious where people stand on this. Do you actively spend crypto or is it mostly something you hold long-term?
 
-11h ago
+12h ago
 
 ---
 
@@ -150,25 +150,27 @@ The problem: Single-authority customs approval is a rational bribery target. One
 
 ## Google News: "ethereum"
 
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://finance.yahoo.com/markets/crypto/articles/robinhood-launches-ai-native-ethereum-205638093.html)**
+**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
 
 Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
 
-Yahoo Finance • 1h ago
+Decrypt • 3h ago
 
 ---
 
-**[Ethereum Institutional Launch Draws Support From Across the Ethereum Ecosystem](https://news.futunn.com/en/post/75410900/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem)**
+**[Is Bitmine Immersion Technologies’ (BMNR) Russell Debut Reshaping Its Ethereum-Heavy Investment Narrative?](https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-bmnr-russell-071743433.html)**
 
-富途牛牛 • 1h ago
+In late June 2026, Bitmine Immersion Technologies, Inc. was added to multiple Russell equity indexes, including the Russell 1000, 2500, 3000 and related value and completeness benchmarks, while also declaring a cash dividend on its 9.50% Series A Perpetual Preferred Stock listed as BMNP. These moves highlight Bitmine’s emergence as a large-cap index constituent with one of the largest Ethereum treasuries and staking operations in the market, underscoring its growing presence at the...
+
+Yahoo Finance • 16h ago
 
 ---
 
-**[Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)**
+**[Ethereum Institutional wins backing from Standard Chartered and top Ethereum leaders](https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem)**
 
-The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
+Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem.
 
-CoinDesk • 9h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -176,15 +178,15 @@ CoinDesk • 9h ago
 
 Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 12h ago
 
 ---
 
-**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
 
-Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
 
-The Block • 2d ago
+The Motley Fool • 2m ago
 
 ---
 
@@ -196,11 +198,11 @@ TradingView • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?](https://www.fool.com/investing/2026/07/01/bitcoin-vs-ethereum-which-is-the-better-long-term/)**
+**[Bitmine lifts Ethereum treasury to 5.7 million ETH through 'challenging' weekly slide, joins Russell 1000](https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000)**
 
-The top two cryptocurrencies are only superficially similar.
+Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.
 
-The Motley Fool • 12h ago
+The Block • 2d ago
 
 ---
 
@@ -208,23 +210,21 @@ The Motley Fool • 12h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 11h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers from fresh yearly low, ETH and XRP consolidate at key levels](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-from-fresh-yearly-low-eth-and-xrp-consolidate-at-key-levels-202607010326)**
+**[Tom Lee Ties Ethereum Selloff to Quarter-End Window Dressing](https://beincrypto.com/tom-lee-ethereum-window-dressing-selloff/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Wednesday after a recent correction.
+Tom Lee points to quarter-end window dressing amid Ethereum's 8% drop as Bitmine and SharpLink buy ETH into weakness.
 
-FXStreet • 19h ago
+BeInCrypto • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.70 Million Tokens, and Total Crypto and Total Cash Holdings of $9.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-70-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-8-billion-302812787.html)**
+**[-- | ETHU USDⓈ-Margined Perpetual Chart | Binance Futures](https://www.binance.com/en/futures/ETHU)**
 
-Bitmine owns 4.7% of the total ETH coin supply of 120.7 million Bitmine is 94% of the way to the 'Alchemy of 5%' in just 11 months Bitmine was added to the...
-
-PR Newswire • 2d ago
+Binance • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 644 • 💬 89 • ⏱️ 30:21 • 3h ago
+👁️ 7K • 👍 644 • 💬 89 • ⏱️ 30:21 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 317 • ⏱️ 11:44 • 23h ago
+👁️ 48K • 👍 2K • 💬 317 • ⏱️ 11:44 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MST
 
 📺 Big Time Trades
 
-👁️ 256 • 👍 35 • 💬 11 • ⏱️ 20:15 • 1h ago
+👁️ 256 • 👍 35 • 💬 11 • ⏱️ 20:15 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ Only two crypto-native assets are worth more than $100 billion, and ETH has been
 
 📺 Unchained
 
-👁️ 333 • 👍 7 • 💬 2 • ⏱️ 10:18 • 6h ago
+👁️ 333 • 👍 7 • 💬 2 • ⏱️ 10:18 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 154 • 💬 120 • ⏱️ 19:50 • 3h ago
+👁️ 2K • 👍 154 • 💬 120 • ⏱️ 19:50 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 129 • ⏱️ 11:49 • 1d ago
+👁️ 48K • 👍 2K • 💬 129 • ⏱️ 11:49 • 2d ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 239 • 👍 18 • 💬 41 • ⏱️ 4:50 • 13h ago
+👁️ 239 • 👍 18 • 💬 41 • ⏱️ 4:50 • 14h ago
 
 ---
 

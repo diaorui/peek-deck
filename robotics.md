@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-01T22:46:52.876660+00:00'
+updated: '2026-07-02T00:07:45.060351+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 01, 2026 at 22:46 UTC  
+**Last Updated:** July 02, 2026 at 00:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,23 +118,31 @@ Nikkei Asia • 1d ago
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 20h ago
+South China Morning Post • 22h ago
 
 ---
 
-**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://sg.finance.yahoo.com/news/chinese-firm-sells-hyper-real-094451069.html)**
+**[New humanoid robot built for companionship with 90% accuracy in recognizing emotions](https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robot-companionship)**
 
-Their metallic frames covered in supple, lifelike skin, a posse of new Chinese robots meant for companionship can offer users AI-generated conversation or a hand to hold, complete with manicured nails.In South Korea, cuddly ChatGPT-powered dolls are used in some care homes, while a lamp-like AI device called ElliQ offers similar companionship and safety-monitoring services.
+UBTech unveils the mass-produced UWORLD U1 humanoid, combining biomimetic AI and emotion-aware LLMs for real-world deployment.
 
-Yahoo Finance Singapore • 13h ago
+Interesting Engineering • 15h ago
 
 ---
 
-**[Are Humanoid Robots Ready to Be Deployed?](https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed)**
+**[This $5.5 billion robotics startup built a school for humanoids](https://www.businessinsider.com/apptroniks-humanoid-robots-are-practicing-for-their-first-real-jobs-2026-6)**
 
-Neo and a dozen other robots with human forms are scheduled to hit the market. Experts are nervous.
+At Robot Park in Austin, Apptronik's humanoid robots train for jobs in factories, warehouses, and homes.
 
-The New Yorker • 2d ago
+Business Insider • 1d ago
+
+---
+
+**[Robotics suppliers could crush the competition in next AI wave](https://www.foxbusiness.com/video/6399956986112)**
+
+Spear Invest founder and CIO Ivana Delevska dives into the soaring robotics investment landscape on ‘Making Money.’
+
+Fox Business • 1h ago
 
 ---
 
@@ -142,7 +150,7 @@ The New Yorker • 2d ago
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -150,23 +158,7 @@ Fortune • 6h ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 3h ago
-
----
-
-**[Seven lessons from founders building robotics businesses set to scale](https://www.bvp.com/atlas/seven-lessons-from-founders-building-robotics-businesses-set-to-scale)**
-
-Three founders at share lessons from building and deploying robotics businesses set to scale in the real world.
-
-Bessemer Venture Partners • 2d ago
-
----
-
-**[New soft robotic heart accurately mimics the complex movements of human valves](https://www.news-medical.net/news/20260701/New-soft-robotic-heart-accurately-mimics-the-complex-movements-of-human-valves.aspx)**
-
-Researchers at UNSW Sydney have developed a fully synthetic soft robotic heart that reproduces the complex movements and internal structures of the human heart, opening the door to better treatments, safer medical devices and more personalized care.
-
-News-Medical • 15h ago
+ZME Science • 4h ago
 
 ---
 
@@ -178,11 +170,19 @@ CNN • 1d ago
 
 ---
 
-**[Autonomous construction bots are building solar infrastructure behind Meta's massive Hyperion data center](https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7)**
+**[New soft robotic heart accurately mimics the complex movements of human valves](https://www.news-medical.net/news/20260701/New-soft-robotic-heart-accurately-mimics-the-complex-movements-of-human-valves.aspx)**
 
-Built Robotics wants to use autonomous machines to build out utility-scale solar infrastructure amid the AI boom.
+Researchers at UNSW Sydney have developed a fully synthetic soft robotic heart that reproduces the complex movements and internal structures of the human heart, opening the door to better treatments, safer medical devices and more personalized care.
 
-Business Insider • 7h ago
+News-Medical • 17h ago
+
+---
+
+**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
+
+Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
+
+Fox News • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 21K • 👍 459 • 💬 156 • ⏱️ 3:59 • 20h ago
+👁️ 21K • 👍 459 • 💬 156 • ⏱️ 3:59 • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 895 • 👍 107 • 💬 18 • ⏱️ 12:50 • 5h ago
+👁️ 895 • 👍 107 • 💬 18 • ⏱️ 12:50 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 Robot Julie 
 
-👁️ 6K • 👍 11 • ⏱️ 0:17 • 21h ago
+👁️ 6K • 👍 11 • ⏱️ 0:17 • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ China's Autonomous Snake Robot Inspects Live High-Voltage Power Lines Without Sh
 
 📺 Techie Sapien
 
-👁️ 30K • 💬 10 • ⏱️ 0:11 • 8h ago
+👁️ 30K • 💬 10 • ⏱️ 0:11 • 10h ago
 
 ---
 
