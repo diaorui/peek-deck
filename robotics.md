@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T19:25:18.469543+00:00'
+updated: '2026-07-02T20:41:46.408286+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 19:25 UTC  
+**Last Updated:** July 02, 2026 at 20:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,7 +78,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 **[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -108,65 +108,49 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
+**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
+
+Reuters • 11h ago
+
+---
+
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
 South China Morning Post • 1d ago
 
 ---
 
-**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
-
-Reuters • 9h ago
-
----
-
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-The Register • 16h ago
+The Register • 18h ago
 
 ---
 
 **[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
-**[Robot.com Named Official Robotics Partner of LEAP East, Bringing R-ads to Asia for the First Time](https://finance.yahoo.com/technology/ai/articles/robot-com-named-official-robotics-160000883.html)**
+**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
 
-Robot.com, the company putting autonomous robots to work in the real world, today announced it has been named the official robotics partner of LEAP East, bringing its fleet of autonomous robots to the show floor in Hong Kong. The company will deploy R-kiwis in front of one of the most-watched technology audiences in the world, leveraging its R-ads platform to engage event attendees and pass out swag. Co-founder and president Judah Longgrear will also be on-site for a speaking session titled "Whe
+Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
 
-Yahoo Finance • 3h ago
-
----
-
-**[The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026](https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html)**
-
-The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
-
-Yahoo Finance • 3h ago
-
----
-
-**[Humanoid Robots Are Fashion’s Future Clients. Hansae Is Getting Ready to Dress Them.](https://finance.yahoo.com/technology/articles/humanoid-robots-fashion-future-clients-163809207.html)**
-
-The manufacturer’s “Wear the Future” exhibit presented Hansae’s vision for robot clothing design.
-
-Yahoo Finance • 2h ago
+New Atlas • 1h ago
 
 ---
 
 **[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
-**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
 
-Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Kraken Robotics • 5h ago
+Fortune • 1d ago
 
 ---
 
@@ -174,7 +158,23 @@ Kraken Robotics • 5h ago
 
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
-CNBC • 18h ago
+CNBC • 19h ago
+
+---
+
+**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
+
+Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
+
+Kraken Robotics • 6h ago
+
+---
+
+**[The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026](https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html)**
+
+The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 457K • 👍 14K • 💬 1K • ⏱️ 24:13 • 5d ago
+👁️ 458K • 👍 14K • 💬 1K • ⏱️ 24:13 • 5d ago
 
 ---
 
@@ -198,7 +198,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 65K • 👍 1K • 💬 578 • ⏱️ 3:59 • 1d ago
+👁️ 72K • 👍 2K • 💬 623 • ⏱️ 3:59 • 1d ago
 
 ---
 
@@ -208,7 +208,17 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 34K • 👍 454 • 💬 22 • ⏱️ 5:08 • 4d ago
+👁️ 35K • 👍 465 • 💬 22 • ⏱️ 5:08 • 4d ago
+
+---
+
+**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
+
+The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 44 • 💬 16 • ⏱️ 2:50 • 5h ago
 
 ---
 
@@ -218,17 +228,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 3K • 👍 206 • 💬 38 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
-
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
-
-📺 OTOFOOTAGE
-
-👁️ 35K • 👍 220 • 💬 113 • ⏱️ 3:05 • 2d ago
+👁️ 3K • 👍 208 • 💬 40 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -248,17 +248,17 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 113K • 👍 7K • 💬 355 • ⏱️ 23:57 • 5d ago
+👁️ 117K • 👍 7K • 💬 367 • ⏱️ 23:57 • 5d ago
 
 ---
 
-**[This $8000 Robot Just Killed House Chores Forever – Weave Isaac 1 Full Demo](https://www.youtube.com/watch?v=57oW8RTSYMg)**
+**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
 
-ai #robot #usa Isaac 1 is a mobile home service robot that travels on a wheeled base while using two robotic arms to interact with ...
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
 
 📺 OTOFOOTAGE
 
-👁️ 711 • 👍 30 • 💬 7 • ⏱️ 2:03 • 15h ago
+👁️ 37K • 👍 224 • 💬 114 • ⏱️ 3:05 • 2d ago
 
 ---
 
@@ -268,17 +268,17 @@ Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark 
 
 📺 The Daily Show
 
-👁️ 176K • 👍 5K • 💬 160 • ⏱️ 28:40 • 3d ago
+👁️ 177K • 👍 5K • 💬 160 • ⏱️ 28:40 • 3d ago
 
 ---
 
-**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
+**[China&#39;s New $12,140 Female Robot Just Hit The Market](https://www.youtube.com/watch?v=SA8zcLRuBGw)**
 
-Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
+China's humanoid robot industry just crossed a line most people thought was still decades away. From Gia Jia's viral social reflex ...
 
-📺 SXE China
+📺 Tech In Check
 
-👁️ 41K • 👍 720 • 💬 78 • ⏱️ 0:52 • 2d ago
+👁️ 9K • 👍 319 • 💬 11 • ⏱️ 25:05 • 4d ago
 
 ---
 
