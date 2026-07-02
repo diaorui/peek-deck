@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T15:40:48.231840+00:00'
+updated: '2026-07-02T17:49:04.649969+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 15:40 UTC  
+**Last Updated:** July 02, 2026 at 17:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hey guys. A couple months back I asked this sub for some reality checks on using
 
 This is my project, Mighty Camera. It is essentially a monocular SLAM camera running entirely on tiny onboard compute. See my past posts for details. Mighty also supports combining multiple cameras and synchronizing them to produce frame-level synced streams. In this setup, I’m using that hardware synchronization to generate depth with SGBM, while it also produces VIO pose.
 
-1d ago
+2d ago
 
 ---
 
@@ -58,7 +58,7 @@ This is my project, Mighty Camera. It is essentially a monocular SLAM camera run
 
 Some of you asked for the full pipeline code, so here it is. https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place
 
-1d ago
+2d ago
 
 ---
 
@@ -108,29 +108,27 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-MarketWatch • 2h ago
-
----
-
-**[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
-
-Robotics maker bets on realism to answer demand for companionship, counseling
-
-Nikkei Asia • 1d ago
+South China Morning Post • 1d ago
 
 ---
 
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 6h ago
+Reuters • 8h ago
 
 ---
 
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-The Register • 13h ago
+The Register • 15h ago
+
+---
+
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 4h ago
 
 ---
 
@@ -138,15 +136,7 @@ The Register • 13h ago
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
-Kraken Robotics • 1h ago
-
----
-
-**[Robotics CEO: robots need to look nothing like The Terminator](https://www.yahoo.com/news/videos/robotics-ceo-robots-look-nothing-120000354.html)**
-
-Grace Brown, Co-founder and CEO of Andromeda, says most humanoid robots copy sci-fi too closely — building tall, intimidating machines that feel threatening. Her team deliberately went the opposite di...
-
-Yahoo • 3h ago
+Kraken Robotics • 3h ago
 
 ---
 
@@ -154,13 +144,13 @@ Yahoo • 3h ago
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
 **[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
 
-WSJ • 3h ago
+WSJ • 5h ago
 
 ---
 
@@ -168,7 +158,7 @@ WSJ • 3h ago
 
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
-CNBC • 14h ago
+CNBC • 16h ago
 
 ---
 
@@ -176,7 +166,15 @@ CNBC • 14h ago
 
 Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.
 
-The Robot Report • 23h ago
+The Robot Report • 1d ago
+
+---
+
+**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
+
+"The way people mount a CCTV camera on a wall, they mounted one on us."
+
+yahoo.com • 1d ago
 
 ---
 
@@ -200,17 +198,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 59K • 👍 1K • 💬 525 • ⏱️ 3:59 • 1d ago
-
----
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 3K • 👍 200 • 💬 37 • ⏱️ 12:50 • 21h ago
+👁️ 65K • 👍 1K • 💬 578 • ⏱️ 3:59 • 1d ago
 
 ---
 
@@ -220,7 +208,27 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 34K • 👍 450 • 💬 22 • ⏱️ 5:08 • 4d ago
+👁️ 34K • 👍 454 • 💬 22 • ⏱️ 5:08 • 4d ago
+
+---
+
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 3K • 👍 206 • 💬 38 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
+
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+
+📺 OTOFOOTAGE
+
+👁️ 35K • 👍 220 • 💬 113 • ⏱️ 3:05 • 2d ago
 
 ---
 
@@ -234,23 +242,13 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 ---
 
-**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
-
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
-
-📺 OTOFOOTAGE
-
-👁️ 32K • 👍 211 • 💬 105 • ⏱️ 3:05 • 2d ago
-
----
-
 **[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
 
 Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
 
 📺 brenpoly
 
-👁️ 110K • 👍 6K • 💬 345 • ⏱️ 23:57 • 5d ago
+👁️ 113K • 👍 7K • 💬 355 • ⏱️ 23:57 • 5d ago
 
 ---
 
@@ -260,7 +258,7 @@ ai #robot #usa Isaac 1 is a mobile home service robot that travels on a wheeled 
 
 📺 OTOFOOTAGE
 
-👁️ 599 • ⏱️ 2:03 • 11h ago
+👁️ 711 • 👍 30 • 💬 7 • ⏱️ 2:03 • 13h ago
 
 ---
 
@@ -270,7 +268,7 @@ Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark 
 
 📺 The Daily Show
 
-👁️ 175K • 👍 5K • 💬 156 • ⏱️ 28:40 • 3d ago
+👁️ 176K • 👍 5K • 💬 160 • ⏱️ 28:40 • 3d ago
 
 ---
 
@@ -280,7 +278,7 @@ Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its glo
 
 📺 SXE China
 
-👁️ 36K • 👍 679 • 💬 76 • ⏱️ 0:52 • 2d ago
+👁️ 41K • 👍 720 • 💬 78 • ⏱️ 0:52 • 2d ago
 
 ---
 
