@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-02T13:16:48.608313+00:00'
+updated: '2026-07-02T15:40:48.228547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 13:16 UTC  
+**Last Updated:** July 02, 2026 at 15:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,664.56
+### $1,700.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +5.8%  
-**30d:** -7.9%  
-**90d:** -19.0%  
-**1y:** -35.5%  
+**24h:** +5.3%  
+**7d:** +7.7%  
+**30d:** -6.3%  
+**90d:** -17.6%  
+**1y:** -34.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $201.16B
+**Market Cap:** $204.97B
 Rank #2
 
 **Circulating Supply:** 120,683,347 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--66.3%
+-65.7%
 
 **All-Time Low:** $0.43
-+384990.3%
++392140.7%
 
 ---
 
@@ -152,23 +152,7 @@ The problem: Single-authority customs approval is a rational bribery target. One
 
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
-ethereum.org • 21h ago
-
----
-
-**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
-
-The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
-
-CoinDesk • 19h ago
-
----
-
-**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
-
-Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
-
-Yahoo Finance • 16h ago
+ethereum.org • 23h ago
 
 ---
 
@@ -176,7 +160,13 @@ Yahoo Finance • 16h ago
 
 Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
 
-Decrypt • 16h ago
+Decrypt • 18h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-increases-043693f0-639a6dd9509b)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -188,23 +178,7 @@ Citi (C) cut its 12-month bitcoin (BTC-USD) and ether (ETH-USD) price targets, c
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP steady rebound as US and Iran conclude positive talks in Doha](https://www.mitrade.com/au/insights/news/live-news/article-3-1866716-20260702)**
-
-The cryptocurrency market broadly rises on Thursday, reflecting improvement in risk sentiment following an extended period of selling pressure. Bitcoin (BTC) is back above $60,000 after testing support at $58,000 earlier in the week.
-
-Mitrade • 1h ago
-
----
-
-**[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analyst Says 'Market Bottom Is Here'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-spikes-kevin-warsh-flags-015910365.html)**
-
-Leading cryptocurrencies ticked higher on Wednesday, while stocks retreated, as Federal Reserve Chair Kevin Warsh called inflation “too high.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.91%$59,898.38Ethereum (CRYPTO: ETH) +2.86%$1,609.75XRP (CRYPTO: XRP) +2.12%$1.05Solana (CRYPTO: SOL) +6.46%$71.61Dogecoin (CRYPTO: DOGE) +1.75%$0.07221 Crypto Market Lifts Bitcoin broke past $61,000 in the evening, only to get rejected and drop back to $59,000. With tr
-
-Yahoo Finance • 11h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -212,23 +186,45 @@ Yahoo Finance • 11h ago
 
 As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
 
-The Motley Fool • 12h ago
+The Motley Fool • 15h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers from fresh yearly low, ETH and XRP consolidate at key levels](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-recovers-from-fresh-yearly-low-eth-and-xrp-consolidate-at-key-levels-202607010326)**
+**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are showing early signs of stabilization on Wednesday after a recent correction.
+The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
 
-FXStreet • 1d ago
+CoinDesk • 21h ago
 
 ---
 
-**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4608880-citi-cuts-bitcoin-ethereum-price-targets-on-negative-etf-flows)**
+**[Current price of Ethereum for July 2, 2026](https://fortune.com/article/price-of-ethereum-07-02-2026/)**
 
-Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Seeking Alpha • 1d ago
+Fortune • 1h ago
+
+---
+
+**['An honest, neutral counterpart:' Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit](https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit)**
+
+Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.
+
+The Block • 22h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP steady rebound as US and Iran conclude positive talks in Doha](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-steady-rebound-as-us-and-iran-conclude-positive-talks-in-doha-202607021200)**
+
+The cryptocurrency market broadly rises on Thursday, reflecting improvement in risk sentiment following an extended period of selling pressure. Bitcoin (BTC) is back above $60,000 after testing support at $58,000 earlier in the week.
+
+FXStreet • 3h ago
+
+---
+
+**[Ethereum Death Cross Sparks $1,000 Crash Fears as Whale Selling and ETF Outflows Mount](https://www.ccn.com/analysis/crypto/ethereum-death-cross-1000-price-crash-whale-selling-etf-outflows/)**
+
+CCN.com • 6h ago
 
 ---
 
@@ -242,7 +238,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 368 • 💬 18 • ⏱️ 8:38 • 5h ago
+👁️ 6K • 👍 442 • 💬 23 • ⏱️ 8:38 • 7h ago
 
 ---
 
@@ -252,7 +248,17 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 22K • 👍 1K • 💬 124 • ⏱️ 30:21 • 18h ago
+👁️ 23K • 👍 1K • 💬 124 • ⏱️ 30:21 • 20h ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
+
+In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 99 • 💬 5 • ⏱️ 11:42 • 1h ago
 
 ---
 
@@ -262,17 +268,7 @@ BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MST
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 103 • 💬 23 • ⏱️ 20:15 • 16h ago
-
----
-
-**[Tom Lee &amp; Cathie Wood :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=KLmtxISXI8A)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 169 • 💬 92 • ⏱️ 18:21 • 21h ago
+👁️ 2K • 👍 107 • 💬 23 • ⏱️ 20:15 • 18h ago
 
 ---
 
@@ -282,7 +278,17 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 334 • ⏱️ 11:44 • 1d ago
+👁️ 53K • 👍 2K • 💬 334 • ⏱️ 11:44 • 1d ago
+
+---
+
+**[Tom Lee &amp; Cathie Wood :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=KLmtxISXI8A)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 177 • 💬 174 • ⏱️ 18:21 • 23h ago
 
 ---
 
@@ -292,7 +298,7 @@ Only two crypto-native assets are worth more than $100 billion, and ETH has been
 
 📺 Unchained
 
-👁️ 1K • 👍 24 • 💬 6 • ⏱️ 10:18 • 21h ago
+👁️ 1K • 👍 25 • 💬 6 • ⏱️ 10:18 • 23h ago
 
 ---
 
@@ -302,27 +308,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 173 • 💬 72 • ⏱️ 41:52 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=L8EErn5PeCg)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 2K • 👍 105 • ⏱️ 7:29 • 10h ago
-
----
-
-**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
-
-BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
-
-📺 Big Time Trades
-
-👁️ 4K • 👍 174 • 💬 55 • ⏱️ 29:00 • 1d ago
+👁️ 6K • 👍 173 • 💬 74 • ⏱️ 41:52 • 2d ago
 
 ---
 
@@ -332,7 +318,17 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 130 • ⏱️ 11:49 • 2d ago
+👁️ 49K • 👍 2K • 💬 130 • ⏱️ 11:49 • 2d ago
+
+---
+
+**[BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PSOCiXUE4PQ)**
+
+BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 325 • 💬 206 • ⏱️ 19:50 • 20h ago
 
 ---
 

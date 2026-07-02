@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T13:16:48.611527+00:00'
+updated: '2026-07-02T15:40:48.231840+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 13:16 UTC  
+**Last Updated:** July 02, 2026 at 15:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,6 +108,12 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 2h ago
+
+---
+
 **[China's UBTech launches lifelike humanoid robots for consumers](https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers)**
 
 Robotics maker bets on realism to answer demand for companionship, counseling
@@ -118,43 +124,29 @@ Nikkei Asia • 1d ago
 
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-The Register • 10h ago
+The Register • 13h ago
 
 ---
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
 
-MarketWatch • 2m ago
+Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
----
-
-**[Blattner awards Built Robotics $75M contract for physical AI to help meet energy demand](https://www.therobotreport.com/blattner-awards-built-robotics-75m-contract-meet-energy-demands/)**
-
-Blattner has expanded its partnership with Built Robotics to scale autonomous systems for solar construction.
-
-The Robot Report • 1h ago
+Kraken Robotics • 1h ago
 
 ---
 
-**[AGIBOT debuts A3 humanoid robot in Europe and launches UK Robot-as-a-Service model](https://roboticsandautomationnews.com/2026/07/02/agibot-debuts-a3-humanoid-robot-in-europe-and-launches-uk-robot-as-a-service-model/103018/)**
+**[Robotics CEO: robots need to look nothing like The Terminator](https://www.yahoo.com/news/videos/robotics-ceo-robots-look-nothing-120000354.html)**
 
-AGIBOT, a developer of embodied AI and robotics, hosted the UK AGIBOT Partner Conference (APC) 2026 in London, marking a key step in the company’s European growth strategy and its continued effort …
+Grace Brown, Co-founder and CEO of Andromeda, says most humanoid robots copy sci-fi too closely — building tall, intimidating machines that feel threatening. Her team deliberately went the opposite di...
 
-Robotics & Automation News • 18m ago
-
----
-
-**[Why you should combine robot dexterity with mechanical positioning for complex assembly operations](https://www.therobotreport.com/why-you-should-combine-robot-dexterity-with-mechanical-positioning-for-complex-assembly-operations/)**
-
-Experts are recognizing the importance of mechanical positioning and its impact on the machine’s mobility, range and speed.
-
-The Robot Report • 30m ago
+Yahoo • 3h ago
 
 ---
 
@@ -162,7 +154,13 @@ The Robot Report • 30m ago
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Fortune • 20h ago
+Fortune • 22h ago
+
+---
+
+**[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
+
+WSJ • 3h ago
 
 ---
 
@@ -170,15 +168,15 @@ Fortune • 20h ago
 
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
-CNBC • 12h ago
+CNBC • 14h ago
 
 ---
 
-**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
+**[Top 10 robotics developments of June 2026](https://www.therobotreport.com/top-10-robotic-stories-june-2026/)**
 
-"The way people mount a CCTV camera on a wall, they mounted one on us."
+Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.
 
-Yahoo • 23h ago
+The Robot Report • 23h ago
 
 ---
 
@@ -192,17 +190,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 457K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
-
----
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 2K • 👍 189 • 💬 33 • ⏱️ 12:50 • 19h ago
+👁️ 457K • 👍 14K • 💬 1K • ⏱️ 24:13 • 5d ago
 
 ---
 
@@ -212,7 +200,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 53K • 👍 1K • 💬 438 • ⏱️ 3:59 • 1d ago
+👁️ 59K • 👍 1K • 💬 525 • ⏱️ 3:59 • 1d ago
+
+---
+
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 3K • 👍 200 • 💬 37 • ⏱️ 12:50 • 21h ago
 
 ---
 
@@ -222,17 +220,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 33K • 👍 441 • 💬 22 • ⏱️ 5:08 • 3d ago
-
----
-
-**[This $8000 Robot Just Killed House Chores Forever – Weave Isaac 1 Full Demo](https://www.youtube.com/watch?v=57oW8RTSYMg)**
-
-ai #robot #usa Isaac 1 is a mobile home service robot that travels on a wheeled base while using two robotic arms to interact with ...
-
-📺 OTOFOOTAGE
-
-👁️ 462 • 👍 24 • 💬 6 • ⏱️ 2:03 • 9h ago
+👁️ 34K • 👍 450 • 💬 22 • ⏱️ 5:08 • 4d ago
 
 ---
 
@@ -242,7 +230,7 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 95K • 👍 5K • 💬 2K • ⏱️ 13:18 • 4d ago
+👁️ 96K • 👍 5K • 💬 2K • ⏱️ 13:18 • 4d ago
 
 ---
 
@@ -252,7 +240,7 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 29K • 👍 204 • 💬 102 • ⏱️ 3:05 • 2d ago
+👁️ 32K • 👍 211 • 💬 105 • ⏱️ 3:05 • 2d ago
 
 ---
 
@@ -262,15 +250,17 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 106K • 👍 6K • 💬 330 • ⏱️ 23:57 • 4d ago
+👁️ 110K • 👍 6K • 💬 345 • ⏱️ 23:57 • 5d ago
 
 ---
 
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=uk0wMiiAqTo)**
+**[This $8000 Robot Just Killed House Chores Forever – Weave Isaac 1 Full Demo](https://www.youtube.com/watch?v=57oW8RTSYMg)**
 
-📺 Borunte julie 
+ai #robot #usa Isaac 1 is a mobile home service robot that travels on a wheeled base while using two robotic arms to interact with ...
 
-👁️ 2K • 👍 8 • ⏱️ 0:24 • 10h ago
+📺 OTOFOOTAGE
+
+👁️ 599 • ⏱️ 2:03 • 11h ago
 
 ---
 
@@ -280,7 +270,17 @@ Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark 
 
 📺 The Daily Show
 
-👁️ 174K • 👍 5K • 💬 156 • ⏱️ 28:40 • 3d ago
+👁️ 175K • 👍 5K • 💬 156 • ⏱️ 28:40 • 3d ago
+
+---
+
+**[Ubitech U1 Humanoid Robot Reveal Leaves Fans SHOCKED #news #technology #china #robot](https://www.youtube.com/watch?v=Sy0tj2Z5gA8)**
+
+Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its global launch, and the reaction online is impossible to ...
+
+📺 SXE China
+
+👁️ 36K • 👍 679 • 💬 76 • ⏱️ 0:52 • 2d ago
 
 ---
 
