@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-02T17:49:04.631986+00:00'
+updated: '2026-07-02T19:25:18.451714+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 02, 2026 at 17:49 UTC  
+**Last Updated:** July 02, 2026 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,35 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[OpenAI in talks to give Trump administration a 5% stake in the company, FT reports](https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/)**
+
+OpenAI, the creator of ChatGPT, is reportedly discussing handing the Trump administration a 5% stake in the company amid growing government scrutiny of artificial intelligence firms.
+
+🔗 [CNN](https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl) • 53m ago
+
+---
+
+**[I need just 5 more participants pls help (anonymous)](https://www.reddit.com/r/artificial/comments/1ulqu5a/i_need_just_5_more_participants_pls_help_anonymous/)**
+
+Hi everyone, My name is Raheed Basahel (she/her) and I am currently conducting a postgraduate research study at King’s College London exploring how mood and relationship style may relate to interactions with artificial intelligence (AI), such as chatbots and conversational AI tools. The study has received ethical approval (Reference: LRU-25/26-55725). The first page of the study is the information sheet, please read ! I am looking for participants who: · Are aged 16+ · Have experience using AI systems (e.g. ChatGPT or other conversational AI tools) Participation involves completing an anonymous online survey that takes approximately 10 –15 minutes. The survey includes: · Questions about mood and relationship style · Questions about experiences interacting with AI · One optional open-ended question about general experiences with AI Participation is completely voluntary and anonymous. If you are interested in taking part, please use the link Qualtrics link If you have any questions, feel free to contact me on [raheed.basahel@kcl.ac.uk](mailto:raheed.basahel@kcl.ac.uk) Thank you for considering taking part in this research.
+
+40m ago
+
+---
+
 **[Do you think the future of AI will split into safe vs uncensored versions?](https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/)**
 
 We’re seeing a clear divide right now. Big companies are making models more restricted and heavily aligned for safety. At the same time, open-source and uncensored models are growing fast because many people want fewer limitations and more freedom. I’m curious what others think. Do you believe this split will continue and create two very different types of AI, or will one side eventually dominate?
 
-9h ago
+11h ago
+
+---
+
+**[Is it fair to reduce AI quotas after people have already subscribed?](https://www.reddit.com/r/artificial/comments/1ulm89k/is_it_fair_to_reduce_ai_quotas_after_people_have/)**
+
+When I first subscribed to GitHub Copilot Pro, I remember having a much more generous premium model allowance. Today it's 300 premium requests/month, and different models consume different amounts, so the effective usage is even lower. I understand the economics of AI inference and why providers need to change pricing over time. My question isn't whether AI is expensive to run. What I'm wondering is: Is it fair to significantly reduce the value of an existing subscription after people have already signed up? It feels like the product I subscribed to has gradually become more restrictive. Also, what are people doing now? Are you sticking with Copilot, upgrading, switching to Cursor/Claude/ChatGPT, relying more on local models, or just becoming more selective about which models you use? Curious to hear how others think about this.
+
+3h ago
 
 ---
 
@@ -49,21 +73,15 @@ We’re seeing a clear divide right now. Big companies are making models more re
 
 I’ve been thinking about a weird downside of using AI. Sometimes it makes me feel productive because I get answers quickly, summaries instantly, or a clean draft in seconds. But later I realize I didn’t actually understand the topic better, make a better decision, or move the real work forward that much. It can create the feeling of progress before there is real progress. For example: reading AI summaries instead of thinking through the material generating drafts that still need heavy rewriting asking for too many options and delaying a decision feeling “prepared” because AI explained something clearly spending more time prompting than doing the actual work accepting a polished answer before checking if it is correct AI is still useful for me, but I’m starting to notice that “fast output” and “real progress” are not always the same thing. Have you experienced this? When does AI make you feel productive without actually helping much?
 
-4h ago
+5h ago
 
 ---
 
-**[Would something like this be useful to you?](https://www.reddit.com/r/artificial/comments/1ulmvzi/would_something_like_this_be_useful_to_you/)**
+**[The biggest surprise while building an AI verification system wasn't the AI.](https://www.reddit.com/r/artificial/comments/1ulrs3l/the_biggest_surprise_while_building_an_ai/)**
 
-Hey everyone! I am a secondary student working on an AI-driven, dynamic learning platform for software engineers upskilling to AI/ML roles. I believe something like this would be useful, considering how volatile the landscape of skills needed for these positions. It has two main features, adapted to this specific purpose. Through diagnostics (such as novel problems, asking the user to explain concepts, and other techniques that you might see in a job interview for example) it develops a detailed learner model of the depth of user’s understanding on a topic-by-topic basis, visualised in a colour-coded graph so that the user can aggressively attack their weaknesses and develop proper skill and understanding. World-class content is already publicly available online. Instead of investing 100s of hours into experts authoring new content, the platform curates tried-and-tested content made by the very best in the field to form a curriculum. My impression is that AI/ML roles require ever-changing skills, and this architecture would allow the curriculum to be able to adapt extremely quickly, with comparable or sometimes even higher quality content than what would be available with static curriculums. I thought that this would be a great place to validate the idea, so if you: Have transitioned from software engineering to AI/ML Are currently transitioning Are planning to switch roles Or if you’ve used upskilling services whatsoever I ask: Would something like this be useful to you? Any feedback would be greatly appreciated, thanks in advance.
+Over the past few weeks, I've been building a prototype that checks AI-generated financial claims against source documents. I expected the hardest part to be the language model. It wasn't. The hardest part has been defining what "correct" actually means. For example, imagine two documents in the same credit package: A covenant certificate reports EBITDA as $12.4M The management accounts report $11.9M Neither document is necessarily "wrong." One might exclude restructuring costs. The other might use the covenant definition from the credit agreement. An AI can extract both numbers perfectly and still leave you with the real question: Which definition should be used for this specific decision? That made me realize something: In many business workflows, the challenge isn't generating answers. It's defining the rules that determine which answer is acceptable. The AI isn't always the weakest link. Sometimes our own business processes are. For those of you building AI products: Have you found that defining business rules was harder than building the AI itself? I'd be interested to hear examples from other industries.
 
-1h ago
-
----
-
-**[Are we deadass? 😭](https://www.reddit.com/r/artificial/comments/1ullzrz/are_we_deadass/)**
-
-1h ago
+5m ago
 
 ---
 
@@ -75,11 +93,17 @@ Cross-posting from r/claude for more visibility. LAST UPDATE: I managed to recov
 
 ---
 
+**[ORBIS - Daily Briefing](https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/)**
+
+1h ago
+
+---
+
 **[AI safety testing is getting weird: when does benchmarking become abuse?](https://www.reddit.com/r/artificial/comments/1ulozxq/ai_safety_testing_is_getting_weird_when_does/)**
 
 Reports say Meta contractors posed as teens to test rival chatbots on self-harm, sex, drugs, and eating disorders.
 
-10m ago
+1h ago
 
 ---
 
@@ -87,31 +111,7 @@ Reports say Meta contractors posed as teens to test rival chatbots on self-harm,
 
 Sharing an open-source project I've put ~4.5 months into (disclosure: I'm the maintainer; per the self-advertisement rule I'm keeping the link in the first comment and making this post substantive). It started from two problems I hit daily: AI runs dying on a provider rate limit, and burning thousands of tokens dumping tool/log output into the context window. One endpoint, 237 providers — 90+ of them free. You point any tool or agent at a single OpenAI-compatible endpoint (localhost:20128/v1) and it can reach 237 LLM providers without you rewriting anything. 90+ have free tiers and 11 are free forever (no card), which aggregates to ~1.6B documented free tokens/month — and that's honest, pool-deduped math (we count each shared pool once instead of inflating it; the methodology is public in the repo). There's a one-command setup-* for 13+ coding tools (Claude Code, Codex, Cursor, Cline, Roo, Kilo, Gemini CLI…), so switching your existing setup over takes seconds. Fallback combos — so it never stops mid-task. A "combo" is a ladder of models the router walks automatically: your subscription first, then API keys, then cheap models, then free ones. When a provider returns a 500 or you hit a rate limit, it slides to the next target in milliseconds, mid-request, and your tool never even sees the error. There are 17 routing strategies (priority, weighted, round-robin, cost-optimized, auto/coding:fast…) plus three resilience layers — a per-provider circuit breaker, a per-key cooldown, and a per-model lockout — so one dead key can't take down a whole provider. A 10-engine compression pipeline — the part most routers don't have. Every request flows through a transparent compression pass you can toggle/stack per combo. Instead of one trick, it stacks the best of the open-source ecosystem: RTK filters command/tool output (git diffs, test logs, builds) at 60–90%, Microsoft's LLMLingua-2 does ML semantic pruning, Caveman handles prose, session-dedup strips repeats across turns. Critically, code, URLs and JSON are preserved byte-perfect, and a default-on inflation guard throws the compressed version away and sends the original if compressing would actually grow the prompt — it never makes things worse. On tool-heavy sessions that's ~89% average input-token reduction (an 8k-token git diff becomes a few hundred). Full credit to every upstream project (RTK, Caveman, LLMLingua-2, Troglodita) is in the README. Agent-native — the agent can drive the router itself. There's a built-in MCP server (95 tools across 30 audited scopes, over stdio / SSE / streamable-HTTP), plus A2A (v0.3, JSON-RPC 2.0) support. That means an agent can query providers, switch combos, read its own remaining quota and manage memory through the gateway — not just consume tokens through it. For context on whether it's worth your time: it's grown to ~9.8K GitHub stars, 1,490+ forks and 280+ contributors in ~4.5 months, with 21,000+ automated tests and 1,830+ issues closed — so it's a battle-tested project, not a brand-new experiment. Happy to go deep on the routing engine, the honest free-tier math, or how the compression pipeline decides what's safe to compress. Repo + install in the first comment.
 
-16m ago
-
----
-
-**[the trust layer is the real product](https://www.reddit.com/r/artificial/comments/1uloh5n/the_trust_layer_is_the_real_product/)**
-
-users show up to your AI product already burned. not by you, by the last three tools that were confidently wrong at the worst possible moment. that damage transfers. we learned this the hard way. product demoed great, retention was rough. users tried it once, got something 80% right, never came back. not because 80% isn't useful, because they couldn't tell which 20% was wrong. the fix wasn't better AI. it was being honest about where the AI stops and a human should check. we made that line explicit instead of pretending it didn't exist. retention improved more from that than any model upgrade we shipped. the products that last aren't the ones with the best outputs. they're the ones users trust enough to actually rely on. most teams are optimizing for the wrong one.
-
-29m ago
-
----
-
-**[Agentic AI Has a UX Problem - and Solving It Is How We Bring Agents to Everyone](https://www.reddit.com/r/artificial/comments/1uloctl/agentic_ai_has_a_ux_problem_and_solving_it_is_how/)**
-
-OpenClaw and Hermes Agent show how powerful agentic AI is becoming: tools, memory, workflows, messaging, and real automation. But there’s still a gap: most people don’t want to configure an agent framework, they want AI that helps with everyday tasks safely and clearly. That’s where UI/UX becomes critical. Agentic AI adoption won’t just come from more capability. It’ll come from trust, transparency, approvals, memory control, and interfaces that make powerful systems usable. Wrote about why this matters, and how Row-Bot is approaching it. https://github.com/siddsachar/row-bot
-
-33m ago
-
----
-
-**[Are AI tools actually useful for everyday hobbyists or just hype for professionals?](https://www.reddit.com/r/artificial/comments/1ulnzr2/are_ai_tools_actually_useful_for_everyday/)**
-
-I've been thinking about this a lot lately. There's so much conversation around AI changing industries, replacing jobs, and transforming professional workflows. But what about regular people using it for hobbies and personal projects? I've been experimenting with various AI tools for things like learning new skills, organizing personal projects, and getting feedback on creative work. Sometimes it feels genuinely useful and sometimes it feels like I'm fighting the tool more than it's helping me. The interesting thing is that AI tends to perform best when you already have some baseline knowledge. If you know enough to ask the right questions and evaluate the answers, it becomes incredibly useful. If you're a complete beginner, it can confidently lead you in the wrong direction and you'd never know. This feels like a real gap that doesn't get talked about much. The people who benefit most from AI assistance might already be the most capable, while people who could use the most help are also the least equipped to catch its mistakes.
-
-46m ago
+1h ago
 
 ---
 
@@ -119,17 +119,11 @@ I've been thinking about this a lot lately. There's so much conversation around 
 
 ## Google News: "ai"
 
-**[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)**
-
-WSJ • 23h ago
-
----
-
 **[Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/)**
 
 The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today...
 
-The Official Microsoft Blog • 4h ago
+The Official Microsoft Blog • 5h ago
 
 ---
 
@@ -137,59 +131,65 @@ The Official Microsoft Blog • 4h ago
 
 Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
-**[Watch Microsoft Shifts Strategy on Enterprise AI](https://www.bloomberg.com/news/videos/2026-07-02/microsoft-shifts-strategy-on-enterprise-ai-video)**
+**[Microsoft merging enterprise, consumer Copilot AI chatbots: report (MSFT:NASDAQ)](https://seekingalpha.com/news/4609753-microsoft-merging-enterprise-consumer-copilot-ai-chatbots-report)**
 
-Bloomberg.com • 17h ago
+Microsoft is merging enterprise and consumer Copilot into one app, adding AI coding tools and agents with paid features.
 
----
-
-**[Manufacturing job losses offer lessons for AI white-collar crisis](https://qz.com/manufacturing-collapse-lessons-white-collar-ai-jobs-062926)**
-
-Rust Belt towns lost their jobs decades ago and never recovered. Office workers now face an identical trap from AI
-
-qz.com • 33m ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Autodesk is spending $350 million to get workers comfortable with AI, says CMO Dara Treseder](https://www.businessinsider.com/autodesk-cmo-dara-treseder-cannes-lions-2026-7)**
+**[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)**
 
-Autodesk is investing $350 million in training and tools to help people use AI effectively, said Dara Treseder, the company's CMO.
-
-Business Insider • 22m ago
+WSJ • 1d ago
 
 ---
 
-**[‘Weird Al’ Has Seen Your ‘Weird A.I.’ Jokes and He Is Unamused](https://www.rollingstone.com/music/music-news/weird-al-yankovic-ai-commercial-1235588278/)**
+**[SpaceX Built the Network an AI Device Needs. Now What?](https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/)**
 
-"Weird Al" Yankovic says he turned down a commercial for AI software since he couldn't back it.
+SpaceX controls a satellite broadband network, a direct-to-cell service and an AI company. What it doesn’t have is a consumer device that connects all
 
-Rolling Stone • 8m ago
-
----
-
-**[How A.I. Might Change the Way Doctors Think](https://www.nytimes.com/2026/07/01/magazine/ai-medical-scribes-doctors.html)**
-
-The New York Times • 1d ago
+PYMNTS.com • 27m ago
 
 ---
 
-**[OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report](https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html)**
+**[SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)**
 
-Trump said in June that the U.S. taking an ownership stake in AI giants would be "a beautiful thing" and make American public "partners in this revolution."
+SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
 
-CNBC • 13h ago
+TechCrunch • 1d ago
 
 ---
 
-**[OpenAI ‘in early talks to give 5% stake to US government’](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)**
+**[Meta Stock Falls as AI Cloud Plans Hit an Immediate Snag](https://www.barrons.com/articles/meta-stock-price-softbank-cloud-0f855abd)**
 
-CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report says
+Barron's • 1h ago
 
-The Guardian • 3h ago
+---
+
+**[Meta Is Planning a Cloud Business to Sell AI Computing Power](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)**
+
+Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
+
+TechCrunch • 41m ago
+
+---
+
+**[‘Doctor’ Donald Trump Posts AI Video Dragging Rosie O’Donnell, Whoopi Goldberg, Robert De Niro and More for Suffering From ‘Trump Derangement Syndrome’](https://variety.com/2026/digital/news/dr-trump-fake-ai-video-trump-derangement-syndrome-rosie-odonnell-whoopi-goldberg-robert-de-niro-1236800663/)**
+
+In a fake AI video shared by Trump, he's a doctor treating celebrities for 'Trump Derangement Syndrome' including Rosie O'Donnell, Whoopi Goldberg and Robert De Niro.
+
+Variety • 6h ago
 
 ---
 
@@ -201,19 +201,19 @@ The Guardian • 3h ago
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 548 • 💬 389 • 1d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+⬆️ 549 • 💬 390 • 1d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
 **[AI can't be listed as inventor on patent applications, Japan's top court rules](https://news.ycombinator.com/item?id=48761536)**
 
-⬆️ 231 • 💬 101 • 4h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+⬆️ 280 • 💬 147 • 5h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 
 ---
 
 **[Meta caps internal AI token spending](https://news.ycombinator.com/item?id=48754713)**
 
-⬆️ 144 • 💬 140 • 17h ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+⬆️ 145 • 💬 141 • 19h ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
 
 ---
 
@@ -221,7 +221,7 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, they didn't.)
 
-⬆️ 139 • 💬 49 • 5h ago • [Nieman Lab](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+⬆️ 140 • 💬 52 • 6h ago • [Nieman Lab](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 
 ---
 
@@ -237,7 +237,7 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 For two years I argued the feeling of AI speed had come apart from the fact of it, from watching my own teams. This summer it stopped being an anecdote. A controlled trial measured experienced developers feeling about 20% faster while running about 19% slower. The instrument we steer by reads backward.
 
-⬆️ 75 • 💬 93 • 11h ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
+⬆️ 75 • 💬 94 • 12h ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
 
 ---
 
@@ -267,7 +267,7 @@ Ebay, Amazon, and Etsy are unable to stop the flood of AI-generated seed scams.
 
 **['It's like having a dumb friend': Young San Franciscans hate AI](https://news.ycombinator.com/item?id=48753927)**
 
-⬆️ 45 • 💬 15 • 19h ago • [sfgate.com](https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php)
+⬆️ 45 • 💬 15 • 21h ago • [sfgate.com](https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php)
 
 ---
 
@@ -281,7 +281,7 @@ How To Create Long AI Cartoon Animations in 11 minutes Check out OpenArt Directo
 
 📺 Mira AI
 
-👁️ 5K • ⏱️ 11:13 • 3h ago
+👁️ 5K • ⏱️ 11:13 • 5h ago
 
 ---
 
@@ -291,7 +291,7 @@ How much do you spend per month on AI? Interested in supporting the channel? Bec
 
 📺 Dylan John
 
-👁️ 14K • 👍 486 • 💬 120 • ⏱️ 16:19 • 15h ago
+👁️ 14K • 👍 486 • 💬 120 • ⏱️ 16:19 • 16h ago
 
 ---
 
@@ -301,7 +301,7 @@ Try Higgsfield and create higher-quality AI videos here → https://higgsfield.a
 
 📺 Malva AI
 
-👁️ 1K • 👍 127 • 💬 31 • ⏱️ 11:46 • 6h ago
+👁️ 1K • 👍 127 • 💬 31 • ⏱️ 11:46 • 8h ago
 
 ---
 
@@ -311,7 +311,7 @@ China's AI Breakthrough is NOT What You Think... I'm in Shanghai at the 2026 Glo
 
 📺 Living in China
 
-👁️ 9K • 👍 773 • 💬 45 • ⏱️ 9:38 • 6h ago
+👁️ 9K • 👍 773 • 💬 45 • ⏱️ 9:38 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Sign up with Zapier - https://bit.ly/43JRmMw ----------------------- 🗞️ Sig
 
 📺 GEN
 
-👁️ 55K • 👍 3K • 💬 456 • ⏱️ 15:31 • 17h ago
+👁️ 55K • 👍 3K • 💬 456 • ⏱️ 15:31 • 18h ago
 
 ---
 
@@ -341,7 +341,7 @@ Students Fed Every Biblical Prayer Into Grok AI — What It Decoded About God TE
 
 📺 Curious Explorer
 
-👁️ 46K • 👍 524 • 💬 10 • ⏱️ 31:35 • 2d ago
+👁️ 46K • 👍 524 • 💬 10 • ⏱️ 31:35 • 3d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 176,154 • ❤️ 3,235 • 9h ago
+⬇️ 176,154 • ❤️ 3,235 • 11h ago
 
 ---
 
@@ -645,7 +645,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 71.5k • 🔱 3.7k • 18h ago
+⭐ 71.5k • 🔱 3.7k • 19h ago
 
 ---
 
@@ -655,7 +655,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.3k • 🔱 1.1k • 1h ago
+⭐ 11.3k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -665,7 +665,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.0k • 🔱 771 • 11m ago
+⭐ 6.0k • 🔱 771 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.8k • 🔱 616 • 4h ago
+⭐ 4.8k • 🔱 616 • 6h ago
 
 ---
 
@@ -685,7 +685,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.3k • 🔱 199 • 15h ago
+⭐ 2.3k • 🔱 199 • 16h ago
 
 ---
 
@@ -695,7 +695,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 175 • 13h ago
+⭐ 2.2k • 🔱 175 • 15h ago
 
 ---
 
@@ -705,7 +705,7 @@ Beautiful, AI-native markdown editor and LLM Wiki
 
 `TypeScript` `2nd-brain` `agent-skills` `claude` `codex` `docs`
 
-⭐ 1.8k • 🔱 86 • 1m ago
+⭐ 1.8k • 🔱 86 • 1h ago
 
 ---
 

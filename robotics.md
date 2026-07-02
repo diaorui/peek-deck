@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T17:49:04.649969+00:00'
+updated: '2026-07-02T19:25:18.469543+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 17:49 UTC  
+**Last Updated:** July 02, 2026 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 se
 
 **[Sorry for the spam but he is such a good boy](https://www.reddit.com/r/robotics/comments/1uj16o3/sorry_for_the_spam_but_he_is_such_a_good_boy/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -116,19 +116,49 @@ South China Morning Post • 1d ago
 
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-The Register • 15h ago
+The Register • 16h ago
 
 ---
 
 **[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-MarketWatch • 4h ago
+MarketWatch • 6h ago
+
+---
+
+**[Robot.com Named Official Robotics Partner of LEAP East, Bringing R-ads to Asia for the First Time](https://finance.yahoo.com/technology/ai/articles/robot-com-named-official-robotics-160000883.html)**
+
+Robot.com, the company putting autonomous robots to work in the real world, today announced it has been named the official robotics partner of LEAP East, bringing its fleet of autonomous robots to the show floor in Hong Kong. The company will deploy R-kiwis in front of one of the most-watched technology audiences in the world, leveraging its R-ads platform to engage event attendees and pass out swag. Co-founder and president Judah Longgrear will also be on-site for a speaking session titled "Whe
+
+Yahoo Finance • 3h ago
+
+---
+
+**[The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026](https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html)**
+
+The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Humanoid Robots Are Fashion’s Future Clients. Hansae Is Getting Ready to Dress Them.](https://finance.yahoo.com/technology/articles/humanoid-robots-fashion-future-clients-163809207.html)**
+
+The manufacturer’s “Wear the Future” exhibit presented Hansae’s vision for robot clothing design.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
+
+WSJ • 7h ago
 
 ---
 
@@ -136,21 +166,7 @@ MarketWatch • 4h ago
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
-Kraken Robotics • 3h ago
-
----
-
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
-
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 1d ago
-
----
-
-**[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
-
-WSJ • 5h ago
+Kraken Robotics • 5h ago
 
 ---
 
@@ -158,23 +174,7 @@ WSJ • 5h ago
 
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
-CNBC • 16h ago
-
----
-
-**[Top 10 robotics developments of June 2026](https://www.therobotreport.com/top-10-robotic-stories-june-2026/)**
-
-Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.
-
-The Robot Report • 1d ago
-
----
-
-**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
-
-"The way people mount a CCTV camera on a wall, they mounted one on us."
-
-yahoo.com • 1d ago
+CNBC • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ ai #robot #usa Isaac 1 is a mobile home service robot that travels on a wheeled 
 
 📺 OTOFOOTAGE
 
-👁️ 711 • 👍 30 • 💬 7 • ⏱️ 2:03 • 13h ago
+👁️ 711 • 👍 30 • 💬 7 • ⏱️ 2:03 • 15h ago
 
 ---
 

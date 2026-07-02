@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-02T17:49:04.640582+00:00'
+updated: '2026-07-02T19:25:18.460294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 17:49 UTC  
+**Last Updated:** July 02, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,734.17
+### $61,778.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +2.6%  
-**30d:** -3.9%  
-**90d:** -8.4%  
+**24h:** +2.4%  
+**7d:** +2.4%  
+**30d:** -4.0%  
+**90d:** -8.5%  
 **1y:** -43.8%  
 
 ---
@@ -95,7 +95,7 @@ Sovereign-level accumulation is no longer a theory. It is happening right now. T
 
 This is on the new Pebble time 2 watch - watch face is called "Stratum" if anyone wants to get it.
 
-16h ago
+17h ago
 
 ---
 
@@ -111,13 +111,13 @@ Stack sats amd stay humble, bitcoin will rise from the hashes eventually.
 
 Contrarian investor. I have never have had BTC exposure before. I put in an order after hours (thru an ETF) to go in at about 1.5% of my net worth. Lets see where this goes.
 
-14h ago
+15h ago
 
 ---
 
 **[Imagine finding this at a local shop. Finally, a payment network I can get behind! 🚀₿](https://www.reddit.com/r/Bitcoin/comments/1ul9rgt/imagine_finding_this_at_a_local_shop_finally_a/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 Getting downvoted in another thread for saying this but I'll say it again here. Forcing 1,200+ firms down to ~200 licensed ones cuts out a lot of the sketchy operators that never had proper custody or AML controls to begin with. Platforms that did the work and got licensed: CDC, Kraken, Nexo, eToro, Bitpanda, Revolut Yes, it's annoying short-term if your exchange didn't make it. But anyone who's been through an exchange collapse before probably sees the appeal of forced consolidation toward licensed players
 
-7h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Getting downvoted in another thread for saying this but I'll say it again here. 
 
 Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Three models built on completely different logic, the halving cycle timing, the Mayer Multiple, and a power-law regression, overlap on the same bottom: roughly $45K to $55K in a Sep to Dec 2026 window. By this read it's cheap but not the cheapest, with 2 of 4 bottom signals lit.
 
-🔗 [X (formerly Twitter)](https://x.com/kognosia/status/2072334860484804822) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/kognosia/status/2072334860484804822) • 22h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Thr
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-10h ago
+12h ago
 
 ---
 
@@ -165,45 +165,33 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy’s breaking point](https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point)**
+
+Bitwise said STRC's volatility reflects a late-cycle leverage unwind, with institutions poised to replace Strategy as bitcoin's biggest buyer.
+
+CoinDesk • 2h ago
+
+---
+
+**[Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool](https://finance.yahoo.com/markets/crypto/articles/japanese-financial-giant-sbi-shut-182847871.html)**
+
+SBI Crypto, the subsidiary of the Japanese financial giant, is the latest firm to shutter its Bitcoin mining endeavor.
+
+Yahoo Finance • 56m ago
+
+---
+
 **[Bitcoin firm advertised by Nigel Farage loses 15% of asset value](https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value)**
 
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Guardian • 2h ago
-
----
-
-**[Strategy Abandons ‘Never Sell Bitcoin’ Mantra in Bid to Outlast Crypto Winter](https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f)**
-
-Left with few good options, Michael Saylor’s company “kicked the can down the road” with plans for stock buybacks and bitcoin sales.
-
-WSJ • 2d ago
-
----
-
-**[Strategy Just Unveiled a Financial Overhaul: Bitcoin Sales, Dividends, and Stock Buybacks](https://www.barrons.com/articles/mstr-stock-buybacks-bitcoin-sales-f197e065)**
-
-Barron's • 2d ago
-
----
-
-**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[What Is Bitcoin Halving? How It Works And Its Impact On Bitcoin’s Price](https://www.forbes.com/advisor/uk/investing/cryptocurrency/bitcoin-halving/)**
-
-Forbes • 38m ago
-
----
-
-**[Bitcoin Price Falls Below $60K, But Its Biggest Story Is the Green Revolution in Mining](https://carboncredits.com/bitcoin-price-below-60k-clean-energy-mining-sustainability/)**
-
-Bitcoin falls below $60K, but cleaner mining, renewable energy, and methane capture are reshaping the crypto industry's future.
-
-CarbonCredits.com • 1h ago
+The Guardian • 4h ago
 
 ---
 
@@ -215,19 +203,31 @@ CNBC • 1d ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
-
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
-
-The Motley Fool • 17h ago
-
----
-
 **[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
 
 The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
 
-Fortune • 20h ago
+Fortune • 22h ago
+
+---
+
+**[SAPD: Texans could lose thousands in Bitcoin ATM scam](https://www.mysanantonio.com/news/local/article/bitcoin-atm-scam-texas-22324981.php)**
+
+MySA • 9h ago
+
+---
+
+**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
+
+Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
+
+The Block • 6h ago
+
+---
+
+**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, be
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 396 • 💬 102 • ⏱️ 30:39 • 4h ago
+👁️ 6K • 👍 396 • 💬 102 • ⏱️ 30:39 • 5h ago
 
 ---
 
@@ -331,7 +331,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 2K • 👍 298 • 💬 186 • ⏱️ 10:21 • 3h ago
+👁️ 2K • 👍 298 • 💬 186 • ⏱️ 10:21 • 4h ago
 
 ---
 
@@ -351,7 +351,7 @@ Michael Saylor built his reputation on one message: never sell your Bitcoin. Now
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 330 • ⏱️ 19:40 • 19h ago
+👁️ 29K • 👍 2K • 💬 330 • ⏱️ 19:40 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Con
 
 📺 Benjamin Cowen
 
-👁️ 104K • 👍 6K • 💬 354 • ⏱️ 22:49 • 22h ago
+👁️ 104K • 👍 6K • 💬 354 • ⏱️ 22:49 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Welcome back! In this video, I'm sharing why this is prime time to buy. Bitcoin 
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 244 • 💬 48 • ⏱️ 9:41 • 18h ago
+👁️ 3K • 👍 244 • 💬 48 • ⏱️ 9:41 • 19h ago
 
 ---
 
@@ -411,7 +411,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 654 • 💬 91 • ⏱️ 43:35 • 3h ago
+👁️ 9K • 👍 654 • 💬 91 • ⏱️ 43:35 • 4h ago
 
 ---
 

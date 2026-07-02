@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-02T17:49:04.646709+00:00'
+updated: '2026-07-02T19:25:18.466231+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 17:49 UTC  
+**Last Updated:** July 02, 2026 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,701.88
+### $1,701.34
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +4.9%  
-**7d:** +7.4%  
-**30d:** -6.6%  
-**90d:** -17.9%  
+**7d:** +7.5%  
+**30d:** -6.5%  
+**90d:** -17.8%  
 **1y:** -34.5%  
 
 ---
@@ -68,6 +68,42 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Today I got my 10th Ether 🎉](https://www.reddit.com/r/ethereum/comments/1ulmtsh/today_i_got_my_10th_ether/)**
+
+Just wanted to say thanks to the bear market 🙏 arigato
+
+3h ago
+
+---
+
+**[Daily General Discussion July 02, 2026](https://www.reddit.com/r/ethereum/comments/1ul8pxc/daily_general_discussion_july_02_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+14h ago
+
+---
+
+**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://www.reddit.com/r/ethereum/comments/1ul30a2/ethereum_for_governments_and_institutions_why/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 18h ago
+
+---
+
+**[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
+
+10h ago
+
+---
+
+**[Argot Roadmap Update 2026 (2/2)](https://www.reddit.com/r/ethereum/comments/1ul31c7/argot_roadmap_update_2026_22/)**
+
+This blog post recaps the Argot Collective’s work from the first half of 2026 and provides a detailed outline of priorities and upcoming milestones for the second half of 2026.
+
+🔗 [Argot Collective](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2) • 18h ago
+
+---
+
 **[Daily General Discussion July 01, 2026](https://www.reddit.com/r/ethereum/comments/1ukc641/daily_general_discussion_july_01_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -76,9 +112,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Does anyone else hold crypto but rarely spend it?](https://www.reddit.com/r/ethereum/comments/1ukiooc/does_anyone_else_hold_crypto_but_rarely_spend_it/)**
+**[Ethereum as Protocol Polity: The Case for Founding-Period Funding](https://www.reddit.com/r/ethereum/comments/1ukocj7/ethereum_as_protocol_polity_the_case_for/)**
 
-I've noticed something funny. A lot of people talk about crypto adoption, but most crypto holders I know barely spend any of it. Recently, I started exploring ways people use crypto outside of exchanges. It made me realize that most of us probably don't spend crypto simply because we don't think about it. Not because there aren't options. I'm just curious where people stand on this. Do you actively spend crypto or is it mostly something you hold long-term?
+https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=78293ee07018eb6a236614fb83cd716bf578b572 My latest article on Ethereum institutions and their political economy. Comparing Ethereum to Linux or ICANN is a category error. It's a polity: monetary sovereignty, shared state, jurisdictional independence, internal capital markets, etc. Polities need founding-period investment. Read here: Paragraph: https://paragraph.com/@trent-4/ethereum-as-protocol-polity Twitter: https://x.com/trent_vanepps/status/2072284645283029016 Summary: Ethereum has monetary sovereignty, shared state, network sovereignty, and internal capital markets: structural characteristics that make it a polity, not a digital utility. OSS/Linux/ICANN comparisons misdirect our funding intuitions; polity-style norms are the right frame for how we provision shared resources. Singapore grew GDP per capita 176x over 60 years on the back of aggressive founding-period infrastructure investment (8-12% of GDP in the late 1960s, vs. the 2-5% typical of developed nations). Ethereum's founding period is now: core architecture is still being shaped, compounding returns on investment are highest early, and talent loss is hardest to recover from before bench strength is established. Norms established early persist; the window to set precedents for neutral, scalable, founding-period funding is open most broadly in the years we are in. Other articles in the series: Ethereum Commoditizes Institutional Capabilities Paragraph: https://paragraph.com/@trent-4/ethereum-commoditizes-institutional-capabilities Twitter/X: https://x.com/trent_vanepps/status/2060423297787924708 Succession After Subtraction Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction Twitter/X: https://x.com/trent_vanepps/status/2067593124398989551
+
+1d ago
+
+---
+
+**[Dev Tools Guild June 2026 update | Argot Collective five year funding, Ethereum Foundation new structure, Ethlabs launched](https://www.reddit.com/r/ethereum/comments/1ul1r0t/dev_tools_guild_june_2026_update_argot_collective/)**
+
+**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structure, Ethlabs launched.
+
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-june-2026-update) • 19h ago
+
+---
+
+**[Explore the chain by execution shape](https://www.reddit.com/r/ethereum/comments/1ukm43h/explore_the_chain_by_execution_shape/)**
 
 1d ago
 
@@ -92,63 +142,17 @@ Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a
 
 ---
 
-**[Daily General Discussion June 30, 2026](https://www.reddit.com/r/ethereum/comments/1ujfphl/daily_general_discussion_june_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[What is the Ethereum Glamsterdam Upgrade? Everything You Need to Know](https://www.reddit.com/r/ethereum/comments/1ujo1lo/what_is_the_ethereum_glamsterdam_upgrade/)**
-
-2d ago
-
----
-
-**[When your home bank card continues getting denied, what is the simplest way to pay for hotels or Uber overseas?](https://www.reddit.com/r/ethereum/comments/1ujobxe/when_your_home_bank_card_continues_getting_denied/)**
-
-I frequently experience this when traveling. The transaction is rejected, the card is flagged, and the bank must be contacted from a different time zone. truly draining. began storing cryptocurrency as a backup just for this purpose. discovered a crypto platform, which offers travel and mobility gift cards that can be purchased using cryptocurrency and sent instantaneously to Hotels.com, Uber, and airline platforms. Thus, in the event that my card is blocked, I can obtain a Bitcoin or Ethereum gift card and complete the reservation without having to deal with the bank. Does anyone else use this as a backup plan when traveling? I want to know if this is a frequent workaround or if there are better choices.
-
-2d ago
-
----
-
-**[Daily General Discussion June 29, 2026](https://www.reddit.com/r/ethereum/comments/1uiixw7/daily_general_discussion_june_29_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Daily General Discussion June 28, 2026](https://www.reddit.com/r/ethereum/comments/1uho4u1/daily_general_discussion_june_28_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[Dappnode Home i764 For Sale (Unopened)](https://www.reddit.com/r/ethereum/comments/1uhljd0/dappnode_home_i764_for_sale_unopened/)**
-
-Hi all, I have an unopened Dappnode Home that I purchased in August of 2023 that I ended up not setting up because of internet and power reliability issues in my housing unit. I'm looking to rehome it for a reasonable price, basically just parts without Dappnode premium so it gets put to use. The specs are: CPU: Intel NUC i7 RAM: 64 GB DDR4 Storage: 4 TB NVMe SSD I also posted in Ethstaker and Dappnode Discords. Happy to send pictures, order confirmation, and whatever else you'd like to see. I'm @pompeyplottin on Discord and Twitter as well, thanks.
-
-4d ago
-
----
-
-**[I built a ZK + BLS-based customs clearance prototype on L2 — looking for feedback on the on-chain verification architecture.](https://www.reddit.com/r/ethereum/comments/1uh8lq7/i_built_a_zk_blsbased_customs_clearance_prototype/)**
-
-The problem: Single-authority customs approval is a rational bribery target. One official, one decision, predictable cost. The incentive structure is broken by design. Game theory layer: UBLP changes the incentive structure before any cryptography kicks in: - 2/3 committee threshold required (Byzantine fault tolerant) - Committee members have conflicting interests by design - Any anomalous signing pattern is visible on-chain Corrupting the system is no longer a cost-benefit calculation — it becomes a coordination problem that defeats itself. On-chain verification: L2 smart contract verifies two independent proofs at settlement: BLS12-381 aggregate signature — 2/3 committee threshold SP1 Groth16 ZK proof — document validity + holder privacy Neither alone is sufficient for settlement. The contract independently verifies both before writing the immutable record. L2 → Ethereum mainnet anchoring: Settlement records are written to L2. L2 periodically commits a batch proof to Ethereum mainnet — inheriting Ethereum's security guarantees without paying mainnet gas per document. Each customs clearance is ultimately anchored to Ethereum's consensus. Tampering with a settled record requires breaking both the L2 and Ethereum mainnet — economically infeasible. This is the finality layer: L2 handles throughput, Ethereum handles trust. ZK circuit (SP1 zkVM): Private inputs (never leave the circuit): - ministry_signature — P-256 ECDSA, 64 byte - holder_signature — P-256 ECDSA, 64 byte - holder_pub_key_raw — uncompressed SEC1, 65 byte - document_hash — SHA256("ublp-doc-v1:" + canonicalJson), 32 byte - ministry_pub_key_raw — uncompressed SEC1, 65 byte - document_id_hash — 32 byte Public outputs (verified on L2): - document_hash — document fingerprint - ministry_pub_key_hash — ministry key commitment - document_id_hash — replay protection - holder_pub_key_hash — holder identity proof without identity exposure Architecture: - Ministry signs document (EC P-256 ECDSA) → issues Verifiable Credential - Agent generates ZK proof via SP1 zkVM (Groth16/PLONK) - Independent committee verifies ZK proof, then BLS12-381 threshold signs (2/3) - L2 smart contract verifies both → immutable settlement Open questions I'd love feedback on: Is verifying both BLS + ZK on L2 the right approach, or should BLS verification move inside the ZK circuit? BLS 2/3 threshold — right model for this trust setup? Agent-first flow: committee never sees raw document, only the ZK proof — any attack vectors I'm missing? Domain-separated document hash `SHA256("ublp-doc-v1:" + canonicalJson)` — idiomatic for this use case? Security model — if you spot any attack vectors, trust assumption violations, or cryptographic weaknesses I haven't considered, please flag them. This is a prototype and I'd rather find the holes here than later. This is a prototype — mock ZK in dev mode, real SP1 in prod mode. GitHub: github.com/ekacin/UBLP
-
-5d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+The Motley Fool • 18h ago
+
+---
 
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
@@ -156,31 +160,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://finance.yahoo.com/markets/crypto/articles/crypto-shorts-rekt-bitcoin-ethereum-172919362.html)**
 
-Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
+Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
 
-Decrypt • 20h ago
-
----
-
-**[2 reasons Citi slashed its bitcoin & ethereum price targets](https://finance.yahoo.com/video/2-reasons-citi-slashed-bitcoin-120000465.html)**
-
-Citi (C) cut its 12-month bitcoin (BTC-USD) and ether (ETH-USD) price targets, citing demand and the delayed CLARITY Act.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
-
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
-
-The Motley Fool • 17h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +172,23 @@ The Motley Fool • 17h ago
 
 The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
+
+Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
+
+TradingView • 5h ago
+
+---
+
+**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
+
+Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -200,11 +200,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
+**[Ethereum Institutional wins backing from Standard Chartered and top Ethereum leaders](https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem)**
 
-Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
+Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem.
 
-TradingView • 4h ago
+CoinDesk • 22h ago
+
+---
+
+**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
+
+Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
+
+Decrypt • 22h ago
 
 ---
 
@@ -212,21 +220,7 @@ TradingView • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
-
----
-
-**['An honest, neutral counterpart:' Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit](https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit)**
-
-Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.
-
-The Block • 1d ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-increases-043693f0-639a6dd9509b)**
-
-MarketWatch • 3h ago
+Fortune • 2h ago
 
 ---
 
@@ -240,7 +234,7 @@ In this video I break down the latest Ethereum price analysis and explain why th
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 159 • 💬 6 • ⏱️ 11:42 • 3h ago
+👁️ 2K • 👍 159 • 💬 6 • ⏱️ 11:42 • 5h ago
 
 ---
 
@@ -250,7 +244,7 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 24K • 👍 1K • 💬 130 • ⏱️ 30:21 • 22h ago
+👁️ 24K • 👍 1K • 💬 130 • ⏱️ 30:21 • 1d ago
 
 ---
 
@@ -260,7 +254,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 7K • 👍 483 • 💬 23 • ⏱️ 8:38 • 10h ago
+👁️ 7K • 👍 483 • 💬 23 • ⏱️ 8:38 • 11h ago
 
 ---
 
@@ -270,7 +264,7 @@ BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MST
 
 📺 Big Time Trades
 
-👁️ 2K • 👍 107 • 💬 24 • ⏱️ 20:15 • 20h ago
+👁️ 2K • 👍 107 • 💬 24 • ⏱️ 20:15 • 22h ago
 
 ---
 
@@ -300,7 +294,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 174 • 💬 74 • ⏱️ 41:52 • 2d ago
+👁️ 6K • 👍 174 • 💬 74 • ⏱️ 41:52 • 3d ago
 
 ---
 
@@ -330,7 +324,7 @@ BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 329 • 💬 206 • ⏱️ 19:50 • 22h ago
+👁️ 8K • 👍 329 • 💬 206 • ⏱️ 19:50 • 1d ago
 
 ---
 
