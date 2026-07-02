@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T00:07:45.060351+00:00'
+updated: '2026-07-02T04:39:56.630598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 00:07 UTC  
+**Last Updated:** July 02, 2026 at 04:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Some of you asked for the full pipeline code, so here it is. https://github.com/
 
 Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 servos (50kg torque) and 3x STS3215 servos (30kg torque).
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ In LLMs, Attention Is All You Need is one of those papers everyone agrees is wor
 
 So I want to perform a material characterization study on a material where I need to put it under pressure. I’m in high school and don’t have a mentor or time to ask for access to university labs so I want to make something that can help me get data for cheap. I’m trying to make a linear actuator design and physically build all the parts myself (except for the motor and leadscrew system obviously) but I don’t extensively know how these types of things work. If I was to build something like this (pictures) would there be any significant issues? The cylinder (of which I don’t know what material to make out of) protruding out from the side would be directly connected to the sliding block part of my linear actuator so it pushes that down onto my material. I’m going to be pushing with 50lbs ish max so I’m making the majority of this out of wood. Any tips on making sure it doesn’t get worn out by some slight imperfection over the thousands of trials I’m going to need it for? And also any tips to make it work if something is seriously wrong 😭 And lastly any other tips about doing research studies like this without lab access or a significant mentor would be greatly appreciated.
 
-1d ago
+2d ago
 
 ---
 
@@ -118,31 +118,29 @@ Nikkei Asia • 1d ago
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 22h ago
+South China Morning Post • 1d ago
 
 ---
 
-**[New humanoid robot built for companionship with 90% accuracy in recognizing emotions](https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robot-companionship)**
+**[Humanoid robots for AI companionship](https://www.straitstimes.com/asia/east-asia/chinese-firm-sells-hyper-real-always-loyal-humanoid-robots)**
 
-UBTech unveils the mass-produced UWORLD U1 humanoid, combining biomimetic AI and emotion-aware LLMs for real-world deployment.
+Discover hyper-real humanoid robots designed for unconditional loyalty and AI-driven companionship, targeting loneliness in China. Read more at straitstimes.com. Read more at straitstimes.com.
 
-Interesting Engineering • 15h ago
-
----
-
-**[This $5.5 billion robotics startup built a school for humanoids](https://www.businessinsider.com/apptroniks-humanoid-robots-are-practicing-for-their-first-real-jobs-2026-6)**
-
-At Robot Park in Austin, Apptronik's humanoid robots train for jobs in factories, warehouses, and homes.
-
-Business Insider • 1d ago
+The Straits Times • 17h ago
 
 ---
 
-**[Robotics suppliers could crush the competition in next AI wave](https://www.foxbusiness.com/video/6399956986112)**
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-Spear Invest founder and CIO Ivana Delevska dives into the soaring robotics investment landscape on ‘Making Money.’
+MarketWatch • 5h ago
 
-Fox Business • 1h ago
+---
+
+**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
+
+Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
+
+CNBC • 3h ago
 
 ---
 
@@ -150,7 +148,7 @@ Fox Business • 1h ago
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-Fortune • 7h ago
+Fortune • 11h ago
 
 ---
 
@@ -158,31 +156,31 @@ Fortune • 7h ago
 
 Argus defies traditional robotics by being guided exclusively by mathematical symmetry rather than biological design.
 
-ZME Science • 4h ago
+ZME Science • 9h ago
 
 ---
 
-**[China’s humanoid robots have captivated the world. A rental market is exposing their limits](https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst)**
+**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
 
-When Ai Lin bought his first humanoid robot last year, he wasn’t thinking about how it could make his life easier by doing his dishes. He instead rented it out.
+"The way people mount a CCTV camera on a wall, they mounted one on us."
 
-CNN • 1d ago
-
----
-
-**[New soft robotic heart accurately mimics the complex movements of human valves](https://www.news-medical.net/news/20260701/New-soft-robotic-heart-accurately-mimics-the-complex-movements-of-human-valves.aspx)**
-
-Researchers at UNSW Sydney have developed a fully synthetic soft robotic heart that reproduces the complex movements and internal structures of the human heart, opening the door to better treatments, safer medical devices and more personalized care.
-
-News-Medical • 17h ago
+yahoo.com • 14h ago
 
 ---
 
-**[Warehouse robots move packages without human handoff](https://www.foxnews.com/tech/warehouse-robots-move-packages-without-human-handoff)**
+**[Astronauts Prepare to Exit Station for Robotics Repair Spacewalk](https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-prepare-to-exit-station-for-robotics-repair-spacewalk/)**
 
-Ambi Robotics and Pickle Robot Company integrate trailer unloading and pallet building systems to automate warehouse loading dock operations.
+Live coverage is underway as two NASA astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at about 8:35 a.m. EDT and last roughly six and a half hours.
 
-Fox News • 1d ago
+NASA (.gov) • 1d ago
+
+---
+
+**[Building robotics businesses set to scale](https://www.bvp.com/atlas/seven-lessons-from-founders-building-robotics-businesses-set-to-scale)**
+
+Three founders at share lessons from building and deploying robotics businesses set to scale in the real world.
+
+Bessemer Venture Partners • 2d ago
 
 ---
 
@@ -196,37 +194,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 21K • 👍 459 • 💬 156 • ⏱️ 3:59 • 22h ago
-
----
-
-**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
-
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
-
-📺 OTOFOOTAGE
-
-👁️ 16K • 👍 155 • 💬 73 • ⏱️ 3:05 • 1d ago
-
----
-
-**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
-
-Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
-
-📺 The Daily Show
-
-👁️ 167K • 👍 5K • 💬 154 • ⏱️ 28:40 • 2d ago
-
----
-
-**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
-
-China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
-
-📺 Prime Insights
-
-👁️ 454K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
+👁️ 30K • 👍 675 • 💬 254 • ⏱️ 3:59 • 1d ago
 
 ---
 
@@ -236,25 +204,27 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 895 • 👍 107 • 💬 18 • ⏱️ 12:50 • 6h ago
+👁️ 2K • 👍 163 • 💬 28 • ⏱️ 12:50 • 10h ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=VRmn9bNmG-4)**
+**[UBTECH U1 Official Launch! China&#39;s Most Human-Like AI Robot Finally Revealed](https://www.youtube.com/watch?v=90J5I8woxyo)**
 
-📺 Robot Julie 
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
 
-👁️ 6K • 👍 11 • ⏱️ 0:17 • 22h ago
+📺 OTOFOOTAGE
+
+👁️ 21K • 👍 173 • 💬 86 • ⏱️ 3:05 • 1d ago
 
 ---
 
-**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+**[6 Ultra Realistic Humanoids You Can Actually Buy RIGHT NOW!](https://www.youtube.com/watch?v=RWY4Y1ZsG_k)**
 
-Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+Female humanoid robots are getting so realistic that they are starting to cross the line between machine and human. In this video ...
 
-📺 Got Talent Global
+📺 Evolving AI
 
-👁️ 31K • 👍 419 • 💬 22 • ⏱️ 5:08 • 3d ago
+👁️ 6K • 👍 103 • 💬 1 • ⏱️ 10:47 • 3d ago
 
 ---
 
@@ -264,25 +234,57 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 91K • 👍 5K • 💬 280 • ⏱️ 23:57 • 4d ago
+👁️ 95K • 👍 5K • 💬 296 • ⏱️ 23:57 • 4d ago
 
 ---
 
-**[My new robot just mastered the hexagon wall!😱#robot #robotics #robotdance #ruko #outdoors](https://www.youtube.com/watch?v=X_9KmKtiPZY)**
+**[Grace Kuhlenschmidt Says “Tech Yeah!” to Ordained Robot Monks &amp; AI Mark Zuckerberg | The Daily Show](https://www.youtube.com/watch?v=204P57yI0Ww)**
 
-📺 Smarttoy Ruko
+Grace Kuhlenschmidt keeps us in the loop with the latest tech trends, like Mark Zuckerberg's new AI clone, underwear that tracks ...
 
-👁️ 9K • 👍 59 • 💬 1 • ⏱️ 0:25 • 1d ago
+📺 The Daily Show
+
+👁️ 170K • 👍 5K • 💬 155 • ⏱️ 28:40 • 2d ago
 
 ---
 
-**[China&#39;s AI Snake Robot Detects Power Line Damage Before Blackouts! 🤯⚡](https://www.youtube.com/watch?v=iNYXgjrYn_U)**
+**[China&#39;s U1 Fake Humans Shock the World #robot #humanoid #robotics](https://www.youtube.com/watch?v=tGzUTmzzrN8)**
 
-China's Autonomous Snake Robot Inspects Live High-Voltage Power Lines Without Shutting Off Electricity! ⚡     What if power ...
+China's latest lifelike humanoid robot is built for slow dancing. Shenzhen-based UBTECH Robotics just launched its U1 line of ...
 
-📺 Techie Sapien
+📺 Kalil 4.0
 
-👁️ 30K • 💬 10 • ⏱️ 0:11 • 10h ago
+👁️ 956 • 👍 50 • 💬 8 • ⏱️ 0:56 • 6h ago
+
+---
+
+**[UBTECH U1: The Best Humanoid Robots, As Lifelike As Humans, Are Being Unveiled To The Public](https://www.youtube.com/watch?v=TyD8wVUyBw4)**
+
+The UBTECH U1 series robots are not just a demonstration of engineering capabilities, but an attempt to create a true digital ...
+
+📺 История с Зёзом
+
+👁️ 254 • 👍 7 • ⏱️ 4:28 • 14h ago
+
+---
+
+**[Rocket Lab Robotics](https://www.youtube.com/watch?v=1RF8EylqISc)**
+
+Rocket Lab Robotics brings mission-tested Mars heritage with advanced multi-degree of freedom robotic arms, actuators, and ...
+
+📺 Rocket Lab
+
+👁️ 30K • 👍 2K • 💬 96 • ⏱️ 3:09 • 4d ago
+
+---
+
+**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
+
+China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
+
+📺 Prime Insights
+
+👁️ 456K • 👍 14K • 💬 1K • ⏱️ 24:13 • 4d ago
 
 ---
 
