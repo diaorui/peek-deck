@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-02T08:11:54.311762+00:00'
+updated: '2026-07-02T11:07:44.011319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 08:11 UTC  
+**Last Updated:** July 02, 2026 at 11:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,618.96
+### $1,643.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +2.7%  
-**30d:** -10.7%  
-**90d:** -21.5%  
-**1y:** -37.4%  
+**24h:** +5.0%  
+**7d:** +4.3%  
+**30d:** -9.2%  
+**90d:** -20.2%  
+**1y:** -36.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $195.33B
+**Market Cap:** $198.40B
 Rank #2
 
 **Circulating Supply:** 120,683,347 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--67.3%
+-66.8%
 
 **All-Time Low:** $0.43
-+373659.5%
++379604.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've noticed something funny. A lot of people talk about crypto adoption, but most crypto holders I know barely spend any of it. Recently, I started exploring ways people use crypto outside of exchanges. It made me realize that most of us probably don't spend crypto simply because we don't think about it. Not because there aren't options. I'm just curious where people stand on this. Do you actively spend crypto or is it mostly something you hold long-term?
 
-20h ago
+23h ago
 
 ---
 
@@ -150,63 +150,79 @@ The problem: Single-authority customs approval is a rational bribery target. One
 
 ## Google News: "ethereum"
 
-**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://news.google.com/rss/articles/CBMib0FVX3lxTE5yUFhnMGFLV1pncm15QzRzVE9hWi1WdlN3Y1BmU3cxTmxWZUwyRXEyODI1THdMb3A4YWRSb1pURDYxaF83dTVCNHdJc0dfeXd1bFpFOHZKR1RtTjczSDRVR0xmZmZabzJTREFrTWN3bw?oc=5)**
+**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
-ethereum.org • 16h ago
-
----
-
-**[Ethereum Institutional wins backing from Standard Chartered and top Ethereum leaders](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXhLMFBvRzdITFhfWkloMThjdzZMQXlqa3RtSXRVT1VGZm5TRGlUZjFoQ0dJd00zcm5WU2ZUMWo0MGw0UzJaUFR4TmJoTmN1WWo1WkNUZUJpRGJadWZEaGwtQ2xZNUdZWktYWEJ3SklQejN3RUxYV1ZNXzl4clJtbkVrQ1BST0VUcFNFZjZTWkxULUVMYjdyR3NUUkNlQkZ3a3hMeVZMT1FTNGE2TEtIUThzYWNEQTNrNzkw?oc=5)**
-
-CoinDesk • 10h ago
+ethereum.org • 19h ago
 
 ---
 
-**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0o3bDlueDlKZ2hYQVVJS0JNRkVOZ1ZlRkozVVRVcmpjN3EzYUd3YUREeUNzVGZCbUxHaXdzTzYzSnB0TWJKRUloRWI3dDF2anA3a2hfNF9DNUNONHFoeGtXR1g3QTQycjQ1Wlg0V3J3cmpIbk92OWkzcmRIYzZhM0NSN1M1WTN5N2hKQTNOMFgzWTZZQ1RYRElWMUhLTlFDYlQ1eUtaanItNUU?oc=5)**
+**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
 
-Yahoo Finance • 11h ago
+/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
 
----
-
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGxfRV9mM0laZkxMR09GQ3NkS2NzQThHTVJfWnVkMmcybEFoMGI4ZThVcE9hTW00VFV1Q0drOE5JQktVOW9sam03bGFycUVvdmpLRGlQcVFJRmxGN3diRWRzRjdORnl1YWJ1MDNYVnFIREt0WDYyVk51cEpzZV90RkQ0SWR3eElld1ZSLTU3aF9MekI0V0xNZXN30gGiAUFVX3lxTFAySFduVHFkUWlJaHFzd1prWFpzR0IyMVBCTkJoRUlrZnl5RmhfekdfclZDbDBtbk1scFFSc3phUTVKOFRQdkFucFVwUGdsNk9LSUI4SW00dmRwcGlxRS1PY0dBVmRvS2tfRjd3SmZ2M2hYQVB1T295OHMxUTIyQWREWGcwUHNVRzBETlZnRXBmR25IOXBXM2l1V2ZhU1N4c3FUZw?oc=5)**
-
-Decrypt • 11h ago
+PR Newswire • 22h ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlk1MlR5c1lWZ3owZTFpaG5VOEs5cXFTN0hfc2M1b05aVm1oZnpKcUlvbFRZMUlyZ0JOY1hVVm5oMXl0Znd6TUQxZG4tRTB1VjJ1cDI5cjRWM3RBRUZ3NDhwNjcxWmZlS0Ffbkh2MkJOM3RFWEZKWS1KZXVwVHFlTE1fLUhZVUxVT3IzTldGdTNUVlJjYXEzU0dnMVR3NWdncFhGSXpB?oc=5)**
+**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
 
-Yahoo Finance • 8h ago
+Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
 
----
-
-**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3hiRGZwWDFnNVJWRUdWZW9jc1REZFY2U1BDWVV6OEdnSDVodW1LblpyNHZXdWIzbWF4ZndRZHF2MzRTWHl1Z2M3MVlEdUdCY1NvZWJVVHZLaUZEV0VhcWNCV2dHaUs3SHJWMXluVHRoY000Zl9mRGZONHZzX1BoVUFaZl9GRnd6UTR0eUVFZURpbjhSWUFpTFV5OFZ5RGF5Y1E?oc=5)**
-
-Seeking Alpha • 20h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Tom Lee Explains Why Ethereum’s Price Crash Is Not a Bearish Signal](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2NYMkZ6aVlMOVZIQTU3ZnZ2U3dwY2R3THJ3aC13RS0yQjl2b0pRaTkyYmZUZXBDR3VhQ2xRbEh3UGF4MjZ3OWFIbDMzdVh4bWluZlFTc0NnTHdzS045TzNma0xJcEJXbk9DTUVHS1hrLVVMdm1iaDlWWVZRd1BuUmZ2UUhmb2lMWV9odE1YNS1RdHBrOXB2RkFIYlZTcmgwRVNIdlVJY2VCbnU3OGNLNGkwMjI1eVo5bklkTWpRTkZ0UWtpdnc?oc=5)**
+**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
 
-TradingView • 2d ago
+Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
 
----
-
-**[Current price of Ethereum for July 1, 2026](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hb19pVkVBRy1xMlk1QzVJVHlpZWVLZ0N1TVpvaUN5TGxJMWRnRnA0YVJNZW1yUDNYWHVFQ2NYaDFxR0dXVVB6clNwQ200cVVRbl9FSXdYYVlvX3NvcUFkdU1kWGtmUnpi?oc=5)**
-
-Fortune • 19h ago
+Decrypt • 14h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC recovers from fresh yearly low, ETH and XRP consolidate at key levels](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZGluWUlrNlBtTmRRbjJlQ1dtdkNsM3hhaDd1QkhhU1ZNcFp2TUhPaGpqOFU2b1hsbWxwVktsZkFBMTJTeC1fWjhMUzRvTDJuZVI3VExpLUJWbWl3TTdsRjdMV1pDZzF2SVNrSkY5ZnJSUU54amZ3amF3N2h4TmV6WTB5LUdnbnBON3JWMjFlV2lIMk1GQlozNUJMM1Rha1B3aldsRlBVMTFMbi1GeHRVRVptUHVvZjRlbml3OF9TQ1hHSk4ycUFoODZIWHFzNll2UjF2eUY4MzRtdWs5N0F4MjF4S1pnSGw4MFNhTmRIQ3RRRDdxcVlzbDhjX2taMTJYUHRBQnVBd084Qjg?oc=5)**
+**[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analyst Says 'Market Bottom Is Here'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-spikes-kevin-warsh-flags-015910365.html)**
 
-FXStreet • 1d ago
+Leading cryptocurrencies ticked higher on Wednesday, while stocks retreated, as Federal Reserve Chair Kevin Warsh called inflation “too high.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.91%$59,898.38Ethereum (CRYPTO: ETH) +2.86%$1,609.75XRP (CRYPTO: XRP) +2.12%$1.05Solana (CRYPTO: SOL) +6.46%$71.61Dogecoin (CRYPTO: DOGE) +1.75%$0.07221 Crypto Market Lifts Bitcoin broke past $61,000 in the evening, only to get rejected and drop back to $59,000. With tr
+
+Yahoo Finance • 9h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.70 Million Tokens, and Total Crypto and Total Cash Holdings of $9.8 Billion](https://news.google.com/rss/articles/CBMiogJBVV95cUxNWE9HM1JKYnFWWlAyRElYX29WQktjRFIxdzdiQjFMcVl6QlhVbGs4WDVPNHVzaFJMQ1BSRjN0Q3p0LUlTWGdSd2RmWEJLZDA4aXhuczE0NkliYnJ1OHk4WXMzTTY1S1dkWkEtc1ZRVnkxdkpXSlBRZ0JjYy1OV0tkcXMtdnlFU2FTY09zRnJXRkphWjlXMVZoVUlZeVU5R0RmRlRtWEFVa2p0eXZLeHNaQXZTNi1aTG1VWmVvSHhVaGtqVWlWZzRHX1VqU3FTcGd4c3JTS3dvSTl2NFRyNzVFZVhSS3pGbGVSNlVFbHVBd3ZuSG5jUjlvUnBwc3gwM1NabU9GTk5fbkR4cElCSmtxQktFX282a0hoUmN4eWxWdUNtZw?oc=5)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
 
-PR Newswire • 2d ago
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4608880-citi-cuts-bitcoin-ethereum-price-targets-on-negative-etf-flows)**
+
+Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
+
+Seeking Alpha • 23h ago
+
+---
+
+**[Current price of Ethereum for July 1, 2026](https://fortune.com/article/price-of-ethereum-07-01-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22h ago
+
+---
+
+**[Whales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools](https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/)**
+
+TL;DRWhat HappenedWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools. The update comes from Tokenpost, with the core claim checked against Glassnode exchange flows / IntoTheBlock address statistics. That matters because this is the sort of story that can quickly become noisy if it is…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum Death Cross Sparks $1,000 Crash Fears as Whale Selling and ETF Outflows Mount](https://www.ccn.com/analysis/crypto/ethereum-death-cross-1000-price-crash-whale-selling-etf-outflows/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -214,13 +230,23 @@ PR Newswire • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[I AM GOING ALL IN TODAY ON BITCOIN &amp; ETHEREUM !!!!](https://www.youtube.com/watch?v=BgVQM2MfoD8)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 3K • 👍 263 • 💬 15 • ⏱️ 8:38 • 3h ago
+
+---
+
 **[Institutional Ethereum Launches!🚀Private Yields Incoming!💰Zama CEO INTERVIEW](https://www.youtube.com/watch?v=amMBpwhI4mI)**
 
 Ethereum Institutional has launched as an independent nonprofit focused on accelerating adoption of Ethereum, its layer-2 ...
 
 📺 Paul Barron Network
 
-👁️ 20K • 👍 1K • 💬 118 • ⏱️ 30:21 • 13h ago
+👁️ 21K • 👍 1K • 💬 121 • ⏱️ 30:21 • 16h ago
 
 ---
 
@@ -230,17 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 159 • 💬 90 • ⏱️ 18:21 • 15h ago
-
----
-
-**[BMNR &amp; ETH HOLDERS: WHY WE PUMPED TODAY?](https://www.youtube.com/watch?v=P4bb4vSxGBU)**
-
-BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MSTR & Crypto Bull Market ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 97 • 💬 18 • ⏱️ 20:15 • 11h ago
+👁️ 5K • 👍 165 • 💬 91 • ⏱️ 18:21 • 18h ago
 
 ---
 
@@ -250,7 +266,7 @@ Only two crypto-native assets are worth more than $100 billion, and ETH has been
 
 📺 Unchained
 
-👁️ 1K • 👍 14 • 💬 4 • ⏱️ 10:18 • 16h ago
+👁️ 1K • 👍 18 • 💬 4 • ⏱️ 10:18 • 19h ago
 
 ---
 
@@ -260,17 +276,17 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 329 • ⏱️ 11:44 • 1d ago
+👁️ 52K • 👍 2K • 💬 346 • ⏱️ 11:44 • 1d ago
 
 ---
 
-**[BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PSOCiXUE4PQ)**
+**[BMNR &amp; ETH HOLDERS: WHY WE PUMPED TODAY?](https://www.youtube.com/watch?v=P4bb4vSxGBU)**
 
-BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MSTR & Crypto Bull Market ...
 
-📺 Crypto World
+📺 Big Time Trades
 
-👁️ 6K • 👍 281 • 💬 114 • ⏱️ 19:50 • 13h ago
+👁️ 2K • 👍 100 • 💬 21 • ⏱️ 20:15 • 13h ago
 
 ---
 
@@ -290,27 +306,27 @@ JPMorgan Backs Crypto Clarity Act!! Bitcoin Saylor News + Bull Case For Ethereum
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 129 • ⏱️ 11:49 • 2d ago
+👁️ 48K • 👍 2K • 💬 130 • ⏱️ 11:49 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=L8EErn5PeCg)**
+**[BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PSOCiXUE4PQ)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+BITCOIN SIGNAL CONFIRMED: Price Just Flipped!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Gyan
+📺 Crypto World
 
-👁️ 810 • 👍 77 • ⏱️ 7:29 • 4h ago
+👁️ 7K • 👍 306 • 💬 114 • ⏱️ 19:50 • 16h ago
 
 ---
 
-**[ETH: Diese Indikatoren machen mir jetzt große Sorgen!](https://www.youtube.com/watch?v=-UwQWxngHkU)**
+**[🚨 TOM LEE INTERVIEW: HUGE ETH &amp; BMNR NEWS](https://www.youtube.com/watch?v=txV6L1Dd8j4)**
 
-In dieser Elliott-Wellen-Analyse besprechen wir die aktuelle Situation bei Ethereum sowie die wichtigsten Unterstützungen, ...
+BMNR, ETH & MSTR: Tom Lee Just Dropped a Bomb | Huge Ethereum News & Crypto Market Update MaxFi: ...
 
-📺 HKCM
+📺 Big Time Trades
 
-👁️ 39K • 👍 3K • 💬 128 • ⏱️ 17:42 • 1d ago
+👁️ 4K • 👍 172 • 💬 55 • ⏱️ 29:00 • 1d ago
 
 ---
 
