@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T10:05:07.930492+00:00'
+updated: '2026-07-03T12:26:00.828319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 10:05 UTC  
+**Last Updated:** July 03, 2026 at 12:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,712.43
+### $1,745.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.8%  
-**7d:** +9.9%  
-**30d:** -2.3%  
-**90d:** -18.0%  
-**1y:** -31.1%  
+**24h:** +1.3%  
+**7d:** +10.2%  
+**30d:** -2.1%  
+**90d:** -17.8%  
+**1y:** -30.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $208.40B
+**Market Cap:** $209.14B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.1%
+-65.0%
 
 **All-Time Low:** $0.43
-+398787.7%
++400157.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-17h ago
+20h ago
 
 ---
 
@@ -160,41 +160,17 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, July 2: Prices move up following June jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-2-prices-move-up-following-june-jobs-report-125118367.html)**
+**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-grayscale-ethereum-staking-102746444.html)**
 
-Bitcoin opened at $59,961.80 on Thursday, July 2, 2026. The value of bitcoin rose to $61,270.44 by 8:42 a.m. ET. Ethereum opened at $1,607.88. The price of ethereum moved to $1,656.11 by 8:42 a.m. ET.
+Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
 
 The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
-
-CoinDesk • 1d ago
-
----
-
-**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
-
-Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
-
-/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
-
-PR Newswire • 1d ago
-
----
-
-**[Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)**
-
-The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
 
 CoinDesk • 1d ago
 
@@ -208,17 +184,41 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
+
+Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)**
+
+The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
+
+/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
+
+PR Newswire • 1d ago
+
+---
+
 **[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
 
 Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
 
-TradingView • 20h ago
+TradingView • 22h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-increases-043693f0-639a6dd9509b)**
 
-MarketWatch • 20h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -232,27 +232,17 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 19K • 👍 832 • 💬 52 • ⏱️ 25:16 • 14h ago
+👁️ 20K • 👍 864 • 💬 52 • ⏱️ 25:16 • 17h ago
 
 ---
 
-**[I AM GOING ALL IN TODAY ON BITCOIN &amp; ETHEREUM !!!!](https://www.youtube.com/watch?v=BgVQM2MfoD8)**
+**[This Is HUGE For Ethereum! (ETH Price Prediction)](https://www.youtube.com/watch?v=rZy94nI-BzE)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 The Moon Show
+📺 Cilinix Crypto
 
-👁️ 9K • 👍 527 • 💬 43 • ⏱️ 8:38 • 1d ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
-
-In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 221 • 💬 8 • ⏱️ 11:42 • 20h ago
+👁️ 176 • 👍 12 • 💬 23 • ⏱️ 4:41 • 2h ago
 
 ---
 
@@ -262,17 +252,17 @@ Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watc
 
 📺 BULLRUNNERS
 
-👁️ 993 • 👍 44 • 💬 14 • ⏱️ 12:09 • 10h ago
+👁️ 1K • 👍 48 • 💬 14 • ⏱️ 12:09 • 12h ago
 
 ---
 
-**[Why the ETH Price Has Been Stuck for Five Years](https://www.youtube.com/watch?v=bFwBR6z5HVU)**
+**[I AM GOING ALL IN TODAY ON BITCOIN &amp; ETHEREUM !!!!](https://www.youtube.com/watch?v=BgVQM2MfoD8)**
 
-Only two crypto-native assets are worth more than $100 billion, and ETH has been parked in that tier for five years. Ansgar ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
-📺 Unchained
+📺 The Moon Show
 
-👁️ 2K • 👍 29 • 💬 7 • ⏱️ 10:18 • 1d ago
+👁️ 9K • 👍 531 • 💬 43 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -286,23 +276,13 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 ---
 
-**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
 
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 56K • 👍 2K • 💬 330 • ⏱️ 11:44 • 2d ago
-
----
-
-**[Tom Lee &amp; Cathie Wood :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=KLmtxISXI8A)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 201 • 💬 186 • ⏱️ 18:21 • 1d ago
+👁️ 5K • 👍 223 • 💬 8 • ⏱️ 11:42 • 22h ago
 
 ---
 
@@ -312,17 +292,37 @@ Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources
 
 📺 Ryan Walker
 
-👁️ 26K • 👍 598 • 💬 30 • ⏱️ 5:58 • 1d ago
+👁️ 26K • 👍 621 • 💬 30 • ⏱️ 5:58 • 1d ago
 
 ---
 
-**[Ethereum Rally To Be CUT SHORT? TradeConfident.io](https://www.youtube.com/watch?v=2d_U-7P1JBA)**
+**[Why the ETH Price Has Been Stuck for Five Years](https://www.youtube.com/watch?v=bFwBR6z5HVU)**
 
-JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
+Only two crypto-native assets are worth more than $100 billion, and ETH has been parked in that tier for five years. Ansgar ...
 
-📺 Trade Confident
+📺 Unchained
 
-👁️ 336 • 👍 9 • 💬 4 • ⏱️ 8:59 • 15h ago
+👁️ 2K • 👍 29 • 💬 7 • ⏱️ 10:18 • 1d ago
+
+---
+
+**[Tom Lee &amp; Cathie Wood :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=KLmtxISXI8A)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 198 • 💬 184 • ⏱️ 18:21 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3f1rA5OHicw)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 87 • 💬 5 • ⏱️ 7:46 • 8h ago
 
 ---
 

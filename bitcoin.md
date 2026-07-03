@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T10:05:07.924437+00:00'
+updated: '2026-07-03T12:26:00.822442+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 10:05 UTC  
+**Last Updated:** July 03, 2026 at 12:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,597.45
+### $62,134.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.8%  
-**30d:** -3.4%  
-**90d:** -10.6%  
-**1y:** -42.8%  
+**24h:** +0.0%  
+**7d:** +3.2%  
+**30d:** -3.0%  
+**90d:** -10.2%  
+**1y:** -42.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1236.28B
+**Market Cap:** $1241.33B
 Rank #1
 
-**Circulating Supply:** 20,051,468 BTC
+**Circulating Supply:** 20,051,500 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--51.1%
+-50.9%
 
 **All-Time Low:** $67.81
-+90805.5%
++91202.2%
 
 ---
 
@@ -133,7 +133,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 Getting downvoted in another thread for saying this but I'll say it again here. Forcing 1,200+ firms down to ~200 licensed ones cuts out a lot of the sketchy operators that never had proper custody or AML controls to begin with. Platforms that did the work and got licensed: CDC, Kraken, Nexo, eToro, Bitpanda, Revolut Yes, it's annoying short-term if your exchange didn't make it. But anyone who's been through an exchange collapse before probably sees the appeal of forced consolidation toward licensed players
 
-23h ago
+1d ago
 
 ---
 
@@ -161,7 +161,61 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Guardian • 13h ago
+The Guardian • 16h ago
+
+---
+
+**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
+
+Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
+
+The Block • 23h ago
+
+---
+
+**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
+
+Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
+
+Fox Business • 1h ago
+
+---
+
+**[Bitcoin (BTC) price bounces as memory, semiconductor stock trade starts to cool](https://www.coindesk.com/markets/2026/07/03/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changing-investor-focus)**
+
+After dominating markets in 2026, AI-tied memory and semiconductor stocks are losing momentum, raising the question whether capital will shift back into bitcoin.
+
+CoinDesk • 1h ago
+
+---
+
+**[Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak](https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak)**
+
+Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.
+
+CoinDesk • 4h ago
+
+---
+
+**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
+
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+
+CoinDesk • 1h ago
+
+---
+
+**[#CryptoCornerSeason2 Powered By Binance | Cryptocurrencies Decline in June The Key Reasons: - Institutional sell-off - $4.5 bn net outflow from US Spot Bitcoin ETFs #CNBCTV18Market Manisha Gupta #Bitcoin #Ethereum #Solana Binance](https://www.linkedin.com/posts/cnbc-tv18_cryptocornerseason2-cnbctv18market-bitcoin-activity-7478776994512568320-MgNF)**
+
+#CryptoCornerSeason2 Powered By Binance | Cryptocurrencies Decline in June
+
+The Key Reasons:
+- Institutional sell-off
+- $4.5 bn net outflow from US Spot Bitcoin ETFs
+
+#CNBCTV18Market Manisha Gupta  #Bitcoin #Ethereum #Solana Binance
+
+LinkedIn • 36m ago
 
 ---
 
@@ -173,65 +227,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin's Brutal Year Has a Washington Problem: CLARITY Act Odds and BTC Are Falling Together](https://finance.yahoo.com/markets/crypto/articles/bitcoins-brutal-washington-problem-clarity-083838583.html)**
-
-Bitcoin has fallen 28% as CLARITY Act approval odds dropped from 74% to 40%. Senate vote uncertainty is emerging as a potential headwind for ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
-
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
-
-CoinDesk • 2h ago
-
----
-
 **[Trump made more than $1 billion from his cryptocurrencies. Many who invested in them weren’t so lucky.](https://www.nbcnews.com/tech/crypto/trump-crypto-bitcoin-memecoin-losses-disclosure-rcna352707)**
 
 About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
 
-NBC News • 14h ago
+NBC News • 16h ago
 
 ---
 
-**[Bitcoin Falls to 21-Month Low on Strategy, Rate-Hike Fears](https://www.bloomberg.com/news/articles/2026-07-01/bitcoin-falls-to-21-month-low-on-strategy-rate-hike-fears)**
+**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
 
-Bloomberg.com • 2d ago
+The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
 
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
-
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
-
-The Motley Fool • 1d ago
-
----
-
-**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
-
-Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
-
-The Block • 21h ago
-
----
-
-**[Bitcoin's summer swoon creates unique trade in Strategy](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)**
-
-Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.
-
-CNBC • 1d ago
-
----
-
-**[MiCA-Compliant And Truly Yours: The Lightning Debit Card Changing Bitcoin Payments In Europe](https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc)**
-
-From Euro IBAN deposits and auto-DCA to self-custody withdrawals, this bootstrapped Bitcoin neobank delivers the cypherpunk dream with full regulatory compliance in the MiCA era.
-
-Bitcoin Magazine • 14h ago
+Fortune • 1d ago
 
 ---
 
@@ -257,7 +265,7 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
 
-⬆️ 3 • 💬 1 • 5d ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+⬆️ 3 • 💬 1 • 6d ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
 
 ---
 
@@ -297,7 +305,7 @@ How soon we forget that cryptocurrencies were given life by the instability of f
 
 When a coding agent explores a large codebase, is text search enough — or does it need fast-light structural (tree-sitter) or authoritative semantic (LSP) navigation? Evidence, not opinion.
 
-⬆️ 3 • 💬 2 • 2d ago • [is grep enough?](https://entelligentsia.github.io/is-grep-enough/)
+⬆️ 3 • 💬 2 • 3d ago • [is grep enough?](https://entelligentsia.github.io/is-grep-enough/)
 
 ---
 
@@ -319,7 +327,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 218 • ⏱️ 20:33 • 12h ago
+👁️ 33K • 👍 3K • 💬 232 • ⏱️ 20:33 • 14h ago
 
 ---
 
@@ -329,7 +337,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 587 • 💬 355 • ⏱️ 10:21 • 19h ago
+👁️ 10K • 👍 602 • 💬 371 • ⏱️ 10:21 • 21h ago
 
 ---
 
@@ -339,7 +347,7 @@ Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, be
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 517 • 💬 256 • ⏱️ 30:39 • 20h ago
+👁️ 12K • 👍 524 • 💬 276 • ⏱️ 30:39 • 22h ago
 
 ---
 
@@ -349,17 +357,17 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 1K • 💬 72 • ⏱️ 3:08 • 6h ago
+👁️ 22K • 👍 2K • 💬 91 • ⏱️ 3:08 • 8h ago
 
 ---
 
-**[Were We Wrong About Michael Saylor?](https://www.youtube.com/watch?v=2nojwPLc8T0)**
+**[INSIDER BOMBSHELL: 40 Countries Just Confirmed They&#39;re Buying Bitcoin!! | EP 1539](https://www.youtube.com/watch?v=uPoQKLRyU18)**
 
-Michael Saylor built his reputation on one message: never sell your Bitcoin. Now Strategy has authorized a Bitcoin monetization ...
+In the depths of this bear market something has fundamentally changed ... the worlds finance is set to buy bitcoin in mass!
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 423 • ⏱️ 19:40 • 1d ago
+👁️ 7K • 👍 374 • 💬 37 • ⏱️ 1:27:31 • 17h ago
 
 ---
 
@@ -369,7 +377,7 @@ Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Con
 
 📺 Benjamin Cowen
 
-👁️ 121K • 👍 6K • 💬 373 • ⏱️ 22:49 • 1d ago
+👁️ 123K • 👍 6K • 💬 375 • ⏱️ 22:49 • 1d ago
 
 ---
 
@@ -379,7 +387,27 @@ Crypto looks to be entering a new phase, with signs that long-term accumulation 
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 22 • ⏱️ 27:44 • 19h ago
+👁️ 18K • 👍 1K • 💬 23 • ⏱️ 27:44 • 21h ago
+
+---
+
+**[Were We Wrong About Michael Saylor?](https://www.youtube.com/watch?v=2nojwPLc8T0)**
+
+Michael Saylor built his reputation on one message: never sell your Bitcoin. Now Strategy has authorized a Bitcoin monetization ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 3K • 💬 425 • ⏱️ 19:40 • 1d ago
+
+---
+
+**[TRIGGERED: Did Bitcoin Bulls Just Confirm A Relief Rally To $69,000? [Double Digit Gains]](https://www.youtube.com/watch?v=3ExClpIVu90)**
+
+In today's youtube video, Kyledoops outlines whether a swing failure pattern has been confirmed and a price rally up to $69000 is ...
+
+📺 Crypto Banter
+
+👁️ 7K • 👍 762 • 💬 13 • ⏱️ 42:46 • 4h ago
 
 ---
 
@@ -389,27 +417,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 795 • 💬 246 • ⏱️ 57:46 • 1d ago
-
----
-
-**[bitcoin is dead and nobody wants to admit it](https://www.youtube.com/watch?v=btzMOI6kpeQ)**
-
-see you soon :) Wanna mine bitcoin? Do it with cheap pacific northwest hydro electricity + tax write-downs and get 1 month of ...
-
-📺 BTC Isla
-
-👁️ 6K • 👍 732 • 💬 241 • ⏱️ 12:27 • 18h ago
-
----
-
-**[Every major BTC sentiment indicator says the same thing.](https://www.youtube.com/watch?v=GoIyv4bGoQE)**
-
-The crypto headlines may be focused on Donald Trump's latest financial disclosures, but the bigger story could reshape the future ...
-
-📺 Yahoo Finance
-
-👁️ 13K • 👍 536 • 💬 167 • ⏱️ 14:51 • 1d ago
+👁️ 14K • 👍 781 • 💬 250 • ⏱️ 57:46 • 1d ago
 
 ---
 
