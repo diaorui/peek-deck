@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T16:24:34.329251+00:00'
+updated: '2026-07-03T17:57:03.373066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 16:24 UTC  
+**Last Updated:** July 03, 2026 at 17:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +2.2%  
-**7d:** +10.1%  
-**30d:** -2.2%  
-**90d:** -17.8%  
-**1y:** -31.0%  
+**7d:** +10.4%  
+**30d:** -1.9%  
+**90d:** -17.6%  
+**1y:** -30.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $208.81B
+**Market Cap:** $209.61B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.0%
+-64.9%
 
 **All-Time Low:** $0.43
-+399573.0%
++401055.7%
 
 ---
 
@@ -146,11 +146,27 @@ Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a
 
 ## Google News: "ethereum"
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Spike as Weak Jobs Data Dims Rate-Hike Odds: Analyst Says 'Markets Are Just Waking Up'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-spike-030216419.html)**
+
+Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
+
+Yahoo Finance • 14h ago
+
+---
+
 **[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
 
 As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
+
+FXStreet • 14h ago
 
 ---
 
@@ -160,51 +176,11 @@ ethereum.org • 2d ago
 
 ---
 
-**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
-
-Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitmine Immersion (BMNR) Close To Reaching 5% Ethereum Ownership Milestone](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-close-reaching-134153434.html)**
-
-Bitmine Immersion Technologies Inc. (NYSE:BMNR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 19, Bitmine Immersion Technologies Inc. (NYSE:BMNR) announced that it has declared a cash dividend of $0.1056 per share for holders of its 9.5% Series A Preferred Stock. The dividend will be paid in cash on July 10, […]
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
-
-Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://www.tradingview.com/news/cryptonews:c1b1c0ded094b:0-ethereum-news-grayscale-s-ethereum-staking-etf-just-had-its-cfo-resign/)**
-
-Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
-
-TradingView • 5h ago
-
----
-
 **[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
 
 The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
 
-CoinDesk • 1d ago
-
----
-
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
-
-Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
-
-Decrypt • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -216,11 +192,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)**
+**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
 
-The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
+Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
 
-CoinDesk • 2d ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitmine Immersion (BMNR) Close To Reaching 5% Ethereum Ownership Milestone](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-close-reaching-134153434.html)**
+
+Bitmine Immersion Technologies Inc. (NYSE:BMNR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 19, Bitmine Immersion Technologies Inc. (NYSE:BMNR) announced that it has declared a cash dividend of $0.1056 per share for holders of its 9.5% Series A Preferred Stock. The dividend will be paid in cash on July 10, […]
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
+
+Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://www.tradingview.com/news/cryptonews:c1b1c0ded094b:0-ethereum-news-grayscale-s-ethereum-staking-etf-just-had-its-cfo-resign/)**
+
+Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
+
+TradingView • 7h ago
 
 ---
 
@@ -228,13 +228,43 @@ CoinDesk • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETHEREUM &amp; SOLANA ANOTHER BOTTOM SIGNAL JUST FLASHED](https://www.youtube.com/watch?v=0lkyEssRrrA)**
+
+Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
+
+📺 Tyler Hill Crypto
+
+👁️ 763 • 👍 84 • 💬 16 • ⏱️ 16:24 • 1h ago
+
+---
+
 **[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
 
 Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
 
 📺 Paul Barron Network
 
-👁️ 21K • 👍 897 • 💬 55 • ⏱️ 25:16 • 21h ago
+👁️ 22K • 👍 935 • 💬 70 • ⏱️ 25:16 • 22h ago
+
+---
+
+**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
+
+Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 203 • 💬 4 • ⏱️ 1:03:50 • 2h ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
+
+In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
+
+📺 More Crypto Online
+
+👁️ 677 • 👍 68 • 💬 6 • ⏱️ 9:09 • 2h ago
 
 ---
 
@@ -244,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 307 • 👍 21 • 💬 6 • ⏱️ 4:41 • 6h ago
+👁️ 470 • 👍 24 • 💬 6 • ⏱️ 4:41 • 8h ago
 
 ---
 
@@ -254,17 +284,27 @@ Brian from Santiment joined to review the crypto market metrics for Bitcoin, Eth
 
 📺 Thinking Crypto
 
-👁️ 579 • 👍 76 • 💬 19 • ⏱️ 26:00 • 4h ago
+👁️ 1K • 👍 111 • 💬 34 • ⏱️ 26:00 • 5h ago
 
 ---
 
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
+**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
 
-In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
+Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
 
-📺 More Crypto Online
+📺 Prof G Markets
 
-👁️ 5K • 👍 230 • 💬 8 • ⏱️ 11:42 • 1d ago
+👁️ 560 • 👍 9 • 💬 2 • ⏱️ 0:58 • 56m ago
+
+---
+
+**[Ethereum Price News: Buyers’ Commitment Will Be Tested at $1.8K](https://www.youtube.com/watch?v=Zpuz8YYOzYc)**
+
+Ethereum faces a critical test at the $1800 resistance level. Despite a brief bounce and renewed ETF interest, depressed on-chain ...
+
+📺 FXEmpire
+
+👁️ 32 • 👍 2 • ⏱️ 4:59 • 4h ago
 
 ---
 
@@ -274,7 +314,7 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 1K • 💬 114 • ⏱️ 30:21 • 1d ago
+👁️ 28K • 👍 1K • 💬 115 • ⏱️ 30:21 • 1d ago
 
 ---
 
@@ -284,47 +324,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 533 • 💬 43 • ⏱️ 8:38 • 1d ago
-
----
-
-**[$401 Million Just Left Ethereum ETFs In One Streak While XRP Pulled In Money Every Single Day!](https://www.youtube.com/watch?v=18ouqLe6VqM)**
-
-Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watch The Great Reset Deep-Dive Here: ...
-
-📺 BULLRUNNERS
-
-👁️ 1K • 👍 51 • 💬 14 • ⏱️ 12:09 • 16h ago
-
----
-
-**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
-
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 2K • 💬 303 • ⏱️ 11:44 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3f1rA5OHicw)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 94 • 💬 5 • ⏱️ 7:46 • 12h ago
-
----
-
-**[Claude AI trading bot + 22 Hours = 0.858 Ethereum (Actual results)](https://www.youtube.com/watch?v=DMqPLd8NtRg)**
-
-Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources & Guide : https://tr.ee/mlf9pB Tired of ...
-
-📺 Ryan Walker
-
-👁️ 27K • 👍 642 • 💬 42 • ⏱️ 5:58 • 2d ago
+👁️ 10K • 👍 539 • 💬 44 • ⏱️ 8:38 • 1d ago
 
 ---
 

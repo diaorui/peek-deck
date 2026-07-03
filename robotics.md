@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-03T16:24:34.332459+00:00'
+updated: '2026-07-03T17:57:03.375773+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 03, 2026 at 16:24 UTC  
+**Last Updated:** July 03, 2026 at 17:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-15h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ Sergey Levine talks about an experiment where 33 labs shared robot data. The res
 
 Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 11h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 13h ago
 
 ---
 
@@ -60,13 +60,13 @@ Looks promising. It'll be interesting to see how well it performs once it's oper
 
 I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
-9h ago
+11h ago
 
 ---
 
 **[Clumsy robot taking over the sidewalk](https://www.reddit.com/r/robotics/comments/1ulonuz/clumsy_robot_taking_over_the_sidewalk/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find
 
 Researchers created a breakthrough technology that allows robots to feel and recreate touch just like humans. Using muscle-like air chambers, machines can now instantly mimic sensations ranging from soft tissues to rock-hard surfaces with 89% accuracy, revolutionizing robotic surgery and teleoperation. Credits: https://www.nature.com/articles/s44182-026-00102-2
 
-🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 22h ago
+🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 23h ago
 
 ---
 
@@ -120,21 +120,31 @@ The Register • 1d ago
 
 ---
 
-**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
-
-Reuters • 1d ago
-
----
-
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
 South China Morning Post • 2d ago
 
 ---
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-MarketWatch • 20h ago
+Reuters • 1d ago
+
+---
+
+**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
+
+Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
+
+New Atlas • 23h ago
+
+---
+
+**[Serve Robotics (SERV) Appoints Andreas Lieber To Board After Sarfraz Maredia Resigns](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-serv-appoints-andreas-161202581.html)**
+
+Serve Robotics (NasdaqCM:SERV) appointed Andreas Lieber to its Board of Directors. The appointment follows the resignation of former board member Sarfraz Maredia. Lieber brings experience from logistics, e-commerce, and mobility companies including Shippo and Postmates. Serve Robotics focuses on autonomous sidewalk delivery, a segment that sits at the intersection of robotics, logistics, and last mile fulfillment. As retailers and delivery platforms keep exploring ways to manage costs and...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -142,15 +152,7 @@ MarketWatch • 20h ago
 
 Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.View on euronews
 
-Yahoo News Singapore • 2h ago
-
----
-
-**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
-
-Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
-
-TribLIVE.com • 19h ago
+Yahoo News Singapore • 3h ago
 
 ---
 
@@ -160,27 +162,25 @@ WSJ • 1d ago
 
 ---
 
+**[Kraken Robotics Announces Closing Of Strategic Acquisition Of Covelya Group Limited](https://oceannews.com/news/milestones/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited/)**
+
+Kraken Robotics Inc. (Kraken), has announced the closing of its previously announced acquisition of Covelya Group Limited (Covelya Group), for approximately $615 million, subject to closing adjustments (the Acquisition).
+
+Ocean News & Technology • 22h ago
+
+---
+
 **[Sense and Sensibility: How Multimodal Inputs Help Robotics Get a Grip](https://www.eetimes.com/grapevine/sense-and-sensibility-how-multimodal-inputs-help-robotics-get-a-grip/)**
 
 Robots can see and think, but without touch they’re clumsy. Hear how capacitive sensing gives humanoids grip, slip detection, and finesse.
 
-EE Times • 23h ago
+EE Times • 1d ago
 
 ---
 
-**[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
-
-Kraken Robotics • 1d ago
-
----
-
-**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 5K • 👍 276 • 💬 25 • ⏱️ 10:19 • 1d ago
+👁️ 5K • 👍 331 • 💬 28 • ⏱️ 10:19 • 1d ago
 
 ---
 
@@ -204,27 +204,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 121K • 👍 3K • 💬 1K • ⏱️ 3:59 • 2d ago
-
----
-
-**[My Robot almost got me Kicked out of Uni](https://www.youtube.com/watch?v=gqnW9qBCHnM)**
-
-Try Brilliant's tutor for free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay ...
-
-📺 Tazer
-
-👁️ 113K • 👍 6K • 💬 402 • ⏱️ 29:03 • 2d ago
-
----
-
-**[UWORLD Ultra-Bionic Humanoid Robot U1 Pro — Up Close at the Global Launch Event](https://www.youtube.com/watch?v=wdf3BORclRA)**
-
-Get an up-close look at the UWORLD ultra-bionic humanoid robot and discover its remarkable detail and lifelike presence.
-
-📺 UBTECH Robotics
-
-👁️ 377 • 👍 42 • 💬 4 • ⏱️ 1:02 • 4h ago
+👁️ 129K • 👍 3K • 💬 1K • ⏱️ 3:59 • 2d ago
 
 ---
 
@@ -234,17 +214,17 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 4K • 👍 264 • 💬 54 • ⏱️ 12:50 • 1d ago
+👁️ 4K • 👍 286 • 💬 59 • ⏱️ 12:50 • 2d ago
 
 ---
 
-**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
 
-Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
 
-📺 Vanessa Wingårdh
+📺 DeathTempler
 
-👁️ 97K • 👍 5K • 💬 2K • ⏱️ 13:18 • 5d ago
+👁️ 342 • 👍 57 • 💬 15 • ⏱️ 0:29 • 18m ago
 
 ---
 
@@ -264,7 +244,25 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 41K • 👍 522 • 💬 23 • ⏱️ 5:08 • 5d ago
+👁️ 44K • 👍 540 • 💬 23 • ⏱️ 5:08 • 5d ago
+
+---
+
+**[Cycle testing our 2026 Robot at the Southern a California State Championship #STEM #robotics](https://www.youtube.com/watch?v=h7HrTNOZDbg)**
+
+📺 FRC Team 3255 - SuperNURDs
+
+👁️ 24K • 👍 70 • 💬 1 • ⏱️ 0:06 • 1d ago
+
+---
+
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
+
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
+
+📺 brenpoly
+
+👁️ 142K • 👍 9K • 💬 451 • ⏱️ 23:57 • 6d ago
 
 ---
 
@@ -274,17 +272,17 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 51K • 👍 271 • 💬 135 • ⏱️ 3:05 • 3d ago
+👁️ 53K • 👍 275 • 💬 141 • ⏱️ 3:05 • 3d ago
 
 ---
 
-**[China&#39;s New $12,140 Female Robot Just Hit The Market](https://www.youtube.com/watch?v=SA8zcLRuBGw)**
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
 
-China's humanoid robot industry just crossed a line most people thought was still decades away. From Gia Jia's viral social reflex ...
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
 
-📺 Tech In Check
+📺 Vanessa Wingårdh
 
-👁️ 9K • 👍 329 • 💬 11 • ⏱️ 25:05 • 5d ago
+👁️ 98K • 👍 5K • 💬 2K • ⏱️ 13:18 • 5d ago
 
 ---
 
