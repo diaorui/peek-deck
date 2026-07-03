@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-02T23:37:36.583249+00:00'
+updated: '2026-07-03T03:20:02.657684+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 02, 2026 at 23:37 UTC  
+**Last Updated:** July 03, 2026 at 03:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Some of you asked for the full pipeline code, so here it is. https://github.com/
 
 Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 servos (50kg torque) and 3x STS3215 servos (30kg torque).
 
-2d ago
+3d ago
 
 ---
 
@@ -108,35 +108,35 @@ So I want to perform a material characterization study on a material where I nee
 
 ## Google News: "robotics"
 
+**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
+
+Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
+
+New Atlas • 8h ago
+
+---
+
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 7h ago
+
+---
+
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-The Register • 21h ago
+The Register • 1d ago
 
 ---
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 14h ago
-
----
-
-**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
-
-Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
-
-New Atlas • 4h ago
-
----
-
-**[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
-
-WSJ • 11h ago
+Reuters • 17h ago
 
 ---
 
@@ -144,7 +144,21 @@ WSJ • 11h ago
 
 The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
+
+WSJ • 15h ago
+
+---
+
+**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
+
+Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
+
+CNBC • 1d ago
 
 ---
 
@@ -156,25 +170,11 @@ Fortune • 1d ago
 
 ---
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
-
-MarketWatch • 10h ago
-
----
-
-**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
-
-Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
-
-CNBC • 22h ago
-
----
-
 **[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
-Kraken Robotics • 9h ago
+Kraken Robotics • 13h ago
 
 ---
 
@@ -188,17 +188,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 78K • 👍 2K • 💬 705 • ⏱️ 3:59 • 1d ago
-
----
-
-**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
-
-The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
-
-📺 DPCcars
-
-👁️ 4K • 👍 56 • 💬 32 • ⏱️ 2:50 • 8h ago
+👁️ 89K • 👍 2K • 💬 817 • ⏱️ 3:59 • 2d ago
 
 ---
 
@@ -212,13 +202,23 @@ China has built female robots so realistic that people who meet them in person g
 
 ---
 
+**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
+
+The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
+
+📺 DPCcars
+
+👁️ 12K • 👍 81 • 💬 39 • ⏱️ 2:50 • 12h ago
+
+---
+
 **[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
 Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
 
 📺 51 Drones
 
-👁️ 3K • 👍 212 • 💬 41 • ⏱️ 12:50 • 1d ago
+👁️ 3K • 👍 223 • 💬 43 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 36K • 👍 474 • 💬 23 • ⏱️ 5:08 • 4d ago
+👁️ 37K • 👍 484 • 💬 23 • ⏱️ 5:08 • 4d ago
 
 ---
 
@@ -238,17 +238,7 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 39K • 👍 232 • 💬 116 • ⏱️ 3:05 • 2d ago
-
----
-
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
-
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
-
-📺 brenpoly
-
-👁️ 121K • 👍 7K • 💬 385 • ⏱️ 23:57 • 5d ago
+👁️ 42K • 👍 240 • 💬 126 • ⏱️ 3:05 • 2d ago
 
 ---
 
@@ -258,17 +248,7 @@ Prototype concept sequel: after the first robot bun test, her friend sits in the
 
 📺 Prototype Leaked
 
-👁️ 383 • 👍 14 • ⏱️ 0:16 • 1h ago
-
----
-
-**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
-
-Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
-
-📺 Vanessa Wingårdh
-
-👁️ 96K • 👍 5K • 💬 2K • ⏱️ 13:18 • 4d ago
+👁️ 3K • 👍 62 • ⏱️ 0:16 • 5h ago
 
 ---
 
@@ -278,7 +258,27 @@ This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, a
 
 📺 Armourdesia Military Hardware
 
-👁️ 52K • 👍 2K • 💬 276 • ⏱️ 0:31 • 15h ago
+👁️ 67K • 👍 2K • 💬 339 • ⏱️ 0:31 • 19h ago
+
+---
+
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+
+📺 Vanessa Wingårdh
+
+👁️ 97K • 👍 5K • 💬 2K • ⏱️ 13:18 • 4d ago
+
+---
+
+**[UBTECH U1: The Best Humanoid Robots, As Lifelike As Humans, Are Being Unveiled To The Public](https://www.youtube.com/watch?v=TyD8wVUyBw4)**
+
+The UBTECH U1 series robots are not just a demonstration of engineering capabilities, but an attempt to create a true digital ...
+
+📺 История с Зёзом
+
+👁️ 1K • 👍 23 • ⏱️ 4:28 • 1d ago
 
 ---
 

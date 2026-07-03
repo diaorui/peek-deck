@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-02T23:37:36.581043+00:00'
+updated: '2026-07-03T03:20:02.654450+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 02, 2026 at 23:37 UTC  
+**Last Updated:** July 03, 2026 at 03:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,701.34
+### $1,703.40
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.9%  
-**7d:** +7.6%  
-**30d:** -6.4%  
-**90d:** -17.7%  
-**1y:** -34.4%  
+**24h:** +4.5%  
+**7d:** +8.3%  
+**30d:** -3.7%  
+**90d:** -19.1%  
+**1y:** -32.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $204.94B
+**Market Cap:** $205.37B
 Rank #2
 
-**Circulating Supply:** 120,683,347 ETH
+**Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.7%
+-65.6%
 
 **All-Time Low:** $0.43
-+392096.9%
++393048.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-7h ago
+11h ago
 
 ---
 
@@ -80,19 +80,19 @@ Just wanted to say thanks to the bear market 🙏 arigato
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://www.reddit.com/r/ethereum/comments/1ul30a2/ethereum_for_governments_and_institutions_why/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 1d ago
 
 ---
 
 **[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
 
-15h ago
+18h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This blog post recaps the Argot Collective’s work from the first half of 2026 and provides a detailed outline of priorities and upcoming milestones for the second half of 2026.
 
-🔗 [Argot Collective](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2) • 23h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2) • 1d ago
 
 ---
 
@@ -150,7 +150,7 @@ Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a
 
 As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
 
-The Motley Fool • 22h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -160,11 +160,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analyst Says 'Market Bottom Is Here'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-spikes-kevin-warsh-flags-015910365.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Spike as Weak Jobs Data Dims Rate-Hike Odds: Analyst Says 'Markets Are Just Waking Up'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-spike-030216419.html)**
 
-Leading cryptocurrencies ticked higher on Wednesday, while stocks retreated, as Federal Reserve Chair Kevin Warsh called inflation “too high.” Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.91%$59,898.38Ethereum (CRYPTO: ETH) +2.86%$1,609.75XRP (CRYPTO: XRP) +2.12%$1.05Solana (CRYPTO: SOL) +6.46%$71.61Dogecoin (CRYPTO: DOGE) +1.75%$0.07221 Crypto Market Lifts Bitcoin broke past $61,000 in the evening, only to get rejected and drop back to $59,000. With tr
+Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 18m ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto Presale Is Selling Out Fast – Is This The 2026 Breakout](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-presale-is-selling-out-fast-is-this-the-2026-breakout-1036295689)**
+
+DUBAI, United Arab Emirates, July  02, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just closed another crypto presale round in hour...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -192,19 +200,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[EthLabs launches as Ethereum undergoes its biggest leadership transition in years](https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years)**
+**[Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)**
 
-In this week's edition of The Protocol Newsletter, we’re diving into the creation of EthLabs, and why it was launched during a period of transition for the ecosystem.
+The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
 
 CoinDesk • 1d ago
-
----
-
-**[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
-
-Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
-
-TradingView • 10h ago
 
 ---
 
@@ -216,11 +216,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4608880-citi-cuts-bitcoin-ethereum-price-targets-on-negative-etf-flows)**
+**[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
 
-Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
+Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
 
-Seeking Alpha • 1d ago
+TradingView • 13h ago
 
 ---
 
@@ -234,7 +234,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 8K • 👍 561 • 💬 43 • ⏱️ 25:16 • 4h ago
+👁️ 14K • 👍 722 • 💬 48 • ⏱️ 25:16 • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 8K • 👍 520 • 💬 41 • ⏱️ 8:38 • 15h ago
+👁️ 9K • 👍 522 • 💬 43 • ⏱️ 8:38 • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ In this video I break down the latest Ethereum price analysis and explain why th
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 8 • ⏱️ 11:42 • 9h ago
+👁️ 4K • 👍 205 • 💬 8 • ⏱️ 11:42 • 13h ago
 
 ---
 
@@ -268,13 +268,13 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 ---
 
-**[Ethereum Rally To Be CUT SHORT? TradeConfident.io](https://www.youtube.com/watch?v=2d_U-7P1JBA)**
+**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
 
-JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
 
-📺 Trade Confident
+📺 Altcoin Daily
 
-👁️ 189 • 👍 6 • 💬 3 • ⏱️ 8:59 • 5h ago
+👁️ 55K • 👍 2K • 💬 330 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -284,27 +284,27 @@ BITCOIN BREAKOUT: FIRST TARGET HIT (this is next)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 166 • 💬 119 • ⏱️ 24:21 • 3h ago
+👁️ 3K • 👍 234 • 💬 169 • ⏱️ 24:21 • 6h ago
 
 ---
 
-**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+**[Ethereum Rally To Be CUT SHORT? TradeConfident.io](https://www.youtube.com/watch?v=2d_U-7P1JBA)**
 
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
 
-📺 Altcoin Daily
+📺 Trade Confident
 
-👁️ 55K • 👍 2K • 💬 335 • ⏱️ 11:44 • 2d ago
+👁️ 261 • 👍 8 • 💬 3 • ⏱️ 8:59 • 8h ago
 
 ---
 
-**[Why the ETH Price Has Been Stuck for Five Years](https://www.youtube.com/watch?v=bFwBR6z5HVU)**
+**[$401 Million Just Left Ethereum ETFs In One Streak While XRP Pulled In Money Every Single Day!](https://www.youtube.com/watch?v=18ouqLe6VqM)**
 
-Only two crypto-native assets are worth more than $100 billion, and ETH has been parked in that tier for five years. Ansgar ...
+Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watch The Great Reset Deep-Dive Here: ...
 
-📺 Unchained
+📺 BULLRUNNERS
 
-👁️ 2K • 👍 28 • 💬 7 • ⏱️ 10:18 • 1d ago
+👁️ 428 • 👍 31 • 💬 3 • ⏱️ 12:09 • 3h ago
 
 ---
 
@@ -314,17 +314,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 181 • 💬 184 • ⏱️ 18:21 • 1d ago
+👁️ 6K • 👍 187 • 💬 186 • ⏱️ 18:21 • 1d ago
 
 ---
 
-**[BMNR &amp; ETH HOLDERS: WHY WE PUMPED TODAY?](https://www.youtube.com/watch?v=P4bb4vSxGBU)**
+**[Five Ethereum Researchers Just Left—Here&#39;s Why](https://www.youtube.com/watch?v=UoF2xYd47WY)**
 
-BMNR & ETH: WHY WE PUMPED TODAY? What is next? | Tom Lee, Ethereum, Bitcoin, MSTR & Crypto Bull Market ...
+Get 10% DEPOSIT BONUS and up to $10055 USDT BONUS by signing up to BTCC with the BTCC YouTube EXCLUSIVE LINK ...
 
-📺 Big Time Trades
+📺 BTCC
 
-👁️ 2K • 👍 110 • 💬 24 • ⏱️ 20:15 • 1d ago
+👁️ 53 • ⏱️ 3:00 • 15h ago
 
 ---
 
