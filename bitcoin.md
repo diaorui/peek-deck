@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T14:42:02.017997+00:00'
+updated: '2026-07-03T16:24:34.323241+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 14:42 UTC  
+**Last Updated:** July 03, 2026 at 16:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,106.92
+### $62,080.63
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.6%  
-**7d:** +3.3%  
-**30d:** -3.0%  
+**7d:** +3.4%  
+**30d:** -2.9%  
 **90d:** -10.1%  
 **1y:** -42.5%  
 
@@ -77,79 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[40 countries commit to buying bitcoin in some fashion for their national balance sheets](https://www.reddit.com/r/Bitcoin/comments/1ukpusj/40_countries_commit_to_buying_bitcoin_in_some/)**
+**[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
 
-Sovereign-level accumulation is no longer a theory. It is happening right now. They're buying bitcoin not because they love it. They're accumulating because they're scared of not owning any. All of them against a hard cap of 21,000,000 coins. They know that the countries buying first, win the most.
-
-1d ago
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 40m ago
 
 ---
 
-**[Feeling the Signal Bottom is in....](https://www.reddit.com/r/Bitcoin/comments/1ukpbvp/feeling_the_signal_bottom_is_in/)**
+**[Ireland has now clawed back 1,500 BTC from the dealer who famously lost his keys, and 9 of his 12 wallets are still untouched](https://www.reddit.com/r/Bitcoin/comments/1umb6r8/ireland_has_now_clawed_back_1500_btc_from_the/)**
 
-1d ago
+Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
 
----
-
-**[Bitcoin smart watch face - updates with price and current fees every few minutes](https://www.reddit.com/r/Bitcoin/comments/1ul4bc0/bitcoin_smart_watch_face_updates_with_price_and/)**
-
-This is on the new Pebble time 2 watch - watch face is called "Stratum" if anyone wants to get it.
-
-1d ago
+5h ago
 
 ---
 
-**[Even buttcoiners realize that Bitcoin won't die](https://www.reddit.com/r/Bitcoin/comments/1ukqfu3/even_buttcoiners_realize_that_bitcoin_wont_die/)**
+**[If bitcoin is dead, i wll have 18 mill bitcoin](https://www.reddit.com/r/Bitcoin/comments/1um2404/if_bitcoin_is_dead_i_wll_have_18_mill_bitcoin/)**
 
-Stack sats amd stay humble, bitcoin will rise from the hashes eventually.
+but someone might be faster than me
 
-1d ago
-
----
-
-**[Never held BTC before](https://www.reddit.com/r/Bitcoin/comments/1ul73re/never_held_btc_before/)**
-
-Contrarian investor. I have never have had BTC exposure before. I put in an order after hours (thru an ETF) to go in at about 1.5% of my net worth. Lets see where this goes.
-
-1d ago
+13h ago
 
 ---
 
-**[Imagine finding this at a local shop. Finally, a payment network I can get behind! 🚀₿](https://www.reddit.com/r/Bitcoin/comments/1ul9rgt/imagine_finding_this_at_a_local_shop_finally_a/)**
+**[Update from 1 year ago](https://www.reddit.com/r/Bitcoin/comments/1umgxj4/update_from_1_year_ago/)**
 
-1d ago
+For context read last post: 28M I didn’t do it. Too many red flags screaming in my head about being smart about being stupid. New parameters: - got engaged - wedding next year - single family home after that About 220k to my name. Fiancé about the same. Wedding is paid for already with $ in a UST. Finances are sound (essential expenses paid for, no debt, 6mo emergency fund, etc). Currently have about 5k in btc exposure with a very slow DCA of about $200/m (not much but it’s something). Now here we are at 60k. About 50% down from where I was previously considering a large allocation change. This is now the time I think I will start to make some lump sum purchases. Fortune favors the bold. Godspeed.
 
----
-
-**[Gentlemen it has been a pleasure.](https://www.reddit.com/r/Bitcoin/comments/1ukay6n/gentlemen_it_has_been_a_pleasure/)**
-
-A catastrophic never seen before crash in the history of any market just happened in Bitcorn. Almost a 60% decline. The world has no money left, it will never recover. This is it, Bitcorn death #485 will be the one. After buying the last top at $120k and expecting Bitcorn to hit $10 million dollars off a Facebook ad the CEO of Bitcorn posted, I'm done. Hashrate near ATH, more users than ever, blah blah blah, none of it matters. The price went down 60%. This definitely means the network will quit working because I, ME, didn't make money off of it. Thanks for this great journey, I'm only rebuying it it goes back to the moon.
-
-2d ago
+1h ago
 
 ---
 
-**[Unpopular opinion, the MiCA deadline is actually good for the market long term.](https://www.reddit.com/r/Bitcoin/comments/1ule4hm/unpopular_opinion_the_mica_deadline_is_actually/)**
+**[River just updated their app to help the paper hands out there through the weakest bear cycle ever](https://www.reddit.com/r/Bitcoin/comments/1ulopsg/river_just_updated_their_app_to_help_the_paper/)**
 
-Getting downvoted in another thread for saying this but I'll say it again here. Forcing 1,200+ firms down to ~200 licensed ones cuts out a lot of the sketchy operators that never had proper custody or AML controls to begin with. Platforms that did the work and got licensed: CDC, Kraken, Nexo, eToro, Bitpanda, Revolut Yes, it's annoying short-term if your exchange didn't make it. But anyone who's been through an exchange collapse before probably sees the appeal of forced consolidation toward licensed players
-
-1d ago
+22h ago
 
 ---
 
-**[Three models (halving cycle, Mayer Multiple, power-law) all point to a BTC bottom near $45–55K in late 2026](https://www.reddit.com/r/Bitcoin/comments/1ukydj0/three_models_halving_cycle_mayer_multiple/)**
+**[📊 LATEST:](https://www.reddit.com/r/Bitcoin/comments/1uma282/latest/)**
 
-Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Three models built on completely different logic, the halving cycle timing, the Mayer Multiple, and a power-law regression, overlap on the same bottom: roughly $45K to $55K in a Sep to Dec 2026 window. By this read it's cheap but not the cheapest, with 2 of 4 bottom signals lit.
+📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
 
-🔗 [X (formerly Twitter)](https://x.com/kognosia/status/2072334860484804822) • 1d ago
+6h ago
 
 ---
 
-**[⚡ Lightning Thursday! July 02, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1ulay3q/lightning_thursday_july_02_2026_explore_the/)**
+**[Don’t forget](https://www.reddit.com/r/Bitcoin/comments/1ulovuh/dont_forget/)**
 
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+22h ago
 
-1d ago
+---
+
+**[Thinking of going all in .](https://www.reddit.com/r/Bitcoin/comments/1ulrbqa/thinking_of_going_all_in/)**
+
+I know I will probably get a lot of stick for this . As is the way with everything in life . However I’m thinking of going all in on btc . When I say all in , I mean putting the little cash I currently have saved else where in to bitcoin . I actually brought in last week at what I believe is a good price of 44,000 gbp ( about 57 k dollars ) . I only hold one other investment , which is the Nasdaq , however I genuinely believe we have a great asset here . Right now I get there is a lot of fear regarding btc . But I believe the 4 year cycle is real . It’s following it right now down to the bone . After everyone said last year it’s done . It’s holding true . Has anyone else made it a 100 percent of their portfolio ? If so , for what reason ? Peace !
+
+21h ago
+
+---
+
+**[Was that the bottom?](https://www.reddit.com/r/Bitcoin/comments/1ulx424/was_that_the_bottom/)**
+
+Kinda wish I had bought more…..
+
+17h ago
+
+---
+
+**[Quantum and changing consensus segment - Bitcoin Optech Newsletter #412](https://www.reddit.com/r/Bitcoin/comments/1umczn9/quantum_and_changing_consensus_segment_bitcoin/)**
+
+Bitcoin Optech newsletter #412 is here: links to benchmarking around SLH-DSA STARK aggregation points to discussion of a paper on constructing hybrid strongly-unforgeable signature schemes examines lattice-based PQ signatures describes a proposal for public key recovery for P2MR EC leaves summarizes a thread on aligning privacy incentives in P2MR describes and alternative to banning all 64-byte transactions summarizes a proposal to trigger EC disabling with a NUMS point spend or hashrate majority Optech Newsletter #412 Podcast https://bitcoinops.org/en/newsletters/2026/07/03/ Remix7531 posted to the Bitcoin-Dev mailing list his benchmark results for aggregating many SPHINCS signature verifications into a single STARK proof... https://bitcoinops.org/en/newsletters/2026/07/03/#benchmarking-slh-dsa-stark-aggregation Pieter Wuille posted to Delving Bitcoin about a EuroCrypt 2026 paper on constructing hybrid strongly-unforgeable signature schemes from a schnorr-like scheme and an arbitrary post-quantum signature scheme... https://bitcoinops.org/en/newsletters/2026/07/03/#bird-of-prey-2-bop-2-non-malleable-schnorr-and-pq-signatures Nikita Karetnikov posted to Delving Bitcoin and cross-posted to the Bitcoin-Dev mailing list about a Blockstream blog post comparing post-quantum signature families, where lattice-based schemes appear favorable on size and functionality... https://bitcoinops.org/en/newsletters/2026/07/03/#lattice-based-signatures starius posted to Delving Bitcoin a proposal to add a recoverable elliptic curve (EC) key leaf type to BIP360 (P2MR). The idea is to recover the EC public key from the schnorr signature... https://bitcoinops.org/en/newsletters/2026/07/03/#public-key-recovery-for-p2mr-ec-leaves Conduition posted to the Bitcoin-Dev mailing list a proposed BIP360 (P2MR) change to require every P2MR control block to include at least one 32-byte merkle authentication path (i.e. ban depth-zero script trees)... https://bitcoinops.org/en/newsletters/2026/07/03/#aligning-privacy-incentives-in-p2mr Jeremy Rubin posted to the Bitcoin-Dev mailing list a draft BIP proposing an alternative to the consensus cleanup (BIP54) rule making 64-byte witness-stripped transactions consensus-invalid... https://bitcoinops.org/en/newsletters/2026/07/03/#prohibit-merkle-internal-node-preimages-that-encode-minimal-64-byte-transactions Pieter Wuille wrote to the Bitcoin-Dev mailing list about codifying the expected future disabling of elliptic curve (EC) spending paths within new post-quantum output types such as BIP360 (P2MR) and P2TRv2... https://bitcoinops.org/en/newsletters/2026/07/03/#triggering-ec-disabling-with-a-nums-point-spend-or-hashrate-majority Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
+
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/03/) • 4h ago
 
 ---
 
@@ -157,11 +155,19 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
+**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
+
+Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
+
+Fox Business • 5h ago
+
+---
+
 **[US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows](https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows)**
 
 BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
@@ -169,37 +175,15 @@ The Block • 7h ago
 
 Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
+**[Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-draw-222m-snapping-114634374.html)**
 
-Reuters • 2d ago
+Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
 
----
-
-**[Bitcoin firm advertised by Nigel Farage loses 15% of asset value](https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value)**
-
-Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
-
-The Guardian • 18h ago
-
----
-
-**[Bitcoin ETFs Just Had Their Worst Month Ever. Here's Why I'm Not Worried About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-just-had-worst-141200170.html)**
-
-Bitcoin ETF inflows are likely to return as soon as the price of Bitcoin stabilizes.
-
-Yahoo Finance • 30m ago
-
----
-
-**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
-
-Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
-
-Fox Business • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -207,7 +191,23 @@ Fox Business • 3h ago
 
 About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
 
-NBC News • 18h ago
+NBC News • 20h ago
+
+---
+
+**[Ross Gerber Says Trump's $1 Billion Crypto Windfall Is Why 'Bitcoin Went Down and Isn't Going Anywhere'](https://finance.yahoo.com/markets/crypto/articles/ross-gerber-says-trumps-1-082541506.html)**
+
+Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s (CRYPTO: BTC) ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through cryptocurrency ventures, which include World Liberty Financial and the Official Trump (CRYPTO: TRUMP) memecoin. The CEO of Gerber Kawasaki Wealth and Investment Management said that the “grift is real,” and
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Trump Reveals More Than $100 Million In Bitcoin Investments](https://www.forbes.com/sites/danalexander/2026/07/01/trump-reveals-more-than-100-million-in-bitcoin-investments/)**
+
+The president's public company made headlines last summer when it announced plans to invest in bitcoin. Hardly anyone knew Trump was also building a stash of his own.
+
+Forbes • 2d ago
 
 ---
 
@@ -215,21 +215,21 @@ NBC News • 18h ago
 
 CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
 
-CNBC • 18h ago
+CNBC • 20h ago
 
 ---
 
 **[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
+**[Bitcoin firm advertised by Nigel Farage loses 15% of asset value](https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value)**
 
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Motley Fool • 1d ago
+The Guardian • 20h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 216 • ⏱️ 20:33 • 17h ago
+👁️ 35K • 👍 3K • 💬 216 • ⏱️ 20:33 • 18h ago
 
 ---
 
@@ -327,7 +327,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 2K • 💬 99 • ⏱️ 3:08 • 10h ago
+👁️ 27K • 👍 2K • 💬 99 • ⏱️ 3:08 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 618 • 💬 383 • ⏱️ 10:21 • 23h ago
+👁️ 10K • 👍 618 • 💬 383 • ⏱️ 10:21 • 1d ago
 
 ---
 
@@ -347,7 +347,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 288 • 💬 22 • ⏱️ 9:15 • 6h ago
+👁️ 3K • 👍 288 • 💬 22 • ⏱️ 9:15 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ In the depths of this bear market something has fundamentally changed ... the wo
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 385 • 💬 116 • ⏱️ 1:27:31 • 19h ago
+👁️ 8K • 👍 385 • 💬 116 • ⏱️ 1:27:31 • 21h ago
 
 ---
 
@@ -407,7 +407,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 783 • 💬 262 • ⏱️ 57:46 • 1d ago
+👁️ 14K • 👍 783 • 💬 262 • ⏱️ 57:46 • 2d ago
 
 ---
 

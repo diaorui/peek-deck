@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-03T14:42:02.027204+00:00'
+updated: '2026-07-03T16:24:34.332459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 03, 2026 at 14:42 UTC  
+**Last Updated:** July 03, 2026 at 16:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ Sergey Levine talks about an experiment where 33 labs shared robot data. The res
 
 Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 9h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 11h ago
 
 ---
 
@@ -60,13 +60,13 @@ Looks promising. It'll be interesting to see how well it performs once it's oper
 
 I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
-8h ago
+9h ago
 
 ---
 
 **[Clumsy robot taking over the sidewalk](https://www.reddit.com/r/robotics/comments/1ulonuz/clumsy_robot_taking_over_the_sidewalk/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find
 
 Researchers created a breakthrough technology that allows robots to feel and recreate touch just like humans. Using muscle-like air chambers, machines can now instantly mimic sensations ranging from soft tissues to rock-hard surfaces with 89% accuracy, revolutionizing robotic surgery and teleoperation. Credits: https://www.nature.com/articles/s44182-026-00102-2
 
-🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 20h ago
+🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 22h ago
 
 ---
 
@@ -134,7 +134,7 @@ South China Morning Post • 2d ago
 
 **[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-MarketWatch • 18h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -142,7 +142,7 @@ MarketWatch • 18h ago
 
 Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.View on euronews
 
-Yahoo News Singapore • 41m ago
+Yahoo News Singapore • 2h ago
 
 ---
 
@@ -150,7 +150,7 @@ Yahoo News Singapore • 41m ago
 
 Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
 
-TribLIVE.com • 18h ago
+TribLIVE.com • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ WSJ • 1d ago
 
 Robots can see and think, but without touch they’re clumsy. Hear how capacitive sensing gives humanoids grip, slip detection, and finesse.
 
-EE Times • 21h ago
+EE Times • 23h ago
 
 ---
 
@@ -176,11 +176,11 @@ Kraken Robotics • 1d ago
 
 ---
 
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
 
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
+Your weekly selection of awesome robot videos
 
-Fortune • 1d ago
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 5K • 👍 276 • 💬 25 • ⏱️ 10:19 • 23h ago
+👁️ 5K • 👍 276 • 💬 25 • ⏱️ 10:19 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ Get an up-close look at the UWORLD ultra-bionic humanoid robot and discover its 
 
 📺 UBTECH Robotics
 
-👁️ 377 • 👍 42 • 💬 4 • ⏱️ 1:02 • 2h ago
+👁️ 377 • 👍 42 • 💬 4 • ⏱️ 1:02 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ China has built female robots so realistic that people who meet them in person g
 
 📺 Prime Insights
 
-👁️ 460K • 👍 14K • 💬 1K • ⏱️ 24:13 • 5d ago
+👁️ 460K • 👍 14K • 💬 1K • ⏱️ 24:13 • 6d ago
 
 ---
 
@@ -264,7 +264,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 41K • 👍 522 • 💬 23 • ⏱️ 5:08 • 4d ago
+👁️ 41K • 👍 522 • 💬 23 • ⏱️ 5:08 • 5d ago
 
 ---
 

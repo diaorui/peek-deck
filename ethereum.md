@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T14:42:02.023970+00:00'
+updated: '2026-07-03T16:24:34.329251+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 14:42 UTC  
+**Last Updated:** July 03, 2026 at 16:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +10.2%  
-**30d:** -2.0%  
-**90d:** -17.7%  
-**1y:** -30.9%  
+**24h:** +2.2%  
+**7d:** +10.1%  
+**30d:** -2.2%  
+**90d:** -17.8%  
+**1y:** -31.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-22h ago
+1d ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=78293ee07018eb6a236614fb83cd716bf578b572 My latest article on Ethereum institutions and their political economy. Comparing Ethereum to Linux or ICANN is a category error. It's a polity: monetary sovereignty, shared state, jurisdictional independence, internal capital markets, etc. Polities need founding-period investment. Read here: Paragraph: https://paragraph.com/@trent-4/ethereum-as-protocol-polity Twitter: https://x.com/trent_vanepps/status/2072284645283029016 Summary: Ethereum has monetary sovereignty, shared state, network sovereignty, and internal capital markets: structural characteristics that make it a polity, not a digital utility. OSS/Linux/ICANN comparisons misdirect our funding intuitions; polity-style norms are the right frame for how we provision shared resources. Singapore grew GDP per capita 176x over 60 years on the back of aggressive founding-period infrastructure investment (8-12% of GDP in the late 1960s, vs. the 2-5% typical of developed nations). Ethereum's founding period is now: core architecture is still being shaped, compounding returns on investment are highest early, and talent loss is hardest to recover from before bench strength is established. Norms established early persist; the window to set precedents for neutral, scalable, founding-period funding is open most broadly in the years we are in. Other articles in the series: Ethereum Commoditizes Institutional Capabilities Paragraph: https://paragraph.com/@trent-4/ethereum-commoditizes-institutional-capabilities Twitter/X: https://x.com/trent_vanepps/status/2060423297787924708 Succession After Subtraction Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction Twitter/X: https://x.com/trent_vanepps/status/2067593124398989551
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,23 @@ The Motley Fool • 1d ago
 
 **[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
+
+---
+
+**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
+
+Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitmine Immersion (BMNR) Close To Reaching 5% Ethereum Ownership Milestone](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-close-reaching-134153434.html)**
+
+Bitmine Immersion Technologies Inc. (NYSE:BMNR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 19, Bitmine Immersion Technologies Inc. (NYSE:BMNR) announced that it has declared a cash dividend of $0.1056 per share for holders of its 9.5% Series A Preferred Stock. The dividend will be paid in cash on July 10, […]
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -164,15 +180,15 @@ ethereum.org • 1d ago
 
 Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-grayscale-ethereum-staking-102746444.html)**
+**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://www.tradingview.com/news/cryptonews:c1b1c0ded094b:0-ethereum-news-grayscale-s-ethereum-staking-etf-just-had-its-cfo-resign/)**
 
-Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the ...
+Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
 
-Yahoo Finance • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -208,22 +224,6 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
-
-/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
-
-PR Newswire • 2d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
-
-FXStreet • 11h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 21K • 👍 897 • 💬 55 • ⏱️ 25:16 • 19h ago
+👁️ 21K • 👍 897 • 💬 55 • ⏱️ 25:16 • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 307 • 👍 21 • 💬 6 • ⏱️ 4:41 • 4h ago
+👁️ 307 • 👍 21 • 💬 6 • ⏱️ 4:41 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ Brian from Santiment joined to review the crypto market metrics for Bitcoin, Eth
 
 📺 Thinking Crypto
 
-👁️ 579 • 👍 76 • 💬 19 • ⏱️ 26:00 • 2h ago
+👁️ 579 • 👍 76 • 💬 19 • ⏱️ 26:00 • 4h ago
 
 ---
 
@@ -294,7 +294,7 @@ Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watc
 
 📺 BULLRUNNERS
 
-👁️ 1K • 👍 51 • 💬 14 • ⏱️ 12:09 • 14h ago
+👁️ 1K • 👍 51 • 💬 14 • ⏱️ 12:09 • 16h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 94 • 💬 5 • ⏱️ 7:46 • 10h ago
+👁️ 1K • 👍 94 • 💬 5 • ⏱️ 7:46 • 12h ago
 
 ---
 
@@ -324,7 +324,7 @@ Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources
 
 📺 Ryan Walker
 
-👁️ 27K • 👍 642 • 💬 42 • ⏱️ 5:58 • 1d ago
+👁️ 27K • 👍 642 • 💬 42 • ⏱️ 5:58 • 2d ago
 
 ---
 
