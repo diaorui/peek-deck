@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-03T03:20:02.657684+00:00'
+updated: '2026-07-03T06:47:19.679881+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 03, 2026 at 03:20 UTC  
+**Last Updated:** July 03, 2026 at 06:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,95 +32,87 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Update: Remember my post about upgrading the plastic joints on the Berkeley Lite? The CNC cycloidal parts just arrived.](https://www.reddit.com/r/robotics/comments/1ujmb03/update_remember_my_post_about_upgrading_the/)**
+**[Remote control robot arm goes crazy](https://www.reddit.com/r/robotics/comments/1ulzdhj/remote_control_robot_arm_goes_crazy/)**
 
-Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the back-drivability is wild. Just for context: we were getting super annoyed with stripping the 3D-printed plastic gears on open-source rigs like the Berkeley Lite and ALOHA. They are awesome projects, but the plastic joints are fragile and a nightmare to maintain. So we designed this as a drop-in replacement (calling it the Starfruit Actuator). Instead of printing two different plastic joint types, we wanted a single unified metal design to simplify the BOM and actually survive dynamic loads. Specs we're rolling with for the final drop: 30:1 ratio (30 teeth, 31 pins) Dual absolute encoders (supports FOC & MIT modes) Fully ODrive-compatible Target price: ~$149 Next up is integrating the motor and driver board, then throwing it on the test bench to see if it survives a 76 Nm torque test without exploding. Fingers crossed lol. Let me know what you think of the machining! All the STEP files, ROS2 nodes, and configs are going to be 100% open source. I'll drop the project link in the comments if anyone wants to track the testing or grab the files when they go live.
+From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-2d ago
-
----
-
-**[SLAM Camera Depth Test](https://www.reddit.com/r/robotics/comments/1ujhz0o/slam_camera_depth_test/)**
-
-2d ago
+6h ago
 
 ---
 
-**[Synced SLAM cameras for depth + VIO](https://www.reddit.com/r/robotics/comments/1ujtmfq/synced_slam_cameras_for_depth_vio/)**
+**[The Experiment That Changed Sergey Levine’s Mind](https://www.reddit.com/r/robotics/comments/1uliqd9/the_experiment_that_changed_sergey_levines_mind/)**
 
-This is my project, Mighty Camera. It is essentially a monocular SLAM camera running entirely on tiny onboard compute. See my past posts for details. Mighty also supports combining multiple cameras and synchronizing them to produce frame-level synced streams. In this setup, I’m using that hardware synchronization to generate depth with SGBM, while it also produces VIO pose.
+Sergey Levine talks about an experiment where 33 labs shared robot data. The result was a generalist robot model that beat specialized systems. He argues that robotics has usually been built around narrow systems for narrow task and that this experiment showed a different path: more shared data, more task variety, and models that work across more than one setup.
 
-2d ago
-
----
-
-**[RGB-D to 3D Pick and Place Pipeline: Code and Data](https://www.reddit.com/r/robotics/comments/1ujvx01/rgbd_to_3d_pick_and_place_pipeline_code_and_data/)**
-
-Some of you asked for the full pipeline code, so here it is. https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place
-
-2d ago
+17h ago
 
 ---
 
-**[Linear Actuator Not Working? Check These 5 Things First](https://www.reddit.com/r/robotics/comments/1uk25m4/linear_actuator_not_working_check_these_5_things/)**
+**[World’s First Fully Robot-Run Hotel Is Opening in China](https://www.reddit.com/r/robotics/comments/1um4qc9/worlds_first_fully_robotrun_hotel_is_opening_in/)**
 
-2d ago
+Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
----
-
-**[TOM (tiny object manipulator)](https://www.reddit.com/r/robotics/comments/1ujcj4i/tom_tiny_object_manipulator/)**
-
-Stress testing my homemade 6dof arm! Total BOM of about $200, uses 4x STS3250 servos (50kg torque) and 3x STS3215 servos (30kg torque).
-
-3d ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 1h ago
 
 ---
 
-**[use motion priors with tqc?](https://www.reddit.com/r/robotics/comments/1uk0gar/use_motion_priors_with_tqc/)**
+**[Any dense point cloud generation approaches with monocular camera?](https://www.reddit.com/r/robotics/comments/1um6s1x/any_dense_point_cloud_generation_approaches_with/)**
 
-2d ago
+I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
----
-
-**[Sorry for the spam but he is such a good boy](https://www.reddit.com/r/robotics/comments/1uj16o3/sorry_for_the_spam_but_he_is_such_a_good_boy/)**
-
-3d ago
+9m ago
 
 ---
 
-**[What is robotics’ “Attention Is All You Need” ?](https://www.reddit.com/r/robotics/comments/1uj4o7u/what_is_robotics_attention_is_all_you_need/)**
+**[Clumsy robot taking over the sidewalk](https://www.reddit.com/r/robotics/comments/1ulonuz/clumsy_robot_taking_over_the_sidewalk/)**
 
-In LLMs, Attention Is All You Need is one of those papers everyone agrees is worth studying. What would be the equivalent in robotic manipulation or computer vision applied to robotics? (Besides Transformers, since that would basically take us back to AIAYN) Not necessarily SOTA with 200 GPUs lol I’m looking for a paper worth reproducing to really learn from it. Which one would you pick, and why?
-
-3d ago
+13h ago
 
 ---
 
-**[Will this linear actuator design work? I’m a robotics noob](https://www.reddit.com/r/robotics/comments/1ujdyoy/will_this_linear_actuator_design_work_im_a/)**
+**[Robots Get Human Touch](https://www.reddit.com/r/robotics/comments/1ulpzhm/robots_get_human_touch/)**
 
-So I want to perform a material characterization study on a material where I need to put it under pressure. I’m in high school and don’t have a mentor or time to ask for access to university labs so I want to make something that can help me get data for cheap. I’m trying to make a linear actuator design and physically build all the parts myself (except for the motor and leadscrew system obviously) but I don’t extensively know how these types of things work. If I was to build something like this (pictures) would there be any significant issues? The cylinder (of which I don’t know what material to make out of) protruding out from the side would be directly connected to the sliding block part of my linear actuator so it pushes that down onto my material. I’m going to be pushing with 50lbs ish max so I’m making the majority of this out of wood. Any tips on making sure it doesn’t get worn out by some slight imperfection over the thousands of trials I’m going to need it for? And also any tips to make it work if something is seriously wrong 😭 And lastly any other tips about doing research studies like this without lab access or a significant mentor would be greatly appreciated.
+Researchers created a breakthrough technology that allows robots to feel and recreate touch just like humans. Using muscle-like air chambers, machines can now instantly mimic sensations ranging from soft tissues to rock-hard surfaces with 89% accuracy, revolutionizing robotic surgery and teleoperation. Credits: https://www.nature.com/articles/s44182-026-00102-2
 
-2d ago
+🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 12h ago
+
+---
+
+**[Is this setup enough?](https://www.reddit.com/r/robotics/comments/1uljrh7/is_this_setup_enough/)**
+
+I'm making a robotic mini rice transplanter, which will weigh around 4kg. Since Philippine rice fields are muddy, I'm planning to make a design with two 15cm diameter wheels that are designed with angled paddles on them, with a sled at the back. Using two 32gp 31zy 12v 80rpm motors. The back will be a sled. The two wheels will be steered with one high torque servo. The only thing I'm skeptical about is if it will work with that kind of setup.
+
+16h ago
+
+---
+
+**[Laundry folding solved?](https://www.reddit.com/r/robotics/comments/1ulbvck/laundry_folding_solved/)**
+
+I thought robots folding laundry was not going to happen any time soon. All of a sudden out of nowhere I see on my twtr feed this company weave robotics show off laundry folding(with jump cuts, are they trying to hid something?). False advertising?
+
+22h ago
+
+---
+
+**[Proception has launched its first products, ProHand 1.0 (22 total DoF)](https://www.reddit.com/r/robotics/comments/1ukhxe9/proception_has_launched_its_first_products/)**
+
+From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2072016884460060832 Proception: Website: https://www.proception.ai/ 𝕏: https://x.com/proceptionAI
+
+1d ago
+
+---
+
+**[Chris Matthieu Hacks on Physical AI Live using AgenticROS and RealSense!](https://www.reddit.com/r/robotics/comments/1uliymn/chris_matthieu_hacks_on_physical_ai_live_using/)**
+
+In case you missed my AgenticROS talk at Automate 2026, here it is! I connected OpenClaw and Claude AI Agents to ROS and told the AI that it now has eyes (RealSense D457 GMSL stereo camera) and wheels to control its own body to accomplish tasks. It worked!!!
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=c6vFLB2gQ34) • 16h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
-
-Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
-
-New Atlas • 8h ago
-
----
-
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
-
-MarketWatch • 7h ago
-
----
 
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
@@ -136,21 +128,43 @@ South China Morning Post • 2d ago
 
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 17h ago
+Reuters • 21h ago
 
 ---
 
-**[The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026](https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html)**
+**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
 
-The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
+Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
 
-Yahoo Finance • 11h ago
+New Atlas • 11h ago
+
+---
+
+**[Sense and Sensibility: How Multimodal Inputs Help Robotics Get a Grip](https://www.eetimes.com/grapevine/sense-and-sensibility-how-multimodal-inputs-help-robotics-get-a-grip/)**
+
+Robots can see and think, but without touch they’re clumsy. Hear how capacitive sensing gives humanoids grip, slip detection, and finesse.
+
+EE Times • 13h ago
 
 ---
 
 **[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
 
-WSJ • 15h ago
+WSJ • 18h ago
+
+---
+
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 10h ago
+
+---
+
+**[Factories Attach Cameras to Workers, in Hopes of Replacing Them With Robots](https://www.yahoo.com/news/world/articles/factories-attaches-cameras-workers-hopes-134557305.html)**
+
+"The way people mount a CCTV camera on a wall, they mounted one on us."
+
+Yahoo • 1d ago
 
 ---
 
@@ -162,19 +176,11 @@ CNBC • 1d ago
 
 ---
 
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
-
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 1d ago
-
----
-
 **[Kraken Robotics Announces Regulatory Approval Of Its Acquisition Of Covelya Group](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited-updated-2026-guidance-and-appointments-to-executive-team/)**
 
 Kraken Robotics Announces Regulatory Approval of its Acquisition of Covelya Group
 
-Kraken Robotics • 13h ago
+Kraken Robotics • 16h ago
 
 ---
 
@@ -188,17 +194,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 89K • 👍 2K • 💬 817 • ⏱️ 3:59 • 2d ago
-
----
-
-**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
-
-China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
-
-📺 Prime Insights
-
-👁️ 458K • 👍 14K • 💬 1K • ⏱️ 24:13 • 5d ago
+👁️ 100K • 👍 3K • 💬 893 • ⏱️ 3:59 • 2d ago
 
 ---
 
@@ -208,17 +204,17 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 12K • 👍 81 • 💬 39 • ⏱️ 2:50 • 12h ago
+👁️ 19K • 👍 112 • 💬 41 • ⏱️ 2:50 • 15h ago
 
 ---
 
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
 
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
 
-📺 51 Drones
+📺 Prime Insights
 
-👁️ 3K • 👍 223 • 💬 43 • ⏱️ 12:50 • 1d ago
+👁️ 459K • 👍 14K • 💬 1K • ⏱️ 24:13 • 5d ago
 
 ---
 
@@ -228,37 +224,17 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 37K • 👍 484 • 💬 23 • ⏱️ 5:08 • 4d ago
+👁️ 38K • 👍 490 • 💬 23 • ⏱️ 5:08 • 4d ago
 
 ---
 
-**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
 
-📺 OTOFOOTAGE
+📺 51 Drones
 
-👁️ 42K • 👍 240 • 💬 126 • ⏱️ 3:05 • 2d ago
-
----
-
-**[Robot Hair Machine Wasn’t Done… It Built Her Friend a Pink Bun 🤖 #Shorts](https://www.youtube.com/watch?v=Olc-w3fH9jU)**
-
-Prototype concept sequel: after the first robot bun test, her friend sits in the same chair and the machine builds a pink spiral bun in ...
-
-📺 Prototype Leaked
-
-👁️ 3K • 👍 62 • ⏱️ 0:16 • 5h ago
-
----
-
-**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
-
-This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
-
-📺 Armourdesia Military Hardware
-
-👁️ 67K • 👍 2K • 💬 339 • ⏱️ 0:31 • 19h ago
+👁️ 4K • 👍 235 • 💬 46 • ⏱️ 12:50 • 1d ago
 
 ---
 
@@ -272,13 +248,43 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 ---
 
+**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
+
+ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+
+📺 OTOFOOTAGE
+
+👁️ 44K • 👍 249 • 💬 128 • ⏱️ 3:05 • 2d ago
+
+---
+
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
+
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
+
+📺 brenpoly
+
+👁️ 128K • 👍 8K • 💬 403 • ⏱️ 23:57 • 5d ago
+
+---
+
 **[UBTECH U1: The Best Humanoid Robots, As Lifelike As Humans, Are Being Unveiled To The Public](https://www.youtube.com/watch?v=TyD8wVUyBw4)**
 
 The UBTECH U1 series robots are not just a demonstration of engineering capabilities, but an attempt to create a true digital ...
 
 📺 История с Зёзом
 
-👁️ 1K • 👍 23 • ⏱️ 4:28 • 1d ago
+👁️ 1K • 👍 28 • ⏱️ 4:28 • 1d ago
+
+---
+
+**[This Chinese Robot Dog Can Go Anywhere — CRW20 Combat Wolf](https://www.youtube.com/watch?v=k0_N1JS7Iy0)**
+
+This Chinese CRW20 Combat Wolf robot dog climbs stairs, crosses rough terrain, and carries a rifle-mounted payload with ease ...
+
+📺 Armourdesia Military Hardware
+
+👁️ 78K • 👍 2K • 💬 371 • ⏱️ 0:31 • 22h ago
 
 ---
 

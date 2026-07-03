@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T03:20:02.648488+00:00'
+updated: '2026-07-03T06:47:19.671786+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 03:20 UTC  
+**Last Updated:** July 03, 2026 at 06:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,467.00
+### $61,722.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +2.3%  
-**30d:** -3.9%  
-**90d:** -11.0%  
-**1y:** -43.1%  
+**24h:** +2.6%  
+**7d:** +2.8%  
+**30d:** -3.4%  
+**90d:** -10.6%  
+**1y:** -42.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1229.46B
+**Market Cap:** $1234.54B
 Rank #1
 
-**Circulating Supply:** 20,051,284 BTC
+**Circulating Supply:** 20,051,375 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--51.4%
+-51.2%
 
 **All-Time Low:** $67.81
-+90332.1%
++90722.9%
 
 ---
 
@@ -111,13 +111,13 @@ Stack sats amd stay humble, bitcoin will rise from the hashes eventually.
 
 Contrarian investor. I have never have had BTC exposure before. I put in an order after hours (thru an ETF) to go in at about 1.5% of my net worth. Lets see where this goes.
 
-23h ago
+1d ago
 
 ---
 
 **[Imagine finding this at a local shop. Finally, a payment network I can get behind! 🚀₿](https://www.reddit.com/r/Bitcoin/comments/1ul9rgt/imagine_finding_this_at_a_local_shop_finally_a/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ Contrarian investor. I have never have had BTC exposure before. I put in an orde
 
 A catastrophic never seen before crash in the history of any market just happened in Bitcorn. Almost a 60% decline. The world has no money left, it will never recover. This is it, Bitcorn death #485 will be the one. After buying the last top at $120k and expecting Bitcorn to hit $10 million dollars off a Facebook ad the CEO of Bitcorn posted, I'm done. Hashrate near ATH, more users than ever, blah blah blah, none of it matters. The price went down 60%. This definitely means the network will quit working because I, ME, didn't make money off of it. Thanks for this great journey, I'm only rebuying it it goes back to the moon.
 
-1d ago
+2d ago
 
 ---
 
@@ -133,7 +133,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 Getting downvoted in another thread for saying this but I'll say it again here. Forcing 1,200+ firms down to ~200 licensed ones cuts out a lot of the sketchy operators that never had proper custody or AML controls to begin with. Platforms that did the work and got licensed: CDC, Kraken, Nexo, eToro, Bitpanda, Revolut Yes, it's annoying short-term if your exchange didn't make it. But anyone who's been through an exchange collapse before probably sees the appeal of forced consolidation toward licensed players
 
-17h ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Thr
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-20h ago
+23h ago
 
 ---
 
@@ -161,7 +161,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Guardian • 7h ago
+The Guardian • 10h ago
 
 ---
 
@@ -169,37 +169,23 @@ The Guardian • 7h ago
 
 Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s (CRYPTO: BTC) ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through cryptocurrency ventures, which include World Liberty Financial and the Official Trump (CRYPTO: TRUMP) memecoin. The CEO of Gerber Kawasaki Wealth and Investment Management said that the “grift is real,” and
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Spike as Weak Jobs Data Dims Rate-Hike Odds: Analyst Says 'Markets Are Just Waking Up'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-spike-030216419.html)**
+**[Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000](https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000)**
 
-Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
+Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.
 
-Yahoo Finance • 18m ago
-
----
-
-**[Trump made more than $1 billion from his cryptocurrencies. Many who invested in them weren’t so lucky.](https://www.nbcnews.com/tech/crypto/trump-crypto-bitcoin-memecoin-losses-disclosure-rcna352707)**
-
-About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
-
-NBC News • 7h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Falls to 21-Month Low on Strategy, Rate-Hike Fears](https://www.bloomberg.com/news/articles/2026-07-01/bitcoin-falls-to-21-month-low-on-strategy-rate-hike-fears)**
+**[Bitcoin posts worst month since June 2022 as one strategist says token could drop to $40,000](https://finance.yahoo.com/markets/crypto/article/bitcoin-posts-worst-month-since-june-2022-as-one-strategist-says-token-could-drop-to-40000-141926609.html)**
 
-Bloomberg.com • 1d ago
+Bitcoin capped the last day of the month with losses.
 
----
-
-**[Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000](https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000)**
-
-Bitcoin climbed back above $60,000 for the first time in over a week after Fed Chair Kevin Warsh said inflation risks had come down. Solana led the majors, up about 16% on the week, while a semiconductor selloff hit Asian markets and dented the AI trade that has pulled capital from crypto all quarter.
-
-CoinDesk • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -211,27 +197,41 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin jumps as monthly jobs report comes in cooler than expected](https://finance.yahoo.com/markets/article/bitcoin-jumps-as-monthly-jobs-report-comes-in-cooler-than-expected-135630276.html)**
+**[Cantor Delays Adam Back’s $4B Bitcoin Treasury SPAC Merger Again](https://finance.yahoo.com/markets/crypto/articles/cantor-delays-adam-back-4b-050632883.html)**
 
-Bitcoin jumped after the monthly jobs report showed the labor market doesn't appear to be overheating.
+In a major crypto merger update, Cantor Equity Partners I has once again postponed the shareholder vote on its proposed merger with Bitcoin Standard Treasury (BSTR), the bitcoin treasury company backed by Blockstream CEO Adam Back. The company board has now pushed the meeting to July 10 from the previously scheduled July 2. The vote
 
-Yahoo Finance • 13h ago
-
----
-
-**[Strategy Abandons ‘Never Sell Bitcoin’ Mantra in Bid to Outlast Crypto Winter](https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f)**
-
-Left with few good options, Michael Saylor’s company “kicked the can down the road” with plans for stock buybacks and bitcoin sales.
-
-WSJ • 3d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[MiCA-Compliant And Truly Yours: The Lightning Debit Card Changing Bitcoin Payments In Europe](https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc)**
+**[Trump made more than $1 billion from his cryptocurrencies. Many who invested in them weren’t so lucky.](https://www.nbcnews.com/tech/crypto/trump-crypto-bitcoin-memecoin-losses-disclosure-rcna352707)**
 
-From Euro IBAN deposits and auto-DCA to self-custody withdrawals, this bootstrapped Bitcoin neobank delivers the cypherpunk dream with full regulatory compliance in the MiCA era.
+About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
 
-Bitcoin Magazine • 8h ago
+NBC News • 11h ago
+
+---
+
+**[Bitcoin Falls to 21-Month Low on Strategy, Rate-Hike Fears](https://www.bloomberg.com/news/articles/2026-07-01/bitcoin-falls-to-21-month-low-on-strategy-rate-hike-fears)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -311,17 +311,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 167 • ⏱️ 20:33 • 5h ago
-
----
-
-**[Bitcoin RECLAIMS $61K As Trump Made BILLIONS On Crypto + Stocks](https://www.youtube.com/watch?v=IByLIyYcg3E)**
-
-Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, below its 200-week moving average — but ...
-
-📺 The Wolf Of All Streets
-
-👁️ 11K • 👍 502 • 💬 234 • ⏱️ 30:39 • 13h ago
+👁️ 25K • 👍 2K • 💬 247 • ⏱️ 20:33 • 9h ago
 
 ---
 
@@ -331,17 +321,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 533 • 💬 311 • ⏱️ 10:21 • 12h ago
-
----
-
-**[Why Bitcoin is About to Bounce Massively (Data)](https://www.youtube.com/watch?v=UDTUmGHPd2k)**
-
-Crypto looks to be entering a new phase, with signs that long-term accumulation is beginning to outweigh liquidation pressure.
-
-📺 Crypto Banter
-
-👁️ 16K • 👍 1K • 💬 22 • ⏱️ 27:44 • 12h ago
+👁️ 9K • 👍 573 • 💬 352 • ⏱️ 10:21 • 15h ago
 
 ---
 
@@ -355,43 +335,13 @@ I joined Fox Business News this morning to calm them down about Bitcoin's recent
 
 ---
 
-**[Were We Wrong About Michael Saylor?](https://www.youtube.com/watch?v=2nojwPLc8T0)**
+**[Bitcoin RECLAIMS $61K As Trump Made BILLIONS On Crypto + Stocks](https://www.youtube.com/watch?v=IByLIyYcg3E)**
 
-Michael Saylor built his reputation on one message: never sell your Bitcoin. Now Strategy has authorized a Bitcoin monetization ...
+Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, below its 200-week moving average — but ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 33K • 👍 2K • 💬 421 • ⏱️ 19:40 • 1d ago
-
----
-
-**[Bitcoin&#39;s Bottom Could Be Closer Than You Think 👀](https://www.youtube.com/watch?v=y2ZSiZ39tPk)**
-
-Bitcoin's Bottom Could Be Closer Than You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading ...
-
-📺 Stocks with Josh
-
-👁️ 2K • 👍 92 • 💬 3 • ⏱️ 0:48 • 7h ago
-
----
-
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=8TmOvGK235I)**
-
-Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 117K • 👍 6K • 💬 369 • ⏱️ 22:49 • 1d ago
-
----
-
-**[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 792 • 💬 248 • ⏱️ 57:46 • 1d ago
+👁️ 11K • 👍 513 • 💬 249 • ⏱️ 30:39 • 17h ago
 
 ---
 
@@ -401,7 +351,57 @@ In the depths of this bear market something has fundamentally changed ... the wo
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 344 • 💬 19 • ⏱️ 1:27:31 • 8h ago
+👁️ 7K • 👍 358 • 💬 75 • ⏱️ 1:27:31 • 12h ago
+
+---
+
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=8TmOvGK235I)**
+
+Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 119K • 👍 6K • 💬 371 • ⏱️ 22:49 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Bottom Could Be Closer Than You Think 👀](https://www.youtube.com/watch?v=y2ZSiZ39tPk)**
+
+Bitcoin's Bottom Could Be Closer Than You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading ...
+
+📺 Stocks with Josh
+
+👁️ 2K • 👍 106 • 💬 50 • ⏱️ 0:48 • 11h ago
+
+---
+
+**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 55K • 👍 2K • 💬 330 • ⏱️ 11:44 • 2d ago
+
+---
+
+**[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 794 • 💬 257 • ⏱️ 57:46 • 1d ago
+
+---
+
+**[Why Bitcoin is About to Bounce Massively (Data)](https://www.youtube.com/watch?v=UDTUmGHPd2k)**
+
+Crypto looks to be entering a new phase, with signs that long-term accumulation is beginning to outweigh liquidation pressure.
+
+📺 Crypto Banter
+
+👁️ 17K • 👍 1K • 💬 22 • ⏱️ 27:44 • 16h ago
 
 ---
 

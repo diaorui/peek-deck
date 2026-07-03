@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T03:20:02.654450+00:00'
+updated: '2026-07-03T06:47:19.677012+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 03:20 UTC  
+**Last Updated:** July 03, 2026 at 06:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** +8.3%  
-**30d:** -3.7%  
-**90d:** -19.1%  
-**1y:** -32.1%  
+**24h:** +6.2%  
+**7d:** +8.9%  
+**30d:** -3.2%  
+**90d:** -18.7%  
+**1y:** -31.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $205.37B
+**Market Cap:** $206.70B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.6%
+-65.4%
 
 **All-Time Low:** $0.43
-+393048.4%
++395531.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-11h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Just wanted to say thanks to the bear market 🙏 arigato
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
 
-18h ago
+22h ago
 
 ---
 
@@ -108,7 +108,7 @@ This blog post recaps the Argot Collective’s work from the first half of 2026 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -146,7 +146,7 @@ Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a
 
 ## Google News: "ethereum"
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
 
 As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
 
@@ -164,15 +164,15 @@ ethereum.org • 1d ago
 
 Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Crypto News: Ethereum Based Crypto Pepeto Presale Is Selling Out Fast – Is This The 2026 Breakout](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-presale-is-selling-out-fast-is-this-the-2026-breakout-1036295689)**
+**[New Crypto: Ethereum Based Crypto Pepeto Nears Binance Debut While Cardano Price Target Turns Bullish](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-nears-binance-debut-while-cardano-price-target-turns-bullish-1036295851)**
 
-DUBAI, United Arab Emirates, July  02, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just closed another crypto presale round in hour...
+DUBAI, United Arab Emirates, July  03, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is now days from a Binance listing, an ...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -220,7 +220,7 @@ Decrypt • 1d ago
 
 Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
 
-TradingView • 13h ago
+TradingView • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 14K • 👍 722 • 💬 48 • ⏱️ 25:16 • 8h ago
+👁️ 17K • 👍 785 • 💬 51 • ⏱️ 25:16 • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 522 • 💬 43 • ⏱️ 8:38 • 19h ago
+👁️ 9K • 👍 526 • 💬 43 • ⏱️ 8:38 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ In this video I break down the latest Ethereum price analysis and explain why th
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 205 • 💬 8 • ⏱️ 11:42 • 13h ago
+👁️ 4K • 👍 209 • 💬 8 • ⏱️ 11:42 • 16h ago
 
 ---
 
@@ -264,7 +264,7 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 26K • 👍 1K • 💬 109 • ⏱️ 30:21 • 1d ago
+👁️ 26K • 👍 1K • 💬 110 • ⏱️ 30:21 • 1d ago
 
 ---
 
@@ -278,33 +278,33 @@ Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/event
 
 ---
 
-**[BITCOIN BREAKOUT: FIRST TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9BgnDK_n-5g)**
-
-BITCOIN BREAKOUT: FIRST TARGET HIT (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 234 • 💬 169 • ⏱️ 24:21 • 6h ago
-
----
-
-**[Ethereum Rally To Be CUT SHORT? TradeConfident.io](https://www.youtube.com/watch?v=2d_U-7P1JBA)**
-
-JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 261 • 👍 8 • 💬 3 • ⏱️ 8:59 • 8h ago
-
----
-
 **[$401 Million Just Left Ethereum ETFs In One Streak While XRP Pulled In Money Every Single Day!](https://www.youtube.com/watch?v=18ouqLe6VqM)**
 
 Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watch The Great Reset Deep-Dive Here: ...
 
 📺 BULLRUNNERS
 
-👁️ 428 • 👍 31 • 💬 3 • ⏱️ 12:09 • 3h ago
+👁️ 750 • 👍 41 • 💬 37 • ⏱️ 12:09 • 6h ago
+
+---
+
+**[Why the ETH Price Has Been Stuck for Five Years](https://www.youtube.com/watch?v=bFwBR6z5HVU)**
+
+Only two crypto-native assets are worth more than $100 billion, and ETH has been parked in that tier for five years. Ansgar ...
+
+📺 Unchained
+
+👁️ 2K • 👍 29 • 💬 7 • ⏱️ 10:18 • 1d ago
+
+---
+
+**[BTC &amp; ETHEREUM, Dieses Setup würde ich jetzt nutzen! Ein weiteres Hoch dann kleiner Abverkauf!](https://www.youtube.com/watch?v=3O07UeDO5Ko)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 302 • 💬 21 • ⏱️ 9:18 • 2h ago
 
 ---
 
@@ -314,17 +314,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 187 • 💬 186 • ⏱️ 18:21 • 1d ago
+👁️ 6K • 👍 194 • 💬 186 • ⏱️ 18:21 • 1d ago
 
 ---
 
-**[Five Ethereum Researchers Just Left—Here&#39;s Why](https://www.youtube.com/watch?v=UoF2xYd47WY)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3f1rA5OHicw)**
 
-Get 10% DEPOSIT BONUS and up to $10055 USDT BONUS by signing up to BTCC with the BTCC YouTube EXCLUSIVE LINK ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 BTCC
+📺 Crypto Gyan
 
-👁️ 53 • ⏱️ 3:00 • 15h ago
+👁️ 454 • 👍 66 • 💬 5 • ⏱️ 7:46 • 3h ago
 
 ---
 

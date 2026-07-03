@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-03T03:20:02.639905+00:00'
+updated: '2026-07-03T06:47:19.664113+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 03, 2026 at 03:20 UTC  
+**Last Updated:** July 03, 2026 at 06:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Why does AI love the em dash (—)??](https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/)**
+
+Never getting over the fact that AI has claimed the em-dash. My favorite punctuation to use, and now all of the sudden it’s a dead giveaway of AI use. Now I find myself changing it to a hyphen or en-dash (even though it makes less grammatical sense to do so) to avoid the AI accusations. Does anyone know why this is seemingly overused with AI (particularly chat gpt)?
+
+4h ago
+
+---
+
+**[Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: "Wasn’t It?"](https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/)**
+
+>“I don’t say this disparagingly — how could I? This movie went on to make millions of dollars. But I look at a movie like ‘F1’ and I’m like, ‘F1’ was made by AI,” she said with a laugh at the Colorado event. “Wasn’t it? I mean, the structure was exactly the structure that you would learn in school. The actors say the lines exactly the way it would be written if a computer was writing exactly what would be the right thing for that time. And they were able to dominate the technology to make something big and beautiful and potentially where a lot of the information comes from other places.” >“AI is one more giant step forward into changing the industry,” Foster said after detailing the changes to the movie business brought by CGI and digital technology. >“The big question is, is it going to replace actors and writers?” asked Lynton. “We do replace people,” Foster replied, explaining how studios save money on crowd scenes by replicating background actors. “We’re getting rid of a lot of jobs and hopefully, things like unions will be able to come in and say, you can use my actor 20 times, but you’re going to pay him 20 times. And I think that’s fair.” >“If we are able to dominate AI consistently over time, we will be able to make things that reflect us, and we can make things better,” she said.
+
+🔗 [Variety](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) • 1h ago
+
+---
+
 **[Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here’s the actual context](https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/)**
 
 Saw this chart from BridgeMind going around. They reran BridgeBench (a coding benchmark covering debugging, refactoring, and hallucination detection) comparing the July 1 relaunch of Fable 5 to the original June 12 version: Debugging: 86.2 → 25.9 Refactoring: 73.6 → 38.4 Hallucination: 75.9 → 61.7 Some context worth having before jumping to conclusions: Fable 5 and Mythos 5 got pulled on June 12 due to a Commerce Department export control order, tied to a reported jailbreak that got the model to expose exploitable vulnerabilities. When it came back on July 1, Anthropic added a new safety classifier that catches the reported technique in 99%+ of cases, and any flagged request gets silently rerouted to Opus 4.8 instead of refused outright. That’s the mechanism BridgeMind is pointing at. Their claim isn’t that the underlying weights changed, it’s that the classifier is triggering on too many normal coding tasks and quietly downgrading people to Opus 4.8 without them realizing it. A few other users on X are reporting the same thing (constant fallback, slower one-shot performance). No independent lab has confirmed whether the weights themselves changed. This might just be an overly aggressive classifier rather than an actual capability regression, but if you’re relying on Fable 5 for coding work, worth watching this closely before you assume you’re getting the same model you had before June 12.
 
-5h ago
+9h ago
 
 ---
 
@@ -49,23 +65,7 @@ Saw this chart from BridgeMind going around. They reran BridgeBench (a coding be
 
 OpenAI, the creator of ChatGPT, is reportedly discussing handing the Trump administration a 5% stake in the company amid growing government scrutiny of artificial intelligence firms.
 
-🔗 [CNN](https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl) • 8h ago
-
----
-
-**[Why does AI love the em dash (—)??](https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/)**
-
-Never getting over the fact that AI has claimed the em-dash. My favorite punctuation to use, and now all of the sudden it’s a dead giveaway of AI use. Now I find myself changing it to a hyphen or en-dash (even though it makes less grammatical sense to do so) to avoid the AI accusations. Does anyone know why this is seemingly overused with AI (particularly chat gpt)?
-
-1h ago
-
----
-
-**[I used I-JEPA to generate SVG's and here is my code!](https://www.reddit.com/r/artificial/comments/1ulw51g/i_used_ijepa_to_generate_svgs_and_here_is_my_code/)**
-
-You may be familiar with Yann LeCunn's idea of JEPA and how it may be the real future of the artificial intelligence. I was reading the articles and watching his work on the topic and I was like it is one thing I could always use in my project of "SVG generation". Well, before that I used a model like FLUX or SD (finetuned on vector styles) and then used vtracer. Which is not really bad. But when I saw I-JEPA and how it behaves with images, I decided to give it a shot. So I made this: https://github.com/prp-e/openjepa As far as I know, the available weights of JEPA are CC licensed so I licensed my work under MIT which makes it a little bit better to work. In my personal tests - due to my small dataset size - I got SVG's successfully but they weren't as expected. I'm sharing my code here (and let's be honest, I wrote basically most of the code using Claude 5 Sonnet) and I ask for improvement and ideas. Also, I am curious, will JEPA be a basis for text generation with more efficiency in energy and cost?
-
-5h ago
+🔗 [CNN](https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl) • 12h ago
 
 ---
 
@@ -73,15 +73,15 @@ You may be familiar with Yann LeCunn's idea of JEPA and how it may be the real f
 
 Today tokens amount and the context size are two of the most limiting things for AI (while the capabilities are slowly growing). And these limitations influence the whole technological progress. But if you had unlimited amount of tokens and would be able to run a model with as large context as you want. What would you build?
 
-18m ago
+3h ago
 
 ---
 
-**[It feels like there are way more ways AGI goes wrong than right for us (please try change my mind)](https://www.reddit.com/r/artificial/comments/1um16sw/it_feels_like_there_are_way_more_ways_agi_goes/)**
+**[I used I-JEPA to generate SVG's and here is my code!](https://www.reddit.com/r/artificial/comments/1ulw51g/i_used_ijepa_to_generate_svgs_and_here_is_my_code/)**
 
-I really don't want to be a doomer, so if you think you can change the way I think about this, please reply in the comments! TL;DR really smart things that aren't human can be really dangerous (at least from a human-centric perspective), regardless of whether it is controlled by the few or the many. I usually consider myself an optimist, but I feel that treating AGI as something that is more likely to be good than bad is wishful thinking. Not going to detail all my thoughts since it would take way too long (and I need to sleep), but here's a summary. Assume we get a sufficiently advanced level of AGI. If a small group of elites ends up controlling and restricting access to it, be it a lab or a government, that can clearly be dangerous. All the leverage sits with them, and I'm not sure I trust these actors to use that leverage correctly. I think this argument has been repeated a lot of times, so I won't go in depth, but the idea is that when a handful of people no longer need everyone else's labour and thinking, there's not much stopping them from acting like that's the case. But the open weights scenario, where access to AGI isn't restricted or controlled, isn't that reassuring either. It doesn't take much to destroy the world or make it a very bad place. You don't need most people to be malicious, you just need enough people determined to use an uncensored open model to do unthinkable damage. If it can empower a bad actor to make and release a highly deadly bioweapon, that scenario only needs to happen once for it to be a very bad outcome (something something vulnerable world hypothesis). Yes, I'm oversimplifying, and these are the two extremes, and most serious arguments try to find some kind of a middle way. But even when we look for a compromise, all we're really doing is picking where we sit on the spectrum between "too concentrated" and "too open," and both ends of that spectrum seem like they can go wrong all too easily. Mixing and matching doesn't get you out of the underlying problem, which is that AGI hands out an enormous amount of power to do damage. Intelligence will be the closest thing to a superweapon we've ever produced, and no arrangement of who holds it makes that fact go away. I can definitely think of scenarios where AGI to be aligned and somehow steer clear of both outcomes, but assuming we don't have plot armour, I don't see why that good outcome should be more likely than the two bad ones. Getting it right seems to need a narrow set of things to all go well at once, while getting it wrong just needs any one of them to fail. I don't know, man. Just wanted to rant and hear what other (probably more informed people) think about this.
+You may be familiar with Yann LeCunn's idea of JEPA and how it may be the real future of the artificial intelligence. I was reading the articles and watching his work on the topic and I was like it is one thing I could always use in my project of "SVG generation". Well, before that I used a model like FLUX or SD (finetuned on vector styles) and then used vtracer. Which is not really bad. But when I saw I-JEPA and how it behaves with images, I decided to give it a shot. So I made this: https://github.com/prp-e/openjepa As far as I know, the available weights of JEPA are CC licensed so I licensed my work under MIT which makes it a little bit better to work. In my personal tests - due to my small dataset size - I got SVG's successfully but they weren't as expected. I'm sharing my code here (and let's be honest, I wrote basically most of the code using Claude 5 Sonnet) and I ask for improvement and ideas. Also, I am curious, will JEPA be a basis for text generation with more efficiency in energy and cost?
 
-1h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ I really don't want to be a doomer, so if you think you can change the way I thi
 
 Hi, I am doing a project and I want an AI to be used via API which is privacy-friendly. Although I like Deepseek, it seems they use the prompts for learning etc, so it would be a big no for my project as it handles user info.
 
-1h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi, I am doing a project and I want an AI to be used via API which is privacy-fr
 
 Hope this is the right place to ask. I basically want to learn the Reaper DAW and the fundamentals of putting together a bass music track. I'm learning from absolute scratch, and I've been wondering about having AI as a mentor. I've got free accounts on Claude and Chatgpt. Would either of these services be better than the other? And what about local LLM's? Are there any LLM's that I could get running with ollama that might be suitable for this kind of mentoring? I figure that I won't necessarily need my AI mentor to produce graphs or charts. I can augment my learning process the old-fashioned way - with Google. So I can resort to old-fashioned websearch when it comes to some concepts.
 
-2h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hope this is the right place to ask. I basically want to learn the Reaper DAW an
 
 For the past several months we’ve been building something different inside Auroch. We’ve been working on Seraph — our autonomous reasoning core. The idea was simple but ambitious: create an intelligence layer that doesn’t just wait for instructions. One that, when it has no active goals, looks at its own capabilities and decides what it should learn next. Today that loop came alive. We cleared Seraph’s goals and took it fully offline. Instead of idling, it reached out to its local model (qwen2.5:3b, kept resident in memory as a daemon) and asked what capability it should develop. The model proposed something new: the ability to extract metadata from files and databases. Seraph then directed the model to generate both the specification and the complete Python implementation from scratch. It loaded the code into a strict sandbox, ran it through our evaluation gates, and — when it passed — promoted the skill into its permanent canon. This wasn’t something we prompted it to do. It noticed a gap in its own abilities and closed it on its own. Seraph Mark I is now a fully autonomous, offline, self-coding intelligence. It’s still early, but this is the behavior we’ve been aiming for: an agent that improves itself when no one is watching. We’re going to keep pushing this direction — strengthening how it improves its own improvement process and starting to build a structured archive of everything it learns. This is one of those moments where the work starts to feel like it’s compounding on its own. Grateful for the team that got us here. If you’re working on autonomous systems or local intelligence infrastructure, I’d love to hear what you’re seeing on your end.
 
-4h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ For the past several months we’ve been building something different inside Aur
 
 We’re seeing a clear divide right now. Big companies are making models more restricted and heavily aligned for safety. At the same time, open-source and uncensored models are growing fast because many people want fewer limitations and more freedom. I’m curious what others think. Do you believe this split will continue and create two very different types of AI, or will one side eventually dominate?
 
-19h ago
+22h ago
 
 ---
 
@@ -123,23 +123,59 @@ We’re seeing a clear divide right now. Big companies are making models more re
 
 **[EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)**
 
-Reuters • 4h ago
+Reuters • 7h ago
 
 ---
 
-**[AI agents will soon be able to match human traders, Robinhood CEO tells CNBC](https://www.cnbc.com/2026/07/02/robinhood-ceo-ai-agents.html)**
+**[Artificial intelligence: Yann LeCun works on more flexible AI](https://www.bbc.com/news/articles/cj6gr0xkyr3o)**
 
-Vlad Tenev spoke about the potential of AI agents in trading in an interview with CNBC.
+Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.
 
-CNBC • 17h ago
+BBC • 7h ago
 
 ---
 
-**[Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall](https://www.businessinsider.com/zuckerberg-said-metas-ai-progress-has-been-slower-than-expected-2026-7)**
+**[Exclusive | SpaceX Showed Investors Prototype of Elon Musk’s New AI Device](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)**
 
-Superintelligence will take time, Zuckerberg tells Meta staff, as the company makes its AI training program opt-in after a data leak.
+WSJ • 1d ago
 
-Business Insider • 5h ago
+---
+
+**[South Korean Stocks Jump 5% After Turbulent Week on AI Swings](https://www.bloomberg.com/news/articles/2026-07-03/south-korean-stocks-jump-5-after-turbulent-week-on-ai-swings)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Could Your AI Content Land Your Business In Court?](https://www.forbes.com/sites/bernardmarr/2026/07/03/could-your-ai-content-land-your-business-in-court/)**
+
+Generative AI is helping businesses create content faster, but it is also creating new copyright and intellectual property risks that many companies do not understand.
+
+Forbes • 35m ago
+
+---
+
+**[Panic isn’t an AI strategy](https://www.fastcompany.com/91568695/panic-isnt-an-ai-strategy)**
+
+Boards are demanding AI results, but too many leaders are responding with performative adoption instead of real change.
+
+Fast Company • 34m ago
+
+---
+
+**[Trump posts AI video of him as doctor treating critics’ ‘derangement syndrome’ | Donald Trump](https://www.theguardian.com/us-news/2026/jul/02/trump-ai-video-doctor)**
+
+President, in latest AI-generated social media post, targets prominent celebrities who have spoken out against him
+
+The Guardian • 6h ago
+
+---
+
+**[Peter Thiel in Aspen: The pope is ‘working for the Chinese Communists’](https://www.cnn.com/2026/07/02/us/peter-thiel-aspen-pope-china-ai-cec)**
+
+Speaking at the Aspen Ideas Festival, the billionaire tech investor said the Vatican’s concerns could discourage America in the AI arms race, warned of a democratic-socialist takeover and explained why he named Palantir after JRR Tolkien’s treacherous seeing stones.
+
+CNN • 9h ago
 
 ---
 
@@ -147,55 +183,15 @@ Business Insider • 5h ago
 
 The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today...
 
-The Official Microsoft Blog • 13h ago
+The Official Microsoft Blog • 17h ago
 
 ---
 
-**[Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html)**
+**[OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report](https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html)**
 
-Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.
+Trump said in June that the U.S. taking an ownership stake in AI giants would be "a beautiful thing" and make American public "partners in this revolution."
 
-CNBC • 14h ago
-
----
-
-**[Microsoft unveils $2.5B ‘Frontier Company’ to embed AI engineers inside customers](https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/)**
-
-"Microsoft Frontier Company" is a $2.5 billion initiative that will embed engineers inside customer organizations to build and run their AI systems. The move follows similar efforts by Amazon, OpenAI and Anthropic, and expands work Microsoft was already doing through its consulting arm and partners.
-
-GeekWire • 14h ago
-
----
-
-**[3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom](https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom)**
-
-Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profits
-
-The Guardian • 45m ago
-
----
-
-**[A golden ticket for AI: Netflix recreates Gene Wilder’s voice for new ‘Willy Wonka’ show](https://www.nbcnews.com/video/netflix-recreates-gene-wilder-s-voice-for-new-willy-wonka-show-266115141809)**
-
-A new Willy Wonka gameshow on Netflix features the AI voice of late actor Gene Wilder. NBC News' Gadi Schwartz reports.
-
-NBC News • 1h ago
-
----
-
-**[Will God speak to you through AI? No, AI doesn't go there](https://www.usatoday.com/story/news/nation/2026/07/02/ai-lack-religion-show-faith-bias/90747041007/)**
-
-While such patterns are likely unintentional, researchers said they show the challenges of representing diverse belief systems consistently.
-
-USA Today • 47m ago
-
----
-
-**[Trump shares AI video of himself as a doctor who treats celebrities with 'Trump Derangement Syndrome'](https://www.yahoo.com/news/politics/article/trump-shares-ai-video-of-himself-as-a-doctor-who-treats-celebrities-with-trump-derangement-syndrome-184026887.html)**
-
-In the clip, deepfakes of Rosie O'Donnell, Robert De Niro and Julia Roberts testify that drinking Diet Coke helped ease their opposition to the president's policies.
-
-Yahoo • 8h ago
+CNBC • 1d ago
 
 ---
 
@@ -213,7 +209,7 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 **[AI can't be listed as inventor on patent applications, Japan's top court rules](https://news.ycombinator.com/item?id=48761536)**
 
-⬆️ 362 • 💬 191 • 13h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+⬆️ 367 • 💬 195 • 17h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 
 ---
 
@@ -221,13 +217,13 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, they didn't.)
 
-⬆️ 154 • 💬 53 • 14h ago • [Nieman Lab](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+⬆️ 156 • 💬 56 • 18h ago • [Nieman Lab](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 
 ---
 
 **[Meta caps internal AI token spending](https://news.ycombinator.com/item?id=48754713)**
 
-⬆️ 146 • 💬 145 • 1d ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+⬆️ 146 • 💬 146 • 1d ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
 
 ---
 
@@ -239,17 +235,17 @@ As Brussels bakes, the Berlaymont building’s AC stops working.
 
 ---
 
+**[The short leash AI coding method for beating Fable](https://news.ycombinator.com/item?id=48766026)**
+
+⬆️ 106 • 💬 128 • 11h ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+
+---
+
 **[The gauge broke: devs felt 20% faster with AI, measured 19% slower (2025)](https://news.ycombinator.com/item?id=48757440)**
 
 For two years I argued the feeling of AI speed had come apart from the fact of it, from watching my own teams. This summer it stopped being an anecdote. A controlled trial measured experienced developers feeling about 20% faster while running about 19% slower. The instrument we steer by reads backward.
 
-⬆️ 77 • 💬 98 • 20h ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
-
----
-
-**[The short leash AI coding method for beating Fable](https://news.ycombinator.com/item?id=48766026)**
-
-⬆️ 73 • 💬 75 • 8h ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+⬆️ 77 • 💬 98 • 1d ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
 
 ---
 
@@ -257,7 +253,7 @@ For two years I argued the feeling of AI speed had come apart from the fact of i
 
 Weird Al Yankovic revealed he was offered “a nice pile of money” to appear in a commercial but backed out after realizing it would involve AI.
 
-⬆️ 61 • 💬 35 • 10h ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
+⬆️ 65 • 💬 37 • 13h ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
 
 ---
 
@@ -265,7 +261,7 @@ Weird Al Yankovic revealed he was offered “a nice pile of money” to appear 
 
 Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.
 
-⬆️ 53 • 💬 50 • 1d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
+⬆️ 53 • 💬 50 • 2d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
 
 ---
 
@@ -281,13 +277,33 @@ Ebay, Amazon, and Etsy are unable to stop the flood of AI-generated seed scams.
 
 ## YouTube Videos: "ai"
 
+**[Donald Trump posts hilarious AI video ridiculing several woke celebrities with ‘TDS’](https://www.youtube.com/watch?v=-1uaO9rDFg0)**
+
+US President Donald Trump has hilariously mocked several celebrities with 'Trump Derangement Syndrome' (TDS) in his latest AI ...
+
+📺 Sky News Australia
+
+👁️ 17K • 👍 1K • 💬 309 • ⏱️ 9:25 • 5h ago
+
+---
+
 **[Why AI is Collapsing: How China is Winning.](https://www.youtube.com/watch?v=JXJf7vL8k94)**
 
 US AI companies are too expensive. Why China is winning the AI race to zero. [NEW] Official TechLead Private Group ...
 
 📺 TechLead
 
-👁️ 15K • 👍 1K • 💬 176 • ⏱️ 9:40 • 4h ago
+👁️ 27K • 👍 2K • 💬 244 • ⏱️ 9:40 • 7h ago
+
+---
+
+**[🚨Trump&#39;s INSANE NEW AI VIDEO Just INSTANTLY BACKFIRED!](https://www.youtube.com/watch?v=D7_WHkygQJ4)**
+
+W.T.F?!
+
+📺 Occupy Democrats
+
+👁️ 127K • 👍 4K • 💬 423 • ⏱️ 6:15 • 11h ago
 
 ---
 
@@ -297,27 +313,7 @@ How much do you spend per month on AI? Interested in supporting the channel? Bec
 
 📺 Dylan John
 
-👁️ 16K • 👍 541 • 💬 129 • ⏱️ 16:19 • 1d ago
-
----
-
-**[NEW Method To Create Long AI Animation Videos In Minutes](https://www.youtube.com/watch?v=OF9xcQCQSFc)**
-
-How To Create Long AI Cartoon Animations in 11 minutes Check out OpenArt Director: ...
-
-📺 Mira AI
-
-👁️ 8K • ⏱️ 11:13 • 13h ago
-
----
-
-**[Trump Posts AI &#39;Dr. Trump&#39; Video — Prescribes Diet Coke To Those Suffering With &#39;TDS&#39;](https://www.youtube.com/watch?v=8AheL0t-h-U)**
-
-LIKE & SUBSCRIBE for new videos daily. / @DailyWireNews Join DailyWire and watch all of our ad-free content NOW: ...
-
-📺 Daily Wire News
-
-👁️ 3K • 👍 246 • 💬 28 • ⏱️ 1:31 • 9h ago
+👁️ 16K • 👍 553 • 💬 129 • ⏱️ 16:19 • 1d ago
 
 ---
 
@@ -327,27 +323,27 @@ Sign up with Zapier - https://bit.ly/43JRmMw ----------------------- 🗞️ Sig
 
 📺 GEN
 
-👁️ 68K • 👍 4K • 💬 511 • ⏱️ 15:31 • 1d ago
+👁️ 71K • 👍 4K • 💬 521 • ⏱️ 15:31 • 1d ago
 
 ---
 
-**[Doctor Trump Shares AI Video Claiming To Cure ‘Trump Derangement Syndrome’ Sparks Row | Watch](https://www.youtube.com/watch?v=0mBBIOiFOtk)**
+**[Can we believe ANY of these Avengers Doomsday A.I. Shots?](https://www.youtube.com/watch?v=QMw6TfJuSHo)**
 
-US President Donald Trump shared an AI-generated parody video portraying himself as a doctor offering a fictional treatment for ...
+Avengers Doomsday Fake Leaks: What's based in truth, what's definitely A.I.! Head to https://betterhelp.com/newrockstars to get ...
 
-📺 MIRROR NOW
+📺 New Rockstars
 
-👁️ 11K • 👍 200 • 💬 100 • ⏱️ 3:42 • 12h ago
+👁️ 61K • 👍 3K • 💬 126 • ⏱️ 14:34 • 8h ago
 
 ---
 
-**[Why is AI expensive all of a sudden?](https://www.youtube.com/watch?v=DDj30VWCbbY)**
+**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
 
-ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow.
+Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
 
-📺 Alberta Tech
+📺 Yuval Noah Harari 
 
-👁️ 156K • 👍 9K • 💬 775 • ⏱️ 9:43 • 2d ago
+👁️ 338K • 👍 12K • 💬 1K • ⏱️ 46:52 • 2d ago
 
 ---
 
@@ -357,27 +353,27 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 77K • 👍 6K • 💬 2K • ⏱️ 14:34 • 1d ago
+👁️ 78K • 👍 6K • 💬 2K • ⏱️ 14:34 • 1d ago
 
 ---
 
-**[STOP Paying: Make LONG AI Videos FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=RI4LwxmpEys)**
+**[CNBC Panel EXPLODES Over AI Bubble Debate](https://www.youtube.com/watch?v=UMaOH0Ih9_0)**
 
-Try Higgsfield and create higher-quality AI videos here → https://higgsfield.ai/s/general-malvaai-IlyGIB Free Prompt PDFs + AI ...
+Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risks. Sign up for a PREMIUM Breaking Points ...
 
-📺 Malva AI
+📺 Breaking Points
 
-👁️ 5K • 👍 269 • 💬 44 • ⏱️ 11:46 • 15h ago
+👁️ 206K • 👍 5K • 💬 1K • ⏱️ 18:18 • 2d ago
 
 ---
 
-**[Trump Posts AI Video of Doctor Treating &quot;Trump Derangement Syndrome&quot; | APT](https://www.youtube.com/watch?v=uURrETnq74c)**
+**[AI Shocks Again: Google Post-AGI , New Claude, Microsoft 7 AI, 92% Human Robot, Fable 5 Backlash](https://www.youtube.com/watch?v=u-CNOC_yK4k)**
 
-Join this channel to get access to perks: https://www.youtube.com/channel/UCpLEtz3H0jSfEneSdf1YKnw/join President Donald ...
+This month in AI has been one of the busiest we've seen in a long time. Google revealed what could come after AGI, and the idea ...
 
-📺 APT
+📺 AI Revolution
 
-👁️ 18K • 👍 592 • 💬 326 • ⏱️ 3:01 • 16h ago
+👁️ 23K • 👍 648 • 💬 48 • ⏱️ 1:36:04 • 2d ago
 
 ---
 
@@ -393,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,250,562 • ❤️ 1,265 • 4d ago
+⬇️ 1,250,562 • ❤️ 1,284 • 4d ago
 
 ---
 
@@ -405,7 +401,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 758,489 • ❤️ 1,656 • 4d ago
+⬇️ 758,489 • ❤️ 1,661 • 1h ago
 
 ---
 
@@ -417,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 176,154 • ❤️ 3,260 • 19h ago
+⬇️ 176,154 • ❤️ 3,276 • 22h ago
 
 ---
 
@@ -429,7 +425,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 284,585 • ❤️ 658 • 7d ago
+⬇️ 284,585 • ❤️ 663 • 7d ago
 
 ---
 
@@ -441,7 +437,7 @@ Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for ag
 
 `text-generation` `9.0B`
 
-⬇️ 255,123 • ❤️ 397 • 7d ago
+⬇️ 255,123 • ❤️ 400 • 7d ago
 
 ---
 
@@ -453,19 +449,7 @@ A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for
 
 `text-generation` `11.9B`
 
-⬇️ 314,374 • ❤️ 964 • 13d ago
-
----
-
-**[Ornith-1.0-9B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B)**
-
-*DeepReinforce*
-
-Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate code solutions and their guiding scaffolds, achieving state-of-the-art performance on benchmarks like Terminal-Bench and SWE-Bench for its size.
-
-`text-generation` `1.5M`
-
-⬇️ 58,385 • ❤️ 353 • 7d ago
+⬇️ 314,374 • ❤️ 968 • 13d ago
 
 ---
 
@@ -477,7 +461,19 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 8,184 • ❤️ 303 • 5d ago
+⬇️ 8,184 • ❤️ 308 • 6d ago
+
+---
+
+**[Ornith-1.0-9B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B)**
+
+*DeepReinforce*
+
+Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic coding tasks. It leverages a self-improving RL framework to generate code solutions and their guiding scaffolds, achieving state-of-the-art performance on benchmarks like Terminal-Bench and SWE-Bench for its size.
+
+`text-generation` `1.5M`
+
+⬇️ 58,385 • ❤️ 354 • 7d ago
 
 ---
 
@@ -501,7 +497,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 39,448 • ❤️ 512 • 7d ago
+⬇️ 39,448 • ❤️ 516 • 7d ago
 
 ---
 
@@ -571,7 +567,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 olmOCR is an open-source toolkit using a fine-tuned vision language model to process PDFs into clean text while preserving structure, optimized for large-scale batch processing.
 
-▲ 12 • 💬 2 • ⭐ 18,540 • 16mo ago
+▲ 12 • 💬 2 • ⭐ 18,577 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.18443) • [💻 code](https://github.com/allenai/olmocr) • [🔗 project](https://olmocr.allenai.org/)
 
@@ -635,7 +631,7 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 37 • 💬 1 • ⭐ 26,403 • 33mo ago
+▲ 37 • 💬 1 • ⭐ 26,443 • 33mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -651,7 +647,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 71.9k • 🔱 3.7k • 1d ago
+⭐ 72.0k • 🔱 3.7k • 1d ago
 
 ---
 
@@ -661,7 +657,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.3k • 🔱 1.1k • 10h ago
+⭐ 11.3k • 🔱 1.1k • 41m ago
 
 ---
 
@@ -671,7 +667,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.1k • 🔱 782 • 3m ago
+⭐ 6.1k • 🔱 786 • 2m ago
 
 ---
 
@@ -681,7 +677,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 4.9k • 🔱 624 • 14h ago
+⭐ 5.0k • 🔱 630 • 17h ago
 
 ---
 
@@ -701,7 +697,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 175 • 3h ago
+⭐ 2.2k • 🔱 176 • 6h ago
 
 ---
 
@@ -721,7 +717,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.6k • 🔱 68 • 6h ago
+⭐ 1.6k • 🔱 69 • 9h ago
 
 ---
 
@@ -731,7 +727,7 @@ AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成�
 
 `Python`
 
-⭐ 1.3k • 🔱 125 • 25d ago
+⭐ 1.4k • 🔱 125 • 25d ago
 
 ---
 
@@ -741,7 +737,7 @@ AI logo animation skill: turn raster logos into smooth SVG animation, animated H
 
 `Python` `ai-design-tools` `animated-logo` `brand-motion` `claude-skill` `codex-skill`
 
-⭐ 1.3k • 🔱 114 • 4d ago
+⭐ 1.3k • 🔱 114 • 5d ago
 
 ---
 
