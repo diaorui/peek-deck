@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T19:35:04.515520+00:00'
+updated: '2026-07-03T21:07:43.320378+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 19:35 UTC  
+**Last Updated:** July 03, 2026 at 21:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,732.97
+### $1,767.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +11.2%  
-**30d:** -1.2%  
-**90d:** -17.0%  
-**1y:** -30.3%  
+**24h:** +3.9%  
+**7d:** +12.1%  
+**30d:** -0.3%  
+**90d:** -16.3%  
+**1y:** -29.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.61B
+**Market Cap:** $212.99B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.9%
+-64.3%
 
 **All-Time Low:** $0.43
-+401055.7%
++407515.6%
 
 ---
 
@@ -138,7 +138,7 @@ https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=7829
 
 Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a DeFi protocol that's been around for a long time; Ethereum oldheads might remember the name from as far back as 2019. The protocol works by users depositing their yield-bearing tokens, then their pool of yield being randomly awarded as prizes among the depositors. It incentivizes responsible saving by giving it some of the excitement of gambling, but without any of the degen risktaking--users never lose what they deposited and can withdraw at any time. Right now we're gearing up to have a giveaway of free chances to win on Base, where the total prize pool is currently 3.9 WETH. All you have to do to be eligible is join our Discord server and subscribe to our notification bot, Tooly. The winner of this giveaway will be selected this Thursday, July 2nd.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,17 +154,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
+
+ethereum.org • 2d ago
+
+---
+
 **[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
 
 The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
 
 CoinDesk • 2d ago
-
----
-
-**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
-
-ethereum.org • 2d ago
 
 ---
 
@@ -176,11 +176,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
+**[Is Solana the Best Ethereum Alternative Right Now?](https://finance.yahoo.com/markets/crypto/articles/solana-best-ethereum-alternative-now-195300874.html)**
 
-Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
+Investors seeking high-profile digital assets will be drawn to Solana's speed and low costs.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,23 +188,15 @@ Yahoo Finance • 4h ago
 
 Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)**
 
-Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
+Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
 
-Decrypt • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
-
-FXStreet • 16h ago
+Decrypt • 2d ago
 
 ---
 
@@ -212,7 +204,15 @@ FXStreet • 16h ago
 
 DUBAI, United Arab Emirates, July  02, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just closed another crypto presale round in hour...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
+
+FXStreet • 17h ago
 
 ---
 
@@ -234,27 +234,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 763 • 👍 84 • 💬 16 • ⏱️ 16:24 • 3h ago
-
----
-
-**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
-
-Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
-
-📺 Paul Barron Network
-
-👁️ 22K • 👍 935 • 💬 70 • ⏱️ 25:16 • 1d ago
-
----
-
-**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
-
-Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 203 • 💬 4 • ⏱️ 1:03:50 • 3h ago
+👁️ 2K • 👍 147 • 💬 65 • ⏱️ 16:24 • 5h ago
 
 ---
 
@@ -264,7 +244,27 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 677 • 👍 68 • 💬 6 • ⏱️ 9:09 • 3h ago
+👁️ 1K • 👍 109 • 💬 9 • ⏱️ 9:09 • 5h ago
+
+---
+
+**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
+
+Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 238 • 💬 17 • ⏱️ 1:03:50 • 5h ago
+
+---
+
+**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
+
+Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
+
+📺 Paul Barron Network
+
+👁️ 23K • 👍 962 • 💬 71 • ⏱️ 25:16 • 1d ago
 
 ---
 
@@ -274,17 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 470 • 👍 24 • 💬 6 • ⏱️ 4:41 • 9h ago
-
----
-
-**[CRYPTO BOTTOM IN OR ONE MORE DUMP? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=buwrXQN86Jg)**
-
-Brian from Santiment joined to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, and Solana. 🖥️ Sign up with ...
-
-📺 Thinking Crypto
-
-👁️ 1K • 👍 111 • 💬 34 • ⏱️ 26:00 • 7h ago
+👁️ 645 • 👍 25 • 💬 11 • ⏱️ 4:41 • 11h ago
 
 ---
 
@@ -294,17 +284,17 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 560 • 👍 9 • 💬 2 • ⏱️ 0:58 • 2h ago
+👁️ 2K • 👍 29 • 💬 10 • ⏱️ 0:58 • 4h ago
 
 ---
 
-**[Ethereum Price News: Buyers’ Commitment Will Be Tested at $1.8K](https://www.youtube.com/watch?v=Zpuz8YYOzYc)**
+**[CRYPTO BOTTOM IN OR ONE MORE DUMP? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=buwrXQN86Jg)**
 
-Ethereum faces a critical test at the $1800 resistance level. Despite a brief bounce and renewed ETF interest, depressed on-chain ...
+Brian from Santiment joined to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, and Solana. 🖥️ Sign up with ...
 
-📺 FXEmpire
+📺 Thinking Crypto
 
-👁️ 32 • 👍 2 • ⏱️ 4:59 • 6h ago
+👁️ 2K • 👍 133 • 💬 23 • ⏱️ 26:00 • 9h ago
 
 ---
 
@@ -314,7 +304,7 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 1K • 💬 115 • ⏱️ 30:21 • 2d ago
+👁️ 28K • 👍 1K • 💬 116 • ⏱️ 30:21 • 2d ago
 
 ---
 
@@ -325,6 +315,16 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 📺 The Moon Show
 
 👁️ 10K • 👍 539 • 💬 44 • ⏱️ 8:38 • 1d ago
+
+---
+
+**[Ethereum Price News: Buyers’ Commitment Will Be Tested at $1.8K](https://www.youtube.com/watch?v=Zpuz8YYOzYc)**
+
+Ethereum faces a critical test at the $1800 resistance level. Despite a brief bounce and renewed ETF interest, depressed on-chain ...
+
+📺 FXEmpire
+
+👁️ 45 • 👍 2 • ⏱️ 4:59 • 7h ago
 
 ---
 
