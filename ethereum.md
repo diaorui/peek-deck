@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T12:26:00.828319+00:00'
+updated: '2026-07-03T14:42:02.023970+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 12:26 UTC  
+**Last Updated:** July 03, 2026 at 14:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,745.86
+### $1,732.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +2.3%  
 **7d:** +10.2%  
-**30d:** -2.1%  
-**90d:** -17.8%  
+**30d:** -2.0%  
+**90d:** -17.7%  
 **1y:** -30.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $209.14B
+**Market Cap:** $208.81B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
@@ -62,7 +62,7 @@ No max supply
 -65.0%
 
 **All-Time Low:** $0.43
-+400157.3%
++399573.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-20h ago
+22h ago
 
 ---
 
@@ -130,7 +130,7 @@ https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=7829
 
 **[Explore the chain by execution shape](https://www.reddit.com/r/ethereum/comments/1ukm43h/explore_the_chain_by_execution_shape/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -160,11 +160,19 @@ ethereum.org • 1d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
+
+Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://finance.yahoo.com/markets/crypto/articles/ethereum-news-grayscale-ethereum-staking-102746444.html)**
 
 Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -196,7 +204,7 @@ Yahoo Finance • 1d ago
 
 The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -204,21 +212,15 @@ CoinDesk • 1d ago
 
 /PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
 
-PR Newswire • 1d ago
+PR Newswire • 2d ago
 
 ---
 
-**[The biggest blockchain upgrades still to come in 2026](https://www.tradingview.com/news/cointelegraph:d99fef4c5094b:0-the-biggest-blockchain-upgrades-still-to-come-in-2026/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
 
-Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
 
-TradingView • 22h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-increases-043693f0-639a6dd9509b)**
-
-MarketWatch • 22h ago
+FXStreet • 11h ago
 
 ---
 
@@ -232,7 +234,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 20K • 👍 864 • 💬 52 • ⏱️ 25:16 • 17h ago
+👁️ 21K • 👍 897 • 💬 55 • ⏱️ 25:16 • 19h ago
 
 ---
 
@@ -242,37 +244,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 176 • 👍 12 • 💬 23 • ⏱️ 4:41 • 2h ago
+👁️ 307 • 👍 21 • 💬 6 • ⏱️ 4:41 • 4h ago
 
 ---
 
-**[$401 Million Just Left Ethereum ETFs In One Streak While XRP Pulled In Money Every Single Day!](https://www.youtube.com/watch?v=18ouqLe6VqM)**
+**[CRYPTO BOTTOM IN OR ONE MORE DUMP? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=buwrXQN86Jg)**
 
-Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watch The Great Reset Deep-Dive Here: ...
+Brian from Santiment joined to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, and Solana. 🖥️ Sign up with ...
 
-📺 BULLRUNNERS
+📺 Thinking Crypto
 
-👁️ 1K • 👍 48 • 💬 14 • ⏱️ 12:09 • 12h ago
-
----
-
-**[I AM GOING ALL IN TODAY ON BITCOIN &amp; ETHEREUM !!!!](https://www.youtube.com/watch?v=BgVQM2MfoD8)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 9K • 👍 531 • 💬 43 • ⏱️ 8:38 • 1d ago
-
----
-
-**[Institutional Ethereum Launches!🚀Private Yields Incoming!💰Zama CEO INTERVIEW](https://www.youtube.com/watch?v=amMBpwhI4mI)**
-
-Ethereum Institutional has launched as an independent nonprofit focused on accelerating adoption of Ethereum, its layer-2 ...
-
-📺 Paul Barron Network
-
-👁️ 27K • 👍 1K • 💬 110 • ⏱️ 30:21 • 1d ago
+👁️ 579 • 👍 76 • 💬 19 • ⏱️ 26:00 • 2h ago
 
 ---
 
@@ -282,37 +264,47 @@ In this video I break down the latest Ethereum price analysis and explain why th
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 223 • 💬 8 • ⏱️ 11:42 • 22h ago
+👁️ 5K • 👍 230 • 💬 8 • ⏱️ 11:42 • 1d ago
 
 ---
 
-**[Claude AI trading bot + 22 Hours = 0.858 Ethereum (Actual results)](https://www.youtube.com/watch?v=DMqPLd8NtRg)**
+**[Institutional Ethereum Launches!🚀Private Yields Incoming!💰Zama CEO INTERVIEW](https://www.youtube.com/watch?v=amMBpwhI4mI)**
 
-Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources & Guide : https://tr.ee/mlf9pB Tired of ...
+Ethereum Institutional has launched as an independent nonprofit focused on accelerating adoption of Ethereum, its layer-2 ...
 
-📺 Ryan Walker
+📺 Paul Barron Network
 
-👁️ 26K • 👍 621 • 💬 30 • ⏱️ 5:58 • 1d ago
-
----
-
-**[Why the ETH Price Has Been Stuck for Five Years](https://www.youtube.com/watch?v=bFwBR6z5HVU)**
-
-Only two crypto-native assets are worth more than $100 billion, and ETH has been parked in that tier for five years. Ansgar ...
-
-📺 Unchained
-
-👁️ 2K • 👍 29 • 💬 7 • ⏱️ 10:18 • 1d ago
+👁️ 27K • 👍 1K • 💬 114 • ⏱️ 30:21 • 1d ago
 
 ---
 
-**[Tom Lee &amp; Cathie Wood :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=KLmtxISXI8A)**
+**[I AM GOING ALL IN TODAY ON BITCOIN &amp; ETHEREUM !!!!](https://www.youtube.com/watch?v=BgVQM2MfoD8)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
-📺 Crypto Nutshell
+📺 The Moon Show
 
-👁️ 6K • 👍 198 • 💬 184 • ⏱️ 18:21 • 1d ago
+👁️ 9K • 👍 533 • 💬 43 • ⏱️ 8:38 • 1d ago
+
+---
+
+**[$401 Million Just Left Ethereum ETFs In One Streak While XRP Pulled In Money Every Single Day!](https://www.youtube.com/watch?v=18ouqLe6VqM)**
+
+Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watch The Great Reset Deep-Dive Here: ...
+
+📺 BULLRUNNERS
+
+👁️ 1K • 👍 51 • 💬 14 • ⏱️ 12:09 • 14h ago
+
+---
+
+**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 2K • 💬 303 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -322,7 +314,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 87 • 💬 5 • ⏱️ 7:46 • 8h ago
+👁️ 1K • 👍 94 • 💬 5 • ⏱️ 7:46 • 10h ago
+
+---
+
+**[Claude AI trading bot + 22 Hours = 0.858 Ethereum (Actual results)](https://www.youtube.com/watch?v=DMqPLd8NtRg)**
+
+Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources & Guide : https://tr.ee/mlf9pB Tired of ...
+
+📺 Ryan Walker
+
+👁️ 27K • 👍 642 • 💬 42 • ⏱️ 5:58 • 1d ago
 
 ---
 

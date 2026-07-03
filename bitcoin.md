@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T12:26:00.822442+00:00'
+updated: '2026-07-03T14:42:02.017997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 12:26 UTC  
+**Last Updated:** July 03, 2026 at 14:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,134.72
+### $62,106.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +3.2%  
+**24h:** +0.6%  
+**7d:** +3.3%  
 **30d:** -3.0%  
-**90d:** -10.2%  
-**1y:** -42.6%  
+**90d:** -10.1%  
+**1y:** -42.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1241.33B
+**Market Cap:** $1239.88B
 Rank #1
 
-**Circulating Supply:** 20,051,500 BTC
+**Circulating Supply:** 20,051,553 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.9%
 
 **All-Time Low:** $67.81
-+91202.2%
++91104.8%
 
 ---
 
@@ -157,19 +157,41 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
+**[US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows](https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows)**
+
+BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.
+
+The Block • 7h ago
+
+---
+
+**[Bitcoin ETFs draw in $221 million alongside renewed buying from long-term investors](https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak)**
+
+Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.
+
+CoinDesk • 8h ago
+
+---
+
+**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
+
+Reuters • 2d ago
+
+---
+
 **[Bitcoin firm advertised by Nigel Farage loses 15% of asset value](https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value)**
 
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Guardian • 16h ago
+The Guardian • 18h ago
 
 ---
 
-**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
+**[Bitcoin ETFs Just Had Their Worst Month Ever. Here's Why I'm Not Worried About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-just-had-worst-141200170.html)**
 
-Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
+Bitcoin ETF inflows are likely to return as soon as the price of Bitcoin stabilizes.
 
-The Block • 23h ago
+Yahoo Finance • 30m ago
 
 ---
 
@@ -177,53 +199,7 @@ The Block • 23h ago
 
 Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-Fox Business • 1h ago
-
----
-
-**[Bitcoin (BTC) price bounces as memory, semiconductor stock trade starts to cool](https://www.coindesk.com/markets/2026/07/03/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changing-investor-focus)**
-
-After dominating markets in 2026, AI-tied memory and semiconductor stocks are losing momentum, raising the question whether capital will shift back into bitcoin.
-
-CoinDesk • 1h ago
-
----
-
-**[Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak](https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak)**
-
-Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.
-
-CoinDesk • 4h ago
-
----
-
-**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
-
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
-
-CoinDesk • 1h ago
-
----
-
-**[#CryptoCornerSeason2 Powered By Binance | Cryptocurrencies Decline in June The Key Reasons: - Institutional sell-off - $4.5 bn net outflow from US Spot Bitcoin ETFs #CNBCTV18Market Manisha Gupta #Bitcoin #Ethereum #Solana Binance](https://www.linkedin.com/posts/cnbc-tv18_cryptocornerseason2-cnbctv18market-bitcoin-activity-7478776994512568320-MgNF)**
-
-#CryptoCornerSeason2 Powered By Binance | Cryptocurrencies Decline in June
-
-The Key Reasons:
-- Institutional sell-off
-- $4.5 bn net outflow from US Spot Bitcoin ETFs
-
-#CNBCTV18Market Manisha Gupta  #Bitcoin #Ethereum #Solana Binance
-
-LinkedIn • 36m ago
-
----
-
-**[Ross Gerber Says Trump's $1 Billion Crypto Windfall Is Why 'Bitcoin Went Down and Isn't Going Anywhere'](https://finance.yahoo.com/markets/crypto/articles/ross-gerber-says-trumps-1-082541506.html)**
-
-Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s (CRYPTO: BTC) ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through cryptocurrency ventures, which include World Liberty Financial and the Official Trump (CRYPTO: TRUMP) memecoin. The CEO of Gerber Kawasaki Wealth and Investment Management said that the “grift is real,” and
-
-Yahoo Finance • 1d ago
+Fox Business • 3h ago
 
 ---
 
@@ -231,15 +207,29 @@ Yahoo Finance • 1d ago
 
 About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
 
-NBC News • 16h ago
+NBC News • 18h ago
 
 ---
 
-**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
+**[Fundamental case for bitcoin has never been stronger: Miller Value Partners' Miller](https://www.cnbc.com/video/2026/07/02/fundamental-case-for-bitcoin-has-never-been-stronger-miller-value-partners-miller.html)**
 
-The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
+CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
 
-Fortune • 1d ago
+CNBC • 18h ago
+
+---
+
+**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
+
+Bloomberg.com • 21h ago
+
+---
+
+**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -257,7 +247,7 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 **[Strategy Says It May Sell Up to $1.25B of Bitcoin](https://news.ycombinator.com/item?id=48718522)**
 
-⬆️ 5 • 💬 2 • 3d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
+⬆️ 5 • 💬 2 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
 
 ---
 
@@ -281,7 +271,7 @@ Tell us your Bitcoin stack. We'll email you the day you're a millionaire — the
 
 One
 
-⬆️ 2 • 💬 0 • 1d ago • [markovianprotocol.com](https://markovianprotocol.com)
+⬆️ 2 • 💬 0 • 2d ago • [markovianprotocol.com](https://markovianprotocol.com)
 
 ---
 
@@ -297,7 +287,7 @@ Strategy continues its shift away from aggressive Bitcoin accumulation as market
 
 How soon we forget that cryptocurrencies were given life by the instability of fiat currencies.
 
-⬆️ 1 • 💬 0 • 3d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
+⬆️ 1 • 💬 0 • 4d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
 
 ---
 
@@ -327,27 +317,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 232 • ⏱️ 20:33 • 14h ago
-
----
-
-**[Bitcoin Whales Just Made a Massive Crypto Bull Market Bet!](https://www.youtube.com/watch?v=Fwkjz9RIfFY)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 10K • 👍 602 • 💬 371 • ⏱️ 10:21 • 21h ago
-
----
-
-**[Bitcoin RECLAIMS $61K As Trump Made BILLIONS On Crypto + Stocks](https://www.youtube.com/watch?v=IByLIyYcg3E)**
-
-Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, below its 200-week moving average — but ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 524 • 💬 276 • ⏱️ 30:39 • 22h ago
+👁️ 35K • 👍 3K • 💬 216 • ⏱️ 20:33 • 17h ago
 
 ---
 
@@ -357,7 +327,37 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 91 • ⏱️ 3:08 • 8h ago
+👁️ 27K • 👍 2K • 💬 99 • ⏱️ 3:08 • 10h ago
+
+---
+
+**[Bitcoin Whales Just Made a Massive Crypto Bull Market Bet!](https://www.youtube.com/watch?v=Fwkjz9RIfFY)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 618 • 💬 383 • ⏱️ 10:21 • 23h ago
+
+---
+
+**[Bitcoin Holders: This Chart Is Going Vertical (And It&#39;s HUGE For Bitcoin)](https://www.youtube.com/watch?v=cl-HN9V4Vi0)**
+
+Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapital Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 3K • 👍 288 • 💬 22 • ⏱️ 9:15 • 6h ago
+
+---
+
+**[Bitcoin RECLAIMS $61K As Trump Made BILLIONS On Crypto + Stocks](https://www.youtube.com/watch?v=IByLIyYcg3E)**
+
+Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, below its 200-week moving average — but ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 532 • 💬 261 • ⏱️ 30:39 • 1d ago
 
 ---
 
@@ -367,17 +367,7 @@ In the depths of this bear market something has fundamentally changed ... the wo
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 374 • 💬 37 • ⏱️ 1:27:31 • 17h ago
-
----
-
-**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=8TmOvGK235I)**
-
-Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 123K • 👍 6K • 💬 375 • ⏱️ 22:49 • 1d ago
+👁️ 8K • 👍 385 • 💬 116 • ⏱️ 1:27:31 • 19h ago
 
 ---
 
@@ -387,7 +377,17 @@ Crypto looks to be entering a new phase, with signs that long-term accumulation 
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 23 • ⏱️ 27:44 • 21h ago
+👁️ 18K • 👍 1K • 💬 23 • ⏱️ 27:44 • 1d ago
+
+---
+
+**[Bitcoin: Simulation Confirmed](https://www.youtube.com/watch?v=8TmOvGK235I)**
+
+Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 124K • 👍 6K • 💬 376 • ⏱️ 22:49 • 1d ago
 
 ---
 
@@ -397,17 +397,7 @@ Michael Saylor built his reputation on one message: never sell your Bitcoin. Now
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 425 • ⏱️ 19:40 • 1d ago
-
----
-
-**[TRIGGERED: Did Bitcoin Bulls Just Confirm A Relief Rally To $69,000? [Double Digit Gains]](https://www.youtube.com/watch?v=3ExClpIVu90)**
-
-In today's youtube video, Kyledoops outlines whether a swing failure pattern has been confirmed and a price rally up to $69000 is ...
-
-📺 Crypto Banter
-
-👁️ 7K • 👍 762 • 💬 13 • ⏱️ 42:46 • 4h ago
+👁️ 36K • 👍 3K • 💬 409 • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -417,7 +407,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 781 • 💬 250 • ⏱️ 57:46 • 1d ago
+👁️ 14K • 👍 783 • 💬 262 • ⏱️ 57:46 • 1d ago
 
 ---
 
