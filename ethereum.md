@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T21:07:43.320378+00:00'
+updated: '2026-07-03T22:33:20.231090+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 21:07 UTC  
+**Last Updated:** July 03, 2026 at 22:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,767.39
+### $1,760.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.9%  
-**7d:** +12.1%  
-**30d:** -0.3%  
-**90d:** -16.3%  
-**1y:** -29.7%  
+**24h:** +3.5%  
+**7d:** +11.8%  
+**30d:** -0.7%  
+**90d:** -16.6%  
+**1y:** -29.9%  
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 2d ago
 
 Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Investors seeking high-profile digital assets will be drawn to Solana's speed and low costs.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,15 +188,23 @@ Yahoo Finance • 1h ago
 
 Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
 
-TradingView • 10h ago
+TradingView • 12h ago
 
 ---
 
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)**
+**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
 
-Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
+Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
 
 Decrypt • 2d ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
+
+Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
+
+FXStreet • 10h ago
 
 ---
 
@@ -204,15 +212,7 @@ Decrypt • 2d ago
 
 DUBAI, United Arab Emirates, July  02, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just closed another crypto presale round in hour...
 
-markets.businessinsider.com • 21h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
-
-FXStreet • 17h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 147 • 💬 65 • ⏱️ 16:24 • 5h ago
+👁️ 2K • 👍 147 • 💬 65 • ⏱️ 16:24 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 109 • 💬 9 • ⏱️ 9:09 • 5h ago
+👁️ 1K • 👍 109 • 💬 9 • ⏱️ 9:09 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 238 • 💬 17 • ⏱️ 1:03:50 • 5h ago
+👁️ 3K • 👍 238 • 💬 17 • ⏱️ 1:03:50 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 645 • 👍 25 • 💬 11 • ⏱️ 4:41 • 11h ago
+👁️ 645 • 👍 25 • 💬 11 • ⏱️ 4:41 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 2K • 👍 29 • 💬 10 • ⏱️ 0:58 • 4h ago
+👁️ 2K • 👍 29 • 💬 10 • ⏱️ 0:58 • 5h ago
 
 ---
 
@@ -294,7 +294,7 @@ Brian from Santiment joined to review the crypto market metrics for Bitcoin, Eth
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 133 • 💬 23 • ⏱️ 26:00 • 9h ago
+👁️ 2K • 👍 133 • 💬 23 • ⏱️ 26:00 • 10h ago
 
 ---
 
@@ -324,7 +324,7 @@ Ethereum faces a critical test at the $1800 resistance level. Despite a brief bo
 
 📺 FXEmpire
 
-👁️ 45 • 👍 2 • ⏱️ 4:59 • 7h ago
+👁️ 45 • 👍 2 • ⏱️ 4:59 • 9h ago
 
 ---
 

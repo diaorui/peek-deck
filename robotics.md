@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-03T21:07:43.323581+00:00'
+updated: '2026-07-03T22:33:20.234323+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 03, 2026 at 21:07 UTC  
+**Last Updated:** July 03, 2026 at 22:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-20h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ Sergey Levine talks about an experiment where 33 labs shared robot data. The res
 
 Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 16h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 17h ago
 
 ---
 
@@ -60,7 +60,7 @@ Looks promising. It'll be interesting to see how well it performs once it's oper
 
 I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
-14h ago
+15h ago
 
 ---
 
@@ -140,11 +140,19 @@ New Atlas • 1d ago
 
 ---
 
-**[this soft robot wants to fold laundry without pretending to be human](https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/)**
+**[Churchill Capital Corp XI (CCXI) Is Taking Agility Robotics Public In $2.5 Billion Merger](https://finance.yahoo.com/markets/stocks/articles/churchill-capital-corp-xi-ccxi-211506723.html)**
 
-san francisco-based weave robotics unveils 'isaac 1' with a collapsible body, soft fabric shell, and simplified grippers.
+Agility Robotics has agreed to merge with Churchill Capital Corp XI (NasdaqGM:CCXI) in a reverse merger valued at $2.5b. The combined company is expected to list under the Agility name with a new ticker symbol once the transaction closes. The deal includes additional funding through a PIPE, with backing from several well known institutional investors. Boards of both Agility Robotics and Churchill Capital Corp XI have unanimously approved the business combination. For Churchill Capital Corp...
 
-Designboom • 3m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
+
+Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
+
+TribLIVE.com • 1d ago
 
 ---
 
@@ -176,14 +184,6 @@ MarketWatch • 1d ago
 
 ---
 
-**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
-
-Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
-
-TribLIVE.com • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -204,7 +204,7 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 DeathTempler
 
-👁️ 5K • 👍 1K • 💬 106 • ⏱️ 0:29 • 3h ago
+👁️ 5K • 👍 1K • 💬 106 • ⏱️ 0:29 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ Get an up-close look at the UWORLD ultra-bionic humanoid robot and discover its 
 
 📺 UBTECH Robotics
 
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:02 • 9h ago
+👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:02 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T21:07:43.314471+00:00'
+updated: '2026-07-03T22:33:20.225140+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 21:07 UTC  
+**Last Updated:** July 03, 2026 at 22:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +4.5%  
-**30d:** -1.8%  
-**90d:** -9.1%  
-**1y:** -41.9%  
+**24h:** +1.6%  
+**7d:** +4.2%  
+**30d:** -2.0%  
+**90d:** -9.3%  
+**1y:** -42.0%  
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
+
+6h ago
+
+---
+
 **[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
 
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 5h ago
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 6h ago
 
 ---
 
@@ -87,7 +93,21 @@ Rank #1
 
 Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
 
-10h ago
+11h ago
+
+---
+
+**[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
+
+1h ago
+
+---
+
+**[Im going to yolo 5k into bitcoin today. My friend says buy ETF instead but I don’t listen to him.](https://www.reddit.com/r/Bitcoin/comments/1umpizk/im_going_to_yolo_5k_into_bitcoin_today_my_friend/)**
+
+Bitcoin! Bitcoin! Bitcoin!
+
+1h ago
 
 ---
 
@@ -95,15 +115,15 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 but someone might be faster than me
 
-18h ago
+19h ago
 
 ---
 
-**[Update from 1 year ago](https://www.reddit.com/r/Bitcoin/comments/1umgxj4/update_from_1_year_ago/)**
+**[📊 LATEST:](https://www.reddit.com/r/Bitcoin/comments/1uma282/latest/)**
 
-For context read last post: 28M I didn’t do it. Too many red flags screaming in my head about being smart about being stupid. New parameters: - got engaged - wedding next year - single family home after that About 220k to my name. Fiancé about the same. Wedding is paid for already with $ in a UST. Finances are sound (essential expenses paid for, no debt, 6mo emergency fund, etc). Currently have about 5k in btc exposure with a very slow DCA of about $200/m (not much but it’s something). Now here we are at 60k. About 50% down from where I was previously considering a large allocation change. This is now the time I think I will start to make some lump sum purchases. Fortune favors the bold. Godspeed.
+📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
 
-6h ago
+12h ago
 
 ---
 
@@ -113,41 +133,17 @@ For context read last post: 28M I didn’t do it. Too many red flags screaming i
 
 ---
 
-**[📊 LATEST:](https://www.reddit.com/r/Bitcoin/comments/1uma282/latest/)**
+**[Update from 1 year ago](https://www.reddit.com/r/Bitcoin/comments/1umgxj4/update_from_1_year_ago/)**
 
-📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
+For context read last post: 28M I didn’t do it. Too many red flags screaming in my head about being smart about being stupid. New parameters: - got engaged - wedding next year - single family home after that About 220k to my name. Fiancé about the same. Wedding is paid for already with $ in a UST. Finances are sound (essential expenses paid for, no debt, 6mo emergency fund, etc). Currently have about 5k in btc exposure with a very slow DCA of about $200/m (not much but it’s something). Now here we are at 60k. About 50% down from where I was previously considering a large allocation change. This is now the time I think I will start to make some lump sum purchases. Fortune favors the bold. Godspeed.
 
-11h ago
+7h ago
 
 ---
 
 **[Don’t forget](https://www.reddit.com/r/Bitcoin/comments/1ulovuh/dont_forget/)**
 
 1d ago
-
----
-
-**[Thinking of going all in .](https://www.reddit.com/r/Bitcoin/comments/1ulrbqa/thinking_of_going_all_in/)**
-
-I know I will probably get a lot of stick for this . As is the way with everything in life . However I’m thinking of going all in on btc . When I say all in , I mean putting the little cash I currently have saved else where in to bitcoin . I actually brought in last week at what I believe is a good price of 44,000 gbp ( about 57 k dollars ) . I only hold one other investment , which is the Nasdaq , however I genuinely believe we have a great asset here . Right now I get there is a lot of fear regarding btc . But I believe the 4 year cycle is real . It’s following it right now down to the bone . After everyone said last year it’s done . It’s holding true . Has anyone else made it a 100 percent of their portfolio ? If so , for what reason ? Peace !
-
-1d ago
-
----
-
-**[Was that the bottom?](https://www.reddit.com/r/Bitcoin/comments/1ulx424/was_that_the_bottom/)**
-
-Kinda wish I had bought more…..
-
-22h ago
-
----
-
-**[Quantum and changing consensus segment - Bitcoin Optech Newsletter #412](https://www.reddit.com/r/Bitcoin/comments/1umczn9/quantum_and_changing_consensus_segment_bitcoin/)**
-
-Bitcoin Optech newsletter #412 is here: links to benchmarking around SLH-DSA STARK aggregation points to discussion of a paper on constructing hybrid strongly-unforgeable signature schemes examines lattice-based PQ signatures describes a proposal for public key recovery for P2MR EC leaves summarizes a thread on aligning privacy incentives in P2MR describes and alternative to banning all 64-byte transactions summarizes a proposal to trigger EC disabling with a NUMS point spend or hashrate majority Optech Newsletter #412 Podcast https://bitcoinops.org/en/newsletters/2026/07/03/ Remix7531 posted to the Bitcoin-Dev mailing list his benchmark results for aggregating many SPHINCS signature verifications into a single STARK proof... https://bitcoinops.org/en/newsletters/2026/07/03/#benchmarking-slh-dsa-stark-aggregation Pieter Wuille posted to Delving Bitcoin about a EuroCrypt 2026 paper on constructing hybrid strongly-unforgeable signature schemes from a schnorr-like scheme and an arbitrary post-quantum signature scheme... https://bitcoinops.org/en/newsletters/2026/07/03/#bird-of-prey-2-bop-2-non-malleable-schnorr-and-pq-signatures Nikita Karetnikov posted to Delving Bitcoin and cross-posted to the Bitcoin-Dev mailing list about a Blockstream blog post comparing post-quantum signature families, where lattice-based schemes appear favorable on size and functionality... https://bitcoinops.org/en/newsletters/2026/07/03/#lattice-based-signatures starius posted to Delving Bitcoin a proposal to add a recoverable elliptic curve (EC) key leaf type to BIP360 (P2MR). The idea is to recover the EC public key from the schnorr signature... https://bitcoinops.org/en/newsletters/2026/07/03/#public-key-recovery-for-p2mr-ec-leaves Conduition posted to the Bitcoin-Dev mailing list a proposed BIP360 (P2MR) change to require every P2MR control block to include at least one 32-byte merkle authentication path (i.e. ban depth-zero script trees)... https://bitcoinops.org/en/newsletters/2026/07/03/#aligning-privacy-incentives-in-p2mr Jeremy Rubin posted to the Bitcoin-Dev mailing list a draft BIP proposing an alternative to the consensus cleanup (BIP54) rule making 64-byte witness-stripped transactions consensus-invalid... https://bitcoinops.org/en/newsletters/2026/07/03/#prohibit-merkle-internal-node-preimages-that-encode-minimal-64-byte-transactions Pieter Wuille wrote to the Bitcoin-Dev mailing list about codifying the expected future disabling of elliptic curve (EC) spending paths within new post-quantum output types such as BIP360 (P2MR) and P2TRv2... https://bitcoinops.org/en/newsletters/2026/07/03/#triggering-ec-disabling-with-a-nums-point-spend-or-hashrate-majority Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
-
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/03/) • 8h ago
 
 ---
 
@@ -159,29 +155,15 @@ Bitcoin Optech newsletter #412 is here: links to benchmarking around SLH-DSA STA
 
 Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-Fox Business • 10h ago
+Fox Business • 11h ago
 
 ---
 
-**[Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion](https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion)**
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
 
-U.S. institutional demand had its worst month ever in June. Large holders absorbed the selling, marking a divergence that has shown up near past cycle bottoms.
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
 
-CoinDesk • 9h ago
-
----
-
-**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
-
-Reuters • 2d ago
-
----
-
-**[Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-draw-222m-snapping-114634374.html)**
-
-Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
-
-Yahoo Finance • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -189,7 +171,7 @@ Yahoo Finance • 9h ago
 
 XRP trading volume tops Bitcoin (BTC) on Upbit as the $1.15 level emerges as the next key test for the token.
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,19 +183,11 @@ CNBC • 1d ago
 
 ---
 
-**[Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash](https://www.theblock.co/post/407062/irish-authorities-recover-another-500-bitcoins-lost-clifton-collins-drug-stash)**
-
-Onchain data from Arkham Intelligence now shows wallets tagged "Clifton Collins" holding roughly 4,500 BTC.
-
-The Block • 1d ago
-
----
-
 **[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
 
 The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -228,6 +202,28 @@ Bloomberg.com • 1d ago
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
 The Guardian • 1d ago
+
+---
+
+**[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
+
+Reuters • 2d ago
+
+---
+
+**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
+
+Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-draw-222m-snapping-114634374.html)**
+
+Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -299,7 +295,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 **[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
 
-⬆️ 3 • 💬 0 • 2h ago
+⬆️ 3 • 💬 0 • 3h ago
 
 ---
 
@@ -321,7 +317,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 236 • ⏱️ 20:33 • 23h ago
+👁️ 41K • 👍 3K • 💬 236 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -331,7 +327,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 111 • ⏱️ 3:08 • 17h ago
+👁️ 37K • 👍 2K • 💬 111 • ⏱️ 3:08 • 18h ago
 
 ---
 
@@ -341,7 +337,7 @@ Is Bitcoin entering a deeper correction, or is this the perfect buying opportuni
 
 📺 Nyalanesia
 
-👁️ 2K • 28m ago
+👁️ 2K • 1h ago
 
 ---
 
@@ -351,7 +347,7 @@ Is Bitcoin entering a deeper correction, or is this the perfect buying opportuni
 
 📺 The Tribes
 
-👁️ 2K • 31m ago
+👁️ 2K • 1h ago
 
 ---
 
@@ -361,7 +357,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 383 • 💬 42 • ⏱️ 9:15 • 13h ago
+👁️ 5K • 👍 383 • 💬 42 • ⏱️ 9:15 • 14h ago
 
 ---
 
@@ -401,7 +397,7 @@ In today's youtube video, Kyledoops outlines whether a swing failure pattern has
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 21 • ⏱️ 42:46 • 12h ago
+👁️ 13K • 👍 1K • 💬 21 • ⏱️ 42:46 • 14h ago
 
 ---
 
@@ -411,7 +407,7 @@ Michael Saylor built his reputation on one message: never sell your Bitcoin. Now
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 417 • ⏱️ 19:40 • 1d ago
+👁️ 37K • 👍 3K • 💬 417 • ⏱️ 19:40 • 2d ago
 
 ---
 
