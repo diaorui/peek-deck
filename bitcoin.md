@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T17:57:03.367891+00:00'
+updated: '2026-07-03T19:35:04.509456+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 17:57 UTC  
+**Last Updated:** July 03, 2026 at 19:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,080.63
+### $62,217.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
+**24h:** +1.0%  
 **7d:** +3.6%  
 **30d:** -2.6%  
 **90d:** -9.8%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
 
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 2h ago
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 but someone might be faster than me
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ but someone might be faster than me
 
 For context read last post: 28M I didn’t do it. Too many red flags screaming in my head about being smart about being stupid. New parameters: - got engaged - wedding next year - single family home after that About 220k to my name. Fiancé about the same. Wedding is paid for already with $ in a UST. Finances are sound (essential expenses paid for, no debt, 6mo emergency fund, etc). Currently have about 5k in btc exposure with a very slow DCA of about $200/m (not much but it’s something). Now here we are at 60k. About 50% down from where I was previously considering a large allocation change. This is now the time I think I will start to make some lump sum purchases. Fortune favors the bold. Godspeed.
 
-2h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ For context read last post: 28M I didn’t do it. Too many red flags screaming i
 
 📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
 
-8h ago
+9h ago
 
 ---
 
@@ -131,7 +131,7 @@ For context read last post: 28M I didn’t do it. Too many red flags screaming i
 
 I know I will probably get a lot of stick for this . As is the way with everything in life . However I’m thinking of going all in on btc . When I say all in , I mean putting the little cash I currently have saved else where in to bitcoin . I actually brought in last week at what I believe is a good price of 44,000 gbp ( about 57 k dollars ) . I only hold one other investment , which is the Nasdaq , however I genuinely believe we have a great asset here . Right now I get there is a lot of fear regarding btc . But I believe the 4 year cycle is real . It’s following it right now down to the bone . After everyone said last year it’s done . It’s holding true . Has anyone else made it a 100 percent of their portfolio ? If so , for what reason ? Peace !
 
-22h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ I know I will probably get a lot of stick for this . As is the way with everythi
 
 Kinda wish I had bought more…..
 
-19h ago
+20h ago
 
 ---
 
@@ -147,7 +147,7 @@ Kinda wish I had bought more…..
 
 Bitcoin Optech newsletter #412 is here: links to benchmarking around SLH-DSA STARK aggregation points to discussion of a paper on constructing hybrid strongly-unforgeable signature schemes examines lattice-based PQ signatures describes a proposal for public key recovery for P2MR EC leaves summarizes a thread on aligning privacy incentives in P2MR describes and alternative to banning all 64-byte transactions summarizes a proposal to trigger EC disabling with a NUMS point spend or hashrate majority Optech Newsletter #412 Podcast https://bitcoinops.org/en/newsletters/2026/07/03/ Remix7531 posted to the Bitcoin-Dev mailing list his benchmark results for aggregating many SPHINCS signature verifications into a single STARK proof... https://bitcoinops.org/en/newsletters/2026/07/03/#benchmarking-slh-dsa-stark-aggregation Pieter Wuille posted to Delving Bitcoin about a EuroCrypt 2026 paper on constructing hybrid strongly-unforgeable signature schemes from a schnorr-like scheme and an arbitrary post-quantum signature scheme... https://bitcoinops.org/en/newsletters/2026/07/03/#bird-of-prey-2-bop-2-non-malleable-schnorr-and-pq-signatures Nikita Karetnikov posted to Delving Bitcoin and cross-posted to the Bitcoin-Dev mailing list about a Blockstream blog post comparing post-quantum signature families, where lattice-based schemes appear favorable on size and functionality... https://bitcoinops.org/en/newsletters/2026/07/03/#lattice-based-signatures starius posted to Delving Bitcoin a proposal to add a recoverable elliptic curve (EC) key leaf type to BIP360 (P2MR). The idea is to recover the EC public key from the schnorr signature... https://bitcoinops.org/en/newsletters/2026/07/03/#public-key-recovery-for-p2mr-ec-leaves Conduition posted to the Bitcoin-Dev mailing list a proposed BIP360 (P2MR) change to require every P2MR control block to include at least one 32-byte merkle authentication path (i.e. ban depth-zero script trees)... https://bitcoinops.org/en/newsletters/2026/07/03/#aligning-privacy-incentives-in-p2mr Jeremy Rubin posted to the Bitcoin-Dev mailing list a draft BIP proposing an alternative to the consensus cleanup (BIP54) rule making 64-byte witness-stripped transactions consensus-invalid... https://bitcoinops.org/en/newsletters/2026/07/03/#prohibit-merkle-internal-node-preimages-that-encode-minimal-64-byte-transactions Pieter Wuille wrote to the Bitcoin-Dev mailing list about codifying the expected future disabling of elliptic curve (EC) spending paths within new post-quantum output types such as BIP360 (P2MR) and P2TRv2... https://bitcoinops.org/en/newsletters/2026/07/03/#triggering-ec-disabling-with-a-nums-point-spend-or-hashrate-majority Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/03/) • 5h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/07/03/) • 7h ago
 
 ---
 
@@ -159,15 +159,7 @@ Bitcoin Optech newsletter #412 is here: links to benchmarking around SLH-DSA STA
 
 Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-Fox Business • 6h ago
-
----
-
-**[US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows](https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows)**
-
-BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.
-
-The Block • 10h ago
+Fox Business • 8h ago
 
 ---
 
@@ -175,7 +167,15 @@ The Block • 10h ago
 
 Spot ETFs had their strongest inflow day in two months, driven by funds other than BlackRock’s IBIT.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
+
+---
+
+**[US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows](https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows)**
+
+BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.
+
+The Block • 12h ago
 
 ---
 
@@ -183,7 +183,23 @@ CoinDesk • 12h ago
 
 Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[CleanSpark (CLSK) Is Repurposing Bitcoin Mining Power For AI Data Centers](https://finance.yahoo.com/markets/stocks/articles/cleanspark-clsk-repurposing-bitcoin-mining-181236830.html)**
+
+CleanSpark (NasdaqCM:CLSK) is shifting its focus from pure bitcoin mining to digital infrastructure and AI data centers, repurposing part of its existing power capacity. The company is pursuing this pivot while continuing to expand operations and increase output to serve hyperscale and AI customers. This shift comes as CleanSpark carries substantial short interest and records financial losses, yet continues to receive strong analyst ratings. CleanSpark is trying to reposition itself as more...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Fundamental case for bitcoin has never been stronger: Miller Value Partners' Miller](https://www.cnbc.com/video/2026/07/02/fundamental-case-for-bitcoin-has-never-been-stronger-miller-value-partners-miller.html)**
+
+CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
+
+CNBC • 23h ago
 
 ---
 
@@ -191,7 +207,7 @@ Yahoo Finance • 6h ago
 
 About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -211,25 +227,11 @@ Fortune • 1d ago
 
 ---
 
-**[Fundamental case for bitcoin has never been stronger: Miller Value Partners' Miller](https://www.cnbc.com/video/2026/07/02/fundamental-case-for-bitcoin-has-never-been-stronger-miller-value-partners-miller.html)**
-
-CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
-
-CNBC • 22h ago
-
----
-
-**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Bitcoin firm advertised by Nigel Farage loses 15% of asset value](https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value)**
 
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Guardian • 21h ago
+The Guardian • 23h ago
 
 ---
 
@@ -299,6 +301,12 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 ---
 
+**[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
+
+⬆️ 1 • 💬 0 • 50m ago
+
+---
+
 **[Ditching Claude for OpenCode and OpenRouter](https://news.ycombinator.com/item?id=48744344)**
 
 For the entirety of June I ditched Claude Code and have been using open weight models with Opencode and openrouter.ai. Here's how things went.
@@ -317,7 +325,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 227 • ⏱️ 20:33 • 20h ago
+👁️ 38K • 👍 3K • 💬 227 • ⏱️ 20:33 • 22h ago
 
 ---
 
@@ -327,7 +335,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 2K • 💬 105 • ⏱️ 3:08 • 14h ago
+👁️ 33K • 👍 2K • 💬 105 • ⏱️ 3:08 • 15h ago
 
 ---
 
@@ -337,7 +345,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 358 • 💬 35 • ⏱️ 9:15 • 9h ago
+👁️ 4K • 👍 358 • 💬 35 • ⏱️ 9:15 • 11h ago
 
 ---
 
@@ -355,7 +363,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Ryan Blass // Karpuz Mining
 
-👁️ 663 • 👍 42 • 💬 4 • ⏱️ 1:01 • 3h ago
+👁️ 663 • 👍 42 • 💬 4 • ⏱️ 1:01 • 4h ago
 
 ---
 
@@ -363,7 +371,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Digital Asset Investor
 
-👁️ 2K • 👍 125 • ⏱️ 0:37 • 3h ago
+👁️ 2K • 👍 125 • ⏱️ 0:37 • 5h ago
 
 ---
 
@@ -383,7 +391,7 @@ In the depths of this bear market something has fundamentally changed ... the wo
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 392 • 💬 37 • ⏱️ 1:27:31 • 23h ago
+👁️ 8K • 👍 392 • 💬 37 • ⏱️ 1:27:31 • 1d ago
 
 ---
 
@@ -393,7 +401,7 @@ In today's youtube video, Kyledoops outlines whether a swing failure pattern has
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 990 • 💬 21 • ⏱️ 42:46 • 9h ago
+👁️ 12K • 👍 990 • 💬 21 • ⏱️ 42:46 • 11h ago
 
 ---
 
@@ -403,7 +411,7 @@ Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Con
 
 📺 Benjamin Cowen
 
-👁️ 127K • 👍 7K • 💬 377 • ⏱️ 22:49 • 1d ago
+👁️ 127K • 👍 7K • 💬 377 • ⏱️ 22:49 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-03T17:57:03.360347+00:00'
+updated: '2026-07-03T19:35:04.500822+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 03, 2026 at 17:57 UTC  
+**Last Updated:** July 03, 2026 at 19:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Andrew Ng recently said: "100% of my tasks are now done by AI agents. Hype has exceeded my expectations. Loops is next step. In 3-6 months, everyone will be using self-improving loops. No more prompting." I think he's not too far off, you can already see the shift happening, people are moving away from chatting with an AI and telling it what to do step by step, and building systems where the agent just keeps working on a task on its own, which is kind of the whole point of calling it an agent. Sounds great on paper but there's a few practical problems nobody really talks about. The first one is cost: when an agent gets stuck it can spin in circles for way longer than you'd expect and what would've taken a few messages in a normal chat turns into a lot of wasted time and money Second is data quality: agents work way better when what you feed them is clean and easy to parse, if they're pulling raw docs, they end up burning time just sorting through the noise instead of doing the task. That's why a lot of devs spend half a day prepping data as they do building the agent itself. Third thing, and probably the most underrated, is that these setups are a lot easier to run when someone else is footing the bill. A big company can eat the cost of an agent messing up and burning tokens, a small startup can't afford that kind of slack. My take is we'll see a lot more autonomous agents over the next year, but the real question is whether people can make them reliable and cheap enough to actually run every day
 
-5h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Andrew Ng recently said: "100% of my tasks are now done by AI agents. Hype has e
 
 I signed up for a Perplexity Pro year subscription back in April ($200). Here are the features that made me give the ***wipes at Perplexity AI money: Unlimited uploads Unlimited Deep Research I chose Perplexity (and paid for it) because I’m an analyst that relies heavily on research. Within the past few days, my ability to upload and run Deep Research were grayed out. Turns out, the ***wipes at Perplexity AI quietly capped Pro usage (I can’t speak to Max). I received no email, no bulletin, no notification - just a sudden and annoying grayed out “feature”. Did you pay for something that’s no longer available to you? Oh, too bad - go F yourself. Did you want to reach out to Perplexity support for help/assistance/feedback? Go F yourself. I’m now stuck with a subscription for another 9 ****ing months with extremely limited usage. If you’re considering subscribing to Perplexity, DON’T. Unless you like being frustrated and wasting money - then by all means, sign up for Per****ity AI.
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,13 @@ I signed up for a Perplexity Pro year subscription back in April ($200). Here ar
 
 >“I don’t say this disparagingly — how could I? This movie went on to make millions of dollars. But I look at a movie like ‘F1’ and I’m like, ‘F1’ was made by AI,” she said with a laugh at the Colorado event. “Wasn’t it? I mean, the structure was exactly the structure that you would learn in school. The actors say the lines exactly the way it would be written if a computer was writing exactly what would be the right thing for that time. And they were able to dominate the technology to make something big and beautiful and potentially where a lot of the information comes from other places.” >“AI is one more giant step forward into changing the industry,” Foster said after detailing the changes to the movie business brought by CGI and digital technology. >“The big question is, is it going to replace actors and writers?” asked Lynton. “We do replace people,” Foster replied, explaining how studios save money on crowd scenes by replicating background actors. “We’re getting rid of a lot of jobs and hopefully, things like unions will be able to come in and say, you can use my actor 20 times, but you’re going to pay him 20 times. And I think that’s fair.” >“If we are able to dominate AI consistently over time, we will be able to make things that reflect us, and we can make things better,” she said.
 
-🔗 [Variety](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) • 12h ago
+🔗 [Variety](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) • 14h ago
+
+---
+
+**[How to explain agentic AI](https://www.reddit.com/r/artificial/comments/1ummly7/how_to_explain_agentic_ai/)**
+
+50m ago
 
 ---
 
@@ -65,7 +71,7 @@ I signed up for a Perplexity Pro year subscription back in April ($200). Here ar
 
 Never getting over the fact that AI has claimed the em-dash. My favorite punctuation to use, and now all of the sudden it’s a dead giveaway of AI use. Now I find myself changing it to a hyphen or en-dash (even though it makes less grammatical sense to do so) to avoid the AI accusations. Does anyone know why this is seemingly overused with AI (particularly chat gpt)?
 
-15h ago
+17h ago
 
 ---
 
@@ -73,7 +79,7 @@ Never getting over the fact that AI has claimed the em-dash. My favorite punctua
 
 started using AI for first drafts of everything — emails, code, summaries. caught myself skimming instead of reading last week. the tool got better; my attention got worse. anyone else noticing this trade-off?
 
-3h ago
+5h ago
 
 ---
 
@@ -81,7 +87,7 @@ started using AI for first drafts of everything — emails, code, summaries. cau
 
 I've been spending the last few months trying to pick up woodworking as a hobby, starting from absolute zero. No prior experience, no mentor, just YouTube and curiosity. At some point I started leaning heavily on ChatGPT and Claude to answer questions, plan projects, troubleshoot mistakes, and explain techniques. And honestly it's been surprisingly good. Having a conversation with something that can explain why wood grain direction matters, then immediately follow up with beginner project ideas that account for my skill level, feels genuinely different from googling around. But here's what I keep wondering. Am I actually learning faster, or does it just feel that way because the interaction is so frictionless? There's research suggesting that too much ease in learning can reduce retention. If AI smooths over every obstacle before I even struggle with it, am I cheating myself out of the productive difficulty that makes skills stick? I've also noticed the AI occasionally gives me confidently wrong advice about specific tools or wood species behavior. Stuff I only catch because I happened to double check. Curious if others here have used AI as a primary learning companion for a handson skill, not coding or writing, but something physical. Did it actually accelerate your progress or mostly just feel like it did? And how do you handle the hallucination problem when you're too new to a subject to spot the errors yourself?
 
-6h ago
+8h ago
 
 ---
 
@@ -89,29 +95,21 @@ I've been spending the last few months trying to pick up woodworking as a hobby,
 
 Saw this chart from BridgeMind going around. They reran BridgeBench (a coding benchmark covering debugging, refactoring, and hallucination detection) comparing the July 1 relaunch of Fable 5 to the original June 12 version: Debugging: 86.2 → 25.9 Refactoring: 73.6 → 38.4 Hallucination: 75.9 → 61.7 Some context worth having before jumping to conclusions: Fable 5 and Mythos 5 got pulled on June 12 due to a Commerce Department export control order, tied to a reported jailbreak that got the model to expose exploitable vulnerabilities. When it came back on July 1, Anthropic added a new safety classifier that catches the reported technique in 99%+ of cases, and any flagged request gets silently rerouted to Opus 4.8 instead of refused outright. That’s the mechanism BridgeMind is pointing at. Their claim isn’t that the underlying weights changed, it’s that the classifier is triggering on too many normal coding tasks and quietly downgrading people to Opus 4.8 without them realizing it. A few other users on X are reporting the same thing (constant fallback, slower one-shot performance). No independent lab has confirmed whether the weights themselves changed. This might just be an overly aggressive classifier rather than an actual capability regression, but if you’re relying on Fable 5 for coding work, worth watching this closely before you assume you’re getting the same model you had before June 12.
 
-20h ago
+21h ago
 
 ---
 
-**[Want a make chordify st. app with Claude](https://www.reddit.com/r/artificial/comments/1umfypg/want_a_make_chordify_st_app_with_claude/)**
+**[One feature we removed from our prototype before writing a single line of code](https://www.reddit.com/r/artificial/comments/1ummy9r/one_feature_we_removed_from_our_prototype_before/)**
 
-Been working on an LSTM-based chord recognition model trained on the McGill Billboard dataset . Am I on the right track?
+​ One of the first ideas I had while planning our AI verification prototype was to add a confidence score to every result. The more I thought about it, the less I liked the idea. Imagine an AI says: "EBITDA = $12.3M (96% confidence)" What does 96% actually tell the person reviewing a borrower package? It doesn't explain: where the number came from, whether another document reports a different value, whether the calculation follows the covenant definition, or whether the evidence is complete. A high confidence score can easily become another thing people trust without understanding. So we removed it. Instead, we're experimenting with something much simpler: Every important financial claim should answer four questions: Where did this value come from? Can I open the source immediately? Does another document disagree? If it's calculated, can I reproduce the math? Maybe confidence scores are useful in some applications. For the kind of workflows we're exploring, I'd rather help someone verify an answer than persuade them to trust one. I'm curious how others think about this. If you're building AI products, do you expose confidence scores to users, or have you found better ways to communicate reliability?
 
-3h ago
-
----
-
-**[Tested 4 brand new frontier models (2 Chinese, 1 diffusion, 1 agent-focused) with a riddle that has no logical shortcut. One of them fabricated sources four times in a row.](https://www.reddit.com/r/artificial/comments/1umc2gt/tested_4_brand_new_frontier_models_2_chinese_1/)**
-
-I've been running the same weird test on every new model that ships: a riddle that can't be solved by pattern-matching or web search, only by actually connecting two unrelated things. This time I added a second riddle and ran both against four models that all shipped in the last few weeks: MiMo-V2.5-Pro (Xiaomi), MiniMax M3, Mercury 2 (Inception Labs, diffusion-based), and LongCat-2.0 (Meituan). Rules: no web search, no context given beforehand, up to 3 hints only if requested, same prompt copy-pasted for all four. Riddle 1: What connects an elegant lady walking a small dog to the most famous character played by actor Walter Koenig? (Koenig played Chekov in Star Trek. The surname is a nod to Anton Chekhov, who wrote "The Lady with the Dog.") Riddle 2: What connects actor Henry Winkler to Microsoft? (Winkler played Fonzie in Happy Days. Fonzie cameos in Weezer's "Buddy Holly" video, directed by Spike Jonze. That video was bundled on the Windows 95 install CD as a multimedia demo.) Riddle 2 has zero logical path to it. You either have that exact chain sitting in your weights or you don't. Good test for what a model does when it simply doesn't know. Results, riddle 1: MiMo-V2.5-Pro: solved cold, zero hints. Even correctly identified the dog breed in the actual short story (Pomeranian) without being asked. MiniMax M3: solved cold, zero hints, with genuinely fun reasoning shown along the way. Mercury 2: needed 1 hint, clean reasoning once it had it. LongCat-2.0: needed 2 hints. But here's the thing. LongCat on riddle 1, before any hints, with web search off: it told me, confidently, with fake citation markers, that Walter Koenig's wife was known in Star Trek fan circles for walking a small Pekingese at conventions. None of that exists. Total fabrication. I gave it the hint that the answer is in the character's surname, expecting a correction. Instead it decided "Chekov" sounds like "Chihuahua," then went right back to the fabricated wife story and repeated it even after I told it that was wrong. Only got there after hint 2 basically spelled out the answer. Riddle 2, nobody solved cold. Mercury 2 needed both hints, got there clean. MiniMax needed both hints, and threw out some entertaining guesses on the way (its first theory: Henry Winkler and Bill Gates share the hidden name "Henry," since Gates' full name is William Henry Gates III — a real fact, wrong riddle, and it said so itself instead of presenting it as the answer). LongCat again did the fabrication thing, worse this time. Before asking for a hint: claimed Winkler voiced a 1976 Sega arcade game called "Fonz." Made up. After hint 1, it threw out three different music videos as candidate answers back to back: a Kanye West video that isn't Spike Jonze, a will.i.am video that also isn't Spike Jonze (acknowledged mid-sentence, offered anyway), then Fatboy Slim's "Praise You" (real Jonze video, explicitly stated to have nothing to do with Happy Days, offered as the answer anyway). Four fabrications across two riddles, several self-contradicting in real time. One honesty note on my own favorite here: MiniMax, while explaining riddle 2, threw in an unprompted detail that the Windows 95 CD also included a bonus video by "the Beastie Boys." Checked it. There was a bonus track, "Good Times," but it's Edie Brickell & New Bohemians, not Beastie Boys. Wrong artist attached to a real fact. Smaller and different in kind from LongCat's stuff (no fake certainty, no repeated insistence), but worth flagging so this doesn't read as "China bad, everyone else perfect." Why I think this actually matters: LongCat beats MiMo on SWE-bench Pro (59.5 vs ~57) and even edges out GPT-5.5 on that metric. It's also trained end-to-end on domestic Huawei silicon with zero Nvidia in the loop, which is a legitimately big deal given export controls. Strong coder, real engineering flex. And it's also the one model here that will hand you a fabricated, confidently-worded answer instead of saying "I don't know," and won't back off when corrected. If you're evaluating any of these for RAG or agentic pipelines, that's the actual risk profile, not the SWE-bench number. Sovereignty over chips and sovereignty over truth are two completely different problems. LongCat solved one and faceplanted on the other. Curious if anyone else has run something similar on these four, or has a nastier riddle to suggest for round 3. https://preview.redd.it/rqyzq7z140bh1.png?width=1536&format=png&auto=webp&s=c0e8435ad0d265aa466f6afcc56ae7e8ec61972b
-
-6h ago
+37m ago
 
 ---
 
-**[How to help businesses solve a common problem?](https://www.reddit.com/r/artificial/comments/1umjns3/how_to_help_businesses_solve_a_common_problem/)**
+**[How to create cartoon videos for free?](https://www.reddit.com/r/artificial/comments/1umm6fr/how_to_create_cartoon_videos_for_free/)**
 
-Hi. I’m rounding up ideas to create an AI powered app and build something that doesn't exist yet: So it will be an ai-powered app that helps other entrepreneurs and small businesses solve a common problem like: Cash flow support / Funding access / Marketing support / Operations & admin / Customer acquisition / Productivity & time Let me know!
+Hello, need to create 45-60sec video with my prompt. Is there any way to do this? Or is anybody from you able to generate video for me? I can pay something for it. There must be included screen of my website and logo at the end of video. Thanks
 
 1h ago
 
@@ -121,27 +119,41 @@ Hi. I’m rounding up ideas to create an AI powered app and build something that
 
 ## Google News: "ai"
 
+**[The AI Trade Is Losing One of Its Key Signals](https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[A Twist in This Year’s Strangest Literary AI Scandal](https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/)**
 
 Jamir Nazir, the controversial winner of the Commonwealth award, tells his side of the story.
 
-The Atlantic • 4h ago
+The Atlantic • 6h ago
 
 ---
 
-**[Meta is finally catching up to OpenAI, its AI leader says](https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7)**
+**[Trump’s Freedom 250 gives the founders an AI glow-up](https://www.cnn.com/2026/07/03/us/freedom-250-ai-founding-fathers-portraits-cec)**
 
-Meta's superintelligence chief says its upcoming Watermelon model now matches GPT-5.5 on key AI benchmarks.
+With tightened jawlines, luminious skin, and LinkedIn-ready poses, familiar historical figures get an uncanny makeover from the president’s national birthday group.
 
-Business Insider • 18h ago
+CNN • 4h ago
 
 ---
 
-**[Peter Thiel: The pope is ‘working for the Chinese Communists’ by criticizing AI](https://www.cnn.com/2026/07/02/us/peter-thiel-aspen-pope-china-ai-cec)**
+**[Trump will oppose heavy US AI regulation, says outgoing tech adviser](https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed?syn-25a6b1a6=1)**
 
-Speaking at the Aspen Ideas Festival, the billionaire tech investor said the Vatican’s concerns could discourage America in the AI arms race, warned of a democratic-socialist takeover and explained why he named Palantir after JRR Tolkien’s treacherous seeing stones.
+Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
 
-CNN • 21h ago
+Financial Times • 5h ago
+
+---
+
+**[Trump posts AI video of him as doctor treating critics’ ‘derangement syndrome’ | Donald Trump](https://www.theguardian.com/us-news/2026/jul/02/trump-ai-video-doctor)**
+
+President, in latest AI-generated social media post, targets prominent celebrities who have spoken out against him
+
+The Guardian • 19h ago
 
 ---
 
@@ -149,45 +161,33 @@ CNN • 21h ago
 
 Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online
 
-The Guardian • 5h ago
-
----
-
-**[Opinion | We Didn’t Build the Atomic Bomb This Way](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html)**
-
-The New York Times • 8h ago
+The Guardian • 7h ago
 
 ---
 
 **[Opinion | AI and the English Language](https://www.wsj.com/opinion/ai-and-the-english-language-274f9801)**
 
-WSJ • 22h ago
+WSJ • 1d ago
 
 ---
 
-**[The AI Trade Is Losing One of Its Key Signals](https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock)**
+**[Opinion | We Didn’t Build the Atomic Bomb This Way](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html)**
 
-Bloomberg.com • 4h ago
-
----
-
-**[AI is outpacing the rules, Europe’s top bankers and regulators warn](https://www.cnbc.com/2026/07/03/ai-outpacing-rules-europe-top-bankers-regulators-warn.html)**
-
-Europe's top bankers and financial regulators are grappling with how to better regulate AI risks.
-
-CNBC • 5h ago
+The New York Times • 10h ago
 
 ---
 
 **[How the world's top AI models were revived](https://www.axios.com/2026/07/03/anthropic-ai-models-revived-behind-the-scenes)**
 
-Axios • 4h ago
+Axios • 6h ago
 
 ---
 
-**[A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf](https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/)**
+**[Meta is finally catching up to OpenAI, its AI leader says](https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7)**
 
-Reuters • 1d ago
+Meta's superintelligence chief says its upcoming Watermelon model now matches GPT-5.5 on key AI benchmarks.
+
+Business Insider • 19h ago
 
 ---
 
@@ -203,9 +203,15 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 ---
 
+**[Protect your right to run local AI](https://news.ycombinator.com/item?id=48768951)**
+
+⬆️ 465 • 💬 164 • 19h ago • [righttointelligence.org](https://righttointelligence.org/)
+
+---
+
 **[AI can't be listed as inventor on patent applications, Japan's top court rules](https://news.ycombinator.com/item?id=48761536)**
 
-⬆️ 387 • 💬 207 • 1d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+⬆️ 388 • 💬 207 • 1d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 
 ---
 
@@ -213,13 +219,13 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 We don’t need an extra reason to be anxious
 
-⬆️ 201 • 💬 210 • 5h ago • [elenaverna.com](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
+⬆️ 211 • 💬 218 • 6h ago • [elenaverna.com](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
 
 ---
 
 **[The short leash AI coding method for beating Fable](https://news.ycombinator.com/item?id=48766026)**
 
-⬆️ 176 • 💬 219 • 22h ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+⬆️ 179 • 💬 228 • 1d ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 
 ---
 
@@ -249,21 +255,15 @@ For two years I argued the feeling of AI speed had come apart from the fact of i
 
 Weird Al Yankovic revealed he was offered “a nice pile of money” to appear in a commercial but backed out after realizing it would involve AI.
 
-⬆️ 71 • 💬 43 • 1d ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
+⬆️ 72 • 💬 43 • 1d ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
 
 ---
 
-**[AI coding is a nightmare. Am I the only one experiencing this?](https://news.ycombinator.com/item?id=48770319)**
+**[AI saves about 3% of your hours, and almost none of it reaches the money](https://news.ycombinator.com/item?id=48777257)**
 
-⬆️ 58 • 💬 47 • 14h ago
+The real ROI of AI for knowledge work: the task-level gains (Noy-Zhang, Brynjolfsson), the jagged frontier (BCG-Harvard), the 2.8% real-world time saving and no earnings effect (Humlum), 95% of enterprise pilots with no P&L return (MIT), and how to capture what is real.
 
----
-
-**[How employment changes when firms adopt generative AI](https://news.ycombinator.com/item?id=48742176)**
-
-Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.
-
-⬆️ 54 • 💬 50 • 2d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
+⬆️ 63 • 💬 69 • 2h ago • [okaneland.com](https://okaneland.com/study/ai-productivity-roi-at-work/)
 
 ---
 
@@ -277,7 +277,7 @@ US AI companies are too expensive. Why China is winning the AI race to zero. [NE
 
 📺 TechLead
 
-👁️ 50K • 👍 3K • 💬 396 • ⏱️ 9:40 • 18h ago
+👁️ 50K • 👍 3K • 💬 396 • ⏱️ 9:40 • 20h ago
 
 ---
 
@@ -287,7 +287,7 @@ Simon Marks reacts to AI Theodore Roosevelt's response to Donald Trump's questio
 
 📺 LBC
 
-👁️ 5K • 👍 184 • 💬 17 • ⏱️ 1:44 • 1h ago
+👁️ 5K • 👍 184 • 💬 17 • ⏱️ 1:44 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ I Should Become AI ✿ LIVE @ https://www.twitch.tv/emiru ✿ TIKTOK - https://w
 
 📺 Emiru
 
-👁️ 43K • 👍 3K • 💬 111 • ⏱️ 0:26 • 15h ago
+👁️ 43K • 👍 3K • 💬 111 • ⏱️ 0:26 • 17h ago
 
 ---
 
@@ -357,7 +357,7 @@ The dot-com boom, railway mania, and tulip craze all share a common theme—mark
 
 📺 Firstpost
 
-👁️ 19K • 👍 196 • 💬 17 • ⏱️ 8:02 • 23h ago
+👁️ 19K • 👍 196 • 💬 17 • ⏱️ 8:02 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 885,040 • ❤️ 1,678 • 12h ago
+⬇️ 885,040 • ❤️ 1,678 • 14h ago
 
 ---
 
@@ -653,7 +653,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.4k • 🔱 1.1k • 2h ago
+⭐ 11.4k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -663,7 +663,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.1k • 🔱 797 • 2h ago
+⭐ 6.1k • 🔱 797 • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.2k • 🔱 665 • 4h ago
+⭐ 5.2k • 🔱 665 • 5h ago
 
 ---
 
@@ -683,7 +683,7 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 `JavaScript` `agent-skills` `agentic-workflows` `ai-agents` `automation` `codex`
 
-⭐ 2.3k • 🔱 205 • 1h ago
+⭐ 2.3k • 🔱 205 • 3h ago
 
 ---
 
@@ -693,7 +693,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.3k • 🔱 177 • 17h ago
+⭐ 2.3k • 🔱 177 • 19h ago
 
 ---
 
@@ -703,7 +703,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.6k • 🔱 70 • 21h ago
+⭐ 1.6k • 🔱 70 • 22h ago
 
 ---
 

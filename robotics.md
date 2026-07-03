@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-03T17:57:03.375773+00:00'
+updated: '2026-07-03T19:35:04.518748+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 03, 2026 at 17:57 UTC  
+**Last Updated:** July 03, 2026 at 19:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-17h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ Sergey Levine talks about an experiment where 33 labs shared robot data. The res
 
 Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 13h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 14h ago
 
 ---
 
@@ -60,7 +60,7 @@ Looks promising. It'll be interesting to see how well it performs once it's oper
 
 I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
-11h ago
+12h ago
 
 ---
 
@@ -74,7 +74,7 @@ I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find
 
 Researchers created a breakthrough technology that allows robots to feel and recreate touch just like humans. Using muscle-like air chambers, machines can now instantly mimic sensations ranging from soft tissues to rock-hard surfaces with 89% accuracy, revolutionizing robotic surgery and teleoperation. Credits: https://www.nature.com/articles/s44182-026-00102-2
 
-🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 23h ago
+🔗 [youtube.com](https://youtube.com/shorts/ETiESfA1n18?si=Vc4QAUeuejrGyaCv) • 1d ago
 
 ---
 
@@ -136,7 +136,7 @@ Reuters • 1d ago
 
 Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
 
-New Atlas • 23h ago
+New Atlas • 1d ago
 
 ---
 
@@ -144,15 +144,15 @@ New Atlas • 23h ago
 
 Serve Robotics (NasdaqCM:SERV) appointed Andreas Lieber to its Board of Directors. The appointment follows the resignation of former board member Sarfraz Maredia. Lieber brings experience from logistics, e-commerce, and mobility companies including Shippo and Postmates. Serve Robotics focuses on autonomous sidewalk delivery, a segment that sits at the intersection of robotics, logistics, and last mile fulfillment. As retailers and delivery platforms keep exploring ways to manage costs and...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Humanoid robots showcase football skills](https://sg.news.yahoo.com/humanoid-robots-showcase-football-skills-140040258.html)**
+**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
 
-Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.View on euronews
+Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
 
-Yahoo News Singapore • 3h ago
+TribLIVE.com • 23h ago
 
 ---
 
@@ -166,7 +166,13 @@ WSJ • 1d ago
 
 Kraken Robotics Inc. (Kraken), has announced the closing of its previously announced acquisition of Covelya Group Limited (Covelya Group), for approximately $615 million, subject to closing adjustments (the Acquisition).
 
-Ocean News & Technology • 22h ago
+Ocean News & Technology • 23h ago
+
+---
+
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 23h ago
 
 ---
 
@@ -175,12 +181,6 @@ Ocean News & Technology • 22h ago
 Robots can see and think, but without touch they’re clumsy. Hear how capacitive sensing gives humanoids grip, slip detection, and finesse.
 
 EE Times • 1d ago
-
----
-
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
-
-MarketWatch • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 DeathTempler
 
-👁️ 342 • 👍 57 • 💬 15 • ⏱️ 0:29 • 18m ago
+👁️ 342 • 👍 57 • 💬 15 • ⏱️ 0:29 • 1h ago
 
 ---
 
