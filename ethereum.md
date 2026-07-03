@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T06:47:19.677012+00:00'
+updated: '2026-07-03T10:05:07.930492+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 06:47 UTC  
+**Last Updated:** July 03, 2026 at 10:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,703.40
+### $1,712.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.2%  
-**7d:** +8.9%  
-**30d:** -3.2%  
-**90d:** -18.7%  
-**1y:** -31.7%  
+**24h:** +4.8%  
+**7d:** +9.9%  
+**30d:** -2.3%  
+**90d:** -18.0%  
+**1y:** -31.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $206.70B
+**Market Cap:** $208.40B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--65.4%
+-65.1%
 
 **All-Time Low:** $0.43
-+395531.2%
++398787.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Just wanted to say thanks to the bear market 🙏 arigato
 
-14h ago
+17h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -160,19 +160,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Spike as Weak Jobs Data Dims Rate-Hike Odds: Analyst Says 'Markets Are Just Waking Up'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-spike-030216419.html)**
+**[Bitcoin and ethereum prices today, Thursday, July 2: Prices move up following June jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-2-prices-move-up-following-june-jobs-report-125118367.html)**
 
-Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
+Bitcoin opened at $59,961.80 on Thursday, July 2, 2026. The value of bitcoin rose to $61,270.44 by 8:42 a.m. ET. Ethereum opened at $1,607.88. The price of ethereum moved to $1,656.11 by 8:42 a.m. ET.
 
-Yahoo Finance • 3h ago
-
----
-
-**[New Crypto: Ethereum Based Crypto Pepeto Nears Binance Debut While Cardano Price Target Turns Bullish](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-crypto-pepeto-nears-binance-debut-while-cardano-price-target-turns-bullish-1036295851)**
-
-DUBAI, United Arab Emirates, July  03, 2026  (GLOBE NEWSWIRE) -- Pepeto, the new crypto built on Ethereum, is now days from a Binance listing, an ...
-
-markets.businessinsider.com • 1h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -220,7 +212,13 @@ Decrypt • 1d ago
 
 Most crypto investors still obsess over price charts. But in 2026, a growing share of attention is shifting back to improving the fundamentals of the protocols.Ethereum, Solana and Avalanche are preparing some of their largest protocol upgrades in years, while Coinbase’s Base network rolled out its…
 
-TradingView • 17h ago
+TradingView • 20h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-increases-043693f0-639a6dd9509b)**
+
+MarketWatch • 20h ago
 
 ---
 
@@ -234,7 +232,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 17K • 👍 785 • 💬 51 • ⏱️ 25:16 • 11h ago
+👁️ 19K • 👍 832 • 💬 52 • ⏱️ 25:16 • 14h ago
 
 ---
 
@@ -244,7 +242,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 526 • 💬 43 • ⏱️ 8:38 • 23h ago
+👁️ 9K • 👍 527 • 💬 43 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -254,27 +252,7 @@ In this video I break down the latest Ethereum price analysis and explain why th
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 209 • 💬 8 • ⏱️ 11:42 • 16h ago
-
----
-
-**[Institutional Ethereum Launches!🚀Private Yields Incoming!💰Zama CEO INTERVIEW](https://www.youtube.com/watch?v=amMBpwhI4mI)**
-
-Ethereum Institutional has launched as an independent nonprofit focused on accelerating adoption of Ethereum, its layer-2 ...
-
-📺 Paul Barron Network
-
-👁️ 26K • 👍 1K • 💬 110 • ⏱️ 30:21 • 1d ago
-
----
-
-**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
-
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 2K • 💬 330 • ⏱️ 11:44 • 2d ago
+👁️ 5K • 👍 221 • 💬 8 • ⏱️ 11:42 • 20h ago
 
 ---
 
@@ -284,7 +262,7 @@ Put Your XRP To Work Here: → https://join.altcoinpro.com/bb377d65 👁️ Watc
 
 📺 BULLRUNNERS
 
-👁️ 750 • 👍 41 • 💬 37 • ⏱️ 12:09 • 6h ago
+👁️ 993 • 👍 44 • 💬 14 • ⏱️ 12:09 • 10h ago
 
 ---
 
@@ -298,13 +276,23 @@ Only two crypto-native assets are worth more than $100 billion, and ETH has been
 
 ---
 
-**[BTC &amp; ETHEREUM, Dieses Setup würde ich jetzt nutzen! Ein weiteres Hoch dann kleiner Abverkauf!](https://www.youtube.com/watch?v=3O07UeDO5Ko)**
+**[Institutional Ethereum Launches!🚀Private Yields Incoming!💰Zama CEO INTERVIEW](https://www.youtube.com/watch?v=amMBpwhI4mI)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 400€ + ...
+Ethereum Institutional has launched as an independent nonprofit focused on accelerating adoption of Ethereum, its layer-2 ...
 
-📺 Krypto Trading & Investing
+📺 Paul Barron Network
 
-👁️ 1K • 👍 302 • 💬 21 • ⏱️ 9:18 • 2h ago
+👁️ 27K • 👍 1K • 💬 110 • ⏱️ 30:21 • 1d ago
+
+---
+
+**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
+
+Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 2K • 💬 330 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -314,17 +302,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 194 • 💬 186 • ⏱️ 18:21 • 1d ago
+👁️ 6K • 👍 201 • 💬 186 • ⏱️ 18:21 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3f1rA5OHicw)**
+**[Claude AI trading bot + 22 Hours = 0.858 Ethereum (Actual results)](https://www.youtube.com/watch?v=DMqPLd8NtRg)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Claude AI trading bot + 22 Hours = 0.85 Ethereum (Actual results) Full resources & Guide : https://tr.ee/mlf9pB Tired of ...
 
-📺 Crypto Gyan
+📺 Ryan Walker
 
-👁️ 454 • 👍 66 • 💬 5 • ⏱️ 7:46 • 3h ago
+👁️ 26K • 👍 598 • 💬 30 • ⏱️ 5:58 • 1d ago
+
+---
+
+**[Ethereum Rally To Be CUT SHORT? TradeConfident.io](https://www.youtube.com/watch?v=2d_U-7P1JBA)**
+
+JULY 4TH SALE: UP TO $800 Off Indicators/ +20% Off Metric Charts: https://tradeconfidentportal.io/indicators Join Trade ...
+
+📺 Trade Confident
+
+👁️ 336 • 👍 9 • 💬 4 • ⏱️ 8:59 • 15h ago
 
 ---
 

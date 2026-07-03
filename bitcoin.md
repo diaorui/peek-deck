@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T06:47:19.671786+00:00'
+updated: '2026-07-03T10:05:07.924437+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 06:47 UTC  
+**Last Updated:** July 03, 2026 at 10:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $61,722.76
+### $61,597.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
+**24h:** +0.6%  
 **7d:** +2.8%  
 **30d:** -3.4%  
 **90d:** -10.6%  
-**1y:** -42.9%  
+**1y:** -42.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1234.54B
+**Market Cap:** $1236.28B
 Rank #1
 
-**Circulating Supply:** 20,051,375 BTC
+**Circulating Supply:** 20,051,468 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--51.2%
+-51.1%
 
 **All-Time Low:** $67.81
-+90722.9%
++90805.5%
 
 ---
 
@@ -133,7 +133,7 @@ A catastrophic never seen before crash in the history of any market just happene
 
 Getting downvoted in another thread for saying this but I'll say it again here. Forcing 1,200+ firms down to ~200 licensed ones cuts out a lot of the sketchy operators that never had proper custody or AML controls to begin with. Platforms that did the work and got licensed: CDC, Kraken, Nexo, eToro, Bitpanda, Revolut Yes, it's annoying short-term if your exchange didn't make it. But anyone who's been through an exchange collapse before probably sees the appeal of forced consolidation toward licensed players
 
-20h ago
+23h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoin just hit a 1-year low near $58K, down 53% from the October 2025 ATH. Thr
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
 
-23h ago
+1d ago
 
 ---
 
@@ -161,7 +161,7 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
 
-The Guardian • 10h ago
+The Guardian • 13h ago
 
 ---
 
@@ -169,39 +169,23 @@ The Guardian • 10h ago
 
 Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s (CRYPTO: BTC) ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through cryptocurrency ventures, which include World Liberty Financial and the Official Trump (CRYPTO: TRUMP) memecoin. The CEO of Gerber Kawasaki Wealth and Investment Management said that the “grift is real,” and
 
-Yahoo Finance • 22h ago
-
----
-
-**[Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000](https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000)**
-
-Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin posts worst month since June 2022 as one strategist says token could drop to $40,000](https://finance.yahoo.com/markets/crypto/article/bitcoin-posts-worst-month-since-june-2022-as-one-strategist-says-token-could-drop-to-40000-141926609.html)**
-
-Bitcoin capped the last day of the month with losses.
-
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?](https://www.fool.com/investing/2026/07/01/bitcoin-vs-ethereum-which-is-the-better-long-term/)**
+**[Bitcoin's Brutal Year Has a Washington Problem: CLARITY Act Odds and BTC Are Falling Together](https://finance.yahoo.com/markets/crypto/articles/bitcoins-brutal-washington-problem-clarity-083838583.html)**
 
-The top two cryptocurrencies are only superficially similar.
+Bitcoin has fallen 28% as CLARITY Act approval odds dropped from 74% to 40%. Senate vote uncertainty is emerging as a potential headwind for ...
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Cantor Delays Adam Back’s $4B Bitcoin Treasury SPAC Merger Again](https://finance.yahoo.com/markets/crypto/articles/cantor-delays-adam-back-4b-050632883.html)**
+**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
 
-In a major crypto merger update, Cantor Equity Partners I has once again postponed the shareholder vote on its proposed merger with Bitcoin Standard Treasury (BSTR), the bitcoin treasury company backed by Blockstream CEO Adam Back. The company board has now pushed the meeting to July 10 from the previously scheduled July 2. The vote
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-Yahoo Finance • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -209,13 +193,13 @@ Yahoo Finance • 1h ago
 
 About 1 million wallets holding Trump’s memecoin have seen net losses totaling $4.5 billion since it began trading in January 2025, according to a blockchain analysis group.
 
-NBC News • 11h ago
+NBC News • 14h ago
 
 ---
 
 **[Bitcoin Falls to 21-Month Low on Strategy, Rate-Hike Fears](https://www.bloomberg.com/news/articles/2026-07-01/bitcoin-falls-to-21-month-low-on-strategy-rate-hike-fears)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -227,11 +211,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
+**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
 
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
 
-Yahoo Finance • 1d ago
+The Block • 21h ago
+
+---
+
+**[Bitcoin's summer swoon creates unique trade in Strategy](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)**
+
+Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.
+
+CNBC • 1d ago
+
+---
+
+**[MiCA-Compliant And Truly Yours: The Lightning Debit Card Changing Bitcoin Payments In Europe](https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc)**
+
+From Euro IBAN deposits and auto-DCA to self-custody withdrawals, this bootstrapped Bitcoin neobank delivers the cypherpunk dream with full regulatory compliance in the MiCA era.
+
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -301,6 +301,14 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 ---
 
+**[Ditching Claude for OpenCode and OpenRouter](https://news.ycombinator.com/item?id=48744344)**
+
+For the entirety of June I ditched Claude Code and have been using open weight models with Opencode and openrouter.ai. Here's how things went.
+
+⬆️ 4 • 💬 2 • 2d ago • [ianwootten.co.uk](https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -311,7 +319,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 247 • ⏱️ 20:33 • 9h ago
+👁️ 30K • 👍 2K • 💬 218 • ⏱️ 20:33 • 12h ago
 
 ---
 
@@ -321,17 +329,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 573 • 💬 352 • ⏱️ 10:21 • 15h ago
-
----
-
-**[National TV Hosts FREAK OUT About Bitcoin&#39;s Price. Here&#39;s What They Still Don&#39;t Get](https://www.youtube.com/watch?v=w4dnU8n1AU4)**
-
-I joined Fox Business News this morning to calm them down about Bitcoin's recent dip below $60k. Even after 15+ years, they still ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 18K • 👍 421 • 💬 213 • ⏱️ 3:22 • 2d ago
+👁️ 10K • 👍 587 • 💬 355 • ⏱️ 10:21 • 19h ago
 
 ---
 
@@ -341,17 +339,27 @@ Bitcoin #Crypto #Finance Bitcoin rebounds after hitting a fresh 21-month low, be
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 513 • 💬 249 • ⏱️ 30:39 • 17h ago
+👁️ 12K • 👍 517 • 💬 256 • ⏱️ 30:39 • 20h ago
 
 ---
 
-**[INSIDER BOMBSHELL: 40 Countries Just Confirmed They&#39;re Buying Bitcoin!! | EP 1539](https://www.youtube.com/watch?v=uPoQKLRyU18)**
+**[Bitcoin: The Beauty of Mathematics (Part 71)](https://www.youtube.com/watch?v=uoF9yzXHmt4)**
 
-In the depths of this bear market something has fundamentally changed ... the worlds finance is set to buy bitcoin in mass!
+Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 17K • 👍 1K • 💬 72 • ⏱️ 3:08 • 6h ago
+
+---
+
+**[Were We Wrong About Michael Saylor?](https://www.youtube.com/watch?v=2nojwPLc8T0)**
+
+Michael Saylor built his reputation on one message: never sell your Bitcoin. Now Strategy has authorized a Bitcoin monetization ...
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 358 • 💬 75 • ⏱️ 1:27:31 • 12h ago
+👁️ 35K • 👍 3K • 💬 423 • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -361,37 +369,7 @@ Are we living in a simulation? Let's talk about Bitcoin! Come to the 1st ITC Con
 
 📺 Benjamin Cowen
 
-👁️ 119K • 👍 6K • 💬 371 • ⏱️ 22:49 • 1d ago
-
----
-
-**[Bitcoin&#39;s Bottom Could Be Closer Than You Think 👀](https://www.youtube.com/watch?v=y2ZSiZ39tPk)**
-
-Bitcoin's Bottom Could Be Closer Than You Think ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading ...
-
-📺 Stocks with Josh
-
-👁️ 2K • 👍 106 • 💬 50 • ⏱️ 0:48 • 11h ago
-
----
-
-**[Fox Business Expert Reveals MASSIVE Crypto News (bitcoin, ethereum)](https://www.youtube.com/watch?v=ykiG4u9Y3vA)**
-
-Buy, Sell, Trade Crypto: Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 2K • 💬 330 • ⏱️ 11:44 • 2d ago
-
----
-
-**[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 794 • 💬 257 • ⏱️ 57:46 • 1d ago
+👁️ 121K • 👍 6K • 💬 373 • ⏱️ 22:49 • 1d ago
 
 ---
 
@@ -401,7 +379,37 @@ Crypto looks to be entering a new phase, with signs that long-term accumulation 
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 22 • ⏱️ 27:44 • 16h ago
+👁️ 18K • 👍 1K • 💬 22 • ⏱️ 27:44 • 19h ago
+
+---
+
+**[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 795 • 💬 246 • ⏱️ 57:46 • 1d ago
+
+---
+
+**[bitcoin is dead and nobody wants to admit it](https://www.youtube.com/watch?v=btzMOI6kpeQ)**
+
+see you soon :) Wanna mine bitcoin? Do it with cheap pacific northwest hydro electricity + tax write-downs and get 1 month of ...
+
+📺 BTC Isla
+
+👁️ 6K • 👍 732 • 💬 241 • ⏱️ 12:27 • 18h ago
+
+---
+
+**[Every major BTC sentiment indicator says the same thing.](https://www.youtube.com/watch?v=GoIyv4bGoQE)**
+
+The crypto headlines may be focused on Donald Trump's latest financial disclosures, but the bigger story could reshape the future ...
+
+📺 Yahoo Finance
+
+👁️ 13K • 👍 536 • 💬 167 • ⏱️ 14:51 • 1d ago
 
 ---
 

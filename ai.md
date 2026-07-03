@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-03T06:47:19.664113+00:00'
+updated: '2026-07-03T10:05:07.915809+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 03, 2026 at 06:47 UTC  
+**Last Updated:** July 03, 2026 at 10:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Why does AI love the em dash (—)??](https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/)**
-
-Never getting over the fact that AI has claimed the em-dash. My favorite punctuation to use, and now all of the sudden it’s a dead giveaway of AI use. Now I find myself changing it to a hyphen or en-dash (even though it makes less grammatical sense to do so) to avoid the AI accusations. Does anyone know why this is seemingly overused with AI (particularly chat gpt)?
-
-4h ago
-
----
-
 **[Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: "Wasn’t It?"](https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/)**
 
 >“I don’t say this disparagingly — how could I? This movie went on to make millions of dollars. But I look at a movie like ‘F1’ and I’m like, ‘F1’ was made by AI,” she said with a laugh at the Colorado event. “Wasn’t it? I mean, the structure was exactly the structure that you would learn in school. The actors say the lines exactly the way it would be written if a computer was writing exactly what would be the right thing for that time. And they were able to dominate the technology to make something big and beautiful and potentially where a lot of the information comes from other places.” >“AI is one more giant step forward into changing the industry,” Foster said after detailing the changes to the movie business brought by CGI and digital technology. >“The big question is, is it going to replace actors and writers?” asked Lynton. “We do replace people,” Foster replied, explaining how studios save money on crowd scenes by replicating background actors. “We’re getting rid of a lot of jobs and hopefully, things like unions will be able to come in and say, you can use my actor 20 times, but you’re going to pay him 20 times. And I think that’s fair.” >“If we are able to dominate AI consistently over time, we will be able to make things that reflect us, and we can make things better,” she said.
 
-🔗 [Variety](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) • 1h ago
+🔗 [Variety](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/) • 4h ago
+
+---
+
+**[Why does AI love the em dash (—)??](https://www.reddit.com/r/artificial/comments/1um1gd5/why_does_ai_love_the_em_dash/)**
+
+Never getting over the fact that AI has claimed the em-dash. My favorite punctuation to use, and now all of the sudden it’s a dead giveaway of AI use. Now I find myself changing it to a hyphen or en-dash (even though it makes less grammatical sense to do so) to avoid the AI accusations. Does anyone know why this is seemingly overused with AI (particularly chat gpt)?
+
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Never getting over the fact that AI has claimed the em-dash. My favorite punctua
 
 Saw this chart from BridgeMind going around. They reran BridgeBench (a coding benchmark covering debugging, refactoring, and hallucination detection) comparing the July 1 relaunch of Fable 5 to the original June 12 version: Debugging: 86.2 → 25.9 Refactoring: 73.6 → 38.4 Hallucination: 75.9 → 61.7 Some context worth having before jumping to conclusions: Fable 5 and Mythos 5 got pulled on June 12 due to a Commerce Department export control order, tied to a reported jailbreak that got the model to expose exploitable vulnerabilities. When it came back on July 1, Anthropic added a new safety classifier that catches the reported technique in 99%+ of cases, and any flagged request gets silently rerouted to Opus 4.8 instead of refused outright. That’s the mechanism BridgeMind is pointing at. Their claim isn’t that the underlying weights changed, it’s that the classifier is triggering on too many normal coding tasks and quietly downgrading people to Opus 4.8 without them realizing it. A few other users on X are reporting the same thing (constant fallback, slower one-shot performance). No independent lab has confirmed whether the weights themselves changed. This might just be an overly aggressive classifier rather than an actual capability regression, but if you’re relying on Fable 5 for coding work, worth watching this closely before you assume you’re getting the same model you had before June 12.
 
-9h ago
+12h ago
 
 ---
 
@@ -65,13 +65,13 @@ Saw this chart from BridgeMind going around. They reran BridgeBench (a coding be
 
 OpenAI, the creator of ChatGPT, is reportedly discussing handing the Trump administration a 5% stake in the company amid growing government scrutiny of artificial intelligence firms.
 
-🔗 [CNN](https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl) • 12h ago
+🔗 [CNN](https://edition.cnn.com/2026/07/02/business/openai-trump-stake-intl) • 15h ago
 
 ---
 
-**[If you had an unlimited amount of tokens and limitless context, what would you build?](https://www.reddit.com/r/artificial/comments/1um2l8t/if_you_had_an_unlimited_amount_of_tokens_and/)**
+**[Team-lead told me to Ai-ify the contract review process and i discovered this when i got in there](https://www.reddit.com/r/artificial/comments/1um6znl/teamlead_told_me_to_aiify_the_contract_review/)**
 
-Today tokens amount and the context size are two of the most limiting things for AI (while the capabilities are slowly growing). And these limitations influence the whole technological progress. But if you had unlimited amount of tokens and would be able to run a model with as large context as you want. What would you build?
+Wasnt actually my idea tho. Q1 this year, the directive came from above, we're adding AI to the contract review workflow, figure out the implementation. Not a pilot neither experiment but decision The workflow on the paper looked straightfotward, contracts came in, they get reviewed against a checklist of terms, flagged items get escalated to the legal team. I'd done more complex automations this. Scoped it in within a week or so The person who had been running contract review for 3 years had basically built a second job, found out later, like a second job inside the official one. She wasn't just checking terms, she was the relationship layer between the vendors and the legal team. so she knew which flagged items were actually worth escalating and which ones were just noice from a particular vendor and more so but none of that was in any process doc I just found it when the agent started producing escelations that legal kept pushing back on. Not wrong like just missing the read that a human would have added. The volume went up the quality of the escellations went down, after a few weeks the legal team started routing around it. Theyd ask her directly and shed handle it the old way. The technical stack was the eeasy part for this. spend around a week on the document ingestion and the contracts came in as pdfs in all kinds of formats, tried docling and llamaparse before settling on something that handles the messier vendor templates and the extraction logic or OCR was clean. The model as surfacing the right clauses and that part worked pretty neat What i underbuilt was the handoff layer, the agent was producing outputs but had no way to carry the cotext that made those outputs usable. the fix i am testing now is keeping her in the loop as the interpretation step and agent flags and extracts, she adds the one line cobtext before anything goes to legal. Slower than original pitch byt its actually getting utilized. One thing tho, caught me off guard: the workflow had no social architecture inside it that you cant see from the outside, the AI mandate assumed the process was just the process but it actually wasn't. the person running it was the process Are others running into this on mandated rollouts vs ones where the team opted in?? feels like adoption curve is completely different and i dont see ppl talking about it very much
 
 3h ago
 
@@ -81,7 +81,15 @@ Today tokens amount and the context size are two of the most limiting things for
 
 You may be familiar with Yann LeCunn's idea of JEPA and how it may be the real future of the artificial intelligence. I was reading the articles and watching his work on the topic and I was like it is one thing I could always use in my project of "SVG generation". Well, before that I used a model like FLUX or SD (finetuned on vector styles) and then used vtracer. Which is not really bad. But when I saw I-JEPA and how it behaves with images, I decided to give it a shot. So I made this: https://github.com/prp-e/openjepa As far as I know, the available weights of JEPA are CC licensed so I licensed my work under MIT which makes it a little bit better to work. In my personal tests - due to my small dataset size - I got SVG's successfully but they weren't as expected. I'm sharing my code here (and let's be honest, I wrote basically most of the code using Claude 5 Sonnet) and I ask for improvement and ideas. Also, I am curious, will JEPA be a basis for text generation with more efficiency in energy and cost?
 
-8h ago
+11h ago
+
+---
+
+**[If you had an unlimited amount of tokens and limitless context, what would you build?](https://www.reddit.com/r/artificial/comments/1um2l8t/if_you_had_an_unlimited_amount_of_tokens_and/)**
+
+Today tokens amount and the context size are two of the most limiting things for AI (while the capabilities are slowly growing). And these limitations influence the whole technological progress. But if you had unlimited amount of tokens and would be able to run a model with as large context as you want. What would you build?
+
+7h ago
 
 ---
 
@@ -89,7 +97,7 @@ You may be familiar with Yann LeCunn's idea of JEPA and how it may be the real f
 
 Hi, I am doing a project and I want an AI to be used via API which is privacy-friendly. Although I like Deepseek, it seems they use the prompts for learning etc, so it would be a big no for my project as it handles user info.
 
-5h ago
+8h ago
 
 ---
 
@@ -97,7 +105,7 @@ Hi, I am doing a project and I want an AI to be used via API which is privacy-fr
 
 Hope this is the right place to ask. I basically want to learn the Reaper DAW and the fundamentals of putting together a bass music track. I'm learning from absolute scratch, and I've been wondering about having AI as a mentor. I've got free accounts on Claude and Chatgpt. Would either of these services be better than the other? And what about local LLM's? Are there any LLM's that I could get running with ollama that might be suitable for this kind of mentoring? I figure that I won't necessarily need my AI mentor to produce graphs or charts. I can augment my learning process the old-fashioned way - with Google. So I can resort to old-fashioned websearch when it comes to some concepts.
 
-5h ago
+9h ago
 
 ---
 
@@ -105,15 +113,7 @@ Hope this is the right place to ask. I basically want to learn the Reaper DAW an
 
 For the past several months we’ve been building something different inside Auroch. We’ve been working on Seraph — our autonomous reasoning core. The idea was simple but ambitious: create an intelligence layer that doesn’t just wait for instructions. One that, when it has no active goals, looks at its own capabilities and decides what it should learn next. Today that loop came alive. We cleared Seraph’s goals and took it fully offline. Instead of idling, it reached out to its local model (qwen2.5:3b, kept resident in memory as a daemon) and asked what capability it should develop. The model proposed something new: the ability to extract metadata from files and databases. Seraph then directed the model to generate both the specification and the complete Python implementation from scratch. It loaded the code into a strict sandbox, ran it through our evaluation gates, and — when it passed — promoted the skill into its permanent canon. This wasn’t something we prompted it to do. It noticed a gap in its own abilities and closed it on its own. Seraph Mark I is now a fully autonomous, offline, self-coding intelligence. It’s still early, but this is the behavior we’ve been aiming for: an agent that improves itself when no one is watching. We’re going to keep pushing this direction — strengthening how it improves its own improvement process and starting to build a structured archive of everything it learns. This is one of those moments where the work starts to feel like it’s compounding on its own. Grateful for the team that got us here. If you’re working on autonomous systems or local intelligence infrastructure, I’d love to hear what you’re seeing on your end.
 
-8h ago
-
----
-
-**[Do you think the future of AI will split into safe vs uncensored versions?](https://www.reddit.com/r/artificial/comments/1ulc2zs/do_you_think_the_future_of_ai_will_split_into/)**
-
-We’re seeing a clear divide right now. Big companies are making models more restricted and heavily aligned for safety. At the same time, open-source and uncensored models are growing fast because many people want fewer limitations and more freedom. I’m curious what others think. Do you believe this split will continue and create two very different types of AI, or will one side eventually dominate?
-
-22h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ We’re seeing a clear divide right now. Big companies are making models more re
 
 **[EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)**
 
-Reuters • 7h ago
+Reuters • 10h ago
 
 ---
 
@@ -131,7 +131,7 @@ Reuters • 7h ago
 
 Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.
 
-BBC • 7h ago
+BBC • 11h ago
 
 ---
 
@@ -141,25 +141,49 @@ WSJ • 1d ago
 
 ---
 
-**[South Korean Stocks Jump 5% After Turbulent Week on AI Swings](https://www.bloomberg.com/news/articles/2026-07-03/south-korean-stocks-jump-5-after-turbulent-week-on-ai-swings)**
+**[These celebrities are protecting their likenesses from AI — one trademark at a time](https://www.yahoo.com/entertainment/celebrity/articles/celebrities-protecting-likenesses-ai-one-091301162.html)**
 
-Bloomberg.com • 1h ago
+A growing number of celebrities are filing trademark applications to protect their likenesses, voices, and iconic phrases amid the AI boom.
 
----
-
-**[Could Your AI Content Land Your Business In Court?](https://www.forbes.com/sites/bernardmarr/2026/07/03/could-your-ai-content-land-your-business-in-court/)**
-
-Generative AI is helping businesses create content faster, but it is also creating new copyright and intellectual property risks that many companies do not understand.
-
-Forbes • 35m ago
+Yahoo • 52m ago
 
 ---
 
-**[Panic isn’t an AI strategy](https://www.fastcompany.com/91568695/panic-isnt-an-ai-strategy)**
+**[The AI spending spree is making the Fed's job harder](https://qz.com/federal-reserve-warsh-ai-spending-productivity?.tsrc=rss)**
 
-Boards are demanding AI results, but too many leaders are responding with performative adoption instead of real change.
+An AI spending blitz is demolishing new Fed chair Kevin Warsh's argument for interest rate cuts with more price increases about to ripple through the economy
 
-Fast Company • 34m ago
+qz.com • 13m ago
+
+---
+
+**[Opinion | We Didn’t Build the Atomic Bomb This Way](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: ‘Wasn’t It?’](https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/)**
+
+Jodie Foster laughingly said that Apple's "F1" could have been made by AI at a talk at the Aspen Festival of Ideas.
+
+Variety • 10h ago
+
+---
+
+**[Jodie Foster Describes ‘F1’ as a Movie “Made by AI” at Aspen Ideas Fest: “I Don’t Say This Disparagingly”](https://www.hollywoodreporter.com/movies/movie-news/jodie-foster-interview-f1-made-by-ai-aspen-ideas-fest-1236636316/)**
+
+The Oscar winner sat down with former Sony chief Michael Lynton for a session titled “Who Owns the Future of Hollywood.” Naturally, the conversation covered artificial intelligence, and Foster gave her take on how it’s being used.
+
+The Hollywood Reporter • 10h ago
+
+---
+
+**[Jodie Foster wonders if F1 movie was made with AI](https://www.yahoo.com/entertainment/movies/articles/jodie-foster-wonders-f1-movie-092756794.html)**
+
+Jodie Foster cited F1 as an example of a film made by AI during a discussion.
+
+Yahoo • 37m ago
 
 ---
 
@@ -167,31 +191,7 @@ Fast Company • 34m ago
 
 President, in latest AI-generated social media post, targets prominent celebrities who have spoken out against him
 
-The Guardian • 6h ago
-
----
-
-**[Peter Thiel in Aspen: The pope is ‘working for the Chinese Communists’](https://www.cnn.com/2026/07/02/us/peter-thiel-aspen-pope-china-ai-cec)**
-
-Speaking at the Aspen Ideas Festival, the billionaire tech investor said the Vatican’s concerns could discourage America in the AI arms race, warned of a democratic-socialist takeover and explained why he named Palantir after JRR Tolkien’s treacherous seeing stones.
-
-CNN • 9h ago
-
----
-
-**[Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/)**
-
-The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today...
-
-The Official Microsoft Blog • 17h ago
-
----
-
-**[OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report](https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html)**
-
-Trump said in June that the U.S. taking an ownership stake in AI giants would be "a beautiful thing" and make American public "partners in this revolution."
-
-CNBC • 1d ago
+The Guardian • 9h ago
 
 ---
 
@@ -203,13 +203,13 @@ CNBC • 1d ago
 
 At risk of drowning in AI slop code, Godot is firming up its contribution requirements.
 
-⬆️ 556 • 💬 395 • 1d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+⬆️ 557 • 💬 397 • 2d ago • [PC Gamer](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
 **[AI can't be listed as inventor on patent applications, Japan's top court rules](https://news.ycombinator.com/item?id=48761536)**
 
-⬆️ 367 • 💬 195 • 17h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+⬆️ 377 • 💬 196 • 20h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 
 ---
 
@@ -217,13 +217,13 @@ At risk of drowning in AI slop code, Godot is firming up its contribution requir
 
 Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, they didn't.)
 
-⬆️ 156 • 💬 56 • 18h ago • [Nieman Lab](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+⬆️ 156 • 💬 57 • 21h ago • [Nieman Lab](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 
 ---
 
 **[Meta caps internal AI token spending](https://news.ycombinator.com/item?id=48754713)**
 
-⬆️ 146 • 💬 146 • 1d ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+⬆️ 146 • 💬 147 • 1d ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
 
 ---
 
@@ -231,13 +231,13 @@ Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, the
 
 As Brussels bakes, the Berlaymont building’s AC stops working.
 
-⬆️ 137 • 💬 155 • 2d ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+⬆️ 137 • 💬 156 • 2d ago • [POLITICO](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
 
 ---
 
 **[The short leash AI coding method for beating Fable](https://news.ycombinator.com/item?id=48766026)**
 
-⬆️ 106 • 💬 128 • 11h ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
+⬆️ 133 • 💬 163 • 14h ago • [blog.okturtles.org](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 
 ---
 
@@ -253,7 +253,7 @@ For two years I argued the feeling of AI speed had come apart from the fact of i
 
 Weird Al Yankovic revealed he was offered “a nice pile of money” to appear in a commercial but backed out after realizing it would involve AI.
 
-⬆️ 65 • 💬 37 • 13h ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
+⬆️ 67 • 💬 38 • 17h ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
 
 ---
 
@@ -261,7 +261,7 @@ Weird Al Yankovic revealed he was offered “a nice pile of money” to appear 
 
 Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.
 
-⬆️ 53 • 💬 50 • 2d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
+⬆️ 54 • 💬 50 • 2d ago • [ramp.com](https://ramp.com/data/ai-jobs-impact)
 
 ---
 
@@ -283,7 +283,7 @@ US President Donald Trump has hilariously mocked several celebrities with 'Trump
 
 📺 Sky News Australia
 
-👁️ 17K • 👍 1K • 💬 309 • ⏱️ 9:25 • 5h ago
+👁️ 21K • 👍 2K • 💬 335 • ⏱️ 9:25 • 8h ago
 
 ---
 
@@ -293,7 +293,7 @@ US AI companies are too expensive. Why China is winning the AI race to zero. [NE
 
 📺 TechLead
 
-👁️ 27K • 👍 2K • 💬 244 • ⏱️ 9:40 • 7h ago
+👁️ 37K • 👍 2K • 💬 438 • ⏱️ 9:40 • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ W.T.F?!
 
 📺 Occupy Democrats
 
-👁️ 127K • 👍 4K • 💬 423 • ⏱️ 6:15 • 11h ago
+👁️ 130K • 👍 4K • 💬 438 • ⏱️ 6:15 • 14h ago
 
 ---
 
@@ -313,37 +313,17 @@ How much do you spend per month on AI? Interested in supporting the channel? Bec
 
 📺 Dylan John
 
-👁️ 16K • 👍 553 • 💬 129 • ⏱️ 16:19 • 1d ago
+👁️ 16K • 👍 564 • 💬 131 • ⏱️ 16:19 • 1d ago
 
 ---
 
-**[AI is Getting Dumber. That&#39;s NOT a Good Thing...](https://www.youtube.com/watch?v=vXHPRQTwrr4)**
+**[Why is AI expensive all of a sudden?](https://www.youtube.com/watch?v=DDj30VWCbbY)**
 
-Sign up with Zapier - https://bit.ly/43JRmMw ----------------------- 🗞️ Sign up to our free newsletter to get smarter about money and ...
+ZapierPartner Sponsored by Zapier! Zapier MCP levels you up, connecting you directly to apps to automate your workflow.
 
-📺 GEN
+📺 Alberta Tech
 
-👁️ 71K • 👍 4K • 💬 521 • ⏱️ 15:31 • 1d ago
-
----
-
-**[Can we believe ANY of these Avengers Doomsday A.I. Shots?](https://www.youtube.com/watch?v=QMw6TfJuSHo)**
-
-Avengers Doomsday Fake Leaks: What's based in truth, what's definitely A.I.! Head to https://betterhelp.com/newrockstars to get ...
-
-📺 New Rockstars
-
-👁️ 61K • 👍 3K • 💬 126 • ⏱️ 14:34 • 8h ago
-
----
-
-**[AI has hacked the code of human civilization | Yuval Noah Harari](https://www.youtube.com/watch?v=hBtVGwuJzpk)**
-
-Human domination relies on large-scale cooperation among strangers, which is sustained by bureaucratic systems – such as ...
-
-📺 Yuval Noah Harari 
-
-👁️ 338K • 👍 12K • 💬 1K • ⏱️ 46:52 • 2d ago
+👁️ 161K • 👍 9K • 💬 798 • ⏱️ 9:43 • 2d ago
 
 ---
 
@@ -353,27 +333,47 @@ Become a member! https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join �
 
 📺 Chris Norlund
 
-👁️ 78K • 👍 6K • 💬 2K • ⏱️ 14:34 • 1d ago
+👁️ 79K • 👍 6K • 💬 2K • ⏱️ 14:34 • 1d ago
 
 ---
 
-**[CNBC Panel EXPLODES Over AI Bubble Debate](https://www.youtube.com/watch?v=UMaOH0Ih9_0)**
+**[I Have A Strange Theory About Aliens And Ai](https://www.youtube.com/watch?v=5HPMzsqU6eM)**
 
-Krystal and Emily discuss a CNBC panel exploding on a debate over AI bubble risks. Sign up for a PREMIUM Breaking Points ...
+We can all agree that things are getting strange out there. In this episode, Pastor Jack tackles the topics of rapidly advancing AI ...
 
-📺 Breaking Points
+📺 Real Life with Jack Hibbs
 
-👁️ 206K • 👍 5K • 💬 1K • ⏱️ 18:18 • 2d ago
+👁️ 104K • 👍 8K • 💬 947 • ⏱️ 19:19 • 21h ago
 
 ---
 
-**[AI Shocks Again: Google Post-AGI , New Claude, Microsoft 7 AI, 92% Human Robot, Fable 5 Backlash](https://www.youtube.com/watch?v=u-CNOC_yK4k)**
+**[This $3 Stock Could Be AI&#39;s Biggest Surprise of 2026](https://www.youtube.com/watch?v=hiZ_AOO5Z-Y)**
 
-This month in AI has been one of the busiest we've seen in a long time. Google revealed what could come after AGI, and the idea ...
+AI is creating a massive power shortage, and while everyone is chasing nuclear, natural gas, and utility stocks, Wall Street may be ...
 
-📺 AI Revolution
+📺 Ross Givens
 
-👁️ 23K • 👍 648 • 💬 48 • ⏱️ 1:36:04 • 2d ago
+👁️ 25K • 👍 2K • 💬 281 • ⏱️ 13:26 • 1d ago
+
+---
+
+**[Palantir CEO Alex Karp says &#39;something has gone completely wrong&#39; with how AI is sold](https://www.youtube.com/watch?v=0A3sGymV6kY)**
+
+Palantir CEO Alex Karp joins CNBC's 'Squawk Box' to discuss the new Nvidia partnership, frontier AI models, and more.
+
+📺 CNBC Television
+
+👁️ 339K • 👍 5K • 💬 2K • ⏱️ 7:51 • 1d ago
+
+---
+
+**[Trump’s bizarre interaction with AI Theodore Roosevelt](https://www.youtube.com/watch?v=LWfc5EcDt_E)**
+
+Trump's bizarre interaction with AI Theodore Roosevelt #breakingnews #donaldtrump #ai #usa U.S. President Donald Trump had ...
+
+📺 news.com.au
+
+👁️ 8K • 👍 99 • 💬 25 • ⏱️ 2:57 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,250,562 • ❤️ 1,284 • 4d ago
+⬇️ 1,366,360 • ❤️ 1,304 • 4d ago
 
 ---
 
@@ -401,7 +401,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 758,489 • ❤️ 1,661 • 1h ago
+⬇️ 885,040 • ❤️ 1,668 • 4h ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 176,154 • ❤️ 3,276 • 22h ago
+⬇️ 191,462 • ❤️ 3,294 • 1d ago
 
 ---
 
@@ -425,31 +425,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 284,585 • ❤️ 663 • 7d ago
-
----
-
-**[Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF)**
-
-*DeepReinforce*
-
-Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for agentic coding tasks, excelling in benchmarks like Terminal-Bench and SWE-Bench. It utilizes a self-improving RL framework to generate high-quality code solutions and search trajectories, making it suitable for efficient single-GPU deployment.
-
-`text-generation` `9.0B`
-
-⬇️ 255,123 • ❤️ 400 • 7d ago
-
----
-
-**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
-
-*Yuxin Lu*
-
-A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
-
-`text-generation` `11.9B`
-
-⬇️ 314,374 • ❤️ 968 • 13d ago
+⬇️ 322,780 • ❤️ 667 • 7d ago
 
 ---
 
@@ -461,7 +437,31 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 8,184 • ❤️ 308 • 6d ago
+⬇️ 9,388 • ❤️ 315 • 6d ago
+
+---
+
+**[Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF)**
+
+*DeepReinforce*
+
+Ornith-1.0-9B-GGUF is a state-of-the-art, MIT-licensed 9B parameter model for agentic coding tasks, excelling in benchmarks like Terminal-Bench and SWE-Bench. It utilizes a self-improving RL framework to generate high-quality code solutions and search trajectories, making it suitable for efficient single-GPU deployment.
+
+`text-generation` `9.0B`
+
+⬇️ 287,942 • ❤️ 401 • 7d ago
+
+---
+
+**[gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF)**
+
+*Yuxin Lu*
+
+A local, offline coding and tool-using agent based on Gemma 4-12B, optimized for multi-step technical tasks and terminal operations. It significantly improves agentic capabilities, achieving ~3.5x higher scores on the tau2-bench telecom benchmark compared to the base model, making it ideal for debugging and complex command-line workflows with minimal hardware requirements.
+
+`text-generation` `11.9B`
+
+⬇️ 329,391 • ❤️ 971 • 14d ago
 
 ---
 
@@ -473,7 +473,7 @@ Ornith-1.0-9B is a 9B parameter text-generation model optimized for agentic codi
 
 `text-generation` `1.5M`
 
-⬇️ 58,385 • ❤️ 354 • 7d ago
+⬇️ 64,051 • ❤️ 355 • 7d ago
 
 ---
 
@@ -485,7 +485,7 @@ Ornith-1.0-35B is a state-of-the-art, MIT-licensed language model for agentic co
 
 `text-generation` `664,944`
 
-⬇️ 185,633 • ❤️ 312 • 7d ago
+⬇️ 211,406 • ❤️ 314 • 7d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 `text-generation` `34.7B`
 
-⬇️ 39,448 • ❤️ 516 • 7d ago
+⬇️ 45,455 • ❤️ 518 • 8d ago
 
 ---
 
@@ -513,7 +513,7 @@ Qwen-AgentWorld-35B-A3B is a native language world model for agentic environment
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 47 • 💬 5 • ⭐ 13,020 • 11d ago
+▲ 47 • 💬 5 • ⭐ 13,092 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -581,7 +581,7 @@ olmOCR is an open-source toolkit using a fine-tuned vision language model to pro
 
 SkillOpt introduces a systematic text-space optimizer for agent skills that trains skills as external agent state with stable updates and zero deployment inference overhead, achieving superior performance across multiple benchmarks and execution environments.
 
-▲ 249 • 💬 4 • ⭐ 10,456 • 1mo ago
+▲ 249 • 💬 4 • ⭐ 10,514 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.23904) • [💻 code](https://github.com/microsoft/SkillOpt) • [🔗 project](https://microsoft.github.io/SkillOpt/)
 
@@ -647,7 +647,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 72.0k • 🔱 3.7k • 1d ago
+⭐ 72.3k • 🔱 3.8k • 1d ago
 
 ---
 
@@ -657,7 +657,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.3k • 🔱 1.1k • 41m ago
+⭐ 11.3k • 🔱 1.1k • 39m ago
 
 ---
 
@@ -667,7 +667,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.1k • 🔱 786 • 2m ago
+⭐ 6.1k • 🔱 791 • 19m ago
 
 ---
 
@@ -677,7 +677,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.0k • 🔱 630 • 17h ago
+⭐ 5.1k • 🔱 642 • 21h ago
 
 ---
 
@@ -697,7 +697,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.2k • 🔱 176 • 6h ago
+⭐ 2.3k • 🔱 176 • 10h ago
 
 ---
 
@@ -707,7 +707,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `Shell` `apple-intelligence`
 
-⭐ 1.6k • 🔱 87 • 19d ago
+⭐ 1.6k • 🔱 87 • 20d ago
 
 ---
 
@@ -717,7 +717,7 @@ Official TestSprite CLI — AI-powered automated testing from your terminal
 
 `TypeScript` `ai` `cli` `e2e-testing` `playwright` `qa`
 
-⭐ 1.6k • 🔱 69 • 9h ago
+⭐ 1.6k • 🔱 70 • 13h ago
 
 ---
 
@@ -727,7 +727,7 @@ AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成�
 
 `Python`
 
-⭐ 1.4k • 🔱 125 • 25d ago
+⭐ 1.4k • 🔱 126 • 25d ago
 
 ---
 
