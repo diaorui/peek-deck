@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T17:34:16.881394+00:00'
+updated: '2026-07-04T19:14:45.655249+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 17:34 UTC  
+**Last Updated:** July 04, 2026 at 19:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,783.17
+### $1,802.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
+**24h:** +1.5%  
 **7d:** +13.9%  
 **30d:** +13.1%  
 **90d:** -15.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.01B
+**Market Cap:** $216.02B
 Rank #2
 
 **Circulating Supply:** 120,683,241 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.9%
+-63.8%
 
 **All-Time Low:** $0.43
-+412843.8%
++413305.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once again for their awesome work on these Doots! https://old.reddit.com/r/ethereum/comments/1um4zi1/daily_general_discussion_july_03_2026/ovb4kp7/
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 1d ago
 
 ---
 
@@ -166,11 +166,27 @@ Decrypt • 2d ago
 
 ---
 
+**[Crypto News: Pepeto Presale Passes $10.38 Million While Bitcoin Price Prediction Drops to $82,000 and Ethereum Jumps on Warsh Signal](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-10-38-million-while-bitcoin-price-prediction-drops-to-82-000-and-ethereum-jumps-on-warsh-signal-1036297960)**
+
+DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
+
+markets.businessinsider.com • 2h ago
+
+---
+
 **[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html)**
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://www.tradingview.com/news/cryptonews:c1b1c0ded094b:0-ethereum-news-grayscale-s-ethereum-staking-etf-just-had-its-cfo-resign/)**
+
+Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
+
+TradingView • 1d ago
 
 ---
 
@@ -178,29 +194,15 @@ Yahoo Finance • 6h ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 4h ago
+Coinpedia • 6h ago
 
 ---
 
-**[Ethereum Foundation Guide Targets Government And Institutional Blockchain Use](https://www.tradingview.com/news/newsbtc:d91a07954094b:0-ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/)**
+**[Ethereum outlines roadmap for 'Lean Ethereum' upgrades targeting 10,000 TPS and quantum safety](https://cryptobriefing.com/ethereum-lean-roadmap-quantum-scaling/)**
 
-The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
+Ethereum's Lean Ethereum roadmap targets 10,000 TPS on Layer 1 and 1 million TPS on Layer 2, with seven upgrades planned through 2029 including
 
-TradingView • 1d ago
-
----
-
-**[Ethereum Name Service governance faces scrutiny over founder accountability](https://cryptobriefing.com/ens-governance-founder-accountability-scrutiny/)**
-
-Crypto Briefing • 2h ago
-
----
-
-**[Crypto News: Pepeto Presale Passes $10.38 Million While Bitcoin Price Prediction Drops to $82,000 and Ethereum Jumps on Warsh Signal](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-10-38-million-while-bitcoin-price-prediction-drops-to-82-000-and-ethereum-jumps-on-warsh-signal-1036297960)**
-
-DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
-
-markets.businessinsider.com • 1h ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -220,9 +222,9 @@ PR Newswire • 3d ago
 
 ---
 
-**[EthLabs launches as Ethereum undergoes its biggest leadership transition in years](https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years)**
+**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
 
-In this week's edition of The Protocol Newsletter, we’re diving into the creation of EthLabs, and why it was launched during a period of transition for the ecosystem.
+The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
 
 CoinDesk • 3d ago
 
@@ -238,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 606 • 💬 326 • ⏱️ 10:11 • 18h ago
+👁️ 9K • 👍 632 • 💬 309 • ⏱️ 10:11 • 20h ago
 
 ---
 
@@ -248,7 +250,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 283 • 💬 44 • ⏱️ 1:03:50 • 1d ago
+👁️ 5K • 👍 289 • 💬 44 • ⏱️ 1:03:50 • 1d ago
 
 ---
 
@@ -258,7 +260,7 @@ Just when you thought it was safe to go back into the crypto pool... we get some
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 456 • 💬 265 • ⏱️ 31:47 • 7h ago
+👁️ 4K • 👍 517 • 💬 193 • ⏱️ 31:47 • 9h ago
 
 ---
 
@@ -268,27 +270,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 26K • 👍 1K • 💬 80 • ⏱️ 25:16 • 1d ago
-
----
-
-**[ETHEREUM &amp; SOLANA ANOTHER BOTTOM SIGNAL JUST FLASHED](https://www.youtube.com/watch?v=0lkyEssRrrA)**
-
-Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
-
-📺 Tyler Hill Crypto
-
-👁️ 4K • 👍 191 • 💬 75 • ⏱️ 16:24 • 1d ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
-
-In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 158 • 💬 13 • ⏱️ 9:09 • 1d ago
+👁️ 27K • 👍 1K • 💬 81 • ⏱️ 25:16 • 2d ago
 
 ---
 
@@ -298,7 +280,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 19K • 👍 232 • 💬 63 • ⏱️ 0:58 • 1d ago
+👁️ 24K • 👍 261 • 💬 68 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -308,17 +290,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 189 • 👍 13 • ⏱️ 5:09 • 8h ago
+👁️ 281 • 👍 14 • ⏱️ 5:09 • 10h ago
 
 ---
 
-**[This Is HUGE For Ethereum! (ETH Price Prediction)](https://www.youtube.com/watch?v=rZy94nI-BzE)**
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 983 • 👍 27 • 💬 5 • ⏱️ 4:41 • 1d ago
+👁️ 3K • 👍 162 • 💬 13 • ⏱️ 9:09 • 1d ago
+
+---
+
+**[ETHEREUM &amp; SOLANA ANOTHER BOTTOM SIGNAL JUST FLASHED](https://www.youtube.com/watch?v=0lkyEssRrrA)**
+
+Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 194 • 💬 45 • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -328,7 +320,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 114 • ⏱️ 8:11 • 14h ago
+👁️ 2K • 👍 121 • ⏱️ 8:11 • 16h ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
+
+In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 231 • 💬 8 • ⏱️ 11:42 • 2d ago
 
 ---
 

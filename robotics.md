@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T17:34:16.884605+00:00'
+updated: '2026-07-04T19:14:45.658500+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 17:34 UTC  
+**Last Updated:** July 04, 2026 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-22h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-11h ago
+13h ago
 
 ---
 
@@ -90,7 +90,7 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 22h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ The Register • 2d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 8h ago
+WSJ • 9h ago
 
 ---
 
@@ -176,11 +176,11 @@ Fortune • 3d ago
 
 ---
 
-**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
+**[Santa Cruz County robotics team captures world championship](https://pajaronian.com/santa-cruz-county-robotics-team-captures-world-championship/)**
 
-Your weekly selection of awesome robot videos
+Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
 
-IEEE Spectrum • 1d ago
+The Pajaronian • 1d ago
 
 ---
 
@@ -188,23 +188,61 @@ IEEE Spectrum • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[$60,000 Robots Fights for $1,000!](https://www.youtube.com/watch?v=y-LX2ORr6JQ)**
-
-Today, Vlad and Michael are doing an EPIC REAL ROBOTS FIGHT Challenge! They have to upgrade different robot fighters and ...
-
-📺 Vlad
-
-👁️ 264K • 👍 4K • 💬 348 • ⏱️ 23:59 • 6h ago
-
----
-
 **[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
 📺 South China Morning Post
 
-👁️ 176K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
+👁️ 183K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
+
+---
+
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+
+📺 Got Talent Global
+
+👁️ 67K • 👍 691 • 💬 24 • ⏱️ 5:08 • 6d ago
+
+---
+
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 8K • 👍 370 • 💬 71 • ⏱️ 12:50 • 3d ago
+
+---
+
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+
+📺 Vanessa Wingårdh
+
+👁️ 99K • 👍 5K • 💬 2K • ⏱️ 13:18 • 6d ago
+
+---
+
+**[🇮🇳 Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule](https://www.youtube.com/watch?v=DzmOAX1ArtM)**
+
+Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule Experience a futuristic mechanical transformation ...
+
+📺 TopDoglive
+
+👁️ 1K • ⏱️ 0:11 • 7h ago
+
+---
+
+**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
+
+📺 Smarttoy Ruko
+
+👁️ 35K • 👍 155 • ⏱️ 0:19 • 9h ago
 
 ---
 
@@ -214,35 +252,25 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 5K • 👍 14 • ⏱️ 0:21 • 16h ago
+👁️ 6K • 👍 15 • ⏱️ 0:21 • 17h ago
 
 ---
 
-**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
+**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
 
-Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
+The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
 
-📺 DeathTempler
+📺 DPCcars
 
-👁️ 18K • 👍 3K • 💬 185 • ⏱️ 0:29 • 23h ago
-
----
-
-**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
-
-📺 Smarttoy Ruko
-
-👁️ 22K • 👍 128 • ⏱️ 0:19 • 7h ago
+👁️ 83K • 👍 322 • 💬 172 • ⏱️ 2:50 • 2d ago
 
 ---
 
-**[Everyone Thought He Was a Robot 🤖😱](https://www.youtube.com/watch?v=0J8PhFDr05g)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=Nk226xASWDM)**
 
-Robot or human? This incredible actor has mastered robotic movements so perfectly that millions of people believe they're ...
+📺 Robot Julie 
 
-📺 Natural Health
-
-👁️ 7K • 👍 46 • 💬 1 • ⏱️ 0:25 • 14h ago
+👁️ 18K • 👍 47 • 💬 6 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -252,35 +280,7 @@ The future of wearable tech isn't just on your wrist—it's on your legs. In thi
 
 📺 CNET
 
-👁️ 12K • 👍 322 • 💬 31 • ⏱️ 3:44 • 2d ago
-
----
-
-**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=J1GBxgv9Vgs)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
-
-📺 South China Morning Post
-
-👁️ 121K • 👍 5K • 💬 729 • ⏱️ 2:39 • 3d ago
-
----
-
-**[Ultimate Robotic Soft Gripper Flex 🤖](https://www.youtube.com/watch?v=R0u8pzlA_ps)**
-
-Advanced Soft Pneumatic Gripping Innovation Handling fragile agricultural produce and sorting irregularly shaped manufacturing ...
-
-📺 Peace Working Shorts
-
-👁️ 193K • 👍 448 • 💬 5 • ⏱️ 0:06 • 13h ago
-
----
-
-**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
-
-📺 Kevin Wood | Robotics & AI
-
-👁️ 472K • 👍 922 • 💬 58 • ⏱️ 0:14 • 1d ago
+👁️ 12K • 👍 332 • 💬 31 • ⏱️ 3:44 • 2d ago
 
 ---
 
