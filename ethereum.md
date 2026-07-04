@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T21:30:40.951748+00:00'
+updated: '2026-07-04T22:32:52.754778+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 21:30 UTC  
+**Last Updated:** July 04, 2026 at 22:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,792.49
+### $1,785.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +14.0%  
-**30d:** +13.2%  
-**90d:** -14.9%  
-**1y:** -28.8%  
+**24h:** +1.6%  
+**7d:** +13.6%  
+**30d:** +12.8%  
+**90d:** -15.2%  
+**1y:** -29.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -154,15 +154,7 @@ Bitcoin Suisse has been active in the institutional crypto industry since its ea
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-The Motley Fool • 9h ago
-
----
-
-**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
-
-Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
-
-Yahoo Finance • 1d ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -174,11 +166,19 @@ TradingView • 1d ago
 
 ---
 
+**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
+
+Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin, Ethereum, and XRP Price Enter Historically Low-Risk Zones](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-enter-historically-low-risk-zones/)**
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 21h ago
+Coinpedia • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ Coinpedia • 21h ago
 
 Ethereum's Lean Ethereum roadmap targets 10,000 TPS on Layer 1 and 1 million TPS on Layer 2, with seven upgrades planned through 2029 including
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -194,7 +194,7 @@ Crypto Briefing • 3h ago
 
 Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
 
-TipRanks • 10h ago
+TipRanks • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ FXStreet • 1d ago
 
 DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -240,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 653 • 💬 310 • ⏱️ 10:11 • 22h ago
+👁️ 10K • 👍 653 • 💬 310 • ⏱️ 10:11 • 23h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 1K • 👍 159 • 💬 67 • ⏱️ 22:32 • 1h ago
+👁️ 1K • 👍 159 • 💬 67 • ⏱️ 22:32 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ Just when you thought it was safe to go back into the crypto pool... we get some
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 538 • 💬 199 • ⏱️ 31:47 • 11h ago
+👁️ 5K • 👍 538 • 💬 199 • ⏱️ 31:47 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 348 • 👍 15 • ⏱️ 5:09 • 12h ago
+👁️ 348 • 👍 15 • ⏱️ 5:09 • 13h ago
 
 ---
 
@@ -310,7 +310,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 402 • 💬 58 • ⏱️ 15:26 • 11h ago
+👁️ 5K • 👍 402 • 💬 58 • ⏱️ 15:26 • 12h ago
 
 ---
 

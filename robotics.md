@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T21:30:40.954723+00:00'
+updated: '2026-07-04T22:32:52.757903+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 21:30 UTC  
+**Last Updated:** July 04, 2026 at 22:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-15h ago
+16h ago
 
 ---
 
@@ -126,7 +126,7 @@ The Register • 2d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 12h ago
+WSJ • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 6K • 👍 15 • ⏱️ 0:21 • 20h ago
+👁️ 6K • 👍 15 • ⏱️ 0:21 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ China has unveiled a new generation of ultra-realistic humanoid robots that are 
 
 📺 Techie Sapien
 
-👁️ 8K • 💬 3 • ⏱️ 0:09 • 10h ago
+👁️ 8K • 💬 3 • ⏱️ 0:09 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ China has unveiled a new generation of ultra-realistic humanoid robots that are 
 
 📺 Smarttoy Ruko
 
-👁️ 38K • 👍 160 • ⏱️ 0:19 • 11h ago
+👁️ 38K • 👍 160 • ⏱️ 0:19 • 12h ago
 
 ---
 
@@ -278,7 +278,7 @@ China has unveiled a new generation of ultra-realistic humanoid robots that are 
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 386 • 💬 130 • ⏱️ 15:05 • 8h ago
+👁️ 8K • 👍 386 • 💬 130 • ⏱️ 15:05 • 9h ago
 
 ---
 

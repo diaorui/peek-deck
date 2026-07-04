@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T21:30:40.946172+00:00'
+updated: '2026-07-04T22:32:52.748852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 21:30 UTC  
+**Last Updated:** July 04, 2026 at 22:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +6.6%  
-**30d:** +3.8%  
-**90d:** -7.9%  
-**1y:** -41.4%  
+**24h:** +1.0%  
+**7d:** +6.2%  
+**30d:** +3.5%  
+**90d:** -8.2%  
+**1y:** -41.6%  
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
-7h ago
-
----
-
-**[The Bitcoin Steakburger](https://www.reddit.com/r/Bitcoin/comments/1une2a7/the_bitcoin_steakburger/)**
-
-Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
-
-4h ago
+8h ago
 
 ---
 
@@ -95,13 +87,29 @@ Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. G
 
 I think he's gonna make it.
 
-2h ago
+3h ago
+
+---
+
+**[The Bitcoin Steakburger](https://www.reddit.com/r/Bitcoin/comments/1une2a7/the_bitcoin_steakburger/)**
+
+Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
+
+5h ago
 
 ---
 
 **[Let’s go ! BTC to Moon](https://www.reddit.com/r/Bitcoin/comments/1un64i2/lets_go_btc_to_moon/)**
 
-10h ago
+11h ago
+
+---
+
+**[Whole coiner](https://www.reddit.com/r/Bitcoin/comments/1un3gcf/whole_coiner/)**
+
+Is it me or is the most compelling, motivating, and greatest achievement of my life to get to one Bitcoin right now? All I want is one, who knows from there, but in my mind I’ll be like holy shit I did it ✅
+
+14h ago
 
 ---
 
@@ -111,17 +119,11 @@ I think he's gonna make it.
 
 ---
 
-**[Whole coiner](https://www.reddit.com/r/Bitcoin/comments/1un3gcf/whole_coiner/)**
+**[Bitcoin chart doesn't care how many times you refresh it](https://www.reddit.com/r/Bitcoin/comments/1unjjik/bitcoin_chart_doesnt_care_how_many_times_you/)**
 
-Is it me or is the most compelling, motivating, and greatest achievement of my life to get to one Bitcoin right now? All I want is one, who knows from there, but in my mind I’ll be like holy shit I did it ✅
+every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
 
-13h ago
-
----
-
-**[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -129,7 +131,13 @@ Is it me or is the most compelling, motivating, and greatest achievement of my l
 
 I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
 
-6h ago
+7h ago
+
+---
+
+**[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
+
+1d ago
 
 ---
 
@@ -141,71 +149,15 @@ Bitcoin! Bitcoin! Bitcoin!
 
 ---
 
-**[Hacked for ~3.4M sats - Need help tracking if funds hit an exchange (Clipboard vulnerability?)](https://www.reddit.com/r/Bitcoin/comments/1umuduh/hacked_for_34m_sats_need_help_tracking_if_funds/)**
-
-Hi everyone, I was unfortunately hacked on June 6th, 2026, at 01:01 AM. The attacker managed to drain my funds in three separate transactions sent to the exact same hacker address: bc1qvwklr8mutvrk49zvwpvuvtxx9jdzc2gg0l0jjw Here are the TXIDs and amounts: 193,885 sats -> ⁠ee778ce0031ffd1c41bfc99e22a8b2a7d643f684a6d4ac498e8221dc4c65a10a⁠ 69,890 sats -> ⁠776b0caa9fd34dbaecdbd2f76e1f8f544afbc3b1d9fad862491afb8ee2e88000⁠ 3,152,496 sats -> ⁠20656c02472ae54795cb08219d83125138c887c1f1c575c399c424aae35d520a ⁠ I have never shared my seed phrase with anyone. The only vector I can think of is a clipboard leak. A while ago, I copied my seed phrase from Cake Wallet to test Blue Wallet on my iPhone. I suspect I forgot to clear my clipboard, and a malicious website or app read it while I was browsing. Note: I have already secured my remaining/future funds by creating a brand new wallet on a clean setup and moving everything there. I know Bitcoin transactions are irreversible and these funds are gone. However, I want to know if these funds have eventually landed on a centralized exchange (KYC'd wallet) where a police report could potentially freeze them. Could anyone with blockchain forensics experience help me track where the hacker moved the funds after hitting that address? How can I check if they reached an exchange? Thanks for your help.
-
-21h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[A plan to freeze the creator's Bitcoin sparks fierce debate over crypto rules](https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows)**
-
-Industry leaders warn that locking up Satoshi Nakamoto's wallet crosses a dangerous line and goes against the foundational ethos of digital assets.
-
-CoinDesk • 3h ago
-
----
-
-**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
-
-Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
-
-Fox Business • 1d ago
-
----
-
-**[Bitcoin Miner IREN Falls After $700 Million CEO Stock Award](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-iren-falls-700-201450607.html)**
-
-IREN gave its co-CEOs a $700 million stock grant locked until 2033, the year the founders' super-voting shares expire.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ross Gerber Says Trump's $1 Billion Crypto Windfall Is Why 'Bitcoin Went Down and Isn't Going Anywhere'](https://finance.yahoo.com/markets/crypto/articles/ross-gerber-says-trumps-1-193110603.html)**
-
-Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
-
-Bitcoin may be down, but it isn't out.
-
-The Motley Fool • 8h ago
-
----
-
-**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
-
-Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
-
-The Block • 1d ago
-
----
 
 **[BTC price news: Bitcoin retakes $63,000, reversing end-June losses](https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses)**
 
 The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -221,15 +173,63 @@ Yahoo Finance • 1d ago
 
 The U.S. economy has delivered bad news for the bitcoin price and crypto market...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
-**[Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction](https://www.tradingview.com/news/cointelegraph:a59f93473094b:0-tim-draper-denies-moving-bitcoin-reiterates-250-000-btc-prediction/)**
+**[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
 
-Billionaire investor and longtime Bitcoin bull Tim Draper has denied moving his Bitcoin after blockchain analysts linked him to a large BTC transfer to Coinbase Prime.“Haven’t touched my BTC,” Draper told Cointelegraph on Friday, adding that he still expects Bitcoin to reach $250,000 within one yea…
+Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-TradingView • 12h ago
+Fox Business • 1d ago
+
+---
+
+**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-says-saylor-strategy-adds-164549503.html)**
+
+(Bloomberg) -- JPMorgan Chase & Co. warns that Michael Saylor’s financing overhaul at Strategy Inc. has shaken up the dynamics of the Bitcoin market by introducing the risk that one of the cryptocurrency’s biggest buyers could also become a seller, adding a new source of uncertainty for investors.Most Read from BloombergExxon to Change Name for First Time in Decades After RedomicileMeta Is Planning a Cloud Business to Sell AI Computing PowerGermany Rejects Trump’s Demands for NATO Loyalty to Was
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
+
+The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
+
+Fortune • 3d ago
+
+---
+
+**[Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something Ƀetter'](https://www.tradingview.com/news/stocktwits:ed0d81b83094b:0-strategy-s-michael-saylor-turns-elon-musk-s-viral-july-4-video-into-a-bitcoin-pitch-we-can-still-make-something-etter/)**
+
+Tesla (TSLA) and SpaceX (SPCX) CEO Elon Musk posted an Artificial intelligence (AI)-generated patriotic video on Saturday, and Strategy’s (MSTR) co-founder, Michael Saylor, used it as a Bitcoin pitch, replying to it with a one-line message swapping the letter B for the Bitcoin symbol."We can still…
+
+TradingView • 11h ago
+
+---
+
+**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
+
+Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
+
+Bitcoin may be down, but it isn't out.
+
+The Motley Fool • 9h ago
+
+---
+
+**[‘Exactly What Warsh Is Afraid Of’—Bitcoin’s Fed Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/07/02/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
+
+The U.S. economy has delivered bad news for the bitcoin price and crypto market...
+
+Forbes • 2d ago
 
 ---
 
@@ -295,7 +295,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 54m ago • [GitHub](https://github.com/tanrax/bitpoint)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/tanrax/bitpoint)
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 38K • 👍 2K • 💬 67 • ⏱️ 55:12 • 8h ago
+👁️ 38K • 👍 2K • 💬 67 • ⏱️ 55:12 • 9h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 77K • 👍 3K • 💬 744 • ⏱️ 18:41 • 6h ago
+👁️ 77K • 👍 3K • 💬 744 • ⏱️ 18:41 • 7h ago
 
 ---
 
@@ -391,7 +391,7 @@ Claim your free 1-on-1 investment consultation: https://theproactivethinker.com/
 
 📺 Proactive Thinker
 
-👁️ 11K • 👍 469 • 💬 19 • ⏱️ 0:59 • 15h ago
+👁️ 11K • 👍 469 • 💬 19 • ⏱️ 0:59 • 16h ago
 
 ---
 

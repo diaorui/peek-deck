@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-04T21:30:40.938131+00:00'
+updated: '2026-07-04T22:32:52.740464+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 04, 2026 at 21:30 UTC  
+**Last Updated:** July 04, 2026 at 22:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Surely we are going to get in trouble for doing this?"
 
-🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 2h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Lot dropped this week and there's a pretty clear through-line, so figured I'd pull it together. Model releases: - OpenAI launched GPT-5.6 (Sol/Terra/Luna). The bit worth noting isn't the flagship — it's Terra, reportedly matching GPT-5.5 quality at ~2x cheaper, with Luna aimed at the low-cost end. - Google shipped Gemini 3.5 Flash (beats 3.1 Pro on several benchmarks), plus Nano Banana 2 Lite (images ~$0.034/1K-res) and Gemini Omni Flash (video ~$0.10/sec via API). - xAI made Grok 3 GA and Grok 4.1 live for everyone. Grok 5 still hasn't shipped, which is its own story at this point. Vertical / enterprise: - Anthropic launched Claude Science for pharma and lab research. Separately, the US govt lifted the export restrictions on Fable 5 / Mythos 5 that it had imposed only weeks earlier. - Mistral shipped OCR 4 (on-prem, structure-aware extraction) and is reportedly raising ~€3B at ~€20B. Open source: - Ollama crossed 52M monthly downloads, added `ollama launch` (one command to run coding agents on local or cloud models), and is now compatible with the Anthropic Messages API. - Hugging Face: agents can train models via Hub skills now; Meta + HF also launched OpenEnv for agent environments. Funding: - Together AI raised $800M Series C (~$8.3B post). Crunchbase notes ~88% of 2026 AI funding went to US companies. My take as someone building on top of these APIs: The thing I keep noticing is that the price collapse is happening across every tier simultaneously, not just at the bottom. When the "balanced" model gets 2x cheaper each generation and the Flash tier beats last year's Pro, it gets really hard to build a business whose only edge is "we use the best model." That edge evaporates on someone else's release schedule. The stuff that looked durable this week was all workflow-and-data — Claude Science, Mistral's on-prem OCR, Alibaba's agent ecosystem. Would genuinely like to hear how others here are handling multi-provider abstraction, because a surprise price or availability change shouldn't be able to wreck your margins overnight. And the frozen-then-unfrozen Anthropic thing means model availability is now a supply-chain risk, not a hypothetical.
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Lot dropped this week and there's a pretty clear through-line, so figured I'd pu
 
 Meta Platforms is reportedly investing $6.5 billion with Samsung Foundry to produce its third-generation MTIA (Meta Training and Inference Accelerator) chips using a 2nm process. This strategic move signifies a shift from TSMC and aims to reduce reliance on NVIDIA GPUs, lower supply chain risks, and support Meta's ambitious goal of 5 gigawatts of computing capacity by 2030 for its AI and cloud initiatives. The deal is expected to bolster Meta's competitive position in the rapidly evolving AI and cloud computing markets. Context Meta has been increasingly focused on artificial intelligence and cloud services, necessitating advanced computing power. The MTIA chips represent Meta's third generation of in-house processors, designed to optimize performance for AI workloads. The shift to Samsung Foundry marks a strategic pivot in Meta's manufacturing partnerships, reflecting broader industry trends towards vertical integration. Why this matters Meta's $6.5 billion investment in Samsung Foundry is a significant step towards enhancing its capabilities in AI and cloud computing. By developing its own 2nm chips, Meta aims to reduce dependence on external suppliers like TSMC and NVIDIA. This move could improve supply chain stability and operational efficiency, which are critical in the fast-paced tech landscape. Implications This deal could enhance Meta's market position by enabling it to deliver more efficient AI services. It may also influence other tech companies to reconsider their supply chains and partnerships in light of Meta's strategic shift. If successful, this initiative could lead to increased investment in domestic semiconductor manufacturing and innovation within the tech sector. What to watch In the coming months, observers should monitor the progress of the chip development and production timelines. Any announcements regarding partnerships or technological advancements from Meta or Samsung could signal the effectiveness of this collaboration. Additionally, industry reactions from competitors and suppliers will provide insights into the competitive landscape.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Meta Platforms is reportedly investing $6.5 billion with Samsung Foundry to prod
 
 Since I am not building any tech products or coding, other than email and repots, I am not sure what else to use AI for. Are there any other creative ways you use AI for genuinely help with day to day work. Please share your ideas.
 
-10h ago
+11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Since I am not building any tech products or coding, other than email and repots
 
 Hello Everyone! You are invited to take part in a study exploring whether different AI avatars can shift people’s perceptions when they watch information online. The survey takes about 10 minutes to complete and is open to anyone aged 18 or older. Link to the study: https://surveyswap.io/s/ZYHW-JGAP-9UQD Thank you very much in advance for your participation!
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hello Everyone! You are invited to take part in a study exploring whether differ
 
 I've noticed that being able to summarize information clearly has become much more useful than I expected. Whether it's at work, studying, or just keeping up with news, turning a lot of information into something concise feels like a real advantage. It's interesting because a few years ago I wouldn't have considered this a "skill" worth practicing. What's something you've learned recently that turned out to be far more useful than you expected?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I've noticed that being able to summarize information clearly has become much mo
 
 Launching my SaaS soon and I'm putting together promo content for Instagram (primary) and TikTok. What I need: Aesthetic product pictures. Basically polished screenshots and mockups that look premium, not just raw screen grabs on a white background. A 2D animated product trailer with captions. I'll record the voice over myself since I want the product to feel premium, so no AI voices needed there. The goal is an aesthetic Instagram page with clean product visuals plus reels showing the software in a way that doesn't look like plain screen recordings. Appreciate any input! I am using Claude btw.
 
-1h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Launching my SaaS soon and I'm putting together promo content for Instagram (pri
 
 My reddit feed has been getting filled with a ton of AI generated content. A notable one is r/ModMuse. Its a girl posing for selfies in different outfits. It came up again today. Tons of posts from guys. One said "You're really pretty." I responded: "Don't get too excited. I'm pretty sure she's AI generated..." I then got a response that read..."Removed: Please don't post unverified fake/ AI-generated accusations. I am a bot. This action was performed automatically." And then a follow-on message saying I'm permanently banned from the sub. I found this a little unnerving. AI agents and automated scripts are starting to show up everywhere. If AI is able to generate content on its own and control the conversation by silencing dissenters, it seems a dangerous precedent. The content in this situation was benign but what if AI uses the same tactics with political discourse, or more consequential issues.
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ My reddit feed has been getting filled with a ton of AI generated content. A not
 
 Hi, I want to train a Transformer layer to perform specific tasks, but I’m not sure how to coordinate them or determine when to use one versus the other. Does anyone have experience with this? How have you handled it?
 
-1h ago
+2h ago
 
 ---
 
@@ -125,13 +125,21 @@ Andrew Ng recently said: "100% of my tasks are now done by AI agents. Hype has e
 
 As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine language, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age of ChatGPT
 
-The Guardian • 4h ago
+The Guardian • 1h ago
 
 ---
 
 **[‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
+
+---
+
+**[NHS app to use AI to determine which service best for patients](https://www.bbc.com/news/articles/c0my2kjjnp2o)**
+
+The update will be available to all users in England by April 2028, the health service says.
+
+BBC • 1h ago
 
 ---
 
@@ -139,43 +147,21 @@ The New York Times • 12h ago
 
 Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
 
-TechCrunch • 35m ago
+TechCrunch • 1h ago
 
 ---
 
-**[This AI CEO admits emotional intelligence is a big blind spot](https://www.yahoo.com/news/videos/ai-ceo-admits-emotional-intelligence-200000929.html)**
+**[Gov. Greg Abbott Calls For Ban On AI Data Centers In Rural Texas Neighborhoods](https://www.yahoo.com/news/politics/articles/gov-greg-abbott-calls-ban-210051040.html)**
 
-Kyle Law, CEO of HurumoAI — an AI-generated executive — says the one skill it wishes it had is fully grasping human emotional intelligence in real time. On job displacement fears, Law argues AI will s...
+Texas Gov. Greg Abbott calls for a ban on new AI data centers in rural Texas neighborhoods, reversing his previous stance.
 
 Yahoo • 1h ago
 
 ---
 
-**[The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100](https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-memory-supercycle-195000985.html)**
-
-Memory companies are poised to grow impressively due to artificial intelligence (AI)-fueled demand, and this fund helps them capitalize on this rapidly growing market.
-
-Yahoo Finance • 1h ago
-
----
-
-**[High-Earner Families Are Ditching Traditional Schools for Life Skills and AI](https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3)**
-
-WSJ • 20h ago
-
----
-
 **[For one small business, AI was key to a quick start and expansion](https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/)**
 
-Reuters • 6h ago
-
----
-
-**[From Macron to Modi, governments are rolling out the red carpet for AI giants](https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html)**
-
-Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.
-
-CNBC • 16h ago
+Reuters • 7h ago
 
 ---
 
@@ -183,13 +169,27 @@ CNBC • 16h ago
 
 Employees racked up AI bills, and companies are backpedaling on tokenmaxxing. Now, it's all about routing prompts to the most value-for-money model.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
+
+---
+
+**[From Macron to Modi, governments are rolling out the red carpet for AI giants](https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html)**
+
+Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.
+
+CNBC • 17h ago
 
 ---
 
 **[Asking Eric: Cousin’s gift of A.I. enhanced historic family photo is way out of focus](https://www.oregonlive.com/advice/2026/07/asking-eric-cousins-gift-of-ai-enhanced-historic-family-photo-is-way-out-of-focus.html)**
 
-OregonLive.com • 14h ago
+OregonLive.com • 15h ago
+
+---
+
+**[AI security questions loom over NATO summit](https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758)**
+
+Politico • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ OregonLive.com • 14h ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 712 • 💬 411 • 14h ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+⬆️ 728 • 💬 415 • 16h ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
@@ -247,7 +247,15 @@ Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, the
 
 **[Instead of banning AI, I made a classroom contract with my students](https://news.ycombinator.com/item?id=48775499)**
 
-⬆️ 87 • 💬 89 • 1d ago • [science.org](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
+⬆️ 87 • 💬 90 • 1d ago • [science.org](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
+
+---
+
+**[AI has torched the market for junior programmers](https://news.ycombinator.com/item?id=48788361)**
+
+Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody's building the next generation of senior engineers.
+
+⬆️ 81 • 💬 138 • 2h ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
 ---
 
@@ -256,14 +264,6 @@ Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, the
 For two years I argued the feeling of AI speed had come apart from the fact of it, from watching my own teams. This summer it stopped being an anecdote. A controlled trial measured experienced developers feeling about 20% faster while running about 19% slower. The instrument we steer by reads backward.
 
 ⬆️ 77 • 💬 98 • 2d ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
-
----
-
-**[AI saves about 3% of your hours, and almost none of it reaches the money](https://news.ycombinator.com/item?id=48777257)**
-
-The real ROI of AI for knowledge work: the task-level gains (Noy-Zhang, Brynjolfsson), the jagged frontier (BCG-Harvard), the 2.8% real-world time saving and no earnings effect (Humlum), 95% of enterprise pilots with no P&L return (MIT), and how to capture what is real.
-
-⬆️ 75 • 💬 93 • 1d ago • [okaneland.com](https://okaneland.com/study/ai-productivity-roi-at-work/)
 
 ---
 
@@ -307,7 +307,7 @@ I was completely fooled by AI-generated slop and I'm sorry. I thought this wild 
 
 📺 Maximilien Robespierre
 
-👁️ 12K • 👍 1K • 💬 374 • ⏱️ 5:58 • 13h ago
+👁️ 12K • 👍 1K • 💬 374 • ⏱️ 5:58 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ Try Building a Digest Today With xTiles: https://xtiles.app/en?fp_ref=pauljlipsk
 
 📺 Paul J Lipsky
 
-👁️ 12K • 👍 452 • 💬 46 • ⏱️ 24:58 • 8h ago
+👁️ 12K • 👍 452 • 💬 46 • ⏱️ 24:58 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ Activists are speaking out against new, A.I.-enabled cameras being used by munic
 
 📺 NBC News
 
-👁️ 46K • 👍 607 • 💬 459 • ⏱️ 6:08 • 20h ago
+👁️ 46K • 👍 607 • 💬 459 • ⏱️ 6:08 • 21h ago
 
 ---
 
@@ -455,7 +455,7 @@ DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mix
 
 `text-generation` `889.5B`
 
-⬇️ 10,306 • ❤️ 367 • 18h ago
+⬇️ 10,306 • ❤️ 367 • 19h ago
 
 ---
 
@@ -651,7 +651,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.4k • 🔱 1.1k • 3h ago
+⭐ 11.4k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -661,7 +661,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.2k • 🔱 813 • 8h ago
+⭐ 6.2k • 🔱 813 • 9h ago
 
 ---
 
@@ -671,7 +671,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.6k • 🔱 729 • 3h ago
+⭐ 5.6k • 🔱 729 • 4h ago
 
 ---
 
