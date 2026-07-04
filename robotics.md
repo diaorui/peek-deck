@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-03T22:33:20.234323+00:00'
+updated: '2026-07-04T00:04:40.551098+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 03, 2026 at 22:33 UTC  
+**Last Updated:** July 04, 2026 at 00:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-22h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ Sergey Levine talks about an experiment where 33 labs shared robot data. The res
 
 Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 17h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 19h ago
 
 ---
 
@@ -60,7 +60,7 @@ Looks promising. It'll be interesting to see how well it performs once it's oper
 
 I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
-15h ago
+17h ago
 
 ---
 
@@ -144,15 +144,15 @@ New Atlas • 1d ago
 
 Agility Robotics has agreed to merge with Churchill Capital Corp XI (NasdaqGM:CCXI) in a reverse merger valued at $2.5b. The combined company is expected to list under the Agility name with a new ticker symbol once the transaction closes. The deal includes additional funding through a PIPE, with backing from several well known institutional investors. Boards of both Agility Robotics and Churchill Capital Corp XI have unanimously approved the business combination. For Churchill Capital Corp...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
+**[Zero-Computational Path to High-Resolution Robotic Touch](https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/)**
 
-Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
+Researchers developed a mechanochromic skin that converts pressure into color maps for real-time robotic touch.
 
-TribLIVE.com • 1d ago
+Neuroscience News • 3h ago
 
 ---
 
@@ -178,9 +178,11 @@ EE Times • 1d ago
 
 ---
 
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
 
-MarketWatch • 1d ago
+Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
+
+TribLIVE.com • 1d ago
 
 ---
 
@@ -194,27 +196,7 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 7K • 👍 393 • 💬 32 • ⏱️ 10:19 • 1d ago
-
----
-
-**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
-
-Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
-
-📺 DeathTempler
-
-👁️ 5K • 👍 1K • 💬 106 • ⏱️ 0:29 • 4h ago
-
----
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 5K • 👍 290 • 💬 60 • ⏱️ 12:50 • 2d ago
+👁️ 8K • 👍 420 • 💬 33 • ⏱️ 10:19 • 1d ago
 
 ---
 
@@ -224,17 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 137K • 👍 4K • 💬 1K • ⏱️ 3:59 • 2d ago
-
----
-
-**[Meet the UBTECH U1 Ultra Bionic Humanoid Robot](https://www.youtube.com/watch?v=atMZreVWzYg)**
-
-The future of humanoid robots has officially arrived. UBTECH has unveiled the UWORLD U1, the world's first full-size ...
-
-📺 DPCcars
-
-👁️ 53K • 👍 221 • 💬 119 • ⏱️ 2:50 • 1d ago
+👁️ 145K • 👍 4K • 💬 1K • ⏱️ 3:59 • 2d ago
 
 ---
 
@@ -248,33 +220,13 @@ China has built female robots so realistic that people who meet them in person g
 
 ---
 
-**[I Tried a $4,500 Robotic Exoskeleton and It Gave Me Super Ankles](https://www.youtube.com/watch?v=CmlWLT2K8a0)**
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
 
-The future of wearable tech isn't just on your wrist—it's on your legs. In this hands-on look, we test the Dephy Sidekick, ...
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
 
-📺 CNET
+📺 Got Talent Global
 
-👁️ 10K • 👍 289 • 💬 27 • ⏱️ 3:44 • 1d ago
-
----
-
-**[UBTECH U1: The Best Humanoid Robots, As Lifelike As Humans, Are Being Unveiled To The Public](https://www.youtube.com/watch?v=TyD8wVUyBw4)**
-
-The UBTECH U1 series robots are not just a demonstration of engineering capabilities, but an attempt to create a true digital ...
-
-📺 История с Зёзом
-
-👁️ 2K • 👍 30 • ⏱️ 4:28 • 2d ago
-
----
-
-**[UWORLD Ultra-Bionic Humanoid Robot U1 Pro — Up Close at the Global Launch Event](https://www.youtube.com/watch?v=wdf3BORclRA)**
-
-Get an up-close look at the UWORLD ultra-bionic humanoid robot and discover its remarkable detail and lifelike presence.
-
-📺 UBTECH Robotics
-
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:02 • 10h ago
+👁️ 50K • 👍 564 • 💬 23 • ⏱️ 5:08 • 5d ago
 
 ---
 
@@ -284,7 +236,57 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 55K • 👍 275 • 💬 141 • ⏱️ 3:05 • 3d ago
+👁️ 56K • 👍 280 • 💬 142 • ⏱️ 3:05 • 3d ago
+
+---
+
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
+
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
+
+📺 brenpoly
+
+👁️ 152K • 👍 9K • 💬 478 • ⏱️ 23:57 • 6d ago
+
+---
+
+**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
+
+Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
+
+📺 Vanessa Wingårdh
+
+👁️ 98K • 👍 5K • 💬 2K • ⏱️ 13:18 • 5d ago
+
+---
+
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 5K • 👍 301 • 💬 60 • ⏱️ 12:50 • 2d ago
+
+---
+
+**[Before You Buy a Robot Lawn Mower - LEARN THESE](https://www.youtube.com/watch?v=E0P25yUmgPw)**
+
+Top Mower → https://www.howtowithdoc.com/lawn-robot/ Thinking about buying a robot lawn mower? Before you drop thousands ...
+
+📺 How To with Doc
+
+👁️ 6K • 👍 449 • 💬 56 • ⏱️ 28:50 • 1d ago
+
+---
+
+**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
+
+Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
+
+📺 DeathTempler
+
+👁️ 9K • 👍 2K • 💬 127 • ⏱️ 0:29 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-03T22:33:20.225140+00:00'
+updated: '2026-07-04T00:04:40.541855+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 22:33 UTC  
+**Last Updated:** July 04, 2026 at 00:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,900.00
+### $62,616.26
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.6%  
-**7d:** +4.2%  
-**30d:** -2.0%  
-**90d:** -9.3%  
-**1y:** -42.0%  
+**7d:** +5.2%  
+**30d:** +2.4%  
+**90d:** -9.1%  
+**1y:** -42.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1258.27B
+**Market Cap:** $1253.96B
 Rank #1
 
-**Circulating Supply:** 20,051,671 BTC
+**Circulating Supply:** 20,051,715 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-50.4%
 
 **All-Time Low:** $67.81
-+92401.1%
++92123.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
 
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 6h ago
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 8h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
 
-11h ago
+13h ago
 
 ---
 
 **[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 Bitcoin! Bitcoin! Bitcoin!
 
-1h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 but someone might be faster than me
 
-19h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ but someone might be faster than me
 
 📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
 
-12h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ but someone might be faster than me
 
 For context read last post: 28M I didn’t do it. Too many red flags screaming in my head about being smart about being stupid. New parameters: - got engaged - wedding next year - single family home after that About 220k to my name. Fiancé about the same. Wedding is paid for already with $ in a UST. Finances are sound (essential expenses paid for, no debt, 6mo emergency fund, etc). Currently have about 5k in btc exposure with a very slow DCA of about $200/m (not much but it’s something). Now here we are at 60k. About 50% down from where I was previously considering a large allocation change. This is now the time I think I will start to make some lump sum purchases. Fortune favors the bold. Godspeed.
 
-7h ago
+8h ago
 
 ---
 
@@ -155,23 +155,23 @@ For context read last post: 28M I didn’t do it. Too many red flags screaming i
 
 Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-Fox Business • 11h ago
+Fox Business • 13h ago
 
 ---
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
+**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
 
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
+
+The Block • 6h ago
+
+---
+
+**[Ross Gerber Says Trump's $1 Billion Crypto Windfall Is Why 'Bitcoin Went Down and Isn't Going Anywhere'](https://finance.yahoo.com/markets/crypto/articles/ross-gerber-says-trumps-1-082541506.html)**
+
+Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s (CRYPTO: BTC) ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through cryptocurrency ventures, which include World Liberty Financial and the Official Trump (CRYPTO: TRUMP) memecoin. The CEO of Gerber Kawasaki Wealth and Investment Management said that the “grift is real,” and
 
 Yahoo Finance • 1d ago
-
----
-
-**[XRP Trading Volume Tops Bitcoin on Upbit](https://finance.yahoo.com/markets/crypto/articles/xrp-trading-volume-tops-bitcoin-203235623.html)**
-
-XRP trading volume tops Bitcoin (BTC) on Upbit as the $1.15 level emerges as the next key test for the token.
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -183,6 +183,36 @@ CNBC • 1d ago
 
 ---
 
+**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
+
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+
+CoinDesk • 4h ago
+
+---
+
+**[Here's Why Bitcoin Could Be the Smartest Buy of the Decade](https://www.fool.com/investing/2026/07/02/why-bitcoin-could-be-smartest-buy-of-decade/)**
+
+Even though the top cryptocurrency trades 52% below its record, long-term investors must remember a key bull argument.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
 
 The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
@@ -191,39 +221,9 @@ Fortune • 2d ago
 
 ---
 
-**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin firm advertised by Nigel Farage loses 15% of asset value](https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value)**
-
-Exclusive: Finance experts warn against investing in bitcoin treasury companies after Stack BTC assets plunge
-
-The Guardian • 1d ago
-
----
-
 **[Citi cuts bitcoin, ether forecasts as ETF flows turn negative](https://www.reuters.com/technology/citi-cuts-bitcoin-ether-forecasts-etf-flows-turn-negative-2026-07-01/)**
 
 Reuters • 2d ago
-
----
-
-**['Accumulation beneath the surface': Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows](https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows)**
-
-Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-draw-222m-snapping-114634374.html)**
-
-Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
-
-Yahoo Finance • 10h ago
 
 ---
 
@@ -257,7 +257,7 @@ Michael Saylor's Strategy is experiencing pains as a result of its financial eng
 
 Tell us your Bitcoin stack. We'll email you the day you're a millionaire — then go live your life.
 
-⬆️ 2 • 💬 8 • 4d ago • [Am I a Millionaire?](https://amimillionaire.com/)
+⬆️ 2 • 💬 8 • 5d ago • [Am I a Millionaire?](https://amimillionaire.com/)
 
 ---
 
@@ -295,7 +295,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 **[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
 
-⬆️ 3 • 💬 0 • 3h ago
+⬆️ 4 • 💬 4 • 5h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 236 • ⏱️ 20:33 • 1d ago
+👁️ 43K • 👍 3K • 💬 244 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -327,27 +327,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 37K • 👍 2K • 💬 111 • ⏱️ 3:08 • 18h ago
-
----
-
-**[BTC DUMPING?! Michael Saylor Explains What&#39;s Next for Bitcoin &amp; MSTR](https://www.youtube.com/watch?v=BoQj-O4qAaI)**
-
-Is Bitcoin entering a deeper correction, or is this the perfect buying opportunity? Join us LIVE as Michael Saylor breaks down the ...
-
-📺 Nyalanesia
-
-👁️ 2K • 1h ago
-
----
-
-**[BTC DUMPING?! Michael Saylor Explains What&#39;s Next for Bitcoin &amp; MSTR](https://www.youtube.com/watch?v=Nl-qCcyrciE)**
-
-Is Bitcoin entering a deeper correction, or is this the perfect buying opportunity? Join us LIVE as Michael Saylor breaks down the ...
-
-📺 The Tribes
-
-👁️ 2K • 1h ago
+👁️ 41K • 👍 2K • 💬 111 • ⏱️ 3:08 • 20h ago
 
 ---
 
@@ -357,7 +337,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 383 • 💬 42 • ⏱️ 9:15 • 14h ago
+👁️ 6K • 👍 402 • 💬 129 • ⏱️ 9:15 • 16h ago
 
 ---
 
@@ -367,7 +347,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 639 • 💬 418 • ⏱️ 10:21 • 1d ago
+👁️ 13K • 👍 650 • 💬 439 • ⏱️ 10:21 • 1d ago
 
 ---
 
@@ -377,27 +357,17 @@ In the depths of this bear market something has fundamentally changed ... the wo
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 394 • 💬 38 • ⏱️ 1:27:31 • 1d ago
+👁️ 8K • 👍 395 • 💬 43 • ⏱️ 1:27:31 • 1d ago
 
 ---
 
-**[Why Bitcoin is About to Bounce Massively (Data)](https://www.youtube.com/watch?v=UDTUmGHPd2k)**
+**[Bitcoin Bull Signal Just Flashed](https://www.youtube.com/watch?v=_uD-min90FE)**
 
-Crypto looks to be entering a new phase, with signs that long-term accumulation is beginning to outweigh liquidation pressure.
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 23 • ⏱️ 27:44 • 1d ago
-
----
-
-**[TRIGGERED: Did Bitcoin Bulls Just Confirm A Relief Rally To $69,000? [Double Digit Gains]](https://www.youtube.com/watch?v=3ExClpIVu90)**
-
-In today's youtube video, Kyledoops outlines whether a swing failure pattern has been confirmed and a price rally up to $69000 is ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 1K • 💬 21 • ⏱️ 42:46 • 14h ago
+👁️ 11K • 👍 714 • 💬 108 • ⏱️ 40:40 • 8h ago
 
 ---
 
@@ -407,7 +377,37 @@ Michael Saylor built his reputation on one message: never sell your Bitcoin. Now
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 417 • ⏱️ 19:40 • 2d ago
+👁️ 37K • 👍 3K • 💬 461 • ⏱️ 19:40 • 2d ago
+
+---
+
+**[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 786 • 💬 240 • ⏱️ 57:46 • 2d ago
+
+---
+
+**[Bitcoin ETF Flows Just Flipped [Get Ready]](https://www.youtube.com/watch?v=9xWxEBsW4XE)**
+
+Crypto ETFs, Stocks dump, Solana coins, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 583 • 💬 75 • ⏱️ 19:40 • 11h ago
+
+---
+
+**[TRIGGERED: Did Bitcoin Bulls Just Confirm A Relief Rally To $69,000? [Double Digit Gains]](https://www.youtube.com/watch?v=3ExClpIVu90)**
+
+In today's youtube video, Kyledoops outlines whether a swing failure pattern has been confirmed and a price rally up to $69000 is ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 30 • ⏱️ 42:46 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-03T22:33:20.231090+00:00'
+updated: '2026-07-04T00:04:40.547898+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 03, 2026 at 22:33 UTC  
+**Last Updated:** July 04, 2026 at 00:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,760.15
+### $1,758.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
+**24h:** +2.6%  
 **7d:** +11.8%  
-**30d:** -0.7%  
+**30d:** +11.0%  
 **90d:** -16.6%  
-**1y:** -29.9%  
+**1y:** -30.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.99B
+**Market Cap:** $211.98B
 Rank #2
 
 **Circulating Supply:** 120,683,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.3%
+-64.5%
 
 **All-Time Low:** $0.43
-+407515.6%
++405568.6%
 
 ---
 
@@ -124,7 +124,7 @@ https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=7829
 
 **TL;DR**: Argot Collective five year funding, Ethereum Foundation new structure, Ethlabs launched.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-june-2026-update) • 1d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-june-2026-update) • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 Investors seeking high-profile digital assets will be drawn to Solana's speed and low costs.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,7 +188,15 @@ Yahoo Finance • 2h ago
 
 Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
 
-TradingView • 12h ago
+TradingView • 13h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
+
+Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
+
+FXStreet • 12h ago
 
 ---
 
@@ -200,19 +208,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
-
-Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
-
-FXStreet • 10h ago
-
----
-
 **[Crypto News: Ethereum Based Crypto Pepeto Presale Is Selling Out Fast – Is This The 2026 Breakout](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-presale-is-selling-out-fast-is-this-the-2026-breakout-1036295689)**
 
 DUBAI, United Arab Emirates, July  02, 2026  (GLOBE NEWSWIRE) -- The Ethereum based crypto Pepeto just closed another crypto presale round in hour...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -234,17 +234,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 147 • 💬 65 • ⏱️ 16:24 • 6h ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
-
-In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 109 • 💬 9 • ⏱️ 9:09 • 6h ago
+👁️ 3K • 👍 170 • 💬 69 • ⏱️ 16:24 • 8h ago
 
 ---
 
@@ -254,37 +244,27 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 238 • 💬 17 • ⏱️ 1:03:50 • 6h ago
+👁️ 4K • 👍 256 • 💬 51 • ⏱️ 1:03:50 • 8h ago
 
 ---
 
-**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
 
-Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
+In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
 
-📺 Paul Barron Network
+📺 More Crypto Online
 
-👁️ 23K • 👍 962 • 💬 71 • ⏱️ 25:16 • 1d ago
-
----
-
-**[This Is HUGE For Ethereum! (ETH Price Prediction)](https://www.youtube.com/watch?v=rZy94nI-BzE)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 645 • 👍 25 • 💬 11 • ⏱️ 4:41 • 12h ago
+👁️ 2K • 👍 122 • 💬 10 • ⏱️ 9:09 • 8h ago
 
 ---
 
-**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
 
-Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
+In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
 
-📺 Prof G Markets
+📺 More Crypto Online
 
-👁️ 2K • 👍 29 • 💬 10 • ⏱️ 0:58 • 5h ago
+👁️ 5K • 👍 230 • 💬 8 • ⏱️ 11:42 • 1d ago
 
 ---
 
@@ -294,7 +274,7 @@ Brian from Santiment joined to review the crypto market metrics for Bitcoin, Eth
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 133 • 💬 23 • ⏱️ 26:00 • 10h ago
+👁️ 2K • 👍 143 • 💬 26 • ⏱️ 26:00 • 12h ago
 
 ---
 
@@ -304,27 +284,47 @@ Ethereum Institutional has launched as an independent nonprofit focused on accel
 
 📺 Paul Barron Network
 
-👁️ 28K • 👍 1K • 💬 116 • ⏱️ 30:21 • 2d ago
+👁️ 28K • 👍 1K • 💬 119 • ⏱️ 30:21 • 2d ago
 
 ---
 
-**[I AM GOING ALL IN TODAY ON BITCOIN &amp; ETHEREUM !!!!](https://www.youtube.com/watch?v=BgVQM2MfoD8)**
+**[This Is HUGE For Ethereum! (ETH Price Prediction)](https://www.youtube.com/watch?v=rZy94nI-BzE)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 The Moon Show
+📺 Cilinix Crypto
 
-👁️ 10K • 👍 539 • 💬 44 • ⏱️ 8:38 • 1d ago
+👁️ 768 • 👍 25 • 💬 4 • ⏱️ 4:41 • 14h ago
 
 ---
 
-**[Ethereum Price News: Buyers’ Commitment Will Be Tested at $1.8K](https://www.youtube.com/watch?v=Zpuz8YYOzYc)**
+**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
 
-Ethereum faces a critical test at the $1800 resistance level. Despite a brief bounce and renewed ETF interest, depressed on-chain ...
+Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
 
-📺 FXEmpire
+📺 Paul Barron Network
 
-👁️ 45 • 👍 2 • ⏱️ 4:59 • 9h ago
+👁️ 24K • 👍 980 • 💬 73 • ⏱️ 25:16 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=LWbPZ_FsG0U)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 947 • 👍 76 • ⏱️ 8:16 • 10h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FBAhysfke-c)**
+
+BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 195 • 💬 298 • ⏱️ 20:13 • 4h ago
 
 ---
 
