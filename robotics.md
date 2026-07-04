@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T07:22:19.288080+00:00'
+updated: '2026-07-04T09:36:06.184362+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 07:22 UTC  
+**Last Updated:** July 04, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1
 
-20h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-12h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
 
-14h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-1h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ Well, every post i see in this sub is about how robot almost killed someone.. So
 
 I recently made a major update to my Control and Robotics learning repository and decided to keep the course materials freely accessible. The repository now includes structured course folders with standalone HTML lecture pages, mathematical explanations, diagrams, and companion code examples for many lessons. The topics cover areas such as: Linear control Modern control System dynamics Robot kinematics and dynamics Robot control Advanced robotics Autonomous mobile robots For some lessons, the code examples are provided in different languages/environments such as Python, C++, Java, MATLAB, and Wolfram/Mathematica, so the material can be studied from both the theory and implementation side. Repo: https://github.com/mohammadijoo/Control_Robotics_Lab I’m sharing it here in case it is useful for students, instructors, or self-learners working through control systems and robotics topics. I would also appreciate feedback, especially if you notice mistakes in equations, explanations, code examples, structure, or missing topics that would make the material more useful.
 
-15h ago
+18h ago
 
 ---
 
@@ -82,7 +82,7 @@ I recently made a major update to my Control and Robotics learning repository an
 
 Humanoid robots and physical AI were major themes at Automate 2026. The show featured more than 50 humanoid and quadruped systems, a significant increase from last year. Much of the discussion centered on commercialization, safety, deployment, dexterity, data collection, and training rather than future predictions. Several companies also showcased hybrid mobile manipulation platforms that combine AMR mobility with dual-arm operation, including new systems from Locus, Cobot, and Kinisi. On the physical AI side, Apptronik introduced Apollo 2 and its new Robot Park training facility, Generalist demonstrated its GEN-1 dexterity model, and FieldAI announced more than $100 million in revenue and customer contracts.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 17h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 19h ago
 
 ---
 
@@ -90,13 +90,13 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 12h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 14h ago
 
 ---
 
 **[l test the 3D depth camera MRP P008G](https://www.reddit.com/r/robotics/comments/1umex1y/l_test_the_3d_depth_camera_mrp_p008g/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Register • 2d ago
 
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -138,9 +138,17 @@ New Atlas • 1d ago
 
 ---
 
-**[SKF Forms Robotics JV With Leaderdrive in China](https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639)**
+**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 1d ago
+WSJ • 6m ago
+
+---
+
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -176,27 +184,9 @@ Fortune • 2d ago
 
 ---
 
-**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
-
-Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
-
-TribLIVE.com • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[I Built My First AI Robot](https://www.youtube.com/watch?v=Sf-nklw0ljQ)**
-
-Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a robot from scratch named Bop — powered by an NVIDIA ...
-
-📺 Coding with Lewis
-
-👁️ 10K • 👍 486 • 💬 36 • ⏱️ 10:19 • 1d ago
-
----
 
 **[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
@@ -204,7 +194,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 158K • 👍 4K • 💬 1K • ⏱️ 3:59 • 3d ago
+👁️ 162K • 👍 4K • 💬 1K • ⏱️ 3:59 • 3d ago
 
 ---
 
@@ -214,7 +204,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 55K • 👍 613 • 💬 23 • ⏱️ 5:08 • 5d ago
+👁️ 56K • 👍 616 • 💬 23 • ⏱️ 5:08 • 5d ago
 
 ---
 
@@ -224,7 +214,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 6K • 👍 332 • 💬 62 • ⏱️ 12:50 • 2d ago
+👁️ 6K • 👍 336 • 💬 63 • ⏱️ 12:50 • 2d ago
 
 ---
 
@@ -234,7 +224,7 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 159K • 👍 9K • 💬 494 • ⏱️ 23:57 • 6d ago
+👁️ 160K • 👍 10K • 💬 497 • ⏱️ 23:57 • 6d ago
 
 ---
 
@@ -254,7 +244,27 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 58K • 👍 286 • 💬 150 • ⏱️ 3:05 • 3d ago
+👁️ 59K • 👍 290 • 💬 150 • ⏱️ 3:05 • 3d ago
+
+---
+
+**[These Robots Are Absolutely Terrible #robotics #fail #shorts](https://www.youtube.com/watch?v=EY-vNM9vWoE)**
+
+Why robots still struggle to replace humans. Watch five hilarious examples of modern robotics failing at simple tasks.
+
+📺 小璐在日摸魚記
+
+👁️ 3K • 👍 9 • ⏱️ 0:21 • 8h ago
+
+---
+
+**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
+
+Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
+
+📺 DeathTempler
+
+👁️ 16K • 👍 3K • 💬 170 • ⏱️ 0:29 • 15h ago
 
 ---
 
@@ -266,23 +276,13 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 ---
 
-**[These Robots Are Absolutely Terrible #robotics #fail #shorts](https://www.youtube.com/watch?v=EY-vNM9vWoE)**
+**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
 
-Why robots still struggle to replace humans. Watch five hilarious examples of modern robotics failing at simple tasks.
+This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
 
-📺 小璐在日摸魚記
+📺 Talent Replay
 
-👁️ 2K • 👍 7 • ⏱️ 0:21 • 6h ago
-
----
-
-**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
-
-Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
-
-📺 DeathTempler
-
-👁️ 15K • 👍 3K • 💬 168 • ⏱️ 0:29 • 13h ago
+👁️ 225K • 👍 3K • 💬 70 • ⏱️ 39:57 • 6d ago
 
 ---
 

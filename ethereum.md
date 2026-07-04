@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T07:22:19.285298+00:00'
+updated: '2026-07-04T09:36:06.181473+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 07:22 UTC  
+**Last Updated:** July 04, 2026 at 09:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +11.6%  
-**30d:** +10.8%  
-**90d:** -16.7%  
-**1y:** -30.3%  
+**24h:** +0.8%  
+**7d:** +11.9%  
+**30d:** +11.1%  
+**90d:** -16.5%  
+**1y:** -30.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $211.56B
+**Market Cap:** $212.05B
 Rank #2
 
 **Circulating Supply:** 120,683,241 ETH
@@ -62,7 +62,7 @@ No max supply
 -64.5%
 
 **All-Time Low:** $0.43
-+404903.5%
++405598.7%
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1d ago
 
 Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
 
-TradingView • 20h ago
+TradingView • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ PR Newswire • 2d ago
 
 The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
 
-TradingView • 17h ago
+TradingView • 20h ago
 
 ---
 
@@ -218,9 +218,11 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analys](https://www.benzinga.com/crypto/cryptocurrency/26/07/60236109/bitcoin-jumps-as-kevin-warsh-flags-inflation-concerns-analyst-says-market-bottom-is-here)**
+**[Ethereum Withdrawals on Binance Hit 3-Year High](https://u.today/ethereum-withdrawals-on-binance-hit-3-year-high)**
 
-Benzinga • 2d ago
+Binance has just recorded the highest level of Ethereum withdrawals seen since 2023, flashing a crucial buy signal as ETH eyes a potential recovery.
+
+U.Today • 22h ago
 
 ---
 
@@ -234,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 448 • 💬 253 • ⏱️ 10:11 • 8h ago
+👁️ 6K • 👍 491 • 💬 258 • ⏱️ 10:11 • 10h ago
 
 ---
 
@@ -244,7 +246,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 274 • 💬 41 • ⏱️ 1:03:50 • 15h ago
+👁️ 5K • 👍 279 • 💬 42 • ⏱️ 1:03:50 • 17h ago
 
 ---
 
@@ -254,17 +256,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 25K • 👍 1K • 💬 75 • ⏱️ 25:16 • 1d ago
-
----
-
-**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
-
-Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
-
-📺 Prof G Markets
-
-👁️ 9K • 👍 136 • 💬 39 • ⏱️ 0:58 • 14h ago
+👁️ 26K • 👍 1K • 💬 75 • ⏱️ 25:16 • 1d ago
 
 ---
 
@@ -274,7 +266,7 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 141 • 💬 10 • ⏱️ 9:09 • 15h ago
+👁️ 3K • 👍 146 • 💬 11 • ⏱️ 9:09 • 18h ago
 
 ---
 
@@ -284,17 +276,17 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 182 • 💬 45 • ⏱️ 16:24 • 15h ago
+👁️ 4K • 👍 184 • 💬 40 • ⏱️ 16:24 • 17h ago
 
 ---
 
-**[BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FBAhysfke-c)**
+**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
 
-BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
 
-📺 Crypto World
+📺 Prof G Markets
 
-👁️ 5K • 👍 276 • 💬 110 • ⏱️ 20:13 • 11h ago
+👁️ 12K • 👍 158 • 💬 48 • ⏱️ 0:58 • 16h ago
 
 ---
 
@@ -304,7 +296,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 899 • 👍 25 • 💬 5 • ⏱️ 4:41 • 21h ago
+👁️ 927 • 👍 25 • 💬 5 • ⏱️ 4:41 • 23h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FBAhysfke-c)**
+
+BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 289 • 💬 59 • ⏱️ 20:13 • 13h ago
 
 ---
 
@@ -314,17 +316,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 658 • 👍 70 • ⏱️ 8:11 • 4h ago
+👁️ 960 • 👍 89 • ⏱️ 8:11 • 6h ago
 
 ---
 
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=uTqa2pm-TZ4)**
+**[CRYPTO BOTTOM IN OR ONE MORE DUMP? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=buwrXQN86Jg)**
 
-In this video I break down the latest Ethereum price analysis and explain why the July seasonality window could trigger a ...
+Brian from Santiment joined to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, and Solana. 🖥️ Sign up with ...
 
-📺 More Crypto Online
+📺 Thinking Crypto
 
-👁️ 5K • 👍 231 • 💬 8 • ⏱️ 11:42 • 1d ago
+👁️ 2K • 👍 164 • 💬 26 • ⏱️ 26:00 • 21h ago
 
 ---
 
