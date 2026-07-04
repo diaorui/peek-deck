@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T12:45:50.575637+00:00'
+updated: '2026-07-04T14:37:30.921331+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 12:45 UTC  
+**Last Updated:** July 04, 2026 at 14:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-17h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
 
-20h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-6h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ Well, every post i see in this sub is about how robot almost killed someone.. So
 
 I recently made a major update to my Control and Robotics learning repository and decided to keep the course materials freely accessible. The repository now includes structured course folders with standalone HTML lecture pages, mathematical explanations, diagrams, and companion code examples for many lessons. The topics cover areas such as: Linear control Modern control System dynamics Robot kinematics and dynamics Robot control Advanced robotics Autonomous mobile robots For some lessons, the code examples are provided in different languages/environments such as Python, C++, Java, MATLAB, and Wolfram/Mathematica, so the material can be studied from both the theory and implementation side. Repo: https://github.com/mohammadijoo/Control_Robotics_Lab I’m sharing it here in case it is useful for students, instructors, or self-learners working through control systems and robotics topics. I would also appreciate feedback, especially if you notice mistakes in equations, explanations, code examples, structure, or missing topics that would make the material more useful.
 
-21h ago
+23h ago
 
 ---
 
@@ -82,7 +82,7 @@ I recently made a major update to my Control and Robotics learning repository an
 
 Humanoid robots and physical AI were major themes at Automate 2026. The show featured more than 50 humanoid and quadruped systems, a significant increase from last year. Much of the discussion centered on commercialization, safety, deployment, dexterity, data collection, and training rather than future predictions. Several companies also showcased hybrid mobile manipulation platforms that combine AMR mobility with dual-arm operation, including new systems from Locus, Cobot, and Kinisi. On the physical AI side, Apptronik introduced Apollo 2 and its new Robot Park training facility, Generalist demonstrated its GEN-1 dexterity model, and FieldAI announced more than $100 million in revenue and customer contracts.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 23h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 1d ago
 
 ---
 
@@ -90,13 +90,13 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 18h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 19h ago
 
 ---
 
 **[l test the 3D depth camera MRP P008G](https://www.reddit.com/r/robotics/comments/1umex1y/l_test_the_3d_depth_camera_mrp_p008g/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -120,7 +120,7 @@ The Register • 2d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 3h ago
+WSJ • 5h ago
 
 ---
 
@@ -148,7 +148,7 @@ CNBC • 2d ago
 
 Video. Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.
 
-Euronews • 22h ago
+Euronews • 1d ago
 
 ---
 
@@ -176,11 +176,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[$8,000 robot is ready to take over all laundry and bed-making duties](https://newatlas.com/robotics/weave-robot-isaac1-laundry-bed/)**
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
 
-Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
+Your weekly selection of awesome robot videos
 
-New Atlas • 1d ago
+IEEE Spectrum • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 163K • 👍 10K • 💬 512 • ⏱️ 23:57 • 6d ago
+👁️ 163K • 👍 10K • 💬 512 • ⏱️ 23:57 • 7d ago
 
 ---
 
@@ -242,7 +242,7 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 Smarttoy Ruko
 
-👁️ 6K • 👍 57 • ⏱️ 0:19 • 2h ago
+👁️ 6K • 👍 57 • ⏱️ 0:19 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 4K • 👍 12 • ⏱️ 0:21 • 11h ago
+👁️ 4K • 👍 12 • ⏱️ 0:21 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 DeathTempler
 
-👁️ 17K • 👍 3K • 💬 179 • ⏱️ 0:29 • 19h ago
+👁️ 17K • 👍 3K • 💬 179 • ⏱️ 0:29 • 20h ago
 
 ---
 

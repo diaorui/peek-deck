@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T12:45:50.566314+00:00'
+updated: '2026-07-04T14:37:30.912079+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 12:45 UTC  
+**Last Updated:** July 04, 2026 at 14:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,462.87
+### $62,656.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +5.2%  
+**24h:** +1.2%  
+**7d:** +5.3%  
 **30d:** +2.5%  
-**90d:** -9.1%  
-**1y:** -42.2%  
+**90d:** -9.0%  
+**1y:** -42.1%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
 
-15h ago
+17h ago
 
 ---
 
 **[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin! Bitcoin! Bitcoin!
 
-16h ago
+17h ago
 
 ---
 
 **[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
 
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 21h ago
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 22h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Hi everyone, I was unfortunately hacked on June 6th, 2026, at 01:01 AM. The attacker managed to drain my funds in three separate transactions sent to the exact same hacker address: bc1qvwklr8mutvrk49zvwpvuvtxx9jdzc2gg0l0jjw Here are the TXIDs and amounts: 193,885 sats -> ⁠ee778ce0031ffd1c41bfc99e22a8b2a7d643f684a6d4ac498e8221dc4c65a10a⁠ 69,890 sats -> ⁠776b0caa9fd34dbaecdbd2f76e1f8f544afbc3b1d9fad862491afb8ee2e88000⁠ 3,152,496 sats -> ⁠20656c02472ae54795cb08219d83125138c887c1f1c575c399c424aae35d520a ⁠ I have never shared my seed phrase with anyone. The only vector I can think of is a clipboard leak. A while ago, I copied my seed phrase from Cake Wallet to test Blue Wallet on my iPhone. I suspect I forgot to clear my clipboard, and a malicious website or app read it while I was browsing. Note: I have already secured my remaining/future funds by creating a brand new wallet on a clean setup and moving everything there. I know Bitcoin transactions are irreversible and these funds are gone. However, I want to know if these funds have eventually landed on a centralized exchange (KYC'd wallet) where a police report could potentially freeze them. Could anyone with blockchain forensics experience help me track where the hacker moved the funds after hitting that address? How can I check if they reached an exchange? Thanks for your help.
 
-12h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 For those of you who’ve been in Bitcoin for a while… What was the moment Bitcoin stopped being “just another investment” and became a long-term conviction? Was it a specific event, a book, a conversation, surviving a bear market, learning how the network works, or something else entirely? Looking back, was there a point where your mindset shifted from trying to make money with Bitcoin to simply wanting to own Bitcoin for the long run? I’d love to hear what changed your perspective.
 
-13h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ but someone might be faster than me
 
 Bitcoin is money. If you know you know.
 
-8h ago
+10h ago
 
 ---
 
@@ -163,46 +163,6 @@ Fox Business • 1d ago
 
 ---
 
-**[Bitcoin’s next parabolic run is coming. But there's a $1 trillion catch](https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital)**
-
-This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
-
-CoinDesk • 2h ago
-
----
-
-**[Better Crypto for a $500 Investment: Bitcoin vs. Dogecoin](https://finance.yahoo.com/markets/crypto/articles/better-crypto-500-investment-bitcoin-103700855.html)**
-
-These are two of the most popular digital assets on the market.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something Ƀetter'](https://finance.yahoo.com/markets/crypto/articles/strategys-michael-saylor-turns-elon-111450275.html)**
-
-Saylor regularly ties Bitcoin to U.S. holidays, framing it as a tool for American economic strength.
-
-Yahoo Finance • 1h ago
-
----
-
-**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
-
-Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
-
-The Block • 18h ago
-
----
-
-**[Fundamental case for bitcoin has never been stronger: Miller Value Partners' Miller](https://www.cnbc.com/video/2026/07/02/fundamental-case-for-bitcoin-has-never-been-stronger-miller-value-partners-miller.html)**
-
-CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
-
-CNBC • 1d ago
-
----
-
 **[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
 
 As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
@@ -211,27 +171,67 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin’s next parabolic run is coming. But there's a $1 trillion catch](https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital)**
+
+This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
+
+CoinDesk • 4h ago
+
+---
+
 **[‘Exactly What Warsh Is Afraid Of’—Bitcoin’s Fed Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/07/02/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
 
 The U.S. economy has delivered bad news for the bitcoin price and crypto market...
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
-**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
+**[Bitcoin ETFs Saw Outflows of $2 Billion in 2 Weeks. Should You Sell?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-saw-outflows-2-141700040.html)**
 
-Bitcoin may be down, but it isn't out.
+This downtrend is an opportunity for those who are patient.
 
-The Motley Fool • 5m ago
+Yahoo Finance • 20m ago
 
 ---
 
-**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
+**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
 
-The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
+Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
 
-Fortune • 2d ago
+The Block • 20h ago
+
+---
+
+**[Bitcoin's summer swoon creates unique trade in Strategy](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)**
+
+Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.
+
+CNBC • 2d ago
+
+---
+
+**[Is Bitcoin a Buy After Its Recent Selloff?](https://www.fool.com/investing/2026/07/04/is-bitcoin-a-buy-after-its-recent-selloff/)**
+
+Investors have seen Bitcoin do this before, only for the cryptocurrency to storm back. Is this time different?
+
+The Motley Fool • 5h ago
+
+---
+
+**[Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal](https://www.tradingview.com/news/cointelegraph:66cebb0d4094b:0-bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal/)**
+
+Bitcoin (BTC) is completing a “perfectly fractal” reversal pattern that a well-known analyst hopes could end the bear market.Key points:John Bollinger hints BTC price "W" reversal could break bearsIn X posts on Friday, John Bollinger, creator of the Bollinger Bands volatility indicator, eyed a “W”…
+
+TradingView • 1h ago
+
+---
+
+**[Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report](https://bitcoinmagazine.com/markets/bitcoin-exchange-inflows-spike-to-49000)**
+
+CryptoQuant reported Bitcoin exchange inflows surged to 49,000 BTC on June 30 — a rare spike historically linked to heightened volatility and often downside risk — even as Bitcoin rebounded above the key $60,000 support level.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -281,7 +281,7 @@ Strategy continues its shift away from aggressive Bitcoin accumulation as market
 
 How soon we forget that cryptocurrencies were given life by the instability of fiat currencies.
 
-⬆️ 1 • 💬 0 • 4d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
+⬆️ 1 • 💬 0 • 5d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
 
 ---
 
@@ -295,7 +295,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 **[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
 
-⬆️ 6 • 💬 6 • 18h ago
+⬆️ 6 • 💬 6 • 19h ago
 
 ---
 
@@ -347,7 +347,7 @@ JP MORGAN'S NEW ATTACK ON MICROSTRATEGY WAS JUST EXPOSED!
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 395 • 💬 60 • ⏱️ 1:23:56 • 18h ago
+👁️ 8K • 👍 395 • 💬 60 • ⏱️ 1:23:56 • 20h ago
 
 ---
 
@@ -357,7 +357,7 @@ AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.ask
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 788 • 💬 70 • ⏱️ 40:40 • 21h ago
+👁️ 13K • 👍 788 • 💬 70 • ⏱️ 40:40 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com F
 
 📺 Benjamin Cowen
 
-👁️ 11K • 👍 310 • 💬 3 • ⏱️ 1:00 • 22h ago
+👁️ 11K • 👍 310 • 💬 3 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Capital from Bitcoin has rotated into the AI trade. At some point that profit ro
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 2K • 👍 36 • 💬 4 • ⏱️ 0:34 • 13h ago
+👁️ 2K • 👍 36 • 💬 4 • ⏱️ 0:34 • 15h ago
 
 ---
 
@@ -397,7 +397,7 @@ Bitcoin just closed below the 200-week moving average. In fourteen years it's on
 
 📺 Lark Davis
 
-👁️ 11K • 👍 480 • 💬 52 • ⏱️ 11:47 • 15h ago
+👁️ 11K • 👍 480 • 💬 52 • ⏱️ 11:47 • 17h ago
 
 ---
 
@@ -407,7 +407,7 @@ Crypto looks to be entering a new phase, with signs that long-term accumulation 
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 24 • ⏱️ 27:44 • 1d ago
+👁️ 20K • 👍 1K • 💬 24 • ⏱️ 27:44 • 2d ago
 
 ---
 

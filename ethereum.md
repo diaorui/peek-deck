@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T12:45:50.572382+00:00'
+updated: '2026-07-04T14:37:30.918084+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 12:45 UTC  
+**Last Updated:** July 04, 2026 at 14:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +12.3%  
-**30d:** +11.5%  
-**90d:** -16.2%  
-**1y:** -29.9%  
+**24h:** +2.4%  
+**7d:** +12.7%  
+**30d:** +11.9%  
+**90d:** -15.9%  
+**1y:** -29.6%  
 
 ---
 
@@ -130,7 +130,7 @@ https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=7829
 
 **[Explore the chain by execution shape](https://www.reddit.com/r/ethereum/comments/1ukm43h/explore_the_chain_by_execution_shape/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 2d ago
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -178,27 +178,19 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum Banks on Institutional Interest to Save ETH as Price Remains 70% Below Peak](https://finance.yahoo.com/markets/crypto/articles/ethereum-banks-institutional-interest-save-211053181.html)**
+**[Bitcoin, Ethereum, and XRP Price Enter Historically Low-Risk Zones](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-price-enter-historically-low-risk-zones/)**
 
-Ethereum Institutional launched with BitMine, SharpLink and Lubin backing, as ETH trades about 70% below its 2025 peak.
+After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
-
-/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
-
-PR Newswire • 2d ago
+Coinpedia • 7h ago
 
 ---
 
-**[Ethereum Foundation Guide Targets Government And Institutional Blockchain Use](https://www.tradingview.com/news/newsbtc:d91a07954094b:0-ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/)**
+**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
 
-The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
+The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
 
-TradingView • 23h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -210,11 +202,19 @@ FXStreet • 1d ago
 
 ---
 
-**[Citi cuts Bitcoin, Ethereum price targets on negative ETF flows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4608880-citi-cuts-bitcoin-ethereum-price-targets-on-negative-etf-flows)**
+**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
 
-Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
+/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
 
-Seeking Alpha • 3d ago
+PR Newswire • 3d ago
+
+---
+
+**[Ethereum Withdrawals on Binance Hit 3-Year High](https://u.today/ethereum-withdrawals-on-binance-hit-3-year-high)**
+
+Binance has just recorded the highest level of Ethereum withdrawals seen since 2023, flashing a crucial buy signal as ETH eyes a potential recovery.
+
+U.Today • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ Seeking Alpha • 3d ago
 
 Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
 
-TipRanks • 2h ago
+TipRanks • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 548 • 💬 248 • ⏱️ 10:11 • 13h ago
+👁️ 7K • 👍 548 • 💬 248 • ⏱️ 10:11 • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Just when you thought it was safe to go back into the crypto pool... we get some
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 301 • 💬 149 • ⏱️ 31:47 • 3h ago
+👁️ 1K • 👍 301 • 💬 149 • ⏱️ 31:47 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 279 • 💬 44 • ⏱️ 1:03:50 • 21h ago
+👁️ 5K • 👍 279 • 💬 44 • ⏱️ 1:03:50 • 22h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 188 • 💬 45 • ⏱️ 16:24 • 20h ago
+👁️ 4K • 👍 188 • 💬 45 • ⏱️ 16:24 • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 119 • 👍 11 • 💬 2 • ⏱️ 5:09 • 3h ago
+👁️ 119 • 👍 11 • 💬 2 • ⏱️ 5:09 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 154 • 💬 12 • ⏱️ 9:09 • 21h ago
+👁️ 3K • 👍 154 • 💬 12 • ⏱️ 9:09 • 23h ago
 
 ---
 
@@ -306,7 +306,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 15K • 👍 193 • 💬 58 • ⏱️ 0:58 • 19h ago
+👁️ 15K • 👍 193 • 💬 58 • ⏱️ 0:58 • 21h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 104 • ⏱️ 8:11 • 9h ago
+👁️ 1K • 👍 104 • ⏱️ 8:11 • 11h ago
 
 ---
 
