@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T14:37:30.918084+00:00'
+updated: '2026-07-04T16:02:30.585500+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 14:37 UTC  
+**Last Updated:** July 04, 2026 at 16:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,763.84
+### $1,787.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +12.7%  
-**30d:** +11.9%  
-**90d:** -15.9%  
-**1y:** -29.6%  
+**24h:** +2.8%  
+**7d:** +13.7%  
+**30d:** +12.9%  
+**90d:** -15.2%  
+**1y:** -29.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.74B
+**Market Cap:** $216.01B
 Rank #2
 
 **Circulating Supply:** 120,683,241 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.4%
+-63.9%
 
 **All-Time Low:** $0.43
-+407019.1%
++412843.8%
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=78293ee07018eb6a236614fb83cd716bf578b572 My latest article on Ethereum institutions and their political economy. Comparing Ethereum to Linux or ICANN is a category error. It's a polity: monetary sovereignty, shared state, jurisdictional independence, internal capital markets, etc. Polities need founding-period investment. Read here: Paragraph: https://paragraph.com/@trent-4/ethereum-as-protocol-polity Twitter: https://x.com/trent_vanepps/status/2072284645283029016 Summary: Ethereum has monetary sovereignty, shared state, network sovereignty, and internal capital markets: structural characteristics that make it a polity, not a digital utility. OSS/Linux/ICANN comparisons misdirect our funding intuitions; polity-style norms are the right frame for how we provision shared resources. Singapore grew GDP per capita 176x over 60 years on the back of aggressive founding-period infrastructure investment (8-12% of GDP in the late 1960s, vs. the 2-5% typical of developed nations). Ethereum's founding period is now: core architecture is still being shaped, compounding returns on investment are highest early, and talent loss is hardest to recover from before bench strength is established. Norms established early persist; the window to set precedents for neutral, scalable, founding-period funding is open most broadly in the years we are in. Other articles in the series: Ethereum Commoditizes Institutional Capabilities Paragraph: https://paragraph.com/@trent-4/ethereum-commoditizes-institutional-capabilities Twitter/X: https://x.com/trent_vanepps/status/2060423297787924708 Succession After Subtraction Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction Twitter/X: https://x.com/trent_vanepps/status/2067593124398989551
 
-2d ago
+3d ago
 
 ---
 
@@ -162,11 +162,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html)**
+**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
 
-Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
+Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,15 +182,13 @@ TradingView • 1d ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 7h ago
+Coinpedia • 2h ago
 
 ---
 
-**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
+**[Ethereum Name Service governance faces scrutiny over founder accountability](https://cryptobriefing.com/ens-governance-founder-accountability-scrutiny/)**
 
-The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
-
-CoinDesk • 2d ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -199,6 +197,14 @@ CoinDesk • 2d ago
 Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
 
 FXStreet • 1d ago
+
+---
+
+**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
+
+The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -218,14 +224,6 @@ U.Today • 1d ago
 
 ---
 
-**[Ethereum Mini Trust Sees $18M Exit as Holders Test Their Nerves](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-sees-18m-exit-as-holders-test-their-nerves)**
-
-Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
-
-TipRanks • 4h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,17 +234,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 548 • 💬 248 • ⏱️ 10:11 • 15h ago
-
----
-
-**[Something Just Broke In The Crypto Market Bitcoin &amp; Ethereum Will Be Affected By This Major Event](https://www.youtube.com/watch?v=04O1MrB1214)**
-
-Just when you thought it was safe to go back into the crypto pool... we get some pretty intense news coming from both Ethereum ...
-
-📺 The Modern Investor
-
-👁️ 1K • 👍 301 • 💬 149 • ⏱️ 31:47 • 4h ago
+👁️ 8K • 👍 606 • 💬 326 • ⏱️ 10:11 • 16h ago
 
 ---
 
@@ -256,7 +244,17 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 279 • 💬 44 • ⏱️ 1:03:50 • 22h ago
+👁️ 5K • 👍 283 • 💬 44 • ⏱️ 1:03:50 • 1d ago
+
+---
+
+**[Something Just Broke In The Crypto Market Bitcoin &amp; Ethereum Will Be Affected By This Major Event](https://www.youtube.com/watch?v=04O1MrB1214)**
+
+Just when you thought it was safe to go back into the crypto pool... we get some pretty intense news coming from both Ethereum ...
+
+📺 The Modern Investor
+
+👁️ 3K • 👍 456 • 💬 265 • ⏱️ 31:47 • 6h ago
 
 ---
 
@@ -266,7 +264,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 26K • 👍 1K • 💬 76 • ⏱️ 25:16 • 1d ago
+👁️ 26K • 👍 1K • 💬 80 • ⏱️ 25:16 • 1d ago
 
 ---
 
@@ -276,17 +274,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 188 • 💬 45 • ⏱️ 16:24 • 22h ago
-
----
-
-**[ETHEREUM BREAKOUT UPDATE!🔥 (ETH Price Prediction)](https://www.youtube.com/watch?v=fdQuq37oBRg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 119 • 👍 11 • 💬 2 • ⏱️ 5:09 • 5h ago
+👁️ 4K • 👍 191 • 💬 75 • ⏱️ 16:24 • 23h ago
 
 ---
 
@@ -296,7 +284,7 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 154 • 💬 12 • ⏱️ 9:09 • 23h ago
+👁️ 3K • 👍 158 • 💬 13 • ⏱️ 9:09 • 1d ago
 
 ---
 
@@ -306,7 +294,17 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 15K • 👍 193 • 💬 58 • ⏱️ 0:58 • 21h ago
+👁️ 19K • 👍 232 • 💬 63 • ⏱️ 0:58 • 23h ago
+
+---
+
+**[ETHEREUM BREAKOUT UPDATE!🔥 (ETH Price Prediction)](https://www.youtube.com/watch?v=fdQuq37oBRg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 189 • 👍 13 • ⏱️ 5:09 • 7h ago
 
 ---
 
@@ -316,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 961 • 👍 27 • 💬 5 • ⏱️ 4:41 • 1d ago
+👁️ 983 • 👍 27 • 💬 5 • ⏱️ 4:41 • 1d ago
 
 ---
 
@@ -326,7 +324,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 104 • ⏱️ 8:11 • 11h ago
+👁️ 2K • 👍 114 • ⏱️ 8:11 • 13h ago
 
 ---
 

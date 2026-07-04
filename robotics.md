@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T14:37:30.921331+00:00'
+updated: '2026-07-04T16:02:30.589080+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 14:37 UTC  
+**Last Updated:** July 04, 2026 at 16:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-19h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Well, every post i see in this sub is about how robot almost killed someone.. So
 
 I recently made a major update to my Control and Robotics learning repository and decided to keep the course materials freely accessible. The repository now includes structured course folders with standalone HTML lecture pages, mathematical explanations, diagrams, and companion code examples for many lessons. The topics cover areas such as: Linear control Modern control System dynamics Robot kinematics and dynamics Robot control Advanced robotics Autonomous mobile robots For some lessons, the code examples are provided in different languages/environments such as Python, C++, Java, MATLAB, and Wolfram/Mathematica, so the material can be studied from both the theory and implementation side. Repo: https://github.com/mohammadijoo/Control_Robotics_Lab I’m sharing it here in case it is useful for students, instructors, or self-learners working through control systems and robotics topics. I would also appreciate feedback, especially if you notice mistakes in equations, explanations, code examples, structure, or missing topics that would make the material more useful.
 
-23h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 19h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 21h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Register • 2d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Robot Report • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 23h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -188,61 +188,23 @@ IEEE Spectrum • 23h ago
 
 ## YouTube Videos: "robotics"
 
+**[$60,000 Robots Fights for $1,000!](https://www.youtube.com/watch?v=y-LX2ORr6JQ)**
+
+Today, Vlad and Michael are doing an EPIC REAL ROBOTS FIGHT Challenge! They have to upgrade different robot fighters and ...
+
+📺 Vlad
+
+👁️ 264K • 👍 4K • 💬 348 • ⏱️ 23:59 • 5h ago
+
+---
+
 **[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=mRlbqt5tkh4)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
 
 📺 South China Morning Post
 
-👁️ 168K • 👍 5K • 💬 1K • ⏱️ 3:59 • 3d ago
-
----
-
-**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
-
-Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
-
-📺 Got Talent Global
-
-👁️ 58K • 👍 634 • 💬 23 • ⏱️ 5:08 • 5d ago
-
----
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 6K • 👍 345 • 💬 67 • ⏱️ 12:50 • 2d ago
-
----
-
-**[Robots Are Coming For All Jobs](https://www.youtube.com/watch?v=qCsYVL-v-3A)**
-
-Robots used to struggle to walk, now they're patrolling the streets. AI is what makes the headlines when it comes to job ...
-
-📺 Vanessa Wingårdh
-
-👁️ 98K • 👍 5K • 💬 2K • ⏱️ 13:18 • 6d ago
-
----
-
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
-
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
-
-📺 brenpoly
-
-👁️ 163K • 👍 10K • 💬 512 • ⏱️ 23:57 • 7d ago
-
----
-
-**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
-
-📺 Smarttoy Ruko
-
-👁️ 6K • 👍 57 • ⏱️ 0:19 • 4h ago
+👁️ 176K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
 
 ---
 
@@ -252,23 +214,7 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 4K • 👍 12 • ⏱️ 0:21 • 13h ago
-
----
-
-**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
-
-📺 Will Cogley
-
-👁️ 778K • 👍 30K • 💬 795 • ⏱️ 0:32 • 4d ago
-
----
-
-**[Cycle testing our 2026 Robot at the Southern a California State Championship #STEM #robotics](https://www.youtube.com/watch?v=h7HrTNOZDbg)**
-
-📺 FRC Team 3255 - SuperNURDs
-
-👁️ 24K • 👍 70 • 💬 2 • ⏱️ 0:06 • 2d ago
+👁️ 5K • 👍 14 • ⏱️ 0:21 • 14h ago
 
 ---
 
@@ -278,7 +224,63 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 DeathTempler
 
-👁️ 17K • 👍 3K • 💬 179 • ⏱️ 0:29 • 20h ago
+👁️ 18K • 👍 3K • 💬 185 • ⏱️ 0:29 • 22h ago
+
+---
+
+**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
+
+📺 Smarttoy Ruko
+
+👁️ 22K • 👍 128 • ⏱️ 0:19 • 6h ago
+
+---
+
+**[Everyone Thought He Was a Robot 🤖😱](https://www.youtube.com/watch?v=0J8PhFDr05g)**
+
+Robot or human? This incredible actor has mastered robotic movements so perfectly that millions of people believe they're ...
+
+📺 Natural Health
+
+👁️ 7K • 👍 46 • 💬 1 • ⏱️ 0:25 • 13h ago
+
+---
+
+**[I Tried a $4,500 Robotic Exoskeleton and It Gave Me Super Ankles](https://www.youtube.com/watch?v=CmlWLT2K8a0)**
+
+The future of wearable tech isn't just on your wrist—it's on your legs. In this hands-on look, we test the Dephy Sidekick, ...
+
+📺 CNET
+
+👁️ 12K • 👍 322 • 💬 31 • ⏱️ 3:44 • 2d ago
+
+---
+
+**[Robot companion features lifelike skin and ‘emotional AI’](https://www.youtube.com/watch?v=J1GBxgv9Vgs)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this: https://sc.mp/54434e ...
+
+📺 South China Morning Post
+
+👁️ 121K • 👍 5K • 💬 729 • ⏱️ 2:39 • 3d ago
+
+---
+
+**[Ultimate Robotic Soft Gripper Flex 🤖](https://www.youtube.com/watch?v=R0u8pzlA_ps)**
+
+Advanced Soft Pneumatic Gripping Innovation Handling fragile agricultural produce and sorting irregularly shaped manufacturing ...
+
+📺 Peace Working Shorts
+
+👁️ 193K • 👍 448 • 💬 5 • ⏱️ 0:06 • 11h ago
+
+---
+
+**[Using a robot hand to do some hammering! From Rysen Robotics at ICRA 2026](https://www.youtube.com/watch?v=Q3Mm1AZJhs4)**
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 472K • 👍 922 • 💬 58 • ⏱️ 0:14 • 1d ago
 
 ---
 
