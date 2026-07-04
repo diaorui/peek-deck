@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T00:04:40.541855+00:00'
+updated: '2026-07-04T04:11:23.614149+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 00:04 UTC  
+**Last Updated:** July 04, 2026 at 04:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,616.26
+### $62,502.78
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.6%  
-**7d:** +5.2%  
-**30d:** +2.4%  
-**90d:** -9.1%  
-**1y:** -42.2%  
+**7d:** +5.4%  
+**30d:** +2.6%  
+**90d:** -9.0%  
+**1y:** -42.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1253.96B
+**Market Cap:** $1255.28B
 Rank #1
 
-**Circulating Supply:** 20,051,715 BTC
+**Circulating Supply:** 20,051,796 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.4%
+-50.3%
 
 **All-Time Low:** $67.81
-+92123.9%
++92221.2%
 
 ---
 
@@ -77,29 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
-
-8h ago
-
----
-
-**[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
-
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 8h ago
-
----
-
-**[Ireland has now clawed back 1,500 BTC from the dealer who famously lost his keys, and 9 of his 12 wallets are still untouched](https://www.reddit.com/r/Bitcoin/comments/1umb6r8/ireland_has_now_clawed_back_1500_btc_from_the/)**
-
-Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
-
-13h ago
-
----
-
 **[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
 
-2h ago
+6h ago
+
+---
+
+**[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
+
+12h ago
 
 ---
 
@@ -107,7 +93,37 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 Bitcoin! Bitcoin! Bitcoin!
 
+7h ago
+
+---
+
+**[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
+
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 12h ago
+
+---
+
+**[Hacked for ~3.4M sats - Need help tracking if funds hit an exchange (Clipboard vulnerability?)](https://www.reddit.com/r/Bitcoin/comments/1umuduh/hacked_for_34m_sats_need_help_tracking_if_funds/)**
+
+Hi everyone, I was unfortunately hacked on June 6th, 2026, at 01:01 AM. The attacker managed to drain my funds in three separate transactions sent to the exact same hacker address: bc1qvwklr8mutvrk49zvwpvuvtxx9jdzc2gg0l0jjw Here are the TXIDs and amounts: 193,885 sats -> ⁠ee778ce0031ffd1c41bfc99e22a8b2a7d643f684a6d4ac498e8221dc4c65a10a⁠ 69,890 sats -> ⁠776b0caa9fd34dbaecdbd2f76e1f8f544afbc3b1d9fad862491afb8ee2e88000⁠ 3,152,496 sats -> ⁠20656c02472ae54795cb08219d83125138c887c1f1c575c399c424aae35d520a ⁠ I have never shared my seed phrase with anyone. The only vector I can think of is a clipboard leak. A while ago, I copied my seed phrase from Cake Wallet to test Blue Wallet on my iPhone. I suspect I forgot to clear my clipboard, and a malicious website or app read it while I was browsing. Note: I have already secured my remaining/future funds by creating a brand new wallet on a clean setup and moving everything there. I know Bitcoin transactions are irreversible and these funds are gone. However, I want to know if these funds have eventually landed on a centralized exchange (KYC'd wallet) where a police report could potentially freeze them. Could anyone with blockchain forensics experience help me track where the hacker moved the funds after hitting that address? How can I check if they reached an exchange? Thanks for your help.
+
 3h ago
+
+---
+
+**[Ireland has now clawed back 1,500 BTC from the dealer who famously lost his keys, and 9 of his 12 wallets are still untouched](https://www.reddit.com/r/Bitcoin/comments/1umb6r8/ireland_has_now_clawed_back_1500_btc_from_the/)**
+
+Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
+
+17h ago
+
+---
+
+**[What was the moment Bitcoin went from “an investment” to “a long-term conviction” for you?](https://www.reddit.com/r/Bitcoin/comments/1umsnxl/what_was_the_moment_bitcoin_went_from_an/)**
+
+For those of you who’ve been in Bitcoin for a while… What was the moment Bitcoin stopped being “just another investment” and became a long-term conviction? Was it a specific event, a book, a conversation, surviving a bear market, learning how the network works, or something else entirely? Looking back, was there a point where your mindset shifted from trying to make money with Bitcoin to simply wanting to own Bitcoin for the long run? I’d love to hear what changed your perspective.
+
+5h ago
 
 ---
 
@@ -115,7 +131,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 but someone might be faster than me
 
-21h ago
+1d ago
 
 ---
 
@@ -123,27 +139,15 @@ but someone might be faster than me
 
 📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
 
-14h ago
+18h ago
 
 ---
 
-**[River just updated their app to help the paper hands out there through the weakest bear cycle ever](https://www.reddit.com/r/Bitcoin/comments/1ulopsg/river_just_updated_their_app_to_help_the_paper/)**
+**[I rather have bitcoins than money](https://www.reddit.com/r/Bitcoin/comments/1umyyn2/i_rather_have_bitcoins_than_money/)**
 
-1d ago
+Bitcoin is money. If you know you know.
 
----
-
-**[Update from 1 year ago](https://www.reddit.com/r/Bitcoin/comments/1umgxj4/update_from_1_year_ago/)**
-
-For context read last post: 28M I didn’t do it. Too many red flags screaming in my head about being smart about being stupid. New parameters: - got engaged - wedding next year - single family home after that About 220k to my name. Fiancé about the same. Wedding is paid for already with $ in a UST. Finances are sound (essential expenses paid for, no debt, 6mo emergency fund, etc). Currently have about 5k in btc exposure with a very slow DCA of about $200/m (not much but it’s something). Now here we are at 60k. About 50% down from where I was previously considering a large allocation change. This is now the time I think I will start to make some lump sum purchases. Fortune favors the bold. Godspeed.
-
-8h ago
-
----
-
-**[Don’t forget](https://www.reddit.com/r/Bitcoin/comments/1ulovuh/dont_forget/)**
-
-1d ago
+7m ago
 
 ---
 
@@ -155,7 +159,7 @@ For context read last post: 28M I didn’t do it. Too many red flags screaming i
 
 Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-Fox Business • 13h ago
+Fox Business • 17h ago
 
 ---
 
@@ -163,15 +167,7 @@ Fox Business • 13h ago
 
 Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
 
-The Block • 6h ago
-
----
-
-**[Ross Gerber Says Trump's $1 Billion Crypto Windfall Is Why 'Bitcoin Went Down and Isn't Going Anywhere'](https://finance.yahoo.com/markets/crypto/articles/ross-gerber-says-trumps-1-082541506.html)**
-
-Renowned investor Ross Gerber on Wednesday attributed Bitcoin’s (CRYPTO: BTC) ongoing slump to President Donald Trump’s profits from cryptocurrency businesses Gerber Comments On ‘Grift’ Gerber reacted to Trump’s disclosure that he earned over $1 billion in his first year as president through cryptocurrency ventures, which include World Liberty Financial and the Official Trump (CRYPTO: TRUMP) memecoin. The CEO of Gerber Kawasaki Wealth and Investment Management said that the “grift is real,” and
-
-Yahoo Finance • 1d ago
+The Block • 10h ago
 
 ---
 
@@ -180,36 +176,6 @@ Yahoo Finance • 1d ago
 CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
 
 CNBC • 1d ago
-
----
-
-**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
-
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
-
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
-
-CoinDesk • 4h ago
-
----
-
-**[Here's Why Bitcoin Could Be the Smartest Buy of the Decade](https://www.fool.com/investing/2026/07/02/why-bitcoin-could-be-smartest-buy-of-decade/)**
-
-Even though the top cryptocurrency trades 52% below its record, long-term investors must remember a key bull argument.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -227,6 +193,46 @@ Reuters • 2d ago
 
 ---
 
+**[Bitcoin ETFs Just Had Their Worst Month Ever. Here's Why I'm Not Worried About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-just-had-worst-141200170.html)**
+
+Bitcoin ETF inflows are likely to return as soon as the price of Bitcoin stabilizes.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion](https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion)**
+
+U.S. institutional demand had its worst month ever in June. Large holders absorbed the selling, marking a divergence that has shown up near past cycle bottoms.
+
+CoinDesk • 16h ago
+
+---
+
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
+
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+
+CoinDesk • 6h ago
+
+---
+
+**[‘Exactly What Warsh Is Afraid Of’—Bitcoin’s Fed Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/07/02/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
+
+The U.S. economy has delivered bad news for the bitcoin price and crypto market...
+
+Forbes • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,7 +241,7 @@ Reuters • 2d ago
 
 Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it will gradually fade into irrelevance over decades.
 
-⬆️ 11 • 💬 2 • 4d ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
+⬆️ 11 • 💬 2 • 5d ago • [CNBC](https://www.cnbc.com/2026/06/26/billionaire-investor-jeremy-grantham-says-bitcoin-will-dwindle-away-with-a-whimper.html)
 
 ---
 
@@ -295,7 +301,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 **[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
 
-⬆️ 4 • 💬 4 • 5h ago
+⬆️ 5 • 💬 6 • 9h ago
 
 ---
 
@@ -317,17 +323,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 3K • 💬 244 • ⏱️ 20:33 • 1d ago
-
----
-
-**[Bitcoin: The Beauty of Mathematics (Part 71)](https://www.youtube.com/watch?v=uoF9yzXHmt4)**
-
-Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 41K • 👍 2K • 💬 111 • ⏱️ 3:08 • 20h ago
+👁️ 45K • 👍 3K • 💬 263 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -337,7 +333,27 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 402 • 💬 129 • ⏱️ 9:15 • 16h ago
+👁️ 6K • 👍 422 • 💬 91 • ⏱️ 9:15 • 20h ago
+
+---
+
+**[Bitcoin: The Beauty of Mathematics (Part 71)](https://www.youtube.com/watch?v=uoF9yzXHmt4)**
+
+Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conference: ...
+
+📺 Benjamin Cowen
+
+👁️ 43K • 👍 3K • 💬 115 • ⏱️ 3:08 • 1d ago
+
+---
+
+**[Jamie Dimon’s Honest Opinion on Bitcoin](https://www.youtube.com/watch?v=M-okWKYMBgI)**
+
+Jamie Dimon has never been afraid to challenge the crypto industry. Whether you agree with his views or not, listening to different ...
+
+📺 finqt
+
+👁️ 1K • 👍 10 • 💬 5 • ⏱️ 0:24 • 6h ago
 
 ---
 
@@ -347,47 +363,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 650 • 💬 439 • ⏱️ 10:21 • 1d ago
+👁️ 13K • 👍 652 • 💬 657 • ⏱️ 10:21 • 1d ago
 
 ---
 
-**[INSIDER BOMBSHELL: 40 Countries Just Confirmed They&#39;re Buying Bitcoin!! | EP 1539](https://www.youtube.com/watch?v=uPoQKLRyU18)**
+**[This Year I Think Bitcoin And The Asset Class Will...](https://www.youtube.com/watch?v=BoSW-PLx1Ms)**
 
-In the depths of this bear market something has fundamentally changed ... the worlds finance is set to buy bitcoin in mass!
+Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com For inquiries and to subscribe to the ...
 
-📺 Simply Bitcoin
+📺 Benjamin Cowen
 
-👁️ 8K • 👍 395 • 💬 43 • ⏱️ 1:27:31 • 1d ago
-
----
-
-**[Bitcoin Bull Signal Just Flashed](https://www.youtube.com/watch?v=_uD-min90FE)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 11K • 👍 714 • 💬 108 • ⏱️ 40:40 • 8h ago
-
----
-
-**[Were We Wrong About Michael Saylor?](https://www.youtube.com/watch?v=2nojwPLc8T0)**
-
-Michael Saylor built his reputation on one message: never sell your Bitcoin. Now Strategy has authorized a Bitcoin monetization ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 3K • 💬 461 • ⏱️ 19:40 • 2d ago
-
----
-
-**[Bitcoin Squeeze Setup After June&#39;s Bloodbath](https://www.youtube.com/watch?v=dXf1SQBhtPY)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 786 • 💬 240 • ⏱️ 57:46 • 2d ago
+👁️ 8K • 👍 244 • 💬 3 • ⏱️ 1:00 • 13h ago
 
 ---
 
@@ -397,17 +383,37 @@ Crypto ETFs, Stocks dump, Solana coins, and more! BITUNIX TRADE THE TOP COINS (a
 
 📺 Lark Davis
 
-👁️ 11K • 👍 583 • 💬 75 • ⏱️ 19:40 • 11h ago
+👁️ 11K • 👍 602 • 💬 101 • ⏱️ 19:40 • 15h ago
 
 ---
 
-**[TRIGGERED: Did Bitcoin Bulls Just Confirm A Relief Rally To $69,000? [Double Digit Gains]](https://www.youtube.com/watch?v=3ExClpIVu90)**
+**[$13T Bitcoin Choice - BlackRock Just Revealed Why](https://www.youtube.com/watch?v=LXElbI8QCMk)**
 
-In today's youtube video, Kyledoops outlines whether a swing failure pattern has been confirmed and a price rally up to $69000 is ...
+Subscribe. Before your country gets priced out. What if the next nation to buy 1000000 Bitcoin isn't the United States? BlackRock ...
 
-📺 Crypto Banter
+📺 Bitcoin News Alerts
 
-👁️ 13K • 👍 1K • 💬 30 • ⏱️ 42:46 • 15h ago
+👁️ 3K • 👍 238 • 💬 157 • ⏱️ 15:42 • 1d ago
+
+---
+
+**[Bitcoin Loses 200 Week MA… NOW WHAT?](https://www.youtube.com/watch?v=aCMOEx44YUY)**
+
+Bitcoin just closed below the 200-week moving average. In fourteen years it's only happened once without a catastrophic systemic ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 352 • 💬 37 • ⏱️ 11:47 • 7h ago
+
+---
+
+**[Exclusive interview: Treasury Secretary Scott Bessent on Trump accounts, Trump&#39;s crypto gains, more](https://www.youtube.com/watch?v=xyyMC6x5NW0)**
+
+Treasury Secretary Scott Bessent speaks with CBS News' Kelly O'Grady about stock donations for Trump accounts, the war in Iran ...
+
+📺 CBS News
+
+👁️ 42K • 👍 603 • 💬 383 • ⏱️ 10:25 • 1d ago
 
 ---
 

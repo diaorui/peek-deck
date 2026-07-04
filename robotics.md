@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T00:04:40.551098+00:00'
+updated: '2026-07-04T04:11:23.623511+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 00:04 UTC  
+**Last Updated:** July 04, 2026 at 04:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ Sergey Levine talks about an experiment where 33 labs shared robot data. The res
 
 Looks promising. It'll be interesting to see how well it performs once it's operating at full scale. Now it is still a concept...
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 19h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/general/articles/world-first-fully-robot-run-184455211.html) • 23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Looks promising. It'll be interesting to see how well it performs once it's oper
 
 I unfortunately cannot get my hands on a rgbd/ stereo camera. So, I have to find a way with monocular camera. Is there any way? Currently, I have a fully functional ros2 nav2 robot with 2d lidar. How about using depth_anything or such? Can anyone provide me insights?
 
-17h ago
+21h ago
 
 ---
 
@@ -116,13 +116,13 @@ In case you missed my AgenticROS talk at Automate 2026, here it is! I connected 
 
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
-The Register • 1d ago
+The Register • 2d ago
 
 ---
 
 **[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
 
-South China Morning Post • 2d ago
+South China Morning Post • 3d ago
 
 ---
 
@@ -140,19 +140,11 @@ New Atlas • 1d ago
 
 ---
 
-**[Churchill Capital Corp XI (CCXI) Is Taking Agility Robotics Public In $2.5 Billion Merger](https://finance.yahoo.com/markets/stocks/articles/churchill-capital-corp-xi-ccxi-211506723.html)**
+**[Beyond the Humanoid Hype: How DEEP Robotics is Charting a Pragmatic Path to Industrial Deployment](https://finance.yahoo.com/technology/ai/articles/beyond-humanoid-hype-deep-robotics-024500554.html)**
 
-Agility Robotics has agreed to merge with Churchill Capital Corp XI (NasdaqGM:CCXI) in a reverse merger valued at $2.5b. The combined company is expected to list under the Agility name with a new ticker symbol once the transaction closes. The deal includes additional funding through a PIPE, with backing from several well known institutional investors. Boards of both Agility Robotics and Churchill Capital Corp XI have unanimously approved the business combination. For Churchill Capital Corp...
+SINGAPORE, SG / ACCESS Newswire / July 3, 2026 / In the crowded landscape of embodied AI, humanoid robotics developers are preoccupied with predicting the future. Everyone wants to define what the "right" path looks like, but few are looking in the ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Zero-Computational Path to High-Resolution Robotic Touch](https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/)**
-
-Researchers developed a mechanochromic skin that converts pressure into color maps for real-time robotic touch.
-
-Neuroscience News • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,11 +170,17 @@ EE Times • 1d ago
 
 ---
 
-**[CMU robotics team and ‘snakebots’ assist Venezuelan earthquake victims](https://triblive.com/news/education-classroom/cmu-robotics-team-and-snakebots-assist-venezuelan-earthquake-victims/)**
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
 
-Beatriz Gonzalez was looking for help. From her home in Atlanta, she watched with horror as her native country of Venezuela was ripped apart June 24, the nation&rsquo;s worst earthquake disaster in more than a century. Two strong, back-to-back earthquakes caused thousands of casualties and immense property damage. Gonzalez turned
+MarketWatch • 9h ago
 
-TribLIVE.com • 1d ago
+---
+
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
+
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
+
+Fortune • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ Try Mistral Vibe for free → https://mistr.al/vibe-codingwithlewis-yt I built a
 
 📺 Coding with Lewis
 
-👁️ 8K • 👍 420 • 💬 33 • ⏱️ 10:19 • 1d ago
+👁️ 10K • 👍 458 • 💬 35 • ⏱️ 10:19 • 1d ago
 
 ---
 
@@ -206,17 +204,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 145K • 👍 4K • 💬 1K • ⏱️ 3:59 • 2d ago
-
----
-
-**[China&#39;s New Female Robot Just Hit The Market — It&#39;s 92% Human](https://www.youtube.com/watch?v=YzVvn8wxj2Y)**
-
-China has built female robots so realistic that people who meet them in person genuinely cannot tell the difference. In this video ...
-
-📺 Prime Insights
-
-👁️ 460K • 👍 14K • 💬 1K • ⏱️ 24:13 • 6d ago
+👁️ 152K • 👍 4K • 💬 1K • ⏱️ 3:59 • 3d ago
 
 ---
 
@@ -226,7 +214,25 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 50K • 👍 564 • 💬 23 • ⏱️ 5:08 • 5d ago
+👁️ 52K • 👍 591 • 💬 23 • ⏱️ 5:08 • 5d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=mfiWa96cdpM)**
+
+📺 Borunte julie 
+
+👁️ 539 • 👍 5 • ⏱️ 0:23 • 3h ago
+
+---
+
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+
+📺 51 Drones
+
+👁️ 5K • 👍 316 • 💬 60 • ⏱️ 12:50 • 2d ago
 
 ---
 
@@ -236,7 +242,17 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 56K • 👍 280 • 💬 142 • ⏱️ 3:05 • 3d ago
+👁️ 57K • 👍 282 • 💬 149 • ⏱️ 3:05 • 3d ago
+
+---
+
+**[Before You Buy a Robot Lawn Mower - LEARN THESE](https://www.youtube.com/watch?v=E0P25yUmgPw)**
+
+Top Mower → https://www.howtowithdoc.com/lawn-robot/ Thinking about buying a robot lawn mower? Before you drop thousands ...
+
+📺 How To with Doc
+
+👁️ 7K • 👍 477 • 💬 58 • ⏱️ 28:50 • 1d ago
 
 ---
 
@@ -246,7 +262,7 @@ Building a fully functional, voice-controlled Odradek from the Death Stranding s
 
 📺 brenpoly
 
-👁️ 152K • 👍 9K • 💬 478 • ⏱️ 23:57 • 6d ago
+👁️ 157K • 👍 9K • 💬 487 • ⏱️ 23:57 • 6d ago
 
 ---
 
@@ -260,33 +276,13 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 ---
 
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
+**[These Robots Are Absolutely Terrible #robotics #fail #shorts](https://www.youtube.com/watch?v=EY-vNM9vWoE)**
 
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
+Why robots still struggle to replace humans. Watch five hilarious examples of modern robotics failing at simple tasks.
 
-📺 51 Drones
+📺 小璐在日摸魚記
 
-👁️ 5K • 👍 301 • 💬 60 • ⏱️ 12:50 • 2d ago
-
----
-
-**[Before You Buy a Robot Lawn Mower - LEARN THESE](https://www.youtube.com/watch?v=E0P25yUmgPw)**
-
-Top Mower → https://www.howtowithdoc.com/lawn-robot/ Thinking about buying a robot lawn mower? Before you drop thousands ...
-
-📺 How To with Doc
-
-👁️ 6K • 👍 449 • 💬 56 • ⏱️ 28:50 • 1d ago
-
----
-
-**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
-
-Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
-
-📺 DeathTempler
-
-👁️ 9K • 👍 2K • 💬 127 • ⏱️ 0:29 • 6h ago
+👁️ 2K • 👍 9 • ⏱️ 0:21 • 2h ago
 
 ---
 
