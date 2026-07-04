@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T11:27:41.220131+00:00'
+updated: '2026-07-04T12:45:50.566314+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 11:27 UTC  
+**Last Updated:** July 04, 2026 at 12:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +5.0%  
-**30d:** +2.3%  
-**90d:** -9.2%  
+**24h:** +0.8%  
+**7d:** +5.2%  
+**30d:** +2.5%  
+**90d:** -9.1%  
 **1y:** -42.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1251.58B
+**Market Cap:** $1254.37B
 Rank #1
 
-**Circulating Supply:** 20,051,934 BTC
+**Circulating Supply:** 20,051,978 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.5%
+-50.4%
 
 **All-Time Low:** $67.81
-+91923.3%
++92159.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin is more secure than US classified systems](https://www.reddit.com/r/Bitcoin/comments/1umiavq/bitcoin_is_more_secure_than_us_classified_systems/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin! Bitcoin! Bitcoin!
 
-14h ago
+16h ago
 
 ---
 
 **[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
 
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 19h ago
+🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 21h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Hi everyone, I was unfortunately hacked on June 6th, 2026, at 01:01 AM. The attacker managed to drain my funds in three separate transactions sent to the exact same hacker address: bc1qvwklr8mutvrk49zvwpvuvtxx9jdzc2gg0l0jjw Here are the TXIDs and amounts: 193,885 sats -> ⁠ee778ce0031ffd1c41bfc99e22a8b2a7d643f684a6d4ac498e8221dc4c65a10a⁠ 69,890 sats -> ⁠776b0caa9fd34dbaecdbd2f76e1f8f544afbc3b1d9fad862491afb8ee2e88000⁠ 3,152,496 sats -> ⁠20656c02472ae54795cb08219d83125138c887c1f1c575c399c424aae35d520a ⁠ I have never shared my seed phrase with anyone. The only vector I can think of is a clipboard leak. A while ago, I copied my seed phrase from Cake Wallet to test Blue Wallet on my iPhone. I suspect I forgot to clear my clipboard, and a malicious website or app read it while I was browsing. Note: I have already secured my remaining/future funds by creating a brand new wallet on a clean setup and moving everything there. I know Bitcoin transactions are irreversible and these funds are gone. However, I want to know if these funds have eventually landed on a centralized exchange (KYC'd wallet) where a police report could potentially freeze them. Could anyone with blockchain forensics experience help me track where the hacker moved the funds after hitting that address? How can I check if they reached an exchange? Thanks for your help.
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 For those of you who’ve been in Bitcoin for a while… What was the moment Bitcoin stopped being “just another investment” and became a long-term conviction? Was it a specific event, a book, a conversation, surviving a bear market, learning how the network works, or something else entirely? Looking back, was there a point where your mindset shifted from trying to make money with Bitcoin to simply wanting to own Bitcoin for the long run? I’d love to hear what changed your perspective.
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ but someone might be faster than me
 
 Bitcoin is money. If you know you know.
 
-7h ago
+8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fox Business • 1d ago
 
 This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -175,15 +175,15 @@ CoinDesk • 1h ago
 
 These are two of the most popular digital assets on the market.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Is Strategy's Latest Plan 1 More Reason to Sell Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/strategys-latest-plan-1-more-082000078.html)**
+**[Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something Ƀetter'](https://finance.yahoo.com/markets/crypto/articles/strategys-michael-saylor-turns-elon-111450275.html)**
 
-The digital asset treasury company now has plans to sell more Bitcoin.
+Saylor regularly ties Bitcoin to U.S. holidays, framing it as a tool for American economic strength.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -203,6 +203,14 @@ CNBC • 1d ago
 
 ---
 
+**[Prediction: 1 Cryptocurrency That Will Be Worth More than Bitcoin and Ethereum Combined](https://finance.yahoo.com/markets/crypto/articles/prediction-1-cryptocurrency-worth-more-235900703.html)**
+
+As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[‘Exactly What Warsh Is Afraid Of’—Bitcoin’s Fed Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/07/02/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
 
 The U.S. economy has delivered bad news for the bitcoin price and crypto market...
@@ -211,19 +219,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
+**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
 
-Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
+Bitcoin may be down, but it isn't out.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Live updates: More bitcoin is now held at a loss than at a profit](https://www.coindesk.com/tech/2026/07/03/live-updates-more-bitcoin-is-now-held-at-a-loss-than-at-a-profit)**
-
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
-
-CoinDesk • 14h ago
+The Motley Fool • 5m ago
 
 ---
 
@@ -249,15 +249,7 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 **[Strategy Says It May Sell Up to $1.25B of Bitcoin](https://news.ycombinator.com/item?id=48718522)**
 
-⬆️ 5 • 💬 2 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
-
----
-
-**[Michael Saylor's Strategy has no easy way out as Bitcoin prices continue to drop](https://news.ycombinator.com/item?id=48697440)**
-
-Michael Saylor's Strategy is experiencing pains as a result of its financial engineering.
-
-⬆️ 3 • 💬 1 • 6d ago • [Yahoo Finance](https://finance.yahoo.com/markets/article/michael-saylors-strategy-faces-no-easy-way-out-as-bitcoin-prices-continue-to-drop-112328170.html)
+⬆️ 5 • 💬 2 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
 
 ---
 
@@ -273,7 +265,7 @@ Tell us your Bitcoin stack. We'll email you the day you're a millionaire — the
 
 One
 
-⬆️ 2 • 💬 0 • 2d ago • [markovianprotocol.com](https://markovianprotocol.com)
+⬆️ 2 • 💬 0 • 3d ago • [markovianprotocol.com](https://markovianprotocol.com)
 
 ---
 
@@ -297,13 +289,13 @@ How soon we forget that cryptocurrencies were given life by the instability of f
 
 When a coding agent explores a large codebase, is text search enough — or does it need fast-light structural (tree-sitter) or authoritative semantic (LSP) navigation? Evidence, not opinion.
 
-⬆️ 3 • 💬 2 • 3d ago • [is grep enough?](https://entelligentsia.github.io/is-grep-enough/)
+⬆️ 3 • 💬 2 • 4d ago • [is grep enough?](https://entelligentsia.github.io/is-grep-enough/)
 
 ---
 
 **[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
 
-⬆️ 6 • 💬 6 • 16h ago
+⬆️ 6 • 💬 6 • 18h ago
 
 ---
 
@@ -325,7 +317,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 48K • 👍 3K • 💬 257 • ⏱️ 20:33 • 1d ago
+👁️ 49K • 👍 3K • 💬 262 • ⏱️ 20:33 • 1d ago
 
 ---
 
@@ -335,7 +327,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 3K • 💬 117 • ⏱️ 3:08 • 1d ago
+👁️ 46K • 👍 3K • 💬 117 • ⏱️ 3:08 • 1d ago
 
 ---
 
@@ -345,7 +337,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 453 • 💬 52 • ⏱️ 9:15 • 1d ago
+👁️ 7K • 👍 473 • 💬 55 • ⏱️ 9:15 • 1d ago
 
 ---
 
@@ -355,7 +347,17 @@ JP MORGAN'S NEW ATTACK ON MICROSTRATEGY WAS JUST EXPOSED!
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 378 • 💬 56 • ⏱️ 1:23:56 • 17h ago
+👁️ 8K • 👍 395 • 💬 60 • ⏱️ 1:23:56 • 18h ago
+
+---
+
+**[Bitcoin Bull Signal Just Flashed](https://www.youtube.com/watch?v=_uD-min90FE)**
+
+AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 788 • 💬 70 • ⏱️ 40:40 • 21h ago
 
 ---
 
@@ -365,7 +367,7 @@ Into The Cryptoverse Premium CURRENTLY ON SALE: https://intothecryptoverse.com F
 
 📺 Benjamin Cowen
 
-👁️ 10K • 👍 286 • 💬 3 • ⏱️ 1:00 • 21h ago
+👁️ 11K • 👍 310 • 💬 3 • ⏱️ 1:00 • 22h ago
 
 ---
 
@@ -375,7 +377,7 @@ Crypto ETFs, Stocks dump, Solana coins, and more! BITUNIX TRADE THE TOP COINS (a
 
 📺 Lark Davis
 
-👁️ 12K • 👍 612 • 💬 75 • ⏱️ 19:40 • 22h ago
+👁️ 12K • 👍 619 • 💬 94 • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -385,27 +387,7 @@ Capital from Bitcoin has rotated into the AI trade. At some point that profit ro
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 2K • 👍 34 • 💬 3 • ⏱️ 0:34 • 12h ago
-
----
-
-**[Exclusive interview: Treasury Secretary Scott Bessent on Trump accounts, Trump&#39;s crypto gains, more](https://www.youtube.com/watch?v=xyyMC6x5NW0)**
-
-Treasury Secretary Scott Bessent speaks with CBS News' Kelly O'Grady about stock donations for Trump accounts, the war in Iran ...
-
-📺 CBS News
-
-👁️ 45K • 👍 615 • 💬 387 • ⏱️ 10:25 • 1d ago
-
----
-
-**[Bitcoin Whales Just Made a Massive Crypto Bull Market Bet!](https://www.youtube.com/watch?v=Fwkjz9RIfFY)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 658 • 💬 658 • ⏱️ 10:21 • 1d ago
+👁️ 2K • 👍 36 • 💬 4 • ⏱️ 0:34 • 13h ago
 
 ---
 
@@ -415,7 +397,17 @@ Bitcoin just closed below the 200-week moving average. In fourteen years it's on
 
 📺 Lark Davis
 
-👁️ 9K • 👍 436 • 💬 45 • ⏱️ 11:47 • 14h ago
+👁️ 11K • 👍 480 • 💬 52 • ⏱️ 11:47 • 15h ago
+
+---
+
+**[Why Bitcoin is About to Bounce Massively (Data)](https://www.youtube.com/watch?v=UDTUmGHPd2k)**
+
+Crypto looks to be entering a new phase, with signs that long-term accumulation is beginning to outweigh liquidation pressure.
+
+📺 Crypto Banter
+
+👁️ 20K • 👍 1K • 💬 24 • ⏱️ 27:44 • 1d ago
 
 ---
 

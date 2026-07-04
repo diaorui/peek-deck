@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T11:27:41.225427+00:00'
+updated: '2026-07-04T12:45:50.572382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 11:27 UTC  
+**Last Updated:** July 04, 2026 at 12:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,758.43
+### $1,763.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +11.8%  
-**30d:** +11.0%  
-**90d:** -16.6%  
-**1y:** -30.2%  
+**24h:** +1.0%  
+**7d:** +12.3%  
+**30d:** +11.5%  
+**90d:** -16.2%  
+**1y:** -29.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.05B
+**Market Cap:** $212.74B
 Rank #2
 
 **Circulating Supply:** 120,683,241 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.5%
+-64.4%
 
 **All-Time Low:** $0.43
-+405598.7%
++407019.1%
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 2d ago
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-Yahoo Finance • 12m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ PR Newswire • 2d ago
 
 The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
 
-TradingView • 21h ago
+TradingView • 23h ago
 
 ---
 
@@ -206,7 +206,7 @@ TradingView • 21h ago
 
 Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ FXStreet • 23h ago
 
 Citi has reduced its 12-month price forecasts for Bitcoin (BTC-USD) and Ethereum (ETH-USD) to $82,000 and $2,240 from $112,000 and $3,175, respectively.
 
-Seeking Alpha • 2d ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -222,7 +222,7 @@ Seeking Alpha • 2d ago
 
 Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
 
-TipRanks • 55m ago
+TipRanks • 2h ago
 
 ---
 
@@ -236,7 +236,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 491 • 💬 258 • ⏱️ 10:11 • 12h ago
+👁️ 7K • 👍 548 • 💬 248 • ⏱️ 10:11 • 13h ago
+
+---
+
+**[Something Just Broke In The Crypto Market Bitcoin &amp; Ethereum Will Be Affected By This Major Event](https://www.youtube.com/watch?v=04O1MrB1214)**
+
+Just when you thought it was safe to go back into the crypto pool... we get some pretty intense news coming from both Ethereum ...
+
+📺 The Modern Investor
+
+👁️ 1K • 👍 301 • 💬 149 • ⏱️ 31:47 • 3h ago
 
 ---
 
@@ -246,7 +256,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 279 • 💬 42 • ⏱️ 1:03:50 • 19h ago
+👁️ 5K • 👍 279 • 💬 44 • ⏱️ 1:03:50 • 21h ago
 
 ---
 
@@ -256,17 +266,7 @@ Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on publi
 
 📺 Paul Barron Network
 
-👁️ 26K • 👍 1K • 💬 75 • ⏱️ 25:16 • 1d ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
-
-In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 146 • 💬 11 • ⏱️ 9:09 • 19h ago
+👁️ 26K • 👍 1K • 💬 76 • ⏱️ 25:16 • 1d ago
 
 ---
 
@@ -276,7 +276,27 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 184 • 💬 40 • ⏱️ 16:24 • 19h ago
+👁️ 4K • 👍 188 • 💬 45 • ⏱️ 16:24 • 20h ago
+
+---
+
+**[ETHEREUM BREAKOUT UPDATE!🔥 (ETH Price Prediction)](https://www.youtube.com/watch?v=fdQuq37oBRg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 119 • 👍 11 • 💬 2 • ⏱️ 5:09 • 3h ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
+
+In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 154 • 💬 12 • ⏱️ 9:09 • 21h ago
 
 ---
 
@@ -286,7 +306,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 12K • 👍 158 • 💬 48 • ⏱️ 0:58 • 18h ago
+👁️ 15K • 👍 193 • 💬 58 • ⏱️ 0:58 • 19h ago
 
 ---
 
@@ -296,17 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 927 • 👍 25 • 💬 5 • ⏱️ 4:41 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=FBAhysfke-c)**
-
-BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 289 • 💬 59 • ⏱️ 20:13 • 15h ago
+👁️ 961 • 👍 27 • 💬 5 • ⏱️ 4:41 • 1d ago
 
 ---
 
@@ -316,17 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 960 • 👍 89 • ⏱️ 8:11 • 8h ago
-
----
-
-**[CRYPTO BOTTOM IN OR ONE MORE DUMP? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=buwrXQN86Jg)**
-
-Brian from Santiment joined to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, and Solana. 🖥️ Sign up with ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 164 • 💬 26 • ⏱️ 26:00 • 23h ago
+👁️ 1K • 👍 104 • ⏱️ 8:11 • 9h ago
 
 ---
 

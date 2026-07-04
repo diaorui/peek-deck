@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T11:27:41.228280+00:00'
+updated: '2026-07-04T12:45:50.575637+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 11:27 UTC  
+**Last Updated:** July 04, 2026 at 12:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
 
-18h ago
+20h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Well, every post i see in this sub is about how robot almost killed someone.. So
 
 I recently made a major update to my Control and Robotics learning repository and decided to keep the course materials freely accessible. The repository now includes structured course folders with standalone HTML lecture pages, mathematical explanations, diagrams, and companion code examples for many lessons. The topics cover areas such as: Linear control Modern control System dynamics Robot kinematics and dynamics Robot control Advanced robotics Autonomous mobile robots For some lessons, the code examples are provided in different languages/environments such as Python, C++, Java, MATLAB, and Wolfram/Mathematica, so the material can be studied from both the theory and implementation side. Repo: https://github.com/mohammadijoo/Control_Robotics_Lab I’m sharing it here in case it is useful for students, instructors, or self-learners working through control systems and robotics topics. I would also appreciate feedback, especially if you notice mistakes in equations, explanations, code examples, structure, or missing topics that would make the material more useful.
 
-20h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ I recently made a major update to my Control and Robotics learning repository an
 
 Humanoid robots and physical AI were major themes at Automate 2026. The show featured more than 50 humanoid and quadruped systems, a significant increase from last year. Much of the discussion centered on commercialization, safety, deployment, dexterity, data collection, and training rather than future predictions. Several companies also showcased hybrid mobile manipulation platforms that combine AMR mobility with dual-arm operation, including new systems from Locus, Cobot, and Kinisi. On the physical AI side, Apptronik introduced Apollo 2 and its new Robot Park training facility, Generalist demonstrated its GEN-1 dexterity model, and FieldAI announced more than $100 million in revenue and customer contracts.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 21h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 23h ago
 
 ---
 
@@ -90,13 +90,13 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 16h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 18h ago
 
 ---
 
 **[l test the 3D depth camera MRP P008G](https://www.reddit.com/r/robotics/comments/1umex1y/l_test_the_3d_depth_camera_mrp_p008g/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -118,15 +118,61 @@ The Register • 2d ago
 
 ---
 
+**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
+
+WSJ • 3h ago
+
+---
+
 **[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
 
 Reuters • 2d ago
 
 ---
 
-**[UBTech launches lifelike humanoid robots built for companionship in China](https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china)**
+**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
 
-South China Morning Post • 3d ago
+Japan Today • 1d ago
+
+---
+
+**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
+
+Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
+
+CNBC • 2d ago
+
+---
+
+**[Video. Humanoid robots showcase football skills](https://www.euronews.com/video/2026/07/03/humanoid-robots-showcase-football-skills)**
+
+Video. Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.
+
+Euronews • 22h ago
+
+---
+
+**[UBTech’s humanoid robots deployed to control crowds at China’s busy international border](https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robots-international-border)**
+
+China is deploying UBTech's Walker S2 humanoid robots at its Vietnam border to speed customs checks and reduce congestion.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Maybe robots don't need legs or fingers to do laundry — Weave Robotics Isaac 1 isn't pretty or super-humanoid, but it might be ready to handle basic chores](https://www.techradar.com/computing/maybe-robots-dont-need-legs-or-fingers-to-do-laundry-weave-robotics-isaac-1-isnt-pretty-or-super-humanoid-but-it-might-be-ready-to-handle-basic-chores)**
+
+Weave Robotics Isaac 1 is a legless robot body on a stalk that can fold laundry and do basic chores, all for $7999.
+
+TechRadar • 1d ago
+
+---
+
+**[Top 10 robotics developments of June 2026](https://www.therobotreport.com/top-10-robotic-stories-june-2026/)**
+
+Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -135,48 +181,6 @@ South China Morning Post • 3d ago
 Weave Robotics announced its first robot for folding laundry just five months ago, and it already has a new product on offer. Like its predecessor, the new Isaac 1 robot also folds clothes. But unlike the old model, this one can tidy up your living room and make the bed on demand. It looks cuter,…
 
 New Atlas • 1d ago
-
----
-
-**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
-
-WSJ • 1h ago
-
----
-
-**[Special educational exhibition featuring robots opens in Beijing](https://www.globaltimes.cn/galleries/6254.html)**
-
-Global Times • 4h ago
-
----
-
-**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 20h ago
-
----
-
-**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
-
-Tech Xplore • 17h ago
-
----
-
-**[Kraken Robotics Announces Closing Of Strategic Acquisition Of Covelya Group Limited](https://oceannews.com/news/milestones/kraken-robotics-announces-closing-of-strategic-acquisition-of-covelya-group-limited/)**
-
-Kraken Robotics Inc. (Kraken), has announced the closing of its previously announced acquisition of Covelya Group Limited (Covelya Group), for approximately $615 million, subject to closing adjustments (the Acquisition).
-
-Ocean News & Technology • 1d ago
-
----
-
-**[The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026](https://finance.yahoo.com/markets/stocks/articles/first-major-robotics-ipo-5-155354756.html)**
-
-The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -190,7 +194,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 162K • 👍 4K • 💬 1K • ⏱️ 3:59 • 3d ago
+👁️ 168K • 👍 5K • 💬 1K • ⏱️ 3:59 • 3d ago
 
 ---
 
@@ -200,7 +204,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 56K • 👍 616 • 💬 23 • ⏱️ 5:08 • 5d ago
+👁️ 58K • 👍 634 • 💬 23 • ⏱️ 5:08 • 5d ago
 
 ---
 
@@ -210,17 +214,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 6K • 👍 336 • 💬 63 • ⏱️ 12:50 • 2d ago
-
----
-
-**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
-
-Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
-
-📺 brenpoly
-
-👁️ 160K • 👍 10K • 💬 497 • ⏱️ 23:57 • 6d ago
+👁️ 6K • 👍 345 • 💬 67 • ⏱️ 12:50 • 2d ago
 
 ---
 
@@ -230,17 +224,25 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 📺 Vanessa Wingårdh
 
-👁️ 98K • 👍 5K • 💬 2K • ⏱️ 13:18 • 5d ago
+👁️ 98K • 👍 5K • 💬 2K • ⏱️ 13:18 • 6d ago
 
 ---
 
-**[Finally! UBTECH U1 Bionic Humanoid Full Launch – Full Specs &amp; Price Reveal](https://www.youtube.com/watch?v=90J5I8woxyo)**
+**[Building a Robot that Hunts AI Glasses](https://www.youtube.com/watch?v=kd_8QFCSFAE)**
 
-ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market with the official release of the UWORLD U1.
+Building a fully functional, voice-controlled Odradek from the Death Stranding series! In this final phase of the build, I am tackling ...
 
-📺 OTOFOOTAGE
+📺 brenpoly
 
-👁️ 59K • 👍 290 • 💬 150 • ⏱️ 3:05 • 4d ago
+👁️ 163K • 👍 10K • 💬 512 • ⏱️ 23:57 • 6d ago
+
+---
+
+**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
+
+📺 Smarttoy Ruko
+
+👁️ 6K • 👍 57 • ⏱️ 0:19 • 2h ago
 
 ---
 
@@ -250,17 +252,15 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 3K • 👍 9 • ⏱️ 0:21 • 10h ago
+👁️ 4K • 👍 12 • ⏱️ 0:21 • 11h ago
 
 ---
 
-**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
+**[There’s a problem with my mouth design… #engineering #3dprinting #robotics](https://www.youtube.com/watch?v=K23XzB3Opgo)**
 
-Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
+📺 Will Cogley
 
-📺 DeathTempler
-
-👁️ 16K • 👍 3K • 💬 170 • ⏱️ 0:29 • 17h ago
+👁️ 778K • 👍 30K • 💬 795 • ⏱️ 0:32 • 4d ago
 
 ---
 
@@ -272,13 +272,13 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 ---
 
-**[THEY CAN&#39;T BE HUMAN?! Robot Dance Crews Move Like Machines | AGT &amp; BGT](https://www.youtube.com/watch?v=nt6oOx0htGs)**
+**[Cyn Being Rebuilt](https://www.youtube.com/watch?v=6v8t0hZcA-Y)**
 
-This compilation showcases some of the most unbelievable robot-style and animation dance performances ever seen on Britain's ...
+Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiikamusic Follow my socials for more frequent ...
 
-📺 Talent Replay
+📺 DeathTempler
 
-👁️ 225K • 👍 3K • 💬 70 • ⏱️ 39:57 • 6d ago
+👁️ 17K • 👍 3K • 💬 179 • ⏱️ 0:29 • 19h ago
 
 ---
 
