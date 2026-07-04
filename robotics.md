@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T20:29:22.956916+00:00'
+updated: '2026-07-04T21:30:40.954723+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 20:29 UTC  
+**Last Updated:** July 04, 2026 at 21:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-14h ago
+15h ago
 
 ---
 
@@ -124,6 +124,18 @@ The Register • 2d ago
 
 ---
 
+**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
+
+WSJ • 12h ago
+
+---
+
+**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
+
+Japan Today • 2d ago
+
+---
+
 **[UBTech’s lifelike humanoid robots built for companionship arriving in homes across China](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/ubtechs-lifelike-humanoid-robots-built-for-companionship-arriving-in-homes-across-china)**
 
 The unveiling of model U1, which has silicone skin and emotional AI, reflects tech firms' drive to expand robotics beyond industrial use
@@ -132,53 +144,41 @@ The Star • 1d ago
 
 ---
 
+**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
+
+Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
+
+CNBC • 2d ago
+
+---
+
+**[Video. Humanoid robots showcase football skills](https://www.euronews.com/video/2026/07/03/humanoid-robots-showcase-football-skills)**
+
+Video. Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.
+
+Euronews • 1d ago
+
+---
+
+**[UBTech’s humanoid robots deployed to control crowds at China’s busy international border](https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robots-international-border)**
+
+China is deploying UBTech's Walker S2 humanoid robots at its Vietnam border to speed customs checks and reduce congestion.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Robotics Then And Now: 2000 To 2026 By The Numbers](https://seekingalpha.com/article/4919450-robotics-then-now-2000-2026-by-numbers)**
+
+Seeking Alpha • 2d ago
+
+---
+
 **[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
 
 Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
 Fortune • 3d ago
-
----
-
-**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
-
-WSJ • 10h ago
-
----
-
-**[Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots](https://futurism.com/robots-and-machines/uaw-union-general-motors-layoff-robots)**
-
-A powerful labor union is furious, as workers at General Motors are being pushed out to make room for robots.
-
-Futurism • 10h ago
-
----
-
-**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Santa Cruz County robotics team captures world championship](https://pajaronian.com/santa-cruz-county-robotics-team-captures-world-championship/)**
-
-Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
-
-The Pajaronian • 1d ago
-
----
-
-**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -192,27 +192,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 183K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
-
----
-
-**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
-
-Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
-
-📺 Got Talent Global
-
-👁️ 67K • 👍 691 • 💬 24 • ⏱️ 5:08 • 6d ago
-
----
-
-**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
-
-Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
-
-📺 51 Drones
-
-👁️ 8K • 👍 370 • 💬 71 • ⏱️ 12:50 • 3d ago
+👁️ 187K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
 
 ---
 
@@ -226,31 +206,13 @@ Robots used to struggle to walk, now they're patrolling the streets. AI is what 
 
 ---
 
-**[🇮🇳 Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule](https://www.youtube.com/watch?v=DzmOAX1ArtM)**
+**[Meet Beni: The Camera Robot That Follows You Everywhere](https://www.youtube.com/watch?v=AwiIt1Visg4)**
 
-Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule Experience a futuristic mechanical transformation ...
+Beni is an autonomous tracking robot with a 4K camera, self-balancing capabilities, can travel on multiple surfaces, has a fun ...
 
-📺 TopDoglive
+📺 51 Drones
 
-👁️ 1K • ⏱️ 0:11 • 8h ago
-
----
-
-**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
-
-📺 Smarttoy Ruko
-
-👁️ 35K • 👍 155 • ⏱️ 0:19 • 10h ago
-
----
-
-**[These Robots Are Absolutely Terrible #robotics #fail #shorts](https://www.youtube.com/watch?v=EY-vNM9vWoE)**
-
-Why robots still struggle to replace humans. Watch five hilarious examples of modern robotics failing at simple tasks.
-
-📺 小璐在日摸魚記
-
-👁️ 6K • 👍 15 • ⏱️ 0:21 • 19h ago
+👁️ 11K • 👍 377 • 💬 73 • ⏱️ 12:50 • 3d ago
 
 ---
 
@@ -260,7 +222,37 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 83K • 👍 322 • 💬 172 • ⏱️ 2:50 • 2d ago
+👁️ 84K • 👍 327 • 💬 174 • ⏱️ 2:50 • 2d ago
+
+---
+
+**[The Future is Here! Dancing Robots Take Over America&#39;s Got Talent 2026!](https://www.youtube.com/watch?v=RN16_iba1M0)**
+
+Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their cool and futuristic robot dance on America's ...
+
+📺 Got Talent Global
+
+👁️ 70K • 👍 696 • 💬 24 • ⏱️ 5:08 • 6d ago
+
+---
+
+**[These Robots Are Absolutely Terrible #robotics #fail #shorts](https://www.youtube.com/watch?v=EY-vNM9vWoE)**
+
+Why robots still struggle to replace humans. Watch five hilarious examples of modern robotics failing at simple tasks.
+
+📺 小璐在日摸魚記
+
+👁️ 6K • 👍 15 • ⏱️ 0:21 • 20h ago
+
+---
+
+**[China&#39;s Most Realistic Humanoid Robots Just Unveiled 🤖 AI Robots That Look Human](https://www.youtube.com/watch?v=Gw3fSaMhD0E)**
+
+China has unveiled a new generation of ultra-realistic humanoid robots that are astonishing the world with their lifelike ...
+
+📺 Techie Sapien
+
+👁️ 8K • 💬 3 • ⏱️ 0:09 • 10h ago
 
 ---
 
@@ -272,13 +264,21 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 ---
 
-**[I Tried a $4,500 Robotic Exoskeleton and It Gave Me Super Ankles](https://www.youtube.com/watch?v=CmlWLT2K8a0)**
+**[When you realize your toy needs a massive upgrade…#robot #robotics #smartrobot #ruko](https://www.youtube.com/watch?v=PJV-axmJDNo)**
 
-The future of wearable tech isn't just on your wrist—it's on your legs. In this hands-on look, we test the Dephy Sidekick, ...
+📺 Smarttoy Ruko
 
-📺 CNET
+👁️ 38K • 👍 160 • ⏱️ 0:19 • 11h ago
 
-👁️ 12K • 👍 332 • 💬 31 • ⏱️ 3:44 • 2d ago
+---
+
+**[NEW Fang Bot &amp; Mecca ‘Sirocco’ Titan | PLUS New UE Raven - INSANE Test Server | War Robots](https://www.youtube.com/watch?v=Q-0rwROOK7Y)**
+
+3 New robots just arrived. This might be the most New equipment I've ever seen on a test server. Not to mention this whole week ...
+
+📺 PREDATOR WR
+
+👁️ 8K • 👍 386 • 💬 130 • ⏱️ 15:05 • 8h ago
 
 ---
 
