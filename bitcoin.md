@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T16:02:30.579678+00:00'
+updated: '2026-07-04T17:34:16.875423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 16:02 UTC  
+**Last Updated:** July 04, 2026 at 17:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,050.00
+### $63,112.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +5.7%  
-**30d:** +3.0%  
-**90d:** -8.7%  
-**1y:** -41.9%  
+**24h:** +1.5%  
+**7d:** +6.1%  
+**30d:** +3.3%  
+**90d:** -8.3%  
+**1y:** -41.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Bitcoin! Bitcoin! Bitcoin!
 
-19h ago
+20h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Hi everyone, I was unfortunately hacked on June 6th, 2026, at 01:01 AM. The attacker managed to drain my funds in three separate transactions sent to the exact same hacker address: bc1qvwklr8mutvrk49zvwpvuvtxx9jdzc2gg0l0jjw Here are the TXIDs and amounts: 193,885 sats -> ⁠ee778ce0031ffd1c41bfc99e22a8b2a7d643f684a6d4ac498e8221dc4c65a10a⁠ 69,890 sats -> ⁠776b0caa9fd34dbaecdbd2f76e1f8f544afbc3b1d9fad862491afb8ee2e88000⁠ 3,152,496 sats -> ⁠20656c02472ae54795cb08219d83125138c887c1f1c575c399c424aae35d520a ⁠ I have never shared my seed phrase with anyone. The only vector I can think of is a clipboard leak. A while ago, I copied my seed phrase from Cake Wallet to test Blue Wallet on my iPhone. I suspect I forgot to clear my clipboard, and a malicious website or app read it while I was browsing. Note: I have already secured my remaining/future funds by creating a brand new wallet on a clean setup and moving everything there. I know Bitcoin transactions are irreversible and these funds are gone. However, I want to know if these funds have eventually landed on a centralized exchange (KYC'd wallet) where a police report could potentially freeze them. Could anyone with blockchain forensics experience help me track where the hacker moved the funds after hitting that address? How can I check if they reached an exchange? Thanks for your help.
 
-15h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Ir
 
 For those of you who’ve been in Bitcoin for a while… What was the moment Bitcoin stopped being “just another investment” and became a long-term conviction? Was it a specific event, a book, a conversation, surviving a bear market, learning how the network works, or something else entirely? Looking back, was there a point where your mindset shifted from trying to make money with Bitcoin to simply wanting to own Bitcoin for the long run? I’d love to hear what changed your perspective.
 
-17h ago
+18h ago
 
 ---
 
@@ -147,13 +147,21 @@ but someone might be faster than me
 
 Bitcoin is money. If you know you know.
 
-11h ago
+13h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin’s next parabolic run is coming. But there's a $1 trillion catch](https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital)**
+
+This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
+
+CoinDesk • 7h ago
+
+---
 
 **[Dave Portnoy reveals he is losing millions in brutal Bitcoin crash](https://www.foxbusiness.com/media/dave-portnoy-reveals-he-losing-millions-brutal-bitcoin-crash)**
 
@@ -163,27 +171,19 @@ Fox Business • 1d ago
 
 ---
 
-**[Bitcoin’s next parabolic run is coming. But there's a $1 trillion catch](https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital)**
+**[Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility](https://finance.yahoo.com/markets/crypto/articles/bitcoin-53k-exchange-deposits-jump-165708195.html)**
 
-This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
+Bitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin ETFs Saw Outflows of $2 Billion in 2 Weeks. Should You Sell?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-saw-outflows-2-141700040.html)**
-
-This downtrend is an opportunity for those who are patient.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 37m ago
 
 ---
 
-**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
+**[Crypto News: Pepeto Presale Passes $10.38 Million While Bitcoin Price Prediction Drops to $82,000 and Ethereum Jumps on Warsh Signal](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-10-38-million-while-bitcoin-price-prediction-drops-to-82-000-and-ethereum-jumps-on-warsh-signal-1036297960)**
 
-Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
+DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
 
-The Block • 22h ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -191,15 +191,7 @@ The Block • 22h ago
 
 Bitcoin may be down, but it isn't out.
 
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin's summer swoon creates unique trade in Strategy](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)**
-
-Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.
-
-CNBC • 2d ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -207,15 +199,23 @@ CNBC • 2d ago
 
 Bitcoin (BTC) is completing a “perfectly fractal” reversal pattern that a well-known analyst hopes could end the bear market.Key points:John Bollinger hints BTC price "W" reversal could break bearsIn X posts on Friday, John Bollinger, creator of the Bollinger Bands volatility indicator, eyed a “W”…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
-**[‘Exactly What Warsh Is Afraid Of’—Bitcoin’s Fed Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/07/02/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
+**[CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead](https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility)**
 
-The U.S. economy has delivered bad news for the bitcoin price and crypto market...
+Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, "a rare extreme" seen only four other times this year, CryptoQuant said.
 
-Forbes • 2d ago
+The Block • 23h ago
+
+---
+
+**[Bitcoin's summer swoon creates unique trade in Strategy](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)**
+
+Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.
+
+CNBC • 3d ago
 
 ---
 
@@ -227,11 +227,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-draw-222m-snapping-114634374.html)**
+**[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
 
-Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
-
-Yahoo Finance • 1d ago
+Investing.com • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 **[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
 
-⬆️ 6 • 💬 6 • 21h ago
+⬆️ 6 • 💬 6 • 22h ago
 
 ---
 
@@ -317,7 +315,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 11K • 👍 1K • 💬 41 • ⏱️ 55:12 • 3h ago
+👁️ 11K • 👍 1K • 💬 41 • ⏱️ 55:12 • 4h ago
 
 ---
 
@@ -357,7 +355,7 @@ JP MORGAN'S NEW ATTACK ON MICROSTRATEGY WAS JUST EXPOSED!
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 406 • 💬 110 • ⏱️ 1:23:56 • 21h ago
+👁️ 8K • 👍 406 • 💬 110 • ⏱️ 1:23:56 • 23h ago
 
 ---
 
@@ -367,7 +365,7 @@ Zen Master JP Narrates & Live Trades Bitcoin's Wild Price Action! We'll see if t
 
 📺 Sin City Crypto
 
-👁️ 1K • 👍 135 • 1h ago
+👁️ 1K • 👍 135 • 3h ago
 
 ---
 
@@ -407,7 +405,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 735 • 💬 49 • ⏱️ 9:16 • 11h ago
+👁️ 9K • 👍 735 • 💬 49 • ⏱️ 9:16 • 12h ago
 
 ---
 

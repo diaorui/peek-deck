@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T16:02:30.585500+00:00'
+updated: '2026-07-04T17:34:16.881394+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 16:02 UTC  
+**Last Updated:** July 04, 2026 at 17:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,787.34
+### $1,783.17
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +13.7%  
-**30d:** +12.9%  
-**90d:** -15.2%  
-**1y:** -29.0%  
+**24h:** +2.9%  
+**7d:** +13.9%  
+**30d:** +13.1%  
+**90d:** -15.0%  
+**1y:** -28.9%  
 
 ---
 
@@ -68,9 +68,57 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Today I got my 10th Ether 🎉](https://www.reddit.com/r/ethereum/comments/1ulmtsh/today_i_got_my_10th_ether/)**
+**[Daily General Discussion July 04, 2026](https://www.reddit.com/r/ethereum/comments/1un01g8/daily_general_discussion_july_04_2026/)**
 
-Just wanted to say thanks to the bear market 🙏 arigato
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+12h ago
+
+---
+
+**[#151 - Daily Doots Summer Fun with JT](https://www.reddit.com/r/ethereum/comments/1umlma7/151_daily_doots_summer_fun_with_jt/)**
+
+Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once again for their awesome work on these Doots! https://old.reddit.com/r/ethereum/comments/1um4zi1/daily_general_discussion_july_03_2026/ovb4kp7/
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=yAzCzBggu3Y) • 23h ago
+
+---
+
+**[What is the biggest thing preventing Ethereum from becoming an everyday payment network?](https://www.reddit.com/r/ethereum/comments/1umbzep/what_is_the_biggest_thing_preventing_ethereum/)**
+
+Ethereum has fast L2s, stablecoins and a much better user experience than it did a few years ago, yet most people still don't use it for everyday payments. What's the biggest thing holding it back? I'm curious to hear what everyone thinks. Thanks
+
+1d ago
+
+---
+
+**[Daily General Discussion July 03, 2026](https://www.reddit.com/r/ethereum/comments/1um4zi1/daily_general_discussion_july_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[A job for Ethereum: StubHub sold ‘ghost tickets’ for World Cup months before real ones were issued](https://www.reddit.com/r/ethereum/comments/1um8j2r/a_job_for_ethereum_stubhub_sold_ghost_tickets_for/)**
+
+One day the world will wake up and see Ethereum as fraud prevention instead of fraud. When I read this article about World Cup fans being sold $10,000 tickets that don't exist, I immediately realized this would never happen on Ethereum. Tickets could be NFTs locked into smart contracts. It's such a perfect fit. Hope it happens some day!
+
+1d ago
+
+---
+
+**[Ethereal news weekly #30 | Ethereum basics for governments & institutions, Ethereum Institutional launched, Robinhood Chain live](https://www.reddit.com/r/ethereum/comments/1umdcsc/ethereal_news_weekly_30_ethereum_basics_for/)**
+
+Ethereum basics for governments & institutions, Ethereum Institutional launched, Robinhood Chain live
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-30/) • 1d ago
+
+---
+
+**[Ethereum has just closed its strongest quarter in history.](https://www.reddit.com/r/ethereum/comments/1ultbwg/ethereum_has_just_closed_its_strongest_quarter_in/)**
+
+During Q2 2026, the network processed 203,851,942 transactions, setting a new all-time high for quarterly onchain activity. This milestone is significant because transaction count remains one of the most reliable indicators of real network utilization. What's particularly noteworthy is that this record comes more than a decade after Ethereum launched. As blockchain ecosystems mature, sustaining growth becomes increasingly difficult. Yet Ethereum continues to expand its activity despite an already massive user base and one of the largest application ecosystems in crypto. The result also reflects years of continuous protocol improvements. Upgrades focused on scalability and data availability, combined with the rapid growth of Layer 2 networks, have allowed Ethereum to support significantly higher throughput while maintaining its role as the ecosystem's settlement layer. A huge thank you to the developers, validators, builders, researchers, and millions of users who continue contributing to the network every day. Milestones like this are only possible because of the strength of the broader Ethereum community. Full post: https://x.com/everstake_pool/status/2072654585022361799
 
 1d ago
 
@@ -84,61 +132,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://www.reddit.com/r/ethereum/comments/1ul30a2/ethereum_for_governments_and_institutions_why/)**
+**[Bitcoin Suisse Moves Its Ethereum Staking to Obol Distributed Validators](https://www.reddit.com/r/ethereum/comments/1ulnq2u/bitcoin_suisse_moves_its_ethereum_staking_to_obol/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 2d ago
-
----
-
-**[Has anyone dealt with verifying the source of funds before depositing crypto to Bitpanda?](https://www.reddit.com/r/ethereum/comments/1ulcfol/has_anyone_dealt_with_verifying_the_source_of/)**
+Bitcoin Suisse has been active in the institutional crypto industry since its early stage and one of the oldest and largest crypto financial service providers, established in Switzerland in 2013.Bitcoin Suisse facilitated the original Ethereum Foundation crowd sale in 2014, introduced a Swiss-Franc-backed stablecoin (XCHF) in 2018, launched one of the world's first Ethereum staking services during the beacon chain launch in 2020, and brought enterprise-grade liquid staking to the Swiss market via Liquid Collective in 2023. This migration to Obol Distributed Validators represents the next evolution of Bitcoin Suisse's staking infrastructure and reflects the firm's view of where institutional Ethereum staking is heading. Full write up: https://blog.obol.org/bitcoin-suisse-goes-all-in/
 
 2d ago
 
 ---
 
-**[Argot Roadmap Update 2026 (2/2)](https://www.reddit.com/r/ethereum/comments/1ul31c7/argot_roadmap_update_2026_22/)**
+**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://www.reddit.com/r/ethereum/comments/1ul30a2/ethereum_for_governments_and_institutions_why/)**
 
-This blog post recaps the Argot Collective’s work from the first half of 2026 and provides a detailed outline of priorities and upcoming milestones for the second half of 2026.
-
-🔗 [Argot Collective](https://www.argot.org/blog/2026-07-01-argot-roadmap-update-2026-2) • 2d ago
-
----
-
-**[Daily General Discussion July 01, 2026](https://www.reddit.com/r/ethereum/comments/1ukc641/daily_general_discussion_july_01_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Ethereum as Protocol Polity: The Case for Founding-Period Funding](https://www.reddit.com/r/ethereum/comments/1ukocj7/ethereum_as_protocol_polity_the_case_for/)**
-
-https://preview.redd.it/pspmpam0wmah1.png?width=5235&format=png&auto=webp&s=78293ee07018eb6a236614fb83cd716bf578b572 My latest article on Ethereum institutions and their political economy. Comparing Ethereum to Linux or ICANN is a category error. It's a polity: monetary sovereignty, shared state, jurisdictional independence, internal capital markets, etc. Polities need founding-period investment. Read here: Paragraph: https://paragraph.com/@trent-4/ethereum-as-protocol-polity Twitter: https://x.com/trent_vanepps/status/2072284645283029016 Summary: Ethereum has monetary sovereignty, shared state, network sovereignty, and internal capital markets: structural characteristics that make it a polity, not a digital utility. OSS/Linux/ICANN comparisons misdirect our funding intuitions; polity-style norms are the right frame for how we provision shared resources. Singapore grew GDP per capita 176x over 60 years on the back of aggressive founding-period infrastructure investment (8-12% of GDP in the late 1960s, vs. the 2-5% typical of developed nations). Ethereum's founding period is now: core architecture is still being shaped, compounding returns on investment are highest early, and talent loss is hardest to recover from before bench strength is established. Norms established early persist; the window to set precedents for neutral, scalable, founding-period funding is open most broadly in the years we are in. Other articles in the series: Ethereum Commoditizes Institutional Capabilities Paragraph: https://paragraph.com/@trent-4/ethereum-commoditizes-institutional-capabilities Twitter/X: https://x.com/trent_vanepps/status/2060423297787924708 Succession After Subtraction Paragraph: https://paragraph.com/@trent-4/succession-after-subtraction Twitter/X: https://x.com/trent_vanepps/status/2067593124398989551
-
-3d ago
-
----
-
-**[Dev Tools Guild June 2026 update | Argot Collective five year funding, Ethereum Foundation new structure, Ethlabs launched](https://www.reddit.com/r/ethereum/comments/1ul1r0t/dev_tools_guild_june_2026_update_argot_collective/)**
-
-**TL;DR**: Argot Collective five year funding, Ethereum Foundation new structure, Ethlabs launched.
-
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-june-2026-update) • 2d ago
-
----
-
-**[Explore the chain by execution shape](https://www.reddit.com/r/ethereum/comments/1ukm43h/explore_the_chain_by_execution_shape/)**
-
-3d ago
-
----
-
-**[PoolTogether is looking for more community members](https://www.reddit.com/r/ethereum/comments/1ujzzz6/pooltogether_is_looking_for_more_community_members/)**
-
-Hello, r/ethereum! I'm a member of the PoolTogether community. PoolTogether is a DeFi protocol that's been around for a long time; Ethereum oldheads might remember the name from as far back as 2019. The protocol works by users depositing their yield-bearing tokens, then their pool of yield being randomly awarded as prizes among the depositors. It incentivizes responsible saving by giving it some of the excitement of gambling, but without any of the degen risktaking--users never lose what they deposited and can withdraw at any time. Right now we're gearing up to have a giveaway of free chances to win on Base, where the total prize pool is currently 3.9 WETH. All you have to do to be eligible is join our Discord server and subscribe to our notification bot, Tooly. The winner of this giveaway will be selected this Thursday, July 2nd.
-
-3d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions) • 2d ago
 
 ---
 
@@ -162,19 +166,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
+**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html)**
 
-Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
+Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://www.tradingview.com/news/cryptonews:c1b1c0ded094b:0-ethereum-news-grayscale-s-ethereum-staking-etf-just-had-its-cfo-resign/)**
-
-Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
-
-TradingView • 1d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -182,13 +178,29 @@ TradingView • 1d ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 2h ago
+Coinpedia • 4h ago
+
+---
+
+**[Ethereum Foundation Guide Targets Government And Institutional Blockchain Use](https://www.tradingview.com/news/newsbtc:d91a07954094b:0-ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/)**
+
+The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
+
+TradingView • 1d ago
 
 ---
 
 **[Ethereum Name Service governance faces scrutiny over founder accountability](https://cryptobriefing.com/ens-governance-founder-accountability-scrutiny/)**
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
+
+---
+
+**[Crypto News: Pepeto Presale Passes $10.38 Million While Bitcoin Price Prediction Drops to $82,000 and Ethereum Jumps on Warsh Signal](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-10-38-million-while-bitcoin-price-prediction-drops-to-82-000-and-ethereum-jumps-on-warsh-signal-1036297960)**
+
+DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -200,14 +212,6 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
-
-The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
-
-CoinDesk • 2d ago
-
----
-
 **[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
 
 /PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
@@ -216,11 +220,11 @@ PR Newswire • 3d ago
 
 ---
 
-**[Ethereum Withdrawals on Binance Hit 3-Year High](https://u.today/ethereum-withdrawals-on-binance-hit-3-year-high)**
+**[EthLabs launches as Ethereum undergoes its biggest leadership transition in years](https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years)**
 
-Binance has just recorded the highest level of Ethereum withdrawals seen since 2023, flashing a crucial buy signal as ETH eyes a potential recovery.
+In this week's edition of The Protocol Newsletter, we’re diving into the creation of EthLabs, and why it was launched during a period of transition for the ecosystem.
 
-U.Today • 1d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -234,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 606 • 💬 326 • ⏱️ 10:11 • 16h ago
+👁️ 8K • 👍 606 • 💬 326 • ⏱️ 10:11 • 18h ago
 
 ---
 
@@ -254,7 +258,7 @@ Just when you thought it was safe to go back into the crypto pool... we get some
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 456 • 💬 265 • ⏱️ 31:47 • 6h ago
+👁️ 3K • 👍 456 • 💬 265 • ⏱️ 31:47 • 7h ago
 
 ---
 
@@ -274,7 +278,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 191 • 💬 75 • ⏱️ 16:24 • 23h ago
+👁️ 4K • 👍 191 • 💬 75 • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -294,7 +298,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 19K • 👍 232 • 💬 63 • ⏱️ 0:58 • 23h ago
+👁️ 19K • 👍 232 • 💬 63 • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -304,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 189 • 👍 13 • ⏱️ 5:09 • 7h ago
+👁️ 189 • 👍 13 • ⏱️ 5:09 • 8h ago
 
 ---
 
@@ -324,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 114 • ⏱️ 8:11 • 13h ago
+👁️ 2K • 👍 114 • ⏱️ 8:11 • 14h ago
 
 ---
 

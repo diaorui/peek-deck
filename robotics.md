@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T16:02:30.589080+00:00'
+updated: '2026-07-04T17:34:16.884605+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 16:02 UTC  
+**Last Updated:** July 04, 2026 at 17:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-9h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 21h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 22h ago
 
 ---
 
@@ -112,6 +112,12 @@ From a live stream yesterday where I let people remote control a pair of robot a
 
 ## Google News: "robotics"
 
+**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
+
+Reuters • 2d ago
+
+---
+
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
 The Register • 2d ago
@@ -120,13 +126,7 @@ The Register • 2d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 6h ago
-
----
-
-**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
-
-Reuters • 2d ago
+WSJ • 8h ago
 
 ---
 
@@ -148,7 +148,7 @@ CNBC • 2d ago
 
 Video. Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.
 
-Euronews • 1d ago
+Euronews.com • 1d ago
 
 ---
 
@@ -168,11 +168,11 @@ TechRadar • 1d ago
 
 ---
 
-**[Top 10 robotics developments of June 2026](https://www.therobotreport.com/top-10-robotic-stories-june-2026/)**
+**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
 
-Humanoid robots made many headlines in June 2026, whether it be for companies going public, new deployments, or hitting production milestones.
+Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
 
-The Robot Report • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -194,7 +194,7 @@ Today, Vlad and Michael are doing an EPIC REAL ROBOTS FIGHT Challenge! They have
 
 📺 Vlad
 
-👁️ 264K • 👍 4K • 💬 348 • ⏱️ 23:59 • 5h ago
+👁️ 264K • 👍 4K • 💬 348 • ⏱️ 23:59 • 6h ago
 
 ---
 
@@ -214,7 +214,7 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 5K • 👍 14 • ⏱️ 0:21 • 14h ago
+👁️ 5K • 👍 14 • ⏱️ 0:21 • 16h ago
 
 ---
 
@@ -224,7 +224,7 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 DeathTempler
 
-👁️ 18K • 👍 3K • 💬 185 • ⏱️ 0:29 • 22h ago
+👁️ 18K • 👍 3K • 💬 185 • ⏱️ 0:29 • 23h ago
 
 ---
 
@@ -232,7 +232,7 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 Smarttoy Ruko
 
-👁️ 22K • 👍 128 • ⏱️ 0:19 • 6h ago
+👁️ 22K • 👍 128 • ⏱️ 0:19 • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ Robot or human? This incredible actor has mastered robotic movements so perfectl
 
 📺 Natural Health
 
-👁️ 7K • 👍 46 • 💬 1 • ⏱️ 0:25 • 13h ago
+👁️ 7K • 👍 46 • 💬 1 • ⏱️ 0:25 • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ Advanced Soft Pneumatic Gripping Innovation Handling fragile agricultural produc
 
 📺 Peace Working Shorts
 
-👁️ 193K • 👍 448 • 💬 5 • ⏱️ 0:06 • 11h ago
+👁️ 193K • 👍 448 • 💬 5 • ⏱️ 0:06 • 13h ago
 
 ---
 
