@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T09:36:06.184362+00:00'
+updated: '2026-07-04T11:27:41.228280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 09:36 UTC  
+**Last Updated:** July 04, 2026 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1
 
-22h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 These are gripper jaws we make for our open source grippers but the STEP files can be modified for any type of gripper or robot: https://github.com/Source-Robotics/MSG-compliant-AI-stepper-gripper Enjoy!
 
-14h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-3h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Well, every post i see in this sub is about how robot almost killed someone.. So
 
 I recently made a major update to my Control and Robotics learning repository and decided to keep the course materials freely accessible. The repository now includes structured course folders with standalone HTML lecture pages, mathematical explanations, diagrams, and companion code examples for many lessons. The topics cover areas such as: Linear control Modern control System dynamics Robot kinematics and dynamics Robot control Advanced robotics Autonomous mobile robots For some lessons, the code examples are provided in different languages/environments such as Python, C++, Java, MATLAB, and Wolfram/Mathematica, so the material can be studied from both the theory and implementation side. Repo: https://github.com/mohammadijoo/Control_Robotics_Lab I’m sharing it here in case it is useful for students, instructors, or self-learners working through control systems and robotics topics. I would also appreciate feedback, especially if you notice mistakes in equations, explanations, code examples, structure, or missing topics that would make the material more useful.
 
-18h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ I recently made a major update to my Control and Robotics learning repository an
 
 Humanoid robots and physical AI were major themes at Automate 2026. The show featured more than 50 humanoid and quadruped systems, a significant increase from last year. Much of the discussion centered on commercialization, safety, deployment, dexterity, data collection, and training rather than future predictions. Several companies also showcased hybrid mobile manipulation platforms that combine AMR mobility with dual-arm operation, including new systems from Locus, Cobot, and Kinisi. On the physical AI side, Apptronik introduced Apollo 2 and its new Robot Park training facility, Generalist demonstrated its GEN-1 dexterity model, and FieldAI announced more than $100 million in revenue and customer contracts.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 19h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 21h ago
 
 ---
 
@@ -90,13 +90,13 @@ Humanoid robots and physical AI were major themes at Automate 2026. The show fea
 
 Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
 
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 14h ago
+🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 16h ago
 
 ---
 
 **[l test the 3D depth camera MRP P008G](https://www.reddit.com/r/robotics/comments/1umex1y/l_test_the_3d_depth_camera_mrp_p008g/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -140,7 +140,13 @@ New Atlas • 1d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 6m ago
+WSJ • 1h ago
+
+---
+
+**[Special educational exhibition featuring robots opens in Beijing](https://www.globaltimes.cn/galleries/6254.html)**
+
+Global Times • 4h ago
 
 ---
 
@@ -148,7 +154,13 @@ WSJ • 6m ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 18h ago
+IEEE Spectrum • 20h ago
+
+---
+
+**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
+
+Tech Xplore • 17h ago
 
 ---
 
@@ -165,22 +177,6 @@ Ocean News & Technology • 1d ago
 The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
 
 Yahoo Finance • 1d ago
-
----
-
-**[Sense and Sensibility: How Multimodal Inputs Help Robotics Get a Grip](https://www.eetimes.com/grapevine/sense-and-sensibility-how-multimodal-inputs-help-robotics-get-a-grip/)**
-
-Robots can see and think, but without touch they’re clumsy. Hear how capacitive sensing gives humanoids grip, slip detection, and finesse.
-
-EE Times • 1d ago
-
----
-
-**[How foodservice giant Sodexo is embracing AI and robotics to reshape the kitchen](https://fortune.com/2026/07/01/foodservice-giant-sodexo-ai-robotics/)**
-
-Alice Guéhennec oversees an annual investment budget of around 500 million euros to support AI, robotics, and other technology initiatives.
-
-Fortune • 2d ago
 
 ---
 
@@ -244,7 +240,7 @@ ai #robot #usa UBTech just dropped a bombshell on the consumer robotics market w
 
 📺 OTOFOOTAGE
 
-👁️ 59K • 👍 290 • 💬 150 • ⏱️ 3:05 • 3d ago
+👁️ 59K • 👍 290 • 💬 150 • ⏱️ 3:05 • 4d ago
 
 ---
 
@@ -254,7 +250,7 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 3K • 👍 9 • ⏱️ 0:21 • 8h ago
+👁️ 3K • 👍 9 • ⏱️ 0:21 • 10h ago
 
 ---
 
@@ -264,7 +260,7 @@ Donations for Goober development: https://ko-fi.com/deathtempler BGM by @musiika
 
 📺 DeathTempler
 
-👁️ 16K • 👍 3K • 💬 170 • ⏱️ 0:29 • 15h ago
+👁️ 16K • 👍 3K • 💬 170 • ⏱️ 0:29 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T09:36:06.181473+00:00'
+updated: '2026-07-04T11:27:41.225427+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 09:36 UTC  
+**Last Updated:** July 04, 2026 at 11:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +11.9%  
-**30d:** +11.1%  
-**90d:** -16.5%  
-**1y:** -30.1%  
+**24h:** +1.2%  
+**7d:** +11.8%  
+**30d:** +11.0%  
+**90d:** -16.6%  
+**1y:** -30.2%  
 
 ---
 
@@ -162,11 +162,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Spike as Weak Jobs Data Dims Rate-Hike Odds: Analyst Says 'Markets Are Just Waking Up'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-spike-030216419.html)**
+**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html)**
 
-Cryptocurrencies gained ground on Thursday while major stock indexes closed at all-time highs, as softer-than-expected jobs data lowered expectations for a Federal Reserve rate hike. Cryptocurrency24-Hour Gains +/-Price (Recorded at 10:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.19%$61,460.31Ethereum (CRYPTO: ETH) +5.67%$1,708.41XRP (CRYPTO: XRP) +3.23%$1.09Solana (CRYPTO: SOL) +4.20%$81.33Dogecoin (CRYPTO: DOGE) +3.17%$0.07466 Crypto Market Rallies Bitcoin briefly broke $62,000 but failed to sustain th
+Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 12m ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1d ago
 
 Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -198,15 +198,15 @@ PR Newswire • 2d ago
 
 The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC and ETH rebound as bulls return, XRP targets breakout](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-and-eth-rebound-as-bulls-return-xrp-targets-breakout-202607030333)**
+**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery on Friday as improving risk sentiment and strengthening technical indicators support the broader cryptocurrency market.
+Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
 
-FXStreet • 1d ago
+FXStreet • 23h ago
 
 ---
 
@@ -218,11 +218,11 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Ethereum Withdrawals on Binance Hit 3-Year High](https://u.today/ethereum-withdrawals-on-binance-hit-3-year-high)**
+**[Ethereum Mini Trust Sees $18M Exit as Holders Test Their Nerves](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-sees-18m-exit-as-holders-test-their-nerves)**
 
-Binance has just recorded the highest level of Ethereum withdrawals seen since 2023, flashing a crucial buy signal as ETH eyes a potential recovery.
+Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
 
-U.Today • 22h ago
+TipRanks • 55m ago
 
 ---
 
@@ -236,7 +236,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 491 • 💬 258 • ⏱️ 10:11 • 10h ago
+👁️ 6K • 👍 491 • 💬 258 • ⏱️ 10:11 • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 279 • 💬 42 • ⏱️ 1:03:50 • 17h ago
+👁️ 5K • 👍 279 • 💬 42 • ⏱️ 1:03:50 • 19h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 146 • 💬 11 • ⏱️ 9:09 • 18h ago
+👁️ 3K • 👍 146 • 💬 11 • ⏱️ 9:09 • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 184 • 💬 40 • ⏱️ 16:24 • 17h ago
+👁️ 4K • 👍 184 • 💬 40 • ⏱️ 16:24 • 19h ago
 
 ---
 
@@ -286,7 +286,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 12K • 👍 158 • 💬 48 • ⏱️ 0:58 • 16h ago
+👁️ 12K • 👍 158 • 💬 48 • ⏱️ 0:58 • 18h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 927 • 👍 25 • 💬 5 • ⏱️ 4:41 • 23h ago
+👁️ 927 • 👍 25 • 💬 5 • ⏱️ 4:41 • 1d ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN SHORT SQUEEZE LOADING (Prepare Now)!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 289 • 💬 59 • ⏱️ 20:13 • 13h ago
+👁️ 6K • 👍 289 • 💬 59 • ⏱️ 20:13 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 960 • 👍 89 • ⏱️ 8:11 • 6h ago
+👁️ 960 • 👍 89 • ⏱️ 8:11 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ Brian from Santiment joined to review the crypto market metrics for Bitcoin, Eth
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 164 • 💬 26 • ⏱️ 26:00 • 21h ago
+👁️ 2K • 👍 164 • 💬 26 • ⏱️ 26:00 • 23h ago
 
 ---
 
