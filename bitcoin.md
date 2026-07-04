@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T19:14:45.649100+00:00'
+updated: '2026-07-04T20:29:22.949125+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 19:14 UTC  
+**Last Updated:** July 04, 2026 at 20:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.7%  
 **7d:** +6.1%  
-**30d:** +3.3%  
+**30d:** +3.4%  
 **90d:** -8.3%  
-**1y:** -41.7%  
+**1y:** -41.6%  
 
 ---
 
@@ -77,9 +77,45 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
+
+6h ago
+
+---
+
+**[The Bitcoin Steakburger](https://www.reddit.com/r/Bitcoin/comments/1une2a7/the_bitcoin_steakburger/)**
+
+Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
+
+3h ago
+
+---
+
+**[Told little bro to buy bitcoin at $120k](https://www.reddit.com/r/Bitcoin/comments/1unhk2x/told_little_bro_to_buy_bitcoin_at_120k/)**
+
+I think he's gonna make it.
+
+1h ago
+
+---
+
+**[Let’s go ! BTC to Moon](https://www.reddit.com/r/Bitcoin/comments/1un64i2/lets_go_btc_to_moon/)**
+
+9h ago
+
+---
+
 **[My turn to post this here! ┻━┻ ︵╰(°□°)╯︵ ┻━┻](https://www.reddit.com/r/Bitcoin/comments/1umqgg9/my_turn_to_post_this_here/)**
 
-21h ago
+23h ago
+
+---
+
+**[Whole coiner](https://www.reddit.com/r/Bitcoin/comments/1un3gcf/whole_coiner/)**
+
+Is it me or is the most compelling, motivating, and greatest achievement of my life to get to one Bitcoin right now? All I want is one, who knows from there, but in my mind I’ll be like holy shit I did it ✅
+
+12h ago
 
 ---
 
@@ -89,17 +125,19 @@ Rank #1
 
 ---
 
+**[Do i really need a cold wallet?](https://www.reddit.com/r/Bitcoin/comments/1unaulb/do_i_really_need_a_cold_wallet/)**
+
+I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
+
+5h ago
+
+---
+
 **[Im going to yolo 5k into bitcoin today. My friend says buy ETF instead but I don’t listen to him.](https://www.reddit.com/r/Bitcoin/comments/1umpizk/im_going_to_yolo_5k_into_bitcoin_today_my_friend/)**
 
 Bitcoin! Bitcoin! Bitcoin!
 
-22h ago
-
----
-
-**[Morgan Stanley Recommends up to 4% Bitcoin Allocation, Says Putting BTC on Balance Sheet ‘Not Totally out of the Question’](https://www.reddit.com/r/Bitcoin/comments/1umhxgn/morgan_stanley_recommends_up_to_4_bitcoin/)**
-
-🔗 [capitalaidaily.com](https://www.capitalaidaily.com/morgan-stanley-recommends-up-to-4-bitcoin-allocation-says-putting-btc-on-balance-sheet-not-totally-out-of-the-question/) • 1d ago
+23h ago
 
 ---
 
@@ -107,47 +145,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Hi everyone, I was unfortunately hacked on June 6th, 2026, at 01:01 AM. The attacker managed to drain my funds in three separate transactions sent to the exact same hacker address: bc1qvwklr8mutvrk49zvwpvuvtxx9jdzc2gg0l0jjw Here are the TXIDs and amounts: 193,885 sats -> ⁠ee778ce0031ffd1c41bfc99e22a8b2a7d643f684a6d4ac498e8221dc4c65a10a⁠ 69,890 sats -> ⁠776b0caa9fd34dbaecdbd2f76e1f8f544afbc3b1d9fad862491afb8ee2e88000⁠ 3,152,496 sats -> ⁠20656c02472ae54795cb08219d83125138c887c1f1c575c399c424aae35d520a ⁠ I have never shared my seed phrase with anyone. The only vector I can think of is a clipboard leak. A while ago, I copied my seed phrase from Cake Wallet to test Blue Wallet on my iPhone. I suspect I forgot to clear my clipboard, and a malicious website or app read it while I was browsing. Note: I have already secured my remaining/future funds by creating a brand new wallet on a clean setup and moving everything there. I know Bitcoin transactions are irreversible and these funds are gone. However, I want to know if these funds have eventually landed on a centralized exchange (KYC'd wallet) where a police report could potentially freeze them. Could anyone with blockchain forensics experience help me track where the hacker moved the funds after hitting that address? How can I check if they reached an exchange? Thanks for your help.
 
-18h ago
-
----
-
-**[Ireland has now clawed back 1,500 BTC from the dealer who famously lost his keys, and 9 of his 12 wallets are still untouched](https://www.reddit.com/r/Bitcoin/comments/1umb6r8/ireland_has_now_clawed_back_1500_btc_from_the/)**
-
-Quick recap for anyone unfamiliar with this case: Clifton Collins is a former Irish beekeeper who bought bitcoin in late 2011/early 2012 (when it traded for a few dollars) using proceeds from growing and trafficking cannabis. He spread roughly 6,000 BTC across 12 wallets. When he went to prison in 2017, the rented property in County Galway where he'd stored his private keys was cleared out, and the keys were reportedly lost. For years, this was told as one of the great "lost bitcoin" stories. Not anymore. Yesterday, Ireland's Criminal Assets Bureau (CAB) announced it recovered a third batch of 500 BTC (~$31M) from the stash, working with Europol's European Cybercrime Centre. Europol says it provided technical expertise and decryption resources for the operation. This follows earlier recoveries of 500 BTC in March and another 500 BTC in May. The running tally: Recovered so far: 1,500 BTC (~$92M at current prices) Still dormant: ~4,500 BTC (~$275M+) across what appears to be 9 of the original 12 wallets, per Arkham's onchain tagging Neither CAB nor Europol has explained how they're gaining access, whether physical key material was found or something else. The "decryption resources" phrasing is doing a lot of work here. A few things I find interesting from a legal standpoint: These coins are being seized as proceeds of crime, meaning the Irish state will likely liquidate them. Collins reportedly accepted years ago that the coins were lost. The steady 500-BTC cadence (March, May, July) suggests they're working through the wallets methodically rather than having recovered a master seed all at once. It's a rare case where "lost forever" coins re-entered circulation, a small but real dent in the assumed lost-supply figure. Curious what people here think: does the phased recovery pattern suggest brute-forcing individual wallets, recovered backups, or something like flawed key generation from a 2011-era wallet client?
-
-1d ago
-
----
-
-**[What was the moment Bitcoin went from “an investment” to “a long-term conviction” for you?](https://www.reddit.com/r/Bitcoin/comments/1umsnxl/what_was_the_moment_bitcoin_went_from_an/)**
-
-For those of you who’ve been in Bitcoin for a while… What was the moment Bitcoin stopped being “just another investment” and became a long-term conviction? Was it a specific event, a book, a conversation, surviving a bear market, learning how the network works, or something else entirely? Looking back, was there a point where your mindset shifted from trying to make money with Bitcoin to simply wanting to own Bitcoin for the long run? I’d love to hear what changed your perspective.
-
 20h ago
-
----
-
-**[If bitcoin is dead, i wll have 18 mill bitcoin](https://www.reddit.com/r/Bitcoin/comments/1um2404/if_bitcoin_is_dead_i_wll_have_18_mill_bitcoin/)**
-
-but someone might be faster than me
-
-1d ago
-
----
-
-**[📊 LATEST:](https://www.reddit.com/r/Bitcoin/comments/1uma282/latest/)**
-
-📊 LATEST: Glassnode's Chris Beamish says 10.83M BTC is now underwater, meaning more Bitcoin is being held at a loss than in profit for the first time during this drawdown.
-
-1d ago
-
----
-
-**[I rather have bitcoins than money](https://www.reddit.com/r/Bitcoin/comments/1umyyn2/i_rather_have_bitcoins_than_money/)**
-
-Bitcoin is money. If you know you know.
-
-15h ago
 
 ---
 
@@ -155,11 +153,11 @@ Bitcoin is money. If you know you know.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s next parabolic run is coming. But there's a $1 trillion catch](https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital)**
+**[A plan to freeze the creator's Bitcoin sparks fierce debate over crypto rules](https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows)**
 
-This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.
+Industry leaders warn that locking up Satoshi Nakamoto's wallet crosses a dangerous line and goes against the foundational ethos of digital assets.
 
-CoinDesk • 8h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -171,43 +169,19 @@ Fox Business • 1d ago
 
 ---
 
-**[Bitcoin Won’t Enter a New Bull Market Until These Three Things Change, Says HTX Research](https://finance.yahoo.com/markets/crypto/articles/bitcoin-won-t-enter-bull-172715217.html)**
+**[DOGE Ends, Bitcoin Begins? Musk and Saylor’s July 4 Posts Fuel Speculation](https://finance.yahoo.com/markets/crypto/articles/doge-ends-bitcoin-begins-musk-185323957.html)**
 
-HTX Research says Bitcoin's next bull market depends on three factors. The firm argues Bitcoin now trades as a global liquidity asset. The report comes ...
+DOGE ends July 4. Elon Musk and Saylor's posts fuel speculation that Bitcoin now carries the reform narrative.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
+**[Bitcoin Crashed 20% Over the Last 30 Days. Here's What History Says Comes Next.](https://www.fool.com/investing/2026/07/04/bitcoin-crashed-20-over-the-last-30-days-heres-wha/)**
 
-Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
+Bitcoin may be down, but it isn't out.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, ether traders aren't fully buying the bounce, options markets show: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show)**
-
-The day ahead in crypto: July 3 2026
-
-CoinDesk • 1d ago
-
----
-
-**[BTC price news: Bitcoin retakes $63,000, reversing end-June losses](https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses)**
-
-The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
-
-CoinDesk • 1h ago
-
----
-
-**[DOGE Ends, Bitcoin Begins? Musk and Saylor’s July 4 Posts Fuel Speculation](https://finance.yahoo.com/markets/crypto/articles/doge-ends-bitcoin-begins-musk-185323957.html)**
-
-DOGE ends July 4. Elon Musk and Saylor's posts fuel speculation that Bitcoin now carries the reform narrative.
-
-Yahoo Finance • 21m ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -219,19 +193,41 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin's summer swoon creates unique trade in Strategy](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)**
+**[Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction](https://www.tradingview.com/news/cointelegraph:a59f93473094b:0-tim-draper-denies-moving-bitcoin-reiterates-250-000-btc-prediction/)**
 
-Outright shorting bitcoin or high-beta crypto equities after a steep decline carries immense tail risk.
+Billionaire investor and longtime Bitcoin bull Tim Draper has denied moving his Bitcoin after blockchain analysts linked him to a large BTC transfer to Coinbase Prime.“Haven’t touched my BTC,” Draper told Cointelegraph on Friday, adding that he still expects Bitcoin to reach $250,000 within one yea…
 
-CNBC • 3d ago
+TradingView • 11h ago
 
 ---
 
-**[Is Bitcoin a Buy After Its Recent Selloff?](https://www.fool.com/investing/2026/07/04/is-bitcoin-a-buy-after-its-recent-selloff/)**
+**[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
 
-Investors have seen Bitcoin do this before, only for the cryptocurrency to storm back. Is this time different?
+Investing.com • 11h ago
 
-The Motley Fool • 9h ago
+---
+
+**[Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion](https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion)**
+
+U.S. institutional demand had its worst month ever in June. Large holders absorbed the selling, marking a divergence that has shown up near past cycle bottoms.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-draw-222m-snapping-114634374.html)**
+
+Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Fundamental case for bitcoin has never been stronger: Miller Value Partners' Miller](https://www.cnbc.com/video/2026/07/02/fundamental-case-for-bitcoin-has-never-been-stronger-miller-value-partners-miller.html)**
+
+CNBC's Scott Wapner discusses where bitcoin may be headed from here with Bill Miller IV of Miller Value Partners.
+
+CNBC • 2d ago
 
 ---
 
@@ -327,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 29K • 👍 2K • 💬 67 • ⏱️ 55:12 • 6h ago
+👁️ 29K • 👍 2K • 💬 67 • ⏱️ 55:12 • 7h ago
 
 ---
 
@@ -337,7 +333,7 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 48K • 👍 2K • 💬 567 • ⏱️ 18:41 • 4h ago
+👁️ 48K • 👍 2K • 💬 567 • ⏱️ 18:41 • 5h ago
 
 ---
 

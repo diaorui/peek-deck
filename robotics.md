@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T19:14:45.658500+00:00'
+updated: '2026-07-04T20:29:22.956916+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 19:14 UTC  
+**Last Updated:** July 04, 2026 at 20:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint co
 
 Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
 
-13h ago
+14h ago
 
 ---
 
@@ -124,47 +124,11 @@ The Register • 2d ago
 
 ---
 
-**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
+**[UBTech’s lifelike humanoid robots built for companionship arriving in homes across China](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/ubtechs-lifelike-humanoid-robots-built-for-companionship-arriving-in-homes-across-china)**
 
-WSJ • 9h ago
+The unveiling of model U1, which has silicone skin and emotional AI, reflects tech firms' drive to expand robotics beyond industrial use
 
----
-
-**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
-
-Japan Today • 1d ago
-
----
-
-**[Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)**
-
-Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
-
-CNBC • 2d ago
-
----
-
-**[Video. Humanoid robots showcase football skills](https://www.euronews.com/video/2026/07/03/humanoid-robots-showcase-football-skills)**
-
-Video. Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.
-
-Euronews.com • 1d ago
-
----
-
-**[UBTech’s humanoid robots deployed to control crowds at China’s busy international border](https://interestingengineering.com/ai-robotics/china-ubtech-humanoid-robots-international-border)**
-
-China is deploying UBTech's Walker S2 humanoid robots at its Vietnam border to speed customs checks and reduce congestion.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Maybe robots don't need legs or fingers to do laundry — Weave Robotics Isaac 1 isn't pretty or super-humanoid, but it might be ready to handle basic chores](https://www.techradar.com/computing/maybe-robots-dont-need-legs-or-fingers-to-do-laundry-weave-robotics-isaac-1-isnt-pretty-or-super-humanoid-but-it-might-be-ready-to-handle-basic-chores)**
-
-Weave Robotics Isaac 1 is a legless robot body on a stalk that can fold laundry and do basic chores, all for $7999.
-
-TechRadar • 1d ago
+The Star • 1d ago
 
 ---
 
@@ -176,11 +140,45 @@ Fortune • 3d ago
 
 ---
 
+**[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
+
+WSJ • 10h ago
+
+---
+
+**[Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots](https://futurism.com/robots-and-machines/uaw-union-general-motors-layoff-robots)**
+
+A powerful labor union is furious, as workers at General Motors are being pushed out to make room for robots.
+
+Futurism • 10h ago
+
+---
+
+**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[Santa Cruz County robotics team captures world championship](https://pajaronian.com/santa-cruz-county-robotics-team-captures-world-championship/)**
 
 Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
 
 The Pajaronian • 1d ago
+
+---
+
+**[Opinion: Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.](https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -234,7 +232,7 @@ Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule Experi
 
 📺 TopDoglive
 
-👁️ 1K • ⏱️ 0:11 • 7h ago
+👁️ 1K • ⏱️ 0:11 • 8h ago
 
 ---
 
@@ -242,7 +240,7 @@ Indian Flag Mechanical Transformation Pod | Hyper-Realistic Robot Capsule Experi
 
 📺 Smarttoy Ruko
 
-👁️ 35K • 👍 155 • ⏱️ 0:19 • 9h ago
+👁️ 35K • 👍 155 • ⏱️ 0:19 • 10h ago
 
 ---
 
@@ -252,7 +250,7 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 6K • 👍 15 • ⏱️ 0:21 • 17h ago
+👁️ 6K • 👍 15 • ⏱️ 0:21 • 19h ago
 
 ---
 

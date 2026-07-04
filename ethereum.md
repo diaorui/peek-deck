@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T19:14:45.655249+00:00'
+updated: '2026-07-04T20:29:22.954224+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 19:14 UTC  
+**Last Updated:** July 04, 2026 at 20:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,802.04
+### $1,792.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +13.9%  
-**30d:** +13.1%  
-**90d:** -15.0%  
-**1y:** -28.9%  
+**24h:** +1.2%  
+**7d:** +13.6%  
+**30d:** +12.8%  
+**90d:** -15.3%  
+**1y:** -29.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Ethereum basics for governments & institutions, Ethereum Institutional launched,
 
 During Q2 2026, the network processed 203,851,942 transactions, setting a new all-time high for quarterly onchain activity. This milestone is significant because transaction count remains one of the most reliable indicators of real network utilization. What's particularly noteworthy is that this record comes more than a decade after Ethereum launched. As blockchain ecosystems mature, sustaining growth becomes increasingly difficult. Yet Ethereum continues to expand its activity despite an already massive user base and one of the largest application ecosystems in crypto. The result also reflects years of continuous protocol improvements. Upgrades focused on scalability and data availability, combined with the rapid growth of Layer 2 networks, have allowed Ethereum to support significantly higher throughput while maintaining its role as the ecosystem's settlement layer. A huge thank you to the developers, validators, builders, researchers, and millions of users who continue contributing to the network every day. Milestones like this are only possible because of the strength of the broader Ethereum community. Full post: https://x.com/everstake_pool/status/2072654585022361799
 
-1d ago
+2d ago
 
 ---
 
@@ -150,43 +150,33 @@ Bitcoin Suisse has been active in the institutional crypto industry since its ea
 
 ## Google News: "ethereum"
 
-**[Prediction: 1 Cryptocurrency That Will Be Worth More Than Bitcoin and Ethereum Combined](https://www.fool.com/investing/2026/07/01/prediction-1-crypto-will-be-more-than-btc-eth/)**
-
-As new use cases emerge, XRP has the potential to become a trillion-dollar crypto.
-
-The Motley Fool • 2d ago
-
----
-
-**[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading](https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading)**
-
-Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.
-
-Decrypt • 2d ago
-
----
-
-**[Crypto News: Pepeto Presale Passes $10.38 Million While Bitcoin Price Prediction Drops to $82,000 and Ethereum Jumps on Warsh Signal](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-10-38-million-while-bitcoin-price-prediction-drops-to-82-000-and-ethereum-jumps-on-warsh-signal-1036297960)**
-
-DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
-
-markets.businessinsider.com • 2h ago
-
----
-
-**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html)**
+**[Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer](https://www.fool.com/investing/2026/07/04/congress-is-moving-forward-with-the-clarity-act-th/)**
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-Yahoo Finance • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Ethereum News: Grayscale’s Ethereum Staking ETF Just Had Its CFO Resign](https://www.tradingview.com/news/cryptonews:c1b1c0ded094b:0-ethereum-news-grayscale-s-ethereum-staking-etf-just-had-its-cfo-resign/)**
+**[Ethereum Foundation Guide Targets Government And Institutional Blockchain Use](https://www.tradingview.com/news/newsbtc:d91a07954094b:0-ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/)**
 
-Ethereum News: Grayscale Investments filed a Form 8-K for its Grayscale Ethereum Staking Mini ETF on July 2, 2026, disclosing the departure of CFO Edward McGee after seven years and his replacement by co-CFOs Kathryn Masci and Daniel Plourde on an interim basis, a governance shift at one of the mos…
+The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
 
 TradingView • 1d ago
+
+---
+
+**[Ethereum for Governments and Institutions: Why neutral infrastructure matters now](https://blog.ethereum.org/2026/07/01/ethereum-for-institutions)**
+
+ethereum.org • 3d ago
+
+---
+
+**[Can Ethereum Price Hit $62,000? We Assess Tom Lee's Bull Case as He Renews Bold ETH Predictions](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-hit-62-000-150715801.html)**
+
+Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,7 +184,7 @@ TradingView • 1d ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 6h ago
+Coinpedia • 7h ago
 
 ---
 
@@ -202,7 +192,15 @@ Coinpedia • 6h ago
 
 Ethereum's Lean Ethereum roadmap targets 10,000 TPS on Layer 1 and 1 million TPS on Layer 2, with seven upgrades planned through 2029 including
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
+
+---
+
+**[Ethereum Mini Trust Sees $18M Exit as Holders Test Their Nerves](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-sees-18m-exit-as-holders-test-their-nerves)**
+
+Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
+
+TipRanks • 9h ago
 
 ---
 
@@ -214,17 +212,17 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Institutional Launches as Independent Non-Profit to Bring Institutional Finance Onchain at Scale](https://www.prnewswire.com/news-releases/ethereum-institutional-launches-as-independent-non-profit-to-bring-institutional-finance-onchain-at-scale-302815328.html)**
+**[Crypto News: Pepeto Presale Passes $10.38 Million While Bitcoin Price Prediction Drops to $82,000 and Ethereum Jumps on Warsh Signal](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-10-38-million-while-bitcoin-price-prediction-drops-to-82-000-and-ethereum-jumps-on-warsh-signal-1036297960)**
 
-/PRNewswire/ -- Ethereum Institutional, an independent non-profit organization, today announced its public launch as the dedicated institutional front door for...
+DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
 
-PR Newswire • 3d ago
+markets.businessinsider.com • 4h ago
 
 ---
 
-**[Ethereum Foundation lays out use cases for governments, institutions in new policy guide](https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide)**
+**[EthLabs launches as Ethereum undergoes its biggest leadership transition in years](https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years)**
 
-The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.
+In this week's edition of The Protocol Newsletter, we’re diving into the creation of EthLabs, and why it was launched during a period of transition for the ecosystem.
 
 CoinDesk • 3d ago
 
@@ -240,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 632 • 💬 309 • ⏱️ 10:11 • 20h ago
+👁️ 9K • 👍 632 • 💬 309 • ⏱️ 10:11 • 21h ago
 
 ---
 
@@ -260,7 +258,7 @@ Just when you thought it was safe to go back into the crypto pool... we get some
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 517 • 💬 193 • ⏱️ 31:47 • 9h ago
+👁️ 4K • 👍 517 • 💬 193 • ⏱️ 31:47 • 10h ago
 
 ---
 
@@ -290,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 281 • 👍 14 • ⏱️ 5:09 • 10h ago
+👁️ 281 • 👍 14 • ⏱️ 5:09 • 11h ago
 
 ---
 
@@ -320,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 121 • ⏱️ 8:11 • 16h ago
+👁️ 2K • 👍 121 • ⏱️ 8:11 • 17h ago
 
 ---
 
