@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-04T22:32:52.757903+00:00'
+updated: '2026-07-05T00:02:15.354602+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** July 04, 2026 at 22:32 UTC  
+**Last Updated:** July 05, 2026 at 00:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,61 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
+**[Booster Goalkeeper](https://www.reddit.com/r/robotics/comments/1un6f8o/booster_goalkeeper/)**
 
-23h ago
+From Booster Robotics on 𝕏: "One save. Countless hours of development.": https://x.com/boosterobotics/status/2073359730161103088
+
+12h ago
 
 ---
 
-**[Weave Robotics has just launched its first home robot, Isaac 1](https://www.reddit.com/r/robotics/comments/1umbkd5/weave_robotics_has_just_launched_its_first_home/)**
-
-From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1
+**[Lesson learned: easy-to-access off switch is important](https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/)**
 
 1d ago
+
+---
+
+**[Testing the torque of my custom 3D-printed planetary gearbox! ⚙️🚀](https://www.reddit.com/r/robotics/comments/1unjqfz/testing_the_torque_of_my_custom_3dprinted/)**
+
+After designing and printing the gearbox in-house, it’s time to see how much torque it can actually handle. Early results look promising — more testing and improvements coming soon!
+
+3h ago
+
+---
+
+**[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
+
+1h ago
+
+---
+
+**[Robotics maps of Massachusetts ecosystem](https://www.reddit.com/r/robotics/comments/1un886v/robotics_maps_of_massachusetts_ecosystem/)**
+
+The original home of robotics! 🦞 The Massachusetts ecosystem is one of the world's leading hubs for robotics, combining top research, companies, and deep-tech investment. At its core are Massachusetts Institute of Technology (MIT) and Harvard University, which produce world-class researchers, engineers, and robotics startups. Many of today's leading robotics companies trace their roots back to these universities. The region is also home to companies like Boston Dynamics, whose work has inspired advances in humanoid and mobile robots. Around these companies, a dense network of suppliers, experienced engineers, entrepreneurs, and investors has developed, making it easier for new startups to build and scale. Massachusetts also has one of the strongest deep-tech funding ecosystems in the world, with venture capital firms that understand robotics, AI, and hardware. The Massachusetts robotics ecosystem is further strengthened by leading research organizations such as Toyota Research Institute and RAI Institute, which are advancing AI, dexterous manipulation, and next-generation robotics while attracting world-class researchers and engineers. Not to mention initiatives like MassRobotics which is home to so many great robotics companies (a separate map of MassRobotics companies will be released soon). ‼️ Note that Massachusetts has more than 500 robotics companies, research labs, and innovation hubs, so this is a curated selection of the notable product companies, not an exhaustive census! P.S. I'm constantly working on improving these maps, so if your company is missing - no bad blood - I'll try to include it in the next edition. Credits: me
+
+11h ago
+
+---
+
+**[Small MuJoCo milestone: quadruped walking](https://www.reddit.com/r/robotics/comments/1uneurw/small_mujoco_milestone_quadruped_walking/)**
+
+Tried the prompt "Implement a walking sequence in the quadruped simulation" in Drift and ended up with this. Current progress: Basic gait working Forward motion achieved Simulation running consistently Still trying to improve stability and make the gait look more natural. Open to any suggestions on what to explore next.
+
+6h ago
+
+---
+
+**[Hotel staffed entirely by robots opens next year](https://www.reddit.com/r/robotics/comments/1unbzzg/hotel_staffed_entirely_by_robots_opens_next_year/)**
+
+8h ago
+
+---
+
+**[Vintage car!](https://www.reddit.com/r/robotics/comments/1unku6d/vintage_car/)**
+
+I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
+
+2h ago
 
 ---
 
@@ -54,55 +98,9 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 ---
 
-**[Baby steps for my quadruped](https://www.reddit.com/r/robotics/comments/1umj7eq/baby_steps_for_my_quadruped/)**
+**[Weave Robotics has just launched its first home robot, Isaac 1](https://www.reddit.com/r/robotics/comments/1umbkd5/weave_robotics_has_just_launched_its_first_home/)**
 
-It's not pretty, but it walks! Progress so far: - Robot loads correctly Joint control working - Basic gait implemented - Forward motion achieved Current issues: - Wobbles a lot - Occasionally trips over itself - Motion feels very stiff Any tips on how do i achieve a stable forward motion??
-
-1d ago
-
----
-
-**[Soft robotics](https://www.reddit.com/r/robotics/comments/1un1bkd/soft_robotics/)**
-
-Well, every post i see in this sub is about how robot almost killed someone.. So what could you guys said about soft robotics? Does market need it? Does engineers want it? Maybe someone even know current progress in this field?
-
-16h ago
-
----
-
-**[I reorganized my control and robotics course materials into a free GitHub repository](https://www.reddit.com/r/robotics/comments/1umhdgm/i_reorganized_my_control_and_robotics_course/)**
-
-I recently made a major update to my Control and Robotics learning repository and decided to keep the course materials freely accessible. The repository now includes structured course folders with standalone HTML lecture pages, mathematical explanations, diagrams, and companion code examples for many lessons. The topics cover areas such as: Linear control Modern control System dynamics Robot kinematics and dynamics Robot control Advanced robotics Autonomous mobile robots For some lessons, the code examples are provided in different languages/environments such as Python, C++, Java, MATLAB, and Wolfram/Mathematica, so the material can be studied from both the theory and implementation side. Repo: https://github.com/mohammadijoo/Control_Robotics_Lab I’m sharing it here in case it is useful for students, instructors, or self-learners working through control systems and robotics topics. I would also appreciate feedback, especially if you notice mistakes in equations, explanations, code examples, structure, or missing topics that would make the material more useful.
-
-1d ago
-
----
-
-**[Humanoids Were Everywhere at Automate 2026, But So Was the Skepticism](https://www.reddit.com/r/robotics/comments/1umewa5/humanoids_were_everywhere_at_automate_2026_but_so/)**
-
-Humanoid robots and physical AI were major themes at Automate 2026. The show featured more than 50 humanoid and quadruped systems, a significant increase from last year. Much of the discussion centered on commercialization, safety, deployment, dexterity, data collection, and training rather than future predictions. Several companies also showcased hybrid mobile manipulation platforms that combine AMR mobility with dual-arm operation, including new systems from Locus, Cobot, and Kinisi. On the physical AI side, Apptronik introduced Apollo 2 and its new Robot Park training facility, Generalist demonstrated its GEN-1 dexterity model, and FieldAI announced more than $100 million in revenue and customer contracts.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/everyone-was-talking-about-humanoids-and-physical-at-automate-2026) • 1d ago
-
----
-
-**[This Origami Robot Performs Eye Surgery With Zero Metal Parts](https://www.reddit.com/r/robotics/comments/1ummi9c/this_origami_robot_performs_eye_surgery_with_zero/)**
-
-Researchers designed an origami-inspired robotic arm that allows surgeons to perform precise subretinal injections by folding lightweight plastic into a structure strong enough to deliver exact surgical force without any heavy metal components. Weighing under 18 grams and precise to 12 micrometers, the device has already been used successfully in real in vivo eye surgery for cell and gene therapy delivery. This breakthrough could replace bulky kilogram-heavy surgical robots with lightweight origami-based tools, transforming how delicate procedures are performed in crowded operating rooms. Published in npj Robotics, 2026.
-
-🔗 [youtube.com](https://youtube.com/shorts/IHTypUvNiTE?si=wKDdVlrqBN0TpmKu) • 1d ago
-
----
-
-**[l test the 3D depth camera MRP P008G](https://www.reddit.com/r/robotics/comments/1umex1y/l_test_the_3d_depth_camera_mrp_p008g/)**
-
-1d ago
-
----
-
-**[Remote control robot arm goes crazy](https://www.reddit.com/r/robotics/comments/1ulzdhj/remote_control_robot_arm_goes_crazy/)**
-
-From a live stream yesterday where I let people remote control a pair of robot arms to play chess! There’s always one troll…
+From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1
 
 1d ago
 
@@ -112,12 +110,6 @@ From a live stream yesterday where I let people remote control a pair of robot a
 
 ## Google News: "robotics"
 
-**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
-
-Reuters • 2d ago
-
----
-
 **[New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch](https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490)**
 
 The Register • 2d ago
@@ -126,13 +118,27 @@ The Register • 2d ago
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 13h ago
+WSJ • 14h ago
+
+---
+
+**[China's UBTech launches AI-powered lifelike companion robots](https://www.reuters.com/technology/chinas-ubtech-launches-ai-powered-lifelike-companion-robots-2026-07-02/)**
+
+Reuters • 2d ago
 
 ---
 
 **[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
 
 Japan Today • 2d ago
+
+---
+
+**[The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026](https://247wallst.com/investing/2026/07/02/the-first-major-robotics-ipo-is-here-5-robotics-stocks-that-could-run-in-the-second-half-of-2026/)**
+
+The first major humanoid robotics company just went public. Agility Robotics completed its public debut through a merger with SPAC Churchill Capital Corp XI, and the supply-chain names that feed the robotics buildout are already moving. The clearest tell: Ouster (NASDAQ:OUST) has run 149.86% year-to-date, with a 13.43% gain on June 30 alone. The names ... The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -149,14 +155,6 @@ The Star • 1d ago
 Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.
 
 CNBC • 2d ago
-
----
-
-**[Video. Humanoid robots showcase football skills](https://www.euronews.com/video/2026/07/03/humanoid-robots-showcase-football-skills)**
-
-Video. Humanoid robots compete in football matches at RoboCup in Incheon, South Korea, showcasing advances in robotics as spectators watch the action.
-
-Euronews • 1d ago
 
 ---
 
@@ -192,7 +190,15 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 187K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
+👁️ 190K • 👍 5K • 💬 2K • ⏱️ 3:59 • 3d ago
+
+---
+
+**[Cycle testing our 2026 Robot at the Southern a California State Championship #STEM #robotics](https://www.youtube.com/watch?v=h7HrTNOZDbg)**
+
+📺 FRC Team 3255 - SuperNURDs
+
+👁️ 24K • 👍 71 • 💬 2 • ⏱️ 0:06 • 3d ago
 
 ---
 
@@ -212,7 +218,7 @@ Beni is an autonomous tracking robot with a 4K camera, self-balancing capabiliti
 
 📺 51 Drones
 
-👁️ 11K • 👍 377 • 💬 73 • ⏱️ 12:50 • 3d ago
+👁️ 12K • 👍 389 • 💬 74 • ⏱️ 12:50 • 3d ago
 
 ---
 
@@ -222,7 +228,7 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 84K • 👍 327 • 💬 174 • ⏱️ 2:50 • 2d ago
+👁️ 86K • 👍 335 • 💬 177 • ⏱️ 2:50 • 2d ago
 
 ---
 
@@ -232,7 +238,7 @@ Has AI gone too far? Dance group Unitree leave the Judges SPEECHLESS with their 
 
 📺 Got Talent Global
 
-👁️ 70K • 👍 696 • 💬 24 • ⏱️ 5:08 • 6d ago
+👁️ 71K • 👍 705 • 💬 24 • ⏱️ 5:08 • 6d ago
 
 ---
 
@@ -242,7 +248,17 @@ Why robots still struggle to replace humans. Watch five hilarious examples of mo
 
 📺 小璐在日摸魚記
 
-👁️ 6K • 👍 15 • ⏱️ 0:21 • 21h ago
+👁️ 6K • 👍 17 • ⏱️ 0:21 • 22h ago
+
+---
+
+**[This AI Robot Levels Concrete Floors 10X Faster Than Humans! 🤖🔥 | Future of Construction](https://www.youtube.com/watch?v=ZyopGn8X0qU)**
+
+TITLE (SEO + VIRAL) This AI Robot Levels Concrete Floors 10X Faster Than Humans! | Future of Construction FULL ...
+
+📺 RashaProject
+
+👁️ 3.6M • 👍 5K • 💬 41 • ⏱️ 0:04 • 4d ago
 
 ---
 
@@ -252,15 +268,7 @@ China has unveiled a new generation of ultra-realistic humanoid robots that are 
 
 📺 Techie Sapien
 
-👁️ 8K • 💬 3 • ⏱️ 0:09 • 11h ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=Nk226xASWDM)**
-
-📺 Robot Julie 
-
-👁️ 18K • 👍 47 • 💬 6 • ⏱️ 0:25 • 1d ago
+👁️ 9K • 💬 3 • ⏱️ 0:09 • 13h ago
 
 ---
 
@@ -268,17 +276,7 @@ China has unveiled a new generation of ultra-realistic humanoid robots that are 
 
 📺 Smarttoy Ruko
 
-👁️ 38K • 👍 160 • ⏱️ 0:19 • 12h ago
-
----
-
-**[NEW Fang Bot &amp; Mecca ‘Sirocco’ Titan | PLUS New UE Raven - INSANE Test Server | War Robots](https://www.youtube.com/watch?v=Q-0rwROOK7Y)**
-
-3 New robots just arrived. This might be the most New equipment I've ever seen on a test server. Not to mention this whole week ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 386 • 💬 130 • ⏱️ 15:05 • 9h ago
+👁️ 40K • 👍 172 • ⏱️ 0:19 • 14h ago
 
 ---
 

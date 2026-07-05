@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-04T22:32:52.754778+00:00'
+updated: '2026-07-05T00:02:15.351418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 22:32 UTC  
+**Last Updated:** July 05, 2026 at 00:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +13.6%  
-**30d:** +12.8%  
-**90d:** -15.2%  
-**1y:** -29.1%  
+**24h:** +1.7%  
+**7d:** +10.1%  
+**30d:** +13.2%  
+**90d:** -20.7%  
+**1y:** -30.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $216.13B
+**Market Cap:** $214.69B
 Rank #2
 
 **Circulating Supply:** 120,683,241 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--63.8%
+-64.0%
 
 **All-Time Low:** $0.43
-+413622.1%
++410615.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -154,7 +154,7 @@ Bitcoin Suisse has been active in the institutional crypto industry since its ea
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-The Motley Fool • 10h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 9h ago
+Coinpedia • 10h ago
 
 ---
 
@@ -186,7 +186,15 @@ Coinpedia • 9h ago
 
 Ethereum's Lean Ethereum roadmap targets 10,000 TPS on Layer 1 and 1 million TPS on Layer 2, with seven upgrades planned through 2029 including
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 6h ago
+
+---
+
+**[Ethereum Price Forecast: ETH weakness in June likely from intense retail sell-off and US de-risking](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-weakness-in-june-likely-from-intense-retail-sell-off-and-us-de-risking-202607040028)**
+
+Ethereum (ETH) declined by 21.6% in June, its largest monthly drop since November, amid intense risk-off sentiment and heightened volatility, spearheaded by retail investors and US market participants.
+
+FXStreet • 23h ago
 
 ---
 
@@ -194,15 +202,7 @@ Crypto Briefing • 4h ago
 
 Investor appetite for Grayscale’s Grayscale Ethereum Mini Trust, ticker ETH, cooled on July 2, 2026, as the fund recorded outflows of $18.47 million. With assets un...
 
-TipRanks • 12h ago
-
----
-
-**[Crypto Today: Bitcoin, Ethereum, XRP advance amid renewed capital inflows](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-advance-amid-renewed-capital-inflows-202607031200)**
-
-Bitcoin (BTC) maintains its upward momentum, holding above the $61,000 mark at the time of writing on Friday. Major altcoins such as Ethereum (ETH) and Ripple (XRP) are also posting gains, signaling a modest uptick in market sentiment and renewed risk appetite among investors.
-
-FXStreet • 1d ago
+TipRanks • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ FXStreet • 1d ago
 
 DUBAI, United Arab Emirates, July  04, 2026  (GLOBE NEWSWIRE) -- Ethereum Based crypto Pepeto keeps advancing fast week after week, with funds now...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 653 • 💬 310 • ⏱️ 10:11 • 23h ago
+👁️ 10K • 👍 667 • 💬 327 • ⏱️ 10:11 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 1K • 👍 159 • 💬 67 • ⏱️ 22:32 • 2h ago
+👁️ 3K • 👍 239 • 💬 54 • ⏱️ 22:32 • 4h ago
 
 ---
 
@@ -260,17 +260,7 @@ Ethereum is back and the crypto market is heating up—but is this the start of 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 293 • 💬 44 • ⏱️ 1:03:50 • 1d ago
-
----
-
-**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
-
-Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
-
-📺 Paul Barron Network
-
-👁️ 27K • 👍 1K • 💬 81 • ⏱️ 25:16 • 2d ago
+👁️ 5K • 👍 295 • 💬 44 • ⏱️ 1:03:50 • 1d ago
 
 ---
 
@@ -280,37 +270,17 @@ Just when you thought it was safe to go back into the crypto pool... we get some
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 538 • 💬 199 • ⏱️ 31:47 • 12h ago
+👁️ 5K • 👍 561 • 💬 198 • ⏱️ 31:47 • 14h ago
 
 ---
 
-**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
+**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
 
-Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
+Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
 
-📺 Prof G Markets
+📺 Paul Barron Network
 
-👁️ 27K • 👍 281 • 💬 73 • ⏱️ 0:58 • 1d ago
-
----
-
-**[ETHEREUM BREAKOUT UPDATE!🔥 (ETH Price Prediction)](https://www.youtube.com/watch?v=fdQuq37oBRg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 348 • 👍 15 • ⏱️ 5:09 • 13h ago
-
----
-
-**[BITCOIN: It&#39;s Time To PAY ATTENTION! (this matters) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=nIQsuiyxIUE)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 5K • 👍 402 • 💬 58 • ⏱️ 15:26 • 12h ago
+👁️ 28K • 👍 1K • 💬 82 • ⏱️ 25:16 • 2d ago
 
 ---
 
@@ -320,7 +290,37 @@ Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 194 • 💬 45 • ⏱️ 16:24 • 1d ago
+👁️ 4K • 👍 195 • 💬 45 • ⏱️ 16:24 • 1d ago
+
+---
+
+**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
+
+Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
+
+📺 Prof G Markets
+
+👁️ 29K • 👍 304 • 💬 76 • ⏱️ 0:58 • 1d ago
+
+---
+
+**[BITCOIN: It&#39;s Time To PAY ATTENTION! (this matters) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=nIQsuiyxIUE)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 416 • 💬 31 • ⏱️ 15:26 • 13h ago
+
+---
+
+**[ETHEREUM BREAKOUT UPDATE!🔥 (ETH Price Prediction)](https://www.youtube.com/watch?v=fdQuq37oBRg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 386 • 👍 16 • ⏱️ 5:09 • 15h ago
 
 ---
 
@@ -330,7 +330,7 @@ In this video I break down the latest Ethereum price action and analyze whether 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 164 • 💬 16 • ⏱️ 9:09 • 1d ago
+👁️ 3K • 👍 165 • 💬 16 • ⏱️ 9:09 • 1d ago
 
 ---
 

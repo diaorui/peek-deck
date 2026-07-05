@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-04T22:32:52.740464+00:00'
+updated: '2026-07-05T00:02:15.336874+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 04, 2026 at 22:32 UTC  
+**Last Updated:** July 05, 2026 at 00:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Surely we are going to get in trouble for doing this?"
 
-🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 3h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 5h ago
 
 ---
 
@@ -49,7 +49,15 @@ AI news, discussions, and developments
 
 Lot dropped this week and there's a pretty clear through-line, so figured I'd pull it together. Model releases: - OpenAI launched GPT-5.6 (Sol/Terra/Luna). The bit worth noting isn't the flagship — it's Terra, reportedly matching GPT-5.5 quality at ~2x cheaper, with Luna aimed at the low-cost end. - Google shipped Gemini 3.5 Flash (beats 3.1 Pro on several benchmarks), plus Nano Banana 2 Lite (images ~$0.034/1K-res) and Gemini Omni Flash (video ~$0.10/sec via API). - xAI made Grok 3 GA and Grok 4.1 live for everyone. Grok 5 still hasn't shipped, which is its own story at this point. Vertical / enterprise: - Anthropic launched Claude Science for pharma and lab research. Separately, the US govt lifted the export restrictions on Fable 5 / Mythos 5 that it had imposed only weeks earlier. - Mistral shipped OCR 4 (on-prem, structure-aware extraction) and is reportedly raising ~€3B at ~€20B. Open source: - Ollama crossed 52M monthly downloads, added `ollama launch` (one command to run coding agents on local or cloud models), and is now compatible with the Anthropic Messages API. - Hugging Face: agents can train models via Hub skills now; Meta + HF also launched OpenEnv for agent environments. Funding: - Together AI raised $800M Series C (~$8.3B post). Crunchbase notes ~88% of 2026 AI funding went to US companies. My take as someone building on top of these APIs: The thing I keep noticing is that the price collapse is happening across every tier simultaneously, not just at the bottom. When the "balanced" model gets 2x cheaper each generation and the Flash tier beats last year's Pro, it gets really hard to build a business whose only edge is "we use the best model." That edge evaporates on someone else's release schedule. The stuff that looked durable this week was all workflow-and-data — Claude Science, Mistral's on-prem OCR, Alibaba's agent ecosystem. Would genuinely like to hear how others here are handling multi-provider abstraction, because a surprise price or availability change shouldn't be able to wreck your margins overnight. And the frozen-then-unfrozen Anthropic thing means model availability is now a supply-chain risk, not a hypothetical.
 
-10h ago
+12h ago
+
+---
+
+**[Survey: 63% of Americans are uncomfortable letting AI help them choose who to vote for, and 80% are worried AI bots are answering political surveys. Is the discomfort about AI, or about trust?](https://www.reddit.com/r/artificial/comments/1unmy3d/survey_63_of_americans_are_uncomfortable_letting/)**
+
+Saw a national survey from March on how people feel about AI in politics, and two numbers stuck with me. 63% said they'd be uncomfortable using an AI chatbot to help decide who to vote for, even though plenty of people are fine using chatbots to fact-check or follow issues. 80% said they're worried that AI bots, not real people, are answering the surveys that feed into policy and business decisions. It reads less like fear of the tech and more like people drawing a hard line at AI touching the actual decision. Where do folks here think that line should be? Source: https://data.verasight.io/ai/adults-views-on-ai-in-elections
+
+42m ago
 
 ---
 
@@ -57,7 +65,7 @@ Lot dropped this week and there's a pretty clear through-line, so figured I'd pu
 
 Meta Platforms is reportedly investing $6.5 billion with Samsung Foundry to produce its third-generation MTIA (Meta Training and Inference Accelerator) chips using a 2nm process. This strategic move signifies a shift from TSMC and aims to reduce reliance on NVIDIA GPUs, lower supply chain risks, and support Meta's ambitious goal of 5 gigawatts of computing capacity by 2030 for its AI and cloud initiatives. The deal is expected to bolster Meta's competitive position in the rapidly evolving AI and cloud computing markets. Context Meta has been increasingly focused on artificial intelligence and cloud services, necessitating advanced computing power. The MTIA chips represent Meta's third generation of in-house processors, designed to optimize performance for AI workloads. The shift to Samsung Foundry marks a strategic pivot in Meta's manufacturing partnerships, reflecting broader industry trends towards vertical integration. Why this matters Meta's $6.5 billion investment in Samsung Foundry is a significant step towards enhancing its capabilities in AI and cloud computing. By developing its own 2nm chips, Meta aims to reduce dependence on external suppliers like TSMC and NVIDIA. This move could improve supply chain stability and operational efficiency, which are critical in the fast-paced tech landscape. Implications This deal could enhance Meta's market position by enabling it to deliver more efficient AI services. It may also influence other tech companies to reconsider their supply chains and partnerships in light of Meta's strategic shift. If successful, this initiative could lead to increased investment in domestic semiconductor manufacturing and innovation within the tech sector. What to watch In the coming months, observers should monitor the progress of the chip development and production timelines. Any announcements regarding partnerships or technological advancements from Meta or Samsung could signal the effectiveness of this collaboration. Additionally, industry reactions from competitors and suppliers will provide insights into the competitive landscape.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +73,7 @@ Meta Platforms is reportedly investing $6.5 billion with Samsung Foundry to prod
 
 Since I am not building any tech products or coding, other than email and repots, I am not sure what else to use AI for. Are there any other creative ways you use AI for genuinely help with day to day work. Please share your ideas.
 
-11h ago
+13h ago
 
 ---
 
@@ -73,7 +81,7 @@ Since I am not building any tech products or coding, other than email and repots
 
 Hello Everyone! You are invited to take part in a study exploring whether different AI avatars can shift people’s perceptions when they watch information online. The survey takes about 10 minutes to complete and is open to anyone aged 18 or older. Link to the study: https://surveyswap.io/s/ZYHW-JGAP-9UQD Thank you very much in advance for your participation!
 
-4h ago
+6h ago
 
 ---
 
@@ -81,15 +89,15 @@ Hello Everyone! You are invited to take part in a study exploring whether differ
 
 I've noticed that being able to summarize information clearly has become much more useful than I expected. Whether it's at work, studying, or just keeping up with news, turning a lot of information into something concise feels like a real advantage. It's interesting because a few years ago I wouldn't have considered this a "skill" worth practicing. What's something you've learned recently that turned out to be far more useful than you expected?
 
-5h ago
+6h ago
 
 ---
 
-**[What are you using for AI marketing content (product visuals + animated trailers)?](https://www.reddit.com/r/artificial/comments/1unhutd/what_are_you_using_for_ai_marketing_content/)**
+**[How long does the Perch AI Pro $10/mo Early Access price last?](https://www.reddit.com/r/artificial/comments/1unksdx/how_long_does_the_perch_ai_pro_10mo_early_access/)**
 
-Launching my SaaS soon and I'm putting together promo content for Instagram (primary) and TikTok. What I need: Aesthetic product pictures. Basically polished screenshots and mockups that look premium, not just raw screen grabs on a white background. A 2D animated product trailer with captions. I'll record the voice over myself since I want the product to feel premium, so no AI voices needed there. The goal is an aesthetic Instagram page with clean product visuals plus reels showing the software in a way that doesn't look like plain screen recordings. Appreciate any input! I am using Claude btw.
+Just signed up for Perch AI and I'm looking at Pro for $10/mo (says 50% off, "Early Access pricing"). Couldn't find anything on the pricing page or FAQ about how long this actually lasts. Has anyone been on Pro for a few months now? Did the price jump back to $20 at some point, or is it still $10 for you? Also curious if this is locked in per account once you subscribe, or if it can change mid subscription without warning. Trying to decide if it's worth committing to before finding out it doubles next month. Any info from people already on Pro would help a lot.
 
-3h ago
+2h ago
 
 ---
 
@@ -97,15 +105,7 @@ Launching my SaaS soon and I'm putting together promo content for Instagram (pri
 
 My reddit feed has been getting filled with a ton of AI generated content. A notable one is r/ModMuse. Its a girl posing for selfies in different outfits. It came up again today. Tons of posts from guys. One said "You're really pretty." I responded: "Don't get too excited. I'm pretty sure she's AI generated..." I then got a response that read..."Removed: Please don't post unverified fake/ AI-generated accusations. I am a bot. This action was performed automatically." And then a follow-on message saying I'm permanently banned from the sub. I found this a little unnerving. AI agents and automated scripts are starting to show up everywhere. If AI is able to generate content on its own and control the conversation by silencing dissenters, it seems a dangerous precedent. The content in this situation was benign but what if AI uses the same tactics with political discourse, or more consequential issues.
 
-20h ago
-
----
-
-**[What performs the operations coordinated within each layer or head of a Transformer?](https://www.reddit.com/r/artificial/comments/1unilm4/what_performs_the_operations_coordinated_within/)**
-
-Hi, I want to train a Transformer layer to perform specific tasks, but I’m not sure how to coordinate them or determine when to use one versus the other. Does anyone have experience with this? How have you handled it?
-
-2h ago
+21h ago
 
 ---
 
@@ -125,43 +125,25 @@ Andrew Ng recently said: "100% of my tasks are now done by AI agents. Hype has e
 
 As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine language, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age of ChatGPT
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
 **[‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
-**[NHS app to use AI to determine which service best for patients](https://www.bbc.com/news/articles/c0my2kjjnp2o)**
+**[AI security questions loom over NATO summit](https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758)**
 
-The update will be available to all users in England by April 2028, the health service says.
-
-BBC • 1h ago
+Politico • 4h ago
 
 ---
 
-**[New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)**
+**[High-Earner Families Are Ditching Traditional Schools for Life Skills and AI](https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3)**
 
-Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
-
-TechCrunch • 1h ago
-
----
-
-**[Gov. Greg Abbott Calls For Ban On AI Data Centers In Rural Texas Neighborhoods](https://www.yahoo.com/news/politics/articles/gov-greg-abbott-calls-ban-210051040.html)**
-
-Texas Gov. Greg Abbott calls for a ban on new AI data centers in rural Texas neighborhoods, reversing his previous stance.
-
-Yahoo • 1h ago
-
----
-
-**[For one small business, AI was key to a quick start and expansion](https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/)**
-
-Reuters • 7h ago
+WSJ • 23h ago
 
 ---
 
@@ -169,7 +151,13 @@ Reuters • 7h ago
 
 Employees racked up AI bills, and companies are backpedaling on tokenmaxxing. Now, it's all about routing prompts to the most value-for-money model.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
+
+---
+
+**[For one small business, AI was key to a quick start and expansion](https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/)**
+
+Reuters • 8h ago
 
 ---
 
@@ -177,19 +165,29 @@ Business Insider • 14h ago
 
 Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.
 
-CNBC • 17h ago
+CNBC • 19h ago
 
 ---
 
-**[Asking Eric: Cousin’s gift of A.I. enhanced historic family photo is way out of focus](https://www.oregonlive.com/advice/2026/07/asking-eric-cousins-gift-of-ai-enhanced-historic-family-photo-is-way-out-of-focus.html)**
+**[AI Can't Thrive Without This Stock (Hint: It's Not Nvidia)](https://finance.yahoo.com/technology/ai/articles/ai-cant-thrive-without-stock-175700505.html)**
 
-OregonLive.com • 15h ago
+This under-the-radar company doesn't get the recognition that semiconductor specialists receive -- but it certainly should.
+
+Yahoo Finance • 6h ago
 
 ---
 
-**[AI security questions loom over NATO summit](https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758)**
+**[3 Stocks to Buy on the AI Infrastructure Sell-Off](https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-ai-infrastructure-150500852.html)**
 
-Politico • 2h ago
+Nvidia, AMD, and Micron look like good buys on this pullback.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Are the ‘MANGOS’ Stocks Already Turning Soft?](https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html)**
+
+The New York Times • 15h ago
 
 ---
 
@@ -201,13 +199,13 @@ Politico • 2h ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 728 • 💬 415 • 16h ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+⬆️ 746 • 💬 427 • 17h ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
 **[Protect your right to run local AI](https://news.ycombinator.com/item?id=48768951)**
 
-⬆️ 536 • 💬 191 • 1d ago • [righttointelligence.org](https://righttointelligence.org/)
+⬆️ 537 • 💬 191 • 2d ago • [righttointelligence.org](https://righttointelligence.org/)
 
 ---
 
@@ -239,12 +237,6 @@ Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, the
 
 ---
 
-**[Meta caps internal AI token spending](https://news.ycombinator.com/item?id=48754713)**
-
-⬆️ 147 • 💬 147 • 2d ago • [mlq.ai](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
-
----
-
 **[Instead of banning AI, I made a classroom contract with my students](https://news.ycombinator.com/item?id=48775499)**
 
 ⬆️ 87 • 💬 90 • 1d ago • [science.org](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
@@ -255,7 +247,7 @@ Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, the
 
 Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody's building the next generation of senior engineers.
 
-⬆️ 81 • 💬 138 • 2h ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
+⬆️ 84 • 💬 156 • 4h ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
 ---
 
@@ -264,6 +256,14 @@ Junior programmers are getting destroyed by AI — down 19%, while devs over 40 
 For two years I argued the feeling of AI speed had come apart from the fact of it, from watching my own teams. This summer it stopped being an anecdote. A controlled trial measured experienced developers feeling about 20% faster while running about 19% slower. The instrument we steer by reads backward.
 
 ⬆️ 77 • 💬 98 • 2d ago • [intrepidkarthi](https://intrepidkarthi.com/writing/the-gauge-broke/)
+
+---
+
+**[AI saves about 3% of your hours, and almost none of it reaches the money](https://news.ycombinator.com/item?id=48777257)**
+
+The real ROI of AI for knowledge work: the task-level gains (Noy-Zhang, Brynjolfsson), the jagged frontier (BCG-Harvard), the 2.8% real-world time saving and no earnings effect (Humlum), 95% of enterprise pilots with no P&L return (MIT), and how to capture what is real.
+
+⬆️ 75 • 💬 93 • 1d ago • [okaneland.com](https://okaneland.com/study/ai-productivity-roi-at-work/)
 
 ---
 
@@ -277,67 +277,7 @@ US AI companies are too expensive. Why China is winning the AI race to zero. [NE
 
 📺 TechLead
 
-👁️ 77K • 👍 4K • 💬 570 • ⏱️ 9:40 • 1d ago
-
----
-
-**[CEOs Are Quietly Destroying Their AI Plans](https://www.youtube.com/watch?v=E_565Wh110c)**
-
-How much do you spend per month on AI? Interested in supporting the channel? Become a channel member!
-
-📺 Dylan John
-
-👁️ 22K • 👍 863 • 💬 199 • ⏱️ 16:19 • 2d ago
-
----
-
-**[Microsoft Admits it was Wrong About AI](https://www.youtube.com/watch?v=towF0_V7oHw)**
-
-For years, we were told AI would replace programmers, office workers, and eventually most white-collar jobs. But behind closed ...
-
-📺 The Infographics Show
-
-👁️ 199K • 👍 6K • 💬 1K • ⏱️ 14:31 • 1d ago
-
----
-
-**[Even I Was Fooled By AI Slop And I&#39;m Sorry!](https://www.youtube.com/watch?v=Q0gX1lF0s6M)**
-
-I was completely fooled by AI-generated slop and I'm sorry. I thought this wild RFK Jr. clip was real – turns out it was 100% fake.
-
-📺 Maximilien Robespierre
-
-👁️ 12K • 👍 1K • 💬 374 • ⏱️ 5:58 • 14h ago
-
----
-
-**[Huge AI News Week: Fable 5 Returns; NotebookLM Shorts; Gemini Spark Updates; Nano Banana 2 Lite 🤯](https://www.youtube.com/watch?v=1u0vKWeP9HI)**
-
-Try Building a Digest Today With xTiles: https://xtiles.app/en?fp_ref=pauljlipsky Fable 5 is back with new restrictions, Anthropic ...
-
-📺 Paul J Lipsky
-
-👁️ 12K • 👍 452 • 💬 46 • ⏱️ 24:58 • 9h ago
-
----
-
-**[Sam Harris WARNS: It&#39;s Already Too Late to Stop AI](https://www.youtube.com/watch?v=DsAGYLzBbdg)**
-
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Sam Harris argues that humanity has ...
-
-📺 Neural Nutshell
-
-👁️ 5K • 👍 157 • 💬 64 • ⏱️ 16:36 • 1d ago
-
----
-
-**[The Best AI Safety News In Years (Maybe Ever?)](https://www.youtube.com/watch?v=O84I21_9U74)**
-
-Why did the US government ban Fable and Mythos, Anthropic's most powerful AI models? Let's find out! You can support me on ...
-
-📺 Siliconversations
-
-👁️ 56K • 👍 9K • 💬 1K • ⏱️ 10:56 • 2d ago
+👁️ 79K • 👍 4K • 💬 579 • ⏱️ 9:40 • 2d ago
 
 ---
 
@@ -347,17 +287,47 @@ Activists are speaking out against new, A.I.-enabled cameras being used by munic
 
 📺 NBC News
 
-👁️ 46K • 👍 607 • 💬 459 • ⏱️ 6:08 • 21h ago
+👁️ 48K • 👍 647 • 💬 481 • ⏱️ 6:08 • 23h ago
 
 ---
 
-**[AI Made This Entire Video by Itself... (Claude Fable 5)](https://www.youtube.com/watch?v=CQl5V_BX02U)**
+**[Microsoft Admits it was Wrong About AI](https://www.youtube.com/watch?v=towF0_V7oHw)**
 
-In the name of science, I told Claude Fable 5 to make a Dan Dingle video. This is the result... Merch that ISN'T AI SLOP▻ ...
+For years, we were told AI would replace programmers, office workers, and eventually most white-collar jobs. But behind closed ...
 
-📺 Dan Dingle
+📺 The Infographics Show
 
-👁️ 73K • 👍 5K • 💬 679 • ⏱️ 9:09 • 1d ago
+👁️ 206K • 👍 6K • 💬 1K • ⏱️ 14:31 • 1d ago
+
+---
+
+**[Even I Was Fooled By AI Slop And I&#39;m Sorry!](https://www.youtube.com/watch?v=Q0gX1lF0s6M)**
+
+I was completely fooled by AI-generated slop and I'm sorry. I thought this wild RFK Jr. clip was real – turns out it was 100% fake.
+
+📺 Maximilien Robespierre
+
+👁️ 13K • 👍 1K • 💬 391 • ⏱️ 5:58 • 16h ago
+
+---
+
+**[The Best AI Safety News In Years (Maybe Ever?)](https://www.youtube.com/watch?v=O84I21_9U74)**
+
+Why did the US government ban Fable and Mythos, Anthropic's most powerful AI models? Let's find out! You can support me on ...
+
+📺 Siliconversations
+
+👁️ 57K • 👍 9K • 💬 1K • ⏱️ 10:56 • 2d ago
+
+---
+
+**[Sam Harris WARNS: It&#39;s Already Too Late to Stop AI](https://www.youtube.com/watch?v=DsAGYLzBbdg)**
+
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Sam Harris argues that humanity has ...
+
+📺 Neural Nutshell
+
+👁️ 5K • 👍 160 • 💬 65 • ⏱️ 16:36 • 1d ago
 
 ---
 
@@ -367,7 +337,37 @@ US President Donald Trump has once again turned to artificial intelligence to sh
 
 📺 Firstpost
 
-👁️ 12K • 👍 44 • 💬 75 • ⏱️ 4:54 • 1d ago
+👁️ 13K • 👍 49 • 💬 81 • ⏱️ 4:54 • 1d ago
+
+---
+
+**[The AI Layoff Payback Has Begun](https://www.youtube.com/watch?v=QorWpn2O_sI)**
+
+This video is sponsored by Lumo by Proton: a privacy-first AI assistant from the Swiss company behind Proton Mail. Whether ...
+
+📺 House of El - AI
+
+👁️ 144K • 👍 10K • 💬 2K • ⏱️ 27:19 • 1d ago
+
+---
+
+**[AI Made This Entire Video by Itself... (Claude Fable 5)](https://www.youtube.com/watch?v=CQl5V_BX02U)**
+
+In the name of science, I told Claude Fable 5 to make a Dan Dingle video. This is the result... Merch that ISN'T AI SLOP▻ ...
+
+📺 Dan Dingle
+
+👁️ 74K • 👍 5K • 💬 683 • ⏱️ 9:09 • 2d ago
+
+---
+
+**[AI Roosevelt’s &#39;scathing&#39; comment to Donald Trump…](https://www.youtube.com/watch?v=QRFIcF6q6rw)**
+
+Simon Marks reacts to AI Theodore Roosevelt's response to Donald Trump's question about the Panama Canal. Listen to the full ...
+
+📺 LBC
+
+👁️ 373K • 👍 7K • 💬 464 • ⏱️ 1:44 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Qwythos-9B-Claude-Mythos-5-1M-GGUF is a quantized text-generation model with a 1
 
 `image-text-to-text` `9.0B`
 
-⬇️ 1,464,047 • ❤️ 1,452 • 6d ago
+⬇️ 1,464,047 • ❤️ 1,460 • 6d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 208,920 • ❤️ 3,395 • 2d ago
+⬇️ 208,920 • ❤️ 3,398 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 988,379 • ❤️ 1,709 • 1d ago
+⬇️ 988,379 • ❤️ 1,714 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ Ornith-1.0-35B-GGUF is a state-of-the-art, MIT-licensed language model optimized
 
 `text-generation` `34.7B`
 
-⬇️ 359,659 • ❤️ 708 • 9d ago
+⬇️ 359,659 • ❤️ 711 • 9d ago
 
 ---
 
@@ -443,19 +443,7 @@ The Qwen3.6-27B-NVFP4 is an FP4 quantized version of Alibaba's Qwen3.6-27B LLM, 
 
 `text-generation` `18.2B`
 
-⬇️ 184,521 • ❤️ 247 • 4d ago
-
----
-
-**[DeepSeek-V4-Pro-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark)**
-
-*DeepSeek*
-
-DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mixture-of-Experts architecture with a 1 million token context window, optimized for long-context efficiency using Hybrid Attention. It excels in reasoning, coding, and agentic tasks, offering advanced capabilities for complex applications.
-
-`text-generation` `889.5B`
-
-⬇️ 10,306 • ❤️ 367 • 19h ago
+⬇️ 184,521 • ❤️ 249 • 4d ago
 
 ---
 
@@ -467,7 +455,19 @@ Agents-A1 is a 35B Mixture-of-Experts agentic model excelling in long-horizon se
 
 `text-generation` `35.1B`
 
-⬇️ 5,456 • ❤️ 235 • 1d ago
+⬇️ 5,456 • ❤️ 238 • 1d ago
+
+---
+
+**[DeepSeek-V4-Pro-DSpark](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro-DSpark is a text-generation model featuring a 1.6T parameter Mixture-of-Experts architecture with a 1 million token context window, optimized for long-context efficiency using Hybrid Attention. It excels in reasoning, coding, and agentic tasks, offering advanced capabilities for complex applications.
+
+`text-generation` `889.5B`
+
+⬇️ 10,306 • ❤️ 367 • 20h ago
 
 ---
 
@@ -520,7 +520,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 174 • 💬 2 • ⭐ 73,333 • 9mo ago
+▲ 174 • 💬 2 • ⭐ 73,391 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -546,7 +546,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 25 • 💬 2 • ⭐ 9,657 • 2mo ago
+▲ 25 • 💬 2 • ⭐ 9,724 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -574,7 +574,7 @@ olmOCR is an open-source toolkit using a fine-tuned vision language model to pro
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 82 • 💬 7 • ⭐ 79,367 • 23mo ago
+▲ 82 • 💬 7 • ⭐ 79,414 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -619,15 +619,15 @@ EverMemOS presents a self-organizing memory system for large language models tha
 
 ---
 
-**[PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://huggingface.co/papers/2006.15704)**
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
-*Shen Li, Yanli Zhao, Rohan Varma et al. (11 authors)*
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
-The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 10 • 💬 0 • ⭐ 101,483 • 73mo ago
+▲ 37 • 💬 1 • ⭐ 26,507 • 33mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2006.15704) • [💻 code](https://github.com/pytorch/pytorch)
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -641,7 +641,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 `JavaScript` `agent-skills` `ai-agents` `claude` `claude-code` `claude-code-plugin`
 
-⭐ 73.8k • 🔱 3.9k • 2d ago
+⭐ 73.9k • 🔱 3.9k • 3d ago
 
 ---
 
@@ -651,7 +651,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.4k • 🔱 1.1k • 4h ago
+⭐ 11.4k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -661,7 +661,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.2k • 🔱 813 • 9h ago
+⭐ 6.2k • 🔱 815 • 7m ago
 
 ---
 
@@ -671,7 +671,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.6k • 🔱 729 • 4h ago
+⭐ 5.6k • 🔱 732 • 5h ago
 
 ---
 
@@ -691,7 +691,7 @@ Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Prod
 
 `JavaScript` `agent-skills` `claude` `claude-code` `claude-design` `cursor`
 
-⭐ 2.3k • 🔱 180 • 1d ago
+⭐ 2.3k • 🔱 180 • 2d ago
 
 ---
 

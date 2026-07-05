@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-04T22:32:52.748852+00:00'
+updated: '2026-07-05T00:02:15.345489+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 04, 2026 at 22:32 UTC  
+**Last Updated:** July 05, 2026 at 00:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.0%  
-**7d:** +6.2%  
-**30d:** +3.5%  
-**90d:** -8.2%  
-**1y:** -41.6%  
+**7d:** +4.7%  
+**30d:** +3.6%  
+**90d:** -12.3%  
+**1y:** -42.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1270.75B
+**Market Cap:** $1265.18B
 Rank #1
 
-**Circulating Supply:** 20,052,143 BTC
+**Circulating Supply:** 20,052,203 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-50.0%
 
 **All-Time Low:** $67.81
-+93358.2%
++92943.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I think he's gonna make it.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,13 +95,13 @@ I think he's gonna make it.
 
 Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
 
-5h ago
+7h ago
 
 ---
 
 **[Let’s go ! BTC to Moon](https://www.reddit.com/r/Bitcoin/comments/1un64i2/lets_go_btc_to_moon/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. G
 
 Is it me or is the most compelling, motivating, and greatest achievement of my life to get to one Bitcoin right now? All I want is one, who knows from there, but in my mind I’ll be like holy shit I did it ✅
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Is it me or is the most compelling, motivating, and greatest achievement of my l
 
 every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
 
-1h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ every red day, same ritual.. open the app, close it, open it again five minutes 
 
 I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
 
-7h ago
+9h ago
 
 ---
 
@@ -153,27 +153,11 @@ Bitcoin! Bitcoin! Bitcoin!
 
 ## Google News: "bitcoin"
 
-**[BTC price news: Bitcoin retakes $63,000, reversing end-June losses](https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses)**
+**[A plan to freeze the creator's Bitcoin sparks fierce debate over crypto rules](https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows)**
 
-The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
+Industry leaders warn that locking up Satoshi Nakamoto's wallet crosses a dangerous line and goes against the foundational ethos of digital assets.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
-
-Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’](https://www.forbes.com/sites/digital-assets/2026/07/04/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
-
-The U.S. economy has delivered bad news for the bitcoin price and crypto market...
-
-Forbes • 10h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -185,27 +169,11 @@ Fox Business • 1d ago
 
 ---
 
-**[JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-says-saylor-strategy-adds-164549503.html)**
+**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://finance.yahoo.com/markets/crypto/articles/strategy-just-announced-major-shake-225500473.html)**
 
-(Bloomberg) -- JPMorgan Chase & Co. warns that Michael Saylor’s financing overhaul at Strategy Inc. has shaken up the dynamics of the Bitcoin market by introducing the risk that one of the cryptocurrency’s biggest buyers could also become a seller, adding a new source of uncertainty for investors.Most Read from BloombergExxon to Change Name for First Time in Decades After RedomicileMeta Is Planning a Cloud Business to Sell AI Computing PowerGermany Rejects Trump’s Demands for NATO Loyalty to Was
+The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy](https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/)**
-
-The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.
-
-Fortune • 3d ago
-
----
-
-**[Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something Ƀetter'](https://www.tradingview.com/news/stocktwits:ed0d81b83094b:0-strategy-s-michael-saylor-turns-elon-musk-s-viral-july-4-video-into-a-bitcoin-pitch-we-can-still-make-something-etter/)**
-
-Tesla (TSLA) and SpaceX (SPCX) CEO Elon Musk posted an Artificial intelligence (AI)-generated patriotic video on Saturday, and Strategy’s (MSTR) co-founder, Michael Saylor, used it as a Bitcoin pitch, replying to it with a one-line message swapping the letter B for the Bitcoin symbol."We can still…
-
-TradingView • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -221,15 +189,45 @@ The Block • 1d ago
 
 Bitcoin may be down, but it isn't out.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[‘Exactly What Warsh Is Afraid Of’—Bitcoin’s Fed Nightmare Is Suddenly Coming True](https://www.forbes.com/sites/digital-assets/2026/07/02/exactly-what-warsh-is-afraid-of-bitcoins-fed-nightmare-is-suddenly-coming-true/)**
+**[Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal](https://www.tradingview.com/news/cointelegraph:66cebb0d4094b:0-bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal/)**
 
-The U.S. economy has delivered bad news for the bitcoin price and crypto market...
+Bitcoin (BTC) is completing a “perfectly fractal” reversal pattern that a well-known analyst hopes could end the bear market.Key points:John Bollinger hints BTC price "W" reversal could break bearsIn X posts on Friday, John Bollinger, creator of the Bollinger Bands volatility indicator, eyed a “W”…
 
-Forbes • 2d ago
+TradingView • 10h ago
+
+---
+
+**[BTC price news: Bitcoin retakes $63,000, reversing end-June losses](https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses)**
+
+The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.
+
+CoinDesk • 5h ago
+
+---
+
+**[BTC price news: Ether, solana extend gains as short squeeze lifts bitcoin to $62,000](https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000)**
+
+Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin jumps as monthly jobs report comes in cooler than expected](https://finance.yahoo.com/markets/article/bitcoin-jumps-as-monthly-jobs-report-comes-in-cooler-than-expected-135630276.html)**
+
+Bitcoin jumped after the monthly jobs report showed the labor market doesn't appear to be overheating.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
+
+Investing.com • 14h ago
 
 ---
 
@@ -251,6 +249,14 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 ---
 
+**[Markovian – keyless, Bitcoin-anchored provenance for AI agent outputs](https://news.ycombinator.com/item?id=48745637)**
+
+One
+
+⬆️ 3 • 💬 0 • 3d ago • [markovianprotocol.com](https://markovianprotocol.com)
+
+---
+
 **[Show HN: A site that emails you the day your Bitcoin stack hits $1M](https://news.ycombinator.com/item?id=48713134)**
 
 Tell us your Bitcoin stack. We'll email you the day you're a millionaire — then go live your life.
@@ -259,11 +265,13 @@ Tell us your Bitcoin stack. We'll email you the day you're a millionaire — the
 
 ---
 
-**[Markovian – keyless, Bitcoin-anchored provenance for AI agent outputs](https://news.ycombinator.com/item?id=48745637)**
+**[Recovering garbled Bitcoin addresses (2024)](https://news.ycombinator.com/item?id=48789917)**
 
-One
+ZeroNet is a decentralized network that enables dynamic sites, such as blogs and forums, unlike popular content-addressed storage networks that came later. Sites aren’t addressed by immutable hashes; instead, site updates are signed by Bitcoin addresses.
+A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
+Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 2 • 💬 0 • 3d ago • [markovianprotocol.com](https://markovianprotocol.com)
+⬆️ 2 • 💬 0 • 49m ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -291,28 +299,6 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 ---
 
-**[Bitpoint: Turn a directory of Python files into HTTP endpoints](https://news.ycombinator.com/item?id=48788823)**
-
-Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
-
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/tanrax/bitpoint)
-
----
-
-**[Claude Fable is useless for bioinformaticians](https://news.ycombinator.com/item?id=48778446)**
-
-⬆️ 6 • 💬 6 • 1d ago
-
----
-
-**[Ditching Claude for OpenCode and OpenRouter](https://news.ycombinator.com/item?id=48744344)**
-
-For the entirety of June I ditched Claude Code and have been using open weight models with Opencode and openrouter.ai. Here's how things went.
-
-⬆️ 4 • 💬 3 • 3d ago • [ianwootten.co.uk](https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -323,7 +309,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 38K • 👍 2K • 💬 67 • ⏱️ 55:12 • 9h ago
+👁️ 44K • 👍 2K • 💬 72 • ⏱️ 55:12 • 11h ago
+
+---
+
+**[Cantor Just Called the Bitcoin Bottom! | Here&#39;s What Nobody Is Connecting](https://www.youtube.com/watch?v=LtgCigBQwvY)**
+
+Bitcoin is flashing multiple signals that have marked major turning points in past cycles. Wall Street, whale accumulation, ETF ...
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 586 • 💬 35 • ⏱️ 16:52 • 7h ago
 
 ---
 
@@ -333,7 +329,7 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 52K • 👍 3K • 💬 279 • ⏱️ 20:33 • 2d ago
+👁️ 53K • 👍 3K • 💬 287 • ⏱️ 20:33 • 2d ago
 
 ---
 
@@ -343,7 +339,17 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 77K • 👍 3K • 💬 744 • ⏱️ 18:41 • 7h ago
+👁️ 106K • 👍 4K • 💬 861 • ⏱️ 18:41 • 8h ago
+
+---
+
+**[The Crypto Market Sell-Off Has Just Begun | Gary Cardone](https://www.youtube.com/watch?v=QWVR5WqiTvY)**
+
+Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: https://x.com/GaryCardone Buy, Sell, Trade ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 658 • 💬 122 • ⏱️ 53:28 • 6h ago
 
 ---
 
@@ -353,7 +359,17 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 125 • ⏱️ 3:08 • 1d ago
+👁️ 50K • 👍 3K • 💬 125 • ⏱️ 3:08 • 1d ago
+
+---
+
+**[Major Breakouts In Crypto: Bull Run or Fake Out? - Gareth Soloway](https://www.youtube.com/watch?v=25wx6Lf5YwI)**
+
+Take Control of Your Money Easily with Rumble Wallet. Download now at http://wallet.rumble.com/Verified. No B.S....Just Charts!
+
+📺 Gareth Soloway
+
+👁️ 35K • 👍 2K • 💬 283 • ⏱️ 15:57 • 8h ago
 
 ---
 
@@ -363,7 +379,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 511 • 💬 60 • ⏱️ 9:15 • 1d ago
+👁️ 9K • 👍 515 • 💬 60 • ⏱️ 9:15 • 1d ago
 
 ---
 
@@ -371,27 +387,7 @@ Welcome back! iTrust Capital (Crypto IRA) https://bit.ly/AaronBennett-iTrustCapi
 
 📺 Digital Asset Investor
 
-👁️ 20K • 👍 699 • ⏱️ 0:37 • 1d ago
-
----
-
-**[BREAKING: The REAL Reason for JP Morgans ATTACK on MSTR Was JUST REVEALED | EP 1540](https://www.youtube.com/watch?v=sIXuttHEOVA)**
-
-JP MORGAN'S NEW ATTACK ON MICROSTRATEGY WAS JUST EXPOSED!
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 418 • 💬 90 • ⏱️ 1:23:56 • 1d ago
-
----
-
-**[they found the creator of Bitcoin](https://www.youtube.com/watch?v=sIvJqfTkv38)**
-
-Claim your free 1-on-1 investment consultation: https://theproactivethinker.com/ The Investing Academy: ...
-
-📺 Proactive Thinker
-
-👁️ 11K • 👍 469 • 💬 19 • ⏱️ 0:59 • 16h ago
+👁️ 20K • 👍 710 • ⏱️ 0:37 • 1d ago
 
 ---
 
@@ -401,17 +397,7 @@ chael Saylor owns so much Bitcoin that if he starts selling, it's a black swan e
 
 📺 Kamilah Stevenson
 
-👁️ 15K • 👍 340 • 💬 28 • ⏱️ 0:22 • 2d ago
-
----
-
-**[Bitcoin Bull Signal Just Flashed](https://www.youtube.com/watch?v=_uD-min90FE)**
-
-AskClash - *AI Market Intelligence, Tools, and Live Answers* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 802 • 💬 73 • ⏱️ 40:40 • 1d ago
+👁️ 15K • 👍 345 • 💬 28 • ⏱️ 0:22 • 2d ago
 
 ---
 
