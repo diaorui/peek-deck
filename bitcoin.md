@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-05T11:54:06.245762+00:00'
+updated: '2026-07-05T13:40:54.880087+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 11:54 UTC  
+**Last Updated:** July 05, 2026 at 13:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1255.57B
+**Market Cap:** $1256.28B
 Rank #1
 
-**Circulating Supply:** 20,052,387 BTC
+**Circulating Supply:** 20,052,459 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.3%
 
 **All-Time Low:** $67.81
-+92218.2%
++92290.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I think he's gonna make it.
 
-16h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ I think he's gonna make it.
 
 Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
 
-18h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ Is it me or is the most compelling, motivating, and greatest achievement of my l
 
 every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ every red day, same ritual.. open the app, close it, open it again five minutes 
 
 I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
 
-21h ago
+22h ago
 
 ---
 
@@ -157,37 +157,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow](https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow)**
-
-Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
-
-The Block • 11h ago
-
----
-
-**[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
-
-Investing.com • 1d ago
-
----
-
-**[Why Money Is Leaving Bitcoin for Hyperliquid](https://247wallst.com/investing/cryptocurrency/2026/07/03/why-money-is-leaving-bitcoin-for-hyperliquid/)**
-
-Bitcoin ETFs lost a record $4.5 billion in a month while Hyperliquid's new funds have never had a losing week. Here's why money is moving.
-
-24/7 Wall St. • 1d ago
-
----
-
-**[The Crypto Fear and Greed Index Is Flashing Red. This Is the Only Cryptocurrency I'm Buying Right Now.](https://finance.yahoo.com/markets/crypto/articles/crypto-fear-greed-index-flashing-100100169.html)**
-
-When it comes to Bitcoin, now is the time to take a contrarian approach.
-
-Yahoo Finance • 1h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -199,19 +169,47 @@ Fox Business • 2d ago
 
 ---
 
+**[Bitcoin's Entire Return Hinges On Just 10 Days A Year, Says BitMine’s Tom Lee](https://finance.yahoo.com/markets/crypto/articles/bitcoins-entire-return-hinges-just-115422055.html)**
+
+Lee stated the Ethereum treasury business has $600 million in cash, staked 80% of its ETH, and earns over $250 million in staking incentives.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin trades above $62K as U.S. crypto bill gains fresh traction](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415)**
+
+Investing.com • 3h ago
+
+---
+
 **[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://www.fool.com/investing/2026/07/04/strategy-major-shake-up-bitcoin-mstr-stock/)**
 
 The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
 
-The Motley Fool • 12h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin Just Survived A 'Hostile Takeover' Attempt, Say Michael Saylor And David Bailey — Here's What Happened](https://www.tradingview.com/news/stocktwits:ebf8dc018094b:0-bitcoin-just-survived-a-hostile-takeover-attempt-say-michael-saylor-and-david-bailey-here-s-what-happened/)**
+**[Bitcoin slips as institutional inflows, corporate strategies remain in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-as-institutional-inflows-and-corporate-strategies-remain-in-focus-4775351)**
 
-The hotly debated soft fork BIP-110 proposal has failed to garner any major network support ahead of its activation deadline, with Strategy (MSTR) Executive Chairman Michael Saylor and Nakamoto (NAKA) CEO David Bailey posting their support for Bitcoin’s (BTC) governance model over the weekend.“Hard…
+Investing.com • 1d ago
 
-TradingView • 1h ago
+---
+
+**[Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow](https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow)**
+
+Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
+
+The Block • 13h ago
+
+---
+
+**[Bitcoin ETFs Just Had Their Worst Month Ever. Here's Why I'm Not Worried About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-just-had-worst-141200170.html)**
+
+Bitcoin ETF inflows are likely to return as soon as the price of Bitcoin stabilizes.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -223,11 +221,11 @@ Forbes • 1d ago
 
 ---
 
-**[Cipher Digital: From Bitcoin Miner To AI Infrastructure Landlord (NASDAQ:CIFR)](https://seekingalpha.com/article/4919898-cipher-digital-from-bitcoin-miner-to-ai-infrastructure-landlord)**
+**[Bitcoin Just Survived A 'Hostile Takeover' Attempt, Say Michael Saylor And David Bailey — Here's What Happened](https://www.tradingview.com/news/stocktwits:ebf8dc018094b:0-bitcoin-just-survived-a-hostile-takeover-attempt-say-michael-saylor-and-david-bailey-here-s-what-happened/)**
 
-Cipher Digital pivots from Bitcoin mining to AI data center landlord with $11.4B leases. Click for more on CIFR stock.
+The hotly debated soft fork BIP-110 proposal has failed to garner any major network support ahead of its activation deadline, with Strategy (MSTR) Executive Chairman Michael Saylor and Nakamoto (NAKA) CEO David Bailey posting their support for Bitcoin’s (BTC) governance model over the weekend.“Hard…
 
-Seeking Alpha • 36m ago
+TradingView • 3h ago
 
 ---
 
@@ -241,7 +239,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 13 • 💬 1 • 12h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 13 • 💬 1 • 14h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -255,7 +253,7 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 **[Strategy Says It May Sell Up to $1.25B of Bitcoin](https://news.ycombinator.com/item?id=48718522)**
 
-⬆️ 5 • 💬 2 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
+⬆️ 5 • 💬 2 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin)
 
 ---
 
@@ -263,7 +261,7 @@ Jeremy Grantham renewed his long-running criticism of bitcoin, predicting it wil
 
 One
 
-⬆️ 3 • 💬 0 • 3d ago • [markovianprotocol.com](https://markovianprotocol.com)
+⬆️ 3 • 💬 0 • 4d ago • [markovianprotocol.com](https://markovianprotocol.com)
 
 ---
 
@@ -295,7 +293,7 @@ How soon we forget that cryptocurrencies were given life by the instability of f
 
 When a coding agent explores a large codebase, is text search enough — or does it need fast-light structural (tree-sitter) or authoritative semantic (LSP) navigation? Evidence, not opinion.
 
-⬆️ 3 • 💬 2 • 4d ago • [is grep enough?](https://entelligentsia.github.io/is-grep-enough/)
+⬆️ 3 • 💬 2 • 5d ago • [is grep enough?](https://entelligentsia.github.io/is-grep-enough/)
 
 ---
 
@@ -303,7 +301,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 15h ago • [GitHub](https://github.com/tanrax/bitpoint)
+⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/tanrax/bitpoint)
 
 ---
 
@@ -317,7 +315,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 63K • 👍 2K • 💬 77 • ⏱️ 55:12 • 22h ago
+👁️ 66K • 👍 3K • 💬 88 • ⏱️ 55:12 • 1d ago
 
 ---
 
@@ -327,7 +325,7 @@ Bitcoin is flashing multiple signals that have marked major turning points in pa
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 909 • 💬 54 • ⏱️ 16:52 • 19h ago
+👁️ 10K • 👍 986 • 💬 146 • ⏱️ 16:52 • 20h ago
 
 ---
 
@@ -337,17 +335,7 @@ Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: h
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 194 • ⏱️ 53:28 • 18h ago
-
----
-
-**[Why the Bitcoin Crash is GREAT for YOU](https://www.youtube.com/watch?v=eyyDNAj6K_c)**
-
-Bitcoin didn't crash because the system broke, it crashed because that's exactly what the market needed. While millions of ...
-
-📺 The Infographics Show
-
-👁️ 180K • 👍 5K • 💬 1K • ⏱️ 18:41 • 20h ago
+👁️ 22K • 👍 1K • 💬 276 • ⏱️ 53:28 • 19h ago
 
 ---
 
@@ -357,7 +345,17 @@ Bitcoin was called dead again — but while the panic was spreading, whales were
 
 📺 Simply Bitcoin
 
-👁️ 55K • 👍 4K • 💬 285 • ⏱️ 20:33 • 2d ago
+👁️ 55K • 👍 4K • 💬 315 • ⏱️ 20:33 • 2d ago
+
+---
+
+**[Why the Bitcoin Crash is GREAT for YOU](https://www.youtube.com/watch?v=eyyDNAj6K_c)**
+
+Bitcoin didn't crash because the system broke, it crashed because that's exactly what the market needed. While millions of ...
+
+📺 The Infographics Show
+
+👁️ 194K • 👍 5K • 💬 1K • ⏱️ 18:41 • 22h ago
 
 ---
 
@@ -367,7 +365,17 @@ Subscribe. Before the money moves. Law enforcement opposition to the CLARITY Act
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 208 • 💬 109 • ⏱️ 16:38 • 13h ago
+👁️ 3K • 👍 223 • 💬 99 • ⏱️ 16:38 • 15h ago
+
+---
+
+**[Major Breakouts In Crypto: Bull Run or Fake Out? - Gareth Soloway](https://www.youtube.com/watch?v=25wx6Lf5YwI)**
+
+Take Control of Your Money Easily with Rumble Wallet. Download now at http://wallet.rumble.com/Verified. No B.S....Just Charts!
+
+📺 Gareth Soloway
+
+👁️ 54K • 👍 3K • 💬 364 • ⏱️ 15:57 • 22h ago
 
 ---
 
@@ -381,13 +389,13 @@ Let's talk about Bitcoin and the beauty of mathematics! Come to the 1st ITC Conf
 
 ---
 
-**[THIS IS DANGEROUS FOR BITCOIN...](https://www.youtube.com/watch?v=49Ma5FWkzS8)**
+**[Did you miss the BTC bottom? +🚨 Urgent SPY technicals for this Week](https://www.youtube.com/watch?v=FN1fkrNXaYQ)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using this for Charting ...
 
-📺 Crypto Rover
+📺 Stocks with Josh
 
-👁️ 3K • 👍 390 • 💬 149 • ⏱️ 5:15 • 3h ago
+👁️ 18K • 👍 1K • 💬 78 • ⏱️ 10:20 • 14h ago
 
 ---
 
@@ -397,17 +405,7 @@ Join in on my in-person Meet & Greet on July 8th in Manhattan, NYC: ...
 
 📺 Minority Mindset
 
-👁️ 131K • 👍 4K • 💬 823 • ⏱️ 18:19 • 2d ago
-
----
-
-**[Bitcoin Live Trading: The Weekend Starts Here! BTC Is Ready to Make a Move EP2051](https://www.youtube.com/watch?v=o9N0eKUPxB4)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to the ...
-
-📺 Crypto Lifer
-
-👁️ 3K • 👍 251 • 💬 15 • ⏱️ 30:31 • 9h ago
+👁️ 135K • 👍 4K • 💬 911 • ⏱️ 18:19 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T11:54:06.251009+00:00'
+updated: '2026-07-05T13:40:54.885631+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 11:54 UTC  
+**Last Updated:** July 05, 2026 at 13:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
+**24h:** -0.4%  
 **7d:** +9.3%  
 **30d:** +12.3%  
 **90d:** -21.4%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $212.07B
+**Market Cap:** $212.64B
 Rank #2
 
 **Circulating Supply:** 120,683,221 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--64.5%
+-64.4%
 
 **All-Time Low:** $0.43
-+405698.0%
++406841.2%
 
 ---
 
@@ -112,7 +112,7 @@ One day the world will wake up and see Ethereum as fraud prevention instead of f
 
 Ethereum basics for governments & institutions, Ethereum Institutional launched, Robinhood Chain live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-30/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-30/) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Bitcoin Suisse has been active in the institutional crypto industry since its ea
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ Coinpedia • 1d ago
 
 The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -198,6 +198,14 @@ FXStreet • 1d ago
 
 ---
 
+**[Grayscale’s Ethereum Mini Trust Hit by Targeted Outflows as ETH Slide Deepens](https://www.tipranks.com/news/cryptocurrencies/grayscales-ethereum-mini-trust-hit-by-targeted-outflows-as-eth-slide-deepens)**
+
+Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
+
+TipRanks • 3h ago
+
+---
+
 **[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)**
 
 Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
@@ -206,17 +214,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Grayscale’s Ethereum Mini Trust Hit by Targeted Outflows as ETH Slide Deepens](https://www.tipranks.com/news/cryptocurrencies/grayscales-ethereum-mini-trust-hit-by-targeted-outflows-as-eth-slide-deepens)**
+**[Bitcoin and ethereum prices today, Friday, July 3, 2026: 'Green' July off to a solid start](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-3-2026-green-july-off-to-a-solid-start-131639758.html)**
 
-Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
+Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
 
-TipRanks • 1h ago
-
----
-
-**[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analys](https://www.benzinga.com/crypto/cryptocurrency/26/07/60236109/bitcoin-jumps-as-kevin-warsh-flags-inflation-concerns-analyst-says-market-bottom-is-here)**
-
-Benzinga • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -224,7 +226,7 @@ Benzinga • 3d ago
 
 The Ethereum Foundation is positioning itself for long-term success, and that's a good thing.
 
-The Motley Fool • 50m ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -232,83 +234,23 @@ The Motley Fool • 50m ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
+**[Why Ethereum Keeps Losing Its Best Builders](https://www.youtube.com/watch?v=2uhB5n639x0)**
 
-Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 Discover Crypto
+📺 Coin Bureau
 
-👁️ 6K • 👍 296 • 💬 44 • ⏱️ 1:03:50 • 1d ago
-
----
-
-**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
-
-Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
-
-📺 Paul Barron Network
-
-👁️ 28K • 👍 1K • 💬 82 • ⏱️ 25:16 • 2d ago
+👁️ 1K • 👍 111 • 💬 13 • ⏱️ 13:11 • 55m ago
 
 ---
 
-**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
+**[ETHEREUM BULLTRAP WARNING (ETH Price Prediction)](https://www.youtube.com/watch?v=Ob5tmIkG1VM)**
 
-Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Prof G Markets
+📺 Cilinix Crypto
 
-👁️ 37K • 👍 362 • 💬 95 • ⏱️ 0:58 • 1d ago
-
----
-
-**[Bitcoin at THE Bottom? ETH, Sui &amp; Cardano Charts Say This Next](https://www.youtube.com/watch?v=SCtDabHyIdI)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 698 • 💬 323 • ⏱️ 10:11 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE CONFIRMED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUsXnni3APg)**
-
-BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 349 • 💬 76 • ⏱️ 22:32 • 16h ago
-
----
-
-**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
-
-In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 170 • 💬 16 • ⏱️ 9:09 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7ZhPMmdFleU)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 652 • 👍 83 • ⏱️ 7:59 • 6h ago
-
----
-
-**[ETHEREUM &amp; SOLANA ANOTHER BOTTOM SIGNAL JUST FLASHED](https://www.youtube.com/watch?v=0lkyEssRrrA)**
-
-Welcome Back To The Channel! RAIN — The Most Powerful Prediction Markets ...
-
-📺 Tyler Hill Crypto
-
-👁️ 5K • 👍 204 • 💬 49 • ⏱️ 16:24 • 1d ago
+👁️ 175 • 👍 15 • 💬 10 • ⏱️ 4:35 • 3h ago
 
 ---
 
@@ -318,17 +260,77 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 145 • 💬 16 • ⏱️ 18:59 • 19h ago
+👁️ 4K • 👍 154 • 💬 116 • ⏱️ 18:59 • 21h ago
 
 ---
 
-**[Something Just Broke In The Crypto Market Bitcoin &amp; Ethereum Will Be Affected By This Major Event](https://www.youtube.com/watch?v=04O1MrB1214)**
+**[Ethereum &amp; Cardano Pumping (Altcoin Accumulation Zone)](https://www.youtube.com/watch?v=mkLGIZriGow)**
 
-Just when you thought it was safe to go back into the crypto pool... we get some pretty intense news coming from both Ethereum ...
+Ethereum is back and the crypto market is heating up—but is this the start of altcoin season? Today we cover the latest crypto ...
 
-📺 The Modern Investor
+📺 Discover Crypto
 
-👁️ 6K • 👍 581 • 💬 243 • ⏱️ 31:47 • 1d ago
+👁️ 6K • 👍 299 • 💬 43 • ⏱️ 1:03:50 • 1d ago
+
+---
+
+**[Robinhood Chain Launch on Ethereum Skyrockets!!🚀Steven Goldfelder INTERVIEW🔥Arbitrum](https://www.youtube.com/watch?v=7yggA3nrlds)**
+
+Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap active ...
+
+📺 Paul Barron Network
+
+👁️ 28K • 👍 1K • 💬 85 • ⏱️ 25:16 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=7ZhPMmdFleU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 1K • 👍 96 • ⏱️ 7:59 • 8h ago
+
+---
+
+**[Bitcoin at THE Bottom? ETH, Sui &amp; Cardano Charts Say This Next](https://www.youtube.com/watch?v=SCtDabHyIdI)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+
+📺 Crypto Capital Venture
+
+👁️ 12K • 👍 710 • 💬 338 • ⏱️ 10:11 • 1d ago
+
+---
+
+**[Tom Lee just bought $40M of Ethereum (when it&#39;s down almost 50% in 6 months)](https://www.youtube.com/watch?v=eR6MQVGZnc0)**
+
+Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "Tom, crypto is well off its highs. Bitcoin's been ...
+
+📺 Prof G Markets
+
+👁️ 39K • 👍 387 • 💬 100 • ⏱️ 0:58 • 1d ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE CONFIRMED (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=cUsXnni3APg)**
+
+BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 370 • 💬 230 • ⏱️ 22:32 • 18h ago
+
+---
+
+**[Ethereum Price Analysis: Can ETH Reclaim Resistance](https://www.youtube.com/watch?v=BNEQzrP2nxc)**
+
+In this video I break down the latest Ethereum price action and analyze whether this bounce is the start of a broader bull run or a ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 172 • 💬 16 • ⏱️ 9:09 • 1d ago
 
 ---
 
