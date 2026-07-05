@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T10:19:43.232132+00:00'
+updated: '2026-07-05T11:54:06.253932+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 10:19 UTC  
+**Last Updated:** July 05, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Booster Robotics on 𝕏: "One save. Countless hours of development.": https://x.com/boosterobotics/status/2073359730161103088
 
-23h ago
+1d ago
 
 ---
 
@@ -50,13 +50,13 @@ From Booster Robotics on 𝕏: "One save. Countless hours of development.": http
 
 After designing and printing the gearbox in-house, it’s time to see how much torque it can actually handle. Early results look promising — more testing and improvements coming soon!
 
-13h ago
+15h ago
 
 ---
 
 **[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -64,7 +64,7 @@ After designing and printing the gearbox in-house, it’s time to see how much t
 
 The original home of robotics! 🦞 The Massachusetts ecosystem is one of the world's leading hubs for robotics, combining top research, companies, and deep-tech investment. At its core are Massachusetts Institute of Technology (MIT) and Harvard University, which produce world-class researchers, engineers, and robotics startups. Many of today's leading robotics companies trace their roots back to these universities. The region is also home to companies like Boston Dynamics, whose work has inspired advances in humanoid and mobile robots. Around these companies, a dense network of suppliers, experienced engineers, entrepreneurs, and investors has developed, making it easier for new startups to build and scale. Massachusetts also has one of the strongest deep-tech funding ecosystems in the world, with venture capital firms that understand robotics, AI, and hardware. The Massachusetts robotics ecosystem is further strengthened by leading research organizations such as Toyota Research Institute and RAI Institute, which are advancing AI, dexterous manipulation, and next-generation robotics while attracting world-class researchers and engineers. Not to mention initiatives like MassRobotics which is home to so many great robotics companies (a separate map of MassRobotics companies will be released soon). ‼️ Note that Massachusetts has more than 500 robotics companies, research labs, and innovation hubs, so this is a curated selection of the notable product companies, not an exhaustive census! P.S. I'm constantly working on improving these maps, so if your company is missing - no bad blood - I'll try to include it in the next edition. Credits: me
 
-21h ago
+23h ago
 
 ---
 
@@ -72,13 +72,13 @@ The original home of robotics! 🦞 The Massachusetts ecosystem is one of the wo
 
 Tried the prompt "Implement a walking sequence in the quadruped simulation" in Drift and ended up with this. Current progress: Basic gait working Forward motion achieved Simulation running consistently Still trying to improve stability and make the gait look more natural. Open to any suggestions on what to explore next.
 
-16h ago
+18h ago
 
 ---
 
 **[Hotel staffed entirely by robots opens next year](https://www.reddit.com/r/robotics/comments/1unbzzg/hotel_staffed_entirely_by_robots_opens_next_year/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -86,7 +86,7 @@ Tried the prompt "Implement a walking sequence in the quadruped simulation" in D
 
 I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
 
-12h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ These are gripper jaws we make for our open source grippers but the STEP files c
 
 From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1
 
-1d ago
+2d ago
 
 ---
 
@@ -116,6 +116,14 @@ The Register • 3d ago
 
 ---
 
+**[China’s robot-run hotel opens to public in 2027](https://www.foxnews.com/tech/chinas-robot-run-hotel-opens-public-2027)**
+
+Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
+
+Fox News • 56m ago
+
+---
+
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
 WSJ • 1d ago
@@ -126,13 +134,13 @@ WSJ • 1d ago
 
 The unveiling of model U1, which has silicone skin and emotional AI, reflects tech firms' drive to expand robotics beyond industrial use
 
-The Star • 1d ago
+The Star • 2d ago
 
 ---
 
 **[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
 
-South China Morning Post • 48m ago
+South China Morning Post • 2h ago
 
 ---
 
@@ -140,7 +148,7 @@ South China Morning Post • 48m ago
 
 Tesla Inc. (NASDAQ:TSLA) is one of the best robotics stocks to buy. On June 25, Barclays reiterated an Equalweight rating on Tesla Inc. (NASDAQ: TSLA) and a $360 price target. The cautious outlook comes amid concerns that automotive volumes and fundamentals have taken a back seat to investor focus on future technologies. The investment bank […]
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -152,17 +160,17 @@ Futurism • 1d ago
 
 ---
 
-**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
+**[Small Business Tech News: Big Brands Rolling Out Robotics And Rolling Back AI](https://www.forbes.com/sites/quickerbettertech/2026/07/05/small-business-tech-news-big-brands-rolling-out-robotics-and-rolling-back-ai/)**
 
-Tech Xplore • 1d ago
+GM, Santander and other companies are expanding robotics and AI, but other companies are having doubts.
+
+Forbes • 54m ago
 
 ---
 
-**[Santa Cruz County robotics team captures world championship](https://pajaronian.com/santa-cruz-county-robotics-team-captures-world-championship/)**
+**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
 
-Nine months of late nights, countless repairs and more than 100 hours spent testing an underwater robot in a swimming pool paid off in a big way for a team of Santa Cruz County high school students.
-
-The Pajaronian • 2d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -171,12 +179,6 @@ The Pajaronian • 2d ago
 Your weekly selection of awesome robot videos
 
 IEEE Spectrum • 3d ago
-
----
-
-**[Hyperspace exploration using robotics for the discovery of mechanistically distinct transformations and complex functional products](https://www.nature.com/articles/s44160-026-01096-3)**
-
-Nature • 2d ago
 
 ---
 
@@ -190,7 +192,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 22K • 👍 974 • 💬 137 • ⏱️ 13:32 • 12h ago
+👁️ 22K • 👍 974 • 💬 137 • ⏱️ 13:32 • 13h ago
 
 ---
 
@@ -250,7 +252,7 @@ Reported by 卢思月 from 扬州 The Ubitech U1 humanoid robot just had its glo
 
 📺 SXE China
 
-👁️ 102K • 👍 1K • 💬 165 • ⏱️ 0:52 • 4d ago
+👁️ 102K • 👍 1K • 💬 165 • ⏱️ 0:52 • 5d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T10:19:43.228818+00:00'
+updated: '2026-07-05T11:54:06.251009+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 10:19 UTC  
+**Last Updated:** July 05, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +9.0%  
-**30d:** +12.0%  
-**90d:** -21.6%  
-**1y:** -31.6%  
+**24h:** -0.1%  
+**7d:** +9.3%  
+**30d:** +12.3%  
+**90d:** -21.4%  
+**1y:** -31.4%  
 
 ---
 
@@ -88,7 +88,7 @@ Great show everyone. Nice job. Thanks to u/tricky_troll and u/the-a-word once ag
 
 Ethereum has fast L2s, stablecoins and a much better user experience than it did a few years ago, yet most people still don't use it for everyday payments. What's the biggest thing holding it back? I'm curious to hear what everyone thinks. Thanks
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Bitcoin Suisse has been active in the institutional crypto industry since its ea
 
 Don't sleep on Ethereum. Its prowess in decentralized finance (DeFi) could make it a big winner.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -198,14 +198,6 @@ FXStreet • 1d ago
 
 ---
 
-**[Step Finance exploiter sells $21M in SOL, buys ETH and launders funds through Tornado Cash](https://cryptobriefing.com/step-finance-exploiter-launders-funds-tornado-cash/)**
-
-The Step Finance exploiter sold $21M in stolen SOL, bridged funds to Ethereum, and laundered proceeds through Tornado Cash after the $27-30M DeFi hack.
-
-Crypto Briefing • 2h ago
-
----
-
 **[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)**
 
 Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
@@ -218,13 +210,21 @@ Decrypt • 2d ago
 
 Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
 
-TipRanks • 1m ago
+TipRanks • 1h ago
 
 ---
 
 **[Bitcoin Spikes as Kevin Warsh Flags Inflation Concerns; Ethereum, XRP, Dogecoin Also Gain: Popular Analys](https://www.benzinga.com/crypto/cryptocurrency/26/07/60236109/bitcoin-jumps-as-kevin-warsh-flags-inflation-concerns-analyst-says-market-bottom-is-here)**
 
 Benzinga • 3d ago
+
+---
+
+**[Is Ethereum in Trouble or Not? Major Changes at the Ethereum Foundation Are Bullish For ETH.](https://www.fool.com/investing/2026/07/05/is-ethereum-in-trouble-or-not-major-changes-at-the/)**
+
+The Ethereum Foundation is positioning itself for long-term success, and that's a good thing.
+
+The Motley Fool • 50m ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 349 • 💬 76 • ⏱️ 22:32 • 14h ago
+👁️ 7K • 👍 349 • 💬 76 • ⏱️ 22:32 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 652 • 👍 83 • ⏱️ 7:59 • 4h ago
+👁️ 652 • 👍 83 • ⏱️ 7:59 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 145 • 💬 16 • ⏱️ 18:59 • 18h ago
+👁️ 4K • 👍 145 • 💬 16 • ⏱️ 18:59 • 19h ago
 
 ---
 

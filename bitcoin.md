@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-05T10:19:43.222827+00:00'
+updated: '2026-07-05T11:54:06.245762+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 10:19 UTC  
+**Last Updated:** July 05, 2026 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,616.45
+### $62,690.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +4.0%  
+**24h:** +0.0%  
+**7d:** +4.1%  
 **30d:** +2.9%  
 **90d:** -12.9%  
 **1y:** -42.6%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I think he's gonna make it.
 
-15h ago
+16h ago
 
 ---
 
@@ -95,13 +95,13 @@ I think he's gonna make it.
 
 Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
 
-17h ago
+18h ago
 
 ---
 
 **[Let’s go ! BTC to Moon](https://www.reddit.com/r/Bitcoin/comments/1un64i2/lets_go_btc_to_moon/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Is it me or is the most compelling, motivating, and greatest achievement of my l
 
 every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
 
-13h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ every red day, same ritual.. open the app, close it, open it again five minutes 
 
 I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
 
-19h ago
+21h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 4h ago
 
 Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -187,15 +187,7 @@ Bitcoin ETFs lost a record $4.5 billion in a month while Hyperliquid's new funds
 
 When it comes to Bitcoin, now is the time to take a contrarian approach.
 
-Yahoo Finance • 18m ago
-
----
-
-**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://www.fool.com/investing/2026/07/04/strategy-major-shake-up-bitcoin-mstr-stock/)**
-
-The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
-
-The Motley Fool • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,7 +195,23 @@ The Motley Fool • 10h ago
 
 Barstool Sports founder Dave Portnoy admits he doesn't have plans to sell Bitcoin despite its volatile nature and his struggle to predict the cryptocurrency's next move.
 
-Fox Business • 1d ago
+Fox Business • 2d ago
+
+---
+
+**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://www.fool.com/investing/2026/07/04/strategy-major-shake-up-bitcoin-mstr-stock/)**
+
+The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
+
+The Motley Fool • 12h ago
+
+---
+
+**[Bitcoin Just Survived A 'Hostile Takeover' Attempt, Say Michael Saylor And David Bailey — Here's What Happened](https://www.tradingview.com/news/stocktwits:ebf8dc018094b:0-bitcoin-just-survived-a-hostile-takeover-attempt-say-michael-saylor-and-david-bailey-here-s-what-happened/)**
+
+The hotly debated soft fork BIP-110 proposal has failed to garner any major network support ahead of its activation deadline, with Strategy (MSTR) Executive Chairman Michael Saylor and Nakamoto (NAKA) CEO David Bailey posting their support for Bitcoin’s (BTC) governance model over the weekend.“Hard…
+
+TradingView • 1h ago
 
 ---
 
@@ -211,23 +219,15 @@ Fox Business • 1d ago
 
 The U.S. economy has delivered bad news for the bitcoin price and crypto market...
 
-Forbes • 22h ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin profit and loss ratio falls to 43-month low](https://www.tradingview.com/news/cointelegraph:edd60643f094b:0-bitcoin-profit-and-loss-ratio-falls-to-43-month-low/)**
+**[Cipher Digital: From Bitcoin Miner To AI Infrastructure Landlord (NASDAQ:CIFR)](https://seekingalpha.com/article/4919898-cipher-digital-from-bitcoin-miner-to-ai-infrastructure-landlord)**
 
-Bitcoin’s realized profit and loss ratio has fallen to a 43-month low of -0.35, a figure that signals extreme market-wide loss conditions but has historically coincided with market bottoms, blockchain analytics platform CryptoQuant said.The Bitcoin realized P&L ratio — which measures the net percen…
+Cipher Digital pivots from Bitcoin mining to AI data center landlord with $11.4B leases. Click for more on CIFR stock.
 
-TradingView • 1d ago
-
----
-
-**[Micron Sell-Off Signals AI Slowdown, Bitcoin Set To Be 'Best Performer': Visser](https://stocktwits.com/news-articles/markets/equity/visser-bitcoin-micron-ai-slowdown/cZmhz9nR7ka)**
-
-On Saturday, macro investor Jordi Visser said that if Bitcoin (BTC) reclaims its 200-day moving average, it would trigger “the beginning of the next phase of crypto.”
-
-Stocktwits • 1h ago
+Seeking Alpha • 36m ago
 
 ---
 
@@ -241,7 +241,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 12 • 💬 1 • 11h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 13 • 💬 1 • 12h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -303,7 +303,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 13h ago • [GitHub](https://github.com/tanrax/bitpoint)
+⬆️ 2 • 💬 0 • 15h ago • [GitHub](https://github.com/tanrax/bitpoint)
 
 ---
 
@@ -317,7 +317,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 63K • 👍 2K • 💬 77 • ⏱️ 55:12 • 21h ago
+👁️ 63K • 👍 2K • 💬 77 • ⏱️ 55:12 • 22h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is flashing multiple signals that have marked major turning points in pa
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 909 • 💬 54 • ⏱️ 16:52 • 17h ago
+👁️ 10K • 👍 909 • 💬 54 • ⏱️ 16:52 • 19h ago
 
 ---
 
@@ -337,7 +337,7 @@ Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: h
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 194 • ⏱️ 53:28 • 16h ago
+👁️ 20K • 👍 1K • 💬 194 • ⏱️ 53:28 • 18h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 180K • 👍 5K • 💬 1K • ⏱️ 18:41 • 19h ago
+👁️ 180K • 👍 5K • 💬 1K • ⏱️ 18:41 • 20h ago
 
 ---
 
@@ -367,7 +367,7 @@ Subscribe. Before the money moves. Law enforcement opposition to the CLARITY Act
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 208 • 💬 109 • ⏱️ 16:38 • 12h ago
+👁️ 2K • 👍 208 • 💬 109 • ⏱️ 16:38 • 13h ago
 
 ---
 
@@ -387,7 +387,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 390 • 💬 149 • ⏱️ 5:15 • 2h ago
+👁️ 3K • 👍 390 • 💬 149 • ⏱️ 5:15 • 3h ago
 
 ---
 
@@ -397,7 +397,7 @@ Join in on my in-person Meet & Greet on July 8th in Manhattan, NYC: ...
 
 📺 Minority Mindset
 
-👁️ 131K • 👍 4K • 💬 823 • ⏱️ 18:19 • 1d ago
+👁️ 131K • 👍 4K • 💬 823 • ⏱️ 18:19 • 2d ago
 
 ---
 
@@ -407,7 +407,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 251 • 💬 15 • ⏱️ 30:31 • 7h ago
+👁️ 3K • 👍 251 • 💬 15 • ⏱️ 30:31 • 9h ago
 
 ---
 

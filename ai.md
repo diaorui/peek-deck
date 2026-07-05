@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-05T10:19:43.214210+00:00'
+updated: '2026-07-05T11:54:06.237188+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 05, 2026 at 10:19 UTC  
+**Last Updated:** July 05, 2026 at 11:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 "Surely we are going to get in trouble for doing this?"
 
-🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 15h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/us/articles/meta-paid-hundreds-contractors-pretend-130200038.html?.tsrc=daily_mail&segment_id=DY_VTO_50_Supernova&ncid=crm_19908-1475736-20260704-0--A&bt_ee=9gzHBYP4lPFkJ0sQWNTUaDg%2ByNx1IPgLBZidnverDFwSgBJNAY%2FSHqS9MjlzlxEm&bt_ts=1783187096830) • 17h ago
+
+---
+
+**[What should people learn today to stay relevant in an AI-driven future?](https://www.reddit.com/r/artificial/comments/1unzymd/what_should_people_learn_today_to_stay_relevant/)**
+
+With AI advancing so quickly, I'm trying to understand how to prepare for the next 5–10 years. A few questions I'd love to hear your thoughts on: What skills should people focus on learning now to stay relevant alongside AI? Beyond prompting, what are the most valuable AI-related skills (automation, coding, workflows, AI agents, etc.)? Which jobs or industries are likely to benefit the most, and which are at the highest risk? Do you think AI will become expensive to use in the future? Will the best models and capabilities mostly be behind paid subscriptions? If you were starting from scratch today, what would your learning roadmap look like? I'm looking for practical advice from people who actively use AI in their work or projects. Thanks!
+
+17m ago
+
+---
+
+**[AI as coworkers tools not just coding agents](https://www.reddit.com/r/artificial/comments/1unzwk7/ai_as_coworkers_tools_not_just_coding_agents/)**
+
+Hey all ​I've been evaluating the "AI coworker" approach between the new Databricks Genie One interface and Anthropic's Claude Cowork desktop agent. While both claim to move past standard chat prompts into autonomous execution, they handle data from opposite ends of the stack. Claude Cowork operates right on your computer, meaning it's incredible for unblocking local workflow bottlenecks like organizing a messy folder of exports or synthesizing a bunch of text documents into a fresh slide deck. But the moment you want a desktop agent like Claude to safely interface with live cloud warehouses, I notice some small discrepancies in performance because it lacks the necessary data context and security boundaries. Even with MCPs, it just doesn't quite get it. ​Genie One approaches the coworker role from the governance layer down. Instead of clicking around local files, it acts as a unified portal sitting directly on top of Unity Catalog and the new Genie Ontology framework. It can securely search across live tables, connect to enterprise cloud sources like SharePoint, and automate reporting directly in Slack all via MCP. The down side is it cannot access your local computer at all. Claude Cowork is the ultimate general purpose assistant imo, while Genie One is the assistant you can trust to safely self-serve analytical insights straight from the lakehouse. I think a joint architecture where Claude Cowork calls Genie One is the right approach. Thoughts?
+
+20m ago
 
 ---
 
@@ -49,15 +65,7 @@ AI news, discussions, and developments
 
 Saw a national survey from March on how people feel about AI in politics, and two numbers stuck with me. 63% said they'd be uncomfortable using an AI chatbot to help decide who to vote for, even though plenty of people are fine using chatbots to fact-check or follow issues. 80% said they're worried that AI bots, not real people, are answering the surveys that feed into policy and business decisions. It reads less like fear of the tech and more like people drawing a hard line at AI touching the actual decision. Where do folks here think that line should be? Source: https://data.verasight.io/ai/adults-views-on-ai-in-elections
 
-10h ago
-
----
-
-**[GPT-5.5 vs Claude Fable 5 vs Local Qwen: 3 AI Agents, 1 Task](https://www.reddit.com/r/artificial/comments/1unxcp5/gpt55_vs_claude_fable_5_vs_local_qwen_3_ai_agents/)**
-
-I ran the same market-entry brief through three different AI models. The result was revealing. I asked three models to independently create a client-ready market-entry brief for launching a privacy-first AI personal assistant for small businesses in the UK. The models were: Claude Fable 5 via Claude Subscription GPT-5.5 via ChatGPT/Codex qwen3.6:27b running locally via Ollama Each got the exact same task. They could use web research. They could not see each other’s answers. The brief was for a product that is local-first, helps with email, calendar, documents, reminders, research, and workflow automation, and positions itself around privacy, local storage, user control, and optional cloud model access. The target market was UK small businesses, freelancers, consultants, and agencies. The output needed to include segmentation, customer pains, competitor landscape, positioning, pricing, go-to-market strategy, risks, a 90-day launch plan, and a clear recommendation on whether the company should pursue the market. Here’s what happened. The winner: Claude Fable 5 Claude produced the strongest founder-ready strategy memo. Its biggest strength was that it made a clear strategic choice. It did not recommend launching as a generic “AI assistant for small businesses”. Instead, it recommended a focused wedge into regulated micro-practices and privacy-sensitive professional services: accountants, solicitors, bookkeepers, financial advisers, HR consultants, consultants, and agencies handling confidential client data. That was the sharpest insight in the whole comparison. Its positioning was also the strongest: That works because it does not try to out-feature Microsoft Copilot or Google Workspace. It reframes the competition around data custody, client confidentiality, and trust. Claude’s best recommendation was: don’t compete on being cheaper than Copilot. Compete on privacy, control, and workflows that cloud-first incumbents cannot credibly own. It also had the strongest risk analysis: Microsoft bundling, local model quality gaps, hardware variability, support burden, regulatory shifts, and category confusion with free local tools. Overall, Claude felt the most client-ready. GPT-5.5 was the best operator GPT-5.5 came very close. It was less punchy than Claude on positioning, but stronger on execution. It produced the most practical 90-day launch plan: choose two verticals, run workflow audits, recruit pilot firms, configure 3 to 5 daily automations per customer, measure admin hours saved, build case studies, then convert pilots into paid customers. It was also more cautious around compliance claims. That matters. A privacy-first AI product should avoid saying “GDPR-compliant by design” too casually. Better language is: “designed to reduce unnecessary data transfer and support UK GDPR obligations, subject to configuration.” GPT-5.5 was very useful for turning the strategy into an operating plan. If Claude gave the boardroom memo, GPT-5.5 gave the launch checklist. Local Qwen was better than expected The local qwen3.6:27b model produced a coherent, complete, and genuinely useful first draft. It covered all required sections. It had a competitor table, pricing hypothesis, go-to-market phases, risk table, and launch plan. For a local model, it performed well. But it had weaknesses. It made more unsupported claims. It was less disciplined with citations. It overclaimed in places, for example saying local-first meant “zero data-privacy risk”, which is not accurate. Local-first reduces risk, but it does not eliminate it. It also picked freelancers and micro-agencies as the primary beachhead. That is easier to market to, but less strategically defensible than privacy-sensitive professional services. Still, the result was good enough for internal ideation, early drafting, and private strategy work. That is important. Local models do not need to beat frontier cloud models at everything to be useful. They need to be good enough for the right part of the workflow. My ranking Claude Fable 5 Best for strategy, positioning, founder-ready narrative, and final synthesis. GPT-5.5 Best for launch planning, pilot design, pricing experiments, and operational detail. qwen3.6:27b local Best for private first drafts, brainstorming, internal notes, and cheap iteration. The bigger takeaway The best workflow was not “pick one model”. The best workflow was hybrid: Use the local model first to brainstorm privately and cheaply. Use GPT-5.5 to turn the ideas into a practical operating plan. Use Claude to sharpen the positioning and produce the final client-ready narrative. That feels like where AI work is heading. Not one model for everything. A portfolio of models, each used where it is strongest. For privacy-first products especially, local models have a clear role. They are not always the best final writer. They are not always the strongest strategist. But they are useful for private thinking, early drafting, and working with sensitive material before anything goes to the cloud. In this test, local Qwen was not the winner. But it was absolutely good enough to be part of the team. And that may be the more important result. GitHub
-
-1h ago
+12h ago
 
 ---
 
@@ -65,31 +73,7 @@ I ran the same market-entry brief through three different AI models. The result 
 
 Lot dropped this week and there's a pretty clear through-line, so figured I'd pull it together. Model releases: - OpenAI launched GPT-5.6 (Sol/Terra/Luna). The bit worth noting isn't the flagship — it's Terra, reportedly matching GPT-5.5 quality at ~2x cheaper, with Luna aimed at the low-cost end. - Google shipped Gemini 3.5 Flash (beats 3.1 Pro on several benchmarks), plus Nano Banana 2 Lite (images ~$0.034/1K-res) and Gemini Omni Flash (video ~$0.10/sec via API). - xAI made Grok 3 GA and Grok 4.1 live for everyone. Grok 5 still hasn't shipped, which is its own story at this point. Vertical / enterprise: - Anthropic launched Claude Science for pharma and lab research. Separately, the US govt lifted the export restrictions on Fable 5 / Mythos 5 that it had imposed only weeks earlier. - Mistral shipped OCR 4 (on-prem, structure-aware extraction) and is reportedly raising ~€3B at ~€20B. Open source: - Ollama crossed 52M monthly downloads, added `ollama launch` (one command to run coding agents on local or cloud models), and is now compatible with the Anthropic Messages API. - Hugging Face: agents can train models via Hub skills now; Meta + HF also launched OpenEnv for agent environments. Funding: - Together AI raised $800M Series C (~$8.3B post). Crunchbase notes ~88% of 2026 AI funding went to US companies. My take as someone building on top of these APIs: The thing I keep noticing is that the price collapse is happening across every tier simultaneously, not just at the bottom. When the "balanced" model gets 2x cheaper each generation and the Flash tier beats last year's Pro, it gets really hard to build a business whose only edge is "we use the best model." That edge evaporates on someone else's release schedule. The stuff that looked durable this week was all workflow-and-data — Claude Science, Mistral's on-prem OCR, Alibaba's agent ecosystem. Would genuinely like to hear how others here are handling multi-provider abstraction, because a surprise price or availability change shouldn't be able to wreck your margins overnight. And the frozen-then-unfrozen Anthropic thing means model availability is now a supply-chain risk, not a hypothetical.
 
-22h ago
-
----
-
-**[Meta Reportedly Strikes $6.5 Billion Deal with Samsung Foundry for 2nm AI Chips](https://www.reddit.com/r/artificial/comments/1unfzi9/meta_reportedly_strikes_65_billion_deal_with/)**
-
-Meta Platforms is reportedly investing $6.5 billion with Samsung Foundry to produce its third-generation MTIA (Meta Training and Inference Accelerator) chips using a 2nm process. This strategic move signifies a shift from TSMC and aims to reduce reliance on NVIDIA GPUs, lower supply chain risks, and support Meta's ambitious goal of 5 gigawatts of computing capacity by 2030 for its AI and cloud initiatives. The deal is expected to bolster Meta's competitive position in the rapidly evolving AI and cloud computing markets. Context Meta has been increasingly focused on artificial intelligence and cloud services, necessitating advanced computing power. The MTIA chips represent Meta's third generation of in-house processors, designed to optimize performance for AI workloads. The shift to Samsung Foundry marks a strategic pivot in Meta's manufacturing partnerships, reflecting broader industry trends towards vertical integration. Why this matters Meta's $6.5 billion investment in Samsung Foundry is a significant step towards enhancing its capabilities in AI and cloud computing. By developing its own 2nm chips, Meta aims to reduce dependence on external suppliers like TSMC and NVIDIA. This move could improve supply chain stability and operational efficiency, which are critical in the fast-paced tech landscape. Implications This deal could enhance Meta's market position by enabling it to deliver more efficient AI services. It may also influence other tech companies to reconsider their supply chains and partnerships in light of Meta's strategic shift. If successful, this initiative could lead to increased investment in domestic semiconductor manufacturing and innovation within the tech sector. What to watch In the coming months, observers should monitor the progress of the chip development and production timelines. Any announcements regarding partnerships or technological advancements from Meta or Samsung could signal the effectiveness of this collaboration. Additionally, industry reactions from competitors and suppliers will provide insights into the competitive landscape.
-
-16h ago
-
----
-
-**[★ Follow-up to "Blaming the model won't fix your workflow": the paper is now a preprint. The real learnings: composable domains, a verification ratchet, and tool naming.](https://www.reddit.com/r/artificial/comments/1unvhev/followup_to_blaming_the_model_wont_fix_your/)**
-
-A month ago I posted the very rough beginnings of a paper. That rough version did not survive: it got pulled apart and rebuilt by the very process it describes, and what came out the other side is now a proper preprint with a DOI: https://doi.org/10.5281/zenodo.21139628. Short version: the core claim held. The artifacts (specs, plans, executable graphs) and the verification gates wrapped around them have proven out on real work. Agents produce the work, the gates catch the defects, and a milestone only closes when the evidence is real, not when the model announces it is done. Honestly, though, the headline result was not the most valuable thing I got out of building it. What I actually want to pass on is three things I learned making it work. The first was composable domains. A "domain" in my setup is a bundle of instructions, skills, and tool access you hand an agent for a class of task. I built the first few as one-offs. Once I redesigned them to compose (stack cleanly, assume nothing about each other) they started turning up useful in places I had not planned for. A domain written for one workflow dropped straight into two others unchanged, and the same pattern is now carrying an entirely separate application build. Designing for composition instead of single use is the thing I would do first next time. The second was the ratchet, and it needs a concrete example. An agent once delivered a load test asserting the record count was greater than or equal to zero. Green forever, catches nothing, and it looks completely normal in review. So the loop now runs like this: acceptance criteria are written before the code exists, the coding agent never writes tests at all, a fresh session verifies the code against those criteria, only then does another session derive regression tests from them, and a final step breaks the code on purpose to confirm each test can actually fail. A test that survives that is frozen, and later work runs against it and cannot silently undo it. Standards move one way only. That killed a whole class of "looks done, isn't." The third was dumber and more surprising: tool naming matters far more than it should. An agent routes off a tool's name, and the name drags the model's training priors with it. What fixed things was never cleverness: borrow names from tools the model already knows, mirror the built-in parameter vocabulary exactly (renaming one parameter from `code` to `content` ended a whole class of thrashing), and never let a familiar name lie about what the tool does. The kicker: a strong model absorbs a bad interface and hides the problem from you, so test your tool surface with the weakest model that can still do the work. Everything above runs as an open reference implementation: the orchestrator, the verification cycle, the composable domains. To set expectations, this is not another 180-line agent loop. It is the third generation of a design that got ground out until it was useful rather than until it was postable, and it has only recently earned daily-driver status. It also passes the dogfood test, since the system's own development runs through its own gates, and the deepest bugs it ever caught were in itself. Fair warning before you click: it is Common Lisp. https://gitlab.com/naive-x/experimental/cl-naive-full-stack-agentic-system Preprint is here if you want the formal version: https://doi.org/10.5281/zenodo.21139628. Happy to take questions. And one worth asking of any agent-written suite: when did a test last fail because it caught wrong code? I could not answer that for mine, and that is where all of this started.
-
-3h ago
-
----
-
-**[What's one skill that has become unexpectedly valuable over the past few years?](https://www.reddit.com/r/artificial/comments/1uner2a/whats_one_skill_that_has_become_unexpectedly/)**
-
-I've noticed that being able to summarize information clearly has become much more useful than I expected. Whether it's at work, studying, or just keeping up with news, turning a lot of information into something concise feels like a real advantage. It's interesting because a few years ago I wouldn't have considered this a "skill" worth practicing. What's something you've learned recently that turned out to be far more useful than you expected?
-
-16h ago
+1d ago
 
 ---
 
@@ -97,7 +81,31 @@ I've noticed that being able to summarize information clearly has become much mo
 
 As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson reflect on the future of fiction in an age of ChatGPT
 
-🔗 [the Guardian](https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt) • 8h ago
+🔗 [the Guardian](https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt) • 10h ago
+
+---
+
+**[Meta Reportedly Strikes $6.5 Billion Deal with Samsung Foundry for 2nm AI Chips](https://www.reddit.com/r/artificial/comments/1unfzi9/meta_reportedly_strikes_65_billion_deal_with/)**
+
+Meta Platforms is reportedly investing $6.5 billion with Samsung Foundry to produce its third-generation MTIA (Meta Training and Inference Accelerator) chips using a 2nm process. This strategic move signifies a shift from TSMC and aims to reduce reliance on NVIDIA GPUs, lower supply chain risks, and support Meta's ambitious goal of 5 gigawatts of computing capacity by 2030 for its AI and cloud initiatives. The deal is expected to bolster Meta's competitive position in the rapidly evolving AI and cloud computing markets. Context Meta has been increasingly focused on artificial intelligence and cloud services, necessitating advanced computing power. The MTIA chips represent Meta's third generation of in-house processors, designed to optimize performance for AI workloads. The shift to Samsung Foundry marks a strategic pivot in Meta's manufacturing partnerships, reflecting broader industry trends towards vertical integration. Why this matters Meta's $6.5 billion investment in Samsung Foundry is a significant step towards enhancing its capabilities in AI and cloud computing. By developing its own 2nm chips, Meta aims to reduce dependence on external suppliers like TSMC and NVIDIA. This move could improve supply chain stability and operational efficiency, which are critical in the fast-paced tech landscape. Implications This deal could enhance Meta's market position by enabling it to deliver more efficient AI services. It may also influence other tech companies to reconsider their supply chains and partnerships in light of Meta's strategic shift. If successful, this initiative could lead to increased investment in domestic semiconductor manufacturing and innovation within the tech sector. What to watch In the coming months, observers should monitor the progress of the chip development and production timelines. Any announcements regarding partnerships or technological advancements from Meta or Samsung could signal the effectiveness of this collaboration. Additionally, industry reactions from competitors and suppliers will provide insights into the competitive landscape.
+
+17h ago
+
+---
+
+**[★ Follow-up to "Blaming the model won't fix your workflow": the paper is now a preprint. The real learnings: composable domains, a verification ratchet, and tool naming.](https://www.reddit.com/r/artificial/comments/1unvhev/followup_to_blaming_the_model_wont_fix_your/)**
+
+A month ago I posted the very rough beginnings of a paper. That rough version did not survive: it got pulled apart and rebuilt by the very process it describes, and what came out the other side is now a proper preprint with a DOI: https://doi.org/10.5281/zenodo.21139628. Short version: the core claim held. The artifacts (specs, plans, executable graphs) and the verification gates wrapped around them have proven out on real work. Agents produce the work, the gates catch the defects, and a milestone only closes when the evidence is real, not when the model announces it is done. Honestly, though, the headline result was not the most valuable thing I got out of building it. What I actually want to pass on is three things I learned making it work. The first was composable domains. A "domain" in my setup is a bundle of instructions, skills, and tool access you hand an agent for a class of task. I built the first few as one-offs. Once I redesigned them to compose (stack cleanly, assume nothing about each other) they started turning up useful in places I had not planned for. A domain written for one workflow dropped straight into two others unchanged, and the same pattern is now carrying an entirely separate application build. Designing for composition instead of single use is the thing I would do first next time. The second was the ratchet, and it needs a concrete example. An agent once delivered a load test asserting the record count was greater than or equal to zero. Green forever, catches nothing, and it looks completely normal in review. So the loop now runs like this: acceptance criteria are written before the code exists, the coding agent never writes tests at all, a fresh session verifies the code against those criteria, only then does another session derive regression tests from them, and a final step breaks the code on purpose to confirm each test can actually fail. A test that survives that is frozen, and later work runs against it and cannot silently undo it. Standards move one way only. That killed a whole class of "looks done, isn't." The third was dumber and more surprising: tool naming matters far more than it should. An agent routes off a tool's name, and the name drags the model's training priors with it. What fixed things was never cleverness: borrow names from tools the model already knows, mirror the built-in parameter vocabulary exactly (renaming one parameter from `code` to `content` ended a whole class of thrashing), and never let a familiar name lie about what the tool does. The kicker: a strong model absorbs a bad interface and hides the problem from you, so test your tool surface with the weakest model that can still do the work. Everything above runs as an open reference implementation: the orchestrator, the verification cycle, the composable domains. To set expectations, this is not another 180-line agent loop. It is the third generation of a design that got ground out until it was useful rather than until it was postable, and it has only recently earned daily-driver status. It also passes the dogfood test, since the system's own development runs through its own gates, and the deepest bugs it ever caught were in itself. Fair warning before you click: it is Common Lisp. https://gitlab.com/naive-x/experimental/cl-naive-full-stack-agentic-system Preprint is here if you want the formal version: https://doi.org/10.5281/zenodo.21139628. Happy to take questions. And one worth asking of any agent-written suite: when did a test last fail because it caught wrong code? I could not answer that for mine, and that is where all of this started.
+
+4h ago
+
+---
+
+**[What's one skill that has become unexpectedly valuable over the past few years?](https://www.reddit.com/r/artificial/comments/1uner2a/whats_one_skill_that_has_become_unexpectedly/)**
+
+I've noticed that being able to summarize information clearly has become much more useful than I expected. Whether it's at work, studying, or just keeping up with news, turning a lot of information into something concise feels like a real advantage. It's interesting because a few years ago I wouldn't have considered this a "skill" worth practicing. What's something you've learned recently that turned out to be far more useful than you expected?
+
+18h ago
 
 ---
 
@@ -105,29 +113,13 @@ As allegations of LLM use rock the literary and media worlds, linguists explain 
 
 Since I am not building any tech products or coding, other than email and repots, I am not sure what else to use AI for. Are there any other creative ways you use AI for genuinely help with day to day work. Please share your ideas.
 
-23h ago
-
----
-
-**[Can AI Avatars Change How We Perceive Information? (Academic Research)](https://www.reddit.com/r/artificial/comments/1unf5gk/can_ai_avatars_change_how_we_perceive_information/)**
-
-Hello Everyone! You are invited to take part in a study exploring whether different AI avatars can shift people’s perceptions when they watch information online. The survey takes about 10 minutes to complete and is open to anyone aged 18 or older. Link to the study: https://surveyswap.io/s/ZYHW-JGAP-9UQD Thank you very much in advance for your participation!
-
-16h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)**
-
-As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
-
-TechCrunch • 16h ago
-
----
 
 **[How AI is changing language](https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt)**
 
@@ -137,37 +129,39 @@ The Guardian • 1d ago
 
 ---
 
-**[The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)**
+**[‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html)**
 
-The New York Times • 1h ago
-
----
-
-**[Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand](https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand)**
-
-Bloomberg.com • 1h ago
+The New York Times • 1d ago
 
 ---
 
-**[I visited the 'world's first' AI art museum. It was dazzling, strange, and more thought-provoking than I expected.](https://www.yahoo.com/entertainment/articles/visited-worlds-first-ai-art-081101483.html)**
+**[AI glasses promise convenience. Critics see surveillance.](https://www.nbcnews.com/tech/tech-news/ai-glasses-promise-convenience-critics-see-surveillance-rcna352316)**
 
-Dataland, "the world's first museum of AI arts," opened in Los Angeles. The art was often beautiful but hard to connect with.
+The hottest new gadget is bringing back an old fear among people in public: Being recorded without consent.
 
-Yahoo • 2h ago
+NBC News • 50m ago
+
+---
+
+**[How Hollywood’s youngest filmmakers are exposing Gen Z’s real problem with AI](https://fortune.com/2026/07/05/why-doesnt-gen-z-trust-ai-box-office-youtube-directors-backrooms-obsession/)**
+
+The generation most fluent in generative tools has least trust. A new class of box-office creators explains the contradiction and what brands need to hear.
+
+Fortune • 24m ago
+
+---
+
+**[My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat](https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7)**
+
+An 11-year-old used AI to build his own video game. His mother supports AI learning for kids at home and school.
+
+Business Insider • 47m ago
 
 ---
 
 **[AI security questions loom over NATO summit](https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758)**
 
-Politico • 14h ago
-
----
-
-**[Our teens are using AI chatbots daily. It's our fault. | Opinion](https://www.usatoday.com/story/opinion/2026/07/05/teens-using-ai-chatbots-emotional-support-mental-health-issues/90752807007/)**
-
-Kids aren’t turning to AI because it is brilliant. They are turning to it because it is available.
-
-USA Today • 1h ago
+Politico • 15h ago
 
 ---
 
@@ -175,23 +169,29 @@ USA Today • 1h ago
 
 The update will be available to all users in England by April 2028, the health service says.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
-**["We must prohibit them" says Governor Abbott about building AI data centers in rural Texas neighborhoods](https://www.cbsnews.com/texas/news/we-must-prohibit-them-says-governor-abbott-building-ai-data-centers-rural-texas-neighborhoods/)**
+**[Our teens are using AI chatbots daily. It's our fault. | Opinion](https://www.usatoday.com/story/opinion/2026/07/05/teens-using-ai-chatbots-emotional-support-mental-health-issues/90752807007/)**
 
-The Governor spoke days after Democratic candidate for Governor, State Representative Gina Hinojosa of Austin, blasted him on the issue.
+Kids aren’t turning to AI because it is brilliant. They are turning to it because it is available.
 
-CBS News • 19m ago
+USA Today • 2h ago
 
 ---
 
-**[The debate over what's making it harder for recent college grads to get hired](https://www.businessinsider.com/remote-work-ai-entry-level-hiring-new-grads-2026-7)**
+**[Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand](https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand)**
 
-Why are recent grads struggling to find jobs? Researchers debate whether remote work or AI are driving a decline in entry-level hiring.
+Bloomberg.com • 3h ago
 
-Business Insider • 35m ago
+---
+
+**[AI Startups Really Do Run Leaner, Here’s The Data](https://www.forbes.com/sites/joemckendrick/2026/07/05/ai-startups-really-do-run-leaner-heres-the-data/)**
+
+There has been an increase in the number of enterprise launches accomplished in a leaner-and-meaner fashion than ever before.
+
+Forbes • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Business Insider • 35m ago
 
 You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.
 
-⬆️ 783 • 💬 454 • 1d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+⬆️ 785 • 💬 454 • 1d ago • [Mike Bowler](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 
 ---
 
@@ -251,7 +251,7 @@ Did 47 Alabama newspapers die on a single day and no one noticed? (Hint: No, the
 
 Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody's building the next generation of senior engineers.
 
-⬆️ 90 • 💬 175 • 14h ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
+⬆️ 92 • 💬 176 • 16h ago • [seldo.com](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 
 ---
 
@@ -263,11 +263,9 @@ The real ROI of AI for knowledge work: the task-level gains (Noy-Zhang, Brynjolf
 
 ---
 
-**[Weird Al Yankovic Pulled Out of AI Ad Deal: 'I Can't Be the Poster Boy for AI'](https://news.ycombinator.com/item?id=48764326)**
+**[President pardons 9 for Clean Air violations for 'fixing their car'](https://news.ycombinator.com/item?id=48791091)**
 
-Weird Al Yankovic revealed he was offered “a nice pile of money” to appear in a commercial but backed out after realizing it would involve AI.
-
-⬆️ 74 • 💬 46 • 2d ago • [Variety](https://variety.com/2026/biz/news/weird-al-yankovic-rejected-ai-commercial-money-offer-1236800794/)
+⬆️ 75 • 💬 43 • 8h ago • [msn.com](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
 
 ---
 
@@ -281,7 +279,7 @@ Really American Host Steve Harness Breaks Down Trump HUMILIATED By Viral July 4t
 
 📺 Really American
 
-👁️ 283K • 👍 14K • 💬 675 • ⏱️ 9:00 • 20h ago
+👁️ 283K • 👍 14K • 💬 675 • ⏱️ 9:00 • 21h ago
 
 ---
 
@@ -291,7 +289,7 @@ FREE GUIDES + FOLLOW ALONG Join free here: https://links.stayingahead.com/YT55 Y
 
 📺 Vaibhav Sisinty
 
-👁️ 14K • 👍 574 • 💬 28 • ⏱️ 26:16 • 4h ago
+👁️ 14K • 👍 574 • 💬 28 • ⏱️ 26:16 • 6h ago
 
 ---
 
@@ -301,7 +299,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 22K • 👍 974 • 💬 137 • ⏱️ 13:32 • 12h ago
+👁️ 22K • 👍 974 • 💬 137 • ⏱️ 13:32 • 13h ago
 
 ---
 
@@ -311,7 +309,7 @@ A global power struggle is emerging over artificial intelligence, as governments
 
 📺 Sky News
 
-👁️ 27K • 👍 454 • 💬 121 • ⏱️ 5:40 • 18h ago
+👁️ 27K • 👍 454 • 💬 121 • ⏱️ 5:40 • 19h ago
 
 ---
 
@@ -341,7 +339,7 @@ Try Higgsfield and create higher-quality AI videos here → https://higgsfield.a
 
 📺 Malva AI
 
-👁️ 31K • 👍 1K • 💬 115 • ⏱️ 11:46 • 2d ago
+👁️ 31K • 👍 1K • 💬 115 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -369,7 +367,7 @@ Could foreign influence from China be slowing American AI data center projects? 
 
 📺 Deepak singh vines
 
-👁️ 5K • ⏱️ 0:32 • 1h ago
+👁️ 5K • ⏱️ 0:32 • 2h ago
 
 ---
 
@@ -653,7 +651,7 @@ MiMo Code: Where Models and Agents Co-Evolve
 
 `TypeScript` `ai` `ai-agents` `cli` `mimo` `mimo-code`
 
-⭐ 11.4k • 🔱 1.1k • 32m ago
+⭐ 11.4k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -663,7 +661,7 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 `Python` `agent-framework` `agent-governance` `agent-orchestration` `agents` `ai`
 
-⭐ 6.3k • 🔱 818 • 7h ago
+⭐ 6.3k • 🔱 818 • 9h ago
 
 ---
 
@@ -673,7 +671,7 @@ Practical patterns, starters & CLI tools for loop engineering with AI coding age
 
 `JavaScript` `agentic-ai` `ai-agents` `ai-coding` `anthropic` `automation`
 
-⭐ 5.7k • 🔱 756 • 16h ago
+⭐ 5.7k • 🔱 756 • 17h ago
 
 ---
 
