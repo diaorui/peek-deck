@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T19:50:54.660560+00:00'
+updated: '2026-07-05T21:00:57.094131+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 19:50 UTC  
+**Last Updated:** July 05, 2026 at 21:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From Booster Robotics on 𝕏: "One save. Countless hours of development.": http
 
 After designing and printing the gearbox in-house, it’s time to see how much torque it can actually handle. Early results look promising — more testing and improvements coming soon!
 
-22h ago
+1d ago
 
 ---
 
 **[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -86,7 +86,7 @@ Tried the prompt "Implement a walking sequence in the quadruped simulation" in D
 
 I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
 
-22h ago
+23h ago
 
 ---
 
@@ -112,21 +112,19 @@ From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 16h ago
+WSJ • 13h ago
 
 ---
 
-**[Etzioni on AI: Elon Musk promised humanoid robots, but China delivered](https://www.geekwire.com/2026/etzioni-on-ai-elon-musk-promised-humanoid-robots-but-china-delivered/)**
+**[Chinese firm sells hyper-real, 'always loyal' humanoid robots](https://japantoday.com/category/tech/chinese-firm-sells-hyper-real-'always-loyal'-humanoid-robots)**
 
-While American tech giants are valued for the anticipation of perfect prototypes, Chinese manufacturers are winning the robotics race by getting paid for delivery.
-
-GeekWire • 4h ago
+Japan Today • 3d ago
 
 ---
 
 **[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
 
-South China Morning Post • 11h ago
+South China Morning Post • 12h ago
 
 ---
 
@@ -134,23 +132,7 @@ South China Morning Post • 11h ago
 
 Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
 
-Fox News • 8h ago
-
----
-
-**[Autonomous robots are the next frontier in clearing underwater mines](https://www.nbcnews.com/tech/innovation/autonomous-robots-are-frontier-clearing-underwater-mines-rcna352666)**
-
-Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
-
-NBC News • 6h ago
-
----
-
-**[Here’s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments](https://finance.yahoo.com/technology/ai/articles/why-tesla-inc-tsla-top-134753521.html)**
-
-Tesla Inc. (NASDAQ:TSLA) is one of the best robotics stocks to buy. On June 25, Barclays reiterated an Equalweight rating on Tesla Inc. (NASDAQ: TSLA) and a $360 price target. The cautious outlook comes amid concerns that automotive volumes and fundamentals have taken a back seat to investor focus on future technologies. The investment bank […]
-
-Yahoo Finance • 1d ago
+Fox News • 10h ago
 
 ---
 
@@ -162,17 +144,33 @@ Futurism • 1d ago
 
 ---
 
-**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
-
-Tech Xplore • 2d ago
-
----
-
 **[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 4h ago
+IEEE Spectrum • 6h ago
+
+---
+
+**[Autonomous robots are the next frontier in clearing underwater mines](https://www.nbcnews.com/tech/innovation/autonomous-robots-are-frontier-clearing-underwater-mines-rcna352666)**
+
+Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
+
+NBC News • 8h ago
+
+---
+
+**[Here’s Why Tesla Inc. (TSLA) is a Top Robotics Stock to Buy Amid Robotaxi and Optimus Developments](https://finance.yahoo.com/technology/ai/articles/why-tesla-inc-tsla-top-134753521.html)**
+
+Tesla Inc. (NASDAQ:TSLA) is one of the best robotics stocks to buy. On June 25, Barclays reiterated an Equalweight rating on Tesla Inc. (NASDAQ: TSLA) and a $360 price target. The cautious outlook comes amid concerns that automotive volumes and fundamentals have taken a back seat to investor focus on future technologies. The investment bank […]
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Robots can now 'see' touch thanks to a new color-changing tactile sensor](https://techxplore.com/news/2026-07-robots-tactile-sensor.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -194,7 +192,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 44K • 👍 1K • 💬 245 • ⏱️ 13:32 • 21h ago
+👁️ 44K • 👍 1K • 💬 245 • ⏱️ 13:32 • 22h ago
 
 ---
 
@@ -204,7 +202,7 @@ War Robots Test Server Gameplay: NEW Ultimate RAVEN is coming to WR My War Robot
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 294 • 💬 60 • ⏱️ 14:47 • 10h ago
+👁️ 4K • 👍 294 • 💬 60 • ⏱️ 14:47 • 11h ago
 
 ---
 

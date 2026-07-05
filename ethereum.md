@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T19:50:54.657408+00:00'
+updated: '2026-07-05T21:00:57.090897+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 19:50 UTC  
+**Last Updated:** July 05, 2026 at 21:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.4%  
-**7d:** +10.4%  
-**30d:** +13.5%  
-**90d:** -20.5%  
-**1y:** -30.7%  
+**7d:** +10.2%  
+**30d:** +13.2%  
+**90d:** -20.7%  
+**1y:** -30.8%  
 
 ---
 
@@ -120,7 +120,7 @@ Ethereum basics for governments & institutions, Ethereum Institutional launched,
 
 During Q2 2026, the network processed 203,851,942 transactions, setting a new all-time high for quarterly onchain activity. This milestone is significant because transaction count remains one of the most reliable indicators of real network utilization. What's particularly noteworthy is that this record comes more than a decade after Ethereum launched. As blockchain ecosystems mature, sustaining growth becomes increasingly difficult. Yet Ethereum continues to expand its activity despite an already massive user base and one of the largest application ecosystems in crypto. The result also reflects years of continuous protocol improvements. Upgrades focused on scalability and data availability, combined with the rapid growth of Layer 2 networks, have allowed Ethereum to support significantly higher throughput while maintaining its role as the ecosystem's settlement layer. A huge thank you to the developers, validators, builders, researchers, and millions of users who continue contributing to the network every day. Milestones like this are only possible because of the strength of the broader Ethereum community. Full post: https://x.com/everstake_pool/status/2072654585022361799
 
-2d ago
+3d ago
 
 ---
 
@@ -170,7 +170,13 @@ Yahoo Finance • 2d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
+
+---
+
+**[1,768.91 | ETHUSD1 USDⓈ-Margined Perpetual Chart | Binance Futures](https://www.binance.com/en/futures/ETHUSD1)**
+
+Binance • 8h ago
 
 ---
 
@@ -178,15 +184,7 @@ markets.businessinsider.com • 17h ago
 
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
-Coinpedia • 1d ago
-
----
-
-**[Ethereum Foundation Guide Targets Government And Institutional Blockchain Use](https://www.tradingview.com/news/newsbtc:d91a07954094b:0-ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/)**
-
-The Ethereum Foundation is making a more direct case to governments and institutions. A new guide from the foundation lays out how Ethereum and EVM-based infrastructure can be used as neutral digital rails for public-sector and institutional systems.The timing is important. Tokenization, stablecoin…
-
-TradingView • 2d ago
+Coinpedia • 22h ago
 
 ---
 
@@ -202,23 +200,7 @@ FXStreet • 1d ago
 
 Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
 
-TipRanks • 9h ago
-
----
-
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices](https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs)**
-
-Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
-
-Decrypt • 3d ago
-
----
-
-**[Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse](https://www.fool.com/investing/2026/07/05/ethereum-lost-22-in-1-month-heres-why-it-could-sti/)**
-
-This coin could have a bumpy few months queued up.
-
-The Motley Fool • 20m ago
+TipRanks • 10h ago
 
 ---
 
@@ -227,6 +209,26 @@ The Motley Fool • 20m ago
 Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Lost 22% in 1 Month. Here's Why It Could Still Get Worse](https://www.fool.com/investing/2026/07/05/ethereum-lost-22-in-1-month-heres-why-it-could-sti/)**
+
+This coin could have a bumpy few months queued up.
+
+The Motley Fool • 1h ago
+
+---
+
+**[2 reasons Citi slashed its bitcoin & ethereum price targets](https://finance.yahoo.com/video/2-reasons-citi-slashed-bitcoin-120000465.html)**
+
+Citi (C) cut its 12-month bitcoin (BTC-USD) and ether (ETH-USD) price targets, citing demand and the delayed CLARITY Act.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -240,7 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 467 • 💬 59 • ⏱️ 13:11 • 7h ago
+👁️ 8K • 👍 467 • 💬 59 • ⏱️ 13:11 • 8h ago
 
 ---
 
@@ -250,7 +252,7 @@ BITCOIN SHORT SQUEEZE OVER (New Trade Setup)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 144 • 💬 18 • ⏱️ 18:40 • 1h ago
+👁️ 1K • 👍 144 • 💬 18 • ⏱️ 18:40 • 2h ago
 
 ---
 
@@ -310,7 +312,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 388 • 👍 16 • 💬 2 • ⏱️ 4:35 • 9h ago
+👁️ 388 • 👍 16 • 💬 2 • ⏱️ 4:35 • 11h ago
 
 ---
 
@@ -320,7 +322,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 104 • ⏱️ 7:59 • 14h ago
+👁️ 1K • 👍 104 • ⏱️ 7:59 • 15h ago
 
 ---
 
@@ -330,7 +332,7 @@ Have you ever wondered whether a free ETH mining Telegram bot actually works the
 
 📺 La Sala del Análisis
 
-👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 12h ago
+👁️ 2K • 👍 462 • 💬 4 • ⏱️ 4:25 • 13h ago
 
 ---
 
