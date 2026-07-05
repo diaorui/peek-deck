@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-05T13:40:54.888603+00:00'
+updated: '2026-07-05T15:13:26.922684+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 05, 2026 at 13:40 UTC  
+**Last Updated:** July 05, 2026 at 15:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From Booster Robotics on 𝕏: "One save. Countless hours of development.": http
 
 After designing and printing the gearbox in-house, it’s time to see how much torque it can actually handle. Early results look promising — more testing and improvements coming soon!
 
-16h ago
+18h ago
 
 ---
 
 **[BMW Group deploys Figure 03 humanoid](https://www.reddit.com/r/robotics/comments/1unlu7k/bmw_group_deploys_figure_03_humanoid/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -72,13 +72,13 @@ The original home of robotics! 🦞 The Massachusetts ecosystem is one of the wo
 
 Tried the prompt "Implement a walking sequence in the quadruped simulation" in Drift and ended up with this. Current progress: Basic gait working Forward motion achieved Simulation running consistently Still trying to improve stability and make the gait look more natural. Open to any suggestions on what to explore next.
 
-20h ago
+21h ago
 
 ---
 
 **[Hotel staffed entirely by robots opens next year](https://www.reddit.com/r/robotics/comments/1unbzzg/hotel_staffed_entirely_by_robots_opens_next_year/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ Tried the prompt "Implement a walking sequence in the quadruped simulation" in D
 
 I am looking for some help with servos. I need to control the brown bakelite switch via a rotary servo, using the brass switch. When the brass switch is centred, the servo needs to be centred. When the brass switch is set to 1 or 2, the servo needs to rotate 57.5 degrees clock or anticlock. The bakelite switch changes from magneto ignition to coil ignition so the changeover, switching from 1 to 2 or vice versa needs to be quick or the car will stall. Maybe a tenth of a second? Is this possible? What sort of servo do I need? Could this be done via a stepper motor or would that be too complicated? All ideas/advice welcome 😁
 
-15h ago
+17h ago
 
 ---
 
@@ -116,25 +116,25 @@ The Register • 3d ago
 
 ---
 
-**[China’s robot-run hotel opens to public in 2027](https://www.foxnews.com/tech/chinas-robot-run-hotel-opens-public-2027)**
-
-Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
-
-Fox News • 2h ago
-
----
-
 **[Autonomous robots are the next frontier in clearing underwater mines](https://www.nbcnews.com/tech/innovation/autonomous-robots-are-frontier-clearing-underwater-mines-rcna352666)**
 
 Amid concerns over the possibility of mines in the Strait of Hormuz, robots are offering a safer option to assess risks in the water.
 
-NBC News • 40m ago
+NBC News • 2h ago
+
+---
+
+**[Chinese team defends RoboCup 2026 title as embodied AI in sports draws global attention](https://www.globaltimes.cn/page/202607/1365191.shtml)**
+
+China's THU Huoshen Team from Tsinghua University has successfully defended its Humanoid League crown at the world's largest AI robotics competition, RoboCup 2026, which concluded in Incheon, South Korea, on Sunday.
+
+Global Times • 58m ago
 
 ---
 
 **[The Quest to Make Humanoid Robots Safe Enough for Humans](https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123)**
 
-WSJ • 3h ago
+WSJ • 1d ago
 
 ---
 
@@ -144,11 +144,17 @@ Japan Today • 2d ago
 
 ---
 
-**[NASA's New Rover Proposal Uses Mars Tech for the Moon](https://spectrum.ieee.org/video-friday-nasa-lunar-rover)**
+**[Opinion | China’s next export shock is taking shape – as AI-powered robots](https://www.scmp.com/opinion/china-opinion/article/3359052/china-shock-30-coming-and-itll-be-ai-powered-robots)**
 
-Your weekly selection of awesome robot videos
+South China Morning Post • 6h ago
 
-IEEE Spectrum • 3d ago
+---
+
+**[China’s robot-run hotel opens to public in 2027](https://www.foxnews.com/tech/chinas-robot-run-hotel-opens-public-2027)**
+
+Pudu Robotics plans to open a full-scenario robot hotel in Shenzhen by 2027, with robot check-in and autonomous delivery trials starting late 2026.
+
+Fox News • 4h ago
 
 ---
 
@@ -156,7 +162,7 @@ IEEE Spectrum • 3d ago
 
 Tesla Inc. (NASDAQ:TSLA) is one of the best robotics stocks to buy. On June 25, Barclays reiterated an Equalweight rating on Tesla Inc. (NASDAQ: TSLA) and a $360 price target. The cautious outlook comes amid concerns that automotive volumes and fundamentals have taken a back seat to investor focus on future technologies. The investment bank […]
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,14 +180,6 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Small Business Tech News: Big Brands Rolling Out Robotics And Rolling Back AI](https://www.forbes.com/sites/quickerbettertech/2026/07/05/small-business-tech-news-big-brands-rolling-out-robotics-and-rolling-back-ai/)**
-
-GM, Santander and other companies are expanding robotics and AI, but other companies are having doubts.
-
-Forbes • 2h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,7 +190,7 @@ China just revealed the U-World U1, a full-size ultra-bionic humanoid robot buil
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 177 • ⏱️ 13:32 • 15h ago
+👁️ 29K • 👍 1K • 💬 177 • ⏱️ 13:32 • 16h ago
 
 ---
 
@@ -242,7 +240,7 @@ The future of humanoid robots has officially arrived. UBTECH has unveiled the UW
 
 📺 DPCcars
 
-👁️ 92K • 👍 373 • 💬 190 • ⏱️ 2:50 • 2d ago
+👁️ 92K • 👍 373 • 💬 190 • ⏱️ 2:50 • 3d ago
 
 ---
 

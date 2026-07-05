@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-05T13:40:54.880087+00:00'
+updated: '2026-07-05T15:13:26.913571+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 13:40 UTC  
+**Last Updated:** July 05, 2026 at 15:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,690.44
+### $62,847.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +4.1%  
-**30d:** +2.9%  
-**90d:** -12.9%  
-**1y:** -42.6%  
+**24h:** -0.1%  
+**7d:** +4.3%  
+**30d:** +3.2%  
+**90d:** -12.7%  
+**1y:** -42.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The U.S. holds 2.8× more Bitcoin than all other countries combined](https://www.reddit.com/r/Bitcoin/comments/1una1bh/the_us_holds_28_more_bitcoin_than_all_other/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I think he's gonna make it.
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +95,7 @@ I think he's gonna make it.
 
 Just had the Bitcoin Steakburger from Steak N Shake and it did not disappoint. Grass-fed beef patties with beef tallow fries/tots.
 
-20h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Is it me or is the most compelling, motivating, and greatest achievement of my l
 
 every red day, same ritual.. open the app, close it, open it again five minutes later like the number's going to say something different. it never does. it's just price reacting to fear, same as always. people who did fine through past cycles weren't the ones checking constantly. they decided once and mostly looked away
 
-16h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ every red day, same ritual.. open the app, close it, open it again five minutes 
 
 I've been buying some BTC over the past few months, but I keep everything on Crypto.com. I don't really know how a cold wallet works or whether I actually need one. I'm just looking for some advice from real Bitcoiners.
 
-22h ago
+1d ago
 
 ---
 
@@ -157,7 +157,7 @@ Bitcoin! Bitcoin! Bitcoin!
 
 Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.
 
-CoinDesk • 7h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,9 +169,17 @@ Fox Business • 2d ago
 
 ---
 
-**[Bitcoin's Entire Return Hinges On Just 10 Days A Year, Says BitMine’s Tom Lee](https://finance.yahoo.com/markets/crypto/articles/bitcoins-entire-return-hinges-just-115422055.html)**
+**[ByteTree Warns AI Rally Is A 1999 Rerun, Groups Bitcoin With Inflation-Era Hard Assets](https://finance.yahoo.com/markets/crypto/articles/bytetree-warns-ai-rally-1999-131155485.html)**
 
-Lee stated the Ethereum treasury business has $600 million in cash, staked 80% of its ETH, and earns over $250 million in staking incentives.
+Despite its zero ByteTrend score, ByteTree indicated the Bitcoin network is strong with weekly on-chain transaction value at $13.5 billion, five times 2022 levels.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Trump Crypto Profits Hit $1B as Bitcoin Crashes 50% From Its ATH](https://finance.yahoo.com/markets/crypto/articles/trump-crypto-profits-hit-1b-131356915.html)**
+
+President Trump and family crypto ventures cleared more than $1 billion in 2025, according to his latest federal financial disclosure. It was the same year that Bitcoin crashed more than 50% from its $126,000 all-time high, erasing every gain retail investors captured during the post-election euphoria. Market Cap 24h 7d ...
 
 Yahoo Finance • 1h ago
 
@@ -179,15 +187,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin trades above $62K as U.S. crypto bill gains fresh traction](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-above-62k-as-us-crypto-bill-gains-fresh-traction-4775415)**
 
-Investing.com • 3h ago
-
----
-
-**[Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.](https://www.fool.com/investing/2026/07/04/strategy-major-shake-up-bitcoin-mstr-stock/)**
-
-The bulls will view the latest development as a positive move that expands management's ability to respond to changing market conditions.
-
-The Motley Fool • 14h ago
+Investing.com • 5h ago
 
 ---
 
@@ -201,15 +201,23 @@ Investing.com • 1d ago
 
 Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[Bitcoin ETFs Just Had Their Worst Month Ever. Here's Why I'm Not Worried About Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-just-had-worst-141200170.html)**
+**[Bitcoin Rebounds Toward $63,000, But ETF Flows Still Hold The Key](https://www.tradingview.com/news/newsbtc:0f373049e094b:0-bitcoin-rebounds-toward-63-000-but-etf-flows-still-hold-the-key/)**
 
-Bitcoin ETF inflows are likely to return as soon as the price of Bitcoin stabilizes.
+Bitcoin has started the new week with a little more colour on the screen. After sliding through the kind of levels that usually trigger forced caution across the market, BTC has pushed back toward the $63,000 area, giving bulls something to work with again.That does not mean the stress has disappea…
 
-Yahoo Finance • 1d ago
+TradingView • 1h ago
+
+---
+
+**[Better Crypto for a $500 Investment: Bitcoin vs. Dogecoin](https://www.fool.com/investing/2026/07/04/better-crypto-500-investment-bitcoin-vs-dogecoin/)**
+
+These are two of the most popular digital assets on the market.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -218,14 +226,6 @@ Yahoo Finance • 1d ago
 The U.S. economy has delivered bad news for the bitcoin price and crypto market...
 
 Forbes • 1d ago
-
----
-
-**[Bitcoin Just Survived A 'Hostile Takeover' Attempt, Say Michael Saylor And David Bailey — Here's What Happened](https://www.tradingview.com/news/stocktwits:ebf8dc018094b:0-bitcoin-just-survived-a-hostile-takeover-attempt-say-michael-saylor-and-david-bailey-here-s-what-happened/)**
-
-The hotly debated soft fork BIP-110 proposal has failed to garner any major network support ahead of its activation deadline, with Strategy (MSTR) Executive Chairman Michael Saylor and Nakamoto (NAKA) CEO David Bailey posting their support for Bitcoin’s (BTC) governance model over the weekend.“Hard…
-
-TradingView • 3h ago
 
 ---
 
@@ -239,7 +239,7 @@ ZeroNet is a decentralized network that enables dynamic sites, such as blogs and
 A moot point is that Bitcoin addresses are case-sensitive, and people are used to addresses being case-insensitive. Mistakes happen, and sometimes the only trail you have is a lower-cased address, like 1lbcfr7sahtd9cgdqo3htmtkv8lk4znx71.
 Losing valuable information is a bad thing when you’re an archivist. Have we really lost access to the site if we only know the lower-cased address? Can we recover the original address somehow?
 
-⬆️ 13 • 💬 1 • 14h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
+⬆️ 13 • 💬 2 • 16h ago • [purplesyringa's blog](https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/)
 
 ---
 
@@ -285,7 +285,7 @@ Strategy continues its shift away from aggressive Bitcoin accumulation as market
 
 How soon we forget that cryptocurrencies were given life by the instability of fiat currencies.
 
-⬆️ 1 • 💬 0 • 5d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
+⬆️ 1 • 💬 0 • 6d ago • [Forbes](https://www.forbes.com/sites/johntamny/2026/06/28/sorry-but-theres-nothing-stable-about-bitcoins-or-stablecoins/)
 
 ---
 
@@ -301,7 +301,7 @@ When a coding agent explores a large codebase, is text search enough — or does
 
 Create HTTP endpoints quickly using files. Contribute to tanrax/bitpoint development by creating an account on GitHub.
 
-⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/tanrax/bitpoint)
+⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/tanrax/bitpoint)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin is flashing multiple signals that have marked major turning points in pa
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 986 • 💬 146 • ⏱️ 16:52 • 20h ago
+👁️ 10K • 👍 986 • 💬 146 • ⏱️ 16:52 • 22h ago
 
 ---
 
@@ -335,7 +335,7 @@ Follow Gary on YouTube: https://www.youtube.com/@garycardone Follow Gary on X: h
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 276 • ⏱️ 53:28 • 19h ago
+👁️ 22K • 👍 1K • 💬 276 • ⏱️ 53:28 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin didn't crash because the system broke, it crashed because that's exactly
 
 📺 The Infographics Show
 
-👁️ 194K • 👍 5K • 💬 1K • ⏱️ 18:41 • 22h ago
+👁️ 194K • 👍 5K • 💬 1K • ⏱️ 18:41 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Subscribe. Before the money moves. Law enforcement opposition to the CLARITY Act
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 223 • 💬 99 • ⏱️ 16:38 • 15h ago
+👁️ 3K • 👍 223 • 💬 99 • ⏱️ 16:38 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ Take Control of Your Money Easily with Rumble Wallet. Download now at http://wal
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 3K • 💬 364 • ⏱️ 15:57 • 22h ago
+👁️ 54K • 👍 3K • 💬 364 • ⏱️ 15:57 • 23h ago
 
 ---
 
@@ -395,7 +395,7 @@ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com Trading View - Using 
 
 📺 Stocks with Josh
 
-👁️ 18K • 👍 1K • 💬 78 • ⏱️ 10:20 • 14h ago
+👁️ 18K • 👍 1K • 💬 78 • ⏱️ 10:20 • 15h ago
 
 ---
 

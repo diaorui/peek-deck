@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T13:40:54.885631+00:00'
+updated: '2026-07-05T15:13:26.919530+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 13:40 UTC  
+**Last Updated:** July 05, 2026 at 15:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +9.3%  
-**30d:** +12.3%  
-**90d:** -21.4%  
-**1y:** -31.4%  
+**24h:** -0.7%  
+**7d:** +10.0%  
+**30d:** +13.0%  
+**90d:** -20.9%  
+**1y:** -30.9%  
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 1d ago
 
 Tom Lee expects Ethereum to outperform Bitcoin in the second half of 2026. Lee continues to defend his long-term Ethereum thesis. Lee's $62,000 Ethereum scenario ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 1d ago
 
 Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -226,7 +226,7 @@ Yahoo Finance • 2d ago
 
 The Ethereum Foundation is positioning itself for long-term success, and that's a good thing.
 
-The Motley Fool • 2h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 1K • 👍 111 • 💬 13 • ⏱️ 13:11 • 55m ago
+👁️ 1K • 👍 111 • 💬 13 • ⏱️ 13:11 • 2h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 175 • 👍 15 • 💬 10 • ⏱️ 4:35 • 3h ago
+👁️ 175 • 👍 15 • 💬 10 • ⏱️ 4:35 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 154 • 💬 116 • ⏱️ 18:59 • 21h ago
+👁️ 4K • 👍 154 • 💬 116 • ⏱️ 18:59 • 22h ago
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 96 • ⏱️ 7:59 • 8h ago
+👁️ 1K • 👍 96 • ⏱️ 7:59 • 9h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 370 • 💬 230 • ⏱️ 22:32 • 18h ago
+👁️ 7K • 👍 370 • 💬 230 • ⏱️ 22:32 • 19h ago
 
 ---
 
