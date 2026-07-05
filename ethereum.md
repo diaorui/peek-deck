@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-05T16:34:23.361344+00:00'
+updated: '2026-07-05T18:03:30.860000+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 05, 2026 at 16:34 UTC  
+**Last Updated:** July 05, 2026 at 18:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,776.79
+### $1,776.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +9.9%  
-**30d:** +13.0%  
-**90d:** -20.9%  
-**1y:** -31.0%  
+**24h:** -0.8%  
+**7d:** +10.3%  
+**30d:** +13.4%  
+**90d:** -20.6%  
+**1y:** -30.8%  
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin Suisse has been active in the institutional crypto industry since its early stage and one of the oldest and largest crypto financial service providers, established in Switzerland in 2013.Bitcoin Suisse facilitated the original Ethereum Foundation crowd sale in 2014, introduced a Swiss-Franc-backed stablecoin (XCHF) in 2018, launched one of the world's first Ethereum staking services during the beacon chain launch in 2020, and brought enterprise-grade liquid staking to the Swiss market via Liquid Collective in 2023. This migration to Obol Distributed Validators represents the next evolution of Bitcoin Suisse's staking infrastructure and reflects the firm's view of where institutional Ethereum staking is heading. Full write up: https://blog.obol.org/bitcoin-suisse-goes-all-in/
 
-2d ago
+3d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2d ago
 
 MONACO , July  04, 2026  (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy,...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -179,6 +179,12 @@ markets.businessinsider.com • 13h ago
 After weeks of relentless selling, the crypto market is finally showing signs of stabilizing. While prices have bounced from recent lows, Santiment
 
 Coinpedia • 1d ago
+
+---
+
+**[1,768.91 | ETHUSD1 USDⓈ-Margined Perpetual Chart | Binance Futures](https://www.binance.com/en/futures/ETHUSD1)**
+
+Binance • 5h ago
 
 ---
 
@@ -202,7 +208,7 @@ FXStreet • 1d ago
 
 Grayscale’s Ethereum mini vehicle sees outflow as crypto sentiment cools Grayscale Ethereum Mini Trust (ETH) saw investors pull $18.47 million on July 2, 2026, a si...
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -210,7 +216,7 @@ TipRanks • 6h ago
 
 Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -219,14 +225,6 @@ Decrypt • 2d ago
 Bitcoin opened at $61,492.99 on Friday, July 3, 2026, up 2.5% from Thursday's opening price. The value of bitcoin rose to $61,853.72 by 8:45 a.m. ET. Ethereum opened at $1,698.37 on Friday, up 5.6% from Thursday's opening price. The value of ethereum moved up to $1,731.87 as of 8:45 a.m. ET.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Is Ethereum in Trouble or Not? Major Changes at the Ethereum Foundation Are Bullish For ETH.](https://www.fool.com/investing/2026/07/05/is-ethereum-in-trouble-or-not-major-changes-at-the/)**
-
-The Ethereum Foundation is positioning itself for long-term success, and that's a good thing.
-
-The Motley Fool • 5h ago
 
 ---
 
@@ -240,7 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 4K • 👍 314 • 💬 46 • ⏱️ 13:11 • 3h ago
+👁️ 4K • 👍 314 • 💬 46 • ⏱️ 13:11 • 5h ago
 
 ---
 
@@ -260,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 280 • 👍 18 • 💬 10 • ⏱️ 4:35 • 6h ago
+👁️ 280 • 👍 18 • 💬 10 • ⏱️ 4:35 • 8h ago
 
 ---
 
@@ -300,7 +298,7 @@ Tom Lee just bought $40M of Ethereum (when it's down almost 50% in 6 months) "To
 
 📺 Prof G Markets
 
-👁️ 41K • 👍 400 • 💬 107 • ⏱️ 0:58 • 1d ago
+👁️ 41K • 👍 400 • 💬 107 • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -310,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 363 • 👍 41 • ⏱️ 7:58 • 3h ago
+👁️ 363 • 👍 41 • ⏱️ 7:58 • 4h ago
 
 ---
 
@@ -320,7 +318,7 @@ BITCOIN SHORT SQUEEZE CONFIRMED (Don't Be Fooled)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 386 • 💬 211 • ⏱️ 22:32 • 20h ago
+👁️ 8K • 👍 386 • 💬 211 • ⏱️ 22:32 • 22h ago
 
 ---
 
@@ -330,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 100 • ⏱️ 7:59 • 10h ago
+👁️ 1K • 👍 100 • ⏱️ 7:59 • 12h ago
 
 ---
 
